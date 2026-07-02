@@ -12,6 +12,9 @@ A 2017 article and later commercial listing report 503 Main was constructed in 1
 ## 1940s–1950s
 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe. Matchbooks document J. Jager and Larry's Kwality Cafe at 503 Main.
 
+## 1971 memory / later recollection
+A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
+
 ## Late 1967–1968
 The original Harding Building at 507 was reportedly destroyed by fire. The replacement building was completed in 1968.
 
@@ -25,7 +28,7 @@ Ray Hansen owned the 505 business before Dick and Sheila. Bartender Willie worke
 During Ray Grisham's years and the early Dick and Sheila years, Victor independently managed the restaurant portion.
 
 ## March 1991–March 2004
-Mitch Young owned and operated the 505 Main Street business. This was confirmed directly by Mitch Young. The exact legal/trade name during this period remains an open question and should not automatically be equated with The Wheel unless documentary evidence supports that name.
+Mitch Young owned and operated the 505 Main Street business / The 505. This was confirmed directly by Mitch Young. The exact legal/trade name during this period remains an open question and should not automatically be equated with The Wheel unless documentary evidence supports that name.
 
 ## Building Footprint / Rear Addition Question
 The rear portion of 505 may have been added later, based on family/oral history. There is also an unresolved physical-boundary question: 505 may extend farther back than 503, while 503 may be somewhat wider. Tax records, assessor sketches, Sanborn maps, permits, deeds, and measurements should be used to test this.
