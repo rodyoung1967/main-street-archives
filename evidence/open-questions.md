@@ -3,13 +3,20 @@
 - Was 503 Main originally built in 1919, or was 1919 a major rebuild/remodel date?
 - When exactly were 503 and 505 constructed?
 - When was the rear portion of 505 added?
+- Did 505 Main historically extend farther back than 503 Main, and if so when did that condition begin?
+- Is 503 Main wider than 505 Main, or is that only an apparent/field condition?
+- What are the exact legal parcel, wall, and building-boundary relationships between 503 and 505 Main?
 - Who was J. Jager?
 - What was Larry's full name?
 - Is there a Morton, Washington connection to J. Jager or Larry?
-- When did Kwality Cafe become Larry's Kwality Cafe?
+- When did Kwality Cafe become New Kwality Cafe and/or Larry's Kwality Cafe?
 - Was 'The Wheel Tavern' ever an official name, or just journalistic shorthand?
+- During Mitch Young's March 1991–March 2004 ownership/operation period, what was the exact legal and trade name of the 505 business?
+- Was The Wheel formally located at 503 Main, 505 Main, or across both addresses?
 - What are the exact dates for Ray Hansen, Dick and Sheila, Ray Grisham, and Victor?
-- Are Ray Hansen and Ray Grisham separate people in the timeline?
+- Are Ray Hansen and Ray Grisham separate people in the timeline, alternate names, or a memory/transcription conflict?
 - What was Willie's full name?
 - What was Victor's full name?
 - What was the exact date and cause of the Harding Building fire?
+- What do tax statements, assessor records, deeds, Sanborn maps, and permits say about construction dates, additions, remodels, parcel boundaries, and ownership history?
+- What are the documentary ownership dates for the Young, Grisham, and Wiitanen family connections to 503 and/or 505 Main?
