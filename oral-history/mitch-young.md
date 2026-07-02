@@ -5,14 +5,20 @@
 - Oral history ID: `OH-001`
 - Person ID: `P-011`
 - Related building: `B-002`
-- Related businesses: `BUS-004`, `BUS-005`
-- Related evidence: `E-004`
+- Related businesses: `BUS-009`, `BUS-004`, `BUS-005`
+- Related evidence: `E-004`, `E-014`
 
 ## Testimony Summary
 
-Mitch Young directly confirmed that he owned and operated the 505 Main Street business from March 1991 to March 2004.
+Mitch Young directly confirmed that he owned and operated the **505 Main Street business / The 505** from **March 1991 to March 2004**.
 
 This testimony should be treated as high-confidence evidence for Mitch's ownership/operation dates and the 505 Main Street business context. It should not, by itself, be treated as proof that the formal legal or trade name was The Wheel, The Wheel Tavern, 505 Tavern, or any other exact name during the entire period.
+
+## Location Handling
+
+The correct confirmed location for this testimony is **505 Main Street, Oregon City, Oregon**.
+
+Archive rule: keep this testimony attached primarily to `BUS-009` / The 505 unless documents later prove that The Wheel, 505 Tavern, or another name was the formal trade name during some or all of the March 1991-March 2004 period.
 
 ## Evidence Status
 
@@ -24,6 +30,7 @@ This testimony should be treated as high-confidence evidence for Mitch's ownersh
 ## Related Archive Pages
 
 - [505 Main Street](../buildings/505-main.md)
+- [The 505](../businesses/the-505.md)
 - [The Wheel](../businesses/the-wheel.md)
 - [People Index](../people/people-index.md)
 - [Evidence Register](../evidence/evidence-register.md)
@@ -32,8 +39,8 @@ This testimony should be treated as high-confidence evidence for Mitch's ownersh
 ## Follow-Up Interview Questions
 
 - What was the exact legal business name during Mitch Young's ownership?
-- Was the business known officially as The Wheel, The Wheel Tavern, The 505, 505 Tavern, or another name?
-- Was the business legally tied to 503 Main, 505 Main, or both addresses?
+- Was the business known officially as The 505, 505 Tavern, The Wheel, The Wheel Tavern, or another name?
+- Was the business legally tied to 505 Main only, 503 Main, or both addresses?
 - Who owned or operated the business immediately before March 1991?
 - Who owned or operated the business immediately after March 2004?
 - What was the relationship between any bar operation and restaurant operation?
