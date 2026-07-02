@@ -1,0 +1,26 @@
+# IDE
+.idea/
+
+# Archives
+*.zip
+*.tar.gz
+*.tar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Node (if used)
+node_modules/
+npm-debug.log
