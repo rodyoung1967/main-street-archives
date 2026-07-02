@@ -11,3 +11,15 @@ URL: https://www.matchcovercollector.com/matchcover-category/food/food-rest/food
 
 ## S-004 — 505 Tavern / Thirsty Duck article
 URL: https://milwaukiereview.com/2017/08/18/newest-old-bar-in-clackamas-county-reopens-in-oregon-city/
+
+## S-005 — Mitch Young direct oral history
+URL: Internal oral-history note, `oral-history/mitch-young.md`
+
+## S-006 — Young family ownership / stewardship context
+URL: Internal family/project provenance note; formal source file pending.
+
+## S-007 — Tax statement / tax record materials
+URL: Pending archive import/transcription. Use for tax statements, assessor records, parcel descriptions, assessed improvements, and possible construction/addition clues.
+
+## S-008 — 503 / 505 building footprint field observation
+URL: Internal owner observation; measurements, assessor sketches, Sanborn maps, deeds, and permits needed for confirmation.
