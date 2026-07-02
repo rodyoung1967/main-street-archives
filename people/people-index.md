@@ -12,10 +12,14 @@
 | P-008 | Sheila | Owner | Owned after Ray Hansen with Dick. |
 | P-009 | Willie | Bartender | Heavyset bartender; worked under Ray Hansen and Dick and Sheila. |
 | P-010 | Victor | Restaurant manager | Independently managed restaurant during Ray Grisham era and early Dick and Sheila years. |
-| P-011 | [Mitch Young](profiles/mitch-young.md) | Owner/operator | Owned and operated the 505 Main Street business, March 1991–March 2004; exact legal/trade name needs confirmation. |
+| P-011 | [Mitch Young](profiles/mitch-young.md) | Owner/operator | Owned and operated the 505 Main Street business / The 505, March 1991-March 2004; exact legal/trade name needs confirmation. |
 | P-012 | Mike Berman | Later owner | Sold 505 Tavern in 2017. |
 | P-013 | Scott Forvilly | Later owner | Purchased in 2017 and reopened as Thirsty Duck. |
-| P-014 | Rodney Young | Current owner / project steward | Current owner of 505 Main Street and steward of this archive. |
+| P-014 | Rodney Young | Current owner / project steward | Current owner/steward of 505 Main Street and the archive. Managing member/signatory context appears in 2025 505 lease record. |
 | P-015 | Young family | Family ownership context | Family connected to 503 and 505 Main Street; parents and earlier grandparents connected to 503 Main. |
 | P-016 | Grisham family | Family history context | Family name connected to the 503/505 Main Street property history. |
-| P-017 | Wiitanen family | Family history context | Family name connected to the 503/505 Main Street property history. |
+| P-017 | Wiitanen family | Family history context requiring review | Earlier archive note connected Wiitanen to the property history; later correction needs reconciliation against Lafarlette/Grisham records. |
+| P-018 | Mitchell C. Young | 505 LLC managing member / historical participant | Managing member/signatory context appears in 2025 505 lease; also source of family/oral-history questions about 505. |
+| P-019 | Alin Guria | 2025 lessee | Lessee in 2025 commercial lease for 505 Main Street. |
+| P-020 | Skyline Property Management | Property manager / authorized agent | Property manager and authorized agent in 2025 commercial lease for 505 Main Street. |
+| P-021 | Lafarlette family | Family history context requiring documentation | Later correction identifies Lafarlette and Grisham as corrected family-name context; needs documentary tie-in and spelling confirmation. |
