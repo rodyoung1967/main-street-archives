@@ -18,8 +18,8 @@ Confidence: Very High.
 
 ## E-004 — Mitch Young Direct Testimony
 Type: Primary participant testimony  
-Claims: Mitch Young owned and operated The Wheel from March 1991 to March 2004.  
-Confidence: Very High.
+Claims: Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004. The exact legal/trade name during that period still needs documentary confirmation and should not automatically be equated with The Wheel unless supported by primary records.  
+Confidence: Very High for Mitch's ownership/operation dates; unresolved for exact formal business name.
 
 ## E-005 — Ray Hansen Ownership
 Type: Family/oral history  
@@ -40,3 +40,23 @@ Confidence: High, pending full identification.
 Type: Secondary source  
 Claims: Mike Berman sold the business; Scott Forvilly purchased it; it reopened as Thirsty Duck in 2017.  
 Confidence: Strong for 2017 transition.
+
+## E-009 — Young Family Ownership / Stewardship Context
+Type: Family/oral history / project provenance  
+Claims: Rodney Young currently owns 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Family names connected to the property history include Grisham and Wiitanen.  
+Confidence: High as family/project provenance; documentary confirmation still desirable for formal ownership dates.
+
+## E-010 — 505 Rear Addition Recollection
+Type: Family/oral history  
+Claims: Mitch Young recalled or reported that the rear portion of the 505 building may have been added later.  
+Confidence: Moderate to High as oral history; needs confirmation through permits, assessor sketches, Sanborn maps, tax records, or physical building analysis.
+
+## E-011 — 503 / 505 Footprint and Width Uncertainty
+Type: Owner observation / working research note  
+Claims: 505 may extend farther back than 503, while 503 may be somewhat wider. The exact legal, physical, and historical boundary between the two buildings is unresolved.  
+Confidence: Moderate as field/owner observation; needs confirmation through tax maps, assessor sketches, deeds, Sanborn maps, and measurements.
+
+## E-012 — Tax Statement / Tax Record Materials
+Type: Primary or administrative record, pending transcription  
+Claims: Tax statements and related tax record materials may help establish parcel descriptions, assessed improvements, building footprint, construction dates, remodel/addition clues, and ownership history for 503 and 505 Main Street.  
+Confidence: Pending extraction/transcription; should be linked to specific uploaded images or documents when added to the archive.
