@@ -9,5 +9,6 @@ Structured YAML files will eventually hold the archive's canonical data:
 - `evidence.yml`
 - `sources.yml`
 - `artifacts.yml`
+- `oral-history.yml`
 
 For now, Markdown files are the working source of truth.

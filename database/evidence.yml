@@ -1,0 +1,109 @@
+evidence:
+  - id: E-001
+    name: White Rabbit Black Ink Article
+    type: Secondary source
+    claims:
+      - 503 Main constructed in 1919.
+      - 503 Main originally housed Kwality Cafe.
+      - 503 Main later became "The Wheel Tavern."
+    confidence: Moderate for 1919; strong for Kwality connection; weak for exact "The Wheel Tavern" wording.
+    related_sources:
+      - S-001
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-001
+      - BUS-004
+
+  - id: E-002
+    name: New Kwality Cafe Matchbook
+    type: Primary artifact
+    claims:
+      - New Kwality Cafe operated at 503 Main St.
+      - J. Jager was proprietor.
+      - The matchbook includes the phrase "We Never Close."
+    confidence: Very High
+    related_sources:
+      - S-002
+    related_artifacts:
+      - A-001
+
+  - id: E-003
+    name: Larry's Kwality Cafe Matchbook
+    type: Primary artifact
+    claims:
+      - Larry's Kwality Cafe operated at 503 Main Street.
+      - The listed telephone number was 6106.
+      - The business advertised merchant lunches, steaks, and chops.
+    confidence: Very High
+    related_sources:
+      - S-003
+    related_artifacts:
+      - A-002
+
+  - id: E-004
+    name: Mitch Young Direct Testimony
+    type: Primary participant testimony
+    claims:
+      - Mitch Young owned and operated The Wheel from March 1991 to March 2004.
+    confidence: Very High
+    related_people:
+      - P-011
+    related_businesses:
+      - BUS-004
+    related_oral_history:
+      - OH-001
+
+  - id: E-005
+    name: Ray Hansen Ownership
+    type: Family/oral history
+    claims:
+      - Ray Hansen owned the 505 business before Dick and Sheila.
+    confidence: High, pending documentary confirmation
+    related_people:
+      - P-005
+      - P-007
+      - P-008
+    related_buildings:
+      - B-002
+
+  - id: E-006
+    name: Willie Bartender
+    type: Family/oral history
+    claims:
+      - Willie worked as bartender under Ray Hansen and later under Dick and Sheila.
+    confidence: High, pending full identification
+    related_people:
+      - P-005
+      - P-007
+      - P-008
+      - P-009
+
+  - id: E-007
+    name: Victor Restaurant Manager
+    type: Family/oral history
+    claims:
+      - Victor independently managed the restaurant during Ray Grisham's years and early Dick and Sheila years.
+    confidence: High, pending full identification
+    related_people:
+      - P-006
+      - P-007
+      - P-008
+      - P-010
+
+  - id: E-008
+    name: 2017 505 Tavern / Thirsty Duck Article
+    type: Secondary source
+    claims:
+      - Mike Berman sold the business.
+      - Scott Forvilly purchased it.
+      - The business reopened as Thirsty Duck in 2017.
+    confidence: Strong for 2017 transition
+    related_sources:
+      - S-004
+    related_people:
+      - P-012
+      - P-013
+    related_businesses:
+      - BUS-005
+      - BUS-006

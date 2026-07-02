@@ -1,0 +1,28 @@
+buildings:
+  - id: B-001
+    name: 503 Main Street
+    address: 503 Main Street, Oregon City, Oregon
+    notes: Associated with Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and later The Wheel.
+    related_businesses:
+      - BUS-001
+      - BUS-002
+      - BUS-003
+      - BUS-004
+
+  - id: B-002
+    name: 505 Main Street
+    address: 505 Main Street, Oregon City, Oregon
+    notes: Associated with 505 Tavern, The Wheel, and later Thirsty Duck.
+    related_businesses:
+      - BUS-004
+      - BUS-005
+      - BUS-006
+
+  - id: B-003
+    name: 507 Main Street / Harding Building
+    address: 507 Main Street, Oregon City, Oregon
+    notes: Original Harding Building reportedly destroyed by fire around late 1967 or early 1968; replacement completed in 1968.
+    related_businesses:
+      - BUS-007
+      - BUS-008
+

@@ -1,0 +1,108 @@
+people:
+  - id: P-001
+    name: George A. Harding
+    role: Druggist / civic leader
+    notes: Associated with Harding Building and Harding Drug Store.
+    related_buildings:
+      - B-003
+    related_businesses:
+      - BUS-007
+
+  - id: P-002
+    name: Dr. Bailey
+    role: Dentist
+    notes: Documented upstairs in Harding Building in 1909.
+    related_buildings:
+      - B-003
+
+  - id: P-003
+    name: J. Jager
+    role: Proprietor
+    notes: Listed as proprietor of New Kwality Cafe on matchbook.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-002
+
+  - id: P-004
+    name: Larry
+    role: Proprietor / operator
+    notes: Associated with Larry's Kwality Cafe; surname unknown.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-003
+
+  - id: P-005
+    name: Ray Hansen
+    role: Owner
+    notes: Owned 505 business before Dick and Sheila.
+    related_buildings:
+      - B-002
+
+  - id: P-006
+    name: Ray Grisham
+    role: Owner/operator?
+    notes: Mentioned in relation to The Wheel; needs clarification vs. Ray Hansen.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-004
+
+  - id: P-007
+    name: Dick
+    role: Owner
+    notes: Owned after Ray Hansen with Sheila.
+    related_buildings:
+      - B-002
+
+  - id: P-008
+    name: Sheila
+    role: Owner
+    notes: Owned after Ray Hansen with Dick.
+    related_buildings:
+      - B-002
+
+  - id: P-009
+    name: Willie
+    role: Bartender
+    notes: Heavyset bartender; worked under Ray Hansen and Dick and Sheila.
+    related_buildings:
+      - B-002
+
+  - id: P-010
+    name: Victor
+    role: Restaurant manager
+    notes: Independently managed restaurant during Ray Grisham era and early Dick and Sheila years.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-004
+
+  - id: P-011
+    name: Mitch Young
+    role: Owner/operator
+    notes: Owned and operated The Wheel, March 1991 to March 2004.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-004
+
+  - id: P-012
+    name: Mike Berman
+    role: Later owner
+    notes: Sold 505 Tavern in 2017.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-005
+
+  - id: P-013
+    name: Scott Forvilly
+    role: Later owner
+    notes: Purchased in 2017 and reopened as Thirsty Duck.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-006
+

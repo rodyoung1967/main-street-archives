@@ -1,0 +1,76 @@
+businesses:
+  - id: BUS-001
+    name: Kwality Cafe
+    address: 503 Main
+    notes: Early cafe/restaurant occupant.
+    related_buildings:
+      - B-001
+
+  - id: BUS-002
+    name: New Kwality Cafe
+    address: 503 Main
+    notes: J. Jager, proprietor.
+    related_buildings:
+      - B-001
+    related_people:
+      - P-003
+    related_artifacts:
+      - A-001
+
+  - id: BUS-003
+    name: Larry's Kwality Cafe
+    address: 503 Main
+    notes: Telephone 6106; merchant lunches, steaks, chops.
+    related_buildings:
+      - B-001
+    related_people:
+      - P-004
+    related_artifacts:
+      - A-002
+
+  - id: BUS-004
+    name: The Wheel
+    address: 503/505 Main context
+    notes: Bar and grill; exact address/timeline to be refined.
+    related_buildings:
+      - B-001
+      - B-002
+    related_people:
+      - P-006
+      - P-010
+      - P-011
+
+  - id: BUS-005
+    name: 505 Tavern
+    address: 505 Main
+    notes: Later business name; documented in modern sources.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-012
+
+  - id: BUS-006
+    name: Thirsty Duck
+    address: 505 Main
+    notes: Opened/reopened in 2017 after sale.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-013
+
+  - id: BUS-007
+    name: Harding Drug Store
+    address: 507 Main
+    notes: Associated with George A. Harding.
+    related_buildings:
+      - B-003
+    related_people:
+      - P-001
+
+  - id: BUS-008
+    name: Tony's Restaurant
+    address: 507 Main
+    notes: Associated with Harding Building before fire.
+    related_buildings:
+      - B-003
+

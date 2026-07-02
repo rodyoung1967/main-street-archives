@@ -1,0 +1,75 @@
+timeline:
+  - id: T-001
+    date: Pre-1840s
+    summary: The site was part of the area that became Oregon City's earliest commercial district near the falls and riverfront.
+    confidence: Needs supporting evidence
+
+  - id: T-002
+    date: Late 1880s-Early 1900s
+    summary: 503 and 505 Main were previously considered likely late-1880s buildings, but this remains unproven.
+    confidence: Low, pending primary confirmation
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: T-003
+    date: 1909
+    summary: Dr. Bailey operated a dental practice upstairs in the Harding Building.
+    confidence: Needs source linkage
+    related_people:
+      - P-002
+    related_buildings:
+      - B-003
+
+  - id: T-004
+    date: 1919
+    summary: A 2017 article and later commercial listing report 503 Main was constructed in 1919.
+    confidence: Moderate, pending primary confirmation
+    related_evidence:
+      - E-001
+    related_buildings:
+      - B-001
+
+  - id: T-005
+    date: 1940s-1950s
+    summary: 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe.
+    confidence: Strong for Kwality Cafe associations; exact dates unresolved
+    related_evidence:
+      - E-002
+      - E-003
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-001
+      - BUS-002
+      - BUS-003
+
+  - id: T-006
+    date: Late 1967-1968
+    summary: The original Harding Building at 507 was reportedly destroyed by fire; the replacement building was completed in 1968.
+    confidence: Needs primary confirmation
+    related_buildings:
+      - B-003
+
+  - id: T-007
+    date: March 1991-March 2004
+    summary: Mitch Young owned and operated The Wheel.
+    confidence: Very High
+    related_evidence:
+      - E-004
+    related_people:
+      - P-011
+    related_businesses:
+      - BUS-004
+
+  - id: T-008
+    date: 2017
+    summary: 505 Tavern was sold and reopened as Thirsty Duck. White Rabbit Black Ink opened at 503 Main.
+    confidence: Strong for 505 Tavern / Thirsty Duck transition; separate support needed for White Rabbit Black Ink details
+    related_evidence:
+      - E-001
+      - E-008
+    related_businesses:
+      - BUS-005
+      - BUS-006
+

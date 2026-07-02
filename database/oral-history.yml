@@ -1,0 +1,21 @@
+oral_history:
+  - id: OH-001
+    title: Mitch Young Direct Testimony
+    person: P-011
+    related_businesses:
+      - BUS-004
+    related_evidence:
+      - E-004
+    summary: Mitch Young directly confirmed that he owned and operated The Wheel from March 1991 to March 2004.
+    evidence_type: Primary participant testimony
+    confidence: Very High
+    follow_up_questions:
+      - What was the exact legal business name during Mitch Young's ownership?
+      - Was the business known officially as The Wheel, The Wheel Tavern, or another name?
+      - Was the business legally tied to 503 Main, 505 Main, or both addresses?
+      - Who owned or operated the business immediately before March 1991?
+      - Who owned or operated the business immediately after March 2004?
+      - What was the relationship between The Wheel's bar operation and restaurant operation?
+      - Does Mitch remember Ray Hansen, Ray Grisham, Dick, Sheila, Willie, Victor, or Mike Berman?
+      - Are there surviving photographs, menus, business cards, licenses, matchbooks, advertisements, or employee records from this period?
+
