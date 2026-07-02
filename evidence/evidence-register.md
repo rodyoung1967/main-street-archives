@@ -9,11 +9,13 @@ Confidence: Moderate for 1919; strong for Kwality connection; weak for exact 'Th
 ## E-002 — New Kwality Cafe Matchbook
 Type: Primary artifact  
 Claims: New Kwality Cafe at 503 Main St.; J. Jager, Prop.; 'We Never Close.'  
+Related media: `IMG-0001`  
 Confidence: Very High.
 
 ## E-003 — Larry's Kwality Cafe Matchbook
 Type: Primary artifact  
 Claims: Larry's Kwality Cafe at 503 Main Street; telephone 6106; merchant lunches, steaks, chops.  
+Related media: `IMG-0002`  
 Confidence: Very High.
 
 ## E-004 — Mitch Young Direct Testimony
@@ -60,3 +62,10 @@ Confidence: Moderate as field/owner observation; needs confirmation through tax 
 Type: Primary or administrative record, pending transcription  
 Claims: Tax statements and related tax record materials may help establish parcel descriptions, assessed improvements, building footprint, construction dates, remodel/addition clues, and ownership history for 503 and 505 Main Street.  
 Confidence: Pending extraction/transcription; should be linked to specific uploaded images or documents when added to the archive.
+
+## E-013 — Thebeerchaser 505 Tavern Comment Screenshot
+Type: Web screenshot / public comment evidence  
+Date: 2021 comment screenshot; comment references 1971 memory  
+Claims: A commenter recalled the 505 Tavern on Main St. in connection with Publishers Paper workers and a 1971 draft-number celebration; Thebeerchaser replied with a memory of delivering the paper to the 505 and being greeted by the bartender while regulars, including Publishers workers, clapped.  
+Related media: `IMG-0003`  
+Confidence: Moderate for local memory and culture; weak to moderate for formal business chronology until corroborated by directories, business licenses, OLCC records, newspapers, or tax records.
