@@ -45,8 +45,8 @@ Confidence: Strong for 2017 transition.
 
 ## E-009 — Young Family Ownership / Stewardship Context
 Type: Family/oral history / project provenance  
-Claims: Rodney Young currently owns 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Family names connected to the property history include Grisham and Wiitanen.  
-Confidence: High as family/project provenance; documentary confirmation still desirable for formal ownership dates.
+Claims: Rodney Young currently owns 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Earlier notes mention Grisham and Wiitanen; later correction notes Lafarlette and Grisham as the corrected family-name context.  
+Confidence: High as family/project provenance; documentary confirmation still desirable for formal ownership dates and family-name reconciliation.
 
 ## E-010 — 505 Rear Addition Recollection
 Type: Family/oral history  
@@ -74,3 +74,31 @@ Confidence: Moderate for local memory and culture; weak to moderate for formal b
 Type: Project correction / direct user clarification  
 Claims: Mitch Young's confirmed ownership/operation period should be tied to the 505 Main Street business / The 505, not automatically to The Wheel. The Wheel remains a related but unresolved name/address question until primary documentation supports the exact usage.  
 Confidence: High for archive-handling rule; documentary confirmation still needed for the legal/trade name.
+
+## E-015 — Time Capsule Maps Photo Metadata: 503 / 505 / 5th-Main
+Type: Project metadata / photo metadata export  
+Claims: One photo metadata record labels The Wheel at 503 Main Street and notes 505 Tavern to the right at 505 Main Street. Another circa-1910 5th/Main record says the first building in the picture is gone and is now 503 and 505 Main; the 1925 Sanborn shows 501, 503, and 505; the 501 history is unclear; 503 was significantly modified around 2017.  
+Related media: `IMG-0004`, `IMG-0005`  
+Confidence: Moderate as project metadata; source, date, and image interpretation still need confirmation before use as primary evidence.
+
+## E-016 — Harding Building Fire Oral / Project Notes
+Type: Family/oral history / project note  
+Claims: The Harding Building at 507 Main burned in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area.  
+Confidence: Moderate to High as project/oral-history evidence; requires newspaper, fire department, permit, assessor, or city-record confirmation.
+
+## E-017 — Photo Metadata: Harding Building Replacement Note
+Type: Project metadata / photo metadata export  
+Claims: The circa-1910 5th/Main photo metadata notes that the taller Harding Building at 507 burned and was replaced by the current building.  
+Related media: `IMG-0005`  
+Confidence: Moderate as project metadata; needs primary confirmation.
+
+## E-018 — 505 Commercial Lease, 2025
+Type: Current administrative/legal record  
+Claims: 505 LLC leased 505 Main Street, Oregon City, to Alin Guria for a primary term from July 1, 2025 through June 30, 2030; base rent $2,700/month; use is Restaurant/Bar; lease includes NNN-style additional rent, taxes/assessments, utilities, insurance, liquor liability, OLCC/permit obligations, and Skyline Property Management as property manager/authorized agent.  
+Related record: `records/505-commercial-lease-2025.md`  
+Confidence: Very High for current lease facts shown in the lease document; not evidence for earlier business names.
+
+## E-019 — Family Name Correction
+Type: Project correction / direct user clarification  
+Claims: Earlier family-history context used Grisham and Wiitanen. Later correction indicates Lafarlette and Grisham as the corrected family-name context.  
+Confidence: High as an archive-handling correction; formal chain-of-title documentation still needed.
