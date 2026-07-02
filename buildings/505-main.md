@@ -3,7 +3,7 @@
 ## Archive IDs
 
 - Building ID: `B-002`
-- Related businesses: `BUS-004`, `BUS-005`, `BUS-006`, `BUS-009`
+- Related businesses: `BUS-004`, `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`
 - Related people: `P-005`, `P-006`, `P-007`, `P-008`, `P-009`, `P-010`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-016`, `P-017`, `P-018`, `P-019`, `P-020`, `P-021`
 - Related evidence: `E-004`, `E-005`, `E-006`, `E-007`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`
 - Related oral history: `OH-001`
@@ -62,7 +62,7 @@ Current handling:
 | `BUS-005` | 505 Tavern | Later business name; 2017 transition documented in secondary source; also appears in photo metadata and public-memory material. |
 | `BUS-006` | Thirsty Duck | Reopened in 2017 after purchase by Scott Forvilly. |
 | `BUS-009` | [The 505](../businesses/the-505.md) | Preferred working label for Mitch Young's March 1991-March 2004 ownership/operation testimony. |
-| TBD | Brass Rail Tavern | Reported in photo metadata as a 505 Main business name; dates and relationship to other names unresolved. |
+| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Reported in photo metadata as a 505 Main business name; dates and relationship to other names unresolved. |
 
 ## Evidence Summary
 
@@ -86,6 +86,7 @@ Current handling:
 
 - [The 505](../businesses/the-505.md)
 - [The Wheel](../businesses/the-wheel.md)
+- [Brass Rail Tavern](../businesses/brass-rail-tavern.md)
 - [Mitch Young](../people/profiles/mitch-young.md)
 - [Mitch Young Direct Testimony](../oral-history/mitch-young.md)
 - [505 Commercial Lease — 2025](../records/505-commercial-lease-2025.md)
