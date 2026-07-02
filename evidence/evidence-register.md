@@ -21,7 +21,7 @@ Confidence: Very High.
 ## E-004 — Mitch Young Direct Testimony
 Type: Primary participant testimony  
 Claims: Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004. The exact legal/trade name during that period still needs documentary confirmation and should not automatically be equated with The Wheel unless supported by primary records.  
-Confidence: Very High for Mitch's ownership/operation dates; unresolved for exact formal business name.
+Confidence: Very High for Mitch's ownership/operation dates and 505 Main Street location; unresolved for exact formal business name.
 
 ## E-005 — Ray Hansen Ownership
 Type: Family/oral history  
@@ -69,3 +69,8 @@ Date: 2021 comment screenshot; comment references 1971 memory
 Claims: A commenter recalled the 505 Tavern on Main St. in connection with Publishers Paper workers and a 1971 draft-number celebration; Thebeerchaser replied with a memory of delivering the paper to the 505 and being greeted by the bartender while regulars, including Publishers workers, clapped.  
 Related media: `IMG-0003`  
 Confidence: Moderate for local memory and culture; weak to moderate for formal business chronology until corroborated by directories, business licenses, OLCC records, newspapers, or tax records.
+
+## E-014 — 505 Location Correction / The 505 Handling Note
+Type: Project correction / direct user clarification  
+Claims: Mitch Young's confirmed ownership/operation period should be tied to the 505 Main Street business / The 505, not automatically to The Wheel. The Wheel remains a related but unresolved name/address question until primary documentation supports the exact usage.  
+Confidence: High for archive-handling rule; documentary confirmation still needed for the legal/trade name.
