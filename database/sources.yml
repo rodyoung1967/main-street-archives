@@ -15,3 +15,11 @@ sources:
     name: 505 Tavern / Thirsty Duck article
     url: https://milwaukiereview.com/2017/08/18/newest-old-bar-in-clackamas-county-reopens-in-oregon-city/
 
+  - id: S-005
+    name: User-provided Sanborn map screenshots - Main / Water / 5th / 6th block
+    url: Not yet captured; one screenshot visibly shows orcity.org.
+    local_files:
+      - maps/images/sanborn-main-water-5th-6th-detail-01.jpg
+      - maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg
+      - maps/images/sanborn-main-water-5th-6th-detail-02.jpg
+    notes: Exact Sanborn edition, date, sheet number, and source URL need confirmation.

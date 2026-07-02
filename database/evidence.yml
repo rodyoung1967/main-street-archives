@@ -107,3 +107,22 @@ evidence:
     related_businesses:
       - BUS-005
       - BUS-006
+
+  - id: E-009
+    name: Sanborn Map Image Set - Main / Water / 5th / 6th Block
+    type: Primary mapping evidence, pending source metadata
+    claims:
+      - User-provided map images show the block bounded by Main Street, Water Street, 5th Street, and 6th Street.
+      - The images include 500-block Main Street frontage relevant to 503, 505, and 507 Main.
+      - Visible map labels include restaurants, billiards and cigars, drugs, grocery, lodgings, moving pictures, club/cleaning/confectionery uses, Oregon City Laundry, auto sales, machine shop, telephone office/shop, and retail paints.
+    confidence: High that the images are relevant map evidence for the project block; low for exact date/source and address-to-business assignments until source metadata is confirmed.
+    related_sources:
+      - S-005
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    local_files:
+      - maps/images/sanborn-main-water-5th-6th-detail-01.jpg
+      - maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg
+      - maps/images/sanborn-main-water-5th-6th-detail-02.jpg

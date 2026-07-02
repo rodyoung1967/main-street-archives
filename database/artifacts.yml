@@ -3,6 +3,8 @@ artifacts:
     name: New Kwality Cafe matchbook
     type: Matchbook
     description: Matchbook for New Kwality Cafe at 503 Main St.; identifies J. Jager as proprietor and uses the phrase "We Never Close."
+    expected_local_file: artifacts/images/A-001-new-kwality-cafe-matchbook.jpg
+    local_file_status: Archived locally from user-provided image attachment on 2026-07-02
     related_evidence:
       - E-002
     related_sources:
@@ -18,6 +20,8 @@ artifacts:
     name: Larry's Kwality Cafe matchcover
     type: Matchcover
     description: Matchcover for Larry's Kwality Cafe at 503 Main Street, Oregon City; lists telephone 6106 and advertises merchant lunches, steaks, and chops.
+    expected_local_file: artifacts/images/A-002-larrys-kwality-cafe-matchcover.jpg
+    local_file_status: Archived locally from user-provided image attachment on 2026-07-02
     related_evidence:
       - E-003
     related_sources:
@@ -28,4 +32,3 @@ artifacts:
       - BUS-003
     related_people:
       - P-004
-

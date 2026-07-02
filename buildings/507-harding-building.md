@@ -5,6 +5,7 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`
 - Related people: `P-001`, `P-002`
+- Related evidence: `E-009`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
@@ -69,6 +70,14 @@ The 507 Main / Harding Building story needs more formal evidence records. High-p
 - Newspaper or fire department records for the late-1967 / early-1968 fire.
 - Permit or assessor records for the 1968 replacement building.
 - Tenant evidence for Tony's Restaurant and the bakery.
+
+## Map Evidence
+
+`E-009` is a user-provided Sanborn map image set for the Main / Water / 5th / 6th block. It may be relevant to 507 Main, Harding Drug Store, Tony's Restaurant, and other Main Street frontage uses, but the exact Sanborn edition, date, sheet number, and source URL still need confirmation.
+
+Related page:
+
+- [Sanborn Map Images](../maps/sanborn-main-water-5th-6th.md)
 
 ## Research Priorities
 

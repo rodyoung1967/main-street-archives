@@ -24,6 +24,7 @@ The New Kwality Cafe matchbook places New Kwality Cafe at 503 Main St. and ident
 
 - Evidence record: `E-002`
 - Source record: `S-002`
+- Local image: `artifacts/images/A-001-new-kwality-cafe-matchbook.jpg`
 - Related business: `BUS-002`
 - Related person: `P-003`
 - Related building: `B-001`
@@ -34,9 +35,19 @@ The Larry's Kwality Cafe matchcover places Larry's Kwality Cafe at 503 Main Stre
 
 - Evidence record: `E-003`
 - Source record: `S-003`
+- Local image: `artifacts/images/A-002-larrys-kwality-cafe-matchcover.jpg`
 - Related business: `BUS-003`
 - Related person: `P-004`
 - Related building: `B-001`
+
+## Local Image Archive
+
+Local image copies should be stored in [artifacts/images](images/README.md).
+
+Current archived filenames:
+
+- `A-001-new-kwality-cafe-matchbook.jpg`
+- `A-002-larrys-kwality-cafe-matchcover.jpg`
 
 ## Evidence Cautions
 
@@ -62,4 +73,3 @@ These artifacts strongly support the printed business names, address, proprietor
 - Does telephone 6106 appear in Oregon City telephone books?
 - Does J. Jager appear in city directories, newspapers, census records, or business licensing records?
 - Does Larry's full name appear in telephone directories, advertisements, menus, or tax records?
-

@@ -69,6 +69,7 @@ Purpose: confirm building footprints, use categories, and changes over time.
 Tasks:
 
 - Locate Sanborn maps covering Main Street in Oregon City.
+- Use the archived `S-005` / `E-009` screenshots to recover the exact `orcity.org` source page, map year, sheet number, and edition.
 - Compare 503, 505, and 507 Main across available years.
 - Note building materials, uses, rear additions, and address numbering.
 - Store map references under `maps/` and cite them in the Evidence Register.
@@ -117,4 +118,3 @@ Related lead: `RL-004`
 - Preserve source URLs and local file paths.
 - Distinguish primary documents, artifacts, direct testimony, family oral history, secondary sources, and community recollections.
 - Update related pages whenever a new finding is added.
-
