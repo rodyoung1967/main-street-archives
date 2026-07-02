@@ -1,0 +1,15 @@
+maps:
+  - source_id: S-005
+    evidence_id: E-009
+    title: Sanborn map images - Main / Water / 5th / 6th block
+    source_status: User-provided screenshots; exact source URL, Sanborn edition, and date need confirmation.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    files:
+      - maps/images/sanborn-main-water-5th-6th-detail-01.jpg
+      - maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg
+      - maps/images/sanborn-main-water-5th-6th-detail-02.jpg
+    notes: Images show the Main / Water / 5th / 6th block and 500-block Main Street frontage. Treat as map evidence with date/source metadata pending.
+
