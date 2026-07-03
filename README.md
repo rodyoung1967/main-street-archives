@@ -4,6 +4,8 @@ Working archive for the history of **503-507 Main Street, Oregon City, Oregon**.
 
 This is a citation-first local history archive. It separates buildings, businesses, people, evidence, sources, research leads, open questions, media metadata, current records, and oral history so the project can grow without losing track of what is known, what is inferred, and what still needs proof.
 
+Start here: `ARCHIVE_INDEX.md`
+
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
@@ -15,6 +17,7 @@ This is a citation-first local history archive. It separates buildings, business
 
 ## Key Files
 
+- `ARCHIVE_INDEX.md` - human-readable project index and search guide.
 - `timeline.md` - master timeline.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
