@@ -1,6 +1,6 @@
 # Photo and Metadata Register
 
-This register records image and photo-metadata items that have been discussed or uploaded for the Main Street project. Image files are not yet stored directly in this repository unless a later media-import step adds them.
+This register records image and photo-metadata items that have been discussed or uploaded for the Main Street project. When repository media files are added, this register links the image record to the stored copy and any sidecar metadata.
 
 ## IMG-0001 — New Kwality Cafe Matchbook
 
@@ -9,7 +9,9 @@ This register records image and photo-metadata items that have been discussed or
 - Related business: New Kwality Cafe
 - Evidence: `E-002`
 - Source: `S-002`
-- Status: Referenced; local repository media file pending.
+- Repository media file: `media/images/img-0001-new-kwality-cafe-matchbook.svg`
+- Repository media notes: `media/images/img-0001-new-kwality-cafe-matchbook.md`
+- Status: Added to repository as a display-copy SVG with embedded WebP image; original uploaded WebP checksum preserved in sidecar notes.
 - Notes: Places New Kwality Cafe at 503 Main St. and identifies J. Jager as proprietor.
 
 ## IMG-0002 — Larry's Kwality Cafe Matchcover
@@ -62,7 +64,7 @@ This register records image and photo-metadata items that have been discussed or
 
 ## Media Import To-Do
 
-- Download or manually add the actual image files where copyright and source permissions allow.
+- Add remaining referenced image files where copyright and source permissions allow.
 - Preserve original filenames, uploaded filenames, source URLs, and photographer/collection names.
-- Add per-image YAML or JSON sidecar metadata when the repository structure is ready.
+- Add per-image YAML, JSON, or Markdown sidecar metadata when adding repository image files.
 - Do not treat photo captions as proven facts unless the image itself or an external source confirms them.
