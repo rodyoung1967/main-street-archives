@@ -38,14 +38,14 @@ When did Brass Rail Tavern operate at 505 Main, who owned it, and how did it rel
 ## OQ-012 — Ray Hansen / Ray Grisham
 Are Ray Hansen and Ray Grisham separate people, alternate names, or a memory/transcription conflict? What were each person's dates and role?
 
-## OQ-013 — Dick and Sheila
-What are Dick and Sheila's full names, ownership dates, and business records?
+## OQ-013 — Richard / Dick Wiitanen and Sheila Wiitanen
+What were Richard / Dick Wiitanen and Sheila Wiitanen's exact ownership/operation dates and business records for the 505 business after Ray Hansen?
 
 ## OQ-014 — Willie
 What was bartender Willie's full name, and when did he work at 505 Main?
 
 ## OQ-015 — Victor
-What was Victor's full name, and what was the exact restaurant-management arrangement during Ray Grisham and early Dick/Sheila years?
+What was Victor's full name, and what was the exact restaurant-management arrangement during Ray Grisham and early Richard / Dick and Sheila years?
 
 ## OQ-016 — 507 Harding Building Fire
 What was the exact date of the Harding Building fire, and did it occur in late 1968, 1969, or another date?
@@ -60,10 +60,10 @@ Was the current 507 Main building completed in 1968, 1969, or another year?
 What work was done to 503 Main around 2017, and what permits, photos, or assessor records document it?
 
 ## OQ-020 — Family Name / Ownership Chain
-How should the Young, Lafarlette, Grisham, and earlier Wiitanen references be reconciled against deeds, tax records, and family records?
+What records document the Young, Lafarlette, Grisham, and Wiitanen family relationships and ownership chain? Current internal correction: grandmother's first marriage was Lafarlette and second marriage was Grisham; Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
 
 ## OQ-021 — Time Capsule Maps Image Sources
-What are the original source collections, dates, photographers, and licensing terms for the Main Street images currently represented only by Time Capsule Maps metadata?
+What are the original source collections, dates, photographers, and licensing terms for the Main Street images represented in trusted Time Capsule Maps metadata?
 
 ## OQ-022 — 2025 Lease Continuity
 How should future amendments, tenant changes, permits, OLCC license records, and business metadata be added to preserve continuity after the 2025 505 lease?
