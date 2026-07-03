@@ -25,17 +25,17 @@ Confidence: Very High for Mitch's ownership/operation dates and 505 Main Street 
 
 ## E-005 — Ray Hansen Ownership
 Type: Family/oral history  
-Claims: Ray Hansen owned the 505 business before Dick and Sheila.  
+Claims: Ray Hansen owned the 505 business before Richard / Dick and Sheila.  
 Confidence: High, pending documentary confirmation.
 
 ## E-006 — Willie Bartender
 Type: Family/oral history  
-Claims: Willie worked as bartender under Ray Hansen and later under Dick and Sheila.  
+Claims: Willie worked as bartender under Ray Hansen and later under Richard / Dick and Sheila.  
 Confidence: High, pending full identification.
 
 ## E-007 — Victor Restaurant Manager
 Type: Family/oral history  
-Claims: Victor independently managed the restaurant during Ray Grisham's years and early Dick and Sheila years.  
+Claims: Victor independently managed the restaurant during Ray Grisham's years and early Richard / Dick and Sheila years.  
 Confidence: High, pending full identification.
 
 ## E-008 — 2017 505 Tavern / Thirsty Duck Article
@@ -43,10 +43,10 @@ Type: Secondary source
 Claims: Mike Berman sold the business; Scott Forvilly purchased it; it reopened as Thirsty Duck in 2017.  
 Confidence: Strong for 2017 transition.
 
-## E-009 — Young Family Ownership / Stewardship Context
+## E-009 — Young / Lafarlette / Grisham / Wiitanen Family Context
 Type: Family/oral history / project provenance  
-Claims: Rodney Young currently owns 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Earlier notes mention Grisham and Wiitanen; later correction notes Lafarlette and Grisham as the corrected family-name context.  
-Confidence: High as family/project provenance; documentary confirmation still desirable for formal ownership dates and family-name reconciliation.
+Claims: Rodney Young currently owns 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.  
+Confidence: High as trusted internal family/project provenance; documentary confirmation still desirable for formal ownership dates and spellings.
 
 ## E-010 — 505 Rear Addition Recollection
 Type: Family/oral history  
@@ -79,7 +79,7 @@ Confidence: High for archive-handling rule; documentary confirmation still neede
 Type: Project metadata / photo metadata export  
 Claims: One photo metadata record labels The Wheel at 503 Main Street and notes 505 Tavern to the right at 505 Main Street. Another circa-1910 5th/Main record says the first building in the picture is gone and is now 503 and 505 Main; the 1925 Sanborn shows 501, 503, and 505; the 501 history is unclear; 503 was significantly modified around 2017.  
 Related media: `IMG-0004`, `IMG-0005`  
-Confidence: Moderate as project metadata; source, date, and image interpretation still need confirmation before use as primary evidence.
+Confidence: High as trusted internal project metadata for what Time Capsule Maps records; original image/source details should still be cited when making external historical claims.
 
 ## E-016 — Harding Building Fire Oral / Project Notes
 Type: Family/oral history / project note  
@@ -90,7 +90,7 @@ Confidence: Moderate to High as project/oral-history evidence; requires newspape
 Type: Project metadata / photo metadata export  
 Claims: The circa-1910 5th/Main photo metadata notes that the taller Harding Building at 507 burned and was replaced by the current building.  
 Related media: `IMG-0005`  
-Confidence: Moderate as project metadata; needs primary confirmation.
+Confidence: High as trusted internal project metadata for what Time Capsule Maps records; original image/source details should still be cited when making external historical claims.
 
 ## E-018 — 505 Commercial Lease, 2025
 Type: Current administrative/legal record  
@@ -98,7 +98,7 @@ Claims: 505 LLC leased 505 Main Street, Oregon City, to Alin Guria for a primary
 Related record: `records/505-commercial-lease-2025.md`  
 Confidence: Very High for current lease facts shown in the lease document; not evidence for earlier business names.
 
-## E-019 — Family Name Correction
+## E-019 — Family Name / Death-Date Correction
 Type: Project correction / direct user clarification  
-Claims: Earlier family-history context used Grisham and Wiitanen. Later correction indicates Lafarlette and Grisham as the corrected family-name context.  
-Confidence: High as an archive-handling correction; formal chain-of-title documentation still needed.
+Claims: Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. Richard / Dick died in November 2024; Sheila died in 2014.  
+Confidence: High as trusted internal family/project correction; formal records may later add full dates and spellings.
