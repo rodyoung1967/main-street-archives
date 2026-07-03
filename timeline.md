@@ -10,13 +10,13 @@ The site was part of the area that became Oregon City's earliest commercial dist
 507 Main was known as the Harding Building. George A. Harding / Harding Drug Store and Dr. Bailey are associated with the Harding Building context.
 
 ## Circa 1910 photo / 5th and Main view
-A Time Capsule Maps photo-metadata record describes a circa-1910 view at 5th Street / McLoughlin Boulevard / US99E and Main Street. The metadata states that the first building in the picture is gone and is now 503 and 505 Main Street. The original source and date still need confirmation.
+A Time Capsule Maps photo-metadata record describes a circa-1910 view at 5th Street / McLoughlin Boulevard / US99E and Main Street. The metadata states that the first building in the picture is gone and is now 503 and 505 Main Street. Treat as trusted internal Time Capsule Maps metadata, with original source/date still desirable for external historical claims.
 
 ## 1919
 A 2017 article and later commercial listing report 503 Main was constructed in 1919. This is currently a leading hypothesis, pending primary confirmation. The date may represent original construction, a major remodel, a rebuild, or an inherited record date.
 
 ## 1925 Sanborn map lead
-Photo metadata reports that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street, and that it is unclear what was ever at 501 Main. This needs direct Sanborn verification.
+Time Capsule Maps metadata reports that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street, and that it is unclear what was ever at 501 Main. This needs direct Sanborn verification.
 
 ## 1940s-1950s
 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe. Matchbooks document J. Jager and Larry's Kwality Cafe at 503 Main.
@@ -27,17 +27,17 @@ A public comment screenshot records a memory of the 505 Tavern on Main Street co
 ## Late 1960s / 1968-1969 Harding Building fire lead
 The original Harding Building at 507 was reportedly destroyed by fire in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area. The replacement building date is still unresolved and should be checked against fire reports, newspapers, permits, and assessor records.
 
-## Young / Lafarlette / Grisham family context
-Rodney Young currently owns or stewards 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Current corrected family-name handling uses Lafarlette and Grisham, while preserving the earlier Wiitanen note as a discrepancy to resolve through deeds, tax statements, and family records.
+## Family context: Lafarlette / Grisham / Wiitanen
+Rodney Young currently owns or stewards 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Rodney's grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
 
 ## Ray Hansen era
-Ray Hansen owned the 505 business before Dick and Sheila. Bartender Willie worked under Ray and continued under Dick and Sheila.
+Ray Hansen owned the 505 business before Richard / Dick and Sheila. Bartender Willie worked under Ray and continued under Richard / Dick and Sheila.
 
-## Ray Grisham / Dick and Sheila era
-During Ray Grisham's years and the early Dick and Sheila years, Victor independently managed the restaurant portion.
+## Ray Grisham / Richard-Dick and Sheila era
+During Ray Grisham's years and the early Richard / Dick and Sheila years, Victor independently managed the restaurant portion.
 
 ## Brass Rail Tavern lead
-Photo metadata lists Brass Rail Tavern among reported 505 Main Street business names. Dates, ownership, and relationship to 505 Tavern / The 505 / Thirsty Duck remain unverified.
+Time Capsule Maps metadata lists Brass Rail Tavern among reported 505 Main Street business names. Dates, ownership, and relationship to 505 Tavern / The 505 / Thirsty Duck remain unverified.
 
 ## March 1991-March 2004
 Mitch Young owned and operated the 505 Main Street business / The 505. This was confirmed directly by Mitch Young. The exact legal/trade name during this period remains an open question and should not automatically be equated with The Wheel unless documentary evidence supports that name.
@@ -45,11 +45,17 @@ Mitch Young owned and operated the 505 Main Street business / The 505. This was 
 ## Building Footprint / Rear Addition Question
 The rear portion of 505 may have been added later, based on family/oral history. There is also an unresolved physical-boundary question: 505 may extend farther back than 503, while 503 may be somewhat wider. Tax records, assessor sketches, Sanborn maps, permits, deeds, and measurements should be used to test this.
 
+## 2014
+Sheila Wiitanen died in 2014.
+
 ## Around 2017
-Photo metadata reports that 503 Main Street underwent significant modification around 2017. This needs confirmation through permits, photos, assessor records, and business-opening records.
+Time Capsule Maps metadata reports that 503 Main Street underwent significant modification around 2017. This needs confirmation through permits, photos, assessor records, and business-opening records.
 
 ## 2017
 505 Tavern was sold and reopened as Thirsty Duck. White Rabbit Black Ink opened at 503 Main.
+
+## November 2024
+Richard / Dick Wiitanen died in November 2024.
 
 ## July 1, 2025-June 30, 2030
 A 2025 commercial lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main Street, with restaurant/bar use, base rent of $2,700/month, NNN-style additional rent, and Skyline Property Management as property manager/authorized agent.
