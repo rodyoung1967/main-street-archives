@@ -8,18 +8,18 @@
 | P-004 | [Larry](profiles/larry.md) | Proprietor / operator | Associated with Larry's Kwality Cafe; surname unknown. |
 | P-005 | Ray Hansen | Owner | Owned 505 business before Dick and Sheila. |
 | P-006 | Ray Grisham | Owner/operator? | Mentioned in relation to the 505 / The Wheel context; needs clarification vs. Ray Hansen. |
-| P-007 | Dick | Owner | Owned after Ray Hansen with Sheila. |
-| P-008 | Sheila | Owner | Owned after Ray Hansen with Dick. |
-| P-009 | Willie | Bartender | Heavyset bartender; worked under Ray Hansen and Dick and Sheila. |
-| P-010 | Victor | Restaurant manager | Independently managed restaurant during Ray Grisham era and early Dick and Sheila years. |
+| P-007 | Richard / Dick Wiitanen | Owner / stepfather | Owned after Ray Hansen with Sheila. Step-father in the Wiitanen family context. Died November 2024. |
+| P-008 | Sheila Wiitanen | Owner / mother | Owned after Ray Hansen with Richard / Dick. User's mother in the Wiitanen family context. Died 2014. |
+| P-009 | Willie | Bartender | Heavyset bartender; worked under Ray Hansen and Richard / Dick and Sheila. |
+| P-010 | Victor | Restaurant manager | Independently managed restaurant during Ray Grisham era and early Richard / Dick and Sheila years. |
 | P-011 | [Mitch Young](profiles/mitch-young.md) | Owner/operator | Owned and operated the 505 Main Street business / The 505, March 1991-March 2004; exact legal/trade name needs confirmation. |
 | P-012 | Mike Berman | Later owner | Sold 505 Tavern in 2017. |
 | P-013 | Scott Forvilly | Later owner | Purchased in 2017 and reopened as Thirsty Duck. |
 | P-014 | Rodney Young | Current owner / project steward | Current owner/steward of 505 Main Street and the archive. Managing member/signatory context appears in 2025 505 lease record. |
 | P-015 | Young family | Family ownership context | Family connected to 503 and 505 Main Street; parents and earlier grandparents connected to 503 Main. |
-| P-016 | Grisham family | Family history context | Family name connected to the 503/505 Main Street property history. |
-| P-017 | Wiitanen family | Family history context requiring review | Earlier archive note connected Wiitanen to the property history; later correction needs reconciliation against Lafarlette/Grisham records. |
+| P-016 | Grisham family | Family history context | Grandmother's second marriage was Grisham. Also preserve Ray Grisham as a separate unresolved 505 / The Wheel person until documented. |
+| P-017 | Wiitanen family | Family history context | User's mother Sheila and stepfather Richard / Dick were Wiitanens. This is not an error or discrepancy; it belongs to the mother/stepfather branch. |
 | P-018 | Mitchell C. Young | 505 LLC managing member / historical participant | Managing member/signatory context appears in 2025 505 lease; also source of family/oral-history questions about 505. |
 | P-019 | Alin Guria | 2025 lessee | Lessee in 2025 commercial lease for 505 Main Street. |
 | P-020 | Skyline Property Management | Property manager / authorized agent | Property manager and authorized agent in 2025 commercial lease for 505 Main Street. |
-| P-021 | Lafarlette family | Family history context requiring documentation | Later correction identifies Lafarlette and Grisham as corrected family-name context; needs documentary tie-in and spelling confirmation. |
+| P-021 | Lafarlette family | Family history context | Grandmother's first marriage was Lafarlette. Spelling should be preserved as provided unless records show a variant. |
