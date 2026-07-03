@@ -54,7 +54,7 @@ URL: Internal project/oral-history notes and prior research discussion.
 Trust: Trusted internal project source for the working research note; exact fire date and cause still require documentary confirmation.
 Notes: Includes working claim that the 507 Harding Building fire occurred in late 1968 or 1969 and involved Tony's Restaurant and a bakery.
 
-## S-013 — Family name correction note
+## S-013 — Family relationship and death-date correction note
 URL: Internal user correction / project note.  
-Trust: Trusted internal project correction; formal ownership records should reconcile the chain.
-Notes: Earlier family-history notes used Grisham and Wiitanen. A later correction records Lafarlette and Grisham as the corrected family-name context. Preserve the discrepancy until formal ownership records clarify the chain.
+Trust: Trusted internal project correction; formal records may later add full dates and spelling variants.
+Notes: Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. Richard / Dick died in November 2024; Sheila died in 2014.
