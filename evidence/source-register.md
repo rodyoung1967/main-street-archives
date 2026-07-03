@@ -1,5 +1,9 @@
 # Source Register
 
+## Source Trust Rule — Internal / Time Capsule Maps Material
+
+Rodney Young is the creator/maintainer of Time Capsule Maps and the steward of this Main Street Archive. Internal project notes, Time Capsule Maps metadata, direct user corrections, and family/oral-history notes should be treated as trusted internal project sources for what they directly record. They should still be classified by evidence type and kept separate from primary documentary records such as deeds, Sanborn maps, permits, tax cards, newspaper articles, business licenses, OLCC records, and original photographs.
+
 ## S-001 — White Rabbit Black Ink article
 URL: https://milwaukiereview.com/2017/09/13/white-rabbit-black-ink-opens-doors-on-main-street/
 
@@ -15,16 +19,19 @@ Related media: `IMG-0002`
 URL: https://milwaukiereview.com/2017/08/18/newest-old-bar-in-clackamas-county-reopens-in-oregon-city/
 
 ## S-005 — Mitch Young direct oral history
-URL: Internal oral-history note, `oral-history/mitch-young.md`
+URL: Internal oral-history note, `oral-history/mitch-young.md`  
+Trust: Trusted internal source for the testimony it records; still separate from formal documentary records.
 
 ## S-006 — Young family ownership / stewardship context
-URL: Internal family/project provenance note; formal source file pending.
+URL: Internal family/project provenance note; formal source file pending.  
+Trust: Trusted internal project source for family/provenance context; formal ownership dates still require deeds, tax records, or assessor records.
 
 ## S-007 — Tax statement / tax record materials
 URL: Pending archive import/transcription. Use for tax statements, assessor records, parcel descriptions, assessed improvements, and possible construction/addition clues.
 
 ## S-008 — 503 / 505 building footprint field observation
-URL: Internal owner observation; measurements, assessor sketches, Sanborn maps, deeds, and permits needed for confirmation.
+URL: Internal owner observation; measurements, assessor sketches, Sanborn maps, deeds, and permits needed for confirmation.  
+Trust: Trusted internal field observation; physical/legal conclusions still require measurement and records.
 
 ## S-009 — Thebeerchaser 505 Tavern comment screenshot
 URL: Screenshot of public comment thread on `thebeerchaser.com`, uploaded in ChatGPT conversation.  
@@ -34,7 +41,8 @@ Notes: Use as web-comment / local-memory evidence only; corroborate with formal 
 ## S-010 — Time Capsule Maps photo metadata export
 URL: Internal/project metadata export from Time Capsule Maps / Supabase photo records.  
 Related media: `IMG-0004`, `IMG-0005`  
-Notes: Contains photo metadata for Main Street / 5th Street / McLoughlin / US99E records, including 503/505/507 location notes. Treat as project metadata unless original source, image, and date are independently verified.
+Trust: Trusted internal project source because Rodney Young is Time Capsule Maps. Use as reliable project metadata for what was entered and maintained there; still cite or verify original image sources, dates, and collection/photographer credits when making external historical claims.
+Notes: Contains photo metadata for Main Street / 5th Street / McLoughlin / US99E records, including 503/505/507 location notes.
 
 ## S-011 — 505 Commercial Lease, 2025
 URL: File Library upload: `505 Commerical Lease (2025) - Final.pdf`  
@@ -43,8 +51,10 @@ Notes: Current administrative/legal record for 505 Main Street, 505 LLC, Alin Gu
 
 ## S-012 — Harding Building fire research notes
 URL: Internal project/oral-history notes and prior research discussion.  
-Notes: Includes working claim that the 507 Harding Building fire occurred in late 1968 or 1969 and involved Tony's Restaurant and a bakery. Requires newspaper, fire department, permit, assessor, or city-record confirmation.
+Trust: Trusted internal project source for the working research note; exact fire date and cause still require documentary confirmation.
+Notes: Includes working claim that the 507 Harding Building fire occurred in late 1968 or 1969 and involved Tony's Restaurant and a bakery.
 
 ## S-013 — Family name correction note
 URL: Internal user correction / project note.  
+Trust: Trusted internal project correction; formal ownership records should reconcile the chain.
 Notes: Earlier family-history notes used Grisham and Wiitanen. A later correction records Lafarlette and Grisham as the corrected family-name context. Preserve the discrepancy until formal ownership records clarify the chain.
