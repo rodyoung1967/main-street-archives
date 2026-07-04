@@ -15,7 +15,9 @@ Was the rear portion of 505 Main Street added later? If yes, when, by whom, and 
 What is the legal and physical boundary between 503 and 505 Main Street? Is 503 wider while 505 is deeper, and what records prove the measurements?
 
 ## OQ-005 — 501 Main on the 1925 Sanborn Map
-What was 501 Main, if anything, on the reported 1925 Sanborn map that labels 501, 503, and 505?
+Status: Partially answered by `E-020` / `EV-SAN-1925-1950-001`.
+
+The 1925 Sanborn sheet shows a separate `501` label at or near the 5th/Main corner, with `503` and `505` separately labeled north/up the Main frontage. Remaining question: what business, building history, ownership chain, and later disposition belong to the 501 space?
 
 ## OQ-006 — Kwality / Quality Cafe Names
 How do Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and the photo-metadata wording "The Quality Cafe" relate to each other?
