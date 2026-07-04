@@ -2,7 +2,7 @@
 
 Working archive for the history of **503-507 Main Street, Oregon City, Oregon**.
 
-This is a citation-first local history archive. It separates buildings, businesses, people, evidence, sources, research leads, open questions, media metadata, current records, and oral history so the project can grow without losing track of what is known, what is inferred, and what still needs proof.
+This is a citation-first local history archive. It separates buildings, businesses, people, evidence, sources, research leads, open questions, media metadata, current records, maps, and oral history so the project can grow without losing track of what is known, what is inferred, and what still needs proof.
 
 Start here: `ARCHIVE_INDEX.md`
 
@@ -12,13 +12,15 @@ Start here: `ARCHIVE_INDEX.md`
 - Treat Mitch Young's direct testimony as confirming ownership/operation of the **505 Main Street business / The 505** from **March 1991 to March 2004**.
 - Do not automatically label Mitch Young's 505 period as **The Wheel** or **The Wheel Tavern** unless documentary evidence confirms that exact name.
 - Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, and **Thirsty Duck** as related but distinct business-name questions until primary records prove continuity.
-- Treat photo captions and Time Capsule Maps metadata as valuable leads, but not as primary proof unless the original image/source confirms the claim.
-- Preserve family/oral history, but separate it from deed/tax/assessor proof. Current family-name handling includes Young, Lafarlette, and Grisham, while older Wiitanen references remain a discrepancy to resolve.
+- Treat Time Capsule Maps metadata as a trusted internal project source because Rodney Young is Time Capsule Maps; still cite original image/source details when making external historical claims.
+- Preserve family/oral history, but separate it from deed/tax/assessor proof. Current family-name handling: grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
+- Treat Sanborn maps as primary map sources for footprint, materials, street layout, and address-numbering research; use the Sanborn key when interpreting symbols.
 
 ## Key Files
 
 - `ARCHIVE_INDEX.md` - human-readable project index and search guide.
 - `timeline.md` - master timeline.
+- `maps/sanborn-map-register.md` - Sanborn map source register and map-use notes.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
 - `buildings/507-main.md` - 507 Main / Harding Building record.
@@ -36,8 +38,9 @@ Start here: `ARCHIVE_INDEX.md`
 
 ## Next Evidence Priorities
 
-1. Transcribe tax statements and assessor records for 503 and 505.
-2. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
-3. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
-4. Find the exact 507 Harding Building fire date and replacement-building evidence.
-5. Import source-backed photo files and sidecar metadata when rights/source information is clear.
+1. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
+2. Transcribe tax statements and assessor records for 503 and 505.
+3. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
+4. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
+5. Find the exact 507 Harding Building fire date and replacement-building evidence.
+6. Import source-backed photo and map files and sidecar metadata when rights/source information is clear.
