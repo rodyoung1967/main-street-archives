@@ -24,7 +24,7 @@ Data layout guide: `DATA_LAYOUT.md`
 - `DATA_LAYOUT.md` - file/folder layout guide for maps, photos, artifacts, records, and metadata.
 - `timeline.md` - master timeline.
 - `maps/sanborn-map-register.md` - Sanborn map source register and map-use notes.
-- `maps/sanborn/originals/README.md` - expected location for original Sanborn PDFs.
+- `maps/sanborn/originals/README.md` - committed Sanborn PDF filenames and folder notes.
 - `media/artifacts/matchbooks/README.md` - expected location for matchbook and matchcover image files.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
@@ -43,14 +43,14 @@ Data layout guide: `DATA_LAYOUT.md`
 
 ## Current Media Status
 
-The matchbook/matchcover metadata records are in the archive, but the actual image files were not found at the expected repository paths during the latest check. Expected upload paths are listed in `media/artifacts/matchbooks/README.md` and `media/photo-metadata-register.md`.
+The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/originals/` using their current upload-style filenames. The matchbook/matchcover metadata records are in the archive, but the actual image files were not found at the expected repository paths during the latest check. Expected upload paths are listed in `media/artifacts/matchbooks/README.md` and `media/photo-metadata-register.md`.
 
 ## Next Evidence Priorities
 
 1. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
-2. Upload original matchbook/matchcover images and Sanborn PDFs to the expected media/map paths.
+2. Upload original matchbook/matchcover images to the expected media paths.
 3. Transcribe tax statements and assessor records for 503 and 505.
 4. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
 5. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
 6. Find the exact 507 Harding Building fire date and replacement-building evidence.
-7. Import source-backed photo and map files and sidecar metadata when rights/source information is clear.
+7. Import source-backed photo files and sidecar metadata when rights/source information is clear.
