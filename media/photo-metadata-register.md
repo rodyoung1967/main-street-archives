@@ -11,26 +11,28 @@ This register records image and photo-metadata items that have been discussed or
 
 ## IMG-0001 — New Kwality Cafe Matchbook
 
+- Artifact ID: `A-001`
 - Type: Matchbook / primary artifact image
 - Related building: 503 Main Street
 - Related business: New Kwality Cafe
 - Evidence: `E-002`
 - Source: `S-002`
-- Expected repo path: `media/artifacts/matchbooks/new-kwality-cafe-matchbook-503-main-j-jager.jpg`
-- Status: `pending-upload`
-- Verification note: Expected repository path checked and file was not found. Metadata exists; actual image file still needs upload unless stored elsewhere under a different filename.
+- Repository file: `artifacts/images/A-001-new-kwality-cafe-matchbook.jpg`
+- Status: `committed`
+- Verification note: Actual JPEG file is committed at the repository path above.
 - Notes: Places New Kwality Cafe at 503 Main St. and identifies J. Jager as proprietor.
 
 ## IMG-0002 — Larry's Kwality Cafe Matchcover
 
+- Artifact ID: `A-002`
 - Type: Matchcover / primary artifact image
 - Related building: 503 Main Street
 - Related business: Larry's Kwality Cafe
 - Evidence: `E-003`
 - Source: `S-003`
-- Expected repo path: `media/artifacts/matchbooks/larrys-kwality-cafe-matchcover-503-main.jpg`
-- Status: `pending-upload`
-- Verification note: Expected repository path checked and file was not found. Metadata exists; actual image file still needs upload unless stored elsewhere under a different filename.
+- Repository file: `artifacts/images/A-002-larrys-kwality-cafe-matchcover.jpg`
+- Status: `committed`
+- Verification note: Actual JPEG file is committed at the repository path above.
 - Notes: Places Larry's Kwality Cafe at 503 Main Street, Oregon City, with telephone 6106.
 
 ## IMG-0003 — Thebeerchaser 505 Tavern Comment Screenshot
@@ -76,8 +78,6 @@ This register records image and photo-metadata items that have been discussed or
 
 ## Media Import To-Do
 
-- Upload New Kwality Cafe matchbook image to `media/artifacts/matchbooks/new-kwality-cafe-matchbook-503-main-j-jager.jpg`.
-- Upload Larry's Kwality Cafe matchcover image to `media/artifacts/matchbooks/larrys-kwality-cafe-matchcover-503-main.jpg`.
 - Upload Thebeerchaser screenshot to `media/screenshots/thebeerchaser-505-tavern-comment-2021.png`, if rights/usage are acceptable.
 - Optionally import Time Capsule Maps webp images into `media/photos/` for preservation, while keeping original URLs/source metadata.
 - Preserve original filenames, uploaded filenames, source URLs, and photographer/collection names.
