@@ -9,45 +9,62 @@ businesses:
   - id: BUS-002
     name: New Kwality Cafe
     address: 503 Main
-    notes: J. Jager, proprietor.
+    notes: J. Jager, proprietor; documented by New Kwality Cafe matchbook artifact.
     related_buildings:
       - B-001
     related_people:
       - P-003
     related_artifacts:
       - A-001
+    related_media:
+      - IMG-0001
+    related_evidence:
+      - E-002
+    related_sources:
+      - S-002
 
   - id: BUS-003
     name: Larry's Kwality Cafe
     address: 503 Main
-    notes: Telephone 6106; merchant lunches, steaks, chops.
+    notes: Telephone 6106; merchant lunches, steaks, chops; documented by matchcover artifact.
     related_buildings:
       - B-001
     related_people:
       - P-004
     related_artifacts:
       - A-002
+    related_media:
+      - IMG-0002
+    related_evidence:
+      - E-003
+    related_sources:
+      - S-003
 
   - id: BUS-004
     name: The Wheel
-    address: 503/505 Main context
-    notes: Bar and grill; exact address/timeline to be refined.
+    address: 503/505 Main context; unresolved
+    notes: Bar and grill reference; exact address, timeline, and formal name need confirmation. Do not use this as the default label for Mitch Young's 505 Main Street period without documentary support.
     related_buildings:
       - B-001
       - B-002
     related_people:
       - P-006
       - P-010
-      - P-011
+    related_evidence:
+      - E-014
+      - E-015
 
   - id: BUS-005
     name: 505 Tavern
     address: 505 Main
-    notes: Later business name; documented in modern sources.
+    notes: Later business name; documented in modern sources and local-memory/photo-metadata leads. Relationship to earlier 505 business names remains unresolved.
     related_buildings:
       - B-002
     related_people:
       - P-012
+    related_evidence:
+      - E-008
+      - E-013
 
   - id: BUS-006
     name: Thirsty Duck
@@ -57,11 +74,13 @@ businesses:
       - B-002
     related_people:
       - P-013
+    related_evidence:
+      - E-008
 
   - id: BUS-007
     name: Harding Drug Store
     address: 507 Main
-    notes: Associated with George A. Harding.
+    notes: Associated with George A. Harding and Harding Building.
     related_buildings:
       - B-003
     related_people:
@@ -70,7 +89,30 @@ businesses:
   - id: BUS-008
     name: Tony's Restaurant
     address: 507 Main
-    notes: Associated with Harding Building before fire.
+    notes: Associated with Harding Building before the late-1960s fire lead.
     related_buildings:
       - B-003
+    related_evidence:
+      - E-016
 
+  - id: BUS-009
+    name: The 505
+    address: 505 Main
+    notes: Preferred working label for Mitch Young's March 1991-March 2004 ownership/operation testimony; exact legal/trade name unresolved.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-011
+      - P-018
+    related_evidence:
+      - E-004
+      - E-014
+
+  - id: BUS-010
+    name: Brass Rail Tavern
+    address: 505 Main
+    notes: Reported in photo metadata as a 505 Main business name; unverified lead pending directories, OLCC records, business licenses, ads, or photos.
+    related_buildings:
+      - B-002
+    related_evidence:
+      - E-015
