@@ -8,6 +8,8 @@ Start here: `ARCHIVE_INDEX.md`
 
 Data layout guide: `DATA_LAYOUT.md`
 
+ID crosswalk: `indexes/id-crosswalk.md`
+
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
@@ -22,11 +24,15 @@ Data layout guide: `DATA_LAYOUT.md`
 
 - `ARCHIVE_INDEX.md` - human-readable project index and search guide.
 - `DATA_LAYOUT.md` - file/folder layout guide for maps, photos, artifacts, records, and metadata.
+- `AGENTS.md` - update rules for AI/automation working in this archive.
+- `indexes/id-crosswalk.md` - crosswalk connecting IDs across buildings, businesses, people, evidence, sources, media, artifacts, and maps.
 - `timeline.md` - master timeline.
 - `maps/sanborn-map-register.md` - Sanborn map source register and map-use notes.
 - `maps/sanborn/originals/README.md` - committed Sanborn PDF filenames and folder notes.
 - `artifacts/images/README.md` - committed artifact image filenames for matchbook/matchcover images.
 - `media/artifacts/matchbooks/README.md` - matchbook/matchcover image location notes.
+- `media/photo-metadata-register.md` - canonical photo and media metadata register.
+- `media/catalog.md` - legacy media-catalog navigation shim; do not treat as canonical.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
 - `buildings/507-main.md` - 507 Main / Harding Building record.
@@ -38,13 +44,19 @@ Data layout guide: `DATA_LAYOUT.md`
 - `evidence/source-register.md` - source register and URL/source notes.
 - `evidence/research-leads.md` - active research leads.
 - `evidence/open-questions.md` - open questions register.
-- `media/photo-metadata-register.md` - photo and metadata register.
 - `records/505-commercial-lease-2025.md` - current 2025 lease record for 505 Main.
 - `oral-history/mitch-young.md` - Mitch Young direct testimony note.
 
 ## Current Media Status
 
 The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/originals/` using their current upload-style filenames. The New Kwality Cafe and Larry's Kwality Cafe matchbook/matchcover JPEG files are committed under `artifacts/images/` and are tracked in `media/photo-metadata-register.md` as `IMG-0001` / `A-001` and `IMG-0002` / `A-002`.
+
+## Current Structure Notes
+
+- Use `media/photo-metadata-register.md` as the canonical media/image register.
+- Use `media/catalog.md` only as a legacy navigation shim.
+- Keep `database/*.yml` synchronized with the Markdown indexes when machine-readable records are maintained.
+- Use `indexes/id-crosswalk.md` to audit relationships across ID systems.
 
 ## Next Evidence Priorities
 
