@@ -6,6 +6,8 @@ This is a citation-first local history archive. It separates buildings, business
 
 Start here: `ARCHIVE_INDEX.md`
 
+Data layout guide: `DATA_LAYOUT.md`
+
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
@@ -19,8 +21,11 @@ Start here: `ARCHIVE_INDEX.md`
 ## Key Files
 
 - `ARCHIVE_INDEX.md` - human-readable project index and search guide.
+- `DATA_LAYOUT.md` - file/folder layout guide for maps, photos, artifacts, records, and metadata.
 - `timeline.md` - master timeline.
 - `maps/sanborn-map-register.md` - Sanborn map source register and map-use notes.
+- `maps/sanborn/originals/README.md` - expected location for original Sanborn PDFs.
+- `media/artifacts/matchbooks/README.md` - expected location for matchbook and matchcover image files.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
 - `buildings/507-main.md` - 507 Main / Harding Building record.
@@ -36,11 +41,16 @@ Start here: `ARCHIVE_INDEX.md`
 - `records/505-commercial-lease-2025.md` - current 2025 lease record for 505 Main.
 - `oral-history/mitch-young.md` - Mitch Young direct testimony note.
 
+## Current Media Status
+
+The matchbook/matchcover metadata records are in the archive, but the actual image files were not found at the expected repository paths during the latest check. Expected upload paths are listed in `media/artifacts/matchbooks/README.md` and `media/photo-metadata-register.md`.
+
 ## Next Evidence Priorities
 
 1. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
-2. Transcribe tax statements and assessor records for 503 and 505.
-3. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
-4. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
-5. Find the exact 507 Harding Building fire date and replacement-building evidence.
-6. Import source-backed photo and map files and sidecar metadata when rights/source information is clear.
+2. Upload original matchbook/matchcover images and Sanborn PDFs to the expected media/map paths.
+3. Transcribe tax statements and assessor records for 503 and 505.
+4. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
+5. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
+6. Find the exact 507 Harding Building fire date and replacement-building evidence.
+7. Import source-backed photo and map files and sidecar metadata when rights/source information is clear.
