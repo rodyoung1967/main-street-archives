@@ -17,20 +17,22 @@ Keep original source files separate from interpretation.
 
 ### Sanborn PDFs
 
-Original uploaded Sanborn PDFs should go here:
+Original committed Sanborn PDFs live here:
 
 ```text
 maps/sanborn/originals/
-  sanborn-key.pdf
-  1884-01-master-map-5th.pdf
-  1888-02-5th.pdf
-  1890-02-5th.pdf
-  1892-03-5th.pdf
-  1900-13-5th.pdf
-  1911-22-5th.pdf
-  1925-6-5th.pdf
-  1950-6-5th.pdf
+  sanborn key.pdf
+  1884-01- Master Map (5th).pdf
+  1888-02 (5th).pdf
+  1890-02 (5th).pdf
+  1892-03 (5th).pdf
+  1900-13 (5th).pdf
+  1911-22 (5th).pdf
+  1925-6 (5th).pdf
+  1950-6 (5th).pdf
 ```
+
+These committed PDFs currently preserve their upload-style filenames, including spaces and parentheses. Use the exact filenames above when linking to the existing source PDFs. If the project later renames them to normalized lowercase hyphenated filenames, update the Sanborn register, source register, folder README, and any related references in the same change.
 
 Sanborn metadata and map-use notes live here:
 
@@ -167,13 +169,13 @@ Current family handling:
 
 ## File Naming Rules
 
-Use lowercase, hyphens, and meaningful names.
+Use lowercase, hyphens, and meaningful names for new text files, metadata files, derivative images, and future normalized source filenames.
 
 Good:
 
 ```text
 new-kwality-cafe-matchbook-503-main-j-jager.jpg
-1925-6-5th.pdf
+1925-503-505-507-main-crop.png
 505-commercial-lease-2025.pdf
 ```
 
@@ -184,6 +186,8 @@ IMG_1234.JPG
 scan.pdf
 file-final-final.pdf
 ```
+
+Existing Sanborn source PDFs are an exception because they currently preserve their committed upload-style filenames. Do not point to normalized Sanborn filenames unless the binary files are actually renamed.
 
 ## Status Terms
 
