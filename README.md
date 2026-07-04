@@ -25,7 +25,8 @@ Data layout guide: `DATA_LAYOUT.md`
 - `timeline.md` - master timeline.
 - `maps/sanborn-map-register.md` - Sanborn map source register and map-use notes.
 - `maps/sanborn/originals/README.md` - committed Sanborn PDF filenames and folder notes.
-- `media/artifacts/matchbooks/README.md` - expected location for matchbook and matchcover image files.
+- `artifacts/images/README.md` - committed artifact image filenames for matchbook/matchcover images.
+- `media/artifacts/matchbooks/README.md` - matchbook/matchcover image location notes.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
 - `buildings/507-main.md` - 507 Main / Harding Building record.
@@ -43,12 +44,12 @@ Data layout guide: `DATA_LAYOUT.md`
 
 ## Current Media Status
 
-The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/originals/` using their current upload-style filenames. The matchbook/matchcover metadata records are in the archive, but the actual image files were not found at the expected repository paths during the latest check. Expected upload paths are listed in `media/artifacts/matchbooks/README.md` and `media/photo-metadata-register.md`.
+The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/originals/` using their current upload-style filenames. The New Kwality Cafe and Larry's Kwality Cafe matchbook/matchcover JPEG files are committed under `artifacts/images/` and are tracked in `media/photo-metadata-register.md` as `IMG-0001` / `A-001` and `IMG-0002` / `A-002`.
 
 ## Next Evidence Priorities
 
 1. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
-2. Upload original matchbook/matchcover images to the expected media paths.
+2. Upload Thebeerchaser screenshot to the expected media path if rights/usage are acceptable.
 3. Transcribe tax statements and assessor records for 503 and 505.
 4. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
 5. Confirm The Wheel / The 505 / 505 Tavern / Brass Rail Tavern name chronology with directories, OLCC records, business licenses, ads, and tax records.
