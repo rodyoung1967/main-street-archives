@@ -6,7 +6,7 @@ This file defines where source files, metadata, evidence, and narrative research
 
 Keep original source files separate from interpretation.
 
-- Original source files go under `media/`, `maps/`, or `records/`.
+- Original source files go under `media/`, `maps/`, `records/`, or `artifacts/` depending on source type.
 - Evidence summaries go under `evidence/`.
 - Building narratives go under `buildings/`.
 - Business narratives go under `businesses/`.
@@ -48,17 +48,19 @@ maps/sanborn/crops/
   1950-503-505-507-main-crop.png
 ```
 
-## Photos and Images
+## Photos, Images, and Artifacts
 
 ### Matchbooks / Matchcovers
 
-Original matchbook and matchcover images should go here:
+The committed New Kwality Cafe and Larry's Kwality Cafe artifact images currently live here:
 
 ```text
-media/artifacts/matchbooks/
-  new-kwality-cafe-matchbook-503-main-j-jager.jpg
-  larrys-kwality-cafe-matchcover-503-main.jpg
+artifacts/images/
+  A-001-new-kwality-cafe-matchbook.jpg
+  A-002-larrys-kwality-cafe-matchcover.jpg
 ```
+
+The older folder `media/artifacts/matchbooks/` is retained for location notes, but the current committed JPEGs are under `artifacts/images/`. Use the exact artifact image paths above unless the binary files are moved and all references are updated in the same change.
 
 Image metadata is tracked here:
 
@@ -121,7 +123,7 @@ evidence/research-leads.md
 evidence/open-questions.md
 ```
 
-Use evidence IDs such as `E-001`, source IDs such as `S-001`, and map IDs such as `SM-001`.
+Use evidence IDs such as `E-001`, source IDs such as `S-001`, artifact IDs such as `A-001`, image IDs such as `IMG-0001`, and map IDs such as `SM-001`.
 
 ## Buildings
 
@@ -187,7 +189,7 @@ scan.pdf
 file-final-final.pdf
 ```
 
-Existing Sanborn source PDFs are an exception because they currently preserve their committed upload-style filenames. Do not point to normalized Sanborn filenames unless the binary files are actually renamed.
+Existing Sanborn source PDFs and artifact images are exceptions because they currently preserve their committed filenames. Do not point to normalized filenames unless the binary files are actually renamed.
 
 ## Status Terms
 
