@@ -102,3 +102,9 @@ Confidence: Very High for current lease facts shown in the lease document; not e
 Type: Project correction / direct user clarification  
 Claims: Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. Richard / Dick died in November 2024; Sheila died in 2014.  
 Confidence: High as trusted internal family/project correction; formal records may later add full dates and spellings.
+
+## E-020 — Sanborn Map Series: 5th / Main / 503-505-507 Context
+Type: Primary map evidence  
+Sources: `S-014` through `S-022`; detailed comparison file: `maps/sanborn-comparison-503-505-507.md`  
+Claims: The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date. The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507; 501 appears as a store, 503 as restaurant, 505 as billiards/cigars, and nearby spaces include dry goods/clothing, grocery, drugs, and I.O.O.F. Hall. The 1950 revised sheet continues to show separate 503/505/507 occupancies, with 503 restaurant and 505 billiards/cigars/beer-related use.  
+Confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
