@@ -2,27 +2,106 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
-    notes: Associated with Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and later The Wheel.
+    notes: Associated with Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, the 1919 construction-date hypothesis, 503/505 boundary questions, and The Wheel location/name question.
     related_businesses:
       - BUS-001
       - BUS-002
       - BUS-003
       - BUS-004
+    related_people:
+      - P-003
+      - P-004
+      - P-015
+      - P-016
+      - P-021
+    related_evidence:
+      - E-001
+      - E-002
+      - E-003
+      - E-011
+      - E-015
+      - E-020
+    related_maps:
+      - SM-002
+      - SM-003
+      - SM-004
+      - SM-005
+      - SM-006
+      - SM-007
+      - SM-008
+      - SM-009
 
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with 505 Tavern, The Wheel, and later Thirsty Duck.
+    notes: Associated with The 505 / 505 Main Street business, 505 Tavern, Thirsty Duck, Brass Rail Tavern, The Wheel name/address question, rear-addition and footprint questions, and the 2025 commercial lease.
     related_businesses:
       - BUS-004
       - BUS-005
       - BUS-006
+      - BUS-009
+      - BUS-010
+    related_people:
+      - P-005
+      - P-006
+      - P-007
+      - P-008
+      - P-009
+      - P-010
+      - P-011
+      - P-012
+      - P-013
+      - P-014
+      - P-015
+      - P-016
+      - P-017
+      - P-018
+      - P-019
+      - P-020
+      - P-021
+    related_evidence:
+      - E-004
+      - E-005
+      - E-006
+      - E-007
+      - E-008
+      - E-010
+      - E-011
+      - E-013
+      - E-014
+      - E-015
+      - E-018
+      - E-020
+    related_maps:
+      - SM-002
+      - SM-003
+      - SM-004
+      - SM-005
+      - SM-006
+      - SM-007
+      - SM-008
+      - SM-009
 
   - id: B-003
     name: 507 Main Street / Harding Building
     address: 507 Main Street, Oregon City, Oregon
-    notes: Original Harding Building reportedly destroyed by fire around late 1967 or early 1968; replacement completed in 1968.
+    notes: Associated with Harding Building, Harding Drug Store, Tony's Restaurant, bakery/fire research leads, late-1960s fire-date question, and replacement-building question.
     related_businesses:
       - BUS-007
       - BUS-008
-
+    related_people:
+      - P-001
+      - P-002
+    related_evidence:
+      - E-016
+      - E-017
+      - E-020
+    related_maps:
+      - SM-002
+      - SM-003
+      - SM-004
+      - SM-005
+      - SM-006
+      - SM-007
+      - SM-008
+      - SM-009
