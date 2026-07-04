@@ -1,0 +1,197 @@
+# Main Street Archive Data Layout
+
+This file defines where source files, metadata, evidence, and narrative research should live in the repository.
+
+## Core Rule
+
+Keep original source files separate from interpretation.
+
+- Original source files go under `media/`, `maps/`, or `records/`.
+- Evidence summaries go under `evidence/`.
+- Building narratives go under `buildings/`.
+- Business narratives go under `businesses/`.
+- People and family context go under `people/`.
+- Oral-history notes go under `oral-history/`.
+
+## Maps
+
+### Sanborn PDFs
+
+Original uploaded Sanborn PDFs should go here:
+
+```text
+maps/sanborn/originals/
+  sanborn-key.pdf
+  1884-01-master-map-5th.pdf
+  1888-02-5th.pdf
+  1890-02-5th.pdf
+  1892-03-5th.pdf
+  1900-13-5th.pdf
+  1911-22-5th.pdf
+  1925-6-5th.pdf
+  1950-6-5th.pdf
+```
+
+Sanborn metadata and map-use notes live here:
+
+```text
+maps/sanborn-map-register.md
+```
+
+Future cropped map images should go here:
+
+```text
+maps/sanborn/crops/
+  1925-503-505-507-main-crop.png
+  1950-503-505-507-main-crop.png
+```
+
+## Photos and Images
+
+### Matchbooks / Matchcovers
+
+Original matchbook and matchcover images should go here:
+
+```text
+media/artifacts/matchbooks/
+  new-kwality-cafe-matchbook-503-main-j-jager.jpg
+  larrys-kwality-cafe-matchcover-503-main.jpg
+```
+
+Image metadata is tracked here:
+
+```text
+media/photo-metadata-register.md
+```
+
+### Historic photos
+
+General historic photos should go under:
+
+```text
+media/photos/
+  503-main/
+  505-main/
+  507-main/
+  main-street-block/
+  intersections/
+```
+
+Use the most specific folder that fits the image.
+
+### Screenshots
+
+Screenshots used as evidence should go under:
+
+```text
+media/screenshots/
+```
+
+Example:
+
+```text
+media/screenshots/thebeerchaser-505-tavern-comment-2021.png
+```
+
+## Records
+
+Current administrative/legal records go under:
+
+```text
+records/
+```
+
+Examples:
+
+```text
+records/505-commercial-lease-2025.md
+records/505-commercial-lease-2025.pdf
+```
+
+## Evidence and Sources
+
+Evidence and source summaries live under:
+
+```text
+evidence/evidence-register.md
+evidence/source-register.md
+evidence/research-leads.md
+evidence/open-questions.md
+```
+
+Use evidence IDs such as `E-001`, source IDs such as `S-001`, and map IDs such as `SM-001`.
+
+## Buildings
+
+Building-specific narrative files live under:
+
+```text
+buildings/503-main.md
+buildings/505-main.md
+buildings/507-main.md
+```
+
+## Businesses
+
+Business-specific narrative files live under:
+
+```text
+businesses/
+```
+
+Examples:
+
+```text
+businesses/kwality-cafe.md
+businesses/the-505.md
+businesses/the-wheel.md
+businesses/brass-rail-tavern.md
+```
+
+## People / Family Context
+
+People and family context live under:
+
+```text
+people/people-index.md
+people/profiles/
+```
+
+Current family handling:
+
+- Grandmother's first marriage: Lafarlette.
+- Grandmother's second marriage: Grisham.
+- Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+- Sheila died in 2014.
+- Richard / Dick died in November 2024.
+
+## File Naming Rules
+
+Use lowercase, hyphens, and meaningful names.
+
+Good:
+
+```text
+new-kwality-cafe-matchbook-503-main-j-jager.jpg
+1925-6-5th.pdf
+505-commercial-lease-2025.pdf
+```
+
+Avoid:
+
+```text
+IMG_1234.JPG
+scan.pdf
+file-final-final.pdf
+```
+
+## Status Terms
+
+Use these status terms in metadata registers:
+
+- `committed` — actual source file is in the repository.
+- `referenced` — source is known but file is not in the repository.
+- `pending-upload` — planned repo path exists in metadata but source file still needs upload.
+- `external` — source remains outside repo by design.
+- `needs-transcription` — source file exists but has not yet been transcribed/summarized.
+- `needs-verification` — claim requires checking against the source.
