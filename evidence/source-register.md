@@ -58,3 +58,48 @@ Notes: Includes working claim that the 507 Harding Building fire occurred in lat
 URL: Internal user correction / project note.  
 Trust: Trusted internal project correction; formal records may later add full dates and spelling variants.
 Notes: Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. Richard / Dick died in November 2024; Sheila died in 2014.
+
+## S-014 — Sanborn Map Key
+URL: ChatGPT upload: `sanborn key(1).pdf`  
+Related map: `SM-001`; register: `maps/sanborn-map-register.md`  
+Notes: Key sheet for interpreting Sanborn map symbols, construction codes, openings, walls, hydrants, chimneys, and fire-protection marks.
+
+## S-015 — 1884 Sanborn Master Map, 5th Area
+URL: ChatGPT upload: `1884-01- Master Map (5th).pdf`  
+Related map: `SM-002`; register: `maps/sanborn-map-register.md`  
+Notes: April 1884 master map for the 5th/Main project area.
+
+## S-016 — 1888 Sanborn, 5th Area
+URL: ChatGPT upload: `1888-02 (5th).pdf`  
+Related map: `SM-003`; register: `maps/sanborn-map-register.md`  
+Notes: October 1888 Sanborn sheet 2 for the Main/Water/5th area.
+
+## S-017 — 1890 Sanborn, 5th Area
+URL: ChatGPT upload: `1890-02 (5th)(1).pdf`  
+Related map: `SM-004`; register: `maps/sanborn-map-register.md`  
+Notes: August 1890 Sanborn sheet 2 for the Main/Water/5th area.
+
+## S-018 — 1892 Sanborn, 5th Area
+URL: ChatGPT upload: `1892-03 (5th)(1).pdf`  
+Related map: `SM-005`; register: `maps/sanborn-map-register.md`  
+Notes: April 1892 Sanborn sheet 3 for the 5th/Main/Water area.
+
+## S-019 — 1900 Sanborn, 5th Area
+URL: ChatGPT upload: `1900-13 (5th)(1).pdf`  
+Related map: `SM-006`; register: `maps/sanborn-map-register.md`  
+Notes: May 1900 Sanborn sheet 13 for the 4th/5th/6th/Main/Water/Promenade/High area.
+
+## S-020 — 1911 Sanborn, 5th Area
+URL: ChatGPT upload: `1911-22 (5th)(1).pdf`  
+Related map: `SM-007`; register: `maps/sanborn-map-register.md`  
+Notes: November 1911 Sanborn sheet 22 for Oregon City / Canemah. Use carefully because it may cover a different 5th/Center context than the 503/505 Main commercial block.
+
+## S-021 — 1925 Sanborn, 5th Area
+URL: ChatGPT upload: `1925-6 (5th)(1).pdf`  
+Related map: `SM-008`; register: `maps/sanborn-map-register.md`  
+Notes: May 1925 Sanborn sheet 6. High-priority source for 501 / 503 / 505 Main, building footprint, and address-numbering questions.
+
+## S-022 — 1950 Sanborn, 5th Area
+URL: ChatGPT upload: `1950-6 (5th)(1).pdf`  
+Related map: `SM-009`; register: `maps/sanborn-map-register.md`  
+Notes: May 1925 base sheet revised through 1950. Useful comparison with 1925 for mid-century changes around 503/505/507 Main.
