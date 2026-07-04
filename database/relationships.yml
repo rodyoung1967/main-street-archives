@@ -1,0 +1,95 @@
+relationships:
+  artifacts:
+    - artifact_id: A-001
+      media_id: IMG-0001
+      repository_file: artifacts/images/A-001-new-kwality-cafe-matchbook.jpg
+      evidence_id: E-002
+      source_id: S-002
+      building_ids: [B-001]
+      business_ids: [BUS-002]
+      person_ids: [P-003]
+    - artifact_id: A-002
+      media_id: IMG-0002
+      repository_file: artifacts/images/A-002-larrys-kwality-cafe-matchcover.jpg
+      evidence_id: E-003
+      source_id: S-003
+      building_ids: [B-001]
+      business_ids: [BUS-003]
+      person_ids: [P-004]
+
+  media:
+    - media_id: IMG-0003
+      repository_file: media/screenshots/thebeerchaser-505-tavern-comment-2021.png
+      status: pending-upload
+      evidence_id: E-013
+      source_id: S-009
+      building_ids: [B-002]
+      business_ids: [BUS-005]
+    - media_id: IMG-0004
+      status: external
+      source_id: S-010
+      evidence_ids: [E-015]
+      building_ids: [B-001, B-002]
+      business_ids: [BUS-004, BUS-005]
+    - media_id: IMG-0005
+      status: external
+      source_id: S-010
+      evidence_ids: [E-015, E-017]
+      building_ids: [B-001, B-002, B-003]
+
+  sanborn_maps:
+    - map_id: SM-001
+      source_id: S-014
+      repository_file: maps/sanborn/originals/sanborn key.pdf
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-002
+      source_id: S-015
+      repository_file: maps/sanborn/originals/1884-01- Master Map (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-003
+      source_id: S-016
+      repository_file: maps/sanborn/originals/1888-02 (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-004
+      source_id: S-017
+      repository_file: maps/sanborn/originals/1890-02 (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-005
+      source_id: S-018
+      repository_file: maps/sanborn/originals/1892-03 (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-006
+      source_id: S-019
+      repository_file: maps/sanborn/originals/1900-13 (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-007
+      source_id: S-020
+      repository_file: maps/sanborn/originals/1911-22 (5th).pdf
+      evidence_ids: [E-020]
+      building_ids: [B-001, B-002, B-003]
+      note: Use carefully because it may cover a different 5th/Center context.
+    - map_id: SM-008
+      source_id: S-021
+      repository_file: maps/sanborn/originals/1925-6 (5th).pdf
+      evidence_ids: [E-020, EV-SAN-1925-1950-001]
+      building_ids: [B-001, B-002, B-003]
+    - map_id: SM-009
+      source_id: S-022
+      repository_file: maps/sanborn/originals/1950-6 (5th).pdf
+      evidence_ids: [E-020, EV-SAN-1925-1950-001]
+      building_ids: [B-001, B-002, B-003]
+
+  business_buildings:
+    - building_id: B-001
+      business_ids: [BUS-001, BUS-002, BUS-003, BUS-004]
+    - building_id: B-002
+      business_ids: [BUS-004, BUS-005, BUS-006, BUS-009, BUS-010]
+    - building_id: B-003
+      business_ids: [BUS-007, BUS-008]
+
+  maintenance_note: Keep this file synchronized with indexes/id-crosswalk.md and the Markdown registers.
