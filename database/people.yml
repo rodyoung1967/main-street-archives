@@ -23,6 +23,8 @@ people:
       - B-001
     related_businesses:
       - BUS-002
+    related_artifacts:
+      - A-001
 
   - id: P-004
     name: Larry
@@ -32,48 +34,50 @@ people:
       - B-001
     related_businesses:
       - BUS-003
+    related_artifacts:
+      - A-002
 
   - id: P-005
     name: Ray Hansen
     role: Owner
-    notes: Owned 505 business before Dick and Sheila.
+    notes: Owned the 505 business before Richard / Dick and Sheila, based on family/oral history pending documentary confirmation.
     related_buildings:
       - B-002
 
   - id: P-006
     name: Ray Grisham
     role: Owner/operator?
-    notes: Mentioned in relation to The Wheel; needs clarification vs. Ray Hansen.
+    notes: Mentioned in relation to the 505 / The Wheel context; keep distinct from Ray Hansen until records clarify identity and role.
     related_buildings:
       - B-002
     related_businesses:
       - BUS-004
 
   - id: P-007
-    name: Dick
-    role: Owner
-    notes: Owned after Ray Hansen with Sheila.
+    name: Richard / Dick Wiitanen
+    role: Owner / stepfather
+    notes: Owned after Ray Hansen with Sheila. Stepfather in the Wiitanen family context. Died November 2024.
     related_buildings:
       - B-002
 
   - id: P-008
-    name: Sheila
-    role: Owner
-    notes: Owned after Ray Hansen with Dick.
+    name: Sheila Wiitanen
+    role: Owner / mother
+    notes: Owned after Ray Hansen with Richard / Dick. User's mother in the Wiitanen family context. Died 2014.
     related_buildings:
       - B-002
 
   - id: P-009
     name: Willie
     role: Bartender
-    notes: Heavyset bartender; worked under Ray Hansen and Dick and Sheila.
+    notes: Heavyset bartender; worked under Ray Hansen and Richard / Dick and Sheila.
     related_buildings:
       - B-002
 
   - id: P-010
     name: Victor
     role: Restaurant manager
-    notes: Independently managed restaurant during Ray Grisham era and early Dick and Sheila years.
+    notes: Independently managed restaurant during Ray Grisham era and early Richard / Dick and Sheila years.
     related_buildings:
       - B-002
     related_businesses:
@@ -82,11 +86,11 @@ people:
   - id: P-011
     name: Mitch Young
     role: Owner/operator
-    notes: Owned and operated The Wheel, March 1991 to March 2004.
+    notes: Owned and operated the 505 Main Street business / The 505 from March 1991 to March 2004; exact legal/trade name remains unresolved and should not automatically be labeled The Wheel without documentary evidence.
     related_buildings:
       - B-002
     related_businesses:
-      - BUS-004
+      - BUS-009
 
   - id: P-012
     name: Mike Berman
@@ -106,3 +110,63 @@ people:
     related_businesses:
       - BUS-006
 
+  - id: P-014
+    name: Rodney Young
+    role: Current owner / project steward
+    notes: Current owner/steward of 505 Main Street and the archive. Managing member/signatory context appears in 2025 505 lease record.
+    related_buildings:
+      - B-002
+
+  - id: P-015
+    name: Young family
+    role: Family ownership context
+    notes: Family connected to 503 and 505 Main Street; parents and earlier grandparents connected to 503 Main.
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: P-016
+    name: Grisham family
+    role: Family history context
+    notes: Grandmother's second marriage was Grisham. Preserve Ray Grisham as a separate unresolved 505 / The Wheel person until documented.
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: P-017
+    name: Wiitanen family
+    role: Family history context
+    notes: User's mother Sheila and stepfather Richard / Dick were Wiitanens; this belongs to the mother/stepfather branch.
+    related_buildings:
+      - B-002
+
+  - id: P-018
+    name: Mitchell C. Young
+    role: 505 LLC managing member / historical participant
+    notes: Managing member/signatory context appears in 2025 505 lease; also source of family/oral-history questions about 505.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-009
+
+  - id: P-019
+    name: Alin Guria
+    role: 2025 lessee
+    notes: Lessee in 2025 commercial lease for 505 Main Street.
+    related_buildings:
+      - B-002
+
+  - id: P-020
+    name: Skyline Property Management
+    role: Property manager / authorized agent
+    notes: Property manager and authorized agent in 2025 commercial lease for 505 Main Street.
+    related_buildings:
+      - B-002
+
+  - id: P-021
+    name: Lafarlette family
+    role: Family history context
+    notes: Grandmother's first marriage was Lafarlette. Spelling should be preserved as provided unless records show a variant.
+    related_buildings:
+      - B-001
+      - B-002
