@@ -3,8 +3,17 @@
 ## Pre-1840s
 The site was part of the area that became Oregon City's earliest commercial district near the falls and riverfront.
 
-## Late 1880s-Early 1900s
-503 and 505 Main were previously considered likely late-1880s buildings, but this remains unproven.
+## 1884 Sanborn baseline
+The 1884 Sanborn master map covers the 5th/Main project area and is now the earliest uploaded Sanborn baseline for the block. Detailed crop/transcription is still pending.
+
+## 1888-1890 Sanborn sequence
+The 1888 and 1890 Sanborn sheets cover the 5th/Main area and should be compared against 1884 and 1892 for early footprint continuity.
+
+## 1892 Sanborn
+The 1892 Sanborn sheet shows a developed Main-facing commercial row at the 5th/Main block. Visible labels include clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank. This supports a pre-1919 commercial frontage in the relevant area, though exact mapping to later modern addresses still needs work.
+
+## 1900 Sanborn
+The 1900 Sanborn sheet shows a developed Main-frontage commercial row near 5th with labels including saloon, grocery, bake house, dry goods/clothing/gents furnishing, furniture/stoves/wall paper, grocery, drugs, jewelry/bicycles, and I.O.O.F. Hall. This further supports that the commercial frontage predates the later-reported 1919 construction date.
 
 ## By 1909
 507 Main was known as the Harding Building. George A. Harding / Harding Drug Store and Dr. Bailey are associated with the Harding Building context.
@@ -13,13 +22,16 @@ The site was part of the area that became Oregon City's earliest commercial dist
 A Time Capsule Maps photo-metadata record describes a circa-1910 view at 5th Street / McLoughlin Boulevard / US99E and Main Street. The metadata states that the first building in the picture is gone and is now 503 and 505 Main Street. Treat as trusted internal Time Capsule Maps metadata, with original source/date still desirable for external historical claims.
 
 ## 1919
-A 2017 article and later commercial listing report 503 Main was constructed in 1919. This is currently a leading hypothesis, pending primary confirmation. The date may represent original construction, a major remodel, a rebuild, or an inherited record date.
+A 2017 article and later commercial listing report 503 Main was constructed in 1919. In light of the Sanborn sequence, this is best treated as a working hypothesis for a specific building event, remodel, rebuild, reassessment, or inherited record date rather than proven first construction of the commercial frontage.
 
-## 1925 Sanborn map lead
-Time Capsule Maps metadata reports that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street, and that it is unclear what was ever at 501 Main. This needs direct Sanborn verification.
+## 1925 Sanborn
+The 1925 Sanborn sheet shows modern-style Main Street address labels including 501, 503, 505, and 507. Working transcription: 501 appears as a store; 503 is labeled restaurant with a concrete-floor note; 505 is labeled billiards and cigars; nearby spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor.
+
+## 1950 Sanborn revision
+The 1950 revised Sanborn sheet continues to show separate 503, 505, and 507 occupancies. Working transcription: 503 is labeled restaurant; 505 is labeled billiards, cigars, and beer with restaurant wording also visible in/near the same lower-frontage context; 507 appears as a separate store space.
 
 ## 1940s-1950s
-503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe. Matchbooks document J. Jager and Larry's Kwality Cafe at 503 Main.
+503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe. Matchbooks document J. Jager and Larry's Kwality Cafe at 503 Main. The 1950 Sanborn restaurant label at 503 is consistent with a restaurant/cafe use in this period, but does not by itself prove the Kwality name.
 
 ## 1971 memory / later recollection
 A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
