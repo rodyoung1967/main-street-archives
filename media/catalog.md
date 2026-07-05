@@ -21,6 +21,7 @@ Use that file for current media IDs, repository file paths, status values, and s
 | `IMG-0003` | `media/photo-metadata-register.md` | Pending upload: `media/screenshots/thebeerchaser-505-tavern-comment-2021.png` |
 | `IMG-0004` | `media/photo-metadata-register.md` | External / Time Capsule Maps metadata |
 | `IMG-0005` | `media/photo-metadata-register.md` | External / Time Capsule Maps metadata |
+| `IMG-0006`–`IMG-0043` | `media/photo-metadata-register.md` | Committed: `media/photos/aerials/` (38-frame 5th & Main photocompare series, `E-021` / `S-023`) |
 
 ## Deprecated Older Paths
 

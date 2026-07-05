@@ -6,8 +6,8 @@
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`
 - Related people: `P-003`, `P-004`, `P-011`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-004`, `E-009`, `E-011`, `E-012`, `E-014`, `E-015`, `E-019`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-006`, `S-007`, `S-008`, `S-010`, `S-013`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-004`, `E-009`, `E-011`, `E-012`, `E-014`, `E-015`, `E-019`, `E-020`, `E-021`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-006`, `S-007`, `S-008`, `S-010`, `S-013`, `S-023`
 - Related timeline entries: `T-004`, `T-005`, `T-007`, `T-008`
 
 ## Known / Working History
@@ -65,6 +65,8 @@ There is an unresolved physical-boundary question between 503 and 505. Current o
 
 Photo metadata reports that the building now represented by 503 and 505 Main replaced an earlier building visible in a circa-1910 5th/Main image. The same metadata points to a 1925 Sanborn map labelled 501, 503, and 505. This should be reviewed directly.
 
+The 1929–2025 aerial photocompare series (`E-021` / `S-023`) supports McLoughlin / US99E corridor continuity and mid-century Main-frontage building presence, but does not by itself prove 501 Main disposition or the exact 503/505 legal boundary. See [Aerial 5th & Main analysis](../evidence/aerial-5th-main-photocompare-series.md).
+
 ## Related Businesses
 
 | ID | Business | Status |
@@ -88,6 +90,8 @@ Photo metadata reports that the building now represented by 503 and 505 Main rep
 | `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Main / The 505 unless documents prove another name. |
 | `E-015` | Time Capsule Maps metadata | Reports The Wheel at 503, 505 Tavern to the right, 1925 Sanborn 501/503/505 issue, and 503 modification around 2017. |
 | `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
+| `E-020` | Sanborn map series | 1925 sheet labels separate 501, 503, 505, 507; developed frontage before 1919 construction claim. |
+| `E-021` | Aerial photocompare series | 1929–2025 5th & Main aerials; McLoughlin / US99E corridor; 501 disposition unresolved from aerials alone. |
 
 ## Research Priorities
 

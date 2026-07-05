@@ -71,3 +71,6 @@ Richard / Dick Wiitanen died in November 2024.
 
 ## July 1, 2025-June 30, 2030
 A 2025 commercial lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main Street, with restaurant/bar use, base rent of $2,700/month, NNN-style additional rent, and Skyline Property Management as property manager/authorized agent.
+
+## 2026-07-05 — Aerial Photocompare Series Import
+Thirty-eight Oregon City photocompare aerial screenshots (`S-023` / `E-021`, `IMG-0006`–`IMG-0043`) imported for 5th & Main Street, 1929–2025. Working observations: McLoughlin / US99E labeled by 1929; wider graded corridor by 1936; Main-frontage buildings visible through much of mid-century; 501 Main disposition still unresolved from aerials alone. See `evidence/aerial-5th-main-photocompare-series.md`.

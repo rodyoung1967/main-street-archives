@@ -112,3 +112,9 @@ Repository file: `maps/sanborn/originals/1950-6 (5th).pdf`
 Original upload filename: `1950-6 (5th)(1).pdf`  
 Related map: `SM-009`; register: `maps/sanborn-map-register.md`  
 Notes: May 1925 base sheet revised through 1950. Useful comparison with 1925 for mid-century changes around 503/505/507 Main.
+
+## S-023 — Oregon City Aerial Photocompare Tool
+URL: https://maps.orcity.org/galleries/photocompare/index.html  
+Related media: `IMG-0006` through `IMG-0043`  
+Related evidence: `E-021`  
+Notes: City-hosted historical aerial comparison viewer. Screenshots imported 2026-07-05 for the 5th & Main Street series (1929–2025). Use as oriented aerial evidence; original survey negatives, collection dates, and licensing should be confirmed if making external publication claims.

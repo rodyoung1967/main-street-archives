@@ -104,3 +104,8 @@ sources:
     name: 1950 Sanborn, 5th Area
     url: ChatGPT upload - 1950-6 (5th)(1).pdf
     notes: May 1925 base sheet revised through 1950. Related map SM-009.
+
+  - id: S-023
+    name: Oregon City Aerial Photocompare Tool
+    url: https://maps.orcity.org/galleries/photocompare/index.html
+    notes: City-hosted historical aerial comparison viewer. Screenshots imported 2026-07-05 for 5th and Main Street series 1929-2025. Related evidence E-021; media IMG-0006 through IMG-0043.

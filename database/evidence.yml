@@ -339,3 +339,21 @@ evidence:
       - SM-007
       - SM-008
       - SM-009
+
+  - id: E-021
+    name: "Aerial Photocompare Series: 5th & Main / McLoughlin Context"
+    type: Aerial photograph evidence
+    claims:
+      - Oregon City photocompare aerial series 1929-2025 centered on 5th and Main shows McLoughlin Blvd / US99E labeling by 1929.
+      - A wider graded highway corridor west of Main appears by 1936.
+      - Main Street commercial frontage between 5th and McLoughlin remains visibly built through much of the mid-20th century in this view.
+      - The series does not confidently isolate the Sanborn-labeled 501 Main footprint in early B&W frames.
+      - The series does not establish a single year when 501 vanished or was absorbed.
+      - 1996 flood frame shows high water near riverfront / McLoughlin corridor.
+    confidence: Moderate for highway/corridor labeling and general block continuity; low to moderate for isolating 501 Main; not sufficient alone for business names, ownership, or exact demolition dates.
+    related_sources:
+      - S-023
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003

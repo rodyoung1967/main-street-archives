@@ -5,8 +5,8 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`
-- Related sources: `S-010`, `S-012`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`
+- Related sources: `S-010`, `S-012`, `S-023`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 

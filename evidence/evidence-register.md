@@ -108,3 +108,10 @@ Type: Primary map evidence
 Sources: `S-014` through `S-022`; detailed comparison file: `maps/sanborn-comparison-503-505-507.md`; structured note: `evidence/sanborn-1925-1950-evidence.md`  
 Claims: The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date. The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507; 501 appears as a store, 503 as restaurant, 505 as billiards/cigars, and nearby spaces include dry goods/clothing, grocery, drugs, and I.O.O.F. Hall. The 1950 revised sheet continues to show separate 503/505/507 occupancies, with 503 restaurant and 505 billiards/cigars/beer-related use.  
 Confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
+
+## E-021 — Aerial Photocompare Series: 5th & Main / McLoughlin Context
+Type: Aerial photograph evidence (viewer screenshots)  
+Sources: `S-023`; detailed analysis: `evidence/aerial-5th-main-photocompare-series.md`  
+Related media: `IMG-0006` through `IMG-0043`  
+Claims: Oregon City photocompare aerial series (1929–2025) centered on 5th & Main shows McLoughlin Blvd / US99E labeling by 1929 and a wider graded highway corridor west of Main by 1936. Main Street commercial frontage between 5th and McLoughlin remains visibly built through much of the mid-20th century in this view. The series does not confidently isolate the Sanborn-labeled 501 Main footprint in early B&W frames and does not establish a single year when 501 vanished or was absorbed. 1996 flood frame shows high water near riverfront / McLoughlin corridor.  
+Confidence: Moderate for highway/corridor labeling and general block continuity; low to moderate for isolating 501 Main; not sufficient alone for business names, ownership, or exact demolition dates.

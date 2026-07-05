@@ -21,6 +21,7 @@ buildings:
       - E-011
       - E-015
       - E-020
+      - E-021
     related_maps:
       - SM-002
       - SM-003
@@ -72,6 +73,7 @@ buildings:
       - E-015
       - E-018
       - E-020
+      - E-021
     related_maps:
       - SM-002
       - SM-003
@@ -96,6 +98,7 @@ buildings:
       - E-016
       - E-017
       - E-020
+      - E-021
     related_maps:
       - SM-002
       - SM-003

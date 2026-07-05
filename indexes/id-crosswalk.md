@@ -38,14 +38,15 @@ This file connects the archive's ID systems so related records can be audited wi
 | `SM-007` 1911 Sanborn | `S-020` | `maps/sanborn/originals/1911-22 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | Use carefully; may cover a different 5th/Center context |
 | `SM-008` 1925 Sanborn | `S-021` | `maps/sanborn/originals/1925-6 (5th).pdf` | `E-020`, `EV-SAN-1925-1950-001`, `evidence/sanborn-1925-1950-evidence.md` | `B-001`, `B-002`, `B-003`; possible 501 question |
 | `SM-009` 1950 Sanborn | `S-022` | `maps/sanborn/originals/1950-6 (5th).pdf` | `E-020`, `EV-SAN-1925-1950-001`, `evidence/sanborn-1925-1950-evidence.md` | `B-001`, `B-002`, `B-003` |
+| Aerial photocompare 1929–2025 | `S-023` | `media/photos/aerials/` (`IMG-0006`–`IMG-0043`) | `E-021`, `evidence/aerial-5th-main-photocompare-series.md` | `B-001`, `B-002`, `B-003`; `OQ-005`, `OQ-023` |
 
 ## Building / Business Crosswalk
 
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
-| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-002` New Kwality Cafe; `BUS-003` Larry's Kwality Cafe; `BUS-004` The Wheel question | `E-001`, `E-002`, `E-003`, `E-011`, `E-015`, `E-020`; `S-001`, `S-002`, `S-003`, `S-010`, `S-014`-`S-022` |
-| `B-002` 505 Main Street | `BUS-004` The Wheel question; `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-009` The 505; `BUS-010` Brass Rail Tavern | `E-004`, `E-005`, `E-006`, `E-007`, `E-008`, `E-010`, `E-011`, `E-013`, `E-014`, `E-015`, `E-018`, `E-020`; `S-004`, `S-005`, `S-009`, `S-010`, `S-011`, `S-014`-`S-022` |
-| `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`; `S-012`, `S-014`-`S-022` |
+| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-002` New Kwality Cafe; `BUS-003` Larry's Kwality Cafe; `BUS-004` The Wheel question | `E-001`, `E-002`, `E-003`, `E-011`, `E-015`, `E-020`, `E-021`; `S-001`, `S-002`, `S-003`, `S-010`, `S-014`-`S-022`, `S-023` |
+| `B-002` 505 Main Street | `BUS-004` The Wheel question; `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-009` The 505; `BUS-010` Brass Rail Tavern | `E-004`, `E-005`, `E-006`, `E-007`, `E-008`, `E-010`, `E-011`, `E-013`, `E-014`, `E-015`, `E-018`, `E-020`, `E-021`; `S-004`, `S-005`, `S-009`, `S-010`, `S-011`, `S-014`-`S-022`, `S-023` |
+| `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
 
 ## Person / Business Crosswalk
 
