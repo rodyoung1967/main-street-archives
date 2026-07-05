@@ -19,38 +19,56 @@ evidence:
     name: New Kwality Cafe Matchbook
     type: Primary artifact
     claims:
-      - New Kwality Cafe operated at 503 Main St.
-      - J. Jager was proprietor.
-      - The matchbook includes the phrase "We Never Close."
+      - New Kwality Cafe at 503 Main St.
+      - J. Jager, Prop.
+      - "We Never Close."
     confidence: Very High
     related_sources:
       - S-002
     related_artifacts:
       - A-001
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-002
+    related_people:
+      - P-003
 
   - id: E-003
     name: Larry's Kwality Cafe Matchbook
     type: Primary artifact
     claims:
-      - Larry's Kwality Cafe operated at 503 Main Street.
-      - The listed telephone number was 6106.
-      - The business advertised merchant lunches, steaks, and chops.
+      - Larry's Kwality Cafe at 503 Main Street.
+      - Telephone 6106.
+      - Merchant lunches, steaks, chops.
     confidence: Very High
     related_sources:
       - S-003
     related_artifacts:
       - A-002
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-003
+    related_people:
+      - P-004
 
   - id: E-004
     name: Mitch Young Direct Testimony
     type: Primary participant testimony
     claims:
-      - Mitch Young owned and operated The Wheel from March 1991 to March 2004.
-    confidence: Very High
+      - Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004.
+      - Exact legal/trade name during that period still needs documentary confirmation.
+      - Should not automatically be equated with The Wheel unless supported by primary records.
+    confidence: Very High for Mitch's ownership/operation dates and 505 Main Street location; unresolved for exact formal business name.
+    related_sources:
+      - S-005
     related_people:
       - P-011
     related_businesses:
-      - BUS-004
+      - BUS-009
+    related_buildings:
+      - B-002
     related_oral_history:
       - OH-001
 
@@ -58,8 +76,10 @@ evidence:
     name: Ray Hansen Ownership
     type: Family/oral history
     claims:
-      - Ray Hansen owned the 505 business before Dick and Sheila.
+      - Ray Hansen owned the 505 business before Richard / Dick and Sheila.
     confidence: High, pending documentary confirmation
+    related_sources:
+      - S-006
     related_people:
       - P-005
       - P-007
@@ -71,25 +91,33 @@ evidence:
     name: Willie Bartender
     type: Family/oral history
     claims:
-      - Willie worked as bartender under Ray Hansen and later under Dick and Sheila.
+      - Willie worked as bartender under Ray Hansen and later under Richard / Dick and Sheila.
     confidence: High, pending full identification
+    related_sources:
+      - S-006
     related_people:
       - P-005
       - P-007
       - P-008
       - P-009
+    related_buildings:
+      - B-002
 
   - id: E-007
     name: Victor Restaurant Manager
     type: Family/oral history
     claims:
-      - Victor independently managed the restaurant during Ray Grisham's years and early Dick and Sheila years.
+      - Victor independently managed the restaurant during Ray Grisham's years and early Richard / Dick and Sheila years.
     confidence: High, pending full identification
+    related_sources:
+      - S-006
     related_people:
       - P-006
       - P-007
       - P-008
       - P-010
+    related_buildings:
+      - B-002
 
   - id: E-008
     name: 2017 505 Tavern / Thirsty Duck Article
@@ -107,22 +135,175 @@ evidence:
     related_businesses:
       - BUS-005
       - BUS-006
+    related_buildings:
+      - B-002
 
   - id: E-009
-    name: Sanborn Map Image Set - Main / Water / 5th / 6th Block
-    type: Primary mapping evidence, pending source metadata
+    name: Young / Lafarlette / Grisham / Wiitanen Family Context
+    type: Family/oral history / project provenance
     claims:
-      - User-provided map images show the block bounded by Main Street, Water Street, 5th Street, and 6th Street.
-      - The images include 500-block Main Street frontage relevant to 503, 505, and 507 Main.
-      - Visible map labels include restaurants, billiards and cigars, drugs, grocery, lodgings, moving pictures, club/cleaning/confectionery uses, Oregon City Laundry, auto sales, machine shop, telephone office/shop, and retail paints.
-    confidence: High that the images are relevant map evidence for the project block; low for exact date/source and address-to-business assignments until source metadata is confirmed.
+      - Rodney Young currently owns 505 Main Street.
+      - Rodney's parents and earlier grandparents were connected to 503 Main Street.
+      - Grandmother's first marriage was Lafarlette and second marriage was Grisham.
+      - Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+    confidence: High as trusted internal family/project provenance; documentary confirmation still desirable for formal ownership dates and spellings.
     related_sources:
-      - S-005
+      - S-006
+    related_people:
+      - P-014
+      - P-015
+      - P-016
+      - P-017
+      - P-021
     related_buildings:
       - B-001
       - B-002
+
+  - id: E-010
+    name: 505 Rear Addition Recollection
+    type: Family/oral history
+    claims:
+      - Mitch Young recalled or reported that the rear portion of the 505 building may have been added later.
+    confidence: Moderate to High as oral history; needs confirmation through permits, assessor sketches, Sanborn maps, tax records, or physical building analysis.
+    related_sources:
+      - S-006
+    related_people:
+      - P-011
+    related_buildings:
+      - B-002
+
+  - id: E-011
+    name: 503 / 505 Footprint and Width Uncertainty
+    type: Owner observation / working research note
+    claims:
+      - 505 may extend farther back than 503, while 503 may be somewhat wider.
+      - Exact legal, physical, and historical boundary between the two buildings is unresolved.
+    confidence: Moderate as field/owner observation; needs confirmation through tax maps, assessor sketches, deeds, Sanborn maps, and measurements.
+    related_sources:
+      - S-008
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: E-012
+    name: Tax Statement / Tax Record Materials
+    type: Primary or administrative record, pending transcription
+    claims:
+      - Tax statements and related tax record materials may help establish parcel descriptions, assessed improvements, building footprint, construction dates, remodel/addition clues, and ownership history for 503 and 505 Main Street.
+    confidence: Pending extraction/transcription; should be linked to specific uploaded images or documents when added to the archive.
+    related_sources:
+      - S-007
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: E-013
+    name: Thebeerchaser 505 Tavern Comment Screenshot
+    type: Web screenshot / public comment evidence
+    claims:
+      - A commenter recalled the 505 Tavern on Main St. in connection with Publishers Paper workers and a 1971 draft-number celebration.
+      - Thebeerchaser replied with a memory of delivering the paper to the 505 and being greeted by the bartender while regulars clapped.
+    confidence: Moderate for local memory and culture; weak to moderate for formal business chronology until corroborated.
+    related_sources:
+      - S-009
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-014
+    name: 505 Location Correction / The 505 Handling Note
+    type: Project correction / direct user clarification
+    claims:
+      - Mitch Young's confirmed ownership/operation period should be tied to the 505 Main Street business / The 505, not automatically to The Wheel.
+      - The Wheel remains a related but unresolved name/address question until primary documentation supports the exact usage.
+    confidence: High for archive-handling rule; documentary confirmation still needed for the legal/trade name.
+    related_sources:
+      - S-013
+    related_people:
+      - P-011
+    related_businesses:
+      - BUS-004
+      - BUS-009
+    related_buildings:
+      - B-002
+
+  - id: E-015
+    name: "Time Capsule Maps Photo Metadata: 503 / 505 / 5th-Main"
+    type: Project metadata / photo metadata export
+    claims:
+      - One photo metadata record labels The Wheel at 503 Main Street and notes 505 Tavern to the right at 505 Main Street.
+      - Circa-1910 5th/Main record says the first building in the picture is gone and is now 503 and 505 Main.
+      - The 1925 Sanborn shows 501, 503, and 505; the 501 history is unclear.
+      - 503 was significantly modified around 2017.
+    confidence: High as trusted internal project metadata for what Time Capsule Maps records; original image/source details should still be cited when making external historical claims.
+    related_sources:
+      - S-010
+    related_buildings:
+      - B-001
+      - B-002
+    related_businesses:
+      - BUS-004
+      - BUS-005
+      - BUS-010
+
+  - id: E-016
+    name: Harding Building Fire Oral / Project Notes
+    type: Family/oral history / project note
+    claims:
+      - The Harding Building at 507 Main burned in the late 1960s, likely late 1968 or 1969.
+      - Tony's Restaurant and a bakery were involved.
+      - The fire may have started in or spread through the bakery area.
+    confidence: Moderate to High as project/oral-history evidence; requires newspaper, fire department, permit, assessor, or city-record confirmation.
+    related_sources:
+      - S-012
+    related_buildings:
       - B-003
-    local_files:
-      - maps/images/sanborn-main-water-5th-6th-detail-01.jpg
-      - maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg
-      - maps/images/sanborn-main-water-5th-6th-detail-02.jpg
+    related_businesses:
+      - BUS-008
+
+  - id: E-017
+    name: "Photo Metadata: Harding Building Replacement Note"
+    type: Project metadata / photo metadata export
+    claims:
+      - The circa-1910 5th/Main photo metadata notes that the taller Harding Building at 507 burned and was replaced by the current building.
+    confidence: High as trusted internal project metadata for what Time Capsule Maps records; original image/source details should still be cited when making external historical claims.
+    related_sources:
+      - S-010
+    related_buildings:
+      - B-003
+
+  - id: E-018
+    name: 505 Commercial Lease, 2025
+    type: Current administrative/legal record
+    claims:
+      - 505 LLC leased 505 Main Street to Alin Guria for July 1, 2025 through June 30, 2030.
+      - Base rent $2,700/month; restaurant/bar use.
+      - Skyline Property Management as property manager/authorized agent.
+    confidence: Very High for current lease facts shown in the lease document; not evidence for earlier business names.
+    related_sources:
+      - S-011
+    related_people:
+      - P-014
+      - P-018
+      - P-019
+      - P-020
+    related_buildings:
+      - B-002
+
+  - id: E-019
+    name: Family Name / Death-Date Correction
+    type: Project correction / direct user clarification
+    claims:
+      - Grandmother's first marriage was Lafarlette and second marriage was Grisham.
+      - Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+      - Richard / Dick died in November 2024; Sheila died in 2014.
+    confidence: High as trusted internal family/project correction; formal records may later add full dates and spellings.
+    related_sources:
+      - S-013
+    related_people:
+      - P-007
+      - P-008
+      - P-016
+      - P-017
+      - P-021

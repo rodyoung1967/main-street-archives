@@ -2,8 +2,7 @@
 
 ## Archive IDs
 
-- Evidence ID: `E-009`
-- Source ID: `S-005`
+- Source ID: pending formal registration
 - Related buildings: `B-001`, `B-002`, `B-003`
 - Related files:
   - `maps/images/sanborn-main-water-5th-6th-detail-01.jpg`

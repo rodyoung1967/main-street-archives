@@ -1,15 +1,85 @@
 maps:
-  - source_id: S-005
-    evidence_id: E-009
-    title: Sanborn map images - Main / Water / 5th / 6th block
-    source_status: User-provided screenshots; exact source URL, Sanborn edition, and date need confirmation.
+  - id: SM-001
+    source_id: S-014
+    title: Sanborn Key
+    date: Undated key sheet
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+
+  - id: SM-002
+    source_id: S-015
+    title: 1884 Master Map, 5th Area
+    date: April 1884
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
     related_buildings:
       - B-001
       - B-002
       - B-003
-    files:
-      - maps/images/sanborn-main-water-5th-6th-detail-01.jpg
-      - maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg
-      - maps/images/sanborn-main-water-5th-6th-detail-02.jpg
-    notes: Images show the Main / Water / 5th / 6th block and 500-block Main Street frontage. Treat as map evidence with date/source metadata pending.
 
+  - id: SM-003
+    source_id: S-016
+    title: 1888 Sanborn, 5th Area
+    date: October 1888
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+
+  - id: SM-004
+    source_id: S-017
+    title: 1890 Sanborn, 5th Area
+    date: August 1890
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+
+  - id: SM-005
+    source_id: S-018
+    title: 1892 Sanborn, 5th Area
+    date: April 1892
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+
+  - id: SM-006
+    source_id: S-019
+    title: 1900 Sanborn, 5th Area
+    date: May 1900
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+
+  - id: SM-007
+    source_id: S-020
+    title: 1911 Sanborn, 5th Area
+    date: November 1911
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    notes: May cover a different 5th/Center context than the 503/505 Main commercial block; use carefully.
+
+  - id: SM-008
+    source_id: S-021
+    title: 1925 Sanborn, 5th Area
+    date: May 1925
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    notes: High-priority source for 501/503/505 Main, building footprint, and address-numbering questions.
+
+  - id: SM-009
+    source_id: S-022
+    title: 1950 Sanborn, 5th Area
+    date: May 1925 base revised through 1950
+    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    notes: Useful comparison with 1925 for mid-century changes around 503/505/507 Main.

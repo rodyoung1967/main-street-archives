@@ -64,7 +64,7 @@ Mitch Young's confirmed March 1991-March 2004 period belongs under 505 Main Stre
 
 ### 507 Main Street / Harding Building
 
-Primary file: `buildings/507-main.md`
+Primary file: `buildings/507-harding-building.md`
 
 Associated names and topics:
 

@@ -25,7 +25,7 @@ Do not replace uncertainty with certainty. If new information conflicts with exi
    - `OH-###` for oral history
    - `T-###` for timeline entries
    - `RL-###` for research leads
-   - `Q-###` for open questions
+   - `OQ-###` for open questions
 3. Check existing IDs before creating a new one.
 4. Never renumber existing IDs.
 

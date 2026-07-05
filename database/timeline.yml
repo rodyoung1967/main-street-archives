@@ -45,22 +45,28 @@ timeline:
       - BUS-003
 
   - id: T-006
-    date: Late 1967-1968
-    summary: The original Harding Building at 507 was reportedly destroyed by fire; the replacement building was completed in 1968.
+    date: Late 1960s
+    summary: The original Harding Building at 507 was reportedly destroyed by fire; replacement building completed circa 1968. Exact fire date pending primary confirmation.
     confidence: Needs primary confirmation
+    related_evidence:
+      - E-016
+      - E-017
     related_buildings:
       - B-003
 
   - id: T-007
     date: March 1991-March 2004
-    summary: Mitch Young owned and operated The Wheel.
-    confidence: Very High
+    summary: Mitch Young owned and operated the 505 Main Street business / The 505. Exact legal/trade name unresolved.
+    confidence: Very High for dates and role; unresolved for formal business name
     related_evidence:
       - E-004
+      - E-014
     related_people:
       - P-011
     related_businesses:
-      - BUS-004
+      - BUS-009
+    related_buildings:
+      - B-002
 
   - id: T-008
     date: 2017
@@ -72,4 +78,6 @@ timeline:
     related_businesses:
       - BUS-005
       - BUS-006
-
+    related_buildings:
+      - B-001
+      - B-002

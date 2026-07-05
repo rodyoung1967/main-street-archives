@@ -50,7 +50,7 @@ Preserve conflicting evidence rather than discarding it.
 - `OH-###`
 - `T-###`
 - `RL-###`
-- `Q-###`
+- `OQ-###`
 
 ## Research Rules
 
