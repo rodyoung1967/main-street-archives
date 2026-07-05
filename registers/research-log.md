@@ -9,6 +9,7 @@ This log records searches, imports, reviews, and research decisions so the proje
 | 2026-07-02 | Added media archive structure | Added media catalog and photo folder READMEs. | Upload actual image/PDF/scan files into chat or repository for import. |
 | 2026-07-02 | Added address, ownership, and business timeline registers | Created structured cross-reference tables for 503, 505, and 507 Main. | Keep these synchronized with evidence and timeline updates. |
 | 2026-07-05 | Imported Oregon City aerial photocompare series | Moved 38 JPGs from `research-inbox/` to `media/photos/aerials/` as `IMG-0006`–`IMG-0043`; added `E-021`, `S-023`, analysis doc, and register updates. | ODOT/highway records, assessor sketches, and overlay comparison with Sanborn for OQ-005 / OQ-023. |
+| 2026-07-05 | Corrected 501 Main aerial reading (`D-003`) | Steward review: 1936 frame shows distinct 501/503/505 roofs; 501 absent by 1944; east-side building across from 500 Main also gone. Removal window **1936–1944**. Supersedes initial integration misread. | Pin exact removal year; identify 501 business/owner; test highway acquisition records. |
 
 ## Pending Import Work
 

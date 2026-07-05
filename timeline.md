@@ -73,4 +73,7 @@ Richard / Dick Wiitanen died in November 2024.
 A 2025 commercial lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main Street, with restaurant/bar use, base rent of $2,700/month, NNN-style additional rent, and Skyline Property Management as property manager/authorized agent.
 
 ## 2026-07-05 — Aerial Photocompare Series Import
-Thirty-eight Oregon City photocompare aerial screenshots (`S-023` / `E-021`, `IMG-0006`–`IMG-0043`) imported for 5th & Main Street, 1929–2025. Working observations: McLoughlin / US99E labeled by 1929; wider graded corridor by 1936; Main-frontage buildings visible through much of mid-century; 501 Main disposition still unresolved from aerials alone. See `evidence/aerial-5th-main-photocompare-series.md`.
+Thirty-eight Oregon City photocompare aerial screenshots (`S-023` / `E-021`, `IMG-0006`–`IMG-0043`) imported for 5th & Main Street, 1929–2025. Key finding (`D-003`): **501 Main** shows three distinct roofs with 503 and 505 in **1936** (`IMG-0007`); **501 is absent by 1944** (`IMG-0009`), with the east-side building across from **500 Main** also gone — **removal window 1936–1944**. See `evidence/aerial-5th-main-photocompare-series.md`.
+
+## 1936–1944 — 501 Main Removal Window
+Aerial evidence (`E-021`) establishes that **501 Main** existed as a separable structure in **1936** and was removed by **1944**. The east-side building across from **500 Main** (Sanborn-labelled counterpart) is also absent by 1944. Business, ownership, and legal cause of removal remain open (`OQ-005`, `OQ-023`).

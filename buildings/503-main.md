@@ -65,7 +65,7 @@ There is an unresolved physical-boundary question between 503 and 505. Current o
 
 Photo metadata reports that the building now represented by 503 and 505 Main replaced an earlier building visible in a circa-1910 5th/Main image. The same metadata points to a 1925 Sanborn map labelled 501, 503, and 505. This should be reviewed directly.
 
-The 1929–2025 aerial photocompare series (`E-021` / `S-023`) supports McLoughlin / US99E corridor continuity and mid-century Main-frontage building presence, but does not by itself prove 501 Main disposition or the exact 503/505 legal boundary. See [Aerial 5th & Main analysis](../evidence/aerial-5th-main-photocompare-series.md).
+The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three distinct roofs at 501, 503, and 505 Main in 1936** (`IMG-0007`) and **501 absent by 1944** (`IMG-0009`), with the east-side building across from **500 Main** also gone — **removal window 1936–1944** (`D-003`). Business, ownership, and cause of removal remain open. See [Aerial 5th & Main analysis](../evidence/aerial-5th-main-photocompare-series.md).
 
 ## Related Businesses
 
@@ -91,7 +91,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) supports McLoughl
 | `E-015` | Time Capsule Maps metadata | Reports The Wheel at 503, 505 Tavern to the right, 1925 Sanborn 501/503/505 issue, and 503 modification around 2017. |
 | `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
 | `E-020` | Sanborn map series | 1925 sheet labels separate 501, 503, 505, 507; developed frontage before 1919 construction claim. |
-| `E-021` | Aerial photocompare series | 1929–2025 5th & Main aerials; McLoughlin / US99E corridor; 501 disposition unresolved from aerials alone. |
+| `E-021` | Aerial photocompare series | 501/503/505 distinct roofs in 1936; **501 removed 1936–1944**; east-side 500 Main counterpart also gone by 1944. |
 
 ## Research Priorities
 
@@ -103,7 +103,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) supports McLoughl
 - Confirm whether The Wheel was formally tied to 503 Main, 505 Main, or both.
 - Confirm whether photo metadata placing The Wheel at 503 is supported by the image and original source.
 - Confirm the legal, structural, and physical boundary between 503 and 505.
-- Confirm what 501 Main represented on the 1925 Sanborn map.
+- Confirm what 501 Main represented on the 1925 Sanborn map and **who owned/occupied it before 1936–1944 removal**.
 - Add documentary proof for the Young, Lafarlette, Grisham, and Wiitanen family-name references.
 - Locate primary records: assessor cards, deeds, permits, tax records, city directories, telephone books, Sanborn maps, newspaper ads, business licenses, and OLCC records.
 
@@ -117,5 +117,5 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) supports McLoughl
 - What evidence supports The Wheel at 503 Main versus 505 Main or both?
 - What physical or legal boundary separated 503 Main and 505 Main during The Wheel / 505 business periods?
 - Is 503 wider than 505, and what records confirm the actual dimensions?
-- What was 501 Main on the 1925 Sanborn map?
+- What was 501 Main on the 1925 Sanborn map, and what caused its **1936–1944** removal?
 - What records document the Lafarlette, Grisham, and Wiitanen family relationships and ownership chain?

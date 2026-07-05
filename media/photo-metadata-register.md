@@ -85,7 +85,7 @@ This register records image and photo-metadata items that have been discussed or
 - Status: `committed` (all 38 JPEG files present in repository)
 - Analysis: `evidence/aerial-5th-main-photocompare-series.md`
 - File index: `media/photos/aerials/README.md`
-- Notes: Screenshots from Oregon City photocompare viewer, one frame per year 1929–2025. Useful for McLoughlin / US99E corridor change and Main Street footprint continuity; does not by itself prove 501 Main disposition.
+- Notes: Screenshots from Oregon City photocompare viewer, one frame per year 1929–2025. Key finding: 501 Main visible as separate roof in 1936 (`IMG-0007`); absent by 1944 (`IMG-0009`) — removal window 1936–1944 (`D-003`, `E-021`).
 
 | Media ID | Year | Repository file |
 | --- | --- | --- |

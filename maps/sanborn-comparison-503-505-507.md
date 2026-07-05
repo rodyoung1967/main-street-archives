@@ -22,6 +22,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 4. The 1925 sheet directly addresses the open `501 / 503 / 505` question: there was a labeled `501` at the corner/frontage, with `503` and `505` immediately north/up the Main frontage on the same block.
 5. The 1925 and 1950 sheets show 503 and 505 as distinct addresses/occupancies, supporting the archive rule that 503 and 505 should remain separate building/address records even when business history overlaps.
 6. The 1950 sheet shows a mid-century commercial pattern at 503/505 consistent with restaurant and billiards/cigars/beer uses.
+7. Aerial photocompare evidence (`E-021`) confirms **501 Main existed as a separable structure in 1936** and was **removed by 1944**; the east-side building across from **500 Main** is also absent by 1944. See `D-003` and `evidence/aerial-5th-main-photocompare-series.md`.
 
 ## Year-by-Year Working Notes
 

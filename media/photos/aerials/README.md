@@ -1,6 +1,6 @@
 # Aerial Photos — 5th & Main Street
 
-Oregon City photocompare aerial screenshots (`S-023`), cataloged under `E-021`.
+Oregon City photocompare aerial screenshots (`S-023`), cataloged under `E-021`. Key frames: **1936** (`IMG-0007`) — three distinct roofs at 501, 503, 505 Main; **1944** (`IMG-0009`) — 501 absent, east-side building across from 500 Main also absent (`D-003`).
 
 | Media ID | Year | Repository file |
 | --- | --- | --- |
