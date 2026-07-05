@@ -307,3 +307,35 @@ evidence:
       - P-016
       - P-017
       - P-021
+
+  - id: E-020
+    name: "Sanborn Map Series: 5th / Main / 503-505-507 Context"
+    type: Primary map evidence
+    claims:
+      - The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date.
+      - The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507.
+      - The 1950 revised sheet continues to show separate 503/505/507 occupancies.
+    confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
+    related_sources:
+      - S-014
+      - S-015
+      - S-016
+      - S-017
+      - S-018
+      - S-019
+      - S-020
+      - S-021
+      - S-022
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    related_maps:
+      - SM-002
+      - SM-003
+      - SM-004
+      - SM-005
+      - SM-006
+      - SM-007
+      - SM-008
+      - SM-009

@@ -10,6 +10,16 @@ Data layout guide: `DATA_LAYOUT.md`
 
 ID crosswalk: `indexes/id-crosswalk.md`
 
+## Cloud Workflow
+
+Research on ChatGPT (project **Main Street**) → save **handoff** to `registers/research-intake/` → push to GitHub → integrate in Cursor per `docs/WORKFLOW.md`.
+
+Full setup and iOS access: [`docs/CLOUD_WORKFLOW.md`](docs/CLOUD_WORKFLOW.md)
+
+ChatGPT project file to upload once: [`docs/CHATGPT_PROJECT.md`](docs/CHATGPT_PROJECT.md)
+
+Cursor integration prompt: **Integrate [handoff file] into the archive per WORKFLOW.md**
+
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
@@ -22,6 +32,10 @@ ID crosswalk: `indexes/id-crosswalk.md`
 
 ## Key Files
 
+- `docs/CLOUD_WORKFLOW.md` - ChatGPT → GitHub → Cursor workflow; iOS access.
+- `docs/CHATGPT_PROJECT.md` - upload to ChatGPT project **Main Street** (once).
+- `registers/research-intake/` - ChatGPT handoff files before Cursor integration.
+- `scripts/validate_archive.py` - ID consistency checker (see `requirements.txt`).
 - `ARCHIVE_INDEX.md` - human-readable project index and search guide.
 - `DATA_LAYOUT.md` - file/folder layout guide for maps, photos, artifacts, records, and metadata.
 - `AGENTS.md` - update rules for AI/automation working in this archive.
@@ -35,7 +49,7 @@ ID crosswalk: `indexes/id-crosswalk.md`
 - `media/catalog.md` - legacy media-catalog navigation shim; do not treat as canonical.
 - `buildings/503-main.md` - 503 Main Street building record.
 - `buildings/505-main.md` - 505 Main Street building record.
-- `buildings/507-main.md` - 507 Main / Harding Building record.
+- `buildings/507-harding-building.md` - 507 Main / Harding Building record.
 - `businesses/business-index.md` - business index.
 - `businesses/the-505.md` - preferred working page for Mitch Young's confirmed 505 Main Street business period.
 - `businesses/the-wheel.md` - related but unresolved The Wheel name/address question.
