@@ -3,38 +3,40 @@
 ## Archive IDs
 
 - Building ID: `B-002`
-- Related businesses: `BUS-004`, `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`
-- Related people: `P-005`, `P-006`, `P-007`, `P-008`, `P-009`, `P-010`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-016`, `P-017`, `P-018`, `P-019`, `P-020`, `P-021`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-007`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`
+- Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
+- Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-039`, `E-040`, `E-041`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
 
 ## Known / Working History
 
-505 Main Street is associated with The 505 / 505 Main Street business context, 505 Tavern, Brass Rail Tavern, and later Thirsty Duck. The building is also tied to a partly unresolved ownership and operations sequence involving Ray Hansen, Ray Grisham, Richard / Dick Wiitanen, Sheila Wiitanen, Willie, Victor, Mitch Young, Mike Berman, and Scott Forvilly.
+505 Main Street is the **505 Tavern** address. It is **not** The Wheel (that is 503 Main).
 
-Rodney Young currently owns or stewards 505 Main Street through the current 505 LLC context. The broader family history connects the Young, Lafarlette, Grisham, and Wiitanen names to the 503/505 Main Street property history. Current family handling: Rodney's grandmother's first marriage was Lafarlette and second marriage was Grisham; Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+Early documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. Construction dates for the **surviving building** remain c.1920/1925 estimates (`E-032`).
 
-The exact relationship between The Wheel, The 505, Brass Rail Tavern, 505 Tavern, and the 503/505 Main address boundary still needs confirmation. The archive should continue to preserve 505 Main and 503 Main as separate building records while acknowledging that some business history may involve the combined 503/505 Main context.
+Tavern-era sequence (cyclical): 505 Tavern (documented 1965, 1972) → Ray Hansen sold the **business** to Dick and Sheila, who renamed it Brass Rail → sales/repossessions including The Dug Inn (1988) → Mitch / Mitchell (C.) Young ran 505 Tavern March 1991-March 2004 → later Berman (bought 2009) → Thirsty Duck 2017.
+
+After Richard Wiitanen's death, the **building** passed to **Rodney Young and Mitchell Young**, who own it together through 505 LLC.
 
 ## Location / Name Handling Rule
 
-Mitch Young directly confirmed that he owned and operated the **505 Main Street business / The 505** from **March 1991 to March 2004**. This is high-confidence evidence for 505 Main Street and those dates.
+Mitch Young directly confirmed that he owned and operated **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. Family history adds that he bought the tavern business from Dick and Sheila after a repossession. Earlier wording that he restored the 505 Tavern name is superseded; it is not known whether he restored a name, fixtures, or the building.
 
-Do **not** automatically file Mitch Young's March 1991-March 2004 period under The Wheel or The Wheel Tavern unless primary documentation shows that name was used during that period. The formal legal/trade name remains unresolved.
+Do **not** file that period under The Wheel. The Wheel is at **503 Main**.
 
 ## Business Ownership / Operation
 
-- `E-005` - Ray Hansen owned the 505 business before Richard / Dick and Sheila. This is currently family/oral history and needs documentary confirmation.
-- `E-006` - Willie, a heavyset bartender, worked under Ray Hansen and continued under Richard / Dick and Sheila. His full name is not yet known.
-- Richard / Dick Wiitanen and Sheila Wiitanen owned or operated the business after Ray Hansen. Richard / Dick died in November 2024; Sheila died in 2014. Exact ownership/operation dates are not yet established in the archive.
-- `E-007` - Victor independently managed the restaurant during Ray Grisham's years and early Richard / Dick and Sheila years. Victor's full name and exact role need confirmation.
-- `E-004` / `OH-001` / `E-014` - Mitch Young owned and operated the 505 Main Street business / The 505 from March 1991 to March 2004, confirmed directly by Mitch. The exact legal/trade name for that period needs documentary confirmation and should not automatically be equated with The Wheel.
-- `E-015` - Photo metadata reports 505 Tavern to the right of The Wheel at 503 Main and separately lists 505 Tavern, Brass Rail Tavern, and Thirsty Duck as 505 Main businesses. Treat as trusted internal Time Capsule Maps metadata; cite original image/source details when making external historical claims.
-- `E-008` - Mike Berman was a later owner and sold the business in 2017.
-- `E-008` - Scott Forvilly purchased the business in 2017 and reopened it as Thirsty Duck.
-- `E-018` - A 2025 commercial lease documents current lease context for 505 Main Street: 505 LLC as lessor, Alin Guria as lessee, restaurant/bar use, July 1, 2025-June 30, 2030 term, and Skyline Property Management as property manager/authorized agent.
+- `E-005` / `E-022` / `E-031` - **Ray Hansen** owned the 505 Tavern **business** and sold it to Richard / Dick and Sheila. Distinct from Raye Grisham.
+- `E-006` - Willie worked under Ray Hansen and continued under Richard / Dick and Sheila.
+- Richard / Dick and Sheila bought the 505 Tavern business from Hansen and renamed it Brass Rail. They later sold/repossessed it (`E-030`). Richard / Dick died November 2024; Sheila died 2014.
+- `E-004` / `OH-001` / `E-014` / `E-022` - Mitch Young owned and operated **505 Tavern**, March 1991-March 2004.
+- `E-029` - Commission liquor renewals name 505 Tavern in 1965 and 1972.
+- `E-034` - Berman stated he bought 505 Tavern in 2009.
+- `E-008` - Scott Forvilly purchased in 2017 and reopened as Thirsty Duck.
+- `E-009` / `E-022` - After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC.
+- `E-018` - 2025 commercial lease: 505 LLC lessor, Alin Guria lessee.
 
 ## Physical Building / Footprint Notes
 
@@ -44,41 +46,40 @@ There is also an unresolved footprint question: 505 may extend farther back than
 
 Photo metadata for a circa-1910 5th/Main image reports that the first building in the picture is gone and is now 503 and 505 Main Street, and that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street. The same metadata notes that the 501 Main history is unclear. This should be treated as trusted internal Time Capsule Maps metadata, with original image/source details still needed for external historical claims.
 
-## Ray Hansen / Ray Grisham Issue
+## Ray Hansen / Raye Grisham (resolved as two people)
 
-There is an unresolved Ray Hansen / Ray Grisham naming issue that should not be silently merged.
+Earlier notes asked whether Ray Hansen and "Ray Grisham" were the same person. **They are not.**
 
-Current handling:
+- `P-005` **Ray Hansen** sold the **505 Tavern business** at 505 Main to Dick and Sheila.
+- `P-006` **Raye Grisham** (woman, grandmother; formerly Raye LaFarlette) bought **The Wheel at 503 Main**.
 
-- `P-005` Ray Hansen is preserved as a separate person record.
-- `P-006` Ray Grisham is preserved as a separate person record.
-- Claims involving Ray Hansen and Ray Grisham should remain separate until primary evidence or direct testimony establishes whether they are different people, alternate names, or a memory/transcription conflict.
+Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/raye-grisham.md).
 
 ## Related Businesses
 
 | ID | Business | Status |
 | --- | --- | --- |
-| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | Bar and grill associated with the 503/505 Main context; exact formal name, address, and timeline still require confirmation. |
-| `BUS-005` | 505 Tavern | Later business name; 2017 transition documented in secondary source; also appears in Time Capsule Maps metadata and public-memory material. |
+| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | **503 Main**, not 505. Listed here only because family/history overlaps. |
+| `BUS-005` | [505 Tavern](../businesses/the-505.md) | Working tavern name; 1965/1972 liquor records; Mitch 1991-2004. |
 | `BUS-006` | Thirsty Duck | Reopened in 2017 after purchase by Scott Forvilly. |
-| `BUS-009` | [The 505](../businesses/the-505.md) | Preferred working label for Mitch Young's March 1991-March 2004 ownership/operation testimony. |
-| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Reported in Time Capsule Maps metadata as a 505 Main business name; dates and relationship to other names unresolved. |
+| `BUS-009` | [The 505](../businesses/the-505.md) | Earlier archive handling label; keep for cross-reference. |
+| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Wiitanen rename of 505 Tavern; 1988 Dug Inn record. |
 
 ## Evidence Summary
 
 | ID | Type | Claim / Use |
 | --- | --- | --- |
-| `E-004` | Primary participant testimony | Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004; exact formal business name unresolved. |
-| `E-005` | Family/oral history | Ray Hansen owned the 505 business before Richard / Dick and Sheila. |
+| `E-004` | Primary participant testimony | Mitch Young owned and operated 505 Tavern at 505 Main from March 1991 to March 2004; exact legal entity name still desirable. |
+| `E-005` | Family/oral history | Ray Hansen owned the 505 Tavern business before Richard / Dick and Sheila. |
 | `E-006` | Family/oral history | Willie worked as bartender under Ray Hansen and later under Richard / Dick and Sheila. |
-| `E-007` | Family/oral history | Victor independently managed the restaurant during Ray Grisham's years and early Richard / Dick and Sheila years. |
+| `E-007` | Family/oral history | Victor independently managed the restaurant during Raye Grisham's Wheel years and early Richard / Dick and Sheila years. |
 | `E-008` | Secondary source | Mike Berman sold the business; Scott Forvilly purchased it; it reopened as Thirsty Duck in 2017. |
-| `E-009` | Family/project provenance | Rodney Young owns/stewards 505 Main; grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens. |
+| `E-009` | Family/project provenance | After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC; grandmother's first marriage was LaFarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens. |
 | `E-010` | Family/oral history | Rear portion of 505 may have been added later. |
 | `E-011` | Owner observation | 505 may extend farther back than 503; 503 may be somewhat wider. |
 | `E-012` | Administrative record lead | Tax statements and tax records may help establish improvements, dates, and ownership history. |
 | `E-013` | Public comment screenshot | Local-memory evidence for 505 Tavern and Publishers Paper worker culture. |
-| `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Main / The 505 unless documents prove another name. |
+| `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Tavern at 505 Main. Keep `BUS-009` The 505 as the earlier handling label. |
 | `E-015` | Time Capsule Maps metadata | Reports 505 Tavern adjacent to The Wheel at 503 and lists Brass Rail Tavern as a 505 Main business lead. |
 | `E-018` | Current lease | Documents 2025 lease for 505 Main Street, current restaurant/bar use, and current parties. |
 | `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
@@ -98,10 +99,9 @@ Current handling:
 ## Research Priorities
 
 - Confirm the exact construction date and building history for 505 Main.
-- Determine whether The Wheel, The 505, Brass Rail Tavern, 505 Tavern, or another name was the formal business name during each period.
-- Determine whether The Wheel was legally located at 503 Main, 505 Main, or both.
+- Determine the formal business name during each 505 period (505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, and others).
+- The Wheel is at 503 Main, not 505; keep that distinction when tracing later 505 names.
 - Establish a year-by-year ownership and operator sequence.
-- Resolve the Ray Hansen / Ray Grisham naming issue without collapsing separate claims.
 - Confirm full formal names and records for Richard / Dick Wiitanen and Sheila Wiitanen.
 - Identify Willie by full name.
 - Identify Victor by full name and clarify whether he managed a separate restaurant operation.
@@ -117,8 +117,8 @@ Current handling:
 - Does 505 Main extend farther back than 503 Main, and if so why and since when?
 - Is 503 Main wider than 505 Main, and what do maps/deeds/assessor records show?
 - What was the exact legal name of the 505 business during each ownership period?
-- What are the exact dates for Ray Hansen, Ray Grisham, Richard / Dick Wiitanen, Sheila Wiitanen, Victor, and Willie?
-- How did 505 Tavern relate to The Wheel, The 505, Brass Rail Tavern, or any prior name/business entity?
+- What are the exact dates for Ray Hansen, Raye Grisham, Richard / Dick Wiitanen, Sheila Wiitanen, Victor, and Willie?
+- How did 505 Tavern relate to Brass Rail Tavern, The Dug Inn, The 505, or any prior name/business entity?
 - What documentary evidence confirms the 2017 transition from 505 Tavern to Thirsty Duck?
 - What was at 501 Main, if anything, on the 1925 Sanborn map?
 - What records document the Lafarlette, Grisham, and Wiitanen family relationships and ownership chain?

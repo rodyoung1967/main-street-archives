@@ -1,16 +1,14 @@
 # Ownership / Stewardship Timeline
 
-This register tracks reported, documented, and open ownership or stewardship claims for 503 and 505 Main Street.
+This register tracks reported, documented, and open ownership or stewardship claims. Property ownership and business ownership are separate questions.
 
 | Period | Address | Person / Entity | Role | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Unknown | 503 Main | Young family | Family ownership / connection | `E-009` | High as family context; dates pending | Rodney's parents and earlier grandparents were connected to 503 Main. Needs deeds/tax statements. |
-| Unknown | 503 / 505 | Grisham family | Family history context | `E-009` | High as family context; dates pending | Family name connected to property history. Needs documentary chain. |
-| Unknown | 503 / 505 | Wiitanen family | Family history context | `E-009` | High as family context; dates pending | Family name connected to property history. Needs documentary chain. |
-| Unknown, before Dick and Sheila | 505 Main | Ray Hansen | Reported owner/operator of 505 business | `E-005` | High oral history | Needs directories, business licenses, tax records, OLCC records, or deeds. |
-| Unknown | 505 Main | Dick and Sheila | Reported owners/operators after Ray Hansen | `E-005`, `E-006` | High oral history | Full names and dates unknown. |
-| Unknown | 505 Main | Ray Grisham | Mentioned in 505 / The Wheel context | `E-007` | Unresolved | Do not merge with Ray Hansen without evidence. |
-| March 1991–March 2004 | 505 Main | Mitch Young | Owner/operator of 505 Main Street business | `E-004`, `OH-001` | Very High for dates and role | Exact legal/trade name unresolved. |
-| Later, before 2017 | 505 Main | Mike Berman | Later owner | `E-008` | Strong for 2017 transition context | Needs earlier start date. |
-| 2017 | 505 Main | Scott Forvilly | Purchased business / reopened as Thirsty Duck | `E-008` | Strong | Confirm details with primary records if available. |
-| Current | 505 Main | Rodney Young | Current owner / archive steward | `E-009` | High as project provenance | Formal ownership record can be added if desired. |
+| c. 1922-1972 (City survey) | 503 Main | Wolf family | Reported property owners | `E-032` | Probable pending deeds | Official secondary. |
+| c. 1975 | 503 Main | Dick and Sheila Wiitanen | Purchased building | `E-038` | Family-confirmed | Seller remembered as Mrs. Nemeth; spelling/date pending. |
+| Unknown | 503 Main | Raye Grisham | Bought The Wheel **business** | `E-022` | High family | 503 business, not automatically 503 real estate. |
+| Unknown, before Dick and Sheila | 505 Main | Ray Hansen | Sold 505 Tavern **business** to Dick and Sheila | `E-005`, `E-031` | High family | Distinct from Raye Grisham. |
+| After Hansen sale | 505 Main | Dick and Sheila Wiitanen | Tavern business (renamed Brass Rail) | `E-031` | High family | Later sales/repossessions. |
+| 2017 permit | 505 Main | Richard Martin Wiitanen, co-trustee | Listed real-estate owner | `E-035` | Very High for permit-era | APN 2-2E-31AB-08300. |
+| March 1991-March 2004 | 505 Main | Mitch / Mitchell (C.) Young | 505 Tavern operator (ran the business) | `E-004` | Very High for dates | Same person as Mitchell C. Young (`P-011` / `P-018`). Not The Wheel. Restoration of name/building unknown. |
+| After Richard's death | 505 Main | Rodney Young and Mitchell Young / 505 LLC | Joint building ownership | `E-009`, `E-022`, `E-018` | High family + current lease | Deed/probate citation still needed. |

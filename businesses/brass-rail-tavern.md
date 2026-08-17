@@ -4,35 +4,27 @@
 
 - Business ID: `BUS-010`
 - Related building: `B-002`
-- Related evidence: `E-015`
-- Related source: `S-010`
-- Related research lead: `RL-011`
+- Related evidence: `E-015`, `E-030`, `E-031`, `E-036`
+- Related people: `P-007`, `P-008`, `P-031`
 
 ## Known / Working History
 
-Brass Rail Tavern is currently a **reported 505 Main Street business name** found in Time Capsule Maps photo metadata. The archive should treat this as a research lead until confirmed by city directories, telephone books, OLCC records, business licenses, newspaper advertisements, tax records, photographs, signs, menus, or other primary documentation.
+Family history: after **Ray Hansen sold 505 Tavern** to Dick and Sheila Wiitanen, they **renamed the business Brass Rail Tavern**.
+
+Primary municipal evidence: Oregon City Commission, **6 April 1988**, Manager's Report No. 88-49, identifies **"The Dug Inn (formerly The Brass Rail), 505 Main Street"** and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells (`E-030` / `S-041`).
+
+Time Capsule Maps metadata also lists Brass Rail among 505 business names (`E-015`).
+
+## Withdrawn citation
+
+A 1981 *Sandy Post* classified for Brass Rail Tavern is **Troutdale, 108 E. Columbia**, not Oregon City. Earlier project reading that linked adjacent OCR text mentioning Oregon City to this tavern is **withdrawn** (`E-036` / `S-040`). Keep that item only as a research correction.
 
 ## Location Handling
 
-Current working location: **505 Main Street, Oregon City, Oregon**.
-
-Do not merge Brass Rail Tavern with The Wheel, The 505, 505 Tavern, or Thirsty Duck unless documentation shows continuity or a formal name change.
-
-## Evidence Summary
-
-- `E-015` - Photo metadata lists Brass Rail Tavern among reported 505 Main Street businesses.
-
-## Research Priorities
-
-- Search Polk directories and Oregon City telephone books for Brass Rail Tavern at 505 Main.
-- Search OLCC records and city business licenses.
-- Search newspaper advertisements and legal notices.
-- Look for photographs showing signage.
-- Determine whether Brass Rail Tavern preceded, followed, or overlapped 505 Tavern / The 505 / The Wheel.
+Working location: **505 Main Street**. Do not merge with The Wheel at 503.
 
 ## Open Questions
 
-- What years did Brass Rail Tavern operate?
-- Was it legally at 505 Main Street?
-- Was it a separate business, a trade name, or a renamed version of 505 Tavern / The 505?
-- Who owned or operated it?
+- Exact start date of the Brass Rail name after the Hansen sale.
+- Full list of later operators before The Dug Inn.
+- Possible Rosser connection (family recollection; spelling uncertain).

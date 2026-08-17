@@ -118,3 +118,113 @@ URL: https://maps.orcity.org/galleries/photocompare/index.html
 Related media: `IMG-0006` through `IMG-0043`  
 Related evidence: `E-021`  
 Notes: City-hosted historical aerial comparison viewer. Screenshots imported 2026-07-05 for the 5th & Main Street series (1929–2025). Use as oriented aerial evidence; original survey negatives, collection dates, and licensing should be confirmed if making external publication claims.
+
+## S-024 — Morning Enterprise, 31 March 1912, H. H. Smith notice
+URL: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-31/ed-1/seq-4.pdf  
+Related evidence: `E-023`  
+Notes: Pool-hall license application at 503 Main. Historical Society v5 note S-01.
+
+## S-025 — Oregon City Courier, 12 February 1914, L. Hylton
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-12/ed-1/seq-15/  
+Related evidence: `E-024`  
+Notes: Industrial-edition profile. Historical Society v5 note S-02.
+
+## S-026 — City of Oregon City historic-resource record, 503 Main / Kwality Cafe
+URL: https://legacyorcity.teammunicode.com/planning/503-main-street-kwality-caf  
+Related evidence: `E-032`  
+Notes: Official synthesis: c.1919 estimate, Kwality chronology, Flor, Wolf survey. Historical Society v5 note S-03.
+
+## S-027 — Oregon City Commission minutes, 7 June 1967
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document  
+Related evidence: `E-025`  
+Notes: Liquor application for the Wheel at 503 Main Street, p. 453, City record 4723655. Historical Society v5 note S-06.
+
+## S-028 — Rodney Young family-history testimony, August 2026
+URL: Internal / project oral history, including 16 August 2026 corrections  
+Related evidence: `E-022`, `E-031`, `E-038`, `E-041`  
+Notes: Raye bought The Wheel at 503; Ray Hansen sold 505 Tavern to Dick and Sheila; ~1975 503 purchase from Mrs. Nemeth; joint Rodney/Mitchell ownership after Richard's death; Sports Keg/Rosser leads. Historical Society v5 notes S-07, S-21, S-28.
+
+## S-029 — Portland Mercury, 22 July 2010, Wheel Lounge
+URL: https://www.portlandmercury.com/Feature/2010/07/22/2700077/the-best-of-oregon-city  
+Notes: Wheel Lounge at 503 Main. Historical Society v5 note S-08.
+
+## S-032 — Chicago Store advertisements, 1911-1913
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/  
+Related evidence: `E-026`  
+Notes: Also 28 April 1911 Courier and 8 January 1913 Morning Enterprise. Historical Society v5 note S-11.
+
+## S-033 — City of Oregon City historic-resource record, 505 Main
+URL: https://legacyorcity.teammunicode.com/planning/505-main-street  
+Related evidence: `E-032`  
+Notes: Construction interpretation and directory entries. Historical Society v5 note S-12.
+
+## S-034 — Oregon City Courier, 10 October 1918, Wolf & Miller
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/  
+Related evidence: `E-027`  
+Notes: 505 Main shoe business / repair. Historical Society v5 note S-13.
+
+## S-035 — Dr. Freeze Eye Specialist advertisements, 1921-1922
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-11/ed-1/seq-5/  
+Related evidence: `E-028`  
+Notes: Also Banner-Courier 19 January 1922 and 19 October 1922 Masonic Building ad. Historical Society v5 note S-14.
+
+## S-036 — City of Oregon City, 401 3rd Street inventory (Edwin F. and Alice Farr)
+URL: https://www.orcity.org/2014/401-3rd-Street  
+Related evidence: `E-033`  
+Notes: Farr's Pool Hall at 505 Main. Historical Society v5 note S-15.
+
+## S-037 — Eugene Register-Guard, 20 November 1955, beer-pool classified
+URL: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/  
+Related evidence: `E-039`  
+Notes: Inquiries at 505 Main, Oregon City. Historical Society v5 note S-16.
+
+## S-038 — Oregon City Commission minutes, 11 November 1965
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4753762/File/document  
+Related evidence: `E-029`  
+Notes: 505 Tavern liquor renewal, p. 248, City record 4753762. Historical Society v5 note S-17.
+
+## S-039 — Oregon City Commission minutes, March 1972
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723016/File/document  
+Related evidence: `E-029`  
+Notes: 505 Tavern liquor renewal, pp. 307-308, City record 4723016. Historical Society v5 note S-18.
+
+## S-040 — WITHDRAWN: Sandy Post, December 1981, Brass Rail Tavern (Troutdale)
+URL: https://oregonnews.uoregon.edu/lccn/2024240281/1981-12-24/ed-1/seq-16/ocr/  
+Related evidence: `E-036`  
+Notes: Brass Rail Tavern at 108 E. Columbia, Troutdale. Not evidence for 505 Main. Historical Society v5 note S-19.
+
+## S-041 — Oregon City Commission, 6 April 1988, Manager's Report 88-49
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4779030/File/document  
+Related evidence: `E-030`  
+Notes: Dug Inn formerly Brass Rail; Wiitanen-to-Cotterell transfer, pp. 71-72, City record 4779030. Historical Society v5 note S-20.
+
+## S-042 — Oregon City Commission minutes, 5 September 2012
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4238300/File/document  
+Related evidence: `E-034`  
+Notes: Berman stated he bought 505 Tavern in 2009, pp. 3-4, City record 4238300. Historical Society v5 note S-24.
+
+## S-043 — Oregon City Permit Log, BB-17-0193, 18 April 2017
+URL: https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF  
+Related evidence: `E-035`  
+Notes: 505 Main; owner Richard Martin Wiitanen co-trustee; APN 2-2E-31AB-08300. Historical Society v5 note S-25.
+
+## S-045 — Pleasant Hill School District alumni page, 3 February 2005, Ken Bagent
+URL: https://www.pleasanthill.k12.or.us/resources/community/alumni/classes  
+Related evidence: `E-037`  
+Notes: Participant statement that he and partner Terry Bee owned two taverns in Oregon City. Historical Society v5 note S-36.
+
+## S-046 — D&B directory, Heath Bark-Ley, LLC, 505 Main
+URL: https://www.dandb.com/businessdirectory/heathbarkleyllc-oregoncity-or-5724908.html  
+Related evidence: `E-037`  
+Notes: Contact Terry Bee Enstad. Historical Society v5 note S-37.
+
+## S-047 — FastBackgroundCheck aggregation for Kenly C. Bagent
+URL: Pending archival print/capture  
+Related evidence: `E-037`  
+Notes: Secondary aggregator; Heath Bark-Ley LLC from Dec. 2003; 505 Tavern registrant from Mar. 2004. Historical Society v5 note S-23.
+
+## S-048 — 503 and 505 Main Street Historical Society Edition v5
+Repository file: `records/historical-society/503-505-main-historical-society-edition-v5.docx`  
+Original filename: `503_505_Main_Street_Historical_Society_Edition_v5.docx`  
+Related evidence: `E-040`  
+Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations.

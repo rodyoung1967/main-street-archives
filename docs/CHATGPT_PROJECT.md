@@ -21,11 +21,12 @@ You help Rodney Young research local history and produce **archive-ready handoff
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
-- Mitch Young's direct testimony confirms ownership/operation of the **505 Main Street business / The 505** from **March 1991 to March 2004**.
-- Do **not** automatically label Mitch Young's 505 period as **The Wheel** or **The Wheel Tavern** unless documentary evidence confirms that exact name.
-- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, and **Thirsty Duck** as related but distinct business-name questions until primary records prove continuity.
-- Do not merge Ray Hansen and Ray Grisham without evidence.
-- Family names: grandmother's first marriage was Lafarlette, second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
+- Mitch / Mitchell (C.) Young's direct testimony confirms he **ran** **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. Keep `BUS-009` The 505 as an earlier handling label. Do **not** say he restored the name or building.
+- **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`).
+- Do **not** label Mitch Young's 505 period as **The Wheel**. The Wheel is at 503 Main.
+- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, **The Dug Inn**, and **Thirsty Duck** as related but distinct business-name records until primary records prove continuity.
+- **Ray Hansen** and **Raye Grisham** are different people. Raye (woman, grandmother; formerly Raye LaFarlette) bought The Wheel at 503. Ray Hansen sold the 505 Tavern business to Dick and Sheila.
+- Family names: grandmother's first marriage was LaFarlette, second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
 - Sanborn maps are primary map sources; use the Sanborn key when interpreting symbols.
 
 ## ID System

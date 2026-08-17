@@ -20,7 +20,7 @@ Tasks:
 - Search Polk directories for 503 Main, 505 Main, and 507 Main.
 - Search Oregon City telephone books for telephone 6106.
 - Track entries for Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, The Wheel, 505 Tavern, Harding Drug Store, Tony's Restaurant, and any bakery tenant.
-- Track people: J. Jager, Larry, George A. Harding, Dr. Bailey, Ray Hansen, Ray Grisham, Dick, Sheila, Willie, Victor, Mitch Young, Mike Berman, and Scott Forvilly.
+- Track people: J. Jager, Larry, George A. Harding, Dr. Bailey, Ray Hansen, Raye Grisham, Floyd LaFarlette, Dick, Sheila, Willie, Victor, Mitch Young, Mike Berman, and Scott Forvilly.
 - Add each directory item as an evidence record with source citation and confidence.
 
 Related leads: `RL-001`, `RL-003`

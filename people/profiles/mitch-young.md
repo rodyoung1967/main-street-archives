@@ -1,29 +1,33 @@
-# Mitch Young
+# Mitch / Mitchell (C.) Young
 
 ## Archive IDs
 
 - Person ID: `P-011`
+- Same person as: `P-018` (legal/lease form **Mitchell C. Young**)
+- Name variants (one person): Mitch Young; Mitchell Young; Mitch C. Young; Mitchell C. Young
 - Related oral history: `OH-001`
 - Related evidence: `E-004`
 - Related building: `B-002`
-- Related businesses: `BUS-004`, `BUS-005`
+- Related businesses: `BUS-005`, `BUS-009`
 - Related timeline entry: `T-007`
 
 ## Known / Working Biography
 
-Mitch Young is documented in the archive as an owner/operator of the 505 Main Street business.
+Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are **the same person**. `P-011` and `P-018` are two archive IDs for that one person (do not merge the IDs).
 
-The current confirmed date range is March 1991 to March 2004, based on Mitch Young's direct testimony. This is recorded as `E-004` and preserved as oral-history record `OH-001`.
+He **ran** (owned and operated) **505 Tavern** at 505 Main from March 1991 to March 2004. Do not say he restored the name, fixtures, or building; that is unknown. This period is not The Wheel.
+
+He also co-owns 505 Main with Rodney Young through 505 LLC (`P-018` lease/managing-member form).
 
 ## Related Business / Name Issue
 
-Mitch Young is associated with the 505 Main Street business context, which overlaps with unresolved references to The Wheel, The 505, and 505 Tavern. The exact legal business name, address relationship to 503 and/or 505 Main, and ownership sequence before and after Mitch Young remain open research questions.
+Mitch Young is associated with **505 Tavern** at 505 Main (`BUS-005`). `BUS-009` The 505 remains as an earlier archive handling label. Do not file this period under The Wheel.
 
-This profile should not state that Mitch owned and operated The Wheel as a settled fact unless later documentary evidence confirms that exact name for the period.
+This profile should not state that Mitch owned The Wheel. The Wheel is Raye Grisham's 503 Main business.
 
 ## Evidence Summary
 
-- `E-004` - Mitch Young Direct Testimony: confirms that Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004; exact legal/trade name unresolved.
+- `E-004` - Mitch Young Direct Testimony: confirms he ran 505 Tavern at 505 Main from March 1991 to March 2004. Same person as Mitchell C. Young. Restoration of name/building unknown.
 - `OH-001` - Mitch Young Direct Testimony: oral-history record preserving the testimony and follow-up interview questions.
 - `T-007` - Timeline entry for March 1991 to March 2004.
 
@@ -39,9 +43,7 @@ This profile should not state that Mitch owned and operated The Wheel as a settl
 ## Open Questions
 
 - What was Mitch Young's exact legal role: owner, operator, license holder, leaseholder, or some combination?
-- What was the exact legal business name during his ownership?
-- Was the business known as The Wheel, The 505, 505 Tavern, or another name during all or part of his ownership?
-- Was the business legally associated with 503 Main, 505 Main, or both?
+- What was the exact legal business name during his period running 505 Tavern?
 - Who owned or operated the business immediately before March 1991?
 - Who owned or operated the business immediately after March 2004?
 - Are there photographs, advertisements, licenses, menus, employee records, tax records, OLCC records, or newspaper mentions from Mitch Young's ownership period?

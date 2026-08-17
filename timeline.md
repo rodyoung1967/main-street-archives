@@ -21,8 +21,23 @@ The 1900 Sanborn sheet shows a developed Main-frontage commercial row near 5th w
 ## Circa 1910 photo / 5th and Main view
 A Time Capsule Maps photo-metadata record describes a circa-1910 view at 5th Street / McLoughlin Boulevard / US99E and Main Street. The metadata states that the first building in the picture is gone and is now 503 and 505 Main Street. Treat as trusted internal Time Capsule Maps metadata, with original source/date still desirable for external historical claims.
 
+## April 1911 / January 1913
+The Chicago Store advertised at 505 Main (`E-026`).
+
+## March 1912
+H. H. Smith applied for a pool-hall license at his place of business, 503 Main (`E-023`).
+
+## February 1914
+L. Hylton was profiled at 503 Main as cigars, tobacco, smokers' supplies, and soft drinks (`E-024`).
+
+## October 1918
+Wolf & Miller, 505 Main, appeared in the Oregon City Courier as a shoe business / shoe-repair department (`E-027`). This shows the **address** occupied in 1918; it does not by itself prove the surviving building already existed.
+
 ## 1919
-A 2017 article and later commercial listing report 503 Main was constructed in 1919. In light of the Sanborn sequence, this is best treated as a working hypothesis for a specific building event, remodel, rebuild, reassessment, or inherited record date rather than proven first construction of the commercial frontage.
+A 2017 article and City historic-resource synthesis report 503 Main was constructed about 1919. Treat as a working hypothesis for the **surviving building**, not first commercial use of the address.
+
+## 1921-1922
+Dr. Freeze advertised as Eye Specialist at 505 / 505 1/2 Main (`E-028`).
 
 ## 1925 Sanborn
 The 1925 Sanborn sheet shows modern-style Main Street address labels including 501, 503, 505, and 507. Working transcription: 501 appears as a store; 503 is labeled restaurant with a concrete-floor note; 505 is labeled billiards and cigars; nearby spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor.
@@ -39,20 +54,20 @@ A public comment screenshot records a memory of the 505 Tavern on Main Street co
 ## Late 1960s / 1968-1969 Harding Building fire lead
 The original Harding Building at 507 was reportedly destroyed by fire in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area. The replacement building date is still unresolved and should be checked against fire reports, newspapers, permits, and assessor records.
 
-## Family context: Lafarlette / Grisham / Wiitanen
-Rodney Young currently owns or stewards 505 Main Street. Rodney's parents and earlier grandparents were connected to 503 Main Street. Rodney's grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+## Family context: LaFarlette / Grisham / Wiitanen
+Rodney's grandmother is **Raye Grisham** (first marriage LaFarlette); she bought **The Wheel at 503 Main**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. After Richard's death, **505 Main passed to Rodney Young and Mitchell Young jointly** through 505 LLC.
 
-## Ray Hansen era
-Ray Hansen owned the 505 business before Richard / Dick and Sheila. Bartender Willie worked under Ray and continued under Richard / Dick and Sheila.
+## Ray Hansen and 505 Tavern
+Ray Hansen owned the 505 Tavern **business** and sold it to Dick and Sheila Wiitanen, who renamed it Brass Rail. Bartender Willie worked under Ray and continued under Dick and Sheila. Ray Hansen is not Raye Grisham.
 
-## Ray Grisham / Richard-Dick and Sheila era
-During Ray Grisham's years and the early Richard / Dick and Sheila years, Victor independently managed the restaurant portion.
+## The Wheel at 503
+Raye Grisham bought The Wheel at 503 Main. Oregon City Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Victor independently managed the restaurant portion during Raye's years and early Dick/Sheila years.
 
-## Brass Rail Tavern lead
-Time Capsule Maps metadata lists Brass Rail Tavern among reported 505 Main Street business names. Dates, ownership, and relationship to 505 Tavern / The 505 / Thirsty Duck remain unverified.
+## Brass Rail / Dug Inn
+Dick and Sheila renamed 505 Tavern to Brass Rail. 6 April 1988 Commission minutes identify The Dug Inn (formerly The Brass Rail) at 505 Main and a Wiitanen-to-Cotterell transfer. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.
 
 ## March 1991-March 2004
-Mitch Young owned and operated the 505 Main Street business / The 505. This was confirmed directly by Mitch Young. The exact legal/trade name during this period remains an open question and should not automatically be equated with The Wheel unless documentary evidence supports that name.
+Mitch / Mitchell (C.) Young (same person) **ran** **505 Tavern** at 505 Main. Confirmed by Mitch; family adds purchase from Dick and Sheila after repossession. Do not claim he restored the name or building. This period is not The Wheel.
 
 ## Building Footprint / Rear Addition Question
 The rear portion of 505 may have been added later, based on family/oral history. There is also an unresolved physical-boundary question: 505 may extend farther back than 503, while 503 may be somewhat wider. Tax records, assessor sketches, Sanborn maps, permits, deeds, and measurements should be used to test this.

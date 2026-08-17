@@ -3,18 +3,18 @@
 ## Archive IDs
 
 - Building ID: `B-001`
-- Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`
-- Related people: `P-003`, `P-004`, `P-011`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`
+- Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`
+- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-026`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-004`, `E-009`, `E-011`, `E-012`, `E-014`, `E-015`, `E-019`, `E-020`, `E-021`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-006`, `S-007`, `S-008`, `S-010`, `S-013`, `S-023`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-038`, `E-040`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`
 - Related timeline entries: `T-004`, `T-005`, `T-007`, `T-008`
 
 ## Known / Working History
 
-503 Main Street is associated with the Kwality Cafe business lineage and later with The Wheel / 503-505 Main context. Current evidence connects the address to Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and The Wheel references, but the exact building construction history, occupant sequence, address boundaries, and relationship to 505 Main still need primary confirmation.
+503 Main Street is associated with early commercial occupants (H. H. Smith pool-hall application 1912; L. Hylton 1914), the Kwality Cafe lineage, and **The Wheel**, which Raye Grisham bought at this address. Keep 503 and 505 as separate buildings: The Wheel is 503; 505 Tavern is 505.
 
-Rodney Young's parents and earlier grandparents were connected to 503 Main Street. Current family-history handling: Rodney's grandmother's first marriage was Lafarlette and second marriage was Grisham; Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+Rodney Young's grandmother **Raye Grisham** (first marriage LaFarlette) is the 503 Wheel connection. Dick and Sheila Wiitanen purchased the **503 building** about 1975 from Mrs. Nemeth (spelling uncertain). That is real-estate history, separate from the 505 tavern-business sale.
 
 ## Construction Date
 
@@ -43,21 +43,22 @@ Related pages:
 - [J. Jager](../people/profiles/j-jager.md)
 - [Larry](../people/profiles/larry.md)
 
-## The Wheel / 505 Naming Issue
+## The Wheel at 503 Main
 
-The 2017 article refers to "The Wheel Tavern." This should be treated as unverified shorthand unless primary evidence appears. Current preferred wording for the reported business is **The Wheel**, but formal legal/trade-name evidence is still needed.
+**The Wheel was at 503 Main**, not 505.
 
-Photo metadata labels The Wheel at 503 Main Street and notes that 505 Tavern is to the right at 505 Main Street. This supports keeping The Wheel and 505 Tavern as potentially separate address/name contexts until verified.
+- Family confirmation (`E-022`): Raye Grisham bought The Wheel at 503 Main.
+- Primary municipal evidence (`E-025`): 7 June 1967 Commission minutes, liquor application for "the Wheel located at 503 Main Street."
+- Photo metadata (`E-015`) places The Wheel at 503 with 505 Tavern to the right.
 
-Mitch Young's direct testimony confirms ownership/operation of the 505 Main Street business / The 505 from March 1991 to March 2004, but does not by itself prove that The Wheel was the legal/trade name during that period.
+The 2017 article's "The Wheel Tavern" wording (`E-001`) remains unverified as a legal name. Mitch Young's 1991-2004 period is **505 Tavern at 505 Main**, not The Wheel.
 
 Related pages:
 
 - [The Wheel](../businesses/the-wheel.md)
-- [The 505](../businesses/the-505.md)
+- [Raye Grisham](../people/profiles/raye-grisham.md)
 - [505 Main Street](505-main.md)
-- [Mitch Young](../people/profiles/mitch-young.md)
-- [Mitch Young Direct Testimony](../oral-history/mitch-young.md)
+- [505 Tavern / The 505](../businesses/the-505.md)
 
 ## 503 / 505 Boundary and Footprint Issue
 
@@ -74,7 +75,10 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 | `BUS-001` | [Kwality Cafe](../businesses/kwality-cafe.md) | Early cafe/restaurant occupant; exact dates unresolved. |
 | `BUS-002` | [New Kwality Cafe](../businesses/kwality-cafe.md) | Documented by matchbook naming J. Jager as proprietor. |
 | `BUS-003` | [Larry's Kwality Cafe](../businesses/kwality-cafe.md) | Documented by matchcover listing 503 Main Street and telephone 6106. |
-| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | Later bar and grill context; Time Capsule Maps metadata places The Wheel at 503, but documentary confirmation is still needed. |
+| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | **At 503 Main.** Raye Grisham bought it; 1967 Commission minutes confirm the address. |
+| `BUS-018` | White Rabbit / Black Ink | 2016-2017 renovation and later use. |
+| `BUS-019` | H. H. Smith pool hall | 1912 license application. |
+| `BUS-020` | L. Hylton cigar and tobacco | 1914 Courier profile. |
 
 ## Evidence Summary
 
@@ -87,7 +91,12 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 | `E-009` | Family/project provenance | Young family context; grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens. |
 | `E-011` | Owner observation | 503/505 physical width/depth/boundary uncertainty. |
 | `E-012` | Administrative record lead | Tax statements and records may clarify construction, additions, boundaries, and ownership. |
-| `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Main / The 505 unless documents prove another name. |
+| `E-014` | Archive correction | Mitch's 1991-2004 period is 505 Tavern at 505, not The Wheel. |
+| `E-022` | Family correction | Raye Grisham bought The Wheel at 503; distinct from Ray Hansen. |
+| `E-023` | Primary newspaper | H. H. Smith 1912 pool-hall application at 503. |
+| `E-024` | Primary newspaper | L. Hylton 1914 at 503. |
+| `E-025` | Primary municipal | The Wheel at 503 Main, 7 June 1967. |
+| `E-038` | Family history | Dick and Sheila bought the 503 building ~1975 from Mrs. Nemeth. |
 | `E-015` | Time Capsule Maps metadata | Reports The Wheel at 503, 505 Tavern to the right, 1925 Sanborn 501/503/505 issue, and 503 modification around 2017. |
 | `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
 | `E-020` | Sanborn map series | 1925 sheet labels separate 501, 503, 505, 507; developed frontage before 1919 construction claim. |

@@ -39,33 +39,47 @@ people:
 
   - id: P-005
     name: Ray Hansen
-    role: Owner
-    notes: Owned the 505 business before Richard / Dick and Sheila, based on family/oral history pending documentary confirmation.
-    related_buildings:
-      - B-002
-
-  - id: P-006
-    name: Ray Grisham
-    role: Owner/operator?
-    notes: Mentioned in relation to the 505 / The Wheel context; keep distinct from Ray Hansen until records clarify identity and role.
+    role: Owner/operator of 505 Tavern business
+    notes: Sold the 505 Tavern business to Dick and Sheila Wiitanen. Distinct from Raye Grisham (P-006). Historical Society v5 used Hanson as a search variant; current family confirmation keeps Hansen.
     related_buildings:
       - B-002
     related_businesses:
+      - BUS-005
+
+  - id: P-006
+    name: Raye LaFarlette / Raye Grisham
+    role: Grandmother; bought The Wheel at 503 Main
+    notes: Woman. Previously recorded as possibly male Ray Grisham at 505; superseded 2026-08-16. First marriage LaFarlette, second Grisham. Bought The Wheel at 503 Main. Not the same person as Ray Hansen.
+    related_buildings:
+      - B-001
+    related_businesses:
       - BUS-004
+    related_people:
+      - P-022
+      - P-008
 
   - id: P-007
     name: Richard / Dick Wiitanen
     role: Owner / stepfather
-    notes: Owned after Ray Hansen with Sheila. Stepfather in the Wiitanen family context. Died November 2024.
+    notes: Bought the 505 Tavern business from Ray Hansen with Sheila and renamed it Brass Rail. Later real-estate interest in 505. Died November 2024.
     related_buildings:
+      - B-001
       - B-002
+    related_businesses:
+      - BUS-005
+      - BUS-010
+      - BUS-016
 
   - id: P-008
     name: Sheila Wiitanen
     role: Owner / mother
-    notes: Owned after Ray Hansen with Richard / Dick. User's mother in the Wiitanen family context. Died 2014.
+    notes: Daughter of Floyd and Raye LaFarlette. Bought the 505 Tavern business from Ray Hansen with Richard / Dick. Died 2014.
     related_buildings:
+      - B-001
       - B-002
+    related_businesses:
+      - BUS-005
+      - BUS-010
 
   - id: P-009
     name: Willie
@@ -77,25 +91,26 @@ people:
   - id: P-010
     name: Victor
     role: Restaurant manager
-    notes: Independently managed restaurant during Ray Grisham era and early Richard / Dick and Sheila years.
+    notes: Independently managed restaurant during Raye Grisham's Wheel years at 503 and early Richard / Dick and Sheila years. Surname unknown.
     related_buildings:
-      - B-002
+      - B-001
     related_businesses:
       - BUS-004
 
   - id: P-011
-    name: Mitch Young
+    name: Mitch / Mitchell (C.) Young
     role: Owner/operator
-    notes: Owned and operated the 505 Main Street business / The 505 from March 1991 to March 2004; exact legal/trade name remains unresolved and should not automatically be labeled The Wheel without documentary evidence.
+    notes: Same person as P-018. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Ran 505 Tavern at 505 Main Street from March 1991 to March 2004. Do not claim he restored the name, fixtures, or building. Do not label this period The Wheel.
     related_buildings:
       - B-002
     related_businesses:
+      - BUS-005
       - BUS-009
 
   - id: P-012
     name: Mike Berman
     role: Later owner
-    notes: Sold 505 Tavern in 2017.
+    notes: Told Oregon City Commission he bought 505 Tavern in 2009; sold in the 2017 Thirsty Duck transition.
     related_buildings:
       - B-002
     related_businesses:
@@ -112,8 +127,8 @@ people:
 
   - id: P-014
     name: Rodney Young
-    role: Current owner / project steward
-    notes: Current owner/steward of 505 Main Street and the archive. Managing member/signatory context appears in 2025 505 lease record.
+    role: Current co-owner / project steward
+    notes: Co-owns 505 Main Street with Mitchell Young through 505 LLC after Richard Wiitanen's death. Archive steward. Managing member/signatory on 2025 505 lease.
     related_buildings:
       - B-002
 
@@ -128,7 +143,7 @@ people:
   - id: P-016
     name: Grisham family
     role: Family history context
-    notes: Grandmother's second marriage was Grisham. Preserve Ray Grisham as a separate unresolved 505 / The Wheel person until documented.
+    notes: Grandmother's second marriage was Grisham. Canonical person is P-006 Raye Grisham, not a separate male 505 owner.
     related_buildings:
       - B-001
       - B-002
@@ -142,11 +157,12 @@ people:
 
   - id: P-018
     name: Mitchell C. Young
-    role: 505 LLC managing member / historical participant
-    notes: Managing member/signatory context appears in 2025 505 lease; also source of family/oral-history questions about 505.
+    role: 505 LLC managing member / 505 Tavern operator
+    notes: Same person as P-011 Mitch Young. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Legal/lease form of the name. Co-owns 505 Main with Rodney Young. Ran 505 Tavern March 1991-March 2004; do not claim he restored it.
     related_buildings:
       - B-002
     related_businesses:
+      - BUS-005
       - BUS-009
 
   - id: P-019
@@ -164,9 +180,115 @@ people:
       - B-002
 
   - id: P-021
-    name: Lafarlette family
+    name: LaFarlette family
     role: Family history context
-    notes: Grandmother's first marriage was Lafarlette. Spelling should be preserved as provided unless records show a variant.
+    notes: Grandmother's first marriage. Archive previously used Lafarlette; Historical Society v5 uses LaFarlette. Preserve both until deeds prove one form.
     related_buildings:
       - B-001
       - B-002
+
+  - id: P-022
+    name: Floyd LaFarlette
+    role: First husband of Raye; The Wheel context
+    notes: Family history identifies Floyd and Raye LaFarlette with The Wheel at 503. Exact dates pending.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-004
+
+  - id: P-023
+    name: H. H. Smith
+    role: 503 occupant / license applicant
+    notes: March 1912 pool-hall license application at his place of business, 503 Main.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-019
+
+  - id: P-024
+    name: L. Hylton
+    role: 503 occupant
+    notes: February 1914 cigars, tobacco, smokers supplies, and soft drinks at 503 Main.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-020
+
+  - id: P-025
+    name: Mr. and Mrs. Albert D. Flor
+    role: 503 restaurant/cocktail-bar operators
+    notes: 1957 listing in City historic-resource synthesis.
+    related_buildings:
+      - B-001
+    related_businesses:
+      - BUS-001
+
+  - id: P-026
+    name: Mrs. Nemeth
+    role: Reported 503 seller
+    notes: Family history says Dick and Sheila bought the 503 building about 1975 from Mrs. Nemeth. Surname spelling uncertain.
+    related_buildings:
+      - B-001
+
+  - id: P-027
+    name: Dr. Freeze
+    role: Eye specialist
+    notes: Advertised at 505 / 505 1/2 Main 1921-1922 using title Eye Specialist; later rooms 207-8 Masonic Building.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-021
+
+  - id: P-028
+    name: Edwin F. Farr
+    role: Proprietor
+    notes: Farr's Pool Hall at 505 Main. City inventory says they acquired their residence in 1934; pool-hall operating span not fully established.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-013
+
+  - id: P-029
+    name: Alice Farr
+    role: Proprietor
+    notes: Farr's Pool Hall at 505 Main with Edwin F. Farr.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-013
+
+  - id: P-030
+    name: Dr. Roy Briggs
+    role: Dentist
+    notes: City inventory reports 1941 directory listing at 505 1/2 Main.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-022
+
+  - id: P-031
+    name: Cotterell
+    role: 1988 505 business transferee
+    notes: 1988 Commission record transfers Dug Inn formerly Brass Rail from Dick or Sheila Wiitanen to the Cotterells.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-016
+
+  - id: P-032
+    name: Kenly C. Bagent
+    role: Post-2004 505 Tavern lead
+    notes: Secondary records and 2005 participant statement; Oregon Secretary of State and OLCC filings still needed.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-005
+
+  - id: P-033
+    name: Terry Bee Enstad
+    role: Post-2004 partnership lead
+    notes: Named with Bagent / Heath Bark-Ley LLC in secondary records at 505 Main.
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-005

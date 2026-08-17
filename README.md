@@ -23,8 +23,9 @@ Cursor integration prompt: **Integrate [handoff file] into the archive per WORKF
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
-- Treat Mitch Young's direct testimony as confirming ownership/operation of the **505 Main Street business / The 505** from **March 1991 to March 2004**.
-- Do not automatically label Mitch Young's 505 period as **The Wheel** or **The Wheel Tavern** unless documentary evidence confirms that exact name.
+- Treat Mitch / Mitchell (C.) Young's testimony as confirming he **ran** **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. Keep `BUS-009` The 505 as an earlier handling label. Do not say he restored the name or building.
+- **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`).
+- Do not label Mitch Young's 505 period as **The Wheel**. The Wheel is at 503 Main.
 - Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, and **Thirsty Duck** as related but distinct business-name questions until primary records prove continuity.
 - Treat Time Capsule Maps metadata as a trusted internal project source because Rodney Young is Time Capsule Maps; still cite original image/source details when making external historical claims.
 - Preserve family/oral history, but separate it from deed/tax/assessor proof. Current family-name handling: grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.

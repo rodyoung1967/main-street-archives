@@ -56,15 +56,18 @@ timeline:
 
   - id: T-007
     date: March 1991-March 2004
-    summary: Mitch Young owned and operated the 505 Main Street business / The 505. Exact legal/trade name unresolved.
-    confidence: Very High for dates and role; unresolved for formal business name
+    summary: Mitch / Mitchell (C.) Young ran 505 Tavern at 505 Main Street. This period is not The Wheel. Do not claim he restored the name or building.
+    confidence: Very High for dates, role, and 505 Main; high for 505 Tavern as working trade name
     related_evidence:
       - E-004
       - E-014
+      - E-022
     related_people:
       - P-011
+      - P-018
     related_businesses:
       - BUS-009
+      - BUS-005
     related_buildings:
       - B-002
 

@@ -33,16 +33,24 @@ Who was J. Jager, proprietor of New Kwality Cafe?
 What was Larry's full name, and what was his relationship to Larry's Kwality Cafe?
 
 ## OQ-009 — The Wheel Location and Name
-Was The Wheel formally located at 503 Main, 505 Main, or both? Was "The Wheel Tavern" ever an official name?
+Status: Partially answered.
+
+**The Wheel was at 503 Main.** Family confirmation: Raye Grisham bought The Wheel at 503 (`E-022`). Primary municipal evidence: 7 June 1967 Commission minutes, "the Wheel located at 503 Main Street" (`E-025`). Remaining question: exact legal/trade-name variants (Wheel Tavern, Wheel Lounge, Wheel Bar & Grill) and purchase/license dates.
 
 ## OQ-010 — Mitch Young Business Name
-During Mitch Young's March 1991-March 2004 ownership/operation period at 505 Main, what was the exact legal name and trade name?
+Status: Partially answered.
+
+Working trade name for March 1991-March 2004 is **505 Tavern** (`BUS-005`). Mitch / Mitchell (C.) Young **ran** the business (`E-004`, `E-022`). License, OLCC, and directory pages still needed for the exact legal entity name. This period is not The Wheel. Do not claim he restored the name or building.
 
 ## OQ-011 — Brass Rail Tavern
-When did Brass Rail Tavern operate at 505 Main, who owned it, and how did it relate to 505 Tavern / The 505 / Thirsty Duck?
+Status: Partially answered.
 
-## OQ-012 — Ray Hansen / Ray Grisham
-Are Ray Hansen and Ray Grisham separate people, alternate names, or a memory/transcription conflict? What were each person's dates and role?
+Family history: Dick and Sheila renamed 505 Tavern to Brass Rail after buying the business from Ray Hansen (`E-031`). Primary municipal evidence: 6 April 1988 Commission record, The Dug Inn (formerly The Brass Rail) at 505 Main (`E-030`). 1981 Sandy Post Brass Rail ad is Troutdale and withdrawn (`E-036`). Remaining: exact start date and full operator list.
+
+## OQ-012 — Ray Hansen / Raye Grisham
+Status: Answered as to identity; dates still open.
+
+They are **different people**. **Raye Grisham** (`P-006`) is Rodney's grandmother (woman; formerly Raye LaFarlette) and bought **The Wheel at 503**. **Ray Hansen** (`P-005`) sold the **505 Tavern business** to Dick and Sheila. Earlier archive notes that treated "Ray Grisham" as a possibly male 505 owner are superseded (`E-022`). Exact transaction dates still need records.
 
 ## OQ-013 — Richard / Dick Wiitanen and Sheila Wiitanen
 What were Richard / Dick Wiitanen and Sheila Wiitanen's exact ownership/operation dates and business records for the 505 business after Ray Hansen?
@@ -51,7 +59,7 @@ What were Richard / Dick Wiitanen and Sheila Wiitanen's exact ownership/operatio
 What was bartender Willie's full name, and when did he work at 505 Main?
 
 ## OQ-015 — Victor
-What was Victor's full name, and what was the exact restaurant-management arrangement during Ray Grisham and early Richard / Dick and Sheila years?
+What was Victor's full name, and what was the exact restaurant-management arrangement during Raye Grisham's Wheel years at 503 and early Richard / Dick and Sheila years?
 
 ## OQ-016 — 507 Harding Building Fire
 What was the exact date of the Harding Building fire, and did it occur in late 1968, 1969, or another date?
@@ -66,7 +74,7 @@ Was the current 507 Main building completed in 1968, 1969, or another year?
 What work was done to 503 Main around 2017, and what permits, photos, or assessor records document it?
 
 ## OQ-020 — Family Name / Ownership Chain
-What records document the Young, Lafarlette, Grisham, and Wiitanen family relationships and ownership chain? Current internal correction: grandmother's first marriage was Lafarlette and second marriage was Grisham; Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
+What records document the Young, LaFarlette, Grisham, and Wiitanen family relationships and ownership chain? Current internal correction: grandmother is Raye Grisham (first marriage LaFarlette); she bought The Wheel at 503. Ray Hansen sold 505 Tavern to Dick and Sheila. After Richard Wiitanen's death, 505 passed to Rodney Young and Mitchell Young jointly.
 
 ## OQ-021 — Time Capsule Maps Image Sources
 What are the original source collections, dates, photographers, and licensing terms for the Main Street images represented in trusted Time Capsule Maps metadata?

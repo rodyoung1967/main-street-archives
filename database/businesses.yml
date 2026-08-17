@@ -42,29 +42,40 @@ businesses:
 
   - id: BUS-004
     name: The Wheel
-    address: 503/505 Main context; unresolved
-    notes: Bar and grill reference; exact address, timeline, and formal name need confirmation. Do not use this as the default label for Mitch Young's 505 Main Street period without documentary support.
+    address: 503 Main
+    notes: Raye Grisham bought The Wheel at 503 Main. June 7 1967 Commission minutes place the Wheel at 503 Main Street. Do not use as Mitch Young's 505 period name.
     related_buildings:
       - B-001
-      - B-002
     related_people:
       - P-006
       - P-010
+      - P-022
     related_evidence:
-      - E-014
       - E-015
+      - E-022
+      - E-025
 
   - id: BUS-005
     name: 505 Tavern
     address: 505 Main
-    notes: Later business name; documented in modern sources and local-memory/photo-metadata leads. Relationship to earlier 505 business names remains unresolved.
+    notes: Working trade name for Mitch / Mitchell (C.) Young March 1991-March 2004; he ran the business. Do not claim he restored the name or building. Also documented 1965 and 1972 liquor renewals. Ray Hansen sold this business to Dick and Sheila, who renamed it Brass Rail.
     related_buildings:
       - B-002
     related_people:
+      - P-005
+      - P-007
+      - P-008
+      - P-011
       - P-012
+      - P-018
     related_evidence:
+      - E-004
+      - E-005
       - E-008
       - E-013
+      - E-022
+      - E-029
+      - E-031
 
   - id: BUS-006
     name: Thirsty Duck
@@ -98,7 +109,7 @@ businesses:
   - id: BUS-009
     name: The 505
     address: 505 Main
-    notes: Preferred working label for Mitch Young's March 1991-March 2004 ownership/operation testimony; exact legal/trade name unresolved.
+    notes: Earlier archive handling label for the 505 Main Street business context. Keep for cross-reference; working 1991-2004 trade name is 505 Tavern (BUS-005).
     related_buildings:
       - B-002
     related_people:
@@ -111,8 +122,137 @@ businesses:
   - id: BUS-010
     name: Brass Rail Tavern
     address: 505 Main
-    notes: Reported in photo metadata as a 505 Main business name; unverified lead pending directories, OLCC records, business licenses, ads, or photos.
+    notes: Dick and Sheila renamed 505 Tavern to Brass Rail. April 1988 Commission minutes call The Dug Inn formerly The Brass Rail at 505 Main. 1981 Sandy Post ad is Troutdale, withdrawn.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-007
+      - P-008
+    related_evidence:
+      - E-015
+      - E-030
+      - E-031
+      - E-036
+
+  - id: BUS-011
+    name: The Chicago Store
+    address: 505 Main
+    notes: April 1911 and January 1913 newspaper ads for new/second-hand clothing, cleaning and repairing.
     related_buildings:
       - B-002
     related_evidence:
-      - E-015
+      - E-026
+
+  - id: BUS-012
+    name: Wolf & Miller
+    address: 505 Main
+    notes: October 10 1918 Oregon City Courier shoe business / shoe-repair department.
+    related_buildings:
+      - B-002
+    related_evidence:
+      - E-027
+
+  - id: BUS-013
+    name: Farr's Pool Hall
+    address: 505 Main
+    notes: Edwin F. and Alice Farr proprietors per City inventory of their residence.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-028
+      - P-029
+    related_evidence:
+      - E-033
+
+  - id: BUS-014
+    name: Harr's Recreation Center
+    address: 505 Main
+    notes: City inventory transcription of 1945 directory. Preserve exact wording; Farr/Harr unresolved.
+    related_buildings:
+      - B-002
+    related_evidence:
+      - E-032
+
+  - id: BUS-015
+    name: Well's Recreation
+    address: 505 Main
+    notes: City inventory reports 1953 directory; spelling to verify.
+    related_buildings:
+      - B-002
+    related_evidence:
+      - E-032
+
+  - id: BUS-016
+    name: The Dug Inn
+    address: 505 Main
+    notes: April 1988 Commission record formerly The Brass Rail; Wiitanen-to-Cotterell transfer.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-007
+      - P-008
+      - P-031
+    related_evidence:
+      - E-030
+
+  - id: BUS-017
+    name: Sports Keg
+    address: 505 Main
+    notes: Family recollection late 1980s/early 1990s during sale/repossession cycle. Research lead.
+    related_buildings:
+      - B-002
+    related_evidence:
+      - E-041
+
+  - id: BUS-018
+    name: White Rabbit / Black Ink
+    address: 503 Main
+    notes: 2016-2017 renovation and later use.
+    related_buildings:
+      - B-001
+    related_evidence:
+      - E-001
+
+  - id: BUS-019
+    name: H. H. Smith pool hall
+    address: 503 Main
+    notes: March 1912 license application at 503 Main; grant not independently proven.
+    related_buildings:
+      - B-001
+    related_people:
+      - P-023
+    related_evidence:
+      - E-023
+
+  - id: BUS-020
+    name: L. Hylton cigar and tobacco
+    address: 503 Main
+    notes: February 1914 Courier industrial edition.
+    related_buildings:
+      - B-001
+    related_people:
+      - P-024
+    related_evidence:
+      - E-024
+
+  - id: BUS-021
+    name: Dr. Freeze, Eye Specialist
+    address: 505 / 505 1/2 Main
+    notes: 1921-1922 newspaper ads; later Masonic Building.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-027
+    related_evidence:
+      - E-028
+
+  - id: BUS-022
+    name: Dr. Roy Briggs, dentist
+    address: 505 1/2 Main
+    notes: 1941 directory per City inventory.
+    related_buildings:
+      - B-002
+    related_people:
+      - P-030
+    related_evidence:
+      - E-032

@@ -36,12 +36,12 @@ Primary file: `buildings/505-main.md`
 Associated names and topics:
 
 - The 505 / 505 Main Street business
-- Mitch Young ownership/operation, March 1991-March 2004
+- Mitch / Mitchell (C.) Young ran 505 Tavern, March 1991-March 2004
 - 505 Tavern
 - Brass Rail Tavern
 - Thirsty Duck
-- The Wheel location/name question
-- Ray Hansen / Ray Grisham / Richard-Dick Wiitanen / Sheila Wiitanen / Willie / Victor sequence
+- The Wheel at **503 Main** (Raye Grisham)
+- Ray Hansen sold 505 Tavern to Richard-Dick and Sheila Wiitanen
 - Rear addition question
 - 2025 commercial lease
 
@@ -60,7 +60,7 @@ Key evidence and map sources:
 
 Accuracy rule:
 
-Mitch Young's confirmed March 1991-March 2004 period belongs under 505 Main Street / The 505 unless documents prove another exact legal or trade name. Do not automatically label this period The Wheel or The Wheel Tavern.
+Mitch / Mitchell (C.) Young **ran** 505 Tavern at 505 Main Street from March 1991 to March 2004. Keep `BUS-009` The 505 as an earlier handling label. Do not label this period The Wheel. Do not say he restored the name or building.
 
 ### 507 Main Street / Harding Building
 
@@ -112,7 +112,10 @@ Primary file: `businesses/business-index.md`
 - `BUS-007` Harding Drug Store — `businesses/harding-drug-store.md`
 - `BUS-008` Tony's Restaurant
 - `BUS-009` The 505 — `businesses/the-505.md`
-- `BUS-010` Brass Rail Tavern — `businesses/brass-rail-tavern.md`
+- `BUS-011` The Chicago Store
+- `BUS-012` Wolf & Miller
+- `BUS-013` Farr's Pool Hall
+- `BUS-016` The Dug Inn
 
 ## People Index
 
@@ -122,17 +125,17 @@ High-priority people/entities:
 
 - J. Jager — New Kwality Cafe proprietor on matchbook
 - Larry — Larry's Kwality Cafe name/person, surname unknown
-- Ray Hansen — reported 505 business owner before Richard / Dick and Sheila
-- Ray Grisham — related to 505 / The Wheel context; not merged with Ray Hansen
-- Richard / Dick Wiitanen — reported 505 operator after Ray Hansen; died November 2024
-- Sheila Wiitanen — reported 505 operator after Ray Hansen; died 2014
+- Ray Hansen — sold 505 Tavern business to Dick and Sheila; not Raye Grisham
+- Raye Grisham — grandmother; bought The Wheel at 503; formerly Raye LaFarlette
+- Richard / Dick Wiitanen — bought 505 Tavern from Hansen with Sheila; died November 2024
+- Sheila Wiitanen — bought 505 Tavern from Hansen with Dick; died 2014
 - Willie — bartender under Ray Hansen and Richard / Dick and Sheila
-- Victor — restaurant manager during Ray Grisham and early Richard / Dick and Sheila years
-- Mitch Young — owned and operated 505 Main Street business / The 505, March 1991-March 2004
+- Victor — restaurant manager during Raye Grisham's Wheel years and early Richard / Dick and Sheila years
+- Mitch / Mitchell (C.) Young — same person (`P-011` / `P-018`); ran 505 Tavern, March 1991-March 2004
 - Mike Berman — later 505 Tavern owner / seller in 2017
 - Scott Forvilly — purchased and reopened as Thirsty Duck in 2017
-- Rodney Young — current owner/project steward
-- Mitchell C. Young — 505 LLC managing member / family-history participant
+- Rodney Young — current co-owner with Mitchell Young through 505 LLC / project steward
+- Mitchell C. Young — same person as Mitch Young (`P-011` / `P-018`); 505 LLC co-owner; ran 505 Tavern 1991-2004
 - Alin Guria — 2025 505 lessee
 - Skyline Property Management — property manager / authorized agent
 - George A. Harding — Harding Building / Harding Drug Store context

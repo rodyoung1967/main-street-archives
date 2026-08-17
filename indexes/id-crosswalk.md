@@ -44,8 +44,8 @@ This file connects the archive's ID systems so related records can be audited wi
 
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
-| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-002` New Kwality Cafe; `BUS-003` Larry's Kwality Cafe; `BUS-004` The Wheel question | `E-001`, `E-002`, `E-003`, `E-011`, `E-015`, `E-020`, `E-021`; `S-001`, `S-002`, `S-003`, `S-010`, `S-014`-`S-022`, `S-023` |
-| `B-002` 505 Main Street | `BUS-004` The Wheel question; `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-009` The 505; `BUS-010` Brass Rail Tavern | `E-004`, `E-005`, `E-006`, `E-007`, `E-008`, `E-010`, `E-011`, `E-013`, `E-014`, `E-015`, `E-018`, `E-020`, `E-021`; `S-004`, `S-005`, `S-009`, `S-010`, `S-011`, `S-014`-`S-022`, `S-023` |
+| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel at 503 | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`; `S-024`-`S-028`, `S-048` |
+| `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-037`, `E-039`; `S-028`, `S-032`-`S-043`, `S-048` |
 | `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
 
 ## Person / Business Crosswalk
@@ -54,17 +54,17 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `P-003` J. Jager | `BUS-002`, `B-001`, `A-001` / `IMG-0001` | Named proprietor on New Kwality Cafe matchbook. |
 | `P-004` Larry | `BUS-003`, `B-001`, `A-002` / `IMG-0002` | Larry's Kwality Cafe name/person; surname unknown. |
-| `P-005` Ray Hansen | `B-002` | Oral-history owner before Richard / Dick and Sheila. |
-| `P-006` Ray Grisham | `BUS-004`, `B-002` | Keep distinct from Ray Hansen until documentary records clarify. |
-| `P-007` Richard / Dick Wiitanen | `B-002` | Owned after Ray Hansen with Sheila; died November 2024. |
-| `P-008` Sheila Wiitanen | `B-002` | Owned after Ray Hansen with Richard / Dick; died 2014. |
+| `P-005` Ray Hansen | `BUS-005`, `B-002` | Sold 505 Tavern business to Dick and Sheila; distinct from Raye Grisham. |
+| `P-006` Raye Grisham | `BUS-004`, `B-001` | Grandmother; formerly Raye LaFarlette; bought The Wheel at 503. Supersedes older "Ray Grisham at 505" reading. |
+| `P-007` Richard / Dick Wiitanen | `B-002`, `B-001` | Bought 505 Tavern business from Hansen; renamed Brass Rail; later 505 real-estate interest; died November 2024. |
+| `P-008` Sheila Wiitanen | `B-002` | Daughter of Floyd and Raye; bought 505 Tavern business with Dick; died 2014. |
 | `P-009` Willie | `B-002` | Bartender under Ray Hansen and Richard / Dick and Sheila. |
-| `P-010` Victor | `BUS-004`, `B-002` | Restaurant manager in Ray Grisham / early Wiitanen context. |
-| `P-011` Mitch Young | `BUS-009`, `B-002`, `E-004`, `E-014` | Owned and operated the 505 Main Street business / The 505 from March 1991 to March 2004; do not automatically label this period The Wheel. |
-| `P-012` Mike Berman | `BUS-005`, `B-002` | Sold 505 Tavern in 2017. |
+| `P-010` Victor | `BUS-004`, `B-001` | Restaurant manager in Raye Grisham's Wheel years and early Wiitanen years. |
+| `P-011` Mitch / Mitchell (C.) Young | `BUS-005`, `BUS-009`, `B-002`, `E-004` | Same person as P-018. Ran 505 Tavern March 1991-March 2004; not The Wheel. Do not claim he restored it. |
+| `P-012` Mike Berman | `BUS-005`, `B-002` | Told Commission he bought 505 Tavern in 2009; sold in 2017. |
 | `P-013` Scott Forvilly | `BUS-006`, `B-002` | Purchased/reopened as Thirsty Duck in 2017. |
-| `P-014` Rodney Young | `B-002`, archive steward | Current owner/project steward. |
-| `P-018` Mitchell C. Young | `B-002`, `BUS-009` | 505 LLC managing member / family-history participant. |
+| `P-014` Rodney Young | `B-002`, archive steward | Co-owner of 505 with Mitchell Young through 505 LLC. |
+| `P-018` Mitchell C. Young | `B-002`, `BUS-005` | Same person as P-011; legal/lease form of the name; 505 LLC managing member. |
 | `P-019` Alin Guria | `B-002`, `E-018`, `S-011` | 2025 lessee. |
 | `P-020` Skyline Property Management | `B-002`, `E-018`, `S-011` | 2025 lease property manager / authorized agent. |
 

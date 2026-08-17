@@ -57,15 +57,20 @@ evidence:
     name: Mitch Young Direct Testimony
     type: Primary participant testimony
     claims:
-      - Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004.
-      - Exact legal/trade name during that period still needs documentary confirmation.
-      - Should not automatically be equated with The Wheel unless supported by primary records.
-    confidence: Very High for Mitch's ownership/operation dates and 505 Main Street location; unresolved for exact formal business name.
+      - Mitch Young / Mitchell Young / Mitch C. Young / Mitchell C. Young are the same person (P-011 / P-018).
+      - He ran (owned and operated) 505 Tavern at 505 Main Street from March 1991 to March 2004.
+      - Family history adds that he purchased the tavern business from Dick and Sheila after a repossession.
+      - Earlier restored-the-name wording is superseded; it is not known whether he restored a name, fixtures, or the building.
+      - This period is not The Wheel.
+    confidence: Very High for ownership/operation dates and 505 Main location; high as working trade name 505 Tavern pending license/directory pages.
     related_sources:
       - S-005
+      - S-028
     related_people:
       - P-011
+      - P-018
     related_businesses:
+      - BUS-005
       - BUS-009
     related_buildings:
       - B-002
@@ -73,17 +78,21 @@ evidence:
       - OH-001
 
   - id: E-005
-    name: Ray Hansen Ownership
+    name: Ray Hansen Sold 505 Tavern to Dick and Sheila
     type: Family/oral history
     claims:
-      - Ray Hansen owned the 505 business before Richard / Dick and Sheila.
-    confidence: High, pending documentary confirmation
+      - Ray Hansen owned the 505 Tavern business and sold it to Richard / Dick and Sheila Wiitanen.
+      - Ray Hansen is a different person from Raye Grisham.
+    confidence: High family confirmation; documentary sale date still pending.
     related_sources:
       - S-006
+      - S-028
     related_people:
       - P-005
       - P-007
       - P-008
+    related_businesses:
+      - BUS-005
     related_buildings:
       - B-002
 
@@ -107,7 +116,7 @@ evidence:
     name: Victor Restaurant Manager
     type: Family/oral history
     claims:
-      - Victor independently managed the restaurant during Ray Grisham's years and early Richard / Dick and Sheila years.
+      - Victor independently managed the restaurant during Raye Grisham's Wheel years at 503 Main and early Richard / Dick and Sheila years.
     confidence: High, pending full identification
     related_sources:
       - S-006
@@ -117,7 +126,10 @@ evidence:
       - P-008
       - P-010
     related_buildings:
+      - B-001
       - B-002
+    related_businesses:
+      - BUS-004
 
   - id: E-008
     name: 2017 505 Tavern / Thirsty Duck Article
@@ -139,21 +151,23 @@ evidence:
       - B-002
 
   - id: E-009
-    name: Young / Lafarlette / Grisham / Wiitanen Family Context
+    name: Young / LaFarlette / Grisham / Wiitanen Family Context
     type: Family/oral history / project provenance
     claims:
-      - Rodney Young currently owns 505 Main Street.
-      - Rodney's parents and earlier grandparents were connected to 503 Main Street.
-      - Grandmother's first marriage was Lafarlette and second marriage was Grisham.
+      - After Richard Wiitanen's death, 505 Main passed to Rodney Young and Mitchell Young, who own it together through 505 LLC.
+      - Rodney's grandmother is Raye Grisham; first marriage LaFarlette.
       - Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
-    confidence: High as trusted internal family/project provenance; documentary confirmation still desirable for formal ownership dates and spellings.
+    confidence: High as trusted internal family/project provenance; deed/probate still desirable.
     related_sources:
       - S-006
+      - S-028
     related_people:
+      - P-006
       - P-014
       - P-015
       - P-016
       - P-017
+      - P-018
       - P-021
     related_buildings:
       - B-001
@@ -212,14 +226,16 @@ evidence:
       - B-002
 
   - id: E-014
-    name: 505 Location Correction / The 505 Handling Note
+    name: 505 Location Correction / 505 Tavern Handling Note
     type: Project correction / direct user clarification
     claims:
-      - Mitch Young's confirmed ownership/operation period should be tied to the 505 Main Street business / The 505, not automatically to The Wheel.
-      - The Wheel remains a related but unresolved name/address question until primary documentation supports the exact usage.
-    confidence: High for archive-handling rule; documentary confirmation still needed for the legal/trade name.
+      - Mitch Young's March 1991-March 2004 period belongs to 505 Tavern at 505 Main Street, not The Wheel.
+      - BUS-009 The 505 remains as an earlier handling label.
+      - The Wheel is a 503 Main business associated with Raye Grisham.
+    confidence: High for archive-handling rule; license/directory pages still desirable for the legal entity name.
     related_sources:
       - S-013
+      - S-028
     related_people:
       - P-011
     related_businesses:
@@ -358,3 +374,320 @@ evidence:
       - B-001
       - B-002
       - B-003
+
+  - id: E-022
+    name: August 2026 Family Identity and Address Corrections
+    type: Direct user / family confirmation
+    claims:
+      - Raye Grisham bought The Wheel at 503 Main.
+      - Ray Hansen is a different person and sold the 505 Tavern business to Dick and Sheila Wiitanen.
+      - Mitch / Mitchell (C.) Young ran 505 Tavern 1991-2004; do not claim he restored it.
+      - Mitch Young and Mitchell C. Young are the same person.
+      - After Richard Wiitanen's death, 505 real estate passed to Rodney Young and Mitchell Young jointly.
+    confidence: High as current family confirmation; deeds, licenses, and sale records still pending.
+    related_sources:
+      - S-028
+    related_people:
+      - P-005
+      - P-006
+      - P-007
+      - P-008
+      - P-011
+      - P-014
+      - P-018
+    related_businesses:
+      - BUS-004
+      - BUS-005
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: E-023
+    name: "H. H. Smith Pool-Hall Application, 503 Main, 1912"
+    type: Primary newspaper legal notice
+    claims:
+      - March 1912 Morning Enterprise notice that H. H. Smith intended to apply for a pool-hall license at 503 Main Street.
+      - The notice does not by itself prove the license was granted.
+    confidence: Very High for the application and address; unresolved for grant.
+    related_sources:
+      - S-024
+    related_people:
+      - P-023
+    related_businesses:
+      - BUS-019
+    related_buildings:
+      - B-001
+
+  - id: E-024
+    name: "L. Hylton at 503 Main, 1914"
+    type: Primary newspaper profile
+    claims:
+      - February 12 1914 Oregon City Courier profiles L. Hylton at 503 Main as cigars, tobacco, smokers supplies, and soft drinks.
+    confidence: Very High
+    related_sources:
+      - S-025
+    related_people:
+      - P-024
+    related_businesses:
+      - BUS-020
+    related_buildings:
+      - B-001
+
+  - id: E-025
+    name: "The Wheel at 503 Main, Oregon City Commission, 7 June 1967"
+    type: Primary municipal record
+    claims:
+      - Commission minutes authorize a liquor application for the Wheel located at 503 Main Street.
+    confidence: Very High for address and name as of that date.
+    related_sources:
+      - S-027
+    related_businesses:
+      - BUS-004
+    related_buildings:
+      - B-001
+
+  - id: E-026
+    name: "The Chicago Store at 505 Main, 1911-1913"
+    type: Primary newspaper advertisements
+    claims:
+      - April 1911 and January 1913 advertisements place The Chicago Store at 505 Main.
+    confidence: Very High
+    related_sources:
+      - S-032
+    related_businesses:
+      - BUS-011
+    related_buildings:
+      - B-002
+
+  - id: E-027
+    name: "Wolf & Miller at 505 Main, 1918"
+    type: Primary newspaper feature
+    claims:
+      - October 10 1918 Oregon City Courier identifies Wolf and Miller, 505 Main, as a shoe business / shoe-repair department.
+      - Shows the 505 address occupied in 1918; not proof the surviving building already existed.
+    confidence: Very High for occupant/address.
+    related_sources:
+      - S-034
+    related_businesses:
+      - BUS-012
+    related_buildings:
+      - B-002
+
+  - id: E-028
+    name: "Dr. Freeze, Eye Specialist, 505 / 505 1/2 Main, 1921-1922"
+    type: Primary newspaper advertisements
+    claims:
+      - Dr. Freeze advertised as Eye Specialist at 505 or 505 1/2 Main in 1921-1922.
+      - By October 1922 he advertised from the Masonic Building.
+    confidence: Very High
+    related_sources:
+      - S-035
+    related_people:
+      - P-027
+    related_businesses:
+      - BUS-021
+    related_buildings:
+      - B-002
+
+  - id: E-029
+    name: "505 Tavern Liquor Renewals, 1965 and 1972"
+    type: Primary municipal records
+    claims:
+      - Oregon City Commission liquor-license renewals list 505 Tavern in November 1965 and March 1972.
+    confidence: Very High
+    related_sources:
+      - S-038
+      - S-039
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-030
+    name: "The Dug Inn Formerly Brass Rail, 1988"
+    type: Primary municipal record
+    claims:
+      - April 6 1988 Commission record identifies The Dug Inn formerly The Brass Rail at 505 Main.
+      - Change of ownership from Dick or Sheila Wiitanen to the Cotterells.
+    confidence: Very High
+    related_sources:
+      - S-041
+    related_people:
+      - P-007
+      - P-008
+      - P-031
+    related_businesses:
+      - BUS-010
+      - BUS-016
+    related_buildings:
+      - B-002
+
+  - id: E-031
+    name: Hansen-to-Wiitanen 505 Tavern Sale and Brass Rail Rename
+    type: Family/oral history
+    claims:
+      - Ray Hansen sold the 505 Tavern business to Dick and Sheila Wiitanen, who renamed it Brass Rail Tavern.
+    confidence: High as family confirmation; documentary date pending.
+    related_sources:
+      - S-028
+    related_people:
+      - P-005
+      - P-007
+      - P-008
+    related_businesses:
+      - BUS-005
+      - BUS-010
+    related_buildings:
+      - B-002
+
+  - id: E-032
+    name: Oregon City Historic Inventories for 503 and 505
+    type: Official secondary synthesis
+    claims:
+      - City 503 record reports c.1919 construction estimate, Kwality chronology, Flor, and Wolf-family ownership roughly 1922-1972.
+      - City 505 record reports 1916 directory silence, c.1920/1925 construction estimate, 1941 Dr. Roy Briggs, 1945 Harr's Recreation Center, and 1953 Well's Recreation.
+    confidence: Medium-high as official synthesis; underlying pages preferable.
+    related_sources:
+      - S-026
+      - S-033
+    related_people:
+      - P-025
+      - P-030
+    related_businesses:
+      - BUS-001
+      - BUS-014
+      - BUS-015
+      - BUS-022
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: E-033
+    name: Farr's Pool Hall Proprietors
+    type: Official secondary
+    claims:
+      - City inventory identifies Edwin F. and Alice Farr as proprietors of Farr's Pool Hall at 505 Main.
+    confidence: High as official independent corroboration.
+    related_sources:
+      - S-036
+    related_people:
+      - P-028
+      - P-029
+    related_businesses:
+      - BUS-013
+    related_buildings:
+      - B-002
+
+  - id: E-034
+    name: Michael Berman Bought 505 Tavern in 2009
+    type: Primary municipal record / participant statement
+    claims:
+      - September 5 2012 Commission minutes record Michael Berman stating he bought the 505 Tavern in 2009.
+    confidence: High
+    related_sources:
+      - S-042
+    related_people:
+      - P-012
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-035
+    name: 2017 505 Permit; Richard Wiitanen Listed as Owner
+    type: Primary municipal permit log
+    claims:
+      - Permit BB-17-0193 lists Richard Martin Wiitanen co-trustee as owner of 505 Main and APN 2-2E-31AB-08300.
+    confidence: Very High for 2017 permit-era facts.
+    related_sources:
+      - S-043
+    related_people:
+      - P-007
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-036
+    name: Withdrawn 1981 Sandy Post Brass Rail Citation
+    type: Research correction
+    claims:
+      - 1981 Sandy Post Brass Rail Tavern classifieds identify Troutdale at 108 E. Columbia, not Oregon City.
+    confidence: High as a negative/correction finding.
+    related_sources:
+      - S-040
+    related_businesses:
+      - BUS-010
+    related_buildings:
+      - B-002
+
+  - id: E-037
+    name: Bagent / Heath Bark-Ley 2003-2005 Transition Lead
+    type: Secondary business records plus participant statement
+    claims:
+      - Aggregators associate Kenly C. Bagent with Heath Bark-Ley LLC and 505 Tavern around 2003-2004.
+      - A 2005 alumni entry has Ken Bagent stating he and partner Terry Bee owned two taverns in Oregon City.
+    confidence: Moderate as leads; not a complete ownership chain.
+    related_sources:
+      - S-045
+      - S-046
+      - S-047
+    related_people:
+      - P-032
+      - P-033
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-038
+    name: Circa 1975 Wiitanen Purchase of 503 Building
+    type: Family/oral history
+    claims:
+      - Dick and Sheila Wiitanen purchased the 503 Main Street building about 1975 from Mrs. Nemeth.
+    confidence: Family-confirmed; deed/date/seller spelling pending.
+    related_sources:
+      - S-028
+    related_people:
+      - P-007
+      - P-008
+      - P-026
+    related_buildings:
+      - B-001
+
+  - id: E-039
+    name: 1955 Beer-and-Pool Tavern Classified, 505 Main
+    type: Primary newspaper classified
+    claims:
+      - November 20 1955 Eugene Register-Guard offered a beer-and-pool tavern for sale with inquiries to 505 Main Street, Oregon City.
+    confidence: Very High for a beer/pool tavern at the address in 1955.
+    related_sources:
+      - S-037
+    related_buildings:
+      - B-002
+
+  - id: E-040
+    name: Historical Society Edition v5 Working Narrative
+    type: Project synthesis / working history
+    claims:
+      - Consolidates newspaper, municipal, Sanborn, aerial, family, and archive evidence for 503 and 505 as of 16 August 2026.
+    confidence: High as a project synthesis; each claim still rests on its numbered source.
+    related_sources:
+      - S-048
+    related_buildings:
+      - B-001
+      - B-002
+
+  - id: E-041
+    name: Sports Keg / Rosser Family Leads
+    type: Family recollection / research lead
+    claims:
+      - Family recollection places Sports Keg at 505 Main in the late 1980s or early 1990s.
+      - A separate recollection suggests a Brass Rail sale may have involved someone surnamed Rosser.
+    confidence: Low-moderate as leads only.
+    related_sources:
+      - S-028
+    related_businesses:
+      - BUS-017
+    related_buildings:
+      - B-002

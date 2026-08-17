@@ -109,3 +109,113 @@ sources:
     name: Oregon City Aerial Photocompare Tool
     url: https://maps.orcity.org/galleries/photocompare/index.html
     notes: City-hosted historical aerial comparison viewer. Screenshots imported 2026-07-05 for 5th and Main Street series 1929-2025. Related evidence E-021; media IMG-0006 through IMG-0043.
+
+  - id: S-024
+    name: Morning Enterprise, 31 March 1912, H. H. Smith notice
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-31/ed-1/seq-4.pdf
+    notes: Pool-hall license application at 503 Main. Related evidence E-023.
+
+  - id: S-025
+    name: Oregon City Courier, 12 February 1914, L. Hylton
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-12/ed-1/seq-15/
+    notes: Industrial-edition profile. Related evidence E-024.
+
+  - id: S-026
+    name: City of Oregon City historic-resource record, 503 Main / Kwality Cafe
+    url: https://legacyorcity.teammunicode.com/planning/503-main-street-kwality-caf
+    notes: Official synthesis. Related evidence E-032.
+
+  - id: S-027
+    name: Oregon City Commission minutes, 7 June 1967
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document
+    notes: Liquor application for the Wheel at 503 Main Street. Related evidence E-025.
+
+  - id: S-028
+    name: Rodney Young family-history testimony, August 2026
+    url: Internal / project oral history, including 16 August 2026 corrections
+    notes: Raye bought The Wheel at 503; Ray Hansen sold 505 Tavern to Dick and Sheila; joint Rodney/Mitchell ownership.
+
+  - id: S-029
+    name: Portland Mercury, 22 July 2010, Wheel Lounge
+    url: https://www.portlandmercury.com/Feature/2010/07/22/2700077/the-best-of-oregon-city
+    notes: Wheel Lounge at 503 Main.
+
+  - id: S-032
+    name: Chicago Store advertisements, 1911-1913
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
+    notes: Also 28 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026.
+
+  - id: S-033
+    name: City of Oregon City historic-resource record, 505 Main
+    url: https://legacyorcity.teammunicode.com/planning/505-main-street
+    notes: Construction interpretation and directory entries. Related evidence E-032.
+
+  - id: S-034
+    name: Oregon City Courier, 10 October 1918, Wolf and Miller
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
+    notes: 505 Main shoe business / repair. Related evidence E-027.
+
+  - id: S-035
+    name: Dr. Freeze Eye Specialist advertisements, 1921-1922
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-11/ed-1/seq-5/
+    notes: Related evidence E-028.
+
+  - id: S-036
+    name: City of Oregon City, 401 3rd Street inventory
+    url: https://www.orcity.org/2014/401-3rd-Street
+    notes: Farr's Pool Hall at 505 Main. Related evidence E-033.
+
+  - id: S-037
+    name: Eugene Register-Guard, 20 November 1955, beer-pool classified
+    url: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/
+    notes: Inquiries at 505 Main. Related evidence E-039.
+
+  - id: S-038
+    name: Oregon City Commission minutes, 11 November 1965
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4753762/File/document
+    notes: 505 Tavern liquor renewal. Related evidence E-029.
+
+  - id: S-039
+    name: Oregon City Commission minutes, March 1972
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723016/File/document
+    notes: 505 Tavern liquor renewal. Related evidence E-029.
+
+  - id: S-040
+    name: "WITHDRAWN: Sandy Post, December 1981, Brass Rail Tavern (Troutdale)"
+    url: https://oregonnews.uoregon.edu/lccn/2024240281/1981-12-24/ed-1/seq-16/ocr/
+    notes: Not evidence for 505 Main. Related evidence E-036.
+
+  - id: S-041
+    name: Oregon City Commission, 6 April 1988, Manager's Report 88-49
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4779030/File/document
+    notes: Dug Inn formerly Brass Rail. Related evidence E-030.
+
+  - id: S-042
+    name: Oregon City Commission minutes, 5 September 2012
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4238300/File/document
+    notes: Berman bought 505 Tavern in 2009. Related evidence E-034.
+
+  - id: S-043
+    name: Oregon City Permit Log, BB-17-0193, 18 April 2017
+    url: https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF
+    notes: Richard Wiitanen co-trustee listed as owner. Related evidence E-035.
+
+  - id: S-045
+    name: Pleasant Hill School District alumni page, 3 February 2005, Ken Bagent
+    url: https://www.pleasanthill.k12.or.us/resources/community/alumni/classes
+    notes: Related evidence E-037.
+
+  - id: S-046
+    name: D&B directory, Heath Bark-Ley, LLC, 505 Main
+    url: https://www.dandb.com/businessdirectory/heathbarkleyllc-oregoncity-or-5724908.html
+    notes: Related evidence E-037.
+
+  - id: S-047
+    name: FastBackgroundCheck aggregation for Kenly C. Bagent
+    url: Pending archival print/capture
+    notes: Secondary aggregator. Related evidence E-037.
+
+  - id: S-048
+    name: 503 and 505 Main Street Historical Society Edition v5
+    url: records/historical-society/503-505-main-historical-society-edition-v5.docx
+    notes: Working narrative dated 16 August 2026. HS note numbers S-01 through S-37 are not archive S-IDs. Related evidence E-040.

@@ -79,7 +79,11 @@ If evidence changes:
 
 ## Current Accuracy Reminders
 
-- Mitch Young's confirmed March 1991-March 2004 period belongs to the 505 Main Street business / The 505 unless documentary evidence proves another exact legal or trade name.
-- Do not automatically label Mitch Young's confirmed 505 period as The Wheel.
-- The Wheel, The 505, 505 Tavern, Brass Rail Tavern, and Thirsty Duck remain related but distinct business-name questions until primary records prove continuity.
+- Mitch / Mitchell (C.) Young's confirmed March 1991-March 2004 period belongs to **505 Tavern at 505 Main Street**. He **ran** the business. Do **not** say he restored the name, fixtures, or building. Keep `BUS-009` The 505 as an earlier handling label. Do not label this period The Wheel.
+- **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`). Do not treat them as two people. Do not renumber or merge the IDs.
+- **The Wheel (`BUS-004`) is at 503 Main.** Raye Grisham (`P-006`, grandmother; formerly Raye LaFarlette) bought The Wheel at 503. Oregon City Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street.
+- **Ray Hansen (`P-005`) and Raye Grisham (`P-006`) are different people.** Hansen sold the 505 Tavern **business** to Dick and Sheila Wiitanen. Do not merge Hansen with Grisham.
+- Property ownership, business ownership, and liquor-license ownership are separate questions.
+- After Richard Wiitanen's death, 505 Main real estate passed to **Rodney Young and Mitchell Young** jointly through 505 LLC.
+- The Wheel, The 505, 505 Tavern, Brass Rail Tavern, The Dug Inn, and Thirsty Duck remain related but distinct business-name records until primary records prove continuity.
 - Sanborn maps are primary map sources for footprint, materials, street layout, and address numbering, but map readings still require careful transcription and symbol interpretation.

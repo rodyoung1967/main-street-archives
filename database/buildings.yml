@@ -2,18 +2,24 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
-    notes: Associated with Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, the 1919 construction-date hypothesis, 503/505 boundary questions, and The Wheel location/name question.
+    notes: Associated with Kwality Cafe lineage, The Wheel at 503 (Raye Grisham), c.1919 surviving-building estimate, and 503/505 boundary questions.
     related_businesses:
       - BUS-001
       - BUS-002
       - BUS-003
       - BUS-004
+      - BUS-018
+      - BUS-019
+      - BUS-020
     related_people:
       - P-003
       - P-004
+      - P-006
+      - P-010
       - P-015
       - P-016
       - P-021
+      - P-022
     related_evidence:
       - E-001
       - E-002
@@ -22,6 +28,9 @@ buildings:
       - E-015
       - E-020
       - E-021
+      - E-022
+      - E-025
+      - E-038
     related_maps:
       - SM-002
       - SM-003
@@ -35,16 +44,18 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with The 505 / 505 Main Street business, 505 Tavern, Thirsty Duck, Brass Rail Tavern, The Wheel name/address question, rear-addition and footprint questions, and the 2025 commercial lease.
+    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel is at 503, not 505.
     related_businesses:
-      - BUS-004
       - BUS-005
       - BUS-006
       - BUS-009
       - BUS-010
+      - BUS-011
+      - BUS-012
+      - BUS-013
+      - BUS-016
     related_people:
       - P-005
-      - P-006
       - P-007
       - P-008
       - P-009
@@ -54,17 +65,14 @@ buildings:
       - P-013
       - P-014
       - P-015
-      - P-016
       - P-017
       - P-018
       - P-019
       - P-020
-      - P-021
     related_evidence:
       - E-004
       - E-005
       - E-006
-      - E-007
       - E-008
       - E-010
       - E-011
@@ -74,6 +82,10 @@ buildings:
       - E-018
       - E-020
       - E-021
+      - E-022
+      - E-029
+      - E-030
+      - E-031
     related_maps:
       - SM-002
       - SM-003
