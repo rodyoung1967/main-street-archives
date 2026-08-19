@@ -6,12 +6,41 @@ This file defines where source files, metadata, evidence, and narrative research
 
 Keep original source files separate from interpretation.
 
-- Original source files go under `media/`, `maps/`, `records/`, or `artifacts/` depending on source type.
+- Newspaper clippings and newspaper-page scans go under `newspapers/`.
+- Historic photos, aerials, and screenshots go under `media/`.
+- Original maps go under `maps/`.
+- Administrative, legal, ownership, tax, assessor, permit, lease, and similar documents go under `records/`.
+- Physical-object images such as matchbooks and matchcovers go under `artifacts/`.
 - Evidence summaries go under `evidence/`.
 - Building narratives go under `buildings/`.
 - Business narratives go under `businesses/`.
 - People and family context go under `people/`.
 - Oral-history notes go under `oral-history/`.
+
+The repository root is for project/navigation files, not permanent raw-source storage. A source uploaded at the root should be treated as an intake item and moved to its canonical source folder when it is integrated.
+
+## Newspapers
+
+Original newspaper clippings and article/page scans live under:
+
+```text
+newspapers/
+  oregonian/
+  morning-enterprise/
+  oregon-city-courier/
+  other/
+```
+
+Use publication subfolders first. Add year subfolders only when volume makes them useful.
+
+For new files, prefer a normalized descriptive filename such as:
+
+```text
+1967-09-wheel-505-fire-oregonian.png
+1937-kwality-cafe-for-sale-oregonian.png
+```
+
+Preserve the original uploaded filename in the media/source metadata whenever a file is renamed.
 
 ## Maps
 
@@ -79,6 +108,7 @@ media/photos/
   507-main/
   main-street-block/
   intersections/
+  aerials/
 ```
 
 Use the most specific folder that fits the image.
@@ -99,18 +129,19 @@ media/screenshots/thebeerchaser-505-tavern-comment-2021.png
 
 ## Records
 
-Current administrative/legal records go under:
+Administrative, legal, ownership, and property records belong under `records/`. Use source-type subfolders as the collection grows:
 
 ```text
 records/
+  deeds/
+  tax/
+  assessor/
+  permits/
+  leases/
+  historical-society/
 ```
 
-Examples:
-
-```text
-records/505-commercial-lease-2025.md
-records/505-commercial-lease-2025.pdf
-```
+Existing standalone records such as `records/505-commercial-lease-2025.md` may remain at the `records/` level until there is enough volume to justify moving them.
 
 ## Evidence and Sources
 
@@ -132,7 +163,7 @@ Building-specific narrative files live under:
 ```text
 buildings/503-main.md
 buildings/505-main.md
-buildings/507-main.md
+buildings/507-harding-building.md
 ```
 
 ## Businesses
@@ -169,6 +200,20 @@ Current family handling:
 - Sheila died in 2014.
 - Richard / Dick died in November 2024.
 
+## Retired Legacy Paths
+
+The former top-level holding folders below were audited and retired on 18 August 2026 after their useful guidance was consolidated into the canonical structure:
+
+```text
+photos/
+deeds/
+tax-records/
+```
+
+Do not recreate them. Use `media/photos/` for photos and `records/` for deeds, tax, assessor, permit, lease, and similar records.
+
+`media/catalog.md` remains a legacy navigation shim. The canonical image/media metadata register is `media/photo-metadata-register.md`.
+
 ## File Naming Rules
 
 Use lowercase, hyphens, and meaningful names for new text files, metadata files, derivative images, and future normalized source filenames.
@@ -179,6 +224,7 @@ Good:
 new-kwality-cafe-matchbook-503-main-j-jager.jpg
 1925-503-505-507-main-crop.png
 505-commercial-lease-2025.pdf
+1967-09-wheel-505-fire-oregonian.png
 ```
 
 Avoid:

@@ -132,7 +132,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `503 Main st Missing Girl 1908 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0044_oregonian_1908-08-25_503-main-brightbill.png`
+- Repository file: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street
 - Related people: `P-034` Henry Brightbill
@@ -144,7 +144,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper classified / screenshot
 - Original filename: `Kwality Cafe for sale 1937 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0045_oregonian_1937-06-12_kwality-cafe-for-sale.png`
+- Repository file: `newspapers/oregonian/1937-kwality-cafe-for-sale-oregonian.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street (by archive association; ad says Oregon City, not the street number)
 - Related business: `BUS-001` Kwality Cafe
@@ -156,7 +156,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `Wheel Cafe 1960 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0046_oregonian_1960-11-30_wheel-cafe.png`
+- Repository file: `newspapers/oregonian/1960-wheel-cafe-oregonian.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street (intersection; street number not in this article)
 - Related business: `BUS-004` The Wheel / Wheel Cafe
@@ -168,7 +168,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `Wheel & 505 Fire September 1967.png`
-- Repository file: `media/newspapers/IMG-0047_oregonian_1967-09-02_main-street-fire.png`
+- Repository file: `newspapers/oregonian/1967-09-wheel-505-fire-oregonian.png`
 - Status: `committed`
 - Related buildings: `B-001`, `B-002`, `B-003`
 - Related businesses: `BUS-004`, `BUS-005`, `BUS-007`, `BUS-023`
@@ -180,7 +180,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper classified / screenshot
 - Original filename: `505 Classified 1976 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0048_oregonian_1976-02-08_505-tavern-classified.png`
+- Repository file: `newspapers/oregonian/1976-505-main-classified-oregonian.png`
 - Status: `committed`
 - Related building: `B-002` / 505 Main Street
 - Related business: `BUS-005` 505 Tavern
@@ -192,7 +192,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `Wheel 1983 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0049_oregonian_1983-04-18_wheel-cafe-cruzan.png`
+- Repository file: `newspapers/oregonian/1983-the-wheel-oregonian.png`
 - Status: `committed`
 - Related building: `B-001`
 - Related business: `BUS-004`
@@ -204,19 +204,19 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `Wheel Cafe 1983 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0050_oregonian_1983-04-18_wheel-cafe-cruzan-full.png`
+- Repository file: `newspapers/oregonian/1983-wheel-cafe-oregonian.png`
 - Status: `committed`
 - Related building: `B-001`
 - Related business: `BUS-004`
 - Evidence: `E-047`
-- Source: `S-054`
+- Source: `S-058`
 - Notes: Fuller capture of the same 18 April 1983 Cruzan feature as `IMG-0049`. Photo caption: daily walks "to the Wheel Cafe to have lunch."
 
 ## IMG-0051 — Oregonian, 25 April 1985: Wheel Cafe lottery-outlet list
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `Wheel 1985 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0051_oregonian_1985-04-25_wheel-cafe-lottery-list.png`
+- Repository file: `newspapers/oregonian/1985-the-wheel-oregonian.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street
 - Related business: `BUS-004`
@@ -228,7 +228,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `The Wheel August 1985.png`
-- Repository file: `media/newspapers/IMG-0052_oregonian_1985-08-21_wheel-cafe-lottery-sign.png`
+- Repository file: `newspapers/oregonian/1985-08-the-wheel-oregonian-2.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street
 - Related business: `BUS-004`
@@ -241,7 +241,7 @@ This register records image and photo-metadata items that have been discussed or
 
 - Type: Newspaper clipping / screenshot
 - Original filename: `The Wheel Aug 1985 Oregonian.png`
-- Repository file: `media/newspapers/IMG-0053_oregonian_1985-08-27_wheel-cafe-lottery-win.png`
+- Repository file: `newspapers/oregonian/1985-08-the-wheel-oregonian.png`
 - Status: `committed`
 - Related building: `B-001` / 503 Main Street
 - Related business: `BUS-004`

@@ -280,7 +280,7 @@ Confidence: Very High.
 ## E-047 — Wheel Cafe as 1983 Community Landmark
 Type: Primary newspaper  
 Date: 18 April 1983  
-Sources: `S-054`  
+Sources: `S-054`, `S-058`  
 Related media: `IMG-0049`, `IMG-0050`  
 Claims: Oregonian feature by John Guernsey on Sid and Earl Cruzan. They walked daily from Molalla Avenue to downtown Oregon City to lunch at **the Wheel Cafe**. Photo caption treats the Wheel Cafe as a known local destination. Street number not in the visible text.  
 Confidence: Very High for name, city, and 1983 operation.
