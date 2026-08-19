@@ -88,7 +88,7 @@ relationships:
     - building_id: B-001
       business_ids: [BUS-001, BUS-002, BUS-003, BUS-004]
     - building_id: B-002
-      business_ids: [BUS-004, BUS-005, BUS-006, BUS-009, BUS-010]
+      business_ids: [BUS-005, BUS-006, BUS-009, BUS-010]
     - building_id: B-003
       business_ids: [BUS-007, BUS-008]
 
