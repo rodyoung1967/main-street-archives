@@ -5,8 +5,8 @@ evidence:
     claims:
       - 503 Main constructed in 1919.
       - 503 Main originally housed Kwality Cafe.
-      - 503 Main later became "The Wheel Tavern."
-    confidence: Moderate for 1919; strong for Kwality connection; weak for exact "The Wheel Tavern" wording.
+      - The article later calls the business "The Wheel Tavern"; this is retained as source wording only and is not accepted as an official historical name.
+    confidence: Moderate for 1919; strong for Kwality connection; not accepted as evidence of an official "The Wheel Tavern" name.
     related_sources:
       - S-001
     related_buildings:
@@ -59,7 +59,7 @@ evidence:
     claims:
       - Mitch Young / Mitchell Young / Mitch C. Young / Mitchell C. Young are the same person (P-011 / P-018).
       - He ran (owned and operated) 505 Tavern at 505 Main Street from March 1991 to March 2004.
-      - Family history adds that he purchased the tavern business from Dick and Sheila after a repossession.
+      - Family history adds that he purchased the tavern business after a repossession.
       - Earlier restored-the-name wording is superseded; it is not known whether he restored a name, fixtures, or the building.
       - This period is not The Wheel.
     confidence: Very High for ownership/operation dates and 505 Main location; high as working trade name 505 Tavern pending license/directory pages.
@@ -78,12 +78,14 @@ evidence:
       - OH-001
 
   - id: E-005
-    name: Ray Hansen Sold 505 Tavern to Dick and Sheila
+    name: Ray Hansen / 505 Tavern Earlier Ownership Account
     type: Family/oral history
     claims:
-      - Ray Hansen owned the 505 Tavern business and sold it to Richard / Dick and Sheila Wiitanen.
+      - Earlier family history identified Ray Hansen as an owner of the 505 Tavern business and described a later Hansen-to-Wiitanen business transfer.
       - Ray Hansen is a different person from Raye Grisham.
-    confidence: High family confirmation; documentary sale date still pending.
+      - The 19 August 2026 clarification narrows the older transfer account; Dick and Sheila's normal overlap while operating The Wheel at 503 was ownership of the 505 real estate, not ordinary operation of the 505 tavern.
+      - Any Wiitanen 505 business control may have been temporary during repossession/default or a transfer interval.
+    confidence: High for Hansen identity and separate 505 association; exact ownership-transfer structure/date requires primary records and reconciliation with E-022 and E-030.
     related_sources:
       - S-006
       - S-028
@@ -100,8 +102,9 @@ evidence:
     name: Willie Bartender
     type: Family/oral history
     claims:
-      - Willie worked as bartender under Ray Hansen and later under Richard / Dick and Sheila.
-    confidence: High, pending full identification
+      - Willie worked as bartender under Ray Hansen and continued into a later 505 transition period associated in family memory with Richard / Dick and Sheila.
+      - Exact dates, legal employer, and whether that later period was a repossession/default interval remain open.
+    confidence: High for remembered continuity, pending full identification and operator chronology.
     related_sources:
       - S-006
     related_people:
@@ -116,7 +119,8 @@ evidence:
     name: Victor Restaurant Manager
     type: Family/oral history
     claims:
-      - Victor independently managed the restaurant during Raye Grisham's Wheel years at 503 Main and early Richard / Dick and Sheila years.
+      - Victor independently managed the restaurant during Raye Grisham's Wheel years at 503 Main and the early Wiitanen Wheel period at 503.
+      - This is 503 history and should not be used to infer operation of the 505 tavern.
     confidence: High, pending full identification
     related_sources:
       - S-006
@@ -127,7 +131,6 @@ evidence:
       - P-010
     related_buildings:
       - B-001
-      - B-002
     related_businesses:
       - BUS-004
 
@@ -231,7 +234,7 @@ evidence:
     claims:
       - Mitch Young's March 1991-March 2004 period belongs to 505 Tavern at 505 Main Street, not The Wheel.
       - BUS-009 The 505 remains as an earlier handling label.
-      - The Wheel is a 503 Main business associated with Raye Grisham.
+      - The Wheel was only at 503 Main.
     confidence: High for archive-handling rule; license/directory pages still desirable for the legal entity name.
     related_sources:
       - S-013
@@ -242,6 +245,7 @@ evidence:
       - BUS-004
       - BUS-009
     related_buildings:
+      - B-001
       - B-002
 
   - id: E-015
@@ -377,15 +381,22 @@ evidence:
       - B-003
 
   - id: E-022
-    name: August 2026 Family Identity and Address Corrections
+    name: August 2026 Family Identity, Address, and Business-Separation Corrections
     type: Direct user / family confirmation
     claims:
-      - Raye Grisham bought The Wheel at 503 Main.
-      - Ray Hansen is a different person and sold the 505 Tavern business to Dick and Sheila Wiitanen.
+      - Raye LaFarlette and Raye Grisham are the same woman; the surname change followed divorce/remarriage and is not evidence of a Wheel business transfer.
+      - Raye bought The Wheel at 503 Main.
+      - The Wheel was only at 503 Main and was never a 505 Main business.
+      - "The Wheel Tavern" was never an official name; that phrase survives only as wording in the 2017 secondary article E-001.
+      - Ray Hansen is a different person associated with the separate 505 Tavern history.
+      - The 503 Wheel business and 505 tavern business had separate ownership/operator chains.
+      - While Dick and Sheila ran The Wheel, they also owned the 505 building, but that real-estate ownership did not mean they ordinarily ran the 505 business.
+      - Any Dick/Sheila 505 business control may have been brief during repossession, non-payment/default, or a transfer interval.
+      - Working family interpretation is that the later Raye Grisham to Wiitanen transition at The Wheel was a sale of the 503 business; exact date, terms, and license documents remain pending.
       - Mitch / Mitchell (C.) Young ran 505 Tavern 1991-2004; do not claim he restored it.
       - Mitch Young and Mitchell C. Young are the same person.
       - After Richard Wiitanen's death, 505 real estate passed to Rodney Young and Mitchell Young jointly.
-    confidence: High as current family confirmation; deeds, licenses, and sale records still pending.
+    confidence: High as current family confirmation for identity, address, naming, and separation rules; moderate as to exact repossession chronology and Grisham-to-Wiitanen sale mechanics pending primary records.
     related_sources:
       - S-028
     related_people:
@@ -510,7 +521,8 @@ evidence:
     claims:
       - April 6 1988 Commission record identifies The Dug Inn formerly The Brass Rail at 505 Main.
       - Change of ownership from Dick or Sheila Wiitanen to the Cotterells.
-    confidence: Very High
+      - This proves a Wiitanen business-transfer role at that moment but does not by itself prove routine long-term Wiitanen operation of the 505 tavern.
+    confidence: Very High for the municipal record and transfer role; operator duration/character remains open.
     related_sources:
       - S-041
     related_people:
@@ -524,11 +536,15 @@ evidence:
       - B-002
 
   - id: E-031
-    name: Hansen-to-Wiitanen 505 Tavern Sale and Brass Rail Rename
-    type: Family/oral history
+    name: Earlier Hansen-to-Wiitanen / Brass Rail Family Account
+    type: Family/oral history, narrowed by later clarification
     claims:
-      - Ray Hansen sold the 505 Tavern business to Dick and Sheila Wiitanen, who renamed it Brass Rail Tavern.
-    confidence: High as family confirmation; documentary date pending.
+      - Earlier family history stated that Ray Hansen sold the 505 Tavern business to Dick and Sheila Wiitanen, who renamed it Brass Rail Tavern.
+      - The 19 August 2026 clarification in E-022 supersedes the simple long-term-operation implication; Dick and Sheila's normal overlap while they ran The Wheel was ownership of the 505 building.
+      - Any 505 business control may have been brief during repossession/default or a transfer interval.
+      - E-030 independently proves a Wiitanen-to-Cotterell change-of-ownership application in 1988.
+      - Exact Hansen/Brass Rail/Wiitanen sequence remains to be reconstructed from business-sale, license, and repossession records.
+    confidence: Moderate as a chronology account pending reconciliation; high that it preserves the earlier family recollection.
     related_sources:
       - S-028
     related_people:
@@ -599,7 +615,8 @@ evidence:
     type: Primary municipal permit log
     claims:
       - Permit BB-17-0193 lists Richard Martin Wiitanen co-trustee as owner of 505 Main and APN 2-2E-31AB-08300.
-    confidence: Very High for 2017 permit-era facts.
+      - This supports continuing real-estate interest, not tavern operation in 2017.
+    confidence: Very High for 2017 permit-era real-estate facts.
     related_sources:
       - S-043
     related_people:
@@ -672,7 +689,8 @@ evidence:
     type: Project synthesis / working history
     claims:
       - Consolidates newspaper, municipal, Sanborn, aerial, family, and archive evidence for 503 and 505 as of 16 August 2026.
-    confidence: High as a project synthesis; each claim still rests on its numbered source.
+      - It predates the 19 August business-separation clarification in E-022; where v5 implies a broader Wiitanen 505 operating role or treats "The Wheel Tavern" as a possible formal name, the later correction controls.
+    confidence: High as a dated project synthesis; each claim still rests on its numbered source and later corrections.
     related_sources:
       - S-048
     related_buildings:
@@ -747,9 +765,10 @@ evidence:
       - Oregonian 2 September 1967 reports a Friday-night fire on Main Street between 5th and 6th.
       - Harding Drug Store and Dixon's Bakery were among businesses gutted.
       - Wheel Restaurant and 505 Tavern were spared with smoke and water damage.
+      - The article separately names Wheel Restaurant and 505 Tavern, supporting that they were distinct establishments.
       - Reported origin was Howard Cohn furniture warehouse, not a bakery.
       - Earlier late-1968/1969 fire-date notes in E-016 are superseded for the date.
-    confidence: Very High for newspaper date, named businesses, and that Wheel Restaurant and 505 Tavern were spared
+    confidence: Very High for newspaper date, named businesses, and their distinct existence
     related_sources:
       - S-052
     related_businesses:
@@ -817,7 +836,8 @@ evidence:
     claims:
       - Oregonian 21 and 27 August 1985 identify Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St.
       - This is 503 business ownership, not 505 Tavern and not Mitch Young's later 505 period.
-    confidence: Very High for owner name, business name, address, and month
+      - Combined with E-022, it supports the working hypothesis that the Grisham-to-Wiitanen Wheel transition was a business sale, but it does not establish the transaction date or terms.
+    confidence: Very High for owner name, business name, address, and month; transfer mechanics remain open.
     related_sources:
       - S-056
       - S-057
