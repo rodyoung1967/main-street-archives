@@ -5,7 +5,7 @@
 | BUS-001 | [Kwality Cafe](kwality-cafe.md) | 503 Main | Early cafe/restaurant occupant; City synthesis reports 1926 Kwality Restaurant ads and 1947 directory. |
 | BUS-002 | [New Kwality Cafe](kwality-cafe.md) | 503 Main | J. Jager, proprietor. |
 | BUS-003 | [Larry's Kwality Cafe](kwality-cafe.md) | 503 Main | Telephone 6106; merchant lunches, steaks, chops. |
-| BUS-004 | [The Wheel](the-wheel.md) | **503 Main only** | Also documented as **Wheel Cafe** / **Wheel Restaurant**. Raye Grisham (formerly Raye LaFarlette; same person) bought The Wheel at 503. 1985: The Wheel Cafe, 503 Main St., owner Richard M. Wiitanen. **"The Wheel Tavern" was not an official name.** Never treat The Wheel as a 505 business. The former Mrs. Nemeth/Nesmeth property-purchase claim belongs to 505, not 503. |
+| BUS-004 | [The Wheel](the-wheel.md) | **503 Main only** | Raye Grisham (formerly Raye LaFarlette; same person) owned The Wheel business. **Dick and Sheila bought The Wheel business from Raye; later they bought the 503 building; later, when they sold The Wheel business, they also sold the 503 building.** Exact transaction dates, property seller, later buyer, deed, business-sale, and liquor-license records remain open. 1985: Richard M. Wiitanen documented as owner of The Wheel Cafe business at 503. **"The Wheel Tavern" was not an official name.** |
 | BUS-005 | [505 Tavern](the-505.md) | 505 Main | Separate from The Wheel. Documented in 1965/1972 liquor renewals and 1976. Family history places Ray Hansen earlier, followed by Dick/Sheila's Brass Rail period. Dick and Sheila operated Brass Rail **before owning the 505 building**, then later purchased the real estate from Mrs. Nesmeth/Nemeth. Mitch / Mitchell (C.) Young ran 505 Tavern Mar. 1991-Mar. 2004. |
 | BUS-006 | Thirsty Duck | 505 Main | Opened/reopened in 2017 after sale. Still the current operating business as of August 2026. Current lessee is Alan (`P-019`). |
 | BUS-007 | [Harding Drug Store](harding-drug-store.md) | 507 Main | Associated with George A. Harding. |
@@ -24,4 +24,4 @@
 | BUS-020 | L. Hylton cigar and tobacco | 503 Main | February 1914 Courier industrial edition. |
 | BUS-021 | Dr. Freeze, Eye Specialist | 505 / 505 1/2 Main | 1921-1922 newspaper ads; later Masonic Building. |
 | BUS-022 | Dr. Roy Briggs, dentist | 505 1/2 Main | 1941 directory per City inventory. |
-| BUS-023 | Dixon's Bakery | 5th–6th / Main block | Gutted in the 1 September 1967 fire (`E-045`). Exact street number pending. Likely the bakery in the Harding-block fire lead. |
+| BUS-023 | Dixon's Bakery | 5th–6th / Main block | Gutted in the 1 September 1967 fire (`E-045`). Exact street number pending. |
