@@ -12,9 +12,11 @@
 
 ## Known / Working History
 
-503 Main Street is associated with early commercial occupants (Henry Brightbill store 1908; H. H. Smith pool-hall application 1912; L. Hylton 1914), the Kwality Cafe lineage, and **The Wheel** / **Wheel Cafe**, which Raye Grisham bought at this address. Keep 503 and 505 as separate buildings: The Wheel is 503; 505 Tavern is 505.
+503 Main Street is associated with early commercial occupants (Henry Brightbill store 1908; H. H. Smith pool-hall application 1912; L. Hylton 1914), the Kwality Cafe lineage, and **The Wheel** / **Wheel Cafe**, which Raye Grisham bought at this address. Keep 503 and 505 as separate buildings and separate business chains: **The Wheel was only at 503; 505 Tavern was at 505.**
 
-Rodney Young's grandmother **Raye Grisham** (first marriage LaFarlette) is the 503 Wheel connection. Dick and Sheila Wiitanen purchased the **503 building** about 1975 from Mrs. Nemeth (spelling uncertain). That is real-estate history, separate from the 505 tavern-business sale.
+Rodney Young's grandmother **Raye Grisham** (first marriage LaFarlette) is the 503 Wheel connection. Raye LaFarlette and Raye Grisham are the **same person**, so the surname change is not itself a transfer of The Wheel. Working family interpretation is that the later Grisham-to-Wiitanen transition was a **sale of the Wheel business**, with exact date and transaction documents still pending.
+
+Dick and Sheila Wiitanen purchased the **503 building** about 1975 from Mrs. Nemeth (spelling uncertain). They also owned the **505 real estate** during at least part of their Wheel period, but that property overlap does not combine the two businesses or prove they ordinarily operated the 505 tavern.
 
 ## Construction Date
 
@@ -45,7 +47,7 @@ Related pages:
 
 ## The Wheel at 503 Main
 
-**The Wheel was at 503 Main**, not 505. Documented name forms include The Wheel, the Wheel Cafe, and the Wheel Restaurant.
+**The Wheel was only at 503 Main. It was never a 505 Main business.** Documented historical name forms include **The Wheel**, **Wheel Cafe**, and **Wheel Restaurant**.
 
 - Family confirmation (`E-022`): Raye Grisham bought The Wheel at 503 Main.
 - Oregonian 30 November 1960 (`E-044`): "the Wheel Cafe, 5th and Main Streets in Oregon City."
@@ -55,7 +57,9 @@ Related pages:
 - Oregonian 1985 (`E-048`, `E-049`): **The Wheel Cafe, 503 Main St.**; **Richard M. Wiitanen** named as owner in August 1985.
 - Photo metadata (`E-015`) places The Wheel at 503 with 505 Tavern to the right.
 
-The 2017 article's "The Wheel Tavern" wording (`E-001`) remains unverified as a legal name. Mitch Young's 1991-2004 period is **505 Tavern at 505 Main**, not The Wheel.
+The 2017 article uses **"The Wheel Tavern"** (`E-001`), but family correction says that was **never an official business name**. Preserve it only as the wording used by that secondary article; do not list it as a historical legal/trade-name variant.
+
+The Wheel and the 505 tavern business had separate owners. The meaningful overlap was that Dick and Sheila could own the **505 building** while operating The Wheel at 503. Any brief control of the 505 business during repossession/default or a transfer interval should be researched separately and should not be represented as ordinary joint operation.
 
 Related pages:
 
@@ -79,7 +83,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 | `BUS-001` | [Kwality Cafe](../businesses/kwality-cafe.md) | Early cafe/restaurant occupant; exact dates unresolved. |
 | `BUS-002` | [New Kwality Cafe](../businesses/kwality-cafe.md) | Documented by matchbook naming J. Jager as proprietor. |
 | `BUS-003` | [Larry's Kwality Cafe](../businesses/kwality-cafe.md) | Documented by matchcover listing 503 Main Street and telephone 6106. |
-| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | **At 503 Main.** Raye Grisham bought it; 1967 Commission minutes confirm the address. |
+| `BUS-004` | [The Wheel](../businesses/the-wheel.md) | **Only at 503 Main.** Raye Grisham bought it; 1967 Commission minutes confirm the address. |
 | `BUS-018` | White Rabbit / Black Ink | 2016-2017 renovation and later use. |
 | `BUS-019` | H. H. Smith pool hall | 1912 license application. |
 | `BUS-020` | L. Hylton cigar and tobacco | 1914 Courier profile. |
@@ -88,15 +92,15 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 
 | ID | Type | Claim / Use |
 | --- | --- | --- |
-| `E-001` | Secondary source | 1919 construction claim; Kwality Cafe origin claim; "The Wheel Tavern" wording. |
+| `E-001` | Secondary source | 1919 construction claim; Kwality Cafe origin claim; article uses "The Wheel Tavern," which is not accepted as an official historical name. |
 | `E-002` | Primary artifact | New Kwality Cafe at 503 Main St.; J. Jager as proprietor. |
 | `E-003` | Primary artifact | Larry's Kwality Cafe at 503 Main Street; telephone 6106. |
-| `E-004` | Primary participant testimony | Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004; exact relationship to 503 and exact name unresolved. |
+| `E-004` | Primary participant testimony | Mitch Young owned and operated the 505 Main Street business from March 1991 to March 2004. This is separate from 503 and not The Wheel. |
 | `E-009` | Family/project provenance | Young family context; grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens. |
 | `E-011` | Owner observation | 503/505 physical width/depth/boundary uncertainty. |
 | `E-012` | Administrative record lead | Tax statements and records may clarify construction, additions, boundaries, and ownership. |
 | `E-014` | Archive correction | Mitch's 1991-2004 period is 505 Tavern at 505, not The Wheel. |
-| `E-022` | Family correction | Raye Grisham bought The Wheel at 503; distinct from Ray Hansen. |
+| `E-022` | Family correction | Raye Grisham bought The Wheel at 503; 503/505 business chains are separate; Raye LaFarlette and Raye Grisham are the same person. |
 | `E-023` | Primary newspaper | H. H. Smith 1912 pool-hall application at 503. |
 | `E-024` | Primary newspaper | L. Hylton 1914 at 503. |
 | `E-025` | Primary municipal | The Wheel at 503 Main, 7 June 1967. |
@@ -113,11 +117,10 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 - Determine the relationship between Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and the "Quality Cafe" wording found in photo metadata.
 - Identify J. Jager's full name and role.
 - Identify Larry's full name and role.
-- Confirm whether The Wheel was formally tied to 503 Main, 505 Main, or both.
-- Confirm whether photo metadata placing The Wheel at 503 is supported by the image and original source.
+- Document the exact 503 Wheel ownership/operation sequence, including Raye's acquisition, the LaFarlette-to-Grisham surname continuity, and the later working Grisham-to-Wiitanen business sale.
 - Confirm the legal, structural, and physical boundary between 503 and 505.
 - Confirm what 501 Main represented on the 1925 Sanborn map and **who owned/occupied it before 1936–1944 removal**.
-- Add documentary proof for the Young, Lafarlette, Grisham, and Wiitanen family-name references.
+- Add documentary proof for the Young, Lafarlette, Grisham, and Wiitanen family-name references and business/property transfers.
 - Locate primary records: assessor cards, deeds, permits, tax records, city directories, telephone books, Sanborn maps, newspaper ads, business licenses, and OLCC records.
 
 ## Open Questions
@@ -126,8 +129,8 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 - Was the 1919 date original construction or another record event?
 - When did each Kwality-related business operate?
 - Is "The Quality Cafe" in photo metadata a typo, an alternate spelling, or a distinct source claim?
-- Was "The Wheel Tavern" ever an official business name?
-- What evidence supports The Wheel at 503 Main versus 505 Main or both?
+- What were the exact dates and terms of Raye Grisham's acquisition of The Wheel and the later Wiitanen business purchase?
+- What was the exact legal/trade-name sequence among The Wheel, Wheel Cafe, and Wheel Restaurant?
 - What physical or legal boundary separated 503 Main and 505 Main during The Wheel / 505 business periods?
 - Is 503 wider than 505, and what records confirm the actual dimensions?
 - What was 501 Main on the 1925 Sanborn map, and what caused its **1936–1944** removal?
