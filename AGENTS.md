@@ -65,12 +65,9 @@ If a new artifact or image is added:
 
 - Assign an `A-###` ID for physical artifacts when appropriate.
 - Assign or confirm an `IMG-####` media ID for image/media tracking.
-- Store the committed image file under the correct source-file folder, currently `artifacts/images/` for the New Kwality Cafe and Larry's Kwality Cafe artifact images.
-- Update `artifacts/images/README.md` if the folder contents change.
+- Store the committed image file under the correct source-file folder.
 - Update `media/photo-metadata-register.md`; this is the canonical media/image metadata register.
-- Update `media/catalog.md` only as a navigation shim if needed; do not treat it as the canonical media register.
 - Link the artifact/image to supporting evidence, source, building, business, person, and `indexes/id-crosswalk.md` when applicable.
-- Preserve original filenames, uploaded filenames, source URLs, owner/collector notes, and visible captions or marks when known.
 
 ## Adding Newspaper Sources
 
@@ -97,10 +94,8 @@ If a deed, tax record, assessor record, permit, lease, or similar document is ad
 If a Sanborn or other map source is added:
 
 - Assign or confirm a stable `SM-###` map ID when it belongs in the Sanborn series.
-- Add the binary source file under the appropriate map source folder, currently `maps/sanborn/originals/` for original Sanborn PDFs.
-- Update `maps/sanborn-map-register.md`.
-- Update `evidence/source-register.md` and any evidence records that depend on the map.
-- Use the Sanborn key before making claims about materials, openings, fireproofing, utilities, or map symbols.
+- Add the binary source file under the appropriate map source folder.
+- Update `maps/sanborn-map-register.md` and related evidence.
 
 ## Updating Evidence
 
@@ -116,21 +111,19 @@ If evidence changes:
 
 ## Current Accuracy Reminders
 
-- Mitch / Mitchell (C.) Young's confirmed March 1991-March 2004 period belongs to **505 Tavern at 505 Main Street**. He **ran** the business. Do **not** say he restored the name, fixtures, or building. Keep `BUS-009` The 505 as an earlier handling label. Do not label this period The Wheel.
-- **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`). Do not treat them as two people. Do not renumber or merge the IDs.
-- **The Wheel (`BUS-004`) was only at 503 Main and was never a 505 Main business.** Never link `BUS-004` to `B-002` as a business/building relationship.
-- **"The Wheel Tavern" was never an official business name.** The phrase may be preserved only as wording from the 2017 secondary article (`E-001`); do not present it as a legal name, trade name, or historical name variant.
-- **Raye LaFarlette and Raye Grisham (`P-006`) are the same woman.** The surname change followed divorce/remarriage and is not evidence of a Wheel business transfer. Raye bought The Wheel at 503.
-- **Ray Hansen (`P-005`) and Raye Grisham (`P-006`) are different people.** Hansen belongs to the separate 505 Tavern history. Do not merge Hansen with Grisham.
-- **The 503 Wheel business and the 505 tavern business had separate ownership/operator chains.** Do not infer common business ownership or operation merely because the same family appears in both histories.
-- At **505 Main**, the controlling family chronology is: **Dick and Sheila first operated Brass Rail while they did not own the building; they later purchased the 505 building from Mrs. Nesmeth / Nemeth (spelling uncertain).** Preserve business ownership/operation and real-estate ownership as two separate phases.
-- The earlier archive claim that Dick and Sheila purchased the **503 building** from Mrs. Nemeth/Nesmeth is **superseded**. `E-038` belongs to **505 Main / B-002**, not 503 Main / B-001. Do not reintroduce that claim into the 503 history.
-- After the Wiitanens bought **505 Main**, their real-estate ownership continued while later tavern businesses changed operators. A later Wiitanen appearance in a 505 business-transfer record may reflect sale, repossession, non-payment/default, or transfer rather than continuous day-to-day operation.
-- The 6 April 1988 Wiitanen-to-Cotterell record (`E-030`) proves a 505 business-transfer role at that moment. Place it within the later sale/repo/transfer cycle; it does not define the beginning of Dick and Sheila's Brass Rail involvement.
-- Family history places **Ray Hansen before Dick/Sheila's Brass Rail period**. The exact Hansen-to-Wiitanen business-sale date and Brass Rail rename date remain open pending primary records.
-- Working family interpretation: the later **Raye Grisham → Wiitanen transition at The Wheel was a sale of the 503 business**. This does not itself establish Wiitanen ownership of the 503 real estate. Keep the exact date, parties, terms, and liquor-license transfer open pending primary records.
+- **The Wheel (`BUS-004`) was only at 503 Main and was never a 505 Main business.** Never link it to 505 as a business location.
+- **"The Wheel Tavern" was never an official business name.** Preserve that phrase only as wording from the 2017 secondary article.
+- **Raye LaFarlette and Raye Grisham are the same woman.** The surname change is not a Wheel ownership transfer.
+- **503 Wheel controlling family chronology:** Raye owned The Wheel business; **Dick and Sheila purchased The Wheel business from Raye; later Dick and Sheila purchased the 503 building; when they later sold The Wheel business, they also sold the 503 building.** Treat these as three distinct transactions: business purchase, later real-estate purchase, and later combined business/building sale. Exact dates, property seller, later buyer, deeds, business-sale agreements, and liquor-license transfers remain documentary research targets.
+- Richard M. Wiitanen is independently documented as owner of The Wheel Cafe business at 503 Main in August 1985 (`E-049`).
+- Do **not** attach Mrs. Nesmeth/Nemeth to the 503 property purchase. That family recollection belongs to **505 Main**.
+- **505 controlling family chronology:** Dick and Sheila first operated Brass Rail while they did not own the 505 building; they later purchased the 505 building from Mrs. Nesmeth / Nemeth (spelling uncertain).
+- After buying 505, the Wiitanens remained real-estate owners/landlords while later tavern businesses changed operators. Later Wiitanen appearances in 505 transfer records may reflect sale, repossession, default, or transfer intervals.
+- The 6 April 1988 Wiitanen-to-Cotterell record (`E-030`) proves a 505 business-transfer role at that moment.
+- Ray Hansen and Raye Grisham are different people. Hansen belongs to the separate 505 Tavern history.
+- Mitch / Mitchell (C.) Young's March 1991-March 2004 period belongs to **505 Tavern at 505 Main**. He ran the business; do not say he restored the name, fixtures, or building.
+- Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person (`P-011` / `P-018`).
+- Sheila Wiitanen died in 2014. Wiitanen ownership of 505 Main continued through Richard / Dick Wiitanen's death in November 2024.
+- After Dick's death, 505 Main passed to Rodney Young and Mitchell Young through his estate; current ownership/stewardship is through 505 LLC. Probate/deed documentation remains desirable.
 - Property ownership, business ownership, business operation, and liquor-license ownership are separate questions.
-- Sheila Wiitanen died in 2014. Wiitanen ownership of **505 Main** continued through Richard / Dick Wiitanen's death in **November 2024**.
-- After Richard / Dick Wiitanen's death, the **505 Main real estate passed to Rodney Young and Mitchell Young as part of his estate**; current ownership/stewardship is through 505 LLC. Deed/probate documentation is still desirable.
-- The Wheel, The 505, 505 Tavern, Brass Rail Tavern, The Dug Inn, and Thirsty Duck remain related but distinct business-name records until primary records prove continuity. The Wheel is the exception geographically: it belongs only to 503.
 - Sanborn maps are primary map sources for footprint, materials, street layout, and address numbering, but map readings still require careful transcription and symbol interpretation.
