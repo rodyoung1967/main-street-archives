@@ -140,9 +140,9 @@ Related evidence: `E-025`
 Notes: Liquor application for the Wheel at 503 Main Street, p. 453, City record 4723655. Historical Society v5 note S-06.
 
 ## S-028 — Rodney Young family-history testimony, August 2026
-URL: Internal / project oral history, including 16 August 2026 corrections  
+URL: Internal / project oral history, including **16 and 19 August 2026 corrections**  
 Related evidence: `E-022`, `E-031`, `E-038`, `E-041`  
-Notes: Raye bought The Wheel at 503; Ray Hansen sold 505 Tavern to Dick and Sheila; ~1975 503 purchase from Mrs. Nemeth; joint Rodney/Mitchell ownership after Richard's death; Sports Keg/Rosser leads. Historical Society v5 notes S-07, S-21, S-28.
+Notes: Raye LaFarlette / Raye Grisham is the same woman and bought The Wheel at **503 Main only**; the surname change is not a business transfer. **"The Wheel Tavern" was never an official name.** The 503 Wheel business and 505 tavern business had separate ownership/operator chains. While Dick and Sheila ran The Wheel, they also owned the **505 building**, but did not ordinarily run the 505 business; any 505 business control may have been brief during repossession, non-payment/default, or transfer. Working family interpretation is that the later **Grisham-to-Wiitanen transition at The Wheel was a sale of the 503 business**; primary transaction/license records remain pending. Earlier Hansen-to-Wiitanen / Brass Rail wording is preserved in `E-031` but narrowed by this clarification. Also records ~1975 503 building purchase from Mrs. Nemeth, joint Rodney/Mitchell ownership after Richard's death, and Sports Keg/Rosser leads. Historical Society v5 notes S-07, S-21, S-28 predate the 19 August clarification.
 
 ## S-029 — Portland Mercury, 22 July 2010, Wheel Lounge
 URL: https://www.portlandmercury.com/Feature/2010/07/22/2700077/the-best-of-oregon-city  
@@ -196,7 +196,7 @@ Notes: Brass Rail Tavern at 108 E. Columbia, Troutdale. Not evidence for 505 Mai
 ## S-041 — Oregon City Commission, 6 April 1988, Manager's Report 88-49
 URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4779030/File/document  
 Related evidence: `E-030`  
-Notes: Dug Inn formerly Brass Rail; Wiitanen-to-Cotterell transfer, pp. 71-72, City record 4779030. Historical Society v5 note S-20.
+Notes: Dug Inn formerly Brass Rail; Wiitanen-to-Cotterell transfer, pp. 71-72, City record 4779030. Historical Society v5 note S-20. This proves a 505 business-transfer role at that moment, not routine long-term Wiitanen operation.
 
 ## S-042 — Oregon City Commission minutes, 5 September 2012
 URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4238300/File/document  
@@ -206,7 +206,7 @@ Notes: Berman stated he bought 505 Tavern in 2009, pp. 3-4, City record 4238300.
 ## S-043 — Oregon City Permit Log, BB-17-0193, 18 April 2017
 URL: https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF  
 Related evidence: `E-035`  
-Notes: 505 Main; owner Richard Martin Wiitanen co-trustee; APN 2-2E-31AB-08300. Historical Society v5 note S-25.
+Notes: 505 Main; owner Richard Martin Wiitanen co-trustee; APN 2-2E-31AB-08300. This is real-estate ownership evidence, not proof of tavern operation. Historical Society v5 note S-25.
 
 ## S-045 — Pleasant Hill School District alumni page, 3 February 2005, Ken Bagent
 URL: https://www.pleasanthill.k12.or.us/resources/community/alumni/classes  
@@ -227,7 +227,7 @@ Notes: Secondary aggregator; Heath Bark-Ley LLC from Dec. 2003; 505 Tavern regis
 Repository file: `records/historical-society/503-505-main-historical-society-edition-v5.docx`  
 Original filename: `503_505_Main_Street_Historical_Society_Edition_v5.docx`  
 Related evidence: `E-040`  
-Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations.
+Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations. **It predates the 19 August 2026 business-separation correction; `E-022` and current archive files control where v5 conflicts.**
 
 ## S-049 — Oregonian, 25 August 1908, "Pretty Girl Is Missing"
 Repository file: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`  
