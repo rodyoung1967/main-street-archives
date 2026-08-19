@@ -81,11 +81,11 @@ evidence:
     name: Ray Hansen / 505 Tavern Earlier Ownership Account
     type: Family/oral history
     claims:
-      - Earlier family history identified Ray Hansen as an owner of the 505 Tavern business and described a later Hansen-to-Wiitanen business transfer.
+      - Family history identifies Ray Hansen as an owner/operator in the earlier 505 Tavern business chain.
+      - Family history places a later transition to Dick and Sheila Wiitanen, who operated the business as Brass Rail.
       - Ray Hansen is a different person from Raye Grisham.
-      - The 19 August 2026 clarification narrows the older transfer account; Dick and Sheila's normal overlap while operating The Wheel at 503 was ownership of the 505 real estate, not ordinary operation of the 505 tavern.
-      - Any Wiitanen 505 business control may have been temporary during repossession/default or a transfer interval.
-    confidence: High for Hansen identity and separate 505 association; exact ownership-transfer structure/date requires primary records and reconciliation with E-022 and E-030.
+      - Exact Hansen-to-Wiitanen sale date, legal entity, and Brass Rail rename date remain pending primary records.
+    confidence: High for Hansen identity, separate 505 association, and family-reported sequence; exact transaction mechanics/date require primary records.
     related_sources:
       - S-006
       - S-028
@@ -95,6 +95,7 @@ evidence:
       - P-008
     related_businesses:
       - BUS-005
+      - BUS-010
     related_buildings:
       - B-002
 
@@ -103,7 +104,7 @@ evidence:
     type: Family/oral history
     claims:
       - Willie worked as bartender under Ray Hansen and continued into a later 505 transition period associated in family memory with Richard / Dick and Sheila.
-      - Exact dates, legal employer, and whether that later period was a repossession/default interval remain open.
+      - Exact dates and legal employer remain open.
     confidence: High for remembered continuity, pending full identification and operator chronology.
     related_sources:
       - S-006
@@ -157,7 +158,7 @@ evidence:
     name: Young / LaFarlette / Grisham / Wiitanen Family Context
     type: Family/oral history / project provenance
     claims:
-      - After Richard Wiitanen's death, 505 Main passed to Rodney Young and Mitchell Young, who own it together through 505 LLC.
+      - After Richard Wiitanen's death in November 2024, 505 Main passed to Rodney Young and Mitchell Young as part of his estate; current ownership/stewardship is through 505 LLC.
       - Rodney's grandmother is Raye Grisham; first marriage LaFarlette.
       - Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
     confidence: High as trusted internal family/project provenance; deed/probate still desirable.
@@ -381,7 +382,7 @@ evidence:
       - B-003
 
   - id: E-022
-    name: August 2026 Family Identity, Address, and Business-Separation Corrections
+    name: August 2026 Family Identity, Address, Business-Separation, and 505 Property Corrections
     type: Direct user / family confirmation
     claims:
       - Raye LaFarlette and Raye Grisham are the same woman; the surname change followed divorce/remarriage and is not evidence of a Wheel business transfer.
@@ -390,13 +391,16 @@ evidence:
       - '"The Wheel Tavern" was never an official name; that phrase survives only as wording in the 2017 secondary article E-001.'
       - Ray Hansen is a different person associated with the separate 505 Tavern history.
       - The 503 Wheel business and 505 tavern business had separate ownership/operator chains.
-      - While Dick and Sheila ran The Wheel, they also owned the 505 building, but that real-estate ownership did not mean they ordinarily ran the 505 business.
-      - Any Dick/Sheila 505 business control may have been brief during repossession, non-payment/default, or a transfer interval.
-      - Working family interpretation is that the later Raye Grisham to Wiitanen transition at The Wheel was a sale of the 503 business; exact date, terms, and license documents remain pending.
+      - Dick and Sheila Wiitanen ran Brass Rail at 505 Main for a period before they owned the building.
+      - Dick and Sheila later purchased the 505 Main real estate from a woman remembered as Mrs. Nesmeth / Nemeth; exact spelling is uncertain.
+      - The earlier archive statement placing the Mrs. Nemeth purchase at 503 Main is superseded.
+      - After the 505 purchase, Wiitanen property ownership continued through Richard / Dick Wiitanen's death in November 2024; Sheila died in 2014.
+      - The 505 building then passed to Rodney Young and Mitchell Young as part of Dick's estate.
+      - After Dick and Sheila became 505 landlords, later Wiitanen business-transfer appearances may represent sale, repossession, non-payment/default, or transfer intervals rather than continuous tavern operation.
+      - Working family interpretation is that the later Raye Grisham to Wiitanen transition at The Wheel was a sale of the 503 business, not proof of 503 real-estate ownership.
       - Mitch / Mitchell (C.) Young ran 505 Tavern 1991-2004; do not claim he restored it.
       - Mitch Young and Mitchell C. Young are the same person.
-      - After Richard Wiitanen's death, 505 real estate passed to Rodney Young and Mitchell Young jointly.
-    confidence: High as current family confirmation for identity, address, naming, and separation rules; moderate as to exact repossession chronology and Grisham-to-Wiitanen sale mechanics pending primary records.
+    confidence: High as current family confirmation for identity, address, naming, Brass Rail/business-property sequence, and estate succession; documentary deeds/licenses/probate still desirable for exact dates and legal mechanics.
     related_sources:
       - S-028
     related_people:
@@ -407,9 +411,11 @@ evidence:
       - P-011
       - P-014
       - P-018
+      - P-026
     related_businesses:
       - BUS-004
       - BUS-005
+      - BUS-010
     related_buildings:
       - B-001
       - B-002
@@ -521,8 +527,8 @@ evidence:
     claims:
       - April 6 1988 Commission record identifies The Dug Inn formerly The Brass Rail at 505 Main.
       - Change of ownership from Dick or Sheila Wiitanen to the Cotterells.
-      - This proves a Wiitanen business-transfer role at that moment but does not by itself prove routine long-term Wiitanen operation of the 505 tavern.
-    confidence: Very High for the municipal record and transfer role; operator duration/character remains open.
+      - Family history establishes an earlier Dick/Sheila Brass Rail operating period before their later purchase of the 505 building; the 1988 transfer belongs to the later sale/repo/transfer cycle rather than defining the start of their 505 involvement.
+    confidence: Very High for the municipal record and transfer role; exact path into the 1988 transfer remains open.
     related_sources:
       - S-041
     related_people:
@@ -536,21 +542,23 @@ evidence:
       - B-002
 
   - id: E-031
-    name: Earlier Hansen-to-Wiitanen / Brass Rail Family Account
-    type: Family/oral history, narrowed by later clarification
+    name: Hansen-to-Wiitanen / Brass Rail Family Account
+    type: Family/oral history, refined by later clarification
     claims:
-      - Earlier family history stated that Ray Hansen sold the 505 Tavern business to Dick and Sheila Wiitanen, who renamed it Brass Rail Tavern.
-      - The 19 August 2026 clarification in E-022 supersedes the simple long-term-operation implication; Dick and Sheila's normal overlap while they ran The Wheel was ownership of the 505 building.
-      - Any 505 business control may have been brief during repossession/default or a transfer interval.
+      - Family history places Ray Hansen before Dick and Sheila Wiitanen in the 505 Tavern business chain.
+      - Dick and Sheila later operated the business as Brass Rail Tavern.
+      - Dick and Sheila ran Brass Rail before they owned the 505 building, then later purchased that building from Mrs. Nesmeth / Nemeth.
+      - After becoming landlords, the tavern business later passed through other owners/operators; later Wiitanen business-control periods may have involved repossession/default/transfer.
       - E-030 independently proves a Wiitanen-to-Cotterell change-of-ownership application in 1988.
-      - Exact Hansen/Brass Rail/Wiitanen sequence remains to be reconstructed from business-sale, license, and repossession records.
-    confidence: Moderate as a chronology account pending reconciliation; high that it preserves the earlier family recollection.
+      - Exact sale/rename/property-purchase dates remain to be reconstructed from business-sale, license, deed, and repossession records.
+    confidence: High as family chronology framework; exact dates and legal mechanics pending primary records.
     related_sources:
       - S-028
     related_people:
       - P-005
       - P-007
       - P-008
+      - P-026
     related_businesses:
       - BUS-005
       - BUS-010
@@ -615,7 +623,7 @@ evidence:
     type: Primary municipal permit log
     claims:
       - Permit BB-17-0193 lists Richard Martin Wiitanen co-trustee as owner of 505 Main and APN 2-2E-31AB-08300.
-      - This supports continuing real-estate interest, not tavern operation in 2017.
+      - This supports continuing real-estate ownership after the earlier Wiitanen purchase of 505 from Mrs. Nesmeth / Nemeth; it is not evidence of tavern operation in 2017.
     confidence: Very High for 2017 permit-era real-estate facts.
     related_sources:
       - S-043
@@ -659,19 +667,26 @@ evidence:
       - B-002
 
   - id: E-038
-    name: Circa 1975 Wiitanen Purchase of 503 Building
-    type: Family/oral history
+    name: Corrected Wiitanen Purchase of 505 Building from Mrs. Nesmeth / Nemeth
+    type: Family/oral history / project correction
     claims:
-      - Dick and Sheila Wiitanen purchased the 503 Main Street building about 1975 from Mrs. Nemeth.
-    confidence: Family-confirmed; deed/date/seller spelling pending.
+      - The earlier archive claim that Dick and Sheila Wiitanen purchased the 503 Main building from Mrs. Nemeth is superseded.
+      - Dick and Sheila first ran Brass Rail at 505 Main while they did not own the building.
+      - They later purchased the 505 Main building from a woman remembered as Mrs. Nesmeth / Nemeth; exact spelling is uncertain.
+      - After that purchase, Wiitanen ownership of the 505 real estate continued through Richard / Dick Wiitanen's death in November 2024; Sheila died in 2014.
+      - The building then passed to Rodney Young and Mitchell Young as part of Dick's estate.
+      - Exact property-purchase date, deed, seller spelling, and probate/estate transfer documents remain pending.
+    confidence: High as direct family correction for address, sequence, and estate succession; exact legal dates/spelling require primary records.
     related_sources:
       - S-028
     related_people:
       - P-007
       - P-008
+      - P-014
+      - P-018
       - P-026
     related_buildings:
-      - B-001
+      - B-002
 
   - id: E-039
     name: 1955 Beer-and-Pool Tavern Classified, 505 Main
@@ -689,7 +704,7 @@ evidence:
     type: Project synthesis / working history
     claims:
       - Consolidates newspaper, municipal, Sanborn, aerial, family, and archive evidence for 503 and 505 as of 16 August 2026.
-      - It predates the 19 August business-separation clarification in E-022; where v5 implies a broader Wiitanen 505 operating role or treats "The Wheel Tavern" as a possible formal name, the later correction controls.
+      - It predates the later 19 August corrections in E-022 and E-038; where v5 places the Mrs. Nemeth purchase at 503, implies a different Wiitanen 505 business/property sequence, or treats "The Wheel Tavern" as a possible formal name, the later corrections control.
     confidence: High as a dated project synthesis; each claim still rests on its numbered source and later corrections.
     related_sources:
       - S-048
@@ -835,7 +850,7 @@ evidence:
     type: Primary newspaper
     claims:
       - Oregonian 21 and 27 August 1985 identify Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St.
-      - This is 503 business ownership, not 505 Tavern and not Mitch Young's later 505 period.
+      - This is 503 business ownership, not proof of 503 real-estate ownership, not 505 Tavern, and not Mitch Young's later 505 period.
       - Combined with E-022, it supports the working hypothesis that the Grisham-to-Wiitanen Wheel transition was a business sale, but it does not establish the transaction date or terms.
     confidence: Very High for owner name, business name, address, and month; transfer mechanics remain open.
     related_sources:
