@@ -2,7 +2,7 @@
 
 This register tracks business-name and operation chronology. **503 Main** and **505 Main** are listed separately. 507 Main is a short third table because the 1967 fire also documents that address.
 
-**The Wheel was only at 503. 505 Tavern was at 505. The two businesses had separate ownership/operator chains.** Dick and Sheila's ownership of the 505 real estate while they operated The Wheel does not merge those business histories.
+**The Wheel was only at 503. 505 Tavern was at 505. The two businesses had separate ownership/operator chains.** Dick and Sheila later owned the 505 real estate, but their original Brass Rail operating period began **before** they owned the building.
 
 ## 503 Main Street (`B-001`)
 
@@ -35,14 +35,19 @@ This register tracks business-name and operation chronology. **503 Main** and **
 | 1953 | "Well's Recreation" | `BUS-015` | `E-032` | Official secondary | Spelling to verify. |
 | Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High | |
 | Nov. 1965 / Mar. 1972 | 505 Tavern | `BUS-005` | `E-029` | Very High | Liquor renewals. Separate from The Wheel at 503. |
-| 1 Sep. 1967 | 505 Tavern | `BUS-005` | `E-045` | Very High | Spared in the block fire; smoke and water damage. The same article separately names Wheel Restaurant, reinforcing that they were distinct establishments. |
+| 1 Sep. 1967 | 505 Tavern | `BUS-005` | `E-045` | Very High | Spared in the block fire; smoke and water damage. The same article separately names Wheel Restaurant. |
 | Feb. 1976 | 505 Tavern | `BUS-005` | `E-046` | Very High | Classified; phone 655-4321. Still using 505 Tavern name. |
-| After Feb. 1976; exact start open | Brass Rail Tavern | `BUS-010` | `E-030`, `E-031` | Very High for former-name status by 1988; ownership sequence mixed | April 1988 municipal record says The Dug Inn was formerly Brass Rail. Earlier family history tied Brass Rail to a Hansen/Wiitanen transition; newer clarification says any Wiitanen 505 **business** control may have been temporary during repossession/default or transfer, not ordinary operation while they ran The Wheel at 503. |
-| By Apr. 1988 | The Dug Inn (formerly Brass Rail) | `BUS-016` | `E-030` | Very High | Change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. This proves a transfer role, not routine long-term Wiitanen operation of 505. |
-| Late 1980s / early 1990s | Sports Keg | `BUS-017` | `E-041` | Family lead | Fits a period of changing operators/repossessions; documentary dates pending. |
+| After Hansen period; exact start open | **Brass Rail — Dick & Sheila operating before building purchase** | `BUS-010` | `E-022`, `E-031`, `E-038` | High family | Dick and Sheila ran Brass Rail at 505 while another person still owned the real estate. Exact Hansen→Wiitanen business-sale/rename dates pending. |
+| Later; exact date open | **Wiitanen purchase of 505 building** | — | `E-038` | High family | Dick and Sheila bought the 505 real estate from Mrs. Nesmeth / Nemeth after their Brass Rail operation had already begun. This corrects the former 503-building claim. |
+| By Apr. 1988 | The Dug Inn (formerly Brass Rail) | `BUS-016` | `E-030` | Very High | Change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. Because the Wiitanens also owned the building by the later period, this may reflect sale/repo/transfer rather than continuous operation. |
+| Late 1980s / early 1990s | Sports Keg | `BUS-017` | `E-041` | Family lead | Period of changing operators/repossessions; documentary dates pending. |
 | Mar. 1991-Mar. 2004 | 505 Tavern | `BUS-005` | `E-004`, `E-022` | Very High dates; high trade name | Mitch / Mitchell (C.) Young ran the business; restoration of name/building unknown. Not The Wheel. |
 | 2009 | 505 Tavern | `BUS-005` | `E-034` | High | Berman purchase statement. |
 | 2017–present | Thirsty Duck | `BUS-006` | `E-008` | Strong for 2017 opening; current occupancy confirmed | Still the operating business at 505 Main as of August 2026. Current lessee is Alan (`P-019`); 2025 lease spelling is Alin Guria. |
+
+### 505 property continuity note
+
+After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **Wiitanen property ownership continued through Richard / Dick Wiitanen's death in November 2024**. The building then passed to **Rodney Young and Mitchell Young as part of Dick's estate**. This property continuity is separate from the changing tavern-business operator sequence above.
 
 ## 507 Main Street (`B-003`)
 
