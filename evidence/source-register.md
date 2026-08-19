@@ -247,12 +247,11 @@ Original filename: `Wheel Cafe 1960 Oregonian.png`
 Status: `needs-transcription`  
 Notes: Publication and year are taken from the uploaded filename. Read the clipping before using it to establish the Wheel name, address, operator, or chronology.
 
-## S-052 — Newspaper clipping, September 1967, Wheel / 505 fire
-Repository file: `newspapers/other/1967-09-wheel-505-fire-publication-unconfirmed.png`  
+## S-052 — Oregonian clipping, September 1967, Wheel / 505 fire
+Repository file: `newspapers/oregonian/1967-09-wheel-505-fire-oregonian.png`  
 Original filename: `Wheel & 505 Fire September 1967.png`  
 Status: `needs-transcription`  
-Publication: Unconfirmed; steward confirmation requested.  
-Notes: The filename indicates a September 1967 Wheel/505 fire topic, but the clipping itself must be read before any claim is created.
+Notes: Publication confirmed by Rodney Young on 18 August 2026. The clipping itself must be read before any historical claim is created from it.
 
 ## S-053 — Oregonian clipping, 1976, 505 Main classified
 Repository file: `newspapers/oregonian/1976-505-main-classified-oregonian.png`  
@@ -284,9 +283,8 @@ Original filename: `Wheel 1985 Oregonian.png`
 Status: `needs-transcription`  
 Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed.
 
-## S-058 — Newspaper clipping, August 1985, The Wheel
-Repository file: `newspapers/other/1985-08-the-wheel-publication-unconfirmed.png`  
+## S-058 — Oregonian clipping, August 1985, The Wheel (second clipping)
+Repository file: `newspapers/oregonian/1985-08-the-wheel-oregonian-2.png`  
 Original filename: `The Wheel August 1985.png`  
 Status: `needs-transcription`  
-Publication: Unconfirmed; steward confirmation requested.  
-Notes: The filename indicates an August 1985 Wheel topic, but the clipping itself must be read before any claim is created.
+Notes: Publication confirmed by Rodney Young on 18 August 2026. The clipping itself must be read before any historical claim is created from it.
