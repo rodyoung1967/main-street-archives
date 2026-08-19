@@ -2,9 +2,11 @@ businesses:
   - id: BUS-001
     name: Kwality Cafe
     address: 503 Main
-    notes: Early cafe/restaurant occupant.
+    notes: Early cafe/restaurant occupant. Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City; street number not in the ad.
     related_buildings:
       - B-001
+    related_evidence:
+      - E-043
 
   - id: BUS-002
     name: New Kwality Cafe
@@ -43,22 +45,28 @@ businesses:
   - id: BUS-004
     name: The Wheel
     address: 503 Main
-    notes: Raye Grisham bought The Wheel at 503 Main. June 7 1967 Commission minutes place the Wheel at 503 Main Street. Do not use as Mitch Young's 505 period name.
+    notes: Raye Grisham bought The Wheel at 503 Main. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. June 7 1967 Commission minutes place the Wheel at 503 Main Street. Do not use as Mitch Young's 505 period name.
     related_buildings:
       - B-001
     related_people:
       - P-006
+      - P-007
       - P-010
       - P-022
     related_evidence:
       - E-015
       - E-022
       - E-025
+      - E-044
+      - E-045
+      - E-047
+      - E-048
+      - E-049
 
   - id: BUS-005
     name: 505 Tavern
     address: 505 Main
-    notes: Working trade name for Mitch / Mitchell (C.) Young March 1991-March 2004; he ran the business. Do not claim he restored the name or building. Also documented 1965 and 1972 liquor renewals. Ray Hansen sold this business to Dick and Sheila, who renamed it Brass Rail.
+    notes: Working trade name for Mitch / Mitchell (C.) Young March 1991-March 2004; he ran the business. Do not claim he restored the name or building. Also documented 1965 and 1972 liquor renewals and a 1976 classified. Spared in the 1 September 1967 fire. Ray Hansen sold this business to Dick and Sheila, who renamed it Brass Rail.
     related_buildings:
       - B-002
     related_people:
@@ -76,11 +84,13 @@ businesses:
       - E-022
       - E-029
       - E-031
+      - E-045
+      - E-046
 
   - id: BUS-006
     name: Thirsty Duck
     address: 505 Main
-    notes: Opened/reopened in 2017 after sale.
+    notes: Opened/reopened in 2017 after sale. Still the current operating business at 505 Main as of August 2026. Current lessee is Alan (P-019); 2025 lease spelling is Alin Guria.
     related_buildings:
       - B-002
     related_people:
@@ -91,11 +101,13 @@ businesses:
   - id: BUS-007
     name: Harding Drug Store
     address: 507 Main
-    notes: Associated with George A. Harding and Harding Building.
+    notes: Associated with George A. Harding and Harding Building. Gutted in the 1 September 1967 fire (E-045).
     related_buildings:
       - B-003
     related_people:
       - P-001
+    related_evidence:
+      - E-045
 
   - id: BUS-008
     name: Tony's Restaurant
@@ -256,3 +268,12 @@ businesses:
       - P-030
     related_evidence:
       - E-032
+
+  - id: BUS-023
+    name: Dixon's Bakery
+    address: Main Street between 5th and 6th (exact number pending)
+    notes: Named among businesses gutted in the 1 September 1967 Main Street fire. Likely the bakery in the Harding-block fire lead. Not proven as the fire origin; Oregonian reports origin at Howard Cohn furniture warehouse.
+    related_buildings:
+      - B-003
+    related_evidence:
+      - E-045

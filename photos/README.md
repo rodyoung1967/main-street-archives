@@ -10,6 +10,8 @@ This folder holds photographs and image scans related to 503, 505, and 507 Main 
 - `streetscapes/`
 - `aerials/`
 
+Newspaper clippings belong in `../media/newspapers/`, not in these photo folders.
+
 ## Rules
 
 - Keep original files when possible.

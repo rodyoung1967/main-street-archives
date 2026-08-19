@@ -228,3 +228,57 @@ Repository file: `records/historical-society/503-505-main-historical-society-edi
 Original filename: `503_505_Main_Street_Historical_Society_Edition_v5.docx`  
 Related evidence: `E-040`  
 Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations.
+
+## S-049 — Oregonian, 25 August 1908, "Pretty Girl Is Missing"
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-042`  
+Related media: `IMG-0044`  
+Notes: Page 9 of 17 in the viewer. Places Henry Brightbill's store at 503 Main Street, Oregon City.
+
+## S-050 — Oregonian, 12 June 1937, Kwality Cafe classified
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-043`  
+Related media: `IMG-0045`  
+Notes: Page 15 of 24 in the viewer.
+
+## S-051 — Oregonian, 30 November 1960, Wheel Cafe crime report
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-044`  
+Related media: `IMG-0046`  
+Notes: Page 13 of 44 in the viewer. Wheel Cafe at 5th and Main.
+
+## S-052 — Oregonian, 2 September 1967, Jack Berry, "In Oregon City Fire"
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-045`  
+Related media: `IMG-0047`  
+Notes: Page 1. Friday-night fire; Wheel Restaurant and 505 Tavern spared.
+
+## S-053 — Oregonian, 8 February 1976, 505 Tavern classified
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-046`  
+Related media: `IMG-0048`  
+Notes: Pool-table ad naming 505 Tavern, Oregon City, 655-4321.
+
+## S-054 — Oregonian, 18 April 1983, John Guernsey, Cruzan / Wheel Cafe feature
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-047`  
+Related media: `IMG-0049`, `IMG-0050`  
+Notes: Two captures of the same article.
+
+## S-055 — Oregonian, 25 April 1985, Clackamas lottery-ticket outlets
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-048`  
+Related media: `IMG-0051`  
+Notes: Lists The Wheel Cafe, 503 Main St.
+
+## S-056 — Oregonian, 21 August 1985, "Losses turn to profit"
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-049`  
+Related media: `IMG-0052`  
+Notes: Richard M. Wiitanen, The Wheel Cafe, 503 Main St.
+
+## S-057 — Oregonian, 27 August 1985, lottery-win follow-up
+URL: Pending (screenshot from digital newspaper viewer)  
+Related evidence: `E-049`  
+Related media: `IMG-0053`  
+Notes: Richard M. Wiitanen named as owner of the restaurant at 503 Main St. / The Wheel Cafe.

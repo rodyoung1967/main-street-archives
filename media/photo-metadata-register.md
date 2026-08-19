@@ -128,6 +128,128 @@ This register records image and photo-metadata items that have been discussed or
 | IMG-0042 | 2024 | `media/photos/aerials/IMG-0042_aerial_5th-main_2024.jpg` |
 | IMG-0043 | 2025 | `media/photos/aerials/IMG-0043_aerial_5th-main_2025.jpg` |
 
+## IMG-0044 — Oregonian, 25 August 1908: Brightbill at 503 Main
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `503 Main st Missing Girl 1908 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0044_oregonian_1908-08-25_503-main-brightbill.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street
+- Related people: `P-034` Henry Brightbill
+- Evidence: `E-042`
+- Source: `S-049`
+- Notes: Article "Pretty Girl Is Missing" places merchant Henry Brightbill's store at 503 Main Street, Oregon City. Occupancy of the **address** in 1908; not proof the surviving building is that early.
+
+## IMG-0045 — Oregonian, 12 June 1937: Kwality Cafe for sale
+
+- Type: Newspaper classified / screenshot
+- Original filename: `Kwality Cafe for sale 1937 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0045_oregonian_1937-06-12_kwality-cafe-for-sale.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street (by archive association; ad says Oregon City, not the street number)
+- Related business: `BUS-001` Kwality Cafe
+- Evidence: `E-043`
+- Source: `S-050`
+- Notes: "KWALITY cafe for sale, Oregon City. Manager retiring. Modern." Street number not in the visible ad.
+
+## IMG-0046 — Oregonian, 30 November 1960: Wheel Cafe at 5th and Main
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `Wheel Cafe 1960 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0046_oregonian_1960-11-30_wheel-cafe.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street (intersection; street number not in this article)
+- Related business: `BUS-004` The Wheel / Wheel Cafe
+- Evidence: `E-044`
+- Source: `S-051`
+- Notes: Places "the Wheel Cafe, 5th and Main Streets in Oregon City" as of late November 1960. Crime-story context; keep as location/date evidence, not a business-history narrative.
+
+## IMG-0047 — Oregonian, 2 September 1967: Main Street fire; Wheel and 505 spared
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `Wheel & 505 Fire September 1967.png`
+- Repository file: `media/newspapers/IMG-0047_oregonian_1967-09-02_main-street-fire.png`
+- Status: `committed`
+- Related buildings: `B-001`, `B-002`, `B-003`
+- Related businesses: `BUS-004`, `BUS-005`, `BUS-007`, `BUS-023`
+- Evidence: `E-045`
+- Source: `S-052`
+- Notes: Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery among buildings gutted. Wheel Restaurant and 505 Tavern spared with smoke and water damage. Origin reported as Howard Cohn furniture warehouse. Supersedes the late-1968/1969 fire-date working claim in `E-016` for date; keep `E-016` as earlier notes.
+
+## IMG-0048 — Oregonian, 8 February 1976: 505 Tavern classified
+
+- Type: Newspaper classified / screenshot
+- Original filename: `505 Classified 1976 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0048_oregonian_1976-02-08_505-tavern-classified.png`
+- Status: `committed`
+- Related building: `B-002` / 505 Main Street
+- Related business: `BUS-005` 505 Tavern
+- Evidence: `E-046`
+- Source: `S-053`
+- Notes: Pool-table classified: "505 Tavern, Oregon City, 655-4321." Documents the 505 Tavern trade name in 1976.
+
+## IMG-0049 — Oregonian, 18 April 1983: Wheel Cafe (crop)
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `Wheel 1983 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0049_oregonian_1983-04-18_wheel-cafe-cruzan.png`
+- Status: `committed`
+- Related building: `B-001`
+- Related business: `BUS-004`
+- Evidence: `E-047`
+- Source: `S-054`
+- Notes: Same article as `IMG-0050`. Feature on Sid and Earl Cruzan; daily lunch at the Wheel Cafe in Oregon City. No street number in the visible text.
+
+## IMG-0050 — Oregonian, 18 April 1983: Wheel Cafe (fuller page)
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `Wheel Cafe 1983 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0050_oregonian_1983-04-18_wheel-cafe-cruzan-full.png`
+- Status: `committed`
+- Related building: `B-001`
+- Related business: `BUS-004`
+- Evidence: `E-047`
+- Source: `S-054`
+- Notes: Fuller capture of the same 18 April 1983 Cruzan feature as `IMG-0049`. Photo caption: daily walks "to the Wheel Cafe to have lunch."
+
+## IMG-0051 — Oregonian, 25 April 1985: Wheel Cafe lottery-outlet list
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `Wheel 1985 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0051_oregonian_1985-04-25_wheel-cafe-lottery-list.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street
+- Related business: `BUS-004`
+- Evidence: `E-048`
+- Source: `S-055`
+- Notes: Clackamas lottery-ticket outlets list: "The Wheel Cafe, 503 Main St."
+
+## IMG-0052 — Oregonian, 21 August 1985: Wiitanen / Wheel Cafe lottery sign
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `The Wheel August 1985.png`
+- Repository file: `media/newspapers/IMG-0052_oregonian_1985-08-21_wheel-cafe-lottery-sign.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street
+- Related business: `BUS-004`
+- Related people: `P-007` Richard M. Wiitanen
+- Evidence: `E-049`
+- Source: `S-056`
+- Notes: "Losses turn to profit." Richard M. Wiitanen identified as owner of The Wheel Cafe, 503 Main St. Lottery-ticket sign story.
+
+## IMG-0053 — Oregonian, 27 August 1985: Wiitanen / Wheel Cafe lottery win
+
+- Type: Newspaper clipping / screenshot
+- Original filename: `The Wheel Aug 1985 Oregonian.png`
+- Repository file: `media/newspapers/IMG-0053_oregonian_1985-08-27_wheel-cafe-lottery-win.png`
+- Status: `committed`
+- Related building: `B-001` / 503 Main Street
+- Related business: `BUS-004`
+- Related people: `P-007` Richard M. Wiitanen
+- Evidence: `E-049`
+- Source: `S-057`
+- Notes: Follow-up: Oregon City man wins $100 at The Wheel Cafe, 503 Main St.; Richard M. Wiitanen named as restaurant owner.
+
 ## Media Import To-Do
 
 - Upload Thebeerchaser screenshot to `media/screenshots/thebeerchaser-505-tavern-comment-2021.png`, if rights/usage are acceptable.

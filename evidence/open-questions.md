@@ -35,7 +35,7 @@ What was Larry's full name, and what was his relationship to Larry's Kwality Caf
 ## OQ-009 — The Wheel Location and Name
 Status: Partially answered.
 
-**The Wheel was at 503 Main.** Family confirmation: Raye Grisham bought The Wheel at 503 (`E-022`). Primary municipal evidence: 7 June 1967 Commission minutes, "the Wheel located at 503 Main Street" (`E-025`). Remaining question: exact legal/trade-name variants (Wheel Tavern, Wheel Lounge, Wheel Bar & Grill) and purchase/license dates.
+**The Wheel was at 503 Main.** Family confirmation: Raye Grisham bought The Wheel at 503 (`E-022`). Primary municipal evidence: 7 June 1967 Commission minutes, "the Wheel located at 503 Main Street" (`E-025`). Newspapers document **Wheel Cafe** (1960, 1983, 1985) and **Wheel Restaurant** (1967 fire). Remaining question: legal-name sequence vs public trade-name variants.
 
 ## OQ-010 — Mitch Young Business Name
 Status: Partially answered.
@@ -62,10 +62,14 @@ What was bartender Willie's full name, and when did he work at 505 Main?
 What was Victor's full name, and what was the exact restaurant-management arrangement during Raye Grisham's Wheel years at 503 and early Richard / Dick and Sheila years?
 
 ## OQ-016 — 507 Harding Building Fire
-What was the exact date of the Harding Building fire, and did it occur in late 1968, 1969, or another date?
+Status: Partially answered.
+
+Oregonian of 2 September 1967 reports a Friday-night fire (**1 September 1967**) on Main between 5th and 6th (`E-045`). Harding Drug Store was gutted. Wheel Restaurant and 505 Tavern were spared. Reported origin: Howard Cohn furniture warehouse. Remaining: fire-department/insurance corroboration and replacement-building date.
 
 ## OQ-017 — Harding Building Bakery / Tony's Restaurant
-What bakery was involved in the Harding Building fire, where was it located, and was Tony's Restaurant operating at the time?
+Status: Partially answered.
+
+Dixon's Bakery was among businesses gutted in the 1 September 1967 fire (`E-045`). Exact street number still pending. Tony's Restaurant is not named in this Oregonian article. Bakery-as-origin remains an earlier `E-016` note, superseded by the Cohn-warehouse origin in `E-045`.
 
 ## OQ-018 — 507 Replacement Building
 Was the current 507 Main building completed in 1968, 1969, or another year?

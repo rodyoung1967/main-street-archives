@@ -44,8 +44,9 @@ This file connects the archive's ID systems so related records can be audited wi
 
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
-| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel at 503 | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`; `S-024`-`S-028`, `S-048` |
-| `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-037`, `E-039`; `S-028`, `S-032`-`S-043`, `S-048` |
+| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at 503 | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-057` |
+| `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-037`, `E-039`, `E-045`, `E-046`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053` |
+| `B-003` 507 Harding Building | `BUS-007` Harding Drug; `BUS-023` Dixon's Bakery | `E-016`, `E-017`, `E-045`; `S-052` |
 | `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
 
 ## Person / Business Crosswalk
@@ -56,7 +57,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-004` Larry | `BUS-003`, `B-001`, `A-002` / `IMG-0002` | Larry's Kwality Cafe name/person; surname unknown. |
 | `P-005` Ray Hansen | `BUS-005`, `B-002` | Sold 505 Tavern business to Dick and Sheila; distinct from Raye Grisham. |
 | `P-006` Raye Grisham | `BUS-004`, `B-001` | Grandmother; formerly Raye LaFarlette; bought The Wheel at 503. Supersedes older "Ray Grisham at 505" reading. |
-| `P-007` Richard / Dick Wiitanen | `B-002`, `B-001` | Bought 505 Tavern business from Hansen; renamed Brass Rail; later 505 real-estate interest; died November 2024. |
+| `P-007` Richard / Dick Wiitanen | `B-002`, `B-001`, `BUS-004` | Bought 505 Tavern business from Hansen; renamed Brass Rail; later 505 real-estate interest. Oregonian August 1985 names him owner of The Wheel Cafe at 503. Died November 2024. |
 | `P-008` Sheila Wiitanen | `B-002` | Daughter of Floyd and Raye; bought 505 Tavern business with Dick; died 2014. |
 | `P-009` Willie | `B-002` | Bartender under Ray Hansen and Richard / Dick and Sheila. |
 | `P-010` Victor | `BUS-004`, `B-001` | Restaurant manager in Raye Grisham's Wheel years and early Wiitanen years. |
@@ -65,7 +66,8 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-013` Scott Forvilly | `BUS-006`, `B-002` | Purchased/reopened as Thirsty Duck in 2017. |
 | `P-014` Rodney Young | `B-002`, archive steward | Co-owner of 505 with Mitchell Young through 505 LLC. |
 | `P-018` Mitchell C. Young | `B-002`, `BUS-005` | Same person as P-011; legal/lease form of the name; 505 LLC managing member. |
-| `P-019` Alin Guria | `B-002`, `E-018`, `S-011` | 2025 lessee. |
+| `P-034` Henry Brightbill | `B-001` | Merchant with a store at 503 Main in 1908 (`E-042`). |
+| `P-019` Alan / Alin Guria | `B-002`, `E-018`, `S-011` | Current lessee. Lease spelling Alin; steward confirmation Alan. |
 | `P-020` Skyline Property Management | `B-002`, `E-018`, `S-011` | 2025 lease property manager / authorized agent. |
 
 ## Maintenance Rule

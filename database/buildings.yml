@@ -20,6 +20,7 @@ buildings:
       - P-016
       - P-021
       - P-022
+      - P-034
     related_evidence:
       - E-001
       - E-002
@@ -31,6 +32,13 @@ buildings:
       - E-022
       - E-025
       - E-038
+      - E-042
+      - E-043
+      - E-044
+      - E-045
+      - E-047
+      - E-048
+      - E-049
     related_maps:
       - SM-002
       - SM-003
@@ -86,6 +94,8 @@ buildings:
       - E-029
       - E-030
       - E-031
+      - E-045
+      - E-046
     related_maps:
       - SM-002
       - SM-003
@@ -99,10 +109,11 @@ buildings:
   - id: B-003
     name: 507 Main Street / Harding Building
     address: 507 Main Street, Oregon City, Oregon
-    notes: Associated with Harding Building, Harding Drug Store, Tony's Restaurant, bakery/fire research leads, late-1960s fire-date question, and replacement-building question.
+    notes: Harding Building / Harding Drug Store. Gutted in the 1 September 1967 Main Street fire (E-045). Replacement-building date still pending.
     related_businesses:
       - BUS-007
       - BUS-008
+      - BUS-023
     related_people:
       - P-001
       - P-002
@@ -111,6 +122,7 @@ buildings:
       - E-017
       - E-020
       - E-021
+      - E-045
     related_maps:
       - SM-002
       - SM-003

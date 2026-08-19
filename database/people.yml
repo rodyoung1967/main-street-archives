@@ -61,7 +61,7 @@ people:
   - id: P-007
     name: Richard / Dick Wiitanen
     role: Owner / stepfather
-    notes: Bought the 505 Tavern business from Ray Hansen with Sheila and renamed it Brass Rail. Later real-estate interest in 505. Died November 2024.
+    notes: Bought the 505 Tavern business from Ray Hansen with Sheila and renamed it Brass Rail. Later real-estate interest in 505. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main. Died November 2024.
     related_buildings:
       - B-001
       - B-002
@@ -69,6 +69,7 @@ people:
       - BUS-005
       - BUS-010
       - BUS-016
+      - BUS-004
 
   - id: P-008
     name: Sheila Wiitanen
@@ -166,11 +167,13 @@ people:
       - BUS-009
 
   - id: P-019
-    name: Alin Guria
-    role: 2025 lessee
-    notes: Lessee in 2025 commercial lease for 505 Main Street.
+    name: Alan / Alin Guria
+    role: Current lessee
+    notes: Current lessee of 505 Main as of August 2026 (steward confirmation). 2025 commercial lease spelling is Alin Guria. Preserve both spellings until a signed record proves one form. Operating business name remains Thirsty Duck.
     related_buildings:
       - B-002
+    related_businesses:
+      - BUS-006
 
   - id: P-020
     name: Skyline Property Management
@@ -292,3 +295,12 @@ people:
       - B-002
     related_businesses:
       - BUS-005
+
+  - id: P-034
+    name: Henry Brightbill
+    role: Merchant at 503 Main, 1908
+    notes: Oregonian 25 August 1908 places his store at 503 Main Street. Occupancy of the address; surviving-building identity not proven by this article.
+    related_buildings:
+      - B-001
+    related_evidence:
+      - E-042

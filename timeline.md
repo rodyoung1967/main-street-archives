@@ -51,8 +51,8 @@ The 1950 revised Sanborn sheet continues to show separate 503, 505, and 507 occu
 ## 1971 memory / later recollection
 A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
 
-## Late 1960s / 1968-1969 Harding Building fire lead
-The original Harding Building at 507 was reportedly destroyed by fire in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area. The replacement building date is still unresolved and should be checked against fire reports, newspapers, permits, and assessor records.
+## 1 September 1967 Main Street fire
+Oregonian of 2 September 1967 reports a Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery were gutted. The Wheel Restaurant and the 505 Tavern were spared with smoke and water damage. Reported origin: Howard Cohn furniture warehouse. Earlier late-1968/1969 fire-date notes are superseded for the date. Replacement-building year still pending.
 
 ## Family context: LaFarlette / Grisham / Wiitanen
 Rodney's grandmother is **Raye Grisham** (first marriage LaFarlette); she bought **The Wheel at 503 Main**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. After Richard's death, **505 Main passed to Rodney Young and Mitchell Young jointly** through 505 LLC.
@@ -61,7 +61,7 @@ Rodney's grandmother is **Raye Grisham** (first marriage LaFarlette); she bought
 Ray Hansen owned the 505 Tavern **business** and sold it to Dick and Sheila Wiitanen, who renamed it Brass Rail. Bartender Willie worked under Ray and continued under Dick and Sheila. Ray Hansen is not Raye Grisham.
 
 ## The Wheel at 503
-Raye Grisham bought The Wheel at 503 Main. Oregon City Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Victor independently managed the restaurant portion during Raye's years and early Dick/Sheila years.
+Raye Grisham bought The Wheel at 503 Main. Oregonian 1960 places the Wheel Cafe at 5th and Main. Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St. Victor independently managed the restaurant portion during Raye's years and early Dick/Sheila years.
 
 ## Brass Rail / Dug Inn
 Dick and Sheila renamed 505 Tavern to Brass Rail. 6 April 1988 Commission minutes identify The Dug Inn (formerly The Brass Rail) at 505 Main and a Wiitanen-to-Cotterell transfer. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.

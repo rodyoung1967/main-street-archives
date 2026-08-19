@@ -10,7 +10,7 @@ The 1919 date appears in secondary sources and should be tested against assessor
 Polk directories and Oregon City telephone books may establish year-by-year occupants for 503 and 505 Main. This is especially important for separating Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe, The Wheel, The 505, Brass Rail Tavern, 505 Tavern, and later Thirsty Duck name usage.
 
 ## RL-004 — Harding Building Fire
-Historic Oregon newspapers, fire department records, permit records, assessor records, and local archives may identify the exact date and details of the late-1960s Harding Building fire. Prior research indicates Enterprise-Courier 1968-1969 material may require manual issue-by-issue search rather than ordinary web search.
+Oregonian of 2 September 1967 (`E-045`) dates the block fire to 1 September 1967 and names Harding Drug Store and Dixon's Bakery among buildings gutted. Remaining work: fire-department records, insurance, permits, and the replacement-building year. Earlier Enterprise-Courier 1968-1969 search was looking in the wrong years for the fire itself.
 
 ## RL-005 — 505 Rear Addition / Building Footprint
 Compare assessor sketches, permits, tax cards, Sanborn maps, deeds, parcel maps, and physical measurements to determine whether the rear portion of 505 was added later and whether 505 extends farther back than 503.

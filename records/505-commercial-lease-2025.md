@@ -15,7 +15,7 @@ A 2025 commercial lease documents the current tenancy and operating framework fo
 ## Parties and Premises
 
 - Lessor: 505 LLC
-- Lessee: Alin Guria
+- Lessee: Alin Guria (lease spelling). Steward confirmation August 2026: **Alan** is the current lessee (`P-019`). Preserve both spellings.
 - Premises: 505 Main Street, Oregon City, Oregon
 - Property manager / authorized agent: Skyline Property Management
 - Managing member signatures shown for Rodney A. Young and Mitchell C. Young.
@@ -44,4 +44,4 @@ This is a current administrative record, not historical proof of earlier busines
 
 ## Evidence Caution
 
-This lease should not be used to infer the historical name of the business during earlier eras such as The Wheel, The 505, Brass Rail Tavern, 505 Tavern, or Thirsty Duck. It only documents the 2025 lease period and current permitted use.
+This lease should not be used to infer the historical name of the business during earlier eras such as The Wheel, The 505, Brass Rail Tavern, or 505 Tavern. The current operating name at 505 Main remains **Thirsty Duck**. The current lessee is **Alan** (`P-019`); the signed lease spelling is **Alin Guria**.

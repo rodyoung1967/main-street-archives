@@ -84,7 +84,7 @@ Confidence: High as trusted internal project metadata for what Time Capsule Maps
 
 ## E-016 — Harding Building Fire Oral / Project Notes
 Type: Family/oral history / project note  
-Claims: The Harding Building at 507 Main burned in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area.  
+Claims: The Harding Building at 507 Main burned in the late 1960s, likely late 1968 or 1969. Tony's Restaurant and a bakery were involved, and the fire may have started in or spread through the bakery area. **Date and origin superseded by `E-045`** (Oregonian: fire 1 September 1967; reported origin Howard Cohn warehouse). Keep this item as the earlier notes.  
 Confidence: Moderate to High as project/oral-history evidence; requires newspaper, fire department, permit, assessor, or city-record confirmation.
 
 ## E-017 — Photo Metadata: Harding Building Replacement Note
@@ -236,3 +236,67 @@ Type: Family recollection / research lead
 Sources: `S-028`  
 Claims: Family recollection places Sports Keg at 505 Main in the late 1980s or early 1990s during changing operators/repossessions. A separate recollection suggests a Brass Rail sale may have involved someone surnamed Rosser (spelling uncertain). No documentary corroboration located in the v5 notes.  
 Confidence: Low-moderate as leads only.
+
+## E-042 — Henry Brightbill Store at 503 Main, 1908
+Type: Primary newspaper  
+Date: 25 August 1908  
+Sources: `S-049`  
+Related media: `IMG-0044`  
+Claims: Oregonian article "Pretty Girl Is Missing" identifies Henry Brightbill as an Oregon City merchant with a store at **503 Main Street**. Occupancy of the address in 1908; not proof that the surviving building dates to 1908.  
+Confidence: Very High for the newspaper's address claim.
+
+## E-043 — Kwality Cafe for Sale, Oregon City, 1937
+Type: Primary newspaper classified  
+Date: 12 June 1937  
+Sources: `S-050`  
+Related media: `IMG-0045`  
+Claims: Oregonian classified: "KWALITY cafe for sale, Oregon City. Manager retiring. Modern." Street number is not in the visible ad; archive association with 503 Main is by other Kwality evidence, not by this clipping alone.  
+Confidence: Very High for a Kwality Cafe for sale in Oregon City in 1937; address inference separate.
+
+## E-044 — Wheel Cafe at 5th and Main, 1960
+Type: Primary newspaper  
+Date: 30 November 1960  
+Sources: `S-051`  
+Related media: `IMG-0046`  
+Claims: Oregonian crime report places "the Wheel Cafe, 5th and Main Streets in Oregon City" as operating in late November 1960. Trade-name form is **Wheel Cafe**. Street number not stated.  
+Confidence: Very High for name, intersection, and date.
+
+## E-045 — Main Street Fire, 1–2 September 1967
+Type: Primary newspaper  
+Date: 2 September 1967 (reports Friday-night fire; 2 September 1967 was Saturday, so the fire was the night of **1 September 1967**)  
+Sources: `S-052`  
+Related media: `IMG-0047`  
+Claims: Oregonian, Jack Berry, "In Oregon City Fire": fire on Main Street between 5th and 6th. Businesses gutted include Coast Hardware Co., Dixon's Bakery, Hardings Drug Store, Volunteers of America Thrift Shop, and a two-story furniture warehouse owned by Howard Cohn (reported origin). **"The only establishments spared by flames in the block were the Wheel Restaurant and the 505 Tavern, both of which received smoke and water damage."** This is primary evidence that both businesses existed on that block in September 1967, and that Harding Drug Store was among the buildings destroyed. Origin is reported as the Cohn warehouse, not a bakery. Earlier working dates of late 1968/1969 (`E-016`) are superseded for the fire **date**; keep `E-016` as the earlier notes.  
+Confidence: Very High for newspaper date, named businesses, and that Wheel Restaurant and 505 Tavern were spared.
+
+## E-046 — 505 Tavern Classified, 1976
+Type: Primary newspaper classified  
+Date: 8 February 1976  
+Sources: `S-053`  
+Related media: `IMG-0048`  
+Claims: Oregonian classified offers a Brunswick pool table for sale at **505 Tavern, Oregon City**, phone **655-4321**. Documents the 505 Tavern trade name in 1976.  
+Confidence: Very High.
+
+## E-047 — Wheel Cafe as 1983 Community Landmark
+Type: Primary newspaper  
+Date: 18 April 1983  
+Sources: `S-054`  
+Related media: `IMG-0049`, `IMG-0050`  
+Claims: Oregonian feature by John Guernsey on Sid and Earl Cruzan. They walked daily from Molalla Avenue to downtown Oregon City to lunch at **the Wheel Cafe**. Photo caption treats the Wheel Cafe as a known local destination. Street number not in the visible text.  
+Confidence: Very High for name, city, and 1983 operation.
+
+## E-048 — Wheel Cafe, 503 Main St., Lottery Outlet, 1985
+Type: Primary newspaper directory listing  
+Date: 25 April 1985  
+Sources: `S-055`  
+Related media: `IMG-0051`  
+Claims: Oregonian Clackamas lottery-ticket outlet list includes **"The Wheel Cafe, 503 Main St."**  
+Confidence: Very High for name and address on that date.
+
+## E-049 — Richard M. Wiitanen Owner of The Wheel Cafe, 503 Main, August 1985
+Type: Primary newspaper  
+Date: 21 August 1985 and 27 August 1985  
+Sources: `S-056`, `S-057`  
+Related media: `IMG-0052`, `IMG-0053`  
+Claims: Oregonian identifies **Richard M. Wiitanen** as owner of **The Wheel Cafe** at **503 Main St.**, Oregon City, in August 1985, in connection with Oregon Lottery ticket sales. This is 503 business ownership, not 505 Tavern and not Mitch Young's later 505 period.  
+Confidence: Very High for owner name, business name, address, and month.

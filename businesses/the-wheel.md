@@ -15,6 +15,8 @@ Family confirmation (16 August 2026): **Raye Grisham** (`P-006`, grandmother; fo
 
 Oregon City Commission minutes of **7 June 1967** authorize the mayor to sign a liquor application for **"the Wheel located at 503 Main Street"** (`E-025` / `S-027`). That is primary municipal evidence fixing the address by that date.
 
+Earlier and later newspapers use **Wheel Cafe** and **Wheel Restaurant** at this location: 5th and Main in 1960 (`E-044`); spared in the 1 September 1967 fire (`E-045`); downtown lunch landmark in 1983 (`E-047`); **The Wheel Cafe, 503 Main St.**, with **Richard M. Wiitanen** as owner in August 1985 (`E-048`, `E-049`).
+
 A 2017 article refers to "The Wheel Tavern" (`E-001`); keep that exact wording unverified as a legal name. Time Capsule Maps metadata also places The Wheel at 503 with 505 Tavern to the right (`E-015`).
 
 ## Important Location and Name Caution
@@ -35,7 +37,7 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, or Thirsty Duck
 - `P-006` - Raye Grisham: bought The Wheel at 503 Main.
 - `P-022` - Floyd LaFarlette: first husband; family association with The Wheel.
 - `P-010` - Victor: restaurant manager during Raye's years and early Dick/Sheila years.
-- `P-007` / `P-008` - Dick and Sheila: later 503 building owners (~1975); 505 tavern operators separately.
+- `P-007` / `P-008` - Dick and Sheila: later 503 building owners (~1975); Richard M. Wiitanen named Wheel Cafe owner in 1985; 505 tavern operators separately.
 
 ## Evidence Notes
 

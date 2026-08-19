@@ -69,18 +69,19 @@ Primary file: `buildings/507-harding-building.md`
 Associated names and topics:
 
 - Harding Building
-- Harding Drug Store
+- Harding Drug Store (gutted 1 September 1967)
+- Dixon's Bakery (gutted in same fire)
 - George A. Harding
 - Dr. Bailey
 - Tony's Restaurant
-- Bakery involved in late-1960s fire lead
-- 1968 / 1969 fire-date question
+- 1 September 1967 fire (`E-045`); earlier 1968/1969 date superseded
 - Replacement building question
 
 Key evidence and map sources:
 
-- `E-016` Harding Building fire oral/project notes
+- `E-016` Harding Building fire oral/project notes (date superseded by `E-045`)
 - `E-017` Harding Building replacement photo metadata note
+- `E-045` Oregonian 2 September 1967 fire article
 - `SM-002` through `SM-009` Sanborn map series
 
 ## Sanborn Map Index
@@ -136,7 +137,7 @@ High-priority people/entities:
 - Scott Forvilly — purchased and reopened as Thirsty Duck in 2017
 - Rodney Young — current co-owner with Mitchell Young through 505 LLC / project steward
 - Mitchell C. Young — same person as Mitch Young (`P-011` / `P-018`); 505 LLC co-owner; ran 505 Tavern 1991-2004
-- Alin Guria — 2025 505 lessee
+- Alan / Alin Guria — current 505 lessee (lease spelling Alin; steward confirmation Alan)
 - Skyline Property Management — property manager / authorized agent
 - George A. Harding — Harding Building / Harding Drug Store context
 - Dr. Bailey — dentist upstairs in Harding Building in 1909

@@ -3,27 +3,27 @@
 ## Archive IDs
 
 - Building ID: `B-003`
-- Related businesses: `BUS-007`, `BUS-008`
+- Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`
 - Related sources: `S-010`, `S-012`, `S-023`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
 ## Known / Working History
 
-507 Main Street is associated with the original Harding Building, George A. Harding, Harding Drug Store, Dr. Bailey's upstairs dental practice, Tony's Restaurant, a possible bakery tenant, and the late-1960s fire and replacement building.
+The original/taller Harding Building burned in a Main Street fire the night of **1 September 1967**, reported in the Oregonian of 2 September 1967 (`E-045` / `S-052` / `IMG-0047`). Harding Drug Store was among the businesses gutted. Dixon's Bakery was also gutted. The Oregonian names the reported origin as a two-story furniture warehouse owned by Howard Cohn. **The Wheel Restaurant and the 505 Tavern were the only establishments in the block spared by flames**, with smoke and water damage.
 
-This page should preserve a distinction between the original historic Harding Building and the replacement commercial building completed in 1968.
+Earlier working dates of late 1968 or 1969 (`E-016`) are superseded for the **fire date**. Keep those notes. The replacement-building completion year is still open (`OQ-018`). Tony's Restaurant is not named in this Oregonian article.
 
 Current working facts and leads:
 
 - The building was known as the Harding Building by 1909.
 - George A. Harding and Harding Drug Store are associated with the building.
 - Dr. Bailey was documented upstairs in the Harding Building in 1909.
-- Tony's Restaurant and a bakery are associated with the building before the late-1960s fire.
-- The original/taller Harding Building reportedly burned in the late 1960s. Working date ranges include late 1967 or early 1968 (`T-006`, timeline context) and late 1968 or 1969 (`E-016`, project/oral-history notes). Preserve both until primary records confirm the exact date.
-- The current replacement building is understood to date to about 1968, but the exact fire date, replacement date, and construction sequence still need primary confirmation.
+- Harding Drug Store and Dixon's Bakery were gutted in the 1 September 1967 fire.
+- The Wheel Restaurant and 505 Tavern survived that fire with smoke and water damage.
+- The current replacement building is understood to date to about 1968, but the exact replacement date and construction sequence still need primary confirmation.
 
 ## George A. Harding / Harding Drug Store
 
@@ -46,13 +46,13 @@ The source for this 1909 claim should be linked directly once located in the evi
 
 ## Fire / Replacement Building Question
 
-The archive should treat the Harding Building fire as a high-priority research question. Family/project notes suggest the fire may have started in or spread through the bakery area and destroyed the structure. This remains a working claim pending confirmation from newspapers, fire department records, permits, insurance records, assessor records, or city files.
+Primary newspaper evidence (`E-045`): fire the night of **1 September 1967** on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery gutted. Reported origin: Howard Cohn furniture warehouse. Wheel Restaurant and 505 Tavern spared.
 
-The original historic Harding Building was reportedly destroyed in a catastrophic fire around late 1967 or early 1968. The replacement commercial building was completed in 1968. This fire date remains a working claim until confirmed by primary records. The archive should preserve both date possibilities, late 1967 and early 1968, until an exact date is established.
+Family/project notes (`E-016`) had suggested late 1968 or 1969 and a bakery origin. Preserve those notes; they are superseded on **date** and on **origin** by the Oregonian account.
 
 Related research lead:
 
-- `RL-004` - Harding Building Fire
+- `RL-004` - Harding Building Fire (now focused on replacement date, Tony's Restaurant, and fire-department/insurance corroboration)
 
 Potential records to check include historic Oregon newspapers, Oregon City fire department records, city permit files, insurance records, photographs, assessor records, and local archive collections.
 
@@ -76,8 +76,9 @@ Potential records to check include historic Oregon newspapers, Oregon City fire 
 
 | ID | Type | Claims |
 | --- | --- | --- |
-| `E-016` | Project/oral-history notes | Harding Building fire in late 1968 or 1969; Tony's Restaurant and bakery involved; bakery area may have been where the fire started or spread. |
+| `E-016` | Project/oral-history notes | Earlier working claim: late 1968 or 1969 fire; bakery origin. Date and origin superseded by `E-045`. |
 | `E-017` | Photo metadata note | 1910 5th/Main photo record states the taller Harding Building at 507 burned and was replaced by the current building. |
+| `E-045` | Primary newspaper | 1 September 1967 fire; Harding Drug and Dixon's Bakery gutted; Wheel Restaurant and 505 Tavern spared. |
 
 Related page:
 

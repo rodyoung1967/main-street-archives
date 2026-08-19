@@ -32,6 +32,8 @@ A Time Capsule Maps photo-metadata record uses the wording **"The Quality Cafe"*
 
 `E-015` is project/photo metadata that uses the wording "The Quality Cafe" among known businesses at 503 Main. It is useful as a lead, but the original photo/source and wording need verification.
 
+`E-043` is a 12 June 1937 Oregonian classified: "KWALITY cafe for sale, Oregon City. Manager retiring. Modern." The visible ad does not give a street number.
+
 ## Related People
 
 - `P-003` - J. Jager: proprietor of New Kwality Cafe according to matchbook evidence.

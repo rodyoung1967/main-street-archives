@@ -45,14 +45,22 @@ timeline:
       - BUS-003
 
   - id: T-006
-    date: Late 1960s
-    summary: The original Harding Building at 507 was reportedly destroyed by fire; replacement building completed circa 1968. Exact fire date pending primary confirmation.
-    confidence: Needs primary confirmation
+    date: 1 September 1967
+    summary: Oregonian of 2 September 1967 reports a Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery gutted. Wheel Restaurant and 505 Tavern spared with smoke and water damage. Reported origin Howard Cohn furniture warehouse. Replacement-building date still pending.
+    confidence: Very High for newspaper fire date and named businesses; replacement date still pending
     related_evidence:
+      - E-045
       - E-016
       - E-017
     related_buildings:
+      - B-001
+      - B-002
       - B-003
+    related_businesses:
+      - BUS-004
+      - BUS-005
+      - BUS-007
+      - BUS-023
 
   - id: T-007
     date: March 1991-March 2004

@@ -22,6 +22,7 @@ Use that file for current media IDs, repository file paths, status values, and s
 | `IMG-0004` | `media/photo-metadata-register.md` | External / Time Capsule Maps metadata |
 | `IMG-0005` | `media/photo-metadata-register.md` | External / Time Capsule Maps metadata |
 | `IMG-0006`–`IMG-0043` | `media/photo-metadata-register.md` | Committed: `media/photos/aerials/` (38-frame 5th & Main photocompare series, `E-021` / `S-023`) |
+| `IMG-0044`–`IMG-0053` | `media/photo-metadata-register.md` | Committed: `media/newspapers/` (Oregonian clippings, `E-042`–`E-049`) |
 
 ## Deprecated Older Paths
 

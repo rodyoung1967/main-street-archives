@@ -270,6 +270,7 @@ evidence:
       - The Harding Building at 507 Main burned in the late 1960s, likely late 1968 or 1969.
       - Tony's Restaurant and a bakery were involved.
       - The fire may have started in or spread through the bakery area.
+      - Date and origin superseded by E-045; keep as earlier notes.
     confidence: Moderate to High as project/oral-history evidence; requires newspaper, fire department, permit, assessor, or city-record confirmation.
     related_sources:
       - S-012
@@ -691,3 +692,140 @@ evidence:
       - BUS-017
     related_buildings:
       - B-002
+
+  - id: E-042
+    name: Henry Brightbill Store at 503 Main, 1908
+    type: Primary newspaper
+    claims:
+      - Oregonian 25 August 1908 places Henry Brightbill's store at 503 Main Street, Oregon City.
+      - This is occupancy of the address in 1908, not proof the surviving building dates to 1908.
+    confidence: Very High for the newspaper's address claim
+    related_sources:
+      - S-049
+    related_people:
+      - P-034
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0044
+
+  - id: E-043
+    name: Kwality Cafe for Sale, Oregon City, 1937
+    type: Primary newspaper classified
+    claims:
+      - Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City, manager retiring, modern.
+      - Street number is not in the visible ad.
+    confidence: Very High for a Kwality Cafe for sale in Oregon City in 1937; address inference separate
+    related_sources:
+      - S-050
+    related_businesses:
+      - BUS-001
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0045
+
+  - id: E-044
+    name: Wheel Cafe at 5th and Main, 1960
+    type: Primary newspaper
+    claims:
+      - Oregonian 30 November 1960 places the Wheel Cafe at 5th and Main Streets in Oregon City.
+    confidence: Very High for name, intersection, and date
+    related_sources:
+      - S-051
+    related_businesses:
+      - BUS-004
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0046
+
+  - id: E-045
+    name: Main Street Fire, 1-2 September 1967
+    type: Primary newspaper
+    claims:
+      - Oregonian 2 September 1967 reports a Friday-night fire on Main Street between 5th and 6th.
+      - Harding Drug Store and Dixon's Bakery were among businesses gutted.
+      - Wheel Restaurant and 505 Tavern were spared with smoke and water damage.
+      - Reported origin was Howard Cohn furniture warehouse, not a bakery.
+      - Earlier late-1968/1969 fire-date notes in E-016 are superseded for the date.
+    confidence: Very High for newspaper date, named businesses, and that Wheel Restaurant and 505 Tavern were spared
+    related_sources:
+      - S-052
+    related_businesses:
+      - BUS-004
+      - BUS-005
+      - BUS-007
+      - BUS-023
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+    related_media:
+      - IMG-0047
+
+  - id: E-046
+    name: 505 Tavern Classified, 1976
+    type: Primary newspaper classified
+    claims:
+      - Oregonian 8 February 1976 classified names 505 Tavern, Oregon City, telephone 655-4321.
+    confidence: Very High
+    related_sources:
+      - S-053
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+    related_media:
+      - IMG-0048
+
+  - id: E-047
+    name: Wheel Cafe as 1983 Community Landmark
+    type: Primary newspaper
+    claims:
+      - Oregonian 18 April 1983 feature places daily lunch at the Wheel Cafe in downtown Oregon City.
+    confidence: Very High for name, city, and 1983 operation
+    related_sources:
+      - S-054
+    related_businesses:
+      - BUS-004
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0049
+      - IMG-0050
+
+  - id: E-048
+    name: "Wheel Cafe, 503 Main St., Lottery Outlet, 1985"
+    type: Primary newspaper directory listing
+    claims:
+      - Oregonian 25 April 1985 lottery-outlet list includes The Wheel Cafe, 503 Main St.
+    confidence: Very High for name and address on that date
+    related_sources:
+      - S-055
+    related_businesses:
+      - BUS-004
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0051
+
+  - id: E-049
+    name: Richard M. Wiitanen Owner of The Wheel Cafe, 503 Main, August 1985
+    type: Primary newspaper
+    claims:
+      - Oregonian 21 and 27 August 1985 identify Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St.
+      - This is 503 business ownership, not 505 Tavern and not Mitch Young's later 505 period.
+    confidence: Very High for owner name, business name, address, and month
+    related_sources:
+      - S-056
+      - S-057
+    related_people:
+      - P-007
+    related_businesses:
+      - BUS-004
+    related_buildings:
+      - B-001
+    related_media:
+      - IMG-0052
+      - IMG-0053

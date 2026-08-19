@@ -28,7 +28,7 @@ The archive should not assume whether Harding owned the building, developed it, 
 
 Harding Drug Store belongs to the original historic Harding Building story, not the 1968 replacement building unless later evidence proves continuity.
 
-The original Harding Building was reportedly destroyed by fire around late 1967 or early 1968. That fire date remains unresolved and is tracked by `RL-004`.
+The original Harding Building was destroyed in the Main Street fire the night of **1 September 1967** (`E-045`). Harding Drug Store was among the businesses gutted. That fire date remains documented by the Oregonian; replacement-building date is still open (`RL-004`).
 
 ## Evidence / Source Needs
 

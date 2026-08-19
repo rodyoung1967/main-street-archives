@@ -4,15 +4,15 @@
 
 - Building ID: `B-001`
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`
-- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-026`
+- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-026`, `P-034`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-038`, `E-040`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-038`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`
 - Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`
 - Related timeline entries: `T-004`, `T-005`, `T-007`, `T-008`
 
 ## Known / Working History
 
-503 Main Street is associated with early commercial occupants (H. H. Smith pool-hall application 1912; L. Hylton 1914), the Kwality Cafe lineage, and **The Wheel**, which Raye Grisham bought at this address. Keep 503 and 505 as separate buildings: The Wheel is 503; 505 Tavern is 505.
+503 Main Street is associated with early commercial occupants (Henry Brightbill store 1908; H. H. Smith pool-hall application 1912; L. Hylton 1914), the Kwality Cafe lineage, and **The Wheel** / **Wheel Cafe**, which Raye Grisham bought at this address. Keep 503 and 505 as separate buildings: The Wheel is 503; 505 Tavern is 505.
 
 Rodney Young's grandmother **Raye Grisham** (first marriage LaFarlette) is the 503 Wheel connection. Dick and Sheila Wiitanen purchased the **503 building** about 1975 from Mrs. Nemeth (spelling uncertain). That is real-estate history, separate from the 505 tavern-business sale.
 
@@ -45,10 +45,14 @@ Related pages:
 
 ## The Wheel at 503 Main
 
-**The Wheel was at 503 Main**, not 505.
+**The Wheel was at 503 Main**, not 505. Documented name forms include The Wheel, the Wheel Cafe, and the Wheel Restaurant.
 
 - Family confirmation (`E-022`): Raye Grisham bought The Wheel at 503 Main.
+- Oregonian 30 November 1960 (`E-044`): "the Wheel Cafe, 5th and Main Streets in Oregon City."
 - Primary municipal evidence (`E-025`): 7 June 1967 Commission minutes, liquor application for "the Wheel located at 503 Main Street."
+- Oregonian 2 September 1967 (`E-045`): "the Wheel Restaurant" spared in the Main Street fire, with smoke and water damage.
+- Oregonian 1983 (`E-047`): Wheel Cafe as a downtown lunch destination.
+- Oregonian 1985 (`E-048`, `E-049`): **The Wheel Cafe, 503 Main St.**; **Richard M. Wiitanen** named as owner in August 1985.
 - Photo metadata (`E-015`) places The Wheel at 503 with 505 Tavern to the right.
 
 The 2017 article's "The Wheel Tavern" wording (`E-001`) remains unverified as a legal name. Mitch Young's 1991-2004 period is **505 Tavern at 505 Main**, not The Wheel.
