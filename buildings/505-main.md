@@ -4,8 +4,8 @@
 
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
-- Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`
+- Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -18,11 +18,18 @@ Early documented occupants include The Chicago Store (1911-1913) and Wolf & Mill
 
 Tavern-era sequence includes 505 Tavern (documented 1965, 1972, **1976 classified**) → Brass Rail → The Dug Inn (1988) → other late-1980s/early-1990s operators/leads including Sports Keg → Mitch / Mitchell (C.) Young running 505 Tavern March 1991-March 2004 → later Berman (bought 2009) → Thirsty Duck 2017, still operating as of August 2026.
 
-The exact ownership/operator sequence around **Ray Hansen, Brass Rail, Wiitanen repossessions/transfers, and The Dug Inn** still needs careful documentary reconstruction. Earlier family history said Ray Hansen sold the 505 Tavern business to Dick and Sheila and that they renamed it Brass Rail (`E-031`). The newer family clarification narrows this: **while Dick and Sheila ran The Wheel at 503, their normal 505 role was ownership of the 505 real estate, not ordinary operation of the 505 tavern business.** Any period in which they held or controlled the 505 business may have been brief during repossession, non-payment/default, or a transfer interval.
+### Wiitanen business and property sequence
 
-Primary municipal evidence (`E-030`) nevertheless shows a 6 April 1988 change-of-ownership application for The Dug Inn (formerly Brass Rail) from Dick or Sheila Wiitanen to the Cotterells. That record should be treated as evidence of a business-transfer role at that moment, not proof that the Wheel and 505 businesses were jointly operated.
+Family clarification on **19 August 2026** establishes that **Dick and Sheila Wiitanen ran Brass Rail at 505 Main for a period before they owned the building**. They later purchased the **505 Main real estate** from a woman remembered as **Mrs. Nesmeth / Nemeth** (spelling uncertain). The earlier archive statement that the Mrs. Nemeth purchase was the **503 building** is superseded (`E-038`).
 
-After Richard Wiitanen's death, the **building** passed to **Rodney Young and Mitchell Young**, who own it together through 505 LLC.
+That produces two distinct phases:
+
+1. **Business first:** Dick and Sheila operated Brass Rail at 505 while another person still owned the real estate.
+2. **Property later:** Dick and Sheila subsequently bought the 505 building from Mrs. Nesmeth / Nemeth. After that purchase, Wiitanen ownership of the real estate continued through Richard / Dick Wiitanen's death in **November 2024**.
+
+After they became property owners, the operating tavern business later passed through other owners/operators. Any later period in which Dick or Sheila again controlled the 505 business may have been a sale, repossession, non-payment/default, or transfer interval rather than continuous operation. Primary municipal evidence (`E-030`) shows a 6 April 1988 change-of-ownership application for The Dug Inn (formerly Brass Rail) from Dick or Sheila Wiitanen to the Cotterells.
+
+After Richard's death in November 2024, the **505 building passed to Rodney Young and Mitchell Young as part of his estate**. Current ownership/stewardship is through 505 LLC and is reflected in the 2025 lease.
 
 ## Location / Name Handling Rule
 
@@ -34,17 +41,19 @@ Do not use **"The Wheel Tavern"** as an alternate name for 505 or 503. Family co
 
 ## Business Ownership / Operation
 
-- `E-005` / `E-022` / `E-031` - **Ray Hansen** is associated with the 505 Tavern **business** and is distinct from Raye Grisham. Earlier family history described a Hansen-to-Wiitanen business sale; exact transaction structure/date still needs documentary proof.
-- `E-006` - Willie worked under Ray Hansen and later during a period associated with Richard / Dick and Sheila.
-- Dick and Sheila owned the **505 real estate** while also associated with The Wheel at 503. Current family correction says they did **not normally operate the 505 tavern business** during that overlap. Any 505 business control may have occurred during repossession/default or transfer periods.
-- `E-030` - 6 April 1988 Commission record identifies The Dug Inn (formerly Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. This proves a transfer role but not routine long-term operation.
+- `E-005` / `E-031` - **Ray Hansen** belongs to the earlier 505 Tavern business history and is distinct from Raye Grisham. Family history places the later Dick/Sheila Brass Rail period after Hansen; exact sale and rename dates still need documentary proof.
+- `E-022` / `E-038` - **Dick and Sheila ran Brass Rail before they owned the 505 building**, then later bought the 505 real estate from Mrs. Nesmeth / Nemeth.
+- `E-006` - Willie worked under Ray Hansen and continued into a later 505 transition period associated with Dick and Sheila.
+- After the Wiitanens became landlords/property owners, later tavern-business ownership must be tracked separately from their continuing ownership of the building.
+- `E-030` - 6 April 1988 Commission record identifies The Dug Inn (formerly Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. This proves a transfer role at that point; the exact sequence leading into it remains open.
 - `E-004` / `OH-001` / `E-014` / `E-022` - Mitch Young owned and operated **505 Tavern**, March 1991-March 2004.
 - `E-029` - Commission liquor renewals name 505 Tavern in 1965 and 1972.
 - `E-045` - 1 September 1967 fire: 505 Tavern spared with smoke and water damage.
 - `E-046` - 8 February 1976 classified: 505 Tavern, Oregon City, 655-4321.
 - `E-034` - Berman stated he bought 505 Tavern in 2009.
 - `E-008` - Scott Forvilly purchased in 2017 and reopened as Thirsty Duck.
-- `E-009` / `E-022` - After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC.
+- `E-035` - 2017 permit lists Richard Martin Wiitanen as co-trustee/owner of the **real estate**, confirming continuing property ownership but not tavern operation.
+- `E-009` / `E-022` / `E-038` - Richard died in November 2024; the 505 real estate passed to Rodney Young and Mitchell Young as part of his estate.
 - `E-018` - 2025 commercial lease: 505 LLC lessor; lessee **Alan** (`P-019`; lease spelling Alin Guria).
 
 ## Physical Building / Footprint Notes
@@ -71,20 +80,19 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 | `BUS-005` | [505 Tavern](../businesses/the-505.md) | 505 business; 1965/1972 liquor records; Mitch 1991-2004. |
 | `BUS-006` | Thirsty Duck | Opened/reopened in 2017; still the current operating business as of August 2026. Current lessee: Alan (`P-019`). |
 | `BUS-009` | [The 505](../businesses/the-505.md) | Earlier archive handling label; keep for cross-reference. |
-| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Former 505 name; 1988 record connects it to The Dug Inn. Exact owner/operator chronology still being reconciled. |
+| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Dick and Sheila operated Brass Rail before they owned the 505 building; later 1988 record connects the former Brass Rail to The Dug Inn. |
 
-**The Wheel (`BUS-004`) is not a 505 business and is intentionally excluded from this building's related-business list.** The only relevant overlap is family/real-estate context.
+**The Wheel (`BUS-004`) is not a 505 business and is intentionally excluded from this building's related-business list.**
 
 ## Evidence Summary
 
 | ID | Type | Claim / Use |
 | --- | --- | --- |
 | `E-004` | Primary participant testimony | Mitch Young owned and operated 505 Tavern at 505 Main from March 1991 to March 2004; exact legal entity name still desirable. |
-| `E-005` | Family/oral history | Ray Hansen associated with the 505 Tavern business before Wiitanen-related transfer/repossessions; exact transaction structure pending. |
+| `E-005` | Family/oral history | Ray Hansen associated with the earlier 505 Tavern business; exact transition date into Dick/Sheila Brass Rail period pending. |
 | `E-006` | Family/oral history | Willie worked as bartender during Hansen and later transition-era periods. |
-| `E-007` | Family/oral history | Victor independently managed the restaurant during Raye Grisham's Wheel years at 503 and early Richard / Dick and Sheila years. |
 | `E-008` | Secondary source | Mike Berman sold the business; Scott Forvilly purchased it; it reopened as Thirsty Duck in 2017. |
-| `E-009` | Family/project provenance | After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC; grandmother's first marriage was LaFarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens. |
+| `E-009` | Family/project provenance | After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC. |
 | `E-010` | Family/oral history | Rear portion of 505 may have been added later. |
 | `E-011` | Owner observation | 505 may extend farther back than 503; 503 may be somewhat wider. |
 | `E-012` | Administrative record lead | Tax statements and tax records may help establish improvements, dates, and ownership history. |
@@ -92,9 +100,10 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 | `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Tavern at 505 Main. Keep `BUS-009` The 505 as the earlier handling label. |
 | `E-015` | Time Capsule Maps metadata | Reports 505 Tavern adjacent to The Wheel at 503 and lists Brass Rail Tavern as a 505 Main business lead. |
 | `E-018` | Current lease | Documents 2025 lease for 505 Main Street, current restaurant/bar use, and current parties. |
-| `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
-| `E-022` | Family correction | Confirms 503/505 business separation; Dick/Sheila's 505 overlap was primarily real-estate ownership, with possible brief business control during repossession/default or transfer periods. |
+| `E-019` | Family correction | Clarifies family relationships and death years for Richard / Dick and Sheila. |
+| `E-022` | Family correction | Confirms 503/505 business separation and the phased Wiitanen role at 505. |
 | `E-030` | Primary municipal | 1988 change-of-ownership from Dick or Sheila Wiitanen to the Cotterells for The Dug Inn, formerly Brass Rail. |
+| `E-038` | Family correction | Corrects Mrs. Nemeth/Nesmeth purchase from 503 to **505 Main**; Dick/Sheila operated Brass Rail before buying the building; Wiitanen property ownership continued through Dick's Nov. 2024 death and then passed through his estate to Rodney and Mitch. |
 
 ## Related Archive Pages
 
@@ -112,16 +121,16 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 
 - Confirm the exact construction date and building history for 505 Main.
 - Determine the formal business name during each 505 period (505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, and others).
-- Keep The Wheel exclusively in the 503 business chain.
 - Establish a year-by-year 505 **business-owner/operator** sequence separately from the **real-estate owner/landlord** sequence.
+- Find the deed/tax/assessor record for the Wiitanen purchase of **505 Main from Mrs. Nesmeth / Nemeth**, including exact date and correct spelling.
+- Reconstruct the Brass Rail business sale/transfer history after Dick and Sheila became property owners.
 - Reconcile the 1988 Wiitanen-to-Cotterell transfer with family recollections of repossession/default periods.
 - Confirm full formal names and records for Richard / Dick Wiitanen and Sheila Wiitanen.
 - Identify Willie by full name.
-- Identify Victor by full name and clarify his 503 restaurant-management role.
 - Confirm whether the rear portion of 505 was added later.
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
 - Confirm the reported 501 / 503 / 505 Sanborn map layout.
-- Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, repossessions, and business-sale documents.
+- Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
 
 ## Open Questions
 
@@ -129,10 +138,11 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - When was the rear portion of 505 added?
 - Does 505 Main extend farther back than 503 Main, and if so why and since when?
 - Is 503 Main wider than 505 Main, and what do maps/deeds/assessor records show?
+- When exactly did Dick and Sheila begin operating Brass Rail, and when did they buy the 505 building?
+- What is the correct spelling and identity of Mrs. Nesmeth / Nemeth?
 - What was the exact legal name of the 505 business during each ownership period?
-- What are the exact dates for Ray Hansen, Richard / Dick Wiitanen, Sheila Wiitanen, Victor, and Willie in their relevant roles?
-- Which Wiitanen 505 business-control periods, if any, were repossession/default intervals rather than ordinary operation?
+- Which later Wiitanen 505 business-control periods were repossession/default intervals rather than ordinary operation?
 - How did 505 Tavern relate to Brass Rail Tavern, The Dug Inn, The 505, Sports Keg, or any prior name/business entity?
+- What documentary evidence confirms the Nov. 2024 estate transfer of 505 Main to Rodney and Mitch?
 - What documentary evidence confirms the 2017 transition from 505 Tavern to Thirsty Duck?
 - What was at 501 Main, if anything, on the 1925 Sanborn map?
-- What records document the Lafarlette, Grisham, and Wiitanen family relationships and property/business ownership chain?
