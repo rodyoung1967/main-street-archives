@@ -54,7 +54,7 @@ This file connects the archive's ID systems so related records can be audited wi
 
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
-| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at 503 | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058` |
+| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at **503 only** | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058` |
 | `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-037`, `E-039`, `E-045`, `E-046`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053` |
 | `B-003` 507 Harding Building | `BUS-007` Harding Drug; `BUS-023` Dixon's Bakery | `E-016`, `E-017`, `E-045`; `S-052` |
 | `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
@@ -65,11 +65,11 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `P-003` J. Jager | `BUS-002`, `B-001`, `A-001` / `IMG-0001` | Named proprietor on New Kwality Cafe matchbook. |
 | `P-004` Larry | `BUS-003`, `B-001`, `A-002` / `IMG-0002` | Larry's Kwality Cafe name/person; surname unknown. |
-| `P-005` Ray Hansen | `BUS-005`, `B-002` | Sold 505 Tavern business to Dick and Sheila; distinct from Raye Grisham. |
-| `P-006` Raye Grisham | `BUS-004`, `B-001` | Grandmother; formerly Raye LaFarlette; bought The Wheel at 503. Supersedes older "Ray Grisham at 505" reading. |
-| `P-007` Richard / Dick Wiitanen | `B-002`, `B-001`, `BUS-004` | Bought 505 Tavern business from Hansen; renamed Brass Rail; later 505 real-estate interest. Oregonian August 1985 names him owner of The Wheel Cafe at 503. Died November 2024. |
-| `P-008` Sheila Wiitanen | `B-002` | Daughter of Floyd and Raye; bought 505 Tavern business with Dick; died 2014. |
-| `P-009` Willie | `B-002` | Bartender under Ray Hansen and Richard / Dick and Sheila. |
+| `P-005` Ray Hansen | `BUS-005`, `B-002` | Separate 505 Tavern history; distinct from Raye Grisham. Earlier family history described a Hansen-to-Wiitanen business transfer; exact structure/date still needs primary records. |
+| `P-006` Raye LaFarlette / Raye Grisham | `BUS-004`, `B-001` | Same woman across surname change; grandmother; bought The Wheel at 503. The surname change is not a business transfer. No 505 tavern operator role. Supersedes older "Ray Grisham at 505" reading. |
+| `P-007` Richard / Dick Wiitanen | `B-001`, `BUS-004`, `B-002` | Oregonian August 1985 names him owner of The Wheel Cafe at 503. Also 505 real-estate owner/co-trustee. April 1988 505 business-transfer record names Dick or Sheila as transferor; current family clarification says any 505 business control may have been temporary during repossession/default or transfer, not ordinary concurrent operation. Died November 2024. |
+| `P-008` Sheila Wiitanen | `B-001`, `B-002` | Daughter of Floyd and Raye; associated with the later Wheel/Wiitanen period and 505 real-estate ownership. April 1988 505 transfer record may name Dick or Sheila as transferor; do not infer routine 505 tavern operation from property ownership or this isolated transfer role. Died 2014. |
+| `P-009` Willie | `B-002` | Bartender under Ray Hansen and later transition-era periods; full identity and exact employers still open. |
 | `P-010` Victor | `BUS-004`, `B-001` | Restaurant manager in Raye Grisham's Wheel years and early Wiitanen years. |
 | `P-011` Mitch / Mitchell (C.) Young | `BUS-005`, `BUS-009`, `B-002`, `E-004` | Same person as P-018. Ran 505 Tavern March 1991-March 2004; not The Wheel. Do not claim he restored it. |
 | `P-012` Mike Berman | `BUS-005`, `B-002` | Told Commission he bought 505 Tavern in 2009; sold in 2017. |
