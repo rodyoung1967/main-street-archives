@@ -200,9 +200,9 @@ Current family handling:
 - Sheila died in 2014.
 - Richard / Dick died in November 2024.
 
-## Legacy Paths
+## Retired Legacy Paths
 
-The following top-level folders are legacy holding areas and are not canonical destinations for new material:
+The former top-level holding folders below were audited and retired on 18 August 2026 after their useful guidance was consolidated into the canonical structure:
 
 ```text
 photos/
@@ -210,9 +210,9 @@ deeds/
 tax-records/
 ```
 
-Use `media/photos/` for photos and `records/` for deeds/tax/assessor material. Legacy paths should be retained until their contents and references have been audited; remove them only after project-steward approval.
+Do not recreate them. Use `media/photos/` for photos and `records/` for deeds, tax, assessor, permit, lease, and similar records.
 
-`media/catalog.md` is a legacy navigation shim. The canonical image/media metadata register is `media/photo-metadata-register.md`.
+`media/catalog.md` remains a legacy navigation shim. The canonical image/media metadata register is `media/photo-metadata-register.md`.
 
 ## File Naming Rules
 

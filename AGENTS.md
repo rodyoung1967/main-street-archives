@@ -25,7 +25,7 @@ Use these destinations for new/integrated source files:
 - Deeds, tax, assessor, permit, lease, and other administrative/legal records → `records/`
 - Physical-object images such as matchbooks and matchcovers → `artifacts/`
 
-The top-level `photos/`, `deeds/`, and `tax-records/` paths are legacy holding areas. Do not add new material there. Audit references before proposing their removal.
+The former top-level `photos/`, `deeds/`, and `tax-records/` holding areas were retired after project-steward approval on 18 August 2026. Do not recreate them; use the canonical destinations above.
 
 Use `media/photo-metadata-register.md` as the canonical image/media metadata register. `media/catalog.md` is a legacy navigation shim only.
 
