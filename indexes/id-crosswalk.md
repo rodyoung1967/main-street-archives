@@ -38,7 +38,7 @@ This file connects the archive's ID systems so related records can be audited wi
 ## Sanborn Map Crosswalk
 
 | Map ID | Source | Repository file | Evidence / comparison | Buildings |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | `SM-001` Sanborn key | `S-014` | `maps/sanborn/originals/sanborn key.pdf` | Supports interpretation of all Sanborn evidence | `B-001`, `B-002`, `B-003` |
 | `SM-002` 1884 master map | `S-015` | `maps/sanborn/originals/1884-01- Master Map (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
 | `SM-003` 1888 Sanborn | `S-016` | `maps/sanborn/originals/1888-02 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
@@ -54,8 +54,8 @@ This file connects the archive's ID systems so related records can be audited wi
 
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
-| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at **503 only** | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-038`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058` |
-| `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-037`, `E-039`, `E-045`, `E-046`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053` |
+| `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at **503 only** | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058`. **Do not attach `E-038` to 503; the former Mrs. Nemeth/Nesmeth 503 purchase claim is superseded.** |
+| `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-039`, `E-041`, `E-045`, `E-046`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053`. `E-038` records the corrected Wiitanen purchase of the **505 building** from Mrs. Nesmeth/Nemeth after they had already begun operating Brass Rail. |
 | `B-003` 507 Harding Building | `BUS-007` Harding Drug; `BUS-023` Dixon's Bakery | `E-016`, `E-017`, `E-045`; `S-052` |
 | `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
 
@@ -65,17 +65,17 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `P-003` J. Jager | `BUS-002`, `B-001`, `A-001` / `IMG-0001` | Named proprietor on New Kwality Cafe matchbook. |
 | `P-004` Larry | `BUS-003`, `B-001`, `A-002` / `IMG-0002` | Larry's Kwality Cafe name/person; surname unknown. |
-| `P-005` Ray Hansen | `BUS-005`, `B-002` | Separate 505 Tavern history; distinct from Raye Grisham. Earlier family history described a Hansen-to-Wiitanen business transfer; exact structure/date still needs primary records. |
+| `P-005` Ray Hansen | `BUS-005`, `B-002` | Separate 505 Tavern history; distinct from Raye Grisham. Family history places him before Dick/Sheila's Brass Rail period; exact sale date pending. |
 | `P-006` Raye LaFarlette / Raye Grisham | `BUS-004`, `B-001` | Same woman across surname change; grandmother; bought The Wheel at 503. The surname change is not a business transfer. No 505 tavern operator role. Supersedes older "Ray Grisham at 505" reading. |
-| `P-007` Richard / Dick Wiitanen | `B-001`, `BUS-004`, `B-002` | Oregonian August 1985 names him owner of The Wheel Cafe at 503. Also 505 real-estate owner/co-trustee. April 1988 505 business-transfer record names Dick or Sheila as transferor; current family clarification says any 505 business control may have been temporary during repossession/default or transfer, not ordinary concurrent operation. Died November 2024. |
-| `P-008` Sheila Wiitanen | `B-001`, `B-002` | Daughter of Floyd and Raye; associated with the later Wheel/Wiitanen period and 505 real-estate ownership. April 1988 505 transfer record may name Dick or Sheila as transferor; do not infer routine 505 tavern operation from property ownership or this isolated transfer role. Died 2014. |
+| `P-007` Richard / Dick Wiitanen | `B-001`, `BUS-004`, `B-002`, `BUS-010` | Oregonian August 1985 names him owner of The Wheel Cafe **business** at 503. At 505, family history says Dick and Sheila **operated Brass Rail before owning the building**, then later purchased the **505 real estate** from Mrs. Nesmeth/Nemeth. 2017 permit confirms continuing 505 property interest. Died November 2024; 505 then passed through his estate to Rodney and Mitch. |
+| `P-008` Sheila Wiitanen | `B-001`, `B-002`, `BUS-010` | Daughter of Floyd and Raye. Operated Brass Rail at 505 with Dick before they owned the building; later co-purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Died 2014; Wiitanen property ownership continued through Dick's death in 2024. |
 | `P-009` Willie | `B-002` | Bartender under Ray Hansen and later transition-era periods; full identity and exact employers still open. |
 | `P-010` Victor | `BUS-004`, `B-001` | Restaurant manager in Raye Grisham's Wheel years and early Wiitanen years. |
-| `P-011` Mitch / Mitchell (C.) Young | `BUS-005`, `BUS-009`, `B-002`, `E-004` | Same person as P-018. Ran 505 Tavern March 1991-March 2004; not The Wheel. Do not claim he restored it. |
+| `P-011` Mitch / Mitchell (C.) Young | `BUS-005`, `BUS-009`, `B-002`, `E-004` | Same person as P-018. Ran 505 Tavern March 1991-March 2004; not The Wheel. Do not claim he restored it. Inherited 505 Main with Rodney from Dick's estate after Nov. 2024. |
 | `P-012` Mike Berman | `BUS-005`, `B-002` | Told Commission he bought 505 Tavern in 2009; sold in 2017. |
 | `P-013` Scott Forvilly | `BUS-006`, `B-002` | Purchased/reopened as Thirsty Duck in 2017. |
-| `P-014` Rodney Young | `B-002`, archive steward | Co-owner of 505 with Mitchell Young through 505 LLC. |
-| `P-018` Mitchell C. Young | `B-002`, `BUS-005` | Same person as P-011; legal/lease form of the name; 505 LLC managing member. |
+| `P-014` Rodney Young | `B-002`, archive steward | Inherited 505 Main with Mitchell Young from Dick Wiitanen's estate after Nov. 2024; co-owner through 505 LLC. |
+| `P-018` Mitchell C. Young | `B-002`, `BUS-005` | Same person as P-011; legal/lease form of the name; 505 LLC managing member. Inherited 505 with Rodney after Dick's death. |
 | `P-034` Henry Brightbill | `B-001` | Merchant with a store at 503 Main in 1908 (`E-042`). |
 | `P-019` Alan / Alin Guria | `B-002`, `E-018`, `S-011` | Current lessee. Lease spelling Alin; steward confirmation Alan. |
 | `P-020` Skyline Property Management | `B-002`, `E-018`, `S-011` | 2025 lease property manager / authorized agent. |
