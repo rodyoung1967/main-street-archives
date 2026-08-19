@@ -33,9 +33,13 @@ Who was J. Jager, proprietor of New Kwality Cafe?
 What was Larry's full name, and what was his relationship to Larry's Kwality Cafe?
 
 ## OQ-009 — The Wheel Location and Name
-Status: Partially answered.
+Status: Location and 503/505 separation answered; exact historical name sequence still partly open.
 
-**The Wheel was at 503 Main.** Family confirmation: Raye Grisham bought The Wheel at 503 (`E-022`). Primary municipal evidence: 7 June 1967 Commission minutes, "the Wheel located at 503 Main Street" (`E-025`). Newspapers document **Wheel Cafe** (1960, 1983, 1985) and **Wheel Restaurant** (1967 fire). Remaining question: legal-name sequence vs public trade-name variants.
+**The Wheel was only at 503 Main and was never a 505 Main business.** Family correction and primary municipal evidence agree on 503 (`E-022`, `E-025`). Newspapers document **Wheel Cafe** (1960, 1983, 1985), **The Wheel** (1967 Commission minutes), and **Wheel Restaurant** (1967 fire).
+
+**"The Wheel Tavern" was not an official business name.** The wording appears in a 2017 secondary article (`E-001`) and should be retained only as that article's wording, not treated as a historical trade name or legal-name variant.
+
+**Still open:** the exact legal/trade-name sequence among The Wheel, Wheel Cafe, and Wheel Restaurant, and the dates attached to each form.
 
 ## OQ-010 — Mitch Young Business Name
 Status: Partially answered.
@@ -45,15 +49,15 @@ Working trade name for March 1991-March 2004 is **505 Tavern** (`BUS-005`). Mitc
 ## OQ-011 — Brass Rail Tavern
 Status: Partially answered.
 
-Family history: Dick and Sheila renamed 505 Tavern to Brass Rail after buying the business from Ray Hansen (`E-031`). Primary municipal evidence: 6 April 1988 Commission record, The Dug Inn (formerly The Brass Rail) at 505 Main (`E-030`). 1981 Sandy Post Brass Rail ad is Troutdale and withdrawn (`E-036`). Remaining: exact start date and full operator list.
+Primary municipal evidence identifies The Dug Inn (formerly The Brass Rail) at 505 Main in April 1988 (`E-030`). Earlier family history said Ray Hansen sold the 505 Tavern business to Dick and Sheila and that it became Brass Rail (`E-031`). The newer family clarification narrows how that should be interpreted: Dick and Sheila's normal overlap with 505 while they ran The Wheel was **real-estate ownership**, not ordinary operation of the 505 tavern; any period in which they controlled the 505 business may have been temporary during repossession/default or a transfer interval. Exact dates and the legal nature of the Hansen/Wiitanen/Brass Rail sequence still need primary business and liquor records.
 
 ## OQ-012 — Ray Hansen / Raye Grisham
 Status: Answered as to identity; dates still open.
 
-They are **different people**. **Raye Grisham** (`P-006`) is Rodney's grandmother (woman; formerly Raye LaFarlette) and bought **The Wheel at 503**. **Ray Hansen** (`P-005`) sold the **505 Tavern business** to Dick and Sheila. Earlier archive notes that treated "Ray Grisham" as a possibly male 505 owner are superseded (`E-022`). Exact transaction dates still need records.
+They are **different people**. **Raye Grisham** (`P-006`) is Rodney's grandmother (woman; formerly Raye LaFarlette) and bought **The Wheel at 503**. **Ray Hansen** (`P-005`) is associated with the **505 Tavern business**. Earlier archive notes that treated "Ray Grisham" as a possibly male 505 owner are superseded (`E-022`). Exact transaction dates still need records.
 
 ## OQ-013 — Richard / Dick Wiitanen and Sheila Wiitanen
-What were Richard / Dick Wiitanen and Sheila Wiitanen's exact ownership/operation dates and business records for the 505 business after Ray Hansen?
+What were Richard / Dick Wiitanen and Sheila Wiitanen's exact dates as owners/operators of The Wheel at 503, owners of the 505 real estate, and any temporary holders of the 505 business during repossession/default or transfer periods? Do not treat 503 Wheel operation and 505 tavern operation as a single combined business. The 6 April 1988 change-of-ownership record (`E-030`) needs to be reconciled with the family clarification that they did not normally run the 505 tavern while operating The Wheel.
 
 ## OQ-014 — Willie
 What was bartender Willie's full name, and when did he work at 505 Main?
@@ -78,7 +82,15 @@ Was the current 507 Main building completed in 1968, 1969, or another year?
 What work was done to 503 Main around 2017, and what permits, photos, or assessor records document it?
 
 ## OQ-020 — Family Name / Ownership Chain
-What records document the Young, LaFarlette, Grisham, and Wiitanen family relationships and ownership chain? Current internal correction: grandmother is Raye Grisham (first marriage LaFarlette); she bought The Wheel at 503. Ray Hansen sold 505 Tavern to Dick and Sheila. After Richard Wiitanen's death, 505 passed to Rodney Young and Mitchell Young jointly.
+Status: Partly clarified; transaction documents still open.
+
+**Raye LaFarlette and Raye Grisham are the same person.** A change from LaFarlette to Grisham in records should therefore be treated first as a surname/family-status change, not as evidence that The Wheel changed owners.
+
+Working family interpretation: the later transition from **Raye Grisham to Richard / Dick and Sheila Wiitanen at The Wheel, 503 Main**, was a **sale of the business**. Primary records are still needed for the exact sale date, terms, liquor-license transfer, and whether Sheila, Dick, or both were the named purchasers/licensees.
+
+The 503 and 505 businesses should remain separate ownership chains. The meaningful overlap was that Dick and Sheila could own the **505 real estate** while operating The Wheel at 503; that does not make them operators of the 505 tavern. Any 505 business control by them may have been temporary during repossession/default or transfer periods and needs documentary confirmation.
+
+After Richard Wiitanen's death, 505 real estate passed to Rodney Young and Mitchell Young jointly.
 
 ## OQ-021 — Time Capsule Maps Image Sources
 What are the original source collections, dates, photographers, and licensing terms for the Main Street images represented in trusted Time Capsule Maps metadata?
