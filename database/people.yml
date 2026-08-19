@@ -39,8 +39,8 @@ people:
 
   - id: P-005
     name: Ray Hansen
-    role: Owner/operator of 505 Tavern business
-    notes: Sold the 505 Tavern business to Dick and Sheila Wiitanen. Distinct from Raye Grisham (P-006). Historical Society v5 used Hanson as a search variant; current family confirmation keeps Hansen.
+    role: Earlier 505 Tavern owner/operator
+    notes: Distinct from Raye Grisham (P-006). Earlier family history described a Hansen-to-Wiitanen 505 business transfer; exact transaction and Brass Rail chronology are now open because the 19 August 2026 clarification says Dick and Sheila did not ordinarily run the 505 business while operating The Wheel. Historical Society v5 used Hanson as a search variant; current family confirmation keeps Hansen.
     related_buildings:
       - B-002
     related_businesses:
@@ -49,7 +49,7 @@ people:
   - id: P-006
     name: Raye LaFarlette / Raye Grisham
     role: Grandmother; bought The Wheel at 503 Main
-    notes: Woman. Previously recorded as possibly male Ray Grisham at 505; superseded 2026-08-16. First marriage LaFarlette, second Grisham. Bought The Wheel at 503 Main. Not the same person as Ray Hansen.
+    notes: Woman. Raye LaFarlette and Raye Grisham are the same person; the surname change followed divorce/remarriage and is not evidence of a Wheel business transfer. Bought The Wheel at 503 Main. The Wheel was never at 505. Previously recorded as possibly male Ray Grisham at 505; superseded August 2026. Not the same person as Ray Hansen.
     related_buildings:
       - B-001
     related_businesses:
@@ -60,39 +60,41 @@ people:
 
   - id: P-007
     name: Richard / Dick Wiitanen
-    role: Owner / stepfather
-    notes: Bought the 505 Tavern business from Ray Hansen with Sheila and renamed it Brass Rail. Later real-estate interest in 505. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main. Died November 2024.
+    role: 503 Wheel owner; 505 property owner / transfer-role evidence
+    notes: Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main. Also owned/co-owned 505 real estate. An April 1988 505 change-of-ownership record names Dick or Sheila as business transferor; current family clarification says any 505 business control may have been temporary during repossession/default or transfer rather than ordinary concurrent operation. Died November 2024.
     related_buildings:
       - B-001
       - B-002
     related_businesses:
+      - BUS-004
       - BUS-005
       - BUS-010
       - BUS-016
-      - BUS-004
 
   - id: P-008
     name: Sheila Wiitanen
-    role: Owner / mother
-    notes: Daughter of Floyd and Raye LaFarlette. Bought the 505 Tavern business from Ray Hansen with Richard / Dick. Died 2014.
+    role: 503 Wheel / 505 property context
+    notes: Daughter of Floyd and Raye LaFarlette. Associated with the later Wiitanen Wheel period and ownership of the 505 building. An April 1988 505 transfer record may name Dick or Sheila as transferor; do not infer routine 505 tavern operation from property ownership or that isolated transfer role. Died 2014.
     related_buildings:
       - B-001
       - B-002
     related_businesses:
+      - BUS-004
       - BUS-005
       - BUS-010
+      - BUS-016
 
   - id: P-009
     name: Willie
     role: Bartender
-    notes: Heavyset bartender; worked under Ray Hansen and Richard / Dick and Sheila.
+    notes: Heavyset bartender; family memory places him under Ray Hansen and into a later 505 transition period. Exact employer/ownership chronology remains open.
     related_buildings:
       - B-002
 
   - id: P-010
     name: Victor
     role: Restaurant manager
-    notes: Independently managed restaurant during Raye Grisham's Wheel years at 503 and early Richard / Dick and Sheila years. Surname unknown.
+    notes: Independently managed the restaurant during Raye Grisham's Wheel years at 503 and the early Wiitanen Wheel period. Surname unknown. This is 503 history, not evidence of 505 tavern operation.
     related_buildings:
       - B-001
     related_businesses:
@@ -147,13 +149,13 @@ people:
     notes: Grandmother's second marriage was Grisham. Canonical person is P-006 Raye Grisham, not a separate male 505 owner.
     related_buildings:
       - B-001
-      - B-002
 
   - id: P-017
     name: Wiitanen family
     role: Family history context
-    notes: User's mother Sheila and stepfather Richard / Dick were Wiitanens; this belongs to the mother/stepfather branch.
+    notes: User's mother Sheila and stepfather Richard / Dick were Wiitanens. Their history touches The Wheel at 503 and real-estate ownership/transfer context at 505; the businesses remain separate.
     related_buildings:
+      - B-001
       - B-002
 
   - id: P-018
@@ -185,10 +187,9 @@ people:
   - id: P-021
     name: LaFarlette family
     role: Family history context
-    notes: Grandmother's first marriage. Archive previously used Lafarlette; Historical Society v5 uses LaFarlette. Preserve both until deeds prove one form.
+    notes: Grandmother's first marriage. Archive previously used Lafarlette; Historical Society v5 uses LaFarlette. Preserve both until deeds prove one form. This belongs to the 503 Wheel family history, not a 505 business-owner chain.
     related_buildings:
       - B-001
-      - B-002
 
   - id: P-022
     name: Floyd LaFarlette
@@ -272,7 +273,7 @@ people:
   - id: P-031
     name: Cotterell
     role: 1988 505 business transferee
-    notes: 1988 Commission record transfers Dug Inn formerly Brass Rail from Dick or Sheila Wiitanen to the Cotterells.
+    notes: 1988 Commission record transfers Dug Inn formerly Brass Rail from Dick or Sheila Wiitanen to the Cotterells. This proves a business-transfer role at that moment, not routine prior Wiitanen operation.
     related_buildings:
       - B-002
     related_businesses:
