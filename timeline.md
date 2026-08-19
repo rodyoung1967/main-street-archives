@@ -48,29 +48,35 @@ The 1950 revised Sanborn sheet continues to show separate 503, 505, and 507 occu
 ## 1940s-1950s
 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe. Matchbooks document J. Jager and Larry's Kwality Cafe at 503 Main. The 1950 Sanborn restaurant label at 503 is consistent with a restaurant/cafe use in this period, but does not by itself prove the Kwality name.
 
-## 1971 memory / later recollection
-A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
-
 ## 1 September 1967 Main Street fire
 Oregonian of 2 September 1967 reports a Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery were gutted. **The Wheel Restaurant and the 505 Tavern are named separately** and were both spared with smoke and water damage. This reinforces that they were distinct establishments. Reported origin: Howard Cohn furniture warehouse. Earlier late-1968/1969 fire-date notes are superseded for the date. Replacement-building year still pending.
 
+## 1971 memory / later recollection
+A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
+
 ## Family context: LaFarlette / Grisham / Wiitanen
-**Raye LaFarlette and Raye Grisham are the same woman.** The surname change followed divorce/remarriage and is not itself a transfer of The Wheel. Raye bought **The Wheel at 503 Main**, and **The Wheel was only at 503**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. After Richard's death, **505 Main passed to Rodney Young and Mitchell Young jointly** through 505 LLC.
+**Raye LaFarlette and Raye Grisham are the same woman.** The surname change followed divorce/remarriage and is not itself a transfer of The Wheel. Raye bought **The Wheel at 503 Main**, and **The Wheel was only at 503**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens.
 
 ## The Wheel at 503
-Raye LaFarlette / Raye Grisham bought The Wheel at **503 Main**. Oregonian 1960 places the Wheel Cafe at 5th and Main. Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St. Victor independently managed the restaurant portion during Raye's years and the early Wiitanen Wheel period.
+Raye LaFarlette / Raye Grisham bought The Wheel at **503 Main**. Oregonian 1960 places the Wheel Cafe at 5th and Main. Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe **business** at 503 Main St. Victor independently managed the restaurant portion during Raye's years and the early Wiitanen Wheel period.
 
 **"The Wheel Tavern" was never an official business name.** The phrase appears in a 2017 secondary article and is retained only as that source's wording.
 
-Working family interpretation: the later **Raye Grisham → Wiitanen transition at The Wheel was a sale of the 503 business**. The exact date, parties, terms, and liquor-license transfer remain to be documented.
+Working family interpretation: the later **Raye Grisham → Wiitanen transition at The Wheel was a sale of the 503 business**. The exact date, parties, terms, and liquor-license transfer remain to be documented. The former family claim that Dick and Sheila bought the **503 building** from Mrs. Nemeth/Nesmeth is superseded; that property purchase belongs to **505 Main**.
 
-## 505 Tavern / Ray Hansen / Wiitanen property overlap
-Ray Hansen belongs to the **separate 505 Tavern business history** and is not Raye Grisham. Earlier family history described a Hansen-to-Wiitanen sale followed by the Brass Rail name. The 19 August 2026 clarification narrows that simple sequence: while Dick and Sheila operated **The Wheel at 503**, they also owned the **505 building**, but **did not ordinarily run the 505 tavern business**. The businesses retained separate ownership/operator chains.
+## 505 Tavern / Ray Hansen
+Ray Hansen belongs to the **separate 505 Tavern business history** and is not Raye Grisham. Family history places Hansen before the Dick/Sheila Wiitanen Brass Rail period. Exact Hansen-to-Wiitanen business-sale and Brass Rail rename dates remain open.
 
-Any Dick/Sheila control of the 505 business may have been brief during **repossession, non-payment/default, or a transfer interval**. Bartender Willie is remembered across Hansen and a later 505 transition period, but the exact legal employer/operator chronology remains open.
+## Dick and Sheila run Brass Rail before owning 505
+Family clarification of 19 August 2026 establishes that **Dick and Sheila Wiitanen ran Brass Rail at 505 Main for a period while they did not yet own the building** (`E-022`, `E-031`, `E-038`). This is an operating-business phase distinct from later real-estate ownership.
 
-## Brass Rail / Dug Inn
-Brass Rail and The Dug Inn belong to the **505 Main** chain, not The Wheel. A 6 April 1988 Commission record identifies The Dug Inn (formerly The Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells (`E-030`). This proves a Wiitanen **business-transfer role at that moment**, but not routine long-term operation of the 505 tavern. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.
+## Later Wiitanen purchase of 505 Main
+After their Brass Rail operation had begun, Dick and Sheila **purchased the 505 Main building** from a woman remembered as **Mrs. Nesmeth / Nemeth** (spelling uncertain) (`E-038`). Exact purchase date and deed remain open. This corrects the earlier archive claim that the Mrs. Nemeth/Nesmeth sale involved 503 Main.
+
+After this purchase, the Wiitanens remained owners/landlords of the **505 real estate** while the tavern business later passed through other owners/operators. Later Wiitanen appearances in business-transfer records may therefore reflect a sale, repossession, non-payment/default, or transfer interval rather than continuous operation.
+
+## Brass Rail / Dug Inn later transfer cycle
+Brass Rail and The Dug Inn belong to the **505 Main** chain, not The Wheel. A 6 April 1988 Commission record identifies The Dug Inn (formerly The Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells (`E-030`). Family history places this within the later post-property-purchase sale/repo/transfer cycle, not at the beginning of Dick and Sheila's 505 involvement. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.
 
 The exact sequence from Ray Hansen through Brass Rail, Dug Inn, repossessions/defaults, Sports Keg, and later operators remains an open research question.
 
@@ -81,16 +87,16 @@ Mitch / Mitchell (C.) Young (same person) **ran 505 Tavern** at 505 Main. Confir
 The rear portion of 505 may have been added later, based on family/oral history. There is also an unresolved physical-boundary question: 505 may extend farther back than 503, while 503 may be somewhat wider. Tax records, assessor sketches, Sanborn maps, permits, deeds, and measurements should be used to test this.
 
 ## 2014
-Sheila Wiitanen died in 2014.
+Sheila Wiitanen died in 2014. Wiitanen ownership of the 505 real estate continued through Richard / Dick Wiitanen.
 
 ## Around 2017
 Time Capsule Maps metadata reports that 503 Main Street underwent significant modification around 2017. This needs confirmation through permits, photos, assessor records, and business-opening records.
 
 ## 2017
-505 Tavern was sold and reopened as Thirsty Duck. White Rabbit Black Ink opened at 503 Main.
+505 Tavern was sold and reopened as Thirsty Duck. White Rabbit Black Ink opened at 503 Main. An April 2017 permit lists Richard Martin Wiitanen as co-trustee/owner of 505 Main, independently confirming continuing Wiitanen **real-estate** ownership at that date (`E-035`).
 
-## November 2024
-Richard / Dick Wiitanen died in November 2024.
+## November 2024 — 505 estate succession
+Richard / Dick Wiitanen died in **November 2024**. Family clarification says the **505 Main building passed to Rodney Young and Mitchell Young as part of Dick's estate** (`E-009`, `E-022`, `E-038`). Probate/deed documentation is still desirable.
 
 ## July 1, 2025-June 30, 2030
 A 2025 commercial lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main Street, with restaurant/bar use, base rent of $2,700/month, NNN-style additional rent, and Skyline Property Management as property manager/authorized agent.
