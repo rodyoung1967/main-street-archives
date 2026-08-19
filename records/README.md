@@ -27,6 +27,21 @@ Existing standalone records may remain directly under `records/` until moving th
 - Record parcel/APN, recording number, permit number, document date, parties, and provenance when available.
 - Preserve uncertainty when a record is incomplete or ambiguous.
 
+## Tax and Assessor Research Uses
+
+Tax statements, assessor materials, parcel records, tax cards, and improvement records are especially useful for testing:
+
+- construction dates for 503 and 505 Main;
+- whether the 1919 date for 503 reflects original construction, remodel, rebuild, or inherited record data;
+- whether the rear portion of 505 was added later;
+- whether 505 extends farther back than 503;
+- whether 503 is wider than 505;
+- parcel descriptions and legal boundaries between 503 and 505;
+- assessed improvement changes over time;
+- ownership clues involving the Young, Grisham, and Wiitanen family history.
+
+Do not summarize a tax or assessor record generally without creating a specific evidence item or transcription note. Each record should eventually be linked to the Evidence Register and Source Register.
+
 ## Legacy Paths
 
-The top-level `deeds/` and `tax-records/` folders are older holding areas. Do not add new material there. Their contents and references should be audited before removal, and no deletion should occur without project-steward approval.
+The top-level `deeds/` and `tax-records/` folders are older holding areas. Do not add new material there. Their useful handling/research guidance has been consolidated here. Their contents and references should still be audited before removal, and no deletion should occur without project-steward approval.
