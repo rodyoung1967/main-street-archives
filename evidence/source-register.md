@@ -228,3 +228,65 @@ Repository file: `records/historical-society/503-505-main-historical-society-edi
 Original filename: `503_505_Main_Street_Historical_Society_Edition_v5.docx`  
 Related evidence: `E-040`  
 Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations.
+
+## S-049 — Oregonian clipping, 1908, 503 Main / missing-girl item
+Repository file: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`  
+Original filename: `503 Main st Missing Girl 1908 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed; do not use the filename alone as evidence for a historical claim.
+
+## S-050 — Oregonian clipping, 1937, Kwality Cafe for-sale item
+Repository file: `newspapers/oregonian/1937-kwality-cafe-for-sale-oregonian.png`  
+Original filename: `Kwality Cafe for sale 1937 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed; do not infer sale terms, ownership, address, or date details from the filename alone.
+
+## S-051 — Oregonian clipping, 1960, Wheel Cafe
+Repository file: `newspapers/oregonian/1960-wheel-cafe-oregonian.png`  
+Original filename: `Wheel Cafe 1960 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. Read the clipping before using it to establish the Wheel name, address, operator, or chronology.
+
+## S-052 — Newspaper clipping, September 1967, Wheel / 505 fire
+Repository file: `newspapers/other/1967-09-wheel-505-fire-publication-unconfirmed.png`  
+Original filename: `Wheel & 505 Fire September 1967.png`  
+Status: `needs-transcription`  
+Publication: Unconfirmed; steward confirmation requested.  
+Notes: The filename indicates a September 1967 Wheel/505 fire topic, but the clipping itself must be read before any claim is created.
+
+## S-053 — Oregonian clipping, 1976, 505 Main classified
+Repository file: `newspapers/oregonian/1976-505-main-classified-oregonian.png`  
+Original filename: `505 Classified 1976 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. Read the classified before using it for business, property, ownership, or operator chronology.
+
+## S-054 — Oregonian clipping, 1983, The Wheel
+Repository file: `newspapers/oregonian/1983-the-wheel-oregonian.png`  
+Original filename: `Wheel 1983 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed.
+
+## S-055 — Oregonian clipping, 1983, Wheel Cafe
+Repository file: `newspapers/oregonian/1983-wheel-cafe-oregonian.png`  
+Original filename: `Wheel Cafe 1983 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed.
+
+## S-056 — Oregonian clipping, August 1985, The Wheel
+Repository file: `newspapers/oregonian/1985-08-the-wheel-oregonian.png`  
+Original filename: `The Wheel Aug 1985 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and month/year are taken from the uploaded filename. The clipping has not yet been transcribed.
+
+## S-057 — Oregonian clipping, 1985, The Wheel
+Repository file: `newspapers/oregonian/1985-the-wheel-oregonian.png`  
+Original filename: `Wheel 1985 Oregonian.png`  
+Status: `needs-transcription`  
+Notes: Publication and year are taken from the uploaded filename. The clipping has not yet been transcribed.
+
+## S-058 — Newspaper clipping, August 1985, The Wheel
+Repository file: `newspapers/other/1985-08-the-wheel-publication-unconfirmed.png`  
+Original filename: `The Wheel August 1985.png`  
+Status: `needs-transcription`  
+Publication: Unconfirmed; steward confirmation requested.  
+Notes: The filename indicates an August 1985 Wheel topic, but the clipping itself must be read before any claim is created.
