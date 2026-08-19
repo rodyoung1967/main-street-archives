@@ -118,9 +118,16 @@ If evidence changes:
 
 - Mitch / Mitchell (C.) Young's confirmed March 1991-March 2004 period belongs to **505 Tavern at 505 Main Street**. He **ran** the business. Do **not** say he restored the name, fixtures, or building. Keep `BUS-009` The 505 as an earlier handling label. Do not label this period The Wheel.
 - **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`). Do not treat them as two people. Do not renumber or merge the IDs.
-- **The Wheel (`BUS-004`) is at 503 Main.** Raye Grisham (`P-006`, grandmother; formerly Raye LaFarlette) bought The Wheel at 503. Oregon City Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street.
-- **Ray Hansen (`P-005`) and Raye Grisham (`P-006`) are different people.** Hansen sold the 505 Tavern **business** to Dick and Sheila Wiitanen. Do not merge Hansen with Grisham.
-- Property ownership, business ownership, and liquor-license ownership are separate questions.
+- **The Wheel (`BUS-004`) was only at 503 Main and was never a 505 Main business.** Never link `BUS-004` to `B-002` as a business/building relationship.
+- **"The Wheel Tavern" was never an official business name.** The phrase may be preserved only as wording from the 2017 secondary article (`E-001`); do not present it as a legal name, trade name, or historical name variant.
+- **Raye LaFarlette and Raye Grisham (`P-006`) are the same woman.** The surname change followed divorce/remarriage and is not evidence of a Wheel business transfer. Raye bought The Wheel at 503.
+- **Ray Hansen (`P-005`) and Raye Grisham (`P-006`) are different people.** Hansen belongs to the separate 505 Tavern history. Do not merge Hansen with Grisham.
+- **The 503 Wheel business and the 505 tavern business had separate ownership/operator chains.** Do not infer common business ownership or operation merely because the same family had interests in both buildings.
+- While Dick and Sheila Wiitanen operated The Wheel at 503, they also owned the **505 real estate**. That landlord/property role does **not** establish that they ordinarily operated the 505 tavern business.
+- Any Dick/Sheila control of the **505 business** may have been brief during **repossession, non-payment/default, or transfer**. The 6 April 1988 Wiitanen-to-Cotterell record (`E-030`) proves a transfer role at that moment, not routine long-term 505 operation.
+- The earlier family wording that Ray Hansen sold 505 Tavern to Dick and Sheila and they renamed it Brass Rail is preserved in `E-031` but **narrowed by the 19 August 2026 clarification in `E-022`**. Do not present that simple continuous operator chain as settled fact until primary records reconcile it.
+- Working family interpretation: the later **Raye Grisham → Wiitanen transition at The Wheel was a sale of the 503 business**. Keep the exact date, parties, terms, and liquor-license transfer open pending primary records.
+- Property ownership, business ownership, business operation, and liquor-license ownership are separate questions.
 - After Richard Wiitanen's death, 505 Main real estate passed to **Rodney Young and Mitchell Young** jointly through 505 LLC.
-- The Wheel, The 505, 505 Tavern, Brass Rail Tavern, The Dug Inn, and Thirsty Duck remain related but distinct business-name records until primary records prove continuity.
+- The Wheel, The 505, 505 Tavern, Brass Rail Tavern, The Dug Inn, and Thirsty Duck remain related but distinct business-name records until primary records prove continuity. The Wheel is the exception geographically: it belongs only to 503.
 - Sanborn maps are primary map sources for footprint, materials, street layout, and address numbering, but map readings still require careful transcription and symbol interpretation.
