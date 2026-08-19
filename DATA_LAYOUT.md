@@ -163,7 +163,7 @@ Building-specific narrative files live under:
 ```text
 buildings/503-main.md
 buildings/505-main.md
-buildings/507-main.md
+buildings/507-harding-building.md
 ```
 
 ## Businesses
