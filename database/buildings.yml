@@ -2,7 +2,7 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
-    notes: Associated with Kwality Cafe lineage, The Wheel at 503 (Raye Grisham), c.1919 surviving-building estimate, and 503/505 boundary questions.
+    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. Also includes c.1919 surviving-building estimate and 503/505 boundary questions.
     related_businesses:
       - BUS-001
       - BUS-002
@@ -15,9 +15,12 @@ buildings:
       - P-003
       - P-004
       - P-006
+      - P-007
+      - P-008
       - P-010
       - P-015
       - P-016
+      - P-017
       - P-021
       - P-022
       - P-034
@@ -25,6 +28,7 @@ buildings:
       - E-001
       - E-002
       - E-003
+      - E-007
       - E-011
       - E-015
       - E-020
@@ -52,7 +56,7 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel is at 503, not 505.
+    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila's overlap while operating The Wheel was ownership of the 505 real estate; any 505 business control may have been temporary during repossession/default or transfer.
     related_businesses:
       - BUS-005
       - BUS-006
@@ -61,13 +65,17 @@ buildings:
       - BUS-011
       - BUS-012
       - BUS-013
+      - BUS-014
+      - BUS-015
       - BUS-016
+      - BUS-017
+      - BUS-021
+      - BUS-022
     related_people:
       - P-005
       - P-007
       - P-008
       - P-009
-      - P-010
       - P-011
       - P-012
       - P-013
@@ -77,6 +85,13 @@ buildings:
       - P-018
       - P-019
       - P-020
+      - P-027
+      - P-028
+      - P-029
+      - P-030
+      - P-031
+      - P-032
+      - P-033
     related_evidence:
       - E-004
       - E-005
@@ -91,9 +106,20 @@ buildings:
       - E-020
       - E-021
       - E-022
+      - E-026
+      - E-027
+      - E-028
       - E-029
       - E-030
       - E-031
+      - E-032
+      - E-033
+      - E-034
+      - E-035
+      - E-036
+      - E-037
+      - E-039
+      - E-041
       - E-045
       - E-046
     related_maps:
