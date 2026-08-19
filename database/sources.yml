@@ -219,3 +219,53 @@ sources:
     name: 503 and 505 Main Street Historical Society Edition v5
     url: records/historical-society/503-505-main-historical-society-edition-v5.docx
     notes: Working narrative dated 16 August 2026. HS note numbers S-01 through S-37 are not archive S-IDs. Related evidence E-040.
+
+  - id: S-049
+    name: Oregonian clipping, 1908, 503 Main / missing-girl item
+    url: newspapers/oregonian/1908-503-main-missing-girl-oregonian.png
+    notes: Original filename 503 Main st Missing Girl 1908 Oregonian.png. Needs transcription; do not infer historical claims from the filename alone.
+
+  - id: S-050
+    name: Oregonian clipping, 1937, Kwality Cafe for-sale item
+    url: newspapers/oregonian/1937-kwality-cafe-for-sale-oregonian.png
+    notes: Original filename Kwality Cafe for sale 1937 Oregonian.png. Needs transcription; do not infer sale or ownership details from the filename alone.
+
+  - id: S-051
+    name: Oregonian clipping, 1960, Wheel Cafe
+    url: newspapers/oregonian/1960-wheel-cafe-oregonian.png
+    notes: Original filename Wheel Cafe 1960 Oregonian.png. Needs transcription before use for chronology or location claims.
+
+  - id: S-052
+    name: Newspaper clipping, September 1967, Wheel / 505 fire
+    url: newspapers/other/1967-09-wheel-505-fire-publication-unconfirmed.png
+    notes: Original filename Wheel & 505 Fire September 1967.png. Publication unconfirmed; needs transcription before use as evidence.
+
+  - id: S-053
+    name: Oregonian clipping, 1976, 505 Main classified
+    url: newspapers/oregonian/1976-505-main-classified-oregonian.png
+    notes: Original filename 505 Classified 1976 Oregonian.png. Needs transcription before use for business/property chronology.
+
+  - id: S-054
+    name: Oregonian clipping, 1983, The Wheel
+    url: newspapers/oregonian/1983-the-wheel-oregonian.png
+    notes: Original filename Wheel 1983 Oregonian.png. Needs transcription.
+
+  - id: S-055
+    name: Oregonian clipping, 1983, Wheel Cafe
+    url: newspapers/oregonian/1983-wheel-cafe-oregonian.png
+    notes: Original filename Wheel Cafe 1983 Oregonian.png. Needs transcription.
+
+  - id: S-056
+    name: Oregonian clipping, August 1985, The Wheel
+    url: newspapers/oregonian/1985-08-the-wheel-oregonian.png
+    notes: Original filename The Wheel Aug 1985 Oregonian.png. Needs transcription.
+
+  - id: S-057
+    name: Oregonian clipping, 1985, The Wheel
+    url: newspapers/oregonian/1985-the-wheel-oregonian.png
+    notes: Original filename Wheel 1985 Oregonian.png. Needs transcription.
+
+  - id: S-058
+    name: Newspaper clipping, August 1985, The Wheel
+    url: newspapers/other/1985-08-the-wheel-publication-unconfirmed.png
+    notes: Original filename The Wheel August 1985.png. Publication unconfirmed; needs transcription before use as evidence.
