@@ -7,7 +7,7 @@ The 'Larry' in Larry's Kwality Cafe or J. Jager may be connected to restaurant o
 The 1919 date appears in secondary sources and should be tested against assessor records, Sanborn maps, tax cards, permits, deeds, and city directories.
 
 ## RL-003 — Directory Search
-Polk directories and Oregon City telephone books may establish year-by-year occupants for 503 and 505 Main. This is especially important for separating Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe, The Wheel, The 505, Brass Rail Tavern, 505 Tavern, and later Thirsty Duck name usage.
+Polk directories and Oregon City telephone books may establish year-by-year occupants for 503 and 505 Main. This is especially important for separating Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe, The Wheel, The 505, Brass Rail Tavern, 505 Tavern, and later Thirsty Duck name usage. **The Wheel is already resolved as a 503-only business; do not search for it as a possible 505 occupant.**
 
 ## RL-004 — Harding Building Fire
 Oregonian of 2 September 1967 (`E-045`) dates the block fire to 1 September 1967 and names Harding Drug Store and Dixon's Bakery among buildings gutted. Remaining work: fire-department records, insurance, permits, and the replacement-building year. Earlier Enterprise-Courier 1968-1969 search was looking in the wrong years for the fire itself.
@@ -21,14 +21,14 @@ Research the legal, structural, and practical boundary between 503 and 505 Main.
 ## RL-007 — Tax Statement and Assessor Record Extraction
 Transcribe and cite uploaded tax statements and any assessor/tax materials. Extract parcel descriptions, improvement details, ownership clues, assessed improvement changes, construction dates, and remodel/addition indicators.
 
-## RL-008 — Family Ownership Chain
-Document the Young, Lafarlette, Grisham, and any earlier Wiitanen-related family references to 503 and 505 Main Street using deeds, tax statements, assessor records, family records, and oral history. Preserve family/oral history as evidence, but keep formal ownership dates pending documentary confirmation.
+## RL-008 — Separate 503 Business / 505 Property Ownership Chains
+Document the Young, LaFarlette, Grisham, and Wiitanen relationships to **503 and 505 separately** using deeds, tax statements, assessor records, family records, liquor licenses, business-sale records, and oral history. Treat **Raye LaFarlette and Raye Grisham as the same person** and do not treat the surname change as a Wheel transfer. Test the working family interpretation that the later **Grisham-to-Wiitanen transition was a sale of The Wheel business at 503**. Separately document when Dick and Sheila acquired and held the **505 real estate**, without inferring that property ownership made them ordinary operators of the 505 tavern.
 
 ## RL-009 — Mitch Young / 505 Tavern License Pages
 Locate OLCC, business-registration, directory, and advertisement pages for March 1991-March 2004 to confirm the legal entity name behind the working trade name 505 Tavern.
 
-## RL-011 — Brass Rail / Dug Inn Operator Sequence
-Document the Hansen-to-Wiitanen sale date, Brass Rail start, later sales/repossessions, and the 1988 Dug Inn transfer. Search Sports Keg and Rosser variants for 1988-1991. Do not use the withdrawn 1981 Troutdale Sandy Post ad.
+## RL-011 — 505 Tavern / Brass Rail / Dug Inn Operator and Repossession Sequence
+Reconstruct the **505 business-owner/operator chain independently from the 505 real-estate ownership chain**. Determine Ray Hansen's exact period and disposition of the business; the Brass Rail start and owners/operators; later sales, defaults, and repossessions; the 1988 Dug Inn transfer; Sports Keg and Rosser leads; and the path to Mitch Young's March 1991 purchase. Specifically determine **when Dick or Sheila appeared as temporary business holders/transferors because of repossession or default**, rather than assuming they routinely operated 505 while running The Wheel at 503. Use `E-030` as firm evidence of a Wiitanen transfer role on 6 April 1988, not as proof of long-term operation. Do not use the withdrawn 1981 Troutdale Sandy Post ad.
 
 ## RL-010 — 1925 Sanborn 501 / 503 / 505 Question
 Review the 1925 Sanborn map and related city directories to determine what was labelled 501, 503, and 505 Main Street, whether 501 was a separate address, and how that relates to the later 503/505 building footprint.
