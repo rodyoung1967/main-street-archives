@@ -5,12 +5,29 @@ These instructions apply to any AI or automation working on The Main Street Arch
 ## Core Rules
 
 - Never delete historical information without preserving why it was superseded or moved.
+- Do not delete or relocate legacy files/folders without explicit project-steward approval.
 - Never renumber existing IDs.
 - Always update related files when new information is added.
 - Preserve uncertainty rather than inventing certainty.
 - Prefer traceability over brevity.
 - Treat Markdown registers and indexes as human-readable source-of-truth records unless a specific YAML/database file is explicitly designated as canonical.
 - When YAML/database files exist for the same entity type, keep them synchronized with the Markdown indexes.
+- Keep raw source files separate from interpretation.
+- Do not use the repository root as permanent raw-source storage.
+
+## Canonical Source-File Placement
+
+Use these destinations for new/integrated source files:
+
+- Newspaper clippings and newspaper-page scans → `newspapers/`
+- Historic photos, aerials, and screenshots → `media/`
+- Sanborn and other original maps → `maps/`
+- Deeds, tax, assessor, permit, lease, and other administrative/legal records → `records/`
+- Physical-object images such as matchbooks and matchcovers → `artifacts/`
+
+The top-level `photos/`, `deeds/`, and `tax-records/` paths are legacy holding areas. Do not add new material there. Audit references before proposing their removal.
+
+Use `media/photo-metadata-register.md` as the canonical image/media metadata register. `media/catalog.md` is a legacy navigation shim only.
 
 ## Adding People
 
@@ -54,6 +71,26 @@ If a new artifact or image is added:
 - Update `media/catalog.md` only as a navigation shim if needed; do not treat it as the canonical media register.
 - Link the artifact/image to supporting evidence, source, building, business, person, and `indexes/id-crosswalk.md` when applicable.
 - Preserve original filenames, uploaded filenames, source URLs, owner/collector notes, and visible captions or marks when known.
+
+## Adding Newspaper Sources
+
+If a newspaper clipping or page image is added:
+
+- Store the source under `newspapers/<publication>/`.
+- Preserve the original uploaded filename in metadata if the committed filename is normalized.
+- Add or update the source in `evidence/source-register.md`.
+- Add or update the claim-level evidence in `evidence/evidence-register.md`.
+- Read the clipping before integrating historical claims; never infer a claim from the filename alone.
+- Update related buildings, businesses, people, timeline, open questions, research leads, YAML, media metadata, and crosswalks as appropriate.
+
+## Adding Administrative / Property Records
+
+If a deed, tax record, assessor record, permit, lease, or similar document is added:
+
+- Store it under `records/`, using a source-type subfolder when useful.
+- Preserve document numbers, parcel/APN, dates, parties, provenance, and original filename when available.
+- Add or update related source and evidence records.
+- Keep real-estate ownership, business ownership, business operation, trade names, and liquor-license ownership as separate relationship questions.
 
 ## Adding Maps
 
