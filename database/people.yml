@@ -40,7 +40,7 @@ people:
   - id: P-005
     name: Ray Hansen
     role: Earlier 505 Tavern owner/operator
-    notes: Distinct from Raye Grisham (P-006). Earlier family history described a Hansen-to-Wiitanen 505 business transfer; exact transaction and Brass Rail chronology are now open because the 19 August 2026 clarification says Dick and Sheila did not ordinarily run the 505 business while operating The Wheel. Historical Society v5 used Hanson as a search variant; current family confirmation keeps Hansen.
+    notes: Distinct from Raye Grisham (P-006). Family history places Hansen before Dick and Sheila's Brass Rail period at 505; exact business-sale and rename dates remain open. Historical Society v5 used Hanson as a search variant; current family confirmation keeps Hansen.
     related_buildings:
       - B-002
     related_businesses:
@@ -60,8 +60,8 @@ people:
 
   - id: P-007
     name: Richard / Dick Wiitanen
-    role: 503 Wheel owner; 505 property owner / transfer-role evidence
-    notes: Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main. Also owned/co-owned 505 real estate. An April 1988 505 change-of-ownership record names Dick or Sheila as business transferor; current family clarification says any 505 business control may have been temporary during repossession/default or transfer rather than ordinary concurrent operation. Died November 2024.
+    role: 503 Wheel business owner; Brass Rail operator; later 505 property owner
+    notes: Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe business at 503 Main. Family history says Dick and Sheila ran Brass Rail at 505 before owning that building, then later purchased the 505 real estate from Mrs. Nesmeth/Nemeth. A 2017 permit confirms continuing 505 property interest. Died November 2024; the 505 building then passed through his estate to Rodney and Mitch.
     related_buildings:
       - B-001
       - B-002
@@ -73,8 +73,8 @@ people:
 
   - id: P-008
     name: Sheila Wiitanen
-    role: 503 Wheel / 505 property context
-    notes: Daughter of Floyd and Raye LaFarlette. Associated with the later Wiitanen Wheel period and ownership of the 505 building. An April 1988 505 transfer record may name Dick or Sheila as transferor; do not infer routine 505 tavern operation from property ownership or that isolated transfer role. Died 2014.
+    role: Brass Rail operator; later 505 property owner; 503 Wheel context
+    notes: Daughter of Floyd and Raye LaFarlette. Operated Brass Rail at 505 with Dick before they owned the building; later co-purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Also associated with the later Wiitanen Wheel period at 503. Died 2014; Wiitanen ownership of 505 continued through Dick's death in 2024.
     related_buildings:
       - B-001
       - B-002
@@ -102,8 +102,8 @@ people:
 
   - id: P-011
     name: Mitch / Mitchell (C.) Young
-    role: Owner/operator
-    notes: Same person as P-018. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Ran 505 Tavern at 505 Main Street from March 1991 to March 2004. Do not claim he restored the name, fixtures, or building. Do not label this period The Wheel.
+    role: Owner/operator / later 505 co-owner
+    notes: Same person as P-018. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Ran 505 Tavern at 505 Main Street from March 1991 to March 2004. Do not claim he restored the name, fixtures, or building. Do not label this period The Wheel. Inherited 505 Main with Rodney from Dick's estate after November 2024.
     related_buildings:
       - B-002
     related_businesses:
@@ -131,7 +131,7 @@ people:
   - id: P-014
     name: Rodney Young
     role: Current co-owner / project steward
-    notes: Co-owns 505 Main Street with Mitchell Young through 505 LLC after Richard Wiitanen's death. Archive steward. Managing member/signatory on 2025 505 lease.
+    notes: Inherited 505 Main Street with Mitchell Young from Richard / Dick Wiitanen's estate after his November 2024 death. Co-owns through 505 LLC. Archive steward. Managing member/signatory on 2025 505 lease.
     related_buildings:
       - B-002
 
@@ -153,7 +153,7 @@ people:
   - id: P-017
     name: Wiitanen family
     role: Family history context
-    notes: User's mother Sheila and stepfather Richard / Dick were Wiitanens. Their history touches The Wheel at 503 and real-estate ownership/transfer context at 505; the businesses remain separate.
+    notes: User's mother Sheila and stepfather Richard / Dick were Wiitanens. At 505, their Brass Rail operation preceded their later purchase of the building; Wiitanen property ownership then continued through Dick's November 2024 death.
     related_buildings:
       - B-001
       - B-002
@@ -161,7 +161,7 @@ people:
   - id: P-018
     name: Mitchell C. Young
     role: 505 LLC managing member / 505 Tavern operator
-    notes: Same person as P-011 Mitch Young. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Legal/lease form of the name. Co-owns 505 Main with Rodney Young. Ran 505 Tavern March 1991-March 2004; do not claim he restored it.
+    notes: Same person as P-011 Mitch Young. Name variants Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are one person. Legal/lease form of the name. Inherited 505 Main with Rodney from Dick's estate. Ran 505 Tavern March 1991-March 2004; do not claim he restored it.
     related_buildings:
       - B-002
     related_businesses:
@@ -228,11 +228,11 @@ people:
       - BUS-001
 
   - id: P-026
-    name: Mrs. Nemeth
-    role: Reported 503 seller
-    notes: Family history says Dick and Sheila bought the 503 building about 1975 from Mrs. Nemeth. Surname spelling uncertain.
+    name: Mrs. Nesmeth / Nemeth
+    role: Reported 505 property seller
+    notes: Family history says Dick and Sheila bought the 505 Main building from a woman remembered as Mrs. Nesmeth / Nemeth after they had already begun operating Brass Rail there. Earlier 503-seller reading is superseded. Exact spelling and purchase date pending.
     related_buildings:
-      - B-001
+      - B-002
 
   - id: P-027
     name: Dr. Freeze
@@ -273,7 +273,7 @@ people:
   - id: P-031
     name: Cotterell
     role: 1988 505 business transferee
-    notes: 1988 Commission record transfers Dug Inn formerly Brass Rail from Dick or Sheila Wiitanen to the Cotterells. This proves a business-transfer role at that moment, not routine prior Wiitanen operation.
+    notes: 1988 Commission record transfers Dug Inn formerly Brass Rail from Dick or Sheila Wiitanen to the Cotterells. Place within the later business sale/repo/transfer cycle after the Wiitanens had already operated Brass Rail and later purchased the building.
     related_buildings:
       - B-002
     related_businesses:
