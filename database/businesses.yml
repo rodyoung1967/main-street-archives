@@ -45,7 +45,7 @@ businesses:
   - id: BUS-004
     name: The Wheel
     address: 503 Main
-    notes: Raye Grisham bought The Wheel at 503 Main. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. June 7 1967 Commission minutes place the Wheel at 503 Main Street. Do not use as Mitch Young's 505 period name.
+    notes: The Wheel was only at 503 Main and was never a 505 Main business. Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503; the surname change is not a business transfer. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. June 7 1967 Commission minutes place the Wheel at 503 Main Street. A 2017 article's phrase "The Wheel Tavern" is source wording only; family correction says it was never an official business name. Keep the 503 Wheel business chain separate from the 505 tavern business chain.
     related_buildings:
       - B-001
     related_people:
@@ -66,7 +66,7 @@ businesses:
   - id: BUS-005
     name: 505 Tavern
     address: 505 Main
-    notes: Working trade name for Mitch / Mitchell (C.) Young March 1991-March 2004; he ran the business. Do not claim he restored the name or building. Also documented 1965 and 1972 liquor renewals and a 1976 classified. Spared in the 1 September 1967 fire. Ray Hansen sold this business to Dick and Sheila, who renamed it Brass Rail.
+    notes: 505 Main business, separate from The Wheel at 503. Working trade name for Mitch / Mitchell (C.) Young March 1991-March 2004; he ran the business. Do not claim he restored the name or building. Also documented 1965 and 1972 liquor renewals and a 1976 classified. Spared in the 1 September 1967 fire. Earlier family history tied a Hansen-to-Wiitanen transfer to the later Brass Rail name; current family clarification says Dick and Sheila's normal overlap while operating The Wheel was ownership of the 505 real estate, not ordinary operation of the 505 tavern. Any Wiitanen control of the 505 business may have been brief during repossession/default or a transfer interval; exact chronology remains to be documented.
     related_buildings:
       - B-002
     related_people:
@@ -134,7 +134,7 @@ businesses:
   - id: BUS-010
     name: Brass Rail Tavern
     address: 505 Main
-    notes: Dick and Sheila renamed 505 Tavern to Brass Rail. April 1988 Commission minutes call The Dug Inn formerly The Brass Rail at 505 Main. 1981 Sandy Post ad is Troutdale, withdrawn.
+    notes: April 1988 Commission minutes call The Dug Inn formerly The Brass Rail at 505 Main and document a Wiitanen-to-Cotterell change-of-ownership application. Earlier family history associated the Brass Rail name with a Hansen/Wiitanen transition; current clarification says any Dick/Sheila control of the 505 business may have been brief during repossession/default or transfer and should not be confused with their ordinary operation of The Wheel at 503 or their ownership of the 505 real estate. 1981 Sandy Post ad is Troutdale, withdrawn.
     related_buildings:
       - B-002
     related_people:
@@ -197,7 +197,7 @@ businesses:
   - id: BUS-016
     name: The Dug Inn
     address: 505 Main
-    notes: April 1988 Commission record formerly The Brass Rail; Wiitanen-to-Cotterell transfer.
+    notes: April 1988 Commission record identifies The Dug Inn as formerly The Brass Rail and documents a Wiitanen-to-Cotterell transfer. This is evidence of a transfer role, not by itself proof that Dick and Sheila routinely operated the 505 tavern while running The Wheel at 503.
     related_buildings:
       - B-002
     related_people:
