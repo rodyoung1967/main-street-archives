@@ -52,22 +52,30 @@ The 1950 revised Sanborn sheet continues to show separate 503, 505, and 507 occu
 A public comment screenshot records a memory of the 505 Tavern on Main Street connected to Publishers Paper workers and a 1971 draft-number celebration. Treat this as local-memory evidence for 505 Tavern culture, not as formal proof of business chronology until corroborated.
 
 ## 1 September 1967 Main Street fire
-Oregonian of 2 September 1967 reports a Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery were gutted. The Wheel Restaurant and the 505 Tavern were spared with smoke and water damage. Reported origin: Howard Cohn furniture warehouse. Earlier late-1968/1969 fire-date notes are superseded for the date. Replacement-building year still pending.
+Oregonian of 2 September 1967 reports a Friday-night fire on Main between 5th and 6th. Harding Drug Store and Dixon's Bakery were gutted. **The Wheel Restaurant and the 505 Tavern are named separately** and were both spared with smoke and water damage. This reinforces that they were distinct establishments. Reported origin: Howard Cohn furniture warehouse. Earlier late-1968/1969 fire-date notes are superseded for the date. Replacement-building year still pending.
 
 ## Family context: LaFarlette / Grisham / Wiitanen
-Rodney's grandmother is **Raye Grisham** (first marriage LaFarlette); she bought **The Wheel at 503 Main**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. After Richard's death, **505 Main passed to Rodney Young and Mitchell Young jointly** through 505 LLC.
-
-## Ray Hansen and 505 Tavern
-Ray Hansen owned the 505 Tavern **business** and sold it to Dick and Sheila Wiitanen, who renamed it Brass Rail. Bartender Willie worked under Ray and continued under Dick and Sheila. Ray Hansen is not Raye Grisham.
+**Raye LaFarlette and Raye Grisham are the same woman.** The surname change followed divorce/remarriage and is not itself a transfer of The Wheel. Raye bought **The Wheel at 503 Main**, and **The Wheel was only at 503**. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. After Richard's death, **505 Main passed to Rodney Young and Mitchell Young jointly** through 505 LLC.
 
 ## The Wheel at 503
-Raye Grisham bought The Wheel at 503 Main. Oregonian 1960 places the Wheel Cafe at 5th and Main. Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St. Victor independently managed the restaurant portion during Raye's years and early Dick/Sheila years.
+Raye LaFarlette / Raye Grisham bought The Wheel at **503 Main**. Oregonian 1960 places the Wheel Cafe at 5th and Main. Commission minutes of 7 June 1967 place "the Wheel" at 503 Main Street. Oregonian August 1985 names Richard M. Wiitanen as owner of The Wheel Cafe at 503 Main St. Victor independently managed the restaurant portion during Raye's years and the early Wiitanen Wheel period.
+
+**"The Wheel Tavern" was never an official business name.** The phrase appears in a 2017 secondary article and is retained only as that source's wording.
+
+Working family interpretation: the later **Raye Grisham → Wiitanen transition at The Wheel was a sale of the 503 business**. The exact date, parties, terms, and liquor-license transfer remain to be documented.
+
+## 505 Tavern / Ray Hansen / Wiitanen property overlap
+Ray Hansen belongs to the **separate 505 Tavern business history** and is not Raye Grisham. Earlier family history described a Hansen-to-Wiitanen sale followed by the Brass Rail name. The 19 August 2026 clarification narrows that simple sequence: while Dick and Sheila operated **The Wheel at 503**, they also owned the **505 building**, but **did not ordinarily run the 505 tavern business**. The businesses retained separate ownership/operator chains.
+
+Any Dick/Sheila control of the 505 business may have been brief during **repossession, non-payment/default, or a transfer interval**. Bartender Willie is remembered across Hansen and a later 505 transition period, but the exact legal employer/operator chronology remains open.
 
 ## Brass Rail / Dug Inn
-Dick and Sheila renamed 505 Tavern to Brass Rail. 6 April 1988 Commission minutes identify The Dug Inn (formerly The Brass Rail) at 505 Main and a Wiitanen-to-Cotterell transfer. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.
+Brass Rail and The Dug Inn belong to the **505 Main** chain, not The Wheel. A 6 April 1988 Commission record identifies The Dug Inn (formerly The Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells (`E-030`). This proves a Wiitanen **business-transfer role at that moment**, but not routine long-term operation of the 505 tavern. A 1981 Sandy Post Brass Rail ad is Troutdale and is withdrawn.
+
+The exact sequence from Ray Hansen through Brass Rail, Dug Inn, repossessions/defaults, Sports Keg, and later operators remains an open research question.
 
 ## March 1991-March 2004
-Mitch / Mitchell (C.) Young (same person) **ran** **505 Tavern** at 505 Main. Confirmed by Mitch; family adds purchase from Dick and Sheila after repossession. Do not claim he restored the name or building. This period is not The Wheel.
+Mitch / Mitchell (C.) Young (same person) **ran 505 Tavern** at 505 Main. Confirmed by Mitch; family adds purchase after a repossession. Do not claim he restored the name or building. This period is not The Wheel.
 
 ## Building Footprint / Rear Addition Question
 The rear portion of 505 may have been added later, based on family/oral history. There is also an unresolved physical-boundary question: 505 may extend farther back than 503, while 503 may be somewhat wider. Tax records, assessor sketches, Sanborn maps, permits, deeds, and measurements should be used to test this.
