@@ -236,9 +236,9 @@ sources:
     notes: Original filename Wheel Cafe 1960 Oregonian.png. Needs transcription before use for chronology or location claims.
 
   - id: S-052
-    name: Newspaper clipping, September 1967, Wheel / 505 fire
-    url: newspapers/other/1967-09-wheel-505-fire-publication-unconfirmed.png
-    notes: Original filename Wheel & 505 Fire September 1967.png. Publication unconfirmed; needs transcription before use as evidence.
+    name: Oregonian clipping, September 1967, Wheel / 505 fire
+    url: newspapers/oregonian/1967-09-wheel-505-fire-oregonian.png
+    notes: Original filename Wheel & 505 Fire September 1967.png. Publication confirmed by Rodney Young on 18 August 2026; needs transcription before use as evidence.
 
   - id: S-053
     name: Oregonian clipping, 1976, 505 Main classified
@@ -266,6 +266,6 @@ sources:
     notes: Original filename Wheel 1985 Oregonian.png. Needs transcription.
 
   - id: S-058
-    name: Newspaper clipping, August 1985, The Wheel
-    url: newspapers/other/1985-08-the-wheel-publication-unconfirmed.png
-    notes: Original filename The Wheel August 1985.png. Publication unconfirmed; needs transcription before use as evidence.
+    name: Oregonian clipping, August 1985, The Wheel (second clipping)
+    url: newspapers/oregonian/1985-08-the-wheel-oregonian-2.png
+    notes: Original filename The Wheel August 1985.png. Publication confirmed by Rodney Young on 18 August 2026; needs transcription before use as evidence.
