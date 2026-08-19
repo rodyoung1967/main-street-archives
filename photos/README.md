@@ -1,19 +1,38 @@
-# Photo Archive
+# Legacy Photo Archive Path
 
-This folder holds photographs and image scans related to 503, 505, and 507 Main Street, Oregon City.
+This top-level `photos/` tree is retained temporarily for compatibility with older archive references.
 
-## Subfolders
+## Canonical Location
+
+Do **not** add new files here. New and integrated photographic material belongs under:
+
+```text
+media/photos/
+```
+
+The canonical image/media metadata register is:
+
+```text
+media/photo-metadata-register.md
+```
+
+`media/catalog.md` is only a legacy navigation shim.
+
+## Legacy Subfolders
+
+Older placeholders may still exist here for:
 
 - `503-main/`
 - `505-main/`
 - `507-main/`
 - `streetscapes/`
-- `aerials/`
 
-## Rules
+They should remain untouched until their contents and references are audited. Once confirmed redundant, they can be removed only with project-steward approval.
+
+## Current Rules
 
 - Keep original files when possible.
 - Do not crop, enhance, or overwrite originals.
-- Store edited/annotated copies separately if needed.
-- Every photo should be listed in `../media/catalog.md`.
-- Every evidentiary photo should be linked to `../evidence/evidence-register.md`.
+- Store edited/annotated copies separately.
+- Register new images in `../media/photo-metadata-register.md`.
+- Link evidentiary images to `../evidence/evidence-register.md` and `../evidence/source-register.md` as appropriate.
