@@ -4,9 +4,9 @@
 
 - Building ID: `B-001`
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`
-- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-026`, `P-034`
+- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-038`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`
 - Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`
 - Related timeline entries: `T-004`, `T-005`, `T-007`, `T-008`
 
@@ -16,7 +16,7 @@
 
 Rodney Young's grandmother **Raye Grisham** (first marriage LaFarlette) is the 503 Wheel connection. Raye LaFarlette and Raye Grisham are the **same person**, so the surname change is not itself a transfer of The Wheel. Working family interpretation is that the later Grisham-to-Wiitanen transition was a **sale of the Wheel business**, with exact date and transaction documents still pending.
 
-Dick and Sheila Wiitanen purchased the **503 building** about 1975 from Mrs. Nemeth (spelling uncertain). They also owned the **505 real estate** during at least part of their Wheel period, but that property overlap does not combine the two businesses or prove they ordinarily operated the 505 tavern.
+**Correction, 19 August 2026:** the earlier archive statement that Dick and Sheila Wiitanen bought the **503 building** from Mrs. Nemeth/Nesmeth was incorrect. The family clarification places that purchase at **505 Main**, after Dick and Sheila had already been operating Brass Rail there. The current archive therefore has **no family-confirmed Mrs. Nemeth/Nesmeth purchase of the 503 real estate**. Ownership of the 503 building after the Wolf-family period remains a separate research question unless supported by other records.
 
 ## Construction Date
 
@@ -59,7 +59,7 @@ Related pages:
 
 The 2017 article uses **"The Wheel Tavern"** (`E-001`), but family correction says that was **never an official business name**. Preserve it only as the wording used by that secondary article; do not list it as a historical legal/trade-name variant.
 
-The Wheel and the 505 tavern business had separate owners. The meaningful overlap was that Dick and Sheila could own the **505 building** while operating The Wheel at 503. Any brief control of the 505 business during repossession/default or a transfer interval should be researched separately and should not be represented as ordinary joint operation.
+The Wheel and the 505 tavern business had separate ownership/operator histories. Dick and Sheila's documented/family-reported roles at 505 must be kept in the 505 chain: they operated Brass Rail there before later buying the 505 building. None of that establishes ownership of the 503 real estate.
 
 Related pages:
 
@@ -104,7 +104,6 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 | `E-023` | Primary newspaper | H. H. Smith 1912 pool-hall application at 503. |
 | `E-024` | Primary newspaper | L. Hylton 1914 at 503. |
 | `E-025` | Primary municipal | The Wheel at 503 Main, 7 June 1967. |
-| `E-038` | Family history | Dick and Sheila bought the 503 building ~1975 from Mrs. Nemeth. |
 | `E-015` | Time Capsule Maps metadata | Reports The Wheel at 503, 505 Tavern to the right, 1925 Sanborn 501/503/505 issue, and 503 modification around 2017. |
 | `E-019` | Family correction | Clarifies Lafarlette / Grisham / Wiitanen family relationships and death years for Richard / Dick and Sheila. |
 | `E-020` | Sanborn map series | 1925 sheet labels separate 501, 503, 505, 507; developed frontage before 1919 construction claim. |
@@ -118,6 +117,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 - Identify J. Jager's full name and role.
 - Identify Larry's full name and role.
 - Document the exact 503 Wheel ownership/operation sequence, including Raye's acquisition, the LaFarlette-to-Grisham surname continuity, and the later working Grisham-to-Wiitanen business sale.
+- Establish the **503 real-estate ownership chain after the Wolf-family period** without using the superseded Mrs. Nemeth/Nesmeth claim.
 - Confirm the legal, structural, and physical boundary between 503 and 505.
 - Confirm what 501 Main represented on the 1925 Sanborn map and **who owned/occupied it before 1936–1944 removal**.
 - Add documentary proof for the Young, Lafarlette, Grisham, and Wiitanen family-name references and business/property transfers.
@@ -130,6 +130,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows **three dis
 - When did each Kwality-related business operate?
 - Is "The Quality Cafe" in photo metadata a typo, an alternate spelling, or a distinct source claim?
 - What were the exact dates and terms of Raye Grisham's acquisition of The Wheel and the later Wiitanen business purchase?
+- Who owned the **503 real estate** after the Wolf-family period?
 - What was the exact legal/trade-name sequence among The Wheel, Wheel Cafe, and Wheel Restaurant?
 - What physical or legal boundary separated 503 Main and 505 Main during The Wheel / 505 business periods?
 - Is 503 wider than 505, and what records confirm the actual dimensions?
