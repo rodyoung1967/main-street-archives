@@ -142,7 +142,7 @@ Notes: Liquor application for the Wheel at 503 Main Street, p. 453, City record 
 ## S-028 — Rodney Young family-history testimony, August 2026
 URL: Internal / project oral history, including **16 and 19 August 2026 corrections**  
 Related evidence: `E-022`, `E-031`, `E-038`, `E-041`  
-Notes: Raye LaFarlette / Raye Grisham is the same woman and bought The Wheel at **503 Main only**; the surname change is not a business transfer. **"The Wheel Tavern" was never an official name.** The 503 Wheel business and 505 tavern business had separate ownership/operator chains. While Dick and Sheila ran The Wheel, they also owned the **505 building**, but did not ordinarily run the 505 business; any 505 business control may have been brief during repossession, non-payment/default, or transfer. Working family interpretation is that the later **Grisham-to-Wiitanen transition at The Wheel was a sale of the 503 business**; primary transaction/license records remain pending. Earlier Hansen-to-Wiitanen / Brass Rail wording is preserved in `E-031` but narrowed by this clarification. Also records ~1975 503 building purchase from Mrs. Nemeth, joint Rodney/Mitchell ownership after Richard's death, and Sports Keg/Rosser leads. Historical Society v5 notes S-07, S-21, S-28 predate the 19 August clarification.
+Notes: Raye LaFarlette / Raye Grisham is the same woman and bought The Wheel at **503 Main only**; the surname change is not a business transfer. **"The Wheel Tavern" was never an official name.** The 503 Wheel business and 505 tavern business had separate ownership/operator chains. At **505 Main**, Dick and Sheila **ran Brass Rail before they owned the building**. They later purchased the **505 real estate** from a woman remembered as **Mrs. Nesmeth / Nemeth** (spelling uncertain). The earlier archive statement placing that purchase at 503 is superseded. After the purchase, Wiitanen ownership of 505 continued through Richard / Dick Wiitanen's death in **November 2024**; Sheila died in 2014. The 505 building then passed to **Rodney Young and Mitchell Young as part of Dick's estate**. Later Wiitanen appearances in 505 business-transfer records may represent sale/repo/default/transfer intervals after they became landlords. Working family interpretation is that the later **Grisham-to-Wiitanen transition at The Wheel was a sale of the 503 business**, not evidence of a 503 real-estate purchase; primary transaction/license records remain pending. Sports Keg/Rosser leads also remain. Historical Society v5 notes S-07, S-21, S-28 predate these corrections.
 
 ## S-029 — Portland Mercury, 22 July 2010, Wheel Lounge
 URL: https://www.portlandmercury.com/Feature/2010/07/22/2700077/the-best-of-oregon-city  
@@ -196,7 +196,7 @@ Notes: Brass Rail Tavern at 108 E. Columbia, Troutdale. Not evidence for 505 Mai
 ## S-041 — Oregon City Commission, 6 April 1988, Manager's Report 88-49
 URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4779030/File/document  
 Related evidence: `E-030`  
-Notes: Dug Inn formerly Brass Rail; Wiitanen-to-Cotterell transfer, pp. 71-72, City record 4779030. Historical Society v5 note S-20. This proves a 505 business-transfer role at that moment, not routine long-term Wiitanen operation.
+Notes: Dug Inn formerly Brass Rail; Wiitanen-to-Cotterell transfer, pp. 71-72, City record 4779030. Historical Society v5 note S-20. Place this within the later 505 business sale/repo/transfer cycle; family history establishes an earlier Dick/Sheila Brass Rail operating period before their later purchase of the building.
 
 ## S-042 — Oregon City Commission minutes, 5 September 2012
 URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4238300/File/document  
@@ -227,7 +227,7 @@ Notes: Secondary aggregator; Heath Bark-Ley LLC from Dec. 2003; 505 Tavern regis
 Repository file: `records/historical-society/503-505-main-historical-society-edition-v5.docx`  
 Original filename: `503_505_Main_Street_Historical_Society_Edition_v5.docx`  
 Related evidence: `E-040`  
-Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations. **It predates the 19 August 2026 business-separation correction; `E-022` and current archive files control where v5 conflicts.**
+Notes: Working narrative dated 16 August 2026. HS document uses its own S-01–S-37 note numbers; those are not archive `S-###` IDs. Archive sources above map the unique citations. **It predates the 19 August 2026 business/property corrections; `E-022`, `E-038`, and current archive files control where v5 conflicts.**
 
 ## S-049 — Oregonian, 25 August 1908, "Pretty Girl Is Missing"
 Repository file: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`  
