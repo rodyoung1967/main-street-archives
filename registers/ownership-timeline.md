@@ -1,16 +1,18 @@
 # Ownership / Stewardship Timeline
 
-This register tracks reported, documented, and open ownership or stewardship claims. Property ownership and business ownership are separate questions.
+This register tracks reported, documented, and open ownership or stewardship claims. **Property ownership, business ownership, business operation, and liquor-license ownership are separate questions. The 503 Wheel business and the 505 tavern business are separate ownership chains.**
 
 | Period | Address | Person / Entity | Role | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | c. 1922-1972 (City survey) | 503 Main | Wolf family | Reported property owners | `E-032` | Probable pending deeds | Official secondary. |
-| c. 1975 | 503 Main | Dick and Sheila Wiitanen | Purchased building | `E-038` | Family-confirmed | Seller remembered as Mrs. Nemeth; spelling/date pending. |
-| Unknown | 503 Main | Raye Grisham | Bought The Wheel **business** | `E-022` | High family | 503 business, not automatically 503 real estate. |
-| Aug. 1985 | 503 Main | Richard M. Wiitanen | Owner of The Wheel Cafe **business** | `E-049` | Very High newspaper | 503 business, not 505 Tavern. |
-| Unknown, before Dick and Sheila | 505 Main | Ray Hansen | Sold 505 Tavern **business** to Dick and Sheila | `E-005`, `E-031` | High family | Distinct from Raye Grisham. |
-| After Hansen sale | 505 Main | Dick and Sheila Wiitanen | Tavern business (renamed Brass Rail) | `E-031` | High family | Later sales/repossessions. |
-| 2017 permit | 505 Main | Richard Martin Wiitanen, co-trustee | Listed real-estate owner | `E-035` | Very High for permit-era | APN 2-2E-31AB-08300. |
-| March 1991-March 2004 | 505 Main | Mitch / Mitchell (C.) Young | 505 Tavern operator (ran the business) | `E-004` | Very High for dates | Same person as Mitchell C. Young (`P-011` / `P-018`). Not The Wheel. Restoration of name/building unknown. |
+| Unknown | 503 Main | Raye LaFarlette / Raye Grisham | Bought The Wheel **business** | `E-022` | High family | Same woman across surname change; LaFarlette → Grisham is not itself a business transfer. The Wheel was only at 503. |
+| c. 1975 | 503 Main | Dick and Sheila Wiitanen | Purchased **building** | `E-038` | Family-confirmed | Seller remembered as Mrs. Nemeth; spelling/date pending. This real-estate purchase is separate from the Wheel business succession. |
+| By Aug. 1985 | 503 Main | Richard M. Wiitanen | Owner of The Wheel Cafe **business** | `E-049` | Very High newspaper | Working family interpretation is that the Grisham → Wiitanen business transition was a sale; exact date, parties, terms, and liquor-license transfer remain open. |
+| During Wiitanen Wheel years; exact start/end open | 505 Main | Dick and Sheila Wiitanen | **Real-estate owners / landlords** | `E-022`, `E-035` | High family; very high by 2017 permit for Richard interest | Owning the 505 building while operating The Wheel at 503 did **not** make the two businesses one operation and does not establish routine Wiitanen operation of the 505 tavern. |
+| Before later transfer/repo cycle; exact dates open | 505 Main | Ray Hansen | 505 Tavern **business** association / earlier owner | `E-005`, `E-031` | High family, chronology pending | Distinct from Raye Grisham. Earlier family account described a Hansen-to-Wiitanen sale; newer clarification requires distinguishing ordinary operators from repossession/default/transfer holders. |
+| Temporary transfer/repo periods; exact dates open | 505 Main | Dick and/or Sheila Wiitanen | Possible temporary 505 **business holder / transferor** | `E-022`, `E-030`, `E-031` | Mixed; primary evidence for 1988 transfer, family clarification for interpretation | Family clarification says they did not normally run the 505 tavern while operating The Wheel. Any 505 business control may have been brief during repossession, non-payment/default, or transfer. |
+| 6 Apr. 1988 | 505 Main | Dick or Sheila Wiitanen → Cotterells | The Dug Inn / former Brass Rail **business change-of-ownership application** | `E-030` | Very High municipal | Proves a Wiitanen transfer role at that point; does not prove routine long-term operation of 505. |
+| March 1991-March 2004 | 505 Main | Mitch / Mitchell (C.) Young | 505 Tavern owner/operator | `E-004` | Very High for dates | Same person as Mitchell C. Young (`P-011` / `P-018`). Not The Wheel. Restoration of name/building unknown. |
+| 2017 permit | 505 Main | Richard Martin Wiitanen, co-trustee | Listed real-estate owner | `E-035` | Very High for permit-era | APN 2-2E-31AB-08300. Property ownership, not evidence of tavern operation. |
 | After Richard's death | 505 Main | Rodney Young and Mitchell Young / 505 LLC | Joint building ownership | `E-009`, `E-022`, `E-018` | High family + current lease | Deed/probate citation still needed. |
 | July 2025–June 2030 | 505 Main | Alan / Alin Guria | Current lessee | `E-018` | Very High for lease; steward confirmation of Alan | Operating business is Thirsty Duck. Lease spelling Alin Guria. |
