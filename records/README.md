@@ -42,6 +42,6 @@ Tax statements, assessor materials, parcel records, tax cards, and improvement r
 
 Do not summarize a tax or assessor record generally without creating a specific evidence item or transcription note. Each record should eventually be linked to the Evidence Register and Source Register.
 
-## Legacy Paths
+## Retired Paths
 
-The top-level `deeds/` and `tax-records/` folders are older holding areas. Do not add new material there. Their useful handling/research guidance has been consolidated here. Their contents and references should still be audited before removal, and no deletion should occur without project-steward approval.
+The former top-level `deeds/` and `tax-records/` holding areas were retired after their useful handling and research guidance was consolidated here. Do not recreate them; use `records/deeds/`, `records/tax/`, or `records/assessor/` as appropriate.
