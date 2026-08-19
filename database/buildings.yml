@@ -2,7 +2,7 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
-    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. Also includes c.1919 surviving-building estimate and 503/505 boundary questions.
+    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. Also includes c.1919 surviving-building estimate and 503/505 boundary questions.
     related_businesses:
       - BUS-001
       - BUS-002
@@ -35,7 +35,6 @@ buildings:
       - E-021
       - E-022
       - E-025
-      - E-038
       - E-042
       - E-043
       - E-044
@@ -56,7 +55,7 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila's overlap while operating The Wheel was ownership of the 505 real estate; any 505 business control may have been temporary during repossession/default or transfer.
+    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila ran Brass Rail at 505 before they owned the building, then later purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Wiitanen property ownership continued through Dick's Nov. 2024 death, after which the building passed through his estate to Rodney and Mitchell Young.
     related_businesses:
       - BUS-005
       - BUS-006
@@ -85,6 +84,7 @@ buildings:
       - P-018
       - P-019
       - P-020
+      - P-026
       - P-027
       - P-028
       - P-029
@@ -97,6 +97,7 @@ buildings:
       - E-005
       - E-006
       - E-008
+      - E-009
       - E-010
       - E-011
       - E-013
@@ -118,6 +119,7 @@ buildings:
       - E-035
       - E-036
       - E-037
+      - E-038
       - E-039
       - E-041
       - E-045
