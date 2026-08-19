@@ -9,6 +9,10 @@ This folder is reserved for local copies of artifact images.
 | `A-001` | `A-001-new-kwality-cafe-matchbook.jpg` | Archived locally from user-provided image attachment | `S-002` |
 | `A-002` | `A-002-larrys-kwality-cafe-matchcover.jpg` | Archived locally from user-provided image attachment | `S-003` |
 
+## Provenance Notes
+
+- `A-001-new-kwality-cafe-matchbook.provenance.md` preserves the original upload filename, dimensions, SHA-256, visible text, and the retired working-branch derivative information for the New Kwality Cafe matchbook.
+
 ## Image Handling Notes
 
 - Preserve the original source URL in `evidence/source-register.md`.
