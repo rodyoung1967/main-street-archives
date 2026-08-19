@@ -71,4 +71,4 @@ Every imported image should eventually have, when applicable:
 - Confidence level
 - Transcription/OCR status
 
-The older top-level `photos/` tree is a legacy holding area. Do not add new material there; use `media/photos/`.
+The former top-level `photos/` tree was retired after its placeholder guidance was consolidated here and in `media/photos/README.md`. Do not recreate it; use `media/photos/`.
