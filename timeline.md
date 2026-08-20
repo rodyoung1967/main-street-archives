@@ -16,7 +16,7 @@ Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
 The Chicago Store advertised at 505 Main (`E-026`).
 
 ## 5 January 1912 — Main Street / Post Office cluster
-A primary *Oregon City Courier* advertisement places **H. P. Brightbill at 509 Main Street**, phone 74 (`E-050`). Contemporary business advertising also places I. Tolpolar opposite the Post Office, M. E. Dunn near/next door to the P.O., Schrader's Bakery near the Post Office, and Pioneer Transfer Co. in the Postoffice Building (`E-051`). Exact numbered addresses for the Post Office, Dunn, and Schrader remain open; **513 P.O. / 515 Dunn are hypotheses only**.
+A primary *Oregon City Courier* advertisement places **H. P. Brightbill at 509 Main Street**, phone 74 (`E-050`). The same page documents **Bailey & Price, Billiard and Pool Parlors, at 527 Main Street, opposite the Grand Theater** (`S-061`). Contemporary business advertising also places I. Tolpolar opposite the Post Office, M. E. Dunn near/next door to the P.O., Schrader's Bakery near the Post Office, and Pioneer Transfer Co. in the Postoffice Building (`E-051`). Exact numbered addresses for the Post Office, Dunn, and Schrader remain open; **513 P.O. / 515 Dunn are hypotheses only**.
 
 ## March 1912
 H. H. Smith applied for a pool-hall license at 503 Main (`E-023`).
@@ -39,11 +39,20 @@ Dr. Freeze advertised at 505 / 505 1/2 Main (`E-028`).
 ## 1925 / 1950 Sanborn
 The maps show separate 501, 503, 505, and 507 occupancies; 503 is restaurant use and 505 has billiards/cigars/beer-related use.
 
+## 1935 — present 527 Main / Swartz Building
+City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later renumbering evidence changes the interpretation.
+
+## 1936-1944 — 501 Main removal window
+Aerial evidence establishes that 501 Main existed in 1936 and was removed by 1944 (`E-021`).
+
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.
 
 ## 1 September 1967 Main Street fire
-The Oregonian separately names **The Wheel Restaurant** and **505 Tavern**, confirming distinct establishments. Both were spared with smoke and water damage (`E-045`).
+The Oregonian separately names **The Wheel Restaurant** and **505 Tavern**, confirming distinct establishments. Both were spared with smoke and water damage (`E-045`). Harding Drug Store and several other businesses were gutted. The present **527 Main Swartz Building predates this fire by about 32 years**, so it was not a wholesale post-fire replacement; the available 1935 dating evidence does not by itself establish what lesser fire, smoke, water, or repair damage it may have sustained.
+
+## 1968 — present 507-511 Harding Building
+ODOT's 2021 cultural-resources table dates the **present Harding Building at 507-511 Main to 1968** (`S-063`). This provides documentary support for the replacement-building date following the 1 September 1967 fire and resolves the prior 1968-versus-1969 working question at the historic-inventory level.
 
 ## Family context: LaFarlette / Grisham / Wiitanen
 **Raye LaFarlette and Raye Grisham are the same woman.** Raye bought **The Wheel at 503 Main**. The Wheel was only at 503.
@@ -87,6 +96,3 @@ Richard / Dick Wiitanen died in November 2024. Family history says 505 Main pass
 
 ## July 1, 2025-June 30, 2030
 The 2025 lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main.
-
-## 1936-1944 — 501 Main removal window
-Aerial evidence establishes that 501 Main existed in 1936 and was removed by 1944 (`E-021`).
