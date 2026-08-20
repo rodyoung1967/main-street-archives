@@ -6,14 +6,23 @@ The site was part of the area that became Oregon City's earliest commercial dist
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
+## August 1908
+Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
+
 ## By 1909
 507 Main was known as the Harding Building.
 
 ## April 1911 / January 1913
 The Chicago Store advertised at 505 Main (`E-026`).
 
+## 5 January 1912 — Main Street / Post Office cluster
+A primary *Oregon City Courier* advertisement places **H. P. Brightbill at 509 Main Street**, phone 74 (`E-050`). Contemporary business advertising also places I. Tolpolar opposite the Post Office, M. E. Dunn near/next door to the P.O., Schrader's Bakery near the Post Office, and Pioneer Transfer Co. in the Postoffice Building (`E-051`). Exact numbered addresses for the Post Office, Dunn, and Schrader remain open; **513 P.O. / 515 Dunn are hypotheses only**.
+
 ## March 1912
 H. H. Smith applied for a pool-hall license at 503 Main (`E-023`).
+
+## December 1912
+Schrader sold his two Oregon City bakeries, one on Main Street and the other at Seventh and John Adams, to Wemmo & Haas. Exact Main Street number remains a research target.
 
 ## February 1914
 L. Hylton was profiled at 503 Main (`E-024`).
