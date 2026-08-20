@@ -67,5 +67,7 @@ An earlier working statement said Holman moved into new quarters at Fifth & Main
 ## RL-021 — Physical Source Mirroring Backlog
 Physically mirror original source binaries where the current web/file-transfer environment could verify but not copy them. Current priority includes newspaper pages `S-064` through `S-068`, NPS source `S-069`, and the previously noted government PDFs `S-062` and `S-063`. Source-capture notes and canonical URLs are already preserved; this lead is specifically about retaining local binary copies.
 
+**20 August 2026 status:** Direct binary downloads were attempted through both the container/file-transfer path and browser-accessible source endpoints. The browser can verify/render these PDFs, but the available transfer path does not expose the remote PDF bytes for repository upload. Keep the canonical URLs and verified source captures; if local binary preservation is required, obtain/upload the original files manually or retry when a binary-capable source path is available.
+
 ## RL-022 — Verify the 1925 Municipal Activities Report Fire Claim
 Obtain the original **1925 Municipal Activities Report** and verify or refute the earlier conversational claim of an **18 April 1925 fire on Main between 5th and 6th caused by a chimney spark**. The specific entry has not been independently recovered, so it must not be cited as evidence until the original report is inspected. If confirmed, archive the report and assess whether it can be tied to 501, 503, 505, or another storefront.
