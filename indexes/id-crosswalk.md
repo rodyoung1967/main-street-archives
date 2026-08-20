@@ -9,7 +9,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `B-###` | Building / address record | `buildings/`, `database/buildings.yml`, `ARCHIVE_INDEX.md` |
 | `BUS-###` | Business record | `businesses/`, `businesses/business-index.md`, `database/businesses.yml` |
 | `P-###` | Person / family / organization record | `people/`, `people/people-index.md`, `database/people.yml` |
-| `E-###` | Evidence item / claim support | `evidence/evidence-register.md` |
+| `E-###` | Evidence item / claim support | `evidence/evidence-register.md`; detailed standalone evidence notes may also live under `evidence/` |
 | `S-###` | Source record | `evidence/source-register.md` |
 | `IMG-####` | Media/image metadata item | `media/photo-metadata-register.md` |
 | `A-###` | Artifact record / physical artifact ID | `artifacts/images/README.md`, `media/photo-metadata-register.md` |
@@ -38,7 +38,7 @@ This file connects the archive's ID systems so related records can be audited wi
 ## Sanborn Map Crosswalk
 
 | Map ID | Source | Repository file | Evidence / comparison | Buildings |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | `SM-001` Sanborn key | `S-014` | `maps/sanborn/originals/sanborn key.pdf` | Supports interpretation of all Sanborn evidence | `B-001`, `B-002`, `B-003` |
 | `SM-002` 1884 master map | `S-015` | `maps/sanborn/originals/1884-01- Master Map (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
 | `SM-003` 1888 Sanborn | `S-016` | `maps/sanborn/originals/1888-02 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
@@ -56,8 +56,8 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at **503 only** | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-042`–`E-045`, `E-047`–`E-049`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058`. **Do not attach `E-038` to 503; the former Mrs. Nemeth/Nesmeth 503 purchase claim is superseded.** |
 | `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-039`, `E-041`, `E-045`, `E-046`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053`. `E-038` records the corrected Wiitanen purchase of the **505 building** from Mrs. Nesmeth/Nemeth after they had already begun operating Brass Rail. |
-| `B-003` 507 Harding Building | `BUS-007` Harding Drug; `BUS-023` Dixon's Bakery | `E-016`, `E-017`, `E-045`; `S-052` |
-| `B-003` 507 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant | `E-016`, `E-017`, `E-020`, `E-021`; `S-012`, `S-014`-`S-022`, `S-023` |
+| `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery fire context | Original-building evidence `E-016`, `E-017`, `E-020`, `E-021`, `E-045`; `S-052`. Present replacement building dated **1968** by `S-063`. |
+| `B-004` 527 Main Street / Swartz Building | Bailey & Price documented at 527 in 1912; current building/business chronology still being expanded | `S-061` documents Bailey & Price at 527 in 1912. `E-053`, `S-062`, `S-063` identify the present **Swartz Building** and date it to **1935**. Detailed note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`. |
 
 ## Person / Business Crosswalk
 
