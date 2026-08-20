@@ -136,8 +136,8 @@ buildings:
 
   - id: B-003
     name: 507 Main Street / Harding Building
-    address: 507 Main Street, Oregon City, Oregon
-    notes: Harding Building / Harding Drug Store. Gutted in the 1 September 1967 Main Street fire (E-045). Replacement-building date still pending.
+    address: 507-511 Main Street, Oregon City, Oregon
+    notes: Original Harding Building / Harding Drug Store context. Gutted in the 1 September 1967 Main Street fire (E-045). ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
     related_businesses:
       - BUS-007
       - BUS-008
@@ -151,6 +151,8 @@ buildings:
       - E-020
       - E-021
       - E-045
+    related_sources:
+      - S-063
     related_maps:
       - SM-002
       - SM-003
@@ -160,3 +162,12 @@ buildings:
       - SM-007
       - SM-008
       - SM-009
+
+  - id: B-004
+    name: 527 Main Street / Swartz Building
+    address: 527 Main Street, Oregon City, Oregon
+    notes: Present Swartz Building is dated 1935 by the City of Oregon City 2000 downtown historic-resource survey and ODOT's 2021 cultural-resources table. Bailey & Price is documented at 527 Main on 5 January 1912, so the 1912 business occupied a predecessor building/storefront at the same address unless later address-renumbering evidence changes that interpretation. The present 1935 building predates the 1 September 1967 fire and therefore was not a wholesale post-fire replacement. City report notes later entrance alteration.
+    related_sources:
+      - S-061
+      - S-062
+      - S-063
