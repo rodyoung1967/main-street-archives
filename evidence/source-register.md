@@ -65,7 +65,7 @@ Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.m
 Notes: Repeats Holman and Randall at **Fifth and Main St.** Original page PDF still needs physical mirroring.
 
 ## S-066 — Oregon City Courier, 11 January 1917, R. L. Holman at Fifth and Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-7.pdf  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-5.pdf  
 Type: Primary newspaper advertisement.  
 Related evidence: `E-054`  
 Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
