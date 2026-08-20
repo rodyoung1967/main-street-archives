@@ -29,6 +29,23 @@ Notes: Contemporary business advertising places I. Tolpolar opposite the Post Of
 ## S-061 — Oregon City Courier, 5 January 1912, page 6 business advertisements
 Canonical page URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/  
 Repository transcription: `newspapers/oregon-city-courier/1912-01-05-page-6-transcription.md`  
-Source images: User-supplied photographs of page 6 viewed in the Historic Oregon Newspapers interface, supplied 20 August 2026.  
+Repository PDF: `newspapers/oregon-city-courier/1912-01-05-page-6-main-street-ads.pdf`  
+Original uploaded filename: `503 505-Chicago Store 507 509 511 527 Bailey_Price Oregon City Courier 1913.pdf` (the `1913` year in the upload filename was a typo; the page is 5 January 1912).  
 Related evidence: `E-026`, `E-050`, `E-051`, `E-052`  
-Notes: Page 6 advertisements include **The Chicago Store — "Main St. just below Postoffice"** (independently established at **505 Main** by `E-026`); **Bailey & Price, Billiard and Pool Parlors — 527 Main Street, Opposite Grand Theater**; **Clems Chop House — 5th and Main Street**; and **Wm. Gardner, Watchmaker and Jeweler — Main Near 8th**. H. P. Brightbill at **509 Main** is also documented from this issue (`S-059`). Full page/PDF binary still needs to be downloaded into `newspapers/oregon-city-courier/` when the archive endpoint permits retrieval.
+Notes: Page 6 advertisements include **The Chicago Store — "Main St. just below Postoffice"** (independently established at **505 Main** by `E-026`); **Bailey & Price, Billiard and Pool Parlors — 527 Main Street, Opposite Grand Theater**; **Clems Chop House — 5th and Main Street**; and **Wm. Gardner, Watchmaker and Jeweler — Main Near 8th**. H. P. Brightbill at **509 Main** is also documented from this issue (`S-059`).
+
+## S-062 — City of Oregon City, Downtown Final Report, 2000
+Canonical URL: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF  
+Type: Official municipal historic-resource survey / secondary source.  
+Relevant pages: p. 14 discusses later entrance alterations to the Swartz Building; summary table near the end of the report lists **527 Main St. — Swartz Building — 1935**.  
+Related evidence: `E-053`  
+Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
+Notes: The report classifies the Swartz Building as historic but not eligible in its then-current state and gives **1935** as the construction date. It also notes that the entrance had been altered after the earlier 1983 survey. The full external PDF was browser-verified on 20 August 2026; direct binary mirroring from the City endpoint was not available in the current tool environment, so the repository preserves the canonical URL and a verified source extract/provenance note.
+
+## S-063 — ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
+Canonical URL: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf  
+Type: Official state cultural-resources planning report / secondary source.  
+Relevant page: p. 16, Table 2.  
+Related evidence: `E-053`; also resolves the current Harding Building replacement date question.  
+Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
+Notes: Table 2 lists **527 Main St — Swartz Building — 1935**. The same table lists **507-511 Main St — Harding Building — 1968**, providing documentary support for the replacement-building date after the 1 September 1967 fire. Because the 2021 table likely draws in part on earlier inventory work, treat it as strong corroboration rather than necessarily a wholly independent original dating source. The external PDF was browser-verified on 20 August 2026; direct binary mirroring from the ODOT endpoint was not available in the current tool environment.
