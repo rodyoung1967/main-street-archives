@@ -49,3 +49,46 @@ Relevant page: p. 16, Table 2.
 Related evidence: `E-053`; also resolves the current Harding Building replacement date question.  
 Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
 Notes: Table 2 lists **527 Main St — Swartz Building — 1935**. The same table lists **507-511 Main St — Harding Building — 1968**, providing documentary support for the replacement-building date after the 1 September 1967 fire. Because the 2021 table likely draws in part on earlier inventory work, treat it as strong corroboration rather than necessarily a wholly independent original dating source. The external PDF was browser-verified on 20 August 2026; direct binary mirroring from the ODOT endpoint was not available in the current tool environment.
+
+## S-064 — Oregon City Courier, 17 June 1915, Holman & Randall at Fifth and Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-3.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-054`  
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Notes: Directly places R. L. Holman and T. P. Randall, undertakers, at **Fifth and Main St.** Does not print 501 Main. Original page PDF still needs physical mirroring.
+
+## S-065 — Oregon City Courier, 2 March 1916, Holman & Randall at Fifth and Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-02/ed-1/seq-9.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-054`  
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Notes: Repeats Holman and Randall at **Fifth and Main St.** Original page PDF still needs physical mirroring.
+
+## S-066 — Oregon City Courier, 11 January 1917, R. L. Holman at Fifth and Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-7.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-054`  
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Notes: Directly places R. L. Holman, leading undertaker, at **Fifth and Main St.** Original page PDF still needs physical mirroring.
+
+## S-067 — Oregon City Courier, October–December 1918, Holman & Pace chapel / funeral parlors
+Primary captured page: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-1.pdf  
+Type: Primary newspaper references.  
+Related evidence: `E-055`  
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Notes: Establishes Holman & Pace chapel/funeral-parlor business continuity in 1918. Recovered references do **not** give Fifth & Main or 501 Main. Original page binaries still need physical mirroring.
+
+## S-068 — Eastern Clackamas News, 17 February 1921, Holman & Pace
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn96088133/1921-02-17/ed-1/seq-8.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-055`  
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Notes: Identifies Holman & Pace as undertakers, embalmers and funeral directors in Oregon City. No street address is printed in the recovered ad. Original page PDF still needs physical mirroring.
+
+## S-069 — National Register nomination, DeWitt Clinton Latourette House, 1992
+Canonical PDF: https://npgallery.nps.gov/GetAsset/152322a5-6e9f-44b2-8871-c4fef169dad0/  
+Type: Official National Park Service documentation / secondary source lead.  
+Relevant page: PDF p. 6.  
+Related evidence: `E-056`  
+Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`  
+Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. NPS PDF binary still needs physical mirroring if desired.

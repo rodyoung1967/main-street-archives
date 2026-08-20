@@ -171,3 +171,25 @@ buildings:
       - S-061
       - S-062
       - S-063
+
+  - id: B-005
+    name: 501 Main Street (historic / removed)
+    address: 501 Main Street, Oregon City, Oregon
+    notes: 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The 1925 store tenant remains unknown.
+    related_evidence:
+      - E-020
+      - E-021
+      - E-054
+      - E-055
+      - E-056
+    related_sources:
+      - S-021
+      - S-023
+      - S-064
+      - S-065
+      - S-066
+      - S-067
+      - S-068
+      - S-069
+    related_maps:
+      - SM-008

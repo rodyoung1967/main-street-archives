@@ -25,25 +25,34 @@ H. H. Smith applied for a pool-hall license at 503 Main (`E-023`).
 Schrader sold his two Oregon City bakeries, one on Main Street and the other at Seventh and John Adams, to Wemmo & Haas. Exact Main Street number remains a research target.
 
 ## February 1914
-L. Hylton was profiled at 503 Main (`E-024`).
+L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that undertaker R. L. Holman moved to Fifth & Main in 1914 is **not currently accepted as established** because the contemporaneous move notice has not been recovered (`RL-020`).
+
+## June 1915–January 1917 — Undertakers at Fifth & Main
+Primary *Oregon City Courier* advertisements directly place **R. L. Holman and T. P. Randall** at **Fifth and Main St.** in June 1915 and March 1916, and **R. L. Holman** at the same location in January 1917 (`E-054`, `S-064`–`S-066`). This location is a plausible candidate for the later-numbered 501 Main corner store, but **no recovered source yet equates Fifth & Main with 501 Main**.
 
 ## October 1918
-Wolf & Miller appeared at 505 Main (`E-027`).
+**Wolf & Miller** appeared at **505 Main** (`E-027`). Separate newspaper references identify the **Holman & Pace** chapel/funeral parlors in Oregon City (`E-055`), but those 1918 Holman & Pace references do not state a street address.
 
 ## 1919
-A 2017 article and City synthesis report 503 Main was constructed about 1919; treat this as a working surviving-building estimate.
+A 2017 article and City synthesis report say the surviving 503 Main building was constructed about 1919; treat this as a working surviving-building estimate rather than proof of first construction. No direct 1919 occupant has yet been established for 501 or 503, and no direct 1919 505 occupant has been recovered after Wolf & Miller's documented October 1918 presence.
 
-## 1921-1922
-Dr. Freeze advertised at 505 / 505 1/2 Main (`E-028`).
+## February 1921
+A primary advertisement shows **Holman & Pace** still operating as undertakers/funeral directors in Oregon City (`E-055` / `S-068`), but it does not provide a street address.
 
-## 1925 / 1950 Sanborn
-The maps show separate 501, 503, 505, and 507 occupancies; 503 is restaurant use and 505 has billiards/cigars/beer-related use.
+## 1921-1922 — 505 Main
+Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), providing direct evidence of occupied premises at 505 by 1921.
+
+## 1924 — directory source exists, pages still needed
+A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as the local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
+
+## 1925 Sanborn — 501 / 503 / 505
+The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1915–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.
 
 ## 1935 — present 527 Main / Swartz Building
-City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later renumbering evidence changes the interpretation.
+City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.
 
 ## 1936-1944 — 501 Main removal window
-Aerial evidence establishes that 501 Main existed in 1936 and was removed by 1944 (`E-021`).
+Aerial evidence establishes that a distinct **501 Main structure existed in 1936 and was removed by 1944** (`E-021`). Its exact tenant history, ownership, removal date, and relationship to McLoughlin/US99E work remain open.
 
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.

@@ -54,3 +54,18 @@ Priority property lead. Identify the woman remembered as **Mrs. Nesmeth / Nemeth
 
 ## RL-017 — Richard Wiitanen Estate / 505 Transfer, 2024-2025
 Locate probate, deed, assessor, or estate-transfer records confirming that **505 Main passed to Rodney Young and Mitchell Young as part of Richard / Dick Wiitanen's estate after his November 2024 death**. Determine the exact vesting date, deed/instrument, estate or trust entity involved, and when 505 LLC became the operative ownership/lessor vehicle reflected in the 2025 lease.
+
+## RL-018 — Obtain the 1924 Oregon City Directory
+A 1992 National Register nomination (`S-069` / `E-056`) cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as the local repository for additional data. Obtain or inspect the actual directory. Priority target: the Main Street address index for **501, 503, 505, 507 and adjacent numbers**, plus alphabetical/business listings for known occupants.
+
+## RL-019 — Identify the 1925 501 Main Store / Test the Holman Address Mapping
+The 1925 Sanborn directly shows **501 Main as a store** (`E-020`), but the tenant is unknown. Primary newspaper evidence places Holman/Randall/Holman undertakers at **Fifth & Main** in 1915–1917 (`E-054`). Determine whether that premises later carried the number **501 Main**, when Holman/Holman & Pace left the corner, and which business occupied 501 by 1924–1925. Do not equate Fifth & Main with 501 without direct address-mapping evidence.
+
+## RL-020 — Recover the Claimed 1914 Holman Move Notice
+An earlier working statement said Holman moved into new quarters at Fifth & Main in 1914, but the contemporaneous page supporting that statement has not been recovered. Search 1914 Oregon City newspapers for Holman, Randall, undertaker, new quarters, Fifth/Main, and relocation wording. Until recovered, **do not cite 1914 as the start date**; direct evidence currently begins in June 1915.
+
+## RL-021 — Physical Source Mirroring Backlog
+Physically mirror original source binaries where the current web/file-transfer environment could verify but not copy them. Current priority includes newspaper pages `S-064` through `S-068`, NPS source `S-069`, and the previously noted government PDFs `S-062` and `S-063`. Source-capture notes and canonical URLs are already preserved; this lead is specifically about retaining local binary copies.
+
+## RL-022 — Verify the 1925 Municipal Activities Report Fire Claim
+Obtain the original **1925 Municipal Activities Report** and verify or refute the earlier conversational claim of an **18 April 1925 fire on Main between 5th and 6th caused by a chimney spark**. The specific entry has not been independently recovered, so it must not be cited as evidence until the original report is inspected. If confirmed, archive the report and assess whether it can be tied to 501, 503, 505, or another storefront.
