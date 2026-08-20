@@ -68,13 +68,13 @@ What was bartender Willie's full name, and when did he work at 505 Main?
 What was Victor's full name, and what was the exact restaurant-management arrangement during Raye Grisham's Wheel years and early Dick/Sheila years?
 
 ## OQ-016 — 507 Harding Building Fire
-Status: Partially answered. Fire date is 1 September 1967; replacement-building details remain open.
+Status: Partially answered. Fire date is **1 September 1967** (`E-045`). ODOT's 2021 cultural-resources table dates the present replacement **507-511 Harding Building to 1968** (`S-063`). Still open: exact demolition/cleanup dates, architect/builder, permits, construction sequence, and which pre-fire storefront parcels were consolidated into the replacement.
 
 ## OQ-017 — Harding Building Bakery / Tony's Restaurant
 Status: Partially answered. Dixon's Bakery was gutted; Tony's exact role/location remains open.
 
 ## OQ-018 — 507 Replacement Building
-Was the current 507 Main building completed in 1968, 1969, or another year?
+Status: **Answered at the historic-inventory level.** ODOT's 2021 cultural-resources report, p. 16 Table 2, lists **507-511 Main St — Harding Building — 1968** (`S-063`). Primary 1968 permits, construction notices, plans, or assessor records would still be desirable to document the exact completion date and project details.
 
 ## OQ-019 — 503 Modification Around 2017
 What work was done to 503 Main around 2017, and what permits, photos, or assessor records document it?
@@ -110,3 +110,6 @@ What was the exact Main Street address of H. P. / Herman Schrader's bakery circa
 
 ## OQ-027 — Brightbill Main Street Address Chronology
 How did Henry/H. P. Brightbill's store move between the documented **503 Main in August 1908** (`E-042`) and **509 Main on 5 January 1912** (`E-050`)? Find intervening advertisements/directories to establish move date and whether both records refer to the same Brightbill business/person.
+
+## OQ-028 — 527 Main / Swartz Building Transition
+Status: Current-building date substantially answered. City of Oregon City and ODOT historic-resource surveys identify **527 Main as the Swartz Building, built 1935** (`S-062`, `S-063`). Bailey & Price is documented at **527 Main in January 1912** (`S-061`), so an earlier structure occupied the address. Still open: exact predecessor-building demolition/replacement date, who Swartz was, builder/architect/owner, 1935 permits or newspaper construction notices, intervening occupants, and any damage/repairs from the 1 September 1967 fire.
