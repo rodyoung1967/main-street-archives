@@ -98,3 +98,15 @@ How should future amendments, tenant changes, permits, OLCC license records, and
 
 ## OQ-023 — US99E / McLoughlin Corridor vs Main Street Buildings
 When was McLoughlin Boulevard / US99E widened or realigned, and did that project cause removal of 501 Main between 1936 and 1944?
+
+## OQ-024 — Oregon City Post Office Address, circa 1908-1912
+What was the exact numbered Main Street address of the Oregon City Post Office / Postoffice Building? Current relative-location evidence places I. Tolpolar opposite it and Pioneer Transfer Co. in it. **513 Main is a working candidate, not established fact.** See `E-051`.
+
+## OQ-025 — M. E. Dunn Confectionery Address
+What was M. E. Dunn's exact Main Street number circa 1912? Contemporary advertising places the confectionery (cigars, candies, Wilhoit water, soft drinks) near/next door to the Post Office. If the P.O. proves to be 513 and Harding occupied 511, 515 is a plausible candidate, but direct evidence is required.
+
+## OQ-026 — Schrader's Main Street Bakery Address
+What was the exact Main Street address of H. P. / Herman Schrader's bakery circa 1905-1912? Contemporary advertising places it on Main and near the Post Office. Schrader also had a separate bakery at Seventh and John Adams. The Main Street bakery was sold to Wemmo & Haas in December 1912. **503 and 505 are excluded from the working candidate set; do not assign an exact number without documentary evidence.**
+
+## OQ-027 — Brightbill Main Street Address Chronology
+How did Henry/H. P. Brightbill's store move between the documented **503 Main in August 1908** (`E-042`) and **509 Main on 5 January 1912** (`E-050`)? Find intervening advertisements/directories to establish move date and whether both records refer to the same Brightbill business/person.
