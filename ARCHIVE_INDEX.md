@@ -6,8 +6,8 @@ This index is a human-readable navigation file for the Main Street Archive. It i
 
 For a family member, historian, or other first-time reader who wants to understand the story rather than the repository structure, start with:
 
-1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about 503, 505, and 507 Main Street, including the family/business history and the distinction between documented facts, family testimony, and open dates.
-2. **`buildings/503-main.md` and `buildings/505-main.md`.** Read these next for address-specific histories.
+1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about the Main Street research area, including 503, 505, 507-511, and 527 Main, the family/business history, and the distinction between documented facts, family testimony, and open dates.
+2. **`buildings/503-main.md`, `buildings/505-main.md`, `buildings/507-harding-building.md`, and `buildings/527-swartz-building.md`.** Read these next for address-specific histories.
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
 5. **`evidence/evidence-register.md` and `evidence/source-register.md`.** These are the audit trail: what evidence supports each claim and where it came from.
@@ -91,27 +91,49 @@ Accuracy rules:
 - At 505, Dick and Sheila **operated Brass Rail before they owned the building**, then later purchased the 505 building from Mrs. Nesmeth / Nemeth. Do not collapse those into one transaction.
 - At 503, Dick and Sheila **bought The Wheel business from Raye**, later bought the 503 building, and later sold the business and building together. Exact transaction dates and counterparties still need documentary confirmation.
 
-### 507 Main Street / Harding Building
+### 507-511 Main Street / Harding Building
 
 Primary file: `buildings/507-harding-building.md`
 
 Associated names and topics:
 
-- Harding Building
+- Original Harding Building
 - Harding Drug Store (gutted 1 September 1967)
-- Dixon's Bakery (gutted in same fire)
+- Dixon's Bakery (named among businesses gutted in same fire; exact storefront number still open)
 - George A. Harding
 - Dr. Bailey
 - Tony's Restaurant
-- 1 September 1967 fire (`E-045`); earlier 1968/1969 date superseded
-- Replacement building question
+- 1 September 1967 fire (`E-045`); earlier 1968/1969 fire-date wording superseded
+- **Present replacement Harding Building at 507-511 Main dated 1968 by ODOT (`S-063`)**
+- Exact 1968 permit, builder, architect, completion date, and pre-fire storefront consolidation remain open
 
 Key evidence and map sources:
 
-- `E-016` Harding Building fire oral/project notes (date superseded by `E-045`)
+- `E-016` Harding Building fire oral/project notes (date and origin superseded by `E-045`)
 - `E-017` Harding Building replacement photo metadata note
 - `E-045` Oregonian 2 September 1967 fire article
+- `S-063` ODOT 2021 cultural-resources table: 507-511 Harding Building, build date 1968
 - `SM-002` through `SM-009` Sanborn map series
+
+### 527 Main Street / Swartz Building
+
+Primary file: `buildings/527-swartz-building.md`
+
+Associated names and topics:
+
+- Bailey & Price, Billiard and Pool Parlors — documented at **527 Main** on 5 January 1912 (`S-061`)
+- The 1912 occupant necessarily belongs to a **predecessor building/storefront** because the present building is later
+- **Swartz Building — present structure dated 1935**
+- City of Oregon City Downtown Final Report, 2000 (`S-062`)
+- ODOT Cultural Resources Planning Document, 2021 (`S-063`)
+- Current 1935 building predates the 1 September 1967 fire and was therefore not a wholesale post-fire replacement
+- City report notes a later entrance alteration after the earlier 1983 survey
+
+Detailed source extraction/provenance note:
+
+- `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
+
+Open research questions include the predecessor-building replacement date, identity of Swartz, 1935 owner/builder/architect and permits, intervening occupants, and the exact effect of the 1967 fire on 527.
 
 ## Sanborn Map Index
 
@@ -181,17 +203,19 @@ High-priority people/entities:
 - Open questions: `evidence/open-questions.md`
 - Photo metadata register: `media/photo-metadata-register.md`
 - Sanborn map register: `maps/sanborn-map-register.md`
+- 527/Swartz survey extraction note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
 
 ## Current Priority Searches
 
 1. Document the exact **503** sequence: Dick/Sheila purchase of The Wheel business from Raye, later purchase of the 503 building, and later joint sale of the business and building.
 2. Document the exact **505** sequence: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen 505 deed, later business sales/repossession periods, and 2024 estate transfer.
-3. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using the 1884, 1888, 1890, 1892, 1900, 1925, and 1950 sheets.
+3. Build a Sanborn comparison table for the expanding Main Street research area, including 503, 505, 507, 509, 511, 527, and possible 501 Main where sheets permit.
 4. Tax statements, assessor cards, permits, deeds, and parcel records for 503 and 505.
 5. 1925 Sanborn map verification for 501 / 503 / 505 Main.
 6. Business-name chronology for The Wheel, Brass Rail Tavern, The Dug Inn, Sports Keg, 505 Tavern, and Thirsty Duck.
 7. OLCC records and business licenses for 503 and 505 Main.
 8. City directories and telephone books for Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, The Wheel, Brass Rail Tavern, and 505 Tavern.
-9. Replacement-building documentation for the 507 / Harding Building fire aftermath.
-10. Original source recovery for Time Capsule Maps photo metadata.
-11. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.
+9. Locate **primary 1968 permit/assessor/construction records for the replacement 507-511 Harding Building**, now that `S-063` supplies the historic-inventory year.
+10. Research **527 Main / Swartz Building**: 1935 permit/construction notice, Swartz identity, predecessor demolition/replacement, occupants between 1912 and 1935, and 1967 fire effects.
+11. Original source recovery for Time Capsule Maps photo metadata.
+12. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.
