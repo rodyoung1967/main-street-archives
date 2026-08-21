@@ -375,3 +375,11 @@ Sources: `S-072`
 Related record: `evidence/E-059-1905-fifth-main-street-improvement.md`  
 Claims: Published Oregon City notices document 1905 improvement of **Fifth Street** from Railroad Avenue to Main Street and from Main Street to Water Street, including grading, crushed rock, sidewalks, concrete curbs, corner blocks, and drains, with later solicitation of bids for the work. This is direct physical/municipal context at the Fifth-and-Main intersection but does not identify business occupants or numbered storefronts.  
 Confidence: Very High for the improvement limits and 1905 street-work context; None for 503/505/507 business occupancy from this source.
+
+## E-060 — Preliminary Oregon City Street-Numbering System, 1905
+Type: Primary newspaper / municipal-context evidence  
+Date: 30 June 1905  
+Sources: `S-074`  
+Related record: `evidence/E-060-1905-preliminary-street-numbering.md`  
+Claims: The 30 June 1905 *Oregon City Enterprise*, in connection with federal inspection for free mail delivery, urged residents to use a **system of numbering residences that had recently been introduced**. This establishes preliminary numbering by mid-1905, but later 1906 sources show that the City still needed to formalize the system through an ordinance, numbering plat, street signs, and mandatory implementation. The 1905 item therefore does not by itself prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.  
+Confidence: Very High for a preliminary numbering system by June 1905; Unresolved for exact mapping to the later 501/503/505/507 sequence.
