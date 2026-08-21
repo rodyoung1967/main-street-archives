@@ -28,6 +28,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 10. The 1908 pass provides the first currently registered exact target-number occupant after the numbering program: **Henry Brightbill at 503 Main** (`E-042`). It also documents removal of Main Street overhead utility infrastructure (`E-070`). Exact 503 occupancy in 1908 predates the later c.1919 surviving-building estimate, proving that address history and surviving-building history must be handled separately.
 11. The 1909 pass adds physical evidence on both the **Water Street edge of the Fifth–Sixth block** (`E-074`) and the **Sixth/Main intersection** (`E-075`, `E-076`). It also corrects the prior unsupported equation of the c.1909 Harding Building with 507 Main: current evidence establishes a Harding Building around 1909 and a Main-between-Fifth/Sixth location by 1911, but not an exact 1909 number (`E-077`).
 12. The 1910 pass establishes a **direct new-building event on the Gambrinus property at Sixth & Main** (`E-078`), places Brightbill at **509 Main by September 1910** after his 503 Main occupancy in 1908 (`E-081`), and places Pacific Telephone & Telegraph at **510 Main** (`E-082`). These anchors substantially tighten the address and building chronology while leaving the exact 501/503/505/507 occupants unresolved for 1910.
+13. The 1911 pass directly establishes **The Chicago Store at 505 Main by 31 March after being at 405 Main through 3 February** (`E-084`), proves the new Gambrinus block was occupied by early March (`E-086`), and adds a one-door-north Harding→Willamette Building relationship that may eventually help map 505/507 but is not yet an exact-address proof (`E-085`, `RL-035`).
 
 ## Year-by-Year Working Notes
 
@@ -38,7 +39,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 | 1890 | `SM-004` | The 5th/Main area is mapped again. Detailed 503/505/507 transcription still needs a zoomed crop and line-by-line reading. | Compare against 1888 and 1892 for early commercial-block development. |
 | 1892 | `SM-005` | Block 26 at Main and 5th shows a developed row of Main-facing commercial spaces. Visible labels include clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank near the 5th/Main corner. The modern 501/503/505 numbering is not the dominant labeling on this sheet. | Strong evidence of a pre-1919 commercial frontage in the relevant 5th/Main block. Use cautiously for exact modern address mapping until address-number transition is resolved. |
 | 1900 | `SM-006` | Sheet 13 shows a developed Main-frontage row near 5th, with labels including saloon, grocery, bake house, dry goods/clothing/gents furnishing, furniture/stoves/wall paper, grocery, drugs, and jewelry/bicycles with I.O.O.F. Hall on the second floor. The sheet labels Main as widened / The Willamette in this area. | Strong evidence that the commercial row predates 1919. The later 1919 date may represent rebuild, remodel, reassessment, or a specific building event rather than the first commercial building on the frontage. |
-| 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed. |
+| 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed; use the independent 1911 newspaper anchors below instead. |
 | 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies in 1925. |
 | 1950 | `SM-009` | The revised 1950 sheet shows a continued commercial frontage. At the lower Main frontage, `503` is labeled restaurant with concrete floor; `505` is labeled billiards, cigars, and beer, with restaurant wording also visible; `507` appears as a separate store space; nearby `509A/B`, `511`, `513`, and higher addresses include restaurant, office/store, hall, and bake-house related labels. | Strong mid-century evidence for separate 503/505/507 address/occupancy pattern and for restaurant/bar-adjacent uses at 503 and 505 before later known tavern history. |
 
@@ -110,6 +111,19 @@ The 1910 pass produces the strongest north-end structural evidence yet recovered
 
 For Block 26 reconstruction, 1910 now establishes a real structural-change point at the **Gambrinus Sixth/Main property**, but it does not yet establish how that building mapped to later numbered storefronts or whether it occupied exactly the same footprint as the 1906 William Tell structure.
 
+## 1911 Non-Sanborn Address, Building, and Grade Anchors
+
+The 1911 pass adds an exact target address and several high-value building relationships:
+
+- `E-084` shows **The Chicago Store at 405 Main through 3 February and at 505 Main by 31 March**, with 505 repeated in April. This is direct proof of commercial occupancy at the **505 Main address** in 1911. It is not proof that the surviving later-dated 505 building was already standing; a predecessor storefront may have carried the same number.
+- `E-085` preserves two contemporary Harding Building descriptions: one on **Sixth Street between Main and Railroad Avenue**, and one on **Main Street between Fifth and Sixth**. George Young's move notice says he moved **one door north** from the Harding premises into the Willamette Building. This adjacency is potentially important but is not enough to assign Harding or Willamette to 505/507 (`RL-029`, `RL-035`).
+- `E-086` establishes that the **new Gambrinus block was occupied/in service by 3 March 1911**, when its second story was rented as an Electric Hotel annex. The direct William Tell demolition/replacement link remains unresolved (`RL-031`).
+- `E-087` documents another **Sixth Street grade/improvement process** in 1911, including an improvement corridor from High to Jackson crossing Main. This may affect building entrances, sidewalk levels, and photographic interpretation at the north end of the block but is not target-building demolition evidence.
+- `E-088` continues Pacific Telephone & Telegraph at **510 Main** into January 1911, strengthening the east-side address chronology while leaving 1907–1911 physical continuity to be proved (`RL-027`).
+- Targeted 1911 searches did not recover exact occupants at 501, 503, or 507 Main or a fire/demolition/new-building event explicitly tied to those numbers. 505 is positively occupied by the Chicago Store. Remaining inaccessible Courier page-image coverage is logged under `RL-034`.
+
+A useful but still unproven adjacency hypothesis now exists: if George Young remained in the same Willamette Building premises until the later January 1912 listing that gives him **507 Main**, then the one-door-south Harding premises could correspond to a neighboring number such as 505. The timing of the Chicago Store's arrival at 505 in March 1911 makes this worth testing, but the archive does **not** treat Harding=505 or Willamette=507 as established without direct continuity/address evidence (`RL-035`).
+
 ## 1925 Address / Occupancy Notes
 
 The 1925 sheet is now the key evidence for the `501 / 503 / 505` question.
@@ -147,9 +161,10 @@ Archive handling:
 - Do not describe 1919 as proven original first construction or first use of the 503 address.
 - Treat `E-042` as proof that the **503 Main address/storefront was occupied in 1908**, not as proof the surviving building existed.
 - Treat `E-081` as proof that Brightbill had moved/readdressed to **509 Main by September 1910**, not as evidence that the 503 premises were vacant thereafter.
-- Add a new research question: what changed between the 1908 Brightbill premises and the later c.1919/1925 building/footprint pattern?
+- Treat `E-084` as proof that **505 Main was occupied by the Chicago Store by 31 March 1911**, not as proof the surviving 505 building was already standing.
+- Add a new research question: what changed between the 1908/1911 numbered predecessor premises and the later c.1919/c.1920/1925 building/footprint pattern?
 - Check assessor records, permits, deeds, tax cards, newspaper construction/demolition notices, fires, and the 1906 numbering/plat materials for a construction, remodel, rebuild, readdressing, or reassessment event.
-- Account for the documented **1907 approximately six-inch Main Street grade increase**, **1908 overhead-wire removal**, **1909 same-block Water Street work**, and **1910 sidewalk/awning/sign changes** when comparing storefront elevations, thresholds, rear access, and photographs.
+- Account for the documented **1907 approximately six-inch Main Street grade increase**, **1908 overhead-wire removal**, **1909 same-block Water Street work**, **1910 sidewalk/awning/sign changes**, and **1911 Sixth Street grade work** when comparing storefront elevations, thresholds, rear access, and photographs.
 - Continue the year-by-year construction/demolition watch (`RL-024`) rather than treating an absence of a newspaper hit as proof that no physical change occurred.
 
 ## Open Research Questions Raised by the Maps
@@ -158,18 +173,20 @@ Archive handling:
 - How do **lot 8 at Sixth & Main** and the remaining Block 26 lots map toward Fifth Street (`RL-026`)?
 - Which physical premises/building did Henry Brightbill occupy at **503 Main in 1908**, and how does it relate to the surviving c.1919-listed 503 building?
 - What caused or accompanied Brightbill's move/readdressing from 503 Main in August 1908 to 509 Main by September 1910?
+- Which physical premises did The Chicago Store enter at **505 Main by March 1911**, and how does that predecessor relate to the surviving later-dated 505 building?
+- Can the Harding→Willamette one-door-north relationship be directly mapped to 505/507 or another address pair (`RL-035`)?
 - When did the modern address numbering sequence `501 / 503 / 505 / 507` become attached to the frontage in actual business use?
 - Was the 1919 date tied to a specific rebuild/remodel rather than first construction?
 - Did the footprint of 503/505 change between 1900 and 1925?
 - How do the 1892 and 1900 older labels map onto modern 501/503/505/507 addresses?
 - What does the 1884-1890 sequence show when the same frontage is cropped and transcribed?
-- Can the 1910 **510 Main** Pacific Telephone address be directly linked back to the 1907 central-office plant (`RL-027`)?
+- Can the 1910–1911 **510 Main** Pacific Telephone address be directly linked back to the 1907 central-office plant (`RL-027`)?
 - Who was the unidentified May 1908 shoe retailer (`RL-028`)?
 - Which lot/building did Philip Street own or control at Sixth & Main in 1909, and what was the scope of the documented repair?
 - Which exact premises housed Carl G. Hodes's Sixth/Main saloon in 1909–1910?
 - What was the exact footprint/number of the Harding Building around 1909–1911 (`RL-029`)?
 - Did the 1910 Gambrinus business block directly replace the 1906 William Tell Hotel structure, and when was the older structure demolished (`RL-031`)?
 - Which exact corners/lots housed Price Bros. and Watson B. Eddy & Son at Sixth/Main in 1910 (`RL-033`)?
-- Do the 1906 William Tell/Gambrinus, 1909 Hodes, 1909 Philip Street repair, and 1910 Gambrinus-building references describe one evolving property or multiple Sixth/Main premises?
+- Do the 1906 William Tell/Gambrinus, 1909 Hodes, 1909 Philip Street repair, and 1910–1911 Gambrinus-building references describe one evolving property or multiple Sixth/Main premises?
 - Does the 1950 `505` billiards/cigars/beer label connect to later 505 Tavern / The 505 / Brass Rail Tavern / The Wheel history?
 - What was the legal relationship, if any, between the 503 restaurant space and the 505 billiards/cigars/beer space in 1925 and 1950?
