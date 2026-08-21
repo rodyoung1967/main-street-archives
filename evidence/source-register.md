@@ -14,6 +14,14 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
 Related evidence: `E-026`  
 Notes: Primary advertisements place The Chicago Store at 505 Main. Also see `S-061` for its 5 January 1912 wording "Main St. just below Postoffice."
 
+## S-049 — The Oregonian, 25 August 1908, “Pretty Girl Is Missing”
+Type: Primary newspaper clipping.  
+Repository clipping: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`  
+Related media: `IMG-0044`  
+Related evidence: `E-042`  
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Notes: Identifies Henry Brightbill as an Oregon City merchant with a store at **503 Main Street**. This is exact numbered occupancy in 1908, not proof that the surviving building later dated c.1919 already existed.
+
 ## S-059 — Oregon City Courier, 5 January 1912, H. P. Brightbill tea advertisement
 Source: User-supplied photograph of newspaper advertisement in ChatGPT conversation, 20 August 2026.  
 Publication/date: *Oregon City Courier*, 5 January 1912.  
@@ -208,3 +216,34 @@ Type: Primary newspaper advertisement / relative-location evidence.
 Related evidence: `E-069`  
 Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
 Notes: Advertisement places **I. Tolpolar — Main St. Opp. Postoffice**. This strengthens his location evidence over the 1904–1905 Main-Street-only ads but does not establish an exact number.
+
+## S-084 — Main Street overhead-wire and pole removal, 1908
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1908-01-10/ed-1/seq-7/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-02-14/ed-1/seq-1/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/  
+Type: Primary newspaper / utility and streetscape evidence.  
+Related evidence: `E-070`  
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Notes: Documents the order and implementation to remove telegraph, telephone, and electric-light poles/wires from Main Street between Eleventh Street and the Basin. The Fifth–Sixth block is within the corridor; no target-building demolition is established.
+
+## S-085 — I. Tolpolar creditor sale opposite Post Office, 1908
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-03/ed-1/seq-2/  
+Type: Primary newspaper advertisement / business-transition evidence.  
+Related evidence: `E-071`  
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Notes: Announces a sale of Tolpolar's stock to satisfy creditors and locates the business **Main St. Opp. P.O.** No numbered address or permanent-closure claim is supported.
+
+## S-086 — Shoe retailer between Fifth and Sixth, 1908
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-05-22/ed-1/seq-7/  
+Type: Primary newspaper advertisement / block-occupancy evidence.  
+Related evidence: `E-072`  
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Notes: Places a promotional shoe retailer directly on **Main Street between Fifth and Sixth Streets**. The merchant name is not reliably recoverable from the available OCR/layout and remains unresolved.
+
+## S-087 — Pacific Telephone Oregon City expansion, 1908
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/  
+Type: Primary newspaper / utility-business evidence.  
+Related evidence: `E-073`  
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Notes: Reports a **$10,000 appropriation** for expanding Pacific Telephone's Oregon City facilities/cables, names Manager George J. Hall, and repeats that all wires would be moved from Main Street. No exact office number is printed.
