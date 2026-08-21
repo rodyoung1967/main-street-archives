@@ -567,3 +567,43 @@ Sources: `S-096`
 Related record: `evidence/E-083-1910-main-street-sidewalk-awning-sign-modernization.md`  
 Claims: Council ordered concrete walks where needed along **Main Street between Eleventh Street and the Basin**, and the *Courier* later reported a city order removing old wooden awnings projecting over sidewalks and requiring projecting signs to be placed flat against buildings. The Fifth–Sixth block lies within the Main Street sidewalk corridor. These are important streetscape changes but do not establish target-building replacement.  
 Confidence: Very High for the 1910 sidewalk/awning/sign actions; Unresolved for exact compliance timing and physical impact at individual 501/503/505/507 premises.
+
+## E-084 — Chicago Store Moves from 405 to 505 Main, 1911
+Type: Primary newspaper advertising / exact-address business-relocation evidence  
+Date: 27 January–28 April 1911  
+Sources: `S-097`  
+Related record: `evidence/E-084-1911-chicago-store-moves-405-to-505-main.md`  
+Claims: The Chicago Store, explicitly **Wolf & Nat, proprietors**, advertised at **405 Main Street** through 3 February 1911. By 31 March it advertised at **505 Main St.**, repeated through April. The documented move/readdressing therefore occurred after 3 February and by 31 March 1911. The available 505 ad text does not directly name proprietors, so proprietorship continuity is not assumed. Exact 505 occupancy is not proof that the surviving later-dated 505 building was already standing.  
+Confidence: Very High for the two addresses and relocation window; Unresolved for proprietorship immediately after the move and the physical relationship to the surviving 505 building.
+
+## E-085 — Harding Building Location Ambiguity and Willamette Adjacency, 1911
+Type: Primary newspaper / building-location and business-move evidence  
+Date: 24 February–10 March 1911  
+Sources: `S-098`  
+Related record: `evidence/E-085-1911-harding-building-location-ambiguity.md`  
+Claims: One *Courier* item locates a repair shop in the **Harding Building on Sixth Street between Main and Railroad Avenue**; another says George Young moved one door north into the **Willamette Building** from the **Harding Building on Main Street between Fifth and Sixth**. The evidence proves the one-door-north adjacency but does not establish exact street numbers or whether the two Harding descriptions refer to one physical building.  
+Confidence: Very High for the published location descriptions and one-door-north move; Unresolved for exact number, lot/footprint, and relationship to later 505/507 numbering.
+
+## E-086 — New Gambrinus Block Occupied as Electric Hotel Annex, 1911
+Type: Primary newspaper / new-building occupancy evidence  
+Date: 3 March 1911  
+Sources: `S-099`  
+Related record: `evidence/E-086-1911-gambrinus-block-electric-hotel-annex.md`  
+Claims: J. Tobin, proprietor of the Electric Hotel, rented the **second story of the new Gambrinus block** as a hotel annex. The block was described as having steam heat, electric lights, and some rooms with hot/cold water connections. This establishes the 1910 new block as occupied/in service by early March 1911.  
+Confidence: Very High for occupancy and described amenities; Unresolved for exact numbered address and the direct William Tell demolition/replacement link.
+
+## E-087 — Sixth Street Grade and Improvement Across Main, 1911
+Type: Primary newspaper reporting of municipal public works  
+Date: March–October 1911  
+Sources: `S-100`  
+Related record: `evidence/E-087-1911-sixth-street-grade-improvement.md`  
+Claims: Oregon City pursued a substantial Sixth Street grade/improvement process in 1911, including grade-change debate, assessment proceedings, and an assessment ordinance for improvement **from High to Jackson**. That corridor crosses Main at the north end of the target block. No source ties the work to demolition or replacement of a specific target storefront.  
+Confidence: Very High for the Sixth Street improvement/grade process; Unresolved for effects on individual buildings.
+
+## E-088 — Pacific Telephone & Telegraph at 510 Main, 1911 Continuity
+Type: Primary newspaper advertisement / exact-address continuity evidence  
+Date: 6 January 1911  
+Sources: `S-101`  
+Related record: `evidence/E-088-1911-pacific-telephone-510-main-continuity.md`  
+Claims: A 6 January 1911 *Courier* advertisement places **Pacific Telephone & Telegraph Co. at 510 Main Street**, carrying the exact-address evidence from late 1910 directly into 1911. This strengthens but does not prove physical continuity with the east-side central-office plant completed in 1907.  
+Confidence: Very High for 510 Main in January 1911; High for continuity with the late-1910 office; exact 1907–1911 premises continuity remains unresolved.
