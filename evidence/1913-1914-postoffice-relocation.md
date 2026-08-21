@@ -6,11 +6,14 @@ This evidence note separates the **old Main Street Post Office used throughout 1
 
 The strongest current reconstruction is:
 
-- The **old Post Office** used during 1913 was in the **Main Street block between Fifth and Sixth Streets**. Its exact numbered address remains unproven; **513 Main is a working candidate only**.
+- The **old Post Office** used during 1913 was in the **Main Street block between Fifth and Sixth Streets** and is now best reconstructed as **513 Main**.
+- **513 Main is a high-confidence reconstructed address, not yet a direct-address transcription.** No recovered primary source has yet literally printed "Post Office, 513 Main."
 - The **replacement Post Office** was constructed **opposite the courthouse** in the Eighth/Main-area courthouse district during late 1913.
 - The Post Office **did not move into the replacement until 28-29 March 1914**.
 
 Therefore 1913 advertisements describing businesses as near, below, next to, or opposite "the Post Office" should be interpreted relative to the **old Fifth-Sixth block Post Office**, not the replacement under construction.
+
+For the full 505/Harding-Building doorway reconstruction that independently points to 513, see `1911-1913-505-harding-building-postoffice-reconstruction.md`.
 
 ## Old Post Office site evidence
 
@@ -39,16 +42,42 @@ Willamette Hall is explicitly described as being on **Main Street, between Fifth
 
 Combined, these reports strongly constrain the old Post Office to the same Fifth-Sixth Main Street block area.
 
-## Consistency with 1912 business geography
+## Independent doorway reconstruction — Hogg Bros. / old Harding Building
 
-The block reconstruction fits existing primary-source clues:
+A second evidence chain now independently points to **513 Main**.
 
-- **505 Main — Chicago Store:** "Main St. just below Postoffice."
+### 10 March 1911 — George Young moves one door north
+
+The *Oregon City Courier* reports that **George Young moved his second-hand store one door north into the Willamette Building**. He had formerly occupied the **Harding Building on Main Street between Fifth and Sixth Streets**.
+
+George Young is then directly documented at **507 Main** on 5 January 1912. Absent evidence of another move, this strongly reconstructs the storefront he vacated — the old Harding Building — as the immediately preceding odd-side storefront, **505 Main**.
+
+### 16 May 1913 — Hogg Bros. rents the old Harding Building
+
+The *Oregon City Courier* reports that Hogg Bros. rented the **Harding Building on Main Street, four doors south of the Post Office**, for its new furniture/hardware store.
+
+If the old Harding Building is 505, the northward storefront count is:
+
+1. 507
+2. 509
+3. 511
+4. **513**
+
+That places the old Post Office at **513 Main**.
+
+This result is independent of the Tolpolar "opposite Post Office" clue and substantially raises confidence in the 513 reconstruction.
+
+## Consistency with 1912-1913 business geography
+
+The 513 reconstruction fits multiple independent primary-source clues:
+
+- **505 Main — Chicago Store:** described itself as **"Main St. just below Postoffice"** in January 1912 and is directly documented at 505 again in January 1913.
 - **514 Main — I. Tolpolar:** advertised opposite the Post Office.
 - **511 Main — George A. Harding:** directly documented there on 5 January 1912.
-- **M. E. Dunn:** repeatedly advertised next door to the P.O.
+- **M. E. Dunn:** repeatedly advertised next door to the P.O.; with Harding at 511 and P.O. reconstructed at 513, **515 becomes the plausible Dunn side**, though Dunn's exact number remains unproven.
+- **Hogg Bros.:** the May 1913 old-Harding-Building location is four doors south of the P.O.; in June the newly opened store is described again as **just below the postoffice**.
 
-These clues make **513 Main** plausible, but not proven. Do not convert the geographic fit into a factual numbered address without a source that prints the number.
+The convergence is strong enough to treat **513 Main as the probable old Post Office address**, while maintaining the distinction between reconstruction and direct transcription.
 
 ## Old lease expiring in 1913
 
@@ -112,14 +141,15 @@ Current evidence is sufficient to distinguish the replacement Post Office distri
 
 ## Evidence handling rules
 
-1. **Do not call 513 Main the Post Office as fact.** It remains a strong candidate.
+1. **513 Main may now be called the probable/high-confidence reconstructed old Post Office address, but not a directly documented numbered address.**
 2. **Do not interpret 1913 Post Office landmarks relative to the later building opposite the courthouse.** The relocation happened in March 1914.
 3. Keep the privately leased 1913-1914 replacement distinct from proposals for a federally owned Post Office building.
-4. Seek the 1913-1914 Polk gazetteer/business directory and municipal/property records for exact numbered addresses.
+4. Keep the early **old Harding Building** used in the 1911-1913 reconstruction distinct from the later 1968 Harding Building at 507-511 Main.
+5. Seek the 1913-1914 Polk gazetteer/business directory and municipal/property/postal records for literal numbered-address confirmation.
 
 ## Open questions
 
-- Exact numbered address of the old Post Office.
+- A primary source explicitly printing the old Post Office as **513 Main**.
 - Owner/lessor of the old ten-year Post Office lease.
 - Exact numbered address and parcel of the replacement building opposite the courthouse.
-- Whether surviving Sanborn, directory, assessor, deed, or postal records explicitly identify either building.
+- Whether surviving Sanborn, directory, assessor, deed, lease, or postal records explicitly identify either building.
