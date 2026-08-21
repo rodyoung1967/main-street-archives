@@ -383,3 +383,35 @@ Sources: `S-074`
 Related record: `evidence/E-060-1905-preliminary-street-numbering.md`  
 Claims: The 30 June 1905 *Oregon City Enterprise*, in connection with federal inspection for free mail delivery, urged residents to use a **system of numbering residences that had recently been introduced**. This establishes preliminary numbering by mid-1905, but later 1906 sources show that the City still needed to formalize the system through an ordinance, numbering plat, street signs, and mandatory implementation. The 1905 item therefore does not by itself prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.  
 Confidence: Very High for a preliminary numbering system by June 1905; Unresolved for exact mapping to the later 501/503/505/507 sequence.
+
+## E-061 — Formal Oregon City Street Numbering, 1906
+Type: Primary newspaper / municipal-context evidence  
+Date: May–August 1906  
+Sources: `S-075`  
+Related record: `evidence/E-061-1906-formal-street-numbering.md`  
+Claims: Oregon City formally implemented street numbering in 1906 for free mail delivery: the Council prepared ordinances; Mayor Caufield approved the numbering ordinance; a **plat designating the correct numbering** was filed with Recorder Dimick; council expenses document numbering-plat work; and street signs were installed. The 17 August issue also prints **504 Main Street** for Lerow’s Glass Blowers. Targeted searches did not recover a 1906 occupant explicitly at later-numbered 501, 503, 505, or 507 Main.  
+Confidence: Very High for formal ordinance/plat implementation and the filed numbering plat; Unresolved for the plat’s actual mapping of target storefronts.
+
+## E-062 — Sixth Street Improvement Across Main Street, 1906
+Type: Primary municipal notices / newspaper reporting  
+Date: May–July 1906  
+Sources: `S-076`  
+Related record: `evidence/E-062-1906-sixth-main-street-improvement.md`  
+Claims: Sixth Street at the north end of the target block was improved across Main with grading, crushed rock/gravel, wooden sidewalks and curbs, drains, gutters, corner blocks, and grade re-establishment. A related petition sought relocation of hill steps from Sixth to Fifth. No recovered source connects this work to demolition or replacement of 501/503/505 Main predecessor buildings.  
+Confidence: Very High for public works and grade changes; Unresolved for effect on individual Main Street buildings.
+
+## E-063 — Rosenstein’s Clothing House Fire, 1906
+Type: Primary newspaper advertisements / fire aftermath evidence  
+Date: November 1906 fire; advertisements October–December 1906  
+Sources: `S-077`  
+Related record: `evidence/E-063-1906-rosenstein-fire.md`  
+Claims: Rosenstein’s Clothing House was on Main Street **two doors south of the Post Office**. A December advertisement states its stock was slightly damaged by a November 1906 fire and the store was being cleared before the New Year. The sources do not give a numbered address and do not establish building destruction or replacement.  
+Confidence: Very High for relative location and November fire damage; Unresolved for exact address and building impact.
+
+## E-064 — William Tell Hotel at Sixth & Main / Block 26 Lot 8, 1906
+Type: Primary newspaper and recorded-transfer reporting  
+Date: October 1906  
+Sources: `S-078`  
+Related record: `evidence/E-064-1906-william-tell-hotel-block26.md`  
+Claims: The historic **three-story frame William Tell Hotel at Sixth and Main** was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as **lot 8, block 26**, providing a fixed lot/location anchor for the 5th–6th Main block.  
+Confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 anchor based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
