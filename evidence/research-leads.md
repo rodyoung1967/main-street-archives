@@ -88,3 +88,8 @@ Use `E-064` as a fixed 1906 anchor: the historic William Tell Hotel at **Sixth &
 
 ## RL-027 — Identify the 1907 Pacific States Telephone Office Address and Lot
 `E-065` / `S-079` places the newly completed Pacific States Telephone & Telegraph central office on the **east side of Main between Fifth and Sixth** in spring 1907 but gives no number or lot. Recover a city directory, telephone-company record, building permit, deed/lease, numbering-plat entry, Sanborn annotation, or later advertisement establishing its exact address and footprint. This is useful both for documenting a confirmed 1906–1907 construction event and for testing the east/west Main Street numbering sequence after the 1906 numbering ordinance.
+
+**1908 sweep follow-up clue:** later *Oregon City Courier* advertisements in **1910** explicitly place **Pacific Telephone & Telegraph Co. at 510 Main Street**. Determine whether the office completed in 1907 and expanded in 1908 (`E-073`) occupied the same premises continuously through 1910. Do **not** backdate 510 Main without direct continuity/address evidence.
+
+## RL-028 — Identify the May 1908 Fifth–Sixth Shoe Retailer
+`E-072` / `S-086` proves that a shoe retailer advertised from **Main Street between Fifth and Sixth Streets** for a 27 May 1908 promotion, but the available OCR/layout does not reliably preserve the merchant name. Inspect the original page image at high resolution, adjacent issues, repeated sale advertisements, directories, and shoe-business notices to identify the merchant and determine whether the premises correspond to 501, 503, 505, 507, or another storefront. Do not identify the retailer from product type or later tenants alone.
