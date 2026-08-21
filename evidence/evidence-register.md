@@ -607,3 +607,43 @@ Sources: `S-101`
 Related record: `evidence/E-088-1911-pacific-telephone-510-main-continuity.md`  
 Claims: A 6 January 1911 *Courier* advertisement places **Pacific Telephone & Telegraph Co. at 510 Main Street**, carrying the exact-address evidence from late 1910 directly into 1911. This strengthens but does not prove physical continuity with the east-side central-office plant completed in 1907.  
 Confidence: Very High for 510 Main in January 1911; High for continuity with the late-1910 office; exact 1907–1911 premises continuity remains unresolved.
+
+## E-089 — Smith Pool Room / Pool Hall at 503 Main, 1912
+Type: Primary newspaper advertising, legal notice, and business-transition evidence  
+Date: 5 January–12 July 1912  
+Sources: `S-102`, `S-103`, `S-104`  
+Related record: `evidence/E-089-1912-smith-pool-room-503-main.md`  
+Claims: A visually verified 5 January advertisement places **H. N. Smith's pool room at 503 Main**; a 24 March legal notice signed **H. H. Smith** gives his pool-hall place of business as **503 Main Street**; and a 12 July item says H. H. Smith, who had conducted a pool hall at **Fifth and Main**, left Oregon City for Aurora. The H. N. versus H. H. initials discrepancy remains unresolved rather than silently merged. Exact 503 occupancy is not proof that the surviving c.1919 building was already standing.  
+Confidence: Very High for the three printed business/address/location statements; High for the March-to-July business continuity; Unresolved for H. N. versus H. H. identity and exact corner/lot footprint.
+
+## E-090 — Active Main Street Demolition and Rebuilding, May 1912
+Type: Primary newspaper editorial / contemporary construction context  
+Date: 10 May 1912  
+Sources: `S-105`  
+Related record: `evidence/E-090-1912-main-street-demolition-rebuilding.md`  
+Claims: A present-tense *Courier* editorial says Oregon City was then **tearing down buildings on Main Street and building new buildings in their places**. This confirms active Main Street structural replacement in May 1912, but the source gives no block, owner, business or street number and cannot yet be tied to 501/503/505/507.  
+Confidence: Very High for active Main Street demolition/rebuilding in May 1912; Unresolved for the buildings, blocks and addresses involved.
+
+## E-091 — Gambrinus Saloon at Sixth & Main, William Trudell, 1912
+Type: Primary newspaper / business-location and operator evidence  
+Date: 24 March 1912  
+Sources: `S-103`  
+Related record: `evidence/E-091-1912-gambrinus-saloon-sixth-main.md`  
+Claims: A *Morning Enterprise* report identifies the **Gambrinus Saloon at Sixth and Main streets** and names **William Trudell** as proprietor. This extends the Gambrinus property chronology beyond the 1910 new-block construction and 1911 Electric Hotel annex occupancy, but no exact numbered storefront is printed.  
+Confidence: Very High for the saloon location and proprietor; High for relationship to the broader Gambrinus-property chronology; exact storefront/footprint unresolved.
+
+## E-092 — 503 / 507 / 509 / 511 Main Address Ladder, 1912
+Type: Primary newspaper advertising / exact-address reconstruction evidence  
+Date: 5 January 1912  
+Sources: `S-102`  
+Related record: `evidence/E-092-1912-main-address-ladder-young-harding.md`  
+Claims: Visual inspection of the 5 January *Courier* business page establishes **H. N. Smith — 503 Main**, **G. H. Young — 507 Main**, **H. P. Brightbill — 509 Main**, and **Geo. A. Harding — 511 Main**. The page image corrects OCR errors that read 503 as 603, 509 as 609, and garble 511. Young's 507 listing strengthens—but does not prove—the hypothesis that his Willamette Building premises from March 1911 were 507. Harding's own 511 business address remains separate from the named Harding Building.  
+Confidence: Very High for the visually verified address ladder; High for its value in constraining the Harding/Willamette reconstruction; Unresolved for Willamette=507 and the Harding Building's exact number.
+
+## E-093 — Schrader Sells Main Street Bakery to Wemmo & Haas, 1912
+Type: Primary newspaper / business-transfer and relative-location evidence  
+Date: 5 January and 20 December 1912  
+Sources: `S-102`, `S-106`  
+Related record: `evidence/E-093-1912-schrader-main-street-bakery-sale.md`  
+Claims: January advertising places **Schrader's Bakery near the Post Office**; on 20 December the *Courier* reports that Herman Schrader sold two Oregon City bakeries, including one **on Main Street**, to **Wemmo & Haas**. Neither item gives an exact Main number, and the sale is not evidence of a building/property transfer.  
+Confidence: Very High for the business sale and relative Main/Post Office location; Unresolved for exact numbered premises.
