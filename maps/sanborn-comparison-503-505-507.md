@@ -23,6 +23,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 5. The 1925 and 1950 sheets show 503 and 505 as distinct addresses/occupancies, supporting the archive rule that 503 and 505 should remain separate building/address records even when business history overlaps.
 6. The 1950 sheet shows a mid-century commercial pattern at 503/505 consistent with restaurant and billiards/cigars/beer uses.
 7. Aerial photocompare evidence (`E-021`) confirms **501 Main existed as a separable structure in 1936** and was **removed by 1944**; the east-side building across from **500 Main** is also absent by 1944. See `D-003` and `evidence/aerial-5th-main-photocompare-series.md`.
+8. Independent 1906 evidence now provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
 
 ## Year-by-Year Working Notes
 
@@ -36,6 +37,25 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 | 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed. |
 | 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies in 1925. |
 | 1950 | `SM-009` | The revised 1950 sheet shows a continued commercial frontage. At the lower Main frontage, `503` is labeled restaurant with concrete floor; `505` is labeled billiards, cigars, and beer, with restaurant wording also visible; `507` appears as a separate store space; nearby `509A/B`, `511`, `513`, and higher addresses include restaurant, office/store, hall, and bake-house related labels. | Strong mid-century evidence for separate 503/505/507 address/occupancy pattern and for restaurant/bar-adjacent uses at 503 and 505 before later known tavern history. |
+
+## 1906 Non-Sanborn Block 26 Anchors
+
+The 1906 year-by-year research adds information that should be used when interpreting the map sequence:
+
+- `E-061` establishes that Oregon City approved a formal street-numbering ordinance and completed a **plat designating the correct numbering** of residences and places of business. The plat itself has not yet been recovered (`RL-025`).
+- `E-064` establishes that the historic **William Tell Hotel stood at Sixth & Main** and that the matching 1906 property transaction corresponds to **lot 8, Block 26**.
+- The William Tell source describes the building as a **three-story frame structure still standing and in use in October 1906**, which provides a north-end Block 26 condition anchor.
+- `E-062` documents substantial Sixth Street grading and public works across Main in 1906, but no source currently ties that work to demolition or replacement of a Main Street commercial structure.
+
+Working reconstruction strategy:
+
+1. Recover the 1906 numbering plat.
+2. Obtain/verify the original Oregon City plat showing Block 26 lot geometry and numbering.
+3. Place lot 8 / William Tell at Sixth & Main.
+4. Work southward through lots 7, 6, 5, etc., comparing property widths and Sanborn storefront divisions.
+5. Test the resulting lot sequence against the later 501/503/505/507 addresses and known 1908–1925 occupants.
+
+Do not assume that one modern street number equals one original platted lot; storefront subdivisions, combinations, and later rebuilding may cross lot lines.
 
 ## 1925 Address / Occupancy Notes
 
@@ -73,11 +93,14 @@ Archive handling:
 - Keep the 1919 date as a working hypothesis for 503 Main.
 - Do not describe 1919 as proven original first construction.
 - Add a new research question: what changed between the pre-1919 Sanborn footprints and the later 1925 address/footprint pattern?
-- Check assessor records, permits, deeds, and tax cards for a 1919 construction, remodel, rebuild, readdressing, or reassessment event.
+- Check assessor records, permits, deeds, tax cards, newspaper construction/demolition notices, fires, and the 1906 numbering/plat materials for a construction, remodel, rebuild, readdressing, or reassessment event.
+- Continue the year-by-year construction/demolition watch (`RL-024`) rather than treating an absence of a newspaper hit as proof that no physical change occurred.
 
 ## Open Research Questions Raised by the Maps
 
-- When did the modern address numbering sequence `501 / 503 / 505 / 507` become attached to the frontage?
+- Can the **1906 street-numbering plat** be recovered and directly map Block 26 to the modern Main Street sequence?
+- How do **lot 8 at Sixth & Main** and the remaining Block 26 lots map toward Fifth Street (`RL-026`)?
+- When did the modern address numbering sequence `501 / 503 / 505 / 507` become attached to the frontage in actual business use?
 - Was the 1919 date tied to a specific rebuild/remodel rather than first construction?
 - Did the footprint of 503/505 change between 1900 and 1925?
 - How do the 1892 and 1900 older labels map onto modern 501/503/505/507 addresses?
