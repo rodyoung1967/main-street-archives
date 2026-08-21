@@ -124,3 +124,10 @@ Notes: Documents 1905 improvement work on **Fifth Street** from Railroad Avenue 
 Type: Historical business-directory lead; underlying pages not yet inspected.  
 Related research note: `evidence/source-captures/1904-1905-main-street-research.md`  
 Notes: Catalog/search evidence identifies a 1905–1906 Oregon and Washington gazetteer/business directory available through FamilySearch. The viewer required sign-in during the research session, so no 503/505/507 occupant claim is made from it. Priority target is the Oregon City Main Street address/business listings.
+
+## S-074 — Oregon City Enterprise, 30 June 1905, preliminary street-numbering / free-delivery report
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/  
+Type: Primary newspaper / municipal-context evidence.  
+Related evidence: `E-060`  
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Reports that a system of numbering residences had recently been introduced and urges residents to number properties so federal inspection for free mail delivery can proceed. It does not reproduce an address plat and does not prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.
