@@ -92,3 +92,42 @@ Relevant page: PDF p. 6.
 Related evidence: `E-056`  
 Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`  
 Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. NPS PDF binary still needs physical mirroring if desired.
+
+## S-070 — Oregon City Enterprise, I. Tolpolar advertisements, late 1904
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-10-21/ed-1/seq-1/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-11-04/ed-1/seq-1/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-12-30/ed-1/seq-1/  
+Type: Primary newspaper advertisements.  
+Related evidence: `E-057`  
+Repository binary: `newspapers/oregon-city-enterprise/1904-tolpolar-main-street-ad.pdf`  
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Directly places **I. Tolpolar** and his furniture/household-goods business on **Main Street, Oregon City** in late 1904. The verified advertisements do not give a numbered address. The exact issue/page represented by the existing repository PDF still needs reconciliation before attaching a specific publication date to that binary.
+
+## S-071 — Oregon City Enterprise, 3 February 1905, I. Tolpolar advertisement
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-02-03/ed-1/seq-1/  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-058`  
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Places **I. Tolpolar — Main Street — Oregon City, Oregon** and advertises furniture, carpets, crockery, hardware, glassware, graniteware, and new/second-hand goods. No numbered address is printed.
+
+## S-072 — Oregon City Enterprise, Fifth Street improvement notices, 1905
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-08-25/ed-1/seq-7/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-10-13/ed-1/seq-6/  
+Type: Primary municipal notices published in newspaper.  
+Related evidence: `E-059`  
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Documents 1905 improvement work on **Fifth Street** from Railroad Avenue to Main Street and from Main Street to Water Street. This is block/intersection context only and does not identify a business occupant or numbered storefront.
+
+## S-073 — Oregon and Washington Gazetteer and Business Directory, 1905–1906 — source lead
+Type: Historical business-directory lead; underlying pages not yet inspected.  
+Related research note: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Catalog/search evidence identifies a 1905–1906 Oregon and Washington gazetteer/business directory available through FamilySearch. The viewer required sign-in during the research session, so no 503/505/507 occupant claim is made from it. Priority target is the Oregon City Main Street address/business listings.
+
+## S-074 — Oregon City Enterprise, 30 June 1905, preliminary street-numbering / free-delivery report
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/  
+Type: Primary newspaper / municipal-context evidence.  
+Related evidence: `E-060`  
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Notes: Reports that a system of numbering residences had recently been introduced and urges residents to number properties so federal inspection for free mail delivery can proceed. It does not reproduce an address plat and does not prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.

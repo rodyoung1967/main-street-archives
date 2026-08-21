@@ -315,3 +315,71 @@ Sources: `S-060`
 Related note: `evidence/1912-main-street-postoffice-cluster.md`  
 Claims: Contemporary advertisements place **I. Tolpolar opposite the Oregon City Post Office**, **M. E. Dunn near/next door to the P.O.**, **Schrader's Bakery near the Post Office**, and **Pioneer Transfer Co. in the Postoffice Building**. Later evidence places Tolpolar at **514 Main**, providing a strong anchor for the Post Office on the opposite, odd-numbered side. The exact numbered address of the Post Office remains unproven in the current archive. **513 Main is a working candidate only.** If 513 is confirmed as the P.O., Dunn's next-door description combined with Harding at 511 would make 515 a plausible Dunn address; that is inference, not evidence. Schrader must not be assigned to 503/505 or any exact number without direct evidence.  
 Confidence: High for relative-location descriptions; Moderate for 513 Post Office hypothesis; Low-moderate for 515 Dunn until directly documented.
+
+## E-052 — Oregon City Courier, 5 January 1912, Page 6 Business Advertisements
+Type: Primary newspaper advertising  
+Date: 5 January 1912  
+Sources: `S-061`  
+Related record: `evidence/E-052-1912-page-6-business-ads.md`  
+Claims: Page 6 directly places **Bailey & Price, Billiard and Pool Parlors, at 527 Main Street opposite the Grand Theater**; places **Clems Chop House at 5th and Main Street**; and places **Wm. Gardner, Watchmaker and Jeweler, on Main near 8th**. The Chicago Store advertisement says **"Main St. just below Postoffice"**; independent evidence (`E-026`) places the Chicago Store at 505 Main. The same issue also documents H. P. Brightbill at 509 Main (`E-050`).  
+Confidence: Very High for the printed advertisement text and explicit 527 Main address; relative-location wording is not converted into exact addresses without independent evidence.
+
+## E-053 — 527 Main / Swartz Building, 1935
+Type: Official historic-resource survey evidence / secondary source  
+Sources: `S-062`, `S-063`  
+Related record: `evidence/E-053-527-main-swartz-building-1935.md`  
+Claims: Official City of Oregon City and ODOT historic-resource sources identify the **present 527 Main building as the Swartz Building and date it to 1935**. Because `E-052` directly places Bailey & Price at 527 Main in 1912, the 1912 business occupied a predecessor building/storefront at that number unless a later renumbering is demonstrated. The City report also notes later entrance alteration.  
+Confidence: High for the accepted historic-inventory identification and 1935 date; Very High that the 1912 numbered-address evidence predates the present 1935 building, assuming no intervening address renumbering.
+
+## E-054 — Holman / Randall Undertaking Business at Fifth & Main, 1915–1917
+Type: Primary newspaper advertisements  
+Sources: `S-064`, `S-065`, `S-066`  
+Related record: `evidence/E-054-holman-fifth-main-1915-1917.md`  
+Claims: Newspaper advertisements place **R. L. Holman and T. P. Randall at Fifth and Main** in June 1915 and March 1916, and **R. L. Holman at Fifth and Main** in January 1917. The ads do **not** print 501 Main. Because the 1925 Sanborn later shows 501 as the corner store space, equivalence with 501 is a research hypothesis only.  
+Confidence: Very High for Fifth-and-Main location and dates; Moderate hypothesis only for equivalence with later-numbered 501 Main.
+
+## E-055 — Holman & Pace Business Continuity, 1918–1921
+Type: Primary newspaper references / advertisements  
+Sources: `S-067`, `S-068`  
+Related record: `evidence/E-055-holman-pace-1918-1921.md`  
+Claims: 1918 newspaper references identify a **Holman & Pace chapel / funeral parlors**, and a 17 February 1921 advertisement identifies **Holman & Pace** as undertakers, embalmers and funeral directors in Oregon City. The recovered sources do **not** state Fifth & Main or 501 Main, so they cannot prove continued occupancy of the earlier corner premises.  
+Confidence: High for business continuity; Unresolved for location after the January 1917 Fifth-and-Main advertisement.
+
+## E-056 — 1924 Oregon City Directory Existence / Repository Lead
+Type: Official National Register documentation citing a historical directory  
+Sources: `S-069`  
+Related record: `evidence/E-056-1924-oregon-city-directory-source-lead.md`  
+Claims: A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies the Oregon City Planning Department as a local repository for additional data. The nomination does **not** reproduce Main Street directory entries and therefore is not evidence for a specific occupant.  
+Confidence: Very High for existence/citation of the 1924 directory and repository lead; None yet for 501/503/505/507 occupants from that directory.
+
+## E-057 — I. Tolpolar on Main Street, 1904
+Type: Primary newspaper advertisements  
+Date: October–December 1904  
+Sources: `S-070`  
+Related record: `evidence/E-057-1904-tolpolar-main-street.md`  
+Claims: *Oregon City Enterprise* advertisements on 21 October, 4 November, and 30 December 1904 place **I. Tolpolar** and his furniture/household-goods business on **Main Street, Oregon City**. The ads do not give a numbered address. The repository already contains `newspapers/oregon-city-enterprise/1904-tolpolar-main-street-ad.pdf`; its exact issue/page still needs reconciliation before attaching a specific publication date to that binary.  
+Confidence: Very High for Tolpolar operating on Main Street in late 1904; Unresolved for the exact numbered address or a connection to modern 503, 505, or 507 Main.
+
+## E-058 — I. Tolpolar on Main Street, 1905
+Type: Primary newspaper advertisement  
+Date: 3 February 1905  
+Sources: `S-071`  
+Related record: `evidence/E-058-1905-tolpolar-main-street.md`  
+Claims: The 3 February 1905 *Oregon City Enterprise* advertises **I. Tolpolar — Main Street — Oregon City, Oregon**, continuing the Main Street furniture/household-goods business documented in late 1904. The advertisement does not print a numbered address.  
+Confidence: Very High for Tolpolar operating on Main Street on 3 February 1905; Unresolved for the exact numbered address or a connection to modern 503, 505, or 507 Main.
+
+## E-059 — Fifth Street Improvement Across Main Street, 1905
+Type: Primary municipal notices published in newspaper  
+Date: August–October 1905  
+Sources: `S-072`  
+Related record: `evidence/E-059-1905-fifth-main-street-improvement.md`  
+Claims: Published Oregon City notices document 1905 improvement of **Fifth Street** from Railroad Avenue to Main Street and from Main Street to Water Street, including grading, crushed rock, sidewalks, concrete curbs, corner blocks, and drains, with later solicitation of bids for the work. This is direct physical/municipal context at the Fifth-and-Main intersection but does not identify business occupants or numbered storefronts.  
+Confidence: Very High for the improvement limits and 1905 street-work context; None for 503/505/507 business occupancy from this source.
+
+## E-060 — Preliminary Oregon City Street-Numbering System, 1905
+Type: Primary newspaper / municipal-context evidence  
+Date: 30 June 1905  
+Sources: `S-074`  
+Related record: `evidence/E-060-1905-preliminary-street-numbering.md`  
+Claims: The 30 June 1905 *Oregon City Enterprise*, in connection with federal inspection for free mail delivery, urged residents to use a **system of numbering residences that had recently been introduced**. This establishes preliminary numbering by mid-1905, but later 1906 sources show that the City still needed to formalize the system through an ordinance, numbering plat, street signs, and mandatory implementation. The 1905 item therefore does not by itself prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.  
+Confidence: Very High for a preliminary numbering system by June 1905; Unresolved for exact mapping to the later 501/503/505/507 sequence.
