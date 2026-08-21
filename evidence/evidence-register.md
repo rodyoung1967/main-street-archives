@@ -455,3 +455,35 @@ Sources: `S-083`
 Related record: `evidence/E-069-1907-tolpolar-opposite-postoffice.md`  
 Claims: Advertisement identifies **I. Tolpolar — Main St. Opp. Postoffice — Oregon City, Oregon**, strengthening his location evidence beyond the 1904–1905 Main-Street-only advertisements. No numbered address is printed and later addresses must not be projected backward.  
 Confidence: Very High for the relative location; Unresolved for exact numbered address.
+
+## E-070 — Main Street Overhead Wire and Pole Removal, 1908
+Type: Primary newspaper / utility and streetscape evidence  
+Date: January–July 1908  
+Sources: `S-084`  
+Related record: `evidence/E-070-1908-main-street-overhead-wire-removal.md`  
+Claims: Oregon City ordered telegraph, telephone, and electric-light poles removed from **Main Street between Eleventh Street and the Basin**, with companies to place wires underground or bring them in from side streets. Follow-up reporting documents implementation by Pacific Telephone & Telegraph and Portland General Electric. The Fifth–Sixth target block lies inside the corridor. No target-building demolition is established.  
+Confidence: Very High for the 1908 utility/street modernization; Unresolved for structural effect on individual target buildings.
+
+## E-071 — I. Tolpolar Creditor Sale Opposite the Post Office, 1908
+Type: Primary newspaper advertisement / business-transition evidence  
+Date: 3 July 1908  
+Sources: `S-085`  
+Related record: `evidence/E-071-1908-tolpolar-creditor-sale-opposite-postoffice.md`  
+Claims: A creditor-driven sale of I. Tolpolar's stock was advertised at **Main St. Opp. P.O.** in July 1908. This extends Tolpolar's relative-location evidence into 1908 but does not give a numbered address or prove permanent closure/change of ownership.  
+Confidence: Very High for the location wording and creditor-sale event; Unresolved for exact address and subsequent business disposition.
+
+## E-072 — Unidentified Shoe Retailer Between Fifth & Sixth on Main, 1908
+Type: Primary newspaper advertisement / block-occupancy evidence  
+Date: 22 May 1908  
+Sources: `S-086`  
+Related record: `evidence/E-072-1908-unidentified-shoe-retailer-fifth-sixth-main.md`  
+Claims: A promotional shoe-sale advertisement places a retailer directly on **Main Street between Fifth and Sixth Streets**. The available OCR/layout does not reliably preserve the merchant name. No numbered target address is assigned.  
+Confidence: Very High for active retail occupancy somewhere in the target block; Unresolved for merchant identity and exact number.
+
+## E-073 — Pacific Telephone Oregon City Expansion, 1908
+Type: Primary newspaper / utility-business evidence  
+Date: 31 July 1908  
+Sources: `S-087`  
+Related record: `evidence/E-073-1908-pacific-telephone-expansion.md`  
+Claims: Pacific Telephone & Telegraph's Oregon City office received a **$10,000 appropriation** for expanded facilities and cables; Manager George J. Hall was notified, and the company again stated that all wires would be moved from Main Street. The article does not print the office number. Later 1910 evidence giving 510 Main is retained only as a follow-up, not backdated.  
+Confidence: Very High for the appropriation/expansion and wire-removal plan; Unresolved for exact 1908 office address.

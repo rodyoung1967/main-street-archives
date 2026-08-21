@@ -25,6 +25,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 7. Aerial photocompare evidence (`E-021`) confirms **501 Main existed as a separable structure in 1936** and was **removed by 1944**; the east-side building across from **500 Main** is also absent by 1944. See `D-003` and `evidence/aerial-5th-main-photocompare-series.md`.
 8. Independent 1906 evidence provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
 9. The 1907 pass adds a major **street-grade/track reconstruction event** through the target block (`E-066`) and a confirmed new telephone central office on the **east side of Main between Fifth and Sixth** (`E-065`). Neither event is currently tied to demolition of the later odd-numbered 501/503/505/507 predecessor buildings.
+10. The 1908 pass provides the first currently registered exact target-number occupant after the numbering program: **Henry Brightbill at 503 Main** (`E-042`). It also documents removal of Main Street overhead utility infrastructure (`E-070`). Exact 503 occupancy in 1908 predates the later c.1919 surviving-building estimate, proving that address history and surviving-building history must be handled separately.
 
 ## Year-by-Year Working Notes
 
@@ -69,6 +70,17 @@ The 1907 pass provides unusually strong context for interpreting apparent storef
 
 Photographic and architectural comparisons should allow for the 1907 street-level change: a storefront or basement opening that appears lower relative to the street in later views may reflect changed grade as well as altered building fabric.
 
+## 1908 Non-Sanborn Address and Streetscape Anchors
+
+The 1908 pass sharpens the reconstruction in two ways:
+
+- `E-042` / `S-049` directly places **Henry Brightbill's store at 503 Main Street on 25 August 1908**. This proves that 503 was already an active numbered storefront after the 1906 numbering program.
+- `E-070` documents removal of poles and overhead telegraph, telephone, and electric-light infrastructure from Main Street between Eleventh and the Basin, including the Fifth–Sixth block.
+- `E-072` places an unidentified shoe retailer somewhere on Main between Fifth and Sixth, and `E-071` keeps Tolpolar opposite the Post Office in July 1908.
+- Targeted searches did not recover exact 1908 occupants at 501, 505, or 507, and no target-building demolition/replacement was established.
+
+The Brightbill evidence is especially important to construction-date interpretation: if the accepted c.1919 date for the **surviving** 503 building is correct, then the 1908 Brightbill store necessarily occupied a predecessor premises at the same numbered address, or the address/footprint relationship changed before/around 1919. The 1908 address must not be used to backdate the surviving building.
+
 ## 1925 Address / Occupancy Notes
 
 The 1925 sheet is now the key evidence for the `501 / 503 / 505` question.
@@ -102,22 +114,25 @@ The Sanborn maps do not by themselves disprove a 1919 construction or major-rebu
 
 Archive handling:
 
-- Keep the 1919 date as a working hypothesis for 503 Main.
-- Do not describe 1919 as proven original first construction.
-- Add a new research question: what changed between the pre-1919 Sanborn footprints and the later 1925 address/footprint pattern?
+- Keep the 1919 date as a working hypothesis for the **surviving** 503 Main building.
+- Do not describe 1919 as proven original first construction or first use of the 503 address.
+- Treat `E-042` as proof that the **503 Main address/storefront was occupied in 1908**, not as proof the surviving building existed.
+- Add a new research question: what changed between the 1908 Brightbill premises and the later c.1919/1925 building/footprint pattern?
 - Check assessor records, permits, deeds, tax cards, newspaper construction/demolition notices, fires, and the 1906 numbering/plat materials for a construction, remodel, rebuild, readdressing, or reassessment event.
-- Account for the documented **1907 approximately six-inch Main Street grade increase** when comparing storefront elevations and thresholds.
+- Account for the documented **1907 approximately six-inch Main Street grade increase** and **1908 overhead-wire removal** when comparing storefront elevations, thresholds, and photographs.
 - Continue the year-by-year construction/demolition watch (`RL-024`) rather than treating an absence of a newspaper hit as proof that no physical change occurred.
 
 ## Open Research Questions Raised by the Maps
 
 - Can the **1906 street-numbering plat** be recovered and directly map Block 26 to the modern Main Street sequence?
 - How do **lot 8 at Sixth & Main** and the remaining Block 26 lots map toward Fifth Street (`RL-026`)?
+- Which physical premises/building did Henry Brightbill occupy at **503 Main in 1908**, and how does it relate to the surviving c.1919-listed 503 building?
 - When did the modern address numbering sequence `501 / 503 / 505 / 507` become attached to the frontage in actual business use?
 - Was the 1919 date tied to a specific rebuild/remodel rather than first construction?
 - Did the footprint of 503/505 change between 1900 and 1925?
 - How do the 1892 and 1900 older labels map onto modern 501/503/505/507 addresses?
 - What does the 1884-1890 sequence show when the same frontage is cropped and transcribed?
 - What exact address/lot did the 1907 Pacific States Telephone central office occupy (`RL-027`)?
+- Who was the unidentified May 1908 shoe retailer (`RL-028`)?
 - Does the 1950 `505` billiards/cigars/beer label connect to later 505 Tavern / The 505 / Brass Rail Tavern / The Wheel history?
 - What was the legal relationship, if any, between the 503 restaurant space and the 505 billiards/cigars/beer space in 1925 and 1950?

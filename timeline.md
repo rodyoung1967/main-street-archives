@@ -26,8 +26,14 @@ Main Street itself underwent substantial physical reconstruction in 1907. Oregon
 
 Contemporary geographic anchors include the **Mount Hood Cafe at the Fifth/Main context** (`E-067`) and **John Gohra's saloon at Main & Sixth** (`E-068`). An August advertisement also places **I. Tolpolar on Main Street opposite the Post Office** (`E-069`). None of these 1907 sources prints an exact target number, and targeted searches did not recover an occupant explicitly at 501, 503, 505, or 507 Main in 1907. That absence is research status only, not evidence of vacancy.
 
-## August 1908
-Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
+## 1908 — exact 503 occupancy and continued Main Street modernization
+Oregon City followed the 1907 street/track reconstruction with another major streetscape change: telegraph, telephone, and electric-light poles and overhead wires were ordered removed from **Main Street between Eleventh Street and the Basin**, necessarily including the Fifth–Sixth block (`E-070`). Pacific Telephone & Telegraph and Portland General Electric were actively arranging the work, and by July Pacific Telephone again stated that all wires would be moved from Main. This is public-realm/utility change, not evidence that the target commercial buildings were replaced.
+
+A May shoe-sale advertisement places an unidentified retailer directly on **Main Street between Fifth and Sixth** (`E-072`). In July, **I. Tolpolar** advertised a creditor-driven stock sale at **Main St. Opp. P.O.** (`E-071`), while Pacific Telephone's Oregon City office received a **$10,000 appropriation** for expanded facilities and cables (`E-073`).
+
+Most importantly, on **25 August 1908** *The Oregonian* identified merchant **Henry Brightbill's store at 503 Main Street** (`E-042` / `S-049`). This is the earliest currently registered exact-number occupant for one of the target 501/503/505/507 addresses after the 1906 numbering program. It proves that **503 Main was an active address/storefront in 1908**, but it does **not** prove that the surviving building later dated about 1919 was already standing.
+
+Targeted searches did not recover a 1908 occupant explicitly at **501, 505, or 507 Main**, and no direct 1908 report was found showing demolition, moving, replacement, new construction, or a fire securely tied to the target odd-side predecessor buildings. Those are research-status findings, not evidence of vacancy or no construction.
 
 ## By 1909
 507 Main was known as the Harding Building.
