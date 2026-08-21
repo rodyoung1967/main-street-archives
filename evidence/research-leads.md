@@ -59,15 +59,33 @@ Locate probate, deed, assessor, or estate-transfer records confirming that **505
 A 1992 National Register nomination (`S-069` / `E-056`) cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as the local repository for additional data. Obtain or inspect the actual directory. Priority target: the Main Street address index for **501, 503, 505, 507 and adjacent numbers**, plus alphabetical/business listings for known occupants.
 
 ## RL-019 — Identify the 1925 501 Main Store / Test the Holman Address Mapping
-The 1925 Sanborn directly shows **501 Main as a store** (`E-020`), but the tenant is unknown. Primary newspaper evidence places Holman/Randall/Holman undertakers at **Fifth & Main** in 1915–1917 (`E-054`). Determine whether that premises later carried the number **501 Main**, when Holman/Holman & Pace left the corner, and which business occupied 501 by 1924–1925. Do not equate Fifth & Main with 501 without direct address-mapping evidence.
+The 1925 Sanborn directly shows **501 Main as a store** (`E-020`), but the tenant is unknown. Direct newspaper evidence now establishes that **R. L. Holman moved his undertaking establishment to his building at Fifth & Main on 26 February 1914** (`E-064`) and continued there through at least January 1917 (`E-054`). Determine whether those premises later carried the number **501 Main**, when Holman/Holman & Pace left the corner, and which business occupied 501 by 1924–1925. Do not equate Fifth & Main with 501 without direct address-mapping evidence.
 
-## RL-020 — Recover the Claimed 1914 Holman Move Notice
-An earlier working statement said Holman moved into new quarters at Fifth & Main in 1914, but the contemporaneous page supporting that statement has not been recovered. Search 1914 Oregon City newspapers for Holman, Randall, undertaker, new quarters, Fifth/Main, and relocation wording. Until recovered, **do not cite 1914 as the start date**; direct evidence currently begins in June 1915.
+## RL-020 — 1914 Holman Move Notice — RESOLVED
+**Resolved 20 August 2026.** The *Oregon City Courier*, 26 February 1914, p. 7, directly reports that **R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth & Main to his building at Fifth & Main** (`E-064`).
+
+Remaining follow-up is no longer to find the move notice. Instead, locate deed/assessor records for Holman's Fifth-and-Main building and an address-mapping source that determines whether it later carried the number **501 Main**.
 
 ## RL-021 — Physical Source Mirroring Backlog
-Physically mirror original source binaries where the current web/file-transfer environment could verify but not copy them. Current priority includes newspaper pages `S-064` through `S-068`, NPS source `S-069`, and the previously noted government PDFs `S-062` and `S-063`. Source-capture notes and canonical URLs are already preserved; this lead is specifically about retaining local binary copies.
+Physically mirror original source binaries where the current web/file-transfer environment could verify but not copy them. Current priority includes newspaper pages `S-064` through `S-068`, NPS source `S-069`, the government PDFs `S-062` and `S-063`, and the newly documented **1902–1904 source pages plus the 26 February 1914 Holman move notice (`E-064`)**. Source-capture notes and canonical URLs are already preserved; this lead is specifically about retaining local binary copies.
 
 **20 August 2026 status:** Direct binary downloads were attempted through both the container/file-transfer path and browser-accessible source endpoints. The browser can verify/render these PDFs, but the available transfer path does not expose the remote PDF bytes for repository upload. Keep the canonical URLs and verified source captures; if local binary preservation is required, obtain/upload the original files manually or retry when a binary-capable source path is available.
 
 ## RL-022 — Verify the 1925 Municipal Activities Report Fire Claim
 Obtain the original **1925 Municipal Activities Report** and verify or refute the earlier conversational claim of an **18 April 1925 fire on Main between 5th and 6th caused by a chimney spark**. The specific entry has not been independently recovered, so it must not be cited as evidence until the original report is inspected. If confirmed, archive the report and assess whether it can be tied to 501, 503, 505, or another storefront.
+
+## RL-023 — Harding Block vs. Willamette Building
+Determine whether **Harding Block** and **Willamette Building** were the same building, different names for the same premises, adjoining buildings, or simply different Fair Store locations during 1905. Relevant evidence:
+
+- George A. Harding's drug store is in the **Willamette Building** in April 1903 (`E-062`).
+- Portland Clothing House is **next door to Harding's Drug Store** in January 1903 (`E-060`).
+- The Fair Store is **opposite Post Office** in January 1903 and moves in spring 1903 (`E-061`).
+- A 21 April 1905 *Oregon City Enterprise* ad places the Fair Store at **Main Street, Harding Block**.
+- Later 1905 *Courier* ads place the Fair Store in the **Willamette Building**.
+
+Find a directory, deed, Sanborn annotation, building-history source, or explicit newspaper wording that resolves whether these names refer to the same structure. Do not merge the building names without proof.
+
+## RL-024 — 1906 House-Numbering Ordinance and Implementation Map/List
+The *Oregon City Courier* of **24 August 1906** reports that the council passed an ordinance **providing for numbering of houses** (`E-063`). Obtain the ordinance text, ordinance number, implementation instructions, and—if one exists—the city map/list assigning numbers to Main Street premises.
+
+This could be the key bridge between the early 1902–1904 relational descriptions (**between 5th and 6th, opposite Postoffice, next door to Harding's, named buildings**) and the later **501–527 Main** address system.
