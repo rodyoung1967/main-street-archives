@@ -92,3 +92,86 @@ Relevant page: PDF p. 6.
 Related evidence: `E-056`  
 Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`  
 Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. NPS PDF binary still needs physical mirroring if desired.
+
+## S-070 — Oregon City Courier-Herald, 3 January 1902, Schrader / Main-Street Bakery profile
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf  
+Type: Primary newspaper profile.  
+Related evidence: `E-057`  
+Repository source capture: `evidence/source-captures/1902-courier-main-street-review.md`  
+Notes: Says Herman Schrader had worked nearly eighteen years in the **Main-Street Bakery** before buying his then-current bakery. Does not establish the later exact storefront. Binary mirroring remains desired.
+
+## S-071 — Oregon City Courier-Herald, 24 October 1902, Huntley Bros. two-store remodel
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf  
+Type: Primary newspaper local notice.  
+Related evidence: `E-058`  
+Repository source capture: `evidence/source-captures/1902-courier-main-street-review.md`  
+Notes: Describes two adjoining Huntley Bros. store rooms combined by removing the partition and installing plate-glass frontage. Study-block location remains unproven. Binary mirroring remains desired.
+
+## S-072 — Oregon City Courier, 7 November 1902, Union Store between Fifth and Sixth
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1/  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-059`  
+Repository source capture: `evidence/source-captures/1902-courier-main-street-review.md`  
+Notes: **The Union Store, Michael proprietor — "Main St., between 5th and 6th Sts."** Direct evidence for a named business on the exact study block. Later 5xx storefront number unresolved. Binary mirroring remains desired.
+
+## S-073 — Oregon City Courier, 2 January 1903, Portland Clothing House next to Harding
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-02/ed-1/seq-4.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-060`  
+Repository source capture: `evidence/source-captures/1903-courier-main-street-review.md`  
+Notes: Portland Clothing House advertises **"Next Door to Harding's Drug Store."** Direct adjacency evidence; no numbered address. Binary mirroring remains desired.
+
+## S-074 — Oregon City Courier, 23 January 1903, Fair Store opposite Post Office
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-23/ed-1/seq-3/  
+Type: Primary newspaper advertisement / local news.  
+Related evidence: `E-061`, continuity with `E-059`  
+Repository source capture: `evidence/source-captures/1903-courier-main-street-review.md`  
+Notes: The Fair Store advertises **"Opposite Postoffice."** Same issue provides M. Michael continuity after the Union Store liquidation. Binary mirroring remains desired.
+
+## S-075 — Fair Store relocation advertisements, April-May 1903
+Canonical sources:  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1903-04-24/ed-1/seq-9/ocr/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1903-05-15/ed-1/seq-8/ocr/  
+Type: Primary newspaper advertisements.  
+Related evidence: `E-061`  
+Repository source capture: `evidence/source-captures/1903-courier-main-street-review.md`  
+Notes: Fair Store says it is reducing stock to avoid moving it and later advertises **"The Fair Store Must Move."** Destination not stated. Binary mirroring remains desired.
+
+## S-076 — Clackamas County Record, 6 April 1903, Harding in Willamette Building
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8/  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8.pdf  
+Type: Primary newspaper advertisement.  
+Related evidence: `E-062`  
+Repository source capture: `evidence/source-captures/1903-courier-main-street-review.md`  
+Notes: **Geo. A. Harding — Willamette Building — The Leading Drug Store of Oregon City.** Same page contains additional Oregon City adjacency anchors. Binary mirroring remains desired.
+
+## S-077 — Oregon City Courier, 24 August 1906, house-numbering ordinance report
+Canonical OCR/page: https://oregonnews.uoregon.edu/lccn/sn00063698/1906-08-24/ed-1/seq-3/ocr/  
+Type: Primary municipal-news report.  
+Related evidence: `E-063`  
+Notes: City-council report says an ordinance was passed **"Providing for numbering of houses."** Supports caution about back-projecting later 5xx numbers into 1902-1904; does not prove no earlier numbering existed. Ordinance text/implementation list remains a research target (`RL-024`). Binary mirroring remains desired.
+
+## S-078 — Oregon City Courier, 26 February 1914, R. L. Holman move to Fifth & Main
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7.pdf  
+Type: Primary newspaper local notice.  
+Related evidence: `E-064`, `E-054`  
+Notes: Reports that **R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth & Main to his building at Fifth & Main.** Resolves the former 1914-move research lead. Does not establish a later numbered address. Binary mirroring remains desired.
+
+## S-079 — Oregon City Courier, 1904 Main Street mapping-context pages
+Canonical sources:  
+- 3 June 1904, p. 4: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-06-03/ed-1/seq-4.pdf  
+- 12 August 1904, p. 8: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-12/ed-1/seq-8.pdf  
+- 26 August 1904, p. 3: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-26/ed-1/seq-3.pdf  
+- 2 December 1904, p. 10: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-12-02/ed-1/seq-10.pdf  
+Type: Primary newspaper advertisements/local notices; contextual source set.  
+Repository source capture: `evidence/source-captures/1904-courier-main-street-review.md`  
+Notes: Provides 1904 Main Street/building anchors including Cross & Shaw, merchant listings, Willamette Building, Lamb & Sawyer's Building next to Oregon City Bank, and Petzold's Main Street market. No source in this set securely assigns a target 501–527 address; later evidence places Petzold at 696 Main, outside the study block. Binary mirroring remains desired.
+
+## S-080 — Oregon City Enterprise, 15 January 1904, supplemental Main Street adjacencies
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3/  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3.pdf  
+Type: Primary newspaper advertisements; supplemental to Courier review.  
+Repository source capture: `evidence/source-captures/1904-courier-main-street-review.md`  
+Notes: Farmers' Store — Main Street opposite Barlow's Grocery; Electric Grocery — Main Street next to Albright's Market. Valid adjacency clues but not yet mapped to the 5th-to-6th study block. Binary mirroring remains desired.
