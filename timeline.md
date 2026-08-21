@@ -35,8 +35,14 @@ Most importantly, on **25 August 1908** *The Oregonian* identified merchant **He
 
 Targeted searches did not recover a 1908 occupant explicitly at **501, 505, or 507 Main**, and no direct 1908 report was found showing demolition, moving, replacement, new construction, or a fire securely tied to the target odd-side predecessor buildings. Those are research-status findings, not evidence of vacancy or no construction.
 
-## By 1909
-507 Main was known as the Harding Building.
+## 1909 — same-block public works, Sixth/Main building repair, and Harding chronology correction
+Oregon City improved **Water Street from Fifth to Sixth Streets**, the river-side edge of the same Fifth–Sixth block as the target Main Street frontage. The work included grading, rock/gravel, sidewalks, concrete curbs, crosswalks and drainage, and was accepted by the City Council after the engineer reported contractor Harry Jones's work satisfactory (`E-074`). A fire hydrant was also ordered for Water Street at Sixth or at the Water Street end of the alley running through the Fifth–Sixth block.
+
+At the north end of the block, the 6 October Council record places **Carl G. Hodes at Sixth & Main** as a saloon-license renewal applicant (`E-076`). On 1 December the Council ordered **Philip Street** to remove rubbish from Sixth Street caused by **repair of his building at Sixth & Main** (`E-075`). These are strong intersection anchors, but the evidence does not establish that the Hodes saloon, Philip Street's building, and the earlier William Tell/Gambrinus lot-8 property were the same premises.
+
+The archive's former statement that **507 Main was known as the Harding Building by 1909 is withdrawn**. A 1918 *Courier* retrospective supports a Harding Building existing around 1909, and a 1911 *Courier* item places the Harding Building on **Main Street between Fifth and Sixth**, but neither source proves an exact 1909 street number or footprint (`E-077`; `RL-029`).
+
+Targeted 1909 searches did not recover an exact contemporaneous occupant at **501, 503, 505, or 507 Main**, nor a fire, demolition, replacement, or new-construction event securely tied to one of those numbered predecessor storefronts. The enhanced *Courier* pass reviewed indexed/retrievable 1909 issue pages and logged pages that the current archive interface would not expose individually for later visual verification (`RL-030`). These are research-coverage statements, not evidence of vacancy or absence of construction.
 
 ## April 1911 / January 1913
 The Chicago Store advertised at 505 Main (`E-026`).
@@ -69,7 +75,7 @@ A primary advertisement shows **Holman & Pace** still operating as undertakers/f
 Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), providing direct evidence of occupied premises at 505 by 1921.
 
 ## 1924 — directory source exists, pages still needed
-A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as the local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
+A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as a local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
 
 ## 1925 Sanborn — 501 / 503 / 505
 The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1915–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.

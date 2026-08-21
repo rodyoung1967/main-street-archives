@@ -430,7 +430,7 @@ Date: April–August 1907
 Sources: `S-080`  
 Related record: `evidence/E-066-1907-main-street-track-grade-reconstruction.md`  
 Claims: Oregon Water Power & Railway and Oregon City reconstructed the Main Street track/roadbed and paving through the business district from **Eleventh Street to the Basin**. Brick paving was removed and relaid and the street was raised to meet the new railway track, reported as **about six inches higher than the old track**. The project therefore directly affected the Fifth–Sixth block. No recovered source ties it to demolition or replacement of 501/503/505/507 predecessor buildings.  
-Confidence: Very High for the corridor work and approximate six-inch elevation change; Unresolved for effects on individual storefront structures.
+Confidence: Very High for the corridor reconstruction and approximate six-inch elevation change; Unresolved for effects on individual storefront structures.
 
 ## E-067 — Mount Hood Cafe / Fifth & Main Anchor, 1907
 Type: Primary newspaper / geographic anchor  
@@ -487,3 +487,35 @@ Sources: `S-087`
 Related record: `evidence/E-073-1908-pacific-telephone-expansion.md`  
 Claims: Pacific Telephone & Telegraph's Oregon City office received a **$10,000 appropriation** for expanded facilities and cables; Manager George J. Hall was notified, and the company again stated that all wires would be moved from Main Street. The article does not print the office number. Later 1910 evidence giving 510 Main is retained only as a follow-up, not backdated.  
 Confidence: Very High for the appropriation/expansion and wire-removal plan; Unresolved for exact 1908 office address.
+
+## E-074 — Water Street Improvement, Fifth–Sixth Block, 1909
+Type: Primary municipal record and newspaper notice / public-works evidence  
+Date: March–October 1909  
+Sources: `S-088`  
+Related record: `evidence/E-074-1909-water-street-fifth-sixth-improvement.md`  
+Claims: Oregon City improved **Water Street from Fifth to Sixth Streets** in 1909 with grading, rock/gravel, sidewalks, concrete curbs, crosswalks and drainage. The City Engineer reported contractor Harry Jones's work satisfactory on 27 September and Council accepted it. The river-side street is part of the same Fifth–Sixth block as the target Main frontage, but the record does not establish structural work on a specific Main Street building.  
+Confidence: Very High for the improvement and same-block context; Unresolved for effects on individual Main Street premises.
+
+## E-075 — Philip Street Building Repair at Sixth & Main, 1909
+Type: Primary municipal record / building-repair evidence  
+Date: 1 December 1909  
+Sources: `S-089`  
+Related record: `evidence/E-075-1909-philip-street-building-repair-sixth-main.md`  
+Claims: Council ordered Philip Street notified to remove rubbish from Sixth Street caused by **repair of his building at Sixth and Main Streets**. This is direct building-work evidence at the north end of the target block. The record does not establish the exact number/lot, scope of repair, or a relationship to William Tell/Gambrinus.  
+Confidence: Very High for the repair event and location; Unresolved for building identity and scope.
+
+## E-076 — Carl G. Hodes Saloon at Sixth & Main, 1909
+Type: Primary municipal record / liquor-license evidence  
+Date: 6 October 1909  
+Sources: `S-090`  
+Related record: `evidence/E-076-1909-carl-hodes-saloon-sixth-main.md`  
+Claims: Oregon City Council minutes list Carl G. Hodes at **Sixth and Main Streets** among saloon-license renewal applicants and order the renewals granted subject to fees and bonds. No numbered address/lot is printed, and no relationship to Philip Street's building or the William Tell/Gambrinus property is established.  
+Confidence: Very High for a Hodes saloon at Sixth/Main; Unresolved for exact numbered premises.
+
+## E-077 — Harding Building Existed c.1909; Exact Address Unresolved
+Type: Primary newspaper retrospective and later location evidence / chronology correction  
+Date: c.1909 event recalled in 1918; 1911 direct location context  
+Sources: `S-091`  
+Related record: `evidence/E-077-hardings-building-c1909-address-unresolved.md`  
+Claims: A 1918 *Courier* retrospective says the Christian Science church was meeting in an office room in the **Harding Building nine years earlier**, supporting existence around 1909; a 1911 *Courier* item places the Harding Building on **Main Street between Fifth and Sixth**. These sources do **not** establish that the Harding Building equaled 507 Main in 1909. The prior exact timeline statement is superseded.  
+Confidence: High for c.1909 existence; Very High for the 1911 Main-between-Fifth/Sixth context; Unresolved for exact 1909 number, lot, and footprint.
