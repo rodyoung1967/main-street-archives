@@ -23,7 +23,8 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 5. The 1925 and 1950 sheets show 503 and 505 as distinct addresses/occupancies, supporting the archive rule that 503 and 505 should remain separate building/address records even when business history overlaps.
 6. The 1950 sheet shows a mid-century commercial pattern at 503/505 consistent with restaurant and billiards/cigars/beer uses.
 7. Aerial photocompare evidence (`E-021`) confirms **501 Main existed as a separable structure in 1936** and was **removed by 1944**; the east-side building across from **500 Main** is also absent by 1944. See `D-003` and `evidence/aerial-5th-main-photocompare-series.md`.
-8. Independent 1906 evidence now provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
+8. Independent 1906 evidence provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
+9. The 1907 pass adds a major **street-grade/track reconstruction event** through the target block (`E-066`) and a confirmed new telephone central office on the **east side of Main between Fifth and Sixth** (`E-065`). Neither event is currently tied to demolition of the later odd-numbered 501/503/505/507 predecessor buildings.
 
 ## Year-by-Year Working Notes
 
@@ -56,6 +57,17 @@ Working reconstruction strategy:
 5. Test the resulting lot sequence against the later 501/503/505/507 addresses and known 1908–1925 occupants.
 
 Do not assume that one modern street number equals one original platted lot; storefront subdivisions, combinations, and later rebuilding may cross lot lines.
+
+## 1907 Non-Sanborn Physical-Change Anchors
+
+The 1907 pass provides unusually strong context for interpreting apparent storefront elevations and later redevelopment:
+
+- `E-066` documents reconstruction of the Main Street railway track/roadbed and brick paving from Eleventh Street to the Basin. The **new track was about six inches higher than the old track**, and the street was raised to meet it. The Fifth–Sixth block therefore experienced a real grade change in 1907.
+- `E-065` documents completion of a substantial Pacific States Telephone central office on the **east side of Main between Fifth and Sixth**. It is a confirmed building/plant event within the block but is not mapped to a numbered lot.
+- `E-067` and `E-068` provide contemporary business anchors at Fifth/Main and Sixth/Main, while `E-069` places Tolpolar opposite the Post Office.
+- No direct 1907 source recovered in this pass says that the predecessor structures corresponding to later 501/503/505/507 were demolished, moved, or rebuilt.
+
+Photographic and architectural comparisons should allow for the 1907 street-level change: a storefront or basement opening that appears lower relative to the street in later views may reflect changed grade as well as altered building fabric.
 
 ## 1925 Address / Occupancy Notes
 
@@ -94,6 +106,7 @@ Archive handling:
 - Do not describe 1919 as proven original first construction.
 - Add a new research question: what changed between the pre-1919 Sanborn footprints and the later 1925 address/footprint pattern?
 - Check assessor records, permits, deeds, tax cards, newspaper construction/demolition notices, fires, and the 1906 numbering/plat materials for a construction, remodel, rebuild, readdressing, or reassessment event.
+- Account for the documented **1907 approximately six-inch Main Street grade increase** when comparing storefront elevations and thresholds.
 - Continue the year-by-year construction/demolition watch (`RL-024`) rather than treating an absence of a newspaper hit as proof that no physical change occurred.
 
 ## Open Research Questions Raised by the Maps
@@ -105,5 +118,6 @@ Archive handling:
 - Did the footprint of 503/505 change between 1900 and 1925?
 - How do the 1892 and 1900 older labels map onto modern 501/503/505/507 addresses?
 - What does the 1884-1890 sequence show when the same frontage is cropped and transcribed?
+- What exact address/lot did the 1907 Pacific States Telephone central office occupy (`RL-027`)?
 - Does the 1950 `505` billiards/cigars/beer label connect to later 505 Tavern / The 505 / Brass Rail Tavern / The Wheel history?
 - What was the legal relationship, if any, between the 503 restaurant space and the 505 billiards/cigars/beer space in 1925 and 1950?
