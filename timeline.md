@@ -6,6 +6,32 @@ The site was part of the area that became Oregon City's earliest commercial dist
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
+## 3 January 1902 — Schrader / Main-Street Bakery background
+A *Courier-Herald* New Year profile says Herman Schrader had worked nearly eighteen years in the **Main-Street Bakery** before buying his then-current bakery about a year earlier (`E-057`). This extends the Main Street bakery history backward but does not establish the later exact storefront or prove continuity with Schrader's later bakery near the Post Office.
+
+## 24 October 1902 — Huntley Bros. storefront remodeling
+The *Courier-Herald* reports that Huntley Bros. occupied two adjoining store rooms that were combined by removing the partition and installing a plate-glass front (`E-058`). The recovered notice does not securely place those rooms on the 5th-to-6th study block, so this remains structural/context evidence only.
+
+## 7 November 1902 — Union Store on the exact study block
+The **Union Store**, Michael proprietor, advertised a liquidation sale at **"Main St., between 5th and 6th Sts."** (`E-059`). This is direct primary evidence for a named business on the exact Main Street frontage under study. The later 5xx storefront number is unresolved.
+
+## January-May 1903 — storefront relationships before numbered-address evidence
+Primary newspaper evidence establishes several useful spatial relationships:
+
+- **Portland Clothing House** was **next door to Harding's Drug Store** on 2 January (`E-060`).
+- **The Fair Store** advertised **opposite the Post Office** on 23 January and was preparing to move in April-May (`E-061`).
+- **George A. Harding's drug store** was in the **Willamette Building** in April (`E-062`).
+
+These relationships are strong geographic evidence but do not justify assigning later 5xx Main numbers. Later 1905 evidence places the Fair Store in the Willamette Building and separately uses the name **Harding Block**, creating an open mapping question (`RL-023`).
+
+## 1904 — mapping-context year
+A review of 1904 *Oregon City Courier* issues did **not** recover a defensible exact 501–527 Main address or a new named business explicitly described as being on Main between 5th and 6th. This absence is not evidence of vacancy.
+
+Useful 1904 anchors include the **Willamette Building** as active office/commercial premises and a new book store announced in **Lamb & Sawyer's Building, next to Oregon City Bank**. Other Main Street businesses found in the year cannot yet be securely mapped to the study block. See `evidence/source-captures/1904-courier-main-street-review.md` and `evidence/1904-main-street-mapping-synthesis.md`.
+
+## 24 August 1906 — house-numbering ordinance context
+The *Oregon City Courier* reports that the city council passed an ordinance **providing for numbering of houses** (`E-063`). This does not prove that no numbers existed earlier, but it materially supports caution about back-projecting later 5xx Main numbers into 1902–1904. The ordinance text and any implementation map/list remain priority research targets (`RL-024`).
+
 ## August 1908
 Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
 
@@ -24,10 +50,10 @@ H. H. Smith applied for a pool-hall license at 503 Main (`E-023`).
 ## December 1912
 Schrader sold his two Oregon City bakeries, one on Main Street and the other at Seventh and John Adams, to Wemmo & Haas. Exact Main Street number remains a research target.
 
-## February 1914
-L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that undertaker R. L. Holman moved to Fifth & Main in 1914 is **not currently accepted as established** because the contemporaneous move notice has not been recovered (`RL-020`).
+## 26 February 1914 — R. L. Holman moves to Fifth & Main
+The *Oregon City Courier* directly reports that **R. L. Holman moved his undertaking establishment from the Caufield Building on Eighth and Main Street to his building on Fifth and Main Street** (`E-064`). This resolves the earlier question about the 1914 move date. The wording **"his building"** is evidence of Holman's ownership of the premises, though deed/assessor confirmation is still desirable. The notice does not give a later numbered address and does not by itself prove the building became 501 Main.
 
-## June 1915–January 1917 — Undertakers at Fifth & Main
+## June 1915–January 1917 — Undertakers continue at Fifth & Main
 Primary *Oregon City Courier* advertisements directly place **R. L. Holman and T. P. Randall** at **Fifth and Main St.** in June 1915 and March 1916, and **R. L. Holman** at the same location in January 1917 (`E-054`, `S-064`–`S-066`). This location is a plausible candidate for the later-numbered 501 Main corner store, but **no recovered source yet equates Fifth & Main with 501 Main**.
 
 ## October 1918
@@ -46,7 +72,7 @@ Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), pro
 A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as the local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
 
 ## 1925 Sanborn — 501 / 503 / 505
-The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1915–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.
+The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1914–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.
 
 ## 1935 — present 527 Main / Swartz Building
 City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.
