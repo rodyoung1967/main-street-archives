@@ -5,8 +5,8 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`
-- Related sources: `S-010`, `S-012`, `S-023`, `S-052`, `S-063`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-085`
+- Related sources: `S-010`, `S-012`, `S-023`, `S-052`, `S-063`, `S-098`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
@@ -18,22 +18,29 @@ Earlier working dates of late 1968 or 1969 (`E-016`) are superseded for the **fi
 
 Current working facts:
 
-- The building was known as the Harding Building by 1909.
-- George A. Harding and Harding Drug Store are associated with the original building.
-- Dr. Bailey was documented upstairs in the Harding Building in 1909.
+- A building/premises called the **Harding Building** is documented in the target block by 1909-1911.
+- George A. Harding and Harding Drug Store are associated with the historical Harding name/building complex.
+- Dr. Bailey was documented upstairs in a Harding Building in 1909.
+- The **exact numbered address/footprint of every early Harding Building reference is not yet proved**. Contemporary 1911 reports describe Harding premises both on Main between Fifth and Sixth and on Sixth between Main and Railroad Avenue (`E-085`).
 - Harding Drug Store and Dixon's Bakery were gutted in the 1 September 1967 fire.
 - The Wheel Restaurant and 505 Tavern survived that fire with smoke and water damage.
 - The **present replacement Harding Building spans 507-511 Main and is dated 1968** in ODOT's 2021 inventory table (`S-063`).
 
+### Historical-name continuity caution
+
+The fact that today's consolidated **507-511 Main** replacement is officially/inventory-named the **Harding Building** is historically significant and may preserve a genuine site/name/ownership relationship with the earlier Harding premises. It makes the 507 area an important candidate when reconstructing the original building.
+
+However, **the modern building name is not by itself proof that every 1909-1913 reference to the Harding Building meant exactly 507 Main**. The surviving 1911 primary descriptions are geographically ambiguous and must control over later naming assumptions. Keep this distinction explicit until deeds, directories, Sanborn detail, assessor records, or other primary evidence fixes the early footprint.
+
 ## George A. Harding / Harding Drug Store
 
-The original Harding Building was associated with George A. Harding and the Harding Drug Store.
+The historical Harding Building was associated with George A. Harding and the Harding Drug Store.
 
 - Related person: `P-001` George A. Harding
 - Related business: `BUS-007` Harding Drug Store
 - Related building: `B-003`
 
-The archive still needs primary sources establishing George A. Harding's ownership, tenancy, construction role, and exact dates of Harding Drug Store operation at 507 Main.
+The archive still needs primary sources establishing George A. Harding's ownership, tenancy, construction role, and exact dates/addresses of Harding Drug Store operation within the pre-1967 building complex.
 
 ## Documented Occupant
 
@@ -62,7 +69,7 @@ Related research lead:
 
 | ID | Business | Status |
 | --- | --- | --- |
-| `BUS-007` | Harding Drug Store | Associated with George A. Harding; dates and documentation need expansion. |
+| `BUS-007` | Harding Drug Store | Associated with George A. Harding; exact early numbered-address chronology needs expansion. |
 | `BUS-008` | Tony's Restaurant | Associated with Harding Building before the fire; exact dates and evidence need confirmation. |
 | `BUS-023` | Dixon's Bakery | Named by the Oregonian among businesses gutted in the 1967 fire; exact storefront number at the time remains to be established. |
 
@@ -73,17 +80,20 @@ Related research lead:
 
 ## Relationship to 503, 505, and 527
 
-The original 507 Harding Building and the 1968 replacement should remain separate in interpretation from the surviving 503 and 505 buildings.
+The historical Harding premises and the 1968 replacement should remain separate in interpretation from the surviving 503 and 505 buildings.
 
 The 2021 ODOT table is particularly useful for understanding the modern block: it dates **507-511 Harding Building to 1968** and **527 Main / Swartz Building to 1935** (`S-063`). Thus the present-day consolidated 507-511 frontage is a post-fire replacement, while the current 527 building predates the fire.
+
+The exact relationship between the early Harding Building references, the later 507/509/511 storefront sequence, and any neighboring 505 frontage remains an open historical-footprint question. Do not let the present building name silently resolve that earlier ambiguity.
 
 ## Evidence Summary
 
 | ID / Source | Type | Claims |
 | --- | --- | --- |
 | `E-016` | Project/oral-history notes | Earlier working claim: late 1968 or 1969 fire; bakery origin. Date and origin superseded by `E-045`. |
-| `E-017` | Photo metadata note | 1910 5th/Main photo record states the taller Harding Building at 507 burned and was replaced by the current building. |
+| `E-017` | Photo metadata note | 1910 5th/Main photo record states the taller Harding Building at 507 burned and was replaced by the current building; useful internal/project metadata but early exact-number assignment still requires primary corroboration. |
 | `E-045` | Primary newspaper | 1 September 1967 fire; Harding Drug and Dixon's Bakery gutted; Wheel Restaurant and 505 Tavern spared. |
+| `E-085` / `S-098` | Primary newspaper | 1911 Harding Building location descriptions and George Young one-door-north move; exact historical numbered footprint unresolved. |
 | `S-063` | Official state cultural-resources report | Present 507-511 Harding Building listed with build date **1968**. |
 
 Related page:
@@ -96,9 +106,9 @@ Related page:
 High-priority evidence to locate:
 
 - Construction records for the original Harding Building.
-- Deeds or property records tying George A. Harding to 507 Main.
-- City directory listings for Harding Drug Store.
-- Newspaper references to Harding Drug Store.
+- Deeds or property records tying George A. Harding to specific lots/addresses in the Fifth-Sixth Main block.
+- City directory listings for Harding Drug Store and the Harding Building.
+- Newspaper references that print exact numbered addresses for the early Harding premises.
 - Source for Dr. Bailey's 1909 upstairs dental practice.
 - Oregon City fire department / insurance records for the 1 September 1967 fire.
 - **1968 permit, assessor, architectural, contractor, or newspaper records for the replacement building.**
@@ -107,8 +117,9 @@ High-priority evidence to locate:
 
 ## Research Priorities
 
-- Establish the construction date of the original Harding Building.
+- Establish the construction date and exact footprint of the original Harding Building.
 - Confirm whether George A. Harding owned, developed, leased, or operated from the building.
+- Determine whether the modern 507-511 Harding name reflects direct site/building-name continuity or a later memorial/ownership naming choice.
 - Build a year-by-year tenant list for 507, 509, and 511 before the 1967 fire.
 - Locate fire department, insurance, and local newspaper corroboration for the 1 September 1967 fire.
 - Search city permit records for demolition, cleanup, and **1968 replacement construction**.
@@ -116,13 +127,14 @@ High-priority evidence to locate:
 - Determine the exact architect, builder, permit date, completion date, and occupancy date of the replacement.
 - Determine whether Tony's Restaurant was present at the time of the fire.
 - Establish Dixon's Bakery's exact storefront address in September 1967.
-- Distinguish clearly between evidence for the original building and evidence for the 1968 replacement.
+- Distinguish clearly between evidence for the original building/premises and evidence for the 1968 replacement.
 
 ## Open Questions
 
-- What was the exact construction date of the original Harding Building?
+- What was the exact construction date and footprint of the original Harding Building?
 - What was George A. Harding's precise relationship to the building?
-- When did Harding Drug Store operate at 507 Main?
+- Which exact Main Street numbers did the historical Harding Building encompass at different dates?
+- Does the present 507-511 Harding Building name represent direct continuity with the original site's name, or a later naming decision?
 - What source documents Dr. Bailey upstairs in 1909?
 - What additional records document the official cause and full damage pattern of the 1 September 1967 fire?
 - Was Tony's Restaurant operating at the time of the fire?
