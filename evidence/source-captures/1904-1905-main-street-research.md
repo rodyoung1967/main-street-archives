@@ -53,6 +53,16 @@ A catalog/search result identifies an **Oregon and Washington gazetteer and busi
 
 Priority inspection target: Oregon City address/business listings for Main Street, especially 501, 503, 505, 507, adjacent numbers, and named businesses visible in 1904–1905 newspaper advertising.
 
+## S-074 — Oregon City Enterprise, 30 June 1905, preliminary street numbering
+
+Type: Primary newspaper / municipal-context evidence  
+Related evidence: `E-060`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/
+
+Observed claim: in connection with a federal inspection for free mail delivery, the *Enterprise* urged residents to become familiar with a **system of numbering residences that had recently been introduced** and to number their properties accordingly.
+
+Significance: this establishes a preliminary/recently introduced numbering system by mid-1905. Later 1906 sources show that the City Council still had to formalize the system through an ordinance, a numbering plat, street signs, and a mandatory compliance period. Therefore the 1905 item should not be treated as proof that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.
+
 ## 1905 exact-address search result
 
 Targeted searches of the available Oregon newspaper archive for combinations of **503 Main**, **505 Main**, and **507 Main** with Oregon City and 1905 did not recover a primary 1905 item that directly identifies an occupant at those modern numbered addresses.
@@ -77,11 +87,13 @@ Still unresolved:
 Documented:
 - I. Tolpolar continued on Main Street as of 3 February 1905.
 - Fifth Street improvements crossed Main Street in 1905, documenting active municipal work at the relevant intersection.
+- A street/residence numbering system had been recently introduced by 30 June 1905, but the formal city ordinance/plat and mandatory implementation followed in 1906.
 
-Still unresolved:
+Still unresolved / follow-up:
 - Exact 1905 occupants of modern 503, 505, and 507 Main.
-- When the modern 501/503/505/507 numbering became firmly attached to the frontage.
+- Exact mapping of the preliminary 1905 numbering system to the later 501/503/505/507 sequence.
+- Inspect the 1905–1906 Oregon/Washington business directory when access is available (`RL-023`).
 
 ## Handling rule
 
-Do not infer a modern numbered address from a relative-location phrase, later address, or the 1900 Sanborn commercial-use labels. Exact numbered occupancy requires a directory, advertisement, license, deed/assessor record, or other source that explicitly supports the mapping.
+Do not infer a modern numbered address from a relative-location phrase, later address, or the 1900 Sanborn commercial-use labels. Exact numbered occupancy requires a directory, advertisement, license, deed/assessor record, numbering plat, or other source that explicitly supports the mapping.
