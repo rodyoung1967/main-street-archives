@@ -415,3 +415,43 @@ Sources: `S-078`
 Related record: `evidence/E-064-1906-william-tell-hotel-block26.md`  
 Claims: The historic **three-story frame William Tell Hotel at Sixth and Main** was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as **lot 8, block 26**, providing a fixed lot/location anchor for the 5th–6th Main block.  
 Confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 anchor based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
+
+## E-065 — Pacific States Telephone Central Office Between Fifth & Sixth, 1907
+Type: Primary newspaper / construction evidence  
+Date: 31 March–1 April 1907  
+Sources: `S-079`  
+Related record: `evidence/E-065-1907-pacific-states-telephone-office-main-fifth-sixth.md`  
+Claims: Pacific States Telephone & Telegraph had nearly completed a modern central-office plant on the **east side of Main Street between Fifth and Sixth Streets**, after more than a year of work and approximately $30,000 in local plant improvements. This is direct new-construction/completion evidence within the block, but no numbered address or lot is printed and it is not assigned to the later odd-numbered 501/503/505/507 frontage.  
+Confidence: Very High for location and completion status; Unresolved for exact address, lot, and later building identity.
+
+## E-066 — Main Street Track, Paving, and Grade Reconstruction, 1907
+Type: Primary newspaper / railway and public-works evidence  
+Date: April–August 1907  
+Sources: `S-080`  
+Related record: `evidence/E-066-1907-main-street-track-grade-reconstruction.md`  
+Claims: Oregon Water Power & Railway and Oregon City reconstructed the Main Street track/roadbed and paving through the business district from **Eleventh Street to the Basin**. Brick paving was removed and relaid and the street was raised to meet the new railway track, reported as **about six inches higher than the old track**. The project therefore directly affected the Fifth–Sixth block. No recovered source ties it to demolition or replacement of 501/503/505/507 predecessor buildings.  
+Confidence: Very High for the corridor work and approximate six-inch elevation change; Unresolved for effects on individual storefront structures.
+
+## E-067 — Mount Hood Cafe / Fifth & Main Anchor, 1907
+Type: Primary newspaper / geographic anchor  
+Date: 4 January 1907  
+Sources: `S-081`  
+Related record: `evidence/E-067-1907-fifth-main-mount-hood-cafe-anchor.md`  
+Claims: A newspaper report places the **Mount Hood Cafe** at or immediately associated with the Fifth-and-Main corner context, providing a contemporary south-end block anchor. The source does not print a numbered address.  
+Confidence: Very High for the Fifth/Main relationship; Unresolved for exact number and storefront footprint.
+
+## E-068 — John Gohra Saloon at Main & Sixth, 1907
+Type: Primary newspaper / liquor-license notice  
+Date: 12 April 1907  
+Sources: `S-082`  
+Related record: `evidence/E-068-1907-sixth-main-john-gohra-saloon.md`  
+Claims: John Gohra sought renewal of a liquor license for his existing place of business at **Main and Sixth streets**, providing a contemporary north-end block anchor. The current evidence does not connect his premises to the William Tell/Gambrinus lot-8 property.  
+Confidence: Very High for the intersection location; Unresolved for exact number, lot, and relationship to William Tell/Gambrinus.
+
+## E-069 — I. Tolpolar Opposite the Post Office, 1907
+Type: Primary newspaper advertisement / relative-location evidence  
+Date: 30 August 1907  
+Sources: `S-083`  
+Related record: `evidence/E-069-1907-tolpolar-opposite-postoffice.md`  
+Claims: Advertisement identifies **I. Tolpolar — Main St. Opp. Postoffice — Oregon City, Oregon**, strengthening his location evidence beyond the 1904–1905 Main-Street-only advertisements. No numbered address is printed and later addresses must not be projected backward.  
+Confidence: Very High for the relative location; Unresolved for exact numbered address.

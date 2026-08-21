@@ -169,3 +169,42 @@ Type: Primary newspaper and recorded-transfer reporting.
 Related evidence: `E-064`  
 Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
 Notes: The *Morning Oregonian* places the historic three-story frame William Tell Hotel at **Sixth and Main** and reports its $13,000 sale to Gambrinus Brewing Company. The *Enterprise* transfer column records the matching Gambrinus transaction at **lot 8, block 26**, giving the project a fixed Block 26 lot/location anchor.
+
+## S-079 — Pacific States Telephone & Telegraph new central office, 1907
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-4/  
+Type: Primary newspaper / construction evidence.  
+Related evidence: `E-065`  
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Notes: Reports a newly completed modern telephone central-office plant on the **east side of Main Street between Fifth and Sixth**, after more than a year of work and approximately $30,000 in local plant improvements. No numbered address or lot is printed.
+
+## S-080 — Main Street railway-track, paving, and grade reconstruction, 1907
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-14/  
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-05-09/ed-1/seq-10/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1907-05-10/ed-1/seq-5/  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1907-08-16/ed-1/seq-5/  
+Type: Primary newspaper / railway and public-works evidence.  
+Related evidence: `E-066`  
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Notes: Documents reconstruction of the Main Street track/roadbed from Eleventh Street to the Basin, new heavy rail, disturbed/relaid brick paving, and a **roughly six-inch increase in street/track elevation**. The corridor includes the Fifth–Sixth block. No target storefront demolition is established.
+
+## S-081 — Mount Hood Cafe / Fifth & Main anchor, 1907
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-01-04/ed-1/seq-3/  
+Type: Primary newspaper / geographic anchor.  
+Related evidence: `E-067`  
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Notes: A runaway-horse report places the Mount Hood Cafe at or immediately associated with the **Fifth-and-Main** intersection context. No numbered address is printed.
+
+## S-082 — John Gohra saloon at Main & Sixth, 1907
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-04-12/ed-1/seq-2/  
+Type: Primary newspaper / liquor-license notice.  
+Related evidence: `E-068`  
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Notes: John Gohra sought renewal for his existing place of business at **Main and Sixth streets**. No numbered address or direct connection to the William Tell/Gambrinus lot-8 property is established.
+
+## S-083 — I. Tolpolar opposite the Post Office, 1907
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-30/ed-1/seq-3/  
+Type: Primary newspaper advertisement / relative-location evidence.  
+Related evidence: `E-069`  
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Notes: Advertisement places **I. Tolpolar — Main St. Opp. Postoffice**. This strengthens his location evidence over the 1904–1905 Main-Street-only ads but does not establish an exact number.

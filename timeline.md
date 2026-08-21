@@ -19,6 +19,13 @@ The City also carried out substantial **Sixth Street grading and improvement acr
 
 A particularly useful property anchor comes from October 1906: the historic **three-story frame William Tell Hotel at Sixth & Main** was sold to Gambrinus Brewing Company for $13,000, and the matching realty-transfer report identifies the property as **lot 8, Block 26** (`E-064`). This fixed north-end lot anchor, combined with the missing 1906 numbering plat and Sanborn maps, may allow the remaining Block 26 lots to be mapped toward Fifth Street (`RL-026`). No direct 1906 source has yet been found showing demolition or replacement of the predecessor buildings corresponding to later 501/503/505.
 
+## 1907 — new plant, Main Street reconstruction, and block anchors
+A major Pacific States Telephone & Telegraph central-office plant was completed on the **east side of Main between Fifth and Sixth** after more than a year of work (`E-065`). The source gives no number or lot, so this is recorded as block construction evidence rather than a predecessor of the later odd-numbered 501/503/505/507 frontage.
+
+Main Street itself underwent substantial physical reconstruction in 1907. Oregon Water Power & Railway rebuilt its track/roadbed through the paved business district from **Eleventh Street to the Basin**, a corridor that necessarily includes Fifth–Sixth. Brick paving was removed and relaid, and an August report states that the street was raised to meet the new track, **about six inches higher than the former track** (`E-066`). This is a significant grade/paving event immediately in front of the target storefronts, but no recovered source says the buildings themselves were demolished, moved, or replaced.
+
+Contemporary geographic anchors include the **Mount Hood Cafe at the Fifth/Main context** (`E-067`) and **John Gohra's saloon at Main & Sixth** (`E-068`). An August advertisement also places **I. Tolpolar on Main Street opposite the Post Office** (`E-069`). None of these 1907 sources prints an exact target number, and targeted searches did not recover an occupant explicitly at 501, 503, 505, or 507 Main in 1907. That absence is research status only, not evidence of vacancy.
+
 ## August 1908
 Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
 
