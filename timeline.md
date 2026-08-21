@@ -44,6 +44,19 @@ The archive's former statement that **507 Main was known as the Harding Building
 
 Targeted 1909 searches did not recover an exact contemporaneous occupant at **501, 503, 505, or 507 Main**, nor a fire, demolition, replacement, or new-construction event securely tied to one of those numbered predecessor storefronts. The enhanced *Courier* pass reviewed indexed/retrievable 1909 issue pages and logged pages that the current archive interface would not expose individually for later visual verification (`RL-030`). These are research-coverage statements, not evidence of vacancy or absence of construction.
 
+## 1910 — new Gambrinus block, address movement, and continued streetscape modernization
+The north end of the Fifth–Sixth block underwent a documented building event in 1910. By 1 June, **Carl G. Hodes had vacated his Sixth & Main saloon for a period** (`E-079`). On 29 June the City Council granted contractor J. G. Killgreen use of portions of Main and Sixth adjoining the **Gambrinus property at Sixth & Main specifically for materials for construction of a new building at that location**. On 26 August the *Courier* reported that the basement was complete for a **new two-story Gambrinus Brewing Company business block at Main & Sixth** (`E-078`). This strongly narrows the structural succession after Gambrinus acquired the three-story frame William Tell property in 1906, but no direct demolition notice has yet been recovered proving the precise fate/date of the old hotel structure (`RL-031`).
+
+The south end also has direct 1910 anchors. A 1 June Council record places **E. R. Case's saloon at Fifth & Main**, with a restaurant adjoining it (`E-080`). A September *Courier* business page separately places the **Pioneer Market / H. W. Streibig at Fifth & Main** (`E-081`). Neither relative/intersection description is converted to 501/503 without independent mapping evidence.
+
+The same September page establishes **H. P. Brightbill at 509 Main** by 23 September 1910 (`E-081`). Because Brightbill was directly documented at **503 Main on 25 August 1908** (`E-042`), his movement/readdressing from 503 to 509 is now narrowed to after August 1908 and by September 1910. Price Bros. is independently documented at **Sixth & Main** in March and September 1910, Watson B. Eddy & Son is also listed at Main/Sixth in September, and George A. Harding's own business is listed at **611 Main**; these do not establish the exact footprint or number of the separately named Harding Building.
+
+Repeated 1910 *Courier* advertising places **Pacific Telephone & Telegraph Co. at 510 Main Street** (`E-082`), materially advancing the 1907 east-side telephone-office location question. The evidence strongly suggests continuity with the central office completed on the east side of Main between Fifth and Sixth in 1907, but the 510 number is not backdated without an explicit continuity source (`RL-027`).
+
+Oregon City also continued reshaping Main Street's public realm: Council ordered concrete walks where needed along Main from Eleventh to the Basin, and in October ordered old wooden awnings and projecting signs removed (`E-083`). Together with the 1907 grade increase and 1908 overhead-wire removal, these changes must be considered when comparing early photographs.
+
+Targeted searches and the indexed/retrievable *Courier* page review did not recover a 1910 occupant explicitly at **501, 503, 505, or 507 Main**, nor a target-numbered fire. The remaining page-image completeness limitation is logged under `RL-032`; it is not treated as evidence of vacancy or absence of activity.
+
 ## April 1911 / January 1913
 The Chicago Store advertised at 505 Main (`E-026`).
 
