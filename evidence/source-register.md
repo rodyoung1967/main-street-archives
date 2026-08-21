@@ -131,3 +131,41 @@ Type: Primary newspaper / municipal-context evidence.
 Related evidence: `E-060`  
 Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
 Notes: Reports that a system of numbering residences had recently been introduced and urges residents to number properties so federal inspection for free mail delivery can proceed. It does not reproduce an address plat and does not prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.
+
+## S-075 — Oregon City formal street-numbering campaign, 1906
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-06/ed-1/seq-1/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-08-17/ed-1/seq-1/  
+Type: Primary newspaper / municipal-context evidence.  
+Related evidence: `E-061`  
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Notes: Documents the 1906 transition from free-delivery requirements to a formal street-numbering ordinance, a filed **plat designating the correct numbering**, numbering-map work, street signs, and implementation. The 17 August issue also prints **504 Main Street** for Lerow’s Glass Blowers. The original numbering plat remains a priority source to recover.
+
+## S-076 — Sixth Street improvement across Main Street, 1906
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/  
+Type: Primary municipal notice / newspaper reporting.  
+Related evidence: `E-062`  
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Notes: Documents grading and improvement of Sixth Street across Main, including crushed rock/gravel, sidewalks, curbs, drains, gutters, corner blocks, grade re-establishment, and a related proposal to move hill steps from Sixth to Fifth. No storefront demolition is established.
+
+## S-077 — Rosenstein’s Clothing House fire, 1906
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-12-14/ed-1/seq-7/  
+Type: Primary newspaper advertisements / fire aftermath evidence.  
+Related evidence: `E-063`  
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Notes: Places Rosenstein’s Clothing House **two doors south of Postoffice, Main Street** and documents stock slightly damaged by a November 1906 fire. No numbered address or building-destruction claim is supported.
+
+## S-078 — William Tell Hotel / Block 26 lot 8, October 1906
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1906-10-05/ed-1/seq-7/  
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/  
+Type: Primary newspaper and recorded-transfer reporting.  
+Related evidence: `E-064`  
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Notes: The *Morning Oregonian* places the historic three-story frame William Tell Hotel at **Sixth and Main** and reports its $13,000 sale to Gambrinus Brewing Company. The *Enterprise* transfer column records the matching Gambrinus transaction at **lot 8, block 26**, giving the project a fixed Block 26 lot/location anchor.
