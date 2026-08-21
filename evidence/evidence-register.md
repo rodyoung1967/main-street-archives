@@ -453,7 +453,7 @@ Type: Primary newspaper advertisement / relative-location evidence
 Date: 30 August 1907  
 Sources: `S-083`  
 Related record: `evidence/E-069-1907-tolpolar-opposite-postoffice.md`  
-Claims: Advertisement identifies **I. Tolpolar — Main St. Opp. Postoffice — Oregon City, Oregon**, strengthening his location evidence beyond the 1904–1905 Main-Street-only advertisements. No numbered address is printed and later addresses must not be projected backward.  
+Claims: Advertisement identifies **I. TOLPOLAR — Main St. Opp. Postoffice — Oregon City, Oregon**, strengthening his location evidence beyond the 1904–1905 Main-Street-only advertisements. No numbered address is printed and later addresses must not be projected backward.  
 Confidence: Very High for the relative location; Unresolved for exact numbered address.
 
 ## E-070 — Main Street Overhead Wire and Pole Removal, 1908
@@ -519,3 +519,51 @@ Sources: `S-091`
 Related record: `evidence/E-077-hardings-building-c1909-address-unresolved.md`  
 Claims: A 1918 *Courier* retrospective says the Christian Science church was meeting in an office room in the **Harding Building nine years earlier**, supporting existence around 1909; a 1911 *Courier* item places the Harding Building on **Main Street between Fifth and Sixth**. These sources do **not** establish that the Harding Building equaled 507 Main in 1909. The prior exact timeline statement is superseded.  
 Confidence: High for c.1909 existence; Very High for the 1911 Main-between-Fifth/Sixth context; Unresolved for exact 1909 number, lot, and footprint.
+
+## E-078 — Gambrinus New Business Block at Sixth & Main, 1910
+Type: Primary municipal record + primary newspaper construction evidence  
+Date: 29 June–26 August 1910  
+Sources: `S-092`  
+Related record: `evidence/E-078-1910-gambrinus-new-business-block-sixth-main.md`  
+Claims: Council authorized contractor J. G. Killgreen to stage construction materials on Main and Sixth adjoining the **Gambrinus property at Sixth & Main** for a **new building at that location**. On 26 August the *Courier* reported the basement complete for a new **two-story Gambrinus Brewing Company business block on Main at Sixth**. This is direct new-construction evidence on the Gambrinus property after the 1906 William Tell sale, but no explicit demolition notice yet proves the exact fate of the earlier hotel structure.  
+Confidence: Very High for the 1910 new-building construction and location; High for structural succession on the Gambrinus property; Unresolved for exact demolition/replacement mechanics and later numbered address.
+
+## E-079 — Carl G. Hodes Vacates Sixth & Main Saloon, 1910
+Type: Primary municipal liquor-license record  
+Date: 1 June 1910  
+Sources: `S-093`  
+Related record: `evidence/E-079-1910-hodes-vacates-sixth-main-saloon.md`  
+Claims: Council extended Hodes's saloon-license period to account for time between **his vacation of his saloon at Sixth and Main Streets** and license expiration. This establishes that the Sixth/Main saloon documented in 1909 had been vacated for a period before the late-June Gambrinus construction staging. The source does not say the vacancy was caused by construction.  
+Confidence: Very High for the vacancy and location; Unresolved for exact premises, vacancy date/reason, and relationship to the Gambrinus property.
+
+## E-080 — E. R. Case Saloon / Adjoining Restaurant at Fifth & Main, 1910
+Type: Primary municipal record / business and property-use anchor  
+Date: 1 June 1910  
+Sources: `S-093`  
+Related record: `evidence/E-080-1910-er-case-saloon-fifth-main.md`  
+Claims: Council discussed a complaint involving a **restaurant adjoining E. R. Case's saloon at Fifth and Main Streets**. This establishes a saloon and adjoining restaurant at the south end of the target block, but no numbered address is printed and the premises are not assigned to 501 or 503.  
+Confidence: Very High for the Fifth/Main location and adjoining-use relationship; Unresolved for exact number, lot, and footprint.
+
+## E-081 — Main Street Business and Address Anchors, 1910
+Type: Primary newspaper advertising / exact-address and intersection evidence  
+Date: 4 March and 23 September 1910  
+Sources: `S-094`  
+Related record: `evidence/E-081-1910-main-street-business-address-anchors.md`  
+Claims: Price Bros. advertised at **Sixth & Main** in March and September. The 23 September business page also lists **H. P. Brightbill — 509 Main St.**, **Pioneer Market / H. W. Streibig — Fifth & Main**, **Geo. A. Harding — 611 Main**, and **Watson B. Eddy & Son — Main & Sixth**. Brightbill's 509 listing narrows his documented movement from 503 (`E-042`, August 1908) to after August 1908 and by September 1910. George Harding's 611 business address is not treated as the address of the separately named Harding Building.  
+Confidence: Very High for the printed addresses/intersection descriptions and Brightbill at 509 by 23 September 1910; Unresolved for mapping the intersection businesses to specific corners/lots.
+
+## E-082 — Pacific Telephone & Telegraph at 510 Main, 1910
+Type: Primary newspaper advertisements / exact-address evidence  
+Date: August–December 1910  
+Sources: `S-095`  
+Related record: `evidence/E-082-1910-pacific-telephone-510-main.md`  
+Claims: Repeated *Courier* advertisements identify **Pacific Telephone & Telegraph Co. at 510 Main Street**. This establishes the exact office address by 1910 and strongly supports continuity with the east-side central-office plant completed between Fifth and Sixth in 1907, but the 510 number is not backdated without a direct continuity source.  
+Confidence: Very High for 510 Main in 1910; High for relationship to the 1907 plant; direct 1907–1910 premises continuity remains unresolved.
+
+## E-083 — Main Street Concrete Walks, Wooden Awning and Projecting-Sign Removal, 1910
+Type: Primary municipal record + primary newspaper streetscape evidence  
+Date: July–October 1910  
+Sources: `S-096`  
+Related record: `evidence/E-083-1910-main-street-sidewalk-awning-sign-modernization.md`  
+Claims: Council ordered concrete walks where needed along **Main Street between Eleventh Street and the Basin**, and the *Courier* later reported a city order removing old wooden awnings projecting over sidewalks and requiring projecting signs to be placed flat against buildings. The Fifth–Sixth block lies within the Main Street sidewalk corridor. These are important streetscape changes but do not establish target-building replacement.  
+Confidence: Very High for the 1910 sidewalk/awning/sign actions; Unresolved for exact compliance timing and physical impact at individual 501/503/505/507 premises.
