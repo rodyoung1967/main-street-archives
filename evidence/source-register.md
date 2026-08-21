@@ -369,3 +369,38 @@ Type: Primary newspaper advertisement / exact-address continuity evidence.
 Related evidence: `E-088`  
 Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
 Notes: Continues Pacific Telephone & Telegraph's exact **510 Main St.** listing from late 1910 into 6 January 1911. This strengthens, but does not prove, physical continuity with the central-office plant completed in 1907.
+
+## S-102 — Oregon City Courier, 5 January 1912, visually verified Main Street business/address page
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6.pdf  
+Type: Primary newspaper advertising / exact-address reconstruction evidence.  
+Related evidence: `E-089`, `E-092`, `E-093`; cross-reference `E-050`, `E-051`, `S-059`, `S-061`  
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Notes: Visual inspection corrects several OCR errors and establishes **H. N. Smith — 503 Main**, **G. H. Young — 507 Main**, **H. P. Brightbill — 509 Main**, and **Geo. A. Harding — 511 Main**. The OCR misreads Smith as 603, Brightbill as 609, and garbles Harding's number. The same page places the Chicago Store just below the Post Office and other firms relative to the Post Office; those relative descriptions are not converted to exact numbers.
+
+## S-103 — Morning Enterprise, 24 March 1912, Smith pool-hall notice and Gambrinus Saloon
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-24/ed-1/seq-2/  
+Type: Primary newspaper legal notice + business-location report.  
+Related evidence: `E-023`, `E-089`, `E-091`  
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Notes: A legal notice signed **H. H. Smith** gives his pool-hall place of business as **503 Main Street**. The same issue also identifies the **Gambrinus Saloon at Sixth & Main** and names **William Trudell** as proprietor. This verified March 24 page supplements the older `S-024` capture of the Smith notice.
+
+## S-104 — Oregon City Courier, 12 July 1912, H. H. Smith leaves Fifth/Main pool hall
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-12/ed-1/seq-5/  
+Type: Primary newspaper / business-transition and relative-location evidence.  
+Related evidence: `E-089`  
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Notes: Reports that **H. H. Smith**, who had conducted a pool hall at **Fifth and Main streets**, left Oregon City for Aurora to open another pool hall. Combined with his March 503 Main legal notice, this is strong continuity evidence for the 503 pool-hall sequence, though the January H. N. versus later H. H. initials discrepancy remains unresolved.
+
+## S-105 — Oregon City Courier, 10 May 1912, active Main Street demolition/rebuilding
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-10/ed-1/seq-1/  
+Type: Primary newspaper editorial / contemporaneous construction context.  
+Related evidence: `E-090`  
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Notes: A present-tense editorial states that Oregon City was then **tearing down buildings on Main Street and building new buildings in their places**. It does not name a block, owner, business, or number, so it is evidence of active Main Street structural replacement in 1912 but not proof of demolition at 501/503/505/507.
+
+## S-106 — Oregon City Courier, 20 December 1912, Schrader bakery sale
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-20/ed-1/seq-8.pdf  
+Type: Primary newspaper / business-transfer evidence.  
+Related evidence: `E-093`  
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Notes: Reports that **Herman Schrader** sold his two Oregon City bakeries—one at Seventh and John Adams and one **on Main Street**—to **Wemmo & Haas**. Earlier January advertising placed Schrader's Bakery near the Post Office, but no exact Main Street number is established.
