@@ -279,3 +279,46 @@ Type: Primary newspaper retrospective + later direct location evidence.
 Related evidence: `E-077`  
 Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
 Notes: A 1918 retrospective says Christian Science services were held in the Harding Building nine years earlier, supporting existence around 1909; a 1911 article places the Harding Building on **Main Street between Fifth and Sixth**. These sources do **not** establish that the Harding Building equaled 507 Main in 1909.
+
+## S-092 — New Gambrinus business block at Sixth & Main, 1910
+Canonical sources:  
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-26/ed-1/seq-1/  
+Type: Primary Oregon City Council record + primary newspaper construction report.  
+Related evidence: `E-078`  
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Notes: On 29 June Council permitted contractor J. G. Killgreen to stage material in Main and Sixth streets abutting the **Gambrinus property at Sixth & Main** for construction of a **new building at that location**. On 26 August the *Courier* reported the basement complete for a new **two-story Gambrinus Brewing Company business block on Main at Sixth**. No direct demolition notice for the prior William Tell structure has yet been recovered.
+
+## S-093 — Oregon City Council, 1 June 1910, Fifth/Main and Sixth/Main business anchors
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+Type: Primary Oregon City Council record.  
+Related evidence: `E-079`, `E-080`  
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Notes: Council records show **C. G. Hodes had vacated his saloon at Sixth & Main** for a period and separately identify **E. R. Case's saloon at Fifth & Main**, with a restaurant adjoining it. No exact Main Street numbers are printed.
+
+## S-094 — Oregon City Courier Main Street business/address anchors, 1910
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-04/ed-1/seq-12/  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-09-23/ed-1/seq-3/  
+Type: Primary newspaper advertising / address evidence.  
+Related evidence: `E-081`  
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Notes: Price Bros. is placed at **Sixth & Main** in March and September. The September business page also lists **H. P. Brightbill — 509 Main**, **Pioneer Market / H. W. Streibig — Fifth & Main**, **Geo. A. Harding — 611 Main**, and **Watson B. Eddy & Son — Main & Sixth**. Intersection descriptions are not converted into exact target numbers.
+
+## S-095 — Pacific Telephone & Telegraph at 510 Main, 1910
+Canonical examples:  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-05/ed-1/seq-4/  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-12-02/ed-1/seq-8/  
+Type: Primary newspaper advertisements / exact-address evidence.  
+Related evidence: `E-082`  
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Notes: Repeated August–December advertisements identify **Pacific Telephone & Telegraph Co., 510 Main St., Oregon City, Ore.** This resolves the office's exact address by 1910 but does not by itself prove the 510 number applied continuously back to the 1907 central-office completion.
+
+## S-096 — Main Street concrete-walk / awning / sign modernization, 1910
+Canonical sources:  
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-10-14/ed-1/seq-1/  
+Type: Primary municipal record + primary newspaper streetscape report.  
+Related evidence: `E-083`  
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Notes: In July Council ordered concrete walks where necessary along Main Street between Eleventh and the Basin. In October the *Courier* reported the city order removing old wooden awnings projecting over sidewalks and requiring projecting signs to be placed flat against buildings. These are streetscape changes, not evidence of target-building replacement.
