@@ -26,6 +26,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 8. Independent 1906 evidence provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
 9. The 1907 pass adds a major **street-grade/track reconstruction event** through the target block (`E-066`) and a confirmed new telephone central office on the **east side of Main between Fifth and Sixth** (`E-065`). Neither event is currently tied to demolition of the later odd-numbered 501/503/505/507 predecessor buildings.
 10. The 1908 pass provides the first currently registered exact target-number occupant after the numbering program: **Henry Brightbill at 503 Main** (`E-042`). It also documents removal of Main Street overhead utility infrastructure (`E-070`). Exact 503 occupancy in 1908 predates the later c.1919 surviving-building estimate, proving that address history and surviving-building history must be handled separately.
+11. The 1909 pass adds physical evidence on both the **Water Street edge of the Fifth–Sixth block** (`E-074`) and the **Sixth/Main intersection** (`E-075`, `E-076`). It also corrects the prior unsupported equation of the c.1909 Harding Building with 507 Main: current evidence establishes a Harding Building around 1909 and a Main-between-Fifth/Sixth location by 1911, but not an exact 1909 number (`E-077`).
 
 ## Year-by-Year Working Notes
 
@@ -81,6 +82,18 @@ The 1908 pass sharpens the reconstruction in two ways:
 
 The Brightbill evidence is especially important to construction-date interpretation: if the accepted c.1919 date for the **surviving** 503 building is correct, then the 1908 Brightbill store necessarily occupied a predecessor premises at the same numbered address, or the address/footprint relationship changed before/around 1919. The 1908 address must not be used to backdate the surviving building.
 
+## 1909 Non-Sanborn Block and Building Anchors
+
+The 1909 pass adds several useful physical and geographic constraints without yet solving the individual storefront mapping:
+
+- `E-074` documents improvement of **Water Street from Fifth to Sixth**, the river-side edge of the same block. The project included grading, rock/gravel, sidewalks, concrete curbs, crosswalks and drainage and was formally accepted after completion. A hydrant was also ordered for Water Street at Sixth or the Water Street end of the Fifth–Sixth block alley.
+- `E-075` directly documents **repair of Philip Street's building at Sixth & Main**, with repair debris accumulating on Sixth Street. This proves building work at the north end of the block but does not establish demolition, replacement, or exact lot/number.
+- `E-076` places **Carl G. Hodes's licensed saloon at Sixth & Main** in October 1909. The record does not establish that Hodes occupied Philip Street's repaired building or the earlier William Tell/Gambrinus property.
+- `E-077` supersedes the old archive claim that the Harding Building was **507 Main by 1909**. Current evidence supports a Harding Building around 1909 and places it on Main between Fifth and Sixth by 1911, while leaving its exact number, lot and footprint unresolved (`RL-029`).
+- Targeted 1909 searches did not recover exact occupants at 501/503/505/507 or a direct target-building demolition/new-construction/fire event. Remaining Courier page-image coverage gaps are logged under `RL-030` rather than treated as a negative historical fact.
+
+For Block 26 reconstruction, the principal 1909 problem is now to determine whether the Sixth/Main references—William Tell/Gambrinus lot 8 in 1906, Hodes's saloon in 1909, Philip Street's repaired building in 1909, and the later 1910 Gambrinus construction—refer to the same lot/building sequence or to distinct neighboring premises. Shared intersection wording alone is insufficient.
+
 ## 1925 Address / Occupancy Notes
 
 The 1925 sheet is now the key evidence for the `501 / 503 / 505` question.
@@ -119,7 +132,7 @@ Archive handling:
 - Treat `E-042` as proof that the **503 Main address/storefront was occupied in 1908**, not as proof the surviving building existed.
 - Add a new research question: what changed between the 1908 Brightbill premises and the later c.1919/1925 building/footprint pattern?
 - Check assessor records, permits, deeds, tax cards, newspaper construction/demolition notices, fires, and the 1906 numbering/plat materials for a construction, remodel, rebuild, readdressing, or reassessment event.
-- Account for the documented **1907 approximately six-inch Main Street grade increase** and **1908 overhead-wire removal** when comparing storefront elevations, thresholds, and photographs.
+- Account for the documented **1907 approximately six-inch Main Street grade increase**, **1908 overhead-wire removal**, and **1909 same-block Water Street work** when comparing storefront elevations, thresholds, rear access, and photographs.
 - Continue the year-by-year construction/demolition watch (`RL-024`) rather than treating an absence of a newspaper hit as proof that no physical change occurred.
 
 ## Open Research Questions Raised by the Maps
@@ -134,5 +147,9 @@ Archive handling:
 - What does the 1884-1890 sequence show when the same frontage is cropped and transcribed?
 - What exact address/lot did the 1907 Pacific States Telephone central office occupy (`RL-027`)?
 - Who was the unidentified May 1908 shoe retailer (`RL-028`)?
+- Which lot/building did Philip Street own or control at Sixth & Main in 1909, and what was the scope of the documented repair?
+- Which exact premises housed Carl G. Hodes's Sixth/Main saloon in 1909?
+- What was the exact footprint/number of the Harding Building around 1909–1911 (`RL-029`)?
+- Do the 1906 William Tell/Gambrinus, 1909 Hodes, 1909 Philip Street repair, and 1910 Gambrinus-building references describe one evolving property or multiple Sixth/Main premises?
 - Does the 1950 `505` billiards/cigars/beer label connect to later 505 Tavern / The 505 / Brass Rail Tavern / The Wheel history?
 - What was the legal relationship, if any, between the 503 restaurant space and the 505 billiards/cigars/beer space in 1925 and 1950?
