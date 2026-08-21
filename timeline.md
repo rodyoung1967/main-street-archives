@@ -57,8 +57,18 @@ Oregon City also continued reshaping Main Street's public realm: Council ordered
 
 Targeted searches and the indexed/retrievable *Courier* page review did not recover a 1910 occupant explicitly at **501, 503, 505, or 507 Main**, nor a target-numbered fire. The remaining page-image completeness limitation is logged under `RL-032`; it is not treated as evidence of vacancy or absence of activity.
 
-## April 1911 / January 1913
-The Chicago Store advertised at 505 Main (`E-026`).
+## 1911 — 505 Main relocation, Harding/Willamette mapping, and occupation of the new Gambrinus block
+The Chicago Store provides the year's strongest exact target-address sequence. On 27 January and 3 February 1911 it advertised at **405 Main Street**, with **Wolf & Nat** explicitly named as proprietors; the February ad also says Electric Hotel Building. By **31 March 1911** the Chicago Store was advertising at **505 Main Street**, and the 505 address repeats through April (`E-084`). This narrows the documented relocation/readdressing to **after 3 February and by 31 March 1911**. The available 505 ad does not itself name proprietors, so Wolf & Nat's proprietorship is not mechanically carried forward without another source.
+
+Two February–March reports materially sharpen the Harding Building problem. On 24 February a general repair shop opened in the **Harding building on Sixth Street between Main and Railroad Avenue**. On 10 March George Young was reported moving his second-hand store **one door north into the Willamette Building** from the **Harding building on Main Street between Fifth and Sixth** (`E-085`). These contemporary descriptions establish the building names and adjacency but remain too ambiguous to assign the Harding Building to 507 or another exact number. A later 1912 507 Main listing for G. H. Young is retained only as a follow-up, not backdated (`RL-029`, `RL-035`).
+
+The new Gambrinus block constructed in 1910 was in service by early 1911. On 3 March, **J. Tobin of the Electric Hotel rented the second story of the new Gambrinus block as an annex**, with steam heat, electric lighting and some rooms supplied with hot and cold water (`E-086`). This establishes occupancy/operation of the new Sixth/Main building but still does not by itself prove the exact demolition sequence of the former William Tell Hotel structure (`RL-031`).
+
+Sixth Street also underwent a documented 1911 grade/improvement process crossing Main at the north end of the target block (`E-087`). Council reporting from March through October covers grade changes, property-owner objections, assessments and an improvement ordinance. No recovered item ties this work to demolition or replacement of 501/503/505/507 premises.
+
+Pacific Telephone & Telegraph continued advertising at **510 Main Street** in January 1911 (`E-088`), extending the exact address continuity from late 1910. This strengthens—but still does not by itself prove—the link to the east-side central-office plant completed between Fifth and Sixth in 1907.
+
+Targeted searches and the accessible/indexed *Courier* page review did not recover an exact 1911 occupant at **501, 503, or 507 Main**, nor a fire, demolition, movement, replacement, or new construction explicitly tied to those target numbers. **505 Main is positively occupied by the Chicago Store by 31 March.** Remaining page-image completeness work is logged as `RL-034`; this is a coverage limitation, not negative historical evidence.
 
 ## 5 January 1912 — Main Street / Post Office cluster
 A primary *Oregon City Courier* advertisement places **H. P. Brightbill at 509 Main Street**, phone 74 (`E-050`). The same page documents **Bailey & Price, Billiard and Pool Parlors, at 527 Main Street, opposite the Grand Theater** (`S-061`). Contemporary business advertising also places I. Tolpolar opposite the Post Office, M. E. Dunn near/next door to the P.O., Schrader's Bakery near the Post Office, and Pioneer Transfer Co. in the Postoffice Building (`E-051`). Exact numbered addresses for the Post Office, Dunn, and Schrader remain open; **513 P.O. / 515 Dunn are hypotheses only**.
