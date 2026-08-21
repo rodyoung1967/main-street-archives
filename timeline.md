@@ -6,6 +6,19 @@ The site was part of the area that became Oregon City's earliest commercial dist
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
+## Late 1904 — I. Tolpolar on Main Street
+Primary *Oregon City Enterprise* advertisements place **I. Tolpolar** and his furniture/household-goods business on Main Street in October–December 1904 (`E-057`). No numbered address is printed, so the business cannot yet be mapped to modern 501/503/505/507.
+
+## 1905 — Main Street continuity, Fifth Street work, and preliminary numbering
+Tolpolar remained on Main Street in February 1905 (`E-058`). Oregon City improved **Fifth Street across Main** later that year with grading, crushed rock, sidewalks, curbs, drains, and related work (`E-059`). By 30 June a residence-numbering system had been “recently introduced,” but the formal citywide numbering ordinance/plat followed in 1906 (`E-060`). The 1905–1906 Oregon/Washington business directory remains an access-dependent follow-up (`RL-023`).
+
+## 1906 — formal street numbering and Block 26 reconstruction anchors
+Oregon City formally implemented street numbering for free mail delivery. Mayor Caufield approved the ordinance, a **plat designating the correct numbering** was filed with Recorder Dimick, numbering maps were prepared, and street signs were posted (`E-061`). A printed advertisement at **504 Main Street** by August shows exact Main Street numbering entering active use. Recovering the original numbering plat is now a priority because it may map pre-1906 storefront descriptions to later 501/503/505/507 (`RL-025`).
+
+The City also carried out substantial **Sixth Street grading and improvement across Main** (`E-062`). In November, Rosenstein’s Clothing House—described as **two doors south of the Post Office**—suffered fire damage to its stock; the exact numbered address and any structural damage remain unresolved (`E-063`).
+
+A particularly useful property anchor comes from October 1906: the historic **three-story frame William Tell Hotel at Sixth & Main** was sold to Gambrinus Brewing Company for $13,000, and the matching realty-transfer report identifies the property as **lot 8, Block 26** (`E-064`). This fixed north-end lot anchor, combined with the missing 1906 numbering plat and Sanborn maps, may allow the remaining Block 26 lots to be mapped toward Fifth Street (`RL-026`). No direct 1906 source has yet been found showing demolition or replacement of the predecessor buildings corresponding to later 501/503/505.
+
 ## August 1908
 Henry Brightbill's store was reported at **503 Main Street** (`E-042`).
 
