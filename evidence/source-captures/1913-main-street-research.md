@@ -15,7 +15,7 @@ This note records the 1913 chronological pass for the Main Street project. It di
 | **511 Main** | **George A. Harding**, druggist | **Strong continuity.** Exact at 511 in Jan 1912 and later; Jul 1913 ad places Harding's drug business in the **Willamette Building**. |
 | **513 Main** | **Old Oregon City Post Office** | **High-confidence reconstructed address.** Multiple independent geographic chains converge on 513; no recovered source yet literally prints "Post Office, 513 Main." |
 | **515 Main** | **M. E. Dunn confectionery → F. G. Lent** | **High-confidence reconstructed address.** Dunn/Lent is directly "near / next door to Postoffice"; 515 follows from reconstructed P.O. 513 and documented Harding at 511. |
-| **527 Main** | Occupant unresolved | **Open.** Bailey & Price exact at 527 in Jan 1912; Price Bros. is at **Sixth and Main** in May/Jul 1913 and exact at 527 by 1915, so do not back-project Price Bros. into 527 for 1913. |
+| **527 Main** | Exact 1913 numbered occupant unresolved; **Price Bros. at Sixth and Main** | **Open, but corrected.** Bailey & Price billiards is direct at 527 in Jan 1912 and still municipally licensed Oct 1912. Price Bros. clothiers is separately at Sixth and Main throughout 1912-1913 and direct at 527 by 1915. "Sixth and Main" is compatible with 527 and does **not** exclude Price Bros. from 527 in 1913. |
 
 ## 503 Main — still unresolved
 
@@ -166,16 +166,44 @@ With Harding directly at 511, the remaining adjacent odd-side storefront is **51
 
 Detailed note: `../1913-dunn-lent-confectionery-postoffice.md`.
 
-## 527 Main — do not place Price Bros. there in 1913
+## 527 Main — Bailey & Price and Price Bros. are separate businesses
 
-Current evidence:
+The earlier working inference that Price Bros. being at **Sixth and Main** meant it could not be at 527 Main is withdrawn.
 
-- **5 Jan 1912:** Bailey & Price, Billiard and Pool Parlors, directly at **527 Main**.
-- **2 May 1913:** Price Bros. is advertised at **Sixth and Main**.
-- **22 Jul 1913:** Price Bros. remains at **Sixth and Main**.
-- **1915:** Price Bros. is directly documented at **527 Main**.
+### Contemporary 1912 evidence
 
-Therefore **Price Bros. should not be back-projected into 527 Main for May-July 1913**. The 527 occupant and the timing/mechanics of the Bailey & Price → later Price Bros. relationship remain open.
+The 5 January 1912 *Courier* page contains both businesses separately:
+
+- **Bailey & Price, Billiard and Pool Parlors — 527 Main Street — Opposite Grand Theater.**
+- **Price Bros., Clothiers — Sixth and Main Streets.**
+
+Oregon City Council then granted **Bailey and Price** a pool/billiard license on **2 October 1912**, showing that the billiard business continued later in 1912 while Price Bros. was already an established separate clothing business.
+
+### 1913 Price Bros. continuity
+
+Price Bros. repeatedly advertises at **Sixth and Main** through 1913, including *Morning Enterprise*, 3 June 1913, and *Oregon City Courier*, 7 August 1913.
+
+The phrase **Sixth and Main** is an intersection-style location and is compatible with the 527 site at the Sixth Street end of the block. Therefore it cannot be used to prove that Price Bros. was somewhere other than 527.
+
+### Direct 527 by 1915
+
+By 1915, *Courier* business directories explicitly list:
+
+> **Price Bros. — Where clothes fit — Est. 1895 — 527 Main St. — Phone 107.**
+
+### 1914 municipal anomaly
+
+Oregon City Council minutes dated 7 October 1914 contain a recovered transcription granting Bailey and Price permission to conduct a pool hall at **526 Main Street** for three months.
+
+That later 526 reading must be reconciled with Bailey & Price's direct **527 Main** advertisement in 1912. It may represent a move, clerical error, OCR/transcription issue, or another address arrangement. Do not silently normalize it.
+
+### 527 conclusion for 1913
+
+> **Price Bros. is definitely at Sixth and Main in 1913; 527 Main is plausible and directly documented for Price Bros. by 1915, but no recovered 1913 source yet prints the number. Bailey & Price is a separate billiard business whose 1912 direct 527 occupancy and later 1914 reported 526 address require reconciliation.**
+
+The present Swartz Building at 527 dates to 1935, so this entire sequence concerns a predecessor building/storefront arrangement that may have had multiple spaces or changed configuration.
+
+Detailed note: `../1912-1915-527-main-price-businesses.md`.
 
 ## Old Post Office lease and replacement construction
 
@@ -228,7 +256,7 @@ The 1913 pass has now established a coherent Fifth-Sixth-block reconstruction an
 4. **511:** George A. Harding strongly continuous through 1913.
 5. **513:** old Post Office now a **high-confidence reconstructed address** from independent geometric chains.
 6. **515:** M. E. Dunn → F. G. Lent confectionery now a **high-confidence reconstructed address**.
-7. **527:** Price Bros. is specifically at Sixth & Main in May/July 1913, so 527 remains unresolved for this year.
+7. **527:** Price Bros. is definitely at Sixth and Main in 1913; **527 is plausible, not excluded**, and directly documented for Price Bros. by 1915. The simultaneous/near-contemporary Bailey & Price billiard evidence means the predecessor-building arrangement remains unresolved.
 
 ## Remaining 1913 research priorities
 
@@ -238,6 +266,6 @@ The 1913 pass has now established a coherent Fifth-Sixth-block reconstruction an
 4. Resolve the **503 Main operator transition** and determine whether Ellerd Bailey's pool room was 503.
 5. Find a 1913 source literally printing **Hogg Bros. — 505 Main** or documenting the Chicago Store departure/Hogg arrival.
 6. Find exact-numbered 1913 sources for **507 Young, 509 Brightbill, and 511 Harding**, although continuity is already strong.
-7. Resolve the **527 Main occupant/business transition** between Bailey & Price and later Price Bros.
+7. Resolve the **527 predecessor-building/business arrangement**: Price Bros. exact number in 1913, Bailey & Price's continued location, and the 1914 526/1912 527 discrepancy.
 8. Establish the exact date Hogg Bros. moved from the Fifth-Sixth block to the later 806 Main location.
 9. Find the exact numbered address/parcel of the **replacement Post Office opposite the courthouse**.
