@@ -247,3 +247,35 @@ Type: Primary newspaper / utility-business evidence.
 Related evidence: `E-073`  
 Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
 Notes: Reports a **$10,000 appropriation** for expanding Pacific Telephone's Oregon City facilities/cables, names Manager George J. Hall, and repeats that all wires would be moved from Main Street. No exact office number is printed.
+
+## S-088 — Water Street Fifth–Sixth improvement, 1909
+Canonical sources:  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1909-03-12/ed-1/seq-7/  
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+Type: Primary newspaper municipal notice + primary Oregon City Council record.  
+Related evidence: `E-074`  
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Notes: Documents improvement of **Water Street from Fifth to Sixth Streets** in 1909, including grading, rock/gravel, sidewalks, curbs, crosswalks and drainage. On 27 September the City Engineer reported contractor Harry Jones's work satisfactory and Council accepted it. Same-block hydrant and assessment actions are also recorded.
+
+## S-089 — Philip Street building repair at Sixth & Main, 1909
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+Type: Primary Oregon City Council record.  
+Related evidence: `E-075`  
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Notes: At the 1 December 1909 meeting, Council ordered Philip Street notified to remove rubbish from Sixth Street caused by **repair of his building at Sixth and Main Streets**. No exact number/lot/building identity is given.
+
+## S-090 — Carl G. Hodes saloon at Sixth & Main, 1909
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
+Type: Primary Oregon City Council liquor-license record.  
+Related evidence: `E-076`  
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Notes: 6 October 1909 Council minutes separately list Carl G. Hodes at Fourth/Main and **Sixth/Main** among saloon-license renewal applicants; renewals were ordered granted subject to fees and bonds. Exact numbered address and building identity remain unresolved.
+
+## S-091 — Harding Building c.1909 chronology correction
+Canonical pages:  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1918-09-26/ed-1/seq-6/  
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/seq-8/  
+Type: Primary newspaper retrospective + later direct location evidence.  
+Related evidence: `E-077`  
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Notes: A 1918 retrospective says Christian Science services were held in the Harding Building nine years earlier, supporting existence around 1909; a 1911 article places the Harding Building on **Main Street between Fifth and Sixth**. These sources do **not** establish that the Harding Building equaled 507 Main in 1909.
