@@ -6,9 +6,10 @@ Status: **active exhaustive pass**
 
 ### W. W. Bradley — 507 Main
 
-By September 1915 the Oregon City Courier classified business directory repeatedly lists **W. W. Bradley**, new and second-hand furniture/furnishings, at **507 Main**, telephone 139.
+The earliest currently recovered direct 1915 exact-address listing is **29 July 1915**, when the Oregon City Courier business directory lists **W. W. Bradley**, new and second-hand furniture/furnishings, at **507 Main**, telephone 139. The same listing then repeats through the fall and winter.
 
 Canonical examples:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-3/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-23/ed-1/seq-3/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-6/
@@ -16,7 +17,7 @@ Canonical examples:
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/seq-6/
 
-This establishes a significant change from **G. H. Young at 507 Main in April 1914**. The exact transition date remains a standing target.
+This narrows the significant change from **G. H. Young at 507 Main in April 1914** to a window ending no later than **29 July 1915**. Searches of indexed January-June 1915 material have not yet produced an earlier Bradley-at-507 hit or a Young-to-Bradley transfer/move notice; this remains subject to the continuing issue/page review.
 
 ### H. P. Brightbill — 509 Main
 
@@ -40,7 +41,7 @@ This is a statement of search coverage, **not evidence that no such article exis
 
 ## Immediate implications
 
-The strongest 1915 development remains the **507 Main occupant change**: G. H. Young is directly documented there in April 1914, while W. W. Bradley is directly documented there by September 1915. The transition occurred within that interval unless contrary evidence emerges.
+The strongest 1915 development remains the **507 Main occupant change**: G. H. Young is directly documented there in April 1914, while W. W. Bradley is now directly documented there by **29 July 1915**. The transition occurred within that interval unless contrary evidence emerges.
 
 The repeated late-1915 directory is also useful because it simultaneously fixes three adjacent storefronts: **507 Bradley / 509 Brightbill / 511 Harding**.
 
@@ -63,6 +64,6 @@ The repeated late-1915 directory is also useful because it simultaneously fixes 
 | 501 Main | unresolved | low |
 | 503 Main | unresolved; Hylton continuity not yet proven | unresolved |
 | 505 Main | unresolved | unresolved |
-| 507 Main | W. W. Bradley by Sept. 1915 | direct / high |
+| 507 Main | W. W. Bradley by 29 July 1915 | direct / high |
 | 509 Main | H. P. Brightbill grocery | direct / high |
 | 511 Main | George A. Harding pharmacy | direct / high |
