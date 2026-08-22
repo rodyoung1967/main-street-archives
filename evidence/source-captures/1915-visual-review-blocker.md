@@ -71,14 +71,31 @@ Additional inventory correction found during this pass:
 
 No page was promoted to `VISUALLY VERIFIED` in this fourth attempt.
 
+## Fifth recovery attempt — 21 Aug 2026: cached scan copies on Oregon Theater Project
+
+A useful alternate-image lead was found on the University of Oregon's Oregon Theater Project. Its Grand Theatre research page embeds cached image copies of several Historic Oregon Newspapers scans and exposes the exact underlying PNG asset paths when the image links are followed.
+
+1915 Courier scan copies confirmed there include:
+
+- **1 Apr 1915, page 5** — cached asset path exposed as `oregoncitycourier_04011915_pg5.PNG`.
+- **15 Apr 1915, page 2** — cached asset path exposed as `oregoncitycourier_04151915_pg2.PNG`.
+- **22 Apr 1915, page 8** — cached asset path exposed as `oregoncitycourier_04221915_pg8.PNG`.
+- **23 Sep 1915, page 8** — cached asset path exposed as `oregoncitycourier_09231915_pg8.PNG`.
+
+This is significant because it proves that independent PNG copies of at least some 1915 Courier scans exist outside the Historic Oregon Newspapers viewer. It also gives exact filenames that may be recoverable through another route or cache.
+
+However, all attempts in this environment to fetch those PNG assets still failed with cache/DNS access errors. Direct container retrieval of the Oregon Theater Project PNG also failed at DNS resolution. Therefore these four pages are **not** promoted to `VISUALLY VERIFIED`; the assets are recovery leads only.
+
+The Oregon Theater Project's citations also independently identify additional 1915 Courier pages used in its research, including April 1, April 15, April 22, September 23, December 2, and a February 1915 item. These references are useful for scan recovery, but the project standard still requires inspection of the full original page, not merely trusting a secondary citation.
+
 ## Audit consequence
 
 - **No page is promoted to VISUALLY VERIFIED unless the actual scan was rendered and inspected.**
 - The prior OCR-supported findings remain leads/evidence candidates only.
-- Issue/page inventories are useful for ensuring the later visual pass does not omit pages, but inventory confirmation is not visual review.
+- Issue/page inventories and secondary cached-image paths are useful for ensuring the later visual pass does not omit pages, but they are not visual review by themselves.
 - 1915 remains incomplete.
 - The visual review cannot be truthfully certified while the scan renderer remains inaccessible.
 
 ## What will satisfy the standard
 
-The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers, its Open ONI IIIF endpoint, OldNews, NewspaperArchive, or another holder returns renderable PDF/JP2/JPEG objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
+The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers, its Open ONI IIIF endpoint, Oregon Theater Project's cached PNGs, OldNews, NewspaperArchive, or another holder returns renderable PDF/JP2/JPEG/PNG objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
