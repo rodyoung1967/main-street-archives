@@ -53,6 +53,24 @@ Result:
 - None of these paths exposed a 1915 scan as a renderable page image in the current tool environment.
 - No page was promoted to `VISUALLY VERIFIED`.
 
+## Fourth recovery attempt — 21 Aug 2026: Open ONI IIIF route
+
+A more promising technical route was identified by checking the current Open ONI API documentation. Historic Oregon Newspapers runs Open ONI. Open ONI exposes IIIF representations in a predictable pattern:
+
+- title collection: `/lccn/{lccn}.json`
+- issue manifest: `/lccn/{lccn}/{YYYY-MM-DD}/ed-1.json`
+- page canvas: `/lccn/{lccn}/{YYYY-MM-DD}/ed-1/seq-N.json`
+
+The page-canvas JSON is designed to contain the IIIF image resource/service used by the viewer. Open ONI's configured image service normally lives under `/images/iiif`. If the Oregon page-canvas JSON can be fetched, it should reveal the exact image-service URL and permit a direct JPEG request such as the standard IIIF `.../full/full/0/default.jpg` form. This would bypass the failing PDF path and provide an actual scan image suitable for visual inspection.
+
+Direct attempts to fetch the Oregon page-canvas JSON for `sn00063698/1915-07-29/ed-1/seq-3.json` still returned the same archive cache failure, and container retrieval still could not resolve the Oregon host. Therefore this route is technically identified but not yet operational in the current environment.
+
+Additional inventory correction found during this pass:
+
+- The **30 Sep 1915 Courier** issue index exposes **11 scan images**, not an 8-page default. The displayed labels are irregular: Image 6 has no printed-page label, followed by `Page 8, Image 7` through `Page 12, Image 11`. This is exactly the kind of issue-level irregularity that must be preserved and visually checked rather than inferred from OCR or nominal page numbers.
+
+No page was promoted to `VISUALLY VERIFIED` in this fourth attempt.
+
 ## Audit consequence
 
 - **No page is promoted to VISUALLY VERIFIED unless the actual scan was rendered and inspected.**
@@ -63,4 +81,4 @@ Result:
 
 ## What will satisfy the standard
 
-The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers, OldNews, NewspaperArchive, or another holder returns renderable PDF/JP2/image objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
+The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers, its Open ONI IIIF endpoint, OldNews, NewspaperArchive, or another holder returns renderable PDF/JP2/JPEG objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
