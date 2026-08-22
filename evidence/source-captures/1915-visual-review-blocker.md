@@ -31,14 +31,36 @@ What still failed:
 - Image-search attempts did not surface the 1915 page scans themselves; they returned unrelated newspaper imagery rather than the requested issue page.
 - OldNews is confirmed as an alternate holder, but in the current research interface its scanned page image has not yet been exposed in a form that can be visually inspected.
 
+## Third recovery attempt — 21 Aug 2026
+
+Further recovery work was performed with the same rule: do not count OCR as visual review.
+
+Newly confirmed:
+
+- NewspaperArchive has a dedicated Oregon City Enterprise archive covering 1866–1922 and specifically indexes a **12 Feb 1915, page 2** item among its popular pages. Its public landing page states that full newspaper images require account/subscription access; the current research interface exposes the archive metadata and text but not the underlying scan image. This gives us a second independent online holder for 1915 Enterprise scans, but not yet a visually inspectable copy in this environment.
+- Oregon City Public Library states that its Carnegie Center microfilm collection physically holds **Oregon City Courier, Sept. 23, 1883–July 3, 1919** and **Oregon City Enterprise Weekly, Nov. 10, 1871–Dec. 25, 1942**, which covers all of 1915 for both required titles. This is an authoritative fallback source for any digital-page gaps.
+- Oregon Digital Newspaper Program confirms that its digitization includes **Oregon City Courier 1902–1919** and **Oregon City Enterprise 1891–1922**, so the target 1915 issues are unquestionably within the digitized corpus.
+- Additional exact 1915 Courier page records continue to surface through web indexing (for example Jan. 7 page 7 and Feb. 4 page 9), proving that more pages exist than some earlier partial issue inventories suggested. This reinforces the need to derive the final page inventory from issue navigation/scan holdings rather than assume an 8-page default.
+
+Recovery methods attempted in this pass:
+
+- Exact-date searches against NewspaperArchive for 1915 Enterprise pages.
+- Image searches targeting 1915 Courier/Enterprise scans at Historic Oregon Newspapers, OldNews, and NewspaperArchive.
+- Direct attempts to surface JP2/PDF scan URLs from the Historic Oregon Newspapers page records.
+
+Result:
+
+- None of these paths exposed a 1915 scan as a renderable page image in the current tool environment.
+- No page was promoted to `VISUALLY VERIFIED`.
+
 ## Audit consequence
 
 - **No page is promoted to VISUALLY VERIFIED unless the actual scan was rendered and inspected.**
 - The prior OCR-supported findings remain leads/evidence candidates only.
-- The issue/page inventories recovered in this second attempt are useful for ensuring the later visual pass does not omit pages, but inventory confirmation is not visual review.
+- Issue/page inventories are useful for ensuring the later visual pass does not omit pages, but inventory confirmation is not visual review.
 - 1915 remains incomplete.
 - The visual review cannot be truthfully certified while the scan renderer remains inaccessible.
 
 ## What will satisfy the standard
 
-The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers or an alternate archive returns renderable PDF/JP2/image objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
+The visual pass can proceed as soon as actual scanned pages are available to the visual inspection tool, either because Historic Oregon Newspapers, OldNews, NewspaperArchive, or another holder returns renderable PDF/JP2/image objects, or because the issue/page scans are supplied as files. At that point every page of both the Oregon City Courier and Oregon City Enterprise for 1915 must be visually inspected and logged page by page.
