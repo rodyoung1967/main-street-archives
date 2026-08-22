@@ -16,12 +16,19 @@ Representative official-source confirmations:
 
 ## Confirmed repositories / access leads
 
-Two concrete holdings/access routes are now confirmed:
+Three concrete retrieval facts are now confirmed:
 
 1. **Oregon Historical Society, Portland** — the National Register documentation for the Petzold Building explicitly states that `Sohns and Woodbeck. 1916-1917 Clackamas County and Oregon City Directory` is **on file at Oregon Historical Society, Portland**.
-2. **FamilySearch Library** — genealogy directory indexes specifically list **`1916 Oregon City, city directory`** as a FamilySearch Library holding. This may be the same Sohns/Johns & Woodbeck volume or a cataloged derivative; the actual images/catalog record still need to be opened and compared.
+2. **FamilySearch Library** — genealogy directory indexes specifically list **`1916 Oregon City, city directory`** as a FamilySearch Library holding.
+3. The FamilySearch item has now been traced to **catalog ID `1844954`**: `https://www.familysearch.org/en/search/catalog/1844954`. The public FamilySearch catalog explains that all microfilms have been digitized, but some digital images may require sign-in or access from a FamilySearch Center / affiliate library because of restrictions. The current research session can reach the catalog record but not the directory image controls/pages.
 
-These are stronger than the earlier generic repository hypotheses and should be the first two retrieval routes.
+The LDSGenealogy access page for the item likewise points directly to FamilySearch catalog `1844954` and explains the possible camera / restricted-camera / microfilm-only access states.
+
+## Evidence that the directory is detailed enough to matter
+
+Official historic-resource work does more than merely cite the directory. For example, Petzold Building research uses the 1916–17 directory to state that the structure at 714 Main was known as the **Nobel Building in 1916**. This shows the volume contains sufficiently specific local information to resolve building/business identities, increasing the likelihood that its Oregon City section can directly clarify the 500 block.
+
+A separate contemporary newspaper county-expense list dated **14 Sep 1916** includes a payment to **Sohns & Woodbeck** under `Printing and Advertising`, confirming that the directory publishers were active in Oregon City/Clackamas County during the exact period.
 
 ## Why this source is critical
 
@@ -41,9 +48,10 @@ This directory is likely the best surviving single source for resolving the 1916
 2. Search names/businesses already known from adjacent years: **L. Hylton / Louis Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Wolf, Miller, shoe repair, pool/billiards, cigars, soft drinks**.
 3. Determine whether the volume contains a reverse/street directory; if so, transcribe the entire 500 block of Main.
 4. Capture page images and visually verify all relevant entries rather than relying solely on OCR or quotations in later historic-resource forms.
+5. If FamilySearch access is restricted, use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
 
 ## Access status
 
-No freely accessible full scan of the directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, and the Oregon Historical Society holding is now specifically documented.
+No freely accessible full scan of the directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, the Oregon Historical Society holding is specifically documented, and the FamilySearch catalog record is now precisely identified.
 
 Do **not** infer the 503 or 505 occupant from the mere existence of the directory. This file is a source-recovery lead until the actual directory pages are obtained and visually inspected.
