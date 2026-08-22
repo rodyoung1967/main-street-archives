@@ -87,10 +87,39 @@ The March Gross & Ruconich license followed by the September Gross & Hungate lic
 ## What is directly documented for Cox in 1915–1916
 
 ### 3 Jun 1915 — Cox's pool hall on Main Street
-The *Oregon City Courier* reports that officers marched down **Main Street** and next raided **Cox's pool hall**. This independently places Cox's hall on Main Street by June 1915.
+The *Oregon City Courier* reports that officers first raided the **Oregon City Moose Lodge**, then, **"Marching down Main street,"** next raided **Cox's pool hall**. This independently places Cox's hall on Main Street by June 1915.
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-03/ed-1/seq-1/
+
+### Circumstantial geographic clue — "down Main" points south toward the 500 block
+
+Two earlier Moose sources sharpen the directional meaning of the 1915 raid narrative:
+
+- **23 May 1913 Courier:** visiting Moose were met at **Eighth and Main**, then **"marched down Main street as far as Fourth street"** before returning to the Moose hall on Sixth Street. This is direct contemporary evidence that the paper's phrase **"down Main street"** meant movement toward the lower-numbered cross streets — from Eighth toward Fourth.
+- **18 Dec 1913 Courier:** the **Moose Lodge rooms** are explicitly located **"on Sixth and Main street, over Price's store."**
+
+Sources:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1913-05-23/ed-1/seq-4/
+https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-18/ed-1/seq-8/
+
+A **10 Jun 1915 Courier** item says the Oregon City Moose were then discussing/building a new lodge home, which is consistent with but does not by itself prove continued use of the older Sixth/Main rooms at the exact date of the Memorial Day raid.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-10/ed-1/seq-4/
+
+### Interpretation of the directional clue
+
+If the Moose were still occupying the Sixth/Main rooms at the time of the late-May 1915 raid, then the officers' movement **down Main Street** to Cox's hall would mean south from Sixth toward Fifth/Fourth. That would place Cox's hall somewhere **south of Sixth/Main** and makes the 500 block, including 503 Main, geographically plausible.
+
+This is currently **circumstantial geographic evidence only**. It does **not** prove:
+
+- that the Moose were still at Sixth/Main on the raid date;
+- how far down Main the officers walked;
+- that Cox was at 503 rather than another storefront south of Sixth;
+- or that Cox took over H. H. Smith's earlier 503 pool hall.
+
+Do not convert this clue into an exact Cox address without a direct 1915 Moose-room continuity source plus additional premises evidence.
 
 ### 10 Jun 1915 — Frank D. Cox principal/employer; William Myers Jr. partner
 The Courier reports **William Myers Jr. was a partner in the Cox pool hall**. Later testimony identifies **F. D. Cox as Myers's present employer**, while **Sol Cox worked with Myers in the pool hall**.
@@ -150,12 +179,12 @@ The strongest chronology is now:
 - **12 Feb & 23 Apr 1914:** L. Hylton directly at **503 Main**;
 - **5 Mar 1914:** Gross & Ruconich pool-hall license granted elsewhere/unidentified;
 - **2 Sep 1914:** Gross & Hungate six-month pool-hall license, address omitted;
-- **3 Jun 1915:** Cox pool hall directly described as on **Main Street**, exact number omitted;
+- **3 Jun 1915:** Cox pool hall directly described as on **Main Street**; the raid-direction evidence suggests a location south of Sixth/Main if Moose-room continuity is confirmed, but exact number remains unproven;
 - **30 Mar 1916:** Cox hall still operating;
 - **Jun 1916:** Raasch & Lamb independently operating/moving hall near Andresen Building;
 - **Dec 1916:** Wade/Oldstein pool/billiard parlor directly at **504 Main**.
 
-There is **still no direct evidence placing Frank D. Cox at 503 Main**. The October 1912 license creates a Smith→Cox takeover question but does not answer it. The 1910 Asay & Cox address, if identity is eventually proven, may point toward a different Cox premises history.
+There is **still no direct evidence placing Frank D. Cox at 503 Main**. The October 1912 license creates a Smith→Cox takeover question but does not answer it. The raid-direction clue makes a lower-Main location more plausible but remains circumstantial.
 
 ## Research targets
 
@@ -165,7 +194,8 @@ There is **still no direct evidence placing Frank D. Cox at 503 Main**. The Octo
 4. Recover the **1916–1917 Sohns & Woodbeck directory** (FamilySearch catalog `1844954` / Oregon Historical Society) and search F. D. Cox, Gross, Ruconich, Hungate, Myers, Dimm, and the full 500 Main block.
 5. Search City Recorder/license/bond records because the council minutes prove licenses existed but omit premises.
 6. Resolve the identity of the **Lyle Mrs. Frank Cox** separately before using that social item in the pool-hall Frank Cox biography.
+7. Find a direct **1914–May 1915 Moose lodge-room address** to determine whether the Sixth/Main location persisted through the raid date; if it did, use the contemporary "down Main" usage only as a geographic constraint, not an exact address proof.
 
 ## Research-standard warning
 
-The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox address is direct newspaper text; the Cox-partner identity remains unresolved. The 2 Oct 1912 F. D. Cox license is primary municipal text evidence, but its screenshot endpoint failed and it is **not visually certified** in this pass. Do not promote Cox to 503 without a direct address source.
+The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox address is direct newspaper text; the Cox-partner identity remains unresolved. The 2 Oct 1912 F. D. Cox license is primary municipal text evidence, but its screenshot endpoint failed and it is **not visually certified** in this pass. The Moose directional argument is a cross-source inference and **not** an exact-address finding. Do not promote Cox to 503 without a direct premises source or substantially stronger corroboration.
