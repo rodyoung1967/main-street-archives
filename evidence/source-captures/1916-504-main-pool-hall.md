@@ -1,6 +1,6 @@
 # 1916 — 504 Main Street pool and billiard parlor
 
-Status: **new direct 1916 exact-address lead; OCR/TEXT ONLY pending visual scan verification**
+Status: **direct 1916 exact-address lead; OCR/TEXT ONLY pending visual scan verification**
 
 ## 14 December 1916 — ownership-interest notice
 
@@ -18,13 +18,32 @@ The notice states that **C. C. Wade purchased the interest of Sam Oldstein in th
 - **C. C. Wade** purchased Oldstein's interest by that date.
 - The notice describes an ownership-interest transfer in the business; it does not identify the building owner.
 
-### What it does not establish
+## Raasch & Lamb is now strongly separated from the 504 Main pool hall
 
-- It does not name the business formally.
-- It does not establish when the pool hall opened at 504.
-- It does not prove that C. C. Wade purchased the entire business rather than one partner's share.
-- It does not establish any relationship to **Raasch & Lamb**, whose pool/billiards operation was reported moving into the Andresen Building basement earlier in 1916.
-- It does not resolve the occupants of 503 or 505 Main, although it gives a valuable adjacent even-numbered control point.
+A recurring 1916 *Courier* picture-ad series identifies **RAASCH & LAMB — POOL AND BILLIARDS — Everything for Smokers**.
+
+Recovered examples include:
+
+- 3 Feb 1916 p8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-03/ed-1/seq-8.pdf
+- 8 Jun 1916 p5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/ocr/
+- 24 Aug 1916 p8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-24/ed-1/seq-8/ocr/
+- 30 Nov 1916 p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-30/ed-1/seq-6.pdf
+
+A 1 Jun 1916 store-relocation article says the pool hall then adjacent to the Andresen Building entrance would move into a basement room as part of a seven-store reshuffle caused by Burmeister & Andresen's expansion. The OCR/text renders the operators as `Krause & Lamb`, while the repeated house ads clearly render the pool/billiards business as **Raasch & Lamb**; this name discrepancy needs scan verification before being normalized.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-01/ed-1/seq-5.pdf
+
+### Why this matters
+
+Raasch & Lamb was still advertising as an active pool-and-billiards / smokers business on **30 Nov 1916**, only two weeks before Wade's 14 Dec notice concerning **Sam Oldstein's interest in the pool and billiard parlor at 504 Main**.
+
+That makes it substantially less likely that the 504 Main business was simply the same Raasch & Lamb operation. The evidence instead points toward **two distinct 1916 pool/billiards businesses**:
+
+1. **Raasch & Lamb**, associated with the Andresen Building relocation and still advertising through 30 Nov.
+2. **The 504 Main pool/billiard parlor**, in which Sam Oldstein held an interest that C. C. Wade purchased by 14 Dec.
+
+This is not absolute proof of separate ownership throughout the year, because a rapid early-December transaction or hidden partnership remains theoretically possible, but the chronology now strongly argues against treating Raasch & Lamb as the default identity of the 504 Main establishment.
 
 ## 21 December 1916 repeat notice — OCR address conflict
 
@@ -33,7 +52,7 @@ The notice states that **C. C. Wade purchased the interest of Sam Oldstein in th
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-12-21/ed-1/seq-8/
 
-The same three-week Wade notice appears again, but the recovered OCR renders the address as **604 Main Street**. Because the 14 Dec issue clearly gives **504 Main Street**, and the wording is otherwise the same continuing `3t` notice, the 21 Dec `604` reading is treated as a probable OCR error unless visual inspection of the scan proves otherwise. It is not evidence that the business moved from 504 to 604 within one week.
+The same three-week Wade notice appears again, but the recovered OCR renders the address as **604 Main Street**. Because the 14 Dec issue gives **504 Main Street**, and the wording is otherwise the same continuing `3t` notice, the 21 Dec `604` reading is treated as a probable OCR error unless visual inspection proves otherwise. It is not evidence that the business moved within one week.
 
 ## Earlier comparison — Electric Theatre at 504 Main
 
@@ -60,18 +79,20 @@ The surname is not new to Oregon City business history:
 - 11 Oct 1910 Morning Oregonian reports **Samuel Oldstein**, then a Sheridan merchant, being adjudged bankrupt; his wife and relatives from Oregon City testified: https://oregonnews.uoregon.edu/lccn/sn83025138/1910-10-11/ed-1/seq-15/ocr/
 - 22 Dec 1911 Courier identifies **Mrs. Samuel Oldstein of Victoria, B.C.** as a guest of her sister Mrs. A. A. Price in Oregon City: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-12-22/ed-1/seq-5/
 - 6 Dec 1912 Courier again places Mrs. S. Oldstein with her sister Mrs. A. A. Price and parents Mr. and Mrs. I. Tolpolar in Oregon City: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-06/ed-1/seq-5/ocr/
-- Sybil Oldstein appears in Oregon City musical programs in June 1916, confirming continued Oldstein family presence in the city: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/ocr/
+- Sybil Oldstein appears in Oregon City musical programs in June 1916, confirming continued Oldstein-family presence in the city: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/ocr/
 
-These records make it plausible that the **Sam Oldstein at 504 Main in Dec. 1916** was connected to the earlier Oregon City cigar-store family, possibly the same Samuel Oldstein. However, that identification is **not yet proven** and should remain a research lead until a directory, family record, or contemporary business notice connects the individuals directly.
+These records make it plausible that the **Sam Oldstein at 504 Main in Dec. 1916** was connected to the earlier Oregon City cigar-store family, possibly the same Samuel Oldstein. However, that identification is **not yet proven**.
 
 ## Research implications
 
 1. Search Jan–Dec 1916 for **Sam Oldstein**, **C. C. Wade**, `504 Main`, pool hall, billiards, cigars, smokers, license applications, sales, partnerships, and lease notices.
 2. Search 1914–1916 for the end of the Electric Theatre or subsequent tenants at 504.
-3. Trace Samuel/Sam Oldstein through directories and family records to determine whether the 1904 cigar dealer, 1910 Sheridan merchant, and 1916 pool-hall interest holder are the same person.
-4. Keep 504 separate from 503/505: even though the businesses are adjacent in numbering, no assumption should be made about shared buildings, ownership, or operation.
-5. Compare any city-directory entry for 504 against the Dec. 1916 notice.
+3. Treat **Raasch & Lamb and the 504 Main Oldstein/Wade pool hall as probably separate businesses** unless direct evidence links them.
+4. Resolve the `Krause & Lamb` / `Raasch & Lamb` rendering in the 1 Jun relocation article from the actual scan.
+5. Trace Samuel/Sam Oldstein through directories and family records.
+6. Keep 504 separate from 503/505; adjacency does not imply shared ownership or operation.
+7. Compare any city-directory entry for 504 against the Dec. 1916 notice.
 
 ## Verification status
 
-The recovered text is direct and exact-address evidence, but under `RESEARCH-STANDARD.md` it remains **OCR/TEXT ONLY** until the actual scanned page is visually inspected.
+The recovered text is direct and useful evidence, but under `RESEARCH-STANDARD.md` it remains **OCR/TEXT ONLY** until the actual scanned pages are visually inspected.
