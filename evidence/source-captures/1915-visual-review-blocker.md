@@ -88,6 +88,29 @@ However, all attempts in this environment to fetch those PNG assets still failed
 
 The Oregon Theater Project's citations also independently identify additional 1915 Courier pages used in its research, including April 1, April 15, April 22, September 23, December 2, and a February 1915 item. These references are useful for scan recovery, but the project standard still requires inspection of the full original page, not merely trusting a secondary citation.
 
+## Sixth recovery attempt — 21 Aug 2026: direct indexed-PDF and inventory checks
+
+The scan-recovery pass continued with direct search for alternate copies, Internet Archive/microfilm mirrors, indexed PDF objects, and cached page images.
+
+Newly confirmed inventory facts:
+
+- **7 Jan 1915 Courier** reaches at least Image 8; the indexed Image 8 record is live.
+- **14 Jan 1915 Courier** reaches at least Image 8; the indexed Image 8 OCR record is live.
+- **21 Jan 1915 Courier** reaches Image 8; the indexed Image 8 record is live.
+- Issue-root records again independently confirm eight-image issues for **8, 15, 22 and 29 July**, **16 Sep**, **14 Oct**, **4 Nov**, and **18 Nov**.
+
+A particularly useful test case surfaced: the search index returned the exact PDF URL for **14 Oct 1915 Courier, image/page 8** (`.../1915-10-14/ed-1/seq-8.pdf`) along with extracted page text. This proved that the PDF object is indexed and exists upstream. However:
+
+- the screenshot/visual-page operation still rejected it because the search layer exposed the object as extracted text rather than `application/pdf`;
+- direct container download of the exact surfaced PDF URL failed;
+- opening the issue root itself still produced a cache miss.
+
+Searches for Internet Archive or other unrestricted mirrors of the 1915 Courier/Enterprise microfilm did not surface a usable full-scan copy. Searches for exact Open ONI IIIF/JSON/default-JPEG URLs also returned no externally cached copy.
+
+The Oregon Theater Project continues to surface several 1915 Courier images as embedded illustrations and cites additional 1915 Courier material, including `Censorship Planned` (1 Apr), `Chickens Must Behave` (17 Jun), a 23 Sep item, and `Back to Ten Cents` (2 Dec). These provide more precise recovery targets but still do not count as visual verification until the actual scan image can be rendered and inspected.
+
+No page was promoted to `VISUALLY VERIFIED` in this sixth attempt.
+
 ## Audit consequence
 
 - **No page is promoted to VISUALLY VERIFIED unless the actual scan was rendered and inspected.**
