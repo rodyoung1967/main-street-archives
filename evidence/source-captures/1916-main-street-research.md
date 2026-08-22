@@ -99,14 +99,20 @@ No direct 1916 exact-address hit for **503 Main** or **505 Main** has yet been r
 
 This is **not negative evidence**. The full 1916 Courier and Oregon City Enterprise visual page-by-page review has not been performed, and targeted OCR/search can miss ads, display type, damaged print, or badly recognized address lines.
 
-### Important forward anchor for 505
+### Important forward anchor for 505 — now more tightly dated
 
-A later exact-address source now narrows the transition problem:
+A later exact-address source identifies:
 
 - **10 Oct 1918, Oregon City Courier p4 — Wolf & Miller, 505 Main.** The item describes a shoe/clothing/furnishings business with shoe repair and says the partnership was dissolving, with one partner leaving for Idaho and the other continuing the store.
 - Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 
-This does **not** prove Wolf & Miller occupied 505 in 1916. It establishes that by Oct. 1918 the address was occupied by that business and creates a focused 1916–1918 search target: identify when Wolf & Miller (or its predecessor) entered 505, and whether that move coincided with rebuilding/remodeling of the post-1913-fire premises. See `1916-forward-505-leads.md`.
+New evidence materially changes how this anchor should be used:
+
+- *Springfield News*, 27 Jun and 4 Jul 1918, shows **Wolf & Miller still closing out its Springfield stock**.
+- *Eugene Daily Guard*, 19 Jul 1918, identifies **E. Miller of the Wolf & Miller store** and says he had returned from Oregon City, where his family was living, and intended to join them after disposing of his stock.
+- Sources: https://oregonnews.uoregon.edu/lccn/sn97071003/1918-06-27/ed-1/seq-3/ ; https://oregonnews.uoregon.edu/lccn/sn97071003/1918-07-04/ed-1/seq-3.pdf ; https://oregonnews.uoregon.edu/lccn/sn96088107/1918-07-19/ed-1/seq-3/
+
+**Interpretation:** Wolf & Miller appears to be a **mid-1918 arrival in Oregon City**, probably between July and October, not a plausible default candidate for the 1916 occupant of 505. The 1916 search should therefore focus on other tenants/businesses, Harding property references, leases, vacancies, and rebuilding/remodeling notices. See `1916-forward-505-leads.md` for the detailed transition evidence.
 
 ## Initial issue-inventory observations
 
@@ -130,16 +136,17 @@ The strongest 1916 result so far is stable address continuity immediately north 
 - 509 — Brightbill grocery, through at least 27 Jul.
 - 511 — Harding pharmacy, repeatedly through at least 13 Jul.
 
-This makes the unresolved 503/505 occupancy conspicuous but does not justify inferring vacancy or demolition there. The later 1918 Wolf & Miller anchor at 505 gives the 1916–1918 transition search a concrete endpoint.
+This makes the unresolved 503/505 occupancy conspicuous but does not justify inferring vacancy or demolition there. The later Wolf & Miller evidence now helps mainly by **excluding that firm as a likely 1916 solution** and by sharply dating a later 505 transition to summer/fall 1918.
 
 ## Next questions
 
 1. Find direct 1916 evidence for 503 Main.
 2. Find direct 1916 evidence for 505 Main.
-3. Search specifically for Wolf & Miller / shoe / shoe-repair / clothing / partnership / relocation notices in 1916–1918.
-4. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
-5. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
-6. Determine whether Harding remains at 511 for the entire year.
-7. Build a complete issue/page inventory for the 1916 Oregon City Courier.
-8. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
-9. Perform the required full visual page-by-page scan review when actual scan rendering is available.
+3. Search 1916 for unknown occupants, Harding property references, rent/lease/vacancy/opening/remodeling notices immediately south of Bradley at 507.
+4. Separately search **July–October 1918** for the exact Wolf & Miller move/opening at 505 and identify the predecessor business.
+5. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
+6. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
+7. Determine whether Harding remains at 511 for the entire year.
+8. Build a complete issue/page inventory for the 1916 Oregon City Courier.
+9. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
+10. Perform the required full visual page-by-page scan review when actual scan rendering is available.
