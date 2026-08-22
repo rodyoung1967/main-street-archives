@@ -111,12 +111,14 @@ The Courier reports a check being cashed at the **Cox poolhall**; Constable Jack
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-1/
 
-### Aug 1916 social item — not evidence of relocation
-An Aug. 24, 1916 social item says Mrs. J. H. Graham went to Lyle, Washington to visit her sister, Mrs. Frank Cox. A later obituary for **Ollie Jane Hugger Cox** identifies her as Frank D. Cox's wife, says they married in Oregon City in 1907, lived in Oregon City, and Frank died in 1957. The Lyle item should therefore be treated as travel/visiting, not Cox relocation.
+### Aug 1916 social item — identity unresolved; do not use for relocation or continuity
+An Aug. 24, 1916 social item says Mrs. J. H. Graham went to **Lyle, Washington**, to visit her sister, **Mrs. Frank Cox**. A much later obituary identifies **Ollie Jane Hugger Cox** as the wife of a Frank D. Cox who married her in Oregon City in 1907 and lived in Oregon City. However, the recovered sources do **not** establish that the **Mrs. Frank Cox in Lyle** was Ollie Cox or the wife of the pool-hall operator.
 
 Sources:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-24/ed-1/seq-5/
 https://oregonnews.uoregon.edu/lccn/2024240281/1983-11-10/ed-1/seq-3/
+
+Therefore the Lyle item is **identity-ambiguous** and must not be used as evidence that the pool-hall Frank Cox moved away, remained in Oregon City, or that his wife was merely traveling. The earlier archive interpretation treating this as straightforward travel by Ollie Cox is superseded pending a direct sibling/household identity link.
 
 ## Additional Feb. 1916 proposed entrant — P. B. Dimm
 
@@ -162,6 +164,7 @@ There is **still no direct evidence placing Frank D. Cox at 503 Main**. The Octo
 3. Identify the partners in **Asay & Cox** and determine whether the Cox partner was Frank D. Cox.
 4. Recover the **1916–1917 Sohns & Woodbeck directory** (FamilySearch catalog `1844954` / Oregon Historical Society) and search F. D. Cox, Gross, Ruconich, Hungate, Myers, Dimm, and the full 500 Main block.
 5. Search City Recorder/license/bond records because the council minutes prove licenses existed but omit premises.
+6. Resolve the identity of the **Lyle Mrs. Frank Cox** separately before using that social item in the pool-hall Frank Cox biography.
 
 ## Research-standard warning
 
