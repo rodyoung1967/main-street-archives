@@ -1,8 +1,8 @@
 # 1915 Main Street Research
 
-Status: **in progress**
+Status: **active exhaustive pass**
 
-## Initial direct findings
+## Direct findings
 
 ### W. W. Bradley — 507 Main
 
@@ -10,26 +10,39 @@ By September 1915 the Oregon City Courier classified business directory repeated
 
 Canonical examples:
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-3/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-23/ed-1/seq-3/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-6/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/seq-6/
 
-This establishes a significant change from **G. H. Young at 507 Main in April 1914**. A targeted search should now locate the transfer/move date between Young and Bradley if possible.
+This establishes a significant change from **G. H. Young at 507 Main in April 1914**. The exact transition date remains a standing target.
 
 ### H. P. Brightbill — 509 Main
 
-The same 1915 business directory repeatedly gives **H. P. Brightbill — staple, fancy and green groceries — 509 Main — phone 74**.
-
-This is direct 1915 exact-address evidence and resolves the continuity question carried from 1914 for this year.
+The same 1915 business directory repeatedly gives **H. P. Brightbill — staple, fancy and green groceries — 509 Main — phone 74** on the same dated pages listed above. This is repeated direct 1915 exact-address evidence, not merely continuity from another year.
 
 ### George A. Harding — 511 Main
 
-The 1915 business directory repeatedly gives **George A. Harding — prescriptions, magazines, toilet articles — 511 Main**, with telephone information.
+The 1915 business directory repeatedly gives **George A. Harding — prescriptions, magazines, toilet articles — 511 Main**. A particularly useful surviving original page PDF is:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-3.pdf
+
+Directory-page example:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
 
 This is direct 1915 exact-address evidence and continues the 1914 Harding pharmacy anchor.
 
+## Search coverage / negative results to date
+
+A broad 1915 archive/web-index pass has been run for exact addresses **503, 505, 507, 509, 511 Main**, and for **L. Hylton, W. W. Bradley, Chicago Store, George A. Harding, H. P. Brightbill, G. H. Young, Fifth/5th and Main**, and fire/building terms. This recovered repeated direct evidence for 507/509/511 but did **not** yet recover a direct 1915 exact-address hit for 503 or 505, a Hylton successor/move notice, or the Young-to-Bradley transfer notice.
+
+This is a statement of search coverage, **not evidence that no such article existed**. The requested exhaustive issue/page review remains active and must be distinguished from indexed-search coverage.
+
 ## Immediate implications
 
-The strongest initial 1915 development is the **507 Main occupant change**: G. H. Young is directly documented there in April 1914, while W. W. Bradley is directly documented there by September 1915. The transition date and nature of the transaction/move are now high-value 1915 research targets.
+The strongest 1915 development remains the **507 Main occupant change**: G. H. Young is directly documented there in April 1914, while W. W. Bradley is directly documented there by September 1915. The transition occurred within that interval unless contrary evidence emerges.
+
+The repeated late-1915 directory is also useful because it simultaneously fixes three adjacent storefronts: **507 Bradley / 509 Brightbill / 511 Harding**.
 
 ## 1915 research targets
 
@@ -40,14 +53,15 @@ The strongest initial 1915 development is the **507 Main occupant change**: G. H
 5. Search for Chicago Store, George Harding property ownership, and any post-fire rebuilding or leasing evidence affecting 505.
 6. Search for construction, demolition, remodeling, fire, property transfer and public works on the Fifth–Sixth Main frontage.
 7. Continue the Block 26 lot/address and Willamette Building mapping questions where 1915 evidence bears on them.
-8. Record negative search coverage separately from historical absence.
+8. Preserve direct PDF/original-image links whenever exposed by Historic Oregon Newspapers.
+9. Record negative search coverage separately from historical absence.
 
-## Initial 1915 address snapshot
+## Current 1915 address snapshot
 
 | Address | 1915 status | Confidence |
 |---|---|---|
 | 501 Main | unresolved | low |
-| 503 Main | unresolved; test Hylton continuity | unresolved |
+| 503 Main | unresolved; Hylton continuity not yet proven | unresolved |
 | 505 Main | unresolved | unresolved |
 | 507 Main | W. W. Bradley by Sept. 1915 | direct / high |
 | 509 Main | H. P. Brightbill grocery | direct / high |
