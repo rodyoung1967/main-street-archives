@@ -1,110 +1,101 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **active**
+Status: **active — visual re-review required**
 
-Project rule: a year is not complete until every available page of every relevant Oregon City newspaper has been reviewed. OCR/index searching does not substitute for page review. Missing/inaccessible pages are logged as gaps and are not negative evidence.
+## IMPORTANT CORRECTION — 21 Aug 2026
+
+The project standard has always required **visual page-by-page review of the actual scanned newspaper pages**, not merely OCR/text extraction or index searching. Earlier 1915 work used the word `reviewed` too broadly: in many cases the page's OCR/text representation was read, but the scanned page image itself was not visually inspected.
+
+Therefore, **all prior `reviewed` labels in this file are provisional OCR/text-review markers unless a later entry explicitly says `VISUALLY VERIFIED`**. They must not be counted toward year completion until the actual scan has been visually inspected. OCR/index searching remains useful for finding leads but does not satisfy the page-review requirement.
+
+A page can now have one of these states:
+
+- **VISUALLY VERIFIED** — the actual newspaper scan/page image was inspected.
+- **OCR/TEXT REVIEWED ONLY** — OCR/text was read, but scan still requires visual inspection.
+- **RETRIEVAL GAP** — scan/page could not be retrieved; not negative evidence.
+- **PENDING** — no adequate page review yet.
+
+The earlier factual findings (for example Bradley at 507, Brightbill at 509, Harding at 511, paving articles, Holman at Fifth & Main) remain useful as OCR-supported leads/evidence, but they are being rechecked against the scans before the year is closed.
 
 ## Oregon City Courier (`sn00063698`)
 
 ### January status
-- **7 Jan — 8 pages:** pages 2–8 reviewed; page 1 retrieval gap. Relevant: R. L. Holman moved to more commodious quarters at Fifth & Main; F. Theroux also moved to Fifth & Main.
-- **14 Jan — 8 pages:** pages 1 and 3–8 reviewed; page 2 retrieval gap. Relevant context: Main Street cleaning/maintenance; no new street work planned at that point.
-- **21 Jan — 8 pages:** pages 2–5 reviewed; pages 1 and 6–8 retrieval gaps.
-- **28 Jan — 10 pages:** page 4 reviewed; remaining pages currently retrieval gaps. Issue index confirms all ten images exist: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-28/ed-1/
+- **7 Jan — 8 pages:** prior pages 2–8 = **OCR/TEXT REVIEWED ONLY**; page 1 retrieval gap. Relevant OCR lead: R. L. Holman moved to more commodious quarters at Fifth & Main; F. Theroux also moved to Fifth & Main. **All 8 pages require visual scan review.**
+- **14 Jan — 8 pages:** prior pages 1 and 3–8 = **OCR/TEXT REVIEWED ONLY**; page 2 retrieval gap. Relevant OCR context: Main Street cleaning/maintenance; no new street work planned at that point. **All 8 pages require visual scan review.**
+- **21 Jan — 8 pages:** prior pages 2–5 = **OCR/TEXT REVIEWED ONLY**; pages 1 and 6–8 retrieval gaps. **All 8 pages require visual scan review.**
+- **28 Jan — 10 pages:** prior page 4 = **OCR/TEXT REVIEWED ONLY**; remaining pages retrieval gaps. Issue index confirms ten images. **All 10 pages require visual scan review.** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-28/ed-1/
 
 ### February status
-- **4 Feb — 10 pages:** page 1 reviewed; pages 2–10 retrieval gaps. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-02-04/ed-1/
-- **11 Feb:** issue/date confirmed; full page-level retrieval pending.
-- **18 Feb — 8 pages:** pages 4, 6, 8 reviewed; pages 1–3, 5, 7 pending. Page 8 confirms Brightbill's Grocery active in February, but does not itself print 509 Main.
-- **25 Feb — 10 pages:** page-level review pending.
+- **4 Feb — 10 pages:** prior page 1 = **OCR/TEXT REVIEWED ONLY**; pages 2–10 retrieval gaps. All require visual scan review. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-02-04/ed-1/
+- **11 Feb:** issue/date confirmed; full page-level visual review pending.
+- **18 Feb — 8 pages:** prior pages 4, 6, 8 = **OCR/TEXT REVIEWED ONLY**; pages 1–3, 5, 7 pending. OCR lead: Brightbill's Grocery active in February, but item does not itself print 509 Main. All require visual scan review.
+- **25 Feb — 10 pages:** visual page review pending.
 
 ## March 1915
-- **4 Mar — 8 pages:** page 5 reviewed; remaining pages pending.
-- **11 Mar — 8 pages:** pages 1, 3, 4 reviewed. Page 3 `CRUSHER BOBS UP AGAIN` describes forthcoming work as repaving/resurfacing Main Street: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-03-11/ed-1/seq-3/
-- **18 Mar — 24 images/pages:** regular Courier 1–8 plus 16-page Home and Farm Magazine section 9–24. Regular page 4 reviewed; remaining pages pending.
-- **25 Mar — 8 pages:** page 4 reviewed; remaining pages pending.
+- **4 Mar — 8 pages:** prior page 5 = **OCR/TEXT REVIEWED ONLY**; all pages require visual scan review.
+- **11 Mar — 8 pages:** prior pages 1, 3, 4 = **OCR/TEXT REVIEWED ONLY**. Page 3 OCR lead `CRUSHER BOBS UP AGAIN` describes forthcoming work as repaving/resurfacing Main Street: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-03-11/ed-1/seq-3/ All pages require visual scan review.
+- **18 Mar — 24 images/pages:** regular Courier 1–8 plus 16-page Home and Farm Magazine section 9–24. Prior regular page 4 = **OCR/TEXT REVIEWED ONLY**; all 24 images/pages require visual scan review.
+- **25 Mar — 8 pages:** prior page 4 = **OCR/TEXT REVIEWED ONLY**; all pages require visual scan review.
 
 ## April 1915
-- **1 Apr — 8 pages:** pages 1 and 4 reviewed; others pending.
-- **8 Apr — 8 pages:** page 8 reviewed; others pending.
-- **15 Apr — 8 pages:** pages 1,2,5,6,8 reviewed. Page 1 `COUNCIL "SLAPS" PROPERTY OWNERS` reports Main Street property owners organizing against the paving choice: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-1/
-- **22 Apr:** pages 1–8 attempted but current archive interface returned retrieval failures; none counted as reviewed.
-- **29 Apr — 8 pages:** pages 1,6,7 reviewed; pages 2–5,8 retrieval gaps.
+- **1 Apr — 8 pages:** prior pages 1 and 4 = **OCR/TEXT REVIEWED ONLY**; all require visual scan review.
+- **8 Apr — 8 pages:** prior page 8 = **OCR/TEXT REVIEWED ONLY**; all require visual scan review.
+- **15 Apr — 8 pages:** prior pages 1,2,5,6,8 = **OCR/TEXT REVIEWED ONLY**. OCR lead: page 1 `COUNCIL "SLAPS" PROPERTY OWNERS` reports Main Street property owners organizing against the paving choice. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-1/ All require visual scan review.
+- **22 Apr:** pages 1–8 previously attempted but archive returned retrieval failures; all remain **RETRIEVAL GAP/PENDING VISUAL REVIEW**.
+- **29 Apr — 8 pages:** prior pages 1,6,7 = **OCR/TEXT REVIEWED ONLY**; pages 2–5,8 retrieval gaps. All require visual scan review.
 
 ## May 1915
 Weekly issues: **6, 13, 20, 27 May**.
-- **6 May:** page 4 reviewed; other attempted pages remain retrieval gaps.
-- **13 May:** direct page/OCR retrieval attempted; archive returned cache/index failures. Pending.
-- **20 May:** page 1 reviewed. Booster Day program says Main Street would be decorated and many business houses would decorate, useful active-frontage context but not specific 503/505 evidence.
-- **27 May:** direct page/OCR retrieval attempted; no usable page text returned. Pending.
+- **6 May:** prior page 4 = **OCR/TEXT REVIEWED ONLY**; all pages require visual review.
+- **13 May:** retrieval attempts failed; visual review pending.
+- **20 May:** prior page 1 = **OCR/TEXT REVIEWED ONLY**. OCR lead: Booster Day program says Main Street would be decorated and many business houses would decorate. All pages require visual review.
+- **27 May:** retrieval attempts failed; visual review pending.
 
 ## June 1915
 Weekly Courier dates are **3, 10, 17 and 24 June**.
-- **3 Jun:** direct archive/index searching attempted; pending.
-- **10 Jun — 8 pages:** full page review pending.
-- **17 Jun — 10 pages:** pages 5, 6, 9 reviewed; page 9 has R. L. Holman and T. P. Randall at Fifth and Main. Other pages remain retrieval gaps.
-- **24 Jun — working expected count 10 pages due archive inconsistency:** pages 1,2,4,8,9 reviewed; page 1 carries the Main Street paving contract award; page 9 repeats Holman/Randall at Fifth and Main. Pages 3,5,6,7,10 pending.
+- **3 Jun:** pending visual review.
+- **10 Jun — 8 pages:** pending visual review.
+- **17 Jun — 10 pages:** prior pages 5,6,9 = **OCR/TEXT REVIEWED ONLY**; page 9 OCR lead has R. L. Holman and T. P. Randall at Fifth and Main. All pages require visual review.
+- **24 Jun — working expected count 10 pages due archive inconsistency:** prior pages 1,2,4,8,9 = **OCR/TEXT REVIEWED ONLY**; page 1 OCR lead carries the Main Street paving contract award; page 9 repeats Holman/Randall at Fifth and Main. All pages require visual review, and page-count inconsistency remains unresolved.
 
 ## July 1915
 Courier sequence confirmed for **1, 8, 15, 22, 29 July**.
-- **1 Jul:** issue/date confirmed; page-level review pending.
-- **8 Jul — 8 pages:** page 1 reviewed; pages 2–8 pending.
-- **15 Jul — 8 pages:** pages 3,4,8 reviewed; pages 1–2 and 5–7 pending.
-- **22 Jul — 8 pages:** page 5 reviewed. `READY FOR WORK` says Worswick paving would begin after old brick was cleared and that one side would be paved at a time so traffic could continue. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-5/
-- **29 Jul — 8 pages:** page 3 reviewed; direct exact-address anchor **W. W. Bradley, 507 Main, Tel. 139**. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/
+- **1 Jul:** pending visual review.
+- **8 Jul — 8 pages:** prior page 1 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **15 Jul — 8 pages:** prior pages 3,4,8 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **22 Jul — 8 pages:** prior page 5 = **OCR/TEXT REVIEWED ONLY**. OCR lead `READY FOR WORK` says Worswick paving would begin after old brick was cleared and that one side would be paved at a time so traffic could continue. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-5/ All pages require visual review.
+- **29 Jul — 8 pages:** prior page 3 = **OCR/TEXT REVIEWED ONLY**; OCR lead gives **W. W. Bradley, 507 Main, Tel. 139**. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/ All pages require visual review.
 
 ## August 1915
 Courier weekly sequence: **5, 12, 19 and 26 August**.
-- **5 Aug:** pages 1 and 7 reviewed; page 7 repeats R. L. Holman and T. P. Randall at Fifth and Main.
-- **12 Aug:** pages 2 and 5 reviewed; both repeat Holman/Randall at Fifth and Main.
-- **19 Aug:** issue/date confirmed; full page-level review pending.
-- **26 Aug:** page 3 reviewed; no direct target-block item identified.
+- **5 Aug:** prior pages 1 and 7 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **12 Aug:** prior pages 2 and 5 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **19 Aug:** pending visual review.
+- **26 Aug:** prior page 3 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
 
 ## September 1915
 Courier weekly sequence: **2, 9, 16, 23 and 30 September**.
-- **2 Sep — 11 pages:** pages 3,5,11 reviewed; others pending.
-- **9 Sep — 8 pages:** pages 1,4,5,8 reviewed. Page 8 says Main Street's business section would soon be "all new" as paving neared completion; page 1 celebrates new pavement on the city's chief business street.
-- **16 Sep — 8 pages:** pages 2,3,4 reviewed. Page 3 directly confirms **W. W. Bradley, 507 Main** and **H. P. Brightbill, 509 Main**.
-- **23 Sep:** page 3 is a classified-business-directory page and directly lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main**. Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-23/ed-1/seq-3/
-- **30 Sep:** issue/date confirmed; page-level review pending.
+- **2 Sep — 11 pages:** prior pages 3,5,11 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **9 Sep — 8 pages:** prior pages 1,4,5,8 = **OCR/TEXT REVIEWED ONLY**. OCR leads concern completion of new Main Street pavement. All require visual review.
+- **16 Sep — 8 pages:** prior pages 2,3,4 = **OCR/TEXT REVIEWED ONLY**. OCR page 3 directly lists **W. W. Bradley, 507 Main** and **H. P. Brightbill, 509 Main**. All require visual review.
+- **23 Sep:** prior page 3 = **OCR/TEXT REVIEWED ONLY**; OCR directory lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main**. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-23/ed-1/seq-3/ All pages require visual review.
+- **30 Sep:** pending visual review.
 
 ## October 1915
 Courier weekly sequence confirmed for **7, 14, 21 and 28 October**.
+- **7 Oct — 10 pages:** prior pages 2,5,6,8 = **OCR/TEXT REVIEWED ONLY**. OCR page 5 lists Harding 511 / Bradley 507 / Brightbill 509 and F. F. Theroux 519 Main. All pages require visual review.
+- **14 Oct — 8 pages:** prior pages 3,7 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **21 Oct — 8 pages:** prior pages 2,4,7 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
+- **28 Oct:** pending visual review.
 
-### 7 October — 10 pages
-Page navigation confirms **10 pages**.
-- **Page 2 reviewed:** county/suburban news; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-2/
-- **Page 5 reviewed — important directory continuity:** the Classified Business Directory directly lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main**. This is direct October exact-address confirmation for all three. It also lists **F. F. Theroux at 519 Main**, showing that Theroux had moved from the January Fifth & Main location to a numbered Main Street address by October. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-5/
-- **Page 6 reviewed:** Oregon Commission Company at 11th & Main and civic-conference material; no target-block item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-6/
-- **Page 8 reviewed:** paving-company advertisement about road construction/resurfacing; not a target-block business item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-8/
-- Pages 1,3,4,7,9,10 remain pending/retrieval gaps.
+## November and December 1915
+Dedicated month files created during the OCR-assisted pass remain **lead/source captures only** until their cited pages are visually verified. No November or December page should yet be counted toward the visual completeness standard.
 
-### 14 October — 8 pages
-Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/
-- **Page 3 reviewed:** department-store advertising; no target-block exact-address item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-3/
-- **Page 7 reviewed:** legal notices; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-7/
-- Pages 1–2,4–6,8 remain pending.
-
-### 21 October — 8 pages
-Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/
-- **Page 2 reviewed:** county/suburban news; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-2/
-- **Page 4 reviewed:** editorial page; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-4/
-- **Page 7 reviewed:** legal notices; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-7/
-- Pages 1,3,5,6,8 remain pending.
-
-### 28 October
-Issue/date confirmed in the weekly sequence. Page-level review remains pending.
-
-## Physical-history interpretation so far
-The accumulated 1915 material depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, active Fifth & Main businesses, a formal paving contract, July removal of old roadway brick while traffic continued, September completion of new pavement through the business section, and repeated autumn exact-address business directories for 507, 509 and 511. This weighs against a theory that the Fifth–Sixth frontage as a whole remained destroyed or absent after the December 1913 Chicago Store fire. It **does not establish that the specific pre-fire 505 building survived unchanged**, and 505's post-fire occupant remains unresolved.
-
-## Later issue-count anchors
-- **4 November — 8 pages**
-- **18 November — 8 pages**
-- **2 December — 10 pages**
+## Physical-history interpretation — provisional until visual verification
+The OCR-supported 1915 material depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, active Fifth & Main businesses, a formal paving contract, July removal of old roadway brick while traffic continued, September completion of new pavement through the business section, and repeated exact-address business directories for 507, 509 and 511. These are strong leads and likely valid evidence, but the actual scans must be checked before final year certification. The evidence does **not** establish that the specific pre-fire 505 building survived unchanged, and 505's post-fire occupant remains unresolved.
 
 ## Oregon City Enterprise (`sn00063700`)
-The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its page-level checklist is still incomplete. The title record confirms weekly publication and digitized archival holdings: https://oregonnews.uoregon.edu/lccn/sn00063700/
+The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its full **visual page-by-page** pass has not yet been completed. The title record confirms digitized archival holdings: https://oregonnews.uoregon.edu/lccn/sn00063700/
 
 ## Current coverage warning
-Do **not** describe 1915 as exhaustively reviewed. The Courier inventory/recovered-page pass has now advanced into October, but substantial retrieval gaps remain in earlier months and October itself, and the Enterprise page-level pass remains incomplete. Archive/index/cache misses are gaps, not negative evidence.
+**1915 is not visually reviewed and is not complete.** Earlier OCR/text work has been retained as a discovery layer, but completion now requires a fresh visual scan review of every available Courier and Enterprise page, with inaccessible scans logged as retrieval gaps rather than negative evidence.
