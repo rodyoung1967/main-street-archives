@@ -19,6 +19,17 @@ This requirement applies prospectively to later years and retrospectively where 
 
 ## Direct findings
 
+### R. L. Holman — moved to Fifth and Main by 7 January 1915
+
+A page-level review of the **7 January 1915 Oregon City Courier, p. 5** recovered a much earlier Fifth/Main anchor than the previously registered June advertisements. An announcement states that **R. L. Holman, leading funeral director, had moved to more commodious quarters at the corner of Fifth and Main**.
+
+Canonical source:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-07/ed-1/seq-5/
+
+This proves Holman occupied the Fifth/Main corner by the first Courier issue reviewed in January 1915. It still does **not** by itself prove that the premises carried the street number 501 Main; retain that mapping as a separate question.
+
+The same page also reports that a music/piano representative, **F. Theroux**, had moved from Seventh Street opposite the Library to **Fifth and Main Street**. Multiple businesses can be described by the same intersection wording without occupying the same storefront, so do not conflate this with Holman's premises.
+
 ### W. W. Bradley — 507 Main
 
 The earliest currently recovered direct 1915 exact-address listing is **29 July 1915**, when the *Oregon City Courier* business directory lists **W. W. Bradley**, new and second-hand furniture/furnishings, at **507 Main**, telephone 139. The same listing then repeats through the fall and winter.
@@ -54,9 +65,9 @@ Useful source links:
 
 This is direct 1915 exact-address evidence and continues the 1914 Harding pharmacy anchor.
 
-### R. L. Holman and T. P. Randall — Fifth and Main
+### R. L. Holman and T. P. Randall — Fifth and Main later in 1915
 
-Repeated 1915 classified advertisements directly place **R. L. Holman and T. P. Randall, leading undertakers, at Fifth and Main Streets**. This is important geographic context for the south end of the target Fifth-Sixth block and establishes the corner business by at least June 1915.
+Repeated 1915 classified advertisements directly place **R. L. Holman and T. P. Randall, leading undertakers, at Fifth and Main Streets**. Combined with the 7 January Holman move announcement, the Fifth/Main undertaker presence is now documented from the beginning of the year through the end of 1915.
 
 Canonical examples:
 - 17 June 1915, p. 9: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-9/
@@ -71,11 +82,18 @@ Canonical examples:
 
 This does **not** by itself prove the modern street number of the Holman/Randall premises. Keep the Fifth-and-Main corner-to-501 mapping question separate until direct numbering or plat evidence is recovered.
 
+## Oregon City Enterprise coverage
+
+The 1915 **Oregon City Enterprise** is confirmed present in Historic Oregon Newspapers and must be included in the exhaustive review. A directly recovered example is:
+- 17 September 1915, p. 1: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-17/ed-1/seq-1/
+
+Targeted Enterprise searches to date for **503 Main, 505 Main, L. Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Fifth/Main**, and fire/rebuilding terms have not yet produced a direct 503/505 hit. That is indexed-search coverage only; the required page-by-page Enterprise review remains incomplete.
+
 ## Search coverage / negative results to date
 
 A broad 1915 archive/web-index pass has been run for exact addresses **503, 505, 507, 509, 511 Main**, and for **L. Hylton, W. W. Bradley, Chicago Store, George A. Harding, H. P. Brightbill, G. H. Young, Holman, Randall, Fifth/5th and Main**, and fire/building/construction terms.
 
-This recovered repeated direct evidence for **507 / 509 / 511** and repeated Fifth-and-Main evidence for Holman/Randall, but has **not yet recovered**:
+This recovered repeated direct evidence for **507 / 509 / 511**, repeated Fifth-and-Main evidence for Holman/Randall, and the January Holman move announcement, but has **not yet recovered**:
 
 - a direct 1915 exact-address hit for **503 Main**;
 - a direct 1915 exact-address hit for **505 Main**;
@@ -92,7 +110,7 @@ The strongest 1915 development remains the **507 Main occupant change**: G. H. Y
 
 The repeated late-1915 directory simultaneously fixes three adjacent storefronts: **507 Bradley / 509 Brightbill / 511 Harding**.
 
-The repeated Holman/Randall advertisements establish a firm **Fifth & Main** south-end anchor throughout much of 1915, which is useful for reconstructing the relationship between the corner premises and the later numbered 501/503/505 frontage.
+The January Holman announcement now establishes a firm **Fifth & Main** south-end anchor from the first reviewed Courier issue of 1915. This is useful for reconstructing the relationship between the corner premises and the later numbered 501/503/505 frontage, but does not itself prove a 501 assignment.
 
 ## 1915 research targets
 
@@ -112,7 +130,7 @@ The repeated Holman/Randall advertisements establish a firm **Fifth & Main** sou
 
 | Address/location | 1915 status | Confidence |
 |---|---|---|
-| Fifth & Main corner | R. L. Holman and T. P. Randall, undertakers | direct / high |
+| Fifth & Main corner | R. L. Holman by 7 Jan.; Holman & Randall later in year | direct / high |
 | 501 Main | exact-number mapping unresolved | low |
 | 503 Main | unresolved; Hylton continuity not yet proven | unresolved |
 | 505 Main | unresolved | unresolved |
