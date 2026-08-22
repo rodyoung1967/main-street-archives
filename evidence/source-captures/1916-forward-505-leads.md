@@ -58,10 +58,35 @@ This is an important correction to the earlier broad 1916–1918 transition targ
 
 It remains possible that one member of the partnership or family had an Oregon City connection before the business relocation, but that is different from proving that the partnership operated 505 Main before summer 1918.
 
+## Candidate eliminated — Oregon City Shoe Store was separate
+
+A May 30, 1918 Courier merchant list confirms that the **Oregon City Shoe Store** was active immediately before Wolf & Miller's Oregon City move. Because this was a shoe business, it was initially a plausible candidate for the business Wolf & Miller may have acquired.
+
+However, the **10 Oct 1918 Courier** business-profile page identifies the Oregon City Shoe Store separately at **Main & 7th** on the same page that identifies **Wolf & Miller at 505 Main**. The Oregon City Shoe Store is described as an exclusive shoe store in operation for ten years.
+
+Sources:
+- 30 May 1918: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-05-30/ed-1/seq-4/
+- 10 Oct 1918: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
+
+Therefore **Oregon City Shoe Store is ruled out as the immediate predecessor or renamed Wolf & Miller operation at 505 Main**. Both businesses existed simultaneously at different locations in October 1918.
+
+## Building chronology lead — current 505 building appears later than Wolf & Miller
+
+The City of Oregon City's downtown historic inventory lists the existing **505 Main Street** resource with an estimated construction date of approximately **1920**; the same inventory dates **503 Main** to approximately **1919**.
+
+Source:
+https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+
+If that dating is correct, Wolf & Miller's documented **1918 operation at 505 Main** occurred in a **predecessor structure**, not the present circa-1920 building. This is potentially important because the search should distinguish **address continuity** from **building continuity**: a business could remain at 505 while the physical storefront was replaced shortly afterward.
+
+Status: **indexed report lead, not visually verified in the current session**. The PDF text/index was retrievable, but page-image screenshot retrieval failed, so this construction-date inference remains open for visual confirmation before it is promoted to visually verified evidence.
+
 ## Why this matters for the 1916 pass
 
 - 505 Main is unresolved after the Dec. 1913 Chicago Store fire.
 - Wolf & Miller is now even more securely excluded as a plausible **1916** occupant.
+- The Oregon City Shoe Store is also excluded as the missing 505 predecessor because it was simultaneously operating at Main & 7th in Oct. 1918.
+- The apparent circa-1920 construction date for the current 505 building means the unresolved 1914–1918 occupancy may concern an earlier building at the same address.
 - The 1916 search should return to unidentified tenants/businesses, George Harding property references, leases, vacancies, rebuilding/remodeling, and other commercial uses at 505.
 - The narrower Aug–Oct 1918 window may reveal the **immediate predecessor** at 505; identifying that predecessor could backsolve occupancy into 1917 or 1916.
 
@@ -71,6 +96,7 @@ It remains possible that one member of the partnership or family had an Oregon C
 2. **Aug–Oct 1918:** Wolf & Miller relocation/opening/purchase/lease notices and any predecessor at 505.
 3. Shoe-store, shoe-repair, clothing, furnishings, partnership, dissolution, relocation, opening, and remodeling notices.
 4. Any George Harding / property-owner / lease references tied to the post-1913 fire site.
+5. Building permits, fire-insurance maps, assessment records, or newspaper construction notices that can confirm when the predecessor 505 structure was replaced by the circa-1920 building.
 
 ## Research-standard warning
 
