@@ -4,7 +4,29 @@ Status: **active lead; address unresolved**
 
 This note records a potentially important business-continuity lead for the unresolved 503 Main gap after L. Hylton's documented 1914 cigar/tobacco/soft-drink shop.
 
-## What is directly documented
+## Newly recovered municipal predecessor lead — Gross & Hungate, Sept. 1914
+
+The actual **Oregon City Council minutes for 2 September 1914** have now been recovered from the City's archived council-minute scans. They state that the **application of Gross and Hungate for a six-month Pool Hall license** was read and permission granted.
+
+Primary municipal source:
+https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4826060/File/document
+
+This is an important chronology lead because:
+
+- L. Hylton is directly documented at **503 Main** in Feb. and Apr. 1914, selling cigars/tobacco/soft drinks;
+- Gross & Hungate receive a six-month Oregon City pool-hall license on **2 Sep 1914**;
+- a six-month term would nominally run to about **March 1915**;
+- Frank D. Cox is directly documented operating a **Main Street pool hall** by June 1915 and remains active through March 1916.
+
+This sequence creates a plausible **Gross & Hungate → Cox** transition hypothesis, but the council minutes do **not** state Gross & Hungate's numbered address and no transfer/sale record has yet been recovered. It therefore does **not** establish that either Gross & Hungate or Cox occupied 503 Main.
+
+### Municipal-record significance
+
+The archived council minutes prove that the City's historical meeting records can expose individual pool-hall license actions that newspaper summaries omit. This is now the highest-value route for the exact-address problem.
+
+Separate 1908 ordinance evidence shows that Oregon City pool-room operators were subject to an annual license fee and bond/surety requirements before the Recorder issued a license. Later minutes also show individual license applications being brought to the council. Consequently, recorder/license/bond files may preserve proprietor and premises details even where the council-minute entry gives only a name.
+
+## What is directly documented for Cox
 
 ### 3 Jun 1915 — Cox's pool hall on Main Street
 The *Oregon City Courier* reports that officers, after leaving the Moose Lodge, marched down **Main Street** and next raided **Cox's pool hall**. This independently places the hall on Main Street.
@@ -63,20 +85,25 @@ The 1 Jun 1916 business grid also separately advertises **Raasch & Lamb — Pool
 
 ## Why this may matter for 503 Main
 
-The last direct exact-address occupant currently documented at **503 Main** is **L. Hylton on 12 Feb 1914**, selling cigars, tobacco, smokers' supplies, and soft drinks. A pool hall is a plausible subsequent use for a premises already associated with cigars/soft drinks, and the Cox pool hall operated on Main Street in 1915–Mar 1916.
+The last direct exact-address occupant currently documented at **503 Main** is **L. Hylton in 1914**, selling cigars, tobacco, smokers' supplies, and soft drinks. A pool hall is a plausible subsequent use for a premises already associated with cigars/soft drinks. The newly recovered Gross & Hungate license and later Cox evidence create the following possible sequence:
 
-However, **there is currently no direct evidence that Cox's pool hall was at 503 Main**. Business-type similarity and chronology are not enough to assign the address.
+- **Apr. 1914:** L. Hylton still at 503 Main;
+- **2 Sep. 1914:** Gross & Hungate receive six-month Oregon City pool-hall license, address not printed;
+- **by Jun. 1915:** Frank D. Cox operates a Main Street pool hall, exact number not printed;
+- **30 Mar. 1916:** Cox hall still operating.
 
-The Cox lead must therefore remain separate from the later **Raasch & Lamb** pool/billiards business, the **Wade/Oldstein 504 Main** pool/billiards parlor documented in Dec. 1916, and the unproven P. B. Dimm proposal.
+However, **there is currently no direct evidence that Gross & Hungate or Cox were at 503 Main**. Business-type similarity and chronology are not enough to assign the address.
+
+The Cox/Gross-Hungate leads must therefore remain separate from the later **Raasch & Lamb** pool/billiards business, the **Wade/Oldstein 504 Main** pool/billiards parlor documented in Dec. 1916, and the unproven P. B. Dimm proposal.
 
 ## Research targets
 
-1. Recover the **1916–1917 Sohns & Woodbeck directory** (FamilySearch catalog `1844954` / Oregon Historical Society) and search Frank D. Cox, Cox pool hall, William Myers Jr., Sol Cox, P. B. Dimm, and 503 Main.
-2. Search Oregon City council/recorder minutes for 1914–1916 pool-hall license applications or renewals naming Frank Cox and giving a numbered address.
-3. Search 1915–1916 newspaper legal notices, advertisements, and business directories for `Cox`, `Frank Cox`, `F. D. Cox`, `William Myers`, `Sol Cox`, `Dimm`, `pool`, `billiards`, and address variants around 501–505 Main.
-4. Determine whether Cox sold or transferred the business, closed it, or remained a competitor after Raasch & Lamb's June 1916 move.
-5. Determine whether P. B. Dimm ever opened the proposed pool hall and, if so, its address and relationship to the other halls.
+1. Search the archived Oregon City Council minute volumes for **Feb.–Apr. 1915**, especially any Gross & Hungate renewal, Cox application, transfer, bond, or license action.
+2. Recover the **1916–1917 Sohns & Woodbeck directory** (FamilySearch catalog `1844954` / Oregon Historical Society) and search Frank D. Cox, Cox pool hall, William Myers Jr., Sol Cox, P. B. Dimm, Gross, Hungate, and 503 Main.
+3. Search City Recorder/license/bond records for the underlying **Gross & Hungate application** and subsequent Cox paperwork. Exact premises information may be present in those files even though it is omitted from the minutes.
+4. Search 1914–1916 newspaper legal notices, advertisements, and business directories for `Gross`, `Hungate`, `Cox`, `Frank Cox`, `F. D. Cox`, `William Myers`, `Sol Cox`, `Dimm`, `pool`, `billiards`, and address variants around 501–505 Main.
+5. Determine whether Gross & Hungate renewed, sold/transferred to Cox, or closed; and whether Cox sold/transferred, closed, or remained a competitor after Raasch & Lamb's June 1916 move.
 
 ## Research-standard warning
 
-The newspaper items above are strong text evidence for the existence and Main Street location of the Cox pool hall, but they do **not** resolve its exact numbered address. Do not promote Cox to 503 without a direct address source or sufficiently strong primary cross-reference.
+The newspaper items above are strong text evidence for the existence and Main Street location of the Cox pool hall, and the 2 Sep 1914 council minutes are primary municipal evidence for Gross & Hungate's six-month license. **Neither source resolves a numbered address.** Do not promote Gross & Hungate or Cox to 503 without a direct address source or sufficiently strong primary cross-reference.
