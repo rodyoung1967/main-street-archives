@@ -85,7 +85,7 @@ Additional issue roots provide exact scan-image counts:
 
 The 12-page February 17 issue and 20-page December 14 issue reinforce that a complete 1916 visual audit must inventory each issue individually rather than assume a normal 8-page size.
 
-## Wolf & Miller at 505 — forward endpoint narrowed to mid-1918
+## Wolf & Miller at 505 — forward endpoint narrowed to mid-August 1918
 
 The later **Wolf & Miller at 505 Main** evidence can now be bracketed much more tightly and should **not** be projected backward into 1916.
 
@@ -97,27 +97,32 @@ Wolf & Miller were still operating in **Springfield, Oregon** in the first half 
   - https://oregonnews.uoregon.edu/lccn/sn97071003/1918-06-27/ed-1/seq-3/
 - **4 Jul 1918, Springfield News** — the closing-out advertisement continues: `We are closing out our entire stock ... Come quick. Wolf & Miller.`
   - https://oregonnews.uoregon.edu/lccn/sn97071003/1918-07-04/ed-1/seq-3.pdf
-- **19 Jul 1918, Eugene Daily Guard** — `K. Miller, of the Wolf & Miller store` had returned from Oregon City, where his wife and family were already present; the paper says **as soon as Miller could dispose of his stock in Springfield he would join his family**.
+- **19 Jul 1918, Eugene Daily Guard** — Miller of the Wolf & Miller store had returned from Oregon City, where his wife and family were already present; the paper says **as soon as Miller could dispose of his stock in Springfield he would join his family**.
   - https://oregonnews.uoregon.edu/lccn/sn96088107/1918-07-19/ed-1/seq-3/
+- **20 Aug 1918, Eugene Daily Guard / Springfield News item** — C. E. Miller, identified with the Wolf and Miller department store, had **left the first of that week for Oregon City** to join Mrs. Miller and family, who had already been there for about two months.
+  - https://oregonnews.uoregon.edu/lccn/sn96088107/1918-08-20/ed-1/seq-5.pdf
 
 By **10 Oct 1918**, the Oregon City Courier explicitly identifies **Wolf & Miller, 505 Main**, describes the firm as dissolving partnership, and says one partner will go to Idaho while the other will restock and continue the business.
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 
 ### Significance
 
-This evidence sharply narrows the Wolf & Miller transition into Oregon City to approximately **mid-1918**, after the Springfield closing-out process. It therefore substantially rules out Wolf & Miller as a plausible **1916 occupant of 505 Main**. The remaining 505 gap is genuinely between the post-Chicago-Store/fire period and a different, still-unidentified occupant or transition before Wolf & Miller's mid-1918 arrival.
+This evidence now brackets C. E. Miller's actual relocation to Oregon City to **mid-August 1918**, while the business is proven at **505 Main by 10 Oct 1918**. The Wolf & Miller Oregon City operation therefore appears to have begun in a narrow late-summer/early-fall 1918 window. This strongly rules out Wolf & Miller as a plausible **1916 occupant of 505 Main** and focuses the predecessor search on whoever occupied or controlled 505 immediately before roughly August–October 1918.
+
+A further clue is that the 10 Oct feature already describes Wolf & Miller as **dissolving partnership**, with one partner leaving for Idaho and the other continuing/restocking the store. Given Miller's only recently documented move from Springfield, the partnership's Oregon City phase may have been very brief. That makes **August and September 1918 Oregon City newspapers** especially high-value for a purchase, transfer, opening, or predecessor notice.
 
 ## 503 / 505 status
 
 Targeted 1916 searches still have not produced a reliable direct exact-address listing for **503 Main** or **505 Main**. This remains an unresolved search status only, not evidence of vacancy, demolition, or absence.
 
-The later **1918 Wolf & Miller at 505 Main** anchor is now narrowed to a likely **mid-1918 Oregon City arrival**, making it a cleaner forward endpoint but not a candidate for the 1916 occupant.
+The later **1918 Wolf & Miller at 505 Main** anchor is now narrowed to a likely **late-summer 1918 Oregon City arrival**, making it a cleaner forward endpoint but not a candidate for the 1916 occupant.
 
 ## Next research targets
 
-1. Continue second-half 1916 directory/business searches for 507, 509, and 511.
-2. Search **late 1917 through mid-1918** for the business at 505 immediately before Wolf & Miller; look for a purchase, transfer, shoe-store, clothing-store, or lease notice associated with the Springfield move.
+1. Search **August–September 1918 Oregon City newspapers page-by-page** for Wolf & Miller's opening, purchase, transfer, or predecessor at 505.
+2. Continue second-half 1916 directory/business searches for 507, 509, and 511.
 3. Search 1916–1917 specifically for a 505 occupant without assuming continuity into Wolf & Miller.
-4. Build the full 1916 Courier weekly issue inventory.
-5. Build the full 1916 Oregon City Enterprise issue inventory.
-6. Continue attempts to recover actual scans for visual page-by-page review.
+4. Search 1915–1918 for L. Hylton or a successor at 503, emphasizing sale/transfer/removal notices rather than only exact-address ads.
+5. Build the full 1916 Courier weekly issue inventory.
+6. Build the full 1916 Oregon City Enterprise issue inventory.
+7. Continue attempts to recover actual scans for visual page-by-page review.
