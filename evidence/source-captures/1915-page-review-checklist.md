@@ -51,7 +51,7 @@ Weekly issues: **6, 13, 20, 27 May**.
 
 ## June 1915
 
-June is now added to the active issue inventory. Expected weekly Courier dates are **3, 10, 17 and 24 June**. The 17 June archive index is already confirmed at **10 pages**.
+Expected weekly Courier dates are **3, 10, 17 and 24 June**.
 
 ### 3 June
 - Direct archive/index searching attempted; no usable page-level result returned in this turn. Pending.
@@ -60,13 +60,22 @@ June is now added to the active issue inventory. Expected weekly Courier dates a
 - Direct archive/index searching attempted; no usable page-level result returned in this turn. Pending.
 
 ### 17 June
-- **10 pages confirmed** from the archive issue index. Full page-level review pending.
+Archive issue index confirms **10 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/
+
+Page-level retrieval attempted for all 10 pages in this pass.
+
+- Pages **1–4, 6–8, and 10**: archive returned cache/retrieval failures; remain explicit gaps, not reviewed.
+- **Page 5 reviewed:** county-account material; no target-block item identified in the recovered text. The page exposes both PDF and JP2 original-download options through the archive UI. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-5/
+- **Page 9 reviewed — relevant location continuity:** twice carries the advertisement **R. L. Holman and T. P. Randall, Leading Undertakers, Fifth and Main St.**, with Pacific 415-J and Home B-18. This independently confirms the Fifth & Main business anchor in mid-June 1915. It does not establish which modern numbered storefront corresponds to the premises. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-9/
+- Page 9 also shows the archive exposing PDF and JP2 originals for preservation.
+
+No 503/505/507/509/511 exact-address hit was recovered from the two successfully reviewed pages. This statement is limited strictly to pages 5 and 9; it is not a negative conclusion for the issue because eight pages remain inaccessible in this pass.
 
 ### 24 June
 - Issue/date expected in the weekly sequence. Full page-level review pending. Existing separate Main Street repaving research captures the June 24 contract-award stage, but this does not substitute for reviewing every page of the issue.
 
 ## Physical-history interpretation so far
-The accumulated 1915 material increasingly depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, and May Booster Day business-house decorations. This evidence weighs against a theory that the Fifth–Sixth frontage as a whole remained destroyed or absent after the December 1913 Chicago Store fire. It **does not establish that the specific pre-fire 505 building survived unchanged**, and 505's post-fire occupant remains unresolved.
+The accumulated 1915 material increasingly depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, and repeated operating-business anchors at Fifth & Main. This evidence weighs against a theory that the Fifth–Sixth frontage as a whole remained destroyed or absent after the December 1913 Chicago Store fire. It **does not establish that the specific pre-fire 505 building survived unchanged**, and 505's post-fire occupant remains unresolved.
 
 ## Later issue-count anchors
 - **15 July — 8 pages**
@@ -78,4 +87,4 @@ The accumulated 1915 material increasingly depicts Main Street as an active exis
 The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its page-level checklist is still incomplete.
 
 ## Current coverage warning
-Do **not** describe 1915 as exhaustively reviewed. The Courier inventory/recovered-page pass has now entered June, but substantial retrieval gaps remain in earlier months, including May, and the Enterprise page-level pass remains incomplete. Archive/index/cache misses are gaps, not negative evidence.
+Do **not** describe 1915 as exhaustively reviewed. The Courier inventory/recovered-page pass has now entered June, but substantial retrieval gaps remain in earlier months and within June 17, and the Enterprise page-level pass remains incomplete. Archive/index/cache misses are gaps, not negative evidence.
