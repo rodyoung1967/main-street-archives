@@ -28,16 +28,17 @@ Purpose: keep exact numbered Main Street address evidence together while the 191
 | **524 Main** | Wilson & Cooke | 1914–1915 exact-address anchors; active in 1916 | OCR/TEXT ONLY | Exact-address continuity into 1916 remains unproven. |
 | **527 Main** | Price Bros. — clothing | 1916 | OCR/TEXT ONLY | Repeated 1916 classified-directory evidence. |
 | **528 Main** | H. W. Streibig's Sanitary Market — meats | Jan–Aug 1916 | OCR/TEXT ONLY | Repeated exact-address entries. |
-| **612 Main** | Williams Bros. Transfer & Storage — office | Jan–Nov 1916 | OCR/TEXT ONLY | **Correction:** repeated 1916 ads clearly say **Office 612 Main Street**. The Jan. 13 and Nov. 16 OCR strings show `(512`, but clean April 6, April 27, May 11, June 1, June 29 and Aug. 31 text all read **612 Main**. Therefore the apparent 512 was an OCR loss/misread of the leading `6`, not evidence for 512. Representative sources: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-4/ocr/ ; https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-4/ ; https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-31/ed-1/seq-4/ |
-| **612 Main** | Wm. A. Schilling, optometrist/optician | June 1916 transition lead | OCR/TEXT ONLY | 1 Jun 1916 p8 contains the 612 Main location context; exact occupancy sequence needs visual/context review. https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-01/ed-1/seq-8.pdf |
+| **612 Main** | Williams Bros. Transfer & Storage — office | Jan–Nov 1916 | OCR/TEXT ONLY | Repeated 1916 ads clearly say **Office 612 Main Street**. Representative sources: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-4/ocr/ ; https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-4/ ; https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-31/ed-1/seq-4/ |
+| **617 Main** | Wm. A. Schilling — optometrist/optician | Jan–May 1916 | OCR/TEXT ONLY | Repeated ads in Jan–Apr 1916 explicitly print **617 Main Street**, including 20 Jan, 17 Feb, 24 Feb, 16 Mar, 23 Mar, 30 Mar, 6 Apr and 13 Apr. Representative: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-5/ |
+| **612 Main** | Wm. A. Schilling — optometrist/optician | from early June 1916 | OCR/TEXT ONLY | 1 Jun 1916 ad states he had been in his then-current location only five months, was forced to vacate, and would move **opposite** to **612 Main St.** beginning the first of June. The ad repeats `Wm. A. Schilling — 612 Main St.` https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-01/ed-1/seq-8/ |
 | **612 Main** | James Wilkinson, florist | Jul–Aug 1916 | OCR/TEXT ONLY | Repeated `new location` ads report shop 612 Main. |
 | **612 Main** | Cruden, optometrist | 14 Dec 1916 | OCR/TEXT ONLY | Christmas ad gives 612 Main. |
 
 ## 1916 address-grid observations
 
 1. **502, 504 and 528 are direct 1916 even-numbered anchors in the 500 block.**
-2. **The prior 512 Main assignment to Williams Bros. was wrong.** Multiple clean 1916 occurrences establish **612 Main**; the `(512` OCR forms are malformed readings of 612.
-3. **612 Main therefore needs special treatment.** Williams Bros. is strongly established there, while optical/florist references also point to 612 during 1916. That may reflect sequential occupancy, shared premises, ad-context mixing, or OCR errors; it must not be flattened prematurely.
+2. **Schilling gives us a clean intra-year address move:** he advertised at **617 Main** through spring 1916, then announced a move to **612 Main** in early June. His June ad explicitly says the new location was opposite the old one. This is useful for checking Main Street numbering/orientation and proves that one business can shift several numbers within the same year.
+3. **612 Main therefore needs special treatment.** Williams Bros. is independently and repeatedly established there while Schilling also announces a move there, with Wilkinson and later Cruden also tied to 612. This may reflect multiple commercial spaces sharing one street number, sequential occupancy, ad-context issues, or some other building/address convention. Do not force it into a one-address/one-business model without more evidence.
 4. **504 Main has a documented amusement/commercial sequence:** glass-blower exhibition (1906), Electric Theatre (1912–1913), pool/billiard parlor (Dec. 1916).
 5. **A. A. Mundin/Munden has a 514-versus-614 conflict in October 1918.** Because the 1918 feature also says he had been in business nearly two years, resolving this conflict could yield a useful late-1916 address anchor.
 6. **506, 508, 510 and 524 have useful earlier/later anchors but not yet direct 1916 exact-address proof.**
@@ -46,6 +47,7 @@ Purpose: keep exact numbered Main Street address evidence together while the 191
 ## Next numbered-address targets
 
 - Find 1916 exact-address occupants for **501, 503, 505, 506, 508, 510, 512, 514/614, 516, 518, 520, 522, 524 and 526 Main** where records survive.
+- Resolve how **612 Main** could host Williams Bros. plus Schilling/Wilkinson/Cruden references, using original scans and the 1916–17 city directory.
 - Resolve the **514/614 Mundin/Munden** conflict from original scan images.
 - Trace the Dec. 1916 **504 Main pool/billiard parlor** backward earlier in 1916.
 - Prefer the **Sohns & Woodbeck 1916-1917 Clackamas County and Oregon City Directory** because a street directory could establish the sequence in one source.
