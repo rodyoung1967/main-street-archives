@@ -30,7 +30,7 @@ This register tracks business-name and operation chronology. **503 Main** and **
 | 1921-1922 | Dr. Freeze, Eye Specialist | `BUS-021` | `E-028` | Very High | 505 / 505 1/2; later Masonic Building. |
 | 1925 | Billiards and cigars (Sanborn) | | `E-020` | High map | |
 | By 1934 context | Farr's Pool Hall | `BUS-013` | `E-033` | High official | Operating span incomplete. |
-| 1945; directly confirmed late 1948 | Harr's Recreation Center | `BUS-014` | `E-032`; `evidence/source-captures/1948-harrs-recreation-center-505-main.md` | Official secondary for 1945; Very High primary-text for late 1948 | City inventory places Harr's Recreation Center in 1945. Late-1948 City Commission liquor-license record directly names **Carl R. Harr**, **Harr's Recreation Center**, **505 Main Street**. Exact Farr→Harr transition remains unresolved. |
+| 1945; directly documented Feb.–late 1948 | Harr's Recreation Center | `BUS-014` | `E-032`; `evidence/source-captures/1948-harrs-recreation-center-505-main.md` | Official secondary for 1945; Very High primary-text for 1948 | City inventory places Harr's Recreation Center in 1945. 11 Feb. 1948 Commission minutes show Harr and McDougald appearing as pool-hall operators; later-1948 liquor-license record directly names **Carl R. Harr**, **Harr's Recreation Center**, **505 Main Street**. Exact Farr→Harr transition remains unresolved. |
 | 1950 | Billiards, cigars, beer (Sanborn) | | `E-020` | High map | |
 | 1953 | "Well's Recreation" | `BUS-015` | `E-032` | Official secondary | Spelling to verify. |
 | Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High | |
