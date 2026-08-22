@@ -2,7 +2,7 @@
 
 Status: **active lead; exact Cox address after 1910 remains unresolved**
 
-This note tracks pool-hall operators relevant to the unresolved 503 Main gap after L. Hylton's documented 1914 cigar/tobacco/soft-drink shop. The evidence now establishes **F. D. Cox as a licensed Oregon City pool/billiard operator by October 1912**, substantially earlier than the 1915 court coverage. A separate 1910 source directly places **Asay & Cox, The Pool Hall, at 708 Main**, but the identity of that Cox with Frank D. Cox is not yet proven.
+This note tracks pool-hall operators relevant to the unresolved 503 Main gap after L. Hylton's documented 1914 cigar/tobacco/soft-drink shop. The evidence establishes **F. D. Cox as a licensed Oregon City pool/billiard operator by October 1912**, substantially earlier than the 1915 court coverage. A separate 1910 source directly places **Asay & Cox, The Pool Hall, at 708 Main**, but the identity of that Cox with Frank D. Cox is not yet proven.
 
 ## Earlier exact-address lead — Asay & Cox at 708 Main, 1910
 
@@ -19,11 +19,11 @@ This is strong exact-address evidence for an Asay & Cox pool hall at 708 Main in
 
 If the Cox partner is ultimately proven to be Frank D. Cox, this would establish that his earlier hall was on the **even-numbered side of Main**, and would substantially weaken any assumption that his later Main Street hall was automatically at 503. A later move would still be possible and would need direct documentation.
 
-## Major new municipal anchor — F. D. Cox licensed by 2 Oct 1912
+## Major municipal anchor — F. D. Cox licensed by 2 Oct 1912
 
 Actual **Oregon City Council minutes for 2 October 1912** state that applications for Pool and Billiard Licenses were granted to:
 
-- **F. F. Curren**
+- **F. F. Curran** (minutes OCR renders Curren)
 - **F. D. Cox**
 - **Bailey and Price**
 - **Bert Crowley**
@@ -35,13 +35,28 @@ This proves that **F. D. Cox was a licensed Oregon City pool/billiard operator b
 
 The council entry does **not** give Cox's premises address. Bailey & Price are independently documented at **527 Main** in January 1912, proving that the council list comprises multiple separate halls and cannot itself identify Cox's location.
 
+### Address-control finding — F. F. Curran was at Mountain View
+
+A **17 December 1911 Morning Enterprise** license notice from **F. F. Curran** states that he would apply to run a pool hall at **his place of business, Mountain View**, for three months.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063701/1911-12-17/ed-1/seq-2/
+
+Later Oregon City reporting identifies **F. F. Curran of Oregon City**, supporting the spelling/identity behind the council OCR form `Curren`.
+
+This is an important control on the October 1912 council list: the list was **citywide and included a neighborhood pool hall outside the downtown Main Street frontage**. Therefore Cox's location cannot be inferred by treating the October licensees as a set of downtown Main Street competitors or by eliminating known Main Street addresses. Each licensee requires independent premises evidence.
+
+The October council PDF is primary municipal text evidence, but screenshot retrieval failed in the current research environment; do **not** mark that scan visually verified.
+
 ### Why the October 1912 license matters for 503
 
-H. H. Smith published a March 1912 notice stating that he intended to apply for a pool-hall license for his place of business at **503 Main Street**. The newly recovered October F. D. Cox license raises a specific testable question:
+H. H. Smith published a March 1912 notice stating that he intended to apply for a pool-hall license for his place of business at **503 Main Street**. The October F. D. Cox license raises a specific testable question:
 
 **Did Cox later acquire or take over Smith's 503 Main pool hall during 1912, or was Cox operating another hall elsewhere?**
 
 There is currently **no evidence** proving Smith→Cox or placing Cox at 503. The correct next targets are Smith's council license decision/renewal, Cox's October 1912 application or bond, and any legal notice that prints Cox's premises.
+
+The **5 April 1912 Courier** reports on the April 3 city-council meeting but discusses Main Street paving and does not mention Smith's application. That omission must **not** be treated as evidence that the Smith application was denied, granted, withdrawn, or ignored; newspaper council summaries were selective. The underlying April 3 minutes remain the necessary source.
 
 ## Major chronology correction — Gross pool hall already licensed in March 1914
 
@@ -127,8 +142,9 @@ This proves Raasch & Lamb were already an established separate operation by June
 The strongest chronology is now:
 
 - **23 Sep 1910:** Asay & Cox, The Pool Hall, **708 Main**; Cox identity with F. D. Cox unproven;
+- **17 Dec 1911:** F. F. Curran advertises intended pool-hall license at **Mountain View**;
 - **Mar 1912:** H. H. Smith announces intended pool-hall license application at **503 Main**;
-- **2 Oct 1912:** **F. D. Cox** granted an Oregon City pool/billiard license, address omitted;
+- **2 Oct 1912:** **F. D. Cox** granted an Oregon City pool/billiard license, address omitted; the same license list includes Curran's non-downtown hall and therefore cannot be geographically inferred;
 - **12 Feb & 23 Apr 1914:** L. Hylton directly at **503 Main**;
 - **5 Mar 1914:** Gross & Ruconich pool-hall license granted elsewhere/unidentified;
 - **2 Sep 1914:** Gross & Hungate six-month pool-hall license, address omitted;
@@ -141,12 +157,12 @@ There is **still no direct evidence placing Frank D. Cox at 503 Main**. The Octo
 
 ## Research targets
 
-1. Search **March–April 1912 council minutes** for H. H. Smith's 503 application decision and **June–July 1912** for renewal/transfer.
-2. Search **Sept.–Oct. 1912** newspapers and recorder/council files for F. D. Cox's application, bond, legal notice, or premises address.
+1. Recover **3 April 1912 Oregon City Council minutes** for H. H. Smith's 503 application decision and search **June–July 1912** for renewal/transfer.
+2. Search **Sept.–Oct. 1912** newspapers and Recorder/council files for F. D. Cox's application, bond, legal notice, or premises address.
 3. Identify the partners in **Asay & Cox** and determine whether the Cox partner was Frank D. Cox.
 4. Recover the **1916–1917 Sohns & Woodbeck directory** (FamilySearch catalog `1844954` / Oregon Historical Society) and search F. D. Cox, Gross, Ruconich, Hungate, Myers, Dimm, and the full 500 Main block.
 5. Search City Recorder/license/bond records because the council minutes prove licenses existed but omit premises.
 
 ## Research-standard warning
 
-The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox address is direct newspaper text; the Cox-partner identity remains unresolved. The 2 Oct 1912 F. D. Cox license is primary municipal evidence, but it does **not** give his premises. Do not promote Cox to 503 without a direct address source.
+The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox address is direct newspaper text; the Cox-partner identity remains unresolved. The 2 Oct 1912 F. D. Cox license is primary municipal text evidence, but its screenshot endpoint failed and it is **not visually certified** in this pass. Do not promote Cox to 503 without a direct address source.
