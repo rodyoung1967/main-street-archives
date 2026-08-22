@@ -38,19 +38,63 @@ Known issue length: **8 pages**. Pages **1 and 3–8 have been reviewed** throug
 
 ### 21 January 1915
 
-Known issue length from recovered navigation: **8 pages**. Review in progress; recovered pages include 2, 3, 4 and 5. Remaining pages pending.
+Known issue length: **8 pages**. Page 2 and page 4 are directly recovered in the current archive/search interface. Previously recovered pages 3 and 5 remain recorded as reviewed. Exact-page attempts for 1 and 6–8 currently return cache/index gaps, so this issue remains incomplete.
+
+| Page | Review status | Notes |
+|---|---|---|
+| 1 | retrieval gap | Exact-page attempt not retrievable in current interface; do not count as reviewed. |
+| 2 | reviewed | General national/state commentary and news; no target-block item identified in recovered page text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-21/ed-1/seq-2/ |
+| 3 | reviewed | Previously recovered/reviewed; no target-block finding logged. |
+| 4 | reviewed | Courier editorial page; no Fifth–Sixth target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-21/ed-1/seq-4/ |
+| 5 | reviewed | Previously recovered/reviewed; no target-block finding logged. |
+| 6 | retrieval gap | Exact-page attempt not retrievable in current interface. |
+| 7 | retrieval gap | Exact-page attempt not retrievable in current interface. |
+| 8 | retrieval gap | Exact-page attempt returned cache miss. |
 
 ### 28 January 1915
 
-Known issue length from Historic Oregon Newspapers issue index: **10 pages**. Review in progress. Issue index: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-28/ed-1/
+Known issue length from Historic Oregon Newspapers issue index: **10 pages**. The issue index explicitly exposes images 1–10. Page 4 is directly recovered and reviewed; exact-page retrieval attempts for several other pages currently produce cache/index gaps. The issue is therefore **not complete**.
+
+Issue index: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-28/ed-1/
+
+| Page | Review status | Notes |
+|---|---|---|
+| 1 | retrieval gap | Issue index confirms page exists; exact OCR attempt not currently retrievable. |
+| 2 | retrieval gap | Issue index confirms page exists; exact OCR attempt returned cache miss. |
+| 3 | retrieval gap | Issue index confirms page exists; exact OCR attempt returned cache miss. |
+| 4 | reviewed | Courier editorial page; no target-block item identified in recovered text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-28/ed-1/seq-4/ |
+| 5 | retrieval gap | Issue index confirms page exists; exact OCR attempt not currently retrievable. |
+| 6 | retrieval gap | Issue index confirms page exists; exact OCR attempt returned cache miss. |
+| 7 | retrieval gap | Issue index confirms page exists; exact OCR attempt returned cache miss. |
+| 8 | retrieval gap | Issue index confirms page exists; exact OCR attempt returned cache miss. |
+| 9 | retrieval gap | Issue index confirms page exists; exact OCR attempt not currently retrievable. |
+| 10 | retrieval gap | Issue index confirms page exists; exact OCR attempt not currently retrievable. |
+
+### February and later issue-count anchors
+
+The archive issue indexes are being used to establish expected page counts before page review. Confirmed examples include:
+
+- **25 February 1915 — 10 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-02-25/ed-1/
+- **25 March 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-03-25/ed-1/
+- **1 April 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/
+- **15 July 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-15/ed-1/
+- **22 July 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/
+- **29 July 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/
+- **21 October 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/
+- **2 December 1915 — 10 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/
+- **9 December 1915 — 10 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-09/ed-1/
+- **23 December 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-23/ed-1/
+- **30 December 1915 — 8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-30/ed-1/
 
 ## Oregon City Enterprise (`sn00063700`)
 
-1915 digitized content is confirmed present. A recovered example is 17 September 1915, page 1:
-https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-17/ed-1/seq-1/
+The archive confirms the **Oregon City Enterprise (`sn00063700`) was a weekly Oregon City newspaper throughout this period**, and its digitized issues must be included in the exhaustive 1915 review. Example directly recovered issue: **1 October 1915, 8 pages**.
 
-Full 1915 issue/page checklist still needs to be built. Targeted indexed searches for 503/505 and known business names are supplemental only and do not satisfy the page-review requirement.
+- Title record: https://oregonnews.uoregon.edu/lccn/sn00063700/
+- 1 October 1915 page 1: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-10-01/ed-1/seq-1/
+
+Full 1915 Enterprise issue/page checklist remains to be built. Targeted indexed searches are supplemental only and do not satisfy the page-review requirement.
 
 ## Current coverage warning
 
-Do **not** describe 1915 as exhaustively reviewed yet. The Courier January review is proceeding at page level. The 7 January issue is complete except for page 1; the 14 January issue is complete except for page 2; later January issues and the Enterprise remain incomplete.
+Do **not** describe 1915 as exhaustively reviewed yet. January Courier review is advancing, but multiple archive retrieval gaps remain, and the Enterprise page-level pass is still incomplete. A cache/index miss is logged as a gap rather than silently converted into negative evidence.
