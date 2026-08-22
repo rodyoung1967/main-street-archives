@@ -65,12 +65,56 @@ Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn
 
 No recovered March page yet identifies a 503 or 505 occupant. This is **not** a negative conclusion for March because substantial page coverage remains pending. The March 11 repaving article is relevant to the post-1913-fire physical-history question: by March 1915 the discussion concerns resurfacing the existing Main Street roadway, not rebuilding a destroyed commercial block.
 
+## April 1915
+
+### 1 April
+
+Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/
+
+Recovered/reviewed:
+- **Page 1:** front page includes a county-wide discussion in which pool halls were heavily criticized as a business type. This is contextual only and does not establish an occupant for 503/505. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/seq-1/
+- **Page 4:** editorial page; no Fifth–Sixth target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/seq-4/
+
+Pages 2–3 and 5–8 remain pending/retrieval gaps.
+
+### 8 April
+
+Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-08/ed-1/
+
+Recovered/reviewed:
+- **Page 8:** editorial/political material; no 503/505 target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-08/ed-1/seq-8/
+
+Pages 1–7 remain pending/retrieval gaps in the current interface.
+
+### 15 April
+
+Archive page navigation confirms **8 pages**. This issue contains important Main Street property-owner evidence.
+
+Recovered/reviewed:
+- **Page 1 — highly relevant:** front-page article `COUNCIL "SLAPS" PROPERTY OWNERS` reports that the city council selected El Oso asphaltic concrete for Main Street despite opposition from Main Street property owners. It says property owners were preparing a remonstrance. This is direct evidence of an organized group of Main Street property owners in April 1915 and of the existing business street being repaved rather than recreated after the 1913 fire. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-1/
+- **Page 2:** advertising/business page; no 503/505 target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-2/
+- **Page 5:** local/business page; no direct 503/505 item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-5/
+- **Page 6:** editorial/opinion page; no direct 503/505 item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-6/
+- **Page 8:** full-page Adams Department Store advertising; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-8/
+
+Pages 3, 4 and 7 remain pending/retrieval gaps and must be reviewed before the issue is complete.
+
+### 22 April
+
+Issue/date is part of the weekly Courier sequence. Full page-level review remains pending.
+
+### 29 April
+
+Issue/date is part of the weekly Courier sequence. Full page-level review remains pending. Existing 1915 Main Street repaving research separately captures the April 29 paving-specification stage; page-by-page issue completion is still required here.
+
+### April status / finding
+
+The April 15 front-page account materially strengthens the physical-history interpretation: contemporary reporting treats Main Street as an **existing occupied commercial street whose property owners were actively disputing the paving specification**. It does not prove that the specific pre-fire 505 structure survived unchanged, but it is inconsistent with any broad theory that the Fifth–Sixth frontage remained generally destroyed or absent in spring 1915. No reviewed April page yet gives a direct 503 or 505 occupant.
+
 ## Later issue-count anchors
 
 Confirmed archive issue indexes include:
 
-- **1 April — 8 pages:** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/
-- **8 April — 8 pages:** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-08/ed-1/
 - **17 June — 10 pages:** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/
 - **15 July — 8 pages:** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-15/ed-1/
 - **4 November — 8 pages:** https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/
@@ -83,4 +127,4 @@ The Oregon City Enterprise was a weekly Oregon City newspaper in 1915 and remain
 
 ## Current coverage warning
 
-Do **not** describe 1915 as exhaustively reviewed. The Courier review has advanced through March at the inventory/recovered-page level, but substantial page retrieval gaps remain, including the large March 18 supplement. The Enterprise page-level pass is also incomplete. Archive/index/cache misses are gaps, not negative evidence.
+Do **not** describe 1915 as exhaustively reviewed. The Courier review has now advanced into April at the issue/recovered-page level, but substantial page retrieval gaps remain, including the March 18 supplement. The Enterprise page-level pass is also incomplete. Archive/index/cache misses are gaps, not negative evidence.
