@@ -47,78 +47,56 @@ Weekly Courier dates are **3, 10, 17 and 24 June**.
 
 ## July 1915
 Courier sequence confirmed for **1, 8, 15, 22, 29 July**.
-
-### 1 July
-- Issue/date confirmed; page-level review pending.
-
-### 8 July — 8 pages
-- Page 1 reviewed; pages 2–8 pending.
-
-### 15 July — 8 pages
-- Pages 3, 4, 8 reviewed; pages 1–2 and 5–7 pending.
-
-### 22 July — 8 pages
-- **Page 5 reviewed — highly relevant physical-work evidence.** The article `READY FOR WORK — Saturday to see Main Street's Rehabilitation Commenced` says Worswick paving work would begin, the interurban company had been adjusting track grade, the paving company expected to lay about 500 yards a day **once the old brick had been cleared away**, and **one side of the street would be paved at a time so traffic could continue**. Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-5/
-- This is direct evidence that the 1915 work was rehabilitation of the existing street surface while maintaining active traffic; it is not evidence about whether a specific 505 building survived the 1913 fire.
-- Remaining pages 1–4 and 6–8 still require page-level review.
-
-### 29 July — 8 pages
-- **Page 3 reviewed — direct exact-address anchor:** Classified Business Directory lists **W. W. Bradley, New and Second-Hand, Bargains in Furniture and Furnishings, 507 Main, Tel. 139.** Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/
-- This is direct/high-confidence evidence that Bradley occupied or operated at 507 Main by 29 July 1915. It narrows the transition from G. H. Young at 507 Main in April 1914 to Bradley by this date.
-- Remaining pages still require review.
+- **1 Jul:** issue/date confirmed; page-level review pending.
+- **8 Jul — 8 pages:** page 1 reviewed; pages 2–8 pending.
+- **15 Jul — 8 pages:** pages 3,4,8 reviewed; pages 1–2 and 5–7 pending.
+- **22 Jul — 8 pages:** page 5 reviewed. `READY FOR WORK` says Worswick paving would begin after old brick was cleared and that one side would be paved at a time so traffic could continue. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-5/
+- **29 Jul — 8 pages:** page 3 reviewed; direct exact-address anchor **W. W. Bradley, 507 Main, Tel. 139**. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/
 
 ## August 1915
 Courier weekly sequence: **5, 12, 19 and 26 August**.
-
-### 5 August
-- **Page 1 reviewed:** city-council report discusses expiration of street improvements on Third, Fourth, Fifth, Sixth, Eighth and Ninth streets and possible hard-surface improvement at property-owner expense. Useful downtown infrastructure context, not a direct 503/505 item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-05/ed-1/seq-1/
-- **Page 7 reviewed:** legal notices plus repeated **R. L. Holman and T. P. Randall, Fifth and Main St.** No 503/505 exact-address item identified in recovered text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-05/ed-1/seq-7/
-- Other pages remain pending.
-
-### 12 August
-- **Page 2 reviewed:** advertising/local page. Repeats **R. L. Holman and T. P. Randall, Leading Undertakers, Fifth and Main St.** Also provides numerous other downtown address anchors, but no direct 503/505 item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-12/ed-1/seq-2/
-- **Page 5 reviewed:** repeats Holman/Randall at Fifth and Main; no direct 503/505 item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-12/ed-1/seq-5/
-- Other pages remain pending.
-
-### 19 August
-- Issue/date confirmed in weekly sequence. Targeted indexed search did not return a usable 507/503/505 page in this pass. Full page-level review remains pending.
-
-### 26 August
-- **Page 3 reviewed:** Classified Business Directory / department-store advertising page. Includes Price Bros. at 527 Main and other downtown business anchors; no direct 503/505/507/509/511 target-block hit identified in recovered page text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-26/ed-1/seq-3.pdf
-- Other pages remain pending.
+- **5 Aug:** pages 1 and 7 reviewed; page 7 repeats R. L. Holman and T. P. Randall at Fifth and Main.
+- **12 Aug:** pages 2 and 5 reviewed; both repeat Holman/Randall at Fifth and Main.
+- **19 Aug:** issue/date confirmed; full page-level review pending.
+- **26 Aug:** page 3 reviewed; no direct target-block item identified.
 
 ## September 1915
-Courier weekly sequence now active for **2, 9, 16, 23 and 30 September**.
+Courier weekly sequence: **2, 9, 16, 23 and 30 September**.
+- **2 Sep — 11 pages:** pages 3,5,11 reviewed; others pending.
+- **9 Sep — 8 pages:** pages 1,4,5,8 reviewed. Page 8 says Main Street's business section would soon be "all new" as paving neared completion; page 1 celebrates new pavement on the city's chief business street.
+- **16 Sep — 8 pages:** pages 2,3,4 reviewed. Page 3 directly confirms **W. W. Bradley, 507 Main** and **H. P. Brightbill, 509 Main**.
+- **23 Sep:** page 3 is a classified-business-directory page and directly lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main**. Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-23/ed-1/seq-3/
+- **30 Sep:** issue/date confirmed; page-level review pending.
 
-### 2 September — 11 pages
-The archive page navigation confirms **11 pages** for this issue.
-- **Page 3 reviewed:** commentary/opinion material; no target-block business item identified in recovered text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-02/ed-1/seq-3/
-- **Page 5 reviewed:** State Fair advertising; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-02/ed-1/seq-5/
-- **Page 11 reviewed:** legal-notice material; no target-block item identified. The page navigation explicitly reports `of 11`, establishing the issue length. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-02/ed-1/seq-10/
-- Pages 1–2, 4, 6–10 remain pending/retrieval gaps.
+## October 1915
+Courier weekly sequence confirmed for **7, 14, 21 and 28 October**.
 
-### 9 September — 8 pages
-- **Page 1 reviewed — highly relevant streetscape context:** front-page discussion celebrates the city's new water system and **brand new pavement on its chief business street**, explicitly treating Main Street as an active improved business corridor. It also mentions active paving work on Main. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-1/
-- **Page 4 reviewed:** editorial page; no target-block business item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-4/
-- **Page 5 reviewed:** local/business material; includes `PAVING MAN PINCHED`, describing Standard Paving Company's active Worswick-paving work on Main Street. No 503/505 exact-address item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-5/
-- **Page 8 reviewed — highly relevant physical-history evidence:** article `STREET SOON READY — Business Section of County Seat to be "All New" Next Week` says Main Street paving would be completed by mid-next week and describes the business section as receiving a first-class pavement over the existing thoroughfare. It says the work gives Main Street an even surface and frames the project as repaving after two years of argument. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-8/
-- Pages 2–3 and 6–7 remain pending.
+### 7 October — 10 pages
+Page navigation confirms **10 pages**.
+- **Page 2 reviewed:** county/suburban news; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-2/
+- **Page 5 reviewed — important directory continuity:** the Classified Business Directory directly lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main**. This is direct October exact-address confirmation for all three. It also lists **F. F. Theroux at 519 Main**, showing that Theroux had moved from the January Fifth & Main location to a numbered Main Street address by October. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-5/
+- **Page 6 reviewed:** Oregon Commission Company at 11th & Main and civic-conference material; no target-block item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-6/
+- **Page 8 reviewed:** paving-company advertisement about road construction/resurfacing; not a target-block business item. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-8/
+- Pages 1,3,4,7,9,10 remain pending/retrieval gaps.
 
-### 16 September — 8 pages
-Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/
-- **Page 2 reviewed:** general advertising/business material; no target-block exact-address item identified in recovered text. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-2/
-- **Page 3 reviewed — direct exact-address anchors:** Classified Business Directory repeats **W. W. Bradley, 507 Main, Tel. 139** and **H. P. Brightbill, 509 Main, Phone 74**. This is direct/high-confidence September confirmation for both businesses. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-3/
-- **Page 4 reviewed:** editorial page; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-4/
-- Pages 1 and 5–8 remain pending.
+### 14 October — 8 pages
+Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/
+- **Page 3 reviewed:** department-store advertising; no target-block exact-address item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-3/
+- **Page 7 reviewed:** legal notices; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-14/ed-1/seq-7/
+- Pages 1–2,4–6,8 remain pending.
 
-### 23 September
-- Issue/date confirmed in weekly sequence; full page-level review pending.
+### 21 October — 8 pages
+Archive issue index confirms **8 pages**: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/
+- **Page 2 reviewed:** county/suburban news; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-2/
+- **Page 4 reviewed:** editorial page; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-4/
+- **Page 7 reviewed:** legal notices; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-7/
+- Pages 1,3,5,6,8 remain pending.
 
-### 30 September
-- Issue/date confirmed in weekly sequence; full page-level review pending.
+### 28 October
+Issue/date confirmed in the weekly sequence. Page-level review remains pending.
 
 ## Physical-history interpretation so far
-The accumulated 1915 material depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, active Fifth & Main businesses, a formal paving contract, July removal of old roadway brick while traffic continued, and September completion of a new pavement through the business section. This weighs against a theory that the Fifth–Sixth frontage as a whole remained destroyed or absent after the December 1913 Chicago Store fire. It **does not establish that the specific pre-fire 505 building survived unchanged**, and 505's post-fire occupant remains unresolved.
+The accumulated 1915 material depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, active Fifth & Main businesses, a formal paving contract, July removal of old roadway brick while traffic continued, September completion of new pavement through the business section, and repeated autumn exact-address business directories for 507, 509 and 511. This weighs against a theory that the Fifth–Sixth frontage as a whole remained destroyed or absent after the December 1913 Chicago Store fire. It **does not establish that the specific pre-fire 505 building survived unchanged**, and 505's post-fire occupant remains unresolved.
 
 ## Later issue-count anchors
 - **4 November — 8 pages**
@@ -129,4 +107,4 @@ The accumulated 1915 material depicts Main Street as an active existing commerci
 The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its page-level checklist is still incomplete. The title record confirms weekly publication and digitized archival holdings: https://oregonnews.uoregon.edu/lccn/sn00063700/
 
 ## Current coverage warning
-Do **not** describe 1915 as exhaustively reviewed. The Courier inventory/recovered-page pass has now advanced into September, but substantial retrieval gaps remain in earlier months and September itself, and the Enterprise page-level pass remains incomplete. Archive/index/cache misses are gaps, not negative evidence.
+Do **not** describe 1915 as exhaustively reviewed. The Courier inventory/recovered-page pass has now advanced into October, but substantial retrieval gaps remain in earlier months and October itself, and the Enterprise page-level pass remains incomplete. Archive/index/cache misses are gaps, not negative evidence.
