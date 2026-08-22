@@ -26,8 +26,9 @@ The LDSGenealogy access page for the item likewise points directly to FamilySear
 
 ## Related statewide directory image identifiers recovered
 
-A separate but potentially useful source is the **1915–1916 Oregon and Washington State Gazetteer and Business Directory**. OnGenealogy exposes direct FamilySearch image links for this work. The current research session extracted these image ARKs before FamilySearch timed out:
+A separate but potentially useful source is the **1915–1916 Oregon and Washington State Gazetteer and Business Directory**. OnGenealogy exposes direct FamilySearch image links for this work. The current research session extracted the complete four-part image ARK set before FamilySearch timed out:
 
+- Part 1: `ark:/61903/3:1:3QSQ-G9NM-KS6J` — FamilySearch catalog `1439422`
 - Part 2: `ark:/61903/3:1:3QS7-99NM-LH7` — FamilySearch catalog `1439422`
 - Part 3: `ark:/61903/3:1:3QSQ-G9NM-PVLF` — FamilySearch catalog `1439422`
 - Part 4: `ark:/61903/3:1:3QS7-89NM-FLKC` — FamilySearch catalog `1439422`
@@ -35,6 +36,8 @@ A separate but potentially useful source is the **1915–1916 Oregon and Washing
 The exact part containing the Oregon City section has not yet been established in-session. These identifiers are **not** the same as the local Sohns & Woodbeck directory, but the statewide directory may independently list Oregon City billiard halls, cigar dealers and other merchants active during 1915–16.
 
 Current limitation: the FamilySearch image requests time out/restrict access in this environment. Preserve these ARKs for later direct retrieval or mirror searching.
+
+A separate catalog check also confirms that Spokane Public Library's Inland Northwest Special Collections holds the physical **1915–1916 Oregon and Washington State Gazetteer and Business Directory** (`NW 917.9 OREGON`, barcode `37413310824562`). This is an additional physical retrieval route if FamilySearch remains inaccessible.
 
 ## Evidence that the directory is detailed enough to matter
 
