@@ -99,6 +99,22 @@ No direct 1916 exact-address hit for **503 Main** or **505 Main** has yet been r
 
 This is **not negative evidence**. The full 1916 Courier and Oregon City Enterprise visual page-by-page review has not been performed, and targeted OCR/search can miss ads, display type, damaged print, or badly recognized address lines.
 
+### Hylton follow-up lead — possible clue to the 503 transition
+
+The exact-address evidence from 1914 identifies **L. Hylton at 503 Main**, selling cigars, tobacco, smokers' supplies and soft drinks.
+
+A 6 Apr 1916 *Courier* local item reports that **L. J. Hylton** left for an eastern trip and says that he **lived in the Twilight district**:
+
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-5/ocr/
+
+A 7 Jun 1917 obituary for Louis Jackson Hylton identifies surviving sons as **Louis Hylton of Oregon City**, **James Hylton of Twilight**, and Dennis Hylton of Mulino:
+
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1917-06-07/ed-1/seq-4/
+
+These references create an **identity caution, not a conclusion**. The `L. Hylton` proprietor at 503 in 1914 cannot yet be safely equated with the `L. J. Hylton` mentioned in 1916; the family had more than one Hylton in the Oregon City/Twilight area. Therefore the 1916 Twilight residence item does **not** establish that the 503 business had closed or moved.
+
+The important new research target is to identify the 1914 proprietor's full name, then search for a sale, license transfer, relocation, directory change, or business-cessation notice between Apr. 1914 and 1916.
+
 ### Important forward anchor for 505 — now more tightly dated
 
 A later exact-address source identifies:
@@ -136,17 +152,18 @@ The strongest 1916 result so far is stable address continuity immediately north 
 - 509 — Brightbill grocery, through at least 27 Jul.
 - 511 — Harding pharmacy, repeatedly through at least 13 Jul.
 
-This makes the unresolved 503/505 occupancy conspicuous but does not justify inferring vacancy or demolition there. The later Wolf & Miller evidence now helps mainly by **excluding that firm as a likely 1916 solution** and by sharply dating a later 505 transition to summer/fall 1918.
+This makes the unresolved 503/505 occupancy conspicuous but does not justify inferring vacancy or demolition there. The later Wolf & Miller evidence now helps mainly by **excluding that firm as a likely 1916 solution** and by sharply dating a later 505 transition to summer/fall 1918. The Hylton references add a possible path for resolving 503, but identity must be established before using them as business-history evidence.
 
 ## Next questions
 
 1. Find direct 1916 evidence for 503 Main.
 2. Find direct 1916 evidence for 505 Main.
-3. Search 1916 for unknown occupants, Harding property references, rent/lease/vacancy/opening/remodeling notices immediately south of Bradley at 507.
-4. Separately search **July–October 1918** for the exact Wolf & Miller move/opening at 505 and identify the predecessor business.
-5. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
-6. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
-7. Determine whether Harding remains at 511 for the entire year.
-8. Build a complete issue/page inventory for the 1916 Oregon City Courier.
-9. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
-10. Perform the required full visual page-by-page scan review when actual scan rendering is available.
+3. Identify the full name of the **L. Hylton** who operated 503 Main in 1914 and trace any sale, move, license change, or business cessation.
+4. Search 1916 for unknown occupants, Harding property references, rent/lease/vacancy/opening/remodeling notices immediately south of Bradley at 507.
+5. Separately search **July–October 1918** for the exact Wolf & Miller move/opening at 505 and identify the predecessor business.
+6. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
+7. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
+8. Determine whether Harding remains at 511 for the entire year.
+9. Build a complete issue/page inventory for the 1916 Oregon City Courier.
+10. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
+11. Perform the required full visual page-by-page scan review when actual scan rendering is available.
