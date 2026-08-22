@@ -24,6 +24,18 @@ Three concrete retrieval facts are now confirmed:
 
 The LDSGenealogy access page for the item likewise points directly to FamilySearch catalog `1844954` and explains the possible camera / restricted-camera / microfilm-only access states.
 
+## Related statewide directory image identifiers recovered
+
+A separate but potentially useful source is the **1915–1916 Oregon and Washington State Gazetteer and Business Directory**. OnGenealogy exposes direct FamilySearch image links for this work. The current research session extracted these image ARKs before FamilySearch timed out:
+
+- Part 2: `ark:/61903/3:1:3QS7-99NM-LH7` — FamilySearch catalog `1439422`
+- Part 3: `ark:/61903/3:1:3QSQ-G9NM-PVLF` — FamilySearch catalog `1439422`
+- Part 4: `ark:/61903/3:1:3QS7-89NM-FLKC` — FamilySearch catalog `1439422`
+
+The exact part containing the Oregon City section has not yet been established in-session. These identifiers are **not** the same as the local Sohns & Woodbeck directory, but the statewide directory may independently list Oregon City billiard halls, cigar dealers and other merchants active during 1915–16.
+
+Current limitation: the FamilySearch image requests time out/restrict access in this environment. Preserve these ARKs for later direct retrieval or mirror searching.
+
 ## Evidence that the directory is detailed enough to matter
 
 Official historic-resource work does more than merely cite the directory. For example, Petzold Building research uses the 1916–17 directory to state that the structure at 714 Main was known as the **Nobel Building in 1916**. This shows the volume contains sufficiently specific local information to resolve building/business identities, increasing the likelihood that its Oregon City section can directly clarify the 500 block.
@@ -45,13 +57,14 @@ This directory is likely the best surviving single source for resolving the 1916
 ## Target extraction when the directory is recovered
 
 1. Search exact addresses: **501, 503, 505, 507, 509, 511 Main**.
-2. Search names/businesses already known from adjacent years: **L. Hylton / Louis Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Wolf, Miller, shoe repair, pool/billiards, cigars, soft drinks**.
+2. Search names/businesses already known from adjacent years: **L. Hylton / Louis Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Wolf, Miller, Frank D. Cox, William Myers Jr., pool/billiards, cigar dealers, shoe repair, soft drinks**.
 3. Determine whether the volume contains a reverse/street directory; if so, transcribe the entire 500 block of Main.
 4. Capture page images and visually verify all relevant entries rather than relying solely on OCR or quotations in later historic-resource forms.
 5. If FamilySearch access is restricted, use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
+6. In parallel, search the statewide 1915–16 directory ARKs above for Oregon City business classifications if those images become accessible.
 
 ## Access status
 
-No freely accessible full scan of the directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, the Oregon Historical Society holding is specifically documented, and the FamilySearch catalog record is now precisely identified.
+No freely accessible full scan of the local directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, the Oregon Historical Society holding is specifically documented, and the FamilySearch catalog record is now precisely identified. Related statewide directory image ARKs have also been recovered, but image rendering remains restricted/timed out.
 
 Do **not** infer the 503 or 505 occupant from the mere existence of the directory. This file is a source-recovery lead until the actual directory pages are obtained and visually inspected.
