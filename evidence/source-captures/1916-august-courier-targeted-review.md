@@ -25,17 +25,15 @@ Issue landing pages / examples:
 
 This gives **40 Courier pages** for August 1916 to be visually inspected when the actual page scans can be rendered reliably.
 
-## 3 August 1916 — chronological OCR/text pass begun
+## 3 August 1916 — targeted OCR/text pass
 
-Current chronological position: **3 Aug 1916 Courier**.
+The issue is confirmed as **8 pages**. Indexed OCR/page text has been checked using page-specific and target-specific searches for the 503/505 investigation. No clean direct exact-address hit for **503 Main** or **505 Main** surfaced.
 
-The issue is confirmed as **8 pages**. Indexed OCR/page text has been checked across the issue using page-specific and target-specific searches for the 503/505 investigation. No clean direct exact-address hit for **503 Main** or **505 Main** surfaced in this pass.
-
-Important: this remains **OCR/TEXT ONLY**. Attempts to open the page PDF from the Historic Oregon Newspapers viewer returned a cache/retrieval failure, so the actual scan could not be visually inspected in this pass. Under `RESEARCH-STANDARD.md`, the page images therefore remain unverified rather than being treated as visually reviewed.
+Important: this remains **OCR/TEXT ONLY**. Attempts to open the actual page scans/PDFs through the archive returned retrieval/cache failures, so the issue cannot be marked visually reviewed.
 
 ### Page 8 useful context
 
-Page 8 contains a City Council continuation and a separate downtown/industrial item. The OCR mentions Main Street work at Seventeenth and Eighteenth and Hawley Pulp & Paper property on the east side of Main between Third and the alley between Fourth and Fifth. Neither item resolves 503/505, but both demonstrate that Main Street location language is recoverable in the issue and that failure to find `503 Main`/`505 Main` in OCR cannot be equated with vacancy.
+Page 8 contains a City Council continuation and a separate downtown/industrial item. OCR mentions Main Street work at Seventeenth and Eighteenth and Hawley Pulp & Paper property on the east side of Main between Third and the alley between Fourth and Fifth. Neither item resolves 503/505, but both demonstrate that location language is recoverable in the issue and that OCR silence at 503/505 cannot be treated as vacancy.
 
 Page 8 source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-03/ed-1/seq-8/
@@ -43,12 +41,60 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-03/ed-1/seq-8/
 ### 3 Aug status
 
 - Pages known: **1–8**
-- Targeted OCR/text review: **in progress / substantial**
+- Targeted OCR/text review: **substantial; no direct 503/505 hit recovered**
 - Direct 503 Main hit: **none recovered**
 - Direct 505 Main hit: **none recovered**
-- Visual scan status: **RETRIEVAL GAP / not visually verified in this pass**
+- Visual scan status: **RETRIEVAL GAP / not visually verified**
 
-The next chronological step is to finish any remaining page-level OCR checks for 3 Aug and then proceed to **10 Aug 1916**.
+## 10 August 1916 — targeted OCR/search begun
+
+The 10 Aug issue is also an 8-page issue. Exact-string and nearby-business searches have not yet surfaced a clean **503 Main** or **505 Main** hit. Search-engine indexing for this issue is weak and frequently returns neighboring August dates, so this remains an incomplete OCR/text pass rather than a negative result.
+
+Status:
+- Pages known: **1–8**
+- Targeted OCR/text review: **begun / incomplete**
+- Direct 503 Main hit: **none recovered yet**
+- Direct 505 Main hit: **none recovered yet**
+- Visual scan status: **not visually verified**
+
+## 17 August 1916 — strong neighboring-address continuity
+
+Page 8 contains the recurring `Picture Tells the Story` business panel and gives two clean exact-address anchors:
+
+- **Champion Smith & Telford — 502 Main Street**
+- **H. W. Streibig's Sanitary Market — 528 Main Street**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-17/ed-1/seq-8/ocr/
+
+This extends both even-numbered address anchors deeper into August. It does not identify 503 or 505.
+
+The same panel format also continues to advertise **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without an address printed in the panel.
+
+## 24 August 1916 — neighboring-address continuity repeated
+
+Page 8 again carries the `Picture Tells the Story` panel and repeats:
+
+- **Champion Smith & Telford — 502 Main Street**
+- **H. W. Streibig's Sanitary Market — 528 Main Street**
+- **Raasch & Lamb — Pool and Billiards / Everything for Smokers** (no street number in the panel)
+- **James Wilkinson, florist — shop 612 Main St.**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-24/ed-1/seq-8/ocr/
+
+These are useful address controls, but no 503/505 exact-address hit was recovered from the targeted searches.
+
+## Raasch & Lamb name correction / source-extraction caution
+
+The 1 Jun 1916 `STORE CHANGES ABOUT` article in the Courier identifies the pool-hall firm as **Raasch & Lamb** and says they would vacate the pool hall next to the entrance of the Andresen Building and move to a basement room. The page's OCR text reads **Raasch & Lamb**, consistent with the firm's repeated advertising throughout 1916.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-01/ed-1/seq-5/ocr/
+
+One PDF-derived text representation rendered the name as `Krause & Lamb`; because the newspaper OCR and repeated contemporary ads consistently give **Raasch & Lamb**, `Krause` should be treated as a text-extraction error unless the actual scan proves otherwise.
+
+This is another reason not to promote search/PDF extraction text to visual verification.
 
 ## Targeted 503 / 505 OCR search across August
 
@@ -61,26 +107,23 @@ This is **not negative evidence**. OCR can miss addresses, display ads, damaged 
 
 ## Neighboring-address continuity
 
-The recurring classified business-directory series that supplied repeated 507 / 509 / 511 exact-address entries earlier in 1916 is strongly represented through July in the recovered evidence. Current indexed August searches did not yet recover clean exact-address continuations for Bradley 507, Brightbill 509, or Harding 511. That may represent a change in ad placement or indexing rather than a tenant change.
+The strongest August exact-address continuity currently recovered is on the even-numbered side:
 
-Known July endpoints remain:
+- **502 Main — Champion Smith & Telford**, directly present 17 Aug and 24 Aug
+- **528 Main — H. W. Streibig's Sanitary Market**, directly present 17 Aug and 24 Aug
+
+For the odd-numbered target-side businesses, the last clean exact-address endpoints still remain:
 
 - **507 Main — W. W. Bradley**, through at least 20 Jul 1916
 - **509 Main — H. P. Brightbill**, through at least 27 Jul 1916
 - **511 Main — George A. Harding**, through at least 13 Jul 1916
 
-The August review should explicitly test whether each continues.
-
-## Other August observations
-
-- 3 Aug, 10 Aug, 17 Aug, 24 Aug and 31 Aug are 8-page issues.
-- 24 Aug advertising still contains **Raasch & Lamb — Pool and Billiards / Everything for Smokers**, useful for separating their business from the distinct 504 Main Oldstein/Wade pool-hall interest transfer in December 1916.
-- No August result found in this targeted pass should be treated as complete until every page image is visually inspected.
+The remaining August work should explicitly test whether Bradley, Brightbill, and Harding continue in the later August issues.
 
 ## Next chronological action
 
-1. Finish the **3 Aug 1916 Courier** page-level OCR/text checks and keep all pages non-visual until the scans can be rendered.
-2. Then work **10 Aug 1916**, pages 1–8, followed by 17 Aug, 24 Aug and 31 Aug.
-3. On every page, inspect specifically for 501–511 Main, Hylton, Harding property references, pool/billiard/cigar businesses, clothing/shoe stores, vacancies, leases, fire/rebuilding/remodeling notices, and business-directory blocks.
-4. Log each page as **VISUALLY VERIFIED**, **OCR/TEXT ONLY**, or **RETRIEVAL GAP** under the project standard.
-5. Do the August 1916 **Oregon City Enterprise** in parallel after or alongside the Courier.
+1. Continue the **10 Aug 1916 Courier** OCR/page-level pass.
+2. Then work 17 Aug, 24 Aug and 31 Aug comprehensively rather than only the recovered business-panel pages.
+3. Search each issue for 501–511 Main, Hylton, Harding property references, pool/billiard/cigar businesses, clothing/shoe stores, vacancies, leases, fire/rebuilding/remodeling notices, and business-directory blocks.
+4. Keep every page **OCR/TEXT ONLY** or **RETRIEVAL GAP** until the actual scanned page itself is visually inspected.
+5. After the Courier, perform the August 1916 **Oregon City Enterprise** pass.
