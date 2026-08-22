@@ -27,7 +27,27 @@ This corrects the earlier archive uncertainty that treated Wiitanen ownership of
 
 ## Construction Date
 
-A 2017 article states the building was constructed in 1919. This remains a working hypothesis for the surviving building and should be tested against assessor records, permits, tax records, Sanborn maps, city directories, and deeds.
+A 2017 article states the building was constructed in 1919. The City of Oregon City's downtown historic inventory independently treats the surviving 503 building as **circa 1919**. This remains a working construction-date conclusion for the present building rather than proof that any particular restaurant opened in 1919.
+
+The city inventory gives additional chronology that sharpens this distinction:
+
+- the building appears on the **1925 Sanborn map as a restaurant**;
+- **1926 newspaper advertisements identify the business as Kwality Restaurant**;
+- the **1947 business directory** uses the name **Kwality Cafe**;
+- 1983 survey research reported that the **Wolf family owned the property from about 1922 to 1972**.
+
+City inventory source (quoted in a 2026 Oregon City public-meeting attachment): https://mccmeetingspublic.blob.core.usgovcloudapi.net/oregoncity-meet-73673237b9124664a790d047658a9813/ITEM-Attachment-001-49626a7ef29942e0be519c46b2f656fc.pdf
+
+A separate **8 June 1922 Banner-Courier** advertisement identifies **Quality Restaurant at 427 Main Street**, not 503 Main. Therefore `Quality/Kwality` wording in 1922 cannot by itself be assumed to refer to the later 503 business. Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
+
+### Working construction/business distinction
+
+- **c.1919** — likely construction date of the surviving 503 building.
+- **1922** — city survey retrospectively places Wolf-family property ownership beginning about this year; direct deed proof still needed.
+- **1925** — Sanborn use shown as restaurant.
+- **1926** — Kwality Restaurant named in newspaper advertising.
+
+Do **not** currently state that Kwality Cafe opened in 1919. The building date and the documented restaurant-name chronology are separate questions.
 
 ## Kwality Cafe Evidence
 
@@ -38,6 +58,14 @@ A 2017 article states the building was constructed in 1919. This remains a worki
 - `E-001` - 2017 article says the building originally housed the Kwality Cafe.
 
 The archive currently treats Kwality Cafe, New Kwality Cafe, and Larry's Kwality Cafe as related but distinct names until the sequence and ownership continuity are proven.
+
+The earliest presently documented use of the **Kwality Restaurant** name at 503 is **1926** according to the City historic inventory. The inventory's statement that the 1925 Sanborn depicts a restaurant gives a one-year-earlier use anchor without proving the restaurant's name in 1925.
+
+## Wolf-family lead
+
+The City historic inventory says 1983 survey research found the **Wolf family owned 503 Main from about 1922 to 1972**. This is potentially significant because **Wolf & Miller** operated at 505 Main in 1918, and Gilbert Miller later lived in Oregon City. Independent genealogical material identifies Gilbert Miller's first wife as **Clara Rose Wolf** (1879-1921), daughter of Henry and Elizabeth (Conrad) Wolf, and records her death in Oregon City.
+
+This creates a plausible family-network lead, but **does not yet prove that the Wolf family reported as owning 503 is the same Wolf family associated with Gilbert Miller or the `Wolf` in Wolf & Miller**. A deed, directory, probate, tax, or business record identifying the 503 owner by full name is required before connecting those chains.
 
 ## The Wheel at 503 Main
 
@@ -63,6 +91,11 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three disti
 ## Research Priorities
 
 - Verify whether 1919 was original construction, a remodel, a rebuild, or an inherited record date.
+- Identify the builder/owner associated with the circa-1919 construction.
+- Obtain the **1925 Sanborn** and visually inspect the 503/505 block.
+- Locate the **1926 Kwality Restaurant advertisements** cited by the City inventory and record proprietor/address wording.
+- Identify the Wolf-family member(s) who owned 503 circa 1922–1972 and obtain deed/tax proof.
+- Test whether that Wolf family is related to the Wolf & Miller business / Gilbert Miller family network without assuming identity.
 - Establish the year-by-year occupant sequence for 503 Main.
 - Document Raye's acquisition of The Wheel business.
 - Locate the **Raye → Dick/Sheila Wheel business-sale records**.
@@ -73,6 +106,10 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three disti
 ## Open Questions
 
 - When exactly was the current 503 Main building constructed?
+- Who commissioned/owned the circa-1919 building?
+- Who owned 503 when the Wolf-family ownership began circa 1922, and what is the full name of the Wolf purchaser?
+- Is that Wolf family connected to Gilbert Miller / Wolf & Miller, or is the surname overlap coincidental?
+- When exactly did the restaurant use begin at 503, and when did the name Kwality Restaurant first appear?
 - When did each Kwality-related business operate?
 - What were the exact date and terms of Raye's sale of The Wheel business to Dick and Sheila?
 - When did Dick and Sheila purchase the 503 building, and from whom?
