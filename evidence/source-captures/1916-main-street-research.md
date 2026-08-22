@@ -130,6 +130,26 @@ New evidence materially changes how this anchor should be used:
 
 **Interpretation:** Wolf & Miller appears to be a **mid-1918 arrival in Oregon City**, probably between July and October, not a plausible default candidate for the 1916 occupant of 505. The 1916 search should therefore focus on other tenants/businesses, Harding property references, leases, vacancies, and rebuilding/remodeling notices. See `1916-forward-505-leads.md` for the detailed transition evidence.
 
+## High-value directory sources located
+
+Two directory sources may be more decisive for 503/505 than OCR newspaper searching:
+
+1. **Sohns & Woodbeck, _Clackamas County and Oregon City Directory, 1916-1917_.** A National Register bibliography identifies this exact directory and states that a copy is on file at the **Oregon Historical Society, Portland**. Oregon City historic-site forms also repeatedly cite the 1916-17 city directory as an occupancy source. This is now a priority source because it may list 503 and 505 Main directly by occupant/business.
+2. **R. L. Polk & Co., _Oregon and Washington State Gazetteer and Business Directory, 1915-1916_.** FamilySearch/online directory indexes confirm that the 1915-16 edition exists in multiple digitized parts. It may provide business-name continuity even if it lacks a full street-by-street listing.
+
+Current web indexing has not exposed the 503/505 entries themselves, so these are **source leads**, not occupant conclusions.
+
+## Newspaper-title coverage clarification
+
+The **Morning Enterprise** continued publishing in Oregon City from 1911 to 1933, but Historic Oregon Newspapers' digitized holdings for LCCN `sn00063701` contain **913 issues from 8 Jan 1911 through 23 Dec 1913 only**. Therefore there are no 1916 Morning Enterprise scans in that digitized collection.
+
+For the currently available Historic Oregon Newspapers digital corpus, the 1916 page-by-page newspaper scope remains:
+
+- **Oregon City Courier** (`sn00063698`)
+- **Oregon City Enterprise** (`sn00063700`)
+
+The still-existing 1916 Morning Enterprise may remain an **offline/microfilm retrieval lead**, but it cannot be treated as an available digital title unless another holder supplies 1916 scans.
+
 ## Initial issue-inventory observations
 
 Several 1916 Courier issues surfaced with explicit page counts:
@@ -158,12 +178,14 @@ This makes the unresolved 503/505 occupancy conspicuous but does not justify inf
 
 1. Find direct 1916 evidence for 503 Main.
 2. Find direct 1916 evidence for 505 Main.
-3. Identify the full name of the **L. Hylton** who operated 503 Main in 1914 and trace any sale, move, license change, or business cessation.
-4. Search 1916 for unknown occupants, Harding property references, rent/lease/vacancy/opening/remodeling notices immediately south of Bradley at 507.
-5. Separately search **July–October 1918** for the exact Wolf & Miller move/opening at 505 and identify the predecessor business.
-6. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
-7. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
-8. Determine whether Harding remains at 511 for the entire year.
-9. Build a complete issue/page inventory for the 1916 Oregon City Courier.
-10. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
-11. Perform the required full visual page-by-page scan review when actual scan rendering is available.
+3. Obtain/search the **Sohns & Woodbeck 1916-1917 Clackamas County and Oregon City Directory**, preferably the street/business sections for Main Street.
+4. Obtain/search the **1915-1916 Polk Oregon/Washington State Gazetteer and Business Directory** for Oregon City businesses.
+5. Identify the full name of the **L. Hylton** who operated 503 Main in 1914 and trace any sale, move, license change, or business cessation.
+6. Search 1916 for unknown occupants, Harding property references, rent/lease/vacancy/opening/remodeling notices immediately south of Bradley at 507.
+7. Separately search **July–October 1918** for the exact Wolf & Miller move/opening at 505 and identify the predecessor business.
+8. Determine whether Bradley remains at 507 for the entire year and when/if a transition occurs.
+9. Determine whether Brightbill remains at 509 for the entire year and when/if a transition occurs.
+10. Determine whether Harding remains at 511 for the entire year.
+11. Build a complete issue/page inventory for the 1916 Oregon City Courier.
+12. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
+13. Perform the required full visual page-by-page scan review when actual scan rendering is available.
