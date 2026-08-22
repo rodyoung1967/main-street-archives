@@ -14,6 +14,15 @@ Representative official-source confirmations:
 - Oregon Historic Site Record for the Petzold/Nobel Building: cites `Sohns & Woodbeck 1916-1917` and uses the directory to identify the building in 1916.
 - City of Oregon City Downtown Final Report bibliography: `Sohns & Woodbeck. Clackamas County and Oregon City Directory. Oregon City, OR, 1917.`
 
+## Confirmed repositories / access leads
+
+Two concrete holdings/access routes are now confirmed:
+
+1. **Oregon Historical Society, Portland** — the National Register documentation for the Petzold Building explicitly states that `Sohns and Woodbeck. 1916-1917 Clackamas County and Oregon City Directory` is **on file at Oregon Historical Society, Portland**.
+2. **FamilySearch Library** — genealogy directory indexes specifically list **`1916 Oregon City, city directory`** as a FamilySearch Library holding. This may be the same Sohns/Johns & Woodbeck volume or a cataloged derivative; the actual images/catalog record still need to be opened and compared.
+
+These are stronger than the earlier generic repository hypotheses and should be the first two retrieval routes.
+
 ## Why this source is critical
 
 This directory is likely the best surviving single source for resolving the 1916 occupancy gap at **503 Main** and **505 Main**. Newspaper OCR has failed to produce a defensible exact-address occupant for either address in 1916, but a city/county directory may list:
@@ -35,6 +44,6 @@ This directory is likely the best surviving single source for resolving the 1916
 
 ## Access status
 
-No freely accessible full scan of the directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it. Likely repositories include Oregon City Planning/Community Development records, the Museum of the Oregon Territory / Clackamas County Historical Society, Oregon Historical Society, and library/special-collections holdings.
+No freely accessible full scan of the directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, and the Oregon Historical Society holding is now specifically documented.
 
 Do **not** infer the 503 or 505 occupant from the mere existence of the directory. This file is a source-recovery lead until the actual directory pages are obtained and visually inspected.
