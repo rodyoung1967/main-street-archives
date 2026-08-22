@@ -23,9 +23,18 @@ Known issue length from recovered page navigation/search results: **8 pages**.
 
 ### 14 January 1915
 
-Issue review **in progress**. Recovered pages include 1, 3, 4, 7 and 9; remaining pages must be retrieved/reviewed before the issue is marked complete.
+Known issue length: **8 pages**. Pages **1 and 3–8 have been reviewed** through the archive OCR/page interface; page 2 remains a retrieval/search gap and therefore the issue is **not yet complete** under the project rule.
 
-Relevant item from page 1: city street committee budget retained **Main Street cleaning** and stated that no new street work was planned, with funds directed to maintenance of existing improved streets. This is useful streetscape context but not evidence about an individual 503/505 building.
+| Page | Review status | Notes |
+|---|---|---|
+| 1 | reviewed — relevant context | City street committee budget retained **Main Street cleaning** and stated no new street work was planned, with funds directed to maintenance of existing improved streets. Useful streetscape context, not building-specific evidence. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-1/ |
+| 2 | retrieval gap | Exact-page indexed search returned no result; do not treat as reviewed. |
+| 3 | reviewed | General/editorial/legal material; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-3/ |
+| 4 | reviewed | Editorial/business material. Includes Bank of Oregon City at Eighth & Main, useful only as a city address anchor; no Fifth–Sixth target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-4/ |
+| 5 | reviewed | Delinquent-tax material; no target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-5/ |
+| 6 | reviewed | Delinquent-tax material; no target-block item identified in recovered OCR. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-6/ |
+| 7 | reviewed | Delinquent-tax continuation plus department-store advertising; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-7/ |
+| 8 | reviewed | Department-store clearance advertising; no target-block item identified. https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-14/ed-1/seq-8/ |
 
 ### 21 January 1915
 
@@ -44,4 +53,4 @@ Full 1915 issue/page checklist still needs to be built. Targeted indexed searche
 
 ## Current coverage warning
 
-Do **not** describe 1915 as exhaustively reviewed yet. The Courier January review has begun at page level, with the 7 January issue nearly complete except page 1, while later January issues and the Enterprise remain incomplete.
+Do **not** describe 1915 as exhaustively reviewed yet. The Courier January review is proceeding at page level. The 7 January issue is complete except for page 1; the 14 January issue is complete except for page 2; later January issues and the Enterprise remain incomplete.
