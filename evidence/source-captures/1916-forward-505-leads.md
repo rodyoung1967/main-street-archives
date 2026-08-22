@@ -72,21 +72,26 @@ Therefore **Oregon City Shoe Store is ruled out as the immediate predecessor or 
 
 ## Building chronology lead — current 505 building appears later than Wolf & Miller
 
-The City of Oregon City's downtown historic inventory lists the existing **505 Main Street** resource with an estimated construction date of approximately **1920**; the same inventory dates **503 Main** to approximately **1919**.
+The **2000 City of Oregon City Downtown Community Plan historic inventory** has now been **visually inspected at the relevant appendix page**. Appendix B, page 30, directly lists:
+
+- **503 Main St. — Kwality Cafe — c.1919**
+- **505 Main St. — Unknown — c.1920**
 
 Source:
 https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
-If that dating is correct, Wolf & Miller's documented **1918 operation at 505 Main** occurred in a **predecessor structure**, not the present circa-1920 building. This is potentially important because the search should distinguish **address continuity** from **building continuity**: a business could remain at 505 while the physical storefront was replaced shortly afterward.
+This upgrades the c.1920 entry from an indexed/text-only lead to a **visually verified inventory entry**. It remains a later historic-inventory estimate, not primary proof of the original construction event.
 
-Status: **indexed report lead, not visually verified in the current session**. The PDF text/index was retrievable, but page-image screenshot retrieval failed, so this construction-date inference remains open for visual confirmation before it is promoted to visually verified evidence.
+The **1925 Sanborn Sheet 6** has also been visually inspected and shows separate **503** and **505** occupancies, with 503 labeled as a restaurant and 505 as billiards/cigars. That confirms a 505 premises existed by 1925 and materially conflicts with treating the later 2021 `1940` date as the literal original construction date of the entire 505 premises. The 1940 date could still reflect a rebuild, major alteration, facade work, assessor convention, or other later event; primary permit/assessor evidence is still needed to resolve surviving fabric.
+
+If the City inventory's c.1920 dating is broadly correct, Wolf & Miller's documented **1918 operation at 505 Main** occurred in a **predecessor structure**, not the circa-1920 premises shown by the later map sequence. This is potentially important because the search must distinguish **address continuity** from **building continuity**: a business could remain at 505 while the physical storefront was replaced shortly afterward.
 
 ## Why this matters for the 1916 pass
 
 - 505 Main is unresolved after the Dec. 1913 Chicago Store fire.
-- Wolf & Miller is now even more securely excluded as a plausible **1916** occupant.
-- The Oregon City Shoe Store is also excluded as the missing 505 predecessor because it was simultaneously operating at Main & 7th in Oct. 1918.
-- The apparent circa-1920 construction date for the current 505 building means the unresolved 1914–1918 occupancy may concern an earlier building at the same address.
+- Wolf & Miller is securely excluded as a plausible **1916** occupant.
+- The Oregon City Shoe Store is excluded as the missing 505 predecessor because it was simultaneously operating at Main & 7th in Oct. 1918.
+- The visually verified c.1920 inventory date and 1925 Sanborn show that the unresolved 1914–1918 occupancy may concern an **earlier building at the same numbered address**.
 - The 1916 search should return to unidentified tenants/businesses, George Harding property references, leases, vacancies, rebuilding/remodeling, and other commercial uses at 505.
 - The narrower Aug–Oct 1918 window may reveal the **immediate predecessor** at 505; identifying that predecessor could backsolve occupancy into 1917 or 1916.
 
@@ -96,8 +101,8 @@ Status: **indexed report lead, not visually verified in the current session**. T
 2. **Aug–Oct 1918:** Wolf & Miller relocation/opening/purchase/lease notices and any predecessor at 505.
 3. Shoe-store, shoe-repair, clothing, furnishings, partnership, dissolution, relocation, opening, and remodeling notices.
 4. Any George Harding / property-owner / lease references tied to the post-1913 fire site.
-5. Building permits, fire-insurance maps, assessment records, or newspaper construction notices that can confirm when the predecessor 505 structure was replaced by the circa-1920 building.
+5. Building permits, assessment records, deed/tax records, or newspaper construction notices that can confirm when the predecessor 505 structure was replaced and explain the c.1920 vs. 1940 survey-date conflict.
 
 ## Research-standard warning
 
-These are text/OCR/search-derived leads unless an original page scan has been visually inspected. They remain subject to the visual-verification requirements in `RESEARCH-STANDARD.md`.
+The 2000 inventory page and 1925 Sanborn target sheet have been visually inspected. Newspaper findings retain their individual verification status. Inventory/Sanborn evidence should not be overread as proof of the exact construction mechanics or exact surviving fabric without permits, assessor records, deeds, or other primary structural evidence.
