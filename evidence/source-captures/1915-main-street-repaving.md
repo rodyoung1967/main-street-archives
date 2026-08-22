@@ -1,0 +1,170 @@
+# 1915 Main Street Repaving — Source Capture
+
+Status: **active / direct primary-source sequence**
+
+This file captures the 1915 Main Street repaving sequence because it bears directly on the physical condition of the Fifth–Sixth Main frontage and on the identity of Main Street property owners. It does **not** by itself establish the existence or non-existence of any specific 503/505 building.
+
+## 1 April 1915 — Main Street repaving under active consideration
+
+**Oregon City Courier, 1 April 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/seq-1/
+
+OCR:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-01/ed-1/seq-1/ocr/
+
+The Courier reports that City Engineer Charles S. Noble and T. L. Charman traveled to Victoria to inspect asphaltic-concrete paving while Oregon City was deciding how to repave Main Street. The article explicitly refers to the coming **repaving of Main Street**, showing that this was replacement/resurfacing of an already improved street, not initial street opening.
+
+## 8 April 1915 — council and property-owner debate
+
+**Oregon City Courier, 8 April 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-08/ed-1/seq-1/
+
+OCR:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-08/ed-1/seq-1/ocr/
+
+The council debated El Oso versus Worswick asphaltic concrete. Councilman Albright proposed putting the choice to **Main Street property owners**.
+
+## 15 April 1915 — named Main Street property-owner committee
+
+**Oregon City Courier, 15 April 1915, pp. 1, 8**
+
+Page 1:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-1/
+
+Page 8 continuation:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-15/ed-1/seq-8/
+
+The paper reports that a committee representing Main Street property owners recommended Worswick paving. The committee is named as:
+
+- William Andresen
+- First National Bank
+- Bank of Oregon City
+- Rev. Father A. Hillebrand
+- Rev. W. T. Milliken
+- Frank Jaeggar / Jaggar (OCR spelling varies)
+- J. J. Tobin
+- John Knapp
+- Forbes Pratt
+- J. H. Pratt
+- Theodore Osmund, representing Hawley interests
+
+This is especially important for the Block 26 investigation because **First National Bank** and **Frank Jaggar** also appear in the 1913 Block 26 assessment evidence (lots 6 and 7 respectively). The 1915 article therefore provides independent evidence that those same names were still participating as Main Street property owners. It does **not yet map either owner to a specific modern street number**.
+
+The continuation says the city had been trying for roughly **two years** to settle the Main Street paving issue, useful context for distinguishing the street project from building construction/demolition.
+
+## 29 April 1915 — Worswick direction adopted
+
+**Oregon City Courier, 29 April 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-29/ed-1/seq-1/
+
+The council cleared the El Oso ordinance and moved toward an asphaltic-concrete specification favored by the property owners. Estimated cost was roughly $15,500. The article also refers to money still due on the **last Main Street paving job**, further confirming a resurfacing/replacement context.
+
+## 24 June 1915 — contract awarded
+
+**Oregon City Courier, 24 June 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-24/ed-1/seq-1/
+
+OCR:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-24/ed-1/seq-1/ocr/
+
+Council accepted the Worswick paving bid at **$1.20 per square yard**, with a total contract cap of **$14,184** and a maintenance bond.
+
+## 8 July 1915 — bond settled; work expected shortly
+
+**Oregon City Courier, 8 July 1915, p. 3**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-08/ed-1/seq-3/
+
+PDF:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-08/ed-1/seq-3.pdf
+
+The council accepted the paving company's bond arrangements, and the contractor said work should begin in about two weeks.
+
+A separate front-page article the same day proposed renaming Main Street **McLoughlin Avenue** after completion of the new paving, describing Main Street as the city's principal business thoroughfare.
+
+Front page:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-08/ed-1/seq-1/
+
+## 22 July 1915 — physical work about to start
+
+**Oregon City Courier, 22 July 1915, p. 5**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-5/
+
+The article states that work would begin that Saturday. It gives unusually useful physical details:
+
+- the interurban company was correcting track grades;
+- the paving company expected about 500 yards per day;
+- **old brick was to be cleared away**;
+- one side of the street would be paved at a time to minimize interruption of traffic.
+
+This is evidence of active replacement of the street surface in the business district. It is **not evidence that storefront buildings were removed**. In fact, the effort to preserve traffic through the business district is more consistent with an active commercial frontage than wholesale building demolition, though that inference must remain cautious.
+
+## 19 August 1915 — Main Street actively being paved
+
+**Oregon City Courier, 19 August 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-19/ed-1/seq-1/
+
+The council discussed the Worswick pavement while it was being installed on Main Street. City Engineer Miller said the pavement would take time to harden fully.
+
+## 26 August 1915 — old paving physically exposed
+
+**Oregon City Courier, 26 August 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-26/ed-1/seq-1/
+
+Workmen removing **old brick pavement on Main Street** near Eighth and Main uncovered an old hand-wrought survey pin. This is another direct physical description of the street-work process.
+
+## 9 September 1915 — business section nearly complete
+
+**Oregon City Courier, 9 September 1915, p. 8**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-8/
+
+PDF:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-09/ed-1/seq-8.pdf
+
+Headline language describes the **business section** as about to be "all new" in the sense of its pavement. The report says the Main Street paving would be completed by mid-September, with the southern half newly surfaced and tied into paving farther north.
+
+## 25 November 1915 — year-end municipal summary
+
+**Oregon City Courier, 25 November 1915, p. 1**
+
+Canonical:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-1/
+
+The year-end municipal financial summary explicitly lists **Main Street** among streets improved with hard-surface paving in 1915. It also records earlier Main Street work in 1913.
+
+## Interpretation for 503/505 building question
+
+The repaving sequence is important negative/contextual evidence:
+
+1. The city and newspaper repeatedly describe Main Street as an active **business thoroughfare** during 1915.
+2. Main Street property owners were organized and actively participating in the paving decision.
+3. The paving contractor planned to work one side at a time to preserve traffic and access.
+4. The physical work described is removal of old brick street pavement and replacement with asphaltic concrete.
+5. None of the recovered repaving reports says that the 503/505 storefront frontage was vacant, demolished, missing, or being rebuilt.
+
+This does **not prove** that a particular building at 505 survived unchanged after the December 1913 Chicago Store fire. But it weighs against any theory of a broad, long-lived gap in the Fifth–Sixth Main commercial frontage during 1915. A specific 505 occupancy/building-status source is still required.
+
+## Follow-up
+
+- Complete page-by-page review of all 1915 Courier and Enterprise issues.
+- Search assessment notices generated by the paving project; these may identify owners by frontage or lot and could help map Block 26 lots to numbered addresses.
+- Search for remonstrance/petition lists naming individual Main Street owners.
+- Search for contractor notices, lien notices, improvement assessments, and final acceptance ordinances.
+- Continue looking for direct references to 503, 505, Chicago Store, Harding building, rebuilding, vacancy, demolition, or removal.
