@@ -2,6 +2,21 @@
 
 Status: **active exhaustive pass**
 
+## Project requirement: every page, every available Oregon City newspaper
+
+For this project, a year is **not complete** until every available page of every relevant Oregon City newspaper for that year has been reviewed, not merely searched by OCR/index.
+
+For 1915 this means, at minimum, both digitized Oregon City weeklies currently confirmed in Historic Oregon Newspapers:
+
+- **Oregon City Courier** (`sn00063698`)
+- **Oregon City Enterprise** (`sn00063700`)
+
+Each issue/page must be visually or textually reviewed page-by-page. OCR/index searches are supplemental only. Missing or inaccessible pages must be logged as coverage gaps and are not negative evidence.
+
+The review must capture anything bearing on 501/503/505/507/509/511 Main; Fifth/Main and Sixth/Main anchors; business occupants; owners/landlords; fires; rebuilding; demolition; vacancy; removal; moves; leases; sales; permits; construction; remodeling; street work; photographs; advertisements; and any wording suggesting a building no longer existed or a site was vacant.
+
+This requirement applies prospectively to later years and retrospectively where earlier passes did not meet it.
+
 ## Direct findings
 
 ### W. W. Bradley — 507 Main
@@ -90,7 +105,8 @@ The repeated Holman/Randall advertisements establish a firm **Fifth & Main** sou
 7. Continue the Block 26 lot/address and Willamette Building mapping questions where 1915 evidence bears on them.
 8. Preserve direct PDF/original-image links whenever exposed by Historic Oregon Newspapers.
 9. Record negative search coverage separately from historical absence.
-10. Continue full issue/page review before declaring the year complete.
+10. Complete page-by-page review of **both the Oregon City Courier and Oregon City Enterprise** before declaring 1915 complete.
+11. Maintain an issue/page coverage checklist so the archive can distinguish reviewed pages from gaps.
 
 ## Current 1915 address snapshot
 
