@@ -19,6 +19,21 @@ The 2 Nov issue is a 10-page issue, so November cannot be treated as a uniform 8
 Representative issue source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-02/ed-1/
 
+## 2 November 1916 — 612 Main successor continuity
+
+Page 7 carries the recurring optometrist advertisement at:
+
+- **612 Main St.**
+
+The display-signature name is not cleanly recovered by OCR on this page, but this is the same fall advertising campaign that explicitly says **Successor to Wm. A. Schilling** on surrounding dates.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-02/ed-1/seq-7/ocr/
+
+This extends the post-Schilling optometrist at 612 into November. By 14 Dec 1916 the advertiser is explicitly represented as **Cruden**, strongly suggesting the fall successor campaign belongs to Cruden, though the exact first readable name date still needs scan-level confirmation.
+
+No direct `503 Main` or `505 Main` occurrence was recovered from the targeted indexed search for this issue.
+
 ## 9 November 1916 — recurring business panel
 
 Page 8 carries the `Picture Tells the Story` panel. Indexed OCR identifies:
@@ -49,7 +64,21 @@ This confirms the firm remained actively advertising in mid-November 1916. Combi
 
 No direct `503 Main` or `505 Main` occurrence was recovered from the targeted indexed search for this issue.
 
-## 30 November 1916 — late-month continuity and 612 Main anchor
+## 23 November 1916 — successor wording still explicit at 612
+
+Page 5 again carries the eye-care advertisement:
+
+- **OPTOMETRIST — 612 MAIN ST. — OREGON CITY**
+- **Successor to Wm. A. Schilling**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-23/ed-1/seq-5/
+
+This confirms that the post-Schilling successor remained at 612 through late November. The OCR again fails to cleanly recover the display-signature name, but the 14 Dec ad is explicitly represented as **Cruden**.
+
+No direct `503 Main` or `505 Main` occurrence was recovered from the targeted indexed search for this issue.
+
+## 30 November 1916 — late-month continuity, 612 Main anchor, and Raasch personal-history clue
 
 Page 6 carries the recurring business panel and identifies:
 
@@ -61,13 +90,21 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-30/ed-1/seq-6/ocr/
 
 This extends Raasch & Lamb advertising to the final day of November and extends Wilkinson's 612 Main exact-address continuity into late November.
 
+The front page separately reports a raid on a poker game at **Mrs. Bell's rooming house in the alley between Fourth and Fifth streets**. Among those fined was **A. F. Raasch**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-30/ed-1/seq-1/ocr/
+
+This is a useful personal/local-history clue for Raasch but is **not** evidence locating the Raasch & Lamb business at 503 or 505. Existing business-location evidence still points to the Andresen Building context.
+
 Again, no clean direct `503 Main` or `505 Main` hit surfaced from targeted indexing.
 
 ## Important interpretation
 
 1. **Raasch & Lamb is demonstrably active through at least 30 Nov 1916.** That makes it increasingly unlikely that the Dec. 14 Wade/Oldstein 504 Main transfer represented a renaming or direct continuation of Raasch & Lamb.
-2. The disappearance of particular advertisers such as Champion Smith & Telford or Streibig from some November `Picture Tells the Story` panels is **not proof of tenant departure**. Ad series participation can change independently of occupancy.
-3. No November OCR hit for 503/505 is **not negative evidence**. The actual page images still require visual inspection.
+2. **The Schilling successor at 612 is stable through November.** The successor campaign is present on 2 Nov and explicitly says `Successor to Wm. A. Schilling` on 23 Nov. Later December evidence identifies the optometrist as Cruden.
+3. The disappearance of particular advertisers such as Champion Smith & Telford or Streibig from some November `Picture Tells the Story` panels is **not proof of tenant departure**. Ad series participation can change independently of occupancy.
+4. No November OCR hit for 503/505 is **not negative evidence**. The actual page images still require visual inspection.
 
 ## Current 503 / 505 status
 
@@ -76,7 +113,8 @@ Again, no clean direct `503 Main` or `505 Main` hit surfaced from targeted index
 
 ## Next chronological action
 
-1. Continue issue-level review of **2 Nov** and **23 Nov** where indexing is less helpful.
-2. Search all November pages for 501–511 Main, Hylton, Harding property/building references, cigar/tobacco, pool/billiard, clothing/shoe businesses, leases, vacancies, remodeling, fire/rebuilding, and business-sale notices.
-3. Proceed into **December 1916**, where the 504 Main Wade/Oldstein notice provides a strong adjacent anchor.
-4. Keep all results **OCR/TEXT ONLY** or **RETRIEVAL GAP** until the actual scanned page itself is visually inspected.
+1. Proceed into **December 1916**, where the 504 Main Wade/Oldstein notice provides a strong adjacent anchor.
+2. Search every recoverable December page for 501–511 Main, Hylton, Harding property/building references, cigar/tobacco, pool/billiard, clothing/shoe businesses, leases, vacancies, remodeling, fire/rebuilding, and business-sale notices.
+3. Re-test 507/509/511 continuity.
+4. Find the earliest direct occurrence of **Cruden's name** at 612 and determine whether any sale/transfer notice explains the Schilling succession.
+5. Keep all results **OCR/TEXT ONLY** or **RETRIEVAL GAP** until the actual scanned page itself is visually inspected.
