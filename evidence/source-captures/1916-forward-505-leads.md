@@ -10,48 +10,65 @@ Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 
 The paper identifies **Wolf & Miller, 505 Main** in a business-profile/contest item. The same item says the firm is dissolving partnership, one partner is leaving for Idaho, and the other will restock and continue the business. It describes the store as selling shoes for the whole family, men's clothing and furnishings, with an up-to-date shoe-repairing department using Landis electric machinery.
 
-## New transition evidence — Wolf & Miller was still closing its Springfield store in summer 1918
+## Transition evidence — Wolf & Miller moved from Springfield to Oregon City in summer 1918
 
 This materially narrows the arrival window at 505 Main.
 
-### 27 June / 4 July 1918 — Springfield
+### 27 June / 4 July 1918 — Springfield closing-out sale
 
-The *Springfield News* carried Wolf & Miller closing-out notices stating that the firm was liquidating its entire stock of men's, women's and children's shoes. This establishes that Wolf & Miller was still operating in **Springfield, Oregon**, not yet simply identifiable as an Oregon City business, at the end of June / beginning of July 1918.
+The *Springfield News* carried Wolf & Miller closing-out notices stating that the firm was liquidating its entire stock of men's, women's and children's shoes. This establishes that Wolf & Miller was still actively closing its **Springfield, Oregon** operation at the end of June / beginning of July 1918.
 
 Sources:
 - 27 Jun 1918: https://oregonnews.uoregon.edu/lccn/sn97071003/1918-06-27/ed-1/seq-3/
 - 4 Jul 1918: https://oregonnews.uoregon.edu/lccn/sn97071003/1918-07-04/ed-1/seq-3.pdf
 
-### 19 July 1918 — E. Miller preparing to join family in Oregon City
+### 19 July 1918 — Miller still disposing of Springfield stock
 
-The *Eugene Daily Guard* reported that **E. Miller, of the Wolf & Miller store**, had returned from Oregon City after visiting his family there. The item says that as soon as Miller could **dispose of his stock there** (in the Springfield-area store context), he intended to join his family in Oregon City.
+The *Eugene Daily Guard* reported that **E. Miller, of the Wolf & Miller store**, had returned from Oregon City after visiting his family there. The item says that as soon as Miller could **dispose of his stock** he intended to join his family in Oregon City.
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn96088107/1918-07-19/ed-1/seq-3/
 
+### 20 August 1918 — C. E. Miller leaves Springfield for Oregon City
+
+A later Springfield report, reprinted in the *Eugene Daily Guard*, says **C. E. Miller of the Wolf and Miller Department store**, after closing out his stock for the preceding month, **left the first of that week for Oregon City**, where he would join Mrs. Miller and the family. The report says his family had already been in Oregon City for about two months.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn96088107/1918-08-20/ed-1/seq-5.pdf
+
+This is the strongest move-date evidence recovered so far. It places Miller's personal/business transition out of Springfield at approximately **mid-August 1918**. It does not itself say that Wolf & Miller opened at 505 Main that same day, so the exact 505 opening date still requires a direct Oregon City source.
+
 ### Interpretation
 
-Taken together with the 10 Oct 1918 Oregon City exact-address item, this strongly suggests that Wolf & Miller's Oregon City presence at **505 Main developed between roughly July and October 1918**, rather than being a business already established there in 1916.
+Taken together with the 10 Oct 1918 Oregon City exact-address item, the evidence now gives a tighter sequence:
+
+- **27 Jun–4 Jul 1918:** Wolf & Miller is still advertising its Springfield closing-out sale.
+- **19 Jul 1918:** Miller is still disposing of Springfield stock and plans to join his family in Oregon City afterward.
+- **about mid-Aug 1918:** C. E. Miller leaves Springfield for Oregon City after the close-out.
+- **10 Oct 1918:** Wolf & Miller is explicitly operating at **505 Main, Oregon City**.
+
+Therefore the most likely opening/acquisition window for the 505 operation is now **roughly mid-August to 10 October 1918**, not the broader July–October range previously used.
 
 This is an important correction to the earlier broad 1916–1918 transition target:
 
 - the 1918 Wolf & Miller evidence should **not** be used as indirect evidence for a 1916 occupant at 505;
-- Wolf & Miller was demonstrably still tied to its Springfield operation in summer 1918;
+- Wolf & Miller was demonstrably still tied to its Springfield operation through the summer of 1918;
 - by 10 Oct 1918, Wolf & Miller is explicitly at **505 Main, Oregon City**;
-- therefore the highest-value transition search is now **July–October 1918**, looking for purchase, lease, relocation, opening, transfer of stock, or predecessor-business notices at 505.
+- therefore the highest-value predecessor search is now **Aug–Oct 1918**, looking for purchase, lease, relocation, opening, transfer of stock, or predecessor-business notices at 505.
 
 It remains possible that one member of the partnership or family had an Oregon City connection before the business relocation, but that is different from proving that the partnership operated 505 Main before summer 1918.
 
 ## Why this matters for the 1916 pass
 
 - 505 Main is unresolved after the Dec. 1913 Chicago Store fire.
-- Wolf & Miller no longer provides a plausible working hypothesis for the **1916** occupant; their move to Oregon City appears substantially later.
+- Wolf & Miller is now even more securely excluded as a plausible **1916** occupant.
 - The 1916 search should return to unidentified tenants/businesses, George Harding property references, leases, vacancies, rebuilding/remodeling, and other commercial uses at 505.
+- The narrower Aug–Oct 1918 window may reveal the **immediate predecessor** at 505; identifying that predecessor could backsolve occupancy into 1917 or 1916.
 
 ## Search targets
 
 1. **1916 specifically:** `505 Main`, address OCR variants, Harding property references, rent/lease/vacancy/opening/remodeling notices, and businesses immediately south of 507 Bradley.
-2. **Jul–Oct 1918:** Wolf & Miller relocation/opening/purchase/lease notices and any predecessor at 505.
+2. **Aug–Oct 1918:** Wolf & Miller relocation/opening/purchase/lease notices and any predecessor at 505.
 3. Shoe-store, shoe-repair, clothing, furnishings, partnership, dissolution, relocation, opening, and remodeling notices.
 4. Any George Harding / property-owner / lease references tied to the post-1913 fire site.
 
