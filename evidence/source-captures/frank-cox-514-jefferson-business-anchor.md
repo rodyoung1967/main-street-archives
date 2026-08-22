@@ -11,9 +11,34 @@ https://www.orcity.org/DocumentCenter/View/7953/514_Jefferson
 
 This materially corroborates the newspaper evidence identifying **Frank D. Cox / Cox's pool hall** in 1915–1916. It confirms that billiards/cigar-store operation was Frank Cox's recognized occupation in Oregon City's later preservation research, rather than merely a label arising from the 1915 liquor-law court case.
 
+## Source-chain advance — 2002 HPNW survey explicitly used the 1916 Oregon City directory
+
+The companion **2002 McLoughlin Conservation District Re-Survey Final Report** explains the methodology used to prepare the individual historic-resource forms. It says consultants first reviewed the earlier 1982–1986 survey information and then conducted background research on individual resources using:
+
+- Sanborn Fire Insurance Maps;
+- city building-permit records;
+- county deed records; and
+- **city directories**.
+
+The report's bibliography explicitly lists **Oregon City directories for 1891, 1897, 1909, 1916, 1933, 1941, 1947, 1953, 1958, 1960, 1962, 1964 and 1965**.
+
+Official City report:
+https://www.orcity.org/DocumentCenter/View/4359/2002-McLoughlin-Survey-Final-Report-PDF
+
+The methodology and bibliography pages were visually inspected in the current research pass. This substantially strengthens the **1916 directory as a likely route to the underlying Cox business evidence**.
+
+However, the final report does not provide source-by-source footnotes for the individual 514 Jefferson statement. Therefore it is **not yet proven that the sentence about Cox's billiards room and cigar store came specifically from the 1916 directory**. It could derive from the earlier 1982–86 survey, deeds plus directory data, another directory year, or a combination of sources.
+
+The correct next step is to recover either:
+
+1. the actual **1916 Oregon City directory entry for Frank Cox**, or
+2. the earlier **1982–86 514 Jefferson survey/research worksheet** reviewed by HPNW.
+
+Either could reveal the exact business address or the original source behind the occupation statement.
+
 ## What this does NOT establish
 
-The historic-resource survey excerpt recovered in the current pass does **not** print the street address of Cox's billiards/cigar business. It therefore does not establish that Cox operated at:
+The historic-resource survey does **not** print the street address of Cox's billiards/cigar business. It therefore does not establish that Cox operated at:
 
 - 503 Main;
 - 708 Main;
@@ -35,6 +60,9 @@ If a future source proves Frank D. Cox was the Cox in Asay & Cox, the chronology
 
 That would create a strong question of address continuity or relocation from 708 Main, but it still would not itself place Cox at 503.
 
-## Research target
+## Research targets
 
-Locate the source(s) used by the 514 Jefferson historic-resource survey for Frank Cox's occupation. The 1916–1917 Sohns & Woodbeck directory is a plausible source because Oregon City historic-resource research used that directory extensively, but this has not yet been proven for this specific survey statement. Recovering the survey bibliography or underlying research notes may expose Cox's business address directly.
+1. Recover the **1916 Oregon City directory** entry for Frank D. Cox and the street directory for the relevant Main Street blocks.
+2. Locate the **1982–86 514 Jefferson survey form/research notes** that HPNW reviewed in 2002.
+3. Determine whether the Cox occupation statement was inherited from the earlier survey or newly derived in 2002.
+4. Continue searching municipal pool-hall license/bond records for Cox's premises address.
