@@ -14,7 +14,7 @@
 
 505 Main Street is the **505 Tavern** address. It is **not** The Wheel; The Wheel was only at **503 Main**.
 
-Early documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. The construction date of the **surviving building** is unresolved and now has conflicting survey estimates; see `Construction-date conflict` below.
+Early documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. The construction date of the **surviving building** still has conflicting historic-resource estimates; see `Construction-date conflict` below.
 
 Tavern-era sequence includes 505 Tavern (documented 1965, 1972, **1976 classified**) → Brass Rail → The Dug Inn (1988) → other late-1980s/early-1990s operators/leads including Sports Keg → Mitch / Mitchell (C.) Young running 505 Tavern March 1991-March 2004 → later Berman (bought 2009) → Thirsty Duck 2017, still operating as of August 2026.
 
@@ -35,18 +35,46 @@ After Richard's death in November 2024, the **505 building passed to Rodney Youn
 
 The surviving 505 building has conflicting dates in City/consultant historic-resource work and must not yet be assigned a single definitive construction year.
 
-- The **2000 Oregon City Downtown Community Plan historic inventory** lists **505 Main Street, historic name unknown, c.1920**.
-  - https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
-- A **2021 cultural-resources baseline report** for the Oregon City-West Linn bridge project lists **505 Main / 505 Tavern with a 1940 build date**.
-  - https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
+### 2000 City inventory — c.1920, now visually verified
 
-These estimates conflict by roughly twenty years. Neither should be silently preferred without primary structural evidence.
+The **2000 Oregon City Downtown Final Report** has now been visually inspected at the relevant appendix page. The original page clearly lists:
 
-The City also provides the **1925 Sanborn fire-insurance map set** publicly. Because Sanborn maps depict building footprints, construction material and use, the 1925 sheet containing the Fifth/Main block is a high-value test: if a building is clearly present at the 505 address in 1925, that disproves a literal 1940 original-construction date for the entire surviving footprint, though it would not rule out a 1940 rebuild, major alteration, facade replacement, or inherited assessor date.
+- **503 Main St. — Kwality Cafe — c.1919**
+- **505 Main St. — Unknown — c.1920**
 
-City Sanborn index: https://www.orcity.org/1301/Sanborn-Maps---McLoughlin-Downtown
+Therefore the **c.1920** date is no longer merely an indexed-text lead; it is **visually verified as the date assigned by the official City historic inventory**. It remains an inventory estimate rather than primary construction proof.
 
-Until the correct 1925 sheet and later comparison maps are visually inspected, treat **c.1920 vs. 1940 as an open conflict**.
+Official City source, Appendix B, printed p.30 (PDF page 28 in the current viewer):
+https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+
+### 2021 consultant report — 1940
+
+A **2021 cultural-resources baseline report** for the Oregon City-West Linn bridge project lists **505 Main / 505 Tavern with a 1940 build date**.
+
+Source:
+https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
+
+These estimates conflict by roughly twenty years. The 2000 c.1920 date now has direct visual verification in the underlying City report, but that does not by itself prove the estimate is historically correct.
+
+### 1925 Sanborn — visually verified structure/use at 505
+
+The correct **1925 Sanborn Sheet 6** for the Fifth/Main block has been visually inspected. It shows modern-style numbered storefronts including **501, 503, 505, 507, 509, 511, 513**. In the target frontage:
+
+- **503 is a separate restaurant occupancy**;
+- **505 is a separate billiards/cigars occupancy**.
+
+This proves a commercial structure/occupancy existed at the **505 address by 1925**. It rules out interpreting `1940` as the first-ever existence of a structure at that street address. It does **not**, by itself, prove that the entire surviving 2026 building fabric is the same structure shown in 1925; a later rebuild, major alteration, facade replacement, or assessor-date inheritance remains possible.
+
+See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evidence.md`.
+
+### Current interpretation
+
+- **1918:** Wolf & Miller directly occupies 505 Main, proving address use before either construction-date estimate.
+- **1925:** Sanborn visually shows a distinct 505 billiards/cigars occupancy.
+- **c.1920:** official 2000 City inventory estimate for the surviving/historic resource, now visually verified as source content.
+- **1940:** later 2021 consultant-table estimate that remains in conflict.
+
+The best next test is footprint/material continuity between the 1925 Sanborn, later Sanborn revisions/aerials, assessor records and current building, plus permit/tax evidence around 1920 and 1940.
 
 ## Location / Name Handling Rule
 
@@ -136,9 +164,10 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 
 ## Research Priorities
 
-- Resolve the **c.1920 vs. 1940 construction-date conflict** with primary map/permit/assessor evidence.
-- Visually inspect the correct **1925 Sanborn sheet** for 501/503/505 and compare it with 1911 and 1950 sheets.
-- Confirm the exact construction date and building history for 505 Main.
+- Resolve the **c.1920 vs. 1940 construction-date conflict** with primary permit/assessor/deed evidence and map/footprint continuity.
+- Compare the visually inspected **1925 Sanborn** with the 1950 revision, aerials, assessor sketches and current footprint/material to determine whether the surviving 505 structure is continuous from 1925.
+- Search 1919–1921 permits, assessment changes, deeds and construction notices for a c.1920 rebuild.
+- Search 1939–1941 permits/assessment/construction notices to explain the 1940 date if it represents a major alteration/rebuild.
 - Determine the formal business name during each 505 period (505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, and others).
 - Establish a year-by-year 505 **business-owner/operator** sequence separately from the **real-estate owner/landlord** sequence.
 - Find the deed/tax/assessor record for the Wiitanen purchase of **505 Main from Mrs. Nesmeth / Nemeth**, including exact date and correct spelling.
@@ -148,14 +177,13 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - Identify Willie by full name.
 - Confirm whether the rear portion of 505 was added later.
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
-- Confirm the reported 501 / 503 / 505 Sanborn map layout.
 - Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
 
 ## Open Questions
 
-- When exactly was 505 Main constructed?
+- When exactly was the surviving 505 Main building constructed or substantially rebuilt?
 - Why do historic-resource sources give c.1920 and 1940 dates for 505?
-- Does the 1925 Sanborn show a structure at 505, and is its footprint/material consistent with the present building?
+- Is the present building fabric/footprint continuous with the 505 structure shown on the visually inspected 1925 Sanborn?
 - When was the rear portion of 505 added?
 - Does 505 Main extend farther back than 503 Main, and if so why and since when?
 - Is 503 Main wider than 505 Main, and what do maps/deeds/assessor records show?
