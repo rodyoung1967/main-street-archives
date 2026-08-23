@@ -16,7 +16,7 @@ The existing archive already contains 1916–1917 water-rent ledger findings and
 - **11 Jan 1917 — 8 images**
 - **1 Feb 1917 — 8 images**
 - **15 Feb 1917 — 10 images**
-- **22 Feb 1917 — at least 9 images**
+- **22 Feb 1917 — 10 images**
 - **1 Mar 1917 — 10 images**
 - **22 Mar 1917 — at least 8 images**
 - **5 Apr 1917 — 8 images**
@@ -30,9 +30,9 @@ The existing archive already contains 1916–1917 water-rent ledger findings and
 - **1 Nov 1917 — 8 images**
 - **29 Nov 1917 — 8 images**
 - **6 Dec 1917 — 8 images**
-- **13 Dec 1917 — at least 23 images**
+- **13 Dec 1917 — exactly 24 images/pages**
 
-The unusually large 13 Dec issue means 1917 requires explicit issue-by-issue inventory; assuming an eight-page issue would miss at least fifteen pages.
+The unusually large 13 Dec issue means 1917 requires explicit issue-by-issue inventory; assuming an eight-page issue would miss sixteen pages. The issue index lists pages 1–24, and the front page itself identifies the publication as a **24-page** annual Christmas shopping number.
 
 ## Fifth & Main continuity
 
@@ -46,8 +46,9 @@ Page-level text retrieval repeatedly places **R. L. Holman, Leading Undertaker, 
 - **26 Apr 1917, p7**
 - **3 May 1917, p7**
 - **14 Jun 1917, p6**
+- **5 Jul 1917, p7**
 
-This strongly supports continuity of Holman's Fifth-and-Main undertaking business through at least mid-June 1917. These retrieved page readings should still be treated under the project rule that visual inspection controls final evidentiary promotion.
+This strongly supports continuity of Holman's Fifth-and-Main undertaking business through at least early July 1917. These retrieved page readings should still be treated under the project rule that visual inspection controls final evidentiary promotion.
 
 ## 503 / 505 status so far
 
@@ -70,5 +71,5 @@ The 1917 newspaper review should seek an exact occupant, owner, transfer, sale, 
 1. Finish January–March issue inventory and visual review.
 2. Search for 1917 exact-address evidence at 501, 503, 505, 507, 509 and 511 Main.
 3. Continue Holman/Fifth-and-Main chronology through the second half of 1917.
-4. Review the 23+ page 13 Dec issue completely.
+4. Visually review all 24 pages of the 13 Dec issue completely.
 5. Search the Oregon City Enterprise/Morning Enterprise for corroborating 1917 target-address evidence.
