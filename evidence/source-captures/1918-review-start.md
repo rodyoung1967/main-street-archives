@@ -16,6 +16,7 @@ The existing `1918-1922-wolf-miller-followup.md` also identifies **Gilbert Mille
 
 The Springfield evidence tightens the move chronology:
 
+- **28 Mar 1918, Springfield News** — a notice says Miss Mia Miller will clerk in the Wolf & Miller store during their **coming sale**, showing the Springfield wind-down was already beginning by late March.
 - **27 Jun 1918, Springfield News** — Wolf & Miller advertise that they are **closing out their entire stock**.
 - **4 Jul 1918, Springfield News** — the same entire-stock closeout continues.
 - **19 Jul 1918, Eugene Daily Guard / Springfield item** — Miller had just returned from **Oregon City**, where his daughter had been injured; Mrs. Miller and family were already there, and he would join them after disposing of the Springfield stock.
@@ -55,9 +56,9 @@ The 1918 Courier again varies in issue size:
 
 This reinforces the need for explicit issue-by-issue inventory.
 
-## October 10 business-survey value
+## October 10 business-survey value — visually verified
 
-The 10 Oct 1918 Courier page is a city-business survey and provides useful address controls beyond Wolf & Miller. Examples include:
+The **10 Oct 1918 Courier p4 has now been visually inspected from the page PDF rendering**. The printed page is a city-business survey titled **“Who's Who In Oregon City.”** It clearly supports the following address controls:
 
 - H. P. Brightbill — **509 Main**
 - Terk Bros. — **506 Main**
@@ -65,15 +66,18 @@ The 10 Oct 1918 Courier page is a city-business survey and provides useful addre
 - Twentieth Century Grocery Store — **611 Main**
 - F. W. Woolworth Co. — **613 Main**
 
-No 503 or 501 entry was found on that specific survey page. This is page-specific coverage only and must not be treated as evidence that those addresses were vacant.
+The Wolf & Miller entry visibly states that the firm is **dissolving partnership**, that one partner will go to Idaho, and that the other will restock and continue the business. This is therefore **high-confidence visually verified evidence** for Wolf & Miller at 505 Main on 10 Oct 1918.
 
-## Visual-review limitation
+No 503 or 507 entry appears on that specific printed survey page. This is page-specific coverage only and must not be treated as evidence that those addresses were vacant.
 
-Attempts to use the research environment's PDF screenshot function on the key 1918 newspaper PDF results failed because the backend did not expose them as `application/pdf`. Therefore the transition evidence above is currently based on page-level OCR/text retrieval and previously recovered page representations. Do **not** mark the key pages as newly visually cleared in this pass unless the page image itself is successfully inspected.
+## Important neighboring-address observation
+
+The same Oct 10 survey page contains both **H. P. Brightbill, 509 Main** and **Ohio Painless Dentists, 509 Main**. This shows that more than one business/professional listing could use the same numbered address, a useful warning against assuming one storefront/address always equals one occupant or one account.
 
 ## Highest-value next steps
 
 1. Search **August–September 1918 Oregon City Courier and Morning Enterprise** for a Wolf & Miller opening, purchase, lease, transfer, or predecessor notice.
 2. Search early-1918 Oregon City newspapers for any exact **505 Main** occupant before Wolf & Miller.
-3. Continue exact-address and business-name searches for **503 Main**.
-4. Build the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
+3. Determine which Wolf & Miller partner remained after the October dissolution and whether the successor continued at 505.
+4. Continue exact-address and business-name searches for **503 Main**.
+5. Build the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
