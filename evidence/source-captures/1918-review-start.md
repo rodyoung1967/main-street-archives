@@ -36,9 +36,15 @@ Do not back-project the Chicago Store, Farr's Pool Hall, or any later billiards/
 
 ## Post-dissolution survivor question
 
-The 10 Oct notice says one Wolf & Miller partner would go to Idaho while the other would restock and continue the business. Searches of the immediate post-dissolution Oregon City issues (17, 24 and 31 Oct and targeted November searches) have not yet produced a replacement `505 Main` listing under either **Wolf** or **Gilbert Miller**.
+The 10 Oct notice says one Wolf & Miller partner would go to Idaho while the other would restock and continue the business. Searches of the immediate post-dissolution Oregon City issues (17, 24 and 31 Oct and targeted November searches) have not produced a replacement `505 Main` listing under either **Wolf** or **Gilbert Miller**.
+
+Targeted searches for a Wolf merchant arriving in Idaho from Oregon in late 1918–1919 likewise have not yet identified the departing partner.
 
 Later evidence proves **Gilbert Miller remained active in Oregon City** and had a shoe-repair business by 1922, but that later continuity does **not** by itself prove he was the partner who stayed at 505 after the October 1918 dissolution. The identity of the departing-to-Idaho partner and the immediate successor name at 505 remain unresolved.
+
+### Family-relationship lead — not evidence of partner identity
+
+A compiled genealogy says **Gilbert Miller married Clara Rose Wolf**, daughter of Henry and Elizabeth (Conrad) Wolf. If correct, this provides a plausible reason for continuing Miller/Wolf business or property connections, including the later 1922 S. Wolf / Gilbert Miller context. However, this source is secondary genealogy and does **not** identify the 1918 Wolf & Miller partner. Do not assume the business partner was Clara's relative or that later **S. Wolf** was the same person without primary corroboration.
 
 ## 503 status
 
