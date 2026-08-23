@@ -30,7 +30,15 @@ Current interpretation: Wolf & Miller's Oregon City operation at 505 most likely
 
 The key 1918 question is the **immediate predecessor at 505 Main** and the mechanism by which Wolf & Miller acquired or occupied the premises.
 
+A targeted January–August 1918 exact-address sweep for `505 Main`, combined with business-type terms (shoes, clothing, pool/billiards, cigars, restaurant) and sale/transfer language, has not produced a defensible pre-Wolf & Miller occupant. This is a **search-coverage result only**, not proof of vacancy.
+
 Do not back-project the Chicago Store, Farr's Pool Hall, or any later billiards/cigar use into early 1918 without primary evidence.
+
+## Post-dissolution survivor question
+
+The 10 Oct notice says one Wolf & Miller partner would go to Idaho while the other would restock and continue the business. Searches of the immediate post-dissolution Oregon City issues (17, 24 and 31 Oct and targeted November searches) have not yet produced a replacement `505 Main` listing under either **Wolf** or **Gilbert Miller**.
+
+Later evidence proves **Gilbert Miller remained active in Oregon City** and had a shoe-repair business by 1922, but that later continuity does **not** by itself prove he was the partner who stayed at 505 after the October 1918 dissolution. The identity of the departing-to-Idaho partner and the immediate successor name at 505 remain unresolved.
 
 ## 503 status
 
@@ -77,7 +85,8 @@ The same Oct 10 survey page contains both **H. P. Brightbill, 509 Main** and **O
 ## Highest-value next steps
 
 1. Search **August–September 1918 Oregon City Courier and Morning Enterprise** for a Wolf & Miller opening, purchase, lease, transfer, or predecessor notice.
-2. Search early-1918 Oregon City newspapers for any exact **505 Main** occupant before Wolf & Miller.
-3. Determine which Wolf & Miller partner remained after the October dissolution and whether the successor continued at 505.
-4. Continue exact-address and business-name searches for **503 Main**.
-5. Build the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
+2. Search business licenses/directories for the immediate pre-Wolf occupant at **505 Main**.
+3. Identify the Wolf partner's full name and determine whether that person moved to Idaho after the October dissolution.
+4. Search late 1918 / early 1919 directories and advertisements for the successor at **505 Main**.
+5. Continue exact-address and business-name searches for **503 Main**.
+6. Build the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
