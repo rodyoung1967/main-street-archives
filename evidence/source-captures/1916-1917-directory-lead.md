@@ -1,6 +1,6 @@
 # 1916–1917 Clackamas County & Oregon City Directory — source lead
 
-Status: **high-priority primary-directory lead; directory pages not yet recovered**
+Status: **high-priority primary-directory lead; public digital-copy lead now located, but target pages not yet visually recovered**
 
 The exact directory cited by Oregon City historic-resource research has now been confirmed bibliographically as:
 
@@ -16,13 +16,19 @@ Representative official-source confirmations:
 
 ## Confirmed repositories / access leads
 
-Three concrete retrieval facts are now confirmed:
+Four concrete retrieval facts are now confirmed:
 
 1. **Oregon Historical Society, Portland** — the National Register documentation for the Petzold Building explicitly states that `Sohns and Woodbeck. 1916-1917 Clackamas County and Oregon City Directory` is **on file at Oregon Historical Society, Portland**.
 2. **FamilySearch Library** — genealogy directory indexes specifically list **`1916 Oregon City, city directory`** as a FamilySearch Library holding.
-3. The FamilySearch item has now been traced to **catalog ID `1844954`**: `https://www.familysearch.org/en/search/catalog/1844954`. The public FamilySearch catalog explains that all microfilms have been digitized, but some digital images may require sign-in or access from a FamilySearch Center / affiliate library because of restrictions. The current research session can reach the catalog record but not the directory image controls/pages.
+3. The FamilySearch item has been traced to **catalog ID `1844954`**: `https://www.familysearch.org/en/search/catalog/1844954`. The public FamilySearch catalog explains that all microfilms have been digitized, but some digital images may require sign-in or access from a FamilySearch Center / affiliate library because of restrictions. The current research session can reach the catalog record but not the directory image controls/pages.
+4. **Oak Lodge History Detectives** now provides a public webpage link labeled **`1916-1917 Directory (4.5 MB)`**. The linked PDF URL is:
+   `https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1916-1917_OakGrove_and_Jennings_Lodge.pdf`
+   Landing page:
+   `https://oaklodgehistory.org/pages/oaklodge/jenningslodge/`
 
-The LDSGenealogy access page for the item likewise points directly to FamilySearch catalog `1844954` and explains the possible camera / restricted-camera / microfilm-only access states.
+The Oak Lodge filename indicates that this digital copy may be an **Oak Grove/Jennings Lodge extract rather than the complete Oregon City volume**. That must be established by viewing the scan itself. In the 23 Aug 2026 research environment, the landing page is readable and the exact PDF URL resolves as a link, but the binary PDF fetch returns a cache/retrieval failure. Therefore **no page from this copy has yet been counted as visually reviewed**, and it is not evidence for or against any 503/505 occupant.
+
+The LDSGenealogy access page for the FamilySearch item likewise points directly to FamilySearch catalog `1844954` and explains the possible camera / restricted-camera / microfilm-only access states.
 
 ## Related statewide directory image identifiers recovered
 
@@ -63,11 +69,12 @@ This directory is likely the best surviving single source for resolving the 1916
 2. Search names/businesses already known from adjacent years: **L. Hylton / Louis Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Wolf, Miller, Frank D. Cox, William Myers Jr., pool/billiards, cigar dealers, shoe repair, soft drinks**.
 3. Determine whether the volume contains a reverse/street directory; if so, transcribe the entire 500 block of Main.
 4. Capture page images and visually verify all relevant entries rather than relying solely on OCR or quotations in later historic-resource forms.
-5. If FamilySearch access is restricted, use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
-6. In parallel, search the statewide 1915–16 directory ARKs above for Oregon City business classifications if those images become accessible.
+5. Test the Oak Lodge History Detectives PDF first because it is a small public digital copy; determine whether it contains the Oregon City pages or only Oak Grove/Jennings Lodge excerpts.
+6. If that copy does not contain Oregon City or remains unreachable, use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
+7. In parallel, search the statewide 1915–16 directory ARKs above for Oregon City business classifications if those images become accessible.
 
 ## Access status
 
-No freely accessible full scan of the local directory has yet been recovered in the current research session. The official historic-resource forms prove that Oregon City Planning / preservation researchers had access to it, the Oregon Historical Society holding is specifically documented, and the FamilySearch catalog record is now precisely identified. Related statewide directory image ARKs have also been recovered, but image rendering remains restricted/timed out.
+A new **public digital-copy lead** has been located at Oak Lodge History Detectives, correcting the prior statement that no free scan lead had been found. However, its PDF pages have not yet been retrievable for visual inspection in the current environment, and its scope may be limited to Oak Grove/Jennings Lodge. FamilySearch image rendering also remains restricted/timed out.
 
-Do **not** infer the 503 or 505 occupant from the mere existence of the directory. This file is a source-recovery lead until the actual directory pages are obtained and visually inspected.
+Under the project research standard this remains a **RETRIEVAL GAP**, not negative evidence. Do **not** infer the 503 or 505 occupant from the directory's existence, OCR, later quotations, or failed retrieval. Promote an occupant claim only after the actual directory page has been visually inspected.
