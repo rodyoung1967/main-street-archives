@@ -50,11 +50,14 @@ A compiled genealogy says **Gilbert Miller married Clara Rose Wolf**, daughter o
 
 Targeted 1918 searches have not yet produced a defensible exact-address occupant for **503 Main**. This is search status only, not evidence of vacancy, demolition, or non-use.
 
+A broader exact-address sweep of 1918 Courier and Enterprise search results again failed to recover a 503 listing. The search engine readily recovers nearby and earlier numbered-address entries, so this is useful coverage information, but under the project standard it still does not prove vacancy or non-use.
+
 ## Issue-size anchors
 
 The 1918 Courier again varies in issue size:
 
 - **17 Jan 1918 — 8 pages**
+- **24 Jan 1918 — 8 pages**
 - **7 Mar 1918 — 10 pages**
 - **14 Mar 1918 — 8 pages**
 - **21 Mar 1918 — 8 pages**
@@ -69,6 +72,8 @@ The 1918 Courier again varies in issue size:
 - **26 Dec 1918 — 6 pages**
 
 This reinforces the need for explicit issue-by-issue inventory.
+
+The archive's issue browser confirms that the Courier continued as a weekly title throughout the year, but several direct issue-index retrievals are inconsistent in the research environment. Counts should therefore only be promoted when the actual issue index or page sequence is recovered.
 
 ## October 10 business-survey value — visually verified
 
@@ -88,11 +93,15 @@ No 503 or 507 entry appears on that specific printed survey page. This is page-s
 
 The same Oct 10 survey page contains both **H. P. Brightbill, 509 Main** and **Ohio Painless Dentists, 509 Main**. This shows that more than one business/professional listing could use the same numbered address, a useful warning against assuming one storefront/address always equals one occupant or one account.
 
+## Enterprise cross-check
+
+Targeted 1918 *Oregon City Enterprise* searches for exact **503 Main**, **505 Main**, Wolf & Miller, Gilbert Miller, and H. P. Brightbill have not yet produced a cleaner address ladder than the Courier. The Enterprise should therefore be retained as a corroborative source, but the Courier remains the stronger address-specific newspaper source for the 500 block in this pass.
+
 ## Highest-value next steps
 
-1. Search **August–September 1918 Oregon City Courier and Morning Enterprise** for a Wolf & Miller opening, purchase, lease, transfer, or predecessor notice.
-2. Search business licenses/directories for the immediate pre-Wolf occupant at **505 Main**.
-3. Identify the Wolf partner's full name and determine whether that person moved to Idaho after the October dissolution.
-4. Search late 1918 / early 1919 directories and advertisements for the successor at **505 Main**.
-5. Continue exact-address and business-name searches for **503 Main**.
-6. Build the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
+1. Continue building the complete 1918 Courier issue inventory and visually inspect every page where page rendering is available.
+2. Search **August–September 1918 Oregon City Courier and Morning Enterprise** for a Wolf & Miller opening, purchase, lease, transfer, or predecessor notice.
+3. Search business licenses/directories for the immediate pre-Wolf occupant at **505 Main**.
+4. Identify the Wolf partner's full name and determine whether that person moved to Idaho after the October dissolution.
+5. Search late 1918 / early 1919 directories and advertisements for the successor at **505 Main**.
+6. Continue exact-address and business-name searches for **503 Main**.
