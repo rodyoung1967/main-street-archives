@@ -1,6 +1,6 @@
 # 1917 targeted follow-up — 503 / 505 Main
 
-Status: **active / OCR-text discovery; no 503/505 occupant resolved**
+Status: **active; newspaper identity questions remain, but 1914–15 and 1916–17 water-ledger target pages have now been visually reviewed**
 
 This follow-up was opened while backsolving the unresolved 1916 occupancy at 503 and 505 Main.
 
@@ -17,22 +17,45 @@ This establishes a Louis Hylton living in Oregon City in June 1917. It does **no
 
 A 1922 Banner-Courier list also contains a **Louis Hylton**, further supporting continued local presence but still not proving the 503 business identity.
 
-## 505
+## 505 — water-ledger evidence now available
 
-Targeted 1917 web/newspaper searches did not recover a reliable exact-address occupant for **505 Main**. This is not evidence of vacancy.
+### 1914–1915 Book 3
 
-The current forward anchors remain:
+Visual review of the official water-rent ledger shows the Main Street sequence around the target properties as:
+
+**511 → 509 → 507 → [unnumbered entry] → 503 → 503½ → 501 Main**.
+
+The unnumbered entry between 507 and 503 has a standalone **V** in the tenant field. The working interpretation is that **V probably means Vacant**. Because 505 is numerically the missing address in that position, the unnumbered account is a plausible candidate for 505 Main, but this is **not proven**.
+
+Do not state “505 Main was vacant in 1914–15” as fact without corroboration.
+
+See `1914-1915-water-rent-record-book-3-visual-review.md`.
+
+### 1916–1917 Book 4
+
+Visual review shows:
+
+**511 → 509 → 507 → 503 → 503½ → 501 Main**.
+
+No separate 505 Main address is written in the expected position. 503 and 503½ are explicitly separate entries, and the ledger demonstrably uses half-addresses elsewhere, so 503½ should not be treated as shorthand for 505.
+
+The absence of 505 is evidence about the ledger/account sequence, **not proof of vacancy**. Possible explanations include no independent municipal water account, shared service, an account exception, or another unresolved service arrangement.
+
+See `1916-1917-water-rent-record-book-4-lead.md`.
+
+## 501 neighboring-use clue
+
+The 1916–17 ledger entry immediately after 503½, at **501 Main**, appears to carry the classification/use **Restaurant**. A nearby “5th” notation is also visible, but its meaning is unresolved.
+
+## Forward anchors for 505
 
 - Chicago Store at 505 through the 1913 period / fire context.
-- unresolved 1914–1917 occupancy.
+- 1914–15 water ledger: plausible unnumbered 505-position account, tenant marked probable V = Vacant.
+- 1916–17 water ledger: no explicit 505 account in expected sequence.
 - Wolf & Miller at 505 by 10 Oct 1918, after their mid-August 1918 move from Springfield.
 - Dr. Freeze at 505 / 505 1/2 Main in 1921–1922.
 - 1925 Sanborn: 505 labeled billiards/cigars.
 
-## Water-rent source
-
-The City of Oregon City officially lists **1916–1917 Water Rent Record Book 4**, which remains the highest-value unreviewed municipal source for the exact gap. See `1916-1917-water-rent-record-book-4-lead.md`.
-
 ## Research standard
 
-No OCR silence or failed search is treated as evidence that 503 or 505 was vacant. Exact occupancy remains unresolved pending visual newspaper review, the water-rent ledger, directories, or other primary records.
+No OCR silence or failed search is treated as evidence that 503 or 505 was vacant. The water-ledger findings above are based on direct visual review of user-supplied screenshots from the official City scans. Address assignment for the 1914–15 unnumbered/V entry remains unresolved pending corroboration.
