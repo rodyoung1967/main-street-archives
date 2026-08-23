@@ -1,8 +1,8 @@
 # Chicago Store — Wolf & Nat proprietors; move from 405 to 505 Main in 1911
 
-Status: **strong primary newspaper evidence; 3 Feb 1911 ad visually verified; exact move date still unresolved**
+Status: **strong primary newspaper evidence; 3 Feb and 31 Mar 1911 ads visually verified; exact move date remains unresolved within March**
 
-This note records a potentially important early ownership/proprietor lead for the Chicago Store before its documented occupancy of 505 Main.
+This note records a potentially important early ownership/proprietor lead for the Chicago Store before and during its move to 505 Main.
 
 ## 27 January 1911 — Wolf & Nat at 405 Main
 
@@ -21,7 +21,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6.pdf
 
 ## 3 February 1911 — visually verified: Electric Hotel Building, 405 Main
 
-The **3 February 1911 Oregon City Courier, page 6** has now been opened as the original page scan and visually inspected in the current research session. The Chicago Store advertisement occupies the upper-left corner and clearly prints all of the following within the same bordered advertisement:
+The **3 February 1911 Oregon City Courier, page 6** has been opened as the original page scan and visually inspected. The Chicago Store advertisement occupies the upper-left corner and clearly prints all of the following within the same bordered advertisement:
 
 - **Phone Main 3732**
 - **Electric Hotel Building**
@@ -40,14 +40,6 @@ This is **page-level visual verification** of the advertisement; it does not cer
 
 This directly identifies the Chicago Store's **405 Main** premises as being in the **Electric Hotel Building** immediately before its move to 505 Main. The phrase is visually part of the Chicago Store advertisement and is not OCR contamination from an adjacent column.
 
-This gives a new building-level anchor for the 1911 move:
-
-- **3 Feb 1911:** Wolf & Nat / Chicago Store, **Electric Hotel Building, 405 Main**;
-- **1 Mar 1911:** Chicago Store still at **405 Main**;
-- **7 Apr 1911:** Chicago Store at **505 Main**.
-
-The evidence does not yet establish whether Wolf & Nat remained proprietors after the move, whether the 405 tenancy ended because of an Electric Hotel Building change, or whether the move to 505 coincided with a sale/partnership change.
-
 ## 1 March 1911 — Chicago Store still at 405 Main
 
 The 1 March 1911 *Morning Enterprise* advertises the Chicago Store at **405 Main St.**, buying and selling second-hand clothes. The recovered ad no longer prints the Wolf & Nat proprietor line.
@@ -55,27 +47,53 @@ The 1 March 1911 *Morning Enterprise* advertises the Chicago Store at **405 Main
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063701/1911-03-01/ed-1/seq-3.pdf
 
-## 7 April 1911 — Chicago Store at 505 Main
+## 10 March 1911 Courier — no usable Chicago Store anchor
 
-By 7 April 1911, the *Courier* visually shows the Chicago Store at **505 Main St., Oregon City**, offering new and second-hand clothing and cleaning/repairing.
+The eight page 10 March 1911 *Courier* issue was searched page-by-page in the archive's text layer for `Chicago`; no Chicago Store advertisement was recovered. This is **not negative historical evidence** and does not establish where the store was on that date. No inference of closure, vacancy, or address change should be made from the issue's silence.
+
+Issue root:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/
+
+## 31 March 1911 — visually verified at 505 Main
+
+The **31 March 1911 Oregon City Courier, page 6** has now been opened as the original page scan and visually inspected. A bordered display advertisement in the upper-right portion of the page clearly reads:
+
+- **The Chicago Store**
+- New and Second Hand **CLOTHING**
+- Highest Price Paid for Second Hand Clothing
+- **WE ALSO DO Cleaning and Repairing**
+- **505 Main St., Oregon City, Or.**
 
 Source:
-https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-07/ed-1/seq-6.pdf
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-31/ed-1/seq-6/
+PDF:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-31/ed-1/seq-6.pdf
 
-The 14 April and 28 April issues continue the **505 Main** address.
+This is **page-level visual verification** of the Chicago Store advertisement; it does not certify the entire 31 March issue as visually reviewed page by page.
+
+The 31 March evidence materially tightens the move chronology: Chicago Store was already at **505 Main by the end of March**, one week earlier than the previously used 7 April anchor.
+
+## April 1911 — continued at 505 Main
+
+The 7 April 1911 *Courier* visually shows the Chicago Store at **505 Main St., Oregon City**, offering new and second-hand clothing and cleaning/repairing. The 14 April and 28 April issues continue the 505 address.
 
 Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-07/ed-1/seq-6.pdf
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-28/ed-1/seq-7/
 
 ## Current move window
 
-The Chicago Store was therefore:
+The best-supported chronology is now:
 
-- at **405 Main through at least 1 March 1911**;
-- at **505 Main by 7 April 1911**.
+- **3 Feb 1911:** Wolf & Nat / Chicago Store, **Electric Hotel Building, 405 Main** — visually verified.
+- **1 Mar 1911:** Chicago Store still at **405 Main**.
+- **10 Mar 1911:** no usable Chicago Store anchor recovered; no negative inference.
+- **31 Mar 1911:** Chicago Store at **505 Main** — visually verified.
 
-The exact move date remains unresolved within March / early April 1911. Search-index silence for intervening issues must not be treated as evidence; the actual March issue pages should be visually reviewed.
+Therefore the currently demonstrated move window is **after 1 March and no later than 31 March 1911**.
+
+The remaining 17 and 24 March issues, plus daily *Morning Enterprise* issues within the month, remain high-value targets for narrowing the exact move date. OCR/search silence must not be treated as proof; relevant page scans should be visually checked.
 
 ## Why the Wolf & Nat proprietor line matters
 
@@ -91,9 +109,9 @@ Treat all three Wolf threads separately until a direct identity source connects 
 
 ## Research targets
 
-1. Identify the full names of **Wolf** and **Nat** from directories, licenses, partnership notices, tax/legal records, or personal notices.
-2. Visually inspect the intervening March 1911 Courier/Morning Enterprise issues to narrow the **405→505 move date**.
+1. Visually inspect the **17 and 24 March 1911 Courier** issues and March *Morning Enterprise* pages to narrow the **405→505 move date** further.
+2. Identify the full names of **Wolf** and **Nat** from directories, licenses, partnership notices, tax/legal records, or personal notices.
 3. Determine whether Wolf & Nat remained proprietors after the move to 505 or whether the move coincided with an ownership change.
-4. Search phone number **Main 3732** and the Chicago Store trade name for proprietor continuity.
+4. Search phone numbers **Main 3732 / Main 3731** and the Chicago Store trade name for proprietor continuity; the one-digit difference itself should be checked against scans rather than normalized by assumption.
 5. Map the **Electric Hotel Building / 405 Main** anchor against the 1911 Sanborn and address system.
 6. Compare the identified 1911 Wolf against the full identity of the 1918 Wolf & Miller partner only after independent names are established.
