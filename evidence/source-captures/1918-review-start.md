@@ -64,6 +64,7 @@ The 1918 Courier again varies in issue size:
 - **28 Mar 1918 — 8 pages**
 - **11 Apr 1918 — 8 pages**
 - **18 Apr 1918 — 8 pages**
+- **2 May 1918 — 8 pages**
 - **23 May 1918 — 8 pages**
 - **13 Jun 1918 — 8 pages**
 - **11 Jul 1918 — 8 pages**
