@@ -27,7 +27,15 @@ This corrects the earlier archive uncertainty that treated Wiitanen ownership of
 
 ## Construction Date
 
-A 2017 article states the building was constructed in 1919. The City of Oregon City's downtown historic inventory independently treats the surviving 503 building as **circa 1919**. This remains a working construction-date conclusion for the present building rather than proof that any particular restaurant opened in 1919.
+The City of Oregon City's **2000 Downtown Final Report** has now been visually inspected at the relevant appendix page. The original page clearly lists:
+
+- **503 Main St. — Kwality Cafe — c.1919**
+- **505 Main St. — Unknown — c.1920**
+
+The 503 **c.1919** date is therefore no longer merely an indexed-text lead in this archive; it is **visually verified as the date assigned by the official City historic inventory**. It remains a historic-inventory estimate for the surviving building, not primary proof of the exact construction day/year and not evidence that Kwality opened in 1919.
+
+Official City source, Appendix B, printed p.30 (PDF page 28 in the current viewer):
+https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
 The city inventory gives additional chronology that sharpens this distinction:
 
@@ -40,11 +48,20 @@ City inventory source (quoted in a 2026 Oregon City public-meeting attachment): 
 
 A separate **8 June 1922 Banner-Courier** advertisement identifies **Quality Restaurant at 427 Main Street**, not 503 Main. Therefore `Quality/Kwality` wording in 1922 cannot by itself be assumed to refer to the later 503 business. Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
 
+### 1925 Sanborn — visually verified use/address pattern
+
+The correct **1925 Sanborn Sheet 6** for the Fifth/Main block has been visually inspected. It shows modern-style numbered storefronts including **501, 503, 505, 507, 509, 511, 513**. In the target frontage:
+
+- **503 is a separate labeled occupancy and is marked restaurant**;
+- **505 is a separate labeled occupancy and is marked billiards/cigars**.
+
+This is primary map evidence that 503 and 505 were separate commercial occupancies by 1925. See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evidence.md`.
+
 ### Working construction/business distinction
 
-- **c.1919** — likely construction date of the surviving 503 building.
+- **c.1919** — City historic-inventory estimate for the surviving 503 building; relevant appendix page now visually verified.
 - **1922** — city survey retrospectively places Wolf-family property ownership beginning about this year; direct deed proof still needed.
-- **1925** — Sanborn use shown as restaurant.
+- **1925** — Sanborn use visually verified as restaurant.
 - **1926** — Kwality Restaurant named in newspaper advertising.
 
 Do **not** currently state that Kwality Cafe opened in 1919. The building date and the documented restaurant-name chronology are separate questions.
@@ -59,7 +76,7 @@ Do **not** currently state that Kwality Cafe opened in 1919. The building date a
 
 The archive currently treats Kwality Cafe, New Kwality Cafe, and Larry's Kwality Cafe as related but distinct names until the sequence and ownership continuity are proven.
 
-The earliest presently documented use of the **Kwality Restaurant** name at 503 is **1926** according to the City historic inventory. The inventory's statement that the 1925 Sanborn depicts a restaurant gives a one-year-earlier use anchor without proving the restaurant's name in 1925.
+The earliest presently documented use of the **Kwality Restaurant** name at 503 is **1926** according to the City historic inventory. The visually inspected 1925 Sanborn depicts a restaurant at 503, giving a one-year-earlier use anchor without proving the restaurant's name in 1925.
 
 ## Wolf-family lead
 
@@ -90,9 +107,8 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three disti
 
 ## Research Priorities
 
-- Verify whether 1919 was original construction, a remodel, a rebuild, or an inherited record date.
+- Determine whether the City's c.1919 date represents original construction, rebuild, or major reconstruction and locate primary permit/assessment/deed evidence.
 - Identify the builder/owner associated with the circa-1919 construction.
-- Obtain the **1925 Sanborn** and visually inspect the 503/505 block.
 - Locate the **1926 Kwality Restaurant advertisements** cited by the City inventory and record proprietor/address wording.
 - Identify the Wolf-family member(s) who owned 503 circa 1922–1972 and obtain deed/tax proof.
 - Test whether that Wolf family is related to the Wolf & Miller business / Gilbert Miller family network without assuming identity.
