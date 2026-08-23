@@ -1,6 +1,6 @@
 # Chicago Store — Wolf & Nat proprietors; move from 405 to 505 Main in 1911
 
-Status: **strong primary newspaper evidence; Jan/Feb ads visually/textually recoverable; exact move date still unresolved**
+Status: **strong primary newspaper evidence; 3 Feb 1911 ad visually verified; exact move date still unresolved**
 
 This note records a potentially important early ownership/proprietor lead for the Chicago Store before its documented occupancy of 505 Main.
 
@@ -19,12 +19,34 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6/
 PDF:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6.pdf
 
-## 3 February 1911 — same partnership/location
+## 3 February 1911 — visually verified: Electric Hotel Building, 405 Main
 
-The 3 February 1911 *Courier*, page 6, repeats the same Chicago Store advertisement with **Wolf & Nat, Proprietors**, **405 Main Street**, phone Main 3732.
+The **3 February 1911 Oregon City Courier, page 6** has now been opened as the original page scan and visually inspected in the current research session. The Chicago Store advertisement occupies the upper-left corner and clearly prints all of the following within the same bordered advertisement:
+
+- **Phone Main 3732**
+- **Electric Hotel Building**
+- **The Chicago Store**
+- **WOLF & NAT, Proprietors**
+- **405 Main Street, Oregon City, Oregon**
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-6/
+PDF:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-6.pdf
+
+This is **page-level visual verification** of the advertisement; it does not certify the entire 3 February 1911 issue as reviewed page by page.
+
+### Significance of the Electric Hotel Building identification
+
+This directly identifies the Chicago Store's **405 Main** premises as being in the **Electric Hotel Building** immediately before its move to 505 Main. The phrase is visually part of the Chicago Store advertisement and is not OCR contamination from an adjacent column.
+
+This gives a new building-level anchor for the 1911 move:
+
+- **3 Feb 1911:** Wolf & Nat / Chicago Store, **Electric Hotel Building, 405 Main**;
+- **1 Mar 1911:** Chicago Store still at **405 Main**;
+- **7 Apr 1911:** Chicago Store at **505 Main**.
+
+The evidence does not yet establish whether Wolf & Nat remained proprietors after the move, whether the 405 tenancy ended because of an Electric Hotel Building change, or whether the move to 505 coincided with a sale/partnership change.
 
 ## 1 March 1911 — Chicago Store still at 405 Main
 
@@ -73,4 +95,5 @@ Treat all three Wolf threads separately until a direct identity source connects 
 2. Visually inspect the intervening March 1911 Courier/Morning Enterprise issues to narrow the **405→505 move date**.
 3. Determine whether Wolf & Nat remained proprietors after the move to 505 or whether the move coincided with an ownership change.
 4. Search phone number **Main 3732** and the Chicago Store trade name for proprietor continuity.
-5. Compare the identified 1911 Wolf against the full identity of the 1918 Wolf & Miller partner only after independent names are established.
+5. Map the **Electric Hotel Building / 405 Main** anchor against the 1911 Sanborn and address system.
+6. Compare the identified 1911 Wolf against the full identity of the 1918 Wolf & Miller partner only after independent names are established.
