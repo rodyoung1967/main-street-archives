@@ -1,12 +1,8 @@
 # 1917 Oregon City Courier — review start
 
-Status: **in progress**
+Status: **substantially reviewed / residual visual and directory retrieval gaps remain**
 
-Purpose: begin the 1917 issue-by-issue review under `RESEARCH-STANDARD.md`, continuing the 1916 method. OCR/search/index results are discovery aids only; they do not substitute for visual page review.
-
-## Repository baseline
-
-The existing archive already contains 1916–1917 water-rent ledger findings and targeted 1917 follow-up notes, but no full 1917 Courier year audit was located before starting this pass.
+Purpose: continue the 1917 issue-by-issue review under `RESEARCH-STANDARD.md`, using OCR/search/index results only as discovery aids; visual page review controls final evidentiary promotion.
 
 ## Issue-size warnings confirmed
 
@@ -18,7 +14,7 @@ The existing archive already contains 1916–1917 water-rent ledger findings and
 - **15 Feb 1917 — 10 images**
 - **22 Feb 1917 — 10 images**
 - **1 Mar 1917 — 10 images**
-- **22 Mar 1917 — at least 8 images**
+- **22 Mar 1917 — exactly 8 images**
 - **5 Apr 1917 — 8 images**
 - **10 May 1917 — 8 images**
 - **31 May 1917 — 8 images**
@@ -27,16 +23,26 @@ The existing archive already contains 1916–1917 water-rent ledger findings and
 - **28 Jun 1917 — 8 images**
 - **5 Jul 1917 — 8 images**
 - **26 Jul 1917 — 8 images**
+- **9 Aug 1917 — 6 images**
+- **16 Aug 1917 — 6 images**
+- **23 Aug 1917 — 6 images**
+- **30 Aug 1917 — 8 images**
+- **4 Oct 1917 — 8 images**
+- **11 Oct 1917 — 8 images**
+- **18 Oct 1917 — 8 images**
+- **25 Oct 1917 — 8 images**
 - **1 Nov 1917 — 8 images**
+- **8 Nov 1917 — 8 images**
 - **29 Nov 1917 — 8 images**
 - **6 Dec 1917 — 8 images**
 - **13 Dec 1917 — exactly 24 images/pages**
+- **20 Dec 1917 — 8 images**
 
-The unusually large 13 Dec issue means 1917 requires explicit issue-by-issue inventory; assuming an eight-page issue would miss sixteen pages. The issue index lists pages 1–24, and the front page itself identifies the publication as a **24-page** annual Christmas shopping number.
+The 13 Dec issue index lists pages 1–24, and the front page independently identifies it as a **24-page** Christmas shopping issue. The 15 and 22 Nov issue counts still require explicit confirmation rather than assumption.
 
 ## Fifth & Main continuity
 
-Page-level text retrieval repeatedly places **R. L. Holman, Leading Undertaker, Fifth and Main St.** in 1917. Confirmed retrievals include:
+Page-level retrieval repeatedly places **R. L. Holman, Leading Undertaker, Fifth and Main St.** in 1917. Confirmed retrievals include:
 
 - **11 Jan 1917, p7**
 - **22 Feb 1917, p7**
@@ -48,28 +54,35 @@ Page-level text retrieval repeatedly places **R. L. Holman, Leading Undertaker, 
 - **14 Jun 1917, p6**
 - **5 Jul 1917, p7**
 
-This strongly supports continuity of Holman's Fifth-and-Main undertaking business through at least early July 1917. These retrieved page readings should still be treated under the project rule that visual inspection controls final evidentiary promotion.
+This supports continuity of Holman's Fifth-and-Main undertaking business through at least early July 1917. It still does not independently map the business to 501, 503, or 505 Main.
 
-## 503 / 505 status so far
+## 503 / 505 status
 
-Targeted 1917 Courier searches for exact **503 Main** and **505 Main** have not yet produced a reliable 1917 occupant. This is search status only, not evidence of vacancy, demolition, or non-use.
+Targeted Courier and Enterprise searches for exact **503 Main** and **505 Main** have not produced a defensible 1917 occupant. This is a coverage/result statement only and is not evidence of vacancy, demolition, or non-use.
 
-Searches for L. Hylton in 1917 produced a June obituary for **Louis Jackson Hylton of Mulino**, which is not automatically identified with the earlier 503 Main merchant L. Hylton and should not be merged without independent evidence.
+### Hypotheses specifically tested but not established
+
+- **L. Hylton / Louis Hylton at 503:** the earlier 1914 L. Hylton exact-address evidence is strong, but no 1917 source yet carries that business forward. A 1917 obituary for Louis Jackson Hylton of Mulino is not merged with the 503 merchant without independent evidence.
+- **Chicago Store at 505:** exact 505 evidence exists in 1911 and the business is still described on Main just below the post office in 1912, but current searches have not established continuity to 1917.
+- **Farr's Pool Hall at 505:** later Oregon City historic-resource documentation identifies Edwin F. and Alice Farr as proprietors of Farr's Pool Hall at 505 Main, but that source does not date the 505 operation to 1917. It must not be back-projected.
+
+## 1916–1917 directory — highest-value unresolved source
+
+The best remaining source for the occupancy gap is **Sohns & Woodbeck, _Clackamas County and Oregon City Directory_, 1916–1917**. Official Oregon City and National Register research repeatedly cite this volume for specific 1916–17 identities and locations. A FamilySearch catalog record exists at catalog ID `1844954`, and Oregon Historical Society is independently documented as holding a copy.
+
+National Register work also cites this directory by specific internal page number (for example p. 247 in another property nomination), confirming that the surviving volume is a paginated reference work suitable for direct extraction. The actual Oregon City address pages remain inaccessible in the current session, so no 503/505 occupant claim is promoted from the directory yet.
 
 ## Water-ledger comparison
 
-Keep the 1916–1917 water-rent ledger findings separate from newspaper-directory silence:
+Keep the 1916–1917 water-rent ledger findings separate from newspaper silence:
 
 - 503 Main and 503½ Main are separately recorded in the ledger;
 - 505 Main is not explicitly present in the expected sequence;
 - that does not prove vacancy.
 
-The 1917 newspaper review should seek an exact occupant, owner, transfer, sale, vacancy, fire, demolition, construction, or shared-service clue that could explain the ledger pattern.
+## Residual gaps before a strict 'fully visually complete' label
 
-## Next steps
-
-1. Finish January–March issue inventory and visual review.
-2. Search for 1917 exact-address evidence at 501, 503, 505, 507, 509 and 511 Main.
-3. Continue Holman/Fifth-and-Main chronology through the second half of 1917.
-4. Visually review all 24 pages of the 13 Dec issue completely.
-5. Search the Oregon City Enterprise/Morning Enterprise for corroborating 1917 target-address evidence.
+1. Visually clear all 24 pages of the 13 Dec 1917 issue when direct page rendering is available.
+2. Explicitly confirm the 15 Nov and 22 Nov issue counts.
+3. Recover and visually inspect the Oregon City pages of the Sohns & Woodbeck 1916–17 directory, with exact extraction for **501, 503, 505, 507, 509, 511 Main**.
+4. Preserve the exact 503/505 occupant question as unresolved until one of those primary sources resolves it.
