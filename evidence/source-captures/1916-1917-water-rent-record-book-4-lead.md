@@ -1,8 +1,8 @@
-# 1916–1917 Water Rent Record Book 4 — source lead
+# 1916–1917 Water Rent Record Book 4 — visual review and target-address evidence
 
-Status: **official source confirmed; direct scan URL recovered; ledger content not yet visually reviewed**
+Status: **official source confirmed; direct scan URL recovered; target Main Street pages visually reviewed from user-supplied screenshots on 23 August 2026**
 
-The City of Oregon City historic-documents research page explicitly lists:
+The City of Oregon City historic-documents research page lists:
 
 - **1914–1915 Water Rent Record Book 3**
 - **1916–1917 Water Rent Record Book 4**
@@ -13,34 +13,66 @@ https://www.orcity.org/1710/Historic-Documents-and-Research
 Direct official Book 4 document URL:
 https://www.orcity.org/DocumentCenter/View/6212/1916-1917-Water-Rent-Record-Book-4
 
-## Why Book 4 matters
+## Access status
 
-This ledger covers the exact unresolved period for the Main Street investigation. Newspaper searches have not yet produced reliable exact-address occupants for **503 Main** or **505 Main** in 1916–1917.
+The direct Book 4 scan is approximately 274 MB, too large for normal full-file retrieval in the research environment. On 23 August 2026 the user opened the official scan and supplied screenshots of the relevant ledger pages, allowing a visual review of the target Main Street run.
 
-If the water-rent ledger is organized by customer, property, service address, route, or account location, it may identify the person or business responsible for water service at 503 and/or 505 during this gap. It may also provide comparison entries for known neighboring occupants such as 507, 509, or 511 Main.
+## Main Street sequence observed
 
-## Current access status — direct scan recovered, but extremely large
+The ledger page visually shows the odd-numbered Main Street sequence:
 
-A follow-up on **22 August 2026** recovered the City's direct DocumentCenter endpoint above. This corrects the earlier note that the scan endpoint itself did not resolve.
+**511 Main → 509 Main → 507 Main → 503 Main → 503½ Main → 501 Main**
 
-The document is online, but the web retrieval layer reports a content length of approximately **273,912,875 bytes (~274 MB)** and refuses to fetch the entire file because of its size. Therefore:
+No **505 Main** house number is written in the expected numerical position between 507 and 503.
 
-- the source is **not missing**;
-- the direct City scan URL is now known and preserved;
-- no ledger page has yet been visually inspected in the current research environment;
-- no 503/505 customer, owner, tenant, or address entry has been transcribed or treated as evidence.
+This is a positive visual observation from the ledger, not an OCR-silence inference.
 
-Do **not** infer anything about 503/505 occupancy from the existence of the ledger alone.
+## 503 and 503½
 
-## Required next actions
+The ledger separately recognizes:
 
-1. Find a practical way to access the large Book 4 scan page-by-page or in partial ranges rather than retrieving the full ~274 MB document at once.
-2. Visually inspect the ledger rather than relying only on OCR.
-3. Determine how entries are organized: address, owner, tenant/customer, account number, route, or another scheme.
-4. Search/transcribe **501, 503, 505, 507, 509, 511 Main** and any known comparison customers.
-5. If the ledger is name-indexed rather than address-indexed, test known names from the target block and property-owner leads, including **Frank D. Cox, L. Hylton, George A. Harding, H. P. Brightbill, W. W. Bradley**, and any identified 505 owner/operator candidates.
-6. Preserve ledger page numbers/images for any target-address entry before promoting it into the evidence register.
+- **503 Main**
+- **503½ Main**
+
+Both entries appear in the Main Street run and are associated with **G. A. Harding, Agt.** as owner/agent. Faint tenant writing is present, but the tenant names are not yet transcribed with enough confidence to promote as names.
+
+The use of ½-addresses elsewhere in the same ledger (examples visible in screenshots include 417½, 512½, and 524½) supports treating **503½ as a genuine separately recorded sub-address/unit**, not as shorthand for 505 Main.
+
+## 505 Main — absence from expected sequence
+
+Because the ledger explicitly records 503½ and other half-addresses, the omission of 505 from the sequence is meaningful. The defensible finding is:
+
+> In the visually reviewed 1916–1917 Main Street sequence, 503 Main and 503½ Main are separately recorded, while no separate 505 Main entry appears between 507 and 503.
+
+This does **not** prove that 505 was vacant. Possible explanations include no independent municipal water account, shared service through another account/property, a service/accounting exception, or another unresolved arrangement.
+
+Do not equate 503½ with 505 without independent evidence.
+
+## 501 Main
+
+The 501 Main entry immediately following 503½ contains a handwritten classification/use notation that appears to read **"Restaurant"**. A nearby **"5th"** notation is also visible, but its meaning is unresolved; it may be a cross-reference, corner/service note, or other ledger annotation. Record the restaurant reading as high-confidence working transcription, but do not infer that the business itself was addressed on 5th Street solely from this notation.
+
+## Other screenshot context
+
+Additional screenshots from Book 4 show that a visible **505** elsewhere in the ledger belongs to a different street sequence (5th Street / nearby Center Street context), not to 505 Main. It therefore does not resolve the missing 505 Main account.
+
+## Research conclusions / confidence
+
+- **503 Main separately recorded:** high confidence.
+- **503½ Main separately recorded:** high confidence.
+- **G. A. Harding, Agt. associated with the target block entries:** high confidence visual reading.
+- **505 Main not explicitly present in the expected 1916–1917 Main Street sequence:** high confidence.
+- **501 Main classified/used as Restaurant:** high confidence working transcription.
+- **Meaning of the nearby "5th" notation:** unresolved.
+- **Reason for 505 Main's absence:** unresolved; absence is not proof of vacancy.
+
+## Required follow-up
+
+1. Preserve higher-resolution crops of the 503 and 503½ tenant lines if possible and attempt name identification by comparison with directories/newspapers.
+2. Compare Book 4 with 1914–1915 Water Rent Record Book 3.
+3. Check whether any owner/tenant name associated with the blank-position/505 question matches known 505 businesses or owners.
+4. Keep 503½ and 505 separate unless an independent source explicitly links them.
 
 ## Research-standard note
 
-This file records a source lead and an access breakthrough only. The ledger itself must be visually reviewed before any historical claim is made from it.
+These findings are based on direct visual inspection of user-supplied screenshots from the official City scan. Faint handwriting should not be promoted to named-person evidence until independently legible/corroborated.
