@@ -8,23 +8,24 @@ This continues the 1917 Courier audit under `RESEARCH-STANDARD.md`. OCR/search/i
 
 Targeted searches for exact **503 Main** and **505 Main** in October 1917 have not produced a defensible occupant, transfer, vacancy, fire, demolition, or construction item.
 
-Newly confirmed issue-size anchors:
+Confirmed issue-size anchors:
 
+- **4 Oct 1917 — 8 images/pages**
 - **11 Oct 1917 — 8 images/pages**
 - **18 Oct 1917 — 8 images/pages**
 - **25 Oct 1917 — 8 images/pages**
-- **4 Oct 1917** — issue located, but the full image count still needs explicit confirmation in this pass.
 
 The lack of a target-address hit remains a search-status observation only; it is not evidence of vacancy or non-use.
 
 ## November 1917
 
-Known issue-size anchors include:
+Confirmed issue-size anchors include:
 
 - **1 Nov 1917 — 8 images/pages**
+- **8 Nov 1917 — 8 images/pages**
 - **29 Nov 1917 — 8 images/pages**
 
-The 8 Nov, 15 Nov, and 22 Nov issue roots are located, but their full image counts still need explicit confirmation rather than assumption.
+The 15 Nov and 22 Nov issue roots are located, but their full image counts still need explicit confirmation rather than assumption.
 
 Targeted November searches likewise have not produced a defensible exact-address occupant for **503 Main** or **505 Main**.
 
@@ -55,6 +56,6 @@ Neither newspaper-directory silence nor water-account absence independently prov
 ## Next steps
 
 1. Visually clear all 24 pages of the 13 Dec 1917 issue when direct page rendering is available.
-2. Explicitly confirm the full image counts for 4 Oct and 8/15/22 Nov.
+2. Explicitly confirm the full image counts for 15 Nov and 22 Nov.
 3. Continue parallel Enterprise/Morning Enterprise review for 1917.
 4. Continue business-name / transfer / sale / removal searches that may reveal 503/505 without printing the exact address.
