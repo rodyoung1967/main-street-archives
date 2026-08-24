@@ -2,7 +2,7 @@
 
 Status: **active lead file / mixed evidence quality**
 
-Purpose: trace the people behind the short-lived 1918 **Wolf & Miller** operation at **505 Main**, and test whether later Wolf/Miller property relationships help identify the 505 transition or the Wolf-family ownership later reported at 503 Main.
+Purpose: trace the people behind the short-lived 1918 **Wolf & Miller** operation at **505 Main**, and test whether later Wolf/Miller property relationships help identify the 1922 fire premises or the Wolf-family ownership later reported at 503 Main.
 
 ## Gilbert Miller identified as the Miller partner
 
@@ -34,20 +34,46 @@ Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
 
 This proves both names were present in the same Oregon City commercial network by 1922, but it does **not** prove that S. Wolf was the 1918 Wolf & Miller partner.
 
-## 18 Jul 1922 fire — documented Wolf/Miller property connection, but not at 503/505
+## February–May 1922 — Miller's Shoe Store opposite the Post Office
 
-**20 Jul 1922, Banner-Courier, p1** reports a major fire in Oregon City's older business section. The destroyed/damaged businesses included the Oregon City Laundry, May & Washburne garage, Fifth Street restaurant, **Gilbert Miller's shoe-repair shop**, and other frame businesses.
+Two primary **Banner-Courier** advertisements have now been visually verified before the July fire:
+
+- **23 Feb 1922, p3** — `Millers Shoe Store`, men's and boys' shoes, gloves, laces, shoe polish/oils/greases, **EXPERT SHOE REPAIRING**, `Main Street — Opposite Post Office`.
+- **4 May 1922, p5** — the same store name, trade mix, shoe-repair service and `Main Street — Opposite Post Office` wording recur.
+
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-02-23/ed-1/seq-3.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-05-04/ed-1/seq-5.pdf
+
+Neither advertisement explicitly names Gilbert Miller as proprietor or prints an exact street number. Therefore **Miller's/Millers Shoe Store = Gilbert Miller's business remains a strong inference, not direct proof**.
+
+The identity inference is unusually strong because the July fire report names **Gilbert Miller's shoe-repair shop** and says his **stock of shoes** was destroyed, while his signed September post-fire advertisement says his shoe machinery was restored for the same shoe repairing he had done **before the fire** and again advertises shoes/gloves.
+
+Dedicated evidence note:
+`evidence/source-captures/1922-millers-shoe-store-gilbert-miller-continuity-lead.md`
+
+## 18 Jul 1922 fire — documented Wolf/Miller relationship in the fire cluster
+
+**20 Jul 1922, Banner-Courier, p1** reports the major Fifth/Main-area fire. The destroyed/damaged businesses included the Oregon City Laundry, May & Washburne garage, Fifth Street restaurant, **Gilbert Miller's shoe-repair shop**, and other frame businesses.
 
 Important details:
 
-- The fire began in a vacant store room formerly used by tailor Alex Schieremann.
+- The fire began in a vacant **Main Street store room** formerly used by tailor Alex Schieremann.
 - **The building in which the fire started was owned by S. Wolf of Portland.**
+- A **pool hall adjoined** the ignition room.
 - **Gilbert Miller's shoe-repair shop was destroyed**, together with shoe stock; the paper reports insurance of $1,200.
-- The event is described in the local reporting as a **Fifth Street / older-business-section fire**. It should **not** be mapped to 503 or 505 Main without a parcel/address source.
 
 Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
-This is the strongest primary evidence recovered so far of a continuing **S. Wolf ↔ Gilbert Miller property/business relationship** after the 1918 Wolf & Miller period. The relationship could be business, family, landlord/tenant, or some combination; the source itself does not explain it.
+This is the strongest primary evidence recovered so far of a continuing **S. Wolf ↔ Gilbert Miller property/business network** after the 1918 Wolf & Miller period. The relationship could be business, family, landlord/tenant, nearby-property ownership, or some combination; the source itself does not explain it.
+
+### Fire-location caution
+
+Earlier versions of this note said the July fire should simply be kept separate from 503/505. That wording is now too strong and is superseded.
+
+The current reconstruction has substantial evidence that the ignition room belonged somewhere in the **odd-numbered Main Street frontage near Fifth**, with **503 currently the strongest hypothesis and 501 still a live alternative**. The 1925 geometry — 503 restaurant, 505 billiards/cigars, and the laundry behind 501/503 — is compatible with a **503 ignition room adjoining a 505 pool hall**, but this remains **unproven**.
+
+Do not assign the ignition room, S. Wolf property, Gilbert Miller shop, or adjoining pool hall to 501/503/505 until a contemporary exact-address, parcel, license, tax, deed, directory, or equivalent spatial bridge proves the mapping.
 
 ## Post-fire Gilbert Miller location
 
@@ -55,7 +81,14 @@ This is the strongest primary evidence recovered so far of a continuing **S. Wol
 
 Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5/
 
-This confirms that the July fire forced/preceded a move into 209 Fifth and further supports keeping that fire separate from 503/505 Main unless new evidence says otherwise.
+The advertisement specifically says his **shoe machinery is set up** and that he is ready for the same high-class shoe repairing **as before the fire**. This directly proves Gilbert Miller had a pre-fire shoe-repair operation, but does not print the old address.
+
+A later **26 Oct 1922 Banner-Courier** advertisement uses the trade name **MILLER'S SHOE STORE**, advertises men's everyday shoes/rubbers/gloves and expert shoe repairing, and gives **419 Main St.**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2/
+
+Evidence status for the October item: **OCR/WEB-PAGE TEXT LOCATED; page-image visual certification still required before using it as a visually verified address transition.**
 
 ## Family-relationship lead — secondary genealogy only
 
@@ -69,7 +102,7 @@ If corroborated, it offers a plausible reason that Gilbert Miller continued to h
 
 ## Possible connection to later 503 ownership — NOT PROVEN
 
-The Oregon City historic-survey research reportedly places **Wolf-family ownership of 503 Main beginning around 1922**. The newly recovered 1922 S. Wolf/Gilbert Miller evidence makes it important to test whether:
+The Oregon City historic-survey research reportedly places **Wolf-family ownership of 503 Main beginning around 1922**. The 1922 S. Wolf/Gilbert Miller evidence makes it important to test whether:
 
 1. **S. Wolf of Portland** was the Wolf in the 1918 Wolf & Miller partnership;
 2. S. Wolf was related to Clara Rose Wolf / Henry & Elizabeth Wolf;
@@ -83,6 +116,8 @@ At present **none of those identities/connections is proven**. Do not merge them
 1. Identify the full name of **S. Wolf of Portland** using 1920–1923 Portland directories, deeds and Oregon City property records.
 2. Identify the first name of the **Wolf** partner in Springfield's Wolf & Miller through business licenses, directories, newspaper social items, partnership notices or dissolution reporting.
 3. Find the exact parcel/address of S. Wolf's building involved in the July 1922 fire.
-4. Corroborate Gilbert Miller's marriage to Clara Rose Wolf and identify Clara's siblings/next of kin.
-5. Locate deeds/tax records establishing the reported Wolf-family acquisition of **503 Main around 1922** and compare the owner name directly with S. Wolf / Clara's Wolf family.
-6. Keep the 1922 Fifth Street fire separate from 503/505 unless an address or parcel record proves otherwise.
+4. Find a pre-fire source explicitly naming **Gilbert Miller** as proprietor/operator of `Miller's/Millers Shoe Store`.
+5. Visually verify the 26 Oct 1922 `MILLER'S SHOE STORE — 419 Main St.` advertisement and reconstruct the post-fire 209 Fifth → 419 Main move.
+6. Corroborate Gilbert Miller's marriage to Clara Rose Wolf and identify Clara's siblings/next of kin.
+7. Locate deeds/tax records establishing the reported Wolf-family acquisition of **503 Main around 1922** and compare the owner name directly with S. Wolf / Clara's Wolf family.
+8. Keep the 501/503/505 fire mapping explicitly unresolved until an exact spatial bridge is recovered.
