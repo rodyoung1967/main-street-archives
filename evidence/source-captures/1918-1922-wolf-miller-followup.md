@@ -83,12 +83,14 @@ Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5/
 
 The advertisement specifically says his **shoe machinery is set up** and that he is ready for the same high-class shoe repairing **as before the fire**. This directly proves Gilbert Miller had a pre-fire shoe-repair operation, but does not print the old address.
 
-A later **26 Oct 1922 Banner-Courier** advertisement uses the trade name **MILLER'S SHOE STORE**, advertises men's everyday shoes/rubbers/gloves and expert shoe repairing, and gives **419 Main St.**
+The actual scanned page of the **26 Oct 1922 Banner-Courier, p2** has also now been visually inspected. A boxed advertisement reads **MILLER'S SHOE STORE**, advertises men's everyday shoes, rubbers, gloves and **Expert Shoe Repairing**, and gives **419 Main St., Oregon City**.
 
 Source:
-https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2/
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2.pdf
 
-Evidence status for the October item: **OCR/WEB-PAGE TEXT LOCATED; page-image visual certification still required before using it as a visually verified address transition.**
+Verification state: **VISUALLY VERIFIED**.
+
+This establishes a post-fire sequence from the signed **Gilbert Miller at 209 Fifth** advertisement on 21 September to **Miller's Shoe Store at 419 Main** on 26 October. The October advertisement still does not print Gilbert's first name, so the trade-name identity remains a strong continuity inference rather than source-explicit proof.
 
 ## Family-relationship lead — secondary genealogy only
 
@@ -116,8 +118,8 @@ At present **none of those identities/connections is proven**. Do not merge them
 1. Identify the full name of **S. Wolf of Portland** using 1920–1923 Portland directories, deeds and Oregon City property records.
 2. Identify the first name of the **Wolf** partner in Springfield's Wolf & Miller through business licenses, directories, newspaper social items, partnership notices or dissolution reporting.
 3. Find the exact parcel/address of S. Wolf's building involved in the July 1922 fire.
-4. Find a pre-fire source explicitly naming **Gilbert Miller** as proprietor/operator of `Miller's/Millers Shoe Store`.
-5. Visually verify the 26 Oct 1922 `MILLER'S SHOE STORE — 419 Main St.` advertisement and reconstruct the post-fire 209 Fifth → 419 Main move.
+4. Find a source explicitly naming **Gilbert Miller** as proprietor/operator of `Miller's/Millers Shoe Store`.
+5. Reconstruct the post-fire **209 Fifth → 419 Main** move between 21 Sep and 26 Oct 1922 and find a transition notice if possible.
 6. Corroborate Gilbert Miller's marriage to Clara Rose Wolf and identify Clara's siblings/next of kin.
 7. Locate deeds/tax records establishing the reported Wolf-family acquisition of **503 Main around 1922** and compare the owner name directly with S. Wolf / Clara's Wolf family.
 8. Keep the 501/503/505 fire mapping explicitly unresolved until an exact spatial bridge is recovered.
