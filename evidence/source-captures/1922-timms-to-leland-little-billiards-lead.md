@@ -1,10 +1,36 @@
-# 1922 billiards chronology lead — Timms Pool Hall to Leland & Little
+# 1922 billiards chronology — Timms Pool Hall and Leland & Little
 
-Status: **June and August source pages visually verified; succession and address unproven**
+Status: **February, June, and August evidence visually verified; addresses and relationship between businesses unresolved**
 
-Purpose: preserve a potentially useful change in named Oregon City billiards businesses between June and August 1922 without assuming that the names represent the same premises or a direct transfer.
+Purpose: preserve the 1922 Oregon City billiards-business evidence without assuming that Timms Pool Hall and Leland & Little were the same premises or a direct succession.
 
-## 8 June 1922 — Timms, Walter Little, and O. H. Leland are separate entries
+## 25 February 1922 — Leland & Little already exists
+
+The actual scanned page of the **Morning Oregonian, 25 Feb 1922, p. 15** was visually inspected.
+
+A large Portina cigar advertisement includes a separate subsection headed **Oregon City Dealers**. The Oregon City list includes:
+
+- Goldsmith, J.
+- Huerth & Sandergaard
+- Jones Drug Co.
+- Knightly, A. J.
+- **Leland & Little**
+- **Little, W. L.**
+- McAnulty & Barry
+- Schoenborn, F. B.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn83025138/1922-02-25/ed-1/seq-15.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+This corrects an earlier working inference that the Leland & Little partnership/trade name may have formed between June and August 1922. **Leland & Little was already an Oregon City concern by 25 February 1922.**
+
+The February cigar-dealer list does not state the firm's address or business type. However, the firm's participation as a cigar dealer is compatible with the later August description as a billiards business and with the 1925 Sanborn's billiards/cigars use at 505 Main. Compatibility is not an address bridge.
+
+The same February list separately includes **Little, W. L.** This means a Little individual/business and Leland & Little could both be listed simultaneously. Do not infer from separate June entries that the partnership did not yet exist.
+
+## 8 June 1922 — Timms, Walter Little, and O. H. Leland are separate merchant-list entries
 
 The actual scanned page of the **Banner-Courier, 8 Jun 1922, p. 10** was visually inspected.
 
@@ -20,9 +46,11 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
 
 Verification state: **VISUALLY VERIFIED**.
 
-This is important because it shows that **Walter Little and O. H. Leland were individually participating in the Oregon City merchant network while Timms Pool Hall was separately named on the same June list**. Therefore neither Little nor Leland should be silently equated with Timms Pool Hall from the June source.
+Because Leland & Little is independently proven to exist by February, these June individual entries **cannot be used to date the formation of the partnership**. They may represent the individual partners being listed under their own names, separate businesses, or some other merchant-roster convention.
 
-No address is printed for Timms Pool Hall, Walter Little, or O. H. Leland in this roster.
+The June page still establishes that **Timms Pool Hall was a separately named business in the same merchant roster**. Thus Timms should not be silently merged with Leland & Little.
+
+No address is printed for Timms Pool Hall, Walter Little, or O. H. Leland in the recovered roster.
 
 ## Walter Little context
 
@@ -31,7 +59,7 @@ Oregon City's historic inventory for the Walter Little Building at **512 7th Str
 City source:
 https://orcity.org/2126/512-7th-Street
 
-This provides an independently documented earlier business identity for Walter Little and cautions against assuming that his June 1922 roster entry itself represented a billiards hall. It does not rule out Little entering a billiards partnership later in 1922.
+This provides an independently documented earlier business identity for Walter Little. It does not establish whether **W. L. Little** in the February dealer list is Walter Little, although that is a plausible identity lead requiring corroboration.
 
 ## 17 August 1922 — Leland and Little, Billiards visually verified
 
@@ -44,32 +72,42 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/
 
 Verification state: **VISUALLY VERIFIED**.
 
-## Formation-window implication
+Combined with the February source, this proves:
 
-The combination of the two visually verified pages creates a tighter chronology:
+1. **Leland & Little existed in Oregon City by 25 Feb 1922**;
+2. it was identified specifically as a **billiards** business by 17 Aug 1922;
+3. therefore it is a legitimate candidate for one of Oregon City's pre-fire 1922 billiard/pool establishments.
 
-- **8 Jun 1922:** `Walter Little`, `O. H. Leland`, and `Timms Pool Hall` appear as three separate merchant-list entries.
-- **17 Aug 1922:** `LELAND AND LITTLE, Billiards` appears as a named billiards business.
-
-This strongly suggests that a **Leland/Little billiards partnership or trade name had formed by mid-August 1922**. The simplest working hypothesis is that the June individuals O. H. Leland and Walter Little are the partners named in August, but a partnership notice, license, advertisement, or other direct source is still needed before treating that identity as proven.
-
-The dates also bracket the appearance of the partnership name to a period that includes the **18 July 1922 Fifth/Main fire**. That makes the business potentially relevant to the fire-adjacent pool-hall question, but the timing alone does not show whether the fire caused a move or ownership change.
+It does **not** prove that Leland & Little was the unnamed pool hall adjoining Alex Schieremann's former tailor shop in July.
 
 ## Why this matters
 
-The July 18 fire report says a pool hall adjoined the vacant former Alex Schieremann tailor shop where the fire started. The June merchant list names Timms Pool Hall; one month after the fire, the August business list names Leland & Little as a billiards business.
+The 18 July fire report says a pool hall adjoined the vacant former Alex Schieremann tailor shop where the fire started. We now have at least three distinct 1921–1922 billiards/pool-hall evidence streams:
 
-That creates several testable possibilities:
+1. **Ed Wheeler pool room** — exact location Sixth & Main in Nov 1921 and Wheeler Pool Hall name still referenced Aug 1922;
+2. **Leland & Little** — Oregon City concern by Feb 1922 and specifically billiards by Aug 1922;
+3. **Timms Pool Hall** — separately named in the June 1922 merchant roster.
 
-1. Timms and Leland & Little were the same hall under a recent ownership/name change;
-2. both were separate halls and only one participated in each promotion;
-3. Timms ceased operating and Leland & Little occupied a different existing hall;
-4. Leland & Little represented a newly formed billiards business unrelated to Timms;
-5. the fire or another business transfer affected the billiards-business roster.
+This makes it unsafe to assume that the unnamed fire-adjacent pool hall was Timms merely because Timms appears in the June merchant list.
 
-None of these possibilities is yet proven.
+## Relationship to 505 Main
 
-The August list also differs from the June roster in many other businesses, so **absence of Timms from the August list is not evidence that Timms closed, moved, burned, or was replaced**.
+The visually reviewed May 1925 Sanborn marks **505 Main** as billiards/cigars. The February Portina cigar-dealer listing for Leland & Little plus the August billiards description creates a particularly interesting functional match:
+
+- Feb 1922: Leland & Little is an Oregon City **cigar dealer**;
+- Aug 1922: Leland & Little is **billiards**;
+- May 1925: **505 Main = billiards/cigars**.
+
+This is a **strong research lead**, not an address proof. A license, directory, advertisement, deed/lease, or other exact-address source is still required before assigning Leland & Little to 505 Main.
+
+At present there is still no direct evidence that:
+
+- Timms Pool Hall was at 505 Main;
+- Leland & Little was at 505 Main;
+- Timms became Leland & Little;
+- O. H. Leland and Walter Little are definitely the partners in Leland & Little;
+- `Little, W. L.` in February is definitely Walter Little;
+- either Timms or Leland & Little was the pool hall adjoining Schieremann in July 1922.
 
 ## Multiple-pool-hall caution
 
@@ -78,42 +116,40 @@ A visually reviewed **18 Nov 1921 Oregon City Enterprise** report independently 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-18/ed-1/seq-1/
 
-This demonstrates that another Main Street pool room was operating at a different intersection only eight months before the July 1922 fire. It reinforces the rule that `pool hall` evidence must be tied to an exact operator/address before assigning it to 505 Main or to the fire-adjacent premises.
+A **3 Aug 1922 Banner-Courier** report still refers to the **Wheeler Pool Hall** when describing the earlier attempted safe robbery, supporting continued recognition of that business after the July fire.
 
-## Relationship to 505 Main
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-1/
 
-The visually reviewed May 1925 Sanborn marks **505 Main** as billiards/cigars. This makes any verified 1922 address for Timms or Leland & Little highly valuable for testing continuity into the 505 premises.
-
-At present there is still no direct evidence that:
-
-- Timms Pool Hall was at 505 Main;
-- Leland & Little was at 505 Main;
-- Timms became Leland & Little;
-- O. H. Leland and Walter Little are definitely the August partners, despite the strong name/timing fit;
-- either Timms or Leland & Little was the pool hall adjoining Schieremann in July 1922.
+This reinforces the rule that `pool hall` evidence must be tied to an exact operator/address before assigning it to 505 Main or to the fire-adjacent premises.
 
 ## Related regulatory lead
 
-A January 1922 Oregon City Enterprise editorial reports that the city council was considering a new pool-hall ordinance and that the council would have strong control over questionable halls. Historic Oregon City municipal records preserve pool-hall license applications in other years, making 1922 council/license records a high-priority address source.
+A January 1922 Oregon City Enterprise editorial reports that the city council was considering a new pool-hall ordinance and that the council would have strong control over questionable halls. Historic municipal-code language later required pool/billiard permit applications to state the **particular place** where the tables would be located, making contemporary permit/license records a potentially definitive address source.
 
-Source:
+Sources:
 https://oregonnews.uoregon.edu/lccn/sn00063700/1922-01-20/ed-1/seq-3/
+https://www.orcity.org/DocumentCenter/View/11782/1963-Oregon-City-Municipal-Code
 
 ## Confidence
 
+- Leland & Little appears among Oregon City Portina cigar dealers on 25 Feb 1922: **Very High / visually verified**
+- Leland & Little existed before the July 1922 fire: **Very High**
 - June 1922 page visually reviewed: **Very High**
 - Timms Pool Hall appears in June 1922 merchant roster: **Very High**
 - Walter Little and O. H. Leland appear separately from Timms in same June roster: **Very High**
 - Leland & Little identified as a billiards business on 17 Aug 1922 scanned page: **Very High**
-- August Leland & Little partners = June O. H. Leland + Walter Little: **Strong inference / not yet direct proof**
-- Direct Timms → Leland & Little succession: **Unproven**
+- Leland & Little was a pre-fire billiards business specifically, rather than merely a cigar-dealing concern in February: **Plausible / not directly proven until an earlier billiards descriptor is found**
+- Leland & Little = 1925 505 Main billiards/cigars: **Strong functional/geographic lead / unproven**
+- Direct Timms → Leland & Little succession: **Unproven and now less necessary as an explanation because Leland & Little predates June**
 - Either business at 505 Main in 1922: **Unproven**
 - Either business was the fire-adjacent pool hall: **Unproven**
 
 ## Next checks
 
 1. Retrieve Oregon City council minutes, pool-hall license applications, and permits from late 1921 through 1923.
-2. Find a partnership/formation notice explicitly connecting **O. H. Leland and Walter Little** to Leland & Little.
-3. Search for advertisements or legal notices giving Timms or Leland & Little a street address.
-4. Trace the Ed Wheeler Sixth/Main pool room through 1922 to make sure it is not being confused with Timms or Leland & Little.
-5. Test whether any billiards chain bridges directly to the billiards/cigars occupancy at 505 Main on the 1925 Sanborn.
+2. Find an exact-address advertisement or directory entry for **Leland & Little**.
+3. Find a partnership record explicitly identifying Leland & Little's partners.
+4. Identify **W. L. Little** and determine whether he is Walter Little.
+5. Search for advertisements or legal notices giving Timms Pool Hall a street address.
+6. Test whether Leland & Little bridges directly to the billiards/cigars occupancy at 505 Main on the 1925 Sanborn.
