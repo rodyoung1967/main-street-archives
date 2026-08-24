@@ -1,4 +1,4 @@
-# Scripture shop predecessor chain — Fifth Street near Main, 1912–1916
+# Scripture shop predecessor chain — Fifth Street near Main, 1912–1917
 
 Status: **VISUALLY VERIFIED address/use anchors; business-continuity details partly unresolved**
 
@@ -51,6 +51,17 @@ Verification state: **VISUALLY VERIFIED**.
 
 This is currently the earliest visually verified exact-number anchor recovered for the Scripture & May shop at 108 Fifth.
 
+## 1 Feb 1917 — 108 Fifth continuity visually confirmed
+
+The actual scanned page of the **Oregon City Courier, 1 Feb 1917, p. 5** was visually inspected. The Scripture & May advertisement again gives **108 Fifth St.**, with the same horseshoeing and disc-harrow-sharpening trade.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1917-02-01/ed-1/seq-5.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+This confirms that the 108 Fifth shop was not merely a late-1916 address occurrence: Scripture & May remained at that exact number into 1917. Additional 1917 newspaper notices continue the firm on Fifth Street, although not every occurrence prints the number.
+
 ## Relationship to the laundry
 
 By the 24 Oct 1918 Courier business guide, the same immediate Fifth Street cluster is explicitly numbered:
@@ -66,9 +77,10 @@ Thus the documented sequence is:
 1. **1912** — Scripture & Beauliau, Fifth Street near Main;
 2. **Feb–Apr 1916** — Oregon City Laundry acquires a Fifth Street site and builds just off Main;
 3. **Oct 1916** — Scripture & May at **108 Fifth**;
-4. **1918** — Scripture & May at **108 Fifth**, laundry at **109 Fifth**;
-5. **Dec 1920 onward** — May & Washburn partnership is documented;
-6. **Jul 1922** — May & Washburn's frame garage and Oregon City Laundry are destroyed in the same Fifth Street fire.
+4. **Feb 1917** — Scripture & May still at **108 Fifth**;
+5. **1918** — Scripture & May at **108 Fifth**, laundry at **109 Fifth**;
+6. **Dec 1920 onward** — May & Washburn partnership is documented;
+7. **Jul 1922** — May & Washburn's frame garage and Oregon City Laundry are destroyed in the same Fifth Street fire.
 
 ## Interpretation
 
@@ -94,6 +106,7 @@ That would substantially improve the ability to position the restaurant, Miller 
 
 - Scripture & Beauliau on Fifth Street near Main in Jan 1912: **Very High / visually verified**
 - Scripture & May at 108 Fifth by Oct 1916: **Very High / visually verified**
+- Scripture & May still at 108 Fifth in Feb 1917: **Very High / visually verified**
 - Laundry moved to Fifth Street in Feb 1916: **Very High / visually verified**
 - Scripture/May business chain represents same exact physical shop continuously from 1912: **Plausible / unproven**
 - May & Washburn inherited 108 Fifth: **Plausible / unproven**
