@@ -91,6 +91,17 @@ This creates a real business/person continuity from:
 
 This continuity is important, but it does **not** by itself identify the `Wolf` partner or prove that the 1922 building owner **S. Wolf** was the same person.
 
+### Probability shift on `S. Wolf = Wolf & Miller partner`
+
+The chronology now weakens, rather than strengthens, a simple identity equation between the 1918 Wolf partner and the 1922 property owner.
+
+- Gilbert Miller is documented moving to **Oregon City by August 1918** and is still there afterward.
+- The **10 Oct 1918** Wolf & Miller dissolution notice says **one partner would go to Idaho** and the other would restock and continue the business.
+
+The most natural reading is therefore that **Gilbert Miller was the partner who stayed in Oregon City and the Wolf partner was probably the one who left for Idaho**.
+
+That is an inference, not explicit wording in the dissolution notice. It means the archive should now treat **`S. Wolf of Portland in 1922 = Wolf & Miller partner` as possible but weaker than before**, unless later evidence shows that the Wolf partner returned from Idaho or that the dissolution wording had another meaning.
+
 Detailed Springfield chronology:
 `evidence/source-captures/wolf-miller-springfield-1915-1918-chronology.md`
 
@@ -218,7 +229,8 @@ This may help interpret:
 - Gilbert Miller as the Springfield businessman who moved to Oregon City in Aug 1918: **High–Very High**, with a preserved contemporary `C. E. Miller` source conflict
 - Gilbert Miller's 1922 shoe-repair shop was in the same fire cluster: **Very High**
 - Gilbert Miller reopened at 209 Fifth by Sep 1922: **Very High**
-- S. Wolf = Wolf partner in Wolf & Miller: **Plausible / unproven**
+- Wolf partner probably Idaho-bound in Oct 1918: **Moderate inference**
+- S. Wolf = Wolf partner in Wolf & Miller: **Possible / weakened by chronology / unproven**
 - S. Wolf = later 503 Wolf-family owner: **Plausible / unproven**
 - Clara Rose Wolf family = S. Wolf / later 503 Wolf family: **Plausible / unproven**
 - Fire-start building = 501, 503, or 505 Main: **Unresolved**
