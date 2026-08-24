@@ -32,6 +32,14 @@ contains a clearly labeled **OREGON CITY LAUNDRY** building/complex on the Fifth
 
 The Main Street commercial buildings occupy the eastern edge of this same block. This is the block containing the Main Street frontage later associated with the **501 / 503 / 505** address sequence.
 
+## Direct corner/storefront observation
+
+The visual map makes one relationship especially clear: **the Oregon City Laundry is not the corner building at Fifth & Main.** A separate strip of commercial storefronts/buildings lies between the laundry complex and Main Street, including the Fifth/Main corner frontage and the adjoining Main Street storefront sequence.
+
+This strengthens the rear-of-block interpretation. The laundry occupies the Fifth Street/interior side of the block while separate commercial premises front Main Street.
+
+The scan is sufficient to establish that separation with high confidence, but the small address/lot markings are not yet being used to assign the laundry to a single rear lot such as 501 versus 503. That requires a closer lot-line read and should remain unresolved until legible.
+
 ## Geometry implication for 501 / 503 / 505 Main
 
 This directly supports the working interpretation that the laundry was a **side/rear-of-block use behind the Main Street storefront frontage**, rather than a Main Street storefront itself.
@@ -81,6 +89,8 @@ https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
 - Sheet identification: **High**
 - Laundry physically present in Fifth/Water/Main block in May 1925: **Very high**
+- Laundry is not the Fifth/Main corner building: **Very high**
+- Separate Main Street storefront strip lies between laundry and Main: **High**
 - Laundry positioned behind Main Street commercial frontage: **High**
 - Exact rear-lot assignment to 501 vs. 503 vs. multiple Main parcels: **Unresolved / requires closer footprint comparison**
 - Same exact footprint as pre-July-1922 laundry: **Unresolved**
