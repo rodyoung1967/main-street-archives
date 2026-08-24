@@ -150,8 +150,11 @@ Dick and Sheila later purchased the 505 building from a woman remembered as **Mr
 ## Brass Rail / Dug Inn transfer cycle
 A 6 April 1988 Commission record identifies The Dug Inn (formerly Brass Rail) and a Wiitanen-to-Cotterell business transfer (`E-030`).
 
+## Before March 1991 — Wiitanens rename the business 505 Tavern
+After a later repossession returned the tavern business to their control, Dick and Sheila Wiitanen renamed it **505 Tavern** before selling it to their son Mitch. The exact rename date and formal license/entity wording remain open (`E-004`, `E-022`).
+
 ## March 1991-March 2004
-Mitch / Mitchell (C.) Young ran 505 Tavern at 505 Main. This period is not The Wheel.
+Mitch / Mitchell (C.) Young acquired the already-named 505 Tavern in March 1991 and ran it at 505 Main through March 2004. This period is not The Wheel.
 
 ## 2014
 Sheila Wiitanen died in 2014.

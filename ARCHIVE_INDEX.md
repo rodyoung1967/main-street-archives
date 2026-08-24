@@ -60,7 +60,8 @@ Associated names and topics:
 - Later sales, defaults, repossessions, and transfer intervals while the Wiitanens remained landlords
 - The Dug Inn
 - Sports Keg lead
-- Mitch / Mitchell (C.) Young ran 505 Tavern, March 1991-March 2004
+- Dick and Sheila Wiitanen renamed the business **505 Tavern** before selling it to their son Mitch in March 1991
+- Mitch / Mitchell (C.) Young acquired the business under that existing name and ran it, March 1991-March 2004
 - Thirsty Duck
 - Rear addition question
 - Richard / Dick Wiitanen real-estate ownership through his death in November 2024
@@ -87,7 +88,7 @@ Accuracy rules:
 
 - **The Wheel was only at 503 Main and was never a 505 business.**
 - **"The Wheel Tavern" was never an official business name.**
-- Mitch / Mitchell (C.) Young **ran** 505 Tavern at 505 Main Street from March 1991 to March 2004. Keep `BUS-009` The 505 as an earlier handling label. Do not say he restored the name or building.
+- Dick and Sheila Wiitanen had renamed the business **505 Tavern** before selling it to their son Mitch in March 1991. Mitch / Mitchell (C.) Young acquired and ran it under that existing name at 505 Main Street through March 2004. Keep `BUS-009` The 505 as an earlier handling label; do not say Mitch introduced or restored the name.
 - At 505, Dick and Sheila **operated Brass Rail before they owned the building**, then later purchased the 505 building from Mrs. Nesmeth / Nemeth. Do not collapse those into one transaction.
 - At 503, Dick and Sheila **bought The Wheel business from Raye**, later bought the 503 building, and later sold the business and building together. Exact transaction dates and counterparties still need documentary confirmation.
 
@@ -180,11 +181,11 @@ High-priority people/entities:
 - Larry — Larry's Kwality Cafe name/person, surname unknown
 - Ray Hansen — earlier owner/operator in the separate 505 Tavern business history; not Raye Grisham
 - Raye Grisham — grandmother; formerly Raye LaFarlette; bought The Wheel business at 503
-- Richard / Dick Wiitanen — later Wheel business owner at 503; family history says he and Sheila later bought the 503 building; also Brass Rail operator and later 505 real-estate owner; died November 2024
-- Sheila Wiitanen — associated with the later Wheel business/property sequence at 503 and Brass Rail / 505 property sequence; died 2014
+- Richard / Dick Wiitanen — later Wheel business owner at 503; family history says he and Sheila later bought the 503 building; also Brass Rail operator and later 505 real-estate owner; he and Sheila renamed the 505 business 505 Tavern before selling it to Mitch; died November 2024
+- Sheila Wiitanen — associated with the later Wheel business/property sequence at 503 and Brass Rail / 505 property sequence; she and Dick renamed the 505 business 505 Tavern before selling it to their son Mitch; died 2014
 - Willie — bartender under Ray Hansen and later transition-era 505 periods
 - Victor — restaurant manager during Raye Grisham's Wheel years and early Richard / Dick and Sheila Wheel years at 503
-- Mitch / Mitchell (C.) Young — same person (`P-011` / `P-018`); ran 505 Tavern, March 1991-March 2004; current 505 co-owner
+- Mitch / Mitchell (C.) Young — same person (`P-011` / `P-018`); son of the Wiitanens; acquired the already-named 505 Tavern and ran it March 1991-March 2004; current 505 co-owner
 - Mike Berman — later 505 Tavern owner / seller in 2017
 - Scott Forvilly — purchased and reopened as Thirsty Duck in 2017
 - Rodney Young — current 505 co-owner with Mitchell Young through 505 LLC / project steward
@@ -208,11 +209,11 @@ High-priority people/entities:
 ## Current Priority Searches
 
 1. Document the exact **503** sequence: Dick/Sheila purchase of The Wheel business from Raye, later purchase of the 503 building, and later joint sale of the business and building.
-2. Document the exact **505** sequence: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen 505 deed, later business sales/repossession periods, and 2024 estate transfer.
+2. Document the exact **505** sequence: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen 505 deed, later business sales/repossession periods, the Wiitanens' rename to 505 Tavern before the March 1991 sale to Mitch, and 2024 estate transfer.
 3. Build a Sanborn comparison table for the expanding Main Street research area, including 503, 505, 507, 509, 511, 527, and possible 501 Main where sheets permit.
 4. Tax statements, assessor cards, permits, deeds, and parcel records for 503 and 505.
 5. 1925 Sanborn map verification for 501 / 503 / 505 Main.
-6. Business-name chronology for The Wheel, Brass Rail Tavern, The Dug Inn, Sports Keg, 505 Tavern, and Thirsty Duck.
+6. Business-name chronology for The Wheel, Brass Rail Tavern, The Dug Inn, Sports Keg, 505 Tavern, and Thirsty Duck, including the exact date and license/registration wording for the Wiitanens' pre-March 1991 rename to 505 Tavern.
 7. OLCC records and business licenses for 503 and 505 Main.
 8. City directories and telephone books for Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, The Wheel, Brass Rail Tavern, and 505 Tavern.
 9. Locate **primary 1968 permit/assessor/construction records for the replacement 507-511 Harding Building**, now that `S-063` supplies the historic-inventory year.

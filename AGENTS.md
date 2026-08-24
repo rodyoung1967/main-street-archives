@@ -121,7 +121,8 @@ If evidence changes:
 - After buying 505, the Wiitanens remained real-estate owners/landlords while later tavern businesses changed operators. Later Wiitanen appearances in 505 transfer records may reflect sale, repossession, default, or transfer intervals.
 - The 6 April 1988 Wiitanen-to-Cotterell record (`E-030`) proves a 505 business-transfer role at that moment.
 - Ray Hansen and Raye Grisham are different people. Hansen belongs to the separate 505 Tavern history.
-- Mitch / Mitchell (C.) Young's March 1991-March 2004 period belongs to **505 Tavern at 505 Main**. He ran the business; do not say he restored the name, fixtures, or building.
+- Before selling the tavern business to their son Mitch in March 1991, Dick and Sheila Wiitanen had renamed it **505 Tavern**. Mitch acquired it under that existing public/trade name; do not say he introduced or restored the name. Exact rename date and formal license/entity wording remain documentary research targets.
+- Mitch / Mitchell (C.) Young ran **505 Tavern at 505 Main** from March 1991 through March 2004. This period is not The Wheel.
 - Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person (`P-011` / `P-018`).
 - Sheila Wiitanen died in 2014. Wiitanen ownership of 505 Main continued through Richard / Dick Wiitanen's death in November 2024.
 - After Dick's death, 505 Main passed to Rodney Young and Mitchell Young through his estate; current ownership/stewardship is through 505 LLC. Probate/deed documentation remains desirable.

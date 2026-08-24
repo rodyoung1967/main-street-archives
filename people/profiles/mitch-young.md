@@ -15,7 +15,7 @@
 
 Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are **the same person**. `P-011` and `P-018` are two archive IDs for that one person (do not merge the IDs).
 
-He **ran** (owned and operated) **505 Tavern** at 505 Main from March 1991 to March 2004. Do not say he restored the name, fixtures, or building; that is unknown. This period is not The Wheel.
+He was the Wiitanens' son. Dick and Sheila Wiitanen renamed the business **505 Tavern before selling it to him**, so he acquired it under that existing public/trade name in March 1991 and **ran** (owned and operated) it at 505 Main through March 2004. He did not introduce or restore the name. This period is not The Wheel.
 
 He also co-owns 505 Main with Rodney Young through 505 LLC (`P-018` lease/managing-member form).
 
@@ -27,7 +27,7 @@ This profile should not state that Mitch owned The Wheel. The Wheel is Raye Gris
 
 ## Evidence Summary
 
-- `E-004` - Mitch Young Direct Testimony: confirms he ran 505 Tavern at 505 Main from March 1991 to March 2004. Same person as Mitchell C. Young. Restoration of name/building unknown.
+- `E-004` - Mitch Young Direct Testimony: confirms the Wiitanens renamed the business 505 Tavern before selling it to their son Mitch, who acquired it under that existing name and ran it at 505 Main from March 1991 to March 2004. Same person as Mitchell C. Young.
 - `OH-001` - Mitch Young Direct Testimony: oral-history record preserving the testimony and follow-up interview questions.
 - `T-007` - Timeline entry for March 1991 to March 2004.
 
@@ -43,7 +43,7 @@ This profile should not state that Mitch owned The Wheel. The Wheel is Raye Gris
 ## Open Questions
 
 - What was Mitch Young's exact legal role: owner, operator, license holder, leaseholder, or some combination?
-- What was the exact legal business name during his period running 505 Tavern?
-- Who owned or operated the business immediately before March 1991?
+- What exact legal entity/license name appeared during his period running 505 Tavern?
+- On what date did Dick and Sheila rename the business 505 Tavern, and what paperwork records the change?
 - Who owned or operated the business immediately after March 2004?
 - Are there photographs, advertisements, licenses, menus, employee records, tax records, OLCC records, or newspaper mentions from Mitch Young's ownership period?

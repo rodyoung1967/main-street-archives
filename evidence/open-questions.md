@@ -32,12 +32,12 @@ Status: Location answered; exact name sequence partly open.
 **The Wheel was only at 503 Main. "The Wheel Tavern" was not an official business name.** Still open: exact date ranges for The Wheel, Wheel Cafe, Wheel Restaurant, and Wheel Lounge.
 
 ## OQ-010 — Mitch Young Business Name
-Status: Partially answered. Working trade name for March 1991-March 2004 is **505 Tavern**. License/OLCC/entity records remain desirable.
+Status: Answered for the public/trade name at acquisition. Mitch's participant testimony establishes that the Wiitanens renamed the business **505 Tavern before selling it to him in March 1991**, so he acquired it under that existing name. Still open: the exact rename date and the name/entity shown in license, OLCC, registration, and sale records.
 
 ## OQ-011 — Brass Rail Tavern
 Status: Partially answered.
 
-Family history establishes that **Dick and Sheila ran Brass Rail at 505 before owning the 505 building**. They later purchased that building from a woman remembered as **Mrs. Nesmeth / Nemeth**. Still open: exact Hansen-to-Wiitanen business transfer, Brass Rail start/rename date, 505 property-purchase date, seller spelling, and later repo/default intervals.
+Family history establishes that **Dick and Sheila ran Brass Rail at 505 before owning the 505 building**. They later purchased that building from a woman remembered as **Mrs. Nesmeth / Nemeth**. After a later repossession/control interval, they renamed the business **505 Tavern** before selling it to Mitch in March 1991. Still open: exact Hansen-to-Wiitanen business transfer, Brass Rail start/rename date, 505 property-purchase date, seller spelling, later repo/default intervals, and the exact date/formal paperwork for the pre-Mitch 505 Tavern rename.
 
 ## OQ-012 — Ray Hansen / Raye Grisham
 Status: Answered as to identity; dates still open. They are different people and belong to separate 505/503 histories.
@@ -57,9 +57,10 @@ Still open for 503: exact business-sale date from Raye; exact later property-pur
 - Dick and Sheila operated Brass Rail before owning the building.
 - They later bought the 505 building from Mrs. Nesmeth / Nemeth.
 - Wiitanen property ownership continued through Dick's November 2024 death.
+- Before selling the tavern business to their son Mitch in March 1991, Dick and Sheila renamed it 505 Tavern.
 - 505 then passed through Dick's estate to Rodney Young and Mitchell Young.
 
-Still open for 505: exact dates/deeds and later business repossession/default sequence.
+Still open for 505: exact dates/deeds, later business repossession/default sequence, and the date/license/entity paperwork for the pre-Mitch rename.
 
 ## OQ-014 — Willie
 What was bartender Willie's full name, and when did he work at 505 Main?
@@ -86,7 +87,7 @@ Status: Family sequence substantially clarified; documentary dates remain open.
 
 For **503**, the controlling family sequence is: **Raye owned The Wheel business → Dick and Sheila bought the business from Raye → Dick and Sheila later bought the 503 building → Dick and Sheila later sold The Wheel business and 503 building together.**
 
-For **505**, the controlling family sequence is: **Dick and Sheila operated Brass Rail before owning the building → later bought 505 from Mrs. Nesmeth / Nemeth → remained property owners while later tavern operators changed → 505 passed through Dick's estate to Rodney and Mitchell after his November 2024 death.**
+For **505**, the controlling family sequence is: **Dick and Sheila operated Brass Rail before owning the building → later bought 505 from Mrs. Nesmeth / Nemeth → remained property owners while later tavern operators changed → regained business control after a later repossession → renamed the business 505 Tavern before selling it to their son Mitch in March 1991 → 505 passed through Dick's estate to Rodney and Mitchell after his November 2024 death.**
 
 Primary transaction documents are still needed for exact dates, parties, spelling, and terms.
 

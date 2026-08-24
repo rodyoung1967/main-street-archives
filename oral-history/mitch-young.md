@@ -12,9 +12,9 @@
 
 Mitch Young directly confirmed that he owned and operated **505 Tavern at 505 Main Street** from **March 1991 to March 2004**.
 
-Family history adds that, after Dick and Sheila Wiitanen repossessed the business from prior operators, he purchased it from them in March 1991 and **ran** it. Earlier wording that he restored the 505 Tavern name is superseded; it is not known whether he restored a name, fixtures, or the building.
+On **24 August 2026**, Rodney Young relayed Mitch's further direct statement that, after Dick and Sheila Wiitanen repossessed the business from prior operators, **the Wiitanens renamed it 505 Tavern before Mitch bought it**. Mitch was their son and acquired the business under that already-existing public/trade name in March 1991. He did not introduce or restore the 505 Tavern name.
 
-This testimony is high-confidence for dates, location, and working trade name **505 Tavern**. License/directory pages are still desirable for the exact legal entity name.
+This participant/family testimony is very high confidence for the dates, location, public/trade name at acquisition, and the fact that the Wiitanens made the rename before the sale to Mitch. The exact rename date and formal OLCC/license/entity wording remain to be documented.
 
 Do **not** treat this period as The Wheel. The Wheel is at 503 Main (`BUS-004`).
 
@@ -26,9 +26,9 @@ Primary related business: `BUS-005` 505 Tavern. `BUS-009` The 505 remains as the
 
 ## Evidence Status
 
-- Evidence type: Primary participant testimony
-- Confidence: Very High for dates, role, and 505 Main; high for 505 Tavern as working trade name
-- Documentary confirmation: Still desirable for licenses, OLCC, directories, and the purchase-from-Wiitanens paperwork
+- Evidence type: Primary participant testimony, with the 24 August 2026 clarification relayed by the family/project steward
+- Confidence: Very High for dates, role, 505 Main, and the public/trade name already in use at acquisition; high for the pre-sale Wiitanen rename
+- Documentary confirmation: Still desirable for the exact rename date, licenses, OLCC/entity wording, directories, and the purchase-from-Wiitanens paperwork
 
 ## Related Archive Pages
 
@@ -39,7 +39,7 @@ Primary related business: `BUS-005` 505 Tavern. `BUS-009` The 505 remains as the
 
 ## Follow-Up Interview Questions
 
-- What exact name appeared on the OLCC license and business registration?
-- Confirm the March 1991 purchase from Dick and Sheila and any written sale documents.
+- When exactly did Dick and Sheila rename the business 505 Tavern, and did the rename immediately follow repossession?
+- What exact name and entity appeared on the OLCC license, business registration, and March 1991 sale documents?
 - Who operated immediately after March 2004 (Bagent / Heath Bark-Ley lead)?
 - Does Mitch remember Ray Hansen, Raye Grisham, Willie, Victor, or Sports Keg?

@@ -41,7 +41,8 @@ This register tracks business-name and operation chronology. **503 Main** and **
 | Later; exact date open | **Wiitanen purchase of 505 building** | — | `E-038` | High family | Dick and Sheila bought the 505 real estate from Mrs. Nesmeth / Nemeth after their Brass Rail operation had already begun. This corrects the former 503-building claim. |
 | By Apr. 1988 | The Dug Inn (formerly Brass Rail) | `BUS-016` | `E-030` | Very High | Change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. Because the Wiitanens also owned the building by the later period, this may reflect sale/repo/transfer rather than continuous operation. |
 | Late 1980s / early 1990s | Sports Keg | `BUS-017` | `E-041` | Family lead | Period of changing operators/repossessions; documentary dates pending. |
-| Mar. 1991-Mar. 2004 | 505 Tavern | `BUS-005` | `E-004`, `E-022` | Very High dates; high trade name | Mitch / Mitchell (C.) Young ran the business; restoration of name/building unknown. Not The Wheel. |
+| Before Mar. 1991; exact date open | Wiitanen-controlled business renamed **505 Tavern** | `BUS-005` | `E-004`, `E-022` | High participant/family | Dick and Sheila renamed the business before selling it to their son Mitch; exact date and formal license/entity wording pending. |
+| Mar. 1991-Mar. 2004 | 505 Tavern | `BUS-005` | `E-004`, `E-022` | Very High dates and name at acquisition | Mitch / Mitchell (C.) Young acquired the already-named business and ran it through March 2004. Not The Wheel. |
 | 2009 | 505 Tavern | `BUS-005` | `E-034` | High | Berman purchase statement. |
 | 2017–present | Thirsty Duck | `BUS-006` | `E-008` | Strong for 2017 opening; current occupancy confirmed | Still the operating business at 505 Main as of August 2026. Current lessee is Alan (`P-019`); 2025 lease spelling is Alin Guria. |
 

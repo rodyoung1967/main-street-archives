@@ -36,12 +36,12 @@ Cursor integration prompt: **Integrate [handoff file] into the archive per WORKF
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
-- Treat Mitch / Mitchell (C.) Young's testimony as confirming he **ran** **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. Keep `BUS-009` The 505 as an earlier handling label. Do not say he restored the name or building.
+- Treat Mitch / Mitchell (C.) Young's testimony as confirming that Dick and Sheila Wiitanen had renamed the business **505 Tavern before selling it to their son Mitch in March 1991**. Mitch acquired it under that existing public/trade name and ran it at **505 Main Street** through **March 2004**. Keep `BUS-009` The 505 as an earlier handling label; do not say Mitch introduced or restored the name.
 - **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`).
 - **The Wheel was only at 503 Main.** Do not label Mitch Young's 505 period as The Wheel, and do not use "The Wheel Tavern" as an official historical name.
 - At **503 Main**, family history says Dick and Sheila Wiitanen **bought The Wheel business from Raye Grisham**, later **bought the 503 building**, and later **sold the business and building together**. Exact transaction dates, counterparties, and deed/business-sale records remain open.
 - At **505 Main**, family history says Dick and Sheila **operated Brass Rail before owning the building**, then later **bought the 505 building from Mrs. Nesmeth / Nemeth** (spelling uncertain). Later business transfers/repossessions must be kept separate from continuing real-estate ownership.
-- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, and **Thirsty Duck** as related but distinct business-name questions until primary records prove continuity.
+- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, and **Thirsty Duck** as related but distinct business-name records. Direct participant testimony establishes **505 Tavern** as the public/trade name already in use when Mitch acquired the business; the exact pre-sale rename date and formal license/entity continuity still require documents.
 - Treat Time Capsule Maps metadata as a trusted internal project source because Rodney Young is Time Capsule Maps; still cite original image/source details when making external historical claims.
 - Preserve family/oral history, but separate it from deed/tax/assessor proof. Current family-name handling: grandmother's first marriage was Lafarlette and second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
 - Treat Sanborn maps as primary map sources for footprint, materials, street layout, and address-numbering research; use the Sanborn key when interpreting symbols.
@@ -93,11 +93,11 @@ The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/ori
 ## Next Evidence Priorities
 
 1. Document the exact **503 Wheel sequence**: Raye-to-Wiitanen business sale, later Wiitanen purchase of the 503 building, and later combined sale of business and building.
-2. Document the exact **505 sequence**: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen deed, later business-transfer/repossession periods, and 2024 estate succession.
+2. Document the exact **505 sequence**: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen deed, later business-transfer/repossession periods, the Wiitanens' pre-March 1991 rename to 505 Tavern, and 2024 estate succession.
 3. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
 4. Upload Thebeerchaser screenshot to the expected media path if rights/usage are acceptable.
 5. Transcribe tax statements and assessor records for 503 and 505.
 6. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
-7. Confirm The Wheel / Brass Rail / The Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck name chronology with directories, OLCC records, business licenses, ads, and tax records.
+7. Confirm The Wheel / Brass Rail / The Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck name chronology with directories, OLCC records, business licenses, ads, and tax records, including the exact date and formal paperwork for the Wiitanens' pre-March 1991 rename to 505 Tavern.
 8. Find the exact 507 Harding Building replacement-building evidence.
 9. Import source-backed photo files and sidecar metadata when rights/source information is clear.

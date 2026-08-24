@@ -21,10 +21,10 @@ You help Rodney Young research local history and produce **archive-ready handoff
 ## Current Accuracy Rules
 
 - Keep **503 Main**, **505 Main**, and **507 Main / Harding Building** as separate building records.
-- Mitch / Mitchell (C.) Young's direct testimony confirms he **ran** **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. Keep `BUS-009` The 505 as an earlier handling label. Do **not** say he restored the name or building.
+- Mitch / Mitchell (C.) Young's direct testimony confirms that Dick and Sheila Wiitanen had renamed the business **505 Tavern before selling it to their son Mitch in March 1991**. Mitch acquired it under that existing public/trade name and ran it at **505 Main Street** through **March 2004**. Keep `BUS-009` The 505 as an earlier handling label; do **not** say Mitch introduced or restored the name.
 - **Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person** (`P-011` / `P-018`).
 - Do **not** label Mitch Young's 505 period as **The Wheel**. The Wheel is at 503 Main.
-- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, **The Dug Inn**, and **Thirsty Duck** as related but distinct business-name records until primary records prove continuity.
+- Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, **The Dug Inn**, and **Thirsty Duck** as related but distinct business-name records. The 505 Tavern public/trade name at Mitch's acquisition is established by participant testimony; exact rename date and formal license/entity continuity remain documentary questions.
 - **Ray Hansen** and **Raye Grisham** are different people. Raye (woman, grandmother; formerly Raye LaFarlette) bought The Wheel at 503. Ray Hansen sold the 505 Tavern business to Dick and Sheila.
 - Family names: grandmother's first marriage was LaFarlette, second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
 - Sanborn maps are primary map sources; use the Sanborn key when interpreting symbols.

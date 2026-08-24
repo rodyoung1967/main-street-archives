@@ -4,6 +4,12 @@
 
 Rodney Young is the creator/maintainer of Time Capsule Maps and the steward of this Main Street Archive. Internal project notes, Time Capsule Maps metadata, direct user corrections, and family/oral-history notes should be treated as trusted internal project sources for what they directly record. They should still be classified by evidence type and kept separate from primary documentary records such as deeds, Sanborn maps, permits, tax cards, newspaper articles, business licenses, OLCC records, and original photographs.
 
+## S-005 — Mitch Young direct oral history
+Repository record: `oral-history/mitch-young.md`  
+Type: Primary participant testimony; the 24 August 2026 naming clarification was relayed by Rodney Young.  
+Related evidence: `E-004`, `E-014`, `E-022`  
+Notes: Mitch states that Dick and Sheila Wiitanen renamed the tavern business **505 Tavern before selling it to their son Mitch in March 1991**. This establishes the public/trade name already in use at acquisition. The exact rename date and formal OLCC/license/entity wording remain documentary research targets.
+
 ## S-024 — Morning Enterprise, 31 March 1912, H. H. Smith notice
 URL: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-31/ed-1/seq-4.pdf  
 Related evidence: `E-023`  
