@@ -51,10 +51,14 @@ A visually reviewed **10 Oct 1918 Oregon City Courier** business page identifies
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 
-Separate Springfield newspaper evidence identifies **Gilbert Miller** with the Wolf & Miller business and documents his move to Oregon City in August 1918. On **22 Aug 1918**, the Springfield News reported that Gilbert Miller had left for Oregon City to join his family after remaining in Springfield to close out his business.
+### Gilbert Miller identity now directly page-confirmed
+
+The **22 Aug 1918 Springfield News** page has now been directly inspected rather than relying on search-result OCR. It explicitly states that **“Gilbert Miller left last Saturday for Oregon City”** to join his family. A separate paragraph on the same page explains that his family had moved to Oregon City earlier while he remained in Springfield to close out his business.
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn97071003/1918-08-22/ed-1/seq-3/
+
+This resolves stray search/OCR variants such as `C. E. Miller` or similar readings as extraction errors. The archive should use **Gilbert Miller** for the Springfield-to-Oregon-City transition unless a primary source establishes another person.
 
 By the July 1922 fire, **Gilbert Miller's shoe-repair shop** was one of the Fifth Street businesses destroyed.
 
@@ -66,7 +70,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5/
 This creates a real business/person continuity from:
 
 1. **Wolf & Miller at 505 Main in 1918** →
-2. Gilbert Miller moving to Oregon City in 1918 →
+2. **Gilbert Miller** directly documented moving to Oregon City in Aug 1918 →
 3. Gilbert Miller operating a shoe-repair shop in the Fifth Street fire cluster by July 1922 →
 4. Gilbert Miller reopening at 209 Fifth after the fire.
 
@@ -90,17 +94,18 @@ However:
 
 Use this only as a research lead until corroborated with census, probate, marriage/death, deed, or directory evidence.
 
-## Portland S. Wolf candidate list — do not select yet
+## Portland / Oregon City Wolf candidate context — do not select yet
 
-The **1920 Polk's Portland City Directory** includes multiple people whose names could fit `S. Wolf`, including:
+The **1920 Polk's Portland City Directory** includes multiple Wolf entries relevant to candidate screening:
 
 - **Samuel Wolf**, in clothing, 33 N. 3rd, residence 691 Elliott Ave.;
-- **Simon Wolf**, associated with Wonder Millinery, residence 340 10th.
+- **Simon Wolf**, associated with Wonder Millinery, residence 340 10th;
+- **Victor Wolf**, a clerk with Goodyear Rubber Co., whose residence is listed as **Oregon City**.
 
 Source:
 https://ldsgenealogy.com/OR/books/Polks-Portland-City-Directory-1920-Vol-II-part-110.htm
 
-Samuel's clothing trade is superficially compatible with the clothing/shoe character of Wolf & Miller, but **that is not identity proof**. Neither candidate should be promoted beyond candidate status without a direct Oregon City/property/business bridge.
+Samuel's clothing trade is superficially compatible with the clothing/shoe character of Wolf & Miller, but **that is not identity proof**. Victor provides evidence of another Wolf with an Oregon City connection but does not match the `S. Wolf` initial. These entries should remain separate candidates/context until a deed, business record, family record, or property source makes a direct bridge.
 
 ## Related 503 Main Wolf-family lead
 
@@ -122,6 +127,7 @@ The current evidence does **not** prove that:
 
 - S. Wolf of Portland was the Wolf partner in Wolf & Miller;
 - S. Wolf was Samuel Wolf or Simon Wolf of Portland;
+- Victor Wolf was connected to the target property chain;
 - S. Wolf of Portland was the Wolf-family purchaser/owner of 503 Main;
 - the former Schieremann tailor-shop building was 501, 503, or 505 Main;
 - Timms Pool Hall was the pool hall adjoining Schieremann's former tailor shop;
@@ -144,7 +150,7 @@ This may help interpret:
 
 ## Next checks
 
-1. Identify **S. Wolf of Portland** by full name from Portland directories, deeds, tax rolls, probate, or Oregon City property records.
+1. Identify **S. Wolf of Portland** by full name from deeds, tax rolls, probate, Portland directories, or Oregon City property records.
 2. Identify the `Wolf` partner in **Wolf & Miller** and test whether that person is S. Wolf.
 3. Corroborate Clara Rose Wolf's parents/siblings and look for an S.-initial Wolf sibling/relative in Portland or Oregon City.
 4. Search deeds/tax records for Wolf acquisition of 503 Main or Block 26 property around 1921–1923.
@@ -159,7 +165,7 @@ This may help interpret:
 - S. Wolf of Portland owned the building where the July 1922 fire started: **Very High**
 - S. Wolf had an active Oregon City merchant/business connection in June 1922: **High**
 - Fire connected Main Street premises with Fifth Street businesses: **Very High**
-- Gilbert Miller is the Miller associated with the 1918 Wolf & Miller sequence and later moved to Oregon City: **High**
+- Gilbert Miller is directly page-confirmed as the Springfield businessman who moved to Oregon City in Aug 1918: **Very High**
 - Gilbert Miller's 1922 shoe-repair shop was in the same fire cluster: **Very High**
 - Gilbert Miller reopened at 209 Fifth by Sep 1922: **Very High**
 - S. Wolf = Wolf partner in Wolf & Miller: **Plausible / unproven**
