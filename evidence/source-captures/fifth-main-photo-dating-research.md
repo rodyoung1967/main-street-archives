@@ -95,7 +95,7 @@ Later municipal evidence establishes Oregon City Laundry at **510 McLoughlin Bou
 
 - a 1953 letter from the laundry asks for a loading zone at **510 McLoughlin Blvd**;
 - a 1967 city resolution again identifies **Oregon City Laundry, 510 McLoughlin Boulevard**;
-- the city's historic-resource survey lists an Oregon City Laundry building on McLoughlin dating to about **1939** (table parsing in web extracts is inconsistent, so use the direct 1953/1967 address records as the firmer location proof).
+- the city's historic-resource survey lists an Oregon City Laundry building on McLoughlin dating to about **1939**.
 
 Sources:
 - 1953 city record: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722849/File/document
@@ -139,7 +139,21 @@ Verified examples:
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-01/ed-1/seq-7.pdf
 - **8 Jul, 22 Jul, 5 Aug, 9 Sep 1915** — continued Fifth St. Garage ads with auto repairs / Red Crown gasoline.
 
-The OCR/page layout also shows the name **F. B. Shoenborn** near these ads, but the exact relationship and exact street number of the garage are not yet visually proven from the page layout. Do not assign a specific 5th Street number to the garage until a clean page image or directory listing establishes it.
+### F. B. Shoenborn layout correction
+
+Earlier notes treated **F. B. Shoenborn** as possibly connected to Fifth St. Garage because his name appears immediately after the garage text in OCR/page extraction. A direct review of the **1 Jul 1915 Courier** page layout/text structure shows that this was a neighboring advertisement:
+
+- `AUTO REPAIRS / We sell Red Crown Gasoline / FIFTH ST. GARAGE`
+- followed by a separate **F. B. SHOENBORN HAS GOOD GROCERIES** advertisement, which gives **7th and Center Streets**.
+
+Therefore:
+
+- **do not identify F. B. Shoenborn as proprietor of Fifth St. Garage** from this page;
+- the garage proprietor remains unresolved;
+- the garage's exact Fifth Street number also remains unresolved.
+
+Source page:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-01/ed-1/seq-7.pdf
 
 ### Dating implication
 
@@ -188,7 +202,7 @@ Separately, the laundry/May-garage photograph has a strong current working windo
 
 ## Next checks
 
-1. Find an exact address or directory listing for **Fifth St. Garage**.
+1. Find an exact address and proprietor for **Fifth St. Garage**.
 2. Determine whether the parade-photo GARAGE facade matches Fifth St. Garage rather than Scripture & May.
 3. Reconstruct Fifth Street numbers 108/109 and Main addresses 501/503 from the 1925 Sanborn.
 4. Separate the two laundry photographs by camera direction and street side; use the first photo's **west-facing** orientation as a fixed anchor.
