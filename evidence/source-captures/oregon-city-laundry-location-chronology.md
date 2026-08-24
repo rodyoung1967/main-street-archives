@@ -57,6 +57,24 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-6/ocr/
 
 This is the best exact-address anchor currently recovered for the pre-1922 laundry plant and independently proves that Oregon City Laundry was at **109 Fifth by 1918**, regardless of the unresolved 1916 newspaper conflict.
 
+## 1921 — direct pre-fire Fifth-near-Main bridge
+
+A **20 Aug 1921 Oregonian** classified advertisement from Oregon City Laundry itself gives the location as **“5th st., near Main.”**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn83025138/1921-08-20/ed-1/seq-14/
+
+This is an important independent bridge between the 1918 numbered address and the 1922 fire:
+
+- 1918 — **109 Fifth St.**
+- Aug 1921 — **5th St., near Main**
+- Jul 1922 — laundry plant destroyed in the Fifth/Main fire cluster.
+
+This materially strengthens the identification of the pre-fire laundry as occupying the short Fifth Street segment immediately west of Main.
+
+Detailed project note:
+`evidence/source-captures/1921-oregon-city-laundry-fifth-near-main.md`
+
 ## 1922 fire — pre-fire Fifth Street cluster destroyed
 
 The 20 Jul 1922 Banner-Courier reports a major fire in the older Oregon City business district. The fire destroyed:
@@ -76,7 +94,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 A 19 Jul 1922 Morning Register wire report similarly says the Oregon City Laundry plant, **May & Washburn's garage**, Fifth Street restaurant, Miller shoe shop and other buildings were destroyed.
 
 Source:
-https://oregonnews.uoregon.edu/lccn/sn96088115/1922-07-19/ed-1/seq-1/
+https://oregonnews.uoregon.edu/lccn/sn96088115/1922-07-19/ed-1/seq-1.pdf
 
 ### May & Washburn lower-bound evidence
 
@@ -90,7 +108,7 @@ Sources:
 
 **Photo implication:** if a project laundry photograph can be visually matched to the laundry plus the specific May & Washburn garage destroyed in the fire, its strongest current working window is **Apr 1921 to Jul 1922**. This remains a hypothesis until the garage signage/building is visually matched.
 
-## Late 1922 — business resumes quickly
+## Late 1922 — business resumes quickly; Gilbert Miller relocates
 
 Although the July fire destroyed the plant, Oregon City Laundry was again appearing in county expense records by **September 1922** and **November 1922**, showing that the business resumed service quickly.
 
@@ -99,6 +117,13 @@ Sources:
 - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-7/ocr/
 
 These entries prove resumed business activity but do **not** identify the replacement production plant address. The temporary 519 Main office may have continued while production was performed elsewhere.
+
+A separate **21 Sep 1922 Banner-Courier** advertisement provides a useful relocation marker for another fire victim: **Gilbert Miller** advertised that his shoe machinery was set up and ready again at **209 Fifth Street**, in the former Goldman second-hand store.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5/
+
+This proves that Miller did **not** simply continue in the destroyed pre-fire shop. His known post-fire location at 209 Fifth should therefore be kept distinct from the earlier unidentified shoe-repair-shop footprint in the Fifth/Main/Water fire cluster.
 
 ## 1925 Sanborn — direct visual review resolves the block geometry
 
@@ -187,9 +212,11 @@ Current rule:
 | 1912 | Main near Third | High |
 | Feb–Apr 1916 | replacement plant announced; **location conflict** between 7th/Main/8th/Railroad block and Fifth just off Main | High that sources conflict |
 | 1918 | **109 Fifth St.** | Very High |
+| Aug 1921 | **5th St., near Main** in laundry's own classified ad | Very High |
 | Apr 1921 | May & Washburn partnership documented | High for existence; address unresolved |
 | Jul 1922 | Fifth Street laundry + May & Washburn garage destroyed by fire | Very High |
 | immediately after Jul 1922 fire | Temporary office at 519 Main with Pantorium | Very High |
+| Sep 1922 | Gilbert Miller reopens shoe-repair operation at **209 Fifth St.** after fire | Very High |
 | Sep–Nov 1922 | laundry again active in county expense records | High for resumed service; production address unresolved |
 | Oct 1922 | May & Washburn still active after fire | High; new garage/location unresolved |
 | May 1925 | **Sanborn Sheet 6 visually shows Oregon City Laundry in Fifth/Water/Main block behind Main frontage** | Very High |
