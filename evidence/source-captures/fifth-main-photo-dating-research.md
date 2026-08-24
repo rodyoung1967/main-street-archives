@@ -29,6 +29,44 @@ Price Bros. is a useful anchor because its storefront appears in at least one un
 
 If the parade photograph truly shows Price Bros. occupying its **Sixth & Main** storefront, then the image should be **before the April 1918 move to Seventh & Main**. This is a useful upper bound, not an exact date.
 
+## Fifth Street curb / streetscape lower bound
+
+The parade photograph visibly shows developed curbs at the Fifth/Main intersection. Repo evidence `E-059` establishes that Oregon City ordered a substantial **Fifth Street improvement across Main Street in 1905**, including grading, crushed rock, sidewalks, **concrete curbs**, corner blocks, and drains. A later October 1905 notice solicited proposals for the same work.
+
+Source record:
+`evidence/E-059-1905-fifth-main-street-improvement.md`
+
+### Dating implication
+
+The curbs do **not** prove a precise date, but if the visible curbs are the completed concrete work described by the 1905 project, the photograph should be **after the 1905 improvement work was completed**, making **circa 1906 or later** a reasonable working lower bound. This is stronger than using generic citywide curb history because `E-059` specifically covers Fifth Street on both sides of Main.
+
+## Possible 501 Main / Fifth-and-Main corner frontage
+
+The 1925 Sanborn explicitly labels **501 Main** as the corner store space at/near Fifth & Main, with 503 and 505 immediately north along Main. The parade photo was annotated as taken at Fifth & Main, so it is geographically plausible that some or all of the corner premises later mapped as 501 Main are visible in the photograph.
+
+The exact mapping of the pre-1925 corner building to the later number **501** remains unresolved. The archive should therefore distinguish:
+
+- **high-confidence geography:** the Fifth/Main corner frontage is potentially visible;
+- **hypothesis:** that visible corner frontage is the same premises later numbered 501 Main.
+
+### Corner-business chronology relevant to photo dating
+
+- **Dec. 1910:** M. Justin applied for a liquor license for the **Mt. Hood Cafe, 5th and Main Streets**.
+  - https://oregonnews.uoregon.edu/lccn/sn00063698/1910-12-23/ed-1/seq-10/
+- **5 Jan 1912:** **Clem's Chop House** advertised at **5th and Main Street**.
+  - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/
+- **Jan.–Mar. 1913:** contemporary *Morning Enterprise* advertisements place **Elliott Garage at Fifth and Main Streets**; Martin Seiler advertised plumbing work from the garage.
+  - https://oregonnews.uoregon.edu/lccn/sn00063701/1913-01-19/ed-1/seq-3.pdf
+  - https://oregonnews.uoregon.edu/lccn/sn00063701/1913-03-02/ed-1/seq-3/ocr/
+- **Aug. 1914 onward:** R. L. Holman advertised that he had moved his funeral-directing establishment to **the corner of 5th and Main**, remaining there through at least 1917. See `buildings/501-main.md` and `E-054`.
+  - https://oregonnews.uoregon.edu/lccn/sn00063698/1914-08-20/ed-1/seq-5/ocr/
+
+### Elliott Garage hypothesis
+
+A large **GARAGE** sign is visible in the supplied parade photograph. If that sign can be visually confirmed as belonging to the Fifth/Main corner premises and identified as **Elliott Garage**, it would materially tighten the photograph toward the **1913–early 1914** period. This is currently a **visual-identification hypothesis**, not a proven reading of the sign.
+
+This clue makes the **7 Jun 1913 Rose Show parade** more attractive than the 8 Jun 1912 candidate, because Elliott Garage is explicitly documented at Fifth/Main in early 1913. However, Elliott Garage existed by 1912, and its exact Fifth/Main occupancy start date has not yet been proven; therefore 1912 is not excluded.
+
 ## Strong parade candidates
 
 ### 8 Jun 1912 — annual Rose Show / Rose Festival
@@ -74,16 +112,19 @@ The **6 Jun 1913 Morning Enterprise** says the parade would move from **Fifteent
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063701/1913-06-06/ed-1/seq-1/ocr/
 
-**Assessment:** also a strong candidate if the photo shows a mixed pedestrian/float/vehicle parade passing southward along Main Street.
+**Assessment:** currently the strongest specific candidate if the visible GARAGE sign can be matched to Elliott Garage at Fifth/Main and if the parade composition matches the 1913 Rose Show description.
 
 ## Current hypothesis for the undated Fifth & Main parade photograph
 
 - Location annotation supplied with the image: **Taken at 5th & Main St.**
 - Visible Price Bros. signage is consistent with the business occupying Sixth/Main before April 1918.
-- Two particularly strong annual parade candidates are **8 Jun 1912** and **7 Jun 1913**.
-- **Do not assign either date yet.** A visual comparison is still required to determine whether the photograph shows decorated automobiles, children, floats, hose carts, bands, or other details described in the contemporary accounts.
+- The concrete-curb streetscape is consistent with the post-1905 Fifth Street improvement program.
+- The corner frontage may include premises later mapped as **501 Main**.
+- A visible **GARAGE** sign may correspond to Elliott Garage, explicitly documented at Fifth/Main in early 1913.
+- Two strong parade candidates remain **8 Jun 1912** and **7 Jun 1913**, with **1913 now somewhat favored** if the garage identification is correct.
+- **Do not assign a final date yet.** Visual confirmation of the garage sign and parade composition is still required.
 
-Current date bracket from Price Bros. alone: **no later than early 1918**, assuming the storefront identification is correct.
+Current evidence-based bracket: **circa 1906–early 1918**. Working high-probability zone: **1912–1913**, with 1913 favored conditionally on the Elliott Garage identification.
 
 ## Oregon City Laundry anchors
 
@@ -127,8 +168,9 @@ These confirm the collection has high-resolution negatives/prints with exact cat
 
 ## Next checks
 
-1. Compare the parade image's actual participants/vehicles to the 1912 and 1913 event descriptions.
-2. Search 1910–1917 Rose Show coverage for published parade photographs or captions.
-3. Search the Historical Society CatalogIt collection for the handwritten-caption Fifth/Main image and exact object number.
-4. Date remaining uploaded Fifth Street images using visible businesses and road geometry.
-5. Keep the city's `c.1919` / `c.1920` building dates as approximate survey estimates until the photographic sequence can independently bracket replacement/reconstruction.
+1. Visually confirm whether the large **GARAGE** sign belongs to the Fifth/Main corner and whether it matches Elliott Garage.
+2. Compare the parade image's participants/vehicles to the 1912 and 1913 Rose Show descriptions.
+3. Search 1912 material for the exact location of Elliott Garage to determine whether Fifth/Main occupancy predates 1913.
+4. Search the Historical Society CatalogIt collection for the handwritten-caption Fifth/Main image and exact object number.
+5. Test whether the visible corner premises correspond to the later **501 Main** footprint using the 1925 Sanborn and later aerials.
+6. Keep the city's `c.1919` / `c.1920` building dates as approximate survey estimates until the photographic sequence can independently bracket replacement/reconstruction.
