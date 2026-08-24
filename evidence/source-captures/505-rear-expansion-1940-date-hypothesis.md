@@ -65,7 +65,7 @@ Therefore **1940 cannot mean first-ever existence** at the 505 address.
 ### Block context circa 1940
 
 - **`E-021`** — **501 Main removed between 1936 and 1944** during visible McLoughlin / US99E corridor change. Timing overlaps the inventory **1940** line but does **not** prove 505 rear work was part of the same project.
-- **`IMG-0008` (1940)** exists in the aerial series specifically for comparison against 1936 and 1944; **formal rear-footprint transcription for 505 is still pending** (`RL-005`).
+- **`IMG-0008` (1940)** exists in the aerial series specifically for comparison against 1936 and 1944. **`E-102`** preliminarily compared **`IMG-0007` / `IMG-0008` / `IMG-0009`**: block-level built coverage appears denser by 1940, but **505-specific rear-edge transcription remains open** (`RL-005`). See `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`.
 
 ### Modern parcel geometry (retrieval clue only)
 
@@ -78,7 +78,7 @@ Therefore **1940 cannot mean first-ever existence** at the 505 address.
 1. **No 1939–1941 permit** for 505 Main has been recovered.
 2. **`S-116`** lists **primary construction date 1940**, not "addition date" or "remodel date"; architect and builder fields are blank.
 3. **Mitch Young's recollection is undated** — the rear work could be much later than 1940.
-4. **Sanborn 1925 vs. 1950** comparison confirms continued separate 503/505 occupancies but has **not yet transcribed a confirmed rear-depth change** at 505 between those sheets (`E-020`).
+4. Sanborn **1925 vs. 1950** comparison confirms continued separate 503/505 occupancies; **`E-102`** (August 2026) visually verified **CONC. FL.** at 505 by 1950 and major block reconfiguration but **did not transcribe a confirmed rear-depth change** at 505 between those sheets (`E-020`, `E-102`).
 5. Alternative explanations for **1940** remain live: full rebuild of surviving fabric, facade/material upgrade (form notes **concrete** siding), assessor convention, or survey inheritance from an earlier undocumented event.
 
 ---

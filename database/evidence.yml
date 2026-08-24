@@ -1461,3 +1461,22 @@ evidence:
     related_buildings:
       - B-002
     repository_file: evidence/E-101-505-rear-expansion-1940-date-hypothesis.md
+
+  - id: E-102
+    name: 505 Main Sanborn / Aerial Footprint Pass (1936–1950)
+    type: Primary map evidence + preliminary aerial comparison / research-pass synthesis
+    claims:
+      - August 2026 footprint pass visually compared 1925 and 1950 Sanborn Sheet 6 PDFs for the Fifth/Main/Water block and preliminarily compared aerial frames IMG-0007 (1936), IMG-0008 (1940), and IMG-0009 (1944).
+      - 1925 shows separate 503 Rest. and 505 Billds. and Cigars storefronts with Oregon City Laundry behind 501/503; 1950 shows 505 Main as Bill'ds, Cigars and Rest. with CONC. FL. plus block reconfiguration including Fifth-corner gas station, reshaped laundry, and U.S. Post Office BUILT 1933.
+      - No 1939-1941 construction/addition permit for 505 Main was retrieved online; preliminary aerial comparison suggests increased built coverage by 1940 but does not yet isolate 505 specifically.
+      - Strengthens plausibility that inventory 1940 may reflect mid-century improvement/reconfiguration rather than first-ever erection; does not confirm a 505-specific rear wall extension around 1940.
+    confidence: Very High for 1925 and 1950 Sanborn address/occupancy readings; Moderate for block-level aerial density change 1936 to 1940; Unresolved for 505 rear-wall movement and any specific 1940 physical event.
+    related_sources:
+      - S-021
+      - S-022
+      - S-023
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+    repository_file: evidence/E-102-505-sanborn-aerial-footprint-pass-2026-08-24.md

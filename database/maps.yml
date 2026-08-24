@@ -78,9 +78,9 @@ maps:
     source_id: S-022
     title: 1950 Sanborn, 5th Area
     date: May 1925 base revised through 1950
-    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    source_status: Committed — binary PDF at maps/sanborn/originals/1950-6 (5th).pdf; canonical city URL https://www.orcity.org/DocumentCenter/View/4899/1950-6-PDF
     related_buildings:
       - B-001
       - B-002
       - B-003
-    notes: Useful comparison with 1925 for mid-century changes around 503/505/507 Main.
+    notes: Useful comparison with 1925 for mid-century changes around 503/505/507 Main. Visually verified August 2026 during E-102 footprint pass.

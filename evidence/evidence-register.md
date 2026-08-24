@@ -229,6 +229,13 @@ Related record: `evidence/E-101-505-rear-expansion-1940-date-hypothesis.md`; sou
 Claims: The **1940** primary construction date on official historic inventories for **505 Main** may reflect a **rearward expansion, major rear remodel, or related improvement event** rather than first erection of the entire premises. Supporting context includes Mitch Young's rear-addition recollection (`E-010`), the 505-vs-503 depth observation (`E-011`), pre-1940 Sanborn and 1936 aerial occupancy at 505 (`E-020`, `E-021`), and the c.1920 vs. 1940 inventory conflict (`E-032`, `E-100`). No 1939–1941 permit or assessor card has been recovered; competing explanations remain live.  
 Confidence: Low to Moderate for the rear-expansion explanation — **Unresolved**; Very High that the 1940 vs. c.1920 conflict requires explanation.
 
+## E-102 — 505 Main Sanborn / Aerial Footprint Pass (1936–1950)
+Type: Primary map evidence + preliminary aerial comparison / research-pass synthesis  
+Sources: `S-021`, `S-022`, `S-023`; related hypothesis `E-101`  
+Related record: `evidence/E-102-505-sanborn-aerial-footprint-pass-2026-08-24.md`; source capture: `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`  
+Claims: August 2026 footprint pass visually compared **1925** and **1950** Sanborn Sheet 6 PDFs for the Fifth/Main/Water block and preliminarily compared aerial frames **`IMG-0007` (1936)**, **`IMG-0008` (1940)**, and **`IMG-0009` (1944)**. **1925:** separate **503 Rest.** and **505 Billds. & Cigars** storefronts; Oregon City Laundry behind 501/503. **1950:** **505 Main** labeled **Bill'ds, Cigars & Rest.** with **CONC. FL.**; block reconfiguration including Fifth-corner gas station, reshaped laundry, and **U.S. Post Office BUILT 1933**. No **1939–1941** construction/addition permit for **505 Main** was retrieved online. Preliminary aerial comparison suggests increased built coverage in the Main/McLoughlin block by **1940** but does not yet isolate **505** specifically. Strengthens plausibility that inventory **1940** may reflect mid-century improvement/reconfiguration rather than first-ever erection; does **not** confirm a **505-specific rear wall extension** around 1940.  
+Confidence: Very High for the 1925 and 1950 Sanborn address/occupancy readings; Moderate for block-level aerial density change 1936→1940 — preliminary, address unresolved; Unresolved for 505 rear-wall movement and any specific 1940 physical event.
+
 ## E-036 — Withdrawn 1981 Sandy Post Brass Rail Citation
 Type: Research correction  
 Sources: `S-040`  
