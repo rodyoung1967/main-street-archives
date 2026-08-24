@@ -25,11 +25,22 @@ Contemporary advertisements use the Oregon City Post Office as a landmark:
 
 ## Current address hypothesis — NOT established fact
 
-Earlier reconstruction made **513 Main** a strong candidate for the Post Office because Tolpolar was opposite it at 514. The newly documented **505 Main Chicago Store = "just below Postoffice"** statement adds an important constraint and means the hypothesis should remain open rather than harden into a conclusion. The meaning and distance implied by "just below" in 1912 Oregon City usage need corroboration.
+Earlier reconstruction made **513 Main** a strong candidate for the Post Office because Tolpolar was opposite it at 514. The documented **505 Main Chicago Store = "just below Postoffice"** statement adds an important constraint and means the hypothesis should remain open rather than harden into a conclusion. The meaning and distance implied by "just below" in 1912 Oregon City usage need corroboration.
 
 If 513 ultimately proves to be the Post Office, Dunn's "next door" location would likely be 511 or 515; because Harding is independently associated with 511, **515 becomes a plausible Dunn candidate**. This remains inference and must not be promoted to fact until direct address evidence is found.
 
 Do **not** assign Schrader's Bakery to 503 or 505. Current evidence only supports Main Street / near-Post-Office location.
+
+## Chronology correction — the 1922 Post Office was a later location
+
+A **12 Sep 1918 Oregon City Courier** report proves that the Post Office Department changed the Oregon City post-office location and entered a **ten-year lease** for an **M. D. Latourette building on the east side of Main Street between Fifth and Sixth**. The City of Oregon City's visually reviewed 2000 historic-resource table identifies the **Latourette-David-Barlow building as 504–514 Main St.**
+
+Therefore the circa-1912 reconstruction on this page belongs to the **earlier Post Office location** and should not be carried forward into the July 1922 fire analysis. The post-1918 Post Office occupied the **east/even side** of Main in the Fifth–Sixth block, while 503/505 and the other odd-numbered storefronts were across Main from it.
+
+This distinction is especially important for interpreting **Dr. Freeze — 505½ Main — opposite post office** and the June 1922 **Miller's Shoe Store — opposite Post Office** wording.
+
+Detailed later-location capture:
+`evidence/source-captures/1918-1922-post-office-east-main-fifth-sixth-anchor.md`
 
 ## 5 January 1912 page 6 evidence
 
@@ -53,3 +64,4 @@ The full page/PDF should be downloaded into `newspapers/oregon-city-courier/` wh
 4. Find a numbered address for Schrader's Main Street bakery, including successor **Wemmo & Haas** after the December 1912 sale.
 5. Verify 507 and 511 from dated primary sources and normalize the existing root-level images into the archive's canonical source structure.
 6. Reconstruct 503-529 Main storefront-by-storefront for 1905-1913 without treating inferred adjacency as proof.
+7. Keep the pre-1918 and post-1918 Post Office locations separate in all spatial analysis.
