@@ -6,8 +6,8 @@
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`
 - Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`
 
 ## Known / Working History
 
@@ -103,6 +103,8 @@ The family-confirmed succession is now: **Raye → Dick and Sheila for the Wheel
 
 There is an unresolved physical-boundary question between 503 and 505. Current owner observation suggests 505 may extend farther back than 503, while 503 may be somewhat wider. This should be tested through tax maps, assessor sketches, Sanborn maps, deeds, permits, and physical measurements.
 
+A separate **original-lot** question has now been materially narrowed. The visually verified original plat gives the target Block 26 lots a frontage of at least 66 feet, and a proportional reading of the 1925 Sanborn places the combined 501+503+505 frontage at approximately 66–67 feet. The resulting strong working alignment places **501, 503 and 505 approximately within original Lot 5**, with original Lot 6 beginning at or near the 505/507 wall (`E-094`). This supersedes the former 50-foot model that tentatively put 505 near Lot 6. It does not establish the modern legal boundary between 503 and 505 or prove a 1922 occupant.
+
 The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three distinct roofs at 501, 503, and 505 Main in 1936 and 501 absent by 1944.
 
 ## Research Priorities
@@ -118,6 +120,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three disti
 - Locate the **later deed by which Dick and Sheila purchased the 503 building** and identify the seller/date.
 - Locate the **later transaction in which Dick and Sheila sold both The Wheel business and the 503 building**, including purchaser, date, deed, liquor-license transfer, and business-sale documents.
 - Confirm the legal, structural, and physical boundary between 503 and 505.
+- Obtain deed/title/survey proof for the strong working placement of 503 within original Block 26 Lot 5.
 
 ## Open Questions
 

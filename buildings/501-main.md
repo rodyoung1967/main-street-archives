@@ -3,8 +3,8 @@
 ## Archive ID
 
 - Building ID: `B-005`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 
@@ -13,6 +13,8 @@
 The **1925 Sanborn map directly labels 501 Main Street as a separate store space** at/near the 5th and Main corner. On the same frontage, 503 is mapped as a restaurant and 505 as billiards/cigars (`E-020` / `S-021`).
 
 Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. By the 1944 aerial, that footprint is gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between 1936 and 1944.
+
+The visually verified official original Oregon City plat says lots in the target Applegate-surveyed portion are at least **66 feet front by 100 feet back**. Measured proportionally against the printed scale on the visually verified 1925 Sanborn, the combined 501+503+505 frontage is approximately 66–67 feet. This supports a **strong inference** that all three storefronts lie approximately within original **Block 26 Lot 5**, with the Lot 5/Lot 6 division at or near the 505/507 wall (`E-094`). It is not yet a deed/survey proof, and it does not identify the July 1922 fire-origin room.
 
 ## Fifth & Main Undertaking-Business Evidence, 1914–1917
 
@@ -65,5 +67,6 @@ The highest-value next step is to obtain the **1924 address and business-directo
 - Did the 1914–1917 Fifth-and-Main undertaking premises later carry the number **501 Main**?
 - When did Holman/Holman & Pace leave Fifth & Main?
 - What were the owners and legal parcel boundaries of 501?
+- Can a deed, title abstract or survey prove the strong working placement of 501 within original Block 26 Lot 5?
 - Why was the 501 structure removed between 1936 and 1944?
 - Was its removal connected to McLoughlin Boulevard / US99E work?

@@ -5,8 +5,8 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`
-- Related sources: `S-010`, `S-012`, `S-023`, `S-052`, `S-063`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`
+- Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
@@ -74,6 +74,8 @@ Related research lead:
 ## Relationship to 503, 505, and 527
 
 The original 507 Harding Building and the 1968 replacement should remain separate in interpretation from the surviving 503 and 505 buildings.
+
+The visually verified original plat and a proportional reading of 1925 Sanborn Sheet 6 now support a **strong inference** that the original Block 26 Lot 5/Lot 6 division fell at or very near the 505/507 wall, so **507 began approximately on Lot 6** (`E-094`). This is not a deed or survey-overlay proof and must not be back-applied automatically to every later consolidated 507–511 footprint.
 
 The 2021 ODOT table is particularly useful for understanding the modern block: it dates **507-511 Harding Building to 1968** and **527 Main / Swartz Building to 1935** (`S-063`). Thus the present-day consolidated 507-511 frontage is a post-fire replacement, while the current 527 building predates the fire.
 

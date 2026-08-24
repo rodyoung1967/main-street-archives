@@ -4,6 +4,10 @@ This register tracks reported, documented, and open ownership or stewardship cla
 
 | Period | Address | Person / Entity | Role | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
+| 23 Oct. 1913 assessment | Original Block 26, Lot 5 | Mary E. Barlow and Juliette E. David | Listed assessed owners | `E-094` / `S-107` | Very High for the printed assessment listing | Strong map inference places later 501/503/505 approximately in this lot. Not a 1922 title finding and not proof of improvement/building ownership. |
+| 23 Oct. 1913 assessment | Original Block 26, Lot 6 | First National Bank | Listed assessed owner | `E-094` / `S-107` | Very High for the printed assessment listing | Strong map inference places its south boundary at or near later 505/507. Cadastral proof and 1922 chain remain open. |
+| 23 Oct. 1913 assessment | Original Block 26, Lot 7 | Frank Jaggar | Listed assessed owner | `E-094` / `S-107` | Very High for the printed assessment listing | Main-side sequence anchor only; 1922 title chain not established. |
+| 23 Oct. 1913 assessment | Original Block 26, Lot 8 | Gambrinus Brewing Company | Listed assessed owner | `E-094` / `S-107`; cross-reference `E-064` | Very High for the printed assessment listing | Independently anchored at Sixth/Main by 1906 William Tell/Gambrinus evidence. |
 | c. 1922-1972 (City survey) | 503 Main | Wolf family | Reported property owners | `E-032` | Probable pending deeds | Official secondary. |
 | Unknown | 503 Main | Raye LaFarlette / Raye Grisham | Bought The Wheel **business** | `E-022` | High family | Same woman across surname change. |
 | Later; exact date open | 503 Main | Raye Grisham → Dick and Sheila Wiitanen | **Sale of The Wheel business** | `E-022` | High family | Business transfer occurred before the later Wiitanen purchase of the 503 building. Documentary sale/license records pending. |

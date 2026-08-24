@@ -107,7 +107,7 @@ Confidence: High as trusted internal family/project correction; formal records m
 ## E-020 / EV-SAN-1925-1950-001 — Sanborn Map Series: 5th / Main / 503-505-507 Context
 Type: Primary map evidence  
 Sources: `S-014` through `S-022`; detailed comparison file: `maps/sanborn-comparison-503-505-507.md`; structured note: `evidence/sanborn-1925-1950-evidence.md`  
-Claims: The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date. The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507; 501 appears as a store, 503 as restaurant, 505 as billiards/cigars, and nearby spaces include dry goods/clothing, grocery, drugs, and I.O.O.F. Hall. The 1950 revised sheet continues to show separate 503/505/507 occupancies, with 503 restaurant and 505 billiards/cigars/beer-related use.  
+Claims: The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date. The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507; 501 appears as a store, 503 as restaurant, 505 as billiards/cigars, and nearby spaces include dry goods/clothing, grocery, drugs, and I.O.O.F. Hall. The 1950 revised sheet continues to show separate 503/505/507 occupancies, with 503 restaurant and 505 billiards/cigars/beer-related use. In combination with the official original plat, the 1925 printed scale also supports the explicitly limited Lot 5/Lot 6 alignment in `E-094`.
 Confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
 
 ## E-021 — Aerial Photocompare Series: 5th & Main / McLoughlin Context
@@ -647,3 +647,11 @@ Sources: `S-102`, `S-106`
 Related record: `evidence/E-093-1912-schrader-main-street-bakery-sale.md`  
 Claims: January advertising places **Schrader's Bakery near the Post Office**; on 20 December the *Courier* reports that Herman Schrader sold two Oregon City bakeries, including one **on Main Street**, to **Wemmo & Haas**. Neither item gives an exact Main number, and the sale is not evidence of a building/property transfer.  
 Confidence: Very High for the business sale and relative Main/Post Office location; Unresolved for exact numbered premises.
+
+## E-094 — Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment
+Type: Primary official plat + primary newspaper assessment notice + primary Sanborn map; direct visual inspection and limited proportional map analysis
+Dates: 1844/1849 survey narrative; plat cataloged 1850; assessment notice 23 October 1913; Sanborn May 1925
+Sources: `S-107`, `S-108`, `S-021`; cross-reference `S-078` / `E-064`
+Related record: `evidence/E-094-original-plat-block26-lot5-boundary.md`
+Claims: The visually verified official original plat says the Applegate-surveyed portion containing target Block 26 has lots at least **66 feet front by 100 feet back**, not the 50-foot width formerly used as general context. The visually verified 1913 notice places Barlow/David at Lot 5, First National Bank at Lot 6, Frank Jaggar at Lot 7 and Gambrinus at Lot 8. Together with Lot 8 at Sixth/Main and the 1925 Sanborn scale, this supports a **strong inference** that the 501+503+505 frontage occupies approximately original Lot 5 and that the Lot 5/Lot 6 division falls at or near the 505/507 wall. The earlier 501+503≈Lot 5 / 505≈Lot 6 proportional hypothesis is superseded.
+Confidence: Very High for the visually verified source contents; High/strong inference for approximate 505/507 lot-line alignment; Unresolved for cadastral proof, original-Block-26/later-Block-4 conversion, 1922 ownership and exact fire-origin storefront.

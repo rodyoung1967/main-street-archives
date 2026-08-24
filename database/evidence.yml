@@ -339,6 +339,7 @@ evidence:
       - The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date.
       - The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507.
       - The 1950 revised sheet continues to show separate 503/505/507 occupancies.
+      - In combination with the official original plat, the 1925 printed scale supports the limited Lot 5/Lot 6 alignment recorded as E-094.
     confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
     related_sources:
       - S-014
@@ -354,6 +355,7 @@ evidence:
       - B-001
       - B-002
       - B-003
+      - B-005
     related_maps:
       - SM-002
       - SM-003
@@ -869,3 +871,24 @@ evidence:
     related_media:
       - IMG-0052
       - IMG-0053
+
+  - id: E-094
+    name: Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment
+    type: Primary official plat, newspaper assessment notice, and Sanborn map with limited proportional analysis
+    claims:
+      - The visually verified original plat states that Applegate-surveyed lots in the target part of Oregon City are at least 66 feet front by 100 feet back, superseding the earlier 50-foot context for Block 26.
+      - The visually verified 1913 assessment notice lists Lot 5 Barlow/David, Lot 6 First National Bank, Lot 7 Frank Jaggar, and Lot 8 Gambrinus Brewing Company.
+      - With Lot 8 independently anchored at Sixth/Main, the Main-side sequence is Lot 5 from Fifth followed by Lots 6, 7, and 8.
+      - A scale reading of the 1925 Sanborn supports the strong inference that 501, 503, and 505 occupy approximately original Lot 5 and that 507 begins at or near original Lot 6.
+      - The alignment is not a deed, survey overlay, or proof of the July 1922 ignition storefront.
+    confidence: Very High for source contents; High/strong inference for approximate 505/507 lot-line alignment; legal mapping and 1922 fire-origin address unresolved.
+    related_sources:
+      - S-021
+      - S-078
+      - S-107
+      - S-108
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003
+      - B-005

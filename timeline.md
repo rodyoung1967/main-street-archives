@@ -3,6 +3,9 @@
 ## Pre-1840s
 The site was part of the area that became Oregon City's earliest commercial district near the falls and riverfront.
 
+## 1844–1850 — original plat geometry
+The official original Oregon City plat, cataloged by the City as county plat 2 (1850), says Jesse Applegate surveyed the Washington-Street-to-river portion in spring 1844. Its recorded narrative gives lots in that portion—including target Block 26—as **at least 66 feet front by 100 feet back**, with 10-foot alleys (`E-094` / `S-108`). This direct plat evidence supersedes the former 50-foot general-context model for Block 26.
+
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
@@ -82,6 +85,9 @@ A particularly important 10 May *Courier* editorial states in the present tense 
 By December, **Herman Schrader** sold his two Oregon City bakeries, including one on Main Street, to **Wemmo & Haas** (`E-093`). January advertising had described Schrader's Bakery as near the Post Office, but no exact Main Street number is recovered, so the sale remains a business-transition/relative-location record rather than a numbered-address or property-transfer claim.
 
 For exact target status in 1912: **503 is positively occupied by the Smith pool-room/pool-hall use and 507 by G. H. Young; 501 and 505 remain unresolved in exact-number evidence.** Brightbill is at 509 and Harding's own business at 511. No fire was recovered securely tied to 501, 503, 505 or 507. Remaining inaccessible *Courier* page-image coverage is logged under `RL-036`. Exact 1912 address use proves predecessor storefront occupancy, not that the surviving later-dated 503/505 buildings were already standing.
+
+## October 1913 — Block 26 owner and lot snapshot
+The visually verified 23 October assessment notice lists **Lot 5 — Mary E. Barlow / Juliette E. David; Lot 6 — First National Bank; Lot 7 — Frank Jaggar; Lot 8 — Gambrinus Brewing Company** (`S-107` / `E-094`). With Lot 8 independently anchored at Sixth/Main, the Main-side order from Fifth is Lot 5, 6, 7, 8. Comparing the official plat's at-least-66-foot frontage to the 1925 Sanborn scale strongly places **501+503+505 approximately in Lot 5** and the first original lot line at or near **505/507**. This is not yet cadastral or 1922 ownership proof.
 
 ## February 1914
 L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that undertaker R. L. Holman moved to Fifth & Main in 1914 is **not currently accepted as established** because the contemporaneous move notice has not been recovered (`RL-020`).

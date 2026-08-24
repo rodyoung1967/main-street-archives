@@ -410,3 +410,18 @@ Type: Primary newspaper / business-transfer evidence.
 Related evidence: `E-093`  
 Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
 Notes: Reports that **Herman Schrader** sold his two Oregon City bakeries—one at Seventh and John Adams and one **on Main Street**—to **Wemmo & Haas**. Earlier January advertising placed Schrader's Bakery near the Post Office, but no exact Main Street number is established.
+
+## S-107 — Morning Enterprise, 23 October 1913, Block 26 assessment notice
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
+Type: Primary newspaper / municipal assessment notice; **visually verified full-page scan**.
+Related evidence: `E-094`; cross-reference `E-064`
+Repository source capture: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
+Notes: Direct page-image inspection verifies the boundary line separating Lots 1–4 from Lots 5–8 between Fifth and Sixth and the listed Block 26 owners: Lot 5 Mary E. Barlow / Juliette E. David; Lot 6 First National Bank; Lot 7 Frank Jaggar; Lot 8 Gambrinus Brewing Company. This supersedes the capture's former OCR-only verification status.
+
+## S-108 — Original Oregon City plat, county plat 2, cataloged 1850
+Official finder: https://www.orcity.org/401/Subdivision-Plat-Finder
+Canonical PDF: https://maps.orcity.org/plats/2.pdf
+Type: Primary official subdivision plat / recorded survey narrative; **visually verified image-only PDF**.
+Related evidence: `E-094`; cross-reference `E-064`
+Repository source capture: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
+Notes: The first page says the Applegate-surveyed Washington-to-river portion has lots **at least 66 feet front and 100 feet back**, with 10-foot alleys, and graphically depicts Block 26's eight-lot pattern. The City's catalog identifies this as OREGON CITY, county plat 2, year 1850. The PDF has not yet been mirrored into the repository; the canonical official URL and visual-audit result are preserved here.

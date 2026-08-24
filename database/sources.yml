@@ -97,8 +97,8 @@ sources:
 
   - id: S-021
     name: 1925 Sanborn, 5th Area
-    url: ChatGPT upload - 1925-6 (5th)(1).pdf
-    notes: May 1925 Sanborn sheet 6. High-priority source for 501/503/505 Main. Related map SM-008.
+    url: https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF
+    notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for 501/503/505 Main and E-094 scale alignment. Related map SM-008.
 
   - id: S-022
     name: 1950 Sanborn, 5th Area
@@ -269,3 +269,13 @@ sources:
     name: Oregonian, 18 April 1983, Cruzan / Wheel Cafe feature (fuller page)
     url: newspapers/oregonian/1983-wheel-cafe-oregonian.png
     notes: Original filename Wheel Cafe 1983 Oregonian.png. Same article as S-054. Related evidence E-047. Related media IMG-0050.
+
+  - id: S-107
+    name: Morning Enterprise, 23 October 1913, Block 26 assessment notice
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
+    notes: Visually verified full-page scan. Lists Block 26 Lots 5-8 owners and describes the row boundary between Fifth and Sixth. Related evidence E-094.
+
+  - id: S-108
+    name: Original Oregon City plat, county plat 2, cataloged 1850
+    url: https://maps.orcity.org/plats/2.pdf
+    notes: Official image-only plat PDF, visually verified. Applegate-surveyed lots are at least 66 feet front by 100 feet back. Related evidence E-094.

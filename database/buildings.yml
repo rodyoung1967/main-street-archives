@@ -42,6 +42,11 @@ buildings:
       - E-047
       - E-048
       - E-049
+      - E-094
+    related_sources:
+      - S-021
+      - S-107
+      - S-108
     related_maps:
       - SM-002
       - SM-003
@@ -124,6 +129,11 @@ buildings:
       - E-041
       - E-045
       - E-046
+      - E-094
+    related_sources:
+      - S-021
+      - S-107
+      - S-108
     related_maps:
       - SM-002
       - SM-003
@@ -151,8 +161,11 @@ buildings:
       - E-020
       - E-021
       - E-045
+      - E-094
     related_sources:
       - S-063
+      - S-107
+      - S-108
     related_maps:
       - SM-002
       - SM-003
@@ -182,6 +195,7 @@ buildings:
       - E-054
       - E-055
       - E-056
+      - E-094
     related_sources:
       - S-021
       - S-023
@@ -191,5 +205,7 @@ buildings:
       - S-067
       - S-068
       - S-069
+      - S-107
+      - S-108
     related_maps:
       - SM-008

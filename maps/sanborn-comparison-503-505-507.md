@@ -13,6 +13,8 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 - `SM-007` / `S-020` — 1911 sheet 22
 - `SM-008` / `S-021` — 1925 sheet 6
 - `SM-009` / `S-022` — 1950 revised sheet 6
+- `S-107` — visually verified 1913 Block 26 assessment notice
+- `S-108` — visually verified official original Oregon City plat, county plat 2
 
 ## High-Level Findings
 
@@ -23,13 +25,14 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 5. The 1925 and 1950 sheets show 503 and 505 as distinct addresses/occupancies, supporting the archive rule that 503 and 505 should remain separate building/address records even when business history overlaps.
 6. The 1950 sheet shows a mid-century commercial pattern at 503/505 consistent with restaurant and billiards/cigars/beer uses.
 7. Aerial photocompare evidence (`E-021`) confirms **501 Main existed as a separable structure in 1936** and was **removed by 1944**; the east-side building across from **500 Main** is also absent by 1944. See `D-003` and `evidence/aerial-5th-main-photocompare-series.md`.
-8. Independent 1906 evidence provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). Together these may allow the older Sanborn storefronts and Block 26 lots to be mapped to the later 501/503/505/507 numbering.
+8. Independent 1906 evidence provides two critical reconstruction anchors outside the Sanborn series: Oregon City created a **formal street-numbering plat** (`E-061`) and the historic **William Tell Hotel at Sixth & Main is tied to lot 8, Block 26** (`E-064`). The numbering plat remains missing, but the official original Oregon City plat has now been recovered and visually inspected (`E-094`).
 9. The 1907 pass adds a major **street-grade/track reconstruction event** through the target block (`E-066`) and a confirmed new telephone central office on the **east side of Main between Fifth and Sixth** (`E-065`). Neither event is currently tied to demolition of the later odd-numbered 501/503/505/507 predecessor buildings.
 10. The 1908 pass provides the first currently registered exact target-number occupant after the numbering program: **Henry Brightbill at 503 Main** (`E-042`). It also documents removal of Main Street overhead utility infrastructure (`E-070`). Exact 503 occupancy in 1908 predates the later c.1919 surviving-building estimate, proving that address history and surviving-building history must be handled separately.
 11. The 1909 pass adds physical evidence on both the **Water Street edge of the Fifth–Sixth block** (`E-074`) and the **Sixth/Main intersection** (`E-075`, `E-076`). It also corrects the prior unsupported equation of the c.1909 Harding Building with 507 Main: current evidence establishes a Harding Building around 1909 and a Main-between-Fifth/Sixth location by 1911, but not an exact 1909 number (`E-077`).
 12. The 1910 pass establishes a **direct new-building event on the Gambrinus property at Sixth & Main** (`E-078`), places Brightbill at **509 Main by September 1910** after his 503 Main occupancy in 1908 (`E-081`), and places Pacific Telephone & Telegraph at **510 Main** (`E-082`). These anchors substantially tighten the address and building chronology while leaving the exact 501/503/505/507 occupants unresolved for 1910.
 13. The 1911 pass directly establishes **The Chicago Store at 505 Main by 31 March after being at 405 Main through 3 February** (`E-084`), proves the new Gambrinus block was occupied by early March (`E-086`), and adds a one-door-north Harding→Willamette Building relationship that may eventually help map 505/507 but is not yet an exact-address proof (`E-085`, `RL-035`).
 14. The 1912 pass adds a visually verified **503 / 507 / 509 / 511 Main address ladder** (`E-092`), documents Smith pool-room/pool-hall use at **503 Main** (`E-089`), continues the Gambrinus sequence with a saloon at Sixth/Main (`E-091`), and confirms that buildings were actively being **torn down and replaced somewhere on Main Street** in May (`E-090`). The demolition statement remains unmapped to the target block.
+15. The original plat says target-area lots are at least **66 feet front by 100 feet back**. On the 1925 sheet's printed scale, 501+503+505 span approximately 66–67 feet. This supports a **strong inference** that those three storefronts occupy original Lot 5 and that original Lot 6 begins at or near the 505/507 wall (`E-094`). It is not a deed/survey proof.
 
 ## Year-by-Year Working Notes
 
@@ -41,7 +44,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 | 1892 | `SM-005` | Block 26 at Main and 5th shows a developed row of Main-facing commercial spaces. Visible labels include clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank near the 5th/Main corner. The modern 501/503/505 numbering is not the dominant labeling on this sheet. | Strong evidence of a pre-1919 commercial frontage in the relevant 5th/Main block. Use cautiously for exact modern address mapping until address-number transition is resolved. |
 | 1900 | `SM-006` | Sheet 13 shows a developed Main-frontage row near 5th, with labels including saloon, grocery, bake house, dry goods/clothing/gents furnishing, furniture/stoves/wall paper, grocery, drugs, and jewelry/bicycles with I.O.O.F. Hall on the second floor. The sheet labels Main as widened / The Willamette in this area. | Strong evidence that the commercial row predates 1919. The later 1919 date may represent rebuild, remodel, reassessment, or a specific building event rather than the first commercial building on the frontage. |
 | 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed; use the independent 1911–1912 newspaper anchors below instead. |
-| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies in 1925. |
+| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies. Scale comparison to the official original plat supports 501+503+505 ≈ Lot 5 and the 505/507 wall ≈ Lot 5/Lot 6 (`E-094`), subject to cadastral proof. |
 | 1950 | `SM-009` | The revised 1950 sheet shows a continued commercial frontage. At the lower Main frontage, `503` is labeled restaurant with concrete floor; `505` is labeled billiards, cigars, and beer, with restaurant wording also visible; `507` appears as a separate store space; nearby `509A/B`, `511`, `513`, and higher addresses include restaurant, office/store, hall, and bake-house related labels. | Strong mid-century evidence for separate 503/505/507 address/occupancy pattern and for restaurant/bar-adjacent uses at 503 and 505 before later known tavern history. |
 
 ## 1906 Non-Sanborn Block 26 Anchors
@@ -56,12 +59,25 @@ The 1906 year-by-year research adds information that should be used when interpr
 Working reconstruction strategy:
 
 1. Recover the 1906 numbering plat.
-2. Obtain/verify the original Oregon City plat showing Block 26 lot geometry and numbering.
+2. Use the now visually verified original Oregon City plat (`E-094`) for the target area's at-least-66-by-100-foot lot regime and eight-lot Block 26 pattern.
 3. Place lot 8 / William Tell at Sixth & Main.
 4. Work southward through lots 7, 6, 5, etc., comparing property widths and Sanborn storefront divisions.
 5. Test the resulting lot sequence against the later 501/503/505/507 addresses and known 1908–1925 occupants.
 
 Do not assume that one modern street number equals one original platted lot; storefront subdivisions, combinations, and later rebuilding may cross lot lines.
+
+## Original Plat / 1925 Scale Alignment
+
+The official original plat changes the geometry baseline. Its recorded narrative gives lots in the Applegate-surveyed Washington-to-river portion—including target Block 26—as **at least 66 feet front and 100 feet back**, with 10-foot alleys (`S-108`). The former use of a general City webpage's 50-by-100-foot description for this block is superseded.
+
+The 1913 assessment notice has also been visually certified (`S-107`). It lists Lots 5–8 in order by owner, while the independent 1906 William Tell/Gambrinus evidence fixes Lot 8 at Sixth/Main. The Main-side sequence is therefore Lot 5 from Fifth, then Lots 6, 7 and 8 toward Sixth.
+
+Reading the 1925 Sheet 6 façade divisions against its printed scale makes the Fifth edge through the 505/507 wall approximately 66–67 feet. That is almost exactly one original-lot frontage. The resulting working alignment is:
+
+- 501 / 503 / 505 ≈ original Lot 5;
+- 507 begins ≈ original Lot 6.
+
+Classification: **strong inference**, not proven fact. A deed, title abstract, survey overlay or other cadastral record must still prove the line and explain the original Block 26 / later Block 4 numbering conversion. See `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`.
 
 ## 1907 Non-Sanborn Physical-Change Anchors
 
@@ -187,7 +203,7 @@ Archive handling:
 ## Open Research Questions Raised by the Maps
 
 - Can the **1906 street-numbering plat** be recovered and directly map Block 26 to the modern Main Street sequence?
-- How do **lot 8 at Sixth & Main** and the remaining Block 26 lots map toward Fifth Street (`RL-026`)?
+- Can a deed, title abstract or survey prove the strong working placement of the **Lot 5/Lot 6 division at the 505/507 wall** and explain the original Block 26 / later Block 4 conversion (`RL-026`)?
 - Which physical premises/building did Henry Brightbill occupy at **503 Main in 1908**, and how does it relate to the surviving c.1919-listed 503 building?
 - What caused or accompanied Brightbill's move/readdressing from 503 Main in August 1908 to 509 Main by September 1910?
 - Which physical premises did The Chicago Store enter at **505 Main by March 1911**, and how does that predecessor relate to the surviving later-dated 505 building?

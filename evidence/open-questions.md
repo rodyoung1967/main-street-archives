@@ -12,7 +12,7 @@ When was the current 505 Main Street building constructed?
 Was the rear portion of 505 Main Street added later? If yes, when, by whom, and under what permit or assessor change?
 
 ## OQ-004 — 503 / 505 Boundary
-What is the legal and physical boundary between 503 and 505 Main Street? Is 503 wider while 505 is deeper, and what records prove the measurements?
+Status: **Original-lot context narrowed; modern legal/physical boundary remains open.** `E-094` strongly aligns the original Block 26 Lot 5/Lot 6 division with the **505/507 wall**, placing 501/503/505 approximately within Lot 5. That does not resolve the internal 503/505 parcel/wall/depth relationship. What records prove the modern widths, depths, common wall and any rear additions?
 
 ## OQ-005 — 501 Main on the 1925 Sanborn Map
 Status: Partially answered by `E-020` / `E-021`. Aerial evidence places removal between 1936 and 1944. Business, ownership, and cause of removal remain open.
@@ -114,3 +114,6 @@ How did Henry/H. P. Brightbill's store move between the documented **503 Main in
 
 ## OQ-028 — 527 Main / Swartz Building Transition
 Status: Current-building date substantially answered. City of Oregon City and ODOT historic-resource surveys identify **527 Main as the Swartz Building, built 1935** (`S-062`, `S-063`). Bailey & Price is documented at **527 Main in January 1912** (`S-061`), so an earlier structure occupied the address. Still open: exact predecessor-building demolition/replacement date, who Swartz was, builder/architect/owner, 1935 permits or newspaper construction notices, intervening occupants, and any damage/repairs from the 1 September 1967 fire.
+
+## OQ-029 — Original Block 26 / Later Block 4 Conversion
+What filing, replat, title convention or assessor mapping changed the Fifth-to-Sixth odd/Main block from original **Oregon City Block 26** to the later/current **(2) OREGON CITY, Block 4** descriptions? `E-094` strongly aligns original Lot 5 with the 501/503/505 frontage, but the two cadastral systems must not be silently equated without the connecting record.

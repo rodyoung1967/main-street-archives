@@ -66,12 +66,13 @@ maps:
     source_id: S-021
     title: 1925 Sanborn, 5th Area
     date: May 1925
-    source_status: Source uploaded in ChatGPT conversation; binary PDF not yet committed to repository.
+    source_status: Binary PDF committed at maps/sanborn/originals/1925-6 (5th).pdf; official City URL also verified.
     related_buildings:
       - B-001
       - B-002
       - B-003
-    notes: High-priority source for 501/503/505 Main, building footprint, and address-numbering questions.
+      - B-005
+    notes: High-priority source for 501/503/505 Main, building footprint, address-numbering questions, and E-094 original-lot scale alignment.
 
   - id: SM-009
     source_id: S-022

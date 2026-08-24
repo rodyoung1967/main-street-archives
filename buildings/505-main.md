@@ -5,7 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
 - Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`
+- Related sources: `S-021`, `S-107`, `S-108`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -107,6 +108,8 @@ The rear portion of the 505 building may have been added later, based on family/
 
 There is also an unresolved footprint question: 505 may extend farther back than 503, while 503 may be somewhat wider. This should be treated as a working observation until confirmed by measurements, tax maps, assessor records, Sanborn maps, deeds, and parcel records.
 
+The **original-lot** placement is now narrower than the modern 503/505 boundary question. The visually verified original plat gives target Block 26 lots at least 66 feet of frontage; a proportional reading of the 1925 Sanborn makes 501+503+505 approximately 66–67 feet wide. The strong working alignment therefore places **505 within original Lot 5** and the Lot 5/Lot 6 division at or near the 505/507 wall (`E-094`). This supersedes the former 50-foot hypothesis that 505 might begin at Lot 6. Deed/title/survey proof and the Block 26-to-later-Block 4 conversion remain unresolved.
+
 Photo metadata for a circa-1910 5th/Main image reports that the first building in the picture is gone and is now 503 and 505 Main Street, and that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street. The same metadata notes that the 501 Main history is unclear. This should be treated as trusted internal Time Capsule Maps metadata, with original image/source details still needed for external historical claims.
 
 ## Ray Hansen / Raye Grisham (resolved as two people)
@@ -177,6 +180,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - Identify Willie by full name.
 - Confirm whether the rear portion of 505 was added later.
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
+- Obtain deed/title/survey proof for the strong working placement of 505 within original Block 26 Lot 5 and the Lot 5/Lot 6 line near 505/507.
 - Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
 
 ## Open Questions
