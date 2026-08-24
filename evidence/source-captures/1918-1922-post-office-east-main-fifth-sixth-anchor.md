@@ -1,8 +1,8 @@
 # 1918–1922 Oregon City Post Office — east side of Main between Fifth and Sixth
 
-Status: **PRIMARY 1918 location report + visually verified 1913 intermediate Post Office + visually verified City historic-inventory building range; exact 1922 storefront bay unresolved**
+Status: **PRIMARY 1918 location report + visually verified 1913 intermediate Post Office + visually verified 1922 spatial anchors + visually verified City historic-inventory building range; exact 1922 storefront bay unresolved**
 
-Purpose: distinguish the post-1918 Oregon City Post Office from the earlier circa-1912 Post Office location and provide the correct landmark for interpreting 1921–1922 advertisements that say `opposite post office`.
+Purpose: distinguish the post-1918 Oregon City Post Office from the earlier circa-1912 Post Office location and provide the correct landmark for interpreting 1921–1922 advertisements that say `opposite post office` or `near post office`.
 
 ## Three-location chronology now established
 
@@ -55,6 +55,34 @@ The combination of the 1918 newspaper and later City inventory strongly identifi
 
 The exact postal-service bay within 504–514 is still unresolved. Do not assign the Post Office to 504, 506, 508, 510, 512, or 514 without a direct directory, lease, advertisement, photograph, or other source.
 
+## 8 June 1922 — two visually verified spatial anchors
+
+The actual scan of **Banner-Courier, 8 Jun 1922, p. 10** has been visually inspected.
+
+Two advertisements on the page independently locate businesses relative to the fire-period Post Office:
+
+- **Dr. Freeze — 505½ Main St. — `Opposite Postoffice`**.
+- **Neal, Mc and Rose — 522 Main — `Near Post Office`**.
+
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+### OCR correction
+
+The archive OCR layout can make the phrase **`Next to Electric Hotel`** appear as though it belongs to the 522 Main advertisement. Visual inspection shows that it does **not**. That phrase belongs to the separate **Northwestern Tire Shop** advertisement immediately below, which prints **407 Main St.**
+
+Therefore the safe reading is only:
+
+- Neal, Mc and Rose — **522 Main — Near Post Office**.
+
+Do not attach `Next to Electric Hotel` to Neal, Mc and Rose.
+
+### Interpretation
+
+The 522 Main clue is useful as a second fire-period spatial anchor, but `near` is not an exact adjacency statement. It does **not** identify the Post Office bay. In combination with the 1918 lease and the exact 505½ `Opposite Postoffice` wording, it remains consistent with postal service occupying some part of the **504–514 east-side range**.
+
 ## Why the earlier evidence looked contradictory
 
 The project was dealing with **different Post Office locations at different dates**:
@@ -67,14 +95,15 @@ Therefore the earlier odd-side Post Office evidence must **not** be carried forw
 
 ## Fire-reconstruction implication
 
-This materially strengthens the spatial value of two 1921–1922 clues:
+This materially strengthens the spatial value of several 1922 clues:
 
 - **Dr. Freeze — 505½ Main — opposite post office**;
-- the June 1922 **Miller's Shoe Store — opposite Post Office** advertisement.
+- **Miller's Shoe Store — Main Street — opposite Post Office**;
+- **Neal, Mc and Rose — 522 Main — near Post Office**.
 
 Because the fire-period Post Office was on the east/even side of Main in the 504–514 range, an `opposite post office` business in 1922 naturally lies on the west/odd side of Main, the side containing **501 / 503 / 505 / 507 / 509 / 511 / 513**.
 
-Dr. Freeze's exact 505½ address proves that `opposite post office` could describe the **505 structure itself** in 1922. This makes the same wording in the Miller's Shoe Store advertisement a potentially important constraint on Gilbert Miller's pre-fire location if the trade-name identity can be proved.
+Dr. Freeze's exact 505½ address proves that `opposite post office` could describe the **505 structure itself** in 1922. This makes the same wording in the Miller's Shoe Store advertisements a potentially important constraint on Gilbert Miller's pre-fire location if the trade-name identity can be proved.
 
 Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite post office` applies to a range of facing storefronts until the exact postal-service bay is identified.
 
@@ -87,6 +116,8 @@ Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite po
 - leased building was owned by M. D. Latourette: **Very High / primary contemporary report**
 - Latourette-David-Barlow historic building range = 504–514 Main: **Very High / visually verified official City inventory**
 - post-1918 Post Office occupied some portion of 504–514 Main: **Strong / combined primary + official secondary evidence**
+- 505½ Main was advertised `Opposite Postoffice` on 8 Jun 1922: **Very High / visually verified primary scan**
+- 522 Main was advertised `Near Post Office` on 8 Jun 1922: **Very High / visually verified primary scan**
 - exact Post Office street number/bay within 504–514: **Unresolved**
 - `Opposite post office` in 1922 places a business on the odd-numbered west side of Main: **Strong spatial inference; exact storefront still unresolved**
 
@@ -95,5 +126,6 @@ Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite po
 1. Find a 1919–1924 directory or advertisement printing the exact Oregon City Post Office street number.
 2. Find the actual Latourette lease description or federal postal-site record.
 3. Identify which 504–514 bay housed postal service.
-4. Use that exact bay to test the June 1922 Miller's Shoe Store location.
-5. Keep all three Post Office locations chronologically distinct in future spatial analysis.
+4. Use that exact bay to test the 1922 Miller's Shoe Store location.
+5. Search additional exact-number advertisements in the 500–524 Main range for `near`, `next to`, `across from`, and `opposite post office` relationships.
+6. Keep all three Post Office locations chronologically distinct in future spatial analysis.
