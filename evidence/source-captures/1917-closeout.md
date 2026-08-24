@@ -1,13 +1,17 @@
 # 1917 closeout — 503 / 505 Main
 
-Status: **substantially complete / closed for chronological progression; residual retrieval gaps remain open**
+Status: **closed for chronological progression; exact occupants unresolved; defined retrieval gaps remain open**
 
-This closeout records the end-state of the 1917 review under `RESEARCH-STANDARD.md`. It does **not** claim that every 1917 page has been visually inspected. It records that the accessible newspaper, water-ledger, and secondary official-source routes have been exhausted enough to move chronologically to 1918 without converting unresolved retrieval gaps into historical conclusions.
+This closeout records the end-state of the 1917 review under RESEARCH-STANDARD.md. It does **not** claim that every 1917 newspaper page in every title has been visually inspected. It records that the accessible newspaper, municipal-ledger, and official secondary-source routes have been exhausted enough to move chronologically to 1918 without converting retrieval gaps into historical conclusions.
 
 ## What is established for 1917
 
-- The *Oregon City Courier* was reviewed chronologically with issue-size inventorying because issues vary materially in length.
-- Confirmed examples include 10-page issues on 15 Feb, 22 Feb, and 1 Mar; 6-page issues on 9/16/23 Aug; and an exactly **24-page** Christmas shopping issue on 13 Dec.
+- The *Oregon City Courier* was reviewed chronologically with explicit issue-size inventorying because issues vary materially in length.
+- Confirmed examples include 10-page issues on 15 Feb, 22 Feb, and 1 Mar; 6-page issues on 2/9/16/23 Aug; and a Christmas shopping issue described by its front page as 24 pages on 13 Dec.
+- All six supplied pages of the **2 Aug 1917** issue were visually inspected on 24 Aug 2026. Each is genuinely dated 2 Aug; no defensible exact-address occupant for 503 or 505 Main appears.
+- The **15 Nov** and **22 Nov** issue indexes each expose eight pages/images.
+- All 24 files supplied by the archive under the **13 Dec 1917** issue record were visually inspected on 24 Aug 2026. Sequences 1–20 and 22–24 are genuinely dated 13 Dec. Sequence 21 instead has the printed header **Thursday, December 27, 1917**. Therefore 23 genuine 13 Dec pages have been visually reviewed, while the true 13 Dec page 21 remains unrecovered.
+- No defensible exact-address occupant, transfer, vacancy, demolition, or construction item for 503 or 505 Main appears on the 23 genuine 13 Dec pages. This is a coverage result only, not proof of vacancy or non-use.
 - R. L. Holman is repeatedly placed at **Fifth and Main St.** through at least 5 Jul 1917.
 - The 1916–1917 water-rent ledger visually records **503 Main** and **503½ Main** separately, while no separate **505 Main** account appears in the expected numerical sequence.
 - The ledger absence of 505 is an account-sequence fact only and is not accepted as proof of vacancy or non-use.
@@ -32,12 +36,11 @@ This closeout records the end-state of the 1917 review under `RESEARCH-STANDARD.
 
 These are retained as **retrieval gaps**, not blockers to moving into 1918:
 
-1. **Sohns & Woodbeck, _Clackamas County & Oregon City Directory_, 1916–1917** — this remains the highest-value unresolved primary source. FamilySearch catalog 1844954, Oregon Historical Society, and a limited Oak Lodge digital-copy lead are documented in `1916-1917-directory-lead.md`. The actual Oregon City target pages for 501/503/505/507/509/511 have not yet been visually recovered.
-2. **13 Dec 1917 Courier, 24 pages** — the complete page count is established and broad text searches were run, but direct page rendering was unreliable in the research environment. The issue is **not** marked visually cleared.
-3. **15 Nov and 22 Nov Courier issue counts** — issue roots are known, but exact counts were not independently confirmed in this session. This is administrative completeness only; no target-address lead depends on those counts.
+1. **True page 21 of the 13 Dec 1917 Courier** — the archive exposes 24 sequence positions, but its sequence 21 is visibly a 27 Dec page. Recover the correct page from another archive derivative, microfilm, or the holding institution and inspect it visually.
+2. **Sohns & Woodbeck, *Clackamas County & Oregon City Directory*, 1916–1917** — this remains the highest-value unresolved primary source. FamilySearch catalog 1844954 and the Oregon Historical Society holding are documented in 1916-1917-directory-lead.md. Oak Lodge History Detectives states that its downloadable scan contains only the Oak Grove and Jennings Lodge portions; it is not the missing Oregon City section. The actual Oregon City target pages for 501/503/505/507/509/511 have not been visually recovered.
 
 ## Closeout judgment
 
-The unresolved questions are now source-access problems rather than unexhausted obvious research routes. 1917 can therefore be treated as **complete enough for chronological progression to 1918**, while preserving the exact-occupant questions for 503 and 505 as open.
+The remaining questions are source-access problems rather than unexhausted obvious research routes. 1917 can therefore be treated as **complete enough for chronological progression to 1918**, while preserving the exact-occupant questions for 503 and 505 as open.
 
 Do not later summarize 1917 as proving either address vacant. The correct statement is: **no defensible exact-address occupant has yet been recovered from the sources successfully accessed and reviewed.**

@@ -1,6 +1,6 @@
 # 1916–1917 Clackamas County & Oregon City Directory — source lead
 
-Status: **high-priority primary-directory lead; public digital-copy lead now located, but target pages not yet visually recovered**
+Status: **high-priority primary-directory retrieval gap; public Oak Lodge excerpt confirmed out of scope for Oregon City**
 
 The exact directory cited by Oregon City historic-resource research has now been confirmed bibliographically as:
 
@@ -26,7 +26,10 @@ Four concrete retrieval facts are now confirmed:
    Landing page:
    `https://oaklodgehistory.org/pages/oaklodge/jenningslodge/`
 
-The Oak Lodge filename indicates that this digital copy may be an **Oak Grove/Jennings Lodge extract rather than the complete Oregon City volume**. That must be established by viewing the scan itself. In the 23 Aug 2026 research environment, the landing page is readable and the exact PDF URL resolves as a link, but the binary PDF fetch returns a cache/retrieval failure. Therefore **no page from this copy has yet been counted as visually reviewed**, and it is not evidence for or against any 503/505 occupant.
+Oak Lodge History Detectives' directory overview explicitly states that it scanned only the **Oak Grove and Jennings Lodge portions** of the 1916–17 Clackamas County directory:
+   https://oaklodgehistory.org/2020/04/24/city-directories/
+
+The linked PDF filename is consistent with that scope. In the 24 Aug 2026 research environment, the direct PDF URL redirects to itself until the client stops with a redirect-loop error. Even if that technical defect is repaired, the stated Oak Grove/Jennings Lodge excerpt does **not** contain the missing Oregon City section and cannot resolve the 501/503/505/507/509/511 Main sequence. No failure to find a target entry in this excerpt would be evidence for or against a 503/505 occupant.
 
 The LDSGenealogy access page for the FamilySearch item likewise points directly to FamilySearch catalog `1844954` and explains the possible camera / restricted-camera / microfilm-only access states.
 
@@ -69,12 +72,12 @@ This directory is likely the best surviving single source for resolving the 1916
 2. Search names/businesses already known from adjacent years: **L. Hylton / Louis Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Wolf, Miller, Frank D. Cox, William Myers Jr., pool/billiards, cigar dealers, shoe repair, soft drinks**.
 3. Determine whether the volume contains a reverse/street directory; if so, transcribe the entire 500 block of Main.
 4. Capture page images and visually verify all relevant entries rather than relying solely on OCR or quotations in later historic-resource forms.
-5. Test the Oak Lodge History Detectives PDF first because it is a small public digital copy; determine whether it contains the Oregon City pages or only Oak Grove/Jennings Lodge excerpts.
-6. If that copy does not contain Oregon City or remains unreachable, use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
+5. Do not treat the Oak Lodge History Detectives PDF as an Oregon City retrieval route; the site states that the scan contains only Oak Grove and Jennings Lodge portions.
+6. Use the confirmed **Oregon Historical Society** copy as the primary physical retrieval route and FamilySearch catalog `1844954` as the digital/microfilm route.
 7. In parallel, search the statewide 1915–16 directory ARKs above for Oregon City business classifications if those images become accessible.
 
 ## Access status
 
-A new **public digital-copy lead** has been located at Oak Lodge History Detectives, correcting the prior statement that no free scan lead had been found. However, its PDF pages have not yet been retrievable for visual inspection in the current environment, and its scope may be limited to Oak Grove/Jennings Lodge. FamilySearch image rendering also remains restricted/timed out.
+The Oak Lodge History Detectives download is now classified as an **out-of-scope excerpt**, not a possible copy of the missing Oregon City pages. The site states that it scanned only the Oak Grove and Jennings Lodge portions, and the direct PDF currently produces a self-redirect loop. FamilySearch image rendering remains restricted/timed out, and the Oregon Historical Society physical copy remains the strongest retrieval route.
 
 Under the project research standard this remains a **RETRIEVAL GAP**, not negative evidence. Do **not** infer the 503 or 505 occupant from the directory's existence, OCR, later quotations, or failed retrieval. Promote an occupant claim only after the actual directory page has been visually inspected.

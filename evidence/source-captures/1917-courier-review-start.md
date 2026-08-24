@@ -1,8 +1,8 @@
 # 1917 Oregon City Courier — review start
 
-Status: **substantially reviewed / residual visual and directory retrieval gaps remain**
+Status: **substantially reviewed; residual visual and directory retrieval gaps remain**
 
-Purpose: continue the 1917 issue-by-issue review under `RESEARCH-STANDARD.md`, using OCR/search/index results only as discovery aids; visual page review controls final evidentiary promotion.
+Purpose: continue the 1917 issue-by-issue review under RESEARCH-STANDARD.md, using OCR/search/index results only as discovery aids; visual page review controls final evidentiary promotion.
 
 ## Issue-size warnings confirmed
 
@@ -23,6 +23,7 @@ Purpose: continue the 1917 issue-by-issue review under `RESEARCH-STANDARD.md`, u
 - **28 Jun 1917 — 8 images**
 - **5 Jul 1917 — 8 images**
 - **26 Jul 1917 — 8 images**
+- **2 Aug 1917 — 6 images**
 - **9 Aug 1917 — 6 images**
 - **16 Aug 1917 — 6 images**
 - **23 Aug 1917 — 6 images**
@@ -33,18 +34,20 @@ Purpose: continue the 1917 issue-by-issue review under `RESEARCH-STANDARD.md`, u
 - **25 Oct 1917 — 8 images**
 - **1 Nov 1917 — 8 images**
 - **8 Nov 1917 — 8 images**
+- **15 Nov 1917 — 8 images**
+- **22 Nov 1917 — 8 images**
 - **29 Nov 1917 — 8 images**
 - **6 Dec 1917 — 8 images**
-- **13 Dec 1917 — exactly 24 images/pages**
+- **13 Dec 1917 — front page describes 24 pages; 23 genuine pages currently recovered**
 - **20 Dec 1917 — 8 images**
 
-The 13 Dec issue index lists pages 1–24, and the front page independently identifies it as a **24-page** Christmas shopping issue. The 15 and 22 Nov issue counts still require explicit confirmation rather than assumption.
+All six 2 Aug pages were visually inspected on 24 Aug 2026. For 13 Dec, the archive exposes sequence positions 1–24 and the front page calls it a 24-page Christmas shopping issue, but sequence 21 is visibly dated 27 Dec. Sequences 1–20 and 22–24 are genuine 13 Dec pages. The correct 13 Dec page 21 remains a retrieval gap and must not be counted as visually cleared.
 
 ## Fifth & Main continuity
 
 Page-level retrieval repeatedly places **R. L. Holman, Leading Undertaker, Fifth and Main St.** in 1917. Confirmed retrievals include:
 
-- **11 Jan 1917, p7**
+- **11 Jan 1917, p5**
 - **22 Feb 1917, p7**
 - **1 Mar 1917, p4**
 - **22 Mar 1917, p8**
@@ -68,9 +71,11 @@ Targeted Courier and Enterprise searches for exact **503 Main** and **505 Main**
 
 ## 1916–1917 directory — highest-value unresolved source
 
-The best remaining source for the occupancy gap is **Sohns & Woodbeck, _Clackamas County and Oregon City Directory_, 1916–1917**. Official Oregon City and National Register research repeatedly cite this volume for specific 1916–17 identities and locations. A FamilySearch catalog record exists at catalog ID `1844954`, and Oregon Historical Society is independently documented as holding a copy.
+The best remaining source for the occupancy gap is **Sohns & Woodbeck, *Clackamas County and Oregon City Directory*, 1916–1917**. Official Oregon City and National Register research repeatedly cite this volume for specific 1916–17 identities and locations. A FamilySearch catalog record exists at catalog ID 1844954, and Oregon Historical Society is independently documented as holding a copy.
 
-National Register work also cites this directory by specific internal page number (for example p. 247 in another property nomination), confirming that the surviving volume is a paginated reference work suitable for direct extraction. The actual Oregon City address pages remain inaccessible in the current session, so no 503/505 occupant claim is promoted from the directory yet.
+Oak Lodge History Detectives links a 1916–17 scan, but its directory overview explicitly states that only the **Oak Grove and Jennings Lodge portions** were scanned. The linked PDF also currently redirects to itself in this research environment. It is not the missing Oregon City section and cannot answer the 501/503/505 sequence.
+
+The actual Oregon City address pages remain inaccessible, so no 503/505 occupant claim is promoted from the directory.
 
 ## Water-ledger comparison
 
@@ -80,9 +85,8 @@ Keep the 1916–1917 water-rent ledger findings separate from newspaper silence:
 - 505 Main is not explicitly present in the expected sequence;
 - that does not prove vacancy.
 
-## Residual gaps before a strict 'fully visually complete' label
+## Residual gaps before any strict “fully visually complete” label
 
-1. Visually clear all 24 pages of the 13 Dec 1917 issue when direct page rendering is available.
-2. Explicitly confirm the 15 Nov and 22 Nov issue counts.
-3. Recover and visually inspect the Oregon City pages of the Sohns & Woodbeck 1916–17 directory, with exact extraction for **501, 503, 505, 507, 509, 511 Main**.
-4. Preserve the exact 503/505 occupant question as unresolved until one of those primary sources resolves it.
+1. Recover and visually inspect the true page 21 of the 13 Dec 1917 Courier.
+2. Recover and visually inspect the Oregon City pages of the Sohns & Woodbeck 1916–17 directory, with exact extraction for **501, 503, 505, 507, 509, 511 Main**.
+3. Preserve the exact 503/505 occupant question as unresolved until a primary source resolves it.
