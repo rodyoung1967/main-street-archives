@@ -1,8 +1,8 @@
 # 1910 — Young second-hand store at 505 Main; museum catalog says later pool-hall location
 
-Status: **VISUALLY VERIFIED MUSEUM CATALOG RECORD; underlying historic photograph not yet inspected**
+Status: **VISUALLY VERIFIED MUSEUM CATALOG RECORD; 1912 507 Main newspaper anchor VISUALLY VERIFIED; underlying historic photograph not yet inspected**
 
-Purpose: preserve a newly verified catalog-level bridge between **505 Main** in 1910 and the later use of that same location as a pool hall, while distinguishing the catalog record from direct inspection of the historic photograph itself.
+Purpose: preserve a newly verified catalog-level bridge between **505 Main** in 1910 and the later use of that same location as a pool hall, while distinguishing the catalog record from direct inspection of the historic photograph itself and reconstructing George H. Young's move away from 505.
 
 ## Source
 
@@ -40,11 +40,69 @@ Earlier search-engine snippets blended text from P-372 and P-391. The source its
 
 Do not merge the two photo descriptions.
 
+## George H. Young moves away from 505 — spring 1911 to January 1912
+
+The new P-391 catalog anchor can now be combined with primary newspaper evidence to narrow Young's storefront chronology.
+
+### 31 March 1911 — Chicago Store at 505 Main
+
+A visually verified **31 Mar 1911 Oregon City Courier** advertisement places **The Chicago Store at 505 Main**. This establishes that by the end of March 1911, the target 505 storefront was being advertised under a different business than the Young second-hand store shown in the museum's 1910 catalog entry.
+
+Related source capture:
+`evidence/source-captures/1911-chicago-store-wolf-nat-405-to-505.md`
+
+This does not by itself prove the exact date George Young vacated 505, because shared/overlapping premises cannot be excluded solely from two advertisements. It does, however, make continued exclusive Young occupancy at 505 after March 1911 unlikely.
+
+### 20 April 1911 — Young advertises a “new store”
+
+The **20 Apr 1911 Morning Enterprise, p.3** contains a classified advertisement headed **SECOND HAND FURNITURE / NEW STORE. NEW GOODS.** George Young states, **“When I moved into my new store”**, says he added new furniture, and advertises curios and relics.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063701/1911-04-20/ed-1/seq-3/
+
+Verification state: **OCR/TEXT CONFIRMED; page-image visual certification still desirable**.
+
+The advertisement does **not** give the new store's street number. Therefore it should not be cited by itself as proof that the April 1911 new store was 507 Main.
+
+### 5 January 1912 — G. H. Young explicitly at 507 Main
+
+The actual scanned page of the **5 Jan 1912 Oregon City Courier, p.6** has been visually inspected. The New Year business grid clearly prints:
+
+- **G. H. Young**
+- **The Curio Man**
+- **Buys and Sells Anything**
+- **507 Main Street, Oregon City**
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+This proves George H. Young's second-hand/curio business was at **507 Main by 5 January 1912**.
+
+A separate **3 Mar 1912 Morning Enterprise** advertisement, also visually inspected on the original page scan, describes George Young as carrying second-hand furniture and curios at **“Main street, near Fifth.”** That wording is fully compatible with the exact 507 Main anchor.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-03/ed-1/seq-2.pdf
+
+### Current move reconstruction
+
+The best-supported sequence is now:
+
+1. **1910:** Museum catalog P-391 — Young second-hand store at **505 Main**.
+2. **31 Mar 1911:** Chicago Store visually verified at **505 Main**.
+3. **20 Apr 1911:** George Young advertises that he has **moved into a new store**, but gives no number.
+4. **5 Jan 1912:** G. H. Young / The Curio Man visually verified at **507 Main**.
+5. **3 Mar 1912:** George Young advertises at **Main Street near Fifth**, compatible with 507.
+6. **1916:** Museum catalog records also identify Young's Curio Store at **507 Main**.
+
+Therefore **Young's 505 phase had ended or was in transition by spring 1911, and 507 Main is directly proven by January 1912**. The evidence strongly suggests that the April 1911 “new store” was the 507 Main premises, but the April advertisement itself does not state the address, so that direct move equation remains an inference rather than source-explicit proof.
+
 ## Relationship to George H. Young
 
-The P-391 catalog note explicitly identifies **G. H. Young** in the photograph. Other project evidence independently documents George H. Young in Oregon City's second-hand/curio trade, including a 1912 advertisement placing **George Young, Main Street near Fifth** and later catalog entries identifying **Young's Curio Store at 507 Main in 1916**.
+The P-391 catalog note explicitly identifies **G. H. Young** in the photograph. The 5 Jan 1912 newspaper advertisement independently prints **G. H. Young / The Curio Man / 507 Main**, creating a strong person-and-business continuity bridge from the museum catalog description to a contemporary newspaper source.
 
-P-391 therefore provides a strong catalog-level identification of George H. Young's second-hand business at **505 Main in 1910**.
+P-391 therefore provides a strong catalog-level identification of George H. Young's second-hand business at **505 Main in 1910**, followed by primary evidence placing his curio/second-hand trade at **507 Main by January 1912**.
 
 ## Why this matters for 505 Main and the 1922 fire problem
 
@@ -58,6 +116,13 @@ It nevertheless materially strengthens the long-term 505 pool-hall history becau
 - 1948 — Harr's Recreation Center at **505 Main**.
 
 The catalog note is therefore **supporting continuity evidence**, not the missing 1922 exact-address bridge.
+
+The newly reconstructed Young move also helps separate business sequences at the Fifth/Main frontage:
+
+- **505** changes from Young's second-hand store (1910 catalog) to Chicago Store by March 1911;
+- **507** is then directly occupied by G. H. Young by January 1912.
+
+This reduces the risk of treating every George Young / second-hand-store reference near Fifth as a 505 occupancy.
 
 ## Related nearby museum records
 
@@ -73,6 +138,7 @@ These records indicate that the museum collection may contain useful visual evid
 
 1. Obtain and visually inspect the actual **P-391 / M/R y # 011-0048** photograph at full resolution.
 2. Determine when the annotation **“same location as pool hall is now”** was written, if provenance permits.
-3. Compare storefront/alley/building geometry in P-391 with the 1911/1925 Sanborn maps and later photographs.
-4. Determine whether the 1910 Young premises at 505 was the same physical building occupied by the Chicago Store in 1911 or a predecessor structure affected by the 1913 fire/rebuilding history.
-5. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use P-391 to assign either business to 505 without a direct bridge.
+3. Visually certify the **20 Apr 1911** George Young “new store” classified and search nearby issues for an exact **507 Main** address to prove the move earlier than Jan 1912.
+4. Compare storefront/alley/building geometry in P-391 with the 1911/1925 Sanborn maps and later photographs.
+5. Determine whether the 1910 Young premises at 505 was the same physical building occupied by the Chicago Store in 1911 or a predecessor structure affected by the 1913 fire/rebuilding history.
+6. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use P-391 to assign either business to 505 without a direct bridge.
