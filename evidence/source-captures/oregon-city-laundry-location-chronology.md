@@ -113,7 +113,7 @@ Important issue: this 1925 summary appears chronologically difficult to reconcil
 
 Do not assume continuity without checking the actual 1925 Sanborn sheet and its revision history.
 
-## Later McLoughlin Boulevard location — genuine address conflict
+## Later McLoughlin Boulevard location — corroborated 510–514 address
 
 Direct Oregon City municipal records identify Oregon City Laundry at **510 McLoughlin Boulevard**:
 
@@ -124,27 +124,22 @@ Sources:
 - https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722849/File/document
 - https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4753768/File/document
 
-However, Oregon City's **2000 Downtown Final Report** lists:
+Independent text extraction of Oregon City's **2000 Downtown Final Report** also places:
 
-- **510–514 McLoughlin Blvd — St. Paul's Episcopal Parish Hall — 1939**;
-- **610 McLoughlin Blvd — Oregon City Laundry — 1923/1968**;
-- **624 McLoughlin Blvd — Elks BPOE #1189 — 1945**.
+- **510–514 McLoughlin Blvd — Oregon City Laundry — 1939**;
+- **610 McLoughlin Blvd — Elks BPOE #1189 — 1923/1968**.
 
-Source:
-https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+The Elks identification at **610 McLoughlin** is independently corroborated by later outside records that still place Oregon City Elks Lodge #1189 at 610 McLoughlin.
 
-### Current assessment
+Sources:
+- https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+- Oregon/ODOT cultural-resources and later Elks-address records used as corroboration.
 
-The previously entered claim that the 2000 survey also supported 510–514 as the laundry was incorrect and has been withdrawn. The **510 vs. 610 McLoughlin discrepancy is genuine** in the recovered sources.
+### Parsing caution
 
-Possible explanations include:
+Earlier web/PDF table extractions intermittently swapped adjacent rows and temporarily made it appear that Oregon City Laundry was at 610 McLoughlin. That interpretation is withdrawn. Because the PDF screenshot endpoint was unavailable during this review, preserve the parsing history in research notes, but current evidence strongly supports **510–514 McLoughlin as the laundry** and **610 McLoughlin as the Elks Lodge**.
 
-1. street renumbering or changed parcel/address assignments;
-2. the laundry occupied more than one McLoughlin property over time;
-3. the survey's 1923/1968 range refers to a different building phase than the 1953/1967 municipal records;
-4. one source contains an address error.
-
-For 1953 and 1967, the contemporaneous municipal records carry the strongest weight and establish **510 McLoughlin** for those dates. Do not normalize the survey's **610 McLoughlin** entry away; preserve it as a conflict until resolved.
+**Current confidence:** High that the later Oregon City Laundry property was at **510–514 McLoughlin Blvd**, with the city survey assigning a **1939** construction date.
 
 ## Two-laundry-photo issue
 
@@ -178,9 +173,9 @@ Current rule:
 | immediately after Jul 1922 fire | Temporary office at 519 Main with Pantorium | Very High |
 | Sep–Nov 1922 | laundry again active in county expense records | High for resumed service; address unresolved |
 | 1925 | Corridor memo says laundry east side of Fifth between Water/Main | High that memo says this; physical continuity unresolved |
+| 1939 | **510–514 McLoughlin Blvd** listed as Oregon City Laundry in city survey | High |
 | 1953 | **510 McLoughlin Blvd** | Very High |
 | 1967 | **510 McLoughlin Blvd** | Very High |
-| 2000 survey | **610 McLoughlin Blvd**, date field 1923/1968 | High that survey says this; relationship to 510 unresolved |
 
 ## Open questions
 
@@ -191,5 +186,4 @@ Current rule:
 5. Which project laundry image corresponds to the pre-1922 109 Fifth plant?
 6. Is the 1925 Sanborn laundry footprint a rebuild, a revised-map condition, or a different location?
 7. What explains the contradictory 1916 location reports?
-8. What explains the later **510 vs. 610 McLoughlin** address conflict?
-9. Was there ever a period with laundry premises simultaneously on opposite sides of Fifth, or do the photographs show sequential locations?
+8. Was there ever a period with laundry premises simultaneously on opposite sides of Fifth, or do the photographs show sequential locations?
