@@ -1,22 +1,17 @@
-# 19 Jan 1922 — W. H. Nelson blacksmith moves to Fifth Street
+# W. H. Nelson — Fifth Street blacksmith location, January–July 1922
 
-Status: **VISUALLY VERIFIED; exact street number unresolved**
+Status: **VISUALLY VERIFIED; street segment resolved, exact number unresolved**
 
-Purpose: preserve a pre-fire Fifth Street blacksmith-location clue that complicates, and therefore helps discipline, the working Scripture & May → May & Washburn 108 Fifth predecessor hypothesis.
+Purpose: preserve the pre-fire Fifth Street blacksmith-location evidence and keep W. H. Nelson separate from the Scripture / May & Washburn fire-cluster reconstruction.
 
-## Source
+## 19 January 1922 — new location on Fifth Street
 
 **Banner-Courier, 19 Jan 1922, p. 2**
 
 Source page:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-01-19/ed-1/seq-2/
 
-PDF:
-https://oregonnews.uoregon.edu/lccn/sn00063699/1922-01-19/ed-1/seq-2.pdf
-
 The actual scanned newspaper page was visually inspected.
-
-## Directly supported fact
 
 In the page's `BUSINESS AND PROFESSIONAL CARDS` section, a card reads:
 
@@ -24,44 +19,64 @@ In the page's `BUSINESS AND PROFESSIONAL CARDS` section, a card reads:
 - **BLACKSMITH**
 - `Will be pleased to see old friends and customers at his new location on 5th`
 
-The advertisement does **not** print a street number or cross street.
+The January advertisement does not print a street number or cross street.
 
 Verification state: **VISUALLY VERIFIED**.
 
-## Why this matters
+## 6 July 1922 — exact Fifth Street segment resolved
 
-The project already has a strong Fifth Street shop chronology:
+The actual scanned **Banner-Courier, 6 Jul 1922, p. 6** business-card page was inspected. Nelson's card now reads in substance:
 
-- Jan 1912 — Scripture & Beauliau, blacksmithing/wagonmaking, **Fifth Street near Main**;
-- Oct 1916–Feb 1917 — Scripture & May, **108 Fifth**;
-- Oct 1918 — Scripture & May, **108 Fifth**, beside Oregon City Laundry at **109 Fifth**;
-- Dec 1920 onward — May & Washburn partnership documented;
-- Jul 1922 — May & Washburn frame garage and Oregon City Laundry destroyed in the same fire.
+- **W. H. NELSON**
+- blacksmithing and horseshoeing at reasonable prices;
+- **On 5th between Main St. and Railroad**.
 
-The Nelson advertisement shows that another blacksmith moved to an unspecified Fifth Street location by January 1922. Therefore **trade type alone cannot establish that a 1922 Fifth Street blacksmith/garage reference represents the former 108 Fifth Scripture & May shop**.
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-6/
 
-This does not weaken the physical/business continuity hypothesis for May & Washburn; it simply means that the hypothesis still requires an operator/address source.
+Verification state: **VISUALLY VERIFIED**.
+
+This identifies Nelson's January `new location on 5th` by July as the Fifth Street segment **between Main Street and Railroad**, on the opposite side of Main from the Fifth Street segment between Main and Water where S. F. Scripture advertised at **108 Fifth** on 8 June 1922 and where the Oregon City Laundry/fire cluster was located.
+
+The ad still does not give Nelson an exact street number.
+
+## Research consequence
+
+Nelson should no longer be treated as a plausible occupant of the **Main-to-Water** Fifth Street fire cluster merely because he was a blacksmith on Fifth Street.
+
+The July 6 location strongly separates his shop geographically from:
+
+- **S. F. Scripture — 108 Fifth, between Main and Water** (8 Jun 1922);
+- Oregon City Laundry / the July 18 fire cluster on Fifth just off Main toward Water.
+
+This also reinforces the general project rule that trade type alone is unsafe for identifying the May & Washburn garage.
+
+## Scripture / May & Washburn correction context
+
+Earlier project work had considered whether May & Washburn inherited the former Scripture & May premises at 108 Fifth. A visually reviewed 8 Jun 1922 Scripture advertisement now proves **S. F. Scripture himself was still advertising at 108 Fifth, between Main and Water**, only six weeks before the fire. Therefore 108 Fifth should not be assigned to May & Washburn without direct evidence of a shared/sublet or other arrangement.
+
+Likewise, the 1918 directory evidence gives consecutive numbers **Scripture & May — 108 Fifth** and **Oregon City Laundry — 109 Fifth**, but consecutive numbering alone does not prove physical adjacency or a shared wall. The project must establish the historic numbering geometry independently.
 
 ## What is NOT established
 
-Do not claim from this source that:
+Do not claim that:
 
-- W. H. Nelson was at 108 Fifth;
-- Nelson succeeded Scripture & May;
+- Nelson had any particular Fifth Street number;
 - Nelson was associated with May & Washburn;
-- Nelson's shop was part of the July 1922 fire cluster.
-
-No exact number or fire connection is printed.
+- Nelson's shop burned in the July 1922 fire;
+- Nelson succeeded Scripture & May;
+- 108 and 109 Fifth were physically adjacent merely because the numbers are consecutive.
 
 ## Confidence
 
-- W. H. Nelson was a blacksmith advertising a new Fifth Street location by 19 Jan 1922: **Very High / visually verified**
-- Exact Fifth Street address: **Unresolved**
-- Nelson = 108 Fifth occupant: **Unproven**
-- Nelson connected to July 1922 fire: **Unproven**
+- W. H. Nelson had a new Fifth Street blacksmith location by 19 Jan 1922: **Very High / visually verified**
+- By 6 Jul 1922 Nelson was on Fifth **between Main and Railroad**: **Very High / visually verified**
+- Nelson was in the Main-to-Water July-fire cluster: **Strongly disfavored by direct location evidence**
+- Exact Nelson street number: **Unresolved**
+- Nelson connected to May & Washburn: **Unproven**
 
 ## Next checks
 
-1. Find later 1922–1923 W. H. Nelson advertisements with a numbered address.
-2. Check the 1921–22 Polk directory for W. H. Nelson, Scripture, May & Washburn, and Fifth Street business listings.
-3. Use Nelson as a separate candidate when interpreting blacksmith/garage references; do not merge by occupation alone.
+1. Find Nelson's exact numbered address in the 1921–1922 Polk gazetteer or later advertisements.
+2. Continue treating Nelson as a separate Fifth Street blacksmith chain from Scripture and May & Washburn.
+3. Reconstruct historic Fifth Street numbering/geometry independently before inferring adjacency from 108/109.
