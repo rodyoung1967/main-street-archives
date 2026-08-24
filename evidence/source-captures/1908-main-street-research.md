@@ -1,5 +1,6 @@
 # 1908 Main Street research source capture
 
+Year status: **IN PROGRESS**
 Research date: 21 August 2026  
 Scope: 501, 503, 505, and 507 Main Street, Oregon City, with Fifth–Sixth block businesses, construction/demolition/fire, utilities, streetscape changes, and address-development evidence.
 
@@ -100,7 +101,7 @@ Later *Oregon City Courier* advertisements in 1910 explicitly place **Pacific Te
 
 Do not backdate **510 Main** until continuous premises/address evidence is recovered.
 
-## Year status — 1908
+## 1908 findings snapshot and remaining work
 
 Documented:
 

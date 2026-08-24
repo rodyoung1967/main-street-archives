@@ -1,5 +1,6 @@
 # 1907 Main Street research source capture
 
+Year status: **IN PROGRESS**
 Research date: 21 August 2026  
 Scope: 501, 503, 505, and 507 Main Street, Oregon City, with Fifth–Sixth intersection anchors and construction/demolition/public-works evidence used to reconstruct the block.
 
@@ -100,7 +101,7 @@ Later evidence should be used to continue `RL-026`, not projected backward as a 
 
 These are follow-up clues and should receive dedicated evidence/source registration when the reconstruction reaches those years or when the underlying pages are formally integrated.
 
-## Year status — 1907
+## 1907 findings snapshot and remaining work
 
 Documented:
 

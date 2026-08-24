@@ -11,7 +11,8 @@ For a family member, historian, or other first-time reader who wants to understa
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
 5. **`evidence/evidence-register.md` and `evidence/source-register.md`.** These are the audit trail: what evidence supports each claim and where it came from.
-6. **`evidence/open-questions.md` and `evidence/research-leads.md`.** These show what is still uncertain or needs documentary proof.
+6. **`registers/year-status.md`.** This is the canonical annual-review status; it distinguishes verified findings from completion of the required research coverage.
+7. **`evidence/open-questions.md` and `evidence/research-leads.md`.** These show what is still uncertain or needs documentary proof.
 
 Important reading rule: **business ownership/operation and building ownership are separate timelines.** This matters especially for Dick and Sheila Wiitanen at both 503 and 505.
 
@@ -30,7 +31,7 @@ Associated names and topics:
 - The Wheel — **503 Main only**
 - Raye LaFarlette / Raye Grisham — same woman; bought The Wheel business
 - Dick and Sheila Wiitanen — later bought The Wheel business from Raye, later bought the 503 building, and later sold the business and building together; exact transaction dates/parties still need records
-- 1919 construction-date hypothesis
+- c.1919 secondary-source construction estimate; primary construction proof remains open
 - 1925 Sanborn 501 / 503 / 505 question
 - 503 / 505 boundary and width question
 - 2017 modification question
@@ -102,7 +103,7 @@ Associated names and topics:
 - Harding Drug Store (gutted 1 September 1967)
 - Dixon's Bakery (named among businesses gutted in same fire; exact storefront number still open)
 - George A. Harding
-- Dr. Bailey
+- Dr. Bailey — legacy 1909 claim remains unverified; a museum catalog image names a Dr. Bailey but does not yet prove an office in the Harding Building
 - Tony's Restaurant
 - 1 September 1967 fire (`E-045`); earlier 1968/1969 fire-date wording superseded
 - **Present replacement Harding Building at 507-511 Main dated 1968 by ODOT (`S-063`)**
@@ -169,7 +170,16 @@ Primary file: `businesses/business-index.md`
 - `BUS-011` The Chicago Store
 - `BUS-012` Wolf & Miller
 - `BUS-013` Farr's Pool Hall
+- `BUS-014` Harr's Recreation Center
+- `BUS-015` Well's Recreation
 - `BUS-016` The Dug Inn
+- `BUS-017` Sports Keg
+- `BUS-018` H. H. / H. N. Smith Pool Hall
+- `BUS-019` L. Hylton's 503 Main business
+- `BUS-020` Bailey & Price Billiard and Pool Parlors
+- `BUS-021` G. H. Young second-hand/furniture business
+- `BUS-022` H. P. Brightbill grocery
+- `BUS-023` George A. Harding pharmacy
 
 ## People Index
 
@@ -192,12 +202,13 @@ High-priority people/entities:
 - Alin Guria — current 505 lessee and operating-business owner; earlier **Alan** / dual-spelling wording was a project typo
 - Skyline Property Management — property manager / authorized agent
 - George A. Harding — Harding Building / Harding Drug Store context
-- Dr. Bailey — dentist upstairs in Harding Building in 1909
+- Dr. Bailey — legacy 1909 Harding Building claim is unverified; track under `OQ-030`
 
 ## Evidence and Source Registers
 
 - Master chronological walkthrough: `timeline.md`
 - Ownership/stewardship timeline: `registers/ownership-timeline.md`
+- Annual research status: `registers/year-status.md`
 - Evidence register: `evidence/evidence-register.md`
 - Source register: `evidence/source-register.md`
 - Research leads: `evidence/research-leads.md`
@@ -210,13 +221,14 @@ High-priority people/entities:
 
 1. Document the exact **503** sequence: Dick/Sheila purchase of The Wheel business from Raye, later purchase of the 503 building, and later joint sale of the business and building.
 2. Document the exact **505** sequence: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen 505 deed, later business sales/repossession periods, the Wiitanens' rename to 505 Tavern before the March 1991 sale to Mitch, and 2024 estate transfer.
-3. Build a Sanborn comparison table for the expanding Main Street research area, including 503, 505, 507, 509, 511, 527, and possible 501 Main where sheets permit.
-4. Tax statements, assessor cards, permits, deeds, and parcel records for 503 and 505.
-5. 1925 Sanborn map verification for 501 / 503 / 505 Main.
+3. Complete the 1915 page-by-page visual review and then advance other annual work according to `registers/year-status.md`.
+4. Retrieve the OHS Main/Fifth title abstract, 1905–1906 and 1916–1917 directories, and other numbered manual callouts.
+5. Tax statements, assessor cards, permits, deeds, and parcel records for 503 and 505.
 6. Business-name chronology for The Wheel, Brass Rail Tavern, The Dug Inn, Sports Keg, 505 Tavern, and Thirsty Duck, including the exact date and license/registration wording for the Wiitanens' pre-March 1991 rename to 505 Tavern.
 7. OLCC records and business licenses for 503 and 505 Main.
 8. City directories and telephone books for Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, The Wheel, Brass Rail Tavern, and 505 Tavern.
 9. Locate **primary 1968 permit/assessor/construction records for the replacement 507-511 Harding Building**, now that `S-063` supplies the historic-inventory year.
 10. Research **527 Main / Swartz Building**: 1935 permit/construction notice, Swartz identity, predecessor demolition/replacement, occupants between 1912 and 1935, and 1967 fire effects.
-11. Original source recovery for Time Capsule Maps photo metadata.
-12. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.
+11. Resolve the unverified Dr. Bailey / 1909 Harding Building claim (`OQ-030`).
+12. Original source recovery for Time Capsule Maps photo metadata.
+13. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.

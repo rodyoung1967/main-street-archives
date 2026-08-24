@@ -1,6 +1,6 @@
 # 1917 Oregon City Courier — October–December continuation
 
-Status: **targeted review complete; one archive-page conflict remains**
+Status: **targeted segment reviewed; one archive-page conflict remains**
 
 This continues the 1917 Courier audit under RESEARCH-STANDARD.md. OCR/search/index results are discovery aids only. Page images/PDF renderings control final evidentiary promotion, and this file does not claim complete visual review of every late-1917 newspaper page.
 

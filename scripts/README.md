@@ -20,11 +20,17 @@ Markdown-only registers (OQ, RL, media, records) are included in reference check
 - Orphan `related_*` cross-references in YAML
 - Broken internal Markdown links
 - Media catalog cross-references to evidence and sources
+- Duplicate IDs in canonical registers or YAML
+- Markdown/YAML name mismatches for people, businesses, evidence, and sources
+- Missing YAML `repository_file` targets
+
+External collection identifiers must be explicitly namespaced so they are not mistaken for archive IDs. Current examples: `MOT:P-391` for a Museum of the Oregon Territory catalog item and `TEL:A-229` for a historic telephone identifier.
 
 ### Tier 3 — Structural metadata and accuracy rules
 
 - Every `E-###` block in `evidence-register.md` must include `Type:` and `Confidence:`
 - Every `evidence.yml` entry must include `type`, `confidence`, and `claims`
+- `registers/year-status.md` must contain exactly one valid status row for each audited year, 1904–1918
 - Mitch Young / 505 handling: structured files must not label his confirmed period as The Wheel without `BUS-009` / 505 Main Street business context
 
 ```bash

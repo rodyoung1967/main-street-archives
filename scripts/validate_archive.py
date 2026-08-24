@@ -56,6 +56,8 @@ MEDIA_FILES = [
 
 ARTIFACT_REGISTER = ROOT / "artifacts" / "matchbooks.md"
 RECORDS_DIR = ROOT / "records"
+BUILDINGS_DIR = ROOT / "buildings"
+YEAR_STATUS_REGISTER = ROOT / "registers" / "year-status.md"
 
 YAML_FILES = {
     "people": ("P", ROOT / "database" / "people.yml", "people"),
@@ -91,12 +93,15 @@ MEDIA_TABLE_PATTERN = re.compile(
 )
 MEDIA_HEADING_PATTERN = re.compile(r"^## (IMG-\d{4}) —", re.MULTILINE)
 RECORD_ID_PATTERN = re.compile(r"Record ID:\s*`(R-\d{3})`")
+BUILDING_ID_PATTERN = re.compile(r"Building ID:\s*`(B-\d{3})`")
 ARTIFACT_REGISTER_PATTERN = re.compile(r"`(A-\d{3})`")
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 EVIDENCE_BLOCK_PATTERN = re.compile(r"^## (E-\d{3}) —", re.MULTILINE)
 
 SKIP_SCAN_DIRS = {".git", "scripts", ".cursor"}
+EXTERNAL_ID_NAMESPACES = {"MOT:", "TEL:"}
+ALLOWED_YEAR_STATUSES = {"IN PROGRESS", "ONLINE COMPLETE", "ONLINE + MANUAL COMPLETE"}
 
 
 def read_text(path: Path) -> str:
@@ -138,7 +143,11 @@ def collect_all_register_ids() -> dict[str, set[str]]:
     for prefix, path in REGISTER_FILES.items():
         if path.exists():
             result[prefix] = extract_register_ids(path, prefix)
-    result["B"] = {"B-001", "B-002", "B-003"}
+    building_ids: set[str] = set()
+    if BUILDINGS_DIR.exists():
+        for path in BUILDINGS_DIR.glob("*.md"):
+            building_ids.update(BUILDING_ID_PATTERN.findall(read_text(path)))
+    result["B"] = building_ids
     return result
 
 
@@ -157,7 +166,7 @@ def collect_record_ids() -> set[str]:
     ids: set[str] = set()
     if not RECORDS_DIR.exists():
         return ids
-    for path in RECORDS_DIR.glob("*.md"):
+    for path in RECORDS_DIR.rglob("*.md"):
         ids.update(RECORD_ID_PATTERN.findall(read_text(path)))
     return ids
 
@@ -267,11 +276,118 @@ def find_unknown_id_references(known: dict[str, set[str]]) -> list[str]:
         rel = md_path.relative_to(ROOT)
         text = read_text(md_path)
         for match in ID_PATTERN.finditer(text):
+            namespace = text[max(0, match.start() - 4) : match.start()]
+            if namespace in EXTERNAL_ID_NAMESPACES:
+                continue
             entity_id = match.group(1)
             prefix = id_prefix(entity_id)
             if entity_id not in known.get(prefix, set()):
                 errors.append(f"{rel}: unknown ID reference -> {entity_id}")
     return sorted(set(errors))
+
+
+def find_duplicate_register_ids() -> list[str]:
+    errors: list[str] = []
+    for prefix, path in REGISTER_FILES.items():
+        if not path.exists():
+            continue
+        text = read_text(path)
+        if prefix in TABLE_ROW_PATTERNS:
+            found = TABLE_ROW_PATTERNS[prefix].findall(text)
+        else:
+            found = re.findall(rf"^## ({prefix}-\d{{3}})\b", text, re.MULTILINE)
+        for entity_id in sorted(set(found)):
+            count = found.count(entity_id)
+            if count > 1:
+                errors.append(f"{path.relative_to(ROOT)}: duplicate register ID -> {entity_id} ({count} occurrences)")
+    return errors
+
+
+def validate_yaml_identity_and_paths() -> list[str]:
+    errors: list[str] = []
+    for label, (prefix, path, root_key) in YAML_FILES.items():
+        if not path.exists():
+            continue
+        items = load_yaml_items(path, root_key)
+        found: list[str] = []
+        for item in items:
+            entity_id = item.get("id")
+            if not entity_id:
+                errors.append(f"{path.name}: item missing id")
+                continue
+            found.append(entity_id)
+            if id_prefix(entity_id) != prefix:
+                errors.append(f"{path.name} [{entity_id}]: expected {prefix}- prefix")
+            repository_file = item.get("repository_file")
+            if repository_file and not (ROOT / repository_file).exists():
+                errors.append(f"{path.name} [{entity_id}]: missing repository_file -> {repository_file}")
+        for entity_id in sorted(set(found)):
+            count = found.count(entity_id)
+            if count > 1:
+                errors.append(f"{path.name}: duplicate YAML ID -> {entity_id} ({count} occurrences)")
+    return errors
+
+
+def validate_year_status_register() -> list[str]:
+    errors: list[str] = []
+    if not YEAR_STATUS_REGISTER.exists():
+        return ["registers/year-status.md: missing canonical annual-status register"]
+    rows = re.findall(
+        r"^\| (\d{4}) \| \*\*([^*]+)\*\* \|",
+        read_text(YEAR_STATUS_REGISTER),
+        re.MULTILINE,
+    )
+    years = [year for year, _ in rows]
+    for year in map(str, range(1904, 1919)):
+        count = years.count(year)
+        if count != 1:
+            errors.append(f"registers/year-status.md: expected one status row for {year}, found {count}")
+    for year, status in rows:
+        if status not in ALLOWED_YEAR_STATUSES:
+            errors.append(f"registers/year-status.md [{year}]: invalid status -> {status}")
+    return errors
+
+
+def normalize_markdown_name(value: str) -> str:
+    value = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", value)
+    return re.sub(r"\s+", " ", value.replace("**", "").replace("`", "")).strip()
+
+
+def validate_mirrored_names() -> list[str]:
+    errors: list[str] = []
+    configurations = [
+        ("E", REGISTER_FILES["E"], YAML_FILES["evidence"][1], "evidence"),
+        ("S", REGISTER_FILES["S"], YAML_FILES["sources"][1], "sources"),
+        ("P", REGISTER_FILES["P"], YAML_FILES["people"][1], "people"),
+        ("BUS", REGISTER_FILES["BUS"], YAML_FILES["businesses"][1], "businesses"),
+    ]
+    for prefix, markdown_path, yaml_path, root_key in configurations:
+        markdown_names: dict[str, str] = {}
+        text = read_text(markdown_path)
+        if prefix in {"E", "S"}:
+            pattern = re.compile(rf"^## ({prefix}-\d{{3}})\s+—\s+(.+)$", re.MULTILINE)
+            markdown_names = {
+                entity_id: normalize_markdown_name(name)
+                for entity_id, name in pattern.findall(text)
+            }
+        else:
+            pattern = re.compile(rf"^\| ({prefix}-\d{{3}}) \| (.*?) \|", re.MULTILINE)
+            markdown_names = {
+                entity_id: normalize_markdown_name(name)
+                for entity_id, name in pattern.findall(text)
+            }
+        yaml_names = {
+            item["id"]: str(item.get("name", "")).strip()
+            for item in load_yaml_items(yaml_path, root_key)
+            if item.get("id")
+        }
+        for entity_id in sorted(markdown_names.keys() & yaml_names.keys()):
+            if markdown_names[entity_id] != yaml_names[entity_id]:
+                errors.append(
+                    f"{entity_id}: Markdown/YAML name mismatch -> "
+                    f"'{markdown_names[entity_id]}' != '{yaml_names[entity_id]}'"
+                )
+    return errors
 
 
 def validate_evidence_register_metadata() -> list[str]:
@@ -425,7 +541,6 @@ def validate_media_catalog_crossrefs(known: dict[str, set[str]]) -> list[str]:
 
 def main() -> int:
     errors: list[str] = []
-    warnings: list[str] = []
 
     register_ids = collect_all_register_ids()
     yaml_ids = collect_all_yaml_ids()
@@ -443,8 +558,10 @@ def main() -> int:
         yml_set = yaml_ids.get(prefix, set())
         missing, extra = compare_sets(label, md_set, yml_set)
         errors.extend(missing)
-        warnings.extend(extra)
+        errors.extend(extra)
 
+    errors.extend(find_duplicate_register_ids())
+    errors.extend(validate_yaml_identity_and_paths())
     errors.extend(find_orphan_references(yaml_ids, known))
     errors.extend(find_broken_links())
     errors.extend(find_unknown_id_references(known))
@@ -453,11 +570,8 @@ def main() -> int:
     errors.extend(validate_oral_history_index_accuracy())
     errors.extend(validate_structured_mitch_young_labels())
     errors.extend(validate_media_catalog_crossrefs(known))
-
-    if warnings:
-        print(f"\nWarnings ({len(warnings)}):")
-        for msg in warnings:
-            print(f"  - {msg}")
+    errors.extend(validate_year_status_register())
+    errors.extend(validate_mirrored_names())
 
     if errors:
         print(f"\nErrors ({len(errors)}):")

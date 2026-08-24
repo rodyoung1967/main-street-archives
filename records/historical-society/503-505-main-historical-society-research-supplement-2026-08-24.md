@@ -18,7 +18,7 @@ The current strongest working reconstruction is **503 predecessor = ignition roo
 
 ### 1910 — George H. Young second-hand store at 505 Main
 
-The Museum of the Oregon Territory / Clackamas County Historical Society photo-reference spreadsheet has been visually inspected at catalog item **P-391**. The catalog identifies:
+The Museum of the Oregon Territory / Clackamas County Historical Society photo-reference spreadsheet has been visually inspected at external catalog item **MOT:P-391**. The catalog identifies:
 
 - **Young 2nd hand store**;
 - **505 Main Street, Oregon City**;
@@ -30,7 +30,7 @@ Evidence state: **VISUALLY VERIFIED CATALOG METADATA**. The underlying historic 
 
 Detailed evidence: `../../evidence/source-captures/1910-young-second-hand-store-505-main-p391.md`
 
-A separate catalog item, **P-372**, describes a different 1907 Young second-hand-store photograph as being “across alley from 1st National Bank.” Earlier search snippets blended the two entries; they must remain separate.
+A separate catalog item, **MOT:P-372**, describes a different 1907 Young second-hand-store photograph as being “across alley from 1st National Bank.” Earlier search snippets blended the two entries; they must remain separate.
 
 ### 1911 — Chicago Store moves to 505 Main
 
@@ -223,7 +223,7 @@ The research is now close enough that generic keyword searching is less likely t
 1. **Oregon City council / pool-hall records around 1 Feb 1922.** Contemporary reporting confirms city action on poolrooms, and earlier municipal records show that pool/billiard licensing could identify particular premises. An operator-and-address list could directly identify the hall adjoining the ignition room.
 2. **1921–1922 R. L. Polk Oregon and Washington State Gazetteer and Business Directory — Oregon City section.** The volume survives, but the actual Oregon City pages remain a retrieval gap. It could resolve Schieremann, Timms, Leland & Little, Gilbert Miller, S. Wolf and other fire-cluster businesses in one contemporary source.
 3. **1922–1925 assessment/tax and land/lot books.** These survive for Clackamas County and could identify the owner of the target frontage and test whether S. Wolf owned the parcel corresponding to 501, 503, 505 or another nearby premises.
-4. **Underlying Museum P-391 photograph (M/R y # 011-0048).** Direct visual inspection may provide storefront and neighboring-building geometry beyond the catalog metadata.
+4. **Underlying Museum `MOT:P-391` photograph (M/R y # 011-0048).** Direct visual inspection may provide storefront and neighboring-building geometry beyond the catalog metadata.
 5. **Exact pre-fire address for Alex Schieremann.** This remains the most direct single-source solution to the ignition-storefront question.
 
 ### Parcel-numbering caution
@@ -236,7 +236,7 @@ Research has encountered older block-number reconstructions and current legal de
 
 The post-v5 evidence materially strengthens the history of both storefronts without yet closing the July 1922 question:
 
-- **505 Main** has a catalog-documented George H. Young second-hand-store use in 1910, a Chicago Store occupancy by March 1911, Wolf & Miller in 1918, and a visually verified billiards/cigars use on the 1925 Sanborn. The museum's P-391 catalog also remembers the 1910 505 location as the same location later used as a pool hall.
+- **505 Main** has a catalog-documented George H. Young second-hand-store use in 1910, a Chicago Store occupancy by March 1911, Wolf & Miller in 1918, and a visually verified billiards/cigars use on the 1925 Sanborn. The museum's `MOT:P-391` catalog also remembers the 1910 505 location as the same location later used as a pool hall.
 - **503 Main** is directly proven as a pool-hall address in 1912 and is a restaurant on the 1925 Sanborn.
 - The **1922 fire-origin building** was owned by S. Wolf of Portland and had previously contained Alex Schieremann's tailor shop; a pool hall adjoined it.
 - **503 ignition / 505 adjoining pool hall remains the strongest working hypothesis, but it is not yet established fact. 501 remains a viable alternative.**

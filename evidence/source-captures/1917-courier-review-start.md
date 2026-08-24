@@ -1,6 +1,6 @@
 # 1917 Oregon City Courier — review start
 
-Status: **substantially reviewed; residual visual and directory retrieval gaps remain**
+Year status: **IN PROGRESS** — substantial Courier review exists, but residual visual and directory retrieval gaps remain.
 
 Purpose: continue the 1917 issue-by-issue review under RESEARCH-STANDARD.md, using OCR/search/index results only as discovery aids; visual page review controls final evidentiary promotion.
 

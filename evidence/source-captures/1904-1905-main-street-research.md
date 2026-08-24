@@ -1,5 +1,6 @@
 # 1904–1905 Main Street research source capture
 
+Year status (1904 and 1905): **IN PROGRESS**
 Research date: 20 August 2026  
 Scope: 503, 505, and 507 Main Street, Oregon City, with nearby businesses and municipal work used only as block/address context.
 
@@ -69,7 +70,7 @@ Targeted searches of the available Oregon newspaper archive for combinations of 
 
 This is a research-status statement, **not proof that the addresses were unused or absent**. The 1900 Sanborn already shows a developed commercial frontage, but mapping those older storefronts to the later modern-number sequence remains unresolved.
 
-## Year status
+## Findings snapshot and remaining work
 
 ### 1904
 

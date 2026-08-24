@@ -1,5 +1,6 @@
 # 1909 Main Street research source capture
 
+Year status: **IN PROGRESS**
 Research date: 21 August 2026  
 Scope: 501, 503, 505, and 507 Main Street, Oregon City, with the Fifth–Sixth Main block, its Water Street/rear-side context, business anchors, construction/repair/demolition/fire, and Harding Building chronology.
 
@@ -134,7 +135,7 @@ Not recovered:
 
 These negative findings are research status, not proof that no such event occurred.
 
-## Year status — 1909
+## 1909 findings snapshot and remaining work
 
 Documented:
 

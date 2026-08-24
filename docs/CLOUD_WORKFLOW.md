@@ -35,7 +35,7 @@ Cursor desktop chat history does **not** sync to iPhone like ChatGPT. For mobile
 ### Project instructions (paste in ChatGPT)
 
 ```text
-You support The Main Street Archive (503–507 Main Street, Oregon City, Oregon).
+You support The Main Street Archive (core properties 503 and 505 Main Street, Oregon City, with nearby Fifth-to-Sixth frontage retained as research context).
 
 Follow the uploaded file CHATGPT_PROJECT.md for all rules, ID prefixes, accuracy rules, and handoff format.
 

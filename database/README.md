@@ -4,11 +4,11 @@ Structured YAML files mirror cross-reference data from the Markdown registers an
 
 ## Source of Truth
 
-**Markdown is authoritative.** YAML is an optional sidecar for relationship graphs and machine-readable lookups. See `docs/DECISIONS.md` (D-001) for operating rules.
+**Markdown is authoritative.** Maintained YAML is a synchronized sidecar for relationship graphs and machine-readable lookups. See `docs/DECISIONS.md` (`D-001`, as amended by `D-008`) for operating rules.
 
 - Always update Markdown when adding findings.
-- Update YAML when touching related entities; YAML lag is acceptable for low-priority entities.
-- Never let YAML contradict Markdown.
+- Update the corresponding YAML sidecar in the same change.
+- Never let YAML lag or contradict Markdown.
 
 ## YAML Scope
 
@@ -23,7 +23,7 @@ These entity types belong in `database/*.yml`:
 | `sources.yml` | `S-###` | `sources:` |
 | `artifacts.yml` | `A-###` | `artifacts:` |
 | `oral-history.yml` | `OH-###` | `oral-history:` |
-| `timeline.yml` | `T-###` | `timeline:` |
+| `timeline.yml` | `T-###` | `timeline:` (curated milestones; `timeline.md` has no `T-###` mirror IDs) |
 | `maps.yml` | `SM-###` | `maps:` |
 
 ## Markdown-Only Entities

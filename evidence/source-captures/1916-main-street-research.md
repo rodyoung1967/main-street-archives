@@ -1,6 +1,6 @@
 # 1916 Main Street research — initial collection
 
-Status: **active / incomplete**
+Year status: **IN PROGRESS** — active and incomplete.
 
 This file begins the 1916 pass. Under `RESEARCH-STANDARD.md`, OCR/search results are discovery evidence only; the year cannot be certified until every available page of every relevant Oregon City newspaper has been visually reviewed from the actual scan.
 

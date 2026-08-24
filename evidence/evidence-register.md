@@ -3,8 +3,8 @@
 ## E-001 — White Rabbit Black Ink Article
 Type: Secondary source  
 Date: 2017  
-Claims: 503 Main constructed in 1919; originally housed Kwality Cafe; article later calls the business "The Wheel Tavern." The phrase **"The Wheel Tavern" is preserved as source wording only** and is superseded as a business-name claim by the August 2026 family correction: it was never an official name.  
-Confidence: Moderate for 1919; strong for Kwality connection; **not accepted as evidence of an official "The Wheel Tavern" name**.  
+Claims: The 2017 article reports that 503 Main was constructed in 1919 and originally housed Kwality Cafe; it later calls the business "The Wheel Tavern." The archive treats 1919 as a **secondary-source construction claim / approximate surviving-building estimate**, not primary construction proof. The phrase **"The Wheel Tavern" is preserved as source wording only** and is superseded as a business-name claim by the August 2026 family correction: it was never an official name.
+Confidence: Moderate for the reported c.1919 estimate; strong for Kwality connection; **not accepted as evidence of an official "The Wheel Tavern" name**.
 
 ## E-002 — New Kwality Cafe Matchbook
 Type: Primary artifact  
@@ -104,7 +104,7 @@ Type: Project correction / direct user clarification
 Claims: Grandmother's first marriage was Lafarlette and second marriage was Grisham. Rodney's mother Sheila and stepfather Richard / Dick were Wiitanens. Richard / Dick died in November 2024; Sheila died in 2014.  
 Confidence: High as trusted internal family/project correction; formal records may later add full dates and spellings.
 
-## E-020 / EV-SAN-1925-1950-001 — Sanborn Map Series: 5th / Main / 503-505-507 Context
+## E-020 — Sanborn Map Series: 5th / Main / 503-505-507 Context
 Type: Primary map evidence  
 Sources: `S-014` through `S-022`; detailed comparison file: `maps/sanborn-comparison-503-505-507.md`; structured note: `evidence/sanborn-1925-1950-evidence.md`  
 Claims: The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date. The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507; 501 appears as a store, 503 as restaurant, 505 as billiards/cigars, and nearby spaces include dry goods/clothing, grocery, drugs, and I.O.O.F. Hall. The 1950 revised sheet continues to show separate 503/505/507 occupancies, with 503 restaurant and 505 billiards/cigars/beer-related use. In combination with the official original plat, the 1925 printed scale also supports the explicitly limited Lot 5/Lot 6 alignment in `E-094`.

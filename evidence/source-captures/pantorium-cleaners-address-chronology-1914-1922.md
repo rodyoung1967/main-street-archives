@@ -57,7 +57,7 @@ A visually reviewed **Morning Oregonian, 25 Jan 1922** help-wanted advertisement
 This proves that the Pantorium was actively engaged in the same general cleaning/dyeing trade less than six months before the Fifth/Main fire, but the advertisement does **not** give a street address.
 
 Related capture:
-`evidence/source-captures/1922-pantorium-cleaning-dyeing-fire-tenant-candidate.md`
+`evidence/source-captures/1922-pantorium-cleaning-dyeing-fire-tenant-lead.md`
 
 ## 8 June 1922 — Pantorium still active
 

@@ -1,7 +1,6 @@
 # Sanborn Evidence Note — 1925 / 1950 Main Street Comparison
 
-Evidence ID: `EV-SAN-1925-1950-001`
-Related register entry: `E-020`
+Evidence ID: `E-020`
 Evidence type: Primary map evidence
 Sources: `S-021`, `S-022`
 Maps: `SM-008`, `SM-009`
@@ -34,4 +33,4 @@ The 1925 sheet also directly addresses the earlier 501 / 503 / 505 question beca
 - Cross-check removal timing against aerial frames `IMG-0007` (1936) and `IMG-0009` (1944) under `E-021` / `D-003`.
 - Treat the 503 restaurant label as consistent with later Kwality Cafe research, but not proof of the Kwality name.
 - Treat the 505 billiards/cigars/beer pattern as useful background for later 505 tavern/bar-lineage research.
-- Keep the reported 1919 construction date as a working hypothesis rather than proof of the first commercial frontage at this location.
+- Keep the reported c.1919 construction estimate for the surviving 503 building separate from proof of the earlier commercial frontage at this location.

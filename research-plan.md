@@ -4,12 +4,12 @@ This plan turns the archive's open questions into practical research tasks. Ever
 
 ## Priorities
 
-1. Verify building dates and address histories for 503, 505, and 507 Main.
-2. Build year-by-year occupant and business timelines.
-3. Resolve named-person identities without merging uncertain people.
-4. Confirm The Wheel / 505 Tavern / Thirsty Duck ownership sequence.
-5. Confirm the Harding Building fire date, cause, and rebuild record.
-6. Preserve and describe primary artifacts, especially matchbooks and matchcovers.
+1. Complete annual online reviews against `registers/year-status.md`, beginning with the active 1915 pass.
+2. Resolve 503 and 505 construction/footprint dates and separate address continuity from surviving-building continuity.
+3. Reconstruct property ownership separately from business ownership/operation at 503 and 505.
+4. Recover high-value restricted/manual sources: the 1905–1906 and 1916–1917 directories, 1906 numbering plat, OHS title abstract, and logged newspaper gaps.
+5. Complete The Wheel / Brass Rail / Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck chronology and licensing.
+6. Obtain primary records for the 1968 Harding replacement and resolve the unverified Dr. Bailey claim.
 
 ## City Directories and Telephone Books
 
@@ -32,7 +32,7 @@ Purpose: verify construction dates, remodels, rear additions, ownership, and rep
 Tasks:
 
 - Check assessor records for 503 Main, 505 Main, and 507 Main.
-- Test whether 1919 for 503 Main is original construction, remodel, rebuild, or inherited record date.
+- Test whether the reported c.1919 estimate for 503 Main is original construction, remodel, rebuild, or an inherited assessor/inventory date.
 - Determine when 505 Main and its rear portion were constructed.
 - Find permit or assessor documentation for the 1968 replacement building at 507 Main.
 - Add source URLs, scans, or file locations to the Source Register.
@@ -56,9 +56,9 @@ Purpose: find public evidence for openings, ads, fires, ownership changes, and b
 
 Tasks:
 
-- Search for "Kwality Cafe," "New Kwality Cafe," "Larry's Kwality Cafe," "The Wheel," "The Wheel Tavern," "505 Tavern," "Thirsty Duck," "Harding Drug Store," and "Tony's Restaurant."
+- Search for "Kwality Cafe," "New Kwality Cafe," "Larry's Kwality Cafe," "The Wheel," "505 Tavern," "Thirsty Duck," "Harding Drug Store," and "Tony's Restaurant." Search **"The Wheel Tavern" only as exact source wording**, not as an accepted official name.
 - Search for George A. Harding and Dr. Bailey.
-- Search late 1967 and early 1968 newspapers for the Harding Building fire.
+- Search 1967 records for fire corroboration and 1967–1968 records for cleanup/replacement construction.
 - Search for business ads that include street addresses.
 - Save article citations and URLs in `evidence/source-register.md`.
 
@@ -96,16 +96,16 @@ Tasks:
 - Identify full names for Dick, Sheila, Willie, and Victor.
 - Preserve testimony as oral history, not documentary fact, unless documents confirm it.
 
-## Harding Building Fire
+## Harding Building Fire and Replacement
 
-Purpose: resolve the late-1967 / early-1968 fire uncertainty.
+Purpose: complete the primary record for the established 1 September 1967 fire and the inventory-dated 1968 replacement.
 
 Tasks:
 
-- Search historic newspapers for the exact fire date.
+- Preserve 1 September 1967 as the primary-newspaper fire date; seek independent corroboration rather than re-opening it without conflicting evidence.
 - Check fire department records for incident reports.
 - Check permit records for demolition, repair, or replacement construction.
-- Determine whether Tony's Restaurant or a bakery was present at the time of the fire.
+- Determine Tony's Restaurant's role and the exact storefront occupied by Dixon's Bakery at the time of the fire.
 - Record official cause, damage description, and any names involved.
 
 Related lead: `RL-004`

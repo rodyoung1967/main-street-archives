@@ -1,6 +1,6 @@
 # The Main Street Archive
 
-Working archive for the history of **503-507 Main Street, Oregon City, Oregon**.
+Working archive for the history of **503 and 505 Main Street, Oregon City, Oregon**. Nearby 501, 507-511, 527, and other Fifth-to-Sixth Street records are retained when they help reconstruct the core properties, predecessor buildings, or block context.
 
 This is a citation-first local history archive. It separates buildings, businesses, people, evidence, sources, research leads, open questions, media metadata, current records, maps, and oral history so the project can grow without losing track of what is known, what is inferred, and what still needs proof.
 
@@ -17,7 +17,8 @@ A useful reading order is:
 3. `businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md` — business histories.
 4. `registers/ownership-timeline.md` — separates business ownership/operation from real-estate ownership.
 5. `evidence/evidence-register.md` and `evidence/source-register.md` — evidence and source audit trail.
-6. `evidence/open-questions.md` — what remains uncertain.
+6. `registers/year-status.md` — what has and has not met the archive's annual-review standard.
+7. `evidence/open-questions.md` — what remains uncertain.
 
 Data layout guide: `DATA_LAYOUT.md`
 
@@ -52,6 +53,7 @@ Cursor integration prompt: **Integrate [handoff file] into the archive per WORKF
 - `timeline.md` - **recommended first read**; master chronological walkthrough.
 - `ARCHIVE_INDEX.md` - human-readable project index, search guide, and reading path.
 - `registers/ownership-timeline.md` - separates property ownership, business ownership, and operation.
+- `registers/year-status.md` - canonical annual-review status and remaining certification blockers.
 - `docs/CLOUD_WORKFLOW.md` - ChatGPT → GitHub → Cursor workflow; iOS access.
 - `docs/CHATGPT_PROJECT.md` - upload to ChatGPT project **Main Street** (once).
 - `registers/research-intake/` - ChatGPT handoff files before Cursor integration.
@@ -94,10 +96,10 @@ The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/ori
 
 1. Document the exact **503 Wheel sequence**: Raye-to-Wiitanen business sale, later Wiitanen purchase of the 503 building, and later combined sale of business and building.
 2. Document the exact **505 sequence**: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen deed, later business-transfer/repossession periods, the Wiitanens' pre-March 1991 rename to 505 Tavern, and 2024 estate succession.
-3. Build a Sanborn comparison table for 503, 505, 507, and possible 501 Main using 1884, 1888, 1890, 1892, 1900, 1925, and 1950 map sheets.
-4. Upload Thebeerchaser screenshot to the expected media path if rights/usage are acceptable.
-5. Transcribe tax statements and assessor records for 503 and 505.
-6. Verify the 1925 Sanborn map labels for 501 / 503 / 505 Main.
-7. Confirm The Wheel / Brass Rail / The Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck name chronology with directories, OLCC records, business licenses, ads, and tax records, including the exact date and formal paperwork for the Wiitanens' pre-March 1991 rename to 505 Tavern.
-8. Find the exact 507 Harding Building replacement-building evidence.
-9. Import source-backed photo files and sidecar metadata when rights/source information is clear.
+3. Complete the **1915** issue/page inventory and page-by-page visual review, then work the remaining years against `registers/year-status.md` rather than using legacy “routine pass” language as a completion claim.
+4. Request and inspect the OHS Main/Fifth title abstract indexed in MSS 1503, including reconciliation of its Block 4 / Lot 3-5 metadata conflict.
+5. Recover the 1905-1906 and 1916-1917 directory pages and the inaccessible primary municipal records listed in the numbered manual-callout queue.
+6. Transcribe tax statements and assessor records for 503 and 505, and obtain deeds/OLCC/licenses needed to separate property ownership from business operation.
+7. Confirm The Wheel / Brass Rail / The Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck chronology, including the exact documentation for the Wiitanens' pre-March 1991 rename to 505 Tavern.
+8. Obtain primary permit/assessor confirmation for the accepted **1968** Harding replacement-building date and resolve the unverified Dr. Bailey/1909 legacy claim.
+9. Upload or import source-backed screenshot/photo binaries only when provenance and rights are clear; preserve pending metadata until then.

@@ -1,10 +1,10 @@
 # 1913 Main Street Research
 
-Status: **routine annual pass complete; targeted follow-ups remain**
+Year status: **IN PROGRESS** — a legacy routine pass was completed, but exhaustive online coverage has not been certified.
 
 ## Carry-forward unresolved structural question from 1912
 
-The 1912 year pass is closed for routine year-by-year processing, but the physical-building question remains an explicit standing research lead rather than a blocker.
+The earlier workflow moved forward from the 1912 targeted pass, but 1912 remains `IN PROGRESS` under the later annual-certification standard. The physical-building question remains an explicit standing research lead.
 
 Primary unresolved question: **Which structures occupied the later 501 / 503 / 505 / 507 Main Street frontage in 1912, and when were the predecessor buildings replaced or materially altered before the footprints documented by the 1925 Sanborn and later historic-resource records?**
 
@@ -119,4 +119,4 @@ None of these should be attributed to a specific target building without additio
 
 ## Annual-pass status
 
-The broad 1913 newspaper/address/property/construction pass is now considered **complete for routine year-by-year processing**. The unresolved items above remain standing research leads and should not block beginning the 1914 pass.
+The broad legacy 1913 newspaper/address/property/construction pass concluded and research moved to 1914. It is **not** an `ONLINE COMPLETE` certification: complete issue/page inventories, page-by-page visual coverage, other-source review, and manual callouts still need to be demonstrated under `RESEARCH-STANDARD.md`.

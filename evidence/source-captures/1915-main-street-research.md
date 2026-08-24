@@ -1,6 +1,6 @@
 # 1915 Main Street Research
 
-Status: **active exhaustive pass**
+Year status: **IN PROGRESS** — active exhaustive pass.
 
 ## Project requirement: every page, every available Oregon City newspaper
 
@@ -11,7 +11,7 @@ For 1915 this means, at minimum, both digitized Oregon City weeklies currently c
 - **Oregon City Courier** (`sn00063698`)
 - **Oregon City Enterprise** (`sn00063700`)
 
-Each issue/page must be visually or textually reviewed page-by-page. OCR/index searches are supplemental only. Missing or inaccessible pages must be logged as coverage gaps and are not negative evidence.
+Each issue/page must be **visually reviewed from the actual scan**. OCR, text extraction, and index searches are discovery aids only. Missing or inaccessible pages must be logged as coverage gaps and are not negative evidence.
 
 The review must capture anything bearing on 501/503/505/507/509/511 Main; Fifth/Main and Sixth/Main anchors; business occupants; owners/landlords; fires; rebuilding; demolition; vacancy; removal; moves; leases; sales; permits; construction; remodeling; street work; photographs; advertisements; and any wording suggesting a building no longer existed or a site was vacant.
 

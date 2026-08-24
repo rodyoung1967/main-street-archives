@@ -2,6 +2,7 @@ sources:
   - id: S-001
     name: White Rabbit Black Ink article
     url: https://milwaukiereview.com/2017/09/13/white-rabbit-black-ink-opens-doors-on-main-street/
+    notes: Secondary article reporting a 1919 construction date and Kwality connection. Treat 1919 as a reported c.1919 surviving-building estimate pending primary permit/assessor evidence. Its phrase “The Wheel Tavern” is retained only as source wording, not an accepted official name.
 
   - id: S-002
     name: New Kwality Cafe matchbook
@@ -53,7 +54,7 @@ sources:
   - id: S-012
     name: Harding Building fire research notes
     url: Internal project/oral-history notes and prior research discussion.
-    notes: Working claim that the 507 Harding Building fire occurred in late 1968 or 1969 and involved Tony's Restaurant and a bakery.
+    notes: Preserves the earlier working claim that the 507 Harding Building fire occurred in late 1968 or 1969 and involved Tony's Restaurant and a bakery. The fire date/origin are superseded by E-045; the present replacement-building year is supported as 1968 at the historic-inventory level by S-063.
 
   - id: S-013
     name: Family relationship and death-date correction note
@@ -221,7 +222,7 @@ sources:
     notes: Working narrative dated 16 August 2026. HS note numbers S-01 through S-37 are not archive S-IDs. Related evidence E-040.
 
   - id: S-049
-    name: Oregonian, 25 August 1908, Pretty Girl Is Missing
+    name: The Oregonian, 25 August 1908, “Pretty Girl Is Missing”
     url: newspapers/oregonian/1908-503-main-missing-girl-oregonian.png
     notes: Original filename 503 Main st Missing Girl 1908 Oregonian.png. Related evidence E-042. Related media IMG-0044.
 
@@ -269,6 +270,246 @@ sources:
     name: Oregonian, 18 April 1983, Cruzan / Wheel Cafe feature (fuller page)
     url: newspapers/oregonian/1983-wheel-cafe-oregonian.png
     notes: Original filename Wheel Cafe 1983 Oregonian.png. Same article as S-054. Related evidence E-047. Related media IMG-0050.
+
+  - id: S-059
+    name: Oregon City Courier, 5 January 1912, H. P. Brightbill tea advertisement
+    url: See evidence/source-register.md
+    notes: 'Related evidence: E-050. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-060
+    name: 1912 Post Office business-cluster advertisements
+    url: evidence/1912-main-street-postoffice-cluster.md
+    notes: 'Related evidence: E-051. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-061
+    name: Oregon City Courier, 5 January 1912, page 6 business advertisements
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/
+    notes: 'Related evidence: E-026, E-050, E-051, E-052. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-062
+    name: City of Oregon City, Downtown Final Report, 2000
+    url: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+    notes: 'Type: Official municipal historic-resource survey / secondary source. Related evidence: E-053. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-063
+    name: ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
+    url: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
+    notes: 'Type: Official state cultural-resources planning report / secondary source. Related evidence: E-053. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-064
+    name: Oregon City Courier, 17 June 1915, Holman & Randall at Fifth and Main
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-3.pdf
+    notes: 'Type: Primary newspaper advertisement. Related evidence: E-054. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-065
+    name: Oregon City Courier, 2 March 1916, Holman & Randall at Fifth and Main
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-02/ed-1/seq-9.pdf
+    notes: 'Type: Primary newspaper advertisement. Related evidence: E-054. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-066
+    name: Oregon City Courier, 11 January 1917, R. L. Holman at Fifth and Main
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-5.pdf
+    notes: 'Type: Primary newspaper advertisement. Related evidence: E-054. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-067
+    name: Oregon City Courier, October–December 1918, Holman & Pace chapel / funeral parlors
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-1.pdf
+    notes: 'Type: Primary newspaper references. Related evidence: E-055. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-068
+    name: Eastern Clackamas News, 17 February 1921, Holman & Pace
+    url: https://oregonnews.uoregon.edu/lccn/sn96088133/1921-02-17/ed-1/seq-8.pdf
+    notes: 'Type: Primary newspaper advertisement. Related evidence: E-055. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-069
+    name: National Register nomination, DeWitt Clinton Latourette House, 1992
+    url: https://npgallery.nps.gov/GetAsset/152322a5-6e9f-44b2-8871-c4fef169dad0/
+    notes: 'Type: Official National Park Service documentation / secondary source lead. Related evidence: E-056. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-070
+    name: Oregon City Enterprise, I. Tolpolar advertisements, late 1904
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-10-21/ed-1/seq-1/
+    notes: 'Type: Primary newspaper advertisements. Related evidence: E-057. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-071
+    name: Oregon City Enterprise, 3 February 1905, I. Tolpolar advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-02-03/ed-1/seq-1/
+    notes: 'Type: Primary newspaper advertisement. Related evidence: E-058. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-072
+    name: Oregon City Enterprise, Fifth Street improvement notices, 1905
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-08-25/ed-1/seq-7/
+    notes: 'Type: Primary municipal notices published in newspaper. Related evidence: E-059. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-073
+    name: Oregon and Washington Gazetteer and Business Directory, 1905–1906 — source lead
+    url: evidence/source-captures/1904-1905-main-street-research.md
+    notes: 'Type: Historical business-directory lead; underlying pages not yet inspected.. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-074
+    name: Oregon City Enterprise, 30 June 1905, preliminary street-numbering / free-delivery report
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/
+    notes: 'Type: Primary newspaper / municipal-context evidence. Related evidence: E-060. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-075
+    name: Oregon City formal street-numbering campaign, 1906
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/
+    notes: 'Type: Primary newspaper / municipal-context evidence. Related evidence: E-061. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-076
+    name: Sixth Street improvement across Main Street, 1906
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/
+    notes: 'Type: Primary municipal notice / newspaper reporting. Related evidence: E-062. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-077
+    name: Rosenstein’s Clothing House fire, 1906
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/
+    notes: 'Type: Primary newspaper advertisements / fire aftermath evidence. Related evidence: E-063. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-078
+    name: William Tell Hotel / Block 26 lot 8, October 1906
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1906-10-05/ed-1/seq-7/
+    notes: 'Type: Primary newspaper and recorded-transfer reporting. Related evidence: E-064. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-079
+    name: Pacific States Telephone & Telegraph new central office, 1907
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-4/
+    notes: 'Type: Primary newspaper / construction evidence. Related evidence: E-065. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-080
+    name: Main Street railway-track, paving, and grade reconstruction, 1907
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-14/
+    notes: 'Type: Primary newspaper / railway and public-works evidence. Related evidence: E-066. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-081
+    name: Mount Hood Cafe / Fifth & Main anchor, 1907
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-01-04/ed-1/seq-3/
+    notes: 'Type: Primary newspaper / geographic anchor. Related evidence: E-067. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-082
+    name: John Gohra saloon at Main & Sixth, 1907
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-04-12/ed-1/seq-2/
+    notes: 'Type: Primary newspaper / liquor-license notice. Related evidence: E-068. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-083
+    name: I. Tolpolar opposite the Post Office, 1907
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-30/ed-1/seq-3/
+    notes: 'Type: Primary newspaper advertisement / relative-location evidence. Related evidence: E-069. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-084
+    name: Main Street overhead-wire and pole removal, 1908
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1908-01-10/ed-1/seq-7/
+    notes: 'Type: Primary newspaper / utility and streetscape evidence. Related evidence: E-070. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-085
+    name: I. Tolpolar creditor sale opposite Post Office, 1908
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-03/ed-1/seq-2/
+    notes: 'Type: Primary newspaper advertisement / business-transition evidence. Related evidence: E-071. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-086
+    name: Shoe retailer between Fifth and Sixth, 1908
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-05-22/ed-1/seq-7/
+    notes: 'Type: Primary newspaper advertisement / block-occupancy evidence. Related evidence: E-072. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-087
+    name: Pacific Telephone Oregon City expansion, 1908
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/
+    notes: 'Type: Primary newspaper / utility-business evidence. Related evidence: E-073. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-088
+    name: Water Street Fifth–Sixth improvement, 1909
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-03-12/ed-1/seq-7/
+    notes: 'Type: Primary newspaper municipal notice + primary Oregon City Council record. Related evidence: E-074. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-089
+    name: Philip Street building repair at Sixth & Main, 1909
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+    notes: 'Type: Primary Oregon City Council record. Related evidence: E-075. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-090
+    name: Carl G. Hodes saloon at Sixth & Main, 1909
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+    notes: 'Type: Primary Oregon City Council liquor-license record. Related evidence: E-076. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-091
+    name: Harding Building c.1909 chronology correction
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-09-26/ed-1/seq-6/
+    notes: 'Type: Primary newspaper retrospective + later direct location evidence. Related evidence: E-077. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-092
+    name: New Gambrinus business block at Sixth & Main, 1910
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+    notes: 'Type: Primary Oregon City Council record + primary newspaper construction report. Related evidence: E-078. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-093
+    name: Oregon City Council, 1 June 1910, Fifth/Main and Sixth/Main business anchors
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+    notes: 'Type: Primary Oregon City Council record. Related evidence: E-079, E-080. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-094
+    name: Oregon City Courier Main Street business/address anchors, 1910
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-04/ed-1/seq-12/
+    notes: 'Type: Primary newspaper advertising / address evidence. Related evidence: E-081. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-095
+    name: Pacific Telephone & Telegraph at 510 Main, 1910
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-05/ed-1/seq-4/
+    notes: 'Type: Primary newspaper advertisements / exact-address evidence. Related evidence: E-082. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-096
+    name: Main Street concrete-walk / awning / sign modernization, 1910
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+    notes: 'Type: Primary municipal record + primary newspaper streetscape report. Related evidence: E-083. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-097
+    name: Chicago Store relocation from 405 to 505 Main, 1911
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6/
+    notes: 'Type: Primary newspaper advertisements / exact-address relocation evidence. Related evidence: E-026, E-084. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-098
+    name: Harding Building location descriptions / Willamette adjacency, 1911
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-24/ed-1/seq-5/
+    notes: 'Type: Primary newspaper / building-location and business-move evidence. Related evidence: E-085. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-099
+    name: New Gambrinus block used as Electric Hotel annex, 1911
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-5/
+    notes: 'Type: Primary newspaper / new-building occupancy evidence. Related evidence: E-086. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-100
+    name: Sixth Street grade and improvement, 1911
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-1/
+    notes: 'Type: Primary newspaper reporting of municipal public works. Related evidence: E-087. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-101
+    name: Pacific Telephone & Telegraph at 510 Main, January 1911
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-06/ed-1/seq-2/
+    notes: 'Type: Primary newspaper advertisement / exact-address continuity evidence. Related evidence: E-088. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-102
+    name: Oregon City Courier, 5 January 1912, visually verified Main Street business/address page
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6.pdf
+    notes: 'Type: Primary newspaper advertising / exact-address reconstruction evidence. Related evidence: E-050, E-051, E-089, E-092, E-093. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-103
+    name: Morning Enterprise, 24 March 1912, Smith pool-hall notice and Gambrinus Saloon
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-24/ed-1/seq-2/
+    notes: 'Type: Primary newspaper legal notice + business-location report. Related evidence: E-023, E-089, E-091. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-104
+    name: Oregon City Courier, 12 July 1912, H. H. Smith leaves Fifth/Main pool hall
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-12/ed-1/seq-5/
+    notes: 'Type: Primary newspaper / business-transition and relative-location evidence. Related evidence: E-089. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-105
+    name: Oregon City Courier, 10 May 1912, active Main Street demolition/rebuilding
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-10/ed-1/seq-1/
+    notes: 'Type: Primary newspaper editorial / contemporaneous construction context. Related evidence: E-090. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+
+  - id: S-106
+    name: Oregon City Courier, 20 December 1912, Schrader bakery sale
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-20/ed-1/seq-8.pdf
+    notes: 'Type: Primary newspaper / business-transfer evidence. Related evidence: E-093. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
 
   - id: S-107
     name: Morning Enterprise, 23 October 1913, Block 26 assessment notice

@@ -1,6 +1,8 @@
 # Main Street research handoff — 2026-08-23
 
-This file is a concise restart point for continuing the 503/505 Main Street research in a new ChatGPT conversation.
+Status: **ARCHIVED RESTART SNAPSHOT — superseded for current priorities and annual status**
+
+This file preserves the project state as of 23 August 2026. It remains useful as an audit trail for the 1914–1917 occupancy problem, but it is no longer the current restart point. Use `README.md`, `registers/year-status.md`, `evidence/research-leads.md`, and `evidence/open-questions.md` for current priorities and status. In particular, 1917 is `IN PROGRESS` under the later certification standard even though this snapshot predates that clarification.
 
 ## Current research focus
 

@@ -1,8 +1,8 @@
-# 1917 closeout — 503 / 505 Main
+# 1917 progression checkpoint — 503 / 505 Main
 
-Status: **closed for chronological progression; exact occupants unresolved; defined retrieval gaps remain open**
+Year status: **IN PROGRESS** — the earlier workflow moved forward chronologically, but the adopted online-completion standard is not satisfied.
 
-This closeout records the end-state of the 1917 review under RESEARCH-STANDARD.md. It does **not** claim that every 1917 newspaper page in every title has been visually inspected. It records that the accessible newspaper, municipal-ledger, and official secondary-source routes have been exhausted enough to move chronologically to 1918 without converting retrieval gaps into historical conclusions.
+This file preserves the end-state of the earlier 1917 review. It does **not** claim that every 1917 newspaper page in every relevant title was visually inspected. Research moved chronologically to 1918 without converting retrieval gaps into historical conclusions, but that progression decision does not constitute `ONLINE COMPLETE` under the subsequently adopted certification rules.
 
 ## What is established for 1917
 
@@ -39,8 +39,8 @@ These are retained as **retrieval gaps**, not blockers to moving into 1918:
 1. **True page 21 of the 13 Dec 1917 Courier** — the archive exposes 24 sequence positions, but its sequence 21 is visibly a 27 Dec page. Recover the correct page from another archive derivative, microfilm, or the holding institution and inspect it visually.
 2. **Sohns & Woodbeck, *Clackamas County & Oregon City Directory*, 1916–1917** — this remains the highest-value unresolved primary source. FamilySearch catalog 1844954 and the Oregon Historical Society holding are documented in 1916-1917-directory-lead.md. Oak Lodge History Detectives states that its downloadable scan contains only the Oak Grove and Jennings Lodge portions; it is not the missing Oregon City section. The actual Oregon City target pages for 501/503/505/507/509/511 have not been visually recovered.
 
-## Closeout judgment
+## Progression judgment and current certification
 
-The remaining questions are source-access problems rather than unexhausted obvious research routes. 1917 can therefore be treated as **complete enough for chronological progression to 1918**, while preserving the exact-occupant questions for 503 and 505 as open.
+The earlier workflow treated the documented gaps as sufficient reason to progress to 1918. Under the current exact status system, **1917 remains `IN PROGRESS`** because full relevant-title/page coverage is not certified and the true 13 December page 21 and Oregon City directory section remain unretrieved. The exact-occupant questions for 503 and 505 remain open.
 
 Do not later summarize 1917 as proving either address vacant. The correct statement is: **no defensible exact-address occupant has yet been recovered from the sources successfully accessed and reviewed.**

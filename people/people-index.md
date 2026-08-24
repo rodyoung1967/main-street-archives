@@ -3,7 +3,7 @@
 | ID | Name | Role | Notes |
 |---|---|---|---|
 | P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader | Associated with Harding Building and Harding Drug Store. |
-| P-002 | Dr. Bailey | Dentist | Documented upstairs in Harding Building in 1909. |
+| P-002 | Dr. Bailey | Dentist | Legacy 1909 Harding Building occupancy claim is unverified. Museum catalog photo `MOT:P-391` names a Dr. Bailey in a group with G. H. Young but does not prove an office location/date; see `OQ-030`. |
 | P-003 | [J. Jager](profiles/j-jager.md) | Proprietor | Listed as proprietor of New Kwality Cafe on matchbook. |
 | P-004 | [Larry](profiles/larry.md) | Proprietor / operator | Associated with Larry's Kwality Cafe; surname unknown. |
 | P-005 | Ray Hansen | Earlier 505 Tavern owner/operator | Distinct from Raye Grisham. Family history places Hansen before Dick/Sheila's Brass Rail period at 505; exact business-sale and rename dates remain open. |

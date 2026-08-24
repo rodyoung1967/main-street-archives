@@ -1,5 +1,6 @@
 # 1912 Main Street Research — Consolidated Source Capture
 
+Year status: **IN PROGRESS**
 Research scope: Oregon City Main Street, especially the Fifth–Sixth block and later-numbered 501 / 503 / 505 / 507 Main.  
 Method: targeted address/business/construction searches plus issue/page-level review of accessible/indexed *Oregon City Courier* material, with cross-checks in the *Morning Enterprise* and relevant public records.  
 Standing construction watch: `RL-024`.

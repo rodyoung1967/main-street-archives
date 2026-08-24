@@ -1,8 +1,8 @@
 # 1914 Main Street Research
 
-Status: **routine year pass complete**
+Year status: **IN PROGRESS** — a legacy targeted pass was completed, but exhaustive online coverage has not been certified.
 
-The targeted 1914 newspaper pass has been completed for the Fifth–Sixth Main Street frontage. Remaining gaps are retained as standing research questions and do not block moving to 1915.
+The legacy targeted 1914 newspaper pass covered the Fifth–Sixth Main Street frontage and the workflow moved to 1915. Remaining gaps are retained as standing research questions; the work does not meet the later `ONLINE COMPLETE` standard.
 
 ## Confirmed findings
 
@@ -46,7 +46,7 @@ The 1914 search did not recover a satisfactory exact-address source showing the 
 Do not convert the absence of a 1914 hit into a claim that 505 was vacant or that the Chicago Store ceased business. Its 1914 occupant/status remains unresolved and should be carried as a standing lead.
 
 Dedicated fire-source capture:
-`evidence/source-captures/1913-chicago-store-fire-505-main.md`
+`evidence/source-captures/1913-chicago-store-fire-george-harding-owner.md`
 
 ## Search coverage / negative results
 
@@ -74,4 +74,4 @@ No additional 1914 newspaper result recovered in this pass provides a sufficient
 5. Resolve the legal lot boundaries/numbers against the Sanborn storefront geometry.
 6. Continue the older standing structural question concerning predecessor buildings and rebuilding before the 1925 Sanborn footprints.
 
-These questions remain active, but the routine 1914 year pass is closed and research may proceed to 1915.
+These questions remain active. The earlier targeted pass concluded and research proceeded to 1915, but 1914 remains `IN PROGRESS` until the exhaustive standard is satisfied.

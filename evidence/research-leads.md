@@ -3,14 +3,14 @@
 ## RL-001 — Morton, Washington Connection
 The 'Larry' in Larry's Kwality Cafe or J. Jager may be connected to restaurant owners or operators from Morton, Washington. Unverified.
 
-## RL-002 — 1919 Construction Date
-The 1919 date appears in secondary sources and should be tested against assessor records, Sanborn maps, tax cards, permits, deeds, and city directories.
+## RL-002 — c.1919 Surviving-Building Estimate for 503
+The visually checked 2000 City inventory and a 2017 secondary article report a c.1919/1919 date for 503. Treat this as an approximate surviving-building estimate, not a permit-derived fact or the first use of the address. Test whether it represents original construction, rebuild, major alteration, or an assessor convention using tax cards, permits, deeds, Sanborn maps, physical fabric, and contemporary notices.
 
 ## RL-003 — Directory Search
 Polk directories and Oregon City telephone books may establish year-by-year occupants for 503 and 505 Main. This is especially important for separating Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe, The Wheel, The 505, Brass Rail Tavern, 505 Tavern, and later Thirsty Duck name usage. **The Wheel is already resolved as a 503-only business; do not search for it as a possible 505 occupant.**
 
-## RL-004 — Harding Building Fire
-Oregonian of 2 September 1967 (`E-045`) dates the block fire to 1 September 1967 and names Harding Drug Store and Dixon's Bakery among buildings gutted. Remaining work: fire-department records, insurance, permits, and the replacement-building year. Earlier Enterprise-Courier 1968-1969 search was looking in the wrong years for the fire itself.
+## RL-004 — Harding Building Fire and 1968 Replacement Project
+Oregonian of 2 September 1967 (`E-045`) dates the block fire to 1 September 1967 and names Harding Drug Store and Dixon's Bakery among businesses gutted. `S-063` dates the present 507-511 Harding Building to **1968** at the official historic-inventory level. Remaining work: fire-department/insurance corroboration and primary demolition, permit, assessor, plan, architect, builder, consolidation, completion, and occupancy records. Earlier Enterprise-Courier 1968-1969 searching was looking in the wrong years for the fire itself.
 
 ## RL-005 — 505 Rear Addition / Building Footprint
 Compare assessor sketches, permits, tax cards, Sanborn maps, deeds, parcel maps, and physical measurements to determine whether the rear portion of 505 was added later and whether 505 extends farther back than 503.

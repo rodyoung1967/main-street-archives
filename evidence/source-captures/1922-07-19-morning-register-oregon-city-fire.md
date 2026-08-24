@@ -88,3 +88,9 @@ The high-resolution visual check shows the longer *Morning Register* item prints
 - Exact modern address 501 vs 503 vs 505: **unresolved**.
 - 503-ignition / 505-pool working reconstruction: **unchanged; still hypothesis/strong geometry lead rather than proof**.
 
+## Next checks
+
+1. Identify Alex Schieremann's pre-fire tailor-shop address.
+2. Identify Timms Pool Hall's 1922 address and test whether it was the adjoining pool hall.
+3. Search for Ed Blake / J. Blake and the Fifth Street Restaurant in advertisements, licenses, directories, and property records while preserving the Gage/Harding transmission conflict.
+4. Use the exact pool-hall, tailor-shop, restaurant, and property addresses to constrain the origin among 501, 503, and 505 Main.

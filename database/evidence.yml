@@ -3,10 +3,10 @@ evidence:
     name: White Rabbit Black Ink Article
     type: Secondary source
     claims:
-      - 503 Main constructed in 1919.
+      - The 2017 article reports that 503 Main was constructed in 1919; the archive treats this as a secondary-source claim / approximate surviving-building estimate, not primary construction proof.
       - 503 Main originally housed Kwality Cafe.
       - The article later calls the business "The Wheel Tavern"; this is retained as source wording only and is not accepted as an official historical name.
-    confidence: Moderate for 1919; strong for Kwality connection; not accepted as evidence of an official "The Wheel Tavern" name.
+    confidence: Moderate for the reported c.1919 estimate; strong for Kwality connection; not accepted as evidence of an official "The Wheel Tavern" name.
     related_sources:
       - S-001
     related_buildings:
@@ -574,7 +574,7 @@ evidence:
       - B-002
 
   - id: E-032
-    name: Oregon City Historic Inventories for 503 and 505
+    name: Oregon City Historic Inventories for 503 and 505 (Official Secondary)
     type: Official secondary synthesis
     claims:
       - City 503 record reports c.1919 construction estimate, Kwality chronology, Flor, and Wolf-family ownership roughly 1922-1972.
@@ -782,7 +782,7 @@ evidence:
       - IMG-0046
 
   - id: E-045
-    name: Main Street Fire, 1-2 September 1967
+    name: Main Street Fire, 1–2 September 1967
     type: Primary newspaper
     claims:
       - Oregonian 2 September 1967 reports a Friday-night fire on Main Street between 5th and 6th.
@@ -873,6 +873,452 @@ evidence:
     related_media:
       - IMG-0052
       - IMG-0053
+
+  - id: E-050
+    name: H. P. Brightbill at 509 Main, 5 January 1912
+    type: Primary newspaper advertisement
+    claims:
+      - User-supplied image from the *Oregon City Courier* shows an H. P. Brightbill tea advertisement explicitly giving 509 Main St., phone 74, Oregon City. This establishes Brightbill at 509 Main on that date. It supersedes any OCR/transcription reading of 609 Main for this advertisement. Separate 1908 evidence (E-042) places Henry Brightbill's store at 503 Main, so movement/address chronology should be researched rather than assumed.
+    confidence: Very High for 509 Main on 5 January 1912.
+    related_sources:
+      - S-059
+
+  - id: E-051
+    name: 1912 Post Office Business Cluster
+    type: Primary newspaper advertising / geographic reconstruction
+    claims:
+      - Contemporary advertisements place I. Tolpolar opposite the Oregon City Post Office, M. E. Dunn near/next door to the P.O., Schrader's Bakery near the Post Office, and Pioneer Transfer Co. in the Postoffice Building. Later evidence places Tolpolar at 514 Main, providing a strong anchor for the Post Office on the opposite, odd-numbered side. The exact numbered address of the Post Office remains unproven in the current archive. 513 Main is a working candidate only. If 513 is confirmed as the P.O., Dunn's next-door description combined with Harding at 511 would make 515 a plausible Dunn address; that is inference, not evidence. Schrader must not be assigned to 503/505 or any exact number without direct evidence.
+    confidence: High for relative-location descriptions; Moderate for 513 Post Office hypothesis; Low-moderate for 515 Dunn until directly documented.
+    related_sources:
+      - S-060
+    repository_file: evidence/1912-main-street-postoffice-cluster.md
+
+  - id: E-052
+    name: Oregon City Courier, 5 January 1912, Page 6 Business Advertisements
+    type: Primary newspaper advertising
+    claims:
+      - Page 6 directly places Bailey & Price, Billiard and Pool Parlors, at 527 Main Street opposite the Grand Theater; places Clems Chop House at 5th and Main Street; and places Wm. Gardner, Watchmaker and Jeweler, on Main near 8th. The Chicago Store advertisement says "Main St. just below Postoffice"; independent evidence (E-026) places the Chicago Store at 505 Main. The same issue also documents H. P. Brightbill at 509 Main (E-050).
+    confidence: Very High for the printed advertisement text and explicit 527 Main address; relative-location wording is not converted into exact addresses without independent evidence.
+    related_sources:
+      - S-061
+    repository_file: evidence/E-052-1912-page-6-business-ads.md
+
+  - id: E-053
+    name: 527 Main / Swartz Building, 1935
+    type: Official historic-resource survey evidence / secondary source
+    claims:
+      - Official City of Oregon City and ODOT historic-resource sources identify the present 527 Main building as the Swartz Building and date it to 1935. Because E-052 directly places Bailey & Price at 527 Main in 1912, the 1912 business occupied a predecessor building/storefront at that number unless a later renumbering is demonstrated. The City report also notes later entrance alteration.
+    confidence: High for the accepted historic-inventory identification and 1935 date; Very High that the 1912 numbered-address evidence predates the present 1935 building, assuming no intervening address renumbering.
+    related_sources:
+      - S-062
+      - S-063
+    repository_file: evidence/E-053-527-main-swartz-building-1935.md
+
+  - id: E-054
+    name: Holman / Randall Undertaking Business at Fifth & Main, 1915–1917
+    type: Primary newspaper advertisements
+    claims:
+      - Newspaper advertisements place R. L. Holman and T. P. Randall at Fifth and Main in June 1915 and March 1916, and R. L. Holman at Fifth and Main in January 1917. The ads do not print 501 Main. Because the 1925 Sanborn later shows 501 as the corner store space, equivalence with 501 is a research hypothesis only.
+    confidence: Very High for Fifth-and-Main location and dates; Moderate hypothesis only for equivalence with later-numbered 501 Main.
+    related_sources:
+      - S-064
+      - S-065
+      - S-066
+    repository_file: evidence/E-054-holman-fifth-main-1915-1917.md
+
+  - id: E-055
+    name: Holman & Pace Business Continuity, 1918–1921
+    type: Primary newspaper references / advertisements
+    claims:
+      - 1918 newspaper references identify a Holman & Pace chapel / funeral parlors, and a 17 February 1921 advertisement identifies Holman & Pace as undertakers, embalmers and funeral directors in Oregon City. The recovered sources do not state Fifth & Main or 501 Main, so they cannot prove continued occupancy of the earlier corner premises.
+    confidence: High for business continuity; Unresolved for location after the January 1917 Fifth-and-Main advertisement.
+    related_sources:
+      - S-067
+      - S-068
+    repository_file: evidence/E-055-holman-pace-1918-1921.md
+
+  - id: E-056
+    name: 1924 Oregon City Directory Existence / Repository Lead
+    type: Official National Register documentation citing a historical directory
+    claims:
+      - A 1992 National Register nomination cites R. L. Polk and Company, Oregon City Directory, 1924 and identifies the Oregon City Planning Department as a local repository for additional data. The nomination does not reproduce Main Street directory entries and therefore is not evidence for a specific occupant.
+    confidence: Very High for existence/citation of the 1924 directory and repository lead; None yet for 501/503/505/507 occupants from that directory.
+    related_sources:
+      - S-069
+    repository_file: evidence/E-056-1924-oregon-city-directory-source-lead.md
+
+  - id: E-057
+    name: I. Tolpolar on Main Street, 1904
+    type: Primary newspaper advertisements
+    claims:
+      - '*Oregon City Enterprise* advertisements on 21 October, 4 November, and 30 December 1904 place I. Tolpolar and his furniture/household-goods business on Main Street, Oregon City. The ads do not give a numbered address. The repository already contains newspapers/oregon-city-enterprise/1904-tolpolar-main-street-ad.pdf; its exact issue/page still needs reconciliation before attaching a specific publication date to that binary.'
+    confidence: Very High for Tolpolar operating on Main Street in late 1904; Unresolved for the exact numbered address or a connection to modern 503, 505, or 507 Main.
+    related_sources:
+      - S-070
+    repository_file: evidence/E-057-1904-tolpolar-main-street.md
+
+  - id: E-058
+    name: I. Tolpolar on Main Street, 1905
+    type: Primary newspaper advertisement
+    claims:
+      - The 3 February 1905 *Oregon City Enterprise* advertises I. Tolpolar — Main Street — Oregon City, Oregon, continuing the Main Street furniture/household-goods business documented in late 1904. The advertisement does not print a numbered address.
+    confidence: Very High for Tolpolar operating on Main Street on 3 February 1905; Unresolved for the exact numbered address or a connection to modern 503, 505, or 507 Main.
+    related_sources:
+      - S-071
+    repository_file: evidence/E-058-1905-tolpolar-main-street.md
+
+  - id: E-059
+    name: Fifth Street Improvement Across Main Street, 1905
+    type: Primary municipal notices published in newspaper
+    claims:
+      - Published Oregon City notices document 1905 improvement of Fifth Street from Railroad Avenue to Main Street and from Main Street to Water Street, including grading, crushed rock, sidewalks, concrete curbs, corner blocks, and drains, with later solicitation of bids for the work. This is direct physical/municipal context at the Fifth-and-Main intersection but does not identify business occupants or numbered storefronts.
+    confidence: Very High for the improvement limits and 1905 street-work context; None for 503/505/507 business occupancy from this source.
+    related_sources:
+      - S-072
+    repository_file: evidence/E-059-1905-fifth-main-street-improvement.md
+
+  - id: E-060
+    name: Preliminary Oregon City Street-Numbering System, 1905
+    type: Primary newspaper / municipal-context evidence
+    claims:
+      - The 30 June 1905 *Oregon City Enterprise*, in connection with federal inspection for free mail delivery, urged residents to use a system of numbering residences that had recently been introduced. This establishes preliminary numbering by mid-1905, but later 1906 sources show that the City still needed to formalize the system through an ordinance, numbering plat, street signs, and mandatory implementation. The 1905 item therefore does not by itself prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.
+    confidence: Very High for a preliminary numbering system by June 1905; Unresolved for exact mapping to the later 501/503/505/507 sequence.
+    related_sources:
+      - S-074
+    repository_file: evidence/E-060-1905-preliminary-street-numbering.md
+
+  - id: E-061
+    name: Formal Oregon City Street Numbering, 1906
+    type: Primary newspaper / municipal-context evidence
+    claims:
+      - 'Oregon City formally implemented street numbering in 1906 for free mail delivery: the Council prepared ordinances; Mayor Caufield approved the numbering ordinance; a plat designating the correct numbering was filed with Recorder Dimick; council expenses document numbering-plat work; and street signs were installed. The 17 August issue also prints 504 Main Street for Lerow’s Glass Blowers. Targeted searches did not recover a 1906 occupant explicitly at later-numbered 501, 503, 505, or 507 Main.'
+    confidence: Very High for formal ordinance/plat implementation and the filed numbering plat; Unresolved for the plat’s actual mapping of target storefronts.
+    related_sources:
+      - S-075
+    repository_file: evidence/E-061-1906-formal-street-numbering.md
+
+  - id: E-062
+    name: Sixth Street Improvement Across Main Street, 1906
+    type: Primary municipal notices / newspaper reporting
+    claims:
+      - Sixth Street at the north end of the target block was improved across Main with grading, crushed rock/gravel, wooden sidewalks and curbs, drains, gutters, corner blocks, and grade re-establishment. A related petition sought relocation of hill steps from Sixth to Fifth. No recovered source connects this work to demolition or replacement of 501/503/505 Main predecessor buildings.
+    confidence: Very High for public works and grade changes; Unresolved for effect on individual Main Street buildings.
+    related_sources:
+      - S-076
+    repository_file: evidence/E-062-1906-sixth-main-street-improvement.md
+
+  - id: E-063
+    name: Rosenstein’s Clothing House Fire, 1906
+    type: Primary newspaper advertisements / fire aftermath evidence
+    claims:
+      - Rosenstein’s Clothing House was on Main Street two doors south of the Post Office. A December advertisement states its stock was slightly damaged by a November 1906 fire and the store was being cleared before the New Year. The sources do not give a numbered address and do not establish building destruction or replacement.
+    confidence: Very High for relative location and November fire damage; Unresolved for exact address and building impact.
+    related_sources:
+      - S-077
+    repository_file: evidence/E-063-1906-rosenstein-fire.md
+
+  - id: E-064
+    name: William Tell Hotel at Sixth & Main / Block 26 Lot 8, 1906
+    type: Primary newspaper and recorded-transfer reporting
+    claims:
+      - The historic three-story frame William Tell Hotel at Sixth and Main was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as lot 8, block 26, providing a fixed lot/location anchor for the 5th–6th Main block.
+    confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 anchor based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
+    related_sources:
+      - S-078
+    repository_file: evidence/E-064-1906-william-tell-hotel-block26.md
+
+  - id: E-065
+    name: Pacific States Telephone Central Office Between Fifth & Sixth, 1907
+    type: Primary newspaper / construction evidence
+    claims:
+      - Pacific States Telephone & Telegraph had nearly completed a modern central-office plant on the east side of Main Street between Fifth and Sixth Streets, after more than a year of work and approximately $30,000 in local plant improvements. This is direct new-construction/completion evidence within the block, but no numbered address or lot is printed and it is not assigned to the later odd-numbered 501/503/505/507 frontage.
+    confidence: Very High for location and completion status; Unresolved for exact address, lot, and later building identity.
+    related_sources:
+      - S-079
+    repository_file: evidence/E-065-1907-pacific-states-telephone-office-main-fifth-sixth.md
+
+  - id: E-066
+    name: Main Street Track, Paving, and Grade Reconstruction, 1907
+    type: Primary newspaper / railway and public-works evidence
+    claims:
+      - Oregon Water Power & Railway and Oregon City reconstructed the Main Street track/roadbed and paving through the business district from Eleventh Street to the Basin. Brick paving was removed and relaid and the street was raised to meet the new railway track, reported as about six inches higher than the old track. The project therefore directly affected the Fifth–Sixth block. No recovered source ties it to demolition or replacement of 501/503/505/507 predecessor buildings.
+    confidence: Very High for the corridor reconstruction and approximate six-inch elevation change; Unresolved for effects on individual storefront structures.
+    related_sources:
+      - S-080
+    repository_file: evidence/E-066-1907-main-street-track-grade-reconstruction.md
+
+  - id: E-067
+    name: Mount Hood Cafe / Fifth & Main Anchor, 1907
+    type: Primary newspaper / geographic anchor
+    claims:
+      - A newspaper report places the Mount Hood Cafe at or immediately associated with the Fifth-and-Main corner context, providing a contemporary south-end block anchor. The source does not print a numbered address.
+    confidence: Very High for the Fifth/Main relationship; Unresolved for exact number and storefront footprint.
+    related_sources:
+      - S-081
+    repository_file: evidence/E-067-1907-fifth-main-mount-hood-cafe-anchor.md
+
+  - id: E-068
+    name: John Gohra Saloon at Main & Sixth, 1907
+    type: Primary newspaper / liquor-license notice
+    claims:
+      - John Gohra sought renewal of a liquor license for his existing place of business at Main and Sixth streets, providing a contemporary north-end block anchor. The current evidence does not connect his premises to the William Tell/Gambrinus lot-8 property.
+    confidence: Very High for the intersection location; Unresolved for exact number, lot, and relationship to William Tell/Gambrinus.
+    related_sources:
+      - S-082
+    repository_file: evidence/E-068-1907-sixth-main-john-gohra-saloon.md
+
+  - id: E-069
+    name: I. Tolpolar Opposite the Post Office, 1907
+    type: Primary newspaper advertisement / relative-location evidence
+    claims:
+      - Advertisement identifies I. TOLPOLAR — Main St. Opp. Postoffice — Oregon City, Oregon, strengthening his location evidence beyond the 1904–1905 Main-Street-only advertisements. No numbered address is printed and later addresses must not be projected backward.
+    confidence: Very High for the relative location; Unresolved for exact numbered address.
+    related_sources:
+      - S-083
+    repository_file: evidence/E-069-1907-tolpolar-opposite-postoffice.md
+
+  - id: E-070
+    name: Main Street Overhead Wire and Pole Removal, 1908
+    type: Primary newspaper / utility and streetscape evidence
+    claims:
+      - Oregon City ordered telegraph, telephone, and electric-light poles removed from Main Street between Eleventh Street and the Basin, with companies to place wires underground or bring them in from side streets. Follow-up reporting documents implementation by Pacific Telephone & Telegraph and Portland General Electric. The Fifth–Sixth target block lies inside the corridor. No target-building demolition is established.
+    confidence: Very High for the 1908 utility/street modernization; Unresolved for structural effect on individual target buildings.
+    related_sources:
+      - S-084
+    repository_file: evidence/E-070-1908-main-street-overhead-wire-removal.md
+
+  - id: E-071
+    name: I. Tolpolar Creditor Sale Opposite the Post Office, 1908
+    type: Primary newspaper advertisement / business-transition evidence
+    claims:
+      - A creditor-driven sale of I. Tolpolar's stock was advertised at Main St. Opp. P.O. in July 1908. This extends Tolpolar's relative-location evidence into 1908 but does not give a numbered address or prove permanent closure/change of ownership.
+    confidence: Very High for the location wording and creditor-sale event; Unresolved for exact address and subsequent business disposition.
+    related_sources:
+      - S-085
+    repository_file: evidence/E-071-1908-tolpolar-creditor-sale-opposite-postoffice.md
+
+  - id: E-072
+    name: Unidentified Shoe Retailer Between Fifth & Sixth on Main, 1908
+    type: Primary newspaper advertisement / block-occupancy evidence
+    claims:
+      - A promotional shoe-sale advertisement places a retailer directly on Main Street between Fifth and Sixth Streets. The available OCR/layout does not reliably preserve the merchant name. No numbered target address is assigned.
+    confidence: Very High for active retail occupancy somewhere in the target block; Unresolved for merchant identity and exact number.
+    related_sources:
+      - S-086
+    repository_file: evidence/E-072-1908-unidentified-shoe-retailer-fifth-sixth-main.md
+
+  - id: E-073
+    name: Pacific Telephone Oregon City Expansion, 1908
+    type: Primary newspaper / utility-business evidence
+    claims:
+      - Pacific Telephone & Telegraph's Oregon City office received a $10,000 appropriation for expanded facilities and cables; Manager George J. Hall was notified, and the company again stated that all wires would be moved from Main Street. The article does not print the office number. Later 1910 evidence giving 510 Main is retained only as a follow-up, not backdated.
+    confidence: Very High for the appropriation/expansion and wire-removal plan; Unresolved for exact 1908 office address.
+    related_sources:
+      - S-087
+    repository_file: evidence/E-073-1908-pacific-telephone-expansion.md
+
+  - id: E-074
+    name: Water Street Improvement, Fifth–Sixth Block, 1909
+    type: Primary municipal record and newspaper notice / public-works evidence
+    claims:
+      - Oregon City improved Water Street from Fifth to Sixth Streets in 1909 with grading, rock/gravel, sidewalks, concrete curbs, crosswalks and drainage. The City Engineer reported contractor Harry Jones's work satisfactory on 27 September and Council accepted it. The river-side street is part of the same Fifth–Sixth block as the target Main frontage, but the record does not establish structural work on a specific Main Street building.
+    confidence: Very High for the improvement and same-block context; Unresolved for effects on individual Main Street premises.
+    related_sources:
+      - S-088
+    repository_file: evidence/E-074-1909-water-street-fifth-sixth-improvement.md
+
+  - id: E-075
+    name: Philip Street Building Repair at Sixth & Main, 1909
+    type: Primary municipal record / building-repair evidence
+    claims:
+      - Council ordered Philip Street notified to remove rubbish from Sixth Street caused by repair of his building at Sixth and Main Streets. This is direct building-work evidence at the north end of the target block. The record does not establish the exact number/lot, scope of repair, or a relationship to William Tell/Gambrinus.
+    confidence: Very High for the repair event and location; Unresolved for building identity and scope.
+    related_sources:
+      - S-089
+    repository_file: evidence/E-075-1909-philip-street-building-repair-sixth-main.md
+
+  - id: E-076
+    name: Carl G. Hodes Saloon at Sixth & Main, 1909
+    type: Primary municipal record / liquor-license evidence
+    claims:
+      - Oregon City Council minutes list Carl G. Hodes at Sixth and Main Streets among saloon-license renewal applicants and order the renewals granted subject to fees and bonds. No numbered address/lot is printed, and no relationship to Philip Street's building or the William Tell/Gambrinus property is established.
+    confidence: Very High for a Hodes saloon at Sixth/Main; Unresolved for exact numbered premises.
+    related_sources:
+      - S-090
+    repository_file: evidence/E-076-1909-carl-hodes-saloon-sixth-main.md
+
+  - id: E-077
+    name: Harding Building Existed c.1909; Exact Address Unresolved
+    type: Primary newspaper retrospective and later location evidence / chronology correction
+    claims:
+      - A 1918 *Courier* retrospective says the Christian Science church was meeting in an office room in the Harding Building nine years earlier, supporting existence around 1909; a 1911 *Courier* item places the Harding Building on Main Street between Fifth and Sixth. These sources do not establish that the Harding Building equaled 507 Main in 1909. The prior exact timeline statement is superseded.
+    confidence: High for c.1909 existence; Very High for the 1911 Main-between-Fifth/Sixth context; Unresolved for exact 1909 number, lot, and footprint.
+    related_sources:
+      - S-091
+    repository_file: evidence/E-077-hardings-building-c1909-address-unresolved.md
+
+  - id: E-078
+    name: Gambrinus New Business Block at Sixth & Main, 1910
+    type: Primary municipal record + primary newspaper construction evidence
+    claims:
+      - Council authorized contractor J. G. Killgreen to stage construction materials on Main and Sixth adjoining the Gambrinus property at Sixth & Main for a new building at that location. On 26 August the *Courier* reported the basement complete for a new two-story Gambrinus Brewing Company business block on Main at Sixth. This is direct new-construction evidence on the Gambrinus property after the 1906 William Tell sale, but no explicit demolition notice yet proves the exact fate of the earlier hotel structure.
+    confidence: Very High for the 1910 new-building construction and location; High for structural succession on the Gambrinus property; Unresolved for exact demolition/replacement mechanics and later numbered address.
+    related_sources:
+      - S-092
+    repository_file: evidence/E-078-1910-gambrinus-new-business-block-sixth-main.md
+
+  - id: E-079
+    name: Carl G. Hodes Vacates Sixth & Main Saloon, 1910
+    type: Primary municipal liquor-license record
+    claims:
+      - Council extended Hodes's saloon-license period to account for time between his vacation of his saloon at Sixth and Main Streets and license expiration. This establishes that the Sixth/Main saloon documented in 1909 had been vacated for a period before the late-June Gambrinus construction staging. The source does not say the vacancy was caused by construction.
+    confidence: Very High for the vacancy and location; Unresolved for exact premises, vacancy date/reason, and relationship to the Gambrinus property.
+    related_sources:
+      - S-093
+    repository_file: evidence/E-079-1910-hodes-vacates-sixth-main-saloon.md
+
+  - id: E-080
+    name: E. R. Case Saloon / Adjoining Restaurant at Fifth & Main, 1910
+    type: Primary municipal record / business and property-use anchor
+    claims:
+      - Council discussed a complaint involving a restaurant adjoining E. R. Case's saloon at Fifth and Main Streets. This establishes a saloon and adjoining restaurant at the south end of the target block, but no numbered address is printed and the premises are not assigned to 501 or 503.
+    confidence: Very High for the Fifth/Main location and adjoining-use relationship; Unresolved for exact number, lot, and footprint.
+    related_sources:
+      - S-093
+    repository_file: evidence/E-080-1910-er-case-saloon-fifth-main.md
+
+  - id: E-081
+    name: Main Street Business and Address Anchors, 1910
+    type: Primary newspaper advertising / exact-address and intersection evidence
+    claims:
+      - Price Bros. advertised at Sixth & Main in March and September. The 23 September business page also lists H. P. Brightbill — 509 Main St., Pioneer Market / H. W. Streibig — Fifth & Main, Geo. A. Harding — 611 Main, and Watson B. Eddy & Son — Main & Sixth. Brightbill's 509 listing narrows his documented movement from 503 (E-042, August 1908) to after August 1908 and by September 1910. George Harding's 611 business address is not treated as the address of the separately named Harding Building.
+    confidence: Very High for the printed addresses/intersection descriptions and Brightbill at 509 by 23 September 1910; Unresolved for mapping the intersection businesses to specific corners/lots.
+    related_sources:
+      - S-094
+    repository_file: evidence/E-081-1910-main-street-business-address-anchors.md
+
+  - id: E-082
+    name: Pacific Telephone & Telegraph at 510 Main, 1910
+    type: Primary newspaper advertisements / exact-address evidence
+    claims:
+      - Repeated *Courier* advertisements identify Pacific Telephone & Telegraph Co. at 510 Main Street. This establishes the exact office address by 1910 and strongly supports continuity with the east-side central-office plant completed between Fifth and Sixth in 1907, but the 510 number is not backdated without a direct continuity source.
+    confidence: Very High for 510 Main in 1910; High for relationship to the 1907 plant; direct 1907–1910 premises continuity remains unresolved.
+    related_sources:
+      - S-095
+    repository_file: evidence/E-082-1910-pacific-telephone-510-main.md
+
+  - id: E-083
+    name: Main Street Concrete Walks, Wooden Awning and Projecting-Sign Removal, 1910
+    type: Primary municipal record + primary newspaper streetscape evidence
+    claims:
+      - Council ordered concrete walks where needed along Main Street between Eleventh Street and the Basin, and the *Courier* later reported a city order removing old wooden awnings projecting over sidewalks and requiring projecting signs to be placed flat against buildings. The Fifth–Sixth block lies within the Main Street sidewalk corridor. These are important streetscape changes but do not establish target-building replacement.
+    confidence: Very High for the 1910 sidewalk/awning/sign actions; Unresolved for exact compliance timing and physical impact at individual 501/503/505/507 premises.
+    related_sources:
+      - S-096
+    repository_file: evidence/E-083-1910-main-street-sidewalk-awning-sign-modernization.md
+
+  - id: E-084
+    name: Chicago Store Moves from 405 to 505 Main, 1911
+    type: Primary newspaper advertising / exact-address business-relocation evidence
+    claims:
+      - The Chicago Store, explicitly Wolf & Nat, proprietors, advertised at 405 Main Street through 3 February 1911. By 31 March it advertised at 505 Main St., repeated through April. The documented move/readdressing therefore occurred after 3 February and by 31 March 1911. The available 505 ad text does not directly name proprietors, so proprietorship continuity is not assumed. Exact 505 occupancy is not proof that the surviving later-dated 505 building was already standing.
+    confidence: Very High for the two addresses and relocation window; Unresolved for proprietorship immediately after the move and the physical relationship to the surviving 505 building.
+    related_sources:
+      - S-097
+    repository_file: evidence/E-084-1911-chicago-store-moves-405-to-505-main.md
+
+  - id: E-085
+    name: Harding Building Location Ambiguity and Willamette Adjacency, 1911
+    type: Primary newspaper / building-location and business-move evidence
+    claims:
+      - One *Courier* item locates a repair shop in the Harding Building on Sixth Street between Main and Railroad Avenue; another says George Young moved one door north into the Willamette Building from the Harding Building on Main Street between Fifth and Sixth. The evidence proves the one-door-north adjacency but does not establish exact street numbers or whether the two Harding descriptions refer to one physical building.
+    confidence: Very High for the published location descriptions and one-door-north move; Unresolved for exact number, lot/footprint, and relationship to later 505/507 numbering.
+    related_sources:
+      - S-098
+    repository_file: evidence/E-085-1911-harding-building-location-ambiguity.md
+
+  - id: E-086
+    name: New Gambrinus Block Occupied as Electric Hotel Annex, 1911
+    type: Primary newspaper / new-building occupancy evidence
+    claims:
+      - J. Tobin, proprietor of the Electric Hotel, rented the second story of the new Gambrinus block as a hotel annex. The block was described as having steam heat, electric lights, and some rooms with hot/cold water connections. This establishes the 1910 new block as occupied/in service by early March 1911.
+    confidence: Very High for occupancy and described amenities; Unresolved for exact numbered address and the direct William Tell demolition/replacement link.
+    related_sources:
+      - S-099
+    repository_file: evidence/E-086-1911-gambrinus-block-electric-hotel-annex.md
+
+  - id: E-087
+    name: Sixth Street Grade and Improvement Across Main, 1911
+    type: Primary newspaper reporting of municipal public works
+    claims:
+      - Oregon City pursued a substantial Sixth Street grade/improvement process in 1911, including grade-change debate, assessment proceedings, and an assessment ordinance for improvement from High to Jackson. That corridor crosses Main at the north end of the target block. No source ties the work to demolition or replacement of a specific target storefront.
+    confidence: Very High for the Sixth Street improvement/grade process; Unresolved for effects on individual buildings.
+    related_sources:
+      - S-100
+    repository_file: evidence/E-087-1911-sixth-street-grade-improvement.md
+
+  - id: E-088
+    name: Pacific Telephone & Telegraph at 510 Main, 1911 Continuity
+    type: Primary newspaper advertisement / exact-address continuity evidence
+    claims:
+      - A 6 January 1911 *Courier* advertisement places Pacific Telephone & Telegraph Co. at 510 Main Street, carrying the exact-address evidence from late 1910 directly into 1911. This strengthens but does not prove physical continuity with the east-side central-office plant completed in 1907.
+    confidence: Very High for 510 Main in January 1911; High for continuity with the late-1910 office; exact 1907–1911 premises continuity remains unresolved.
+    related_sources:
+      - S-101
+    repository_file: evidence/E-088-1911-pacific-telephone-510-main-continuity.md
+
+  - id: E-089
+    name: Smith Pool Room / Pool Hall at 503 Main, 1912
+    type: Primary newspaper advertising, legal notice, and business-transition evidence
+    claims:
+      - A visually verified 5 January advertisement places H. N. Smith's pool room at 503 Main; a 24 March legal notice signed H. H. Smith gives his pool-hall place of business as 503 Main Street; and a 12 July item says H. H. Smith, who had conducted a pool hall at Fifth and Main, left Oregon City for Aurora. The H. N. versus H. H. initials discrepancy remains unresolved rather than silently merged. Exact 503 occupancy is not proof that the surviving c.1919 building was already standing.
+    confidence: Very High for the three printed business/address/location statements; High for the March-to-July business continuity; Unresolved for H. N. versus H. H. identity and exact corner/lot footprint.
+    related_sources:
+      - S-102
+      - S-103
+      - S-104
+    repository_file: evidence/E-089-1912-smith-pool-room-503-main.md
+
+  - id: E-090
+    name: Active Main Street Demolition and Rebuilding, May 1912
+    type: Primary newspaper editorial / contemporary construction context
+    claims:
+      - A present-tense *Courier* editorial says Oregon City was then tearing down buildings on Main Street and building new buildings in their places. This confirms active Main Street structural replacement in May 1912, but the source gives no block, owner, business or street number and cannot yet be tied to 501/503/505/507.
+    confidence: Very High for active Main Street demolition/rebuilding in May 1912; Unresolved for the buildings, blocks and addresses involved.
+    related_sources:
+      - S-105
+    repository_file: evidence/E-090-1912-main-street-demolition-rebuilding.md
+
+  - id: E-091
+    name: Gambrinus Saloon at Sixth & Main, William Trudell, 1912
+    type: Primary newspaper / business-location and operator evidence
+    claims:
+      - A *Morning Enterprise* report identifies the Gambrinus Saloon at Sixth and Main streets and names William Trudell as proprietor. This extends the Gambrinus property chronology beyond the 1910 new-block construction and 1911 Electric Hotel annex occupancy, but no exact numbered storefront is printed.
+    confidence: Very High for the saloon location and proprietor; High for relationship to the broader Gambrinus-property chronology; exact storefront/footprint unresolved.
+    related_sources:
+      - S-103
+    repository_file: evidence/E-091-1912-gambrinus-saloon-sixth-main.md
+
+  - id: E-092
+    name: 503 / 507 / 509 / 511 Main Address Ladder, 1912
+    type: Primary newspaper advertising / exact-address reconstruction evidence
+    claims:
+      - Visual inspection of the 5 January *Courier* business page establishes H. N. Smith — 503 Main, G. H. Young — 507 Main, H. P. Brightbill — 509 Main, and Geo. A. Harding — 511 Main. The page image corrects OCR errors that read 503 as 603, 509 as 609, and garble 511. Young's 507 listing strengthens—but does not prove—the hypothesis that his Willamette Building premises from March 1911 were 507. Harding's own 511 business address remains separate from the named Harding Building.
+    confidence: Very High for the visually verified address ladder; High for its value in constraining the Harding/Willamette reconstruction; Unresolved for Willamette=507 and the Harding Building's exact number.
+    related_sources:
+      - S-102
+    repository_file: evidence/E-092-1912-main-address-ladder-young-harding.md
+
+  - id: E-093
+    name: Schrader Sells Main Street Bakery to Wemmo & Haas, 1912
+    type: Primary newspaper / business-transfer and relative-location evidence
+    claims:
+      - January advertising places Schrader's Bakery near the Post Office; on 20 December the *Courier* reports that Herman Schrader sold two Oregon City bakeries, including one on Main Street, to Wemmo & Haas. Neither item gives an exact Main number, and the sale is not evidence of a building/property transfer.
+    confidence: Very High for the business sale and relative Main/Post Office location; Unresolved for exact numbered premises.
+    related_sources:
+      - S-102
+      - S-106
+    repository_file: evidence/E-093-1912-schrader-main-street-bakery-sale.md
 
   - id: E-094
     name: Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment

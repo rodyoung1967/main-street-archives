@@ -1,5 +1,6 @@
 # 1910 Main Street research source capture
 
+Year status: **IN PROGRESS**
 Research date: 21 August 2026  
 Scope: 501, 503, 505, 507 Main Street, Oregon City, plus Fifth–Sixth block businesses, construction/demolition/fire/rebuilding, streetscape changes, address chronology, and Block 26 lot/building reconstruction.
 
@@ -171,7 +172,7 @@ These are not registered as 1910 evidence unless otherwise noted:
 - **23 October 1913 Morning Enterprise assessment notice:** Block 26 lists **lot 8 — Gambrinus Brewing Company**, supporting later lot-ownership continuity; formally analyze in the 1913 pass or dedicated Block 26 reconstruction.
 - Later W. B. Eddy references may help identify which Sixth/Main premises he occupied, but must not be projected backward without direct evidence.
 
-## 1910 annual closeout status
+## 1910 findings snapshot (not a closeout certification)
 
 Strongly established:
 

@@ -9,6 +9,7 @@
 - Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`, `S-109`, `S-110`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
+- Related open question: `OQ-030`
 
 ## Known / Working History
 
@@ -20,7 +21,7 @@ Current working facts:
 
 - The building was known as the Harding Building by 1909.
 - George A. Harding and Harding Drug Store are associated with the original building.
-- Dr. Bailey was documented upstairs in the Harding Building in 1909.
+- A legacy archive statement places Dr. Bailey upstairs in the Harding Building in 1909, but the supporting source has not been located; treat it as unverified.
 - Harding Drug Store and Dixon's Bakery were gutted in the 1 September 1967 fire.
 - The Wheel Restaurant and 505 Tavern survived that fire with smoke and water damage.
 - The **present replacement Harding Building spans 507-511 Main and is dated 1968** in ODOT's 2021 inventory table (`S-063`).
@@ -35,14 +36,14 @@ The original Harding Building was associated with George A. Harding and the Hard
 
 The archive still needs primary sources establishing George A. Harding's ownership, tenancy, construction role, and exact dates of Harding Drug Store operation at 507 Main.
 
-## Documented Occupant
+## Unverified Legacy Occupant Claim
 
-In 1909, Dr. Bailey operated a dental practice upstairs in the Harding Building.
+An earlier archive statement says that Dr. Bailey operated a dental practice upstairs in the Harding Building in 1909. No source currently registered in the archive proves that location/date. A Museum of the Oregon Territory catalog record for a group photograph identifies one man as **Dr. Bailey** alongside G. H. Young, but that catalog description does not establish a dental office or Harding Building occupancy.
 
 - Related person: `P-002` Dr. Bailey
 - Related timeline entry: `T-003`
 
-The source for this 1909 claim should be linked directly once located in the evidence and source registers.
+Do not cite the 1909 occupancy as established until a directory, advertisement, professional listing, photograph caption, or comparable source directly supports it (`OQ-030`).
 
 ## Fire and Replacement Building
 
@@ -68,7 +69,7 @@ Related research lead:
 
 ## Other Tenant Leads
 
-- Upstairs professional offices: Dr. Bailey is documented in 1909; other upstairs occupants are not yet known.
+- Upstairs professional offices: Dr. Bailey is an unverified 1909 legacy lead; other upstairs occupants are not yet known.
 - The exact pre-fire address occupied by Dixon's Bakery within the 5th-6th/Main fire area remains open.
 
 ## Relationship to 503, 505, and 527

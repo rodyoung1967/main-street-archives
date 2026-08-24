@@ -9,6 +9,7 @@ Registers are not narrative histories. They are lookup tables that help connect 
 - `address-register.md` — addresses and related buildings/businesses
 - `ownership-timeline.md` — owner/stewardship chronology
 - `business-timeline.md` — business-name and operation chronology
+- `year-status.md` — canonical annual-review status and certification blockers
 - `research-log.md` — research actions, searches, findings, and dead ends
 
 ## Rule

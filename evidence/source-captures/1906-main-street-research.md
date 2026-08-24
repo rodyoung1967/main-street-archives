@@ -1,5 +1,6 @@
 # 1906 Main Street research source capture
 
+Year status: **IN PROGRESS**
 Research date: 20 August 2026  
 Scope: year-by-year reconstruction of Main Street between Fifth and Sixth Streets, with emphasis on 501 / 503 / 505 / 507, address-numbering chronology, and evidence of construction, demolition, fire, rebuilding, or major public works.
 
@@ -116,7 +117,7 @@ Not recovered:
 
 This negative search result should remain a research-status note only. Continue the construction/demolition watch in 1907 and later years (`RL-024`).
 
-## 1906 year status
+## 1906 findings snapshot and remaining work
 
 Documented:
 

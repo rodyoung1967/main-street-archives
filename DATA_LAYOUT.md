@@ -26,7 +26,7 @@ Original newspaper clippings and article/page scans live under:
 ```text
 newspapers/
   oregonian/
-  morning-enterprise/
+  oregon-city-enterprise/
   oregon-city-courier/
   other/
 ```

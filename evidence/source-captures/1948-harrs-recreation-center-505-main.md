@@ -52,3 +52,6 @@ The PDF text layers were successfully retrieved. Screenshot/page-image requests 
 2. Search 1934–February 1948 city directories, liquor-license renewals, and newspapers for the transition from **Farr's Pool Hall** to **Harr's Recreation Center**.
 3. Search 1948–1953 records for the transition from **Carl R. Harr / Harr's Recreation Center** to the city inventory's **"Well's Recreation"** entry.
 4. Verify the spelling of "Well's" against the underlying 1953 directory or license record.
+5. Search 1949–1965 municipal liquor-license records to bridge the recreation-center era to the earliest documented **505 Tavern** period.
+6. Search 1947–1948 minutes and license files for Harr's first application and any directly printed address.
+7. Keep recreation-center/pool-hall business succession separate from proof of real-estate ownership.

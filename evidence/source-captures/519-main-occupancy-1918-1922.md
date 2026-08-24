@@ -94,7 +94,7 @@ This occupancy ladder narrows the search but does not identify the ignition-room
 ## Related files
 
 - `evidence/source-captures/pantorium-cleaners-address-chronology-1914-1922.md`
-- `evidence/source-captures/1922-pantorium-cleaning-dyeing-fire-tenant-candidate.md`
+- `evidence/source-captures/1922-pantorium-cleaning-dyeing-fire-tenant-lead.md`
 - `evidence/source-captures/1922-07-18-eugene-daily-guard-fire-account.md`
 - `evidence/source-captures/1922-fire-s-wolf-main-street-property-lead.md`
 

@@ -9,7 +9,7 @@ Organize first by publication:
 ```text
 newspapers/
   oregonian/
-  morning-enterprise/
+  oregon-city-enterprise/
   oregon-city-courier/
   other/
 ```

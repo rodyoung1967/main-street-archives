@@ -1,6 +1,6 @@
 # 1917 Oregon City Courier — August issue inventory
 
-Status: **issue-count inventory complete; 2 Aug visually reviewed**
+Status: **issue-count inventory assembled; 2 Aug visually reviewed**
 
 Under RESEARCH-STANDARD.md, OCR/search/index results are discovery aids only. Page images/PDF renderings control final evidentiary promotion.
 

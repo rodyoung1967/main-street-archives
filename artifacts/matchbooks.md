@@ -42,7 +42,7 @@ The Larry's Kwality Cafe matchcover places Larry's Kwality Cafe at 503 Main Stre
 
 ## Local Image Archive
 
-Local image copies should be stored in [artifacts/images](images/README.md).
+Committed archival image copies are stored in [artifacts/images](images/README.md).
 
 Current archived filenames:
 
@@ -68,7 +68,7 @@ These artifacts strongly support the printed business names, address, proprietor
 
 ## Open Questions
 
-- Can the original artifact images be downloaded or locally archived with source metadata?
+- Can the original object/photo provenance, current rights holder, and permission for external reuse be documented more fully?
 - Can the matchbook or matchcover be dated by typography, phone number format, manufacturer marks, or collector notes?
 - Does telephone 6106 appear in Oregon City telephone books?
 - Does J. Jager appear in city directories, newspapers, census records, or business licensing records?

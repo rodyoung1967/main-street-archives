@@ -43,7 +43,7 @@ This is useful continuity around the unresolved 503/505 pair, but it does not re
 Page 4 contains a Portland Railway Light & Power Company advertisement giving:
 
 - **Andresen Bldg., 619 Main St.**
-- Pacific Main 115 / Home A-229
+- Pacific Main 115 / Home telephone `TEL:A-229` (external telephone identifier, not archive artifact `A-###`)
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-10-19/ed-1/seq-4/

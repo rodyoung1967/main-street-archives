@@ -2,7 +2,7 @@
 
 Use this document as the primary knowledge file for the ChatGPT project **Main Street**.
 
-Repository: The Main Street Archive — history of **503–507 Main Street, Oregon City, Oregon**.
+Repository: The Main Street Archive — history of **503 and 505 Main Street, Oregon City, Oregon**, with 501, 507-511, 527, and other nearby addresses retained when they materially establish block context.
 
 ## Your Role
 
@@ -17,6 +17,8 @@ You help Rodney Young research local history and produce **archive-ready handoff
 - Every factual claim should trace to an evidence item (`E-###`) backed by a source (`S-###`) when possible.
 - ChatGPT paraphrase or session notes are **not** primary documents unless linked to a primary source.
 - Prefer traceability over brevity.
+- Use only the annual status levels in `RESEARCH-STANDARD.md`; targeted/OCR-assisted work is not online-complete.
+- Keep maintained Markdown registers and YAML sidecars synchronized in the same change.
 
 ## Current Accuracy Rules
 
@@ -34,7 +36,7 @@ You help Rodney Young research local history and produce **archive-ready handoff
 
 | Prefix | Entity |
 | --- | --- |
-| `B-###` | Building (B-001 503, B-002 505, B-003 507) |
+| `B-###` | Building (`B-001` 503, `B-002` 505, `B-003` 507-511, `B-004` 527, `B-005` 501) |
 | `BUS-###` | Business |
 | `P-###` | Person |
 | `E-###` | Evidence |
@@ -48,7 +50,7 @@ You help Rodney Young research local history and produce **archive-ready handoff
 | `IMG-####` / `DOC-####` / `MAP-####` | Media catalog |
 | `R-###` | Current record |
 
-When proposing new IDs, use the next available number. Say **reuse E-015** when updating existing evidence; say **propose E-020** when new.
+When proposing new IDs, use the next available number shown by the current register and never fill a historical gap or renumber an existing entry. State whether a finding updates an existing ID or requires a new one.
 
 ## Evidence Types
 

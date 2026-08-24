@@ -6,12 +6,12 @@ Purpose: preserve a newly verified catalog-level bridge between **505 Main** in 
 
 ## Source
 
-**Museum of the Oregon Territory / Clackamas County Historical Society photo-reference spreadsheet**, item **P-391**, visually inspected on PDF page 32 (viewer index 31).
+**Museum of the Oregon Territory / Clackamas County Historical Society photo-reference spreadsheet**, external catalog item **MOT:P-391**, visually inspected on PDF page 32 (viewer index 31).
 
 Catalog URL:
 https://static1.squarespace.com/static/5755b9f7044262eb95050aa8/t/5b6230c01ae6cfaaeed33907/1533161670139/Photo+reference+spreadsheet+Aug+1+18.pdf
 
-The P-391 catalog entry reads, in substance:
+The `MOT:P-391` catalog entry reads, in substance:
 
 - **Young 2nd hand store**
 - **505 Main street, Oregon City**
@@ -23,26 +23,26 @@ The P-391 catalog entry reads, in substance:
 
 Verification state for the catalog page: **VISUALLY VERIFIED**.
 
-The historic photograph represented by P-391 has **not yet been directly inspected**, so the visible storefront, signage, neighboring buildings, alley geometry, and date annotation have not yet been independently checked against the catalog description.
+The historic photograph represented by `MOT:P-391` has **not yet been directly inspected**, so the visible storefront, signage, neighboring buildings, alley geometry, and date annotation have not yet been independently checked against the catalog description.
 
-## Important correction — P-372 is a different photograph
+## Important correction — MOT:P-372 is a different photograph
 
-The same catalog contains a separate record, **P-372**, on PDF page 30, for:
+The same catalog contains a separate record, **MOT:P-372**, on PDF page 30, for:
 
 - `Young's 2nd Hand store 1907`
 - notes on back saying the store was **“across alley from 1st National Bank”**
 - reference **M/R y # 011-0021**.
 
-Earlier search-engine snippets blended text from P-372 and P-391. The source itself makes clear that they are **different records**. Therefore:
+Earlier search-engine snippets blended text from `MOT:P-372` and `MOT:P-391`. The source itself makes clear that they are **different records**. Therefore:
 
-- **P-372 = 1907 / across alley from First National Bank**;
-- **P-391 = 1910 / 505 Main / same location as later pool hall**.
+- **MOT:P-372 = 1907 / across alley from First National Bank**;
+- **MOT:P-391 = 1910 / 505 Main / same location as later pool hall**.
 
 Do not merge the two photo descriptions.
 
 ## George H. Young moves away from 505 — spring 1911 to January 1912
 
-The new P-391 catalog anchor can now be combined with primary newspaper evidence to narrow Young's storefront chronology.
+The new `MOT:P-391` catalog anchor can now be combined with primary newspaper evidence to narrow Young's storefront chronology.
 
 ### 31 March 1911 — Chicago Store at 505 Main
 
@@ -89,7 +89,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-03/ed-1/seq-2.pdf
 
 The best-supported sequence is now:
 
-1. **1910:** Museum catalog P-391 — Young second-hand store at **505 Main**.
+1. **1910:** Museum catalog `MOT:P-391` — Young second-hand store at **505 Main**.
 2. **31 Mar 1911:** Chicago Store visually verified at **505 Main**.
 3. **20 Apr 1911:** George Young advertises that he has **moved into a new store**, but gives no number.
 4. **5 Jan 1912:** G. H. Young / The Curio Man visually verified at **507 Main**.
@@ -100,9 +100,9 @@ Therefore **Young's 505 phase had ended or was in transition by spring 1911, and
 
 ## Relationship to George H. Young
 
-The P-391 catalog note explicitly identifies **G. H. Young** in the photograph. The 5 Jan 1912 newspaper advertisement independently prints **G. H. Young / The Curio Man / 507 Main**, creating a strong person-and-business continuity bridge from the museum catalog description to a contemporary newspaper source.
+The `MOT:P-391` catalog note explicitly identifies **G. H. Young** in the photograph. The 5 Jan 1912 newspaper advertisement independently prints **G. H. Young / The Curio Man / 507 Main**, creating a strong person-and-business continuity bridge from the museum catalog description to a contemporary newspaper source.
 
-P-391 therefore provides a strong catalog-level identification of George H. Young's second-hand business at **505 Main in 1910**, followed by primary evidence placing his curio/second-hand trade at **507 Main by January 1912**.
+`MOT:P-391` therefore provides a strong catalog-level identification of George H. Young's second-hand business at **505 Main in 1910**, followed by primary evidence placing his curio/second-hand trade at **507 Main by January 1912**.
 
 ## Why this matters for 505 Main and the 1922 fire problem
 
@@ -128,17 +128,17 @@ This reduces the risk of treating every George Young / second-hand-store referen
 
 The same catalog section also includes:
 
-- **P-389** — Young's 2nd Hand store at **4th and Main**, 1901;
-- **P-370 / P-384** — Young/Young's Curio Store at **507 Main**, 1916; P-384 identifies George H. Young in the image;
-- **P-392** — Pioneer Market, **corner Fifth and Main**, 1908.
+- **MOT:P-389** — Young's 2nd Hand store at **4th and Main**, 1901;
+- **MOT:P-370 / MOT:P-384** — Young/Young's Curio Store at **507 Main**, 1916; `MOT:P-384` identifies George H. Young in the image;
+- **MOT:P-392** — Pioneer Market, **corner Fifth and Main**, 1908.
 
 These records indicate that the museum collection may contain useful visual evidence for reconstructing the Fifth/Main frontage and George H. Young's moves.
 
 ## Next checks
 
-1. Obtain and visually inspect the actual **P-391 / M/R y # 011-0048** photograph at full resolution.
+1. Obtain and visually inspect the actual **MOT:P-391 / M/R y # 011-0048** photograph at full resolution.
 2. Determine when the annotation **“same location as pool hall is now”** was written, if provenance permits.
 3. Visually certify the **20 Apr 1911** George Young “new store” classified and search nearby issues for an exact **507 Main** address to prove the move earlier than Jan 1912.
-4. Compare storefront/alley/building geometry in P-391 with the 1911/1925 Sanborn maps and later photographs.
+4. Compare storefront/alley/building geometry in `MOT:P-391` with the 1911/1925 Sanborn maps and later photographs.
 5. Determine whether the 1910 Young premises at 505 was the same physical building occupied by the Chicago Store in 1911 or a predecessor structure affected by the 1913 fire/rebuilding history.
-6. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use P-391 to assign either business to 505 without a direct bridge.
+6. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use `MOT:P-391` to assign either business to 505 without a direct bridge.

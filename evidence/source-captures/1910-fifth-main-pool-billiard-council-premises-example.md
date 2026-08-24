@@ -37,7 +37,7 @@ This 1910 council record demonstrates that Oregon City municipal minutes/petitio
 A separate visually reviewed Banner-Courier item establishes that the council acted on Sunday poolroom opening on **1 February 1922**. That meeting packet remains a priority target.
 
 Related capture:
-`evidence/source-captures/1922-02-01-poolroom-sunday-council-action.md`
+`evidence/source-captures/1922-02-01-poolrooms-sunday-council-action.md`
 
 ## What this source does NOT establish
 

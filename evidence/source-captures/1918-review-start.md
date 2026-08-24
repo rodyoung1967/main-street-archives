@@ -1,8 +1,8 @@
 # 1918 Oregon City / 503–505 Main review start
 
-Status: **in progress**
+Year status: **IN PROGRESS**
 
-Purpose: begin the 1918 review after closing 1917 as substantially complete. Under `RESEARCH-STANDARD.md`, OCR/search/index results are discovery aids only; page images/PDF renderings control final evidentiary promotion.
+Purpose: begin the 1918 review after the earlier workflow progressed from 1917. The 1917 year remains `IN PROGRESS` under the current certification standard. OCR/search/index results are discovery aids only; page images/PDF renderings control final evidentiary promotion.
 
 ## Repository baseline
 
