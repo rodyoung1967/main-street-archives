@@ -2,7 +2,7 @@
 
 Status: **VISUALLY VERIFIED primary advertisements + STRONG IDENTITY/CONTINUITY INFERENCE; exact pre-fire street number and business-name identity not yet directly proved**
 
-Purpose: preserve the unusually tight trade and fire-continuity evidence connecting the pre-fire `Millers Shoe Store` advertisements to Gilbert Miller, while keeping the missing explicit proprietor statement and exact pre-fire storefront unresolved.
+Purpose: preserve the unusually tight trade and fire-continuity evidence connecting the pre-fire `Millers Shoe Store` advertisements to Gilbert Miller, while keeping the missing explicit pre-fire proprietor statement and exact pre-fire storefront unresolved.
 
 ## 23 February 1922 — Millers Shoe Store opposite Post Office
 
@@ -70,16 +70,41 @@ Verification state: **VISUALLY VERIFIED**.
 
 This directly proves that Gilbert Miller had conducted shoe repairing before the July fire and resumed it afterward.
 
+## 26 October 1922 — Miller's Shoe Store at 419 Main
+
+The actual scanned page of the **Banner-Courier, 26 Oct 1922, p. 2** has now been visually inspected.
+
+A boxed advertisement clearly reads:
+
+- **MILLER'S SHOE STORE**
+- Men's every-day-wear shoes, rubbers, gloves
+- **Expert Shoe Repairing**
+- **419 Main St.**
+- Oregon City
+
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+This creates a post-fire location sequence:
+
+- **21 Sep 1922 — Gilbert Miller at 209 Fifth**, explicitly resuming the same shoe repairing as before the fire;
+- **26 Oct 1922 — Miller's Shoe Store at 419 Main**, selling the same general merchandise and advertising expert shoe repairing.
+
+The sequence materially strengthens the business-identity inference, but the October ad still does **not** print Gilbert Miller's first name. The archive therefore does not yet promote `Miller's Shoe Store = Gilbert Miller` from strong inference to direct proof.
+
 ## Current identity assessment
 
-The combined evidence makes it a **strong inference** that the pre-fire **Millers Shoe Store** was Gilbert Miller's business:
+The combined evidence makes it a **strong inference** that the pre-fire **Millers Shoe Store** and the post-fire **Miller's Shoe Store** were Gilbert Miller's business:
 
-1. the store name is `Millers`;
+1. the store name is `Millers` / `Miller's`;
 2. it sold shoes and gloves while advertising expert shoe repairing;
 3. the July fire report names **Gilbert Miller's shoe-repair shop** and specifically mentions his **stock of shoes**;
-4. the September signed Gilbert Miller ad says his shoe machinery was restored for the same shoe repairing he had done **before the fire** and again sells shoes/gloves.
+4. the September signed Gilbert Miller ad says his shoe machinery was restored for the same shoe repairing he had done **before the fire** and again sells shoes/gloves;
+5. by 26 October the `MILLER'S SHOE STORE` name reappears at **419 Main** with the same shoes/gloves + expert-repairing business pattern.
 
-However, the project has **not yet recovered a pre-fire source explicitly saying `Gilbert Miller, proprietor` of `Miller's/Millers Shoe Store`**. Under the archive standard, the identity therefore remains a **strong inference rather than proven fact**.
+However, the project has **not yet recovered a source explicitly saying `Gilbert Miller, proprietor` of `Miller's/Millers Shoe Store`**. Under the archive standard, the identity therefore remains a **strong inference rather than proven fact**.
 
 ## Fire-map implication
 
@@ -89,8 +114,10 @@ If the Gilbert-Miller/store identity is eventually directly proved, these advert
 
 Do not use this evidence to assign Miller's shop to a specific modern storefront until either:
 
-- the store receives an exact street number in a primary source; or
+- the pre-fire store receives an exact street number in a primary source; or
 - the exact Post Office bay and a sufficiently precise spatial relationship independently establish the storefront.
+
+The post-fire **419 Main** address is a later relocation and must not be backdated to the pre-fire shop.
 
 ## Confidence
 
@@ -98,12 +125,13 @@ Do not use this evidence to assign Miller's shop to a specific modern storefront
 - same store/trade/location wording repeated 4 May 1922: **Very High / visually verified primary scan**
 - Gilbert Miller shoe-repair shop and shoe stock destroyed in July fire: **Very High / visually verified primary fire report**
 - Gilbert Miller resumed the same pre-fire shoe repairing at 209 Fifth by 21 Sep 1922: **Very High / visually verified primary scan**
-- pre-fire `Millers Shoe Store` = Gilbert Miller's business: **Strong inference, not yet explicit proof**
+- `MILLER'S SHOE STORE` at 419 Main on 26 Oct 1922: **Very High / visually verified primary scan**
+- pre-/post-fire `Miller's/Millers Shoe Store` = Gilbert Miller's business: **Strong inference, not yet explicit proof**
 - exact pre-fire Miller storefront number: **Unresolved**
 
 ## Next checks
 
 1. Search January–July 1922 advertisements, directories and business notices for `Gilbert Miller`, `Miller's Shoe Store`, `Millers Shoe Store`, and proprietor wording.
-2. Search post-fire September–December 1922 ads for a transition from Gilbert Miller's signed 209 Fifth ad to later `Miller's Shoe Store` advertising.
+2. Reconstruct the **209 Fifth → 419 Main** move between 21 Sep and 26 Oct 1922 and look for a transition notice naming Gilbert.
 3. Recover the 1921–1922 Polk/gazetteer entry for Gilbert Miller and shoe dealers/repairers.
 4. Use the exact fire-period Post Office bay, if found, to narrow the pre-fire `Opposite Post Office` location without overclaiming precision.
