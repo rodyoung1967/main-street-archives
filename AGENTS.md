@@ -126,5 +126,6 @@ If evidence changes:
 - Mitch Young, Mitchell Young, Mitch C. Young, and Mitchell C. Young are the same person (`P-011` / `P-018`).
 - Sheila Wiitanen died in 2014. Wiitanen ownership of 505 Main continued through Richard / Dick Wiitanen's death in November 2024.
 - After Dick's death, 505 Main passed to Rodney Young and Mitchell Young through his estate; current ownership/stewardship is through 505 LLC. Probate/deed documentation remains desirable.
+- `P-019` is **Alin Guria**, the current 505 lessee and current operating-business owner. Earlier **Alan** and **Alan / Alin** wording was a project typo and is superseded. Do not confuse this business/lease role with ownership of the 505 real estate by 505 LLC.
 - Property ownership, business ownership, business operation, and liquor-license ownership are separate questions.
 - Sanborn maps are primary map sources for footprint, materials, street layout, and address numbering, but map readings still require careful transcription and symbol interpretation.

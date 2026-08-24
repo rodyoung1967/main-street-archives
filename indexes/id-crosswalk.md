@@ -78,7 +78,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-014` Rodney Young | `B-002`, archive steward | Inherited 505 Main with Mitchell Young from Dick Wiitanen's estate after Nov. 2024; co-owner through 505 LLC. |
 | `P-018` Mitchell C. Young | `B-002`, `BUS-005` | Same person as P-011; legal/lease form of the name; 505 LLC managing member. Son of the Wiitanens; acquired the already-named 505 Tavern in March 1991. Inherited 505 with Rodney after Dick's death. |
 | `P-034` Henry Brightbill | `B-001` | Merchant with a store at 503 Main in 1908 (`E-042`). |
-| `P-019` Alan / Alin Guria | `B-002`, `E-018`, `S-011` | Current lessee. Lease spelling Alin; steward confirmation Alan. |
+| `P-019` Alin Guria | `B-002`, `BUS-006`, `E-018`, `S-011` | Current lessee and operating-business owner. Earlier Alan / dual-spelling wording was a project typo. Not a 505 real-estate owner. |
 | `P-020` Skyline Property Management | `B-002`, `E-018`, `S-011` | 2025 lease property manager / authorized agent. |
 
 ## Maintenance Rule

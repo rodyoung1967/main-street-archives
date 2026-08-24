@@ -189,7 +189,7 @@ High-priority people/entities:
 - Mike Berman — later 505 Tavern owner / seller in 2017
 - Scott Forvilly — purchased and reopened as Thirsty Duck in 2017
 - Rodney Young — current 505 co-owner with Mitchell Young through 505 LLC / project steward
-- Alan / Alin Guria — current 505 lessee (lease spelling Alin; steward confirmation Alan)
+- Alin Guria — current 505 lessee and operating-business owner; earlier **Alan** / dual-spelling wording was a project typo
 - Skyline Property Management — property manager / authorized agent
 - George A. Harding — Harding Building / Harding Drug Store context
 - Dr. Bailey — dentist upstairs in Harding Building in 1909

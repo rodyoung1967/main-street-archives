@@ -20,7 +20,7 @@
 | P-016 | Grisham family | Family history context | Grandmother's second marriage was Grisham (`P-006` Raye Grisham). |
 | P-017 | Wiitanen family | Family history context | User's mother Sheila and stepfather Richard / Dick were Wiitanens. At 505, their Brass Rail operation preceded their later purchase of the building. |
 | P-018 | Mitchell C. Young | 505 LLC managing member / 505 Tavern operator | Same person as `P-011` Mitch Young. Legal/lease form of the name. Inherited 505 Main with Rodney from Dick's estate; ran 505 Tavern 1991-2004. |
-| P-019 | Alan / Alin Guria | Current lessee | Current lessee of 505 Main as of August 2026. 2025 lease spelling is **Alin Guria**; steward confirmation uses **Alan**. Preserve both. Operating business is Thirsty Duck. |
+| P-019 | Alin Guria | Current lessee / operating-business owner | Current lessee and operating-business owner at 505 Main as of August 2026. The signed 2025 lease and project-steward correction both use **Alin Guria**. Earlier **Alan** / dual-spelling wording was a project typo and is superseded. This role is separate from ownership of the 505 real estate by 505 LLC. |
 | P-020 | Skyline Property Management | Property manager / authorized agent | Property manager and authorized agent in 2025 commercial lease for 505 Main Street. |
 | P-021 | LaFarlette family | Family history context | Grandmother's first marriage. Archive previously used "Lafarlette"; Historical Society v5 uses **LaFarlette**. Preserve both spellings until deeds prove one form. |
 | P-022 | Floyd LaFarlette | First husband of Raye; The Wheel context | Family history identifies Floyd and Raye LaFarlette with The Wheel. Exact operating dates pending. |

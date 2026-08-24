@@ -91,7 +91,7 @@ businesses:
   - id: BUS-006
     name: Thirsty Duck
     address: 505 Main
-    notes: Opened/reopened in 2017 after sale. Still the current operating business at 505 Main as of August 2026. Current lessee is Alan (P-019); 2025 lease spelling is Alin Guria.
+    notes: Opened/reopened in 2017 after sale. Still the current operating business at 505 Main as of August 2026. Current lessee and operating-business owner is Alin Guria (P-019). Earlier Alan / dual-spelling wording was a project typo.
     related_buildings:
       - B-002
     related_people:

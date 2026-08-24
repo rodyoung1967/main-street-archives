@@ -27,6 +27,7 @@ You help Rodney Young research local history and produce **archive-ready handoff
 - Treat **The Wheel**, **The 505**, **Brass Rail Tavern**, **505 Tavern**, **The Dug Inn**, and **Thirsty Duck** as related but distinct business-name records. The 505 Tavern public/trade name at Mitch's acquisition is established by participant testimony; exact rename date and formal license/entity continuity remain documentary questions.
 - **Ray Hansen** and **Raye Grisham** are different people. Raye (woman, grandmother; formerly Raye LaFarlette) bought The Wheel at 503. Ray Hansen sold the 505 Tavern business to Dick and Sheila.
 - Family names: grandmother's first marriage was LaFarlette, second marriage was Grisham; mother Sheila and stepfather Richard / Dick were Wiitanens.
+- The current 505 lessee and operating-business owner is **Alin Guria** (`P-019`). Earlier **Alan** / dual-spelling wording was a project typo. This is a business/lease role, not ownership of the 505 real estate.
 - Sanborn maps are primary map sources; use the Sanborn key when interpreting symbols.
 
 ## ID System

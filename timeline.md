@@ -172,4 +172,4 @@ Sheila Wiitanen died in 2014.
 Richard / Dick Wiitanen died in November 2024. Family history says 505 Main passed to Rodney Young and Mitchell Young through his estate.
 
 ## July 1, 2025-June 30, 2030
-The 2025 lease documents 505 LLC as lessor and Alin Guria as lessee for 505 Main.
+The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 Main. Project-steward clarification confirms Alin is also the current operating-business owner; earlier **Alan** wording was a typo. The 505 real estate remains separately owned through 505 LLC.

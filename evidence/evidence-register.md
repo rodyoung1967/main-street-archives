@@ -94,10 +94,10 @@ Related media: `IMG-0005`
 Confidence: High as trusted internal project metadata for what Time Capsule Maps records; original image/source details should still be cited when making external historical claims.
 
 ## E-018 — 505 Commercial Lease, 2025
-Type: Current administrative/legal record  
-Claims: 505 LLC leased 505 Main Street, Oregon City, to Alin Guria for a primary term from July 1, 2025 through June 30, 2030; base rent $2,700/month; use is Restaurant/Bar; lease includes NNN-style additional rent, taxes/assessments, utilities, insurance, liquor liability, OLCC/permit obligations, and Skyline Property Management as property manager/authorized agent.  
+Type: Current administrative/legal record plus direct project-steward correction  
+Claims: 505 LLC leased 505 Main Street, Oregon City, to **Alin Guria** for a primary term from July 1, 2025 through June 30, 2030; base rent $2,700/month; use is Restaurant/Bar; lease includes NNN-style additional rent, taxes/assessments, utilities, insurance, liquor liability, OLCC/permit obligations, and Skyline Property Management as property manager/authorized agent. Project-steward clarification on **24 August 2026** confirms that **Alin** is the correct first name, earlier **Alan** / dual-spelling wording was a project typo, and Alin is the current operating-business owner as well as lessee. This role is separate from ownership of the 505 real estate by 505 LLC.  
 Related record: `records/505-commercial-lease-2025.md`  
-Confidence: Very High for current lease facts shown in the lease document; not evidence for earlier business names.
+Confidence: Very High for lease facts and spelling shown in the signed lease; High as direct current-steward confirmation for the operating-business-owner role; not evidence for earlier business names.
 
 ## E-019 — Family Name / Death-Date Correction
 Type: Project correction / direct user clarification  

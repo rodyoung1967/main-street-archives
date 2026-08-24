@@ -299,12 +299,14 @@ evidence:
 
   - id: E-018
     name: 505 Commercial Lease, 2025
-    type: Current administrative/legal record
+    type: Current administrative/legal record plus direct project-steward correction
     claims:
       - 505 LLC leased 505 Main Street to Alin Guria for July 1, 2025 through June 30, 2030.
       - Base rent $2,700/month; restaurant/bar use.
       - Skyline Property Management as property manager/authorized agent.
-    confidence: Very High for current lease facts shown in the lease document; not evidence for earlier business names.
+      - Project-steward clarification on 24 August 2026 confirms Alin is the correct first name; earlier Alan / dual-spelling wording was a project typo.
+      - Alin Guria is the current operating-business owner as well as lessee; this role is separate from ownership of the 505 real estate by 505 LLC.
+    confidence: Very High for lease facts and spelling shown in the signed lease; High as direct current-steward confirmation for the operating-business-owner role; not evidence for earlier business names.
     related_sources:
       - S-011
     related_people:

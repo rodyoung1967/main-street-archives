@@ -24,4 +24,4 @@ This register tracks reported, documented, and open ownership or stewardship cla
 | 2017 permit | 505 Main | Richard Martin Wiitanen, co-trustee | Listed real-estate owner | `E-035` | Very High | Confirms continuing property ownership. |
 | Nov. 2024 / Richard's estate | 505 Main | Rodney Young and Mitchell Young | Inherited 505 real estate | `E-009`, `E-022`, `E-038` | High family | Probate/deed citation still desirable. |
 | By 2025 | 505 Main | Rodney Young and Mitchell Young / 505 LLC | Joint building ownership | `E-009`, `E-018` | High family + current lease | Current stewardship vehicle. |
-| July 2025-June 2030 | 505 Main | Alan / Alin Guria | Current lessee | `E-018` | Very High for lease | Operating business is Thirsty Duck. |
+| July 2025-June 2030 | 505 Main | Alin Guria | Current lessee / operating-business owner | `E-018` | Very High for lease and spelling; High steward confirmation for business-owner role | Operating business is Thirsty Duck. Earlier Alan / dual-spelling wording was a project typo. Real-estate ownership remains with 505 LLC. |

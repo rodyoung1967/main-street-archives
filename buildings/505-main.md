@@ -100,7 +100,7 @@ Do not use **"The Wheel Tavern"** as an alternate name for 505 or 503. Family co
 - `E-008` - Scott Forvilly purchased in 2017 and reopened as Thirsty Duck.
 - `E-035` - 2017 permit lists Richard Martin Wiitanen as co-trustee/owner of the **real estate**, confirming continuing property ownership but not tavern operation.
 - `E-009` / `E-022` / `E-038` - Richard died in November 2024; the 505 real estate passed to Rodney Young and Mitchell Young as part of his estate.
-- `E-018` - 2025 commercial lease: 505 LLC lessor; lessee **Alan** (`P-019`; lease spelling Alin Guria).
+- `E-018` - 2025 commercial lease: 505 LLC lessor; **Alin Guria** (`P-019`) lessee. Current steward clarification also identifies Alin as the operating-business owner; earlier **Alan** wording was a typo.
 
 ## Physical Building / Footprint Notes
 
@@ -126,7 +126,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 | ID | Business | Status |
 | --- | --- | --- |
 | `BUS-005` | [505 Tavern](../businesses/the-505.md) | 505 business; 1965/1972 liquor records; renamed 505 Tavern by the Wiitanens before Mitch acquired and ran it, 1991-2004. |
-| `BUS-006` | Thirsty Duck | Opened/reopened in 2017; still the current operating business as of August 2026. Current lessee: Alan (`P-019`). |
+| `BUS-006` | Thirsty Duck | Opened/reopened in 2017; still the current operating business as of August 2026. Current lessee and operating-business owner: Alin Guria (`P-019`). |
 | `BUS-009` | [The 505](../businesses/the-505.md) | Earlier archive handling label; keep for cross-reference. |
 | `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Dick and Sheila operated Brass Rail before they owned the 505 building; later 1988 record connects the former Brass Rail to The Dug Inn. |
 
