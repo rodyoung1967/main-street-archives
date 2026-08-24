@@ -1,63 +1,76 @@
 # May & Washburn — 1920–1922 continuity and Fifth Street garage implications
 
-Status: **verified business continuity; exact street number and partner identities unresolved**
+Status: **verified business continuity; exact street number and partner identities unresolved; 108 Fifth inheritance hypothesis substantially weakened**
 
-Purpose: distinguish the existence of the May & Washburn partnership from the specific Fifth Street frame garage destroyed in July 1922. This distinction matters for dating the Oregon City Laundry photograph that may show MAY/GARAGE signage.
+Purpose: distinguish the existence of the May & Washburn partnership from the specific Fifth Street frame garage destroyed in July 1922. This distinction matters for reconstructing the fire cluster and dating photographs.
 
 ## Verified chronology
 
-- **17 Dec 1920, Oregon City Enterprise** — May & Washburn appears in Clackamas County road-payment records. The actual scanned page has been visually inspected, moving the proven lower bound for the partnership back to **December 1920**.
+- **17 Dec 1920, Oregon City Enterprise** — May & Washburn appears in Clackamas County road-payment records. The actual scanned page has been visually inspected.
   - https://oregonnews.uoregon.edu/lccn/sn00063700/1920-12-17/ed-1/seq-7.pdf
 
 - **29 Apr 1921, Oregon City Enterprise** — May & Washburn again appears in Clackamas County road-payment records.
   - https://oregonnews.uoregon.edu/lccn/sn00063700/1921-04-29/ed-1/seq-7/
 
-- **29 Jun 1922, Banner-Courier** — May and Washburn again appears in county road-district expenditures.
+- **29 Jun 1922, Banner-Courier** — May and Washburn appears in county road-district expenditures.
   - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-8/
 
 - **20 Jul 1922, Banner-Courier** — the major Fifth Street fire destroyed the **frame garage of May & Washburn**, including two automobiles, together with Oregon City Laundry and several neighboring Fifth Street businesses.
   - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
-- **26 Oct 1922, Banner-Courier** — May & Washburn again appears in county expenditure records, proving the partnership continued in business after the July fire.
+- **26 Oct 1922, Banner-Courier** — May & Washburn appears again in county expenditure records, proving the partnership continued after the fire.
   - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-5/ocr/
 
-## Scripture & May predecessor lead at 108 Fifth
+## Scripture / 108 Fifth correction
 
-A visually reviewed **5 Oct 1916 Oregon City Courier** advertisement gives:
+Earlier project work identified:
 
-- **Scripture & May — 108 Fifth St.**
+- **Scripture & May — 108 Fifth St.** in 1916 and 1918;
+- partners reported as **S. F. Scripture and L. E. May**;
+- May & Washburn existing separately by Dec 1920.
 
-A 1917 Courier lawsuit report identifies the partners as **S. F. Scripture and L. E. May**. The specific 1917 partner-name item still requires direct page-image verification, so those initials remain **OCR/TEXT ONLY** pending visual confirmation.
+That created a reasonable hypothesis that the later May & Washburn concern may have inherited the 108 Fifth premises.
 
-The archive's 1918 business-guide evidence separately places:
+A newly visually reviewed **Banner-Courier, 8 Jun 1922, p. 7** materially changes that assessment. A business card directly advertises:
 
-- **Scripture & May — 108 Fifth St.**
-- **Oregon City Laundry — 109 Fifth St.**
+- **S. F. Scripture**
+- general blacksmithing and horseshoeing;
+- automobile and truck spring repair;
+- **108 - 5th St. between Main and Water St.**
 
-This creates a promising predecessor chain because by **Dec 1920** May & Washburn exists while **S. F. Scripture** appears separately in county accounts.
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-7.pdf
 
-The natural hypothesis is that **L. E. May may be the `May` in May & Washburn**, potentially continuing part of Scripture & May's Fifth Street business or premises. This is **not yet proven**. No recovered source yet gives May & Washburn's partner names or says it occupied 108 Fifth.
+Verification state: **VISUALLY VERIFIED**.
+
+This places Scripture himself at **108 Fifth only six weeks before the July fire**. Therefore May & Washburn should no longer be treated as a likely default successor occupant of 108 Fifth. A shared-premises or very late transfer is theoretically possible, but there is no evidence for either.
+
+The personnel question remains separate: **L. E. May may still prove to be the May in May & Washburn**, even though the 108 Fifth premises-continuity hypothesis is now weak.
 
 Detailed note:
 `evidence/source-captures/scripture-may-108-fifth-predecessor-lead.md`
 
+## 108 / 109 address caution
+
+The archive separately has **Oregon City Laundry — 109 Fifth St.** in 1918.
+
+Do **not** call 108 and 109 Fifth “side by side” merely because the numbers are consecutive. Historic odd/even address placement and the map geometry need to be explicitly established. The new June 1922 Scripture advertisement proves only that 108 Fifth was **between Main and Water**.
+
 ## Photo-dating implication
 
-The partnership name **May & Washburn** is **not by itself** a reliable upper bound of July 1922 because the business continued after the fire.
+The partnership name **May & Washburn** is not by itself a July 1922 upper bound because the business continued after the fire.
 
-The useful dating clue is the **specific pre-fire frame garage building** that burned in July 1922. If the project laundry photograph can be visually matched to that exact garage facade/building next to the pre-fire laundry, then the image is necessarily **before the July 1922 fire**.
+The useful clue is the **specific pre-fire frame garage** destroyed in July 1922. If a project photograph can be matched to that garage, the image predates the fire.
 
-Current strongest window for a photo that truly shows the pre-fire May & Washburn garage beside Oregon City Laundry is now:
+The business-name bracket remains:
 
-**17 Dec 1920 (partnership visually documented) → July 1922 fire**
+**17 Dec 1920 → July 1922 fire**
 
-This remains a working bracket until the garage facade or exact Fifth Street address is independently identified.
+but the garage's exact address/footprint is still unresolved.
 
 ## 1925 Sanborn context
 
-Direct visual review of **1925 Sanborn Sheet 6** confirms that Oregon City Laundry is again physically present by May 1925 inside the block bounded by **Water, Main, Fifth and Sixth**, on the Fifth Street side behind the Main Street commercial frontage. Higher-resolution review shows the mapped laundry complex spatially behind **both 501 and 503 Main**, extending behind additional frontage as well.
-
-This is post-fire evidence. It does **not** prove that May & Washburn rebuilt on the same footprint, but it gives a fixed post-fire block geometry against which the pre-fire photograph can be compared.
+Direct visual review of 1925 Sanborn Sheet 6 confirms Oregon City Laundry again physically present by May 1925 inside the Water/Main/Fifth/Sixth block, behind the Main Street frontage. This is post-fire evidence and does not identify May & Washburn's destroyed garage footprint.
 
 See:
 `evidence/source-captures/1925-sanborn-sheet-6-fifth-main-water-visual-review.md`
@@ -67,7 +80,7 @@ See:
 1. What exact Fifth Street number did May & Washburn occupy before the July 1922 fire?
 2. Is **L. E. May** of Scripture & May the May in May & Washburn?
 3. Who was the Washburn partner?
-4. Did May & Washburn inherit or continue the **108 Fifth** Scripture & May premises?
-5. Did May & Washburn rebuild on the same site after the fire or relocate?
-6. Does the MAY/GARAGE signage in the project laundry photograph match May & Washburn specifically?
-7. Can the 1925 Sanborn distinguish the destroyed pre-fire garage footprint from any post-fire replacement building?
+4. Did May & Washburn share any premises or equipment with Scripture despite Scripture remaining at 108 Fifth in June 1922?
+5. What happened to S. F. Scripture's 108 Fifth shop during the July fire?
+6. Did May & Washburn rebuild on the same site after the fire or relocate?
+7. Can the project garage signage be matched to May & Washburn specifically?
