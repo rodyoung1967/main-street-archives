@@ -15,6 +15,17 @@ These instructions apply to any AI or automation working on The Main Street Arch
 - Keep raw source files separate from interpretation.
 - Do not use the repository root as permanent raw-source storage.
 
+## Annual Research and Closeout Status
+
+- Follow `RESEARCH-STANDARD.md` for every year-level research pass.
+- Use only these year statuses: **IN PROGRESS**, **ONLINE COMPLETE**, and **ONLINE + MANUAL COMPLETE**.
+- **ONLINE COMPLETE** requires the exhaustive online pass, page-by-page visual review of every online-retrievable newspaper page, integration of findings, and a numbered list of all remaining manual work.
+- **ONLINE + MANUAL COMPLETE** requires ONLINE COMPLETE plus completion or project-steward closure of every manual callout.
+- A documented online retrieval gap may become a manual callout after reasonable recovery attempts; it is never negative evidence.
+- Do not use unqualified wording such as “closed,” “substantially complete,” or “complete enough” in place of the exact status.
+- ONLINE COMPLETE is sufficient to proceed chronologically to the next year.
+- Research-work completion does not imply that every historical question has a surviving answer.
+
 ## Canonical Source-File Placement
 
 Use these destinations for new/integrated source files:
