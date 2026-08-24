@@ -57,6 +57,11 @@ Related capture:
 
 Pantorium is therefore a legitimate business-name candidate to test because it is independently proven to have been an Oregon City cleaning/dyeing concern before the fire.
 
+A newly logged, visually verified **3 Mar 1912 Morning Enterprise** advertisement also proves a separate concern, **Oregon City Dye Works**, operating at **319 Main Street** and offering French dry/steam cleaning, pressing and dyeing. That business has not yet been traced into 1922, but its existence is important methodologically: **Pantorium was not the only cleaning/dyeing business known in Oregon City history**, so business type alone cannot identify the unnamed fire-era tenant.
+
+Related capture:
+`evidence/source-captures/1912-oregon-city-dye-works-319-main.md`
+
 However, the existing evidence does **not** prove that Pantorium was the establishment in the ignition room. Indeed, the local fire report places Pantorium at 519 Main immediately after the fire and uses it as the host location for Oregon City Laundry's temporary office, so the archive must allow for several possibilities:
 
 1. the unnamed ignition-room cleaner was a different cleaning/dyeing business;
@@ -75,19 +80,22 @@ Do not currently claim that:
 - Pantorium moved to 519 Main only days before the fire;
 - Pantorium was at 519 Main before 18 July 1922;
 - Alex Schieremann operated Pantorium;
-- the Eugene report's cleaning-and-dyeing establishment was Pantorium.
+- the Eugene report's cleaning-and-dyeing establishment was Pantorium;
+- Oregon City Dye Works survived to 1922 or occupied the fire-origin room.
 
 ## Confidence
 
 - Pantorium Cleaners was engaged in dry cleaning/dyeing in Oregon City by 25 Jan 1922: **Very High / visually verified**
 - Pantorium was an active Oregon City merchant on 8 Jun 1922: **Very High / visually verified**
 - Pantorium was at 519 Main immediately after the fire: **Very High / visually verified local fire report**
+- Oregon City Dye Works existed separately at 319 Main in Mar 1912: **Very High / visually verified**
 - Pantorium = recent tenant of the fire-origin room: **Unproven hypothesis**
 
 ## Next checks
 
 1. Find an exact pre-18-July-1922 street address for Pantorium.
 2. Identify Pantorium's proprietor(s) in 1921–1922.
-3. Search for other Oregon City cleaners, dyers, pressers and tailoring-cleaning firms in spring/summer 1922.
-4. Search for a move notice involving Pantorium in June or July 1922.
-5. Test whether any Pantorium proprietor or employee can be linked directly to Alex Schieremann or S. Wolf's property.
+3. Trace Oregon City Dye Works and its proprietors forward through 1915–1922.
+4. Search for other Oregon City cleaners, dyers, pressers and tailoring-cleaning firms in spring/summer 1922.
+5. Search for a move notice involving Pantorium in June or July 1922.
+6. Test whether any cleaner/dyer proprietor or employee can be linked directly to Alex Schieremann or S. Wolf's property.
