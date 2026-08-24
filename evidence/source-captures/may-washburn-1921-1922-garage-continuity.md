@@ -30,6 +30,15 @@ Current strongest window for a photo that truly shows the pre-fire May & Washbur
 
 This remains a working bracket until the garage facade or exact Fifth Street address is independently identified.
 
+## 1925 Sanborn context
+
+Direct visual review of **1925 Sanborn Sheet 6** confirms that Oregon City Laundry is again physically present by May 1925 inside the block bounded by **Water, Main, Fifth and Sixth**, on the Fifth Street side behind the Main Street commercial frontage.
+
+This is post-fire evidence. It does **not** prove that May & Washburn rebuilt on the same footprint, but it gives a fixed post-fire block geometry against which the pre-fire photograph can be compared.
+
+See:
+`evidence/source-captures/1925-sanborn-sheet-6-fifth-main-water-visual-review.md`
+
 ## Open questions
 
 1. What exact Fifth Street number did May & Washburn occupy before the July 1922 fire?
