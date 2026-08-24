@@ -85,19 +85,50 @@ https://oregonnews.uoregon.edu/lccn/sn00063701/1913-06-06/ed-1/seq-1/ocr/
 
 Current date bracket from Price Bros. alone: **no later than early 1918**, assuming the storefront identification is correct.
 
-## Oregon City Laundry anchor
-
-A separate early newspaper reference helps establish the laundry's earlier location history:
+## Oregon City Laundry anchors
 
 - **5 Jan 1912, Oregon City Courier** — Oregon City Laundry, Blakeslee & Son proprietors, described as **Main Street near 3rd**.
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/
+- A modern ODOT/City historical corridor study states that the **1925 Sanborn** shows the **Oregon City Laundry on the east side of 5th Street between Water and Main**.
+  - https://www.orcity.org/DocumentCenter/View/12817/Tech-Memo-6-Most-Promising-Alternatives
+- The same study states that by **1943**, 5th Street had been realigned and the Oregon City Laundry had been **relocated** as the riverfront/highway area was redeveloped.
+- The live TimeCapsuleMaps Supabase database contains a later Oregon Laundry record at **5th & Water**, with source metadata pointing to the Clackamas County Historical Society catalog, object ID **B.0150.000179**. That record currently carries a working date around 1935 and remains marked `needs_identification`.
 
-The live TimeCapsuleMaps Supabase database also contains a later Oregon Laundry record at **5th & Water**, with source metadata pointing to the Clackamas County Historical Society catalog, object ID **B.0150.000179**. That record currently carries a working date around 1935 and remains marked `needs_identification`.
+### Dating implication
+
+A photograph showing the laundry in the older east-side-of-5th location is consistent with the **1925–pre-1943** configuration. Architectural and road-alignment comparison should be used to narrow further.
+
+## American Cleaners / postwar Fifth & Main anchor
+
+A restored photograph identified as **5th & Main, Oregon City, 1957** shows the storefronts at the intersection and specifically identifies **American Cleaners** in the building. The accompanying description says that building still stands, although extensively modernized.
+
+Source:
+https://yesterdaystrails.wordpress.com/2019/03/08/tn189-oregon-city-or-intersection-of-5th-main-st-1957/
+
+A City/ODOT historical corridor study summarizes directory listings for **502/506 Main** as **Midway Cleaners / Pat's American Cleaners / American Cleaners** from **1953 through 1992**.
+
+Source:
+https://www.orcity.org/DocumentCenter/View/12817/Tech-Memo-6-Most-Promising-Alternatives
+
+### Dating implication
+
+A Fifth/Main photograph visibly showing the American Cleaners storefront can be securely placed in the **postwar period**, with directory evidence beginning by **1953** and a firm dated photographic anchor in **1957**.
+
+## Historical Society catalog leads
+
+The Clackamas County Historical Society CatalogIt collection contains directly dated Oregon City street/parade images and should be treated as a major matching source. Useful examples found during this pass include:
+
+- **Oregon City July 4th Parade, 1905**, object **2008.008.005.007**, at 10th & Main.
+- **Oregon City 1910 - 7th and Main St., Entry to Suspension Bridge**, object **2008.008.001.553**.
+- **Oregon City Suspension Bridge, 7th & Main Street, 1909**, object **2008.008.048.061**.
+- **Oregon City 1912 - from 7th Street on the Bluff**, object **2008.008.048.036**.
+
+These confirm the collection has high-resolution negatives/prints with exact catalog identifiers and dates and make an exact match for the Fifth/Main parade image plausible.
 
 ## Next checks
 
 1. Compare the parade image's actual participants/vehicles to the 1912 and 1913 event descriptions.
 2. Search 1910–1917 Rose Show coverage for published parade photographs or captions.
-3. Search historical-society catalogs for the handwritten-caption image and exact object number.
-4. Date other uploaded Fifth Street images using visible businesses such as Oregon City Laundry, Burleigh's, and American Cleaners.
+3. Search the Historical Society CatalogIt collection for the handwritten-caption Fifth/Main image and exact object number.
+4. Date remaining uploaded Fifth Street images using visible businesses and road geometry.
 5. Keep the city's `c.1919` / `c.1920` building dates as approximate survey estimates until the photographic sequence can independently bracket replacement/reconstruction.
