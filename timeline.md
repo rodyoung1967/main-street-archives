@@ -145,6 +145,17 @@ ODOT's 2021 cultural-resources table dates the **present Harding Building at 507
 ## March 1972 — 505 Tavern liquor renewal
 Commission minutes again list **505 Tavern** on a liquor-license renewal agenda (`E-029` / `S-039`).
 
+## 1973–1987 — Brass Rail / Hansen→Wiitanen interval (partial anchors only)
+
+A targeted August 2026 online pass (`evidence/source-captures/1973-1987-503-505-research-pass.md`) recovered **no new primary municipal or directory record** naming **Brass Rail**, **Ray Hansen**, or the Wiitanen **505 building purchase** inside this interval. Existing anchors within or immediately adjacent to the period are:
+
+- **Feb. 1976** — **505 Tavern** classified at Oregon City, phone **655-4321** (`E-046` / `S-053`).
+- **Apr. 1983** — **Wheel Cafe** named as a downtown lunch landmark (`E-047`).
+- **Apr.–Aug. 1985** — **The Wheel Cafe, 503 Main St.**; **Richard M. Wiitanen** named owner (`E-048`, `E-049`).
+- **2009 resurvey form** — **505 Main** primary construction date **1940**; name line **505 Tavern** (`E-100` / `S-116`).
+
+Synergy commission-minute PDFs and Polk Oregon City directories for **1973–1987** remain **manual callouts** (`RL-041`). Absence of online hits is coverage only, not evidence that Brass Rail or Hansen did not exist in this period.
+
 ## Family context: LaFarlette / Grisham / Wiitanen
 **Raye LaFarlette and Raye Grisham are the same woman.** Raye bought **The Wheel at 503 Main**. The Wheel was only at 503.
 

@@ -39,6 +39,8 @@ Status: Partially answered.
 
 Family history establishes that **Dick and Sheila ran Brass Rail at 505 before owning the 505 building**. They later purchased that building from a woman remembered as **Mrs. Nesmeth / Nemeth**. After a later repossession/control interval, they renamed the business **505 Tavern** before selling it to Mitch in March 1991. Still open: exact Hansen-to-Wiitanen business transfer, Brass Rail start/rename date, 505 property-purchase date, seller spelling, later repo/default intervals, and the exact date/formal paperwork for the pre-Mitch 505 Tavern rename.
 
+An August 2026 targeted online pass for **1973–1987** (`evidence/source-captures/1973-1987-503-505-research-pass.md`, `RL-041`) recovered no new primary record naming Brass Rail or Hansen in that interval. Existing anchors are **505 Tavern** Feb. 1976 (`E-046`), **Wheel Cafe** at 503 in 1983–1985 (`E-047`–`E-049`), and **Dug Inn formerly Brass Rail** Apr. 1988 (`E-030`).
+
 ## OQ-012 — Ray Hansen / Raye Grisham
 Status: Answered as to identity; dates still open. They are different people and belong to separate 505/503 histories.
 

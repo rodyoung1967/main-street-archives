@@ -160,3 +160,14 @@ Test two explicit models rather than choosing from the 1925 Sanborn use pattern:
 2. Gates's two Main-facing stores become modern 501+503; Wolf remainder begins around 505, shifting the ignition candidate north.
 
 Retrieve the July deed(s), grantor/grantee index, August building permit/plans, assessment change, fire-insurance record, and the first exact-address tenants of the two Gates rooms. Preserve the possibility of changed entrances, subdivision, or post-fire footprint. Do not exclude 501 until the July restaurant location is directly mapped.
+
+## RL-041 — 1973–1987 Municipal, Directory, and OLCC Follow-Up for Brass Rail / Hansen→Wiitanen
+Complete the interval work started in `evidence/source-captures/1973-1987-503-505-research-pass.md`. Highest-value targets:
+
+1. **Synergy / ORMS City Commission minutes, 1973–1987** — liquor-license renewals and change-of-ownership applications naming **505 Tavern**, **Brass Rail**, **503 Main**, **505 Main**, **Wheel**, **Wiitanen**, or **Hansen**.
+2. **Polk's Oregon City directories, 1973, 1975, 1977, 1979, 1980, 1981, 1983, 1985, 1987** — street-guide and alphabetical entries for **501–511 Main** and the businesses above.
+3. **OLCC historical license files** for **505 Main** applicants/operators in the interval.
+4. **Clackamas Recorder deeds** — Mrs. **Nesmeth / Nemeth** → Wiitanen **505** purchase and any **503** Wiitanen building transaction in the same years.
+5. **Oregonian / Oregon Journal microfilm, 1973–1987** where committed clippings and oregonnews access are insufficient.
+
+Preserve the family framework: Dick and Sheila **operated Brass Rail before owning the 505 building**; Hansen belongs to the earlier **505 business** chain; The Wheel belongs only to **503**. Documented interval anchors already include **505 Tavern** in Feb. 1976 (`E-046`), **Wheel Cafe** at 503 in 1983–1985 (`E-047`–`E-049`), and **Dug Inn formerly Brass Rail** in Apr. 1988 (`E-030`).

@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
 - Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`
-- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`
+- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-116`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -55,7 +55,9 @@ A **2021 cultural-resources baseline report** for the Oregon City-West Linn brid
 Source:
 https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
 
-These estimates conflict by roughly twenty years. The 2000 c.1920 date now has direct visual verification in the underlying City report, but that does not by itself prove the estimate is historically correct.
+The **2009 Oregon Historic Site Form** resurvey (`S-116` / `E-100`) independently lists **primary construction date 1940** and **505 Tavern** as the current/other name line, corroborating the ODOT date from an earlier official survey record.
+
+These estimates conflict by roughly twenty years with the c.1920 city synthesis (`S-033`). The 2000 c.1920 date now has direct visual verification in the underlying City report, but that does not by itself prove the estimate is historically correct.
 
 ### 1925 Sanborn — visually verified structure/use at 505
 
