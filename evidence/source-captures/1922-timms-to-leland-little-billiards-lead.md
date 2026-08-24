@@ -52,14 +52,28 @@ The June page still establishes that **Timms Pool Hall was a separately named bu
 
 No address is printed for Timms Pool Hall, Walter Little, or O. H. Leland in the recovered roster.
 
-## Walter Little context
+## Walter Little / W. L. Little identity lead
+
+A later Clackamas County legal notice, printed in the **Sandy Post, 22 Aug 1940**, names **WALTER L LITTLE** as a plaintiff. This independently establishes that the long-time Oregon City Walter Little used the middle initial **L**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/2024240281/1940-08-22/ed-1/seq-4/
+
+A July 1921 county-court expense list separately contains **W. L. Little**, and the February 1922 Portina dealer list contains **Little, W. L.**. The June 1922 merchant roster names **Walter Little**.
+
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1921-07-01/ed-1/seq-4/
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1922-02-25/ed-1/seq-15.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
+
+This makes **`W. L. Little` / `Little, W. L.` = Walter L. Little** a strong identity inference. It is not yet a direct source-explicit equation for the February dealer entry, so the archive should retain the distinction until a directory, license, or other record gives the full name in the same business context.
 
 Oregon City's historic inventory for the Walter Little Building at **512 7th Street** says Little bought the property in 1898 and by 1909 operated a confectionery/ice-cream business there.
 
 City source:
 https://orcity.org/2126/512-7th-Street
 
-This provides an independently documented earlier business identity for Walter Little. It does not establish whether **W. L. Little** in the February dealer list is Walter Little, although that is a plausible identity lead requiring corroboration.
+This provides an independently documented earlier business identity for Walter Little but does not establish whether his 1922 billiards involvement, if any, occurred at 512 7th or elsewhere.
 
 ## 17 August 1922 — Leland and Little, Billiards visually verified
 
@@ -106,7 +120,7 @@ At present there is still no direct evidence that:
 - Leland & Little was at 505 Main;
 - Timms became Leland & Little;
 - O. H. Leland and Walter Little are definitely the partners in Leland & Little;
-- `Little, W. L.` in February is definitely Walter Little;
+- `Little, W. L.` in February is definitely Walter L. Little, although the name evidence now strongly favors that identification;
 - either Timms or Leland & Little was the pool hall adjoining Schieremann in July 1922.
 
 ## Multiple-pool-hall caution
@@ -138,6 +152,8 @@ https://www.orcity.org/DocumentCenter/View/11782/1963-Oregon-City-Municipal-Code
 - June 1922 page visually reviewed: **Very High**
 - Timms Pool Hall appears in June 1922 merchant roster: **Very High**
 - Walter Little and O. H. Leland appear separately from Timms in same June roster: **Very High**
+- Walter Little's middle initial was L: **High**
+- `W. L. Little` / `Little, W. L.` = Walter L. Little: **Strong inference / not yet same-context explicit proof**
 - Leland & Little identified as a billiards business on 17 Aug 1922 scanned page: **Very High**
 - Leland & Little was a pre-fire billiards business specifically, rather than merely a cigar-dealing concern in February: **Plausible / not directly proven until an earlier billiards descriptor is found**
 - Leland & Little = 1925 505 Main billiards/cigars: **Strong functional/geographic lead / unproven**
@@ -150,6 +166,6 @@ https://www.orcity.org/DocumentCenter/View/11782/1963-Oregon-City-Municipal-Code
 1. Retrieve Oregon City council minutes, pool-hall license applications, and permits from late 1921 through 1923.
 2. Find an exact-address advertisement or directory entry for **Leland & Little**.
 3. Find a partnership record explicitly identifying Leland & Little's partners.
-4. Identify **W. L. Little** and determine whether he is Walter Little.
+4. Obtain a same-context record equating **W. L. Little** with Walter L. Little.
 5. Search for advertisements or legal notices giving Timms Pool Hall a street address.
 6. Test whether Leland & Little bridges directly to the billiards/cigars occupancy at 505 Main on the 1925 Sanborn.
