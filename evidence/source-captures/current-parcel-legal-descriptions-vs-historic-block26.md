@@ -1,6 +1,6 @@
 # Current parcel legal descriptions vs. historic Block 26 — 503/505/507 Main
 
-Status: **current parcel identifiers recovered; historic plat relationship unresolved**
+Status: **current parcel identifiers recovered; original Block 26 geography independently confirmed; later Block 4 relationship unresolved**
 
 Purpose: preserve the current legal/tax parcel descriptions for 503, 505, and 507 Main and prevent them from being silently conflated with the archive's older 1906 `Block 26` reconstruction.
 
@@ -84,51 +84,81 @@ Sources:
 
 This is another warning that **current tax parcels can span or combine multiple historic storefront addresses**. Current parcel boundaries therefore cannot be projected backward one-for-one onto the 1906 or 1925 storefront sequence.
 
-## Historic Block 26 evidence remains real
+## Historic Block 26 evidence remains real — now independently confirmed
 
-The archive also has direct 1906 evidence in `E-064` that the William Tell Hotel at **Sixth & Main** was conveyed as **Lot 8, Block 26, Oregon City**.
+The archive has direct 1906 evidence in `E-064` that the William Tell Hotel at **Sixth & Main** was conveyed as **Lot 8, Block 26, Oregon City**.
 
-`E-064` is based on contemporaneous realty-transfer reporting and the matching William Tell/Gambrinus sale at Sixth & Main. Therefore `Block 26` should **not** simply be deleted as an error.
+`E-064` is based on contemporaneous realty-transfer reporting and the matching William Tell/Gambrinus sale at Sixth & Main. Therefore `Block 26` should **not** be deleted as an error.
 
 See:
 `evidence/E-064-1906-william-tell-hotel-block26.md`
 
+A separate **23 Oct 1913 Morning Enterprise** legal description independently confirms the original block geography. In tracing a boundary, it runs south along the west side of **Blocks 7, 6, 5 and 4 to the southerly line of Fifth Street**, then runs east along Fifth to **Block 26**, and then north through Block 26 to the southerly line of Sixth Street.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8/ocr/
+
+This establishes with high confidence that in the **original/historic Oregon City block-numbering system**:
+
+- original **Block 4** lay on the opposite side of Fifth Street from Block 26;
+- original **Block 26** occupied the Fifth-to-Sixth block relevant to the 501/503/505/507 Main frontage.
+
+Therefore the current `(2) OREGON CITY, Block 4` descriptions for 503/505 **cannot be interpreted as the same original Block 4** referenced in the 1913 source. A later or alternate cadastral/assessment description is definitely involved.
+
+## OHS title-abstract bridge
+
+The Oregon Historical Society's **MSS 1503 Title Abstracts Index** contains a highly relevant entry:
+
+- **Box 19**
+- **Block 4, Lots 3 & 4, Oregon City**
+- Clackamas County / Oregon City
+- street address: **Main St., 5th St.**
+
+Index:
+https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
+
+This closely overlaps the modern Block 4 / Lots 3–4 descriptions for 503/505 and may provide the title-chain bridge explaining the later cadastral numbering and the Wolf ownership sequence.
+
+Detailed project lead:
+`evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
+
 ## Current reconciliation problem
 
-We now have two apparently different cadastral descriptions for the downtown Main Street corridor:
+We now have two definitely different cadastral descriptions for the target corridor:
 
-1. **1906 historical system:** William Tell/Gambrinus at Sixth & Main = **Lot 8, Block 26, Oregon City**.
-2. **Current assessor/legal system:** 503–507 Main = subdivision/code **(2) OREGON CITY, Block 4**, portions of Lots 2–4.
+1. **Original/historic system, confirmed 1906 + 1913:** target Fifth-to-Sixth block = **Block 26**.
+2. **Later/current assessor/legal system:** 503–507 Main = subdivision/code **(2) OREGON CITY, Block 4**, portions of Lots 2–4.
 
-The relationship between these systems has **not yet been proven**.
+The existence of the discrepancy is now proven; only the **transition/mechanism** remains unresolved.
 
-Possible explanations include:
+Possible mechanisms include:
 
-- a later replat or resubdivision;
-- a county assessment coding/block system layered over the original town plat;
-- changed block numbering after street/riverfront/highway alterations;
-- the 1906 Block 26 anchor and current Block 4 parcels being in different cadastral layers that overlap geographically.
+- later replat or resubdivision;
+- county assessment coding/block renumbering layered over the original town plat;
+- cadastral restructuring after street/riverfront/highway changes;
+- another recorded title/plat system adopted after the original Oregon City blocks.
 
-Do not use current Block 4 numbering to invalidate the 1906 Block 26 source, and do not use Block 26 as the sole key for a modern parcel lookup until the plat transition is reconstructed.
+Do not use current Block 4 numbering to invalidate the original Block 26 evidence, and do not use original Block 26 as the sole key for a modern parcel lookup.
 
 ## Implication for 1922–1925 tax-roll research
 
-The archival tax-roll request should use multiple identifiers so that the correct property can be found even if the index follows a different cadastral system.
+The archival tax-roll request should use multiple identifiers so the correct property can be found regardless of which cadastral system the roll/index follows.
 
-### Current parcel keys
+### Current/later parcel keys
 
 - **503 Main** — APN 00572650 / tax lot 2-2E-31AB-08200 / `(2) OREGON CITY`, Block 4, part Lot 4.
 - **505 Main** — APN 00572669 / tax lot 2-2E-31AB-08300 / `(2) OREGON CITY`, Block 4, parts Lots 3 & 4.
 - **507 Main** — APN 00572678 / `(2) OREGON CITY`, Block 4, parts Lots 2, 3 & 4.
+- OHS title-abstract key: **MSS 1503 Box 19 — Block 4, Lots 3 & 4 — Main St./5th St.**
 
-### Historical location keys
+### Original/historic location keys
 
 - Main Street frontage between **Fifth and Sixth Streets**;
-- old **Block 26** reconstruction anchor;
-- William Tell/Gambrinus at old **Lot 8, Block 26** on the Sixth/Main end;
+- original **Block 26**;
+- William Tell/Gambrinus at **Lot 8, Block 26** on the Sixth/Main end;
 - target names **S. Wolf**, **Wolf**, and any predecessor owner in 1920/1922/1925 indexes.
 
-This dual-key strategy should reduce the risk of missing the target parcel because of changed plat/block numbering.
+This dual-key strategy should reduce the risk of missing the target parcel because of the later block-numbering change.
 
 ## Source-quality caution
 
@@ -139,12 +169,14 @@ Therefore:
 - current APN/tax-lot identifiers: **high confidence**;
 - current Block 4 / lot wording: **strong lead / high but not yet official-document visually verified for the target parcels**;
 - interpretation of leading `2` as subdivision code `(2) OREGON CITY`: **high confidence based on an official city taxlot-report example**;
-- exact relationship between current Block 4 and historic Block 26: **unresolved**.
+- original Block 26 = Fifth-to-Sixth target block: **very high confidence**, independently supported by 1906 and 1913 primary sources;
+- exact transition from historic Block 26 to later/current Block 4: **unresolved**.
 
 ## Next checks
 
-1. Obtain the official recorded deed/easement legal descriptions for 503 and 505.
-2. Recover the assessor/plat map showing current **(2) OREGON CITY, Block 4 / Lots 2–4**.
-3. Compare that system with the original Oregon City town plat / historic Block 26 system.
-4. Use both current and historic identifiers when requesting the **1922–1925 assessment/tax rolls**.
-5. Determine which historic lot portions correspond to 501/503/505 and the rear Fifth Street laundry/garage footprint.
+1. Retrieve **OHS MSS 1503 Box 19 — Block 4, Lots 3 & 4, Oregon City / Main & Fifth**.
+2. Obtain the official recorded deed/easement legal descriptions for 503 and 505.
+3. Recover the assessor/plat instrument explaining current **(2) OREGON CITY, Block 4 / Lots 2–4**.
+4. Compare that system with the original Oregon City Block 26 plat.
+5. Use both current and historic identifiers when requesting the **1922–1925 assessment/tax rolls**.
+6. Determine which historic lot portions correspond to 501/503/505 and the rear Fifth Street laundry/garage footprint.
