@@ -23,6 +23,8 @@ Sources:
 - https://oregonnews.uoregon.edu/lccn/sn97071002/1915-06-10/ed-1/seq-3/
 - https://oregonnews.uoregon.edu/lccn/sn97071002/1915-06-14/ed-1/seq-3/
 
+A follow-up search for the firm's formation/purchase notice has not yet recovered either partner's full name. The partnership is therefore documented by March 1915, but its precise formation date remains unresolved.
+
 ## 1915–1916 — Gilbert Miller is independently established in Springfield
 
 Separate Springfield newspaper church notices repeatedly identify **Gilbert Miller** as superintendent of the First Baptist Church Bible/Sabbath School in 1915–16.
@@ -49,6 +51,8 @@ Source:
 https://oregonnews.uoregon.edu/lccn/sn97071003/1916-05-29/ed-1/seq-3/
 
 This directly ties the **Miller** partner to the firm's shoe-repair work, consistent with Gilbert Miller's later Oregon City shoe-repair activity.
+
+The direct `Miller` wording is important because it does not depend on the later 1918 move notices for identifying which side of the partnership handled shoe repair.
 
 ## 1916–1917 — expansion beyond harness repair
 
@@ -110,6 +114,19 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 
 This establishes a rapid transition from the Springfield closeout/move in summer 1918 to a Wolf & Miller operation at **505 Main, Oregon City** by October.
 
+### Which partner probably stayed?
+
+The dissolution notice does not explicitly name the Idaho-bound or staying partner. However:
+
+- Gilbert Miller had just been directly documented moving to **Oregon City** in August 1918;
+- he is later documented continuing in Oregon City, including his Fifth Street shoe-repair business by 1922.
+
+The strongest current inference is therefore that **Gilbert Miller was probably the partner who stayed/restocked in Oregon City and the Wolf partner was probably the partner who left for Idaho**.
+
+This remains an inference. Do not upgrade it to a quoted/source-explicit fact without another notice naming the partners.
+
+This inference also weakens the earlier working possibility that **S. Wolf of Portland**, owner of the July 1922 fire-start building, was necessarily the same Wolf partner. Such an identity remains possible only if the Wolf partner later returned from Idaho or if the dissolution notice had another context.
+
 ## What is NOT yet established
 
 The recovered sources still do **not** identify the Wolf partner by first name.
@@ -133,11 +150,13 @@ Do not yet claim:
 | Mar–Jul 1918 | closing-out period | Very High |
 | Aug 1918 | Miller moves to Oregon City; Gilbert identification strongly supported but `C. E. Miller` discrepancy preserved | High–Very High |
 | Oct 1918 | **Wolf & Miller, 505 Main, Oregon City** | Very High |
+| Oct 1918 | Gilbert probably stays; Wolf probably Idaho-bound | Moderate inference |
 
 ## Highest-value next checks
 
 1. Find Wolf & Miller's formation/purchase notice before March 1915 to identify both partners.
 2. Search Springfield business directories, tax/licenses, and legal notices for the Wolf partner's first name.
-3. Identify which partner left for Idaho in October 1918 and which remained in Oregon City.
-4. Test whether that Wolf partner matches **S. Wolf of Portland** in the July 1922 fire record.
-5. Test whether either partner connects to the Wolf family that later survey research says owned 503 Main from about 1922 to 1972.
+3. Find a dissolution/follow-up notice explicitly naming which partner left for Idaho.
+4. Test whether the Wolf partner ever returned from Idaho and whether he matches **S. Wolf of Portland** in the July 1922 fire record.
+5. Prioritize the **1922–1925 Clackamas assessment/tax rolls** for identifying S. Wolf's target parcel independently of the Wolf & Miller business question.
+6. Test whether either partner connects to the Wolf family that later survey research says owned 503 Main from about 1922 to 1972.
