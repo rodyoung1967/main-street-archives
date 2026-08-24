@@ -20,6 +20,20 @@ The article states that:
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
+### Separate same-issue adjacency: Ketchner was next to the laundry
+
+A second item in the **same 20 Jul 1922 Banner-Courier issue**, headed **“Misfortune Calls,”** gives an additional direct spatial relationship not stated as plainly in the main fire narrative. It describes **H. Ketchner as proprietor of the confectionery store “next to the laundry.”**
+
+Verification state: **VISUALLY VERIFIED on the same scanned newspaper page/issue used for the fire report.**
+
+This is useful because it independently fixes another edge in the burned-cluster adjacency graph:
+
+- Ketchner confectionery **adjacent to Oregon City Laundry**;
+- former Schieremann tailor room **adjacent to a pool hall**;
+- fire spread from the Main Street ignition room into the laundry/business cluster.
+
+It still does **not** by itself assign Ketchner, the laundry, ignition room, or pool hall to 501/503/505.
+
 ## June 1922 — S. Wolf has an active Oregon City business connection
 
 A **8 Jun 1922 Banner-Courier** article on the Oregon City Buyers' Carnival names approximately seventy firms/business people backing the Retail Extension Department of the Commercial Club. The list includes:
@@ -199,7 +213,7 @@ However, the combined Wolf/Miller/business/property pattern is now strong enough
 
 ## Fire geometry implication
 
-The Banner-Courier says the fire began in a Main Street store room, with a pool hall adjoining that tailoring establishment, and spread through the Fifth Street laundry/garage/restaurant/shoe-repair cluster. This strongly supports reconstructing the burned area as a connected **Main-to-Fifth commercial zone** rather than treating the laundry and side-street businesses as isolated from the Main frontage.
+The Banner-Courier says the fire began in a Main Street store room, with a pool hall adjoining that tailoring establishment, and spread through the Fifth Street laundry/garage/restaurant/shoe-repair cluster. The separate `Misfortune Calls` item adds that **Ketchner's confectionery was next to the laundry**. This supports reconstructing the burned area as a connected **Main-to-Fifth commercial zone** rather than treating the laundry and side-street businesses as isolated from the Main frontage.
 
 This may help interpret:
 
@@ -209,9 +223,15 @@ This may help interpret:
 - Wolf-family acquisition/rebuilding activity around 1922;
 - the relationship between the 1918 Wolf & Miller business at 505 and later Gilbert Miller/S. Wolf property activity.
 
+## Parcel-numbering caution
+
+Earlier working notes in this project used **Block 26** in some reconstruction threads. Current legal-description evidence for the modern target properties instead places **503 in part of Lot 4, Block 4; 505 in parts of Lots 3 and 4, Block 4; and 507 in parts of Lots 2, 3 and 4, Block 4**. Do not silently equate a historical Block 26 reconstruction with the modern Block 4 legal descriptions; any numbering/plats discrepancy must be explicitly resolved from the applicable plat/source.
+
+For the immediate 1922 ownership search, request the **target 501/503/505 frontage parcels and Block 4/Lots 3–4 records indicated by the current legal descriptions**, while keeping any older Block 26 lead separately documented until reconciled.
+
 ## Next checks
 
-1. **Retrieve the 1922–1925 assessment/tax roll and ownership/index entries for the target Block 26 / 501–505 Main parcels.**
+1. **Retrieve the 1922–1925 assessment/tax roll and ownership/index entries for the target 501–505 Main / Block 4, Lots 3–4 area, while preserving the unresolved historical block-numbering question.**
 2. Identify **S. Wolf of Portland** by full name from the tax/deed/index records.
 3. Identify the `Wolf` partner in **Wolf & Miller** and test whether that person is S. Wolf.
 4. Corroborate Clara Rose Wolf's parents/siblings and look for an S.-initial Wolf sibling/relative in Portland or Oregon City.
@@ -226,6 +246,7 @@ This may help interpret:
 - S. Wolf of Portland owned the building where the July 1922 fire started: **Very High**
 - S. Wolf had an active Oregon City merchant/business connection in June 1922: **High**
 - Fire connected Main Street premises with Fifth Street businesses: **Very High**
+- Ketchner confectionery was next to Oregon City Laundry: **Very High / same-issue primary statement**
 - Gilbert Miller as the Springfield businessman who moved to Oregon City in Aug 1918: **High–Very High**, with a preserved contemporary `C. E. Miller` source conflict
 - Gilbert Miller's 1922 shoe-repair shop was in the same fire cluster: **Very High**
 - Gilbert Miller reopened at 209 Fifth by Sep 1922: **Very High**
