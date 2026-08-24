@@ -14,6 +14,27 @@ Working geometry:
 - GARAGE / auto-work building is on Fifth Street;
 - Oregon City Laundry could therefore be behind the Main Street frontage, roughly behind 501/503 depending on lot depths and footprints.
 
+## Laundry-photo orientation correction
+
+The project has two different laundry photographs in the Time Capsule Maps source package (`04-oregon-city-laundry-co-front.jpg` and `05-oregon-city-laundry-main-street.jpg`). They should **not** be assumed to show the same laundry building.
+
+User visual identification adds an important orientation anchor for the **first laundry photo** (`04-oregon-city-laundry-co-front.jpg`):
+
+- the photograph is **facing West Linn**;
+- the user recognizes a building visible across the Willamette River;
+- therefore the camera is looking **west toward the river / West Linn**.
+
+### Implication
+
+This gives the first laundry photograph a known camera direction independent of uncertain captions. It should be used to determine which side of Fifth Street the photographed laundry occupies by comparing:
+
+1. the position of the laundry relative to the curb/street;
+2. the visible side of Fifth Street in the frame;
+3. the river/West Linn background alignment;
+4. the 1925 Sanborn footprint and the known 108/109 Fifth numbering.
+
+Because there may have been laundry premises on **both sides of Fifth Street**, do not automatically identify every laundry photograph as the later 109 Fifth / east-side building. The first photo's west-facing orientation is now a key discriminator.
+
 ## Fifth Street curb lower bound
 
 `E-059` documents the 1905 Fifth Street improvement across Main, including grading, crushed rock, sidewalks, **concrete curbs**, corner blocks and drains.
@@ -110,6 +131,7 @@ This is stronger than the earlier 1912/1913 working zone unless a direct visual/
 1. Find an exact address or directory listing for **Fifth St. Garage**.
 2. Determine whether the photographed GARAGE facade matches Fifth St. Garage rather than Scripture & May.
 3. Reconstruct Fifth Street numbers 108/109 and Main addresses 501/503 from the 1925 Sanborn.
-4. Search Historical Society CatalogIt for a matching Fifth/Main parade image or Fifth St. Garage image.
-5. Determine when Oregon City Laundry first occupied 109 Fifth.
-6. Keep city survey dates `c.1919` (503) and `c.1920` (505) approximate until independent evidence narrows them.
+4. Separate the two laundry photographs by camera direction and street side; use the first photo's **west-facing** orientation as a fixed anchor.
+5. Search Historical Society CatalogIt for a matching Fifth/Main parade image or Fifth St. Garage image.
+6. Determine when Oregon City Laundry first occupied 109 Fifth and identify the second laundry location.
+7. Keep city survey dates `c.1919` (503) and `c.1920` (505) approximate until independent evidence narrows them.
