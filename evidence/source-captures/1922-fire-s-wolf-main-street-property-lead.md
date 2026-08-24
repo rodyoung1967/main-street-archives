@@ -1,8 +1,8 @@
 # 1922 Fifth/Main fire — S. Wolf Main Street property lead
 
-Status: **high-value lead; identity/property link not yet proven**
+Status: **PROPERTY-ACQUISITION SEQUENCE VISUALLY VERIFIED; DEED, IDENTITY, AND MODERN-STOREFRONT MAPPING UNRESOLVED**
 
-Purpose: preserve the potentially important connection between the July 1922 Fifth/Main-area fire, a Main Street building owned by **S. Wolf of Portland**, the earlier **Wolf & Miller** business at 505 Main, Gilbert Miller's later Fifth Street shoe-repair shop, the June 1922 Oregon City merchant roster, and the later historic-inventory statement that the **Wolf family owned 503 Main from about 1922 to 1972**.
+Purpose: preserve the property sequence around the July 1922 Fifth/Main-area fire and the still-unresolved identity links among **S. Wolf of Portland**, the earlier **Wolf & Miller** business at 505 Main, Gilbert Miller's shoe-repair shop, and the later historic-inventory statement that the **Wolf family owned 503 Main from about 1922 to 1972**.
 
 ## Primary fire source
 
@@ -33,6 +33,32 @@ This is useful because it independently fixes another edge in the burned-cluster
 - fire spread from the Main Street ignition room into the laundry/business cluster.
 
 It still does **not** by itself assign Ketchner, the laundry, ignition room, or pool hall to 501/503/505.
+
+## 13 July 1922 — Harding property sold to S. Wolf and C. Gates
+
+The page-one scan of the **13 Jul 1922 Banner-Courier** has now been visually inspected. The item **“Property Changes Hands”** reports that George A. Harding's Main Street property group—including stores occupied by the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store—was sold to **S. Wolf** and **C. Gates**, both of Portland. Its `latter` / `former` wording assigns the **Fifth Street Restaurant location to C. Gates** and the **remainder to S. Wolf**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
+
+This report appeared five days before the fire. Read with the 20 July article naming S. Wolf as owner of the ignition building, it creates a **strong cross-source inference** that the ignition building belonged to the newly reported Harding-to-Wolf remainder, distinct from the restaurant location allocated to Gates. It is not deed-level proof: the deed, legal description, effective date, dimensions, and numbered addresses remain unrecovered.
+
+Detailed evidence: `evidence/E-096-1922-harding-property-sale-wolf-gates.md` and `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+
+## August 1922 — C. E. Gates rebuilds the corner restaurant site
+
+Two visually inspected construction reports corroborate the separate Gates property:
+
+- **17 Aug 1922 Banner-Courier, p. 1** — a new building was under construction at Fifth/Main on the **C. E. Gates property**, with ground-floor stores, upper apartments, R. A. Junken as contractor, and completion projected about 1 October;
+- **18 Aug 1922 Oregon City Enterprise, p. 5** — the two-story hollow-tile building on Gates's Fifth/Main property replaced the fire-destroyed building formerly occupied by the **Fifth Street Restaurant**; two ground-floor storerooms were planned, one already leased for a barber shop.
+
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
+
+The July notice prints `C. Gates`; the August reports print `C. E. Gates`. The exact property and transaction context strongly supports continuity for this sequence, but the buyer's full identity remains unresolved and must not be merged with another C. E. Gates on initials alone.
+
+Detailed evidence: `evidence/E-097-1922-gates-fifth-main-fire-rebuild.md`
 
 ## June 1922 — S. Wolf has an active Oregon City business connection
 
@@ -162,6 +188,8 @@ This creates a multi-part chronological/geographic pattern worth testing:
 - **July 1922:** **S. Wolf of Portland** owns a Main Street building where the Fifth/Main fire begins; Gilbert Miller has a nearby Fifth Street shoe-repair shop destroyed in the same fire.
 - **about 1922 onward:** later survey research places **Wolf-family ownership at 503 Main**.
 
+The newly recovered 13 July sale supplies a direct contemporary **Harding → S. Wolf / C. Gates** property report, but it still does not prove that S. Wolf's remainder was modern 503, that he was the later survey's Wolf-family owner, or that any similarly named Wolf business/person was the buyer.
+
 ## Best surviving primary-record path — 1922–1925 assessment/tax rolls
 
 The Oregon Secretary of State's **Clackamas County Records Inventory** confirms that unusually valuable assessment/tax records survive for the exact period in question.
@@ -198,7 +226,7 @@ No public digitized image of the specific 1922 target roll/index has yet been re
 
 Do **not** merge these Wolf references yet.
 
-The current evidence does **not** prove that:
+The current evidence now proves the **published property sequence**—Harding's store group was reported sold to Wolf and Gates, Gates received the restaurant location, Wolf received the remainder, and the fire report named Wolf as owner of the ignition building. It still does **not** prove that:
 
 - S. Wolf of Portland was the Wolf partner in Wolf & Miller;
 - S. Wolf was Samuel Wolf or Simon Wolf of Portland;
@@ -209,7 +237,16 @@ The current evidence does **not** prove that:
 - the fire destroyed or materially damaged the surviving 503 or 505 building;
 - the fire explains the city's c.1919 / c.1920 construction estimates for 503/505.
 
-However, the combined Wolf/Miller/business/property pattern is now strong enough to make this one of the highest-priority property-chain leads in the archive.
+However, the cross-source link between the reported Wolf remainder and the ignition building is now a **strong inference**, making the underlying deed and frontage division the highest-priority property-chain targets.
+
+### Two live frontage models
+
+The August Gates replacement had two ground-floor storerooms, but the reports give no width, orientation, address, or property line. Two materially different models remain live:
+
+1. **Gates corner principally maps to modern 501.** If one store faced Main and the other Fifth or an internal/rear arrangement, the Wolf remainder could begin at 503. This is compatible with **503 ignition / 505 adjoining pool hall**.
+2. **Gates corner maps to modern 501 + 503.** If its two stores became the two Main-facing bays shown in 1925, the Wolf remainder could begin around 505, strengthening 505 or a room farther north as the ignition candidate.
+
+The 1925 Sanborn is compatible with the second model but does not prove it. If the July 1922 Fifth Street Restaurant is eventually proved to have occupied modern 501, 501 would be strongly disfavored as the Wolf-owned ignition room. That address equation is not yet proven, so 501 remains live.
 
 ## Fire geometry implication
 
@@ -227,23 +264,25 @@ This may help interpret:
 
 Earlier working notes in this project used **Block 26** in some reconstruction threads. Current legal-description evidence for the modern target properties instead places **503 in part of Lot 4, Block 4; 505 in parts of Lots 3 and 4, Block 4; and 507 in parts of Lots 2, 3 and 4, Block 4**. Do not silently equate a historical Block 26 reconstruction with the modern Block 4 legal descriptions; any numbering/plats discrepancy must be explicitly resolved from the applicable plat/source.
 
-For the immediate 1922 ownership search, request the **target 501/503/505 frontage parcels and Block 4/Lots 3–4 records indicated by the current legal descriptions**, while keeping any older Block 26 lead separately documented until reconciled.
+The visually verified original plat and 1925 Sanborn scale now strongly align **501+503+505 approximately with original Block 26 Lot 5**, with the Lot 5/Lot 6 line near the 505/507 wall (`E-094`). Later/current descriptions instead use **(2) OREGON CITY, Block 4**, and the mechanism connecting the two systems remains unresolved. Request both descriptions and preserve them separately until a recorded crosswalk is found.
 
 ## Next checks
 
-1. **Retrieve the 1922–1925 assessment/tax roll and ownership/index entries for the target 501–505 Main / Block 4, Lots 3–4 area, while preserving the unresolved historical block-numbering question.**
-2. Identify **S. Wolf of Portland** by full name from the tax/deed/index records.
-3. Identify the `Wolf` partner in **Wolf & Miller** and test whether that person is S. Wolf.
-4. Corroborate Clara Rose Wolf's parents/siblings and look for an S.-initial Wolf sibling/relative in Portland or Oregon City.
-5. Find **Alex Schieremann's tailor-shop address** before it became vacant.
-6. Determine the exact Main Street address of the building where the fire started.
-7. Identify **Timms Pool Hall's 1922 address** and test whether it was the adjoining pool hall.
-8. Compare the fire-start address/footprint with 501, 503, and 505 on the 1925 Sanborn.
-9. Determine whether any post-fire building permit/deed/assessment record documents rebuilding on the affected Main frontage.
+1. Retrieve the deed(s) reported on 13 July 1922 by searching **George A. Harding → S. Wolf and C. / C. E. Gates**, then extract the legal description, dimensions, consideration, dates, and recording data.
+2. Retrieve the 1921-assessment/1922-tax and 1922–1925 assessment/tax entries for original Block 26 Lot 5 and any documented later Block 4 equivalent, including separate improvement records.
+3. Retrieve the August 1922 Gates/Junken permit, plans, assessment change, or fire-insurance record to determine the two storerooms' frontage and addresses.
+4. Identify **S. Wolf of Portland** and **C. E. Gates of Portland** by full name from the deed/index records without merging same-name candidates.
+5. Identify the `Wolf` partner in **Wolf & Miller** and test whether that person is S. Wolf.
+6. Find **Alex Schieremann's tailor-shop address** before it became vacant.
+7. Identify the July 1922 ground-floor 505 occupant and exact addresses for **Timms Pool Hall** and **Leland & Little**.
+8. Test the recovered Gates/Wolf line directly against 501, 503, and 505 on the 1925 Sanborn.
 
 ## Confidence
 
 - S. Wolf of Portland owned the building where the July 1922 fire started: **Very High**
+- Harding's named Main Street property group was reported sold to S. Wolf and C. Gates, with Gates receiving the restaurant location and Wolf the remainder: **Very High for the visually verified published wording**
+- The reported Wolf remainder is the immediate property chain containing the ignition building: **High / strong cross-source inference; deed-level verification pending**
+- C. E. Gates owned and rebuilt the Fifth/Main restaurant site after the fire: **Very High across two visually verified construction reports**
 - S. Wolf had an active Oregon City merchant/business connection in June 1922: **High**
 - Fire connected Main Street premises with Fifth Street businesses: **Very High**
 - Ketchner confectionery was next to Oregon City Laundry: **Very High / same-issue primary statement**

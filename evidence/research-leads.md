@@ -96,6 +96,8 @@ The **1913 assessment notice is now formally registered and visually verified** 
 
 **OHS retrieval update:** the official MSS 1503 Title Abstracts Index has now been visually inspected (`E-095` / `S-109`). Its Box 19 row is titled **“Block 4, Lots 3 & 4, Oregon City”**, but its separate Lot column reads **“3, 4, 5”**; the same row says **Main St., 5th St.** Preserve that internal conflict. The ArchivesWest finding aid (`S-110`) confirms that Series B Box 19 contains Clackamas County title abstracts and that such abstracts can carry ownership chains, maps and later-subdivision descriptions. The actual abstract is still unretrieved and is now an explicit **MANUAL CALLOUT**, so no S. Wolf appearance, title chain or Block 26/Block 4 conversion is established. Request the complete item and ask OHS to reconcile the title/lot-field discrepancy.
 
+**July–August 1922 property update:** the visually verified 13 July sale notice (`E-096` / `S-111`) reports Harding's named Main Street store group divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder**. The 20 July fire report names Wolf as owner of the ignition building. Visually verified 17–18 August reports (`E-097` / `S-112`–`S-113`) place a two-story, two-store hollow-tile replacement on Gates's corner restaurant site. The original Lot 5 boundary is no longer the only geometry problem: recover the reported deed(s) and Gates/Junken permit or plans to fix the **internal Gates/Wolf line** against modern 501/503/505. See `RL-040`.
+
 ## RL-027 — Identify the 1907 Pacific States Telephone Office Address and Lot
 `E-065` / `S-079` places the newly completed Pacific States Telephone & Telegraph central office on the **east side of Main between Fifth and Sixth** in spring 1907 but gives no number or lot.
 
@@ -148,3 +150,13 @@ The 24 Aug 2026 visual audit established a specific archive conflict. The *Orego
 The Oak Lodge History Detectives directory overview states that its downloadable 1916–17 scan contains only the **Oak Grove and Jennings Lodge portions**. The linked PDF also currently self-redirects. It is not the missing Oregon City section. Recover the full Sohns & Woodbeck volume through FamilySearch catalog **1844954**, the Oregon Historical Society copy, or another complete scan, then visually extract **501, 503, 505, 507, 509, and 511 Main** plus relevant proprietor/business-name entries.
 
 Until one of those primary sources resolves the question, retain the 1917 503/505 occupants as **unresolved**. The missing page, directory access failure, newspaper silence, and absence of a separate 505 water account are retrieval/account facts only and do not prove vacancy or non-use.
+
+## RL-040 — Map the July 1922 Gates/Wolf Division to 501 / 503 / 505
+`E-096` / `S-111` proves the published sale allocation: C. Gates took the Fifth Street Restaurant location and S. Wolf took the remainder of Harding's named Main Street store group. `E-097` / `S-112`–`S-113` proves that C. E. Gates then owned the Fifth/Main corner site and built a two-story hollow-tile replacement with two ground-floor storerooms. The reports give no width, orientation, address, or legal description.
+
+Test two explicit models rather than choosing from the 1925 Sanborn use pattern:
+
+1. Gates principally at modern 501, with a Fifth-facing/internal second room; Wolf remainder begins at 503, compatible with 503 ignition / 505 pool hall.
+2. Gates's two Main-facing stores become modern 501+503; Wolf remainder begins around 505, shifting the ignition candidate north.
+
+Retrieve the July deed(s), grantor/grantee index, August building permit/plans, assessment change, fire-insurance record, and the first exact-address tenants of the two Gates rooms. Preserve the possibility of changed entrances, subdivision, or post-fire footprint. Do not exclude 501 until the July restaurant location is directly mapped.

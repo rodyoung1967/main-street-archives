@@ -4,10 +4,10 @@
 
 - Building ID: `B-001`
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`
-- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`
+- Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`, `P-035`, `P-036`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`
 
 ## Known / Working History
 
@@ -66,6 +66,12 @@ This is primary map evidence that 503 and 505 were separate commercial occupanci
 
 Do **not** currently state that Kwality Cafe opened in 1919. The building date and the documented restaurant-name chronology are separate questions.
 
+### July–August 1922 Gates/Wolf property division
+
+The visually inspected **13 Jul 1922 Banner-Courier** reports that George A. Harding's named Main Street store group was sold to S. Wolf and C. Gates, with the Fifth Street Restaurant location going to Gates and the remainder to Wolf (`E-096`). The fire report then identifies Wolf as owner of the ignition building. On 17–18 August, C. E. Gates was reported rebuilding the Fifth/Main restaurant site as a two-story hollow-tile building with two ground-floor storerooms (`E-097`).
+
+This new primary sequence does **not** decide whether modern 503 belonged to Gates or Wolf. If the Gates corner mapped principally to 501, the Wolf remainder could begin at 503, supporting the current **503 ignition / 505 pool hall** hypothesis. If the two Gates Main-facing stores became 501+503, the Wolf remainder could begin near 505. The 1925 restaurant at 503 is compatible with the latter model but cannot be backdated as proof. The c.1919 City estimate and direct August 1922 construction report must remain in documented tension until a permit, deed dimension, footprint, or tenant address shows whether the Gates work included modern 503.
+
 ## Kwality Cafe Evidence
 
 503 Main is strongly tied to the Kwality Cafe history through primary artifact evidence.
@@ -80,7 +86,7 @@ The earliest presently documented use of the **Kwality Restaurant** name at 503 
 
 ## Wolf-family lead
 
-The City historic inventory says 1983 survey research found the **Wolf family owned 503 Main from about 1922 to 1972**. This is potentially significant because **Wolf & Miller** operated at 505 Main in 1918, and Gilbert Miller later lived in Oregon City. Independent genealogical material identifies Gilbert Miller's first wife as **Clara Rose Wolf** (1879-1921), daughter of Henry and Elizabeth (Conrad) Wolf, and records her death in Oregon City.
+The City historic inventory says 1983 survey research found the **Wolf family owned 503 Main from about 1922 to 1972**. The July 1922 sale notice now directly reports S. Wolf acquiring Harding's remainder, but it does not map that remainder to 503 or give Wolf's full identity. This remains potentially significant because **Wolf & Miller** operated at 505 Main in 1918, and Gilbert Miller later lived in Oregon City. Independent genealogical material identifies Gilbert Miller's first wife as **Clara Rose Wolf** (1879-1921), daughter of Henry and Elizabeth (Conrad) Wolf, and records her death in Oregon City.
 
 This creates a plausible family-network lead, but **does not yet prove that the Wolf family reported as owning 503 is the same Wolf family associated with Gilbert Miller or the `Wolf` in Wolf & Miller**. A deed, directory, probate, tax, or business record identifying the 503 owner by full name is required before connecting those chains.
 
@@ -124,12 +130,14 @@ The visually verified OHS MSS 1503 index identifies a Main/Fifth title abstract 
 - Confirm the legal, structural, and physical boundary between 503 and 505.
 - Obtain deed/title/survey proof for the strong working placement of 503 within original Block 26 Lot 5.
 - Retrieve the complete OHS MSS 1503 Box 19 abstract and preserve its title/Lot-field conflict until its scope can be read directly.
+- Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and the Gates/Junken building permit or plans; map their dividing line and two-store footprint to 501/503/505.
 
 ## Open Questions
 
 - When exactly was the current 503 Main building constructed?
 - Who commissioned/owned the circa-1919 building?
 - Who owned 503 when the Wolf-family ownership began circa 1922, and what is the full name of the Wolf purchaser?
+- Did the August 1922 Gates replacement include the modern 503 footprint, or did Wolf's remainder begin there?
 - Is that Wolf family connected to Gilbert Miller / Wolf & Miller, or is the surname overlap coincidental?
 - When exactly did the restaurant use begin at 503, and when did the name Kwality Restaurant first appear?
 - When did each Kwality-related business operate?

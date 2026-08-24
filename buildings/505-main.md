@@ -4,9 +4,9 @@
 
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
-- Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`
-- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`
+- Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`
+- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -76,6 +76,12 @@ See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evi
 - **1940:** later 2021 consultant-table estimate that remains in conflict.
 
 The best next test is footprint/material continuity between the 1925 Sanborn, later Sanborn revisions/aerials, assessor records and current building, plus permit/tax evidence around 1920 and 1940.
+
+### July–August 1922 Gates/Wolf property division
+
+A visually verified 13 July sale notice reports that Harding's Main Street store group was divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** (`E-096`). The fire report names Wolf as owner of the ignition building. August construction reports then identify Gates's corner restaurant site as a two-story hollow-tile replacement with two ground-floor storerooms (`E-097`).
+
+The evidence does not assign modern 505 to either buyer. If the Gates replacement principally mapped to 501, 505 remains compatible with the adjoining pool hall in the working **503 ignition / 505 pool** reconstruction. If both Gates stores became the 1925 501+503 pair, Wolf's remainder could begin near 505, making 505 itself or a room farther north a stronger ignition candidate. No permit, deed dimension, or tenant address presently chooses between these models.
 
 ## Location / Name Handling Rule
 
@@ -182,6 +188,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
 - Obtain deed/title/survey proof for the strong working placement of 505 within original Block 26 Lot 5 and the Lot 5/Lot 6 line near 505/507.
 - Retrieve the complete OHS MSS 1503 Box 19 abstract; its index title says later Block 4 Lots 3–4 while its Lot field says 3–5, so do not assume its exact 505 coverage before inspection (`E-095`).
+- Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and Gates/Junken permit or plans to determine whether modern 505 lay in Wolf's remainder or adjoined it.
 - Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
 
 ## Open Questions
@@ -199,4 +206,5 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - How did 505 Tavern relate to Brass Rail Tavern, The Dug Inn, The 505, Sports Keg, or any prior name/business entity?
 - What documentary evidence confirms the Nov. 2024 estate transfer of 505 Main to Rodney and Mitch?
 - What documentary evidence confirms the 2017 transition from 505 Tavern to Thirsty Duck?
+- Did the July 1922 Wolf remainder begin at modern 503, 505, or another frontage line?
 - What was at 501 Main, if anything, on the 1925 Sanborn map?

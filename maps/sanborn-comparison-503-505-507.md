@@ -15,6 +15,8 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 - `SM-009` / `S-022` — 1950 revised sheet 6
 - `S-107` — visually verified 1913 Block 26 assessment notice
 - `S-108` — visually verified official original Oregon City plat, county plat 2
+- `S-111` — visually verified 13 July 1922 Harding-to-Wolf/Gates property-sale notice
+- `S-112`, `S-113` — visually verified 17–18 August 1922 Gates corner-rebuild reports
 
 ## High-Level Findings
 
@@ -33,6 +35,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 13. The 1911 pass directly establishes **The Chicago Store at 505 Main by 31 March after being at 405 Main through 3 February** (`E-084`), proves the new Gambrinus block was occupied by early March (`E-086`), and adds a one-door-north Harding→Willamette Building relationship that may eventually help map 505/507 but is not yet an exact-address proof (`E-085`, `RL-035`).
 14. The 1912 pass adds a visually verified **503 / 507 / 509 / 511 Main address ladder** (`E-092`), documents Smith pool-room/pool-hall use at **503 Main** (`E-089`), continues the Gambrinus sequence with a saloon at Sixth/Main (`E-091`), and confirms that buildings were actively being **torn down and replaced somewhere on Main Street** in May (`E-090`). The demolition statement remains unmapped to the target block.
 15. The original plat says target-area lots are at least **66 feet front by 100 feet back**. On the 1925 sheet's printed scale, 501+503+505 span approximately 66–67 feet. This supports a **strong inference** that those three storefronts occupy original Lot 5 and that original Lot 6 begins at or near the 505/507 wall (`E-094`). It is not a deed/survey proof.
+16. The July–August 1922 reports establish a separate **Gates corner restaurant/replacement site** and **Wolf remainder**, but supply no width, addresses, or dividing line (`E-096`, `E-097`). The 1925 map supports two competing models—Gates principally at 501 or Gates at 501+503—and cannot select between them by visual compatibility alone.
 
 ## Year-by-Year Working Notes
 
@@ -44,7 +47,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 | 1892 | `SM-005` | Block 26 at Main and 5th shows a developed row of Main-facing commercial spaces. Visible labels include clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank near the 5th/Main corner. The modern 501/503/505 numbering is not the dominant labeling on this sheet. | Strong evidence of a pre-1919 commercial frontage in the relevant 5th/Main block. Use cautiously for exact modern address mapping until address-number transition is resolved. |
 | 1900 | `SM-006` | Sheet 13 shows a developed Main-frontage row near 5th, with labels including saloon, grocery, bake house, dry goods/clothing/gents furnishing, furniture/stoves/wall paper, grocery, drugs, and jewelry/bicycles with I.O.O.F. Hall on the second floor. The sheet labels Main as widened / The Willamette in this area. | Strong evidence that the commercial row predates 1919. The later 1919 date may represent rebuild, remodel, reassessment, or a specific building event rather than the first commercial building on the frontage. |
 | 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed; use the independent 1911–1912 newspaper anchors below instead. |
-| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies. Scale comparison to the official original plat supports 501+503+505 ≈ Lot 5 and the 505/507 wall ≈ Lot 5/Lot 6 (`E-094`), subject to cadastral proof. |
+| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies. Scale comparison supports 501+503+505 ≈ Lot 5 and 505/507 ≈ Lot 5/Lot 6 (`E-094`). The use pattern is compatible with—but does not prove—Gates=501+503 or 503 ignition/505 pool. |
 | 1950 | `SM-009` | The revised 1950 sheet shows a continued commercial frontage. At the lower Main frontage, `503` is labeled restaurant with concrete floor; `505` is labeled billiards, cigars, and beer, with restaurant wording also visible; `507` appears as a separate store space; nearby `509A/B`, `511`, `513`, and higher addresses include restaurant, office/store, hall, and bake-house related labels. | Strong mid-century evidence for separate 503/505/507 address/occupancy pattern and for restaurant/bar-adjacent uses at 503 and 505 before later known tavern history. |
 
 ## 1906 Non-Sanborn Block 26 Anchors
@@ -78,6 +81,19 @@ Reading the 1925 Sheet 6 façade divisions against its printed scale makes the F
 - 507 begins ≈ original Lot 6.
 
 Classification: **strong inference**, not proven fact. A deed, title abstract, survey overlay or other cadastral record must still prove the line and explain the original Block 26 / later Block 4 numbering conversion. See `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`.
+
+## July–August 1922 Property Division vs. the 1925 Frontage
+
+The visually verified 13 July sale notice says Harding's named Main Street store group was divided so that **C. Gates received the Fifth Street Restaurant location** and **S. Wolf received the remainder** (`E-096` / `S-111`). The 20 July fire report names Wolf as owner of the ignition building. The 17–18 August reports then identify Gates's Fifth/Main corner replacement as a two-story hollow-tile building with **two ground-floor storerooms** (`E-097` / `S-112`–`S-113`).
+
+The 1925 map cannot be used to backdate an exact footprint. It permits at least two models:
+
+| Model | 1922 Gates footprint hypothesis | Consequence for Wolf remainder / fire hypothesis | Status |
+| --- | --- | --- | --- |
+| A | Principally modern 501; second store may have faced Fifth or used another internal/rear arrangement | Wolf could begin at 503; compatible with 503 ignition and 505 pool hall | Plausible, unproven |
+| B | Two Main-facing stores became modern 501 + 503 | Wolf could begin around 505; 505 or a room farther north becomes a stronger ignition candidate | Plausible, unproven |
+
+Later changes in entrances, subdivision, orientation, or footprint could support another arrangement. A deed dimension, permit/plan, insurance map, assessment sketch, or first-tenant exact address is required. If the July 1922 Fifth Street Restaurant is eventually mapped directly to modern 501, 501 would be strongly disfavored as the Wolf-owned ignition room; until then, 501 remains live.
 
 ## 1907 Non-Sanborn Physical-Change Anchors
 

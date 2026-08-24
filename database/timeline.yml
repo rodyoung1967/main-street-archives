@@ -30,6 +30,47 @@ timeline:
     related_buildings:
       - B-001
 
+  - id: T-009
+    date: 13 July 1922
+    summary: Banner-Courier reported George A. Harding's named Main Street store group sold to S. Wolf and C. Gates of Portland; Gates received the Fifth Street Restaurant location and Wolf the remainder. No legal description or numbered storefront was printed.
+    confidence: Very High for visually verified published wording; deed and exact mapping unresolved
+    related_evidence:
+      - E-096
+    related_people:
+      - P-001
+      - P-035
+      - P-036
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+
+  - id: T-010
+    date: 18 July 1922
+    summary: Fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop. The local report named S. Wolf as owner and a pool hall as adjoining. The modern 501/503/505 mapping remains unresolved.
+    confidence: Very High for visually verified fire-report facts; exact storefront unresolved
+    related_evidence:
+      - E-096
+    related_people:
+      - P-035
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+
+  - id: T-011
+    date: 17-18 August 1922
+    summary: Contemporary reports identify C. E. Gates's two-story hollow-tile Fifth/Main replacement for the fire-destroyed Fifth Street Restaurant building, with two ground-floor storerooms and R. A. Junken as contractor.
+    confidence: Very High for visually verified construction reports; exact modern footprint unresolved
+    related_evidence:
+      - E-097
+    related_people:
+      - P-036
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+
   - id: T-005
     date: 1940s-1950s
     summary: 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe.

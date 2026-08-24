@@ -692,3 +692,24 @@ Type: Official institutional archival collection finding aid.
 Related evidence: `E-095`
 Repository source capture: `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
 Notes: Describes the open-to-public OHS Land Collection, places Benton–Clackamas county title abstracts in Series B, Box 19, and says abstracts can convey ownership chains and include maps, sketches, PLSS descriptions and subsequent subdivisions. It describes the collection generally, not the unretrieved contents of the specific Oregon City abstract; obtaining that item is a MANUAL CALLOUT.
+
+## S-111 — Banner-Courier, 13 July 1922, Harding property sale to Wolf and Gates
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
+Type: Primary newspaper property-transfer and storefront-allocation evidence; **visually verified full-page scan**.
+Related evidence: `E-096`; cross-reference `E-097`
+Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+Notes: “Property Changes Hands” reports sale of George A. Harding's Main Street property group to S. Wolf and C. Gates, both of Portland. It identifies the Fifth Street Restaurant, Miller's shoe store, adjoining barber shop and Red Front Clothing Store, assigning the restaurant location to Gates and the remainder to Wolf. No legal description, dimensions, deed data or exact street numbers are printed.
+
+## S-112 — Banner-Courier, 17 August 1922, construction on C. E. Gates property
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1.pdf
+Type: Primary newspaper construction evidence; **visually verified full-page scan**.
+Related evidence: `E-097`; cross-reference `E-096`
+Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+Notes: “New Building Started” reports construction at Fifth/Main on the C. E. Gates property, with stores below, apartments above, R. A. Junken as contractor, and projected occupancy about 1 October.
+
+## S-113 — Oregon City Enterprise, 18 August 1922, Gates fire-replacement building
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
+Type: Primary newspaper post-fire construction and property evidence; **visually verified full-page scan**.
+Related evidence: `E-097`; cross-reference `E-096`
+Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. No street numbers or dimensions are given.

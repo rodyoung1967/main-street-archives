@@ -1,0 +1,26 @@
+# C. E. Gates — 1922 Fifth/Main property lead
+
+## Archive ID
+
+- Person ID: `P-036`
+- Related evidence: `E-096`, `E-097`
+- Related sources: `S-111`, `S-112`, `S-113`
+
+## What is established
+
+The visually verified 13 July 1922 *Banner-Courier* names **C. Gates**, described as being of Portland, as one of two buyers of George A. Harding's Main Street property group and assigns Gates the Fifth Street Restaurant location.
+
+The visually verified 17–18 August construction reports identify the same Fifth/Main corner property under the fuller form **C. E. Gates**. They describe a new two-story hollow-tile building replacing the fire-destroyed restaurant building, with R. A. Junken as contractor.
+
+The exact deed, legal description, modern street-number footprint, and full identity remain unresolved.
+
+## Identity rule
+
+The common transaction and property context strongly supports treating July `C. Gates` and August `C. E. Gates` as the same buyer in this sequence. Do **not** merge `P-036` with another C. E. Gates—including the prominent Medford automobile dealer/politician—without a direct identity record. The Oregon City articles describe this buyer as being of Portland.
+
+## Next records
+
+- Harding-to-Wolf/Gates deed and grantor/grantee index entry.
+- Building permit, plans, assessment change, insurance, or contractor file for the August 1922 structure.
+- Portland directory entry and full-name identification.
+- First tenants and exact addresses in the completed Gates building.

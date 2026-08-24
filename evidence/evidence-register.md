@@ -663,3 +663,19 @@ Sources: `S-109`, `S-110`
 Related record: `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
 Claims: The visually verified first page of the official OHS MSS 1503 index lists a Box 19 item at **Main St., 5th St.**, Oregon City, Clackamas County. Its Legal Address / Title field reads **Block 4, Lots 3 & 4, Oregon City**, but its separate Lot field reads **3, 4, 5**; both readings are preserved as an unresolved internal index conflict. The ArchivesWest finding aid confirms that Series B Box 19 contains Clackamas County title abstracts and describes their potential ownership-chain/map content. The actual abstract has not been retrieved or inspected and is an open **MANUAL CALLOUT**, so this evidence establishes only the cataloged archival lead—not any owner, S. Wolf connection, building/improvement ownership, 1922 transaction, parcel identity, or Block 26-to-Block 4 conversion.
 Confidence: Very High for the visually verified index fields and official finding-aid facts; Strong as a targeted retrieval lead; Unresolved for the abstract's scope and all property-history conclusions.
+
+## E-096 — Harding Main Street Property Sale to S. Wolf and C. Gates, July 1922
+Type: Primary newspaper property-transfer and storefront-allocation evidence; direct visual inspection
+Date: 13 July 1922
+Sources: `S-111`; cross-reference the visually verified 20 July fire report
+Related record: `evidence/E-096-1922-harding-property-sale-wolf-gates.md`
+Claims: Five days before the Fifth/Main fire, the *Banner-Courier* reported that a George A. Harding Main Street property group containing the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop and the Red Front Clothing Store had been sold to **S. Wolf** and **C. Gates**, both of Portland. The article assigns the restaurant location to Gates and the remainder to Wolf. The later fire report names S. Wolf as owner of the ignition building, creating a strong immediate property-chain inference, but the deed, legal description and exact 501/503/505 mapping remain unresolved.
+Confidence: Very High for the visually verified published allocation; High / strong inference for continuity into the S. Wolf fire-origin property; Unresolved for deed-level title, identities, boundaries and numbered storefront.
+
+## E-097 — C. E. Gates Fifth/Main Fire-Replacement Building, August 1922
+Type: Primary newspaper construction and post-fire property evidence; direct visual inspection of two scans
+Date: 17–18 August 1922
+Sources: `S-112`, `S-113`; cross-reference `S-111`, `S-021`
+Related record: `evidence/E-097-1922-gates-fifth-main-fire-rebuild.md`
+Claims: Two contemporary papers report a new building under construction at Fifth/Main on the **C. E. Gates property**, with R. A. Junken as contractor and occupancy expected about 1 October. The *Enterprise* identifies it as a two-story hollow-tile replacement for the fire-destroyed building occupied by the Fifth Street Restaurant, with two ground-floor storerooms and upper residential rooms. The two stores may map to the 1925 501/503 pair, but no dimensions or address bridge proves that hypothesis.
+Confidence: Very High for the construction, owner wording, material, planned uses, contractor and timing; High for C. Gates/C. E. Gates continuity in this property sequence; Plausible / unproven for exact 1925 storefront mapping.

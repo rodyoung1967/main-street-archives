@@ -137,6 +137,16 @@ The fire destroyed or affected businesses including the Oregon City Laundry, Fif
 
 An independent Eugene-area report says the fire originated in an unoccupied Main Street building recently occupied by a cleaning/dyeing business. That description conflicts with the local former-tailor wording and remains preserved rather than harmonized away.
 
+### Five-day pre-fire property sale and separate Gates corner site
+
+The visually inspected **13 Jul 1922 Banner-Courier** now supplies a direct property sequence. It reports that George A. Harding's Main Street property group—including the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store—was sold to **S. Wolf and C. Gates**, both of Portland. Its wording assigns the **restaurant location to Gates** and the **remainder to Wolf** (`E-096` / `S-111`).
+
+The 20 July fire report then names S. Wolf as owner of the ignition building. Read together, the two sources strongly link the ignition building to the newly reported Wolf remainder, while the exact deed, legal boundary, and address remain unverified.
+
+Two more visually inspected reports document the aftermath. On **17–18 Aug 1922**, C. E. Gates was identified as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed restaurant building. The first floor was planned as two storerooms, one already leased to a barber (`E-097` / `S-112`–`S-113`).
+
+Detailed evidence: `../../evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+
 ### Current storefront assessment
 
 The 1925 Sanborn visually shows:
@@ -146,7 +156,10 @@ The 1925 Sanborn visually shows:
 - **505** — billiards/cigars;
 - Oregon City Laundry behind the 501/503 portion of the frontage.
 
-This geometry is compatible with a reconstruction in which the **503 predecessor contained the vacant ignition room and the 505 premises was the adjoining pool hall**. It is currently the strongest working hypothesis.
+This geometry is compatible with a reconstruction in which the **503 predecessor contained the vacant ignition room and the 505 premises was the adjoining pool hall**. It remains the project's strongest working hypothesis, but the Gates evidence requires two explicit alternatives:
+
+- if the two Gates rooms were one Main-facing room plus a Fifth-facing or internal/rear room, the corner property could map principally to 501 and the Wolf remainder could begin at 503;
+- if both Gates rooms faced Main and became the 1925 501+503 pair, the Wolf remainder could begin around 505.
 
 It is **not proven**. No recovered 1922 exact-address, parcel, license, tax, deed, directory, or equivalent contemporary source yet maps the former Schieremann tailor shop or the adjoining pool hall directly to 503 or 505. **501 remains a live alternative.**
 
@@ -198,9 +211,9 @@ Detailed evidence: `../../evidence/source-captures/1919-cleaning-dyeing-two-door
 
 ---
 
-## 9. S. Wolf identity and property relationship remain open
+## 9. S. Wolf acquisition sequence is reported; identity and exact parcel remain open
 
-The 1922 fire source directly says **S. Wolf of Portland** owned the building where the fire began. A June 1922 Oregon City merchant roster separately includes **S. Wolf**, showing an active Oregon City commercial connection shortly before the fire.
+The 1922 fire source directly says **S. Wolf of Portland** owned the building where the fire began. A June Oregon City merchant roster separately includes **S. Wolf**. The visually verified 13 July sale notice now reports that S. Wolf acquired the remainder of Harding's named Main Street store group after the restaurant location was allocated to C. Gates. This is a material property-chain advance, but it is still newspaper reporting rather than the recorded deed and does not locate the remainder within 501/503/505.
 
 Possible Portland directory candidates include **Samuel Wolf** (clothing), **Simon Wolf** (Wonder Millinery), and other Wolf entries. **Victor Wolf** is independently associated with Oregon City but does not match the `S.` initial and should not be merged into the fire-property identity.
 
@@ -223,8 +236,10 @@ The research is now close enough that generic keyword searching is less likely t
 1. **Oregon City council / pool-hall records around 1 Feb 1922.** Contemporary reporting confirms city action on poolrooms, and earlier municipal records show that pool/billiard licensing could identify particular premises. An operator-and-address list could directly identify the hall adjoining the ignition room.
 2. **1921–1922 R. L. Polk Oregon and Washington State Gazetteer and Business Directory — Oregon City section.** The volume survives, but the actual Oregon City pages remain a retrieval gap. It could resolve Schieremann, Timms, Leland & Little, Gilbert Miller, S. Wolf and other fire-cluster businesses in one contemporary source.
 3. **1922–1925 assessment/tax and land/lot books.** These survive for Clackamas County and could identify the owner of the target frontage and test whether S. Wolf owned the parcel corresponding to 501, 503, 505 or another nearby premises.
-4. **Underlying Museum `MOT:P-391` photograph (M/R y # 011-0048).** Direct visual inspection may provide storefront and neighboring-building geometry beyond the catalog metadata.
-5. **Exact pre-fire address for Alex Schieremann.** This remains the most direct single-source solution to the ignition-storefront question.
+4. **July 1922 Harding-to-Wolf/Gates deed(s).** Search grantor/grantee indexes under George A. Harding, S. Wolf, and C. / C. E. Gates; the legal description and dimensions could directly locate the dividing line.
+5. **August 1922 Gates/Junken building permit or plans.** The stated two-store hollow-tile replacement needs frontage, entrance, orientation, and address evidence.
+6. **Underlying Museum `MOT:P-391` photograph (M/R y # 011-0048).** Direct visual inspection may provide storefront and neighboring-building geometry beyond the catalog metadata.
+7. **Exact pre-fire address for Alex Schieremann.** This remains the most direct single-source solution to the ignition-storefront question.
 
 ### Parcel-numbering caution
 
@@ -239,6 +254,7 @@ The post-v5 evidence materially strengthens the history of both storefronts with
 - **505 Main** has a catalog-documented George H. Young second-hand-store use in 1910, a Chicago Store occupancy by March 1911, Wolf & Miller in 1918, and a visually verified billiards/cigars use on the 1925 Sanborn. The museum's `MOT:P-391` catalog also remembers the 1910 505 location as the same location later used as a pool hall.
 - **503 Main** is directly proven as a pool-hall address in 1912 and is a restaurant on the 1925 Sanborn.
 - The **1922 fire-origin building** was owned by S. Wolf of Portland and had previously contained Alex Schieremann's tailor shop; a pool hall adjoined it.
-- **503 ignition / 505 adjoining pool hall remains the strongest working hypothesis, but it is not yet established fact. 501 remains a viable alternative.**
+- Five days before the fire, Harding's named store group was reported divided between Gates's restaurant location and Wolf's remainder; Gates then rebuilt the corner restaurant site with two ground-floor stores.
+- **503 ignition / 505 adjoining pool hall remains the strongest working hypothesis, but the Gates building can presently be modeled either principally as 501 or as 501+503. No source fixes that line, and 501 remains a viable alternative pending its exact July 1922 occupant.**
 
 Future Historical Society editions should incorporate this supplement only at the evidence level stated here and should not promote the 1922 storefront hypothesis until an exact contemporary bridge is recovered.

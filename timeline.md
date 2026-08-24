@@ -107,6 +107,17 @@ A primary advertisement shows **Holman & Pace** still operating as undertakers/f
 ## 1921-1922 — 505 Main
 Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), providing direct evidence of occupied premises at 505 by 1921.
 
+## 13 July 1922 — Harding property group sold to Wolf and Gates
+The visually inspected *Banner-Courier* reports that George A. Harding's Main Street property group—including the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store—was sold to **S. Wolf and C. Gates of Portland**. The restaurant location went to Gates and the remainder to Wolf (`E-096` / `S-111`). The report gives no numbered addresses, legal description, dimensions, or deed data.
+
+## 18 July 1922 — Fifth/Main fire
+The visually verified local report says the fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop, in a building owned by **S. Wolf of Portland**; a pool hall adjoined it. The Oregon City Laundry, May & Washburn garage, Fifth Street Restaurant, Gilbert Miller shoe-repair shop, and other premises were destroyed or affected. Read with the 13 July sale notice, the ignition building strongly belongs to the freshly reported Harding-to-Wolf remainder, but that remains a cross-source inference pending the deed and exact frontage line. Independent Eugene reporting preserves conflicting damage estimates and owner/operator names.
+
+## 17–18 August 1922 — Gates corner replacement under construction
+Two visually inspected reports identify **C. E. Gates** as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building. The first floor was planned as two storerooms, one already leased for a barber shop (`E-097` / `S-112`–`S-113`). The reports do not give width, orientation, or street numbers.
+
+Two storefront models remain open. If the Gates corner was principally modern 501, the Wolf remainder could begin at 503, compatible with **503 ignition / 505 pool hall**. If both Gates rooms became the Main-facing 501+503 pair shown in 1925, the Wolf remainder could begin near 505. The 1925 Sanborn does not choose between them; 501 remains live until the July restaurant address is proved.
+
 ## 1924 — directory source exists, pages still needed
 A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as a local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
 

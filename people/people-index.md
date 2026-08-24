@@ -2,7 +2,7 @@
 
 | ID | Name | Role | Notes |
 |---|---|---|---|
-| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader | Associated with Harding Building and Harding Drug Store. |
+| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader / reported property seller | Associated with Harding Building and Harding Drug Store. A 13 July 1922 newspaper report also identifies his named Main Street store group in the Wolf/Gates sale; exact legal relationship and footprint unresolved. |
 | P-002 | Dr. Bailey | Dentist | Legacy 1909 Harding Building occupancy claim is unverified. Museum catalog photo `MOT:P-391` names a Dr. Bailey in a group with G. H. Young but does not prove an office location/date; see `OQ-030`. |
 | P-003 | [J. Jager](profiles/j-jager.md) | Proprietor | Listed as proprietor of New Kwality Cafe on matchbook. |
 | P-004 | [Larry](profiles/larry.md) | Proprietor / operator | Associated with Larry's Kwality Cafe; surname unknown. |
@@ -36,3 +36,5 @@
 | P-032 | Kenly C. Bagent | Post-2004 505 Tavern lead | Secondary records and 2005 participant statement; state filings still needed. |
 | P-033 | Terry Bee Enstad | Post-2004 partnership lead | Named with Bagent / Heath Bark-Ley LLC in secondary records. |
 | P-034 | Henry Brightbill | Merchant at 503 Main, 1908 | Oregonian 25 August 1908 places his store at 503 Main Street. Address occupancy; surviving-building date not proven by this article. |
+| P-035 | [S. Wolf](profiles/s-wolf-1922.md) | 1922 Main Street purchaser / reported fire-origin building owner | Full identity unresolved. Do not merge with Wolf & Nat, Wolf & Miller, Portland directory candidates, Gilbert Miller's Wolf relatives, or later 503 Wolf-family ownership without a direct bridge. |
+| P-036 | [C. E. Gates](profiles/c-e-gates-1922.md) | 1922 Fifth/Main purchaser / corner-property owner | July source prints C. Gates; August sources print C. E. Gates. Exact full identity and modern storefront footprint unresolved; do not merge with same-initial people elsewhere without proof. |

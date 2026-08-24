@@ -5,14 +5,17 @@
 - Person ID: `P-001`
 - Related building: `B-003`
 - Related business: `BUS-007`
+- Related evidence: `E-096`
 - Related timeline/building context: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
 ## Known / Working Biography
 
-George A. Harding is identified in the archive as a druggist and civic leader associated with the Harding Building and Harding Drug Store at 507 Main Street.
+George A. Harding is identified in the archive as a druggist and civic leader associated with the Harding Building and Harding Drug Store.
 
-The archive currently does not establish whether Harding owned the building, developed it, leased space in it, operated the drug store there, or held some combination of those roles. That relationship should remain open until supported by deeds, directories, newspaper references, business records, or other primary documents.
+The visually verified 13 July 1922 *Banner-Courier* now supplies direct contemporary newspaper evidence that a **Main Street property group belonged to George A. Harding** and had been sold to S. Wolf and C. Gates. The named store occupants were the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store (`E-096`). This establishes a Harding property role in that specific group as reported by the newspaper; the deed, legal description, land-versus-improvement interest, and exact modern storefronts remain unresolved.
+
+That transaction must stay separate from Harding's own drug-store address and from the separately named Harding Building until direct mapping evidence connects them.
 
 ## Harding Drug Store Connection
 
@@ -23,13 +26,13 @@ The current research need is to establish:
 - When Harding Drug Store began operating.
 - When Harding Drug Store stopped operating.
 - Whether the store was specifically located at 507 Main.
-- Whether George A. Harding owned the business, the building, both, or neither.
+- Whether and how Harding's drug-store business, the named Harding Building, and the July 1922 property-sale group were legally or physically related.
 
 ## Harding Building Connection
 
 The Harding Building is recorded as `B-003`. The original historic building was reportedly destroyed by fire around late 1967 or early 1968, and the replacement commercial building was completed in 1968.
 
-George A. Harding's relationship to the original building still needs primary confirmation.
+George A. Harding's relationship to the original named Harding Building still needs primary confirmation. The 13 July 1922 property-sale notice is not an exact-address identification of that building.
 
 ## Evidence / Source Needs
 
@@ -62,4 +65,3 @@ High-priority sources to locate:
 - Did he operate Harding Drug Store personally?
 - What years was Harding Drug Store active?
 - Are there photographs, advertisements, letterheads, prescription labels, bottles, or other artifacts tied to Harding Drug Store?
-

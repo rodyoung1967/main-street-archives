@@ -2,11 +2,13 @@ people:
   - id: P-001
     name: George A. Harding
     role: Druggist / civic leader
-    notes: Associated with Harding Building and Harding Drug Store.
+    notes: Associated with Harding Building and Harding Drug Store. A visually verified 13 July 1922 newspaper reports that his separate named Main Street store-property group was sold to S. Wolf and C. Gates; deed, legal description and relationship to the Harding Building remain unresolved.
     related_buildings:
       - B-003
     related_businesses:
       - BUS-007
+    related_evidence:
+      - E-096
 
   - id: P-002
     name: Dr. Bailey
@@ -305,3 +307,24 @@ people:
       - B-001
     related_evidence:
       - E-042
+
+  - id: P-035
+    name: S. Wolf
+    role: 1922 Main Street purchaser / reported fire-origin building owner
+    notes: Banner-Courier reports that S. Wolf of Portland received the remainder of George A. Harding's named Main Street property group on 13 July 1922; the 20 July fire report names S. Wolf as owner of the ignition building. Full identity, deed, legal description and exact storefront remain unresolved. Do not merge with other Wolf people or businesses without a direct bridge.
+    related_evidence:
+      - E-096
+    related_sources:
+      - S-111
+
+  - id: P-036
+    name: C. E. Gates
+    role: 1922 Fifth/Main purchaser / corner-property owner
+    notes: July source prints C. Gates and assigns him the Fifth Street Restaurant location; August sources print C. E. Gates and document his hollow-tile fire-replacement building at Fifth/Main. Full identity and exact modern storefront footprint remain unresolved. Do not merge with same-initial people elsewhere without direct proof.
+    related_evidence:
+      - E-096
+      - E-097
+    related_sources:
+      - S-111
+      - S-112
+      - S-113

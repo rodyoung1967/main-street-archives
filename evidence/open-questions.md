@@ -120,3 +120,6 @@ What filing, replat, title convention or assessor mapping changed the Fifth-to-S
 
 ## OQ-030 — Dr. Bailey / Harding Building Occupancy Claim
 What source, if any, places Dr. Bailey's dental practice upstairs in the Harding Building in 1909? The statement existed in the archive without a linked source. Museum of the Oregon Territory catalog record `MOT:P-391` identifies a Dr. Bailey in a group photograph with G. H. Young, but it does not establish the office location or photograph date. Search 1908–1911 directories, dental/professional advertisements, building tenant notices, and the underlying catalog photograph/caption. Do not cite the Harding Building occupancy as established until directly supported.
+
+## OQ-031 — July 1922 Gates / Wolf Frontage Division
+Where did the line fall between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** in the visually verified 13 July sale report (`E-096`), and how did Gates's two-store hollow-tile replacement (`E-097`) map to modern 501/503/505? Two models remain live: Gates principally at 501 with Wolf beginning at 503, or Gates at 501+503 with Wolf beginning near 505. Recover the deed, permit/plans, dimensions, insurance records, and first exact-address tenants; do not decide from the 1925 use pattern alone.

@@ -83,6 +83,14 @@ The identity inference is unusually strong because the July fire report names **
 Dedicated evidence note:
 `evidence/source-captures/1922-millers-shoe-store-gilbert-miller-continuity-lead.md`
 
+## 13 Jul 1922 property sale — Miller store grouped with the Wolf remainder
+
+The visually inspected **13 Jul 1922 Banner-Courier** reports that George A. Harding's Main Street property group included the Fifth Street Restaurant, **Miller's shoe store**, an adjoining barber shop, and the Red Front Clothing Store. It says the group was sold to **S. Wolf and C. Gates of Portland**, with Gates taking the restaurant location and Wolf taking the remainder (`E-096` / `S-111`).
+
+Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
+
+This directly places Miller's shoe store inside the property group divided between Gates and Wolf five days before the fire, but it does not print Miller's exact address or prove a landlord/tenant, family, or partnership relationship with S. Wolf. It also does not identify S. Wolf as the 1918 Wolf & Miller partner.
+
 ## 18 Jul 1922 fire — documented Wolf/Miller relationship in the fire cluster
 
 **20 Jul 1922, Banner-Courier, p1** reports the major Fifth/Main-area fire. The destroyed/damaged businesses included the Oregon City Laundry, May & Washburne garage, Fifth Street restaurant, **Gilbert Miller's shoe-repair shop**, and other frame businesses.
@@ -96,13 +104,13 @@ Important details:
 
 Source: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
-This is the strongest primary evidence recovered so far of a continuing **S. Wolf ↔ Gilbert Miller property/business network** after the 1918 Wolf & Miller period. The relationship could be business, family, landlord/tenant, nearby-property ownership, or some combination; the source itself does not explain it.
+Together with the 13 July sale notice, this is direct primary evidence that S. Wolf and Gilbert Miller were tied to the same named Main/Fifth property-and-fire cluster after the 1918 Wolf & Miller period. The relationship could be business, family, landlord/tenant, nearby-property ownership, or some combination; the sources do not explain it.
 
 ### Fire-location caution
 
 Earlier versions of this note said the July fire should simply be kept separate from 503/505. That wording is now too strong and is superseded.
 
-The current reconstruction has substantial evidence that the ignition room belonged somewhere in the **odd-numbered Main Street frontage near Fifth**, with **503 currently the strongest hypothesis and 501 still a live alternative**. The 1925 geometry — 503 restaurant, 505 billiards/cigars, and the laundry behind 501/503 — is compatible with a **503 ignition room adjoining a 505 pool hall**, but this remains **unproven**.
+The current reconstruction places the ignition room somewhere in the **odd-numbered Main Street frontage near Fifth**. The July sale separates Gates's restaurant location from Wolf's remainder, and August reports show Gates rebuilding the corner restaurant site with two ground-floor stores (`E-097`). If that Gates footprint was principally modern 501, Wolf could begin at 503; if its two Main-facing rooms became 501+503, Wolf could begin near 505. The 1925 geometry remains compatible with **503 ignition / 505 pool hall**, but no recovered source chooses between those models.
 
 Do not assign the ignition room, S. Wolf property, Gilbert Miller shop, or adjoining pool hall to 501/503/505 until a contemporary exact-address, parcel, license, tax, deed, directory, or equivalent spatial bridge proves the mapping.
 
@@ -148,9 +156,9 @@ At present **none of those identities/connections is proven**. Do not merge them
 
 1. Identify the full name of **S. Wolf of Portland** using 1920–1923 Portland directories, deeds and Oregon City property records.
 2. Identify the first name of the **Wolf** partner in Springfield's Wolf & Miller through business licenses, directories, newspaper social items, partnership notices or dissolution reporting.
-3. Find the exact parcel/address of S. Wolf's building involved in the July 1922 fire.
+3. Retrieve the reported **Harding → S. Wolf / C. Gates** deed(s), then map the Wolf remainder and Gates restaurant location to the modern frontage.
 4. Find a source explicitly naming **Gilbert Miller** as proprietor/operator of `Miller's/Millers Shoe Store`.
 5. Reconstruct the post-fire **209 Fifth → 419 Main** move between 21 Sep and 26 Oct 1922 and find a transition notice if possible.
 6. Corroborate Gilbert Miller's marriage to Clara Rose Wolf and identify Clara's siblings/next of kin.
 7. Locate deeds/tax records establishing the reported Wolf-family acquisition of **503 Main around 1922** and compare the owner name directly with S. Wolf / Clara's Wolf family.
-8. Keep the 501/503/505 fire mapping explicitly unresolved until an exact spatial bridge is recovered.
+8. Keep the 501/503/505 fire mapping explicitly unresolved until an exact spatial bridge is recovered; test both the 501-only and 501+503 Gates-footprint models.

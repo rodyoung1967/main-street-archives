@@ -1357,3 +1357,42 @@ evidence:
       - B-001
       - B-002
       - B-003
+
+  - id: E-096
+    name: Harding Main Street Property Sale to S. Wolf and C. Gates, July 1922
+    type: Primary newspaper property-transfer and storefront-allocation evidence; direct visual inspection
+    claims:
+      - Five days before the Fifth/Main fire, Banner-Courier reported that a George A. Harding Main Street property group containing the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop and the Red Front Clothing Store had been sold to S. Wolf and C. Gates, both of Portland.
+      - The article assigns the Fifth Street Restaurant location to C. Gates and the remainder to S. Wolf.
+      - The visually verified 20 July fire report names S. Wolf as owner of the ignition building, creating a strong immediate property-chain inference.
+      - The newspaper report is not the deed and supplies no legal description, dimensions or exact 501/503/505 mapping.
+    confidence: Very High for published allocation; High/strong inference for continuity into the S. Wolf fire-origin property; deed, identities, boundaries and numbered storefront unresolved.
+    related_sources:
+      - S-111
+    related_people:
+      - P-001
+      - P-035
+      - P-036
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+
+  - id: E-097
+    name: C. E. Gates Fifth/Main Fire-Replacement Building, August 1922
+    type: Primary newspaper construction and post-fire property evidence; direct visual inspection of two scans
+    claims:
+      - A new building was under construction at Fifth/Main on C. E. Gates's property by 17 August 1922, with R. A. Junken as contractor and occupancy expected about 1 October.
+      - Oregon City Enterprise identifies it as a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building.
+      - Two ground-floor storerooms and upper residential rooms were planned; one storeroom was already leased for a barber shop.
+      - The two stores may map to the 1925 501/503 pair, but no dimensions or exact-address bridge proves that hypothesis.
+    confidence: Very High for construction, owner wording, material, planned uses, contractor and timing; High for C. Gates/C. E. Gates continuity; Plausible/unproven for exact storefront mapping.
+    related_sources:
+      - S-112
+      - S-113
+    related_people:
+      - P-036
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005

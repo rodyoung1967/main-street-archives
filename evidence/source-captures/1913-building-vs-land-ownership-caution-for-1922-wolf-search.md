@@ -1,6 +1,6 @@
 # 1913 target-block building-owner vs. assessed-lot-owner caution — implication for the 1922 S. Wolf search
 
-Status: **STRONG CROSS-SOURCE INFERENCE / VISUAL CERTIFICATION INCOMPLETE**
+Status: **1913 ASSESSMENT SCAN VISUALLY VERIFIED; 1913 FIRE REPORT OCR/TEXT-ONLY; 1922 PROPERTY-SALE SEQUENCE VISUALLY VERIFIED**
 
 Purpose: preserve an important property-research caution that emerged while tracing the July 1922 fire-origin building owned by **S. Wolf of Portland**. The available 1913 evidence shows that a person described by a contemporary newspaper as owner of a target-frontage **building** need not appear as the assessed owner of the underlying original Block 26 lot. Therefore the 1921/1922 land assessment roll is a high-value source, but it must not be treated as the only possible place where S. Wolf's ownership can appear.
 
@@ -42,14 +42,14 @@ A **23 Oct 1913 Morning Enterprise** municipal assessment notice identifies the 
 The same notice describes the line separating Lots 1–4 from Lots 5–8 running north from Fifth Street through Block 26 toward Sixth Street. Independent 1906 evidence fixes **Lot 8 / Gambrinus / former William Tell Hotel at Sixth & Main**, so Lots 5–8 are the Main-side sequence relevant to the target frontage.
 
 Primary archive page:
-https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8/ocr/
+https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
 
 Related files:
 - `evidence/source-captures/1913-main-street-research.md`
 - `evidence/E-064-1906-william-tell-hotel-block26.md`
 - `maps/sanborn-comparison-503-505-507.md`
 
-The 1913 Block 26 owner list is presently supported by the primary archive text/OCR and existing project synthesis; this new note does **not** upgrade it to a newly completed page-image visual certification.
+Verification state: **VISUALLY VERIFIED** on the scanned page (`E-094` / `S-107`).
 
 ## 4. The mismatch and its meaning
 
@@ -67,6 +67,10 @@ The current evidence does **not** establish which mechanism explains the 1913 mi
 ## 5. Consequence for the July 1922 S. Wolf search
 
 The **20 Jul 1922 Banner-Courier** directly says the fire began in a Main Street building owned by **S. Wolf of Portland**.
+
+A newly recovered and visually inspected **13 Jul 1922 Banner-Courier** property notice now reports that George A. Harding's Main Street store group—including the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store—had been sold to **S. Wolf and C. Gates of Portland**. The restaurant location went to Gates and the remainder to Wolf (`E-096` / `S-111`). Two August reports then identify Gates as owner/developer of the Fifth/Main restaurant site (`E-097` / `S-112`–`S-113`).
+
+This is direct contemporary property-sale reporting and creates a strong link between the newly reported Wolf remainder and the Wolf-owned ignition building. It does not yet establish the legal instrument or show that the 1913 and 1922 ownership mismatches arose through the same mechanism.
 
 The project has correctly prioritized the surviving 1921/1922-era assessment, tax, land, lot, deed and title records. The 1913 comparison now shows that the search should be broader:
 
@@ -97,14 +101,14 @@ Conversely, an S. Wolf entry in a land/deed record would be highly valuable posi
 
 ## 6. Relationship to original Block 26 geometry
 
-Official City historic-district guidance says original Oregon City blocks are approximately **200 x 200 feet**, generally divided into **50 x 100-foot lots**. The 1913 boundary description separates Lots 1–4 from Lots 5–8 through Block 26; the independently documented Lot 8 / Sixth & Main anchor strongly supports the working Main-side sequence from Fifth northward:
+The visually verified official original Oregon City plat says the lots in the target Applegate-surveyed portion are at least **66 feet front by 100 feet back**. The former 50-foot general-context model is superseded. The 1913 boundary description separates Lots 1–4 from Lots 5–8 through Block 26; the independently documented Lot 8 / Sixth & Main anchor supports the Main-side sequence from Fifth northward:
 
 **Lot 5 → Lot 6 → Lot 7 → Lot 8 (Sixth/Main end).**
 
-This is a **strong geometric reconstruction**, but modern storefront numbers should not be assigned one-for-one to these 50-foot lots without measuring the Sanborn/frontage geometry. Multiple storefronts can occupy one platted lot and later parcels can cross original lot boundaries.
+Proportional measurement of the 1925 Sanborn places the combined 501+503+505 frontage at approximately 66–67 feet. The resulting **strong inference** places those three storefronts approximately within original Lot 5 and the Lot 5/Lot 6 line at or near the 505/507 wall (`E-094`). This is not yet deed/survey proof, and it does not locate the internal Gates/Wolf division.
 
-Official City block-dimension context:
-https://www.orcity.org/1240/McLoughlin-Conservation-District
+Official original plat:
+https://maps.orcity.org/plats/2.pdf
 
 ## What is NOT established
 
@@ -114,20 +118,23 @@ Do not claim from this note that:
 - Harding's Chicago Store building definitely stood at 505 on the exact fire night without the cross-source continuity qualification;
 - S. Wolf necessarily held a separate building-only ownership interest in 1922;
 - the 1922 land assessment must omit S. Wolf;
-- original Lot 5, 6, 7 or 8 has yet been conclusively assigned to modern 501, 503 or 505;
+- the strong approximate placement of 501/503/505 in Lot 5 constitutes cadastral proof;
+- the Gates/Wolf 1922 division corresponds to any specific 501/503/505 wall;
 - the 1913 and 1922 ownership arrangements were legally identical.
 
 ## Confidence
 
 - Chicago Store documented at 505 Main before Dec 1913: **Very High**
 - Dec 1913 primary text says George Harding owned the Chicago Store building: **High / primary OCR-text, visual certification pending**
-- Oct 1913 primary text lists Block 26 Lots 5–8 under Barlow/David, First National Bank, Jaggar and Gambrinus rather than Harding: **High / primary OCR-text, existing archive synthesis**
+- Oct 1913 scan lists Block 26 Lots 5–8 under Barlow/David, First National Bank, Jaggar and Gambrinus rather than Harding: **Very High / visually verified**
 - Building ownership and assessed land ownership therefore cannot safely be assumed identical for the target frontage: **Strong methodological conclusion**
-- Same mechanism explains S. Wolf's 1922 ownership: **Unproven; must be tested**
+- 13 Jul 1922 sale notice reports Harding's named property group divided between Gates and Wolf: **Very High for published wording; deed still pending**
+- The same legal mechanism explains both the 1913 mismatch and 1922 sale: **Unproven; must be tested**
 
 ## Next checks
 
-1. Visually certify the **25 Dec 1913 Courier** page and the relevant **23 Oct 1913 Morning Enterprise** assessment columns when the page images can be retrieved at sufficient resolution.
-2. Determine which original Block 26 lot interval contains 501/503/505 by measuring the 1925 Sanborn frontage against the 50-foot lot framework.
-3. Trace the relevant Block 26 lot owner chain forward from 1913 through 1922.
-4. In parallel, search for **building/improvement ownership** records under George Harding (1913) and S. Wolf (1922) rather than relying only on fee-title/land-owner indexes.
+1. Visually certify the **25 Dec 1913 Courier** fire page; its owner wording remains primary OCR/text-only.
+2. Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and map the legal dimensions against original Lot 5 and the 1925 storefronts.
+3. Trace the Lot 5 Barlow/David chain forward from 1913 through Harding and the July 1922 buyers, while preserving any discontinuity rather than assuming one chain.
+4. Retrieve the Gates/Junken August 1922 permit or plans to fix the two-store replacement footprint.
+5. In parallel, search **building/improvement ownership** under George Harding and S. Wolf rather than relying only on fee-title/land-owner indexes.
