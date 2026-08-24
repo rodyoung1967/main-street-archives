@@ -4,18 +4,49 @@ Status: **active lead file / mixed evidence quality**
 
 Purpose: trace the people behind the short-lived 1918 **Wolf & Miller** operation at **505 Main**, and test whether later Wolf/Miller property relationships help identify the 1922 fire premises or the Wolf-family ownership later reported at 503 Main.
 
-## Gilbert Miller identified as the Miller partner
+## Miller-partner identity — Gilbert Miller strongly supported, but a primary-name conflict must be preserved
 
-A Springfield newspaper item materially improves the earlier OCR-distorted move evidence.
+Two August 1918 newspaper reports now create a genuine source conflict rather than an OCR-only problem.
 
-- **22 Aug 1918, Springfield News** — reports that **Gilbert Miller left the preceding Saturday for Oregon City**. This fits the Wolf & Miller Springfield close-out and the later exact 505 Main anchor.
-- A National Register nomination for Springfield independently says that around 1918 **Gilbert Miller of Wolf and Miller (men's furnishings)** lived in Springfield.
+### 20 Aug 1918 — Eugene Daily Guard reprint says C. E. Miller
 
-Sources:
-- https://oregonnews.uoregon.edu/lccn/sn97071003/1918-08-22/ed-1/
-- https://npgallery.nps.gov/GetAsset/272e10e2-b0bf-4107-b28c-e6d0aa35dd4e
+The actual scanned page of the **Eugene Daily Guard, 20 Aug 1918, p5** has been visually inspected. In its `SPRINGFIELD NEWS` column, the item headed **Goes to Oregon City** clearly prints:
 
-Interpretation: the earlier Eugene reprint/OCR forms `K. Miller` and `C. E. Miller` should not be treated as reliable initials. **Gilbert Miller** is the stronger identification for the Miller partner who moved from Springfield to Oregon City in August 1918.
+- **C. E. Miller, of the Wolf and Miller Department store**;
+- he had been closing out his stock for the past month;
+- he left for Oregon City;
+- he would join **Mrs. Miller and family**, who had already been there for about two months.
+
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn96088107/1918-08-20/ed-1/seq-5.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+The initials `C. E.` are visible in the scan and therefore must **not** be dismissed as merely OCR corruption.
+
+### 22 Aug 1918 — Springfield News says Gilbert Miller
+
+The actual scanned page of the **Springfield News, 22 Aug 1918, p3** has been visually inspected. The local item clearly prints **Gilbert Miller** and says he left the preceding Saturday for Oregon City, where he would join his family, who had moved there some time earlier; Miller had remained in Springfield to close out his business.
+
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn97071003/1918-08-22/ed-1/seq-3.pdf
+
+Verification state: **VISUALLY VERIFIED**.
+
+A National Register nomination for Springfield independently says that around 1918 **Gilbert Miller of Wolf and Miller (men's furnishings)** lived in Springfield.
+
+Source:
+https://npgallery.nps.gov/GetAsset/272e10e2-b0bf-4107-b28c-e6d0aa35dd4e
+
+### Current interpretation
+
+The two newspaper items describe the same highly specific event pattern — the Wolf & Miller close-out, departure for Oregon City, and family already there — but one prints **C. E. Miller** and the other **Gilbert Miller**. The most likely explanation is a reprint/editorial name error in the Eugene paper, especially because the Springfield local paper and later historic inventory both support Gilbert Miller. However, this remains an **inference**, not a license to erase the conflict.
+
+Therefore:
+
+- **Gilbert Miller remains the strongest identification of the Miller partner**;
+- `C. E. Miller` is now a **visually verified conflicting primary-source name form**, not an OCR artifact;
+- do not create or merge a separate C. E. Miller individual unless independent evidence establishes one.
 
 ## 1918 Wolf & Miller business anchor
 
