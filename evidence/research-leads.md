@@ -94,6 +94,8 @@ The alignment is not yet cadastral proof. Recover a deed, title abstract, survey
 
 The **1913 assessment notice is now formally registered and visually verified** (`S-107` / `E-094`): **Lot 5 — Mary E. Barlow / Juliette E. David; Lot 6 — First National Bank; Lot 7 — Frank Jaggar; Lot 8 — Gambrinus Brewing Company**. It is a 1913 ownership/assessment snapshot, not 1910 evidence and not proof of the 1922 chain.
 
+**OHS retrieval update:** the official MSS 1503 Title Abstracts Index has now been visually inspected (`E-095` / `S-109`). Its Box 19 row is titled **“Block 4, Lots 3 & 4, Oregon City”**, but its separate Lot column reads **“3, 4, 5”**; the same row says **Main St., 5th St.** Preserve that internal conflict. The ArchivesWest finding aid (`S-110`) confirms that Series B Box 19 contains Clackamas County title abstracts and that such abstracts can carry ownership chains, maps and later-subdivision descriptions. The actual abstract is still unretrieved and is now an explicit **MANUAL CALLOUT**, so no S. Wolf appearance, title chain or Block 26/Block 4 conversion is established. Request the complete item and ask OHS to reconcile the title/lot-field discrepancy.
+
 ## RL-027 — Identify the 1907 Pacific States Telephone Office Address and Lot
 `E-065` / `S-079` places the newly completed Pacific States Telephone & Telegraph central office on the **east side of Main between Fifth and Sixth** in spring 1907 but gives no number or lot.
 

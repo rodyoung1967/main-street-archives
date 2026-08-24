@@ -425,3 +425,17 @@ Type: Primary official subdivision plat / recorded survey narrative; **visually 
 Related evidence: `E-094`; cross-reference `E-064`
 Repository source capture: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
 Notes: The first page says the Applegate-surveyed Washington-to-river portion has lots **at least 66 feet front and 100 feet back**, with 10-foot alleys, and graphically depicts Block 26's eight-lot pattern. The City's catalog identifies this as OREGON CITY, county plat 2, year 1850. The PDF has not yet been mirrored into the repository; the canonical official URL and visual-audit result are preserved here.
+
+## S-109 — OHS MSS 1503 Title Abstracts Index
+Canonical PDF: https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
+Type: Official institutional archival index; **first-page row visually verified**.
+Related evidence: `E-095`
+Repository source capture: `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
+Notes: Direct visual inspection verifies the Box 19 Oregon City row at Main/Fifth. The Legal Address / Title field reads **Block 4, Lots 3 & 4, Oregon City**, while the separate Lot field reads **3, 4, 5**. This internal conflict is preserved. The index is not the title abstract and proves no owner or transaction.
+
+## S-110 — ArchivesWest finding aid for OHS Land Collection, MSS 1503
+Canonical page: https://archiveswest.orbiscascade.org/ark%3A80444/xv18136
+Type: Official institutional archival collection finding aid.
+Related evidence: `E-095`
+Repository source capture: `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
+Notes: Describes the open-to-public OHS Land Collection, places Benton–Clackamas county title abstracts in Series B, Box 19, and says abstracts can convey ownership chains and include maps, sketches, PLSS descriptions and subsequent subdivisions. It describes the collection generally, not the unretrieved contents of the specific Oregon City abstract; obtaining that item is a MANUAL CALLOUT.

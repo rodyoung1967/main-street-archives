@@ -279,3 +279,13 @@ sources:
     name: Original Oregon City plat, county plat 2, cataloged 1850
     url: https://maps.orcity.org/plats/2.pdf
     notes: Official image-only plat PDF, visually verified. Applegate-surveyed lots are at least 66 feet front by 100 feet back. Related evidence E-094.
+
+  - id: S-109
+    name: OHS MSS 1503 Title Abstracts Index
+    url: https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
+    notes: Official institutional index; target first-page row visually verified. The title says Block 4 Lots 3 & 4, while the separate Lot field says 3, 4, 5. Related evidence E-095.
+
+  - id: S-110
+    name: ArchivesWest finding aid for OHS Land Collection, MSS 1503
+    url: https://archiveswest.orbiscascade.org/ark%3A80444/xv18136
+    notes: Official collection finding aid. Series B Box 19 contains Benton-Clackamas county title abstracts; obtaining the unretrieved target abstract is a MANUAL CALLOUT. Related evidence E-095.

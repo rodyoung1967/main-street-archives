@@ -43,10 +43,13 @@ buildings:
       - E-048
       - E-049
       - E-094
+      - E-095
     related_sources:
       - S-021
       - S-107
       - S-108
+      - S-109
+      - S-110
     related_maps:
       - SM-002
       - SM-003
@@ -130,10 +133,13 @@ buildings:
       - E-045
       - E-046
       - E-094
+      - E-095
     related_sources:
       - S-021
       - S-107
       - S-108
+      - S-109
+      - S-110
     related_maps:
       - SM-002
       - SM-003
@@ -162,10 +168,13 @@ buildings:
       - E-021
       - E-045
       - E-094
+      - E-095
     related_sources:
       - S-063
       - S-107
       - S-108
+      - S-109
+      - S-110
     related_maps:
       - SM-002
       - SM-003

@@ -894,3 +894,20 @@ evidence:
       - B-002
       - B-003
       - B-005
+
+  - id: E-095
+    name: OHS MSS 1503 Main/Fifth Title-Abstract Index Entry
+    type: Official institutional archival index and collection finding aid
+    claims:
+      - The visually verified first page of the official OHS index lists a Box 19 Oregon City item at Main and Fifth whose title says Block 4 Lots 3 & 4 and whose separate Lot field says 3, 4, 5.
+      - The conflicting title and Lot-field values are preserved; the abstract's exact lot scope is unresolved.
+      - The official finding aid places Clackamas County abstracts in Series B Box 19 and describes potential ownership-chain and map content at collection level.
+      - The actual abstract has not been retrieved or inspected, is an open MANUAL CALLOUT, and proves no S. Wolf connection, 1922 ownership, improvement ownership, parcel identity, or Block 26-to-Block 4 conversion.
+    confidence: Very High for index fields and finding-aid facts; Strong retrieval lead; property-history conclusions unresolved.
+    related_sources:
+      - S-109
+      - S-110
+    related_buildings:
+      - B-001
+      - B-002
+      - B-003

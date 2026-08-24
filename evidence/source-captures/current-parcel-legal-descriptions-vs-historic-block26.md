@@ -93,10 +93,10 @@ The archive has direct 1906 evidence in `E-064` that the William Tell Hotel at *
 See:
 `evidence/E-064-1906-william-tell-hotel-block26.md`
 
-A separate **23 Oct 1913 Morning Enterprise** legal description independently confirms the original block geography. In tracing a boundary, it runs south along the west side of **Blocks 7, 6, 5 and 4 to the southerly line of Fifth Street**, then runs east along Fifth to **Block 26**, and then north through Block 26 to the southerly line of Sixth Street.
+A separate **23 Oct 1913 Morning Enterprise** assessment notice, now visually verified from the page scan (`S-107` / `E-094`), independently confirms the original block geography. In tracing a boundary, it runs south along the west side of **Blocks 7, 6, 5 and 4 to the southerly line of Fifth Street**, then runs east along Fifth to **Block 26**, and then north through Block 26 to the southerly line of Sixth Street.
 
 Source:
-https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8/ocr/
+https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
 
 This establishes with high confidence that in the **original/historic Oregon City block-numbering system**:
 
@@ -107,17 +107,22 @@ Therefore the current `(2) OREGON CITY, Block 4` descriptions for 503/505 **cann
 
 ## OHS title-abstract bridge
 
-The Oregon Historical Society's **MSS 1503 Title Abstracts Index** contains a highly relevant entry:
+The Oregon Historical Society's **MSS 1503 Title Abstracts Index** has now been visually inspected. Its first page contains a highly relevant entry:
 
 - **Box 19**
 - **Block 4, Lots 3 & 4, Oregon City**
+- separate Block and Lot columns: **Block 4 / Lots 3, 4, 5**
 - Clackamas County / Oregon City
 - street address: **Main St., 5th St.**
 
 Index:
 https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
 
-This closely overlaps the modern Block 4 / Lots 3–4 descriptions for 503/505 and may provide the title-chain bridge explaining the later cadastral numbering and the Wolf ownership sequence.
+The title and separate Lot column conflict and must both be preserved. The row closely overlaps the modern Block 4 / Lots 3–4 descriptions for 503/505 and possibly part of 507, so it may provide the title-chain bridge explaining the later cadastral numbering and the Wolf ownership sequence. The actual abstract has not been retrieved or inspected; retrieval is a **MANUAL CALLOUT**, and the index alone proves no owner or ownership chain (`E-095`).
+
+Official collection finding aid:
+
+https://archiveswest.orbiscascade.org/ark%3A80444/xv18136
 
 Detailed project lead:
 `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`

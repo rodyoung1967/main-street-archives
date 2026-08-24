@@ -5,8 +5,8 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`
-- Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`, `E-095`
+- Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`, `S-109`, `S-110`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
@@ -119,6 +119,7 @@ High-priority evidence to locate:
 - Determine whether Tony's Restaurant was present at the time of the fire.
 - Establish Dixon's Bakery's exact storefront address in September 1967.
 - Distinguish clearly between evidence for the original building and evidence for the 1968 replacement.
+- Retrieve the OHS MSS 1503 Box 19 Main/Fifth abstract and determine whether its conflicting index scope (title Lots 3–4; Lot field 3–5) includes any later parcel portion underlying 507 (`E-095`).
 
 ## Open Questions
 
