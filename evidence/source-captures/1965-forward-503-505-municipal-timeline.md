@@ -93,6 +93,17 @@ This is the archive's earliest registered municipal anchor for the **505 Tavern*
 
 ---
 
+## 1973–1987 — Brass Rail / Hansen→Wiitanen interval
+
+| Field | Value |
+| --- | --- |
+| Status | **Targeted online pass, 24 Aug 2026** — see `evidence/source-captures/1973-1987-503-505-research-pass.md` |
+| Existing anchors | Feb. 1976 **505 Tavern** classified (`E-046`); Apr. 1983 **Wheel Cafe** (`E-047`); Apr.–Aug. 1985 **Wheel Cafe at 503 Main** / Richard M. Wiitanen owner (`E-048`, `E-049`); 2009 form **1940** build date / **505 Tavern** name line (`E-100`) |
+| Not recovered online | Brass Rail trade-name dates; Ray Hansen → Wiitanen business sale; Wiitanen purchase of 505 from Mrs. Nesmeth/Nemeth; commission liquor renewals for 1973–1987 |
+| Manual callouts | Synergy minutes 1973–1987; Polk directories 1973–1987; OLCC files; Clackamas deed index (`RL-041`) |
+
+---
+
 ## 1988 — Dug Inn / Brass Rail transfer at 505 Main
 
 | Field | Value |
@@ -189,7 +200,7 @@ Supports continuing **505 real-estate** interest by Richard Wiitanen during the 
 These periods still lack registered Oregon City commission or permit records in the archive:
 
 1. **1966–1971** — liquor renewals / business licenses at 505 between the 1965 and 1972 minute anchors.
-2. **1973–1987** — Brass Rail operating interval, Hansen→Wiitanen transition, and pre-Dug Inn records.
+2. **1973–1987** — Brass Rail operating interval, Hansen→Wiitanen transition, and pre-Dug Inn records. **August 2026 targeted pass:** no new primary record recovered online; see `evidence/source-captures/1973-1987-503-505-research-pass.md` and `RL-041`.
 3. **1989–2008** — Sports Keg, Mitch Young March 1991 acquisition, and pre-Berman operator chain.
 4. **2013–2016** — Thirsty Duck opening permits and Forvilly-era records.
 5. **503 deed/tax/assessor chain** — Wolf-family ownership to 1972 is city-inventory secondary only; no post-1972 property-transfer municipal record is registered yet.

@@ -133,6 +133,8 @@ Aerial evidence establishes that a distinct **501 Main structure existed in 1936
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.
 
+Official historic inventories report **1940** as the primary construction date for **505 Main / 505 Tavern** (`E-100` / `S-116`; corroborated in `S-063`), in tension with the city's **c.1920** synthesis (`E-032`) and pre-1940 Sanborn/aerial occupancy at 505. An **unresolved working hypothesis** (`E-101`) proposes that **1940** may reflect rear expansion or major rear remodel while **c.1920** may describe the Main Street front / historic core; no 1939–1941 permit has yet confirmed this.
+
 ## November 1965 — 505 Tavern liquor renewal
 Oregon City Commission minutes list **505 Tavern** at 505 Main on a liquor-license renewal agenda (`E-029` / `S-038`). This is the archive's earliest registered municipal anchor for the 505 Tavern trade name. It does not by itself prove real-estate ownership or the individual liquor-license holder.
 
@@ -144,6 +146,17 @@ ODOT's 2021 cultural-resources table dates the **present Harding Building at 507
 
 ## March 1972 — 505 Tavern liquor renewal
 Commission minutes again list **505 Tavern** on a liquor-license renewal agenda (`E-029` / `S-039`).
+
+## 1973–1987 — Brass Rail / Hansen→Wiitanen interval (partial anchors only)
+
+A targeted August 2026 online pass (`evidence/source-captures/1973-1987-503-505-research-pass.md`) recovered **no new primary municipal or directory record** naming **Brass Rail**, **Ray Hansen**, or the Wiitanen **505 building purchase** inside this interval. Existing anchors within or immediately adjacent to the period are:
+
+- **Feb. 1976** — **505 Tavern** classified at Oregon City, phone **655-4321** (`E-046` / `S-053`).
+- **Apr. 1983** — **Wheel Cafe** named as a downtown lunch landmark (`E-047`).
+- **Apr.–Aug. 1985** — **The Wheel Cafe, 503 Main St.**; **Richard M. Wiitanen** named owner (`E-048`, `E-049`).
+- **2009 resurvey form** — **505 Main** primary construction date **1940**; name line **505 Tavern** (`E-100` / `S-116`).
+
+Synergy commission-minute PDFs and Polk Oregon City directories for **1973–1987** remain **manual callouts** (`RL-041`). Absence of online hits is coverage only, not evidence that Brass Rail or Hansen did not exist in this period.
 
 ## Family context: LaFarlette / Grisham / Wiitanen
 **Raye LaFarlette and Raye Grisham are the same woman.** Raye bought **The Wheel at 503 Main**. The Wheel was only at 503.

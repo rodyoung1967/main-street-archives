@@ -13,7 +13,7 @@ Polk directories and Oregon City telephone books may establish year-by-year occu
 Oregonian of 2 September 1967 (`E-045`) dates the block fire to 1 September 1967 and names Harding Drug Store and Dixon's Bakery among businesses gutted. `S-063` dates the present 507-511 Harding Building to **1968** at the official historic-inventory level. Remaining work: fire-department/insurance corroboration and primary demolition, permit, assessor, plan, architect, builder, consolidation, completion, and occupancy records. Earlier Enterprise-Courier 1968-1969 searching was looking in the wrong years for the fire itself.
 
 ## RL-005 — 505 Rear Addition / Building Footprint
-Compare assessor sketches, permits, tax cards, Sanborn maps, deeds, parcel maps, and physical measurements to determine whether the rear portion of 505 was added later and whether 505 extends farther back than 503.
+Compare assessor sketches, permits, tax cards, Sanborn maps, deeds, parcel maps, and physical measurements to determine whether the rear portion of 505 was added later and whether 505 extends farther back than 503. **August 2026 update:** working hypothesis **`E-101`** proposes that a rear expansion or major rear remodel **might** explain the inventory **1940** date while **c.1920** may describe the front/core; this remains **unresolved**. Priority tests: **1939–1941 permits**; assessor improvement cards **1938–1942**; Sanborn **1925 vs. 1950** rear-depth overlay at 505; aerial comparison **`IMG-0007` (1936) / `IMG-0008` (1940) / `IMG-0009` (1944)**; physical material/footprint analysis. See `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md`.
 
 ## RL-006 — 503 / 505 Width and Boundary Relationship
 Research the legal, structural, and practical boundary between 503 and 505 Main. Test the working observation that 503 may be wider while 505 may be deeper.
@@ -160,3 +160,14 @@ Test two explicit models rather than choosing from the 1925 Sanborn use pattern:
 2. Gates's two Main-facing stores become modern 501+503; Wolf remainder begins around 505, shifting the ignition candidate north.
 
 Retrieve the July deed(s), grantor/grantee index, August building permit/plans, assessment change, fire-insurance record, and the first exact-address tenants of the two Gates rooms. Preserve the possibility of changed entrances, subdivision, or post-fire footprint. Do not exclude 501 until the July restaurant location is directly mapped.
+
+## RL-041 — 1973–1987 Municipal, Directory, and OLCC Follow-Up for Brass Rail / Hansen→Wiitanen
+Complete the interval work started in `evidence/source-captures/1973-1987-503-505-research-pass.md`. Highest-value targets:
+
+1. **Synergy / ORMS City Commission minutes, 1973–1987** — liquor-license renewals and change-of-ownership applications naming **505 Tavern**, **Brass Rail**, **503 Main**, **505 Main**, **Wheel**, **Wiitanen**, or **Hansen**.
+2. **Polk's Oregon City directories, 1973, 1975, 1977, 1979, 1980, 1981, 1983, 1985, 1987** — street-guide and alphabetical entries for **501–511 Main** and the businesses above.
+3. **OLCC historical license files** for **505 Main** applicants/operators in the interval.
+4. **Clackamas Recorder deeds** — Mrs. **Nesmeth / Nemeth** → Wiitanen **505** purchase and any **503** Wiitanen building transaction in the same years.
+5. **Oregonian / Oregon Journal microfilm, 1973–1987** where committed clippings and oregonnews access are insufficient.
+
+Preserve the family framework: Dick and Sheila **operated Brass Rail before owning the 505 building**; Hansen belongs to the earlier **505 business** chain; The Wheel belongs only to **503**. Documented interval anchors already include **505 Tavern** in Feb. 1976 (`E-046`), **Wheel Cafe** at 503 in 1983–1985 (`E-047`–`E-049`), and **Dug Inn formerly Brass Rail** in Apr. 1988 (`E-030`).

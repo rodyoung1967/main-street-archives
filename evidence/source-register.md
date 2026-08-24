@@ -727,3 +727,10 @@ Type: Primary municipal permit log; permit text extracted from weekly log PDF.
 Related evidence: `E-099`
 Repository source capture: `evidence/source-captures/1965-forward-503-505-municipal-timeline.md`
 Notes: Permit **RWOBS-21-00029** for a temporary one-day parklet abutting **503 Main St** on 17 September 2021. Applicant description names **White Rabbit/Black Ink** with partner **Black Ink Coffee**; APN 2-2E-31AB-08200.
+
+## S-116 — Oregon Historic Site Form, 505 Main St, 19 January 2009 resurvey
+Source/location: https://legacyorcity.teammunicode.com/sites/default/files/fileattachments/planning/page/5739/505_main.pdf
+Type: Official state historic-site inventory form; PDF text extracted in August 2026.
+Related evidence: `E-100`
+Repository source capture: `evidence/source-captures/1973-1987-503-505-research-pass.md`
+Notes: Resurvey dated **1/19/2009** (also noted surveyed **5/1/2000**). Lists **primary construction date 1940**, current/other name **505 Tavern**, commercial general use, 1-story vernacular building, not eligible/non-contributing. Corroborates ODOT 1940 date (`S-063`); does not name interval operators.

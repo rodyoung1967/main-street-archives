@@ -579,6 +579,7 @@ evidence:
     claims:
       - City 503 record reports c.1919 construction estimate, Kwality chronology, Flor, and Wolf-family ownership roughly 1922-1972.
       - City 505 record reports 1916 directory silence, c.1920/1925 construction estimate, 1941 Dr. Roy Briggs, 1945 Harr's Recreation Center, and 1953 Well's Recreation.
+      - The 2009 Oregon Historic Site Form (S-116 / E-100) separately lists 505 Main with primary construction date 1940 and name line 505 Tavern, corroborating ODOT 1940 while leaving c.1920 synthesis and 1925 Sanborn use in tension.
     confidence: Medium-high as official synthesis; underlying pages preferable.
     related_sources:
       - S-026
@@ -1426,3 +1427,37 @@ evidence:
       - BUS-018
     related_buildings:
       - B-001
+
+  - id: E-100
+    name: 505 Main Oregon Historic Site Form; 1940 Construction Date
+    type: Official state historic-site inventory form; PDF text extraction
+    claims:
+      - The 19 January 2009 resurvey form for 505 Main St lists primary construction date 1940 and current/other name 505 Tavern.
+      - This corroborates the 2021 ODOT 1940 build-date line for 505 Main but does not resolve the c.1920 city synthesis on S-033 or the 1925 Sanborn billiards use.
+      - The form names no Brass Rail, Hansen, or Wiitanen operators.
+      - See E-101 for an unresolved working hypothesis that 1940 may reflect rear expansion or major rear remodel.
+    confidence: Very High for form fields; High as 1940-date corroboration; Unresolved for rebuild/fabric meaning.
+    related_sources:
+      - S-116
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: E-101
+    name: 505 Main Rear Expansion / 1940 Inventory-Date Working Hypothesis
+    type: Working hypothesis / interpretive synthesis
+    claims:
+      - The 1940 primary construction date on official historic inventories for 505 Main may reflect rearward expansion, major rear remodel, or related improvement rather than first erection of the entire premises.
+      - Supporting context includes E-010 rear-addition recollection, E-011 depth observation, pre-1940 Sanborn and 1936 aerial occupancy at 505, and the c.1920 vs. 1940 inventory conflict.
+      - No 1939-1941 permit or assessor card has been recovered; competing explanations remain live.
+    confidence: Low to Moderate for rear-expansion explanation — Unresolved; Very High that the 1940 vs. c.1920 conflict requires explanation.
+    related_sources:
+      - S-033
+      - S-063
+      - S-116
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+    repository_file: evidence/E-101-505-rear-expansion-1940-date-hypothesis.md

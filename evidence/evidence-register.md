@@ -180,7 +180,7 @@ Confidence: High as family chronology framework; exact dates and legal mechanics
 ## E-032 — Oregon City Historic Inventories for 503 and 505 (Official Secondary)
 Type: Official secondary synthesis  
 Sources: `S-026`, `S-033`  
-Claims: City 503 record reports c.1919 construction estimate, Kwality Restaurant 1926, Kwality Cafe 1947, Flor 1957, Wolf-family ownership roughly 1922-1972. City 505 record reports no 1916 directory listing (not proof of vacancy), c.1920/1925 construction estimate, 1941 Dr. Roy Briggs at 505 1/2, 1945 "Harr's Recreation Center," 1953 "Well's Recreation." Original directory pages still needed.  
+Claims: City 503 record reports c.1919 construction estimate, Kwality Restaurant 1926, Kwality Cafe 1947, Flor 1957, Wolf-family ownership roughly 1922-1972. City 505 record reports no 1916 directory listing (not proof of vacancy), c.1920/1925 construction estimate, 1941 Dr. Roy Briggs at 505 1/2, 1945 "Harr's Recreation Center," 1953 "Well's Recreation." The **2009 Oregon Historic Site Form** (`S-116` / `E-100`) separately lists **505 Main** with **primary construction date 1940** and name line **505 Tavern**, corroborating the ODOT 1940 date (`S-063`) while leaving the c.1920 synthesis and 1925 Sanborn use in documented tension. Original directory pages still needed.  
 Confidence: Medium-high as official synthesis; underlying pages preferable.
 
 ## E-033 — Farr's Pool Hall Proprietors
@@ -214,6 +214,20 @@ Sources: `S-115`
 Related record: `evidence/E-099-2021-503-main-parklet-permit.md`  
 Claims: Permit **RWOBS-21-00029** authorizes a temporary one-day parklet abutting **503 Main St** on **17 September 2021**. Applicant description names **White Rabbit/Black Ink** with partner **Black Ink Coffee**; APN 2-2E-31AB-08200. Documents continued 503 occupancy under those trade names at the municipal-permit level.  
 Confidence: Very High for permit date, address, and applicant wording.
+
+## E-100 — 505 Main Oregon Historic Site Form; 1940 Construction Date
+Type: Official state historic-site inventory form; PDF text extraction  
+Sources: `S-116`  
+Related record: `evidence/E-100-2009-505-main-historic-site-form-1940-date.md`  
+Claims: The 19 January 2009 resurvey form for **505 Main St** lists **primary construction date 1940** and current/other name **505 Tavern**. This corroborates the 2021 ODOT **1940** build-date line for 505 Main (`S-063`) but does not resolve the c.1920 city synthesis on `S-033` or the 1925 Sanborn billiards use. It names no Brass Rail, Hansen, or Wiitanen operators. See **`E-101`** for an unresolved working hypothesis that the 1940 line may reflect rear expansion or major rear remodel rather than first whole-building erection.  
+Confidence: Very High for the form fields; High as 1940-date corroboration; Unresolved for rebuild/fabric meaning.
+
+## E-101 — 505 Main Rear Expansion / 1940 Inventory-Date Working Hypothesis
+Type: Working hypothesis / interpretive synthesis  
+Sources: `E-010`, `E-011`, `E-020`, `E-021`, `E-032`, `E-100`, `S-033`, `S-063`, `S-116`  
+Related record: `evidence/E-101-505-rear-expansion-1940-date-hypothesis.md`; source capture: `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md`  
+Claims: The **1940** primary construction date on official historic inventories for **505 Main** may reflect a **rearward expansion, major rear remodel, or related improvement event** rather than first erection of the entire premises. Supporting context includes Mitch Young's rear-addition recollection (`E-010`), the 505-vs-503 depth observation (`E-011`), pre-1940 Sanborn and 1936 aerial occupancy at 505 (`E-020`, `E-021`), and the c.1920 vs. 1940 inventory conflict (`E-032`, `E-100`). No 1939–1941 permit or assessor card has been recovered; competing explanations remain live.  
+Confidence: Low to Moderate for the rear-expansion explanation — **Unresolved**; Very High that the 1940 vs. c.1920 conflict requires explanation.
 
 ## E-036 — Withdrawn 1981 Sandy Post Brass Rail Citation
 Type: Research correction  

@@ -84,6 +84,8 @@ Key evidence and map sources:
 - `E-035` 2017 permit showing Richard Wiitanen real-estate interest and UL-300 hood fire system at 505 Tavern
 - `E-098` 2016 503 Main interior remodel permit (Black Ink Coffee LLC)
 - `E-099` 2021 503 Main parklet permit (White Rabbit / Black Ink)
+- `E-100` 2009 Oregon Historic Site Form corroborating 505 Main 1940 construction date
+- `E-101` unresolved working hypothesis that 505 Main 1940 inventory date may reflect rear expansion/remodel
 - `E-038` corrected family property/business sequence for the Wiitanens
 - `SM-002` through `SM-009` Sanborn map series, especially `SM-008` 1925 and `SM-009` 1950
 
