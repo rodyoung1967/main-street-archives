@@ -80,6 +80,11 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
 One of the project laundry photographs visibly includes **Oregon City Laundry** together with a **May / Garage / blacksmith-auto-work** context. Because the July 1922 fire explicitly destroyed both the laundry and **May & Washburn's frame garage** in the same Fifth Street fire, that image is a strong candidate for the **pre-July-1922 Fifth Street cluster**.
 
+**May & Washburn are independently documented by April 1921** in county road-payment records and continue in 1922. If the visible May/Garage building is confirmed as their premises, the best current date window for this photograph becomes approximately **April 1921–July 1922**.
+
+Source for earliest current May & Washburn hit:
+https://oregonnews.uoregon.edu/lccn/sn00063700/1921-04-29/ed-1/seq-7/
+
 This is not yet a final identification, but it is much stronger than the earlier generic 1930s dating guess for that image.
 
 If the visible garage can be matched to May & Washburn, the photograph must predate the July 1922 fire.
@@ -179,7 +184,7 @@ If the visible GARAGE sign proves to be **Fifth St. Garage**, then 1912 and 1913
 
 **1915–early 1918**, with **1915–1916** now especially important.
 
-Separately, the laundry/May-garage photograph appears to have its own strong **pre-July-1922** bound if the May & Washburn identification is correct.
+Separately, the laundry/May-garage photograph has a strong current working window of **April 1921–July 1922** if the May & Washburn identification is correct.
 
 ## Next checks
 
@@ -187,7 +192,7 @@ Separately, the laundry/May-garage photograph appears to have its own strong **p
 2. Determine whether the parade-photo GARAGE facade matches Fifth St. Garage rather than Scripture & May.
 3. Reconstruct Fifth Street numbers 108/109 and Main addresses 501/503 from the 1925 Sanborn.
 4. Separate the two laundry photographs by camera direction and street side; use the first photo's **west-facing** orientation as a fixed anchor.
-5. Test whether the first laundry photo's visible MAY/GARAGE building is **May & Washburn**, which would firmly place it before the July 1922 fire.
+5. Test whether the first laundry photo's visible MAY/GARAGE building is **May & Washburn**, which would firmly place it in the **1921–July 1922** window.
 6. Identify the second laundry photo as either the same pre-fire plant from another angle or the later **510 McLoughlin** plant.
 7. Search Historical Society CatalogIt for matching Fifth/Main parade and laundry/garage images.
 8. Keep city survey dates `c.1919` (503) and `c.1920` (505) approximate until independent evidence narrows them.
