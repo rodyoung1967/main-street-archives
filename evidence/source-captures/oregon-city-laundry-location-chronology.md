@@ -73,21 +73,24 @@ The article states that the laundry had recently installed modern machinery and 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
-A 19 Jul 1922 Morning Register wire report similarly says the Oregon City Laundry plant, **May's Warehouse garage**, Fifth Street restaurant, Miller shoe shop and other buildings were destroyed.
+A 19 Jul 1922 Morning Register wire report similarly says the Oregon City Laundry plant, **May & Washburn's garage**, Fifth Street restaurant, Miller shoe shop and other buildings were destroyed.
 
 Source:
-https://oregonnews.uoregon.edu/lccn/sn96088115/1922-07-19/ed-1/seq-1.pdf
+https://oregonnews.uoregon.edu/lccn/sn96088115/1922-07-19/ed-1/seq-1/
 
 ### May & Washburn lower-bound evidence
 
 May & Washburn appears in Clackamas County road-payment records by **29 Apr 1921**. That proves the partnership/business existed by then, although the county-payment entry does not establish the Fifth Street address.
 
-Source:
-https://oregonnews.uoregon.edu/lccn/sn00063700/1921-04-29/ed-1/seq-7/
+The partnership appears again in county-payment records in **October 1922**, after the fire. Therefore May & Washburn's continued existence is **not** an upper-bound dating clue by itself; the useful clue is the specific pre-fire frame garage that burned in July 1922.
 
-**Photo implication:** if a project laundry photograph can be visually matched to the laundry plus May & Washburn garage cluster, its strongest current working window is **Apr 1921 to Jul 1922**. This remains a hypothesis until the garage signage/building is visually matched.
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1921-04-29/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-5/ocr/
 
-## Late 1922 — business resumes quickly, replacement plant still unresolved
+**Photo implication:** if a project laundry photograph can be visually matched to the laundry plus the specific May & Washburn garage destroyed in the fire, its strongest current working window is **Apr 1921 to Jul 1922**. This remains a hypothesis until the garage signage/building is visually matched.
+
+## Late 1922 — business resumes quickly
 
 Although the July fire destroyed the plant, Oregon City Laundry was again appearing in county expense records by **September 1922** and **November 1922**, showing that the business resumed service quickly.
 
@@ -95,25 +98,46 @@ Sources:
 - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-28/ed-1/seq-5/ocr/
 - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-7/ocr/
 
-These entries prove resumed business activity but do **not** identify the replacement plant address. The temporary 519 Main office may have continued while production was performed elsewhere.
+These entries prove resumed business activity but do **not** identify the replacement production plant address. The temporary 519 Main office may have continued while production was performed elsewhere.
 
-## 1925 Sanborn / corridor reconstruction
+## 1925 Sanborn — direct visual review resolves the block geometry
 
-A City/ODOT technical memorandum summarizes the 1925 Sanborn as showing **Oregon City Laundry on the east side of 5th Street between Water Street and Main Street**.
+The City of Oregon City hosts the complete May 1925 Sanborn set. The **1925 master map** and **Sheet 6** have now been visually inspected directly.
 
-Source:
+Sources:
+- Sanborn collection: https://www.orcity.org/1301/Sanborn-Maps---McLoughlin-Downtown
+- 1925 master map: https://www.orcity.org/DocumentCenter/View/4861/1925--Master-Map-PDF
+- **1925 Sheet 6:** https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF
+- detailed project review: `evidence/source-captures/1925-sanborn-sheet-6-fifth-main-water-visual-review.md`
+
+### What Sheet 6 visually shows
+
+The block bounded by **Water Street, Main Street, Fifth Street and Sixth Street** contains a clearly labeled **OREGON CITY LAUNDRY** building/complex on the Fifth Street side of the block.
+
+The Main Street commercial storefronts occupy the eastern edge of this same block. This is the Main Street block containing the later **501 / 503 / 505** sequence.
+
+This directly supports the working interpretation that the laundry was a **side/rear-of-block operation behind the Main Street frontage**, rather than a Main Street storefront.
+
+### Post-fire implication
+
+The July 1922 fire destroyed the Oregon City Laundry plant, but the **May 1925 Sanborn physically maps an Oregon City Laundry building/complex back in the Fifth/Main/Water block**.
+
+Therefore it is now established that:
+
+> **By May 1925 Oregon City Laundry again had a physical laundry facility in the block between Water and Main along Fifth Street.**
+
+What remains unresolved is whether the 1925 facility was:
+
+1. rebuilt on the exact pre-fire 109 Fifth footprint;
+2. a different structure elsewhere in the same block;
+3. a post-fire replacement that later evolved into the McLoughlin-era property.
+
+The direct Sanborn visual supersedes the earlier need to rely only on the City/ODOT corridor memo's summary.
+
+A later City/ODOT memorandum independently summarizes the 1925 map as showing Oregon City Laundry between Water and Main near Fifth:
 https://www.orcity.org/DocumentCenter/View/12817/Tech-Memo-6-Most-Promising-Alternatives
 
-Important issue: this 1925 summary appears chronologically difficult to reconcile with the July 1922 destruction of the 109 Fifth plant. Possibilities include:
-
-1. the laundry rebuilt at/near the same Fifth Street location before 1925;
-2. the corridor memo is summarizing a later-revised Sanborn condition;
-3. the pre-fire and post-fire laundry occupied different structures on the same side of Fifth;
-4. the exact mapping of the 1922 destroyed plant versus the 1925 mapped laundry remains unresolved.
-
-Do not assume continuity without checking the actual 1925 Sanborn sheet and its revision history.
-
-## Later McLoughlin Boulevard location — corroborated 510–514 address
+## Later McLoughlin Boulevard location — visual survey confirmation
 
 Direct Oregon City municipal records identify Oregon City Laundry at **510 McLoughlin Boulevard**:
 
@@ -124,20 +148,15 @@ Sources:
 - https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722849/File/document
 - https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4753768/File/document
 
-Independent text extraction of Oregon City's **2000 Downtown Final Report** also places:
+The Oregon City **2000 Downtown Final Report** has now also been checked visually at the table page rather than relying on unstable text extraction. Page 30 shows:
 
-- **510–514 McLoughlin Blvd — Oregon City Laundry — 1939**;
-- **610 McLoughlin Blvd — Elks BPOE #1189 — 1923/1968**.
+- **510–514 McLoughlin Blvd — Oregon City Laundry — 1939**
+- **610 McLoughlin Blvd — Elks BPOE #1189 — 1923/1968**
 
-The Elks identification at **610 McLoughlin** is independently corroborated by later outside records that still place Oregon City Elks Lodge #1189 at 610 McLoughlin.
+Source:
+https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
-Sources:
-- https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
-- Oregon/ODOT cultural-resources and later Elks-address records used as corroboration.
-
-### Parsing caution
-
-Earlier web/PDF table extractions intermittently swapped adjacent rows and temporarily made it appear that Oregon City Laundry was at 610 McLoughlin. That interpretation is withdrawn. Because the PDF screenshot endpoint was unavailable during this review, preserve the parsing history in research notes, but current evidence strongly supports **510–514 McLoughlin as the laundry** and **610 McLoughlin as the Elks Lodge**.
+Earlier automated extraction intermittently swapped these adjacent rows. The visual page review resolves that parsing problem.
 
 **Current confidence:** High that the later Oregon City Laundry property was at **510–514 McLoughlin Blvd**, with the city survey assigning a **1939** construction date.
 
@@ -155,8 +174,8 @@ User visual identification provides an important camera-direction anchor for the
 Current rule:
 
 - treat the two photos as **separate identification problems**;
-- do not assume either image is automatically the 109 Fifth plant;
-- use camera direction, curb/street geometry, river background, and Sanborn footprints to identify street side;
+- do not assume either image is automatically the pre-fire 109 Fifth plant;
+- use camera direction, curb/street geometry, river background, and the now-directly-reviewed 1925 Sanborn footprints to identify street side;
 - preserve the possibility that the photos show different generations/locations of Oregon City Laundry;
 - also preserve the user's observation that another photograph appears to show a laundry on the opposite side of Fifth until the images are matched to mapped footprints.
 
@@ -171,19 +190,20 @@ Current rule:
 | Apr 1921 | May & Washburn partnership documented | High for existence; address unresolved |
 | Jul 1922 | Fifth Street laundry + May & Washburn garage destroyed by fire | Very High |
 | immediately after Jul 1922 fire | Temporary office at 519 Main with Pantorium | Very High |
-| Sep–Nov 1922 | laundry again active in county expense records | High for resumed service; address unresolved |
-| 1925 | Corridor memo says laundry east side of Fifth between Water/Main | High that memo says this; physical continuity unresolved |
-| 1939 | **510–514 McLoughlin Blvd** listed as Oregon City Laundry in city survey | High |
+| Sep–Nov 1922 | laundry again active in county expense records | High for resumed service; production address unresolved |
+| Oct 1922 | May & Washburn still active after fire | High; new garage/location unresolved |
+| May 1925 | **Sanborn Sheet 6 visually shows Oregon City Laundry in Fifth/Water/Main block behind Main frontage** | Very High |
+| 1939 | **510–514 McLoughlin Blvd — Oregon City Laundry** in city survey | High |
 | 1953 | **510 McLoughlin Blvd** | Very High |
 | 1967 | **510 McLoughlin Blvd** | Very High |
 
 ## Open questions
 
-1. Did Oregon City Laundry rebuild on Fifth immediately after the July 1922 fire?
-2. Where was the replacement production plant operating by Sep–Nov 1922?
-3. What exact Fifth Street number did May & Washburn occupy?
+1. Where was the replacement production plant operating in late 1922–1924?
+2. Was the 1925 laundry rebuilt on the exact pre-fire 109 Fifth footprint or elsewhere in the same block?
+3. What exact Fifth Street number did May & Washburn occupy before the fire?
 4. What building/location does each project laundry photo show?
-5. Which project laundry image corresponds to the pre-1922 109 Fifth plant?
-6. Is the 1925 Sanborn laundry footprint a rebuild, a revised-map condition, or a different location?
+5. Which project laundry image corresponds to the pre-1922 109 Fifth plant, and which (if either) corresponds to the 1925 rebuilt facility?
+6. How do the 1925 laundry footprint and individual lot lines align specifically behind 501 versus 503 Main?
 7. What explains the contradictory 1916 location reports?
 8. Was there ever a period with laundry premises simultaneously on opposite sides of Fifth, or do the photographs show sequential locations?
