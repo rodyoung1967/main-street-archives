@@ -151,8 +151,10 @@ buildings:
       - E-097
       - E-100
       - E-101
+      - E-102
     related_sources:
       - S-021
+      - S-022
       - S-107
       - S-108
       - S-109

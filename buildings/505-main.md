@@ -5,7 +5,7 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
 - Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`
 - Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-116`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
@@ -57,7 +57,7 @@ https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20
 
 The **2009 Oregon Historic Site Form** resurvey (`S-116` / `E-100`) independently lists **primary construction date 1940** and **505 Tavern** as the current/other name line, corroborating the ODOT date from an earlier official survey record.
 
-**Working hypothesis (`E-101`):** the **1940** inventory line may reflect a **rearward expansion or major rear remodel** rather than first erection of the entire premises, while **c.1920** may better describe the Main Street front / historic core. This remains **unresolved** — no 1939–1941 permit or verified Sanborn/aerial rear-footprint change has yet confirmed it. See `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md`.
+**Working hypothesis (`E-101`):** the **1940** inventory line may reflect a **rearward expansion or major rear remodel** rather than first erection of the entire premises, while **c.1920** may better describe the Main Street front / historic core. This remains **unresolved**. **`E-102`** (August 2026) visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950 and block reconfiguration; preliminary aerial comparison suggests block-level density change by 1940 without isolating 505 rear depth; **1939–1941 permits not recovered**. See `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md` and `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`.
 
 These estimates conflict by roughly twenty years with the c.1920 city synthesis (`S-033`). The 2000 c.1920 date now has direct visual verification in the underlying City report, but that does not by itself prove the estimate is historically correct.
 
@@ -77,9 +77,9 @@ See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evi
 - **1918:** Wolf & Miller directly occupies 505 Main, proving address use before either construction-date estimate.
 - **1925:** Sanborn visually shows a distinct 505 billiards/cigars occupancy.
 - **c.1920:** official 2000 City inventory estimate for the surviving/historic resource, now visually verified as source content.
-- **1940:** later inventory estimate that remains in conflict; **`E-101`** proposes it may reflect rear expansion/remodel rather than first whole-building erection — **unresolved**.
+- **1940:** later inventory estimate that remains in conflict; **`E-101`** proposes it may reflect rear expansion/remodel rather than first whole-building erection — **unresolved**; **`E-102`** strengthens mid-century improvement plausibility without confirming a 505-specific rear extension ~1940.
 
-The best next test is footprint/material continuity between the 1925 Sanborn, later Sanborn revisions/aerials, assessor records and current building, plus permit/tax evidence around 1920 and 1940. For the rear-expansion hypothesis specifically, compare **`IMG-0007` / `IMG-0008` / `IMG-0009`** and Sanborn **1925 vs. 1950** rear depth at 505 (`RL-005`).
+The best next test is assessor cards **1938–1942**, Oregon City Building Division archives for **1939–1941 permits**, steward-verified aerial rear-edge transcription for **`IMG-0007` / `IMG-0008` / `IMG-0009`**, and physical building analysis. See `RL-005`.
 
 ### July–August 1922 Gates/Wolf property division
 
@@ -114,7 +114,7 @@ Do not use **"The Wheel Tavern"** as an alternate name for 505 or 503. Family co
 
 ## Physical Building / Footprint Notes
 
-The rear portion of the 505 building may have been added later, based on family/oral history attributed to Mitch Young. This needs confirmation through permits, assessor sketches, Sanborn maps, tax records, deeds, or physical building analysis. **`E-101`** records an unresolved working hypothesis that such rear work **might** explain the inventory **1940** date; the recollection itself is undated and does not prove a ~1940 event.
+The rear portion of the 505 building may have been added later, based on family/oral history attributed to Mitch Young. This needs confirmation through permits, assessor sketches, Sanborn maps, tax records, deeds, or physical building analysis. **`E-101`** records an unresolved working hypothesis that such rear work **might** explain the inventory **1940** date; **`E-102`** completed a partial Sanborn/aerial footprint pass that strengthens mid-century improvement plausibility but does **not** confirm a 505-specific rear extension ~1940. The recollection itself is undated and does not prove a ~1940 event.
 
 There is also an unresolved footprint question: 505 may extend farther back than 503, while 503 may be somewhat wider. This should be treated as a working observation until confirmed by measurements, tax maps, assessor records, Sanborn maps, deeds, and parcel records.
 
@@ -153,6 +153,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 | `E-009` | Family/project provenance | After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC. |
 | `E-010` | Family/oral history | Rear portion of 505 may have been added later. |
 | `E-101` | Working hypothesis | **1940** inventory date may reflect rear expansion/remodel; **unresolved**. |
+| `E-102` | Primary map + preliminary aerial pass | **1925 vs. 1950** Sanborn verified at 505; **CONC. FL.** by 1950; block reconfiguration; preliminary aerial density change; **505 rear extension not confirmed**; **1939–1941 permits not recovered**. |
 | `E-011` | Owner observation | 505 may extend farther back than 503; 503 may be somewhat wider. |
 | `E-012` | Administrative record lead | Tax statements and tax records may help establish improvements, dates, and ownership history. |
 | `E-013` | Public comment screenshot | Local-memory evidence for 505 Tavern and Publishers Paper worker culture. |
@@ -189,7 +190,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - Reconcile the 1988 Wiitanen-to-Cotterell transfer with family recollections of repossession/default periods.
 - Confirm full formal names and records for Richard / Dick Wiitanen and Sheila Wiitanen.
 - Identify Willie by full name.
-- Confirm whether the rear portion of 505 was added later; test **`E-101`** against 1939–1941 permits, assessor cards, and Sanborn/aerial rear-footprint comparison.
+- Confirm whether the rear portion of 505 was added later; test **`E-101`** against assessor cards **1938–1942**, Oregon City Building Division archives **1939–1941**, steward-verified aerial rear-edge transcription (`E-102` partial pass), and physical building analysis.
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
 - Obtain deed/title/survey proof for the strong working placement of 505 within original Block 26 Lot 5 and the Lot 5/Lot 6 line near 505/507.
 - Retrieve the complete OHS MSS 1503 Box 19 abstract; its index title says later Block 4 Lots 3–4 while its Lot field says 3–5, so do not assume its exact 505 coverage before inspection (`E-095`).

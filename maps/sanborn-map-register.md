@@ -93,6 +93,7 @@ This register records Sanborn map sheets committed for the Main Street Archive. 
 ## SM-009 — 1950 Sanborn, 5th Area
 
 - Source ID: `S-022`
+- Canonical URL: https://www.orcity.org/DocumentCenter/View/4899/1950-6-PDF
 - Repository file: `maps/sanborn/originals/1950-6 (5th).pdf`
 - Original upload filename: `1950-6 (5th)(1).pdf`
 - Date: May 1925 base, later revised through 1950

@@ -1,10 +1,11 @@
 # Sanborn Evidence Note — 1925 / 1950 Main Street Comparison
 
-Evidence ID: `E-020`
+Evidence ID: `E-020` (structured note); footprint pass `E-102` (August 2026)
 Evidence type: Primary map evidence
 Sources: `S-021`, `S-022`
 Maps: `SM-008`, `SM-009`
 Related file: `maps/sanborn-comparison-503-505-507.md`
+Related capture: `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`
 Confidence: High for map-visible address and occupancy pattern; exact abbreviation readings still need high-resolution confirmation.
 
 ## Core finding
@@ -23,8 +24,20 @@ The 1925 sheet also directly addresses the earlier 501 / 503 / 505 question beca
 ## 1950 working reading
 
 - `503` remains a separate restaurant-labeled occupancy.
-- `505` is labeled with billiards, cigars, and beer-related use; restaurant wording is also visible nearby.
+- `505` is labeled with billiards, cigars, and beer-related use; restaurant wording is also visible nearby; **`CONC. FL.`** notation visible at 505 (`E-102`).
 - `507` appears as a separate store space.
+- Block-level reconfiguration between 1925 and 1950 includes a **Fifth-corner gas station**, reshaped **Oregon City Laundry** footprint, and **U.S. Post Office BUILT 1933** at southeast Fifth/Main (`E-102`).
+
+## August 2026 footprint pass (`E-102`)
+
+Visually verified comparison of canonical city PDFs for Sheet 6 (`S-021`, `S-022`):
+
+- **Confirmed:** 505 remained a **separate numbered Main Street storefront** from 1925 through 1950.
+- **Confirmed:** **Concrete-floor notation at 505 by 1950**, consistent with mid-century improvement work that could help explain an inventory **1940** line without requiring first-ever erection of the entire premises.
+- **Confirmed:** **Major block-level reconfiguration** between 1925 and 1950 overlapping the plausible window for a **1940** assessor/survey event.
+- **Not confirmed:** a **505-specific rear wall extension** toward Water/McLoughlin. The 1925 map places deep rear uses (laundry) behind **501/503**, while **505** reads as a separate frontage bay.
+
+Preliminary aerial comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** suggests block-level built coverage denser by 1940 but does not yet isolate 505 rear depth. **1939–1941 permits not recovered.**
 
 ## Archive implications
 

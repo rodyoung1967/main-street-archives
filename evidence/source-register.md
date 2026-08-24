@@ -110,9 +110,9 @@ Related evidence: `E-020`, `E-094`
 Notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for 501/503/505 Main and E-094 scale alignment. Related map SM-008.
 
 ## S-022 — 1950 Sanborn, 5th Area
-Source/location: ChatGPT upload - 1950-6 (5th)(1).pdf
-Related evidence: `E-020`
-Notes: May 1925 base sheet revised through 1950. Related map SM-009.
+Source/location: https://www.orcity.org/DocumentCenter/View/4899/1950-6-PDF
+Related evidence: `E-020`, `E-102`
+Notes: May 1925 base sheet revised through 1950; repository binary at maps/sanborn/originals/1950-6 (5th).pdf. Original upload filename: 1950-6 (5th)(1).pdf. Canonical city URL corrected August 2026 during `E-102` footprint pass. Related map SM-009.
 
 ## S-023 — Oregon City Aerial Photocompare Tool
 Source/location: https://maps.orcity.org/galleries/photocompare/index.html

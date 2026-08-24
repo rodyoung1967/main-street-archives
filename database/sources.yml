@@ -103,8 +103,8 @@ sources:
 
   - id: S-022
     name: 1950 Sanborn, 5th Area
-    url: ChatGPT upload - 1950-6 (5th)(1).pdf
-    notes: May 1925 base sheet revised through 1950. Related map SM-009.
+    url: https://www.orcity.org/DocumentCenter/View/4899/1950-6-PDF
+    notes: May 1925 base sheet revised through 1950; repository binary at maps/sanborn/originals/1950-6 (5th).pdf. Original upload filename 1950-6 (5th)(1).pdf. Canonical city URL corrected August 2026 during E-102 footprint pass. Related map SM-009.
 
   - id: S-023
     name: Oregon City Aerial Photocompare Tool

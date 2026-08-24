@@ -52,7 +52,7 @@ Cross-reference: `E-020` and `maps/sanborn-comparison-503-505-507.md` place **50
 
 ## 503 / 505 / 507 Block Observations
 
-- **503 & 505:** Remain part of the Main frontage north from the former 501 corner after 1944; finer legal/physical boundary not readable from aerials alone (`OQ-004` unchanged). **`E-101`** proposes testing whether **505's rear depth** changed between **1936 (`IMG-0007`)**, **1940 (`IMG-0008`)**, and **1944 (`IMG-0009`)** as a possible explanation for the inventory **1940** date; formal frame-by-frame transcription for that hypothesis is **pending** (`RL-005`).
+- **503 & 505:** Remain part of the Main frontage north from the former 501 corner after 1944; finer legal/physical boundary not readable from aerials alone (`OQ-004` unchanged). **`E-101`** proposes testing whether **505's rear depth** changed between **1936 (`IMG-0007`)**, **1940 (`IMG-0008`)**, and **1944 (`IMG-0009`)** as a possible explanation for the inventory **1940** date. **`E-102`** (August 2026) preliminarily compared those frames: block-level built coverage appears denser by **1940**, but **505-specific rear-edge transcription remains open** (`RL-005`). See `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`.
 - **507 / Harding Building:** Distinct roof mass visible in 1936; post-fire replacement footprint consistent with late-1960s fire narrative (`E-016`, `E-017`) in later color years — exact fire-year confirmation still needs newspapers / fire records.
 - **Circa 2017 modification:** Time Capsule Maps metadata (`E-015`) reports significant 503 modification around 2017; 2017+ color aerials (`IMG-0035` onward) may support future permit/photo comparison but are not transcribed here frame-by-frame.
 

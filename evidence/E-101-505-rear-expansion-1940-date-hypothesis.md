@@ -23,6 +23,10 @@ This hypothesis **does not** supersede the c.1920 synthesis, **does not** prove 
 
 Whole-building rebuild ~1940, assessor/survey dating convention only, or erroneous 1940 inheritance remain live alternatives until primary permits, assessor cards, Sanborn/aerial footprint comparison, or physical analysis resolve the conflict.
 
+**August 2026 footprint pass (`E-102`):** visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950 and major block reconfiguration; preliminary **1936/1940/1944** aerial comparison suggests block-level density change without isolating 505 rear depth; **1939–1941 permits not recovered**. Strengthens mid-century improvement plausibility for the **1940** inventory line; does **not** confirm a 505-specific rear extension ~1940.
+
+**August 2026 footprint pass (`E-102`):** visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950 and major block reconfiguration; preliminary **1936/1940/1944** aerial comparison suggests block-level density change without isolating 505 rear depth; **1939–1941 permits not recovered**. Strengthens mid-century improvement plausibility for the **1940** inventory line; does **not** confirm a 505-specific rear extension ~1940.
+
 ## Confidence
 
 **Low to Moderate** for the rear-expansion explanation of the 1940 inventory date — explicitly **Unresolved**; **Very High** that the 1940 vs. c.1920 conflict exists and requires explanation.
@@ -32,4 +36,5 @@ Whole-building rebuild ~1940, assessor/survey dating convention only, or erroneo
 - Building: `B-002`
 - Open questions: `OQ-002`, `OQ-003`, `OQ-004`
 - Research lead: `RL-005`
+- Related footprint pass: `E-102`
 - Media comparison targets: `IMG-0007`, `IMG-0008`, `IMG-0009`
