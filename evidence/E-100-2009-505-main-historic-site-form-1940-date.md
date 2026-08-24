@@ -19,6 +19,8 @@ The extracted 2009 resurvey form lists:
 
 This independently corroborates the **1940** build-date line for **505 Main / 505 Tavern** also reported in the 2021 ODOT cultural-resources table (`S-063`). It does **not** resolve the tension with the city's c.1920 synthesis on the legacy planning page (`S-033`) or the **1925 Sanborn billiards/cigars** occupancy at 505; those remain separate construction-vs-use questions.
 
+See **`E-101`** for an unresolved working hypothesis that the **1940** line may reflect rear expansion or major rear remodel rather than first whole-building erection.
+
 The form does **not** name Brass Rail, Ray Hansen, or Wiitanen operators.
 
 ## Confidence

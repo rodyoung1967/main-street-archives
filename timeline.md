@@ -133,6 +133,8 @@ Aerial evidence establishes that a distinct **501 Main structure existed in 1936
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.
 
+Official historic inventories report **1940** as the primary construction date for **505 Main / 505 Tavern** (`E-100` / `S-116`; corroborated in `S-063`), in tension with the city's **c.1920** synthesis (`E-032`) and pre-1940 Sanborn/aerial occupancy at 505. An **unresolved working hypothesis** (`E-101`) proposes that **1940** may reflect rear expansion or major rear remodel while **c.1920** may describe the Main Street front / historic core; no 1939–1941 permit has yet confirmed this.
+
 ## November 1965 — 505 Tavern liquor renewal
 Oregon City Commission minutes list **505 Tavern** at 505 Main on a liquor-license renewal agenda (`E-029` / `S-038`). This is the archive's earliest registered municipal anchor for the 505 Tavern trade name. It does not by itself prove real-estate ownership or the individual liquor-license holder.
 

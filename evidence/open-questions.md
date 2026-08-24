@@ -8,8 +8,12 @@ Was the current 503 Main Street building constructed in 1919, or does that date 
 ## OQ-002 — 505 Main Construction Date
 When was the current 505 Main Street building constructed?
 
+Status: **Unresolved.** Official inventories give **c.1920** (`E-032` / `S-033`) and **1940** (`E-100` / `S-116`, `S-063`), while **1925 Sanborn** and **1936 aerial** evidence show a 505-address structure before 1940. A working but unproven hypothesis (`E-101`) holds that **1940** may reflect rear expansion or major rear remodel while **c.1920** may better describe the Main Street front / historic core. Primary permits, assessor cards, verified Sanborn/aerial footprint comparison, or physical analysis are still needed.
+
 ## OQ-003 — 505 Rear Addition
 Was the rear portion of 505 Main Street added later? If yes, when, by whom, and under what permit or assessor change?
+
+Status: **Open.** Mitch Young's recollection supports a later rear portion (`E-010`); the 505-vs-503 depth observation (`E-011`) is consistent but undated. **`E-101`** proposes that any rear work **might** coincide with the inventory **1940** line, but no permit, assessor sketch, or verified map/aerial footprint change has yet confirmed date, scope, or owner. See `RL-005` and `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md`.
 
 ## OQ-004 — 503 / 505 Boundary
 Status: **Original-lot context narrowed; modern legal/physical boundary remains open.** `E-094` strongly aligns the original Block 26 Lot 5/Lot 6 division with the **505/507 wall**, placing 501/503/505 approximately within Lot 5. That does not resolve the internal 503/505 parcel/wall/depth relationship. What records prove the modern widths, depths, common wall and any rear additions?
