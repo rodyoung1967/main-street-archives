@@ -199,7 +199,7 @@ sources:
   - id: S-043
     name: Oregon City Permit Log, BB-17-0193, 18 April 2017
     url: https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF
-    notes: Richard Wiitanen co-trustee listed as owner. Related evidence E-035.
+    notes: Permit BB-17-0193 at 505 Main St / 505 Tavern for new UL-300 hood fire system; owner Wiitanen Richard Martin Co-Tru; valuation $2,750; APN 2-2E-31AB-08300. Related evidence E-035.
 
   - id: S-045
     name: Pleasant Hill School District alumni page, 3 February 2005, Ken Bagent
@@ -545,3 +545,13 @@ sources:
     name: Oregon City Enterprise, 18 August 1922, Gates fire-replacement building
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
     notes: Visually verified full-page scan. Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building, with two stores below and residential rooms above. Related evidence E-097.
+
+  - id: S-114
+    name: Oregon City Permit Log, BB-16-0534, 3 October 2016
+    url: https://www.orcity.org/DocumentCenter/View/726/October-3-2016-to-October-7-2016-PDF
+    notes: Permit BB-16-0534 at 503 Main St for hazmat abatement, interior non-load-bearing wall demo, and re-roof; owner Shahtout Black Ink Coffee LLC; valuation $61,700; APN 2-2E-31AB-08200. Related evidence E-098.
+
+  - id: S-115
+    name: Oregon City Permit Log, RWOBS-21-00029, September 2021
+    url: https://www.orcity.org/DocumentCenter/View/359/August-23-2021-to-August-27-2021-PDF
+    notes: Temporary one-day parklet abutting 503 Main St on 17 September 2021 for White Rabbit/Black Ink with partner Black Ink Coffee; APN 2-2E-31AB-08200. Related evidence E-099.

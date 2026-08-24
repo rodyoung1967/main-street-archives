@@ -122,14 +122,48 @@ timeline:
 
   - id: T-008
     date: 2017
-    summary: 505 Tavern was sold and reopened as Thirsty Duck. White Rabbit Black Ink opened at 503 Main.
-    confidence: Strong for 505 Tavern / Thirsty Duck transition; separate support needed for White Rabbit Black Ink details
+    summary: 505 Tavern was sold and reopened as Thirsty Duck. An April 2017 permit for a UL-300 hood fire system at 505 Tavern still lists Richard Martin Wiitanen as owner/co-trustee of the 505 real estate. White Rabbit Black Ink opened at 503 Main.
+    confidence: Strong for 505 Tavern / Thirsty Duck transition; very high for 2017 permit-era 505 real-estate facts; separate support needed for White Rabbit Black Ink article details
     related_evidence:
       - E-001
       - E-008
+      - E-035
     related_businesses:
       - BUS-005
       - BUS-006
     related_buildings:
       - B-001
       - B-002
+
+  - id: T-012
+    date: November 1965
+    summary: Oregon City Commission minutes list 505 Tavern at 505 Main on a liquor-license renewal agenda.
+    confidence: Very High for the trade name in municipal minutes; real-estate ownership and individual license holder unresolved
+    related_evidence:
+      - E-029
+    related_businesses:
+      - BUS-005
+    related_buildings:
+      - B-002
+
+  - id: T-013
+    date: October 2016
+    summary: Permit BB-16-0534 records hazardous-material abatement, interior non-load-bearing wall demolition, and re-roofing at 503 Main St under owner Shahtout Black Ink Coffee LLC.
+    confidence: Very High for permit-era address, owner line, work scope, and valuation
+    related_evidence:
+      - E-098
+    related_businesses:
+      - BUS-018
+    related_buildings:
+      - B-001
+
+  - id: T-014
+    date: September 2021
+    summary: Permit RWOBS-21-00029 authorizes a one-day parklet abutting 503 Main St for White Rabbit/Black Ink with partner Black Ink Coffee.
+    confidence: Very High for permit date, address, and applicant wording
+    related_evidence:
+      - E-099
+    related_businesses:
+      - BUS-018
+    related_buildings:
+      - B-001

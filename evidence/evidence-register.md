@@ -198,8 +198,22 @@ Confidence: High.
 ## E-035 — 2017 505 Permit; Richard Wiitanen Listed as Owner
 Type: Primary municipal permit log  
 Sources: `S-043`  
-Claims: Permit BB-17-0193, issued 18 April 2017, 505 Main / 505 Tavern, lists WIITANEN RICHARD MARTIN CO-TRU as owner and APN 2-2E-31AB-08300. Supports continuing **real-estate** ownership after the earlier Wiitanen purchase of 505 from Mrs. Nesmeth / Nemeth; it is not evidence that Richard was operating the tavern in 2017.  
+Claims: Permit **BB-17-0193**, issued 18 April 2017, at **505 Main St / 505 Tavern** for installation of a new **UL-300 fire system in the cooking hood** (related electrical permit BE-17-0278). Owner line reads **WIITANEN RICHARD MARTIN CO-TRU**; valuation $2,750; APN 2-2E-31AB-08300. Supports continuing **real-estate** ownership after the earlier Wiitanen purchase of 505 from Mrs. Nesmeth / Nemeth; it is not evidence that Richard was operating the tavern in 2017.  
 Confidence: Very High for 2017 permit-era real-estate facts.
+
+## E-098 — 2016 503 Main Interior Remodel Permit (Black Ink Coffee LLC)
+Type: Primary municipal permit log  
+Sources: `S-114`  
+Related record: `evidence/E-098-2016-503-main-interior-remodel-permit.md`  
+Claims: Permit **BB-16-0534**, application 31 August 2016 and issued 3 October 2016, at **503 Main St** for abatement of hazardous materials, demolition of interior non-load-bearing walls, and re-roofing. Owner line reads **SHAHTOUT BLACK INK COFFEE LLC**; valuation $61,700; APN 2-2E-31AB-08200. This is primary municipal evidence of a substantial interior/building-envelope project at 503 under the Black Ink Coffee ownership name; it does not by itself prove full building title or the exact White Rabbit / Black Ink operating sequence.  
+Confidence: Very High for permit-era address, owner line, work scope, and valuation.
+
+## E-099 — 2021 503 Main Parklet Permit (White Rabbit / Black Ink)
+Type: Primary municipal permit log  
+Sources: `S-115`  
+Related record: `evidence/E-099-2021-503-main-parklet-permit.md`  
+Claims: Permit **RWOBS-21-00029** authorizes a temporary one-day parklet abutting **503 Main St** on **17 September 2021**. Applicant description names **White Rabbit/Black Ink** with partner **Black Ink Coffee**; APN 2-2E-31AB-08200. Documents continued 503 occupancy under those trade names at the municipal-permit level.  
+Confidence: Very High for permit date, address, and applicant wording.
 
 ## E-036 — Withdrawn 1981 Sandy Post Brass Rail Citation
 Type: Research correction  

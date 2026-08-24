@@ -133,11 +133,17 @@ Aerial evidence establishes that a distinct **501 Main structure existed in 1936
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.
 
+## November 1965 — 505 Tavern liquor renewal
+Oregon City Commission minutes list **505 Tavern** at 505 Main on a liquor-license renewal agenda (`E-029` / `S-038`). This is the archive's earliest registered municipal anchor for the 505 Tavern trade name. It does not by itself prove real-estate ownership or the individual liquor-license holder.
+
 ## 1 September 1967 Main Street fire
 The Oregonian separately names **The Wheel Restaurant** and **505 Tavern**, confirming distinct establishments. Both were spared with smoke and water damage (`E-045`). Harding Drug Store and several other businesses were gutted. The present **527 Main Swartz Building predates this fire by about 32 years**, so it was not a wholesale post-fire replacement; the available 1935 dating evidence does not by itself establish what lesser fire, smoke, water, or repair damage it may have sustained.
 
 ## 1968 — present 507-511 Harding Building
 ODOT's 2021 cultural-resources table dates the **present Harding Building at 507-511 Main to 1968** (`S-063`). This provides documentary support for the replacement-building date following the 1 September 1967 fire and resolves the prior 1968-versus-1969 working question at the historic-inventory level.
+
+## March 1972 — 505 Tavern liquor renewal
+Commission minutes again list **505 Tavern** on a liquor-license renewal agenda (`E-029` / `S-039`).
 
 ## Family context: LaFarlette / Grisham / Wiitanen
 **Raye LaFarlette and Raye Grisham are the same woman.** Raye bought **The Wheel at 503 Main**. The Wheel was only at 503.
@@ -176,8 +182,14 @@ Mitch / Mitchell (C.) Young acquired the already-named 505 Tavern in March 1991 
 ## 2014
 Sheila Wiitanen died in 2014.
 
+## October 2016 — 503 Main interior remodel
+Permit **BB-16-0534** records hazardous-material abatement, interior non-load-bearing wall demolition, and re-roofing at **503 Main St** under owner **Shahtout Black Ink Coffee LLC** (`E-098` / `S-114`).
+
 ## 2017
-505 Tavern reopened as Thirsty Duck. An April 2017 permit still lists Richard Martin Wiitanen as owner/co-trustee of the 505 real estate (`E-035`).
+505 Tavern reopened as Thirsty Duck. An April 2017 permit for a new UL-300 hood fire system at **505 Tavern** still lists Richard Martin Wiitanen as owner/co-trustee of the 505 real estate (`E-035` / `S-043`).
+
+## September 2021 — 503 Main parklet
+Permit **RWOBS-21-00029** authorizes a one-day parklet abutting **503 Main St** for **White Rabbit/Black Ink** with partner **Black Ink Coffee** (`E-099` / `S-115`).
 
 ## November 2024 — 505 estate succession
 Richard / Dick Wiitanen died in November 2024. Family history says 505 Main passed to Rodney Young and Mitchell Young through his estate.

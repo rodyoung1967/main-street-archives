@@ -81,7 +81,9 @@ Key evidence and map sources:
 - `E-022` family identity / business-separation corrections
 - `E-030` 1988 Dug Inn / former Brass Rail transfer record
 - `E-031` earlier Hansen / Wiitanen / Brass Rail family account, interpreted with later family corrections
-- `E-035` 2017 permit showing Richard Wiitanen real-estate interest
+- `E-035` 2017 permit showing Richard Wiitanen real-estate interest and UL-300 hood fire system at 505 Tavern
+- `E-098` 2016 503 Main interior remodel permit (Black Ink Coffee LLC)
+- `E-099` 2021 503 Main parklet permit (White Rabbit / Black Ink)
 - `E-038` corrected family property/business sequence for the Wiitanens
 - `SM-002` through `SM-009` Sanborn map series, especially `SM-008` 1925 and `SM-009` 1950
 

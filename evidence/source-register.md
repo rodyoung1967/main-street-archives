@@ -206,7 +206,7 @@ Notes: Berman bought 505 Tavern in 2009. Related evidence E-034.
 ## S-043 — Oregon City Permit Log, BB-17-0193, 18 April 2017
 Source/location: https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF
 Related evidence: `E-035`
-Notes: Richard Wiitanen co-trustee listed as owner. Related evidence E-035.
+Notes: Permit BB-17-0193 at **505 Main St / 505 Tavern** for installation of a new UL-300 fire system in the cooking hood; related electrical permit BE-17-0278. Owner line reads **WIITANEN RICHARD MARTIN CO-TRU**; valuation $2,750; APN 2-2E-31AB-08300. Related evidence `E-035`.
 
 ## S-045 — Pleasant Hill School District alumni page, 3 February 2005, Ken Bagent
 Source/location: https://www.pleasanthill.k12.or.us/resources/community/alumni/classes
@@ -713,3 +713,17 @@ Type: Primary newspaper post-fire construction and property evidence; **visually
 Related evidence: `E-097`; cross-reference `E-096`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. No street numbers or dimensions are given.
+
+## S-114 — Oregon City Permit Log, BB-16-0534, 3 October 2016
+Source/location: https://www.orcity.org/DocumentCenter/View/726/October-3-2016-to-October-7-2016-PDF
+Type: Primary municipal permit log; permit text extracted from weekly log PDF.
+Related evidence: `E-098`
+Repository source capture: `evidence/source-captures/1965-forward-503-505-municipal-timeline.md`
+Notes: Permit **BB-16-0534** at **503 Main St** for abatement of hazardous materials, demolition of interior non-load-bearing walls, and re-roofing. Application 31 August 2016; issued 3 October 2016. Owner line reads **SHAHTOUT BLACK INK COFFEE LLC**; valuation $61,700; APN 2-2E-31AB-08200.
+
+## S-115 — Oregon City Permit Log, RWOBS-21-00029, September 2021
+Source/location: https://www.orcity.org/DocumentCenter/View/359/August-23-2021-to-August-27-2021-PDF
+Type: Primary municipal permit log; permit text extracted from weekly log PDF.
+Related evidence: `E-099`
+Repository source capture: `evidence/source-captures/1965-forward-503-505-municipal-timeline.md`
+Notes: Permit **RWOBS-21-00029** for a temporary one-day parklet abutting **503 Main St** on 17 September 2021. Applicant description names **White Rabbit/Black Ink** with partner **Black Ink Coffee**; APN 2-2E-31AB-08200.

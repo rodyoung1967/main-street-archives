@@ -222,11 +222,16 @@ businesses:
   - id: BUS-018
     name: White Rabbit / Black Ink
     address: 503 Main
-    notes: 2016-2017 renovation and later use.
+    notes: 2016-2017 renovation and later use; municipal permits E-098 and E-099.
     related_buildings:
       - B-001
     related_evidence:
       - E-001
+      - E-098
+      - E-099
+    related_sources:
+      - S-114
+      - S-115
 
   - id: BUS-019
     name: H. H. Smith pool hall

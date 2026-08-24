@@ -48,6 +48,8 @@ buildings:
       - E-095
       - E-096
       - E-097
+      - E-098
+      - E-099
     related_sources:
       - S-021
       - S-107
@@ -57,6 +59,8 @@ buildings:
       - S-111
       - S-112
       - S-113
+      - S-114
+      - S-115
     related_maps:
       - SM-002
       - SM-003
@@ -154,6 +158,11 @@ buildings:
       - S-111
       - S-112
       - S-113
+      - S-038
+      - S-039
+      - S-041
+      - S-042
+      - S-043
     related_maps:
       - SM-002
       - SM-003

@@ -630,7 +630,8 @@ evidence:
     name: 2017 505 Permit; Richard Wiitanen Listed as Owner
     type: Primary municipal permit log
     claims:
-      - Permit BB-17-0193 lists Richard Martin Wiitanen co-trustee as owner of 505 Main and APN 2-2E-31AB-08300.
+      - Permit BB-17-0193 at 505 Main St / 505 Tavern for installation of a new UL-300 fire system in the cooking hood; related electrical permit BE-17-0278.
+      - Owner line reads Wiitanen Richard Martin Co-Tru; valuation $2,750; APN 2-2E-31AB-08300.
       - This supports continuing real-estate ownership after the earlier Wiitanen purchase of 505 from Mrs. Nesmeth / Nemeth; it is not evidence of tavern operation in 2017.
     confidence: Very High for 2017 permit-era real-estate facts.
     related_sources:
@@ -1396,3 +1397,32 @@ evidence:
       - B-001
       - B-002
       - B-005
+
+  - id: E-098
+    name: 2016 503 Main Interior Remodel Permit (Black Ink Coffee LLC)
+    type: Primary municipal permit log
+    claims:
+      - Permit BB-16-0534, application 31 August 2016 and issued 3 October 2016, at 503 Main St for hazmat abatement, interior non-load-bearing wall demolition, and re-roofing.
+      - Owner line reads Shahtout Black Ink Coffee LLC; valuation $61,700; APN 2-2E-31AB-08200.
+      - Substantial interior/building-envelope project under Black Ink Coffee ownership name; not by itself proof of full title or exact operating sequence.
+    confidence: Very High for permit-era address, owner line, work scope, and valuation.
+    related_sources:
+      - S-114
+    related_businesses:
+      - BUS-018
+    related_buildings:
+      - B-001
+
+  - id: E-099
+    name: 2021 503 Main Parklet Permit (White Rabbit / Black Ink)
+    type: Primary municipal permit log
+    claims:
+      - Permit RWOBS-21-00029 authorizes a temporary one-day parklet abutting 503 Main St on 17 September 2021.
+      - Applicant description names White Rabbit/Black Ink with partner Black Ink Coffee; APN 2-2E-31AB-08200.
+    confidence: Very High for permit date, address, and applicant wording.
+    related_sources:
+      - S-115
+    related_businesses:
+      - BUS-018
+    related_buildings:
+      - B-001

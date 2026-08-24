@@ -6,7 +6,7 @@
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
 - Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`
 - Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`
-- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`
+- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -104,7 +104,7 @@ Do not use **"The Wheel Tavern"** as an alternate name for 505 or 503. Family co
 - `E-046` - 8 February 1976 classified: 505 Tavern, Oregon City, 655-4321.
 - `E-034` - Berman stated he bought 505 Tavern in 2009.
 - `E-008` - Scott Forvilly purchased in 2017 and reopened as Thirsty Duck.
-- `E-035` - 2017 permit lists Richard Martin Wiitanen as co-trustee/owner of the **real estate**, confirming continuing property ownership but not tavern operation.
+- `E-035` - 2017 permit **BB-17-0193** lists Richard Martin Wiitanen as co-trustee/owner of the **real estate** and records installation of a new UL-300 hood fire system at **505 Tavern**; confirms continuing property ownership but not tavern operation.
 - `E-009` / `E-022` / `E-038` - Richard died in November 2024; the 505 real estate passed to Rodney Young and Mitchell Young as part of his estate.
 - `E-018` - 2025 commercial lease: 505 LLC lessor; **Alin Guria** (`P-019`) lessee. Current steward clarification also identifies Alin as the operating-business owner; earlier **Alan** wording was a typo.
 
