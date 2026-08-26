@@ -2,6 +2,21 @@
 
 Year status: **IN PROGRESS** — active exhaustive pass.
 
+## Pause checkpoint — 26 August 2026
+
+The exhaustive 1915 online pass is deliberately paused and **is not complete**.
+
+- Validated online inventory: **105 issues / 896 pages** across the *Oregon City Courier* and *Oregon City Enterprise*.
+- Courier visual review: **72 of 123 scan sheets complete**; all issues through **22 July 1915** are reviewed, plus **29 July pages 1–4**.
+- Exact restart point: **29 July 1915, pages 5–8**.
+- Enterprise visual review: **0 of 107 scan sheets**.
+- Known archive exception: the derivative labeled **Courier, 14 January 1915, page 4** visually bears an *Oregon City Enterprise* 8 January running header and does not establish the true Courier page; log the genuine page as a retrieval gap/manual microfilm target unless resolved online.
+- The temporary local cache of downloaded PDFs and rendered scan sheets was cleared after an interruption. Rebuild that cache from the documented title/date inventory before resuming.
+- Detailed counts, corrections, exceptions, and remaining queue are preserved in [1915-page-review-checklist.md](1915-page-review-checklist.md).
+
+No absence finding, issue-level negative conclusion, or year-closeout claim may be drawn from the unfinished portion.
+
+
 ## Project requirement: every page, every available Oregon City newspaper
 
 For this project, a year is **not complete** until every available page of every relevant Oregon City newspaper for that year has been reviewed, not merely searched by OCR/index.
