@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`
 - Related people: `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`
-- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-116`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`
+- Related sources: `S-021`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-116`, `S-117`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`
@@ -83,7 +83,7 @@ The best next test is assessor cards **1938–1942**, Oregon City Building Divis
 
 ### July–August 1922 Gates/Wolf property division
 
-A visually verified 13 July sale notice reports that Harding's Main Street store group was divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** (`E-096`). The fire report names Wolf as owner of the ignition building. August construction reports then identify Gates's corner restaurant site as a two-story hollow-tile replacement with two ground-floor storerooms (`E-097`).
+A visually verified 13 July sale notice reports that Harding's Main Street store group was divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** (`E-096`). The preserved 20 July fire page names Wolf as owner of the ignition building and a pool hall as adjoining the former Schieremann tailor room (`E-103`). August construction reports then identify Gates's corner restaurant site as a two-story hollow-tile replacement with two ground-floor storerooms (`E-097`).
 
 The evidence does not assign modern 505 to either buyer. If the Gates replacement principally mapped to 501, 505 remains compatible with the adjoining pool hall in the working **503 ignition / 505 pool** reconstruction. If both Gates stores became the 1925 501+503 pair, Wolf's remainder could begin near 505, making 505 itself or a room farther north a stronger ignition candidate. No permit, deed dimension, or tenant address presently chooses between these models.
 

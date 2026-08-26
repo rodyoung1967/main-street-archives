@@ -51,6 +51,7 @@ timeline:
     confidence: Very High for visually verified fire-report facts; exact storefront unresolved
     related_evidence:
       - E-096
+      - E-103
     related_people:
       - P-035
     related_buildings:

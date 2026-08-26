@@ -666,6 +666,7 @@ Notes: Reports that **Herman Schrader** sold his two Oregon City bakeries—one 
 
 ## S-107 — Morning Enterprise, 23 October 1913, Block 26 assessment notice
 Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1913-10-23-page-8-block-26-assessment.pdf`
 Type: Primary newspaper / municipal assessment notice; **visually verified full-page scan**.
 Related evidence: `E-094`; cross-reference `E-064`
 Repository source capture: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
@@ -674,13 +675,15 @@ Notes: Direct page-image inspection verifies the boundary line separating Lots 1
 ## S-108 — Original Oregon City plat, county plat 2, cataloged 1850
 Official finder: https://www.orcity.org/401/Subdivision-Plat-Finder
 Canonical PDF: https://maps.orcity.org/plats/2.pdf
+Repository PDF: `maps/original-plats/1850-oregon-city-county-plat-2.pdf`
 Type: Primary official subdivision plat / recorded survey narrative; **visually verified image-only PDF**.
 Related evidence: `E-094`; cross-reference `E-064`
 Repository source capture: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
-Notes: The first page says the Applegate-surveyed Washington-to-river portion has lots **at least 66 feet front and 100 feet back**, with 10-foot alleys, and graphically depicts Block 26's eight-lot pattern. The City's catalog identifies this as OREGON CITY, county plat 2, year 1850. The PDF has not yet been mirrored into the repository; the canonical official URL and visual-audit result are preserved here.
+Notes: The first page says the Applegate-surveyed Washington-to-river portion has lots **at least 66 feet front and 100 feet back**, with 10-foot alleys, and graphically depicts Block 26's eight-lot pattern. The City's catalog identifies this as OREGON CITY, county plat 2, year 1850. The complete two-page PDF is preserved in the repository.
 
 ## S-109 — OHS MSS 1503 Title Abstracts Index
 Canonical PDF: https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
+Repository PDF: `records/title-abstracts/ohs-mss-1503-title-abstracts-index.pdf`
 Type: Official institutional archival index; **first-page row visually verified**.
 Related evidence: `E-095`
 Repository source capture: `evidence/source-captures/ohs-mss1503-block4-lots3-4-title-abstract-lead.md`
@@ -695,22 +698,25 @@ Notes: Describes the open-to-public OHS Land Collection, places Benton–Clackam
 
 ## S-111 — Banner-Courier, 13 July 1922, Harding property sale to Wolf and Gates
 Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
+Repository PDF: `newspapers/banner-courier/1922-07-13-page-1-harding-wolf-gates-property-sale.pdf`
 Type: Primary newspaper property-transfer and storefront-allocation evidence; **visually verified full-page scan**.
-Related evidence: `E-096`; cross-reference `E-097`
+Related evidence: `E-096`; cross-reference `E-097`, `E-103`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 Notes: “Property Changes Hands” reports sale of George A. Harding's Main Street property group to S. Wolf and C. Gates, both of Portland. It identifies the Fifth Street Restaurant, Miller's shoe store, adjoining barber shop and Red Front Clothing Store, assigning the restaurant location to Gates and the remainder to Wolf. No legal description, dimensions, deed data or exact street numbers are printed.
 
 ## S-112 — Banner-Courier, 17 August 1922, construction on C. E. Gates property
 Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1.pdf
+Repository PDF: `newspapers/banner-courier/1922-08-17-page-1-gates-building-started.pdf`
 Type: Primary newspaper construction evidence; **visually verified full-page scan**.
-Related evidence: `E-097`; cross-reference `E-096`
+Related evidence: `E-097`; cross-reference `E-096`, `E-103`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 Notes: “New Building Started” reports construction at Fifth/Main on the C. E. Gates property, with stores below, apartments above, R. A. Junken as contractor, and projected occupancy about 1 October.
 
 ## S-113 — Oregon City Enterprise, 18 August 1922, Gates fire-replacement building
 Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-replacement-building.pdf`
 Type: Primary newspaper post-fire construction and property evidence; **visually verified full-page scan**.
-Related evidence: `E-097`; cross-reference `E-096`
+Related evidence: `E-097`; cross-reference `E-096`, `E-103`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. No street numbers or dimensions are given.
 
@@ -734,3 +740,11 @@ Type: Official state historic-site inventory form; PDF text extracted in August 
 Related evidence: `E-100`
 Repository source capture: `evidence/source-captures/1973-1987-503-505-research-pass.md`
 Notes: Resurvey dated **1/19/2009** (also noted surveyed **5/1/2000**). Lists **primary construction date 1940**, current/other name **505 Tavern**, commercial general use, 1-story vernacular building, not eligible/non-contributing. Corroborates ODOT 1940 date (`S-063`); does not name interval operators.
+
+## S-117 — Banner-Courier, 20 July 1922, Fifth/Main fire
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1.pdf
+Repository PDF: `newspapers/banner-courier/1922-07-20-page-1-fifth-main-fire.pdf`
+Type: Primary local newspaper fire-origin, ownership, adjacency and damage evidence; **visually verified full-page scan**.
+Related evidence: `E-103`; cross-reference `E-096`, `E-097`
+Repository source capture: `evidence/source-captures/1922-fire-s-wolf-main-street-property-lead.md`
+Notes: The main report says the 18 July fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop, names S. Wolf of Portland as owner of the ignition building, and says a pool hall adjoined the former tailor premises. It separately identifies the affected business/property cluster. A second same-page item says Ketchner's confectionery was next to the laundry. The page gives no exact street number for the ignition room or adjoining pool hall.

@@ -87,6 +87,7 @@ Key evidence and map sources:
 - `E-100` 2009 Oregon Historic Site Form corroborating 505 Main 1940 construction date
 - `E-101` unresolved working hypothesis that 505 Main 1940 inventory date may reflect rear expansion/remodel
 - `E-102` 505 Main Sanborn/aerial footprint pass (1925 vs. 1950 verified; preliminary aerial; permits not recovered)
+- `E-103` visually verified 20 July 1922 Fifth/Main fire origin, S. Wolf ownership wording, and adjoining pool hall; exact 501/503/505 mapping unresolved
 - `E-038` corrected family property/business sequence for the Wiitanens
 - `SM-002` through `SM-009` Sanborn map series, especially `SM-008` 1925 and `SM-009` 1950
 

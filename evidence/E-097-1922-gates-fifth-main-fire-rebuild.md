@@ -8,7 +8,8 @@ Primary newspaper construction and post-fire property evidence; two independent 
 
 - `S-112` — *Banner-Courier*, 17 August 1922, page 1, “New Building Started.”
 - `S-113` — *Oregon City Enterprise*, 18 August 1922, page 5, “New Building Being Erected at Corner Of Fifth and Main.”
-- Cross-reference `S-111` / `E-096` and `S-021` / `SM-008`.
+- Repository PDFs: `newspapers/banner-courier/1922-08-17-page-1-gates-building-started.pdf`; `newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-replacement-building.pdf`.
+- Cross-reference `S-111` / `E-096`, `S-117` / `E-103`, and `S-021` / `SM-008`.
 
 Detailed audit note: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 

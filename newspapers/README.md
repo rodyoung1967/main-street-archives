@@ -8,6 +8,7 @@ Organize first by publication:
 
 ```text
 newspapers/
+  banner-courier/
   oregonian/
   oregon-city-enterprise/
   oregon-city-courier/
@@ -44,6 +45,8 @@ When a clipping is integrated:
 6. Register the image in `media/photo-metadata-register.md` when image-level tracking is useful.
 
 Do not infer claims from a filename alone; read the clipping before integrating its historical content.
+
+The `banner-courier/` folder currently preserves the visually verified July–August 1922 pages supporting `S-111`, `S-112`, and `S-117`. Related *Oregon City Enterprise* pages are stored under `oregon-city-enterprise/`.
 
 ## Root Uploads
 

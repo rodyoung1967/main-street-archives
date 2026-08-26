@@ -702,7 +702,7 @@ Confidence: Very High for the visually verified index fields and official findin
 ## E-096 — Harding Main Street Property Sale to S. Wolf and C. Gates, July 1922
 Type: Primary newspaper property-transfer and storefront-allocation evidence; direct visual inspection
 Date: 13 July 1922
-Sources: `S-111`; cross-reference the visually verified 20 July fire report
+Sources: `S-111`; cross-reference `S-117` / `E-103`
 Related record: `evidence/E-096-1922-harding-property-sale-wolf-gates.md`
 Claims: Five days before the Fifth/Main fire, the *Banner-Courier* reported that a George A. Harding Main Street property group containing the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop and the Red Front Clothing Store had been sold to **S. Wolf** and **C. Gates**, both of Portland. The article assigns the restaurant location to Gates and the remainder to Wolf. The later fire report names S. Wolf as owner of the ignition building, creating a strong immediate property-chain inference, but the deed, legal description and exact 501/503/505 mapping remain unresolved.
 Confidence: Very High for the visually verified published allocation; High / strong inference for continuity into the S. Wolf fire-origin property; Unresolved for deed-level title, identities, boundaries and numbered storefront.
@@ -710,7 +710,15 @@ Confidence: Very High for the visually verified published allocation; High / str
 ## E-097 — C. E. Gates Fifth/Main Fire-Replacement Building, August 1922
 Type: Primary newspaper construction and post-fire property evidence; direct visual inspection of two scans
 Date: 17–18 August 1922
-Sources: `S-112`, `S-113`; cross-reference `S-111`, `S-021`
+Sources: `S-112`, `S-113`; cross-reference `S-111`, `S-117` / `E-103`, `S-021`
 Related record: `evidence/E-097-1922-gates-fifth-main-fire-rebuild.md`
 Claims: Two contemporary papers report a new building under construction at Fifth/Main on the **C. E. Gates property**, with R. A. Junken as contractor and occupancy expected about 1 October. The *Enterprise* identifies it as a two-story hollow-tile replacement for the fire-destroyed building occupied by the Fifth Street Restaurant, with two ground-floor storerooms and upper residential rooms. The two stores may map to the 1925 501/503 pair, but no dimensions or address bridge proves that hypothesis.
 Confidence: Very High for the construction, owner wording, material, planned uses, contractor and timing; High for C. Gates/C. E. Gates continuity in this property sequence; Plausible / unproven for exact 1925 storefront mapping.
+
+## E-103 — Fifth/Main Fire Origin, S. Wolf Ownership and Pool-Hall Adjacency
+Type: Primary local newspaper fire-origin, ownership, adjacency and damage evidence; direct visual inspection
+Date: 18 July 1922 event; published 20 July 1922
+Sources: `S-117`; cross-reference `S-111` / `E-096`, `S-112`–`S-113` / `E-097`
+Related record: `evidence/E-103-1922-fifth-main-fire-origin.md`
+Claims: The visually verified *Banner-Courier* page says the fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop; names **S. Wolf of Portland** as owner of the ignition building; and says a pool hall adjoined the former tailor premises. It separately identifies the Oregon City Laundry, May & Washburn garage, Fifth Street Restaurant, Gilbert Miller shoe-repair shop, and Ketchner home/confectionery among the affected cluster, with a separate same-page item placing Ketchner's confectionery next to the laundry. The source does not print a street number for the ignition room or pool hall and therefore does not establish 501, 503, or 505.
+Confidence: Very High for the visually verified local report's origin, former use, owner wording, adjacency and named damage cluster; Unresolved for the exact modern storefront, S. Wolf's full identity, land-versus-improvement ownership, and the pool hall's operator.

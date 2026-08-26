@@ -3,8 +3,8 @@
 ## Archive ID
 
 - Building ID: `B-005`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111`, `S-112`, `S-113`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111`, `S-112`, `S-113`, `S-117`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 
@@ -18,7 +18,7 @@ The visually verified official original Oregon City plat says lots in the target
 
 ## July–August 1922 Property Division and Rebuild
 
-A visually verified **13 Jul 1922 Banner-Courier** notice reports that George A. Harding's Main Street property group was sold to S. Wolf and C. Gates, with the **Fifth Street Restaurant location assigned to Gates** and the remainder to Wolf (`E-096` / `S-111`). The 20 July fire report separately says Wolf owned the ignition building. On 17–18 August, two visually verified articles identify C. E. Gates as owner of the Fifth/Main corner site and describe a two-story hollow-tile replacement for the fire-destroyed restaurant building, with two ground-floor storerooms (`E-097` / `S-112`–`S-113`).
+A visually verified **13 Jul 1922 Banner-Courier** notice reports that George A. Harding's Main Street property group was sold to S. Wolf and C. Gates, with the **Fifth Street Restaurant location assigned to Gates** and the remainder to Wolf (`E-096` / `S-111`). The preserved and visually verified 20 July fire page separately says Wolf owned the ignition building and that a pool hall adjoined the former Schieremann tailor room (`E-103` / `S-117`). On 17–18 August, two visually verified articles identify C. E. Gates as owner of the Fifth/Main corner site and describe a two-story hollow-tile replacement for the fire-destroyed restaurant building, with two ground-floor storerooms (`E-097` / `S-112`–`S-113`).
 
 No source prints the Gates site's width or street number. If the July restaurant is eventually proved to have occupied modern 501, 501 would be strongly disfavored as the Wolf-owned ignition room. That address equation is presently unproven, so **501 remains a live alternative**. The two Gates storerooms also cannot yet be assumed to equal modern 501+503; one could have faced Fifth or occupied another arrangement.
 

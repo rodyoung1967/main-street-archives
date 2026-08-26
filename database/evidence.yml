@@ -1371,6 +1371,7 @@ evidence:
     confidence: Very High for published allocation; High/strong inference for continuity into the S. Wolf fire-origin property; deed, identities, boundaries and numbered storefront unresolved.
     related_sources:
       - S-111
+      - S-117
     related_people:
       - P-001
       - P-035
@@ -1480,3 +1481,23 @@ evidence:
     related_buildings:
       - B-002
     repository_file: evidence/E-102-505-sanborn-aerial-footprint-pass-2026-08-24.md
+
+  - id: E-103
+    name: Fifth/Main Fire Origin, S. Wolf Ownership and Pool-Hall Adjacency
+    type: Primary local newspaper fire-origin, ownership, adjacency and damage evidence; direct visual inspection
+    claims:
+      - The 20 July 1922 Banner-Courier says the 18 July fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop.
+      - The report names S. Wolf of Portland as owner of the ignition building and says a pool hall adjoined the former tailor premises.
+      - It identifies the Oregon City Laundry, May & Washburn garage, Fifth Street Restaurant, Gilbert Miller shoe-repair shop, and Ketchner home/confectionery within the affected cluster; a separate same-page item places Ketchner's confectionery next to the laundry.
+      - No street number is printed for the ignition room or pool hall, so 501, 503, and 505 remain unresolved candidates.
+      - Conflicting Eugene/Morning Register damage estimates and scrambled owner/operator names remain separate and are not silently harmonized with the local report.
+    confidence: Very High for visually verified local-report facts; exact modern storefront, S. Wolf identity, land-versus-improvement ownership, and pool-hall operator unresolved.
+    related_sources:
+      - S-117
+    related_people:
+      - P-035
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+    repository_file: evidence/E-103-1922-fifth-main-fire-origin.md

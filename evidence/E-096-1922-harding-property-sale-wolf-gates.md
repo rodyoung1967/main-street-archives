@@ -7,6 +7,8 @@ Primary newspaper property-transfer and storefront-allocation evidence; direct v
 ## Source
 
 - `S-111` — *Banner-Courier*, 13 July 1922, page 1, “Property Changes Hands.”
+- Repository PDF: `newspapers/banner-courier/1922-07-13-page-1-harding-wolf-gates-property-sale.pdf`
+- Fire cross-reference: `S-117` / `E-103`.
 
 Detailed audit note: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
 

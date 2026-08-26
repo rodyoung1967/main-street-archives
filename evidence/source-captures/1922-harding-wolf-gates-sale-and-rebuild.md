@@ -4,8 +4,8 @@ Status: **THREE PRIMARY NEWSPAPER SCANS VISUALLY VERIFIED; EXACT LEGAL DESCRIPTI
 
 Purpose: record a newly recovered ownership-and-rebuilding sequence immediately around the 18 July 1922 Fifth/Main fire. These sources directly connect **George A. Harding**, **S. Wolf**, **C. / C. E. Gates**, the **Fifth Street Restaurant**, **Miller's shoe store**, an adjoining barber shop, and the Red Front Clothing Store. They materially narrow the property search but do not assign the former Alex Schieremann tailor room to modern 501, 503, or 505 Main.
 
-Related evidence: `E-096`, `E-097`
-Related sources: `S-111`, `S-112`, `S-113`; cross-reference `S-021` and the visually verified 20 July fire report
+Related evidence: `E-096`, `E-097`; cross-reference `E-103`
+Related sources: `S-111`, `S-112`, `S-113`; cross-reference `S-021`, `S-117`
 
 ## 13 July 1922 — Harding property sale, five days before the fire
 
@@ -13,6 +13,9 @@ The actual page-one scan of the **13 July 1922 Banner-Courier** was visually ins
 
 Canonical page PDF:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
+
+Repository PDF:
+`newspapers/banner-courier/1922-07-13-page-1-harding-wolf-gates-property-sale.pdf`
 
 The article reports that:
 
@@ -30,6 +33,9 @@ The established, visually verified **20 July Banner-Courier** fire article says:
 - **S. Wolf of Portland owned the building in which the fire started**;
 - the Fifth Street Restaurant and Miller shoe-repair shop were among the separately named losses;
 - a pool hall adjoined the former tailor premises.
+
+Registered source/evidence: `S-117` / `E-103`
+Repository PDF: `newspapers/banner-courier/1922-07-20-page-1-fifth-main-fire.pdf`
 
 Read together, the 13 and 20 July articles provide a direct contemporary sequence:
 
@@ -54,6 +60,9 @@ The actual page-one scan of the **17 August 1922 Banner-Courier** was visually i
 Canonical page PDF:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1.pdf
 
+Repository PDF:
+`newspapers/banner-courier/1922-08-17-page-1-gates-building-started.pdf`
+
 ## 18 August 1922 — replacement building and former restaurant site
 
 The actual page-five scan of the **18 August 1922 Oregon City Enterprise** was visually inspected at high resolution on 24 August 2026. The article headed **“New Building Being Erected at Corner Of Fifth and Main”** adds that:
@@ -66,6 +75,9 @@ The actual page-five scan of the **18 August 1922 Oregon City Enterprise** was v
 
 Canonical page PDF:
 https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
+
+Repository PDF:
+`newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-replacement-building.pdf`
 
 The two August reports independently corroborate the buyer's fuller initials, the corner ownership, the mixed store/apartment design, the contractor, and the projected completion date. The Enterprise additionally ties the construction directly to the fire-destroyed restaurant building.
 

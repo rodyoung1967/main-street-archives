@@ -20,6 +20,10 @@ Index:
 
 https://www.ohs.org/research-and-library/research-help/upload/TitleAbstractsIndex_forWebsite_PDFA.pdf
 
+Repository PDF:
+
+`records/title-abstracts/ohs-mss-1503-title-abstracts-index.pdf`
+
 ### Visual audit
 
 On **24 August 2026**, the project downloaded the official PDF, rendered its first page at high resolution, and visually inspected the actual index page rather than relying on search results or extracted text. The row visibly reads:

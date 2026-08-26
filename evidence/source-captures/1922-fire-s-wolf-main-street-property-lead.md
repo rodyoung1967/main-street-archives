@@ -8,6 +8,9 @@ Purpose: preserve the property sequence around the July 1922 Fifth/Main-area fir
 
 **Banner-Courier, 20 Jul 1922, p. 1** reports that the major July 1922 fire destroyed the Oregon City Laundry and several neighboring businesses.
 
+Registered source/evidence: `S-117` / `E-103`
+Repository PDF: `newspapers/banner-courier/1922-07-20-page-1-fifth-main-fire.pdf`
+
 The article states that:
 
 - the flames were discovered in a **vacant store room formerly occupied by Alex Schieremann as a tailor shop**;
@@ -41,6 +44,9 @@ The page-one scan of the **13 Jul 1922 Banner-Courier** has now been visually in
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1.pdf
 
+Repository PDF:
+`newspapers/banner-courier/1922-07-13-page-1-harding-wolf-gates-property-sale.pdf`
+
 This report appeared five days before the fire. Read with the 20 July article naming S. Wolf as owner of the ignition building, it creates a **strong cross-source inference** that the ignition building belonged to the newly reported Harding-to-Wolf remainder, distinct from the restaurant location allocated to Gates. It is not deed-level proof: the deed, legal description, effective date, dimensions, and numbered addresses remain unrecovered.
 
 Detailed evidence: `evidence/E-096-1922-harding-property-sale-wolf-gates.md` and `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
@@ -55,6 +61,10 @@ Two visually inspected construction reports corroborate the separate Gates prope
 Sources:
 - https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1.pdf
 - https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5.pdf
+
+Repository PDFs:
+- `newspapers/banner-courier/1922-08-17-page-1-gates-building-started.pdf`
+- `newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-replacement-building.pdf`
 
 The July notice prints `C. Gates`; the August reports print `C. E. Gates`. The exact property and transaction context strongly supports continuity for this sequence, but the buyer's full identity remains unresolved and must not be merged with another C. E. Gates on initials alone.
 

@@ -14,6 +14,9 @@ The actual full-page scan of *Morning Enterprise*, 23 October 1913, page 8, was 
 Canonical page PDF:
 https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
 
+Repository PDF:
+`newspapers/oregon-city-enterprise/1913-10-23-page-8-block-26-assessment.pdf`
+
 The notice describes the assessment boundary as running east along Fifth Street to the line between **Lots 4 and 5, Block 26**, then northerly along the line separating **Lots 1, 2, 3, 4** from **Lots 5, 6, 7, 8** to the south line of Sixth Street.
 
 The same visually inspected notice lists the four lots in the Main-side row:
@@ -42,6 +45,9 @@ https://www.orcity.org/401/Subdivision-Plat-Finder
 
 Canonical plat PDF:
 https://maps.orcity.org/plats/2.pdf
+
+Repository PDF:
+`maps/original-plats/1850-oregon-city-county-plat-2.pdf`
 
 On the first page, the recorded survey narrative states that:
 
