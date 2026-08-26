@@ -25,3 +25,5 @@
 | BUS-021 | Dr. Freeze, Eye Specialist | 505 / 505 1/2 Main | 1921-1922 newspaper ads; later Masonic Building. |
 | BUS-022 | Dr. Roy Briggs, dentist | 505 1/2 Main | 1941 directory per City inventory. |
 | BUS-023 | Dixon's Bakery | 5th–6th / Main block | Gutted in the 1 September 1967 fire (`E-045`). Exact street number pending. |
+| BUS-024 | Palace Saloon | 501 Main | Joe Wilson's 19 March 1912 liquor-license application (`E-104`). No ownership, continuity, or later business relationship assumed. |
+| BUS-025 | Hunsaker & Taylor liquor premises | 501 Main | 3 October 1913 liquor-license application (`E-104`). The printed partnership/business style is retained; individual identities and relationship to Palace Saloon are unresolved. |

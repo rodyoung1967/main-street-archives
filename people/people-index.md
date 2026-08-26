@@ -38,3 +38,7 @@
 | P-034 | Henry Brightbill | Merchant at 503 Main, 1908 | Oregonian 25 August 1908 places his store at 503 Main Street. Address occupancy; surviving-building date not proven by this article. |
 | P-035 | [S. Wolf](profiles/s-wolf-1922.md) | 1922 Main Street purchaser / reported fire-origin building owner | Full identity unresolved. Do not merge with Wolf & Nat, Wolf & Miller, Portland directory candidates, Gilbert Miller's Wolf relatives, or later 503 Wolf-family ownership without a direct bridge. |
 | P-036 | [C. E. Gates](profiles/c-e-gates-1922.md) | 1922 Fifth/Main purchaser / corner-property owner | July source prints C. Gates; August sources print C. E. Gates. Exact full identity and modern storefront footprint unresolved; do not merge with same-initial people elsewhere without proof. |
+| P-037 | Joe Wilson | Palace Saloon liquor-license applicant | 19 March 1912 notice identifies his Palace Saloon place of business as 501 Main. No building-ownership, business-continuity, or 1922 identity inference. |
+| P-038 | Hunsaker & Taylor | 501 Main liquor-license applicants | 3 October 1913 notice identifies the partnership/style at 501 Main. Individual given names and relation to Palace Saloon are not printed. |
+| P-039 | H. M. Templeton | 513 Fifth Street resident | 19 March 1912 item identifies the Templetons' home at 513 Fifth; wife’s given name not printed. |
+| P-040 | M. D. Phillips | 513 Fifth Street occupant | 19 March 1912 item says Phillips and family then occupied the Templeton home at 513 Fifth. |

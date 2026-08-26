@@ -9,6 +9,8 @@ This register tracks business-name and operation chronology. **503 Main** and **
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Aug. 1908 | Henry Brightbill store | | `E-042` | Very High for address | Occupancy; surviving building date not proven. |
+| 19 Mar. 1912 | Joe Wilson's Palace Saloon | `BUS-024` | `E-104` | Very High | Liquor-license application at 501 Main; no transfer or later-continuity claim. |
+| 3 Oct. 1913 | Hunsaker & Taylor liquor premises | `BUS-025` | `E-104` | Very High | Liquor-license application at 501 Main; separately named from Palace Saloon. |
 | Mar. 1912 | H. H. Smith pool hall (application) | `BUS-019` | `E-023` | Very High for application | Grant not independently proven. |
 | Feb. 1914 | L. Hylton cigar/tobacco | `BUS-020` | `E-024` | Very High | |
 | 1925 | Restaurant (Sanborn) | `BUS-001` context | `E-020` | High map | Kwality name not on the map. |

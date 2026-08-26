@@ -168,3 +168,34 @@ timeline:
       - BUS-018
     related_buildings:
       - B-001
+
+  - id: T-015
+    date: 19 March 1912
+    summary: Morning Enterprise liquor-license notice identifies Joe Wilson's Palace Saloon at 501 Main; a separate item gives the H. M. Templeton home at 513 Fifth, then occupied by M. D. Phillips and family.
+    confidence: Very High for printed addresses and stated occupancy; business continuity and fire-cluster connection unresolved.
+    related_evidence:
+      - E-104
+      - E-106
+    related_people:
+      - P-037
+      - P-039
+      - P-040
+    related_businesses:
+      - BUS-024
+    related_buildings:
+      - B-005
+      - B-006
+
+  - id: T-016
+    date: 3 October 1913
+    summary: Morning Enterprise liquor-license notice identifies Hunsaker & Taylor at 501 Main. A City Recorder notice says the official street-numbering plat/plan remained on file and quotes Ordinance No. 357.
+    confidence: Very High for printed 501 Main and municipal-notice wording; no business continuity or target-lot mapping established.
+    related_evidence:
+      - E-104
+      - E-105
+    related_people:
+      - P-038
+    related_businesses:
+      - BUS-025
+    related_buildings:
+      - B-005

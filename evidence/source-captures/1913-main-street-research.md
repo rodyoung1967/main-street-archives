@@ -12,7 +12,13 @@ The May 1912 evidence (`E-090` / `S-105`) proves that buildings were being torn 
 
 ## Consolidated 1913 findings
 
-### 1. Block 26 ownership — Morning Enterprise, 23 October 1913, p. 8
+### 1. 501 Main direct liquor-premises evidence — Morning Enterprise, 3 October 1913, p. 2
+
+The complete four-page 3 October issue has now been visually reviewed (`S-119`). A liquor-license notice identifies **Hunsaker & Taylor** at **501 Main Street**. This supersedes the earlier “unresolved” 501 row below for this date only. It does not identify a trade name, establish relation to Joe Wilson's March 1912 Palace Saloon notice at the same address, or resolve the 1922 fire-origin room.
+
+The same page says a plat and plan showing proper street numbers for all Oregon City property was on file with the City Recorder and quotes Section 5 of Ordinance No. 357. This independently corroborates the 1906 numbering-plat lead (`E-105` / `RL-025`), but the plat itself has not been retrieved.
+
+### 2. Block 26 ownership — Morning Enterprise, 23 October 1913, p. 8
 
 Canonical source:
 https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8/
@@ -28,7 +34,7 @@ The same notice describes the relevant assessment boundary along the line betwee
 
 Interpretation limit: this establishes assessed ownership by legal lot, but does **not** prove a one-to-one relationship between lots 5–8 and the later street numbers 501/503/505/507. The 1925 Sanborn storefront widths make clear that multiple street-address spaces may lie within one platted lot.
 
-### 2. Chicago Store / probable 505 Main fire — Oregon City Courier, 25 December 1913, p. 1
+### 3. Chicago Store / probable 505 Main fire — Oregon City Courier, 25 December 1913, p. 1
 
 Canonical source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-25/ed-1/seq-1/
@@ -41,7 +47,7 @@ Working conclusion: **Chicago Store at 505 Main in December 1913 — high confid
 
 Property implication: **George A. Harding very likely owned the building corresponding to the Chicago Store/505 premises in December 1913.** This is building-specific ownership evidence and must be reconciled with the October Block 26 assessed-owner list before equating Harding with fee ownership of an entire legal lot.
 
-### 3. G. H. Young / 507 Main continuity
+### 4. G. H. Young / 507 Main continuity
 
 Direct evidence already places **G. H. Young at 507 Main on 5 January 1912** (`E-092` / `S-102`). A 1914 Courier feature again places **G. H. Young at 507 Main**:
 
@@ -49,7 +55,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1914-04-16/ed-1/seq-4/
 
 No intervening move has been recovered. Therefore **G. H. Young at 507 during 1913 is a high-confidence continuity inference**, but should remain distinguished from a direct 1913 exact-address citation until one is recovered.
 
-### 4. H. P. Brightbill / 509 Main continuity
+### 5. H. P. Brightbill / 509 Main continuity
 
 Brightbill is directly documented at **509 Main by September 1910** and remains active in 1913. A 24 June 1913 Morning Enterprise advertisement identifies Brightbill and phone 74:
 
@@ -57,7 +63,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063701/1913-06-24/ed-1/seq-4/
 
 Later directory/business material continues **H. P. Brightbill, groceries, 509 Main, phone 74**. The chronology strongly supports Brightbill at 509 through 1913. Treat this as **very high-confidence continuity**, while continuing to seek a 1913 item that prints the street number itself.
 
-### 5. George A. Harding / 511 Main / Willamette Building
+### 6. George A. Harding / 511 Main / Willamette Building
 
 A 3 June 1913 Morning Enterprise advertisement identifies:
 
@@ -72,11 +78,11 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-12/ed-1/seq-12/
 
 Working interpretation: absent evidence of an intervening move, Harding's 1913 pharmacy in the **Willamette Building** likely corresponds to his 511 Main premises. This materially weakens the earlier working hypothesis that the Willamette Building should simply be equated with 507 Main. A larger building spanning multiple storefront numbers remains possible and should be tested before assigning a single-number identity to the building name.
 
-### 6. 503 Main remains unresolved in 1913
+### 7. 503 Main remains unresolved in 1913
 
 The 1912 evidence establishes H. N./H. H. Smith pool-room/pool-hall activity at **503 Main**. The 1913 pass did not recover sufficiently strong direct evidence establishing who occupied 503 throughout 1913 or when Smith left. This remains a targeted follow-up rather than a reason to keep the routine 1913 year pass open.
 
-### 7. Street and infrastructure activity in 1913
+### 8. Street and infrastructure activity in 1913
 
 The 1913 newspaper pass recovered downtown street/infrastructure activity but no separate direct demolition/reconstruction event at 503/505/507 beyond the Chicago Store fire:
 
@@ -93,7 +99,7 @@ None of these should be attributed to a specific target building without additio
 
 | Address | 1913 working occupant/use | Confidence | Basis |
 |---|---|---|---|
-| 501 Main | unresolved | low | No satisfactory direct 1913 occupant recovered in this pass. |
+| 501 Main | Hunsaker & Taylor liquor-license premises | very high for the printed 3 Oct notice | `S-119` / `E-104`; no trade name, business continuity, ownership, or 1922 inference established. |
 | 503 Main | unresolved; Smith pool-hall continuity not proven | low | Direct Smith evidence ends in 1912 in the current archive. |
 | 505 Main | Chicago Store | high | Direct 1911 exact address + 1912 below-Post-Office geography + Dec. 1913 Chicago Store immediately south of Post Office. |
 | 507 Main | G. H. Young | high | Direct 1912 and 1914 exact-address bracketing; no intervening move recovered. |

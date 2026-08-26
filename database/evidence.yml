@@ -1501,3 +1501,54 @@ evidence:
       - B-002
       - B-005
     repository_file: evidence/E-103-1922-fifth-main-fire-origin.md
+
+  - id: E-104
+    name: 501 Main Liquor-Premises Sequence, 1912–1913
+    type: Primary newspaper liquor-license location evidence; direct visual inspection
+    claims:
+      - The 19 March 1912 Morning Enterprise prints Joe Wilson's Palace Saloon at 501 Main Street in a liquor-license application.
+      - The 3 October 1913 Morning Enterprise separately prints Hunsaker & Taylor at 501 Main Street in a liquor-license application.
+      - The notices establish separately named liquor-license premises at the same address, but do not establish a transfer, rename, ownership, continuous operation, or 1922 fire-origin location.
+    confidence: Very High for the two printed 501 Main notices; all business/ownership continuity and July 1922 mapping unresolved.
+    related_sources:
+      - S-118
+      - S-119
+    related_people:
+      - P-037
+      - P-038
+    related_businesses:
+      - BUS-024
+      - BUS-025
+    related_buildings:
+      - B-005
+    repository_file: evidence/E-104-1912-1913-501-main-liquor-premises.md
+
+  - id: E-105
+    name: Oregon City Numbering Plat/Plan Still on File, 1913
+    type: Primary newspaper municipal-record lead; direct visual inspection
+    claims:
+      - A City Recorder notice says a plat and plan showing proper street numbers for all Oregon City property was on file with the recorder and quotes Section 5 of Ordinance No. 357.
+      - This corroborates the 1906 numbering-plat sequence but does not reproduce the plat or map 501, 503, or 505 to Block 26 lots.
+    confidence: Very High for notice wording and retrieval lead; plat contents and target-address mapping unresolved.
+    related_sources:
+      - S-119
+      - S-075
+    related_evidence:
+      - E-061
+    repository_file: evidence/E-105-1913-numbering-plat-ordinance-357.md
+
+  - id: E-106
+    name: 513 Fifth Street Residence, 1912
+    type: Primary newspaper residential-address evidence; direct visual inspection
+    claims:
+      - A local item identifies Mr. and Mrs. H. M. Templeton's home at 513 Fifth Street, then occupied by M. D. Phillips and family.
+      - The address is residential and is not mapped to the Main/Water commercial/fire cluster.
+    confidence: Very High for printed address and stated occupancy; modern-parcel and fire-cluster relationship unresolved.
+    related_sources:
+      - S-118
+    related_people:
+      - P-039
+      - P-040
+    related_buildings:
+      - B-006
+    repository_file: evidence/E-106-1912-513-fifth-templeton-phillips.md

@@ -87,12 +87,8 @@ Pages 1 and 3 produced no visually verified target-address finding. Across the c
 4. **Visually verified archival lead:** Oregon City's numbering plat/plan was represented as on file with the city recorder in October 1913, and Ordinance No. 357 governed placement of assigned numbers.
 5. **Unresolved:** neither issue identifies 503 or 505; neither issue settles the modern storefront containing the July 1922 fire-origin room.
 
-## Required continuation after model-switch pause
+## Structured integration status
 
-The judgment-heavy visual review is complete. The remaining work is primarily structured integration:
+The completed visual review is now integrated as `S-118`, `S-119`, and claim-level records `E-104` through `E-106`, with synchronized source/evidence, building, address, business, person, timeline, crosswalk, and YAML records. `E-061` and `RL-025` now carry the October 1913 confirmation that the recorder's numbering plat/plan remained on file and the exact Ordinance No. 357 retrieval target.
 
-1. Assign/register source IDs for the two issues and claim-level evidence IDs for the 501 sequence and numbering-plat corroboration as appropriate.
-2. Integrate the verified findings into the source/evidence registers, `buildings/501-main.md`, `evidence/source-captures/1913-main-street-research.md`, timeline, address/occupancy registers, open leads, YAML, and crosswalk.
-3. Add stable business/person IDs for Hunsaker & Taylor and the newly introduced people only if the project's entity rules require them; do not merge Hunsaker & Taylor with Palace Saloon or Joe Wilson.
-4. Update `E-061` / `RL-025` with the October 1913 proof that the recorder's numbering plat/plan remained on file and with the exact Ordinance No. 357 retrieval target.
-5. Preserve the distinction between the proven 1912 and 1913 501 liquor-premises evidence and the still-unresolved July 1922 501/503/505 fire-origin mapping.
+The next research task is not further integration of these two issues: retrieve and inspect the numbering plat/plan or Ordinance No. 357, or return to the open Block 26 / 1922 fire-origin mapping. The direct 1912 and 1913 501 evidence must remain separate from the still-unresolved July 1922 501/503/505 question.

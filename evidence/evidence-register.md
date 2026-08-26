@@ -722,3 +722,27 @@ Sources: `S-117`; cross-reference `S-111` / `E-096`, `S-112`–`S-113` / `E-097`
 Related record: `evidence/E-103-1922-fifth-main-fire-origin.md`
 Claims: The visually verified *Banner-Courier* page says the fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop; names **S. Wolf of Portland** as owner of the ignition building; and says a pool hall adjoined the former tailor premises. It separately identifies the Oregon City Laundry, May & Washburn garage, Fifth Street Restaurant, Gilbert Miller shoe-repair shop, and Ketchner home/confectionery among the affected cluster, with a separate same-page item placing Ketchner's confectionery next to the laundry. The source does not print a street number for the ignition room or pool hall and therefore does not establish 501, 503, or 505.
 Confidence: Very High for the visually verified local report's origin, former use, owner wording, adjacency and named damage cluster; Unresolved for the exact modern storefront, S. Wolf's full identity, land-versus-improvement ownership, and the pool hall's operator.
+
+## E-104 — 501 Main Liquor-Premises Sequence, 1912–1913
+Type: Primary newspaper liquor-license location evidence; direct visual inspection
+Dates: 19 March 1912 and 3 October 1913
+Sources: `S-118`, `S-119`
+Related record: `evidence/E-104-1912-1913-501-main-liquor-premises.md`
+Claims: The 19 March 1912 *Morning Enterprise* prints **Joe Wilson — Palace Saloon — 501 Main Street** in a liquor-license application. The 3 October 1913 *Morning Enterprise* separately prints **Hunsaker & Taylor — 501 Main Street** in a liquor-license application. The notices directly establish two differently named liquor-license premises at 501 Main about eighteen months apart. They do **not** prove a sale, rename, common ownership, continuous operation, or any 1922 occupant/fire-origin conclusion.
+Confidence: Very High for the two printed 501 Main notices; Unresolved for all business/ownership continuity and the July 1922 storefront mapping.
+
+## E-105 — Oregon City Numbering Plat/Plan Still on File, 1913
+Type: Primary newspaper municipal-record lead; direct visual inspection
+Date: 3 October 1913
+Sources: `S-119`; cross-reference `S-075` / `E-061`
+Related record: `evidence/E-105-1913-numbering-plat-ordinance-357.md`
+Claims: A City Recorder notice states that a **plat and plan showing proper street numbers for all property in Oregon City** was on file with the recorder, and quotes Section 5 of **Ordinance No. 357** requiring assigned numbers on buildings. This directly corroborates that the numbering-plat/plan described in 1906 remained an operational municipal record in 1913. The notice does not reproduce the plat or map 501/503/505 to original Block 26 lots.
+Confidence: Very High for the notice wording and the 1913 recorder-held plat/plan lead; Unresolved for the plat contents and target-address/lot mapping.
+
+## E-106 — 513 Fifth Street Residence, 1912
+Type: Primary newspaper residential-address evidence; direct visual inspection
+Date: 19 March 1912
+Sources: `S-118`
+Related record: `evidence/E-106-1912-513-fifth-templeton-phillips.md`
+Claims: A local item says **Mr. and Mrs. H. M. Templeton** planned to return to their home at **513 Fifth Street**, then occupied by **M. D. Phillips and family**. This is an exact residential Fifth Street address, not a commercial/fire-cluster location. The source does not map 513 Fifth to the Main/Water Fifth Street segment, 501/503/505, or the 1922 fire cluster.
+Confidence: Very High for the printed address and stated occupancy; Unresolved for modern parcel mapping and relevance to the target commercial block.

@@ -285,3 +285,29 @@ businesses:
       - B-003
     related_evidence:
       - E-045
+
+  - id: BUS-024
+    name: Palace Saloon
+    address: 501 Main
+    notes: Joe Wilson's liquor-license application identifies the Palace Saloon at 501 Main in March 1912. No ownership, continuity, or later business relationship is assumed.
+    related_buildings:
+      - B-005
+    related_people:
+      - P-037
+    related_evidence:
+      - E-104
+    related_sources:
+      - S-118
+
+  - id: BUS-025
+    name: Hunsaker & Taylor liquor premises
+    address: 501 Main
+    notes: The printed partnership/business style applied for a liquor license at 501 Main in October 1913. Individual identities and relationship to Palace Saloon are unresolved.
+    related_buildings:
+      - B-005
+    related_people:
+      - P-038
+    related_evidence:
+      - E-104
+    related_sources:
+      - S-119

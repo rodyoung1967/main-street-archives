@@ -241,6 +241,7 @@ buildings:
       - E-096
       - E-097
       - E-103
+      - E-104
     related_sources:
       - S-021
       - S-023
@@ -256,5 +257,25 @@ buildings:
       - S-112
       - S-113
       - S-117
+      - S-118
+      - S-119
     related_maps:
       - SM-008
+    related_businesses:
+      - BUS-024
+      - BUS-025
+    related_people:
+      - P-037
+      - P-038
+
+  - id: B-006
+    name: 513 Fifth Street (historic residence)
+    address: 513 Fifth Street, Oregon City, Oregon
+    notes: Primary newspaper item identifies the H. M. Templeton home at 513 Fifth in March 1912, then occupied by M. D. Phillips and family. Residential-address record only; no modern parcel or relation to the Main/Water commercial/fire cluster is established.
+    related_people:
+      - P-039
+      - P-040
+    related_evidence:
+      - E-106
+    related_sources:
+      - S-118

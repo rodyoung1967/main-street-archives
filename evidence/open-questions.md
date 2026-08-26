@@ -19,7 +19,7 @@ Status: **Open.** Mitch Young's recollection supports a later rear portion (`E-0
 Status: **Original-lot context narrowed; modern legal/physical boundary remains open.** `E-094` strongly aligns the original Block 26 Lot 5/Lot 6 division with the **505/507 wall**, placing 501/503/505 approximately within Lot 5. That does not resolve the internal 503/505 parcel/wall/depth relationship. What records prove the modern widths, depths, common wall and any rear additions?
 
 ## OQ-005 — 501 Main on the 1925 Sanborn Map
-Status: Partially answered by `E-020` / `E-021`. Aerial evidence places removal between 1936 and 1944. Business, ownership, and cause of removal remain open.
+Status: Partially answered by `E-020` / `E-021`. Aerial evidence places removal between 1936 and 1944. `E-104` visually verifies separately named liquor-license premises at 501 in March 1912 (Joe Wilson's Palace Saloon) and October 1913 (Hunsaker & Taylor), but does not establish transfer, continuous operation, ownership, or the July 1922 occupant. Business, ownership, and cause of removal remain open.
 
 ## OQ-006 — Kwality / Quality Cafe Names
 How do Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and the photo-metadata wording "The Quality Cafe" relate to each other?

@@ -122,3 +122,6 @@ Some 1912 issue/page images are not reliably exposed through the current researc
 - Later Harding/Willamette advertisements may resolve the building-name/address question but are not backdated without continuity evidence.
 
 These remain follow-up context only.
+## March 19 visual-review integration
+
+The complete four-page *Morning Enterprise* issue of 19 March 1912 is now visually reviewed and preserved as `S-118`. Page 2 directly identifies **Joe Wilson's Palace Saloon, 501 Main Street** in a liquor-license application. Page 3 gives the residential address **513 Fifth Street** for the H. M. Templeton home, then occupied by M. D. Phillips and family. These are direct address records, not evidence of 1922 business continuity, property ownership, or fire-cluster geography. See `E-104` and `E-106`.

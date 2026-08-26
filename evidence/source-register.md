@@ -748,3 +748,19 @@ Type: Primary local newspaper fire-origin, ownership, adjacency and damage evide
 Related evidence: `E-103`; cross-reference `E-096`, `E-097`
 Repository source capture: `evidence/source-captures/1922-fire-s-wolf-main-street-property-lead.md`
 Notes: The main report says the 18 July fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop, names S. Wolf of Portland as owner of the ignition building, and says a pool hall adjoined the former tailor premises. It separately identifies the affected business/property cluster. A second same-page item says Ketchner's confectionery was next to the laundry. The page gives no exact street number for the ignition room or adjoining pool hall.
+
+## S-118 — Morning Enterprise, 19 March 1912, Palace Saloon at 501 Main
+Canonical issue pages: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-19/ed-1/seq-N.pdf
+Repository PDFs: `newspapers/oregon-city-enterprise/1912-03-19-page-1.pdf` through `1912-03-19-page-4.pdf`
+Type: Primary newspaper; **visually verified complete four-page issue**.
+Related evidence: `E-104`, `E-106`; cross-reference `E-091`
+Repository source capture: `evidence/source-captures/1912-03-19-1913-10-03-enterprise-visual-review-checkpoint.md`
+Notes: Page 2 prints Joe Wilson's liquor-license application for **the Palace Saloon, 501 Main Street**, for three months. The issue also carries William Trudell's Sixth/Main notice and a March residential item naming H. M. Templeton's home at **513 Fifth Street**, then occupied by M. D. Phillips and family. No visually verified 503 or 505 reference appeared in the issue; that is coverage only, not absence evidence.
+
+## S-119 — Morning Enterprise, 3 October 1913, Hunsaker & Taylor at 501 Main
+Canonical issue pages: https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-03/ed-1/seq-N.pdf
+Repository PDFs: `newspapers/oregon-city-enterprise/1913-10-03-page-1.pdf` through `1913-10-03-page-4.pdf`
+Type: Primary newspaper; **visually verified complete four-page issue with targeted enlarged review of small notices**.
+Related evidence: `E-104`, `E-105`; cross-reference `E-061`
+Repository source capture: `evidence/source-captures/1912-03-19-1913-10-03-enterprise-visual-review-checkpoint.md`
+Notes: Page 2 prints Hunsaker & Taylor's liquor-license application at **501 Main Street**. The same page says the City Recorder held a plat and plan showing proper street numbers for all Oregon City property and quotes Section 5 of Ordinance No. 357. The issue separately prints Claus Krohn at 421 Main, L. G. Ice in the Beaver Building, and Portland Railway, Light & Power Company's Electric Store at 617 Main / Beaver Building. No visually verified 503 or 505 reference appeared; that is coverage only, not absence evidence.

@@ -330,3 +330,51 @@ people:
       - S-111
       - S-112
       - S-113
+
+  - id: P-037
+    name: Joe Wilson
+    role: Palace Saloon liquor-license applicant
+    notes: 19 March 1912 notice identifies his Palace Saloon place of business as 501 Main. No building-ownership, business-continuity, or 1922 identity inference.
+    related_buildings:
+      - B-005
+    related_businesses:
+      - BUS-024
+    related_evidence:
+      - E-104
+    related_sources:
+      - S-118
+
+  - id: P-038
+    name: Hunsaker & Taylor
+    role: 501 Main liquor-license applicants
+    notes: 3 October 1913 notice identifies the partnership/style at 501 Main. Individual given names and relation to Palace Saloon are not printed.
+    related_buildings:
+      - B-005
+    related_businesses:
+      - BUS-025
+    related_evidence:
+      - E-104
+    related_sources:
+      - S-119
+
+  - id: P-039
+    name: H. M. Templeton
+    role: 513 Fifth Street resident
+    notes: 19 March 1912 item identifies the Templetons' home at 513 Fifth; wife’s given name is not printed.
+    related_buildings:
+      - B-006
+    related_evidence:
+      - E-106
+    related_sources:
+      - S-118
+
+  - id: P-040
+    name: M. D. Phillips
+    role: 513 Fifth Street occupant
+    notes: 19 March 1912 item says Phillips and family then occupied the Templeton home at 513 Fifth.
+    related_buildings:
+      - B-006
+    related_evidence:
+      - E-106
+    related_sources:
+      - S-118

@@ -7,7 +7,7 @@ This index is a human-readable navigation file for the Main Street Archive. It i
 For a family member, historian, or other first-time reader who wants to understand the story rather than the repository structure, start with:
 
 1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about the Main Street research area, including 503, 505, 507-511, and 527 Main, the family/business history, and the distinction between documented facts, family testimony, and open dates.
-2. **`buildings/503-main.md`, `buildings/505-main.md`, `buildings/507-harding-building.md`, and `buildings/527-swartz-building.md`.** Read these next for address-specific histories.
+2. **`buildings/501-main.md`, `buildings/503-main.md`, `buildings/505-main.md`, `buildings/507-harding-building.md`, and `buildings/527-swartz-building.md`.** Read these next for address-specific histories.
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
 5. **`evidence/evidence-register.md` and `evidence/source-register.md`.** These are the audit trail: what evidence supports each claim and where it came from.
@@ -17,6 +17,17 @@ For a family member, historian, or other first-time reader who wants to understa
 Important reading rule: **business ownership/operation and building ownership are separate timelines.** This matters especially for Dick and Sheila Wiitanen at both 503 and 505.
 
 ## Location Index
+
+### 501 Main Street (historic / removed)
+
+Primary file: `buildings/501-main.md`
+
+Direct exact-number occupancy anchors:
+
+- Joe Wilson's **Palace Saloon**, 501 Main, March 1912 (`E-104`)
+- **Hunsaker & Taylor**, 501 Main, October 1913 (`E-104`)
+
+The two license notices do not prove a transfer, rename, common ownership, or 1922 occupancy. The July 1922 fire-origin mapping among 501/503/505 remains unresolved.
 
 ### 503 Main Street
 
