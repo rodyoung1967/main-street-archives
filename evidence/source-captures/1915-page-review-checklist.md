@@ -2,6 +2,44 @@
 
 Status: **active — visual re-review required**
 
+## Durable pause checkpoint — 26 August 2026
+
+**Year status remains: IN PROGRESS. Do not label 1915 ONLINE COMPLETE.**
+
+### Inventory completed before the pause
+
+- Historic Oregon Newspapers issue inventory: **105 issues / 896 page PDFs**.
+- **Oregon City Courier** (`sn00063698`): **52 Thursday issues / 468 pages / 123 four-page scan sheets**.
+- **Oregon City Enterprise** (`sn00063700`): **53 Friday issues / 428 pages / 107 four-page scan sheets**.
+- All **896 PDFs** were downloaded and passed `pdfinfo` validation during this working session.
+- All **230 scan sheets** were rendered and validated during this working session.
+- Those downloads and derived scan sheets were held in temporary workspace storage and were cleared after the interruption. They must be re-downloaded/re-rendered when work resumes; the counts and review checkpoint below are the durable restart record.
+
+### Courier visual-review checkpoint
+
+- **72 of 123 Courier scan sheets were visually inspected** from the actual page images.
+- Fully reviewed issue range: **7 January through 22 July 1915**.
+- Partially reviewed issue: **29 July 1915, pages 1–4**.
+- Exact restart point: **29 July 1915, pages 5–8** (ordered Courier scan sheet 73).
+- Remaining Courier work: **51 scan sheets**.
+- Enterprise visual review has **not started**: **0 of 107 scan sheets**.
+
+### Source and rendering exceptions already identified
+
+1. **14 January 1915 Courier, sequence/page 4:** the archive derivative visually carries the running header **“Oregon City Enterprise, Friday, January 8, 1915”**, although the body contains an *Oregon City Courier* masthead/reprint. It must not be silently accepted as the true 14 January Courier page 4. Treat the genuine page as a **retrieval gap/manual microfilm target** unless an alternate online derivative resolves it.
+2. **15 April 1915 Courier, pages 5–8:** one derived contact sheet rendered incorrectly. It was regenerated from the four validated source PDFs and the replacement was visually confirmed. This was a local rendering fault, **not a newspaper-source gap**.
+3. Confirmed issue-count corrections from the validated inventory include **18 March = 20 pages (not 24)**, **20 May = 12**, **17 June = 10**, **24 June = 10**, and **1 July = 16**. The older provisional counts below are superseded where they conflict with this checkpoint.
+
+### Queue after newspaper review
+
+1. Finish the remaining 51 Courier sheets.
+2. Visually review all 107 Enterprise sheets.
+3. Finish the online water-ledger notation check.
+4. Reconcile OCR/search leads against the visually inspected scans.
+5. Write numbered manual-work callouts.
+6. Reconcile the source captures, open-lead register, and research log; then certify the appropriate closure level.
+
+
 ## IMPORTANT CORRECTION — 21 Aug 2026
 
 The project standard has always required **visual page-by-page review of the actual scanned newspaper pages**, not merely OCR/text extraction or index searching. Earlier 1915 work used the word `reviewed` too broadly: in many cases the page's OCR/text representation was read, but the scanned page image itself was not visually inspected.
