@@ -4,6 +4,11 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
+Certification checkpoint: `1916-online-audit-checkpoint.md` preserves the exact
+completed page-level segment: **11 complete issues / 105 pages, 6 January through
+16 March 1916**. Later targeted findings in this file do not by themselves certify
+complete page-by-page coverage after 16 March.
+
 ## January 1916
 
 ### Issue inventory
@@ -99,7 +104,8 @@ No reliable exact-address March listing for **503 Main** or **505 Main** has bee
 
 ### Issue inventory
 
-- **20 Apr 1916 — 10 images** confirmed.
+- **20 Apr 1916 — 12 images** confirmed by the archive issue JSON. The earlier
+  10-image count was incomplete and is superseded.
 
 ### Address and intersection findings
 
