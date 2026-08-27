@@ -17,6 +17,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 - `S-108` — visually verified official original Oregon City plat, county plat 2
 - `S-111` — visually verified 13 July 1922 Harding-to-Wolf/Gates property-sale notice
 - `S-112`, `S-113` — visually verified 17–18 August 1922 Gates corner-rebuild reports
+- `E-108` — integrated Block 4 Harding address-to-property bridge and storefront-classification synthesis
 
 ## High-Level Findings
 
@@ -237,3 +238,8 @@ Archive handling:
 - Do the 1906 William Tell/Gambrinus, 1909 Hodes, 1909 Philip Street repair, and 1910–1912 Gambrinus-building/saloon references describe one evolving property or multiple Sixth/Main premises?
 - Does the 1950 `505` billiards/cigars/beer label connect to later 505 Tavern / The 505 / Brass Rail Tavern / The Wheel history?
 - What was the legal relationship, if any, between the 503 restaurant space and the 505 billiards/cigars/beer space in 1925 and 1950?
+
+
+## Task 7 Integrated Address-to-Property Bridge
+
+`E-108` now provides the controlling synthesis for using this map with cadastral/property evidence. The proven framework is original **Block 4** with Harding at Lots 3–4 in 1913; current 503 overlaps Lot 4 and current 505 overlaps Lots 3–4 as current legal-description leads. The July 1922 property division still permits both Gates-principally-at-501 and Gates-at-501+503 models. The 1925 Sanborn use pattern may test compatibility but must not be backdated as proof of the 1922 wall.

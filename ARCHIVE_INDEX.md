@@ -249,3 +249,5 @@ High-priority people/entities:
 11. Resolve the unverified Dr. Bailey / 1909 Harding Building claim (`OQ-030`).
 12. Original source recovery for Time Capsule Maps photo metadata.
 13. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.
+
+- `evidence/E-108-block4-harding-address-property-bridge.md` — integrated Block 4 / Harding / 1922 address-to-property bridge.

@@ -7,7 +7,7 @@
 The site was part of the area that became Oregon City's earliest commercial district near the falls and riverfront.
 
 ## 1844–1850 — original plat geometry
-The official original Oregon City plat, cataloged by the City as county plat 2 (1850), says Jesse Applegate surveyed the Washington-Street-to-river portion in spring 1844. Its recorded narrative gives lots in that portion—including target Block 26—as **at least 66 feet front by 100 feet back**, with 10-foot alleys (`E-094` / `S-108`). This direct plat evidence supersedes the former 50-foot general-context model for Block 26.
+The official original Oregon City plat, cataloged by the City as county plat 2 (1850), says Jesse Applegate surveyed the Washington-Street-to-river portion in spring 1844. Its recorded narrative gives Applegate-surveyed lots in that portion **at least 66 feet front by 100 feet back**, with 10-foot alleys (`E-094` / `S-108`). Task 6 corrected the target odd-numbered frontage to original **Block 4**; Block 26 is retained as the opposite-side control.
 
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
@@ -18,12 +18,12 @@ Primary *Oregon City Enterprise* advertisements place **I. Tolpolar** and his fu
 ## 1905 — Main Street continuity, Fifth Street work, and preliminary numbering
 Tolpolar remained on Main Street in February 1905 (`E-058`). Oregon City improved **Fifth Street across Main** later that year with grading, crushed rock, sidewalks, curbs, drains, and related work (`E-059`). By 30 June a residence-numbering system had been “recently introduced,” but the formal citywide numbering ordinance/plat followed in 1906 (`E-060`). The 1905–1906 Oregon/Washington business directory remains an access-dependent follow-up (`RL-023`).
 
-## 1906 — formal street numbering and Block 26 reconstruction anchors
+## 1906 — formal street numbering and opposite-side Block 26 control
 Oregon City formally implemented street numbering for free mail delivery. Mayor Caufield approved the ordinance, a **plat designating the correct numbering** was filed with Recorder Dimick, numbering maps were prepared, and street signs were posted (`E-061`). A printed advertisement at **504 Main Street** by August shows exact Main Street numbering entering active use. Recovering the original numbering plat is now a priority because it may map pre-1906 storefront descriptions to later 501/503/505/507 (`RL-025`).
 
 The City also carried out substantial **Sixth Street grading and improvement across Main** (`E-062`). In November, Rosenstein’s Clothing House—described as **two doors south of the Post Office**—suffered fire damage to its stock; the exact numbered address and any structural damage remain unresolved (`E-063`).
 
-A particularly useful property anchor comes from October 1906: the historic **three-story frame William Tell Hotel at Sixth & Main** was sold to Gambrinus Brewing Company for $13,000, and the matching realty-transfer report identifies the property as **lot 8, Block 26** (`E-064`). This fixed north-end lot anchor, combined with the missing 1906 numbering plat and Sanborn maps, may allow the remaining Block 26 lots to be mapped toward Fifth Street (`RL-026`). No direct 1906 source has yet been found showing demolition or replacement of the predecessor buildings corresponding to later 501/503/505.
+A particularly useful property anchor comes from October 1906: the historic **three-story frame William Tell Hotel at Sixth & Main** was sold to Gambrinus Brewing Company for $13,000, and the matching realty-transfer report identifies the property as **lot 8, Block 26** (`E-064`). This fixes an important **opposite-side** Block 26 control at Sixth/Main. It must not be used to walk southward into the odd-numbered 501/503/505/507 frontage; that reconstruction now begins with original **Block 4** (`RL-026`, `E-108`). No direct 1906 source has yet been found showing demolition or replacement of the predecessor buildings corresponding to later 501/503/505.
 
 ## 1907 — new plant, Main Street reconstruction, and block anchors
 A major Pacific States Telephone & Telegraph central-office plant was completed on the **east side of Main between Fifth and Sixth** after more than a year of work (`E-065`). The source gives no number or lot, so this is recorded as block construction evidence rather than a predecessor of the later odd-numbered 501/503/505/507 frontage.
@@ -124,6 +124,9 @@ The preserved and visually verified local report says the fire began in a vacant
 Two visually inspected reports identify **C. E. Gates** as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building. The first floor was planned as two storerooms, one already leased for a barber shop (`E-097` / `S-112`–`S-113`). The reports do not give width, orientation, or street numbers.
 
 Two storefront models remain open. If the Gates corner was principally modern 501, the Wolf remainder could begin at 503, compatible with **503 ignition / 505 pool hall**. If both Gates rooms became the Main-facing 501+503 pair shown in 1925, the Wolf remainder could begin near 505. The 1925 Sanborn does not choose between them; 501 remains live until the July restaurant address is proved.
+
+## 1922 — integrated Harding / Gates / Wolf property bridge
+`E-108` synthesizes the corrected original Block 4 framework with the 1913 Harding Lots 3–4 assessment, the strong Harding↔505 Chicago Store building-owner lead, the July 1922 Harding property division, and the Wolf-owned ignition-building report. The property-group chain is strong, but the exact Gates/Wolf wall is unresolved: Gates principally at 501 and Gates at 501+503 remain competing models. Do not promote the working 503-ignition / 505-pool-hall model to fact, and keep 501 live until the restaurant footprint is proved.
 
 ## 1924 — directory source exists, pages still needed
 A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as a local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).

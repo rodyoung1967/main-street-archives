@@ -3,7 +3,7 @@
 ## Archive ID
 
 - Building ID: `B-005`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`
 - Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
@@ -87,3 +87,8 @@ The highest-value next step is to obtain the **1924 address and business-directo
 - Which original Block 4 lot contained historic 501, and can a deed, title abstract, numbering plat, or survey prove it?
 - Why was the 501 structure removed between 1936 and 1944?
 - Was its removal connected to McLoughlin Boulevard / US99E work?
+
+
+## Task 7 Address-to-Property Bridge
+
+`E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.

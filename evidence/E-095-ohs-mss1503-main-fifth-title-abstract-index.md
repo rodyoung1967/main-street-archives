@@ -32,14 +32,15 @@ Those are collection-level facts. They do not prove what appears in this individ
 
 ## Historical significance and limits
 
-The index row strongly overlaps the later/current Block 4 parcel-description problem around 503/505 and possibly part of 507 Main. It is therefore a high-priority route for testing:
+Task 6 corrected the cadastral orientation: **Block 4 is the original target-side block**, not a later replacement for Block 26. The 1913 assessment independently lists **G. A. Harding at Block 4 Lots 3 and 4**, while current 503/505 legal-description leads overlap those same lots. The index row is therefore a potentially direct correct-side title-chain lead for testing:
 
-- the Lot 5 Barlow/David ownership chain from the 1913 assessment toward 1922;
+- the Harding ownership chain for Block 4 Lots 3–4;
+- the July 1922 Harding → **S. Wolf / C. Gates** division;
 - whether **S. Wolf** appears in land or building/improvement ownership;
 - the reported later Wolf-family ownership of 503;
-- the mechanism connecting original Block 26 to later/current Block 4 descriptions.
+- the historical relationship between original lot lines and later 503/505 parcel divisions.
 
-The actual title abstract has not been found online, retrieved, or visually inspected. Accordingly, `E-095` proves **none** of those property-history propositions. It is a verified archival index finding plus an open **MANUAL CALLOUT**.
+The actual title abstract has not been found online, retrieved, or visually inspected. Accordingly, `E-095` proves **none** of those property-history propositions. It is a verified archival index finding plus an open **MANUAL CALLOUT**. See `E-108` for the current address-to-property synthesis.
 
 ## Sources
 
@@ -53,4 +54,4 @@ The actual title abstract has not been found online, retrieved, or visually insp
 - Collection-level finding-aid description: **Very High**
 - Exact abstract lot scope: **Unresolved internal index conflict**
 - Connection to a specific target parcel or ownership chain: **Strong lead, not proven**
-- S. Wolf, 1922 ownership, improvement ownership, and cadastral conversion: **Unresolved pending retrieval**
+- S. Wolf, 1922 ownership, improvement ownership, and exact parcel/title chain: **Unresolved pending retrieval**

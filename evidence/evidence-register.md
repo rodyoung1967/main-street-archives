@@ -753,3 +753,12 @@ Record: `evidence/source-captures/1915-courier-sheets-073-100.md`.
 Claims: Repeated directories at 507/509/511; Holman/Randall Fifth/Main notices; Main repaving chronology corroborated from scans. No numbered503/505 claim identified, a coverage result only. Detailed dates/pages and manual callouts in record.
 Confidence: High for the cited readable notices; no title/continuous-occupancy inference; October 14 seq4 attribution and September 2 center pagination unresolved.
 Related: B-003; E-054; RL-042. This is not an annual online-completion certification.
+
+
+## E-108 — Block 4 Harding Address-to-Property Bridge
+Type: Cross-source cadastral/property synthesis  
+Dates: 1911–1925 evidence synthesized 26 August 2026  
+Sources: `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`  
+Related record: `evidence/E-108-block4-harding-address-property-bridge.md`  
+Claims: Task 7 establishes a defensible bridge from corrected original **Block 4** through **G. A. Harding's Lots 3–4**, the Harding/505 Chicago Store building-owner lead, and the July 1922 Harding→Gates/Wolf property division. The evidence strongly links Wolf's newly reported remainder to the Wolf-owned fire-origin building but does **not** identify the exact 501/503/505 dividing wall. Current 503 overlaps Lot 4 and 505 overlaps Lots 3–4 as current legal-description leads; modern boundaries are not backdated. Two Gates/Wolf storefront models remain live, and 501 remains a fire-origin alternative.  
+Confidence: Very High for Block 4 orientation and Harding Lots 3–4; High/strong inference for the Harding-property/Wolf chain; Strong multi-source inference for Harding↔505 with the December 1913 owner wording still primary OCR/text-only; exact 1922 storefront mapping unresolved.

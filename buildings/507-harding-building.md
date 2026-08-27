@@ -5,7 +5,7 @@
 - Building ID: `B-003`
 - Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
 - Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`, `E-095`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`, `E-095`, `E-108`
 - Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`, `S-109`, `S-110`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
@@ -137,3 +137,8 @@ High-priority evidence to locate:
 ## 1915 visual corroboration — 27 August 2026 batch
 
 S-120 / E-107 visually reconfirms the recurring directory: W. W. Bradley at 507 Main, H. P. Brightbill at 509 Main and Geo. A. Harding at 511 Main. Dates/pages are enumerated in `evidence/source-captures/1915-courier-sheets-073-100.md` (August5–October 21). These are printed business-address anchors, not title, construction dates or proof of uninterrupted occupancy. They do not identify a503/505 tenant.
+
+
+## Task 7 Address-to-Property Bridge
+
+`E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.
