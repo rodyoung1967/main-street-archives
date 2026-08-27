@@ -1,0 +1,262 @@
+from pathlib import Path
+import json
+import re
+
+root = Path('.')
+batch = root / 'newspapers/oregon-city-courier/1915-sheets-111-123'
+manifest_path = batch / 'manifest.json'
+manifest = json.loads(manifest_path.read_text())
+items = sorted(manifest['items'], key=lambda x: (x['date'], x['sequence']))
+assert len(items) == 46
+
+for idx, item in enumerate(items, start=203):
+    item['review_status'] = 'VISUALLY VERIFIED'
+    item['visual_review_date'] = '2026-08-27'
+    item['media_id'] = f'IMG-{idx:04d}'
+    item['printed_page'] = item['sequence']
+manifest['review_status'] = 'VISUALLY VERIFIED - all 46 supplied page images inspected 2026-08-27'
+manifest['media_range'] = 'IMG-0203-IMG-0248'
+manifest_path.write_text(json.dumps(manifest, indent=2) + '\n')
+
+(batch / 'README.md').write_text('''# Original Courier scans - 1915 sheets 111-123
+
+S-122 / E-110. Forty-six original single-page archive PDFs, December 2 through December 30, downloaded and visually reviewed 27 August 2026. Exact source URLs and SHA-256 hashes are preserved in `manifest.json` and `sha256.txt`; the PDFs themselves are unchanged.
+
+Media **IMG-0203-IMG-0248** correspond one-to-one to the 46 manifest entries. All supplied December images were visually inspected from rendered scans; embedded text was used only to locate small-print candidates and did not substitute for visual certification.
+
+[Detailed visual review](../../../evidence/source-captures/1915-courier-sheets-111-123.md).
+
+This batch completes the supplied **Courier scan-sheet inventory at 123/123**, but it does **not** make 1915 ONLINE COMPLETE: all 107 Enterprise sheets / 428 images, water-ledger/other-source work and the recorded Courier source/pagination callouts remain outstanding.
+''')
+
+relevant = {
+    ('1915-12-02', 4): 'Editorial revisits the unresolved Fifth Street improvement/payment controversy; public-works context only.',
+    ('1915-12-02', 5): 'Holman & Randall advertisement: Fifth and Main.',
+    ('1915-12-02', 6): 'Directory: Scripture & May unnumbered; Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price Bros. 527; Electric Hotel between 4th & 5th on Main.',
+    ('1915-12-09', 6): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-09', 8): 'Directory repeats 507/509/511/519/527; Scripture & May unnumbered; Electric Hotel between 4th & 5th on Main.',
+    ('1915-12-16', 5): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-16', 6): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-16', 8): 'Directory repeats 507/509/511/519/527; Scripture & May unnumbered; Electric Hotel between 4th & 5th on Main.',
+    ('1915-12-23', 2): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-23', 6): 'Directory repeats 507/509/511/519/527; Scripture & May unnumbered; Electric Hotel between 4th & 5th on Main.',
+    ('1915-12-23', 7): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-23', 8): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-30', 2): 'Holman & Randall Fifth/Main notice.',
+    ('1915-12-30', 6): 'Directory repeats 507/509/511/519/527; Scripture & May unnumbered; Electric Hotel between 4th & 5th on Main.',
+    ('1915-12-30', 7): 'Holman & Randall Fifth/Main notice.',
+}
+rows = []
+for item in items:
+    key = (item['date'], item['sequence'])
+    note = relevant.get(key, 'Page visually inspected; no new defensible exact 503/505 or numbered Fifth Street anchor identified.')
+    rows.append(f"| {item['date']} | {item['sequence']} | {item['media_id']} | {note} |")
+page_rows = '\n'.join(rows)
+
+capture = f'''# 1915 Courier - sheets 111-123, December completion
+
+Review date: **27 August 2026**. Source **S-122**; evidence **E-110**.  
+Status: **VISUALLY VERIFIED - all 46 supplied December page images inspected**.
+
+## Scope and saved checkpoint
+
+The final five 1915 *Oregon City Courier* issues were recovered as 46 original single-page PDFs, rendered and visually inspected page by page:
+
+| Issue | Images |
+| --- | ---: |
+| 2 December 1915 | 10 |
+| 9 December 1915 | 10 |
+| 16 December 1915 | 10 |
+| 23 December 1915 | 8 |
+| 30 December 1915 | 8 |
+
+Repository originals: `newspapers/oregon-city-courier/1915-sheets-111-123/`; manifest and hashes are preserved there. Media **IMG-0203-IMG-0248**.
+
+This completes the supplied Courier scan-sheet inventory at **123/123**. It does not resolve annual callouts **1915-M01 through M04** and does not certify 1915 as ONLINE COMPLETE. The *Oregon City Enterprise* remains **0/107 sheets / 428 images** under the exhaustive visual standard, with water-ledger/other-source work also outstanding.
+
+## Verified findings
+
+### Main Street directory continuity through year end
+
+The visual directories on **Dec. 2 p6, Dec. 9 p8, Dec. 16 p8, Dec. 23 p6, and Dec. 30 p6** repeat the same numbered business ladder:
+
+- **W. W. Bradley - 507 Main**
+- **H. P. Brightbill - 509 Main**
+- **Geo. A. Harding - 511 Main**
+- **F. F. Theroux - 519 Main**
+- **Price Bros. - 527 Main**
+
+These extend dated advertised-location evidence through **30 December 1915**. They do not prove uninterrupted tenancy, ownership, a shared historical footprint or a transfer sequence.
+
+The same directory pages list **Scripture & May** as scientific horseshoers but print **no street number**. The later verified **108 Fifth** address therefore remains a 1916-and-later anchor and is not backdated to 1915.
+
+The directory also repeatedly describes the **Electric Hotel** as a popular-priced restaurant **between Fourth and Fifth on Main**. That is a useful relative Main Street location south of Fifth, not a numbered Fifth Street address and not a target-storefront assignment.
+
+### Fifth Street context
+
+**Dec. 2 p4** visually confirms another editorial treatment of the Fifth Street improvement/payment controversy. It calls the paying of Fifth Street an absorbing municipal mystery and refers to the street's recent work/redressing. This extends the already documented 1915 public-works controversy; it does not identify an exact work segment, authorization, cost attributable solely to Fifth Street, or any storefront demolition/alteration.
+
+Holman & Randall advertisements continue to print **Fifth and Main** through the December issues, including the final Dec. 30 issue. This is intersection evidence only; it is not converted to 501 Main or to a numbered Fifth address without an independent mapping source.
+
+### Target and Fifth-number coverage result
+
+No defensible exact **503 Main** or **505 Main** occupant/building-status statement was identified in these 46 supplied images. No exact **102, 104, 106, 108, or 110 Fifth** listing was found in this December batch, and no other new numbered Fifth Street occupant was established. These are bounded coverage results only - **not evidence of vacancy, demolition, non-use, or absence of those addresses**.
+
+## Page-by-page visual log
+
+| Date | Seq / printed page | Media | Inspection note |
+| --- | ---: | --- | --- |
+{page_rows}
+
+## Carry-forward limits
+
+The Courier source set is now visually processed through year end, but the previously documented archive/pagination exceptions **M01-M04** remain open and must not be erased by the 123/123 progress count. Enterprise, water-ledger/other-source checks, exact 1915 Scripture & May number, 503/505 occupancy, the 507 Young-to-Bradley transition, and exact Fifth Street improvement authority/segment remain research work rather than negative historical conclusions.
+'''
+(root / 'evidence/source-captures/1915-courier-sheets-111-123.md').write_text(capture)
+
+# Source register / YAML
+p = root / 'evidence/source-register.md'
+s = p.read_text()
+assert '## S-122 ' not in s
+s += '''\n\n## S-122 - Courier 1915 visual batch, sheets 111-123\nType: Primary newspaper scans / exhaustive visual review.  \nDates: 2-30 December 1915.  \nCanonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD/ed-1/seq-N.pdf  \nRepository: `newspapers/oregon-city-courier/1915-sheets-111-123/`; exact URLs and SHA-256 hashes in `manifest.json`.  \nMedia: `IMG-0203` through `IMG-0248`.  \nEvidence: `E-110`; detailed review `evidence/source-captures/1915-courier-sheets-111-123.md`.  \nNotes: All 46 supplied December images visually inspected. Dated directories extend Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527 through 30 December; Scripture & May remains unnumbered; Holman/Randall Fifth/Main continues; 2 December p4 extends the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant found; coverage only. Courier inventory reaches 123/123, while 1915 remains IN PROGRESS because Enterprise, other-source work and M01-M04 remain.\n'''
+p.write_text(s)
+
+p = root / 'database/sources.yml'
+s = p.read_text().rstrip() + '''\n\n  - id: S-122\n    name: Courier 1915 visual batch, sheets 111-123\n    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/\n    notes: Forty-six supplied single-page PDFs visually inspected from 2 through 30 December 1915; originals and per-page URLs/hashes/statuses in newspapers/oregon-city-courier/1915-sheets-111-123/manifest.json. E-110; IMG-0203 through IMG-0248. Courier inventory reaches 123/123; Enterprise and other-source work remain, with M01-M04 still open.\n'''
+p.write_text(s + '\n')
+
+# Evidence register / YAML
+p = root / 'evidence/evidence-register.md'
+s = p.read_text()
+assert '## E-110 ' not in s
+s += '''\n\n## E-110 - 1915 Courier December completion and year-end address continuity\nType: Primary newspaper visual review; source `S-122`.  \nRecord: `evidence/source-captures/1915-courier-sheets-111-123.md`.  \nClaims: All 46 supplied December page images were visually inspected. Directories on Dec. 2 p6, Dec. 9 p8, Dec. 16 p8, Dec. 23 p6 and Dec. 30 p6 repeat Bradley 507, Brightbill 509, Harding 511, Theroux 519 and Price Bros. 527. Scripture & May is repeatedly unnumbered; Holman/Randall continues at Fifth/Main. Dec. 2 p4 revisits the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant is established; this is coverage only.  \nConfidence: Very High for readable directory numbers/intersection wording and visual coverage; exact Fifth Street work segment/authority and target occupancy remain unresolved.  \nRelated: `E-054`, `E-107`, `E-109`; `BUS-007`, `BUS-026`, `BUS-027`, `BUS-028`, `BUS-029`; `B-003`, `B-004`.\n'''
+p.write_text(s)
+
+p = root / 'database/evidence.yml'
+s = p.read_text().rstrip() + '''\n\n  - id: E-110\n    name: 1915 Courier December completion and year-end address continuity\n    type: Primary newspaper visual review of forty-six supplied page images\n    claims:\n      - All 46 supplied December Courier page images were visually inspected, completing the supplied Courier scan-sheet inventory at 123/123.\n      - Directories on December 2 p6, December 9 p8, December 16 p8, December 23 p6 and December 30 p6 repeat W. W. Bradley at 507, H. P. Brightbill at 509, Geo. A. Harding at 511, F. F. Theroux at 519 and Price Bros. at 527 Main.\n      - Scripture & May remains unnumbered in these directory notices; later 108 Fifth evidence is not backdated to 1915.\n      - Holman and Randall Fifth/Main notices continue through December; December 2 p4 revisits the Fifth Street improvement/payment controversy without proving an exact segment, isolated cost or storefront alteration.\n      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.\n    confidence: Very High for readable printed directory numbers/intersection wording and visual coverage; exact Fifth work segment/authority and target occupancy unresolved.\n    related_sources: [S-122]\n    related_evidence: [E-054, E-107, E-109]\n    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029]\n    related_buildings: [B-003, B-004]\n    repository_file: evidence/source-captures/1915-courier-sheets-111-123.md\n'''
+p.write_text(s + '\n')
+
+# Media register
+p = root / 'media/photo-metadata-register.md'
+s = p.read_text().rstrip() + '''\n\n## Courier December batch media - S-122 / E-110, reviewed 27 August 2026\n\nEach ID below represents one unchanged original PDF scan. Exact source URLs and SHA-256 hashes are in `newspapers/oregon-city-courier/1915-sheets-111-123/manifest.json`. All 46 supplied images are VISUALLY VERIFIED.\n\n| Media ID | Repository file | Issue association / sequence |\n| --- | --- | --- |\n'''
+for item in items:
+    s += f"| {item['media_id']} | `newspapers/oregon-city-courier/1915-sheets-111-123/{item['file']}` | {item['date']} / seq{item['sequence']} / printed{item['printed_page']} |\n"
+p.write_text(s + '\n')
+
+# Year status
+p = root / 'registers/year-status.md'
+s = p.read_text()
+m = re.search(r'^\| 1915 \|.*$', s, re.M)
+assert m
+new = '| 1915 | **IN PROGRESS** | `evidence/source-captures/1915-courier-sheets-073-100.md`; `evidence/source-captures/1915-courier-sheets-101-110.md`; `evidence/source-captures/1915-courier-sheets-111-123.md`; `evidence/source-captures/1915-page-review-checklist.md` | Courier **123/123 sheets processed through 30 December**; final 46 December images preserved and visually inspected. Enterprise **0/107 / 428 images** pending; water-ledger/other-source work pending. Courier callouts M01-M04 remain open and are not erased by the sheet count. |'
+p.write_text(s[:m.start()] + new + s[m.end():])
+
+# Checklist
+p = root / 'evidence/source-captures/1915-page-review-checklist.md'
+s = p.read_text()
+marker = 'Status: **IN PROGRESS - paused through 25 November; December and Enterprise pending**'
+if marker not in s:
+    marker = 'Status: **IN PROGRESS — paused through 25 November; December and Enterprise pending**'
+assert marker in s
+repl = '''Status: **IN PROGRESS - Courier visual pass complete through 30 December; Enterprise and other-source work pending**
+
+## Latest Courier completion checkpoint - through 30 December 1915
+
+- **Courier 123/123 scan sheets processed through year end.** Final batch: sheets 111-123, **46 supplied page images**, all visually inspected; source `S-122`, evidence `E-110`, media `IMG-0203-IMG-0248`.
+- Saved originals: `newspapers/oregon-city-courier/1915-sheets-111-123/`; [detailed visual log](1915-courier-sheets-111-123.md).
+- Five December directories extend 507 Bradley / 509 Brightbill / 511 Harding / 519 Theroux / 527 Price Bros. through **30 December**. Scripture & May remains unnumbered; Holman/Randall continues at Fifth/Main.
+- December 2 p4 adds Fifth Street improvement/payment controversy context. **No exact 503/505 occupant and no new 102/104/106/108/110 Fifth or other numbered Fifth occupant** was identified in the final batch; coverage only.
+- Courier **M01-M04 remain open** source/pagination/manual callouts; 123/123 does not silently resolve them.
+- Next exhaustive newspaper task: **Oregon City Enterprise, 107 sheets / 428 images**. Water-ledger/other online-source work also remains. **1915 is not ONLINE COMPLETE.**'''
+p.write_text(s.replace(marker, repl, 1))
+
+# Main research record
+p = root / 'evidence/source-captures/1915-main-street-research.md'
+s = p.read_text()
+anchor = 'Year status: **IN PROGRESS** - active exhaustive pass.\n'
+if anchor not in s:
+    anchor = 'Year status: **IN PROGRESS** — active exhaustive pass.\n'
+assert anchor in s
+section = '''
+## Courier completion checkpoint - through 30 December 1915
+
+The *Oregon City Courier* supplied scan inventory is now **123/123 sheets processed through year end**. The final 46 December images are visually verified and preserved under `S-122` / `E-110`. Five December directories extend the 507/509/511/519/527 advertised-address ladder through 30 December; Holman/Randall continues at Fifth/Main; Scripture & May remains unnumbered. December 2 p4 adds Fifth Street improvement/payment controversy context. No exact 503/505 occupant or new numbered Fifth Street occupant was identified in the final batch; this is coverage only.
+
+The year remains **IN PROGRESS**: Enterprise 0/107 / 428 images, water-ledger/other-source work and Courier callouts M01-M04 remain.
+'''
+p.write_text(s.replace(anchor, anchor + section, 1))
+
+# Address register
+p = root / 'registers/address-register.md'
+s = p.read_text()
+s = s.replace('W. W. Bradley listed at 507 in August–October 1915;', 'W. W. Bradley listed at 507 in dated 1915 directories through 30 December;')
+s = s.replace('H. P. Brightbill grocery; dated August–October 1915 corroboration.', 'H. P. Brightbill grocery; dated 1915 directory corroboration through 30 December.')
+s = s.replace('Geo. A. Harding drug business in dated 1915 directories, not 507 in those notices.', 'Geo. A. Harding drug business at 511 in dated 1915 directories through 30 December, not 507 in those notices.')
+s = s.replace('F. F. Theroux, pianos/sewing machines, 5 August 1915 p3.', 'F. F. Theroux, pianos/sewing machines, listed at 519 in dated 1915 directories through 30 December.')
+s = s.replace('5 August 1915 directory gives Price Bros. at 527;', 'Dated 1915 directories give Price Bros. at 527 through 30 December;')
+s = s.replace('## Dated update through November 25, 1915', '## Dated update through December 30, 1915')
+s = s.replace('**E-109/S-121** extends advertised listings for 507,509,511,519 and527 through November 25, without uninterrupted-occupancy or shared-footprint assumptions. November 25 Brightbill entry visually reads509, not OCR609.', '**E-109/S-121** extends the ladder through November 25 and **E-110/S-122** extends 507, 509, 511, 519 and 527 through December 30, without uninterrupted-occupancy or shared-footprint assumptions. November 25 Brightbill entry visually reads 509, not OCR 609.')
+s = s.replace('This 1915 batch establishes no new numbered Fifth occupant.', 'The completed December Courier batch establishes no new numbered Fifth occupant and no exact 102/104/106/108/110 Fifth listing.')
+p.write_text(s)
+
+# Research leads
+p = root / 'evidence/research-leads.md'
+s = p.read_text()
+needle = 'Next routes: December Courier and Enterprise scans, contemporary exact-number directories, municipal reports and property records when testing a real-estate claim. Stop this batch before December 2; unfinished online leads are not relabeled manual.'
+if needle in s:
+    s = s.replace(needle, '''**December Courier completion - E-110/S-122:** all 46 December pages were visually reviewed. The five directory pages extend Bradley507 / Brightbill509 / Harding511 / Theroux519 / Price Bros.527 through December30. Scripture & May remains unnumbered; no 102/104/106/108/110 Fifth address, exact 503/505 occupant, or target-frontage construction/demolition claim emerged. December2 p4 extends the Fifth Street improvement/payment controversy.
+
+Next routes: Enterprise scans, contemporary exact-number directories, municipal reports and property records when testing a real-estate claim. Courier is 123/123 processed, but M01-M04 remain source/pagination callouts; unfinished online leads are not relabeled manual.''', 1)
+p.write_text(s)
+
+# Research log
+p = root / 'registers/research-log.md'
+s = p.read_text()
+lines = s.splitlines()
+sep = next(i for i, line in enumerate(lines) if line.startswith('| ---'))
+row = '| 2026-08-27 | Completed final 1915 Courier December visual batch, sheets 111-123 / 46 supplied images | Courier now 123/123 through Dec. 30. Reconfirmed 507/509/511/519/527, Holman/Randall Fifth/Main, unnumbered Scripture & May, and Dec. 2 Fifth Street funding/work controversy. No exact 503/505 or new numbered Fifth address; coverage only. | Next: Enterprise 0/107 / 428 images, then other-source reconciliation; M01-M04 remain. |'
+lines.insert(sep + 1, row)
+p.write_text('\n'.join(lines) + '\n')
+
+# Timeline
+p = root / 'timeline.md'
+s = p.read_text()
+if '## December 1915 - Courier year-end visual completion' not in s:
+    block = '''
+## December 1915 - Courier year-end visual completion
+
+The final 46 supplied *Oregon City Courier* December images were visually inspected (`S-122` / `E-110`), bringing the Courier inventory to **123/123 scan sheets processed through 30 December**. Directories on five December dates continue **Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527**; Holman/Randall continues at Fifth/Main and Scripture & May remains unnumbered. A 2 December editorial continues the Fifth Street improvement/payment controversy. No exact 503/505 occupant, new numbered Fifth address, or target-frontage demolition/rebuild statement was established in the batch; these are coverage limits, not absence evidence. 1915 remains IN PROGRESS pending Enterprise and other-source work, with M01-M04 still open.
+
+'''
+    idx = s.find('\n## October 1918')
+    if idx < 0:
+        idx = s.find('\n## 1918')
+    s = s.rstrip() + '\n\n' + block if idx < 0 else s[:idx] + '\n' + block + s[idx:]
+p.write_text(s)
+
+# Repaving capture
+p = root / 'evidence/source-captures/1915-main-street-repaving.md'
+s = p.read_text().rstrip() + '''
+
+## Visual addendum - 2 December 1915
+
+The actual Dec. 2 Courier p4 scan was visually inspected in the final December batch (`S-122` / `E-110`). An editorial again describes the **paying of Fifth Street** as an absorbing municipal mystery and refers to the street's recent redressing/work. This corroborates that the Fifth Street improvement/funding dispute remained active into December. It supplies no exact work limits, isolated Fifth-only cost, authorizing record, or evidence that a Main/Fifth storefront was demolished or altered.
+'''
+p.write_text(s + '\n')
+
+# Archive index
+p = root / 'ARCHIVE_INDEX.md'
+s = p.read_text().rstrip() + '''
+
+## 1915 Courier December completion
+
+- `evidence/source-captures/1915-courier-sheets-111-123.md` - final 46 December pages visually reviewed; source S-122 / evidence E-110.
+- `newspapers/oregon-city-courier/1915-sheets-111-123/` - unchanged original PDFs, manifest, hashes and media IMG-0203-IMG-0248.
+- Courier checkpoint: **123/123 scan sheets processed**. Enterprise and other-source work remain; 1915 is still IN PROGRESS.
+'''
+p.write_text(s + '\n')
+
+# Remove the temporary runner files from the final archive commit.
+for tmp in [Path('.github/workflows/integrate-1915-december.yml'), Path('scripts/integrate_1915_december_review.py')]:
+    if tmp.exists():
+        tmp.unlink()
