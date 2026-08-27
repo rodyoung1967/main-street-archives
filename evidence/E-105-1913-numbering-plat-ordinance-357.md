@@ -10,4 +10,4 @@ The 3 October 1913 *Morning Enterprise* prints a City Recorder notice stating th
 
 ## Research value and limit
 
-This corroborates the 1906 numbering-plat sequence in `E-061` and gives an exact 1913 retrieval target: Ordinance No. 357 and the recorder-held plat/plan. The page does not reproduce the plan and therefore does not establish the original Block 26 lot or building corresponding to 501, 503, or 505 Main.
+This corroborates the 1906 numbering-plat sequence in `E-061` and gives an exact 1913 retrieval target: Ordinance No. 357 and the recorder-held plat/plan. The page does not reproduce the plan and therefore does not establish any exact original Block 4 lot or building corresponding to 501, 503, or 505 Main.

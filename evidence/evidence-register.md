@@ -736,7 +736,7 @@ Type: Primary newspaper municipal-record lead; direct visual inspection
 Date: 3 October 1913
 Sources: `S-119`; cross-reference `S-075` / `E-061`
 Related record: `evidence/E-105-1913-numbering-plat-ordinance-357.md`
-Claims: A City Recorder notice states that a **plat and plan showing proper street numbers for all property in Oregon City** was on file with the recorder, and quotes Section 5 of **Ordinance No. 357** requiring assigned numbers on buildings. This directly corroborates that the numbering-plat/plan described in 1906 remained an operational municipal record in 1913. The notice does not reproduce the plat or map 501/503/505 to original Block 26 lots.
+Claims: A City Recorder notice states that a **plat and plan showing proper street numbers for all property in Oregon City** was on file with the recorder, and quotes Section 5 of **Ordinance No. 357** requiring assigned numbers on buildings. This directly corroborates that the numbering-plat/plan described in 1906 remained an operational municipal record in 1913. The notice does not reproduce the plat or establish any exact 501/503/505-to-original-Block-4 lot mapping.
 Confidence: Very High for the notice wording and the 1913 recorder-held plat/plan lead; Unresolved for the plat contents and target-address/lot mapping.
 
 ## E-106 — 513 Fifth Street Residence, 1912
