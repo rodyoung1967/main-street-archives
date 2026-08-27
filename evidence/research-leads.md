@@ -126,6 +126,8 @@ The 1910 annual pass reviewed targeted search results and all useful indexed/ret
 ## RL-033 — Map the Multiple 1910 Sixth/Main Businesses to Specific Corners and Lots
 `E-081` / `S-094` places **Price Bros.** at Sixth & Main in March and September 1910 and **Watson B. Eddy & Son** at Main & Sixth in September. `E-078` independently documents the new Gambrinus block at the intersection, while `E-079` documents Hodes having vacated a Sixth/Main saloon earlier that year. Determine which corner/lot each business occupied using directories, deeds/leases, advertisements with neighboring-business language, photographs, building permits, and the 1906 numbering plat. Do not assume multiple businesses described at the same intersection occupied the same building.
 
+1915 anchor: the visually rechecked 5 August p3 directory places Price Bros. at **527 Main** (`E-107`; `BUS-028`). This is a later exact-number anchor, not proof that the 1910 Sixth/Main premises were the same store, corner or number. The 1910 mapping lead remains open.
+
 ## RL-034 — Complete Visual Review of 1911 Courier Pages Not Exposed by the Current Interface
 The 1911 annual pass combined exact-address/business/construction searches with issue/page review of retrievable/indexed *Oregon City Courier* pages. The page-level pass materially helped recover the Chicago Store 405→505 move window, the Harding/Willamette location wording, the Gambrinus occupancy item, and Sixth Street grade work. Some 1911 issue/page images are not reliably exposed through the current research interface. Complete the remaining physical image-by-image scan through Historic Oregon Newspapers/Oregon Digital, library microfilm, or another full-page viewer and preserve an issue-date/page checklist. Inaccessible pages are not counted as visually reviewed and are not negative evidence.
 
@@ -176,3 +178,14 @@ Preserve the family framework: Dick and Sheila **operated Brass Rail before owni
 Status: Open manual holding-library verification after PDF/alternate-IIIF comparison.
 Source/evidence: S-120 / E-107; `evidence/source-captures/1915-courier-sheets-073-100.md`.
 Action: Resolve numbered callouts1915-M02 (October 14 seq4 carries October 21 date but differs from October 21 seq4) and1915-M03 (September 2 unnumbered oversized center poster between printed5 and8). Ask holding library to verify originals/microfilm and supply/confirm correct attribution/pagination. Do not assume an archive error, printer error, missing pages, or vacancy. Carry prior January 14 callout1915-M01 forward separately. Review progress100/123 is not resolution of these exceptions.
+
+## RL-043 — Resolve unnumbered 1915 business changes and neighboring-address transitions
+
+Status: **Open online follow-up**, not an exhausted-online/manual callout. Source `S-120`; [integration audit](source-captures/1915-sheets-073-100-integration-audit.md).
+
+- **Bannon & Co., 12 August p5:** about 300 square feet being added upstairs for women's apparel, on Main Street. Resolve exact number and relationship to the September 30 Masonic Temple advertisement before assigning the enlargement to a building. Do not convert work in progress into completed work.
+- **Brunswick hotel/restaurant, 23 September p1:** reported purchase and planned new plate-glass front/alterations on Main near Seventh. **30 September p1:** proposed rename after planned $7,000 repairs and reopening. Recover exact number, actual opening/rename and the nature of the transferred interest; newspaper purchase wording is not deed proof.
+- **Price Bros., 527, 5 August p3:** find entry/exit dates and any bridge to the separately named 1912 Bailey & Price billiard business; shared Price name is insufficient. Look for any subsequent repair/closure notice following the Friday-night incident, but do not assume either occurred. `OQ-028`, `RL-033`.
+- **Bradley 507 / Brightbill 509 / Theroux 519:** pursue explicit transition/identity notices when the chronological review resumes. Repeated advertisements do not prove uninterrupted occupancy, a Bradley purchase from Young, a Henry/H. P. Brightbill identity, or a Theroux move from earlier Fifth/Main wording.
+
+Next routes: remaining Courier and Enterprise scans, contemporary exact-number directories, later opening/rename notices, and property records only when a real-estate claim is being tested. This task performs no new search beyond the saved batch and does not resolve these leads.

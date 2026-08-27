@@ -4,6 +4,8 @@ Year status: **IN PROGRESS** — active exhaustive pass.
 
 ## Latest pause checkpoint — 27 August 2026
 
+Task 1 integration update: [batch integration audit](1915-sheets-073-100-integration-audit.md) reconciles the 507/509/511/519/527 address findings, related registers and YAML. The Price Bros. incident wording is **Friday night**, calendar-derived 30 July, superseding the earlier Thursday transcription; incident-to-527 mapping is same-issue inference. No review coverage or year status changes. `RL-043` retains unnumbered business-change follow-ups.
+
 **IN PROGRESS — paused after sheet 100 at the user's request.**
 
 - Courier: **100/123 sheets processed**; new batch **73–100 / 108 supplied PDF images** visually inspected, through **21 October 1915**. Source exceptions are not counted as resolved.

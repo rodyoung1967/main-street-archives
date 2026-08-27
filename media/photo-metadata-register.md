@@ -259,6 +259,8 @@ This register records image and photo-metadata items that have been discussed or
 
 ## Courier batch media — S-120 / E-107, reviewed27 August2026
 
+Task 1 recheck: `IMG-0058` (5 August p1) names Al Price and reports a **Friday**-night incident, correcting the batch's earlier Thursday reading. `IMG-0060` (p3) gives Price Bros. at **527** and Theroux at **519**, alongside the 507/509/511 ladder. These support `BUS-028` / `P-043` / `B-004` and `BUS-029` / `P-044` as qualified in the integration audit. Original source files, media IDs and manifest hashes are unchanged; diagnostic crops are not new source assets.
+
 Each ID below represents one original PDF scan, not a separately asserted printed page. Canonical source URLs, hashes, endpoint filenames, printed-page readings and date qualifications are in `newspapers/oregon-city-courier/1915-sheets-073-100/manifest.json`. Source collection: Historic Oregon Newspapers / University of Oregon; publication: Oregon City Courier. All supplied images visually inspected. No user-uploaded filename. October14 seq4 and September2 seq6 exceptions remain explicit in the manifest and detailed capture.
 
 | Media ID | Repository file | Issue association / sequence |

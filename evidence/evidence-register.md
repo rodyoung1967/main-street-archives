@@ -368,10 +368,12 @@ Confidence: High for the accepted historic-inventory identification and 1935 dat
 
 ## E-054 — Holman / Randall Undertaking Business at Fifth & Main, 1915–1917
 Type: Primary newspaper advertisements  
-Sources: `S-064`, `S-065`, `S-066`  
+Sources: `S-064`, `S-065`, `S-066`; supplemental `S-120` / `E-107`
 Related record: `evidence/E-054-holman-fifth-main-1915-1917.md`  
 Claims: Newspaper advertisements place **R. L. Holman and T. P. Randall at Fifth and Main** in June 1915 and March 1916, and **R. L. Holman at Fifth and Main** in January 1917. The ads do **not** print 501 Main. Because the 1925 Sanborn later shows 501 as the corner store space, equivalence with 501 is a research hypothesis only.  
 Confidence: Very High for Fifth-and-Main location and dates; Moderate hypothesis only for equivalence with later-numbered 501 Main.
+
+Supplement: the saved 29 July–21 October 1915 batch repeats Holman/Randall at Fifth and Main. Its dated visual log supplies additional location corroboration, not an exact 501/503/505 number or continuous occupancy between notices.
 
 ## E-055 — Holman & Pace Business Continuity, 1918–1921
 Type: Primary newspaper references / advertisements  
@@ -750,9 +752,9 @@ Confidence: Very High for the printed address and stated occupancy; Unresolved f
 ## E-107 — 1915 Courier batch visual corroboration and coverage
 Type: Primary newspaper visual review; source S-120.
 Record: `evidence/source-captures/1915-courier-sheets-073-100.md`.
-Claims: Repeated directories at 507/509/511; Holman/Randall Fifth/Main notices; Main repaving chronology corroborated from scans. No numbered503/505 claim identified, a coverage result only. Detailed dates/pages and manual callouts in record.
-Confidence: High for the cited readable notices; no title/continuous-occupancy inference; October 14 seq4 attribution and September 2 center pagination unresolved.
-Related: B-003; E-054; RL-042. This is not an annual online-completion certification.
+Claims: Repeated directories identify W. W. Bradley at 507, H. P. Brightbill at 509 and Geo. A. Harding at 511. The 5 August p3 directory additionally identifies F. F. Theroux at 519 and Price Bros. at 527. The same issue's p1 reports smoke and an electric iron burning rear-store boards at Price Bros., names Al Price as proprietor, and says switching off the current averted a potentially serious fire. It says Friday night of the preceding week, calendar-derived 30 July 1915, not Thursday. Incident-to-527 mapping is a same-issue business-name inference; the incident text gives no number. Holman/Randall Fifth/Main notices and Main repaving chronology are corroborated. No numbered 503/505 claim identified, a coverage result only.
+Confidence: High for the cited readable notices and directory numbers; strong inference for incident-to-527 mapping. No title, continuous-occupancy, Bailey & Price identity, closure or rebuilding inference; October 14 seq4 attribution and September 2 center pagination unresolved.
+Related: B-003; B-004; BUS-007; BUS-026 through BUS-029; P-001; P-041 through P-044; E-054; RL-042; RL-043. [Task 1 integration audit](source-captures/1915-sheets-073-100-integration-audit.md) preserves the weekday correction and unresolved-location dispositions. This is not an annual online-completion certification.
 
 
 ## E-108 — Block 4 Harding Address-to-Property Bridge

@@ -186,14 +186,18 @@ buildings:
   - id: B-003
     name: 507 Main Street / Harding Building
     address: 507-511 Main Street, Oregon City, Oregon
-    notes: Original Harding Building / Harding Drug Store context. Gutted in the 1 September 1967 Main Street fire (E-045). ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
+    notes: Original Harding Building / Harding Drug Store context. E-107 gives separate 1915 listings at 507 (W. W. Bradley), 509 (H. P. Brightbill) and 511 (Geo. A. Harding); not proof of a shared historic footprint or continuous occupancy. Gutted in the 1 September 1967 Main Street fire (E-045). ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
     related_businesses:
       - BUS-007
       - BUS-008
       - BUS-023
+      - BUS-026
+      - BUS-027
     related_people:
       - P-001
       - P-002
+      - P-041
+      - P-042
     related_evidence:
       - E-016
       - E-017
@@ -202,12 +206,14 @@ buildings:
       - E-045
       - E-094
       - E-095
+      - E-107
     related_sources:
       - S-063
       - S-107
       - S-108
       - S-109
       - S-110
+      - S-120
     related_maps:
       - SM-002
       - SM-003
@@ -221,11 +227,15 @@ buildings:
   - id: B-004
     name: 527 Main Street / Swartz Building
     address: 527 Main Street, Oregon City, Oregon
-    notes: Present Swartz Building is dated 1935 by the City of Oregon City 2000 downtown historic-resource survey and ODOT's 2021 cultural-resources table. Bailey & Price is documented at 527 Main on 5 January 1912, so the 1912 business occupied a predecessor building/storefront at the same address unless later address-renumbering evidence changes that interpretation. The present 1935 building predates the 1 September 1967 fire and therefore was not a wholesale post-fire replacement. City report notes later entrance alteration.
+    notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January 1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference. No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935 structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage remains unresolved. City report notes later entrance alteration.
+    related_businesses: [BUS-028]
+    related_people: [P-043]
+    related_evidence: [E-052, E-053, E-107]
     related_sources:
       - S-061
       - S-062
       - S-063
+      - S-120
 
   - id: B-005
     name: 501 Main Street (historic / removed)

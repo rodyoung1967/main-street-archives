@@ -772,4 +772,5 @@ Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD
 Repository: `newspapers/oregon-city-courier/1915-sheets-073-100/`; exact URLs, filenames, media IDs and SHA-256 in `manifest.json`.
 Media: IMG-0054 through IMG-0161. Original endpoint filenames recorded; no uploaded source filenames.
 Evidence: E-107; related E-054. Detailed visual audit: `evidence/source-captures/1915-courier-sheets-073-100.md`.
+Integration: `evidence/source-captures/1915-sheets-073-100-integration-audit.md`. August 5 p1 (`IMG-0058`) names Al Price and describes a Friday-night electric-iron incident; p3 (`IMG-0060`) independently lists Price Bros. at 527 and Theroux at 519, alongside 507/509/511. Earlier Thursday transcription superseded. Original files/hashes unchanged.
 Limit: October 14 seq4 date conflict; September 2 center-poster pagination unresolved. 1915 remains IN PROGRESS.

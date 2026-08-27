@@ -136,7 +136,7 @@ High-priority evidence to locate:
 
 ## 1915 visual corroboration — 27 August 2026 batch
 
-S-120 / E-107 visually reconfirms the recurring directory: W. W. Bradley at 507 Main, H. P. Brightbill at 509 Main and Geo. A. Harding at 511 Main. Dates/pages are enumerated in `evidence/source-captures/1915-courier-sheets-073-100.md` (August5–October 21). These are printed business-address anchors, not title, construction dates or proof of uninterrupted occupancy. They do not identify a503/505 tenant.
+S-120 / E-107 visually reconfirms the recurring directory: **W. W. Bradley at 507 Main** (`BUS-026`, `P-041`), **H. P. Brightbill at 509 Main** (`BUS-027`, `P-042`) and **Geo. A. Harding at 511 Main** (`BUS-007`, `P-001`). Dates/pages are enumerated in `evidence/source-captures/1915-courier-sheets-073-100.md` (August 5–October 21). These are printed business-address anchors, not title, construction dates or proof of uninterrupted occupancy. They do not identify a 503/505 tenant. The 1915 Harding listing must not be relabeled 507 simply because this address-group record covers the later consolidated 507–511 property. H. P. Brightbill is not silently merged with Henry Brightbill `P-034`.
 
 
 ## Task 7 Address-to-Property Bridge

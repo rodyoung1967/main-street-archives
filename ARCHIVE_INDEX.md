@@ -116,6 +116,7 @@ Primary file: `buildings/507-harding-building.md`
 
 Associated names and topics:
 
+- Dated 1915 storefronts: **507 — W. W. Bradley; 509 — H. P. Brightbill; 511 — Geo. A. Harding** (`E-107`; `BUS-026`, `BUS-027`, `BUS-007`). Do not backdate later consolidated-building labels to these separate numbers.
 - Original Harding Building
 - Harding Drug Store (gutted 1 September 1967)
 - Dixon's Bakery (named among businesses gutted in same fire; exact storefront number still open)
@@ -141,6 +142,7 @@ Primary file: `buildings/527-swartz-building.md`
 Associated names and topics:
 
 - Bailey & Price, Billiard and Pool Parlors — documented at **527 Main** on 5 January 1912 (`S-061`)
+- **Price Bros. clothing store — 527 Main**, 5 August 1915 directory (`E-107`, `BUS-028`); same-issue report names **Al Price** and describes a Friday-night electric-iron incident (calendar-derived 30 July). No Bailey & Price identity/succession, closure or rebuilding inferred.
 - The 1912 occupant necessarily belongs to a **predecessor building/storefront** because the present building is later
 - **Swartz Building — present structure dated 1935**
 - City of Oregon City Downtown Final Report, 2000 (`S-062`)
@@ -153,6 +155,10 @@ Detailed source extraction/provenance note:
 - `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
 
 Open research questions include the predecessor-building replacement date, identity of Swartz, 1935 owner/builder/architect and permits, intervening occupants, and the exact effect of the 1967 fire on 527.
+
+### 1915 neighboring-address integration
+
+See `evidence/source-captures/1915-sheets-073-100-integration-audit.md` for the batch's address-to-record dispositions and Friday/Thursday correction. **519 Main — F. F. Theroux** is a dated listing with no identified historic building; Bannon/Brunswick changes remain unnumbered-location leads (`RL-043`). Courier review remains paused before sheet 101.
 
 ## Sanborn Map Index
 
@@ -193,7 +199,8 @@ Primary file: `businesses/business-index.md`
 - `BUS-017` Sports Keg
 - `BUS-018` H. H. / H. N. Smith Pool Hall
 - `BUS-019` L. Hylton's 503 Main business
-- `BUS-020` Bailey & Price Billiard and Pool Parlors
+- `BUS-020` L. Hylton cigar and tobacco, 503 Main (the former Bailey & Price label here was an index error; this stable ID belongs to Hylton)
+- Bailey & Price Billiard and Pool Parlors, 527 Main (`E-052` / `S-061`; no business ID assigned; not merged with `BUS-028` Price Bros.)
 - `BUS-021` G. H. Young second-hand/furniture business
 - `BUS-022` H. P. Brightbill grocery
 - `BUS-023` George A. Harding pharmacy

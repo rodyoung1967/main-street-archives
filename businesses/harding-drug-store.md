@@ -16,6 +16,10 @@ The archive currently treats Harding Drug Store as a key business connected to 5
 
 ## George A. Harding Connection
 
+### Dated 1915 address correction
+
+The visually reviewed August–October 1915 directories list **Geo. A. Harding's drug business at 511 Main**, while W. W. Bradley is at **507** and H. P. Brightbill at **509** (`E-107` / `S-120`). See [dated batch pages](../evidence/source-captures/1915-courier-sheets-073-100.md). The older 507 association above is retained as later/general building context, **not a valid exact address for Harding in 1915**. This batch does not establish a move date, a legal business-name change, uninterrupted operation into 1967, or the historic Harding Building's exact footprint.
+
 George A. Harding is associated with both Harding Drug Store and the Harding Building.
 
 - Person record: `P-001`
@@ -60,4 +64,3 @@ High-priority sources to locate:
 - Are there newspaper advertisements that give the store's address?
 - Are there city directories that list Harding Drug Store year by year?
 - Did Harding Drug Store continue after George A. Harding's direct involvement ended?
-

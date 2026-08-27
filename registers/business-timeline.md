@@ -1,16 +1,23 @@
 # Business Timeline
 
-This register tracks business-name and operation chronology. **503 Main** and **505 Main** are listed separately. 507 Main is a short third table because the 1967 fire also documents that address.
+This register tracks business-name and operation chronology by dated address. **501, 503 and 505 Main** are separate; neighboring 507/509/511/519/527 listings retain their own numbers. Later consolidated-building labels do not backdate a tenant to a different historic storefront.
 
 **The Wheel was only at 503. 505 Tavern was at 505. The two businesses had separate ownership/operator chains.** Dick and Sheila later owned the 505 real estate, but their original Brass Rail operating period began **before** they owned the building.
+
+## 501 Main Street (`B-005`)
+
+The following two rows were previously misplaced under the 503 heading. They are preserved here at the 501 address stated in their source; no claim or ID was deleted.
+
+| Period | Business | Business ID | Evidence | Confidence | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 19 Mar. 1912 | Joe Wilson's Palace Saloon | `BUS-024` | `E-104` | Very High | Liquor-license application at 501 Main; no transfer or later-continuity claim. |
+| 3 Oct. 1913 | Hunsaker & Taylor liquor premises | `BUS-025` | `E-104` | Very High | Liquor-license application at 501 Main; separately named from Palace Saloon. |
 
 ## 503 Main Street (`B-001`)
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Aug. 1908 | Henry Brightbill store | | `E-042` | Very High for address | Occupancy; surviving building date not proven. |
-| 19 Mar. 1912 | Joe Wilson's Palace Saloon | `BUS-024` | `E-104` | Very High | Liquor-license application at 501 Main; no transfer or later-continuity claim. |
-| 3 Oct. 1913 | Hunsaker & Taylor liquor premises | `BUS-025` | `E-104` | Very High | Liquor-license application at 501 Main; separately named from Palace Saloon. |
 | Mar. 1912 | H. H. Smith pool hall (application) | `BUS-019` | `E-023` | Very High for application | Grant not independently proven. |
 | Feb. 1914 | L. Hylton cigar/tobacco | `BUS-020` | `E-024` | Very High | |
 | 1925 | Restaurant (Sanborn) | `BUS-001` context | `E-020` | High map | Kwality name not on the map. |
@@ -59,6 +66,17 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
+| Dated listings, Aug.–Oct. 1915 | W. W. Bradley furniture | `BUS-026` | `E-107` | High, visual | 507 Main, not Harding's 511 listing. No continuous occupancy or Young-to-Bradley transfer inferred. |
 | Until 1 Sep. 1967 | Harding Drug Store | `BUS-007` | `E-045` | Very High for destruction in fire | Gutted 1 September 1967. Earlier operating span still incomplete. |
 | Before 1 Sep. 1967 fire | Tony's Restaurant | `BUS-008` | `E-016` | Working | Not named in the 1967 Oregonian fire article. |
 | 1 Sep. 1967 | Dixon's Bakery | `BUS-023` | `E-045` | Very High | Gutted in the same block fire. Exact street number pending. |
+
+## Other dated neighboring storefronts
+
+| Date | Address | Business | Business ID | Evidence | Limits |
+| --- | --- | --- | --- | --- | --- |
+| Dated listings, Aug.–Oct. 1915 | 509 Main | H. P. Brightbill grocery | `BUS-027` | `E-107` | Do not silently merge with Henry Brightbill `P-034`. |
+| Dated listings, Aug.–Oct. 1915 | 511 Main | Geo. A. Harding, druggist | `BUS-007` | `E-107` | Business address, not proof of the named building's footprint or continuous operation into 1967. |
+| 5 Aug. 1915 | 519 Main | F. F. Theroux, pianos/sewing machines | `BUS-029` | `E-107` | Prior Fifth/Main wording does not prove a move or target-storefront identity. |
+| 5 Jan. 1912 | 527 Main | Bailey & Price billiard/pool parlors | Unassigned; unmerged with Price Bros. | `E-052` / `S-061` | Preserved as separate business record; no Price identity/succession bridge. |
+| 30 July / 5 Aug. 1915 | 527 Main | Price Bros. clothing store | `BUS-028` | `E-107` | 5 Aug. directory gives number; same-issue report names Al Price and describes Friday-night electric-iron incident. 30 July derived from date wording; no closure or rebuilding established. |

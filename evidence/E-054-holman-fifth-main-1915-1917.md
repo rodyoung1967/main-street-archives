@@ -1,13 +1,14 @@
 # E-054 — Holman / Randall Undertaking Business at Fifth & Main, 1915–1917
 
 Type: Primary newspaper advertisements  
-Sources: `S-064`, `S-065`, `S-066`
+Sources: `S-064`, `S-065`, `S-066`; supplemental batch `S-120` / `E-107`
 
 ## Claims Supported
 
 - On 17 June 1915, the *Oregon City Courier* advertised **R. L. Holman and T. P. Randall** as leading undertakers at **Fifth and Main St.**
 - On 2 March 1916, the *Courier* again placed **Holman and Randall** at **Fifth and Main St.**
 - On 11 January 1917, the *Courier* placed **R. L. Holman** at **Fifth and Main St.**
+- The saved 29 July–21 October 1915 batch repeatedly prints Holman/Randall at **Fifth and Main**, with dates/pages in [the visual log](source-captures/1915-courier-sheets-073-100.md). This strengthens the dated location record but gives no numbered storefront; the September 23 p3 near-accident item likewise adds location context only.
 
 ## Interpretation
 

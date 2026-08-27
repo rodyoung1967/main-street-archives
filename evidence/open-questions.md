@@ -118,8 +118,12 @@ What was the exact Main Street address of H. P. / Herman Schrader's bakery circa
 ## OQ-027 — Brightbill Main Street Address Chronology
 How did Henry/H. P. Brightbill's store move between the documented **503 Main in August 1908** (`E-042`) and **509 Main on 5 January 1912** (`E-050`)? Find intervening advertisements/directories to establish move date and whether both records refer to the same Brightbill business/person.
 
+1915 integration note: `E-107` adds dated August–October listings of **H. P. Brightbill at 509**, now registered as `P-042` / `BUS-027`. Henry Brightbill remains `P-034`; this batch does not prove their identity or a transfer/move date. The wording of the older question above must not be read as an established identity merger.
+
 ## OQ-028 — 527 Main / Swartz Building Transition
 Status: Current-building date substantially answered. City of Oregon City and ODOT historic-resource surveys identify **527 Main as the Swartz Building, built 1935** (`S-062`, `S-063`). Bailey & Price is documented at **527 Main in January 1912** (`S-061`), so an earlier structure occupied the address. Still open: exact predecessor-building demolition/replacement date, who Swartz was, builder/architect/owner, 1935 permits or newspaper construction notices, intervening occupants, and any damage/repairs from the 1 September 1967 fire.
+
+1915 update: Price Bros. clothing store is directly listed at **527** on 5 August (`E-107` / `S-120`). A same-issue report names Al Price and describes the preceding Friday's electric-iron incident; linking that incident to 527 is cross-item inference. This narrows the intervening-occupant gap but does not establish succession from Bailey & Price, their Price partners' identity, ownership, closure, repair work or replacement. Keep those questions open.
 
 ## OQ-029 — Block 4 / Block 26 Orientation and Alleged Conversion
 Status: **ANSWERED / PRIOR PREMISE CORRECTED (Task 6, 26 August 2026).**
@@ -139,4 +143,3 @@ Status: **NARROWED BY `E-108`; exact dividing line remains unresolved.** Task 7 
 Two models remain live: **(A)** Gates principally at 501, with Wolf beginning at 503; or **(B)** Gates's two Main-facing storerooms became 501+503, with Wolf beginning near 505. The working 503-ignition / 505-adjoining-pool-hall model remains compatible with Model A but is not proved, and **501 remains a live alternative**.
 
 Highest-value resolution records: the OHS MSS 1503 Block 4 Lots 3–4 abstract, Harding→Wolf/Gates deed(s), Gates/Junken permit or plans, original numbering plat, and first post-fire exact-address tenants. Do not decide from the 1925 use pattern alone.
-

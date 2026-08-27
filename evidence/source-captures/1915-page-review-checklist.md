@@ -4,6 +4,8 @@ Status: **active — visual re-review required**
 
 ## Latest pause checkpoint — 27 August 2026
 
+Task 1 [integration audit](1915-sheets-073-100-integration-audit.md) reconciles address/register/database links and corrects the Price Bros. incident weekday to Friday. **No additional pages are counted**; the existing pause and source exceptions remain unchanged.
+
 **IN PROGRESS — paused after sheet 100 at the user's request.**
 
 - Courier: **100/123 sheets processed**; new batch **73–100 / 108 supplied PDF images** visually inspected, through **21 October 1915**. Source exceptions are not counted as resolved.

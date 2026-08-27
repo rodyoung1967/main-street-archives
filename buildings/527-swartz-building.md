@@ -33,6 +33,12 @@ See `S-061` and `newspapers/oregon-city-courier/1912-01-05-page-6-transcription.
 
 Because the present structure is dated 1935, Bailey & Price necessarily occupied an **earlier building/storefront at 527 Main** unless later evidence demonstrates a relevant address renumbering. This creates a documented predecessor-to-current-building transition at the address.
 
+## Earlier Price Bros. occupancy and 1915 incident
+
+The visually rechecked **5 August 1915 Courier, page 3**, lists **Price Bros. clothing store at 527 Main Street**, phone 107 (`S-120` / `E-107`; `BUS-028`). Page 1's “PRICE HAS FIRE” names **Al Price** (`P-043`) as proprietor and reports smoke and an electric iron burning rear-store boards on **Friday night of the preceding week**. Switching off the current averted a potentially serious fire. The incident date is **30 July 1915**, derived from that wording and the publication date; an earlier batch note incorrectly said Thursday and is explicitly corrected in the [integration audit](../evidence/source-captures/1915-sheets-073-100-integration-audit.md).
+
+The incident's connection to **527** is a strong same-issue business-name inference: the incident report itself prints no number. It does not establish closure, demolition, rebuilding, dollar loss, or a real-estate owner. The 1915 store predates the present 1935 Swartz Building. Do not merge Price Bros. with **Bailey & Price (1912)** or identify their Price partners without further evidence; the change between the two dated business listings is unresolved.
+
 ## 1935 construction and the 1967 fire
 
 The 1935 construction date is important to interpretation of the major Main Street fire of **1 September 1967** (`E-045`).
@@ -52,6 +58,7 @@ Accordingly, the building's modern storefront appearance should not automaticall
 | Date | 527 Main Street |
 | --- | --- |
 | 5 Jan. 1912 | Bailey & Price, Billiard and Pool Parlors, documented at 527 Main in predecessor building (`S-061`). |
+| 30 July / 5 Aug. 1915 | Price Bros. clothing store at 527 in the 5 August directory; same-issue report describes the 30 July electric-iron incident and names Al Price. Incident-to-number mapping is cross-item inference (`E-107`). No closure or replacement established. |
 | 1935 | Present **Swartz Building** constructed according to City and ODOT historic-resource inventories (`S-062`, `S-063`). |
 | 1 Sept. 1967 | Present building already existed during the Main Street fire; evidence does not yet define its exact damage/repair history. |
 | 1983-2000 interval | City survey later notes alteration of the Swartz Building entrance (`S-062`). |
@@ -62,6 +69,7 @@ Accordingly, the building's modern storefront appearance should not automaticall
 - Exactly when was the earlier 527 Main building demolished or replaced?
 - Who was "Swartz," and what ownership/business connection gave the building its historic name?
 - What businesses occupied 527 between Bailey & Price in 1912 and construction of the Swartz Building in 1935?
+- Price Bros. is now documented at 527 in August 1915. When did its occupancy start/end, and did this involve a move, renumbering, subdivision, or succession from Bailey & Price? No relationship between their Price partners is established. What repairs, if any, followed the July 1915 incident?
 - What, if any, damage did 527 Main sustain in the 1 September 1967 fire?
 - What was the date and scope of the entrance alteration noted by the 2000 City report?
 - Can assessor cards, permits, deeds, or a 1935 newspaper construction notice independently confirm the exact construction year?

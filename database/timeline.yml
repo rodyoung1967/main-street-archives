@@ -199,3 +199,23 @@ timeline:
       - BUS-025
     related_buildings:
       - B-005
+
+  - id: T-017
+    date: August-October 1915 (dated listings)
+    summary: Courier directories list Bradley at 507, H. P. Brightbill at 509 and Geo. A. Harding at 511 Main. The 5 August directory also lists Theroux at 519 and Price Bros. at 527. No continuous occupancy, property title or exact 503/505 occupant is inferred.
+    confidence: High for visually verified printed numbers; historic footprints and identity/transfer questions remain open.
+    related_evidence: [E-107]
+    related_sources: [S-120]
+    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029]
+    related_people: [P-001, P-041, P-042, P-043, P-044]
+    related_buildings: [B-003, B-004]
+
+  - id: T-018
+    date: 30 July 1915 (calendar-derived; reported 5 August)
+    summary: Courier reports smoke and an electric iron burning rear-store boards at Price Bros. on Friday night of preceding week; current switched off, averting a potentially serious fire. Al Price named proprietor. Same-issue directory lists the business at 527 Main.
+    confidence: High for report wording and directory number; strong same-issue inference for incident-to-527. No closure, rebuilding, title or Bailey & Price identity inferred.
+    related_evidence: [E-107]
+    related_sources: [S-120]
+    related_businesses: [BUS-028]
+    related_people: [P-043]
+    related_buildings: [B-004]

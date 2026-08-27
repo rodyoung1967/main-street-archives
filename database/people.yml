@@ -9,6 +9,9 @@ people:
       - BUS-007
     related_evidence:
       - E-096
+      - E-107
+    related_sources:
+      - S-120
 
   - id: P-002
     name: Dr. Bailey
@@ -378,3 +381,38 @@ people:
       - E-106
     related_sources:
       - S-118
+
+  - id: P-041
+    name: W. W. Bradley
+    role: Furniture merchant at 507 Main
+    notes: Dated August-October 1915 listings. Given names and transfer from G. H. Young unresolved.
+    related_businesses: [BUS-026]
+    related_buildings: [B-003]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+
+  - id: P-042
+    name: H. P. Brightbill
+    role: Grocer at 509 Main
+    notes: Dated August-October 1915 listings. Identity with Henry Brightbill P-034 not established by this batch.
+    related_businesses: [BUS-027]
+    related_buildings: [B-003]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+
+  - id: P-043
+    name: Al Price
+    role: Price Bros. proprietor
+    notes: Named in 5 August 1915 p1 incident report; same-issue p3 gives business address 527 Main. No name expansion, Bailey & Price identity or real-estate ownership assumed.
+    related_businesses: [BUS-028]
+    related_buildings: [B-004]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+
+  - id: P-044
+    name: F. F. Theroux
+    role: Piano and sewing-machine dealer at 519 Main
+    notes: 5 August 1915 p3 exact address. Given names and relationship to earlier Fifth/Main wording unresolved; no inferred move.
+    related_businesses: [BUS-029]
+    related_evidence: [E-107]
+    related_sources: [S-120]

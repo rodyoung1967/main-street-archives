@@ -102,6 +102,14 @@ L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that 
 ## June 1915–January 1917 — Undertakers at Fifth & Main
 Primary *Oregon City Courier* advertisements directly place **R. L. Holman and T. P. Randall** at **Fifth and Main St.** in June 1915 and March 1916, and **R. L. Holman** at the same location in January 1917 (`E-054`, `S-064`–`S-066`). This location is a plausible candidate for the later-numbered 501 Main corner store, but **no recovered source yet equates Fifth & Main with 501 Main**.
 
+## July–October 1915 — neighboring storefronts and Price Bros. incident
+
+The visually reviewed Courier batch gives dated **507 Main — W. W. Bradley; 509 — H. P. Brightbill; 511 — Geo. A. Harding** listings through 21 October (`E-107`; `T-017`). These are separate historic numbers; the later 507–511 consolidated-building label must not overwrite them. The 5 August p3 directory also gives **F. F. Theroux — 519 Main** and **Price Bros. clothing store — 527 Main**. No move date, uninterrupted occupancy, property ownership, or exact 503/505 tenant follows from these listings.
+
+The 5 August p1 report names **Al Price** and describes smoke and an electric iron burning boards at the rear of his store on Friday night of the preceding week; switching off the current averted a potentially serious fire. This yields **30 July 1915** by calendar derivation (`T-018`). Connecting the incident to 527 is a strong same-issue business-name inference using p3, not an address printed in the incident report. No connection with the separate 1912 Bailey & Price billiard business, closure, demolition or rebuilding is established. An earlier Thursday transcription is superseded in the [integration audit](evidence/source-captures/1915-sheets-073-100-integration-audit.md).
+
+Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement and Brunswick sale/planned repairs remain unnumbered-location leads (`RL-043`). The year remains **IN PROGRESS**; review stops at sheet 100.
+
 ## October 1918
 **Wolf & Miller** appeared at **505 Main** (`E-027`). Separate newspaper references identify the **Holman & Pace** chapel/funeral parlors in Oregon City (`E-055`), but those 1918 Holman & Pace references do not state a street address.
 

@@ -5,7 +5,7 @@
 - Person ID: `P-001`
 - Related building: `B-003`
 - Related business: `BUS-007`
-- Related evidence: `E-096`
+- Related evidence: `E-096`, `E-107`
 - Related timeline/building context: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
@@ -16,6 +16,8 @@ George A. Harding is identified in the archive as a druggist and civic leader as
 The visually verified 13 July 1922 *Banner-Courier* now supplies direct contemporary newspaper evidence that a **Main Street property group belonged to George A. Harding** and had been sold to S. Wolf and C. Gates. The named store occupants were the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store (`E-096`). This establishes a Harding property role in that specific group as reported by the newspaper; the deed, legal description, land-versus-improvement interest, and exact modern storefronts remain unresolved.
 
 That transaction must stay separate from Harding's own drug-store address and from the separately named Harding Building until direct mapping evidence connects them.
+
+The visually verified August–October 1915 directories place **Geo. A. Harding's drug business at 511 Main**, separately from Bradley at 507 and Brightbill at 509 (`E-107` / `S-120`). This is a dated business-address record, not title to the storefront or proof of the named Harding Building's footprint. Later 507/consolidated-building labels must not be backdated to these notices.
 
 ## Harding Drug Store Connection
 

@@ -101,14 +101,17 @@ businesses:
 
   - id: BUS-007
     name: Harding Drug Store
-    address: 507 Main
-    notes: Associated with George A. Harding and Harding Building. Gutted in the 1 September 1967 fire (E-045).
+    address: 511 Main (1915); later 507/Harding-block context
+    notes: Geo. A. Harding's 1915 directory address is 511 Main (E-107); do not backdate later 507 or consolidated-building labels. Associated with the drug store gutted in the 1 September 1967 fire (E-045), but continuous operation, exact historic footprint and address-change chronology remain open.
     related_buildings:
       - B-003
     related_people:
       - P-001
     related_evidence:
       - E-045
+      - E-107
+    related_sources:
+      - S-120
 
   - id: BUS-008
     name: Tony's Restaurant
@@ -311,3 +314,39 @@ businesses:
       - E-104
     related_sources:
       - S-119
+
+  - id: BUS-026
+    name: W. W. Bradley furniture
+    address: 507 Main
+    notes: Dated August-October 1915 directory listings; no continuous occupancy or transfer from G. H. Young inferred.
+    related_people: [P-041]
+    related_buildings: [B-003]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+
+  - id: BUS-027
+    name: H. P. Brightbill grocery
+    address: 509 Main
+    notes: Dated August-October 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved. B-003 is address-group context, not proof of historic footprint.
+    related_people: [P-042]
+    related_buildings: [B-003]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+
+  - id: BUS-028
+    name: Price Bros. clothing store
+    address: 527 Main (5 August 1915)
+    notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey & Price merger, real-estate ownership, closure or rebuilding claim.
+    related_people: [P-043]
+    related_buildings: [B-004]
+    related_evidence: [E-107]
+    related_sources: [S-120]
+    repository_file: businesses/price-bros.md
+
+  - id: BUS-029
+    name: F. F. Theroux pianos and sewing machines
+    address: 519 Main (5 August 1915)
+    notes: Number printed in directory; historic building identity and connection to earlier Fifth/Main wording unresolved. No target-storefront or relocation inference.
+    related_people: [P-044]
+    related_evidence: [E-107]
+    related_sources: [S-120]

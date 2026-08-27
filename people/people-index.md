@@ -42,3 +42,7 @@
 | P-038 | Hunsaker & Taylor | 501 Main liquor-license applicants | 3 October 1913 notice identifies the partnership/style at 501 Main. Individual given names and relation to Palace Saloon are not printed. |
 | P-039 | H. M. Templeton | 513 Fifth Street resident | 19 March 1912 item identifies the Templetons' home at 513 Fifth; wife’s given name not printed. |
 | P-040 | M. D. Phillips | 513 Fifth Street occupant | 19 March 1912 item says Phillips and family then occupied the Templeton home at 513 Fifth. |
+| P-041 | W. W. Bradley | Furniture merchant, 507 Main | Dated August–October 1915 listings; `BUS-026`, `E-107`. Given names and transfer from G. H. Young unresolved. |
+| P-042 | H. P. Brightbill | Grocer, 509 Main | Dated August–October 1915 listings; `BUS-027`, `E-107`. Do not merge with Henry Brightbill `P-034` solely on surname/address chronology. |
+| P-043 | Al Price | Price Bros. proprietor | 5 August 1915 p1 names him; same-issue p3 lists Price Bros. at 527. `BUS-028`, `E-107`. No Bailey & Price identity or property-ownership inference. |
+| P-044 | F. F. Theroux | Piano/sewing-machine dealer | 5 August 1915 p3 lists 519 Main; `BUS-029`, `E-107`. Do not expand initials or treat earlier Fifth/Main wording as proof of a move. |

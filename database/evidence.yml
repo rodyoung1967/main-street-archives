@@ -921,11 +921,14 @@ evidence:
     type: Primary newspaper advertisements
     claims:
       - Newspaper advertisements place R. L. Holman and T. P. Randall at Fifth and Main in June 1915 and March 1916, and R. L. Holman at Fifth and Main in January 1917. The ads do not print 501 Main. Because the 1925 Sanborn later shows 501 as the corner store space, equivalence with 501 is a research hypothesis only.
+      - The saved 29 July-21 October 1915 batch repeats Holman/Randall at Fifth and Main; dated notices are in E-107. No exact 501/503/505 number or uninterrupted occupancy is established.
     confidence: Very High for Fifth-and-Main location and dates; Moderate hypothesis only for equivalence with later-numbered 501 Main.
     related_sources:
       - S-064
       - S-065
       - S-066
+      - S-120
+    related_evidence: [E-107]
     repository_file: evidence/E-054-holman-fifth-main-1915-1917.md
 
   - id: E-055
@@ -1559,15 +1562,21 @@ evidence:
     type: Primary newspaper visual review
     claims:
       - Repeated directories identify W. W. Bradley at 507, H. P. Brightbill at 509, and Geo. A. Harding at 511 Main on the dates listed in the source capture.
+      - The 5 August page 3 directory identifies F. F. Theroux at 519 and Price Bros. at 527 Main.
+      - The 5 August page 1 report names Al Price as proprietor and describes smoke and an electric iron burning rear-store boards on Friday night of the preceding week, calendar-derived 30 July 1915. Switching off the current averted a potentially serious fire. The earlier Thursday reading is superseded.
+      - Incident-to-527 mapping is a strong same-issue business-name inference, not a number printed in the incident report. No Bailey & Price identity, real-estate ownership, closure or rebuilding is established.
       - Holman and Randall advertise Fifth and Main without a numbered target address; Main repaving reports do not establish target building demolition.
       - No exact 503 or 505 claim identified in supplied images; this is coverage only, not vacancy evidence.
-    confidence: High for readable notices; date conflict and center-poster pagination unresolved as documented.
+    confidence: High for readable notices and directory numbers; strong inference for incident-to-527 mapping. Date conflict and center-poster pagination unresolved as documented.
     related_sources:
       - S-120
     related_evidence:
       - E-054
     related_buildings:
       - B-003
+      - B-004
+    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029]
+    related_people: [P-001, P-041, P-042, P-043, P-044]
     repository_file: evidence/source-captures/1915-courier-sheets-073-100.md
 
 
