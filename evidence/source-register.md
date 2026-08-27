@@ -107,7 +107,7 @@ Notes: November 1911 Sanborn sheet 22. Related map SM-007.
 ## S-021 — 1925 Sanborn, 5th Area
 Source/location: https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF
 Related evidence: `E-020`, `E-094`
-Notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for 501/503/505 Main and E-094 scale alignment. Related map SM-008.
+Notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for 501/503/505 Main. Task 6 corrected E-094's cadastral orientation to original Block 4; the former Block 26 Lot 5/Lot 6 scale alignment is withdrawn. Related map SM-008.
 
 ## S-022 — 1950 Sanborn, 5th Area
 Source/location: https://www.orcity.org/DocumentCenter/View/4899/1950-6-PDF

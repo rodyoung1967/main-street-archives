@@ -34,7 +34,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 12. The 1910 pass establishes a **direct new-building event on the Gambrinus property at Sixth & Main** (`E-078`), places Brightbill at **509 Main by September 1910** after his 503 Main occupancy in 1908 (`E-081`), and places Pacific Telephone & Telegraph at **510 Main** (`E-082`). These anchors substantially tighten the address and building chronology while leaving the exact 501/503/505/507 occupants unresolved for 1910.
 13. The 1911 pass directly establishes **The Chicago Store at 505 Main by 31 March after being at 405 Main through 3 February** (`E-084`), proves the new Gambrinus block was occupied by early March (`E-086`), and adds a one-door-north Harding→Willamette Building relationship that may eventually help map 505/507 but is not yet an exact-address proof (`E-085`, `RL-035`).
 14. The 1912 pass adds a visually verified **503 / 507 / 509 / 511 Main address ladder** (`E-092`), documents Smith pool-room/pool-hall use at **503 Main** (`E-089`), continues the Gambrinus sequence with a saloon at Sixth/Main (`E-091`), and confirms that buildings were actively being **torn down and replaced somewhere on Main Street** in May (`E-090`). The demolition statement remains unmapped to the target block.
-15. The original plat says target-area lots are at least **66 feet front by 100 feet back**. On the 1925 sheet's printed scale, 501+503+505 span approximately 66–67 feet. This supports a **strong inference** that those three storefronts occupy original Lot 5 and that original Lot 6 begins at or near the 505/507 wall (`E-094`). It is not a deed/survey proof.
+15. **Task 6 corrects the cadastral orientation:** the odd-numbered 501/503/505/507 frontage is original **Block 4**, while Block 26 is across Main. The earlier inference assigning 501+503+505 to Block 26 Lot 5 and 507 to Block 26 Lot 6 is withdrawn (`E-094`). The approximately 66–67-foot 1925 frontage measurement may be re-tested against Block 4 geometry but is not a lot assignment by itself.
 16. The July–August 1922 reports establish a separate **Gates corner restaurant/replacement site** and **Wolf remainder**, but supply no width, addresses, or dividing line (`E-096`, `E-097`). The 1925 map supports two competing models—Gates principally at 501 or Gates at 501+503—and cannot select between them by visual compatibility alone.
 17. **`E-102`** (August 2026) tested whether **505's rear footprint** changed between 1925 and 1950 as part of the **`E-101`** rear-expansion / **1940** inventory-date hypothesis. Result: **505-specific rear wall extension not confirmed**; mid-century improvement plausibility strengthened by **CONC. FL.** at 505 and block reconfiguration.
 
@@ -45,43 +45,37 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 | 1884 | `SM-002` | The 5th/Main area is mapped, giving the earliest currently uploaded Sanborn baseline. Detailed 503/505/507 transcription still needs a zoomed crop and line-by-line reading. | Use as baseline for whether later Main-frontage structures existed before the late 1880s/1890s. |
 | 1888 | `SM-003` | The 5th/Main area is mapped again. Detailed 503/505/507 transcription still needs a zoomed crop and line-by-line reading. | Compare against 1884 and 1890 for early footprint continuity. |
 | 1890 | `SM-004` | The 5th/Main area is mapped again. Detailed 503/505/507 transcription still needs a zoomed crop and line-by-line reading. | Compare against 1888 and 1892 for early commercial-block development. |
-| 1892 | `SM-005` | Block 26 at Main and 5th shows a developed row of Main-facing commercial spaces. Visible labels include clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank near the 5th/Main corner. The modern 501/503/505 numbering is not the dominant labeling on this sheet. | Strong evidence of a pre-1919 commercial frontage in the relevant 5th/Main block. Use cautiously for exact modern address mapping until address-number transition is resolved. |
+| 1892 | `SM-005` | The 5th/Main area shows developed commercial frontages with labels including clothing/gents furnishing, boots and shoes, grocery, store, millinery, crockery, and Commercial Bank. The prior project reading that assigned the target odd-numbered row to Block 26 is superseded by Task 6; re-read the sheet with Block 4/Block 26 side orientation explicit. | Strong evidence of pre-1919 commercial development, but exact modern-address mapping must be rebuilt on the corrected Block 4 target side. |
 | 1900 | `SM-006` | Sheet 13 shows a developed Main-frontage row near 5th, with labels including saloon, grocery, bake house, dry goods/clothing/gents furnishing, furniture/stoves/wall paper, grocery, drugs, and jewelry/bicycles with I.O.O.F. Hall on the second floor. The sheet labels Main as widened / The Willamette in this area. | Strong evidence that the commercial row predates 1919. The later 1919 date may represent rebuild, remodel, reassessment, or a specific building event rather than the first commercial building on the frontage. |
 | 1911 | `SM-007` | Sheet 22 is an Oregon City / Canemah sheet that may cover a different 5th/Center context rather than the same 503/505 Main commercial frontage. | Do not use this sheet for 503/505 conclusions until the block correspondence is confirmed; use the independent 1911–1912 newspaper anchors below instead. |
-| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies. Scale comparison supports 501+503+505 ≈ Lot 5 and 505/507 ≈ Lot 5/Lot 6 (`E-094`). The use pattern is compatible with—but does not prove—Gates=501+503 or 503 ignition/505 pool. |
+| 1925 | `SM-008` | Sheet 6 shows modern-style Main address labels including `501`, `503`, `505`, `507`, `509`, `511`, `513`, and more. The 501 space appears as a store at/near the 5th/Main corner. The 503 space is labeled restaurant with concrete floor. The 505 space is labeled billiards and cigars. Adjacent/northern spaces include dry goods/clothing/gents furnishing, grocery, drugs, and billiards/cigars with I.O.O.F. Hall on the second floor. | This answers part of the 501 question: `501` was shown as an address/space on the 1925 Sanborn sheet. 503 and 505 were separate labeled occupancies. Any scale-to-lot comparison must now use original **Block 4** geometry (`E-094`); the former Block 26 Lot 5 assignment is withdrawn. The use pattern remains compatible with multiple Gates/Wolf models. |
 | 1950 | `SM-009` | The revised 1950 sheet shows a continued commercial frontage. At the lower Main frontage, `503` is labeled restaurant with concrete floor; `505` is labeled billiards, cigars, and beer, with restaurant wording also visible; **`CONC. FL.`** at 505 per **`E-102`**; `507` appears as a separate store space; nearby `509A/B`, `511`, `513`, and higher addresses include restaurant, office/store, hall, and bake-house related labels. Block reconfiguration includes Fifth-corner gas station, reshaped laundry, and post office **BUILT 1933** (`E-102`). | Strong mid-century evidence for separate 503/505/507 address/occupancy pattern and for restaurant/bar-adjacent uses at 503 and 505 before later known tavern history. Does not by itself prove 505 rear-wall extension ~1940 (`E-102`). |
 
-## 1906 Non-Sanborn Block 26 Anchors
+## 1906 Non-Sanborn Block 26 Anchors — Corrected Orientation
+The 1906 evidence remains important, but Task 6 changes how it is used:
 
-The 1906 year-by-year research adds information that should be used when interpreting the map sequence:
+- `E-061` establishes Oregon City's formal street-numbering program and missing numbering plat.
+- `E-064` establishes the William Tell Hotel / Gambrinus property at **Lot 8, Block 26, Sixth & Main**.
+- Task 6 shows that Block 26 is the **opposite/even-numbered side of Main**, not the odd-numbered 501/503/505/507 target frontage.
+- Current 504 Main, reported as part Lot 5 Block 26, independently supports that orientation.
 
-- `E-061` establishes that Oregon City approved a formal street-numbering ordinance and completed a **plat designating the correct numbering** of residences and places of business. The plat itself has not yet been recovered (`RL-025`).
-- `E-064` establishes that the historic **William Tell Hotel stood at Sixth & Main** and that the matching 1906 property transaction corresponds to **lot 8, Block 26**.
-- The William Tell source describes the building as a **three-story frame structure still standing and in use in October 1906**, which provides a north-end Block 26 condition anchor.
-- `E-062` documents substantial Sixth Street grading and public works across Main in 1906, but no source currently ties that work to demolition or replacement of a Main Street commercial structure.
+Therefore the former strategy of walking from Block 26 Lot 8 south through Lots 7/6/5 to assign the odd-numbered storefronts is withdrawn. The target reconstruction must instead use **original Block 4**, the 1913 Harding Lots 3–4 ownership, current Block 4 parcel leads, and the missing numbering plat/title records.
 
-Working reconstruction strategy:
+## Original Plat / 1925 Scale Alignment — Task 6 Correction
+The original plat remains the controlling geometry source, but the prior project placed the target frontage on the wrong side of Main.
 
-1. Recover the 1906 numbering plat.
-2. Use the now visually verified original Oregon City plat (`E-094`) for the target area's at-least-66-by-100-foot lot regime and eight-lot Block 26 pattern.
-3. Place lot 8 / William Tell at Sixth & Main.
-4. Work southward through lots 7, 6, 5, etc., comparing property widths and Sanborn storefront divisions.
-5. Test the resulting lot sequence against the later 501/503/505/507 addresses and known 1908–1925 occupants.
+The 1913 assessment (`S-107`) simultaneously identifies **G. A. Harding at Block 4 Lots 3–4** and separate owners for Block 26 Lots 5–8. Current county-derived records place 503/505/507 on Block 4 and current 504 on Block 26. Thus the odd-numbered target frontage is original **Block 4**.
 
-Do not assume that one modern street number equals one original platted lot; storefront subdivisions, combinations, and later rebuilding may cross lot lines.
+The 1925 scale observation that the Fifth edge through the 505/507 wall is approximately 66–67 feet is preserved only as a measurement. It no longer supports a Block 26 Lot 5/Lot 6 assignment. Re-test it against Block 4 lot geometry and deed calls before using it as a cadastral conclusion.
 
-## Original Plat / 1925 Scale Alignment
+Corrected title focus:
+- 1913 Harding — Block 4 Lots 3–4;
+- current 503 — part Block 4 Lot 4;
+- current 505 — parts Block 4 Lots 3–4;
+- OHS MSS 1503 Box 19 — Block 4 Lots 3–4 / Main & Fifth;
+- July 1922 Harding → Wolf/Gates deed(s).
 
-The official original plat changes the geometry baseline. Its recorded narrative gives lots in the Applegate-surveyed Washington-to-river portion—including target Block 26—as **at least 66 feet front and 100 feet back**, with 10-foot alleys (`S-108`). The former use of a general City webpage's 50-by-100-foot description for this block is superseded.
-
-The 1913 assessment notice has also been visually certified (`S-107`). It lists Lots 5–8 in order by owner, while the independent 1906 William Tell/Gambrinus evidence fixes Lot 8 at Sixth/Main. The Main-side sequence is therefore Lot 5 from Fifth, then Lots 6, 7 and 8 toward Sixth.
-
-Reading the 1925 Sheet 6 façade divisions against its printed scale makes the Fifth edge through the 505/507 wall approximately 66–67 feet. That is almost exactly one original-lot frontage. The resulting working alignment is:
-
-- 501 / 503 / 505 ≈ original Lot 5;
-- 507 begins ≈ original Lot 6.
-
-Classification: **strong inference**, not proven fact. A deed, title abstract, survey overlay or other cadastral record must still prove the line and explain the original Block 26 / later Block 4 numbering conversion. See `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`.
+Classification: **Block orientation corrected with high confidence; exact historic lot-to-storefront mapping still unresolved.**
 
 ## July–August 1922 Property Division vs. the 1925 Frontage
 

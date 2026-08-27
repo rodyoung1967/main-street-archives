@@ -1,5 +1,8 @@
 # 1922 Fifth/Main fire — S. Wolf Main Street property lead
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 Status: **PROPERTY-ACQUISITION SEQUENCE VISUALLY VERIFIED; DEED, IDENTITY, AND MODERN-STOREFRONT MAPPING UNRESOLVED**
 
 Purpose: preserve the property sequence around the July 1922 Fifth/Main-area fire and the still-unresolved identity links among **S. Wolf of Portland**, the earlier **Wolf & Miller** business at 505 Main, Gilbert Miller's shoe-repair shop, and the later historic-inventory statement that the **Wolf family owned 503 Main from about 1922 to 1972**.

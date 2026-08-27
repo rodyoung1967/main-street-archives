@@ -1,5 +1,8 @@
 # Ordinance No. 357 visual-inspection Task 3 checkpoint — 26 August 2026
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 ## Task
 
 Task 3 asked for a visual inspection of **Oregon City Ordinance No. 357**, with particular attention to any provisions that could explain the official street-numbering system and map the Main Street frontage between Fifth and Sixth Streets.

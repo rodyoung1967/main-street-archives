@@ -1,45 +1,49 @@
-# E-094 — Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment
+# E-094 — Original Oregon City Plat / Block 4–Block 26 Orientation Correction
 
 ## Evidence type
-
-Primary official plat + primary newspaper assessment notice + primary fire-insurance map; direct visual inspection with an explicitly limited proportional map inference.
+Primary official plat + visually verified primary newspaper assessment notice + primary Sanborn map, reconciled with current county-derived parcel/legal-description records and the official Clackamas County plat index.
 
 ## Sources
-
 - `S-107` — *Morning Enterprise*, 23 October 1913, page 8.
 - `S-108` — original Oregon City plat, county plat 2, cataloged 1850.
 - `S-021` / `SM-008` — May 1925 Sanborn Sheet 6.
-- `S-078` / `E-064` — 1906 William Tell / Gambrinus Lot 8 anchor.
+- `S-078` / `E-064` — 1906 William Tell / Gambrinus Lot 8, Block 26 anchor.
+- Current parcel/legal-description cross-checks preserved in `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
 
-Detailed audit note: `evidence/source-captures/1913-block26-lots5-8-owner-geometry.md`
+## Visually verified primary facts
+1. The 23 October 1913 assessment notice treats **Block 4** and **Block 26** as separate physical blocks in the same boundary description.
+2. The same notice lists **G. A. Harding** at **Block 4 Lots 3 and 4**.
+3. It separately lists Block 26 owners: Lot 5 Mary E. Barlow / Juliette E. David, Lot 6 First National Bank, Lot 7 Frank Jaggar, and Lot 8 Gambrinus Brewing Company.
+4. The official original Oregon City plat confirms the original block/lot framework and the Applegate-area lot dimensions.
+5. The 1925 Sanborn directly labels the odd-numbered Main frontage as 501, 503, 505, 507, etc.
 
-## Visually verified facts
+## Task 6 cadastral correction
+Current county-derived property records report **503, 505, 507 and 517 Main in Block 4**, while **504 Main on the opposite/even side is part of Lot 5, Block 26**. The Clackamas County subdivision index identifies McLoughlin's Oregon City plat as **Plat No. 0002** and does not show a Block 26-to-Block 4 replat for this frontage.
 
-1. The 1913 assessment notice lists original Block 26 owners as Lot 5 Mary E. Barlow / Juliette E. David, Lot 6 First National Bank, Lot 7 Frank Jaggar and Lot 8 Gambrinus Brewing Company.
-2. The notice describes Lots 5–8 as the row opposite Lots 1–4 between Fifth and Sixth.
-3. The official original-plat narrative says the Applegate-surveyed Washington-to-river portion has lots at least 66 feet front and 100 feet back, with 10-foot alleys.
-4. The Block 26 graphic depicts the eight-lot arrangement and labels Lots 5–8 in one row.
-5. The 1925 Sanborn depicts separate 501 store, 503 restaurant, 505 billiards/cigars and 507 commercial occupancies.
+The earlier project inference that **501+503+505 ≈ original Block 26 Lot 5** and **507 ≈ Block 26 Lot 6** is therefore **withdrawn and superseded**. It resulted from placing the William Tell / Block 26 anchor on the wrong side of Main Street.
 
-## Strong inference
+Corrected working orientation:
+- odd-numbered 501/503/505/507 frontage between Fifth and Sixth = **original Block 4**;
+- opposite/even-numbered frontage, including current 504 Main = **original Block 26**.
 
-With Lot 8 independently anchored at Sixth/Main, the Main-side sequence is Lot 5 from Fifth, followed northward by Lots 6, 7 and 8. A scale reading on the 1925 Sanborn places the combined 501–505 frontage at approximately 66–67 feet. The first original-lot division consequently aligns at or very near the 505/507 wall.
+There is no longer a research need to find a hypothetical **Block 26 → Block 4 conversion instrument for 503/505**; that premise was false.
 
-The present working map is therefore:
+## Strong current-title implications
+- Current 503 is reported as **part of Block 4 Lot 4**.
+- Current 505 is reported as **parts of Block 4 Lots 3 and 4**.
+- Current 507 is reported as **parts of Block 4 Lots 2, 3 and 4**.
+- The 1913 assessment places **G. A. Harding at Block 4 Lots 3 and 4**, creating a direct correct-side cadastral lead for the later Harding → Wolf/Gates property sequence.
+- The OHS MSS 1503 Box 19 title-abstract index entry for **Block 4, Lots 3 & 4 / Main & Fifth** is therefore a potentially direct target-property title lead, not a supposed bridge from Block 26 into a later Block 4 system. Its actual contents remain unretrieved.
 
-- **501 / 503 / 505 ≈ original Lot 5**
-- **507 begins ≈ original Lot 6**
-
-## Limits
-
-- This is not a surveyed overlay, deed call or title-company lot match.
-- The original Block 26 / later Block 4 conversion remains unresolved.
-- A Sanborn-scale alignment cannot prove which entity owned the land, improvements or individual storerooms in July 1922.
-- It cannot identify which of 501, 503 or 505 was the fire-origin room.
-- The earlier 50-foot proportional model is superseded, but its correction is preserved in the detailed audit note.
+## Remaining limits
+- Current commercial property pages are strong county-derived legal-description leads, but official recorded deed/assessor images for the target parcels remain desirable.
+- Historic **501 Main's exact Block 4 lot** is still unresolved.
+- Modern 503/505 parcel boundaries must not be backdated automatically to 1922.
+- The 1925 proportional observation that 501+503+505 span roughly one 66-foot original-lot width may remain useful, but it must be re-tested against **Block 4** geometry; it no longer proves any Block 26 lot assignment.
+- The exact July 1922 Gates/Wolf dividing line and fire-origin storefront remain unresolved.
 
 ## Confidence
-
-- **Very High** for the visually read source contents.
-- **High / strong inference** for the approximate Lot 5/Lot 6 alignment at 505/507.
-- **Unresolved** for legal boundary proof, cadastral-system conversion, 1922 ownership and exact fire-origin storefront.
+- **Very High** for the visually verified 1913 distinction between Blocks 4 and 26 and the printed owner listings.
+- **High / strong convergence** for the corrected side-of-Main orientation from multiple current county-derived legal descriptions plus the original records.
+- **Withdrawn** for the former 501/503/505≈Block 26 Lot 5 inference.
+- **Unresolved** for exact historic lot boundaries of 501 and the 1922 Gates/Wolf internal division.

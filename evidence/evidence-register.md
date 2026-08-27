@@ -683,13 +683,13 @@ Related record: `evidence/E-093-1912-schrader-main-street-bakery-sale.md`
 Claims: January advertising places **Schrader's Bakery near the Post Office**; on 20 December the *Courier* reports that Herman Schrader sold two Oregon City bakeries, including one **on Main Street**, to **Wemmo & Haas**. Neither item gives an exact Main number, and the sale is not evidence of a building/property transfer.  
 Confidence: Very High for the business sale and relative Main/Post Office location; Unresolved for exact numbered premises.
 
-## E-094 — Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment
-Type: Primary official plat + primary newspaper assessment notice + primary Sanborn map; direct visual inspection and limited proportional map analysis
-Dates: 1844/1849 survey narrative; plat cataloged 1850; assessment notice 23 October 1913; Sanborn May 1925
+## E-094 — Original Oregon City Plat / Block 4–Block 26 Orientation Correction
+Type: Primary official plat + primary newspaper assessment notice + primary Sanborn map, reconciled with current county-derived parcel/legal-description records
+Dates: 1844/1849 survey narrative; plat cataloged 1850; assessment notice 23 October 1913; Sanborn May 1925; current parcel cross-check August 2026
 Sources: `S-107`, `S-108`, `S-021`; cross-reference `S-078` / `E-064`
 Related record: `evidence/E-094-original-plat-block26-lot5-boundary.md`
-Claims: The visually verified official original plat says the Applegate-surveyed portion containing target Block 26 has lots at least **66 feet front by 100 feet back**, not the 50-foot width formerly used as general context. The visually verified 1913 notice places Barlow/David at Lot 5, First National Bank at Lot 6, Frank Jaggar at Lot 7 and Gambrinus at Lot 8. Together with Lot 8 at Sixth/Main and the 1925 Sanborn scale, this supports a **strong inference** that the 501+503+505 frontage occupies approximately original Lot 5 and that the Lot 5/Lot 6 division falls at or near the 505/507 wall. The earlier 501+503≈Lot 5 / 505≈Lot 6 proportional hypothesis is superseded.
-Confidence: Very High for the visually verified source contents; High/strong inference for approximate 505/507 lot-line alignment; Unresolved for cadastral proof, original-Block-26/later-Block-4 conversion, 1922 ownership and exact fire-origin storefront.
+Claims: The visually verified 1913 assessment record treats original **Block 4** and **Block 26** as separate physical blocks and lists **G. A. Harding at Block 4 Lots 3 and 4**, while separately listing Block 26 Lots 5–8 owners. Current county-derived legal descriptions place **503/505/507 on Block 4** and **504 Main on opposite-side Block 26 Lot 5**. This corrects the prior project orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. The former inference that 501+503+505 occupied Block 26 Lot 5 and 507 began in Block 26 Lot 6 is withdrawn. The OHS Block 4 Lots 3–4 abstract is now a potentially direct correct-side title lead rather than a supposed cadastral-conversion bridge.
+Confidence: Very High for the visually verified 1913 Block 4/Block 26 distinction and owners; High / strong convergence for the corrected side-of-Main orientation from current county-derived records; Withdrawn for the former Block 26 target-frontage alignment; Unresolved for historic 501's exact Block 4 lot and the 1922 Gates/Wolf dividing line.
 
 ## E-095 — OHS MSS 1503 Main/Fifth Title-Abstract Index Entry
 Type: Official institutional archival index and collection finding aid; direct visual inspection of index page

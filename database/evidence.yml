@@ -341,7 +341,7 @@ evidence:
       - The Sanborn series shows a developed Main/5th commercial frontage before the later-reported 1919 construction date.
       - The 1925 sheet labels separate Main Street addresses including 501, 503, 505, and 507.
       - The 1950 revised sheet continues to show separate 503/505/507 occupancies.
-      - In combination with the official original plat, the 1925 printed scale supports the limited Lot 5/Lot 6 alignment recorded as E-094.
+      - E-094 now records the Task 6 correction that the odd-numbered target frontage is original Block 4, not Block 26; any proportional Sanborn lot-width test must be re-run against Block 4 geometry.
     confidence: High for the map-visible address/occupancy pattern on the 1925 and 1950 sheets; exact abbreviation readings and earlier 1884-1900 address-to-modern-address mapping require careful transcription.
     related_sources:
       - S-014
@@ -1323,15 +1323,15 @@ evidence:
     repository_file: evidence/E-093-1912-schrader-main-street-bakery-sale.md
 
   - id: E-094
-    name: Original Oregon City Plat / Block 26 Lot 5 Boundary Alignment
-    type: Primary official plat, newspaper assessment notice, and Sanborn map with limited proportional analysis
+    name: Original Oregon City Plat / Block 4–Block 26 Orientation Correction
+    type: Primary official plat and assessment evidence reconciled with current parcel records
     claims:
-      - The visually verified original plat states that Applegate-surveyed lots in the target part of Oregon City are at least 66 feet front by 100 feet back, superseding the earlier 50-foot context for Block 26.
-      - The visually verified 1913 assessment notice lists Lot 5 Barlow/David, Lot 6 First National Bank, Lot 7 Frank Jaggar, and Lot 8 Gambrinus Brewing Company.
-      - With Lot 8 independently anchored at Sixth/Main, the Main-side sequence is Lot 5 from Fifth followed by Lots 6, 7, and 8.
-      - A scale reading of the 1925 Sanborn supports the strong inference that 501, 503, and 505 occupy approximately original Lot 5 and that 507 begins at or near original Lot 6.
-      - The alignment is not a deed, survey overlay, or proof of the July 1922 ignition storefront.
-    confidence: Very High for source contents; High/strong inference for approximate 505/507 lot-line alignment; legal mapping and 1922 fire-origin address unresolved.
+      - The visually verified 1913 assessment notice treats original Block 4 and Block 26 as separate physical blocks and lists G. A. Harding at Block 4 Lots 3 and 4.
+      - Current county-derived legal descriptions place 503, 505 and 507 Main in Block 4 while current 504 Main on the opposite side is part of Lot 5, Block 26.
+      - The prior inference that 501+503+505 occupied original Block 26 Lot 5 and 507 began in Block 26 Lot 6 is withdrawn and superseded.
+      - The corrected odd-numbered target frontage is original Block 4; historic 501's exact Block 4 lot and the 1922 Gates/Wolf division remain unresolved.
+      - The OHS Block 4 Lots 3 and 4 title abstract is now a potentially direct correct-side title lead rather than a supposed Block 26-to-Block 4 conversion bridge.
+    confidence: Very High for the 1913 Block 4/Block 26 distinction; High for corrected orientation; former Block 26 target-frontage inference withdrawn; exact historic lot boundaries remain unresolved.
     related_sources:
       - S-021
       - S-078

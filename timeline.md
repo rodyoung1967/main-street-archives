@@ -1,5 +1,8 @@
 # Master Timeline
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 ## Pre-1840s
 The site was part of the area that became Oregon City's earliest commercial district near the falls and riverfront.
 

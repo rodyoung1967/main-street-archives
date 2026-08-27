@@ -117,14 +117,18 @@ Primary municipal permits now anchor recent 503 work:
 Working chronology from 1965 forward: `evidence/source-captures/1965-forward-503-505-municipal-timeline.md`.
 
 ## 503 / 505 Boundary and Footprint Issue
+There is an unresolved modern physical-boundary question between 503 and 505. Current owner observation suggests 505 may extend farther back than 503, while 503 may be somewhat wider. This still requires tax maps, assessor sketches, deeds, permits, Sanborn maps, and physical measurements.
 
-There is an unresolved physical-boundary question between 503 and 505. Current owner observation suggests 505 may extend farther back than 503, while 503 may be somewhat wider. This should be tested through tax maps, assessor sketches, Sanborn maps, deeds, permits, and physical measurements.
+**Task 6 corrected the original-block orientation.** The odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current county-derived legal-description leads report:
+- 503 = **part Lot 4, Block 4**;
+- 505 = **parts Lots 3 & 4, Block 4**;
+- 507 = **parts Lots 2, 3 & 4, Block 4**.
 
-A separate **original-lot** question has now been materially narrowed. The visually verified original plat gives the target Block 26 lots a frontage of at least 66 feet, and a proportional reading of the 1925 Sanborn places the combined 501+503+505 frontage at approximately 66–67 feet. The resulting strong working alignment places **501, 503 and 505 approximately within original Lot 5**, with original Lot 6 beginning at or near the 505/507 wall (`E-094`). This supersedes the former 50-foot model that tentatively put 505 near Lot 6. It does not establish the modern legal boundary between 503 and 505 or prove a 1922 occupant.
+Current 504 across Main is reported as part Lot 5, **Block 26**, confirming the opposite-side relationship. The former 501/503/505≈Block 26 Lot 5 model is withdrawn.
 
-The 1929–2025 aerial photocompare series (`E-021` / `S-023`) shows three distinct roofs at 501, 503, and 505 Main in 1936 and 501 absent by 1944.
+The 1913 assessment independently places **G. A. Harding at Block 4 Lots 3 and 4**. The OHS MSS 1503 Box 19 index identifies a Main/Fifth abstract titled **Block 4, Lots 3 & 4**, with a separate Lot field reading 3,4,5 (`E-095`). That abstract is now a potentially direct correct-side title lead, but its contents remain unretrieved and it cannot yet prove the 503 chain.
 
-The visually verified OHS MSS 1503 index identifies a Main/Fifth title abstract in Box 19 whose title says later **Block 4, Lots 3 & 4**, while its separate Lot field says **3, 4, 5** (`E-095`). This is a targeted title-retrieval lead, not proof that the abstract covers 503 or names a Wolf owner; the abstract itself remains unretrieved.
+The 1929–2025 aerial photocompare series (`E-021` / `S-023`) still shows three distinct roofs at 501, 503, and 505 Main in 1936 and 501 absent by 1944.
 
 ## Research Priorities
 
@@ -139,7 +143,7 @@ The visually verified OHS MSS 1503 index identifies a Main/Fifth title abstract 
 - Locate the **later deed by which Dick and Sheila purchased the 503 building** and identify the seller/date.
 - Locate the **later transaction in which Dick and Sheila sold both The Wheel business and the 503 building**, including purchaser, date, deed, liquor-license transfer, and business-sale documents.
 - Confirm the legal, structural, and physical boundary between 503 and 505.
-- Obtain deed/title/survey proof for the strong working placement of 503 within original Block 26 Lot 5.
+- Obtain recorded deed/title/assessor proof connecting 503 to original Block 4 Lot 4 and trace the Harding-era Block 4 title chain without backdating current parcel boundaries.
 - Retrieve the complete OHS MSS 1503 Box 19 abstract and preserve its title/Lot-field conflict until its scope can be read directly.
 - Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and the Gates/Junken building permit or plans; map their dividing line and two-store footprint to 501/503/505.
 

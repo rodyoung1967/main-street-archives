@@ -1,5 +1,8 @@
 # OHS MSS 1503 — Block 4, Lots 3 & 4, Oregon City — title abstract lead
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 Status: **INDEX VISUALLY VERIFIED; TITLE ABSTRACT MANUAL CALLOUT**
 
 Purpose: preserve a highly specific Oregon Historical Society title-abstract lead that may contain the ownership chain for the modern 503/505 Main parcel area.
@@ -121,3 +124,7 @@ Ask OHS to:
 - Connection to the target later/current Block 4 parcel area: **strong retrieval lead**
 - Abstract contents: **MANUAL CALLOUT / unretrieved**
 - S. Wolf, 1922 ownership, improvement ownership, and original Block 26-to-later Block 4 conversion: **unresolved**
+
+
+## Task 6 reclassification
+The Block 4 / Block 26 orientation problem is now corrected. The OHS Box 19 row is no longer treated as a possible bridge from original Block 26 into a later Block 4 system. The 1913 assessment independently lists G. A. Harding at original **Block 4 Lots 3–4**, and current 503/505 legal-description leads also use Block 4 Lots 3–4. The abstract is therefore a potentially direct target-property title source. Its actual contents remain unretrieved, so no Harding-to-Wolf chain, parcel boundary, or owner may be asserted from the index alone.

@@ -1,5 +1,8 @@
 # 1913 target-block building-owner vs. assessed-lot-owner caution — implication for the 1922 S. Wolf search
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 Status: **1913 ASSESSMENT SCAN VISUALLY VERIFIED; 1913 FIRE REPORT OCR/TEXT-ONLY; 1922 PROPERTY-SALE SEQUENCE VISUALLY VERIFIED**
 
 Purpose: preserve an important property-research caution that emerged while tracing the July 1922 fire-origin building owned by **S. Wolf of Portland**. The available 1913 evidence shows that a person described by a contemporary newspaper as owner of a target-frontage **building** need not appear as the assessed owner of the underlying original Block 26 lot. Therefore the 1921/1922 land assessment roll is a high-value source, but it must not be treated as the only possible place where S. Wolf's ownership can appear.

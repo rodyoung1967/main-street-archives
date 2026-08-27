@@ -76,7 +76,7 @@ Related research lead:
 
 The original 507 Harding Building and the 1968 replacement should remain separate in interpretation from the surviving 503 and 505 buildings.
 
-The visually verified original plat and a proportional reading of 1925 Sanborn Sheet 6 now support a **strong inference** that the original Block 26 Lot 5/Lot 6 division fell at or very near the 505/507 wall, so **507 began approximately on Lot 6** (`E-094`). This is not a deed or survey-overlay proof and must not be back-applied automatically to every later consolidated 507–511 footprint.
+Task 6 corrected the cadastral orientation: 507 lies on the odd-numbered **original Block 4** frontage, not Block 26 (`E-094`). Current county-derived legal-description records place the present 507 parcel in parts of Block 4 Lots 2, 3 and 4. That modern consolidated parcel must not be back-applied automatically to the pre-1967 storefronts, and the former claim that 507 began in Block 26 Lot 6 is withdrawn.
 
 The 2021 ODOT table is particularly useful for understanding the modern block: it dates **507-511 Harding Building to 1968** and **527 Main / Swartz Building to 1935** (`S-063`). Thus the present-day consolidated 507-511 frontage is a post-fire replacement, while the current 527 building predates the fire.
 

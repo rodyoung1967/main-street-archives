@@ -14,7 +14,7 @@ The **1925 Sanborn map directly labels 501 Main Street as a separate store space
 
 Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. By the 1944 aerial, that footprint is gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between 1936 and 1944.
 
-The visually verified official original Oregon City plat says lots in the target Applegate-surveyed portion are at least **66 feet front by 100 feet back**. Measured proportionally against the printed scale on the visually verified 1925 Sanborn, the combined 501+503+505 frontage is approximately 66–67 feet. This supports a **strong inference** that all three storefronts lie approximately within original **Block 26 Lot 5**, with the Lot 5/Lot 6 division at or near the 505/507 wall (`E-094`). It is not yet a deed/survey proof, and it does not identify the July 1922 fire-origin room.
+Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof and does not identify the July 1922 fire-origin room.
 
 ## Direct 1912–1913 Numbered Occupancy Evidence
 
@@ -84,6 +84,6 @@ The highest-value next step is to obtain the **1924 address and business-directo
 - What were the owners and legal parcel boundaries of 501?
 - Did the July 1922 Fifth Street Restaurant occupy the modern 501 footprint?
 - Did the Gates replacement map principally to 501, to 501+503, or to another two-store arrangement?
-- Can a deed, title abstract or survey prove the strong working placement of 501 within original Block 26 Lot 5?
+- Which original Block 4 lot contained historic 501, and can a deed, title abstract, numbering plat, or survey prove it?
 - Why was the 501 structure removed between 1936 and 1944?
 - Was its removal connected to McLoughlin Boulevard / US99E work?

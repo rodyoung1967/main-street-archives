@@ -121,8 +121,14 @@ How did Henry/H. P. Brightbill's store move between the documented **503 Main in
 ## OQ-028 — 527 Main / Swartz Building Transition
 Status: Current-building date substantially answered. City of Oregon City and ODOT historic-resource surveys identify **527 Main as the Swartz Building, built 1935** (`S-062`, `S-063`). Bailey & Price is documented at **527 Main in January 1912** (`S-061`), so an earlier structure occupied the address. Still open: exact predecessor-building demolition/replacement date, who Swartz was, builder/architect/owner, 1935 permits or newspaper construction notices, intervening occupants, and any damage/repairs from the 1 September 1967 fire.
 
-## OQ-029 — Original Block 26 / Later Block 4 Conversion
-What filing, replat, title convention or assessor mapping changed the Fifth-to-Sixth odd/Main block from original **Oregon City Block 26** to the later/current **(2) OREGON CITY, Block 4** descriptions? `E-094` strongly aligns original Lot 5 with the 501/503/505 frontage, but the two cadastral systems must not be silently equated without the connecting record. The visually verified OHS MSS 1503 index (`E-095`) identifies a Main/Fifth Box 19 title abstract whose title says **Block 4, Lots 3 & 4** while its Lot column says **3, 4, 5**. The abstract itself remains an open **MANUAL CALLOUT** and may not be treated as the connecting record until inspected.
+## OQ-029 — Block 4 / Block 26 Orientation and Alleged Conversion
+Status: **ANSWERED / PRIOR PREMISE CORRECTED (Task 6, 26 August 2026).**
+
+No filing has been found converting the target 503/505 frontage from original Block 26 to later Block 4 because the evidence now shows that conversion was never required. The 1913 assessment record treats **Block 4** and **Block 26** as separate physical blocks and lists **G. A. Harding at Block 4 Lots 3–4**. Current county-derived property descriptions place **503/505/507 in Block 4**, while **504 Main across the street remains Block 26 Lot 5**. The odd-numbered target frontage was therefore assigned to the wrong side of Main in the former working model.
+
+Superseded: `E-094`'s former inference that 501+503+505 ≈ Block 26 Lot 5 and 507 ≈ Block 26 Lot 6.
+
+Still open as separate questions: historic 501's exact Block 4 lot, the exact 1922 Harding → Wolf/Gates deed boundaries, and whether modern 503/505 parcel divisions existed in the same form in 1922. The OHS MSS 1503 Box 19 **Block 4 Lots 3–4 / Main & Fifth** abstract is now a direct correct-side title-chain lead; its actual contents remain unretrieved.
 
 ## OQ-030 — Dr. Bailey / Harding Building Occupancy Claim
 What source, if any, places Dr. Bailey's dental practice upstairs in the Harding Building in 1909? The statement existed in the archive without a linked source. Museum of the Oregon Territory catalog record `MOT:P-391` identifies a Dr. Bailey in a group photograph with G. H. Young, but it does not establish the office location or photograph date. Search 1908–1911 directories, dental/professional advertisements, building tenant notices, and the underlying catalog photograph/caption. Do not cite the Harding Building occupancy as established until directly supported.

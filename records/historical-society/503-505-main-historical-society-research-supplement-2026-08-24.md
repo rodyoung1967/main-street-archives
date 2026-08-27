@@ -1,5 +1,8 @@
 # 503/505 Main Street — Historical Society research supplement
 
+> **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
+
+
 **Date:** 24 August 2026  
 **Applies to:** `503-505-main-historical-society-edition-v5.docx` (16 August 2026 snapshot)  
 **Status:** Working research supplement. This file records material developments after edition v5 without rewriting the preserved v5 packet.
