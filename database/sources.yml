@@ -585,3 +585,9 @@ sources:
     name: Courier 1915 visual batch, sheets 101–110
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-28/ed-1/
     notes: Forty supplied single-page PDFs visually inspected through 25 November 1915; originals and per-page URLs, hashes, numbering and statuses in newspapers/oregon-city-courier/1915-sheets-101-110/manifest.json. E-109; IMG-0162 through IMG-0201, plus alternate IIIF header IMG-0202. November 11 seq 8 prints6; PDF/IIIF agree, physical pagination unresolved (1915-M04). Pause before sheet 111 / December 2; year IN PROGRESS.
+
+  - id: S-122
+    name: Courier 1915 visual batch, sheets 111-123
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/
+    notes: Forty-six supplied single-page PDFs visually inspected from 2 through 30 December 1915; originals and per-page URLs/hashes/statuses in newspapers/oregon-city-courier/1915-sheets-111-123/manifest.json. E-110; IMG-0203 through IMG-0248. Courier inventory reaches 123/123; Enterprise and other-source work remain, with M01-M04 still open.
+

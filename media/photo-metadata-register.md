@@ -421,3 +421,57 @@ All 40 original single-page PDFs below are visually verified supplied images. Ex
 | IMG-0200 | `newspapers/oregon-city-courier/1915-sheets-101-110/1915-11-25-seq-07.pdf` | 1915-11-25 / seq7 / printed7 |
 | IMG-0201 | `newspapers/oregon-city-courier/1915-sheets-101-110/1915-11-25-seq-08.pdf` | 1915-11-25 / seq8 / printed8 |
 | IMG-0202 | `newspapers/oregon-city-courier/1915-sheets-101-110/1915-11-11-seq-08-iiif-header.jpg` | Alternate archive IIIF header; printed6 confirmed; provenance/hash in batch README |
+
+## Courier December batch media - S-122 / E-110, reviewed 27 August 2026
+
+Each ID below represents one unchanged original PDF scan. Exact source URLs and SHA-256 hashes are in `newspapers/oregon-city-courier/1915-sheets-111-123/manifest.json`. All 46 supplied images are VISUALLY VERIFIED.
+
+| Media ID | Repository file | Issue association / sequence |
+| --- | --- | --- |
+| IMG-0203 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-01.pdf` | 1915-12-02 / seq1 / printed1 |
+| IMG-0204 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-02.pdf` | 1915-12-02 / seq2 / printed2 |
+| IMG-0205 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-03.pdf` | 1915-12-02 / seq3 / printed3 |
+| IMG-0206 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-04.pdf` | 1915-12-02 / seq4 / printed4 |
+| IMG-0207 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-05.pdf` | 1915-12-02 / seq5 / printed5 |
+| IMG-0208 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-06.pdf` | 1915-12-02 / seq6 / printed6 |
+| IMG-0209 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-07.pdf` | 1915-12-02 / seq7 / printed7 |
+| IMG-0210 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-08.pdf` | 1915-12-02 / seq8 / printed8 |
+| IMG-0211 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-09.pdf` | 1915-12-02 / seq9 / printed9 |
+| IMG-0212 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-02-seq-10.pdf` | 1915-12-02 / seq10 / printed10 |
+| IMG-0213 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-01.pdf` | 1915-12-09 / seq1 / printed1 |
+| IMG-0214 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-02.pdf` | 1915-12-09 / seq2 / printed2 |
+| IMG-0215 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-03.pdf` | 1915-12-09 / seq3 / printed3 |
+| IMG-0216 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-04.pdf` | 1915-12-09 / seq4 / printed4 |
+| IMG-0217 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-05.pdf` | 1915-12-09 / seq5 / printed5 |
+| IMG-0218 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-06.pdf` | 1915-12-09 / seq6 / printed6 |
+| IMG-0219 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-07.pdf` | 1915-12-09 / seq7 / printed7 |
+| IMG-0220 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-08.pdf` | 1915-12-09 / seq8 / printed8 |
+| IMG-0221 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-09.pdf` | 1915-12-09 / seq9 / printed9 |
+| IMG-0222 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-09-seq-10.pdf` | 1915-12-09 / seq10 / printed10 |
+| IMG-0223 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-01.pdf` | 1915-12-16 / seq1 / printed1 |
+| IMG-0224 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-02.pdf` | 1915-12-16 / seq2 / printed2 |
+| IMG-0225 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-03.pdf` | 1915-12-16 / seq3 / printed3 |
+| IMG-0226 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-04.pdf` | 1915-12-16 / seq4 / printed4 |
+| IMG-0227 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-05.pdf` | 1915-12-16 / seq5 / printed5 |
+| IMG-0228 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-06.pdf` | 1915-12-16 / seq6 / printed6 |
+| IMG-0229 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-07.pdf` | 1915-12-16 / seq7 / printed7 |
+| IMG-0230 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-08.pdf` | 1915-12-16 / seq8 / printed8 |
+| IMG-0231 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-09.pdf` | 1915-12-16 / seq9 / printed9 |
+| IMG-0232 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-16-seq-10.pdf` | 1915-12-16 / seq10 / printed10 |
+| IMG-0233 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-01.pdf` | 1915-12-23 / seq1 / printed1 |
+| IMG-0234 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-02.pdf` | 1915-12-23 / seq2 / printed2 |
+| IMG-0235 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-03.pdf` | 1915-12-23 / seq3 / printed3 |
+| IMG-0236 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-04.pdf` | 1915-12-23 / seq4 / printed4 |
+| IMG-0237 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-05.pdf` | 1915-12-23 / seq5 / printed5 |
+| IMG-0238 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-06.pdf` | 1915-12-23 / seq6 / printed6 |
+| IMG-0239 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-07.pdf` | 1915-12-23 / seq7 / printed7 |
+| IMG-0240 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-23-seq-08.pdf` | 1915-12-23 / seq8 / printed8 |
+| IMG-0241 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-01.pdf` | 1915-12-30 / seq1 / printed1 |
+| IMG-0242 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-02.pdf` | 1915-12-30 / seq2 / printed2 |
+| IMG-0243 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-03.pdf` | 1915-12-30 / seq3 / printed3 |
+| IMG-0244 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-04.pdf` | 1915-12-30 / seq4 / printed4 |
+| IMG-0245 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-05.pdf` | 1915-12-30 / seq5 / printed5 |
+| IMG-0246 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-06.pdf` | 1915-12-30 / seq6 / printed6 |
+| IMG-0247 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-07.pdf` | 1915-12-30 / seq7 / printed7 |
+| IMG-0248 | `newspapers/oregon-city-courier/1915-sheets-111-123/1915-12-30-seq-08.pdf` | 1915-12-30 / seq8 / printed8 |
+

@@ -774,3 +774,11 @@ Five directories extend the507/509/511/519/527 advertised-location sequence thro
 
 Confidence: High for printed claims; exact Mass number/property interest, Fifth work segment/authority and Nov 11seq8 printed 6 pagination remain unresolved. No exact 503/505 occupant or vacancy inference.
 Related: BUS-007, BUS-026–BUS-032; P-001, P-041, P-042, P-044, P-045; B-003/B-004 address context; E-054, E-107; RL-042, RL-043; T-019–T-021. Not annual ONLINE COMPLETE.
+
+
+## E-110 - 1915 Courier December completion and year-end address continuity
+Type: Primary newspaper visual review; source `S-122`.  
+Record: `evidence/source-captures/1915-courier-sheets-111-123.md`.  
+Claims: All 46 supplied December page images were visually inspected. Directories on Dec. 2 p6, Dec. 9 p8, Dec. 16 p8, Dec. 23 p6 and Dec. 30 p6 repeat Bradley 507, Brightbill 509, Harding 511, Theroux 519 and Price Bros. 527. Scripture & May is repeatedly unnumbered; Holman/Randall continues at Fifth/Main. Dec. 2 p4 revisits the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant is established; this is coverage only.  
+Confidence: Very High for readable directory numbers/intersection wording and visual coverage; exact Fifth Street work segment/authority and target occupancy remain unresolved.  
+Related: `E-054`, `E-107`, `E-109`; `BUS-007`, `BUS-026`, `BUS-027`, `BUS-028`, `BUS-029`; `B-003`, `B-004`.

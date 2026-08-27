@@ -2,6 +2,12 @@
 
 Year status: **IN PROGRESS** — active exhaustive pass.
 
+## Courier completion checkpoint - through 30 December 1915
+
+The *Oregon City Courier* supplied scan inventory is now **123/123 sheets processed through year end**. The final 46 December images are visually verified and preserved under `S-122` / `E-110`. Five December directories extend the 507/509/511/519/527 advertised-address ladder through 30 December; Holman/Randall continues at Fifth/Main; Scripture & May remains unnumbered. December 2 p4 adds Fifth Street improvement/payment controversy context. No exact 503/505 occupant or new numbered Fifth Street occupant was identified in the final batch; this is coverage only.
+
+The year remains **IN PROGRESS**: Enterprise 0/107 / 428 images, water-ledger/other-source work and Courier callouts M01-M04 remain.
+
 ## Latest pause checkpoint — through 25 November 1915
 
 **IN PROGRESS — paused after sheet 110 at the user's requested date limit.**

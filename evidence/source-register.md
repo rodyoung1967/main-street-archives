@@ -783,3 +783,13 @@ Originals/manifest: `newspapers/oregon-city-courier/1915-sheets-101-110/`.
 Media: **IMG-0162–IMG-0201** plus archive-served IIIF comparison header **IMG-0202**.
 Evidence: **E-109**; [page log and callouts](source-captures/1915-courier-sheets-101-110.md).
 All supplied images reviewed. Nov 11seq8 is printed 6; PDF/IIIF agree, physical pagination unresolved1915-M04. No additional December or Enterprise pages reviewed. Year IN PROGRESS.
+
+
+## S-122 - Courier 1915 visual batch, sheets 111-123
+Type: Primary newspaper scans / exhaustive visual review.  
+Dates: 2-30 December 1915.  
+Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD/ed-1/seq-N.pdf  
+Repository: `newspapers/oregon-city-courier/1915-sheets-111-123/`; exact URLs and SHA-256 hashes in `manifest.json`.  
+Media: `IMG-0203` through `IMG-0248`.  
+Evidence: `E-110`; detailed review `evidence/source-captures/1915-courier-sheets-111-123.md`.  
+Notes: All 46 supplied December images visually inspected. Dated directories extend Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527 through 30 December; Scripture & May remains unnumbered; Holman/Randall Fifth/Main continues; 2 December p4 extends the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant found; coverage only. Courier inventory reaches 123/123, while 1915 remains IN PROGRESS because Enterprise, other-source work and M01-M04 remain.

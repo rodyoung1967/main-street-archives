@@ -180,3 +180,8 @@ All pages of October 28 and November 4,11,18,25 were visually inspected. Novembe
 The November 25 report also says Fifth Street was improved by city day labor, with crushed rock charged to general street repair over three months. Its **$37,895.68** figure is the broader **street-maintenance account**, not an isolated Fifth Street cost. Exact segment, dates and authorizing record remain open under RL-043. This is road-surface work, not target-storefront demolition or construction.
 
 Cadastral caution: **target odd-numbered frontage is original Block 4**, not Block 26. Earlier Block 26 references above concern the separately recorded assessment/property-owner context and must not be used to assign503/505 toBlock26. Earlier source claims outside this batch retain their existing review status.
+
+## Visual addendum - 2 December 1915
+
+The actual Dec. 2 Courier p4 scan was visually inspected in the final December batch (`S-122` / `E-110`). An editorial again describes the **paying of Fifth Street** as an absorbing municipal mystery and refers to the street's recent redressing/work. This corroborates that the Fifth Street improvement/funding dispute remained active into December. It supplies no exact work limits, isolated Fifth-only cost, authorizing record, or evidence that a Main/Fifth storefront was demolished or altered.
+

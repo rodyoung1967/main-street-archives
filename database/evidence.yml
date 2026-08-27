@@ -1624,3 +1624,20 @@ evidence:
     related_people: [P-001, P-041, P-042, P-044, P-045]
     related_buildings: [B-003, B-004]
     repository_file: evidence/source-captures/1915-courier-sheets-101-110.md
+
+  - id: E-110
+    name: 1915 Courier December completion and year-end address continuity
+    type: Primary newspaper visual review of forty-six supplied page images
+    claims:
+      - All 46 supplied December Courier page images were visually inspected, completing the supplied Courier scan-sheet inventory at 123/123.
+      - Directories on December 2 p6, December 9 p8, December 16 p8, December 23 p6 and December 30 p6 repeat W. W. Bradley at 507, H. P. Brightbill at 509, Geo. A. Harding at 511, F. F. Theroux at 519 and Price Bros. at 527 Main.
+      - Scripture & May remains unnumbered in these directory notices; later 108 Fifth evidence is not backdated to 1915.
+      - Holman and Randall Fifth/Main notices continue through December; December 2 p4 revisits the Fifth Street improvement/payment controversy without proving an exact segment, isolated cost or storefront alteration.
+      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
+    confidence: Very High for readable printed directory numbers/intersection wording and visual coverage; exact Fifth work segment/authority and target occupancy unresolved.
+    related_sources: [S-122]
+    related_evidence: [E-054, E-107, E-109]
+    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029]
+    related_buildings: [B-003, B-004]
+    repository_file: evidence/source-captures/1915-courier-sheets-111-123.md
+

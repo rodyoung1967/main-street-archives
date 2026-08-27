@@ -1,6 +1,15 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS — paused through 25 November; December and Enterprise pending**
+Status: **IN PROGRESS - Courier visual pass complete through 30 December; Enterprise and other-source work pending**
+
+## Latest Courier completion checkpoint - through 30 December 1915
+
+- **Courier 123/123 scan sheets processed through year end.** Final batch: sheets 111-123, **46 supplied page images**, all visually inspected; source `S-122`, evidence `E-110`, media `IMG-0203-IMG-0248`.
+- Saved originals: `newspapers/oregon-city-courier/1915-sheets-111-123/`; [detailed visual log](1915-courier-sheets-111-123.md).
+- Five December directories extend 507 Bradley / 509 Brightbill / 511 Harding / 519 Theroux / 527 Price Bros. through **30 December**. Scripture & May remains unnumbered; Holman/Randall continues at Fifth/Main.
+- December 2 p4 adds Fifth Street improvement/payment controversy context. **No exact 503/505 occupant and no new 102/104/106/108/110 Fifth or other numbered Fifth occupant** was identified in the final batch; coverage only.
+- Courier **M01-M04 remain open** source/pagination/manual callouts; 123/123 does not silently resolve them.
+- Next exhaustive newspaper task: **Oregon City Enterprise, 107 sheets / 428 images**. Water-ledger/other online-source work also remains. **1915 is not ONLINE COMPLETE.**
 
 ## Latest pause checkpoint — through 25 November 1915
 

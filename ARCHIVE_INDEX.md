@@ -269,3 +269,10 @@ Courier **110/123 sheets** processed; pause before December2. **46 Courier image
 - [Electric Store](businesses/electric-store.md), BUS-031:617 Main/Beaver Building, November 25.
 - [Eddy's Dependable Store](businesses/eddys-dependable-store.md), BUS-032:526 Main, November 25, proprietor/identity open.
 - Fifth Street findings remain included, but intersection ads, exact numbers and road work are not conflated. No new exact 503/505 occupant established.
+
+## 1915 Courier December completion
+
+- `evidence/source-captures/1915-courier-sheets-111-123.md` - final 46 December pages visually reviewed; source S-122 / evidence E-110.
+- `newspapers/oregon-city-courier/1915-sheets-111-123/` - unchanged original PDFs, manifest, hashes and media IMG-0203-IMG-0248.
+- Courier checkpoint: **123/123 scan sheets processed**. Enterprise and other-source work remain; 1915 is still IN PROGRESS.
+
