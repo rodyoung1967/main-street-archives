@@ -1,81 +1,16 @@
 # November 1915 Oregon City Courier review
 
-Status: **active / partial page-level review**
+Status: **all 32 supplied November images VISUALLY VERIFIED; pagination callout open**. Review date: 27 August 2026. Year remains **IN PROGRESS**.
 
-Project rule: this document records only pages actually recovered and reviewed. Archive/index/cache failures are not negative evidence and do not satisfy the project's every-page requirement.
+This replaces the earlier OCR-only partial-month status. Source **S-121**, evidence **E-109**; [full page-by-page log and manual callouts](1915-courier-sheets-101-110.md), [original PDFs and manifest](../../newspapers/oregon-city-courier/1915-sheets-101-110/).
 
-## 4 November 1915 — 8 pages
+| Issue | Images reviewed | Exact-number directory | Other findings |
+| --- | --- | --- | --- |
+| [November4](https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/) | 1–8 | p6: Bradley507, Brightbill509, Harding511, Theroux519, PriceBros527 | p5 confirms Mass's opening in formerBrunswick quarters lastSaturday; p7 Holman/Randall Fifth/Main |
+| [November11](https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/) | 1–8 | p6: same five numbered businesses | Seq8 prints6 but differs fromseq6; dateNov11. PDF/IIIF agree;1915-M04. Holman/Randall p7/seq8 |
+| [November18](https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/) | 1–8 | p6: same five numbered businesses | pp1/8 Main paving/track defects and proposed Fifth work report; Mass activity pp1/5; Holman/Randall pp2/7 |
+| [November25](https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/) | 1–8 | p3: same five numbered businesses; Brightbill visibly509, resolving older OCR609 | p2 electric company617Main/BeaverBuilding; p6 Eddy's526Main; p1 FifthStreet day-labor/crushed-rock report; p7 Holman/Randall |
 
-Archive issue index confirms **8 pages**:
-https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/
+All four directory pages also advertise **Scripture & May**, horseshoeing, **without an address**. Do not backdate its later 108 Fifth number. Holman/Randall's intersection wording likewise does not establish501 Main or a numbered Fifth storefront.
 
-Recovered/reviewed in this pass:
-
-- **Page 1:** city-council and street-condition material. No direct 503/505 exact-address item identified in the recovered text.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-1/
-- **Page 4:** editorial page, including a `BUY IT AT HOME` discussion of Oregon City merchants. Useful commercial-context material, but no direct target-block item.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-4/
-- **Page 5:** local/business material; no direct target-block exact-address item identified.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-5/
-- **Page 6 — important exact-address continuity:** the Classified Business Directory directly lists:
-  - **George A. Harding — 511 Main**
-  - **W. W. Bradley — 507 Main, Tel. 139**
-  - **H. P. Brightbill — 509 Main, Phone 74**
-  - **F. F. Theroux — 519 Main**
-  This is direct/high-confidence November confirmation for 507/509/511.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-6/
-- **Page 7:** sheriff-sale/legal material; no target-block item identified in recovered text.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-7/
-
-Pages 2, 3 and 8 still require successful page-level review before the issue can be called complete.
-
-## 11 November 1915 — 8 pages
-
-Page navigation confirms an **8-page issue**.
-
-Recovered/reviewed in this pass:
-
-- **Page 1:** county-tax/budget material; no direct target-block item identified.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-1/
-- **Page 2:** county/suburban news; no target-block item identified.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-2/
-- **Page 4:** editorial page; no target-block item identified.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-4/
-- **Page 6 — important exact-address continuity:** Classified Business Directory directly lists **George A. Harding, 511 Main; W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main.** This is another direct November exact-address confirmation.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-6/
-- **Page 7:** legal notices; no target-block item identified.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-11/ed-1/seq-7/
-
-Pages 3, 5 and 8 remain pending/retrieval gaps.
-
-## 18 November 1915 — 8 pages
-
-Archive holdings confirm the issue and an 8-page pattern for this date.
-
-Recovered/reviewed:
-
-- **Page 6:** county-court accounts. It includes a **W. W. Bradley** payment in the general-roads accounts, independently confirming Bradley's business activity, though this item itself does not print `507 Main`. The same recovered page also contains a Classified Business Directory section repeating **W. W. Bradley, 507 Main** and **H. P. Brightbill, 509 Main**.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
-
-Other pages remain pending/retrieval gaps. This issue is not complete.
-
-## 25 November 1915
-
-Recovered/reviewed:
-
-- **Page 3 — important exact-address continuity:** Classified Business Directory directly lists:
-  - **George A. Harding — 511 Main**
-  - **W. W. Bradley — 507 Main, Tel. 139**
-  - **H. P. Brightbill — OCR reads `609 Main`, but this is almost certainly an OCR error for the repeatedly documented 509 Main; do not treat `609` as a new address without image confirmation.**
-  The page also repeats F. F. Theroux at 519 Main.
-  https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-3/
-
-This issue's full page count and remaining pages still require page-level completion.
-
-## November interpretation
-
-The recovered November pages strongly extend the **507 / 509 / 511** address sequence through late 1915. Bradley, Brightbill and Harding appear repeatedly in the Courier business directory, which makes their autumn 1915 exact-address continuity high confidence.
-
-No successfully reviewed November page in this pass provides a direct **503 or 505** occupant. This is **not** a November-wide negative conclusion because page coverage remains incomplete.
-
-The November evidence does not change the careful physical-history conclusion: Main Street was plainly an active commercial corridor in 1915, but the specific post-1913 status of the pre-fire 505 building and its occupant remain unresolved.
+These are dated advertised locations, not proof of uninterrupted occupancy, property title or succession. No defensible new exact 503/505 occupant was found in the32 supplied images; this is not evidence of vacancy or unchanged building survival. Physical pagination of November 11 remains unconfirmed. December and Enterprise are outside this completed batch.

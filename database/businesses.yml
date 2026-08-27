@@ -110,8 +110,10 @@ businesses:
     related_evidence:
       - E-045
       - E-107
+      - E-109
     related_sources:
       - S-120
+      - S-121
 
   - id: BUS-008
     name: Tony's Restaurant
@@ -318,35 +320,60 @@ businesses:
   - id: BUS-026
     name: W. W. Bradley furniture
     address: 507 Main
-    notes: Dated August-October 1915 directory listings; no continuous occupancy or transfer from G. H. Young inferred.
+    notes: Dated August-November 1915 directory listings; no continuous occupancy or transfer from G. H. Young inferred.
     related_people: [P-041]
     related_buildings: [B-003]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
 
   - id: BUS-027
     name: H. P. Brightbill grocery
     address: 509 Main
-    notes: Dated August-October 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved. B-003 is address-group context, not proof of historic footprint.
+    notes: Dated August-November 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved. B-003 is address-group context, not proof of historic footprint.
     related_people: [P-042]
     related_buildings: [B-003]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
 
   - id: BUS-028
     name: Price Bros. clothing store
-    address: 527 Main (5 August 1915)
+    address: 527 Main (dated 1915 listings through 25 November)
     notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey & Price merger, real-estate ownership, closure or rebuilding claim.
     related_people: [P-043]
     related_buildings: [B-004]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
     repository_file: businesses/price-bros.md
 
   - id: BUS-029
     name: F. F. Theroux pianos and sewing machines
-    address: 519 Main (5 August 1915)
+    address: 519 Main (dated 1915 listings through 25 November)
     notes: Number printed in directory; historic building identity and connection to earlier Fifth/Main wording unresolved. No target-storefront or relocation inference.
     related_people: [P-044]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
+
+  - id: BUS-030
+    name: Mass's Hotel and Restaurant
+    address: Former Brunswick quarters; Main near Seventh context, exact number unresolved
+    notes: E. T. Mass opening announced October 28 and confirmed November 4, calendar-derived October 30, 1915. Renovated/refurnished former Brunswick quarters explicitly identified. No deed, final repair cost or exact historic parcel established.
+    related_people: [P-045]
+    related_evidence: [E-109]
+    related_sources: [S-120, S-121]
+    repository_file: businesses/mass-hotel-restaurant.md
+
+  - id: BUS-031
+    name: Portland Railway Light & Power Co. Electric Store
+    address: 617 Main Street, Beaver Building (25 November 1915)
+    notes: November 25 p 2 prints company, building and number. Earlier October/November Electric Store ads name Beaver/Main without number. No move date or attribution of other Beaver Building tenants to 617.
+    related_evidence: [E-109]
+    related_sources: [S-121]
+    repository_file: businesses/electric-store.md
+
+  - id: BUS-032
+    name: Eddy's Dependable Store
+    address: 526 Main (25 November 1915)
+    notes: Exact advertised address on November 25 p 6. Proprietor unnamed; no merger with the1910 Watson B. Eddy & Son/Main&Sixth record without a separate identity/succession bridge. Not527.
+    related_evidence: [E-109]
+    related_sources: [S-121]
+    repository_file: businesses/eddys-dependable-store.md

@@ -103,3 +103,16 @@ When a source, evidence item, media item, artifact, person, business, building, 
 | BUS-007 / P-001 | E-107; S-120; B-003; T-017 | Geo. A. Harding's 1915 business number is 511, not a backdated 507 building label. |
 | BUS-028 / P-043 | E-107; S-120; B-004; IMG-0058; IMG-0060; OQ-028; RL-033; T-017; T-018 | Price Bros. / Al Price; incident-to-527 is same-issue inference. No Bailey & Price merger. |
 | BUS-029 / P-044 | E-107; S-120; T-017; RL-043 | F. F. Theroux at 519 on 5 August; building identity/move unresolved. |
+
+## 1915 Courier sheets101–110 batch
+
+| ID | Connected records | Scope |
+| --- | --- | --- |
+| S-121 | E-109; IMG-0162–IMG-0202; RL-042/RL-043 | Forty preserved PDFs plus alternate IIIF header; checkpoint110/123, pause before Dec2. |
+| E-109 | S-121; E-054/E-107; T-019–T-021; B-003/B-004 address context | Dated507/509/511/519/527 confirmations,526/617 anchors, Mass opening and Fifth road-work report. |
+| BUS-007 / P-001; BUS-026 / P-041; BUS-027 / P-042; BUS-029 / P-044 | E-109; S-121; T-020 | Harding511, Bradley507, Brightbill509, Theroux519 through Nov25; no identity/transfer proof. |
+| BUS-028 | E-109; S-121; B-004; T-020 | Price Bros.527 through Nov25; priorAlPrice evidence remainsE-107. |
+| BUS-030 / P-045 | E-109; S-121; T-019; RL-043 | Mass's Hotel and Restaurant in former Brunswick quarters; exact number/title unresolved. |
+| BUS-031 | E-109; S-121; T-020; RL-043 | Electric Store / company at617 Main, Beaver Building; no buildingID assigned. |
+| BUS-032 | E-109; S-121; T-020; RL-043 | Eddy's at526 Main; no proprietor identity or buildingID assigned. |
+| T-021 | E-109; S-121; RL-043 | Fifth Street road-work report only, no storefront/parcel assignment. |

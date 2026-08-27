@@ -73,3 +73,7 @@ Accordingly, the building's modern storefront appearance should not automaticall
 - What, if any, damage did 527 Main sustain in the 1 September 1967 fire?
 - What was the date and scope of the entrance alteration noted by the 2000 City report?
 - Can assessor cards, permits, deeds, or a 1935 newspaper construction notice independently confirm the exact construction year?
+
+## Late-autumn1915 dated extension
+
+E-109/S-121 confirms **Price Bros. at527 Main** in five directories, October 28–November 25. These later advertisements extend the business-address evidence after the July incident; they do not prove whether repairs occurred or continuous occupancy. **Eddy's526 Main** is a separate even-numbered address, not this building. [Page log](../evidence/source-captures/1915-courier-sheets-101-110.md).

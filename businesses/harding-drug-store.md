@@ -64,3 +64,7 @@ High-priority sources to locate:
 - Are there newspaper advertisements that give the store's address?
 - Are there city directories that list Harding Drug Store year by year?
 - Did Harding Drug Store continue after George A. Harding's direct involvement ended?
+
+## Advertised-location extension through November25, 1915
+
+E-109/S-121 visually confirms Geo. A. Harding at **511 Main** on October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3. Bradley remains507 and H.P.Brightbill509 in those same directories. These are dated business-number anchors, not continuity or title proof.

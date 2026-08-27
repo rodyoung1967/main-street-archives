@@ -207,6 +207,7 @@ buildings:
       - E-094
       - E-095
       - E-107
+      - E-109
     related_sources:
       - S-063
       - S-107
@@ -214,6 +215,7 @@ buildings:
       - S-109
       - S-110
       - S-120
+      - S-121
     related_maps:
       - SM-002
       - SM-003
@@ -230,12 +232,13 @@ buildings:
     notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January 1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference. No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935 structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage remains unresolved. City report notes later entrance alteration.
     related_businesses: [BUS-028]
     related_people: [P-043]
-    related_evidence: [E-052, E-053, E-107]
+    related_evidence: [E-052, E-053, E-107, E-109]
     related_sources:
       - S-061
       - S-062
       - S-063
       - S-120
+      - S-121
 
   - id: B-005
     name: 501 Main Street (historic / removed)

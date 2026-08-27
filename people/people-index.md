@@ -46,3 +46,6 @@
 | P-042 | H. P. Brightbill | Grocer, 509 Main | Dated August–October 1915 listings; `BUS-027`, `E-107`. Do not merge with Henry Brightbill `P-034` solely on surname/address chronology. |
 | P-043 | Al Price | Price Bros. proprietor | 5 August 1915 p1 names him; same-issue p3 lists Price Bros. at 527. `BUS-028`, `E-107`. No Bailey & Price identity or property-ownership inference. |
 | P-044 | F. F. Theroux | Piano/sewing-machine dealer | 5 August 1915 p3 lists 519 Main; `BUS-029`, `E-107`. Do not expand initials or treat earlier Fifth/Main wording as proof of a move. |
+| P-045 | [E. T. Mass](et-mass.md) | Ex-sheriff; hotel/restaurant operator | October 28/November 4, 1915 reports name him at Mass's Hotel and Restaurant, former Brunswick. BUS-030/E-109. Initials and wife's name not expanded; no deed ownership inferred. |
+
+October 28–November 25 directory corroboration (E-109/S-121) extends P-041 at 507, P-042 at 509, P-001 at 511 and P-044 at 519. It does not merge identities, date moves or newly identify Price's proprietor.

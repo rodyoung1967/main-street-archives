@@ -31,3 +31,10 @@
 | BUS-027 | H. P. Brightbill grocery | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
 | BUS-028 | [Price Bros. clothing store](price-bros.md) | 527 Main (5 Aug. 1915) | Al Price `P-043` named proprietor in same-issue incident report; distinct from Bailey & Price unless an identity/succession bridge is found. `E-107`. |
 | BUS-029 | F. F. Theroux pianos and sewing machines | 519 Main (5 Aug. 1915) | Exact directory address (`E-107`, `P-044`); no inferred move from earlier Fifth/Main wording or assignment to 501/503/505. |
+| BUS-030 | [Mass's Hotel and Restaurant](mass-hotel-restaurant.md) | Former Brunswick; Main near Seventh context, exact number open | Opening October 30, 1915 (calendar-derived), confirmed November 4; renovation/same quarters explicit, no deed proof. P-045; E-109. |
+| BUS-031 | [Portland Railway Light & Power Co. Electric Store](electric-store.md) | 617 Main, Beaver Building | November 25, 1915 p 2 exact advertisement; no move date or attribution of all building tenants to 617. E-109. |
+| BUS-032 | [Eddy's Dependable Store](eddys-dependable-store.md) | 526 Main | November 25, 1915 p 6 exact advertisement; proprietor/1910 Eddy identity unresolved, not 527. E-109. |
+
+### October 28–November 25, 1915 corroboration
+
+E-109/S-121 adds five dated directory confirmations for BUS-026 at 507, BUS-027 at 509, BUS-007 at 511, BUS-029 at 519 and BUS-028 at 527. These extend the advertised-location record beyond the earlier August–October rows, not proof of uninterrupted operation.

@@ -258,3 +258,14 @@ High-priority people/entities:
 13. Documentary confirmation of Young / LaFarlette / Grisham / Wiitanen family-name and ownership-chain references.
 
 - `evidence/E-108-block4-harding-address-property-bridge.md` — integrated Block 4 / Harding / 1922 address-to-property bridge.
+
+## 1915 online-review checkpoint — through November 25
+
+Courier **110/123 sheets** processed; pause before December2. **46 Courier images +428 Enterprise images remain**. Year **IN PROGRESS**; source exceptions/manual callouts remain open.
+
+- [Batch page log and manual callouts](evidence/source-captures/1915-courier-sheets-101-110.md), E-109/S-121.
+- Dated507Bradley /509Brightbill /511Harding /519Theroux /527PriceBros listings extend through November25.
+- [Mass's Hotel and Restaurant](businesses/mass-hotel-restaurant.md), BUS-030/P-045: former Brunswick opening confirmedOctober30, 1915, exact number open.
+- [Electric Store](businesses/electric-store.md), BUS-031:617 Main/Beaver Building, November 25.
+- [Eddy's Dependable Store](businesses/eddys-dependable-store.md), BUS-032:526 Main, November 25, proprietor/identity open.
+- Fifth Street findings remain included, but intersection ads, exact numbers and road work are not conflated. No new exact 503/505 occupant established.

@@ -11,3 +11,12 @@
 | 519 Main Street, Oregon City, Oregon (historic listing) | Unassigned; historic building not identified | `evidence/source-captures/1915-sheets-073-100-integration-audit.md` | `BUS-029` | `E-107` | F. F. Theroux, pianos/sewing machines, 5 August 1915 p3. Earlier Fifth/Main wording does not prove relocation or a target-storefront identity. |
 | 527 Main Street, Oregon City, Oregon | `B-004` | `buildings/527-swartz-building.md` | Bailey & Price (1912; unmerged); `BUS-028` Price Bros. (1915) | `E-052`, `E-053`, `E-107` | 5 August 1915 directory gives Price Bros. at 527; same-issue incident names Al Price. Friday-night date is calendar-derived 30 July. No succession/identity bridge, closure or replacement inferred. Both early listings predate the present 1935 Swartz structure. |
 | 513 Fifth Street, Oregon City, Oregon (historic residence) | `B-006` | `buildings/513-fifth.md` | None established | `E-106` | H. M. Templeton home, occupied by M. D. Phillips and family in March 1912. Residential record only; no modern parcel or fire-cluster relationship inferred. |
+| 526 Main Street, Oregon City, Oregon (historic listing) | Unassigned | `businesses/eddys-dependable-store.md` | BUS-032 | E-109 | Eddy's Dependable Store, November 25, 1915 p 6. Proprietor/1910 Eddy continuity unresolved; not 527 or B-004. |
+| 617 Main Street, Oregon City, Oregon (historic listing) | Unassigned | `businesses/electric-store.md` | BUS-031 | E-109 | Portland Railway Light & Power Co., Beaver Building, November 25, 1915 p 2. No move date, title or all-tenant numbering inference. |
+| Main near Seventh (context; unnumbered premises) | Unassigned | `businesses/mass-hotel-restaurant.md` | BUS-030 | E-109; S-120/S-121 | Mass's Hotel and Restaurant in former Brunswick quarters; opening confirmed October 30, 1915. Exact number and property interest unresolved. |
+
+## Dated update through November 25, 1915
+
+**E-109/S-121** extends advertised listings for 507,509,511,519 and527 through November 25, without uninterrupted-occupancy or shared-footprint assumptions. November 25 Brightbill entry visually reads509, not OCR609.
+
+**Fifth Street remains in scope.** Holman/Randall's Fifth/Main wording, unnumbered Scripture & May advertisements, numbered513 Fifth residence and later 108/109 Fifth sources must remain distinct. This batch establishes no new numbered Fifth occupant. The November 25 Fifth Street crushed-rock/day-labor report concerns road work only; exact segment and authority remain RL-043.

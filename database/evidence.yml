@@ -1605,3 +1605,22 @@ evidence:
       - B-003
       - B-005
     repository_file: evidence/E-108-block4-harding-address-property-bridge.md
+
+  - id: E-109
+    name: 1915 Courier through November 25 — addresses, Mass opening and Fifth Street work
+    type: Primary newspaper visual review of forty supplied page images
+    claims:
+      - Five directories from October 28 through November 25 list Bradley507, H.P.Brightbill509, Harding511, Theroux519 and Price Bros.527 Main; these are dated advertisements, not uninterrupted occupancy.
+      - November 25 p 2 gives Portland Railway Light & Power Co., Beaver Building,617 Main; p 6 gives Eddy's Dependable Store,526 Main. Neither dates a move or proves property ownership.
+      - October 28 p 5 announces Mass's Hotel and Restaurant in renovated former Brunswick quarters; November 4 p 5 confirms opening lastSaturday and lodgers installed. October 30 is calendar-derived; exact number and property interest unresolved.
+      - Holman/Randall Fifth/Main notices recur; Scripture & May directory notices have no address and do not backdate later 108 Fifth.
+      - November 25 p 1 reports Fifth Street crushed-rock work by city day labor, charged to general street repair over three months; the $37,895.68 maintenance account is not the isolated Fifth Street cost. No storefront demolition or alteration inferred.
+      - All forty supplied images were inspected; November 11 seq 8 prints6, unlike its archive label 8, and is distinct fromseq6. PDF and alternate IIIF agree; physical pagination remains manual callout1915-M04.
+      - No new defensible exact 503/505 occupant was identified; no vacancy or unchanged building survival inferred.
+    confidence: High for readable printed names, numbers and reported events; exact Mass parcel, Fifth work segment and original November 11 pagination unresolved.
+    related_sources: [S-121]
+    related_evidence: [E-054, E-107]
+    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029, BUS-030, BUS-031, BUS-032]
+    related_people: [P-001, P-041, P-042, P-044, P-045]
+    related_buildings: [B-003, B-004]
+    repository_file: evidence/source-captures/1915-courier-sheets-101-110.md

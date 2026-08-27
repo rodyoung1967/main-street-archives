@@ -114,3 +114,7 @@ The search for May & Washburn's exact premises therefore remains open and should
 3. Find May & Washburn's exact pre-fire Fifth Street address.
 4. Map 108 and 109 Fifth on contemporary Sanborn/address geometry.
 5. Check whether Scripture's 108 Fifth shop survived the July fire; this could define the opposite or surviving edge of the fire cluster.
+
+## Earlier business-name corroboration — 1915 batch, reviewed 27August2026
+
+E-109/S-121: October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3 advertise **Scripture & May**, scientific horseshoeing/emery-wheel service, Pacific297-J. **No street address is printed in these five notices.** This supplies dated1915 business-name evidence only; it does not backdate the independently verified1916 **108 Fifth** number, identify the individual partners, or restore a May & Washburn premises-succession hypothesis. [Page log and originals](1915-courier-sheets-101-110.md).

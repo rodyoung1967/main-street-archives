@@ -172,3 +172,11 @@ This does **not prove** that a particular building at 505 survived unchanged aft
 ## Visual verification addendum — 27 August 2026
 
 S-120 / E-107 and `1915-courier-sheets-073-100.md` now visually verify August12 p1, August19 p1, August 26 p1, September 2 printed10/12, September9 pp5/8, September16 p3, September 23 p5 and October7 p1. September9 predicts completion the next week; September 23 reports assessment/payment and October7 assessment adjustments/payments. This corroborates road-surface work only, not demolition or reconstruction at 503/505. Earlier OCR-only entries outside this batch retain their previous review status.
+
+## Visual extension through November25 — S-121/E-109
+
+All pages of October 28 and November 4,11,18,25 were visually inspected. November 4 p 1 reports acceptance of Main/Third/Seventh/Tenth improvements; November 18 pp 1/8 reports Main paving/track defects and a proposed Fifth Street funding report. November 25 p 1 independently confirms the year-end Main hard-surface-paving summary above.
+
+The November 25 report also says Fifth Street was improved by city day labor, with crushed rock charged to general street repair over three months. Its **$37,895.68** figure is the broader **street-maintenance account**, not an isolated Fifth Street cost. Exact segment, dates and authorizing record remain open under RL-043. This is road-surface work, not target-storefront demolition or construction.
+
+Cadastral caution: **target odd-numbered frontage is original Block 4**, not Block 26. Earlier Block 26 references above concern the separately recorded assessment/property-owner context and must not be used to assign503/505 toBlock26. Earlier source claims outside this batch retain their existing review status.

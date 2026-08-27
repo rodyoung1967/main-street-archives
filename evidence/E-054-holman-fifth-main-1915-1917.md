@@ -20,3 +20,7 @@ Confidence: **Very High** for Fifth-and-Main location and dates; **Moderate hypo
 
 Related building: `B-005` 501 Main (candidate relationship only).  
 Related research lead: `RL-019`.
+
+## October 28–November 25, 1915 corroboration
+
+E-109/S-121 visually verifies Holman/Randall Fifth/Main advertisements on October 28 pp 2/7, November 4 p 7, November 11 p 7/seq 8, November 18 pp 2/7 and November 25 p 7. No numbered Fifth address or501 Main equation is supplied. November 11seq8's printed 6 pagination anomaly is tracked separately as1915-M04.

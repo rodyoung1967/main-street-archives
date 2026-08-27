@@ -108,7 +108,17 @@ The visually reviewed Courier batch gives dated **507 Main — W. W. Bradley; 50
 
 The 5 August p1 report names **Al Price** and describes smoke and an electric iron burning boards at the rear of his store on Friday night of the preceding week; switching off the current averted a potentially serious fire. This yields **30 July 1915** by calendar derivation (`T-018`). Connecting the incident to 527 is a strong same-issue business-name inference using p3, not an address printed in the incident report. No connection with the separate 1912 Bailey & Price billiard business, closure, demolition or rebuilding is established. An earlier Thursday transcription is superseded in the [integration audit](evidence/source-captures/1915-sheets-073-100-integration-audit.md).
 
-Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement and Brunswick sale/planned repairs remain unnumbered-location leads (`RL-043`). The year remains **IN PROGRESS**; review stops at sheet 100.
+Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement remains an unnumbered-location lead; the later Mass opening resolves the Brunswick name/opening subquestions below. Year remains **IN PROGRESS**; latest review stops at sheet 110, November 25.
+
+## October 30, 1915 — Mass's opens in former Brunswick quarters
+
+The October 28 announcement and November 4 retrospective report establish **Mass's Hotel and Restaurant** opening in renovated former Brunswick quarters under ex-Sheriff **E. T. Mass**. October 30 is calendar-derived from Saturday wording. More than200 opening patrons and permanent lodgers are reported. Exact number, parcel, property interest and final renovation cost remain open (`E-109`, `BUS-030`, `P-045`, `T-019`).
+
+## November 25, 1915 — dated addresses and Fifth Street work
+
+Eddy's Dependable Store advertises **526 Main**; Portland Railway Light & Power Co. advertises **617 Main, Beaver Building**. The directory again gives Bradley507, Brightbill509, Harding511, Theroux519 and Price Bros.527. These dated listings do not prove moves, identity/succession, title or uninterrupted occupancy (`E-109`, `T-020`).
+
+The municipal-debt report says **Fifth Street** was improved with city day labor and crushed rock charged to general street repair over three months. **$37,895.68 is the broader maintenance account, not isolated Fifth Street cost**. Exact segment and authority remain open; no storefront work inferred (`T-021`). Holman/Randall intersection ads and unnumbered Scripture & May notices remain distinct from exact Fifth addresses. No new 503/505 occupant is established.
 
 ## October 1918
 **Wolf & Miller** appeared at **505 Main** (`E-027`). Separate newspaper references identify the **Holman & Pace** chapel/funeral parlors in Oregon City (`E-055`), but those 1918 Holman & Pace references do not state a street address.

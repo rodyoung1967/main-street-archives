@@ -219,3 +219,27 @@ timeline:
     related_businesses: [BUS-028]
     related_people: [P-043]
     related_buildings: [B-004]
+
+  - id: T-019
+    date: 30 October 1915 (calendar-derived; confirmed 4 November)
+    summary: Mass's Hotel and Restaurant opens in renovated former Brunswick quarters; October 28 announcement and November 4 retrospective report distinguish planned from actual opening. More than200 opening patrons reported, permanent lodgers installed.
+    confidence: High for business name, same-premises succession and opening report; exact number and property title unresolved.
+    related_evidence: [E-109]
+    related_sources: [S-121]
+    related_businesses: [BUS-030]
+    related_people: [P-045]
+
+  - id: T-020
+    date: 25 November 1915
+    summary: Advertisements identify Eddy's Dependable Store at526 Main and Portland Railway Light&Power Co. at617 Main, Beaver Building; directory repeats Bradley507, Brightbill509, Harding511, Theroux519 and Price Bros.527.
+    confidence: High for dated printed numbers; no move date, uninterrupted occupancy, proprietor identity or building-title inference.
+    related_evidence: [E-109]
+    related_sources: [S-121]
+    related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029, BUS-031, BUS-032]
+
+  - id: T-021
+    date: Reported 25 November 1915; work dates unspecified
+    summary: Courier reports Fifth Street improved by city day labor with crushed rock billed to the general street-repair fund over three months. The37895.68-dollar maintenance account includes more than Fifth Street; no isolated cost, exact segment or storefront work proved.
+    confidence: High for newspaper report wording; municipal authorizing records and precise segment remain open.
+    related_evidence: [E-109]
+    related_sources: [S-121]

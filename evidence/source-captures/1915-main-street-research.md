@@ -2,7 +2,19 @@
 
 Year status: **IN PROGRESS** — active exhaustive pass.
 
-## Latest pause checkpoint — 27 August 2026
+## Latest pause checkpoint — through 25 November 1915
+
+**IN PROGRESS — paused after sheet 110 at the user's requested date limit.**
+
+- **110/123 Courier sheets processed.** This batch: sheets **101–110**, five issues, **40 supplied page images**, all visually inspected. Previous batch: 73–100 / 108 preserved PDFs.
+- **Next: sheet 111, 2 December sequences 1–4.** Remaining Courier: **13 sheets / 46 images**. Enterprise: **0/107 sheets reviewed / 428 images pending**. Total remaining newspaper images: **474**.
+- The 40 original PDFs and alternate IIIF header are saved with manifest, hashes and media IDs **IMG-0162–IMG-0202**; source **S-121**, evidence **E-109**. [Detailed page log, findings and manual callouts](1915-courier-sheets-101-110.md).
+- No new defensible exact 503/505 occupant claim. Dated 507/509/511/519/527 listings extend through November 25; Eddy's at 526 and the electric company's 617 listing are integrated. The former Brunswick's opening as Mass's Hotel and Restaurant is confirmed for calendar-derived October 30.
+- Fifth Street is included: Holman/Randall intersection ads, Scripture & May business-name corroboration without a number, and a Fifth Street crushed-rock/day-labor report. No numbered Fifth occupant change or target-building demolition inferred.
+- **1915-M04:** November 11 sequence 8 is printed “6,” confirmed in PDF and alternate IIIF; holding-library comparison needed. Earlier M01–M03 remain open. These exceptions are not erased by progress counts.
+- December, Enterprise, water-ledger/other-source requirements and unresolved online leads remain unfinished. **1915 is not ONLINE COMPLETE.** Earlier lost caches are not recertified by this batch.
+
+## Previous pause checkpoint — sheet 100, 27 August 2026
 
 Task 1 integration update: [batch integration audit](1915-sheets-073-100-integration-audit.md) reconciles the 507/509/511/519/527 address findings, related registers and YAML. The Price Bros. incident wording is **Friday night**, calendar-derived 30 July, superseding the earlier Thursday transcription; incident-to-527 mapping is same-issue inference. No review coverage or year status changes. `RL-043` retains unnumbered business-change follow-ups.
 

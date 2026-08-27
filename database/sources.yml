@@ -580,3 +580,8 @@ sources:
     name: Courier 1915 visual batch, sheets 73–100
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/
     notes: 108 supplied PDFs visually inspected through 21 October; originals and exact URLs with hashes in newspapers/oregon-city-courier/1915-sheets-073-100/manifest.json. Task 1 audit integrates Price Bros. at 527, Theroux at 519 and the 507/509/511 ladder; August 5 p1 says Friday night, correcting the earlier Thursday incident reading. October14 seq4 date conflict and September2 poster pagination unresolved. E-107; IMG-0054 through IMG-0161. Year remains IN PROGRESS; no review beyond sheet 100.
+
+  - id: S-121
+    name: Courier 1915 visual batch, sheets 101–110
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-28/ed-1/
+    notes: Forty supplied single-page PDFs visually inspected through 25 November 1915; originals and per-page URLs, hashes, numbering and statuses in newspapers/oregon-city-courier/1915-sheets-101-110/manifest.json. E-109; IMG-0162 through IMG-0201, plus alternate IIIF header IMG-0202. November 11 seq 8 prints6; PDF/IIIF agree, physical pagination unresolved (1915-M04). Pause before sheet 111 / December 2; year IN PROGRESS.

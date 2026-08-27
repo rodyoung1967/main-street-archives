@@ -774,3 +774,12 @@ Media: IMG-0054 through IMG-0161. Original endpoint filenames recorded; no uploa
 Evidence: E-107; related E-054. Detailed visual audit: `evidence/source-captures/1915-courier-sheets-073-100.md`.
 Integration: `evidence/source-captures/1915-sheets-073-100-integration-audit.md`. August 5 p1 (`IMG-0058`) names Al Price and describes a Friday-night electric-iron incident; p3 (`IMG-0060`) independently lists Price Bros. at 527 and Theroux at 519, alongside 507/509/511. Earlier Thursday transcription superseded. Original files/hashes unchanged.
 Limit: October 14 seq4 date conflict; September 2 center-poster pagination unresolved. 1915 remains IN PROGRESS.
+
+## S-121 — Courier 1915 visual batch, sheets 101–110
+
+Type: Primary newspaper scans, visually inspected27August2026.
+Scope: Forty supplied single-page PDFs, October 28; November 4,11,18,25, eight images each.
+Originals/manifest: `newspapers/oregon-city-courier/1915-sheets-101-110/`.
+Media: **IMG-0162–IMG-0201** plus archive-served IIIF comparison header **IMG-0202**.
+Evidence: **E-109**; [page log and callouts](source-captures/1915-courier-sheets-101-110.md).
+All supplied images reviewed. Nov 11seq8 is printed 6; PDF/IIIF agree, physical pagination unresolved1915-M04. No additional December or Enterprise pages reviewed. Year IN PROGRESS.

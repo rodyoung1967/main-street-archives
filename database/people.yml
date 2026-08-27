@@ -10,8 +10,10 @@ people:
     related_evidence:
       - E-096
       - E-107
+      - E-109
     related_sources:
       - S-120
+      - S-121
 
   - id: P-002
     name: Dr. Bailey
@@ -385,20 +387,20 @@ people:
   - id: P-041
     name: W. W. Bradley
     role: Furniture merchant at 507 Main
-    notes: Dated August-October 1915 listings. Given names and transfer from G. H. Young unresolved.
+    notes: Dated August-November 1915 listings. Given names and transfer from G. H. Young unresolved.
     related_businesses: [BUS-026]
     related_buildings: [B-003]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
 
   - id: P-042
     name: H. P. Brightbill
     role: Grocer at 509 Main
-    notes: Dated August-October 1915 listings. Identity with Henry Brightbill P-034 not established by this batch.
+    notes: Dated August-November 1915 listings. Identity with Henry Brightbill P-034 not established by this batch.
     related_businesses: [BUS-027]
     related_buildings: [B-003]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
 
   - id: P-043
     name: Al Price
@@ -414,5 +416,14 @@ people:
     role: Piano and sewing-machine dealer at 519 Main
     notes: 5 August 1915 p3 exact address. Given names and relationship to earlier Fifth/Main wording unresolved; no inferred move.
     related_businesses: [BUS-029]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    related_evidence: [E-107, E-109]
+    related_sources: [S-120, S-121]
+
+  - id: P-045
+    name: E. T. Mass
+    role: Ex-sheriff and hotel/restaurant operator
+    notes: Named in October 28 and November 4, 1915 Courier opening reports for Mass's Hotel and Restaurant in former Brunswick quarters. Wife also mentioned but unnamed; no expanded given names or real-estate ownership inferred.
+    related_businesses: [BUS-030]
+    related_evidence: [E-109]
+    related_sources: [S-121]
+    repository_file: people/et-mass.md

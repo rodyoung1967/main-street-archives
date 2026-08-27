@@ -142,3 +142,7 @@ S-120 / E-107 visually reconfirms the recurring directory: **W. W. Bradley at 50
 ## Task 7 Address-to-Property Bridge
 
 `E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.
+
+## Late-autumn1915 dated extension
+
+E-109/S-121 visually confirms **Bradley507 / H.P.Brightbill509 / Harding511** on October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3. These extend the dated advertised-location record through November25, not uninterrupted tenancy or proof that the three storefronts shared the later footprint. [Batch log](../evidence/source-captures/1915-courier-sheets-101-110.md).

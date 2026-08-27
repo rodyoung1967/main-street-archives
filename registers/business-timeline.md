@@ -80,3 +80,9 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | 5 Aug. 1915 | 519 Main | F. F. Theroux, pianos/sewing machines | `BUS-029` | `E-107` | Prior Fifth/Main wording does not prove a move or target-storefront identity. |
 | 5 Jan. 1912 | 527 Main | Bailey & Price billiard/pool parlors | Unassigned; unmerged with Price Bros. | `E-052` / `S-061` | Preserved as separate business record; no Price identity/succession bridge. |
 | 30 July / 5 Aug. 1915 | 527 Main | Price Bros. clothing store | `BUS-028` | `E-107` | 5 Aug. directory gives number; same-issue report names Al Price and describes Friday-night electric-iron incident. 30 July derived from date wording; no closure or rebuilding established. |
+| Oct 28; Nov 4,11,18,25, 1915 | 507/509/511/519/527 Main | Bradley / H. P. Brightbill / Harding / Theroux / Price Bros. respectively | BUS-026 / BUS-027 / BUS-007 / BUS-029 / BUS-028 | E-109 | Five dated directory confirmations; no uninterrupted occupancy, move, identity merger or title inference. |
+| Oct 30, 1915, calendar-derived | Former Brunswick; exact Main number open | Mass's Hotel and Restaurant opens | BUS-030 | E-109; T-019 | Oct 28 announcement and Nov 4 retrospective report; renovated same quarters, no deed/final-cost proof. |
+| Nov 25, 1915 | 526 Main | Eddy's Dependable Store | BUS-032 | E-109; T-020 | Proprietor unnamed; no 1910 Eddy identity bridge or527 conflation. |
+| Nov 25, 1915 | 617 Main, Beaver Building | Portland Railway Light & Power Co. Electric Store | BUS-031 | E-109; T-020 | Exact advertised address; no move date or claim all building tenants shared617. |
+
+Fifth/Main undertaker notices recur through November 25; Scripture & May's five directory notices have no address. Neither supplies a numbered Fifth occupancy or a501 Main equation. See E-109.

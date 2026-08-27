@@ -764,3 +764,13 @@ Sources: `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`
 Related record: `evidence/E-108-block4-harding-address-property-bridge.md`  
 Claims: Task 7 establishes a defensible bridge from corrected original **Block 4** through **G. A. Harding's Lots 3–4**, the Harding/505 Chicago Store building-owner lead, and the July 1922 Harding→Gates/Wolf property division. The evidence strongly links Wolf's newly reported remainder to the Wolf-owned fire-origin building but does **not** identify the exact 501/503/505 dividing wall. Current 503 overlaps Lot 4 and 505 overlaps Lots 3–4 as current legal-description leads; modern boundaries are not backdated. Two Gates/Wolf storefront models remain live, and 501 remains a fire-origin alternative.  
 Confidence: Very High for Block 4 orientation and Harding Lots 3–4; High/strong inference for the Harding-property/Wolf chain; Strong multi-source inference for Harding↔505 with the December 1913 owner wording still primary OCR/text-only; exact 1922 storefront mapping unresolved.
+
+## E-109 — 1915 Courier through November 25 — addresses, Mass opening and Fifth Street work
+
+Type: Primary newspaper visual review; source **S-121**.
+[Full claim limits and page-level log](source-captures/1915-courier-sheets-101-110.md); originalPDFs, per-image manifest and alternate IIIF header saved.
+
+Five directories extend the507/509/511/519/527 advertised-location sequence through Nov25. Nov 25 adds **Eddy's526 Main** and **electric company617 Main/Beaver Building**. Oct 28/Nov 4 confirm **Mass's Hotel and Restaurant** opening in former Brunswick quarters on calendar-derivedOct30. Repeated Fifth/Main undertaker and unnumbered Scripture & May notices are retained without exact-address inference. Nov 25 reports Fifth Street city day-labor/crushed-rock work, not storefront construction;37895.68 dollars is the broader maintenance account, not isolated Fifth cost.
+
+Confidence: High for printed claims; exact Mass number/property interest, Fifth work segment/authority and Nov 11seq8 printed 6 pagination remain unresolved. No exact 503/505 occupant or vacancy inference.
+Related: BUS-007, BUS-026–BUS-032; P-001, P-041, P-042, P-044, P-045; B-003/B-004 address context; E-054, E-107; RL-042, RL-043; T-019–T-021. Not annual ONLINE COMPLETE.

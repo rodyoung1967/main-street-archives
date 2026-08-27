@@ -10,3 +10,7 @@ The 5 August 1915 *Courier* page 3 directory advertises Price Bros. at 527 Main,
 Page 1 reports smoke in the store on Friday night of the preceding week: an electric iron left on was burning rear-store boards, and the current was switched off. It names Al Price as proprietor and says a potentially serious fire was averted. **30 July 1915** is the calendar-derived incident date. The store's number comes from page 3, not the incident text. There is no reported dollar loss, closure, rebuilding, or real-estate transfer.
 
 The shared Price name does not prove a relationship with the **Bailey & Price billiard business documented at 527 in 1912** (`E-052` / `S-061`). Business succession, individual identity and building ownership remain separate questions. See [527 history](../buildings/527-swartz-building.md) and [batch integration audit](../evidence/source-captures/1915-sheets-073-100-integration-audit.md).
+
+## Advertised-location extension through November25
+
+E-109/S-121 visually verifies Price Bros. at 527 on October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3. These dated listings do not establish repairs, uninterrupted occupancy or a Bailey & Price identity. No new proprietor attribution is made by these ads.

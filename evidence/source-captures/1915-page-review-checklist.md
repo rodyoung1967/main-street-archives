@@ -1,8 +1,20 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **active — visual re-review required**
+Status: **IN PROGRESS — paused through 25 November; December and Enterprise pending**
 
-## Latest pause checkpoint — 27 August 2026
+## Latest pause checkpoint — through 25 November 1915
+
+**IN PROGRESS — paused after sheet 110 at the user's requested date limit.**
+
+- **110/123 Courier sheets processed.** This batch: sheets **101–110**, five issues, **40 supplied page images**, all visually inspected. Previous batch: 73–100 / 108 preserved PDFs.
+- **Next: sheet 111, 2 December sequences 1–4.** Remaining Courier: **13 sheets / 46 images**. Enterprise: **0/107 sheets reviewed / 428 images pending**. Total remaining newspaper images: **474**.
+- The 40 original PDFs and alternate IIIF header are saved with manifest, hashes and media IDs **IMG-0162–IMG-0202**; source **S-121**, evidence **E-109**. [Detailed page log, findings and manual callouts](1915-courier-sheets-101-110.md).
+- No new defensible exact 503/505 occupant claim. Dated 507/509/511/519/527 listings extend through November 25; Eddy's at 526 and the electric company's 617 listing are integrated. The former Brunswick's opening as Mass's Hotel and Restaurant is confirmed for calendar-derived October 30.
+- Fifth Street is included: Holman/Randall intersection ads, Scripture & May business-name corroboration without a number, and a Fifth Street crushed-rock/day-labor report. No numbered Fifth occupant change or target-building demolition inferred.
+- **1915-M04:** November 11 sequence 8 is printed “6,” confirmed in PDF and alternate IIIF; holding-library comparison needed. Earlier M01–M03 remain open. These exceptions are not erased by progress counts.
+- December, Enterprise, water-ledger/other-source requirements and unresolved online leads remain unfinished. **1915 is not ONLINE COMPLETE.** Earlier lost caches are not recertified by this batch.
+
+## Previous pause checkpoint — sheet 100, 27 August 2026
 
 Task 1 [integration audit](1915-sheets-073-100-integration-audit.md) reconciles address/register/database links and corrects the Price Bros. incident weekday to Friday. **No additional pages are counted**; the existing pause and source exceptions remain unchanged.
 
@@ -139,10 +151,10 @@ Courier weekly sequence confirmed for **7, 14, 21 and 28 October**.
 - **7 Oct — 10 pages:** prior pages 2,5,6,8 = **OCR/TEXT REVIEWED ONLY**. OCR page 5 lists Harding 511 / Bradley 507 / Brightbill 509 and F. F. Theroux 519 Main. All pages require visual review.
 - **14 Oct — 8 pages:** prior pages 3,7 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
 - **21 Oct — 8 pages:** prior pages 2,4,7 = **OCR/TEXT REVIEWED ONLY**; all require visual review.
-- **28 Oct:** pending visual review.
+- **28 Oct — 8 supplied images:** **VISUALLY VERIFIED**, sheets101–102; S-121/E-109, detailed page log linked above.
 
 ## November and December 1915
-Dedicated month files created during the OCR-assisted pass remain **lead/source captures only** until their cited pages are visually verified. No November or December page should yet be counted toward the visual completeness standard.
+**November:** all32 supplied images in the four eight-image issues are **VISUALLY VERIFIED**, sheets103–110; November 11seq8's printed 6 anomaly remains1915-M04. [Updated November capture](1915-november-courier-review.md). **December remains pending**; its earlier OCR-assisted capture does not certify visual review.
 
 ## Physical-history interpretation — provisional until visual verification
 The OCR-supported 1915 material depicts Main Street as an active existing commercial corridor: resurfacing/repaving plans, organized property owners, Booster Day business-house decorations, active Fifth & Main businesses, a formal paving contract, July removal of old roadway brick while traffic continued, September completion of new pavement through the business section, and repeated exact-address business directories for 507, 509 and 511. These are strong leads and likely valid evidence, but the actual scans must be checked before final year certification. The evidence does **not** establish that the specific pre-fire 505 building survived unchanged, and 505's post-fire occupant remains unresolved.
@@ -151,4 +163,4 @@ The OCR-supported 1915 material depicts Main Street as an active existing commer
 The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its full **visual page-by-page** pass has not yet been completed. The title record confirms digitized archival holdings: https://oregonnews.uoregon.edu/lccn/sn00063700/
 
 ## Current coverage warning
-**1915 is not visually reviewed and is not complete.** Earlier OCR/text work has been retained as a discovery layer, but completion now requires a fresh visual scan review of every available Courier and Enterprise page, with inaccessible scans logged as retrieval gaps rather than negative evidence.
+**1915 remains IN PROGRESS.** Latest checkpoint: Courier through November25, with explicit source exceptions; December and allEnterprise remain pending. Older issue bullets retain historical OCR-only states where superseded by later dated checkpoints. No unfinished page is negative evidence, and no earlier lost cache is freshly certified here.
