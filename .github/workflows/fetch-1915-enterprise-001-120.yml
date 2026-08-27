@@ -1,0 +1,115 @@
+name: Fetch 1915 Enterprise pages 1-120
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/fetch-1915-enterprise-001-120.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download first 120 chronological Enterprise page PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="newspapers/oregon-city-enterprise/1915-pages-001-120"
+          mkdir -p "$out"
+          rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
+          total=0
+          while read -r d; do
+            issue_count=0
+            for n in $(seq 1 40); do
+              nn=$(printf '%02d' "$n")
+              f="$out/${d}-seq-${nn}.pdf"
+              url="https://oregonnews.uoregon.edu/lccn/sn00063700/${d}/ed-1/seq-${n}.pdf"
+              if curl --fail --location --retry 2 --retry-delay 1 --connect-timeout 20 --max-time 120 \
+                   --user-agent "Mozilla/5.0 (main-street-archives research)" -o "$f.tmp" "$url"; then
+                if [ "$(head -c 4 "$f.tmp")" != "%PDF" ]; then
+                  rm -f "$f.tmp"
+                  break
+                fi
+                mv "$f.tmp" "$f"
+                issue_count=$((issue_count+1))
+                total=$((total+1))
+                echo "$total $d seq-$n"
+                if [ "$total" -ge 120 ]; then
+                  break 2
+                fi
+              else
+                rm -f "$f.tmp"
+                break
+              fi
+            done
+          done < <(python - <<'PY'
+          import datetime as dt
+          d=dt.date(1915,1,1)
+          while d.year == 1915:
+              print(d.isoformat())
+              d += dt.timedelta(days=7)
+          PY
+          )
+          test "$total" -eq 120
+          for f in "$out"/*.pdf; do
+            test "$(head -c 4 "$f")" = "%PDF"
+            sha256sum "$f" >> "$out/sha256.txt"
+          done
+
+      - name: Write retrieval manifest
+        shell: python
+        run: |
+          import hashlib, json, pathlib
+          from collections import Counter
+          from datetime import datetime, timezone
+          out=pathlib.Path("newspapers/oregon-city-enterprise/1915-pages-001-120")
+          pdfs=sorted(out.glob("*.pdf"))
+          assert len(pdfs)==120
+          items=[]
+          for i,pdf in enumerate(pdfs, start=1):
+              date=pdf.name[:10]
+              seq=int(pdf.stem.rsplit('-',1)[-1])
+              items.append({
+                  "chronological_page": i,
+                  "file": pdf.name,
+                  "date": date,
+                  "sequence": seq,
+                  "source_url": f"https://oregonnews.uoregon.edu/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf",
+                  "sha256": hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                  "review_status": "PENDING VISUAL REVIEW"
+              })
+          counts=Counter(x['date'] for x in items)
+          manifest={
+              "title":"Morning Enterprise 1915 chronological pages 1-120 archival scan manifest",
+              "newspaper_lccn":"sn00063700",
+              "retrieved_utc":datetime.now(timezone.utc).isoformat(),
+              "page_count":len(items),
+              "issue_page_counts_within_batch":dict(sorted(counts.items())),
+              "items":items
+          }
+          (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+
+      - name: Upload preserved PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1915-enterprise-pages-001-120-pdfs
+          path: newspapers/oregon-city-enterprise/1915-pages-001-120
+          retention-days: 7
+
+      - name: Commit preserved PDFs and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newspapers/oregon-city-enterprise/1915-pages-001-120
+          git commit -m "Archive first 120 1915 Enterprise page scans"
+          git pull --rebase origin main
+          git push origin HEAD:main
