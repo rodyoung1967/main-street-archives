@@ -19,31 +19,33 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install PDF renderer
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
-
-      - name: Download archival page PDFs
+      - name: Download archival page PDFs in parallel
         shell: bash
         run: |
           set -euo pipefail
           out="newspapers/oregon-city-courier/1915-sheets-101-110"
-          render="/tmp/1915-courier-renders"
-          mkdir -p "$out" "$render"
-          rm -f "$out/sha256.txt"
-          dates=(1915-10-28 1915-11-04 1915-11-11 1915-11-18 1915-11-25)
-          for d in "${dates[@]}"; do
+          mkdir -p "$out"
+          rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
+          fetch_one() {
+            d="$1"; n="$2"; nn=$(printf '%02d' "$n")
+            f="$out/${d}-seq-${nn}.pdf"
+            url="https://oregonnews.uoregon.edu/lccn/sn00063698/${d}/ed-1/seq-${n}.pdf"
+            curl --fail --location --retry 3 --retry-delay 1 --connect-timeout 20 --max-time 180 \
+              --user-agent "Mozilla/5.0 (main-street-archives research)" -o "$f" "$url"
+          }
+          export -f fetch_one
+          export out
+          for d in 1915-10-28 1915-11-04 1915-11-11 1915-11-18 1915-11-25; do
             for n in $(seq 1 8); do
-              nn=$(printf '%02d' "$n")
-              f="$out/${d}-seq-${nn}.pdf"
-              url="https://oregonnews.uoregon.edu/lccn/sn00063698/${d}/ed-1/seq-${n}.pdf"
-              echo "Fetching $url"
-              curl --fail --location --retry 5 --retry-delay 2 \
-                --user-agent "Mozilla/5.0 (main-street-archives research)" \
-                -o "$f" "$url"
-              test "$(head -c 4 "$f")" = "%PDF"
-              sha256sum "$f" >> "$out/sha256.txt"
-              pdftoppm -f 1 -singlefile -png -r 170 "$f" "$render/${d}-seq-${nn}" >/dev/null 2>&1
+              bash -c 'fetch_one "$0" "$1"' "$d" "$n" &
+              while [ "$(jobs -rp | wc -l)" -ge 8 ]; do wait -n; done
             done
+          done
+          wait
+          test "$(find "$out" -maxdepth 1 -name '*.pdf' | wc -l)" -eq 40
+          for f in "$out"/*.pdf; do
+            test "$(head -c 4 "$f")" = "%PDF"
+            sha256sum "$f" >> "$out/sha256.txt"
           done
 
       - name: Write retrieval manifest
@@ -73,13 +75,11 @@ jobs:
           }
           (out / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
 
-      - name: Upload PDFs and rendered page images
+      - name: Upload preserved PDFs
         uses: actions/upload-artifact@v4
         with:
-          name: 1915-courier-sheets-101-110
-          path: |
-            newspapers/oregon-city-courier/1915-sheets-101-110
-            /tmp/1915-courier-renders
+          name: 1915-courier-sheets-101-110-pdfs
+          path: newspapers/oregon-city-courier/1915-sheets-101-110
           retention-days: 7
 
       - name: Commit preserved PDFs and manifest
@@ -94,4 +94,5 @@ jobs:
             exit 0
           fi
           git commit -m "Archive 1915 Courier scans through November 25"
+          git pull --rebase origin main
           git push origin HEAD:main
