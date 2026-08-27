@@ -1,0 +1,97 @@
+name: Fetch 1915 Courier sheets 101-110
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/fetch-1915-courier-101-110.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install PDF renderer
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Download archival page PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="newspapers/oregon-city-courier/1915-sheets-101-110"
+          render="/tmp/1915-courier-renders"
+          mkdir -p "$out" "$render"
+          rm -f "$out/sha256.txt"
+          dates=(1915-10-28 1915-11-04 1915-11-11 1915-11-18 1915-11-25)
+          for d in "${dates[@]}"; do
+            for n in $(seq 1 8); do
+              nn=$(printf '%02d' "$n")
+              f="$out/${d}-seq-${nn}.pdf"
+              url="https://oregonnews.uoregon.edu/lccn/sn00063698/${d}/ed-1/seq-${n}.pdf"
+              echo "Fetching $url"
+              curl --fail --location --retry 5 --retry-delay 2 \
+                --user-agent "Mozilla/5.0 (main-street-archives research)" \
+                -o "$f" "$url"
+              test "$(head -c 4 "$f")" = "%PDF"
+              sha256sum "$f" >> "$out/sha256.txt"
+              pdftoppm -f 1 -singlefile -png -r 170 "$f" "$render/${d}-seq-${nn}" >/dev/null 2>&1
+            done
+          done
+
+      - name: Write retrieval manifest
+        shell: python
+        run: |
+          import hashlib, json, pathlib
+          from datetime import datetime, timezone
+          out = pathlib.Path("newspapers/oregon-city-courier/1915-sheets-101-110")
+          items = []
+          for pdf in sorted(out.glob("*.pdf")):
+              date = pdf.name[:10]
+              seq = int(pdf.stem.rsplit("-", 1)[-1])
+              items.append({
+                  "file": pdf.name,
+                  "date": date,
+                  "sequence": seq,
+                  "source_url": f"https://oregonnews.uoregon.edu/lccn/sn00063698/{date}/ed-1/seq-{seq}.pdf",
+                  "sha256": hashlib.sha256(pdf.read_bytes()).hexdigest(),
+              })
+          manifest = {
+              "title": "Oregon City Courier 1915 sheets 101-110 archival scan manifest",
+              "newspaper_lccn": "sn00063698",
+              "retrieved_utc": datetime.now(timezone.utc).isoformat(),
+              "page_count": len(items),
+              "issues": ["1915-10-28", "1915-11-04", "1915-11-11", "1915-11-18", "1915-11-25"],
+              "items": items,
+          }
+          (out / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+
+      - name: Upload PDFs and rendered page images
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1915-courier-sheets-101-110
+          path: |
+            newspapers/oregon-city-courier/1915-sheets-101-110
+            /tmp/1915-courier-renders
+          retention-days: 7
+
+      - name: Commit preserved PDFs and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newspapers/oregon-city-courier/1915-sheets-101-110
+          if git diff --cached --quiet; then
+            echo "No new scan files to commit"
+            exit 0
+          fi
+          git commit -m "Archive 1915 Courier scans through November 25"
+          git push origin HEAD:main
