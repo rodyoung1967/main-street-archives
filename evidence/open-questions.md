@@ -140,5 +140,3 @@ Two models remain live: **(A)** Gates principally at 501, with Wolf beginning at
 
 Highest-value resolution records: the OHS MSS 1503 Block 4 Lots 3–4 abstract, Harding→Wolf/Gates deed(s), Gates/Junken permit or plans, original numbering plat, and first post-fire exact-address tenants. Do not decide from the 1925 use pattern alone.
 
-
-Where did the line fall between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** in the visually verified 13 July sale report (`E-096`), and how did Gates's two-store hollow-tile replacement (`E-097`) map to modern 501/503/505? Two models remain live: Gates principally at 501 with Wolf beginning at 503, or Gates at 501+503 with Wolf beginning near 505. Recover the deed, permit/plans, dimensions, insurance records, and first exact-address tenants; do not decide from the 1925 use pattern alone.

@@ -65,24 +65,15 @@ For this project, the highest-value questions are:
 
 1. Does **S. Wolf** appear as owner/grantee around **1921–1923**?
 2. Does the abstract identify the Wolf family later reported as owning **503 Main from about 1922 to 1972**?
-3. Can the abstract tie modern Block 4 / Lots 3–4 to an earlier cadastral description or predecessor parcel?
+3. Can the abstract trace the **original Block 4 Lots 3–4** Harding chain into the 1922 Wolf/Gates division and later parcel splits?
 4. Does it show a 1922 fire-era transfer, mortgage, insurance, rebuilding, or value-related event?
-5. Can it separate the real-estate chains of **503** and **505**?
+5. Can it distinguish historical lot/title boundaries from the later/current real-estate chains of **503** and **505**?
 
-## Relationship to historic Block 26
+## Relationship to historic Block 26 — Task 6 correction
 
-A separate primary 1906 source in `E-064` places the William Tell Hotel at Sixth & Main on **Lot 8, Block 26, Oregon City**.
+A separate primary 1906 source in `E-064` places the William Tell Hotel at Sixth & Main on **Lot 8, Block 26, Oregon City**. The visually verified 1913 assessment (`S-107` / `E-094`) simultaneously identifies **G. A. Harding at original Block 4 Lots 3–4** and separate owners in Block 26. Task 6 establishes that these are **different original physical blocks on opposite sides of Main**, not successive numbering systems.
 
-A visually verified 1913 assessment notice independently confirms that the original Oregon City system placed:
-
-- **Blocks 7, 6, 5, and 4** on one side of Fifth Street; and
-- **Block 26** immediately across Fifth, extending north toward Sixth Street.
-
-Source: `S-107` / `E-094`
-
-https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-23/ed-1/seq-8.pdf
-
-Therefore the modern/current `Block 4` description used for 503/505 is **not the same original block-numbering system** as the 1906/1913 Block 26 description. The OHS abstract may be especially useful in explaining when/how the later Block 4 description came into use.
+Current 503/505 legal-description leads remain in original **Block 4**; current 504 across Main remains in **Block 26 Lot 5**. The OHS abstract is therefore valuable as a potentially direct **Block 4 title-chain source**, especially for Harding → Wolf/Gates and later parcel splits. It is **not** being sought to explain any Block 26 → Block 4 conversion, because that conversion premise has been withdrawn.
 
 ## Access status
 
@@ -106,7 +97,7 @@ Ask OHS to:
 2. explain whether the index title's **Lots 3 & 4** or the separate Lot column's **3, 4, 5** correctly describes the abstract;
 3. provide a scan or reproduction of the complete title abstract, including its cover, folder label, maps, sketches, continuations, and attachments, if permitted;
 4. include all pages covering ownership from at least **1910 through 1975**;
-5. preserve any older legal descriptions, subdivision/replat references, assessment notations, and building/improvement references that precede current Block 4 wording.
+5. preserve all legal descriptions, subdivision/replat references, assessment notations, lot splits, and building/improvement references that show how original Block 4 Lots 3–4 relate to later 503/505 parcel boundaries.
 6. on receipt, visually inspect every page and synchronize `E-095`, `RL-026`, `OQ-029`, the building pages, ownership register, timeline, source/evidence registers, YAML databases, and ID crosswalk with the result—including an explicit negative result if S. Wolf does not appear.
 
 ## Confidence
@@ -123,7 +114,7 @@ Ask OHS to:
 - Official index row and finding-aid facts: **visually verified / proven source-catalog facts**
 - Connection to the target later/current Block 4 parcel area: **strong retrieval lead**
 - Abstract contents: **MANUAL CALLOUT / unretrieved**
-- S. Wolf, 1922 ownership, improvement ownership, and original Block 26-to-later Block 4 conversion: **unresolved**
+- S. Wolf, 1922 ownership, improvement ownership, and the exact original-Block-4-to-later-parcel chain: **unresolved**
 
 
 ## Task 6 reclassification

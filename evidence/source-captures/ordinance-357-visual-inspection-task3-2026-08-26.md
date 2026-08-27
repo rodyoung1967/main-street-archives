@@ -47,8 +47,8 @@ The visually verified Section 5 notice does **not** provide or prove:
 - treatment of multi-storefront buildings;
 - whether half-addresses such as 505½ were specified by the ordinance;
 - any original-lot or block number;
-- any direct mapping of **501, 503, 505, or 507 Main** to original Block 26 lots/buildings;
-- any connection between original Block 26 and later/current `(2) OREGON CITY, Block 4`.
+- any direct mapping of **501, 503, 505, or 507 Main** to original Block 4 lots/buildings;
+- any cadastral lot-to-address assignment for the target frontage.
 
 None of those rules may be inferred from numbering practices in another Oregon city.
 
@@ -87,12 +87,9 @@ Do not use the later-code chapter as a substitute for the original ordinance unl
 
 Task 3 produces **no new exact address-to-lot mapping**.
 
-The existing `E-094` working conclusion remains unchanged:
+Task 6 subsequently corrected the `E-094` cadastral orientation: the odd-numbered target frontage is original **Block 4**, not Block 26. Current legal-description leads place 503 in part Lot 4 and 505 in parts Lots 3–4, while historic 501's exact original lot remains unresolved.
 
-- **501 / 503 / 505 ≈ original Block 26 Lot 5** — strong map/geometry inference;
-- **507 begins ≈ original Block 26 Lot 6** — strong map/geometry inference.
-
-Those relationships are not promoted to proven fact by Ordinance No. 357 because the ordinance's numbering schedule/plat has not been recovered.
+Nothing in the surviving Ordinance 357 excerpt promotes any exact Block 4 lot-to-address relationship to proven fact because the ordinance's numbering schedule/plat has not been recovered.
 
 The missing **plat/plan**, rather than the surviving Section 5 enforcement language, remains the document most likely to resolve the official 501/503/505/507 assignment.
 
@@ -103,7 +100,7 @@ The missing **plat/plan**, rather than the surviving Section 5 enforcement langu
 - Full numbering formula determined: **NO**.
 - Target addresses mapped to original buildings/lots by ordinance: **NO**.
 - False McMinnville 1908 rule excluded: **YES**.
-- Block 26 / Block 4 systems kept separate: **YES**.
+- Correct target orientation (original Block 4 odd side; Block 26 opposite side) incorporated by Task 6: **YES**.
 
 ## Next task
 
@@ -116,6 +113,6 @@ Priority retrieval routes:
 3. Recorder, engineering, planning, survey, or map indexes referencing house-numbering plats.
 4. Official 1910 Charter and Ordinance compilation for cross-references to the numbering plan.
 5. Later municipal-code legislative/source notes that may identify the originating ordinance or map.
-6. Any surviving Main Street sheet/schedule specifically showing Fifth-to-Sixth / original Block 26 and **501, 503, 505, 507 Main**.
+6. Any surviving Main Street sheet/schedule specifically showing the Fifth-to-Sixth **original Block 4** odd-numbered frontage and **501, 503, 505, 507 Main**, with Block 26 used only as an opposite-side control.
 
 Do not proceed from an inferred numbering formula when the actual plat is the authoritative target.

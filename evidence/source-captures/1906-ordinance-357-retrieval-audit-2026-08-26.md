@@ -9,13 +9,13 @@
 
 This note preserves the Task 2 archival-retrieval work so that the project does not lose the newly narrowed routes while the original municipal record remains inaccessible through the current research environment.
 
-No new exact-address/lot conclusion is created by this note. The original Block 26 / later Block 4 distinction remains unresolved, and the working 501/503/505-to-Lot-5 alignment remains a strong inference rather than cadastral proof.
+No new exact-address/lot conclusion was created by Task 2. **Task 6 later corrected the cadastral orientation:** original Block 4 is the odd-numbered 501/503/505/507 side, while Block 26 is opposite/even. Exact historic lot-to-address assignments still require the numbering plat/title/deed evidence.
 
 ## Existing project anchors
 
 - `E-061` / `S-075`: 1906 primary newspaper evidence establishes formal municipal street-numbering work, mayoral approval of a numbering ordinance, and filing/completion of a plat designating correct numbering with City Recorder W. A. Dimick.
 - `E-105` / `S-119`: the visually verified 3 October 1913 City Recorder notice says a **plat and plan showing the proper street number for all property in Oregon City** remained on file and quotes Section 5 of **Ordinance No. 357**, requiring the assigned number to be placed on buildings.
-- `RL-025`: recover the original ordinance and associated numbering plat/plan, with highest priority on Main Street between Fifth and Sixth / original Block 26.
+- `RL-025`: recover the original ordinance and associated numbering plat/plan, with highest priority on the **original Block 4 odd-numbered frontage** between Fifth and Sixth; use Block 26 only as an opposite-side control.
 
 ## Task 2 findings
 
@@ -80,7 +80,7 @@ Request all of the following together from the Oregon City Recorder / records st
 
 Add this location-specific request:
 
-> Please include any surviving plat, map, schedule, index, attachment, or other record showing the assigned street numbers for **Main Street between Fifth and Sixth Streets**, including the frontage historically described as **Block 26**, and especially numbers **501, 503, 505, and 507 Main**.
+> Please include any surviving plat, map, schedule, index, attachment, or other record showing the assigned street numbers for **Main Street between Fifth and Sixth Streets**, especially the **original Block 4 odd-numbered frontage** containing **501, 503, 505, and 507 Main**. Please also include the opposite-side Block 26 frontage where useful for orientation.
 
 ## Research classification
 
@@ -90,8 +90,8 @@ Add this location-specific request:
 - 1908 100-numbers/odd-even item: **Resolved unrelated source — McMinnville, not Oregon City**.
 - Original Ordinance No. 357 text: **Retrieval gap — not visually inspected**.
 - Original numbering plat/plan contents: **Retrieval gap — not visually inspected**.
-- Exact mapping of 501/503/505/507 to original Block 26 lots/buildings under the official numbering system: **Unresolved**.
-- Original Block 26 / later-current Block 4 conversion: **Unresolved; do not merge the systems**.
+- Exact mapping of 501/503/505/507 to original **Block 4** lots/buildings under the official numbering system: **Unresolved**.
+- Block 26 → Block 4 conversion for the target frontage: **Resolved as a false premise by Task 6**; they are separate original opposite-side blocks.
 
 ## Next task
 

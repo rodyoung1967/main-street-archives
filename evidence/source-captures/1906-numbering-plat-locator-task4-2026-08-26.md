@@ -9,7 +9,7 @@
 
 This checkpoint records where the missing Oregon City street-numbering plat/plan is most likely to survive and distinguishes confirmed custody/history from archival leads. It does **not** interpret any address assignments and creates no new 501/503/505/507-to-lot conclusion.
 
-The existing working alignment remains unchanged: **501/503/505 ≈ original Block 26 Lot 5; 507 begins ≈ original Lot 6**. That is still a strong map/geometry inference, not cadastral or numbering-plat proof.
+**Task 6 later corrected the cadastral orientation:** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. The plat remains essential because the exact original Block 4 lot/building assignments—especially historic 501 and the internal storefront boundaries—are still unresolved.
 
 ## Proven historical custody and creation trail
 
@@ -143,7 +143,7 @@ These are retrieval-gap statements only. They are not evidence that the plat was
 
 ## Exact records-request language
 
-> Please search for the official Oregon City street/house-numbering plat or plan created in 1906 and filed with City Recorder W. A. Dimick. Contemporary Oregon City newspapers reported on 6 July 1906 that a plat designating the correct numbering had been filed with the Recorder, on 17 August 1906 that the completed numbering plat was in the Recorder’s office, and a City Recorder notice on 3 October 1913 stated that a plat and plan showing the proper street number for all Oregon City property remained on file. Please search Ordinance No. 357 supporting records, 1906 council proceedings, permanent maps/plans/drawings, engineering maps, street-name/house-numbering records, and any recorder-filed map or plat indexes. Please include the portion showing Main Street between Fifth and Sixth Streets, original Block 26, especially addresses 501, 503, 505 and 507 Main.
+> Please search for the official Oregon City street/house-numbering plat or plan created in 1906 and filed with City Recorder W. A. Dimick. Contemporary Oregon City newspapers reported on 6 July 1906 that a plat designating the correct numbering had been filed with the Recorder, on 17 August 1906 that the completed numbering plat was in the Recorder’s office, and a City Recorder notice on 3 October 1913 stated that a plat and plan showing the proper street number for all Oregon City property remained on file. Please search Ordinance No. 357 supporting records, 1906 council proceedings, permanent maps/plans/drawings, engineering maps, street-name/house-numbering records, and any recorder-filed map or plat indexes. Please include the portion showing Main Street between Fifth and Sixth Streets, especially the **original Block 4 odd-numbered frontage at 501, 503, 505 and 507 Main**; include Block 26 across Main as an orientation control if shown.
 
 Also request any index entries, accession/container numbers, transfer notes, old file numbers or destroyed/superseded-record notations if the map itself cannot be located.
 
