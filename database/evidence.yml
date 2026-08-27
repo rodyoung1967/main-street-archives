@@ -1347,11 +1347,12 @@ evidence:
     name: OHS MSS 1503 Main/Fifth Title-Abstract Index Entry
     type: Official institutional archival index and collection finding aid
     claims:
-      - The visually verified first page of the official OHS index lists a Box 19 Oregon City item at Main and Fifth whose title says Block 4 Lots 3 & 4 and whose separate Lot field says 3, 4, 5.
-      - The conflicting title and Lot-field values are preserved; the abstract's exact lot scope is unresolved.
-      - The official finding aid places Clackamas County abstracts in Series B Box 19 and describes potential ownership-chain and map content at collection level.
-      - The actual abstract has not been retrieved or inspected, is an open MANUAL CALLOUT, and proves no S. Wolf connection, 1922 ownership, improvement ownership, parcel identity, or Block 26-to-Block 4 conversion.
-    confidence: Very High for index fields and finding-aid facts; Strong retrieval lead; property-history conclusions unresolved.
+      - The visually verified OHS index lists a Box 19 Oregon City item at Main and Fifth whose title says Block 4 Lots 3 & 4 and whose separate Lot field says 3, 4, 5.
+      - The conflicting title and Lot-field values are preserved; the abstract's exact lot scope remains unresolved.
+      - Task 6 establishes original Block 4 as the odd-numbered target frontage and independently places G. A. Harding at Block 4 Lots 3 and 4 in 1913.
+      - The Box 19 abstract is therefore a potentially direct target-property title source rather than a supposed Block 26-to-Block 4 conversion bridge.
+      - The actual abstract remains an open MANUAL CALLOUT and proves no S. Wolf connection, 1922 ownership, improvement ownership, exact parcel identity, or deed boundary until inspected.
+    confidence: Very High for index fields and finding-aid facts; Strong as a correct-side title-chain retrieval lead after Task 6; actual abstract contents and property-history conclusions unresolved.
     related_sources:
       - S-109
       - S-110
