@@ -29,9 +29,17 @@ The 1906 newspaper sequence establishes a formal street-numbering program but, u
 
 The original Ordinance No. 357 scan was **not** recovered in this pass, so its complete section-by-section text, formal passage/approval date, title, signature block, and attachments have not been visually certified. The direct link between the July/August 1906 ordinance reports and the number **357** therefore remains a high-value proposition to test, not a fact to assume.
 
-### Potential 1908 numbering lead requiring visual verification
+### 1908 search-result false lead resolved
 
-A discovery search surfaced a 13 February 1908 *Morning Oregonian* snippet stating that "this city" would soon have a complete house-numbering system; the council had instructed the city attorney to draft an ordinance, with **100 numbers to each block, even numbers on one side and odd numbers on the other**. The retrieved snippet did not securely expose the local dateline identifying "this city" as Oregon City. Until the original page and dateline are visually inspected, this is an **unverified conflict lead only** and must not be folded into Oregon City's chronology or attributed to Ordinance No. 357.
+A discovery search surfaced a 13 February 1908 *Morning Oregonian* item about a city preparing a complete house-numbering system using **100 numbers to each block, even numbers on one side and odd numbers on the other**. The search snippet placed this near Oregon City material and initially created a possible chronology conflict.
+
+The original page was then opened and visually checked. Its headline is **"McMinnville to Number Houses"** and its dateline is **"M'MINNVILLE, Or., Feb. 12."** The following separate item on the page concerns a Clackamas teachers' examination and carries an Oregon City dateline. The house-numbering item therefore concerns **McMinnville, not Oregon City**.
+
+Accordingly:
+
+- the 1908 item is **excluded** from the Oregon City numbering chronology;
+- the **100-numbers-per-block** rule and **odd/even-side** rule in that article must **not** be attributed to Oregon City or Ordinance No. 357;
+- the apparent 1908 conflict is closed as a search-context false positive.
 
 ### Council-volume clue
 
@@ -63,7 +71,7 @@ Request all of the following together from the Oregon City Recorder / records st
 
 1. **Oregon City Ordinance No. 357**, including the full original or official reproduction, enactment/pass/approval dates, title, signature page, and every attachment.
 2. The associated **street/house-numbering plat, plan, map, schedule, index, or attachment** used to assign official numbers and held by City Recorder W. A. Dimick in the 1906–1913 period.
-3. The relevant **1906 and, if necessary, 1907–1908 City Council minutes / ordinance proceedings** showing introduction, passage, approval, filing, amendment, replacement, or implementation of Ordinance 357 and related numbering measures; include the council-minute volume immediately preceding the volume that begins 11 August 1909 at Ordinance 450.
+3. The relevant **1906 City Council minutes / ordinance proceedings** showing introduction, passage, approval, filing, amendment, replacement, or implementation of Ordinance 357 and related numbering measures; include the council-minute volume immediately preceding the volume that begins 11 August 1909 at Ordinance 450.
 4. If available, the official **1910 compilation of the Charter and Ordinances of Oregon City through 8 September 1910**, especially the building-numbering provisions and legislative/source notes.
 5. Any recorder index, ordinance register, engineering map index, planning-file reproduction, or archival cross-reference identifying the survival/location of the original numbering plat.
 
@@ -75,7 +83,8 @@ Add this location-specific request:
 
 - Formal 1906 numbering program and official filed/completed plat: **Very High / established primary newspaper evidence**.
 - Ordinance No. 357 as an ordinance governing assigned building numbers by 1913: **Very High / visually verified 1913 City Recorder notice**.
-- Ordinance No. 357 being identical to the particular July/August 1906 numbering ordinance described in newspapers: **Strong working hypothesis / not yet direct proof**; preserve the August 1906 chronology question and visually test the 1908 lead before upgrading.
+- Ordinance No. 357 being identical to the particular July/August 1906 numbering ordinance described in newspapers: **Strong working hypothesis / not yet direct proof**; preserve the August 1906 chronology question pending the ordinance register/minutes.
+- 1908 100-numbers/odd-even item: **Resolved unrelated source — McMinnville, not Oregon City**.
 - Original Ordinance No. 357 text: **Retrieval gap — not visually inspected**.
 - Original numbering plat/plan contents: **Retrieval gap — not visually inspected**.
 - Exact mapping of 501/503/505/507 to original Block 26 lots/buildings under the official numbering system: **Unresolved**.
