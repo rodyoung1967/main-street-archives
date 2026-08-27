@@ -1,4 +1,4 @@
-name: Fetch 1915 Courier sheets 101-110
+name: Fetch 1915 Courier sheets 111-123
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          out="newspapers/oregon-city-courier/1915-sheets-101-110"
+          out="newspapers/oregon-city-courier/1915-sheets-111-123"
           mkdir -p "$out"
           rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
           fetch_one() {
@@ -35,14 +35,15 @@ jobs:
           }
           export -f fetch_one
           export out
-          for d in 1915-10-28 1915-11-04 1915-11-11 1915-11-18 1915-11-25; do
-            for n in $(seq 1 8); do
+          for spec in "1915-12-02:10" "1915-12-09:10" "1915-12-16:10" "1915-12-23:8" "1915-12-30:8"; do
+            d="${spec%%:*}"; count="${spec##*:}"
+            for n in $(seq 1 "$count"); do
               bash -c 'fetch_one "$0" "$1"' "$d" "$n" &
               while [ "$(jobs -rp | wc -l)" -ge 8 ]; do wait -n; done
             done
           done
           wait
-          test "$(find "$out" -maxdepth 1 -name '*.pdf' | wc -l)" -eq 40
+          test "$(find "$out" -maxdepth 1 -name '*.pdf' | wc -l)" -eq 46
           for f in "$out"/*.pdf; do
             test "$(head -c 4 "$f")" = "%PDF"
             sha256sum "$f" >> "$out/sha256.txt"
@@ -53,7 +54,8 @@ jobs:
         run: |
           import hashlib, json, pathlib
           from datetime import datetime, timezone
-          out = pathlib.Path("newspapers/oregon-city-courier/1915-sheets-101-110")
+          out = pathlib.Path("newspapers/oregon-city-courier/1915-sheets-111-123")
+          counts = {"1915-12-02": 10, "1915-12-09": 10, "1915-12-16": 10, "1915-12-23": 8, "1915-12-30": 8}
           items = []
           for pdf in sorted(out.glob("*.pdf")):
               date = pdf.name[:10]
@@ -64,13 +66,14 @@ jobs:
                   "sequence": seq,
                   "source_url": f"https://oregonnews.uoregon.edu/lccn/sn00063698/{date}/ed-1/seq-{seq}.pdf",
                   "sha256": hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                  "review_status": "PENDING VISUAL REVIEW",
               })
           manifest = {
-              "title": "Oregon City Courier 1915 sheets 101-110 archival scan manifest",
+              "title": "Oregon City Courier 1915 sheets 111-123 archival scan manifest",
               "newspaper_lccn": "sn00063698",
               "retrieved_utc": datetime.now(timezone.utc).isoformat(),
               "page_count": len(items),
-              "issues": ["1915-10-28", "1915-11-04", "1915-11-11", "1915-11-18", "1915-11-25"],
+              "issue_page_counts": counts,
               "items": items,
           }
           (out / "manifest.json").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
@@ -78,8 +81,8 @@ jobs:
       - name: Upload preserved PDFs
         uses: actions/upload-artifact@v4
         with:
-          name: 1915-courier-sheets-101-110-pdfs
-          path: newspapers/oregon-city-courier/1915-sheets-101-110
+          name: 1915-courier-sheets-111-123-pdfs
+          path: newspapers/oregon-city-courier/1915-sheets-111-123
           retention-days: 7
 
       - name: Commit preserved PDFs and manifest
@@ -88,11 +91,11 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add newspapers/oregon-city-courier/1915-sheets-101-110
+          git add newspapers/oregon-city-courier/1915-sheets-111-123
           if git diff --cached --quiet; then
             echo "No new scan files to commit"
             exit 0
           fi
-          git commit -m "Archive 1915 Courier scans through November 25"
+          git commit -m "Archive remaining 1915 Courier December scans"
           git pull --rebase origin main
           git push origin HEAD:main
