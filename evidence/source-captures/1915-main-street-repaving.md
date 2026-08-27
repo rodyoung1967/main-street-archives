@@ -185,3 +185,7 @@ Cadastral caution: **target odd-numbered frontage is original Block 4**, not Blo
 
 The actual Dec. 2 Courier p4 scan was visually inspected in the final December batch (`S-122` / `E-110`). An editorial again describes the **paying of Fifth Street** as an absorbing municipal mystery and refers to the street's recent redressing/work. This corroborates that the Fifth Street improvement/funding dispute remained active into December. It supplies no exact work limits, isolated Fifth-only cost, authorizing record, or evidence that a Main/Fifth storefront was demolished or altered.
 
+## Enterprise visual addendum — 26 March through 9 April 1915
+
+Source `S-123` / evidence `E-111` adds three visually verified stages to the paving chronology. **26 March p1** reports a proposal to reuse serviceable bricks removed from Main Street on Singer Hill. **2 April p1** identifies Main Street improvement among the area's major 1915 public works. **9 April p3** records continued council debate over paving material, including El Oso and asphaltic concrete. These items establish street-surface planning/removal context only; they do not establish demolition, rebuilding, or alteration of 501/503/505.
+

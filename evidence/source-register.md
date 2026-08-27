@@ -793,3 +793,13 @@ Repository: `newspapers/oregon-city-courier/1915-sheets-111-123/`; exact URLs an
 Media: `IMG-0203` through `IMG-0248`.  
 Evidence: `E-110`; detailed review `evidence/source-captures/1915-courier-sheets-111-123.md`.  
 Notes: All 46 supplied December images visually inspected. Dated directories extend Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527 through 30 December; Scripture & May remains unnumbered; Holman/Randall Fifth/Main continues; 2 December p4 extends the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant found; coverage only. Courier inventory reaches 123/123, while 1915 remains IN PROGRESS because Enterprise, other-source work and M01-M04 remain.
+
+
+## S-123 — Morning Enterprise 1915 visual batch, chronological pages 1–120
+Type: Primary newspaper scans / exhaustive visual review.  
+Dates: 1 January–9 April 1915; 15 complete issues, 120 page images.  
+Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063700/YYYY-MM-DD/ed-1/seq-N.pdf  
+Repository: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; exact URLs and SHA-256 hashes in `manifest.json`.  
+Media: `IMG-0249` through `IMG-0368`.  
+Evidence: `E-111`; detailed review `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
+Notes: All 120 scans visually inspected. Holman move to Fifth/Main verified 1 Jan p5; A. J. Eddy/Fashion Stable verified on Fifth between Main and Water; Mar 26, Apr 2 and Apr 9 pages extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth occupant identified; coverage only. Pause after 9 Apr p8; next 16 Apr p1.

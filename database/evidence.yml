@@ -1641,3 +1641,19 @@ evidence:
     related_buildings: [B-003, B-004]
     repository_file: evidence/source-captures/1915-courier-sheets-111-123.md
 
+  - id: E-111
+    name: 1915 Enterprise pages 1–120 visual review
+    type: Primary newspaper visual review of 120 page images
+    claims:
+      - All 120 page images from January 1 through April 9 were visually inspected.
+      - January 1 p5 states R. L. Holman moved to more commodious parlors at Fifth and Main; no number is printed.
+      - January 8 p7 and recurring professional notices place A. J. Eddy at Fashion Stable on Fifth Street between Main and Water Streets; no number is printed.
+      - March 26 p1 reports a proposal to reuse serviceable bricks removed from Main Street on Singer Hill, corroborating physical paving removal/reworking.
+      - April 2 p1 identifies improvement of Main Street among major 1915 public works; April 9 p3 records continued debate over paving material including El Oso and asphaltic concrete.
+      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
+    confidence: Very High for visually verified printed location and public-works wording; exact numbered mapping and target occupancy unresolved.
+    related_sources: [S-123]
+    related_evidence: [E-054]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: evidence/source-captures/1915-enterprise-pages-001-120.md
+

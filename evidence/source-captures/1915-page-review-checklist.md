@@ -1,6 +1,15 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete through 30 December; Enterprise and other-source work pending**
+Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 120/428 images; other-source work pending**
+
+## Latest Enterprise pause checkpoint — chronological page 120 / 9 April 1915
+
+- **120/428 Enterprise page images visually inspected = 30/107 four-page scan sheets.** Fifteen complete issues, Jan. 1 through Apr. 9, eight pages each. Source `S-123`, evidence `E-111`, media `IMG-0249`–`IMG-0368`.
+- Saved originals: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; [detailed visual log](1915-enterprise-pages-001-120.md).
+- **Exact pause:** page 120 = Apr. 9 p8. **Next:** page 121 = Apr. 16 p1. Remaining Enterprise: **308 images / 77 sheets**.
+- Verified additions: Holman moved to Fifth/Main by Jan. 1; A. J. Eddy/Fashion Stable on Fifth between Main and Water; Main Street brick-removal/reuse proposal Mar. 26; major-work context Apr. 2; paving-material debate Apr. 9.
+- No exact 503/505 or new numbered Fifth occupant identified in this batch. Coverage only; no vacancy/non-use inference.
+- Courier remains 123/123; M01–M04, water-ledger/other-source review and year closeout remain open. **1915 is not ONLINE COMPLETE.**
 
 ## Latest Courier completion checkpoint - through 30 December 1915
 

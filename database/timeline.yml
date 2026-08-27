@@ -243,3 +243,15 @@ timeline:
     confidence: High for newspaper report wording; municipal authorizing records and precise segment remain open.
     related_evidence: [E-109]
     related_sources: [S-121]
+
+  - id: T-022
+    date: January 1-April 9, 1915
+    summary: First 120 Morning Enterprise pages visually reviewed. Holman states he moved to Fifth/Main; A. J. Eddy advertises at Fashion Stable on Fifth between Main and Water; March-April reports document Main Street brick removal/reuse planning, major-improvement context, and paving-material debate. No exact 503/505 or new numbered Fifth address is established.
+    confidence: Very High for visually verified printed wording; exact numbered target mapping unresolved
+    related_evidence:
+      - E-111
+    related_buildings:
+      - B-001
+      - B-002
+      - B-005
+

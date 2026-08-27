@@ -243,3 +243,7 @@ Richard / Dick Wiitanen died in November 2024. Family history says 505 Main pass
 
 ## July 1, 2025-June 30, 2030
 The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 Main. Project-steward clarification confirms Alin is also the current operating-business owner; earlier **Alan** wording was a typo. The 505 real estate remains separately owned through 505 LLC.
+
+
+## January–April 1915 — Enterprise visual checkpoint through 9 April 1915
+The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman is at Fifth/Main; A. J. Eddy/Fashion Stable is on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.

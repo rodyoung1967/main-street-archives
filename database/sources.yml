@@ -591,3 +591,8 @@ sources:
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/
     notes: Forty-six supplied single-page PDFs visually inspected from 2 through 30 December 1915; originals and per-page URLs/hashes/statuses in newspapers/oregon-city-courier/1915-sheets-111-123/manifest.json. E-110; IMG-0203 through IMG-0248. Courier inventory reaches 123/123; Enterprise and other-source work remain, with M01-M04 still open.
 
+  - id: S-123
+    name: Morning Enterprise 1915 visual batch, chronological pages 1–120
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-01-01/ed-1/
+    notes: 120 page PDFs from fifteen complete issues, Jan 1 through Apr 9, visually inspected and preserved under newspapers/oregon-city-enterprise/1915-pages-001-120/. Related evidence E-111; media IMG-0249 through IMG-0368. Enterprise pause 120/428 images; next Apr 16 p1.
+

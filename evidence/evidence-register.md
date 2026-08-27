@@ -782,3 +782,10 @@ Record: `evidence/source-captures/1915-courier-sheets-111-123.md`.
 Claims: All 46 supplied December page images were visually inspected. Directories on Dec. 2 p6, Dec. 9 p8, Dec. 16 p8, Dec. 23 p6 and Dec. 30 p6 repeat Bradley 507, Brightbill 509, Harding 511, Theroux 519 and Price Bros. 527. Scripture & May is repeatedly unnumbered; Holman/Randall continues at Fifth/Main. Dec. 2 p4 revisits the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant is established; this is coverage only.  
 Confidence: Very High for readable directory numbers/intersection wording and visual coverage; exact Fifth Street work segment/authority and target occupancy remain unresolved.  
 Related: `E-054`, `E-107`, `E-109`; `BUS-007`, `BUS-026`, `BUS-027`, `BUS-028`, `BUS-029`; `B-003`, `B-004`.
+
+
+## E-111 — 1915 Enterprise pages 1–120 visual review
+Type: Primary newspaper visual review; source `S-123`.  
+Record: `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
+Claims: All 120 page images from 1 January through 9 April were visually inspected. Jan 1 p5 says R. L. Holman moved to Fifth/Main. Jan 8 p7 and recurring notices place A. J. Eddy at Fashion Stable on Fifth between Main and Water. Mar 26 p1 reports proposed reuse of bricks removed from Main Street; Apr 2 p1 identifies Main Street improvement as a major 1915 public work; Apr 9 p3 records the paving-material debate. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
+Confidence: Very High for the visually readable location and public-works wording; exact numbered mapping and target occupancy unresolved.

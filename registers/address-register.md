@@ -22,6 +22,10 @@
 
 **Fifth Street remains in scope.** Holman/Randall's Fifth/Main wording, unnumbered Scripture & May advertisements, numbered 108 Fifth and 513 Fifth records, and the separately documented 109 Fifth record must remain distinct. The completed December Courier batch establishes no new numbered Fifth occupant and no exact 102/104/106/108/110 Fifth listing. The November 25 Fifth Street crushed-rock/day-labor report concerns road work only; exact segment and authority remain RL-043.
 
+### Enterprise visual update through 9 April 1915
+
+**E-111/S-123** adds an unnumbered but useful Fifth Street anchor: A. J. Eddy advertised at **Fashion Stable, Fifth Street between Main and Water Streets**, beginning with the visually verified 8 January p7 notice and recurring in the reviewed period. R. L. Holman's 1 January p5 advertisement separately says he had moved to **Fifth and Main**. Neither relative-location statement is assigned to 501/503/505 or to 102/104/106/108/110 Fifth without an independent numbered source. No new numbered Fifth address was established in Enterprise pages 1–120.
+
 ### Fifth Street address-reconstruction goal
 
 During every remaining year-by-year visual review, actively watch for **numbered Fifth Street addresses—especially the even-numbered 100-series sequence 102, 104, 106, 108 and 110—and location wording such as “between Main and Water,” “between Main and Railroad,” or equivalent intersection/adjacency descriptions**. Preserve each exact number as its own address anchor and use it to reconstruct the historic odd/even geometry and the 1922 fire-area business cluster. Do not infer adjacency, shared walls, or a 503/505 relationship from consecutive numbering alone.
