@@ -23,6 +23,11 @@ jobs:
       - name: Integrate reviewed pages
         run: python3 scripts/integrate_1915_enterprise_001_120.py
 
+      - name: Normalize mirrored names
+        run: |
+          sed -i 's/name: Morning Enterprise 1915 visual batch, chronological pages 1-120/name: Morning Enterprise 1915 visual batch, chronological pages 1–120/' database/sources.yml
+          sed -i 's/name: 1915 Enterprise pages 1-120 visual review/name: 1915 Enterprise pages 1–120 visual review/' database/evidence.yml
+
       - name: Validate archive
         run: python3 scripts/validate_archive.py
 
