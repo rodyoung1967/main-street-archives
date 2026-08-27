@@ -1,6 +1,6 @@
 # Annual Research Status
 
-Audit date: 24 August 2026
+Audit date: 27 August 2026
 Scope: annual online-review work currently documented for 1904–1918.
 
 This is the canonical status register for annual research. The completion levels and certification requirements are defined in `RESEARCH-STANDARD.md`. A legacy targeted, routine, OCR-assisted, or “complete enough for progression” pass does not qualify as `ONLINE COMPLETE` unless every required title, issue, retrievable page, online source class, retrieval gap, and manual callout has been audited.
@@ -22,7 +22,7 @@ This is the canonical status register for annual research. The completion levels
 | 1912 | **IN PROGRESS** | `evidence/source-captures/1912-main-street-research.md` | Targeted reconstruction and selected visual pages only; full title/issue/page inventory and other-source audit not certified. |
 | 1913 | **IN PROGRESS** | `evidence/source-captures/1913-main-street-research.md` | The legacy “routine pass” did not meet the later exhaustive standard; full issue/page visual coverage is not documented. |
 | 1914 | **IN PROGRESS** | `evidence/source-captures/1914-main-street-research.md` | The legacy targeted pass did not meet the later exhaustive standard; full issue/page visual coverage is not documented. |
-| 1915 | **IN PROGRESS** | `evidence/source-captures/1915-courier-sheets-073-100.md`; `evidence/source-captures/1915-page-review-checklist.md` | Paused at Courier 100/123; 108 new supplied PDFs preserved/visually inspected. Next sheet101, October 28. Enterprise 0/107; water-ledger/other-source work pending. January 14 gap, October 14 date conflict and September 2 center pagination callouts remain. |
+| 1915 | **IN PROGRESS** | `evidence/source-captures/1915-courier-sheets-073-100.md`; `evidence/source-captures/1915-courier-sheets-101-110.md`; `evidence/source-captures/1915-page-review-checklist.md` | Courier 110/123 visually reviewed through 25 November; next sheet111, 2 December. 13 Courier sheets / 46 images remain. Enterprise 0/107 / 428 images pending; water-ledger/other-source work pending. Manual/retrieval callouts M01–M04 remain open. |
 | 1916 | **IN PROGRESS** | `evidence/source-captures/1916-online-audit-checkpoint.md`; `evidence/source-captures/1916-courier-visual-audit.md` | Exact online inventory: 104 issues / 884 pages. Courier 6 Jan–16 Mar: 11 issues / 105 pages visually verified; 779 pages remain. Enterprise is pending; the 1916–1917 directory is unretrieved. |
 | 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `evidence/source-captures/1917-courier-review-start.md` | The earlier progression closeout expressly did not cover every relevant title/page; true 13 December page 21 and the Oregon City directory section remain retrieval gaps. |
 | 1918 | **IN PROGRESS** | `evidence/source-captures/1918-review-start.md` | Review has begun but the complete title/issue/page inventory, visual audit, other-source audit, and formal callout list are unfinished. |
