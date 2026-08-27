@@ -575,3 +575,8 @@ sources:
     name: Morning Enterprise, 3 October 1913, Hunsaker & Taylor at 501 Main
     url: https://oregonnews.uoregon.edu/lccn/sn00063701/1913-10-03/ed-1/seq-1.pdf
     notes: Visually verified complete four-page issue. Page 2 identifies Hunsaker & Taylor at 501 Main and says the City Recorder held the official street-numbering plat/plan. Repository PDFs at newspapers/oregon-city-enterprise/1913-10-03-page-1.pdf through page-4.pdf. Related evidence E-104 and E-105.
+
+  - id: S-120
+    name: Courier 1915 visual batch, sheets 73–100
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/
+    notes: 108 supplied PDFs visually inspected through 21 October; originals and exact URLs with hashes in newspapers/oregon-city-courier/1915-sheets-073-100/manifest.json. October14 seq4 date conflict and September2 poster pagination unresolved. E-107; IMG-0054 through IMG-0161. Year remains IN PROGRESS.

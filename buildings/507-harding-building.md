@@ -133,3 +133,7 @@ High-priority evidence to locate:
 - What exact storefront number did Dixon's Bakery occupy in September 1967?
 - Which pre-fire addresses/parcels were consolidated into the present 507-511 building?
 - What permits, assessor cards, plans, or newspaper notices document the 1968 replacement?
+
+## 1915 visual corroboration — 27 August 2026 batch
+
+S-120 / E-107 visually reconfirms the recurring directory: W. W. Bradley at 507 Main, H. P. Brightbill at 509 Main and Geo. A. Harding at 511 Main. Dates/pages are enumerated in `evidence/source-captures/1915-courier-sheets-073-100.md` (August5–October 21). These are printed business-address anchors, not title, construction dates or proof of uninterrupted occupancy. They do not identify a503/505 tenant.

@@ -170,3 +170,9 @@ Complete the interval work started in `evidence/source-captures/1973-1987-503-50
 5. **Oregonian / Oregon Journal microfilm, 1973–1987** where committed clippings and oregonnews access are insufficient.
 
 Preserve the family framework: Dick and Sheila **operated Brass Rail before owning the 505 building**; Hansen belongs to the earlier **505 business** chain; The Wheel belongs only to **503**. Documented interval anchors already include **505 Tavern** in Feb. 1976 (`E-046`), **Wheel Cafe** at 503 in 1983–1985 (`E-047`–`E-049`), and **Dug Inn formerly Brass Rail** in Apr. 1988 (`E-030`).
+
+## RL-042 — 1915 Courier scan attribution and pagination follow-up
+
+Status: Open manual holding-library verification after PDF/alternate-IIIF comparison.
+Source/evidence: S-120 / E-107; `evidence/source-captures/1915-courier-sheets-073-100.md`.
+Action: Resolve numbered callouts1915-M02 (October 14 seq4 carries October 21 date but differs from October 21 seq4) and1915-M03 (September 2 unnumbered oversized center poster between printed5 and8). Ask holding library to verify originals/microfilm and supply/confirm correct attribution/pagination. Do not assume an archive error, printer error, missing pages, or vacancy. Carry prior January 14 callout1915-M01 forward separately. Review progress100/123 is not resolution of these exceptions.

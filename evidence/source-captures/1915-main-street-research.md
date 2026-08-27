@@ -2,6 +2,19 @@
 
 Year status: **IN PROGRESS** — active exhaustive pass.
 
+## Latest pause checkpoint — 27 August 2026
+
+**IN PROGRESS — paused after sheet 100 at the user's request.**
+
+- Courier: **100/123 sheets processed**; new batch **73–100 / 108 supplied PDF images** visually inspected, through **21 October 1915**. Source exceptions are not counted as resolved.
+- Next: **sheet 101, 28 October sequences 1–4**; **23 Courier sheets remain**. Enterprise remains **0/107**.
+- All 108 new PDFs are preserved in the repository with per-image hashes, source URLs, printed-page readings and visual status. Earlier lost caches were not silently recertified.
+- New exception: October 14 seq4 bears an October 21 header; printing error versus archive association unresolved. September 2 center-poster pagination needs holding-library confirmation. January 14 prior gap remains.
+- [Detailed visual log, manifest and numbered manual callouts](1915-courier-sheets-073-100.md), source **S-120**, evidence **E-107**, lead **RL-042**.
+- No defensible exact 503/505 occupant claim was found; silence is not vacancy evidence. Water-ledger and other-source checks remain unfinished.
+
+The August 26 checkpoint below is preserved as history; its restart/count/cache statements are superseded only for this newly saved batch.
+
 ## Pause checkpoint — 26 August 2026
 
 The exhaustive 1915 online pass is deliberately paused and **is not complete**.

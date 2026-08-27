@@ -1553,3 +1553,19 @@ evidence:
     related_buildings:
       - B-006
     repository_file: evidence/E-106-1912-513-fifth-templeton-phillips.md
+
+  - id: E-107
+    name: 1915 Courier batch visual corroboration and coverage
+    type: Primary newspaper visual review
+    claims:
+      - Repeated directories identify W. W. Bradley at 507, H. P. Brightbill at 509, and Geo. A. Harding at 511 Main on the dates listed in the source capture.
+      - Holman and Randall advertise Fifth and Main without a numbered target address; Main repaving reports do not establish target building demolition.
+      - No exact 503 or 505 claim identified in supplied images; this is coverage only, not vacancy evidence.
+    confidence: High for readable notices; date conflict and center-poster pagination unresolved as documented.
+    related_sources:
+      - S-120
+    related_evidence:
+      - E-054
+    related_buildings:
+      - B-003
+    repository_file: evidence/source-captures/1915-courier-sheets-073-100.md

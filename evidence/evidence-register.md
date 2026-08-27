@@ -746,3 +746,10 @@ Sources: `S-118`
 Related record: `evidence/E-106-1912-513-fifth-templeton-phillips.md`
 Claims: A local item says **Mr. and Mrs. H. M. Templeton** planned to return to their home at **513 Fifth Street**, then occupied by **M. D. Phillips and family**. This is an exact residential Fifth Street address, not a commercial/fire-cluster location. The source does not map 513 Fifth to the Main/Water Fifth Street segment, 501/503/505, or the 1922 fire cluster.
 Confidence: Very High for the printed address and stated occupancy; Unresolved for modern parcel mapping and relevance to the target commercial block.
+
+## E-107 — 1915 Courier batch visual corroboration and coverage
+Type: Primary newspaper visual review; source S-120.
+Record: `evidence/source-captures/1915-courier-sheets-073-100.md`.
+Claims: Repeated directories at 507/509/511; Holman/Randall Fifth/Main notices; Main repaving chronology corroborated from scans. No numbered503/505 claim identified, a coverage result only. Detailed dates/pages and manual callouts in record.
+Confidence: High for the cited readable notices; no title/continuous-occupancy inference; October 14 seq4 attribution and September 2 center pagination unresolved.
+Related: B-003; E-054; RL-042. This is not an annual online-completion certification.

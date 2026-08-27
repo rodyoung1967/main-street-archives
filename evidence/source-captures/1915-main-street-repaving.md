@@ -168,3 +168,7 @@ This does **not prove** that a particular building at 505 survived unchanged aft
 - Search for remonstrance/petition lists naming individual Main Street owners.
 - Search for contractor notices, lien notices, improvement assessments, and final acceptance ordinances.
 - Continue looking for direct references to 503, 505, Chicago Store, Harding building, rebuilding, vacancy, demolition, or removal.
+
+## Visual verification addendum — 27 August 2026
+
+S-120 / E-107 and `1915-courier-sheets-073-100.md` now visually verify August12 p1, August19 p1, August 26 p1, September 2 printed10/12, September9 pp5/8, September16 p3, September 23 p5 and October7 p1. September9 predicts completion the next week; September 23 reports assessment/payment and October7 assessment adjustments/payments. This corroborates road-surface work only, not demolition or reconstruction at 503/505. Earlier OCR-only entries outside this batch retain their previous review status.

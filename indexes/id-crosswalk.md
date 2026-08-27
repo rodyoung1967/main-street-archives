@@ -91,3 +91,10 @@ This file connects the archive's ID systems so related records can be audited wi
 ## Maintenance Rule
 
 When a source, evidence item, media item, artifact, person, business, building, or map changes, update this crosswalk if the change affects an ID relationship.
+
+## 1915 Courier sheets73–100 batch
+
+| ID | Connected records | Scope |
+| --- | --- | --- |
+| S-120 | E-107; IMG-0054 through IMG-0161; RL-042 | 108 preserved PDF scans; per-image manifest in newspaper batch folder. |
+| E-107 | S-120; B-003; E-054; RL-042 | Neighboring address and Fifth/Main corroboration, repaving coverage; no503/505 occupancy inference. |

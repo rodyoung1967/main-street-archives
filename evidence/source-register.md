@@ -764,3 +764,12 @@ Type: Primary newspaper; **visually verified complete four-page issue with targe
 Related evidence: `E-104`, `E-105`; cross-reference `E-061`
 Repository source capture: `evidence/source-captures/1912-03-19-1913-10-03-enterprise-visual-review-checkpoint.md`
 Notes: Page 2 prints Hunsaker & Taylor's liquor-license application at **501 Main Street**. The same page says the City Recorder held a plat and plan showing proper street numbers for all Oregon City property and quotes Section 5 of Ordinance No. 357. The issue separately prints Claus Krohn at 421 Main, L. G. Ice in the Beaver Building, and Portland Railway, Light & Power Company's Electric Store at 617 Main / Beaver Building. No visually verified 503 or 505 reference appeared; that is coverage only, not absence evidence.
+
+## S-120 — Courier 1915 visual batch, sheets 73–100
+Type: Primary newspaper scans; all 108 supplied images visually inspected, with date/pagination exceptions.
+Dates: 29 July sequences5–8 through21 October1915 sequences1–8. Retrieved27 August 2026.
+Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD/ed-1/seq-N.pdf
+Repository: `newspapers/oregon-city-courier/1915-sheets-073-100/`; exact URLs, filenames, media IDs and SHA-256 in `manifest.json`.
+Media: IMG-0054 through IMG-0161. Original endpoint filenames recorded; no uploaded source filenames.
+Evidence: E-107; related E-054. Detailed visual audit: `evidence/source-captures/1915-courier-sheets-073-100.md`.
+Limit: October 14 seq4 date conflict; September 2 center-poster pagination unresolved. 1915 remains IN PROGRESS.
