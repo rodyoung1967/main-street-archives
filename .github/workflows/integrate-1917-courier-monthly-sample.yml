@@ -26,8 +26,69 @@ jobs:
       - name: Integrate visually reviewed sample
         run: python3 scripts/integrate_1917_courier_monthly_sample.py
 
-      - name: Show affected business YAML
-        run: nl -ba database/businesses.yml | sed -n '410,570p'
+      - name: Repair business YAML list placement
+        shell: python
+        run: |
+          import re
+          from pathlib import Path
+
+          capture = Path("evidence/source-captures/1917-courier-first-issue-monthly-sample.md").read_text()
+          source_id = re.search(r"^Source: `(S-\d+)`", capture, re.M).group(1)
+          evidence_id = re.search(r"^Evidence: `(E-\d+)`", capture, re.M).group(1)
+
+          path = Path("database/businesses.yml")
+          text = path.read_text()
+
+          def repair_block(text, bus_id):
+              pat = rf"(?ms)(^  - id: {re.escape(bus_id)}\n.*?)(?=^  - id: BUS-|\Z)"
+              m = re.search(pat, text)
+              if not m:
+                  raise SystemExit(f"Missing {bus_id}")
+              block = m.group(1)
+              lines = block.splitlines()
+
+              # The integration helper's multiline regex can leave the two new
+              # list items detached at the end of a business block. Remove the
+              # newly allocated IDs wherever they landed, then add each exactly
+              # once under its intended field.
+              lines = [
+                  line for line in lines
+                  if line.strip() not in {f"- {evidence_id}", f"- {source_id}"}
+              ]
+
+              def add_value(field, value):
+                  for i, line in enumerate(lines):
+                      prefix = f"    {field}:"
+                      if not line.startswith(prefix):
+                          continue
+                      suffix = line[len(prefix):].strip()
+                      if suffix.startswith("[") and suffix.endswith("]"):
+                          vals = [v.strip() for v in suffix[1:-1].split(",") if v.strip()]
+                          if value not in vals:
+                              vals.append(value)
+                          lines[i] = prefix + " [" + ", ".join(vals) + "]"
+                          return
+                      j = i + 1
+                      while j < len(lines) and lines[j].lstrip().startswith("- "):
+                          j += 1
+                      lines.insert(j, f"    - {value}")
+                      return
+                  insert_at = len(lines)
+                  for i, line in enumerate(lines):
+                      if line.startswith("    repository_file:"):
+                          insert_at = i
+                          break
+                  lines[insert_at:insert_at] = [f"    {field}:", f"    - {value}"]
+
+              add_value("related_evidence", evidence_id)
+              add_value("related_sources", source_id)
+              new_block = "\n".join(lines) + "\n"
+              return text[:m.start(1)] + new_block + text[m.end(1):]
+
+          for bus_id in ["BUS-029", "BUS-031", "BUS-039", "BUS-040"]:
+              text = repair_block(text, bus_id)
+
+          path.write_text(text)
 
       - name: Validate after integration
         run: python3 scripts/validate_archive.py
