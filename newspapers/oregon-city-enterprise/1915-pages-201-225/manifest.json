@@ -1,0 +1,243 @@
+{
+  "title": "Morning Enterprise 1915 chronological pages 201-225 archival scan manifest",
+  "newspaper_lccn": "sn00063700",
+  "retrieved_utc": "2026-08-28T06:04:25.545668+00:00",
+  "page_count": 25,
+  "chronological_range": [
+    201,
+    225
+  ],
+  "issue_dates": [
+    "1915-06-25",
+    "1915-07-02",
+    "1915-07-09",
+    "1915-07-16"
+  ],
+  "items": [
+    {
+      "chronological_page": 201,
+      "file": "1915-06-25-seq-01.pdf",
+      "date": "1915-06-25",
+      "sequence": 1,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-1.pdf",
+      "sha256": "c76391ffc9aed85318a9ad660ea38a27eb1f283cda32271edafb45617f9fbdd1",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 202,
+      "file": "1915-06-25-seq-02.pdf",
+      "date": "1915-06-25",
+      "sequence": 2,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-2.pdf",
+      "sha256": "5b8b579fdd8108e55bdf4a70b14016b061397370063f3b37707fc2919c5007ee",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 203,
+      "file": "1915-06-25-seq-03.pdf",
+      "date": "1915-06-25",
+      "sequence": 3,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-3.pdf",
+      "sha256": "922ee48c43e44e17d42b043496562b617408f1c91fc4b869f816d99caeffd29e",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 204,
+      "file": "1915-06-25-seq-04.pdf",
+      "date": "1915-06-25",
+      "sequence": 4,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-4.pdf",
+      "sha256": "22c685ce86f904ddd2b2305430f0574d86233946398f218f09530bab9684e63f",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 205,
+      "file": "1915-06-25-seq-05.pdf",
+      "date": "1915-06-25",
+      "sequence": 5,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-5.pdf",
+      "sha256": "9f539af58d9d33527d232abf772ea53e4f405a3ae1142294af6bbd29936421c7",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 206,
+      "file": "1915-06-25-seq-06.pdf",
+      "date": "1915-06-25",
+      "sequence": 6,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-6.pdf",
+      "sha256": "1c7002b7639119f7336ad701e144a73d797f8cb9a1f1ff540d6393815a98c4df",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 207,
+      "file": "1915-06-25-seq-07.pdf",
+      "date": "1915-06-25",
+      "sequence": 7,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-7.pdf",
+      "sha256": "4c6b28d70f39b13fef6ac2f7a54ca0e66b2aa19c8dfe68add13da4d67231d025",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 208,
+      "file": "1915-06-25-seq-08.pdf",
+      "date": "1915-06-25",
+      "sequence": 8,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-06-25/ed-1/seq-8.pdf",
+      "sha256": "2ae6b417da67466b327a43bdab6473ebf4404f2264a0a6296bae14be685f8438",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 209,
+      "file": "1915-07-02-seq-01.pdf",
+      "date": "1915-07-02",
+      "sequence": 1,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-1.pdf",
+      "sha256": "6dc509713af6e7ed67703f3ce34552bcbc8f8a3901f4991ed531b5f7eba65c3f",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 210,
+      "file": "1915-07-02-seq-02.pdf",
+      "date": "1915-07-02",
+      "sequence": 2,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-2.pdf",
+      "sha256": "f2bc0c9cf8172e7264f63081aa3a15869b35bbe72e6989881000a0c01b212d2c",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 211,
+      "file": "1915-07-02-seq-03.pdf",
+      "date": "1915-07-02",
+      "sequence": 3,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-3.pdf",
+      "sha256": "41360443d39a032aadf4f5cc37d255bf180673360de9e3189e29e40c8c4c69cb",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 212,
+      "file": "1915-07-02-seq-04.pdf",
+      "date": "1915-07-02",
+      "sequence": 4,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-4.pdf",
+      "sha256": "dfb41d32569c305b747163adde9990143eebf0f0df99d57047116d1cc5293b95",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 213,
+      "file": "1915-07-02-seq-05.pdf",
+      "date": "1915-07-02",
+      "sequence": 5,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-5.pdf",
+      "sha256": "8a86bc9008af2baf5f76ddbaa56e5c6b39fce6ab0e042e4cba4e82104d48f9b0",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 214,
+      "file": "1915-07-02-seq-06.pdf",
+      "date": "1915-07-02",
+      "sequence": 6,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-6.pdf",
+      "sha256": "7f5f270ad492befdfe80fd8f28663853b8fd12dd9c74140e8ed4102575323d08",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 215,
+      "file": "1915-07-02-seq-07.pdf",
+      "date": "1915-07-02",
+      "sequence": 7,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-7.pdf",
+      "sha256": "6cd9e3f84365ac135e9486a95789f976dfe22c09a2345b436b8881f324b2e040",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 216,
+      "file": "1915-07-02-seq-08.pdf",
+      "date": "1915-07-02",
+      "sequence": 8,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-02/ed-1/seq-8.pdf",
+      "sha256": "bd1522b937d449802fda8815ac9746d8f7c88fa9be40f4cfaba08a0cd6a75130",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 217,
+      "file": "1915-07-09-seq-01.pdf",
+      "date": "1915-07-09",
+      "sequence": 1,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-1.pdf",
+      "sha256": "583deebfa346a4346dac6e13e31ab31c44ba8d89380d4b5b367cb7f8b4131ef9",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 218,
+      "file": "1915-07-09-seq-02.pdf",
+      "date": "1915-07-09",
+      "sequence": 2,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-2.pdf",
+      "sha256": "ca75cd6351ac065571ae6492f7c30c18df331181bd345f6efdb0b18b4710cc49",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 219,
+      "file": "1915-07-09-seq-03.pdf",
+      "date": "1915-07-09",
+      "sequence": 3,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-3.pdf",
+      "sha256": "8955b67359b4de40fc7686e3362accfb0e7b6ae858a96d902d2349671be4c489",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 220,
+      "file": "1915-07-09-seq-04.pdf",
+      "date": "1915-07-09",
+      "sequence": 4,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-4.pdf",
+      "sha256": "b8d0979a9c41a2eb39774522c24b1abb1b31c741c4877f131b92a89244cf82d7",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 221,
+      "file": "1915-07-09-seq-05.pdf",
+      "date": "1915-07-09",
+      "sequence": 5,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-5.pdf",
+      "sha256": "4fb81d2595404eb4090a71abbbfe50a9fa8647063451d9663a7b54dc73d3b16d",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 222,
+      "file": "1915-07-09-seq-06.pdf",
+      "date": "1915-07-09",
+      "sequence": 6,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-6.pdf",
+      "sha256": "11071b5c9a2d4ed82cd3a39fcacc762df9209e3a237f389ec48b0363f286d782",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 223,
+      "file": "1915-07-09-seq-07.pdf",
+      "date": "1915-07-09",
+      "sequence": 7,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-7.pdf",
+      "sha256": "6902bbae2c4d5cd813342b48fd18c98922a8f78c9be674809015dcc0ebecd7b2",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 224,
+      "file": "1915-07-09-seq-08.pdf",
+      "date": "1915-07-09",
+      "sequence": 8,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-09/ed-1/seq-8.pdf",
+      "sha256": "0763a5cc410ab1eac1546070a8e0c06668fa23c3a3f8ae35ef34f37dcd9dce09",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "chronological_page": 225,
+      "file": "1915-07-16-seq-01.pdf",
+      "date": "1915-07-16",
+      "sequence": 1,
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-16/ed-1/seq-1.pdf",
+      "sha256": "5e46a51cd51821016b3eadbec24dae61fc9d78a5bbbf6dd9b3b66e6883de5bf4",
+      "review_status": "PENDING VISUAL REVIEW"
+    }
+  ]
+}
