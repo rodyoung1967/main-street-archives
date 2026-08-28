@@ -51,3 +51,11 @@ This log records searches, imports, reviews, and research decisions so the proje
 - Import historical photos for 503/505/507 and streetscapes.
 - Decide whether to import the 2025 505 commercial lease or keep only a private summary because it contains modern business terms.
 - Decide whether to import `Main_Street_Archive_v1.docx` as a snapshot or convert it to Markdown and archive the source file separately.
+
+## 2026-08-27 - 1915 Enterprise pages 201-225
+- Visually inspected 25 page scans, 25 June through 16 July p1 (`S-129` / `E-115`).
+- Preserved all original PDFs and hashes in `newspapers/oregon-city-enterprise/1915-pages-201-225/`.
+- Confirmed June 25 Worswick contract award, July 2 bond/guarantee deadlock, and July 9 beginning of physical Main Street rail/preparatory work.
+- No exact 503/505 or new numbered Fifth occupant identified; no negative occupancy inference made.
+- Enterprise pause: 225/428 images; next page 226 = 16 July p2.
+

@@ -185,3 +185,8 @@ The January Holman announcement now establishes a firm **Fifth & Main** south-en
 | 507 Main | W. W. Bradley by 29 July 1915 | direct / high |
 | 509 Main | H. P. Brightbill grocery | direct / high |
 | 511 Main | George A. Harding pharmacy | direct / high |
+
+
+## Enterprise checkpoint through 16 July p1 - S-129 / E-115
+
+Enterprise pages 201-225 were visually reviewed. The batch independently confirms the June 25 Worswick Main Street paving award, the July 2 guarantee/bond dispute, and the July 9 transition into physical Main Street rail/preparatory work. No exact 503/505 occupant or new numbered Fifth Street address was established. Review pauses at July 16 p1; resume at p2.

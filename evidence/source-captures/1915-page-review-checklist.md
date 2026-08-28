@@ -1,6 +1,15 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 200/428 images; other-source work pending**
+Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 225/428 images; other-source work pending**
+
+## Latest Enterprise pause checkpoint - chronological page 225 / 16 July 1915 p1
+
+- **225/428 Enterprise page images visually inspected.** New review covers June 25, July 2 and July 9 in full plus July 16 p1. Source `S-129`, evidence `E-115`, media `IMG-0454`-`IMG-0478`.
+- Saved originals: `newspapers/oregon-city-enterprise/1915-pages-201-225/`; [detailed visual log](1915-enterprise-pages-201-225.md).
+- **Exact pause:** page 225 = July 16 p1. **Next:** page 226 = July 16 p2. Remaining Enterprise: **203 images**.
+- Verified additions: June 25 Worswick contract award; July 2 bond/guarantee deadlock; July 9 security terms and physical Main Street rail/preparatory work beginning.
+- No exact 503/505 or new numbered Fifth occupant identified. Coverage only; no vacancy/non-use inference.
+- Courier remains 123/123; M01-M04, water-ledger/other-source review and year closeout remain open. **1915 is not ONLINE COMPLETE.**
 
 ## Latest Enterprise pause checkpoint - chronological page 200 / 18 June 1915
 

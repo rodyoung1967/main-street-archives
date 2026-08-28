@@ -842,3 +842,12 @@ Repository: `newspapers/oregon-city-enterprise/1915-pages-161-200/`; exact URLs 
 Media: `IMG-0414` through `IMG-0453`.  
 Evidence: `E-114`; detailed review `evidence/source-captures/1915-enterprise-pages-161-200.md`.  
 Notes: All 40 scans visually inspected. June 4 p1 directly places Cox's poolhall on Main between Seventh and Eighth, excluding 503 for that raid-period hall; June 4 p3 advances the Main Street improvement/cluster-light chronology; W. S. Eddy/Fashion Stable and Holman & Randall continuity are retained without invented numbers. No exact 503/505 or new numbered Fifth occupant; coverage only.
+
+
+## S-129 - Morning Enterprise 1915 visual batch, chronological pages 201-225
+Type: Primary newspaper scans / exhaustive visual review.  
+Dates: 25 June-16 July 1915; 25 page images (three complete issues plus 16 July p1).  
+Repository: `newspapers/oregon-city-enterprise/1915-pages-201-225/`; exact URLs and SHA-256 hashes in `manifest.json`.  
+Media: `IMG-0454` through `IMG-0478`.  
+Evidence: `E-115`; detailed review `evidence/source-captures/1915-enterprise-pages-201-225.md`.  
+Notes: All 25 scans visually inspected. June 25 confirms the Worswick Main Street paving award; July 2 records the bond/guarantee deadlock; July 9 records security terms and actual Main Street rail/preparatory work beginning. No exact 503/505 or new numbered Fifth occupant; coverage only. Pause after 16 July p1; next p2.

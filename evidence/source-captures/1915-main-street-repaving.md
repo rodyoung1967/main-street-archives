@@ -98,6 +98,16 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-24/ed-1/seq-1/ocr/
 
 Council accepted the Worswick paving bid at **$1.20 per square yard**, with a total contract cap of **$14,184** and a maintenance bond.
 
+## 25 June-9 July 1915 - Enterprise contract and work-start sequence
+
+**Morning Enterprise; visually verified under S-129 / E-115.**
+
+- **25 June p5:** Worswick is reported as the only bidder and is awarded the Main Street asphaltic-concrete paving contract at $1.20 per yard, with a 10-year guarantee condition and maximum stated improvement cost of $14,184. Portland Railway, Light & Power track adjustment is to precede the new street surface.
+- **2 July p3:** City Attorney Schuebel and paving representatives remain deadlocked over bond/guarantee terms, showing that the award did not immediately settle contract security.
+- **9 July p3:** the paper reports two bonds plus a 15-percent deposit as protection for the city and separately says **Main Street work begins at last**, with Portland Railway, Light & Power starting track/rail preparation before paving work follows.
+
+This independently strengthens the transition from contract award to actual on-street preparation. It is evidence about street and rail work, not storefront demolition or target-building alteration.
+
 ## 8 July 1915 — bond settled; work expected shortly
 
 **Oregon City Courier, 8 July 1915, p. 3**

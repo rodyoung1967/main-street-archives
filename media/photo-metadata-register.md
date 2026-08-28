@@ -708,3 +708,35 @@ All 40 original page PDFs are VISUALLY VERIFIED. Exact source URLs and SHA-256 h
 | IMG-0452 | `newspapers/oregon-city-enterprise/1915-pages-161-200/1915-06-18-seq-07.pdf` | 1915-06-18 / seq7 / printed7 |
 | IMG-0453 | `newspapers/oregon-city-enterprise/1915-pages-161-200/1915-06-18-seq-08.pdf` | 1915-06-18 / seq8 / printed8 |
 
+## Morning Enterprise 1915 pages 201-225 - S-129 / E-115
+
+All 25 original page PDFs are VISUALLY VERIFIED. Exact source URLs and SHA-256 hashes are in `newspapers/oregon-city-enterprise/1915-pages-201-225/manifest.json`.
+
+| Media ID | Repository file | Issue / sequence |
+| --- | --- | --- |
+| IMG-0454 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-01.pdf` | 1915-06-25 / seq1 / printed1 |
+| IMG-0455 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-02.pdf` | 1915-06-25 / seq2 / printed2 |
+| IMG-0456 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-03.pdf` | 1915-06-25 / seq3 / printed3 |
+| IMG-0457 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-04.pdf` | 1915-06-25 / seq4 / printed4 |
+| IMG-0458 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-05.pdf` | 1915-06-25 / seq5 / printed5 |
+| IMG-0459 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-06.pdf` | 1915-06-25 / seq6 / printed6 |
+| IMG-0460 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-07.pdf` | 1915-06-25 / seq7 / printed7 |
+| IMG-0461 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-06-25-seq-08.pdf` | 1915-06-25 / seq8 / printed8 |
+| IMG-0462 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-01.pdf` | 1915-07-02 / seq1 / printed1 |
+| IMG-0463 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-02.pdf` | 1915-07-02 / seq2 / printed2 |
+| IMG-0464 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-03.pdf` | 1915-07-02 / seq3 / printed3 |
+| IMG-0465 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-04.pdf` | 1915-07-02 / seq4 / printed4 |
+| IMG-0466 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-05.pdf` | 1915-07-02 / seq5 / printed5 |
+| IMG-0467 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-06.pdf` | 1915-07-02 / seq6 / printed6 |
+| IMG-0468 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-07.pdf` | 1915-07-02 / seq7 / printed7 |
+| IMG-0469 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-02-seq-08.pdf` | 1915-07-02 / seq8 / printed8 |
+| IMG-0470 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-01.pdf` | 1915-07-09 / seq1 / printed1 |
+| IMG-0471 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-02.pdf` | 1915-07-09 / seq2 / printed2 |
+| IMG-0472 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-03.pdf` | 1915-07-09 / seq3 / printed3 |
+| IMG-0473 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-04.pdf` | 1915-07-09 / seq4 / printed4 |
+| IMG-0474 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-05.pdf` | 1915-07-09 / seq5 / printed5 |
+| IMG-0475 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-06.pdf` | 1915-07-09 / seq6 / printed6 |
+| IMG-0476 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-07.pdf` | 1915-07-09 / seq7 / printed7 |
+| IMG-0477 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-09-seq-08.pdf` | 1915-07-09 / seq8 / printed8 |
+| IMG-0478 | `newspapers/oregon-city-enterprise/1915-pages-201-225/1915-07-16-seq-01.pdf` | 1915-07-16 / seq1 / printed1 |
+

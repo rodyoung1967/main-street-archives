@@ -1706,3 +1706,18 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     repository_file: evidence/source-captures/1915-enterprise-pages-161-200.md
 
+  - id: E-115
+    name: 1915 Enterprise pages 201-225 visual review
+    type: Primary newspaper visual review of 25 page images
+    claims:
+      - All 25 page images from June 25 through July 16 page 1 were visually inspected.
+      - June 25 page 5 independently confirms the Worswick Main Street paving contract award, a $1.20-per-yard bid, a 10-year guarantee condition, and a maximum improvement cost of $14,184.
+      - July 2 page 3 records an unresolved paving bond/guarantee deadlock.
+      - July 9 page 3 records two-bond and 15-percent security terms and says actual Main Street rail/preparatory work had begun before paving.
+      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
+    confidence: Very High for visually verified public-works wording; target occupancy and building effects unresolved.
+    related_sources: [S-129]
+    related_evidence: [E-114]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: evidence/source-captures/1915-enterprise-pages-201-225.md
+
