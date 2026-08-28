@@ -6,6 +6,8 @@ Purpose: consolidate the remaining high-value evidence gaps for the July 1922 Fi
 
 This is not an annual closeout or a determination of the fire's modern address.
 
+Later executed checkpoints: [Tasks 2–4](1922-tasks-2-4-online-retrieval-attempt-2026-08-28.md), [Tasks 5–6](1922-tasks-5-6-identity-review-2026-08-28.md), [Task 7 model test](1922-task-7-fire-origin-model-test-2026-08-28.md), and [Task 8 handoff](1922-task-8-integration-handoff-2026-08-28.md). The eight-task targeted package is checkpointed; title/geometry/identity questions remain open. The model test produced an unresolved result without new spatial evidence, not a selected model. The original retrieval checklist below remains useful and is cross-referenced to eight manual callouts in the handoff.
+
 ## Established starting point
 
 - The target odd-numbered Main Street frontage is original **Block 4**, not Block 26 (`E-094`, `E-108`).

@@ -83,6 +83,8 @@ The two August reports independently corroborate the buyer's fuller initials, th
 
 ## Consequence for the 501 / 503 / 505 reconstruction
 
+Current synthesis: [28 August Task 7 model test](1922-task-7-fire-origin-model-test-2026-08-28.md) explicitly tests the following alternatives without selecting either. [Task 8 handoff](1922-task-8-integration-handoff-2026-08-28.md) consolidates the missing title, plan and occupant bridges. The source readings below are unchanged.
+
 The visually verified 1925 Sanborn (`S-021`) shows, from the Fifth Street corner northward:
 
 - **501 — store**, with `TILE` notation;

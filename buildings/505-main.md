@@ -85,6 +85,8 @@ The best next test is assessor cards **1938–1942**, Oregon City Building Divis
 
 ### July–August 1922 Gates/Wolf property division
 
+Final targeted reassessment: the [28 August Task 7 model test](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) keeps both the 505-adjoining-hall hypothesis and the near-505 Wolf-origin alternative unproved. The 1925 billiards/cigars use cannot be backdated to July 1922 or assigned to Timms/Leland & Little. No model is selected, and Gates's reported construction does not date the surviving 505 building without a footprint bridge. [Task 8](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) consolidates the remaining records to retrieve.
+
 A visually verified 13 July sale notice reports that Harding's Main Street store group was divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** (`E-096`). The preserved 20 July fire page names Wolf as owner of the ignition building and a pool hall as adjoining the former Schieremann tailor room (`E-103`). August construction reports then identify Gates's corner restaurant site as a two-story hollow-tile replacement with two ground-floor storerooms (`E-097`).
 
 The evidence does not assign modern 505 to either buyer. If the Gates replacement principally mapped to 501, 505 remains compatible with the adjoining pool hall in the working **503 ignition / 505 pool** reconstruction. If both Gates stores became the 1925 501+503 pair, Wolf's remainder could begin near 505, making 505 itself or a room farther north a stronger ignition candidate. No permit, deed dimension, or tenant address presently chooses between these models.

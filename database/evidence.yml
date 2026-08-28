@@ -1589,8 +1589,11 @@ evidence:
       - Chicago Store exact-address evidence at 505 plus the December 1913 primary OCR/text report naming George Harding as building owner creates a strong Harding-to-505 bridge, pending visual certification of that owner wording.
       - The July 1922 Harding sale division and the fire report strongly connect S. Wolf's reported remainder to the Wolf-owned ignition building, but do not establish the exact 501/503/505 storefront boundary.
       - Gates-at-501 and Gates-at-501-plus-503 remain competing hypotheses; the 503-ignition/505-pool-hall reconstruction remains a working hypothesis and 501 remains live.
+      - August 28 current-plan model test selects neither model and establishes no comparative ranking. Both assume an unproved Gates-to-501 correspondence and are not exhaustive. Post-fire footprint, pre-fire property division and actual ignition room each require separate bridges.
+      - E-113 identity findings add no spatial discriminator. Excluding the OCR-only 1913 owner claim and secondary Wolf-family date still leaves the strong published property-group connection but no numbered room. Task 8 handoff retains online work and eight open 1922-F manual callouts; no annual certification.
     confidence: Very High for Block 4 orientation and Harding Lots 3-4; High/strong inference for the Harding property/Wolf chain; Strong multi-source inference for Harding-to-505 with owner wording OCR/text-only pending visual certification; exact storefront mapping unresolved.
     related_sources:
+      - S-021
       - S-032
       - S-107
       - S-109
@@ -1604,6 +1607,7 @@ evidence:
       - B-002
       - B-003
       - B-005
+    related_evidence: [E-032, E-094, E-095, E-096, E-097, E-103, E-104, E-113]
     repository_file: evidence/E-108-block4-harding-address-property-bridge.md
 
   - id: E-109

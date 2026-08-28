@@ -34,6 +34,8 @@ The visually verified 20 July fire report names S. Wolf of Portland as owner of 
 
 ## Confidence
 
+The [28 August model test](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) retains this published allocation but selects neither storefront model. Deed/abstract and premises-geometry requirements are consolidated as `1922-F01`–`1922-F04` in the [handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md).
+
 - **Very High** for the visually verified published names, businesses, and allocation.
 - **High / strong inference** that the reported S. Wolf remainder is the same immediate property chain as the S. Wolf fire-origin building.
 - **Unresolved** for deed-level title, legal boundaries, full identities, and modern-storefront mapping.

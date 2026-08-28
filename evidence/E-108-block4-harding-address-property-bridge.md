@@ -26,6 +26,12 @@ Cross-source cadastral/property synthesis using visually verified primary eviden
 
 Neither model is established. **501 remains a live fire-origin alternative** until the Fifth Street Restaurant footprint is proved. The working 503-ignition / 505-adjoining-pool-hall reconstruction remains a hypothesis, not a finding.
 
+## 28 August 2026 model-test result
+
+The [current-plan Task 7 evidence matrix](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) tests both models against the sale, fire, construction, occupant, map and identity evidence. **Neither is established or ruled out; no comparative ranking is demonstrated.** Both assume an unproved Gates-to-501 correspondence, so they are not exhaustive and cannot eliminate 501 by themselves. A post-fire building footprint is not automatically the pre-fire ownership division, and even a proven Wolf parcel would not identify the ignition room without a separate premises bridge.
+
+Tasks 5–6 added no spatial discriminator (`E-113`). The strong property-group inference survives exclusion of the OCR-only 1913 owner claim and secondary Wolf-family/date estimate, but still does not yield a numbered room. Earlier references to the 503-origin/505-hall hypothesis as “strongest” should be read as a research priority, not a proven ranking. The [Task 8 handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md) records remaining online work and eight open `1922-F` manual callouts. No new source-image review or annual certification is claimed.
+
 ## Highest-value unresolved bridges
 
 1. OHS MSS 1503 Box 19 title abstract — Block 4 Lots 3 & 4 / Main & Fifth (`E-095`).
@@ -36,7 +42,7 @@ Neither model is established. **501 remains a live fire-origin alternative** unt
 
 ## Sources and related evidence
 
-Primary/official source IDs used directly: `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`.
+Primary/official source IDs used directly: `S-021`, `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`. The Task 7 comparison additionally distinguishes the secondary inventory (`E-032`), earlier license notices (`E-104`), and bounded identity result (`E-113`) from spatial proof.
 
 Related evidence: `E-094`, `E-095`, `E-096`, `E-097`, `E-103`, `E-104`.
 

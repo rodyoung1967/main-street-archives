@@ -119,6 +119,8 @@ When a source, evidence item, media item, artifact, person, business, building, 
 
 ## 1922 Tasks 5–6 identity and visual-verification checkpoint
 
+Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) refines `E-108` and connects `E-094`–`E-097`, `E-103`, `E-104`, `E-113`, `SM-008`, `B-001`/`B-002`/`B-005`, `P-035`/`P-036`/`P-046` and `BUS-012` **without new identity, ownership or occupancy assignments**. [Task 8 handoff](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) consolidates eight `1922-F` callouts and remaining online work. Neither model selected; 1922 IN PROGRESS. No IDs renumbered or new IDs needed for the synthesis.
+
 | ID | Connected records | Scope |
 | --- | --- | --- |
 | E-113 | S-125–S-127; P-046; BUS-012; T-024; OQ-031; RL-040 | Direct Springfield Miller association; candidate comparisons do not establish buyer identities or property boundaries. |

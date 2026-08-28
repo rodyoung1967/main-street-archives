@@ -6,6 +6,8 @@ Publication reconciliation: retained the concurrent 1915 review through `285dab5
 
 Scope follows the saved 1922 research/model plan: **Task 5 = identity links; Task 6 = visual verification of newly recovered sources**. These numbers are not the older cadastral Task 6/Task 7 labels in earlier captures.
 
+Subsequent checkpoint: the steward authorized Tasks 7–8 after this batch was saved. The [model test](1922-task-7-fire-origin-model-test-2026-08-28.md) and [handoff](1922-task-8-integration-handoff-2026-08-28.md) now record that continuation; the stop-before-Task-7 wording below preserves this batch's original boundary. Identity findings and source hashes are unchanged.
+
 **Result:** bounded identity search and five-page visual batch completed. A new primary notice directly names Gilbert Miller with the Springfield Wolf & Miller firm. S. Wolf's full identity, the Oregon City C. E. Gates buyer's full identity, the Wolf partner's name, and the later 503 Wolf-family connection remain unresolved. No identity merger, property-boundary decision, or annual completion certification is made.
 
 ## New direct Miller association — S-125 / E-113

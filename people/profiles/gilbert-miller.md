@@ -8,6 +8,8 @@ The visually inspected 3 February 1916 *Lane County News* front-page item “To 
 
 ## Chronology and limits
 
+The later [Tasks 7–8 handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) leaves this identity evidence unchanged. It supplies no spatial discriminator for the fire models; partner/family originals remain `1922-F08`, and exact pre-fire premises require independent address evidence.
+
 Existing visually verified 1918 move notices and 1922 Oregon City shoe-repair material strongly support the broader Gilbert Miller chronology. The *Eugene Daily Guard*, 20 August 1918, prints **C. E. Miller**, while the *Springfield News*, 22 August, prints **Gilbert Miller**. Preserve that primary-source discrepancy; do not create an alias equating the names as fact.
 
 The 1918 Wolf & Miller advertisement places the firm at 505 Main, but does not name its partners. The new 1916 notice is not itself a 505 occupancy record. The later signed advertisement identifies Gilbert at 209 Fifth in September 1922; the full-name connection to Miller's Shoe Store at 419 Main remains a strong continuity inference.

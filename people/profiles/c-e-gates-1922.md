@@ -20,6 +20,8 @@ The common transaction and property context strongly supports treating July `C. 
 
 ## Next records
 
+Tasks 7–8 checkpoint: [model test](../../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) selects neither replacement footprint and does not expand this buyer's initials. The [handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) maps title and construction/tenant retrieval to `1922-F01`–`1922-F04`. A full name would assist retrieval but not substitute for geometry.
+
 The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) inspected original 1920 Portland Gates entries (`S-126`) without identifying this buyer. A scanned 1990 nomination names the Medford candidate **Charles Edwin “Pop” Gates**, wife **Leah A. Farmsley** (`S-127`, secondary). Neither a merger nor conclusive exclusion is justified; the buyer's full name remains unresolved.
 
 - Harding-to-Wolf/Gates deed and grantor/grantee index entry.

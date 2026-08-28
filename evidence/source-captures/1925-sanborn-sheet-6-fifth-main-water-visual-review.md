@@ -117,6 +117,8 @@ https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
 ## Next checks
 
+The [28 August 1922 model test](1922-task-7-fire-origin-model-test-2026-08-28.md) reuses this verified 1925 snapshot without treating uses, laundry alignment, room orientation or boundaries as July 1922 facts. It selects neither Gates/Wolf model. No new map-image inspection or measurement is claimed. See the [Task 8 handoff](1922-task-8-integration-handoff-2026-08-28.md) for the missing title/plan/occupant bridges.
+
 1. Compare Sheet 6 building outlines to the two project laundry photographs.
 2. Determine whether the first west-facing laundry photo matches the 1925 laundry footprint.
 3. Trace 1922–1925 building permits/newspaper construction notices for a laundry rebuild.

@@ -28,6 +28,8 @@ Those are separate candidates or networks until a deed, directory, probate, part
 
 ## Next records
 
+Tasks 7–8 checkpoint: [model test](../../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) leaves the buyer identity, land-versus-building interest and exact room unresolved. The [handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) maps the next records to `1922-F01`/`1922-F02` (buyer/title), `1922-F07` (later 503 owners) and `1922-F08` (partner/family). No candidate merger.
+
 The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) visually verifies the original 1920 Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf directory entries (`S-126`). It also directly identifies Gilbert Miller with the Springfield firm in 1916 (`E-113`), but supplies no bridge from any Wolf candidate to this purchaser or later 503 ownership. Full identity remains unresolved.
 
 - Harding-to-Wolf/Gates deed and grantor/grantee index entry.

@@ -156,6 +156,8 @@ Two storefront models remain open. If the Gates corner was principally modern 50
 ## 1922 — integrated Harding / Gates / Wolf property bridge
 `E-108` synthesizes the corrected original Block 4 framework with the 1913 Harding Lots 3–4 assessment, the strong Harding↔505 Chicago Store building-owner lead, the July 1922 Harding property division, and the Wolf-owned ignition-building report. The property-group chain is strong, but the exact Gates/Wolf wall is unresolved: Gates principally at 501 and Gates at 501+503 remain competing models. Do not promote the working 503-ignition / 505-pool-hall model to fact, and keep 501 live until the restaurant footprint is proved.
 
+The [28 August 2026 Task 7 reassessment](evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) explicitly selects neither model and establishes no comparative ranking. Two Gates rooms do not identify 501+503, a post-fire footprint does not establish the pre-fire division, and a Wolf parcel would not by itself locate the ignition room. [Task 8](evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) preserves unfinished online work and eight open manual callouts; 1922 remains IN PROGRESS.
+
 ## 1924 — directory source exists, pages still needed
 A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as a local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
 

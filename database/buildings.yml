@@ -2,7 +2,7 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
-    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. The July 1922 Gates/Wolf division leaves 503 unresolved between two models; it may begin Wolf's remainder or belong to Gates's two-store corner replacement. Also includes c.1919 surviving-building estimate and 503/505 boundary questions.
+    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. The July 1922 Gates/Wolf division leaves 503 unresolved between two models; it may begin Wolf's remainder or belong to Gates's two-store corner replacement. Also includes c.1919 surviving-building estimate and 503/505 boundary questions. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff.
     related_businesses:
       - BUS-001
       - BUS-002
@@ -27,6 +27,7 @@ buildings:
       - P-035
       - P-036
     related_evidence:
+      - E-108
       - E-001
       - E-002
       - E-003
@@ -76,7 +77,7 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila ran Brass Rail at 505 before they owned the building, then later purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Wiitanen property ownership continued through Dick's Nov. 2024 death, after which the building passed through his estate to Rodney and Mitchell Young. The July 1922 Gates/Wolf division does not decide whether 505 adjoined Wolf's remainder or lay within it.
+    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila ran Brass Rail at 505 before they owned the building, then later purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Wiitanen property ownership continued through Dick's Nov. 2024 death, after which the building passed through his estate to Rodney and Mitchell Young. The July 1922 Gates/Wolf division does not decide whether 505 adjoined Wolf's remainder or lay within it. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff.
     related_businesses:
       - BUS-005
       - BUS-006
@@ -116,6 +117,7 @@ buildings:
       - P-035
       - P-036
     related_evidence:
+      - E-108
       - E-004
       - E-005
       - E-006
@@ -199,6 +201,7 @@ buildings:
       - P-041
       - P-042
     related_evidence:
+      - E-108
       - E-016
       - E-017
       - E-020
@@ -243,8 +246,9 @@ buildings:
   - id: B-005
     name: 501 Main Street (historic / removed)
     address: 501 Main Street, Oregon City, Oregon
-    notes: 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown.
+    notes: 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
     related_evidence:
+      - E-108
       - E-020
       - E-021
       - E-054

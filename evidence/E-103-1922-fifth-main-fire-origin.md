@@ -37,7 +37,9 @@ Five days before the fire, `S-111` / `E-096` reported George A. Harding's named 
 
 ## Current storefront assessment
 
-The report remains compatible with the strongest working reconstruction—**503 predecessor as ignition room and 505 as adjoining pool hall**—but it does not prove it. **501 remains a live alternative.** Later 1925 Sanborn uses may guide hypothesis formation but cannot be backdated to July 1922.
+The report remains compatible with the working reconstruction—**503 predecessor as ignition room and 505 as adjoining pool hall**—but it does not prove it. **501 remains a live alternative.** Later 1925 Sanborn uses may guide hypothesis formation but cannot be backdated to July 1922.
+
+The [28 August model test](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) qualifies the earlier “strongest” wording: it was a working research preference, not a demonstrated ranking over the Gates-501+503 alternative. Neither model is selected, neither is exhaustive, and a property boundary alone would not identify the particular ignition room. Source wording and conflicts are unchanged.
 
 ## Confidence
 

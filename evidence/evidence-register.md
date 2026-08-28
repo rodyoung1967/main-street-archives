@@ -759,11 +759,13 @@ Related: B-003; B-004; BUS-007; BUS-026 through BUS-029; P-001; P-041 through P-
 
 ## E-108 — Block 4 Harding Address-to-Property Bridge
 Type: Cross-source cadastral/property synthesis  
-Dates: 1911–1925 evidence synthesized 26 August 2026  
-Sources: `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`  
+Dates: 1911–1925 evidence synthesized 26 August 2026; model test/handoff updated 28 August 2026
+Sources: `S-021`, `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`
 Related record: `evidence/E-108-block4-harding-address-property-bridge.md`  
 Claims: Task 7 establishes a defensible bridge from corrected original **Block 4** through **G. A. Harding's Lots 3–4**, the Harding/505 Chicago Store building-owner lead, and the July 1922 Harding→Gates/Wolf property division. The evidence strongly links Wolf's newly reported remainder to the Wolf-owned fire-origin building but does **not** identify the exact 501/503/505 dividing wall. Current 503 overlaps Lot 4 and 505 overlaps Lots 3–4 as current legal-description leads; modern boundaries are not backdated. Two Gates/Wolf storefront models remain live, and 501 remains a fire-origin alternative.  
 Confidence: Very High for Block 4 orientation and Harding Lots 3–4; High/strong inference for the Harding-property/Wolf chain; Strong multi-source inference for Harding↔505 with the December 1913 owner wording still primary OCR/text-only; exact 1922 storefront mapping unresolved.
+
+Current-plan Task 7: [evidence matrix and failure tests](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) select neither A nor B and establish no comparative ranking. Both presume a Gates-to-501 correspondence; 501 and other arrangements remain live. Post-fire footprint and pre-fire division require separate proof, as do a Wolf parcel and the actual ignition room. `E-113` supplies no spatial discriminator. [Task 8 handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md) retains remaining online work and eight open manual callouts. No new primary observation or annual completion claim.
 
 ## E-109 — 1915 Courier through November 25 — addresses, Mass opening and Fifth Street work
 

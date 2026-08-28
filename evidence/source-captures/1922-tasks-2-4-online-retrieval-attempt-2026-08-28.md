@@ -38,6 +38,8 @@ This records reasonable online recovery attempts and their limits. It does **not
 
 ## Decision and continuation boundary
 
+Later status: [Task 7](1922-task-7-fire-origin-model-test-2026-08-28.md) tests the resulting evidence with a precise unresolved outcome; [Task 8](1922-task-8-integration-handoff-2026-08-28.md) cross-references these requests as `1922-F01`–`1922-F04` and lists unfinished online work. No target record or address is retroactively treated as recovered.
+
 Tasks 2–4 have a documented online recovery attempt and precise next retrieval routes, but they are **not complete as historical questions**. Keep `OQ-031` and Models A/B unresolved. Do not mark 1922 online-complete or change the 501/503/505 fire-origin classification unless an actual primary record is retrieved and visually inspected.
 
 ## Related records

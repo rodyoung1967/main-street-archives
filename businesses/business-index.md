@@ -1,5 +1,7 @@
 # Business Index
 
+1922 targeted handoff: [Tasks 7–8](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) retain Wolf & Miller's dated 505 evidence and Gilbert's Springfield association without extending occupancy, naming the July adjoining pool hall, or merging businesses. The model test adds no new business/address assignment.
+
 | ID | Business | Address | Notes |
 |---|---|---|---|
 | BUS-001 | [Kwality Cafe](kwality-cafe.md) | 503 Main | Early cafe/restaurant occupant; City synthesis reports 1926 Kwality Restaurant ads and 1947 directory. |

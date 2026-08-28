@@ -9,6 +9,8 @@ Purpose: preserve the property sequence around the July 1922 Fifth/Main-area fir
 
 ## Primary fire source
 
+Latest targeted synthesis: the [28 August Task 7 model test](1922-task-7-fire-origin-model-test-2026-08-28.md) retains the strong published Harding/Wolf connection but selects neither storefront model or comparative ranking. The familiar 503-origin/505-hall reconstruction remains a hypothesis; 501 and other arrangements remain live. [Task 8 handoff](1922-task-8-integration-handoff-2026-08-28.md) consolidates eight open manual callouts and unfinished online work. No new scan observation is claimed by that synthesis.
+
 **Banner-Courier, 20 Jul 1922, p. 1** reports that the major July 1922 fire destroyed the Oregon City Laundry and several neighboring businesses.
 
 Registered source/evidence: `S-117` / `E-103`

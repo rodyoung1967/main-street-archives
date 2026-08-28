@@ -2,6 +2,8 @@
 
 This register tracks reported, documented, and open ownership or stewardship claims. **Property ownership, business ownership, business operation, and liquor-license ownership are separate questions. The 503 Wheel business and the 505 tavern business are separate ownership chains.**
 
+The [28 August 1922-model reassessment](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) leaves the July rows below as **published ownership wording**, not deed-proven modern-address assignments. Blake's restaurant-owner wording and Gates's property-owner wording are not automatically contradictory. Neither storefront model is selected; title interests, pre/post-fire boundaries and the specific ignition room require separate proof. Retrieval priorities are `1922-F01`–`1922-F03` and `1922-F07` in the [handoff](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md).
+
 | Period | Address | Person / Entity | Role | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | 23 Oct. 1913 assessment | Original Block 4, Lot 3 | G. A. Harding | Listed assessed owner | `E-094`, `E-108` / `S-107` | Very High for the printed assessment listing | Correct target-side cadastral anchor; current 505 is reported as including part Lot 3. Not proof that modern parcel lines existed in 1913/1922. |

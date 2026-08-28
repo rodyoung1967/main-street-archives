@@ -1,5 +1,7 @@
 # Address Register
 
+1922 model-test checkpoint: [Task 7](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) selects neither Gates-principally-501 nor Gates-501+503; 501 remains live and the ignition room/pool-hall operator remains unassigned. [Task 8](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) retains online work and eight manual callouts. Neighboring Main/Fifth address anchors remain dated observations, not backdated fire premises.
+
 | Address | Building ID | Primary Page | Related Businesses | Related Evidence | Notes |
 | --- | --- | --- | --- | --- | --- |
 | 501 Main Street, Oregon City, Oregon (historic / removed) | `B-005` | `buildings/501-main.md` | `BUS-024` Palace Saloon (1912); `BUS-025` Hunsaker & Taylor liquor premises (1913); 1925 store occupant unresolved | `E-020`, `E-021`, `E-054`–`E-056`, `E-094`, `E-096`, `E-097`, `E-104`, `E-108` | Task 6 places the odd-numbered frontage in original Block 4; 501's exact Block 4 lot remains unresolved. The 1912 and 1913 liquor notices prove separately named premises, not business/ownership continuity. Gates's 1922 corner replacement may map principally here or may include 503. Distinct structure present in 1936 and gone by 1944. |

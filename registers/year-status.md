@@ -1,7 +1,7 @@
 # Annual Research Status
 
-Audit date: 27 August 2026
-Scope: annual online-review work currently documented for 1904–1918.
+Audit date: 28 August 2026
+Scope: annual online-review work currently documented for 1904–1918, plus the targeted 1922 fire/property checkpoint.
 
 This is the canonical status register for annual research. The completion levels and certification requirements are defined in `RESEARCH-STANDARD.md`. A legacy targeted, routine, OCR-assisted, or “complete enough for progression” pass does not qualify as `ONLINE COMPLETE` unless every required title, issue, retrievable page, online source class, retrieval gap, and manual callout has been audited.
 
@@ -26,6 +26,7 @@ This is the canonical status register for annual research. The completion levels
 | 1916 | **IN PROGRESS** | `evidence/source-captures/1916-online-audit-checkpoint.md`; `evidence/source-captures/1916-courier-visual-audit.md` | Exact online inventory: 104 issues / 884 pages. Courier 6 Jan–16 Mar: 11 issues / 105 pages visually verified; 779 pages remain. Enterprise is pending; the 1916–1917 directory is unretrieved. |
 | 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `evidence/source-captures/1917-courier-review-start.md` | The earlier progression closeout expressly did not cover every relevant title/page; true 13 December page 21 and the Oregon City directory section remain retrieval gaps. |
 | 1918 | **IN PROGRESS** | `evidence/source-captures/1918-review-start.md` | Review has begun but the complete title/issue/page inventory, visual audit, other-source audit, and formal callout list are unfinished. |
+| 1922 | **IN PROGRESS** | `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md`; `evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md` | Eight-task targeted package checkpointed, not annual certification. Complete title/issue/page inventory and visual audit remain unfinished; prior 928-page OCR discovery is not visual coverage. Neither fire model selected; eight open 1922-F manual callouts and specific online/image gaps retained in handoff. |
 
 ## Shared manual-work callouts
 

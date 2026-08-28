@@ -35,6 +35,8 @@ The 1925 Sanborn's corner sequence—501 store with tile notation, 503 restauran
 
 ## Confidence
 
+The [28 August model test](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) finds no basis to select 501-only versus 501+503. Two storerooms do not establish their orientation or numbers; projected occupancy is not an opening record. Even a proved replacement footprint requires a separate bridge to the pre-fire division. See `1922-F03`/`1922-F04` in the [handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md).
+
 - **Very High** for construction, ownership wording, material, use plan, contractor, and projected completion.
 - **High** for continuity of July `C. Gates` with August `C. E. Gates` in this exact property sequence.
 - **Plausible / unproven** for 501+503 as the two Gates Main-facing storerooms.

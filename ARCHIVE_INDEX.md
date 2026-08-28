@@ -18,7 +18,7 @@ Important reading rule: **business ownership/operation and building ownership ar
 
 ## Location Index
 
-Latest 1922 identity checkpoint: [Tasks 5–6 audit](evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) (`E-113`, `S-125`–`S-127`) preserves a direct Springfield [Gilbert Miller](people/profiles/gilbert-miller.md) association, original directory candidates, and the secondary Medford Gates comparison. Buyer identities and property boundaries remain unresolved; no annual status changes.
+Latest 1922 targeted checkpoint: [Task 7 model test](evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) and [Task 8 handoff](evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md). Neither fire/boundary model is selected; 501 remains live. The handoff lists remaining online work and eight manual callouts; 1922 is explicitly **IN PROGRESS**. The [Tasks 5–6 identity audit](evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) (`E-113`, `S-125`–`S-127`) preserves the direct Springfield [Gilbert Miller](people/profiles/gilbert-miller.md) association and unmerged Wolf/Gates candidates.
 
 ### 501 Main Street (historic / removed)
 
