@@ -842,3 +842,10 @@ Claims: Official high-resolution scans directly verify the Block 4 sequence **51
 Confidence: **Very High** for visually readable numbers, classifications, sequence and repeated V marks; **High-confidence interpretation** for V=vacant; **Moderate hypothesis** for blank row=505; **Probable only** for Scripture & May at 110. Exact month within the 1914–15 ledger span and faint target tenants remain unresolved.  
 Related: `B-001`, `B-002`, `B-005`; `evidence/source-captures/1914-1917-505-vacancy-assessment.md`; `evidence/source-captures/scripture-may-108-fifth-predecessor-lead.md`.
 
+## E-118 — 1915–1916 Polk gazetteer FamilySearch access audit
+Type: Source-access audit / retrieval-gap evidence; source `S-132`.
+Record: `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
+Claims: FamilySearch catalog `1439422` is linked through four direct image ARKs for the 1915–1916 R. L. Polk Oregon/Washington gazetteer. The catalog and direct viewer route redirected to FamilySearch sign-in in the available browser; no authenticated external browser session or accessible alternate complete scan was recovered. No directory image was visually inspected and no address, occupant, business, vacancy or absence conclusion is drawn.
+Disposition: **RETRIEVAL GAP / MANUAL CALLOUT `1915-D01`**. Retrieve and visually inspect the complete Oregon City section before using the directory as historical evidence.
+Confidence: Very High for the four indexed ARKs and observed sign-in barrier; none for directory contents.
+

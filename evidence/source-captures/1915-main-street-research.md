@@ -14,7 +14,7 @@ This file is the current human-readable overview for 1915. The detailed page-by-
 | Enterprise restart | **Chronological page 226 = 16 July 1915 p2** |
 | Enterprise remaining | **203 page images** |
 | Water ledger | **Relevant 1914–1915 Book 3 target/Fifth-Main audit complete**; exact-date and faint-handwriting bridge questions preserved |
-| Other online source classes | Additional directory, municipal, property, map, historic-resource, photograph and related-source audit still pending where applicable |
+| Other online source classes | 1915–16 Polk gazetteer identified as FamilySearch catalog 1439422/four parts, but images are sign-in restricted (`S-132`/`E-118`; manual callout `1915-D01`); additional property, map, historic-resource, photograph and related-source audit remains pending |
 | Courier source exceptions | **1915-M01 through M04 remain open** pending alternate-online recovery and/or manual confirmation |
 | Year closeout | **Not ONLINE COMPLETE** |
 
@@ -166,6 +166,10 @@ These are unresolved research questions, not statements that the events or occup
 4. **Make reasonable online recovery attempts for Courier M01–M04.** Any issue that remains inaccessible or physically ambiguous after online attempts must be precisely copied into the numbered manual-work callout list.
 5. **Run the final 1915 integration/consistency audit:** source register, evidence register, address/business/building/person files, timeline, YAML sidecars and year-status register must agree.
 6. **Write the formal 1915 closeout record** and only then determine whether the year qualifies as `ONLINE COMPLETE`.
+
+### Directory retrieval gap — 1915-D01
+
+The four-part R. L. Polk *Oregon and Washington State Gazetteer and Business Directory, 1915–1916* is now pinned to FamilySearch catalog **1439422** and four exact image ARKs (`S-132` / `E-118`). The catalog and direct viewer route require FamilySearch sign-in, no authenticated external session was available, and no alternate complete scan was recovered. Therefore **no Oregon City directory page was visually reviewed and no occupant finding—positive or negative—was made**. The complete target list and FamilySearch Center/affiliate-library retrieval route are recorded in the [access audit](1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md).
 
 ## Research targets that remain active
 

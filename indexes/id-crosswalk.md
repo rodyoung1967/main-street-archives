@@ -138,3 +138,9 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 | P-047; P-048; P-049; P-050; P-051 | E-116; S-130 | Hall, Anderson, Martin, Holman, Randall; initials preserved. |
 | BUS-033; BUS-034; BUS-035; BUS-036 | E-116; S-130 | Gas branch, chiropractic practice, undertaking establishment, Raasch/Lamb. |
 | BUS-007/BUS-026/BUS-027/BUS-028/BUS-029/BUS-031 | E-116; P-001/P-041/P-042/P-044 | Dated neighborhood ad confirmations; no new proprietor or transfer inference. |
+
+## 1915–1916 Polk gazetteer access audit
+
+| IDs | Connected records | Scope |
+| --- | --- | --- |
+| S-132 / E-118 / RL-044 | B-001; B-002; B-003; B-005; manual callout 1915-D01 | FamilySearch catalog 1439422 and four image ARKs identified; sign-in barrier observed. No directory page reviewed and no occupant, vacancy or absence claim. |

@@ -198,3 +198,9 @@ Status: **Open online follow-up**, with Brunswick opening/name subquestions reso
 **December Courier completion - E-110/S-122:** all 46 December pages were visually reviewed. The five directory pages extend Bradley507 / Brightbill509 / Harding511 / Theroux519 / Price Bros.527 through December30. Scripture & May remains unnumbered; no 102/104/106/108/110 Fifth address, exact 503/505 occupant, or target-frontage construction/demolition claim emerged. December2 p4 extends the Fifth Street improvement/payment controversy.
 
 Next routes: Enterprise scans, contemporary exact-number directories, municipal reports and property records when testing a real-estate claim. Courier is 123/123 processed, but M01-M04 remain source/pagination callouts; unfinished online leads are not relabeled manual.
+
+## RL-044 — Retrieve the 1915–1916 Polk Oregon/Washington gazetteer Oregon City pages
+
+Status: **MANUAL CALLOUT `1915-D01` / RETRIEVAL GAP**. FamilySearch catalog **1439422** and all four direct image ARKs are identified in `S-132` / `E-118`, but the available catalog and viewer redirect to sign-in. No page image was reviewed and no accessible alternate complete scan was recovered.
+
+Use authenticated FamilySearch access, a FamilySearch Center/affiliate library, or another holding to retrieve the complete Oregon City section. Visually inspect and preserve the title/publication pages and all applicable alphabetical/classified pages for **501, 503, 505, 507, 509, 511 Main**; Hylton, Harding, Bradley, Brightbill, Cox, Holman/Randall, Scripture/May; and numbered Fifth Street entries, especially 102/104/106/107/108/110 and stable/blacksmith/Fashion Stable listings. Record exact pages and section type. Do not treat the access barrier or directory silence as vacancy, non-use or absence. Full route/ARK record: `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.

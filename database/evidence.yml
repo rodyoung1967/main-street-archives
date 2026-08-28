@@ -1765,3 +1765,15 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     repository_file: evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md
 
+  - id: E-118
+    name: 1915–1916 Polk gazetteer FamilySearch access audit
+    type: Source-access audit and retrieval-gap evidence
+    claims:
+      - FamilySearch catalog 1439422 is linked through four indexed image ARKs for the R. L. Polk 1915–1916 Oregon and Washington state gazetteer and business directory.
+      - The catalog and direct image-viewer route redirected to FamilySearch sign-in; no authenticated external browser session or accessible alternate complete scan was recovered.
+      - No directory page was visually inspected and no address, occupant, business, vacancy or absence conclusion is drawn.
+    confidence: Very High for the indexed ARKs and observed sign-in barrier; none for directory contents.
+    related_sources: [S-132]
+    related_buildings: [B-001, B-002, B-003, B-005]
+    repository_file: evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md
+

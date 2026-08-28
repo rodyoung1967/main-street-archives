@@ -868,3 +868,11 @@ Related evidence: `E-117`.
 Repository source capture: `evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md`.  
 Notes: The full City source is 139 scanned PDF pages; this project audit preserves/reviews the relevant downtown extracts, not an exhaustive transcription of all 139 pages. Target printed p5 shows 511→509→507→blank/V→503→503½→501; comparison p4 supplies independent V tenant marks at 523 and 521, strongly supporting V as vacancy notation. Printed p3 supplies 110 Fifth/Stable; p5 supplies 107 Fifth/Blacksmith. The blank target row remains unnumbered and is not promoted to exact 505.
 
+## S-132 — Oregon and Washington State Gazetteer and Business Directory, 1915–1916
+Publisher: R. L. Polk & Co.
+FamilySearch catalog: `1439422`; catalog URL: https://www.familysearch.org/en/search/catalog/1439422
+Parts: four direct FamilySearch image ARKs, preserved in `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
+Type/status: Primary directory identified; **RETRIEVAL GAP / MANUAL CALLOUT**. The catalog and image viewer redirected to sign-in; no directory page was visually reviewed or saved.
+Evidence: `E-118`; lead `RL-044`; manual callout `1915-D01`.
+Notes: Catalog/index discovery proves neither an occupant nor absence. Search 501–511 Main, named operators and numbered Fifth Street only after the actual Oregon City pages are retrieved.
+
