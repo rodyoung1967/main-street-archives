@@ -247,3 +247,7 @@ The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 
 
 ## January–April 1915 — Enterprise visual checkpoint through 9 April 1915
 The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman is at Fifth/Main; A. J. Eddy/Fashion Stable is on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
+
+
+## Spring 1915 - Holman & Randall formation and Main Street planning
+Visually reviewed *Morning Enterprise* pages now show Holman at Fifth/Main by January and report on **7 May** that T. P. Randall and R. L. Holman would form **Holman & Randall** in Holman's undertaking establishment **on Main Street near Fifth**. Separate April-May reports document the Worswick paving decision sequence, a Main Street cluster-light proposal and possible delay after removal of the city engineer (`E-112`). These are relative-location/public-realm facts only; they do not establish 501/503/505 building alteration or exact Holman numbering.

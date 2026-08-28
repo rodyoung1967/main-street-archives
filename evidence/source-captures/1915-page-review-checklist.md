@@ -1,6 +1,15 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 120/428 images; other-source work pending**
+Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 160/428 images; other-source work pending**
+
+## Latest Enterprise pause checkpoint - chronological page 160 / 14 May 1915
+
+- **160/428 Enterprise page images visually inspected = 40/107 four-page scan sheets.** Five new complete issues, Apr. 16 through May 14. Source `S-124`, evidence `E-112`, media `IMG-0369`-`IMG-0408`.
+- Saved originals: `newspapers/oregon-city-enterprise/1915-pages-121-160/`; [detailed visual log](1915-enterprise-pages-121-160.md).
+- **Exact pause:** page 160 = May 14 p8. **Next:** page 161 = May 21 p1. Remaining Enterprise: **268 images / 67 sheets**.
+- Verified additions: W. S. Eddy/Fashion Stable on Fifth between Main and Water; May 7 formation of Holman & Randall at Main near Fifth; additional Main Street paving decision/cluster-light/engineer-delay chronology.
+- No exact 503/505 or new numbered Fifth occupant identified. Coverage only; no vacancy/non-use inference.
+- Courier remains 123/123; M01-M04, water-ledger/other-source review and year closeout remain open. **1915 is not ONLINE COMPLETE.**
 
 ## Latest Enterprise pause checkpoint — chronological page 120 / 9 April 1915
 

@@ -803,3 +803,12 @@ Repository: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; exact URLs 
 Media: `IMG-0249` through `IMG-0368`.  
 Evidence: `E-111`; detailed review `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
 Notes: All 120 scans visually inspected. Holman move to Fifth/Main verified 1 Jan p5; A. J. Eddy/Fashion Stable verified on Fifth between Main and Water; Mar 26, Apr 2 and Apr 9 pages extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth occupant identified; coverage only. Pause after 9 Apr p8; next 16 Apr p1.
+
+
+## S-124 - Morning Enterprise 1915 visual batch, chronological pages 121-160
+Type: Primary newspaper scans / exhaustive visual review.  
+Dates: 16 April-14 May 1915; five complete issues, 40 page images.  
+Repository: `newspapers/oregon-city-enterprise/1915-pages-121-160/`; exact URLs and SHA-256 hashes in `manifest.json`.  
+Media: `IMG-0369` through `IMG-0408`.  
+Evidence: `E-112`; detailed review `evidence/source-captures/1915-enterprise-pages-121-160.md`.  
+Notes: All 40 scans visually inspected. W. S. Eddy/Fashion Stable is placed on Fifth between Main and Water; 7 May reports formation of Holman & Randall at Holman's Main-near-Fifth undertaking establishment; April-May reports extend the Main Street paving/cluster-light chronology. No exact 503/505 or new numbered Fifth occupant; coverage only.

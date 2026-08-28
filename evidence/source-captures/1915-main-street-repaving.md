@@ -65,6 +65,18 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1915-04-29/ed-1/seq-1/
 
 The council cleared the El Oso ordinance and moved toward an asphaltic-concrete specification favored by the property owners. Estimated cost was roughly $15,500. The article also refers to money still due on the **last Main Street paving job**, further confirming a resurfacing/replacement context.
 
+## 16 April-7 May 1915 - Enterprise decision and streetscape sequence
+
+**Morning Enterprise; visually verified under S-124 / E-112.**
+
+- **16 April p7:** Councilman Cox explains his opposition during the pavement-material dispute.
+- **23 April p5:** council action follows a well-signed Main Street property-owner petition favoring Worswick pavement and directs preparation of plans/specifications.
+- **30 April p5:** the council passes the Main Street improvement resolution and continues the Worswick specification process.
+- **7 May p1:** Portland Gas & Coke representatives discuss possible cluster lighting for Main Street; no definite installation is established by this item.
+- **7 May p3:** removal of City Engineer Noble is reported as potentially delaying the Main Street improvement.
+
+This sequence strengthens the administrative/public-realm chronology. It does **not** establish demolition, relocation or alteration of a 501/503/505 storefront.
+
 ## 24 June 1915 — contract awarded
 
 **Oregon City Courier, 24 June 1915, p. 1**

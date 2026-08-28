@@ -1657,3 +1657,18 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     repository_file: evidence/source-captures/1915-enterprise-pages-001-120.md
 
+  - id: E-112
+    name: 1915 Enterprise pages 121-160 visual review
+    type: Primary newspaper visual review of 40 page images
+    claims:
+      - All 40 page images from April 16 through May 14 were visually inspected.
+      - W. S. Eddy is repeatedly listed at Fashion Stable on Fifth Street between Main and Water Streets; no street number is printed.
+      - May 7 p5 reports T. P. Randall and R. L. Holman forming Holman & Randall at Holman's undertaking establishment on Main Street near Fifth; no numbered address is printed.
+      - April 16, April 23, April 30 and May 7 reports extend the Main Street paving decision chronology; May 7 also records a cluster-light proposal and possible paving delay after removal of the city engineer.
+      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
+    confidence: Very High for visually verified printed location and public-works wording; exact numbered mapping and target occupancy unresolved.
+    related_sources: [S-124]
+    related_evidence: [E-054, E-111]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: evidence/source-captures/1915-enterprise-pages-121-160.md
+

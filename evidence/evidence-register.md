@@ -789,3 +789,10 @@ Type: Primary newspaper visual review; source `S-123`.
 Record: `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
 Claims: All 120 page images from 1 January through 9 April were visually inspected. Jan 1 p5 says R. L. Holman moved to Fifth/Main. Jan 8 p7 and recurring notices place A. J. Eddy at Fashion Stable on Fifth between Main and Water. Mar 26 p1 reports proposed reuse of bricks removed from Main Street; Apr 2 p1 identifies Main Street improvement as a major 1915 public work; Apr 9 p3 records the paving-material debate. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
 Confidence: Very High for the visually readable location and public-works wording; exact numbered mapping and target occupancy unresolved.
+
+
+## E-112 - 1915 Enterprise pages 121-160 visual review
+Type: Primary newspaper visual review; source `S-124`.  
+Record: `evidence/source-captures/1915-enterprise-pages-121-160.md`.  
+Claims: All 40 page images from 16 April through 14 May were visually inspected. W. S. Eddy is repeatedly placed at Fashion Stable on Fifth between Main and Water, without a number. On 7 May p5 T. P. Randall and R. L. Holman are reported forming Holman & Randall at Holman's undertaking establishment on Main near Fifth. April-May reports document successive planning/resolution steps for Main Street paving, a cluster-light proposal and a potential delay after removal of the city engineer. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
+Confidence: Very High for visually readable business-location and public-works wording; exact numbered mapping and target occupancy unresolved.

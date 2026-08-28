@@ -255,3 +255,12 @@ timeline:
       - B-002
       - B-005
 
+  - id: T-023
+    date: Spring 1915
+    summary: Morning Enterprise visual review verifies the May 7 formation of Holman & Randall at Holman's undertaking establishment on Main Street near Fifth and extends the April-May Main Street paving/streetscape planning sequence. Relative location only; no 501/503/505 mapping or building alteration is established.
+    confidence: Very High for visually verified report wording; exact numbered premises unresolved
+    related_evidence:
+      - E-112
+    related_buildings:
+      - B-005
+

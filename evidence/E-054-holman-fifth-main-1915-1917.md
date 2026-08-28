@@ -1,7 +1,7 @@
 # E-054 — Holman / Randall Undertaking Business at Fifth & Main, 1915–1917
 
 Type: Primary newspaper advertisements  
-Sources: `S-064`, `S-065`, `S-066`; supplemental batch `S-120` / `E-107`
+Sources: `S-064`, `S-065`, `S-066`; supplemental batches `S-120` / `E-107` and `S-124` / `E-112`
 
 ## Claims Supported
 
@@ -24,3 +24,7 @@ Related research lead: `RL-019`.
 ## October 28–November 25, 1915 corroboration
 
 E-109/S-121 visually verifies Holman/Randall Fifth/Main advertisements on October 28 pp 2/7, November 4 p 7, November 11 p 7/seq 8, November 18 pp 2/7 and November 25 p 7. No numbered Fifth address or501 Main equation is supplied. November 11seq8's printed 6 pagination anomaly is tracked separately as1915-M04.
+
+## 7 May 1915 partnership formation
+
+The visually verified *Morning Enterprise* report on 7 May p5 says **T. P. Randall and R. L. Holman would become partners** in the undertaking establishment then conducted by Holman **on Main Street near Fifth**, and that the firm would be known as **Holman & Randall** (`S-124` / `E-112`). This supplies a formation milestone before the 17 June Fifth-and-Main advertisement. It does not print 501 Main or a numbered Fifth address.
