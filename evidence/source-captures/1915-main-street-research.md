@@ -1,192 +1,167 @@
 # 1915 Main Street Research
 
-Year status: **IN PROGRESS** — active exhaustive pass.
+Year status: **IN PROGRESS — exhaustive online pass active**.
 
-## Courier completion checkpoint - through 30 December 1915
+This file is the current human-readable overview for 1915. The detailed page-by-page audit trail, historical pause checkpoints, source exceptions, and restart accounting remain in [1915-page-review-checklist.md](1915-page-review-checklist.md).
 
-The *Oregon City Courier* supplied scan inventory is now **123/123 sheets processed through year end**. The final 46 December images are visually verified and preserved under `S-122` / `E-110`. Five December directories extend the 507/509/511/519/527 advertised-address ladder through 30 December; Holman/Randall continues at Fifth/Main; Scripture & May remains unnumbered. December 2 p4 adds Fifth Street improvement/payment controversy context. No exact 503/505 occupant or new numbered Fifth Street occupant was identified in the final batch; this is coverage only.
+## Current completion status
 
-The year remains **IN PROGRESS**: Enterprise 0/107 / 428 images, water-ledger/other-source work and Courier callouts M01-M04 remain.
+| Workstream | Current status |
+| --- | --- |
+| Online newspaper inventory | **105 issues / 896 page images** across the two confirmed Oregon City weeklies |
+| *Oregon City Courier* | **123/123 scan sheets visually reviewed through year end** |
+| *Morning Enterprise / Oregon City Enterprise* | **225/428 page images visually reviewed** through **16 July 1915 p1** |
+| Enterprise restart | **Chronological page 226 = 16 July 1915 p2** |
+| Enterprise remaining | **203 page images** |
+| Water ledger | Online review/reconciliation still pending |
+| Other online source classes | Additional directory, municipal, property, map, historic-resource, photograph and related-source audit still pending where applicable |
+| Courier source exceptions | **1915-M01 through M04 remain open** pending alternate-online recovery and/or manual confirmation |
+| Year closeout | **Not ONLINE COMPLETE** |
 
-## Latest pause checkpoint — through 25 November 1915
+The research standard requires visual inspection of the actual scanned page images. OCR, text extraction, archive search and snippets are discovery aids only. Absence of a hit is a coverage statement, never proof of vacancy, demolition, closure, relocation or non-use.
 
-**IN PROGRESS — paused after sheet 110 at the user's requested date limit.**
+## Newspaper work completed
 
-- **110/123 Courier sheets processed.** This batch: sheets **101–110**, five issues, **40 supplied page images**, all visually inspected. Previous batch: 73–100 / 108 preserved PDFs.
-- **Next: sheet 111, 2 December sequences 1–4.** Remaining Courier: **13 sheets / 46 images**. Enterprise: **0/107 sheets reviewed / 428 images pending**. Total remaining newspaper images: **474**.
-- The 40 original PDFs and alternate IIIF header are saved with manifest, hashes and media IDs **IMG-0162–IMG-0202**; source **S-121**, evidence **E-109**. [Detailed page log, findings and manual callouts](1915-courier-sheets-101-110.md).
-- No new defensible exact 503/505 occupant claim. Dated 507/509/511/519/527 listings extend through November 25; Eddy's at 526 and the electric company's 617 listing are integrated. The former Brunswick's opening as Mass's Hotel and Restaurant is confirmed for calendar-derived October 30.
-- Fifth Street is included: Holman/Randall intersection ads, Scripture & May business-name corroboration without a number, and a Fifth Street crushed-rock/day-labor report. No numbered Fifth occupant change or target-building demolition inferred.
-- **1915-M04:** November 11 sequence 8 is printed “6,” confirmed in PDF and alternate IIIF; holding-library comparison needed. Earlier M01–M03 remain open. These exceptions are not erased by progress counts.
-- December, Enterprise, water-ledger/other-source requirements and unresolved online leads remain unfinished. **1915 is not ONLINE COMPLETE.** Earlier lost caches are not recertified by this batch.
+### Oregon City Courier
 
-## Previous pause checkpoint — sheet 100, 27 August 2026
+The supplied 1915 Courier inventory is **123/123 scan sheets complete through 30 December 1915**. All supplied page images in the completed pass were visually inspected. The detailed checkpoint record and the four unresolved source/pagination exceptions are maintained in [1915-page-review-checklist.md](1915-page-review-checklist.md).
 
-Task 1 integration update: [batch integration audit](1915-sheets-073-100-integration-audit.md) reconciles the 507/509/511/519/527 address findings, related registers and YAML. The Price Bros. incident wording is **Friday night**, calendar-derived 30 July, superseding the earlier Thursday transcription; incident-to-527 mapping is same-issue inference. No review coverage or year status changes. `RL-043` retains unnumbered business-change follow-ups.
+Key preserved late-year visual batches include:
 
-**IN PROGRESS — paused after sheet 100 at the user's request.**
+- [sheets 73–100](1915-courier-sheets-073-100.md) — `S-120` / `E-107`
+- [sheets 101–110](1915-courier-sheets-101-110.md) — `S-121` / `E-109`
+- [sheets 111–123](1915-courier-sheets-111-123.md) — `S-122` / `E-110`
 
-- Courier: **100/123 sheets processed**; new batch **73–100 / 108 supplied PDF images** visually inspected, through **21 October 1915**. Source exceptions are not counted as resolved.
-- Next: **sheet 101, 28 October sequences 1–4**; **23 Courier sheets remain**. Enterprise remains **0/107**.
-- All 108 new PDFs are preserved in the repository with per-image hashes, source URLs, printed-page readings and visual status. Earlier lost caches were not silently recertified.
-- New exception: October 14 seq4 bears an October 21 header; printing error versus archive association unresolved. September 2 center-poster pagination needs holding-library confirmation. January 14 prior gap remains.
-- [Detailed visual log, manifest and numbered manual callouts](1915-courier-sheets-073-100.md), source **S-120**, evidence **E-107**, lead **RL-042**.
-- No defensible exact 503/505 occupant claim was found; silence is not vacancy evidence. Water-ledger and other-source checks remain unfinished.
+### Morning Enterprise / Oregon City Enterprise
 
-The August 26 checkpoint below is preserved as history; its restart/count/cache statements are superseded only for this newly saved batch.
+The Enterprise visual review is **225/428 page images complete**. Every page counted below was inspected from the actual scan and its original PDF is preserved in the repository.
 
-## Pause checkpoint — 26 August 2026
+- [pages 1–120](1915-enterprise-pages-001-120.md) — 1 January through 9 April; `S-123` / `E-111`
+- [pages 121–160](1915-enterprise-pages-121-160.md) — 16 April through 14 May; `S-124` / `E-112`
+- [pages 161–200](1915-enterprise-pages-161-200.md) — 21 May through 18 June; `S-128` / `E-114`
+- [pages 201–225](1915-enterprise-pages-201-225.md) — 25 June, 2 July and 9 July complete, plus 16 July p1; `S-129` / `E-115`
 
-The exhaustive 1915 online pass is deliberately paused and **is not complete**.
+**Exact pause:** chronological page **225 = 16 July 1915 p1**.  
+**Exact restart:** chronological page **226 = 16 July 1915 p2**.  
+**Remaining Enterprise work:** **203 page images**.
 
-- Validated online inventory: **105 issues / 896 pages** across the *Oregon City Courier* and *Oregon City Enterprise*.
-- Courier visual review: **72 of 123 scan sheets complete**; all issues through **22 July 1915** are reviewed, plus **29 July pages 1–4**.
-- Exact restart point: **29 July 1915, pages 5–8**.
-- Enterprise visual review: **0 of 107 scan sheets**.
-- Known archive exception: the derivative labeled **Courier, 14 January 1915, page 4** visually bears an *Oregon City Enterprise* 8 January running header and does not establish the true Courier page; log the genuine page as a retrieval gap/manual microfilm target unless resolved online.
-- The temporary local cache of downloaded PDFs and rendered scan sheets was cleared after an interruption. Rebuild that cache from the documented title/date inventory before resuming.
-- Detailed counts, corrections, exceptions, and remaining queue are preserved in [1915-page-review-checklist.md](1915-page-review-checklist.md).
+## Major verified 1915 findings
 
-No absence finding, issue-level negative conclusion, or year-closeout claim may be drawn from the unfinished portion.
+### Fifth/Main — R. L. Holman and Holman & Randall
 
+The first Enterprise issue of the year carries an R. L. Holman advertisement saying he had moved to more commodious parlors at **Fifth and Main**. The Courier independently places Holman at Fifth/Main in early January. On **7 May**, the Enterprise reports that **T. P. Randall** would join R. L. Holman in the undertaking establishment then conducted by Holman **on Main Street near Fifth**, with the firm to be known as **Holman & Randall**. Later Courier and Enterprise material continues the Holman & Randall business at the Fifth/Main location.
 
-## Project requirement: every page, every available Oregon City newspaper
+This is strong intersection/relative-location evidence. It does **not** by itself prove that Holman or Holman & Randall occupied **501 Main**, and the project must not convert Fifth/Main wording into a numbered address without independent evidence.
 
-For this project, a year is **not complete** until every available page of every relevant Oregon City newspaper for that year has been reviewed, not merely searched by OCR/index.
+### Fashion Stable — Fifth Street between Main and Water
 
-For 1915 this means, at minimum, both digitized Oregon City weeklies currently confirmed in Historic Oregon Newspapers:
+Repeated Enterprise professional notices place **W. S. Eddy, V.S., M.D.V.**, at the **Fashion Stable, Fifth Street between Main and Water Streets**. This is a useful Fifth Street block anchor, but the notices do not print a numbered address. No 102/104/106/108/110 Fifth number is inferred from the wording.
 
-- **Oregon City Courier** (`sn00063698`)
-- **Oregon City Enterprise** (`sn00063700`)
+An earlier January checkpoint transcribed the initials as **A. J. Eddy**. Later scans clearly read **W. S. Eddy**. The discrepancy remains preserved pending direct recheck of the January scan; the identities must not be silently merged.
 
-Each issue/page must be **visually reviewed from the actual scan**. OCR, text extraction, and index searches are discovery aids only. Missing or inaccessible pages must be logged as coverage gaps and are not negative evidence.
+### Frank D. Cox pool hall — directly excluded from 503 for the June raid episode
 
-The review must capture anything bearing on 501/503/505/507/509/511 Main; Fifth/Main and Sixth/Main anchors; business occupants; owners/landlords; fires; rebuilding; demolition; vacancy; removal; moves; leases; sales; permits; construction; remodeling; street work; photographs; advertisements; and any wording suggesting a building no longer existed or a site was vacant.
+The **4 June 1915 Enterprise p1** directly locates **Cox's pool hall on Main Street between Seventh and Eighth Streets**. This materially supersedes the earlier circumstantial theory that the officers' movement “down Main street” made the Fifth/Sixth or 503 area plausible for that raid-period hall.
 
-This requirement applies prospectively to later years and retrospectively where earlier passes did not meet it.
+For the June 1915 raid/court episode, Cox's pool hall was **not 503 Main**. Its exact numbered address remains unresolved. The related chronology and superseded inference are tracked in [1915-1916-cox-pool-hall-lead.md](1915-1916-cox-pool-hall-lead.md).
 
-## Direct findings
+### 507 Main — W. W. Bradley
 
-### R. L. Holman — moved to Fifth and Main by 7 January 1915
+The earliest currently recovered direct 1915 exact-address listing places **W. W. Bradley** at **507 Main** by **29 July 1915**. The listing repeats through the fall and winter.
 
-A page-level review of the **7 January 1915 Oregon City Courier, p. 5** recovered a much earlier Fifth/Main anchor than the previously registered June advertisements. An announcement states that **R. L. Holman, leading funeral director, had moved to more commodious quarters at the corner of Fifth and Main**.
+This narrows the transition from **G. H. Young at 507 Main in April 1914** to a window ending no later than 29 July 1915. The exact Young-to-Bradley move, sale or transfer remains unresolved.
 
-Canonical source:
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-01-07/ed-1/seq-5/
+### 509 Main — H. P. Brightbill
 
-This proves Holman occupied the Fifth/Main corner by the first Courier issue reviewed in January 1915. It still does **not** by itself prove that the premises carried the street number 501 Main; retain that mapping as a separate question.
+Repeated late-1915 Courier directories give **H. P. Brightbill** at **509 Main**, with the grocery business continuing in the dated listings through December. Do not merge H. P. Brightbill with Henry Brightbill solely by surname.
 
-The same page also reports that a music/piano representative, **F. Theroux**, had moved from Seventh Street opposite the Library to **Fifth and Main Street**. Multiple businesses can be described by the same intersection wording without occupying the same storefront, so do not conflate this with Holman's premises.
+### 511 Main — George A. Harding
 
-### W. W. Bradley — 507 Main
+Repeated 1915 Courier directories give **George A. Harding** at **511 Main**. This is direct 1915 exact-address evidence. The later Harding Building footprint must not be backdated from these storefront listings.
 
-The earliest currently recovered direct 1915 exact-address listing is **29 July 1915**, when the *Oregon City Courier* business directory lists **W. W. Bradley**, new and second-hand furniture/furnishings, at **507 Main**, telephone 139. The same listing then repeats through the fall and winter.
+### Other useful numbered Main Street anchors
 
-Canonical examples:
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-3/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-09-16/ed-1/seq-3/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-07/ed-1/seq-5/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-6/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-28/ed-1/seq-6/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-6/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-3/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-02/ed-1/seq-6/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-16/ed-1/seq-8/
+Late-1915 Courier directories also establish:
 
-This narrows the significant change from **G. H. Young at 507 Main in April 1914** to a window ending no later than **29 July 1915**. Searches of indexed January-June 1915 material have not yet produced an earlier Bradley-at-507 hit or a Young-to-Bradley transfer/move notice; this remains subject to the continuing issue/page review.
+- **519 Main — F. F. Theroux**
+- **527 Main — Price Bros.**
+- **526 Main — Eddy's Dependable Store** on 25 November; proprietor/relationship to other Eddy records unresolved
+- **617 Main — Portland Railway Light & Power Co. Electric Store** in the Beaver Building
 
-### H. P. Brightbill — 509 Main
+These are neighboring-address anchors. They do not establish the 1915 occupants of 503 or 505.
 
-The same 1915 business directory repeatedly gives **H. P. Brightbill — staple, fancy and green groceries — 509 Main — phone 74** on multiple late-1915 directory pages, including 7 October, 21 October, 28 October, 18 November, 2 December and 16 December.
+## Main Street paving and streetscape chronology
 
-This is repeated direct 1915 exact-address evidence, not merely continuity from another year.
+1915 contains a substantial, visually verified Main Street public-works sequence. The dedicated synthesis is [1915-main-street-repaving.md](1915-main-street-repaving.md).
 
-### George A. Harding — 511 Main
+Current Enterprise milestones include:
 
-The 1915 business directory repeatedly gives **George A. Harding — prescriptions, magazines, toilet articles — 511 Main**.
+- **26 March:** proposal to reuse serviceable bricks removed from Main Street on Singer Hill road work.
+- **2 April:** Main Street improvement described among the year's major Oregon City public works.
+- **9 April:** council debate over paving material continues.
+- **23 April:** council moves toward the Worswick asphalt specification after property-owner action.
+- **30 April:** Main Street improvement resolution advances.
+- **7 May:** proposed cluster lighting for Main Street and a possible project delay after removal of the city engineer.
+- **4 June:** the Main Street improvement ordinance passes and bids are to be advertised; Main Street property owners also present a cluster-light proposal.
+- **25 June:** Enterprise reports the Main Street paving contract awarded to **Worswick**, at **$1.20 per yard**, with a 10-year good-condition guarantee and a stated maximum improvement cost of **$14,184**.
+- **2 July:** contract/bond/guarantee terms remain in dispute.
+- **9 July:** Enterprise reports **“MAIN STREET WORK BEGINS AT LAST”** as Portland Railway, Light & Power begins track preparation before paving.
 
-Useful source links:
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-3/
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-25/ed-1/seq-3.pdf
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-18/ed-1/seq-6/
-
-This is direct 1915 exact-address evidence and continues the 1914 Harding pharmacy anchor.
-
-### R. L. Holman and T. P. Randall — Fifth and Main later in 1915
-
-Repeated 1915 classified advertisements directly place **R. L. Holman and T. P. Randall, leading undertakers, at Fifth and Main Streets**. Combined with the 7 January Holman move announcement, the Fifth/Main undertaker presence is now documented from the beginning of the year through the end of 1915.
-
-Canonical examples:
-- 17 June 1915, p. 9: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-9/
-- 15 July 1915, p. 7: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-15/ed-1/seq-7/
-- 22 July 1915, p. 7: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-22/ed-1/seq-7/
-- 29 July 1915, p. 5: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-07-29/ed-1/seq-5/
-- 19 August 1915, p. 7: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-08-19/ed-1/seq-7/
-- 21 October 1915, p. 7: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-21/ed-1/seq-7/
-- 28 October 1915, p. 2: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-10-28/ed-1/seq-2/
-- 4 November 1915, p. 7: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-11-04/ed-1/seq-7/
-- 30 December 1915, p. 2: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-12-30/ed-1/seq-2/
-
-This does **not** by itself prove the modern street number of the Holman/Randall premises. Keep the Fifth-and-Main corner-to-501 mapping question separate until direct numbering or plat evidence is recovered.
-
-## Oregon City Enterprise coverage
-
-The 1915 **Oregon City Enterprise** is confirmed present in Historic Oregon Newspapers and must be included in the exhaustive review. A directly recovered example is:
-- 17 September 1915, p. 1: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-17/ed-1/seq-1/
-
-Targeted Enterprise searches to date for **503 Main, 505 Main, L. Hylton, W. W. Bradley, H. P. Brightbill, George A. Harding, Chicago Store, Fifth/Main**, and fire/rebuilding terms have not yet produced a direct 503/505 hit. That is indexed-search coverage only; the required page-by-page Enterprise review remains incomplete.
-
-## Search coverage / negative results to date
-
-A broad 1915 archive/web-index pass has been run for exact addresses **503, 505, 507, 509, 511 Main**, and for **L. Hylton, W. W. Bradley, Chicago Store, George A. Harding, H. P. Brightbill, G. H. Young, Holman, Randall, Fifth/5th and Main**, and fire/building/construction terms.
-
-This recovered repeated direct evidence for **507 / 509 / 511**, repeated Fifth-and-Main evidence for Holman/Randall, and the January Holman move announcement, but has **not yet recovered**:
-
-- a direct 1915 exact-address hit for **503 Main**;
-- a direct 1915 exact-address hit for **505 Main**;
-- a Hylton move, sale, or successor notice;
-- the exact **G. H. Young -> W. W. Bradley** transition notice;
-- a direct 1915 Chicago Store / 505 post-fire occupancy notice;
-- a 1915 construction, demolition, or rebuilding item directly tied to 503/505/507.
-
-These are statements of search coverage, **not evidence that no such article existed**. The requested exhaustive issue/page review remains active and must be distinguished from indexed-search coverage.
-
-## Immediate implications
-
-The strongest 1915 development remains the **507 Main occupant change**: G. H. Young is directly documented there in April 1914, while W. W. Bradley is now directly documented there by **29 July 1915**. The transition occurred within that interval unless contrary evidence emerges.
-
-The repeated late-1915 directory simultaneously fixes three adjacent storefronts: **507 Bradley / 509 Brightbill / 511 Harding**.
-
-The January Holman announcement now establishes a firm **Fifth & Main** south-end anchor from the first reviewed Courier issue of 1915. This is useful for reconstructing the relationship between the corner premises and the later numbered 501/503/505 frontage, but does not itself prove a 501 assignment.
-
-## 1915 research targets
-
-1. Establish occupants/status for **501, 503, 505, 507, 509, and 511 Main** throughout 1915.
-2. Find the **G. H. Young -> W. W. Bradley transition at 507 Main**.
-3. Determine whether **L. Hylton remained at 503 Main** and locate any sale, license, move, or successor notice.
-4. Determine the 1915 occupant/use of **505 Main**, still unresolved after the December 1913 Chicago Store fire.
-5. Search for Chicago Store, George Harding property ownership, and any post-fire rebuilding or leasing evidence affecting 505.
-6. Search for construction, demolition, remodeling, fire, property transfer and public works on the Fifth-Sixth Main frontage.
-7. Continue the Block 26 lot/address and Willamette Building mapping questions where 1915 evidence bears on them.
-8. Preserve direct PDF/original-image links whenever exposed by Historic Oregon Newspapers.
-9. Record negative search coverage separately from historical absence.
-10. Complete page-by-page review of **both the Oregon City Courier and Oregon City Enterprise** before declaring 1915 complete.
-11. Maintain an issue/page coverage checklist so the archive can distinguish reviewed pages from gaps.
+This sequence establishes street and public-realm work. It does **not** by itself establish demolition, relocation, rebuilding or alteration of the 501/503/505 storefronts.
 
 ## Current 1915 address snapshot
 
-| Address/location | 1915 status | Confidence |
-|---|---|---|
-| Fifth & Main corner | R. L. Holman by 7 Jan.; Holman & Randall later in year | direct / high |
-| 501 Main | exact-number mapping unresolved | low |
-| 503 Main | unresolved; Hylton continuity not yet proven | unresolved |
-| 505 Main | unresolved | unresolved |
-| 507 Main | W. W. Bradley by 29 July 1915 | direct / high |
-| 509 Main | H. P. Brightbill grocery | direct / high |
-| 511 Main | George A. Harding pharmacy | direct / high |
+| Address/location | Current 1915 conclusion | Confidence / caution |
+| --- | --- | --- |
+| Fifth & Main | R. L. Holman by the beginning of 1915; Holman & Randall formed in May and continued later in the year | Direct intersection/relative-location evidence; do not assign 501 without independent numbering evidence |
+| 501 Main | Exact 1915 numbered occupant/use unresolved | Earlier 1912–1913 numbered liquor-premises evidence exists, but the 1915 Fifth/Main undertaking evidence is not automatically 501 |
+| 503 Main | Exact 1915 occupant/use unresolved | L. Hylton is directly documented at 503 in 1914; 1915 continuity is not proven. Cox's June 1915 hall is positively located elsewhere, between Seventh and Eighth |
+| 505 Main | Exact 1915 occupant/use unresolved | Post-1913 Chicago Store/fire succession remains unresolved |
+| 507 Main | W. W. Bradley by 29 July 1915 | Direct / high |
+| 509 Main | H. P. Brightbill grocery | Direct / high |
+| 511 Main | George A. Harding pharmacy | Direct / high |
+| 519 Main | F. F. Theroux | Direct late-1915 listing |
+| 527 Main | Price Bros. | Direct late-1915 listing |
+| Fifth between Main and Water | W. S. Eddy / Fashion Stable | Direct relative-location evidence; no street number printed |
+| 102/104/106/108/110 Fifth | No exact 1915 numbered listing established in the visual work completed so far | Coverage only; never treat as vacancy/non-use evidence |
 
+## What has not been established
 
-## Enterprise checkpoint through 16 July p1 - S-129 / E-115
+The completed Courier visual pass and Enterprise pages 1–225 have **not yet established**:
 
-Enterprise pages 201-225 were visually reviewed. The batch independently confirms the June 25 Worswick Main Street paving award, the July 2 guarantee/bond dispute, and the July 9 transition into physical Main Street rail/preparatory work. No exact 503/505 occupant or new numbered Fifth Street address was established. Review pauses at July 16 p1; resume at p2.
+- a defensible exact 1915 occupant/use for **503 Main**;
+- a defensible exact 1915 occupant/use for **505 Main**;
+- the exact **G. H. Young → W. W. Bradley** transition at 507;
+- a 1915 Hylton move, sale, license transfer or successor notice for 503;
+- a direct 1915 Chicago Store / 505 post-fire succession record;
+- a target-building construction, demolition or rebuilding event directly tied to 501/503/505;
+- a new exact 1915 **102/104/106/108/110 Fifth** occupant;
+- a numbered address for the Fashion Stable notice;
+- resolution of the January **A. J. Eddy / W. S. Eddy** initials discrepancy.
+
+These are unresolved research questions, not statements that the events or occupants did not exist.
+
+## Remaining work before 1915 can be ONLINE COMPLETE
+
+1. **Finish the Enterprise visual review:** pages **226–428**; 203 images remain.
+2. **Finish the 1915 water-ledger review and reconciliation.** Integrate useful address, tenant, account/status and Fifth Street clues without treating silence as vacancy.
+3. **Finish the other applicable online source classes** required by `RESEARCH-STANDARD.md`, including directories, municipal/public-works records, property/deed/tax sources, maps, historic-resource records, photographs and official databases where useful and available.
+4. **Reconcile outstanding OCR/search leads** against visually inspected originals and ensure all conflicts/retrieval gaps are preserved accurately.
+5. **Make reasonable online recovery attempts for Courier M01–M04.** Any issue that remains inaccessible or physically ambiguous after online attempts must be precisely copied into the numbered manual-work callout list.
+6. **Run the final 1915 integration/consistency audit:** source register, evidence register, address/business/building/person files, timeline, YAML sidecars and year-status register must agree.
+7. **Write the formal 1915 closeout record** and only then determine whether the year qualifies as `ONLINE COMPLETE`.
+
+## Research targets that remain active
+
+- Establish the 1915 occupants/status of **501, 503 and 505 Main**.
+- Resolve the **G. H. Young → W. W. Bradley** transition at 507.
+- Resolve whether and when **L. Hylton** left 503 and identify any successor.
+- Resolve 505's post-Chicago Store / post-1913-fire occupancy chain.
+- Continue watching for exact numbered Fifth Street anchors, especially **102, 104, 106, 108 and 110 Fifth**, and relative descriptions such as “between Main and Water” and “between Main and Railroad.”
+- Continue watching for fires, moves, leases, sales, construction, demolition, remodeling, ownership/agent references and public works affecting the target frontage.
+
+## Current interpretation
+
+The strongest direct 1915 numbered evidence remains the later-year neighboring ladder at **507 / 509 / 511**, with additional anchors at 519 and 527. The Fifth/Main undertaking evidence provides an important south-end block anchor but does not yet map to a numbered 501/503/505 storefront. The June Enterprise Cox article is a significant correction because it positively removes Cox's raid-period pool hall from the 503 hypothesis.
+
+The target addresses **503 and 505 remain unresolved for 1915** as of Enterprise page 225. That statement describes the current evidence state only. It is not evidence that either premises was vacant, unused, demolished or absent.
