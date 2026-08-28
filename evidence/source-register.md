@@ -859,3 +859,12 @@ Repository: `newspapers/oregon-city-courier/1916-pages-106-180/`; 75 original PD
 Media: IMG-0479 through IMG-0553.
 Evidence: E-116; detailed record `evidence/source-captures/1916-courier-pages-106-180.md`.
 Scope: all 75 selected scans visually verified; May 18 pages 4–8 excluded; no annual completion claim.
+
+## S-131 — Oregon City Water Rent Record Book 3, 1914–1915
+Canonical URL: https://www.orcity.org/DocumentCenter/View/6213/1914-1915-Water-Rent-Record-Book-3  
+Type: Primary official municipal water-rent ledger; relevant target/Fifth-Main pages **visually verified from full-resolution scans**.  
+Repository reviewed extracts: `records/municipal/water-rent/1914-1915-book-3-review-pages/` (official PDF pages 1–12 plus source/page hashes and provenance).  
+Related evidence: `E-117`.  
+Repository source capture: `evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md`.  
+Notes: The full City source is 139 scanned PDF pages; this project audit preserves/reviews the relevant downtown extracts, not an exhaustive transcription of all 139 pages. Target printed p5 shows 511→509→507→blank/V→503→503½→501; comparison p4 supplies independent V tenant marks at 523 and 521, strongly supporting V as vacancy notation. Printed p3 supplies 110 Fifth/Stable; p5 supplies 107 Fifth/Blacksmith. The blank target row remains unnumbered and is not promoted to exact 505.
+

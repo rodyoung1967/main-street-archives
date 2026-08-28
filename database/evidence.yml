@@ -1751,3 +1751,17 @@ evidence:
     repository_file: evidence/source-captures/1916-courier-pages-106-180.md
     related_people: [P-047, P-048, P-049, P-050, P-051]
     related_businesses: [BUS-033, BUS-034, BUS-035, BUS-036, BUS-007, BUS-026, BUS-027, BUS-028, BUS-029, BUS-031]
+
+  - id: E-117
+    name: 1914–1915 Water Rent Book 3 target/Fifth-Main audit
+    type: Primary municipal ledger visual review and notation comparison
+    claims:
+      - Official scans verify 511, 509, 507, an unnumbered V row, 503, 503½ and 501 Main in sequence; 503 is Store, 503½ Barber Shop, and 501 has layered Restaurant/Saloon classification writing.
+      - Independent tenant-field V marks at 523 and 521 Main strongly support V as vacancy notation, but the target row never prints 505; exact 505 vacancy remains a hypothesis.
+      - Book 3 directly records 110 Fifth, Block 3, Stable and 107 Fifth, Block 4, Blacksmith.
+      - Layered tenant writing at 110 appears consistent with Scripture & May but is not clear enough for a final transcription; later 108 Fifth and Fashion Stable identities are not backdated or merged.
+    confidence: Very High for visible sequence/numbers/classifications and repeated V; high-confidence interpretation for V=vacant; moderate for blank row=505; probable only for Scripture & May at 110.
+    related_sources: [S-131]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md
+

@@ -62,3 +62,12 @@ This log records searches, imports, reviews, and research decisions so the proje
 ## 2026-08-28 — 1916 Courier next 75 pages
 
 Reviewed and preserved all 75 original PDFs from March 23 p 1 through May 18 p 3 (S-130/E-116; IMG-0479–IMG-0553). Nine issue JSON records, hashes, page notes and date/sequence checks retained. Corrected stale April 20 counts to 12; upgraded only exact verified dates and April 6 sale/Hylton items. Added earlier May 18 Raasch/Lamb permit and neighboring address evidence; no target occupant, vacancy or annual-completion claim. Courier 180/458, total 180/884, nextMay 18 p 4;704 newspaper pages and other-source work remain. Existing 1915 work preserved. Validation/publishing results are recorded in the commit handoff, not assumed by this log.
+
+
+## 2026-08-28 — 1914–1915 Water Rent Book 3 target/Fifth-Main audit
+
+- Retrieved the official 139-page City Book 3 scan and visually rechecked the relevant downtown target/Fifth-Main pages from full-resolution extracts; reviewed official PDF pages 1–12 are preserved under `records/municipal/water-rent/1914-1915-book-3-review-pages/`.
+- `S-131` / `E-117`: confirmed **511→509→507→blank/V→503→503½→501** and found comparison V marks at 523 and 521 Main, strongly supporting V as vacancy notation while leaving blank-row=505 unresolved.
+- Added exact 1914–15 ledger-period anchors **107 Fifth = Blacksmith** and **110 Fifth = Stable**. The 110 tenant appears consistent with Scripture & May but remains a layered/probable reading; no 108 backdating or Fashion Stable merger.
+- 503 is classified Store, 503½ Barber Shop, and 501 has layered Restaurant/Saloon writing; faint tenant names and exact timing remain unresolved.
+- The relevant 1915 water-ledger target audit is complete. 1915 remains **IN PROGRESS** because Enterprise pages 226–428, other online source classes, M01–M04 handling and final closeout remain.

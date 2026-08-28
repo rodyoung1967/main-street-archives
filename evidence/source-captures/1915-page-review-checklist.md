@@ -1,6 +1,13 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 225/428 images; other-source work pending**
+Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 225/428 images; water-ledger target audit complete; other-source work pending**
+
+## Water-ledger source-class checkpoint — 28 August 2026
+
+- Official **1914–1915 Water Rent Record Book 3** target/Fifth-Main pages were re-reviewed from the full-resolution City scan; reviewed page extracts are preserved under `records/municipal/water-rent/1914-1915-book-3-review-pages/`. Source `S-131`, evidence `E-117`; [detailed audit](1914-1915-water-rent-record-book-3-visual-review.md).
+- The target sequence is visually confirmed as **511 → 509 → 507 → [unnumbered/V] → 503 → 503½ → 501**. The same standalone tenant-field **V** appears independently at 523 and 521 Main, strongly supporting **V = vacant/vacancy notation**. The blank target row still does not print 505; exact 505 vacancy remains an inference, not a direct address fact.
+- Book 3 directly adds **503 = Store**, **503½ = Barber Shop**, layered **501 Restaurant/Saloon** classification, **107 Fifth = Blacksmith**, and **110 Fifth = Stable**. The layered 110 tenant appears consistent with Scripture & May but is not clear enough for a final transcription; 110 is not equated with Fashion Stable.
+- Because Book 3 spans 1914–15, these are ledger-period anchors rather than exact-month 1915 occupant statements. The relevant water-ledger target review is complete; other online source classes and Enterprise pages 226–428 remain.
 
 ## Latest Enterprise pause checkpoint - chronological page 225 / 16 July 1915 p1
 
@@ -9,7 +16,7 @@ Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 225/4
 - **Exact pause:** page 225 = July 16 p1. **Next:** page 226 = July 16 p2. Remaining Enterprise: **203 images**.
 - Verified additions: June 25 Worswick contract award; July 2 bond/guarantee deadlock; July 9 security terms and physical Main Street rail/preparatory work beginning.
 - No exact 503/505 or new numbered Fifth occupant identified. Coverage only; no vacancy/non-use inference.
-- Courier remains 123/123; M01-M04, water-ledger/other-source review and year closeout remain open. **1915 is not ONLINE COMPLETE.**
+- Courier remains 123/123; M01-M04, other online-source review and year closeout remain open. The relevant water-ledger target audit is complete. **1915 is not ONLINE COMPLETE.**
 
 ## Latest Enterprise pause checkpoint - chronological page 200 / 18 June 1915
 

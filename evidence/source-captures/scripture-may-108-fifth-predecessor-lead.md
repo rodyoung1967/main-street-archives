@@ -4,6 +4,14 @@ Status: **108 Fifth chronology now extends through June 1922; May & Washburn pre
 
 Purpose: preserve the exact-address and partner-name evidence for the earlier Scripture & May blacksmith/carriage business and test whether its `May` partner or premises continued into the later May & Washburn garage destroyed in the July 1922 Fifth/Main fire.
 
+## 1914–1915 Book 3 — probable 110 Fifth predecessor clue
+
+The official Oregon City **1914–1915 Water Rent Record Book 3** target/Fifth-Main audit (`S-131` / `E-117`) directly records **110 Fifth, Block 3, classification Stable**. The tenant field is layered/crossed; visually it appears consistent with **Scripture & May**, but not clearly enough for a final transcription.
+
+This is therefore a **probable predecessor-location lead only**. It does not establish a precise date within the 1914–15 book span and does not prove a move from 110 to the independently verified **108 Fifth** address in October 1916. It also does not prove that 110 Fifth was the newspaper's unnumbered **Fashion Stable**. Those bridges require independent evidence.
+
+The same municipal audit separately records **107 Fifth, Block 4, Blacksmith**, with tenant handwriting unresolved. Trade similarity alone is not an identity bridge.
+
 ## 5 October 1916 — 108 Fifth visually verified
 
 The actual scanned page of the **Oregon City Courier, 5 Oct 1916, p. 6** was visually inspected.

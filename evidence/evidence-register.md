@@ -833,3 +833,12 @@ Claims:
 - Dated neighboring addresses 502/507/509/511/519/527/528/612/617 verified; April 13 p6 Anderson 414 and May 4 p6 Martin 613 also verified.
 - No exact 503/505 occupant or new 102/104/106/108/110 Fifth listing found in this batch; no vacancy or absence conclusion. Separate 509 Fifth social notice retained.
 Confidence: Very High for readable printed wording; business legal dates, exact target occupancy and property mapping unresolved.
+
+## E-117 — 1914–1915 Water Rent Book 3 target/Fifth-Main audit
+Type: Primary municipal ledger visual review and notation comparison.  
+Source: `S-131`.  
+Record: `evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md`.  
+Claims: Official high-resolution scans directly verify the Block 4 sequence **511, 509, 507, unnumbered/V, 503, 503½, 501 Main**; 503 is classified Store and 503½ Barber Shop, while 501 carries layered Restaurant/Saloon writing. Independent tenant-field V marks at **523 Main** and **521 Main** strongly support `V` as the ledger's vacancy notation, but the target blank row never prints 505, so exact 505 vacancy remains a moderate hypothesis. Book 3 also directly records **110 Fifth / Block 3 / Stable** and **107 Fifth / Block 4 / Blacksmith**. The layered 110 tenant appears consistent with Scripture & May but remains a probable reading only; it does not backdate later 108 Fifth or identify Fashion Stable.  
+Confidence: **Very High** for visually readable numbers, classifications, sequence and repeated V marks; **High-confidence interpretation** for V=vacant; **Moderate hypothesis** for blank row=505; **Probable only** for Scripture & May at 110. Exact month within the 1914–15 ledger span and faint target tenants remain unresolved.  
+Related: `B-001`, `B-002`, `B-005`; `evidence/source-captures/1914-1917-505-vacancy-assessment.md`; `evidence/source-captures/scripture-may-108-fifth-predecessor-lead.md`.
+

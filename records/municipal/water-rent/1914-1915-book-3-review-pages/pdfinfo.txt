@@ -1,0 +1,15 @@
+ModDate:         Tue Mar 30 23:49:07 2021 UTC
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            AcroForm
+JavaScript:      no
+Pages:           139
+Encrypted:       no
+Page size:       1145.04 x 877.44 pts
+Page rot:        0
+File size:       284011106 bytes
+Optimized:       no
+PDF version:     1.7
