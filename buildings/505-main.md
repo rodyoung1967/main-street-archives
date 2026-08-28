@@ -17,6 +17,8 @@
 
 Early documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. The construction date of the **surviving building** still has conflicting historic-resource estimates; see `Construction-date conflict` below.
 
+Identity context only: a visually verified 3 February 1916 Springfield notice directly names **Gilbert Miller** with Wolf & Miller (`P-046`, `E-113`, `S-125`). It strengthens the firm's antecedent chronology, **not 1916 occupancy at 505**. The 1918 C. E. Miller/Gilbert Miller discrepancy, Wolf partner's name, and any S. Wolf/later-503 ownership connection remain unresolved; see the [Tasks 5–6 audit](../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md).
+
 Tavern-era sequence includes 505 Tavern (documented 1965, 1972, **1976 classified**) → Brass Rail → The Dug Inn (1988) → other late-1980s/early-1990s operators/leads including Sports Keg → a later Wiitanen control/repo interval and their rename of the business to 505 Tavern before the March 1991 sale → Mitch / Mitchell (C.) Young running the already-named 505 Tavern through March 2004 → later Berman (bought 2009) → Thirsty Duck 2017, still operating as of August 2026.
 
 ### Wiitanen business and property sequence

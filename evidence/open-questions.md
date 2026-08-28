@@ -143,3 +143,5 @@ Status: **NARROWED BY `E-108`; exact dividing line remains unresolved.** Task 7 
 Two models remain live: **(A)** Gates principally at 501, with Wolf beginning at 503; or **(B)** Gates's two Main-facing storerooms became 501+503, with Wolf beginning near 505. The working 503-ignition / 505-adjoining-pool-hall model remains compatible with Model A but is not proved, and **501 remains a live alternative**.
 
 Highest-value resolution records: the OHS MSS 1503 Block 4 Lots 3–4 abstract, Harding→Wolf/Gates deed(s), Gates/Junken permit or plans, original numbering plat, and first post-fire exact-address tenants. Do not decide from the 1925 use pattern alone.
+
+The [28 August 2026 Tasks 5–6 identity audit](source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) adds a direct Gilbert Miller firm association and verified candidate-source readings, but no buyer/full-name or property-boundary bridge. OQ-031 and both models remain unchanged. Its four numbered identity callouts supplement the Tasks 2–4 retrieval gaps; current-plan Task 7 has not begun.

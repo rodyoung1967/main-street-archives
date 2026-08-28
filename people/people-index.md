@@ -47,5 +47,6 @@
 | P-043 | Al Price | Price Bros. proprietor | 5 August 1915 p1 names him; same-issue p3 lists Price Bros. at 527. `BUS-028`, `E-107`. No Bailey & Price identity or property-ownership inference. |
 | P-044 | F. F. Theroux | Piano/sewing-machine dealer | 5 August 1915 p3 lists 519 Main; `BUS-029`, `E-107`. Do not expand initials or treat earlier Fifth/Main wording as proof of a move. |
 | P-045 | [E. T. Mass](et-mass.md) | Ex-sheriff; hotel/restaurant operator | October 28/November 4, 1915 reports name him at Mass's Hotel and Restaurant, former Brunswick. BUS-030/E-109. Initials and wife's name not expanded; no deed ownership inferred. |
+| P-046 | [Gilbert Miller](profiles/gilbert-miller.md) | Springfield Wolf & Miller association; Oregon City shoe-repair continuity | Directly named with firm 3 February 1916, E-113/S-125. Broader 1918/1922 continuity strongly supported; preserve C. E. Miller discrepancy. No Wolf identity, legal ownership share or 1916 Oregon City occupancy inference. |
 
 October 28–November 25 directory corroboration (E-109/S-121) extends P-041 at 507, P-042 at 509, P-001 at 511 and P-044 at 519. It does not merge identities, date moves or newly identify Price's proprietor.

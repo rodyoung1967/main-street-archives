@@ -166,11 +166,17 @@ businesses:
   - id: BUS-012
     name: Wolf & Miller
     address: 505 Main
-    notes: October 10 1918 Oregon City Courier shoe business / shoe-repair department.
+    notes: October 10 1918 Oregon City Courier shoe business / shoe-repair department. Earlier Springfield association directly names Gilbert Miller on February 3, 1916; this is not 1916 occupancy at 505. Wolf given name and legal shares unresolved; preserve 1918 C. E. Miller discrepancy.
     related_buildings:
       - B-002
+    related_people:
+      - P-046
     related_evidence:
       - E-027
+      - E-113
+    related_sources:
+      - S-034
+      - S-125
 
   - id: BUS-013
     name: Farr's Pool Hall

@@ -43,6 +43,10 @@ Sources:
 
 This establishes Gilbert Miller as a prominent Springfield resident during the same period Wolf & Miller operated.
 
+## 3 February 1916 — Gilbert explicitly named with the firm
+
+The newly recovered and visually verified *Lane County News* front-page item **“To Manufacture Leather Dressing”** names **Gilbert Miller of the Wolf & Miller Harness shop** and describes his own leather dressing/shoe-waterproofing product (`E-113`, `S-125`, `P-046`). This is a direct named-firm association in Springfield, not merely a contemporaneous residency inference. It does not establish legal partnership shares, Wolf's given name or a 505 Main address. See the [Tasks 5–6 identity audit](1922-tasks-5-6-identity-review-2026-08-28.md) and preserved original page.
+
 ## May 1916 — Miller personally tied to shoe repair
 
 The **29 May 1916 Springfield News** includes a notice telling customers to **“let Miller do it at the Harness Shop”** for shoe repair, alongside Wolf & Miller advertising and a notice that the firm had installed an electric shoe-sole stitcher/finisher.
@@ -95,7 +99,7 @@ The **20 Aug Eugene Daily Guard** genuinely prints **C. E. Miller**; this is not
 
 Current evidence favors **Gilbert Miller** as the correct identity because:
 
-1. Gilbert Miller is independently documented as a Springfield resident and civic/church figure during 1915–17;
+1. Gilbert Miller is independently documented as a Springfield resident and civic/church figure during 1915–17, and the 3 February 1916 notice now directly names him with Wolf & Miller (`E-113`);
 2. the local Springfield News directly names Gilbert in the Oregon City move notice;
 3. a Springfield historic-district National Register inventory independently says that **around 1918 Gilbert Miller of Wolf and Miller (men's furnishings) lived in Springfield**;
 4. Gilbert Miller is later directly documented in the Oregon City/Fifth Street sequence.
@@ -144,6 +148,7 @@ Do not yet claim:
 | --- | --- | --- |
 | Mar 1915 | Wolf & Miller operating in Springfield | Very High |
 | 1915–16 | Gilbert Miller independently resident/active in Springfield | Very High |
+| 3 Feb 1916 | Gilbert Miller directly named with Wolf & Miller Harness shop (`E-113`) | Very High for firm association; no legal-share or Oregon City address inference |
 | May 1916 | `Miller` personally tied to shoe-repair work | Very High |
 | 1916–17 | business expands into shoes, clothing/dry goods and furnishings | High |
 | Mar 1918 | Wolf & Miller store at **Main & Fourth, Springfield** | Very High |

@@ -28,6 +28,8 @@ Those are separate candidates or networks until a deed, directory, probate, part
 
 ## Next records
 
+The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) visually verifies the original 1920 Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf directory entries (`S-126`). It also directly identifies Gilbert Miller with the Springfield firm in 1916 (`E-113`), but supplies no bridge from any Wolf candidate to this purchaser or later 503 ownership. Full identity remains unresolved.
+
 - Harding-to-Wolf/Gates deed and grantor/grantee index entry.
 - 1921 assessment/1922 tax and 1922–1925 land/lot records.
 - Portland and Oregon City directories identifying S. Wolf by full name.

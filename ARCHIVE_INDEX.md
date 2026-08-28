@@ -18,6 +18,8 @@ Important reading rule: **business ownership/operation and building ownership ar
 
 ## Location Index
 
+Latest 1922 identity checkpoint: [Tasks 5–6 audit](evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) (`E-113`, `S-125`–`S-127`) preserves a direct Springfield [Gilbert Miller](people/profiles/gilbert-miller.md) association, original directory candidates, and the secondary Medford Gates comparison. Buyer identities and property boundaries remain unresolved; no annual status changes.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md`
@@ -275,4 +277,3 @@ Courier **110/123 sheets** processed; pause before December2. **46 Courier image
 - `evidence/source-captures/1915-courier-sheets-111-123.md` - final 46 December pages visually reviewed; source S-122 / evidence E-110.
 - `newspapers/oregon-city-courier/1915-sheets-111-123/` - unchanged original PDFs, manifest, hashes and media IMG-0203-IMG-0248.
 - Courier checkpoint: **123/123 scan sheets processed**. Enterprise and other-source work remain; 1915 is still IN PROGRESS.
-

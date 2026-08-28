@@ -649,3 +649,14 @@ All 40 original page PDFs are VISUALLY VERIFIED. Exact source URLs and SHA-256 h
 | IMG-0407 | `newspapers/oregon-city-enterprise/1915-pages-121-160/1915-05-14-seq-07.pdf` | 1915-05-14 / seq7 / printed7 |
 | IMG-0408 | `newspapers/oregon-city-enterprise/1915-pages-121-160/1915-05-14-seq-08.pdf` | 1915-05-14 / seq8 / printed8 |
 
+## 1922 Tasks 5–6 identity-source batch — preserved 28 August 2026
+
+Raw source files are unchanged. Exact SHA-256 hashes and detailed review limits: [identity audit](../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md). Five page images inspected across five files; the 37-page nomination is credited for **page 15 only**. No annual completeness claim.
+
+| Media ID | Repository file | Original filename / source | Verification and related records |
+| --- | --- | --- | --- |
+| IMG-0409 | `newspapers/lane-county-news/1916-02-03-page-1-gilbert-miller.pdf` | `seq-1.pdf`; [UO page PDF](https://oregonnews.uoregon.edu/lccn/sn97071002/1916-02-03/ed-1/seq-1.pdf) | VISUALLY VERIFIED targeted p1/col4 item and masthead; S-125/E-113/P-046/BUS-012. Not whole-issue coverage. |
+| IMG-0410 | `records/directories/1920-polk-portland-page-542.jpg` | `n545.jpg`; [Newberry/Internet Archive Vol. I image](https://archive.org/download/CITY_DIRECTORY_PORTLAND_1920_1/page/n545.jpg) | VISUALLY VERIFIED Gates surname start at bottom right; S-126/E-113. Image-edge limits retained. |
+| IMG-0411 | `records/directories/1920-polk-portland-page-543.jpg` | `n546.jpg`; [Newberry/Internet Archive Vol. I image](https://archive.org/download/CITY_DIRECTORY_PORTLAND_1920_1/page/n546.jpg) | VISUALLY VERIFIED Gates continuation, no buyer identification; S-126/E-113. Image-edge limits retained. |
+| IMG-0412 | `records/directories/1920-polk-portland-page-1538.jpg` | `n571.jpg`; [Newberry/Internet Archive Vol. II image](https://archive.org/download/CITY_DIRECTORY_PORTLAND_1920_2/page/n571.jpg) | VISUALLY VERIFIED cited left-column Wolf entries; right column clipped. S-126/E-113; P-035 comparison only, no identity merger. |
+| IMG-0413 | `records/historic-resource/1990-medford-pop-gates-house-nomination.pdf` | NPS asset `b463e75a-f84f-4c46-b1e2-1859a13aa4c2`; [original PDF](https://npgallery.nps.gov/GetAsset/b463e75a-f84f-4c46-b1e2-1859a13aa4c2) | VISUALLY VERIFIED PDF p15 / section8 printed1B only; full37-page file preserved. Secondary biography, S-127/E-113; P-036 comparison only. |

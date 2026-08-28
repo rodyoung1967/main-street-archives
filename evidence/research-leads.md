@@ -162,6 +162,8 @@ Test two explicit models rather than choosing from the 1925 Sanborn use pattern:
 
 Retrieve the July deed(s), grantor/grantee index, August building permit/plans, assessment change, fire-insurance record, and the first exact-address tenants of the two Gates rooms. Preserve the possibility of changed entrances, subdivision, or post-fire footprint. Do not exclude 501 until the July restaurant location is directly mapped.
 
+The [28 August 2026 Tasks 5–6 audit](source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) adds verified original directory candidates and a direct 1916 Gilbert Miller firm association (`E-113`), without identifying either buyer or the later 503 Wolf family. Follow its four numbered identity callouts alongside the property retrieval targets. Neither frontage model is selected; current-plan Task 7 remains unstarted.
+
 ## RL-041 — 1973–1987 Municipal, Directory, and OLCC Follow-Up for Brass Rail / Hansen→Wiitanen
 Complete the interval work started in `evidence/source-captures/1973-1987-503-505-research-pass.md`. Highest-value targets:
 

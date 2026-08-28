@@ -427,3 +427,12 @@ people:
     related_evidence: [E-109]
     related_sources: [S-121]
     repository_file: people/et-mass.md
+
+  - id: P-046
+    name: Gilbert Miller
+    role: Springfield Wolf & Miller associate; Oregon City shoe-repair continuity
+    notes: Directly named with Springfield firm February 3, 1916. Broader 1918/1922 continuity strongly supported; preserve contemporary C. E. Miller discrepancy. No alias merger, legal partnership share, Wolf identity or 1916 Oregon City occupancy inferred.
+    related_businesses: [BUS-012]
+    related_evidence: [E-113]
+    related_sources: [S-125]
+    repository_file: people/profiles/gilbert-miller.md

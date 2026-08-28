@@ -6,6 +6,8 @@ Purpose: trace the people behind the short-lived 1918 **Wolf & Miller** operatio
 
 ## Miller-partner identity — Gilbert Miller strongly supported, but a primary-name conflict must be preserved
 
+**28 August 2026 update:** the original 3 February 1916 *Lane County News* now directly names **Gilbert Miller of the Wolf & Miller Harness shop** (`E-113`/`S-125`/`P-046`). This strengthens the Springfield association without resolving the 1918 name discrepancy, Idaho-bound partner or S. Wolf identity. Original Portland directory images and the secondary Medford Gates biography were also inspected; no buyer identity or later 503 family bridge was established. See the [Tasks 5–6 audit](1922-tasks-5-6-identity-review-2026-08-28.md).
+
 Two August 1918 newspaper reports now create a genuine source conflict rather than an OCR-only problem.
 
 ### 20 Aug 1918 — Eugene Daily Guard reprint says C. E. Miller

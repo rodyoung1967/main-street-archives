@@ -126,6 +126,10 @@ The municipal-debt report says **Fifth Street** was improved with city day labor
 The final 46 supplied *Oregon City Courier* December images were visually inspected (`S-122` / `E-110`), bringing the Courier inventory to **123/123 scan sheets processed through 30 December**. Directories on five December dates continue **Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527**; Holman/Randall continues at Fifth/Main and Scripture & May remains unnumbered. A 2 December editorial continues the Fifth Street improvement/payment controversy. No exact 503/505 occupant, new numbered Fifth address, or target-frontage demolition/rebuild statement was established in the batch; these are coverage limits, not absence evidence. 1915 remains IN PROGRESS pending Enterprise and other-source work, with M01-M04 still open.
 
 
+## 3 February 1916 — Springfield antecedent, not Oregon City occupancy
+
+The *Lane County News* directly names **Gilbert Miller of the Wolf & Miller Harness shop** in Springfield, describing his leather dressing/shoe-waterproofing product (`E-113`, `S-125`, `P-046`, `T-024`). This strengthens the named-firm association but supplies no legal partnership share, Wolf first name or 505 Main address. The actual 1918 C. E. Miller/Gilbert Miller discrepancy remains unresolved.
+
 ## October 1918
 **Wolf & Miller** appeared at **505 Main** (`E-027`). Separate newspaper references identify the **Holman & Pace** chapel/funeral parlors in Oregon City (`E-055`), but those 1918 Holman & Pace references do not state a street address.
 

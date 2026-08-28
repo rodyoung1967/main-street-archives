@@ -796,3 +796,12 @@ Type: Primary newspaper visual review; source `S-124`.
 Record: `evidence/source-captures/1915-enterprise-pages-121-160.md`.  
 Claims: All 40 page images from 16 April through 14 May were visually inspected. W. S. Eddy is repeatedly placed at Fashion Stable on Fifth between Main and Water, without a number. On 7 May p5 T. P. Randall and R. L. Holman are reported forming Holman & Randall at Holman's undertaking establishment on Main near Fifth. April-May reports document successive planning/resolution steps for Main Street paving, a cluster-light proposal and a potential delay after removal of the city engineer. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
 Confidence: Very High for visually readable business-location and public-works wording; exact numbered mapping and target occupancy unresolved.
+
+## E-113 — Gilbert Miller firm association and 1922 buyer identity screening
+Type: Primary newspaper and directory image verification; secondary Gates biography comparison.
+Dates: 3 February 1916; 1920 directory; 1990 nomination; reviewed 28 August 2026.
+Sources: `S-125`, `S-126`, `S-127`.
+Record: `evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md`.
+Claims: The 1916 Lane County News directly names Gilbert Miller of the Wolf & Miller Harness shop in Springfield. Original 1920 directory images verify separate Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf listings; none is identified as the 1922 buyer. Inspected Gates entries do not establish that buyer's full name. The 1990 nomination identifies the Medford candidate as Charles Edwin “Pop” Gates, with wife Leah A. Farmsley, but supplies no bridge to the Oregon City purchase. The actual 1918 C. E. Miller/Gilbert Miller source discrepancy remains intact.
+Confidence: Very High for the readable 1916 association and directory wording; visually verified but secondary for the Gates biography; unresolved for buyer identities, the Wolf partner, later 503 family ownership, and any 1922 frontage mapping. No annual completion change.
+Related: `P-046`, `BUS-012`, `T-024`; candidate comparisons only for `P-035`, `P-036`; `IMG-0409`–`IMG-0413`.

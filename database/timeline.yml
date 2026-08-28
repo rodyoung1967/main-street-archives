@@ -264,3 +264,11 @@ timeline:
     related_buildings:
       - B-005
 
+  - id: T-024
+    date: 3 February 1916
+    summary: Lane County News directly names Gilbert Miller of the Wolf & Miller Harness shop in Springfield and describes his own leather dressing/shoe-waterproofing product. This is a Springfield antecedent, not 1916 occupancy at 505 Main. No legal partnership share or Wolf given name; preserve the 1918 C. E. Miller discrepancy.
+    confidence: Very High for visually verified named-firm association; broader identity and property links unresolved.
+    related_evidence: [E-113]
+    related_sources: [S-125]
+    related_people: [P-046]
+    related_businesses: [BUS-012]

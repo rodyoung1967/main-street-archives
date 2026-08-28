@@ -812,3 +812,24 @@ Repository: `newspapers/oregon-city-enterprise/1915-pages-121-160/`; exact URLs 
 Media: `IMG-0369` through `IMG-0408`.  
 Evidence: `E-112`; detailed review `evidence/source-captures/1915-enterprise-pages-121-160.md`.  
 Notes: All 40 scans visually inspected. W. S. Eddy/Fashion Stable is placed on Fifth between Main and Water; 7 May reports formation of Holman & Randall at Holman's Main-near-Fifth undertaking establishment; April-May reports extend the Main Street paving/cluster-light chronology. No exact 503/505 or new numbered Fifth occupant; coverage only.
+
+## S-125 — Lane County News, 3 February 1916, Gilbert Miller at Wolf & Miller
+Type: Primary newspaper scan; VISUALLY VERIFIED, targeted front-page item.
+URL: https://oregonnews.uoregon.edu/lccn/sn97071002/1916-02-03/ed-1/seq-1.pdf
+Repository: `newspapers/lane-county-news/1916-02-03-page-1-gilbert-miller.pdf`; archive filename `seq-1.pdf`.
+Media: `IMG-0409`; evidence `E-113`; person `P-046`; business `BUS-012`.
+Notes: Page 1, column 4, “To Manufacture Leather Dressing” explicitly names Gilbert Miller of the Wolf & Miller Harness shop in Springfield. No legal partnership share, Wolf given name or Oregon City address. One targeted page, not full-issue or annual review.
+
+## S-126 — Polk Portland City Directory 1920, Wolf and Gates candidate pages
+Type: Primary directory images; VISUALLY VERIFIED for cited entries; clipped edges limit coverage.
+URLs: https://archive.org/details/CITY_DIRECTORY_PORTLAND_1920_1 and https://archive.org/details/CITY_DIRECTORY_PORTLAND_1920_2
+Repository: `records/directories/1920-polk-portland-page-542.jpg`, `records/directories/1920-polk-portland-page-543.jpg`, `records/directories/1920-polk-portland-page-1538.jpg`.
+Media: `IMG-0410`–`IMG-0412`; evidence `E-113`.
+Notes: Newberry Library scans; Vol. I leaves n545/n546 = printed pp542/543, Vol. II leaf n571 = p1538. Exact image URLs, source filenames, coverage limits and hashes in the Tasks 5–6 capture/media register. Saml (Lena), Simon (Carolyn) and Victor (Alice) Wolf remain separate candidates/context. Gates entries do not identify the Oregon City buyer. No absence or identity-merger conclusion.
+
+## S-127 — C. E. Pop Gates House National Register nomination, 1990
+Type: Secondary historic-resource biography; scan VISUALLY VERIFIED on PDF page 15 only.
+URL: https://npgallery.nps.gov/GetAsset/b463e75a-f84f-4c46-b1e2-1859a13aa4c2
+Repository: `records/historic-resource/1990-medford-pop-gates-house-nomination.pdf`; complete 37-page file preserved.
+Media: `IMG-0413`; evidence `E-113`.
+Notes: Section 8 printed page 1B / PDF page 15 identifies Charles Edwin “Pop” Gates, wife Leah A. Farmsley, 1912 Medford move and automobile business with brother W. A. “Bill” Gates. No connection to the 1922 Oregon City purchaser proved. Other PDF pages not reviewed in this task.

@@ -13,7 +13,7 @@
 | BUS-009 | [The 505](the-505.md) | 505 Main | Earlier archive handling label for the 505 Main Street business context. Keep as a related name; participant testimony establishes **505 Tavern** (`BUS-005`) as the name already in use when Mitch acquired the business in March 1991. |
 | BUS-010 | [Brass Rail Tavern](brass-rail-tavern.md) | 505 Main | Family history: Dick and Sheila operated Brass Rail before they owned the 505 building; they later purchased that building from Mrs. Nesmeth/Nemeth. April 1988 Commission record identifies The Dug Inn as formerly Brass Rail and records a Wiitanen-to-Cotterell transfer in the later sale/repo/transfer cycle. |
 | BUS-011 | The Chicago Store | 505 Main | Newspaper ads April 1911 and January 1913: new/second-hand clothing, cleaning and repairing. |
-| BUS-012 | Wolf & Miller | 505 Main | 10 October 1918 Oregon City Courier: shoe business / shoe-repair department. |
+| BUS-012 | Wolf & Miller | 505 Main | 10 October 1918 Oregon City Courier: shoe business / shoe-repair department. Earlier Springfield association directly names Gilbert Miller (P-046), 3 February 1916 (E-113/S-125); not 1916 occupancy at 505. Wolf given name and legal shares unresolved. |
 | BUS-013 | Farr's Pool Hall | 505 Main | Edwin F. and Alice Farr, proprietors; City inventory of their residence. |
 | BUS-014 | Harr's Recreation Center | 505 Main | City inventory transcription of 1945 directory. Preserve exactly; may be Farr/Harr conflict. |
 | BUS-015 | Well's Recreation | 505 Main | City inventory reports 1953 directory; spelling to verify. |

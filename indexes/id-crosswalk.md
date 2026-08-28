@@ -116,3 +116,13 @@ When a source, evidence item, media item, artifact, person, business, building, 
 | BUS-031 | E-109; S-121; T-020; RL-043 | Electric Store / company at617 Main, Beaver Building; no buildingID assigned. |
 | BUS-032 | E-109; S-121; T-020; RL-043 | Eddy's at526 Main; no proprietor identity or buildingID assigned. |
 | T-021 | E-109; S-121; RL-043 | Fifth Street road-work report only, no storefront/parcel assignment. |
+
+## 1922 Tasks 5–6 identity and visual-verification checkpoint
+
+| ID | Connected records | Scope |
+| --- | --- | --- |
+| E-113 | S-125–S-127; P-046; BUS-012; T-024; OQ-031; RL-040 | Direct Springfield Miller association; candidate comparisons do not establish buyer identities or property boundaries. |
+| S-125 / IMG-0409 | E-113; P-046; BUS-012; T-024 | 3 February 1916 Lane County News p1; targeted item and masthead verified. Not 1916 occupancy at 505. |
+| S-126 / IMG-0410–IMG-0412 | E-113; P-035/P-036 comparison only | 1920 Portland directory pp542/543/1538; no candidate merger; clipped-edge limits preserved. |
+| S-127 / IMG-0413 | E-113; P-036 comparison only | Secondary Medford Gates nomination, only PDF p15 reviewed; no Oregon City buyer bridge. |
+| P-046 / T-024 | E-113; S-125; BUS-012 | Gilbert Miller directly named with Springfield firm; retain 1918 C. E. Miller discrepancy. |

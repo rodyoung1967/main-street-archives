@@ -118,7 +118,7 @@ https://oregonnews.uoregon.edu/lccn/sn96088107/1918-08-20/ed-1/seq-5/
 
 Current evidence favors **Gilbert Miller** as the working identity because:
 
-1. Gilbert Miller is independently documented as a Springfield resident/civic figure during the Wolf & Miller years;
+1. Gilbert Miller is independently documented as a Springfield resident/civic figure during the Wolf & Miller years; the newly visually verified 3 February 1916 notice directly names him with the firm's harness shop (`E-113`/`S-125`);
 2. the local Springfield News directly names Gilbert in the Oregon City move notice;
 3. a Springfield historic-district National Register inventory independently identifies **Gilbert Miller of Wolf and Miller (men's furnishings)** around 1918;
 4. Gilbert Miller is later directly documented in the Oregon City/Fifth Street sequence.
@@ -178,14 +178,16 @@ Use this only as a research lead until corroborated with census, probate, marria
 
 ## Portland / Oregon City Wolf candidate context — do not select yet
 
-The **1920 Polk's Portland City Directory** includes multiple Wolf entries relevant to candidate screening:
+The **1920 Polk's Portland City Directory** includes multiple Wolf entries relevant to candidate screening. The original p1538 image is now visually verified (`S-126`), upgrading the earlier derivative-text discovery, not any identity conclusion:
 
-- **Samuel Wolf**, in clothing, 33 N. 3rd, residence 691 Elliott Ave.;
-- **Simon Wolf**, associated with Wonder Millinery, residence 340 10th;
-- **Victor Wolf**, a clerk with Goodyear Rubber Co., whose residence is listed as **Oregon City**.
+- **Saml (Lena) Wolf** (conventionally expanded as Samuel), in clothing, 33 3d N, residence 691 Elliott av;
+- **Simon (Carolyn) Wolf**, associated with Wonder Millinery, residence 340 10th;
+- **Victor (Alice) Wolf**, a clerk with Goodyear Rubber Co., whose residence is listed as **Oregon City**.
 
 Source:
 https://ldsgenealogy.com/OR/books/Polks-Portland-City-Directory-1920-Vol-II-part-110.htm
+
+Original scan: https://archive.org/download/CITY_DIRECTORY_PORTLAND_1920_2/page/n571.jpg. The cited left-column entries are intact; the delivered image clips part of the right column. See the [Tasks 5–6 audit](1922-tasks-5-6-identity-review-2026-08-28.md) for preserved images, exact readings, Gates comparisons and unresolved identity callouts.
 
 Samuel's clothing trade is superficially compatible with the clothing/shoe character of Wolf & Miller, but **that is not identity proof**. Searches using Samuel and Simon's full names have not yet produced a defensible Oregon City / Wolf & Miller / target-property bridge. Victor provides evidence of another Wolf with an Oregon City connection but does not match the `S. Wolf` initial. These entries should remain separate candidates/context until a deed, business record, family record, or property source makes a direct bridge.
 

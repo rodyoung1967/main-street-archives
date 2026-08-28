@@ -37,7 +37,7 @@ The following two rows were previously misplaced under the 503 heading. They are
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Apr. 1911 / Jan. 1913 | The Chicago Store | `BUS-011` | `E-026` | Very High | |
-| Oct. 1918 | Wolf & Miller | `BUS-012` | `E-027` | Very High | Address occupied; surviving-building identity inferential. |
+| Oct. 1918 | Wolf & Miller | `BUS-012` | `E-027` | Very High | Address occupied; surviving-building identity inferential. E-113 directly names Gilbert with the Springfield firm in February 1916, not at 505 then; 1918 Miller name discrepancy preserved. |
 | 1921-1922 | Dr. Freeze, Eye Specialist | `BUS-021` | `E-028` | Very High | 505 / 505 1/2; later Masonic Building. |
 | 1925 | Billiards and cigars (Sanborn) | | `E-020` | High map | |
 | By 1934 context | Farr's Pool Hall | `BUS-013` | `E-033` | High official | Operating span incomplete. |

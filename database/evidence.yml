@@ -1672,3 +1672,16 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     repository_file: evidence/source-captures/1915-enterprise-pages-121-160.md
 
+  - id: E-113
+    name: Gilbert Miller firm association and 1922 buyer identity screening
+    type: Primary newspaper and directory image verification; secondary Gates biography comparison
+    claims:
+      - February 3, 1916 Lane County News directly names Gilbert Miller of the Wolf & Miller Harness shop in Springfield; no legal partnership share or Oregon City address is given.
+      - Original 1920 Portland directory images verify separate Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf entries; none is identified as the 1922 buyer. Inspected Gates entries do not establish that buyer's full name.
+      - The 1990 nomination identifies Medford candidate Charles Edwin Pop Gates and wife Leah A. Farmsley; this is secondary biography, not a bridge to the Oregon City purchase. Only PDF page 15 reviewed.
+      - The actual 1918 C. E. Miller versus Gilbert Miller source discrepancy, unknown Wolf partner and later 503 family connection remain unresolved. No annual status or frontage-model change.
+    confidence: Very High for readable primary wording; visually verified but secondary for Gates biography; buyer identities and property mapping unresolved.
+    related_sources: [S-125, S-126, S-127]
+    related_people: [P-046]
+    related_businesses: [BUS-012]
+    repository_file: evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md

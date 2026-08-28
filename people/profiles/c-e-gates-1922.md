@@ -20,6 +20,8 @@ The common transaction and property context strongly supports treating July `C. 
 
 ## Next records
 
+The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) inspected original 1920 Portland Gates entries (`S-126`) without identifying this buyer. A scanned 1990 nomination names the Medford candidate **Charles Edwin “Pop” Gates**, wife **Leah A. Farmsley** (`S-127`, secondary). Neither a merger nor conclusive exclusion is justified; the buyer's full name remains unresolved.
+
 - Harding-to-Wolf/Gates deed and grantor/grantee index entry.
 - Building permit, plans, assessment change, insurance, or contractor file for the August 1922 structure.
 - Portland directory entry and full-name identification.
