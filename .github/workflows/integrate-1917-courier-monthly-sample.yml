@@ -26,6 +26,9 @@ jobs:
       - name: Integrate visually reviewed sample
         run: python3 scripts/integrate_1917_courier_monthly_sample.py
 
+      - name: Show affected business YAML
+        run: nl -ba database/businesses.yml | sed -n '410,570p'
+
       - name: Validate after integration
         run: python3 scripts/validate_archive.py
 
