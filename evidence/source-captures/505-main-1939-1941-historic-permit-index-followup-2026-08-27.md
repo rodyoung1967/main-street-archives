@@ -110,6 +110,14 @@ Request from the Oregon City Recorder / records staff:
 
 Separately request the **1938–1940 assessment index and 1940 tax-roll/improvement record** for original Oregon City **Block 4, Lots 3–4 / the parcel area associated with 505 Main**, using current parcel identifiers only as modern finding aids rather than assuming they existed in the same form in 1940.
 
+## Prepared request draft — not sent
+
+A ready-to-send City Recorder email draft, current contact information, supporting record-series citation, search variants, exact requested fields, cost language, and response-handling instructions are preserved at:
+
+`evidence/source-captures/505-main-1939-1941-building-permit-records-request-draft-2026-08-27.md`
+
+Current preferred City Recorder team email preserved in that draft: **`recorderteam@orcity.org`**. The draft is explicitly marked **NOT SENT** so the archive does not confuse preparation with an actual records request.
+
 ## Research classification
 
 - Official inventories carrying 1940 for 505: **Very High for what the later inventories state; unresolved for historical meaning**.
