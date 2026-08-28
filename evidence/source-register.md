@@ -871,8 +871,8 @@ Notes: The full City source is 139 scanned PDF pages; this project audit preserv
 ## S-132 — Oregon and Washington State Gazetteer and Business Directory, 1915–1916
 Publisher: R. L. Polk & Co.
 FamilySearch catalog: `1439422`; catalog URL: https://www.familysearch.org/en/search/catalog/1439422
-Parts: four direct FamilySearch image ARKs, preserved in `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
-Type/status: Primary directory identified; **RETRIEVAL GAP / MANUAL CALLOUT**. The catalog and image viewer redirected to sign-in; no directory page was visually reviewed or saved.
-Evidence: `E-118`; lead `RL-044`; manual callout `1915-D01`.
-Notes: Catalog/index discovery proves neither an occupant nor absence. Search 501–511 Main, named operators and numbered Fifth Street only after the actual Oregon City pages are retrieved.
+Parts: four FamilySearch image sets covering printed pp. 1–365, 366–863, 864–1351 and 1352–1655; DGS `4214541`, `4214566`, `4214594`, `4213800`. Exact ARKs and page locators are preserved in `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
+Type/status: Primary directory; **VISUALLY VERIFIED TARGETED REVIEW**. Authenticated FamilySearch access recovered the complete Oregon City town section, printed pp. 260–262, and relevant located druggist/undertaker classified pages. Five page images are preserved under `records/directories/1915-1916-polk-oregon-city/`.
+Evidence: `E-118`; completed lead `RL-044`; completed manual callout `1915-D01`.
+Notes: The Oregon City section is a business/professional gazetteer without reverse-street or ordinary exact-address listings. It names Harding as a druggist, printed `Brightbell H P` as a grocer, Holman as an undertaker, Randall as postmaster and Fashion Livery Stable under G. A. Bergren, but prints no target Main/Fifth number. Directory silence is not vacancy or absence evidence.
 

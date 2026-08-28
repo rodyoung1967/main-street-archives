@@ -1766,13 +1766,14 @@ evidence:
     repository_file: evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md
 
   - id: E-118
-    name: 1915–1916 Polk gazetteer FamilySearch access audit
-    type: Source-access audit and retrieval-gap evidence
+    name: 1915–1916 Polk gazetteer Oregon City review
+    type: Primary directory business/trade and source-coverage evidence
     claims:
-      - FamilySearch catalog 1439422 is linked through four indexed image ARKs for the R. L. Polk 1915–1916 Oregon and Washington state gazetteer and business directory.
-      - The catalog and direct image-viewer route redirected to FamilySearch sign-in; no authenticated external browser session or accessible alternate complete scan was recovered.
-      - No directory page was visually inspected and no address, occupant, business, vacancy or absence conclusion is drawn.
-    confidence: Very High for the indexed ARKs and observed sign-in barrier; none for directory contents.
+      - Authenticated visual review establishes the complete Oregon City alphabetical business/professional section at printed pp. 260-262; it is not a reverse-street directory and prints no target Main or numbered Fifth address.
+      - The town section lists George A. Harding as drugs, Brightbell H P as grocer, Roswell L. Holman as undertaker, Thomas P. Randall as postmaster and Fashion Livery Stable under G. A. Bergren. Brightbell is the printed spelling and only probably corresponds to H. P. Brightbill.
+      - Classified p. 1129 lists Harding G A among Oregon City druggists; classified p. 1642 lists Holman R L among Oregon City undertakers. Neither prints a street address.
+      - No Hylton, W. W. Bradley, Frank Cox or Scripture & May entry appears in the complete town section. This is section coverage only and is not proof of absence, vacancy, relocation or non-use.
+    confidence: Very High for the scan-verified readings and absence of target numbers in the complete town section; Moderate for the Brightbell/Brightbill association; none for exact-address inference.
     related_sources: [S-132]
     related_buildings: [B-001, B-002, B-003, B-005]
     repository_file: evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md

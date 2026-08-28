@@ -842,10 +842,10 @@ Claims: Official high-resolution scans directly verify the Block 4 sequence **51
 Confidence: **Very High** for visually readable numbers, classifications, sequence and repeated V marks; **High-confidence interpretation** for V=vacant; **Moderate hypothesis** for blank row=505; **Probable only** for Scripture & May at 110. Exact month within the 1914–15 ledger span and faint target tenants remain unresolved.  
 Related: `B-001`, `B-002`, `B-005`; `evidence/source-captures/1914-1917-505-vacancy-assessment.md`; `evidence/source-captures/scripture-may-108-fifth-predecessor-lead.md`.
 
-## E-118 — 1915–1916 Polk gazetteer FamilySearch access audit
-Type: Source-access audit / retrieval-gap evidence; source `S-132`.
+## E-118 — 1915–1916 Polk gazetteer Oregon City review
+Type: Primary directory business/trade evidence and source-coverage evidence; source `S-132`.
 Record: `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
-Claims: FamilySearch catalog `1439422` is linked through four direct image ARKs for the 1915–1916 R. L. Polk Oregon/Washington gazetteer. The catalog and direct viewer route redirected to FamilySearch sign-in in the available browser; no authenticated external browser session or accessible alternate complete scan was recovered. No directory image was visually inspected and no address, occupant, business, vacancy or absence conclusion is drawn.
-Disposition: **RETRIEVAL GAP / MANUAL CALLOUT `1915-D01`**. Retrieve and visually inspect the complete Oregon City section before using the directory as historical evidence.
-Confidence: Very High for the four indexed ARKs and observed sign-in barrier; none for directory contents.
+Claims: Authenticated visual review establishes that the complete Oregon City town section is printed pp. 260–262 and is an alphabetical business/professional gazetteer, not a reverse-street directory. It lists George A. Harding as drugs, `Brightbell H P` as grocer, Roswell L. Holman as undertaker, Thomas P. Randall as postmaster and Fashion Livery Stable under G. A. Bergren; no target address is printed. Classified p. 1129 lists Harding among Oregon City druggists, and classified p. 1642 lists `Holman R L` under Oregon City undertakers. The complete town section contains no Hylton, W. W. Bradley, Frank Cox or Scripture & May entry, but this limited-section silence is not absence evidence.
+Disposition: **VISUALLY VERIFIED TARGETED REVIEW; MANUAL CALLOUT `1915-D01` COMPLETED**. The source corroborates trades/business continuity but does not assign an occupant to 501/503/505/507/509/511 Main or a numbered Fifth Street address.
+Confidence: Very High for the printed town/classified readings and lack of target numbers in the complete town section; Moderate for associating printed `Brightbell H P` with H. P. Brightbill; none for any exact address inference.
 
