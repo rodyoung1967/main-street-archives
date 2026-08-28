@@ -1,0 +1,99 @@
+name: Fetch 1915 Enterprise pages 201-225
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/fetch-1915-enterprise-201-225.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download Enterprise pages 201-225
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="newspapers/oregon-city-enterprise/1915-pages-201-225"
+          mkdir -p "$out"
+          rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
+          export out
+          fetch_one() {
+            d="$1"; n="$2"; nn=$(printf '%02d' "$n")
+            f="$out/${d}-seq-${nn}.pdf"
+            url="https://oregonnews.uoregon.edu/lccn/sn00063700/${d}/ed-1/seq-${n}.pdf"
+            curl --fail --location --retry 3 --retry-delay 1 --connect-timeout 20 --max-time 180 \
+              --user-agent "Mozilla/5.0 (main-street-archives research)" -o "$f" "$url"
+          }
+          export -f fetch_one
+          for d in 1915-06-25 1915-07-02 1915-07-09; do
+            for n in $(seq 1 8); do
+              bash -c 'fetch_one "$0" "$1"' "$d" "$n" &
+              while [ "$(jobs -rp | wc -l)" -ge 8 ]; do wait -n; done
+            done
+          done
+          bash -c 'fetch_one "$0" "$1"' 1915-07-16 1
+          wait
+          test "$(find "$out" -maxdepth 1 -name '*.pdf' | wc -l)" -eq 25
+          for f in "$out"/*.pdf; do
+            test "$(head -c 4 "$f")" = "%PDF"
+            sha256sum "$f" >> "$out/sha256.txt"
+          done
+
+      - name: Write retrieval manifest
+        shell: python
+        run: |
+          import hashlib, json, pathlib
+          from datetime import datetime, timezone
+          out = pathlib.Path("newspapers/oregon-city-enterprise/1915-pages-201-225")
+          plan=[("1915-06-25", range(1,9)), ("1915-07-02", range(1,9)), ("1915-07-09", range(1,9)), ("1915-07-16", range(1,2))]
+          items=[]
+          global_page=201
+          for date, seqs in plan:
+              for seq in seqs:
+                  pdf=out/f"{date}-seq-{seq:02d}.pdf"
+                  items.append({
+                      "chronological_page": global_page,
+                      "file": pdf.name,
+                      "date": date,
+                      "sequence": seq,
+                      "source_url": f"https://oregonnews.uoregon.edu/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf",
+                      "sha256": hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                      "review_status": "PENDING VISUAL REVIEW"
+                  })
+                  global_page += 1
+          manifest={
+              "title":"Morning Enterprise 1915 chronological pages 201-225 archival scan manifest",
+              "newspaper_lccn":"sn00063700",
+              "retrieved_utc":datetime.now(timezone.utc).isoformat(),
+              "page_count":len(items),
+              "chronological_range":[201,225],
+              "issue_dates":["1915-06-25","1915-07-02","1915-07-09","1915-07-16"],
+              "items":items
+          }
+          (out/"manifest.json").write_text(json.dumps(manifest,indent=2)+"\n")
+
+      - name: Upload preserved PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1915-enterprise-pages-201-225-pdfs
+          path: newspapers/oregon-city-enterprise/1915-pages-201-225
+          retention-days: 7
+
+      - name: Commit preserved PDFs and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newspapers/oregon-city-enterprise/1915-pages-201-225
+          git commit -m "Archive 1915 Enterprise pages 201-225"
+          git pull --rebase origin main
+          git push origin HEAD:main
