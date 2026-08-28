@@ -1,0 +1,69 @@
+name: Integrate 1914-1915 water ledger Book 3
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-1915-water-ledger-book3.yml"
+      - "scripts/integrate_1915_water_ledger_book3.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Download reviewed Book 3 page extracts
+        uses: actions/download-artifact@v4
+        with:
+          name: 1914-1915-water-ledger-pages-001-012
+          path: /tmp/book3-review
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          repository: rodyoung1967/main-street-archives
+          run-id: 33148034927
+
+      - name: Preserve reviewed official page extracts
+        shell: bash
+        run: |
+          set -euo pipefail
+          dest="records/municipal/water-rent/1914-1915-book-3-review-pages"
+          mkdir -p "$dest"
+          cp /tmp/book3-review/page-pdfs/page-*.pdf "$dest"/
+          cp /tmp/book3-review/source-sha256.txt "$dest"/
+          cp /tmp/book3-review/page-pdfs-sha256.txt "$dest"/
+          cp /tmp/book3-review/pdfinfo.txt "$dest"/
+
+      - name: Integrate findings
+        run: python3 scripts/integrate_1915_water_ledger_book3.py
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "No integration changes to commit."
+            exit 0
+          fi
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add evidence records registers database scripts .github
+          git commit -m "Complete 1914-1915 water ledger target audit"
+          git pull --rebase origin main
+          git push origin HEAD:main
