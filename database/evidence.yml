@@ -1721,3 +1721,33 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     repository_file: evidence/source-captures/1915-enterprise-pages-201-225.md
 
+  - id: E-116
+    name: 1916 Courier pages 106-180 visual review
+    type: Primary newspaper visual review of 75 original page scans
+    claims:
+    - All 75 selected scans, March 23 p1 through May 18 p3, visually inspected; cumulative Courier 180/458 and both titles 180/884; next May 18
+      p4.
+    - March 23 p5 reports Portland Gas & Coke branch office at 718 Main under George J. Hall.
+    - April 6 p5 reports T. P. Randall sold his undertaking interest to R. L. Holman while their joint-name Fifth/Main advertisement persisted;
+      no numbered premises or real-estate sale established.
+    - May 18 p1 reports three-month permission for Raasch and Lamb to move from a Main Street room to the basement in the same Andresen Building;
+      completion and target number not established.
+    - Dated neighboring addresses 502/507/509/511/519/527/528/612/617 verified; April 13 p6 Anderson 414 and May 4 p6 Martin 613 also verified.
+    - No exact 503/505 occupant or new 102/104/106/108/110 Fifth listing found in this batch; no vacancy or absence conclusion. Separate 509 Fifth
+      social notice retained.
+    confidence: Very High for printed wording; target occupancy and property mapping unresolved
+    related_sources:
+    - S-130
+    related_evidence:
+    - E-054
+    - E-109
+    - E-112
+    related_buildings:
+    - B-001
+    - B-002
+    - B-003
+    - B-004
+    - B-005
+    repository_file: evidence/source-captures/1916-courier-pages-106-180.md
+    related_people: [P-047, P-048, P-049, P-050, P-051]
+    related_businesses: [BUS-033, BUS-034, BUS-035, BUS-036, BUS-007, BUS-026, BUS-027, BUS-028, BUS-029, BUS-031]

@@ -146,3 +146,7 @@ S-120 / E-107 visually reconfirms the recurring directory: **W. W. Bradley at 50
 ## Late-autumn1915 dated extension
 
 E-109/S-121 visually confirms **Bradley507 / H.P.Brightbill509 / Harding511** on October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3. These extend the dated advertised-location record through November25, not uninterrupted tenancy or proof that the three storefronts shared the later footprint. [Batch log](../evidence/source-captures/1915-courier-sheets-101-110.md).
+
+## 1916 dated neighborhood corroboration
+
+E-116/S-130, [pages 106–180](../evidence/source-captures/1916-courier-pages-106-180.md), verifies March–May advertised addresses Bradley 507, Brightbill 509, Harding 511 and Price 527. These retain their individual historic numbers; no later consolidated-building label, surviving-structure date or ownership transfer is inferred.

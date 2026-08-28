@@ -39,7 +39,7 @@ This is not proof of the contents of the 1916-17 directory, but it independently
 Archive issue roots now explicitly confirm:
 
 - **27 Jan 1916 — 8 images/pages**
-- **20 Apr 1916 — 10 images/pages**
+- **20 Apr 1916 — 12 images/pages (corrected from 10; all twelve scans verified in pages 106–180)**
 - **20 Jul 1916 — 8 images/pages**
 - **28 Sep 1916 — 8 images/pages**
 - **12 Oct 1916 — 8 images/pages**
@@ -83,3 +83,7 @@ The odd/even address sequence is useful context when reconstructing the block, b
 2. Continue building exact issue counts for every 1916 Courier and Enterprise issue.
 3. Continue targeted newspaper searches for 503/505, but treat OCR/search as discovery only.
 4. Once scan rendering is available, visually inspect every page under the repository standard.
+
+## 28 August 2026 certified update
+
+Current exhaustive coverage is **Courier 180/458 pages**, through **May 18 p3**; next May 18 p4. The 104-issue/884-page inventory is recorded in the [checkpoint](1916-online-audit-checkpoint.md); older inventory to-dos and targeted search checkpoints above are historical, not current coverage. April 20 has **12**, not 10 pages. [Verified batch and findings](1916-courier-pages-106-180.md), E-116/S-130. Other online source work remains pending.

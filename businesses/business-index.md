@@ -40,3 +40,16 @@
 ### October 28–November 25, 1915 corroboration
 
 E-109/S-121 adds five dated directory confirmations for BUS-026 at 507, BUS-027 at 509, BUS-007 at 511, BUS-029 at 519 and BUS-028 at 527. These extend the advertised-location record beyond the earlier August–October rows, not proof of uninterrupted operation.
+
+## 1916 March–May newly indexed records
+
+| ID | Business | Address | Notes |
+| --- | --- | --- | --- |
+| BUS-033 | Portland Gas & Coke Co. Oregon City branch | 718 Main | Branch opened by March 23 report; George J. Hall in charge. No deed claim. E-116/S-130. |
+| BUS-034 | Dr. G. F. Anderson chiropractic practice | 414 Main | April 13 p 6 dated advertisement; later unnumbered ads do not independently establish address. E-116/S-130. |
+| BUS-035 | Holman & Randall undertaking establishment | Fifth and Main; exact number unresolved | May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day and real-estate ownership unknown. E-116/S-130. |
+| BUS-036 | Raasch & Lamb pool and billiard hall | Andresen Building on Main; exact number unresolved | May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned to 503/505. E-116/S-130. |
+
+## 1916 dated corroboration
+
+E-116/S-130 verifies BUS-007 511, BUS-026 507, BUS-027 509, BUS-028 527, BUS-029 519 and BUS-031 617 on specified March–May scan dates. See [batch](../evidence/source-captures/1916-courier-pages-106-180.md); no uninterrupted occupancy or ownership transfer inferred.

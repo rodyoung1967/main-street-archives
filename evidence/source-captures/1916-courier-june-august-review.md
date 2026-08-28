@@ -14,7 +14,7 @@ Recurring business-directory evidence continues to show the neighboring address 
 
 Examples recovered from June 8 and June 15 support Bradley at 507 and Harding at 511. OCR continues to corrupt digits on some June pages; June 1 and June 29 OCR render Harding as `611 Main`, which is treated as an OCR defect rather than a move because clean recurring listings establish 511.
 
-The recurring advertisement still uses **R. L. Holman and T. P. Randall** at **Fifth and Main St.** on June 1, June 22, and June 29. However, a newly recovered **6 April 1916 Courier page-5 OCR discovery** states that **T. P. Randall had sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. Because the April 6 item has not yet been visually verified under `RESEARCH-STANDARD.md`, it is preserved as a **high-value lead**, not yet promoted to established evidence. If visually confirmed, it means the later joint-name advertisements were stale/lagging ads and cannot be used as proof that Randall still owned the business in June or July.
+The June joint-name advertisements remain targeted leads. The **6 April p5 sale notice and same-page joint advertisement were visually verified on 28 August 2026 (E-116/S-130)**: Randall sold his undertaking interest to Holman. Later joint-name copy cannot independently prove continued partnership ownership. See [verified batch](1916-courier-pages-106-180.md). No June/July scan status is upgraded by that April verification.
 
 April 6 page lead:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-5/
@@ -28,7 +28,7 @@ The neighboring address pattern remains stable:
 - **H. P. Brightbill — 509 Main** is explicitly present on July 20 and July 27 directory pages.
 - A July 13 OCR rendering turns W. W. Bradley's known **507 Main** into `607-Main`; this is preserved as another OCR-digit warning and not treated as an address change.
 
-The old Holman & Randall advertisement remains in circulation in July, including July 13. In light of the April 6 sale lead above, the joint ad wording must **not** be interpreted as ownership/partnership continuity unless the sale report fails visual verification.
+The old Holman & Randall advertisement remains in circulation in July, including July 13. In light of the April 6 sale lead above, the joint ad wording must **not** be interpreted as ownership/partnership continuity; the April 6 sale report is now visually verified.
 
 No reliable exact-address July listing for **503 Main** or **505 Main** has yet been recovered.
 
@@ -40,7 +40,7 @@ By **31 August 1916**, the recurring undertaker advertisement reads:
 
 rather than the earlier **R. L. Holman and T. P. Randall** wording.
 
-This proves the advertising wording had changed by August 31. It does not by itself establish the legal date of the business transfer. The April 6 sale lead, if visually confirmed, would place the actual transfer months earlier and explain why the newspaper continued to print obsolete joint-name copy.
+This proves the advertising wording had changed by August 31. It does not by itself establish the legal date of the business transfer. The visually verified April 6 sale report predates that later wording transition; exact legal transaction day remains unstated.
 
 The Fifth/Main description still does not independently map the undertaking business to 501, 503, or 505.
 
@@ -58,7 +58,7 @@ Those are not equivalent conclusions.
 
 ## Next steps
 
-1. Visually verify the **6 April 1916 page 5** report that Randall sold his interest to Holman.
+1. **Completed 28 August:** visually verified April 6 p5 sale and joint ad (E-116); retain legal-date and numbered-premises limits.
 2. Continue September–December 1916 issue-by-issue review.
 3. Continue targeted searches for L. Hylton/successor at 503 and any 505 occupant.
 4. Keep recording OCR address-digit failures when they affect the target block.

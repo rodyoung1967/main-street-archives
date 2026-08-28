@@ -821,3 +821,15 @@ Type: Primary newspaper visual review; source `S-129`.
 Record: `evidence/source-captures/1915-enterprise-pages-201-225.md`.  
 Claims: All 25 page images from 25 June through 16 July p1 were visually inspected. June 25 p5 independently confirms the Worswick Main Street paving contract award, $1.20-per-yard bid, 10-year guarantee condition and $14,184 maximum cost. July 2 p3 records a bond/guarantee deadlock. July 9 p3 records two-bond/15-percent security terms and that physical Main Street rail/preparatory work had begun. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
 Confidence: Very High for the visually readable public-works wording; target occupancy and building effects unresolved.
+
+## E-116 - 1916 Courier pages 106-180 visual review
+Type: Primary newspaper visual review; source S-130.
+Record: `evidence/source-captures/1916-courier-pages-106-180.md`.
+Claims:
+- All 75 selected scans, March 23 p1 through May 18 p3, visually inspected; cumulative Courier 180/458 and both titles 180/884; next May 18 p4.
+- March 23 p5 reports Portland Gas & Coke branch office at 718 Main under George J. Hall.
+- April 6 p5 reports T. P. Randall sold his undertaking interest to R. L. Holman while their joint-name Fifth/Main advertisement persisted; no numbered premises or real-estate sale established.
+- May 18 p1 reports three-month permission for Raasch and Lamb to move from a Main Street room to the basement in the same Andresen Building; completion and target number not established.
+- Dated neighboring addresses 502/507/509/511/519/527/528/612/617 verified; April 13 p6 Anderson 414 and May 4 p6 Martin 613 also verified.
+- No exact 503/505 occupant or new 102/104/106/108/110 Fifth listing found in this batch; no vacancy or absence conclusion. Separate 509 Fifth social notice retained.
+Confidence: Very High for readable printed wording; business legal dates, exact target occupancy and property mapping unresolved.

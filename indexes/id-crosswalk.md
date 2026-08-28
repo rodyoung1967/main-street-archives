@@ -128,3 +128,13 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 | S-126 / IMG-0410–IMG-0412 | E-113; P-035/P-036 comparison only | 1920 Portland directory pp542/543/1538; no candidate merger; clipped-edge limits preserved. |
 | S-127 / IMG-0413 | E-113; P-036 comparison only | Secondary Medford Gates nomination, only PDF p15 reviewed; no Oregon City buyer bridge. |
 | P-046 / T-024 | E-113; S-125; BUS-012 | Gilbert Miller directly named with Springfield firm; retain 1918 C. E. Miller discrepancy. |
+
+## 1916 Courier pages 106–180
+
+| IDs | Connected records | Scope |
+| --- | --- | --- |
+| S-130; IMG-0479–IMG-0553 | E-116; `newspapers/oregon-city-courier/1916-pages-106-180/` | 75 unchanged original page PDFs, visual ledger and hashes. |
+| E-116 | S-130; B-001/B-002/B-003/B-004/B-005 | Coverage and neighboring context, no new target assignment. |
+| P-047; P-048; P-049; P-050; P-051 | E-116; S-130 | Hall, Anderson, Martin, Holman, Randall; initials preserved. |
+| BUS-033; BUS-034; BUS-035; BUS-036 | E-116; S-130 | Gas branch, chiropractic practice, undertaking establishment, Raasch/Lamb. |
+| BUS-007/BUS-026/BUS-027/BUS-028/BUS-029/BUS-031 | E-116; P-001/P-041/P-042/P-044 | Dated neighborhood ad confirmations; no new proprietor or transfer inference. |

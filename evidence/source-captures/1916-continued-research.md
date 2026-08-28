@@ -64,7 +64,7 @@ Additional issue roots provide exact scan-image counts:
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-17/ed-1/
 - **16 Mar 1916 — 8 images**
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-16/ed-1/
-- **20 Apr 1916 — 10 images**
+- **20 Apr 1916 — 12 images** (corrected from 10 by the 28 August full issue visual review; see `1916-courier-pages-106-180.md`)
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/
 - **22 Jun 1916 — 8 images**
   - https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/

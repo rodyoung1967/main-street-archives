@@ -1,0 +1,1489 @@
+{
+  "title": "Oregon City courier.",
+  "lccn": "sn00063698",
+  "scope": "chronological pages 106-180",
+  "issues": [
+    {
+      "date": "1916-03-23",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1.json"
+    },
+    {
+      "date": "1916-03-30",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1.json"
+    },
+    {
+      "date": "1916-04-06",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1.json"
+    },
+    {
+      "date": "1916-04-13",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1.json"
+    },
+    {
+      "date": "1916-04-20",
+      "available_pages": 12,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1.json"
+    },
+    {
+      "date": "1916-04-27",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1.json"
+    },
+    {
+      "date": "1916-05-04",
+      "available_pages": 10,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1.json"
+    },
+    {
+      "date": "1916-05-11",
+      "available_pages": 10,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1.json"
+    },
+    {
+      "date": "1916-05-18",
+      "available_pages": 8,
+      "metadata_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1.json"
+    }
+  ],
+  "items": [
+    {
+      "chronological_page": 106,
+      "date": "1916-03-23",
+      "sequence": 1,
+      "file": "1916-03-23-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "f7e9f265e394c256e43b4979b76a71149e6f16dd00ece32046272e9d03ae348a",
+      "bytes": 837709,
+      "pdf_points": [
+        1188.0,
+        1686.7900390625
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Council bond/refunding, jitney rail competition; New Post Office? reports Treasury recommendation $55,000 building plus $10,000 site, not actual construction or location; Hayck funeral at Myers & Brady. No target number.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0479"
+    },
+    {
+      "chronological_page": 107,
+      "date": "1916-03-23",
+      "sequence": 2,
+      "file": "1916-03-23-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "c6b3d752a5696507f7743fa08b9e2c970a80257d5be0fd4f8ac5063119436062",
+      "bytes": 781059,
+      "pdf_points": [
+        1219.739990234375,
+        1710.0
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "County/suburban correspondence, dairy, Adams Dept Store and rail/Portland Flour ads; no target location finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0480"
+    },
+    {
+      "chronological_page": 108,
+      "date": "1916-03-23",
+      "sequence": 3,
+      "file": "1916-03-23-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "55ffb9a111b81ada1b8927202ebe21c7dbc81ad2320f96c9656bd23a4291aec8",
+      "bytes": 759082,
+      "pdf_points": [
+        1187.050048828125,
+        1691.530029296875
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Justice-court rooms reopened after recent midnight fire (Nut Club Meets), no number in this item. Willamette Valley Southern stock meeting; general local material. Potential tie to p5 justice-court building requires explicit link; no 503/505 finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0481"
+    },
+    {
+      "chronological_page": 109,
+      "date": "1916-03-23",
+      "sequence": 4,
+      "file": "1916-03-23-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "9fcbe66e9898faa6a6bb5305d87024840abeaa91552c860647540673739400ce",
+      "bytes": 746113,
+      "pdf_points": [
+        1203.6300048828125,
+        1710.469970703125
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Holman and Randall undertakers Fifth/Main; Williams Bros office 612 Main. Editorial water frontage relates Sixth/Water and Suspension Bridge, not target storefront. WJ Wilson Tenth/Main.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0482"
+    },
+    {
+      "chronological_page": 110,
+      "date": "1916-03-23",
+      "sequence": 5,
+      "file": "1916-03-23-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "96b7da5a326cd435a7b8960326e1e7650a19ae8c5ca4698a32062d673b1e2a46",
+      "bytes": 825592,
+      "pdf_points": [
+        1178.530029296875,
+        1685.3699951171875
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "GAS COMPANY HERE: Portland Gas & Coke opens Oregon City branch at 718 Main, front of justice-court building. Schilling 617 Main. Classified directory Bradley507/Brightbill509/Harding511/Price527/Theroux519/Wilkinson612/Schooley612; Scripture & May Fifth unnumbered. Fashion Livery G A Bergren Fourth/Main (not Fifth Eddy stable by assumption).",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0483"
+    },
+    {
+      "chronological_page": 111,
+      "date": "1916-03-23",
+      "sequence": 6,
+      "file": "1916-03-23-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "bddc24ac9bb9e91ed19f5fb33c411f8357af4c136b5a512ee000b8ad3a291d81",
+      "bytes": 789137,
+      "pdf_points": [
+        1221.6300048828125,
+        1692.469970703125
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Picture ads: Champion Smith & Telford502, Streibig528, Wilkinson new-location shop612; Raasch & Lamb pool/billiards unnumbered; laundry unnumbered. Hawley deed filed for former city pumping site; report says company will move Cataract hose house to Main between Third/Fourth, future obligation not completed move. Geo W Buck new store Seventh at Elevator.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0484"
+    },
+    {
+      "chronological_page": 112,
+      "date": "1916-03-23",
+      "sequence": 7,
+      "file": "1916-03-23-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "73018f4ddbacf180f629598c46fcfcddee11deb4c222028498aa07202f269471",
+      "bytes": 818872,
+      "pdf_points": [
+        1181.8399658203125,
+        1656.0
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Electric Store / Portland Railway Light & Power, Beaver Bldg 617 Main, concurrent with Schilling617. Holman/Randall Fifth/Main repeated. Legal Main parcel description uses Block28, not target4. Classified home board1205 Main.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0485"
+    },
+    {
+      "chronological_page": 113,
+      "date": "1916-03-23",
+      "sequence": 8,
+      "file": "1916-03-23-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-23/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "7003f741da6c28ce247992f69540ceb8bde5468a775a5261a41a72a2c327a650",
+      "bytes": 773686,
+      "pdf_points": [
+        1219.739990234375,
+        1699.1099853515625
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Council continuation: city cemetery plat disputed, not street-numbering plat; Division Street same as assessment District10. Water pressure/fire hydrants on hill. Fashion Livery G A Bergren stock sale, no closure claim. Miller cottage fire is near Hubbard/Aurora, not Main.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0486"
+    },
+    {
+      "chronological_page": 114,
+      "date": "1916-03-30",
+      "sequence": 1,
+      "file": "1916-03-30-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "2bb2364347560c7eb69fe4af0e95f2102d53e68f30ae05ce26d267fce2e7fbee",
+      "bytes": 820516,
+      "pdf_points": [
+        1176.1600341796875,
+        1684.4200439453125
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Refunding bonds; foundry manufacturing proposal without fixed address; Grandstand wind damage at Gladstone; unrelated regional fires. No target storefront fact.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0487"
+    },
+    {
+      "chronological_page": 115,
+      "date": "1916-03-30",
+      "sequence": 2,
+      "file": "1916-03-30-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "41ec887f3c8a4ace16ce65fa350076ba2d281bd772900f06cb295fe6b17bf352",
+      "bytes": 794260,
+      "pdf_points": [
+        1221.6300048828125,
+        1684.4200439453125
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory reconfirms 507 Bradley,509 Brightbill,511 Harding,519 Theroux,527 Price,612 Wilkinson and Schooley. Scripture/May Fifth unnumbered. Holman/Randall Fifth/Main. County correspondence and proposed creamery unnumbered.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0488"
+    },
+    {
+      "chronological_page": 116,
+      "date": "1916-03-30",
+      "sequence": 3,
+      "file": "1916-03-30-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "f5d0649bea124e02cdb3b65d530b5f6cbaa3a2c0ba83d2153778448d1e30e448",
+      "bytes": 725673,
+      "pdf_points": [
+        1185.1600341796875,
+        1684.4200439453125
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Fashion/national ads, First National Bank, militia and county/local briefs; no target address finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0489"
+    },
+    {
+      "chronological_page": 117,
+      "date": "1916-03-30",
+      "sequence": 4,
+      "file": "1916-03-30-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "801ceae34e2bcdc7abcb7f3f6824f0c32e746f116bed998e3f46721f83234b31",
+      "bytes": 715634,
+      "pdf_points": [
+        1206.0,
+        1690.1099853515625
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Holman/Randall Fifth/Main and Williams Bros612. Editorial continues $55,000 post-office proposal, no actual appropriation/building location. Cemetery plat and Water west-end-grade controversy distinct from target street-numbering map.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0490"
+    },
+    {
+      "chronological_page": 118,
+      "date": "1916-03-30",
+      "sequence": 5,
+      "file": "1916-03-30-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b4439f09244f6d7a2ad8c8ecf755f6e8e61e53ec18ed538700e0314b083b0d29",
+      "bytes": 796372,
+      "pdf_points": [
+        1180.4200439453125,
+        1693.8900146484375
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "Schilling617, Scripture/May Fifth, Holman/Randall Fifth/Main; local/church notices and shopping ads. No 503/505 finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0491"
+    },
+    {
+      "chronological_page": 119,
+      "date": "1916-03-30",
+      "sequence": 6,
+      "file": "1916-03-30-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "97967fecf96febec11965e3824ea2d73ce19e00d816b3edff78284bb36325ccc",
+      "bytes": 782770,
+      "pdf_points": [
+        1220.6800537109375,
+        1686.7900390625
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Picture ads repeat Champion Smith/Telford502, Streibig528, Wilkinson new-location shop612; Raasch/Lamb pool and laundry unnumbered. Street porch-light suggestion is a proposal, not recorded installation.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0492"
+    },
+    {
+      "chronological_page": 120,
+      "date": "1916-03-30",
+      "sequence": 7,
+      "file": "1916-03-30-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "41648497e493621ef35a3000b78c5a0e6e8f4781a7d35c3c9978ee2543dcd0cc",
+      "bytes": 795326,
+      "pdf_points": [
+        1165.739990234375,
+        1679.6800537109375
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Electric Store Beaver Bldg617; Holman/Randall Fifth/Main; Fashion Livery surplus stock/horses for sale not business closure. Short News reports minors frequenting unnamed county-seat pool halls. Legal Block28 parcel is not target4.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0493"
+    },
+    {
+      "chronological_page": 121,
+      "date": "1916-03-30",
+      "sequence": 8,
+      "file": "1916-03-30-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "cf3aea20e5a0aa711ffcaea7eaa23cef53e0899b8a6c3dde3a414d1f49ae3f53",
+      "bytes": 738721,
+      "pdf_points": [
+        1206.0,
+        1705.260009765625
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Two Boys Arrested explicitly says complaint of Cox's pool hall; two under21 patrons arrested, no premises number. Bannon Masonic Temple and Grand Theatre ads; no target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0494"
+    },
+    {
+      "chronological_page": 122,
+      "date": "1916-04-06",
+      "sequence": 1,
+      "file": "1916-04-06-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "db208538e5158e1d24e52435d4c80fa77616782ea7d7dc5144967b18bc6162f3",
+      "bytes": 855231,
+      "pdf_points": [
+        1202.2099609375,
+        1705.739990234375
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Council sewer assessments District10, Main Street reassessment error includes river acreage, jitney/Eleventh crossing debate. Hotel Belle raid is Milwaukie. Elevator repair incident. No exact target storefront.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0495"
+    },
+    {
+      "chronological_page": 123,
+      "date": "1916-04-06",
+      "sequence": 2,
+      "file": "1916-04-06-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "31e9ac057f0d2a38ee7310905dd0df703ba81b79c92a268483e47b3989ae995c",
+      "bytes": 801910,
+      "pdf_points": [
+        1207.4200439453125,
+        1692.0
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Recurring directory Bradley507,Brightbill509,Harding511,Theroux519,Price527,Wilkinson612,Schooley612; Scripture/May Fifth and Holman/Randall Fifth/Main unnumbered. County material.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0496"
+    },
+    {
+      "chronological_page": 124,
+      "date": "1916-04-06",
+      "sequence": 3,
+      "file": "1916-04-06-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "43a166ccc4959ef27a734c38d3b786014f2273c219b255a4ae7f6577afe907f9",
+      "bytes": 741233,
+      "pdf_points": [
+        1174.739990234375,
+        1666.8900146484375
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Grand Theatre, fashion, obituaries, South Fork water-line/rail canyon slides and Gladstone council; no target storefront finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0497"
+    },
+    {
+      "chronological_page": 125,
+      "date": "1916-04-06",
+      "sequence": 4,
+      "file": "1916-04-06-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "0efae6bf8061c38648012b29d25366da7e4014aecc5b13d0ad812a0a02a3d083",
+      "bytes": 736784,
+      "pdf_points": [
+        1210.739990234375,
+        1695.3199462890625
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Milliken letter about poolroom law, minors and Sunday closure is general, no identified premises. Holman/Randall Fifth/Main and Williams Bros612 advertisements.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0498"
+    },
+    {
+      "chronological_page": 126,
+      "date": "1916-04-06",
+      "sequence": 5,
+      "file": "1916-04-06-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b1bae6e8a5135ef1963fd44052fe73d69bd92b9111f9ba777d683b5d3de9648a",
+      "bytes": 734782,
+      "pdf_points": [
+        1178.050048828125,
+        1680.6300048828125
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "IMPORTANT local notice: T P Randall sold his interest in Holman-Randall undertaking establishment to R L Holman. Same page still advertises both at Fifth/Main, so ad persistence not proof partnership continued. L J Hylton trip and Twilight residence explicitly printed; no bridge to503 proprietor. Schilling617; Dr W E Hempstead moves office to Electric hotel annex Sixth/Main. Scripture/May Fifth. Retiring fire-chief motor apparatus proposal. Enlargement also confirms church social at Mrs. Cannon home, 509 Fifth Street; distinct from 509 Main and 100-block Fifth.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0499"
+    },
+    {
+      "chronological_page": 127,
+      "date": "1916-04-06",
+      "sequence": 6,
+      "file": "1916-04-06-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "bfdf4387839424279819663b2f7ecc65e40cf0a400433a28a8a286b0efe267a0",
+      "bytes": 862872,
+      "pdf_points": [
+        1209.7900390625,
+        1712.8399658203125
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Picture ads Champion Smith/Telford502, Streibig528, Wilkinson612; Raasch/Lamb and laundry unnumbered. Sawmill prospect discussions broader valley, not target property. No target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0500"
+    },
+    {
+      "chronological_page": 128,
+      "date": "1916-04-06",
+      "sequence": 7,
+      "file": "1916-04-06-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "2f4d41c0f0063dea40422583247046faf76f993cc72b700ce7bbf13a48e771fb",
+      "bytes": 770868,
+      "pdf_points": [
+        1170.0,
+        1680.1600341796875
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Electric Store617 and Holman/Randall Fifth/Main. Newspaper ownership statement includes Holman Estate Portland; no merger with undertaker. Legal/classified references no target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0501"
+    },
+    {
+      "chronological_page": 129,
+      "date": "1916-04-06",
+      "sequence": 8,
+      "file": "1916-04-06-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a43f559fa6ea11863e8fa00acec722e3a9ce5d196032419b339a17e3673a994d",
+      "bytes": 832995,
+      "pdf_points": [
+        1213.1099853515625,
+        1702.8900146484375
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Council considers liquid-asphalt street protection and orders investigation, not completed paving. Cement street-corner monuments proposed. Jitney franchise debate; postal-business increase no premises. No target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0502"
+    },
+    {
+      "chronological_page": 130,
+      "date": "1916-04-13",
+      "sequence": 1,
+      "file": "1916-04-13-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "8ad07bf2c6d7bf2a94fc5f472caa85921e1da0e67dbb2c865da24daf7a13e5d5",
+      "bytes": 833122,
+      "pdf_points": [
+        1198.4200439453125,
+        1688.6800537109375
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Sewer District10 assessment debate and Lovve property assessment court case, general civic context. No target storefront number or ownership bridge.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0503"
+    },
+    {
+      "chronological_page": 131,
+      "date": "1916-04-13",
+      "sequence": 2,
+      "file": "1916-04-13-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "8fc47025817ef51150dd7797139513449d5d354c97106545996be6e29d2246ec",
+      "bytes": 842018,
+      "pdf_points": [
+        1202.6800537109375,
+        1701.469970703125
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory reconfirms 507/509/511/519/527/612, Scripture/May Fifth and Holman/Randall Fifth/Main. New Wilhoit Hotel is outside target area; no target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0504"
+    },
+    {
+      "chronological_page": 132,
+      "date": "1916-04-13",
+      "sequence": 3,
+      "file": "1916-04-13-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "cafa4ef7d0a8216c98025e0348cca798612fad6e71714eee7ec14e8ba9268d1c",
+      "bytes": 688642,
+      "pdf_points": [
+        1188.469970703125,
+        1672.5799560546875
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "New Fire Plans Here proposes truck conversion; no apparatus purchase/installation proved. Busch furniture, First National and general material. No target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0505"
+    },
+    {
+      "chronological_page": 133,
+      "date": "1916-04-13",
+      "sequence": 4,
+      "file": "1916-04-13-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b5dc07f326a17361313d08b0d97ddd682b7962d3bd99fdf1f53a3ccc0c02ab06",
+      "bytes": 708098,
+      "pdf_points": [
+        1217.8399658203125,
+        1726.1099853515625
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Editorials, advertising, Williams Bros612 Main, Wilson Tenth/Main. No target-number finding.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0506"
+    },
+    {
+      "chronological_page": 134,
+      "date": "1916-04-13",
+      "sequence": 5,
+      "file": "1916-04-13-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "0877cbf8e6055b09401be4c7f495d8931a1881585c9339e9226130209d2874fc",
+      "bytes": 789048,
+      "pdf_points": [
+        1170.469970703125,
+        1715.2099609375
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "G Company Busch hall rental dispute and risk of losing hall; no street number or actual relocation. Mayor seeks municipal-lighting information, not installation. Schilling617; Scripture/May Fifth; Holman/Randall joint ads persist. GeoW Buck Seventh/Elevator.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0507"
+    },
+    {
+      "chronological_page": 135,
+      "date": "1916-04-13",
+      "sequence": 6,
+      "file": "1916-04-13-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "d473fdf4c16c7a89a89375e6a8fbb597a3ed9f0bb58f381c66db1520ec2bb2f0",
+      "bytes": 736177,
+      "pdf_points": [
+        1202.2099609375,
+        1689.1600341796875
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Picture ads502 Champion Smith/Telford,528 Streibig,612 Wilkinson; Dr G F Anderson now prints414 Main. Raasch/Lamb and laundry unnumbered. A Buenday home fire is Willamette, not Main.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0508"
+    },
+    {
+      "chronological_page": 136,
+      "date": "1916-04-13",
+      "sequence": 7,
+      "file": "1916-04-13-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "224e20a517dfc630cd4b0a1cf0a74e0abd700ff85796a6a1430cb9504523b68d",
+      "bytes": 769046,
+      "pdf_points": [
+        1176.6300048828125,
+        1710.949951171875
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Legal notices, classifieds and Electric Store advertising reviewed. Holman/Randall Fifth and Main ad persists after the April 6 sale notice; no independent partnership evidence. No direct 503/505 item identified.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0509"
+    },
+    {
+      "chronological_page": 137,
+      "date": "1916-04-13",
+      "sequence": 8,
+      "file": "1916-04-13-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "07709331e8cef48d5605185624856def327acab21f01c986483f9c4938bcc183",
+      "bytes": 794544,
+      "pdf_points": [
+        1205.530029296875,
+        1698.6300048828125
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Cataract Hose Company housewarming planned April 20 in new quarters on Main; W. P. Hawley Sr. invited. Ninth/Main interurban accident involving John Patterson. Council reports Seventh/Main drinking fountain out of service; proposed freight depot/franchise is not completed construction. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0510"
+    },
+    {
+      "chronological_page": 138,
+      "date": "1916-04-20",
+      "sequence": 1,
+      "file": "1916-04-20-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "3221a51bd45cf534f157f3bbbc76a113eba036a3dfbd0b8e213e956946cbb27b",
+      "bytes": 827653,
+      "pdf_points": [
+        1172.8399658203125,
+        1702.4200439453125
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Suspension bridge guy cable failure and ordered replacement/inspection. Artisans gathering at Busch Hall and planned Main Street parade to Sixth. M. E. Dunn county treasurer candidacy does not establish business occupancy. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0511"
+    },
+    {
+      "chronological_page": 139,
+      "date": "1916-04-20",
+      "sequence": 2,
+      "file": "1916-04-20-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "c529b94135353ad476b668f9cef80a51baa9c3dc7bb52e40f48abfd312e4b020",
+      "bytes": 733761,
+      "pdf_points": [
+        1202.2099609375,
+        1695.7900390625
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527, Wilkinson and Schooley 612 Main; Scripture/May Fifth and Holman/Randall Fifth/Main advertisements. Mountain View house construction unrelated to target frontage. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0512"
+    },
+    {
+      "chronological_page": 140,
+      "date": "1916-04-20",
+      "sequence": 3,
+      "file": "1916-04-20-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "bfd8d568ee064eec3c7b142bd0db7bc4507e790da1dc82d4bb0837b3bb2b7575",
+      "bytes": 473854,
+      "pdf_points": [
+        1187.530029296875,
+        1666.4200439453125
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Full-page Adams Department Store Easter advertisement, including basement bargain department; no numbered address.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0513"
+    },
+    {
+      "chronological_page": 141,
+      "date": "1916-04-20",
+      "sequence": 4,
+      "file": "1916-04-20-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a0369b683063cb4e65819a01f7aec4303e6dc109360296de60f3899672e02b3d",
+      "bytes": 809800,
+      "pdf_points": [
+        1206.469970703125,
+        1699.1099853515625
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Fire Draws Crowd: old Selling house moved to Fifth/Water, owned by Charman estate and occupied by Mrs. R. F. Wood as lodging house, attic fire Sunday; separate from Main frontage. To Fix Paving: PRL&P superintendent to inspect new freight switch under construction and Worswick/Main surface breaks. Miller & Obst clothing, Busch, Price and other shopping notes, no exact target number. Joint Holman/Randall ad persists.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0514"
+    },
+    {
+      "chronological_page": 142,
+      "date": "1916-04-20",
+      "sequence": 5,
+      "file": "1916-04-20-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "429efce0af648c8f94e1bcb9eca71a2b04d289be64c5830d198c4d9a34ff3298",
+      "bytes": 590190,
+      "pdf_points": [
+        1188.469970703125,
+        1695.3199462890625
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "Full-page Miller & Obst Easter clothing advertisement; no numbered address. Firm is not identified as Wolf & Miller.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0515"
+    },
+    {
+      "chronological_page": 143,
+      "date": "1916-04-20",
+      "sequence": 6,
+      "file": "1916-04-20-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b78a6b0c3c7dc805c28ee73d13f70aa2e6deef94bf93d579840d6af9dec4cfb0",
+      "bytes": 734493,
+      "pdf_points": [
+        1199.3699951171875,
+        1714.260009765625
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Editorials and advertisements. W. J. Wilson & Company Tenth/Main; Williams Brothers office 612 Main; Scripture/May Fifth; joint Holman/Randall Fifth/Main. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0516"
+    },
+    {
+      "chronological_page": 144,
+      "date": "1916-04-20",
+      "sequence": 7,
+      "file": "1916-04-20-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "2362cd9afaf26acde5b50e5c5f5aff22dadb2ead73c520fbac2ac07711806de2",
+      "bytes": 844183,
+      "pdf_points": [
+        1191.7900390625,
+        1677.7900390625
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Local news, obituaries, election/liquor debate; Schilling 617 Main, Burmeister/Andresen Suspension Bridge Corner. Cottage construction on John Adams Street unrelated to target frontage. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0517"
+    },
+    {
+      "chronological_page": 145,
+      "date": "1916-04-20",
+      "sequence": 8,
+      "file": "1916-04-20-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "796142cf2a4f34f09cb78b6ac8e378455e7f189b027b66bd45a3fdcb824d2b8a",
+      "bytes": 729598,
+      "pdf_points": [
+        1206.949951171875,
+        1693.4200439453125
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Larsen Tenth/Main. Armory Plan Sprung proposes Monroe Street block; not an accomplished relocation. Hotel Belle Milwaukie trial and regional reports, no target storefront item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0518"
+    },
+    {
+      "chronological_page": 146,
+      "date": "1916-04-20",
+      "sequence": 9,
+      "file": "1916-04-20-page-09.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-9.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "e25ee90835e7fd7db952428bc7c5835eaf55af5ae82cbcdefc130dbfb78ce3e4",
+      "bytes": 782469,
+      "pdf_points": [
+        1181.3699951171875,
+        1685.8399658203125
+      ],
+      "printed_page": "9",
+      "date_matches": true,
+      "notes": "County court road-district expenditure lists, political notices and Frank Busch block advertisement reviewed; no target numbered address or ownership transfer identified.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0519"
+    },
+    {
+      "chronological_page": 147,
+      "date": "1916-04-20",
+      "sequence": 10,
+      "file": "1916-04-20-page-10.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-10.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a0f05da40ebb781fc6b28bfca5c7c9b4e73c501c4d27599bb7c3c716cfbfde9a",
+      "bytes": 735707,
+      "pdf_points": [
+        1216.4200439453125,
+        1732.739990234375
+      ],
+      "printed_page": "10",
+      "date_matches": true,
+      "notes": "Picture advertisements visually checked: Champion Smith/Telford 502 Main, Streibig 528, Wilkinson shop 612, Miller/Obst Main/Seventh, Oregon City Garage Main/Fourth, Foundry Fourth/Water, Oregon City Laundry and Raasch/Lamb pool/billiards unnumbered. Anderson chiropractic advertisement in this issue does not print 414. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0520"
+    },
+    {
+      "chronological_page": 148,
+      "date": "1916-04-20",
+      "sequence": 11,
+      "file": "1916-04-20-page-11.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-11.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "cbee381507e3e9c59ab1a12eec0ee57f82f85be3a37442e0acaca3f42b4497b7",
+      "bytes": 781948,
+      "pdf_points": [
+        1187.050048828125,
+        1681.5799560546875
+      ],
+      "printed_page": "11",
+      "date_matches": true,
+      "notes": "County expenditure continuation and legal/classified notices reviewed. Electric Store Beaver Building 617 Main. Home board/rooms classified 1205 Main. Fashion Livery stock sale remains surplus language, not closure. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0521"
+    },
+    {
+      "chronological_page": 149,
+      "date": "1916-04-20",
+      "sequence": 12,
+      "file": "1916-04-20-page-12.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-20/ed-1/seq-12.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "c06ca3f189601f40c0303d8b55294cef54ee78a3343380877d85469a6a9702cc",
+      "bytes": 787572,
+      "pdf_points": [
+        1206.469970703125,
+        1693.8900146484375
+      ],
+      "printed_page": "12",
+      "date_matches": true,
+      "notes": "Price Brothers display ad explicitly Sixth/Main; Bannon Masonic Temple; joint Holman/Randall ad. Block 72 Idaho Building sale is unrelated to target Block 4. Grand Theatre program and county reports, no direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0522"
+    },
+    {
+      "chronological_page": 150,
+      "date": "1916-04-27",
+      "sequence": 1,
+      "file": "1916-04-27-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "952e77c7ddafae8b8ece9304f22536c887b7ca4d36e09bd537cdc2fdff3c01b0",
+      "bytes": 845088,
+      "pdf_points": [
+        1166.6800537109375,
+        1665.0
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Council extortion allegations, proposed relocation of county paving plant to Parkplace, canal-wall construction, and proposed men's resort. Oswego arson trial separate from target frontage. Charlotte Dunn/Lee M. Dunn divorce is not a business or M. E. Dunn identity link.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0523"
+    },
+    {
+      "chronological_page": 151,
+      "date": "1916-04-27",
+      "sequence": 2,
+      "file": "1916-04-27-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "1d99b16c6469eb1a699142fe2085986451894884c3bd6401179ae1503c07adf4",
+      "bytes": 762992,
+      "pdf_points": [
+        1198.4200439453125,
+        1692.949951171875
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527, Wilkinson/Schooley 612 Main; Scripture/May Fifth, Miller/Obst Seventh/Main. Gladstone Laundry entry remains distinct from Oregon City Laundry. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0524"
+    },
+    {
+      "chronological_page": 152,
+      "date": "1916-04-27",
+      "sequence": 3,
+      "file": "1916-04-27-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a7dfef224496d231e072f0e11fdcea010b8d3016841c70839d0a946d6f55b18e",
+      "bytes": 734747,
+      "pdf_points": [
+        1183.260009765625,
+        1671.1600341796875
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Wants Bridge Repairs: north-side guy wire repaired early this week; wider bridge reconstruction remains proposed, including lowering walk to Main Street level. Company G still described as Busch Hall lessee donating drill hall for dance. No target address item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0525"
+    },
+    {
+      "chronological_page": 153,
+      "date": "1916-04-27",
+      "sequence": 4,
+      "file": "1916-04-27-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "17962c70ded1d32b8b2c6aefb3c677fefb0c5d2bacc28927bf15186c30f335ed",
+      "bytes": 694986,
+      "pdf_points": [
+        1187.050048828125,
+        1692.949951171875
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Mr. Hawley Entertained reports Cataract Hose Company banquet actually held Thursday in his honor; no numbered new quarters given. W. J. Wilson Tenth/Main and Williams Brothers office 612. General editorial and Canby cheese-factory material.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0526"
+    },
+    {
+      "chronological_page": 154,
+      "date": "1916-04-27",
+      "sequence": 5,
+      "file": "1916-04-27-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "fc4f1e8618cdc1e2ae78dc5ac5385dce092242c5177d05afc4ae651a68a064c4",
+      "bytes": 732718,
+      "pdf_points": [
+        1176.1600341796875,
+        1670.6800537109375
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "Schilling 617 Main. Thomas Bentley supervising Hawley plant addition, residence Twelfth/Washington; Crown-Willamette Coos Bay machinery proposed for transfer. Small mill fire and Hayhurst home fire at Redlands are separate from Main frontage. Mrs. M. E. Dunn social visit not occupancy evidence.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0527"
+    },
+    {
+      "chronological_page": 155,
+      "date": "1916-04-27",
+      "sequence": 6,
+      "file": "1916-04-27-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "90583f2a67f06eb85ff6876bbb0ea02ab460a48cd178dc05a5550ce139bc603a",
+      "bytes": 725418,
+      "pdf_points": [
+        1192.260009765625,
+        1701.469970703125
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Picture ads repeat Champion Smith/Telford 502, Streibig 528, Wilkinson 612 Main; Miller/Obst Seventh/Main, garage Fourth/Main. Raasch/Lamb and Oregon City Laundry unnumbered. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0528"
+    },
+    {
+      "chronological_page": 156,
+      "date": "1916-04-27",
+      "sequence": 7,
+      "file": "1916-04-27-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "3f41ddfe478b4bbe827cbcc58eb93d79489a822845ba8870bc655cedd4df9bfe",
+      "bytes": 762740,
+      "pdf_points": [
+        1155.7900390625,
+        1657.8900146484375
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "No Increase in Rent: Frank Busch dropped proposed $10/month Company G hall rental increase; no displacement demonstrated. Armory prospects still proposed Cross block Monroe/John Q. Adams/Twelfth/Thirteenth. Electric Store 617 Main; classified board/rooms 1205 Main. Legal notices no target parcel.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0529"
+    },
+    {
+      "chronological_page": 157,
+      "date": "1916-04-27",
+      "sequence": 8,
+      "file": "1916-04-27-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-27/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "3fed1becd06394ec48de3191d90b988e46a8ff36777ee1ce67b110f764ab4f76",
+      "bytes": 800690,
+      "pdf_points": [
+        1188.469970703125,
+        1695.3199462890625
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Council continuation: PRL&P Main Street repair dispute, ordered rock for Seventeenth/Abernethy, cleanup/unsafe-building inspection including condemning old woolen mill, not target storefront. Busch Hall boxing. Mrs. M. R. Dunn Seventh/John Adams birthday notice not assumed M. E. Dunn business identity. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0530"
+    },
+    {
+      "chronological_page": 158,
+      "date": "1916-05-04",
+      "sequence": 1,
+      "file": "1916-05-04-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "0a8c04d391fafb0cfc32b29a2130bec91c5ba8bb13627143a87619c4c1359eb5",
+      "bytes": 822732,
+      "pdf_points": [
+        1180.8900146484375,
+        1684.4200439453125
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Council grants Hedrick half-year pool/billiard license without address; proposed municipal light plant, Main north-end survey and armory donation. Hawley payroll expansion and ongoing plant addition. No numbered target occupancy or completed target alteration.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0531"
+    },
+    {
+      "chronological_page": 159,
+      "date": "1916-05-04",
+      "sequence": 2,
+      "file": "1916-05-04-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "d87f750323090e48f3d0b6c85b31da248d7b2b9fdce6d45ef9799b1f2a66868c",
+      "bytes": 731640,
+      "pdf_points": [
+        1170.469970703125,
+        1668.7900390625
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527 and Wilkinson/Schooley 612 Main; joint undertaking ad, successful Busch Hall dance. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0532"
+    },
+    {
+      "chronological_page": 160,
+      "date": "1916-05-04",
+      "sequence": 3,
+      "file": "1916-05-04-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a5539a03012ad9d1527f7720b25aeb3044413d1ce941b4eb73ed5c42a3185476",
+      "bytes": 591333,
+      "pdf_points": [
+        1206.469970703125,
+        1686.7900390625
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Full-page Geo. W. Buck & Co. furniture enlargement sale, Seventh Street at elevator, A. D. Flannigan manager; explicitly not closing or quitting. Sale wording not evidence of closure or target storefront.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0533"
+    },
+    {
+      "chronological_page": 161,
+      "date": "1916-05-04",
+      "sequence": 4,
+      "file": "1916-05-04-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "badc5545c753917b7702590b80932103be884a25afd148d9ae4c5d31ff8e5a1c",
+      "bytes": 675774,
+      "pdf_points": [
+        1173.7900390625,
+        1674.0
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Editorials, obituaries and advertisements; W. J. Wilson Tenth/Main, Williams office 612 Main. Camas mill strike is not local storefront occupancy. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0534"
+    },
+    {
+      "chronological_page": 162,
+      "date": "1916-05-04",
+      "sequence": 5,
+      "file": "1916-05-04-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "9f27870372f68cc9cb2dffbf92d75dec5788c3ea4a3573a8920e1fdfbd6b997d",
+      "bytes": 722718,
+      "pdf_points": [
+        1206.469970703125,
+        1688.6800537109375
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "Hawley Contract Let: Grace & Rasmussen awarded plant/pulp-mill contract; excavation nearly finished, retaining walls planned along Third Street and from Third to first warehouse; no target alteration. T. P. Randall receiver of Northwestern Association, no new undertaking ownership evidence. Joint undertaking advertisement persists.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0535"
+    },
+    {
+      "chronological_page": 163,
+      "date": "1916-05-04",
+      "sequence": 6,
+      "file": "1916-05-04-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "bf29083989eb892d4393542c916dfcf24a408227ec22dfd43e7bcdfc17534b7a",
+      "bytes": 732402,
+      "pdf_points": [
+        1163.3699951171875,
+        1677.7900390625
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Martin Recovers Machine explicitly identifies H. L. Martin at 613 Main in stolen-car recovery notice; address association, not a specified business or residence type. Women's club men's resort remains search for suitable quarters. General fashion, guard and regional news; no direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0536"
+    },
+    {
+      "chronological_page": 164,
+      "date": "1916-05-04",
+      "sequence": 7,
+      "file": "1916-05-04-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "a2c8f4b00bae9cf5a6a55becde56daecaffc4f665d517074f497791dda35455c",
+      "bytes": 763887,
+      "pdf_points": [
+        1195.5799560546875,
+        1681.5799560546875
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Defective flue at Mrs. Gibbons's South Main home caused Monday alarm, extinguished before damage/fire-department arrival; unnumbered, not assigned to target. Neal & McClatchie jewelry five doors west of elevator. John Roppell moved from Fifth/Monroe to upper Fifth residence. Schilling 617 Main. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0537"
+    },
+    {
+      "chronological_page": 165,
+      "date": "1916-05-04",
+      "sequence": 8,
+      "file": "1916-05-04-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "5b6c529ec44e62e089ef301d04d1f7fb083189cdd39ad7e2edcc180b07ff19de",
+      "bytes": 778682,
+      "pdf_points": [
+        1178.050048828125,
+        1688.2099609375
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Picture ads repeat Champion Smith/Telford 502, Streibig 528, Wilkinson 612, garage Fourth/Main, Miller/Obst Seventh/Main; Oregon City Laundry and Raasch/Lamb unnumbered. Joint undertaking ad persists. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0538"
+    },
+    {
+      "chronological_page": 166,
+      "date": "1916-05-04",
+      "sequence": 9,
+      "file": "1916-05-04-page-09.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-9.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "215a5c71670edc291196d16dfdd0d1acd40d3774507f1ad779a6ca9c3b821044",
+      "bytes": 728642,
+      "pdf_points": [
+        1192.739990234375,
+        1680.6300048828125
+      ],
+      "printed_page": "9",
+      "date_matches": true,
+      "notes": "Electric Store 617 Main advertises May 11–12 cooking school in Masonic banquet hall, not store relocation. Mrs. S. McClatchie hemstitching corner Eighth/Main over Harris grocery. Jitney Main/bridge signs and legal notices no target address claim.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0539"
+    },
+    {
+      "chronological_page": 167,
+      "date": "1916-05-04",
+      "sequence": 10,
+      "file": "1916-05-04-page-10.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-10.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "eb6fc9d8fb3d6b7513d8c5f987b09ccff728d9a98c0f1fd2009e3faf436ff805",
+      "bytes": 740522,
+      "pdf_points": [
+        1169.530029296875,
+        1682.050048828125
+      ],
+      "printed_page": "10",
+      "date_matches": true,
+      "notes": "Council continuation discusses municipal light plant and Main Street cleanliness; shopping, school and political reports reviewed. Bannon Masonic Building. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0540"
+    },
+    {
+      "chronological_page": 168,
+      "date": "1916-05-11",
+      "sequence": 1,
+      "file": "1916-05-11-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "0b71ca41122155ff5eb3bcd3a393aff8daec861d3046d556062fcbab199fda19",
+      "bytes": 811083,
+      "pdf_points": [
+        1194.6300048828125,
+        1689.6300048828125
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Election polling places include Oregon City No. 9 Eby's garage and No. 10 harness shop corner Seventh/Main, without shop proprietor; do not assign to Wolf & Miller. Memorial Day Main Street/bridge route, fishing dispute, men's resort support without location. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0541"
+    },
+    {
+      "chronological_page": 169,
+      "date": "1916-05-11",
+      "sequence": 2,
+      "file": "1916-05-11-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "1f06579a7c18931c6c6a4636f850172f3ef60aa413321e24b044407a34fa684c",
+      "bytes": 718687,
+      "pdf_points": [
+        1174.739990234375,
+        1668.7900390625
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527 and Wilkinson/Schooley 612 Main. Geo. W. Buck Seventh at elevator ad. S. W. Miller in guard medal list not linked to Wolf & Miller. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0542"
+    },
+    {
+      "chronological_page": 170,
+      "date": "1916-05-11",
+      "sequence": 3,
+      "file": "1916-05-11-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b7f0debcce4707e3e066bc6c3178ff86c37cfdbdd89d0d0f97662ad00453588a",
+      "bytes": 599426,
+      "pdf_points": [
+        1185.6300048828125,
+        1679.6800537109375
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Full-page Huntley Brothers Rexall one-cent sale May 13/15/16; no numbered address or building change.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0543"
+    },
+    {
+      "chronological_page": 171,
+      "date": "1916-05-11",
+      "sequence": 4,
+      "file": "1916-05-11-page-04.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-4.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b13ee1e268224f64cdd2ae7c07368c5d56c309eea9b2f71b4074fd094d1b8792",
+      "bytes": 721113,
+      "pdf_points": [
+        1174.260009765625,
+        1708.1099853515625
+      ],
+      "printed_page": "4",
+      "date_matches": true,
+      "notes": "Editorials and advertisements reviewed; Williams Brothers office 612 Main. W. J. Wilson machinery ad has Portland distributor address, not Oregon City relocation. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0544"
+    },
+    {
+      "chronological_page": 172,
+      "date": "1916-05-11",
+      "sequence": 5,
+      "file": "1916-05-11-page-05.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-5.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "acc6a3b119db0b75f7e9904847fe5e29f32945c5c4723c6262978c64e784687c",
+      "bytes": 755222,
+      "pdf_points": [
+        1178.050048828125,
+        1672.1099853515625
+      ],
+      "printed_page": "5",
+      "date_matches": true,
+      "notes": "Milwaukie council dispute distinct from Oregon City. Proposed Crown-Willamette tunnel under government locks, site established but not completed. Larsen Tenth/Main and joint undertaking ads; no direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0545"
+    },
+    {
+      "chronological_page": 173,
+      "date": "1916-05-11",
+      "sequence": 6,
+      "file": "1916-05-11-page-06.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-6.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "096185b6b5261c46b8d893f441b3de6cc5ee23f520702298ff99060a43b62d21",
+      "bytes": 768993,
+      "pdf_points": [
+        1189.4200439453125,
+        1689.1600341796875
+      ],
+      "printed_page": "6",
+      "date_matches": true,
+      "notes": "Industry/commodity reports, Oswego cement plant, West Linn new fire house Sunset/Walnut, county schools; no target storefront. Bowery tailor-shop fire is syndicated anecdote, not Oregon City.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0546"
+    },
+    {
+      "chronological_page": 174,
+      "date": "1916-05-11",
+      "sequence": 7,
+      "file": "1916-05-11-page-07.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-7.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "41f13ef698eed0efaa81ebe33d921bd45ed2ec36eddbf5dc59cf4cb00062f94e",
+      "bytes": 750295,
+      "pdf_points": [
+        1182.3199462890625,
+        1685.3699951171875
+      ],
+      "printed_page": "7",
+      "date_matches": true,
+      "notes": "Bank of Commerce opposite courthouse statement says opened December 20, 1915. Picture ads Champion Smith/Telford 502, Streibig 528, Wilkinson 612, Schilling 617 Main; Raasch/Lamb and laundry unnumbered. Wilhoit hotel rebuilding outside target area. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0547"
+    },
+    {
+      "chronological_page": 175,
+      "date": "1916-05-11",
+      "sequence": 8,
+      "file": "1916-05-11-page-08.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-8.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "7f81550829ad37bcf6203c6bba4ac465c5d99c09776817c1c7a964babf49dfce",
+      "bytes": 602992,
+      "pdf_points": [
+        1192.260009765625,
+        1679.6800537109375
+      ],
+      "printed_page": "8",
+      "date_matches": true,
+      "notes": "Full-page CC Store mill/factory sale May 15–27. No street number, ownership transfer or building change supplied.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0548"
+    },
+    {
+      "chronological_page": 176,
+      "date": "1916-05-11",
+      "sequence": 9,
+      "file": "1916-05-11-page-09.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-9.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "029f0ce542c9346148c730a245945280b835c8efce989bcfcd5444787f1a6b66",
+      "bytes": 723201,
+      "pdf_points": [
+        1177.5799560546875,
+        1683.469970703125
+      ],
+      "printed_page": "9",
+      "date_matches": true,
+      "notes": "Electric Store 617 Main cooking-school ad; Mrs. S. McClatchie Eighth/Main above Harris grocery; council meeting proposed grade ordinances Main Seventeenth/Eighteenth and Seventeenth. Fashion Livery surplus stock notice and legal notices; no direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0549"
+    },
+    {
+      "chronological_page": 177,
+      "date": "1916-05-11",
+      "sequence": 10,
+      "file": "1916-05-11-page-10.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-10.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "7dc887350c9e638f28b95bc77572d5c45bd9a87fa053124433e7ea3369bf6ed7",
+      "bytes": 741632,
+      "pdf_points": [
+        1192.739990234375,
+        1691.530029296875
+      ],
+      "printed_page": "10",
+      "date_matches": true,
+      "notes": "Men's resort committee solicits support without selected quarters. Olson Was Alarmed narrative gives Andresen/Beaver building spatial references but is explicitly framed as doubtful tale; not used as verified building-layout evidence. Shopping/Frank Busch ads, no direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0550"
+    },
+    {
+      "chronological_page": 178,
+      "date": "1916-05-18",
+      "sequence": 1,
+      "file": "1916-05-18-page-01.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-1.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "0d50c94696728f5c880ce1f779f2b88319aff64d96bf78fc2dc620cc692636b9",
+      "bytes": 818573,
+      "pdf_points": [
+        1192.260009765625,
+        1687.739990234375
+      ],
+      "printed_page": "1",
+      "date_matches": true,
+      "notes": "Council granted special three-month permit to remove Raasch and Lamb pool hall from Main Street room in Andresen Building to basement of same building, with proposed charter amendment; permission, not completed move. Main Seventeenth/Eighteenth grades passed second reading, Tenth sewer postponed. No target street number supplied.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0551"
+    },
+    {
+      "chronological_page": 179,
+      "date": "1916-05-18",
+      "sequence": 2,
+      "file": "1916-05-18-page-02.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-2.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "b67a1c0786a95f211df298c08bbed3d564c8d9941035af1ecd3b3a1c9a226ba5",
+      "bytes": 713887,
+      "pdf_points": [
+        1194.6300048828125,
+        1701.949951171875
+      ],
+      "printed_page": "2",
+      "date_matches": true,
+      "notes": "Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527, Wilkinson/Schooley 612 Main. County expenditure lists and rural reports reviewed; Scripture/May payment not street-address evidence. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0552"
+    },
+    {
+      "chronological_page": 180,
+      "date": "1916-05-18",
+      "sequence": 3,
+      "file": "1916-05-18-page-03.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-3.pdf",
+      "review_status": "VISUALLY VERIFIED",
+      "sha256": "8da31535c2500653cbb483a1e8d9e1ff657e1357312b43c3a2a5b0424c5cc7ee",
+      "bytes": 731709,
+      "pdf_points": [
+        1190.8399658203125,
+        1687.260009765625
+      ],
+      "printed_page": "3",
+      "date_matches": true,
+      "notes": "Larsen Tenth/Main, joint undertaking advertisement; general fashion, irrigation, wire-theft and West Linn road reports. Last selected page; issue pages 4–8 remain outside this batch. No direct 503/505 item.",
+      "visual_review_date": "2026-08-28",
+      "media_id": "IMG-0553"
+    }
+  ],
+  "source_id": "S-130",
+  "evidence_id": "E-116",
+  "review_status": "VISUALLY VERIFIED - all 75 selected original page images",
+  "visual_review_date": "2026-08-28",
+  "next_page": {
+    "chronological_page": 181,
+    "date": "1916-05-18",
+    "sequence": 4
+  },
+  "review_method": "Every selected page visually inspected from a faithful 2800-pixel-wide PDF rendering; decisive wording enlarged separately. Embedded OCR used only for discovery. Review is for Main/Fifth research relevance, not a verbatim transcription of every article."
+}

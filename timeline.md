@@ -257,3 +257,7 @@ The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `
 
 ## Spring 1915 - Holman & Randall formation and Main Street planning
 Visually reviewed *Morning Enterprise* pages now show Holman at Fifth/Main by January and report on **7 May** that T. P. Randall and R. L. Holman would form **Holman & Randall** in Holman's undertaking establishment **on Main Street near Fifth**. Separate April-May reports document the Worswick paving decision sequence, a Main Street cluster-light proposal and possible delay after removal of the city engineer (`E-112`). These are relative-location/public-realm facts only; they do not establish 501/503/505 building alteration or exact Holman numbering.
+
+## 1916 March–May — additional visually verified business chronology
+
+E-116/S-130, [75-page batch](evidence/source-captures/1916-courier-pages-106-180.md): March 23 gas branch opening at 718 Main; April 6 reported Randall-to-Holman undertaking-interest sale while joint ads persisted; May 18 permission for Raasch & Lamb basement relocation within the Andresen Building. No 501/503/505 mapping or building-ownership transfer follows. Public works and distinct Fifth/Water fire are retained in the page ledger.

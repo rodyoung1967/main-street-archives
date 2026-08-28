@@ -37,3 +37,7 @@
 ### Fifth Street address-reconstruction goal
 
 During every remaining year-by-year visual review, actively watch for **numbered Fifth Street addresses—especially the even-numbered 100-series sequence 102, 104, 106, 108 and 110—and location wording such as “between Main and Water,” “between Main and Railroad,” or equivalent intersection/adjacency descriptions**. Preserve each exact number as its own address anchor and use it to reconstruct the historic odd/even geometry and the 1922 fire-area business cluster. Do not infer adjacency, shared walls, or a 503/505 relationship from consecutive numbering alone.
+
+## 1916 March–May verified address extension
+
+E-116/S-130, [page ledger](../evidence/source-captures/1916-courier-pages-106-180.md), verifies dated neighboring 502/507/509/511/519/527/528/612/617 listings. New peripheral anchors: Anderson 414 Main (April 13 p6), Martin 613 Main (May 4 p6; address type unspecified), gas branch 718 Main (March 23 p5), unnamed board/rooms 1205 Main (April 20 p11, April 27 p7), and Mrs. Cannon home 509 Fifth (April 6 p5). No target-storefront or 100-block Fifth mapping is inferred; historic parcel IDs remain unassigned. The sale/permit reports remain unnumbered.

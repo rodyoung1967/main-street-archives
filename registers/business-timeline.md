@@ -86,3 +86,11 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | Nov 25, 1915 | 617 Main, Beaver Building | Portland Railway Light & Power Co. Electric Store | BUS-031 | E-109; T-020 | Exact advertised address; no move date or claim all building tenants shared617. |
 
 Fifth/Main undertaker notices recur through November 25; Scripture & May's five directory notices have no address. Neither supplies a numbered Fifth occupancy or a501 Main equation. See E-109.
+
+## 1916 March–May — verified business events, exact target mapping unresolved
+
+| Date reported | Event | Evidence | Limit |
+| --- | --- | --- | --- |
+| March 23 | Portland Gas & Coke opens branch at 718 Main under George J. Hall | E-116/S-130 p5 | No deed ownership claim. |
+| April 6 | Randall sold undertaking interest to Holman; joint-name Fifth/Main ad still printed | E-116/S-130 p5 | No exact sale day or numbered target premises. |
+| May 18 | Raasch & Lamb granted three-month basement-move permit within Andresen Building | E-116/S-130 p1 | Permission, not completed move or charter amendment. |

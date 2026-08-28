@@ -100,3 +100,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-5/ocr/
 4. Use the c.1892 **504-514 Main** building-range clue when interpreting even-numbered storefronts, but keep it separate from legal-lot mapping.
 5. Do not use the c.1919/c.1920 resource dates for 503/505 as proof of 1916 vacancy or demolition.
 6. Continue seeking the 1916-17 Sohns & Woodbeck directory, which remains the strongest single source lead for a direct 503/505 occupant answer.
+
+## April 6 item visually verified — 28 August 2026
+
+E-116/S-130, [batch](1916-courier-pages-106-180.md), confirms the L. J. Hylton eastern-trip/Twilight wording and Schilling 617 Main ad from the original April 6 p5 scan. The 1914/1917 items retain their separate verification limits. No Hylton identity merger or 503 closure conclusion follows.

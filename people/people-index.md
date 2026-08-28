@@ -50,3 +50,17 @@
 | P-046 | [Gilbert Miller](profiles/gilbert-miller.md) | Springfield Wolf & Miller association; Oregon City shoe-repair continuity | Directly named with firm 3 February 1916, E-113/S-125. Broader 1918/1922 continuity strongly supported; preserve C. E. Miller discrepancy. No Wolf identity, legal ownership share or 1916 Oregon City occupancy inference. |
 
 October 28–November 25 directory corroboration (E-109/S-121) extends P-041 at 507, P-042 at 509, P-001 at 511 and P-044 at 519. It does not merge identities, date moves or newly identify Price's proprietor.
+
+## 1916 March–May newly indexed records
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-047 | George J. Hall | Gas-company branch manager | March 23 p 5 names him in charge of Portland Gas & Coke office at 718 Main; former Pacific Telephone manager. No property ownership inferred. E-116/S-130. |
+| P-048 | Dr. G. F. Anderson | Chiropractor | April 13 p 6 advertisement prints 414 Main. Initials not expanded. E-116/S-130. |
+| P-049 | H. L. Martin | Address-associated automobile owner | May 4 p 6 car-recovery report gives 613 Main; home/business type unspecified. E-116/S-130. |
+| P-050 | R. L. Holman | Undertaker; purchaser of Randall business interest | April 6 p 5 reports buying Randall interest; Fifth/Main ad unnumbered. Not identified with the Portland Holman estate. E-116/S-130. |
+| P-051 | T. P. Randall | Undertaker; seller of business interest | April 6 p 5 reports sale to Holman; joint-name ads later are not continued ownership proof. E-116/S-130. |
+
+## 1916 dated corroboration
+
+E-116/S-130 verifies P-001, P-041, P-042 and P-044 in March–May advertisements at their separately stated 511/507/509/519 numbers; no identity merger or new Price proprietor identification.

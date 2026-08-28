@@ -42,11 +42,11 @@ Late-year page-level/PDF retrieval supports **R. L. Holman, Leading Undertaker, 
 
 This establishes Holman-alone advertising continuity through the end of 1916.
 
-### Randall sale lead — April 6
+### Randall sale — April 6, now visually verified
 
-The **6 Apr 1916 Courier page 5** OCR text explicitly reports that **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. Critically, the same page later contains the older recurring advertisement naming **R. L. Holman and T. P. Randall** at Fifth and Main. This proves that the advertisement copy could lag behind a reported business transaction and that later joint-name ads must not be treated mechanically as evidence of partnership ownership.
+The **6 Apr 1916 Courier page 5** scanned notice explicitly reports that **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. Critically, the same page later contains the older recurring advertisement naming **R. L. Holman and T. P. Randall** at Fifth and Main. This proves that the advertisement copy could lag behind a reported business transaction and that later joint-name ads must not be treated mechanically as evidence of partnership ownership.
 
-Because `RESEARCH-STANDARD.md` requires visual verification of material OCR discoveries, the sale report remains pending final promotion until the actual page image/PDF rendering is visually inspected.
+Visual verification completed 28 August 2026 in [pages 106–180](1916-courier-pages-106-180.md), E-116/S-130. The exact legal date, numbered premises and any real-estate transfer remain unproved. This does not upgrade the later-month scan coverage.
 
 Source page:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-5/
@@ -73,7 +73,7 @@ The finding is preserved separately in:
 
 ## Next steps
 
-1. Visually verify the **6 Apr 1916 Courier p5** Randall-to-Holman sale report.
+1. **Completed 28 August:** April 6 p5 sale report visually verified (E-116).
 2. Finish explicit image counts for the remaining October/November issue roots.
 3. Complete the page-by-page visual pass for September–December, especially all 20 pages of 14 Dec.
 4. Continue looking for exact 503/505 occupant, sale, transfer, vacancy, fire, demolition, or construction evidence.

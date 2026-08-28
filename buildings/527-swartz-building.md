@@ -77,3 +77,7 @@ Accordingly, the building's modern storefront appearance should not automaticall
 ## Late-autumn1915 dated extension
 
 E-109/S-121 confirms **Price Bros. at527 Main** in five directories, October 28–November 25. These later advertisements extend the business-address evidence after the July incident; they do not prove whether repairs occurred or continuous occupancy. **Eddy's526 Main** is a separate even-numbered address, not this building. [Page log](../evidence/source-captures/1915-courier-sheets-101-110.md).
+
+## 1916 dated neighborhood corroboration
+
+E-116/S-130, [pages 106–180](../evidence/source-captures/1916-courier-pages-106-180.md), verifies March–May advertised addresses Bradley 507, Brightbill 509, Harding 511 and Price 527. These retain their individual historic numbers; no later consolidated-building label, surviving-structure date or ownership transfer is inferred.

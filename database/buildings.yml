@@ -27,6 +27,7 @@ buildings:
       - P-035
       - P-036
     related_evidence:
+      - E-116
       - E-108
       - E-001
       - E-002
@@ -53,6 +54,7 @@ buildings:
       - E-099
       - E-103
     related_sources:
+      - S-130
       - S-021
       - S-107
       - S-108
@@ -117,6 +119,7 @@ buildings:
       - P-035
       - P-036
     related_evidence:
+      - E-116
       - E-108
       - E-004
       - E-005
@@ -158,6 +161,7 @@ buildings:
       - E-102
       - E-103
     related_sources:
+      - S-130
       - S-021
       - S-022
       - S-107
@@ -201,6 +205,7 @@ buildings:
       - P-041
       - P-042
     related_evidence:
+      - E-116
       - E-108
       - E-016
       - E-017
@@ -212,6 +217,7 @@ buildings:
       - E-107
       - E-109
     related_sources:
+      - S-130
       - S-063
       - S-107
       - S-108
@@ -235,8 +241,9 @@ buildings:
     notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January 1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference. No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935 structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage remains unresolved. City report notes later entrance alteration.
     related_businesses: [BUS-028]
     related_people: [P-043]
-    related_evidence: [E-052, E-053, E-107, E-109]
+    related_evidence: [E-052, E-053, E-107, E-109, E-116]
     related_sources:
+      - S-130
       - S-061
       - S-062
       - S-063
@@ -248,6 +255,7 @@ buildings:
     address: 501 Main Street, Oregon City, Oregon
     notes: 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
     related_evidence:
+      - E-116
       - E-108
       - E-020
       - E-021
@@ -260,6 +268,7 @@ buildings:
       - E-103
       - E-104
     related_sources:
+      - S-130
       - S-021
       - S-023
       - S-064

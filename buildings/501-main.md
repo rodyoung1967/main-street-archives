@@ -94,3 +94,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 ## Task 7 Address-to-Property Bridge
 
 `E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.
+
+## 1916 Courier pages 106–180 checkpoint
+
+E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pages-106-180.md) through May 18 p3 establishes no new numbered occupant for this target. April 6 records Randall selling his undertaking interest to Holman, but the ad gives only Fifth/Main. May 18 authorizes the Raasch & Lamb basement move within the Andresen Building without a street number. Neither is assigned here. Courier 180/458; year IN PROGRESS; no vacancy, demolition or 1922-model conclusion.

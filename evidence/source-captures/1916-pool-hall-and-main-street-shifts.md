@@ -81,3 +81,7 @@ The 1916 target block remains unresolved at 503 and 505, but this pass removes o
 - **Raasch & Lamb = confirmed 1916 pool/billiards and smokers business, but located in the Andresen Building.**
 - **Champion Smith & Telford = confirmed at 502 Main**, useful as an opposite-side numbering anchor.
 - 503 and 505 still require direct exact-address evidence, preferably from the 1916-17 Sohns & Woodbeck directory, city license records, lease/sale notices, or visually reviewed newspaper pages.
+
+## 28 August verification — earlier May 18 permission
+
+**E-116/S-130**, [batch](1916-courier-pages-106-180.md), visually verifies **May 18 p1**: special three-month permission to move Raasch & Lamb from the Main Street room into the basement of the **same Andresen Building**, plus an instruction to prepare a charter amendment. Neither completed move nor enacted amendment is established. No street number is printed. **April 20 p10** and **May 4 p8** business-panel ads are also now visually verified; their pool/laundry ads are unnumbered. June and later leads above retain their original review limits. May 4 p1 Hedrick license and March 30 p8 Cox complaint give no exact address and are separate businesses.

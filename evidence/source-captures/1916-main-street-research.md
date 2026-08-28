@@ -154,7 +154,7 @@ The still-existing 1916 Morning Enterprise may remain an **offline/microfilm ret
 
 Several 1916 Courier issues surfaced with explicit page counts:
 
-- 20 Apr 1916 — 10 images/pages
+- 20 Apr 1916 — 12 images/pages (corrected from 10; all twelve scans verified in pages 106–180)
 - 20 Jul 1916 — 8 images/pages
 - 2 Nov 1916 — 10 images/pages
 - 16 Nov 1916 — 8 images/pages
@@ -189,3 +189,7 @@ This makes the unresolved 503/505 occupancy conspicuous but does not justify inf
 11. Build a complete issue/page inventory for the 1916 Oregon City Courier.
 12. Build a complete issue/page inventory for the 1916 Oregon City Enterprise.
 13. Perform the required full visual page-by-page scan review when actual scan rendering is available.
+
+## 28 August 2026 certified update
+
+Current exhaustive coverage is **Courier 180/458 pages**, through **May 18 p3**; next May 18 p4. The 104-issue/884-page inventory is recorded in the [checkpoint](1916-online-audit-checkpoint.md); older inventory to-dos and targeted search checkpoints above are historical, not current coverage. April 20 has **12**, not 10 pages. [Verified batch and findings](1916-courier-pages-106-180.md), E-116/S-130. Other online source work remains pending.

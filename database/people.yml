@@ -8,10 +8,12 @@ people:
     related_businesses:
       - BUS-007
     related_evidence:
+      - E-116
       - E-096
       - E-107
       - E-109
     related_sources:
+      - S-130
       - S-120
       - S-121
 
@@ -390,8 +392,8 @@ people:
     notes: Dated August-November 1915 listings. Given names and transfer from G. H. Young unresolved.
     related_businesses: [BUS-026]
     related_buildings: [B-003]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: P-042
     name: H. P. Brightbill
@@ -399,8 +401,8 @@ people:
     notes: Dated August-November 1915 listings. Identity with Henry Brightbill P-034 not established by this batch.
     related_businesses: [BUS-027]
     related_buildings: [B-003]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: P-043
     name: Al Price
@@ -416,8 +418,8 @@ people:
     role: Piano and sewing-machine dealer at 519 Main
     notes: 5 August 1915 p3 exact address. Given names and relationship to earlier Fifth/Main wording unresolved; no inferred move.
     related_businesses: [BUS-029]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: P-045
     name: E. T. Mass
@@ -436,3 +438,52 @@ people:
     related_evidence: [E-113]
     related_sources: [S-125]
     repository_file: people/profiles/gilbert-miller.md
+
+  - id: P-047
+    name: George J. Hall
+    role: Gas-company branch manager
+    notes: March 23 p 5 names him in charge of Portland Gas & Coke office at 718 Main; former Pacific Telephone manager. No property ownership inferred.
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+    related_businesses: [BUS-033]
+
+  - id: P-048
+    name: Dr. G. F. Anderson
+    role: Chiropractor
+    notes: April 13 p 6 advertisement prints 414 Main. Initials not expanded.
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+    related_businesses: [BUS-034]
+
+  - id: P-049
+    name: H. L. Martin
+    role: Address-associated automobile owner
+    notes: May 4 p 6 car-recovery report gives 613 Main; home/business type unspecified.
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+
+  - id: P-050
+    name: R. L. Holman
+    role: Undertaker; purchaser of Randall business interest
+    notes: April 6 p 5 reports buying Randall interest; Fifth/Main ad unnumbered. Not identified with the Portland Holman estate.
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+    related_businesses: [BUS-035]
+
+  - id: P-051
+    name: T. P. Randall
+    role: Undertaker; seller of business interest
+    notes: April 6 p 5 reports sale to Holman; joint-name ads later are not continued ownership proof.
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+    related_businesses: [BUS-035]

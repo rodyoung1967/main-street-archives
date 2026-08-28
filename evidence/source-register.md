@@ -851,3 +851,11 @@ Repository: `newspapers/oregon-city-enterprise/1915-pages-201-225/`; exact URLs 
 Media: `IMG-0454` through `IMG-0478`.  
 Evidence: `E-115`; detailed review `evidence/source-captures/1915-enterprise-pages-201-225.md`.  
 Notes: All 25 scans visually inspected. June 25 confirms the Worswick Main Street paving award; July 2 records the bond/guarantee deadlock; July 9 records security terms and actual Main Street rail/preparatory work beginning. No exact 503/505 or new numbered Fifth occupant; coverage only. Pause after 16 July p1; next p2.
+
+## S-130 - Oregon City Courier 1916 visual batch, chronological pages 106-180
+Type: Primary newspaper scans and full selected-page visual review.
+Dates: 23 March–18 May 1916; eight complete issues and three pages of a ninth.
+Repository: `newspapers/oregon-city-courier/1916-pages-106-180/`; 75 original PDFs, exact URLs/hashes and review notes in manifest; issue JSON retained.
+Media: IMG-0479 through IMG-0553.
+Evidence: E-116; detailed record `evidence/source-captures/1916-courier-pages-106-180.md`.
+Scope: all 75 selected scans visually verified; May 18 pages 4–8 excluded; no annual completion claim.

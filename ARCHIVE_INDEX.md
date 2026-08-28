@@ -281,3 +281,6 @@ Courier **110/123 sheets** processed; pause before December2. **46 Courier image
 - Courier checkpoint: **123/123 scan sheets processed**. Enterprise and other-source work remain; 1915 is still IN PROGRESS.
 - `evidence/source-captures/1915-enterprise-pages-201-225.md` - S-129/E-115, 25 visually reviewed Morning Enterprise pages through 16 July p1; preserved originals under `newspapers/oregon-city-enterprise/1915-pages-201-225/`.
 
+## 1916 Courier saved checkpoint
+
+[Pages 106–180](evidence/source-captures/1916-courier-pages-106-180.md) — 75 visually reviewed original PDFs; Courier 180/458, next May 18 p4. Source S-130, evidence E-116; 1916 IN PROGRESS.

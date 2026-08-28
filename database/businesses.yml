@@ -108,10 +108,12 @@ businesses:
     related_people:
       - P-001
     related_evidence:
+      - E-116
       - E-045
       - E-107
       - E-109
     related_sources:
+      - S-130
       - S-120
       - S-121
 
@@ -329,8 +331,8 @@ businesses:
     notes: Dated August-November 1915 directory listings; no continuous occupancy or transfer from G. H. Young inferred.
     related_people: [P-041]
     related_buildings: [B-003]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: BUS-027
     name: H. P. Brightbill grocery
@@ -338,8 +340,8 @@ businesses:
     notes: Dated August-November 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved. B-003 is address-group context, not proof of historic footprint.
     related_people: [P-042]
     related_buildings: [B-003]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: BUS-028
     name: Price Bros. clothing store
@@ -347,8 +349,8 @@ businesses:
     notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey & Price merger, real-estate ownership, closure or rebuilding claim.
     related_people: [P-043]
     related_buildings: [B-004]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
     repository_file: businesses/price-bros.md
 
   - id: BUS-029
@@ -356,8 +358,8 @@ businesses:
     address: 519 Main (dated 1915 listings through 25 November)
     notes: Number printed in directory; historic building identity and connection to earlier Fifth/Main wording unresolved. No target-storefront or relocation inference.
     related_people: [P-044]
-    related_evidence: [E-107, E-109]
-    related_sources: [S-120, S-121]
+    related_evidence: [E-107, E-109, E-116]
+    related_sources: [S-120, S-121, S-130]
 
   - id: BUS-030
     name: Mass's Hotel and Restaurant
@@ -372,8 +374,8 @@ businesses:
     name: Portland Railway Light & Power Co. Electric Store
     address: 617 Main Street, Beaver Building (25 November 1915)
     notes: November 25 p 2 prints company, building and number. Earlier October/November Electric Store ads name Beaver/Main without number. No move date or attribution of other Beaver Building tenants to 617.
-    related_evidence: [E-109]
-    related_sources: [S-121]
+    related_evidence: [E-109, E-116]
+    related_sources: [S-121, S-130]
     repository_file: businesses/electric-store.md
 
   - id: BUS-032
@@ -383,3 +385,47 @@ businesses:
     related_evidence: [E-109]
     related_sources: [S-121]
     repository_file: businesses/eddys-dependable-store.md
+
+  - id: BUS-033
+    name: Portland Gas & Coke Co. Oregon City branch
+    address: 718 Main
+    notes: Branch opened by March 23 report; George J. Hall in charge. No deed claim.
+    related_people:
+      - P-047
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+
+  - id: BUS-034
+    name: Dr. G. F. Anderson chiropractic practice
+    address: 414 Main
+    notes: April 13 p 6 dated advertisement; later unnumbered ads do not independently establish address.
+    related_people:
+      - P-048
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+
+  - id: BUS-035
+    name: Holman & Randall undertaking establishment
+    address: Fifth and Main; exact number unresolved
+    notes: May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day and real-estate ownership unknown.
+    related_people:
+      - P-050
+      - P-051
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130
+
+  - id: BUS-036
+    name: Raasch & Lamb pool and billiard hall
+    address: Andresen Building on Main; exact number unresolved
+    notes: May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned to 503/505.
+    related_people: []
+    related_evidence:
+      - E-116
+    related_sources:
+      - S-130

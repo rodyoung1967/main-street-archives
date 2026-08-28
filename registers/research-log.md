@@ -59,3 +59,6 @@ This log records searches, imports, reviews, and research decisions so the proje
 - No exact 503/505 or new numbered Fifth occupant identified; no negative occupancy inference made.
 - Enterprise pause: 225/428 images; next page 226 = 16 July p2.
 
+## 2026-08-28 — 1916 Courier next 75 pages
+
+Reviewed and preserved all 75 original PDFs from March 23 p 1 through May 18 p 3 (S-130/E-116; IMG-0479–IMG-0553). Nine issue JSON records, hashes, page notes and date/sequence checks retained. Corrected stale April 20 counts to 12; upgraded only exact verified dates and April 6 sale/Hylton items. Added earlier May 18 Raasch/Lamb permit and neighboring address evidence; no target occupant, vacancy or annual-completion claim. Courier 180/458, total 180/884, nextMay 18 p 4;704 newspaper pages and other-source work remain. Existing 1915 work preserved. Validation/publishing results are recorded in the commit handoff, not assumed by this log.
