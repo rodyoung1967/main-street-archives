@@ -32,9 +32,9 @@
 | BUS-026 | W. W. Bradley furniture | 507 Main | Dated August–October 1915 listings (`E-107`, `P-041`); no uninterrupted occupancy or Young-to-Bradley transfer assumed. |
 | BUS-027 | H. P. Brightbill grocery | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
 | BUS-028 | [Price Bros. clothing store](price-bros.md) | 527 Main (5 Aug. 1915) | Al Price `P-043` named proprietor in same-issue incident report; distinct from Bailey & Price unless an identity/succession bridge is found. `E-107`. |
-| BUS-029 | F. F. Theroux pianos and sewing machines | 519 Main (5 Aug. 1915) | Exact directory address (`E-107`, `P-044`); no inferred move from earlier Fifth/Main wording or assignment to 501/503/505. |
+| BUS-029 | F. F. Theroux pianos and sewing machines | 519 Main | Exact 1915 address (`E-107`, `P-044`); **4 Oct 1917 p2** directly repeats Theroux Music House at 519 Main (`E-120`/`S-134`). No uninterrupted-occupancy or target-storefront inference. |
 | BUS-030 | [Mass's Hotel and Restaurant](mass-hotel-restaurant.md) | Former Brunswick; Main near Seventh context, exact number open | Opening October 30, 1915 (calendar-derived), confirmed November 4; renovation/same quarters explicit, no deed proof. P-045; E-109. |
-| BUS-031 | [Portland Railway Light & Power Co. Electric Store](electric-store.md) | 617 Main, Beaver Building | November 25, 1915 p 2 exact advertisement; no move date or attribution of all building tenants to 617. E-109. |
+| BUS-031 | [Portland Railway Light & Power Co. Electric Store](electric-store.md) | 617 Main (earlier); **619 Main by 1916–17** | 1915 Beaver/617 evidence; July 1916 move to Andresen 619; **4 Jan 1917 p2** directly repeats Andresen Bldg., 619 Main (`E-120`/`S-134`). Exact lease/move day unresolved. |
 | BUS-032 | [Eddy's Dependable Store](eddys-dependable-store.md) | 526 Main | November 25, 1915 p 6 exact advertisement; proprietor/1910 Eddy identity unresolved, not 527. E-109. |
 
 ### October 28–November 25, 1915 corroboration
@@ -60,8 +60,8 @@ E-116/S-130 verifies BUS-007 511, BUS-026 507, BUS-027 509, BUS-028 527, BUS-029
 | --- | --- | --- | --- |
 | BUS-037 | Wm. A. Schilling optometry practice | 617 Main; announced move to 612 Main | June 1 p8 future-tense move; Pruden advertises succession by October 5. Exact move and transfer days unresolved. E-119/S-133. |
 | BUS-038 | Pruden optometry practice | 612 Main | October 5 p5 typeset surname and successor-to-Schilling wording; November 2 p7 and December 7 p5 repeat. Given name and transaction terms unknown. E-119/S-133. |
-| BUS-039 | Scripture & May | 108 Fifth | Exact address verified September 7 p4 and selected October/November/December ads. Ledger 110 tenant reading and May & Washburn bridge unresolved. E-119/S-133. |
-| BUS-040 | Jones Drug Company | Andresen Building on Main; number not supplied | June 1 pp3/5 announce moving two doors south into PRL&P/Schilling room; not same-day completion proof. E-119/S-133. |
+| BUS-039 | Scripture & May | 108 Fifth | Exact address verified Sep–Dec 1916 and again **4 Jan / 1 Feb 1917**; Aug2 reports an employee joining the Oregon City blacksmith shop without a number. Ledger 110 and May & Washburn bridges unresolved. `E-120`/`S-134`. |
+| BUS-040 | Jones Drug Company | **617 Main by 1 Nov 1917**; Andresen Building move prospect in 1916 | June 1916 announced move into former PRL&P/Schilling room; Nov1 1917 p3 directly prints Jones Drug Co., 617 Main Street. Exact move day and legal succession terms unresolved. `E-120`/`S-134`. |
 | BUS-041 | Burmeister & Andresen jewelers | Suspension-bridge corner; Andresen Building | June 1 p5 prospective expansion into Jones room and approximately $5,000 rearrangement; not completed construction or deed. E-119/S-133. |
 | BUS-042 | Greaves & McNeil | Andresen basement; proposed Barclay Building offices | June 1 p5 future-tense relocation; number and actual move date unresolved. E-119/S-133. |
 | BUS-043 | E. P. Elliott & Sons | Andresen basement; replacement sought | June 1 p5 says seeking new home amid rearrangement; destination and completed move unknown. E-119/S-133. |

@@ -402,11 +402,13 @@ businesses:
     - E-109
     - E-116
     - E-119
+    - E-120
     related_sources:
     - S-120
     - S-121
     - S-130
     - S-133
+    - S-134
 
   - id: BUS-030
     name: Mass's Hotel and Restaurant
@@ -428,10 +430,12 @@ businesses:
     - E-109
     - E-116
     - E-119
+    - E-120
     related_sources:
     - S-121
     - S-130
     - S-133
+    - S-134
     repository_file: businesses/electric-store.md
 
   - id: BUS-032
@@ -516,22 +520,25 @@ businesses:
   - id: BUS-039
     name: Scripture & May
     address: 108 Fifth
-    notes: Exact address verified September 7 p4 and selected October/November/December ads. Ledger 110 tenant reading
-      and May & Washburn bridge unresolved.
+    notes: Exact address verified in selected September-December 1916 ads and again January 4 and February 1, 1917; August 2 reports an employee joining the blacksmith shop without a number. Ledger 110 tenant reading and May & Washburn bridge unresolved.
     related_people: []
     related_evidence:
     - E-119
+    - E-120
     related_sources:
     - S-133
+    - S-134
   - id: BUS-040
     name: Jones Drug Company
-    address: Andresen Building on Main; number not supplied
-    notes: June 1 pp3/5 announce moving two doors south into PRL&P/Schilling room; not same-day completion proof.
+    address: 617 Main by 1 November 1917; Andresen Building move prospect in 1916
+    notes: June 1916 prospective move into former PRL&P/Schilling room; November 1, 1917 p3 directly prints Jones Drug Co., 617 Main Street. Exact move day and legal succession/lease terms unresolved.
     related_people: []
     related_evidence:
     - E-119
+    - E-120
     related_sources:
     - S-133
+    - S-134
   - id: BUS-041
     name: Burmeister & Andresen jewelers
     address: Suspension-bridge corner; Andresen Building

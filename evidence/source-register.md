@@ -883,3 +883,11 @@ Repository: `newspapers/oregon-city-courier/1916-first-monthly-june-december/`; 
 Media: IMG-0554 through IMG-0611.
 Evidence: E-119; detailed record `evidence/source-captures/1916-courier-first-monthly-june-december.md`.
 Scope: all seven selected issues visually verified; intervening issues not certified by this sample. Annual status IN PROGRESS.
+
+## S-134 — Oregon City Courier 1917 first-issue monthly visual sample
+Type: Primary newspaper scans / structured monthly sampling pass.  
+Dates: 4 Jan, 1 Feb, 1 Mar, 5 Apr, 3 May, 7 Jun, 5 Jul, 2 Aug, 6 Sep, 4 Oct, 1 Nov, 6 Dec 1917; **12 complete selected issues / 96 page images**.  
+Repository: `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; exact source URLs, SHA-256 hashes, media IDs and visual statuses in `manifest.json`.  
+Media: `IMG-0612` through `IMG-0707`.  
+Evidence: `E-120`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.  
+Notes: All 96 sampled scans visually inspected. Jan4/Feb1 directly verify Scripture & May at 108 Fifth; Jan4 directly verifies Electric Store at Andresen 619 Main; Oct4 verifies Theroux Music House 519 Main; Nov1 directly verifies Jones Drug Co. 617 Main. No exact 501/503/505/507/509/511 occupant established in the sample; coverage only. This sampling pass is not annual completion.

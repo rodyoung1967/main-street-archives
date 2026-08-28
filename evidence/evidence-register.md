@@ -862,3 +862,17 @@ Claims:
 - August 3 p8 postpones proposed approximately $1,000,000 second Hawley unit on east Main from Third to alley between Fourth/Fifth; not completed construction or target parcel proof.
 - Dated neighboring addresses confirmed; no new exact 503/505 occupant or target demolition/rebuild established; no absence inference.
 Confidence: Very High for readable printed wording; advertised succession is not a deed, exact transaction day or target parcel assignment.
+
+## E-120 — 1917 Courier first-issue monthly visual sample
+Type: Primary newspaper visual review; source `S-134`.  
+Record: `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.  
+Claims:
+- All **96 page images** from twelve first-monthly Courier issues were visually inspected; this is a sampling pass, not exhaustive annual coverage.
+- Jan4 p4 and Feb1 p5 directly print **Scripture & May, 108 Fifth St.**; Aug2 p2 reports Owen Thomas taking a position in Scripture & May's Oregon City blacksmith shop without a number.
+- Sampled Holman advertising corroborates **Fifth and Main** continuity but does not establish 501/503/505.
+- Jan4 p2 directly prints the Electric Store at **Andresen Bldg., 619 Main St.**, corroborating its reported 1916 move from 617.
+- Oct4 p2 directly prints **Theroux Music House, 519 Main street**.
+- Nov1 p3 directly prints **Jones Drug Co., 617 Main Street**, supplying a numbered 1917 location after the 1916 prospective move/rearrangement report.
+- Feb1 lower-Main building movement/remodeling, Mar1 Ninth/Main Miller-Parker redevelopment, and Dec6 Adams Department Store building-removal wording are contextual; none is assigned to 501/503/505.
+- No exact 501/503/505/507/509/511 occupant established in the twelve sampled issues; this is bounded coverage only, never vacancy/non-use evidence.
+Confidence: Very High for the visually readable exact-address and business-location wording; exact transaction/move days, target occupancy and unnumbered building locations remain unresolved.

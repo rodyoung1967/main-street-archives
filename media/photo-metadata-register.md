@@ -886,3 +886,106 @@ All 75 original PDFs committed and VISUALLY VERIFIED; normalized filenames prese
 | IMG-0609 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-06.pdf` | 1916-12-07 / seq6 / printed6 |
 | IMG-0610 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-07.pdf` | 1916-12-07 / seq7 / printed7 |
 | IMG-0611 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-08.pdf` | 1916-12-07 / seq8 / printed8 |
+
+## 1917 Courier first-issue monthly sample — S-134 / E-120
+
+All 96 unchanged original page PDFs are **VISUALLY VERIFIED**. Exact source URLs and SHA-256 hashes are preserved in `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/manifest.json`. This is a sampling pass only.
+
+| Media ID | Repository file | Issue / sequence / status |
+| --- | --- | --- |
+| IMG-0612 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-01.pdf` | 1917-01-04 / seq1 / visually verified |
+| IMG-0613 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-02.pdf` | 1917-01-04 / seq2 / visually verified |
+| IMG-0614 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-03.pdf` | 1917-01-04 / seq3 / visually verified |
+| IMG-0615 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-04.pdf` | 1917-01-04 / seq4 / visually verified |
+| IMG-0616 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-05.pdf` | 1917-01-04 / seq5 / visually verified |
+| IMG-0617 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-06.pdf` | 1917-01-04 / seq6 / visually verified |
+| IMG-0618 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-07.pdf` | 1917-01-04 / seq7 / visually verified |
+| IMG-0619 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-01-04-seq-08.pdf` | 1917-01-04 / seq8 / visually verified |
+| IMG-0620 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-01.pdf` | 1917-02-01 / seq1 / visually verified |
+| IMG-0621 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-02.pdf` | 1917-02-01 / seq2 / visually verified |
+| IMG-0622 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-03.pdf` | 1917-02-01 / seq3 / visually verified |
+| IMG-0623 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-04.pdf` | 1917-02-01 / seq4 / visually verified |
+| IMG-0624 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-05.pdf` | 1917-02-01 / seq5 / visually verified |
+| IMG-0625 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-06.pdf` | 1917-02-01 / seq6 / visually verified |
+| IMG-0626 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-07.pdf` | 1917-02-01 / seq7 / visually verified |
+| IMG-0627 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-02-01-seq-08.pdf` | 1917-02-01 / seq8 / visually verified |
+| IMG-0628 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-01.pdf` | 1917-03-01 / seq1 / visually verified |
+| IMG-0629 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-02.pdf` | 1917-03-01 / seq2 / visually verified |
+| IMG-0630 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-03.pdf` | 1917-03-01 / seq3 / visually verified |
+| IMG-0631 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-04.pdf` | 1917-03-01 / seq4 / visually verified |
+| IMG-0632 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-05.pdf` | 1917-03-01 / seq5 / visually verified |
+| IMG-0633 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-06.pdf` | 1917-03-01 / seq6 / visually verified |
+| IMG-0634 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-07.pdf` | 1917-03-01 / seq7 / visually verified |
+| IMG-0635 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-08.pdf` | 1917-03-01 / seq8 / visually verified |
+| IMG-0636 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-09.pdf` | 1917-03-01 / seq9 / visually verified |
+| IMG-0637 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-03-01-seq-10.pdf` | 1917-03-01 / seq10 / visually verified |
+| IMG-0638 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-01.pdf` | 1917-04-05 / seq1 / visually verified |
+| IMG-0639 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-02.pdf` | 1917-04-05 / seq2 / visually verified |
+| IMG-0640 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-03.pdf` | 1917-04-05 / seq3 / visually verified |
+| IMG-0641 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-04.pdf` | 1917-04-05 / seq4 / visually verified |
+| IMG-0642 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-05.pdf` | 1917-04-05 / seq5 / visually verified |
+| IMG-0643 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-06.pdf` | 1917-04-05 / seq6 / visually verified |
+| IMG-0644 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-07.pdf` | 1917-04-05 / seq7 / visually verified |
+| IMG-0645 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-04-05-seq-08.pdf` | 1917-04-05 / seq8 / visually verified |
+| IMG-0646 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-01.pdf` | 1917-05-03 / seq1 / visually verified |
+| IMG-0647 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-02.pdf` | 1917-05-03 / seq2 / visually verified |
+| IMG-0648 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-03.pdf` | 1917-05-03 / seq3 / visually verified |
+| IMG-0649 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-04.pdf` | 1917-05-03 / seq4 / visually verified |
+| IMG-0650 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-05.pdf` | 1917-05-03 / seq5 / visually verified |
+| IMG-0651 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-06.pdf` | 1917-05-03 / seq6 / visually verified |
+| IMG-0652 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-07.pdf` | 1917-05-03 / seq7 / visually verified |
+| IMG-0653 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-05-03-seq-08.pdf` | 1917-05-03 / seq8 / visually verified |
+| IMG-0654 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-01.pdf` | 1917-06-07 / seq1 / visually verified |
+| IMG-0655 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-02.pdf` | 1917-06-07 / seq2 / visually verified |
+| IMG-0656 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-03.pdf` | 1917-06-07 / seq3 / visually verified |
+| IMG-0657 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-04.pdf` | 1917-06-07 / seq4 / visually verified |
+| IMG-0658 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-05.pdf` | 1917-06-07 / seq5 / visually verified |
+| IMG-0659 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-06.pdf` | 1917-06-07 / seq6 / visually verified |
+| IMG-0660 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-07.pdf` | 1917-06-07 / seq7 / visually verified |
+| IMG-0661 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-06-07-seq-08.pdf` | 1917-06-07 / seq8 / visually verified |
+| IMG-0662 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-01.pdf` | 1917-07-05 / seq1 / visually verified |
+| IMG-0663 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-02.pdf` | 1917-07-05 / seq2 / visually verified |
+| IMG-0664 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-03.pdf` | 1917-07-05 / seq3 / visually verified |
+| IMG-0665 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-04.pdf` | 1917-07-05 / seq4 / visually verified |
+| IMG-0666 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-05.pdf` | 1917-07-05 / seq5 / visually verified |
+| IMG-0667 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-06.pdf` | 1917-07-05 / seq6 / visually verified |
+| IMG-0668 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-07.pdf` | 1917-07-05 / seq7 / visually verified |
+| IMG-0669 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-07-05-seq-08.pdf` | 1917-07-05 / seq8 / visually verified |
+| IMG-0670 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-01.pdf` | 1917-08-02 / seq1 / visually verified |
+| IMG-0671 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-02.pdf` | 1917-08-02 / seq2 / visually verified |
+| IMG-0672 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-03.pdf` | 1917-08-02 / seq3 / visually verified |
+| IMG-0673 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-04.pdf` | 1917-08-02 / seq4 / visually verified |
+| IMG-0674 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-05.pdf` | 1917-08-02 / seq5 / visually verified |
+| IMG-0675 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-06.pdf` | 1917-08-02 / seq6 / visually verified |
+| IMG-0676 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-01.pdf` | 1917-09-06 / seq1 / visually verified |
+| IMG-0677 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-02.pdf` | 1917-09-06 / seq2 / visually verified |
+| IMG-0678 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-03.pdf` | 1917-09-06 / seq3 / visually verified |
+| IMG-0679 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-04.pdf` | 1917-09-06 / seq4 / visually verified |
+| IMG-0680 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-05.pdf` | 1917-09-06 / seq5 / visually verified |
+| IMG-0681 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-06.pdf` | 1917-09-06 / seq6 / visually verified |
+| IMG-0682 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-07.pdf` | 1917-09-06 / seq7 / visually verified |
+| IMG-0683 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-09-06-seq-08.pdf` | 1917-09-06 / seq8 / visually verified |
+| IMG-0684 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-01.pdf` | 1917-10-04 / seq1 / visually verified |
+| IMG-0685 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-02.pdf` | 1917-10-04 / seq2 / visually verified |
+| IMG-0686 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-03.pdf` | 1917-10-04 / seq3 / visually verified |
+| IMG-0687 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-04.pdf` | 1917-10-04 / seq4 / visually verified |
+| IMG-0688 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-05.pdf` | 1917-10-04 / seq5 / visually verified |
+| IMG-0689 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-06.pdf` | 1917-10-04 / seq6 / visually verified |
+| IMG-0690 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-07.pdf` | 1917-10-04 / seq7 / visually verified |
+| IMG-0691 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-10-04-seq-08.pdf` | 1917-10-04 / seq8 / visually verified |
+| IMG-0692 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-01.pdf` | 1917-11-01 / seq1 / visually verified |
+| IMG-0693 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-02.pdf` | 1917-11-01 / seq2 / visually verified |
+| IMG-0694 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-03.pdf` | 1917-11-01 / seq3 / visually verified |
+| IMG-0695 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-04.pdf` | 1917-11-01 / seq4 / visually verified |
+| IMG-0696 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-05.pdf` | 1917-11-01 / seq5 / visually verified |
+| IMG-0697 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-06.pdf` | 1917-11-01 / seq6 / visually verified |
+| IMG-0698 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-07.pdf` | 1917-11-01 / seq7 / visually verified |
+| IMG-0699 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-11-01-seq-08.pdf` | 1917-11-01 / seq8 / visually verified |
+| IMG-0700 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-01.pdf` | 1917-12-06 / seq1 / visually verified |
+| IMG-0701 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-02.pdf` | 1917-12-06 / seq2 / visually verified |
+| IMG-0702 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-03.pdf` | 1917-12-06 / seq3 / visually verified |
+| IMG-0703 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-04.pdf` | 1917-12-06 / seq4 / visually verified |
+| IMG-0704 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-05.pdf` | 1917-12-06 / seq5 / visually verified |
+| IMG-0705 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-06.pdf` | 1917-12-06 / seq6 / visually verified |
+| IMG-0706 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-07.pdf` | 1917-12-06 / seq7 / visually verified |
+| IMG-0707 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-08.pdf` | 1917-12-06 / seq8 / visually verified |

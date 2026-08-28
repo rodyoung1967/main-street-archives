@@ -13,3 +13,7 @@ E-116/S-130, [batch](../evidence/source-captures/1916-courier-pages-106-180.md),
 ## 1916 move directly reported
 
 **July 6 p7** explicitly says the Electric Store and power offices have moved **one door north** to **Andresen Building, 619 Main**. The same ad retains Beaver Building/617 in its footer; preserve that conflict as apparently stale footer copy, not proof of two offices. August 3 p7, September 7 p7, October 5 p4, November 2 p8 and December 7 p6 repeat 619. Exact move day remains unknown. **E-119/S-133**, [originals and wording limits](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
+
+## 1917 numbered continuation
+
+`E-120` / `S-134` visually verifies a **4 January 1917 p2** Electric Store advertisement printing **Andresen Bldg., 619 Main St.** This is dated corroboration of the July 1916 report that the Electric Store/power offices moved one door north from 617 to Andresen 619. The sampled ad does not establish the legal lease/deed terms or exact move day.

@@ -130,3 +130,9 @@ E-109/S-121: October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 an
 ## Earlier exact anchor — September 7, 1916
 
 **E-119/S-133**, [monthly ledger](1916-courier-first-monthly-june-december.md), visually verifies **Scripture & May, 108 Fifth St.**, September 7 p4. October 5 p6 is rechecked; November 2 p7 and December 7 p3 repeat. This advances the prior October anchor without backdating 108 to the 1914–15 ledger or proving a move from 110, physical adjacency to 109, or May & Washburn succession. Business **BUS-039**; partner-name sources retain their own verification limits.
+
+## January–August 1917 sampled continuity
+
+`E-120` / `S-134`, [monthly sample log](1917-courier-first-issue-monthly-sample.md), visually verifies **Scripture & May — 108 Fifth St.** on **4 January 1917 p4** and **1 February 1917 p5**. This extends the selected 108 Fifth exact-address chronology from September–December 1916 into early 1917. It still does not prove that the probable 110 Fifth ledger reading represents the same business/premises or establish a move date from 110 to 108.
+
+The **2 August 1917 p2** sample separately reports that **Owen Thomas had accepted a position in Scripture & May's blacksmith shop in Oregon City**. That item verifies continuing operation of the business name in August but gives no number. The 19 April partner-name item retains its own OCR/TEXT ONLY status until directly visually checked.

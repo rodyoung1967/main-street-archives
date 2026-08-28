@@ -76,3 +76,9 @@ Reviewed and preserved all 75 original PDFs from March 23 p 1 through May 18 p 3
 ## 28 August 2026 — 1916 first monthly issues, June–December
 
 At steward request, visually reviewed all 58 scans in seven first-monthly Courier issues, not the next 75 chronological pages. Preserved PDFs, hashes, page notes, calendar and all 52 issue JSONs. E-119/S-133, IMG-0554–IMG-0611. Courier advances **180 to 238/458**; **220** remain over 26 dates, including May 18 pp4–8. Enterprise 426 pending; total 646 newspaper pages pending. Date/name corrections and explicit prospective-versus-completed wording integrated; no new 503/505 exact occupant or absence claim. Year **IN PROGRESS**. Next May 18 p4; skip selected completed issues. [Findings and remaining inventory](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
+
+### 2026-08-28 — 1917 Courier first-issue monthly sample
+- Preserved and visually inspected **96/96 pages** across the first available Courier issue in each month (12 issues).
+- `S-134` / `E-120`; originals/manifests at `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.
+- Verified Scripture & May 108 Fifth on Jan4/Feb1; Electric Store 619 Main Jan4; Theroux Music House 519 Main Oct4; Jones Drug Co. 617 Main Nov1; contextual lower-Main/Ninth-Main/Adams building-change items retained with location limits.
+- No exact 501/503/505/507/509/511 occupant in the sample. Coverage only, no vacancy inference. 1917 remains IN PROGRESS.

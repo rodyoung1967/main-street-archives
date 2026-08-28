@@ -1820,3 +1820,18 @@ evidence:
     - BUS-043
     - BUS-044
     repository_file: evidence/source-captures/1916-courier-first-monthly-june-december.md
+
+
+  - id: E-120
+    name: 1917 Courier first-issue monthly visual sample
+    type: Primary newspaper visual review of 96 sampled page images
+    claims:
+      - Twelve complete first-monthly Courier issues, 96 scans total, were visually inspected; sampling only, not annual completion.
+      - January 4 and February 1 directly place Scripture & May at 108 Fifth; August 2 confirms the business operating without printing a number.
+      - January 4 prints the Electric Store at Andresen Building 619 Main; October 4 prints Theroux Music House at 519 Main; November 1 prints Jones Drug Co. at 617 Main.
+      - Holman Fifth/Main continuity is corroborated without assigning 501/503/505.
+      - No exact 501/503/505/507/509/511 occupant was established in these twelve sampled issues; coverage only, not vacancy evidence.
+    confidence: Very High for visually readable printed wording; exact move/transaction dates and target occupancy unresolved.
+    related_sources: [S-134]
+    related_businesses: [BUS-029, BUS-031, BUS-035, BUS-039, BUS-040]
+    repository_file: evidence/source-captures/1917-courier-first-issue-monthly-sample.md

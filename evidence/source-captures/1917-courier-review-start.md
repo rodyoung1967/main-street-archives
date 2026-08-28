@@ -90,3 +90,9 @@ Keep the 1916–1917 water-rent ledger findings separate from newspaper silence:
 1. Recover and visually inspect the true page 21 of the 13 Dec 1917 Courier.
 2. Recover and visually inspect the Oregon City pages of the Sohns & Woodbeck 1916–17 directory, with exact extraction for **501, 503, 505, 507, 509, 511 Main**.
 3. Preserve the exact 503/505 occupant question as unresolved until a primary source resolves it.
+
+## First-issue monthly sampling checkpoint — 28 August 2026
+
+A new structured first-issue-of-each-month pass (`S-134` / `E-120`) visually reviewed **12 complete selected issues / 96 pages**: Jan4, Feb1, Mar1, Apr5, May3, Jun7, Jul5, Aug2, Sep6, Oct4, Nov1 and Dec6. [Detailed log and preserved-page links](1917-courier-first-issue-monthly-sample.md).
+
+Verified additions include Scripture & May at **108 Fifth** on Jan4/Feb1, Electric Store at **619 Main** on Jan4, Theroux Music House at **519 Main** on Oct4, and Jones Drug Co. at **617 Main** on Nov1. The sample establishes no exact 501/503/505/507/509/511 occupant. Sampling silence is not vacancy evidence. 1917 remains **IN PROGRESS**; the 13 Dec true-p21 and Sohns & Woodbeck Oregon City directory gaps remain open, and this sample does not substitute for exhaustive annual page review.

@@ -648,3 +648,9 @@ sources:
     notes: 58 original PDFs, seven full selected monthly issues; newspapers/oregon-city-courier/1916-first-monthly-june-december/.
       All visually verified; 52 issue JSONs retained. E-119; IMG-0554 through IMG-0611. Courier 238/458; 220 pending.
       Annual status IN PROGRESS.
+
+
+  - id: S-134
+    name: Oregon City Courier 1917 first-issue monthly visual sample
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-04/ed-1/
+    notes: 12 selected first-monthly issues / 96 scans visually verified and preserved under newspapers/oregon-city-courier/1917-first-issue-monthly-sample/. Related evidence E-120; media IMG-0612-IMG-0707. Sampling pass only, not annual completion.
