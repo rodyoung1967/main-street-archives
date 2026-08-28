@@ -1,5 +1,10 @@
 # October 1916 Oregon City Courier — targeted review status
 
+## Superseding visual checkpoint — 28 August 2026
+
+The targeted OCR findings below are preserved as historical working notes. **Pruden**, not the earlier **Cruden** interpretation, is typeset at **612 Main** in October 5 p5 and repeated November 2 p7 / December 7 p5, with successor-to-Schilling wording (E-119/S-133). December 14 itself remains unreviewed; its old Cruden interpretation is not a verified identity. September 28 and November 23 retain OCR-only status. See [monthly visual ledger](1916-courier-first-monthly-june-december.md) for exactly which pages were inspected. Do not infer uninterrupted occupancy, precise transfer terms or a first advertisement date from the sample.
+
+
 Status: **TARGETED OCR/TEXT REVIEW ONLY — NOT VISUALLY VERIFIED**
 
 This file continues the chronological 1916 Courier pass after the September targeted review. Under `RESEARCH-STANDARD.md`, OCR/search and text extraction remain discovery evidence only until the actual scanned newspaper page is visually inspected.

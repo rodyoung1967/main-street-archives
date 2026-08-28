@@ -2,20 +2,24 @@ people:
   - id: P-001
     name: George A. Harding
     role: Druggist / civic leader
-    notes: Associated with Harding Building and Harding Drug Store. A visually verified 13 July 1922 newspaper reports that his separate named Main Street store-property group was sold to S. Wolf and C. Gates; deed, legal description and relationship to the Harding Building remain unresolved.
+    notes: Associated with Harding Building and Harding Drug Store. A visually verified 13 July 1922 newspaper reports
+      that his separate named Main Street store-property group was sold to S. Wolf and C. Gates; deed, legal description
+      and relationship to the Harding Building remain unresolved.
     related_buildings:
-      - B-003
+    - B-003
     related_businesses:
-      - BUS-007
+    - BUS-007
     related_evidence:
-      - E-116
-      - E-096
-      - E-107
-      - E-109
+    - E-116
+    - E-096
+    - E-107
+    - E-109
+    - E-119
     related_sources:
-      - S-130
-      - S-120
-      - S-121
+    - S-130
+    - S-120
+    - S-121
+    - S-133
 
   - id: P-002
     name: Dr. Bailey
@@ -390,19 +394,39 @@ people:
     name: W. W. Bradley
     role: Furniture merchant at 507 Main
     notes: Dated August-November 1915 listings. Given names and transfer from G. H. Young unresolved.
-    related_businesses: [BUS-026]
-    related_buildings: [B-003]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    related_businesses:
+    - BUS-026
+    related_buildings:
+    - B-003
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: P-042
     name: H. P. Brightbill
     role: Grocer at 509 Main
     notes: Dated August-November 1915 listings. Identity with Henry Brightbill P-034 not established by this batch.
-    related_businesses: [BUS-027]
-    related_buildings: [B-003]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    related_businesses:
+    - BUS-027
+    related_buildings:
+    - B-003
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: P-043
     name: Al Price
@@ -416,10 +440,20 @@ people:
   - id: P-044
     name: F. F. Theroux
     role: Piano and sewing-machine dealer at 519 Main
-    notes: 5 August 1915 p3 exact address. Given names and relationship to earlier Fifth/Main wording unresolved; no inferred move.
-    related_businesses: [BUS-029]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    notes: 5 August 1915 p3 exact address. Given names and relationship to earlier Fifth/Main wording unresolved;
+      no inferred move.
+    related_businesses:
+    - BUS-029
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: P-045
     name: E. T. Mass
@@ -471,19 +505,59 @@ people:
   - id: P-050
     name: R. L. Holman
     role: Undertaker; purchaser of Randall business interest
-    notes: April 6 p 5 reports buying Randall interest; Fifth/Main ad unnumbered. Not identified with the Portland Holman estate.
+    notes: April 6 p 5 reports buying Randall interest; Fifth/Main ad unnumbered. Not identified with the Portland
+      Holman estate.
     related_evidence:
-      - E-116
+    - E-116
+    - E-119
     related_sources:
-      - S-130
-    related_businesses: [BUS-035]
+    - S-130
+    - S-133
+    related_businesses:
+    - BUS-035
 
   - id: P-051
     name: T. P. Randall
     role: Undertaker; seller of business interest
     notes: April 6 p 5 reports sale to Holman; joint-name ads later are not continued ownership proof.
     related_evidence:
-      - E-116
+    - E-116
+    - E-119
     related_sources:
-      - S-130
-    related_businesses: [BUS-035]
+    - S-130
+    - S-133
+    related_businesses:
+    - BUS-035
+
+  - id: P-052
+    name: Wm. A. Schilling
+    role: Optometrist
+    notes: Name preserved as advertised; June 1 move announcement, later Pruden succession. No given-name expansion.
+    related_businesses:
+    - BUS-037
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: P-053
+    name: Pruden
+    role: Optometrist; advertised Schilling successor
+    notes: Surname typeset October 5 p5; earlier Cruden OCR interpretation superseded. Given name and transaction
+      terms unresolved.
+    related_businesses:
+    - BUS-038
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: P-054
+    name: W. P. Hawley Jr.
+    role: Mill-company representative
+    notes: August 3 p8 names him as son of company president/general manager and source for postponed second unit.
+      No target ownership inference.
+    related_businesses:
+    - BUS-044
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133

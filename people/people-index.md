@@ -64,3 +64,11 @@ October 28–November 25 directory corroboration (E-109/S-121) extends P-041 at 
 ## 1916 dated corroboration
 
 E-116/S-130 verifies P-001, P-041, P-042 and P-044 in March–May advertisements at their separately stated 511/507/509/519 numbers; no identity merger or new Price proprietor identification.
+
+## 1916 monthly review — newly indexed people
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-052 | Wm. A. Schilling | Optometrist | Name preserved as advertised; June 1 move announcement, later Pruden succession. No given-name expansion. E-119/S-133. |
+| P-053 | Pruden | Optometrist; advertised Schilling successor | Surname typeset October 5 p5; earlier Cruden OCR interpretation superseded. Given name and transaction terms unresolved. E-119/S-133. |
+| P-054 | W. P. Hawley Jr. | Mill-company representative | August 3 p8 names him as son of company president/general manager and source for postponed second unit. No target ownership inference. E-119/S-133. |

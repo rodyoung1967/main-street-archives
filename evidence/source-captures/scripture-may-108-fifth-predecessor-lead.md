@@ -126,3 +126,7 @@ The search for May & Washburn's exact premises therefore remains open and should
 ## Earlier business-name corroboration — 1915 batch, reviewed 27August2026
 
 E-109/S-121: October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3 advertise **Scripture & May**, scientific horseshoeing/emery-wheel service, Pacific297-J. **No street address is printed in these five notices.** This supplies dated1915 business-name evidence only; it does not backdate the independently verified1916 **108 Fifth** number, identify the individual partners, or restore a May & Washburn premises-succession hypothesis. [Page log and originals](1915-courier-sheets-101-110.md).
+
+## Earlier exact anchor — September 7, 1916
+
+**E-119/S-133**, [monthly ledger](1916-courier-first-monthly-june-december.md), visually verifies **Scripture & May, 108 Fifth St.**, September 7 p4. October 5 p6 is rechecked; November 2 p7 and December 7 p3 repeat. This advances the prior October anchor without backdating 108 to the 1914–15 ledger or proving a move from 110, physical adjacency to 109, or May & Washburn succession. Business **BUS-039**; partner-name sources retain their own verification limits.

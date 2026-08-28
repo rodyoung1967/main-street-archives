@@ -72,3 +72,7 @@ Reviewed and preserved all 75 original PDFs from March 23 p 1 through May 18 p 3
 - Added exact 1914–15 ledger-period anchors **107 Fifth = Blacksmith** and **110 Fifth = Stable**. The 110 tenant appears consistent with Scripture & May but remains a layered/probable reading; no 108 backdating or Fashion Stable merger.
 - 503 is classified Store, 503½ Barber Shop, and 501 has layered Restaurant/Saloon writing; faint tenant names and exact timing remain unresolved.
 - The relevant 1915 water-ledger target audit is complete. 1915 remains **IN PROGRESS** because Enterprise pages 226–428, other online source classes, M01–M04 handling and final closeout remain.
+
+## 28 August 2026 — 1916 first monthly issues, June–December
+
+At steward request, visually reviewed all 58 scans in seven first-monthly Courier issues, not the next 75 chronological pages. Preserved PDFs, hashes, page notes, calendar and all 52 issue JSONs. E-119/S-133, IMG-0554–IMG-0611. Courier advances **180 to 238/458**; **220** remain over 26 dates, including May 18 pp4–8. Enterprise 426 pending; total 646 newspaper pages pending. Date/name corrections and explicit prospective-versus-completed wording integrated; no new 503/505 exact occupant or absence claim. Year **IN PROGRESS**. Next May 18 p4; skip selected completed issues. [Findings and remaining inventory](../evidence/source-captures/1916-courier-first-monthly-june-december.md).

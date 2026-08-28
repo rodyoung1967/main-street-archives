@@ -94,3 +94,9 @@ Fifth/Main undertaker notices recur through November 25; Scripture & May's five 
 | March 23 | Portland Gas & Coke opens branch at 718 Main under George J. Hall | E-116/S-130 p5 | No deed ownership claim. |
 | April 6 | Randall sold undertaking interest to Holman; joint-name Fifth/Main ad still printed | E-116/S-130 p5 | No exact sale day or numbered target premises. |
 | May 18 | Raasch & Lamb granted three-month basement-move permit within Andresen Building | E-116/S-130 p1 | Permission, not completed move or charter amendment. |
+
+## June–December 1916 — selected monthly visual confirmations
+
+E-119/S-133: June 1 announces Andresen store rearrangements and Schilling's proposed 612 move. July 6 explicitly reports Electric Store/power offices at 619, one door north, despite a retained 617 footer. Holman-alone Fifth/Main ads are verified by August 3; the April 6 interest sale remains controlling. Scripture & May 108 Fifth is verified by September 7. October 5 explicitly names Pruden at 612 as Schilling's successor, repeated November 2 and December 7. August 3 postpones the proposed million-dollar Hawley second unit on east Main between Third and the alley between Fourth/Fifth. No exact target occupancy, demolition, parcel or transaction-day inference follows.
+
+[Page ledger](../evidence/source-captures/1916-courier-first-monthly-june-december.md).

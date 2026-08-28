@@ -77,3 +77,7 @@ The finding is preserved separately in:
 2. Finish explicit image counts for the remaining October/November issue roots.
 3. Complete the page-by-page visual pass for September–December, especially all 20 pages of 14 Dec.
 4. Continue looking for exact 503/505 occupant, sale, transfer, vacancy, fire, demolition, or construction evidence.
+
+## Selected whole issues now visually verified — E-119/S-133
+
+September 7, October 5, November 2 and December 7 are fully reviewed; intervening dates retain prior limits. Scripture & May **108 Fifth** is verified on all four dates; Pruden **612 Main**, successor to Schilling, is verified October 5, November 2 and December 7. Holman-alone wording is now anchored by August 3. All 52 Courier issue counts are retained; **December 14 has 20 pages and remains pending**. [Page ledger and remaining-issue table](1916-courier-first-monthly-june-december.md).

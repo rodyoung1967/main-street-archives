@@ -284,3 +284,10 @@ Courier **110/123 sheets** processed; pause before December2. **46 Courier image
 ## 1916 Courier saved checkpoint
 
 [Pages 106–180](evidence/source-captures/1916-courier-pages-106-180.md) — 75 visually reviewed original PDFs; Courier 180/458, next May 18 p4. Source S-130, evidence E-116; 1916 IN PROGRESS.
+
+## 1916 monthly review checkpoint
+
+- [First monthly Courier issues, June–December: findings, 58-page ledger and remaining issues](evidence/source-captures/1916-courier-first-monthly-june-december.md)
+- [Schilling and Pruden optometry practices](businesses/schilling-pruden-optometry.md)
+
+Courier 238/458 reviewed; year IN PROGRESS. Source S-133, evidence E-119.

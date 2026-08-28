@@ -849,3 +849,16 @@ Claims: FamilySearch catalog `1439422` is linked through four direct image ARKs 
 Disposition: **RETRIEVAL GAP / MANUAL CALLOUT `1915-D01`**. Retrieve and visually inspect the complete Oregon City section before using the directory as historical evidence.
 Confidence: Very High for the four indexed ARKs and observed sign-in barrier; none for directory contents.
 
+## E-119 - 1916 Courier first monthly issues June-December visual review
+Type: Primary newspaper visual review; source **S-133**.
+Record: `evidence/source-captures/1916-courier-first-monthly-june-december.md`.
+Claims:
+- All 58 scans of seven first-monthly issues visually reviewed; cumulative Courier 238/458, all newspapers 238/884; 220 Courier pages remain across 26 issue dates.
+- June 1 pp3/5 announce Andresen store rearrangements; p8 announces Schilling at 612 Main. These are prospective moves, not proof of same-day completion.
+- July 6 p7 explicitly reports Electric Store and power offices moved one door north to Andresen Building 619 Main, despite a retained Beaver 617 footer.
+- Holman-alone Fifth/Main ads verified by August 3; April 6 sale-of-interest report remains controlling, with no exact target number.
+- Scripture & May 108 Fifth verified September 7 p4, October 5 p6, November 2 p7 and December 7 p3; no bridge to ledger 110 or May & Washburn inferred.
+- October 5 p5 explicitly names Pruden at 612 Main as successor to Wm. A. Schilling; repeated November 2 p7 and December 7 p5. Cruden identity reading superseded; December 14 unreviewed.
+- August 3 p8 postpones proposed approximately $1,000,000 second Hawley unit on east Main from Third to alley between Fourth/Fifth; not completed construction or target parcel proof.
+- Dated neighboring addresses confirmed; no new exact 503/505 occupant or target demolition/rebuild established; no absence inference.
+Confidence: Very High for readable printed wording; advertised succession is not a deed, exact transaction day or target parcel assignment.

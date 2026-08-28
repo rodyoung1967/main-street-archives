@@ -821,3 +821,68 @@ All 75 original PDFs committed and VISUALLY VERIFIED; normalized filenames prese
 | IMG-0551 | `newspapers/oregon-city-courier/1916-pages-106-180/1916-05-18-page-01.pdf` | 1916-05-18 / seq1 / printed1 |
 | IMG-0552 | `newspapers/oregon-city-courier/1916-pages-106-180/1916-05-18-page-02.pdf` | 1916-05-18 / seq2 / printed2 |
 | IMG-0553 | `newspapers/oregon-city-courier/1916-pages-106-180/1916-05-18-page-03.pdf` | 1916-05-18 / seq3 / printed3 |
+
+## 1916 first monthly Courier issues — S-133 / E-119
+
+58 unchanged original page PDFs, retrieved and visually reviewed 28 August 2026. Original `seq-N.pdf` filenames, exact URLs, SHA-256 hashes, printed dates/pages and page notes are in `newspapers/oregon-city-courier/1916-first-monthly-june-december/manifest.json`. No image transformation was committed.
+
+| Media ID | Repository file | Date / archive sequence / printed page |
+| --- | --- | --- |
+| IMG-0554 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-01.pdf` | 1916-06-01 / seq1 / printed1 |
+| IMG-0555 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-02.pdf` | 1916-06-01 / seq2 / printed2 |
+| IMG-0556 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-03.pdf` | 1916-06-01 / seq3 / printed3 |
+| IMG-0557 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-04.pdf` | 1916-06-01 / seq4 / printed4 |
+| IMG-0558 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-05.pdf` | 1916-06-01 / seq5 / printed5 |
+| IMG-0559 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-06.pdf` | 1916-06-01 / seq6 / printed6 |
+| IMG-0560 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-07.pdf` | 1916-06-01 / seq7 / printed7 |
+| IMG-0561 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-06-01-page-08.pdf` | 1916-06-01 / seq8 / printed8 |
+| IMG-0562 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-01.pdf` | 1916-07-06 / seq1 / printed1 |
+| IMG-0563 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-02.pdf` | 1916-07-06 / seq2 / printed2 |
+| IMG-0564 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-03.pdf` | 1916-07-06 / seq3 / printed3 |
+| IMG-0565 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-04.pdf` | 1916-07-06 / seq4 / printed4 |
+| IMG-0566 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-05.pdf` | 1916-07-06 / seq5 / printed5 |
+| IMG-0567 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-06.pdf` | 1916-07-06 / seq6 / printed6 |
+| IMG-0568 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-07.pdf` | 1916-07-06 / seq7 / printed7 |
+| IMG-0569 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-07-06-page-08.pdf` | 1916-07-06 / seq8 / printed8 |
+| IMG-0570 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-01.pdf` | 1916-08-03 / seq1 / printed1 |
+| IMG-0571 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-02.pdf` | 1916-08-03 / seq2 / printed2 |
+| IMG-0572 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-03.pdf` | 1916-08-03 / seq3 / printed3 |
+| IMG-0573 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-04.pdf` | 1916-08-03 / seq4 / printed4 |
+| IMG-0574 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-05.pdf` | 1916-08-03 / seq5 / printed5 |
+| IMG-0575 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-06.pdf` | 1916-08-03 / seq6 / printed6 |
+| IMG-0576 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-07.pdf` | 1916-08-03 / seq7 / printed7 |
+| IMG-0577 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-08-03-page-08.pdf` | 1916-08-03 / seq8 / printed8 |
+| IMG-0578 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-01.pdf` | 1916-09-07 / seq1 / printed1 |
+| IMG-0579 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-02.pdf` | 1916-09-07 / seq2 / printed2 |
+| IMG-0580 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-03.pdf` | 1916-09-07 / seq3 / printed3 |
+| IMG-0581 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-04.pdf` | 1916-09-07 / seq4 / printed4 |
+| IMG-0582 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-05.pdf` | 1916-09-07 / seq5 / printed5 |
+| IMG-0583 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-06.pdf` | 1916-09-07 / seq6 / printed6 |
+| IMG-0584 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-07.pdf` | 1916-09-07 / seq7 / printed7 |
+| IMG-0585 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-09-07-page-08.pdf` | 1916-09-07 / seq8 / printed8 |
+| IMG-0586 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-01.pdf` | 1916-10-05 / seq1 / printed1 |
+| IMG-0587 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-02.pdf` | 1916-10-05 / seq2 / printed2 |
+| IMG-0588 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-03.pdf` | 1916-10-05 / seq3 / printed3 |
+| IMG-0589 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-04.pdf` | 1916-10-05 / seq4 / printed4 |
+| IMG-0590 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-05.pdf` | 1916-10-05 / seq5 / printed5 |
+| IMG-0591 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-06.pdf` | 1916-10-05 / seq6 / printed6 |
+| IMG-0592 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-07.pdf` | 1916-10-05 / seq7 / printed7 |
+| IMG-0593 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-10-05-page-08.pdf` | 1916-10-05 / seq8 / printed8 |
+| IMG-0594 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-01.pdf` | 1916-11-02 / seq1 / printed1 |
+| IMG-0595 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-02.pdf` | 1916-11-02 / seq2 / printed2 |
+| IMG-0596 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-03.pdf` | 1916-11-02 / seq3 / printed3 |
+| IMG-0597 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-04.pdf` | 1916-11-02 / seq4 / printed4 |
+| IMG-0598 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-05.pdf` | 1916-11-02 / seq5 / printed5 |
+| IMG-0599 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-06.pdf` | 1916-11-02 / seq6 / printed6 |
+| IMG-0600 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-07.pdf` | 1916-11-02 / seq7 / printed7 |
+| IMG-0601 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-08.pdf` | 1916-11-02 / seq8 / printed8 |
+| IMG-0602 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-09.pdf` | 1916-11-02 / seq9 / printed9 |
+| IMG-0603 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-11-02-page-10.pdf` | 1916-11-02 / seq10 / printed10 |
+| IMG-0604 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-01.pdf` | 1916-12-07 / seq1 / printed1 |
+| IMG-0605 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-02.pdf` | 1916-12-07 / seq2 / printed2 |
+| IMG-0606 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-03.pdf` | 1916-12-07 / seq3 / printed3 |
+| IMG-0607 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-04.pdf` | 1916-12-07 / seq4 / printed4 |
+| IMG-0608 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-05.pdf` | 1916-12-07 / seq5 / printed5 |
+| IMG-0609 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-06.pdf` | 1916-12-07 / seq6 / printed6 |
+| IMG-0610 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-07.pdf` | 1916-12-07 / seq7 / printed7 |
+| IMG-0611 | `newspapers/oregon-city-courier/1916-first-monthly-june-december/1916-12-07-page-08.pdf` | 1916-12-07 / seq8 / printed8 |

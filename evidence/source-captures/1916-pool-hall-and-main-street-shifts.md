@@ -85,3 +85,7 @@ The 1916 target block remains unresolved at 503 and 505, but this pass removes o
 ## 28 August verification — earlier May 18 permission
 
 **E-116/S-130**, [batch](1916-courier-pages-106-180.md), visually verifies **May 18 p1**: special three-month permission to move Raasch & Lamb from the Main Street room into the basement of the **same Andresen Building**, plus an instruction to prepare a charter amendment. Neither completed move nor enacted amendment is established. No street number is printed. **April 20 p10** and **May 4 p8** business-panel ads are also now visually verified; their pool/laundry ads are unnumbered. June and later leads above retain their original review limits. May 4 p1 Hedrick license and March 30 p8 Cox complaint give no exact address and are separate businesses.
+
+## June/July original scans now verified — E-119/S-133
+
+June 1 pp3/5/8 confirms the announced Andresen rearrangement and Schilling move; planned/council-authorized moves are not all proven completed that day. July 6 p7 explicitly reports Electric Store/power offices now at **619 Main, Andresen Building**, one door north, while retaining an apparently stale 617 footer. This does not number Raasch & Lamb or connect it to 503/505. The earlier June 22 lead remains at its prior review level. [Full wording limits and originals](1916-courier-first-monthly-june-december.md).

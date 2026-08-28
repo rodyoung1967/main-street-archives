@@ -144,3 +144,15 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 | IDs | Connected records | Scope |
 | --- | --- | --- |
 | S-132 / E-118 / RL-044 | B-001; B-002; B-003; B-005; manual callout 1915-D01 | FamilySearch catalog 1439422 and four image ARKs identified; sign-in barrier observed. No directory page reviewed and no occupant, vacancy or absence claim. |
+
+## 1916 first monthly Courier issues
+
+| IDs | Connected records | Scope |
+| --- | --- | --- |
+| S-133; IMG-0554–IMG-0611 | E-119; `newspapers/oregon-city-courier/1916-first-monthly-june-december/` | 58 unchanged originals, seven complete monthly issues, hashes/page ledger. |
+| E-119 | B-001/B-002/B-005; E-116/E-117 | Target/Fifth context and coverage; no new 503/505 occupant or ledger-to-street-number merger. |
+| P-052; BUS-037 | P-053; BUS-038; E-119/S-133 | Schilling move announcement and Pruden advertised succession; transaction details unresolved. |
+| BUS-039 | E-119/S-133; E-117 comparison only | Scripture & May 108 Fifth by September 7; no automatic ledger 110 or May & Washburn bridge. |
+| BUS-040; BUS-041; BUS-042; BUS-043 | BUS-031; BUS-036; E-119/S-133 | Andresen rearrangement announced June 1; Electric Store completed-move wording July 6. |
+| P-054; BUS-044 | E-119/S-133 | Proposed second Hawley unit postponed; not target construction proof. |
+| P-050; P-051; BUS-035 | E-116; E-119/S-133 | Joint ad July 6, Holman-alone by August 3; April sale report remains controlling. |

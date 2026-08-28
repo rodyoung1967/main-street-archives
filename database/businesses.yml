@@ -102,20 +102,24 @@ businesses:
   - id: BUS-007
     name: Harding Drug Store
     address: 511 Main (1915); later 507/Harding-block context
-    notes: Geo. A. Harding's 1915 directory address is 511 Main (E-107); do not backdate later 507 or consolidated-building labels. Associated with the drug store gutted in the 1 September 1967 fire (E-045), but continuous operation, exact historic footprint and address-change chronology remain open.
+    notes: Geo. A. Harding's 1915 directory address is 511 Main (E-107); do not backdate later 507 or consolidated-building
+      labels. Associated with the drug store gutted in the 1 September 1967 fire (E-045), but continuous operation,
+      exact historic footprint and address-change chronology remain open.
     related_buildings:
-      - B-003
+    - B-003
     related_people:
-      - P-001
+    - P-001
     related_evidence:
-      - E-116
-      - E-045
-      - E-107
-      - E-109
+    - E-116
+    - E-045
+    - E-107
+    - E-109
+    - E-119
     related_sources:
-      - S-130
-      - S-120
-      - S-121
+    - S-130
+    - S-120
+    - S-121
+    - S-133
 
   - id: BUS-008
     name: Tony's Restaurant
@@ -329,37 +333,80 @@ businesses:
     name: W. W. Bradley furniture
     address: 507 Main
     notes: Dated August-November 1915 directory listings; no continuous occupancy or transfer from G. H. Young inferred.
-    related_people: [P-041]
-    related_buildings: [B-003]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    related_people:
+    - P-041
+    related_buildings:
+    - B-003
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: BUS-027
     name: H. P. Brightbill grocery
     address: 509 Main
-    notes: Dated August-November 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved. B-003 is address-group context, not proof of historic footprint.
-    related_people: [P-042]
-    related_buildings: [B-003]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    notes: Dated August-November 1915 directory listings; identity with Henry Brightbill P-034 remains unresolved.
+      B-003 is address-group context, not proof of historic footprint.
+    related_people:
+    - P-042
+    related_buildings:
+    - B-003
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: BUS-028
     name: Price Bros. clothing store
     address: 527 Main (dated 1915 listings through 25 November)
-    notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey & Price merger, real-estate ownership, closure or rebuilding claim.
-    related_people: [P-043]
-    related_buildings: [B-004]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding
+      week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey &
+      Price merger, real-estate ownership, closure or rebuilding claim.
+    related_people:
+    - P-043
+    related_buildings:
+    - B-004
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
     repository_file: businesses/price-bros.md
 
   - id: BUS-029
     name: F. F. Theroux pianos and sewing machines
     address: 519 Main (dated 1915 listings through 25 November)
-    notes: Number printed in directory; historic building identity and connection to earlier Fifth/Main wording unresolved. No target-storefront or relocation inference.
-    related_people: [P-044]
-    related_evidence: [E-107, E-109, E-116]
-    related_sources: [S-120, S-121, S-130]
+    notes: Number printed in directory; historic building identity and connection to earlier Fifth/Main wording unresolved.
+      No target-storefront or relocation inference.
+    related_people:
+    - P-044
+    related_evidence:
+    - E-107
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-120
+    - S-121
+    - S-130
+    - S-133
 
   - id: BUS-030
     name: Mass's Hotel and Restaurant
@@ -373,9 +420,18 @@ businesses:
   - id: BUS-031
     name: Portland Railway Light & Power Co. Electric Store
     address: 617 Main Street, Beaver Building (25 November 1915)
-    notes: November 25 p 2 prints company, building and number. Earlier October/November Electric Store ads name Beaver/Main without number. No move date or attribution of other Beaver Building tenants to 617.
-    related_evidence: [E-109, E-116]
-    related_sources: [S-121, S-130]
+    notes: November 25 p 2 prints company, building and number. Earlier October/November Electric Store ads name Beaver/Main
+      without number. No move date or attribution of other Beaver Building tenants to 617. July 6 1916 p7 explicitly
+      reports completed move one door north to Andresen 619 despite retained Beaver 617 footer; later selected ads
+      repeat 619.
+    related_evidence:
+    - E-109
+    - E-116
+    - E-119
+    related_sources:
+    - S-121
+    - S-130
+    - S-133
     repository_file: businesses/electric-store.md
 
   - id: BUS-032
@@ -411,21 +467,107 @@ businesses:
   - id: BUS-035
     name: Holman & Randall undertaking establishment
     address: Fifth and Main; exact number unresolved
-    notes: May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day and real-estate ownership unknown.
+    notes: May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day
+      and real-estate ownership unknown. Joint copy still July 6; Holman-alone copy by August 3, not a new sale date.
     related_people:
-      - P-050
-      - P-051
+    - P-050
+    - P-051
     related_evidence:
-      - E-116
+    - E-116
+    - E-119
     related_sources:
-      - S-130
+    - S-130
+    - S-133
 
   - id: BUS-036
     name: Raasch & Lamb pool and billiard hall
     address: Andresen Building on Main; exact number unresolved
-    notes: May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned to 503/505.
+    notes: May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned
+      to 503/505. June 1 repeats planned basement rearrangement; exact completion day and number unresolved.
     related_people: []
     related_evidence:
-      - E-116
+    - E-116
+    - E-119
     related_sources:
-      - S-130
+    - S-130
+    - S-133
+
+  - id: BUS-037
+    name: Wm. A. Schilling optometry practice
+    address: 617 Main; announced move to 612 Main
+    notes: June 1 p8 future-tense move; Pruden advertises succession by October 5. Exact move and transfer days unresolved.
+    related_people:
+    - P-052
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-038
+    name: Pruden optometry practice
+    address: 612 Main
+    notes: October 5 p5 typeset surname and successor-to-Schilling wording; November 2 p7 and December 7 p5 repeat.
+      Given name and transaction terms unknown.
+    related_people:
+    - P-053
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-039
+    name: Scripture & May
+    address: 108 Fifth
+    notes: Exact address verified September 7 p4 and selected October/November/December ads. Ledger 110 tenant reading
+      and May & Washburn bridge unresolved.
+    related_people: []
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-040
+    name: Jones Drug Company
+    address: Andresen Building on Main; number not supplied
+    notes: June 1 pp3/5 announce moving two doors south into PRL&P/Schilling room; not same-day completion proof.
+    related_people: []
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-041
+    name: Burmeister & Andresen jewelers
+    address: Suspension-bridge corner; Andresen Building
+    notes: June 1 p5 prospective expansion into Jones room and approximately $5,000 rearrangement; not completed construction
+      or deed.
+    related_people: []
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-042
+    name: Greaves & McNeil
+    address: Andresen basement; proposed Barclay Building offices
+    notes: June 1 p5 future-tense relocation; number and actual move date unresolved.
+    related_people: []
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-043
+    name: E. P. Elliott & Sons
+    address: Andresen basement; replacement sought
+    notes: June 1 p5 says seeking new home amid rearrangement; destination and completed move unknown.
+    related_people: []
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133
+  - id: BUS-044
+    name: Hawley Pulp & Paper Company
+    address: Mill on Main; proposed second unit separately described
+    notes: August 3 p8 postpones second approximately $1,000,000 unit on east Main, Third to alley between Fourth/Fifth;
+      not completed construction.
+    related_people:
+    - P-054
+    related_evidence:
+    - E-119
+    related_sources:
+    - S-133

@@ -876,3 +876,10 @@ Type/status: Primary directory identified; **RETRIEVAL GAP / MANUAL CALLOUT**. T
 Evidence: `E-118`; lead `RL-044`; manual callout `1915-D01`.
 Notes: Catalog/index discovery proves neither an occupant nor absence. Search 501–511 Main, named operators and numbered Fifth Street only after the actual Oregon City pages are retrieved.
 
+## S-133 - Oregon City Courier 1916 first monthly issues June-December
+Type: Primary newspaper scans and full selected-issue visual review.
+Dates: June 1, July 6, August 3, September 7, October 5, November 2, December 7, 1916; 58 pages.
+Repository: `newspapers/oregon-city-courier/1916-first-monthly-june-december/`; unchanged PDFs, exact URLs, SHA-256 hashes, page notes, 52 issue JSONs and calendar.
+Media: IMG-0554 through IMG-0611.
+Evidence: E-119; detailed record `evidence/source-captures/1916-courier-first-monthly-june-december.md`.
+Scope: all seven selected issues visually verified; intervening issues not certified by this sample. Annual status IN PROGRESS.

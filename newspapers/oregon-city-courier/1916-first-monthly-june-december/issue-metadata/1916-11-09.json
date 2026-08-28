@@ -1,0 +1,49 @@
+{
+  "url": "http://https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1.json",
+  "date_issued": "1916-11-09",
+  "volume": "34th Year",
+  "number": "34",
+  "edition": 1,
+  "title": {
+    "name": "Oregon City courier.",
+    "url": "http://https://oregonnews.uoregon.edu/lccn/sn00063698.json"
+  },
+  "batch": {
+    "name": "batch_oregoncitypubliclibrary_dora_ver01",
+    "url": "http://https://oregonnews.uoregon.edu/batches/batch_oregoncitypubliclibrary_dora_ver01.json"
+  },
+  "pages": [
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-1.json",
+      "sequence": 1
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-2.json",
+      "sequence": 2
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-3.json",
+      "sequence": 3
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-4.json",
+      "sequence": 4
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-5.json",
+      "sequence": 5
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-6.json",
+      "sequence": 6
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-7.json",
+      "sequence": 7
+    },
+    {
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-09/ed-1/seq-8.json",
+      "sequence": 8
+    }
+  ]
+}

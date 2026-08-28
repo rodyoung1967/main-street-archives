@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **180/458 Courier pages**, through **May 18 p3**. [Pages 106–180](1916-courier-pages-106-180.md), E-116/S-130, were fully inspected on 28 August. Later targeted notes below do not certify whole issues. Next **May 18 p4**. The April 6 Randall sale is now visually verified; later joint-name ads are not partnership-ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **238/458 Courier pages**: through May 18 p3 plus June 1, July 6, August 3, September 7, October 5, November 2 and December 7 in full. [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133. Next chronological page **May 18 p4**; 220 Courier pages remain. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 

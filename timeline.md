@@ -261,3 +261,7 @@ Visually reviewed *Morning Enterprise* pages now show Holman at Fifth/Main by Ja
 ## 1916 March–May — additional visually verified business chronology
 
 E-116/S-130, [75-page batch](evidence/source-captures/1916-courier-pages-106-180.md): March 23 gas branch opening at 718 Main; April 6 reported Randall-to-Holman undertaking-interest sale while joint ads persisted; May 18 permission for Raasch & Lamb basement relocation within the Andresen Building. No 501/503/505 mapping or building-ownership transfer follows. Public works and distinct Fifth/Water fire are retained in the page ledger.
+
+## June–December 1916 — selected monthly visual confirmations
+
+E-119/S-133: June 1 announces Andresen store rearrangements and Schilling's proposed 612 move. July 6 explicitly reports Electric Store/power offices at 619, one door north, despite a retained 617 footer. Holman-alone Fifth/Main ads are verified by August 3; the April 6 interest sale remains controlling. Scripture & May 108 Fifth is verified by September 7. October 5 explicitly names Pruden at 612 as Schilling's successor, repeated November 2 and December 7. August 3 postpones the proposed million-dollar Hawley second unit on east Main between Third and the alley between Fourth/Fifth. No exact target occupancy, demolition, parcel or transaction-day inference follows.

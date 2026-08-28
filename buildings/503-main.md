@@ -172,3 +172,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) still shows three
 ## 1916 Courier pages 106–180 checkpoint
 
 E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pages-106-180.md) through May 18 p3 establishes no new numbered occupant for this target. April 6 records Randall selling his undertaking interest to Holman, but the ad gives only Fifth/Main. May 18 authorizes the Raasch & Lamb basement move within the Andresen Building without a street number. Neither is assigned here. Courier 180/458; year IN PROGRESS; no vacancy, demolition or 1922-model conclusion.
+
+## 1916 monthly review coverage — E-119/S-133
+
+Seven complete first-monthly Courier issues June–December add 58 visually inspected pages. No new exact occupant or target-frontage demolition/rebuild is established; this is not vacancy or absence evidence. Nearby 108 Fifth, Andresen 619 and the proposed Hawley mill unit retain their separate location limits. [Findings and remaining issues](../evidence/source-captures/1916-courier-first-monthly-june-december.md).

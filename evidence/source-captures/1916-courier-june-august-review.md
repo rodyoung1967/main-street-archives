@@ -62,3 +62,7 @@ Those are not equivalent conclusions.
 2. Continue September–December 1916 issue-by-issue review.
 3. Continue targeted searches for L. Hylton/successor at 503 and any 505 occupant.
 4. Keep recording OCR address-digit failures when they affect the target block.
+
+## Selected whole issues now visually verified — E-119/S-133
+
+June 1, July 6 and August 3 are now fully reviewed in the [monthly ledger](1916-courier-first-monthly-june-december.md); other dates keep prior limits. June 1 Harding directory number is **511**. July 6 Electric Store move body explicitly gives **619**, despite old 617 footer. Holman-alone Fifth/Main ads are verified **August 3 pp2/7**, advancing the former August 31 anchor; April 6 sale report remains controlling. August 3 p8 postpones the proposed million-dollar second Hawley unit on **east Main, Third to alley between Fourth/Fifth**; not target construction proof.

@@ -46,7 +46,7 @@ This is **very high-confidence evidence for the Fifth-and-Main location from Aug
 
 ### 1916 ownership/advertising transition
 
-A 6 April 1916 *Oregon City Courier* page contains a high-value report that **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. That item is still awaiting final visual verification under the archive standard. Old joint-name Holman & Randall advertisements continued to run afterward, so those ads should not automatically be treated as proof of continuing partnership ownership. By 31 August 1916, the recurring advertisement names **R. L. Holman alone** at Fifth and Main.
+A 6 April 1916 *Oregon City Courier* page contains a high-value report that **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. That item was visually verified in E-116/S-130 on 28 August 2026. Old joint-name Holman & Randall advertisements continued to run afterward, so those ads should not automatically be treated as proof of continuing partnership ownership. By **3 August 1916**, the recurring advertisement names **R. L. Holman alone** at Fifth and Main.
 
 ## Holman & Pace, 1918–1921
 
@@ -98,3 +98,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 ## 1916 Courier pages 106–180 checkpoint
 
 E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pages-106-180.md) through May 18 p3 establishes no new numbered occupant for this target. April 6 records Randall selling his undertaking interest to Holman, but the ad gives only Fifth/Main. May 18 authorizes the Raasch & Lamb basement move within the Andresen Building without a street number. Neither is assigned here. Courier 180/458; year IN PROGRESS; no vacancy, demolition or 1922-model conclusion.
+
+## 1916 monthly scan review — E-119/S-133
+
+Joint Holman & Randall copy persists July 6; Holman-alone Fifth/Main copy is verified August 3 pp2/7 and later selected months. This advances the former August 31 ad anchor, not the already reported April 6 interest sale. No printed 501 address or real-estate transfer is established. [Review](../evidence/source-captures/1916-courier-first-monthly-june-december.md).

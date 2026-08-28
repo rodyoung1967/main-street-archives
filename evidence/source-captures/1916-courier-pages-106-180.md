@@ -145,3 +145,7 @@ All entries below are **VISUALLY VERIFIED**; printed page and issue date match t
 | 178 | 1916-05-18 / 1 | Council granted special three-month permit to remove Raasch and Lamb pool hall from Main Street room in Andresen Building to basement of same building, with proposed charter amendment; permission, not completed move. Main Seventeenth/Eighteenth grades passed second reading, Tenth sewer postponed. No target street number supplied. |
 | 179 | 1916-05-18 / 2 | Directory repeats Bradley 507, Brightbill 509, Harding 511, Theroux 519, Price 527, Wilkinson/Schooley 612 Main. County expenditure lists and rural reports reviewed; Scripture/May payment not street-address evidence. No direct 503/505 item. |
 | 180 | 1916-05-18 / 3 | Larsen Tenth/Main, joint undertaking advertisement; general fashion, irrigation, wire-theft and West Linn road reports. Last selected page; issue pages 4–8 remain outside this batch. No direct 503/505 item. |
+
+## Subsequent checkpoint
+
+The totals above describe this chronological batch at completion. The later [monthly review](1916-courier-first-monthly-june-december.md), E-119/S-133, adds 58 non-overlapping pages and advances Courier to **238/458**, leaving 220. Next chronological page remains May 18 p4.

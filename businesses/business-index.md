@@ -53,3 +53,16 @@ E-109/S-121 adds five dated directory confirmations for BUS-026 at 507, BUS-027 
 ## 1916 dated corroboration
 
 E-116/S-130 verifies BUS-007 511, BUS-026 507, BUS-027 509, BUS-028 527, BUS-029 519 and BUS-031 617 on specified March–May scan dates. See [batch](../evidence/source-captures/1916-courier-pages-106-180.md); no uninterrupted occupancy or ownership transfer inferred.
+
+## 1916 monthly review — newly indexed businesses
+
+| ID | Business | Address | Notes |
+| --- | --- | --- | --- |
+| BUS-037 | Wm. A. Schilling optometry practice | 617 Main; announced move to 612 Main | June 1 p8 future-tense move; Pruden advertises succession by October 5. Exact move and transfer days unresolved. E-119/S-133. |
+| BUS-038 | Pruden optometry practice | 612 Main | October 5 p5 typeset surname and successor-to-Schilling wording; November 2 p7 and December 7 p5 repeat. Given name and transaction terms unknown. E-119/S-133. |
+| BUS-039 | Scripture & May | 108 Fifth | Exact address verified September 7 p4 and selected October/November/December ads. Ledger 110 tenant reading and May & Washburn bridge unresolved. E-119/S-133. |
+| BUS-040 | Jones Drug Company | Andresen Building on Main; number not supplied | June 1 pp3/5 announce moving two doors south into PRL&P/Schilling room; not same-day completion proof. E-119/S-133. |
+| BUS-041 | Burmeister & Andresen jewelers | Suspension-bridge corner; Andresen Building | June 1 p5 prospective expansion into Jones room and approximately $5,000 rearrangement; not completed construction or deed. E-119/S-133. |
+| BUS-042 | Greaves & McNeil | Andresen basement; proposed Barclay Building offices | June 1 p5 future-tense relocation; number and actual move date unresolved. E-119/S-133. |
+| BUS-043 | E. P. Elliott & Sons | Andresen basement; replacement sought | June 1 p5 says seeking new home amid rearrangement; destination and completed move unknown. E-119/S-133. |
+| BUS-044 | Hawley Pulp & Paper Company | Mill on Main; proposed second unit separately described | August 3 p8 postpones second approximately $1,000,000 unit on east Main, Third to alley between Fourth/Fifth; not completed construction. E-119/S-133. |
