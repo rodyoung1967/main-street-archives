@@ -31,7 +31,8 @@ jobs:
             curl --fail --location --retry 3 --retry-delay 1 --connect-timeout 20 --max-time 180 \
               --user-agent "Mozilla/5.0 (main-street-archives research)" -o "$f" "$url"
           }
-          export -f fetch_one out
+          export -f fetch_one
+          export out
           for d in 1915-04-16 1915-04-23 1915-04-30 1915-05-07 1915-05-14; do
             for n in $(seq 1 8); do
               bash -c 'fetch_one "$0" "$1"' "$d" "$n" &
