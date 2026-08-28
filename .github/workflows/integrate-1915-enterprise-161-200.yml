@@ -1,0 +1,50 @@
+name: Integrate 1915 Enterprise pages 161-200
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-1915-enterprise-161-200.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Integrate reviewed pages
+        run: python3 scripts/integrate_1915_enterprise_161_200.py
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newspapers/oregon-city-enterprise/1915-pages-161-200 \
+            evidence/source-captures/1915-enterprise-pages-161-200.md \
+            evidence/source-register.md database/sources.yml \
+            evidence/evidence-register.md database/evidence.yml \
+            media/photo-metadata-register.md registers/year-status.md \
+            evidence/source-captures/1915-page-review-checklist.md \
+            registers/research-log.md \
+            evidence/source-captures/1915-main-street-repaving.md \
+            evidence/source-captures/1915-1916-cox-pool-hall-lead.md \
+            evidence/source-captures/1915-frank-cox-main-street-billiard-directory-visual.md \
+            evidence/E-054-holman-fifth-main-1915-1917.md \
+            registers/address-register.md \
+            evidence/source-captures/1915-enterprise-page-review.md
+          git commit -m "Integrate 1915 Enterprise visual review through June 18"
+          git pull --rebase origin main
+          git push origin HEAD:main
