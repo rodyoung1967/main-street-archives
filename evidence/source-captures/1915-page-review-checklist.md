@@ -1,6 +1,16 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 160/428 images; other-source work pending**
+Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 200/428 images; other-source work pending**
+
+## Latest Enterprise pause checkpoint - chronological page 200 / 18 June 1915
+
+- **200/428 Enterprise page images visually inspected = 50/107 four-page scan sheets.** Five new complete issues, May 21 through June 18. Source `S-128`, evidence `E-114`, media `IMG-0414`-`IMG-0453`.
+- Saved originals: `newspapers/oregon-city-enterprise/1915-pages-161-200/`; [detailed visual log](1915-enterprise-pages-161-200.md).
+- **Exact pause:** page 200 = June 18 p8. **Next:** page 201 = June 25 p1. Remaining Enterprise: **228 images / 57 sheets**.
+- Major correction: June 4 p1 directly locates Cox's raid-period poolhall **between Seventh and Eighth on Main**, excluding 503 for that episode and superseding the prior directional 500-block theory; exact number remains unresolved.
+- June 4 p3 advances the Main Street improvement/cluster-light chronology. W. S. Eddy/Fashion Stable continues between Main and Water on Fifth; Holman & Randall continuity appears May 21 and June 11.
+- No exact 503/505 or new numbered Fifth occupant identified. Coverage only; no vacancy/non-use inference.
+- Courier remains 123/123; M01-M04, water-ledger/other-source review and year closeout remain open. **1915 is not ONLINE COMPLETE.**
 
 ## Latest Enterprise pause checkpoint - chronological page 160 / 14 May 1915
 

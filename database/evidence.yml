@@ -1689,3 +1689,20 @@ evidence:
     related_people: [P-046]
     related_businesses: [BUS-012]
     repository_file: evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md
+
+  - id: E-114
+    name: 1915 Enterprise pages 161-200 visual review
+    type: Primary newspaper visual review of 40 page images
+    claims:
+      - All 40 page images from May 21 through June 18 were visually inspected.
+      - June 4 p1 directly places Cox's poolhall on Main Street between Seventh and Eighth, excluding 503 Main for that raid-period hall while leaving the exact number unresolved.
+      - June 11 reports a Ford automobile damaging showcases at Cox's poolhall on Main Street, corroborating continued operation.
+      - June 4 p3 records second reading and unanimous passage of the Main Street improvement ordinance, instructions to advertise for bids, and a cluster-light proposal by T. L. Charman representing Main Street property owners.
+      - W. S. Eddy remains at Fashion Stable on Fifth between Main and Water, and Holman & Randall business-name continuity appears May 21 and June 11; none of these items prints a target street number.
+      - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
+    confidence: Very High for visually verified printed location and public-works wording; exact Cox number and target occupancy unresolved.
+    related_sources: [S-128]
+    related_evidence: [E-054]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: evidence/source-captures/1915-enterprise-pages-161-200.md
+

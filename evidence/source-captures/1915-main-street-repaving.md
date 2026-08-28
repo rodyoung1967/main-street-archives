@@ -77,6 +77,15 @@ The council cleared the El Oso ordinance and moved toward an asphaltic-concrete 
 
 This sequence strengthens the administrative/public-realm chronology. It does **not** establish demolition, relocation or alteration of a 501/503/505 storefront.
 
+## 4 June 1915 - Enterprise improvement ordinance and cluster-light proposal
+
+**Morning Enterprise, 4 June 1915, p. 3; visually verified under `S-128` / `E-114`.**
+
+The council report says the ordinance calling for improvement of Main Street was read the second time and passed unanimously, and the recorder was instructed to advertise for bids. The same report says **T. L. Charman, representing Main Street property owners**, presented a proposition for **cluster lights on Main Street**.
+
+This is direct administrative/public-realm evidence. It strengthens the paving and streetscape chronology but does **not** establish demolition, relocation, ownership transfer, or alteration of a 501/503/505 storefront.
+
+
 ## 24 June 1915 — contract awarded
 
 **Oregon City Courier, 24 June 1915, p. 1**

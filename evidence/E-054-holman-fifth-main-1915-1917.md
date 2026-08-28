@@ -28,3 +28,8 @@ E-109/S-121 visually verifies Holman/Randall Fifth/Main advertisements on Octobe
 ## 7 May 1915 partnership formation
 
 The visually verified *Morning Enterprise* report on 7 May p5 says **T. P. Randall and R. L. Holman would become partners** in the undertaking establishment then conducted by Holman **on Main Street near Fifth**, and that the firm would be known as **Holman & Randall** (`S-124` / `E-112`). This supplies a formation milestone before the 17 June Fifth-and-Main advertisement. It does not print 501 Main or a numbered Fifth address.
+
+
+## May-June 1915 Enterprise continuity
+
+`S-128` / `E-114` visually verifies a **21 May 1915** notice referring to the undertaking establishment of **Holman & Randall** and an **11 June 1915** notice referring to the **Holman & Randall undertaking parlors**. These extend the business-name chronology between the 7 May partnership-formation report and the 17 June Courier Fifth/Main advertisement. The Enterprise notices here do not print `501 Main` or any numbered Fifth Street address; the existing mapping caution remains unchanged.

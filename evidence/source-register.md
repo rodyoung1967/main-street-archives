@@ -833,3 +833,12 @@ URL: https://npgallery.nps.gov/GetAsset/b463e75a-f84f-4c46-b1e2-1859a13aa4c2
 Repository: `records/historic-resource/1990-medford-pop-gates-house-nomination.pdf`; complete 37-page file preserved.
 Media: `IMG-0413`; evidence `E-113`.
 Notes: Section 8 printed page 1B / PDF page 15 identifies Charles Edwin “Pop” Gates, wife Leah A. Farmsley, 1912 Medford move and automobile business with brother W. A. “Bill” Gates. No connection to the 1922 Oregon City purchaser proved. Other PDF pages not reviewed in this task.
+
+
+## S-128 - Morning Enterprise 1915 visual batch, chronological pages 161-200
+Type: Primary newspaper scans / exhaustive visual review.  
+Dates: 21 May-18 June 1915; five complete issues, 40 page images.  
+Repository: `newspapers/oregon-city-enterprise/1915-pages-161-200/`; exact URLs and SHA-256 hashes in `manifest.json`.  
+Media: `IMG-0414` through `IMG-0453`.  
+Evidence: `E-114`; detailed review `evidence/source-captures/1915-enterprise-pages-161-200.md`.  
+Notes: All 40 scans visually inspected. June 4 p1 directly places Cox's poolhall on Main between Seventh and Eighth, excluding 503 for that raid-period hall; June 4 p3 advances the Main Street improvement/cluster-light chronology; W. S. Eddy/Fashion Stable and Holman & Randall continuity are retained without invented numbers. No exact 503/505 or new numbered Fifth occupant; coverage only.

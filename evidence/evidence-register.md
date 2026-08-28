@@ -807,3 +807,10 @@ Record: `evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md`.
 Claims: The 1916 Lane County News directly names Gilbert Miller of the Wolf & Miller Harness shop in Springfield. Original 1920 directory images verify separate Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf listings; none is identified as the 1922 buyer. Inspected Gates entries do not establish that buyer's full name. The 1990 nomination identifies the Medford candidate as Charles Edwin “Pop” Gates, with wife Leah A. Farmsley, but supplies no bridge to the Oregon City purchase. The actual 1918 C. E. Miller/Gilbert Miller source discrepancy remains intact.
 Confidence: Very High for the readable 1916 association and directory wording; visually verified but secondary for the Gates biography; unresolved for buyer identities, the Wolf partner, later 503 family ownership, and any 1922 frontage mapping. No annual completion change.
 Related: `P-046`, `BUS-012`, `T-024`; candidate comparisons only for `P-035`, `P-036`; `IMG-0409`–`IMG-0413`.
+
+
+## E-114 - 1915 Enterprise pages 161-200 visual review
+Type: Primary newspaper visual review; source `S-128`.  
+Record: `evidence/source-captures/1915-enterprise-pages-161-200.md`.  
+Claims: All 40 page images from 21 May through 18 June were visually inspected. June 4 p1 directly places Cox's poolhall on Main Street between Seventh and Eighth, superseding the earlier directional theory that 503 was plausible for the raid-period hall; the exact number remains unresolved. June 11 corroborates Cox's Main Street poolhall. June 4 p3 records second reading/unanimous passage of the Main Street improvement ordinance, bid advertising and a cluster-light proposal from T. L. Charman representing Main Street property owners. W. S. Eddy/Fashion Stable continues on Fifth between Main and Water; Holman & Randall business-name continuity appears May 21 and June 11. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
+Confidence: Very High for visually readable location and public-works wording; exact Cox number and target occupancy unresolved.

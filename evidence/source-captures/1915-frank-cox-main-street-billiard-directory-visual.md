@@ -34,6 +34,12 @@ However, the 1915 listing still **does not identify the street number**. It does
 
 The same directory column contains OCR-prone addresses for other Oregon City merchants. Use the visually reviewed Cox name/business/location claim, but do not infer a numbered address from neighboring entries or OCR layout.
 
+## June 4 Enterprise segment-level location
+
+The exhaustive *Morning Enterprise* review now adds a stronger location constraint. The **4 June 1915 p1** raid report, visually verified under `S-128` / `E-114`, places **Cox's poolhall on Main Street between Seventh and Eighth streets**. A **11 June** report again places Cox's poolhall on Main Street.
+
+Read with the independent February directory listing naming **Frank D. Cox — Main St** and the June Courier raid/court sequence, this establishes that the raid-period Cox hall was in the Seventh-Eighth segment of Main. It **rules out 503 Main for that episode** while leaving the exact numbered premises unresolved.
+
 ## Research target
 
-Locate another edition of this merchant directory, a local city directory, advertisement, license/bond record, or council entry that expands **Frank D. Cox — Main St** to a numbered premises.
+Locate a directory, advertisement, license/bond record, council entry, Sanborn/address key, or other source that converts the now-established **Main Street between Seventh and Eighth** segment into Cox's exact numbered premises. Do not reopen 503 for the June 1915 raid-period hall without contrary direct evidence.

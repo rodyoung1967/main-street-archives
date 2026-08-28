@@ -17,6 +17,7 @@
 | 526 Main Street, Oregon City, Oregon (historic listing) | Unassigned | `businesses/eddys-dependable-store.md` | BUS-032 | E-109 | Eddy's Dependable Store, November 25, 1915 p 6. Proprietor/1910 Eddy continuity unresolved; not 527 or B-004. |
 | 617 Main Street, Oregon City, Oregon (historic listing) | Unassigned | `businesses/electric-store.md` | BUS-031 | E-109 | Portland Railway Light & Power Co., Beaver Building, November 25, 1915 p 2. No move date, title or all-tenant numbering inference. |
 | Main near Seventh (context; unnumbered premises) | Unassigned | `businesses/mass-hotel-restaurant.md` | BUS-030 | E-109; S-120/S-121 | Mass's Hotel and Restaurant in former Brunswick quarters; opening confirmed October 30, 1915. Exact number and property interest unresolved. |
+| Main Street between Seventh and Eighth (1915 Cox poolhall context) | Unassigned; exact number unresolved | `evidence/source-captures/1915-1916-cox-pool-hall-lead.md` | Cox poolhall / Frank D. Cox context | E-114 | June 4, 1915 Morning Enterprise directly places Cox's raid-period poolhall on Main between Seventh and Eighth. This positive location excludes 503 Main for that episode; exact number remains unresolved. |
 
 ## Dated update through December 30, 1915
 
@@ -30,6 +31,8 @@
 
 
 **1915 relative-location anchor:** `S-124` / `E-112` visually verifies **W. S. Eddy at the Fashion Stable, Fifth Street between Main and Water Streets**, with no number printed. Do not assign 102/104/106/108/110 from this wording. The earlier pages-1-120 record transcribes a January notice as A. J. Eddy; preserve that initials discrepancy pending direct recheck rather than merging the identities.
+
+`S-128` / `E-114` extends W. S. Eddy / Fashion Stable's unnumbered **Fifth Street between Main and Water** location through at least **11 June 1915**. No numbered Fifth address is inferred, and the earlier A. J. / W. S. initials discrepancy remains open pending recheck.
 
 ### Fifth Street address-reconstruction goal
 

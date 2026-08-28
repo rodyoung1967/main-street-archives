@@ -4,6 +4,18 @@ Status: **active lead; exact Cox address after 1910 remains unresolved**
 
 This note tracks pool-hall operators relevant to the unresolved 503 Main gap after L. Hylton's documented 1914 cigar/tobacco/soft-drink shop. The evidence establishes **F. D. Cox as a licensed Oregon City pool/billiard operator by October 1912**, substantially earlier than the 1915 court coverage. A separate 1910 source directly places **Asay & Cox, The Pool Hall, at 708 Main**, but the identity of that Cox with Frank D. Cox is not yet proven.
 
+## June 4 Enterprise location correction - raid-period hall is NOT 503
+
+**Morning Enterprise, 4 June 1915, p. 1; visually verified under `S-128` / `E-114`.** The raid report directly identifies **Cox's poolhall on Main Street between Seventh and Eighth streets**.
+
+This positive geographic evidence **supersedes the earlier directional inference below** that movement “down Main street” from the Moose rooms made the Fifth-Sixth / 500 block, including 503, plausible for the raid-period Cox hall. Whatever the exact number, a premises between Seventh and Eighth was **not 503 Main**. The exact numbered address remains unresolved.
+
+The same raid/court sequence is independently tied to **Frank D. Cox** by the February 1915 merchant-directory listing and June Courier reporting. This correction therefore does not depend on a surname-only identity merge.
+
+A 11 June *Enterprise* report independently says a Ford struck **Cox's poolhall on Main street**, corroborating continued operation one week later without supplying a number. The 18 June issue continues the Myers/Cox case.
+
+**Handling rule:** retain the older directional discussion below as a superseded research trail only; do not use it prospectively to argue that Cox occupied 503 in June 1915.
+
 ## Earlier exact-address lead — Asay & Cox at 708 Main, 1910
 
 The **23 September 1910 Oregon City Courier, page 3** business-answer list explicitly gives:

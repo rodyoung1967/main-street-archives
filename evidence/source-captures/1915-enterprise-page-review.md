@@ -2,6 +2,10 @@
 
 Status: **active / incomplete**
 
+## Exhaustive-pass supersession checkpoint - 18 June 1915
+
+The later exhaustive visual audit now reaches **chronological page 200 / 18 June 1915 p8** (`S-128` / `E-114`), with every retrievable page from 1 January through that point visually inspected and preserved. The selected-page notes below remain useful as historical research trail, but they no longer define coverage for dates through 18 June. The next exhaustive page is **25 June p1 / chronological page 201**.
+
 Project rule: 1915 is not complete until every available page of every relevant Oregon City newspaper has been reviewed page-by-page. OCR/index searching is supplemental only. Missing or inaccessible pages are logged as gaps and are not negative evidence.
 
 Title: **Oregon City Enterprise** (`sn00063700`), weekly.
