@@ -27,3 +27,9 @@ The sale is a business-transfer event and does not by itself establish a buildin
 
 **Very High** for the Main Street bakery sale to Wemmo & Haas in December 1912 and for the January near-Post-Office relative location.  
 **Unresolved** for the exact numbered Main Street address and physical premises.
+
+## 28 August 2026 uploaded-page comparison
+
+E-123/S-137 adds Schrader's Bakery on Main in a September 1908 hiring notice (BUS-063); no proprietor or number is printed, and the later sale remains separately dated.
+
+[Full new review](source-captures/1907-1908-surber-justin-main-visual-review.md). The original source findings above remain separately dated.

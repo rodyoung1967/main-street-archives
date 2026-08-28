@@ -156,3 +156,39 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 | BUS-040; BUS-041; BUS-042; BUS-043 | BUS-031; BUS-036; E-119/S-133 | Andresen rearrangement announced June 1; Electric Store completed-move wording July 6. |
 | P-054; BUS-044 | E-119/S-133 | Proposed second Hawley unit postponed; not target construction proof. |
 | P-050; P-051; BUS-035 | E-116; E-119/S-133 | Joint ad July 6, Holman-alone by August 3; April sale report remains controlling. |
+
+## 1907–1908 uploaded Courier visual review
+
+| Source / media | Evidence | Connected records |
+| --- | --- | --- |
+| S-135 / IMG-0708 | E-121, E-123 | B-005; T-025; dated 1907 entities below |
+| S-136 / IMG-0709 | E-122 | P-056 / BUS-046; T-026; no numbered building assignment |
+| S-137 / IMG-0710 | E-121, E-122, E-123 | T-026; intersection-only Surber/Justin; dated 1908 entities below |
+
+| Person | Business | Evidence / source | Building relationship |
+| --- | --- | --- | --- |
+| P-055 — A. J. Surber | BUS-045 | E-121; S-135, S-137 | B-005, October 1907 only; 1908 number not printed |
+| P-056 — Justin & Hitchman | BUS-046 | E-122; S-136, S-137 | No numbered target building assigned |
+| P-057 — Strebig | BUS-047 | E-123; S-135 | No numbered target building assigned |
+| P-058 — Thomas Hartman | BUS-048 | E-123; S-137 | No numbered target building assigned |
+| P-059 — S. Rosenstein | BUS-049 | E-123; S-135 | No numbered target building assigned |
+| P-060 — W. Rambo | BUS-050 | E-123; S-135 | No numbered target building assigned |
+| P-061 — J. Stewart & Son | BUS-051 | E-123; S-135 | No numbered target building assigned |
+| P-062 — John Gohra | BUS-052 | E-123; S-135 | No numbered target building assigned |
+| P-063 — D. M. Klemsen | BUS-053 | E-123; S-135 | No numbered target building assigned |
+| P-064 — Knapp & Nobel | BUS-054 | E-123; S-137 | No numbered target building assigned |
+| P-065 — A. H. Griessen | BUS-055 | E-123; S-135 | No numbered target building assigned |
+| P-066 — Carl G. Hodes | BUS-056 | E-123; S-137 | No numbered target building assigned |
+| P-067 — Astman & Knightly | BUS-057 | E-123; S-137 | No numbered target building assigned |
+| P-068 — L. Buconich | BUS-058 | E-123; S-137 | No numbered target building assigned |
+| P-069 — D. McHenry | BUS-059 | E-123; S-137 | No numbered target building assigned |
+| P-070 — Bennett & Moore | BUS-060 | E-123; S-137 | No numbered target building assigned |
+| P-071 — Gordon E. Hayes | BUS-061 | E-123; S-137 | No numbered target building assigned |
+| P-072 — Straight & Salisbury | BUS-062 | E-123; S-137 | No numbered target building assigned |
+| P-073 — I. Selling | BUS-064 | E-123; S-135 | No numbered target building assigned |
+| P-074 — Albright | BUS-065 | E-123; S-135 | No numbered target building assigned |
+| Proprietor not printed | BUS-063 — Schrader's Bakery | E-123/S-137; E-093 context | No numbered target building assigned |
+
+OQ-032/RL-045 track unresolved identities and premises; OQ-026 retains Schrader address limits. [Full review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).
+
+Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main in 1907; P-064/BUS-054 retains 1908 Knapp & Nobel only. No identity merger.

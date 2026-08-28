@@ -561,3 +561,234 @@ people:
     - E-119
     related_sources:
     - S-133
+
+  - id: P-055
+    name: A. J. Surber
+    role: Retail liquor renewal applicant
+    notes: 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months
+      but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+    related_businesses:
+    - BUS-045
+    related_evidence:
+    - E-121
+    related_sources:
+    - S-135
+    - S-137
+    related_buildings:
+    - B-005
+    repository_file: people/profiles/a-j-surber.md
+  - id: P-056
+    name: Justin & Hitchman
+    role: Liquor-license applicants
+    notes: Six-month application in December 1907; three-month application in September 1908. Separate Surber notice
+      appears in the same 1908 issue. Individual names and relationship to M. Justin in 1910 unresolved.
+    related_businesses:
+    - BUS-046
+    related_evidence:
+    - E-122
+    related_sources:
+    - S-136
+    - S-137
+    repository_file: people/profiles/justin-hitchman.md
+  - id: P-057
+    name: Strebig
+    role: Meat-market advertiser
+    notes: Printed spelling Strebig. Albright old-stand wording supplies a predecessor-location lead, not a deed or
+      precise transfer date. Test separately against 1910 H. W. Streibig/Pioneer Market; do not silently merge spellings/identities.
+    related_businesses:
+    - BUS-047
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+    repository_file: people/profiles/strebig-market.md
+  - id: P-058
+    name: Thomas Hartman
+    role: Liquor-license applicant
+    notes: Three-month application. Visually reads 5th and 6th, not the duplicated 6th in OCR. No 501/503/505 assignment.
+    related_businesses:
+    - BUS-048
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-059
+    name: S. Rosenstein
+    role: Dry-goods and clothing advertiser
+    notes: Advertisement explicitly calls Rosenstein successor to I. Selling; business succession wording, not land
+      ownership or transaction date.
+    related_businesses:
+    - BUS-049
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-060
+    name: W. Rambo
+    role: Retail liquor renewal applicant
+    notes: Three-month renewal application; no grant or ownership established.
+    related_businesses:
+    - BUS-050
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-061
+    name: J. Stewart & Son
+    role: Retail liquor renewal applicants
+    notes: Three-month renewal application. Later Hodes listing at 327 is separate dated evidence, not proof of a
+      business transfer.
+    related_businesses:
+    - BUS-051
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-062
+    name: John Gohra
+    role: Retail liquor renewal applicant
+    notes: Three-month application corroborates the April 1907 intersection record E-068; exact premises and identity
+      with any other saloon unresolved.
+    related_businesses:
+    - BUS-052
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-063
+    name: D. M. Klemsen
+    role: Retail liquor renewal applicant
+    notes: Three-month renewal application; no grant or ownership established.
+    related_businesses:
+    - BUS-053
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-064
+    name: Knapp & Nobel
+    role: Retail liquor applicants
+    notes: 18 September 1908 six-month application at 712 Main. Printed NOBEL differs from NOEBEL in the 1907 notice;
+      the same712 address suggests an identity check, not an automatic merger or uninterrupted occupancy.
+    related_businesses:
+    - BUS-054
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+
+  - id: P-065
+    name: A. H. Griessen
+    role: Retail liquor renewal applicant
+    notes: Exact number and intersection in notice; requested duration not printed in this notice.
+    related_businesses:
+    - BUS-055
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-066
+    name: Carl G. Hodes
+    role: Liquor-license applicant
+    notes: Three-month application. Compare E-076 (1909 Sixth/Main) and E-079 (1910 departure) as identity/location
+      leads; a move from 327 or a Stewart business purchase is not established.
+    related_businesses:
+    - BUS-056
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-067
+    name: Astman & Knightly
+    role: Liquor-license applicants
+    notes: Printed ASTMAN & KNIGHTLY; three-month application. Initials and individual identities unresolved.
+    related_businesses:
+    - BUS-057
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-068
+    name: L. Buconich
+    role: Liquor-license applicant
+    notes: Six-month application. Do not assign later Andresen/Electric Store 619 to this 1908 tenant.
+    related_businesses:
+    - BUS-058
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-069
+    name: D. McHenry
+    role: Liquor-license applicant
+    notes: Three-month application; no target frontage assignment.
+    related_businesses:
+    - BUS-059
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-070
+    name: Bennett & Moore
+    role: Liquor-license applicants
+    notes: Three-month application; no target frontage assignment.
+    related_businesses:
+    - BUS-060
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-071
+    name: Gordon E. Hayes
+    role: Attorney / estate-notice office contact
+    notes: Office used as claims-delivery location in an estate notice; no numbered office or property ownership established.
+    related_businesses:
+    - BUS-061
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-072
+    name: Straight & Salisbury
+    role: Plumbing and tinning advertisers
+    notes: Printed business and relative location verified; no exact target address or property title inferred.
+    related_businesses:
+    - BUS-062
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: P-073
+    name: I. Selling
+    role: Named predecessor context
+    notes: Named only as the predecessor in Rosenstein advertisement, Main/Seventh at Suspension Bridge. No exact
+      transfer date, number or real-estate ownership.
+    related_businesses:
+    - BUS-064
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: P-074
+    name: Albright
+    role: Named predecessor context
+    notes: Surname appears only in Strebig's Albright's Old Stand wording at Main/Fifth. Given name, ownership, transfer
+      date and exact corner/number unproved.
+    related_businesses:
+    - BUS-065
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+
+  - id: P-075
+    name: Knapp & Noebel
+    role: Retail liquor renewal applicants
+    notes: 4 October 1907 three-month renewal application at 712 Main; enlarged scan reads NOEBEL. A 1908 notice reads
+      NOBEL at 712. Preserve separate name styles until an independent identity bridge is found.
+    related_businesses:
+    - BUS-066
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135

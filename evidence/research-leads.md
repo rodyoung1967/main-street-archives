@@ -208,3 +208,16 @@ Use authenticated FamilySearch access, a FamilySearch Center/affiliate library, 
 ## 1916 monthly review follow-ups — E-119/S-133
 
 Resume May 18 p4, skipping seven first-monthly issues now complete. Prioritize December 14 pp1–20 for the separate 504 Main pool-hall and optometrist leads; do not upgrade those OCR findings from December 7. Seek actual dates/terms for Schilling to Pruden, and completed Andresen basement moves. Preserve Hawley August 3 as a postponed proposal and test later execution separately. Reconcile 108/110 Fifth without assuming identity or renumbering. [Exact remaining issues](source-captures/1916-courier-first-monthly-june-december.md).
+
+## RL-045 — 1907–1910 Fifth/Main license identities and exact premises
+
+Status: **Open online follow-up**, with an explicit October 11, 1907 p8 scan **RETRIEVAL GAP**. E-121–E-123; OQ-032.
+
+1. Retrieve October 1907–September 1908 Oregon City Council minutes, license applications and ledgers for Surber, Justin & Hitchman and Hartman. Seek granted terms, partner names, exact street numbers, corner/room descriptions and any transfer. City Recorder/archive is the manual fallback, not an exhausted-online declaration.
+2. Recover the actual **11 October 1907 Courier p8** Surber notice discovered through newspaperarchive OCR. Search result number is unreliable; do not normalize it from the October 4 source. Direct page routes failed during this session; ask a holding library for microfilm/page scan if permitted public access remains unsuccessful.
+3. Compare the original May 4/June 1, 1910 municipal records: M. Justin's rear pool/billiard petition was tabled; Case's saloon had an adjoining restaurant. These are identity/geometry leads, not a 1922 business chain.
+4. Test Strebig/Streibig/Albright and Stewart327→Hodes327→Sixth/Main through explicit identity/transition records. Do not infer a transfer from a common corner/address.
+
+No outreach sent, no additional external scan recovered. Exact queries, limitations and source locators: [review](source-captures/1907-1908-surber-justin-main-visual-review.md). Annual 1907/1908 status remains IN PROGRESS.
+
+RL-045 name-check supplement: compare the clearly printed **NOEBEL (1907)** and **NOBEL (1908)** at 712 Main; separately indexed P-075/BUS-066 and P-064/BUS-054. Matching partner/address is a lead, not an assumed identity correction.

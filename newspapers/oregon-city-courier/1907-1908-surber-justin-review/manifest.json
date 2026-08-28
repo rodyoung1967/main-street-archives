@@ -1,0 +1,63 @@
+{
+  "review_date": "2026-08-28",
+  "scope": "Three supplied page scans, not three complete issues. Originals unchanged. No annual completion claim.",
+  "pages": [
+    {
+      "id": "S-135",
+      "date": "1907-10-04",
+      "seq": 3,
+      "media": "IMG-0708",
+      "prefix": "03-",
+      "name": "Oregon City Courier, 4 October 1907, page 3",
+      "original": "501 Main st (A. J. Surber) Oregon City courier., October 04, 1907, Page 3, Image 3.pdf",
+      "evidence": [
+        "E-121",
+        "E-123"
+      ],
+      "repository_file": "newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-10-04-seq-03.pdf",
+      "sha256": "beb6866b1046249b86eb0548d0b6963909be706d35a6c60ed63a705974bc679e",
+      "pdf_pages": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1907-10-04/ed-1/seq-3.pdf",
+      "url_status": "Archive locator retained; live retrieval not verified in this task. Visual evidence is the supplied PDF.",
+      "review_status": "VISUALLY VERIFIED"
+    },
+    {
+      "id": "S-136",
+      "date": "1907-12-13",
+      "seq": 3,
+      "media": "IMG-0709",
+      "prefix": "02-",
+      "name": "Oregon City Courier, 13 December 1907, page 3",
+      "original": "5th & Main (Justin & Hitchman) Oregon City courier., December 13, 1907, Page 3, Image 3.pdf",
+      "evidence": [
+        "E-122"
+      ],
+      "repository_file": "newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-12-13-seq-03.pdf",
+      "sha256": "3c42bc92aca99f178e60e76c0430571b1aaee47869fd26e52b17fd614be0ae50",
+      "pdf_pages": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1907-12-13/ed-1/seq-3.pdf",
+      "url_status": "Archive locator retained; live retrieval not verified in this task. Visual evidence is the supplied PDF.",
+      "review_status": "VISUALLY VERIFIED"
+    },
+    {
+      "id": "S-137",
+      "date": "1908-09-18",
+      "seq": 9,
+      "media": "IMG-0710",
+      "prefix": "01-",
+      "name": "Oregon City Courier, 18 September 1908, image 9",
+      "original": "5th & Main (Justin & Hitchman) Oregon City courier., September 18, 1908, Image 9.pdf",
+      "evidence": [
+        "E-121",
+        "E-122",
+        "E-123"
+      ],
+      "repository_file": "newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf",
+      "sha256": "62ce8e70f6e13a3614bc85eae7c3071a33dd83f36eda9973bf1ba75f4b7fe11a",
+      "pdf_pages": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/seq-9.pdf",
+      "url_status": "Archive locator retained; live retrieval not verified in this task. Visual evidence is the supplied PDF.",
+      "review_status": "VISUALLY VERIFIED"
+    }
+  ]
+}

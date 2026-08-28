@@ -32,3 +32,7 @@ The [28 August 1922-model reassessment](../evidence/source-captures/1922-task-7-
 | Nov. 2024 / Richard's estate | 505 Main | Rodney Young and Mitchell Young | Inherited 505 real estate | `E-009`, `E-022`, `E-038` | High family | Probate/deed citation still desirable. |
 | By 2025 | 505 Main | Rodney Young and Mitchell Young / 505 LLC | Joint building ownership | `E-009`, `E-018` | High family + current lease | Current stewardship vehicle. |
 | July 2025-June 2030 | 505 Main | Alin Guria | Current lessee / operating-business owner | `E-018` | Very High for lease and spelling; High steward confirmation for business-owner role | Operating business is Thirsty Duck. Earlier Alan / dual-spelling wording was a project typo. Real-estate ownership remains with 505 LLC. |
+
+## 1907–1908 license evidence: no property-title update
+
+E-121–E-123 document Surber's No.501 business-address assertion and other liquor applications/market advertisements. These sources do not establish land/building ownership. Surber, Justin & Hitchman and Strebig are not added as target property owners. See [visual review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).

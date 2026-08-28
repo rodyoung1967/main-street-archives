@@ -6,10 +6,11 @@ This register tracks business-name and operation chronology by dated address. **
 
 ## 501 Main Street (`B-005`)
 
-The following two rows were previously misplaced under the 503 heading. They are preserved here at the 501 address stated in their source; no claim or ID was deleted.
+The 1912 and 1913 rows were previously misplaced under the 503 heading. They are preserved here at the 501 address stated in their source; no claim or ID was deleted.
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
+| 4 Oct.1907 | A. J. Surber liquor premises | `BUS-045` | `E-121` | Very High for wording | Renewal notice prints No.501; no grant, deed or Palace trade name. |
 | 19 Mar. 1912 | Joe Wilson's Palace Saloon | `BUS-024` | `E-104` | Very High | Liquor-license application at 501 Main; no transfer or later-continuity claim. |
 | 3 Oct. 1913 | Hunsaker & Taylor liquor premises | `BUS-025` | `E-104` | Very High | Liquor-license application at 501 Main; separately named from Palace Saloon. |
 
@@ -100,3 +101,9 @@ Fifth/Main undertaker notices recur through November 25; Scripture & May's five 
 E-119/S-133: June 1 announces Andresen store rearrangements and Schilling's proposed 612 move. July 6 explicitly reports Electric Store/power offices at 619, one door north, despite a retained 617 footer. Holman-alone Fifth/Main ads are verified by August 3; the April 6 interest sale remains controlling. Scripture & May 108 Fifth is verified by September 7. October 5 explicitly names Pruden at 612 as Schilling's successor, repeated November 2 and December 7. August 3 postpones the proposed million-dollar Hawley second unit on east Main between Third and the alley between Fourth/Fifth. No exact target occupancy, demolition, parcel or transaction-day inference follows.
 
 [Page ledger](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
+
+## Unnumbered Fifth/Main and neighboring Main premises, 1907–1908
+
+December 13, 1907: Justin & Hitchman at Main/Fifth (six-month application). September 18, 1908: separate Justin & Hitchman (three months) and Surber (six months) applications at Main/Fifth. Strebig advertises fresh meats at Albright's Old Stand, Main/Fifth, October 4, 1907; Hartman applies on Main between Fifth/Sixth in September 1908. No exact501 assignment or business succession. E-122/E-123; BUS-046/BUS-047/BUS-048.
+
+Other dated applicant/store observations (including Stewart & Son327 in 1907 and Hodes327 in 1908) are tabulated in the [visual review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md); no purchase, move or uninterrupted operation is inferred.

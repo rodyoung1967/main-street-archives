@@ -82,3 +82,13 @@ At steward request, visually reviewed all 58 scans in seven first-monthly Courie
 - `S-134` / `E-120`; originals/manifests at `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.
 - Verified Scripture & May 108 Fifth on Jan4/Feb1; Electric Store 619 Main Jan4; Theroux Music House 519 Main Oct4; Jones Drug Co. 617 Main Nov1; contextual lower-Main/Ninth-Main/Adams building-change items retained with location limits.
 - No exact 501/503/505/507/509/511 occupant in the sample. Coverage only, no vacancy inference. 1917 remains IN PROGRESS.
+
+### 2026-08-28 — Three uploaded 1907–1908 Courier pages
+
+Full supplied pages visually reviewed with enlarged notices/tiles: October 4, 1907 p3; December 13, 1907 p3; September 18, 1908 image9. Unchanged originals, original filenames and SHA-256 manifest preserved. S-135–S-137; E-121–E-123; IMG-0708–IMG-0710. Surber explicitly No.501/Main-Fifth in 1907; separate September 1908 Surber/Justin notices prevent an inferred succession. Strebig market, Hartman block anchor and numbered/relative Main context integrated. Earlier no 1907-target and earliest 1908-target summaries corrected with prior search history retained.
+
+Existing 1910 Justin rear-pool, Case/restaurant, Streibig market and Hodes records remain comparison leads, not newly inspected sources or identity bridges. External archive retrieval failed; October 11, 1907 p8 remains an OCR-discovered scan gap. No exact503/505/507 or numbered Fifth entry identified in supplied pages; no absence inference. No Ordinance357 retrieval or annual completion claimed.
+
+Worktree based on authoritative origin/main021d473, isolated from unrelated localmain commit. [Full findings, limits and restart](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).
+
+Final enlarged-name check:1907 **NOEBEL**,1908 **NOBEL**, both 712 Main. Replaced the preliminary harmonized reading before publication and indexed the 1907 style separately as P-075/BUS-066. No confirmed-source finding was deleted.

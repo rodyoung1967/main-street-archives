@@ -989,3 +989,33 @@ All 96 unchanged original page PDFs are **VISUALLY VERIFIED**. Exact source URLs
 | IMG-0705 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-06.pdf` | 1917-12-06 / seq6 / visually verified |
 | IMG-0706 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-07.pdf` | 1917-12-06 / seq7 / visually verified |
 | IMG-0707 | `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-12-06-seq-08.pdf` | 1917-12-06 / seq8 / visually verified |
+
+## IMG-0708 — Oregon City Courier, 4 October 1907, page 3
+File: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-10-04-seq-03.pdf`
+Original uploaded filename: `501 Main st (A. J. Surber) Oregon City courier., October 04, 1907, Page 3, Image 3.pdf`
+Provenance: user-supplied archival PDF; unchanged copy, one page.
+Source: `S-135`; evidence: E-121, E-123.
+Archive locator: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-10-04/ed-1/seq-3.pdf
+SHA-256: `beb6866b1046249b86eb0548d0b6963909be706d35a6c60ed63a705974bc679e`
+Review: full supplied page VISUALLY VERIFIED on 2026-08-28; enlarged crops used for small print. Live archive locator not successfully retrieved in this task.
+Interpretation: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## IMG-0709 — Oregon City Courier, 13 December 1907, page 3
+File: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-12-13-seq-03.pdf`
+Original uploaded filename: `5th & Main (Justin & Hitchman) Oregon City courier., December 13, 1907, Page 3, Image 3.pdf`
+Provenance: user-supplied archival PDF; unchanged copy, one page.
+Source: `S-136`; evidence: E-122.
+Archive locator: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-12-13/ed-1/seq-3.pdf
+SHA-256: `3c42bc92aca99f178e60e76c0430571b1aaee47869fd26e52b17fd614be0ae50`
+Review: full supplied page VISUALLY VERIFIED on 2026-08-28; enlarged crops used for small print. Live archive locator not successfully retrieved in this task.
+Interpretation: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## IMG-0710 — Oregon City Courier, 18 September 1908, image 9
+File: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf`
+Original uploaded filename: `5th & Main (Justin & Hitchman) Oregon City courier., September 18, 1908, Image 9.pdf`
+Provenance: user-supplied archival PDF; unchanged copy, one page.
+Source: `S-137`; evidence: E-121, E-122, E-123.
+Archive locator: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/seq-9.pdf
+SHA-256: `62ce8e70f6e13a3614bc85eae7c3071a33dd83f36eda9973bf1ba75f4b7fe11a`
+Review: full supplied page VISUALLY VERIFIED on 2026-08-28; enlarged crops used for small print. Live archive locator not successfully retrieved in this task.
+Interpretation: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.

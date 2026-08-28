@@ -578,3 +578,244 @@ businesses:
     - E-119
     related_sources:
     - S-133
+
+  - id: BUS-045
+    name: A. J. Surber liquor premises
+    address: 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908)
+    notes: 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months
+      but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+    related_people:
+    - P-055
+    related_evidence:
+    - E-121
+    related_sources:
+    - S-135
+    - S-137
+    related_buildings:
+    - B-005
+    repository_file: businesses/a-j-surber.md
+  - id: BUS-046
+    name: Justin & Hitchman liquor premises
+    address: Main/Fifth; number and corner unspecified
+    notes: Six-month application in December 1907; three-month application in September 1908. Separate Surber notice
+      appears in the same 1908 issue. Individual names and relationship to M. Justin in 1910 unresolved.
+    related_people:
+    - P-056
+    related_evidence:
+    - E-122
+    related_sources:
+    - S-136
+    - S-137
+    repository_file: businesses/justin-hitchman.md
+  - id: BUS-047
+    name: Strebig fresh-meat market
+    address: Main/Fifth; Albright's Old Stand; no number
+    notes: Printed spelling Strebig. Albright old-stand wording supplies a predecessor-location lead, not a deed or
+      precise transfer date. Test separately against 1910 H. W. Streibig/Pioneer Market; do not silently merge spellings/identities.
+    related_people:
+    - P-057
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+    repository_file: businesses/strebig-market.md
+  - id: BUS-048
+    name: Thomas Hartman liquor premises
+    address: Main between Fifth and Sixth; no side or number
+    notes: Three-month application. Visually reads 5th and 6th, not the duplicated 6th in OCR. No 501/503/505 assignment.
+    related_people:
+    - P-058
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-049
+    name: S. Rosenstein store
+    address: Main/Seventh at Suspension Bridge; no number
+    notes: Advertisement explicitly calls Rosenstein successor to I. Selling; business succession wording, not land
+      ownership or transaction date.
+    related_people:
+    - P-059
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-050
+    name: W. Rambo liquor premises
+    address: 415 Main (4 October 1907)
+    notes: Three-month renewal application; no grant or ownership established.
+    related_people:
+    - P-060
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-051
+    name: J. Stewart & Son liquor premises
+    address: 327 Main (4 October 1907)
+    notes: Three-month renewal application. Later Hodes listing at 327 is separate dated evidence, not proof of a
+      business transfer.
+    related_people:
+    - P-061
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-052
+    name: John Gohra liquor premises
+    address: Main/Sixth (4 October 1907); no number
+    notes: Three-month application corroborates the April 1907 intersection record E-068; exact premises and identity
+      with any other saloon unresolved.
+    related_people:
+    - P-062
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-053
+    name: D. M. Klemsen liquor premises
+    address: 429 Main (4 October 1907)
+    notes: Three-month renewal application; no grant or ownership established.
+    related_people:
+    - P-063
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-054
+    name: Knapp & Nobel liquor premises
+    address: 712 Main (18 September 1908)
+    notes: 18 September 1908 six-month application at 712 Main. Printed NOBEL differs from NOEBEL in the 1907 notice;
+      the same712 address suggests an identity check, not an automatic merger or uninterrupted occupancy.
+    related_people:
+    - P-064
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+
+  - id: BUS-055
+    name: A. H. Griessen liquor premises
+    address: 702 Main, Main/Seventh (4 October 1907)
+    notes: Exact number and intersection in notice; requested duration not printed in this notice.
+    related_people:
+    - P-065
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-056
+    name: Carl G. Hodes liquor premises
+    address: 327 Main (18 September 1908); later Sixth/Main record separate
+    notes: Three-month application. Compare E-076 (1909 Sixth/Main) and E-079 (1910 departure) as identity/location
+      leads; a move from 327 or a Stewart business purchase is not established.
+    related_people:
+    - P-066
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-057
+    name: Astman & Knightly liquor premises
+    address: 722 Main (18 September 1908)
+    notes: Printed ASTMAN & KNIGHTLY; three-month application. Initials and individual identities unresolved.
+    related_people:
+    - P-067
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-058
+    name: L. Buconich liquor premises
+    address: Andresen Bldg., Main Street (18 September 1908); no number
+    notes: Six-month application. Do not assign later Andresen/Electric Store 619 to this 1908 tenant.
+    related_people:
+    - P-068
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-059
+    name: D. McHenry liquor premises
+    address: Main Street (18 September 1908); no number
+    notes: Three-month application; no target frontage assignment.
+    related_people:
+    - P-069
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-060
+    name: Bennett & Moore liquor premises
+    address: Main Street (18 September 1908); no number
+    notes: Three-month application; no target frontage assignment.
+    related_people:
+    - P-070
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-061
+    name: Gordon E. Hayes law office
+    address: Stevens Building, Main Street (18 September 1908); no number
+    notes: Office used as claims-delivery location in an estate notice; no numbered office or property ownership established.
+    related_people:
+    - P-071
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-062
+    name: Straight & Salisbury plumbing business
+    address: Main Street near Eighth (18 September 1908); no number
+    notes: Printed business and relative location verified; no exact target address or property title inferred.
+    related_people:
+    - P-072
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-137
+  - id: BUS-063
+    name: Schrader's Bakery
+    address: Main Street (18 September 1908); number unresolved
+    notes: Hiring advertisement names bakery and Main Street; no proprietor name or street number. Related 1912 evidence
+      E-093 and OQ-026 remain separately dated; do not infer exact address from telephone Main 33.
+    related_evidence:
+    - E-123
+    - E-093
+    related_sources:
+    - S-137
+  - id: BUS-064
+    name: I. Selling store
+    address: Relative location only; see notes
+    notes: Named only as the predecessor in Rosenstein advertisement, Main/Seventh at Suspension Bridge. No exact
+      transfer date, number or real-estate ownership.
+    related_people:
+    - P-073
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+  - id: BUS-065
+    name: Albright old-stand market context
+    address: Relative location only; see notes
+    notes: Surname appears only in Strebig's Albright's Old Stand wording at Main/Fifth. Given name, ownership, transfer
+      date and exact corner/number unproved.
+    related_people:
+    - P-074
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135
+
+  - id: BUS-066
+    name: Knapp & Noebel liquor premises
+    address: 712 Main (4 October 1907)
+    notes: 4 October 1907 three-month renewal application at 712 Main; enlarged scan reads NOEBEL. A 1908 notice reads
+      NOBEL at 712. Preserve separate name styles until an independent identity bridge is found.
+    related_people:
+    - P-075
+    related_evidence:
+    - E-123
+    related_sources:
+    - S-135

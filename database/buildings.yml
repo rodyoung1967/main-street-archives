@@ -253,8 +253,10 @@ buildings:
   - id: B-005
     name: 501 Main Street (historic / removed)
     address: 501 Main Street, Oregon City, Oregon
-    notes: 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
+    notes: 4 October 1907 Surber notice explicitly prints No.501/Main-Fifth;1908 repeats only the intersection. No title, Palace trade-name or later-premises identity inferred. 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
     related_evidence:
+      - E-121
+      - E-122
       - E-116
       - E-108
       - E-020
@@ -268,6 +270,9 @@ buildings:
       - E-103
       - E-104
     related_sources:
+      - S-135
+      - S-136
+      - S-137
       - S-130
       - S-021
       - S-023
@@ -288,9 +293,11 @@ buildings:
     related_maps:
       - SM-008
     related_businesses:
+      - BUS-045
       - BUS-024
       - BUS-025
     related_people:
+      - P-055
       - P-037
       - P-038
 

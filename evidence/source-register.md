@@ -891,3 +891,27 @@ Repository: `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; e
 Media: `IMG-0612` through `IMG-0707`.  
 Evidence: `E-120`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.  
 Notes: All 96 sampled scans visually inspected. Jan4/Feb1 directly verify Scripture & May at 108 Fifth; Jan4 directly verifies Electric Store at Andresen 619 Main; Oct4 verifies Theroux Music House 519 Main; Nov1 directly verifies Jones Drug Co. 617 Main. No exact 501/503/505/507/509/511 occupant established in the sample; coverage only. This sampling pass is not annual completion.
+
+## S-135 — Oregon City Courier, 4 October 1907, page 3
+Type: Primary newspaper scan; **VISUALLY VERIFIED**.
+Date: 1907-10-04; one supplied page, not a whole-issue review.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-10-04/ed-1/seq-3.pdf
+Repository: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-10-04-seq-03.pdf`.
+Media: `IMG-0708`. Evidence: E-121, E-123.
+Notes: Original uploaded filename, SHA-256 and retrieval distinction are in `newspapers/oregon-city-courier/1907-1908-surber-justin-review/manifest.json`. Full page visually inspected with enlarged notices. Filename labels were tested against printed wording. See `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## S-136 — Oregon City Courier, 13 December 1907, page 3
+Type: Primary newspaper scan; **VISUALLY VERIFIED**.
+Date: 1907-12-13; one supplied page, not a whole-issue review.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-12-13/ed-1/seq-3.pdf
+Repository: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-12-13-seq-03.pdf`.
+Media: `IMG-0709`. Evidence: E-122.
+Notes: Original uploaded filename, SHA-256 and retrieval distinction are in `newspapers/oregon-city-courier/1907-1908-surber-justin-review/manifest.json`. Full page visually inspected with enlarged notices. Filename labels were tested against printed wording. See `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## S-137 — Oregon City Courier, 18 September 1908, image 9
+Type: Primary newspaper scan; **VISUALLY VERIFIED**.
+Date: 1908-09-18; one supplied page, not a whole-issue review.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/seq-9.pdf
+Repository: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf`.
+Media: `IMG-0710`. Evidence: E-121, E-122, E-123.
+Notes: Original uploaded filename, SHA-256 and retrieval distinction are in `newspapers/oregon-city-courier/1907-1908-surber-justin-review/manifest.json`. Full page visually inspected with enlarged notices. Filename labels were tested against printed wording. See `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.

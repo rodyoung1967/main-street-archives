@@ -28,10 +28,11 @@ Primary file: `buildings/501-main.md`
 
 Direct exact-number occupancy anchors:
 
+- **A. J. Surber**, No.501 at Main/Fifth, 4 October 1907 (`E-121`); September 1908 repeats only the intersection
 - Joe Wilson's **Palace Saloon**, 501 Main, March 1912 (`E-104`)
 - **Hunsaker & Taylor**, 501 Main, October 1913 (`E-104`)
 
-The two license notices do not prove a transfer, rename, common ownership, or 1922 occupancy. The July 1922 fire-origin mapping among 501/503/505 remains unresolved.
+These independent license notices do not prove a transfer, rename, common ownership, or 1922 occupancy. Justin & Hitchman's separate Fifth/Main notices are not assigned to501 (`E-122`). The July 1922 fire-origin mapping among 501/503/505 remains unresolved.
 
 ### 503 Main Street
 
@@ -291,3 +292,7 @@ Courier **110/123 sheets** processed; pause before December2. **46 Courier image
 - [Schilling and Pruden optometry practices](businesses/schilling-pruden-optometry.md)
 
 Courier 238/458 reviewed; year IN PROGRESS. Source S-133, evidence E-119.
+
+## Uploaded Courier pages: 1907–1908
+
+[Visual review](evidence/source-captures/1907-1908-surber-justin-main-visual-review.md) registers S-135–S-137/E-121–E-123 and preserves all 3 supplied PDFs. Surber at exact501 on4 October 1907; Justin & Hitchman at unnumbered Fifth/Main in December 1907 and September 1908, with a separate Surber notice on the 1908 page. Additional numbered Main anchors and relative-location businesses are indexed; no new503/505 assignment. Lead RL-045; question OQ-032.

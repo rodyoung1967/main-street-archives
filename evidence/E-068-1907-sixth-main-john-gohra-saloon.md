@@ -22,3 +22,9 @@ The notice does not print a numbered Main Street address. Do not assign the busi
 
 **Very High** for John Gohra operating at Main & Sixth in April 1907.  
 **Unresolved** for exact numbered address, lot, and relationship to the William Tell / Gambrinus property.
+
+## 28 August 2026 uploaded-page comparison
+
+E-123/S-135 adds a visually verified 4 October 1907 p3 John Gohra notice at Sixth/Main (P-062/BUS-052), without a number or Gambrinus identity.
+
+[Full new review](source-captures/1907-1908-surber-justin-main-visual-review.md). The original source findings above remain separately dated.

@@ -1071,6 +1071,7 @@ evidence:
     related_sources:
       - S-082
     repository_file: evidence/E-068-1907-sixth-main-john-gohra-saloon.md
+    notes: "E-123/S-135 adds a visually verified 4 October 1907 p3 John Gohra notice at Sixth/Main (P-062/BUS-052), without a number or Gambrinus identity."
 
   - id: E-069
     name: I. Tolpolar Opposite the Post Office, 1907
@@ -1151,6 +1152,7 @@ evidence:
     related_sources:
       - S-090
     repository_file: evidence/E-076-1909-carl-hodes-saloon-sixth-main.md
+    notes: "E-123/S-137 now separately documents Carl G. Hodes at 327 Main in September 1908 (P-066/BUS-056). A move to this 1909 Sixth/Main location or purchase from Stewart remains unproved."
 
   - id: E-077
     name: Harding Building Existed c.1909; Exact Address Unresolved
@@ -1201,6 +1203,7 @@ evidence:
     related_sources:
       - S-094
     repository_file: evidence/E-081-1910-main-street-business-address-anchors.md
+    notes: "E-123/S-135 adds Strebig at Albright's Old Stand, Fifth/Main, in October 1907 (P-057/BUS-047). Keep that printed spelling and identity separate from the 1910 H. W. Streibig/Pioneer Market until independently bridged."
 
   - id: E-082
     name: Pacific Telephone & Telegraph at 510 Main, 1910
@@ -1324,6 +1327,7 @@ evidence:
       - S-102
       - S-106
     repository_file: evidence/E-093-1912-schrader-main-street-bakery-sale.md
+    notes: "E-123/S-137 adds Schrader's Bakery on Main in a September 1908 hiring notice (BUS-063); no proprietor or number is printed, and the later sale remains separately dated."
 
   - id: E-094
     name: Original Oregon City Plat / Block 4–Block 26 Orientation Correction
@@ -1835,3 +1839,119 @@ evidence:
     related_sources: [S-134]
     related_businesses: [BUS-029, BUS-031, BUS-035, BUS-039, BUS-040]
     repository_file: evidence/source-captures/1917-courier-first-issue-monthly-sample.md
+
+  - id: E-121
+    name: A. J. Surber at 501 Main in 1907 and unnumbered Fifth/Main in 1908
+    type: Primary newspaper liquor-license notices; visual review
+    claims:
+    - 4 October 1907 p3 directly identifies A. J. Surber's present retail liquor place of business as No. 501 at Main
+      and Fifth.
+    - 18 September 1908 image 9 names A. J. Surber at Main/Fifth for a six-month application, but does not print 501.
+    - This supplies earlier registered exact 501 evidence than the 1912 Palace Saloon notice. No license grant, Palace
+      name, property ownership, uninterrupted occupancy or 1922 fire-room mapping is proved.
+    confidence: Very High for printed wording; 1908 exact-number continuity and later succession unresolved.
+    related_sources:
+    - S-135
+    - S-137
+    related_people:
+    - P-055
+    related_businesses:
+    - BUS-045
+    related_buildings:
+    - B-005
+    related_evidence:
+    - E-104
+    - E-122
+    repository_file: evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
+  - id: E-122
+    name: Justin & Hitchman at Fifth/Main and separate contemporaneous Surber notice
+    type: Primary newspaper liquor-license applications; visual review
+    claims:
+    - 13 December 1907 p3 names Justin & Hitchman at Main/Fifth seeking a six-month license.
+    - 18 September 1908 image 9 separately prints Justin & Hitchman at Main/Fifth for three months and A. J. Surber
+      at Main/Fifth for six months.
+    - Neither notice identifies Justin & Hitchman at 501 or establishes a Surber-to-Justin transfer. Separate applicants
+      do not prove separate rooms, buildings or corners.
+    - M. Justin's 4 May 1910 pool/billiard petition is an existing repository identity/geometry lead only; not a newly
+      inspected source or a proved link to this partnership or 1922.
+    confidence: Very High for printed application names and intersection; identities and numbered premises unresolved.
+    related_sources:
+    - S-136
+    - S-137
+    related_people:
+    - P-055
+    - P-056
+    related_businesses:
+    - BUS-045
+    - BUS-046
+    related_evidence:
+    - E-121
+    repository_file: evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
+  - id: E-123
+    name: 1907–1908 Courier Main Street license and commercial address anchors
+    type: Primary newspaper advertisements and notices; visual review
+    claims:
+    - 4 October 1907 p3 names Strebig fresh meats at Albright's Old Stand, Fifth/Main, without a number. Rosenstein
+      at Main/Seventh advertises as successor to I. Selling.
+    - October 1907 exact anchors include Rambo 415, Stewart & Son 327, Klemsen 429, Knapp & Noebel 712 and Griessen
+      702; Gohra is at Sixth/Main.
+    - 18 September 1908 image 9 places Thomas Hartman on Main between Fifth and Sixth, Hodes at 327, Knapp & Nobel
+      at 712 and Astman & Knightly at 722.
+    - Buconich is in Andresen Building/Main; McHenry, Bennett & Moore and Schrader's Bakery are on Main; Hayes is
+      in Stevens Building/Main; Straight & Salisbury are on Main near Eighth. No additional number is inferred.
+    - No exact 503, 505 or 507 reference was identified in the three supplied pages. This is bounded review coverage,
+      not evidence of absence or vacancy.
+    - The 1907 NOEBEL and 1908 NOBEL spellings are separately transcribed/indexed; common712 Main is an identity lead,
+      not proof of merger or uninterrupted occupancy.
+    confidence: Very High for readable dated wording; historic parcels, identity bridges and transaction dates unresolved.
+    related_sources:
+    - S-135
+    - S-137
+    related_people:
+    - P-057
+    - P-058
+    - P-059
+    - P-060
+    - P-061
+    - P-062
+    - P-063
+    - P-064
+    - P-065
+    - P-066
+    - P-067
+    - P-068
+    - P-069
+    - P-070
+    - P-071
+    - P-072
+    - P-073
+    - P-074
+    - P-075
+    related_businesses:
+    - BUS-047
+    - BUS-048
+    - BUS-049
+    - BUS-050
+    - BUS-051
+    - BUS-052
+    - BUS-053
+    - BUS-054
+    - BUS-055
+    - BUS-056
+    - BUS-057
+    - BUS-058
+    - BUS-059
+    - BUS-060
+    - BUS-061
+    - BUS-062
+    - BUS-063
+    - BUS-064
+    - BUS-065
+    - BUS-066
+    related_evidence:
+    - E-068
+    - E-076
+    - E-079
+    - E-081
+    - E-093
+    repository_file: evidence/source-captures/1907-1908-surber-justin-main-visual-review.md

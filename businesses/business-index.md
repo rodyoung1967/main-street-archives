@@ -66,3 +66,37 @@ E-116/S-130 verifies BUS-007 511, BUS-026 507, BUS-027 509, BUS-028 527, BUS-029
 | BUS-042 | Greaves & McNeil | Andresen basement; proposed Barclay Building offices | June 1 p5 future-tense relocation; number and actual move date unresolved. E-119/S-133. |
 | BUS-043 | E. P. Elliott & Sons | Andresen basement; replacement sought | June 1 p5 says seeking new home amid rearrangement; destination and completed move unknown. E-119/S-133. |
 | BUS-044 | Hawley Pulp & Paper Company | Mill on Main; proposed second unit separately described | August 3 p8 postpones second approximately $1,000,000 unit on east Main, Third to alley between Fourth/Fifth; not completed construction. E-119/S-133. |
+
+## 1907–1908 uploaded Courier page review
+
+Descriptive liquor-premises labels are archive labels, not proved trade names.
+
+| ID | Business Name | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-045 | A. J. Surber liquor premises | 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908) | 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved. E-121; P-055. |
+| BUS-046 | Justin & Hitchman liquor premises | Main/Fifth; number and corner unspecified | Six-month application in December 1907; three-month application in September 1908. Separate Surber notice appears in the same 1908 issue. Individual names and relationship to M. Justin in 1910 unresolved. E-122; P-056. |
+| BUS-047 | Strebig fresh-meat market | Main/Fifth; Albright's Old Stand; no number | Printed spelling Strebig. Albright old-stand wording supplies a predecessor-location lead, not a deed or precise transfer date. Test separately against 1910 H. W. Streibig/Pioneer Market; do not silently merge spellings/identities. E-123; P-057. |
+| BUS-048 | Thomas Hartman liquor premises | Main between Fifth and Sixth; no side or number | Three-month application. Visually reads 5th and 6th, not the duplicated 6th in OCR. No 501/503/505 assignment. E-123; P-058. |
+| BUS-049 | S. Rosenstein store | Main/Seventh at Suspension Bridge; no number | Advertisement explicitly calls Rosenstein successor to I. Selling; business succession wording, not land ownership or transaction date. E-123; P-059. |
+| BUS-050 | W. Rambo liquor premises | 415 Main (4 October 1907) | Three-month renewal application; no grant or ownership established. E-123; P-060. |
+| BUS-051 | J. Stewart & Son liquor premises | 327 Main (4 October 1907) | Three-month renewal application. Later Hodes listing at 327 is separate dated evidence, not proof of a business transfer. E-123; P-061. |
+| BUS-052 | John Gohra liquor premises | Main/Sixth (4 October 1907); no number | Three-month application corroborates the April 1907 intersection record E-068; exact premises and identity with any other saloon unresolved. E-123; P-062. |
+| BUS-053 | D. M. Klemsen liquor premises | 429 Main (4 October 1907) | Three-month renewal application; no grant or ownership established. E-123; P-063. |
+| BUS-054 | Knapp & Nobel liquor premises | 712 Main,18 September 1908 | 18 September 1908 six-month application at 712 Main. Printed NOBEL differs from NOEBEL in the 1907 notice; the same712 address suggests an identity check, not an automatic merger or uninterrupted occupancy. E-123; P-064. |
+| BUS-055 | A. H. Griessen liquor premises | 702 Main, Main/Seventh (4 October 1907) | Exact number and intersection in notice; requested duration not printed in this notice. E-123; P-065. |
+| BUS-056 | Carl G. Hodes liquor premises | 327 Main (18 September 1908); later Sixth/Main record separate | Three-month application. Compare E-076 (1909 Sixth/Main) and E-079 (1910 departure) as identity/location leads; a move from 327 or a Stewart business purchase is not established. E-123; P-066. |
+| BUS-057 | Astman & Knightly liquor premises | 722 Main (18 September 1908) | Printed ASTMAN & KNIGHTLY; three-month application. Initials and individual identities unresolved. E-123; P-067. |
+| BUS-058 | L. Buconich liquor premises | Andresen Bldg., Main Street (18 September 1908); no number | Six-month application. Do not assign later Andresen/Electric Store 619 to this 1908 tenant. E-123; P-068. |
+| BUS-059 | D. McHenry liquor premises | Main Street (18 September 1908); no number | Three-month application; no target frontage assignment. E-123; P-069. |
+| BUS-060 | Bennett & Moore liquor premises | Main Street (18 September 1908); no number | Three-month application; no target frontage assignment. E-123; P-070. |
+| BUS-061 | Gordon E. Hayes law office | Stevens Building, Main Street (18 September 1908); no number | Office used as claims-delivery location in an estate notice; no numbered office or property ownership established. E-123; P-071. |
+| BUS-062 | Straight & Salisbury plumbing business | Main Street near Eighth (18 September 1908); no number | Printed business and relative location verified; no exact target address or property title inferred. E-123; P-072. |
+| BUS-063 | Schrader's Bakery | Main Street, 18 September 1908; no number | Hiring ad; no named proprietor on this page. E-123/S-137; compare E-093 and OQ-026. Telephone Main 33 is not a street address. |
+| BUS-064 | I. Selling store | Relative location only | Named only as the predecessor in Rosenstein advertisement, Main/Seventh at Suspension Bridge. No exact transfer date, number or real-estate ownership. E-123/S-135; P-073. |
+| BUS-065 | Albright old-stand market context | Relative location only | Surname appears only in Strebig's Albright's Old Stand wording at Main/Fifth. Given name, ownership, transfer date and exact corner/number unproved. E-123/S-135; P-074. |
+
+## Separate 1907 spelling retained
+
+| ID | Business Name | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-066 | Knapp & Noebel liquor premises | 712 Main,4 October 1907 | 4 October 1907 three-month renewal application at 712 Main; enlarged scan reads NOEBEL. A 1908 notice reads NOBEL at 712. Preserve separate name styles until an independent identity bridge is found. E-123/S-135; P-075. |

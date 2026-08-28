@@ -654,3 +654,22 @@ sources:
     name: Oregon City Courier 1917 first-issue monthly visual sample
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-04/ed-1/
     notes: 12 selected first-monthly issues / 96 scans visually verified and preserved under newspapers/oregon-city-courier/1917-first-issue-monthly-sample/. Related evidence E-120; media IMG-0612-IMG-0707. Sampling pass only, not annual completion.
+
+  - id: S-135
+    name: Oregon City Courier, 4 October 1907, page 3
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-10-04/ed-1/seq-3.pdf
+    repository_file: newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-10-04-seq-03.pdf
+    notes: User-supplied one-page PDF, full page visually verified; IMG-0708; evidence E-121, E-123. Original filename/hash
+      in manifest. Archive URL not retrieved in this task; do not treat filename annotations as evidence.
+  - id: S-136
+    name: Oregon City Courier, 13 December 1907, page 3
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-12-13/ed-1/seq-3.pdf
+    repository_file: newspapers/oregon-city-courier/1907-1908-surber-justin-review/1907-12-13-seq-03.pdf
+    notes: User-supplied one-page PDF, full page visually verified; IMG-0709; evidence E-122. Original filename/hash
+      in manifest. Archive URL not retrieved in this task; do not treat filename annotations as evidence.
+  - id: S-137
+    name: Oregon City Courier, 18 September 1908, image 9
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/seq-9.pdf
+    repository_file: newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf
+    notes: User-supplied one-page PDF, full page visually verified; IMG-0710; evidence E-121, E-122, E-123. Original
+      filename/hash in manifest. Archive URL not retrieved in this task; do not treat filename annotations as evidence.

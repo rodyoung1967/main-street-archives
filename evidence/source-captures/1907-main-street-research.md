@@ -71,7 +71,7 @@ Limitation: no numbered address is printed and later Tolpolar addresses are not 
 
 ## Exact-address search result
 
-Targeted searches for contemporary 1907 references to **501 Main**, **503 Main**, **505 Main**, and **507 Main** in Oregon City did not recover a primary source explicitly naming an occupant at those later-numbered addresses.
+The initial 21 August search did not recover a numbered target occupant. **Superseded for 501 on 28 August:** E-121/S-135 visually verifies A. J. Surber at **No.501, Main/Fifth**, 4 October 1907 p3. Exact 503/505/507 occupants remain unresolved in this pass. The former no-501 result is retained only as search history.
 
 This is a research-status statement only. It is **not evidence of vacancy, absence of buildings, or failure of the 1906 numbering system**. Primary numbered-address evidence for the target frontage is known from nearby years, and the 1906 numbering plat remains the preferred source for establishing the original mapping.
 
@@ -114,7 +114,7 @@ Documented:
 
 Still unresolved:
 
-- exact 1907 occupant names for later-numbered 501, 503, 505, and 507 Main;
+- exact 1907 occupant names for 503, 505 and 507 Main; 501 now has the dated Surber notice, not an all-year occupancy history;
 - exact 1907 street numbers for the Mount Hood Cafe, Gohra saloon, Tolpolar store, and telephone office;
 - whether any target odd-side predecessor building changed structurally in 1907;
 - precise effect of the six-inch street-grade increase on storefront thresholds/facades;
@@ -123,3 +123,9 @@ Still unresolved:
 ## Handling rule
 
 Do not infer an exact modern address from an intersection description, opposite/near wording, later business address, or the east/west side of Main. Keep street/public-works changes separate from building-replacement claims unless a source explicitly links them.
+
+## 28 August 2026 uploaded-page visual supplement
+
+[E-121–E-123 review](1907-1908-surber-justin-main-visual-review.md): October 4, 1907 p3 Surber at exact501, Strebig at unnumbered Fifth/Main and additional dated Main addresses; December 13, 1907 p3 Justin & Hitchman at unnumbered Fifth/Main; September 18, 1908 image9 separately names Justin & Hitchman and Surber at Fifth/Main, plus Hartman between Fifth/Sixth. Do not assign 501 to the 1908 intersection-only notices or infer succession. All three supplied pages reviewed, not their complete issues; annual status unchanged.
+
+Cadastral reminder: the current E-094/OQ-029 correction places the odd target frontage in **original Block4**. Older Block26 references above concern the opposite block or superseded research framing; do not restore the withdrawn target-Lot5 equation.

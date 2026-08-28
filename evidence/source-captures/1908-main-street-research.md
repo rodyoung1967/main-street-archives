@@ -13,7 +13,7 @@ Headline: **Pretty Girl Is Missing**
 
 Observed claim: the article identifies Oregon City merchant **Henry Brightbill** as having a store at **503 Main Street**.
 
-Significance: this is the earliest currently registered **exact numbered occupant evidence for a target 501/503/505/507 address after Oregon City's 1906 numbering program**. It proves occupancy of the address in 1908, not the age of the surviving 503 building.
+Significance: direct **503** occupancy in 1908, not the age of the surviving building. The former earliest-target-address ranking is superseded by the newly integrated **4 October 1907 Surber No.501 notice (E-121/S-135)**. Brightbill's 503 reading is unchanged.
 
 ## S-084 — Main Street overhead-wire and pole removal, 1908
 
@@ -126,3 +126,9 @@ Still unresolved:
 - Do not project later 505/507 occupants backward.
 - Do not convert relative wording such as opposite Post Office or between Fifth and Sixth into an exact address without independent mapping evidence.
 - Keep streetscape/utility changes separate from building-replacement claims.
+
+## 28 August 2026 uploaded-page visual supplement
+
+[E-121–E-123 review](1907-1908-surber-justin-main-visual-review.md): October 4, 1907 p3 Surber at exact501, Strebig at unnumbered Fifth/Main and additional dated Main addresses; December 13, 1907 p3 Justin & Hitchman at unnumbered Fifth/Main; September 18, 1908 image9 separately names Justin & Hitchman and Surber at Fifth/Main, plus Hartman between Fifth/Sixth. Do not assign 501 to the 1908 intersection-only notices or infer succession. All three supplied pages reviewed, not their complete issues; annual status unchanged.
+
+Cadastral reminder: the current E-094/OQ-029 correction places the odd target frontage in **original Block4**. Older Block26 references above concern the opposite block or superseded research framing; do not restore the withdrawn target-Lot5 equation.

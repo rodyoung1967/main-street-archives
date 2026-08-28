@@ -63,3 +63,7 @@ This is a **source-method precedent**, not a business-continuity bridge.
 2. Search January–July 1922 council records for Timms, Leland, Little and Wheeler.
 3. Search city license ledgers/applications for a particular-premises description or numbered Main Street address.
 4. Keep the 1910 Justin operation outside the 1922 business chain unless later evidence explicitly bridges it.
+
+## 28 August 2026 upload-review connection
+
+E-122/S-136/S-137 now records Justin & Hitchman at Fifth/Main in December 1907 and September 1908. The latter page separately names Surber at the intersection. Test whether M. Justin is the partner, but do not merge identities, assign a street number, convert the tabled petition into approval or bridge to the 1922 pool hall. This upload review did not recertify the municipal PDF. See [review](1907-1908-surber-justin-main-visual-review.md), OQ-032/RL-045.

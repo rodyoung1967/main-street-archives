@@ -53,3 +53,9 @@ The page does not identify a 1910 occupant explicitly at 501, 503, 505, or 507 M
 **Very High** for the printed 1910 addresses and intersection descriptions.  
 **Very High** that Brightbill was at 509 Main by 23 September 1910.  
 **Unresolved** for how the Sixth/Main businesses map to individual corners/lots and for the exact Harding Building number.
+
+## 28 August 2026 uploaded-page comparison
+
+E-123/S-135 adds Strebig at Albright's Old Stand, Fifth/Main, in October 1907 (P-057/BUS-047). Keep that printed spelling and identity separate from the 1910 H. W. Streibig/Pioneer Market until independently bridged.
+
+[Full new review](source-captures/1907-1908-surber-justin-main-visual-review.md). The original source findings above remain separately dated.

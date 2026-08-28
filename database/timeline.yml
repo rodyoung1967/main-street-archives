@@ -272,3 +272,39 @@ timeline:
     related_sources: [S-125]
     related_people: [P-046]
     related_businesses: [BUS-012]
+
+  - id: T-025
+    date: '1907-10-04'
+    summary: Surber retail liquor renewal notice directly prints No.501 at Main/Fifth. Strebig market and additional
+      Main address anchors appear on same page; no grant, deed, Palace name or 1922 room mapping.
+    confidence: Very High for visually verified printed wording.
+    related_sources:
+    - S-135
+    related_evidence:
+    - E-121
+    - E-123
+    related_people:
+    - P-055
+    related_businesses:
+    - BUS-045
+    related_buildings:
+    - B-005
+  - id: T-026
+    date: 1907-12-13; 1908-09-18
+    summary: Justin & Hitchman seeks liquor licenses at Main/Fifth; September 1908 page separately names Surber at
+      same intersection and Hartman between Fifth/Sixth. Exact partnership number and succession remain unresolved.
+    confidence: Very High for printed wording; specific premises unresolved.
+    related_sources:
+    - S-136
+    - S-137
+    related_evidence:
+    - E-122
+    - E-123
+    related_people:
+    - P-055
+    - P-056
+    - P-058
+    related_businesses:
+    - BUS-045
+    - BUS-046
+    - BUS-048

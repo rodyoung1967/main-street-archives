@@ -3,8 +3,8 @@
 ## Archive ID
 
 - Building ID: `B-005`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 
@@ -15,6 +15,12 @@ The **1925 Sanborn map directly labels 501 Main Street as a separate store space
 Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. By the 1944 aerial, that footprint is gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between 1936 and 1944.
 
 Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof and does not identify the July 1922 fire-origin room.
+
+## Direct 1907 Numbered Occupancy Evidence
+
+**4 October 1907 Courier p3** directly names **A. J. Surber**, retail liquor renewal applicant, at **No.501, Main/Fifth**, his present place of business (E-121/S-135; P-055/BUS-045). This is an address assertion in a renewal notice, not the Council grant, a deed, opening date, Palace trade name or proof of later structural identity.
+
+The September 18, 1908 Surber notice repeats Fifth/Main without a number; the same page separately names Justin & Hitchman at that intersection. Neither the partnership nor Strebig's unnumbered Fifth/Main market is assigned to501 (E-122/E-123). [Full review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). OQ-032/RL-045 retain license, identity and corner questions.
 
 ## Direct 1912–1913 Numbered Occupancy Evidence
 
@@ -71,6 +77,8 @@ The highest-value next step is to obtain the **1924 address and business-directo
 
 | Period | What we can say | Confidence |
 | --- | --- | --- |
+| 4 Oct.1907 | A. J. Surber renewal notice explicitly prints No.501, Main/Fifth; no title or later trade-name continuity | Very High for printed wording |
+| 19 Mar.1912 / 3 Oct.1913 | Palace Saloon / Hunsaker & Taylor separately named at 501; no transfer inferred | Very High for printed wording |
 | Aug. 1914–1917 | Holman / Holman-Randall / Holman undertaking business at **Fifth & Main** | Very High |
 | 1918–1921 | Holman & Pace undertaking/funeral business continues in Oregon City; address not established by the recovered sources | High for business continuity; unresolved for location |
 | 1924 | A Polk Oregon City directory existed; actual address pages still needed | Very High for directory existence |

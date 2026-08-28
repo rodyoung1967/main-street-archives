@@ -485,6 +485,8 @@ Related record: `evidence/E-068-1907-sixth-main-john-gohra-saloon.md`
 Claims: John Gohra sought renewal of a liquor license for his existing place of business at **Main and Sixth streets**, providing a contemporary north-end block anchor. The current evidence does not connect his premises to the William Tell/Gambrinus lot-8 property.  
 Confidence: Very High for the intersection location; Unresolved for exact number, lot, and relationship to William Tell/Gambrinus.
 
+28 August 2026 cross-reference: E-123/S-135 adds a visually verified 4 October 1907 p3 John Gohra notice at Sixth/Main (P-062/BUS-052), without a number or Gambrinus identity.
+
 ## E-069 — I. Tolpolar Opposite the Post Office, 1907
 Type: Primary newspaper advertisement / relative-location evidence  
 Date: 30 August 1907  
@@ -549,6 +551,8 @@ Related record: `evidence/E-076-1909-carl-hodes-saloon-sixth-main.md`
 Claims: Oregon City Council minutes list Carl G. Hodes at **Sixth and Main Streets** among saloon-license renewal applicants and order the renewals granted subject to fees and bonds. No numbered address/lot is printed, and no relationship to Philip Street's building or the William Tell/Gambrinus property is established.  
 Confidence: Very High for a Hodes saloon at Sixth/Main; Unresolved for exact numbered premises.
 
+28 August 2026 cross-reference: E-123/S-137 now separately documents Carl G. Hodes at 327 Main in September 1908 (P-066/BUS-056). A move to this 1909 Sixth/Main location or purchase from Stewart remains unproved.
+
 ## E-077 — Harding Building Existed c.1909; Exact Address Unresolved
 Type: Primary newspaper retrospective and later location evidence / chronology correction  
 Date: c.1909 event recalled in 1918; 1911 direct location context  
@@ -588,6 +592,8 @@ Sources: `S-094`
 Related record: `evidence/E-081-1910-main-street-business-address-anchors.md`  
 Claims: Price Bros. advertised at **Sixth & Main** in March and September. The 23 September business page also lists **H. P. Brightbill — 509 Main St.**, **Pioneer Market / H. W. Streibig — Fifth & Main**, **Geo. A. Harding — 611 Main**, and **Watson B. Eddy & Son — Main & Sixth**. Brightbill's 509 listing narrows his documented movement from 503 (`E-042`, August 1908) to after August 1908 and by September 1910. George Harding's 611 business address is not treated as the address of the separately named Harding Building.  
 Confidence: Very High for the printed addresses/intersection descriptions and Brightbill at 509 by 23 September 1910; Unresolved for mapping the intersection businesses to specific corners/lots.
+
+28 August 2026 cross-reference: E-123/S-135 adds Strebig at Albright's Old Stand, Fifth/Main, in October 1907 (P-057/BUS-047). Keep that printed spelling and identity separate from the 1910 H. W. Streibig/Pioneer Market until independently bridged.
 
 ## E-082 — Pacific Telephone & Telegraph at 510 Main, 1910
 Type: Primary newspaper advertisements / exact-address evidence  
@@ -684,6 +690,8 @@ Sources: `S-102`, `S-106`
 Related record: `evidence/E-093-1912-schrader-main-street-bakery-sale.md`  
 Claims: January advertising places **Schrader's Bakery near the Post Office**; on 20 December the *Courier* reports that Herman Schrader sold two Oregon City bakeries, including one **on Main Street**, to **Wemmo & Haas**. Neither item gives an exact Main number, and the sale is not evidence of a building/property transfer.  
 Confidence: Very High for the business sale and relative Main/Post Office location; Unresolved for exact numbered premises.
+
+28 August 2026 cross-reference: E-123/S-137 adds Schrader's Bakery on Main in a September 1908 hiring notice (BUS-063); no proprietor or number is printed, and the later sale remains separately dated.
 
 ## E-094 — Original Oregon City Plat / Block 4–Block 26 Orientation Correction
 Type: Primary official plat + primary newspaper assessment notice + primary Sanborn map, reconciled with current county-derived parcel/legal-description records
@@ -876,3 +884,43 @@ Claims:
 - Feb1 lower-Main building movement/remodeling, Mar1 Ninth/Main Miller-Parker redevelopment, and Dec6 Adams Department Store building-removal wording are contextual; none is assigned to 501/503/505.
 - No exact 501/503/505/507/509/511 occupant established in the twelve sampled issues; this is bounded coverage only, never vacancy/non-use evidence.
 Confidence: Very High for the visually readable exact-address and business-location wording; exact transaction/move days, target occupancy and unnumbered building locations remain unresolved.
+
+## E-121 — A. J. Surber at 501 Main in 1907 and unnumbered Fifth/Main in 1908
+Type: Primary newspaper liquor-license notices; visual review.
+Confidence: Very High for printed wording; 1908 exact-number continuity and later succession unresolved.
+Sources: S-135, S-137.
+
+- 4 October 1907 p3 directly identifies A. J. Surber's present retail liquor place of business as No. 501 at Main and Fifth.
+- 18 September 1908 image 9 names A. J. Surber at Main/Fifth for a six-month application, but does not print 501.
+- This supplies earlier registered exact 501 evidence than the 1912 Palace Saloon notice. No license grant, Palace name, property ownership, uninterrupted occupancy or 1922 fire-room mapping is proved.
+
+Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`. Original PDFs and provenance manifest: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/`. OQ-032/RL-045. These are three reviewed pages, not whole issues or annual completion.
+
+## E-122 — Justin & Hitchman at Fifth/Main and separate contemporaneous Surber notice
+Type: Primary newspaper liquor-license applications; visual review.
+Confidence: Very High for printed application names and intersection; identities and numbered premises unresolved.
+Sources: S-136, S-137.
+
+- 13 December 1907 p3 names Justin & Hitchman at Main/Fifth seeking a six-month license.
+- 18 September 1908 image 9 separately prints Justin & Hitchman at Main/Fifth for three months and A. J. Surber at Main/Fifth for six months.
+- Neither notice identifies Justin & Hitchman at 501 or establishes a Surber-to-Justin transfer. Separate applicants do not prove separate rooms, buildings or corners.
+- M. Justin's 4 May 1910 pool/billiard petition is an existing repository identity/geometry lead only; not a newly inspected source or a proved link to this partnership or 1922.
+
+Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`. Original PDFs and provenance manifest: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/`. OQ-032/RL-045. These are three reviewed pages, not whole issues or annual completion.
+
+## E-123 — 1907–1908 Courier Main Street license and commercial address anchors
+Type: Primary newspaper advertisements and notices; visual review.
+Confidence: Very High for readable dated wording; historic parcels, identity bridges and transaction dates unresolved.
+Sources: S-135, S-137.
+
+- 4 October 1907 p3 names Strebig fresh meats at Albright's Old Stand, Fifth/Main, without a number. Rosenstein at Main/Seventh advertises as successor to I. Selling.
+- October 1907 exact anchors include Rambo 415, Stewart & Son 327, Klemsen 429, Knapp & Noebel 712 and Griessen 702; Gohra is at Sixth/Main.
+- 18 September 1908 image 9 places Thomas Hartman on Main between Fifth and Sixth, Hodes at 327, Knapp & Nobel at 712 and Astman & Knightly at 722.
+- Buconich is in Andresen Building/Main; McHenry, Bennett & Moore and Schrader's Bakery are on Main; Hayes is in Stevens Building/Main; Straight & Salisbury are on Main near Eighth. No additional number is inferred.
+- No exact 503, 505 or 507 reference was identified in the three supplied pages. This is bounded review coverage, not evidence of absence or vacancy.
+
+Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`. Original PDFs and provenance manifest: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/`. OQ-032/RL-045. These are three reviewed pages, not whole issues or annual completion.
+
+### E-123 final enlarged-name check
+
+The 1907 notice prints **KNAPP & NOEBEL**, while the 1908 notice prints **KNAPP & NOBEL**. Both712 Main readings are direct, but names are separately indexed; no identity or uninterrupted-operation inference.

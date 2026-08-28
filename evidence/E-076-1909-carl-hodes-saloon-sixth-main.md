@@ -28,3 +28,9 @@ Those relationships remain unresolved pending the 1906 numbering plat, lot mappi
 
 **Very High** for Carl G. Hodes operating a licensed saloon at Sixth & Main in October 1909.  
 **Unresolved** for exact number, lot, and building identity.
+
+## 28 August 2026 uploaded-page comparison
+
+E-123/S-137 now separately documents Carl G. Hodes at 327 Main in September 1908 (P-066/BUS-056). A move to this 1909 Sixth/Main location or purchase from Stewart remains unproved.
+
+[Full new review](source-captures/1907-1908-surber-justin-main-visual-review.md). The original source findings above remain separately dated.

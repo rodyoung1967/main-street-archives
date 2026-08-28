@@ -149,3 +149,13 @@ The [28 August 2026 Tasks 5–6 identity audit](source-captures/1922-tasks-5-6-i
 ## 1916 monthly review update — existing location questions remain open
 
 E-119/S-133 advances Electric Store **619** to July 6, Holman-alone ad wording to August 3, and Scripture & May **108 Fifth** to September 7. Pruden **612**, successor to Schilling, is directly named October 5. Unresolved: exact Schilling/Pruden transition, 612 internal sharing, 108/110 Fifth bridge, precise Holman number, Raasch & Lamb basement move completion and 503/505 occupants. No new target assignment. [Scope and page ledger](source-captures/1916-courier-first-monthly-june-december.md).
+
+## OQ-032 — Surber, Justin & Hitchman and the early Fifth/Main premises
+
+E-121 directly establishes Surber's No.501 address assertion on4 October 1907. E-122 shows Justin & Hitchman at Main/Fifth in December 1907 and separate Surber/Justin notices in September 1908. Which corner, number and rooms did each occupy? What were the actual license grants, partner identities and entry/exit dates? Is M. Justin in the May 1910 rear-pool-table petition one of the partners? Does the printed Strebig market match the separately recorded H. W. Streibig/Pioneer Market, and what was Albright's old stand?
+
+No shared business, succession, property title, exact Justin/Hartman number or 1922 room is established. Track the independently dated Stewart327/Hodes327/Sixth-Main chain without inventing transfers. See E-123, RL-045 and [review](source-captures/1907-1908-surber-justin-main-visual-review.md).
+
+### OQ-026 dated source supplement
+
+E-123/S-137 visually verifies Schrader's Bakery hiring on Main,18 September 1908. No number or proprietor appears; existing OQ-026 address limits are unchanged. BUS-063 records the business style, not an expanded identity.
