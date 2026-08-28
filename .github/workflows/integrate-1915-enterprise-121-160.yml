@@ -1,0 +1,63 @@
+name: Integrate 1915 Enterprise pages 121-160
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-1915-enterprise-121-160.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Integrate reviewed pages
+        run: python3 scripts/integrate_1915_enterprise_121_160.py
+
+      - name: Add structured timeline mirror
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          cap = Path('evidence/source-captures/1915-enterprise-pages-121-160.md').read_text()
+          m = re.search(r'Source \*\*(S-\d{3})\*\*; evidence \*\*(E-\d{3})\*\*', cap)
+          assert m
+          evid = m.group(2)
+          p = Path('database/timeline.yml')
+          s = p.read_text().rstrip()
+          nums = [int(x) for x in re.findall(r'^  - id: T-(\d{3})$', s, re.M)]
+          tid = f'T-{max(nums)+1:03d}'
+          s += f'''\n\n  - id: {tid}\n    date: Spring 1915\n    summary: Morning Enterprise visual review verifies the May 7 formation of Holman & Randall at Holman's undertaking establishment on Main Street near Fifth and extends the April-May Main Street paving/streetscape planning sequence. Relative location only; no 501/503/505 mapping or building alteration is established.\n    confidence: Very High for visually verified report wording; exact numbered premises unresolved\n    related_evidence:\n      - {evid}\n    related_buildings:\n      - B-005\n'''
+          p.write_text(s+'\n')
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newspapers/oregon-city-enterprise/1915-pages-121-160 \
+            evidence/source-captures/1915-enterprise-pages-121-160.md \
+            evidence/source-captures/1915-main-street-repaving.md \
+            evidence/source-captures/1915-page-review-checklist.md \
+            evidence/source-captures/501-main-holman-1915-1921.md \
+            evidence/E-054-holman-fifth-main-1915-1917.md \
+            evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml database/timeline.yml \
+            media/photo-metadata-register.md registers/year-status.md \
+            registers/research-log.md registers/address-register.md timeline.md
+          git commit -m "Integrate 1915 Enterprise visual review through May 14"
+          git pull --rebase origin main
+          git push origin HEAD:main
