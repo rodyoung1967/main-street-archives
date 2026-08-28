@@ -1,0 +1,47 @@
+name: Fetch 1914-1915 water ledger review pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/fetch-1914-1915-water-ledger-review-pages.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download official Book 3 scan
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/book3 /tmp/review
+          url="https://www.orcity.org/DocumentCenter/View/6213/1914-1915-Water-Rent-Record-Book-3"
+          curl --fail --location --retry 3 --retry-delay 2 --connect-timeout 30 --max-time 1200 \
+            --user-agent "Mozilla/5.0 (main-street-archives research)" \
+            -o /tmp/book3/book3.pdf "$url"
+          test "$(head -c 4 /tmp/book3/book3.pdf)" = "%PDF"
+          pdfinfo /tmp/book3/book3.pdf > /tmp/review/pdfinfo.txt
+          sha256sum /tmp/book3/book3.pdf > /tmp/review/source-sha256.txt
+
+      - name: Extract pages 1-12
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/review/page-pdfs /tmp/review/page-jpegs
+          pdfseparate -f 1 -l 12 /tmp/book3/book3.pdf /tmp/review/page-pdfs/page-%03d.pdf
+          for p in $(seq 1 12); do
+            pdftoppm -f "$p" -l "$p" -jpeg -r 180 -singlefile /tmp/book3/book3.pdf "/tmp/review/page-jpegs/page-$(printf '%03d' "$p")"
+          done
+          sha256sum /tmp/review/page-pdfs/*.pdf > /tmp/review/page-pdfs-sha256.txt
+
+      - name: Upload review artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1914-1915-water-ledger-pages-001-012
+          path: /tmp/review
+          retention-days: 7
