@@ -61,6 +61,8 @@ Crosswalk: Tasks 5–6 callout 1 → F01/F02; callout 2 → F08; callout 3 → F
 
 ## Next action and stop boundary
 
+**28 August 2026 follow-up:** the steward authorized preparation and repository saving of the F01/F02 requests. The [deed and OHS abstract request drafts](../../registers/research-requests/1922-deed-and-ohs-request-drafts-2026-08-28.md) include verified institutional contact routes, complete-copy scope, cost-approval language and a dispatch tracker. Both are **DRAFTS — NOT SENT**; no paid work, record receipt or callout closure is claimed. The original next-action guidance below records the Task 8 stopping point.
+
 The eight-task targeted package ends here. Best next action is user-authorized retrieval of **F01/F02**, with F03/F04 providing the spatial/occupant bridge. The saved model plan assigns **Terra Medium** to retrieval and routine integration and **Sol High** to new scan interpretation and final model judgment; no model switch is claimed here. An alternative is a separately authorized bounded online address/scan pass from the list above.
 
 Do not start either route automatically. Ask the steward which to pursue. **1922 remains IN PROGRESS**, and none of these unresolved gaps is evidence of historical absence.
