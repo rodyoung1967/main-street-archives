@@ -201,9 +201,9 @@ Next routes: Enterprise scans, contemporary exact-number directories, municipal 
 
 ## RL-044 — Retrieve the 1915–1916 Polk Oregon/Washington gazetteer Oregon City pages
 
-Status: **MANUAL CALLOUT `1915-D01` / RETRIEVAL GAP**. FamilySearch catalog **1439422** and all four direct image ARKs are identified in `S-132` / `E-118`, but the available catalog and viewer redirect to sign-in. No page image was reviewed and no accessible alternate complete scan was recovered.
+Status: **COMPLETED 2026-08-28; MANUAL CALLOUT `1915-D01` RESOLVED**. Authenticated FamilySearch access recovered and visually verified the complete Oregon City town section at printed pp. 260–262 plus relevant located classified druggist/undertaker pages. Five page images and hashes are preserved under `records/directories/1915-1916-polk-oregon-city/`.
 
-Use authenticated FamilySearch access, a FamilySearch Center/affiliate library, or another holding to retrieve the complete Oregon City section. Visually inspect and preserve the title/publication pages and all applicable alphabetical/classified pages for **501, 503, 505, 507, 509, 511 Main**; Hylton, Harding, Bradley, Brightbill, Cox, Holman/Randall, Scripture/May; and numbered Fifth Street entries, especially 102/104/106/107/108/110 and stable/blacksmith/Fashion Stable listings. Record exact pages and section type. Do not treat the access barrier or directory silence as vacancy, non-use or absence. Full route/ARK record: `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
+Result: the Oregon City section is a business/professional gazetteer without ordinary street numbers, so it does not resolve 501–511 Main or numbered Fifth Street. It corroborates Harding/drugs, printed Brightbell/grocer, Holman/undertaker and Fashion Livery Stable, and lists Randall as postmaster. Targeted classified review independently lists Harding among Oregon City druggists and Holman among Oregon City undertakers. No directory silence is treated as vacancy, non-use or absence. Full page/ARK record: `evidence/source-captures/1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md`.
 
 ## 1916 monthly review follow-ups — E-119/S-133
 

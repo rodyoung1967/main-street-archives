@@ -143,7 +143,7 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 
 | IDs | Connected records | Scope |
 | --- | --- | --- |
-| S-132 / E-118 / RL-044 | B-001; B-002; B-003; B-005; manual callout 1915-D01 | FamilySearch catalog 1439422 and four image ARKs identified; sign-in barrier observed. No directory page reviewed and no occupant, vacancy or absence claim. |
+| S-132 / E-118 / RL-044 | B-001; B-002; B-003; B-005; P-001; P-042; P-050; P-051; BUS-007; BUS-027; completed manual callout 1915-D01 | Authenticated visual review of complete Oregon City town section pp. 260–262 and relevant druggist/undertaker classified pages. Trades/names corroborated, but no target Main/Fifth number is printed and no silence is treated as vacancy or absence. |
 
 ## 1916 first monthly Courier issues
 

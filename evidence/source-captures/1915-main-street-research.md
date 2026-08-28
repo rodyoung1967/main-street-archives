@@ -14,7 +14,7 @@ This file is the current human-readable overview for 1915. The detailed page-by-
 | Enterprise restart | **Chronological page 226 = 16 July 1915 p2** |
 | Enterprise remaining | **203 page images** |
 | Water ledger | **Relevant 1914–1915 Book 3 target/Fifth-Main audit complete**; exact-date and faint-handwriting bridge questions preserved |
-| Other online source classes | 1915–16 Polk gazetteer identified as FamilySearch catalog 1439422/four parts, but images are sign-in restricted (`S-132`/`E-118`; manual callout `1915-D01`); additional property, map, historic-resource, photograph and related-source audit remains pending |
+| Other online source classes | 1915–16 Polk gazetteer callout `1915-D01` completed through authenticated FamilySearch visual review (`S-132`/`E-118`); no target Main/Fifth number printed. Additional property, map, historic-resource, photograph and related-source audit remains pending |
 | Courier source exceptions | **1915-M01 through M04 remain open** pending alternate-online recovery and/or manual confirmation |
 | Year closeout | **Not ONLINE COMPLETE** |
 
@@ -167,9 +167,9 @@ These are unresolved research questions, not statements that the events or occup
 5. **Run the final 1915 integration/consistency audit:** source register, evidence register, address/business/building/person files, timeline, YAML sidecars and year-status register must agree.
 6. **Write the formal 1915 closeout record** and only then determine whether the year qualifies as `ONLINE COMPLETE`.
 
-### Directory retrieval gap — 1915-D01
+### Completed directory callout — 1915-D01
 
-The four-part R. L. Polk *Oregon and Washington State Gazetteer and Business Directory, 1915–1916* is now pinned to FamilySearch catalog **1439422** and four exact image ARKs (`S-132` / `E-118`). The catalog and direct viewer route require FamilySearch sign-in, no authenticated external session was available, and no alternate complete scan was recovered. Therefore **no Oregon City directory page was visually reviewed and no occupant finding—positive or negative—was made**. The complete target list and FamilySearch Center/affiliate-library retrieval route are recorded in the [access audit](1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md).
+Authenticated FamilySearch access recovered and visually verified the complete Oregon City business/professional section on printed pp. **260–262** plus relevant located classified druggist/undertaker pages (`S-132` / `E-118`). Five source scans are preserved under `records/directories/1915-1916-polk-oregon-city/`. The source corroborates Harding/drugs, printed Brightbell/grocer, Holman/undertaker, Randall/postmaster and Fashion Livery Stable/G. A. Bergren, but it is not a reverse-street directory and prints no target Main or numbered Fifth address. The section's missing names are coverage statements only, not vacancy or absence evidence. Full locators and uncertainty are recorded in the [visual review](1915-1916-oregon-washington-gazetteer-familysearch-access-audit.md).
 
 ## Research targets that remain active
 
