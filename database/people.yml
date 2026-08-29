@@ -323,6 +323,7 @@ people:
       - B-001
     related_evidence:
       - E-042
+    related_businesses: [BUS-078]
     repository_file: people/profiles/henry-brightbill.md
 
   - id: P-035
@@ -958,3 +959,13 @@ people:
     notes: Directly named as owner at 416 Main in February 1914; later Pantorium ownership and ignition-room hypothesis unresolved.
     related_businesses: [BUS-073]
     repository_file: people/profiles/f-champion.md
+
+  - id: P-094
+    name: Carl R. Harr
+    role: Harr's Recreation Center operator / liquor-license applicant
+    notes: Late-1948 Oregon City Commission text directly identifies Carl R. Harr with Harr's Recreation Center at 505 Main. February minutes separately name Harr as a pool-hall operator. No real-estate ownership or Farr-to-Harr transition date inferred.
+    related_buildings: [B-002]
+    related_businesses: [BUS-014]
+    related_evidence: [E-127]
+    related_sources: [S-142]
+    repository_file: people/profiles/carl-r-harr.md

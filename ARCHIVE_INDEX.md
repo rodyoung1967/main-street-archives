@@ -6,7 +6,7 @@ This index is a human-readable navigation file for the Main Street Archive. It i
 
 For a family member, historian, or other first-time reader who wants to understand the story rather than the repository structure, start with:
 
-1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about the Main Street research area, including 503, 505, 507-511, and 527 Main, the family/business history, and the distinction between documented facts, family testimony, and open dates.
+1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about the Main Street research area. For complete address-centered views, continue with the unified [501](timelines/501-main.md), [503](timelines/503-main.md), and [505](timelines/505-main.md) timelines.
 2. **The files under `buildings/`.** Read the 501/503/505/507–511/527 Main pages for the principal Main Street frontage, and the 107/108/109/110 Fifth pages for the reconstructed Fifth Street cluster.
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
@@ -24,7 +24,7 @@ Latest 1922 targeted checkpoint: [Task 7 model test](evidence/source-captures/19
 
 ### 501 Main Street (historic / removed)
 
-Primary file: `buildings/501-main.md`
+Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)
 
 Direct exact-number occupancy anchors:
 
@@ -36,7 +36,7 @@ These independent license notices do not prove a transfer, rename, common owners
 
 ### 503 Main Street
 
-Primary file: `buildings/503-main.md`
+Primary file: `buildings/503-main.md` · Unified timeline: [`timelines/503-main.md`](timelines/503-main.md)
 
 Associated names and topics:
 
@@ -66,7 +66,7 @@ Key evidence and map sources:
 
 ### 505 Main Street
 
-Primary file: `buildings/505-main.md`
+Primary file: `buildings/505-main.md` · Unified timeline: [`timelines/505-main.md`](timelines/505-main.md)
 
 Associated names and topics:
 
@@ -207,6 +207,9 @@ The business index is the canonical complete list. Central standalone histories 
 - [`BUS-001`–`BUS-003` Kwality Cafe lineage](businesses/kwality-cafe.md) and [`BUS-004` The Wheel](businesses/the-wheel.md) — 503 Main only.
 - [`BUS-005` 505 Tavern / `BUS-009` The 505](businesses/the-505.md), [`BUS-010` Brass Rail](businesses/brass-rail-tavern.md), [`BUS-016` Dug Inn](businesses/dug-inn.md), and [`BUS-006` Thirsty Duck](businesses/thirsty-duck.md) — separate business-name/operator records at 505.
 - [`BUS-018` White Rabbit / Black Ink](businesses/white-rabbit-black-ink.md) — 503 permit/redevelopment-era record.
+- [`BUS-024` Palace Saloon](businesses/palace-saloon.md) and [`BUS-025` Hunsaker & Taylor](businesses/hunsaker-taylor.md) — separately documented 501 Main liquor premises; no unproved succession.
+- [`BUS-078` Henry Brightbill store](businesses/henry-brightbill-store.md), [`BUS-019` H. H. Smith pool hall](businesses/h-h-smith-pool-hall.md), and [`BUS-020` L. Hylton](businesses/l-hylton.md) — early exact-address records at 503.
+- [`BUS-011` Chicago Store](businesses/chicago-store.md), [`BUS-012` Wolf & Miller](businesses/wolf-miller.md), [`BUS-021` Dr. Freeze](businesses/dr-freeze.md), [`BUS-013` Farr's Pool Hall](businesses/farrs-pool-hall.md), [`BUS-022` Dr. Roy Briggs](businesses/dr-roy-briggs.md), [`BUS-014` Harr's Recreation Center](businesses/harrs-recreation-center.md), [`BUS-015` Well's Recreation](businesses/wells-recreation.md), and [`BUS-017` Sports Keg](businesses/sports-keg.md) — distinct documented or explicitly lead-status 505 records.
 - [`BUS-067` G. H. Young / The Curio Man](businesses/gh-young-curio-man.md) — 507 Main by 1912 and again 1914.
 - [`BUS-068` Oregon City Laundry](businesses/oregon-city-laundry.md) — reconstructed Third/Main → Fifth/109 Fifth → fire/recovery chronology.
 - [`BUS-069` May & Washburn](businesses/may-washburn.md), [`BUS-070` Fifth Street Restaurant](businesses/fifth-street-restaurant.md), [`BUS-071` Gilbert Miller shoe repair](businesses/gilbert-miller-shoe-repair.md), and [`BUS-072` Ketchner confectionery](businesses/ketchner-confectionery.md) — July 1922 Fifth Street cluster.
@@ -233,6 +236,7 @@ High-priority people/entities:
 - Victor — restaurant manager during Raye Grisham's Wheel years and early Richard / Dick and Sheila Wheel years at 503
 - Mitch / Mitchell (C.) Young — same person (`P-011` / `P-018`); son of the Wiitanens; acquired the already-named 505 Tavern and ran it March 1991-March 2004; current 505 co-owner
 - Mike Berman — later 505 Tavern owner / seller in 2017
+- Carl R. Harr — directly documented with Harr's Recreation Center at 505 Main in 1948; distinct from Edwin F. and Alice Farr
 - Scott Forvilly — purchased and reopened as Thirsty Duck in 2017
 - Rodney Young — current 505 co-owner with Mitchell Young through 505 LLC / project steward
 - Alin Guria — current 505 lessee and operating-business owner; earlier **Alan** / dual-spelling wording was a project typo

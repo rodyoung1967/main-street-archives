@@ -1,5 +1,11 @@
 # Master Timeline
 
+Address-specific unified timelines supplement this master chronology:
+
+- [501 Main Street](timelines/501-main.md)
+- [503 Main Street](timelines/503-main.md)
+- [505 Main Street](timelines/505-main.md)
+
 > **Task 6 cadastral correction (26 Aug 2026):** the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26. Current 504 across Main remains Block 26. Any passages below that call Block 26 the target odd-numbered block or place 501/503/505 in Block 26 Lot 5 are superseded by `E-094` and `evidence/source-captures/block4-block26-side-of-main-correction-task6-2026-08-26.md`.
 
 
@@ -245,7 +251,7 @@ Aerial evidence establishes that a distinct **501 Main structure existed in 1936
 
 Official historic inventories report **1940** as the primary construction date for **505 Main / 505 Tavern** (`E-100` / `S-116`; corroborated in `S-063`), in tension with the city's **c.1920** synthesis (`E-032`) and pre-1940 Sanborn/aerial occupancy at 505. An **unresolved working hypothesis** (`E-101`) proposes that **1940** may reflect rear expansion or major rear remodel while **c.1920** may describe the Main Street front / historic core. **`E-102`** (August 2026) visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950; preliminary aerial comparison suggests block-level density change by 1940 without isolating 505 rear depth; **1939–1941 permits not recovered**.
 
-City-inventory synthesis separately reports Dr. Roy Briggs at **505½ Main** in 1941, Farr's/Harr's recreation wording in the 1940s, and Well's Recreation in 1953. Those directory transcriptions remain registered but require original-page verification for spelling and exact chronology.
+City-inventory synthesis separately reports Dr. Roy Briggs at **505½ Main** in 1941, **Farr's Pool Hall** before the separately listed **Harr's Recreation Center** in 1945, and **Well's Recreation** in 1953. Late-1948 municipal text independently identifies **Carl R. Harr, Harr's Recreation Center, 505 Main** (`E-127` / `S-142`), proving Harr's is not a Farr transcription error. The exact Farr-to-Harr transition and the original directory pages remain open.
 
 ## 1957–1960 — restaurant and Wheel anchors at 503
 

@@ -80,3 +80,11 @@ The canonical indexes are complete entity lists. Standalone pages are an explana
 ## Validation
 
 Run `python3 scripts/validate_archive.py` after every later entity-page change. Any new stable ID must be synchronized across its Markdown index, YAML record, related building/business/person records, timeline when applicable, and `indexes/id-crosswalk.md`.
+
+## Follow-up correction — 501–505 Main
+
+A steward review exposed a gap in the first pass: twelve already-indexed businesses central to 501, 503, and 505 had not received standalone pages. Those pages are now present for Palace Saloon; Hunsaker & Taylor; H. H. Smith; L. Hylton; Chicago Store; Wolf & Miller; Farr's Pool Hall; Harr's Recreation Center; Well's Recreation; Sports Keg; Dr. Freeze; and Dr. Roy Briggs.
+
+The follow-up also adds Henry Brightbill's 1908 store as `BUS-078`, Carl R. Harr as `P-094`, and the text-only 1948 municipal evidence/source records `E-127` / `S-142`. Farr and Harr are preserved as distinct businesses and people; their exact transition date is still open. The canonical totals are now **14 buildings, 78 businesses, and 94 people/entities**.
+
+Three unified, address-centered narratives now supplement the master timeline: [`501 Main`](../timelines/501-main.md), [`503 Main`](../timelines/503-main.md), and [`505 Main`](../timelines/505-main.md). Cross-address events may appear in more than one file when needed to explain boundaries, fire history, or business/property distinctions. This correction does not alter any annual-review status.

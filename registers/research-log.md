@@ -104,3 +104,13 @@ Final enlarged-name check:1907 **NOEBEL**,1908 **NOBEL**, both 712 Main. Replace
 - Full method and page-coverage rule: `registers/entity-page-audit-2026-08-29.md`.
 
 This was an integration/reconciliation pass, not new annual certification. All annual statuses remain unchanged; no absence result was converted into vacancy, closure, demolition, relocation, or non-use.
+
+## 29 August 2026 — 501/503/505 business-page and unified-timeline follow-up
+
+- Added standalone pages for the twelve central 501–505 businesses missed by the first entity-page audit.
+- Added `BUS-078` Henry Brightbill's store and linked it to `P-034`, `B-001`, `E-042`, and `S-049`.
+- Added `P-094` Carl R. Harr and `E-127` / `S-142` for the text-only 1948 municipal records directly naming Harr's Recreation Center at 505 Main.
+- Kept Farr's Pool Hall and Harr's Recreation Center distinct; the exact transition remains unresolved.
+- Added complete unified address timelines for 501, 503, and 505 Main and linked them from the master timeline, building pages, registers, and archive navigation.
+
+This was a repository-integration correction, not an annual certification or a claim that all gaps in the three address chronologies are resolved.

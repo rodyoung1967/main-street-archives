@@ -14,21 +14,21 @@
 | BUS-008 | Tony's Restaurant | 507 Main | Associated with Harding Building before fire. |
 | BUS-009 | [The 505](the-505.md) | 505 Main | Earlier archive handling label for the 505 Main Street business context. Keep as a related name; participant testimony establishes **505 Tavern** (`BUS-005`) as the name already in use when Mitch acquired the business in March 1991. |
 | BUS-010 | [Brass Rail Tavern](brass-rail-tavern.md) | 505 Main | Family history: Dick and Sheila operated Brass Rail before they owned the 505 building; they later purchased that building from Mrs. Nesmeth/Nemeth. April 1988 Commission record identifies The Dug Inn as formerly Brass Rail and records a Wiitanen-to-Cotterell transfer in the later sale/repo/transfer cycle. |
-| BUS-011 | The Chicago Store | 505 Main | Newspaper ads April 1911 and January 1913: new/second-hand clothing, cleaning and repairing. |
-| BUS-012 | Wolf & Miller | 505 Main | 10 October 1918 Oregon City Courier: shoe business / shoe-repair department. Earlier Springfield association directly names Gilbert Miller (P-046), 3 February 1916 (E-113/S-125); not 1916 occupancy at 505. Wolf given name and legal shares unresolved. |
-| BUS-013 | Farr's Pool Hall | 505 Main | Edwin F. and Alice Farr, proprietors; City inventory of their residence. |
-| BUS-014 | Harr's Recreation Center | 505 Main | City inventory transcription of 1945 directory. Preserve exactly; may be Farr/Harr conflict. |
-| BUS-015 | Well's Recreation | 505 Main | City inventory reports 1953 directory; spelling to verify. |
+| BUS-011 | [The Chicago Store](chicago-store.md) | 505 Main | Exact-address ads in 1911 and 1913; physical-building continuity unresolved. |
+| BUS-012 | [Wolf & Miller](wolf-miller.md) | 505 Main | October 1918 shoe/repair business; identities and 1916 Springfield bridge limits preserved. |
+| BUS-013 | [Farr's Pool Hall](farrs-pool-hall.md) | 505 Main | Edwin F. and Alice Farr; operating span unresolved. |
+| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | 1945 secondary and late-1948 direct Carl R. Harr evidence; distinct from Farr's. |
+| BUS-015 | [Well's Recreation](wells-recreation.md) | 505 Main | Reported 1953 directory entry; spelling/page verification open. |
 | BUS-016 | [The Dug Inn](dug-inn.md) | 505 Main | April 1988 Commission record: formerly The Brass Rail; Wiitanen-to-Cotterell transfer. Place within the later business sale/repo/transfer cycle after the original Dick/Sheila Brass Rail period and later 505 property purchase. |
-| BUS-017 | Sports Keg | 505 Main | Family recollection, late 1980s / early 1990s during sale/repossession cycle. Research lead. |
+| BUS-017 | [Sports Keg](sports-keg.md) | 505 Main | Family recollection; dates/operator remain a research lead. |
 | BUS-018 | [White Rabbit / Black Ink](white-rabbit-black-ink.md) | 503 Main | 2016-2017 renovation and later use; 2017 article `E-001`; municipal permits `E-098` and `E-099`. |
-| BUS-019 | H. H. Smith pool hall | 503 Main | March 1912 license application; grant not independently proven. |
-| BUS-020 | L. Hylton cigar and tobacco | 503 Main | February 1914 Courier industrial edition. |
-| BUS-021 | Dr. Freeze, Eye Specialist | 505 / 505 1/2 Main | 1921-1922 newspaper ads; later Masonic Building. |
-| BUS-022 | Dr. Roy Briggs, dentist | 505 1/2 Main | 1941 directory per City inventory. |
+| BUS-019 | [H. H. Smith pool hall](h-h-smith-pool-hall.md) | 503 Main | H.N./H.H. initials conflict preserved; license grant unproved. |
+| BUS-020 | [L. Hylton cigar and tobacco](l-hylton.md) | 503 Main | February/April 1914 exact-address evidence. |
+| BUS-021 | [Dr. Freeze, Eye Specialist](dr-freeze.md) | 505 / 505 1/2 Main | 1921–1922 ads; later Masonic Building. |
+| BUS-022 | [Dr. Roy Briggs, dentist](dr-roy-briggs.md) | 505 1/2 Main | 1941 official-secondary directory entry. |
 | BUS-023 | Dixon's Bakery | 5th–6th / Main block | Gutted in the 1 September 1967 fire (`E-045`). Exact street number pending. |
-| BUS-024 | Palace Saloon | 501 Main | Joe Wilson's 19 March 1912 liquor-license application (`E-104`). No ownership, continuity, or later business relationship assumed. |
-| BUS-025 | Hunsaker & Taylor liquor premises | 501 Main | 3 October 1913 liquor-license application (`E-104`). The printed partnership/business style is retained; individual identities and relationship to Palace Saloon are unresolved. |
+| BUS-024 | [Palace Saloon](palace-saloon.md) | 501 Main | Joe Wilson's 19 March 1912 application; no ownership/continuity inferred. |
+| BUS-025 | [Hunsaker & Taylor liquor premises](hunsaker-taylor.md) | 501 Main | 3 October 1913 application; individual identities and Palace relationship unresolved. |
 | BUS-026 | W. W. Bradley furniture | 507 Main | Dated August–October 1915 listings (`E-107`, `P-041`); no uninterrupted occupancy or Young-to-Bradley transfer assumed. |
 | BUS-027 | H. P. Brightbill grocery | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
 | BUS-028 | [Price Bros. clothing store](price-bros.md) | 527 Main (5 Aug. 1915) | Al Price `P-043` named proprietor in same-issue incident report; distinct from Bailey & Price unless an identity/succession bridge is found. `E-107`. |
@@ -118,3 +118,4 @@ These records were already part of the evidence narrative but previously lacked 
 | BUS-075 | [Alex Schieremann tailor shop](alex-schieremann-tailor.md) | Former Main Street ignition-room tenant; number unresolved | Local fire report; exact address and vacancy date unresolved. `P-085`; `E-103`. |
 | BUS-076 | [Timms Pool Hall](timms-pool-hall.md) | Oregon City; exact address unresolved | Separately named June 1922; not merged with Leland & Little or fire-adjacent pool hall. `E-126`. |
 | BUS-077 | [Leland & Little Billiards](leland-little.md) | Oregon City; exact address unresolved | Exists by Feb. 1922; billiards by Aug.; 505 billiards/cigars match is a lead only. `E-126`. |
+| BUS-078 | [Henry Brightbill's store](henry-brightbill-store.md) | 503 Main | Direct 25 August 1908 address; trade name/merchandise and building continuity unresolved. `E-042`. |

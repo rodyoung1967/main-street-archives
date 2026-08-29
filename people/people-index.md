@@ -128,3 +128,4 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-091 | [Timms](profiles/timms.md) | Timms Pool Hall name/person style | Given name, address and fire relationship unresolved. |
 | P-092 | [R. A. Junken](profiles/r-a-junken.md) | Contractor | Contractor for Gates's August 1922 hollow-tile replacement. |
 | P-093 | [F. Champion](profiles/f-champion.md) | Pantorium owner | Directly at 416 Main in 1914; later Pantorium ownership continuity unproved. |
+| P-094 | [Carl R. Harr](profiles/carl-r-harr.md) | Harr's Recreation Center operator / license applicant | Late-1948 municipal text directly identifies Harr's at 505; property ownership and Farr transition unresolved. |

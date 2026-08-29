@@ -747,6 +747,8 @@ evidence:
       - S-049
     related_people:
       - P-034
+    related_businesses:
+      - BUS-078
     related_buildings:
       - B-001
     related_media:
@@ -2032,3 +2034,18 @@ evidence:
     related_businesses: [BUS-076, BUS-077]
     related_people: [P-089, P-090, P-091]
     repository_file: evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md
+
+  - id: E-127
+    name: Carl R. Harr and Harr's Recreation Center at 505 Main, 1948
+    type: Primary municipal text evidence; not visually certified
+    claims:
+      - February 1948 Commission text names Harr and McDougald as pool-hall operators but gives no first name, business, or address.
+      - A separate late-1948 liquor-license list directly identifies Carl R. Harr, Harr's Recreation Center, 505 Main Street.
+      - Harr's is distinct from Farr's Pool Hall; exact transition remains unresolved.
+      - The later excerpt lacks its opening meeting page, so no exact later date is assigned.
+    confidence: Very High for readable primary text; OCR/TEXT ONLY pending page-image certification.
+    related_sources: [S-142]
+    related_businesses: [BUS-014]
+    related_people: [P-094]
+    related_buildings: [B-002]
+    repository_file: evidence/source-captures/1948-harrs-recreation-center-505-main.md

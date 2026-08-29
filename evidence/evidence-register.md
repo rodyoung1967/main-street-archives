@@ -966,3 +966,15 @@ Claims:
 - Timms and Leland & Little must remain distinct records; neither is proved at 505 Main or as the unnamed pool hall adjoining the July fire-origin room.
 
 Record: `evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md`.
+
+## E-127 — Carl R. Harr and Harr's Recreation Center at 505 Main, 1948
+Type: Primary municipal text evidence; **OCR/TEXT ONLY** pending page-image certification.
+Confidence: Very High for readable text; exact later meeting date and visual certification remain open.
+Source: `S-142`.
+
+- February 1948 Commission text names Harr and McDougald as pool-hall operators but does not print Harr's first name, business, or address.
+- A separate late-1948 liquor-license list directly identifies **Carl R. Harr, Harr's Recreation Center, 505 Main Street**.
+- This establishes Harr's as distinct from Farr's Pool Hall; the exact transfer/succession date remains unresolved.
+- The later excerpt lacks its opening page, so no exact December meeting date is assigned.
+
+Record: `evidence/source-captures/1948-harrs-recreation-center-505-main.md`.

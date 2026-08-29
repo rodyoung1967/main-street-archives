@@ -169,6 +169,8 @@ businesses:
       - B-002
     related_evidence:
       - E-026
+    related_sources: [S-032]
+    repository_file: businesses/chicago-store.md
 
   - id: BUS-012
     name: Wolf & Miller
@@ -181,9 +183,12 @@ businesses:
     related_evidence:
       - E-027
       - E-113
+      - E-124
     related_sources:
       - S-034
       - S-125
+      - S-138
+    repository_file: businesses/wolf-miller.md
 
   - id: BUS-013
     name: Farr's Pool Hall
@@ -196,15 +201,21 @@ businesses:
       - P-029
     related_evidence:
       - E-033
+    related_sources: [S-036]
+    repository_file: businesses/farrs-pool-hall.md
 
   - id: BUS-014
     name: Harr's Recreation Center
     address: 505 Main
-    notes: City inventory transcription of 1945 directory. Preserve exact wording; Farr/Harr unresolved.
+    notes: City inventory transcribes a 1945 entry; late-1948 primary municipal text directly names Carl R. Harr, Harr's Recreation Center, 505 Main. Harr is distinct from Farr; exact transition remains unresolved.
     related_buildings:
       - B-002
+    related_people: [P-094]
     related_evidence:
       - E-032
+      - E-127
+    related_sources: [S-033, S-142]
+    repository_file: businesses/harrs-recreation-center.md
 
   - id: BUS-015
     name: Well's Recreation
@@ -214,6 +225,8 @@ businesses:
       - B-002
     related_evidence:
       - E-032
+    related_sources: [S-033]
+    repository_file: businesses/wells-recreation.md
 
   - id: BUS-016
     name: The Dug Inn
@@ -237,6 +250,8 @@ businesses:
       - B-002
     related_evidence:
       - E-041
+    related_sources: [S-028]
+    repository_file: businesses/sports-keg.md
 
   - id: BUS-018
     name: White Rabbit / Black Ink
@@ -263,6 +278,8 @@ businesses:
       - P-023
     related_evidence:
       - E-023
+    related_sources: [S-024]
+    repository_file: businesses/h-h-smith-pool-hall.md
 
   - id: BUS-020
     name: L. Hylton cigar and tobacco
@@ -274,6 +291,8 @@ businesses:
       - P-024
     related_evidence:
       - E-024
+    related_sources: [S-025]
+    repository_file: businesses/l-hylton.md
 
   - id: BUS-021
     name: Dr. Freeze, Eye Specialist
@@ -285,6 +304,8 @@ businesses:
       - P-027
     related_evidence:
       - E-028
+    related_sources: [S-035]
+    repository_file: businesses/dr-freeze.md
 
   - id: BUS-022
     name: Dr. Roy Briggs, dentist
@@ -296,6 +317,8 @@ businesses:
       - P-030
     related_evidence:
       - E-032
+    related_sources: [S-033]
+    repository_file: businesses/dr-roy-briggs.md
 
   - id: BUS-023
     name: Dixon's Bakery
@@ -318,6 +341,7 @@ businesses:
       - E-104
     related_sources:
       - S-118
+    repository_file: businesses/palace-saloon.md
 
   - id: BUS-025
     name: Hunsaker & Taylor liquor premises
@@ -331,6 +355,7 @@ businesses:
       - E-104
     related_sources:
       - S-119
+    repository_file: businesses/hunsaker-taylor.md
 
   - id: BUS-026
     name: W. W. Bradley furniture
@@ -926,3 +951,13 @@ businesses:
     related_evidence: [E-126]
     related_sources: [S-141]
     repository_file: businesses/leland-little.md
+
+  - id: BUS-078
+    name: Henry Brightbill's store
+    address: 503 Main
+    notes: Oregonian of 25 August 1908 directly identifies merchant Henry Brightbill's store at 503 Main. Trade name and merchandise are not stated; no H. P. Brightbill merger or surviving-building continuity inferred.
+    related_buildings: [B-001]
+    related_people: [P-034]
+    related_evidence: [E-042]
+    related_sources: [S-049]
+    repository_file: businesses/henry-brightbill-store.md

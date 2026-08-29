@@ -693,3 +693,9 @@ sources:
     name: 1922 Timms / Leland & Little billiards source set
     url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
     notes: Visually verified 25 February, 8 June and 17 August pages establish Leland & Little by February, separately name Timms Pool Hall/Walter Little/O. H. Leland in June, and identify Leland and Little as billiards in August. Exact addresses and fire-adjacent identity unresolved. Related evidence E-126.
+
+  - id: S-142
+    name: Oregon City Commission Harr pool-hall and liquor-license records, 1948
+    url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document
+    notes: Primary municipal text. February record names Harr and McDougald as pool-hall operators; separate late-1948 record 4722834 directly identifies Carl R. Harr, Harr's Recreation Center, 505 Main. Text reviewed; page images not certified. Later excerpt lacks opening page, so exact meeting date is not assigned. Related evidence E-127.
+    repository_file: evidence/source-captures/1948-harrs-recreation-center-505-main.md

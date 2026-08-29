@@ -939,3 +939,9 @@ Type: Primary newspaper scans; cited pages **VISUALLY VERIFIED**.
 URLs: https://oregonnews.uoregon.edu/lccn/sn83025138/1922-02-25/ed-1/seq-15.pdf ; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/ ; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/
 Evidence: `E-126`.
 Notes: The 25 February Portina list names Leland & Little and separately Little, W. L.; the 8 June merchant roster separately names Walter Little, Timms Pool Hall, and O. H. Leland; the 17 August business list identifies Leland and Little as billiards. None of the pages prints an address or identifies the unnamed pool hall adjoining the July fire-origin room.
+
+## S-142 — Oregon City Commission Harr pool-hall and liquor-license records, 1948
+Type: Primary municipal text; **OCR/TEXT ONLY** pending page-image certification.
+URLs: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document ; https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722834/File/document
+Evidence: `E-127`. Record: `evidence/source-captures/1948-harrs-recreation-center-505-main.md`.
+Notes: The 11 February record names Harr and McDougald as pool-hall operators but gives no first name/business/address. The later-1948 list directly prints **Carl R. Harr — Harr's Recreation Center — 505 Main Street**. Its opening meeting page is missing, so no exact date is invented. Text layers were reviewed; page images were not certified.
