@@ -56,10 +56,18 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `B-001` 503 Main Street | `BUS-001` Kwality Cafe; `BUS-004` The Wheel / Wheel Cafe at **503 only** | `E-001`, `E-002`, `E-003`, `E-020`, `E-021`, `E-022`, `E-025`, `E-042`–`E-045`, `E-047`–`E-049`, `E-094`–`E-099`, `E-103`, `E-108`; `S-024`-`S-028`, `S-048`–`S-052`, `S-054`–`S-058`, `S-107`–`S-115`, `S-117`. **Do not attach `E-038` to 503; the former Mrs. Nemeth/Nesmeth 503 purchase claim is superseded.** `E-095` is an archival lead; `E-096`–`E-097` and `E-103` leave 503's Gates/Wolf assignment unresolved. |
 | `B-002` 505 Main Street | `BUS-005` 505 Tavern; `BUS-006` Thirsty Duck; `BUS-010` Brass Rail; `BUS-016` Dug Inn | `E-004`, `E-005`, `E-022`, `E-026`-`E-039`, `E-041`, `E-045`, `E-046`, `E-094`–`E-103`, `E-108`; `S-028`, `S-032`-`S-043`, `S-048`, `S-052`, `S-053`, `S-107`–`S-117`. `E-038` records the corrected Wiitanen purchase of the **505 building** from Mrs. Nesmeth/Nemeth after they had already begun operating Brass Rail. `E-100`/`S-116` corroborate **1940** inventory date from 2009 resurvey; **`E-101`** holds unresolved rear-expansion hypothesis for that date; **`E-102`** records August 2026 Sanborn/aerial footprint pass; `E-103` preserves the 1922 fire page without resolving 505's role. Interval pass: `evidence/source-captures/1973-1987-503-505-research-pass.md`. Rear/1940 hypothesis: `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md`; footprint pass: `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`. |
-| `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery fire context | Original-building evidence `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`, `E-108`; OHS retrieval lead `E-095`; `S-052`, `S-107`–`S-110`. Present replacement building dated **1968** by `S-063`. |
+| `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery; `BUS-026` W. W. Bradley; `BUS-027` H. P. Brightbill; `BUS-067` G. H. Young | Original-building and address-ladder evidence `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-092`, `E-094`, `E-107`–`E-109`; OHS retrieval lead `E-095`; `S-052`, `S-107`–`S-110`, `S-120`, `S-121`, `S-130`. Present replacement building dated **1968** by `S-063`; do not backdate that consolidated footprint to the distinct 507/509/511 storefronts. |
 | `B-004` 527 Main Street / Swartz Building | Bailey & Price (1912; unmerged); Price Bros. `BUS-028` / Al Price `P-043` (1915) | `S-061` documents Bailey & Price in 1912; `E-107` / `S-120` documents Price Bros. at 527 in the 5 August 1915 directory and the same-issue incident report. No succession/identity bridge. `E-053`, `S-062`, `S-063` date the present **Swartz Building** to **1935**. |
 | `B-005` 501 Main Street (historic / removed) | `BUS-024` Palace Saloon (1912); `BUS-025` Hunsaker & Taylor liquor premises (1913); 1925 store occupant unknown | `E-020`, `E-021`, `E-054`–`E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`; `S-021`, `S-023`, `S-064`–`S-069`, `S-107`, `S-108`, `S-111`–`S-113`, `S-117`–`S-119`. The 1912/1913 notices do not prove a transfer or continuity. Gates's corner site may map principally to 501 or include 503; 501 remains live until the July restaurant address is proved. |
 | `B-006` 513 Fifth Street (historic residence) | No business established | `E-106` / `S-118`: H. M. Templeton home, then occupied by M. D. Phillips and family in March 1912. Residential record only; no commercial/fire-cluster relation inferred. |
+| `B-007` 107 Fifth Street | Tenant unresolved; Blacksmith use | `E-117` / `S-131`: exact ledger address/use; no named tenant inferred. |
+| `B-008` 108 Fifth Street | `BUS-039` Scripture & May; later S. F. Scripture | `E-119`, `E-120`, `E-124`; `S-133`, `S-134`, `S-138`. No bridge to 110 Fifth, Fashion Stable or May & Washburn. |
+| `B-009` 109 Fifth Street / Oregon City Laundry | `BUS-068`; Blakeslee and later Knoepel/Schofield chronology | `E-124`, `E-125`, `E-103`, `E-102`. Pre-fire plant destroyed July 1922; 1925 mapped laundry is later physical presence. |
+| `B-010` 110 Fifth Street | Stable use; probable Scripture & May tenant reading only | `E-117` / `S-131`. Do not convert probable handwriting into a tenant fact. |
+| `B-011` 519 Main Street | `BUS-029` Theroux; `BUS-073` Pantorium; temporary `BUS-068` laundry office | `E-107`, `E-120`, `E-103`. Temporary office is not production use. |
+| `B-012` 526 Main Street | `BUS-032` Eddy's Dependable Store | `E-109` / `S-121`; one dated advertisement, proprietor/title unresolved. |
+| `B-013` 617 Main / Beaver Building | `BUS-031`, `BUS-037`, `BUS-040` | `E-109`, `E-116`, `E-119`, `E-120`; dated occupants, not one-room succession. |
+| `B-014` 619 Main / Andresen Building | `BUS-031` Electric Store/power offices | `E-119`, `E-120`; exact 1916–1917 address, earlier Andresen references not backdated. |
 
 ## Person / Business Crosswalk
 
@@ -87,6 +95,13 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-038` Hunsaker & Taylor | `BUS-025`, `B-005`, `E-104`, `S-119` | Printed partnership/style at 501 Main in October 1913; individual identities unresolved. |
 | `P-039` H. M. Templeton | `B-006`, `E-106`, `S-118` | 513 Fifth resident in March 1912; wife's given name not printed. |
 | `P-040` M. D. Phillips | `B-006`, `E-106`, `S-118` | Occupied the Templeton 513 Fifth home with family in March 1912. |
+| `P-076` G. H. Young / George Young | `BUS-067`, `B-003`, `E-085`, `E-092` | 1911 Harding-to-Willamette move; 507 Main in 1912 and 1914; exact building-name bridge unresolved. |
+| `P-077`–`P-081` Blakeslee / Knoepel / Schofield records | `BUS-068`, `B-009`, `E-103`, `E-124`, `E-125` | Distinct dated Oregon City Laundry roles; no silent identity or ownership merger. |
+| `P-082` S. F. Scripture / `P-083` L. E. May | `BUS-039`, `B-008` | Scripture & May at 108 Fifth; later May & Washburn identity/succession unproved. |
+| `P-085`–`P-088` Schieremann / Ketchner / Blake / Gage-Blake conflict | `BUS-070`, `BUS-072`, `BUS-075`, `E-103` | July 1922 fire cluster; address and owner/operator conflicts preserved. |
+| `P-089`–`P-091` Leland / Little / Timms | `BUS-076`, `BUS-077`, `E-126` | Distinct billiards identities/records; no 505 or fire-adjacent assignment. |
+| `P-092` R. A. Junken | `BUS-070`, `E-097` | Contractor for Gates's August 1922 replacement; exact footprint unresolved. |
+| `P-093` F. Champion | `BUS-073` | Pantorium owner at 416 Main in 1914; later continuity unproved. |
 
 ## Maintenance Rule
 

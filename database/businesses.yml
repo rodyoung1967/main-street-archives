@@ -98,6 +98,7 @@ businesses:
       - P-013
     related_evidence:
       - E-008
+    repository_file: businesses/thirsty-duck.md
 
   - id: BUS-007
     name: Harding Drug Store
@@ -226,6 +227,7 @@ businesses:
       - P-031
     related_evidence:
       - E-030
+    repository_file: businesses/dug-inn.md
 
   - id: BUS-017
     name: Sports Keg
@@ -249,6 +251,7 @@ businesses:
     related_sources:
       - S-114
       - S-115
+    repository_file: businesses/white-rabbit-black-ink.md
 
   - id: BUS-019
     name: H. H. Smith pool hall
@@ -521,13 +524,16 @@ businesses:
     name: Scripture & May
     address: 108 Fifth
     notes: Exact address verified in selected September-December 1916 ads and again January 4 and February 1, 1917; August 2 reports an employee joining the blacksmith shop without a number. Ledger 110 tenant reading and May & Washburn bridge unresolved.
-    related_people: []
-    related_evidence:
-    - E-119
-    - E-120
+    related_people: [P-082, P-083]
+    related_buildings: [B-008]
     related_sources:
     - S-133
     - S-134
+    - S-138
+    related_evidence:
+    - E-119
+    - E-120
+    - E-124
   - id: BUS-040
     name: Jones Drug Company
     address: 617 Main by 1 November 1917; Andresen Building move prospect in 1916
@@ -819,3 +825,104 @@ businesses:
     - E-123
     related_sources:
     - S-135
+
+  - id: BUS-067
+    name: G. H. Young — The Curio Man / second-hand and furniture business
+    address: 507 Main by January 1912; again in 1914
+    notes: George Young moved one door north from Harding Building to Willamette Building in March 1911; later exact 507 anchors strengthen but do not prove the building-name bridge or uninterrupted occupancy.
+    related_people: [P-076]
+    related_buildings: [B-003]
+    related_evidence: [E-085, E-092]
+    related_sources: [S-098, S-102]
+    repository_file: businesses/gh-young-curio-man.md
+
+  - id: BUS-068
+    name: Oregon City Laundry
+    address: 109 Fifth by October 1918; temporary office 519 Main after July 1922 fire
+    notes: Fifth Street construction-site change documented in 1916; pre-fire plant destroyed July 1922; 1925 laundry is a later physical presence and not proved identical footprint.
+    related_people: [P-077, P-078, P-079, P-080, P-081]
+    related_buildings: [B-009, B-011]
+    related_evidence: [E-102, E-103, E-124, E-125]
+    related_sources: [S-021, S-117, S-138, S-139, S-140]
+    repository_file: businesses/oregon-city-laundry.md
+
+  - id: BUS-069
+    name: May & Washburn garage
+    address: Fifth/Main fire cluster; exact number unresolved
+    notes: Partnership documented by December 1920; frame garage and two automobiles destroyed July 1922. Continued later. No S. F. Scripture/L. E. May identity or 108 Fifth succession assumed.
+    related_people: [P-083, P-084]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: businesses/may-washburn.md
+
+  - id: BUS-070
+    name: Fifth Street Restaurant
+    address: Fifth/Main corner property; exact number unresolved
+    notes: Gates received restaurant location in July 1922 Harding property sale; building burned five days later and was replaced with a two-story hollow-tile building. Gage/Blake owner-operator conflict preserved.
+    related_people: [P-036, P-087, P-088, P-092]
+    related_evidence: [E-096, E-097, E-103]
+    related_sources: [S-111, S-112, S-113, S-117]
+    repository_file: businesses/fifth-street-restaurant.md
+
+  - id: BUS-071
+    name: Gilbert Miller shoe repair / Miller's Shoe Store
+    address: Pre-fire address unresolved; 209 Fifth then 419 Main after July 1922 fire
+    notes: Named in Harding property group and destroyed fire cluster; post-fire addresses do not identify pre-fire room. 1918 C. E. Miller/Gilbert Miller discrepancy remains.
+    related_people: [P-046]
+    related_evidence: [E-096, E-103, E-113]
+    related_sources: [S-111, S-117, S-125]
+    repository_file: businesses/gilbert-miller-shoe-repair.md
+
+  - id: BUS-072
+    name: H. Ketchner home and confectionery
+    address: Next to Oregon City Laundry; exact number unresolved
+    notes: Same-page July 1922 report identifies combined home/confectionery and places it next to laundry; title and parcel unresolved.
+    related_people: [P-086]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: businesses/ketchner-confectionery.md
+
+  - id: BUS-073
+    name: Oregon City Pantorium / Pantorium Cleaners
+    address: 416 Main in 1914; 500 Main in 1918; 519 Main by 20 July 1922
+    notes: Cleaning/dyeing business with multiple documented moves. Candidate for recent ignition-room tenant only; exact 17 July 1922 location unresolved.
+    related_people: [P-093]
+    related_buildings: [B-011]
+    related_evidence: [E-103, E-124]
+    related_sources: [S-117, S-138]
+    repository_file: businesses/pantorium-cleaners.md
+
+  - id: BUS-074
+    name: Red Front Clothing Store
+    address: Harding Main Street property group; exact number unresolved
+    notes: Named in 13 July 1922 property-sale report and damaged in fire accounts; proprietor and Gates/Wolf allocation unresolved.
+    related_evidence: [E-096]
+    related_sources: [S-111]
+    repository_file: businesses/red-front-clothing-store.md
+
+  - id: BUS-075
+    name: Alex Schieremann tailor shop
+    address: Former Main Street fire-origin room; exact number unresolved
+    notes: Local fire report says vacant ignition room had formerly been occupied by Schieremann as tailor shop. Exact number, departure date and relation to cleaner/dyer wording unresolved.
+    related_people: [P-085]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: businesses/alex-schieremann-tailor.md
+
+  - id: BUS-076
+    name: Timms Pool Hall
+    address: Oregon City; exact address unresolved
+    notes: Separately named in 8 June 1922 merchant roster. No merger with Leland & Little or fire-adjacent pool hall.
+    related_people: [P-091]
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    repository_file: businesses/timms-pool-hall.md
+
+  - id: BUS-077
+    name: Leland & Little Billiards
+    address: Oregon City; exact address unresolved
+    notes: Listed as cigar dealer by February 1922 and as billiards in August. Functional match to 1925 505 billiards/cigars is a lead only; partners, address and fire-adjacent identity unresolved.
+    related_people: [P-089, P-090]
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    repository_file: businesses/leland-little.md

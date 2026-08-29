@@ -58,6 +58,7 @@ people:
       - B-002
     related_businesses:
       - BUS-005
+    repository_file: people/profiles/ray-hansen.md
 
   - id: P-006
     name: Raye LaFarlette / Raye Grisham
@@ -83,6 +84,7 @@ people:
       - BUS-005
       - BUS-010
       - BUS-016
+    repository_file: people/profiles/richard-dick-wiitanen.md
 
   - id: P-008
     name: Sheila Wiitanen
@@ -96,6 +98,7 @@ people:
       - BUS-005
       - BUS-010
       - BUS-016
+    repository_file: people/profiles/sheila-wiitanen.md
 
   - id: P-009
     name: Willie
@@ -147,6 +150,7 @@ people:
     notes: Inherited 505 Main Street with Mitchell Young from Richard / Dick Wiitanen's estate after his November 2024 death. Co-owns through 505 LLC. Archive steward. Managing member/signatory on 2025 505 lease.
     related_buildings:
       - B-002
+    repository_file: people/profiles/rodney-young.md
 
   - id: P-015
     name: Young family
@@ -189,6 +193,7 @@ people:
       - B-002
     related_businesses:
       - BUS-006
+    repository_file: people/profiles/alin-guria.md
 
   - id: P-020
     name: Skyline Property Management
@@ -318,6 +323,7 @@ people:
       - B-001
     related_evidence:
       - E-042
+    repository_file: people/profiles/henry-brightbill.md
 
   - id: P-035
     name: S. Wolf
@@ -354,6 +360,7 @@ people:
       - E-104
     related_sources:
       - S-118
+    repository_file: people/profiles/joe-wilson.md
 
   - id: P-038
     name: Hunsaker & Taylor
@@ -792,3 +799,162 @@ people:
     - E-123
     related_sources:
     - S-135
+
+  - id: P-076
+    name: G. H. Young / George Young
+    role: Curio, second-hand and furniture merchant
+    notes: Moved one door north from Harding Building to Willamette Building in March 1911; directly listed at 507 Main in 1912 and 1914. Exact initials and building-name bridge unresolved.
+    related_businesses: [BUS-067]
+    related_buildings: [B-003]
+    related_evidence: [E-085, E-092]
+    related_sources: [S-098, S-102]
+    repository_file: people/profiles/g-h-young.md
+
+  - id: P-077
+    name: O. L. Blakeslee
+    role: Oregon City Laundry operator/proprietor context
+    notes: Named with Oregon City Laundry at Third and Main in 1910. Not merged with E. M. or M. L. Blakeslee without proof.
+    related_businesses: [BUS-068]
+    repository_file: people/profiles/o-l-blakeslee.md
+
+  - id: P-078
+    name: E. M. Blakeslee
+    role: Oregon City Laundry site-change actor
+    notes: Named in visually verified 17 February 1916 report trading intended rear-Courier building site for Fifth Street location.
+    related_businesses: [BUS-068]
+    related_buildings: [B-009]
+    related_evidence: [E-125]
+    related_sources: [S-139]
+    repository_file: people/profiles/e-m-blakeslee.md
+
+  - id: P-079
+    name: M. L. Blakeslee
+    role: Oregon City Laundry proprietor
+    notes: Directly listed as proprietor at 109 Fifth in 24 October 1918 business guide.
+    related_businesses: [BUS-068]
+    related_buildings: [B-009]
+    related_evidence: [E-124]
+    related_sources: [S-138]
+    repository_file: people/profiles/m-l-blakeslee.md
+
+  - id: P-080
+    name: Knoepel
+    role: Oregon City Laundry operator
+    notes: Knoepel & Schofield reported operating the laundry when the plant burned in July 1922; given name and legal terms unresolved.
+    related_businesses: [BUS-068]
+    related_buildings: [B-009]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: people/profiles/knoepel.md
+
+  - id: P-081
+    name: Schofield
+    role: Oregon City Laundry operator
+    notes: Knoepel & Schofield reported operating the laundry when the plant burned in July 1922; given name and legal terms unresolved.
+    related_businesses: [BUS-068]
+    related_buildings: [B-009]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: people/profiles/schofield.md
+
+  - id: P-082
+    name: S. F. Scripture
+    role: Blacksmith / carriage and auto works operator
+    notes: Partner in Scripture & May; business directly at 108 Fifth in 1916–1918 and S. F. Scripture directly there June 1922. No 110/Fashion Stable bridge.
+    related_businesses: [BUS-039]
+    related_buildings: [B-008]
+    related_evidence: [E-119, E-120, E-124]
+    related_sources: [S-133, S-134, S-138]
+    repository_file: people/profiles/s-f-scripture.md
+
+  - id: P-083
+    name: L. E. May
+    role: Scripture & May partner
+    notes: Identity with May in May & Washburn and any 108 Fifth succession remain research leads only.
+    related_businesses: [BUS-039, BUS-069]
+    related_buildings: [B-008]
+    repository_file: people/profiles/l-e-may.md
+
+  - id: P-084
+    name: Washburn
+    role: May & Washburn garage partner
+    notes: Frame garage and two automobiles destroyed July 1922; given name, exact address and partnership terms unresolved.
+    related_businesses: [BUS-069]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: people/profiles/washburn.md
+
+  - id: P-085
+    name: Alex Schieremann
+    role: Tailor / former fire-origin room tenant
+    notes: Local fire report identifies former tailor-shop occupancy of vacant ignition room; exact number, departure date and cleaner/dyer relationship unresolved.
+    related_businesses: [BUS-075]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: people/profiles/alex-schieremann.md
+
+  - id: P-086
+    name: H. Ketchner
+    role: Confectioner / resident
+    notes: Home/confectionery identified in July 1922 fire cluster and placed next to laundry; exact address and title unresolved.
+    related_businesses: [BUS-072]
+    related_evidence: [E-103]
+    related_sources: [S-117]
+    repository_file: people/profiles/h-ketchner.md
+
+  - id: P-087
+    name: J. Blake
+    role: Reported Fifth Street Restaurant operator
+    notes: One 19 July 1922 wire account; Gage/Blake owner-operator descriptions conflict across reports.
+    related_businesses: [BUS-070]
+    repository_file: people/profiles/j-blake.md
+
+  - id: P-088
+    name: Ed Gage / Ed Blake source conflict
+    role: Reported Fifth Street Restaurant owner/name conflict
+    notes: Contemporary accounts variously print Ed Gage and Ed. Blake. Preserve without identity merger or silent correction.
+    related_businesses: [BUS-070]
+    repository_file: people/profiles/ed-gage-ed-blake-conflict.md
+
+  - id: P-089
+    name: O. H. Leland
+    role: Leland & Little partner candidate
+    notes: Separately named June 1922; firm already existed by February and is billiards by August, but partnership role and address unproved.
+    related_businesses: [BUS-077]
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    repository_file: people/profiles/o-h-leland.md
+
+  - id: P-090
+    name: Walter L. Little
+    role: Leland & Little partner candidate
+    notes: Walter Little separately named June 1922; W. L. Little identity is strong inference, partnership role and address unproved.
+    related_businesses: [BUS-077]
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    repository_file: people/profiles/walter-l-little.md
+
+  - id: P-091
+    name: Timms
+    role: Timms Pool Hall name/person style
+    notes: Named business exists June 1922; given name, address, ownership and fire-adjacent identity unresolved.
+    related_businesses: [BUS-076]
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    repository_file: people/profiles/timms.md
+
+  - id: P-092
+    name: R. A. Junken
+    role: Building contractor
+    notes: Contractor for C. E. Gates's August 1922 two-story hollow-tile Fifth/Main replacement; permit, dimensions and completion date unresolved.
+    related_businesses: [BUS-070]
+    related_evidence: [E-097]
+    related_sources: [S-112, S-113]
+    repository_file: people/profiles/r-a-junken.md
+
+  - id: P-093
+    name: F. Champion
+    role: Oregon City Pantorium owner
+    notes: Directly named as owner at 416 Main in February 1914; later Pantorium ownership and ignition-room hypothesis unresolved.
+    related_businesses: [BUS-073]
+    repository_file: people/profiles/f-champion.md

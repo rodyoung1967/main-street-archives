@@ -3,10 +3,10 @@
 ## Archive IDs
 
 - Building ID: `B-003`
-- Related businesses: `BUS-007`, `BUS-008`, `BUS-023`
-- Related people: `P-001`, `P-002`
-- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-094`, `E-095`, `E-108`
-- Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`, `S-109`, `S-110`
+- Related businesses: `BUS-007`, `BUS-008`, `BUS-023`, `BUS-026`, `BUS-027`, `BUS-067`
+- Related people: `P-001`, `P-002`, `P-041`, `P-042`, `P-076`
+- Related evidence: `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-085`, `E-092`, `E-094`, `E-095`, `E-107`, `E-108`
+- Related sources: `S-010`, `S-012`, `S-021`, `S-023`, `S-052`, `S-063`, `S-107`, `S-108`, `S-109`, `S-110`, `S-120`, `S-121`, `S-130`
 - Related timeline entries: `T-003`, `T-006`
 - Related research lead: `RL-004`
 - Related open question: `OQ-030`
@@ -19,8 +19,10 @@ Earlier working dates of late 1968 or 1969 (`E-016`) are superseded for the **fi
 
 Current working facts:
 
-- The building was known as the Harding Building by 1909.
-- George A. Harding and Harding Drug Store are associated with the original building.
+- A retrospective source supports a Harding Building existing around 1909, and 1911 sources place Harding Building premises on Main between Fifth/Sixth and separately on Sixth between Main/Railroad. Neither proves a 1909 exact number or footprint.
+- George A. Harding and Harding Drug Store are associated with the original building context, but Harding's own dated 1912/1915 business address is **511 Main**, not 507.
+- G. H. Young is directly at **507 Main** in 1912 and 1914; W. W. Bradley is separately at **507 Main** in 1915. No Young-to-Bradley transfer is proved.
+- H. P. Brightbill is separately at **509 Main** and George A. Harding at **511 Main** in the dated 1912/1915 ladders. The later consolidated 507–511 building label must not be backdated to those distinct storefronts.
 - A legacy archive statement places Dr. Bailey upstairs in the Harding Building in 1909, but the supporting source has not been located; treat it as unverified.
 - Harding Drug Store and Dixon's Bakery were gutted in the 1 September 1967 fire.
 - The Wheel Restaurant and 505 Tavern survived that fire with smoke and water damage.
@@ -34,7 +36,17 @@ The original Harding Building was associated with George A. Harding and the Hard
 - Related business: `BUS-007` Harding Drug Store
 - Related building: `B-003`
 
-The archive still needs primary sources establishing George A. Harding's ownership, tenancy, construction role, and exact dates of Harding Drug Store operation at 507 Main.
+The archive still needs primary sources establishing George A. Harding's ownership, tenancy, construction role, and exact dates/address changes of Harding Drug Store. Do not state that his 1915 business operated at 507; the dated listing says 511.
+
+## Historic 507 / 509 / 511 Address Ladder
+
+The modern replacement building spans 507–511, but the early records preserve distinct storefront numbers:
+
+- **507 Main:** G. H. Young / The Curio Man in 1912 and again 1914 (`BUS-067`, `P-076`, `E-092`); W. W. Bradley furniture in dated 1915 listings (`BUS-026`).
+- **509 Main:** H. P. Brightbill grocery in 1912 and dated 1915 listings (`BUS-027`, `P-042`). Do not merge him with Henry Brightbill at 503 in 1908.
+- **511 Main:** George A. Harding's drug business in 1912 and dated 1915 listings (`BUS-007`, `P-001`).
+
+George Young's 1911 move one door north from a Harding Building premises into the Willamette Building strengthens the hypothesis that his later 507 address was the Willamette Building, but the move report itself prints no number. It does not establish the former Harding premises' number or a continuous 1911–1914 tenancy (`E-085`).
 
 ## Unverified Legacy Occupant Claim
 
@@ -64,6 +76,9 @@ Related research lead:
 | ID | Business | Status |
 | --- | --- | --- |
 | `BUS-007` | Harding Drug Store | Associated with George A. Harding; dates and documentation need expansion. |
+| `BUS-067` | G. H. Young / The Curio Man | Directly at 507 in 1912 and 1914; 1911 Willamette Building bridge remains an inference. |
+| `BUS-026` | W. W. Bradley furniture | Directly at 507 in dated 1915 listings; no transfer from Young established. |
+| `BUS-027` | H. P. Brightbill grocery | Directly at 509 in dated 1915 listings; address-group context only. |
 | `BUS-008` | Tony's Restaurant | Associated with Harding Building before the fire; exact dates and evidence need confirmation. |
 | `BUS-023` | Dixon's Bakery | Named by the Oregonian among businesses gutted in the 1967 fire; exact storefront number at the time remains to be established. |
 
@@ -126,7 +141,7 @@ High-priority evidence to locate:
 
 - What was the exact construction date of the original Harding Building?
 - What was George A. Harding's precise relationship to the building?
-- When did Harding Drug Store operate at 507 Main?
+- When and why did Harding Drug Store move from the dated 511 Main storefront to its later Harding-block configuration?
 - What source documents Dr. Bailey upstairs in 1909?
 - What additional records document the official cause and full damage pattern of the 1 September 1967 fire?
 - Was Tony's Restaurant operating at the time of the fire?

@@ -40,6 +40,10 @@ timeline:
       - P-001
       - P-035
       - P-036
+    related_businesses:
+      - BUS-070
+      - BUS-071
+      - BUS-074
     related_buildings:
       - B-001
       - B-002
@@ -54,6 +58,20 @@ timeline:
       - E-103
     related_people:
       - P-035
+      - P-080
+      - P-081
+      - P-084
+      - P-085
+      - P-086
+      - P-087
+      - P-088
+    related_businesses:
+      - BUS-068
+      - BUS-069
+      - BUS-070
+      - BUS-071
+      - BUS-072
+      - BUS-075
     related_buildings:
       - B-001
       - B-002
@@ -67,6 +85,9 @@ timeline:
       - E-097
     related_people:
       - P-036
+      - P-092
+    related_businesses:
+      - BUS-070
     related_buildings:
       - B-001
       - B-002
@@ -208,7 +229,7 @@ timeline:
     related_sources: [S-120]
     related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029]
     related_people: [P-001, P-041, P-042, P-043, P-044]
-    related_buildings: [B-003, B-004]
+    related_buildings: [B-003, B-004, B-011]
 
   - id: T-018
     date: 30 July 1915 (calendar-derived; reported 5 August)
@@ -236,6 +257,7 @@ timeline:
     related_evidence: [E-109]
     related_sources: [S-121]
     related_businesses: [BUS-007, BUS-026, BUS-027, BUS-028, BUS-029, BUS-031, BUS-032]
+    related_buildings: [B-003, B-004, B-011, B-012, B-013]
 
   - id: T-021
     date: Reported 25 November 1915; work dates unspecified
@@ -271,7 +293,7 @@ timeline:
     related_evidence: [E-113]
     related_sources: [S-125]
     related_people: [P-046]
-    related_businesses: [BUS-012]
+    related_businesses: [BUS-012, BUS-071]
 
   - id: T-025
     date: '1907-10-04'
@@ -308,3 +330,116 @@ timeline:
     - BUS-045
     - BUS-046
     - BUS-048
+
+  - id: T-027
+    date: 1914–1915 ledger period
+    summary: Municipal water ledger directly records 107 Fifth as Blacksmith and 110 Fifth as Stable. It also records 503 Main Store, 503½ Barber Shop and layered 501 Restaurant/Saloon uses; the blank/V row between 507 and 503 is not promoted to exact 505.
+    confidence: Very High for printed addresses and uses; probable only for 110 tenant and moderate hypothesis for blank row equaling 505.
+    related_evidence: [E-117]
+    related_sources: [S-131]
+    related_buildings: [B-001, B-002, B-005, B-007, B-010]
+
+  - id: T-028
+    date: January–May 1915
+    summary: Enterprise visual batches place Holman at Fifth/Main, Fashion Stable on Fifth between Main and Water, and document the May formation of Holman & Randall plus Main Street paving/lighting planning. No numbered target mapping follows.
+    confidence: Very High for visually verified wording; exact addresses and target building effects unresolved.
+    related_evidence: [E-111, E-112]
+    related_sources: [S-123, S-124]
+    related_businesses: [BUS-035]
+
+  - id: T-029
+    date: 3 February–2 April 1916
+    summary: Oregon City Laundry first planned a rear-Courier plant, then E. M. Blakeslee traded that site for a Fifth Street location; by 2 April the new building on Fifth just off Main was nearing completion.
+    confidence: Very High for reported plan change and April location; strong inference only for exact later 109 Fifth footprint.
+    related_evidence: [E-125]
+    related_sources: [S-139, S-140]
+    related_people: [P-078]
+    related_businesses: [BUS-068]
+    related_buildings: [B-009]
+
+  - id: T-030
+    date: March–May 1916 visual batch
+    summary: Courier visual review verifies the gas branch at 718 Main, Randall-to-Holman undertaking-interest report, Raasch & Lamb proposed internal Andresen move, and dated neighboring addresses without establishing a 501/503/505 occupant.
+    confidence: Very High for readable printed wording; legal dates, target occupancy and property mapping unresolved.
+    related_evidence: [E-116]
+    related_sources: [S-130]
+    related_businesses: [BUS-033, BUS-035, BUS-036]
+
+  - id: T-031
+    date: June–December 1916 selected monthly issues
+    summary: Electric Store moved to Andresen Building 619 Main; Scripture & May is directly at 108 Fifth by September; Pruden succeeds Schilling at 612; Holman-alone advertising appears by August. Sampling does not establish annual completion or target occupancy.
+    confidence: Very High for visually verified selected dates; exact transaction days and intervening continuity unresolved.
+    related_evidence: [E-119]
+    related_sources: [S-133]
+    related_people: [P-050, P-051, P-052, P-053, P-082, P-083]
+    related_businesses: [BUS-031, BUS-035, BUS-037, BUS-038, BUS-039]
+    related_buildings: [B-008, B-013, B-014]
+
+  - id: T-032
+    date: 1917 selected monthly issues
+    summary: Sample directly repeats Scripture & May at 108 Fifth, Electric Store at 619 Main, Theroux at 519 Main and Jones Drug at 617 Main. These are dated observations, not uninterrupted occupancy.
+    confidence: Very High for visually verified selected dates; sampling only, year IN PROGRESS.
+    related_evidence: [E-120]
+    related_sources: [S-134]
+    related_businesses: [BUS-029, BUS-031, BUS-039, BUS-040]
+    related_buildings: [B-008, B-011, B-013, B-014]
+
+  - id: T-033
+    date: 24 October 1918
+    summary: Courier business guide directly lists Wolf & Miller at 505 Main, Pantorium at 500 Main, Scripture & May at 108 Fifth, and Oregon City Laundry under M. L. Blakeslee at 109 Fifth.
+    confidence: Very High for printed names, trades and addresses; continuity and legal relationships unresolved.
+    related_evidence: [E-124]
+    related_sources: [S-138]
+    related_people: [P-079, P-082]
+    related_businesses: [BUS-012, BUS-039, BUS-068, BUS-073]
+    related_buildings: [B-002, B-008, B-009]
+
+  - id: T-034
+    date: December 1920–June 1922
+    summary: May & Washburn, Oregon City Laundry, S. F. Scripture at 108 Fifth, Fifth Street Restaurant, Miller shoe repair, Pantorium, Timms, Leland/Little and S. Wolf form a documented pre-fire business cluster, but merchant rosters do not supply exact addresses.
+    confidence: High to Very High for dated business presence; exact premises and succession relationships unresolved.
+    related_people: [P-082, P-083, P-084, P-089, P-090, P-091]
+    related_businesses: [BUS-068, BUS-069, BUS-070, BUS-071, BUS-073, BUS-076, BUS-077]
+    related_buildings: [B-008, B-009]
+
+  - id: T-035
+    date: 25 February–17 August 1922
+    summary: Leland & Little exists by February; June roster separately names Timms Pool Hall, Walter Little and O. H. Leland; August list identifies Leland and Little as billiards. Neither is assigned to 505 or the July fire-adjacent room.
+    confidence: Very High for printed names and descriptions; partners, addresses, succession and fire relationship unresolved.
+    related_evidence: [E-126]
+    related_sources: [S-141]
+    related_people: [P-089, P-090, P-091]
+    related_businesses: [BUS-076, BUS-077]
+
+  - id: T-036
+    date: July–November 1922 post-fire recovery
+    summary: Oregon City Laundry used a temporary office with Pantorium at 519 Main and resumed service/production somewhere by autumn; Gilbert Miller reopened at 209 Fifth and later 419 Main; May & Washburn continued. Later operation does not mean burned structures survived.
+    confidence: Very High for dated post-fire reports; laundry production site and destroyed-premises addresses unresolved.
+    related_businesses: [BUS-068, BUS-069, BUS-071, BUS-073]
+    related_buildings: [B-011]
+
+  - id: T-037
+    date: May 1925
+    summary: Sanborn shows 501 store, 503 restaurant, 505 billiards/cigars, and a rebuilt/re-established Oregon City Laundry complex behind multiple Main frontage positions in the Fifth/Main/Water block.
+    confidence: Very High for mapped 1925 uses and spatial relationships; pre-fire footprint and legal parcel continuity unresolved.
+    related_evidence: [E-020, E-102]
+    related_sources: [S-021]
+    related_businesses: [BUS-068]
+    related_buildings: [B-005, B-001, B-002, B-009]
+
+  - id: T-038
+    date: 1957–1960
+    summary: City synthesis reports Albert D. Flor restaurant/cocktail-bar operation at 503 in 1957; 1960 Oregonian places Wheel Cafe at Fifth and Main. Exact Kwality-to-Wheel transition remains unresolved.
+    confidence: Official secondary for 1957; High for 1960 newspaper wording; transition unresolved.
+    related_people: [P-025]
+    related_businesses: [BUS-004]
+    related_buildings: [B-001]
+
+  - id: T-039
+    date: 6 April 1988
+    summary: Oregon City Commission record identifies The Dug Inn formerly The Brass Rail at 505 Main and a Wiitanen-to-Cotterell change-of-ownership application.
+    confidence: Very High municipal evidence for dated trade-name/transfer role; uninterrupted operation and complete cycle unresolved.
+    related_evidence: [E-030]
+    related_people: [P-007, P-008, P-031]
+    related_businesses: [BUS-010, BUS-016]
+    related_buildings: [B-002]

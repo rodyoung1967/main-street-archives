@@ -99,6 +99,20 @@ The visually verified 23 October assessment notice lists **Lot 5 — Mary E. Bar
 ## February 1914
 L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that undertaker R. L. Holman moved to Fifth & Main in 1914 is **not currently accepted as established** because the contemporaneous move notice has not been recovered (`RL-020`).
 
+## 1914–1915 — numbered water-ledger anchors
+
+The visually reviewed municipal water-rent ledger directly records **107 Fifth / Blacksmith** (`B-007`) and **110 Fifth / Stable** (`B-010`) (`E-117` / `S-131`). The 110 tenant handwriting appears consistent with Scripture & May but is only a probable reading; it does not backdate the later exact 108 Fifth address or identify Fashion Stable.
+
+The same ledger records **503 Main / Store**, **503½ / Barber Shop**, and layered **501 / Restaurant-Saloon** classifications. A blank-number row between 507 and 503 carries a high-confidence vacancy mark but is only a moderate hypothesis for 505 because the number itself is not written. Ledger use/classification is not a trade name, exact dated occupant, or building-ownership record.
+
+## January–9 April 1915 — Enterprise visual checkpoint
+
+The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman advertised at Fifth/Main; A. J. Eddy/Fashion Stable was on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
+
+## Spring 1915 — Holman & Randall formation and Main Street planning
+
+Visually reviewed pages report on **7 May** that T. P. Randall and R. L. Holman would form **Holman & Randall** in Holman's undertaking establishment on Main near Fifth. Separate April–May reports document the Worswick paving decision sequence, a Main Street cluster-light proposal and possible delay after removal of the city engineer (`E-112`). These are relative-location/public-realm facts only; they do not establish 501/503/505 building alteration or exact Holman numbering.
+
 ## June 1915–January 1917 — Undertakers at Fifth & Main
 Primary *Oregon City Courier* advertisements directly place **R. L. Holman and T. P. Randall** at **Fifth and Main St.** in June 1915 and March 1916, and **R. L. Holman** at the same location in January 1917 (`E-054`, `S-064`–`S-066`). This location is a plausible candidate for the later-numbered 501 Main corner store, but **no recovered source yet equates Fifth & Main with 501 Main**.
 
@@ -108,7 +122,7 @@ The visually reviewed Courier batch gives dated **507 Main — W. W. Bradley; 50
 
 The 5 August p1 report names **Al Price** and describes smoke and an electric iron burning boards at the rear of his store on Friday night of the preceding week; switching off the current averted a potentially serious fire. This yields **30 July 1915** by calendar derivation (`T-018`). Connecting the incident to 527 is a strong same-issue business-name inference using p3, not an address printed in the incident report. No connection with the separate 1912 Bailey & Price billiard business, closure, demolition or rebuilding is established. An earlier Thursday transcription is superseded in the [integration audit](evidence/source-captures/1915-sheets-073-100-integration-audit.md).
 
-Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement remains an unnumbered-location lead; the later Mass opening resolves the Brunswick name/opening subquestions below. Year remains **IN PROGRESS**; latest review stops at sheet 110, November 25.
+Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement remains an unnumbered-location lead; the later Mass opening resolves the Brunswick name/opening subquestions below. The year remains **IN PROGRESS**. This paragraph describes the July–October batch only; later sections below record the completed Courier year-end and partial Enterprise continuation.
 
 ## October 30, 1915 — Mass's opens in former Brunswick quarters
 
@@ -125,16 +139,56 @@ The municipal-debt report says **Fifth Street** was improved with city day labor
 
 The final 46 supplied *Oregon City Courier* December images were visually inspected (`S-122` / `E-110`), bringing the Courier inventory to **123/123 scan sheets processed through 30 December**. Directories on five December dates continue **Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527**; Holman/Randall continues at Fifth/Main and Scripture & May remains unnumbered. A 2 December editorial continues the Fifth Street improvement/payment controversy. No exact 503/505 occupant, new numbered Fifth address, or target-frontage demolition/rebuild statement was established in the batch; these are coverage limits, not absence evidence. 1915 remains IN PROGRESS pending Enterprise and other-source work, with M01-M04 still open.
 
-
 ## 3 February 1916 — Springfield antecedent, not Oregon City occupancy
 
 The *Lane County News* directly names **Gilbert Miller of the Wolf & Miller Harness shop** in Springfield, describing his leather dressing/shoe-waterproofing product (`E-113`, `S-125`, `P-046`, `T-024`). This strengthens the named-firm association but supplies no legal partnership share, Wolf first name or 505 Main address. The actual 1918 C. E. Miller/Gilbert Miller discrepancy remains unresolved.
 
-## October 1918
-**Wolf & Miller** appeared at **505 Main** (`E-027`). Separate newspaper references identify the **Holman & Pace** chapel/funeral parlors in Oregon City (`E-055`), but those 1918 Holman & Pace references do not state a street address.
+## 3 February–2 April 1916 — Oregon City Laundry changes to Fifth Street
+
+On 3 February the *Courier* announced a replacement laundry building behind its office in the Seventh–Eighth block. On **17 February**, a visually verified report says **E. M. Blakeslee traded that intended site for a Fifth Street location** and would rebuild there (`E-125` / `S-139`). On **2 April**, the *Sunday Oregonian* reported the new Oregon City Laundry building **on Fifth just off Main** nearing completion (`S-140`).
+
+These reports document a change of plan, not a source conflict. The later exact 109 Fifth listing strongly supports continuity to that plant, but identical footprint/parcel continuity remains unproved.
+
+## March–May 1916 — additional visually verified business chronology
+
+The 75-page `E-116` / `S-130` batch reports a Portland Gas & Coke branch at 718 Main under George J. Hall; an April 6 Randall-to-Holman undertaking-interest sale while joint advertising persisted; and May 18 permission for Raasch & Lamb to move within the Andresen Building. It also repeats separately numbered 507/509/511/519/527 businesses. No 501/503/505 mapping or building-ownership transfer follows.
+
+## June–December 1916 — selected monthly visual confirmations
+
+`E-119` / `S-133` establishes the following dated changes without claiming exhaustive annual coverage:
+
+- June 1: Andresen Building rearrangements and Wm. A. Schilling's proposed move to 612 Main.
+- July 6: Electric Store/power offices reported moved one door north to **Andresen Building, 619 Main** (`B-014`), despite a retained 617 footer.
+- By August 3: Holman-alone advertising at Fifth/Main; the April 6 interest-sale report remains controlling.
+- By September 7: **Scripture & May at 108 Fifth** (`B-008`), repeated through December.
+- October 5: **Pruden at 612 Main** as Schilling's successor, repeated in November and December.
+- August 3: proposed million-dollar Hawley second unit postponed; this is not completed construction.
+
+No exact 503/505 occupant, parcel, demolition, or transaction-day inference follows.
+
+## 1917 — selected 108 Fifth, 519, 617 and 619 Main anchors
+
+The twelve-issue visual sample (`E-120` / `S-134`) directly repeats Scripture & May at **108 Fifth** in January/February, the Electric Store at **Andresen Building, 619 Main** in January, Theroux Music House at **519 Main** in October, and Jones Drug Company at **617 Main** in November. These are dated observations, not proof of uninterrupted occupancy or one-room succession. The sample is not exhaustive annual coverage; 1917 remains **IN PROGRESS**.
+
+## 24 October 1918 — exact Fifth/Main business snapshot
+
+The visually reviewed *Courier* business guide directly lists (`E-124` / `S-138`):
+
+- **Wolf & Miller — 505 Main**;
+- **Pantorium Cleaners — 500 Main**;
+- **Scripture & May — 108 Fifth**;
+- **Oregon City Laundry — M. L. Blakeslee, proprietor — 109 Fifth**.
+
+This is the first direct 109 Fifth laundry anchor and a critical even/odd Fifth Street snapshot. Each entry is a dated observation, not proof of uninterrupted tenancy, building ownership, or exact earlier construction footprint. Separate 1918 newspaper references identify Holman & Pace in Oregon City without a street address (`E-055`).
 
 ## 1919
 A 2017 article and City synthesis report say the surviving 503 Main building was constructed about 1919; treat this as a working surviving-building estimate rather than proof of first construction. No direct 1919 occupant has yet been established for 501 or 503, and no direct 1919 505 occupant has been recovered after Wolf & Miller's documented October 1918 presence.
+
+## 1920–June 1922 — Fifth Street business cluster before the fire
+
+May & Washburn (`BUS-069`) is documented by December 1920 and in 1921–1922 county records. Oregon City Laundry advertised on Fifth near Main in August 1921, continuing the 1916–1918 Fifth Street chain. S. F. Scripture remained at **108 Fifth** in June 1922, while the Buyers' Carnival roster separately named Oregon City Laundry, May & Washburn, Fifth Street Restaurant, Gilbert Miller, Pantorium, Timms Pool Hall, Walter Little, O. H. Leland, and S. Wolf.
+
+These businesses belong to the same research geography but are not assigned numbered premises from a roster that prints none.
 
 ## February 1921
 A primary advertisement shows **Holman & Pace** still operating as undertakers/funeral directors in Oregon City (`E-055` / `S-068`), but it does not provide a street address.
@@ -142,16 +196,30 @@ A primary advertisement shows **Holman & Pace** still operating as undertakers/f
 ## 1921-1922 — 505 Main
 Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), providing direct evidence of occupied premises at 505 by 1921.
 
+## February–August 1922 — Timms and Leland & Little remain distinct
+
+Leland & Little appears in an Oregon City cigar-dealer list on **25 February**. On **8 June**, Timms Pool Hall, Walter Little, and O. H. Leland appear as separate merchant-roster entries. On **17 August**, Leland and Little is directly described as **Billiards** (`E-126` / `S-141`).
+
+Neither business is proved at 505 Main, as a successor to the other, or as the unnamed pool hall adjoining the July fire-origin room. The functional match between Leland & Little's cigar/billiards evidence and the 1925 505 Main billiards/cigars label remains a research lead only.
+
 ## 13 July 1922 — Harding property group sold to Wolf and Gates
 The visually inspected *Banner-Courier* reports that George A. Harding's Main Street property group—including the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store—was sold to **S. Wolf and C. Gates of Portland**. The restaurant location went to Gates and the remainder to Wolf (`E-096` / `S-111`). The report gives no numbered addresses, legal description, dimensions, or deed data.
 
 ## 18 July 1922 — Fifth/Main fire
-The preserved and visually verified local report says the fire began in a vacant Main Street storeroom formerly occupied by Alex Schieremann as a tailor shop, in a building owned by **S. Wolf of Portland**; a pool hall adjoined it (`E-103` / `S-117`). The Oregon City Laundry, May & Washburn garage, Fifth Street Restaurant, Gilbert Miller shoe-repair shop, and other premises were destroyed or affected. Read with the 13 July sale notice, the ignition building strongly belongs to the freshly reported Harding-to-Wolf remainder, but that remains a cross-source inference pending the deed and exact frontage line. Independent Eugene reporting preserves conflicting damage estimates and owner/operator names.
+The preserved and visually verified local report says the fire began in a vacant Main Street storeroom formerly occupied by **Alex Schieremann** as a tailor shop (`BUS-075`), in a building owned by **S. Wolf of Portland**; a pool hall adjoined it (`E-103` / `S-117`). The fire destroyed Oregon City Laundry (`BUS-068`), May & Washburn's garage (`BUS-069`), the Fifth Street Restaurant (`BUS-070`), Gilbert Miller's shoe-repair shop (`BUS-071`), and H. Ketchner's home/confectionery (`BUS-072`) or affected them within the cluster. A same-page item places Ketchner next to the laundry.
+
+Read with the 13 July sale notice, the ignition building strongly belongs to the freshly reported Harding-to-Wolf remainder, but that remains a cross-source inference pending the deed and exact frontage line. Independent reporting preserves conflicting damage estimates, a cleaner/dyer-versus-tailor recent-occupant question, and **Ed Gage / Ed Blake / J. Blake** owner-operator wording. None identifies 501, 503, or 505 as the ignition room.
 
 ## 17–18 August 1922 — Gates corner replacement under construction
 Two visually inspected reports identify **C. E. Gates** as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building. The first floor was planned as two storerooms, one already leased for a barber shop (`E-097` / `S-112`–`S-113`). The reports do not give width, orientation, or street numbers.
 
 Two storefront models remain open. If the Gates corner was principally modern 501, the Wolf remainder could begin at 503, compatible with **503 ignition / 505 pool hall**. If both Gates rooms became the Main-facing 501+503 pair shown in 1925, the Wolf remainder could begin near 505. The 1925 Sanborn does not choose between them; 501 remains live until the July restaurant address is proved.
+
+## September–November 1922 — business recovery and relocations
+
+Oregon City Laundry first arranged a temporary receiving office with Pantorium at **519 Main** immediately after the fire. By September and November, county expense records and help-wanted advertisements show the laundry had resumed service/production somewhere, but the plant address remains unresolved.
+
+Gilbert Miller re-established his shoe machinery at **209 Fifth** by September and advertised at **419 Main** by October. These are post-fire relocations, not proof of his destroyed shop's number. May & Washburn also continued after the fire. Later operation does not mean the destroyed structures survived.
 
 ## 1922 — integrated Harding / Gates / Wolf property bridge
 `E-108` synthesizes the corrected original Block 4 framework with the 1913 Harding Lots 3–4 assessment, the strong Harding↔505 Chicago Store building-owner lead, the July 1922 Harding property division, and the Wolf-owned ignition-building report. The property-group chain is strong, but the exact Gates/Wolf wall is unresolved: Gates principally at 501 and Gates at 501+503 remain competing models. Do not promote the working 503-ignition / 505-pool-hall model to fact, and keep 501 live until the restaurant footprint is proved.
@@ -164,6 +232,8 @@ A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City 
 ## 1925 Sanborn — 501 / 503 / 505
 The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1915–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.
 
+The same sheet shows an **Oregon City Laundry** physical complex again in the Fifth/Main/Water block, spatially behind both 501 and 503 and extending farther north (`B-009`, `E-102`). This proves post-fire physical presence by May 1925, not that the 1916–1922 building survived, that the footprint was identical, or that rear walls followed legal parcel lines.
+
 ## 1935 — present 527 Main / Swartz Building
 City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.
 
@@ -174,6 +244,12 @@ Aerial evidence establishes that a distinct **501 Main structure existed in 1936
 503 Main housed the Kwality Cafe lineage.
 
 Official historic inventories report **1940** as the primary construction date for **505 Main / 505 Tavern** (`E-100` / `S-116`; corroborated in `S-063`), in tension with the city's **c.1920** synthesis (`E-032`) and pre-1940 Sanborn/aerial occupancy at 505. An **unresolved working hypothesis** (`E-101`) proposes that **1940** may reflect rear expansion or major rear remodel while **c.1920** may describe the Main Street front / historic core. **`E-102`** (August 2026) visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950; preliminary aerial comparison suggests block-level density change by 1940 without isolating 505 rear depth; **1939–1941 permits not recovered**.
+
+City-inventory synthesis separately reports Dr. Roy Briggs at **505½ Main** in 1941, Farr's/Harr's recreation wording in the 1940s, and Well's Recreation in 1953. Those directory transcriptions remain registered but require original-page verification for spelling and exact chronology.
+
+## 1957–1960 — restaurant and Wheel anchors at 503
+
+City historic-resource synthesis reports Mr. and Mrs. Albert D. Flor operating a restaurant/cocktail-bar at 503 in 1957. A 30 November 1960 *Oregonian* advertisement places **Wheel Cafe at Fifth and Main** (`E-044`). The exact Kwality-to-Wheel rename/transfer remains unresolved; The Wheel was at 503 only.
 
 ## November 1965 — 505 Tavern liquor renewal
 Oregon City Commission minutes list **505 Tavern** at 505 Main on a liquor-license renewal agenda (`E-029` / `S-038`). This is the archive's earliest registered municipal anchor for the 505 Tavern trade name. It does not by itself prove real-estate ownership or the individual liquor-license holder.
@@ -224,7 +300,7 @@ Family history establishes that Dick and Sheila ran Brass Rail at 505 Main befor
 Dick and Sheila later purchased the 505 building from a woman remembered as **Mrs. Nesmeth / Nemeth**. Exact deed/date and spelling remain open.
 
 ## Brass Rail / Dug Inn transfer cycle
-A 6 April 1988 Commission record identifies The Dug Inn (formerly Brass Rail) and a Wiitanen-to-Cotterell business transfer (`E-030`).
+A 6 April 1988 Commission record identifies **The Dug Inn (formerly Brass Rail), 505 Main**, and a Wiitanen-to-Cotterell business transfer (`BUS-016`, `E-030`). This proves the dated transfer role and trade-name relationship, not uninterrupted operation from the original Dick/Sheila Brass Rail period.
 
 ## Before March 1991 — Wiitanens rename the business 505 Tavern
 After a later repossession returned the tavern business to their control, Dick and Sheila Wiitanen renamed it **505 Tavern** before selling it to their son Mitch. The exact rename date and formal license/entity wording remain open (`E-004`, `E-022`).
@@ -249,19 +325,3 @@ Richard / Dick Wiitanen died in November 2024. Family history says 505 Main pass
 
 ## July 1, 2025-June 30, 2030
 The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 Main. Project-steward clarification confirms Alin is also the current operating-business owner; earlier **Alan** wording was a typo. The 505 real estate remains separately owned through 505 LLC.
-
-
-## January–April 1915 — Enterprise visual checkpoint through 9 April 1915
-The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman is at Fifth/Main; A. J. Eddy/Fashion Stable is on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
-
-
-## Spring 1915 - Holman & Randall formation and Main Street planning
-Visually reviewed *Morning Enterprise* pages now show Holman at Fifth/Main by January and report on **7 May** that T. P. Randall and R. L. Holman would form **Holman & Randall** in Holman's undertaking establishment **on Main Street near Fifth**. Separate April-May reports document the Worswick paving decision sequence, a Main Street cluster-light proposal and possible delay after removal of the city engineer (`E-112`). These are relative-location/public-realm facts only; they do not establish 501/503/505 building alteration or exact Holman numbering.
-
-## 1916 March–May — additional visually verified business chronology
-
-E-116/S-130, [75-page batch](evidence/source-captures/1916-courier-pages-106-180.md): March 23 gas branch opening at 718 Main; April 6 reported Randall-to-Holman undertaking-interest sale while joint ads persisted; May 18 permission for Raasch & Lamb basement relocation within the Andresen Building. No 501/503/505 mapping or building-ownership transfer follows. Public works and distinct Fifth/Water fire are retained in the page ledger.
-
-## June–December 1916 — selected monthly visual confirmations
-
-E-119/S-133: June 1 announces Andresen store rearrangements and Schilling's proposed 612 move. July 6 explicitly reports Electric Store/power offices at 619, one door north, despite a retained 617 footer. Holman-alone Fifth/Main ads are verified by August 3; the April 6 interest sale remains controlling. Scripture & May 108 Fifth is verified by September 7. October 5 explicitly names Pruden at 612 as Schilling's successor, repeated November 2 and December 7. August 3 postpones the proposed million-dollar Hawley second unit on east Main between Third and the alley between Fourth/Fifth. No exact target occupancy, demolition, parcel or transaction-day inference follows.

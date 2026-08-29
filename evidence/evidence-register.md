@@ -924,3 +924,45 @@ Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
 ### E-123 final enlarged-name check
 
 The 1907 notice prints **KNAPP & NOEBEL**, while the 1908 notice prints **KNAPP & NOBEL**. Both712 Main readings are direct, but names are separately indexed; no identity or uninterrupted-operation inference.
+
+## E-124 — 1918 Fifth/Main exact-address business guide
+Type: Primary newspaper business-directory evidence; visual review.
+Confidence: Very High for the printed names, trades, and addresses; continuity and legal relationships unresolved.
+Source: `S-138`.
+
+Claims:
+
+- The 24 October 1918 *Oregon City Courier* guide directly lists **Scripture & May at 108 Fifth Street**.
+- It directly lists **Oregon City Laundry, M. L. Blakeslee proprietor, at 109 Fifth Street**.
+- It directly lists **Pantorium Cleaners at 500 Main** and **Wolf & Miller at 505 Main**.
+- These entries establish one dated address snapshot. They do not prove that the 1916 Fifth Street laundry already carried 109, that any business remained continuously at the address, or that Wolf & Miller's named partners are established.
+
+Related captures: `evidence/source-captures/oregon-city-laundry-location-chronology.md`, `evidence/source-captures/pantorium-cleaners-address-chronology-1914-1922.md`, and `evidence/source-captures/1918-1922-wolf-miller-followup.md`.
+
+## E-125 — Oregon City Laundry changes to Fifth Street site, 1916
+Type: Primary newspaper construction/location evidence.
+Confidence: Very High for the reported plan change and April location; strong inference, not exact parcel proof, for continuity to 109 Fifth.
+Sources: `S-139`, `S-140`.
+
+Claims:
+
+- On 17 February 1916, the *Courier* reported that E. M. Blakeslee traded the rear-Courier site where he had planned to build for a Fifth Street location and would rebuild Oregon City Laundry there.
+- On 2 April 1916, the *Sunday Oregonian* reported the new laundry building on Fifth just off Main and nearing completion.
+- The sources resolve the former February/April location conflict as a documented change of plan.
+- The later 109 Fifth listing (`E-124`) strongly supports continuity to that address, but the exact proposition that the April building had the identical later numbered footprint remains unproved.
+
+Record: `evidence/source-captures/1916-02-17-laundry-fifth-street-property-trade.md`.
+
+## E-126 — Timms Pool Hall and Leland & Little billiards chronology, 1922
+Type: Primary newspaper business-name evidence; visual review.
+Confidence: Very High for the printed names and dated business descriptions; addresses, partners, succession, and fire-adjacent identity unresolved.
+Source: `S-141`.
+
+Claims:
+
+- Leland & Little appears in an Oregon City cigar-dealer list on 25 February 1922.
+- The 8 June merchant roster separately names **Timms Pool Hall**, **Walter Little**, and **O. H. Leland**.
+- A 17 August business list identifies **Leland and Little, Billiards**.
+- Timms and Leland & Little must remain distinct records; neither is proved at 505 Main or as the unnamed pool hall adjoining the July fire-origin room.
+
+Record: `evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md`.

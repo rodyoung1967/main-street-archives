@@ -1315,6 +1315,9 @@ evidence:
     confidence: Very High for the visually verified address ladder; High for its value in constraining the Harding/Willamette reconstruction; Unresolved for Willamette=507 and the Harding Building's exact number.
     related_sources:
       - S-102
+    related_people: [P-023, P-076, P-042, P-001]
+    related_businesses: [BUS-019, BUS-067, BUS-027, BUS-007]
+    related_buildings: [B-001, B-003]
     repository_file: evidence/E-092-1912-main-address-ladder-young-harding.md
 
   - id: E-093
@@ -1384,6 +1387,10 @@ evidence:
       - P-001
       - P-035
       - P-036
+    related_businesses:
+      - BUS-070
+      - BUS-071
+      - BUS-074
     related_buildings:
       - B-001
       - B-002
@@ -1403,6 +1410,9 @@ evidence:
       - S-113
     related_people:
       - P-036
+      - P-092
+    related_businesses:
+      - BUS-070
     related_buildings:
       - B-001
       - B-002
@@ -1486,8 +1496,10 @@ evidence:
       - S-023
     related_businesses:
       - BUS-005
+      - BUS-068
     related_buildings:
       - B-002
+      - B-009
     repository_file: evidence/E-102-505-sanborn-aerial-footprint-pass-2026-08-24.md
 
   - id: E-103
@@ -1504,10 +1516,26 @@ evidence:
       - S-117
     related_people:
       - P-035
+      - P-080
+      - P-081
+      - P-084
+      - P-085
+      - P-086
+      - P-087
+      - P-088
+    related_businesses:
+      - BUS-068
+      - BUS-069
+      - BUS-070
+      - BUS-071
+      - BUS-072
+      - BUS-075
     related_buildings:
       - B-001
       - B-002
       - B-005
+      - B-009
+      - B-011
     repository_file: evidence/E-103-1922-fifth-main-fire-origin.md
 
   - id: E-104
@@ -1811,6 +1839,9 @@ evidence:
     related_buildings:
     - B-001
     - B-002
+    - B-008
+    - B-013
+    - B-014
     - B-005
     related_businesses:
     - BUS-031
@@ -1839,6 +1870,7 @@ evidence:
     confidence: Very High for visually readable printed wording; exact move/transaction dates and target occupancy unresolved.
     related_sources: [S-134]
     related_businesses: [BUS-029, BUS-031, BUS-035, BUS-039, BUS-040]
+    related_buildings: [B-008, B-011, B-013, B-014]
     repository_file: evidence/source-captures/1917-courier-first-issue-monthly-sample.md
 
   - id: E-121
@@ -1956,3 +1988,47 @@ evidence:
     - E-081
     - E-093
     repository_file: evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
+
+  - id: E-124
+    name: 1918 Fifth/Main exact-address business guide
+    type: Primary newspaper business-directory evidence; visual review
+    claims:
+      - The 24 October 1918 Courier guide directly lists Scripture & May at 108 Fifth Street.
+      - It directly lists Oregon City Laundry, M. L. Blakeslee proprietor, at 109 Fifth Street.
+      - It directly lists Pantorium Cleaners at 500 Main and Wolf & Miller at 505 Main.
+      - These are dated address observations, not proof of uninterrupted occupancy or business/property ownership.
+    confidence: Very High for printed names, trades and addresses; continuity and legal relationships unresolved.
+    related_sources: [S-138]
+    related_businesses: [BUS-012, BUS-039, BUS-068, BUS-073]
+    related_people: [P-079, P-082]
+    related_buildings: [B-002, B-008, B-009]
+    repository_file: evidence/source-captures/oregon-city-laundry-location-chronology.md
+
+  - id: E-125
+    name: Oregon City Laundry changes to Fifth Street site, 1916
+    type: Primary newspaper construction and location evidence
+    claims:
+      - On 17 February 1916 E. M. Blakeslee was reported trading the rear-Courier intended building site for a Fifth Street location.
+      - On 2 April 1916 the new Oregon City Laundry building on Fifth just off Main was reported nearing completion.
+      - The sources resolve the apparent February/April conflict as a documented plan change.
+      - Continuity to the later 109 Fifth address is strong but the identical footprint is not proved.
+    confidence: Very High for plan change and April location; strong inference only for exact later numbered footprint.
+    related_sources: [S-139, S-140]
+    related_businesses: [BUS-068]
+    related_people: [P-078]
+    related_buildings: [B-009]
+    repository_file: evidence/source-captures/1916-02-17-laundry-fifth-street-property-trade.md
+
+  - id: E-126
+    name: Timms Pool Hall and Leland & Little billiards chronology, 1922
+    type: Primary newspaper business-name evidence; visual review
+    claims:
+      - Leland & Little appears in an Oregon City cigar-dealer list on 25 February 1922.
+      - The 8 June roster separately names Timms Pool Hall, Walter Little and O. H. Leland.
+      - The 17 August list identifies Leland and Little as billiards.
+      - Neither business is proved at 505 Main or as the fire-adjacent pool hall.
+    confidence: Very High for printed names and dates; addresses, partners, succession and fire relationship unresolved.
+    related_sources: [S-141]
+    related_businesses: [BUS-076, BUS-077]
+    related_people: [P-089, P-090, P-091]
+    repository_file: evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md

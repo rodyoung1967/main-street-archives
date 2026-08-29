@@ -7,7 +7,7 @@ This index is a human-readable navigation file for the Main Street Archive. It i
 For a family member, historian, or other first-time reader who wants to understand the story rather than the repository structure, start with:
 
 1. **`timeline.md` — Master Timeline.** This is the best single chronological walkthrough of what is known about the Main Street research area, including 503, 505, 507-511, and 527 Main, the family/business history, and the distinction between documented facts, family testimony, and open dates.
-2. **`buildings/501-main.md`, `buildings/503-main.md`, `buildings/505-main.md`, `buildings/507-harding-building.md`, and `buildings/527-swartz-building.md`.** Read these next for address-specific histories.
+2. **The files under `buildings/`.** Read the 501/503/505/507–511/527 Main pages for the principal Main Street frontage, and the 107/108/109/110 Fifth pages for the reconstructed Fifth Street cluster.
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
 5. **`evidence/evidence-register.md` and `evidence/source-register.md`.** These are the audit trail: what evidence supports each claim and where it came from.
@@ -161,6 +161,23 @@ Detailed source extraction/provenance note:
 
 Open research questions include the predecessor-building replacement date, identity of Swartz, 1935 owner/builder/architect and permits, intervening occupants, and the exact effect of the 1967 fire on 527.
 
+### Fifth Street address cluster
+
+The following exact-number records now have stable building/address pages. These are historic address records; they do not imply that the same physical structures survive or that one address equals one legal lot.
+
+- [`B-007` — 107 Fifth](buildings/107-fifth.md): 1914–1915 municipal ledger, **Blacksmith**, tenant unresolved.
+- [`B-008` — 108 Fifth](buildings/108-fifth.md): Scripture & May in 1916–1918; S. F. Scripture in June 1922. No bridge to 110 Fifth or May & Washburn is assumed.
+- [`B-009` — 109 Fifth / Oregon City Laundry](buildings/109-fifth-laundry.md): Fifth Street replacement plant in 1916; exact 109 listing in 1918; pre-fire plant destroyed July 1922; later 1925 laundry is a post-fire physical presence.
+- [`B-010` — 110 Fifth](buildings/110-fifth.md): 1914–1915 municipal ledger, **Stable**; probable Scripture & May tenant reading only.
+- [`B-006` — 513 Fifth](buildings/513-fifth.md): 1912 residential record, geographically separate unless later evidence proves otherwise.
+
+Other newly assigned historic address pages:
+
+- [`B-011` — 519 Main](buildings/519-main.md): Theroux, later Pantorium and temporary Oregon City Laundry office.
+- [`B-012` — 526 Main](buildings/526-main.md): Eddy's Dependable Store, 1915.
+- [`B-013` — 617 Main / Beaver Building](buildings/617-main-beaver-building.md): Electric Store, Schilling, later Jones Drug.
+- [`B-014` — 619 Main / Andresen Building](buildings/619-main-andresen-building.md): Electric Store/power offices by July 1916.
+
 ### 1915 neighboring-address integration
 
 See `evidence/source-captures/1915-sheets-073-100-integration-audit.md` for the batch's address-to-record dispositions and Friday/Thursday correction. **519 Main — F. F. Theroux** is a dated listing with no identified historic building; Bannon/Brunswick changes remain unnumbered-location leads (`RL-043`). Courier review remains paused before sheet 101.
@@ -185,30 +202,20 @@ Use the Sanborn key with each sheet before drawing conclusions about materials, 
 
 Primary file: `businesses/business-index.md`
 
-- `BUS-001` Kwality Cafe — `businesses/kwality-cafe.md`
-- `BUS-002` New Kwality Cafe — `businesses/kwality-cafe.md`
-- `BUS-003` Larry's Kwality Cafe — `businesses/kwality-cafe.md`
-- `BUS-004` The Wheel — `businesses/the-wheel.md` — **503 Main only**
-- `BUS-005` 505 Tavern — `businesses/the-505.md`
-- `BUS-006` Thirsty Duck
-- `BUS-007` Harding Drug Store — `businesses/harding-drug-store.md`
-- `BUS-008` Tony's Restaurant
-- `BUS-009` The 505 — `businesses/the-505.md`
-- `BUS-010` Brass Rail Tavern — `businesses/brass-rail-tavern.md`
-- `BUS-011` The Chicago Store
-- `BUS-012` Wolf & Miller
-- `BUS-013` Farr's Pool Hall
-- `BUS-014` Harr's Recreation Center
-- `BUS-015` Well's Recreation
-- `BUS-016` The Dug Inn
-- `BUS-017` Sports Keg
-- `BUS-018` H. H. / H. N. Smith Pool Hall
-- `BUS-019` L. Hylton's 503 Main business
-- `BUS-020` L. Hylton cigar and tobacco, 503 Main (the former Bailey & Price label here was an index error; this stable ID belongs to Hylton)
-- Bailey & Price Billiard and Pool Parlors, 527 Main (`E-052` / `S-061`; no business ID assigned; not merged with `BUS-028` Price Bros.)
-- `BUS-021` G. H. Young second-hand/furniture business
-- `BUS-022` H. P. Brightbill grocery
-- `BUS-023` George A. Harding pharmacy
+The business index is the canonical complete list. Central standalone histories include:
+
+- [`BUS-001`–`BUS-003` Kwality Cafe lineage](businesses/kwality-cafe.md) and [`BUS-004` The Wheel](businesses/the-wheel.md) — 503 Main only.
+- [`BUS-005` 505 Tavern / `BUS-009` The 505](businesses/the-505.md), [`BUS-010` Brass Rail](businesses/brass-rail-tavern.md), [`BUS-016` Dug Inn](businesses/dug-inn.md), and [`BUS-006` Thirsty Duck](businesses/thirsty-duck.md) — separate business-name/operator records at 505.
+- [`BUS-018` White Rabbit / Black Ink](businesses/white-rabbit-black-ink.md) — 503 permit/redevelopment-era record.
+- [`BUS-067` G. H. Young / The Curio Man](businesses/gh-young-curio-man.md) — 507 Main by 1912 and again 1914.
+- [`BUS-068` Oregon City Laundry](businesses/oregon-city-laundry.md) — reconstructed Third/Main → Fifth/109 Fifth → fire/recovery chronology.
+- [`BUS-069` May & Washburn](businesses/may-washburn.md), [`BUS-070` Fifth Street Restaurant](businesses/fifth-street-restaurant.md), [`BUS-071` Gilbert Miller shoe repair](businesses/gilbert-miller-shoe-repair.md), and [`BUS-072` Ketchner confectionery](businesses/ketchner-confectionery.md) — July 1922 Fifth Street cluster.
+- [`BUS-073` Pantorium](businesses/pantorium-cleaners.md), [`BUS-074` Red Front](businesses/red-front-clothing-store.md), and [`BUS-075` Schieremann tailor shop](businesses/alex-schieremann-tailor.md) — Main Street/fire-property reconstruction.
+- [`BUS-076` Timms Pool Hall](businesses/timms-pool-hall.md) and [`BUS-077` Leland & Little](businesses/leland-little.md) — distinct 1922 billiards records; neither is yet assigned to 505 or the fire-adjacent room.
+
+Important correction to the former navigation list: `BUS-018` is **White Rabbit / Black Ink**, `BUS-019` is **H. H. Smith pool hall**, `BUS-020` is **L. Hylton**, `BUS-021` is **Dr. Freeze**, `BUS-022` is **Dr. Roy Briggs**, and `BUS-023` is **Dixon's Bakery**. G. H. Young now has the new stable ID `BUS-067`.
+
+Bailey & Price Billiard and Pool Parlors at 527 remains unassigned and is not merged with `BUS-028` Price Bros.
 
 ## People Index
 
@@ -232,6 +239,14 @@ High-priority people/entities:
 - Skyline Property Management — property manager / authorized agent
 - George A. Harding — Harding Building / Harding Drug Store context
 - Dr. Bailey — legacy 1909 Harding Building claim is unverified; track under `OQ-030`
+- G. H. Young / George Young — `P-076`; 1911 Harding-to-Willamette move and 1912/1914 507 Main anchors
+- O. L., E. M., and M. L. Blakeslee — `P-077`–`P-079`; kept separate in the Oregon City Laundry chronology
+- Knoepel and Schofield — `P-080`–`P-081`; 1922 laundry operators
+- S. F. Scripture and L. E. May — `P-082`–`P-083`; Scripture & May at 108 Fifth; May & Washburn identity remains unproved
+- Alex Schieremann, H. Ketchner, J. Blake, and the Ed Gage / Ed Blake conflict — `P-085`–`P-088`; July 1922 cluster
+- O. H. Leland, Walter L. Little, and Timms — `P-089`–`P-091`; distinct billiards/identity records
+- R. A. Junken — `P-092`; Gates's August 1922 replacement-building contractor
+- F. Champion — `P-093`; Pantorium owner at 416 Main in 1914
 
 ## Evidence and Source Registers
 
@@ -245,6 +260,7 @@ High-priority people/entities:
 - Photo metadata register: `media/photo-metadata-register.md`
 - Sanborn map register: `maps/sanborn-map-register.md`
 - 527/Swartz survey extraction note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
+- Repository-wide entity/page reconciliation: `registers/entity-page-audit-2026-08-29.md`
 
 ## Current Priority Searches
 
@@ -264,34 +280,15 @@ High-priority people/entities:
 
 - `evidence/E-108-block4-harding-address-property-bridge.md` — integrated Block 4 / Harding / 1922 address-to-property bridge.
 
-## 1915 online-review checkpoint — through November 25
+## Current annual-review checkpoints
 
-Courier **110/123 sheets** processed; pause before December2. **46 Courier images +428 Enterprise images remain**. Year **IN PROGRESS**; source exceptions/manual callouts remain open.
+The canonical status and blockers are maintained in [registers/year-status.md](registers/year-status.md). No year is currently certified `ONLINE COMPLETE`.
 
-- [Batch page log and manual callouts](evidence/source-captures/1915-courier-sheets-101-110.md), E-109/S-121.
-- Dated507Bradley /509Brightbill /511Harding /519Theroux /527PriceBros listings extend through November25.
-- [Mass's Hotel and Restaurant](businesses/mass-hotel-restaurant.md), BUS-030/P-045: former Brunswick opening confirmedOctober30, 1915, exact number open.
-- [Electric Store](businesses/electric-store.md), BUS-031:617 Main/Beaver Building, November 25.
-- [Eddy's Dependable Store](businesses/eddys-dependable-store.md), BUS-032:526 Main, November 25, proprietor/identity open.
-- Fifth Street findings remain included, but intersection ads, exact numbers and road work are not conflated. No new exact 503/505 occupant established.
-
-## 1915 Courier December completion
-
-- `evidence/source-captures/1915-courier-sheets-111-123.md` - final 46 December pages visually reviewed; source S-122 / evidence E-110.
-- `newspapers/oregon-city-courier/1915-sheets-111-123/` - unchanged original PDFs, manifest, hashes and media IMG-0203-IMG-0248.
-- Courier checkpoint: **123/123 scan sheets processed**. Enterprise and other-source work remain; 1915 is still IN PROGRESS.
-- `evidence/source-captures/1915-enterprise-pages-201-225.md` - S-129/E-115, 25 visually reviewed Morning Enterprise pages through 16 July p1; preserved originals under `newspapers/oregon-city-enterprise/1915-pages-201-225/`.
-
-## 1916 Courier saved checkpoint
-
-[Pages 106–180](evidence/source-captures/1916-courier-pages-106-180.md) — 75 visually reviewed original PDFs; Courier 180/458, next May 18 p4. Source S-130, evidence E-116; 1916 IN PROGRESS.
-
-## 1916 monthly review checkpoint
-
-- [First monthly Courier issues, June–December: findings, 58-page ledger and remaining issues](evidence/source-captures/1916-courier-first-monthly-june-december.md)
-- [Schilling and Pruden optometry practices](businesses/schilling-pruden-optometry.md)
-
-Courier 238/458 reviewed; year IN PROGRESS. Source S-133, evidence E-119.
+- **1915 — IN PROGRESS:** Courier **123/123** sheets complete through year end. *Morning Enterprise* **225/428** images reviewed through 16 July page 1; **203 remain**, next 16 July page 2. Relevant Book 3 water-ledger audit and the 1915–1916 Polk Oregon City section review are complete. Other source classes and Courier exceptions M01–M04 remain.
+- **1916 — IN PROGRESS:** 104 issues / 884 pages inventoried. Courier **238/458** reviewed; Enterprise **0/426** in the exhaustive pass. Seven first-monthly June–December Courier issues are already included in the 238. **646 total newspaper pages remain**; next Courier page is 18 May page 4.
+- **1917 — IN PROGRESS:** twelve selected monthly Courier issues / **96 pages** visually reviewed, supplying 108 Fifth and 519/617/619 Main anchors. This is a sample, not annual completion.
+- **1918 — IN PROGRESS:** exact 24 October business-guide snapshot is registered as `E-124` / `S-138`; annual inventory and exhaustive page review remain unfinished.
+- **1922 — IN PROGRESS:** targeted fire/property package is integrated, but neither 501/503/505 fire model is selected and the annual review is not certified.
 
 ## Uploaded Courier pages: 1907–1908
 

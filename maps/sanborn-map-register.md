@@ -87,7 +87,7 @@ This register records Sanborn map sheets committed for the Main Street Archive. 
 - Sheet: 6
 - Coverage: Oregon City Main/Water/5th area.
 - Use: High-priority sheet for the 501 / 503 / 505 Main question and for testing 503/505 building footprint, address numbering, construction hypotheses, and the corrected `E-094` original **Block 4** lot-to-address reconstruction. The former Block 26 Lot 5/Lot 6 target alignment is withdrawn.
-- Related buildings: `B-005`, `B-001`, `B-002`, `B-003`
+- Related buildings: `B-005`, `B-001`, `B-002`, `B-003`, `B-009`
 - Archive status: `committed` — binary PDF is committed to the repository at the path above.
 
 ## SM-009 — 1950 Sanborn, 5th Area

@@ -199,11 +199,13 @@ buildings:
       - BUS-023
       - BUS-026
       - BUS-027
+      - BUS-067
     related_people:
       - P-001
       - P-002
       - P-041
       - P-042
+      - P-076
     related_evidence:
       - E-116
       - E-108
@@ -312,3 +314,69 @@ buildings:
       - E-106
     related_sources:
       - S-118
+
+  - id: B-007
+    name: 107 Fifth Street (historic blacksmith address)
+    address: 107 Fifth Street, Oregon City, Oregon
+    notes: The 1914–1915 water-rent ledger directly records 107 Fifth in original Block 4 with use Blacksmith. Tenant, footprint, parcel and later continuity unresolved.
+    related_evidence: [E-117]
+    related_sources: [S-131]
+
+  - id: B-008
+    name: 108 Fifth Street (historic blacksmith / carriage and auto works address)
+    address: 108 Fifth Street, Oregon City, Oregon
+    notes: Scripture & May is directly documented at 108 Fifth in selected 1916–1918 sources; S. F. Scripture appears there in June 1922. No bridge to ledger 110, Fashion Stable or May & Washburn is assumed.
+    related_businesses: [BUS-039]
+    related_people: [P-082, P-083]
+    related_evidence: [E-119, E-120, E-124]
+    related_sources: [S-133, S-134, S-138]
+
+  - id: B-009
+    name: 109 Fifth Street / Oregon City Laundry address
+    address: 109 Fifth Street, Oregon City, Oregon
+    notes: The 1916 laundry plan changed to Fifth Street and the new plant was nearing completion by April. A 1918 guide directly prints Oregon City Laundry at 109 Fifth. The pre-fire plant burned in July 1922; the 1925 laundry footprint is a later physical presence, not proved identical fabric.
+    related_businesses: [BUS-068]
+    related_people: [P-077, P-078, P-079, P-080, P-081]
+    related_evidence: [E-102, E-103, E-124, E-125]
+    related_sources: [S-021, S-117, S-138, S-139, S-140]
+    related_maps: [SM-008, SM-009]
+
+  - id: B-010
+    name: 110 Fifth Street (historic stable address)
+    address: 110 Fifth Street, Oregon City, Oregon
+    notes: The 1914–1915 water-rent ledger directly records 110 Fifth in Block 3 with use Stable. Scripture & May tenant reading is probable only; no 108 renumbering or Fashion Stable identity is established.
+    related_evidence: [E-117]
+    related_sources: [S-131]
+
+  - id: B-011
+    name: 519 Main Street (historic storefront address)
+    address: 519 Main Street, Oregon City, Oregon
+    notes: Theroux is directly documented at 519 in 1915–1917. Pantorium was at 519 by 20 July 1922 and shared a temporary post-fire Oregon City Laundry office. No uninterrupted occupancy, title or surviving-building identity inferred.
+    related_businesses: [BUS-029, BUS-068, BUS-073]
+    related_people: [P-044, P-093]
+    related_evidence: [E-103, E-107, E-109, E-116, E-119, E-120]
+    related_sources: [S-117, S-120, S-121, S-130, S-133, S-134]
+
+  - id: B-012
+    name: 526 Main Street (historic storefront address)
+    address: 526 Main Street, Oregon City, Oregon
+    notes: Eddy's Dependable Store is directly advertised at 526 Main on 25 November 1915. Proprietor, building identity, title and continuity unresolved.
+    related_businesses: [BUS-032]
+    related_evidence: [E-109]
+    related_sources: [S-121]
+
+  - id: B-013
+    name: 617 Main Street / Beaver Building address
+    address: 617 Main Street, Oregon City, Oregon
+    notes: Electric Store and Schilling optometry are dated 1915–1916 occupants; Jones Drug Company is directly at 617 by November 1917. Shared-room arrangement, ownership and exact transition dates unresolved.
+    related_businesses: [BUS-031, BUS-037, BUS-040]
+    related_evidence: [E-109, E-116, E-119, E-120]
+    related_sources: [S-121, S-130, S-133, S-134]
+
+  - id: B-014
+    name: 619 Main Street / Andresen Building address
+    address: 619 Main Street, Oregon City, Oregon
+    notes: Electric Store and power-company offices reported moved to Andresen Building 619 Main by July 1916; January 1917 ad repeats the exact address. Earlier Andresen references are not backdated to 619.
+    related_businesses: [BUS-031]
+    related_evidence: [E-119, E-120]
+    related_sources: [S-133, S-134]

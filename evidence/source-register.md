@@ -915,3 +915,27 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/seq-9.pdf
 Repository: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf`.
 Media: `IMG-0710`. Evidence: E-121, E-122, E-123.
 Notes: Original uploaded filename, SHA-256 and retrieval distinction are in `newspapers/oregon-city-courier/1907-1908-surber-justin-review/manifest.json`. Full page visually inspected with enlarged notices. Filename labels were tested against printed wording. See `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## S-138 — Oregon City Courier, 24 October 1918, page 6 business guide
+Type: Primary newspaper scan; **VISUALLY VERIFIED**.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-6.pdf
+Evidence: `E-124`.
+Notes: The business guide directly prints **Scripture & May — 108 Fifth**, **Oregon City Laundry — M. L. Blakeslee, Prop. — 109 Fifth St.**, **Pantorium Cleaners — 500 Main**, and **Wolf & Miller — 505 Main**. These are dated business/address observations, not proof of earlier or later uninterrupted occupancy. The scan was visually inspected in the existing Fifth Street, laundry, Pantorium, and Wolf & Miller research passes.
+
+## S-139 — Oregon City Courier, 17 February 1916, page 7
+Type: Primary newspaper scan; **VISUALLY VERIFIED**.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-17/ed-1/seq-7.pdf
+Evidence: `E-125`.
+Notes: Reports that E. M. Blakeslee of Oregon City Laundry traded the rear-Courier property where he had intended to build for a location on Fifth Street and would rebuild there. This is the direct plan-change bridge between the 3 February rear-Courier proposal and the April Fifth Street plant.
+
+## S-140 — Sunday Oregonian, 2 April 1916, page 14
+Type: Primary newspaper scan; visually reviewed in the laundry-location reconstruction.
+URL: https://oregonnews.uoregon.edu/lccn/sn83045782/1916-04-02/ed-1/seq-14.pdf
+Evidence: `E-125`.
+Notes: Reports the new Oregon City Laundry building on Fifth Street just off Main and nearing completion. Read with `S-139`; the wording does not itself print 109 Fifth or prove the exact later footprint.
+
+## S-141 — 1922 Timms / Leland & Little billiards source set
+Type: Primary newspaper scans; cited pages **VISUALLY VERIFIED**.
+URLs: https://oregonnews.uoregon.edu/lccn/sn83025138/1922-02-25/ed-1/seq-15.pdf ; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/ ; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/
+Evidence: `E-126`.
+Notes: The 25 February Portina list names Leland & Little and separately Little, W. L.; the 8 June merchant roster separately names Walter Little, Timms Pool Hall, and O. H. Leland; the 17 August business list identifies Leland and Little as billiards. None of the pages prints an address or identifies the unnamed pool hall adjoining the July fire-origin room.

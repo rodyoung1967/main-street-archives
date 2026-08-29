@@ -9,7 +9,7 @@
 | BUS-003 | [Larry's Kwality Cafe](kwality-cafe.md) | 503 Main | Telephone 6106; merchant lunches, steaks, chops. |
 | BUS-004 | [The Wheel](the-wheel.md) | **503 Main only** | Raye Grisham (formerly Raye LaFarlette; same person) owned The Wheel business. **Dick and Sheila bought The Wheel business from Raye; later they bought the 503 building; later, when they sold The Wheel business, they also sold the 503 building.** Exact transaction dates, property seller, later buyer, deed, business-sale, and liquor-license records remain open. 1985: Richard M. Wiitanen documented as owner of The Wheel Cafe business at 503. **"The Wheel Tavern" was not an official name.** |
 | BUS-005 | [505 Tavern](the-505.md) | 505 Main | Separate from The Wheel. Documented in 1965/1972 liquor renewals and 1976. Family history places Ray Hansen earlier, followed by Dick/Sheila's Brass Rail period. Dick and Sheila operated Brass Rail **before owning the 505 building**, then later purchased the real estate from Mrs. Nesmeth/Nemeth. Before selling the business to their son Mitch, the Wiitanens renamed it 505 Tavern; Mitch acquired it under that existing name and ran it Mar. 1991-Mar. 2004. |
-| BUS-006 | Thirsty Duck | 505 Main | Opened/reopened in 2017 after sale. Still the current operating business as of August 2026. Current lessee and operating-business owner is Alin Guria (`P-019`). |
+| BUS-006 | [Thirsty Duck](thirsty-duck.md) | 505 Main | Opened/reopened in 2017 after sale. Still the current operating business as of August 2026. Current lessee and operating-business owner is Alin Guria (`P-019`). |
 | BUS-007 | [Harding Drug Store](harding-drug-store.md) | 511 Main (1915); later 507/Harding-block context | Geo. A. Harding's 1915 directory address is 511 (`E-107`); do not backdate later 507 or consolidated-building labels. Continuity and exact historic footprint remain open. |
 | BUS-008 | Tony's Restaurant | 507 Main | Associated with Harding Building before fire. |
 | BUS-009 | [The 505](the-505.md) | 505 Main | Earlier archive handling label for the 505 Main Street business context. Keep as a related name; participant testimony establishes **505 Tavern** (`BUS-005`) as the name already in use when Mitch acquired the business in March 1991. |
@@ -19,9 +19,9 @@
 | BUS-013 | Farr's Pool Hall | 505 Main | Edwin F. and Alice Farr, proprietors; City inventory of their residence. |
 | BUS-014 | Harr's Recreation Center | 505 Main | City inventory transcription of 1945 directory. Preserve exactly; may be Farr/Harr conflict. |
 | BUS-015 | Well's Recreation | 505 Main | City inventory reports 1953 directory; spelling to verify. |
-| BUS-016 | The Dug Inn | 505 Main | April 1988 Commission record: formerly The Brass Rail; Wiitanen-to-Cotterell transfer. Place within the later business sale/repo/transfer cycle after the original Dick/Sheila Brass Rail period and later 505 property purchase. |
+| BUS-016 | [The Dug Inn](dug-inn.md) | 505 Main | April 1988 Commission record: formerly The Brass Rail; Wiitanen-to-Cotterell transfer. Place within the later business sale/repo/transfer cycle after the original Dick/Sheila Brass Rail period and later 505 property purchase. |
 | BUS-017 | Sports Keg | 505 Main | Family recollection, late 1980s / early 1990s during sale/repossession cycle. Research lead. |
-| BUS-018 | White Rabbit / Black Ink | 503 Main | 2016-2017 renovation and later use; 2017 article `E-001`. |
+| BUS-018 | [White Rabbit / Black Ink](white-rabbit-black-ink.md) | 503 Main | 2016-2017 renovation and later use; 2017 article `E-001`; municipal permits `E-098` and `E-099`. |
 | BUS-019 | H. H. Smith pool hall | 503 Main | March 1912 license application; grant not independently proven. |
 | BUS-020 | L. Hylton cigar and tobacco | 503 Main | February 1914 Courier industrial edition. |
 | BUS-021 | Dr. Freeze, Eye Specialist | 505 / 505 1/2 Main | 1921-1922 newspaper ads; later Masonic Building. |
@@ -100,3 +100,21 @@ Descriptive liquor-premises labels are archive labels, not proved trade names.
 | ID | Business Name | Address / Association | Notes |
 | --- | --- | --- | --- |
 | BUS-066 | Knapp & Noebel liquor premises | 712 Main,4 October 1907 | 4 October 1907 three-month renewal application at 712 Main; enlarged scan reads NOEBEL. A 1908 notice reads NOBEL at 712. Preserve separate name styles until an independent identity bridge is found. E-123/S-135; P-075. |
+
+## Central businesses promoted from source captures
+
+These records were already part of the evidence narrative but previously lacked stable business IDs/pages.
+
+| ID | Business | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-067 | [G. H. Young — The Curio Man / second-hand and furniture business](gh-young-curio-man.md) | 507 Main by Jan. 1912; again 1914 | 1911 move into Willamette Building strengthens but does not prove the 507 building-name bridge. `P-076`; `E-085`, `E-092`. |
+| BUS-068 | [Oregon City Laundry](oregon-city-laundry.md) | 109 Fifth by Oct. 1918; temporary office 519 Main after July 1922 fire | Fifth Street construction-site change in 1916; pre-fire plant destroyed 1922; 1925 complex is later physical presence. `E-103`, `E-124`, `E-125`. |
+| BUS-069 | [May & Washburn garage](may-washburn.md) | Fifth/Main fire cluster; exact number unresolved | Frame garage destroyed July 1922; partnership continued. No automatic Scripture & May/108 Fifth succession. |
+| BUS-070 | [Fifth Street Restaurant](fifth-street-restaurant.md) | Fifth/Main corner property; exact number unresolved | Gates received the location and rebuilt after July fire. Gage/Blake owner-operator conflict preserved. `E-096`, `E-097`, `E-103`. |
+| BUS-071 | [Gilbert Miller shoe repair / Miller's Shoe Store](gilbert-miller-shoe-repair.md) | Pre-fire address unresolved; 209 Fifth then 419 Main after fire | Part of Harding group/fire cluster; post-fire relocations do not identify prior room. `P-046`. |
+| BUS-072 | [H. Ketchner home and confectionery](ketchner-confectionery.md) | Next to Oregon City Laundry; number unresolved | Same-page July 1922 primary wording. `P-086`; `E-103`. |
+| BUS-073 | [Oregon City Pantorium / Pantorium Cleaners](pantorium-cleaners.md) | 416 Main (1914), 500 Main (1918), 519 Main by 20 Jul. 1922 | Candidate recent cleaner/dyer only; ignition-room identity unproved. |
+| BUS-074 | [Red Front Clothing Store](red-front-clothing-store.md) | Harding Main Street group; exact number unresolved | Named in 13 July sale; damaged in fire accounts. `E-096`. |
+| BUS-075 | [Alex Schieremann tailor shop](alex-schieremann-tailor.md) | Former Main Street ignition-room tenant; number unresolved | Local fire report; exact address and vacancy date unresolved. `P-085`; `E-103`. |
+| BUS-076 | [Timms Pool Hall](timms-pool-hall.md) | Oregon City; exact address unresolved | Separately named June 1922; not merged with Leland & Little or fire-adjacent pool hall. `E-126`. |
+| BUS-077 | [Leland & Little Billiards](leland-little.md) | Oregon City; exact address unresolved | Exists by Feb. 1922; billiards by Aug.; 505 billiards/cigars match is a lead only. `E-126`. |

@@ -67,10 +67,24 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
+| Jan. 1912; again 1914 | G. H. Young — The Curio Man / second-hand and furniture | `BUS-067` | `E-092`; 1914 exact listing | Very High for dated 507 address | March 1911 Willamette Building move strengthens but does not prove the building-name/507 bridge or uninterrupted occupancy. |
 | Dated listings, Aug.–Oct. 1915 | W. W. Bradley furniture | `BUS-026` | `E-107` | High, visual | 507 Main, not Harding's 511 listing. No continuous occupancy or Young-to-Bradley transfer inferred. |
 | Until 1 Sep. 1967 | Harding Drug Store | `BUS-007` | `E-045` | Very High for destruction in fire | Gutted 1 September 1967. Earlier operating span still incomplete. |
 | Before 1 Sep. 1967 fire | Tony's Restaurant | `BUS-008` | `E-016` | Working | Not named in the 1967 Oregonian fire article. |
 | 1 Sep. 1967 | Dixon's Bakery | `BUS-023` | `E-045` | Very High | Gutted in the same block fire. Exact street number pending. |
+
+## Numbered Fifth Street cluster
+
+| Period | Address | Business / use | Business ID | Evidence | Limits |
+| --- | --- | --- | --- | --- | --- |
+| 1914–1915 ledger period | 107 Fifth (`B-007`) | Blacksmith; tenant unreadable | — | `E-117` | No named-blacksmith inference. |
+| 1914–1915 ledger period | 110 Fifth (`B-010`) | Stable; probable Scripture & May tenant reading | `BUS-039` comparison only | `E-117` | Probable handwriting only; not Fashion Stable and not proved predecessor to 108. |
+| Sep. 1916–Oct. 1918; S. F. Scripture June 1922 | 108 Fifth (`B-008`) | Scripture & May / later S. F. Scripture | `BUS-039` | `E-119`, `E-120`, `E-124` | No automatic May & Washburn succession or 110 renumbering. |
+| Apr. 1916 construction; exact by Oct. 1918; destroyed July 1922 | 109 Fifth (`B-009`) | Oregon City Laundry | `BUS-068` | `E-124`, `E-125`, `E-103` | 1916→109 continuity strong; exact parcel/footprint not proved. Pre-fire plant did not survive the fire. |
+| By Dec. 1920–July 1922 | Fifth/Main cluster; number unresolved | May & Washburn garage | `BUS-069` | `E-103` | Do not assign 108 from partner-name or trade proximity. |
+| By June–July 1922 | Fifth/Main corner property; number unresolved | Fifth Street Restaurant | `BUS-070` | `E-096`, `E-097`, `E-103` | Gates site may map principally to 501 or include 503; owner/operator conflict preserved. |
+| July 1922 pre-fire | Fifth/Main cluster; number unresolved | Gilbert Miller shoe repair | `BUS-071` | `E-096`, `E-103` | Later 209 Fifth / 419 Main are post-fire relocations. |
+| July 1922 | Next to laundry; number unresolved | H. Ketchner home/confectionery | `BUS-072` | `E-103` | Combined home/business wording preserved. |
 
 ## Other dated neighboring storefronts
 
@@ -79,6 +93,7 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | Dated listings, Aug.–Oct. 1915 | 509 Main | H. P. Brightbill grocery | `BUS-027` | `E-107` | Do not silently merge with Henry Brightbill `P-034`. |
 | Dated listings, Aug.–Oct. 1915 | 511 Main | Geo. A. Harding, druggist | `BUS-007` | `E-107` | Business address, not proof of the named building's footprint or continuous operation into 1967. |
 | 5 Aug. 1915 | 519 Main | F. F. Theroux, pianos/sewing machines | `BUS-029` | `E-107` | Prior Fifth/Main wording does not prove a move or target-storefront identity. |
+| 20 Jul. 1922 | 519 Main (`B-011`) | Pantorium; temporary Oregon City Laundry office | `BUS-073`; `BUS-068` | `E-103` | Temporary receiving office, not laundry production plant or proof of pre-fire Pantorium arrival. |
 | 5 Jan. 1912 | 527 Main | Bailey & Price billiard/pool parlors | Unassigned; unmerged with Price Bros. | `E-052` / `S-061` | Preserved as separate business record; no Price identity/succession bridge. |
 | 30 July / 5 Aug. 1915 | 527 Main | Price Bros. clothing store | `BUS-028` | `E-107` | 5 Aug. directory gives number; same-issue report names Al Price and describes Friday-night electric-iron incident. 30 July derived from date wording; no closure or rebuilding established. |
 | Oct 28; Nov 4,11,18,25, 1915 | 507/509/511/519/527 Main | Bradley / H. P. Brightbill / Harding / Theroux / Price Bros. respectively | BUS-026 / BUS-027 / BUS-007 / BUS-029 / BUS-028 | E-109 | Five dated directory confirmations; no uninterrupted occupancy, move, identity merger or title inference. |

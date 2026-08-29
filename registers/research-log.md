@@ -92,3 +92,15 @@ Existing 1910 Justin rear-pool, Case/restaurant, Streibig market and Hodes recor
 Worktree based on authoritative origin/main021d473, isolated from unrelated localmain commit. [Full findings, limits and restart](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).
 
 Final enlarged-name check:1907 **NOEBEL**,1908 **NOBEL**, both 712 Main. Replaced the preliminary harmonized reading before publication and indexed the 1907 style separately as P-075/BUS-066. No confirmed-source finding was deleted.
+
+## 29 August 2026 — repository-wide entity/page and timeline reconciliation
+
+- Audited all building, business, and people indexes/YAML records against standalone pages, source captures, evidence, address/business registers, crosswalks, and `timeline.md`.
+- Expanded building/address records from 6 to 14, adding 107/108/109/110 Fifth and 519/526/617/619 Main without inventing unproved 102/104/106 Fifth premises.
+- Expanded businesses from 66 to 77, promoting G. H. Young, Oregon City Laundry, the principal July 1922 cluster, Pantorium, Red Front, Schieremann, Timms, and Leland & Little from narrative-only mentions to stable records/pages. Added standalone pages for White Rabbit / Black Ink, Dug Inn, and Thirsty Duck.
+- Expanded people/entities from 75 to 93 and added central profiles while keeping name/initial conflicts separate.
+- Registered `S-138`–`S-141` / `E-124`–`E-126` for the visually reviewed 1918 exact-address guide, 1916 laundry-site change, and 1922 billiards chronology.
+- Corrected stale `ARCHIVE_INDEX.md` business-ID mappings and annual checkpoints. Reordered the appended 1915–1916 timeline sections and added central 1916–1925 and later chronology; `database/timeline.yml` now has 39 stable records.
+- Full method and page-coverage rule: `registers/entity-page-audit-2026-08-29.md`.
+
+This was an integration/reconciliation pass, not new annual certification. All annual statuses remain unchanged; no absence result was converted into vacancy, closure, demolition, relocation, or non-use.

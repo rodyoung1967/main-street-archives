@@ -673,3 +673,23 @@ sources:
     repository_file: newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-09-18-seq-09.pdf
     notes: User-supplied one-page PDF, full page visually verified; IMG-0710; evidence E-121, E-122, E-123. Original
       filename/hash in manifest. Archive URL not retrieved in this task; do not treat filename annotations as evidence.
+
+  - id: S-138
+    name: Oregon City Courier, 24 October 1918, page 6 business guide
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-6.pdf
+    notes: Visually inspected business guide directly prints Scripture & May at 108 Fifth, Oregon City Laundry under M. L. Blakeslee at 109 Fifth, Pantorium Cleaners at 500 Main, and Wolf & Miller at 505 Main. Related evidence E-124.
+
+  - id: S-139
+    name: Oregon City Courier, 17 February 1916, page 7
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-17/ed-1/seq-7.pdf
+    notes: Visually verified report that E. M. Blakeslee traded the rear-Courier planned laundry site for a Fifth Street location. Related evidence E-125.
+
+  - id: S-140
+    name: Sunday Oregonian, 2 April 1916, page 14
+    url: https://oregonnews.uoregon.edu/lccn/sn83045782/1916-04-02/ed-1/seq-14.pdf
+    notes: Reports new Oregon City Laundry building on Fifth just off Main nearing completion. Related evidence E-125; no exact number printed.
+
+  - id: S-141
+    name: 1922 Timms / Leland & Little billiards source set
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
+    notes: Visually verified 25 February, 8 June and 17 August pages establish Leland & Little by February, separately name Timms Pool Hall/Walter Little/O. H. Leland in June, and identify Leland and Little as billiards in August. Exact addresses and fire-adjacent identity unresolved. Related evidence E-126.
