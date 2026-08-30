@@ -203,7 +203,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - Identify Willie by full name.
 - Confirm whether the rear portion of 505 was added later; test **`E-101`** against assessor cards **1938–1942**, Oregon City Building Division archives **1939–1941**, steward-verified aerial rear-edge transcription (`E-102` partial pass), and physical building analysis.
 - Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
-- Obtain deed/title/survey proof for the strong working placement of 505 within original Block 26 Lot 5 and the Lot 5/Lot 6 line near 505/507.
+- Obtain deed/title/survey proof for 505's exact placement within original **Block 4 Lots 3–4** and the historical boundary near 505/507; do not revive the withdrawn Block 26 model.
 - Retrieve the complete OHS MSS 1503 Box 19 abstract; its index title says later Block 4 Lots 3–4 while its Lot field says 3–5, so do not assume its exact 505 coverage before inspection (`E-095`).
 - Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and Gates/Junken permit or plans to determine whether modern 505 lay in Wolf's remainder or adjoined it.
 - Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
@@ -224,7 +224,7 @@ Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/r
 - What documentary evidence confirms the Nov. 2024 estate transfer of 505 Main to Rodney and Mitch?
 - What documentary evidence confirms the 2017 transition from 505 Tavern to Thirsty Duck?
 - Did the July 1922 Wolf remainder begin at modern 503, 505, or another frontage line?
-- What was at 501 Main, if anything, on the 1925 Sanborn map?
+- Which tenant occupied the separate **501 Main store** mapped on the 1925 Sanborn?
 
 
 ## Task 7 Address-to-Property Bridge

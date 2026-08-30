@@ -94,18 +94,22 @@ timeline:
       - B-005
 
   - id: T-005
-    date: 1940s-1950s
-    summary: 503 Main housed the Kwality Cafe / New Kwality Cafe / Larry's Kwality Cafe.
-    confidence: Strong for Kwality Cafe associations; exact dates unresolved
+    date: 1926-1950s; artifact-name dates unresolved
+    summary: City synthesis places Kwality Restaurant/Cafe at 503 in 1926 and 1947, while exact-address matchbooks independently identify New Kwality Cafe under J. Jager and Larry's Kwality Cafe. The artifact-name order and dates remain unresolved.
+    confidence: Official secondary for the dated generic Kwality anchors; Very High primary-artifact evidence for the two exact names/address; sequence unresolved
     related_evidence:
       - E-002
       - E-003
+      - E-032
     related_buildings:
       - B-001
     related_businesses:
       - BUS-001
       - BUS-002
       - BUS-003
+    related_people:
+      - P-003
+      - P-004
 
   - id: T-006
     date: 1 September 1967

@@ -2,6 +2,8 @@
 
 Address record: [`B-005`](../buildings/501-main.md). See [master](../timeline.md), [503](503-main.md), and [505](505-main.md) timelines.
 
+Scope: unified chronology of registered address-specific occupants, uses, physical changes, and material shared events. Annual review-coverage checkpoints and generic retrieval records remain in the master timeline and research registers.
+
 | Date | Event | Status / limits | Records |
 | --- | --- | --- | --- |
 | 1844–1900 | Original Block 4 plat and early Sanborn frontage. | Context; later numbers/footprints not securely mapped. | `E-094`; `SM-002`–`SM-006` |
@@ -10,8 +12,11 @@ Address record: [`B-005`](../buildings/501-main.md). See [master](../timeline.md
 | 1 Jun. 1910 | E. R. Case saloon at Fifth/Main with adjoining restaurant; Pioneer Market separately at intersection. | Context only; neither assigned to 501. | `E-080`, `E-081` |
 | 19 Mar. 1912 | Joe Wilson's **Palace Saloon, 501 Main** license application. | **Exact, visually verified**; no Surber succession, grant, title, or continuity. | `BUS-024`; `P-037`; `E-104`; `S-118` |
 | 3 Oct. 1913 | **Hunsaker & Taylor, 501 Main** license application. | **Exact, visually verified**; no Palace sale/rename/continuity. | `BUS-025`; `P-038`; `E-104`; `S-119` |
+| 3 Oct. 1913 | City Recorder notice says the official street-numbering plat/plan remained on file under Ordinance 357. | Municipal retrieval lead only; it does not map 501 to an original Block 4 lot. | `E-105`; `S-119` |
 | 1914–1915 | Water ledger carries layered **501 / Restaurant–Saloon** classification. | Exact use, but tenant and precise observation date unresolved. | `E-117`; `S-131` |
-| Aug. 1914–1917 | Holman, Holman & Randall, then Holman advertising at Fifth/Main; Randall sells interest 6 Apr. 1916. | Intersection/business context only; not exact 501 or property title. Later joint ads do not prove continuing partnership. | `BUS-035`; `E-112`, `E-116`, `E-119`; `S-064`–`S-066`, `S-130` |
+| 28 Aug. 1914 | R. L. Holman reports moving his undertaking parlors to Fifth/Main. | Exact intersection, not exact 501 or property title. | `BUS-035`; `P-050`; `E-054`; [source capture](../evidence/source-captures/1914-08-28-holman-move-fifth-main.md) |
+| 7 May 1915–6 Apr. 1916 | Holman & Randall form at Holman's Main-near-Fifth establishment; Randall then sells his undertaking interest to Holman. | Business-interest chronology; neither report prints 501. Later joint ads do not prove continuing partnership ownership. | `BUS-035`; `P-050`, `P-051`; `E-112`, `E-116`; `S-124`, `S-130` |
+| Aug. 1916–Jan. 1917 | Holman-alone advertising at Fifth/Main. | Intersection/business context only; not exact 501 or property title. | `BUS-035`; `P-050`; `E-054`, `E-119`; `S-066`, `S-133` |
 | 1918–1921 | Holman & Pace chapel/funeral-parlor chronology. | Business chronology; cited sources do not print 501/Fifth-Main. | `E-055`; `S-067`, `S-068` |
 | 13 Jul. 1922 | Harding group divided: Gates receives Fifth Street Restaurant location; S. Wolf the remainder. | Shared property context; no 501/503/505 boundary proved. | `E-096`; `S-111` |
 | 18 Jul. 1922 | Fifth/Main fire; Wolf owns ignition building; multiple neighboring businesses damaged. | Shared fire context; no ignition/business assignment to 501. | `E-103`; `S-117` |
@@ -21,6 +26,7 @@ Address record: [`B-005`](../buildings/501-main.md). See [master](../timeline.md
 | 1936 | Aerial shows distinct 501 roof/structure. | Physical presence; tenant/construction date unknown. | `E-021`; `S-023` |
 | 1936–1944 | Distinct 501 structure disappears between aerials. | Removal window only; cause/date unresolved. | `E-021`; `S-023` |
 | 1950 | Earlier separate 501 storefront configuration is absent from Sanborn. | Physical/address context, not removal-cause proof. | `SM-009` |
-| Current | 501 remains live in the Gates/Wolf/fire model because Gates-to-501 is unproved. | **Hypothesis/conflict; no model selected.** | `E-108`; Task 7/8 captures |
+| Current research | OHS indexes a Main/Fifth Block 4 title abstract, but its title says Lots 3–4 while its lot field says 3–5. | Retrieval lead only; abstract not inspected and historic 501 lot/title still unresolved. | `E-095`; `S-109`, `S-110` |
+| Current model | 501 remains live in the Gates/Wolf/fire model because Gates-to-501 is unproved. | **Hypothesis/conflict; no model selected.** | `E-108`; Task 7/8 captures |
 
 Open: Surber→Palace→Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1944 removal cause.

@@ -214,15 +214,15 @@ Archive handling:
 
 ## Open Research Questions Raised by the Maps
 
-- Can the **1906 street-numbering plat** be recovered and directly map Block 26 to the modern Main Street sequence?
-- Can a deed, title abstract or survey prove the strong working placement of the **Lot 5/Lot 6 division at the 505/507 wall** and explain the original Block 26 / later Block 4 conversion (`RL-026`)?
+- Can the **1906 street-numbering plat** be recovered and directly map original **Block 4** to the modern odd-numbered Main Street sequence?
+- Can a deed, title abstract or survey prove the relevant **Block 4 lot and storefront boundaries**, including the historical line near 505/507 (`RL-026`)?
 - Which physical premises/building did Henry Brightbill occupy at **503 Main in 1908**, and how does it relate to the surviving c.1919-listed 503 building?
 - What caused or accompanied Brightbill's move/readdressing from 503 Main in August 1908 to 509 Main by September 1910?
 - Which physical premises did The Chicago Store enter at **505 Main by March 1911**, and how does that predecessor relate to the surviving later-dated 505 building?
 - Can the Harding→Willamette one-door-north relationship be directly mapped to 505/507 or another address pair (`RL-035`)?
 - Can the visually verified **G. H. Young at 507 Main in January 1912** be directly connected to his March 1911 Willamette Building move?
 - Are **H. N. Smith** and **H. H. Smith** the same 503 Main pool-hall operator (`RL-037`)?
-- Which Main Street buildings were actually torn down and replaced in spring 1912 (`RL-038`), and did any lie in Block 26?
+- Which Main Street buildings were actually torn down and replaced in spring 1912 (`RL-038`), and did any lie on the target Block 4 frontage?
 - When did the modern address numbering sequence `501 / 503 / 505 / 507` become attached to the frontage in actual business use?
 - Was the 1919 date tied to a specific rebuild/remodel rather than first construction?
 - Did the footprint of 503/505 change between 1900 and 1925?

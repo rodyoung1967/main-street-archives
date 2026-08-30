@@ -48,7 +48,7 @@ Associated names and topics:
 - Raye LaFarlette / Raye Grisham — same woman; bought The Wheel business
 - Dick and Sheila Wiitanen — later bought The Wheel business from Raye, later bought the 503 building, and later sold the business and building together; exact transaction dates/parties still need records
 - c.1919 secondary-source construction estimate; primary construction proof remains open
-- 1925 Sanborn 501 / 503 / 505 question
+- 1925 Sanborn's separate 501 store / 503 restaurant / 505 billiards-and-cigars uses; occupants and physical continuity remain open
 - 503 / 505 boundary and width question
 - 2017 modification question
 
@@ -279,6 +279,7 @@ High-priority people/entities:
 - Sanborn map register: `maps/sanborn-map-register.md`
 - 527/Swartz survey extraction note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
 - Repository-wide entity/page reconciliation: `registers/entity-page-audit-2026-08-29.md`
+- Unified 501/503/505 timeline reconciliation: `registers/unified-address-timeline-audit-2026-08-30.md`
 
 ## Current Priority Searches
 
