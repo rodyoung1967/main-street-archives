@@ -72,6 +72,8 @@ Targeted searches and the indexed/retrievable *Courier* page review did not reco
 ## 1911 — 505 Main relocation, Harding/Willamette mapping, and occupation of the new Gambrinus block
 The Chicago Store provides the year's strongest exact target-address sequence. On 27 January and 3 February 1911 it advertised at **405 Main Street**, with **Wolf & Nat** explicitly named as proprietors; the February ad also says Electric Hotel Building. By **31 March 1911** the Chicago Store was advertising at **505 Main Street**, and the 505 address repeats through April (`E-084`). This narrows the documented relocation/readdressing to **after 3 February and by 31 March 1911**. The available 505 ad does not itself name proprietors, so Wolf & Nat's proprietorship is not mechanically carried forward without another source.
 
+A visually verified **10 January 1911** *Morning Enterprise* advertisement directly identifies **George A. Harding, Druggist, 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). This moves Harding's exact-number business anchor back from 1912 to January 1911. It does not prove property title, the named Harding Building's footprint, or uninterrupted later occupancy.
+
 Two February–March reports materially sharpen the Harding Building problem. On 24 February a general repair shop opened in the **Harding building on Sixth Street between Main and Railroad Avenue**. On 10 March George Young was reported moving his second-hand store **one door north into the Willamette Building** from the **Harding building on Main Street between Fifth and Sixth** (`E-085`). These contemporary descriptions establish the building names and adjacency but remain too ambiguous to assign the Harding Building to 507 or another exact number. A later 1912 507 Main listing for G. H. Young is retained only as a follow-up, not backdated (`RL-029`, `RL-035`).
 
 The new Gambrinus block constructed in 1910 was in service by early 1911. On 3 March, **J. Tobin of the Electric Hotel rented the second story of the new Gambrinus block as an annex**, with steam heat, electric lighting and some rooms supplied with hot and cold water (`E-086`). This establishes occupancy/operation of the new Sixth/Main building but still does not by itself prove the exact demolition sequence of the former William Tell Hotel structure (`RL-031`).
@@ -256,6 +258,10 @@ City-inventory synthesis separately reports Dr. Roy Briggs at **505½ Main** in 
 ## 1957–1960 — restaurant and Wheel anchors at 503
 
 City historic-resource synthesis reports Mr. and Mrs. Albert D. Flor operating a restaurant/cocktail-bar at 503 in 1957. A 30 November 1960 *Oregonian* advertisement places **Wheel Cafe at Fifth and Main** (`E-044`). The exact Kwality-to-Wheel rename/transfer remains unresolved; The Wheel was at 503 only.
+
+## 1964–1965 — 509 Main pastry/coffee-shop anchors
+
+A 10 June 1964 *Oregonian* waitress advertisement directly identifies **Dixon's Pastry Shop at 509 Main** (`E-129` / `S-144` / `IMG-0716`). On 5 December 1965, a separate classified offered an unnamed **baking and coffee shop** for sale through **509 Main** (`E-130` / `S-145` / `IMG-0715`). The later ad does not name Dixon's or prove a completed sale, and the 1964 record does not independently prove uninterrupted continuity into the separately documented 1967 Dixon's Bakery fire loss.
 
 ## November 1965 — 505 Tavern liquor renewal
 Oregon City Commission minutes list **505 Tavern** at 505 Main on a liquor-license renewal agenda (`E-029` / `S-038`). This is the archive's earliest registered municipal anchor for the 505 Tavern trade name. It does not by itself prove real-estate ownership or the individual liquor-license holder.

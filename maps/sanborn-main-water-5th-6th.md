@@ -2,7 +2,9 @@
 
 ## Archive IDs
 
-- Source ID: pending formal registration
+- Source ID: `S-146`
+- Evidence ID: `E-131`
+- Media IDs: `IMG-0711`, `IMG-0712`, `IMG-0713`
 - Related buildings: `B-001`, `B-002`, `B-003`
 - Related files:
   - `maps/images/sanborn-main-water-5th-6th-detail-01.jpg`
@@ -46,4 +48,3 @@ Use these images to:
 - Download or obtain the full-resolution sheet if available.
 - Add precise map citations to `evidence/source-register.md`.
 - Update building pages only with claims that can be tied to confirmed map metadata.
-

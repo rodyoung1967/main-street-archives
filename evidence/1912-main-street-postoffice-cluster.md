@@ -10,7 +10,7 @@ This working reconstruction records evidence discussed from the **Oregon City Co
 | 505 Main | **The Chicago Store** | Documented at 505 in 1911-1913 advertising (`S-032`, `E-026`). On 5 Jan 1912 page 6, its ad describes the location as **"Main St. just below Postoffice"** (`S-061`, `E-052`). |
 | 507 Main | G. H. Young, "The Curio Man" / secondhand goods | Reported in the 5 Jan 1912 Courier business material; exact source capture should be archived when available. |
 | 509 Main | **H. P. Brightbill** | Directly visible in user-supplied image of the 5 Jan 1912 *Oregon City Courier*: tea advertisement reads **"H. P. BRIGHTBILL — 509 Main St. — Phone 74 — OREGON CITY."** This is date-specific primary evidence and supersedes any OCR-derived 609 reading for this issue. |
-| 511 Main | George A. Harding / druggist | Supported by contemporary/later newspaper evidence; existing repository image `511 Main St Harding Druggist.png` should be normalized into canonical newspaper/media storage when provenance/date are fully recorded. |
+| 511 Main | George A. Harding / druggist | A visually verified *Morning Enterprise* advertisement of 10 January 1911 directly prints **511 Main Street** and **Next Door to Postoffice** (`S-143`, `E-128`, `IMG-0714`); later 1912/1915 evidence corroborates the address. |
 | 527 Main | **Bailey & Price, Billiard and Pool Parlors** | Directly printed in the 5 Jan 1912 *Courier*, page 6 advertisement. Ad also says **"Opposite Grand Theater."** (`S-061`, `E-052`). |
 
 ## Post Office cluster
@@ -62,6 +62,6 @@ The full page/PDF should be downloaded into `newspapers/oregon-city-courier/` wh
 2. Determine exactly what "just below Postoffice" meant geographically in the Chicago Store's 505 Main advertisement.
 3. Find a numbered address for M. E. Dunn, especially 1911-1913.
 4. Find a numbered address for Schrader's Main Street bakery, including successor **Wemmo & Haas** after the December 1912 sale.
-5. Verify 507 and 511 from dated primary sources and normalize the existing root-level images into the archive's canonical source structure.
+5. Continue the dated 507/509/511 tenant sequence beyond the verified 1911–1916 anchors without assuming uninterrupted occupancy or a shared footprint.
 6. Reconstruct 503-529 Main storefront-by-storefront for 1905-1913 without treating inferred adjacency as proof.
 7. Keep the pre-1918 and post-1918 Post Office locations separate in all spatial analysis.

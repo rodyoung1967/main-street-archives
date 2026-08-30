@@ -10,12 +10,14 @@ people:
     related_businesses:
     - BUS-007
     related_evidence:
+    - E-128
     - E-116
     - E-096
     - E-107
     - E-109
     - E-119
     related_sources:
+    - S-143
     - S-130
     - S-120
     - S-121

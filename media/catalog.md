@@ -23,6 +23,10 @@ Use that file for current media IDs, repository file paths, status values, and s
 | `IMG-0005` | `media/photo-metadata-register.md` | External / Time Capsule Maps metadata |
 | `IMG-0006`–`IMG-0043` | `media/photo-metadata-register.md` | Committed: `media/photos/aerials/` (38-frame 5th & Main photocompare series, `E-021` / `S-023`) |
 | `IMG-0044`–`IMG-0053` | `media/photo-metadata-register.md` | Committed: `newspapers/oregonian/` (Oregonian clippings, `E-042`–`E-049`) |
+| `IMG-0711`–`IMG-0713` | `media/photo-metadata-register.md` | Committed map crops/screenshots under `maps/images/`; exact editions unresolved (`S-146` / `E-131`) |
+| `IMG-0714`–`IMG-0716` | `media/photo-metadata-register.md` | Committed and visually reconciled newspaper screenshots: Harding 1911, Dixon's 1964, unnamed 509 shop 1965 |
+| `IMG-0717`–`IMG-0721` | `media/photo-metadata-register.md` | Committed 1915–1916 Polk directory page images (`S-132` / `E-118`) |
+| `IMG-0722` | `media/photo-metadata-register.md` | Committed Tom Keene cigar-sign crop; date/source/location unresolved |
 
 ## Deprecated Older Paths
 

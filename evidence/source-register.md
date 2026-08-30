@@ -945,3 +945,28 @@ Type: Primary municipal text; **OCR/TEXT ONLY** pending page-image certification
 URLs: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document ; https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722834/File/document
 Evidence: `E-127`. Record: `evidence/source-captures/1948-harrs-recreation-center-505-main.md`.
 Notes: The 11 February record names Harr and McDougald as pool-hall operators but gives no first name/business/address. The later-1948 list directly prints **Carl R. Harr — Harr's Recreation Center — 505 Main Street**. Its opening meeting page is missing, so no exact date is invented. Text layers were reviewed; page images were not certified.
+
+## S-143 — Morning Enterprise, 10 January 1911, page 3 Harding advertisement
+Type: Primary newspaper screenshot; **VISUALLY VERIFIED** 30 August 2026.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-01-10/ed-1/seq-3/
+Repository: `newspapers/morning-enterprise/1911-01-10-george-harding-druggist-511-main-screenshot.png` (`IMG-0714`).
+Evidence: `E-128`.
+Notes: Visible archive header identifies the title/date/page. George A. Harding's advertisement directly prints **Druggist**, **511 Main Street**, and **Next Door to Postoffice**. The legacy filename's c.1915–1916 Courier label is superseded.
+
+## S-144 — Oregonian, 10 June 1964, Dixon's Pastry Shop classified
+Type: Primary newspaper screenshot; **VISUALLY VERIFIED** 30 August 2026.
+Repository: `newspapers/oregonian/1964-06-10-dixons-pastry-shop-509-main.png` (`IMG-0716`).
+Evidence: `E-129`.
+Notes: Visible archive header gives *The Oregonian*, 10 June 1964. The waitress advertisement directly prints **Dixon's Pastry Shop, 509 Main St., Oregon City**. Durable archive URL/page number not preserved in the screenshot. The legacy path's *Amplifier*, 1949, and 519 Main labels are superseded.
+
+## S-145 — Oregonian, 5 December 1965, unnamed 509 Main shop classified
+Type: Primary newspaper screenshot; **VISUALLY VERIFIED** 30 August 2026.
+Repository: `newspapers/oregonian/1965-12-05-509-main-baking-coffee-shop-for-sale.png` (`IMG-0715`).
+Evidence: `E-130`.
+Notes: Visible archive header gives *The Oregonian*, 5 December 1965. The classified offers an unnamed baking and coffee shop for sale through **509 Main St., Oregon City**. Durable archive URL/page number not preserved. No Dixon identity or completed sale is inferred.
+
+## S-146 — Undated Sanborn-style Main/Water/Fifth/Sixth screenshot set
+Type: Primary-map crops/screenshots with incomplete provenance; **VISUALLY REVIEWED** 30 August 2026.
+Repository: `maps/images/` (`IMG-0711`–`IMG-0713`).
+Evidence: `E-131`.
+Notes: Three committed images visibly show fire-insurance-map footprints, addresses, and use labels around the relevant block; one screenshot visibly shows `orcity.org`. Exact editions, sheets, source URL, and crop dates remain unresolved, so no date-specific interpretation is made from these crops alone.

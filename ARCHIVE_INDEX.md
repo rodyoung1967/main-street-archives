@@ -121,10 +121,10 @@ Primary file: `buildings/507-harding-building.md`
 
 Associated names and topics:
 
-- Dated 1915 storefronts: **507 — W. W. Bradley; 509 — H. P. Brightbill; 511 — Geo. A. Harding** (`E-107`; `BUS-026`, `BUS-027`, `BUS-007`). Do not backdate later consolidated-building labels to these separate numbers.
+- Exact-number ladder: **511 — Geo. A. Harding by 10 January 1911** (`E-128`); dated 1915 storefronts **507 — W. W. Bradley; 509 — H. P. Brightbill; 511 — Geo. A. Harding** (`E-107`; `BUS-026`, `BUS-027`, `BUS-007`). Do not backdate later consolidated-building labels to these separate numbers.
 - Original Harding Building
 - Harding Drug Store (gutted 1 September 1967)
-- Dixon's Bakery (named among businesses gutted in same fire; exact storefront number still open)
+- Dixon's Pastry Shop directly at **509 Main in June 1964** (`E-129`); separately named as Dixon's Bakery among businesses gutted in the 1967 fire. Legal-name and exact-room continuity remain open.
 - George A. Harding
 - Dr. Bailey — legacy 1909 claim remains unverified; a museum catalog image names a Dr. Bailey but does not yet prove an office in the Harding Building
 - Tony's Restaurant

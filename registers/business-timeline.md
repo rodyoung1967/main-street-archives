@@ -71,7 +71,9 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | Dated listings, Aug.–Oct. 1915 | W. W. Bradley furniture | `BUS-026` | `E-107` | High, visual | 507 Main, not Harding's 511 listing. No continuous occupancy or Young-to-Bradley transfer inferred. |
 | Until 1 Sep. 1967 | Harding Drug Store | `BUS-007` | `E-045` | Very High for destruction in fire | Gutted 1 September 1967. Earlier operating span still incomplete. |
 | Before 1 Sep. 1967 fire | Tony's Restaurant | `BUS-008` | `E-016` | Working | Not named in the 1967 Oregonian fire article. |
-| 1 Sep. 1967 | Dixon's Bakery | `BUS-023` | `E-045` | Very High | Gutted in the same block fire. Exact street number pending. |
+| 10 Jun. 1964 | Dixon's Pastry Shop | `BUS-023` | `E-129` | Very High | Advertisement directly prints 509 Main. |
+| 5 Dec. 1965 | Unnamed baking-and-coffee shop | Unassigned | `E-130` | Very High for the classified; identity unresolved | Offered for sale through 509 Main. Do not automatically identify it as Dixon's or infer that a sale occurred. |
+| 1 Sep. 1967 | Dixon's Bakery | `BUS-023` | `E-045` | Very High | Gutted in the same block fire. The 1964 509 address is direct, but continuity and the exact September 1967 room remain pending. |
 
 ## Numbered Fifth Street cluster
 

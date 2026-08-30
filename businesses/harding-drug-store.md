@@ -5,12 +5,13 @@
 - Business ID: `BUS-007`
 - Related building: `B-003`
 - Related person: `P-001`
+- Related evidence/source/media: `E-128` / `S-143` / `IMG-0714`
 - Related timeline/building context: `T-003`, `T-006`
 - Related research lead: `RL-004`
 
 ## Known / Working History
 
-Harding Drug Store is associated with George A. Harding and the historic Harding Building context. The archive's dated address evidence places George A. Harding's drug business at **511 Main** in 1912 and throughout the reviewed August-November 1915 listings (`E-107`, `E-109`; `S-120`, `S-121`).
+Harding Drug Store is associated with George A. Harding and the historic Harding Building context. A visually reviewed **10 January 1911** advertisement directly places **George A. Harding, Druggist, at 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). Later exact-address evidence repeats 511 Main in 1912 and throughout the reviewed August-November 1915 listings (`E-107`, `E-109`; `S-120`, `S-121`).
 
 The present replacement building uses the consolidated address **507-511 Main**, but that later label must not be backdated to the separate early storefronts. The exact operating dates, legal ownership, tenancy arrangement, address changes, and pre-fire footprint still need to be established.
 

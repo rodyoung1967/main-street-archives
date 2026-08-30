@@ -78,7 +78,7 @@ What was Victor's full name, and what was the exact restaurant-management arrang
 Status: Partially answered. Fire date is **1 September 1967** (`E-045`). ODOT's 2021 cultural-resources table dates the present replacement **507-511 Harding Building to 1968** (`S-063`). Still open: exact demolition/cleanup dates, architect/builder, permits, construction sequence, and which pre-fire storefront parcels were consolidated into the replacement.
 
 ## OQ-017 — Harding Building Bakery / Tony's Restaurant
-Status: Partially answered. Dixon's Bakery was gutted; Tony's exact role/location remains open.
+Status: Partially answered. Dixon's Pastry Shop is directly documented at **509 Main on 10 June 1964** (`E-129`), and Dixon's Bakery was gutted in the 1 September 1967 fire (`E-045`). The archive has not yet proved uninterrupted identity/occupancy between those records or the exact September 1967 room. Tony's exact role/location remains open.
 
 ## OQ-018 — 507 Replacement Building
 Status: **Answered at the historic-inventory level.** ODOT's 2021 cultural-resources report, p. 16 Table 2, lists **507-511 Main St — Harding Building — 1968** (`S-063`). Primary 1968 permits, construction notices, plans, or assessor records would still be desirable to document the exact completion date and project details.

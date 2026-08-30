@@ -56,7 +56,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | --- | --- | --- |
 | `B-001` 503 Main Street | `BUS-078` Brightbill; `BUS-019` Smith; `BUS-020` Hylton; `BUS-001`–`BUS-003` Kwality lineage; `BUS-004` Wheel; `BUS-018` White Rabbit / Black Ink | Unified chronology: `timelines/503-main.md`. `E-001`–`E-003`, `E-020`–`E-025`, `E-042`–`E-049`, `E-094`–`E-099`, `E-103`, `E-108`. **Do not attach `E-038` to 503.** Gates/Wolf assignment remains unresolved. |
 | `B-002` 505 Main Street | `BUS-011`–`BUS-017`, `BUS-021`, `BUS-022`, plus `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-016` | Unified chronology: `timelines/505-main.md`. Includes distinct Farr (`BUS-013`) and Harr (`BUS-014`) records; `E-127`/`S-142` directly identifies Carl R. Harr and Harr's Recreation Center in 1948. Business operation and real-estate ownership remain separate. |
-| `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery; `BUS-026` W. W. Bradley; `BUS-027` H. P. Brightbill; `BUS-067` G. H. Young | Original-building and address-ladder evidence `E-016`, `E-017`, `E-020`, `E-021`, `E-045`, `E-092`, `E-094`, `E-107`–`E-109`; OHS retrieval lead `E-095`; `S-052`, `S-107`–`S-110`, `S-120`, `S-121`, `S-130`. Present replacement building dated **1968** by `S-063`; do not backdate that consolidated footprint to the distinct 507/509/511 storefronts. |
+| `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery/Pastry Shop; `BUS-026` W. W. Bradley; `BUS-027` H. P. Brightbill; `BUS-067` G. H. Young | `E-128` / `S-143` / `IMG-0714` directly places Harding at 511 in January 1911. `E-129`–`E-130` / `S-144`–`S-145` / `IMG-0715`–`IMG-0716` establish Dixon's at 509 in June 1964 and an unnamed 509 baking/coffee shop sale ad in December 1965. Present replacement dated **1968** by `S-063`; do not backdate that consolidated footprint. |
 | `B-004` 527 Main Street / Swartz Building | Bailey & Price (1912; unmerged); Price Bros. `BUS-028` / Al Price `P-043` (1915) | `S-061` documents Bailey & Price in 1912; `E-107` / `S-120` documents Price Bros. at 527 in the 5 August 1915 directory and the same-issue incident report. No succession/identity bridge. `E-053`, `S-062`, `S-063` date the present **Swartz Building** to **1935**. |
 | `B-005` 501 Main Street (historic / removed) | `BUS-045` A. J. Surber; `BUS-024` Palace Saloon; `BUS-025` Hunsaker & Taylor; 1925 store occupant unknown | Unified chronology: `timelines/501-main.md`. `E-020`, `E-021`, `E-054`–`E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`. The records do not prove a transfer or uninterrupted continuity. |
 | `B-006` 513 Fifth Street (historic residence) | No business established | `E-106` / `S-118`: H. M. Templeton home, then occupied by M. D. Phillips and family in March 1912. Residential record only; no commercial/fire-cluster relation inferred. |
@@ -107,6 +107,17 @@ This file connects the archive's ID systems so related records can be audited wi
 ## Maintenance Rule
 
 When a source, evidence item, media item, artifact, person, business, building, or map changes, update this crosswalk if the change affects an ID relationship.
+
+## 30 August 2026 media reconciliation
+
+| Media | Repository location | Connected records / limits |
+| --- | --- | --- |
+| `IMG-0711`–`IMG-0713` | `maps/images/` | `S-146` / `E-131`; undated Sanborn-style crops, exact sheets/editions unresolved; `B-001`–`B-003`. |
+| `IMG-0714` | `newspapers/morning-enterprise/1911-01-10-george-harding-druggist-511-main-screenshot.png` | `S-143` / `E-128`; `BUS-007`, `P-001`, `B-003`. Legacy c.1915–1916 Courier filename superseded. |
+| `IMG-0715` | `newspapers/oregonian/1965-12-05-509-main-baking-coffee-shop-for-sale.png` | `S-145` / `E-130`; unnamed 509 shop, no Dixon/sale inference; `B-003`. |
+| `IMG-0716` | `newspapers/oregonian/1964-06-10-dixons-pastry-shop-509-main.png` | `S-144` / `E-129`; `BUS-023`, `B-003`. Legacy Amplifier/1949/519 labels superseded. |
+| `IMG-0717`–`IMG-0721` | `records/directories/1915-1916-polk-oregon-city/` | Existing `S-132` / `E-118` FamilySearch directory page set. |
+| `IMG-0722` | `media/photos/early-main-street/IMG-0722_tom-keene-cigar-sign-crop-reported-1908.jpg` | Tom Keene cigar-sign crop; no source/evidence/address claim; former filename's 1908 assertion remains unverified. |
 
 ## 1915 Courier sheets73–100 batch
 

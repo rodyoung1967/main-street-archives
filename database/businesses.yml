@@ -111,12 +111,14 @@ businesses:
     related_people:
     - P-001
     related_evidence:
+    - E-128
     - E-116
     - E-045
     - E-107
     - E-109
     - E-119
     related_sources:
+    - S-143
     - S-130
     - S-120
     - S-121
@@ -321,13 +323,16 @@ businesses:
     repository_file: businesses/dr-roy-briggs.md
 
   - id: BUS-023
-    name: Dixon's Bakery
-    address: Main Street between 5th and 6th (exact number pending)
-    notes: Named among businesses gutted in the 1 September 1967 Main Street fire. Likely the bakery in the Harding-block fire lead. Not proven as the fire origin; Oregonian reports origin at Howard Cohn furniture warehouse.
+    name: Dixon's Bakery / Dixon's Pastry Shop
+    address: 509 Main (10 June 1964); Main Street between 5th and 6th in 1967
+    notes: Oregonian waitress advertisement directly names Dixon's Pastry Shop at 509 Main in 1964. A separate 1967 report names Dixon's Bakery among businesses gutted in the Main Street fire. Legal-name, ownership and exact-room continuity remain unresolved; not the reported fire origin.
     related_buildings:
       - B-003
     related_evidence:
       - E-045
+      - E-129
+    related_sources: [S-052, S-144]
+    repository_file: businesses/dixons-bakery.md
 
   - id: BUS-024
     name: Palace Saloon

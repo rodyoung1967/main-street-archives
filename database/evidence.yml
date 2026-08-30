@@ -2049,3 +2049,55 @@ evidence:
     related_people: [P-094]
     related_buildings: [B-002]
     repository_file: evidence/source-captures/1948-harrs-recreation-center-505-main.md
+
+  - id: E-128
+    name: George A. Harding, Druggist, 511 Main, 10 January 1911
+    type: Primary newspaper advertisement; visually verified screenshot
+    claims:
+      - George A. Harding advertised as a druggist at 511 Main Street, next door to the Post Office.
+      - This is exact business-address evidence, not building-title or uninterrupted-continuity proof.
+    confidence: Very High for visible date, name, address, and printed Post Office relationship.
+    related_sources: [S-143]
+    related_media: [IMG-0714]
+    related_buildings: [B-003]
+    related_businesses: [BUS-007]
+    related_people: [P-001]
+    repository_file: evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md
+
+  - id: E-129
+    name: Dixon's Pastry Shop, 509 Main, 10 June 1964
+    type: Primary newspaper classified; visually verified screenshot
+    claims:
+      - A waitress advertisement directly identifies Dixon's Pastry Shop at 509 Main St., Oregon City.
+      - The later Dixon's Bakery fire record does not by itself prove unchanged legal identity, ownership, or room continuity.
+    confidence: Very High for visible date, name, and exact address.
+    related_sources: [S-144]
+    related_media: [IMG-0716]
+    related_buildings: [B-003]
+    related_businesses: [BUS-023]
+    repository_file: evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md
+
+  - id: E-130
+    name: Unnamed baking and coffee shop at 509 Main, 5 December 1965
+    type: Primary newspaper classified; visually verified screenshot
+    claims:
+      - An unnamed baking and coffee shop was offered for sale with inquiries at 509 Main St., Oregon City.
+      - The ad does not identify Dixon's, a seller, a buyer, or a completed sale.
+    confidence: Very High for date, use description, and exact inquiry address; none for identity or completed transfer.
+    related_sources: [S-145]
+    related_media: [IMG-0715]
+    related_buildings: [B-003]
+    repository_file: evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md
+
+  - id: E-131
+    name: Undated Sanborn-style Main/Water/Fifth/Sixth screenshot set
+    type: Primary map crops with incomplete provenance
+    claims:
+      - Three committed images visibly show address, footprint, and commercial-use labels around the relevant block.
+      - One screenshot visibly identifies the orcity.org domain.
+      - No map edition, sheet, date-specific tenant, or continuity conclusion is established from the crops alone.
+    confidence: Very High for visible crop content; unresolved for exact edition, sheet, date, and source URL.
+    related_sources: [S-146]
+    related_media: [IMG-0711, IMG-0712, IMG-0713]
+    related_buildings: [B-001, B-002, B-003]
+    repository_file: evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md

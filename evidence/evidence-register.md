@@ -978,3 +978,41 @@ Source: `S-142`.
 - The later excerpt lacks its opening page, so no exact December meeting date is assigned.
 
 Record: `evidence/source-captures/1948-harrs-recreation-center-505-main.md`.
+
+## E-128 — George A. Harding, Druggist, 511 Main, 10 January 1911
+Type: Primary newspaper advertisement; source `S-143`; media `IMG-0714`.
+Confidence: Very High for the visible date, business/person name, 511 address, and printed Post Office relationship.
+
+- The advertisement directly prints **George A. Harding — Druggist — 511 Main Street — Next Door to Postoffice**.
+- This establishes Harding's exact business address by 10 January 1911, earlier than the archive's former 1912 exact-number anchor.
+- It does not establish title, the named Harding Building's footprint, or uninterrupted occupancy through later listings.
+
+Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## E-129 — Dixon's Pastry Shop, 509 Main, 10 June 1964
+Type: Primary newspaper classified; source `S-144`; media `IMG-0716`.
+Confidence: Very High for the visible date, printed Dixon's Pastry Shop name, and exact 509 Main address.
+
+- The waitress advertisement directly prints **Dixon's Pastry Shop, 509 Main St., Oregon City**.
+- The separate 1967 fire report names Dixon's Bakery among gutted businesses. The name/address chronology is strong but does not by itself prove an unchanged legal entity, ownership, or uninterrupted room occupancy.
+
+Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## E-130 — Unnamed baking and coffee shop at 509 Main, 5 December 1965
+Type: Primary newspaper classified; source `S-145`; media `IMG-0715`.
+Confidence: Very High for the visible date, use description, and exact inquiry address; none for business identity or completed sale.
+
+- The classified offers a **baking and coffee shop** for sale, with inquiries at **509 Main St., Oregon City**.
+- The advertisement does not name Dixon's, a seller, or a buyer and does not prove that a sale occurred.
+
+Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## E-131 — Undated Sanborn-style Main/Water/Fifth/Sixth screenshot set
+Type: Primary-map screenshot evidence with incomplete provenance; source `S-146`; media `IMG-0711`–`IMG-0713`.
+Confidence: Very High for visible labels and geometry in the committed crops; unresolved for edition, sheet, date, and source-page identity.
+
+- The images visibly show the relevant block's address ladder, footprints, and commercial-use labels.
+- One mobile screenshot visibly identifies the `orcity.org` domain.
+- No date-specific building, tenant, or continuity conclusion is made until the crops are tied to full identified sheets.
+
+Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.

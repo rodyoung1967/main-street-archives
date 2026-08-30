@@ -114,3 +114,13 @@ This was an integration/reconciliation pass, not new annual certification. All a
 - Added complete unified address timelines for 501, 503, and 505 Main and linked them from the master timeline, building pages, registers, and archive navigation.
 
 This was a repository-integration correction, not an annual certification or a claim that all gaps in the three address chronologies are resolved.
+
+## 30 August 2026 — complete raster-image/media reconciliation
+
+- Inventoried all 66 committed JPG/PNG files and visually inspected the twelve missing from the canonical media register.
+- Assigned `IMG-0711`–`IMG-0722`; registered map crops, three newspaper screenshots, five FamilySearch directory pages, and the Tom Keene cigar-sign crop.
+- Moved the three orphaned newspaper screenshots into publication-correct folders while preserving their legacy paths/hashes in metadata. Visible headers supersede misleading filename claims: Harding is *Morning Enterprise*, 10 Jan. 1911; Dixon's is *Oregonian*, 10 Jun. 1964 at 509 Main; the unnamed shop is *Oregonian*, 5 Dec. 1965 at 509 Main.
+- Moved the Tom Keene crop out of `research-inbox/`; its former filename's 1908 assertion remains unverified, with no address/business claim.
+- Added `S-143`–`S-146` and `E-128`–`E-131`, plus synchronized business/building/person/crosswalk/navigation records. All annual statuses remain unchanged.
+
+Full audit: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.

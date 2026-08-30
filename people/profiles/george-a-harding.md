@@ -1,5 +1,7 @@
 # George A. Harding
 
+A visually verified 10 January 1911 *Morning Enterprise* advertisement directly identifies **George A. Harding, Druggist, 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). This is business-address evidence, not proof of title or the named Harding Building's exact footprint.
+
 ## Archive IDs
 
 - Person ID: `P-001`

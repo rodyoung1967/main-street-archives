@@ -54,6 +54,7 @@ buildings:
       - E-098
       - E-099
       - E-103
+      - E-131
     related_sources:
       - S-130
       - S-021
@@ -67,6 +68,7 @@ buildings:
       - S-114
       - S-115
       - S-117
+      - S-146
     related_maps:
       - SM-002
       - SM-003
@@ -166,6 +168,7 @@ buildings:
       - E-113
       - E-124
       - E-127
+      - E-131
     related_sources:
       - S-130
       - S-021
@@ -188,6 +191,7 @@ buildings:
       - S-125
       - S-138
       - S-142
+      - S-146
     related_maps:
       - SM-002
       - SM-003
@@ -201,7 +205,7 @@ buildings:
   - id: B-003
     name: 507 Main Street / Harding Building
     address: 507-511 Main Street, Oregon City, Oregon
-    notes: Original Harding Building / Harding Drug Store context. E-107 gives separate 1915 listings at 507 (W. W. Bradley), 509 (H. P. Brightbill) and 511 (Geo. A. Harding); not proof of a shared historic footprint or continuous occupancy. Gutted in the 1 September 1967 Main Street fire (E-045). ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
+    notes: Original Harding Building / Harding Drug Store context. E-128 directly places Geo. A. Harding at 511 in January 1911, and E-107 gives separate 1915 listings at 507 (W. W. Bradley), 509 (H. P. Brightbill) and 511 (Harding); these do not prove a shared historic footprint or continuous occupancy. E-129 directly places Dixon's Pastry Shop at 509 in June 1964; E-130 is an unnamed 509 baking-and-coffee-shop sale offer in December 1965 and is not automatically assigned to Dixon's. Dixon's Bakery and Harding Drug were gutted in the 1 September 1967 Main Street fire (E-045), but the exact 1967 room arrangement remains open. ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
     related_businesses:
       - BUS-007
       - BUS-008
@@ -216,6 +220,10 @@ buildings:
       - P-042
       - P-076
     related_evidence:
+      - E-128
+      - E-129
+      - E-130
+      - E-131
       - E-116
       - E-108
       - E-016
@@ -228,6 +236,10 @@ buildings:
       - E-107
       - E-109
     related_sources:
+      - S-143
+      - S-144
+      - S-145
+      - S-146
       - S-130
       - S-063
       - S-107

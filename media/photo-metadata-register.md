@@ -1019,3 +1019,87 @@ Archive locator: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-09-18/ed-1/
 SHA-256: `62ce8e70f6e13a3614bc85eae7c3071a33dd83f36eda9973bf1ba75f4b7fe11a`
 Review: full supplied page VISUALLY VERIFIED on 2026-08-28; enlarged crops used for small print. Live archive locator not successfully retrieved in this task.
 Interpretation: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md`.
+
+## IMG-0711 — Undated Sanborn-style Main/Water/Fifth/Sixth detail 01
+File: `maps/images/sanborn-main-water-5th-6th-detail-01.jpg`
+Type: Map crop / screenshot.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-146` / `E-131`.
+Related buildings: `B-001`, `B-002`, `B-003`.
+Dimensions: 1206 × 1175. SHA-256: `246303efbd50cb8ce1cf9a822289b703a95925d3204c13f67c0de0558bb08bd1`.
+Limits: Exact Sanborn edition, sheet, source URL, and crop date unresolved; visible labels are not assigned to a year from the crop alone.
+
+## IMG-0712 — Undated Sanborn-style Main/Water/Fifth/Sixth detail 02
+File: `maps/images/sanborn-main-water-5th-6th-detail-02.jpg`
+Type: Map crop / screenshot.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-146` / `E-131`.
+Related buildings: `B-001`, `B-002`, `B-003`.
+Dimensions: 1206 × 1011. SHA-256: `7e050014adbe9a040eca2ea3d10186e177775d036c1a2a01d52423ea9ae2f2c6`.
+Limits: Exact Sanborn edition, sheet, source URL, and crop date unresolved; visible labels are not assigned to a year from the crop alone.
+
+## IMG-0713 — orcity.org Sanborn-style mobile screenshot
+File: `maps/images/sanborn-main-water-5th-6th-orcity-screenshot.jpg`
+Type: Mobile map screenshot with visible `orcity.org` header.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-146` / `E-131`.
+Related buildings: `B-001`, `B-002`, `B-003`.
+Dimensions: 588 × 1280. SHA-256: `aa52081c0c67616e5c40036f3b3c1ff9a3c631c134aa8bde973a99b41bafabbe`.
+Limits: The screenshot helps identify the source domain but does not preserve the exact URL, map edition, or sheet.
+
+## IMG-0714 — George A. Harding, 511 Main, 10 January 1911
+File: `newspapers/morning-enterprise/1911-01-10-george-harding-druggist-511-main-screenshot.png`
+Original/legacy repository path: `newspapers/oregon-city-courier/c1915-1916-harding-druggist-511-main.png`.
+Type: Primary newspaper screenshot.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-143` / `E-128`.
+Related building/business/person: `B-003`; `BUS-007`; `P-001`.
+Visible source header: *Morning Enterprise*, 10 January 1911, page 3, image 3. Advertisement prints George A. Harding, Druggist, 511 Main Street, “Next Door to Postoffice.”
+Dimensions: 1588 × 1446. SHA-256: `14793fe7f2e1ec28fe139edd2c8c820219966c1b46a8c95ed9a0d0986c628c26`.
+Correction: The legacy filename's c.1915–1916 *Courier* description is superseded by the visible source header.
+
+## IMG-0715 — Unnamed baking and coffee shop, 509 Main, 5 December 1965
+File: `newspapers/oregonian/1965-12-05-509-main-baking-coffee-shop-for-sale.png`
+Original/legacy repository path: `newspapers/other/undated-509-main-coffee-shop.png`.
+Type: Primary newspaper classified screenshot.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-145` / `E-130`.
+Related building: `B-003` / 509 Main address context.
+Visible source header: *The Oregonian*, 5 December 1965. The classified offers an unnamed baking and coffee shop for sale through 509 Main St., Oregon City.
+Dimensions: 1760 × 1036. SHA-256: `83480afc134861864ef99f8fc5925c2e548baecb78b7de4901c74f3d5bc0cff3`.
+Limits: No Dixon identity, completed sale, seller, buyer, or property ownership is inferred.
+
+## IMG-0716 — Dixon's Pastry Shop, 509 Main, 10 June 1964
+File: `newspapers/oregonian/1964-06-10-dixons-pastry-shop-509-main.png`
+Original/legacy repository path: `newspapers/the-amplifier/1949-05-06-dixons-pastry-shop-519-main.png`.
+Type: Primary newspaper classified screenshot.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-144` / `E-129`.
+Related building/business: `B-003`; `BUS-023`.
+Visible source header: *The Oregonian*, 10 June 1964. The advertisement directly prints Dixon's Pastry Shop, 509 Main St., Oregon City.
+Dimensions: 1252 × 1096. SHA-256: `a4fc5d92bc7ded91bcc44418dffe70ba610fd0eddef8937143d2620ee4bc0bb7`.
+Correction: The legacy path's *Amplifier*, 1949, and 519 Main labels are superseded by the visible header and text.
+
+## IMG-0717–IMG-0721 — 1915–1916 Polk directory review pages
+Type: Authenticated FamilySearch directory-page images assembled from Deep Zoom tiles.
+Status: `committed`; visually reviewed during `1915-D01` and reconfirmed in the 30 August 2026 media audit.
+Source/evidence: `S-132` / `E-118`.
+Provenance and image locators: `records/directories/1915-1916-polk-oregon-city/README.md`.
+
+| Media ID | Repository file | Printed page / scope | SHA-256 |
+| --- | --- | --- | --- |
+| IMG-0717 | `records/directories/1915-1916-polk-oregon-city/1915-1916-polk-oregon-city-p260-familysearch-image400.jpg` | 260 / Oregon City A–F | `b6620cc1ff6335ba41ec2acd8eb255de5fb118f13e8370bf95dede7baf50a3ee` |
+| IMG-0718 | `records/directories/1915-1916-polk-oregon-city/1915-1916-polk-oregon-city-p261-familysearch-image401.jpg` | 261 / Oregon City F–M | `dfb332b2262bc5f3472753cc1540ca77c1db699f40dcf98e9f1e10c4eb2ff6e7` |
+| IMG-0719 | `records/directories/1915-1916-polk-oregon-city/1915-1916-polk-oregon-city-p262-familysearch-image402.jpg` | 262 / Oregon City M–Y | `debc8dc3373f6f2b6774da3b6baee89d69575897b7c3af8f8b17153ff61644bf` |
+| IMG-0720 | `records/directories/1915-1916-polk-oregon-city/1915-1916-polk-undertakers-familysearch-image291.jpg` | 1641 / Undertakers begins | `d3cd3044377f08e946f54cac0abb7e267bd59394f2805d227476f0bff30f2462` |
+| IMG-0721 | `records/directories/1915-1916-polk-oregon-city/1915-1916-polk-undertakers-contd-p1642-familysearch-image292.jpg` | 1642 / Oregon City—Holman R. L. | `d265924650f1cc3452092140491311c70bea8a5c30306ab0cf1aae5b44973911` |
+
+## IMG-0722 — Tom Keene cigar advertising-sign crop
+File: `media/photos/early-main-street/IMG-0722_tom-keene-cigar-sign-crop-reported-1908.jpg`
+Original filename/path: `research-inbox/tom keene cigars 1908 photo.jpg`.
+Type: Historic-photo crop / advertising sign.
+Status: `committed`; moved from staging and visually reviewed 30 August 2026; provenance unresolved.
+Visible content: a diamond-shaped “Tom Keene” cigar advertising sign.
+Dimensions: 181 × 218. SHA-256: `a85ec01b02c5748a47aac1e635a06023afd3f035a20b5e52ee9f39f94a1a6b55`.
+Limits: “1908” is retained only as an assertion from the former filename. The full photograph, location, date, photographer, collection, and source are unknown. This crop does not establish a Tom Keene business or occupant at any project address.
+Audit: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.

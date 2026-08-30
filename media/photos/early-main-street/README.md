@@ -1,8 +1,15 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **source/provenance register established; image binaries not yet imported through the current research environment**
+Status: **source/provenance register established; four planned full-scene binaries are not yet imported through the current research environment; one isolated sign crop is preserved with unresolved provenance**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
+
+## Preserved crop with incomplete provenance
+
+- `IMG-0722` — `IMG-0722_tom-keene-cigar-sign-crop-reported-1908.jpg`
+- Visible content: a diamond-shaped **Tom Keene** cigar advertising sign.
+- Legacy filename reported **1908**, but the crop itself does not prove a date, Oregon City location, photographer, repository, or rights status.
+- This file was moved from `research-inbox/` into canonical media storage on 30 August 2026. It remains a research lead and must not be used as address-specific evidence until the full photograph and provenance are recovered.
 
 ## 1. Oregon City street scene, circa 1905 — University of Washington AL+CA 1595
 

@@ -699,3 +699,27 @@ sources:
     url: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document
     notes: Primary municipal text. February record names Harr and McDougald as pool-hall operators; separate late-1948 record 4722834 directly identifies Carl R. Harr, Harr's Recreation Center, 505 Main. Text reviewed; page images not certified. Later excerpt lacks opening page, so exact meeting date is not assigned. Related evidence E-127.
     repository_file: evidence/source-captures/1948-harrs-recreation-center-505-main.md
+
+  - id: S-143
+    name: Morning Enterprise, 10 January 1911, page 3 Harding advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-01-10/ed-1/seq-3/
+    repository_file: newspapers/morning-enterprise/1911-01-10-george-harding-druggist-511-main-screenshot.png
+    notes: Visually verified screenshot directly prints George A. Harding, Druggist, 511 Main Street, Next Door to Postoffice. IMG-0714; E-128. Legacy c.1915-1916 Courier filename superseded.
+
+  - id: S-144
+    name: Oregonian, 10 June 1964, Dixon's Pastry Shop classified
+    url: Archive screenshot retained locally; durable page URL not preserved.
+    repository_file: newspapers/oregonian/1964-06-10-dixons-pastry-shop-509-main.png
+    notes: Visually verified header and classified directly identify Dixon's Pastry Shop at 509 Main. IMG-0716; E-129. Legacy Amplifier/1949/519 filename labels superseded.
+
+  - id: S-145
+    name: Oregonian, 5 December 1965, unnamed 509 Main shop classified
+    url: Archive screenshot retained locally; durable page URL not preserved.
+    repository_file: newspapers/oregonian/1965-12-05-509-main-baking-coffee-shop-for-sale.png
+    notes: Visually verified classified offers unnamed baking and coffee shop for sale through 509 Main. IMG-0715; E-130. No Dixon identity or completed sale inferred.
+
+  - id: S-146
+    name: Undated Sanborn-style Main/Water/Fifth/Sixth screenshot set
+    url: Exact source URL unresolved; one committed screenshot visibly shows orcity.org.
+    repository_file: maps/sanborn-main-water-5th-6th.md
+    notes: IMG-0711 through IMG-0713; visually reviewed map crops with unresolved editions/sheets/dates. Related evidence E-131.
