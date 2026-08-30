@@ -207,6 +207,15 @@ timeline:
       - B-005
       - B-006
 
+  - id: T-043
+    date: 20 December 1912
+    summary: The Courier reports that Herman Schrader sold two Oregon City bakeries, including one on Main Street, to Wemmo & Haas; January advertising had placed Schrader's Bakery near the Post Office.
+    confidence: Very High for the named business transfer and relative location; exact Main number, individual purchaser identities, real-estate ownership and later operating span unresolved.
+    related_evidence: [E-093]
+    related_sources: [S-102, S-106]
+    related_people: [P-096, P-097]
+    related_businesses: [BUS-063, BUS-080]
+
   - id: T-016
     date: 3 October 1913
     summary: Morning Enterprise liquor-license notice identifies Hunsaker & Taylor at 501 Main. A City Recorder notice says the official street-numbering plat/plan remained on file and quotes Ordinance No. 357.

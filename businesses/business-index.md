@@ -29,10 +29,10 @@
 | BUS-023 | [Dixon's Bakery / Dixon's Pastry Shop](dixons-bakery.md) | 509 Main (10 Jun. 1964); Main block in 1967 | Exact 1964 address (`E-129`); separately named among businesses gutted in the 1967 fire (`E-045`). Legal-name and room continuity remain open. |
 | BUS-024 | [Palace Saloon](palace-saloon.md) | 501 Main | Joe Wilson's 19 March 1912 application; no ownership/continuity inferred. |
 | BUS-025 | [Hunsaker & Taylor liquor premises](hunsaker-taylor.md) | 501 Main | 3 October 1913 application; individual identities and Palace relationship unresolved. |
-| BUS-026 | W. W. Bradley furniture | 507 Main | Dated August–October 1915 listings (`E-107`, `P-041`); no uninterrupted occupancy or Young-to-Bradley transfer assumed. |
-| BUS-027 | H. P. Brightbill grocery | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
+| BUS-026 | [W. W. Bradley furniture](ww-bradley-furniture.md) | 507 Main | Dated August–October 1915 listings (`E-107`, `P-041`); no uninterrupted occupancy or Young-to-Bradley transfer assumed. |
+| BUS-027 | [H. P. Brightbill grocery](hp-brightbill-grocery.md) | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
 | BUS-028 | [Price Bros. clothing store](price-bros.md) | 527 Main (5 Aug. 1915) | Al Price `P-043` named proprietor in same-issue incident report; distinct from Bailey & Price unless an identity/succession bridge is found. `E-107`. |
-| BUS-029 | F. F. Theroux pianos and sewing machines | 519 Main | Exact 1915 address (`E-107`, `P-044`); **4 Oct 1917 p2** directly repeats Theroux Music House at 519 Main (`E-120`/`S-134`). No uninterrupted-occupancy or target-storefront inference. |
+| BUS-029 | [F. F. Theroux pianos and sewing machines](ff-theroux.md) | 519 Main | Exact 1915 address (`E-107`, `P-044`); **4 Oct 1917 p2** directly repeats Theroux Music House at 519 Main (`E-120`/`S-134`). No uninterrupted-occupancy or target-storefront inference. |
 | BUS-030 | [Mass's Hotel and Restaurant](mass-hotel-restaurant.md) | Former Brunswick; Main near Seventh context, exact number open | Opening October 30, 1915 (calendar-derived), confirmed November 4; renovation/same quarters explicit, no deed proof. P-045; E-109. |
 | BUS-031 | [Portland Railway Light & Power Co. Electric Store](electric-store.md) | 617 Main (earlier); **619 Main by 1916–17** | 1915 Beaver/617 evidence; July 1916 move to Andresen 619; **4 Jan 1917 p2** directly repeats Andresen Bldg., 619 Main (`E-120`/`S-134`). Exact lease/move day unresolved. |
 | BUS-032 | [Eddy's Dependable Store](eddys-dependable-store.md) | 526 Main | November 25, 1915 p 6 exact advertisement; proprietor/1910 Eddy identity unresolved, not 527. E-109. |
@@ -47,8 +47,8 @@ E-109/S-121 adds five dated directory confirmations for BUS-026 at 507, BUS-027 
 | --- | --- | --- | --- |
 | BUS-033 | Portland Gas & Coke Co. Oregon City branch | 718 Main | Branch opened by March 23 report; George J. Hall in charge. No deed claim. E-116/S-130. |
 | BUS-034 | Dr. G. F. Anderson chiropractic practice | 414 Main | April 13 p 6 dated advertisement; later unnumbered ads do not independently establish address. E-116/S-130. |
-| BUS-035 | Holman & Randall undertaking establishment | Fifth and Main; exact number unresolved | May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day and real-estate ownership unknown. E-116/S-130. |
-| BUS-036 | Raasch & Lamb pool and billiard hall | Andresen Building on Main; exact number unresolved | May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned to 503/505. E-116/S-130. |
+| BUS-035 | [Holman & Randall undertaking establishment](holman-randall.md) | Fifth and Main; exact number unresolved | May 1915 formation E-112; April 6 1916 sale of Randall interest to Holman. Joint ads persist; legal day and real-estate ownership unknown. E-116/S-130. |
+| BUS-036 | [Raasch & Lamb pool and billiard hall](raasch-lamb.md) | Andresen Building on Main; exact number unresolved | May 18 1916 three-month permission to move to basement in same building, not completed move. Not assigned to 503/505. E-116/S-130. |
 
 ## 1916 dated corroboration
 
@@ -58,10 +58,10 @@ E-116/S-130 verifies BUS-007 511, BUS-026 507, BUS-027 509, BUS-028 527, BUS-029
 
 | ID | Business | Address | Notes |
 | --- | --- | --- | --- |
-| BUS-037 | Wm. A. Schilling optometry practice | 617 Main; announced move to 612 Main | June 1 p8 future-tense move; Pruden advertises succession by October 5. Exact move and transfer days unresolved. E-119/S-133. |
-| BUS-038 | Pruden optometry practice | 612 Main | October 5 p5 typeset surname and successor-to-Schilling wording; November 2 p7 and December 7 p5 repeat. Given name and transaction terms unknown. E-119/S-133. |
-| BUS-039 | Scripture & May | 108 Fifth | Exact address verified Sep–Dec 1916 and again **4 Jan / 1 Feb 1917**; Aug2 reports an employee joining the Oregon City blacksmith shop without a number. Ledger 110 and May & Washburn bridges unresolved. `E-120`/`S-134`. |
-| BUS-040 | Jones Drug Company | **617 Main by 1 Nov 1917**; Andresen Building move prospect in 1916 | June 1916 announced move into former PRL&P/Schilling room; Nov1 1917 p3 directly prints Jones Drug Co., 617 Main Street. Exact move day and legal succession terms unresolved. `E-120`/`S-134`. |
+| BUS-037 | [Wm. A. Schilling optometry practice](schilling-pruden-optometry.md) | 617 Main; announced move to 612 Main | June 1 p8 future-tense move; Pruden advertises succession by October 5. Exact move and transfer days unresolved. E-119/S-133. |
+| BUS-038 | [Pruden optometry practice](schilling-pruden-optometry.md) | 612 Main | October 5 p5 typeset surname and successor-to-Schilling wording; November 2 p7 and December 7 p5 repeat. Given name and transaction terms unknown. E-119/S-133. |
+| BUS-039 | [Scripture & May](scripture-may.md) | 108 Fifth | Exact address verified Sep–Dec 1916 and again **4 Jan / 1 Feb 1917**; Aug2 reports an employee joining the Oregon City blacksmith shop without a number. Ledger 110 and May & Washburn bridges unresolved. `E-120`/`S-134`. |
+| BUS-040 | [Jones Drug Company](jones-drug-company.md) | **617 Main by 1 Nov 1917**; Andresen Building move prospect in 1916 | June 1916 announced move into former PRL&P/Schilling room; Nov1 1917 p3 directly prints Jones Drug Co., 617 Main Street. Exact move day and legal succession terms unresolved. `E-120`/`S-134`. |
 | BUS-041 | Burmeister & Andresen jewelers | Suspension-bridge corner; Andresen Building | June 1 p5 prospective expansion into Jones room and approximately $5,000 rearrangement; not completed construction or deed. E-119/S-133. |
 | BUS-042 | Greaves & McNeil | Andresen basement; proposed Barclay Building offices | June 1 p5 future-tense relocation; number and actual move date unresolved. E-119/S-133. |
 | BUS-043 | E. P. Elliott & Sons | Andresen basement; replacement sought | June 1 p5 says seeking new home amid rearrangement; destination and completed move unknown. E-119/S-133. |
@@ -73,9 +73,9 @@ Descriptive liquor-premises labels are archive labels, not proved trade names.
 
 | ID | Business Name | Address / Association | Notes |
 | --- | --- | --- | --- |
-| BUS-045 | A. J. Surber liquor premises | 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908) | 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved. E-121; P-055. |
-| BUS-046 | Justin & Hitchman liquor premises | Main/Fifth; number and corner unspecified | Six-month application in December 1907; three-month application in September 1908. Separate Surber notice appears in the same 1908 issue. Individual names and relationship to M. Justin in 1910 unresolved. E-122; P-056. |
-| BUS-047 | Strebig fresh-meat market | Main/Fifth; Albright's Old Stand; no number | Printed spelling Strebig. Albright old-stand wording supplies a predecessor-location lead, not a deed or precise transfer date. Test separately against 1910 H. W. Streibig/Pioneer Market; do not silently merge spellings/identities. E-123; P-057. |
+| BUS-045 | [A. J. Surber liquor premises](a-j-surber.md) | 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908) | 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved. E-121; P-055. |
+| BUS-046 | [Justin & Hitchman liquor premises](justin-hitchman.md) | Main/Fifth; number and corner unspecified | Six-month application in December 1907; three-month application in September 1908. Separate Surber notice appears in the same 1908 issue. Individual names and relationship to M. Justin in 1910 unresolved. E-122; P-056. |
+| BUS-047 | [Strebig fresh-meat market](strebig-market.md) | Main/Fifth; Albright's Old Stand; no number | Printed spelling Strebig. Albright old-stand wording supplies a predecessor-location lead, not a deed or precise transfer date. Test separately against 1910 H. W. Streibig/Pioneer Market; do not silently merge spellings/identities. E-123; P-057. |
 | BUS-048 | Thomas Hartman liquor premises | Main between Fifth and Sixth; no side or number | Three-month application. Visually reads 5th and 6th, not the duplicated 6th in OCR. No 501/503/505 assignment. E-123; P-058. |
 | BUS-049 | S. Rosenstein store | Main/Seventh at Suspension Bridge; no number | Advertisement explicitly calls Rosenstein successor to I. Selling; business succession wording, not land ownership or transaction date. E-123; P-059. |
 | BUS-050 | W. Rambo liquor premises | 415 Main (4 October 1907) | Three-month renewal application; no grant or ownership established. E-123; P-060. |
@@ -84,14 +84,14 @@ Descriptive liquor-premises labels are archive labels, not proved trade names.
 | BUS-053 | D. M. Klemsen liquor premises | 429 Main (4 October 1907) | Three-month renewal application; no grant or ownership established. E-123; P-063. |
 | BUS-054 | Knapp & Nobel liquor premises | 712 Main,18 September 1908 | 18 September 1908 six-month application at 712 Main. Printed NOBEL differs from NOEBEL in the 1907 notice; the same712 address suggests an identity check, not an automatic merger or uninterrupted occupancy. E-123; P-064. |
 | BUS-055 | A. H. Griessen liquor premises | 702 Main, Main/Seventh (4 October 1907) | Exact number and intersection in notice; requested duration not printed in this notice. E-123; P-065. |
-| BUS-056 | Carl G. Hodes liquor premises | 327 Main (18 September 1908); later Sixth/Main record separate | Three-month application. Compare E-076 (1909 Sixth/Main) and E-079 (1910 departure) as identity/location leads; a move from 327 or a Stewart business purchase is not established. E-123; P-066. |
+| BUS-056 | [Carl G. Hodes liquor premises](carl-g-hodes.md) | 327 Main (18 September 1908); later Sixth/Main record separate | Three-month application. Compare E-076 (1909 Sixth/Main) and E-079 (1910 departure) as identity/location leads; a move from 327 or a Stewart business purchase is not established. E-123; P-066. |
 | BUS-057 | Astman & Knightly liquor premises | 722 Main (18 September 1908) | Printed ASTMAN & KNIGHTLY; three-month application. Initials and individual identities unresolved. E-123; P-067. |
 | BUS-058 | L. Buconich liquor premises | Andresen Bldg., Main Street (18 September 1908); no number | Six-month application. Do not assign later Andresen/Electric Store 619 to this 1908 tenant. E-123; P-068. |
 | BUS-059 | D. McHenry liquor premises | Main Street (18 September 1908); no number | Three-month application; no target frontage assignment. E-123; P-069. |
 | BUS-060 | Bennett & Moore liquor premises | Main Street (18 September 1908); no number | Three-month application; no target frontage assignment. E-123; P-070. |
 | BUS-061 | Gordon E. Hayes law office | Stevens Building, Main Street (18 September 1908); no number | Office used as claims-delivery location in an estate notice; no numbered office or property ownership established. E-123; P-071. |
 | BUS-062 | Straight & Salisbury plumbing business | Main Street near Eighth (18 September 1908); no number | Printed business and relative location verified; no exact target address or property title inferred. E-123; P-072. |
-| BUS-063 | Schrader's Bakery | Main Street, 18 September 1908; no number | Hiring ad; no named proprietor on this page. E-123/S-137; compare E-093 and OQ-026. Telephone Main 33 is not a street address. |
+| BUS-063 | [Schrader's Bakery](schraders-bakery.md) | Main Street, 18 September 1908; no number | Hiring ad; no named proprietor on this page. E-123/S-137; compare E-093 and OQ-026. Telephone Main 33 is not a street address. |
 | BUS-064 | I. Selling store | Relative location only | Named only as the predecessor in Rosenstein advertisement, Main/Seventh at Suspension Bridge. No exact transfer date, number or real-estate ownership. E-123/S-135; P-073. |
 | BUS-065 | Albright old-stand market context | Relative location only | Surname appears only in Strebig's Albright's Old Stand wording at Main/Fifth. Given name, ownership, transfer date and exact corner/number unproved. E-123/S-135; P-074. |
 
@@ -120,3 +120,4 @@ These records were already part of the evidence narrative but previously lacked 
 | BUS-077 | [Leland & Little Billiards](leland-little.md) | Oregon City; exact address unresolved | Exists by Feb. 1922; billiards by Aug.; 505 billiards/cigars match is a lead only. `E-126`. |
 | BUS-078 | [Henry Brightbill's store](henry-brightbill-store.md) | 503 Main | Direct 25 August 1908 address; trade name/merchandise and building continuity unresolved. `E-042`. |
 | BUS-079 | [B. J. Staats Hardware](b-j-staats-hardware.md) | 516 Main | December 1919 institutional photo metadata supplies the address/date; storefront fascia supplies the business name. Sale signs do not prove completed closure or transfer. `E-132`. |
+| BUS-080 | [Wemmo & Haas bakeries](schraders-bakery.md) | Main Street bakery among two acquired in December 1912; exact number unresolved | `E-093` reports the purchase from Herman Schrader. Individual names, property ownership, and later operating span unresolved. |

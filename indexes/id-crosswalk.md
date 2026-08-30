@@ -219,8 +219,14 @@ Current synthesis: [Task 7 model test](../evidence/source-captures/1922-task-7-f
 | P-072 — Straight & Salisbury | BUS-062 | E-123; S-137 | No numbered target building assigned |
 | P-073 — I. Selling | BUS-064 | E-123; S-135 | No numbered target building assigned |
 | P-074 — Albright | BUS-065 | E-123; S-135 | No numbered target building assigned |
-| Proprietor not printed | BUS-063 — Schrader's Bakery | E-123/S-137; E-093 context | No numbered target building assigned |
+| P-096 — Herman Schrader | BUS-063 — Schrader's Bakery | E-123/S-137 business-name anchor; E-093/S-102/S-106 identifies Schrader and the 1912 sale | No numbered target building assigned |
 
 OQ-032/RL-045 track unresolved identities and premises; OQ-026 retains Schrader address limits. [Full review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).
 
 Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main in 1907; P-064/BUS-054 retains 1908 Knapp & Nobel only. No identity merger.
+
+## 1912 Schrader bakery transfer
+
+| People | Businesses | Evidence / sources | Limits |
+| --- | --- | --- | --- |
+| `P-096` Herman Schrader; `P-097` Wemmo & Haas | `BUS-063` Schrader's Bakery; `BUS-080` Wemmo & Haas bakeries | `E-093`; `S-102`, `S-106`; compare `E-123`/`S-137` | Main Street bakery among two sold in December 1912; exact number, individual purchaser names, real-estate ownership and later operating span unresolved. |

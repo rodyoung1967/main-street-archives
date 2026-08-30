@@ -2,6 +2,7 @@ buildings:
   - id: B-001
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
+    repository_file: buildings/503-main.md
     notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. The July 1922 Gates/Wolf division leaves 503 unresolved between two models; it may begin Wolf's remainder or belong to Gates's two-store corner replacement. Also includes c.1919 surviving-building estimate and 503/505 boundary questions. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff.
     related_businesses:
       - BUS-001
@@ -82,6 +83,7 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
+    repository_file: buildings/505-main.md
     notes: CCHS catalogs an 1880/1880s Harding Drug Store photo at 505 (address may be retrospective) and a 1910 Young's
       Secondhand Store image visibly shows 505; neither proves continuity with the surviving building. Later associated
       with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503.
@@ -219,6 +221,7 @@ buildings:
   - id: B-003
     name: 507 Main Street / Harding Building
     address: 507-511 Main Street, Oregon City, Oregon
+    repository_file: buildings/507-harding-building.md
     notes: Original Harding Building / Harding Drug Store context. E-128 directly places Geo. A. Harding at 511 in January 1911, and E-107 gives separate 1915 listings at 507 (W. W. Bradley), 509 (H. P. Brightbill) and 511 (Harding); these do not prove a shared historic footprint or continuous occupancy. E-129 directly places Dixon's Pastry Shop at 509 in June 1964; E-130 is an unnamed 509 baking-and-coffee-shop sale offer in December 1965 and is not automatically assigned to Dixon's. Dixon's Bakery and Harding Drug were gutted in the 1 September 1967 Main Street fire (E-045), but the exact 1967 room arrangement remains open. ODOT's 2021 cultural-resources table dates the present replacement Harding Building at 507-511 Main to 1968 (S-063), resolving the prior 1968/1969 replacement-date question at the inventory level.
     related_businesses:
       - BUS-007
@@ -249,6 +252,7 @@ buildings:
       - E-095
       - E-107
       - E-109
+      - E-119
     related_sources:
       - S-143
       - S-144
@@ -262,6 +266,7 @@ buildings:
       - S-110
       - S-120
       - S-121
+      - S-133
     related_maps:
       - SM-002
       - SM-003
@@ -275,6 +280,7 @@ buildings:
   - id: B-004
     name: 527 Main Street / Swartz Building
     address: 527 Main Street, Oregon City, Oregon
+    repository_file: buildings/527-swartz-building.md
     notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January 1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference. No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935 structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage remains unresolved. City report notes later entrance alteration.
     related_businesses: [BUS-028]
     related_people: [P-043]
@@ -290,6 +296,7 @@ buildings:
   - id: B-005
     name: 501 Main Street (historic / removed)
     address: 501 Main Street, Oregon City, Oregon
+    repository_file: buildings/501-main.md
     notes: 4 October 1907 Surber notice explicitly prints No.501/Main-Fifth;1908 repeats only the intersection. No title, Palace trade-name or later-premises identity inferred. 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
     related_evidence:
       - E-121
@@ -341,6 +348,7 @@ buildings:
   - id: B-006
     name: 513 Fifth Street (historic residence)
     address: 513 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/513-fifth.md
     notes: Primary newspaper item identifies the H. M. Templeton home at 513 Fifth in March 1912, then occupied by M. D. Phillips and family. Residential-address record only; no modern parcel or relation to the Main/Water commercial/fire cluster is established.
     related_people:
       - P-039
@@ -353,6 +361,7 @@ buildings:
   - id: B-007
     name: 107 Fifth Street (historic blacksmith address)
     address: 107 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/107-fifth.md
     notes: The 1914–1915 water-rent ledger directly records 107 Fifth in original Block 4 with use Blacksmith. Tenant, footprint, parcel and later continuity unresolved.
     related_evidence: [E-117]
     related_sources: [S-131]
@@ -360,6 +369,7 @@ buildings:
   - id: B-008
     name: 108 Fifth Street (historic blacksmith / carriage and auto works address)
     address: 108 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/108-fifth.md
     notes: Scripture & May is directly documented at 108 Fifth in selected 1916–1918 sources; S. F. Scripture appears there in June 1922. No bridge to ledger 110, Fashion Stable or May & Washburn is assumed.
     related_businesses: [BUS-039]
     related_people: [P-082, P-083]
@@ -369,6 +379,7 @@ buildings:
   - id: B-009
     name: 109 Fifth Street / Oregon City Laundry address
     address: 109 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/109-fifth-laundry.md
     notes: The 1916 laundry plan changed to Fifth Street and the new plant was nearing completion by April. A 1918 guide directly prints Oregon City Laundry at 109 Fifth. The pre-fire plant burned in July 1922; the 1925 laundry footprint is a later physical presence, not proved identical fabric.
     related_businesses: [BUS-068]
     related_people: [P-077, P-078, P-079, P-080, P-081]
@@ -379,6 +390,7 @@ buildings:
   - id: B-010
     name: 110 Fifth Street (historic stable address)
     address: 110 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/110-fifth.md
     notes: The 1914–1915 water-rent ledger directly records 110 Fifth in Block 3 with use Stable. Scripture & May tenant reading is probable only; no 108 renumbering or Fashion Stable identity is established.
     related_evidence: [E-117]
     related_sources: [S-131]
@@ -386,6 +398,7 @@ buildings:
   - id: B-011
     name: 519 Main Street (historic storefront address)
     address: 519 Main Street, Oregon City, Oregon
+    repository_file: buildings/519-main.md
     notes: Theroux is directly documented at 519 in 1915–1917. Pantorium was at 519 by 20 July 1922 and shared a temporary post-fire Oregon City Laundry office. No uninterrupted occupancy, title or surviving-building identity inferred.
     related_businesses: [BUS-029, BUS-068, BUS-073]
     related_people: [P-044, P-093]
@@ -395,6 +408,7 @@ buildings:
   - id: B-012
     name: 526 Main Street (historic storefront address)
     address: 526 Main Street, Oregon City, Oregon
+    repository_file: buildings/526-main.md
     notes: Eddy's Dependable Store is directly advertised at 526 Main on 25 November 1915. Proprietor, building identity, title and continuity unresolved.
     related_businesses: [BUS-032]
     related_evidence: [E-109]
@@ -403,6 +417,7 @@ buildings:
   - id: B-013
     name: 617 Main Street / Beaver Building address
     address: 617 Main Street, Oregon City, Oregon
+    repository_file: buildings/617-main-beaver-building.md
     notes: Electric Store and Schilling optometry are dated 1915–1916 occupants; Jones Drug Company is directly at 617 by November 1917. Shared-room arrangement, ownership and exact transition dates unresolved.
     related_businesses: [BUS-031, BUS-037, BUS-040]
     related_evidence: [E-109, E-116, E-119, E-120]
@@ -411,6 +426,7 @@ buildings:
   - id: B-014
     name: 619 Main Street / Andresen Building address
     address: 619 Main Street, Oregon City, Oregon
+    repository_file: buildings/619-main-andresen-building.md
     notes: Electric Store and power-company offices reported moved to Andresen Building 619 Main by July 1916; January 1917 ad repeats the exact address. Earlier Andresen references are not backdated to 619.
     related_businesses: [BUS-031]
     related_evidence: [E-119, E-120]
@@ -419,6 +435,7 @@ buildings:
   - id: B-015
     name: 516 Main Street (historic storefront address)
     address: 516 Main Street, Oregon City, Oregon
+    repository_file: buildings/516-main.md
     notes: Clackamas County Historical Society object 2008.008.004.169 is cataloged as 516 Main in December 1919 during 22 inches of snow; the photograph visibly shows B. J. Staats Hardw... on the fascia and closing-out/big-sale signs. Catalog and image claims are kept distinct. No completed closure, transfer, title, exact exposure day, construction date, or surviving-building identity is inferred.
     related_businesses: [BUS-079]
     related_people: [P-095]

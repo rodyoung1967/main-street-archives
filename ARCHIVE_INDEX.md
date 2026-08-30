@@ -185,7 +185,7 @@ Other newly assigned historic address pages:
 
 ### 1915 neighboring-address integration
 
-See `evidence/source-captures/1915-sheets-073-100-integration-audit.md` for the batch's address-to-record dispositions and Friday/Thursday correction. **519 Main — F. F. Theroux** is a dated listing with no identified historic building; Bannon/Brunswick changes remain unnumbered-location leads (`RL-043`). Courier review remains paused before sheet 101.
+See `evidence/source-captures/1915-sheets-073-100-integration-audit.md` for the batch's address-to-record dispositions and Friday/Thursday correction. **519 Main — F. F. Theroux** is now linked to the historic address page `B-011`; this does not prove surviving-building identity. Bannon/Brunswick changes remain unnumbered-location leads (`RL-043`).
 
 ## Sanborn Map Index
 
@@ -217,6 +217,10 @@ The business index is the canonical complete list. Central standalone histories 
 - [`BUS-011` Chicago Store](businesses/chicago-store.md), [`BUS-012` Wolf & Miller](businesses/wolf-miller.md), [`BUS-021` Dr. Freeze](businesses/dr-freeze.md), [`BUS-013` Farr's Pool Hall](businesses/farrs-pool-hall.md), [`BUS-022` Dr. Roy Briggs](businesses/dr-roy-briggs.md), [`BUS-014` Harr's Recreation Center](businesses/harrs-recreation-center.md), [`BUS-015` Well's Recreation](businesses/wells-recreation.md), and [`BUS-017` Sports Keg](businesses/sports-keg.md) — distinct documented or explicitly lead-status 505 records.
 - [`BUS-007` Harding Drug Store](businesses/harding-drug-store.md) — CCHS photograph cataloged at 505 in 1880/1880s; exact 511 by 1911/1915; later Harding-block context kept separate.
 - [`BUS-067` G. H. Young / The Curio Man](businesses/gh-young-curio-man.md) — visibly at 505 in a CCHS photograph dated 1910; reported moving one door north in 1911; exact 507 by 1912 and again 1914.
+- [`BUS-026` W. W. Bradley](businesses/ww-bradley-furniture.md), [`BUS-027` H. P. Brightbill](businesses/hp-brightbill-grocery.md), and [`BUS-029` F. F. Theroux](businesses/ff-theroux.md) — repeated 1915–1917 exact-address histories at 507, 509, and 519 Main, with identity and continuity limits preserved.
+- [`BUS-035` Holman & Randall](businesses/holman-randall.md), [`BUS-036` Raasch & Lamb](businesses/raasch-lamb.md), [`BUS-039` Scripture & May](businesses/scripture-may.md), and [`BUS-040` Jones Drug](businesses/jones-drug-company.md) — multi-date 1915–1918 Main/Fifth business records; unnumbered and proposed moves remain explicitly unresolved.
+- [`BUS-056` Carl G. Hodes](businesses/carl-g-hodes.md) — separate 327 Main and Sixth/Main observations, without an invented transfer or move.
+- [`BUS-063` Schrader's Bakery / `BUS-080` Wemmo & Haas](businesses/schraders-bakery.md) — Main Street bakery and December 1912 business sale; exact number and real-estate ownership unresolved.
 - [`BUS-068` Oregon City Laundry](businesses/oregon-city-laundry.md) — reconstructed Third/Main → Fifth/109 Fifth → fire/recovery chronology.
 - [`BUS-069` May & Washburn](businesses/may-washburn.md), [`BUS-070` Fifth Street Restaurant](businesses/fifth-street-restaurant.md), [`BUS-071` Gilbert Miller shoe repair](businesses/gilbert-miller-shoe-repair.md), and [`BUS-072` Ketchner confectionery](businesses/ketchner-confectionery.md) — July 1922 Fifth Street cluster.
 - [`BUS-073` Pantorium](businesses/pantorium-cleaners.md), [`BUS-074` Red Front](businesses/red-front-clothing-store.md), and [`BUS-075` Schieremann tailor shop](businesses/alex-schieremann-tailor.md) — Main Street/fire-property reconstruction.
@@ -257,6 +261,10 @@ High-priority people/entities:
 - O. H. Leland, Walter L. Little, and Timms — `P-089`–`P-091`; distinct billiards/identity records
 - R. A. Junken — `P-092`; Gates's August 1922 replacement-building contractor
 - F. Champion — `P-093`; Pantorium owner at 416 Main in 1914
+- W. W. Bradley, H. P. Brightbill, and F. F. Theroux — `P-041`, `P-042`, `P-044`; repeated 507/509/519 Main merchant records with initials and identity conflicts preserved
+- R. L. Holman and T. P. Randall — `P-050`–`P-051`; undertaking-partnership formation and reported 1916 interest sale
+- Carl G. Hodes — `P-066`; 1908–1910 liquor-premises chronology without an inferred move
+- Herman Schrader and Wemmo & Haas — `P-096`–`P-097`; 1912 bakery sale, with the purchaser partnership style left unexpanded
 
 ## Evidence and Source Registers
 
