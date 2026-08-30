@@ -2,8 +2,8 @@
 
 | ID | Name | Role | Notes |
 |---|---|---|---|
-| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader / reported property seller | Associated with Harding Building and Harding Drug Store. A 13 July 1922 newspaper report also identifies his named Main Street store group in the Wolf/Gates sale; exact legal relationship and footprint unresolved. |
-| P-002 | Dr. Bailey | Dentist | Legacy 1909 Harding Building occupancy claim is unverified. Museum catalog photo `MOT:P-391` names a Dr. Bailey in a group with G. H. Young but does not prove an office location/date; see `OQ-030`. |
+| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader / reported property seller | CCHS catalogs an 1880/1880s Harding Drug Store photo at 505, but the crop lacks a number and the location may be retrospective. Exact 511 business address by 1911; later Harding Building and 1922 property relationships remain distinct and unresolved. |
+| P-002 | Dr. Bailey | Dentist | Legacy 1909 Harding Building occupancy claim is unverified. The MOT reference spreadsheet for `MOT:P-391` names a Dr. Bailey among four men in the institutionally dated 1910 Young storefront photo (`IMG-0725`), but does not prove an office location or 1909 tenancy; see `OQ-030`. |
 | P-003 | [J. Jager](profiles/j-jager.md) | Proprietor | Listed as proprietor of New Kwality Cafe on matchbook. |
 | P-004 | [Larry](profiles/larry.md) | Proprietor / operator | Associated with Larry's Kwality Cafe; surname unknown. |
 | P-005 | [Ray Hansen](profiles/ray-hansen.md) | Earlier 505 Tavern owner/operator | Distinct from Raye Grisham. Family history places Hansen before Dick/Sheila's Brass Rail period at 505; exact business-sale and rename dates remain open. |
@@ -110,7 +110,7 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-076 | [G. H. Young / George Young](profiles/g-h-young.md) | Curio, second-hand and furniture merchant | Moved Harding→Willamette Building in 1911; directly at 507 Main in 1912 and 1914. Exact initials and building-name bridge preserved cautiously. `BUS-067`. |
+| P-076 | [G. H. Young / George Young](profiles/g-h-young.md) | Curio, second-hand and furniture merchant | CCHS 1910 photo visibly shows Young's Secondhand Store at 505; moved Harding→Willamette Building in 1911; directly at 507 in 1912/1914. Strong 505→507 sequence; exact initials, move day and building continuity remain open. `BUS-067`. |
 | P-077 | [O. L. Blakeslee](profiles/o-l-blakeslee.md) | Oregon City Laundry operator/proprietor context | Named with the laundry at Third/Main in 1910; not merged with other Blakeslees. |
 | P-078 | [E. M. Blakeslee](profiles/e-m-blakeslee.md) | Oregon City Laundry site-change actor | Named in the 17 February 1916 Fifth Street site trade. `E-125`. |
 | P-079 | [M. L. Blakeslee](profiles/m-l-blakeslee.md) | Oregon City Laundry proprietor | Directly listed as proprietor at 109 Fifth in 1918. `E-124`. |
@@ -129,3 +129,4 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-092 | [R. A. Junken](profiles/r-a-junken.md) | Contractor | Contractor for Gates's August 1922 hollow-tile replacement. |
 | P-093 | [F. Champion](profiles/f-champion.md) | Pantorium owner | Directly at 416 Main in 1914; later Pantorium ownership continuity unproved. |
 | P-094 | [Carl R. Harr](profiles/carl-r-harr.md) | Harr's Recreation Center operator / license applicant | Late-1948 municipal text directly identifies Harr's at 505; property ownership and Farr transition unresolved. |
+| P-095 | [B. J. Staats](profiles/b-j-staats.md) | Hardware-store name/person style | December 1919 photograph visibly associates the name with the cataloged 516 Main storefront; initials, ownership, and pictured people remain unresolved. `BUS-079`, `E-132`. |

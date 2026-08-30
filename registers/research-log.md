@@ -124,3 +124,25 @@ This was a repository-integration correction, not an annual certification or a c
 - Added `S-143`–`S-146` and `E-128`–`E-131`, plus synchronized business/building/person/crosswalk/navigation records. All annual statuses remain unchanged.
 
 Full audit: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## 30 August 2026 — 516 Main / B. J. Staats Hardware photograph
+
+- Preserved the user-supplied Clackamas County Historical Society watermarked photograph as `IMG-0723` without pixel changes.
+- Registered museum object `2008.008.004.169`, other number `Cochran 169`, cataloged at 516 Main in December 1919 during 22 inches of snow.
+- Separated catalog claims from visual observations: institutional metadata supplies address/date/snow depth; the photograph visibly supplies the B. J. Staats hardware fascia and closing-out/big-sale signs.
+- Added `B-015`, `BUS-079`, `P-095`, `S-147`, `E-132`, and `T-040`, with synchronized building/business/person/address/media/timeline/crosswalk records.
+- Did not infer completed closure, transfer, ownership, construction date, exact exposure day, surviving fabric, expanded initials, or public-domain status.
+
+This was a single-source integration, not a complete 1919 annual review. The 1919 status remains unchanged.
+
+## 30 August 2026 — 1880/1880s and 1910 505 Main photographs
+
+- Preserved both user-supplied Clackamas County Historical Society JPEGs without pixel alteration as `IMG-0724` and `IMG-0725`.
+- Live-reviewed and registered the institutional records: Harding Drug Store object `2008.008.046.080` / `Culp, Ed 80`, and George Young's Second Hand Store object `MOT:P-391`.
+- Preserved the Harding record's date conflict: structured `1880` versus image-caption `1880s`. The crop shows Harding fascia but no number; the society's 505 location may be retrospective because formal numbering is documented in 1906.
+- Recorded that the 1910 Young image directly shows **505** and **Young's Secondhand Store**; the catalog identifies George Young as the man in a white shirt without a coat.
+- Integrated `S-148`–`S-149`, `E-133`–`E-134`, and `T-041`–`T-042` across the 505 building, Harding/Young business and person pages, address/business registers, unified/master timelines, YAML, media records and ID crosswalk.
+- The Young image plus the March 1911 one-door-north move and 1912/1914 exact 507 anchors strongly supports a 505→507 sequence and 507/Willamette correspondence; exact move day, property ownership and physical-building continuity remain unresolved.
+- Added the project-wide preservation rule to `AGENTS.md`: steward-supplied photographs are committed unless already preserved as exact/substantive duplicates or a documented legal, safety, integrity or technical reason prevents retention; exclusions must be logged.
+
+This integration does not complete the 1880 or 1910 annual reviews. Both years retain their existing statuses.

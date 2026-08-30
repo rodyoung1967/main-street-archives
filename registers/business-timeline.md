@@ -37,6 +37,8 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
+| 1880 / 1880s | Harding Drug Store | `BUS-007` | `E-133`; `S-148`; `IMG-0724` | Very High for institutional metadata and visible fascia | CCHS catalogs 505; crop shows no number. Because numbering was formalized in 1906, address may be retrospective. No present-building continuity or title. |
+| 1910 | Young's Second Hand Store | `BUS-067` | `E-134`; `S-149`; `IMG-0725` | Very High | Photo visibly shows 505 and store name; CCHS supplies date and George Young identification. Combined with 1911/1912/1914 evidence, strongly supports a 505→507 sequence. |
 | Apr. 1911 / Jan. 1913 | The Chicago Store | `BUS-011` | `E-026` | Very High | |
 | Oct. 1918 | Wolf & Miller | `BUS-012` | `E-027` | Very High | Address occupied; surviving-building identity inferential. E-113 directly names Gilbert with the Springfield firm in February 1916, not at 505 then; 1918 Miller name discrepancy preserved. |
 | 1921-1922 | Dr. Freeze, Eye Specialist | `BUS-021` | `E-028` | Very High | 505 / 505 1/2; later Masonic Building. |
@@ -67,7 +69,7 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Jan. 1912; again 1914 | G. H. Young — The Curio Man / second-hand and furniture | `BUS-067` | `E-092`; 1914 exact listing | Very High for dated 507 address | March 1911 Willamette Building move strengthens but does not prove the building-name/507 bridge or uninterrupted occupancy. |
+| Jan. 1912; again 1914 | G. H. Young — The Curio Man / second-hand and furniture | `BUS-067` | `E-092`; 1914 exact listing; compare `E-134` | Very High for dated 507 address | The visible 1910 505 storefront and March 1911 one-door-north move strongly support a 505→507 sequence and 507/Willamette bridge; exact move day and uninterrupted occupancy remain open. |
 | Dated listings, Aug.–Oct. 1915 | W. W. Bradley furniture | `BUS-026` | `E-107` | High, visual | 507 Main, not Harding's 511 listing. No continuous occupancy or Young-to-Bradley transfer inferred. |
 | Until 1 Sep. 1967 | Harding Drug Store | `BUS-007` | `E-045` | Very High for destruction in fire | Gutted 1 September 1967. Earlier operating span still incomplete. |
 | Before 1 Sep. 1967 fire | Tony's Restaurant | `BUS-008` | `E-016` | Working | Not named in the 1967 Oregonian fire article. |
@@ -102,6 +104,7 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | Oct 30, 1915, calendar-derived | Former Brunswick; exact Main number open | Mass's Hotel and Restaurant opens | BUS-030 | E-109; T-019 | Oct 28 announcement and Nov 4 retrospective report; renovated same quarters, no deed/final-cost proof. |
 | Nov 25, 1915 | 526 Main | Eddy's Dependable Store | BUS-032 | E-109; T-020 | Proprietor unnamed; no 1910 Eddy identity bridge or527 conflation. |
 | Nov 25, 1915 | 617 Main, Beaver Building | Portland Railway Light & Power Co. Electric Store | BUS-031 | E-109; T-020 | Exact advertised address; no move date or claim all building tenants shared617. |
+| Dec. 1919 | 516 Main (`B-015`) | B. J. Staats Hardware | `BUS-079` | `E-132`; `S-147`; `IMG-0723` | Institutional catalog supplies address/date and 22-inch-snow description; fascia and sale signs are visible. No completed closure, transfer, title, or exact exposure-day inference. |
 
 Fifth/Main undertaker notices recur through November 25; Scripture & May's five directory notices have no address. Neither supplies a numbered Fifth occupancy or a501 Main equation. See E-109.
 

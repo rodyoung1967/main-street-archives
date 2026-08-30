@@ -70,6 +70,8 @@ Primary file: `buildings/505-main.md` · Unified timeline: [`timelines/505-main.
 
 Associated names and topics:
 
+- George Harding Drug Store photograph cataloged at 505 Main, structured date 1880 / caption 1880s; catalog location may be retrospective and does not prove present-building continuity (`E-133`, `IMG-0724`)
+- Young's Secondhand Store visibly at 505 in the CCHS photograph dated 1910; together with the 1911 move report and 1912/1914 507 anchors, strongly supports a 505→507 sequence (`E-134`, `IMG-0725`)
 - 505 Tavern
 - Ray Hansen — earlier 505 Tavern business owner/operator history
 - Dick and Sheila Wiitanen — **operated Brass Rail before owning the 505 building**
@@ -87,6 +89,8 @@ Associated names and topics:
 
 Key evidence and map sources:
 
+- `E-133` CCHS Harding Drug Store photograph cataloged at 505, with 1880/1880s date/address limits
+- `E-134` CCHS 1910 Young's Second Hand Store photograph visibly showing 505
 - `E-004` Mitch Young direct testimony
 - `E-005` Ray Hansen ownership oral history
 - `E-006` Willie bartender oral history
@@ -177,6 +181,7 @@ Other newly assigned historic address pages:
 - [`B-012` — 526 Main](buildings/526-main.md): Eddy's Dependable Store, 1915.
 - [`B-013` — 617 Main / Beaver Building](buildings/617-main-beaver-building.md): Electric Store, Schilling, later Jones Drug.
 - [`B-014` — 619 Main / Andresen Building](buildings/619-main-andresen-building.md): Electric Store/power offices by July 1916.
+- [`B-015` — 516 Main](buildings/516-main.md): B. J. Staats Hardware in a Clackamas County Historical Society photograph cataloged December 1919; sale signs visible, closure/transfer unproved.
 
 ### 1915 neighboring-address integration
 
@@ -210,7 +215,8 @@ The business index is the canonical complete list. Central standalone histories 
 - [`BUS-024` Palace Saloon](businesses/palace-saloon.md) and [`BUS-025` Hunsaker & Taylor](businesses/hunsaker-taylor.md) — separately documented 501 Main liquor premises; no unproved succession.
 - [`BUS-078` Henry Brightbill store](businesses/henry-brightbill-store.md), [`BUS-019` H. H. Smith pool hall](businesses/h-h-smith-pool-hall.md), and [`BUS-020` L. Hylton](businesses/l-hylton.md) — early exact-address records at 503.
 - [`BUS-011` Chicago Store](businesses/chicago-store.md), [`BUS-012` Wolf & Miller](businesses/wolf-miller.md), [`BUS-021` Dr. Freeze](businesses/dr-freeze.md), [`BUS-013` Farr's Pool Hall](businesses/farrs-pool-hall.md), [`BUS-022` Dr. Roy Briggs](businesses/dr-roy-briggs.md), [`BUS-014` Harr's Recreation Center](businesses/harrs-recreation-center.md), [`BUS-015` Well's Recreation](businesses/wells-recreation.md), and [`BUS-017` Sports Keg](businesses/sports-keg.md) — distinct documented or explicitly lead-status 505 records.
-- [`BUS-067` G. H. Young / The Curio Man](businesses/gh-young-curio-man.md) — 507 Main by 1912 and again 1914.
+- [`BUS-007` Harding Drug Store](businesses/harding-drug-store.md) — CCHS photograph cataloged at 505 in 1880/1880s; exact 511 by 1911/1915; later Harding-block context kept separate.
+- [`BUS-067` G. H. Young / The Curio Man](businesses/gh-young-curio-man.md) — visibly at 505 in a CCHS photograph dated 1910; reported moving one door north in 1911; exact 507 by 1912 and again 1914.
 - [`BUS-068` Oregon City Laundry](businesses/oregon-city-laundry.md) — reconstructed Third/Main → Fifth/109 Fifth → fire/recovery chronology.
 - [`BUS-069` May & Washburn](businesses/may-washburn.md), [`BUS-070` Fifth Street Restaurant](businesses/fifth-street-restaurant.md), [`BUS-071` Gilbert Miller shoe repair](businesses/gilbert-miller-shoe-repair.md), and [`BUS-072` Ketchner confectionery](businesses/ketchner-confectionery.md) — July 1922 Fifth Street cluster.
 - [`BUS-073` Pantorium](businesses/pantorium-cleaners.md), [`BUS-074` Red Front](businesses/red-front-clothing-store.md), and [`BUS-075` Schieremann tailor shop](businesses/alex-schieremann-tailor.md) — Main Street/fire-property reconstruction.
@@ -241,9 +247,9 @@ High-priority people/entities:
 - Rodney Young — current 505 co-owner with Mitchell Young through 505 LLC / project steward
 - Alin Guria — current 505 lessee and operating-business owner; earlier **Alan** / dual-spelling wording was a project typo
 - Skyline Property Management — property manager / authorized agent
-- George A. Harding — Harding Building / Harding Drug Store context
+- George A. Harding — Harding Drug Store photograph cataloged at 505 in 1880/1880s; exact 511 business address by 1911; later Harding Building context kept distinct
 - Dr. Bailey — legacy 1909 Harding Building claim is unverified; track under `OQ-030`
-- G. H. Young / George Young — `P-076`; 1911 Harding-to-Willamette move and 1912/1914 507 Main anchors
+- G. H. Young / George Young — `P-076`; visible Young's Secondhand Store at 505 in 1910, 1911 Harding-to-Willamette move, and 1912/1914 507 Main anchors
 - O. L., E. M., and M. L. Blakeslee — `P-077`–`P-079`; kept separate in the Oregon City Laundry chronology
 - Knoepel and Schofield — `P-080`–`P-081`; 1922 laundry operators
 - S. F. Scripture and L. E. May — `P-082`–`P-083`; Scripture & May at 108 Fifth; May & Washburn identity remains unproved

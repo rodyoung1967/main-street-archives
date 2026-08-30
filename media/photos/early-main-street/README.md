@@ -4,6 +4,19 @@ Status: **source/provenance register established; four planned full-scene binari
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
+## Committed exact-address photograph
+
+- `IMG-0723` — `IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg`
+- Clackamas County Historical Society object `2008.008.004.169`, other number `Cochran 169`.
+- Cataloged as 516 Main Street, December 1919, during 22 inches of snow; storefront visibly reads **B. J. Staats Hardw…**.
+- Rights were not supplied with the watermarked access copy. See `S-147`, `E-132`, and the canonical media register for provenance and limits.
+
+## Committed 505 Main storefront photographs
+
+- `IMG-0724` — `IMG-0724_1880-505-main-george-harding-drug-store.jpg`: Clackamas County Historical Society object `2008.008.046.080`, cataloged as George Harding Drug Store at 505 Main. Structured date says 1880; image caption says 1880s. The crop does not visibly show 505, and the pre-1906 address may be retrospective.
+- `IMG-0725` — `IMG-0725_1910-505-main-george-young-second-hand-store.jpg`: Clackamas County Historical Society object `MOT:P-391`, cataloged 1910. The image visibly shows 505 and Young's Secondhand Store; the catalog identifies George Young as the man in the white shirt without a coat.
+- Rights were not supplied. See `S-148`–`S-149`, `E-133`–`E-134`, and the canonical media register for provenance and limits.
+
 ## Preserved crop with incomplete provenance
 
 - `IMG-0722` — `IMG-0722_tom-keene-cigar-sign-crop-reported-1908.jpg`

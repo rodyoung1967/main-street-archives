@@ -5,7 +5,10 @@ Address record: [`B-002`](../buildings/505-main.md). See [master](../timeline.md
 | Date | Event | Status / limits | Records |
 | --- | --- | --- | --- |
 | 1844–1900 | Original Block 4 plat and early Sanborn frontage. | Context; later numbers/footprints not securely mapped. | `E-094`; `SM-002`–`SM-006` |
+| 1880 / 1880s | George Harding Drug Store photograph cataloged by CCHS at **505 Main**. | Institution supplies address and conflicting date precision; crop shows Harding fascia but no number. Because numbering was formalized in 1906, 505 may be retrospective. No present-building continuity. | `BUS-007`; `P-001`; `S-148`; `E-133`; `IMG-0724` |
+| 1910 | **Young's Secondhand Store** photograph visibly shows **505** above the door; CCHS identifies George Young and dates it 1910. | Direct visual address/business; institutional date/person identification. Ownership, other men, building name and surviving fabric open. | `BUS-067`; `P-076`; `S-149`; `E-134`; `IMG-0725` |
 | Jan.–3 Feb. 1911 | Chicago Store at 405 Main; Wolf & Nat named proprietors. | Earlier-address antecedent only. | `E-084` |
+| 10 Mar. 1911 | Young reported moving one door north from Harding Building into Willamette Building. | Combined with the 1910 505 image and later exact 507 records, strongly supports a 505→507 sequence; report itself prints neither number. | `E-085`; `E-134` |
 | 31 Mar.–Apr. 1911 | Chicago Store at **505 Main**. | **Exact primary**; available 505 ad does not repeat proprietors. | `BUS-011`; `E-026`; `S-032` |
 | 8 Jan. 1913 | Chicago Store again at **505 Main**, clothing/cleaning/repairing. | **Exact primary.** | `BUS-011`; `E-026` |
 | Dec. 1913 | Fire in Chicago Store building; premises strongly associated with George Harding. | Strong inference, not deed/surviving-building proof. | Chicago Store fire capture |
@@ -44,4 +47,4 @@ Address record: [`B-002`](../buildings/505-main.md). See [master](../timeline.md
 | 1 Jul. 2025–30 Jun. 2030 | Lease: 505 LLC lessor, Alin Guria lessee, restaurant/bar use. | Current administrative record; landlord/operator separate. | `R-001`; `E-018` |
 | Current | Building date/rear addition, 1922 mapping, Farr→Harr→Well's, and tavern operator chain remain open. | Conflict/hypothesis; no uninterrupted continuity inferred. | `E-032`, `E-100`–`E-103`, `E-108` |
 
-Sequence (chronology only): Chicago Store → Wolf & Miller → Freeze → unnamed billiards/cigars → Farr → Harr → Well's → unnamed tavern → 505 Tavern → Brass Rail → Dug Inn → Sports Keg lead → Wiitanen 505 Tavern → Mitch 505 Tavern → later operators → Thirsty Duck.
+Sequence (chronology only; no physical-building continuity implied): Harding Drug Store catalog record → Young's Secondhand Store → Chicago Store → Wolf & Miller → Freeze → unnamed billiards/cigars → Farr → Harr → Well's → unnamed tavern → 505 Tavern → Brass Rail → Dug Inn → Sports Keg lead → Wiitanen 505 Tavern → Mitch 505 Tavern → later operators → Thirsty Duck.

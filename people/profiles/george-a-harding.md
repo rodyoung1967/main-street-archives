@@ -1,14 +1,16 @@
 # George A. Harding
 
+A Clackamas County Historical Society photograph is cataloged as **George Harding Drug Store - 505 Main Street**, with a structured date of **1880** and image-caption wording **1880s** (`E-133` / `S-148` / `IMG-0724`). The crop visibly shows Harding fascia lettering but no number. The 505 identification may be retrospective because formal citywide numbering is documented in 1906; it does not prove title, building identity, or continuity.
+
 A visually verified 10 January 1911 *Morning Enterprise* advertisement directly identifies **George A. Harding, Druggist, 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). This is business-address evidence, not proof of title or the named Harding Building's exact footprint.
 
 ## Archive IDs
 
 - Person ID: `P-001`
-- Related building: `B-003`
+- Related buildings: `B-002` (catalog-photo location context), `B-003` (later Harding Building context)
 - Related business: `BUS-007`
-- Related evidence: `E-096`, `E-107`
-- Related timeline/building context: `T-003`, `T-006`
+- Related evidence: `E-096`, `E-107`, `E-133`
+- Related timeline/building context: `T-003`, `T-006`, `T-041`
 - Related research lead: `RL-004`
 
 ## Known / Working Biography

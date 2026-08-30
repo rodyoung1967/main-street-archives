@@ -1,6 +1,6 @@
 # 1910 — Young second-hand store at 505 Main; museum catalog says later pool-hall location
 
-Status: **VISUALLY VERIFIED MUSEUM CATALOG RECORD; 1912 507 Main newspaper anchor VISUALLY VERIFIED; underlying historic photograph not yet inspected**
+Status: **VISUALLY VERIFIED MUSEUM CATALOG RECORD; USER-SUPPLIED HISTORIC PHOTOGRAPH VISUALLY VERIFIED 30 AUGUST 2026; 1912 507 Main newspaper anchor VISUALLY VERIFIED**
 
 Purpose: preserve a newly verified catalog-level bridge between **505 Main** in 1910 and the later use of that same location as a pool hall, while distinguishing the catalog record from direct inspection of the historic photograph itself and reconstructing George H. Young's move away from 505.
 
@@ -23,7 +23,7 @@ The `MOT:P-391` catalog entry reads, in substance:
 
 Verification state for the catalog page: **VISUALLY VERIFIED**.
 
-The historic photograph represented by `MOT:P-391` has **not yet been directly inspected**, so the visible storefront, signage, neighboring buildings, alley geometry, and date annotation have not yet been independently checked against the catalog description.
+The user subsequently supplied the historic photograph represented by `MOT:P-391`; it is preserved as `IMG-0725` and was visually inspected on 30 August 2026 (`S-149` / `E-134`). The image visibly shows **505** above the entrance and **Young's Secondhand Store** on both display windows. Four men stand at the storefront. The institutional record—not independent visual identification—identifies George Young as the man in the white shirt without a coat and supplies the 1910 date. The other three people remain catalog identifications rather than independently confirmed facial identifications.
 
 ## Important correction — MOT:P-372 is a different photograph
 
@@ -136,9 +136,9 @@ These records indicate that the museum collection may contain useful visual evid
 
 ## Next checks
 
-1. Obtain and visually inspect the actual **MOT:P-391 / M/R y # 011-0048** photograph at full resolution.
+1. Request the highest-resolution/non-watermarked institutional derivative if facade-detail comparison requires it; the supplied 2048 × 1324 access copy has been preserved and visually inspected.
 2. Determine when the annotation **“same location as pool hall is now”** was written, if provenance permits.
 3. Visually certify the **20 Apr 1911** George Young “new store” classified and search nearby issues for an exact **507 Main** address to prove the move earlier than Jan 1912.
-4. Compare storefront/alley/building geometry in `MOT:P-391` with the 1911/1925 Sanborn maps and later photographs.
+4. Compare storefront/alley/building geometry in `IMG-0725` with the 1911/1925 Sanborn maps and later photographs.
 5. Determine whether the 1910 Young premises at 505 was the same physical building occupied by the Chicago Store in 1911 or a predecessor structure affected by the 1913 fire/rebuilding history.
 6. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use `MOT:P-391` to assign either business to 505 without a direct bridge.

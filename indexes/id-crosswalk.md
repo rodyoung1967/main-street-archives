@@ -55,7 +55,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | Building | Primary related businesses | Important evidence / sources |
 | --- | --- | --- |
 | `B-001` 503 Main Street | `BUS-078` Brightbill; `BUS-019` Smith; `BUS-020` Hylton; `BUS-001`–`BUS-003` Kwality lineage; `BUS-004` Wheel; `BUS-018` White Rabbit / Black Ink | Unified chronology: `timelines/503-main.md`. `E-001`–`E-003`, `E-020`–`E-025`, `E-042`–`E-049`, `E-094`–`E-099`, `E-103`, `E-108`. **Do not attach `E-038` to 503.** Gates/Wolf assignment remains unresolved. |
-| `B-002` 505 Main Street | `BUS-011`–`BUS-017`, `BUS-021`, `BUS-022`, plus `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-016` | Unified chronology: `timelines/505-main.md`. Includes distinct Farr (`BUS-013`) and Harr (`BUS-014`) records; `E-127`/`S-142` directly identifies Carl R. Harr and Harr's Recreation Center in 1948. Business operation and real-estate ownership remain separate. |
+| `B-002` 505 Main Street | `BUS-007` Harding catalog-photo context; `BUS-067` Young; `BUS-011`–`BUS-017`, `BUS-021`, `BUS-022`, plus `BUS-005`, `BUS-006`, `BUS-009`, `BUS-010`, `BUS-016` | Unified chronology: `timelines/505-main.md`. `S-148`/`E-133`/`IMG-0724` catalogs Harding at 505 in 1880/1880s but the pre-1906 number may be retrospective. `S-149`/`E-134`/`IMG-0725` visibly establishes Young at 505 in 1910. Includes distinct Farr (`BUS-013`) and Harr (`BUS-014`) records. Business operation, real-estate ownership and physical-building continuity remain separate. |
 | `B-003` 507-511 Main Street / Harding Building | `BUS-007` Harding Drug Store; `BUS-008` Tony's Restaurant; `BUS-023` Dixon's Bakery/Pastry Shop; `BUS-026` W. W. Bradley; `BUS-027` H. P. Brightbill; `BUS-067` G. H. Young | `E-128` / `S-143` / `IMG-0714` directly places Harding at 511 in January 1911. `E-129`–`E-130` / `S-144`–`S-145` / `IMG-0715`–`IMG-0716` establish Dixon's at 509 in June 1964 and an unnamed 509 baking/coffee shop sale ad in December 1965. Present replacement dated **1968** by `S-063`; do not backdate that consolidated footprint. |
 | `B-004` 527 Main Street / Swartz Building | Bailey & Price (1912; unmerged); Price Bros. `BUS-028` / Al Price `P-043` (1915) | `S-061` documents Bailey & Price in 1912; `E-107` / `S-120` documents Price Bros. at 527 in the 5 August 1915 directory and the same-issue incident report. No succession/identity bridge. `E-053`, `S-062`, `S-063` date the present **Swartz Building** to **1935**. |
 | `B-005` 501 Main Street (historic / removed) | `BUS-045` A. J. Surber; `BUS-024` Palace Saloon; `BUS-025` Hunsaker & Taylor; 1925 store occupant unknown | Unified chronology: `timelines/501-main.md`. `E-020`, `E-021`, `E-054`–`E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`. The records do not prove a transfer or uninterrupted continuity. |
@@ -68,6 +68,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `B-012` 526 Main Street | `BUS-032` Eddy's Dependable Store | `E-109` / `S-121`; one dated advertisement, proprietor/title unresolved. |
 | `B-013` 617 Main / Beaver Building | `BUS-031`, `BUS-037`, `BUS-040` | `E-109`, `E-116`, `E-119`, `E-120`; dated occupants, not one-room succession. |
 | `B-014` 619 Main / Andresen Building | `BUS-031` Electric Store/power offices | `E-119`, `E-120`; exact 1916–1917 address, earlier Andresen references not backdated. |
+| `B-015` 516 Main Street | `BUS-079` B. J. Staats Hardware | `S-147` / `E-132` / `IMG-0723`: cataloged December 1919 snow photograph; address/date from institutional metadata, business fascia and sale signs visible. No closure/transfer/title inference. |
 
 ## Person / Business Crosswalk
 
@@ -95,7 +96,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-038` Hunsaker & Taylor | `BUS-025`, `B-005`, `E-104`, `S-119` | Printed partnership/style at 501 Main in October 1913; individual identities unresolved. |
 | `P-039` H. M. Templeton | `B-006`, `E-106`, `S-118` | 513 Fifth resident in March 1912; wife's given name not printed. |
 | `P-040` M. D. Phillips | `B-006`, `E-106`, `S-118` | Occupied the Templeton 513 Fifth home with family in March 1912. |
-| `P-076` G. H. Young / George Young | `BUS-067`, `B-003`, `E-085`, `E-092` | 1911 Harding-to-Willamette move; 507 Main in 1912 and 1914; exact building-name bridge unresolved. |
+| `P-076` G. H. Young / George Young | `BUS-067`, `B-002`, `B-003`, `E-085`, `E-092`, `E-134`, `S-149`, `IMG-0725` | Young's Secondhand Store visibly at 505 in CCHS 1910 photograph; 1911 Harding-to-Willamette move; 507 Main in 1912/1914. Strong 505→507 sequence; exact move day, ownership and physical continuity unresolved. |
 | `P-077`–`P-081` Blakeslee / Knoepel / Schofield records | `BUS-068`, `B-009`, `E-103`, `E-124`, `E-125` | Distinct dated Oregon City Laundry roles; no silent identity or ownership merger. |
 | `P-082` S. F. Scripture / `P-083` L. E. May | `BUS-039`, `B-008` | Scripture & May at 108 Fifth; later May & Washburn identity/succession unproved. |
 | `P-085`–`P-088` Schieremann / Ketchner / Blake / Gage-Blake conflict | `BUS-070`, `BUS-072`, `BUS-075`, `E-103` | July 1922 fire cluster; address and owner/operator conflicts preserved. |
@@ -103,6 +104,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `P-092` R. A. Junken | `BUS-070`, `E-097` | Contractor for Gates's August 1922 replacement; exact footprint unresolved. |
 | `P-093` F. Champion | `BUS-073` | Pantorium owner at 416 Main in 1914; later continuity unproved. |
 | `P-094` Carl R. Harr | `BUS-014`, `B-002`, `E-127`, `S-142` | Directly named with Harr's Recreation Center, 505 Main, in late 1948. Distinct from Edwin F. and Alice Farr; exact Farr-to-Harr transition remains open. |
+| `P-095` B. J. Staats | `BUS-079`, `B-015`, `E-132`, `S-147`, `IMG-0723` | Name displayed on the cataloged December 1919 516 Main hardware storefront; initials and ownership remain unresolved. |
 
 ## Maintenance Rule
 
@@ -118,6 +120,9 @@ When a source, evidence item, media item, artifact, person, business, building, 
 | `IMG-0716` | `newspapers/oregonian/1964-06-10-dixons-pastry-shop-509-main.png` | `S-144` / `E-129`; `BUS-023`, `B-003`. Legacy Amplifier/1949/519 labels superseded. |
 | `IMG-0717`–`IMG-0721` | `records/directories/1915-1916-polk-oregon-city/` | Existing `S-132` / `E-118` FamilySearch directory page set. |
 | `IMG-0722` | `media/photos/early-main-street/IMG-0722_tom-keene-cigar-sign-crop-reported-1908.jpg` | Tom Keene cigar-sign crop; no source/evidence/address claim; former filename's 1908 assertion remains unverified. |
+| `IMG-0723` | `media/photos/early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg` | `S-147` / `E-132`; `B-015`, `BUS-079`, `P-095`. Catalog metadata supplies 516 Main/December 1919/22 inches; image visibly supplies storefront and sale signs; rights unresolved. |
+| `IMG-0724` | `media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg` | `S-148` / `E-133`; `B-002`, `BUS-007`, `P-001`. CCHS supplies 505 and 1880/1880s wording; crop supplies visible Harding fascia but no number. Retrospective-address and continuity limits preserved. |
+| `IMG-0725` | `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` | `S-149` / `E-134`; `B-002`, `B-003`, `BUS-067`, `P-076`. Image visibly shows 505/store name; CCHS supplies 1910 and George Young identification. Strong 505→507 sequence only. |
 
 ## 1915 Courier sheets73–100 batch
 

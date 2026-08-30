@@ -74,6 +74,8 @@ If a new building or building-address question is introduced:
 
 If a new artifact or image is added:
 
+- Commit every photograph supplied by the project steward to the repository unless it is an exact or substantively duplicate image already preserved, or a documented legal, safety, integrity, or technical reason prevents retention. Do not omit an image merely because its identification, date, address, or historical interpretation is unresolved; preserve it with explicit uncertainty and provenance metadata.
+- Before excluding a supplied photograph as a duplicate, compare the image content and available provenance/metadata. Record the duplicate relationship or other exclusion reason in the research log so the decision remains auditable.
 - Assign an `A-###` ID for physical artifacts when appropriate.
 - Assign or confirm an `IMG-####` media ID for image/media tracking.
 - Store the committed image file under the correct source-file folder.

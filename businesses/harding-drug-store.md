@@ -3,15 +3,17 @@
 ## Archive IDs
 
 - Business ID: `BUS-007`
-- Related building: `B-003`
+- Related buildings: `B-002` (cataloged 1880/1880s photo location; retrospective-address caution), `B-003` (later Harding Building context)
 - Related person: `P-001`
-- Related evidence/source/media: `E-128` / `S-143` / `IMG-0714`
-- Related timeline/building context: `T-003`, `T-006`
+- Related evidence/source/media: `E-133` / `S-148` / `IMG-0724`; `E-128` / `S-143` / `IMG-0714`
+- Related timeline/building context: `T-003`, `T-006`, `T-041`
 - Related research lead: `RL-004`
 
 ## Known / Working History
 
-Harding Drug Store is associated with George A. Harding and the historic Harding Building context. A visually reviewed **10 January 1911** advertisement directly places **George A. Harding, Druggist, at 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). Later exact-address evidence repeats 511 Main in 1912 and throughout the reviewed August-November 1915 listings (`E-107`, `E-109`; `S-120`, `S-121`).
+Clackamas County Historical Society object `2008.008.046.080` is titled **George Harding Drug Store - 505 Main Street**. Its structured date is **1880**, while the catalog image caption says **1880s** (`E-133` / `S-148` / `IMG-0724`). The supplied crop visibly shows the George A. Harding fascia but no street number. Because Oregon City's formal citywide numbering is documented in 1906, the catalog's 505 label may be a retrospective location; it is not proof that 505 was displayed in 1880, that the pictured storefront was the later Harding Building, or that it survives.
+
+A visually reviewed **10 January 1911** advertisement directly places **George A. Harding, Druggist, at 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). Later exact-address evidence repeats 511 Main in 1912 and throughout the reviewed August-November 1915 listings (`E-107`, `E-109`; `S-120`, `S-121`).
 
 The present replacement building uses the consolidated address **507-511 Main**, but that later label must not be backdated to the separate early storefronts. The exact operating dates, legal ownership, tenancy arrangement, address changes, and pre-fire footprint still need to be established.
 
@@ -43,7 +45,7 @@ High-priority sources to locate:
 - Newspaper advertisements or articles mentioning Harding Drug Store.
 - Deeds or property records connecting George A. Harding to the historic Harding Building premises.
 - Business licenses or tax records for Harding Drug Store.
-- Historic photos or postcards showing storefront signage.
+- Additional/full historic photographs or postcards showing storefront signage and context for the cropped 1880/1880s image.
 - Sanborn maps showing a drug store at 507 Main.
 - Probate, estate, or civic records mentioning George A. Harding's business interests.
 

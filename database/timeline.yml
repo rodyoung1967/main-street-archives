@@ -443,3 +443,33 @@ timeline:
     related_people: [P-007, P-008, P-031]
     related_businesses: [BUS-010, BUS-016]
     related_buildings: [B-002]
+
+  - id: T-040
+    date: December 1919
+    summary: Clackamas County Historical Society metadata catalogs a snow photograph at 516 Main; the image visibly shows B. J. Staats Hardware and closing-out/big-sale signs. The signs do not establish completed closure or transfer.
+    confidence: Very High for supplied institutional metadata and visible photograph content; business/real-estate ownership, exact day, and sale outcome unresolved.
+    related_evidence: [E-132]
+    related_sources: [S-147]
+    related_people: [P-095]
+    related_businesses: [BUS-079]
+    related_buildings: [B-015]
+
+  - id: T-041
+    date: 1880 / 1880s
+    summary: Clackamas County Historical Society catalogs a George Harding Drug Store photograph at 505 Main; structured date is 1880 and image caption says 1880s. The crop visibly shows Harding fascia but no street number.
+    confidence: Very High for live-reviewed institutional metadata and visible fascia; 505 may be retrospective because numbering was formalized in 1906, and no present-building continuity or title is established.
+    related_evidence: [E-133]
+    related_sources: [S-148]
+    related_people: [P-001]
+    related_businesses: [BUS-007]
+    related_buildings: [B-002]
+
+  - id: T-042
+    date: 1910–1914
+    summary: A CCHS photograph dated 1910 visibly shows Young's Secondhand Store at 505; Young was reported moving one door north in March 1911 and is directly listed at 507 in 1912 and 1914.
+    confidence: Very High for visible 1910 address/business and later exact 507 records; Strong inference for the 505-to-507 and 507/Willamette bridges; exact move day, ownership and physical continuity unresolved.
+    related_evidence: [E-085, E-092, E-134]
+    related_sources: [S-098, S-102, S-149]
+    related_people: [P-076]
+    related_businesses: [BUS-067]
+    related_buildings: [B-002, B-003]

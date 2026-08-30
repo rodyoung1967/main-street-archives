@@ -970,3 +970,38 @@ Type: Primary-map crops/screenshots with incomplete provenance; **VISUALLY REVIE
 Repository: `maps/images/` (`IMG-0711`–`IMG-0713`).
 Evidence: `E-131`.
 Notes: Three committed images visibly show fire-insurance-map footprints, addresses, and use labels around the relevant block; one screenshot visibly shows `orcity.org`. Exact editions, sheets, source URL, and crop dates remain unresolved, so no date-specific interpretation is made from these crops alone.
+
+## S-147 — Clackamas County Historical Society photograph, 516 Main Street, December 1919
+Type: Institutional historic-photograph catalog record and user-supplied digital image.
+Holding institution: Clackamas County Historical Society.
+Object ID: `2008.008.004.169`; other number: `Cochran 169`.
+Catalog title: **516 Main Street, 22 inches of Snow 1919**.
+Catalog date/place: December 1919; Oregon City, Clackamas County, Oregon.
+Medium/location: Negative; Society Collection.
+Repository: `media/photos/early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg` (`IMG-0723`).
+Evidence: `E-132`.
+Catalog URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/516-main-street-22-inches-of-snow-1919
+Notes: Catalog metadata supplies the address, month/year, and snow-depth description. The visually reviewed image supplies the B. J. Staats storefront and sale-sign readings. The access copy is watermarked; reuse rights were not supplied and no public-domain claim is made.
+
+## S-148 — Clackamas County Historical Society George Harding Drug Store photograph
+Type: Institutional historic-photograph catalog record and user-supplied digital image.
+Holding institution: Clackamas County Historical Society.
+Object ID: `2008.008.046.080`; other number: `Culp, Ed 80`.
+Catalog title/description: **George Harding Drug Store - 505 Main Street**.
+Catalog date wording: structured date made **1880**; image caption **1880s**.
+Catalog URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/george-harding-drug-store-505-main-street
+Repository: `media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg` (`IMG-0724`).
+Evidence: `E-133`.
+Notes: The crop visibly shows the George A. Harding fascia but no street number. The institution supplies the business identification, 505 location, and date wording. Because formal citywide numbering is documented in 1906, 505 may be a retrospective catalog location; no 1880 displayed-number or surviving-building claim is made.
+
+## S-149 — Clackamas County Historical Society George Young's Second Hand Store photograph
+Type: Institutional historic-photograph catalog record and user-supplied digital image.
+Holding institution: Clackamas County Historical Society.
+Object ID: `MOT:P-391` (institutional photo ID, not an archive person ID).
+Catalog title: **George Young's Second Hand Store.**
+Catalog description: **George Young's Second Hand Store, 505 Main Street. George Young is the man in the white shirt and no coat.**
+Catalog date: **1910**.
+Catalog URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/george-youngs-second-hand-store.
+Repository: `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` (`IMG-0725`).
+Evidence: `E-134`.
+Notes: The photograph visibly shows 505 above the door and Young's Secondhand Store on both windows. The institution supplies the year and identification of George Young. Other people, ownership, move day, and surviving-building continuity remain unresolved.

@@ -102,15 +102,18 @@ businesses:
 
   - id: BUS-007
     name: Harding Drug Store
-    address: 511 Main (1915); later 507/Harding-block context
-    notes: Geo. A. Harding's 1915 directory address is 511 Main (E-107); do not backdate later 507 or consolidated-building
-      labels. Associated with the drug store gutted in the 1 September 1967 fire (E-045), but continuous operation,
-      exact historic footprint and address-change chronology remain open.
+    address: 505 Main (institutional 1880/1880s catalog location); 511 Main (1911/1915); later 507/Harding-block context
+    notes: CCHS catalogs an 1880/1880s Harding Drug Store photograph at 505 Main (E-133), but the crop shows no number
+      and the pre-1906 address may be retrospective. Geo. A. Harding is directly at 511 Main by January 1911 and in
+      1915 (E-128/E-107); do not infer uninterrupted occupancy, present-building continuity, or backdate later 507 and
+      consolidated-building labels. The drug store was among businesses gutted in the 1 September 1967 fire (E-045).
     related_buildings:
+    - B-002
     - B-003
     related_people:
     - P-001
     related_evidence:
+    - E-133
     - E-128
     - E-116
     - E-045
@@ -118,6 +121,7 @@ businesses:
     - E-109
     - E-119
     related_sources:
+    - S-148
     - S-143
     - S-130
     - S-120
@@ -858,12 +862,15 @@ businesses:
 
   - id: BUS-067
     name: G. H. Young — The Curio Man / second-hand and furniture business
-    address: 507 Main by January 1912; again in 1914
-    notes: George Young moved one door north from Harding Building to Willamette Building in March 1911; later exact 507 anchors strengthen but do not prove the building-name bridge or uninterrupted occupancy.
+    address: 505 Main (visible in 1910 photo); 507 Main by January 1912 and again 1914
+    notes: CCHS 1910 photograph directly shows 505 and Young's Secondhand Store (E-134). George Young moved one door
+      north from Harding Building to Willamette Building in March 1911; exact 507 listings follow in 1912 and 1914.
+      Combined evidence strongly supports 505 to 507 and 507/Willamette, but exact move day, ownership, building
+      continuity and the building-name bridge remain unresolved.
     related_people: [P-076]
-    related_buildings: [B-003]
-    related_evidence: [E-085, E-092]
-    related_sources: [S-098, S-102]
+    related_buildings: [B-002, B-003]
+    related_evidence: [E-085, E-092, E-134]
+    related_sources: [S-098, S-102, S-149]
     repository_file: businesses/gh-young-curio-man.md
 
   - id: BUS-068
@@ -966,3 +973,13 @@ businesses:
     related_evidence: [E-042]
     related_sources: [S-049]
     repository_file: businesses/henry-brightbill-store.md
+
+  - id: BUS-079
+    name: B. J. Staats Hardware
+    address: 516 Main, December 1919
+    notes: Clackamas County Historical Society catalog metadata supplies 516 Main and December 1919; the photograph visibly shows B. J. Staats Hardw... on the fascia plus closing-out and big-sale signs. No expanded initials, legal-name form, completed closure, transfer, business ownership, or real-estate ownership is inferred.
+    related_buildings: [B-015]
+    related_people: [P-095]
+    related_evidence: [E-132]
+    related_sources: [S-147]
+    repository_file: businesses/b-j-staats-hardware.md

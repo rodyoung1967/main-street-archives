@@ -1016,3 +1016,38 @@ Confidence: Very High for visible labels and geometry in the committed crops; un
 - No date-specific building, tenant, or continuity conclusion is made until the crops are tied to full identified sheets.
 
 Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## E-132 — B. J. Staats Hardware photograph at 516 Main, December 1919
+Type: Institutional historic-photograph metadata plus visually verified image; source `S-147`; media `IMG-0723`.
+Confidence: Very High for supplied institutional metadata and visible photograph content; unresolved for exact exposure day, expanded initials, ownership, sale outcome, surviving fabric, and rights.
+
+- The Clackamas County Historical Society catalog identifies object `2008.008.004.169` as **516 Main Street**, **December 1919**, during **22 inches of snow**.
+- The storefront fascia visibly reads **B. J. Staats Hardw…**.
+- Window signs visibly read **Closing Out Sale** and **Big Sale**.
+- The signs do not prove completed closure, sale, ownership transfer, or a final operating date.
+- The photograph does not identify the pictured people or prove building ownership, construction date, or survival of the photographed structure.
+
+Record: `evidence/source-captures/1919-516-main-bj-staats-hardware-snow-photo.md`.
+
+## E-133 — George Harding Drug Store photograph cataloged at 505 Main, 1880/1880s
+Type: Institutional historic-photograph metadata plus visually verified image; source `S-148`; media `IMG-0724`.
+Confidence: Very High for the live-reviewed catalog fields and visible fascia; unresolved for exact date precision, contemporaneous address-number usage, footprint, continuity, and rights.
+
+- The Clackamas County Historical Society catalogs object `2008.008.046.080` as **George Harding Drug Store - 505 Main Street**.
+- The structured date-made field says **1880**, while the image caption says **1880s**; both are preserved.
+- The supplied crop visibly shows **GEO. A. HARDING** or closely equivalent fascia lettering but does not show 505.
+- Because Oregon City's formal street-numbering work is documented in 1906, the cataloged 505 location may be retrospective and is not proof that 505 was displayed or officially used in 1880.
+- No present-building, later Harding Building, title, or uninterrupted-occupancy conclusion is made.
+
+Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
+
+## E-134 — George Young's Second Hand Store at visible 505 doorway, cataloged 1910
+Type: Institutional historic-photograph metadata plus visually verified image; source `S-149`; media `IMG-0725`.
+Confidence: Very High for visible storefront/address, live-reviewed catalog date, and institutional George Young identification; unresolved for ownership, exact move date, other people, and surviving fabric.
+
+- The photograph visibly shows **505** above the entrance and **Young's Secondhand Store** on both windows.
+- The Clackamas County Historical Society catalogs object `MOT:P-391` as **1910** and identifies George Young as the man in the white shirt without a coat.
+- Read with the March 1911 move-one-door-north report (`E-085`) and the 1912/1914 exact 507 records (`E-092`), the photograph strongly supports a 505→507 Young sequence and 507/Willamette correspondence.
+- The combined sequence does not prove the exact move day, 505 building name, title, uninterrupted operation, or survival of the pictured structure.
+
+Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.

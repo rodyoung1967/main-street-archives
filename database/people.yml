@@ -2,14 +2,17 @@ people:
   - id: P-001
     name: George A. Harding
     role: Druggist / civic leader
-    notes: Associated with Harding Building and Harding Drug Store. A visually verified 13 July 1922 newspaper reports
-      that his separate named Main Street store-property group was sold to S. Wolf and C. Gates; deed, legal description
-      and relationship to the Harding Building remain unresolved.
+    notes: Associated with Harding Drug Store and later Harding Building context. CCHS catalogs an 1880/1880s store
+      photograph at 505 Main, but the crop has no number and the pre-1906 address may be retrospective. A visually
+      verified 13 July 1922 newspaper reports that his separate named Main Street store-property group was sold to
+      S. Wolf and C. Gates; deed, legal description and relationship to the Harding Building remain unresolved.
     related_buildings:
+    - B-002
     - B-003
     related_businesses:
     - BUS-007
     related_evidence:
+    - E-133
     - E-128
     - E-116
     - E-096
@@ -17,6 +20,7 @@ people:
     - E-109
     - E-119
     related_sources:
+    - S-148
     - S-143
     - S-130
     - S-120
@@ -26,7 +30,10 @@ people:
   - id: P-002
     name: Dr. Bailey
     role: Dentist
-    notes: Legacy archive claim placed a Dr. Bailey upstairs in the Harding Building in 1909, but the supporting source has not been located. Museum catalog photo P-391 names a Dr. Bailey in a group with G. H. Young but does not prove the office location/date. Track under OQ-030.
+    notes: Legacy archive claim placed a Dr. Bailey upstairs in the Harding Building in 1909, but the supporting source
+      has not been located. The MOT reference spreadsheet for external object MOT:P-391 names a Dr. Bailey among four
+      men in the institutionally dated 1910 G. H. Young storefront photo now preserved as IMG-0725; it does not prove
+      the office location or 1909 tenancy. Track under OQ-030.
     related_buildings:
       - B-003
 
@@ -806,11 +813,14 @@ people:
   - id: P-076
     name: G. H. Young / George Young
     role: Curio, second-hand and furniture merchant
-    notes: Moved one door north from Harding Building to Willamette Building in March 1911; directly listed at 507 Main in 1912 and 1914. Exact initials and building-name bridge unresolved.
+    notes: CCHS 1910 photograph visibly shows Young's Secondhand Store at 505 and identifies George Young. Moved one
+      door north from Harding Building to Willamette Building in March 1911; directly listed at 507 Main in 1912 and
+      1914. Combined evidence strongly supports a 505-to-507 sequence; exact initials, move day, ownership, physical
+      continuity and building-name bridge remain unresolved.
     related_businesses: [BUS-067]
-    related_buildings: [B-003]
-    related_evidence: [E-085, E-092]
-    related_sources: [S-098, S-102]
+    related_buildings: [B-002, B-003]
+    related_evidence: [E-085, E-092, E-134]
+    related_sources: [S-098, S-102, S-149]
     repository_file: people/profiles/g-h-young.md
 
   - id: P-077
@@ -971,3 +981,13 @@ people:
     related_evidence: [E-127]
     related_sources: [S-142]
     repository_file: people/profiles/carl-r-harr.md
+
+  - id: P-095
+    name: B. J. Staats
+    role: Hardware-store name/person style
+    notes: December 1919 photograph cataloged at 516 Main visibly shows B. J. Staats Hardw... on the fascia. Initials, ownership, entry/exit dates, and identities of pictured people remain unresolved.
+    related_buildings: [B-015]
+    related_businesses: [BUS-079]
+    related_evidence: [E-132]
+    related_sources: [S-147]
+    repository_file: people/profiles/b-j-staats.md

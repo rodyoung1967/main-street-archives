@@ -723,3 +723,21 @@ sources:
     url: Exact source URL unresolved; one committed screenshot visibly shows orcity.org.
     repository_file: maps/sanborn-main-water-5th-6th.md
     notes: IMG-0711 through IMG-0713; visually reviewed map crops with unresolved editions/sheets/dates. Related evidence E-131.
+
+  - id: S-147
+    name: Clackamas County Historical Society photograph, 516 Main Street, December 1919
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/516-main-street-22-inches-of-snow-1919
+    repository_file: media/photos/early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg
+    notes: Object 2008.008.004.169; other number Cochran 169; negative in Society Collection. Catalog metadata identifies 516 Main, December 1919, and 22 inches of snow. The visually reviewed image shows B. J. Staats Hardw... on the fascia and closing-out/big-sale signs. IMG-0723; E-132. Rights unresolved; watermarked access copy.
+
+  - id: S-148
+    name: Clackamas County Historical Society George Harding Drug Store photograph
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/george-harding-drug-store-505-main-street
+    repository_file: media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg
+    notes: Object 2008.008.046.080, other number Culp Ed 80. Catalog title identifies George Harding Drug Store at 505 Main; structured date is 1880 while image caption says 1880s. Crop visibly shows Harding fascia but no number. Pre-1906 505 may be retrospective catalog location. IMG-0724; E-133.
+
+  - id: S-149
+    name: Clackamas County Historical Society George Young's Second Hand Store photograph
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/george-youngs-second-hand-store.
+    repository_file: media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg
+    notes: Institutional object MOT:P-391. Catalog date 1910 and description identifies 505 Main and George Young as man in white shirt/no coat. Image visibly shows 505 and Young's Secondhand Store. IMG-0725; E-134.

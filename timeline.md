@@ -15,6 +15,10 @@ The site was part of the area that became Oregon City's earliest commercial dist
 ## 1844–1850 — original plat geometry
 The official original Oregon City plat, cataloged by the City as county plat 2 (1850), says Jesse Applegate surveyed the Washington-Street-to-river portion in spring 1844. Its recorded narrative gives Applegate-surveyed lots in that portion **at least 66 feet front by 100 feet back**, with 10-foot alleys (`E-094` / `S-108`). Task 6 corrected the target odd-numbered frontage to original **Block 4**; Block 26 is retained as the opposite-side control.
 
+## 1880 / 1880s — Harding Drug Store photograph cataloged at 505 Main
+
+Clackamas County Historical Society object `2008.008.046.080` is cataloged as **George Harding Drug Store - 505 Main Street**. The structured date field says **1880**, while the image caption says **1880s** (`S-148` / `E-133` / `IMG-0724`). The supplied crop visibly shows George A. Harding fascia lettering but no street number. Because Oregon City's formal citywide numbering is documented in 1906, the catalog's 505 location may be retrospective. The record does not prove a displayed 1880 address, present-building continuity, the later Harding Building's footprint, or property ownership.
+
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
@@ -63,18 +67,20 @@ The south end also has direct 1910 anchors. A 1 June Council record places **E. 
 
 The same September page establishes **H. P. Brightbill at 509 Main** by 23 September 1910 (`E-081`). Because Brightbill was directly documented at **503 Main on 25 August 1908** (`E-042`), his movement/readdressing from 503 to 509 is now narrowed to after August 1908 and by September 1910. Price Bros. is independently documented at **Sixth & Main** in March and September 1910, Watson B. Eddy & Son is also listed at Main/Sixth in September, and George A. Harding's own business is listed at **611 Main**; these do not establish the exact footprint or number of the separately named Harding Building.
 
+A newly integrated Clackamas County Historical Society photograph dated **1910** visibly shows **505** above the doorway and **Young's Secondhand Store** on both windows (`S-149` / `E-134` / `IMG-0725`). The catalog identifies George Young as the man in a white shirt without a coat. This directly establishes the photographed business and numbered doorway; it does not establish ownership, the exact exposure day, other people's identities, or continuity with the surviving 505 building.
+
 Repeated 1910 *Courier* advertising places **Pacific Telephone & Telegraph Co. at 510 Main Street** (`E-082`), materially advancing the 1907 east-side telephone-office location question. The evidence strongly suggests continuity with the central office completed on the east side of Main between Fifth and Sixth in 1907, but the 510 number is not backdated without an explicit continuity source (`RL-027`).
 
 Oregon City also continued reshaping Main Street's public realm: Council ordered concrete walks where needed along Main from Eleventh to the Basin, and in October ordered old wooden awnings and projecting signs removed (`E-083`). Together with the 1907 grade increase and 1908 overhead-wire removal, these changes must be considered when comparing early photographs.
 
-Targeted searches and the indexed/retrievable *Courier* page review did not recover a 1910 occupant explicitly at **501, 503, 505, or 507 Main**, nor a target-numbered fire. The remaining page-image completeness limitation is logged under `RL-032`; it is not treated as evidence of vacancy or absence of activity.
+The targeted newspaper searches and indexed/retrievable *Courier* page review did not recover a 1910 occupant explicitly at **501, 503, 505, or 507 Main**, nor a target-numbered fire. That newspaper-coverage result is now supplemented—and, for 505 occupancy, superseded—by the institutional Young photograph directly showing 505. The remaining page-image completeness limitation is logged under `RL-032`; it is not treated as evidence of vacancy or absence of activity.
 
 ## 1911 — 505 Main relocation, Harding/Willamette mapping, and occupation of the new Gambrinus block
 The Chicago Store provides the year's strongest exact target-address sequence. On 27 January and 3 February 1911 it advertised at **405 Main Street**, with **Wolf & Nat** explicitly named as proprietors; the February ad also says Electric Hotel Building. By **31 March 1911** the Chicago Store was advertising at **505 Main Street**, and the 505 address repeats through April (`E-084`). This narrows the documented relocation/readdressing to **after 3 February and by 31 March 1911**. The available 505 ad does not itself name proprietors, so Wolf & Nat's proprietorship is not mechanically carried forward without another source.
 
 A visually verified **10 January 1911** *Morning Enterprise* advertisement directly identifies **George A. Harding, Druggist, 511 Main Street, next door to the Post Office** (`E-128` / `S-143` / `IMG-0714`). This moves Harding's exact-number business anchor back from 1912 to January 1911. It does not prove property title, the named Harding Building's footprint, or uninterrupted later occupancy.
 
-Two February–March reports materially sharpen the Harding Building problem. On 24 February a general repair shop opened in the **Harding building on Sixth Street between Main and Railroad Avenue**. On 10 March George Young was reported moving his second-hand store **one door north into the Willamette Building** from the **Harding building on Main Street between Fifth and Sixth** (`E-085`). These contemporary descriptions establish the building names and adjacency but remain too ambiguous to assign the Harding Building to 507 or another exact number. A later 1912 507 Main listing for G. H. Young is retained only as a follow-up, not backdated (`RL-029`, `RL-035`).
+Two February–March reports materially sharpen the Harding Building problem. On 24 February a general repair shop opened in the **Harding building on Sixth Street between Main and Railroad Avenue**. On 10 March George Young was reported moving his second-hand store **one door north into the Willamette Building** from the **Harding building on Main Street between Fifth and Sixth** (`E-085`). Combined with the 1910 photograph directly showing Young at 505 and the 1912/1914 exact 507 anchors, this strongly supports a **505→507** move sequence and a 507/Willamette correspondence. The move report itself prints neither number, so the building-name mapping remains an inference; it does not prove property ownership, exact move day, physical continuity, or that the 1880/1880s Harding storefront was the same premises (`E-134`; `RL-029`, `RL-035`).
 
 The new Gambrinus block constructed in 1910 was in service by early 1911. On 3 March, **J. Tobin of the Electric Hotel rented the second story of the new Gambrinus block as an annex**, with steam heat, electric lighting and some rooms supplied with hot and cold water (`E-086`). This establishes occupancy/operation of the new Sixth/Main building but still does not by itself prove the exact demolition sequence of the former William Tell Hotel structure (`RL-031`).
 
@@ -191,6 +197,8 @@ This is the first direct 109 Fifth laundry anchor and a critical even/odd Fifth 
 
 ## 1919
 A 2017 article and City synthesis report say the surviving 503 Main building was constructed about 1919; treat this as a working surviving-building estimate rather than proof of first construction. No direct 1919 occupant has yet been established for 501 or 503, and no direct 1919 505 occupant has been recovered after Wolf & Miller's documented October 1918 presence.
+
+Separately, a Clackamas County Historical Society photograph cataloged as **516 Main Street, December 1919, 22 inches of snow** visibly shows the fascia **B. J. Staats Hardw…** and window signs reading **Closing Out Sale** and **Big Sale** (`S-147` / `E-132` / `IMG-0723`). The catalog metadata supplies the address/date/snow-depth description; the image supplies the visible business and sale wording. The signs do not by themselves prove a completed closing, sale, or ownership transfer.
 
 ## 1920–June 1922 — Fifth Street business cluster before the fire
 

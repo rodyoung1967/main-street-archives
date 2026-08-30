@@ -82,8 +82,15 @@ buildings:
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
-    notes: Associated with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503 and is not a 505 business. Dick and Sheila ran Brass Rail at 505 before they owned the building, then later purchased the 505 real estate from Mrs. Nesmeth/Nemeth. Wiitanen property ownership continued through Dick's Nov. 2024 death, after which the building passed through his estate to Rodney and Mitchell Young. The July 1922 Gates/Wolf division does not decide whether 505 adjoined Wolf's remainder or lay within it. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff.
+    notes: CCHS catalogs an 1880/1880s Harding Drug Store photo at 505 (address may be retrospective) and a 1910 Young's
+      Secondhand Store image visibly shows 505; neither proves continuity with the surviving building. Later associated
+      with 505 Tavern, Brass Rail, Dug Inn, Thirsty Duck, rear-addition questions, and 505 LLC. The Wheel was only at 503.
+      Dick and Sheila ran Brass Rail before owning the building, then bought the real estate from Mrs. Nesmeth/Nemeth.
+      Wiitanen property ownership continued through Dick's Nov. 2024 death, after which the building passed through his
+      estate to Rodney and Mitchell Young. The July 1922 Gates/Wolf division and 28 August model test do not decide the
+      exact 505 role; post-fire footprint, pre-fire division and ignition room require separate proof.
     related_businesses:
+      - BUS-007
       - BUS-005
       - BUS-006
       - BUS-009
@@ -97,7 +104,9 @@ buildings:
       - BUS-017
       - BUS-021
       - BUS-022
+      - BUS-067
     related_people:
+      - P-001
       - P-005
       - P-007
       - P-008
@@ -122,6 +131,7 @@ buildings:
       - P-035
       - P-036
       - P-046
+      - P-076
       - P-094
     related_evidence:
       - E-116
@@ -169,6 +179,8 @@ buildings:
       - E-124
       - E-127
       - E-131
+      - E-133
+      - E-134
     related_sources:
       - S-130
       - S-021
@@ -192,6 +204,8 @@ buildings:
       - S-138
       - S-142
       - S-146
+      - S-148
+      - S-149
     related_maps:
       - SM-002
       - SM-003
@@ -401,3 +415,12 @@ buildings:
     related_businesses: [BUS-031]
     related_evidence: [E-119, E-120]
     related_sources: [S-133, S-134]
+
+  - id: B-015
+    name: 516 Main Street (historic storefront address)
+    address: 516 Main Street, Oregon City, Oregon
+    notes: Clackamas County Historical Society object 2008.008.004.169 is cataloged as 516 Main in December 1919 during 22 inches of snow; the photograph visibly shows B. J. Staats Hardw... on the fascia and closing-out/big-sale signs. Catalog and image claims are kept distinct. No completed closure, transfer, title, exact exposure day, construction date, or surviving-building identity is inferred.
+    related_businesses: [BUS-079]
+    related_people: [P-095]
+    related_evidence: [E-132]
+    related_sources: [S-147]

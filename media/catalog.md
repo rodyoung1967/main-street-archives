@@ -27,6 +27,9 @@ Use that file for current media IDs, repository file paths, status values, and s
 | `IMG-0714`–`IMG-0716` | `media/photo-metadata-register.md` | Committed and visually reconciled newspaper screenshots: Harding 1911, Dixon's 1964, unnamed 509 shop 1965 |
 | `IMG-0717`–`IMG-0721` | `media/photo-metadata-register.md` | Committed 1915–1916 Polk directory page images (`S-132` / `E-118`) |
 | `IMG-0722` | `media/photo-metadata-register.md` | Committed Tom Keene cigar-sign crop; date/source/location unresolved |
+| `IMG-0723` | `media/photo-metadata-register.md` | Committed December 1919 photograph of B. J. Staats Hardware at cataloged 516 Main (`S-147` / `E-132`) |
+| `IMG-0724` | `media/photo-metadata-register.md` | Committed George Harding Drug Store crop cataloged at 505 Main, 1880/1880s (`S-148` / `E-133`) |
+| `IMG-0725` | `media/photo-metadata-register.md` | Committed 1910 George Young's Second Hand Store photograph with visible 505 doorway (`S-149` / `E-134`) |
 
 ## Deprecated Older Paths
 

@@ -1103,3 +1103,46 @@ Visible content: a diamond-shaped “Tom Keene” cigar advertising sign.
 Dimensions: 181 × 218. SHA-256: `a85ec01b02c5748a47aac1e635a06023afd3f035a20b5e52ee9f39f94a1a6b55`.
 Limits: “1908” is retained only as an assertion from the former filename. The full photograph, location, date, photographer, collection, and source are unknown. This crop does not establish a Tom Keene business or occupant at any project address.
 Audit: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-08-30.md`.
+
+## IMG-0723 — B. J. Staats Hardware at 516 Main in December 1919 snow
+File: `media/photos/early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg`
+Original uploaded filename: `516 Main B.J. Staats hardware Store in 22 inches of snow 1919.jpg`.
+Type: Historic photograph / user-supplied digital access copy of institutional negative.
+Status: `committed`; visually reviewed 30 August 2026.
+Source/evidence: `S-147` / `E-132`.
+Catalog: Clackamas County Historical Society, object `2008.008.004.169`; other number `Cochran 169`; medium `Negative`; negative location `Society Collection`.
+Catalog title/date/place: “516 Main Street, 22 inches of Snow 1919”; December 1919; Oregon City, Clackamas County, Oregon.
+Visible content: storefront fascia **B. J. Staats Hardw…**; **Closing Out Sale** and **Big Sale** signs; deep snow; at least two unidentified people; Clackamas County Historical Society watermark.
+Dimensions: 2048 × 1213. SHA-256: `c3cdabf87560ca79fa919a23b081407c5d069cd0fd196280253e39df838c8cac`.
+Rights: not supplied; watermarked access copy; no public-domain assertion.
+Limits: The catalog metadata—not a visible street number—supplies 516 Main, December 1919, and 22 inches. The photograph does not establish the exact exposure day, expanded initials, business/building ownership, completed sale, closing date, or survival of the pictured fabric.
+Record: `evidence/source-captures/1919-516-main-bj-staats-hardware-snow-photo.md`.
+
+## IMG-0724 — George Harding Drug Store cataloged at 505 Main, 1880/1880s
+File: `media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg`
+Original uploaded filename: `George Harding Drug Store 1880 (Clackamas County Historical Society).jpg`.
+Type: Historic photograph crop / user-supplied digital access copy.
+Status: `committed`; visually reviewed 30 August 2026; live catalog record reviewed.
+Source/evidence: `S-148` / `E-133`.
+Catalog: Clackamas County Historical Society object `2008.008.046.080`; other number `Culp, Ed 80`; negative in Society Collection.
+Catalog title/location: **George Harding Drug Store - 505 Main Street**, Oregon City.
+Catalog date conflict: structured date made `1880`; image caption `1880s`.
+Visible content: cropped upper storefront with **GEO. A. HARDING** or closely equivalent fascia lettering; no visible street number.
+Dimensions: 400 × 400. SHA-256: `532b58185f876a7651d578be9cb39f94a414d4daaa2169438cae1329ed99fe61`.
+Rights: not supplied; no public-domain assertion.
+Limits: The institution supplies the business, 505 location, and date wording. Because formal citywide numbering is documented in 1906, 505 may be retrospective for the 1880/1880s image. No present-building, Harding Building, title, or continuity conclusion.
+Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
+
+## IMG-0725 — George Young's Second Hand Store at 505 Main, 1910
+File: `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg`
+Original uploaded filename: `George Young's Second Hand Store 1910 (Clackamas County Historical Society).jpg`.
+Type: Historic photograph / user-supplied digital access copy.
+Status: `committed`; visually reviewed 30 August 2026; live catalog record reviewed.
+Source/evidence: `S-149` / `E-134`.
+Catalog: Clackamas County Historical Society object `MOT:P-391` (institutional photo ID, not an archive person ID); medium `Photographic Paper`.
+Catalog date/description: `1910`; George Young's Second Hand Store, 505 Main; George Young identified as the man in the white shirt without a coat.
+Visible content: **505** above the entrance; **Young's Secondhand Store** on both windows; four men; tools/second-hand merchandise; Clackamas County Historical Society watermark.
+Dimensions: 2048 × 1324. SHA-256: `875329cbd74094a80fc49b4e470b5b70e2dda48dc66594508240facdf2c75c04`.
+Rights: not supplied; watermarked access copy; no public-domain assertion.
+Limits: Other people, property/business ownership, exact move day, building name, uninterrupted operation, and survival of the photographed structure are unresolved.
+Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
