@@ -1,0 +1,39 @@
+name: Integrate 1919 cleaner Post Office visual evidence
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-1919-cleaner-postoffice-visual.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Integrate visually verified 1919 source
+        run: python3 scripts/integrate_1919_cleaner_postoffice_visual.py
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/integrate-1919-cleaner-postoffice-visual.yml
+          git add -A
+          git commit -m "Integrate verified 1919 cleaner Post Office spatial anchor"
+          git pull --rebase origin main
+          git push origin HEAD:main
