@@ -31,11 +31,20 @@ jobs:
           set -euo pipefail
           url='https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf'
           pdf='newspapers/oregon-city-enterprise/1919-08-01-page-7.pdf'
-          png='newspapers/oregon-city-enterprise/1919-08-01-page-7.png'
+          png='/tmp/1919-08-01-page-7.png'
           mkdir -p "$(dirname "$pdf")"
           curl -fL --retry 3 --retry-delay 2 "$url" -o "$pdf"
-          pdftoppm -png -singlefile -r 220 "$pdf" "${png%.png}"
-          sha256sum "$pdf" "$png" > newspapers/oregon-city-enterprise/1919-08-01-page-7.sha256
+          pdftoppm -png -singlefile -r 220 "$pdf" /tmp/1919-08-01-page-7
+          sha256sum "$pdf" > newspapers/oregon-city-enterprise/1919-08-01-page-7.sha256
+          test -s "$png"
+
+      - name: Upload rendered page for visual review
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1919-08-01-enterprise-page7-render
+          path: /tmp/1919-08-01-page-7.png
+          if-no-files-found: error
+          retention-days: 1
 
       - name: Validate archive
         run: python3 scripts/validate_archive.py
