@@ -66,6 +66,16 @@ The City of Oregon City historical meeting archive indicates that Commission rec
 - No direct 1919-1920 exact-number occupant for **503 Main** has yet been established in the online pass.
 - The 1911→1925 footprint change remains real, but the exact demolition/rebuild date for the surviving 503 and 505 structures remains unresolved.
 
+## 31 August 2026 targeted Enterprise triage closeout
+
+A second focused *Enterprise* OCR pass covering **1 Oct 1918–30 Jun 1920** checked **91 issues / 728 pages** and produced 18 candidate pages. The candidate contexts have now been fully triaged in `evidence/source-captures/1918-1920-505-transition-candidate-triage-2026-08-31.md`.
+
+Result: the two truly target-specific pages are the already visually verified **13 Feb 1920 Clem Dollar block-level pool hall** and **4 Jun 1920 A. Leland 505½ pool-hall/sign approval** (`E-135` / `S-150`). The remaining candidates are unrelated name/keyword collisions or general business context. No new 501/503/505 demolition/rebuild/remodel notice emerged from this bounded pass.
+
+One non-construction OCR-only lead is retained: **11 Jul 1919 p.5** says a daughter of Gilbert Miller, then of Ninth and Division, came to Oregon City with her parents from Springfield about a year earlier. It is not promoted until visual scan review.
+
+The municipal/directory retrieval path is now pinned in `evidence/source-captures/1919-1920-municipal-directory-access-trail-2026-08-31.md`: Oregon City's current archive still lists 1920–1929 Commission minutes but its legacy ORMS link returns 404 during the City's records-system transition; the 1919–1920 Polk directory is identified at FamilySearch catalog **1439422**, exact starting ARKs recorded for both parts, with a separate physical holding `WA-120.1919` at Stillaguamish Valley Genealogical Society.
+
 ## Resume point
 
 1. Recover and inspect the **2 June 1920** Oregon City Council/Commission record, including any permit, sign, room, owner, or building-work wording attached to A. Leland's application. Use the library's Council/Commission Proceeding Index if the current City online record migration continues to block the document.

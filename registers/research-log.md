@@ -182,3 +182,11 @@ This was a repository-presence and preservation-control audit, not new historica
 - Preserved and directly inspected seven additional page scans under `newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/` (`S-152`), supplementing the already verified 1 Aug page (`S-151`).
 - Visual comparison proves OCR `600` readings on 25 Jul and 5 Sep are errors: both pages print **500**. The stable run repeatedly gives `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260.
 - Strengthened existing `E-136`; did not create a duplicate evidence identity, identify the unnamed advertiser, normalize the unusual address syntax, merge it with Pantorium, or assign the exact Post Office bay.
+
+### 2026-08-31 — 1918–1920 Enterprise candidates triaged; municipal/directory access pinned
+- Completed context triage of all 18 hits from the 91-issue / 728-page focused *Enterprise* transition search.
+- No new 501/503/505 demolition, rebuild, enlargement or remodel notice survived triage. Known `E-135` pool-hall anchors remain the target-specific hits.
+- Retained one OCR-only non-construction lead: 11 Jul 1919 p.5 places Gilbert Miller's family in Oregon City after a move from Springfield about a year earlier; visual verification still required.
+- Recorded the exact legacy Oregon City 1920–1929 Commission WebDrawer query, its current 404 retrieval failure during the City's records-system transition, and current Laserfiche/E-Vault route.
+- Recorded exact FamilySearch catalog 1439422 ARKs for both 1919–1920 Polk directory parts and physical holding `WA-120.1919` at Stillaguamish Valley Genealogical Society.
+- No annual-completion status change and no new evidence/source IDs assigned from retrieval or OCR-only material.

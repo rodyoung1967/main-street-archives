@@ -182,3 +182,8 @@ Groups: 505_main, a_leland, lease_move, leland
 - Generic construction/move language can be unrelated even when it appears on the same page as a target address; visually inspect context.
 - Search silence does not establish vacancy, demolition, non-operation, or absence of construction.
 - The unavailable-online 1919–1920 *Banner-Courier* remains a material manual microfilm gap.
+
+## Candidate triage completed — 31 August 2026
+All 18 candidate pages have now been context-triaged. See `evidence/source-captures/1918-1920-505-transition-candidate-triage-2026-08-31.md` and `evidence/source-captures/1918-1920-505-transition-target-context.md`.
+
+No new 501/503/505 construction notice survived triage. The known 13 Feb and 4 Jun 1920 pool-hall anchors were rediscovered; the 11 Jul 1919 Gilbert Miller family-relocation wording is retained only as an OCR-only lead pending page-image review. Search silence is not evidence of absence.
