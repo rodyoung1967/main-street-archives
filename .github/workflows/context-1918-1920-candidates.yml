@@ -1,0 +1,59 @@
+name: Context 1918-1920 transition candidates
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/context-1918-1920-candidates.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  context:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync main
+        run: git pull --rebase origin main
+      - name: Build target-context index
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json, re
+          from pathlib import Path
+          src=Path('evidence/source-captures/1918-1920-505-transition-ocr-discovery.json')
+          out=Path('evidence/source-captures/1918-1920-505-transition-target-context.md')
+          d=json.loads(src.read_text())
+          needles=('clem dollar','gilbert miller','a. leland','a leland','505','pool hall','pool haill')
+          lines=['# 1918–1920 Enterprise transition target-context index','',
+                 'Status: **OCR TRIAGE AID ONLY — not historical evidence**','',
+                 'Each excerpt is taken from the discovery JSON and truncated around the first local target phrase. Use page images for any candidate that remains historically plausible.','']
+          for i,h in enumerate(d['hits'],1):
+              chosen=''
+              for s in h['snippets']:
+                  low=s.lower()
+                  positions=[low.find(n) for n in needles if low.find(n)>=0]
+                  if positions:
+                      p=min(positions); chosen=s[max(0,p-180):p+420]; break
+              if not chosen and h['snippets']:
+                  chosen=h['snippets'][0][:600]
+              chosen=re.sub(r'\s+',' ',chosen).strip()
+              lines += [f"## {i}. {h['date']} p.{h['seq']}", f"Groups: {', '.join(h['groups'])}", '', chosen, '']
+          out.write_text('\n'.join(lines)+'\n')
+          PY
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit context index
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/context-1918-1920-candidates.yml
+          git add -A
+          git commit -m "Extract 1918-1920 transition target context"
+          git pull --rebase origin main
+          git push origin HEAD:main
