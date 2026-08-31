@@ -1028,8 +1028,8 @@ evidence:
     name: William Tell Hotel at Sixth & Main / Block 26 Lot 8, 1906
     type: Primary newspaper and recorded-transfer reporting
     claims:
-      - The historic three-story frame William Tell Hotel at Sixth and Main was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as lot 8, block 26, providing a fixed lot/location anchor for the 5th–6th Main block.
-    confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 anchor based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
+      - The historic three-story frame William Tell Hotel at Sixth and Main was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as lot 8, block 26, providing a fixed opposite/even-side geographic control for the 5th–6th Main block. It is not an anchor for the target odd-numbered 501/503/505 frontage in original Block 4.
+    confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 opposite-side control based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
     related_sources:
       - S-078
     repository_file: evidence/E-064-1906-william-tell-hotel-block26.md

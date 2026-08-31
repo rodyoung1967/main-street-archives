@@ -450,8 +450,8 @@ Type: Primary newspaper and recorded-transfer reporting
 Date: October 1906  
 Sources: `S-078`  
 Related record: `evidence/E-064-1906-william-tell-hotel-block26.md`  
-Claims: The historic **three-story frame William Tell Hotel at Sixth and Main** was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as **lot 8, block 26**, providing a fixed lot/location anchor for the 5th–6th Main block.  
-Confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 anchor based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
+Claims: The historic **three-story frame William Tell Hotel at Sixth and Main** was still standing and used as a lodging house/saloon when sold to Gambrinus Brewing Company for $13,000 in October 1906. The matching *Enterprise* realty-transfer report identifies the Gambrinus property as **lot 8, block 26**, providing a fixed opposite/even-side geographic control for the 5th–6th Main block. It is not an anchor for the target odd-numbered 501/503/505 frontage in original Block 4.
+Confidence: Very High for the hotel location and sale; High for the lot-8 Block 26 opposite-side control based on matching contemporaneous transfer reporting; Unresolved for later street number and mapping of the remaining Block 26 lots.
 
 ## E-065 — Pacific States Telephone Central Office Between Fifth & Sixth, 1907
 Type: Primary newspaper / construction evidence  
@@ -890,6 +890,8 @@ Type: Primary newspaper liquor-license notices; visual review.
 Confidence: Very High for printed wording; 1908 exact-number continuity and later succession unresolved.
 Sources: S-135, S-137.
 
+Claims:
+
 - 4 October 1907 p3 directly identifies A. J. Surber's present retail liquor place of business as No. 501 at Main and Fifth.
 - 18 September 1908 image 9 names A. J. Surber at Main/Fifth for a six-month application, but does not print 501.
 - This supplies earlier registered exact 501 evidence than the 1912 Palace Saloon notice. No license grant, Palace name, property ownership, uninterrupted occupancy or 1922 fire-room mapping is proved.
@@ -900,6 +902,8 @@ Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
 Type: Primary newspaper liquor-license applications; visual review.
 Confidence: Very High for printed application names and intersection; identities and numbered premises unresolved.
 Sources: S-136, S-137.
+
+Claims:
 
 - 13 December 1907 p3 names Justin & Hitchman at Main/Fifth seeking a six-month license.
 - 18 September 1908 image 9 separately prints Justin & Hitchman at Main/Fifth for three months and A. J. Surber at Main/Fifth for six months.
@@ -912,6 +916,8 @@ Capture: `evidence/source-captures/1907-1908-surber-justin-main-visual-review.md
 Type: Primary newspaper advertisements and notices; visual review.
 Confidence: Very High for readable dated wording; historic parcels, identity bridges and transaction dates unresolved.
 Sources: S-135, S-137.
+
+Claims:
 
 - 4 October 1907 p3 names Strebig fresh meats at Albright's Old Stand, Fifth/Main, without a number. Rosenstein at Main/Seventh advertises as successor to I. Selling.
 - October 1907 exact anchors include Rambo 415, Stewart & Son 327, Klemsen 429, Knapp & Noebel 712 and Griessen 702; Gohra is at Sixth/Main.
@@ -972,6 +978,8 @@ Type: Primary municipal text evidence; **OCR/TEXT ONLY** pending page-image cert
 Confidence: Very High for readable text; exact later meeting date and visual certification remain open.
 Source: `S-142`.
 
+Claims:
+
 - February 1948 Commission text names Harr and McDougald as pool-hall operators but does not print Harr's first name, business, or address.
 - A separate late-1948 liquor-license list directly identifies **Carl R. Harr, Harr's Recreation Center, 505 Main Street**.
 - This establishes Harr's as distinct from Farr's Pool Hall; the exact transfer/succession date remains unresolved.
@@ -983,6 +991,8 @@ Record: `evidence/source-captures/1948-harrs-recreation-center-505-main.md`.
 Type: Primary newspaper advertisement; source `S-143`; media `IMG-0714`.
 Confidence: Very High for the visible date, business/person name, 511 address, and printed Post Office relationship.
 
+Claims:
+
 - The advertisement directly prints **George A. Harding — Druggist — 511 Main Street — Next Door to Postoffice**.
 - This establishes Harding's exact business address by 10 January 1911, earlier than the archive's former 1912 exact-number anchor.
 - It does not establish title, the named Harding Building's footprint, or uninterrupted occupancy through later listings.
@@ -993,6 +1003,8 @@ Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-0
 Type: Primary newspaper classified; source `S-144`; media `IMG-0716`.
 Confidence: Very High for the visible date, printed Dixon's Pastry Shop name, and exact 509 Main address.
 
+Claims:
+
 - The waitress advertisement directly prints **Dixon's Pastry Shop, 509 Main St., Oregon City**.
 - The separate 1967 fire report names Dixon's Bakery among gutted businesses. The name/address chronology is strong but does not by itself prove an unchanged legal entity, ownership, or uninterrupted room occupancy.
 
@@ -1001,6 +1013,8 @@ Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-0
 ## E-130 — Unnamed baking and coffee shop at 509 Main, 5 December 1965
 Type: Primary newspaper classified; source `S-145`; media `IMG-0715`.
 Confidence: Very High for the visible date, use description, and exact inquiry address; none for business identity or completed sale.
+
+Claims:
 
 - The classified offers a **baking and coffee shop** for sale, with inquiries at **509 Main St., Oregon City**.
 - The advertisement does not name Dixon's, a seller, or a buyer and does not prove that a sale occurred.
@@ -1011,6 +1025,8 @@ Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-0
 Type: Primary-map screenshot evidence with incomplete provenance; source `S-146`; media `IMG-0711`–`IMG-0713`.
 Confidence: Very High for visible labels and geometry in the committed crops; unresolved for edition, sheet, date, and source-page identity.
 
+Claims:
+
 - The images visibly show the relevant block's address ladder, footprints, and commercial-use labels.
 - One mobile screenshot visibly identifies the `orcity.org` domain.
 - No date-specific building, tenant, or continuity conclusion is made until the crops are tied to full identified sheets.
@@ -1020,6 +1036,8 @@ Record: `evidence/source-captures/media-reconciliation-uncataloged-images-2026-0
 ## E-132 — B. J. Staats Hardware photograph at 516 Main, December 1919
 Type: Institutional historic-photograph metadata plus visually verified image; source `S-147`; media `IMG-0723`.
 Confidence: Very High for supplied institutional metadata and visible photograph content; unresolved for exact exposure day, expanded initials, ownership, sale outcome, surviving fabric, and rights.
+
+Claims:
 
 - The Clackamas County Historical Society catalog identifies object `2008.008.004.169` as **516 Main Street**, **December 1919**, during **22 inches of snow**.
 - The storefront fascia visibly reads **B. J. Staats Hardw…**.
@@ -1033,6 +1051,8 @@ Record: `evidence/source-captures/1919-516-main-bj-staats-hardware-snow-photo.md
 Type: Institutional historic-photograph metadata plus visually verified image; source `S-148`; media `IMG-0724`.
 Confidence: Very High for the live-reviewed catalog fields and visible fascia; unresolved for exact date precision, contemporaneous address-number usage, footprint, continuity, and rights.
 
+Claims:
+
 - The Clackamas County Historical Society catalogs object `2008.008.046.080` as **George Harding Drug Store - 505 Main Street**.
 - The structured date-made field says **1880**, while the image caption says **1880s**; both are preserved.
 - The supplied crop visibly shows **GEO. A. HARDING** or closely equivalent fascia lettering but does not show 505.
@@ -1044,6 +1064,8 @@ Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records
 ## E-134 — George Young's Second Hand Store at visible 505 doorway, cataloged 1910
 Type: Institutional historic-photograph metadata plus visually verified image; source `S-149`; media `IMG-0725`.
 Confidence: Very High for visible storefront/address, live-reviewed catalog date, and institutional George Young identification; unresolved for ownership, exact move date, other people, and surviving fabric.
+
+Claims:
 
 - The photograph visibly shows **505** above the entrance and **Young's Secondhand Store** on both windows.
 - The Clackamas County Historical Society catalogs object `MOT:P-391` as **1910** and identifies George Young as the man in the white shirt without a coat.

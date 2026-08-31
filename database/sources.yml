@@ -7,14 +7,17 @@ sources:
   - id: S-002
     name: New Kwality Cafe matchbook
     url: https://americandiners.blogspot.com/2015/
+    notes: Web presentation/discovery page for primary artifact A-001 / IMG-0001. The artifact directly prints New Kwality Cafe, 503 Main, and J. Jager; its date remains unresolved.
 
   - id: S-003
     name: Larry's Kwality Cafe matchcover
     url: https://www.matchcovercollector.com/matchcover-category/food/food-rest/food-rest-cafe/page/138/
+    notes: Web presentation/discovery page for primary artifact A-002 / IMG-0002. The artifact directly prints Larry's Kwality Cafe and 503 Main; Larry's identity and the artifact date remain unresolved.
 
   - id: S-004
     name: 505 Tavern / Thirsty Duck article
     url: https://milwaukiereview.com/2017/08/18/newest-old-bar-in-clackamas-county-reopens-in-oregon-city/
+    notes: Secondary local-news source for Mike Berman's reported 2009 purchase, Scott Forvilly's 2017 purchase, and the Thirsty Duck reopening. It does not establish real-estate title or an uninterrupted business chain.
 
   - id: S-005
     name: Mitch Young direct oral history
@@ -99,7 +102,7 @@ sources:
   - id: S-021
     name: 1925 Sanborn, 5th Area
     url: https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF
-    notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for 501/503/505 Main and E-094 scale alignment. Related map SM-008.
+    notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for the separate 501 store, 503 restaurant, and 505 billiards/cigars uses. Task 6 corrected E-094's cadastral orientation to original Block 4; the former Block 26 Lot 5/Lot 6 scale alignment is withdrawn. Related map SM-008.
 
   - id: S-022
     name: 1950 Sanborn, 5th Area
@@ -369,7 +372,7 @@ sources:
   - id: S-078
     name: William Tell Hotel / Block 26 lot 8, October 1906
     url: https://oregonnews.uoregon.edu/lccn/sn83025138/1906-10-05/ed-1/seq-7/
-    notes: 'Type: Primary newspaper and recorded-transfer reporting. Related evidence: E-064. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+    notes: 'Type: Primary newspaper and recorded-transfer reporting. Related evidence: E-064. Block 26 lot 8 is an opposite/even-side geographic control, not the target odd-numbered frontage in original Block 4. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
 
   - id: S-079
     name: Pacific States Telephone & Telegraph new central office, 1907

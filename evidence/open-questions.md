@@ -18,8 +18,8 @@ Status: **Open.** Mitch Young's recollection supports a later rear portion (`E-0
 ## OQ-004 — 503 / 505 Boundary
 Status: **Cadastral orientation corrected; modern legal/physical boundary remains open.** `E-094` establishes that the odd-numbered frontage is original **Block 4**, not Block 26. Current legal-description leads place **503 in part Lot 4** and **505 in parts Lots 3 and 4**, but those modern parcel lines must not be backdated automatically. `E-108` connects this Block 4 context to Harding and the 1922 property group while leaving the exact 503/505 historical wall unresolved. What recorded deeds, assessor maps, surveys, wall/structural evidence and rear-addition records prove the modern and historical widths, depths and common boundary?
 
-## OQ-005 — 501 Main on the 1925 Sanborn Map
-Status: Partially answered by `E-020` / `E-021`. Aerial evidence places removal between 1936 and 1944. `E-104` visually verifies separately named liquor-license premises at 501 in March 1912 (Joe Wilson's Palace Saloon) and October 1913 (Hunsaker & Taylor), but does not establish transfer, continuous operation, ownership, or the July 1922 occupant. Business, ownership, and cause of removal remain open.
+## OQ-005 — 501 Main Occupants, Title, and Removal
+Status: **Map and removal-window portions answered; occupant/title/removal cause remain open.** `E-020` establishes that the 1925 Sanborn maps **501 as a separate store**, alongside a 503 restaurant and 505 billiards/cigars. `E-021` places a distinct 501 roof in 1936 and its removal by 1944. `E-104` visually verifies separately named liquor-license premises at 501 in March 1912 (Joe Wilson's Palace Saloon) and October 1913 (Hunsaker & Taylor), but does not establish transfer, continuous operation, ownership, the July 1922 occupant, later tenants, or why the building was removed.
 
 ## OQ-006 — Kwality / Quality Cafe Names
 How do Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and the photo-metadata wording "The Quality Cafe" relate to each other?

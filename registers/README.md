@@ -13,6 +13,7 @@ Registers are not narrative histories. They are lookup tables that help connect 
 - `research-log.md` — research actions, searches, findings, and dead ends
 - `entity-page-audit-2026-08-29.md` — repository-wide building/business/person/timeline reconciliation and standalone-page coverage rule
 - `unified-address-timeline-audit-2026-08-30.md` — reconciliation and completeness boundary for the 501/503/505 unified timelines
+- `evidence-control-audit-2026-08-30.md` — evidence/source/question/lead integrity audit, retained overlaps, and corrected control wording
 - `../timelines/README.md` — unified address-centered timelines for 501, 503, and 505 Main
 
 ## Rule

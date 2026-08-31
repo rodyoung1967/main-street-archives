@@ -10,7 +10,7 @@ For a family member, historian, or other first-time reader who wants to understa
 2. **The files under `buildings/`.** Read the 501/503/505/507–511/527 Main pages for the principal Main Street frontage, and the 107/108/109/110 Fifth pages for the reconstructed Fifth Street cluster.
 3. **`businesses/the-wheel.md`, `businesses/brass-rail-tavern.md`, and `businesses/the-505.md`.** These explain the business chains in more detail.
 4. **`registers/ownership-timeline.md`.** Use this when the question is specifically who owned or operated the businesses versus who owned the real estate.
-5. **`evidence/evidence-register.md` and `evidence/source-register.md`.** These are the audit trail: what evidence supports each claim and where it came from.
+5. **`evidence/README.md`, `evidence/evidence-register.md`, and `evidence/source-register.md`.** These explain the evidence-control rules and provide the audit trail: what evidence supports each claim and where it came from.
 6. **`registers/year-status.md`.** This is the canonical annual-review status; it distinguishes verified findings from completion of the required research coverage.
 7. **`evidence/open-questions.md` and `evidence/research-leads.md`.** These show what is still uncertain or needs documentary proof.
 
@@ -21,6 +21,8 @@ Important reading rule: **business ownership/operation and building ownership ar
 1922 priority correspondence: [deed and OHS abstract request drafts](registers/research-requests/1922-deed-and-ohs-request-drafts-2026-08-28.md), covering manual callouts F01/F02. Prepared and saved; **not sent**. No fees approved or target records received.
 
 Latest 1922 targeted checkpoint: [Task 7 model test](evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) and [Task 8 handoff](evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md). Neither fire/boundary model is selected; 501 remains live. The handoff lists remaining online work and eight manual callouts; 1922 is explicitly **IN PROGRESS**. The [Tasks 5–6 identity audit](evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) (`E-113`, `S-125`–`S-127`) preserves the direct Springfield [Gilbert Miller](people/profiles/gilbert-miller.md) association and unmerged Wolf/Gates candidates.
+
+Latest repository-control checkpoints: [entity-page audit](registers/entity-page-audit-2026-08-29.md), [unified 501/503/505 timeline audit](registers/unified-address-timeline-audit-2026-08-30.md), and [evidence-control audit](registers/evidence-control-audit-2026-08-30.md).
 
 ### 501 Main Street (historic / removed)
 
@@ -115,7 +117,7 @@ Accuracy rules:
 
 - **The Wheel was only at 503 Main and was never a 505 business.**
 - **"The Wheel Tavern" was never an official business name.**
-- Dick and Sheila Wiitanen had renamed the business **505 Tavern** before selling it to their son Mitch in March 1991. Mitch / Mitchell (C.) Young acquired and ran it under that existing name at 505 Main Street through March 2004. Keep `BUS-009` The 505 as an earlier handling label; do not say Mitch introduced or restored the name.
+- Dick and Sheila Wiitanen had renamed the business **505 Tavern** before selling it to their son Mitch in March 1991. Mitch / Mitchell (C.) Young acquired and ran it under that existing name at 505 Main Street through March 2004. `BUS-009` **The 505 is an archive handling label only**, not a proved historical trade name; do not say Mitch introduced or restored the 505 Tavern name.
 - At 505, Dick and Sheila **operated Brass Rail before they owned the building**, then later purchased the 505 building from Mrs. Nesmeth / Nemeth. Do not collapse those into one transaction.
 - At 503, Dick and Sheila **bought The Wheel business from Raye**, later bought the 503 building, and later sold the business and building together. Exact transaction dates and counterparties still need documentary confirmation.
 
@@ -210,7 +212,7 @@ Primary file: `businesses/business-index.md`
 The business index is the canonical complete list. Central standalone histories include:
 
 - [`BUS-001`–`BUS-003` Kwality Cafe lineage](businesses/kwality-cafe.md) and [`BUS-004` The Wheel](businesses/the-wheel.md) — 503 Main only.
-- [`BUS-005` 505 Tavern / `BUS-009` The 505](businesses/the-505.md), [`BUS-010` Brass Rail](businesses/brass-rail-tavern.md), [`BUS-016` Dug Inn](businesses/dug-inn.md), and [`BUS-006` Thirsty Duck](businesses/thirsty-duck.md) — separate business-name/operator records at 505.
+- [`BUS-005` 505 Tavern and archive handling label `BUS-009` The 505](businesses/the-505.md), [`BUS-010` Brass Rail](businesses/brass-rail-tavern.md), [`BUS-016` Dug Inn](businesses/dug-inn.md), and [`BUS-006` Thirsty Duck](businesses/thirsty-duck.md) — separate business/operator records at 505. `BUS-009` is not evidence of a historical trade name.
 - [`BUS-018` White Rabbit / Black Ink](businesses/white-rabbit-black-ink.md) — 503 permit/redevelopment-era record.
 - [`BUS-024` Palace Saloon](businesses/palace-saloon.md) and [`BUS-025` Hunsaker & Taylor](businesses/hunsaker-taylor.md) — separately documented 501 Main liquor premises; no unproved succession.
 - [`BUS-078` Henry Brightbill store](businesses/henry-brightbill-store.md), [`BUS-019` H. H. Smith pool hall](businesses/h-h-smith-pool-hall.md), and [`BUS-020` L. Hylton](businesses/l-hylton.md) — early exact-address records at 503.

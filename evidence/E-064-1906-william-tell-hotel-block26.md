@@ -16,18 +16,18 @@ The 19 October 1906 *Oregon City Enterprise* realty-transfer column records:
 
 The matching purchaser, price, date window, and location strongly anchor the William Tell property to **lot 8 of Block 26**.
 
-## Significance for the 5th–6th Main block
+## Significance as an opposite-side control
 
-The archive’s Sanborn work already identifies Block 26 as the relevant Main Street block between Fifth and Sixth. This gives the reconstruction a fixed 1906 lot/location anchor at the **Sixth & Main end of Block 26**.
+`E-094` establishes that Block 26 is opposite the target odd-numbered frontage in original Block 4. The William Tell transaction therefore supplies a fixed 1906 lot/location anchor at the **Sixth & Main end of the opposite/even-numbered side**, not for 501/503/505.
 
-Combining this anchor with the 1906 numbering plat, original town plat/lot geometry, Sanborn maps, deeds, and later numbered addresses may allow the project to map the remaining Block 26 lots toward Fifth Street and determine which lots contained the predecessor structures later associated with 501, 503, 505, and 507 Main.
+Combining this control with the 1906 numbering plat, original town plat/lot geometry, Sanborn maps, deeds, and later numbered addresses may help test street-number orientation. Mapping predecessor structures at 501/503/505/507 must begin with original **Block 4**, not Block 26.
 
 ## Building-change implication
 
-The source is also useful negative evidence for 1906: the historic three-story frame William Tell building was **still standing and in use at Sixth & Main in October 1906**. It was sold, not reported as demolished or newly constructed.
+The source directly establishes that the historic three-story frame William Tell building was **standing and in use at Sixth & Main in October 1906**. It reports a sale; it does not report demolition or new construction.
 
 ## Confidence
 
 **Very High** for the William Tell Hotel at Sixth & Main and its October 1906 sale.  
-**High** that the transaction anchors the property to lot 8, Block 26, based on the matching contemporaneous transfer reporting.  
+**High** that the transaction anchors the property to lot 8, Block 26, as an opposite-side control, based on the matching contemporaneous transfer reporting.
 **Unresolved** for the exact later street number attached to this lot and for mapping the other Block 26 lots.

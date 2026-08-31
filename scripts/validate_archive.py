@@ -402,6 +402,8 @@ def validate_evidence_register_metadata() -> list[str]:
         block = text[start:end]
         if "Type:" not in block:
             errors.append(f"evidence-register.md [{entity_id}]: missing Type:")
+        if "Claims:" not in block:
+            errors.append(f"evidence-register.md [{entity_id}]: missing Claims:")
         if "Confidence:" not in block:
             errors.append(f"evidence-register.md [{entity_id}]: missing Confidence:")
     return errors
@@ -412,12 +414,23 @@ def validate_yaml_evidence_fields() -> list[str]:
     errors: list[str] = []
     for item in load_yaml_items(path, "evidence"):
         entity_id = item.get("id", "?")
-        for field in ("type", "confidence", "claims"):
+        for field in ("type", "confidence", "claims", "related_sources"):
             value = item.get(field)
             if not value:
                 errors.append(f"evidence.yml [{entity_id}]: missing or empty '{field}'")
-            elif field == "claims" and not isinstance(value, list):
-                errors.append(f"evidence.yml [{entity_id}]: 'claims' must be a list")
+            elif field in {"claims", "related_sources"} and not isinstance(value, list):
+                errors.append(f"evidence.yml [{entity_id}]: '{field}' must be a list")
+    return errors
+
+
+def validate_yaml_source_fields() -> list[str]:
+    path = YAML_FILES["sources"][1]
+    errors: list[str] = []
+    for item in load_yaml_items(path, "sources"):
+        entity_id = item.get("id", "?")
+        for field in ("name", "url", "notes"):
+            if not item.get(field):
+                errors.append(f"sources.yml [{entity_id}]: missing or empty '{field}'")
     return errors
 
 
@@ -567,6 +580,7 @@ def main() -> int:
     errors.extend(find_unknown_id_references(known))
     errors.extend(validate_evidence_register_metadata())
     errors.extend(validate_yaml_evidence_fields())
+    errors.extend(validate_yaml_source_fields())
     errors.extend(validate_oral_history_index_accuracy())
     errors.extend(validate_structured_mitch_young_labels())
     errors.extend(validate_media_catalog_crossrefs(known))

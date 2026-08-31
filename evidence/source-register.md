@@ -14,14 +14,17 @@ Notes: Secondary article reporting a 1919 construction date and Kwality connecti
 ## S-002 — New Kwality Cafe matchbook
 Source/location: https://americandiners.blogspot.com/2015/
 Related evidence: `E-002`
+Notes: Web presentation/discovery page for the primary matchbook artifact `A-001` / `IMG-0001`. The artifact directly prints **New Kwality Cafe**, **503 Main**, and **J. Jager**; its date remains unresolved.
 
 ## S-003 — Larry's Kwality Cafe matchcover
 Source/location: https://www.matchcovercollector.com/matchcover-category/food/food-rest/food-rest-cafe/page/138/
 Related evidence: `E-003`
+Notes: Web presentation/discovery page for the primary matchcover artifact `A-002` / `IMG-0002`. The artifact directly prints **Larry's Kwality Cafe** and **503 Main**; Larry's identity and the artifact date remain unresolved.
 
 ## S-004 — 505 Tavern / Thirsty Duck article
 Source/location: https://milwaukiereview.com/2017/08/18/newest-old-bar-in-clackamas-county-reopens-in-oregon-city/
 Related evidence: `E-008`
+Notes: Secondary local-news source for Mike Berman's reported 2009 purchase, Scott Forvilly's 2017 purchase, and the Thirsty Duck reopening. It does not establish real-estate title or an uninterrupted business chain.
 
 ## S-005 — Mitch Young direct oral history
 Repository record: `oral-history/mitch-young.md`  
@@ -435,7 +438,7 @@ Canonical pages:
 Type: Primary newspaper and recorded-transfer reporting.  
 Related evidence: `E-064`  
 Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
-Notes: The *Morning Oregonian* places the historic three-story frame William Tell Hotel at **Sixth and Main** and reports its $13,000 sale to Gambrinus Brewing Company. The *Enterprise* transfer column records the matching Gambrinus transaction at **lot 8, block 26**, giving the project a fixed Block 26 lot/location anchor.
+Notes: The *Morning Oregonian* places the historic three-story frame William Tell Hotel at **Sixth and Main** and reports its $13,000 sale to Gambrinus Brewing Company. The *Enterprise* transfer column records the matching Gambrinus transaction at **lot 8, block 26**. Task 6 establishes Block 26 as the opposite/even-numbered side control, not the target 501/503/505 frontage in original Block 4.
 
 ## S-079 — Pacific States Telephone & Telegraph new central office, 1907
 Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-4/  
