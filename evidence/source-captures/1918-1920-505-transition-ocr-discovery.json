@@ -1,0 +1,664 @@
+{
+  "title": "Oregon City Enterprise",
+  "range": [
+    "1918-10-01",
+    "1920-06-30"
+  ],
+  "issues": [
+    {
+      "date": "1918-10-04",
+      "pages": 8
+    },
+    {
+      "date": "1918-10-11",
+      "pages": 8
+    },
+    {
+      "date": "1918-10-18",
+      "pages": 8
+    },
+    {
+      "date": "1918-10-25",
+      "pages": 8
+    },
+    {
+      "date": "1918-11-01",
+      "pages": 8
+    },
+    {
+      "date": "1918-11-08",
+      "pages": 8
+    },
+    {
+      "date": "1918-11-15",
+      "pages": 8
+    },
+    {
+      "date": "1918-11-22",
+      "pages": 8
+    },
+    {
+      "date": "1918-11-29",
+      "pages": 8
+    },
+    {
+      "date": "1918-12-06",
+      "pages": 8
+    },
+    {
+      "date": "1918-12-13",
+      "pages": 8
+    },
+    {
+      "date": "1918-12-20",
+      "pages": 8
+    },
+    {
+      "date": "1918-12-27",
+      "pages": 8
+    },
+    {
+      "date": "1919-01-03",
+      "pages": 8
+    },
+    {
+      "date": "1919-01-10",
+      "pages": 8
+    },
+    {
+      "date": "1919-01-17",
+      "pages": 8
+    },
+    {
+      "date": "1919-01-24",
+      "pages": 8
+    },
+    {
+      "date": "1919-01-31",
+      "pages": 8
+    },
+    {
+      "date": "1919-02-07",
+      "pages": 8
+    },
+    {
+      "date": "1919-02-14",
+      "pages": 8
+    },
+    {
+      "date": "1919-02-21",
+      "pages": 8
+    },
+    {
+      "date": "1919-02-28",
+      "pages": 8
+    },
+    {
+      "date": "1919-03-07",
+      "pages": 8
+    },
+    {
+      "date": "1919-03-14",
+      "pages": 8
+    },
+    {
+      "date": "1919-03-21",
+      "pages": 8
+    },
+    {
+      "date": "1919-03-28",
+      "pages": 8
+    },
+    {
+      "date": "1919-04-04",
+      "pages": 8
+    },
+    {
+      "date": "1919-04-11",
+      "pages": 8
+    },
+    {
+      "date": "1919-04-18",
+      "pages": 8
+    },
+    {
+      "date": "1919-04-25",
+      "pages": 8
+    },
+    {
+      "date": "1919-05-02",
+      "pages": 8
+    },
+    {
+      "date": "1919-05-09",
+      "pages": 8
+    },
+    {
+      "date": "1919-05-16",
+      "pages": 8
+    },
+    {
+      "date": "1919-05-23",
+      "pages": 8
+    },
+    {
+      "date": "1919-05-30",
+      "pages": 8
+    },
+    {
+      "date": "1919-06-06",
+      "pages": 8
+    },
+    {
+      "date": "1919-06-13",
+      "pages": 8
+    },
+    {
+      "date": "1919-06-20",
+      "pages": 8
+    },
+    {
+      "date": "1919-06-27",
+      "pages": 8
+    },
+    {
+      "date": "1919-07-04",
+      "pages": 8
+    },
+    {
+      "date": "1919-07-11",
+      "pages": 8
+    },
+    {
+      "date": "1919-07-18",
+      "pages": 8
+    },
+    {
+      "date": "1919-07-25",
+      "pages": 8
+    },
+    {
+      "date": "1919-08-01",
+      "pages": 8
+    },
+    {
+      "date": "1919-08-08",
+      "pages": 8
+    },
+    {
+      "date": "1919-08-15",
+      "pages": 8
+    },
+    {
+      "date": "1919-08-22",
+      "pages": 8
+    },
+    {
+      "date": "1919-08-29",
+      "pages": 8
+    },
+    {
+      "date": "1919-09-05",
+      "pages": 8
+    },
+    {
+      "date": "1919-09-12",
+      "pages": 8
+    },
+    {
+      "date": "1919-09-19",
+      "pages": 8
+    },
+    {
+      "date": "1919-09-26",
+      "pages": 8
+    },
+    {
+      "date": "1919-10-03",
+      "pages": 8
+    },
+    {
+      "date": "1919-10-10",
+      "pages": 8
+    },
+    {
+      "date": "1919-10-17",
+      "pages": 8
+    },
+    {
+      "date": "1919-10-24",
+      "pages": 8
+    },
+    {
+      "date": "1919-10-31",
+      "pages": 8
+    },
+    {
+      "date": "1919-11-07",
+      "pages": 8
+    },
+    {
+      "date": "1919-11-14",
+      "pages": 8
+    },
+    {
+      "date": "1919-11-21",
+      "pages": 8
+    },
+    {
+      "date": "1919-11-28",
+      "pages": 8
+    },
+    {
+      "date": "1919-12-05",
+      "pages": 8
+    },
+    {
+      "date": "1919-12-12",
+      "pages": 8
+    },
+    {
+      "date": "1919-12-19",
+      "pages": 8
+    },
+    {
+      "date": "1919-12-26",
+      "pages": 8
+    },
+    {
+      "date": "1920-01-02",
+      "pages": 8
+    },
+    {
+      "date": "1920-01-09",
+      "pages": 8
+    },
+    {
+      "date": "1920-01-16",
+      "pages": 8
+    },
+    {
+      "date": "1920-01-23",
+      "pages": 8
+    },
+    {
+      "date": "1920-01-30",
+      "pages": 8
+    },
+    {
+      "date": "1920-02-06",
+      "pages": 8
+    },
+    {
+      "date": "1920-02-13",
+      "pages": 8
+    },
+    {
+      "date": "1920-02-20",
+      "pages": 8
+    },
+    {
+      "date": "1920-02-27",
+      "pages": 8
+    },
+    {
+      "date": "1920-03-05",
+      "pages": 8
+    },
+    {
+      "date": "1920-03-12",
+      "pages": 8
+    },
+    {
+      "date": "1920-03-19",
+      "pages": 8
+    },
+    {
+      "date": "1920-03-26",
+      "pages": 8
+    },
+    {
+      "date": "1920-04-02",
+      "pages": 8
+    },
+    {
+      "date": "1920-04-09",
+      "pages": 8
+    },
+    {
+      "date": "1920-04-16",
+      "pages": 8
+    },
+    {
+      "date": "1920-04-23",
+      "pages": 8
+    },
+    {
+      "date": "1920-04-30",
+      "pages": 8
+    },
+    {
+      "date": "1920-05-07",
+      "pages": 8
+    },
+    {
+      "date": "1920-05-14",
+      "pages": 8
+    },
+    {
+      "date": "1920-05-21",
+      "pages": 8
+    },
+    {
+      "date": "1920-05-28",
+      "pages": 8
+    },
+    {
+      "date": "1920-06-04",
+      "pages": 8
+    },
+    {
+      "date": "1920-06-11",
+      "pages": 8
+    },
+    {
+      "date": "1920-06-18",
+      "pages": 8
+    },
+    {
+      "date": "1920-06-25",
+      "pages": 8
+    }
+  ],
+  "page_count": 728,
+  "hits": [
+    {
+      "date": "1918-11-22",
+      "seq": 6,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1918-11-22/ed-1/seq-6/ocr/",
+      "groups": [
+        "gilbert_miller",
+        "lease_move"
+      ],
+      "snippets": [
+        "sie 15, Dooley, Ban don, Or. Corporal Kenna P. Plowman, emer gency address, Mrs. Grance JJurmn, Huntington, Or. Corporal Clarance O. Johnson, emer gency address, Chprles L. Johnson, 318 Twenty-first avenue south, Seattle. UNDETER REPORTED Philip R. Trefren, Luther 8. Trefren, SEVERELY F. Bedolfe, emer- Bcdolfe, 62S Per Private Gajr U Jones, emergency address, Mrs. LUlle A. Jones, R. F. D. 4, Snohomihh, Wash. Private Gilbert Miller, emergency address, William P, Miller, Rogerson, Ida. Private Kennedy K- Kelly, emer gency address. Linus KUn Cosmo polla, Wash. Private Cnrl A. Nelson, emergency address, Mrs. Matilda Nelson. Sedro Woolley, Wash, DIED OF WOUNDS Corporal t-rauk . R. Bauers, emer gency add , Frank W. Bauera, Dayton, Wash, DIED OF DISEASE Private Cecil H, Dooley, emergency address, James 11. Dooley, Litttfl Rock, Wash. MISSING IN ACTI",
+        "olls, biscuits, cook ies, doughnuts and \"even cold baked potatoes put in clean paper sack, place In hot oven about 20 minutes. Before taking a cake from the pan, set it in a pan of cold water for a few minutes and then turnjt out on the plate. By dolgn.this you will have no trouble with it sticking. Chalk or whiting wet down with al cohol to a thin paste and left to dry on grease spots, then gently brushed off, will remove grease. To remove unsightly scratches from mahogany furniture caused by pins, belts, etc, take a Brazil or pecan nut meat and rub well on the scratch, and it will disappear like magic. To remove fruit stains \"from tea cloths or serviettes apply a little pow dered starch to the stained parts and leave for several hours. The starch will absorb all the discoloration. When sewing on silk and satin, use fine needles in p",
+        "ok ies, doughnuts and \"even cold baked potatoes put in clean paper sack, place In hot oven about 20 minutes. Before taking a cake from the pan, set it in a pan of cold water for a few minutes and then turnjt out on the plate. By dolgn.this you will have no trouble with it sticking. Chalk or whiting wet down with al cohol to a thin paste and left to dry on grease spots, then gently brushed off, will remove grease. To remove unsightly scratches from mahogany furniture caused by pins, belts, etc, take a Brazil or pecan nut meat and rub well on the scratch, and it will disappear like magic. To remove fruit stains \"from tea cloths or serviettes apply a little pow dered starch to the stained parts and leave for several hours. The starch will absorb all the discoloration. When sewing on silk and satin, use fine needles in place of pins to fo",
+        "a few minutes and then turnjt out on the plate. By dolgn.this you will have no trouble with it sticking. Chalk or whiting wet down with al cohol to a thin paste and left to dry on grease spots, then gently brushed off, will remove grease. To remove unsightly scratches from mahogany furniture caused by pins, belts, etc, take a Brazil or pecan nut meat and rub well on the scratch, and it will disappear like magic. To remove fruit stains \"from tea cloths or serviettes apply a little pow dered starch to the stained parts and leave for several hours. The starch will absorb all the discoloration. When sewing on silk and satin, use fine needles in place of pins to fosten your patterns in place, and baste with sawing Bilk tnstead.of thread. This will avoid large pinholes and marks of bastings. Never let clean vegitable tops,such as celery or"
+      ]
+    },
+    {
+      "date": "1919-03-14",
+      "seq": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-03-14/ed-1/seq-7/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction"
+      ],
+      "snippets": [
+        "os. Transfer It Stor age Co,, $23.75. CIRCUIT COURT H. E. Meads, $2.20; W. P. Nicholson, $8.40; Roy R. Ridings, $8.40; W. E. Brown, $8.- 40; W E. Brown, $8.40; A. 11 Knight, 3.00; I. D. Larkins, $6.60; Olaf 01- son, $6.00; B. M. Hubbard, $8.40; F, E. Davidson, $9.20. JUSTICE OF THE PEACE The Falls Restaurant, $2.90; E. W. Fowl er, $3.00; A. E. Joyner, $1.60; II. H Hughes, $3.50; Ed Bebee, $1.70; Geo. Woodard, $1.70; Clem Dollar, $1.70; Bert Morgan, $1.70; Wm. J. Wilson, $1.70; W. II Wettlaufer, $3.50; John N. Sievers, $64.60; Ed Fortune, $76. 70. CORONER Dr. W. E. Hempstead, $14.00; E. L. Johnson, $9.00. SURVEYOR Huntley Drug Co., $1.16; Paul Dunn, $22.50; Adam Knight, $17.00; R S McLaughlin, $5.00; Chas. Simmons, $24.00; Chas. Crlsswell, $6.00; D T Meldrum, $18.00. INSANE A. E. Joyner, $5.00; Dr. Guy Mount, $5.00. SUPT. OF SCHOOLS Huntley",
+        "ell, Clarence Morrell, John Holm, Ernest Jesse, Vestal Bennett, Merrlt Wilson, Otis Cantwell, Jules Raron, Emeet Wing, John Mathers, William Porter, Byron StraJimer, John Logs don and Elmer Levans. Those who have lost their lives in action have a gold star near their names, while the others have the blue star. The tablet la In the form of a tri umphal arch, and was designed by J. E. Tourtellotte of Portland, and was erected by R. A. Junken of Willam ette. The following program was given. Orchestra, aong, Girls' Glee Club, piano duet by Misses Marion Patter son and Veda Andrus, orchestra, deli catory address by Rev. W. T. Mllll- ken, piano aolo by Miss Fromong, Girts' Glee Club, piano solo by Miss Mota HlgglDbotham, orchestra. Aa given by the Brady Mercantile company and Parr Brothers. BUYING Creamery butter 62c Potatoes $ 1.308 $1 40 O"
+      ]
+    },
+    {
+      "date": "1919-04-25",
+      "seq": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-04-25/ed-1/seq-8/ocr/",
+      "groups": [
+        "clem_dollar",
+        "lease_move"
+      ],
+      "snippets": [
+        "che, $0,60; George Keller, $7.00; Valentine Linglefeeck, $0.40; Norman Tracy, $0.40; Arthur Scott, $6,70; Frank Linglcuevk, $0.40; Minda E. Church, $2.-0; Jeanette Ormiston, $2.0; Ormiston, $2.20; Guy Mount, $2.20; MabJe EotT, $2.20; Keva Durke, $2.20; Narcissa A. Bowers, $2.20; Pearl Metcatf, $2.60; Wm. O. Met calf, $2.60; Christina I Smith, $3.80; Eva Naomi Turner, $2.20; Joe Swart s, $2.20; Georg Woodward, $2.20; Clem Dollar, $2.20; L D. Nor ris, $5.00; F. E. Davidson, $8,20; Claude O.Donell $2.20; Wm. J. Wil-i son, $2.20; Bert Morgan, $2.20; Ed ward Taylor, 52.60, JUSTICE OF THE rEACE H. It Hughes, $S.00; Can O'Donnell, $1.20 A. K. Joyner, $16.00; Will Green $1.20; Al Price, $1.20; E. 11. Cooper, 11.20; D, F Skeene, $1.20; W. R. Wentworth, $1.20; Max Telford. $1 20; Home Telephone Co., $2.00; Ed Fortune, $60.30. CORONER E, L Johnson, $",
+        "pas sengers on the Dunham Castle, they were subjected to a long delay, during wmcn suspicious customs men searched their baggage and questioned them. Finally, however, O'Reilly found him self free to go ashore. El Gran Hotel Europe, Neuvitaa leading hostelry, belied its name. It was far from large, and certainly It was anything bnt European, except perhaps. In Its proprietor's extravagant and un-American desire to please, at any cost But It was the best hotel the place afforded, and Senor Carbajal was the most attentive of hosts. Ee evinced an unusual interest In the affairs of his Americas guest, and eoon developed a habit of popping into the Utters room at unexpected mo ments, ostensibly to see that all was as it should be. When, for the third time, he appeared without knocking, O'Reilly suspected something. \"You have everything,",
+        "Slowly she opened her eyes, while the nurse switched en the lights. \"It wss nice of yoa to come, Mr. B ,\" she began. \"I am very thank ful to the Arm, also.\" With a nod B - dismissed the nurse. \"Miss K,\" he said In a low modu lated voice, Tm awfullj sorry I put you on that alarm clock counter, but I dldnt know yon weren't feeling well.\" Frances smiled faintly. \"It was fool ish of me,\" she began, but B in terrupted. \"Please let ns not talk about that now,\" he ssld, \"but after a little while I hope youH be well enough to go down and stsy with my mother. Our home Is mm h too large for the two of us, besides a rest would\" \"Oh. but I couldn't. Mr. B j you see, I I\" \"Now, I know you are going to say you don't know me, but you do, al though you've long forgotten.\" \"Are you surer Frances Inquired, her voice trembling. \"Am I surer 14 answered.",
+        "or tail growing vsrloty It Is i-nnrntul that they be given something to climb upon. Itrush, If bruh can be procured for this purpose, should lie on hand and ready tor use when the peas are plan ted. Substitutes for Qruth As a rule, brunh cannot be secured In town, so It w be ncery to ue i.iiui can be Iralitpd on th fence H self. Iy the of M\" or a Irelll of string or aire the been a are car ried up off th ground and occupy e space thiui do thorns of the bum s vsrledes. The same Is true ot a num ber of garden crwpa. Vies Crept en f ? If inn erln Is small and there Is not rrnmi to grow th Vine crop wj the grouul, llier may lie trained to the south l'le of a feme or vit up on lite ldt of a building, so thai they really occupy very little of the actual gurden space Whero it I illrel to have aoiue kind of a stfeen or shade over the biu'k p"
+      ]
+    },
+    {
+      "date": "1919-06-13",
+      "seq": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-06-13/ed-1/seq-1/ocr/",
+      "groups": [
+        "clem_dollar",
+        "lease_move"
+      ],
+      "snippets": [
+        "the next four years, the appoint ments having been announced today by County School Superintendent Calavan, who is ex-offlcio chairman of the board: 1L.G. Starkweather, of M 11 waukleV 'Jbha' Cole, of Molalla; E. E. Brodle, of Oregon City, and Adam H. Knight, of Canby. The board will meet June 21 to elect a county school supervisor. Judgment Given To' Local Butcher A Judgment for $31.98 was given R Petseold against Clem Dollar in the cir cuit court Thursday\", tlfo case having been, appealed from - the recorder's court of Oregon City. ; , .. Petzold alleged that Dollar had beon sold goods, mostly from June 14 to 26, 1915, to this amount and re fused to pay. Dollar denied the charge. A Judgment was ; 'given plaintiff in the recorder's court, when the case was tried by J. W. Loder. Army Aviator Who Will Try to Fly From Coast to Coast With On",
+        "ee of these judges agree that Mr. Olcott may resign aa secretary of state and name his own successor, and they do not comprise a majority of the court, but rumor has it that Olcott will resign anyway and name his present chief deputy as his successor in the office of secretary of state. The common sense view of it all is that the constitu tion contemplates that when a governor dies that the secretary of state ahall. occupy both offices until the next general election, and that he shall serve as secre tary of state for the term for which he'was elected and that he shall aerve as governor until his successor is elected and qualified; because, under the constitution, the governor is not sworn in until the legislature meets, while the secretary of state takes office on January 2 next following his election. If Mr. Olcott should resign as",
+        "aimiWHRji CONRAD STANDI IS L SALEM. Or., June 5. Captain Con rad Stafrin of Dallas today waa ap pointed adjutant general of the nation al guard of Oregon to succeed Colonel John L. May, who resigned recently to return to hla service with the South ern Pacific company, Governor Olcott announced today. Simultaneously with this announce ment the execuUve let It be known that the offices of the adjutant gener al will be removed from Portland to Salem In tho near future and that ar rangomenta are well near a state of perfection to that end. M A N Y TO ATTEND G. A. R. ENCAMPMENT ATTHE DALLES IN JUNE Mead Post No 2. G. A. R. and the Women's Relief Corps of this city, will be well represented at the com ing encampment that will be held st The Dalles June 17. 18 and 19. Among the membera of the Mend Post who are to attend are IS. It. Grant, Jo",
+        "r Mead. Inrael Put man, O. If. Vanlloy, W. H, McClellan, I Mrs, Frank Moore, and Mrs. L. P. Hor ton are also among the members of the Women's Relief Corps to attend. CHANGED TERMS NOT FAVORED BYCLEMENCEAU PARIS, June 10, The council, of tout1 mot today amid an atmosphere of considerable pessimism over the larger questions of peace making with Germany still unsolved. It It under Btood thnt .Promler Clomonceau has not moved from his poBltlon agalnBt any modification of the poaco terms. No Hottlemont, of the Sileslan ques tion or that concerning the Tollsh Western frontier has beon reached. It is stated that the Sileslan problem is tlod up with the difficulty of hold ing a plobesclte without allied occupa tlon, no troops bolng available for the purpose. NAMEDSUCCESSORTO MILLS BUY SUPPLIES AT AUCTION PORTLAND. June It The third governme"
+      ]
+    },
+    {
+      "date": "1919-07-04",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-04/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "tte WILLAMETTE, July 3. Mrs. Go--ley. of Seattle, is visiting at the home of Mr and Mrs. H. Shipley. Mr. Chas. Moles who recently ar rived here from the east has gone to Step Toe, Wash., for the summer months'. Mr. Moles is slowly recover ing from a severe Illness. Mr. and Mrs. James McNeil who have been living here for several years have purchased a place in Glad stone and have moved to their new home. Mr. and Mrs. Clem Dollar visited In Beaver Creek Sunday at the home of the former's sister, Mrs. Pearl Brown. Mrs. Emma Zerkle who has been very ill afchor home is slowly improv ing. Many friends of the late Mrs. John Saulsbery attended the funeral ser vices held at the Willamette Methodist church. Assisting the Willamette choir were Mrs. Green and Mrs. Glen Hank- 1 , t., v thm Ins of Oregon City, Rev. Abbot con ducted the funeral service.",
+        "EADERS 1 ' I i j Ae carry big .w.ttjM. n..... jf5PSs?sv '\" \"' Champion ma- JceC 1''!\"? . pair parts. Come and inspect our ITS FRESH AND NEW! Ex. mdM TT&fV\"\" ! HflVC O C Champion Machine SAFE InveitmentB J,. li HAY SILO YOUR CROP With a BLIZZARD gm I T The Blizzard will savs you time worry and expent.' It Is ta h r K H Q 1 OOIjS ensllige cutter of freit capacity yet light running. Thi I f EjP J vwitv minted md simple construction of tht Blizzard fuartntst tag j d jgl ,n1 \"History xrvk- Sc6 i catalogs. fiSr PORTLAND, ORE. jrmr m j Headquarters for America's Leading: Independ- frjOT fyMa . :,r i ent Lines of Farm Machinery, Tractors, WN Vyfv\"? i Gas Engines, Pumps, Etc Cr W. J. WILSON & Baker. Mrs. Mae Snyder is visiting her parents, Mr. and Mrs. Ed. Baker. Mr. and Mrs. Hiram Wood and Mr. and Mrs. Wlllets, of Portland, visited Mr. and Mrs. Aub",
+        "al la River, but for a time they will be honied up on this side. The sheep were In prime condition and scarcely made an Impression upon the grating along their path. C. K. Thomas went to Molalla to trade, a few days ago. Win. Ijmb Is doing some carpenter work upon his home, which la on what was formerly known as the Phillip's place. Mr. Lamb has hauled a lurge portion of the lumber for a new barn which he expects to erect In the near future. Mr. Joplln Is also busy wielding the hammer and otherwise Improving the place which t)e recently bought. . Mrs. Elmer Swope and children were visiting at Fisher's home recent ly. Mrs. Swope took a large bouquet of wild rhododendrons home with her. Gus Collins filed upon a forty acre homestead, a short time ago. At present, he Is engaged In building a two story house upon It. . Those who live hear",
+        "caused the sympathetic walkout, re fused to return to work. It wns be lieved thijy will return In a few days. Two hundred and fifteen members of the old police force returned to work afler signing the \"loyally pact,\" A majority of the telephone girls went back. Seventeen hundred streot railway workers, practically -the en tlr force, again manned tho cars and power houses. Building trades work ers resumed Interrupted construction work. From a state of practical demorali zation, Winnipeg today swung back to nearly normal lndiwtry and business-. Leaders of the strike, now under arrest, will be tried July 3, officials said, , Judge Robson, acting for the feder al government, will start Investiga tion of the cause of the strike on July Oregon City Realty Transfers L. H. and Signe Broten to M. II. Johnson, land In section 16, township 4 south, ra",
+        "is again in active operation making garments for the children of men who have died to save our Country from impending ruin. i The Mother's Club is to hold its reg ular fornightly session at the home of the vice-president, Mrs. Simon Mil ler in the present week, August Rothenberg of the Eby School district has sold the his ranch to a Mr. Andersen formerly of Norway. Mr. and Mrs. Rothinberg, with their children, have moved Into one of the places owned by Mr. Rudolph Klaus. Mrs. J. Gibson is In Eastern Oregon, where she expects to remain for some time while visiting her son, Edmond, and her two daughters, Mrs. Burgess and Mrs. Sehnack. Mr. and Mrs. J. Hepler with Mrs. George Sutherland were business visi tors at Portland on W ednesday. The Little Girl's Sewing Circle will meet at the home of Mrs. G. M. Bald win on the afternoon of Sat",
+        "d, visited them last week. . John Hadley who has been working in Oregon City, spent Sunday at his home here. , Laurence Mack of Oregon City, is doing farm work for John Kunzman. Allle Dodge has fully recovered from her recent attack of small pox. Carl Barney has bought a Ford. Julius Robertson of Henricl, was an Echo Dell visitor last week. Ed. Meyrlck is away picking logan berries. Richard Barney had his tonsils re moved last week. , \"Grandpa\" Hadley has been In poor health since his return from G. A. R. encampment Mr. Hadley was accom panied by h'.s wife and granddaughter, Gerald in a The Barney family has been having a siege of la grippe. Ray was very sick Sunday but is better. George GEORGE, July 3. Mrs. Peter Rath, who his been visiting her daughter, Mrs. George Hers, of Portland, re turned home Saturday. Mr. and Mrs. Paul Saur",
+        "n. across the bridge from Oreaon cut. 6:30 to 8 A. M., 12:00 to 1:00, and t:S0 to 6:80 P. M. Haircut 25c. Shave JOe Same place.\" t.K I Elk Prairie Kl.K Pit A HU K, July 3.Vhlle us ing h hard-stump puller, one day Inst week, D. W Badger wrenched his back In such a manner as to require medi cal attention. Mrs, Badger accom panied her husband to Molalla whore he went to have the painful portion adjusted, Mr. Perry, who moved on hU home stead a few days ago, moved out three days later. He feel undecided whether he will return later, as the snow Is apt to be quite deep In that portion of the neighborhood. In winter. Mr. Mays, assisted by several herd ers, took a In-ge band of sheep through this neighborhood, a few days ago. Their final destination Is across Molal la River, but for a time they will be honied up on this side. The sheep wer"
+      ]
+    },
+    {
+      "date": "1919-07-11",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "lease_move"
+      ],
+      "snippets": [
+        "g more brightly with peace and plenty than In this event ful year of 1919. Gradually and surely like the armies return the wherewith al for the world-feeding is growing n pantAn fipld. - ... ..... d.hw. came out last Tuesday to caro Cor he ortal have followed In the wake of GFORGE, July 10 Mrs. Peter Rath and daughter, Edith, visits! Mrs. Klin- ker lat Sunday sumed his position with the Huntley Drug Co. Mr. a;;d Mr. Clem Dollar nutored to Independence Sunday. The Misses Mabel and Esther lr sen wore the guests of Mia Jessie Mr. and Mrs. Heck and daughter, of) tv,vluiid of Oiegim City Thursday war, we have had the first, and should the darkest pessimist venture to hint at the latter we would only ask him to look at our teeming grain-fields, our loaded fruit trees and at the sleek, contented cattle ruminating In their satiety from luxurious f",
+        "and son, God leip.who recently returned from over Mrs. C. H. Horsmman, of Centraliu; Mrs. S. J. Eddy, of l-ortlnnd, and Mr. Eddy, who spent the weekend with Mr. and Mrs. Gibson. A. G. Dlx was recently a suest at the home of J. P. Woodle. Malcclm Woodle and family were the dinneguests of Mr. and Mrs, Hay Woodle Sunday. Mr. and Mrs. Harry Morgan, of Was co, spent the week-end with Mr. and Mrs. J. P. Woodle. Mr. Piatt moved to his farm a short time ago. Mrs. Viola Douglass called on Mrs. McKay Sunday afternoon. til I W frr- ul Ml ' ', -\"\"-.. . I 'J. 'Si' V. I i'l T vmvNT hi : cr q U : ; Ju v ' vx-i if - V k H' .ft'- if ; Av, v , tt - t t ' v mnmnm imr m I'n-nttinwnftiiMra- One of John Barleycorn's worst enemies, William H. Anderson, super tntendent of the Anti-Saloon League of New York, has received the honor ary degree of doctor of l",
+        "Mrs. Chas. Tracy, of Upper Logan. The groom was recently discharged from service. The bride has resided here all her life and her many friends wish them Joy and happiness. Ole Thompson has rented his farm to Oscar Benson for five years. He intends to go back to Wisconsin. y Carl Fallert sold his farm to H. Tschoff for ten thousand dollars and had a public sale last week of bis stock, farm Implements, etc. They will move to Portland soon. Many fanners are making hay. Some of the Grangers attended the Pomona meeting at Tualatin last week. Fine ride, good time and a dinner that will linger long in memory. Tualatin Grange la one of the old pioneer granges and expets to build a new hall soon. I Be SURE of QUALITY and LASTING Satisfaction Bpy CHAfnTIOIl j jjjrrjrr: 'rf Vy- \" mowers JZ-rm-? - BINDERS ' jnxjssaaa: rakes I 1 n I TEDDERS whn",
+        "to Governor Olcott. He will leave the office as soon as the governor names his suc cessor. Mr. Wells disclaim any poll leal motive back of his resignation and says his relations with the governor are of the pleasantest. 80LDIERS ON FARMS Washington, July 8. Orders were Issued by the war department today to the commanding generals of Camps Pike and Bowie, Texas; Dodge, Iowa, Funston, Kan., and Fort Still, Okla., to release all emergenccy men pos sible to work In wheat fields, because of the urgent need\" of farm labor. Representative Schuebel, author of the conciliation moasure enacted by the 1919 legislature, was rudely awuk ened at 3 A. M. Wednesday by the incessant ringing of the telephone bell. \"This Is Mr. Woodward,\" said a voice. \"About this conciliation board. As chairman, I have called a meeting to organize the board for 9 o'cl"
+      ]
+    },
+    {
+      "date": "1919-07-11",
+      "seq": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5/ocr/",
+      "groups": [
+        "gilbert_miller",
+        "lease_move"
+      ],
+      "snippets": [
+        "The bridegroom was unattended. Mr. and Mrs. Logue took a brief honeymoon, returning to Oregon City the latter part of the Week. The young couple surprised their relatives and friends by going to Van couver to be married, and the affair was kept a secret until their return to this city They will be at home to their friends after July 6th. The bride is an attractive young woman, and the eldest daughter of Mr and Mrs. Gilbert Miller, ot Ninth and Division streets. She came to Oregon City a year ago with her parents from Springfield, Oregon, where she made her home for five years The bridegroom la a son of Mrs, Sadie Scripture, of Eleventh and Mad laon streets, Oregon City. He will leave soon for the harvest fields. where he will be employed, but his wife will remain here for the present. A welcome party waa given Satur day evening at the home o",
+        "m the service. Mrs. Clark, ot Canby, one of the well known residents of that place, was among those to visit Oregon City Tuesday and Wedneaday, and visited Mrs. W. T. Mllliken. Mr. and Mrs. T. J. Gary and two children .of Portland, have taken up their residence at Willamette for the summer. Mr. Gary Is principal of the Buckman school. Mr. and Mrs. Charles Surfus, who have been residing at 1003 Fifteenth street, have moved to their adjoining cottagb, which haa been thoroughly renovated. Mr. and Mra William Moehnke and two children and Mrs. Moehnke's mother Mrs. Michael Moehnke, ot Hoff, are camped at the Chautauqua grounds. Mrs. O. It Cattley, nee Ora Lee, of Canby, was among the Oregon City visitors ' Wednesday. Mrs. Cattley was on her way to Portland. Anita and Margaret Schaubel, of Canby, who have been visiting, with little Barbar"
+      ]
+    },
+    {
+      "date": "1919-07-18",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-18/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "Miss Louise Zimmerman and Mr. and Mrs. Conrad Zimmerman. Mrs. Hyatt of Oregon City, Is vis iting at the home of Mrs. Jess Hyatt Mrs. Halley of ortland, visited her mother Mrs. H. T. Shipley last week. Mrs L. Nolan has moved into the home formerly occupied by Mr. and Mrs. Roy Saulsbury. Mr. and Mrs.. Joe Shauble of Staf ford, have purchased property In Will amette and expect to build in the near future. Mr. and Mrs. Clem Dollar and Mrs. Anna Dollar motored to Newberg Wednesda. - Mrs. A. Adamson and son, Linn Van Cleve spent the week-end in Portland. Mrs. Robert Young visited Mrs. M. Miller, of Stafford the end of last week. Mr. and Mrs. Ora Elsile ot Portland, are in this city visiting relatives. The property belonging to Frank Capen has been sold to Mrs. Romlg, mother of Mr. Romlg, formerly prin cipal of the Willamette School. Prof. Romlg",
+        "last September.- Mrs. Ward N. Clark has had an at tack of the grippe. Miss Mildred Simmons and brother are spending a few days with friends in Oregon City. Edward Meyrick is away picking berries. Exclude and Timm-Tricd FatOwr$ Mak Champion Mmehinn SAFE lnpttmant$ SILO YOUR CROP With a BLIZZARD The Blizurd wtfl sir you Man -worry ind azf cmta. Mb m ensilif cottar of great capacity rt right naming. Th ragged tad eimpl construction of ths Blizzard ffuiraataea tag ind satisfactory isrrlcs. \"Send for ctUlofi. CO., Oregon David Meyrick who has been work ing in LInnton, spent the week-end at the home of hisparents,, Mr. and Mrs. Thos. Meyrick Mrs. George Ott of ortland, bos been visiting her brother, John Kunzman. Jack Meyrick is working in Eastern Oregon. John Kunzman's corn field has been an interesting place for at least a bunch of busy workers",
+        "Shipyards tn Portland. He was employed there un til the yards closed for tea days, then he came out here with his friend to go bathing. Neither of the boys could swim and knew nothing of the deep pools In the river. Upon advice pf his father, the Holman undertakers bIiId I ped the body Monday evening to his liome in Mammoth, Arizona. Mr. and Mrs. Frank Street have pur chaHed the John Loder place on North street are remodeling the cottage for ji permanent home. Our town folk are giving the Chau auqua their liberal patronage and en- Joying the programs immensely. Sev eral families are camping there. Ous Shram haB bought the V. Wick lund place and has made a new house out of the old one and will occupy with his family, when he has It finished Just right. Henry Koch has the frame up for his new six-room house, cement basement, perfect water",
+        "he OCR text representation for this newspapers page. It is also available as plain text as well as XML . OREGON CITY ENTERPRISE. FRIDAY, JULY 18, 1919. Page 2 Newsy Briefs From Macksburg MACKS BURG. July 17. Earl Harms lias returned from the war and Is pre paring to take possession of Ms ranch on which Jess Hepler has been living for the past tew years. Mr. Hepler is building a home on his own ranch to which he will move upon leaving the Harms place. Will Damus has come home from the war In apparently god healt thniirh the last of his army life -was spent In the hospital. Mr. and Mrs. Damm will return to teh home they had built before the war and In which Mr. Damm's wel comers on his return Included a little a little daughter four months old. The early fruit bought to speedy ripening by the unusual heat are most .Hnntont anil fllM P",
+        "is fttending confirma tion school in Portland. Mrs. Milton Chindgren is enjoying a visit from her siste and husband of Nebraska. Mr. and Mrs. Edgar Horner and children and Amos Millard spent Sun day at Columbit Bearh. Several from here went to Chau tauqua at Gladstone Sunday to hear Bryon speak. R. L. Orem and family spent Sunday at Fred Blackmans. Mr. and Mrs. Earl Davidson, who have been living on the Chase place, moved back near Molalla again. Myrtle and Allen Larkihs spent Monday evening at Pairan's of Liber al. FROG POND FROG POND, July 17.-Cr. G. Peters Is in failing health. Harry Grossar had a sun strokt while helping Roy Thompson haul hay Monday afternoon. Mr. and Mrs. Allen of Idaho visited at Grandma Sharps Tuesday and Wednesday. ' Chester Toedtemeier is staying with his grandmother, Mrs. Mayes. Carl Thompson landed In the",
+        "F. Sohn, Treas. A sumptuous repast was served at the close of the Installation ceremony Willamette , WILLAMETTE, July 17. Mrs. Fred Thole and son, of Sellwood, spent the week-end here as the guests of Miss Louise Zimmerman and Mr. and Mrs. Conrad Zimmerman. Mrs. Hyatt of Oregon City, Is vis iting at the home of Mrs. Jess Hyatt Mrs. Halley of ortland, visited her mother Mrs. H. T. Shipley last week. Mrs L. Nolan has moved into the home formerly occupied by Mr. and Mrs. Roy Saulsbury. Mr. and Mrs.. Joe Shauble of Staf ford, have purchased property In Will amette and expect to build in the near future. Mr. and Mrs. Clem Dollar and Mrs. Anna Dollar motored to Newberg Wednesda. - Mrs. A. Adamson and son, Linn Van Cleve spent the week-end in Portland. Mrs. Robert Young visited Mrs. M. Miller, of Stafford the end of last week. Mr. and Mrs"
+      ]
+    },
+    {
+      "date": "1919-08-01",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "city, will cheerfully head a subscription to purchase and install an electric push button for the elevator. Come on, now, lets be real sports for once. SANDY DEPARTMENT Mils Bsrnlct Dixon SANDY INSTRUCTOR GOES 10 WAN AS MISSIONARY WILLAMETTE, July 31. John Tur ner purchased a new Overland last week. Hazel Gorley who has been a red cross nurse In France has returned to the home of Tier mother near here. Mr. and Mrs. Clem Dollar motored to W'ilholt Wedneday. . Roena and Ed Elligsen while driv ing one evening last week had an acci dent near Oswego whn their car turned turtle. Both parties were elightly Injured but are Improving. Miss Margaret Coelker of Cornelius, Oregon, is visiting her aunt, Louise Zim merman. Albert Adamson has gone to Wash ington to look after property interests there. MV Bnd Mrs. Wilken and daughter, Lillie, visited in",
+        "turn he struck a particularity bad rut with the result that the two left wheels raised off he ground for a dis tance of snout fifteen feet and then the car bounded off the ground and turned .turtle. Knutson sustained a broken back BUY A DOWDEN A Superior Potato Digger OTOE DOWDEN DIGGER will make good your expectation t Potato Digger. It will dig your potatoes dean, will get them all withpaijjnaging them. Study the construction of the Dowden and you will see why flasis so and why it makes good over other makes of diggers. Cow BeltsAnd Towns Cow bells are all right around the necks of cows. The bovinely beautiful jingle is not even out of place at a charavari, and it has been used with stupendous effect at the signing of the armistice and other joyful jubilia tions. But as a signal for the municipal elevator 1 leaven forbid 1 It affects the",
+        "Sr., has been on the sick list for the past week night. Do- j oe or,tiing and family of Vnion 1 teaman, juils ami Gus Nordling and family of was a tvul oi l fashioned picnic, at occasion being official visit of the I'rtwlilent of the Rebckah Assembly, Mrs Jeaaie Jarvla. Frank Mooney arrived home Friday from Whipple I'arraeks, Arlscna where he has been convalescing since his re turn from overseas. Arthur Schniale has leased his 18 sere ra-m to John Mler of IVitland, Mrs. A. K. Sterling relumed Saturday t.fter a three weeks visit with her par. nnt at Vesper. J, Newkirk is confined to hla bed with an acute attack of atomack trouble, Miss Paine of lV.l'and Is the guest of Mm. lUu key. A paly of young folks chaperoned by Mr. and Mrs. A. Koblnson went camping, for the week-end on Eagle I'reok. Mr. and Mrs. Edward Reynolds and sen cf San Di",
+        "the home of the tatter's parents, Mr. and Mrs. J. P. Woodle, left last Thursday evening on their return trip. George Douglass and family of Port land, were seen out this way Sunday afternoon. Willamette S. A. Mr. Jas Korris and family are mov ing out in the country. Frank WUlis and wife and Mr. and Mrs. Kastel are visiting at the home of Mrs. Edgcombs. Mulino. spent Sunday Chindgren and family. O. Dix of Mulino. has moved up to the old Milt Trullinger place on Milk Creek, where Dix brothers are going to put up a mill. Chindgren young folks attended a party at Samuelson's of Colton Mon-jgt the M day evening. I. O. Orem and family of Cedardale visited at Fred Blackmail's Sunday. Martin Johuson of Union Mills re turned home from oversea service! Monday, where he has been for the' past eight months. Mr. and Mrs. Frank Millard and Marion",
+        "City branch on Friday last. So few are tne remaining workers In this field that no more auxiliary meetings are held. A small minority of the number, however, are holding themselves ready for work from headquarters whenever it may be sent The Mothers club is to meet at the home of Mrs. Potratz Jr. In the pres ent week. The harvest of 1919 has fairly begun and has found many of our soldiers back in the place they were occupy ing before the war. Not one from our immediate vicinity Is missing by death, though some have found work more to their liking than Is the home farm. Many a changed destiny without doubt 'will result from changed en vironmentsshort though its duration Extra Seas ration ' ,'4 r t I width. Tb rrolir Dowd.ii aaa k km arparatloa tbao otbm at th Mm mta. Tk rtwr arparatnr U of aaaaaal Itnctk as ot nt proltloo to Inoaro tht"
+      ]
+    },
+    {
+      "date": "1919-08-15",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-15/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "after visiting for the past two months with her sis ter, Mrs. B. F. Baker, left Tuesday evening for her home in Pattonshurg. Missouri. Mr. and Mrs. Adamson and Mr. and Mrs. Junken spent Sunda yevenlng at Council Crest Mr. ad Mrs. John Turner had an ac cident on their way to Stafford Sunday afternoon when their new Overland ran over a thirty-foot embankment dam aging the car slightly. No one waa injured. Mr. and Mrs. Clem Dollar and chil dren enjoyed a picnic at Oswego Lake Sunday. Miss Louise Zimmerman and Fred Zimmerman spent the week-end in Willamette. Parkplace Alvia Witsic and wife are visiting at his old home here. Their home at present is in Chicago. Miss Marie and Anna Frederick left Saturday for Seaside, where they will spend their vacation. Walter Burghardt brother of Mrs. Fred Himler, is back from France. He had been overseas ove",
+        "arley, 100 lba $4.00 LIvMteek iytof Live Hogs - 21!S0 Hogs 2B37c Hens . ..23Q24o Springs 230240 Clackamas County October 1, 3. 3 and 4. Fair at Canby, ng them. why flaiTs so and hy rONTUND.OM. 8okni. Wash. A Full Line of Quality Farm Equipment TO RAISE P IE PORTLAND, Aug. 13. Admirers of Theodore Roosevelt in Oregon and throughout the country will he given an opportunity to contribute to a $ 10, 000,000 fund for the erection of a suit able memorial In hla honor. Follow ing a conference at the Benson hotel Tuesday afternoon, announcement of a campaign to raise $75,000 toward this fund In Oregon waa made by Edward H. Brown, district manager of the Pa cific coast for the National Roosevelt Memorial association. Dr. Hen-y Waldo Coe Is chairman of tho committee in charge of the cam paign in this state. BUTTER IN STORAGE 13,650,514 POUNDS E 1",
+        "friend's sake anyway. Holllster's Rocky Mountain Tea' will clean and purify your stomach and bowels; your breath will be sweet your disposition j improved, your friends increased. 35c. Tea or tablets. Huntley Drug Co.- Adv. Oil Company, Oregon City, Oregon OREGON CITY Eagle Creek Krcd Hotfmeister Is building a new house. K. W. AlspuuKh sold eight head ot hogs to Will Douglass the other day. l!ilufch 18 '\"tending to remove to Artioua soon, Guy and Nettie Woodle were guests of their parents, Mr. and Mrs. J. P. Woodle, Sunday. Mr. and Mrs. Roy Douglass motored to Shucbel Sunday and visited with the hitter's parents, Mr. and Mrs. G. Moehuke, . Mrs. K. B, Gibson was a dinner guest at the home ot II. F. Gibson Sun day. Mn. and Mrs. It. Udell and family ot Dover, wer eguests of Mr. and Mrs, H. F. Gibson, Sunday. Dick Gibson was an Estacada"
+      ]
+    },
+    {
+      "date": "1919-08-22",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-22/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "se City\" for SanFrancisco, Thursday, for a short visit with relatives. Mrs. Edward Lyons, of Portland, was a week-end visitor In Willamette. M:ss Gladys Baker is visiting In In dependence for several weeks. Mr. and Mrs. Ewald Leisman have returned from an outing at Netarta. They were accompanied by Miss Belle Mathers. Mrs. Augusta Romig and daughter, Elizabeth, were Portland visitors Sun day and Monday. Mr. and Mrs. Clem Dollar and chil dren are enjoying an outing at the beach. The Sunday School picnic at Sch noer\"s park, on Saturday, was well, at tended. Melvln. the small son of Albert Fro mong, who was operated on for ad noids, is 'able to be about again. Mr. Nolan and family have moved to the Mountain Road district, where be is employed running the Canby ferry. Mr. and Mrs. August Moehnke and Mr. and Mrs. Guy Gross have returned from Ne",
+        "g Its web ho smiled to himself: \"At any rate, they won't come In hore looking for hoarded liquors.\" There Is nothing worse than bad, foul smelling breath; got rid of It for your friend's sake anyway. Holllster's Rocky Mountain Tea will clean and purify your etomach and bowels; your breath will be sweet, your disposition improved, your friends Increased. 85c. Tea or tablets. Huntley Drug Co. Adv. , MEIER & FRANK WILL ERECT F( Ittrtlaml, Aug. lit -I'urcnuNo t.f the liliit k bounded by Thirteenth, jNiur toenth, ICvo.-tlt and Klaudora atreeta an the for a ten Mlory building to penult an eipntiHloa of wholoauln and rttall farllltlea of thn Meier & Frank t'omiutny, no that It will Kurpaa any department utore went of Chli-ago, wna antuiuured by Jtilhm Meier Monday Tho prlen paid waa i:i0,000, Wholesale bulne of the firm will be tonreni rate",
+        "hich will provide 000,000 feet of floor par. Two- itnrlea will he milled to tho prennl atore building at rlftlt, Sixth, Morrlaon and Alder trtHta for retail departmonta. The expanalun will pro vide for the employment of an ad ditional force of more than COO men and women, ONE OF BEST IN CITY The reiildeneo recently purchaaed by Dr. Frank Mount, former major In the army, who recently received hla dla rhnrge. It being remodelled and will be made Into a modern hom. Thl prop erty waa formerly owned by Mr, and M-. II. J. Illgger, and la located In a mont attractive upot overlooking the city. Frank Dodge of Canby, la the con tractor, and YV. A, White, of thla city, linn charge of the remiMlollng. I Among tho Improvementa to be! made on the dwelling will be the addl- tlon of a bathroom for the gueats' sleeping aparttiiotit, a large aleeplng p",
+        "has spent a few days in the valley, has returned to cut hay on his place. Joseph Kclshlnski is building and otherwise improving his homestead. Frank Hilton has one of the best fields of grain in this section. Mr. Battles ana Miss Burdett were callers at the Badger home recently. Miss Burdett spent several days in Portland a short time ago. Prospective buyers have been view ing property in this neighborhood and seem pleased with the location but feel that they must be sure of a school. J. Burdett has been helping C. K. Thomas for the past few days. .1-1 T-w TT T)aJa. ttlnA mvwv Vile IT. J.;:i nomeeaa u.ree ,e Bu V I Mrs. J. Howard and children are spen sen for a variety of plants to try up-, dmg a few ticability of gooseberry culture in the new location a couple of plants of that species were ordered. For the time being the plants wer",
+        "f a school. J. Burdett has been helping C. K. Thomas for the past few days. .1-1 T-w TT T)aJa. ttlnA mvwv Vile IT. J.;:i nomeeaa u.ree ,e Bu V I Mrs. J. Howard and children are spen sen for a variety of plants to try up-, dmg a few ticability of gooseberry culture in the new location a couple of plants of that species were ordered. For the time being the plants were heeled in at MolaUa and with the multiple cares of moving to and developing a 'new place died before they could be re moved to the Intended location. There the story would have ended had not not the Forest Service sent Bill Mor gan as a special agent to Investigate the fate of those two bushes. Mr. Morgan traced the homesteaders to Elk Prairie where he was told to \"keep to the right\" However good the advice the lad found himself at the foot of the mountain and was told 'th",
+        "ew days. .1-1 T-w TT T)aJa. ttlnA mvwv Vile IT. J.;:i nomeeaa u.ree ,e Bu V I Mrs. J. Howard and children are spen sen for a variety of plants to try up-, dmg a few ticability of gooseberry culture in the new location a couple of plants of that species were ordered. For the time being the plants were heeled in at MolaUa and with the multiple cares of moving to and developing a 'new place died before they could be re moved to the Intended location. There the story would have ended had not not the Forest Service sent Bill Mor gan as a special agent to Investigate the fate of those two bushes. Mr. Morgan traced the homesteaders to Elk Prairie where he was told to \"keep to the right\" However good the advice the lad found himself at the foot of the mountain and was told 'that he was four miles beyond his destination. Doubtless they were"
+      ]
+    },
+    {
+      "date": "1919-08-29",
+      "seq": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-29/ed-1/seq-2/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "y Otto Olson and Is now living there. Mrs. Repp has gone to Eastern Ore gon for a short stay with her son, Mr. and Mrs. Chapman, of Winters. Calif., have returned to their home after spending several weeks with, rel atives. Merritt Wilson Is enjoying his vaca tion at Seaside. Among those returning Sunday from an outing at Netarts were; Herbert Debok, Mr. and Mrs. August Moehnke, Freda Volpp, Rex Briton. Mr. and Mrs. Clem Dollar and children. They re ported the roads in fair condition. Agnes Hanson, ot Seattle, is a guest at the home ot Esther Larson. Mrs. Romlg has returned after under going an operation for the removal of her tonsils. Mr. and Mrs. Fred Thole spent the week-end with her mother, Mrs. Schreke. The funeral of Mrs. Charlie Waldron was held Monday afternoon at the Baptist church in Oregon City. Mrs. Waldron was a former residen",
+        "He will face a 'sentence of from one to throe years In the state prison. LY Salem, Ore., Aug. 26 Nearly a mil lion pounds Is the welKht of a ware house, formerly owned, by the Salem Flour Mills company, which is being moved by A. T. Moff Itt, a Saloin house movor, to a new foundation prepared for It by the Oregon Pulp & Paper company. It will become one of the buildings used by the new paper mill noiy In process of construction hero. The building Is 95 by 55 feet, 50 feet high to the eaves and 05 feet high to the comb. In Its new location an other story will be added, In raising the building clear of the ground 13.1 Jack screws were used. ' Oil Company, Oregon City, Oregon. University of Oregon Libraries 1501 Kincaid Street Eugene , OR 97403-1299 © University of Oregon . All Rights Reserved.",
+        "see iuuci ui uiggcrs. ia4 b mm af Bay a Dowden at Once your IViwdn ! anr. It , ht. yon boiwt li trral ml of mm, la ih, bar. rat t w croi. Prices and Sizes ,W,,6,M ',w r. wlthwit Blw tlirhowat. W. ilH b.t. . tw Son. Itowd,. Ib.t I. . tr( hrm. Wh, dmM tr r fi-nr.bl to Ikm.wa r. b nd ttra In. ...i . a 1 JL-X j - n - in nd W will r ll W'.t W-ifct IX W & Co., Oregon City Agents JETTY QUESTION !S Newport, Ore., Aug. 22 A move ment to recall 0. F. Jackson and M. H. Abbey, members of the port commis sion at Newport, was started this week by citizens opposing the attitude taken by these members in a dispute that has arisen over the, terms of contract for the conBtruction work on the south Jetty. The factor binglng about the heated feeling i's the refusal of the secretary of the commission, L. H. Williams, to sign warrants audited by the bod",
+        "re to his residence In Grants Pass on the evening of Aug ust 14. Morton Is In the county Jul! at Oranta Pass, charged with setting fire to his residence for the purpose of securing the Insurance money, He will face a 'sentence of from one to throe years In the state prison. LY Salem, Ore., Aug. 26 Nearly a mil lion pounds Is the welKht of a ware house, formerly owned, by the Salem Flour Mills company, which is being moved by A. T. Moff Itt, a Saloin house movor, to a new foundation prepared for It by the Oregon Pulp & Paper company. It will become one of the buildings used by the new paper mill noiy In process of construction hero. The building Is 95 by 55 feet, 50 feet high to the eaves and 05 feet high to the comb. In Its new location an other story will be added, In raising the building clear of the ground 13.1 Jack screws were u"
+      ]
+    },
+    {
+      "date": "1919-09-12",
+      "seq": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1919-09-12/ed-1/seq-7/ocr/",
+      "groups": [
+        "clem_dollar"
+      ],
+      "snippets": [
+        "and. $120.20. COUNTY COCRT-The Danner Courler. $13.75; A. W. Hoyt, $25.00; Ethel Funk, $24.00; W. F. Harrla. $70. 00; W. A. Proctor, $50.00; Couuty Re corder. $6.00. COURT HOUSE Pacific Tele phone 6 Telegiaph Co., $83 26; Jonea Drug Co., $9.00. \" I i- :TI'' JI'BTICK OF PEACE If. K. Meada, $12.0(1; C. E, Laraen, $1,20; Roy Wil cox, $1,20; C. J. Hood, $1.20; Philip Kohl. $120; K, Harrington, $1.40; Frank Munch, $1.20; Clem Dollar, $1,. 20; I Btlpp, $28.40; Ed. Fortune, $58. 75. CORONER -Wm. Gardner, $1.20; E. T. Maa, $1,20; p. E. Froat, $1.20; Philip Kohl, $1.20; A. L. Kenny, $1. 20; W. L. Bchooley, $1.20; E. L. John, aon, $89.70. BtatVKYtJR-Paul Dunn, $62.20; J. C. Sullivan, $(12.20; Chaa. Blmmona, 130.00; Mlko Oranatakl. $3.00; Frank Itoeder, $3.00; Stanley Tourel, $3.00; Den Noyer, $3.00; II. II. Johnaon, $49. 40. BI PT. OF 80IIOOUJ. E. C"
+      ]
+    },
+    {
+      "date": "1920-02-13",
+      "seq": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1920-02-13/ed-1/seq-5/ocr/",
+      "groups": [
+        "clem_dollar",
+        "lease_move",
+        "pool_hall"
+      ],
+      "snippets": [
+        "Oregon City visitors Tuesday. O. F. Watts, who resides In the Logan section, was In Oregon City on business Thursday. Mrs. Edith Truacott, of Jennings Iodge, was among the Oregon City visitors Tuesday. J J. Jones, prominent farmer of Colton, was In Oregon City Thursday and Friday. A. Johnson and son, of Redland, were among the Oregon City visitors Tuesday. ORRGON CITY '. - \" POOL. HAL LPROPRIETOR AND BOYft PAY FINES Clem Dollar, proprietor of a pool hall on Main, between Firth and Blxth streets, wa fin- ed $20 Monday for permitting minors to be In his resort. Two boys, Homer Helby and Raymond Hermann, who were playing jsiol, were fined $10 each. Tho arrests wore made by Officer Hurfus. J. A. Iluiibbuum, of Hherwood, waa In this city Haturday. 8, L Canto, of Carus, waa In this clly Wednesday. Hoy Scouts Sec National Chief J. C, Cochran, cap",
+        "O. F. Watts, who resides In the Logan section, was In Oregon City on business Thursday. Mrs. Edith Truacott, of Jennings Iodge, was among the Oregon City visitors Tuesday. J J. Jones, prominent farmer of Colton, was In Oregon City Thursday and Friday. A. Johnson and son, of Redland, were among the Oregon City visitors Tuesday. ORRGON CITY '. - \" POOL. HAL LPROPRIETOR AND BOYft PAY FINES Clem Dollar, proprietor of a pool hall on Main, between Firth and Blxth streets, wa fin- ed $20 Monday for permitting minors to be In his resort. Two boys, Homer Helby and Raymond Hermann, who were playing jsiol, were fined $10 each. Tho arrests wore made by Officer Hurfus. J. A. Iluiibbuum, of Hherwood, waa In this city Haturday. 8, L Canto, of Carus, waa In this clly Wednesday. Hoy Scouts Sec National Chief J. C, Cochran, captain of Troup No. 2, Itoy H",
+        "SE IS P. An autopsy on the body of James Phillip Ferris, whose body was found by members of his fanVly In his barber shop in the Electric hotel building Saturday morning was held Saturday night by Dr. E. H. McLane, who found that death was due to heart failure. Wblle making the ex amination Dr. McLane found a bullet in the lungs, which had entered the body about 15 years ago, when Ferris was shot by another man in a pool room. : .' James Ferris was born In Italy 40 yearg &S and came to the United States when a young lad. Before com ing to Oregon City a year ago, be and his family resided in Independ ence, where he was in business. , The family purchased a home in this city at Third and John Adams streets shortly after coming here. Mr. Ferris leaves a wife and five small children. v , , PARKPLACE RESIDENT DIES Melbourne Holbrook, for abou",
+        "hildren, who Iiiivm been roHhlliiK near the Abor nethy iiiovii) to Oregon Clly Route 3. Mr Robertson disposed of hln prop erly nenr llm AlKirnothy txp'i-t Iiik to leave for Callfornfo to asnlst In car. ' for IiIm daughter, Lydlu, who bad been taken there for her hiialth, hut who died In On kin ml Kutunluy morn Ing. Ha has decided to rt-itiuln In Cliickamaa county, whirt ha In en KUK'd In thn wood IhihIih'hk, and has moved his children to nt-iir the wood rump. Mr. RoberUoit bus received word from Oakland saying that Mr. Hwanner, bid former wife, was lm prtivltiK from tint Influenza from whlrh aha him been dangerously 111. Mr. and Mr. William Tregoo and children. Olive and Elton, accompani ed by Mr. Tragoo's mother, Mm. Olllett, arrived a few weeks ago from Elgin, Montana, and aro to make their hums In Clackamas county. Mm. Tragoo U a",
+        "atiMene the houne ha been brok en lull and a number of article stol en, hut the Intruder loft the furn'tura Mr MIlIiT I to have her homo re pulriC, when It will be put on the market for sale. Aiming thn ale that hav i I ecu r ported l:i the ri-nliy lino during the past few week I the old home of th\" h i-! \"n Mini located at Man's Old Mill, about lt mile from Oregon Ci'v . land hn been purchased by M' lining, who baa moved h wile and five ih'ldren to that place, and U nuking many Improvement'! i ) 'ho old home ,Ah Mnn'a Old Mill In locat ed In Hcho.-t PlHtrlet No 81, three of Mr. Prai; rhlldron bm of school uge. and ill add to th enrollment jf the mboel a' that pi ife. Mr and Mr, Tony HerneU, who have Jnat arrived from Virginia, aro kuchI at the home of Mr. and Mr. Joe Kifce of I.lnn' Mill aectton. Mr. Hornet, who I a brother of Mr.",
+        "TO BE LIBERATED About 1000 pair of Chinese pheas ants are to be liberated iu carefully selected districts throughout Oregon, begimv'ng with next week. This Is the first liberation under the new policy of the state fish and game commission, and both the warden, Carl D. Shoemaker, and Superintend ent Simpson of the game farm are of the opinion that It will stock the woods with five times more birds than If they were released in the fall Just before the hunting season, as baa been the custom. BOY8 HAVE SMALLPOX Among the new cases of smallpox In Orrjron c'ty are Hugh Mount, Jr., son of Dr. and Mrs. H. S. Mount, of Ninth and Center streets, aud Alfred Chandler, second son of Rev. and Mrs. C H. I Chandler. Roth lads havo light cases and are In quaran tine. , JUDGMENT FOR $300 I A (iltmoni fn tHf( with Interest at the rate of 8 per cent fr"
+      ]
+    },
+    {
+      "date": "1920-03-19",
+      "seq": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1920-03-19/ed-1/seq-7/ocr/",
+      "groups": [
+        "construction",
+        "gilbert_miller",
+        "lease_move",
+        "pool_hall"
+      ],
+      "snippets": [
+        "lf), $15.00; Da vid Close (self), $20.00; Bengta Peter son (Hans Hansen). $25.00; Ole Josen- dall (self). $10.00; Mrs. M. P, Weaver, (J. C. Seahorn), $10.00:, Mrs. Saifc'.i Solomon (self), $15.00; W. Hltchman, (Cash McKarty A Pat Smith), $50.00; J. B. McCarter (John Morris), $25.00; Lillian M. Johnston (self), $15.00; Tony Miller (self), $1.00; Walter How land, (self), $30.00; Mr. Fred Hlmler, (J. Matheson), $30.00; Gilbert Miller, $1.95; Batdorf Broa., $10.00; Drs. Mount (Dorothy Allsman), $7.50; C: W. Nealelgh (Katie Pluard), $9.00; Geo. Reddaway, (Jame McDowell), $6.00: A. J. Knightly (John Beers) $6.- 40; Electric Hotel, (Ben Landes). $4. 20; Jack Brothers (Mrs. Bray). $22.00; Robblns Brothers, (Henry Russell). $16.70; II. 8. Anderson, (Ellsha Kill- an), $5.00; Beaver Creek Cash Ex change (Tom Jones), $14.00; Cheney Doollttle, (Mrs. Strai",
+        "th Iowa Infantry, died at the Soldiers' Home at ilone burg March 7. Mr. Kroeger was admitted to the home from Scotts Mills in 1916, and is survived by a son, William Kroe ger, of that place. BAIL FORFEITED. James Wood, who was arrested Saturday night by Officer Ssrtus ff disord)3Tiy opnduof, forfeited a $10 bail by failing to appear for trial Tuesday. Wood was accused of being Intox icated and fighting in one of the pool rooms of the city. REAL JT STATE TRANSFERS Issued by O. C Abstract Co. C S. Thompson et al to I M. Thompson W D $1 same as above. J. M. Culley et ux to A. L. Weaber et nx W D 110)2 R 3 part Section 7 T 5 R 1 E. F. E. Wray to Roy Nicholson et ux W D $6500 $6.50 R S part Sec tios 11 T 5 S R 1 E. J I. E. Brackett to Clackamas Couiv ty R W D $316 $.50 R S part Sec tion 12 T 4 S R 1 W. T. R. A. Sellwood et ux to A. B. Judkins",
+        "Son, $60.00; August Olsen, $10.00; Bank of Commerce, $6,243.65; Chas. J. Crawford, $48.01; V. O. Sher eer, $66.00; Frank Whitten. $3.27; E. R. Kilgallon. $60.00; Frank Adams, $150.00; E. C. Gerber, $14.00; Huntley Drug Co., $36.80; W. B. Nolan, $52 25; L. J. Caurield, $24.43; Oregon City Enterprise. $8.60; Henry Dnbler. $25. 00; Herman Polehne, $7.00; O. W. Warner, $2.15; Hogg Brothers, $37.60; Oregon Engineering A Construction Co., $52.23; Wlllard Bosholm, $79.00; Hogg Brothers, $8.00; Sidney Baker, $139.76; W. S. Gorbett, $139.76; Otto Striker, $139.76; Orvid Baker, $95.76; U E. Fisher, $19.95; Claude Henrlcl, $3.99; C. V. 8mlth, $5.50; Kllhaiu Staty A Ptg. Co., $16.50; G. W. War ner, $84.79; Herman Fisher, $15.71; E. Fisher, $13.96; Albert Fisher, $5.98; Capitol Garage, $28.35; II. A. Rands, $224.71; C. O. Norrls, $165.28; Ernest Mass J",
+        "s into thirds among the county, state and federal government More than a million dollars) of outside money haa been appropriated for highway projects in Clackamas county, said Mr. Nunn Wednesday. The state haa already paid $192,000 on grading and improving the Pacific Highway south of Oregon City and has set aside about $275,000 for paving on the Oswego and Canby-Aurora sec tions Th'ere has been appropriated for the construction of tho Mount Hood loop road in Clackamas county $7fi9,OO0. The state has set aside $257,000 for the Zlg Zag section, and the government a like amount. The state and government has appropri prlated $170,000 for the Sandy sec tion of the loop road and Multnomah county has euthorixed the expendi ture of $85,000 Eva Feathers Is Buried Monday One of the largest attended funer als ever held in Damascus was that of little",
+        "Alldredge, $66.47; Mary Confer,. $75.67; Ida Felts, $46.08; Ona Renner, $49.35; Mrs. Jes sie Hyatt, $34.17. PROHI. H. H. Hughes, $25.50; H. E. Meads, $15.00. FIRE PATROL $341.08; O. P. Hoff, State Treasurer. Constable Arrests Woman Bootlegger Maud HIrsch, of Sunnyside,' was arrested by Constable Fortune, charged with selling Intoxicating li quor, She was arraigned Wednes day and waived preliminary hearing and whs released on $50 ball to ap pear Saturday at 1 o'clock before Justice Stipp. Born, Wednesday, March 17, to ' Mr. and Mrs. HJalmer Rosberj, of ! Holmes avenue, a son. The little ! fellow Is named Nels Harold Ros i berg. Kookic Who Is Trying to Be Good Enough to Hold Down Larry Doyle's Job 1 n :j l .. : ' M III ' T \"f inrirTiiiwiiiiinniiimiinm r , Iirry Doyle at second base copies pretty close to being the most impor tant tog"
+      ]
+    },
+    {
+      "date": "1920-04-16",
+      "seq": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1920-04-16/ed-1/seq-8/ocr/",
+      "groups": [
+        "clem_dollar",
+        "lease_move"
+      ],
+      "snippets": [
+        "m cup tire, given by the Pennsylvania Rubbor company and Martin & Son of this city. Smith rode a Harley Davidson. Krank Hueklin, of Oregon City, won second In this class and was given two Inner tubes, do nated by the Oregon City Vulcanizing company and Smith's Tire Shop. Huckltn also won an Inner tule, a prlaw given by Martin & Son for the best Oregon City rider. lie Idea the tires tho winner received 50 cigars from Clem Dollar and $3 in merchandise front Hogg Brothers. The third prize in the novice class went to Frailer, a Harley-Davidson rider, of Salem. This was a hoi of 100 cigars given by the l.ayton confectionary store. In the open contest F. Gilbert of Portland, on a Harley-Davidson, won first prize. $10, and W. H.nlfleld. Port land, took second money, V. Although there were about 30 rid ers In the contest no ono was Injured and the",
+        "dividing Utah and Colorado to protect I'tah sheep which have strayed over the Colorado border and which are In imminent danger of be ing destroyed by Colorado cowboys, according to word received hero to day. This follows the killing Monday of 400 sheep by Colorado cowboys. The sheep were in charge of two herders. The eowboya attacked the two, bound them to a wagon, and then shot 400 sheep dead. ; The herders after releasing them selves hastened to Vernal, where 20 men were soon assembled. The men will seek the aid of the Colorado au thorities. The attack on the sheep follows a long standing war between the sheep men of Vinta county and cattle men of Western Colorado. SEME REFUSFS-TO RECEIVE JAIL BIRDS OFSAN FRANCISCO SEATTLE. April 9. Thirty-five men, all of San Francisco, were pre vented by Seattle police today from debarking from the",
+        "ack on the sheep follows a long standing war between the sheep men of Vinta county and cattle men of Western Colorado. SEME REFUSFS-TO RECEIVE JAIL BIRDS OFSAN FRANCISCO SEATTLE. April 9. Thirty-five men, all of San Francisco, were pre vented by Seattle police today from debarking from the steamer President which arrived last night from Cali fornia. Police Lieutenant O. V. Hasselblad said seventeen ' of them were re leased recently from San Francisco jails on their promise to go to Alaska to work in the fisheries. On arriving here, 'he said, the seventeen and eighteen others, refused to go aboard the boat which would carry them North. '\"We do not intend to see' a load of disorderly persons dumped on Seat tle.\" he said. NO - HELP IN SIGHT EOR SUGAR SHORTAGE FROM CUBAN CROP WASHINGTON. April 9. No relief from the prevailing high prices",
+        "e general said his action was die to railroad strike conditions. General Strike Is Called in Ireland LONDON, April 13. A general strike began in Ireland today in pro test against the treatment of the polit ical prisoners in Mount Joy jail at Dublin, who are on a hunger strike. Early reports to the Irish office here said that the strike had gone into effect but the officials gave no detaila regarding the scope of the movement The strike call eliminated employes of newspapers, those In the telegraph service, the humanitaria services, the bakers and the necessary workers caring for cattle and horses. The latest official report given out here said that the hunger strikers all were weak and some were nearlng the danger mark. Bentall Is Found Guilty of Espionage MINNEAPOLIS, Minn., April 13. Jacob O. Bentall, former Socialist can didate f"
+      ]
+    },
+    {
+      "date": "1920-04-23",
+      "seq": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1920-04-23/ed-1/seq-1/ocr/",
+      "groups": [
+        "clem_dollar",
+        "construction",
+        "lease_move"
+      ],
+      "snippets": [
+        "t and demanded a Jury trial. ' He is attorney for tfte I. W. W. now being held in the county Jail here, and while in Vancouver one Sunday last October went up to the Jail and talked through the bars to Leo Brookshlre and Robert McAdams, two prisoners, since convicted. This was admitted by Vanderveer at his first trial, but he claimed that In consulting his clients he was act ing within the law. TIRE AGENTS APPOINTED Clem Dollar and Tom Smith have been appointed county agents for the Stuart Puncture Proor Tire & Liner company. Both men are well known business menv of this city, and are' to take up their duties lmmediate!y. tainty. University of Oregon Libraries 1501 Kincaid Street Eugene , OR 97403-1299 © University of Oregon . All Rights Reserved.",
+        "f the law. signed last week simutaneously with making the announcement of his can didacy. During the paper mill strike. Meads was placed in charge of the state .police, and during the war he waa put on duty to check up slackers and deserters. He has been a terror to automobile thieves and speed man iacs. Kls most recent activities have been in connection with moonshiners and bootlegging violations. He was foreman on construction for the Wil lamette Valley Southern railway six years ago. Meads announces his in tention of making a vigorous cam paign for the nomination. E OF PARKPLACE HAS A STORM FOR GEORGE . Harvey G. Starkweather has entered the Democratic primary $ race against Senator Chamber- lain. It we Judge the Bentlment of the Democratic party aright, there is likely to be some mighty foul weather ahead for the erst- while invincible",
+        "eginning January 1,1921. The bonus legislation will carry pro pisions for both a cash bonus and land settlement, inter changeable or selective, according to the desire of the beneficiary. It may be assumed that nearly all of the ex-service men will select the cash feature. While more than 1 ,000,000 of those who sajw ser vice have been eliminated by the section that destroys the eligibility of officers, enlisted men occupying cleri cal positions and drawing civilian pay, shipyard and lumber camp workers, nurses and yeomen (female), the proposed law will necessitate an immense sum of money, which is to be made available through a gross sale tax of half of one per cent, on all sales, including the \"turnovers\" Or resales. This tax will not be a direct tax but will r.o doubt be classed by nearly all manufacturers and business men as an ex",
+        "nnum will pay $25 a month addi tional tax to the government The country, as well as the former service men, will be glad to have this question settled, and settled to the satisfaction of every man who donned the khaki in defense of the honor of the flag. IN INTER SET AT 10 The -\"citizens' division\" quota for Clackamas county in the united slmul taneous campaign of the churches co operating In the . tntorchurch world movement has been set as $5800. The cltlzons'dlvlslon state quota is $2:10, 000. This stun Is the total for the gen eral campaign, and la in addition tn the denominational auotas, several of \" which already have been announced The campaign tor Clackamas county will be directly in the hands of E. L. Pope, Interchurch county director for this county. This does not comprise ' a budget for the interchurch movement as an orga",
+        "orchurch world movement has been set as $5800. The cltlzons'dlvlslon state quota is $2:10, 000. This stun Is the total for the gen eral campaign, and la in addition tn the denominational auotas, several of \" which already have been announced The campaign tor Clackamas county will be directly in the hands of E. L. Pope, Interchurch county director for this county. This does not comprise ' a budget for the interchurch movement as an organisation. The subscriptions to this- fund are to bo divided among the cooperating churches. In the coming united simultaneous campaign mem ' bershlps of the various cooperating churches will be asked for millions of dollars to carry on work which is . nob of a denominational character, but is for the good of society In its broadest sens. D.E: 1ST OBTAINS 2000 SIGNATURES TO ANTI-CIGARETTE BILL Two thous"
+      ]
+    },
+    {
+      "date": "1920-06-04",
+      "seq": 3,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1920-06-04/ed-1/seq-3/ocr/",
+      "groups": [
+        "505_main",
+        "a_leland",
+        "lease_move",
+        "leland"
+      ],
+      "snippets": [
+        "g to work AVedneday evening. Recorder John W. Idtr wa absent, hi place being filled by George L. Story, city attorney. In addition to a largo amount of routine buxines the cuncil re-elected John Llewellyn as wau-r commlsHioner by a unanimous vote. Granted permlslon to the American legion to put on a four day carnival from Tuesday, June 8, to Saturday, June 11. Th? application of A. Leland to op crate a pool haill at 505'4 Main street and It ere; an electric Htreet sign was granted. Went on record a favoring the routluast comer of McLoughlln par!: at Seventh\" and Center street as the best location for the new city hall, subject to a decision, ofrthe citizen at a meeting called for Wednesday even l iiT. Junf- 9, at 7:30 o'clock. On motion of O. D. Eby extended a vote of thank to Chief Seiler and the member of the Oregon City fire de partmen",
+        "city council was a Httlo lat In getting to work AVedneday evening. Recorder John W. Idtr wa absent, hi place being filled by George L. Story, city attorney. In addition to a largo amount of routine buxines the cuncil re-elected John Llewellyn as wau-r commlsHioner by a unanimous vote. Granted permlslon to the American legion to put on a four day carnival from Tuesday, June 8, to Saturday, June 11. Th? application of A. Leland to op crate a pool haill at 505'4 Main street and It ere; an electric Htreet sign was granted. Went on record a favoring the routluast comer of McLoughlln par!: at Seventh\" and Center street as the best location for the new city hall, subject to a decision, ofrthe citizen at a meeting called for Wednesday even l iiT. Junf- 9, at 7:30 o'clock. On motion of O. D. Eby extended a vote of thank to Chief Seiler and the me",
+        "y council was a Httlo lat In getting to work AVedneday evening. Recorder John W. Idtr wa absent, hi place being filled by George L. Story, city attorney. In addition to a largo amount of routine buxines the cuncil re-elected John Llewellyn as wau-r commlsHioner by a unanimous vote. Granted permlslon to the American legion to put on a four day carnival from Tuesday, June 8, to Saturday, June 11. Th? application of A. Leland to op crate a pool haill at 505'4 Main street and It ere; an electric Htreet sign was granted. Went on record a favoring the routluast comer of McLoughlln par!: at Seventh\" and Center street as the best location for the new city hall, subject to a decision, ofrthe citizen at a meeting called for Wednesday even l iiT. Junf- 9, at 7:30 o'clock. On motion of O. D. Eby extended a vote of thank to Chief Seiler and the me",
+        "ar the Tuala tin river. From indications the op ators of the still had left the place nearly a month ago. The stoves, pressure tanks, barrels and hun dreds of bottles were left but the stlR was taken away by the owner. A long tunnel leading from the house to a field was found. This was com pletely filled with used mash and it Is evident that moonshine in . large quantities had been made there. The place was formerly occupied by a Rus3;an family. of con is PORTED FAR BELOW NORMAL THIS YEAR. WASHINGTON, June 2. Reporting the condition of the cotton crop May 25 at 62.4 per cent of normal, the de partment of agriculture announced that this wa3 the lowest in ts record or fifty years, and that the recurring statement, \"Worst ever known,\" was confirmed. No forecast of production was made. Revised figures of production was made. Revised figures",
+        "ent of this cost and the highway commission and the county the 60 per cent The total cost of the overhead la estimated at $30,000. With th crossing the county would have to pay for about 1000 feet of the road up to the city limit and from this point to Third street Ae P. R. U & P. would have to prepare the street as their franchise provides for that If this road is selected it Is probable that the car tracks will be moved farther out toward the river and the road widened. At present the road Is very narrow, there being places where two cars cannot pass. The road over the hill would cost the county and city more on account of the grading to be done. If this road Is selected the hill will be grad ed down and the corner near the mill changed. The overhead crossing here would have to be paid for by the city and the railroad company as t"
+      ]
+    }
+  ],
+  "errors": [],
+  "status": "OCR discovery only; direct scan review required"
+}
