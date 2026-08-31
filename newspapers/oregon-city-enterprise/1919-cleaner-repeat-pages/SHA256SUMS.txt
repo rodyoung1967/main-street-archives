@@ -1,0 +1,7 @@
+27494075f2efde24afd73844d7ca69eee4fd4035944c0d763a4f725a45d2cb52  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-07-18-page-7.pdf
+cc4c9fc84a88a8f4ea61a4bf4881aaac9814f3668c799e694eb741a463921afc  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-07-25-page-7.pdf
+c33bac2e66db63a725b5cb637b11b30f2ca5b5377a86e099a468029192244cf4  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-08-08-page-7.pdf
+1ae56b94c78383ab31e8d508cbbfc418bbad115455785a5769b6cfb3f9141fe3  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-08-15-page-7.pdf
+1b8b974608e4437093af2fc2d55c79eb6674c1582815a52ca8dd6be33a7c8070  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-08-22-page-7.pdf
+48d28a24a5c56444b0de5894f387652411e112451dffa7f09ff49aa995762e6f  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-08-29-page-7.pdf
+896b3311b5e951c082ceedf2940444aec53d0ae187a59c92c16139264dc94f60  newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/1919-09-05-page-7.pdf
