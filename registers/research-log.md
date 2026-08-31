@@ -161,3 +161,12 @@ This integration does not complete the 1880 or 1910 annual reviews. Both years r
 - Extended `scripts/validate_archive.py` so every committed raster must be registered, stored in an approved source-class tree, and, for photographs, named with its stable `IMG-####` ID.
 
 This was a repository-presence and preservation-control audit, not new historical research or an annual certification.
+
+### 2026-08-31 — 1920 Fifth–Sixth Main pool-hall pages visually verified
+- Resumed the 1919–1920 501/503/505 construction checkpoint after commit `ef2a431`.
+- Directly inspected the preserved Enterprise pages for 13 Feb., 4 Jun., and 3 Dec. 1920.
+- Verified Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth in February; verified the 4 June report that City Council granted A. Leland permission to operate a pool hall at **505½ Main** and erect an electric street sign; verified a December block-located pool-hall reference.
+- Registered the source set as `S-150` and evidence as `E-135`; integrated the exact 505½ anchor into `B-002`, the 505 unified timeline, open questions, research leads, crosswalk, and YAML mirrors.
+- No same-hall/operator succession is inferred; A. Leland is not merged with O. H. Leland. No construction date is inferred from business occupancy.
+- Underlying **2 June 1920** Commission minutes remain a retrieval/manual follow-up. 1919 and 1920 remain **IN PROGRESS**; the bounded OCR pass and these targeted visual pages do not certify either year.
+- Detailed capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.

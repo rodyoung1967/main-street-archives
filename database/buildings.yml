@@ -183,6 +183,7 @@ buildings:
       - E-131
       - E-133
       - E-134
+      - E-135
     related_sources:
       - S-130
       - S-021
@@ -208,6 +209,7 @@ buildings:
       - S-146
       - S-148
       - S-149
+      - S-150
     related_maps:
       - SM-002
       - SM-003

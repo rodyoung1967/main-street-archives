@@ -1008,3 +1008,17 @@ Catalog URL: https://hub.catalogit.app/clackamas-county-historical-society/folde
 Repository: `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` (`IMG-0725`).
 Evidence: `E-134`.
 Notes: The photograph visibly shows 505 above the door and Young's Secondhand Store on both windows. The institution supplies the year and identification of George Young. Other people, ownership, move day, and surviving-building continuity remain unresolved.
+
+## S-150 — Oregon City Enterprise 1920 Fifth–Sixth Main pool-hall source set
+Type: Primary newspaper scans; **VISUALLY VERIFIED TARGETED SOURCE SET** 31 August 2026.
+Canonical PDFs:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1920-02-13/ed-1/seq-5.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1920-06-04/ed-1/seq-3.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1920-12-03/ed-1/seq-1.pdf
+Repository PDFs:
+- `newspapers/oregon-city-enterprise/1920-02-13-page-5.pdf`
+- `newspapers/oregon-city-enterprise/1920-06-04-page-3.pdf`
+- `newspapers/oregon-city-enterprise/1920-12-03-page-1.pdf`
+Evidence: `E-135`.
+Repository source capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.
+Notes: February identifies Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth; June reports the City Council granted **A. Leland** permission to operate a pool hall at **505½ Main** and erect an electric street sign; December again mentions a pool hall in the Fifth–Sixth Main block. The pages do not prove that the three references are the same hall, do not establish succession, and do not date construction of the surviving 505 building. Do not merge A. Leland with O. H. Leland without independent evidence.

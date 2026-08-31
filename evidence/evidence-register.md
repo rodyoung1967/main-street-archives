@@ -1073,3 +1073,17 @@ Claims:
 - The combined sequence does not prove the exact move day, 505 building name, title, uninterrupted operation, or survival of the pictured structure.
 
 Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
+
+## E-135 — 1920 pool-hall anchors at Fifth–Sixth Main and 505½ Main
+Type: Primary newspaper business/location and reported municipal-action evidence; **direct visual inspection**.
+Source: `S-150`.
+Related building: `B-002`.
+Repository source capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.
+Claims:
+- *Oregon City Enterprise*, 13 February 1920, identifies **Clem Dollar** as proprietor of a pool hall on Main between Fifth and Sixth streets.
+- *Oregon City Enterprise*, 4 June 1920, reports that the City Council granted **A. Leland** permission to operate a pool hall at **505½ Main Street** and to erect an electric street sign.
+- *Oregon City Enterprise*, 3 December 1920, refers to a pool hall between Fifth and Sixth streets on Main.
+- The June item is an exact 505½ business/use anchor between Wolf & Miller at 505 in October 1918 (`E-027`) and Dr. Freeze at 505/505½ in 1921–1922 (`E-028`). It does **not** establish new construction in 1920.
+- No source in this set proves that Clem Dollar's hall, A. Leland's 505½ premises, and the December pool hall were the same business or room; no succession is inferred.
+- A. Leland is not merged with O. H. Leland (`E-126`) without an independent identity bridge.
+Confidence: **Very High** for the visually verified printed names, address, block locations, and reported council action; **unresolved** for operator identity links, succession, property ownership, physical room relationship, and building construction date.

@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-007`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`, `BUS-067`
 - Related people: `P-001`, `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`, `P-046`, `P-076`, `P-094`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`
-- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`
+- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`, `T-041`, `T-042`
@@ -18,7 +18,7 @@
 
 The earliest image records now connected to the address are a Clackamas County Historical Society photograph of George Harding Drug Store cataloged as **505 Main** with a structured date of **1880** and caption wording **1880s** (`E-133`), and a society photograph dated **1910** that visibly shows **505** above the door of **Young's Secondhand Store** (`E-134`). The Harding crop itself shows the fascia but no number; because Oregon City's formal citywide numbering is documented in 1906, its 505 location may be retrospective. Neither photograph proves continuity with the surviving building.
 
-Later documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. The construction date of the **surviving building** still has conflicting historic-resource estimates; see `Construction-date conflict` below.
+Later documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. A visually verified 4 June 1920 council report then says **A. Leland** was granted permission to operate a pool hall at **505½ Main Street** and erect an electric street sign (`E-135` / `S-150`). This is an exact business/use anchor, not proof of new construction or of physical continuity with the surviving 505 building. The construction date of the **surviving building** still has conflicting historic-resource estimates; see `Construction-date conflict` below.
 
 Identity context only: a visually verified 3 February 1916 Springfield notice directly names **Gilbert Miller** with Wolf & Miller (`P-046`, `E-113`, `S-125`). It strengthens the firm's antecedent chronology, **not 1916 occupancy at 505**. The 1918 C. E. Miller/Gilbert Miller discrepancy, Wolf partner's name, and any S. Wolf/later-503 ownership connection remain unresolved; see the [Tasks 5–6 audit](../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md).
 
@@ -80,11 +80,12 @@ See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evi
 ### Current interpretation
 
 - **1918:** Wolf & Miller directly occupies 505 Main, proving address use before either construction-date estimate.
+- **June 1920:** A. Leland is granted permission to operate a pool hall at **505½ Main** and erect an electric street sign (`E-135` / `S-150`). This narrows exact-address use around the c.1920 inventory estimate but does **not** prove construction.
 - **1925:** Sanborn visually shows a distinct 505 billiards/cigars occupancy.
 - **c.1920:** official 2000 City inventory estimate for the surviving/historic resource, now visually verified as source content.
 - **1940:** later inventory estimate that remains in conflict; **`E-101`** proposes it may reflect rear expansion/remodel rather than first whole-building erection — **unresolved**; **`E-102`** strengthens mid-century improvement plausibility without confirming a 505-specific rear extension ~1940.
 
-The best next test is assessor cards **1938–1942**, Oregon City Building Division archives for **1939–1941 permits**, steward-verified aerial rear-edge transcription for **`IMG-0007` / `IMG-0008` / `IMG-0009`**, and physical building analysis. See `RL-005`.
+The best next tests are (1) the underlying **2 June 1920 Oregon City Commission minutes** and late-1918–1920 permit/lease/property records for the c.1920 front/core question, and (2) assessor cards **1938–1942**, Oregon City Building Division archives for **1939–1941 permits**, steward-verified aerial rear-edge transcription for **`IMG-0007` / `IMG-0008` / `IMG-0009`**, and physical building analysis for the 1940/rear-work question. See `RL-005` and `RL-024`.
 
 ### July–August 1922 Gates/Wolf property division
 

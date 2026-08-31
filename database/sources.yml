@@ -744,3 +744,8 @@ sources:
     url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/george-youngs-second-hand-store.
     repository_file: media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg
     notes: Institutional object MOT:P-391. Catalog date 1910 and description identifies 505 Main and George Young as man in white shirt/no coat. Image visibly shows 505 and Young's Secondhand Store. IMG-0725; E-134.
+
+  - id: S-150
+    name: Oregon City Enterprise 1920 Fifth–Sixth Main pool-hall source set
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-06-04/ed-1/seq-3.pdf
+    notes: Primary newspaper scans visually verified 31 August 2026. February identifies Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth; June reports the City Council granted A. Leland permission to operate a pool hall at 505½ Main and erect an electric street sign; December again mentions a pool hall in the block. Same-hall succession and construction date are not proved. Related evidence E-135; full provenance and limits in evidence/source-register.md and the 1920 visual-verification capture.
