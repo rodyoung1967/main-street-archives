@@ -1090,13 +1090,15 @@ Confidence: **Very High** for the visually verified printed names, address, bloc
 
 ## E-136 — 1919 cleaner/dyer two doors south of new Post Office
 Type: Primary newspaper business-use and relative-location evidence; **direct visual inspection**.
-Source: `S-151`.
-Repository source capture: `evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md`.
+Sources: `S-151`, `S-152`.
+Repository source captures: `evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md`; `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.
 Claims:
 - The 1 August 1919 *Oregon City Enterprise* prints a separate classified reading **“Clothes cleaned, pressed and dyed. 500 Fifth and Main streets, two doors south of new post office. Phone 260.”**
 - Direct scan review confirms that **500** is genuinely printed; it is not an OCR artifact.
+- Seven additional page-7 scans show the same classified in every weekly issue from **18 July through 5 September 1919** when the 1 August page is included: eight consecutive weekly appearances.
+- Direct visual comparison resolves OCR conflicts on **25 July** and **5 September**: both scans print **500**, not `600`. The repeated `500` is therefore stable newspaper text across the run, not a one-issue anomaly.
 - The ad prints no business/proprietor name, and its unusual `500 Fifth and Main streets` wording is not yet safely normalizable to 500 Main or 500 Fifth.
 - `two doors south of new post office` independently supplies a relative spatial relationship to the post-September-1918 Oregon City Post Office.
 - The 1918 Pantorium record at 500 Main (`E-124`) uses Phone 185-J, while this unnamed 1919 advertiser uses Phone 260. No identity, move, ownership, succession, or uninterrupted occupancy is inferred.
 - If future evidence proves the 1919 number means 500 Main and confirms literal storefront door counting, the phrase may constrain the exact Post Office bay within the 504–514 Main Latourette-David-Barlow range; that is a working spatial hypothesis only.
-Confidence: **Very High** for the visible wording, date, trade, relative-location phrase and phone number; **unresolved** for normalized exact address, advertiser identity, relationship to Pantorium, and exact Post Office bay.
+Confidence: **Very High** for the repeated visible wording, `500` numeral, eight-week advertising run, trade, relative-location phrase and phone number; **unresolved** for normalized exact address, advertiser identity, relationship to Pantorium, and exact Post Office bay.

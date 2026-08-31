@@ -176,3 +176,9 @@ This was a repository-presence and preservation-control audit, not new historica
 - Promoted the former OCR-only lead to `S-151` / `E-136`: the classified genuinely prints **`500 Fifth and Main streets, two doors south of new post office. Phone 260`**.
 - No business name is printed. The number is not normalized to 500 Main or 500 Fifth, and the advertiser is not merged with 1918 Pantorium (500 Main / Phone 185-J).
 - Added the verified relative-location anchor to the 1918–1922 Post Office reconstruction. Exact postal bay and advertiser identity remain open.
+
+### 2026-08-31 — 1919 cleaner repeat-set visually verified
+- Full 1919 *Enterprise* OCR discovery checked 52 issues / 416 pages and located eight consecutive weekly appearances of the unnamed cleaner/dyer ad from 18 Jul through 5 Sep, all on p. 7.
+- Preserved and directly inspected seven additional page scans under `newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/` (`S-152`), supplementing the already verified 1 Aug page (`S-151`).
+- Visual comparison proves OCR `600` readings on 25 Jul and 5 Sep are errors: both pages print **500**. The stable run repeatedly gives `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260.
+- Strengthened existing `E-136`; did not create a duplicate evidence identity, identify the unnamed advertiser, normalize the unusual address syntax, merge it with Pantorium, or assign the exact Post Office bay.

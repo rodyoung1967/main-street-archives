@@ -754,3 +754,8 @@ sources:
     name: Oregon City Enterprise, 1 August 1919, page 7 cleaner/dyer classified
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf
     notes: Primary newspaper scan visually verified 31 August 2026. Classified prints clothes cleaning/pressing/dyeing, the unusual location wording `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260. No business name is printed; do not normalize the address or merge with Pantorium without an independent bridge. Related evidence E-136.
+
+  - id: S-152
+    name: Oregon City Enterprise, 1919 cleaner/dyer repeat advertisement set
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-18/ed-1/seq-7.pdf
+    notes: Seven additional primary p.7 scans, 18 Jul through 5 Sep 1919, visually verified 31 Aug 2026; together with S-151 they establish eight consecutive weekly appearances of the unnamed cleaner/dyer ad. Every checked scan prints `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260. OCR `600` readings on 25 Jul and 5 Sep are incorrect. No advertiser name or address normalization is inferred. Related evidence E-136; files and hashes under newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/.

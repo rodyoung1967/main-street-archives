@@ -71,3 +71,10 @@ No identity, ownership, relocation, or succession bridge is inferred between the
 3. Determine whether the printed location normalizes to **500 Main**, **500 Fifth**, or another period convention.
 4. Identify the exact 1918–1922 Post Office bay within 504–514 Main.
 5. Only then use `two doors south` as an exact storefront-counting constraint.
+
+## 31 August 2026 repeat-set verification
+A subsequent full-year OCR discovery pass found the same classified on page 7 in every weekly issue from **18 July through 5 September 1919**. Seven additional original PDFs were preserved and visually compared (`S-152`); together with this 1 August page (`S-151`) they form an eight-week consecutive run.
+
+Direct visual review shows **every inspected repeat prints `500`**, including 25 July and 5 September, where OCR had incorrectly rendered `600`. The stable advertisement continues to print the same trade, **`two doors south of new post office`**, and Phone **260**. This materially strengthens the printed-number and relative-location evidence but still does not identify the advertiser or explain whether period wording `500 Fifth and Main streets` should normalize to 500 Main, 500 Fifth, or another convention.
+
+Detailed repeat-set capture: `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.

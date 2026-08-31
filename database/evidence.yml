@@ -2172,11 +2172,13 @@ evidence:
     claims:
       - The 1 August 1919 Oregon City Enterprise prints a classified for clothes cleaning, pressing and dyeing with the location wording `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260.
       - Direct scan review confirms that 500 is genuinely printed and not an OCR artifact.
+      - Seven additional scans, together with the 1 August page, establish eight consecutive weekly appearances from 18 July through 5 September 1919.
+      - Visual comparison proves OCR readings of 600 on 25 July and 5 September are errors; both scans print 500, making the numeral stable repeated newspaper text.
       - The ad prints no business or proprietor name; the unusual location wording is not yet normalized to 500 Main or 500 Fifth.
       - The relative-location phrase independently connects the premises spatially to the post-September-1918 Oregon City Post Office.
       - The 1918 Pantorium record at 500 Main uses Phone 185-J; no identity or succession with the unnamed 1919 advertiser is inferred.
       - A future 500-Main normalization plus literal storefront door count could constrain the Post Office bay, but that remains a hypothesis.
-    confidence: Very High for visible wording, date, trade, relative location and phone; unresolved for exact normalized address, advertiser identity, Pantorium relationship and exact Post Office bay.
-    related_sources: [S-151]
+    confidence: Very High for repeated visible wording, the 500 numeral, eight-week run, trade, relative location and phone; unresolved for exact normalized address, advertiser identity, Pantorium relationship and exact Post Office bay.
+    related_sources: [S-151, S-152]
     related_evidence: [E-124]
     repository_file: evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md

@@ -66,7 +66,7 @@ The actual **Oregon City Enterprise, 1 Aug 1919, p. 7** scan has now been visual
 
 The printed `500` is genuine, but the unusual location wording is **not** normalized to 500 Main or 500 Fifth. The advertiser is unnamed. A 1918 Pantorium listing at 500 Main uses a different phone number (185-J), so no identity bridge is assumed.
 
-Spatially, this confirms that by August 1919 the relocated post-1918 office was locally described as the **new post office** and that an active cleaning/dyeing premises stood two doors south of it. If future evidence proves that the 1919 line means 500 Main and that `two doors` counts adjacent Main storefronts literally, it may help identify the exact postal bay within 504–514. Until then, the exact Post Office number remains unresolved.
+Spatially, this confirms that by August 1919 the relocated post-1918 office was locally described as the **new post office** and that an active cleaning/dyeing premises stood two doors south of it. If future evidence proves that the 1919 line means 500 Main and that `two doors` counts adjacent Main storefronts literally, it may help identify the exact postal bay within 504–514. Until then, the exact Post Office number remains unresolved. A subsequent visual review of seven repeat pages (`S-152`) establishes that the same wording ran weekly from 18 July through 5 September 1919 and that OCR `600` readings on two weeks are errors; the scans consistently print `500`.
 
 ## 8 June 1922 — two visually verified spatial anchors
 

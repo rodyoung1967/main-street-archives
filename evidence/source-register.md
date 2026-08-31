@@ -1031,3 +1031,12 @@ SHA-256: `2ab8bf63876373495ed91a42a6cbaf28f35da99a2313cd99439ffd8517758923`.
 Related evidence: `E-136`.
 Repository source capture: `evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md`.
 Notes: A separate classified directly prints **“Clothes cleaned, pressed and dyed. 500 Fifth and Main streets, two doors south of new post office. Phone 260”**. The printed `500` is visually confirmed, but the unusual location wording is not normalized to 500 Main or 500 Fifth. No advertiser/business name is printed. Do not merge with Pantorium solely from trade or proximity.
+
+## S-152 — Oregon City Enterprise, 1919 cleaner/dyer repeat advertisement set
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 31 August 2026.
+Dates/pages: 18 Jul, 25 Jul, 8 Aug, 15 Aug, 22 Aug, 29 Aug, and 5 Sep 1919, each p. 7. The separately registered 1 Aug page is `S-151`.
+Repository directory: `newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/`.
+Integrity: `newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/SHA256SUMS.txt`.
+Related evidence: `E-136`.
+Repository source capture: `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.
+Notes: Direct visual comparison shows the unnamed cleaner/dyer classified repeated for eight consecutive weekly issues from 18 Jul through 5 Sep 1919 when the 1 Aug `S-151` page is included. Every visually inspected occurrence prints **`500 Fifth and Main streets`**, **`two doors south of new post office`**, and Phone **260**. OCR readings of `600` on 25 Jul and 5 Sep are false; the scans print `500`. No business/proprietor name is printed, and the unusual location phrase is not normalized to 500 Main or 500 Fifth.
