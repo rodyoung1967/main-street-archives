@@ -21,7 +21,11 @@ jobs:
         run: git pull --rebase origin main
 
       - name: Integrate verified 1920 source set
-        run: python3 scripts/integrate_1920_pool_hall_verification.py
+        shell: bash
+        run: |
+          set -euo pipefail
+          sed -i 's/block\.strip()/block.rstrip()/' scripts/integrate_1920_pool_hall_verification.py
+          python3 scripts/integrate_1920_pool_hall_verification.py
 
       - name: Validate archive
         run: python3 scripts/validate_archive.py
