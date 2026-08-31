@@ -1,0 +1,35 @@
+name: Discover 1920-1922 poolhall transition
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/discover-1920-1922-poolhall-transition.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync main
+        run: git pull --rebase origin main
+      - name: Search Enterprise OCR
+        run: python3 scripts/discover_1920_1922_poolhall_transition.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit discovery report
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/discover-1920-1922-poolhall-transition.yml
+          git add -A
+          git commit -m "Inventory 1920-1922 505 pool hall transition OCR leads"
+          git pull --rebase origin main
+          git push origin HEAD:main
