@@ -2165,3 +2165,18 @@ evidence:
     related_sources: [S-150]
     related_buildings: [B-002]
     repository_file: evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md
+
+  - id: E-136
+    name: 1919 cleaner/dyer two doors south of new Post Office
+    type: Primary newspaper business-use and relative-location evidence; direct visual inspection
+    claims:
+      - The 1 August 1919 Oregon City Enterprise prints a classified for clothes cleaning, pressing and dyeing with the location wording `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260.
+      - Direct scan review confirms that 500 is genuinely printed and not an OCR artifact.
+      - The ad prints no business or proprietor name; the unusual location wording is not yet normalized to 500 Main or 500 Fifth.
+      - The relative-location phrase independently connects the premises spatially to the post-September-1918 Oregon City Post Office.
+      - The 1918 Pantorium record at 500 Main uses Phone 185-J; no identity or succession with the unnamed 1919 advertiser is inferred.
+      - A future 500-Main normalization plus literal storefront door count could constrain the Post Office bay, but that remains a hypothesis.
+    confidence: Very High for visible wording, date, trade, relative location and phone; unresolved for exact normalized address, advertiser identity, Pantorium relationship and exact Post Office bay.
+    related_sources: [S-151]
+    related_evidence: [E-124]
+    repository_file: evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md

@@ -1087,3 +1087,16 @@ Claims:
 - No source in this set proves that Clem Dollar's hall, A. Leland's 505½ premises, and the December pool hall were the same business or room; no succession is inferred.
 - A. Leland is not merged with O. H. Leland (`E-126`) without an independent identity bridge.
 Confidence: **Very High** for the visually verified printed names, address, block locations, and reported council action; **unresolved** for operator identity links, succession, property ownership, physical room relationship, and building construction date.
+
+## E-136 — 1919 cleaner/dyer two doors south of new Post Office
+Type: Primary newspaper business-use and relative-location evidence; **direct visual inspection**.
+Source: `S-151`.
+Repository source capture: `evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md`.
+Claims:
+- The 1 August 1919 *Oregon City Enterprise* prints a separate classified reading **“Clothes cleaned, pressed and dyed. 500 Fifth and Main streets, two doors south of new post office. Phone 260.”**
+- Direct scan review confirms that **500** is genuinely printed; it is not an OCR artifact.
+- The ad prints no business/proprietor name, and its unusual `500 Fifth and Main streets` wording is not yet safely normalizable to 500 Main or 500 Fifth.
+- `two doors south of new post office` independently supplies a relative spatial relationship to the post-September-1918 Oregon City Post Office.
+- The 1918 Pantorium record at 500 Main (`E-124`) uses Phone 185-J, while this unnamed 1919 advertiser uses Phone 260. No identity, move, ownership, succession, or uninterrupted occupancy is inferred.
+- If future evidence proves the 1919 number means 500 Main and confirms literal storefront door counting, the phrase may constrain the exact Post Office bay within the 504–514 Main Latourette-David-Barlow range; that is a working spatial hypothesis only.
+Confidence: **Very High** for the visible wording, date, trade, relative-location phrase and phone number; **unresolved** for normalized exact address, advertiser identity, relationship to Pantorium, and exact Post Office bay.

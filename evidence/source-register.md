@@ -1022,3 +1022,12 @@ Repository PDFs:
 Evidence: `E-135`.
 Repository source capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.
 Notes: February identifies Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth; June reports the City Council granted **A. Leland** permission to operate a pool hall at **505½ Main** and erect an electric street sign; December again mentions a pool hall in the Fifth–Sixth Main block. The pages do not prove that the three references are the same hall, do not establish succession, and do not date construction of the surviving 505 building. Do not merge A. Leland with O. H. Leland without independent evidence.
+
+## S-151 — Oregon City Enterprise, 1 August 1919, page 7 cleaner/dyer classified
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 31 August 2026.
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1919-08-01-page-7.pdf`.
+SHA-256: `2ab8bf63876373495ed91a42a6cbaf28f35da99a2313cd99439ffd8517758923`.
+Related evidence: `E-136`.
+Repository source capture: `evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md`.
+Notes: A separate classified directly prints **“Clothes cleaned, pressed and dyed. 500 Fifth and Main streets, two doors south of new post office. Phone 260”**. The printed `500` is visually confirmed, but the unusual location wording is not normalized to 500 Main or 500 Fifth. No advertiser/business name is printed. Do not merge with Pantorium solely from trade or proximity.

@@ -1,74 +1,73 @@
-# 1 Aug 1919 — cleaning/dyeing advertiser two doors south of new Post Office
+# 1 Aug 1919 — unnamed cleaner/dyer two doors south of new Post Office
 
-Status: **OCR/TEXT ONLY; page-image verification pending**
-
-Purpose: preserve a potentially important bridge between the newly relocated 1918–1919 Oregon City Post Office and a cleaning/dyeing business near it, without promoting garbled OCR into an exact-address claim.
+Status: **VISUALLY VERIFIED PRIMARY NEWSPAPER PAGE; exact address normalization and advertiser identity unresolved**
 
 ## Source
 
 **Oregon City Enterprise, 1 Aug 1919, p. 7**
 
-Canonical OCR page:
-https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7/ocr/
+Canonical page:
+https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf
 
-The current archive text renders a short classified advertisement as:
+Repository PDF:
+`newspapers/oregon-city-enterprise/1919-08-01-page-7.pdf`
 
-- `Clothes cleaned, pressed and dyed.`
-- a garbled location line beginning with `500` and mentioning `Fifth and Main streets`;
-- **`two doors south of new post office`**;
-- **Phone 260**.
+SHA-256:
+`2ab8bf63876373495ed91a42a6cbaf28f35da99a2313cd99439ffd8517758923`
 
-The OCR does not reliably preserve the advertiser/business name or exact location wording. The actual scanned page has **not yet been visually certified** for this item in the current research session.
+Source/evidence: `S-151` / `E-136`.
 
-Verification state: **OCR/TEXT ONLY**.
+The original full page was downloaded from Historic Oregon Newspapers, rendered at high resolution, and directly inspected on 31 August 2026.
 
-## New discriminator — phone 260 does not match the verified 1918 Pantorium listing
+## Exact visually verified advertisement
 
-A separate visually verified **24 Oct 1918 Oregon City Courier** classified/business guide lists:
+The classified is a separate item, divided from the Theroux Music House advertisement above it. It reads:
 
-- **PANITORIUM [Pantorium] CLEANERS — 500 Main**;
-- **Phone 185-J**.
+> **Clothes cleaned, pressed and dyed.**  
+> **500 Fifth and Main streets, two doors south of new post office. Phone 260 — Adv.**
 
-That source is already preserved in the project Pantorium chronology and is visually verified.
+The printed **500** is genuine page text and is **not an OCR hallucination**. The advertisement itself does **not** print a business or proprietor name.
 
-The August 1919 cleaner classified instead gives **Phone 260**. The differing telephone number is an important caution against automatically identifying the 1919 advertiser as Pantorium.
+## Safe facts
 
-It does **not** prove the businesses were different: a business could change telephone numbers, ownership, premises, or advertising wording between October 1918 and August 1919. But until an advertiser name, repeat advertisement, directory entry, or phone-directory bridge is recovered, the project should treat:
+The page directly establishes that on 1 August 1919:
 
-- **1918 Pantorium — 500 Main — phone 185-J**, and
-- **1919 unnamed cleaner/dyer — OCR location beginning `500` / `Fifth and Main` — phone 260**
+- an unnamed concern offered clothes cleaning, pressing and dyeing;
+- its printed location line began **`500 Fifth and Main streets`**;
+- it described itself as **two doors south of the new post office**;
+- it used **Phone 260**.
 
-as **separate evidence streams whose identity relationship is unresolved**.
+The phrase **new post office** is consistent with the independently documented September 1918 relocation of Oregon City's Post Office into an M. D. Latourette-owned building on the east side of Main between Fifth and Sixth.
 
-## Why this matters
+## Address-normalization limit
 
-The repo has direct 1918 evidence that the Post Office Department leased a new location on the **east side of Main between Fifth and Sixth**, in the M. D. Latourette building range later identified as **504–514 Main**.
+Do **not** silently normalize the printed wording to either **500 Main** or **500 Fifth**. The historical ad's syntax is unusual, and the archive has not yet recovered a directory, repeat advertisement, phone listing, lease, or other source that explains how the advertiser intended the `500 Fifth and Main streets` line to be read.
 
-This 1919 classified, if the page image confirms the text, would independently show:
+There is a strong reason to test **500 Main** as a hypothesis: a visually verified 24 October 1918 business guide separately places **Pantorium Cleaners at 500 Main**. But that earlier Pantorium listing uses **Phone 185-J**, not 260, and the 1919 ad gives no business name. The two records therefore remain separate evidence streams.
 
-1. the relocated office was already being called the **new post office** by August 1919;
-2. a clothes-cleaning/pressing/dyeing concern operated **two doors south** of it;
-3. another cleaning/dyeing business must therefore be considered when tracing the trade toward the July 1922 fire.
+## Post Office spatial hypothesis — not yet evidence
 
-However, because the OCR garbles the location/business-name line, this source must **not** yet be used to assign an exact street number or identify the advertiser with Pantorium, Oregon City Dye Works, Alex Schieremann, or the 1922 ignition-room tenant.
+The post-1918 Post Office is strongly constrained to some bay in the later City inventory's **504–514 Main** Latourette-David-Barlow range. If two further propositions were eventually proved—(1) the 1919 `500` means **500 Main**, and (2) `two doors south` counts adjacent Main Street storefronts literally—the ad could help identify the Post Office's exact bay near the south end of that range.
 
-## Relationship to other cleaner/dyer evidence
+Those propositions are **not yet proved**. No exact Post Office number is assigned from this ad.
 
-Separate visually verified evidence currently establishes:
+## Relationship to cleaner/dyer chronology
 
-- **Oregon City Dye Works — 319 Main** in March 1912;
-- **Pantorium — 416 Main** in February 1914;
-- **Pantorium Cleaners — 500 Main, phone 185-J** in October 1918;
+Separate verified evidence currently establishes:
+
+- Oregon City Dye Works — 319 Main in March 1912;
+- Pantorium — 416 Main in February 1914;
+- Pantorium Cleaners — **500 Main, Phone 185-J**, October 1918 (`E-124` / `S-138`);
+- this **unnamed** cleaner/dyer — printed `500 Fifth and Main streets`, Phone 260, August 1919 (`E-136` / `S-151`);
 - Pantorium active in the cleaning/dyeing trade in January 1922;
-- Pantorium at **519 Main** immediately after the July 1922 fire.
+- Pantorium at 519 Main immediately after the July 1922 fire.
 
-The 1919 classified may eventually help bridge one of these business/address chains, but no identity connection should be made until the actual scan is read and/or phone **260** is independently identified.
+No identity, ownership, relocation, or succession bridge is inferred between the 1918 Pantorium and the 1919 unnamed advertiser.
 
 ## Next checks
 
-1. Retrieve and visually inspect the 1 Aug 1919 p. 7 scan at high resolution.
-2. Read the advertiser/business name and exact location wording.
-3. Identify phone **260** in 1919–1922 advertisements/directories.
-4. Search repeated cleaner/dyer classifieds before and after 1 Aug 1919 for phone 260.
-5. Test whether the advertiser is Pantorium, Oregon City Dye Works, or a separate concern.
-6. Use the confirmed `two doors south of new post office` relationship to sharpen the 1919 Post Office bay only after the exact business address is known.
+1. Search repeat 1919–1920 advertisements for **Phone 260** and the exact cleaning/pressing/dyeing wording.
+2. Locate a 1919 telephone or city directory identifying Phone 260.
+3. Determine whether the printed location normalizes to **500 Main**, **500 Fifth**, or another period convention.
+4. Identify the exact 1918–1922 Post Office bay within 504–514 Main.
+5. Only then use `two doors south` as an exact storefront-counting constraint.

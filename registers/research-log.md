@@ -170,3 +170,9 @@ This was a repository-presence and preservation-control audit, not new historica
 - No same-hall/operator succession is inferred; A. Leland is not merged with O. H. Leland. No construction date is inferred from business occupancy.
 - Underlying **2 June 1920** Commission minutes remain a retrieval/manual follow-up. 1919 and 1920 remain **IN PROGRESS**; the bounded OCR pass and these targeted visual pages do not certify either year.
 - Detailed capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.
+
+### 2026-08-31 — 1 August 1919 cleaner/new-Post-Office scan verified
+- Preserved original *Oregon City Enterprise*, 1 Aug 1919 p. 7 PDF under `newspapers/oregon-city-enterprise/` and directly inspected a high-resolution render.
+- Promoted the former OCR-only lead to `S-151` / `E-136`: the classified genuinely prints **`500 Fifth and Main streets, two doors south of new post office. Phone 260`**.
+- No business name is printed. The number is not normalized to 500 Main or 500 Fifth, and the advertiser is not merged with 1918 Pantorium (500 Main / Phone 185-J).
+- Added the verified relative-location anchor to the 1918–1922 Post Office reconstruction. Exact postal bay and advertiser identity remain open.

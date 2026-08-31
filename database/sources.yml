@@ -749,3 +749,8 @@ sources:
     name: Oregon City Enterprise 1920 Fifth–Sixth Main pool-hall source set
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-06-04/ed-1/seq-3.pdf
     notes: Primary newspaper scans visually verified 31 August 2026. February identifies Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth; June reports the City Council granted A. Leland permission to operate a pool hall at 505½ Main and erect an electric street sign; December again mentions a pool hall in the block. Same-hall succession and construction date are not proved. Related evidence E-135; full provenance and limits in evidence/source-register.md and the 1920 visual-verification capture.
+
+  - id: S-151
+    name: Oregon City Enterprise, 1 August 1919, page 7 cleaner/dyer classified
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf
+    notes: Primary newspaper scan visually verified 31 August 2026. Classified prints clothes cleaning/pressing/dyeing, the unusual location wording `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260. No business name is printed; do not normalize the address or merge with Pantorium without an independent bridge. Related evidence E-136.

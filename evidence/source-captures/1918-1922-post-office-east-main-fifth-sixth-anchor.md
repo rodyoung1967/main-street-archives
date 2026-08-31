@@ -55,6 +55,19 @@ The combination of the 1918 newspaper and later City inventory strongly identifi
 
 The exact postal-service bay within 504–514 is still unresolved. Do not assign the Post Office to 504, 506, 508, 510, 512, or 514 without a direct directory, lease, advertisement, photograph, or other source.
 
+## 1 August 1919 — unnamed cleaner/dyer two doors south of the new Post Office
+
+The actual **Oregon City Enterprise, 1 Aug 1919, p. 7** scan has now been visually inspected (`S-151` / `E-136`). A separate classified directly prints:
+
+- **Clothes cleaned, pressed and dyed**;
+- **`500 Fifth and Main streets`**;
+- **`two doors south of new post office`**;
+- **Phone 260**.
+
+The printed `500` is genuine, but the unusual location wording is **not** normalized to 500 Main or 500 Fifth. The advertiser is unnamed. A 1918 Pantorium listing at 500 Main uses a different phone number (185-J), so no identity bridge is assumed.
+
+Spatially, this confirms that by August 1919 the relocated post-1918 office was locally described as the **new post office** and that an active cleaning/dyeing premises stood two doors south of it. If future evidence proves that the 1919 line means 500 Main and that `two doors` counts adjacent Main storefronts literally, it may help identify the exact postal bay within 504–514. Until then, the exact Post Office number remains unresolved.
+
 ## 8 June 1922 — two visually verified spatial anchors
 
 The actual scan of **Banner-Courier, 8 Jun 1922, p. 10** has been visually inspected.
