@@ -1,0 +1,62 @@
+name: Summarize 1918-1920 transition candidates
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/summarize-1918-1920-candidates.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Build compact candidate index
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          src = Path('evidence/source-captures/1918-1920-505-transition-ocr-discovery.json')
+          out = Path('evidence/source-captures/1918-1920-505-transition-candidate-index.md')
+          data = json.loads(src.read_text())
+          lines = [
+              '# 1918–1920 Enterprise transition OCR candidate index',
+              '',
+              'Status: **COMPACT INDEX OF OCR DISCOVERY HITS — not historical evidence by itself**',
+              '',
+              f"Source inventory: `{src}`; {len(data['hits'])} candidate pages from {data['page_count']} OCR pages.",
+              '',
+              '| # | Date | Page | Match groups |',
+              '|---:|---|---:|---|',
+          ]
+          for i, h in enumerate(data['hits'], 1):
+              groups = ', '.join(h['groups'])
+              lines.append(f"| {i} | {h['date']} | {h['seq']} | {groups} |")
+          lines += ['', 'Use the full JSON/Markdown discovery capture for OCR snippets. Every candidate requires page-image review before promotion.']
+          out.write_text('\n'.join(lines) + '\n')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit candidate index
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/summarize-1918-1920-candidates.yml
+          git add -A
+          git commit -m "Index 1918-1920 transition OCR candidates"
+          git pull --rebase origin main
+          git push origin HEAD:main
