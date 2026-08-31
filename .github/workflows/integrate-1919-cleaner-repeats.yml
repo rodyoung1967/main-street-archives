@@ -23,6 +23,9 @@ jobs:
       - name: Integrate cleaner repeat set
         run: python3 scripts/integrate_1919_cleaner_repeats.py
 
+      - name: Normalize S-152 mirror name
+        run: sed -i 's/name: Oregon City Enterprise 1919 cleaner\/dyer repeat advertisement set/name: Oregon City Enterprise, 1919 cleaner\/dyer repeat advertisement set/' database/sources.yml
+
       - name: Validate archive
         run: python3 scripts/validate_archive.py
 
