@@ -102,10 +102,10 @@ Source/location: ChatGPT upload - 1900-13 (5th)(1).pdf
 Related evidence: `E-020`
 Notes: May 1900 Sanborn sheet 13. Related map SM-006.
 
-## S-020 — 1911 Sanborn, 5th Area
-Source/location: ChatGPT upload - 1911-22 (5th)(1).pdf
+## S-020 — 1911 Sanborn Sheet 22, Canemah
+Source/location: `maps/sanborn/originals/1911-22 (5th).pdf`; original upload filename `1911-22 (5th)(1).pdf`
 Related evidence: `E-020`
-Notes: November 1911 Sanborn sheet 22. Related map SM-007.
+Notes: November 1911 Sanborn sheet 22. Direct visual review shows the Canemah Water/Main/Center/Hill/Washington area, not the downtown 501/503/505/507 Main frontage. A newly supplied file named `1911-22 (5th)(2).pdf` is an exact byte duplicate of the canonical repository PDF (SHA-256 `2b897a9bcbd69c9a1bb300130b59de987fc7fdad34f6fd129cb22fe080931e45`), so no duplicate binary was committed. Related map SM-007.
 
 ## S-021 — 1925 Sanborn, 5th Area
 Source/location: https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF

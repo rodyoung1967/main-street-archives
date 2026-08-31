@@ -67,15 +67,16 @@ This register records Sanborn map sheets committed for the Main Street Archive. 
 - Use: Key comparison point before the 1911 and 1925 maps for building footprint changes around Main and 5th.
 - Archive status: `committed` — binary PDF is committed to the repository at the path above.
 
-## SM-007 — 1911 Sanborn, 5th Area
+## SM-007 — 1911 Sanborn Sheet 22, Canemah
 
 - Source ID: `S-020`
 - Repository file: `maps/sanborn/originals/1911-22 (5th).pdf`
 - Original upload filename: `1911-22 (5th)(1).pdf`
+- Duplicate supplied filename: `1911-22 (5th)(2).pdf` (received 31 August 2026; exact byte duplicate of the canonical PDF; SHA-256 `2b897a9bcbd69c9a1bb300130b59de987fc7fdad34f6fd129cb22fe080931e45`)
 - Date: November 1911
 - Sheet: 22
 - Coverage: Oregon City / Canemah, Water/Main/Center/Hill/Washington area.
-- Use: Important pre-1919 comparison sheet. It appears to cover a different 5th/center area than the later Main/Water commercial-block sheets, so use carefully when comparing directly to 503/505.
+- Use: Geographic control only. Direct visual review confirms this is the Canemah Water/Main/Center/Hill/Washington sheet, not the downtown 501/503/505/507 Main frontage. Do not use it for target-building or occupancy conclusions.
 - Archive status: `committed` — binary PDF is committed to the repository at the path above.
 
 ## SM-008 — 1925 Sanborn, 5th Area

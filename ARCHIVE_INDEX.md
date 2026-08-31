@@ -199,7 +199,7 @@ Primary file: `maps/sanborn-map-register.md`
 - `SM-004` 1890 Sanborn, 5th area — `S-017`
 - `SM-005` 1892 Sanborn, 5th area — `S-018`
 - `SM-006` 1900 Sanborn, 5th area — `S-019`
-- `SM-007` 1911 Sanborn, 5th area — `S-020`
+- `SM-007` 1911 Sanborn Sheet 22, Canemah — `S-020` (geographic control; not the downtown target frontage)
 - `SM-008` 1925 Sanborn, 5th area — `S-021`
 - `SM-009` 1950 Sanborn, 5th area — `S-022`
 

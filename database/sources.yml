@@ -95,9 +95,9 @@ sources:
     notes: May 1900 Sanborn sheet 13. Related map SM-006.
 
   - id: S-020
-    name: 1911 Sanborn, 5th Area
-    url: ChatGPT upload - 1911-22 (5th)(1).pdf
-    notes: November 1911 Sanborn sheet 22. Related map SM-007.
+    name: 1911 Sanborn Sheet 22, Canemah
+    url: maps/sanborn/originals/1911-22 (5th).pdf; original upload filename 1911-22 (5th)(1).pdf
+    notes: November 1911 Sanborn sheet 22. Direct visual review shows the Canemah Water/Main/Center/Hill/Washington area, not the downtown 501/503/505/507 Main frontage. The 31 August 2026 upload 1911-22 (5th)(2).pdf is an exact byte duplicate of the canonical PDF (SHA-256 2b897a9bcbd69c9a1bb300130b59de987fc7fdad34f6fd129cb22fe080931e45), so no duplicate binary was committed. Related map SM-007.
 
   - id: S-021
     name: 1925 Sanborn, 5th Area

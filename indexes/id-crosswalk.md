@@ -45,7 +45,7 @@ This file connects the archive's ID systems so related records can be audited wi
 | `SM-004` 1890 Sanborn | `S-017` | `maps/sanborn/originals/1890-02 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
 | `SM-005` 1892 Sanborn | `S-018` | `maps/sanborn/originals/1892-03 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
 | `SM-006` 1900 Sanborn | `S-019` | `maps/sanborn/originals/1900-13 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | `B-001`, `B-002`, `B-003` |
-| `SM-007` 1911 Sanborn | `S-020` | `maps/sanborn/originals/1911-22 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | Use carefully; may cover a different 5th/Center context |
+| `SM-007` 1911 Sanborn Sheet 22, Canemah | `S-020` | `maps/sanborn/originals/1911-22 (5th).pdf` | `E-020`, `maps/sanborn-comparison-503-505-507.md` | Geographic control only; visually confirmed not to cover the downtown 501/503/505/507 frontage |
 | `SM-008` 1925 Sanborn | `S-021` | `maps/sanborn/originals/1925-6 (5th).pdf` | `E-020`, `evidence/sanborn-1925-1950-evidence.md` | `B-001`, `B-002`, `B-005`; separate 501 store, 503 restaurant, and 505 billiards/cigars uses established; tenants and continuity open |
 | `SM-009` 1950 Sanborn | `S-022` | `maps/sanborn/originals/1950-6 (5th).pdf` | `E-020`, `E-102`, `evidence/sanborn-1925-1950-evidence.md` | `B-001`, `B-002`, `B-003` |
 | Aerial photocompare 1929–2025 | `S-023` | `media/photos/aerials/` (`IMG-0006`–`IMG-0043`) | `E-021`, `evidence/aerial-5th-main-photocompare-series.md` | `B-001`, `B-002`, `B-003`; `OQ-005`, `OQ-023` |
