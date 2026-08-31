@@ -24,6 +24,18 @@ Downloaded and searched OCR for all available issues/pages in this bounded corpu
 
 This was an OCR discovery pass, not a page-by-page visual annual review. It does not complete or certify either year. Both years remain **IN PROGRESS** under `RESEARCH-STANDARD.md`.
 
+## Banner-Courier successor-title gap — manual callout
+
+A separate reproducible probe of *The Banner-Courier* for **July 1919 through December 1920** found **0 online issues / 0 OCR pages** at the Historic Oregon Newspapers title endpoint. Institutional holdings explain the result:
+
+- *The Banner-Courier* began in 1919, but the Historic Oregon Newspapers digitized run available under LCCN `sn00063699` begins in **1922**.
+- Oregon City Public Library explicitly holds **Oregon City Banner Courier microfilm from 17 July 1919 through 28 February 1950**.
+- The library also lists the **Oregon City Council and Commission Proceeding Index, 6 August 1850 through 26 June 1978**.
+
+Therefore the successor-title interval containing the critical 1919–1920 construction window is a **MANUAL MICROFILM CALLOUT**, not negative evidence and not an online OCR omission. See `evidence/source-captures/1919-1920-banner-courier-ocr-discovery.md` and its JSON inventory.
+
+Manual Banner-Courier priorities: Wolf & Miller exit/succession; Clem Dollar; A. Leland; 505/505½ Main; 501/503/505 construction/demolition/remodel/lease language; and Fifth–Sixth Main/Harding/Post Office relative-location advertisements.
+
 ## Visual verification completed
 
 The three preserved Enterprise pages have now been directly inspected. Full transcription/context and limits are in `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md` (`S-150` / `E-135`).
@@ -44,23 +56,25 @@ The three preserved Enterprise pages have now been directly inspected. Full tran
 
 ## Municipal-record retrieval status
 
-The City of Oregon City historical meeting archive indicates that Commission records exist for the 1920s. The underlying **Wednesday, 2 June 1920** council/Commission record corresponding to the Enterprise report has not yet been recovered in the present web/tool environment. This is a **retrieval gap/manual follow-up**, not negative evidence.
+The City of Oregon City historical meeting archive indicates that Commission records exist for the 1920s. The underlying **Wednesday, 2 June 1920** council/Commission record corresponding to the Enterprise report has not yet been recovered in the present web/tool environment. Oregon City Public Library's microfilm inventory independently confirms a Council and Commission Proceeding Index spanning this date. This remains a **retrieval gap/manual follow-up**, not negative evidence.
 
 ## Current interpretation
 
-- The bounded OCR pass plus targeted follow-up has not produced a 1919-1920 newspaper notice explicitly saying that 503 or 505 was demolished, rebuilt, enlarged, or replaced. This is search status only, **not evidence that no such work occurred**.
+- The bounded online OCR pass plus targeted follow-up has not produced a 1919-1920 newspaper notice explicitly saying that 503 or 505 was demolished, rebuilt, enlarged, or replaced. This is search status only, **not evidence that no such work occurred**; the unavailable-online Banner-Courier run is a material manual gap.
 - The June 1920 page now directly establishes a usable/business premises at **505½ Main**. It narrows the occupancy chronology between Wolf & Miller at 505 in October 1918 (`E-027`) and Dr. Freeze at 505/505½ in 1921–1922 (`E-028`).
 - The February Clem Dollar hall and December block-located hall are also visually verified, but no evidence yet proves that either was the same hall as A. Leland's 505½ premises or that one operator succeeded another.
-- No direct 1919-1920 exact-number occupant for **503 Main** has yet been established in this pass.
+- No direct 1919-1920 exact-number occupant for **503 Main** has yet been established in the online pass.
 - The 1911→1925 footprint change remains real, but the exact demolition/rebuild date for the surviving 503 and 505 structures remains unresolved.
 
 ## Resume point
 
-1. Recover and inspect the **2 June 1920** Oregon City Commission minutes, including any permit, sign, room, owner, or building-work wording attached to A. Leland's application.
-2. Search late 1918 through June 1920 for Wolf & Miller exit/sale, Clem Dollar, A. Leland, lease/license/sign, construction, demolition, remodeling, and relocation language tied to 505/505½ or the Fifth–Sixth Main block.
-3. Identify **A. Leland** independently before considering any relationship to **O. H. Leland**, Timms Pool Hall, or Leland & Little.
-4. Continue primary permit/assessor/deed/improvement-record work for the c.1919/c.1920 construction estimates; do not substitute modern listing dates for construction proof.
-5. Continue annual visual-review work separately. This targeted source set does not advance 1919 or 1920 to ONLINE COMPLETE.
+1. Recover and inspect the **2 June 1920** Oregon City Council/Commission record, including any permit, sign, room, owner, or building-work wording attached to A. Leland's application. Use the library's Council/Commission Proceeding Index if the current City online record migration continues to block the document.
+2. **MANUAL:** inspect *Oregon City Banner Courier* microfilm from **17 July 1919 through December 1920**, prioritizing Wolf & Miller, Clem Dollar, A. Leland, 505/505½ Main, construction/demolition/remodel/lease/sign language, and Fifth–Sixth Main relative-location notices.
+3. Continue the available *Enterprise* search for late 1918 through June 1920 Wolf & Miller exit/sale, Clem Dollar, A. Leland, lease/license/sign, construction, demolition, remodeling, and relocation language tied to 505/505½ or the Fifth–Sixth Main block.
+4. Identify **A. Leland** independently before considering any relationship to **O. H. Leland**, Timms Pool Hall, or Leland & Little.
+5. Visually resolve the **1 August 1919 Enterprise page 7** cleaner/dyer advertisement currently preserved as an OCR-only lead; its “two doors south of new post office” wording may sharpen storefront geometry, but the advertiser and exact address remain unproved until the scan is read.
+6. Continue primary permit/assessor/deed/improvement-record work for the c.1919/c.1920 construction estimates; do not substitute modern listing dates for construction proof.
+7. Continue annual visual-review work separately. This targeted source set does not advance 1919 or 1920 to ONLINE COMPLETE.
 
 ## File integrity
 
