@@ -2,6 +2,8 @@
 
 This is the canonical photo-source area for The Main Street Archive.
 
+The [definitive repository photograph inventory](inventory.md) records the current count, each street-level photograph, the supplied-file reconciliation, missing/external items, and the storage decision. The 38 aerials are itemized separately in [`aerials/README.md`](aerials/README.md).
+
 ## Suggested Organization
 
 ```text

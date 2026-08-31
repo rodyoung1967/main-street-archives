@@ -9,6 +9,8 @@ This register records image and photo-metadata items that have been discussed or
 - `external` means the file intentionally remains outside the repository.
 - `Time Capsule Maps metadata` is a trusted internal project source because Rodney Young is Time Capsule Maps, but original photo/source details should still be captured when making external historical claims.
 
+Repository audit, 31 August 2026: **69 raster files are committed and all 69 are recorded here by exact repository path.** Forty-two are photographs/aerials under `media/photos/`; the other 27 are source-document images kept with their newspapers, records, maps, or artifacts. No byte-identical raster duplicates were found. All three recent steward-supplied historical JPEGs are exact byte matches to `IMG-0723`–`IMG-0725`. See the [definitive photograph inventory](photos/inventory.md).
+
 ## IMG-0001 — New Kwality Cafe Matchbook
 
 - Artifact ID: `A-001`
@@ -53,7 +55,7 @@ This register records image and photo-metadata items that have been discussed or
 - Evidence: `E-015`
 - Source: `S-010`
 - Expected repo path if imported: `media/photos/503-main/the-wheel-503-main-505-tavern-adjacent.webp`
-- Status: `external` / Time Capsule Maps metadata; local repository import optional.
+- Status: `external` / Time Capsule Maps metadata; no steward-supplied original binary is currently present. If one is supplied later, preserve it under the project photo-ingest rule unless it duplicates an existing file or an exclusion is documented.
 - Title / label: "The Wheel: 503 Main St, Oregon City, OR"
 - Location note: The metadata places The Wheel at 503 Main Street and states that 505 Tavern is to the right at 505 Main Street.
 - Confidence: Trusted internal Time Capsule Maps metadata for what was entered and maintained there; original image source/date should still be recorded when available.
@@ -65,7 +67,7 @@ This register records image and photo-metadata items that have been discussed or
 - Evidence: `E-015`, `E-017`
 - Source: `S-010`
 - Expected repo path if imported: `media/photos/main-street-block/5th-mcloughlin-us99e-main-street-oregon-city-circa-1910.webp`
-- Status: `external` / Time Capsule Maps metadata; local repository import optional.
+- Status: `external` / Time Capsule Maps metadata; no steward-supplied original binary is currently present. If one is supplied later, preserve it under the project photo-ingest rule unless it duplicates an existing file or an exclusion is documented.
 - Date: Approximate, labelled 1910 in the filename/metadata.
 - Location: 5th Street / McLoughlin Boulevard / US99E and Main Street, Oregon City.
 - Key metadata claims:

@@ -12,6 +12,8 @@ media/photo-metadata-register.md
 
 Use that file for current media IDs, repository file paths, status values, and source/evidence links.
 
+For the definitive photograph-only inventory and supplied-file audit, use [`media/photos/inventory.md`](photos/inventory.md).
+
 ## Current High-Level Status
 
 | Media ID | Canonical record | Current file/status |

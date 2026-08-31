@@ -1,8 +1,10 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **source/provenance register established; four planned full-scene binaries are not yet imported through the current research environment; one isolated sign crop is preserved with unresolved provenance**
+Status: **four street-level files are committed (`IMG-0722`–`IMG-0725`); four additional public-source full scenes are planned but have not been imported**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
+
+The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`) and one provenance-unresolved crop (`IMG-0722`). See the [definitive repository photograph inventory](../inventory.md) for hashes, the 514/516 distinction, and repository-wide counts.
 
 ## Committed exact-address photograph
 
@@ -85,9 +87,9 @@ Gallery: https://www.clackamascountyfamilyhistory.org/photo-gallery
 
 These should be checked for resolution/back-of-card dating and whether they provide a better source scan than existing mirrors.
 
-## Binary import status
+## Planned external binary imports
 
-The current research environment can retrieve and verify the source pages and original-file URLs, but direct binary transfer from Wikimedia/Oregon City into the GitHub connector failed in this pass. Do **not** replace originals with screenshots solely to satisfy repository presence.
+These four public-source scenes were identified as research targets but were not supplied by the steward and are not currently committed. Do **not** replace originals with screenshots solely to satisfy repository presence.
 
 Planned repository paths once original binaries can be transferred:
 

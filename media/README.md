@@ -14,6 +14,8 @@ media/photo-metadata-register.md
 
 as the canonical image/media metadata register.
 
+Use [`media/photos/inventory.md`](photos/inventory.md) for the definitive inventory of committed photographs and aerials, the supplied-photo reconciliation, and the distinction between photographs and source scans stored elsewhere.
+
 `media/catalog.md` is retained only as a legacy navigation shim for older references. Do not add new canonical metadata there.
 
 ## Folder Structure

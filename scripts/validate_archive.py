@@ -58,6 +58,17 @@ ARTIFACT_REGISTER = ROOT / "artifacts" / "matchbooks.md"
 RECORDS_DIR = ROOT / "records"
 BUILDINGS_DIR = ROOT / "buildings"
 YEAR_STATUS_REGISTER = ROOT / "registers" / "year-status.md"
+PHOTO_METADATA_REGISTER = ROOT / "media" / "photo-metadata-register.md"
+
+RASTER_EXTENSIONS = {".gif", ".jpeg", ".jpg", ".png", ".tif", ".tiff", ".webp"}
+ALLOWED_RASTER_ROOTS = {
+    ("artifacts", "images"),
+    ("maps", "images"),
+    ("media", "photos"),
+    ("media", "screenshots"),
+    ("newspapers",),
+    ("records",),
+}
 
 YAML_FILES = {
     "people": ("P", ROOT / "database" / "people.yml", "people"),
@@ -552,6 +563,38 @@ def validate_media_catalog_crossrefs(known: dict[str, set[str]]) -> list[str]:
     return errors
 
 
+def validate_raster_inventory() -> list[str]:
+    """Require every committed raster to be registered and stored by source class."""
+    errors: list[str] = []
+    if not PHOTO_METADATA_REGISTER.exists():
+        return ["media/photo-metadata-register.md: missing canonical media register"]
+
+    register_text = read_text(PHOTO_METADATA_REGISTER)
+    for path in sorted(ROOT.rglob("*")):
+        if not path.is_file() or path.suffix.lower() not in RASTER_EXTENSIONS:
+            continue
+        if any(part in SKIP_SCAN_DIRS for part in path.parts):
+            continue
+
+        rel = path.relative_to(ROOT)
+        rel_posix = rel.as_posix()
+        if rel_posix not in register_text:
+            errors.append(
+                f"{rel_posix}: committed raster missing from media/photo-metadata-register.md"
+            )
+
+        parts = rel.parts
+        if not any(parts[: len(prefix)] == prefix for prefix in ALLOWED_RASTER_ROOTS):
+            errors.append(f"{rel_posix}: raster stored outside an approved source-class folder")
+
+        if parts[:2] == ("media", "photos") and not re.match(
+            r"^IMG-\d{4}[_-]", path.name
+        ):
+            errors.append(f"{rel_posix}: photo filename must begin with its IMG-#### ID")
+
+    return errors
+
+
 def main() -> int:
     errors: list[str] = []
 
@@ -584,6 +627,7 @@ def main() -> int:
     errors.extend(validate_oral_history_index_accuracy())
     errors.extend(validate_structured_mitch_young_labels())
     errors.extend(validate_media_catalog_crossrefs(known))
+    errors.extend(validate_raster_inventory())
     errors.extend(validate_year_status_register())
     errors.extend(validate_mirrored_names())
 

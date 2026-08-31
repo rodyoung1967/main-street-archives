@@ -149,3 +149,15 @@ This was a single-source integration, not a complete 1919 annual review. The 191
 - Added the project-wide preservation rule to `AGENTS.md`: steward-supplied photographs are committed unless already preserved as exact/substantive duplicates or a documented legal, safety, integrity or technical reason prevents retention; exclusions must be logged.
 
 This integration does not complete the 1880 or 1910 annual reviews. Both years retain their existing statuses.
+
+## 31 August 2026 — definitive photograph inventory and supplied-file audit
+
+- Counted every committed raster: **69 total**, comprising **42 photographs/aerials** under `media/photos/` and 27 source-document images retained under newspapers, records, maps, and artifacts.
+- Confirmed that every raster is recorded by exact path in `media/photo-metadata-register.md` and that no byte-identical raster duplicates exist.
+- SHA-256 compared the three recent steward-supplied historical JPEGs with `IMG-0723`–`IMG-0725`; all three repository files are exact byte matches.
+- Confirmed that the repository contains no photograph cataloged as **514 Main**. `IMG-0723` is the separately cataloged **516 Main** B. J. Staats Hardware snow photograph and must not be relabeled without new evidence.
+- Distinguished uncommitted items from missing supplied files: `IMG-0003` remains a pending screenshot, `IMG-0004` and `IMG-0005` remain external metadata without supplied originals, and four public-source early street scenes remain planned research imports.
+- Added `media/photos/inventory.md` as the definitive photograph-only inventory and corrected the stale early-photo README status.
+- Extended `scripts/validate_archive.py` so every committed raster must be registered, stored in an approved source-class tree, and, for photographs, named with its stable `IMG-####` ID.
+
+This was a repository-presence and preservation-control audit, not new historical research or an annual certification.

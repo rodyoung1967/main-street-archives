@@ -22,7 +22,7 @@ Important reading rule: **business ownership/operation and building ownership ar
 
 Latest 1922 targeted checkpoint: [Task 7 model test](evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) and [Task 8 handoff](evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md). Neither fire/boundary model is selected; 501 remains live. The handoff lists remaining online work and eight manual callouts; 1922 is explicitly **IN PROGRESS**. The [Tasks 5–6 identity audit](evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) (`E-113`, `S-125`–`S-127`) preserves the direct Springfield [Gilbert Miller](people/profiles/gilbert-miller.md) association and unmerged Wolf/Gates candidates.
 
-Latest repository-control checkpoints: [entity-page audit](registers/entity-page-audit-2026-08-29.md), [unified 501/503/505 timeline audit](registers/unified-address-timeline-audit-2026-08-30.md), and [evidence-control audit](registers/evidence-control-audit-2026-08-30.md).
+Latest repository-control checkpoints: [entity-page audit](registers/entity-page-audit-2026-08-29.md), [unified 501/503/505 timeline audit](registers/unified-address-timeline-audit-2026-08-30.md), [evidence-control audit](registers/evidence-control-audit-2026-08-30.md), and [definitive photograph inventory](media/photos/inventory.md).
 
 ### 501 Main Street (historic / removed)
 
