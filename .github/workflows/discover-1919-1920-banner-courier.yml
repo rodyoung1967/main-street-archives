@@ -1,0 +1,39 @@
+name: Discover 1919-1920 Banner-Courier OCR leads
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/discover-1919-1920-banner-courier.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Run bounded OCR discovery
+        run: python3 scripts/discover_1919_1920_banner_courier.py
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit discovery report
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/discover-1919-1920-banner-courier.yml
+          git add -A
+          git commit -m "Inventory Banner-Courier 1919-1920 OCR construction leads"
+          git pull --rebase origin main
+          git push origin HEAD:main
