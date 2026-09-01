@@ -20,6 +20,29 @@ jobs:
         run: git pull --rebase origin main
       - name: Run synchronized integration
         run: python3 scripts/integrate_1921_freeze_507half_505half_transition.py
+      - name: Normalize mirrored names
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          replacements = {
+              'database/sources.yml': (
+                  'name: Oregon City Enterprise Dr. Freeze March-April 1921 relocation source set',
+                  'name: Oregon City Enterprise, Dr. Freeze March–April 1921 relocation source set',
+              ),
+              'database/evidence.yml': (
+                  'name: Dr. Freeze relocation from 507½ to 505½ Main, March-April 1921',
+                  'name: Dr. Freeze relocation from 507½ to 505½ Main, March–April 1921',
+              ),
+          }
+          for rel, (old, new) in replacements.items():
+              p = Path(rel)
+              text = p.read_text(encoding='utf-8')
+              if new not in text:
+                  if old not in text:
+                      raise SystemExit(f'missing name anchor in {rel}')
+                  p.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration and remove one-time workflow
