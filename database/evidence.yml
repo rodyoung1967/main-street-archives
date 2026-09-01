@@ -2243,3 +2243,18 @@ evidence:
     related_sources: [S-157]
     related_buildings: []
     repository_file: evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md
+
+  - id: E-141
+    name: 1925 license-revenue and police-recordkeeping context
+    type: Primary municipal annual report; direct visual inspection
+    claims:
+      - Printed pp. 31–32 repeat the same combined Franchises and Licenses revenue of $6,576.91 for 1925 versus $7,897.49 for 1924, a $1,320.58 decrease. These are not two separate totals or a license-only breakdown.
+      - No payer names, license categories, premises, individual payments or business counts are supplied; the decrease proves no closure or target-occupant change.
+      - Printed p. 11 reports a permanent arrest/important-complaint record system and identification records. Two selling-without-license cases are counted, but no person, business, address or case date is identified.
+      - Underlying license account detail/receipts and police records are retrieval leads only; present survival, access and relevance to the target buildings remain unconfirmed.
+    confidence: Very High for printed aggregate amounts and recordkeeping description; no target entity or property event assigned.
+    related_sources: [S-157]
+    related_buildings: []
+    related_businesses: []
+    related_people: []
+    repository_file: evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md

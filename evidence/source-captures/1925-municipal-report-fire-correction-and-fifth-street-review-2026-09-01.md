@@ -2,6 +2,8 @@
 
 Review date: **1 September 2026**. Source `S-157`; evidence `E-139`, `E-140`.
 
+**Subsequent continuation completed:** the remaining 13 PDF pages have now been visually verified. Combined coverage is **22/22**, with the original file unchanged. See [remaining-page review and next retrieval targets](1925-municipal-report-remaining-pages-review-2026-09-01.md) and [page inventory](1925-municipal-report-page-review-2026-09-01.json). The initial nine-page scope below is retained as the history of this first pass, not the current pending count. Annual status remains **IN PROGRESS**.
+
 ## Result
 
 **The earlier April 18 / $2,500 Main-between-Fifth-and-Sixth fire lead was a conflation of three adjacent table rows.** Direct inspection of the scan establishes the relevant call as **30 April 1925, 6:15 a.m., approximately $15 damage, spark from chimney**. Neither a numbered premises nor a street side is given. It is not evidence that 501, 503 or 505 was substantially damaged, demolished or rebuilt.
@@ -20,7 +22,7 @@ City of Oregon City, *Report of the Municipal Activities for the Year 1925*. The
 
 ## Visual review coverage
 
-**Nine of 22 PDF pages visually inspected:** 2, 3, 4, 5, 7, 8, 9, 10 and 11. These contain printed p. 3, pp. 4–9 and pp. 12–21. The complete Fire Department section, printed pp. 13–15, was reviewed. PDF pages 1, 6 and 12–22 remain **PENDING** for full-report visual review. Retaining the whole PDF does not certify the whole report or the year as reviewed.
+**Initial pass: nine of 22 PDF pages visually inspected:** 2, 3, 4, 5, 7, 8, 9, 10 and 11. These contain printed p. 3, pp. 4–9 and pp. 12–21. The complete Fire Department section, printed pp. 13–15, was reviewed. PDF pages 1, 6 and 12–22 were **PENDING at this initial checkpoint**; the subsequent linked continuation completes them. Retaining a PDF alone never certifies visual review or annual completeness.
 
 | PDF scan page | Printed pages | Reviewed material |
 |---|---|---|
@@ -76,7 +78,7 @@ These statements describe records/work reported in 1925; **their present surviva
 
 ## Next bounded work
 
-- First finish the remaining **13 report scan pages**: PDF 1, 6 and 12–22. No repeated download is needed; the full file is retained.
+- **Now completed:** the remaining 13 report scan pages (PDF 1, 6 and 12–22); see the linked continuation. Continue with the external record targets below, not another review of the same report.
 - Pursue the April **30** event in local newspaper issues on/after that date, not April 18 on the basis of the withdrawn lead. Search exact named premises if a newspaper or fire log supplies them. No local 1925 newspaper account was recovered in this pass.
 - Use the receipt, inspection and engineering record targets above for the 1925 occupants and physical-history questions. Obtain authorization before submitting an institutional request or ordering a paid lookup; none has been sent.
 - The 2 June 1920 Leland minute and 1925 minute/license review remain open. The blocked Laserfiche export was not retried.

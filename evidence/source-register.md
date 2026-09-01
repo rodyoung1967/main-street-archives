@@ -1081,11 +1081,12 @@ Detailed access and limitation record: `evidence/source-captures/1924-1927-munic
 **1 September coverage cross-check:** `S-157` printed p. 7 reports 12 regular and 72 special meetings (84 total). Compare dates/contents to the 81 catalog entries; these are different units, not proof that exactly three meetings are missing. Inventory counts remain unchanged.
 
 ## S-157 — City of Oregon City, Report of Municipal Activities for 1925
-Type: Primary municipal annual report; transmittal dated **6 April 1926**. **VISUALLY VERIFIED TARGETED PAGES**, 1 September 2026.
+Type: Primary municipal annual report; transmittal dated **6 April 1926**. **VISUALLY VERIFIED — all 22 PDF pages**, two passes on 1 September 2026.
 Canonical PDF: https://www.orcity.org/DocumentCenter/View/6214/1925-Municipal-Activities-Report
 Repository original: `records/municipal/annual-reports/1925-municipal-activities-report.pdf`.
 Integrity: **23,815,229 bytes / 22 PDF scan pages**; SHA-256 `f4084308bd5cfe3fc460e2e5c3f99d59b9405f92da367e350d9cca8a5262d640`.
-Review scope: PDF **2, 3, 4, 5, 7, 8, 9, 10, 11** (printed p. 3, pp. 4–9 and pp. 12–21); includes the complete Fire Department section pp. 13–15 and Engineering section pp. 17–20. PDF **1, 6, 12–22 remain PENDING**; nine of 22 scan pages reviewed, not annual completion.
-Evidence: `E-139` (corrected April 30 Main/Fifth–Sixth fire; August 18 unnumbered Fifth flue call), `E-140` (Fifth paving High–Jackson).
+Review scope: all **22/22 PDF pages**. Initial pass covered **2, 3, 4, 5, 7, 8, 9, 10, 11**; continuation covered **1, 6, 12–22**, including the cover, financial schedules, illustrations, blank spread and printer imprint. No pending pages in this retained report; **1925 remains IN PROGRESS**. Per-page audit: `evidence/source-captures/1925-municipal-report-page-review-2026-09-01.json`.
+Evidence: `E-139` (corrected April 30 Main/Fifth–Sixth fire; August 18 unnumbered Fifth flue call), `E-140` (Fifth paving High–Jackson), `E-141` (combined franchise/license revenue and police recordkeeping; no named premises).
 Source capture: `evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md`.
+Continuation: `evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md`. Financial schedules are aggregate municipal accounts, not tenant lists or private-building permits. Auditor certificate dated January 23, 1926; printer credited as Oregon City Printing Co.; these are source-production metadata, not Main/Fifth entity-location claims.
 Notes: Original scan corrects the former April 18 / $2,500 conflation to **April 30, 6:15 a.m., approximately $15 damage**. No side/number/operator is supplied. General/Recorder/Health/Engineering sections supply precise retrieval leads for meeting reconciliation, duplicate receipts, lien cards, restaurant inspections and plans; current survival is unconfirmed. The full City PDF was downloaded independently of the blocked Laserfiche export, and is preserved without modification.

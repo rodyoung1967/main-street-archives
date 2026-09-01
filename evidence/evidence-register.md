@@ -1156,3 +1156,14 @@ Claims:
 - The Fifth item retrospectively says the earlier improvement was laid in **1903**, only **18 feet wide in the center**; the new work required **4,000 square yards of 3-inch black base**.
 - This is uphill street-surface work, not a Main-corner building project. Pavement and curb widths are not legal right-of-way widths; this supplies no 60-to-50-foot narrowing or target-storefront reconstruction evidence.
 Confidence: **Very High** for what the 1925 report states and the named segment; the 1903 description is retrospective. No numbered building or business is assigned.
+
+## E-141 — 1925 license-revenue and police-recordkeeping context
+Type: Primary municipal report; **VISUALLY VERIFIED** 1 September 2026.
+Source: `S-157`, printed p. 11 and pp. 31–32 (PDF pages 6, 16–17).
+Repository source capture: `evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md`.
+Claims:
+- The consolidated and general-fund operating statements each report the same combined **Franchises and Licenses** revenue: **1925 $6,576.91; 1924 $7,897.49; decrease $1,320.58**. Do not add these repeated totals or interpret them as pure business-license receipts; franchise and license amounts are not separated.
+- No payer names, premises, license categories, individual amounts or business counts are given. The decrease proves no closure, vacancy or target-occupant change.
+- The police narrative reports a permanent record system for arrests and important complaints, and identification records. Its annual table counts **two selling-without-license cases**, without names, addresses or case dates. No known Main/Fifth business or proprietor is implicated.
+- These identify retrieval leads for underlying license account detail/receipts and police records; their survival, accessibility and relevance to 501/503/505 remain unconfirmed.
+Confidence: **Very High** for printed aggregate amounts and recordkeeping description; **unresolved** for underlying record survival or target relevance. No building, business, person or property event is assigned.

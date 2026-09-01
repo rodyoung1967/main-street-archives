@@ -237,5 +237,6 @@ Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main 
 | --- | --- | --- |
 | `E-139` / `S-157` | `T-044`: 30 April fire; `T-045`: 18 August flue call | Main between Fifth and Sixth ($15), and unnumbered Fifth Street respectively. No street side, numbered premises, business or proprietor identified. April event appears in `B-005`/501, `B-001`/503 and `B-002`/505 timelines as **context only**; no building relationship is asserted in YAML. Supersedes the conflated April 18 / $2,500 lead. |
 | `E-140` / `S-157` | `T-046`: 1925 paving | Fifth from High to Jackson, uphill from Main. Pavement widths do not establish legal street-width change or target-building reconstruction. No numbered-building assignment. |
+| `E-141` / `S-157` | No property timeline event assigned | Citywide combined franchise/license revenue and police recordkeeping. Retrieval context only; no named payer, proprietor, premises or target construction event. Full report now 22/22 PDF pages visually reviewed, not annual completion. |
 
 Original report: `records/municipal/annual-reports/1925-municipal-activities-report.pdf`; exact visual coverage and retrieval leads in [review capture](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
