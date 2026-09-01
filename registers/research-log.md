@@ -211,3 +211,11 @@ This was a repository-presence and preservation-control audit, not new historica
 - Checked public scans, directory indexes and institutional routes; documented catalog retrieval failures separately from bounded no-match results. No readable 1924 directory surfaced.
 - Downloaded GFO's 30 June 2025 shelflist; visually inspected original PDF pages 567, 568 and 622 and preserved those three pages as an explicitly labeled excerpt under `records/library-catalogs/`. They list earlier statewide and later Oregon City directories, not the target 1924 volume.
 - Saved official contact routes and numbered manual targets in `evidence/source-captures/1924-oregon-city-directory-retrieval-review-2026-09-01.md`; synchronized `RL-018`, the `S-069` portion of `RL-021`, and the 1925–1926 business checkpoint. No inquiry sent, paid service ordered, or occupant/construction claim promoted. Annual review statuses unchanged.
+
+### 2026-09-01 — requested commit of resumed conversation summary
+
+- Fetched current `main` at `29f855f19d148bb0cfdb7e4844322f39a57fb60b` and reconciled the steward-supplied conversation summary from the earlier `ef2a431` checkpoint against the later integrated records.
+- Preserved the distinction between address use and structural continuity, the unresolved survey-date conflict, unmerged Leland identities, and primary-record retrieval priorities.
+- Explicitly superseded the old conversation's pending visual-review statements: all three preserved 1920 pages are already recorded as visually verified in `S-150` / `E-135`. The ODOT/2009-form construction-date conflict is also already registered; it is not a new discovery in this pass.
+- Linked the current construction, Freeze-transition, 1925–1926 business, and 1924 directory checkpoints in `evidence/source-captures/1919-1920-resume-summary-reconciliation-2026-09-01.md` and the archive index.
+- Documentation reconciliation only: no new archival review, source/evidence IDs, entity changes, or annual-status changes.

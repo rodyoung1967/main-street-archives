@@ -24,6 +24,8 @@ Latest 1922 targeted checkpoint: [Task 7 model test](evidence/source-captures/19
 
 Latest repository-control checkpoints: [entity-page audit](registers/entity-page-audit-2026-08-29.md), [unified 501/503/505 timeline audit](registers/unified-address-timeline-audit-2026-08-30.md), [evidence-control audit](registers/evidence-control-audit-2026-08-30.md), and [definitive photograph inventory](media/photos/inventory.md).
 
+1919–1925 research handoff: [1 September summary reconciliation](evidence/source-captures/1919-1920-resume-summary-reconciliation-2026-09-01.md) preserves the construction-date limits, supersedes the older conversation's pending-review status for the three now-verified 1920 pages, and links the current municipal, business-identification, and directory follow-ups.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)
