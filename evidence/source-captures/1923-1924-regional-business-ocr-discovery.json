@@ -1,0 +1,1954 @@
+{
+  "status": "OCR DISCOVERY ONLY — direct scan verification required",
+  "date_range": [
+    "1923-01-01",
+    "1924-12-31"
+  ],
+  "method": "Issue calendars and issue page lists inventoried; every exposed page OCR checked using bounded co-occurrence rules.",
+  "titles": {
+    "sn96088133": {
+      "title": "Eastern Clackamas News",
+      "issues": 104,
+      "pages": 424,
+      "years": {
+        "1923": 52,
+        "1924": 52
+      }
+    },
+    "sn97071044": {
+      "title": "Gresham Outlook",
+      "issues": 207,
+      "pages": 881,
+      "years": {
+        "1923": 103,
+        "1924": 104
+      }
+    },
+    "sn84006724": {
+      "title": "Hillsboro Argus",
+      "issues": 103,
+      "pages": 766,
+      "years": {
+        "1923": 52,
+        "1924": 51
+      }
+    },
+    "sn00063558": {
+      "title": "Mt. Scott Herald",
+      "issues": 16,
+      "pages": 64,
+      "years": {
+        "1923": 16,
+        "1924": 0
+      }
+    },
+    "sn98062568": {
+      "title": "The Advocate",
+      "issues": 81,
+      "pages": 336,
+      "years": {
+        "1923": 33,
+        "1924": 48
+      }
+    },
+    "sn90066132": {
+      "title": "Capital Journal",
+      "issues": 356,
+      "pages": 3406,
+      "years": {
+        "1923": 72,
+        "1924": 284
+      }
+    },
+    "sn85042470": {
+      "title": "Oregon Statesman",
+      "issues": 620,
+      "pages": 6219,
+      "years": {
+        "1923": 312,
+        "1924": 308
+      }
+    }
+  },
+  "issue_count": 1487,
+  "page_count": 12096,
+  "candidate_count": 100,
+  "candidates": [
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-06-01",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-06-01/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-06-01/ed-1/seq-9.pdf",
+      "score": 15,
+      "reasons": [
+        "address-trade-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-06-09",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-06-09/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-06-09/ed-1/seq-2.pdf",
+      "score": 15,
+      "reasons": [
+        "address-trade-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "cigars",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-12-25",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-12-25/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-12-25/ed-1/seq-11.pdf",
+      "score": 15,
+      "reasons": [
+        "address-trade-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "cigars",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-06-11",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-11/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-11/ed-1/seq-7.pdf",
+      "score": 15,
+      "reasons": [
+        "address-trade-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-01-09",
+      "edition": 1,
+      "seq": 13,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-01-09/ed-1/seq-13/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-01-09/ed-1/seq-13.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-02-13",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-13/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-13/ed-1/seq-5.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1923-02-13",
+      "edition": 1,
+      "seq": 8,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-13/ed-1/seq-8/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-13/ed-1/seq-8.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1923-03-22",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-03-22/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-03-22/ed-1/seq-2.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-04-05",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-05/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-05/ed-1/seq-3.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn98062568",
+      "title": "The Advocate",
+      "date": "1923-05-05",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn98062568/1923-05-05/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn98062568/1923-05-05/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "oregon_city",
+        "restaurant",
+        "timms",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-07-27",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-07-27/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-07-27/ed-1/seq-6.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "timms",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1923-11-01",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-11-01/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-11-01/ed-1/seq-3.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_main",
+        "freeze",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-01-23",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-01-23/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-01-23/ed-1/seq-5.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-02-19",
+      "edition": 1,
+      "seq": 8,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-02-19/ed-1/seq-8/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-02-19/ed-1/seq-8.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-03-08",
+      "edition": 1,
+      "seq": 12,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-08/ed-1/seq-12/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-08/ed-1/seq-12.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "freeze",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-03-11",
+      "edition": 1,
+      "seq": 8,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-11/ed-1/seq-8/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-11/ed-1/seq-8.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-25",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-25/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-25/ed-1/seq-2.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-05-22",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-05-22/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-05-22/ed-1/seq-6.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-22",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-22/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-22/ed-1/seq-3.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-07-26",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-07-26/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-07-26/ed-1/seq-3.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn84006724",
+      "title": "Hillsboro Argus",
+      "date": "1924-08-14",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1924-08-14/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1924-08-14/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-08-26",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-08-26/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-08-26/ed-1/seq-5.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-09-04",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-09-04/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-09-04/ed-1/seq-3.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-09-23",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-09-23/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-09-23/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-09-24",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-09-24/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-09-24/ed-1/seq-6.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-09-25",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-09-25/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-09-25/ed-1/seq-2.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-10-11",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-11/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-11/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-10-16",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-16/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-16/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-10-18",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-18/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-18/ed-1/seq-9.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-10-30",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-10-30/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-10-30/ed-1/seq-1.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "mcanulty_barry",
+        "oregon_city",
+        "pool_billiards",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-10-30",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-10-30/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-10-30/ed-1/seq-2.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-12-10",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-10/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-10/ed-1/seq-2.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "farr",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-12-28",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-28/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-28/ed-1/seq-5.pdf",
+      "score": 13,
+      "reasons": [
+        "name-oregon-city-context",
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "farr",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn00063558",
+      "title": "Mt. Scott Herald",
+      "date": "1923-01-12",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn00063558/1923-01-12/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn00063558/1923-01-12/ed-1/seq-3.pdf",
+      "score": 10,
+      "reasons": [
+        "address-trade-context"
+      ],
+      "groups": [
+        "address_505",
+        "cigars",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-11-13",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-11-13/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-11-13/ed-1/seq-4.pdf",
+      "score": 10,
+      "reasons": [
+        "address-trade-context"
+      ],
+      "groups": [
+        "address_505",
+        "cigars",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1923-03-20",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-03-20/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-03-20/ed-1/seq-3.pdf",
+      "score": 8,
+      "reasons": [
+        "name-oregon-city-context"
+      ],
+      "groups": [
+        "farr",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-02-25",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-02-25/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-02-25/ed-1/seq-4.pdf",
+      "score": 8,
+      "reasons": [
+        "name-oregon-city-context"
+      ],
+      "groups": [
+        "cigars",
+        "farr",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-11-17",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-17/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-17/ed-1/seq-7.pdf",
+      "score": 8,
+      "reasons": [
+        "name-oregon-city-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "oregon_city",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1923-01-04",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-01-04/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1923-01-04/ed-1/seq-4.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "cigars",
+        "fifth_main",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-04-22",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-22/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-22/ed-1/seq-5.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "oregon_city",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-03-06",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-06/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-06/ed-1/seq-4.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "fifth_main",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-03-13",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-13/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-13/ed-1/seq-4.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "cigars",
+        "fifth_main",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-03-20",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-20/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-20/ed-1/seq-4.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "cigars",
+        "fifth_main",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn96088133",
+      "title": "Eastern Clackamas News",
+      "date": "1924-03-27",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-27/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn96088133/1924-03-27/ed-1/seq-4.pdf",
+      "score": 6,
+      "reasons": [
+        "fifth-street-context"
+      ],
+      "groups": [
+        "cigars",
+        "fifth_main",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-01-19",
+      "edition": 1,
+      "seq": 10,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-01-19/ed-1/seq-10/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-01-19/ed-1/seq-10.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-02-02",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-02/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-02/ed-1/seq-5.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1923-02-12",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-12/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-12/ed-1/seq-5.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1923-02-21",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-21/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-02-21/ed-1/seq-3.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-02-23",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-23/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-23/ed-1/seq-4.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-02-25",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-25/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-02-25/ed-1/seq-1.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "kwality",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn84006724",
+      "title": "Hillsboro Argus",
+      "date": "1923-03-01",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1923-03-01/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1923-03-01/ed-1/seq-3.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1923-03-16",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-03-16/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1923-03-16/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-04-19",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-19/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-04-19/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-08-09",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-08-09/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-08-09/ed-1/seq-4.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-10-16",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-10-16/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-10-16/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-11-14",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-11-14/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-11-14/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1923-12-23",
+      "edition": 1,
+      "seq": 4,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-12-23/ed-1/seq-4/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1923-12-23/ed-1/seq-4.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-02-10",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-02-10/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-02-10/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-02-11",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-02-11/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-02-11/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "mcanulty_barry",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-03-12",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-12/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-12/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "fifth_address",
+        "oregon_city",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-03-19",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-19/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-03-19/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-03-22",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-03-22/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-03-22/ed-1/seq-6.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "farr",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn97071044",
+      "title": "Gresham Outlook",
+      "date": "1924-03-28",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn97071044/1924-03-28/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn97071044/1924-03-28/ed-1/seq-3.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-01",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-01/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-01/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-02",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-02/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-02/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-03",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-03/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-03/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-09",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-09/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-09/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-10",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-10/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-10/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-12",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-12/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-12/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-16",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-16/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-16/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-18",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-18/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-18/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-04-22",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-22/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-04-22/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-01",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-01/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-01/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-02",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-02/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-02/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-17",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-17/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-17/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "mcanulty_barry",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-22",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-22/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-22/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "restaurant",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-26",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-26/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-26/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-27",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-27/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-27/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-28",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-28/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-28/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn84006724",
+      "title": "Hillsboro Argus",
+      "date": "1924-05-29",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1924-05-29/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1924-05-29/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-05-29",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-29/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-05-29/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-06-14",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-14/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-14/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "cigars",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-06-30",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-30/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-06-30/ed-1/seq-5.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-07-30",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-07-30/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-07-30/ed-1/seq-6.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_503",
+        "farr",
+        "restaurant",
+        "timms",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-10-07",
+      "edition": 1,
+      "seq": 1,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-07/ed-1/seq-1/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-07/ed-1/seq-1.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "jager",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-10-07",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-07/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-07/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-10-09",
+      "edition": 1,
+      "seq": 12,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-09/ed-1/seq-12/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-10-09/ed-1/seq-12.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-10-13",
+      "edition": 1,
+      "seq": 7,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-13/ed-1/seq-7/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-13/ed-1/seq-7.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-10-17",
+      "edition": 1,
+      "seq": 11,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-17/ed-1/seq-11/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-10-17/ed-1/seq-11.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-11-15",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-15/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-15/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-11-24",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-24/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-24/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "fifth_address",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-11-25",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-25/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-25/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-11-26",
+      "edition": 1,
+      "seq": 9,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-26/ed-1/seq-9/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-11-26/ed-1/seq-9.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "fifth_address",
+        "restaurant",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-12-03",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-03/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-03/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-12-17",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-17/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-17/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-12-18",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-18/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-18/ed-1/seq-6.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "address_505",
+        "jager",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-12-24",
+      "edition": 1,
+      "seq": 2,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-24/ed-1/seq-2/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-24/ed-1/seq-2.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "cigars",
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-12-25",
+      "edition": 1,
+      "seq": 3,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-25/ed-1/seq-3/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-25/ed-1/seq-3.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "transition"
+      ]
+    },
+    {
+      "lccn": "sn85042470",
+      "title": "Oregon Statesman",
+      "date": "1924-12-27",
+      "edition": 1,
+      "seq": 6,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-27/ed-1/seq-6/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn85042470/1924-12-27/ed-1/seq-6.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "oregon_city",
+        "transition",
+        "wheeler"
+      ]
+    },
+    {
+      "lccn": "sn90066132",
+      "title": "Capital Journal",
+      "date": "1924-12-27",
+      "edition": 1,
+      "seq": 5,
+      "ocr_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-27/ed-1/seq-5/ocr.txt",
+      "pdf_url": "https://oregonnews.uoregon.edu/lccn/sn90066132/1924-12-27/ed-1/seq-5.pdf",
+      "score": 5,
+      "reasons": [
+        "business-transition-context"
+      ],
+      "groups": [
+        "farr",
+        "freeze",
+        "transition"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "stage": "ocr",
+      "lccn": "sn84006724",
+      "day": "1924-06-05",
+      "edition": 1,
+      "seq": 8,
+      "status": "missing-or-invalid",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn84006724/1924-06-05/ed-1/seq-8/ocr.txt"
+    }
+  ],
+  "raw_candidate_count": 750,
+  "candidate_selection": "Score at least 10, or Farr, exact-name, or Fifth Street match group."
+}

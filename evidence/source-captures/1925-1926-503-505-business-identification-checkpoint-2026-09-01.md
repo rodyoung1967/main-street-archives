@@ -49,6 +49,18 @@ The public Historic Oregon Newspapers calendar views checked for the following l
 
 This is a statement about the checked online interface, **not evidence that the newspapers did not publish or that no relevant article exists**. The city synthesis's claimed 1926 Kwality advertisements should be pursued on Oregon City Public Library microfilm or in the municipal historic-resource research file.
 
+## 1923–1924 regional newspaper bridge search
+
+A follow-up online pass inventoried **1,487 issues / 12,096 OCR pages** across seven exposed regional titles for 1923–1924. OCR was used only to identify candidate scans. Exact-name-like and strongest Oregon City-context candidates were then visually checked.
+
+The scan review found only unrelated Farr personal/news references, an ordinary “quality” OCR error, `Jager` errors produced by **Manager Harris** and **Hager**, and Fifth Street references in Salem or Estacada. It produced no address-specific bridge for Farr's at 505, Kwality at 503, or another Oregon City Fifth Street premise. One failed OCR endpoint was resolved by direct inspection of the available page PDF and is not a missing-scan gap.
+
+This narrows the online lead set but does **not** identify either May 1925 occupant and does **not** establish business absence. See:
+
+- `1923-1924-regional-business-ocr-discovery.md`
+- `1923-1924-regional-business-candidate-review-2026-09-01.md`
+- `1923-1924-regional-business-ocr-discovery.json`
+
 ## Municipal Activities Reports checked
 
 Official city source page:
@@ -86,7 +98,7 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 ## Highest-value next retrievals
 
 1. Recover and visually inspect the **1926 Kwality Restaurant advertisement(s)** cited by the City inventory, recording date, title, page, address, proprietor, and exact trade name.
-2. Review **1925–1926 Banner-Courier and Enterprise microfilm**, especially advertisements, licenses, business sales, relocations, pool/billiard notices, restaurant notices, and the days following the 18 April 1925 fire.
+2. Review **1923–1926 Banner-Courier and Enterprise microfilm**, especially advertisements, licenses, business sales, relocations, pool/billiard notices, restaurant notices, and the days following the 18 April 1925 fire.
 3. Inspect the **1924 Oregon City directory** and any 1925–1927 Polk, telephone, or business directories for the address ladder at 501–511 Main and alphabetical entries for Farr, Kwality, Leland, Little, Timms, and Jager.
 4. Inspect municipal restaurant, billiard/pool-hall, cigar, soft-drink, sign, and business-license ledgers and council/commission minutes for 1924–1927.
 5. Retrieve the underlying 503 and Farr residence historic-resource research files, bibliographies, field notes, and newspaper citations.
@@ -96,4 +108,3 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 
 - **503 in May 1925:** restaurant; business name and operator unresolved. **Kwality Restaurant by 1926** is reported by the official City synthesis, with the underlying advertisement still needed.
 - **505 in May 1925:** billiards/cigars; business name and operator unresolved. **Farr's Pool Hall at 505** is independently confirmed at an undetermined date, but has not been bridged to May 1925.
-
