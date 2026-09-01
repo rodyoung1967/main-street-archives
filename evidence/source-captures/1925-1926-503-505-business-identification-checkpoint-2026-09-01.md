@@ -97,6 +97,8 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 
 ## Highest-value next retrievals
 
+**Municipal continuation, 1 September 2026:** The new Laserfiche catalog is reachable by folder browsing and Advanced Name search. Saved an 81-entry / 159-listed-page 1925 inventory, not completed scan coverage. Six separately retrieved May 1927 pages were visually reviewed without identifying the target occupants; Commissioner Farr is not linked to the pool hall. The export test hit a browser URL-policy restriction and was stopped. See [working route and precise next batches](1924-1927-municipal-minutes-access-review-2026-09-01.md). The two occupant questions below remain open.
+
 **1924 directory follow-up, 1 September 2026:** The NPS bibliography citation was visually reverified and its original PDF preserved, but no readable 1924 directory or confirmed current holding was located. No occupant claim changed. See `1924-oregon-city-directory-retrieval-review-2026-09-01.md` for exact institutional routes and numbered manual work; requests remain unsent.
 
 1. Recover and visually inspect the **1926 Kwality Restaurant advertisement(s)** cited by the City inventory, recording date, title, page, address, proprietor, and exact trade name.

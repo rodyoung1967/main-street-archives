@@ -1058,3 +1058,22 @@ Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-09-07/ed-1/se
 Related evidence: `E-138`; related earlier evidence: `E-085`, `E-092`; later comparison: `E-137`.
 Repository source capture: `evidence/source-captures/1912-09-07-willamette-building-over-harding-drug-store.md`.
 Notes: Direct scan review proves a Spirella Corsets advertisement for Mrs. Adalyn Davis stating **“Willamette Bldg., Room 4, Over Harding Drug Store.”** The page does not print a Main Street number in this advertisement. The source therefore establishes a 1912 vertical/building-name relationship but does not equate the Willamette Building with 507 alone or alter Harding's separately verified 511 Main business address. PDF SHA-256: `fa70ac7e96fb6ca9bf6fb7bccca9d350614ece348fc0fb21e7480b342bc550bb`.
+
+## S-155 — Oregon City Commission, selected May 1927 minute scans
+Type: Primary municipal minute scans; **VISUALLY VERIFIED** six-page bounded set, 1 September 2026.
+Canonical City PDFs:
+- https://www.orcity.org/DocumentCenter/View/9617/1927-05-11-City-Commission-Minutes-Ordinance-No-1152pdf
+- https://www.orcity.org/DocumentCenter/View/9615/1927-05-23-City-Commission-Minutes-Ordinance-No-1152-second-readingpdf
+Repository originals: `records/municipal/commission-minutes/1927-05-11-pages-322-325.pdf` and `records/municipal/commission-minutes/1927-05-23-pages-328-329.pdf`.
+Scope: printed pp. 322–325 and 328–329. Includes May 11 and May 23 material plus incomplete portions of May 16 and May 18; not a review of the whole month/year.
+Source capture, provenance, original URL filenames, SHA-256 and page notes: `evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md`.
+Notes: Elevator Street / Block 34 boundary business and Water Street work near Fifth/Sixth do not establish 503/505 ownership, occupants or construction. Commissioner Farr is not equated with the pool-hall proprietor. No new target claim-level evidence ID assigned.
+
+## S-156 — Oregon City Laserfiche, 1925 City Commission catalog inventory
+Type: Official digital catalog metadata; captured 1 September 2026. **PENDING** scan review except January 6 **OCR/TEXT ONLY**; **zero 1925 pages visually verified in this pass**.
+Portal: https://portal.laserfiche.com/Portal/Welcome.aspx?repo=r-5a2dbf36
+Route: Browse → City Recorder → Public Meeting Records → City Commission; Advanced Name search `1925*City Commission*`.
+Inventory: `evidence/source-captures/1925-city-commission-minute-inventory-2026-09-01.json`.
+Coverage: all five result pages, **81 entries / 159 listed scan pages**, with legacy record and URI identifiers. Counts are not deduplicated physical ledger pages and do not certify survival/completeness of all meetings.
+January 6 locator: current document ID `386870`, legacy `OCRD/16/2839`, `OR_4794934`; one listed page, OCR readable, scan/export not completed. A browser URL-policy block stopped the export route; no PDF retained for this entry.
+Detailed access and limitation record: `evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md`. No historical occupant/construction claim is promoted from the catalog or OCR.

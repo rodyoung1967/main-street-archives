@@ -1,0 +1,666 @@
+{
+  "capture_date": "2026-09-01",
+  "source_id": "S-156",
+  "repository_baseline": "29f855f19d148bb0cfdb7e4844322f39a57fb60b",
+  "portal": "https://portal.laserfiche.com/Portal/Welcome.aspx?repo=r-5a2dbf36",
+  "folder_path": [
+    "City Recorder",
+    "Public Meeting Records",
+    "City Commission"
+  ],
+  "name_query": "1925*City Commission*",
+  "result_count": 81,
+  "listed_page_sum": 159,
+  "visually_verified_1925_pages": 0,
+  "caveat": "Catalog metadata only. Page sum is not deduplicated; adjacent meeting entries may share ledger pages. Not proof all meetings survive. January 6 OCR inspected; scan/export not completed.",
+  "entries": [
+    {
+      "legacy_record": "OCRD/16/2839",
+      "legacy_uri": "OR_4794934",
+      "name": "1925-01-06 City Commission Minutes",
+      "pages": 1,
+      "review_status": "OCR/TEXT ONLY",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/2840",
+      "legacy_uri": "OR_4794935",
+      "name": "1925-01-07 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3822",
+      "legacy_uri": "OR_4827696",
+      "name": "1925-01-12 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3914",
+      "legacy_uri": "OR_4827904",
+      "name": "1925-01-19 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3915",
+      "legacy_uri": "OR_4827905",
+      "name": "1925-01-21 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4101",
+      "legacy_uri": "OR_4833195",
+      "name": "1925-01-29 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3005",
+      "legacy_uri": "OR_4795115",
+      "name": "1925-02-02 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3006",
+      "legacy_uri": "OR_4795116",
+      "name": "1925-02-04 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3007",
+      "legacy_uri": "OR_4795117",
+      "name": "1925-02-07 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3008",
+      "legacy_uri": "OR_4795118",
+      "name": "1925-02-09 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4102",
+      "legacy_uri": "OR_4833196",
+      "name": "1925-02-16 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4127",
+      "legacy_uri": "OR_4833234",
+      "name": "1925-02-24 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4128",
+      "legacy_uri": "OR_4833235",
+      "name": "1925-02-26 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4129",
+      "legacy_uri": "OR_4833236",
+      "name": "1925-02-28 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3024",
+      "legacy_uri": "OR_4795150",
+      "name": "1925-03-04 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3025",
+      "legacy_uri": "OR_4795151",
+      "name": "1925-03-06 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4130",
+      "legacy_uri": "OR_4833237",
+      "name": "1925-03-11 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4131",
+      "legacy_uri": "OR_4833238",
+      "name": "1925-03-18 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4201",
+      "legacy_uri": "OR_4833312",
+      "name": "1925-03-25 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4202",
+      "legacy_uri": "OR_4833313",
+      "name": "1925-03-26 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3120",
+      "legacy_uri": "OR_4821259",
+      "name": "1925-04-01 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3121",
+      "legacy_uri": "OR_4821260",
+      "name": "1925-04-03 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3122",
+      "legacy_uri": "OR_4821261",
+      "name": "1925-04-06 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3123",
+      "legacy_uri": "OR_4821262",
+      "name": "1925-04-08 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4321",
+      "legacy_uri": "OR_4833439",
+      "name": "1925-04-10 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4322",
+      "legacy_uri": "OR_4833440",
+      "name": "1925-04-13 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4323",
+      "legacy_uri": "OR_4833441",
+      "name": "1925-04-17 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4324",
+      "legacy_uri": "OR_4833442",
+      "name": "1925-04-21 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4325",
+      "legacy_uri": "OR_4833443",
+      "name": "1925-04-23 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4326",
+      "legacy_uri": "OR_4833444",
+      "name": "1925-04-27 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4219",
+      "legacy_uri": "OR_4833336",
+      "name": "1925-04-30 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3222",
+      "legacy_uri": "OR_4821496",
+      "name": "1925-05-05 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3223",
+      "legacy_uri": "OR_4821497",
+      "name": "1925-05-06 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4501",
+      "legacy_uri": "OR_4858204",
+      "name": "1925-05-12 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4502",
+      "legacy_uri": "OR_4858205",
+      "name": "1925-05-14 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4503",
+      "legacy_uri": "OR_4858206",
+      "name": "1925-05-19 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3326",
+      "legacy_uri": "OR_4821624",
+      "name": "1925-06-03 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3327",
+      "legacy_uri": "OR_4821625",
+      "name": "1925-06-05 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4504",
+      "legacy_uri": "OR_4858207",
+      "name": "1925-06-15 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4805",
+      "legacy_uri": "OR_4860718",
+      "name": "1925-06-20 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4806",
+      "legacy_uri": "OR_4860719",
+      "name": "1925-06-23 City Commission Minutes",
+      "pages": 6,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3420",
+      "legacy_uri": "OR_4825732",
+      "name": "1925-07-01 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3421",
+      "legacy_uri": "OR_4825733",
+      "name": "1925-07-02 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3422",
+      "legacy_uri": "OR_4825734",
+      "name": "1925-07-07 City Commission Minutes",
+      "pages": 4,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3423",
+      "legacy_uri": "OR_4825735",
+      "name": "1925-07-08 City Commission Minutes",
+      "pages": 4,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4807",
+      "legacy_uri": "OR_4860720",
+      "name": "1925-07-10 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4808",
+      "legacy_uri": "OR_4860721",
+      "name": "1925-07-16 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4809",
+      "legacy_uri": "OR_4860722",
+      "name": "1925-07-17 City Commission Minutes",
+      "pages": 9,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4810",
+      "legacy_uri": "OR_4860723",
+      "name": "1925-07-18 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4811",
+      "legacy_uri": "OR_4860724",
+      "name": "1925-07-23 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4812",
+      "legacy_uri": "OR_4860725",
+      "name": "1925-07-27 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4813",
+      "legacy_uri": "OR_4860726",
+      "name": "1925-07-30 City Commission Minutes",
+      "pages": 5,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3520",
+      "legacy_uri": "OR_4825882",
+      "name": "1925-08-01 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3521",
+      "legacy_uri": "OR_4825883",
+      "name": "1925-08-03 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3522",
+      "legacy_uri": "OR_4825884",
+      "name": "1925-08-04 City Commission Minutes",
+      "pages": 5,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3523",
+      "legacy_uri": "OR_4825885",
+      "name": "1925-08-05 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3524",
+      "legacy_uri": "OR_4825886",
+      "name": "1925-08-07 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3525",
+      "legacy_uri": "OR_4825887",
+      "name": "1925-08-08 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4814",
+      "legacy_uri": "OR_4860727",
+      "name": "1925-08-10 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4815",
+      "legacy_uri": "OR_4860728",
+      "name": "1925-08-11 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4816",
+      "legacy_uri": "OR_4860729",
+      "name": "1925-08-12 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4817",
+      "legacy_uri": "OR_4860730",
+      "name": "1925-08-13 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4818",
+      "legacy_uri": "OR_4860731",
+      "name": "1925-08-26 City Commission Minutes",
+      "pages": 5,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3707",
+      "legacy_uri": "OR_4826079",
+      "name": "1925-09-02 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4819",
+      "legacy_uri": "OR_4860732",
+      "name": "1925-09-10 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4820",
+      "legacy_uri": "OR_4860733",
+      "name": "1925-09-23 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4821",
+      "legacy_uri": "OR_4860734",
+      "name": "1925-09-28 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3823",
+      "legacy_uri": "OR_4827697",
+      "name": "1925-10-02 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3824",
+      "legacy_uri": "OR_4827698",
+      "name": "1925-10-07 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3825",
+      "legacy_uri": "OR_4827699",
+      "name": "1925-10-08 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4973",
+      "legacy_uri": "OR_4861028",
+      "name": "1925-10-12 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4974",
+      "legacy_uri": "OR_4861029",
+      "name": "1925-10-21 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/4975",
+      "legacy_uri": "OR_4861030",
+      "name": "1925-10-22 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3845",
+      "legacy_uri": "OR_4827732",
+      "name": "1925-11-04 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/5082",
+      "legacy_uri": "OR_4866799",
+      "name": "1925-11-16 City Commission Minutes",
+      "pages": 3,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/5083",
+      "legacy_uri": "OR_4866800",
+      "name": "1925-11-24 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3916",
+      "legacy_uri": "OR_4827906",
+      "name": "1925-12-01 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/3917",
+      "legacy_uri": "OR_4827907",
+      "name": "1925-12-02 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/5171",
+      "legacy_uri": "OR_4866897",
+      "name": "1925-12-14 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/5172",
+      "legacy_uri": "OR_4866898",
+      "name": "1925-12-30 City Commission Minutes",
+      "pages": 2,
+      "review_status": "PENDING",
+      "retained_scan": null
+    },
+    {
+      "legacy_record": "OCRD/16/5173",
+      "legacy_uri": "OR_4866899",
+      "name": "1925-12-31 City Commission Minutes",
+      "pages": 1,
+      "review_status": "PENDING",
+      "retained_scan": null
+    }
+  ]
+}

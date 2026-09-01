@@ -769,3 +769,15 @@ sources:
     name: Morning Enterprise, Willamette Building room over Harding Drug Store, 7 September 1912
     url: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-09-07/ed-1/seq-3.pdf
     notes: Visually verified 31 Aug 2026. Spirella advertisement prints “Willamette Bldg., Room 4, Over Harding Drug Store.” No numbered Main address is printed in the ad. Establishes a building-name/vertical relationship but does not prove Willamette=507 or change Harding's direct 511 listing. Related evidence E-138; full provenance in the 1912-09-07 Willamette-over-Harding source capture.
+
+  - id: S-155
+    name: Oregon City Commission, selected May 1927 minute scans
+    url: https://www.orcity.org/DocumentCenter/View/9617/1927-05-11-City-Commission-Minutes-Ordinance-No-1152pdf
+    repository_file: evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md
+    notes: Six pages visually verified 1 Sep 2026; original May 11 and May 23 PDFs retained under records/municipal/commission-minutes/. Printed pages 322–325 and 328–329 include partial adjacent meetings, not complete month/year coverage. Elevator Street boundary and Water Street/Fifth–Sixth work do not establish 503/505 occupants or construction; Commissioner Farr is not equated with the pool-hall proprietor. Full source URLs, hashes and review scope in the capture. No target claim-level evidence ID added.
+
+  - id: S-156
+    name: Oregon City Laserfiche, 1925 City Commission catalog inventory
+    url: https://portal.laserfiche.com/Portal/Welcome.aspx?repo=r-5a2dbf36
+    repository_file: evidence/source-captures/1925-city-commission-minute-inventory-2026-09-01.json
+    notes: Official digital metadata captured 1 Sep 2026 via folder browsing and Advanced Name query. All five result pages yield 81 entries and 159 summed scan pages, not deduplicated physical pages or annual completeness. January 6 is OCR/TEXT ONLY; other entries PENDING; zero 1925 pages visually verified in this pass. Browser URL policy stopped the scan-export test; no workaround attempted and no January PDF retained. Full route and limits in the municipal access capture; no occupant/construction claim promoted.

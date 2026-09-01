@@ -2,6 +2,8 @@
 
 Status: **RETRIEVAL PATHS IDENTIFIED; target records not yet visually inspected**
 
+**1 September 2026 continuation:** Public Laserfiche folder browsing and Advanced Name search now work through **City Recorder → Public Meeting Records → City Commission**. A 1925 metadata inventory was captured; the exact 2 June 1920 minute remains unlocated/unreviewed. The subsequent document-export attempt hit a browser URL-policy block and was stopped. Preserve the historical WebDrawer failure below, but do not describe the entire migrated catalog as inaccessible. See the [municipal access checkpoint](1924-1927-municipal-minutes-access-review-2026-09-01.md) for reproducible catalog steps and the current scan-access limitation.
+
 This capture records exact access paths for the two highest-value online/retrieval targets after the focused Enterprise triage. It is retrieval documentation, not evidence of a construction event or occupancy.
 
 ## 2 June 1920 Oregon City Commission record

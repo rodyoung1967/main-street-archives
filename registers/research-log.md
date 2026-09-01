@@ -219,3 +219,13 @@ This was a repository-presence and preservation-control audit, not new historica
 - Explicitly superseded the old conversation's pending visual-review statements: all three preserved 1920 pages are already recorded as visually verified in `S-150` / `E-135`. The ODOT/2009-form construction-date conflict is also already registered; it is not a new discovery in this pass.
 - Linked the current construction, Freeze-transition, 1925–1926 business, and 1924 directory checkpoints in `evidence/source-captures/1919-1920-resume-summary-reconciliation-2026-09-01.md` and the archive index.
 - Documentation reconciliation only: no new archival review, source/evidence IDs, entity changes, or annual-status changes.
+
+### 2026-09-01 — municipal catalog recovered; 1925 inventoried; six May 1927 pages reviewed
+
+- Continued the online-only municipal route after the saved directory checkpoint; no institution contacted, paid lookup ordered, or restricted account used.
+- Confirmed the old 1920s WebDrawer 404, then successfully navigated the new public Laserfiche catalog through City Recorder → Public Meeting Records → City Commission. Advanced Name search returned 81 entries for 1925; all five results pages were captured with legacy identifiers and 159 summed page counts (`S-156`). These are not deduplicated ledger pages or completed visual coverage.
+- Opened January 6, 1925 and read its OCR, but did not successfully view the scan. The export attempt was then blocked by browser URL security policy; stopped that route without workaround. January 6 remains OCR/TEXT ONLY, 80 other entries PENDING, and zero 1925 pages count as visually verified in this pass.
+- Separately downloaded two original City DocumentCenter PDFs linked from the municipal-elevator history page. Visually inspected all six pages (printed 322–325 and 328–329, May 1927), preserved under `records/municipal/commission-minutes/`, and registered as `S-155`.
+- Preserved Water Street/Fifth–Sixth public-works context without inferring Fifth Street narrowing, target rebuilding, or a numbered Fifth business. Commissioner Farr is not identified as the pool-hall proprietor. Partial neighboring meetings are explicitly marked incomplete.
+- Saved the inventory, hashes, source scope, policy-related retrieval limitation and next targets in `evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md`; synchronized the archive index, RL-010 and prior access/business checkpoints.
+- No 503/505 tenant, construction event or new person was identified; no historical evidence ID or timeline/entity change was made. Annual statuses remain unchanged. The 2 June 1920 Leland minute and 1925 licensing review remain priority targets, not completed work.

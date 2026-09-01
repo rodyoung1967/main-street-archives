@@ -26,6 +26,8 @@ Latest repository-control checkpoints: [entity-page audit](registers/entity-page
 
 1919–1925 research handoff: [1 September summary reconciliation](evidence/source-captures/1919-1920-resume-summary-reconciliation-2026-09-01.md) preserves the construction-date limits, supersedes the older conversation's pending-review status for the three now-verified 1920 pages, and links the current municipal, business-identification, and directory follow-ups.
 
+Municipal research continuation: [working Laserfiche catalog route and May 1927 scan review](evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md), with an [81-entry 1925 minute inventory](evidence/source-captures/1925-city-commission-minute-inventory-2026-09-01.json). The 159 listed pages are metadata counts, not completed visual coverage; scan export remains a documented tool-specific limitation.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)
