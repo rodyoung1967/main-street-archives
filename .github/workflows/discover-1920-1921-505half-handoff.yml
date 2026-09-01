@@ -1,0 +1,35 @@
+name: Discover 1920-1921 505half handoff
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/discover-1920-1921-505half-handoff.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync main
+        run: git pull --rebase origin main
+      - name: Search handoff interval
+        run: python3 scripts/discover_1920_1921_505half_handoff.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit discovery and remove one-time workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/discover-1920-1921-505half-handoff.yml
+          git add -A
+          git commit -m "Inventory 1920-1921 505½ handoff OCR leads"
+          git pull --rebase origin main
+          git push origin HEAD:main
