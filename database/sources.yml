@@ -780,4 +780,11 @@ sources:
     name: Oregon City Laserfiche, 1925 City Commission catalog inventory
     url: https://portal.laserfiche.com/Portal/Welcome.aspx?repo=r-5a2dbf36
     repository_file: evidence/source-captures/1925-city-commission-minute-inventory-2026-09-01.json
+    count_reconciliation: S-157 printed p. 7 reports 84 meetings (12 regular, 72 special), versus 81 catalog entries here. Different units require date-level reconciliation; not proof of three missing meetings or annual completeness.
     notes: Official digital metadata captured 1 Sep 2026 via folder browsing and Advanced Name query. All five result pages yield 81 entries and 159 summed scan pages, not deduplicated physical pages or annual completeness. January 6 is OCR/TEXT ONLY; other entries PENDING; zero 1925 pages visually verified in this pass. Browser URL policy stopped the scan-export test; no workaround attempted and no January PDF retained. Full route and limits in the municipal access capture; no occupant/construction claim promoted.
+
+  - id: S-157
+    name: City of Oregon City, Report of Municipal Activities for 1925
+    url: https://www.orcity.org/DocumentCenter/View/6214/1925-Municipal-Activities-Report
+    repository_file: records/municipal/annual-reports/1925-municipal-activities-report.pdf
+    notes: Full unmodified 22-page PDF retained, 23,815,229 bytes, SHA-256 f4084308bd5cfe3fc460e2e5c3f99d59b9405f92da367e350d9cca8a5262d640. Nine PDF pages visually checked 1 Sep 2026 (2,3,4,5,7,8,9,10,11); others pending. Transmittal April 6, 1926. E-139 corrects the old April 18 / $2,500 conflation to April 30 / $15 on Main between Fifth and Sixth, and records an unnumbered August 18 Fifth flue call. E-140 records Fifth paving High–Jackson, not legal-width change at Main. No target occupant/building event is assigned. Printed p. 7's 84 meetings need reconciliation with S-156's 81 catalog entries; differing counts do not prove three missing records. Full review and retrieval leads in the 1925 report correction capture.

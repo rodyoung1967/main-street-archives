@@ -14,6 +14,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 1914–1915 | Ledger: **503 / Store**, **503½ / Barber Shop**. | Exact classifications; tenant names/timing unresolved. | `E-117`; `S-131` |
 | Jul.–Aug. 1922 | Harding division, fire, and Gates corner replacement. | Shared context; 503 may be Gates footprint or Wolf remainder; 503-ignition/505-pool model plausible but unproved. | `E-096`, `E-097`, `E-103`, `E-108`; `S-111`–`S-113`, `S-117` |
 | c.1919 / c.1922–1972 | City synthesis estimates surviving resource c.1919 and reports Wolf-family ownership roughly 1922–1972. | Official secondary; conflicts with 1908 address use and unresolved 1922 footprint. | `E-032`; `S-026` |
+| 30 Apr. 1925 | Municipal fire call on Main between Fifth and Sixth; chimney spark; approximately $15 damage. | **Street-segment context only**: side, number and occupant unstated; not an identified 503 fire/rebuild. Supersedes the conflated April 18 / $2,500 lead. | `E-139`; `S-157` |
 | 1925 | Sanborn maps **503 as separate restaurant**, concrete floor. | **Exact map use**; business/occupant unnamed. | `E-020`; `SM-008` |
 | 1926 | City synthesis reports **Kwality Restaurant**. | Official secondary; underlying page desirable. | `BUS-001`; `E-032` |
 | 1936–1950 | Aerial/Sanborn evidence retains the 503/505 Main-frontage structures while the separate 501 structure disappears by 1944. | Physical continuity context only; does not identify 503 tenant or prove unchanged fabric. | `E-021`; `S-023`; `SM-009` |

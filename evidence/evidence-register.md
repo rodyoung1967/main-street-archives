@@ -1135,3 +1135,24 @@ Claims:
 - The source does not justify moving Harding from the directly printed 511 Main address, does not prove the Willamette Building equals 507 alone, and does not date demolition/reconstruction of 503 or 505.
 - In combination with `E-137` (Freeze “over Hardings Drug Store” in March 1921 followed by 507½ ads), it shows that historical “over” descriptions and half-numbered professional rooms require separate evidence from ground-floor storefront numbering.
 Confidence: **Very High** for the visible 1912 wording and vertical/building-name relationship; **unresolved** for exact numbered building footprint, multi-bay extent, Young continuity, and implications for later 507/511 numbering.
+
+## E-139 — Corrected 1925 Main/Fifth–Sixth fire and unnumbered Fifth Street call
+Type: Primary municipal fire-call table; **VISUALLY VERIFIED** 1 September 2026.
+Source: `S-157`, printed pp. 13–14 (PDF pages 7–8).
+Repository source capture: `evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md`.
+Claims:
+- **30 April 1925, 6:15 a.m.: Main bet. 5th and 6th; spark from chimney; approximately $15 damage; 300 ft. hose.** No side of Main, number, proprietor or business appears.
+- The former April 18 / $2,500 Main-block claim was a transcription conflation, now withdrawn. The original table separately gives **27 March, 10 a.m., 811 Jefferson, parafin explosion, $2,500** and **18 April, 10:15 a.m., Tenth and Washington, explosion of wax, $75**. These rows explain the error, not target-building associations.
+- **18 August 1925, 10 a.m.: Fifth St.; flue.** Number, cross street, occupant and business are not given; blank damage/hose fields mean not stated, not zero.
+- The April 30 estimate does not prove severe damage, demolition, reconstruction or an occupant at 501/503/505. Neither call is assigned to a numbered building. Retain the erroneous original note with explicit supersession for provenance.
+Confidence: **Very High** for the table transcription and correction; **unresolved** for precise premises, actual affected fabric, occupants and later work. Links from 501/503/505 are research context only, not proof of an event at those addresses.
+
+## E-140 — Fifth Street High–Jackson paving reported for 1925
+Type: Primary municipal engineering report; **VISUALLY VERIFIED** 1 September 2026.
+Source: `S-157`, printed pp. 17–18 (PDF pages 9–10).
+Repository source capture: `evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md`.
+Claims:
+- The 1925 asphaltic-concrete program includes **Fifth Street from High Street to Jackson Street**, **9,990 square yards**, costing **$18,159.85**. The introductory program description gives a **40-foot curb-to-curb** width.
+- The Fifth item retrospectively says the earlier improvement was laid in **1903**, only **18 feet wide in the center**; the new work required **4,000 square yards of 3-inch black base**.
+- This is uphill street-surface work, not a Main-corner building project. Pavement and curb widths are not legal right-of-way widths; this supplies no 60-to-50-foot narrowing or target-storefront reconstruction evidence.
+Confidence: **Very High** for what the 1925 report states and the named segment; the 1903 description is retrospective. No numbered building or business is assigned.

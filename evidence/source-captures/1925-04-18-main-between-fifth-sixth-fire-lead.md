@@ -1,4 +1,10 @@
-# 18 April 1925 — Main between Fifth and Sixth fire
+# Superseded April 18 lead — actual Main/Fifth–Sixth call was April 30, 1925
+
+**Correction, 1 September 2026 — `E-139` / `S-157`, VISUALLY VERIFIED:** Printed p. 13 (PDF page 7) of the original report gives **30 April 1925, 6:15 a.m., Main bet. 5th and 6th, spark from chimney, approximately $15 damage, 300 ft. hose**. The old lead below conflated adjacent rows: **March 27 / 811 Jefferson / $2,500**, **April 18 / Tenth and Washington / $75**, and **April 30 / Main between Fifth and Sixth / $15**. The report does not specify which side of Main or any numbered storefront. The alleged substantial April 18 fire on the target frontage is withdrawn.
+
+The [full visual review and corrected follow-ups](1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md) control. The [full original report](../../records/municipal/annual-reports/1925-municipal-activities-report.pdf) is now retained. **The remainder of this note is preserved unchanged as superseded research history, not current evidence.** Its filename is retained so existing links remain auditable.
+
+## Superseded note
 
 Status: **primary municipal text recovered; direct page-image visual verification pending**
 

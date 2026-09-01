@@ -2218,3 +2218,28 @@ evidence:
     related_buildings: [B-003]
     related_businesses: [BUS-007]
     repository_file: evidence/source-captures/1912-09-07-willamette-building-over-harding-drug-store.md
+
+  - id: E-139
+    name: Corrected 1925 Main/Fifth–Sixth fire and unnumbered Fifth Street call
+    type: Primary municipal fire-call table; direct visual inspection
+    claims:
+      - Printed p. 13 gives April 30, 1925, 6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage and 300 ft. hose. No side, number or occupant is supplied.
+      - The former April 18 / $2,500 target-block lead conflated three adjacent rows. March 27 at 811 Jefferson had $2,500 damage; April 18 at Tenth and Washington had $75. The combined old claim is withdrawn.
+      - Printed p. 14 records August 18, 1925, 10 a.m., Fifth St., flue; no number or business, and damage/hose fields are blank rather than zero.
+      - No event is assigned to 501, 503 or 505, and no demolition, reconstruction or occupant continuity is established.
+    confidence: Very High for visually checked table wording and correction; exact premises, affected fabric, occupants and later work unresolved.
+    related_sources: [S-157]
+    related_buildings: []
+    repository_file: evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md
+
+  - id: E-140
+    name: Fifth Street High–Jackson paving reported for 1925
+    type: Primary municipal engineering report; direct visual inspection
+    claims:
+      - Printed pp. 17–18 include Fifth from High to Jackson in the 1925 asphaltic-concrete program described as 40 feet curb to curb; 9,990 square yards and $18,159.85 total cost.
+      - The report retrospectively describes an 18-foot-wide central improvement laid in 1903 and 4,000 square yards of 3-inch black base required for the new work.
+      - This is uphill paving, not legal right-of-way narrowing at Main or evidence of reconstruction at 501/503/505.
+    confidence: Very High for the report's stated work and segment; 1903 description is retrospective; no numbered building or business assigned.
+    related_sources: [S-157]
+    related_buildings: []
+    repository_file: evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md

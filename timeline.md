@@ -245,10 +245,22 @@ The [28 August 2026 Task 7 reassessment](evidence/source-captures/1922-task-7-fi
 ## 1924 — directory source exists, pages still needed
 A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies Oregon City Planning Department as a local repository for additional data (`E-056` / `S-069`). The actual directory pages for 501/503/505 have not yet been obtained (`RL-018`).
 
+## 30 April 1925 — minor fire on Main between Fifth and Sixth; premises unknown
+
+The municipal fire table records **6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage** (`E-139` / `S-157`). It supplies neither a street side nor a numbered building, business or proprietor. This is street-segment context, **not an identified fire or reconstruction at 501, 503 or 505**. Direct scan review supersedes the old April 18 / $2,500 lead: those values came from two other rows, for Tenth/Washington and 811 Jefferson respectively. [Verified transcription and original report](evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+
 ## 1925 Sanborn — 501 / 503 / 505
 The 1925 Sanborn directly shows **501 Main as a store**, **503 Main as a restaurant**, and **505 Main as billiards/cigars** (`E-020` / `S-021`). The 501 tenant name remains unknown. The 1915–1917 Fifth-and-Main Holman evidence should not be assigned to 501 until a numbered-address mapping source is found.
 
 The same sheet shows an **Oregon City Laundry** physical complex again in the Fifth/Main/Water block, spatially behind both 501 and 503 and extending farther north (`B-009`, `E-102`). This proves post-fire physical presence by May 1925, not that the 1916–1922 building survived, that the footprint was identical, or that rear walls followed legal parcel lines.
+
+## 18 August 1925 — unnumbered Fifth Street flue call
+
+The municipal fire table records **10 a.m., Fifth St., flue** (`E-139` / `S-157`). The number, cross street and occupant are unstated. Damage and hose fields are blank, not affirmative zeroes; no numbered building is assigned.
+
+## 1925 — Fifth Street paving, High to Jackson
+
+The engineering report describes Fifth paving **from High to Jackson**, uphill from Main: 9,990 square yards costing $18,159.85 within the 40-foot curb-to-curb asphaltic-concrete program. It describes the older center pavement as 18 feet wide, laid in 1903, and notes 4,000 square yards of three-inch blackbase (`E-140` / `S-157`). These are pavement measurements, **not proof of legal street-width change beside 501–505 or rebuilding of those properties**.
 
 ## 1935 — present 527 Main / Swartz Building
 City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.

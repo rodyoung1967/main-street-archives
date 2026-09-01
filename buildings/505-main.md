@@ -39,6 +39,8 @@ After Richard's death in November 2024, the **505 building passed to Rodney Youn
 
 ## Construction-date conflict
 
+**1925 fire correction — context only:** `E-139` / `S-157` verifies an **April 30, 6:15 a.m. Main-between-Fifth-and-Sixth call with approximately $15 damage**, not the former conflated April 18 / $2,500 lead. No side of Main or premises number is printed. It is not evidence of a 505 fire or reconstruction; see the [original-report review](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+
 The surviving 505 building has conflicting dates in City/consultant historic-resource work and must not yet be assigned a single definitive construction year.
 
 ### 2000 City inventory — c.1920, now visually verified

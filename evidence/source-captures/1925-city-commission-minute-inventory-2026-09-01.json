@@ -11,6 +11,9 @@
   "name_query": "1925*City Commission*",
   "result_count": 81,
   "listed_page_sum": 159,
+  "annual_report_meeting_count": 84,
+  "annual_report_count_source": "S-157, printed p. 7 / PDF page 4: 12 regular plus 72 special meetings",
+  "count_reconciliation": "Unresolved: 84 meetings and 81 catalog entries are different units. Do not infer three missing meetings or completeness without date-level reconciliation. Inventory entries below are unchanged.",
   "visually_verified_1925_pages": 0,
   "caveat": "Catalog metadata only. Page sum is not deduplicated; adjacent meeting entries may share ledger pages. Not proof all meetings survive. January 6 OCR inspected; scan/export not completed.",
   "entries": [

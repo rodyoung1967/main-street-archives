@@ -69,7 +69,7 @@ https://www.orcity.org/1710/Historic-Documents-and-Research
 - **1925 Municipal Activities Report:** https://www.orcity.org/DocumentCenter/View/6214/1925-Municipal-Activities-Report
 - **1926 Municipal Activities Report:** https://www.orcity.org/DocumentCenter/View/6215/1926-Municipal-Activities-Report
 
-The 1925 report's indexed fire-table lead for the 18 April 1925 fire on Main between Fifth and Sixth remains separately preserved in `1925-04-18-main-between-fifth-sixth-fire-lead.md`; its exact row/column alignment still requires direct page-image clearance.
+**1 September visual correction:** the original report's printed p. 13 (PDF page 7) gives **April 30, 6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage** (`E-139` / `S-157`). The earlier April 18 / $2,500 lead conflated neighboring rows and is withdrawn; its old filename is retained with a supersession notice. No street side, numbered building or occupant is printed. The [full report review](1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md) also preserves an unnumbered August 18 Fifth Street flue call and newly specific receipt/inspection/engineering-record leads. The original 22-page PDF is now in the repo; nine pages have been visually inspected, not the whole report.
 
 The 1926 report's Fire Department list was visually inspected on the relevant pages. It includes:
 
@@ -102,7 +102,7 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 **1924 directory follow-up, 1 September 2026:** The NPS bibliography citation was visually reverified and its original PDF preserved, but no readable 1924 directory or confirmed current holding was located. No occupant claim changed. See `1924-oregon-city-directory-retrieval-review-2026-09-01.md` for exact institutional routes and numbered manual work; requests remain unsent.
 
 1. Recover and visually inspect the **1926 Kwality Restaurant advertisement(s)** cited by the City inventory, recording date, title, page, address, proprietor, and exact trade name.
-2. Review **1923–1926 Banner-Courier and Enterprise microfilm**, especially advertisements, licenses, business sales, relocations, pool/billiard notices, restaurant notices, and the days following the 18 April 1925 fire.
+2. Review **1923–1926 Banner-Courier and Enterprise microfilm**, especially advertisements, licenses, business sales, relocations, pool/billiard notices, restaurant notices, and the days following the **30 April 1925** Main/Fifth–Sixth call (the former April 18 date was a transcription error).
 3. Inspect the **1924 Oregon City directory** and any 1925–1927 Polk, telephone, or business directories for the address ladder at 501–511 Main and alphabetical entries for Farr, Kwality, Leland, Little, Timms, and Jager.
 4. Inspect municipal restaurant, billiard/pool-hall, cigar, soft-drink, sign, and business-license ledgers and council/commission minutes for 1924–1927.
 5. Retrieve the underlying 503 and Farr residence historic-resource research files, bibliographies, field notes, and newspaper citations.

@@ -230,3 +230,12 @@ Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main 
 | People | Businesses | Evidence / sources | Limits |
 | --- | --- | --- | --- |
 | `P-096` Herman Schrader; `P-097` Wemmo & Haas | `BUS-063` Schrader's Bakery; `BUS-080` Wemmo & Haas bakeries | `E-093`; `S-102`, `S-106`; compare `E-123`/`S-137` | Main Street bakery among two sold in December 1912; exact number, individual purchaser names, real-estate ownership and later operating span unresolved. |
+
+## 1925 municipal report — context without numbered-building assignment
+
+| Evidence / source | Timeline | Location and limits |
+| --- | --- | --- |
+| `E-139` / `S-157` | `T-044`: 30 April fire; `T-045`: 18 August flue call | Main between Fifth and Sixth ($15), and unnumbered Fifth Street respectively. No street side, numbered premises, business or proprietor identified. April event appears in `B-005`/501, `B-001`/503 and `B-002`/505 timelines as **context only**; no building relationship is asserted in YAML. Supersedes the conflated April 18 / $2,500 lead. |
+| `E-140` / `S-157` | `T-046`: 1925 paving | Fifth from High to Jackson, uphill from Main. Pavement widths do not establish legal street-width change or target-building reconstruction. No numbered-building assignment. |
+
+Original report: `records/municipal/annual-reports/1925-municipal-activities-report.pdf`; exact visual coverage and retrieval leads in [review capture](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).

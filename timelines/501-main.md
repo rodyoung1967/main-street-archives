@@ -22,6 +22,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 18 Jul. 1922 | Fifth/Main fire; Wolf owns ignition building; multiple neighboring businesses damaged. | Shared fire context; no ignition/business assignment to 501. | `E-103`; `S-117` |
 | 17–18 Aug. 1922 | Gates builds two-story hollow-tile corner replacement with two ground-floor storerooms. | Strong corner context; footprint could be 501, 501+503, or another arrangement. | `E-097`; `S-112`, `S-113` |
 | 1924 | Polk directory exists; address pages not recovered. | Retrieval/manual target; no tenant conclusion. | `E-056`; `S-069` |
+| 30 Apr. 1925 | Municipal fire call on Main between Fifth and Sixth; chimney spark; approximately $15 damage. | **Street-segment context only**: side, number and occupant unstated; not an identified 501 fire/rebuild. Supersedes the conflated April 18 / $2,500 lead. | `E-139`; `S-157` |
 | 1925 | Sanborn maps **501 as a separate store** beside 503 restaurant and 505 billiards/cigars. | **Exact map use**; occupant unnamed and 1922 division unresolved. | `E-020`; `S-021`; `SM-008` |
 | 1936 | Aerial shows distinct 501 roof/structure. | Physical presence; tenant/construction date unknown. | `E-021`; `S-023` |
 | 1936–1944 | Distinct 501 structure disappears between aerials. | Removal window only; cause/date unresolved. | `E-021`; `S-023` |

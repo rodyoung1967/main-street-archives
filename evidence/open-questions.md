@@ -5,6 +5,8 @@ This register collects unresolved questions across the Main Street Archive. Ques
 ## OQ-001 — 503 Main Construction Date
 Was the current 503 Main Street building constructed in 1919, or does that date represent a remodel, rebuild, assessor carry-forward date, or later commercial-listing record?
 
+**1 September 2026 correction, also applicable to OQ-002/OQ-005:** `E-139` / `S-157` removes the conflated April 18 / $2,500 target-block fire premise. The actual municipal entry is **April 30, 1925, approximately $15 damage, Main between Fifth and Sixth**, without a side, number or occupant. It does not establish rebuilding at 501, 503 or 505. `E-140` separately concerns Fifth paving **High–Jackson**, not legal-width change beside the target frontage. Construction questions remain open; exact source pages and newly precise records leads are in the [1925 report review](source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+
 ## OQ-002 — 505 Main Construction Date
 When was the current 505 Main Street building constructed?
 

@@ -431,6 +431,14 @@ timeline:
     related_businesses: [BUS-068, BUS-069, BUS-071, BUS-073]
     related_buildings: [B-011]
 
+  - id: T-044
+    date: 30 April 1925
+    summary: Municipal fire table records Main between Fifth and Sixth, 6.15 a.m., spark from chimney, approximately $15 damage and 300 feet of hose. The former April 18 / $2,500 claim conflated other rows and is withdrawn.
+    confidence: Very High for visually verified table; street side, number and occupant unstated. Context only, not an identified 501/503/505 fire or reconstruction.
+    related_evidence: [E-139]
+    related_sources: [S-157]
+    related_buildings: []
+
   - id: T-037
     date: May 1925
     summary: Sanborn shows 501 store, 503 restaurant, 505 billiards/cigars, and a rebuilt/re-established Oregon City Laundry complex behind multiple Main frontage positions in the Fifth/Main/Water block.
@@ -439,6 +447,22 @@ timeline:
     related_sources: [S-021]
     related_businesses: [BUS-068]
     related_buildings: [B-005, B-001, B-002, B-009]
+
+  - id: T-045
+    date: 18 August 1925
+    summary: Municipal fire table records 10 a.m., Fifth St., flue. Damage and hose fields are blank, not affirmative zeroes.
+    confidence: Very High for visually verified table; no number, cross street, business or target-building assignment.
+    related_evidence: [E-139]
+    related_sources: [S-157]
+    related_buildings: []
+
+  - id: T-046
+    date: 1925
+    summary: Fifth Street paving High–Jackson comprised 9,990 square yards costing $18,159.85, within the report's 40-foot curb-to-curb asphaltic-concrete program. The old 18-foot central pavement was laid in 1903; 4,000 square yards of three-inch blackbase were needed.
+    confidence: Very High for visually verified report; uphill segment and pavement widths, not legal right-of-way width at Main or target-building work.
+    related_evidence: [E-140]
+    related_sources: [S-157]
+    related_buildings: []
 
   - id: T-038
     date: 1957–1960

@@ -74,7 +74,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 
 ## Claim Still Not Yet Accepted
 
-**18 April 1925 fire on Main between 5th and 6th.** The 1925 Municipal Activities Report is known as a research target, but the specific fire entry has not yet been independently recovered and verified. Do not cite it as fact until the original report is obtained.
+**1925 fire lead corrected (`E-139` / `S-157`).** The original municipal scan gives **30 April 1925, 6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage**. The former April 18 / $2,500 lead conflated adjacent table rows. No street side, number or occupant is supplied, so this cannot be called a 501 fire or used to date its reconstruction. See the [visual correction](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
 
 ## Current Reconstruction
 
