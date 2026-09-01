@@ -1090,3 +1090,12 @@ Evidence: `E-139` (corrected April 30 Main/Fifth–Sixth fire; August 18 unnumbe
 Source capture: `evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md`.
 Continuation: `evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md`. Financial schedules are aggregate municipal accounts, not tenant lists or private-building permits. Auditor certificate dated January 23, 1926; printer credited as Oregon City Printing Co.; these are source-production metadata, not Main/Fifth entity-location claims.
 Notes: Original scan corrects the former April 18 / $2,500 conflation to **April 30, 6:15 a.m., approximately $15 damage**. No side/number/operator is supplied. General/Recorder/Health/Engineering sections supply precise retrieval leads for meeting reconciliation, duplicate receipts, lien cards, restaurant inspections and plans; current survival is unconfirmed. The full City PDF was downloaded independently of the blocked Laserfiche export, and is preserved without modification.
+
+## S-158 — Oregon State Archives, Clackamas County historical records inventory
+Type: Official HTML finding aid; catalog text reviewed 1 September 2026. **Original records PENDING / MANUAL CALLOUT**, not visually verified historical pages.
+Canonical page: https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx
+Inventory date: March/April 2019; present physical holdings not independently reconfirmed.
+Relevant sections: Assessment and Tax Rolls; Assumed Business Names Registers; Land Subdivision Records; Land Title Registers.
+Capture and exact series/date/quantity/location table: `evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md`.
+Research links: `RL-002`, `RL-007`, `RL-010`, `RL-024`, `RL-026`. No claim-level evidence or timeline event assigned.
+Limits: A series listing does not prove that a 501/503/505 record exists within it. The named business certificates begin after the target map year; no 1925 tenant is identified. Departmental routing pages were also checked in the capture; no institutional inquiry was sent. The former `/archives/records/county/` URL failed; use the relocated canonical page above.

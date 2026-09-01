@@ -1,7 +1,7 @@
 # Annual Research Status
 
-Audit date: 28 August 2026
-Scope: annual online-review work currently documented for 1904–1918, plus the targeted 1922 fire/property checkpoint.
+Audit date: 28 August 2026; targeted 1925 checkpoint added 1 September 2026.
+Scope: annual online-review work currently documented for 1904–1918, plus targeted 1922 fire/property and 1925 municipal/occupancy checkpoints. The later addition does not certify a fresh audit of the earlier years.
 
 This is the canonical status register for annual research. The completion levels and certification requirements are defined in `RESEARCH-STANDARD.md`. A legacy targeted, routine, OCR-assisted, or “complete enough for progression” pass does not qualify as `ONLINE COMPLETE` unless every required title, issue, retrievable page, online source class, retrieval gap, and manual callout has been audited.
 
@@ -27,6 +27,10 @@ This is the canonical status register for annual research. The completion levels
 | 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `evidence/source-captures/1917-courier-review-start.md`; `evidence/source-captures/1917-courier-first-issue-monthly-sample.md` | Structured first-issue monthly sample now **12/12 selected issues / 96 pages visually verified**, with exact 108 Fifth, 519, 617 and 619 Main anchors. Sampling is not exhaustive annual coverage. True 13 Dec p21 and Sohns & Woodbeck Oregon City directory remain gaps; full relevant-title/page audit still unfinished. |
 | 1918 | **IN PROGRESS** | `evidence/source-captures/1918-review-start.md` | Review has begun but the complete title/issue/page inventory, visual audit, other-source audit, and formal callout list are unfinished. |
 | 1922 | **IN PROGRESS** | `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md`; `evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md` | Eight-task targeted package checkpointed, not annual certification. Complete title/issue/page inventory and visual audit remain unfinished; prior 928-page OCR discovery is not visual coverage. Neither fire model selected; eight open 1922-F manual callouts and specific online/image gaps retained in handoff. |
+
+## 1925 targeted municipal/occupancy checkpoint
+
+**1925 targeted status: IN PROGRESS.** The retained municipal report is fully visually reviewed (22/22 PDF pages, `S-157`), but annual newspaper, directory, minute and other-source coverage remains unfinished. The cataloged 81 minute entries / 159 listed pages (`S-156`) are not visual coverage. No individual license receipt or restaurant return was recovered in the latest bounded catalog pass. See the [report checkpoint](../evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md) and [follow-up search with five numbered manual callouts](../evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md). `S-158` is a finding aid only, with underlying records still unreviewed; no tenant or construction date was established by that pass.
 
 ## Shared manual-work callouts
 

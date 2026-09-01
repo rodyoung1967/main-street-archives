@@ -30,6 +30,8 @@ Municipal research continuation: [working Laserfiche catalog route and May 1927 
 
 1925 report correction and next leads: [direct scan review](evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md), with the [full original report](records/municipal/annual-reports/1925-municipal-activities-report.pdf) retained. The Main-between-Fifth-and-Sixth fire was **April 30 / approximately $15**, not the conflated April 18 / $2,500 claim; numbered premises remain unknown (`E-139`). Also saved an unnumbered August 18 Fifth flue call, uphill High–Jackson paving (`E-140`), and license/inspection/engineering retrieval leads. **22 of 22 PDF pages visually reviewed; no report pages pending.** [Remaining-page review](evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md) adds aggregate license-revenue and police-record leads (`E-141`), not named occupants. This completes the report only; 1925 remains **IN PROGRESS**. The report's 84 meetings and catalog's 81 entries require reconciliation. No 503/505 occupant or construction date is established.
 
+Latest occupant/property retrieval checkpoint: [1925 license/inspection search and county archival leads](evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md) (`S-158`). Exact holdings and five manual callouts are saved; no underlying receipts, returns or assessment entries were recovered, and no tenant or construction date is newly established.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)

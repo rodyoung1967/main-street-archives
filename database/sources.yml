@@ -783,6 +783,12 @@ sources:
     count_reconciliation: S-157 printed p. 7 reports 84 meetings (12 regular, 72 special), versus 81 catalog entries here. Different units require date-level reconciliation; not proof of three missing meetings or annual completeness.
     notes: Official digital metadata captured 1 Sep 2026 via folder browsing and Advanced Name query. All five result pages yield 81 entries and 159 summed scan pages, not deduplicated physical pages or annual completeness. January 6 is OCR/TEXT ONLY; other entries PENDING; zero 1925 pages visually verified in this pass. Browser URL policy stopped the scan-export test; no workaround attempted and no January PDF retained. Full route and limits in the municipal access capture; no occupant/construction claim promoted.
 
+  - id: S-158
+    name: Oregon State Archives, Clackamas County historical records inventory
+    url: https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx
+    repository_file: evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md
+    notes: Official HTML finding aid based on March/April 2019 inventory; relevant catalog sections read 1 Sep 2026. Original records PENDING / MANUAL CALLOUT, not visually verified historical pages. Capture preserves exact assessment, supporting-file, ownership-book and later assumed-name holdings plus current departmental access routes. Present physical holdings and target entries unconfirmed; no 1925 tenant or construction event established. No new evidence/event/entity relationship assigned. No institutional inquiry or blocked-export retry.
+
   - id: S-157
     name: City of Oregon City, Report of Municipal Activities for 1925
     url: https://www.orcity.org/DocumentCenter/View/6214/1925-Municipal-Activities-Report

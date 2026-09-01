@@ -240,3 +240,5 @@ Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main 
 | `E-141` / `S-157` | No property timeline event assigned | Citywide combined franchise/license revenue and police recordkeeping. Retrieval context only; no named payer, proprietor, premises or target construction event. Full report now 22/22 PDF pages visually reviewed, not annual completion. |
 
 Original report: `records/municipal/annual-reports/1925-municipal-activities-report.pdf`; exact visual coverage and retrieval leads in [review capture](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+
+Follow-up finding aid: `S-158`, State Archives Clackamas County inventory, supports retrieval planning for `RL-007`, `RL-010`, `RL-024` and `RL-026`. [Series table and manual callouts](../evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md). **No `E-###`, `T-###`, entity or historical occupancy/ownership relationship assigned**: original records remain unreviewed and target entries are not yet known to exist.

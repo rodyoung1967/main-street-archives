@@ -252,3 +252,11 @@ This was a repository-presence and preservation-control audit, not new historica
 - No new source, business, person, building or property-timeline identity was needed. Bibliographic printer/auditor credits are not Main/Fifth entity-location claims. Existing `E-139` and `E-140` remain unchanged.
 - No institutional contact, paid lookup, restricted-account access or retry of the blocked export. All annual statuses remain unchanged; **1925 is IN PROGRESS**. The report's page review is finished, but minutes, receipts, inspection returns, directories and property records remain open.
 - Next targets and numbered manual callouts: `evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md`. The report itself has no pending pages.
+
+### 2026-09-01 — 1925 license/inspection search and precise county-records leads
+
+- Continued the completed report's receipt/inspection leads through official City public guides, county access pages and the relocated State Archives county inventory. No individual 1925 receipt or restaurant return was recovered; this is bounded search coverage, not evidence of absence or destruction.
+- Registered `S-158` as an official finding aid, not original-record visual coverage. Preserved exact assessment-roll, supporting-file, ownership-book and later assumed-name holdings in `evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md`, with the inventory's 2019 date and need to reconfirm custody.
+- Added five numbered manual callouts. Construction work must start with the historical Block 4 parcel crosswalk; changes in assessed values do not alone prove reconstruction. Later business registrations do not identify the May 1925 occupant.
+- Synchronized the source register, research leads, navigation, crosswalk and annual-status checkpoint. No evidence/event, business, person or building claim was added; entity YAML and historical timelines therefore remain unchanged. All annual statuses are unchanged; 1925 remains **IN PROGRESS**.
+- No correspondence, appointment, payment, restricted-account access or blocked Laserfiche export retry. The State E-files landing page exposed no readable content; its interactive catalog was not searched. Next independent online option: the City-linked 1926 annual report, still unreviewed in this pass.
