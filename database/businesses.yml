@@ -310,15 +310,17 @@ businesses:
 
   - id: BUS-021
     name: Dr. Freeze, Eye Specialist
-    address: 505 / 505 1/2 Main
-    notes: 1921-1922 newspaper ads; later Masonic Building.
+    address: 507 1/2 Main (Mar-Apr 1921); 505 / 505 1/2 Main (Apr 1921-Jun 1922)
+    notes: Mar 18 1921 move-from-Portland notice says locating over Harding Drug Store; visually verified Mar 25 and Apr 1 ads print 507½ Main, then Apr 8 prints 505½. Later Masonic Building after July 1, 1922. Exact physical move day and Harding numbered address remain limited as described in E-137.
     related_buildings:
       - B-002
+      - B-003
     related_people:
       - P-027
     related_evidence:
       - E-028
-    related_sources: [S-035]
+      - E-137
+    related_sources: [S-035, S-153]
     repository_file: businesses/dr-freeze.md
 
   - id: BUS-022

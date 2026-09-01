@@ -171,3 +171,8 @@ E-109/S-121 visually confirms **Bradley507 / H.P.Brightbill509 / Harding511** on
 ## 1916 dated neighborhood corroboration
 
 E-116/S-130, [pages 106–180](../evidence/source-captures/1916-courier-pages-106-180.md), verifies March–May advertised addresses Bradley 507, Brightbill 509, Harding 511 and Price 527. These retain their individual historic numbers; no later consolidated-building label, surviving-structure date or ownership transfer is inferred.
+
+## March 1921 professional-office / Harding address bridge
+A new visually verified source set (`E-137` / `S-153`) tightens the pre-fire 507 chronology. On **18 March 1921** the *Oregon City Enterprise* says Dr. Harvey Freeze moved his practice from Portland to Oregon City and was locating **over Hardings Drug Store**. Freeze advertisements on **25 March** and **1 April** directly print **507½ Main St.** The next verified ad, 8 April, is at 505½ Main.
+
+This proves an upstairs/half-number professional address at **507½** immediately before Freeze shifted to 505½. Read with the article's “over Hardings Drug Store” wording, Harding Drug Store at numbered **507** is a strong contemporary address inference, but no inspected source in this set directly prints Harding's number. The result is an important bridge from Harding's directly documented **511 Main** address in 1911–1915 toward the later Harding-block configuration; ownership, footprint, exact Harding move date, and physical arrangement remain open.

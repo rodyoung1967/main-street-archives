@@ -1040,3 +1040,13 @@ Integrity: `newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/SHA256SU
 Related evidence: `E-136`.
 Repository source capture: `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.
 Notes: Direct visual comparison shows the unnamed cleaner/dyer classified repeated for eight consecutive weekly issues from 18 Jul through 5 Sep 1919 when the 1 Aug `S-151` page is included. Every visually inspected occurrence prints **`500 Fifth and Main streets`**, **`two doors south of new post office`**, and Phone **260**. OCR readings of `600` on 25 Jul and 5 Sep are false; the scans print `500`. No business/proprietor name is printed, and the unusual location phrase is not normalized to 500 Main or 500 Fifth.
+
+## S-153 — Oregon City Enterprise, Dr. Freeze March–April 1921 relocation source set
+Type: Primary newspaper scans; **VISUALLY VERIFIED TARGETED SOURCE SET** 31 August 2026.
+Canonical PDFs:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1921-03-18/ed-1/seq-5.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1921-03-25/ed-1/seq-3.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1921-04-01/ed-1/seq-3.pdf
+Related evidence: `E-137`; related existing source: `S-035` (8 April 1921 at 505½ Main).
+Repository source capture: `evidence/source-captures/1921-03-18-to-04-08-freeze-507-half-to-505-half-transition.md`.
+Notes: The 18 March article reports Dr. Harvey Freeze moving his practice from Portland to Oregon City and locating **over Hardings Drug Store** but prints no Oregon City number. Direct scan review of 25 March and 1 April ads proves **507½ Main St.** on both dates; OCR `507` for 1 April is wrong. Existing visually verified 8 April evidence (`S-035` / `E-028`) then prints **505½ Main**. This establishes a 507½→505½ advertised-address change after 1 April and by 8 April, not the exact physical move day. Harding at numbered 507 is a strong cross-source inference, not source-explicit wording.

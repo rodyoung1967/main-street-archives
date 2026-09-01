@@ -41,7 +41,7 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 | 1910 | Young's Second Hand Store | `BUS-067` | `E-134`; `S-149`; `IMG-0725` | Very High | Photo visibly shows 505 and store name; CCHS supplies date and George Young identification. Combined with 1911/1912/1914 evidence, strongly supports a 505→507 sequence. |
 | Apr. 1911 / Jan. 1913 | The Chicago Store | `BUS-011` | `E-026` | Very High | |
 | Oct. 1918 | Wolf & Miller | `BUS-012` | `E-027` | Very High | Address occupied; surviving-building identity inferential. E-113 directly names Gilbert with the Springfield firm in February 1916, not at 505 then; 1918 Miller name discrepancy preserved. |
-| 1921-1922 | Dr. Freeze, Eye Specialist | `BUS-021` | `E-028` | Very High | 505 / 505 1/2; later Masonic Building. |
+| 8 Apr. 1921–29 Jun. 1922 | Dr. Freeze, Eye Specialist | `BUS-021` | `E-028`, `E-137` | Very High | 505 / 505½; visually verified at 507½ on 25 Mar and 1 Apr immediately before shifting to 505½ by 8 Apr; later Masonic Building. |
 | 1925 | Billiards and cigars (Sanborn) | | `E-020` | High map | |
 | By 1934 context | Farr's Pool Hall | `BUS-013` | `E-033` | High official | Operating span incomplete. |
 | 1945; directly documented Feb.–late 1948 | Harr's Recreation Center | `BUS-014` | `E-032`; `evidence/source-captures/1948-harrs-recreation-center-505-main.md` | Official secondary for 1945; Very High primary-text for 1948 | City inventory places Harr's Recreation Center in 1945. 11 Feb. 1948 Commission minutes show Harr and McDougald appearing as pool-hall operators; later-1948 liquor-license record directly names **Carl R. Harr**, **Harr's Recreation Center**, **505 Main Street**. Exact Farr→Harr transition remains unresolved. |
@@ -71,6 +71,7 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | --- | --- | --- | --- | --- | --- |
 | Jan. 1912; again 1914 | G. H. Young — The Curio Man / second-hand and furniture | `BUS-067` | `E-092`; 1914 exact listing; compare `E-134` | Very High for dated 507 address | The visible 1910 505 storefront and March 1911 one-door-north move strongly support a 505→507 sequence and 507/Willamette bridge; exact move day and uninterrupted occupancy remain open. |
 | Dated listings, Aug.–Oct. 1915 | W. W. Bradley furniture | `BUS-026` | `E-107` | High, visual | 507 Main, not Harding's 511 listing. No continuous occupancy or Young-to-Bradley transfer inferred. |
+| 18 Mar.–1 Apr. 1921 | Dr. Freeze office over Harding Drug Store context | `BUS-021`; `BUS-007` | `E-137` | Very High for Freeze at 507½; strong inference for Harding at numbered 507 | 18 Mar says Freeze is locating over Harding's; 25 Mar and 1 Apr ads directly print 507½. No source in the set directly prints Harding's number. |
 | Until 1 Sep. 1967 | Harding Drug Store | `BUS-007` | `E-045` | Very High for destruction in fire | Gutted 1 September 1967. Earlier operating span still incomplete. |
 | Before 1 Sep. 1967 fire | Tony's Restaurant | `BUS-008` | `E-016` | Working | Not named in the 1967 Oregonian fire article. |
 | 10 Jun. 1964 | Dixon's Pastry Shop | `BUS-023` | `E-129` | Very High | Advertisement directly prints 509 Main. |

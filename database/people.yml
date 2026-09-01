@@ -290,13 +290,14 @@ people:
     name: Dr. Freeze
     repository_file: people/profiles/dr-freeze.md
     role: Eye specialist
-    notes: Advertised at 505 / 505 1/2 Main 1921-1922 using title Eye Specialist; later rooms 207-8 Masonic Building.
+    notes: Harvey Freeze moved his practice from Portland to Oregon City in March 1921. Visually verified ads place him at 507 1/2 Main on Mar 25 and Apr 1, then 505 1/2 Main by Apr 8 through late June 1922; later rooms 207-8 Masonic Building.
     related_buildings:
       - B-002
+      - B-003
     related_businesses:
       - BUS-021
-    related_evidence: [E-028]
-    related_sources: [S-035]
+    related_evidence: [E-028, E-137]
+    related_sources: [S-035, S-153]
 
   - id: P-028
     name: Edwin F. Farr

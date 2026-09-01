@@ -190,3 +190,10 @@ This was a repository-presence and preservation-control audit, not new historica
 - Recorded the exact legacy Oregon City 1920–1929 Commission WebDrawer query, its current 404 retrieval failure during the City's records-system transition, and current Laserfiche/E-Vault route.
 - Recorded exact FamilySearch catalog 1439422 ARKs for both 1919–1920 Polk directory parts and physical holding `WA-120.1919` at Stillaguamish Valley Genealogical Society.
 - No annual-completion status change and no new evidence/source IDs assigned from retrieval or OCR-only material.
+
+### 2026-08-31 — Dr. Freeze 507½→505½ transition visually verified
+- Followed the June 1920 505½ pool-hall anchor forward through the 1920–1922 *Enterprise* OCR corpus, then reduced 281 broad hits to a high-signal candidate set before scan review.
+- Visually verified 18 Mar 1921 p5: Dr. Harvey Freeze moved his practice from Portland to Oregon City; subhead says he was locating **over Hardings Drug Store**. No Oregon City number is printed in that article.
+- Visually verified 25 Mar and 1 Apr p3 advertisements: both print **507½ Main St.**; OCR `507` on 1 Apr is false.
+- Existing visual evidence places Freeze at **505½ Main** on 8 Apr, proving an advertised-address change after 1 Apr and by 8 Apr (`S-153` / `E-137`, cross-reference `S-035` / `E-028`).
+- Harding at numbered 507 is retained as a strong spatial/address inference only; earlier direct 511 evidence remains valid. No Leland→Freeze succession, physical room identity, ownership, or 505 construction date is inferred.

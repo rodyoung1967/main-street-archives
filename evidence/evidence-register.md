@@ -1102,3 +1102,20 @@ Claims:
 - The 1918 Pantorium record at 500 Main (`E-124`) uses Phone 185-J, while this unnamed 1919 advertiser uses Phone 260. No identity, move, ownership, succession, or uninterrupted occupancy is inferred.
 - If future evidence proves the 1919 number means 500 Main and confirms literal storefront door counting, the phrase may constrain the exact Post Office bay within the 504–514 Main Latourette-David-Barlow range; that is a working spatial hypothesis only.
 Confidence: **Very High** for the repeated visible wording, `500` numeral, eight-week advertising run, trade, relative-location phrase and phone number; **unresolved** for normalized exact address, advertiser identity, relationship to Pantorium, and exact Post Office bay.
+
+## E-137 — Dr. Freeze relocation from 507½ to 505½ Main, March–April 1921
+Type: Primary newspaper professional-location and relocation evidence; **direct visual inspection**.
+Sources: `S-153`, existing `S-035` / `E-028` for 8 April 1921.
+Related buildings: `B-003` (507/Harding context), `B-002` (505).
+Related business/person: `BUS-021`, `P-027`.
+Repository source capture: `evidence/source-captures/1921-03-18-to-04-08-freeze-507-half-to-505-half-transition.md`.
+Claims:
+- The 18 March 1921 *Oregon City Enterprise* headline reports **DOCTOR FREEZE TO MOVE OFFICES FROM PORTLAND**; the subhead says the well-known eye specialist is locating **over Hardings Drug Store**.
+- The body names **Dr. Harvey Freeze**, says he had offices at Sixth and Washington streets in Portland for the prior twelve years, and says he **has moved to Oregon City to practice his profession**. It prints no numbered Oregon City address.
+- Direct visual review of the 25 March advertisement clearly prints **507½ Main St., Oregon City**.
+- Direct visual review of the 1 April advertisement also clearly prints **507½ Main St.**; an OCR reading of `507` is incorrect.
+- Existing visually verified 8 April evidence (`E-028` / `S-035`) prints **505½ Main Street, Oregon City**.
+- Therefore Freeze changed his advertised exact address from **507½ to 505½ after the 1 April issue and by the 8 April issue**. The exact physical move day is not established.
+- Because the 18 March article says his first Oregon City office was over Harding's Drug Store and the next exact ads place Freeze at 507½, **Harding Drug Store at/under the 507 address is a strong spatial/address inference for late March 1921, not a source-explicit numbered fact**. Earlier direct evidence places Harding's own drug business at 511 Main in 1911–1915.
+- The 505½ address reuse between A. Leland's June 1920 pool-hall permit (`E-135`) and Freeze by 8 April 1921 narrows occupancy chronology but does not prove room identity, succession, upstairs geometry, property ownership, or construction date of the surviving 505 building.
+Confidence: **Very High** for the visually verified March 18 wording and 507½/505½ dates; **strong inference only** for Harding's numbered 507 association; unresolved for exact move day, physical room relationship, Leland succession, and construction timing.

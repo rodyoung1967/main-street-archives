@@ -71,3 +71,8 @@ High-priority sources to locate:
 ## Advertised-location extension through November 25, 1915
 
 `E-109` / `S-121` visually confirms Geo. A. Harding at **511 Main** on October 28 p. 6, November 4 p. 6, November 11 p. 6, November 18 p. 6, and November 25 p. 3. Bradley remains at 507 and H. P. Brightbill at 509 in those same directories. These are dated business-number anchors, not continuity or title proof.
+
+## March 1921 Harding / 507½ address bridge
+`E-137` / `S-153` adds a new, carefully bounded bridge after the directly documented **511 Main** listings of 1911–1915. On 18 March 1921 the *Oregon City Enterprise* reports that Dr. Harvey Freeze had moved his practice from Portland to Oregon City and was locating **over Hardings Drug Store**. Directly inspected Freeze advertisements on **25 March** and **1 April** both print **507½ Main St.**; by 8 April Freeze is at 505½.
+
+This combination strongly supports Harding Drug Store being the ground-floor/associated premises at **507** in late March 1921, but the article itself does not print `507` for Harding. The archive therefore treats Harding-at-507 in March 1921 as a **strong spatial/address inference**, not yet a direct exact-number fact. It nevertheless materially narrows the store's shift from its visually verified 511 Main location in 1911–1915. Find an independent advertisement/directory that directly prints Harding at 507 before promoting the number to source-explicit status.

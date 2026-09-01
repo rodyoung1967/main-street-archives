@@ -759,3 +759,8 @@ sources:
     name: Oregon City Enterprise, 1919 cleaner/dyer repeat advertisement set
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-18/ed-1/seq-7.pdf
     notes: Seven additional primary p.7 scans, 18 Jul through 5 Sep 1919, visually verified 31 Aug 2026; together with S-151 they establish eight consecutive weekly appearances of the unnamed cleaner/dyer ad. Every checked scan prints `500 Fifth and Main streets`, `two doors south of new post office`, and Phone 260. OCR `600` readings on 25 Jul and 5 Sep are incorrect. No advertiser name or address normalization is inferred. Related evidence E-136; files and hashes under newspapers/oregon-city-enterprise/1919-cleaner-repeat-pages/.
+
+  - id: S-153
+    name: Oregon City Enterprise, Dr. Freeze March–April 1921 relocation source set
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-03-18/ed-1/seq-5.pdf
+    notes: Three primary pages visually verified 31 Aug 2026. Mar 18 reports Harvey Freeze moving from Portland to Oregon City and locating over Hardings Drug Store without a number; Mar 25 and Apr 1 ads visibly print 507½ Main. Existing S-035/E-028 prints 505½ Main on Apr 8, proving an advertised-address shift after Apr 1 and by Apr 8. Harding-at-507 remains a strong inference until a source directly prints its number. Related evidence E-137; full provenance in the 1921 Freeze transition capture.

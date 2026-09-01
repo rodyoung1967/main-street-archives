@@ -92,3 +92,8 @@ The municipal/directory retrieval path is now pinned in `evidence/source-capture
 - `1920-02-13-page-5.pdf`: `dfd5be8e1fad8ad1c7dca8516590bb67d1a3d7c3f41cc5e4c1a1cb69a04eb004`
 - `1920-06-04-page-3.pdf`: `3b419bb26e96d77aaf5be8dcb7f0954c7755ab9be890788fad119ca79702c245`
 - `1920-12-03-page-1.pdf`: `1110d255815ccefe6e68614f9582f82fd1d4752b7f17ebcaea2bb7ec8fc44721`
+
+## 1921 follow-forward: Freeze relocation narrows the 505½ occupancy sequence
+A follow-forward *Enterprise* search produced a visually verified March–April 1921 transition (`E-137` / `S-153`). The 18 March paper says Dr. Harvey Freeze moved from Portland to Oregon City and was locating over Harding's Drug Store. Direct scans place Freeze at **507½ Main** on 25 March and 1 April, then existing visually verified evidence places him at **505½ Main** on 8 April.
+
+This materially tightens the sequence after A. Leland's **505½** pool-hall/sign permit of June 1920: Freeze did not begin his Oregon City practice at 505½; he first advertised at 507½ and shifted to 505½ between the 1 and 8 April issues. It still does **not** prove what happened to Leland's pool hall, whether Leland and Freeze used the same physical room, or when the surviving 505 structure was constructed. A parallel strong inference places Harding Drug Store with the 507½ office in late March, but an independent exact-507 Harding source is still needed.

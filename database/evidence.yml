@@ -2182,3 +2182,22 @@ evidence:
     related_sources: [S-151, S-152]
     related_evidence: [E-124]
     repository_file: evidence/source-captures/1919-cleaning-dyeing-two-doors-south-new-post-office-ocr-lead.md
+
+  - id: E-137
+    name: Dr. Freeze relocation from 507½ to 505½ Main, March–April 1921
+    type: Primary newspaper professional-location and relocation evidence; direct visual inspection
+    claims:
+      - The 18 March 1921 Oregon City Enterprise reports Dr. Harvey Freeze moving his practice from Portland to Oregon City and locating over Hardings Drug Store; it prints no Oregon City number.
+      - The 25 March advertisement visibly prints 507½ Main St., Oregon City.
+      - The 1 April advertisement also visibly prints 507½ Main St.; OCR 507 is incorrect.
+      - Existing visually verified 8 April evidence E-028/S-035 prints 505½ Main Street.
+      - Freeze therefore changed his advertised address from 507½ to 505½ after the 1 April issue and by the 8 April issue; exact physical move day is not proved.
+      - Harding Drug Store at/under numbered 507 in late March is a strong cross-source spatial inference from the over-Harding wording plus Freeze's 507½ ads, not a directly printed Harding number.
+      - Address reuse at 505½ after A. Leland's June 1920 permit narrows occupancy chronology but does not prove succession, room identity, upstairs geometry, ownership, or construction date.
+    confidence: Very High for visually verified Freeze wording and exact-number dates; strong inference only for Harding at numbered 507; unresolved for physical relationship and construction timing.
+    related_sources: [S-153, S-035]
+    related_evidence: [E-028, E-128, E-135]
+    related_buildings: [B-002, B-003]
+    related_businesses: [BUS-021, BUS-007]
+    related_people: [P-027, P-001]
+    repository_file: evidence/source-captures/1921-03-18-to-04-08-freeze-507-half-to-505-half-transition.md
