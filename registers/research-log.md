@@ -203,3 +203,11 @@ This was a repository-presence and preservation-control audit, not new historica
 - The scan directly prints **“Willamette Bldg., Room 4, Over Harding Drug Store.”** (`S-154` / `E-138`).
 - Preserved the conflict/constraint with `E-085` and `E-092`: Young's later 507 address does not prove the Willamette Building was 507 alone, while Harding's direct January 1912 business listing remains 511 Main.
 - No building-number merger, 503/505 construction date, or multi-bay footprint conclusion was made. The result instead strengthens the rule that named buildings, numbered storefronts, and upstairs half-numbers must be reconstructed separately.
+
+### 2026-09-01 — 1924 directory citation reverified; actual volume still unlocated
+
+- Visually inspected the original Latourette nomination bibliography on PDF **page 7**, correcting the former page-6 locator in `S-069` and the source note. Preserved its full 19-page PDF under `records/historic-surveys/`; SHA-256 comparison found no existing identical repository PDF.
+- Clarified `E-056`: a bibliography citation and supporting-data repository designation are proved, but the exact edition/current holding and directory occupants are not independently verified.
+- Checked public scans, directory indexes and institutional routes; documented catalog retrieval failures separately from bounded no-match results. No readable 1924 directory surfaced.
+- Downloaded GFO's 30 June 2025 shelflist; visually inspected original PDF pages 567, 568 and 622 and preserved those three pages as an explicitly labeled excerpt under `records/library-catalogs/`. They list earlier statewide and later Oregon City directories, not the target 1924 volume.
+- Saved official contact routes and numbered manual targets in `evidence/source-captures/1924-oregon-city-directory-retrieval-review-2026-09-01.md`; synchronized `RL-018`, the `S-069` portion of `RL-021`, and the 1925–1926 business checkpoint. No inquiry sent, paid service ordered, or occupant/construction claim promoted. Annual review statuses unchanged.

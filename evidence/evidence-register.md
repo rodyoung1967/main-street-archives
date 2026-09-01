@@ -387,7 +387,7 @@ Type: Official National Register documentation citing a historical directory
 Sources: `S-069`  
 Related record: `evidence/E-056-1924-oregon-city-directory-source-lead.md`  
 Claims: A 1992 National Register nomination cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies the Oregon City Planning Department as a local repository for additional data. The nomination does **not** reproduce Main Street directory entries and therefore is not evidence for a specific occupant.  
-Confidence: Very High for existence/citation of the 1924 directory and repository lead; None yet for 501/503/505/507 occupants from that directory.
+Confidence: Very High for the bibliography citation and supporting-file repository lead; exact edition identity/current holding unresolved; None yet for 501/503/505/507 occupants from that directory. Original PDF page 7 visually reverified and full nomination mirrored on 1 September 2026. The citation alone does not independently prove the exact edition's existence or present custody; this clarifies earlier combined existence/citation wording.
 
 ## E-057 — I. Tolpolar on Main Street, 1904
 Type: Primary newspaper advertisements  

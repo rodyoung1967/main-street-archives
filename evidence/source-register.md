@@ -358,10 +358,11 @@ Notes: Identifies Holman & Pace as undertakers, embalmers and funeral directors 
 ## S-069 — National Register nomination, DeWitt Clinton Latourette House, 1992
 Canonical PDF: https://npgallery.nps.gov/GetAsset/152322a5-6e9f-44b2-8871-c4fef169dad0/  
 Type: Official National Park Service documentation / secondary source lead.  
-Relevant page: PDF p. 6.  
+Relevant page: PDF p. **7** (one-based; corrected by original-page visual inspection on 1 September 2026).
 Related evidence: `E-056`  
 Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`  
-Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. NPS PDF binary still needs physical mirroring if desired.
+Repository original PDF: `records/historic-surveys/1992-latourette-house-nrhp-nomination.pdf`
+Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. Original 19-page NPS PDF mirrored on 1 September 2026. The citation and nomination-file repository lead are verified, not the exact directory edition or its current holding. Retrieval review: `evidence/source-captures/1924-oregon-city-directory-retrieval-review-2026-09-01.md`.
 
 ## S-070 — Oregon City Enterprise, I. Tolpolar advertisements, late 1904
 Canonical pages:  

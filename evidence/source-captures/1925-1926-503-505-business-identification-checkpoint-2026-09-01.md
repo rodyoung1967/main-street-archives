@@ -97,6 +97,8 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 
 ## Highest-value next retrievals
 
+**1924 directory follow-up, 1 September 2026:** The NPS bibliography citation was visually reverified and its original PDF preserved, but no readable 1924 directory or confirmed current holding was located. No occupant claim changed. See `1924-oregon-city-directory-retrieval-review-2026-09-01.md` for exact institutional routes and numbered manual work; requests remain unsent.
+
 1. Recover and visually inspect the **1926 Kwality Restaurant advertisement(s)** cited by the City inventory, recording date, title, page, address, proprietor, and exact trade name.
 2. Review **1923–1926 Banner-Courier and Enterprise microfilm**, especially advertisements, licenses, business sales, relocations, pool/billiard notices, restaurant notices, and the days following the 18 April 1925 fire.
 3. Inspect the **1924 Oregon City directory** and any 1925–1927 Polk, telephone, or business directories for the address ladder at 501–511 Main and alphabetical entries for Farr, Kwality, Leland, Little, Timms, and Jager.
