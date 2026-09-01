@@ -2201,3 +2201,20 @@ evidence:
     related_businesses: [BUS-021, BUS-007]
     related_people: [P-027, P-001]
     repository_file: evidence/source-captures/1921-03-18-to-04-08-freeze-507-half-to-505-half-transition.md
+
+  - id: E-138
+    name: Willamette Building room over Harding Drug Store, September 1912
+    type: Primary newspaper building-name / vertical-space relationship evidence; direct visual inspection
+    claims:
+      - The visually inspected 7 September 1912 Morning Enterprise page prints “Willamette Bldg., Room 4, Over Harding Drug Store” in a Spirella advertisement for Mrs. Adalyn Davis.
+      - This directly establishes a September 1912 vertical/building-name relationship between a Willamette Building room and Harding Drug Store.
+      - The advertisement prints no numbered Main Street address for the building, room, or Harding Drug Store.
+      - Earlier exact-address evidence E-092 still directly places Young at 507, Brightbill at 509, and George A. Harding at 511 Main in January 1912; E-085's Young-to-Willamette continuity remains unresolved.
+      - The result warns against assuming one named building equals one storefront number; a multi-bay building, changed Young premises, or broader building naming remain models to test, not conclusions.
+      - It does not date demolition/reconstruction of 503 or 505 and does not change the direct 511 Harding business listing.
+    confidence: Very High for visible wording and vertical relationship; unresolved for exact numbered footprint, multi-bay extent, and Young continuity.
+    related_sources: [S-154]
+    related_evidence: [E-085, E-092, E-137]
+    related_buildings: [B-003]
+    related_businesses: [BUS-007]
+    repository_file: evidence/source-captures/1912-09-07-willamette-building-over-harding-drug-store.md

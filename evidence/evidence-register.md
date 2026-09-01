@@ -1119,3 +1119,19 @@ Claims:
 - Because the 18 March article says his first Oregon City office was over Harding's Drug Store and the next exact ads place Freeze at 507½, **Harding Drug Store at/under the 507 address is a strong spatial/address inference for late March 1921, not a source-explicit numbered fact**. Earlier direct evidence places Harding's own drug business at 511 Main in 1911–1915.
 - The 505½ address reuse between A. Leland's June 1920 pool-hall permit (`E-135`) and Freeze by 8 April 1921 narrows occupancy chronology but does not prove room identity, succession, upstairs geometry, property ownership, or construction date of the surviving 505 building.
 Confidence: **Very High** for the visually verified March 18 wording and 507½/505½ dates; **strong inference only** for Harding's numbered 507 association; unresolved for exact move day, physical room relationship, Leland succession, and construction timing.
+
+## E-138 — Willamette Building room over Harding Drug Store, September 1912
+Type: Primary newspaper building-name / vertical-space relationship evidence; **direct visual inspection**.
+Source: `S-154`.
+Related evidence: `E-085`, `E-092`, `E-137`.
+Related building/business: `B-003`, `BUS-007`.
+Repository source capture: `evidence/source-captures/1912-09-07-willamette-building-over-harding-drug-store.md`.
+Claims:
+- The visually inspected 7 September 1912 *Morning Enterprise* page contains a Spirella Corsets advertisement for Mrs. Adalyn Davis that prints **“Willamette Bldg., Room 4, Over Harding Drug Store.”**
+- This directly establishes that a room identified with the **Willamette Building** was described as being physically **over Harding Drug Store** in September 1912.
+- The advertisement prints **no numbered Main Street address** for the Willamette Building, Room 4, or Harding Drug Store.
+- `E-092` independently and visually places **G. H. Young at 507 Main**, **H. P. Brightbill at 509 Main**, and **Geo. A. Harding at 511 Main** in January 1912. `E-085` separately says Young moved one door north into the Willamette Building in March 1911, but continuity from that room to Young's January 1912 507 address is not proved.
+- Therefore this source **strengthens the warning against a one-building-per-number reconstruction**. It permits, but does not prove, a multi-bay named building, a change of Young premises, or broader/imprecise building naming.
+- The source does not justify moving Harding from the directly printed 511 Main address, does not prove the Willamette Building equals 507 alone, and does not date demolition/reconstruction of 503 or 505.
+- In combination with `E-137` (Freeze “over Hardings Drug Store” in March 1921 followed by 507½ ads), it shows that historical “over” descriptions and half-numbered professional rooms require separate evidence from ground-floor storefront numbering.
+Confidence: **Very High** for the visible 1912 wording and vertical/building-name relationship; **unresolved** for exact numbered building footprint, multi-bay extent, Young continuity, and implications for later 507/511 numbering.

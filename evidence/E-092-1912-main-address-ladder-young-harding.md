@@ -36,3 +36,6 @@ Absence of 505 from this particular business page is not evidence of vacancy.
 **Very High** for the visually verified 503 / 507 / 509 / 511 address sequence on 5 January 1912.  
 **High** that the sequence materially constrains the Harding/Willamette reconstruction.  
 **Unresolved** for Willamette=507, Harding's exact building number, and the 505 occupant on this date.
+
+## September 1912 building-name constraint
+A later visually verified 7 September 1912 advertisement (`E-138` / `S-154`) states **“Willamette Bldg., Room 4, Over Harding Drug Store.”** It prints no number. That wording does not alter the exact January ladder on this page—Young 507, Brightbill 509, Harding 511—but it prevents treating the hypothesis “Young's Willamette Building = 507” as a proved one-building/one-number identity. The named Willamette Building may have encompassed multiple numbered bays, Young may have changed premises between March 1911 and January 1912, or the building naming may have been broader than storefront numbering. Those alternatives remain unresolved.

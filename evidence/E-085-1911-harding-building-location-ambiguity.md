@@ -29,3 +29,8 @@ Later evidence that George Young was at **507 Main in January 1912** creates a u
 
 **Very High** for the two 1911 published location descriptions and for George Young's one-door-north move into the Willamette Building.  
 **Unresolved** for exact numbers, lot/footprint, whether both descriptions refer to one physical Harding Building, and the relationship to later 505/507 numbering.
+
+## 1912 Willamette-over-Harding constraint
+`E-138` / `S-154` adds a direct September 1912 relationship that makes the exact-building-number caution even more important. A visually verified Spirella advertisement prints **“Willamette Bldg., Room 4, Over Harding Drug Store.”** The advertisement gives no number. At the same time, `E-092` directly places George Young at 507 Main and George A. Harding's drug business at 511 Main in January 1912.
+
+This means the archive must not simply equate **Willamette Building = 507 only** and **Harding Building/Drug Store = the adjacent single number**. Possible multi-bay building extent, a change in Young's premises, and broader contemporary building naming all remain open. Preserve the 1911 one-door-north statement, the 1912 exact address ladder, and the September 1912 “over Harding” wording as simultaneous constraints.

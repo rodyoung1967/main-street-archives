@@ -1050,3 +1050,10 @@ Canonical PDFs:
 Related evidence: `E-137`; related existing source: `S-035` (8 April 1921 at 505½ Main).
 Repository source capture: `evidence/source-captures/1921-03-18-to-04-08-freeze-507-half-to-505-half-transition.md`.
 Notes: The 18 March article reports Dr. Harvey Freeze moving his practice from Portland to Oregon City and locating **over Hardings Drug Store** but prints no Oregon City number. Direct scan review of 25 March and 1 April ads proves **507½ Main St.** on both dates; OCR `507` for 1 April is wrong. Existing visually verified 8 April evidence (`S-035` / `E-028`) then prints **505½ Main**. This establishes a 507½→505½ advertised-address change after 1 April and by 8 April, not the exact physical move day. Harding at numbered 507 is a strong cross-source inference, not source-explicit wording.
+
+## S-154 — Morning Enterprise, Willamette Building room over Harding Drug Store, 7 September 1912
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED TARGETED SOURCE** 31 August 2026.
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-09-07/ed-1/seq-3.pdf
+Related evidence: `E-138`; related earlier evidence: `E-085`, `E-092`; later comparison: `E-137`.
+Repository source capture: `evidence/source-captures/1912-09-07-willamette-building-over-harding-drug-store.md`.
+Notes: Direct scan review proves a Spirella Corsets advertisement for Mrs. Adalyn Davis stating **“Willamette Bldg., Room 4, Over Harding Drug Store.”** The page does not print a Main Street number in this advertisement. The source therefore establishes a 1912 vertical/building-name relationship but does not equate the Willamette Building with 507 alone or alter Harding's separately verified 511 Main business address. PDF SHA-256: `fa70ac7e96fb6ca9bf6fb7bccca9d350614ece348fc0fb21e7480b342bc550bb`.

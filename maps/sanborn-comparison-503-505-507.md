@@ -243,3 +243,6 @@ Archive handling:
 ## Task 7 Integrated Address-to-Property Bridge
 
 `E-108` now provides the controlling synthesis for using this map with cadastral/property evidence. The proven framework is original **Block 4** with Harding at Lots 3–4 in 1913; current 503 overlaps Lot 4 and current 505 overlaps Lots 3–4 as current legal-description leads. The July 1922 property division still permits both Gates-principally-at-501 and Gates-at-501+503 models. The 1925 Sanborn use pattern may test compatibility but must not be backdated as proof of the 1922 wall.
+
+## Building-name caution added by September 1912 evidence
+A visually verified September 1912 advertisement (`E-138` / `S-154`) places **Room 4 of the Willamette Building over Harding Drug Store** without a street number. Read alongside the January 1912 507/509/511 address ladder, this cautions against forcing each historical named building into a single numbered Sanborn bay. When comparing the 1911 and 1925 sheets, keep named-building identity, ground-floor storefront numbering, and upstairs/half-number rooms separate unless a source explicitly joins them.

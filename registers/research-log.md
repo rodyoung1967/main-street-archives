@@ -197,3 +197,9 @@ This was a repository-presence and preservation-control audit, not new historica
 - Visually verified 25 Mar and 1 Apr p3 advertisements: both print **507½ Main St.**; OCR `507` on 1 Apr is false.
 - Existing visual evidence places Freeze at **505½ Main** on 8 Apr, proving an advertised-address change after 1 Apr and by 8 Apr (`S-153` / `E-137`, cross-reference `S-035` / `E-028`).
 - Harding at numbered 507 is retained as a strong spatial/address inference only; earlier direct 511 evidence remains valid. No Leland→Freeze succession, physical room identity, ownership, or 505 construction date is inferred.
+
+### 2026-08-31 — 1912 Willamette Building / Harding Drug Store vertical relationship verified
+- Recovered and visually inspected the 7 Sep 1912 *Morning Enterprise*, p3, after indexed OCR surfaced a repeated Spirella ad.
+- The scan directly prints **“Willamette Bldg., Room 4, Over Harding Drug Store.”** (`S-154` / `E-138`).
+- Preserved the conflict/constraint with `E-085` and `E-092`: Young's later 507 address does not prove the Willamette Building was 507 alone, while Harding's direct January 1912 business listing remains 511 Main.
+- No building-number merger, 503/505 construction date, or multi-bay footprint conclusion was made. The result instead strengthens the rule that named buildings, numbered storefronts, and upstairs half-numbers must be reconstructed separately.
