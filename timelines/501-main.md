@@ -24,6 +24,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 1924 | Polk directory exists; address pages not recovered. | Retrieval/manual target; no tenant conclusion. | `E-056`; `S-069` |
 | 30 Apr. 1925 | Municipal fire call on Main between Fifth and Sixth; chimney spark; approximately $15 damage. | **Street-segment context only**: side, number and occupant unstated; not an identified 501 fire/rebuild. Supersedes the conflated April 18 / $2,500 lead. | `E-139`; `S-157` |
 | 1925 | Sanborn maps **501 as a separate store** beside 503 restaurant and 505 billiards/cigars. | **Exact map use**; occupant unnamed and 1922 division unresolved. | `E-020`; `S-021`; `SM-008` |
+| 11 Nov. 1926 | Fire department responds to **Fifth and Main, false alarm**, 1:15 p.m. | **Intersection context only**; no number or occupant, damage unstated. Not a 501 fire or rebuild. | `E-142`; `S-159`; `T-049` |
 | 1936 | Aerial shows distinct 501 roof/structure. | Physical presence; tenant/construction date unknown. | `E-021`; `S-023` |
 | 1936–1944 | Distinct 501 structure disappears between aerials. | Removal window only; cause/date unresolved. | `E-021`; `S-023` |
 | 1950 | Earlier separate 501 storefront configuration is absent from Sanborn. | Physical/address context, not removal-cause proof. | `SM-009` |

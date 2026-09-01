@@ -17,6 +17,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 30 Apr. 1925 | Municipal fire call on Main between Fifth and Sixth; chimney spark; approximately $15 damage. | **Street-segment context only**: side, number and occupant unstated; not an identified 503 fire/rebuild. Supersedes the conflated April 18 / $2,500 lead. | `E-139`; `S-157` |
 | 1925 | Sanborn maps **503 as separate restaurant**, concrete floor. | **Exact map use**; business/occupant unnamed. | `E-020`; `SM-008` |
 | 1926 | City synthesis reports **Kwality Restaurant**. | Official secondary; underlying page desirable. | `BUS-001`; `E-032` |
+| 11 Nov. 1926 | Fire department responds to **Fifth and Main, false alarm**, 1:15 p.m. | **Intersection context only**; no number or occupant, damage unstated. Not a 503 fire or rebuild. | `E-142`; `S-159`; `T-049` |
 | 1936–1950 | Aerial/Sanborn evidence retains the 503/505 Main-frontage structures while the separate 501 structure disappears by 1944. | Physical continuity context only; does not identify 503 tenant or prove unchanged fabric. | `E-021`; `S-023`; `SM-009` |
 | 12 Jun. 1937 | “KWALITY cafe” offered for sale in Oregon City. | Primary name; ad omits number, association from wider chronology. | `BUS-001`; `E-043`; `S-050`; `IMG-0045` |
 | 1947 | City synthesis reports **Kwality Cafe** at 503. | Official secondary. | `BUS-001`; `E-032` |

@@ -262,6 +262,10 @@ The municipal fire table records **10 a.m., Fifth St., flue** (`E-139` / `S-157`
 
 The engineering report describes Fifth paving **from High to Jackson**, uphill from Main: 9,990 square yards costing $18,159.85 within the 40-foot curb-to-curb asphaltic-concrete program. It describes the older center pavement as 18 feet wide, laid in 1903, and notes 4,000 square yards of three-inch blackbase (`E-140` / `S-157`). These are pavement measurements, **not proof of legal street-width change beside 501–505 or rebuilding of those properties**.
 
+## 1926 — Sixth/Main fire calls and Fifth/Main false alarm
+
+The municipal table distinguishes **10 July, 4:40 p.m., Sixth/Main, false alarm** (`T-047`); **20 September, 1:50 a.m., Sixth/Main, unknown cause, approximately $500 damage** (`T-048`); and **11 November, 1:15 p.m., Fifth/Main, false alarm** (`T-049`). Damage cells for the false alarms are blank, not stated zeroes. No numbered premises, street side or occupant is supplied; none proves fire damage or rebuilding at 501/503/505 (`E-142`, `S-159`). [Original report and verified rows](evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md).
+
 ## 1935 — present 527 Main / Swartz Building
 City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.
 

@@ -1167,3 +1167,26 @@ Claims:
 - The police narrative reports a permanent record system for arrests and important complaints, and identification records. Its annual table counts **two selling-without-license cases**, without names, addresses or case dates. No known Main/Fifth business or proprietor is implicated.
 - These identify retrieval leads for underlying license account detail/receipts and police records; their survival, accessibility and relevance to 501/503/505 remain unconfirmed.
 Confidence: **Very High** for printed aggregate amounts and recordkeeping description; **unresolved** for underlying record survival or target relevance. No building, business, person or property event is assigned.
+
+## E-142 — 1926 Fifth/Sixth and Main fire calls and false alarms
+Type: Primary municipal fire-call table; **VISUALLY VERIFIED** 1 September 2026.
+Source: `S-159`, printed pp. 13–14 (PDF 8–9).
+Capture: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`.
+Claims:
+- **July 10, 4:40 p.m., Sixth and Main: false alarm**, damage unstated.
+- **September 20, 1:50 a.m., Sixth and Main: unknown cause, approximately $500 damage**.
+- **November 11, 1:15 p.m., Fifth and Main: false alarm**, damage unstated.
+- No numbered premises, business, proprietor or street side is supplied. False alarms are not destructive fires; blank damage cells are not affirmative zeroes. None establishes a 501/503/505 fire or rebuild.
+- A separate **August 4, 2 a.m., Paramount Restaurant** entry gives undetermined cause and approximately **$4,500 damage**, but no address. Its location and connection, if any, to Main/Fifth or Kwality remain open.
+Confidence: **Very High** for the printed entries; exact premises and target relevance unresolved. Timeline `T-047`–`T-049`; no building/business relationship assigned.
+
+## E-143 — 1926 restaurant inspections, county health payment and license accounts
+Type: Primary municipal report; **VISUALLY VERIFIED** 1 September 2026.
+Source: `S-159`, printed pp. 8, 19, 29, 34 (PDF 6, 11, 16, 19).
+Capture: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`.
+Claims:
+- Recorder receipts list licenses $7,480.20, permits/dog licenses $533.25, and franchises $275.00, without payers or premises.
+- The operating statement separately reports combined franchise/license revenue of $8,356.99 against $6,576.91 for 1925. The three Recorder lines total $8,288.45, a $68.54 difference whose explanation remains unresolved. Do not conflate categories or infer a business count/change.
+- The health narrative says all city restaurants were inspected, but supplies no names, dates, addresses or returns. Its actual printed page is 19, not the index's 18.
+- A health-budget line labeled Clackamas Co. shows $480 budgeted and expended. A city–county health arrangement is a research inference to test through agreements/vouchers, not a proved inspection contract or custody transfer.
+Confidence: **Very High** for stated amounts and narrative; underlying records, accounting reconciliation and target occupants unresolved. No business, building, person or construction event assigned.

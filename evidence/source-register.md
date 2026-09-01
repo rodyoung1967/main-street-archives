@@ -1099,3 +1099,13 @@ Relevant sections: Assessment and Tax Rolls; Assumed Business Names Registers; L
 Capture and exact series/date/quantity/location table: `evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md`.
 Research links: `RL-002`, `RL-007`, `RL-010`, `RL-024`, `RL-026`. No claim-level evidence or timeline event assigned.
 Limits: A series listing does not prove that a 501/503/505 record exists within it. The named business certificates begin after the target map year; no 1925 tenant is identified. Departmental routing pages were also checked in the capture; no institutional inquiry was sent. The former `/archives/records/county/` URL failed; use the relocated canonical page above.
+
+## S-159 — City of Oregon City, Report of Municipal Activities for 1926
+Type: Primary municipal report scan; **23/23 PDF pages VISUALLY VERIFIED** 1 September 2026. Report completion only; **1926 remains IN PROGRESS**.
+Canonical PDF: https://www.orcity.org/DocumentCenter/View/6215/1926-Municipal-Activities-Report
+Repository original: `records/municipal/annual-reports/1926-municipal-activities-report.pdf`.
+Integrity: 19,809,640 bytes; SHA-256 `433753736a08a225e8437cea6b91123d1e867481703b87ea93d657e9dd11c790`.
+Transmittal: January 25, 1927; printer credit Oregon City Enterprise. No target location inferred from credits.
+Evidence: `E-142` fire calls; `E-143` health/licensing context. Embedded aerial: `IMG-0726`, PDF 4, exposure date and target roof mapping unresolved.
+Review and numbered manual follow-ups: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`; per-page audit: `evidence/source-captures/1926-municipal-report-page-review-2026-09-01.json`.
+Limits: No named 501/503/505 occupant or target reconstruction identified. Fifth/Main November 11 call is a false alarm; September 20 Sixth/Main damage has no numbered premises. Restaurant inspections and county-labeled health payment identify retrieval leads, not present record custody. Original downloaded independently of the blocked Laserfiche route and retained unchanged.

@@ -32,6 +32,8 @@ Municipal research continuation: [working Laserfiche catalog route and May 1927 
 
 Latest occupant/property retrieval checkpoint: [1925 license/inspection search and county archival leads](evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md) (`S-158`). Exact holdings and five manual callouts are saved; no underlying receipts, returns or assessment entries were recovered, and no tenant or construction date is newly established.
 
+Latest municipal source review: [1926 report, all 23 PDF pages visually verified](evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md), [retained original](records/municipal/annual-reports/1926-municipal-activities-report.pdf). New fire-call distinctions (`E-142`), county health-payment/inspection leads (`E-143`) and embedded aerial (`IMG-0726`); no target tenant or rebuild date. Year remains **IN PROGRESS**.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)

@@ -17,6 +17,8 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 ## Committed photographs
 
+**1 September 2026 addition outside the raster-file count:** `IMG-0726` is an oblique downtown aerial embedded on PDF page 4 of the [retained 1926 municipal report](../../records/municipal/annual-reports/1926-municipal-activities-report.pdf). It is cataloged in the [media register](../photo-metadata-register.md), not stored as a duplicate standalone photo. Its exposure date and target-roof mapping are unresolved. The report's other illustrations are also retained with [page locators](../../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md). The historical raster-only totals above do not count embedded PDF illustrations.
+
 ### Aerial series — 38 files
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).

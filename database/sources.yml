@@ -783,6 +783,12 @@ sources:
     count_reconciliation: S-157 printed p. 7 reports 84 meetings (12 regular, 72 special), versus 81 catalog entries here. Different units require date-level reconciliation; not proof of three missing meetings or annual completeness.
     notes: Official digital metadata captured 1 Sep 2026 via folder browsing and Advanced Name query. All five result pages yield 81 entries and 159 summed scan pages, not deduplicated physical pages or annual completeness. January 6 is OCR/TEXT ONLY; other entries PENDING; zero 1925 pages visually verified in this pass. Browser URL policy stopped the scan-export test; no workaround attempted and no January PDF retained. Full route and limits in the municipal access capture; no occupant/construction claim promoted.
 
+  - id: S-159
+    name: City of Oregon City, Report of Municipal Activities for 1926
+    url: https://www.orcity.org/DocumentCenter/View/6215/1926-Municipal-Activities-Report
+    repository_file: records/municipal/annual-reports/1926-municipal-activities-report.pdf
+    notes: Original 19,809,640-byte PDF retained unchanged; SHA-256 433753736a08a225e8437cea6b91123d1e867481703b87ea93d657e9dd11c790. All 23 PDF pages visually reviewed 1 Sep 2026; year remains IN PROGRESS. Transmittal January 25, 1927. E-142 distinguishes Fifth/Main and Sixth/Main false alarms from the September 20 Sixth/Main damage entry; no numbered target premises assigned. E-143 records licensing/health context and unresolved accounting reconciliation. IMG-0726 is the embedded PDF 4 aerial, not independently dated or mapped to target roofs. Page checklist and four manual callouts in the 1926 report capture. No blocked-export retry.
+
   - id: S-158
     name: Oregon State Archives, Clackamas County historical records inventory
     url: https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx

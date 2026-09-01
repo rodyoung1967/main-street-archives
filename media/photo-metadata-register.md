@@ -1135,6 +1135,17 @@ Rights: not supplied; no public-domain assertion.
 Limits: The institution supplies the business, 505 location, and date wording. Because formal citywide numbering is documented in 1906, 505 may be retrospective for the 1880/1880s image. No present-building, Harding Building, title, or continuity conclusion.
 Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
 
+## IMG-0726 — Downtown oblique aerial reproduced in the 1926 municipal report
+File/container: `records/municipal/annual-reports/1926-municipal-activities-report.pdf`, **PDF page 4**, lower image.
+Type: Historic aerial photograph reproduced within a municipal report; no separate raster derivative committed.
+Source: `S-159`; report transmittal January 25, 1927. **Exposure date unknown**; the report year is not a verified photograph date.
+Status: `committed` within the original PDF; visually reviewed 1 September 2026, including a higher-resolution render.
+Caption identifies an airplane view of Oregon City from Fourth Street north toward Sixteenth Street. No photographer or original negative ID established. The general city map above is a different image, not a Sanborn sheet or a photograph-date source.
+Limits: Individual 501/503/505 roofs and boundaries not conclusively traced; no construction/removal date, measurement or named tenant inferred. Related buildings are research targets only, not established image assignments.
+Integrity: container SHA-256 `433753736a08a225e8437cea6b91123d1e867481703b87ea93d657e9dd11c790`.
+Rights: original-photo provenance and rights not independently established; preserved as part of the official report.
+Review: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`. Other report illustrations remain preserved in that PDF with page locators in the review; standalone-raster counts are unchanged.
+
 ## IMG-0725 — George Young's Second Hand Store at 505 Main, 1910
 File: `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg`
 Original uploaded filename: `George Young's Second Hand Store 1910 (Clackamas County Historical Society).jpg`.

@@ -472,6 +472,30 @@ timeline:
     related_businesses: [BUS-004]
     related_buildings: [B-001]
 
+  - id: T-047
+    date: 10 July 1926
+    summary: Fire-call table records Sixth and Main at 4.40 p.m. as a false alarm; damage blank, no numbered premises or occupant.
+    confidence: Very High for table; no target-building fire or reconstruction assigned.
+    related_evidence: [E-142]
+    related_sources: [S-159]
+    related_buildings: []
+
+  - id: T-048
+    date: 20 September 1926
+    summary: Fire-call table records Sixth and Main at 1.50 a.m., unknown cause and approximately $500 damage; no number, side or occupant.
+    confidence: Very High for table; target premises and subsequent repairs unresolved.
+    related_evidence: [E-142]
+    related_sources: [S-159]
+    related_buildings: []
+
+  - id: T-049
+    date: 11 November 1926
+    summary: Fire-call table records Fifth and Main at 1.15 p.m. as a false alarm; damage blank, no number or occupant. Intersection context only in 501/503/505 timelines.
+    confidence: Very High for table; not a destructive-fire or rebuild event.
+    related_evidence: [E-142]
+    related_sources: [S-159]
+    related_buildings: []
+
   - id: T-039
     date: 6 April 1988
     summary: Oregon City Commission record identifies The Dug Inn formerly The Brass Rail at 505 Main and a Wiitanen-to-Cotterell change-of-ownership application.

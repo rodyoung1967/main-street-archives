@@ -1,7 +1,7 @@
 # Annual Research Status
 
 Audit date: 28 August 2026; targeted 1925 checkpoint added 1 September 2026.
-Scope: annual online-review work currently documented for 1904–1918, plus targeted 1922 fire/property and 1925 municipal/occupancy checkpoints. The later addition does not certify a fresh audit of the earlier years.
+Scope: annual online-review work currently documented for 1904–1918, plus targeted 1922 fire/property and 1925–1926 municipal/occupancy checkpoints. The later additions do not certify a fresh audit of the earlier years.
 
 This is the canonical status register for annual research. The completion levels and certification requirements are defined in `RESEARCH-STANDARD.md`. A legacy targeted, routine, OCR-assisted, or “complete enough for progression” pass does not qualify as `ONLINE COMPLETE` unless every required title, issue, retrievable page, online source class, retrieval gap, and manual callout has been audited.
 
@@ -31,6 +31,10 @@ This is the canonical status register for annual research. The completion levels
 ## 1925 targeted municipal/occupancy checkpoint
 
 **1925 targeted status: IN PROGRESS.** The retained municipal report is fully visually reviewed (22/22 PDF pages, `S-157`), but annual newspaper, directory, minute and other-source coverage remains unfinished. The cataloged 81 minute entries / 159 listed pages (`S-156`) are not visual coverage. No individual license receipt or restaurant return was recovered in the latest bounded catalog pass. See the [report checkpoint](../evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md) and [follow-up search with five numbered manual callouts](../evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md). `S-158` is a finding aid only, with underlying records still unreviewed; no tenant or construction date was established by that pass.
+
+## 1926 targeted municipal/occupancy checkpoint
+
+**1926 status: IN PROGRESS.** All 23 PDF pages of the municipal annual report (`S-159`) are visually reviewed and the original is retained. This is not annual certification: newspaper, directory, minute and other-source coverage remains incomplete. `E-142` records unnumbered fire-call distinctions; `E-143` adds receipt/inspection and county-payment leads, not a target occupant. The [full review, page audit and four numbered manual callouts](../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md) preserve the limits. No institutional inquiry was sent.
 
 ## Shared manual-work callouts
 

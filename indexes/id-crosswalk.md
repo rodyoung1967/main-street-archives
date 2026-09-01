@@ -242,3 +242,13 @@ Separate spelling: **P-075 / BUS-066 — Knapp & Noebel**, E-123/S-135,712 Main 
 Original report: `records/municipal/annual-reports/1925-municipal-activities-report.pdf`; exact visual coverage and retrieval leads in [review capture](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
 
 Follow-up finding aid: `S-158`, State Archives Clackamas County inventory, supports retrieval planning for `RL-007`, `RL-010`, `RL-024` and `RL-026`. [Series table and manual callouts](../evidence/source-captures/1925-license-inspection-and-county-records-review-2026-09-01.md). **No `E-###`, `T-###`, entity or historical occupancy/ownership relationship assigned**: original records remain unreviewed and target entries are not yet known to exist.
+
+## 1926 municipal report — no numbered-building assignment
+
+| Source/evidence/media | Connections | Limits |
+| --- | --- | --- |
+| `S-159` / `E-142` | `T-047` July 10 Sixth/Main false alarm; `T-048` September 20 Sixth/Main damage; `T-049` November 11 Fifth/Main false alarm | No number, side or occupant. `T-049` appears in 501/503/505 timelines as context only; no YAML building relationship. Paramount Restaurant's separate fire has no address and is not assigned to Kwality or 503. |
+| `S-159` / `E-143` | `RL-010` license/health-record follow-ups | County-labeled health payment, restaurant-inspection statement and aggregate accounts; no named target occupant or confirmed record custody. |
+| `S-159` / `IMG-0726` | PDF 4 embedded downtown aerial | Exposure date and target roof mapping unresolved; no new construction/removal event. |
+
+[Full review and original](../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md); 23/23 PDF pages visually verified, **1926 IN PROGRESS**.

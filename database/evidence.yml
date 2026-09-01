@@ -2258,3 +2258,31 @@ evidence:
     related_businesses: []
     related_people: []
     repository_file: evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md
+
+  - id: E-142
+    name: 1926 Fifth/Sixth and Main fire calls and false alarms
+    type: Primary municipal fire-call table; direct visual inspection
+    claims:
+      - July 10, 1926, 4.40 p.m., Sixth and Main, false alarm; damage blank. November 11, 1.15 p.m., Fifth and Main, false alarm; damage blank. Neither is a destructive-fire or rebuild finding.
+      - September 20, 1926, 1.50 a.m., Sixth and Main, unknown cause, approximately $500 damage. No number, street side, business or proprietor supplied.
+      - Separate August 4, 2 a.m., Paramount Restaurant, undetermined cause, approximately $4,500 damage, gives no address and is not assigned to 503 or Kwality.
+    confidence: Very High for printed entries; premises, continuity and target relevance unresolved.
+    related_sources: [S-159]
+    related_buildings: []
+    related_businesses: []
+    repository_file: evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md
+
+  - id: E-143
+    name: 1926 restaurant inspections, county health payment and license accounts
+    type: Primary municipal annual report; direct visual inspection
+    claims:
+      - Recorder receipts list licenses $7,480.20, permits/dog licenses $533.25 and franchises $275; no payers or premises.
+      - Operating statement franchise/license revenue is $8,356.99 versus $6,576.91 in 1925. Recorder lines total $8,288.45; the $68.54 difference remains unexplained and is not a tenant finding.
+      - Printed p. 19 says all city restaurants were inspected; no names, addresses, dates or returns supplied. Index incorrectly points to p. 18.
+      - Printed p. 34 health-budget line names Clackamas Co. with $480 budgeted and expended. City–county agreement/claims are retrieval leads, not confirmed present custody or a specific inspection contract.
+    confidence: Very High for report wording and figures; accounting reconciliation, original records and occupants unresolved.
+    related_sources: [S-159]
+    related_buildings: []
+    related_businesses: []
+    related_people: []
+    repository_file: evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md

@@ -1,0 +1,152 @@
+{
+  "source_id": "S-159",
+  "review_date": "2026-09-01",
+  "repository_original": "records/municipal/annual-reports/1926-municipal-activities-report.pdf",
+  "sha256": "433753736a08a225e8437cea6b91123d1e867481703b87ea93d657e9dd11c790",
+  "byte_count": 19809640,
+  "pdf_page_count": 23,
+  "visually_verified_page_count": 23,
+  "pending_pages": [],
+  "year_status": "IN PROGRESS",
+  "method": "Actual Poppler-rendered page images inspected; text extraction not used as substitute. PDF 4 also rechecked at higher resolution.",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_pages": "Front cover",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Report title/year."
+    },
+    {
+      "pdf_page": 2,
+      "printed_pages": "Inside cover/title",
+      "status": "VISUALLY VERIFIED",
+      "notes": "No target premises."
+    },
+    {
+      "pdf_page": 3,
+      "printed_pages": "Officials/transmittal",
+      "status": "VISUALLY VERIFIED",
+      "notes": "January 25, 1927; commissioner C. P. Farr not identified as pool operator."
+    },
+    {
+      "pdf_page": 4,
+      "printed_pages": "Map/aerial",
+      "status": "VISUALLY VERIFIED",
+      "notes": "City map and IMG-0726; photo date and target roofs unresolved; higher-resolution recheck."
+    },
+    {
+      "pdf_page": 5,
+      "printed_pages": "Index / 7",
+      "status": "VISUALLY VERIFIED",
+      "notes": "60 meetings, 59 ordinances; not reviewed minutes."
+    },
+    {
+      "pdf_page": 6,
+      "printed_pages": "8–9",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Recorder/attorney/treasurer; unnamed receipt totals."
+    },
+    {
+      "pdf_page": 7,
+      "printed_pages": "10–11",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Treasurer/police/fire; apparatus photo; no named cases."
+    },
+    {
+      "pdf_page": 8,
+      "printed_pages": "12–13",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Fire rows and apparatus images; July 10 false alarm; Paramount address absent."
+    },
+    {
+      "pdf_page": 9,
+      "printed_pages": "14–15",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Fire continuation; September 20 Sixth/Main damage; November 11 Fifth/Main false alarm; water/headworks."
+    },
+    {
+      "pdf_page": 10,
+      "printed_pages": "16–17",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Water/engineering; no target project; waterfall/Jackson photos."
+    },
+    {
+      "pdf_page": 11,
+      "printed_pages": "18–19",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Bridge/street/library photos; restaurants inspected, no list."
+    },
+    {
+      "pdf_page": 12,
+      "printed_pages": "20–21",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Cemetery/auditor certificate."
+    },
+    {
+      "pdf_page": 13,
+      "printed_pages": "22–23",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Consolidated/general balance sheets."
+    },
+    {
+      "pdf_page": 14,
+      "printed_pages": "24–25",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Cemetery/water balance sheets."
+    },
+    {
+      "pdf_page": 15,
+      "printed_pages": "26–27",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Trust/sinking balance sheet."
+    },
+    {
+      "pdf_page": 16,
+      "printed_pages": "28–29",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Improvement balance/general operations; combined license/franchise revenue."
+    },
+    {
+      "pdf_page": 17,
+      "printed_pages": "30–31",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Cemetery/water operations."
+    },
+    {
+      "pdf_page": 18,
+      "printed_pages": "32–33",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Trust/improvement operations and investments."
+    },
+    {
+      "pdf_page": 19,
+      "printed_pages": "34–35",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Budget; Clackamas Co. health expenditure."
+    },
+    {
+      "pdf_page": 20,
+      "printed_pages": "36–37",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Budget revenues/bond schedule."
+    },
+    {
+      "pdf_page": 21,
+      "printed_pages": "Blank",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Endpapers checked."
+    },
+    {
+      "pdf_page": 22,
+      "printed_pages": "Blank",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Leaf/inside back cover checked."
+    },
+    {
+      "pdf_page": 23,
+      "printed_pages": "Back cover",
+      "status": "VISUALLY VERIFIED",
+      "notes": "Oregon City Enterprise press."
+    }
+  ]
+}
