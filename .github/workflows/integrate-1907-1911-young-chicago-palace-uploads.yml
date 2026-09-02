@@ -30,7 +30,7 @@ jobs:
         run: python -m pip install --quiet pyyaml
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
-      - name: Fix integration YAML serializer
+      - name: Fix integration serializer and quoted YAML note
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -43,7 +43,19 @@ jobs:
           if old1 not in s or old2 not in s:
               raise SystemExit('serializer patterns not found')
           s = s.replace(old1, new1).replace(old2, new2)
-          p.write_text(s, encoding='utf-8')
+          lines = s.splitlines()
+          found = False
+          for i, line in enumerate(lines):
+              if line.startswith('    notes: Exact supplied page PDFs preserved for 31 March'):
+                  found = True
+                  line = line.replace('    notes: ', '    notes: "', 1)
+                  pos = line.rfind("'''")
+                  if pos < 0:
+                      raise SystemExit('YAML notes template terminator not found')
+                  lines[i] = line[:pos] + '"' + line[pos:]
+          if not found:
+              raise SystemExit('Chicago Store YAML notes template not found')
+          p.write_text('\n'.join(lines) + '\n', encoding='utf-8')
           PY
       - name: Preserve exact PDFs and integrate records
         run: python3 scripts/integrate_1907_1911_young_chicago_palace_uploads.py
