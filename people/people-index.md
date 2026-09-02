@@ -132,3 +132,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-095 | [B. J. Staats](profiles/b-j-staats.md) | Hardware-store name/person style | December 1919 photograph visibly associates the name with the cataloged 516 Main storefront; initials, ownership, and pictured people remain unresolved. `BUS-079`, `E-132`. |
 | P-096 | [Herman Schrader](profiles/herman-schrader.md) | Bakery proprietor / seller | December 1912 report identifies him selling two Oregon City bakeries, including one on Main, to Wemmo & Haas. Exact number and real-estate ownership unresolved. `BUS-063`, `BUS-080`, `E-093`. |
 | P-097 | [Wemmo & Haas](profiles/wemmo-haas.md) | Bakery purchasers / partnership style | December 1912 purchasers of Herman Schrader's two bakeries. Individual names, exact premises and later operating span unresolved. `BUS-080`, `E-093`. |
+
+## Palace Saloon applicant added from uploaded primary source
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-098 | [Ralph O. Smith](profiles/ralph-o-smith.md) | Palace Saloon liquor-license applicant | 17 Sep. 1909 notice places him at Palace Saloon, corner Main/Fifth. Application is not grant/title/exact-501 or succession proof. `E-152` / `S-172`. |

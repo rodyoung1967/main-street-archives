@@ -51,6 +51,8 @@ Main Street itself underwent substantial physical reconstruction in 1907. Oregon
 
 Contemporary geographic anchors include the **Mount Hood Cafe at the Fifth/Main context** (`E-067`) and **John Gohra's saloon at Main & Sixth** (`E-068`). An August advertisement also places **I. Tolpolar on Main Street opposite the Post Office** (`E-069`). Those earlier sources did not print an exact target number. **A newly reviewed 4 October 1907 Courier p3 notice now directly identifies A. J. Surber at No.501, Main/Fifth** (E-121/S-135), superseding the earlier no-target-result summary. December 13 p3 names Justin & Hitchman at unnumbered Fifth/Main (E-122/S-136). Strebig fresh meats at Albright's Old Stand, Fifth/Main, and other dated Main anchors are in E-123. No business grant, property transfer or structural continuity is inferred.
 
+The Palace Saloon trade name is now independently attested by **24 May 1907** (`E-151` / `S-171`), when a *Courier* city-saloon article lists it among sixteen saloons. That page gives no proprietor or address, so it does not identify Surber's later exact-501 premises as Palace Saloon.
+
 ## 1908 — exact 503 occupancy and continued Main Street modernization
 Oregon City followed the 1907 street/track reconstruction with another major streetscape change: telegraph, telephone, and electric-light poles and overhead wires were ordered removed from **Main Street between Eleventh Street and the Basin**, necessarily including the Fifth–Sixth block (`E-070`). Pacific Telephone & Telegraph and Portland General Electric were actively arranging the work, and by July Pacific Telephone again stated that all wires would be moved from Main. This is public-realm/utility change, not evidence that the target commercial buildings were replaced.
 
@@ -64,6 +66,8 @@ On **18 September 1908**, separate applications name **Justin & Hitchman** and *
 Oregon City improved **Water Street from Fifth to Sixth Streets**, the river-side edge of the same Fifth–Sixth block as the target Main Street frontage. The work included grading, rock/gravel, sidewalks, concrete curbs, crosswalks and drainage, and was accepted by the City Council after the engineer reported contractor Harry Jones's work satisfactory (`E-074`). A fire hydrant was also ordered for Water Street at Sixth or at the Water Street end of the alley running through the Fifth–Sixth block.
 
 At the north end of the block, the 6 October Council record places **Carl G. Hodes at Sixth & Main** as a saloon-license renewal applicant (`E-076`). On 1 December the Council ordered **Philip Street** to remove rubbish from Sixth Street caused by **repair of his building at Sixth & Main** (`E-075`). These are strong intersection anchors, but the evidence does not establish that the Hodes saloon, Philip Street's building, and the earlier William Tell/Gambrinus lot-8 property were the same premises.
+
+A newly supplied **17 September 1909** *Courier* license notice identifies **Ralph O. Smith** (`P-098`) at **the Palace Saloon, corner Main and Fifth Streets** (`E-152` / `S-172`). The notice does not print 501 or prove the license was granted. It narrows the Palace trade-name chronology but does not establish succession from Surber/Justin & Hitchman or forward to E. R. Case.
 
 The archive's former statement that **507 Main was known as the Harding Building by 1909 is withdrawn**. A 1918 *Courier* retrospective supports a Harding Building existing around 1909, and a 1911 *Courier* item places the Harding Building on **Main Street between Fifth and Sixth**, but neither source proves an exact 1909 street number or footprint (`E-077`; `RL-029`).
 
@@ -101,6 +105,8 @@ Targeted searches and the accessible/indexed *Courier* page review did not recov
 
 ## 1912 — 503 pool hall, exact 507/509/511 ladder, and active Main Street rebuilding
 On 19 March, a visually verified *Morning Enterprise* liquor-license notice identifies **Joe Wilson's Palace Saloon at 501 Main Street** (`E-104` / `S-118`). A separate local item identifies the H. M. Templeton home at **513 Fifth Street**, then occupied by M. D. Phillips and family (`E-106`). The 501 notice does not establish building ownership, continuity into later occupants, or the 1922 fire-origin location; 513 Fifth is not mapped to the target commercial/fire cluster.
+
+A second Palace Saloon application on **20 June 1912** names **Joseph Wilson** at **The Palace Saloon, Fifth and Main streets** (`E-153` / `S-173`). Same trade name/location only three months after the exact-501 Joe Wilson notice makes Joe/Joseph identity a strong inference; the June page itself does not explicitly prove the name equivalence and does not print 501.
 
 The **5 January 1912 Oregon City Courier** business page provides one of the strongest early numbered-address snapshots yet recovered. Visual inspection of the page—necessary because OCR misreads several numbers—places **H. N. Smith's pool room at 503 Main, G. H. Young at 507 Main, H. P. Brightbill at 509 Main, and Geo. A. Harding at 511 Main** (`E-092`). The same page describes the Chicago Store as on Main just below the Post Office and several other businesses relative to the Post Office; those relative descriptions are not converted to exact numbers. The absence of an exact 505 listing on this page is not evidence of vacancy.
 

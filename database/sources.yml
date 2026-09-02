@@ -855,3 +855,21 @@ sources:
     name: "Oregon City Courier, 26 February 1914, p. 7, Holman move notice"
     url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/"
     notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-171
+    name: Oregon City Courier, 24 May 1907, p. 5, Palace Saloon city saloon list
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-05-24/ed-1/seq-5.pdf
+    repository_file: newspapers/oregon-city-courier/1907-05-24-page-5-palace-saloon-city-list.pdf
+    notes: "Visually verified project-steward upload. Lists The Palace Saloon among sixteen Oregon City saloons; no address or proprietor printed. Original filename: Palace Saloon Oregon City Courier May 1907(1).pdf. E-151. Uploaded SHA-256 6960e6963bfb3c11a00d32d80f8ab6c151f84632f09e83a152400404c4d1ba26; repository canonical derivative SHA-256 bf57ff4c3fe2dd20d2f54fcc9b61bf00f898d285c8fe6b3df6e9aec8d770a482 (643791 bytes)."
+
+  - id: S-172
+    name: Oregon City Courier, 17 September 1909, p. 5, Ralph O. Smith Palace Saloon license application
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-09-17/ed-1/seq-5.pdf
+    repository_file: newspapers/oregon-city-courier/1909-09-17-page-5-palace-saloon-ralph-o-smith-license.pdf
+    notes: "Visually verified project-steward upload. Ralph O. Smith applies at the Palace Saloon, corner Main/Fifth, for three months. Application is not grant/title/exact-501 proof. Original filename preserved in source capture. E-152/P-098/BUS-024. Uploaded SHA-256 4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a; repository canonical derivative SHA-256 4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a (677536 bytes)."
+
+  - id: S-173
+    name: Morning Enterprise, 20 June 1912, p. 2, Joseph Wilson Palace Saloon license application
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-06-20/ed-1/seq-2.pdf
+    repository_file: newspapers/morning-enterprise/1912-06-20-page-2-palace-saloon-joseph-wilson-license.pdf
+    notes: "Visually verified project-steward upload. Joseph Wilson applies at The Palace Saloon, Fifth and Main, for three months. Compare March exact-501 Joe Wilson source S-118/E-104; same-person identity is strong inference, not explicit June wording. Original filename preserved in source capture. E-153/BUS-024. Uploaded SHA-256 72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a; repository canonical derivative SHA-256 72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a (826263 bytes)."

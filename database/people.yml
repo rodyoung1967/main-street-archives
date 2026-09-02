@@ -404,15 +404,17 @@ people:
   - id: P-037
     name: Joe Wilson
     role: Palace Saloon liquor-license applicant
-    notes: 19 March 1912 notice identifies his Palace Saloon place of business as 501 Main. No building-ownership, business-continuity, or 1922 identity inference.
+    notes: 19 March 1912 notice identifies Joe Wilson's Palace Saloon at 501 Main. A 20 June 1912 notice prints Joseph Wilson at The Palace Saloon, Fifth/Main; same business/location and close chronology make Joe=Joseph a strong identity inference, not explicit legal-name proof. No building ownership, license grant, uninterrupted operation or later succession is inferred.
     related_buildings:
       - B-005
     related_businesses:
       - BUS-024
     related_evidence:
       - E-104
+      - E-153
     related_sources:
       - S-118
+      - S-173
     repository_file: people/profiles/joe-wilson.md
 
   - id: P-038
@@ -1053,3 +1055,12 @@ people:
     related_evidence: [E-093]
     related_sources: [S-106]
     repository_file: people/profiles/wemmo-haas.md
+
+  - id: P-098
+    name: Ralph O. Smith
+    role: Palace Saloon liquor-license applicant
+    notes: Visually verified 17 September 1909 Courier notice places Smith at the Palace Saloon, corner Main/Fifth, for a three-month liquor-license application. The notice does not print 501 or prove grant, real-estate ownership or succession to/from other Fifth/Main liquor applicants.
+    related_businesses: [BUS-024]
+    related_evidence: [E-152]
+    related_sources: [S-172]
+    repository_file: people/profiles/ralph-o-smith.md

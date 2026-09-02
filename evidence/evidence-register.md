@@ -1244,3 +1244,35 @@ Sources: `S-170`
 Related record: `evidence/E-150-1914-holman-moves-fifth-main-february.md`  
 Claims: The legacy branch records a 26 February 1914 Courier notice saying R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth and Main to his building at Fifth and Main. This predates the separately verified August 1914 Fifth/Main advertisement. The notice prints no numbered address.  
 Confidence: Very high for the preserved move wording; 'his building' is reported ownership language, while exact parcel/number remains unresolved.
+
+## E-151 — Palace Saloon trade name in Oregon City by 24 May 1907
+Type: Primary newspaper city saloon-license article; **VISUALLY VERIFIED** 1 September 2026.  
+Source: `S-171`.  
+Capture: `evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md`.  
+Claims:
+- The 24 May 1907 *Oregon City Courier* reports that Oregon City had sixteen saloons and includes **The Palace Saloon** in its list.
+- The page does not print the Palace Saloon's address or proprietor.
+- This establishes the trade name in current city use by the date, but does not place the business at 501 Main or identify A. J. Surber as its operator.
+Confidence: **Very High** for printed trade-name presence; address, operator, and continuity unresolved.
+
+## E-152 — Ralph O. Smith at Palace Saloon, Main/Fifth, 17 September 1909
+Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED** 1 September 2026.  
+Source: `S-172`.  
+Capture: `evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md`.  
+Claims:
+- The notice names **Ralph O. Smith** as the applicant.
+- His place of business is printed as **the Palace Saloon, corner Main and Fifth Sts.**
+- He says he will apply for a three-month liquor license at the next regular City Council meeting.
+- The notice does not print 501, prove grant, establish real-estate ownership, or prove succession from/to other Fifth/Main liquor applicants.
+Confidence: **Very High** for applicant, trade name, intersection, and application wording; exact number, grant, ownership, and succession unresolved.
+
+## E-153 — Joseph Wilson at Palace Saloon, Fifth/Main, 20 June 1912
+Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED** 1 September 2026.  
+Source: `S-173`; compare `S-118` / `E-104`.  
+Capture: `evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md`.  
+Claims:
+- The notice names **Joseph Wilson** and his place of business as **The Palace Saloon, Fifth and Main streets**.
+- He says he will apply for a three-month liquor license at the next regular City Council meeting.
+- The independently verified 19 March 1912 notice prints **Joe Wilson's Palace Saloon at 501 Main**. Same business/location and close chronology make Joe/Joseph identity a **strong inference**, but the June notice does not explicitly prove the name equivalence.
+- The June notice does not itself print 501, prove grant, property ownership, or operation outside the dated application.
+Confidence: **Very High** for June printed wording; **Strong inference** for Joe Wilson = Joseph Wilson; grant/title/uninterrupted continuity unresolved.

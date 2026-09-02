@@ -25,6 +25,12 @@ Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 fro
 
 The September 18, 1908 Surber notice repeats Fifth/Main without a number; the same page separately names Justin & Hitchman at that intersection. Neither the partnership nor Strebig's unnumbered Fifth/Main market is assigned to501 (E-122/E-123). [Full review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). OQ-032/RL-045 retain license, identity and corner questions.
 
+## Palace Saloon context added from 1907–1912 uploads
+
+New visually verified Palace Saloon pages refine the business chronology without changing the standard for exact 501 assignment (`E-151`–`E-153`; `S-171`–`S-173`). The trade name is present citywide by **24 May 1907** but without address/operator. On **17 September 1909**, Ralph O. Smith applies at the **Palace Saloon, corner Main/Fifth**, again without a number. The **20 June 1912** Joseph Wilson notice repeats Palace Saloon at Fifth/Main three months after the separate exact-501 Joe Wilson notice.
+
+Only the **19 March 1912** source directly prints **501 Main** for Palace Saloon. Do not backfill 501 onto the 1907 or 1909 pages, equate Surber's exact-501 premises with Palace solely from proximity, or treat application notices as license grants/title.
+
 ## Direct 1912–1913 Numbered Occupancy Evidence
 
 Two visually verified liquor-license notices directly identify **501 Main** before the later Fifth/Main undertaking evidence:

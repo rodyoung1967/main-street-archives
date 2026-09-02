@@ -241,6 +241,8 @@ Status: **Open online follow-up**, with an explicit October 11, 1907 p8 scan **R
 3. Compare the original May 4/June 1, 1910 municipal records: M. Justin's rear pool/billiard petition was tabled; Case's saloon had an adjoining restaurant. These are identity/geometry leads, not a 1922 business chain.
 4. Test Strebig/Streibig/Albright and Stewart327→Hodes327→Sixth/Main through explicit identity/transition records. Do not infer a transfer from a common corner/address.
 
+5. Use `E-151`–`E-153` / `S-171`–`S-173` to target Council/license records for the **Palace Saloon**: May 1907 trade-name presence (no address/operator), Ralph O. Smith's September 1909 Main/Fifth application, and Joe/Joseph Wilson's March–June 1912 applications. Recover actual grants, applicant/proprietor identities, transfer dates and precise premises. Do not backfill 501 onto the 1907/1909 notices or assume Surber/Case/Wilson succession.
+
 No outreach sent, no additional external scan recovered. Exact queries, limitations and source locators: [review](source-captures/1907-1908-surber-justin-main-visual-review.md). Annual 1907/1908 status remains IN PROGRESS.
 
 RL-045 name-check supplement: compare the clearly printed **NOEBEL (1907)** and **NOBEL (1908)** at 712 Main; separately indexed P-075/BUS-066 and P-064/BUS-054. Matching partner/address is a lead, not an assumed identity correction.

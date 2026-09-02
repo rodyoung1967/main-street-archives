@@ -338,3 +338,7 @@ The former `research-1902-1903-courier` branch was reconciled against current `m
 ## Final non-main branch-ref archive — 2026-09-01
 
 All **24** non-main branch refs were archived before branch cleanup. The [branch deletion audit](registers/branch-deletion-audit-2026-09-01.md) records every tip and divergence count; `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json` records archive hashes and storage chunks. This is repository-history preservation, not promotion of superseded branch hypotheses.
+
+## Palace Saloon uploaded primary pages — 1907, 1909, 1912
+
+[Visual review](evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md) preserves canonical Oregon Digital PDF derivatives of all three supplied pages as `S-171`–`S-173` / `E-151`–`E-153`; original uploaded filenames and hashes are retained in provenance. The Palace Saloon trade name is now verified by May 1907 without address/operator; Ralph O. Smith is verified at the Palace Saloon, Main/Fifth in September 1909; and Joseph Wilson is verified there in June 1912. The existing March 1912 Joe Wilson source remains the direct exact-501 anchor. Grants, property title and operator succession remain open; no intersection-only notice is silently converted to 501.

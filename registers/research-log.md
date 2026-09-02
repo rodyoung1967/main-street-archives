@@ -292,3 +292,10 @@ This was a repository-presence and preservation-control audit, not new historica
 - Logical archive SHA-256 `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a`; storage/chunk hashes are in `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json`.
 - This follows canonical integration of `research-1902-1903-courier`; superseded/unmerged branch states remain historical records, not silently accepted claims.
 - Branch refs may be deleted only after this archive is committed to `main` and archive validation passes.
+
+### 2026-09-01 — three Palace Saloon pages integrated
+- Visually reviewed three project-steward supplied newspaper pages and preserved canonical archive PDF derivatives: 24 May 1907 *Oregon City Courier* p. 5, 17 September 1909 *Oregon City Courier* p. 5, and 20 June 1912 *Morning Enterprise* p. 2 (`S-171`–`S-173`; `E-151`–`E-153`).
+- May 1907 proves the Palace Saloon trade name in Oregon City but prints no address/proprietor.
+- September 1909 names new person `P-098` Ralph O. Smith at the Palace Saloon, corner Main/Fifth, in a three-month license application; no 501/grant/title/succession inference.
+- June 1912 names Joseph Wilson at The Palace Saloon, Fifth/Main. Compared with March 1912 Joe Wilson at exact 501, Joe=Joseph is recorded as a strong same-business/location inference, not explicit name proof.
+- Original uploaded filenames and SHA-256 hashes are preserved in the source capture/register. Palace business/person/timeline/crosswalk/open-question/research-lead/YAML mirrors synchronized.

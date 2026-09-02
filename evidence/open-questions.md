@@ -165,6 +165,8 @@ E-121 directly establishes Surber's No.501 address assertion on4 October 1907. E
 
 No shared business, succession, property title, exact Justin/Hartman number or 1922 room is established. Track the independently dated Stewart327/Hodes327/Sixth-Main chain without inventing transfers. See E-123, RL-045 and [review](source-captures/1907-1908-surber-justin-main-visual-review.md).
 
+**Palace Saloon supplement:** `E-151`–`E-153` now establishes the Palace trade name by May 1907, **Ralph O. Smith at Palace Saloon, Main/Fifth in September 1909**, and **Joseph Wilson at Palace Saloon, Fifth/Main in June 1912**, alongside the existing March 1912 exact-501 Joe Wilson notice. Still unresolved: whether May 1907 Palace was at 501; whether Surber's 1907/1908 premises were Palace; the Smith→Case→Wilson transfer/grant sequence; and whether Joe/Joseph Wilson can be independently identified beyond the strong same-business/location inference.
+
 ### OQ-026 dated source supplement
 
 E-123/S-137 visually verifies Schrader's Bakery hiring on Main,18 September 1908. No number or proprietor appears; existing OQ-026 address limits are unchanged. BUS-063 records the business style, not an expanded identity.

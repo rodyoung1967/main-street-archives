@@ -7,10 +7,13 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Date | Event | Status / limits | Records |
 | --- | --- | --- | --- |
 | 1844–1900 | Original Block 4 plat and early Sanborn frontage. | Context; later numbers/footprints not securely mapped. | `E-094`; `SM-002`–`SM-006` |
-| 4 Oct. 1907 | A. J. Surber liquor-renewal application at **No. 501**, Main/Fifth. | **Exact, visually verified**; application is not grant/title/later continuity. | `BUS-045`; `P-055`; `E-121`; `S-135` |
+| 24 May 1907 | **Palace Saloon** named among Oregon City's sixteen saloons. | **Citywide business-name context only**; no address/operator printed, so not assigned to 501. | `BUS-024`; `E-151`; `S-171` |
+| 4 Oct. 1907 | A. J. Surber liquor-renewal application at **No. 501**, Main/Fifth. | **Exact, visually verified**; application is not grant/title/later continuity and the notice does not call it Palace Saloon. | `BUS-045`; `P-055`; `E-121`; `S-135` |
 | 18 Sep. 1908 | Surber and separately Justin & Hitchman apply at Fifth/Main; numbers omitted. | Intersection context; no 501 continuity/shared-room inference. | `E-121`, `E-122`; `S-137` |
+| 17 Sep. 1909 | Ralph O. Smith applies at **Palace Saloon, corner Main/Fifth**. | **Intersection/trade-name context**; 501 not printed; application is not grant/title/succession proof. | `BUS-024`; `P-098`; `E-152`; `S-172` |
 | 1 Jun. 1910 | E. R. Case saloon at Fifth/Main with adjoining restaurant; Pioneer Market separately at intersection. | Context only; neither assigned to 501. | `E-080`, `E-081` |
 | 19 Mar. 1912 | Joe Wilson's **Palace Saloon, 501 Main** license application. | **Exact, visually verified**; no Surber succession, grant, title, or continuity. | `BUS-024`; `P-037`; `E-104`; `S-118` |
+| 20 Jun. 1912 | **Joseph Wilson**, The Palace Saloon, **Fifth/Main**, three-month application. | **Visually verified intersection context**; June page omits 501. Joe=Joseph is a strong inference from same business/location/date sequence, not explicit name proof. | `BUS-024`; `P-037`; `E-153`; `S-173` |
 | 3 Oct. 1913 | **Hunsaker & Taylor, 501 Main** license application. | **Exact, visually verified**; no Palace sale/rename/continuity. | `BUS-025`; `P-038`; `E-104`; `S-119` |
 | 3 Oct. 1913 | City Recorder notice says the official street-numbering plat/plan remained on file under Ordinance 357. | Municipal retrieval lead only; it does not map 501 to an original Block 4 lot. | `E-105`; `S-119` |
 | 1914–1915 | Water ledger carries layered **501 / Restaurant–Saloon** classification. | Exact use, but tenant and precise observation date unresolved. | `E-117`; `S-131` |

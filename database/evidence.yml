@@ -2362,3 +2362,41 @@ evidence:
     related_people: [P-050]
     related_buildings: [B-005]
     repository_file: evidence/E-150-1914-holman-moves-fifth-main-february.md
+
+  - id: E-151
+    name: Palace Saloon trade name in Oregon City by 24 May 1907
+    type: Primary newspaper city saloon-license article; visually verified
+    claims:
+      - The 24 May 1907 Oregon City Courier lists The Palace Saloon among sixteen Oregon City saloons.
+      - The page prints no Palace address or proprietor; it does not place the business at 501 or identify A. J. Surber as operator.
+    confidence: Very High for printed trade-name presence; address, operator and continuity unresolved.
+    related_sources: [S-171]
+    related_businesses: [BUS-024]
+    repository_file: evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-152
+    name: Ralph O. Smith at Palace Saloon, Main/Fifth, 17 September 1909
+    type: Primary newspaper liquor-license application; visually verified
+    claims:
+      - Ralph O. Smith is the named applicant.
+      - His place of business is printed as the Palace Saloon, corner Main and Fifth Sts.
+      - The notice announces a three-month application and does not prove grant, exact 501 number, property ownership or succession.
+    confidence: Very High for applicant, trade name, intersection and application wording; exact number, grant, title and succession unresolved.
+    related_sources: [S-172]
+    related_businesses: [BUS-024]
+    related_people: [P-098]
+    repository_file: evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-153
+    name: Joseph Wilson at Palace Saloon, Fifth/Main, 20 June 1912
+    type: Primary newspaper liquor-license application; visually verified
+    claims:
+      - Joseph Wilson is named with The Palace Saloon at Fifth and Main streets in a three-month liquor-license application notice.
+      - The 19 March 1912 source separately prints Joe Wilson's Palace Saloon at 501 Main.
+      - Joe Wilson equals Joseph Wilson is a strong inference from same business/location and close chronology, not an explicit statement in the June notice.
+      - The June page does not itself print 501 or prove license grant, title or uninterrupted operation.
+    confidence: Very High for June wording; Strong inference for Joe/Joseph identity; grant, title and uninterrupted continuity unresolved.
+    related_sources: [S-173, S-118]
+    related_businesses: [BUS-024]
+    related_people: [P-037]
+    repository_file: evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md

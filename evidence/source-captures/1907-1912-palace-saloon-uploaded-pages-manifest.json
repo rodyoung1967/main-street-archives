@@ -1,0 +1,48 @@
+{
+  "review_date": "2026-09-01",
+  "status": "VISUALLY VERIFIED",
+  "files": [
+    {
+      "source_id": "S-171",
+      "evidence_id": "E-151",
+      "repository_file": "newspapers/oregon-city-courier/1907-05-24-page-5-palace-saloon-city-list.pdf",
+      "original_uploaded_filename": "Palace Saloon Oregon City Courier May 1907(1).pdf",
+      "canonical_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1907-05-24/ed-1/seq-5.pdf",
+      "uploaded_sha256": "6960e6963bfb3c11a00d32d80f8ab6c151f84632f09e83a152400404c4d1ba26",
+      "uploaded_bytes": 641615,
+      "repository_sha256": "bf57ff4c3fe2dd20d2f54fcc9b61bf00f898d285c8fe6b3df6e9aec8d770a482",
+      "repository_bytes": 643791,
+      "repository_binary_note": "Canonical Oregon Digital PDF derivative of the same issue/page; uploaded attachment bytes retained by hash/provenance only."
+    },
+    {
+      "source_id": "S-172",
+      "evidence_id": "E-152",
+      "repository_file": "newspapers/oregon-city-courier/1909-09-17-page-5-palace-saloon-ralph-o-smith-license.pdf",
+      "original_uploaded_filename": "Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5.pdf",
+      "canonical_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1909-09-17/ed-1/seq-5.pdf",
+      "uploaded_sha256": "4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a",
+      "uploaded_bytes": 677536,
+      "repository_sha256": "4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a",
+      "repository_bytes": 677536,
+      "repository_binary_note": "Canonical Oregon Digital PDF derivative of the same issue/page; uploaded attachment bytes retained by hash/provenance only."
+    },
+    {
+      "source_id": "S-173",
+      "evidence_id": "E-153",
+      "repository_file": "newspapers/morning-enterprise/1912-06-20-page-2-palace-saloon-joseph-wilson-license.pdf",
+      "original_uploaded_filename": "Palace Saloon (Liquor Licence) Morning enterprise., June 20, 1912, Page 2, Image 2.pdf",
+      "canonical_url": "https://oregonnews.uoregon.edu/lccn/sn00063701/1912-06-20/ed-1/seq-2.pdf",
+      "uploaded_sha256": "72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a",
+      "uploaded_bytes": 826263,
+      "repository_sha256": "72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a",
+      "repository_bytes": 826263,
+      "repository_binary_note": "Canonical Oregon Digital PDF derivative of the same issue/page; uploaded attachment bytes retained by hash/provenance only."
+    }
+  ],
+  "interpretive_limits": [
+    "May 1907 Palace Saloon has no printed address or proprietor.",
+    "September 1909 Palace notice prints Main/Fifth but not 501 and is an application, not a grant.",
+    "June 1912 prints Joseph Wilson at Palace Saloon Fifth/Main; Joe/Joseph identity is strong inference, not explicit legal-name proof."
+  ],
+  "binary_preservation": "User-uploaded copies were visually inspected; repository binaries were reacquired from canonical Oregon Digital URLs because conversation attachment bytes cannot be directly transported into GitHub by the available connector."
+}

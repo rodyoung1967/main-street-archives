@@ -27,7 +27,7 @@
 | BUS-021 | [Dr. Freeze, Eye Specialist](dr-freeze.md) | 505 / 505 1/2 Main | 1921–1922 ads; later Masonic Building. |
 | BUS-022 | [Dr. Roy Briggs, dentist](dr-roy-briggs.md) | 505 1/2 Main | 1941 official-secondary directory entry. |
 | BUS-023 | [Dixon's Bakery / Dixon's Pastry Shop](dixons-bakery.md) | 509 Main (10 Jun. 1964); Main block in 1967 | Exact 1964 address (`E-129`); separately named among businesses gutted in the 1967 fire (`E-045`). Legal-name and room continuity remain open. |
-| BUS-024 | [Palace Saloon](palace-saloon.md) | 501 Main | Joe Wilson's 19 March 1912 application; no ownership/continuity inferred. |
+| BUS-024 | [Palace Saloon](palace-saloon.md) | 501 Main exact Mar. 1912; Main/Fifth in Sep. 1909 & Jun. 1912 | Trade name attested by May 1907; Ralph O. Smith applicant 1909; Joe/Joseph Wilson 1912. Grants, property ownership and operator succession remain unresolved. |
 | BUS-025 | [Hunsaker & Taylor liquor premises](hunsaker-taylor.md) | 501 Main | 3 October 1913 application; individual identities and Palace relationship unresolved. |
 | BUS-026 | [W. W. Bradley furniture](ww-bradley-furniture.md) | 507 Main | Dated August–October 1915 listings (`E-107`, `P-041`); no uninterrupted occupancy or Young-to-Bradley transfer assumed. |
 | BUS-027 | [H. P. Brightbill grocery](hp-brightbill-grocery.md) | 509 Main | Dated August–October 1915 listings (`E-107`, `P-042`); relationship to Henry Brightbill `P-034` remains unresolved. |
