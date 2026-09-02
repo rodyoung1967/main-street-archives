@@ -135,7 +135,7 @@ Notes: Industrial-edition profile. Related evidence E-024.
 ## S-026 — City of Oregon City historic-resource record, 503 Main / Kwality Cafe
 Source/location: https://legacyorcity.teammunicode.com/planning/503-main-street-kwality-caf
 Related evidence: `E-032`
-Notes: Official synthesis. Related evidence E-032.
+Notes: Official secondary synthesis. The City page explicitly says little historic information was found, describes the building as apparently constructed circa 1919, and attributes Wolf-family ownership from about 1922 to 1972 to research conducted during the 1983 survey. Treat c.1919 as an approximate historic-survey conclusion, not primary construction proof; the ownership span is survey-derived rather than deed proof on this page. Related evidence E-032.
 
 ## S-027 — Oregon City Commission minutes, 7 June 1967
 Source/location: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document

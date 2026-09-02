@@ -33,7 +33,7 @@ The City of Oregon City's **2000 Downtown Final Report** has now been visually i
 - **503 Main St. — Kwality Cafe — c.1919**
 - **505 Main St. — Unknown — c.1920**
 
-The 503 **c.1919** date is therefore no longer merely an indexed-text lead in this archive; it is **visually verified as the date assigned by the official City historic inventory**. It remains a historic-inventory estimate for the surviving building, not primary proof of the exact construction day/year and not evidence that Kwality opened in 1919.
+The 503 **c.1919** date is therefore no longer merely an indexed-text lead in this archive; it is **visually verified as the date assigned by the official City historic inventory**. It remains a historic-inventory estimate for the surviving building, not primary proof of the exact construction day/year and not evidence that Kwality opened in 1919. The legacy City resource page further qualifies its own conclusion: it says little historic information was found and describes the building as only **apparently** constructed circa 1919. The page also attributes the Wolf-family circa-1922-to-1972 ownership chronology to research conducted during the **1983 survey**. This makes c.1919 explicitly an approximate survey conclusion rather than a primary construction record.
 
 Official City source, Appendix B, printed p.30 (PDF page 28 in the current viewer):
 https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF

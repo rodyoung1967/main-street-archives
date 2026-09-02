@@ -71,3 +71,9 @@ Absence of a recovered notice or record was **not** treated as evidence that wor
 ## Annual-status boundary
 
 This targeted closeout does **not** advance 1919 or 1920 to **ONLINE COMPLETE**. Full annual newspaper page-by-page visual coverage and other required source classes remain separate year-level work. For this specific construction/occupancy question, however, the meaningful ordinary public/indexed online paths identified in the handoff have been worked to either a verified finding or a precisely documented authenticated/manual retrieval boundary.
+
+## 2 September 2026 — 503 historic-survey provenance clarification
+
+A direct review of the registered City legacy page `S-026` clarifies the evidentiary weight of the often-repeated **c.1919** date for 503 Main. The page itself says that little historic information was found and characterizes the building as **apparently** constructed circa 1919. It separately attributes the Wolf-family ownership span of about 1922–1972 to research conducted during the **1983 survey**.
+
+**Disposition:** no new source/evidence ID is created because this is a provenance clarification of existing `S-026` / `E-032`. The c.1919 date remains an official historic-survey estimate, but it is now explicitly treated as an approximate secondary conclusion rather than primary construction proof. The 1983-survey ownership statement remains a title lead, not deed proof. This clarification does not alter the established 1911→1925 footprint-change bracket or resolve whether the surviving 503 fabric dates to 1919, the 1922 fire/rebuild sequence, or another event within that interval.
