@@ -356,7 +356,7 @@ businesses:
   - id: BUS-024
     name: Palace Saloon
     address: 501 Main exact in March 1912; Fifth/Main intersection in June 1909, September 1909, June 1911 and June 1912
-    notes: 6 April 1900 report has Albert Knapp purchasing Palace Saloon opposite the post office/on a corner; 24 February 1905 reports A. Knapp selling Palace to A. J. Surber. May 1907 lists the trade name citywide and July 1907 places Palace on Fifth Street. On 25 June 1909 Ralph O. Smith is reported buying former partner F. E. Hall's Palace interest and applies the same day at Palace Saloon, Fifth/Main; Smith applies again there in September 1909. Joseph Wilson applies at Palace, Fifth/Main in June 1911; Joe Wilson is exact 501 in March 1912 and Joseph Wilson is again Fifth/Main in June 1912. Early exact number, license grants, property title and uninterrupted succession remain unproved.
+    notes: 6 April 1900 report has Albert Knapp purchasing Palace Saloon opposite the post office/on a corner; 24 February 1905 reports A. Knapp selling Palace to A. J. Surber. May 1907 lists the trade name citywide and July 1907 places Palace on Fifth Street. On 25 June 1909 Ralph O. Smith is reported buying former partner F. E. Hall's Palace interest and applies the same day at Palace Saloon, Fifth/Main; Smith applies again there in September 1909. Joseph Wilson applies at Palace, Fifth/Main in March and June 1911; Joe Wilson is exact 501 in March 1912 and Joseph Wilson is again Fifth/Main in June 1912. Early exact number, license grants, property title and uninterrupted succession remain unproved.
     related_buildings:
       - B-005
     related_people:
@@ -376,6 +376,7 @@ businesses:
       - E-157
       - E-158
       - E-159
+      - E-169
     related_sources:
       - S-118
       - S-171
@@ -387,6 +388,7 @@ businesses:
       - S-177
       - S-178
       - S-179
+      - S-190
     repository_file: businesses/palace-saloon.md
 
   - id: BUS-025
@@ -911,8 +913,8 @@ businesses:
       continuity and the building-name bridge remain unresolved.
     related_people: [P-076]
     related_buildings: [B-002, B-003]
-    related_evidence: [E-085, E-092, E-134]
-    related_sources: [S-098, S-102, S-149]
+    related_evidence: [E-085, E-092, E-134, E-168]
+    related_sources: [S-098, S-102, S-149, S-189]
     repository_file: businesses/gh-young-curio-man.md
 
   - id: BUS-068

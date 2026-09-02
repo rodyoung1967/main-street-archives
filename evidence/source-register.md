@@ -154,7 +154,11 @@ Notes: Wheel Lounge at 503 Main.
 ## S-032 — Chicago Store advertisements, 1911-1913
 URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/  
 Related evidence: `E-026`, `E-108`  
-Notes: Primary advertisements place The Chicago Store at 505 Main. Also see `S-061` for its 5 January 1912 wording "Main St. just below Postoffice."
+Repository PDFs now preserved:
+- `newspapers/oregon-city-courier/1911-03-31-page-6-chicago-store-505-main.pdf` — 31 March 1911 p. 6, SHA-256 `fc3c0bfc057251e1232530342229bcd4d548c50acda3bda52f98d26d30da5507`
+- `newspapers/oregon-city-courier/1911-04-07-page-6-chicago-store-505-main.pdf` — 7 April 1911 p. 6, SHA-256 `a06940a0d58fe72639ac8fb3753b5451000169b1ddf207c73f23e081ad10b664`
+- `newspapers/oregon-city-courier/1911-04-28-page-7-chicago-store-505-main.pdf` — 28 April 1911 p. 7, SHA-256 `fe0458e8c500e00a3653b21cf2ebc1a471ddcaa2ec885647380636bfbf383e99`
+Notes: Primary advertisements place The Chicago Store at **505 Main** by 31 March and through April 1911. Also see `S-061` for its 5 January 1912 wording "Main St. just below Postoffice." The supplied 505 advertisements do not identify Wolf & Nat as proprietors.
 
 ## S-033 — City of Oregon City historic-resource record, 505 Main
 Source/location: https://legacyorcity.teammunicode.com/planning/505-main-street
@@ -1338,3 +1342,19 @@ Repository PDF: `newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-50
 Original uploaded filename: `505 Main (Wolf & Miller-Clothes and shoe repair) Oregon City courier., October 31, 1918, Page 4, Image 4.pdf`  
 Related evidence: `E-167`; business `BUS-012`; buildings `B-001`, `B-002`.  
 Notes: Answer page directly prints Wolf & Miller at 503 Main St.; conflicts with 20 Sep and 10/24 Oct 1918 evidence at 505 Main. Do not infer relocation without corroboration. SHA-256 `f2ebfe6a187f50057ea63ee373df79c3b7b4f857218159f3e72aa751d3221900`.
+
+## S-189 — Oregon City Enterprise, 16 August 1907, p. 5, Young's Second Hand Store at 505 Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-16/ed-1/seq-5.pdf  
+Repository PDF: `newspapers/oregon-city-enterprise/1907-08-16-page-5-youngs-secondhand-store-505-main.pdf`  
+Original uploaded filename: `505 Main (Young's Second Hand Store) Oregon City enterprise., August 16, 1907, Page 5, Image 5.pdf`  
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
+Related evidence: `E-168`; business `BUS-067`; building `B-002`.  
+Notes: Auction advertisement directly prints **Young's Second Hand Store / 505 Main Street, Oregon City, Oregon**. It does not print George Young's given name, so identity with `P-076` remains a strong trade-name/address inference rather than an explicit personal identification. SHA-256 `8790cfbaa0af8b70be37cc1fbece4c835fe786dcdf41296edb5fcd78a0a9686f`.
+
+## S-190 — Morning Enterprise, 14 March 1911, p. 3, Joseph Wilson Palace Saloon license notice
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-03-14/ed-1/seq-3.pdf  
+Repository PDF: `newspapers/morning-enterprise/1911-03-14-page-3-palace-saloon-joseph-wilson-license.pdf`  
+Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., March 14, 1911, Page 3, Image 3.pdf`  
+Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
+Related evidence: `E-169`; business `BUS-024`; person `P-037` by strong Joe/Joseph identity inference.  
+Notes: Notice names **JOSEPH WILSON** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets**. It does not print 501 or prove that the Council granted the license. SHA-256 `f7fbbf6e23b10967bec4b7201633b9b9084babfb8ba697ce9bf6e4d9b254c86b`.

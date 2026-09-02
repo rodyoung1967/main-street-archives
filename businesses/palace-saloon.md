@@ -36,3 +36,6 @@ Together these establish a Smith/Hall Palace partnership relationship before 25 
 ## 20 June 1911 Joseph Wilson evidence
 
 A visually verified *Morning Enterprise* notice (`S-179` / `E-159`) names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, corner 5th and Main streets**. This moves verified Joseph Wilson / Palace Saloon evidence back to June 1911. The notice does not print 501. Read with the 19 March 1912 exact-501 **Joe Wilson** notice and 20 June 1912 **Joseph Wilson** notice, Joe = Joseph is a stronger identity inference but remains an inference rather than an explicit legal-name statement.
+
+## 14 March 1911 Joseph Wilson evidence
+`S-190` / `E-169` visually verifies **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets** on 14 March 1911. This precedes the already-preserved 20 June 1911 notice. It does not print 501 Main or prove the license was granted.

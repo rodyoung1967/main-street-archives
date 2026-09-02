@@ -58,3 +58,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Current model | Building date/rear addition, 1922 mapping, Farr→Harr→Well's, and tavern operator chain remain open. | Conflict/hypothesis; no uninterrupted continuity inferred. | `E-032`, `E-100`–`E-103`, `E-108` |
 
 Sequence (chronology only; no physical-building continuity implied): Harding Drug Store catalog record → Young's Secondhand Store → Chicago Store → Wolf & Miller → A. Leland pool-hall permit at 505½ → Freeze → unnamed billiards/cigars → **Farr's Pool Hall** → **Harr's Recreation Center** → Well's Recreation → unnamed tavern → 505 Tavern → Brass Rail → Dug Inn → Sports Keg lead → Wiitanen 505 Tavern → Mitch 505 Tavern → later operators → Thirsty Duck. Farr and Harr are different proprietors/businesses; their exact transition date is unresolved.
+
+## 2 September 2026 early-source supplement
+- **16 Aug. 1907:** Young's Second Hand Store is directly advertised at **505 Main** (`S-189` / `E-168`); the ad itself does not name George Young.
+- **31 Mar., 7 Apr., 28 Apr. 1911:** exact preserved Chicago Store page scans directly print **505 Main** (`S-032` / `E-026`), strengthening the documented post-405 move chronology.

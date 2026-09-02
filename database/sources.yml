@@ -147,7 +147,7 @@ sources:
   - id: S-032
     name: Chicago Store advertisements, 1911-1913
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
-    notes: Also 28 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026.
+    notes: "Exact supplied page PDFs preserved for 31 March, 7 April and 28 April 1911 at 505 Main; also 14 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026. Repository PDFs: newspapers/oregon-city-courier/1911-03-31-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-07-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-28-page-7-chicago-store-505-main.pdf."
 
   - id: S-033
     name: City of Oregon City historic-resource record, 505 Main
@@ -955,3 +955,13 @@ sources:
     name: Oregon City Courier, 31 October 1918, p. 4, Wolf & Miller 503 Main answer-key conflict
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-31/ed-1/seq-4.pdf
     notes: Visually verified answer page prints Wolf & Miller at 503 Main, conflicting with 20 Sep and 10/24 Oct 505 Main records. Exact PDF at newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-503-main-answer-key.pdf; E-167/BUS-012. Do not infer relocation. SHA-256 f2ebfe6a187f50057ea63ee373df79c3b7b4f857218159f3e72aa751d3221900.
+
+  - id: S-189
+    name: Oregon City Enterprise, 16 August 1907, p. 5, Young's Second Hand Store at 505 Main
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-16/ed-1/seq-5.pdf
+    notes: Visually verified exact 505 Main auction advertisement for Young's Second Hand Store. Repository PDF newspapers/oregon-city-enterprise/1907-08-16-page-5-youngs-secondhand-store-505-main.pdf; E-168/BUS-067/B-002. SHA-256 8790cfbaa0af8b70be37cc1fbece4c835fe786dcdf41296edb5fcd78a0a9686f.
+
+  - id: S-190
+    name: Morning Enterprise, 14 March 1911, p. 3, Joseph Wilson Palace Saloon license notice
+    url: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-03-14/ed-1/seq-3.pdf
+    notes: Visually verified Joseph Wilson three-month liquor-license application at The Palace Saloon, Fifth and Main streets. No 501 number or grant proof. Repository PDF newspapers/morning-enterprise/1911-03-14-page-3-palace-saloon-joseph-wilson-license.pdf; E-169/BUS-024. SHA-256 f7fbbf6e23b10967bec4b7201633b9b9084babfb8ba697ce9bf6e4d9b254c86b.

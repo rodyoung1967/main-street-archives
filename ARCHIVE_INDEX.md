@@ -373,3 +373,6 @@ This directly establishes Surber's Palace relationship in 1905 but does not prov
 ## 2 September 2026 — Wolf & Miller steward-upload supplement
 
 Five supplied newspaper PDFs were reconciled. Four previously unpreserved pages are now stored under `newspapers/`; the 18 Aug. 1922 Gates fire-replacement page was byte-for-byte identical to existing `S-113` and was not duplicated. New `S-187` / `E-166` directly places **Wolf & Miller at 505 Main on 20 Sep. 1918**. New `S-188` / `E-167` preserves a **31 Oct. 1918 Courier answer-page conflict printing 503 Main**. No move is inferred. `S-186` records the 2 Jul. 1914 page as a rejected identity lead; existing `S-034` now has its exact 10 Oct. 1918 PDF preserved.
+
+## 1907–1911 Young / Chicago / Palace steward-upload supplement
+Five steward-supplied newspaper PDFs are now accounted for in `evidence/source-captures/1907-1911-young-chicago-palace-steward-upload-supplement-2026-09-02.md`. Three Chicago Store pages remain under existing `S-032` / `E-026`; the new 1907 Young exact-505 anchor is `S-189` / `E-168`, and the new 14 March 1911 Joseph Wilson Palace notice is `S-190` / `E-169`.

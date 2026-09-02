@@ -414,3 +414,9 @@ The *Oregon City Enterprise* states that **Guy Proffit** “is interested in the
 A visually verified **20 September 1918 Enterprise** advertisement (`S-187` / `E-166`) directly prints **Wolf & Miller, 505 Main St., Oregon City**, with men's clothing, shoes and shoe repairing. The existing 10 and 24 October records also place the firm at 505.
 
 A visually verified **31 October 1918 Courier** answer page (`S-188` / `E-167`) instead prints **Wolf & Miller at 503 Main St.** The discrepancy remains unresolved. The archive does not silently correct the 503 wording and does not infer a move from it alone.
+
+## 16 August 1907 — Young's Second Hand Store at 505 Main
+A visually verified *Oregon City Enterprise* auction advertisement directly prints **Young's Second Hand Store, 505 Main Street, Oregon City, Oregon** (`S-189` / `E-168`). The advertisement does not itself identify George/G. H. Young or prove building/property ownership.
+
+## 14 March 1911 — Joseph Wilson at the Palace Saloon, Fifth and Main
+A visually verified *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets** (`S-190` / `E-169`). The notice does not print 501 or prove the license was granted.

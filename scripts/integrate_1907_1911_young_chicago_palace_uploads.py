@@ -27,21 +27,21 @@ def write(path, text):
 def append_once(path, marker, block):
     text = read(path)
     if marker not in text:
-        write(path, text.rstrip() + '\n\n' + block.strip() + '\n')
+        write(path, text.rstrip() + '\n\n' + block.rstrip() + '\n')
 
 def replace_md_section(path, heading, block):
     text = read(path)
     pattern = re.compile(r'(?ms)^' + re.escape(heading) + r'\n.*?(?=^## |\Z)')
     if not pattern.search(text):
         raise SystemExit(f'missing section {heading} in {path}')
-    write(path, pattern.sub(block.strip() + '\n\n', text, count=1))
+    write(path, pattern.sub(block.rstrip() + '\n\n', text, count=1))
 
 def replace_yaml_block(path, ident, block):
     text = read(path)
     pattern = re.compile(r'(?ms)^  - id: ' + re.escape(ident) + r'\n.*?(?=^  - id: |\Z)')
     if not pattern.search(text):
         raise SystemExit(f'missing yaml id {ident} in {path}')
-    write(path, pattern.sub(block.strip() + '\n\n', text, count=1))
+    write(path, pattern.sub(block.rstrip() + '\n\n', text, count=1))
 
 def mutate_yaml_block(path, ident, fn):
     text = read(path)
@@ -96,7 +96,7 @@ Confidence: Very High for the printed business/address on the supplied scans; pr
 replace_yaml_block('database/sources.yml', 'S-032', f'''  - id: S-032
     name: Chicago Store advertisements, 1911-1913
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
-    notes: Exact supplied page PDFs preserved for 31 March, 7 April and 28 April 1911 at 505 Main; also 14 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026. Repository PDFs: {by['chi0331']['actual']}; {by['chi0407']['actual']}; {by['chi0428']['actual']}.''')
+    notes: "Exact supplied page PDFs preserved for 31 March, 7 April and 28 April 1911 at 505 Main; also 14 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026. Repository PDFs: {by['chi0331']['actual']}; {by['chi0407']['actual']}; {by['chi0428']['actual']}."''')
 
 replace_yaml_block('database/evidence.yml', 'E-026', '''  - id: E-026
     name: The Chicago Store at 505 Main, 1911-1913

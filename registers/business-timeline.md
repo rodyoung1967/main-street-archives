@@ -156,3 +156,6 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 
 | 20 Sep. 1918 | Wolf & Miller | `BUS-012` | `E-166`; `S-187` | Very High primary | Direct advertisement: 505 Main; men's clothing, shoes and shoe repair. |
 | 31 Oct. 1918 | Wolf & Miller address conflict | `BUS-012` | `E-167`; `S-188` | Very High for printed wording; interpretation unresolved | Courier answer page prints 503 Main despite 20 Sep and 10/24 Oct evidence at 505; no move inferred. |
+
+| 16 Aug. 1907 | Young's Second Hand Store | `BUS-067` | `E-168`; `S-189` | Very High for printed trade name/address | Exact 505 Main auction ad; individual George Young identity is inferred, not printed. |
+| 14 Mar. 1911 | Palace Saloon / Joseph Wilson | `BUS-024` | `E-169`; `S-190` | Very High for printed applicant/trade-name/intersection | Fifth/Main only; no 501 number or license-grant proof. |

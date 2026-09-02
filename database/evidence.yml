@@ -472,17 +472,16 @@ evidence:
       - B-001
 
   - id: E-026
-    name: "The Chicago Store at 505 Main, 1911-1913"
-    type: Primary newspaper advertisements
+    name: The Chicago Store at 505 Main, 1911-1913
+    type: Primary newspaper advertisements; supplied 1911 pages visually verified
     claims:
-      - April 1911 and January 1913 advertisements place The Chicago Store at 505 Main.
-    confidence: Very High
-    related_sources:
-      - S-032
-    related_businesses:
-      - BUS-011
-    related_buildings:
-      - B-002
+      - Oregon City Courier advertisements directly place The Chicago Store at 505 Main by 31 March 1911 and continue the address through April 1911.
+      - The supplied 31 March, 7 April and 28 April scans advertise new and second-hand clothing plus cleaning and repairing.
+      - The supplied 505 advertisements do not identify Wolf & Nat as proprietors; proprietor continuity after the move remains unresolved.
+    confidence: Very High for printed business/address and advertised services; proprietor/title/structure continuity unresolved.
+    related_sources: [S-032]
+    related_businesses: [BUS-011]
+    related_buildings: [B-002]
 
   - id: E-027
     name: "Wolf & Miller at 505 Main, 1918"
@@ -2581,3 +2580,27 @@ evidence:
     related_businesses: [BUS-012]
     related_buildings: [B-001, B-002]
     repository_file: evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md
+
+  - id: E-168
+    name: Young's Second Hand Store at 505 Main, 16 August 1907
+    type: Primary newspaper advertisement; visually verified
+    claims:
+      - The advertisement directly prints Young's Second Hand Store, 505 Main Street, Oregon City, Oregon.
+      - It establishes the trade name and exact numbered address by 16 August 1907.
+      - It does not explicitly name George/G. H. Young, prove property ownership, or prove surviving-building continuity.
+    confidence: Very High for printed trade name and exact address; Strong inference only for individual identity with later Young records.
+    related_sources: [S-189]
+    related_businesses: [BUS-067]
+    related_buildings: [B-002]
+
+  - id: E-169
+    name: Joseph Wilson at Palace Saloon, Fifth and Main, 14 March 1911
+    type: Primary newspaper liquor-license notice; visually verified
+    claims:
+      - Joseph Wilson announces a three-month liquor-license application at The Palace Saloon, Fifth and Main streets.
+      - The notice does not print 501 Main or prove the license was granted.
+      - Joe Wilson equals Joseph Wilson remains a strong identity inference from the repeated trade name/location sequence.
+    confidence: Very High for printed applicant, trade name and intersection; exact number, grant, title and uninterrupted succession unresolved.
+    related_sources: [S-190]
+    related_people: [P-037]
+    related_businesses: [BUS-024]

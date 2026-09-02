@@ -303,3 +303,6 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-186` | identity-triage only | 2 Jul. 1914 Courier page; unrelated Miller/Wolfe names, no target partnership evidence. |
 | `S-187` / `E-166` | `BUS-012`; `B-002` | 20 Sep. 1918 direct Wolf & Miller advertisement at 505 Main. |
 | `S-188` / `E-167` | `BUS-012`; `B-001`, `B-002` | 31 Oct. 1918 answer page prints 503 Main, conflicting with 505 evidence; no move inferred. |
+
+| `S-189` / `E-168` | `BUS-067`; `B-002` | 16 Aug. 1907 Young's Second Hand Store exact 505 Main advertisement; George Young individual identity not explicit. |
+| `S-190` / `E-169` | `BUS-024`; `P-037` inference | 14 Mar. 1911 Joseph Wilson Palace Saloon, Fifth/Main license notice; no exact 501 or grant proof. |

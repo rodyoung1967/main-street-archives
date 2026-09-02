@@ -142,10 +142,10 @@ Claims: Commission minutes authorize the mayor to sign a liquor application for 
 Confidence: Very High for address and name as of that date.
 
 ## E-026 — The Chicago Store at 505 Main, 1911-1913
-Type: Primary newspaper advertisements  
+Type: Primary newspaper advertisements; **VISUALLY VERIFIED** for the supplied 31 March, 7 April and 28 April 1911 pages.  
 Sources: `S-032`  
-Claims: Oregon City Courier ads 14 and 28 April 1911 and Morning Enterprise 8 January 1913 place The Chicago Store at 505 Main (new/second-hand clothing, cleaning and repairing).  
-Confidence: Very High.
+Claims: The 31 March, 7 April, 14 April and 28 April 1911 *Oregon City Courier* advertisements place The Chicago Store at **505 Main**; the supplied pages advertise new/second-hand clothing plus cleaning and repairing. Morning Enterprise 8 January 1913 again places the store at 505.  
+Confidence: Very High for the printed business/address on the supplied scans; proprietor identity after the move and property/building ownership remain unresolved.
 
 ## E-027 — Wolf & Miller at 505 Main, 1918
 Type: Primary newspaper feature  
@@ -1454,3 +1454,15 @@ Limits: Do not convert the 31 October wording into a proved move. Typesetting/an
 Confidence: Very High for the printed 503 wording; cause of the discrepancy unresolved.  
 Related business: `BUS-012`; buildings `B-001`, `B-002`.  
 Repository evidence file: `evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md`.
+
+## E-168 — Young's Second Hand Store at 505 Main, 16 August 1907
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
+Source: `S-189`  
+Claims: The 16 August 1907 *Oregon City Enterprise* auction advertisement directly prints **Young's Second Hand Store, 505 Main Street, Oregon City, Oregon**. This establishes the trade name and exact numbered address by that date. The advertisement itself does not name George/G. H. Young, establish property ownership, or prove continuity with the surviving 505 building.  
+Confidence: Very High for printed trade name and exact address; Strong inference only for identity with `P-076` / later Young records.
+
+## E-169 — Joseph Wilson at Palace Saloon, Fifth and Main, 14 March 1911
+Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
+Source: `S-190`  
+Claims: The 14 March 1911 *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets**. It moves verified Wilson/Palace evidence back from June 1911 to March 1911. The notice does not print 501, prove a license grant, property ownership, or uninterrupted succession.  
+Confidence: Very High for printed applicant/trade-name/intersection wording; Joe Wilson = Joseph Wilson remains a strong identity inference.

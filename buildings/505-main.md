@@ -249,3 +249,6 @@ Seven complete first-monthly Courier issues June–December add 58 visually insp
 ## Late-October 1918 Wolf & Miller address conflict
 
 `S-187` / `E-166` directly places Wolf & Miller at **505 Main** on 20 September 1918, strengthening the earlier exact-address anchor. `S-188` / `E-167`, however, prints **503 Main** in the 31 October Courier answer key. Because 10 and 24 October evidence also says 505, the archive preserves this as an unresolved address conflict and does not infer a move or building change.
+
+## 1907 Young / 1911 Chicago page-scan supplement
+`S-189` / `E-168` directly places **Young's Second Hand Store at 505 Main** on 16 August 1907. Exact steward-supplied Chicago Store page scans now preserved under `S-032` / `E-026` directly place **The Chicago Store at 505 Main** on 31 March, 7 April and 28 April 1911. These are occupancy/trade-name anchors, not proof of real-estate ownership or surviving-building continuity.

@@ -310,3 +310,5 @@ This was a repository-presence and preservation-control audit, not new historica
 Visually verified and integrated 1 Sep. 1916 Enterprise p. 5 (`S-184` / `E-164`) and 19 Nov. 1920 Enterprise p. 5 (`S-185` / `E-165`). Exact Oregon Digital PDF bytes were required to match steward-upload SHA-256/size before preservation. Two separately named 21 Jul. 1922 uploads matched existing `S-183` byte-for-byte and were deduplicated. See `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.
 
 | 2026-09-02 | Five Wolf & Miller / Gates steward uploads reconciled | Four previously unpreserved exact page PDFs hash-verified and preserved; 18 Aug. 1922 Gates page deduplicated to existing S-113. Added 20 Sep. 1918 direct 505 Wolf & Miller evidence and recorded the 31 Oct. 1918 503/505 address conflict without inferring relocation. |
+
+- **2026-09-02 — 1907–1911 Young / Chicago / Palace steward uploads:** verified five supplied PDFs by SHA-256, preserved/deduplicated exact page files, updated `S-032` / `E-026`, and integrated new `S-189` / `E-168` and `S-190` / `E-169` with uncertainty limits preserved.
