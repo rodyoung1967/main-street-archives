@@ -54,13 +54,32 @@ jobs:
             newspapers/oregon-city-courier/1905-02-24-page-5-palace-saloon-knapp-surber-sale.pdf \
             newspapers/oregon-city-enterprise/1907-07-19-page-1-palace-saloon-fifth-street.pdf
 
-      - name: Harden integration anchors for current YAML
+      - name: Harden integration helpers for current YAML
         shell: bash
         run: |
           python3 - <<'PY'
           from pathlib import Path
           p = Path('scripts/integrate_palace_saloon_1900_1907.py')
           text = p.read_text(encoding='utf-8')
+
+          old_append = '''def append_once(path, marker, block):
+              text = read(path)
+              if marker in text:
+                  return
+              if not text.endswith("\\n"):
+                  text += "\\n"
+              write(path, text + "\\n" + block.strip() + "\\n")'''
+          new_append = '''def append_once(path, marker, block):
+              text = read(path)
+              if marker in text:
+                  return
+              if not text.endswith("\\n"):
+                  text += "\\n"
+              write(path, text + "\\n" + block.strip("\\n") + "\\n")'''
+          if old_append not in text:
+              raise SystemExit('append_once function anchor not found')
+          text = text.replace(old_append, new_append, 1)
+
           old_func = '''def replace_once(path, old, new):
               text = read(path)
               if new in text:
@@ -86,11 +105,13 @@ jobs:
           if old_func not in text:
               raise SystemExit('replace_once function anchor not found')
           text = text.replace(old_func, new_func, 1)
+
           stale = "    notes: The Palace Saloon trade name is listed citywide by May 1907 without address/operator. Ralph O. Smith is a September 1909 applicant at the Palace Saloon, corner Main/Fifth; Joe Wilson is exact 501 in March 1912 and Joseph Wilson is Fifth/Main in June 1912. No grant, property title or uninterrupted succession proved."
           current = "    notes: The Palace Saloon trade name is listed citywide by May 1907 without address/operator. Ralph O. Smith is a September 1909 applicant at the Palace Saloon, corner Main/Fifth. Joe Wilson is exact at 501 in March 1912; a June 1912 notice prints Joseph Wilson at the Palace, Fifth/Main. Joe/Joseph identity is a strong inference, not explicit name-equivalence proof. No license grant, property ownership, Surber/Case/Hunsaker succession or uninterrupted 1907-1913 continuity is assumed."
           if stale not in text:
               raise SystemExit('BUS-024 stale anchor not found in integration script')
-          p.write_text(text.replace(stale, current, 1), encoding='utf-8')
+          text = text.replace(stale, current, 1)
+          p.write_text(text, encoding='utf-8')
           PY
 
       - name: Integrate source and evidence records
