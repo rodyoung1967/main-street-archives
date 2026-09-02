@@ -1,0 +1,52 @@
+name: Integrate Palace Saloon uploaded pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-palace-saloon-uploaded-pages.yml"
+      - "scripts/integrate_palace_saloon_uploaded_pages.py"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync current main
+        run: git pull --rebase origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install validator dependency
+        run: python -m pip install --disable-pip-version-check pyyaml
+
+      - name: Validate archive before Palace integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate uploaded Palace Saloon pages
+        run: python3 scripts/integrate_palace_saloon_uploaded_pages.py
+
+      - name: Validate archive after Palace integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push directly to main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f .github/workflows/integrate-palace-saloon-uploaded-pages.yml
+          rm -f scripts/integrate_palace_saloon_uploaded_pages.py
+          git add -A
+          git commit -m "Integrate Palace Saloon primary pages, 1907-1912"
+          git pull --rebase origin main
+          git push origin HEAD:main
