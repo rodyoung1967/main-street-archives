@@ -81,19 +81,16 @@ def replace_once(path, old, new):
 def sha256(data):
     return hashlib.sha256(data).hexdigest()
 
-# Assert expected ID state before assigning immutable new IDs.
 src = read("evidence/source-register.md")
 ev = read("evidence/evidence-register.md")
 if "## S-185" not in src or "## S-186" in src:
     raise RuntimeError("Unexpected source ID state; expected S-185 highest and S-186 free")
 if "## E-165" not in ev or "## E-166" in ev:
     raise RuntimeError("Unexpected evidence ID state; expected E-165 highest and E-166 free")
-
 dt = read("database/timeline.yml")
 if "  - id: T-060" not in dt or "  - id: T-061" in dt:
     raise RuntimeError("Unexpected timeline ID state; expected T-060 highest and T-061 free")
 
-# Preserve exact canonical bytes only after proving they match steward uploads.
 existing_hashes = {}
 for p in ROOT.rglob("*.pdf"):
     try:
@@ -107,8 +104,7 @@ for item in NEW_PDFS:
     got = sha256(data)
     if got != item["sha256"] or len(data) != item["size"]:
         raise RuntimeError(
-            f"Canonical PDF mismatch {item['url']}: got {got}/{len(data)}, "
-            f"expected {item['sha256']}/{item['size']}"
+            f"Canonical PDF mismatch {item['url']}: got {got}/{len(data)}, expected {item['sha256']}/{item['size']}"
         )
     dup = existing_hashes.get(got)
     if dup:
@@ -122,7 +118,6 @@ for item in NEW_PDFS:
         item["deduplicated"] = False
         existing_hashes[got] = item["repo_path"]
 
-# Verify 18 August 1922 upload is already preserved byte-for-byte as S-113.
 dup_path = ROOT / EXISTING_DUP["repo_path"]
 if not dup_path.exists():
     raise RuntimeError(f"Expected existing S-113 PDF missing: {dup_path}")
@@ -130,7 +125,6 @@ dup_data = dup_path.read_bytes()
 if sha256(dup_data) != EXISTING_DUP["sha256"] or len(dup_data) != EXISTING_DUP["size"]:
     raise RuntimeError("Existing S-113 PDF does not match steward upload hash/size")
 
-# Create bounded visual-review capture.
 if not (ROOT / CAPTURE).exists():
     write(CAPTURE, f"""# Wolf & Miller steward-upload supplement, 1914–1922
 
@@ -181,7 +175,6 @@ The steward upload `{EXISTING_DUP['upload_name']}` is byte-for-byte identical to
 The article documents the C. E. Gates Fifth/Main fire-replacement building; it does **not** print 501 Main, so exact 501/503 mapping remains unresolved.
 """)
 
-# Evidence detail files.
 write("evidence/E-166-1918-09-20-wolf-miller-505-main-ad.md", """# E-166 — Wolf & Miller at 505 Main, 20 September 1918
 
 Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.
@@ -204,7 +197,6 @@ The answer page prints **Wolf & Miller at 503 Main St.**, with men's clothing/fu
 Preserve the conflict. The 31 October answer page is not, by itself, proof that Wolf & Miller moved from 505 to 503. A rapid post-dissolution move, a typesetting/answer-key error, or another explanation remains possible.
 """)
 
-# Enrich existing source records with exact-PDF preservation / duplicate provenance.
 replace_once(
     "evidence/source-register.md",
     """## S-034 — Oregon City Courier, 10 October 1918, Wolf and Miller
@@ -274,6 +266,7 @@ Source: `S-187` — *Oregon City Enterprise*, p. 3.
 Status: **VISUALLY VERIFIED**.  
 Claims: Advertisement directly prints **Wolf & Miller**, **505 Main St., Oregon City**, men's clothing, shoes and shoe repairing.  
 Limits: No partner given names, legal ownership, real-estate title, or surviving-structure continuity established.  
+Confidence: Very High for printed business, exact address, and advertised trade; partner identity, title, and structure continuity unresolved.  
 Related business: `BUS-012`; building `B-002`.  
 Repository evidence file: `evidence/E-166-1918-09-20-wolf-miller-505-main-ad.md`.
 
@@ -285,11 +278,11 @@ Status: **VISUALLY VERIFIED**.
 Claims: The answer page directly prints **Wolf & Miller at 503 Main St.** and describes men's clothing/furnishings and shoe repairing.  
 Conflict: `E-166` (20 Sep), `E-027` (10 Oct), and `E-124` (24 Oct) place Wolf & Miller at **505 Main**.  
 Limits: Do not convert the 31 October wording into a proved move. Typesetting/answer-key error, rapid relocation, or another address discrepancy remain possible.  
+Confidence: Very High for the printed 503 wording; cause of the discrepancy unresolved.  
 Related business: `BUS-012`; buildings `B-001`, `B-002`.  
 Repository evidence file: `evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md`.
 """)
 
-# Core business record.
 append_once("businesses/wolf-miller.md", "## September–October 1918 steward-page supplement", """
 ## September–October 1918 steward-page supplement
 
@@ -301,7 +294,6 @@ New visually verified steward uploads add two important anchors:
 The 31 October item is retained as an unresolved address conflict. It is **not** treated as proof that the firm moved from 505 to 503 after dissolution. Independent advertising, directories, leases/licenses, or other records are needed to decide whether this was a real move or a printed error.
 """)
 
-# Update 505 timeline row and add 503 note.
 replace_once(
     "timelines/505-main.md",
     "| 10, 24 Oct. 1918 | **Wolf & Miller at 505 Main**, shoe/repair trade. | **Exact, visually verified**; Wolf identity and Miller discrepancy open. | `BUS-012`; `E-027`, `E-124`; `S-034`, `S-138` |",
@@ -365,7 +357,6 @@ append_once("ARCHIVE_INDEX.md", "## 2 September 2026 — Wolf & Miller steward-u
 Five supplied newspaper PDFs were reconciled. Four previously unpreserved pages are now stored under `newspapers/`; the 18 Aug. 1922 Gates fire-replacement page was byte-for-byte identical to existing `S-113` and was not duplicated. New `S-187` / `E-166` directly places **Wolf & Miller at 505 Main on 20 Sep. 1918**. New `S-188` / `E-167` preserves a **31 Oct. 1918 Courier answer-page conflict printing 503 Main**. No move is inferred. `S-186` records the 2 Jul. 1914 page as a rejected identity lead; existing `S-034` now has its exact 10 Oct. 1918 PDF preserved.
 """)
 
-# Database source mirror. Keep YAML values unquoted where safe to avoid quote-termination errors.
 replace_once(
     "database/sources.yml",
     """  - id: S-034
@@ -382,25 +373,24 @@ replace_once(
 
 append_once("database/sources.yml", "  - id: S-186", f"""
   - id: S-186
-    name: Oregon City Courier, 2 July 1914, Wolfe/Miller name-check page
+    name: Oregon City Courier, 2 July 1914, p. 1, Wolfe/Miller name-check page
     url: {NEW_PDFS[0]['url']}
     notes: Visually verified rejected identity lead. Exact PDF at {NEW_PDFS[0]['actual_repo_path']}; unrelated C. A. Miller and G. R. Wolfe references only, not Wolf & Miller partnership evidence. SHA-256 {NEW_PDFS[0]['sha256']}.
 
   - id: S-187
-    name: Oregon City Enterprise, 20 September 1918, Wolf & Miller 505 Main advertisement
+    name: Oregon City Enterprise, 20 September 1918, p. 3, Wolf & Miller advertisement
     url: {NEW_PDFS[1]['url']}
     notes: Visually verified direct advertisement for Wolf & Miller, 505 Main St., men's clothing, shoes and shoe repairing. Exact PDF at {NEW_PDFS[1]['actual_repo_path']}; E-166/BUS-012. SHA-256 {NEW_PDFS[1]['sha256']}.
 
   - id: S-188
-    name: Oregon City Courier, 31 October 1918, Wolf & Miller 503 Main answer-key conflict
+    name: Oregon City Courier, 31 October 1918, p. 4, Wolf & Miller 503 Main answer-key conflict
     url: {NEW_PDFS[3]['url']}
     notes: Visually verified answer page prints Wolf & Miller at 503 Main, conflicting with 20 Sep and 10/24 Oct 505 Main records. Exact PDF at {NEW_PDFS[3]['actual_repo_path']}; E-167/BUS-012. Do not infer relocation. SHA-256 {NEW_PDFS[3]['sha256']}.
 """)
 
-# Database evidence.
 append_once("database/evidence.yml", "  - id: E-166", """
   - id: E-166
-    name: Wolf & Miller 505 Main advertisement, 20 September 1918
+    name: Wolf & Miller advertisement at 505 Main, 20 September 1918
     type: Primary newspaper visual evidence
     date: 20 September 1918
     claims:
@@ -429,7 +419,6 @@ append_once("database/evidence.yml", "  - id: E-166", """
     repository_file: evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md
 """)
 
-# Database business mirror.
 replace_once(
     "database/businesses.yml",
     """  - id: BUS-012
