@@ -252,3 +252,6 @@ Seven complete first-monthly Courier issues June–December add 58 visually insp
 
 ## 1907 Young / 1911 Chicago page-scan supplement
 `S-189` / `E-168` directly places **Young's Second Hand Store at 505 Main** on 16 August 1907. Exact steward-supplied Chicago Store page scans now preserved under `S-032` / `E-026` directly place **The Chicago Store at 505 Main** on 31 March, 7 April and 28 April 1911. These are occupancy/trade-name anchors, not proof of real-estate ownership or surviving-building continuity.
+
+## December 1913 Chicago Store fire — visual owner-wording upgrade
+The exact 25 December 1913 *Oregon City Courier* front page is now visually verified (`S-192` / `E-171`). It reports the Chicago clothing store on Main Street south of the postoffice gutted by fire and says **the building was owned by George Harding**. The article itself does not print 505 Main. Because the Chicago Store is independently documented at 505 Main, the address mapping is a strong cross-source inference, not direct exact-number wording from the fire report or deed-level title proof.

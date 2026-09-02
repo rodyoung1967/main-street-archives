@@ -70,7 +70,7 @@ def append_once(path: str, marker: str, block: str) -> None:
     text = read(path)
     if marker in text:
         return
-    write(path, text.rstrip() + "\n\n" + block.strip() + "\n")
+    write(path, text.rstrip() + "\n\n" + block.rstrip() + "\n")
 
 def replace_once(path: str, old: str, new: str, required: bool = True) -> None:
     text = read(path)

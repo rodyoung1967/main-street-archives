@@ -423,3 +423,9 @@ A visually verified *Oregon City Enterprise* auction advertisement directly prin
 
 ## 14 March 1911 — Joseph Wilson at the Palace Saloon, Fifth and Main
 A visually verified *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets** (`S-190` / `E-169`). The notice does not print 501 or prove the license was granted.
+
+## 1940 — JAGERS exact 503 Main advertisement
+A visually verified **18 October 1940** *Amplifier* advertisement directly prints **JAGERS — 503 Main St., Oregon City**, describing it as a **“Cozy place for A Tasty Pickup”** (`S-193` / `E-172`). This is a dated exact-address business-name anchor for 503. It does not itself identify `J. Jager` or `New Kwality Cafe`; the same-address/name relationship remains a research question and `BUS-084` is kept separate from `BUS-002`.
+
+### 1913 Chicago Store fire visual-certification update — 2 September 2026
+The 25 December 1913 *Courier* front page is now physically preserved and **VISUALLY VERIFIED** (`S-192` / `E-171`). It says the Chicago clothing store on Main Street south of the postoffice was gutted and **the building was owned by George Harding**. The article itself does not print 505 Main; the 505 mapping remains a strong cross-source inference from independent exact-address Chicago Store advertising.

@@ -635,3 +635,22 @@ timeline:
     related_sources: [S-188]
     related_businesses: [BUS-012]
     related_buildings: [B-001, B-002]
+
+  - id: T-063
+    date: 20 December 1913 (reported 25 December)
+    summary: Oregon City Courier reports the Chicago clothing store on Main Street south of the postoffice was gutted by fire and explicitly says the building was owned by George Harding. Exact Chicago Store advertising supports a strong 505 Main mapping, but the fire article itself does not print 505.
+    confidence: Very High for visually verified fire/report/building-owner wording; Strong cross-source inference for 505; deed and surviving-building continuity unresolved.
+    related_evidence: [E-171]
+    related_sources: [S-192, S-032]
+    related_people: [P-001]
+    related_businesses: [BUS-011]
+    related_buildings: [B-002]
+
+  - id: T-064
+    date: 18 October 1940
+    summary: The Amplifier advertises JAGERS as a “Cozy place for A Tasty Pickup” at exact 503 Main St., Oregon City.
+    confidence: Very High for visually verified printed name/address/ad wording; relationship to J. Jager / New Kwality Cafe unresolved.
+    related_evidence: [E-172]
+    related_sources: [S-193]
+    related_businesses: [BUS-084]
+    related_buildings: [B-001]

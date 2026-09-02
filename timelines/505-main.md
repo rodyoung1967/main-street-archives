@@ -13,7 +13,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 10 Mar. 1911 | Young reported moving one door north from Harding Building into Willamette Building. | Combined with the 1910 505 image and later exact 507 records, strongly supports a 505→507 sequence; report itself prints neither number. | `E-085`; `E-134` |
 | 31 Mar.–Apr. 1911 | Chicago Store at **505 Main**. | **Exact primary**; available 505 ad does not repeat proprietors. | `BUS-011`; `E-026`; `S-032` |
 | 8 Jan. 1913 | Chicago Store again at **505 Main**, clothing/cleaning/repairing. | **Exact primary.** | `BUS-011`; `E-026` |
-| Dec. 1913 | Fire in Chicago Store building; premises strongly associated with George Harding. | Strong inference, not deed/surviving-building proof. | Chicago Store fire capture |
+| 20 Dec. 1913 (reported 25 Dec.) | **Chicago Store** on Main south of the postoffice gutted by fire; report says **the building was owned by George Harding**. | **Very High, visually verified** for fire/report/owner wording; **Strong cross-source inference** this was the store's independently documented 505 Main premises. Article itself does not print 505; deed/surviving-building continuity unproved. | `BUS-011`; `P-001`; `E-171`; `S-192` |
 | 3 Oct. 1913 | City Recorder notice says the official street-numbering plat/plan remained on file under Ordinance 357. | Municipal retrieval lead only; it does not map 505 to an original Block 4 lot. | `E-105`; `S-119` |
 | 1914–1915 | Unnumbered ledger row between 507 and 503 carries vacancy mark. | Moderate 505 hypothesis only; number not printed. | `E-117`; `S-131` |
 | 1916 | City synthesis reports no directory listing. | Coverage statement only; not vacancy/closure/demolition. | `E-032`; `S-033` |

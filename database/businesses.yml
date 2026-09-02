@@ -1062,3 +1062,12 @@ businesses:
     notes: Legacy April/May move records preserved conservatively; later 1905 Harding Block/Willamette Building relationship is a research lead, not an established move destination.
     related_evidence: [E-148]
     related_sources: [S-165]
+
+  - id: BUS-084
+    name: JAGERS
+    repository_file: businesses/jagers.md
+    address: 503 Main
+    notes: 18 Oct. 1940 Amplifier ad says JAGERS, “Cozy place for A Tasty Pickup,” at exact 503 Main. The ad does not name J. Jager or New Kwality Cafe; keep separate from BUS-002 pending a direct bridge.
+    related_buildings: [B-001]
+    related_evidence: [E-172]
+    related_sources: [S-193]

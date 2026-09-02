@@ -164,3 +164,9 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 | Date | Address | Business / person | Evidence | Limits |
 | --- | --- | --- | --- | --- |
 | 10 Oct. 1918 / reported 20 May 1921 | **514 Main** | **A. A. Mundin/Munden → W. O. Witham**, furniture/new-and-second-hand goods | `S-034`, `S-191`, `E-170` — supplied pages visually verified | 1921 article is retrospective and does not give exact sale date; separate 24 Oct. 1918 `614 Main` reading remains unresolved. |
+
+## 18 October 1940 — JAGERS at 503 Main
+A visually verified *Amplifier* ad places **JAGERS** at **503 Main St.** and calls it a “Cozy place for A Tasty Pickup” (`BUS-084`; `E-172`; `S-193`). The ad does not name J. Jager or New Kwality Cafe, so no business merge/name-change sequence is asserted.
+
+## 20 December 1913 Chicago Store fire — reported 25 December
+The visually verified *Courier* report says the Chicago clothing store on Main south of the postoffice was gutted and **the building was owned by George Harding** (`BUS-011`; `E-171`; `S-192`). Independent exact-address advertising supports a strong 505 Main mapping, but the fire page itself does not print 505 and is not deed evidence.

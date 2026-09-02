@@ -769,9 +769,9 @@ Related: B-003; B-004; BUS-007; BUS-026 through BUS-029; P-001; P-041 through P-
 Type: Cross-source cadastral/property synthesis  
 Dates: 1911–1925 evidence synthesized 26 August 2026; model test/handoff updated 28 August 2026
 Sources: `S-021`, `S-032`, `S-107`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-117`
-Related record: `evidence/E-108-block4-harding-address-property-bridge.md`  
+Related record: `evidence/E-108-block4-harding-address-property-bridge.md`; visual-owner upgrade: `E-171` / `S-192`  
 Claims: Task 7 establishes a defensible bridge from corrected original **Block 4** through **G. A. Harding's Lots 3–4**, the Harding/505 Chicago Store building-owner lead, and the July 1922 Harding→Gates/Wolf property division. The evidence strongly links Wolf's newly reported remainder to the Wolf-owned fire-origin building but does **not** identify the exact 501/503/505 dividing wall. Current 503 overlaps Lot 4 and 505 overlaps Lots 3–4 as current legal-description leads; modern boundaries are not backdated. Two Gates/Wolf storefront models remain live, and 501 remains a fire-origin alternative.  
-Confidence: Very High for Block 4 orientation and Harding Lots 3–4; High/strong inference for the Harding-property/Wolf chain; Strong multi-source inference for Harding↔505 with the December 1913 owner wording still primary OCR/text-only; exact 1922 storefront mapping unresolved.
+Confidence: Very High for Block 4 orientation and Harding Lots 3–4; High/strong inference for the Harding-property/Wolf chain; Strong multi-source inference for Harding↔505 with the December 1913 building-owner wording now visually verified by `S-192` / `E-171`, while the fire article itself does not print 505; exact 1922 storefront mapping unresolved.
 
 Current-plan Task 7: [evidence matrix and failure tests](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) select neither A nor B and establish no comparative ranking. Both presume a Gates-to-501 correspondence; 501 and other arrangements remain live. Post-fire footprint and pre-fire division require separate proof, as do a Wolf parcel and the actual ignition room. `E-113` supplies no spatial discriminator. [Task 8 handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md) retains remaining online work and eight open manual callouts. No new primary observation or annual completion claim.
 
@@ -1472,3 +1472,17 @@ Type: Primary newspaper article plus visually verified comparison page
 Sources: `S-191`, `S-034`  
 Claims: The 20 May 1921 *Oregon City Enterprise* states that W. O. Witham had come from Salem about two and one-half years earlier and purchased **A. A. Munden's furniture store at 514 Main street**, later expanding the stock and then purchasing Terk Brothers' stock. The visually verified 10 October 1918 *Oregon City Courier* independently prints **A. A. Mundin, 514 Main** in its new/second-hand furniture profile. These two pages materially strengthen **514 Main** as the intended address and preserve the `Mundin`/`Munden` spelling variation. They do **not** erase the separate 24 October 1918 directory reading `MUNDEN, A. A., 614 Main`, which remains an unresolved scan-level conflict, and the 1921 retrospective wording does not establish an exact purchase date.  
 Confidence: Very High for the printed 514 address and 1921 succession statement; Strong for approximate late-1918 timing only; 514/614 conflict unresolved.
+
+## E-171 — Chicago Store fire and George Harding building ownership, December 1913
+Type: Primary newspaper fire report plus exact-address cross-source comparison  
+Sources: `S-192`, `S-032`  
+Claims: The visually verified 25 December 1913 *Oregon City Courier* front page reports that the Chicago clothing store on Main Street south of the postoffice was gutted by fire and explicitly states that **the building was owned by George Harding**. The fire report itself does not print 505 Main. Independent exact-address Chicago Store advertising at **505 Main** in 1911 and January 1913 supports a **strong cross-source inference** that the reported burned Chicago Store premises were the documented 505 Main premises. This is not deed-level fee-title proof and does not establish continuity with the surviving 505 building.  
+Confidence: **Very High** for visually verified fire/report/building-owner wording; **Strong inference** for the 505 mapping; property legal description and surviving-building continuity unresolved.  
+Related record: `evidence/E-171-1913-chicago-store-fire-george-harding.md`
+
+## E-172 — JAGERS advertised at 503 Main, 18 October 1940
+Type: Primary newspaper advertisement  
+Sources: `S-193`  
+Claims: A visually verified 18 October 1940 *Amplifier* advertisement directly prints **JAGERS** and **503 Main St. Oregon City**, describing it as a “Cozy place for A Tasty Pickup.” This establishes the printed business/trade style, exact address, and refreshment-oriented advertising context on that date. The ad does not print J. Jager, New Kwality Cafe, proprietor, ownership, or legal-entity wording. The same-address/name resemblance to P-003 / BUS-002 is a research bridge only and is not an identity or renaming conclusion.  
+Confidence: **Very High** for the printed JAGERS name/address/ad wording; relationship to J. Jager / New Kwality Cafe unresolved.  
+Related record: `evidence/E-172-1940-jagers-503-main.md`

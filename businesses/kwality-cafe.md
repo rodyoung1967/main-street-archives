@@ -58,3 +58,6 @@ A Time Capsule Maps photo-metadata record uses the wording **"The Quality Cafe"*
 - When did Larry's Kwality Cafe operate at 503 Main?
 - Is there a verified Morton, Washington connection to J. Jager, Larry, or the cafe?
 - Can city directories, telephone books, newspaper ads, business licenses, tax records, or menus establish a year-by-year occupant sequence?
+
+## 18 October 1940 JAGERS exact-address bridge
+`S-193` / `E-172` adds a dated **18 October 1940** advertisement for **JAGERS at 503 Main**, describing a “Cozy place for A Tasty Pickup.” This is highly relevant to the later/undated J. Jager and New Kwality Cafe evidence at 503, but the 1940 ad does not print `J. Jager`, `New Kwality Cafe`, or a name-change statement. The archive therefore retains `JAGERS` as separate `BUS-084` pending a direct continuity source.

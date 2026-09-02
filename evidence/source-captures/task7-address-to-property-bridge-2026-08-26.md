@@ -70,7 +70,7 @@ Combined with the visually verified October 1913 assessment placing G. A. Hardin
 
 This is not a deed-level statement that Harding held fee title to the exact modern 505 parcel.
 
-Classification: **STRONG MULTI-SOURCE INFERENCE**; December 1913 owner wording remains **OCR/TEXT-ONLY** pending visual certification.
+Classification: **STRONG MULTI-SOURCE INFERENCE** for Harding↔505; the December 1913 Chicago Store fire/building-owner wording is now **VISUALLY VERIFIED** by `S-192` / `E-171`, but the fire article itself does not print 505.
 
 ## 5. Harding 1913 property → Harding July 1922 sale group — STRONG INFERENCE
 

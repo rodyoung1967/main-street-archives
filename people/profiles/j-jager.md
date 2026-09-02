@@ -41,3 +41,5 @@ At present, the archive does not establish J. Jager's full name, operating dates
 - Is there a verified Morton, Washington connection?
 - Can J. Jager be found in city directories, telephone books, newspapers, census records, business licenses, tax records, or deed records?
 
+## 18 October 1940 JAGERS same-address lead
+A visually verified *Amplifier* advertisement (`S-193` / `E-172`) prints **JAGERS** at **503 Main St.** and calls it a “Cozy place for A Tasty Pickup.” The ad does **not** name J. Jager or New Kwality Cafe. Because P-003 is independently tied to New Kwality Cafe at the same exact address, this is an important identity/name-change lead, but it is not yet sufficient to merge P-003 with the 1940 `JAGERS` business record (`BUS-084`).

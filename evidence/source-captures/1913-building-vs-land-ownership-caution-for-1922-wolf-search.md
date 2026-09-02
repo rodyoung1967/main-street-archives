@@ -10,7 +10,7 @@ Task 6 (`E-094`) established that the odd-numbered 501/503/505/507 frontage is o
 
 ## Harding building-owner evidence at the 505 address context
 
-Independent primary advertisements place the **Chicago Store at 505 Main** in 1911–1913 (`S-032` / `E-026`). The 25 December 1913 *Oregon City Courier* primary OCR/text report says the Chicago clothing-store building was owned by **George Harding**. The page image has not yet been visually certified, so that owner wording remains **primary OCR/text-only**.
+Independent primary advertisements place the **Chicago Store at 505 Main** in 1911–1913 (`S-032` / `E-026`). The 25 December 1913 *Oregon City Courier* page is now physically preserved and **VISUALLY VERIFIED** (`S-192` / `E-171`): it says the Chicago clothing-store building was owned by **George Harding**. The fire article itself still does not print 505 Main, so the Harding↔505 connection remains a **strong cross-source inference** rather than a direct exact-address or deed statement.
 
 Combined with Harding's visually verified Block 4 Lots 3–4 assessment entry and current 503/505 lot-overlap leads, the evidence supports a **strong multi-source Harding↔505 property/building inference**, not a deed-level statement that the exact modern 505 parcel existed in the same form.
 
@@ -32,6 +32,6 @@ Search both:
 2. Harding → S. Wolf / C. Gates recorded deed(s).
 3. Gates/Junken 1922 plans/permit/assessment sketch.
 4. Official recorded/assessor parcel images for 503 and 505.
-5. Visual certification of the 25 December 1913 Harding-owner article.
+5. **RESOLVED 2 Sep. 2026:** `S-192` visually certifies the 25 December 1913 Harding-owner article; retain only the exact-address/deed mapping questions.
 
 See `E-108` and `evidence/source-captures/task7-address-to-property-bridge-2026-08-26.md` for the integrated address-to-property classification.

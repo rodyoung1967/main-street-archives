@@ -133,3 +133,5 @@ These records were already part of the evidence narrative but previously lacked 
 ## 2 September 2026 Fifth Street Restaurant Pollock / Proffit supplement
 
 `BUS-070` now has direct **W. W. Pollock** association on 1 September 1916 (`E-164` / `S-184`) and a reported **Guy Proffit** business interest on 19 November 1920 (`E-165` / `S-185`). Neither record proves the exact numbered premises, property title, partnership percentage, or uninterrupted succession.
+
+| BUS-084 | [JAGERS](jagers.md) | 503 Main | Exact 18 Oct. 1940 *Amplifier* ad: “Cozy place for A Tasty Pickup.” Same-address/name relationship to J. Jager / New Kwality Cafe remains unresolved; not merged. `E-172` / `S-193`. |

@@ -973,3 +973,15 @@ sources:
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-05-20/ed-1/seq-3/
     notes: >-
       Visually verified article says W. O. Witham had come from Salem about two and one-half years earlier and purchased A. A. Munden's furniture store at 514 Main street, later adding stock and purchasing Terk Brothers' stock. Exact PDF preserved at newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf, SHA-256 02eb3a4676826d0feff19c3b59b61ce648466034bddc927d4173bd3b8455d875. Related evidence E-170; exact transfer date and 24 Oct 1918 614-address conflict remain unresolved.
+
+  - id: S-192
+    name: Oregon City Courier, 25 December 1913, Chicago Store fire and George Harding building-owner statement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-25/ed-1/seq-1.pdf
+    notes: >-
+      Visually verified front-page fire report. Chicago clothing store on Main south of the postoffice was gutted; the report explicitly says the building was owned by George Harding. Article does not print 505. Repository PDF newspapers/oregon-city-courier/1913-12-25-page-1-chicago-store-fire-george-harding.pdf; SHA-256 f876dda085a7ab945fa575eb38f7ff32e7d65b9527add2f8a9530b1ef11e62c5. Related evidence E-171 and E-108.
+
+  - id: S-193
+    name: The Amplifier, 18 October 1940, JAGERS at 503 Main
+    url: https://oregonnews.uoregon.edu/lccn/2017260114/1940-10-18/ed-1/seq-3.pdf
+    notes: >-
+      Visually verified advertisement directly prints JAGERS, “Cozy place for A Tasty Pickup,” 503 Main St., Oregon City. Does not print J. Jager or New Kwality Cafe. Repository PDF newspapers/the-amplifier/1940-10-18-page-3-jagers-503-main.pdf; SHA-256 fead077f125cc8bc3e7bf551dfe09102a04ecebc8ee39f1daf4ed34abfc74b20. Related evidence E-172.

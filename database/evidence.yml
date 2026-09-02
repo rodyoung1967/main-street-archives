@@ -1624,7 +1624,7 @@ evidence:
     claims:
       - Corrected original Block 4 provides the cadastral frame for the odd-numbered 501/503/505/507 frontage, and the 1913 assessment lists G. A. Harding at Block 4 Lots 3 and 4.
       - Current legal-description leads place 503 in part Lot 4 and 505 in parts Lots 3 and 4; those modern boundaries are not automatically backdated to 1922.
-      - Chicago Store exact-address evidence at 505 plus the December 1913 primary OCR/text report naming George Harding as building owner creates a strong Harding-to-505 bridge, pending visual certification of that owner wording.
+      - Chicago Store exact-address evidence at 505 plus the visually verified 25 December 1913 fire report naming George Harding as building owner creates a strong Harding-to-505 bridge; the fire report itself does not print 505, so exact-address/deed proof remains unresolved.
       - The July 1922 Harding sale division and the fire report strongly connect S. Wolf's reported remainder to the Wolf-owned ignition building, but do not establish the exact 501/503/505 storefront boundary.
       - Gates-at-501 and Gates-at-501-plus-503 remain competing hypotheses; the 503-ignition/505-pool-hall reconstruction remains a working hypothesis and 501 remains live.
       - August 28 current-plan model test selects neither model and establishes no comparative ranking. Both assume an unproved Gates-to-501 correspondence and are not exhaustive. Post-fire footprint, pre-fire property division and actual ignition room each require separate bridges.
@@ -2620,3 +2620,30 @@ evidence:
     related_sources:
       - S-191
       - S-034
+
+  - id: E-171
+    name: Chicago Store fire and George Harding building ownership, December 1913
+    type: Primary newspaper fire report plus exact-address cross-source comparison
+    claims:
+      - The visually verified 25 December 1913 Courier says the Chicago clothing store on Main Street south of the postoffice was gutted by fire and explicitly says the building was owned by George Harding.
+      - The fire article itself does not print 505 Main; independent exact Chicago Store advertising at 505 Main supports a strong cross-source 505 mapping, not deed-level proof.
+      - The evidence does not establish surviving-building continuity or the legal land description.
+    confidence: Very High for the visually verified fire/report/building-owner wording; Strong inference for the 505 mapping; legal title and surviving-building continuity unresolved.
+    related_sources: [S-192, S-032]
+    related_people: [P-001]
+    related_businesses: [BUS-011]
+    related_buildings: [B-002]
+    repository_file: evidence/E-171-1913-chicago-store-fire-george-harding.md
+
+  - id: E-172
+    name: JAGERS advertised at 503 Main, 18 October 1940
+    type: Primary newspaper advertisement
+    claims:
+      - The visually verified 18 October 1940 Amplifier ad directly prints JAGERS, “Cozy place for A Tasty Pickup,” and 503 Main St., Oregon City.
+      - The ad does not name J. Jager, New Kwality Cafe, a proprietor, property ownership, or a legal entity.
+      - Same-address/name resemblance to existing J. Jager / New Kwality evidence is a research bridge only, not a proved identity or rename.
+    confidence: Very High for printed business style/address/ad wording; relationship to J. Jager / New Kwality Cafe unresolved.
+    related_sources: [S-193]
+    related_businesses: [BUS-084]
+    related_buildings: [B-001]
+    repository_file: evidence/E-172-1940-jagers-503-main.md

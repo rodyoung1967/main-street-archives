@@ -183,3 +183,6 @@ Seven complete first-monthly Courier issues June–December add 58 visually insp
 ## 31 October 1918 Wolf & Miller conflict
 
 The 31 October 1918 *Courier* answer page (`S-188` / `E-167`) prints **Wolf & Miller at 503 Main St.** Direct records on 20 September and 10/24 October place the same named firm at **505 Main**. This is not sufficient to establish Wolf & Miller as a settled 503 occupant; retain it as a conflict pending corroboration.
+
+## 18 October 1940 JAGERS exact-address advertisement
+A visually verified *Amplifier* page (`S-193` / `E-172`) directly advertises **JAGERS at 503 Main St., Oregon City** with the phrase “Cozy place for A Tasty Pickup.” This supplies a dated 1940 occupant/business-name anchor between the 1937 generic KWALITY sale advertisement and the City's 1947 Kwality Cafe directory synthesis. It does not by itself identify J. Jager or establish that JAGERS and New Kwality Cafe were the same business.

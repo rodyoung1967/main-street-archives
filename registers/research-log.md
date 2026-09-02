@@ -315,3 +315,10 @@ Visually verified and integrated 1 Sep. 1916 Enterprise p. 5 (`S-184` / `E-164`)
 
 ## 2026-09-02 — Freeze / 514 Main steward-upload supplement
 Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1918 Courier page was already preserved byte-for-byte and was deduplicated. Four Enterprise pages (8 Apr., 20 May, 28 Oct. 1921; 30 Jun. 1922) were newly preserved. Freeze's printed 505½/505 address variation and 30 Jun. Masonic move notice were integrated into `S-035` / `E-028`. The 20 May 1921 article created `S-191` / `E-170` for the A. A. Munden → W. O. Witham furniture-store succession at **514 Main**, while explicitly preserving the separate 24 Oct. 1918 `614 Main` conflict.
+
+### 2026-09-02 — Reconcile Justin/Hitchman, 1913 Chicago fire, 1922 fire, and 1940 JAGERS uploads
+- Reconciled five steward-supplied page PDFs by exact SHA-256.
+- Deduplicated the already-preserved 13 Dec. 1907 (`S-136`), 18 Sep. 1908 (`S-137`), and 20 Jul. 1922 (`S-117`) pages without new source IDs.
+- Preserved and visually certified the 25 Dec. 1913 *Courier* Chicago Store fire page as `S-192` / `E-171`; the report directly names George Harding as building owner, while 505 remains a cross-source inference.
+- Preserved the 18 Oct. 1940 *Amplifier* JAGERS ad as `S-193` / `E-172` and created separate `BUS-084`; direct exact 503 Main, but no automatic J. Jager/New Kwality merge.
+- Permanent audit: `evidence/source-captures/1907-1940-steward-upload-reconciliation-2026-09-02.md`. No annual completion-status change.

@@ -310,3 +310,6 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 ## 2 September 2026 Freeze / 514 Main uploaded-page integration
 - `S-191` ↔ `E-170` — 20 May 1921 *Oregon City Enterprise* p. 3, W. O. Witham retrospective purchase of A. A. Munden's furniture store at **514 Main**; compared with `S-034` 10 Oct. 1918 **A. A. Mundin, 514 Main**.
 - Existing `S-035` ↔ `E-028` expanded with exact preserved Freeze pages for 8 Apr., 20 May, 28 Oct. 1921 and 30 Jun. 1922; no new IDs assigned for repeated ads in the same source/evidence family.
+
+| `S-192` / `E-171` | `BUS-011`; `P-001`; `B-002` | 25 Dec. 1913 Chicago Store fire page; George Harding building-owner wording visually verified; exact 505 mapping remains cross-source inference. |
+| `S-193` / `E-172` | `BUS-084`; `B-001` | 18 Oct. 1940 JAGERS exact 503 Main advertisement; J. Jager/New Kwality relationship unresolved. |

@@ -1371,3 +1371,19 @@ Original uploaded filename: `514 Main Oregon City enterprise., May 20, 1921, Pag
 Type: Primary newspaper article; **VISUALLY VERIFIED**.  
 Related evidence: `E-170`; cross-reference source `S-034`.  
 Notes: The article **Witham Buys Stock Of Terk Brothers** says W. O. Witham came to Oregon City about two and one-half years earlier from Salem and purchased the furniture store of **A. A. Munden at 514 Main street**; it also says he gradually added stock before purchasing Terk Brothers' furniture/household-goods stock. The article does not state an exact Munden-to-Witham transfer date or legal transaction mechanics. SHA-256 `02eb3a4676826d0feff19c3b59b61ce648466034bddc927d4173bd3b8455d875`.
+
+## S-192 — Oregon City Courier, 25 December 1913, Chicago Store fire and George Harding building-owner statement
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-25/ed-1/seq-1.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1913-12-25-page-1-chicago-store-fire-george-harding.pdf`  
+Original uploaded filename: `Chicago Store (possibly 505 main) Oregon City courier., December 25, 1913, Image 1.pdf`  
+Type: Primary newspaper fire report; **VISUALLY VERIFIED**.  
+Related evidence: `E-171`; cross-reference `E-026`, `E-108`.  
+Notes: Front-page report says the Chicago clothing store on Main Street south of the postoffice was gutted in the preceding Saturday-night fire and explicitly says **the building was owned by George Harding**. The article itself does not print 505 Main. Independent Chicago Store exact-address advertising at 505 Main makes the 505 identification a strong cross-source inference, not a deed or a direct exact-address statement from this fire page. SHA-256 `f876dda085a7ab945fa575eb38f7ff32e7d65b9527add2f8a9530b1ef11e62c5`.
+
+## S-193 — The Amplifier, 18 October 1940, JAGERS at 503 Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/2017260114/1940-10-18/ed-1/seq-3.pdf  
+Repository PDF: `newspapers/the-amplifier/1940-10-18-page-3-jagers-503-main.pdf`  
+Original uploaded filename: `503 Main (Jagers) The amplifier., October 18, 1940, Page 3, Image 3.pdf`  
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
+Related evidence: `E-172`; related business `BUS-084`; address `B-001`.  
+Notes: Page-three advertisement reads **JAGERS**, “Cozy place for A Tasty Pickup,” **503 Main St. Oregon City**. It does not identify J. Jager, New Kwality Cafe, a proprietor, property ownership, or a legal entity. Same-address/name resemblance to existing J. Jager/New Kwality evidence is retained as a research bridge only. SHA-256 `fead077f125cc8bc3e7bf551dfe09102a04ecebc8ee39f1daf4ed34abfc74b20`.

@@ -20,6 +20,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 11 Nov. 1926 | Fire department responds to **Fifth and Main, false alarm**, 1:15 p.m. | **Intersection context only**; no number or occupant, damage unstated. Not a 503 fire or rebuild. | `E-142`; `S-159`; `T-049` |
 | 1936–1950 | Aerial/Sanborn evidence retains the 503/505 Main-frontage structures while the separate 501 structure disappears by 1944. | Physical continuity context only; does not identify 503 tenant or prove unchanged fabric. | `E-021`; `S-023`; `SM-009` |
 | 12 Jun. 1937 | “KWALITY cafe” offered for sale in Oregon City. | Primary name; ad omits number, association from wider chronology. | `BUS-001`; `E-043`; `S-050`; `IMG-0045` |
+| 18 Oct. 1940 | **JAGERS** — “Cozy place for A Tasty Pickup” — at **503 Main St.** | **Exact, visually verified primary ad** for printed business style/address. Ad does not itself name J. Jager or New Kwality Cafe; relationship remains open. | `BUS-084`; `E-172`; `S-193` |
 | 1947 | City synthesis reports **Kwality Cafe** at 503. | Official secondary. | `BUS-001`; `E-032` |
 | Date unresolved, Kwality era | Matchbooks directly identify **New Kwality Cafe, 503 Main, J. Jager proprietor**, and **Larry's Kwality Cafe, 503 Main**, telephone 6106. | **Exact primary artifacts** for names/address; artifact dates and relationship to the generic Kwality name remain unresolved. | `BUS-002`, `BUS-003`; `P-003`, `P-004`; `E-002`, `E-003`; `A-001`, `A-002`; `S-002`, `S-003` |
 | 1957 | Mr./Mrs. Albert D. Flor operate restaurant/cocktail bar at 503. | Official secondary; folded into restaurant/Kwality context until distinct name found. | `BUS-001`; `P-025`; `E-032` |
@@ -36,7 +37,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Current research | Current records place 503 in original Block 4; OHS indexes a Main/Fifth title abstract with conflicting Lots 3–4 versus 3–5 fields. | Title/geometry retrieval lead only; the abstract is uninspected and modern boundaries are not backdated. | `E-094`, `E-095`; `S-109`, `S-110` |
 | Current model | Boundary/width, c.1919 date, 1922 allocation/fire room, and business/property transfers remain open. | Conflict/hypothesis; address reuse is not physical/business continuity. | `E-011`, `E-094`–`E-103`, `E-108` |
 
-Sequence (chronology only): Brightbill → Smith → Hylton → unnamed 1925 restaurant → Kwality / New Kwality / Larry's Kwality (artifact-name order unresolved) / Flor → Wheel → White Rabbit/Black Ink.
+Sequence (chronology only): Brightbill → Smith → Hylton → unnamed 1925 restaurant → Kwality context → **JAGERS (1940; relationship to J. Jager/New Kwality open)** → New Kwality / Larry's Kwality (artifact-name order/dates unresolved) / Flor → Wheel → White Rabbit/Black Ink.
 
 ## 31 October 1918 Wolf & Miller address conflict
 
