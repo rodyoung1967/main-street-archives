@@ -392,7 +392,7 @@ people:
     name: C. E. Gates
     repository_file: people/profiles/c-e-gates-1922.md
     role: 1922 Fifth/Main purchaser / corner-property owner
-    notes: July source prints C. Gates and assigns him the Fifth Street Restaurant location; August sources print C. E. Gates and document his hollow-tile fire-replacement building at Fifth/Main. Full identity and exact modern storefront footprint remain unresolved. Do not merge with same-initial people elsewhere without direct proof.
+    notes: July sale source prints C. Gates and assigns him the Fifth Street Restaurant location; August sources print C. E. Gates and document his hollow-tile fire-replacement building at Fifth/Main. A separate 21 July Enterprise account prints C. P. Gates as owner of the restaurant building; that form is retained separately as P-103. Full identity and exact modern storefront footprint remain unresolved. Do not merge initials without direct proof.
     related_evidence:
       - E-096
       - E-097
@@ -1082,3 +1082,30 @@ people:
     related_evidence: [E-157]
     related_sources: [S-177]
     repository_file: people/profiles/f-e-hall.md
+
+  - id: P-101
+    name: W. W. Pollock
+    role: Fifth Street Restaurant operator / conductor
+    notes: 31 October 1919 Enterprise directly describes Pollock as conducting the Fifth street restaurant and reports a $15-and-costs sanitation fine. No exact address or property ownership.
+    related_businesses: [BUS-070]
+    related_evidence: [E-161]
+    related_sources: [S-181]
+    repository_file: people/profiles/w-w-pollock.md
+
+  - id: P-102
+    name: L. E. Blakely
+    role: Reported Fifth Street Restaurant owner
+    notes: 21 July 1922 Enterprise names L. E. Blakely immediately before saying Blakely owned the restaurant. Same-paragraph identity is strong inference; do not merge with J. Blake or Ed Gage / Ed Blake variants without proof.
+    related_businesses: [BUS-070]
+    related_evidence: [E-163]
+    related_sources: [S-183]
+    repository_file: people/profiles/l-e-blakely.md
+
+  - id: P-103
+    name: C. P. Gates
+    role: Reported owner of Fifth Street Restaurant building
+    notes: 21 July 1922 Enterprise says the building was owned by C. P. Gates of Portland. Preserve separately from C. Gates / C. E. Gates P-036 until independent identity evidence resolves the initials.
+    related_businesses: [BUS-070]
+    related_evidence: [E-163]
+    related_sources: [S-183]
+    repository_file: people/profiles/c-p-gates-1922.md

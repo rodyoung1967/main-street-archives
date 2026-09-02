@@ -261,3 +261,9 @@ New direct evidence (`E-154`–`E-156`) supplies a 1900 Knapp purchase, a **1905
 - Recover City Council minutes immediately following **25 June 1909** for Ralph O. Smith's Palace Saloon application; determine grant, bond/fee, premises wording, and any reference to F. E. Hall or license transfer.
 - Search deeds, business notices and liquor-license records around June 1909 for **F. E. Hall** and Ralph O. Smith to determine partnership formation, transaction terms and whether any business-interest transfer coincided with a premises/license change. Do not infer real-estate title from the newspaper business-interest item.
 - Recover City Council minutes immediately following **20 June 1911** for Joseph Wilson's Palace Saloon application; test grant/bond/fee/premises wording and whether a street number is supplied.
+
+## Fifth Street Restaurant identity / title follow-up from 1 September uploads
+
+- Resolve **W. W. Pollock** (`P-101`) through 1919–1921 directories, restaurant licenses, inspection records, or advertisements; do not infer exact premises from the trade name alone.
+- Resolve the July 1922 **L. E. Blakely / J. Blake / Ed. Blake / Ed Gage** variants with directories, deeds/leases, court records, or independent same-person evidence.
+- Resolve **C. P. Gates** (`P-103`) versus **C. Gates / C. E. Gates** (`P-036`) using the 13 July sale instrument, recorded deed/title chain, assessment rolls, and August replacement-building records. Do not normalize initials until independent proof.

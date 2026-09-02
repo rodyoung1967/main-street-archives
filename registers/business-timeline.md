@@ -141,3 +141,12 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 | --- | --- | --- | --- | --- | --- |
 | 25 Jun. 1909 | Palace Saloon / Ralph O. Smith / F. E. Hall | `BUS-024` | `E-157`, `E-158` | Very High for printed wording | Smith reported buying former partner Hall's Palace interest; same issue Smith applies at Palace, Fifth/Main. No 501/grant/title/transaction terms. |
 | 20 Jun. 1911 | Palace Saloon / Joseph Wilson | `BUS-024` | `E-159` | Very High wording; Strong Joe/Joseph identity inference | Joseph Wilson applies at Palace, Fifth/Main; predates 1912 Wilson evidence; no 501 in this notice. |
+
+## Fifth Street Restaurant uploaded-page supplement
+
+| Date | Business / Event | Business ID | Evidence | Confidence | Notes |
+| --- | --- | --- | --- | --- | --- |
+| 31 Aug. 1916 | Fifth Street Restaurant inspection | `BUS-070` | `E-160` | Very High | Named restaurant scored 75.3; proprietor/number not printed. |
+| 31 Oct. 1919 | W. W. Pollock conducting Fifth Street Restaurant | `BUS-070` | `E-161` | Very High | Pollock fined $15 and costs on dirty/unsanitary-place complaint; no property-title inference. |
+| 26 Aug. 1921 | Fight reported inside Fifth Street Restaurant | `BUS-070` | `E-162` | Very High for place wording | Active-place evidence; no proprietor/number. |
+| 21 Jul. 1922 | Post-fire ownership wording | `BUS-070` | `E-163` | Very High wording; Strong same-paragraph Blakely identity inference | Prints L. E. Blakely then Blakely restaurant ownership; prints C. P. Gates building ownership; conflicts preserved. |

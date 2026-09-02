@@ -1357,3 +1357,53 @@ Limits:
 - The 1911 notice does not print 501.
 - It does not prove grant, title, or uninterrupted operation through every intervening month.
 Confidence: Very High for 1911 wording; Strong for Joe/Joseph identity when read with `E-104` and `E-153`.
+
+## E-160 — Fifth Street Restaurant in state inspection summary, 31 August 1916
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
+Source: `S-180` — *Oregon City Courier*, 31 August 1916, p. 3.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- Oregon City inspection list directly prints **Fifth Street Restaurant — 75.3**.
+- This proves a named Fifth Street Restaurant existed by August 1916.
+- No proprietor or numbered address is printed, and continuity to later references remains unproved.
+Related business: `BUS-070`.  
+Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
+
+## E-161 — W. W. Pollock conducting Fifth Street Restaurant and fined, 31 October 1919
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
+Source: `S-181` — *Oregon City Enterprise*, 31 October 1919, p. 5.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- W. W. Pollock is directly described as **conducting the Fifth street restaurant**.
+- He was fined **$15 and costs** on a state dairy-and-food inspector complaint charging a **dirty and unsanitary place**.
+- The article supplies no exact street number and does not prove real-estate ownership.
+Related person: `P-101`; business: `BUS-070`.  
+Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
+
+## E-162 — Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
+Source: `S-182` — *Oregon City Enterprise*, 26 August 1921, p. 4.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- The paper reports a mistaken-identity fight **in the Fifth Street Restaurant**, involving S. Cox and Ray Doane.
+- This is direct dated evidence that the named place was active/recognized in August 1921.
+- The item does not name a proprietor, numbered address, leaseholder, or property owner.
+Related business: `BUS-070`.  
+Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
+
+## E-163 — 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
+Source: `S-183` — *Oregon City Enterprise*, 21 July 1922, p. 1.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- The article names **L. E. Blakely** among occupants adjacent to the burned structures and immediately states that **Blakely owned the Fifth street restaurant**.
+- Reading the surname-only ownership sentence as L. E. Blakely is a **strong same-paragraph inference**, not separate legal-identity proof.
+- It states that **the building was owned by C. P. Gates, of Portland**.
+- The newspaper wording is not a deed/title instrument.
+- Existing records print J. Blake / Ed. Blake / Ed Gage and C. Gates / C. E. Gates. The new L. E. Blakely and C. P. Gates forms are preserved as unresolved identity/initial conflicts.
+Related people: `P-102`, `P-103`; business: `BUS-070`; compare `P-036`, `P-087`, `P-088`, `E-096`, `E-097`, `E-103`.  
+Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.

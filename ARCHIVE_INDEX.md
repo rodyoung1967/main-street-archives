@@ -359,3 +359,7 @@ This directly establishes Surber's Palace relationship in 1905 but does not prov
 - `S-178` / `E-158`: same issue — Smith Palace Saloon liquor-license application at Fifth/Main.
 - `S-179` / `E-159`: 20 Jun. 1911 *Morning Enterprise* — Joseph Wilson Palace Saloon application at Fifth/Main, moving verified Wilson/Palace evidence back to 1911.
 - Detailed provenance and uploaded/repository hashes: `evidence/source-captures/1909-1911-palace-saloon-partnership-license-supplement-2026-09-01.md`.
+
+## 1 September 2026 — Fifth Street Restaurant primary-page preservation
+
+- [`S-180`–`S-183` / `E-160`–`E-163`](evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md) — exact page PDFs preserved for 31 Aug. 1916 inspection, 31 Oct. 1919 W. W. Pollock sanitation fine, 26 Aug. 1921 restaurant fight, and 21 Jul. 1922 post-fire ownership wording. The 1922 page adds unresolved L. E. Blakely and C. P. Gates variants.

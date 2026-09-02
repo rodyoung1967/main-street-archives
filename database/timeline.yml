@@ -566,3 +566,37 @@ timeline:
     related_people: [P-037]
     related_businesses: [BUS-024]
     related_buildings: [B-005]
+
+  - id: T-055
+    date: 31 August 1916
+    summary: State inspection summary lists Fifth Street Restaurant in Oregon City with score 75.3; proprietor and exact number are not printed.
+    confidence: Very High for printed business name and score; premises/operator unresolved.
+    related_evidence: [E-160]
+    related_sources: [S-180]
+    related_businesses: [BUS-070]
+
+  - id: T-056
+    date: 31 October 1919
+    summary: W. W. Pollock is directly described as conducting Fifth Street Restaurant and is fined $15 and costs on a state food-inspector dirty/unsanitary-place complaint.
+    confidence: Very High for printed operator wording and enforcement event; exact address/property role unresolved.
+    related_evidence: [E-161]
+    related_sources: [S-181]
+    related_people: [P-101]
+    related_businesses: [BUS-070]
+
+  - id: T-057
+    date: 26 August 1921
+    summary: Enterprise reports a mistaken-identity fight involving S. Cox and Ray Doane in the Fifth Street Restaurant, providing dated active-place evidence.
+    confidence: Very High for printed place/event wording; proprietor, number and continuity unresolved.
+    related_evidence: [E-162]
+    related_sources: [S-182]
+    related_businesses: [BUS-070]
+
+  - id: T-058
+    date: 21 July 1922
+    summary: Enterprise post-fire account names L. E. Blakely and immediately says Blakely owned Fifth Street Restaurant; it reports C. P. Gates of Portland owned the building. Blake/Blakely/Gage and C./C. P./C. E. Gates conflicts remain unresolved.
+    confidence: Very High for printed wording; Strong same-paragraph inference for L. E. Blakely referent; legal identity/title unresolved.
+    related_evidence: [E-163]
+    related_sources: [S-183]
+    related_people: [P-102, P-103]
+    related_businesses: [BUS-070]

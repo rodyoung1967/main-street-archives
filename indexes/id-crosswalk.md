@@ -286,3 +286,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | E-158 | S-178; P-098; BUS-024 | Smith Palace Saloon liquor-license application at Fifth/Main, same date. |
 | E-159 | S-179; P-037; BUS-024; B-005 | Joseph Wilson Palace Saloon application at Fifth/Main, 20 Jun. 1911; no exact 501 in notice. |
 | P-100 F. E. Hall | E-157; S-177; BUS-024 | Former Palace Saloon partner of Ralph O. Smith; full name and legal terms unresolved. |
+
+## 1 September 2026 Fifth Street Restaurant uploaded-page integration
+
+| Record | Connected IDs | Note |
+| --- | --- | --- |
+| `S-180` / `E-160` | `BUS-070` | 31 Aug. 1916 inspection: Fifth Street Restaurant score 75.3; no proprietor/number. |
+| `S-181` / `E-161` / `P-101` | `BUS-070` | W. W. Pollock conducting restaurant in 1919; sanitation fine. |
+| `S-182` / `E-162` | `BUS-070` | 26 Aug. 1921 incident-place evidence. |
+| `S-183` / `E-163` / `P-102` / `P-103` | `BUS-070`; compare `P-036`, `P-087`, `P-088` | 21 Jul. 1922 L. E. Blakely / C. P. Gates wording; identity conflicts preserved. |

@@ -84,3 +84,9 @@ The 1916 source adds chronology but does not establish where the restaurant sat 
 3. Search city directories for a Fifth Street Restaurant listing and proprietor.
 4. Search Ed./Edward Blake and the conflicting J. Blake / Ed Gage reporting for earlier business links.
 5. Keep Red Front Boarding House separate from Red Front clothing-store research unless direct evidence connects them.
+
+## Repository PDF preservation update — 1 September 2026
+
+The exact project-steward upload / Oregon Digital page PDF is now preserved at
+`newspapers/oregon-city-courier/1916-08-31-page-3-fifth-street-restaurant-inspection.pdf` as `S-180` / `E-160`.
+SHA-256: `4d9511abbc922fdfa394fa1397dfa6dfc67153e449589922c604f6a680243697`. This adds durable source preservation; it does not alter the earlier continuity cautions.

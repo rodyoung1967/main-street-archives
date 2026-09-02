@@ -902,3 +902,24 @@ sources:
     url: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-06-20/ed-1/seq-3.pdf
     repository_file: newspapers/morning-enterprise/1911-06-20-page-3-palace-saloon-joseph-wilson-license.pdf
     notes: "Visually verified project-steward upload. Joseph Wilson applies for three months at The Palace Saloon, corner 5th/Main. Earlier than the registered 1912 Wilson notices; no exact 501/grant/title proof. E-159/P-037/BUS-024. Uploaded SHA-256 154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf; repository SHA-256 154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf."
+
+  - id: S-180
+    name: Oregon City Courier, 31 August 1916, p. 3, Fifth Street Restaurant inspection
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-31/ed-1/seq-3.pdf
+    repository_file: newspapers/oregon-city-courier/1916-08-31-page-3-fifth-street-restaurant-inspection.pdf
+    notes: "Visually verified exact steward-upload page. Fifth Street Restaurant scored 75.3 in state inspection summary; no proprietor or exact number. E-160/BUS-070. SHA-256 4d9511abbc922fdfa394fa1397dfa6dfc67153e449589922c604f6a680243697."
+  - id: S-181
+    name: Oregon City Enterprise, 31 October 1919, p. 5, Fifth Street Restaurant fine
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-10-31/ed-1/seq-5.pdf
+    repository_file: newspapers/oregon-city-enterprise/1919-10-31-page-5-fifth-street-restaurant-fine.pdf
+    notes: "Visually verified exact steward-upload page. W. W. Pollock, conducting Fifth Street Restaurant, fined $15 and costs on dirty/unsanitary-place complaint. E-161/P-101/BUS-070. SHA-256 eb793b35b119d1d88fb79953e1a1aed3fef7678918c70cb4fe3d43d1e573b754."
+  - id: S-182
+    name: Oregon City Enterprise, 26 August 1921, p. 4, Fifth Street Restaurant fight
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-08-26/ed-1/seq-4.pdf
+    repository_file: newspapers/oregon-city-enterprise/1921-08-26-page-4-fifth-street-restaurant-fight.pdf
+    notes: "Visually verified exact steward-upload page. Fight involving S. Cox and Ray Doane occurred in Fifth Street Restaurant; no proprietor or number. E-162/BUS-070. SHA-256 f54e7283381f069c6b9bc493d08e65b791fc8ef3fb4adb97a4f2268fd4bcc15b."
+  - id: S-183
+    name: Oregon City Enterprise, 21 July 1922, p. 1, Fifth Street Restaurant fire ownership account
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-1.pdf
+    repository_file: newspapers/oregon-city-enterprise/1922-07-21-page-1-fifth-street-restaurant-fire-ownership.pdf
+    notes: "Visually verified exact steward-upload page. Names L. E. Blakely immediately before saying Blakely owned Fifth Street Restaurant and reports C. P. Gates owned the building. Preserve identity/initial conflicts; not deed proof. E-163/P-102/P-103/BUS-070. SHA-256 ed47337b2918af305399cf62ed1b9cd29ddba1d9ec10c1ab02f198516adbe6d1."

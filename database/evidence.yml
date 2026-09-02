@@ -2477,3 +2477,53 @@ evidence:
     related_people: [P-037]
     related_buildings: [B-005]
     repository_file: evidence/E-159-1911-palace-saloon-joseph-wilson-license.md
+
+  - id: E-160
+    name: Fifth Street Restaurant in state inspection summary, 31 August 1916
+    type: Primary newspaper / state inspection summary; visually verified
+    claims:
+      - Fifth Street Restaurant is directly listed in Oregon City with inspection score 75.3.
+      - No proprietor or numbered address is printed; later continuity remains unproved.
+    confidence: Very High for printed name and score; exact premises/operator unresolved.
+    related_sources: [S-180]
+    related_businesses: [BUS-070]
+    repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-161
+    name: W. W. Pollock conducting Fifth Street Restaurant and fined, 31 October 1919
+    type: Primary newspaper / operator and sanitation-enforcement evidence; visually verified
+    claims:
+      - W. W. Pollock is directly described as conducting the Fifth street restaurant.
+      - He was fined $15 and costs on a state dairy-and-food inspector complaint charging a dirty and unsanitary place.
+      - No numbered address or real-estate ownership is established.
+    confidence: Very High for printed operator wording, fine and charge; property role and continuity unresolved.
+    related_sources: [S-181]
+    related_businesses: [BUS-070]
+    related_people: [P-101]
+    repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-162
+    name: Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921
+    type: Primary newspaper / incident-place evidence; visually verified
+    claims:
+      - A reported mistaken-identity fight involving S. Cox and Ray Doane occurred in the Fifth Street Restaurant.
+      - The item establishes the named place in August 1921 but gives no proprietor, numbered address, leaseholder or property owner.
+    confidence: Very High for printed incident location; business continuity and premises unresolved.
+    related_sources: [S-182]
+    related_businesses: [BUS-070]
+    repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-163
+    name: 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire
+    type: Primary newspaper / reported business and building ownership evidence; visually verified
+    claims:
+      - The article names L. E. Blakely and immediately states that Blakely owned the Fifth street restaurant; the same-paragraph identity is a strong inference.
+      - It states that the building was owned by C. P. Gates of Portland.
+      - These forms conflict with existing J. Blake / Ed. Blake / Ed Gage and C. Gates / C. E. Gates records and are not silently merged.
+      - Newspaper ownership wording is not deed/title proof.
+    confidence: Very High for printed wording; Strong for L. E. Blakely same-paragraph referent; legal identity/title unresolved.
+    related_sources: [S-183]
+    related_businesses: [BUS-070]
+    related_people: [P-102, P-103]
+    related_evidence: [E-096, E-097, E-103]
+    repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md

@@ -146,3 +146,11 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-099 | [Albert Knapp / A. Knapp](profiles/albert-knapp.md) | Palace Saloon purchaser / later reported seller | 1900 report names Albert Knapp purchasing Palace; 1905 report names A. Knapp selling Palace to A. J. Surber. Same-person identity is a strong inference from same business/chronology, not solely the surname. `E-154`, `E-155`; `S-174`, `S-175`. |
 
 | P-100 | [F. E. Hall](profiles/f-e-hall.md) | Former Palace Saloon partner | 25 June 1909 Courier says Ralph O. Smith purchased Hall's Palace Saloon interest; given names and transaction/legal terms unresolved. |
+
+## Fifth Street Restaurant people added from uploaded primary pages
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-101 | [W. W. Pollock](profiles/w-w-pollock.md) | Fifth Street Restaurant operator/conductor | 31 Oct. 1919 article directly says he was conducting the restaurant; fined $15 and costs on dirty/unsanitary-place complaint. `E-161` / `S-181`. |
+| P-102 | [L. E. Blakely](profiles/l-e-blakely.md) | Reported Fifth Street Restaurant owner | 21 Jul. 1922 Enterprise names L. E. Blakely then immediately says Blakely owned the restaurant. Strong same-paragraph identity inference; do not merge with Blake/Gage variants. `E-163` / `S-183`. |
+| P-103 | [C. P. Gates](profiles/c-p-gates-1922.md) | Reported owner of Fifth Street Restaurant building | 21 Jul. 1922 Enterprise wording. Preserve separately from C./C. E. Gates until initials/identity are independently resolved. `E-163` / `S-183`. |

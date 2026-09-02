@@ -398,3 +398,7 @@ A visually verified *Oregon City Courier* page reports **Ralph O. Smith** purcha
 ### 20 June 1911 — Joseph Wilson at Palace Saloon, Fifth/Main
 
 A visually verified *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, corner 5th and Main streets** (`S-179` / `E-159`). This moves verified Wilson/Palace evidence back to June 1911. The notice does not print 501; exact 501 is separately printed for **Joe Wilson** on 19 March 1912 (`E-104`).
+
+## 1916–1922 — Fifth Street Restaurant primary-page supplement
+
+Four project-steward page uploads now provide a tighter sequence for `BUS-070`: **31 August 1916** state inspection lists Fifth Street Restaurant at 75.3 (`E-160`); **31 October 1919** W. W. Pollock is directly described as conducting it and is fined on an unsanitary-place complaint (`E-161`); **26 August 1921** a reported fight occurs inside the named restaurant (`E-162`); and the **21 July 1922** Enterprise fire account reports Blakely restaurant ownership and C. P. Gates building ownership (`E-163`). The last account adds unresolved L. E. Blakely vs. Blake/Gage and C. P. vs. C. E. Gates conflicts; it does not settle legal title or exact street number.

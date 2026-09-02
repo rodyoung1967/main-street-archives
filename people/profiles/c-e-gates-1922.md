@@ -28,3 +28,7 @@ The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-
 - Building permit, plans, assessment change, insurance, or contractor file for the August 1922 structure.
 - Portland directory entry and full-name identification.
 - First tenants and exact addresses in the completed Gates building.
+
+## 21 July 1922 initials conflict
+
+`S-183` / `E-163` adds a distinct *Oregon City Enterprise* wording: the Fifth Street Restaurant building was reportedly owned by **C. P. Gates, of Portland**. Existing sale/rebuild sources print **C. Gates** and **C. E. Gates**. The archive therefore retains `P-103` C. P. Gates separately and does not silently merge the initials.

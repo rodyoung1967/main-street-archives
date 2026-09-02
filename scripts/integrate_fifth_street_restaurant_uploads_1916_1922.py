@@ -62,7 +62,7 @@ def append_once(path, marker, block):
         return
     if not text.endswith("\n"):
         text += "\n"
-    write(path, text + "\n" + block.strip() + "\n")
+    write(path, text + "\n" + block.strip("\n") + "\n")
 
 def replace_once(path, old, new):
     text = read(path)
@@ -272,6 +272,8 @@ append_once("database/sources.yml", "  - id: S-180\n", source_yml)
 
 evidence_md = """
 ## E-160 — Fifth Street Restaurant in state inspection summary, 31 August 1916
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
 Source: `S-180` — *Oregon City Courier*, 31 August 1916, p. 3.  
 Status: **VISUALLY VERIFIED**.  
 Claims:
@@ -282,6 +284,8 @@ Related business: `BUS-070`.
 Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
 
 ## E-161 — W. W. Pollock conducting Fifth Street Restaurant and fined, 31 October 1919
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
 Source: `S-181` — *Oregon City Enterprise*, 31 October 1919, p. 5.  
 Status: **VISUALLY VERIFIED**.  
 Claims:
@@ -292,6 +296,8 @@ Related person: `P-101`; business: `BUS-070`.
 Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
 
 ## E-162 — Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
 Source: `S-182` — *Oregon City Enterprise*, 26 August 1921, p. 4.  
 Status: **VISUALLY VERIFIED**.  
 Claims:
@@ -302,6 +308,8 @@ Related business: `BUS-070`.
 Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
 
 ## E-163 — 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  
 Source: `S-183` — *Oregon City Enterprise*, 21 July 1922, p. 1.  
 Status: **VISUALLY VERIFIED**.  
 Claims:
@@ -341,7 +349,7 @@ evidence_yml = """
     repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
 
   - id: E-162
-    name: Fifth Street Restaurant active-place evidence, 26 August 1921
+    name: Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921
     type: Primary newspaper / incident-place evidence; visually verified
     claims:
       - A reported mistaken-identity fight involving S. Cox and Ray Doane occurred in the Fifth Street Restaurant.
@@ -352,7 +360,7 @@ evidence_yml = """
     repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
 
   - id: E-163
-    name: 21 July 1922 Enterprise restaurant and building ownership wording after Fifth/Main fire
+    name: 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire
     type: Primary newspaper / reported business and building ownership evidence; visually verified
     claims:
       - The article names L. E. Blakely and immediately states that Blakely owned the Fifth street restaurant; the same-paragraph identity is a strong inference.
