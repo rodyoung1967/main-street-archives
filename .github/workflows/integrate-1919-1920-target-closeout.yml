@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/integrate-1919-1920-target-closeout.yml"
+      - "scripts/integrate_1919_1920_target_closeout.py"
 
 permissions:
   contents: write
@@ -31,8 +32,11 @@ jobs:
       - name: Validate archive before historical integration
         run: python3 scripts/validate_archive.py
 
-      - name: Integrate 1919-1920 targeted closeout
-        run: python3 scripts/integrate_1919_1920_target_closeout.py
+      - name: Correct integration serializer and integrate closeout
+        shell: bash
+        run: |
+          sed -i 's/block\.strip()/block.strip("\\n")/g' scripts/integrate_1919_1920_target_closeout.py
+          python3 scripts/integrate_1919_1920_target_closeout.py
 
       - name: Validate archive after historical integration
         run: python3 scripts/validate_archive.py
