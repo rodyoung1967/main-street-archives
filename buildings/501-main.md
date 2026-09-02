@@ -4,9 +4,9 @@
 
 - Building ID: `B-005`
 - Related businesses: `BUS-045`, `BUS-024`, `BUS-025`
-- Related people: `P-055`, `P-037`, `P-038`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`
+- Related people: `P-055`, `P-037`, `P-038`, `P-099`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 - Unified timeline: [501 Main Street](../timelines/501-main.md)
@@ -19,6 +19,15 @@ Oregon City's aerial photocompare series shows a **distinct 501 Main roof/struct
 
 Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof and does not identify the July 1922 fire-origin room.
 
+## Palace Saloon context, 1900–1907
+
+Three newly integrated visually verified pages add earlier business-history context (`E-154`–`E-156`; `S-174`–`S-176`):
+
+- **6 Apr. 1900:** Albert Knapp is reported purchasing Palace Saloon, opposite the post office on a corner, with an intended refit.
+- **24 Feb. 1905:** A. Knapp is reported selling Palace Saloon to **A. J. Surber**. This directly proves Surber's Palace relationship on that date.
+- **19 Jul. 1907:** Palace Saloon is described as **on Fifth Street**.
+
+None of these pages prints 501. They therefore do not move the direct numbered anchor earlier than the **4 Oct. 1907 Surber No.501** notice, nor do they prove the 1905 Palace room and the 1907 No.501 room were identical.
 ## Direct 1907 Numbered Occupancy Evidence
 
 **4 October 1907 Courier p3** directly names **A. J. Surber**, retail liquor renewal applicant, at **No.501, Main/Fifth**, his present place of business (E-121/S-135; P-055/BUS-045). This is an address assertion in a renewal notice, not the Council grant, a deed, opening date, Palace trade name or proof of later structural identity.
@@ -29,7 +38,7 @@ The September 18, 1908 Surber notice repeats Fifth/Main without a number; the sa
 
 New visually verified Palace Saloon pages refine the business chronology without changing the standard for exact 501 assignment (`E-151`–`E-153`; `S-171`–`S-173`). The trade name is present citywide by **24 May 1907** but without address/operator. On **17 September 1909**, Ralph O. Smith applies at the **Palace Saloon, corner Main/Fifth**, again without a number. The **20 June 1912** Joseph Wilson notice repeats Palace Saloon at Fifth/Main three months after the separate exact-501 Joe Wilson notice.
 
-Only the **19 March 1912** source directly prints **501 Main** for Palace Saloon. Do not backfill 501 onto the 1907 or 1909 pages, equate Surber's exact-501 premises with Palace solely from proximity, or treat application notices as license grants/title.
+Only the **19 March 1912** source directly prints **501 Main** together with the Palace Saloon trade name. The 1905 sale now directly ties Surber to Palace, but do not backfill 501 onto 1900/1905/July-1907/1909 pages or equate the 1905 Palace room with Surber's later exact-501 premises without an address-continuity bridge.
 
 ## Direct 1912–1913 Numbered Occupancy Evidence
 

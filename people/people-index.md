@@ -138,3 +138,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-098 | [Ralph O. Smith](profiles/ralph-o-smith.md) | Palace Saloon liquor-license applicant | 17 Sep. 1909 notice places him at Palace Saloon, corner Main/Fifth. Application is not grant/title/exact-501 or succession proof. `E-152` / `S-172`. |
+
+## Palace Saloon 1900–1907 supplement
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-099 | [Albert Knapp / A. Knapp](profiles/albert-knapp.md) | Palace Saloon purchaser / later reported seller | 1900 report names Albert Knapp purchasing Palace; 1905 report names A. Knapp selling Palace to A. J. Surber. Same-person identity is a strong inference from same business/chronology, not solely the surname. `E-154`, `E-155`; `S-174`, `S-175`. |

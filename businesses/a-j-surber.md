@@ -1,11 +1,11 @@
-# A. J. Surber liquor premises
+# A. J. Surber liquor premises / Palace Saloon relationship
 
-Business ID: `BUS-045`. Person/style: `P-055`.
+Business ID: `BUS-045`. Person: `P-055`. Related trade-name business: `BUS-024`.
 
-Location: 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908).
+- **24 February 1905 (`E-155` / `S-175`):** newspaper reports that **A. Knapp sold the Palace saloon to A. J. Surber**. No numbered address is printed.
+- **4 October 1907 (`E-121` / `S-135`):** Surber's present retail-liquor place of business is directly printed as **No. 501, Main/Fifth**; the notice does not use the Palace trade name.
+- **18 September 1908 (`E-121` / `S-137`):** Surber applies again at Main/Fifth without a number.
 
-1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+The 1905 source directly proves a Surber/Palace business relationship, superseding the prior statement that no Palace trade-name connection was known. It does **not** prove uninterrupted operation from 1905 to 1907, property title, a license grant, or that the 1905 Palace room and October 1907 No. 501 room were identical.
 
-Sources: S-135, S-137. Evidence: E-121.
-
-[Full visual review and dated context](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). Open question OQ-032; lead RL-045. No business/property-title merger with other Fifth/Main establishments is accepted.
+See the [1900–1907 Palace supplement](../evidence/source-captures/1900-1907-palace-saloon-sale-location-supplement-2026-09-01.md), `OQ-032`, and `RL-045`.

@@ -534,3 +534,16 @@ timeline:
     related_people: [P-076]
     related_businesses: [BUS-067]
     related_buildings: [B-002, B-003]
+
+  - id: T-050
+    date: 6 April 1900
+    summary: Albert Knapp is reported purchasing Palace Saloon, opposite the post office on a corner, with an intended refit; no number/title/completed-construction proof.
+    related_evidence: [E-154]
+  - id: T-051
+    date: 24 February 1905
+    summary: A. Knapp is reported selling Palace Saloon to A. J. Surber, directly establishing Surber's Palace relationship; no numbered address or later room continuity proved.
+    related_evidence: [E-155]
+  - id: T-052
+    date: 19 July 1907
+    summary: Palace Saloon is described on Fifth Street; no number/proprietor and no automatic 501 assignment.
+    related_evidence: [E-156]

@@ -299,3 +299,5 @@ This was a repository-presence and preservation-control audit, not new historica
 - September 1909 names new person `P-098` Ralph O. Smith at the Palace Saloon, corner Main/Fifth, in a three-month license application; no 501/grant/title/succession inference.
 - June 1912 names Joseph Wilson at The Palace Saloon, Fifth/Main. Compared with March 1912 Joe Wilson at exact 501, Joe=Joseph is recorded as a strong same-business/location inference, not explicit name proof.
 - Original uploaded filenames and SHA-256 hashes are preserved in the source capture/register. Palace business/person/timeline/crosswalk/open-question/research-lead/YAML mirrors synchronized.
+
+| 2026-09-01 | Palace Saloon 1900–1907 sale/location supplement | Visually verified three project-steward supplied pages; preserved canonical issue/page PDFs. 1900: Albert Knapp buys Palace; 1905: A. Knapp sells Palace to A. J. Surber; Jul.1907: Palace described on Fifth Street. Registered `S-174`–`S-176`, `E-154`–`E-156`, and `P-099`; no 501 backfill or uninterrupted-operation claim. |

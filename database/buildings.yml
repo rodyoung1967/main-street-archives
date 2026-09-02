@@ -302,8 +302,11 @@ buildings:
     address: 501 Main Street, Oregon City, Oregon
     repository_file: buildings/501-main.md
     context_only: E-139/S-157 corrects the April 30, 1925 Main-between-Fifth-and-Sixth fire to approximately $15 damage. No side or numbered premises is stated; not an identified 501 fire or reconstruction.
-    notes: 4 October 1907 Surber notice explicitly prints No.501/Main-Fifth;1908 repeats only the intersection. No title, Palace trade-name or later-premises identity inferred. 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
+    notes: 1905 Palace sale directly connects A. J. Surber to the Palace trade name without a number; July 1907 puts Palace on Fifth Street without proprietor/number. 4 October 1907 Surber notice explicitly prints No.501/Main-Fifth but not Palace; continuity between the 1905 Palace and 1907 No.501 room remains unproved. 1925 Sanborn directly labels 501 as a separate store at/near the 5th/Main corner. A 1936 aerial shows a distinct 501 structure; it is gone by 1944. Primary newspaper ads place R. L. Holman / Holman & Randall undertaking business at Fifth and Main in 1915-1917, but no recovered source yet proves that Fifth-and-Main premises carried the number 501. The July 1922 Gates restaurant/replacement may map principally to 501 or include 503. If the July restaurant is proved at 501, 501 would be strongly disfavored as the Wolf-owned ignition room; the equation remains unproven. The 1925 store tenant remains unknown. August 28 model test (E-108) selects neither simple model; their shared unproved Gates-to-501 correspondence cannot eliminate 501. Pre-fire division, post-fire footprint and actual ignition room need separate proof; see Task 8 handoff.
     related_evidence:
+      - E-154
+      - E-155
+      - E-156
       - E-121
       - E-122
       - E-116
@@ -319,6 +322,9 @@ buildings:
       - E-103
       - E-104
     related_sources:
+      - S-174
+      - S-175
+      - S-176
       - S-135
       - S-136
       - S-137
@@ -347,6 +353,7 @@ buildings:
       - BUS-025
     related_people:
       - P-055
+      - P-099
       - P-037
       - P-038
 

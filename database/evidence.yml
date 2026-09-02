@@ -2400,3 +2400,40 @@ evidence:
     related_businesses: [BUS-024]
     related_people: [P-037]
     repository_file: evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-154
+    name: Albert Knapp reported purchase of Palace Saloon, 6 April 1900
+    type: Primary newspaper / reported business purchase and relative-location evidence
+    claims:
+      - Albert Knapp was reported purchasing Palace Saloon, opposite the post office on a corner.
+      - The item says he intended to improve/refit the saloon.
+      - No numbered address, deed/title, or completed construction is proved.
+    confidence: Very High for printed report; unresolved for precise address/title/improvement completion.
+    related_sources: [S-174]
+    related_businesses: [BUS-024]
+    related_people: [P-099]
+    repository_file: evidence/E-154-1900-palace-saloon-albert-knapp-purchase.md
+  - id: E-155
+    name: Palace Saloon reported sold from A. Knapp to A. J. Surber, 24 February 1905
+    type: Primary newspaper / reported business sale
+    claims:
+      - A. Knapp was reported selling Palace Saloon to A. J. Surber, formerly of Kalama, Washington.
+      - This directly establishes Surber's Palace Saloon relationship in February 1905.
+      - No numbered address, real-estate title, license grant/transfer, or uninterrupted later operation is proved.
+    confidence: Very High for printed sale report; unresolved for legal transaction details and later room continuity.
+    related_sources: [S-175]
+    related_businesses: [BUS-024, BUS-045]
+    related_people: [P-055, P-099]
+    repository_file: evidence/E-155-1905-palace-saloon-knapp-surber-sale.md
+  - id: E-156
+    name: Palace Saloon described on Fifth Street, 19 July 1907
+    type: Primary newspaper / business-location evidence
+    claims:
+      - The Enterprise reports Joe Kramer in the rear of the Palace saloon on Fifth Street.
+      - This directly supplies Fifth Street location context.
+      - No street number or proprietor is printed; the record is not automatically assigned to 501.
+    confidence: Very High for printed Fifth Street wording; unresolved for numbered storefront and operator.
+    related_sources: [S-176]
+    related_businesses: [BUS-024]
+    related_people: []
+    repository_file: evidence/E-156-1907-palace-saloon-fifth-street.md

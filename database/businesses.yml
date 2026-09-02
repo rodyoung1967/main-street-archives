@@ -351,22 +351,30 @@ businesses:
   - id: BUS-024
     name: Palace Saloon
     address: 501 Main exact in March 1912; Main/Fifth intersection in September 1909 and June 1912
-    notes: The Palace Saloon trade name is listed citywide by May 1907 without address/operator. Ralph O. Smith is a September 1909 applicant at the Palace Saloon, corner Main/Fifth. Joe Wilson is exact at 501 in March 1912; a June 1912 notice prints Joseph Wilson at the Palace, Fifth/Main. Joe/Joseph identity is a strong inference, not explicit name-equivalence proof. No license grant, property ownership, Surber/Case/Hunsaker succession or uninterrupted 1907-1913 continuity is assumed.
+    notes: 6 April 1900 report has Albert Knapp purchasing Palace Saloon opposite the post office/on a corner; 24 February 1905 reports A. Knapp selling Palace to A. J. Surber, directly establishing Surber's Palace relationship. May 1907 lists the trade name citywide; July 1907 places Palace on Fifth Street without number/proprietor; Ralph O. Smith is at Main/Fifth in Sep.1909; Joe Wilson is exact 501 in Mar.1912 and Joseph Wilson Fifth/Main in Jun.1912. Early exact number, grants, property title and uninterrupted succession remain unproved.
     related_buildings:
       - B-005
     related_people:
       - P-037
+      - P-055
       - P-098
+      - P-099
     related_evidence:
       - E-104
       - E-151
       - E-152
       - E-153
+      - E-154
+      - E-155
+      - E-156
     related_sources:
       - S-118
       - S-171
       - S-172
       - S-173
+      - S-174
+      - S-175
+      - S-176
     repository_file: businesses/palace-saloon.md
 
   - id: BUS-025
@@ -647,8 +655,7 @@ businesses:
   - id: BUS-045
     name: A. J. Surber liquor premises
     address: 501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908)
-    notes: 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months
-      but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+    notes: 24 February 1905 report directly says A. Knapp sold Palace Saloon to A. J. Surber. The 4 October 1907 notice prints No.501 and the 1908 notice repeats only Main/Fifth; those later notices do not print Palace. Continuous 1905 Palace-to-501 room identity, grant and title remain unproved.
     related_people:
     - P-055
     related_evidence:

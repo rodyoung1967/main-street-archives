@@ -1,13 +1,13 @@
 # A. J. Surber
 
-Person ID: `P-055`. Business: `BUS-045`.
+Person ID: `P-055`. Related businesses: `BUS-024`, `BUS-045`.
 
-Role: Retail liquor renewal applicant.
+Roles: reported **Palace Saloon purchaser** in 1905; later retail-liquor renewal applicant.
 
-501 Main, at Main/Fifth (4 October 1907); Main/Fifth only (18 September 1908).
+- **24 February 1905 (`E-155` / `S-175`):** the *Oregon City Courier* reports that **A. Knapp sold the Palace saloon to A. J. Surber**, formerly of Kalama, Washington. This is direct Palace trade-name evidence for Surber on that date.
+- **4 October 1907 (`E-121` / `S-135`):** Surber's present retail-liquor place of business is printed as **No. 501, Main/Fifth**.
+- **18 September 1908 (`E-121` / `S-137`):** Surber again applies at Main/Fifth, but the number is omitted.
 
-1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+The 1905 sale materially narrows the earlier uncertainty: Surber **was** directly associated with the Palace Saloon in 1905. It still does not prove that he remained Palace proprietor continuously to 1907, or that his October 1907 exact-501 premises were the same Palace room.
 
-Sources: S-135, S-137. Evidence: E-121.
-
-[Full visual review and research limits](../../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). Open question OQ-032; lead RL-045.
+See the [1900–1907 Palace supplement](../../evidence/source-captures/1900-1907-palace-saloon-sale-location-supplement-2026-09-01.md) and the [1907–1908 visual review](../../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). Open question `OQ-032`; lead `RL-045`.

@@ -629,9 +629,9 @@ people:
   - id: P-055
     name: A. J. Surber
     role: Retail liquor renewal applicant
-    notes: 1907 notice prints No. 501 and calls it his present place of business. The 1908 notice requests six months
-      but prints only the intersection. No Palace trade name, grant, title or uninterrupted operation proved.
+    notes: 24 February 1905 report says A. Knapp sold Palace Saloon to A. J. Surber, directly establishing Surber's Palace relationship on that date. The 1907 notice prints No. 501 and the 1908 notice repeats only the intersection; neither later notice prints the Palace name. Continuous Palace operation to the exact-501 room, grant and title remain unproved.
     related_businesses:
+    - BUS-024
     - BUS-045
     related_evidence:
     - E-121
@@ -1064,3 +1064,10 @@ people:
     related_evidence: [E-152]
     related_sources: [S-172]
     repository_file: people/profiles/ralph-o-smith.md
+
+  - id: P-099
+    name: Albert Knapp / A. Knapp
+    role: Palace Saloon purchaser / later reported seller
+    notes: 1900 report spells Albert Knapp purchasing Palace; 1905 report spells A. Knapp selling Palace to A. J. Surber. Same-person identity is a strong inference from the same-business sequence, not surname alone. Business transaction is not real-estate title.
+    related_businesses: [BUS-024]
+    repository_file: people/profiles/albert-knapp.md

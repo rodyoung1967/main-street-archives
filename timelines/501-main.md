@@ -7,7 +7,10 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Date | Event | Status / limits | Records |
 | --- | --- | --- | --- |
 | 1844–1900 | Original Block 4 plat and early Sanborn frontage. | Context; later numbers/footprints not securely mapped. | `E-094`; `SM-002`–`SM-006` |
+| 6 Apr. 1900 | **Palace Saloon** reported purchased by Albert Knapp; described opposite the post office on a corner. | **Business/relative-location context only**; no number or named corner, not assigned to 501. | `BUS-024`; `P-099`; `E-154`; `S-174` |
+| 24 Feb. 1905 | **Palace Saloon** reported sold by A. Knapp to **A. J. Surber**. | **Direct Surber/Palace relationship**, but no number; does not prove the later exact-501 room is identical. | `BUS-024`; `BUS-045`; `P-055`; `P-099`; `E-155`; `S-175` |
 | 24 May 1907 | **Palace Saloon** named among Oregon City's sixteen saloons. | **Citywide business-name context only**; no address/operator printed, so not assigned to 501. | `BUS-024`; `E-151`; `S-171` |
+| 19 Jul. 1907 | Palace Saloon described **on Fifth Street**. | Street-location context only; no number/proprietor, so not assigned to 501. | `BUS-024`; `E-156`; `S-176` |
 | 4 Oct. 1907 | A. J. Surber liquor-renewal application at **No. 501**, Main/Fifth. | **Exact, visually verified**; application is not grant/title/later continuity and the notice does not call it Palace Saloon. | `BUS-045`; `P-055`; `E-121`; `S-135` |
 | 18 Sep. 1908 | Surber and separately Justin & Hitchman apply at Fifth/Main; numbers omitted. | Intersection context; no 501 continuity/shared-room inference. | `E-121`, `E-122`; `S-137` |
 | 17 Sep. 1909 | Ralph O. Smith applies at **Palace Saloon, corner Main/Fifth**. | **Intersection/trade-name context**; 501 not printed; application is not grant/title/succession proof. | `BUS-024`; `P-098`; `E-152`; `S-172` |
@@ -34,4 +37,4 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Current research | OHS indexes a Main/Fifth Block 4 title abstract, but its title says Lots 3–4 while its lot field says 3–5. | Retrieval lead only; abstract not inspected and historic 501 lot/title still unresolved. | `E-095`; `S-109`, `S-110` |
 | Current model | 501 remains live in the Gates/Wolf/fire model because Gates-to-501 is unproved. | **Hypothesis/conflict; no model selected.** | `E-108`; Task 7/8 captures |
 
-Open: Surber→Palace→Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1944 removal cause.
+Open: Palace 1900/1905 exact location; Surber's 1905 Palace→1907 No.501 room continuity; later Surber/Smith/Case/Wilson/Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1944 removal cause.

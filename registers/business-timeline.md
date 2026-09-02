@@ -10,7 +10,10 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 
 | Period | Business | Business ID | Evidence | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
+| 6 Apr. 1900 | Palace Saloon / Albert Knapp | `BUS-024` | `E-154` | Very High for reported purchase | Opposite post office/on a corner; no number or deed; planned refit not completed-construction proof. |
+| 24 Feb. 1905 | Palace Saloon / A. Knapp → A. J. Surber | `BUS-024` | `E-155` | Very High for reported business sale | Direct Surber/Palace trade-name link; no numbered address, deed/title or later continuity. |
 | 24 May 1907 | Palace Saloon | `BUS-024` | `E-151` | Very High for trade-name presence | Listed among sixteen city saloons; no address/operator printed. |
+| 19 Jul. 1907 | Palace Saloon | `BUS-024` | `E-156` | Very High for Fifth Street wording | Described on Fifth Street; no number/proprietor; not assigned to 501. |
 | 4 Oct.1907 | A. J. Surber liquor premises | `BUS-045` | `E-121` | Very High for wording | Renewal notice prints No.501; no grant, deed or Palace trade name. |
 | 17 Sep. 1909 | Palace Saloon / Ralph O. Smith | `BUS-024` | `E-152` | Very High for printed intersection/application | Palace Saloon at corner Main/Fifth; 501 not printed; grant/succession unproved. |
 | 19 Mar. 1912 | Joe Wilson's Palace Saloon | `BUS-024` | `E-104` | Very High | Liquor-license application at 501 Main; no transfer or later-continuity claim. |

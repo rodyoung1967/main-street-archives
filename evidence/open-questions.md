@@ -173,3 +173,7 @@ E-123/S-137 visually verifies Schrader's Bakery hiring on Main,18 September 1908
 
 ## OQ-033 — Which later storefronts correspond to the 1902–1905 pre-numbering relationships?
 The legacy-branch consolidation adds a direct 1902 block occupant (**Union Store, Main between Fifth and Sixth**) plus 1903 relative geography (**Portland Clothing next to Harding; Harding in Willamette Building; Fair Store opposite Post Office and moving**). Which original Block 4 storefronts and later 5xx numbers correspond to those descriptions? The 1906 numbering plat and `RL-046` are the primary bridge targets. Do not infer vacancy, same-building identity, or later numbers from adjacency alone.
+
+### OQ-032 update — Palace Saloon 1900–1907 supplement
+
+`E-154`–`E-156` materially narrow the early Palace question. The 1905 *Courier* directly reports **A. Knapp selling Palace Saloon to A. J. Surber**, so Surber's Palace relationship is no longer an open trade-name question. Remaining questions are the 1900/1905 exact premises, whether Surber remained Palace operator through July/October 1907, whether the October 1907 No.501 room was the same Palace room, and the later Smith/Case/Wilson succession. Do not infer continuity solely from the later intersection/number evidence.

@@ -1215,3 +1215,27 @@ Repository file: `newspapers/morning-enterprise/1912-06-20-page-2-palace-saloon-
 Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., June 20, 1912, Page 2, Image 2.pdf`  
 Related evidence: `E-153`; business `BUS-024`; probable same-person context `P-037`.  
 Notes: Joseph Wilson applies for three months at “The Palace Saloon,” Fifth and Main streets. Compared with the 19 March 1912 exact-501 Joe Wilson notice, same-person identity is a strong inference from name form + same business + same location + close date, not an explicit statement in this page. No license grant or property ownership inferred. Uploaded SHA-256 `72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a`; repository canonical derivative SHA-256 `72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a` (826263 bytes).
+
+## S-174 — Oregon City Courier-Herald, 6 April 1900, p. 5 — Albert Knapp purchases Palace Saloon
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1900-04-06/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-courier-herald/1900-04-06-page-5-palace-saloon-albert-knapp-purchase.pdf`
+Original uploaded filename: `Palace Saloon (sale of) Oregon City Courier Herald Apr 1900 page 3(2).pdf` (filename page number differs from the verified issue/page route).
+Type: Primary newspaper / business-sale and relative-location evidence.
+Related evidence: `E-154`
+Notes: Visually verified supplied scan reports Albert Knapp purchased the Palace saloon, opposite the post office on the corner, and planned to improve/refit it. No street number, legal title, or completed construction is established. Uploaded SHA-256 `412fd48faf5a832759a22983d685d365acb72a9cdc85ae51f7c90d880e05f5e0`; repository SHA-256 `122f54d1712d9932e8b76f02b20ea63d199a90920cd63e4d57d71805054d79a2`.
+
+## S-175 — Oregon City Courier, 24 February 1905, p. 5 — Palace Saloon sale from A. Knapp to A. J. Surber
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1905-02-24/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-courier/1905-02-24-page-5-palace-saloon-knapp-surber-sale.pdf`
+Original uploaded filename: `Palace Saloon (sale of) Oregon City Courier  Feb 1905(2).pdf`
+Type: Primary newspaper / reported business-sale evidence.
+Related evidence: `E-155`
+Notes: Visually verified page directly reports that A. Knapp sold the Palace saloon to A. J. Surber, formerly of Kalama, Washington. No numbered address, deed/title, or license-grant record is printed. Uploaded SHA-256 `cec0e28008bf28a16ae87a0daef601551b5e3ac4f9fa8a9e657552d9192ca8fb`; repository SHA-256 `cec0e28008bf28a16ae87a0daef601551b5e3ac4f9fa8a9e657552d9192ca8fb`.
+
+## S-176 — Oregon City Enterprise, 19 July 1907, p. 1 — Palace Saloon on Fifth Street
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-07-19/ed-1/seq-1.pdf
+Repository file: `newspapers/oregon-city-enterprise/1907-07-19-page-1-palace-saloon-fifth-street.pdf`
+Original uploaded filename: `Palace Saloon 1907(2).pdf`
+Type: Primary newspaper / business-location evidence.
+Related evidence: `E-156`
+Notes: Visually verified item says Joe Kramer sat in the rear of the Palace saloon on Fifth Street. It supplies a Fifth Street location clue but no number or proprietor and is not automatically normalized to 501 Main. Uploaded SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`; repository SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`.

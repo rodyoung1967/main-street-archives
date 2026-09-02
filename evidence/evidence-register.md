@@ -1276,3 +1276,44 @@ Claims:
 - The independently verified 19 March 1912 notice prints **Joe Wilson's Palace Saloon at 501 Main**. Same business/location and close chronology make Joe/Joseph identity a **strong inference**, but the June notice does not explicitly prove the name equivalence.
 - The June notice does not itself print 501, prove grant, property ownership, or operation outside the dated application.
 Confidence: **Very High** for June printed wording; **Strong inference** for Joe Wilson = Joseph Wilson; grant/title/uninterrupted continuity unresolved.
+
+## E-154 — Albert Knapp reported purchase of Palace Saloon, 6 April 1900
+Type: Primary newspaper / reported business purchase and relative-location evidence
+Date: 6 April 1900
+Sources: `S-174`
+Related record: `evidence/E-154-1900-palace-saloon-albert-knapp-purchase.md`
+Claims:
+- The *Oregon City Courier-Herald* reports that Albert Knapp purchased the Palace saloon.
+- The Palace is described as opposite the post office and on a corner.
+- Knapp intended to improve and fit up the saloon in first-class manner.
+Limits:
+- No numbered address or named street corner is printed.
+- A business purchase is not real-estate title, and planned improvements are not proof of a completed structural project.
+Confidence: Very High for the printed report; unresolved for precise address, title, and scope/completion of improvements.
+
+## E-155 — Palace Saloon reported sold from A. Knapp to A. J. Surber, 24 February 1905
+Type: Primary newspaper / reported business sale
+Date: 24 February 1905
+Sources: `S-175`
+Related record: `evidence/E-155-1905-palace-saloon-knapp-surber-sale.md`
+Claims:
+- The *Oregon City Courier* reports that the Palace saloon was sold by A. Knapp to A. J. Surber.
+- The item says Surber was formerly of Kalama, Washington.
+- This directly establishes A. J. Surber's relationship to the Palace Saloon trade name in February 1905.
+Limits:
+- No numbered address, deed, real-estate ownership, license transfer/grant, or uninterrupted later operation is proved.
+- The later exact-501 Surber liquor premises are not automatically equated with the 1905 Palace room.
+Confidence: Very High for the reported sale and parties; unresolved for legal transaction details and later room continuity.
+
+## E-156 — Palace Saloon described on Fifth Street, 19 July 1907
+Type: Primary newspaper / business-location evidence
+Date: 19 July 1907
+Sources: `S-176`
+Related record: `evidence/E-156-1907-palace-saloon-fifth-street.md`
+Claims:
+- The *Oregon City Enterprise* reports that Joe Kramer sat in the rear of the Palace saloon on Fifth Street.
+- The wording directly supplies Fifth Street location context for the Palace Saloon by that date.
+Limits:
+- No street number or proprietor is printed.
+- The record does not prove A. J. Surber remained proprietor in July 1907 or that the October 1907 No. 501 Surber premises were the Palace.
+Confidence: Very High for the printed Fifth Street wording; unresolved for numbered storefront and operator.

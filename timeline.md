@@ -380,3 +380,13 @@ The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 
 ### 11 July 1919 — Gilbert Miller family residence corroboration (context only)
 
 A visually inspected *Oregon City Enterprise* society item identifies Mr. and Mrs. **Gilbert Miller at Ninth and Division streets** and reports that their daughter came to Oregon City with her parents from Springfield about a year earlier (`E-144` / `S-160`). This corroborates the broader 1918 Miller-family relocation chronology. It does **not** name Wolf & Miller, place Gilbert at 505 Main, resolve the C. E. Miller discrepancy, or date any construction at 501/503/505. This late-added context paragraph is cross-linked from the chronologically ordered 505 address timeline; no physical-building continuity is inferred.
+
+## 1900–1907 — Palace Saloon ownership/location supplement
+
+Three project-steward supplied pages, visually verified and preserved as `S-174`–`S-176`, refine the early Palace Saloon chronology:
+
+- **6 Apr. 1900 (`E-154`):** Albert Knapp reportedly purchased Palace Saloon, opposite the post office on a corner, and intended to improve/refit it.
+- **24 Feb. 1905 (`E-155`):** A. Knapp reportedly sold Palace Saloon to **A. J. Surber**. This directly establishes Surber's Palace trade-name relationship in 1905.
+- **19 Jul. 1907 (`E-156`):** Palace Saloon is directly described as **on Fifth Street**.
+
+These records do not print 501. The direct 501 Surber anchor remains 4 Oct. 1907 (`E-121`), and the first source printing **Palace Saloon + 501 Main together** remains 19 Mar. 1912 (`E-104`). No uninterrupted 1905→1907 or 1907→1912 operator/room continuity is inferred.

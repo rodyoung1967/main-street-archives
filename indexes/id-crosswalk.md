@@ -278,3 +278,6 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Person / entity | Related business | Evidence / source | Limits |
 | --- | --- | --- | --- |
 | `P-098` Ralph O. Smith | `BUS-024` Palace Saloon | `E-152`, `S-172` | 17 Sep. 1909 applicant at Palace Saloon, corner Main/Fifth; 501, grant, title and succession unproved. |
+
+| `P-099` Albert Knapp / A. Knapp | `BUS-024`; `E-154`, `E-155`; `S-174`, `S-175` | 1900 Palace purchaser; 1905 A. Knapp reported seller to A. J. Surber. Same-person identity is a strong inference from same-business chronology, not surname alone. |
+| `P-055` A. J. Surber — Palace supplement | `BUS-024`, `BUS-045`; `E-155`, `E-121`; `S-175`, `S-135`, `S-137` | 1905 Palace purchaser; later 1907 exact-501 liquor applicant. The 1905 Palace room is not automatically equated with 501. |

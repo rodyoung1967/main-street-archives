@@ -342,3 +342,13 @@ All **24** non-main branch refs were archived before branch cleanup. The [branch
 ## Palace Saloon uploaded primary pages — 1907, 1909, 1912
 
 [Visual review](evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md) preserves canonical Oregon Digital PDF derivatives of all three supplied pages as `S-171`–`S-173` / `E-151`–`E-153`; original uploaded filenames and hashes are retained in provenance. The Palace Saloon trade name is now verified by May 1907 without address/operator; Ralph O. Smith is verified at the Palace Saloon, Main/Fifth in September 1909; and Joseph Wilson is verified there in June 1912. The existing March 1912 Joe Wilson source remains the direct exact-501 anchor. Grants, property title and operator succession remain open; no intersection-only notice is silently converted to 501.
+
+## Palace Saloon 1900–1907 sale/location supplement
+
+The early Palace chronology is now extended with three visually verified primary pages:
+
+- `S-174` / `E-154` — 6 Apr. 1900 Albert Knapp purchase; opposite post office/on a corner; intended refit.
+- `S-175` / `E-155` — 24 Feb. 1905 **A. Knapp → A. J. Surber Palace Saloon sale**.
+- `S-176` / `E-156` — 19 Jul. 1907 Palace Saloon **on Fifth Street**.
+
+This directly establishes Surber's Palace relationship in 1905 but does not prove the exact early street number or continuity to his October 1907 No.501 liquor premises. See `evidence/source-captures/1900-1907-palace-saloon-sale-location-supplement-2026-09-01.md`.
