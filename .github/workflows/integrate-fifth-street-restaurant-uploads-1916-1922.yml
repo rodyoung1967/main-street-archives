@@ -49,12 +49,25 @@ jobs:
           elif new_serializer not in text:
               raise SystemExit('serializer target not found')
 
-          metadata_old = 'Status: **VISUALLY VERIFIED**.  \\nClaims:'
-          metadata_new = 'Type: Primary newspaper visual evidence.  \\nConfidence: Very High for the directly printed wording; identity, continuity, premises, and title limits remain as stated below.  \\nStatus: **VISUALLY VERIFIED**.  \\nClaims:'
-          count = text.count(metadata_old)
-          if count != 4 and metadata_new not in text:
-              raise SystemExit(f'expected 4 evidence metadata targets, found {count}')
-          text = text.replace(metadata_old, metadata_new)
+          headings = [
+              '## E-160 — Fifth Street Restaurant in state inspection summary, 31 August 1916',
+              '## E-161 — W. W. Pollock conducting Fifth Street Restaurant and fined, 31 October 1919',
+              '## E-162 — Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921',
+              '## E-163 — 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire',
+          ]
+          for heading in headings:
+              enriched = (
+                  heading + '\n'
+                  'Type: Primary newspaper visual evidence.  \n'
+                  'Confidence: Very High for directly printed wording; identity, continuity, premises, and title limits remain as stated below.  \n'
+                  'Source:'
+              )
+              if enriched in text:
+                  continue
+              target = heading + '\nSource:'
+              if target not in text:
+                  raise SystemExit(f'evidence heading target not found: {heading}')
+              text = text.replace(target, enriched, 1)
 
           text = text.replace(
               '    name: Fifth Street Restaurant active-place evidence, 26 August 1921',
