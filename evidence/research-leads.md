@@ -255,3 +255,9 @@ Determine whether **Harding Block** and **Willamette Building** were the same bu
 ### RL-045 update — Palace sale/location chain
 
 New direct evidence (`E-154`–`E-156`) supplies a 1900 Knapp purchase, a **1905 Knapp→A. J. Surber Palace Saloon sale**, and a July 1907 Fifth Street location. Next documentary targets: liquor-license grants/transfers and city-council minutes around the 1900 and 1905 sales; city directory/address evidence locating Palace in 1900–1907; and any record explicitly bridging Surber's 1905 Palace to his October 1907 No.501 premises.
+
+### Palace Saloon 1909–1911 follow-up
+
+- Recover City Council minutes immediately following **25 June 1909** for Ralph O. Smith's Palace Saloon application; determine grant, bond/fee, premises wording, and any reference to F. E. Hall or license transfer.
+- Search deeds, business notices and liquor-license records around June 1909 for **F. E. Hall** and Ralph O. Smith to determine partnership formation, transaction terms and whether any business-interest transfer coincided with a premises/license change. Do not infer real-estate title from the newspaper business-interest item.
+- Recover City Council minutes immediately following **20 June 1911** for Joseph Wilson's Palace Saloon application; test grant/bond/fee/premises wording and whether a street number is supplied.

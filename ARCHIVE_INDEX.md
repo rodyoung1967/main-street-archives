@@ -352,3 +352,10 @@ The early Palace chronology is now extended with three visually verified primary
 - `S-176` / `E-156` — 19 Jul. 1907 Palace Saloon **on Fifth Street**.
 
 This directly establishes Surber's Palace relationship in 1905 but does not prove the exact early street number or continuity to his October 1907 No.501 liquor premises. See `evidence/source-captures/1900-1907-palace-saloon-sale-location-supplement-2026-09-01.md`.
+
+### Palace Saloon 1909–1911 primary-page supplement
+
+- `S-177` / `E-157`: 25 Jun. 1909 *Courier* — Ralph O. Smith reported purchasing former partner F. E. Hall's Palace Saloon interest.
+- `S-178` / `E-158`: same issue — Smith Palace Saloon liquor-license application at Fifth/Main.
+- `S-179` / `E-159`: 20 Jun. 1911 *Morning Enterprise* — Joseph Wilson Palace Saloon application at Fifth/Main, moving verified Wilson/Palace evidence back to 1911.
+- Detailed provenance and uploaded/repository hashes: `evidence/source-captures/1909-1911-palace-saloon-partnership-license-supplement-2026-09-01.md`.

@@ -281,3 +281,8 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 
 | `P-099` Albert Knapp / A. Knapp | `BUS-024`; `E-154`, `E-155`; `S-174`, `S-175` | 1900 Palace purchaser; 1905 A. Knapp reported seller to A. J. Surber. Same-person identity is a strong inference from same-business chronology, not surname alone. |
 | `P-055` A. J. Surber — Palace supplement | `BUS-024`, `BUS-045`; `E-155`, `E-121`; `S-175`, `S-135`, `S-137` | 1905 Palace purchaser; later 1907 exact-501 liquor applicant. The 1905 Palace room is not automatically equated with 501. |
+
+| E-157 | S-177; P-098/P-100; BUS-024 | Ralph O. Smith reported purchase of former partner F. E. Hall's Palace Saloon interest, 25 Jun. 1909. |
+| E-158 | S-178; P-098; BUS-024 | Smith Palace Saloon liquor-license application at Fifth/Main, same date. |
+| E-159 | S-179; P-037; BUS-024; B-005 | Joseph Wilson Palace Saloon application at Fifth/Main, 20 Jun. 1911; no exact 501 in notice. |
+| P-100 F. E. Hall | E-157; S-177; BUS-024 | Former Palace Saloon partner of Ralph O. Smith; full name and legal terms unresolved. |

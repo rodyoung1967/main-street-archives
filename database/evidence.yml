@@ -2437,3 +2437,43 @@ evidence:
     related_businesses: [BUS-024]
     related_people: []
     repository_file: evidence/E-156-1907-palace-saloon-fifth-street.md
+
+  - id: E-157
+    name: Ralph O. Smith purchases F. E. Hall interest in Palace Saloon, 25 June 1909
+    type: Primary newspaper / reported business-interest transaction
+    claims:
+      - Ralph O. Smith was reported purchasing the interest of his former partner, F. E. Hall, in the Palace Saloon.
+      - The wording establishes a prior Smith/Hall Palace partnership relationship and a reported Hall-interest transfer to Smith.
+      - No address, percentage, price, formal transfer instrument, license transfer, or real-estate title is printed.
+    confidence: Very High for printed partnership/interest-transfer wording; legal and property terms unresolved.
+    related_sources: [S-177]
+    related_businesses: [BUS-024]
+    related_people: [P-098, P-100]
+    repository_file: evidence/E-157-1909-palace-saloon-smith-hall-interest.md
+
+  - id: E-158
+    name: Ralph O. Smith Palace Saloon license application at Fifth/Main, 25 June 1909
+    type: Primary newspaper / liquor-license application
+    claims:
+      - Ralph O. Smith applies for three months at Palace Saloon, Fifth and Main streets.
+      - No 501 number is printed; application is not proof of grant or property title.
+    confidence: Very High for applicant, trade name, intersection, and application wording.
+    related_sources: [S-178]
+    related_businesses: [BUS-024]
+    related_people: [P-098]
+    repository_file: evidence/E-158-1909-palace-saloon-smith-license.md
+
+  - id: E-159
+    name: Joseph Wilson Palace Saloon license application at Fifth/Main, 20 June 1911
+    type: Primary newspaper / liquor-license application
+    claims:
+      - Joseph Wilson applies for three months at The Palace Saloon, corner 5th and Main streets.
+      - This establishes Joseph Wilson with the Palace by June 1911, earlier than the registered 1912 Wilson notices.
+      - Read with March 1912 exact-501 Joe Wilson and June 1912 Joseph Wilson, Joe/Joseph identity is strengthened but remains an inference.
+      - The 1911 notice does not print 501 or prove grant, title, or uninterrupted operation.
+    confidence: Very High for 1911 wording; Strong for Joe/Joseph identity across the three dated notices.
+    related_sources: [S-179, S-118, S-173]
+    related_businesses: [BUS-024]
+    related_people: [P-037]
+    related_buildings: [B-005]
+    repository_file: evidence/E-159-1911-palace-saloon-joseph-wilson-license.md

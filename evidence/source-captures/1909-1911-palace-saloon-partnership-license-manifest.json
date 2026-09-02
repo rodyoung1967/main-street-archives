@@ -1,0 +1,39 @@
+{
+  "review_date": "2026-09-01",
+  "status": "VISUALLY VERIFIED supplied scans; canonical issue/page PDFs preserved",
+  "files": [
+    {
+      "source_id": "S-177",
+      "evidence_id": "E-157",
+      "repo_path": "newspapers/oregon-city-courier/1909-06-25-page-5-palace-saloon-smith-hall-interest.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-5.pdf",
+      "uploaded_name": "Palace Saloon (sale of) Oregon City courier., June 25, 1909, Page 5, Image 5.pdf",
+      "uploaded_sha256": "335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be",
+      "uploaded_bytes": 730494,
+      "repo_bytes": 730494,
+      "repo_sha256": "335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be"
+    },
+    {
+      "source_id": "S-178",
+      "evidence_id": "E-158",
+      "repo_path": "newspapers/oregon-city-courier/1909-06-25-page-7-palace-saloon-ralph-o-smith-license.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-7.pdf",
+      "uploaded_name": "Palace Saloon (Liquor License) Oregon City courier., June 25, 1909, Page 7, Image 7(1).pdf",
+      "uploaded_sha256": "4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a",
+      "uploaded_bytes": 687344,
+      "repo_bytes": 687344,
+      "repo_sha256": "4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a"
+    },
+    {
+      "source_id": "S-179",
+      "evidence_id": "E-159",
+      "repo_path": "newspapers/morning-enterprise/1911-06-20-page-3-palace-saloon-joseph-wilson-license.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063701/1911-06-20/ed-1/seq-3.pdf",
+      "uploaded_name": "Palace Saloon (Liquor License) Morning enterprise., June 20, 1911, Page 3, Image 3.pdf",
+      "uploaded_sha256": "154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf",
+      "uploaded_bytes": 774744,
+      "repo_bytes": 774744,
+      "repo_sha256": "154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf"
+    }
+  ]
+}

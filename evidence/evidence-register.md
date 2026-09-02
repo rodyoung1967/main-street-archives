@@ -1317,3 +1317,43 @@ Limits:
 - No street number or proprietor is printed.
 - The record does not prove A. J. Surber remained proprietor in July 1907 or that the October 1907 No. 501 Surber premises were the Palace.
 Confidence: Very High for the printed Fifth Street wording; unresolved for numbered storefront and operator.
+
+## E-157 — Ralph O. Smith purchases F. E. Hall interest in Palace Saloon, 25 June 1909
+Type: Primary newspaper / reported business-interest transaction
+Date: 25 June 1909
+Sources: `S-177`
+Related record: `evidence/E-157-1909-palace-saloon-smith-hall-interest.md`
+Claims:
+- The *Oregon City Courier* reports that Ralph O. Smith purchased the interest of his former partner, F. E. Hall, in the Palace Saloon.
+- The wording directly establishes a prior Smith/Hall Palace Saloon partnership relationship and a reported transfer of Hall's interest to Smith.
+Limits:
+- No address, percentage interest, price, formal transfer instrument, license transfer, real-estate title, or exact effective date is printed.
+Confidence: Very High for the printed partnership/interest-transfer wording; legal terms and property implications unresolved.
+
+## E-158 — Ralph O. Smith Palace Saloon license application at Fifth/Main, 25 June 1909
+Type: Primary newspaper / liquor-license application
+Date: 25 June 1909
+Sources: `S-178`
+Related record: `evidence/E-158-1909-palace-saloon-smith-license.md`
+Claims:
+- Ralph O. Smith is the named applicant.
+- His place of business is Palace Saloon, Fifth and Main streets.
+- The application is for three months.
+Limits:
+- No street number 501 is printed.
+- Application is not proof of grant, real-estate ownership, or building ownership.
+Confidence: Very High for applicant, trade name, intersection, and application wording.
+
+## E-159 — Joseph Wilson Palace Saloon license application at Fifth/Main, 20 June 1911
+Type: Primary newspaper / liquor-license application
+Date: 20 June 1911
+Sources: `S-179`
+Related record: `evidence/E-159-1911-palace-saloon-joseph-wilson-license.md`
+Claims:
+- Joseph Wilson is the named liquor-license applicant at The Palace Saloon, corner 5th and Main streets.
+- This directly establishes Joseph Wilson with the Palace by June 1911, earlier than the previously registered 1912 Wilson notices.
+- Read with March 1912 Joe Wilson at exact 501 and June 1912 Joseph Wilson at Fifth/Main, it strengthens the Joe/Joseph same-person inference.
+Limits:
+- The 1911 notice does not print 501.
+- It does not prove grant, title, or uninterrupted operation through every intervening month.
+Confidence: Very High for 1911 wording; Strong for Joe/Joseph identity when read with `E-104` and `E-153`.

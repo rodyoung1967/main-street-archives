@@ -1239,3 +1239,27 @@ Original uploaded filename: `Palace Saloon 1907(2).pdf`
 Type: Primary newspaper / business-location evidence.
 Related evidence: `E-156`
 Notes: Visually verified item says Joe Kramer sat in the rear of the Palace saloon on Fifth Street. It supplies a Fifth Street location clue but no number or proprietor and is not automatically normalized to 501 Main. Uploaded SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`; repository SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`.
+
+## S-177 — Oregon City Courier, 25 June 1909, p. 5 — Ralph O. Smith purchases F. E. Hall interest in Palace Saloon
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-5.pdf  
+Repository file: `newspapers/oregon-city-courier/1909-06-25-page-5-palace-saloon-smith-hall-interest.pdf`  
+Original uploaded filename: `Palace Saloon (sale of) Oregon City courier., June 25, 1909, Page 5, Image 5.pdf`  
+Related evidence: `E-157`; people `P-098`, `P-100`; business `BUS-024`.  
+Notes: Reports Ralph O. Smith purchased the interest of his former partner F. E. Hall in the Palace Saloon. No address, percentage, consideration, title, license-transfer mechanics, or exact effective date is printed. Uploaded SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`; repository SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`.
+
+## S-178 — Oregon City Courier, 25 June 1909, p. 7 — Ralph O. Smith Palace Saloon liquor-license application
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-7.pdf  
+Repository file: `newspapers/oregon-city-courier/1909-06-25-page-7-palace-saloon-ralph-o-smith-license.pdf`  
+Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., June 25, 1909, Page 7, Image 7(1).pdf`  
+Related evidence: `E-158`; person `P-098`; business `BUS-024`.  
+Notes: Ralph O. Smith applies for three months at Palace Saloon, Fifth and Main streets. Application is not proof of grant, exact 501 number, or property title. Uploaded SHA-256 `4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a`; repository SHA-256 `4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a`.
+
+## S-179 — Morning Enterprise, 20 June 1911, p. 3 — Joseph Wilson Palace Saloon liquor-license application
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-06-20/ed-1/seq-3.pdf  
+Repository file: `newspapers/morning-enterprise/1911-06-20-page-3-palace-saloon-joseph-wilson-license.pdf`  
+Original uploaded filename: `Palace Saloon (Liquor License) Morning enterprise., June 20, 1911, Page 3, Image 3.pdf`  
+Related evidence: `E-159`; person `P-037`; business `BUS-024`.  
+Notes: Joseph Wilson applies for three months at The Palace Saloon, corner 5th and Main streets. This predates the March 1912 exact-501 Joe Wilson notice and June 1912 Joseph Wilson notice; application is not grant/title proof. Uploaded SHA-256 `154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf`; repository SHA-256 `154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf`.

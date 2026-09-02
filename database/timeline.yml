@@ -547,3 +547,22 @@ timeline:
     date: 19 July 1907
     summary: Palace Saloon is described on Fifth Street; no number/proprietor and no automatic 501 assignment.
     related_evidence: [E-156]
+
+  - id: T-053
+    date: 25 June 1909
+    summary: Ralph O. Smith is reported purchasing former partner F. E. Hall's interest in Palace Saloon; a same-issue license notice places Smith at Palace Saloon, Fifth/Main. No 501 number, license grant, transaction terms or real-estate title is proved.
+    confidence: Very High for visually verified printed wording; legal terms and exact numbered room unresolved.
+    related_evidence: [E-157, E-158]
+    related_sources: [S-177, S-178]
+    related_people: [P-098, P-100]
+    related_businesses: [BUS-024]
+    related_buildings: [B-005]
+  - id: T-054
+    date: 20 June 1911
+    summary: Joseph Wilson applies for a three-month liquor license at The Palace Saloon, corner 5th/Main, moving verified Wilson/Palace evidence back to June 1911. The notice does not print 501 or prove grant/title.
+    confidence: Very High for visually verified printed wording; Strong Joe/Joseph identity inference with 1912 notices.
+    related_evidence: [E-159, E-104, E-153]
+    related_sources: [S-179, S-118, S-173]
+    related_people: [P-037]
+    related_businesses: [BUS-024]
+    related_buildings: [B-005]

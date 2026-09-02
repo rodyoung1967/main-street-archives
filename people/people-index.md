@@ -144,3 +144,5 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-099 | [Albert Knapp / A. Knapp](profiles/albert-knapp.md) | Palace Saloon purchaser / later reported seller | 1900 report names Albert Knapp purchasing Palace; 1905 report names A. Knapp selling Palace to A. J. Surber. Same-person identity is a strong inference from same business/chronology, not solely the surname. `E-154`, `E-155`; `S-174`, `S-175`. |
+
+| P-100 | [F. E. Hall](profiles/f-e-hall.md) | Former Palace Saloon partner | 25 June 1909 Courier says Ralph O. Smith purchased Hall's Palace Saloon interest; given names and transaction/legal terms unresolved. |

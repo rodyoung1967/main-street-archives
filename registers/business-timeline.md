@@ -134,3 +134,10 @@ E-119/S-133: June 1 announces Andresen store rearrangements and Schilling's prop
 December 13, 1907: Justin & Hitchman at Main/Fifth (six-month application). September 18, 1908: separate Justin & Hitchman (three months) and Surber (six months) applications at Main/Fifth. Strebig advertises fresh meats at Albright's Old Stand, Main/Fifth, October 4, 1907; Hartman applies on Main between Fifth/Sixth in September 1908. No exact501 assignment or business succession. E-122/E-123; BUS-046/BUS-047/BUS-048.
 
 Other dated applicant/store observations (including Stewart & Son327 in 1907 and Hodes327 in 1908) are tabulated in the [visual review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md); no purchase, move or uninterrupted operation is inferred.
+
+### Palace Saloon supplement — 1909–1911
+
+| Date | Business | ID | Evidence | Confidence | Note |
+| --- | --- | --- | --- | --- | --- |
+| 25 Jun. 1909 | Palace Saloon / Ralph O. Smith / F. E. Hall | `BUS-024` | `E-157`, `E-158` | Very High for printed wording | Smith reported buying former partner Hall's Palace interest; same issue Smith applies at Palace, Fifth/Main. No 501/grant/title/transaction terms. |
+| 20 Jun. 1911 | Palace Saloon / Joseph Wilson | `BUS-024` | `E-159` | Very High wording; Strong Joe/Joseph identity inference | Joseph Wilson applies at Palace, Fifth/Main; predates 1912 Wilson evidence; no 501 in this notice. |

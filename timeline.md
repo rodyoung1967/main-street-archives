@@ -390,3 +390,11 @@ Three project-steward supplied pages, visually verified and preserved as `S-174`
 - **19 Jul. 1907 (`E-156`):** Palace Saloon is directly described as **on Fifth Street**.
 
 These records do not print 501. The direct 501 Surber anchor remains 4 Oct. 1907 (`E-121`), and the first source printing **Palace Saloon + 501 Main together** remains 19 Mar. 1912 (`E-104`). No uninterrupted 1905→1907 or 1907→1912 operator/room continuity is inferred.
+
+### 25 June 1909 — Smith buys Hall interest in Palace; same-day Palace license application
+
+A visually verified *Oregon City Courier* page reports **Ralph O. Smith** purchased the interest of his former partner **F. E. Hall** in the **Palace Saloon** (`S-177` / `E-157`). A second page in the same issue names Smith applying for a three-month liquor license at **Palace Saloon, Fifth and Main streets** (`S-178` / `E-158`). This establishes the Smith/Hall Palace relationship and reported interest transfer, but not exact 501, license grant, property title, transaction percentage or price.
+
+### 20 June 1911 — Joseph Wilson at Palace Saloon, Fifth/Main
+
+A visually verified *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, corner 5th and Main streets** (`S-179` / `E-159`). This moves verified Wilson/Palace evidence back to June 1911. The notice does not print 501; exact 501 is separately printed for **Joe Wilson** on 19 March 1912 (`E-104`).

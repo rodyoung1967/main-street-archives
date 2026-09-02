@@ -404,7 +404,7 @@ people:
   - id: P-037
     name: Joe Wilson
     role: Palace Saloon liquor-license applicant
-    notes: 19 March 1912 notice identifies Joe Wilson's Palace Saloon at 501 Main. A 20 June 1912 notice prints Joseph Wilson at The Palace Saloon, Fifth/Main; same business/location and close chronology make Joe=Joseph a strong identity inference, not explicit legal-name proof. No building ownership, license grant, uninterrupted operation or later succession is inferred.
+    notes: A 20 June 1911 notice prints Joseph Wilson at The Palace Saloon, Fifth/Main. A 19 March 1912 notice identifies Joe Wilson's Palace Saloon at exact 501 Main, and 20 June 1912 again prints Joseph Wilson at the Palace, Fifth/Main. The repeated Joseph form around the exact-501 Joe notice strengthens Joe=Joseph as a strong identity inference, not explicit legal-name proof. No building ownership, license grant, uninterrupted operation or later succession is inferred.
     related_buildings:
       - B-005
     related_businesses:
@@ -412,9 +412,11 @@ people:
     related_evidence:
       - E-104
       - E-153
+      - E-159
     related_sources:
       - S-118
       - S-173
+      - S-179
     repository_file: people/profiles/joe-wilson.md
 
   - id: P-038
@@ -1058,11 +1060,11 @@ people:
 
   - id: P-098
     name: Ralph O. Smith
-    role: Palace Saloon liquor-license applicant
-    notes: Visually verified 17 September 1909 Courier notice places Smith at the Palace Saloon, corner Main/Fifth, for a three-month liquor-license application. The notice does not print 501 or prove grant, real-estate ownership or succession to/from other Fifth/Main liquor applicants.
+    role: Palace Saloon business-interest purchaser / liquor-license applicant
+    notes: On 25 June 1909 the Courier reports Smith purchased the interest of his former Palace Saloon partner F. E. Hall; a same-issue notice places Smith applying at Palace Saloon, Fifth/Main for three months. A 17 September 1909 notice again places Smith at Palace Saloon, corner Main/Fifth. No exact 501 number, license grant, real-estate ownership, transaction price/percentage, or later succession is proved.
     related_businesses: [BUS-024]
-    related_evidence: [E-152]
-    related_sources: [S-172]
+    related_evidence: [E-152, E-157, E-158]
+    related_sources: [S-172, S-177, S-178]
     repository_file: people/profiles/ralph-o-smith.md
 
   - id: P-099
@@ -1071,3 +1073,12 @@ people:
     notes: 1900 report spells Albert Knapp purchasing Palace; 1905 report spells A. Knapp selling Palace to A. J. Surber. Same-person identity is a strong inference from the same-business sequence, not surname alone. Business transaction is not real-estate title.
     related_businesses: [BUS-024]
     repository_file: people/profiles/albert-knapp.md
+
+  - id: P-100
+    name: F. E. Hall
+    role: Former Palace Saloon partner of Ralph O. Smith
+    notes: The 25 June 1909 Courier says Ralph O. Smith purchased the interest of his former partner, F. E. Hall, in the Palace Saloon. Given names, partnership start/end, percentage interest, consideration, license role and property ownership are unresolved.
+    related_businesses: [BUS-024]
+    related_evidence: [E-157]
+    related_sources: [S-177]
+    repository_file: people/profiles/f-e-hall.md

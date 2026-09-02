@@ -301,3 +301,5 @@ This was a repository-presence and preservation-control audit, not new historica
 - Original uploaded filenames and SHA-256 hashes are preserved in the source capture/register. Palace business/person/timeline/crosswalk/open-question/research-lead/YAML mirrors synchronized.
 
 | 2026-09-01 | Palace Saloon 1900–1907 sale/location supplement | Visually verified three project-steward supplied pages; preserved canonical issue/page PDFs. 1900: Albert Knapp buys Palace; 1905: A. Knapp sells Palace to A. J. Surber; Jul.1907: Palace described on Fifth Street. Registered `S-174`–`S-176`, `E-154`–`E-156`, and `P-099`; no 501 backfill or uninterrupted-operation claim. |
+
+| 2026-09-01 | Palace Saloon 1909–1911 uploaded-page supplement | Visually verified three steward-supplied pages; added S-177–S-179 / E-157–E-159 and P-100 F. E. Hall. Smith/Hall partnership-interest transfer and same-day 25 Jun. 1909 Smith Palace license application established; Joseph Wilson Palace application moved back to 20 Jun. 1911. Exact 501 is not back-projected; grants/title/continuous succession remain open. |

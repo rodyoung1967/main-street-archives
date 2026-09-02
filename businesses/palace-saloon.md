@@ -26,3 +26,13 @@ The archive does **not** presently prove:
 The 1909 and June 1912 intersection descriptions are therefore not silently normalized to 501. The March 1912 notice remains the direct exact-number anchor.
 
 See the [1900–1907 sale/location supplement](../evidence/source-captures/1900-1907-palace-saloon-sale-location-supplement-2026-09-01.md), the [1907–1912 uploaded-page visual review](../evidence/source-captures/1907-1912-palace-saloon-uploaded-pages-visual-review-2026-09-01.md), [501 Main unified timeline](../timelines/501-main.md), `OQ-032`, and `RL-045`.
+
+## 25 June 1909 partnership / license evidence
+
+Two visually verified pages from the same *Oregon City Courier* issue materially tighten the operator chronology (`S-177`–`S-178`, `E-157`–`E-158`). Page 5 reports that **Ralph O. Smith purchased the interest of his former partner, F. E. Hall, in the Palace Saloon**. Page 7 separately names **Ralph O. Smith** applying for a three-month liquor license at **Palace Saloon, Fifth and Main streets**.
+
+Together these establish a Smith/Hall Palace partnership relationship before 25 June 1909, a reported purchase of Hall's business interest by Smith, and Smith's same-date license application at the Fifth/Main Palace. They do **not** establish a street number, price or percentage interest, formal transfer instrument, automatic license transfer/grant, real-estate ownership or building ownership.
+
+## 20 June 1911 Joseph Wilson evidence
+
+A visually verified *Morning Enterprise* notice (`S-179` / `E-159`) names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, corner 5th and Main streets**. This moves verified Joseph Wilson / Palace Saloon evidence back to June 1911. The notice does not print 501. Read with the 19 March 1912 exact-501 **Joe Wilson** notice and 20 June 1912 **Joseph Wilson** notice, Joe = Joseph is a stronger identity inference but remains an inference rather than an explicit legal-name statement.
