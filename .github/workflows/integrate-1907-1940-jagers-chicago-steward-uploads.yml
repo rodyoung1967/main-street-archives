@@ -30,6 +30,23 @@ jobs:
         run: python -m pip install --quiet pyyaml
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
+      - name: Fix integration serializer
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1907_1940_steward_uploads.py')
+          text = p.read_text(encoding='utf-8')
+          old = 'write(path, text.rstrip() + "\\n\\n" + block.strip() + "\\n")'
+          new = 'write(path, text.rstrip() + "\\n\\n" + block.rstrip() + "\\n")'
+          if old not in text:
+              if new in text:
+                  print('Serializer already fixed.')
+              else:
+                  raise SystemExit('Expected serializer line not found; refusing to patch blindly.')
+          else:
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+              print('Serializer fixed.')
+          PY
       - name: Reconcile PDFs and integrate historical records
         run: python3 scripts/integrate_1907_1940_steward_uploads.py
       - name: Validate archive after integration
