@@ -225,7 +225,10 @@ These businesses belong to the same research geography but are not assigned numb
 A primary advertisement shows **Holman & Pace** still operating as undertakers/funeral directors in Oregon City (`E-055` / `S-068`), but it does not provide a street address.
 
 ## 1921-1922 — 505 Main
-Dr. Freeze advertised as Eye Specialist at **505 / 505 1/2 Main** (`E-028`), providing direct evidence of occupied premises at 505 by 1921.
+Exact Enterprise scans now preserve Dr. Freeze's advertised address as **505½ Main** on 8 April and 20 May 1921, **505 Main St., Opposite Postoffice** on 28 October 1921, and **505½ Main** again on 30 June 1922. The 30 June ad says that **after July 1** he will be at **207 Masonic Bldg.** (`E-028`, `S-035`). The 505/505½ variation is retained as printed and does not by itself prove a physical floor/room/storefront move.
+
+## 20 May 1921 — 514 Main furniture-store succession evidence
+The *Oregon City Enterprise* states that W. O. Witham had come from Salem about two and one-half years earlier and purchased **A. A. Munden's furniture store at 514 Main street**, later adding stock and purchasing Terk Brothers' stock (`E-170`, `S-191`). The visually verified 10 October 1918 *Courier* independently prints **A. A. Mundin, 514 Main** (`S-034`). This strengthens 514 as the intended address and preserves the Mundin/Munden spelling variation, but it does not erase the separate unresolved 24 October 1918 `614 Main` directory reading or supply an exact transfer date.
 
 ## February–August 1922 — Timms and Leland & Little remain distinct
 

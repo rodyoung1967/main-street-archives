@@ -306,3 +306,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 
 | `S-189` / `E-168` | `BUS-067`; `B-002` | 16 Aug. 1907 Young's Second Hand Store exact 505 Main advertisement; George Young individual identity not explicit. |
 | `S-190` / `E-169` | `BUS-024`; `P-037` inference | 14 Mar. 1911 Joseph Wilson Palace Saloon, Fifth/Main license notice; no exact 501 or grant proof. |
+
+## 2 September 2026 Freeze / 514 Main uploaded-page integration
+- `S-191` ↔ `E-170` — 20 May 1921 *Oregon City Enterprise* p. 3, W. O. Witham retrospective purchase of A. A. Munden's furniture store at **514 Main**; compared with `S-034` 10 Oct. 1918 **A. A. Mundin, 514 Main**.
+- Existing `S-035` ↔ `E-028` expanded with exact preserved Freeze pages for 8 Apr., 20 May, 28 Oct. 1921 and 30 Jun. 1922; no new IDs assigned for repeated ads in the same source/evidence family.

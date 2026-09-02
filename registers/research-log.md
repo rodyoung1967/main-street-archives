@@ -312,3 +312,6 @@ Visually verified and integrated 1 Sep. 1916 Enterprise p. 5 (`S-184` / `E-164`)
 | 2026-09-02 | Five Wolf & Miller / Gates steward uploads reconciled | Four previously unpreserved exact page PDFs hash-verified and preserved; 18 Aug. 1922 Gates page deduplicated to existing S-113. Added 20 Sep. 1918 direct 505 Wolf & Miller evidence and recorded the 31 Oct. 1918 503/505 address conflict without inferring relocation. |
 
 - **2026-09-02 — 1907–1911 Young / Chicago / Palace steward uploads:** verified five supplied PDFs by SHA-256, preserved/deduplicated exact page files, updated `S-032` / `E-026`, and integrated new `S-189` / `E-168` and `S-190` / `E-169` with uncertainty limits preserved.
+
+## 2026-09-02 — Freeze / 514 Main steward-upload supplement
+Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1918 Courier page was already preserved byte-for-byte and was deduplicated. Four Enterprise pages (8 Apr., 20 May, 28 Oct. 1921; 30 Jun. 1922) were newly preserved. Freeze's printed 505½/505 address variation and 30 Jun. Masonic move notice were integrated into `S-035` / `E-028`. The 20 May 1921 article created `S-191` / `E-170` for the A. A. Munden → W. O. Witham furniture-store succession at **514 Main**, while explicitly preserving the separate 24 Oct. 1918 `614 Main` conflict.

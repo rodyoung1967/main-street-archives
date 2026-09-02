@@ -159,3 +159,8 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 
 | 16 Aug. 1907 | Young's Second Hand Store | `BUS-067` | `E-168`; `S-189` | Very High for printed trade name/address | Exact 505 Main auction ad; individual George Young identity is inferred, not printed. |
 | 14 Mar. 1911 | Palace Saloon / Joseph Wilson | `BUS-024` | `E-169`; `S-190` | Very High for printed applicant/trade-name/intersection | Fifth/Main only; no 501 number or license-grant proof. |
+
+## 20 May 1921 — 514 Main / Witham-Munden supplement
+| Date | Address | Business / person | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 10 Oct. 1918 / reported 20 May 1921 | **514 Main** | **A. A. Mundin/Munden → W. O. Witham**, furniture/new-and-second-hand goods | `S-034`, `S-191`, `E-170` — supplied pages visually verified | 1921 article is retrospective and does not give exact sale date; separate 24 Oct. 1918 `614 Main` reading remains unresolved. |

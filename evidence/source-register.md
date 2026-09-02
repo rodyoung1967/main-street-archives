@@ -168,14 +168,19 @@ Notes: Construction interpretation and directory entries. Related evidence E-032
 ## S-034 — Oregon City Courier, 10 October 1918, Wolf and Miller
 Source/location: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
 Repository PDF: `newspapers/oregon-city-courier/1918-10-10-page-4-wolf-miller-505-main.pdf`
-Original uploaded filename: `505 Main (Wolf & Miller) Oregon City courier., October 10, 1918, Page 4, Image 4.pdf`
-Related evidence: `E-027`; cross-reference `E-166`, `E-167`
-Notes: 505 Main shoe/clothing business and shoe-repair department; partnership dissolution wording. Exact steward-upload PDF preserved, SHA-256 `bbed6092aa4743f7e86286c4c25f03544648bc1e523bf5d5da557d487af302c0`. The 31 October answer key later prints 503 Main; preserve that conflict rather than inferring a move.
+Original uploaded filenames reconciled to this same page include `505 Main (Wolf & Miller) Oregon City courier., October 10, 1918, Page 4, Image 4.pdf` and `Main Street Addresseas Oregon City courier., October 10, 1918, Page 4, Image 4.pdf`.
+Related evidence: `E-027`; cross-reference `E-166`, `E-167`, `E-170`
+Notes: The visually verified page directly prints **Wolf & Miller, 505 Main** in the shoe/clothing and shoe-repair feature. The same `Who's Who in Oregon City` page also directly prints **A. A. Mundin, 514 Main** in its new/second-hand furniture entry; that 514 reading is reused by `E-170` and independently corroborated by the 20 May 1921 `A. A. Munden` / Witham article. The separate 31 October 1918 answer key prints Wolf & Miller at 503 Main, and the separate 24 October business directory has an unresolved `MUNDEN, A. A., 614 Main` reading; neither conflict is silently corrected. Exact steward-upload PDF preserved, SHA-256 `bbed6092aa4743f7e86286c4c25f03544648bc1e523bf5d5da557d487af302c0`.
 
 ## S-035 — Dr. Freeze Eye Specialist advertisements, 1921-1922
 Source/location: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-11/ed-1/seq-5/
 Related evidence: `E-028`
-Notes: Related evidence E-028.
+Exact steward-upload page PDFs now preserved:
+- 8 Apr. 1921 p. 3 — `newspapers/oregon-city-enterprise/1921-04-08-page-3-dr-freeze-505-half-main.pdf` — **505½ Main Street** — SHA-256 `f86f0ca8d7f503db4fd5b67b812d97e058f323b9623560a4c25a52341734f11f`
+- 20 May 1921 p. 3 — `newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf` — **505½ Main St.** — SHA-256 `02eb3a4676826d0feff19c3b59b61ce648466034bddc927d4173bd3b8455d875`
+- 28 Oct. 1921 p. 5 — `newspapers/oregon-city-enterprise/1921-10-28-page-5-dr-freeze-505-main.pdf` — **505 Main St., Opposite Postoffice** — SHA-256 `ac865f8074f809383b5dd1277ac9a522ba1ddd5a50a60f2c5790de4cc064e8c0`
+- 30 Jun. 1922 p. 3 — `newspapers/oregon-city-enterprise/1922-06-30-page-3-dr-freeze-505-half-masonic-move.pdf` — **505½ Main St.** plus `After July 1 will be at my new location 207 Masonic Bldg.` — SHA-256 `0d9dc181d387e55cef7c6631e9b848d7aa89374268edf2b1ce5bfddcafe4b013`
+Notes: All four supplied Enterprise page scans were visually verified. The October 1921 omission of the half-number is preserved as printed address variation; it does **not** by itself prove a physical move between an upstairs/half-numbered office and a ground-floor 505 storefront. The 30 June 1922 Enterprise ad independently repeats the move notice documented one day earlier in the Banner-Courier.
 
 ## S-036 — City of Oregon City, 401 3rd Street inventory
 Source/location: https://www.orcity.org/2014/401-3rd-Street
@@ -1358,3 +1363,11 @@ Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise.,
 Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
 Related evidence: `E-169`; business `BUS-024`; person `P-037` by strong Joe/Joseph identity inference.  
 Notes: Notice names **JOSEPH WILSON** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets**. It does not print 501 or prove that the Council granted the license. SHA-256 `f7fbbf6e23b10967bec4b7201633b9b9084babfb8ba697ce9bf6e4d9b254c86b`.
+
+## S-191 — Oregon City Enterprise, 20 May 1921, p. 3, Witham / A. A. Munden at 514 Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-05-20/ed-1/seq-3.pdf  
+Repository PDF: `newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf`  
+Original uploaded filename: `514 Main Oregon City enterprise., May 20, 1921, Page Page 3, Image 3.pdf`  
+Type: Primary newspaper article; **VISUALLY VERIFIED**.  
+Related evidence: `E-170`; cross-reference source `S-034`.  
+Notes: The article **Witham Buys Stock Of Terk Brothers** says W. O. Witham came to Oregon City about two and one-half years earlier from Salem and purchased the furniture store of **A. A. Munden at 514 Main street**; it also says he gradually added stock before purchasing Terk Brothers' furniture/household-goods stock. The article does not state an exact Munden-to-Witham transfer date or legal transaction mechanics. SHA-256 `02eb3a4676826d0feff19c3b59b61ce648466034bddc927d4173bd3b8455d875`.

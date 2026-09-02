@@ -154,10 +154,10 @@ Claims: 10 October 1918 Oregon City Courier identifies Wolf & Miller, 505 Main, 
 Confidence: Very High for occupant/address.
 
 ## E-028 — Dr. Freeze, Eye Specialist, 505 / 505 1/2 Main, 1921-1922
-Type: Primary newspaper advertisements  
+Type: Primary newspaper advertisements; supplied pages **VISUALLY VERIFIED**  
 Sources: `S-035`  
-Claims: Dr. Freeze advertised as Eye Specialist at 505 or 505 1/2 Main, opposite the post office, 1921-1922 (exams, glasses, lens grinding). By October 1922 he advertised from rooms 207-8, Masonic Building. Preserve historical title "Eye Specialist."  
-Confidence: Very High.
+Claims: The 8 April and 20 May 1921 *Oregon City Enterprise* advertisements print **Dr. Freeze, Eye Specialist, 505½ Main**. The 28 October 1921 advertisement instead prints **505 Main St., Opposite Postoffice** without the half-number. The 30 June 1922 advertisement returns to **505½ Main St.** and says that **after July 1** Freeze will be at **207 Masonic Bldg.** This provides a direct end-of-June move marker. The 505-versus-505½ wording is preserved as a source-level address variation and is not converted into a claim about floor, room, storefront, ownership, or physical relocation within the building.  
+Confidence: Very High for the printed dates, address forms, professional title, and move notice; physical room arrangement unresolved.
 
 ## E-029 — 505 Tavern Liquor Renewals, 1965 and 1972
 Type: Primary municipal records  
@@ -1466,3 +1466,9 @@ Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.
 Source: `S-190`  
 Claims: The 14 March 1911 *Morning Enterprise* notice names **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets**. It moves verified Wilson/Palace evidence back from June 1911 to March 1911. The notice does not print 501, prove a license grant, property ownership, or uninterrupted succession.  
 Confidence: Very High for printed applicant/trade-name/intersection wording; Joe Wilson = Joseph Wilson remains a strong identity inference.
+
+## E-170 — W. O. Witham / A. A. Munden furniture-store succession at 514 Main
+Type: Primary newspaper article plus visually verified comparison page  
+Sources: `S-191`, `S-034`  
+Claims: The 20 May 1921 *Oregon City Enterprise* states that W. O. Witham had come from Salem about two and one-half years earlier and purchased **A. A. Munden's furniture store at 514 Main street**, later expanding the stock and then purchasing Terk Brothers' stock. The visually verified 10 October 1918 *Oregon City Courier* independently prints **A. A. Mundin, 514 Main** in its new/second-hand furniture profile. These two pages materially strengthen **514 Main** as the intended address and preserve the `Mundin`/`Munden` spelling variation. They do **not** erase the separate 24 October 1918 directory reading `MUNDEN, A. A., 614 Main`, which remains an unresolved scan-level conflict, and the 1921 retrospective wording does not establish an exact purchase date.  
+Confidence: Very High for the printed 514 address and 1921 succession statement; Strong for approximate late-1918 timing only; 514/614 conflict unresolved.

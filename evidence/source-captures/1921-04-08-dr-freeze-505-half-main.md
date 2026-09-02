@@ -67,3 +67,6 @@ Existing evidence `E-028` and source `S-035` broadly record Dr. Freeze at 505 / 
 4. Search January–7 April 1921 issues for an earlier 505½ Main advertisement or opening/move notice.
 5. Search late 1920 for Dr. Freeze at 505/505½ to determine whether his occupancy began during 1920.
 6. Search for construction/completion notices for the c.1920 505 building immediately preceding the April 1921 occupancy.
+
+## 2 September 2026 steward-upload preservation supplement
+The steward supplied additional exact page PDFs and the archive reconciled them by SHA-256. The 8 April page is now physically preserved at `newspapers/oregon-city-enterprise/1921-04-08-page-3-dr-freeze-505-half-main.pdf`; a 20 May page at `newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf` again prints **505½ Main**; a 28 October page at `newspapers/oregon-city-enterprise/1921-10-28-page-5-dr-freeze-505-main.pdf` prints **505 Main St., Opposite Postoffice** without the half-number; and the 30 June 1922 page at `newspapers/oregon-city-enterprise/1922-06-30-page-3-dr-freeze-505-half-masonic-move.pdf` again prints **505½ Main** and repeats the after-1-July move to 207 Masonic Building. The October wording is retained as an address-form variation, not a physical-layout conclusion.

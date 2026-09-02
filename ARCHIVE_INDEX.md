@@ -376,3 +376,6 @@ Five supplied newspaper PDFs were reconciled. Four previously unpreserved pages 
 
 ## 1907–1911 Young / Chicago / Palace steward-upload supplement
 Five steward-supplied newspaper PDFs are now accounted for in `evidence/source-captures/1907-1911-young-chicago-palace-steward-upload-supplement-2026-09-02.md`. Three Chicago Store pages remain under existing `S-032` / `E-026`; the new 1907 Young exact-505 anchor is `S-189` / `E-168`, and the new 14 March 1911 Joseph Wilson Palace notice is `S-190` / `E-169`.
+
+## 2 September 2026 — Freeze / 514 Main steward-upload supplement
+Five steward-supplied newspaper pages were reconciled by SHA-256. The 10 Oct. 1918 Courier page was already present and was not duplicated; four Enterprise pages were newly preserved. Dr. Freeze's exact 505½/505 printed-address sequence and 30 Jun. 1922 move notice are integrated under `S-035` / `E-028`. A new `S-191` / `E-170` pair records the 20 May 1921 statement that W. O. Witham purchased A. A. Munden's furniture store at **514 Main**, corroborating the visually verified 10 Oct. 1918 `A. A. Mundin, 514 Main` reading while preserving the separate 24 Oct. 1918 614-address conflict. Permanent provenance: `evidence/source-captures/1918-1922-freeze-514-main-steward-upload-supplement-2026-09-02.md`.

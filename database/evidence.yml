@@ -499,11 +499,13 @@ evidence:
 
   - id: E-028
     name: "Dr. Freeze, Eye Specialist, 505 / 505 1/2 Main, 1921-1922"
-    type: Primary newspaper advertisements
+    type: Primary newspaper advertisements; supplied pages visually verified
     claims:
-      - Dr. Freeze advertised as Eye Specialist at 505 or 505 1/2 Main in 1921-1922.
-      - By October 1922 he advertised from the Masonic Building.
-    confidence: Very High
+      - 8 April and 20 May 1921 Enterprise advertisements print Dr. Freeze, Eye Specialist, at 505 1/2 Main.
+      - 28 October 1921 Enterprise advertisement prints 505 Main St., Opposite Postoffice, without the half-number.
+      - 30 June 1922 Enterprise advertisement prints 505 1/2 Main and says that after July 1 Freeze will be at 207 Masonic Bldg.
+      - The 505 versus 505 1/2 wording is preserved as source-level address variation and does not prove a floor, room, storefront, ownership, or within-building move.
+    confidence: Very High for printed dates, address forms, professional title, and move notice; physical arrangement unresolved.
     related_sources:
       - S-035
     related_people:
@@ -2604,3 +2606,17 @@ evidence:
     related_sources: [S-190]
     related_people: [P-037]
     related_businesses: [BUS-024]
+
+  - id: E-170
+    name: W. O. Witham / A. A. Munden furniture-store succession at 514 Main
+    type: Primary newspaper article plus visually verified comparison page
+    claims:
+      - 20 May 1921 Oregon City Enterprise says W. O. Witham had come from Salem about two and one-half years earlier and purchased A. A. Munden's furniture store at 514 Main street.
+      - The article says Witham gradually added stock and had just purchased Terk Brothers' furniture and household-goods stock.
+      - 10 October 1918 Oregon City Courier independently prints A. A. Mundin at 514 Main, preserving a Mundin/Munden spelling variation.
+      - A separate 24 October 1918 directory reading of MUNDEN, A. A., 614 Main remains unresolved and is not silently corrected.
+      - The 1921 retrospective statement does not provide an exact Munden-to-Witham purchase date or legal transaction mechanics.
+    confidence: Very High for printed 514 address and succession statement; Strong for approximate timing; 514/614 conflict unresolved.
+    related_sources:
+      - S-191
+      - S-034
