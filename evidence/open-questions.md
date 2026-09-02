@@ -186,3 +186,6 @@ The legacy-branch consolidation adds a direct 1902 block occupant (**Union Store
 
 ### OQ — Pollock / Proffit Fifth Street Restaurant relationship
 **OPEN.** `E-164` directly names W. W. Pollock at Fifth Street Restaurant in September 1916 and `E-161` calls him its conductor in October 1919; `E-165` reports Guy Proffit with an interest in November 1920. Determine whether these represent continuity, a partnership, a transfer, or distinct operating arrangements. Do not infer a transaction from sequence alone.
+
+### 1918-OQ-WM-ADDRESS — Wolf & Miller 503/505 address conflict
+Why does the 31 October 1918 *Courier* answer page print **503 Main** for Wolf & Miller after primary records on 20 September, 10 October, and 24 October print **505 Main**? Test rapid relocation after partnership dissolution, answer-key/typesetting error, and other address explanations. Do not select a theory without independent evidence.

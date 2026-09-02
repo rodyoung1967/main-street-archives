@@ -37,3 +37,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Current model | Boundary/width, c.1919 date, 1922 allocation/fire room, and business/property transfers remain open. | Conflict/hypothesis; address reuse is not physical/business continuity. | `E-011`, `E-094`–`E-103`, `E-108` |
 
 Sequence (chronology only): Brightbill → Smith → Hylton → unnamed 1925 restaurant → Kwality / New Kwality / Larry's Kwality (artifact-name order unresolved) / Flor → Wheel → White Rabbit/Black Ink.
+
+## 31 October 1918 Wolf & Miller address conflict
+
+A visually verified *Oregon City Courier* answer page (`S-188` / `E-167`) prints **Wolf & Miller at 503 Main St.** This conflicts with direct 505 Main evidence on 20 September and 10/24 October 1918. The 503 wording is retained as a conflict only; it is not yet accepted as a proved 503 occupancy or relocation.

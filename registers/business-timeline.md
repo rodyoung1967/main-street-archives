@@ -153,3 +153,6 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 
 | 1 Sep. 1916 | Fifth Street Restaurant — W. W. Pollock directly named with inspection score 75.3 | `BUS-070` | `E-164` / `S-184` | Very High | No numbered address or property title; continuity to 1919 not assumed. |
 | 19 Nov. 1920 | Fifth Street Restaurant — Guy Proffit reported “interested in” business and retaining his interests | `BUS-070` | `E-165` / `S-185` | Very High for wording | Exact legal interest, percentage, premises, and continuity unresolved. |
+
+| 20 Sep. 1918 | Wolf & Miller | `BUS-012` | `E-166`; `S-187` | Very High primary | Direct advertisement: 505 Main; men's clothing, shoes and shoe repair. |
+| 31 Oct. 1918 | Wolf & Miller address conflict | `BUS-012` | `E-167`; `S-188` | Very High for printed wording; interpretation unresolved | Courier answer page prints 503 Main despite 20 Sep and 10/24 Oct evidence at 505; no move inferred. |

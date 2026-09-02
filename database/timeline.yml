@@ -617,3 +617,21 @@ timeline:
     related_sources: [S-185]
     related_people: [P-104]
     related_businesses: [BUS-070]
+
+  - id: T-061
+    date: 20 September 1918
+    summary: Oregon City Enterprise advertisement directly prints Wolf & Miller at 505 Main St., Oregon City, offering men's clothing, shoes and shoe repairing.
+    confidence: Very High for printed business/address/trade; partner identity, title and structure continuity unresolved.
+    related_evidence: [E-166]
+    related_sources: [S-187]
+    related_businesses: [BUS-012]
+    related_buildings: [B-002]
+
+  - id: T-062
+    date: 31 October 1918
+    summary: Oregon City Courier answer page prints Wolf & Miller at 503 Main St., conflicting with 20 September and 10/24 October records at 505 Main; relocation is not established.
+    confidence: Very High for printed 503 wording; unresolved interpretation.
+    related_evidence: [E-167]
+    related_sources: [S-188]
+    related_businesses: [BUS-012]
+    related_buildings: [B-001, B-002]

@@ -1431,3 +1431,26 @@ Claims:
 - The wording does not establish sole ownership, percentage interest, lease, or real-estate title.
 Related business: `BUS-070`; related person: `P-104`.  
 Repository capture: `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.
+
+## E-166 — Wolf & Miller advertisement at 505 Main, 20 September 1918
+Type: Primary newspaper visual evidence.  
+Date: 20 September 1918.  
+Source: `S-187` — *Oregon City Enterprise*, p. 3.  
+Status: **VISUALLY VERIFIED**.  
+Claims: Advertisement directly prints **Wolf & Miller**, **505 Main St., Oregon City**, men's clothing, shoes and shoe repairing.  
+Limits: No partner given names, legal ownership, real-estate title, or surviving-structure continuity established.  
+Confidence: Very High for printed business, exact address, and advertised trade; partner identity, title, and structure continuity unresolved.  
+Related business: `BUS-012`; building `B-002`.  
+Repository evidence file: `evidence/E-166-1918-09-20-wolf-miller-505-main-ad.md`.
+
+## E-167 — Wolf & Miller 503/505 address conflict, 31 October 1918
+Type: Primary newspaper visual evidence / conflict record.  
+Date: 31 October 1918.  
+Source: `S-188` — *Oregon City Courier*, p. 4.  
+Status: **VISUALLY VERIFIED**.  
+Claims: The answer page directly prints **Wolf & Miller at 503 Main St.** and describes men's clothing/furnishings and shoe repairing.  
+Conflict: `E-166` (20 Sep), `E-027` (10 Oct), and `E-124` (24 Oct) place Wolf & Miller at **505 Main**.  
+Limits: Do not convert the 31 October wording into a proved move. Typesetting/answer-key error, rapid relocation, or another address discrepancy remain possible.  
+Confidence: Very High for the printed 503 wording; cause of the discrepancy unresolved.  
+Related business: `BUS-012`; buildings `B-001`, `B-002`.  
+Repository evidence file: `evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md`.

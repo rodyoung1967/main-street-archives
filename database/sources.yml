@@ -157,7 +157,7 @@ sources:
   - id: S-034
     name: Oregon City Courier, 10 October 1918, Wolf and Miller
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
-    notes: 505 Main shoe business / repair. Related evidence E-027.
+    notes: 505 Main shoe/clothing business and shoe-repair department; partnership dissolution wording. Exact PDF preserved at newspapers/oregon-city-courier/1918-10-10-page-4-wolf-miller-505-main.pdf, SHA-256 bbed6092aa4743f7e86286c4c25f03544648bc1e523bf5d5da557d487af302c0. Related evidence E-027; 31 October S-188/E-167 later prints conflicting 503 Main.
 
   - id: S-035
     name: Dr. Freeze Eye Specialist advertisements, 1921-1922
@@ -940,3 +940,18 @@ sources:
     repository_file: newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-11-19/ed-1/seq-5.pdf
     notes: "Exact steward-upload PDF bytes preserved. Article says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests; legal character/percentage and exact premises unresolved. E-165/BUS-070/P-104. SHA-256 eb2077d3e859b5c52e188884135304110a42ec97003be6150fd14424e9eadc6f."
+
+  - id: S-186
+    name: Oregon City Courier, 2 July 1914, p. 1, Wolfe/Miller name-check page
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-07-02/ed-1/seq-1.pdf
+    notes: Visually verified rejected identity lead. Exact PDF at newspapers/oregon-city-courier/1914-07-02-page-1-wolfe-miller-name-check.pdf; unrelated C. A. Miller and G. R. Wolfe references only, not Wolf & Miller partnership evidence. SHA-256 0644f663fc40f2e2cc4354bcba6f2b7e449cf4bb2bcbe3a5c214d5e074ce53ea.
+
+  - id: S-187
+    name: Oregon City Enterprise, 20 September 1918, p. 3, Wolf & Miller advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1918-09-20/ed-1/seq-3.pdf
+    notes: Visually verified direct advertisement for Wolf & Miller, 505 Main St., men's clothing, shoes and shoe repairing. Exact PDF at newspapers/oregon-city-enterprise/1918-09-20-page-3-wolf-miller-505-main-ad.pdf; E-166/BUS-012. SHA-256 e57be939f0cdb3bf1f9f943e19acdfbb6ea168c72d29b959fdaa160e977e7f00.
+
+  - id: S-188
+    name: Oregon City Courier, 31 October 1918, p. 4, Wolf & Miller 503 Main answer-key conflict
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-31/ed-1/seq-4.pdf
+    notes: Visually verified answer page prints Wolf & Miller at 503 Main, conflicting with 20 Sep and 10/24 Oct 505 Main records. Exact PDF at newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-503-main-answer-key.pdf; E-167/BUS-012. Do not infer relocation. SHA-256 f2ebfe6a187f50057ea63ee373df79c3b7b4f857218159f3e72aa751d3221900.

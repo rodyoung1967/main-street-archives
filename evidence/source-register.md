@@ -163,8 +163,10 @@ Notes: Construction interpretation and directory entries. Related evidence E-032
 
 ## S-034 — Oregon City Courier, 10 October 1918, Wolf and Miller
 Source/location: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-10/ed-1/seq-4/
-Related evidence: `E-027`
-Notes: 505 Main shoe business / repair. Related evidence E-027.
+Repository PDF: `newspapers/oregon-city-courier/1918-10-10-page-4-wolf-miller-505-main.pdf`
+Original uploaded filename: `505 Main (Wolf & Miller) Oregon City courier., October 10, 1918, Page 4, Image 4.pdf`
+Related evidence: `E-027`; cross-reference `E-166`, `E-167`
+Notes: 505 Main shoe/clothing business and shoe-repair department; partnership dissolution wording. Exact steward-upload PDF preserved, SHA-256 `bbed6092aa4743f7e86286c4c25f03544648bc1e523bf5d5da557d487af302c0`. The 31 October answer key later prints 503 Main; preserve that conflict rather than inferring a move.
 
 ## S-035 — Dr. Freeze Eye Specialist advertisements, 1921-1922
 Source/location: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-11/ed-1/seq-5/
@@ -722,6 +724,7 @@ Repository PDF: `newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-
 Type: Primary newspaper post-fire construction and property evidence; **visually verified full-page scan**.
 Related evidence: `E-097`, `E-108`; cross-reference `E-096`, `E-103`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
+Steward-upload duplicate: `501 Main st (new Building) Oregon City enterprise., August 18, 1922, Page Page five, Image 5.pdf` is byte-for-byte identical to the repository PDF; SHA-256 `eb951886bcf06817db94368d3634d08848bcdab99e886c0ce5e73b4c1d7d6348` (843509 bytes). No duplicate binary or ID created.
 Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. No street numbers or dimensions are given.
 
 ## S-114 — Oregon City Permit Log, BB-16-0534, 3 October 2016
@@ -1311,3 +1314,27 @@ Repository file: `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-stre
 Original uploaded filename: `Fifth Street Resturant (Interest) Oregon City enterprise., November 19, 1920, Page Page 5, Image 5.pdf`  
 Related evidence: `E-165`; business `BUS-070`; person `P-104`.  
 Notes: Marriage item says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests there; scope/legal character of the interest and exact premises are not printed. SHA-256 `eb2077d3e859b5c52e188884135304110a42ec97003be6150fd14424e9eadc6f`.
+
+## S-186 — Oregon City Courier, 2 July 1914, p. 1, Wolfe/Miller name-check page
+Type: Primary newspaper scan; **VISUALLY VERIFIED NON-TARGET / REJECTED IDENTITY LEAD**; exact steward-upload PDF bytes preserved.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-07-02/ed-1/seq-1.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1914-07-02-page-1-wolfe-miller-name-check.pdf`  
+Original uploaded filename: `Wolf & Miller (names maybe) Oregon City courier., July 02, 1914, Image 1.pdf`  
+Related evidence: none; identity-triage source only.  
+Notes: Page contains unrelated C. A. Miller and G. R. Wolfe references, but no Wolf & Miller firm, Gilbert Miller, 503/505 Main, or shoe-repair business. SHA-256 `0644f663fc40f2e2cc4354bcba6f2b7e449cf4bb2bcbe3a5c214d5e074ce53ea`.
+
+## S-187 — Oregon City Enterprise, 20 September 1918, p. 3, Wolf & Miller advertisement
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1918-09-20/ed-1/seq-3.pdf  
+Repository PDF: `newspapers/oregon-city-enterprise/1918-09-20-page-3-wolf-miller-505-main-ad.pdf`  
+Original uploaded filename: `505 Main (Wolf & Miller Ad) Oregon City enterprise., September 20, 1918, Page Page 3, Image 3.pdf`  
+Related evidence: `E-166`; business `BUS-012`; building `B-002`.  
+Notes: Directly prints Wolf & Miller, 505 Main St., Oregon City; men's clothing, shoes and shoe repairing. SHA-256 `e57be939f0cdb3bf1f9f943e19acdfbb6ea168c72d29b959fdaa160e977e7f00`.
+
+## S-188 — Oregon City Courier, 31 October 1918, p. 4, Wolf & Miller 503 Main answer-key conflict
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-31/ed-1/seq-4.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-503-main-answer-key.pdf`  
+Original uploaded filename: `505 Main (Wolf & Miller-Clothes and shoe repair) Oregon City courier., October 31, 1918, Page 4, Image 4.pdf`  
+Related evidence: `E-167`; business `BUS-012`; buildings `B-001`, `B-002`.  
+Notes: Answer page directly prints Wolf & Miller at 503 Main St.; conflicts with 20 Sep and 10/24 Oct 1918 evidence at 505 Main. Do not infer relocation without corroboration. SHA-256 `f2ebfe6a187f50057ea63ee373df79c3b7b4f857218159f3e72aa751d3221900`.

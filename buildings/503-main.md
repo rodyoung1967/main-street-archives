@@ -179,3 +179,7 @@ E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pa
 ## 1916 monthly review coverage — E-119/S-133
 
 Seven complete first-monthly Courier issues June–December add 58 visually inspected pages. No new exact occupant or target-frontage demolition/rebuild is established; this is not vacancy or absence evidence. Nearby 108 Fifth, Andresen 619 and the proposed Hawley mill unit retain their separate location limits. [Findings and remaining issues](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
+
+## 31 October 1918 Wolf & Miller conflict
+
+The 31 October 1918 *Courier* answer page (`S-188` / `E-167`) prints **Wolf & Miller at 503 Main St.** Direct records on 20 September and 10/24 October place the same named firm at **505 Main**. This is not sufficient to establish Wolf & Miller as a settled 503 occupant; retain it as a conflict pending corroboration.

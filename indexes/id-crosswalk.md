@@ -299,3 +299,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-184` / `E-164` / `P-101` | `BUS-070`; `T-059` | 1 Sep. 1916 direct Pollock / Fifth Street Restaurant / 75.3 inspection listing; exact premises and continuity unresolved. |
 | `S-185` / `E-165` / `P-104` | `BUS-070`; `T-060` | 19 Nov. 1920 Guy Proffit reported business interest; legal character/percentage and exact premises unresolved. |
 | `S-183` / `E-163` duplicate aliases | `BUS-070` | Two steward filenames uploaded 2 Sep. 2026 are byte-identical to existing 21 Jul. 1922 source; no duplicate PDF or ID created. |
+
+| `S-186` | identity-triage only | 2 Jul. 1914 Courier page; unrelated Miller/Wolfe names, no target partnership evidence. |
+| `S-187` / `E-166` | `BUS-012`; `B-002` | 20 Sep. 1918 direct Wolf & Miller advertisement at 505 Main. |
+| `S-188` / `E-167` | `BUS-012`; `B-001`, `B-002` | 31 Oct. 1918 answer page prints 503 Main, conflicting with 505 evidence; no move inferred. |

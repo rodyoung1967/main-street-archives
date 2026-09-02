@@ -369,3 +369,7 @@ This directly establishes Surber's Palace relationship in 1905 but does not prov
 - `S-185` / `E-165`: 19 Nov. 1920 Enterprise p. 5 reports Guy Proffit interested in the restaurant and retaining his interests; preserved at `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf`.
 - Two separately named 21 Jul. 1922 steward uploads are exact SHA-256 duplicates of existing `S-183` and are provenance aliases only.
 - Review/provenance: `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.
+
+## 2 September 2026 — Wolf & Miller steward-upload supplement
+
+Five supplied newspaper PDFs were reconciled. Four previously unpreserved pages are now stored under `newspapers/`; the 18 Aug. 1922 Gates fire-replacement page was byte-for-byte identical to existing `S-113` and was not duplicated. New `S-187` / `E-166` directly places **Wolf & Miller at 505 Main on 20 Sep. 1918**. New `S-188` / `E-167` preserves a **31 Oct. 1918 Courier answer-page conflict printing 503 Main**. No move is inferred. `S-186` records the 2 Jul. 1914 page as a rejected identity lead; existing `S-034` now has its exact 10 Oct. 1918 PDF preserved.

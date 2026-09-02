@@ -245,3 +245,7 @@ Seven complete first-monthly Courier issues June–December add 58 visually insp
 ### July 1919 Gilbert Miller context — no construction implication
 
 `S-160` / `E-144` visually verifies a July 1919 society item placing the Gilbert Miller household at Ninth and Division and reporting the family's move from Springfield about a year earlier. It strengthens Gilbert Miller's Oregon City identity chronology but contains **no 505/505½ address, Wolf & Miller business wording, building ownership, tenancy, or construction statement**. It therefore does not change the construction-date assessment for the surviving 505 building.
+
+## Late-October 1918 Wolf & Miller address conflict
+
+`S-187` / `E-166` directly places Wolf & Miller at **505 Main** on 20 September 1918, strengthening the earlier exact-address anchor. `S-188` / `E-167`, however, prints **503 Main** in the 31 October Courier answer key. Because 10 and 24 October evidence also says 505, the archive preserves this as an unresolved address conflict and does not infer a move or building change.

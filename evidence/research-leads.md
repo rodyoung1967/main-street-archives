@@ -270,3 +270,6 @@ New direct evidence (`E-154`–`E-156`) supplies a 1900 Knapp purchase, a **1905
 
 ## Fifth Street Restaurant Pollock / Proffit business-interest lead — 2 September 2026
 Search 1916–1921 city licenses, directories, tax/assessment records, partnership notices, legal notices, and additional newspapers for **W. W. Pollock**, **Guy Proffit**, and Fifth Street Restaurant. Target the legal character of Proffit's “interests,” any Pollock-to-Proffit relationship/transfer, and a numbered premises. Preserve search silence as non-proof.
+
+### Wolf & Miller late-October 1918 address conflict
+Search late October–December 1918 advertisements, municipal licenses, directories, leases, tax/property records, and personal notices for Wolf & Miller, Gilbert Miller, 503 Main and 505 Main. The objective is to explain the new `S-188` / `E-167` 503 wording against the 20 Sep and 10/24 Oct 505 evidence.

@@ -2552,3 +2552,32 @@ evidence:
     related_businesses: [BUS-070]
     related_people: [P-104]
     repository_file: evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md
+
+  - id: E-166
+    name: Wolf & Miller advertisement at 505 Main, 20 September 1918
+    type: Primary newspaper visual evidence
+    date: 20 September 1918
+    claims:
+      - Wolf & Miller directly advertises at 505 Main St., Oregon City.
+      - Advertisement identifies men's clothing, shoes and shoe repairing.
+      - Partner given names, legal ownership and surviving-building continuity are not established.
+    confidence: Very High for printed business, address and advertised trade.
+    related_sources: [S-187]
+    related_businesses: [BUS-012]
+    related_buildings: [B-002]
+    repository_file: evidence/E-166-1918-09-20-wolf-miller-505-main-ad.md
+
+  - id: E-167
+    name: Wolf & Miller 503/505 address conflict, 31 October 1918
+    type: Primary newspaper visual evidence / conflict record
+    date: 31 October 1918
+    claims:
+      - Courier answer page directly prints Wolf & Miller at 503 Main St. and describes clothing/furnishings and shoe repairing.
+      - This conflicts with E-166, E-027 and E-124 placing the firm at 505 Main.
+      - The archive does not infer relocation; printed error, rapid move or another address discrepancy remains possible.
+    confidence: Very High for the printed 503 wording; unresolved for historical interpretation.
+    related_sources: [S-188, S-187, S-034, S-138]
+    related_evidence: [E-166, E-027, E-124]
+    related_businesses: [BUS-012]
+    related_buildings: [B-001, B-002]
+    repository_file: evidence/E-167-1918-10-31-wolf-miller-503-main-conflict.md
