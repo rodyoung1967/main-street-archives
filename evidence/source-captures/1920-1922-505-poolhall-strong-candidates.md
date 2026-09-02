@@ -230,3 +230,6 @@ Broad groups: freeze
 2. Do not promote OCR wording, identity, address, succession, construction, or relocation without scan verification.
 3. Review the secondary queue only if high-signal pages do not resolve the transition.
 4. Search silence or filtered-out pages are not evidence of vacancy, non-operation, or absence of construction.
+
+## 2 September 2026 resolution — 13 May 1921 Dr. Freeze candidate
+The previously OCR-discovered **13 May 1921 page 8** candidate has now been supplied as a full page scan, visually inspected, and preserved under `S-035` / `E-028`. The advertisement visibly prints **505 Main St.**, with no half-number. This candidate is no longer OCR-only. The adjacent 8 April / 20 May `505½` evidence means the number-form variation must not be converted into a physical-layout claim.

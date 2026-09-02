@@ -179,3 +179,12 @@ The visually verified *Courier* report says the Chicago clothing store on Main s
 | 4 Oct. 1907 | Main/Fifth, **No. 501** | A. J. Surber | existing `S-135` / `E-121` | Supplied page is same issue/page and was deduplicated; notice is application/renewal, not grant/title; no Palace name. |
 | 20 Mar. 1908 | Fifth/Main | Justin & Hitchman; separately A. J. Surber | `S-195` / `E-174` | Neither prints 501/trade name; no same-room or succession inference. |
 | 18 Mar. 1910 | Fifth/Main | M. Justin — **Mt. Hood Cafe** | `S-197` / `E-176`; `BUS-086` | No number/grant/title; relationship to Justin & Hitchman unresolved. |
+
+## 31 December 1909 — Ralph O. Smith Palace Saloon application
+`S-198` / `E-177` directly places Ralph O. Smith at **Palace Saloon, Main/Fifth**, applying for six months. No exact number or grant is proved.
+
+## 17 June 1910 — E. R. Case Palace Saloon at printed 510 Main
+`S-199` / `E-178` directly prints **E. R. Case / Palace Saloon / 510 Main**. A 1 June municipal record independently places Case's saloon at Fifth/Main. The printed 510 is retained as an unresolved address/transition conflict rather than normalized to later Palace 501.
+
+## 13 May 1921 — Dr. Freeze printed 505 Main
+`S-035` / `E-028` adds an exact visually verified **505 Main** advertisement between 8 April **505½** and 20 May **505½**. No physical-layout change is inferred.

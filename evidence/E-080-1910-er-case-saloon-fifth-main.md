@@ -24,3 +24,8 @@ The Council record does not print a numbered Main Street address. The saloon or 
 
 **Very High** for the E. R. Case saloon at Fifth & Main and the adjoining-restaurant relationship in June 1910.  
 **Unresolved** for exact number, lot, and footprint.
+
+## 17 June 1910 newspaper corroboration
+A separately supplied and visually verified *Oregon City Courier* notice (`S-199` / `E-178`) directly identifies **E. R. Case's place of business as the Palace Saloon, 510 Main street**. This independently supports the 1 June Council record's Case/Fifth-Main saloon context and adds a trade name and printed number.
+
+The archive does not silently turn `510` into `501`. The exact relationship among the Council's intersection wording, the newspaper's `510`, later Palace `501`, and Pacific Telephone's later 1910 `510` advertisements remains unresolved.

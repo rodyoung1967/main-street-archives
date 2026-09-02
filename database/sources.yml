@@ -147,7 +147,7 @@ sources:
   - id: S-032
     name: Chicago Store advertisements, 1911-1913
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
-    notes: "Exact supplied page PDFs preserved for 31 March, 7 April and 28 April 1911 at 505 Main; also 14 April 1911 Courier and 8 January 1913 Morning Enterprise. Related evidence E-026. Repository PDFs: newspapers/oregon-city-courier/1911-03-31-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-07-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-28-page-7-chicago-store-505-main.pdf."
+    notes: "Exact steward-supplied page PDFs preserved for 31 March, 7 April, 14 April and 28 April 1911 at 505 Main; also 8 January 1913 Morning Enterprise. Related evidence E-026. Repository PDFs: newspapers/oregon-city-courier/1911-03-31-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-07-page-6-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-14-page-7-chicago-store-505-main.pdf; newspapers/oregon-city-courier/1911-04-28-page-7-chicago-store-505-main.pdf."
 
   - id: S-033
     name: City of Oregon City historic-resource record, 505 Main
@@ -164,7 +164,7 @@ sources:
     name: Dr. Freeze Eye Specialist advertisements, 1921-1922
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-11-11/ed-1/seq-5/
     notes: >-
-      Exact visually verified supplied PDFs preserved for 8 Apr 1921 at 505½ Main (newspapers/oregon-city-enterprise/1921-04-08-page-3-dr-freeze-505-half-main.pdf), 20 May 1921 at 505½ Main (newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf), 28 Oct 1921 at printed 505 Main opposite Postoffice (newspapers/oregon-city-enterprise/1921-10-28-page-5-dr-freeze-505-main.pdf), and 30 Jun 1922 at 505½ Main with after-July-1 move notice to 207 Masonic Bldg (newspapers/oregon-city-enterprise/1922-06-30-page-3-dr-freeze-505-half-masonic-move.pdf). Address-form variation does not prove physical room/floor movement. Related evidence E-028.
+      Exact visually verified supplied PDFs preserved for 8 Apr 1921 at 505½ Main (newspapers/oregon-city-enterprise/1921-04-08-page-3-dr-freeze-505-half-main.pdf), 13 May 1921 at printed 505 Main (newspapers/oregon-city-enterprise/1921-05-13-page-8-dr-freeze-505-main.pdf), 20 May 1921 at 505½ Main (newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf), 28 Oct 1921 at printed 505 Main opposite Postoffice (newspapers/oregon-city-enterprise/1921-10-28-page-5-dr-freeze-505-main.pdf), and 30 Jun 1922 at 505½ Main with after-July-1 move notice to 207 Masonic Bldg (newspapers/oregon-city-enterprise/1922-06-30-page-3-dr-freeze-505-half-masonic-move.pdf). Address-form variation does not prove physical room/floor movement. Related evidence E-028.
 
   - id: S-036
     name: City of Oregon City, 401 3rd Street inventory
@@ -1009,3 +1009,17 @@ sources:
     url: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-18/ed-1/seq-6.pdf
     notes: >-
       Visually verified liquor-license notice naming M. Justin at Mt. Hood Cafe, Fifth/Main. No number/grant/property ownership; relationship to Justin & Hitchman unresolved. Repository PDF newspapers/oregon-city-courier/1910-03-18-page-6-m-justin-mt-hood-cafe-fifth-main.pdf; canonical SHA-256 2b3ba938dd98cf3f0123c782c7e377b0f96b76ab39a53613f4f7b493edf1ed24. Related E-176.
+
+  - id: S-198
+    name: Oregon City Courier, 31 December 1909, Ralph O. Smith Palace Saloon license application
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-12-31/ed-1/seq-7.pdf
+    repository_file: newspapers/oregon-city-courier/1909-12-31-page-7-palace-saloon-ralph-o-smith-license.pdf
+    notes: >-
+      Visually verified Ralph O. Smith six-month liquor-license application at the Palace Saloon, corner Main/Fifth. No 501 number, grant, title or uninterrupted continuity proved. Original upload Palace Saloon (Liquor License) Oregon City courier., December 31, 1909, Image 7.pdf; SHA-256 ef4faeabb47ad6c6d91f0f642a07dd55bbc1a8ac6ea69e705224752517e1de02 (716264 bytes). Related E-177/P-098/BUS-024.
+
+  - id: S-199
+    name: Oregon City Courier, 17 June 1910, E. R. Case Palace Saloon at printed 510 Main
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-06-17/ed-1/seq-7.pdf
+    repository_file: newspapers/oregon-city-courier/1910-06-17-page-7-palace-saloon-er-case-510-main.pdf
+    notes: >-
+      Visually verified E. R. Case three-month liquor-license application at the Palace Saloon, printed 510 Main street. Preserve 510 exactly; relationship to later 501 Palace and later 510 Pacific Telephone occupancy remains unresolved. Original upload Palace Saloon (Liquor Licence) Oregon City courier., June 17, 1910, Page 7, Image 7.pdf; SHA-256 1030dd2e183a480980cb29fc3b581599b9a083008ced224dd20fe8131ce9ae9e (677673 bytes). Related E-178/P-105/BUS-024 and cross-reference E-080.

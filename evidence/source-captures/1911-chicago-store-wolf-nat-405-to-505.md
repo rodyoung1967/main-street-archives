@@ -115,3 +115,6 @@ Treat all three Wolf threads separately until a direct identity source connects 
 4. Search phone numbers **Main 3732 / Main 3731** and the Chicago Store trade name for proprietor continuity; the one-digit difference itself should be checked against scans rather than normalized by assumption.
 5. Map the **Electric Hotel Building / 405 Main** anchor against the 1911 Sanborn and address system.
 6. Compare the identified 1911 Wolf against the full identity of the 1918 Wolf & Miller partner only after independent names are established.
+
+## 14 April 1911 — exact page now visually preserved
+A project-steward page upload has now been visually inspected and preserved at `newspapers/oregon-city-courier/1911-04-14-page-7-chicago-store-505-main.pdf`. It directly repeats **The Chicago Store, 505 Main St.**, with new/second-hand clothing and cleaning/repairing (`S-032` / `E-026`). This confirms the previously noted 14 April continuation with exact page-level provenance; it still does not identify post-move proprietors or prove physical-building continuity.

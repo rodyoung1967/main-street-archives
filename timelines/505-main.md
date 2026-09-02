@@ -62,3 +62,7 @@ Sequence (chronology only; no physical-building continuity implied): Harding Dru
 ## 2 September 2026 early-source supplement
 - **16 Aug. 1907:** Young's Second Hand Store is directly advertised at **505 Main** (`S-189` / `E-168`); the ad itself does not name George Young.
 - **31 Mar., 7 Apr., 28 Apr. 1911:** exact preserved Chicago Store page scans directly print **505 Main** (`S-032` / `E-026`), strengthening the documented post-405 move chronology.
+
+## 14 April 1911 / 13 May 1921 steward-page update
+- **14 Apr. 1911:** exact visually preserved Chicago Store ad prints **505 Main** (`S-032` / `E-026`), extending the exact preserved March/April scan set.
+- **13 May 1921:** Dr. Freeze ad prints **505 Main**; **20 May** prints **505½ Main** (`S-035` / `E-028`). The week-to-week variation is not evidence of a physical floor or room move.

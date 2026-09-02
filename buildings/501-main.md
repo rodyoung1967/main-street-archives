@@ -133,3 +133,6 @@ Joint Holman & Randall copy persists July 6; Holman-alone Fifth/Main copy is ver
 ## 1909–1911 Palace Saloon context
 
 New visually verified pages add operator history around the later exact-501 Palace Saloon without back-projecting the number. On 25 June 1909 Ralph O. Smith was reported buying former partner F. E. Hall's interest in the Palace Saloon and, in the same issue, applying at Palace Saloon, Fifth/Main (`E-157`–`E-158`). On 20 June 1911 Joseph Wilson applied at The Palace Saloon, Fifth/Main (`E-159`). Neither 1909 nor 1911 page prints **501**. Exact 501 remains directly printed in the 19 March 1912 Joe Wilson notice (`E-104`).
+
+## 17 June 1910 Palace Saloon printed-510 conflict
+A visually verified *Courier* notice (`S-199` / `E-178`) identifies **E. R. Case / Palace Saloon / 510 Main street**. Because the Palace is later directly printed at **501 Main** under Joe Wilson, this source is retained as an unresolved address/transition conflict and is **not assigned as B-005 occupancy** without a bridge.

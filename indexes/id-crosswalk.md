@@ -321,3 +321,8 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-196` ↔ `E-175` ↔ contextual `BUS-041` — 11 Feb. 1910 Andresen/Stevens 60x210 Main-to-Water property and planned brick-block report; parcel unresolved.
 - `S-197` ↔ `E-176` ↔ `BUS-086` — 18 Mar. 1910 M. Justin at Mt. Hood Cafe, Fifth/Main; relationship to `BUS-046` unresolved.
 - Timeline IDs: `T-065` through `T-068`. Follow-up: `RL-047`.
+
+| `S-198` / `E-177` | `P-098`; `BUS-024`; `T-069` | 31 Dec. 1909 Ralph O. Smith six-month Palace Saloon application at Main/Fifth; no exact number or grant. |
+| `S-199` / `E-178` / `P-105` | `BUS-024`; `E-080`; `T-070` | 17 Jun. 1910 E. R. Case Palace Saloon application prints **510 Main**; preserve address conflict/transition question. |
+| `S-032` / `E-026` 14 Apr. 1911 supplement | `BUS-011`; `B-002` | Exact steward page now preserved; Chicago Store directly at 505 Main. |
+| `S-035` / `E-028` 13 May 1921 supplement | `P-027`; `BUS-021`; `B-002`; `T-071` | Exact steward page prints 505 Main; 20 May returns to 505½; no physical-layout inference. |

@@ -8,3 +8,6 @@ The evidence supports the dated professional locations and advertised-address ch
 
 ## 2 September 2026 exact-page supplement
 Steward-supplied Enterprise scans now preserve four exact address-form anchors: **505½ Main** (8 April 1921), **505½ Main** (20 May 1921), **505 Main St., Opposite Postoffice** (28 October 1921), and **505½ Main** (30 June 1922). The 30 June advertisement announces the move to **207 Masonic Bldg. after July 1**. These are professional-location statements, not evidence of real-estate ownership or the physical floor/room arrangement (`S-035` / `E-028`).
+
+## 13 May 1921 printed 505 / 20 May printed 505½
+A visually verified 13 May 1921 advertisement prints **505 Main St.**; seven days later the 20 May advertisement prints **505½ Main St.** (`S-035` / `E-028`). The alternating forms are preserved literally and do not establish where the separately numbered space sat within the building.

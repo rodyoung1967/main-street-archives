@@ -1062,9 +1062,9 @@ people:
   - id: P-098
     name: Ralph O. Smith
     role: Palace Saloon business-interest purchaser / liquor-license applicant
-    notes: On 25 June 1909 the Courier reports Smith purchased the interest of his former Palace Saloon partner F. E. Hall; a same-issue notice places Smith applying at Palace Saloon, Fifth/Main for three months. A 17 September 1909 notice again places Smith at Palace Saloon, corner Main/Fifth. No exact 501 number, license grant, real-estate ownership, transaction price/percentage, or later succession is proved.
+    notes: On 25 June 1909 the Courier reports Smith purchased the interest of his former Palace Saloon partner F. E. Hall; a same-issue notice places Smith applying at Palace Saloon, Fifth/Main for three months. A 17 September 1909 notice again places Smith at Palace Saloon, corner Main/Fifth; a visually verified 31 December 1909 notice repeats the same trade name/intersection and requests a six-month license. No exact 501 number, license grant, real-estate ownership, transaction price/percentage, or later succession is proved.
     related_businesses: [BUS-024]
-    related_evidence: [E-152, E-157, E-158]
+    related_evidence: [E-152, E-157, E-158, E-177]
     related_sources: [S-172, S-177, S-178]
     repository_file: people/profiles/ralph-o-smith.md
 
@@ -1119,3 +1119,12 @@ people:
     related_evidence: [E-165]
     related_sources: [S-185]
     repository_file: people/profiles/guy-proffit.md
+
+  - id: P-105
+    name: E. R. Case
+    role: Saloon operator / liquor-license applicant
+    notes: 1 Jun 1910 Council record places Case's saloon at Fifth/Main with adjoining restaurant; 17 Jun 1910 Courier directly identifies his place as Palace Saloon, printed 510 Main. Preserve 510 as printed; license grant, property ownership and later 501 relationship unresolved.
+    repository_file: people/profiles/e-r-case.md
+    related_businesses: [BUS-024]
+    related_evidence: [E-080, E-178]
+    related_sources: [S-093, S-199]

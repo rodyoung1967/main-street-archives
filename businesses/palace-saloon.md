@@ -39,3 +39,12 @@ A visually verified *Morning Enterprise* notice (`S-179` / `E-159`) names **Jose
 
 ## 14 March 1911 Joseph Wilson evidence
 `S-190` / `E-169` visually verifies **Joseph Wilson** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets** on 14 March 1911. This precedes the already-preserved 20 June 1911 notice. It does not print 501 Main or prove the license was granted.
+
+## 31 December 1909 and 17 June 1910 steward-page update
+
+Two newly supplied, visually verified *Courier* pages materially tighten the Smith→Case interval without proving a transfer.
+
+- **31 Dec. 1909 — `S-198` / `E-177`:** Ralph O. Smith applies for a **six-month** license at **the Palace Saloon, corner Main and Fifth Sts.** No number or grant is printed.
+- **17 Jun. 1910 — `S-199` / `E-178`:** E. R. Case applies for a **three-month** license at **the Palace Saloon, 510 Main street**. A separate 1 Jun. municipal record already places Case's saloon at Fifth/Main (`E-080`).
+
+The 17 June page is direct Palace trade-name evidence for Case, but **510 Main must remain exactly as printed**. It conflicts with/complicates the later exact **501 Main** Palace anchor under Joe Wilson and precedes repeated Pacific Telephone advertising at **510 Main** beginning in August 1910. Current evidence does not distinguish among a business move, numbering issue, newspaper error, or another explanation. No Smith→Case transfer instrument or license grant is proved.

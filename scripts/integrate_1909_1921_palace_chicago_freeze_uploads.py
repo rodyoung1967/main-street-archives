@@ -100,9 +100,9 @@ guards = [
     ("E-177", "evidence/evidence-register.md", r"(?m)^## E-177\b"),
     ("E-178", "evidence/evidence-register.md", r"(?m)^## E-178\b"),
     ("P-105", "people/people-index.md", r"(?m)^\| P-105 \|"),
-    ("T-065", "database/timeline.yml", r"(?m)^  - id: T-065$"),
-    ("T-066", "database/timeline.yml", r"(?m)^  - id: T-066$"),
-    ("T-067", "database/timeline.yml", r"(?m)^  - id: T-067$"),
+    ("T-069", "database/timeline.yml", r"(?m)^  - id: T-069$"),
+    ("T-070", "database/timeline.yml", r"(?m)^  - id: T-070$"),
+    ("T-071", "database/timeline.yml", r"(?m)^  - id: T-071$"),
 ]
 for ident, path, pattern in guards:
     if re.search(pattern, read(path)):
@@ -482,7 +482,7 @@ def bus024_mut(block: str) -> str:
     if "      - E-177\n" not in block:
         block = block.replace("      - E-169\n", "      - E-169\n      - E-177\n      - E-178\n", 1)
     if "      - S-198\n" not in block:
-        m = re.search(r"(?ms)(    related_sources:\n(?:      - .+\n)+)", block)
+        m = re.search(r"(?m)(    related_sources:\n(?:      - [^\n]+\n)+)", block)
         if not m:
             raise SystemExit("BUS-024 related_sources list not found")
         repl = m.group(1).rstrip() + "\n      - S-198\n      - S-199\n"
@@ -617,19 +617,19 @@ append_once(
     "timeline.md",
     "## 31 December 1909 — Ralph O. Smith remains at Palace Saloon, Main/Fifth",
     """## 31 December 1909 — Ralph O. Smith remains at Palace Saloon, Main/Fifth
-A visually verified *Courier* notice has **Ralph O. Smith** applying for a **six-month** liquor license at **the Palace Saloon, corner Main and Fifth Sts.** (`S-198` / `E-177`, `T-065`). It does not print 501 or prove grant/title/continuous operation."""
+A visually verified *Courier* notice has **Ralph O. Smith** applying for a **six-month** liquor license at **the Palace Saloon, corner Main and Fifth Sts.** (`S-198` / `E-177`, `T-069`). It does not print 501 or prove grant/title/continuous operation."""
 )
 append_once(
     "timeline.md",
     "## 17 June 1910 — E. R. Case / Palace Saloon / printed 510 Main",
     """## 17 June 1910 — E. R. Case / Palace Saloon / printed 510 Main
-A visually verified *Courier* notice directly prints **E. R. Case** applying at **the Palace Saloon, 510 Main street** (`S-199` / `E-178`, `P-105`, `T-066`). The separate 1 June Council record places Case's saloon at Fifth/Main. Preserve 510 literally: its relationship to later Palace 501 and Pacific Telephone at 510 later in 1910 is unresolved."""
+A visually verified *Courier* notice directly prints **E. R. Case** applying at **the Palace Saloon, 510 Main street** (`S-199` / `E-178`, `P-105`, `T-070`). The separate 1 June Council record places Case's saloon at Fifth/Main. Preserve 510 literally: its relationship to later Palace 501 and Pacific Telephone at 510 later in 1910 is unresolved."""
 )
 append_once(
     "timeline.md",
     "## 13 May 1921 — Dr. Freeze advertisement prints 505 Main",
     """## 13 May 1921 — Dr. Freeze advertisement prints 505 Main
-A visually verified *Enterprise* advertisement prints **Dr. Freeze, Eye Specialist, 505 Main St.** (`S-035` / `E-028`, `T-067`). The 20 May ad returns to **505½ Main**. This alternation strengthens the source-level address-variation interpretation and does not prove a physical move or floor arrangement."""
+A visually verified *Enterprise* advertisement prints **Dr. Freeze, Eye Specialist, 505 Main St.** (`S-035` / `E-028`, `T-071`). The 20 May ad returns to **505½ Main**. This alternation strengthens the source-level address-variation interpretation and does not prove a physical move or floor arrangement."""
 )
 append_once(
     "registers/business-timeline.md",
@@ -652,8 +652,8 @@ append_once(
 
 append_yaml_once(
     "database/timeline.yml",
-    "T-065",
-    """  - id: T-065
+    "T-069",
+    """  - id: T-069
     date: 31 December 1909
     summary: Ralph O. Smith applies for a six-month liquor license at the Palace Saloon, corner Main and Fifth Sts.
     confidence: Very High for visually verified applicant/trade-name/intersection/term; exact number, grant, title and uninterrupted continuity unresolved.
@@ -664,8 +664,8 @@ append_yaml_once(
 )
 append_yaml_once(
     "database/timeline.yml",
-    "T-066",
-    """  - id: T-066
+    "T-070",
+    """  - id: T-070
     date: 17 June 1910
     summary: E. R. Case applies for a three-month liquor license at the Palace Saloon, printed 510 Main street; separate 1 June Council evidence places Case's saloon at Fifth/Main.
     confidence: Very High for direct printed wording; 510 relationship to later Palace 501 and later 1910 Pacific Telephone 510 remains unresolved.
@@ -676,8 +676,8 @@ append_yaml_once(
 )
 append_yaml_once(
     "database/timeline.yml",
-    "T-067",
-    """  - id: T-067
+    "T-071",
+    """  - id: T-071
     date: 13 May 1921
     summary: Dr. Freeze advertisement prints 505 Main St.; the 20 May advertisement returns to 505 1/2 Main.
     confidence: Very High for visually verified printed address; physical room/floor/layout implication unresolved and not inferred.
@@ -708,11 +708,11 @@ Preserve 510/501 as an unresolved conflict until direct evidence resolves it."""
 )
 append_once(
     "indexes/id-crosswalk.md",
-    "| `S-198` / `E-177` | `P-098`; `BUS-024`; `T-065` |",
-    """| `S-198` / `E-177` | `P-098`; `BUS-024`; `T-065` | 31 Dec. 1909 Ralph O. Smith six-month Palace Saloon application at Main/Fifth; no exact number or grant. |
-| `S-199` / `E-178` / `P-105` | `BUS-024`; `E-080`; `T-066` | 17 Jun. 1910 E. R. Case Palace Saloon application prints **510 Main**; preserve address conflict/transition question. |
+    "| `S-198` / `E-177` | `P-098`; `BUS-024`; `T-069` |",
+    """| `S-198` / `E-177` | `P-098`; `BUS-024`; `T-069` | 31 Dec. 1909 Ralph O. Smith six-month Palace Saloon application at Main/Fifth; no exact number or grant. |
+| `S-199` / `E-178` / `P-105` | `BUS-024`; `E-080`; `T-070` | 17 Jun. 1910 E. R. Case Palace Saloon application prints **510 Main**; preserve address conflict/transition question. |
 | `S-032` / `E-026` 14 Apr. 1911 supplement | `BUS-011`; `B-002` | Exact steward page now preserved; Chicago Store directly at 505 Main. |
-| `S-035` / `E-028` 13 May 1921 supplement | `P-027`; `BUS-021`; `B-002`; `T-067` | Exact steward page prints 505 Main; 20 May returns to 505½; no physical-layout inference. |"""
+| `S-035` / `E-028` 13 May 1921 supplement | `P-027`; `BUS-021`; `B-002`; `T-071` | Exact steward page prints 505 Main; 20 May returns to 505½; no physical-layout inference. |"""
 )
 append_once(
     "ARCHIVE_INDEX.md",

@@ -11,3 +11,6 @@ The project-steward uploads for **31 March**, **7 April**, and **28 April 1911**
 
 ## 25 December 1913 fire page now visually verified
 The exact *Oregon City Courier* front page is now preserved at `newspapers/oregon-city-courier/1913-12-25-page-1-chicago-store-fire-george-harding.pdf` (`S-192` / `E-171`). It directly says the Chicago clothing-store building was **owned by George Harding**. The article gives Main Street south of the postoffice, not 505; the 505 identification remains a strong cross-source inference from the store's independent exact-address advertising, not a deed or a direct number printed in the fire report.
+
+## 14 April 1911 exact-page preservation
+The visually verified 14 April 1911 *Courier* page is now physically preserved at `newspapers/oregon-city-courier/1911-04-14-page-7-chicago-store-505-main.pdf` under existing `S-032` / `E-026`. The ad directly prints **The Chicago Store, 505 Main St.** and repeats new/second-hand clothing plus cleaning/repairing. It does not name Wolf & Nat or prove real-estate ownership or surviving-building continuity.

@@ -38,3 +38,10 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Current model | 501 remains live in the Gates/Wolf/fire model because Gates-to-501 is unproved. | **Hypothesis/conflict; no model selected.** | `E-108`; Task 7/8 captures |
 
 Open: Palace 1900/1905 exact location; Surber's 1905 Palace→1907 No.501 room continuity; later Surber/Smith/Case/Wilson/Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1944 removal cause.
+
+## 1909–1910 Palace address update — printed 510 conflict retained
+- **31 Dec. 1909:** Ralph O. Smith applies at **Palace Saloon, corner Main/Fifth** for six months (`S-198` / `E-177`); no 501 printed.
+- **17 Jun. 1910:** E. R. Case applies at **Palace Saloon, 510 Main street** (`S-199` / `E-178`). This is **context/conflict evidence only for the 501 history** and is not assigned to B-005.
+- **19 Mar. 1912:** Joe Wilson's Palace Saloon is directly printed at **501 Main** (`S-118` / `E-104`).
+
+The archive does not assume the 1910 `510` is a typo or a move; the number relationship remains unresolved.

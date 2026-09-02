@@ -255,3 +255,6 @@ Seven complete first-monthly Courier issues June–December add 58 visually insp
 
 ## December 1913 Chicago Store fire — visual owner-wording upgrade
 The exact 25 December 1913 *Oregon City Courier* front page is now visually verified (`S-192` / `E-171`). It reports the Chicago clothing store on Main Street south of the postoffice gutted by fire and says **the building was owned by George Harding**. The article itself does not print 505 Main. Because the Chicago Store is independently documented at 505 Main, the address mapping is a strong cross-source inference, not direct exact-number wording from the fire report or deed-level title proof.
+
+## 2 September 2026 exact-page additions
+The exact 14 April 1911 Chicago Store page is now visually preserved under `S-032` / `E-026` and directly prints **505 Main**. The exact 13 May 1921 Dr. Freeze page is now visually preserved under `S-035` / `E-028` and prints **505 Main**, followed one week later by the already preserved **505½ Main** form. These are occupancy/address anchors only and do not establish surviving-building continuity or physical subdivision layout.

@@ -439,3 +439,12 @@ On **20 March 1908**, Justin & Hitchman and A. J. Surber separately applied at t
 On **11 February 1910**, the *Courier* reported that William Andresen took one-half interest and H. C. Stevens owned the other half in a **60×210-foot** property fronting Main and Water; two dwellings were on the Water side, while a Main-front frame building was planned for removal and replacement by a brick block (`S-196` / `E-175`). No number/legal description is printed and the planned construction is not treated as completed work or assigned to 503/505.
 
 On **18 March 1910**, **M. Justin** applied for a liquor license at **the Mt. Hood Cafe, Fifth and Main streets** (`S-197` / `E-176`; `BUS-086`). No number or grant is printed, and M. Justin is not automatically identified as a member of Justin & Hitchman.
+
+## 31 December 1909 — Ralph O. Smith remains at Palace Saloon, Main/Fifth
+A visually verified *Courier* notice has **Ralph O. Smith** applying for a **six-month** liquor license at **the Palace Saloon, corner Main and Fifth Sts.** (`S-198` / `E-177`, `T-069`). It does not print 501 or prove grant/title/continuous operation.
+
+## 17 June 1910 — E. R. Case / Palace Saloon / printed 510 Main
+A visually verified *Courier* notice directly prints **E. R. Case** applying at **the Palace Saloon, 510 Main street** (`S-199` / `E-178`, `P-105`, `T-070`). The separate 1 June Council record places Case's saloon at Fifth/Main. Preserve 510 literally: its relationship to later Palace 501 and Pacific Telephone at 510 later in 1910 is unresolved.
+
+## 13 May 1921 — Dr. Freeze advertisement prints 505 Main
+A visually verified *Enterprise* advertisement prints **Dr. Freeze, Eye Specialist, 505 Main St.** (`S-035` / `E-028`, `T-071`). The 20 May ad returns to **505½ Main**. This alternation strengthens the source-level address-variation interpretation and does not prove a physical move or floor arrangement.

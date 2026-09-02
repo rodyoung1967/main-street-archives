@@ -192,3 +192,10 @@ Still unresolved:
 - mapping of Price Bros., Watson B. Eddy & Son, Hodes, and Philip Street to specific Sixth/Main corners/lots;
 - Harding Building exact number/footprint;
 - full visual review of any 1910 Courier pages inaccessible in the present interface.
+
+## 2 September 2026 steward-page supplement — E. R. Case Palace at printed 510 Main
+A newly supplied and visually verified **17 June 1910 Courier p. 7** (`S-199` / `E-178`) directly identifies **E. R. Case** applying at **the Palace Saloon, 510 Main street**. This corroborates the existing 1 June Council record placing Case's saloon at Fifth/Main (`E-080`) and adds the trade name/exact printed number.
+
+The printed `510` is not normalized to later Palace `501`. It also creates a high-value transition question because Pacific Telephone & Telegraph is independently advertised at `510 Main` beginning in August 1910 (`E-082` / `S-095`). Determine whether this reflects a move, numbering/error issue, short occupancy, or another explanation.
+
+**Year status remains IN PROGRESS.** This targeted page addition does not certify a full 1910 visual pass.

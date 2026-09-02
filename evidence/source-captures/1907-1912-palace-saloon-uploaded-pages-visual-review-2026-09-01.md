@@ -70,3 +70,6 @@ The open question is now narrower: determine which of these dated liquor premise
 ## Binary-preservation note
 
 The project-steward uploads were the copies visually inspected. The available GitHub integration transport cannot directly transfer conversation attachment bytes. The repository therefore retains the same issue/page PDFs reacquired from the canonical Oregon Digital URLs. Original uploaded filenames, byte counts and SHA-256 hashes are retained above, alongside the hashes of the repository derivatives. A byte-level difference between PDF derivatives is not treated as a historical-content difference.
+
+## 2 September 2026 addendum — 31 Dec. 1909 and 17 Jun. 1910
+Two further steward pages are now visually verified and preserved. `S-198` / `E-177` repeats Ralph O. Smith at Palace Saloon, Main/Fifth on 31 Dec. 1909 with a six-month application. `S-199` / `E-178` directly identifies E. R. Case at **Palace Saloon, 510 Main** on 17 Jun. 1910. The latter is retained as a printed address conflict/transition question rather than normalized to the later exact-501 Palace evidence.

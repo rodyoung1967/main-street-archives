@@ -58,3 +58,6 @@ Handling: **newly preserved**.
 - The 20 May 1921 Witham article gives retrospective timing and does not provide an exact Munden-to-Witham sale date or legal transaction mechanics.
 - `Mundin` (10 Oct. 1918) and `Munden` (20 May 1921) are preserved as spelling variants. These 514 readings materially strengthen 514 as the intended address but do not erase the separate unresolved 24 Oct. 1918 `MUNDEN, A. A., 614 Main` directory reading.
 - Reconciliation by SHA-256 establishes binary identity/deduplication status; the historical claims above come from direct visual inspection of the supplied page scans.
+
+## Addendum — 13 May 1921 exact 505 Main
+A later steward upload of the 13 May 1921 *Enterprise* p. 8 was visually inspected and preserved under `S-035` / `E-028`. Despite its uploaded filename saying `505 & half`, the printed advertisement itself reads **505 Main St.** The directly verified sequence now alternates 505½ (8 Apr.), 505 (13 May), 505½ (20 May), 505 (28 Oct.), and 505½ (30 Jun. 1922). This strengthens the no-layout-inference rule.

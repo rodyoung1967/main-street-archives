@@ -189,3 +189,6 @@ The legacy-branch consolidation adds a direct 1902 block occupant (**Union Store
 
 ### 1918-OQ-WM-ADDRESS — Wolf & Miller 503/505 address conflict
 Why does the 31 October 1918 *Courier* answer page print **503 Main** for Wolf & Miller after primary records on 20 September, 10 October, and 24 October print **505 Main**? Test rapid relocation after partnership dissolution, answer-key/typesetting error, and other address explanations. Do not select a theory without independent evidence.
+
+### OQ-032 update — 31 Dec. 1909 Smith and 17 Jun. 1910 Case/510 evidence
+`E-177` extends Ralph O. Smith at Palace Saloon, Main/Fifth through 31 Dec. 1909. `E-178` then directly identifies **E. R. Case at Palace Saloon, 510 Main** on 17 Jun. 1910, independently consistent with the 1 Jun. Case/Fifth-Main municipal record. The open question is now sharper: recover actual license grants/transfer records and determine why Case's Palace notice prints 510 when later Palace evidence prints 501 and Pacific Telephone occupies printed 510 by Aug. 1910. Do not choose typo, move, renumbering, or same-premises continuity without evidence.

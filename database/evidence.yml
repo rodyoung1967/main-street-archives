@@ -476,7 +476,7 @@ evidence:
     type: Primary newspaper advertisements; supplied 1911 pages visually verified
     claims:
       - Oregon City Courier advertisements directly place The Chicago Store at 505 Main by 31 March 1911 and continue the address through April 1911.
-      - The supplied 31 March, 7 April and 28 April scans advertise new and second-hand clothing plus cleaning and repairing.
+      - The supplied 31 March, 7 April, 14 April and 28 April scans advertise new and second-hand clothing plus cleaning and repairing.
       - The supplied 505 advertisements do not identify Wolf & Nat as proprietors; proprietor continuity after the move remains unresolved.
     confidence: Very High for printed business/address and advertised services; proprietor/title/structure continuity unresolved.
     related_sources: [S-032]
@@ -502,6 +502,7 @@ evidence:
     type: Primary newspaper advertisements; supplied pages visually verified
     claims:
       - 8 April and 20 May 1921 Enterprise advertisements print Dr. Freeze, Eye Specialist, at 505 1/2 Main.
+      - A visually verified 13 May 1921 Enterprise advertisement between those dates prints 505 Main without the half-number; this one-week alternation is source-level address variation, not proof of a physical room or floor move.
       - 28 October 1921 Enterprise advertisement prints 505 Main St., Opposite Postoffice, without the half-number.
       - 30 June 1922 Enterprise advertisement prints 505 1/2 Main and says that after July 1 Freeze will be at 207 Masonic Bldg.
       - The 505 versus 505 1/2 wording is preserved as source-level address variation and does not prove a floor, room, storefront, ownership, or within-building move.
@@ -1196,6 +1197,7 @@ evidence:
     confidence: Very High for the Fifth/Main location and adjoining-use relationship; Unresolved for exact number, lot, and footprint.
     related_sources:
       - S-093
+    related_people: [P-105]
     repository_file: evidence/E-080-1910-er-case-saloon-fifth-main.md
 
   - id: E-081
@@ -2696,3 +2698,28 @@ evidence:
     related_sources: [S-197]
     related_businesses: [BUS-086]
     repository_file: evidence/E-176-1910-m-justin-mt-hood-cafe.md
+
+  - id: E-177
+    name: Ralph O. Smith at Palace Saloon, Main/Fifth, 31 December 1909
+    type: Primary newspaper liquor-license application; visually verified
+    claims:
+      - Ralph O. Smith applies for a six-month liquor license at the Palace Saloon, corner Main and Fifth Sts.
+      - The notice does not print 501, prove a license grant, property ownership, or uninterrupted operation from the September 1909 notice.
+    confidence: Very High for applicant, trade name, intersection, date and requested term; exact number, grant, title and continuity unresolved.
+    related_sources: [S-198]
+    related_people: [P-098]
+    related_businesses: [BUS-024]
+    repository_file: evidence/E-177-1909-12-31-ralph-o-smith-palace-saloon.md
+
+  - id: E-178
+    name: E. R. Case applies at Palace Saloon, printed 510 Main, 17 June 1910
+    type: Primary newspaper liquor-license application plus municipal cross-reference; visually verified
+    claims:
+      - The 17 June 1910 Courier directly names E. R. Case applying for a three-month liquor license at the Palace Saloon, 510 Main street.
+      - The 1 June 1910 Council record independently places E. R. Case's saloon at Fifth/Main with an adjoining restaurant.
+      - Preserve 510 exactly as printed; its relationship to later 501 Palace evidence and Pacific Telephone at 510 beginning August 1910 remains unresolved.
+    confidence: Very High for printed Case/Palace/510 and separate municipal Case/Fifth-Main wording; Unresolved conflict for address/transition explanation.
+    related_sources: [S-199, S-093]
+    related_people: [P-105]
+    related_businesses: [BUS-024]
+    repository_file: evidence/E-178-1910-06-17-er-case-palace-saloon-510-main.md

@@ -160,3 +160,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-104 | [Guy Proffit](profiles/guy-proffit.md) | Reported business-interest holder, Fifth Street Restaurant | 19 Nov. 1920 Enterprise says he was “interested in” the restaurant and would retain his interests; exact legal/ownership character and premises unresolved. `E-165` / `S-185`. |
+
+## 2 September 2026 — E. R. Case formalized
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-105 | [E. R. Case](profiles/e-r-case.md) | Saloon operator / liquor-license applicant | 1 Jun. 1910 Council record places Case's saloon at Fifth/Main with adjoining restaurant; 17 Jun. Courier directly calls his place the **Palace Saloon, 510 Main street**. Printed 510 is retained as an unresolved address conflict/transition question. `E-080`, `E-178`; `S-093`, `S-199`. |

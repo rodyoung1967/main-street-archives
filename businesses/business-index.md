@@ -142,3 +142,8 @@ These records were already part of the evidence narrative but previously lacked 
 | --- | --- | --- | --- |
 | BUS-085 | [R. A. Sawyer meat business](r-a-sawyer-meat-business.md) | Fifth/Main; no number | 1 Mar. 1907 Sawyer says he purchased Charles Albright's meat business and continues at the old stand; direct predecessor wording. Later Strebig “Albright's Old Stand” is a site-chain clue, not a proved Sawyer→Strebig transfer. `E-173` / `S-194`. |
 | BUS-086 | [Mt. Hood Cafe](mt-hood-cafe.md) | Fifth/Main; no number | 18 Mar. 1910 M. Justin liquor-license application directly names the Mt. Hood Cafe at Fifth/Main. Relationship to Justin & Hitchman unresolved. `E-176` / `S-197`. |
+
+## 2 September 2026 — Palace / Chicago / Freeze steward-page supplement
+- `BUS-024` Palace Saloon: `S-198` / `E-177` extends Ralph O. Smith at Main/Fifth through 31 Dec. 1909; `S-199` / `E-178` directly prints **E. R. Case / Palace Saloon / 510 Main** on 17 Jun. 1910. The printed 510 is an unresolved conflict/transition question and is not silently changed to 501.
+- `BUS-011` Chicago Store: exact 14 Apr. 1911 page now preserved and visually verified at **505 Main** under existing `S-032` / `E-026`.
+- `BUS-021` Dr. Freeze: exact 13 May 1921 page prints **505 Main**, while 20 May prints **505½ Main**; this reinforces address-form uncertainty rather than a physical-layout conclusion.

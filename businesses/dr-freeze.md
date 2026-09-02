@@ -10,3 +10,6 @@ See the [505 Main unified timeline](../timelines/505-main.md).
 
 ## 2 September 2026 steward-upload address-form supplement
 Four exact Enterprise page scans now physically preserved under `newspapers/` make the address wording explicit: **505½ Main** on 8 April and 20 May 1921; **505 Main St., Opposite Postoffice** on 28 October 1921; and **505½ Main** again on 30 June 1922. The 30 June ad says that **after July 1** Freeze will be at **207 Masonic Bldg.** (`S-035` / `E-028`). The October omission of the half-number is retained as printed variation and is **not** treated as proof of a move between floors, storefront sections, or other physical subdivisions.
+
+## 13–20 May 1921 address-form alternation
+A newly supplied visually verified **13 May 1921** *Enterprise* ad prints **505 Main St.** without a half-number (`S-035` / `E-028`). The already preserved **20 May** ad prints **505½ Main St.** This one-week alternation reinforces that the newspaper's `505` / `505½` forms cannot by themselves establish the physical layout or a move between floors, side-by-side spaces, front/rear sections, or other subdivisions.

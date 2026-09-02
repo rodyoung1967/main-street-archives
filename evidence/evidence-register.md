@@ -147,6 +147,9 @@ Sources: `S-032`
 Claims: The 31 March, 7 April, 14 April and 28 April 1911 *Oregon City Courier* advertisements place The Chicago Store at **505 Main**; the supplied pages advertise new/second-hand clothing plus cleaning and repairing. Morning Enterprise 8 January 1913 again places the store at 505.  
 Confidence: Very High for the printed business/address on the supplied scans; proprietor identity after the move and property/building ownership remain unresolved.
 
+### 14 April 1911 visual-preservation update
+The exact 14 April 1911 *Courier* page is now physically preserved and visually verified. It directly repeats **The Chicago Store, 505 Main St.** and its clothing/cleaning/repairing services. This strengthens page-level provenance but does not add proprietor, title, or surviving-building continuity.
+
 ## E-027 — Wolf & Miller at 505 Main, 1918
 Type: Primary newspaper feature  
 Sources: `S-034`  
@@ -158,6 +161,9 @@ Type: Primary newspaper advertisements; supplied pages **VISUALLY VERIFIED**
 Sources: `S-035`  
 Claims: The 8 April and 20 May 1921 *Oregon City Enterprise* advertisements print **Dr. Freeze, Eye Specialist, 505½ Main**. The 28 October 1921 advertisement instead prints **505 Main St., Opposite Postoffice** without the half-number. The 30 June 1922 advertisement returns to **505½ Main St.** and says that **after July 1** Freeze will be at **207 Masonic Bldg.** This provides a direct end-of-June move marker. The 505-versus-505½ wording is preserved as a source-level address variation and is not converted into a claim about floor, room, storefront, ownership, or physical relocation within the building.  
 Confidence: Very High for the printed dates, address forms, professional title, and move notice; physical room arrangement unresolved.
+
+### 13 May 1921 printed-address update
+A visually verified 13 May 1921 *Enterprise* advertisement prints **505 Main St.** without the half-number; the 20 May page returns to **505½ Main**. The one-week alternation makes the source-level `505`/`505½` variation especially clear and further cautions against inferring a floor, room, storefront section, or physical move from the number form alone.
 
 ## E-029 — 505 Tavern Liquor Renewals, 1965 and 1972
 Type: Primary municipal records  
@@ -1518,3 +1524,17 @@ Claims: M. Justin directly applies for a three-month liquor license at the Mt. H
 Confidence: **Very High** for applicant, trade name, intersection, and application period; street number, license grant, ownership, and M. Justin's relationship to Justin & Hitchman unresolved.  
 Related business: `BUS-086`; cross-reference `BUS-046`.  
 Related record: `evidence/E-176-1910-m-justin-mt-hood-cafe.md`
+
+## E-177 — Ralph O. Smith at Palace Saloon, Main/Fifth, 31 December 1909
+Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED**  
+Source: `S-198`  
+Claims: The 31 December 1909 *Oregon City Courier* directly names **Ralph O. Smith** applying for a **six-month** liquor license at **the Palace Saloon, corner Main and Fifth Sts.** This extends Smith's directly documented Palace association beyond the 17 September 1909 three-month application. The source does not print 501, prove a license grant, property ownership, or uninterrupted operation between notices.  
+Confidence: **Very High** for applicant, trade name, intersection, date, and requested term; exact number, grant, title, and continuity unresolved.  
+Related record: `evidence/E-177-1909-12-31-ralph-o-smith-palace-saloon.md`
+
+## E-178 — E. R. Case applies at Palace Saloon, printed 510 Main, 17 June 1910
+Type: Primary newspaper liquor-license application plus municipal cross-reference; **VISUALLY VERIFIED** newspaper page  
+Sources: `S-199`; cross-reference `S-093` / `E-080`  
+Claims: The 17 June 1910 *Oregon City Courier* directly names **E. R. Case** applying for a three-month liquor license at **the Palace Saloon, 510 Main street**. The 1 June 1910 City Council record independently places **E. R. Case's saloon at Fifth and Main** with an adjoining restaurant. Together the sources strongly connect the same named operator/trade context, but the archive preserves the newspaper's exact `510` and does not normalize it to 501. Later Joe Wilson Palace evidence directly prints 501 in March 1912, while Pacific Telephone advertisements print 510 beginning in August 1910. The reason for the 510/501 and June/August 510 sequence is unresolved.  
+Confidence: **Very High** for the printed Case/Palace/510 application and the separate municipal Case/Fifth-Main statement; **Unresolved conflict** for how 510 relates to later 501 Palace and later 510 telephone occupancy.  
+Related record: `evidence/E-178-1910-06-17-er-case-palace-saloon-510-main.md`

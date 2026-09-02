@@ -331,3 +331,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Added `S-196` / `E-175`: William Andresen / H. C. Stevens 60x210 Main-to-Water property report and future brick-block plan, 11 Feb. 1910; no target-parcel or completed-construction assertion.
 - Added `S-197` / `E-176`: M. Justin at Mt. Hood Cafe, Fifth/Main, 18 Mar. 1910; created `BUS-086` while keeping Justin & Hitchman identity/continuity unresolved.
 - Added `RL-047` for the three resulting bridge questions. No annual completion-status change.
+
+### 2026-09-02 — Palace / Chicago / Freeze four-page steward integration
+- Followed startup protocol: synced current `main`, reread `AGENTS.md` and `RESEARCH-STANDARD.md`, reviewed relevant Palace/Chicago/Freeze checkpoints, and required archive validation before/after.
+- Reconciled four supplied newspaper PDFs by exact SHA-256 and preserved missing exact pages under canonical `newspapers/` paths.
+- Added `S-198` / `E-177` for Ralph O. Smith at Palace Saloon, Main/Fifth on 31 Dec. 1909.
+- Added `S-199` / `E-178` and `P-105` for E. R. Case at Palace Saloon, **printed 510 Main**, 17 Jun. 1910; retained the 510-vs-later-501 and later-510-telephone question as unresolved.
+- Extended existing `S-032` / `E-026` with the exact 14 Apr. 1911 Chicago Store 505 Main page.
+- Extended existing `S-035` / `E-028` with the exact 13 May 1921 Dr. Freeze 505 Main page; 20 May returns to 505½, reinforcing address-form uncertainty and the no-physical-layout-inference rule.
+- No annual completion status changed. Permanent audit: `evidence/source-captures/1909-1921-palace-chicago-freeze-steward-upload-reconciliation-2026-09-02.md`.

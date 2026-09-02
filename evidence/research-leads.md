@@ -280,3 +280,11 @@ New visually verified supplied pages create three focused bridge questions:
 1. **Albright → Sawyer → Strebig meat-business site:** locate licenses, directories, sale notices, deeds/leases, or other ads showing whether R. A. Sawyer's March 1907 “old stand” at Fifth/Main and Strebig's October 1907 “Albright's Old Stand” were the same room and whether Strebig acquired directly from Sawyer.
 2. **Justin & Hitchman → M. Justin / Mt. Hood Cafe:** identify the partners' given names and determine whether the M. Justin at Mt. Hood Cafe in March 1910 was one of them or a separate person/business; do not infer identity from surname/intersection alone.
 3. **Andresen / Stevens Main-to-Water property:** recover deed, assessment, plat, permit, or follow-up construction evidence identifying the 60x210 property and determining whether the announced frame-building removal and brick-block construction occurred. Do not assign it to 503/505 without a legal/property bridge.
+
+### RL-045 supplement — test the 1909–1910 Palace Smith→Case and 510 transition
+Use `S-198` / `E-177` and `S-199` / `E-178` to search City Council license grants, transfer/sale notices, directories, and exact-address advertising from **31 Dec. 1909 through Aug. 1910**. Determine:
+1. whether Smith's six-month Palace application was granted and when Smith exited;
+2. whether Case acquired/leased/operated the same Palace business or merely used the trade name;
+3. whether the printed **510 Main** can be independently corroborated;
+4. how Palace/Case at printed 510 relates chronologically and spatially to Pacific Telephone's repeated 510 Main advertisements beginning Aug. 1910.
+Preserve 510/501 as an unresolved conflict until direct evidence resolves it.

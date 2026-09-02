@@ -694,3 +694,31 @@ timeline:
     related_evidence: [E-176]
     related_sources: [S-197]
     related_businesses: [BUS-086]
+
+  - id: T-069
+    date: 31 December 1909
+    summary: Ralph O. Smith applies for a six-month liquor license at the Palace Saloon, corner Main and Fifth Sts.
+    confidence: Very High for visually verified applicant/trade-name/intersection/term; exact number, grant, title and uninterrupted continuity unresolved.
+    related_evidence: [E-177]
+    related_sources: [S-198]
+    related_people: [P-098]
+    related_businesses: [BUS-024]
+
+  - id: T-070
+    date: 17 June 1910
+    summary: E. R. Case applies for a three-month liquor license at the Palace Saloon, printed 510 Main street; separate 1 June Council evidence places Case's saloon at Fifth/Main.
+    confidence: Very High for direct printed wording; 510 relationship to later Palace 501 and later 1910 Pacific Telephone 510 remains unresolved.
+    related_evidence: [E-178, E-080]
+    related_sources: [S-199, S-093]
+    related_people: [P-105]
+    related_businesses: [BUS-024]
+
+  - id: T-071
+    date: 13 May 1921
+    summary: Dr. Freeze advertisement prints 505 Main St.; the 20 May advertisement returns to 505 1/2 Main.
+    confidence: Very High for visually verified printed address; physical room/floor/layout implication unresolved and not inferred.
+    related_evidence: [E-028]
+    related_sources: [S-035]
+    related_people: [P-027]
+    related_businesses: [BUS-021]
+    related_buildings: [B-002]
