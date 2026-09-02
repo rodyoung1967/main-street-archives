@@ -152,7 +152,7 @@ sources:
   - id: S-033
     name: City of Oregon City historic-resource record, 505 Main
     url: https://legacyorcity.teammunicode.com/planning/505-main-street
-    notes: Construction interpretation and directory entries. Related evidence E-032.
+    notes: Official secondary construction interpretation and directory synthesis. The page says the 1983 survey indicated c.1908 but concludes from Sanborn-map comparison that the surviving building was constructed sometime between 1911 and 1925, perhaps about 1920. Treat c.1908 as superseded for the surviving building and c.1920 as tentative secondary interpretation, not primary construction proof. Related evidence E-032.
 
   - id: S-034
     name: Oregon City Courier, 10 October 1918, Wolf and Miller

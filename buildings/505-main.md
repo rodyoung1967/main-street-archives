@@ -43,6 +43,15 @@ After Richard's death in November 2024, the **505 building passed to Rodney Youn
 
 The surviving 505 building has conflicting dates in City/consultant historic-resource work and must not yet be assigned a single definitive construction year.
 
+### Legacy City resource page — 1983 c.1908 date explicitly superseded
+
+The registered City historic-resource page (`S-033`) preserves an important survey correction. It says the **1983 survey indicated c.1908**, but the later City synthesis rejects that date for the surviving building: using Sanborn-map comparison, it places construction **sometime between 1911 and 1925**, with **about 1920** offered only as a possibility.
+
+This is official secondary evidence that **c.1908 should not be used as the construction date of the surviving 505 building**. It agrees with the project's independent visual conclusion that the pre-1925 address/business evidence must be separated from surviving-building fabric. The **1911–1925 bracket** is substantially stronger than the tentative c.1920 estimate, but it is still a secondary map-based conclusion; primary permit, assessment, deed, contractor, or construction-notice evidence is still needed to date the physical replacement precisely.
+
+Legacy City source:
+https://legacyorcity.teammunicode.com/planning/505-main-street
+
 ### 2000 City inventory — c.1920, now visually verified
 
 The **2000 Oregon City Downtown Final Report** has now been visually inspected at the relevant appendix page. The original page clearly lists:

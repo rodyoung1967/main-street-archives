@@ -581,9 +581,10 @@ evidence:
     claims:
       - City 503 record says little historic information was found and describes the building as apparently constructed circa 1919; this is an approximate historic-survey conclusion rather than primary construction proof.
       - The same 503 page attributes Wolf-family ownership roughly 1922-1972 to research conducted during the 1983 survey; the page itself is not deed proof of that ownership span.
-      - City 505 record reports 1916 directory silence, c.1920/1925 construction estimate, 1941 Dr. Roy Briggs, 1945 Harr's Recreation Center, and 1953 Well's Recreation.
+      - City 505 record says the 1983 survey indicated c.1908, but concludes from Sanborn-map comparison that the surviving building was constructed sometime between 1911 and 1925, perhaps about 1920; c.1908 is therefore superseded within the City's own later synthesis and c.1920 remains tentative secondary interpretation rather than primary construction proof.
+      - The same 505 page reports 1916 directory silence, 1941 Dr. Roy Briggs, 1945 Harr's Recreation Center, and 1953 Well's Recreation; directory silence is not proof of vacancy.
       - The 2009 Oregon Historic Site Form (S-116 / E-100) separately lists 505 Main with primary construction date 1940 and name line 505 Tavern, corroborating ODOT 1940 while leaving c.1920 synthesis and 1925 Sanborn use in tension.
-    confidence: High for what the City survey pages report and their stated provenance; Low-to-Moderate for treating c.1919 as the literal 503 construction year without primary construction records; underlying construction and title records remain preferable.
+    confidence: High for what the City survey pages report, including the explicit 505 rejection of the 1983 c.1908 date and the 1911-1925 Sanborn-derived bracket; Low-to-Moderate for treating c.1919 at 503 or c.1920 at 505 as literal construction years without primary construction records; underlying construction and title records remain preferable.
     related_sources:
       - S-026
       - S-033
