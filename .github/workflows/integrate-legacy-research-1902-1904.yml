@@ -1,0 +1,45 @@
+name: Integrate legacy 1902-1904 research branch
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-legacy-research-1902-1904.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main
+        run: git pull --rebase origin main
+
+      - name: Validate baseline archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Fetch legacy branch
+        run: git fetch origin research-1902-1903-courier:refs/remotes/origin/research-1902-1903-courier
+
+      - name: Consolidate branch-only research safely
+        run: python3 scripts/integrate_legacy_research_1902_1904.py
+
+      - name: Validate integrated archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --stat
+          git commit -m "Integrate legacy 1902-1904 branch research"
+          git pull --rebase origin main
+          git push origin HEAD:main
