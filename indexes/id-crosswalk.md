@@ -252,3 +252,9 @@ Follow-up finding aid: `S-158`, State Archives Clackamas County inventory, suppo
 | `S-159` / `IMG-0726` | PDF 4 embedded downtown aerial | Exposure date and target roof mapping unresolved; no new construction/removal event. |
 
 [Full review and original](../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md); 23/23 PDF pages visually verified, **1926 IN PROGRESS**.
+
+## 1919 Gilbert Miller residence / migration corroboration
+
+| Source / evidence | Person | Scope and limit |
+| --- | --- | --- |
+| `S-160` / `E-144` | `P-046` Gilbert Miller | Visually verified 11 July 1919 family residence at Ninth/Division and move-from-Springfield context. **No direct 505, Wolf & Miller partner, property, or construction relationship assigned.** |

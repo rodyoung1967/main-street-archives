@@ -2286,3 +2286,15 @@ evidence:
     related_businesses: []
     related_people: []
     repository_file: evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md
+
+  - id: E-144
+    name: Gilbert Miller family at Ninth and Division, July 1919
+    type: Primary newspaper social item; visually verified
+    claims:
+      - On 11 July 1919 the Oregon City Enterprise identified Mr. and Mrs. Gilbert Miller at Ninth and Division streets.
+      - The same item reported that their daughter had come to Oregon City with her parents from Springfield about a year earlier, corroborating the broader 1918 family-relocation chronology.
+      - The item does not name Wolf & Miller, identify Gilbert as the directly named 505 partner, resolve the C. E. Miller / Gilbert Miller discrepancy, or report target-building ownership, tenancy, demolition, rebuilding, enlargement, or remodeling.
+    confidence: Very High for the printed residence and family-relocation report; business-partner identity, 505 relationship, and construction implications remain unresolved.
+    related_sources: [S-160]
+    related_people: [P-046]
+    repository_file: evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md

@@ -17,3 +17,9 @@ The 1918 Wolf & Miller advertisement places the firm at 505 Main, but does not n
 The compiled genealogy's Clara Rose Wolf marriage is still a secondary lead. Neither Wolf's given name, the Idaho-bound partner, S. Wolf's identity, nor a Wolf-family property relationship is established by the new notice.
 
 See [Tasks 5–6 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md), [1918–1922 follow-up](../../evidence/source-captures/1918-1922-wolf-miller-followup.md), and [Springfield chronology](../../evidence/source-captures/wolf-miller-springfield-1915-1918-chronology.md).
+
+## July 1919 residence and family-relocation corroboration
+
+`S-160` / `E-144` visually verifies the 11 July 1919 *Oregon City Enterprise* society item naming Mr. and Mrs. Gilbert Miller at **Ninth and Division streets** and reporting that their daughter came to Oregon City with her parents from Springfield about a year earlier. This materially corroborates the already documented 1918 Springfield→Oregon City family-move chronology.
+
+It remains **identity/residence context only**. The article does not name Wolf & Miller or 505 Main, so it does not turn the strong Gilbert-Miller continuity inference into a direct 505 partner identification and does not erase the genuine `C. E. Miller` wording in the August 1918 *Eugene Daily Guard*.

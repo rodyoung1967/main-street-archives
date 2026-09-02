@@ -361,3 +361,7 @@ Richard / Dick Wiitanen died in November 2024. Family history says 505 Main pass
 
 ## July 1, 2025-June 30, 2030
 The 2025 lease documents 505 LLC as lessor and **Alin Guria** as lessee for 505 Main. Project-steward clarification confirms Alin is also the current operating-business owner; earlier **Alan** wording was a typo. The 505 real estate remains separately owned through 505 LLC.
+
+### 11 July 1919 — Gilbert Miller family residence corroboration (context only)
+
+A visually inspected *Oregon City Enterprise* society item identifies Mr. and Mrs. **Gilbert Miller at Ninth and Division streets** and reports that their daughter came to Oregon City with her parents from Springfield about a year earlier (`E-144` / `S-160`). This corroborates the broader 1918 Miller-family relocation chronology. It does **not** name Wolf & Miller, place Gilbert at 505 Main, resolve the C. E. Miller discrepancy, or date any construction at 501/503/505. This late-added context paragraph is cross-linked from the chronologically ordered 505 address timeline; no physical-building continuity is inferred.

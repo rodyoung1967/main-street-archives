@@ -15,7 +15,7 @@ def append_once(path, marker, block):
     text = read(path)
     if marker in text:
         return
-    write(path, text.rstrip() + "\n\n" + block.strip() + "\n")
+    write(path, text.rstrip() + "\n\n" + block.strip("\n") + "\n")
 
 
 def insert_before(path, anchor, marker, block):
@@ -24,7 +24,7 @@ def insert_before(path, anchor, marker, block):
         return
     if anchor not in text:
         raise RuntimeError(f"Anchor not found in {path}: {anchor[:80]!r}")
-    write(path, text.replace(anchor, block.strip() + "\n\n" + anchor, 1))
+    write(path, text.replace(anchor, block.strip("\n") + "\n\n" + anchor, 1))
 
 
 def replace_once(path, old, new, marker=None):

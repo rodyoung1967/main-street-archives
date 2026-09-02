@@ -1190,3 +1190,13 @@ Claims:
 - The health narrative says all city restaurants were inspected, but supplies no names, dates, addresses or returns. Its actual printed page is 19, not the index's 18.
 - A health-budget line labeled Clackamas Co. shows $480 budgeted and expended. A city–county health arrangement is a research inference to test through agreements/vouchers, not a proved inspection contract or custody transfer.
 Confidence: **Very High** for stated amounts and narrative; underlying records, accounting reconciliation and target occupants unresolved. No business, building, person or construction event assigned.
+
+## E-144 — Gilbert Miller family at Ninth and Division, July 1919
+Type: Primary newspaper social item; **VISUALLY VERIFIED** 1 September 2026.  
+Source: `S-160`.  
+Repository source capture: `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`.  
+Claims:
+- On 11 July 1919 the *Oregon City Enterprise* identified Mr. and Mrs. **Gilbert Miller** at **Ninth and Division streets**.
+- The same item reported that their daughter had come to Oregon City with her parents from **Springfield, Oregon, about a year earlier**, corroborating the broader 1918 family-relocation chronology.
+- The item does **not** name Wolf & Miller, identify Gilbert as the directly named 505 partner, resolve the contemporary C. E. Miller / Gilbert Miller discrepancy, or report target-building ownership, tenancy, demolition, rebuilding, enlargement, or remodeling.
+Confidence: **Very High** for the printed residence and family-relocation report; business-partner identity, 505 relationship, and construction implications remain unresolved.

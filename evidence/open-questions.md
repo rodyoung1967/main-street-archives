@@ -17,6 +17,8 @@ Status: **Unresolved.** Official inventories give **c.1920** (`E-032` / `S-033`)
 
 **31 August 2026 update:** `E-135` / `S-150` now visually establishes **A. Leland's 505½ Main pool-hall permit/use anchor by June 1920**. This strengthens exact-address occupancy around the c.1920 inventory estimate but does **not** prove that the surviving building was erected in 1920. The underlying 2 June 1920 Commission minutes remain a retrieval/manual follow-up.
 
+**1 September 2026 targeted 1919–1920 online closeout:** `S-160` / `E-144` now visually verifies the Gilbert Miller family-relocation/residence lead, but it is identity context only and does not change the 503/505 construction-date questions. The exact 2 June 1920 Commission scan was not recovered through the current public/indexed routes; the 1919–1920 Polk images still require authenticated scan access; and the 1920 assessment roll, Harding/Wolf/Gates deed chain, and OHS Block 4 abstract remain underlying-record/manual tasks. No absence inference was made. See `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md`.
+
 ## OQ-003 — 505 Rear Addition
 Was the rear portion of 505 Main Street added later? If yes, when, by whom, and under what permit or assessor change?
 

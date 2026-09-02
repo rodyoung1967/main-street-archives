@@ -44,3 +44,7 @@ The strongest exact-number 1920 fact remains the visually verified 505½ pool-ha
 3. Inspect the **Banner-Courier** microfilm from 17 July 1919 through December 1920.
 4. Retrieve 1919–1922 assessment/tax/deed/improvement records for original Block 4 Lots 3–4 and the Harding property chain.
 5. Visually verify the 11 July 1919 Gilbert Miller family-relocation page if the identity chronology is pursued further.
+
+## 1 September 2026 visual follow-up on candidate 7
+
+Candidate **#7, 11 July 1919 p. 5**, has now been visually inspected on the actual *Oregon City Enterprise* scan and promoted from OCR-only to `S-160` / `E-144`. The page confirms Gilbert Miller family residence/migration context described in the original triage. It does **not** name Wolf & Miller, 505/505½, property ownership, or construction. All other dispositions in this 31 August triage remain unchanged; the 18-page triage itself was not repeated.

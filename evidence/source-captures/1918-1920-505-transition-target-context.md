@@ -94,3 +94,6 @@ Groups: 505_main, a_leland, lease_move, leland
 
 yn as wau-r commlsHioner by a unanimous vote. Granted permlslon to the American legion to put on a four day carnival from Tuesday, June 8, to Saturday, June 11. Th? application of A. Leland to op crate a pool haill at 505'4 Main street and It ere; an electric Htreet sign was granted. Went on record a favoring the routluast comer of McLoughlln par!: at Seventh" and Center street as the best location for the new city hall, subject to a decision, ofrthe citizen at a meeting called for Wednesday even l iiT. Junf- 9, at 7:30 o'clock. On motion of O. D. Eby extended a vote of thank to Chief Seiler a
 
+## 1 September 2026 status change for candidate 7
+
+The OCR excerpt for **1919-07-11 p. 5** above is no longer an unverified lead. The actual scanned page was visually inspected on 1 September 2026 and registered as `S-160` / `E-144`. It verifies Gilbert Miller family residence/migration context only; no 505 business, property, or construction relationship is promoted from it. See `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`.

@@ -324,3 +324,9 @@ The canonical status and blockers are maintained in [registers/year-status.md](r
 ## Uploaded Courier pages: 1907–1908
 
 [Visual review](evidence/source-captures/1907-1908-surber-justin-main-visual-review.md) registers S-135–S-137/E-121–E-123 and preserves all 3 supplied PDFs. Surber at exact501 on4 October 1907; Justin & Hitchman at unnumbered Fifth/Main in December 1907 and September 1908, with a separate Surber notice on the 1908 page. Additional numbered Main anchors and relative-location businesses are indexed; no new503/505 assignment. Lead RL-045; question OQ-032.
+
+## 1919–1920 targeted construction/occupancy closeout — 1 September 2026
+
+- [Targeted online closeout](evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md): ordinary public/indexed paths for the specific 1919–1920 501/503/505 construction/occupancy question were worked to either a verified result or a documented authenticated/manual boundary. Annual 1919/1920 statuses remain **IN PROGRESS**.
+- [Gilbert Miller visual review](evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md): `S-160` / `E-144` upgrades the July 1919 lead to visually verified family residence/migration context only. It is **not** direct 505 occupancy or construction evidence.
+- Outstanding authenticated/manual targets are the 2 June 1920 Commission scan, 1919–1920 Polk directory scans, Banner-Courier microfilm, 1920 assessment/tax roll, Harding/Wolf/Gates deed chain, OHS MSS 1503 Block 4 abstract, and any surviving pre-2002 City permit/improvement files.

@@ -241,3 +241,7 @@ E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pa
 ## 1916 monthly review coverage — E-119/S-133
 
 Seven complete first-monthly Courier issues June–December add 58 visually inspected pages. No new exact occupant or target-frontage demolition/rebuild is established; this is not vacancy or absence evidence. Nearby 108 Fifth, Andresen 619 and the proposed Hawley mill unit retain their separate location limits. [Findings and remaining issues](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
+
+### July 1919 Gilbert Miller context — no construction implication
+
+`S-160` / `E-144` visually verifies a July 1919 society item placing the Gilbert Miller household at Ninth and Division and reporting the family's move from Springfield about a year earlier. It strengthens Gilbert Miller's Oregon City identity chronology but contains **no 505/505½ address, Wolf & Miller business wording, building ownership, tenancy, or construction statement**. It therefore does not change the construction-date assessment for the surviving 505 building.

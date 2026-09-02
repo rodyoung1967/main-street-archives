@@ -63,3 +63,11 @@ Once image access is available, inspect the Oregon City section and any business
 - Post Office and Fifth–Sixth Main relative-location clues.
 
 Do not infer vacancy from an omitted listing and do not merge similarly named people without an independent bridge.
+
+## 1 September 2026 closeout continuation
+
+The migrated Laserfiche folder path documented above remains the correct public-catalog direction, but the **exact 2 June 1920 minute scan was not recovered or visually inspected** in this continuation after additional exact-date/name/indexed searches. Preserve the record as a retrieval/manual gap; do not describe the minutes as nonexistent.
+
+The exact 1919–1920 FamilySearch starting ARKs were also retried. The current session did not expose authenticated page images, and no alternate public scan of the target edition was recovered. Therefore **no directory listing from the 1919–1920 edition is asserted**. Authenticated FamilySearch review remains a manual/user-assisted callout.
+
+The combined public-online/access-boundary checkpoint, including property-record callouts, is `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md`.

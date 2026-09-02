@@ -1109,3 +1109,11 @@ Transmittal: January 25, 1927; printer credit Oregon City Enterprise. No target 
 Evidence: `E-142` fire calls; `E-143` health/licensing context. Embedded aerial: `IMG-0726`, PDF 4, exposure date and target roof mapping unresolved.
 Review and numbered manual follow-ups: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`; per-page audit: `evidence/source-captures/1926-municipal-report-page-review-2026-09-01.json`.
 Limits: No named 501/503/505 occupant or target reconstruction identified. Fifth/Main November 11 call is a false alarm; September 20 Sixth/Main damage has no numbered premises. Restaurant inspections and county-labeled health payment identify retrieval leads, not present record custody. Original downloaded independently of the blocked Laserfiche route and retained unchanged.
+
+## S-160 — Oregon City Enterprise, 11 July 1919, p. 5, Gilbert Miller family relocation
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026.  
+Source/location: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5/  
+PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5.pdf  
+Related evidence: `E-144`  
+Repository source capture: `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`  
+Notes: Society item identifies Mr. and Mrs. Gilbert Miller at Ninth and Division streets and reports that their daughter came to Oregon City with her parents from Springfield about a year earlier. Corroborates family migration/residence chronology only; does not name Wolf & Miller, place Gilbert at 505/505½, resolve the C. E. Miller discrepancy, or report construction. Remote scan visually inspected; binary mirroring remains under `RL-021`.
