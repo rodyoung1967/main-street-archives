@@ -42,7 +42,7 @@ jobs:
           new2 = "pattern.sub(block.rstrip() + '\\n\\n', text, count=1)"
           if old1 not in s or old2 not in s:
               raise SystemExit('serializer patterns not found')
-          s = s.replace(old1, new1, 1).replace(old2, new2, 1)
+          s = s.replace(old1, new1).replace(old2, new2)
           p.write_text(s, encoding='utf-8')
           PY
       - name: Preserve exact PDFs and integrate records
