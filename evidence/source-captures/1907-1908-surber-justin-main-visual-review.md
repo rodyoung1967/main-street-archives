@@ -89,3 +89,12 @@ Queries used Surber, A. J. Surber, Justin & Hitchman, Hitchman, saloon, Palace, 
 The authoritative remote checkpoint at review start was **021d473405ee5657868a563a73637813bb64ebd4**. Work was isolated from an unrelated local main commit. Recent repository corrections control over older chat summaries: the odd-numbered target frontage is **original Block4**, not Block26; original Block26 lies across Main, with 504 Main/Lot5 context. No new cadastral proof was obtained here. Current 1922 model testing selects neither simple Gates/Wolf frontage model, and 501 remains live.
 
 All three supplied pages are now reviewed and integrated. Do not redo the earlier completed March 1912/October 1913 review or claim this task recovered Ordinance357. The next bounded search from this upload is **the 1907–1908 license/municipal bridge between Surber, Justin & Hitchman and exact corners**, with the October 11 page as a specific retrieval gap. Stop after saving/validating/publishing this review; other annual passes and the separate numbering-plan investigation retain their own checkpoints.
+
+## 2 September 2026 supplied-page addendum
+
+Two steward-supplied pages sharpen the 1907–1908 sequence:
+
+- **1 March 1907 (`S-194` / `E-173`)** — R. A. Sawyer says he purchased Charles Albright's meat business and continues at the old stand, **5th and Main Sts.** No number. This adds a predecessor-site bridge to the 4 October Strebig “Albright's Old Stand” advertisement without proving Sawyer→Strebig succession.
+- **20 March 1908 (`S-195` / `E-174`)** — Justin & Hitchman and A. J. Surber separately apply for six-month liquor licenses at **Fifth/Main** on the same page. Neither notice prints a number. This strengthens the chronology between December 1907 and September 1908 but does not establish same room, succession, or exact-501 continuity.
+
+The supplied **4 October 1907 Surber** page was also reconciled against existing `S-135` / `E-121`; it remains the direct exact **No. 501** anchor and is not duplicated under a new source ID.

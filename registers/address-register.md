@@ -77,3 +77,13 @@ E-116/S-130, [page ledger](../evidence/source-captures/1916-courier-pages-106-18
 | Stevens Building, Main Street (18 September 1908); no number | Gordon E. Hayes (`BUS-061`) | E-123 | Office used as claims-delivery location in an estate notice; no numbered office or property ownership established. |
 | Main Street near Eighth (18 September 1908); no number | Straight & Salisbury (`BUS-062`) | E-123 | Printed business and relative location verified; no exact target address or property title inferred. |
 | Main Street (18 September 1908) | Schrader's Bakery (BUS-063) | E-123 | No exact number; Main33 is telephone, not street number. |
+
+## 2 September 2026 — 1907–1910 supplied-page address additions
+
+| Printed location | Date | Named person/business | Classification / limit |
+| --- | --- | --- | --- |
+| Fifth/Main; no number | 1 Mar. 1907 | R. A. Sawyer, successor to Charles Albright meat business | Direct visually verified intersection/business-succession wording (`E-173`); no 501/503/505 assignment. |
+| Main/Fifth, **No. 501** | 4 Oct. 1907 | A. J. Surber | Existing exact-number anchor (`E-121`); supplied PDF derivative deduplicated under `S-135`. |
+| Fifth/Main; no number | 20 Mar. 1908 | Justin & Hitchman; separately A. J. Surber | Direct visually verified intersection applications (`E-174`); no same-room/501 continuity inference. |
+| Main and Water frontage; 60x210 ft; no number/legal description | 11 Feb. 1910 | William Andresen / H. C. Stevens property interests | Direct reported property description (`E-175`); unassigned to target parcels. |
+| Fifth/Main; no number | 18 Mar. 1910 | M. Justin, Mt. Hood Cafe | Direct visually verified trade-name/intersection notice (`E-176`); no 501/503/505 assignment. |

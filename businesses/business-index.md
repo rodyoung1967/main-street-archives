@@ -135,3 +135,10 @@ These records were already part of the evidence narrative but previously lacked 
 `BUS-070` now has direct **W. W. Pollock** association on 1 September 1916 (`E-164` / `S-184`) and a reported **Guy Proffit** business interest on 19 November 1920 (`E-165` / `S-185`). Neither record proves the exact numbered premises, property title, partnership percentage, or uninterrupted succession.
 
 | BUS-084 | [JAGERS](jagers.md) | 503 Main | Exact 18 Oct. 1940 *Amplifier* ad: “Cozy place for A Tasty Pickup.” Same-address/name relationship to J. Jager / New Kwality Cafe remains unresolved; not merged. `E-172` / `S-193`. |
+
+## 2 September 2026 Sawyer / Mt. Hood Cafe steward-page additions
+
+| ID | Business Name | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-085 | [R. A. Sawyer meat business](r-a-sawyer-meat-business.md) | Fifth/Main; no number | 1 Mar. 1907 Sawyer says he purchased Charles Albright's meat business and continues at the old stand; direct predecessor wording. Later Strebig “Albright's Old Stand” is a site-chain clue, not a proved Sawyer→Strebig transfer. `E-173` / `S-194`. |
+| BUS-086 | [Mt. Hood Cafe](mt-hood-cafe.md) | Fifth/Main; no number | 18 Mar. 1910 M. Justin liquor-license application directly names the Mt. Hood Cafe at Fifth/Main. Relationship to Justin & Hitchman unresolved. `E-176` / `S-197`. |

@@ -322,3 +322,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved and visually certified the 25 Dec. 1913 *Courier* Chicago Store fire page as `S-192` / `E-171`; the report directly names George Harding as building owner, while 505 remains a cross-source inference.
 - Preserved the 18 Oct. 1940 *Amplifier* JAGERS ad as `S-193` / `E-172` and created separate `BUS-084`; direct exact 503 Main, but no automatic J. Jager/New Kwality merge.
 - Permanent audit: `evidence/source-captures/1907-1940-steward-upload-reconciliation-2026-09-02.md`. No annual completion-status change.
+
+### 2026-09-02 — Reconcile 1907–1910 Fifth/Main steward uploads
+- Reconciled five steward-supplied newspaper page PDFs to canonical Oregon Digital issue/page routes and preserved upload-vs-repository SHA-256 provenance.
+- Kept the 4 Oct. 1907 Surber page under existing `S-135` / `E-121` rather than creating a duplicate historical source for a different PDF encoding.
+- Added `S-194` / `E-173`: R. A. Sawyer succeeds Charles Albright's meat business at Fifth/Main, 1 Mar. 1907; created descriptive `BUS-085` and linked the later Strebig “Albright's Old Stand” clue without asserting direct succession.
+- Added `S-195` / `E-174`: separate Justin & Hitchman and Surber Fifth/Main applications, 20 Mar. 1908; no exact-number/same-room inference.
+- Added `S-196` / `E-175`: William Andresen / H. C. Stevens 60x210 Main-to-Water property report and future brick-block plan, 11 Feb. 1910; no target-parcel or completed-construction assertion.
+- Added `S-197` / `E-176`: M. Justin at Mt. Hood Cafe, Fifth/Main, 18 Mar. 1910; created `BUS-086` while keeping Justin & Hitchman identity/continuity unresolved.
+- Added `RL-047` for the three resulting bridge questions. No annual completion-status change.

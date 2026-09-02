@@ -1071,3 +1071,19 @@ businesses:
     related_buildings: [B-001]
     related_evidence: [E-172]
     related_sources: [S-193]
+
+  - id: BUS-085
+    name: R. A. Sawyer meat business
+    repository_file: businesses/r-a-sawyer-meat-business.md
+    address: Fifth/Main; no number
+    notes: Descriptive archive label. 1 Mar. 1907 Sawyer says he purchased Charles Albright's meat business and continues at the old stand. Later Strebig 'Albright's Old Stand' is a site-chain clue, not a proved direct transfer.
+    related_evidence: [E-173]
+    related_sources: [S-194]
+
+  - id: BUS-086
+    name: Mt. Hood Cafe
+    repository_file: businesses/mt-hood-cafe.md
+    address: Fifth/Main; no number
+    notes: 18 Mar. 1910 M. Justin liquor-license application names Mt. Hood Cafe at Fifth/Main. Relationship to Justin & Hitchman remains unresolved.
+    related_evidence: [E-176]
+    related_sources: [S-197]

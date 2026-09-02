@@ -654,3 +654,43 @@ timeline:
     related_sources: [S-193]
     related_businesses: [BUS-084]
     related_buildings: [B-001]
+
+  - id: T-065
+    date: 1 March 1907
+    summary: >-
+      R. A. Sawyer advertises that he purchased Charles Albright's meat business, will continue at the old stand, and gives Fifth/Main; later Strebig 'Albright's Old Stand' is a site-chain clue only.
+    confidence: >-
+      Very High for printed succession and Fifth/Main; no number/title or direct Sawyer-to-Strebig transfer.
+    related_evidence: [E-173]
+    related_sources: [S-194]
+    related_businesses: [BUS-085, BUS-047]
+
+  - id: T-066
+    date: 20 March 1908
+    summary: >-
+      Justin & Hitchman and A. J. Surber separately apply for six-month liquor licenses at the corner of Fifth/Main on the same Courier page.
+    confidence: >-
+      Very High for separate applications/intersection wording; neither notice prints 501, a trade name, grant, same-room relationship, or succession.
+    related_evidence: [E-174]
+    related_sources: [S-195]
+    related_businesses: [BUS-046, BUS-045]
+
+  - id: T-067
+    date: 11 February 1910
+    summary: >-
+      Courier reports William Andresen took one-half interest and H. C. Stevens owned the other half in a 60x210 Main-to-Water property; a Main-front frame building was planned for removal and replacement by a brick block.
+    confidence: >-
+      Very High for printed report; no number/legal description and future construction is not completed-work proof.
+    related_evidence: [E-175]
+    related_sources: [S-196]
+    related_businesses: [BUS-041]
+
+  - id: T-068
+    date: 18 March 1910
+    summary: >-
+      M. Justin applies for a three-month liquor license at the Mt. Hood Cafe, Fifth/Main.
+    confidence: >-
+      Very High for applicant/trade name/intersection; number, grant, ownership, and relationship to Justin & Hitchman unresolved.
+    related_evidence: [E-176]
+    related_sources: [S-197]
+    related_businesses: [BUS-086]

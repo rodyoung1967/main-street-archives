@@ -1486,3 +1486,35 @@ Sources: `S-193`
 Claims: A visually verified 18 October 1940 *Amplifier* advertisement directly prints **JAGERS** and **503 Main St. Oregon City**, describing it as a “Cozy place for A Tasty Pickup.” This establishes the printed business/trade style, exact address, and refreshment-oriented advertising context on that date. The ad does not print J. Jager, New Kwality Cafe, proprietor, ownership, or legal-entity wording. The same-address/name resemblance to P-003 / BUS-002 is a research bridge only and is not an identity or renaming conclusion.  
 Confidence: **Very High** for the printed JAGERS name/address/ad wording; relationship to J. Jager / New Kwality Cafe unresolved.  
 Related record: `evidence/E-172-1940-jagers-503-main.md`
+
+## E-173 — R. A. Sawyer succeeds Charles Albright meat business at Fifth/Main, 1 March 1907
+Type: Primary newspaper advertisement  
+Source: `S-194`  
+Claims: R. A. Sawyer directly states that he purchased Charles Albright's meat business, will continue at the old stand, and gives 5th and Main Sts., Oregon City; the ad labels Sawyer successor to Charles Albright. A separate October 1907 Strebig ad later uses “Albright's Old Stand” at the same intersection, providing a location-chain clue but not proof of a Sawyer→Strebig transaction.  
+Confidence: **Very High** for Sawyer/Albright business succession wording and Fifth/Main location by 1 March 1907; exact number, property title, exact sale date, and Sawyer→Strebig succession unresolved.  
+Related businesses: `BUS-085`, `BUS-047`.  
+Related record: `evidence/E-173-1907-sawyer-albright-meat-fifth-main.md`
+
+## E-174 — Justin & Hitchman and A. J. Surber separately apply at Fifth/Main, 20 March 1908
+Type: Primary newspaper liquor-license notices  
+Source: `S-195`  
+Claims: The same visually verified page prints separate six-month liquor-license applications for Justin & Hitchman and A. J. Surber, each describing a place of business at the corner of Fifth and Main streets. Neither March notice prints 501 or a trade name.  
+Confidence: **Very High** for the two separate applications and intersection wording; exact room/number, relationship between premises, succession, license grant, and property ownership unresolved.  
+Related businesses: `BUS-046`, `BUS-045`. Cross-reference `E-121`, `E-122`, `E-123`.  
+Related record: `evidence/E-174-1908-justin-hitchman-surber-fifth-main.md`
+
+## E-175 — William Andresen / H. C. Stevens Main-to-Water property and planned brick block, 11 February 1910
+Type: Primary newspaper property report  
+Source: `S-196`  
+Claims: The report says William Andresen of Burmeister & Andresen took a one-half interest in a central business property, the other half being owned by H. C. Stevens; describes it as 60x210 feet fronting Main and Water and running through the block; notes two dwellings on the Water side; and says the Main-front frame building would soon be removed and a brick block constructed when weather permitted.  
+Confidence: **Very High** for the printed ownership/property-description/future-plan wording; exact parcel/address, firm versus individual ownership, completed demolition, and completed brick construction unresolved.  
+Contextual business: `BUS-041`.  
+Related record: `evidence/E-175-1910-andresen-stevens-main-water-property.md`
+
+## E-176 — M. Justin at Mt. Hood Cafe, Fifth/Main, 18 March 1910
+Type: Primary newspaper liquor-license notice  
+Source: `S-197`  
+Claims: M. Justin directly applies for a three-month liquor license at the Mt. Hood Cafe, 5th and Main streets.  
+Confidence: **Very High** for applicant, trade name, intersection, and application period; street number, license grant, ownership, and M. Justin's relationship to Justin & Hitchman unresolved.  
+Related business: `BUS-086`; cross-reference `BUS-046`.  
+Related record: `evidence/E-176-1910-m-justin-mt-hood-cafe.md`

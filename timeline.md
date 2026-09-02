@@ -429,3 +429,13 @@ A visually verified **18 October 1940** *Amplifier* advertisement directly print
 
 ### 1913 Chicago Store fire visual-certification update — 2 September 2026
 The 25 December 1913 *Courier* front page is now physically preserved and **VISUALLY VERIFIED** (`S-192` / `E-171`). It says the Chicago clothing store on Main Street south of the postoffice was gutted and **the building was owned by George Harding**. The article itself does not print 505 Main; the 505 mapping remains a strong cross-source inference from independent exact-address Chicago Store advertising.
+
+## 1907 — Sawyer succeeds Albright meat business at Fifth/Main
+On **1 March 1907**, R. A. Sawyer directly advertised that he had purchased **Charles Albright's meat business**, would continue at **the old stand**, and gave **5th and Main Sts.** (`S-194` / `E-173`; `BUS-085`). On **4 October**, Strebig advertised fresh meats at **Albright's Old Stand** at the same intersection (`E-123`; `BUS-047`). The shared Albright-site wording supports a location-chain lead but does not prove a direct Sawyer→Strebig transfer, exact room, or numbered address.
+
+On **20 March 1908**, Justin & Hitchman and A. J. Surber separately applied at the corner of Fifth/Main on the same page (`S-195` / `E-174`). Neither notice prints 501 or a trade name, so Surber's exact-501 anchor remains 4 October 1907 and no same-room/succession claim is made.
+
+## 1910 — Main/Water property article and Mt. Hood Cafe at Fifth/Main
+On **11 February 1910**, the *Courier* reported that William Andresen took one-half interest and H. C. Stevens owned the other half in a **60×210-foot** property fronting Main and Water; two dwellings were on the Water side, while a Main-front frame building was planned for removal and replacement by a brick block (`S-196` / `E-175`). No number/legal description is printed and the planned construction is not treated as completed work or assigned to 503/505.
+
+On **18 March 1910**, **M. Justin** applied for a liquor license at **the Mt. Hood Cafe, Fifth and Main streets** (`S-197` / `E-176`; `BUS-086`). No number or grant is printed, and M. Justin is not automatically identified as a member of Justin & Hitchman.

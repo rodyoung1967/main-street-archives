@@ -2647,3 +2647,52 @@ evidence:
     related_businesses: [BUS-084]
     related_buildings: [B-001]
     repository_file: evidence/E-172-1940-jagers-503-main.md
+
+  - id: E-173
+    name: R. A. Sawyer succeeds Charles Albright meat business at Fifth/Main, 1 March 1907
+    type: Primary newspaper advertisement
+    claims:
+      - R. A. Sawyer states that he purchased Charles Albright's meat business, will continue at the old stand, and gives Fifth/Main; the ad labels Sawyer successor to Charles Albright.
+      - The later Strebig wording 'Albright's Old Stand' at the same intersection is a location-chain clue, not proof of a direct Sawyer-to-Strebig transaction.
+    confidence: >-
+      Very High for printed succession/location wording; exact number, title, exact sale date, and Sawyer-to-Strebig succession unresolved.
+    related_sources: [S-194]
+    related_businesses: [BUS-085, BUS-047]
+    repository_file: evidence/E-173-1907-sawyer-albright-meat-fifth-main.md
+
+  - id: E-174
+    name: Justin & Hitchman and A. J. Surber separately apply at Fifth/Main, 20 March 1908
+    type: Primary newspaper liquor-license notices
+    claims:
+      - The same page separately lists Justin & Hitchman and A. J. Surber applying for six-month liquor licenses at the corner of Fifth/Main.
+      - Neither March notice prints 501 or a trade name; same intersection does not prove same room, succession, grant, or ownership.
+    confidence: >-
+      Very High for the separate applications and intersection wording; exact premises and relationship unresolved.
+    related_sources: [S-195]
+    related_businesses: [BUS-046, BUS-045]
+    repository_file: evidence/E-174-1908-justin-hitchman-surber-fifth-main.md
+
+  - id: E-175
+    name: William Andresen / H. C. Stevens Main-to-Water property and planned brick block, 11 February 1910
+    type: Primary newspaper property report
+    claims:
+      - William Andresen reportedly took a one-half interest and H. C. Stevens owned the other half in a 60x210-foot property fronting Main and Water and running through the block.
+      - The report notes two Water-side dwellings and says the Main-front frame building would soon be removed and a brick block constructed when weather permitted.
+      - No number, block, lot, legal description, or completed-construction proof is supplied.
+    confidence: >-
+      Very High for printed ownership/property-description/future-plan wording; parcel identity and completed work unresolved.
+    related_sources: [S-196]
+    related_businesses: [BUS-041]
+    repository_file: evidence/E-175-1910-andresen-stevens-main-water-property.md
+
+  - id: E-176
+    name: M. Justin at Mt. Hood Cafe, Fifth/Main, 18 March 1910
+    type: Primary newspaper liquor-license notice
+    claims:
+      - M. Justin applies for a three-month liquor license at the Mt. Hood Cafe, Fifth/Main.
+      - The notice does not print a number, prove grant/ownership, or identify M. Justin as a member of Justin & Hitchman.
+    confidence: >-
+      Very High for applicant/trade-name/intersection wording; exact number, grant, ownership, and Justin identity relationship unresolved.
+    related_sources: [S-197]
+    related_businesses: [BUS-086]
+    repository_file: evidence/E-176-1910-m-justin-mt-hood-cafe.md

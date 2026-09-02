@@ -1387,3 +1387,35 @@ Original uploaded filename: `503 Main (Jagers) The amplifier., October 18, 1940,
 Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
 Related evidence: `E-172`; related business `BUS-084`; address `B-001`.  
 Notes: Page-three advertisement reads **JAGERS**, “Cozy place for A Tasty Pickup,” **503 Main St. Oregon City**. It does not identify J. Jager, New Kwality Cafe, a proprietor, property ownership, or a legal entity. Same-address/name resemblance to existing J. Jager/New Kwality evidence is retained as a research bridge only. SHA-256 `fead077f125cc8bc3e7bf551dfe09102a04ecebc8ee39f1daf4ed34abfc74b20`.
+
+## S-194 — Oregon City Courier, 1 March 1907, R. A. Sawyer succeeds Charles Albright meat business at Fifth/Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-03-01/ed-1/seq-5.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1907-03-01-page-5-sawyer-albright-meat-fifth-main.pdf`  
+Original uploaded filename: `5th & Main (Meat Business) Oregon City courier., March 01, 1907, Page 5, Image 5.pdf`  
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
+Related evidence: `E-173`; related businesses `BUS-085`, `BUS-047`.  
+Notes: R. A. Sawyer says he purchased Charles Albright's meat business, will continue at the old stand, and prints 5th and Main Sts.; the ad labels him successor to Charles Albright. No street number, deed, building owner, exact sale date, or 501/503/505 mapping. Repository canonical SHA-256 `5a55f5ce3439f41c5bd71f57c71228520943f40634b3a1c389d589efcd41bd19`; supplied upload SHA-256 `5a55f5ce3439f41c5bd71f57c71228520943f40634b3a1c389d589efcd41bd19`.
+
+## S-195 — Oregon City Courier, 20 March 1908, Justin & Hitchman and A. J. Surber at Fifth/Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-03-20/ed-1/seq-7.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-03-20-seq-07.pdf`  
+Original uploaded filename: `5th & Main (Justin & Hitchman) Oregon City courier., March 20, 1908, Page 7, Image 7.pdf`  
+Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.  
+Related evidence: `E-174`; cross-reference `E-121`, `E-122`, `E-123`.  
+Notes: Separate six-month applications by Justin & Hitchman and A. J. Surber each say corner Fifth/Main. Neither prints 501 or a trade name; same intersection does not establish same room, succession, grant, or ownership. Repository canonical SHA-256 `93d82bbfb2de38cd6b8a96500353907e8316e4ed4e48c1e6b6ef36a70e306761`; supplied upload SHA-256 `93d82bbfb2de38cd6b8a96500353907e8316e4ed4e48c1e6b6ef36a70e306761`.
+
+## S-196 — Oregon City Courier, 11 February 1910, William Andresen / H. C. Stevens Main-to-Water property article
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-02-11/ed-1/seq-1.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1910-02-11-page-1-andresen-stevens-main-water-property.pdf`  
+Original uploaded filename: `Main & Water Oregon City courier., February 11, 1910, Image 1.pdf`  
+Type: Primary newspaper property report; **VISUALLY VERIFIED**.  
+Related evidence: `E-175`; contextual business `BUS-041`.  
+Notes: William Andresen reportedly takes one-half interest; other half owned by H. C. Stevens. Property is described as 60x210 feet fronting Main and Water, with two Water-side dwellings and a Main-front frame building planned for removal/replacement by a brick block. No number/block/lot/legal description; planned work is not completed-construction proof and property is not assigned to 503/505. Repository canonical SHA-256 `9cc0596dbc2ddfeaf0e8c1b575dcca7b14c9af832e83f104b6b6e674dd0041b2`; supplied upload SHA-256 `9cc0596dbc2ddfeaf0e8c1b575dcca7b14c9af832e83f104b6b6e674dd0041b2`.
+
+## S-197 — Oregon City Courier, 18 March 1910, M. Justin at Mt. Hood Cafe, Fifth/Main
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-18/ed-1/seq-6.pdf  
+Repository PDF: `newspapers/oregon-city-courier/1910-03-18-page-6-m-justin-mt-hood-cafe-fifth-main.pdf`  
+Original uploaded filename: `5th & Main (M. Justin) Oregon City courier., March 18, 1910, Page 6, Image 6.pdf`  
+Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
+Related evidence: `E-176`; related business `BUS-086`; cross-reference `BUS-046`.  
+Notes: M. Justin applies for a three-month liquor license at the Mt. Hood Cafe, 5th and Main streets. No number, grant, property ownership, or proof that M. Justin was a member of the earlier Justin & Hitchman partnership. Repository canonical SHA-256 `2b3ba938dd98cf3f0123c782c7e377b0f96b76ab39a53613f4f7b493edf1ed24`; supplied upload SHA-256 `2b3ba938dd98cf3f0123c782c7e377b0f96b76ab39a53613f4f7b493edf1ed24`.

@@ -313,3 +313,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 
 | `S-192` / `E-171` | `BUS-011`; `P-001`; `B-002` | 25 Dec. 1913 Chicago Store fire page; George Harding building-owner wording visually verified; exact 505 mapping remains cross-source inference. |
 | `S-193` / `E-172` | `BUS-084`; `B-001` | 18 Oct. 1940 JAGERS exact 503 Main advertisement; J. Jager/New Kwality relationship unresolved. |
+
+## 2 September 2026 — 1907–1910 Fifth/Main supplied-page additions
+- `S-194` ↔ `E-173` ↔ `BUS-085` — 1 Mar. 1907 R. A. Sawyer / Charles Albright meat-business succession at Fifth/Main; later `BUS-047` Strebig old-stand clue.
+- Existing `S-135` ↔ `E-121` — 4 Oct. 1907 A. J. Surber exact No. 501; supplied PDF derivative reconciled without duplicate ID.
+- `S-195` ↔ `E-174` ↔ `BUS-046`, `BUS-045` — 20 Mar. 1908 separate Justin & Hitchman and Surber Fifth/Main applications.
+- `S-196` ↔ `E-175` ↔ contextual `BUS-041` — 11 Feb. 1910 Andresen/Stevens 60x210 Main-to-Water property and planned brick-block report; parcel unresolved.
+- `S-197` ↔ `E-176` ↔ `BUS-086` — 18 Mar. 1910 M. Justin at Mt. Hood Cafe, Fifth/Main; relationship to `BUS-046` unresolved.
+- Timeline IDs: `T-065` through `T-068`. Follow-up: `RL-047`.

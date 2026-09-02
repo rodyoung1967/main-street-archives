@@ -170,3 +170,12 @@ A visually verified *Amplifier* ad places **JAGERS** at **503 Main St.** and cal
 
 ## 20 December 1913 Chicago Store fire — reported 25 December
 The visually verified *Courier* report says the Chicago clothing store on Main south of the postoffice was gutted and **the building was owned by George Harding** (`BUS-011`; `E-171`; `S-192`). Independent exact-address advertising supports a strong 505 Main mapping, but the fire page itself does not print 505 and is not deed evidence.
+
+## 1907–1910 Fifth/Main supplied-page additions — 2 September 2026
+
+| Date | Printed location | Business/person | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 1 Mar. 1907 | Fifth/Main | R. A. Sawyer, successor to Charles Albright meat business | `S-194` / `E-173`; `BUS-085` | No number/title/exact sale date; later Strebig old-stand wording does not prove direct transfer. |
+| 4 Oct. 1907 | Main/Fifth, **No. 501** | A. J. Surber | existing `S-135` / `E-121` | Supplied page is same issue/page and was deduplicated; notice is application/renewal, not grant/title; no Palace name. |
+| 20 Mar. 1908 | Fifth/Main | Justin & Hitchman; separately A. J. Surber | `S-195` / `E-174` | Neither prints 501/trade name; no same-room or succession inference. |
+| 18 Mar. 1910 | Fifth/Main | M. Justin — **Mt. Hood Cafe** | `S-197` / `E-176`; `BUS-086` | No number/grant/title; relationship to Justin & Hitchman unresolved. |

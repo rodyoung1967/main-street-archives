@@ -273,3 +273,10 @@ Search 1916–1921 city licenses, directories, tax/assessment records, partnersh
 
 ### Wolf & Miller late-October 1918 address conflict
 Search late October–December 1918 advertisements, municipal licenses, directories, leases, tax/property records, and personal notices for Wolf & Miller, Gilbert Miller, 503 Main and 505 Main. The objective is to explain the new `S-188` / `E-167` 503 wording against the 20 Sep and 10/24 Oct 505 evidence.
+
+## RL-047 — Resolve 1907–1910 Fifth/Main business and Main/Water property bridges
+New visually verified supplied pages create three focused bridge questions:
+
+1. **Albright → Sawyer → Strebig meat-business site:** locate licenses, directories, sale notices, deeds/leases, or other ads showing whether R. A. Sawyer's March 1907 “old stand” at Fifth/Main and Strebig's October 1907 “Albright's Old Stand” were the same room and whether Strebig acquired directly from Sawyer.
+2. **Justin & Hitchman → M. Justin / Mt. Hood Cafe:** identify the partners' given names and determine whether the M. Justin at Mt. Hood Cafe in March 1910 was one of them or a separate person/business; do not infer identity from surname/intersection alone.
+3. **Andresen / Stevens Main-to-Water property:** recover deed, assessment, plat, permit, or follow-up construction evidence identifying the 60x210 property and determining whether the announced frame-building removal and brick-block construction occurred. Do not assign it to 503/505 without a legal/property bridge.
