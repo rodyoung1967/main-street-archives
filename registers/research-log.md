@@ -279,3 +279,10 @@ This was a repository-presence and preservation-control audit, not new historica
 - Rechecked official online custody/finding-aid paths for 1920 assessment/tax, Harding/Wolf/Gates deeds/title, OHS Block 4 abstract and historical permit/improvement records. No underlying target image was recovered; each remains a precise authenticated/manual callout.
 - Saved `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md`, distinguishing ONLINE work completed from AUTHENTICATED/MANUAL work required. 1919 and 1920 annual statuses remain **IN PROGRESS**; absence of evidence was not treated as evidence of absence.
 - The GitHub integration workflow runs `python3 scripts/validate_archive.py` both before and after these historical changes and commits/pushes only after the post-change validator succeeds.
+
+### 2026-09-01 — Consolidate legacy `research-1902-1903-courier` branch
+- Compared the 18-commit legacy branch against current `main`; direct merge/cherry-pick was rejected because old branch evidence IDs now collide with different canonical records.
+- Preserved the branch tip, merge base, 18 changed files, commit log and binary diff in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz` (SHA-256 `4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5`).
+- Promoted genuinely missing 1902–1903 relative-location evidence and the 26 February 1914 Holman move using fresh IDs `E-145`–`E-150` / `S-161`–`S-170` and businesses `BUS-081`–`BUS-083`; attached the 24 August 1906 Courier numbering corroboration to existing `E-061` instead of creating duplicate evidence.
+- Corrected the stale master-timeline statement about the missing Holman move notice; no annual status was advanced. Remote scans were not newly re-certified during branch consolidation, so OCR/text-only and legacy-verification caveats remain explicit.
+- Added `RL-046` / `OQ-033` for the unresolved Harding Block–Willamette Building/Fair Store and pre-numbering storefront mapping questions.

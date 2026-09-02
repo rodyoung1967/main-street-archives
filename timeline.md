@@ -22,6 +22,15 @@ Clackamas County Historical Society object `2008.008.046.080` is cataloged as **
 ## 1884-1900 Sanborn baseline
 Sanborn maps show a developed Main Street commercial frontage well before the later c.1919 construction estimate for the surviving 503 building.
 
+## 1902 — exact study-block business and older Main Street bakery context
+A 7 November *Courier* advertisement places **The Union Store** directly on **Main Street between Fifth and Sixth Streets** (`E-146` / `S-163`). The ad announces liquidation and identifies the proprietor only as Michael; no later number or completed closure is inferred. A January profile separately says Herman Schrader had spent nearly eighteen years in the **Main-Street Bakery** before purchasing his then-current bakery (`E-145` / `S-161`); that history is not assigned to a later numbered storefront. A Huntley Bros. two-room remodel is preserved as `S-162` but was not shown to be on the study block.
+
+## 1903 — Harding/Willamette, Portland Clothing, and Fair Store relative geography
+The legacy branch supplies three useful pre-numbering relationships: **Portland Clothing House next door to Harding's Drug Store** (`E-147` / `S-164`); **George A. Harding's drug store in the Willamette Building** (`E-149` / `S-166`); and **The Fair Store opposite the Post Office** with a spring move pending (`E-148` / `S-165`). These are relational anchors only. Later numbers such as Harding's 511 Main address are not projected backward, and the Fair Store's destination remains unproved.
+
+## 1904 — legacy Courier mapping context
+A consolidated legacy review (`S-167` / `S-168`) preserves additional building and adjacency anchors, including the active **Willamette Building** and a New Book Store in **Lamb & Sawyer's Building next to Oregon City Bank**. It recovered no defensible 1904 Courier target number or secure named target-block tenant. That is research coverage only, not vacancy evidence. The full old branch is preserved in the repository-history snapshot.
+
 ## Late 1904 — I. Tolpolar on Main Street
 Primary *Oregon City Enterprise* advertisements place **I. Tolpolar** and his furniture/household-goods business on Main Street in October–December 1904 (`E-057`). No numbered address is printed, so the business cannot yet be mapped to modern 501/503/505/507.
 
@@ -111,7 +120,7 @@ The visually reviewed 3 October *Morning Enterprise* directly identifies **Hunsa
 The visually verified 23 October assessment notice separately lists **G. A. Harding at original Block 4 Lots 3–4** and the opposite-side Block 26 owners: **Lot 5 — Mary E. Barlow / Juliette E. David; Lot 6 — First National Bank; Lot 7 — Frank Jaggar; Lot 8 — Gambrinus Brewing Company** (`S-107` / `E-094`). Current parcel-derived descriptions independently place the odd-numbered 503/505/507 frontage in Block 4 and 504 across Main in Block 26. The former 501+503+505-to-Block-26-Lot-5 inference is withdrawn; exact historic Block 4 storefront and 1922 property boundaries remain unresolved.
 
 ## February 1914
-L. Hylton was profiled at 503 Main (`E-024`). An earlier project statement that undertaker R. L. Holman moved to Fifth & Main in 1914 is **not currently accepted as established** because the contemporaneous move notice has not been recovered (`RL-020`).
+L. Hylton was profiled at 503 Main (`E-024`). Separately, the **26 February 1914** *Courier* notice preserved from the legacy branch reports **R. L. Holman moving his undertaking establishment from the Caufield Building at Eighth & Main to his building at Fifth & Main** (`E-150` / `S-170`). This establishes Fifth/Main by that date but does not prove the later number 501 or a legal parcel. The separately visually verified 28 August 1914 *Morning Enterprise* advertisement independently confirms the Fifth/Main location.
 
 ## 1914–1915 — numbered water-ledger anchors
 

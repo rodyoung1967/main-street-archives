@@ -71,3 +71,7 @@ High-priority sources to locate:
 - Did he operate Harding Drug Store personally?
 - What years was Harding Drug Store active?
 - Are there photographs, advertisements, letterheads, prescription labels, bottles, or other artifacts tied to Harding Drug Store?
+
+## 1903 Willamette Building business anchor
+
+`S-166` / `E-149` preserves the legacy-branch reading that Harding's drug business was in the **Willamette Building** in April 1903. The source predates formal citywide numbering and does not justify assigning a later 5xx number to the 1903 premises.

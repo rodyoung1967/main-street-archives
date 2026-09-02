@@ -1,0 +1,28 @@
+{
+  "branch": "research-1902-1903-courier",
+  "branch_sha": "dbdd56ff2bc49f4b306439f2da6cc8ce769a34b5",
+  "merge_base": "6902044d4e3f6b730bb6d14a0cd349d33cce0f93",
+  "main_baseline": "565719b1b1d298f46805c9cb3246d024668d0b15",
+  "archive": "records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz",
+  "archive_sha256": "4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5",
+  "changed_files": [
+    "buildings/501-main.md",
+    "evidence/1902-1903-main-street-mapping-synthesis.md",
+    "evidence/1904-main-street-mapping-synthesis.md",
+    "evidence/E-054-holman-fifth-main-1915-1917.md",
+    "evidence/E-057-schrader-main-street-bakery-1902.md",
+    "evidence/E-058-huntley-two-store-remodel-1902.md",
+    "evidence/E-059-union-store-main-between-5th-6th-1902.md",
+    "evidence/E-060-portland-clothing-next-to-harding-1903.md",
+    "evidence/E-061-fair-store-postoffice-move-1903.md",
+    "evidence/E-062-harding-willamette-building-1903.md",
+    "evidence/E-063-1906-house-numbering-context.md",
+    "evidence/E-064-holman-moves-to-fifth-main-1914.md",
+    "evidence/research-leads.md",
+    "evidence/source-captures/1902-courier-main-street-review.md",
+    "evidence/source-captures/1903-courier-main-street-review.md",
+    "evidence/source-captures/1904-courier-main-street-review.md",
+    "evidence/source-register.md",
+    "timeline.md"
+  ]
+}

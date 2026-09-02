@@ -330,3 +330,7 @@ The canonical status and blockers are maintained in [registers/year-status.md](r
 - [Targeted online closeout](evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md): ordinary public/indexed paths for the specific 1919–1920 501/503/505 construction/occupancy question were worked to either a verified result or a documented authenticated/manual boundary. Annual 1919/1920 statuses remain **IN PROGRESS**.
 - [Gilbert Miller visual review](evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md): `S-160` / `E-144` upgrades the July 1919 lead to visually verified family residence/migration context only. It is **not** direct 505 occupancy or construction evidence.
 - Outstanding authenticated/manual targets are the 2 June 1920 Commission scan, 1919–1920 Polk directory scans, Banner-Courier microfilm, 1920 assessment/tax roll, Harding/Wolf/Gates deed chain, OHS MSS 1503 Block 4 abstract, and any surviving pre-2002 City permit/improvement files.
+
+## Legacy branch consolidation — 1902–1904 / Holman 1914
+
+The former `research-1902-1903-courier` branch was reconciled against current `main` without merging its obsolete IDs. [Consolidation audit](registers/branch-consolidation-research-1902-1903-courier-2026-09-01.md) and the repository-history snapshot preserve the complete branch-only state. Canonical promoted records are `E-145`–`E-150` / `S-161`–`S-170` with new businesses `BUS-081`–`BUS-083`. The 1906 numbering item was attached to existing `E-061`; no duplicate evidence ID was created.

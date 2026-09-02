@@ -79,3 +79,7 @@ This combination strongly supports Harding Drug Store being the ground-floor/ass
 
 ## September 1912 Willamette Building relationship
 A visually verified 7 September 1912 *Morning Enterprise* Spirella advertisement (`E-138` / `S-154`) gives the location **“Willamette Bldg., Room 4, Over Harding Drug Store.”** This is direct evidence that a room identified with the Willamette Building was described as above Harding's store. The ad gives no number, so the direct January 1912 **511 Main** Harding listing remains controlling for that exact date. Do not convert the Willamette wording into an unsupported 507 Harding address or assume one named building equaled one numbered storefront.
+
+## 1903 Willamette Building anchor
+
+Legacy-branch source `S-166` / evidence `E-149` records George A. Harding's drug store in the **Willamette Building** on 6 April 1903. No later street number is back-projected. This early building-name anchor should be tested together with the 1911–1912 Harding/Willamette evidence, not collapsed into a single storefront without proof.

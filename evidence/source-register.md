@@ -1117,3 +1117,77 @@ PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5.pdf
 Related evidence: `E-144`  
 Repository source capture: `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`  
 Notes: Society item identifies Mr. and Mrs. Gilbert Miller at Ninth and Division streets and reports that their daughter came to Oregon City with her parents from Springfield about a year earlier. Corroborates family migration/residence chronology only; does not name Wolf & Miller, place Gilbert at 505/505½, resolve the C. E. Miller discrepancy, or report construction. Remote scan visually inspected; binary mirroring remains under `RL-021`.
+
+## Legacy branch sources integrated 1 September 2026
+
+These source IDs preserve previously branch-only research. The branch snapshot is retained under `records/repository-history/`. Verification states are not silently upgraded during consolidation.
+
+## S-161 — Courier-Herald, 3 January 1902, p. 24, Schrader profile
+URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-145`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-162 — Courier-Herald, 24 October 1902, p. 5, Huntley Bros. remodel
+URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: contextual source only; no standalone claim-level record assigned.  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-163 — Oregon City Courier, 7 November 1902, p. 1, Union Store
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-146`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-164 — Oregon City Courier, 2 January 1903, p. 4, Portland Clothing House
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-02/ed-1/seq-4.pdf  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-147`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-165 — Fair Store 1903 Post Office / move source set
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-23/ed-1/seq-3/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-148`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-166 — Clackamas County Record, 6 April 1903, p. 8, Harding / Willamette Building
+URL: https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-149`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-167 — Oregon City Courier 1904 mapping-context source set
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-26/ed-1/seq-3/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: contextual source only; no standalone claim-level record assigned.  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-168 — Oregon City Enterprise, 15 January 1904, p. 3, Main Street adjacencies
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: contextual source only; no standalone claim-level record assigned.  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-169 — Oregon City Courier, 24 August 1906, p. 3, house-numbering ordinance report
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1906-08-24/ed-1/seq-3/ocr/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-061`  
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
+
+## S-170 — Oregon City Courier, 26 February 1914, p. 7, Holman move notice
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/  
+Type: Primary newspaper source / legacy-branch source trail.  
+Related evidence: `E-150`  
+Repository capture: `evidence/source-captures/1914-02-26-holman-move-fifth-main-legacy-branch-integration.md`  
+Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.

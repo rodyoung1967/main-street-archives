@@ -168,3 +168,6 @@ No shared business, succession, property title, exact Justin/Hartman number or 1
 ### OQ-026 dated source supplement
 
 E-123/S-137 visually verifies Schrader's Bakery hiring on Main,18 September 1908. No number or proprietor appears; existing OQ-026 address limits are unchanged. BUS-063 records the business style, not an expanded identity.
+
+## OQ-033 — Which later storefronts correspond to the 1902–1905 pre-numbering relationships?
+The legacy-branch consolidation adds a direct 1902 block occupant (**Union Store, Main between Fifth and Sixth**) plus 1903 relative geography (**Portland Clothing next to Harding; Harding in Willamette Building; Fair Store opposite Post Office and moving**). Which original Block 4 storefronts and later 5xx numbers correspond to those descriptions? The 1906 numbering plat and `RL-046` are the primary bridge targets. Do not infer vacancy, same-building identity, or later numbers from adjacency alone.

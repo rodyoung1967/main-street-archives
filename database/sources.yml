@@ -805,3 +805,53 @@ sources:
     name: Oregon City Enterprise, 11 July 1919, p. 5, Gilbert Miller family relocation
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5/
     notes: Primary newspaper page visually verified 1 September 2026. Identifies the Gilbert Miller household at Ninth and Division and reports family relocation from Springfield about a year earlier. Identity/residence context only; not 505 occupancy, construction, or resolution of the C. E. Miller conflict. Repository capture evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md; remote binary still needs mirroring under RL-021.
+
+  - id: S-161
+    name: "Courier-Herald, 3 January 1902, p. 24, Schrader profile"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-162
+    name: "Courier-Herald, 24 October 1902, p. 5, Huntley Bros. remodel"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-163
+    name: "Oregon City Courier, 7 November 1902, p. 1, Union Store"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-164
+    name: "Oregon City Courier, 2 January 1903, p. 4, Portland Clothing House"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-02/ed-1/seq-4.pdf"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-165
+    name: "Fair Store 1903 Post Office / move source set"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-23/ed-1/seq-3/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-166
+    name: "Clackamas County Record, 6 April 1903, p. 8, Harding / Willamette Building"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-167
+    name: "Oregon City Courier 1904 mapping-context source set"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-26/ed-1/seq-3/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-168
+    name: "Oregon City Enterprise, 15 January 1904, p. 3, Main Street adjacencies"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-169
+    name: "Oregon City Courier, 24 August 1906, p. 3, house-numbering ordinance report"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1906-08-24/ed-1/seq-3/ocr/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."
+
+  - id: S-170
+    name: "Oregon City Courier, 26 February 1914, p. 7, Holman move notice"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/"
+    notes: "Preserved from research-1902-1903-courier during branch consolidation. Full readings, URLs, verification caveats and branch-snapshot provenance are in the integration capture. No verification state was upgraded merely by consolidation."

@@ -1009,3 +1009,27 @@ businesses:
     related_evidence: [E-093]
     related_sources: [S-106]
     repository_file: businesses/schraders-bakery.md
+
+  - id: BUS-081
+    name: The Union Store
+    repository_file: businesses/union-store-1902.md
+    address: Main Street between Fifth and Sixth Streets (1902); exact later number unresolved
+    notes: Legacy 7 Nov 1902 advertisement announces liquidation and identifies proprietor only as Michael; do not infer vacancy or completed closure without later evidence.
+    related_evidence: [E-146]
+    related_sources: [S-163]
+
+  - id: BUS-082
+    name: Portland Clothing House
+    repository_file: businesses/portland-clothing-house.md
+    address: Next door to Harding's Drug Store (1903); number unresolved
+    notes: Relative-location anchor only; no property ownership or later numbered storefront assigned.
+    related_evidence: [E-147]
+    related_sources: [S-164]
+
+  - id: BUS-083
+    name: The Fair Store
+    repository_file: businesses/fair-store.md
+    address: Opposite Post Office (Jan 1903); later move destination unresolved
+    notes: Legacy April/May move records preserved conservatively; later 1905 Harding Block/Willamette Building relationship is a research lead, not an established move destination.
+    related_evidence: [E-148]
+    related_sources: [S-165]

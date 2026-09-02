@@ -1200,3 +1200,47 @@ Claims:
 - The same item reported that their daughter had come to Oregon City with her parents from **Springfield, Oregon, about a year earlier**, corroborating the broader 1918 family-relocation chronology.
 - The item does **not** name Wolf & Miller, identify Gilbert as the directly named 505 partner, resolve the contemporary C. E. Miller / Gilbert Miller discrepancy, or report target-building ownership, tenancy, demolition, rebuilding, enlargement, or remodeling.
 Confidence: **Very High** for the printed residence and family-relocation report; business-partner identity, 505 relationship, and construction implications remain unresolved.
+
+## Legacy 1902–1903 / February 1914 evidence integrated 1 September 2026
+
+## E-145 — Schrader Main-Street Bakery background, 1902
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-161`  
+Related record: `evidence/E-145-1902-schrader-main-street-bakery-background.md`  
+Claims: A 3 January 1902 Courier-Herald profile says Herman Schrader had worked nearly eighteen years in the Main-Street Bakery before purchasing his then-current bakery about a year earlier. This extends the Main Street bakery chronology but does not identify a later numbered storefront or prove physical continuity.  
+Confidence: Legacy primary-source reading; exact-address and storefront continuity unresolved.
+
+## E-146 — Union Store on Main between Fifth and Sixth, 1902
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-163`  
+Related record: `evidence/E-146-1902-union-store-main-between-fifth-sixth.md`  
+Claims: A 7 November 1902 Courier advertisement places The Union Store, Michael proprietor, on Main Street between Fifth and Sixth Streets and announces liquidation of stock and fixtures. The exact later storefront number and later disposition are not established.  
+Confidence: Very high for the legacy branch transcription of the printed block location; visual recertification and exact-number mapping pending.
+
+## E-147 — Portland Clothing House next to Harding Drug Store, 1903
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-164`  
+Related record: `evidence/E-147-1903-portland-clothing-next-harding.md`  
+Claims: A 2 January 1903 Courier advertisement places Portland Clothing House next door to Harding's Drug Store. The source supplies adjacency but no street number.  
+Confidence: Very high for the preserved adjacency reading; exact premises and later-number mapping unresolved.
+
+## E-148 — Fair Store opposite Post Office and spring move, 1903
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-165`  
+Related record: `evidence/E-148-1903-fair-store-postoffice-move.md`  
+Claims: The 23 January 1903 Courier places The Fair Store opposite the Post Office. Legacy April/May records indicate an impending move; those later records are retained as OCR/TEXT ONLY. The destination is not established.  
+Confidence: High for the preserved January relative-location reading; April/May move wording needs scan recertification; destination unresolved.
+
+## E-149 — Harding Drug Store in Willamette Building, 1903
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-166`  
+Related record: `evidence/E-149-1903-harding-drug-willamette-building.md`  
+Claims: A 6 April 1903 Clackamas County Record item identifies Geo. A. Harding and his leading drug store in the Willamette Building. It does not print a later Main Street number.  
+Confidence: Very high for the preserved building-name association; exact numbered footprint and continuity unresolved.
+
+## E-150 — R. L. Holman moves from Eighth/Main to his Fifth/Main building, 26 February 1914
+Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  
+Sources: `S-170`  
+Related record: `evidence/E-150-1914-holman-moves-fifth-main-february.md`  
+Claims: The legacy branch records a 26 February 1914 Courier notice saying R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth and Main to his building at Fifth and Main. This predates the separately verified August 1914 Fifth/Main advertisement. The notice prints no numbered address.  
+Confidence: Very high for the preserved move wording; 'his building' is reported ownership language, while exact parcel/number remains unresolved.

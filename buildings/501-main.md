@@ -46,12 +46,13 @@ No source prints the Gates site's width or street number. If the July restaurant
 
 Primary newspaper advertisements establish an undertaking/funeral-directing business at **Fifth and Main Streets** before the modern-numbered 501 Sanborn evidence:
 
+- **26 February 1914:** a *Courier* notice preserved from the legacy branch reports **R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth & Main to his building at Fifth & Main** (`E-150` / `S-170`). The wording “his building” is a reported ownership relationship, not a legal-description or 501-number proof.
 - **28 August 1914:** an *Oregon City Enterprise* advertisement for **R. L. Holman, Leading Funeral Director**, states that he **“has moved to more commodious parlors 5th and Main Sts.”** The original page has now been recovered and reviewed. See `evidence/source-captures/1914-08-28-holman-move-fifth-main.md`.
 - 17 June 1915: R. L. Holman and T. P. Randall, leading undertakers, **Fifth and Main St.** (`S-064`).
 - 2 March 1916: Holman and Randall again advertised at **Fifth and Main St.** (`S-065`).
 - 11 January 1917: R. L. Holman advertised as leading undertaker at **Fifth and Main St.** (`S-066`).
 
-This is **very high-confidence evidence for the Fifth-and-Main location from August 1914 onward**, but it is **not yet proof that the premises later carried the street number 501 Main**. Until a numbered directory, deed, map correspondence, or other primary record makes that connection, the archive must treat **Holman at Fifth & Main → 501 Main** as a plausible hypothesis, not a settled address identification.
+This is **very high-confidence evidence for the Fifth-and-Main location from February 1914 onward**, but it is **not yet proof that the premises later carried the street number 501 Main**. Until a numbered directory, deed, map correspondence, or other primary record makes that connection, the archive must treat **Holman at Fifth & Main → 501 Main** as a plausible hypothesis, not a settled address identification.
 
 ### 1916 ownership/advertising transition
 
@@ -82,7 +83,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 | --- | --- | --- |
 | 4 Oct.1907 | A. J. Surber renewal notice explicitly prints No.501, Main/Fifth; no title or later trade-name continuity | Very High for printed wording |
 | 19 Mar.1912 / 3 Oct.1913 | Palace Saloon / Hunsaker & Taylor separately named at 501; no transfer inferred | Very High for printed wording |
-| Aug. 1914–1917 | Holman / Holman-Randall / Holman undertaking business at **Fifth & Main** | Very High |
+| Feb. 1914–1917 | Holman / Holman-Randall / Holman undertaking business at **Fifth & Main** | Very High for preserved dated sources; exact 501 mapping unresolved |
 | 1918–1921 | Holman & Pace undertaking/funeral business continues in Oregon City; address not established by the recovered sources | High for business continuity; unresolved for location |
 | 1924 | A Polk Oregon City directory existed; actual address pages still needed | Very High for directory existence |
 | 1925 | **501 Main** shown by Sanborn as a separate **store** | Very High |

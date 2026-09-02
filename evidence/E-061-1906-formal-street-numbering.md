@@ -2,7 +2,7 @@
 
 Type: Primary newspaper / municipal-context evidence  
 Date: May–August 1906  
-Source: `S-075`  
+Sources: `S-075`, `S-169`  
 Related evidence: `E-060`  
 Related research lead: `RL-025`
 
@@ -15,6 +15,7 @@ Oregon City moved from the preliminary numbering effort reported in 1905 to a fo
 - **13 July 1906:** council expenses included Bruce C. Curry for work “in re house numbering” and R. B. McAlpin for “numbering plats.” Councilman Rands reported finding duplicate street names while drawing maps for house numbering, and a special committee was appointed to oversee the work.
 - **17 August 1906:** street signs had arrived for posting at intersections and the completed numbering plat remained at Recorder Dimick’s office. Residents were urged to obtain and post their numbers so federal inspection for free mail delivery could proceed.
 - The same 17 August issue advertises Lerow’s Glass Blowers at **504 Main Street**, showing that exact numbered Main Street addresses were already appearing in print during the implementation period.
+- **24 August 1906:** a legacy-branch *Courier* council report, retained as `S-169`, says an ordinance was passed “Providing for numbering of houses.” The retained endpoint is OCR/TEXT ONLY in this consolidation and is corroborating context, not a replacement for the visually/independently established ordinance-and-plat trail.
 - **3 October 1913:** a City Recorder notice says that a **plat and plan showing the proper street number for all property in Oregon City** remained on file in the recorder's office and quotes Section 5 of **Ordinance No. 357** requiring assigned numbers on buildings (`E-105` / `S-119`).
 
 ## Significance for 501 / 503 / 505 / 507 Main

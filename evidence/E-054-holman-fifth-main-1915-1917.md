@@ -33,3 +33,7 @@ The visually verified *Morning Enterprise* report on 7 May p5 says **T. P. Randa
 ## May-June 1915 Enterprise continuity
 
 `S-128` / `E-114` visually verifies a **21 May 1915** notice referring to the undertaking establishment of **Holman & Randall** and an **11 June 1915** notice referring to the **Holman & Randall undertaking parlors**. These extend the business-name chronology between the 7 May partnership-formation report and the 17 June Courier Fifth/Main advertisement. The Enterprise notices here do not print `501 Main` or any numbered Fifth Street address; the existing mapping caution remains unchanged.
+
+## 26 February 1914 antecedent
+
+The legacy-branch record now retained as `S-170` / `E-150` moves the Fifth/Main chronology back to **26 February 1914**: the *Courier* reported Holman moving from the Caufield Building at Eighth/Main to **his building at Fifth/Main**. The exact later numbered address remains unproved. The separately visually verified 28 August 1914 advertisement independently confirms that Holman had moved to Fifth/Main by that later date.

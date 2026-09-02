@@ -121,3 +121,11 @@ These records were already part of the evidence narrative but previously lacked 
 | BUS-078 | [Henry Brightbill's store](henry-brightbill-store.md) | 503 Main | Direct 25 August 1908 address; trade name/merchandise and building continuity unresolved. `E-042`. |
 | BUS-079 | [B. J. Staats Hardware](b-j-staats-hardware.md) | 516 Main | December 1919 institutional photo metadata supplies the address/date; storefront fascia supplies the business name. Sale signs do not prove completed closure or transfer. `E-132`. |
 | BUS-080 | [Wemmo & Haas bakeries](schraders-bakery.md) | Main Street bakery among two acquired in December 1912; exact number unresolved | `E-093` reports the purchase from Herman Schrader. Individual names, property ownership, and later operating span unresolved. |
+
+## 1902–1903 businesses promoted from legacy branch consolidation
+
+| ID | Business | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-081 | [The Union Store](union-store-1902.md) | Main between Fifth and Sixth, 7 Nov. 1902 | Liquidation ad; proprietor printed only as Michael; exact later number and completed disposition unresolved. `E-146` / `S-163`. |
+| BUS-082 | [Portland Clothing House](portland-clothing-house.md) | Next door to Harding's Drug Store, 2 Jan. 1903 | Adjacency only; no later number assigned. `E-147` / `S-164`. |
+| BUS-083 | [The Fair Store](fair-store.md) | Opposite Post Office, Jan. 1903; spring move pending | April/May move items retain OCR/TEXT ONLY status; later Willamette/Harding Block relationship unresolved. `E-148` / `S-165`. |

@@ -258,3 +258,17 @@ Follow-up finding aid: `S-158`, State Archives Clackamas County inventory, suppo
 | Source / evidence | Person | Scope and limit |
 | --- | --- | --- |
 | `S-160` / `E-144` | `P-046` Gilbert Miller | Visually verified 11 July 1919 family residence at Ninth/Division and move-from-Springfield context. **No direct 505, Wolf & Miller partner, property, or construction relationship assigned.** |
+
+## 1902–1904 legacy branch consolidation
+
+| Source / evidence | Connected records | Scope / limits |
+| --- | --- | --- |
+| `S-161` / `E-145` | `P-096`; `BUS-063` | Schrader Main-Street Bakery background; no exact later storefront. |
+| `S-163` / `E-146` | `BUS-081` | Union Store directly between Fifth/Sixth; later number unresolved. |
+| `S-164` / `E-147` | `BUS-082`; `BUS-007` adjacency | Portland Clothing next to Harding; no number. |
+| `S-165` / `E-148` | `BUS-083` | Fair Store opposite Post Office; move destination unresolved. |
+| `S-166` / `E-149` | `P-001`; `BUS-007` | Harding Drug Store in Willamette Building; later number not backdated. |
+| `S-169` | `E-061`; `RL-025` | 24 Aug 1906 Courier OCR corroboration of house-numbering ordinance; not a replacement for canonical plat evidence. |
+| `S-170` / `E-150` | `P-050`; candidate `B-005` relationship | Holman move to his Fifth/Main building by 26 Feb 1914; exact 501 mapping unresolved. |
+
+Complete old-branch files, diff and commit log are preserved in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz`.
