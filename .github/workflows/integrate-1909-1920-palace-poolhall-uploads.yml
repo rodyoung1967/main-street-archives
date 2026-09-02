@@ -30,6 +30,17 @@ jobs:
         run: python -m pip install --quiet pyyaml
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
+      - name: Correct one-use YAML record parser
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1909_1920_palace_poolhall_uploads.py')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('import yaml\n', 'import yaml\nimport textwrap\n', 1)
+          text = text.replace('parsed = yaml.safe_load(block[2:])', 'parsed = yaml.safe_load(textwrap.dedent(block))', 1)
+          p.write_text(text, encoding='utf-8')
+          print('Corrected YAML record dedent parser in one-use helper.')
+          PY
       - name: Reconcile exact PDFs and integrate historical records
         run: python3 scripts/integrate_1909_1920_palace_poolhall_uploads.py
       - name: Remove one-use integration tooling
