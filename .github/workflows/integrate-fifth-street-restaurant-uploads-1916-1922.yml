@@ -35,18 +35,36 @@ jobs:
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
 
-      - name: Correct integration serializer
+      - name: Correct integration serializer and metadata
         run: |
           python3 - <<'PY'
           from pathlib import Path
           p = Path('scripts/integrate_fifth_street_restaurant_uploads_1916_1922.py')
           text = p.read_text(encoding='utf-8')
-          old = 'write(path, text + "\\n" + block.strip() + "\\n")'
-          new = 'write(path, text + "\\n" + block.strip("\\n") + "\\n")'
-          if old not in text and new not in text:
+
+          old_serializer = 'write(path, text + "\\n" + block.strip() + "\\n")'
+          new_serializer = 'write(path, text + "\\n" + block.strip("\\n") + "\\n")'
+          if old_serializer in text:
+              text = text.replace(old_serializer, new_serializer, 1)
+          elif new_serializer not in text:
               raise SystemExit('serializer target not found')
-          if old in text:
-              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          metadata_old = 'Status: **VISUALLY VERIFIED**.  \\nClaims:'
+          metadata_new = 'Type: Primary newspaper visual evidence.  \\nConfidence: Very High for the directly printed wording; identity, continuity, premises, and title limits remain as stated below.  \\nStatus: **VISUALLY VERIFIED**.  \\nClaims:'
+          count = text.count(metadata_old)
+          if count != 4 and metadata_new not in text:
+              raise SystemExit(f'expected 4 evidence metadata targets, found {count}')
+          text = text.replace(metadata_old, metadata_new)
+
+          text = text.replace(
+              '    name: Fifth Street Restaurant active-place evidence, 26 August 1921',
+              '    name: Fifth Street Restaurant active-place evidence from reported fight, 26 August 1921'
+          )
+          text = text.replace(
+              '    name: 21 July 1922 Enterprise restaurant and building ownership wording after Fifth/Main fire',
+              '    name: 21 July 1922 Enterprise restaurant/building ownership wording after Fifth/Main fire'
+          )
+          p.write_text(text, encoding='utf-8')
           PY
 
       - name: Preserve exact PDFs and integrate records
