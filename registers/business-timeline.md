@@ -150,3 +150,6 @@ Other dated applicant/store observations (including Stewart & Son327 in 1907 and
 | 31 Oct. 1919 | W. W. Pollock conducting Fifth Street Restaurant | `BUS-070` | `E-161` | Very High | Pollock fined $15 and costs on dirty/unsanitary-place complaint; no property-title inference. |
 | 26 Aug. 1921 | Fight reported inside Fifth Street Restaurant | `BUS-070` | `E-162` | Very High for place wording | Active-place evidence; no proprietor/number. |
 | 21 Jul. 1922 | Post-fire ownership wording | `BUS-070` | `E-163` | Very High wording; Strong same-paragraph Blakely identity inference | Prints L. E. Blakely then Blakely restaurant ownership; prints C. P. Gates building ownership; conflicts preserved. |
+
+| 1 Sep. 1916 | Fifth Street Restaurant — W. W. Pollock directly named with inspection score 75.3 | `BUS-070` | `E-164` / `S-184` | Very High | No numbered address or property title; continuity to 1919 not assumed. |
+| 19 Nov. 1920 | Fifth Street Restaurant — Guy Proffit reported “interested in” business and retaining his interests | `BUS-070` | `E-165` / `S-185` | Very High for wording | Exact legal interest, percentage, premises, and continuity unresolved. |

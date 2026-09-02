@@ -1295,3 +1295,19 @@ Repository file: `newspapers/oregon-city-enterprise/1922-07-21-page-1-fifth-stre
 Original uploaded filename: `Fifth Street Resturant (ownership) Oregon City enterprise., July 21, 1922, Image 1.pdf`  
 Related evidence: `E-163`; business `BUS-070`; people `P-102`, `P-103`.  
 Notes: Same-paragraph wording names L. E. Blakely then says Blakely owned Fifth Street Restaurant; says restaurant building was owned by C. P. Gates of Portland. Preserve Blake/Blakely/Gage and C./C. P./C. E. Gates conflicts; newspaper report is not deed proof. SHA-256 `ed47337b2918af305399cf62ed1b9cd29ddba1d9ec10c1ab02f198516adbe6d1`.
+
+## S-184 — Oregon City Enterprise, 1 September 1916, p. 5, Fifth Street Restaurant / W. W. Pollock inspection listing
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/seq-5.pdf  
+Repository file: `newspapers/oregon-city-enterprise/1916-09-01-page-5-fifth-street-restaurant-pollock-inspection.pdf`  
+Original uploaded filename: `Fifth Street Resturant (Exists) Oregon City enterprise., September 01, 1916, Image 5.pdf`  
+Related evidence: `E-164`; business `BUS-070`; person `P-101`.  
+Notes: State dairy-and-food-commissioner report directly lists Fifth Street restaurant, W. W. Pollock, 75.3. No numbered address or property ownership. SHA-256 `530d674b3d7f1d2207a4952064118898d9caa7f126a4dea88aadfb383217bfb0`.
+
+## S-185 — Oregon City Enterprise, 19 November 1920, p. 5, Guy Proffit interest in Fifth Street Restaurant
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-11-19/ed-1/seq-5.pdf  
+Repository file: `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf`  
+Original uploaded filename: `Fifth Street Resturant (Interest) Oregon City enterprise., November 19, 1920, Page Page 5, Image 5.pdf`  
+Related evidence: `E-165`; business `BUS-070`; person `P-104`.  
+Notes: Marriage item says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests there; scope/legal character of the interest and exact premises are not printed. SHA-256 `eb2077d3e859b5c52e188884135304110a42ec97003be6150fd14424e9eadc6f`.

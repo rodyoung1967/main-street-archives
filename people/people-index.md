@@ -154,3 +154,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-101 | [W. W. Pollock](profiles/w-w-pollock.md) | Fifth Street Restaurant operator/conductor | 31 Oct. 1919 article directly says he was conducting the restaurant; fined $15 and costs on dirty/unsanitary-place complaint. `E-161` / `S-181`. |
 | P-102 | [L. E. Blakely](profiles/l-e-blakely.md) | Reported Fifth Street Restaurant owner | 21 Jul. 1922 Enterprise names L. E. Blakely then immediately says Blakely owned the restaurant. Strong same-paragraph identity inference; do not merge with Blake/Gage variants. `E-163` / `S-183`. |
 | P-103 | [C. P. Gates](profiles/c-p-gates-1922.md) | Reported owner of Fifth Street Restaurant building | 21 Jul. 1922 Enterprise wording. Preserve separately from C./C. E. Gates until initials/identity are independently resolved. `E-163` / `S-183`. |
+
+## 2 September 2026 Fifth Street Restaurant supplement
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-104 | [Guy Proffit](profiles/guy-proffit.md) | Reported business-interest holder, Fifth Street Restaurant | 19 Nov. 1920 Enterprise says he was “interested in” the restaurant and would retain his interests; exact legal/ownership character and premises unresolved. `E-165` / `S-185`. |

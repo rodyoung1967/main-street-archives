@@ -2527,3 +2527,28 @@ evidence:
     related_people: [P-102, P-103]
     related_evidence: [E-096, E-097, E-103]
     repository_file: evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md
+
+  - id: E-164
+    name: 1 September 1916 Enterprise names W. W. Pollock at Fifth Street Restaurant
+    type: Primary newspaper visual evidence
+    status: VISUALLY VERIFIED
+    claims:
+      - Fifth Street Restaurant is directly listed with W. W. Pollock and inspection score 75.3.
+      - No numbered address, real-estate ownership, or uninterrupted 1916-1919 operating span is proved.
+    confidence: Very High for directly printed Pollock/business/score wording; exact premises, title, and continuity unresolved.
+    related_sources: [S-184]
+    related_businesses: [BUS-070]
+    related_people: [P-101]
+    repository_file: evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md
+  - id: E-165
+    name: 19 November 1920 Enterprise identifies Guy Proffit interest in Fifth Street Restaurant
+    type: Primary newspaper visual evidence
+    status: VISUALLY VERIFIED
+    claims:
+      - Article directly says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests there.
+      - Wording does not establish sole proprietorship, percentage interest, leasehold, property title, exact premises, or continuity from Pollock.
+    confidence: Very High for directly printed business-interest wording; legal character, premises, ownership, and continuity unresolved.
+    related_sources: [S-185]
+    related_businesses: [BUS-070]
+    related_people: [P-104]
+    repository_file: evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md

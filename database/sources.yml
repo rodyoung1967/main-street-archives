@@ -923,3 +923,20 @@ sources:
     url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-1.pdf
     repository_file: newspapers/oregon-city-enterprise/1922-07-21-page-1-fifth-street-restaurant-fire-ownership.pdf
     notes: "Visually verified exact steward-upload page. Names L. E. Blakely immediately before saying Blakely owned Fifth Street Restaurant and reports C. P. Gates owned the building. Preserve identity/initial conflicts; not deed proof. E-163/P-102/P-103/BUS-070. SHA-256 ed47337b2918af305399cf62ed1b9cd29ddba1d9ec10c1ab02f198516adbe6d1."
+
+  - id: S-184
+    name: Oregon City Enterprise, 1 September 1916, p. 5, Fifth Street Restaurant / W. W. Pollock inspection listing
+    type: Primary newspaper scan
+    date: 1 September 1916
+    review_state: VISUALLY VERIFIED
+    repository_file: newspapers/oregon-city-enterprise/1916-09-01-page-5-fifth-street-restaurant-pollock-inspection.pdf
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/seq-5.pdf
+    notes: "Exact steward-upload PDF bytes preserved. Report directly lists Fifth Street restaurant, W. W. Pollock, 75.3; no numbered address or property ownership. E-164/BUS-070/P-101. SHA-256 530d674b3d7f1d2207a4952064118898d9caa7f126a4dea88aadfb383217bfb0."
+  - id: S-185
+    name: Oregon City Enterprise, 19 November 1920, p. 5, Guy Proffit interest in Fifth Street Restaurant
+    type: Primary newspaper scan
+    date: 19 November 1920
+    review_state: VISUALLY VERIFIED
+    repository_file: newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-11-19/ed-1/seq-5.pdf
+    notes: "Exact steward-upload PDF bytes preserved. Article says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests; legal character/percentage and exact premises unresolved. E-165/BUS-070/P-104. SHA-256 eb2077d3e859b5c52e188884135304110a42ec97003be6150fd14424e9eadc6f."

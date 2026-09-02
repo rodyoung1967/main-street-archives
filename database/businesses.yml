@@ -932,10 +932,10 @@ businesses:
   - id: BUS-070
     name: Fifth Street Restaurant
     address: Fifth/Main corner property by July 1922; exact number unresolved; earlier 1916-1921 exact premises unresolved
-    notes: Named by 1916 inspection, W. W. Pollock conducting it in 1919, and active-place evidence in 1921. July 1922 property/fire records place the restaurant in the Fifth/Main cluster; one Enterprise account prints L. E. Blakely/Blakely for restaurant ownership and C. P. Gates for building ownership, while other reports print J. Blake / Ed. Blake / Ed Gage and C. / C. E. Gates. Conflicts preserved; building burned and C. E. Gates replacement followed.
-    related_people: [P-036, P-087, P-088, P-092, P-101, P-102, P-103]
-    related_evidence: [E-096, E-097, E-103, E-160, E-161, E-162, E-163]
-    related_sources: [S-111, S-112, S-113, S-117, S-180, S-181, S-182, S-183]
+    notes: Named by 1916 inspection; 1 September 1916 directly associates W. W. Pollock with it, and Pollock is described as conducting it in 1919. Guy Proffit held a reported interest in November 1920; active-place evidence follows in 1921. July 1922 property/fire records place the restaurant in the Fifth/Main cluster; one Enterprise account prints L. E. Blakely/Blakely for restaurant ownership and C. P. Gates for building ownership, while other reports print J. Blake / Ed. Blake / Ed Gage and C. / C. E. Gates. Conflicts preserved; building burned and C. E. Gates replacement followed.
+    related_people: [P-036, P-087, P-088, P-092, P-101, P-102, P-103, P-104]
+    related_evidence: [E-096, E-097, E-103, E-160, E-161, E-162, E-163, E-164, E-165]
+    related_sources: [S-111, S-112, S-113, S-117, S-180, S-181, S-182, S-183, S-184, S-185]
     repository_file: businesses/fifth-street-restaurant.md
 
   - id: BUS-071

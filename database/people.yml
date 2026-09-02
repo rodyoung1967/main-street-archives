@@ -1088,8 +1088,8 @@ people:
     role: Fifth Street Restaurant operator / conductor
     notes: 31 October 1919 Enterprise directly describes Pollock as conducting the Fifth street restaurant and reports a $15-and-costs sanitation fine. No exact address or property ownership.
     related_businesses: [BUS-070]
-    related_evidence: [E-161]
-    related_sources: [S-181]
+    related_evidence: [E-161, E-164]
+    related_sources: [S-181, S-184]
     repository_file: people/profiles/w-w-pollock.md
 
   - id: P-102
@@ -1109,3 +1109,12 @@ people:
     related_evidence: [E-163]
     related_sources: [S-183]
     repository_file: people/profiles/c-p-gates-1922.md
+
+  - id: P-104
+    name: Guy Proffit
+    role: Reported business-interest holder in Fifth Street Restaurant
+    notes: 19 November 1920 Enterprise says Proffit was interested in Fifth Street Restaurant and would retain his interests while making daily trips to Portland. This is not proof of sole proprietorship, ownership percentage, leasehold, property title, or continuity from Pollock.
+    related_businesses: [BUS-070]
+    related_evidence: [E-165]
+    related_sources: [S-185]
+    repository_file: people/profiles/guy-proffit.md

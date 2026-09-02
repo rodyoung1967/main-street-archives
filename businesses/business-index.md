@@ -129,3 +129,7 @@ These records were already part of the evidence narrative but previously lacked 
 | BUS-081 | [The Union Store](union-store-1902.md) | Main between Fifth and Sixth, 7 Nov. 1902 | Liquidation ad; proprietor printed only as Michael; exact later number and completed disposition unresolved. `E-146` / `S-163`. |
 | BUS-082 | [Portland Clothing House](portland-clothing-house.md) | Next door to Harding's Drug Store, 2 Jan. 1903 | Adjacency only; no later number assigned. `E-147` / `S-164`. |
 | BUS-083 | [The Fair Store](fair-store.md) | Opposite Post Office, Jan. 1903; spring move pending | April/May move items retain OCR/TEXT ONLY status; later Willamette/Harding Block relationship unresolved. `E-148` / `S-165`. |
+
+## 2 September 2026 Fifth Street Restaurant Pollock / Proffit supplement
+
+`BUS-070` now has direct **W. W. Pollock** association on 1 September 1916 (`E-164` / `S-184`) and a reported **Guy Proffit** business interest on 19 November 1920 (`E-165` / `S-185`). Neither record proves the exact numbered premises, property title, partnership percentage, or uninterrupted succession.

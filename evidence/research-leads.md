@@ -267,3 +267,6 @@ New direct evidence (`E-154`–`E-156`) supplies a 1900 Knapp purchase, a **1905
 - Resolve **W. W. Pollock** (`P-101`) through 1919–1921 directories, restaurant licenses, inspection records, or advertisements; do not infer exact premises from the trade name alone.
 - Resolve the July 1922 **L. E. Blakely / J. Blake / Ed. Blake / Ed Gage** variants with directories, deeds/leases, court records, or independent same-person evidence.
 - Resolve **C. P. Gates** (`P-103`) versus **C. Gates / C. E. Gates** (`P-036`) using the 13 July sale instrument, recorded deed/title chain, assessment rolls, and August replacement-building records. Do not normalize initials until independent proof.
+
+## Fifth Street Restaurant Pollock / Proffit business-interest lead — 2 September 2026
+Search 1916–1921 city licenses, directories, tax/assessment records, partnership notices, legal notices, and additional newspapers for **W. W. Pollock**, **Guy Proffit**, and Fifth Street Restaurant. Target the legal character of Proffit's “interests,” any Pollock-to-Proffit relationship/transfer, and a numbered premises. Preserve search silence as non-proof.

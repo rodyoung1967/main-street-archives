@@ -295,3 +295,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-181` / `E-161` / `P-101` | `BUS-070` | W. W. Pollock conducting restaurant in 1919; sanitation fine. |
 | `S-182` / `E-162` | `BUS-070` | 26 Aug. 1921 incident-place evidence. |
 | `S-183` / `E-163` / `P-102` / `P-103` | `BUS-070`; compare `P-036`, `P-087`, `P-088` | 21 Jul. 1922 L. E. Blakely / C. P. Gates wording; identity conflicts preserved. |
+
+| `S-184` / `E-164` / `P-101` | `BUS-070`; `T-059` | 1 Sep. 1916 direct Pollock / Fifth Street Restaurant / 75.3 inspection listing; exact premises and continuity unresolved. |
+| `S-185` / `E-165` / `P-104` | `BUS-070`; `T-060` | 19 Nov. 1920 Guy Proffit reported business interest; legal character/percentage and exact premises unresolved. |
+| `S-183` / `E-163` duplicate aliases | `BUS-070` | Two steward filenames uploaded 2 Sep. 2026 are byte-identical to existing 21 Jul. 1922 source; no duplicate PDF or ID created. |

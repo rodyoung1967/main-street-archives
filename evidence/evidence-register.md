@@ -1407,3 +1407,27 @@ Claims:
 - Existing records print J. Blake / Ed. Blake / Ed Gage and C. Gates / C. E. Gates. The new L. E. Blakely and C. P. Gates forms are preserved as unresolved identity/initial conflicts.
 Related people: `P-102`, `P-103`; business: `BUS-070`; compare `P-036`, `P-087`, `P-088`, `E-096`, `E-097`, `E-103`.  
 Repository capture: `evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md`.
+
+## E-164 — 1 September 1916 Enterprise names W. W. Pollock at Fifth Street Restaurant
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for the directly printed Pollock/business/score wording; exact premises, title, and continuity unresolved.  
+Source: `S-184` — *Oregon City Enterprise*, 1 September 1916, p. 5.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- The inspection report directly lists **Fifth Street restaurant, W. W. Pollock, 75.3**.
+- This names Pollock at the restaurant one day after the separate Courier inspection summary (`E-160`) printed the restaurant and same score without a proprietor.
+- No numbered address, land/building ownership, or continuous 1916–1919 operating span is proved.
+Related business: `BUS-070`; related person: `P-101`.  
+Repository capture: `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.
+
+## E-165 — 19 November 1920 Enterprise identifies Guy Proffit interest in Fifth Street Restaurant
+Type: Primary newspaper visual evidence.  
+Confidence: Very High for the directly printed business-interest wording; legal character/percentage, exact premises, ownership, and continuity unresolved.  
+Source: `S-185` — *Oregon City Enterprise*, 19 November 1920, p. 5.  
+Status: **VISUALLY VERIFIED**.  
+Claims:
+- The marriage item directly says **Guy Proffit is interested in the Fifth Street Restaurant** in Oregon City.
+- It says he **will retain his interests here** while making daily trips to Portland.
+- The wording does not establish sole ownership, percentage interest, lease, or real-estate title.
+Related business: `BUS-070`; related person: `P-104`.  
+Repository capture: `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.

@@ -600,3 +600,20 @@ timeline:
     related_sources: [S-183]
     related_people: [P-102, P-103]
     related_businesses: [BUS-070]
+
+  - id: T-059
+    date: 1 September 1916
+    summary: Oregon City Enterprise state inspection report directly lists Fifth Street restaurant, W. W. Pollock, 75.3, supplying a named Pollock association one day after a separate Courier inspection summary.
+    confidence: Very High for printed business/person/score; exact premises, title, and continuity unresolved.
+    related_evidence: [E-164]
+    related_sources: [S-184]
+    related_people: [P-101]
+    related_businesses: [BUS-070]
+  - id: T-060
+    date: 19 November 1920
+    summary: Oregon City Enterprise says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests there while making daily trips to Portland.
+    confidence: Very High for printed interest wording; legal character/percentage, property title, exact premises, and continuity unresolved.
+    related_evidence: [E-165]
+    related_sources: [S-185]
+    related_people: [P-104]
+    related_businesses: [BUS-070]

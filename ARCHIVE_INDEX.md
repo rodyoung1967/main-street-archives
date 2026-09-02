@@ -363,3 +363,9 @@ This directly establishes Surber's Palace relationship in 1905 but does not prov
 ## 1 September 2026 — Fifth Street Restaurant primary-page preservation
 
 - [`S-180`–`S-183` / `E-160`–`E-163`](evidence/source-captures/1916-1922-fifth-street-restaurant-uploaded-pages-visual-review-2026-09-01.md) — exact page PDFs preserved for 31 Aug. 1916 inspection, 31 Oct. 1919 W. W. Pollock sanitation fine, 26 Aug. 1921 restaurant fight, and 21 Jul. 1922 post-fire ownership wording. The 1922 page adds unresolved L. E. Blakely and C. P. Gates variants.
+
+### Fifth Street Restaurant Pollock / Proffit supplement — 2 September 2026
+- `S-184` / `E-164`: 1 Sep. 1916 Enterprise p. 5 directly names W. W. Pollock at Fifth Street Restaurant with inspection score 75.3; preserved at `newspapers/oregon-city-enterprise/1916-09-01-page-5-fifth-street-restaurant-pollock-inspection.pdf`.
+- `S-185` / `E-165`: 19 Nov. 1920 Enterprise p. 5 reports Guy Proffit interested in the restaurant and retaining his interests; preserved at `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf`.
+- Two separately named 21 Jul. 1922 steward uploads are exact SHA-256 duplicates of existing `S-183` and are provenance aliases only.
+- Review/provenance: `evidence/source-captures/1916-1920-fifth-street-restaurant-pollock-proffit-supplement-2026-09-02.md`.

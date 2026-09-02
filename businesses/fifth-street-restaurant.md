@@ -24,3 +24,9 @@ Four exact page PDFs add bounded chronology (`E-160`–`E-163`):
 - **21 Jul. 1922:** an Enterprise fire account names **L. E. Blakely** and immediately says “Blakely owned the Fifth street restaurant”; it separately says the building was owned by **C. P. Gates, of Portland**.
 
 The 1922 page **adds rather than resolves** the owner/operator conflict: existing reports print J. Blake, Ed. Blake, and Ed Gage, and existing property/rebuild sources print C. Gates / C. E. Gates. `P-102` L. E. Blakely and `P-103` C. P. Gates are therefore retained as separate source forms pending independent identity evidence.
+
+## Pollock / Proffit supplement — 2 September 2026
+
+Two additional visually verified Enterprise pages tighten the pre-fire chronology. On **1 September 1916**, the state inspection list directly prints **Fifth Street restaurant, W. W. Pollock, 75.3** (`E-164` / `S-184`). On **19 November 1920**, a marriage item says **Guy Proffit** was **interested in the Fifth Street Restaurant** and would **retain his interests** there (`E-165` / `S-185`).
+
+These dated facts do not establish a continuous Pollock-to-Proffit transfer, partnership shares, real-estate ownership, or a numbered address. The two separately uploaded 21 July 1922 fire PDFs supplied with this supplement are exact duplicates of the already-preserved `S-183` page and therefore were not added again.

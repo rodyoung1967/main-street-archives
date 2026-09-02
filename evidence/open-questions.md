@@ -183,3 +183,6 @@ The legacy-branch consolidation adds a direct 1902 block occupant (**Union Store
 ### 1 September 2026 Fifth Street Restaurant update
 
 `E-160`–`E-163` substantially strengthen the 1916–1922 restaurant chronology. They also add two explicit conflicts that remain open: **L. E. Blakely** versus the existing J. Blake / Ed. Blake / Ed Gage forms, and **C. P. Gates** versus C. Gates / C. E. Gates. No exact pre-fire street number is inferred from these pages.
+
+### OQ — Pollock / Proffit Fifth Street Restaurant relationship
+**OPEN.** `E-164` directly names W. W. Pollock at Fifth Street Restaurant in September 1916 and `E-161` calls him its conductor in October 1919; `E-165` reports Guy Proffit with an interest in November 1920. Determine whether these represent continuity, a partnership, a transfer, or distinct operating arrangements. Do not infer a transaction from sequence alone.
