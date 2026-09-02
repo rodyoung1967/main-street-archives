@@ -84,13 +84,11 @@ jobs:
           if old_func not in text:
               raise SystemExit('replace_once function anchor not found')
           text = text.replace(old_func, new_func, 1)
-
           stale = "    notes: The Palace Saloon trade name is listed citywide by May 1907 without address/operator. Ralph O. Smith is a September 1909 applicant at the Palace Saloon, corner Main/Fifth; Joe Wilson is exact 501 in March 1912 and Joseph Wilson is Fifth/Main in June 1912. No grant, property title or uninterrupted succession proved."
           current = "    notes: The Palace Saloon trade name is listed citywide by May 1907 without address/operator. Ralph O. Smith is a September 1909 applicant at the Palace Saloon, corner Main/Fifth. Joe Wilson is exact at 501 in March 1912; a June 1912 notice prints Joseph Wilson at the Palace, Fifth/Main. Joe/Joseph identity is a strong inference, not explicit name-equivalence proof. No license grant, property ownership, Surber/Case/Hunsaker succession or uninterrupted 1907-1913 continuity is assumed."
           if stale not in text:
               raise SystemExit('BUS-024 stale anchor not found in integration script')
-          text = text.replace(stale, current, 1)
-          p.write_text(text, encoding='utf-8')
+          p.write_text(text.replace(stale, current, 1), encoding='utf-8')
           PY
 
       - name: Integrate source and evidence records
@@ -122,10 +120,6 @@ jobs:
               ('    related_people:\n      - P-037\n      - P-098\n', '    related_people:\n      - P-037\n      - P-055\n      - P-098\n      - P-099\n'),
               ('      - E-153\n', '      - E-153\n      - E-154\n      - E-155\n      - E-156\n'),
               ('      - S-173\n', '      - S-173\n      - S-174\n      - S-175\n      - S-176\n'),
-          ])
-          patch_block('database/businesses.yml', '  - id: BUS-045\n', '  - id: BUS-046\n', [
-              ('    related_evidence:\n      - E-121\n', '    related_evidence:\n      - E-121\n      - E-155\n'),
-              ('    related_sources:\n      - S-135\n', '    related_sources:\n      - S-135\n      - S-175\n'),
           ])
           patch_block('database/people.yml', '  - id: P-055\n', '  - id: P-056\n', [
               ('    related_businesses:\n    - BUS-045\n', '    related_businesses:\n    - BUS-024\n    - BUS-045\n'),
