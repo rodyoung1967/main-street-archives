@@ -326,3 +326,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-199` / `E-178` / `P-105` | `BUS-024`; `E-080`; `T-070` | 17 Jun. 1910 E. R. Case Palace Saloon application prints **510 Main**; preserve address conflict/transition question. |
 | `S-032` / `E-026` 14 Apr. 1911 supplement | `BUS-011`; `B-002` | Exact steward page now preserved; Chicago Store directly at 505 Main. |
 | `S-035` / `E-028` 13 May 1921 supplement | `P-027`; `BUS-021`; `B-002`; `T-071` | Exact steward page prints 505 Main; 20 May returns to 505½; no physical-layout inference. |
+
+## 2 September 2026 Palace / pool-hall upload reconciliation
+- `S-178` / `E-158` / `P-098` / `BUS-024` — 25 Jun. 1909 Smith Palace Fifth/Main application plus newly preserved 2 Jul. repeat; no second application/grant inferred.
+- `S-199` / `E-178` / `P-105` / `BUS-024` — 17 and 24 Jun. 1910 Case Palace notices both print 510 Main; repeated printed number strengthens source wording but does not resolve physical-address conflict.
+- `S-172` / `E-152` — newly supplied 17 Sep. 1909 file is an exact duplicate alias of the existing repository PDF; no new ID.
+- `S-150` / `E-135` — newly supplied 13 Feb. and 4 Jun. 1920 pool-hall PDFs are exact duplicate aliases of existing repository PDFs; no new IDs.
+[Reconciliation record](../evidence/source-captures/1909-1920-palace-poolhall-steward-upload-reconciliation-2026-09-02.md).

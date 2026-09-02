@@ -137,7 +137,7 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-098 | [Ralph O. Smith](profiles/ralph-o-smith.md) | Palace Saloon liquor-license applicant | 17 Sep. 1909 notice places him at Palace Saloon, corner Main/Fifth. Application is not grant/title/exact-501 or succession proof. `E-152` / `S-172`. |
+| P-098 | [Ralph O. Smith](profiles/ralph-o-smith.md) | Palace Saloon business-interest purchaser / liquor-license applicant | 25 Jun. 1909 report says Smith bought former partner F. E. Hall's Palace interest; 25 Jun. and 2 Jul. notices print his three-month Palace Saloon, Fifth/Main application; 17 Sep. and 31 Dec. notices continue the dated Palace relationship. Repeat notices are not grants; no exact 501/title or uninterrupted succession is proved. |
 
 ## Palace Saloon 1900–1907 supplement
 
@@ -165,4 +165,4 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-105 | [E. R. Case](profiles/e-r-case.md) | Saloon operator / liquor-license applicant | 1 Jun. 1910 Council record places Case's saloon at Fifth/Main with adjoining restaurant; 17 Jun. Courier directly calls his place the **Palace Saloon, 510 Main street**. Printed 510 is retained as an unresolved address conflict/transition question. `E-080`, `E-178`; `S-093`, `S-199`. |
+| P-105 | [E. R. Case](profiles/e-r-case.md) | Palace Saloon liquor-license applicant / Fifth-Main saloon context | 1 Jun. 1910 Council record places Case's saloon at Fifth/Main; 17 and 24 Jun. Courier notices print Palace Saloon, **510 Main street**, for the same three-month application. Repeated 510 is preserved but does not resolve true physical/legal number, later Palace 501, or later Pacific Telephone 510. |

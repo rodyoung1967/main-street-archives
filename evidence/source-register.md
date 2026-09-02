@@ -1042,6 +1042,8 @@ Evidence: `E-135`.
 Repository source capture: `evidence/source-captures/1920-fifth-sixth-main-pool-hall-visual-verification-2026-08-31.md`.
 Notes: February identifies Clem Dollar as proprietor of a pool hall on Main between Fifth and Sixth; June reports the City Council granted **A. Leland** permission to operate a pool hall at **505½ Main** and erect an electric street sign; December again mentions a pool hall in the Fifth–Sixth Main block. The pages do not prove that the three references are the same hall, do not establish succession, and do not date construction of the surviving 505 building. Do not merge A. Leland with O. H. Leland without independent evidence.
 
+Duplicate steward-upload aliases reviewed 2 September 2026: `Clem Dollar proprietor of pool hall between 5th & 6th on main st feb 1920(1).pdf` is byte-identical to `newspapers/oregon-city-enterprise/1920-02-13-page-5.pdf` (SHA-256 `dfd5be8e1fad8ad1c7dca8516590bb67d1a3d7c3f41cc5e4c1a1cb69a04eb004`), and `A. Leland to operate pool hall at 505 and a half jun 1920(1).pdf` is byte-identical to `newspapers/oregon-city-enterprise/1920-06-04-page-3.pdf` (SHA-256 `3b419bb26e96d77aaf5be8dcb7f0954c7755ab9be890788fad119ca79702c245`). No duplicate binaries or IDs were created.
+
 ## S-151 — Oregon City Enterprise, 1 August 1919, page 7 cleaner/dyer classified
 Type: Primary newspaper scan; **VISUALLY VERIFIED** 31 August 2026.
 Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-08-01/ed-1/seq-7.pdf
@@ -1226,6 +1228,8 @@ Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier.
 Related evidence: `E-152`; person `P-098`; business `BUS-024`.  
 Notes: Ralph O. Smith applies for a three-month liquor license at “the Palace Saloon, corner Main and Fifth Sts.” Application does not prove grant, title, exact 501 number, or operator succession. Uploaded SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a`; repository canonical derivative SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a` (677536 bytes).
 
+Duplicate steward-upload alias reviewed 2 September 2026: `Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5(1).pdf` is byte-identical to the already preserved repository PDF, SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a` (677536 bytes); no duplicate file or ID was created.
+
 ## S-173 — Morning Enterprise, 20 June 1912, p. 2, Joseph Wilson Palace Saloon license application
 Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.  
 Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-06-20/ed-1/seq-2.pdf  
@@ -1266,13 +1270,19 @@ Original uploaded filename: `Palace Saloon (sale of) Oregon City courier., June 
 Related evidence: `E-157`; people `P-098`, `P-100`; business `BUS-024`.  
 Notes: Reports Ralph O. Smith purchased the interest of his former partner F. E. Hall in the Palace Saloon. No address, percentage, consideration, title, license-transfer mechanics, or exact effective date is printed. Uploaded SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`; repository SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`.
 
-## S-178 — Oregon City Courier, 25 June 1909, p. 7 — Ralph O. Smith Palace Saloon liquor-license application
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-7.pdf  
-Repository file: `newspapers/oregon-city-courier/1909-06-25-page-7-palace-saloon-ralph-o-smith-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., June 25, 1909, Page 7, Image 7(1).pdf`  
-Related evidence: `E-158`; person `P-098`; business `BUS-024`.  
-Notes: Ralph O. Smith applies for three months at Palace Saloon, Fifth and Main streets. Application is not proof of grant, exact 501 number, or property title. Uploaded SHA-256 `4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a`; repository SHA-256 `4009305a7b7bfeeaf816bc57a05f1c9f13dad284367efb58fe1c3176b145fe9a`.
+## S-178 — Oregon City Courier, 25 June and 2 July 1909, Ralph O. Smith Palace Saloon license notices
+Canonical PDFs:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-7.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1909-07-02/ed-1/seq-7.pdf
+Repository PDFs:
+- `newspapers/oregon-city-courier/1909-06-25-page-7-palace-saloon-ralph-o-smith-license.pdf`
+- `newspapers/oregon-city-courier/1909-07-02-page-7-palace-saloon-ralph-o-smith-license.pdf`
+Original steward filenames include:
+- `Palace Saloon (Liquor License) Oregon City courier., June 25, 1909, Page 7, Image 7(1).pdf`
+- `Palace Saloon (Liquor License) Oregon City courier., July 02, 1909, Page 7, Image 7.pdf`
+Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.
+Related evidence: `E-158`; person `P-098`; business `BUS-024`.
+Notes: Both pages print the same three-month liquor-license application by **Ralph O. Smith** at **Palace Saloon, Fifth and Main streets**. The 2 July publication is treated as a repeat publication of the same application, not a second application or a license grant. The notices do not print 501 or establish real-estate/building ownership. The newly supplied 2 July PDF is preserved byte-for-byte, SHA-256 `94e004ddf110f08ace6ccd9609d1be2243130d5f3248f37c6a5806ecf27fa704` (691304 bytes).
 
 ## S-179 — Morning Enterprise, 20 June 1911, p. 3 — Joseph Wilson Palace Saloon liquor-license application
 Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
@@ -1434,10 +1444,17 @@ Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED**.
 Related evidence: `E-177`; person `P-098`; business `BUS-024`.  
 Notes: Ralph O. Smith applies at **the Palace Saloon, corner Main and Fifth Sts.**, for **six months**. The notice does not print 501, prove the license was granted, establish real-estate ownership, or prove uninterrupted operation from the prior September notice. SHA-256 `ef4faeabb47ad6c6d91f0f642a07dd55bbc1a8ac6ea69e705224752517e1de02` (716264 bytes).
 
-## S-199 — Oregon City Courier, 17 June 1910, E. R. Case Palace Saloon at printed 510 Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-06-17/ed-1/seq-7.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1910-06-17-page-7-palace-saloon-er-case-510-main.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor Licence) Oregon City courier., June 17, 1910, Page 7, Image 7.pdf`  
-Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED**.  
-Related evidence: `E-178`, cross-reference `E-080`; person `P-105`; business `BUS-024`.  
-Notes: E. R. Case applies for a three-month liquor license at **the Palace Saloon, 510 Main street**. Preserve `510` exactly as printed. A 1 June municipal record independently places Case's saloon at Fifth/Main; later Palace evidence prints 501 under Joe Wilson, and Pacific Telephone later prints 510. No move, typo, renumbering, grant, ownership, or physical-premises explanation is assumed. SHA-256 `1030dd2e183a480980cb29fc3b581599b9a083008ced224dd20fe8131ce9ae9e` (677673 bytes).
+## S-199 — Oregon City Courier, 17 and 24 June 1910, E. R. Case Palace Saloon at printed 510 Main
+Canonical PDFs:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-06-17/ed-1/seq-7.pdf
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-06-24/ed-1/seq-7.pdf
+Repository PDFs:
+- `newspapers/oregon-city-courier/1910-06-17-page-7-palace-saloon-er-case-510-main.pdf`
+- `newspapers/oregon-city-courier/1910-06-24-page-7-palace-saloon-er-case-510-main.pdf`
+Original steward filenames include:
+- `Palace Saloon (Liquor Licence) Oregon City courier., June 17, 1910, Page 7, Image 7.pdf`
+- `Palace Saloon (Liquor License) Oregon City courier., June 24, 1910, Page 7, Image 7.pdf`
+Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.
+Related evidence: `E-178`, cross-reference `E-080`; person `P-105`; business `BUS-024`.
+Notes: Both 17 and 24 June pages print **E. R. Case** applying for a three-month liquor license at **the Palace Saloon, 510 Main street**. The 24 June publication is treated as a repeat publication of the same application. Repetition in two consecutive issues confirms that `510` is not an OCR-only or one-scan transcription artifact, but it does not rule out repeated newspaper-copy/address error and does not prove a physical move or true legal premises number. A separate 1 June municipal record places Case's saloon at Fifth/Main; later Palace evidence prints 501 under Joe Wilson, while Pacific Telephone later prints 510. Preserve the conflict. Newly supplied 24 June PDF SHA-256 `39292ce2a44c7cb0b29b53c08cc1ec4eb7968ff7a3d19cde3911712db26974c0` (700071 bytes).
+

@@ -340,3 +340,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Extended existing `S-032` / `E-026` with the exact 14 Apr. 1911 Chicago Store 505 Main page.
 - Extended existing `S-035` / `E-028` with the exact 13 May 1921 Dr. Freeze 505 Main page; 20 May returns to 505½, reinforcing address-form uncertainty and the no-physical-layout-inference rule.
 - No annual completion status changed. Permanent audit: `evidence/source-captures/1909-1921-palace-chicago-freeze-steward-upload-reconciliation-2026-09-02.md`.
+
+## 2 September 2026 — five-file Palace / pool-hall steward upload integration
+- Refreshed current `main`, reread `AGENTS.md` and `RESEARCH-STANDARD.md`, and reviewed the controlling Palace and 1919–1920 pool-hall checkpoints before changes.
+- Reconciled five supplied newspaper PDFs by exact SHA-256.
+- Newly preserved `newspapers/oregon-city-courier/1909-07-02-page-7-palace-saloon-ralph-o-smith-license.pdf` and `newspapers/oregon-city-courier/1910-06-24-page-7-palace-saloon-er-case-510-main.pdf` byte-for-byte against the supplied uploads.
+- Confirmed the supplied 17 Sep. 1909 Smith page and 13 Feb./4 Jun. 1920 pool-hall pages are exact duplicates of existing repository files; recorded aliases without duplicating binaries or IDs.
+- Extended stable `S-178` / `E-158` with the 2 Jul. 1909 repeat Smith notice and stable `S-199` / `E-178` with the 24 Jun. 1910 repeat Case notice. The repeated 1910 `510 Main` wording is stronger evidence for newspaper wording but remains unresolved as a physical/legal address.
+- No annual status changed; no existing ID was renumbered.

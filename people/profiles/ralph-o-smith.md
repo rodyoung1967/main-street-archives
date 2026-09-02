@@ -12,3 +12,6 @@ The notice proves the dated applicant/business/location wording, not license gra
 
 ## 31 December 1909 six-month Palace application
 `S-198` / `E-177` visually verifies another Ralph O. Smith notice at **the Palace Saloon, corner Main and Fifth Sts.**, this time requesting a **six-month** license. It extends Smith's direct Palace association beyond the 17 September notice but does not print 501, prove grant, title, or uninterrupted operation.
+
+## 2 July 1909 repeat-notice supplement
+A newly supplied and visually verified **2 July 1909** *Courier* page repeats Smith's already documented three-month liquor-license application at **Palace Saloon, Fifth and Main streets** (`S-178` / `E-158`). It is treated as a repeat publication of the same application first preserved from 25 June, not as a second application or proof of grant. No 501 number or title is printed.

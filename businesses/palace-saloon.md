@@ -48,3 +48,11 @@ Two newly supplied, visually verified *Courier* pages materially tighten the Smi
 - **17 Jun. 1910 — `S-199` / `E-178`:** E. R. Case applies for a **three-month** license at **the Palace Saloon, 510 Main street**. A separate 1 Jun. municipal record already places Case's saloon at Fifth/Main (`E-080`).
 
 The 17 June page is direct Palace trade-name evidence for Case, but **510 Main must remain exactly as printed**. It conflicts with/complicates the later exact **501 Main** Palace anchor under Joe Wilson and precedes repeated Pacific Telephone advertising at **510 Main** beginning in August 1910. Current evidence does not distinguish among a business move, numbering issue, newspaper error, or another explanation. No Smith→Case transfer instrument or license grant is proved.
+
+## 2 September 2026 repeat-notice supplement
+Two newly supplied pages extend already registered Palace notices without creating parallel source/evidence IDs.
+
+- **2 July 1909:** Ralph O. Smith's three-month Palace Saloon, Fifth/Main license application is republished one week after the 25 June notice (`S-178` / `E-158`). This is repeat-publication evidence, not a second application or a grant.
+- **24 June 1910:** E. R. Case's three-month Palace notice again prints **510 Main street**, one week after the 17 June notice (`S-199` / `E-178`). The repeat proves `510` is printed on two separate issue scans, but it can still represent repeated source copy. It does not resolve the conflict with Joe Wilson's later **501 Main** Palace or Pacific Telephone's later **510 Main** use.
+
+No continuous Smith→Case transfer, license grant, deed/title, physical move or building continuity is inferred.

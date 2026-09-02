@@ -288,3 +288,6 @@ Use `S-198` / `E-177` and `S-199` / `E-178` to search City Council license grant
 3. whether the printed **510 Main** can be independently corroborated;
 4. how Palace/Case at printed 510 relates chronologically and spatially to Pacific Telephone's repeated 510 Main advertisements beginning Aug. 1910.
 Preserve 510/501 as an unresolved conflict until direct evidence resolves it.
+
+### RL-045 repeat-notice update — 24 June 1910 confirms repeated printed 510
+The 24 June 1910 *Courier* repeats E. R. Case's Palace Saloon application with **510 Main street**, matching the 17 June page (`S-199` / `E-178`). Shift the research question from “was 510 a one-page transcription/OCR anomaly?” to “why was 510 repeatedly printed?” Priority tests remain: Council license application/grant documents, 1909–1911 directories, property/tenancy records, address-numbering records, and advertisements capable of bracketing the transition to Pacific Telephone at 510 by August 1910 and Palace at 501 by March 1912. Do not assume move, typo or renumbering in advance.

@@ -92,3 +92,11 @@ Priority follow-up:
 ## Integrity / uncertainty rule
 
 Do not convert the absence of a construction notice in the bounded OCR/targeted search into proof that no construction occurred. Do not merge Clem Dollar, A. Leland, O. H. Leland, Timms Pool Hall, or Leland & Little without an independent bridge.
+
+## 2 September 2026 duplicate-upload reconciliation
+Two newly supplied steward PDFs were checked by exact SHA-256 and are byte-identical to pages already preserved under `S-150` / `E-135`; no duplicate binary or new ID was created.
+
+- `Clem Dollar proprietor of pool hall between 5th & 6th on main st feb 1920(1).pdf` → `newspapers/oregon-city-enterprise/1920-02-13-page-5.pdf` — SHA-256 `dfd5be8e1fad8ad1c7dca8516590bb67d1a3d7c3f41cc5e4c1a1cb69a04eb004`.
+- `A. Leland to operate pool hall at 505 and a half jun 1920(1).pdf` → `newspapers/oregon-city-enterprise/1920-06-04-page-3.pdf` — SHA-256 `3b419bb26e96d77aaf5be8dcb7f0954c7755ab9be890788fad119ca79702c245`.
+
+The historical interpretation above is unchanged: Dollar is block-located only; Leland is direct at 505½ Main; no same-hall succession or construction date is inferred.

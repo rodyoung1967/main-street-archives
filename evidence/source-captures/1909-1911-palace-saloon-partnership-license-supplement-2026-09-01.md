@@ -86,3 +86,24 @@ Repository SHA-256: `154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b9
 - **20 Jun. 1912:** Joseph Wilson applies at The Palace Saloon, Fifth/Main (`E-153`).
 
 This sequence materially narrows the operator history, but it still does not establish every license grant, every transfer instrument, uninterrupted operation, or real-estate title.
+
+## 2 September 2026 repeat-page supplement
+
+### 2 July 1909 — repeat of S-178 / E-158
+A newly supplied *Oregon City Courier* p. 7 scan again prints **Ralph O. Smith** applying for a three-month liquor license at **Palace Saloon, Fifth and Main streets**. This is a repeat publication of the 25 June notice already under `S-178` / `E-158`, so no new source/evidence ID was created.
+
+Repository file: `newspapers/oregon-city-courier/1909-07-02-page-7-palace-saloon-ralph-o-smith-license.pdf`  
+Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., July 02, 1909, Page 7, Image 7.pdf`  
+SHA-256: `94e004ddf110f08ace6ccd9609d1be2243130d5f3248f37c6a5806ecf27fa704` (691304 bytes).
+
+### 17 September duplicate alias
+The newly supplied `Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5(1).pdf` is byte-identical to the already preserved `newspapers/oregon-city-courier/1909-09-17-page-5-palace-saloon-ralph-o-smith-license.pdf` (`S-172` / `E-152`), SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a`. No duplicate file or ID was created.
+
+### 24 June 1910 — repeat of S-199 / E-178
+A newly supplied *Courier* p. 7 scan repeats **E. R. Case's** three-month Palace Saloon application and again prints **510 Main street**, one week after the 17 June page. The second issue confirms repeated printed usage of `510`; because it repeats the same notice, it does not eliminate the possibility of repeated source-copy/address error.
+
+Repository file: `newspapers/oregon-city-courier/1910-06-24-page-7-palace-saloon-er-case-510-main.pdf`  
+Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., June 24, 1910, Page 7, Image 7.pdf`  
+SHA-256: `39292ce2a44c7cb0b29b53c08cc1ec4eb7968ff7a3d19cde3911712db26974c0` (700071 bytes).
+
+Annual statuses are unchanged.

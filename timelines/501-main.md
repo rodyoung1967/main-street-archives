@@ -45,3 +45,7 @@ Open: Palace 1900/1905 exact location; Surber's 1905 Palace→1907 No.501 room c
 - **19 Mar. 1912:** Joe Wilson's Palace Saloon is directly printed at **501 Main** (`S-118` / `E-104`).
 
 The archive does not assume the 1910 `510` is a typo or a move; the number relationship remains unresolved.
+
+## 2 September 2026 Palace repeat-notice supplement
+- **25 Jun. and 2 Jul. 1909:** Ralph O. Smith's three-month Palace Saloon application is printed at Fifth/Main (`S-178` / `E-158`); no 501 number or grant.
+- **17 and 24 Jun. 1910:** E. R. Case's Palace application prints **510 Main** in two consecutive *Courier* issues (`S-199` / `E-178`); repeated wording does not resolve the conflict with the later direct 501 Palace anchor.

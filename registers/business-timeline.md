@@ -188,3 +188,6 @@ The visually verified *Courier* report says the Chicago clothing store on Main s
 
 ## 13 May 1921 — Dr. Freeze printed 505 Main
 `S-035` / `E-028` adds an exact visually verified **505 Main** advertisement between 8 April **505½** and 20 May **505½**. No physical-layout change is inferred.
+
+## 2 July 1909 and 24 June 1910 Palace repeat notices
+`S-178` / `E-158` now includes the 2 July 1909 republication of Ralph O. Smith's three-month Palace Saloon, Fifth/Main application. `S-199` / `E-178` now includes the 24 June 1910 republication of E. R. Case's Palace application, again printing **510 Main**. Repeat publication is not treated as a second application, grant or premises transfer; the 1910 510-versus-later-501 conflict remains open.

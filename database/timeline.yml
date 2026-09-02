@@ -550,13 +550,22 @@ timeline:
 
   - id: T-053
     date: 25 June 1909
-    summary: Ralph O. Smith is reported purchasing former partner F. E. Hall's interest in Palace Saloon; a same-issue license notice places Smith at Palace Saloon, Fifth/Main. No 501 number, license grant, transaction terms or real-estate title is proved.
+    summary: Ralph O. Smith is reported purchasing former partner F. E. Hall's interest in Palace Saloon; a same-issue 25 June license notice places Smith at Palace Saloon, Fifth/Main, and the same three-month application is republished 2 July. No 501 number, license grant, transaction terms or real-estate title is proved.
     confidence: Very High for visually verified printed wording; legal terms and exact numbered room unresolved.
-    related_evidence: [E-157, E-158]
-    related_sources: [S-177, S-178]
-    related_people: [P-098, P-100]
-    related_businesses: [BUS-024]
-    related_buildings: [B-005]
+    related_evidence:
+    - E-157
+    - E-158
+    related_sources:
+    - S-177
+    - S-178
+    related_people:
+    - P-098
+    - P-100
+    related_businesses:
+    - BUS-024
+    related_buildings:
+    - B-005
+
   - id: T-054
     date: 20 June 1911
     summary: Joseph Wilson applies for a three-month liquor license at The Palace Saloon, corner 5th/Main, moving verified Wilson/Palace evidence back to June 1911. The notice does not print 501 or prove grant/title.
@@ -705,13 +714,19 @@ timeline:
     related_businesses: [BUS-024]
 
   - id: T-070
-    date: 17 June 1910
-    summary: E. R. Case applies for a three-month liquor license at the Palace Saloon, printed 510 Main street; separate 1 June Council evidence places Case's saloon at Fifth/Main.
-    confidence: Very High for direct printed wording; 510 relationship to later Palace 501 and later 1910 Pacific Telephone 510 remains unresolved.
-    related_evidence: [E-178, E-080]
-    related_sources: [S-199, S-093]
-    related_people: [P-105]
-    related_businesses: [BUS-024]
+    date: 17 and 24 June 1910
+    summary: E. R. Case's three-month Palace Saloon application prints 510 Main street in both the 17 and 24 June Courier; separate 1 June Council evidence places Case's saloon at Fifth/Main.
+    confidence: Very High for repeated direct printed 510 wording on two issue scans; repetition does not rule out repeated source-copy/address error, and the relationship to later Palace 501 and later 1910 Pacific Telephone 510 remains unresolved.
+    related_evidence:
+    - E-178
+    - E-080
+    related_sources:
+    - S-199
+    - S-093
+    related_people:
+    - P-105
+    related_businesses:
+    - BUS-024
 
   - id: T-071
     date: 13 May 1921

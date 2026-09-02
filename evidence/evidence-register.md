@@ -1336,19 +1336,15 @@ Limits:
 - No address, percentage interest, price, formal transfer instrument, license transfer, real-estate title, or exact effective date is printed.
 Confidence: Very High for the printed partnership/interest-transfer wording; legal terms and property implications unresolved.
 
-## E-158 — Ralph O. Smith Palace Saloon license application at Fifth/Main, 25 June 1909
-Type: Primary newspaper / liquor-license application
-Date: 25 June 1909
+## E-158 — Ralph O. Smith Palace Saloon license application at Fifth/Main, 25 June; repeated 2 July 1909
+Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.
 Sources: `S-178`
-Related record: `evidence/E-158-1909-palace-saloon-smith-license.md`
+Related person: `P-098`; business: `BUS-024`.
 Claims:
-- Ralph O. Smith is the named applicant.
-- His place of business is Palace Saloon, Fifth and Main streets.
-- The application is for three months.
-Limits:
-- No street number 501 is printed.
-- Application is not proof of grant, real-estate ownership, or building ownership.
-Confidence: Very High for applicant, trade name, intersection, and application wording.
+- The 25 June and 2 July 1909 *Oregon City Courier* pages both print Ralph O. Smith applying for a three-month liquor license at **Palace Saloon, Fifth and Main streets**.
+- The 2 July notice is a repeat publication of the same application, not evidence of a second application or grant.
+- Neither notice prints 501 Main or establishes property/building ownership.
+Confidence: Very High for the repeated printed applicant, trade name, intersection and requested three-month period; license grant, exact numbered address and title remain unresolved.
 
 ## E-159 — Joseph Wilson Palace Saloon license application at Fifth/Main, 20 June 1911
 Type: Primary newspaper / liquor-license application
@@ -1532,9 +1528,19 @@ Claims: The 31 December 1909 *Oregon City Courier* directly names **Ralph O. Smi
 Confidence: **Very High** for applicant, trade name, intersection, date, and requested term; exact number, grant, title, and continuity unresolved.  
 Related record: `evidence/E-177-1909-12-31-ralph-o-smith-palace-saloon.md`
 
-## E-178 — E. R. Case applies at Palace Saloon, printed 510 Main, 17 June 1910
-Type: Primary newspaper liquor-license application plus municipal cross-reference; **VISUALLY VERIFIED** newspaper page  
-Sources: `S-199`; cross-reference `S-093` / `E-080`  
-Claims: The 17 June 1910 *Oregon City Courier* directly names **E. R. Case** applying for a three-month liquor license at **the Palace Saloon, 510 Main street**. The 1 June 1910 City Council record independently places **E. R. Case's saloon at Fifth and Main** with an adjoining restaurant. Together the sources strongly connect the same named operator/trade context, but the archive preserves the newspaper's exact `510` and does not normalize it to 501. Later Joe Wilson Palace evidence directly prints 501 in March 1912, while Pacific Telephone advertisements print 510 beginning in August 1910. The reason for the 510/501 and June/August 510 sequence is unresolved.  
-Confidence: **Very High** for the printed Case/Palace/510 application and the separate municipal Case/Fifth-Main statement; **Unresolved conflict** for how 510 relates to later 501 Palace and later 510 telephone occupancy.  
-Related record: `evidence/E-178-1910-06-17-er-case-palace-saloon-510-main.md`
+## E-178 — E. R. Case Palace Saloon application, printed 510 Main, 17 and 24 June 1910
+Type: Primary newspaper liquor-license notices with independent municipal cross-reference; **VISUALLY VERIFIED**.
+Sources: `S-199`; related municipal evidence: `E-080` / `S-093`.
+Related person: `P-105`; business: `BUS-024`.
+Claims:
+- Both 17 and 24 June 1910 *Oregon City Courier* notices print **E. R. Case** applying for a three-month liquor license at **the Palace Saloon, 510 Main street**.
+- The 24 June notice is a repeat publication of the same application.
+- The repeated `510` establishes that the number occurs on two separate scanned issue pages, not merely in OCR or a single visual transcription.
+- A separate 1 June Council record places E. R. Case's saloon at Fifth/Main and describes an adjoining restaurant.
+Limits / conflict:
+- Repeated publication may repeat the same underlying newspaper-copy or address error; it does not prove the physical/legal premises were truly 510.
+- Later March 1912 evidence directly places Joe Wilson's Palace Saloon at **501 Main**.
+- Pacific Telephone advertisements place that business at **510 Main** beginning in August 1910.
+- No move, renumbering, typo correction, license grant, tenancy, business ownership, real-estate ownership, or physical-premises explanation is assumed.
+Confidence: Very High for the two printed 510 notices and Case/Palace relationship; **UNRESOLVED CONFLICT** for how 510 relates to later Palace 501 and later 1910 Pacific Telephone 510.
+

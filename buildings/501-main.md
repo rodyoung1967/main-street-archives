@@ -136,3 +136,6 @@ New visually verified pages add operator history around the later exact-501 Pala
 
 ## 17 June 1910 Palace Saloon printed-510 conflict
 A visually verified *Courier* notice (`S-199` / `E-178`) identifies **E. R. Case / Palace Saloon / 510 Main street**. Because the Palace is later directly printed at **501 Main** under Joe Wilson, this source is retained as an unresolved address/transition conflict and is **not assigned as B-005 occupancy** without a bridge.
+
+## June 1910 repeated 510 Palace wording
+The Palace/501 chronology now includes a second issue-page control for the unresolved 1910 number conflict: both **17 and 24 June 1910** *Courier* notices for E. R. Case print **Palace Saloon, 510 Main street** (`S-199` / `E-178`). This strengthens only the fact that `510` was repeatedly printed; it does not place the Palace conclusively in the physical 510 premises or prove a move from/to the later direct **501 Main** Palace anchor. A repeated notice may repeat the same source-copy error.

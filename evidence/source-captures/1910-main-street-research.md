@@ -199,3 +199,6 @@ A newly supplied and visually verified **17 June 1910 Courier p. 7** (`S-199` / 
 The printed `510` is not normalized to later Palace `501`. It also creates a high-value transition question because Pacific Telephone & Telegraph is independently advertised at `510 Main` beginning in August 1910 (`E-082` / `S-095`). Determine whether this reflects a move, numbering/error issue, short occupancy, or another explanation.
 
 **Year status remains IN PROGRESS.** This targeted page addition does not certify a full 1910 visual pass.
+
+## 24 June 1910 repeat-notice supplement
+A newly supplied and visually verified **24 June 1910 Courier p. 7** repeats E. R. Case's three-month Palace Saloon application and again prints **510 Main street** (`S-199` / `E-178`). This confirms the number occurs in two consecutive weekly issue scans (17 and 24 June), rather than being an OCR-only or one-scan reading. Because the 24 June item repeats the same notice, it may also repeat the same underlying source-copy/address error. The archive therefore preserves `510` literally but does not resolve it against the later Palace `501 Main` evidence or Pacific Telephone's later 1910 `510 Main` advertising. The year remains **IN PROGRESS**.

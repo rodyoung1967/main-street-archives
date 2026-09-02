@@ -448,3 +448,8 @@ A visually verified *Courier* notice directly prints **E. R. Case** applying at 
 
 ## 13 May 1921 — Dr. Freeze advertisement prints 505 Main
 A visually verified *Enterprise* advertisement prints **Dr. Freeze, Eye Specialist, 505 Main St.** (`S-035` / `E-028`, `T-071`). The 20 May ad returns to **505½ Main**. This alternation strengthens the source-level address-variation interpretation and does not prove a physical move or floor arrangement.
+
+## 2 September 2026 — Palace repeat-notice controls
+A newly preserved **2 July 1909** *Courier* page republishes Ralph O. Smith's three-month liquor-license application at **Palace Saloon, Fifth and Main streets**, first preserved from 25 June (`S-178` / `E-158`). It is not treated as a second application or grant.
+
+A newly preserved **24 June 1910** *Courier* page republishes E. R. Case's three-month Palace application and again prints **510 Main street**, one week after the 17 June notice (`S-199` / `E-178`). Two separate scans therefore carry `510`, but a repeated notice can repeat the same underlying source-copy/address error. The archive continues to preserve the unresolved relationship between this 1910 `510`, Joe Wilson's later direct **501 Main** Palace, and Pacific Telephone's later 1910 use of **510 Main**.
