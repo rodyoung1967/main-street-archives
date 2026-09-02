@@ -30,7 +30,7 @@ jobs:
         run: python -m pip install --quiet pyyaml
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
-      - name: Advance new timeline IDs without touching existing IDs
+      - name: Correct integration IDs and YAML serializer
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -38,8 +38,15 @@ jobs:
           text = p.read_text(encoding='utf-8')
           for old, new in [('T-067','T-071'), ('T-066','T-070'), ('T-065','T-069')]:
               text = text.replace(old, new)
+          old = 'm = re.search(r"(?ms)(    related_sources:\\n(?:      - .+\\n)+)", block)'
+          new = 'm = re.search(r"(?m)(    related_sources:\\n(?:      - [^\\n]+\\n)+)", block)'
+          if old in text:
+              text = text.replace(old, new, 1)
+          elif new not in text:
+              raise SystemExit('Expected BUS-024 related_sources serializer not found; refusing blind patch.')
           p.write_text(text, encoding='utf-8')
           print('New batch timeline IDs set to T-069 through T-071; existing IDs untouched.')
+          print('BUS-024 YAML related_sources serializer made line-bounded.')
           PY
       - name: Reconcile exact PDFs and integrate historical records
         run: python3 scripts/integrate_1909_1921_palace_chicago_freeze_uploads.py
