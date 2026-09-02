@@ -36,6 +36,12 @@ This is the canonical status register for annual research. The completion levels
 
 **1926 status: IN PROGRESS.** All 23 PDF pages of the municipal annual report (`S-159`) are visually reviewed and the original is retained. This is not annual certification: newspaper, directory, minute and other-source coverage remains incomplete. `E-142` records unnumbered fire-call distinctions; `E-143` adds receipt/inspection and county-payment leads, not a target occupant. The [full review, page audit and four numbered manual callouts](../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md) preserve the limits. No institutional inquiry was sent.
 
+## 2 September 2026 pause and resume order
+
+The project steward paused research after asking whether 1924–1927 had been finished. **No completed 1924–1927 sequence is certified.** The 1925 and 1926 municipal reports are fully visually reviewed, but those years remain **IN PROGRESS**. Completion of the 1924 and 1927 municipal-report work has **not been established**; audit their existing records first when resuming. Absence from a report listing is not evidence that a year's report or other records did not exist.
+
+**1928 targeted status: IN PROGRESS.** Its 29-page municipal report was retrieved and text-extracted, but **0/29 PDF pages were visually reviewed** before the pause. The apparent March 1 / 503 Main and September 11 / Fifth & Main garage entries remain **OCR/TEXT ONLY**. This was a lead-driven detour, not a certification of earlier years. The [1928 pause checkpoint](../evidence/source-captures/1928-municipal-fire-report-leads-503-main-fifth-main-garage.md) records the official URL, file hash, uncommitted-PDF status and resume order.
+
 ## Shared manual-work callouts
 
 These callouts do not replace year-specific closeout records. When a year reaches online completion, copy the applicable item into that year’s numbered closeout list and record the result there.
