@@ -54,6 +54,38 @@ jobs:
             newspapers/oregon-city-courier/1905-02-24-page-5-palace-saloon-knapp-surber-sale.pdf \
             newspapers/oregon-city-enterprise/1907-07-19-page-1-palace-saloon-fifth-street.pdf
 
+      - name: Harden integration anchors for wrapped YAML
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_palace_saloon_1900_1907.py')
+          text = p.read_text(encoding='utf-8')
+          old = '''def replace_once(path, old, new):
+              text = read(path)
+              if new in text:
+                  return
+              if old not in text:
+                  raise RuntimeError(f"Anchor not found in {path}: {old[:120]!r}")
+              write(path, text.replace(old, new, 1))'''
+          new = '''def replace_once(path, old, new):
+              text = read(path)
+              if new in text:
+                  return
+              if old in text:
+                  write(path, text.replace(old, new, 1))
+                  return
+              import re
+              pattern = r"\\s+".join(re.escape(part) for part in old.split())
+              updated, count = re.subn(pattern, lambda _m: new, text, count=1)
+              if count != 1:
+                  raise RuntimeError(f"Anchor not found in {path}: {old[:120]!r}")
+              write(path, updated)'''
+          if old not in text:
+              raise SystemExit('replace_once function anchor not found')
+          p.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+
       - name: Integrate source and evidence records
         run: python3 scripts/integrate_palace_saloon_1900_1907.py
 
