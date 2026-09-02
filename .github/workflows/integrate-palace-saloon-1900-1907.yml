@@ -113,9 +113,9 @@ jobs:
           text = text.replace(stale, current, 1)
 
           fixes = {
-              '  - date: 6 April 1900\n': '  - id: T-044\n    date: 6 April 1900\n',
-              '  - date: 24 February 1905\n': '  - id: T-045\n    date: 24 February 1905\n',
-              '  - date: 19 July 1907\n': '  - id: T-046\n    date: 19 July 1907\n',
+              '  - date: 6 April 1900\n': '  - id: T-050\n    date: 6 April 1900\n',
+              '  - date: 24 February 1905\n': '  - id: T-051\n    date: 24 February 1905\n',
+              '  - date: 19 July 1907\n': '  - id: T-052\n    date: 19 July 1907\n',
               '    name: Oregon City Courier-Herald, 6 April 1900, p.5 — Albert Knapp purchases Palace Saloon\n': '    name: Oregon City Courier-Herald, 6 April 1900, p. 5 — Albert Knapp purchases Palace Saloon\n',
               '    name: Oregon City Courier, 24 February 1905, p.5 — Palace Saloon sold A. Knapp to A. J. Surber\n': '    name: Oregon City Courier, 24 February 1905, p. 5 — Palace Saloon sale from A. Knapp to A. J. Surber\n',
               '    name: Oregon City Enterprise, 19 July 1907, p.1 — Palace Saloon on Fifth Street\n': '    name: Oregon City Enterprise, 19 July 1907, p. 1 — Palace Saloon on Fifth Street\n',
