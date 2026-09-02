@@ -1,0 +1,54 @@
+name: Integrate Wolf & Miller steward uploads 1914-1922
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-wolf-miller-steward-uploads-1914-1922.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync current main
+        run: |
+          git fetch origin main
+          git checkout main
+          git pull --ff-only origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator dependency
+        run: python -m pip install --quiet pyyaml
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Preserve exact PDFs and integrate records
+        run: python3 scripts/integrate_wolf_miller_steward_uploads_1914_1922.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push directly to main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No integration changes to commit.'
+          else
+            git commit -m 'Integrate Wolf & Miller steward pages, 1914-1922'
+            git push origin main
+          fi
