@@ -1,0 +1,44 @@
+name: Archive all non-main branch refs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/archive-legacy-branch-refs.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync and fetch every branch
+        run: |
+          git pull --rebase origin main
+          git fetch origin '+refs/heads/*:refs/remotes/origin/*'
+
+      - name: Validate baseline archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Archive branch refs
+        run: python3 scripts/archive_legacy_branch_refs.py
+
+      - name: Validate archive after branch snapshot
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --stat
+          git commit -m "Archive non-main branch refs before cleanup"
+          git pull --rebase origin main
+          git push origin HEAD:main
