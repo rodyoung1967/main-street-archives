@@ -53,7 +53,7 @@ This supplies precise early post-rebuild tenant/address anchors:
 - **18 Jul 1922:** Fifth/Main fire begins in the vacant former Schieremann tailor room; an adjoining pool hall is damaged;
 - **1925 Sanborn:** 505 is visually mapped as a separate billiards/cigars occupancy.
 
-The June 1922 move is potentially useful to the fire reconstruction because it shows a **half-numbered 505-associated professional occupancy ending immediately before the July fire**. It does **not** establish what occupied the ground-floor 505 storefront, that 505½ was physically above 505, that Dr. Freeze's former office was the Schieremann room, or that the July fire-adjacent pool hall was at 505. Those remain separate questions requiring premises-specific evidence.
+The June 1922 move is potentially useful to the fire reconstruction because it shows a **half-numbered 505-associated professional occupancy ending immediately before the July fire**. The half-number is an address designation, not evidence of a particular floor. The currently inspected sources do **not** establish whether 505½ was a same-floor side-by-side subdivision, a front/rear division, an upper-floor space, or another separately numbered arrangement. They also do not establish what occupied 505 Main independently, that Dr. Freeze's former space was the Schieremann room, or that the July fire-adjacent pool hall was at 505.
 
 ## Improvement over existing archive wording
 
@@ -61,9 +61,9 @@ Existing evidence `E-028` and source `S-035` broadly record Dr. Freeze at 505 / 
 
 ## Research targets
 
-1. Determine whether **505½** represented an upstairs office, rear room, or other subdivision of the 505 premises.
+1. Determine the physical relationship between **505½** and **505 Main** without assuming a floor: test same-floor side-by-side, front/rear, upper-floor, and other subdivision possibilities using directories, Sanborn/fire-insurance detail, permits, assessor records, photographs, and building evidence.
 2. Search July 1922 records for the new occupant, vacancy, or reuse of the 505½ space after Freeze moved.
-3. Find the exact July 1922 ground-floor occupant of **505 Main** independently of the 505½ office.
+3. Find the exact July 1922 occupant/use of **505 Main** independently of the 505½ space.
 4. Search January–7 April 1921 issues for an earlier 505½ Main advertisement or opening/move notice.
 5. Search late 1920 for Dr. Freeze at 505/505½ to determine whether his occupancy began during 1920.
 6. Search for construction/completion notices for the c.1920 505 building immediately preceding the April 1921 occupancy.
