@@ -48,7 +48,67 @@ jobs:
               print('Serializer fixed.')
           PY
       - name: Reconcile PDFs and integrate historical records
-        run: python3 scripts/integrate_1907_1940_steward_uploads.py
+        run: |
+          if python3 - <<'PY'
+          from pathlib import Path
+          import sys
+
+          # A rerun is safe only when the immutable IDs are the exact records
+          # created by this integration and the end-of-run audit marker exists.
+          # If any check is missing, run the integrator normally so its collision
+          # guards still fail hard on partial or genuinely conflicting states.
+          checks = [
+              (
+                  'evidence/source-register.md',
+                  '## S-192 — Oregon City Courier, 25 December 1913, Chicago Store fire and George Harding building-owner statement',
+              ),
+              (
+                  'evidence/source-register.md',
+                  '## S-193 — The Amplifier, 18 October 1940, JAGERS at 503 Main',
+              ),
+              (
+                  'evidence/evidence-register.md',
+                  '## E-171 — Chicago Store fire and George Harding building ownership, December 1913',
+              ),
+              (
+                  'evidence/evidence-register.md',
+                  '## E-172 — JAGERS advertised at 503 Main, 18 October 1940',
+              ),
+              (
+                  'businesses/business-index.md',
+                  '| BUS-084 | [JAGERS](jagers.md) | 503 Main |',
+              ),
+              ('database/timeline.yml', '  - id: T-063\n'),
+              ('database/timeline.yml', '  - id: T-064\n'),
+              (
+                  'evidence/source-captures/1907-1940-steward-upload-reconciliation-2026-09-02.md',
+                  '# 1907–1940 steward-upload reconciliation: Justin & Hitchman, Chicago Store fire, Fifth/Main fire, and JAGERS',
+              ),
+              (
+                  'registers/research-log.md',
+                  '### 2026-09-02 — Reconcile Justin/Hitchman, 1913 Chicago fire, 1922 fire, and 1940 JAGERS uploads',
+              ),
+          ]
+
+          missing = []
+          for path, marker in checks:
+              p = Path(path)
+              if not p.exists() or marker not in p.read_text(encoding='utf-8'):
+                  missing.append(f'{path}: {marker}')
+
+          if missing:
+              print('Completed integration markers are not all present; running integrator.')
+              for item in missing:
+                  print(f'  missing: {item}')
+              sys.exit(1)
+
+          print('Integration is already complete with the expected immutable IDs; rerun is a successful no-op.')
+          PY
+          then
+            :
+          else
+            python3 scripts/integrate_1907_1940_steward_uploads.py
+          fi
       - name: Validate archive after integration
         run: python3 scripts/validate_archive.py
       - name: Commit and push directly to main
