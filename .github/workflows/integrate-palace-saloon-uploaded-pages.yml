@@ -41,15 +41,17 @@ jobs:
           p = Path('scripts/integrate_palace_saloon_uploaded_pages.py')
           t = p.read_text(encoding='utf-8')
           pattern = r'    if len\(data\) != item\["size"\] or digest != item\["sha256"\]:\n.*?    dest\.write_bytes\(data\)'
-          replacement = '''    if len(data) != item["size"] or digest != item["sha256"]:
-              print(
-                  f"Canonical PDF derivative differs byte-for-byte from uploaded copy for {item['path']}: "
-                  f"repository size={len(data)} sha256={digest}; uploaded size={item['size']} sha256={item['sha256']}"
-              )
-          item["repository_sha256"] = digest
-          item["repository_size"] = len(data)
-          dest.write_bytes(data)'''
-          t2, n = re.subn(pattern, replacement, t, count=1, flags=re.S)
+          replacement = (
+              '    if len(data) != item["size"] or digest != item["sha256"]:\n'
+              '        print(\n'
+              '            f"Canonical PDF derivative differs byte-for-byte from uploaded copy for {item[\'path\']}: "\n'
+              '            f"repository size={len(data)} sha256={digest}; uploaded size={item[\'size\']} sha256={item[\'sha256\']}"\n'
+              '        )\n'
+              '    item["repository_sha256"] = digest\n'
+              '    item["repository_size"] = len(data)\n'
+              '    dest.write_bytes(data)'
+          )
+          t2, n = re.subn(pattern, lambda m: replacement, t, count=1, flags=re.S)
           if n != 1:
               raise SystemExit(f'download guard replacement count={n}')
           p.write_text(t2, encoding='utf-8')
