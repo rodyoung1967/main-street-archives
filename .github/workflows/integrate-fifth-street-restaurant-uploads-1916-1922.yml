@@ -35,6 +35,20 @@ jobs:
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
 
+      - name: Correct integration serializer
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_fifth_street_restaurant_uploads_1916_1922.py')
+          text = p.read_text(encoding='utf-8')
+          old = 'write(path, text + "\\n" + block.strip() + "\\n")'
+          new = 'write(path, text + "\\n" + block.strip("\\n") + "\\n")'
+          if old not in text and new not in text:
+              raise SystemExit('serializer target not found')
+          if old in text:
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+
       - name: Preserve exact PDFs and integrate records
         run: python3 scripts/integrate_fifth_street_restaurant_uploads_1916_1922.py
 
