@@ -2,6 +2,10 @@
 
 These instructions apply to any AI or automation working on The Main Street Archive.
 
+## Mandatory Startup Rule
+
+Before conducting research, interpreting evidence, modifying repository records, or committing changes, fetch/sync the latest `main` branch and read this file and `RESEARCH-STANDARD.md` completely. These instructions govern both research reasoning and repository maintenance. Do not rely on remembered or previously quoted versions when the current repository files are available.
+
 ## Core Rules
 
 - Never delete historical information without preserving why it was superseded or moved.
