@@ -1,0 +1,208 @@
+{
+  "main_at_archive": "d94123fa03206a7cbda58ba9cf5e880b81160bee",
+  "branch_count": 24,
+  "logical_archive_sha256": "ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a",
+  "logical_archive_bytes": 3409556,
+  "stored_files": [
+    {
+      "path": "records/repository-history/all-non-main-branch-refs-2026-09-01.tar.gz",
+      "bytes": 3409556,
+      "sha256": "ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a"
+    }
+  ],
+  "reassembly": "Concatenate parts in numeric order if split, then verify logical_archive_sha256.",
+  "branches": [
+    {
+      "name": "add-kwality-matchbook-photo",
+      "tip": "3efc61a9870b9c0a3ea4fd3379e2fde027e7c4af",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 502,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "audit/ignore",
+      "tip": "181b7ce3ce096673f1280e24333668a90712bb6f",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 459,
+      "branch_only_commits": 12,
+      "changed_paths_from_merge_base": 10
+    },
+    {
+      "name": "codex/1915-polk-review",
+      "tip": "2d8d76d39e74b226a7567dbee5ea7db5f924d50d",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 108,
+      "branch_only_commits": 1,
+      "changed_paths_from_merge_base": 17
+    },
+    {
+      "name": "cursor/1965-forward-municipal-timeline-fbe0",
+      "tip": "d3d0ec424befe1f70571cb32be982e9cbd0eb68a",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 200,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "cursor/1973-1987-503-505-research-fbe0",
+      "tip": "528b0209028cefbd39436011abbc04d685926352",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 197,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "noop-avoid",
+      "tip": "9fe4a40482ecab4d2056298cb1ec875e16ce56a3",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 455,
+      "branch_only_commits": 13,
+      "changed_paths_from_merge_base": 13
+    },
+    {
+      "name": "noop-avoid-1912",
+      "tip": "06bd6b3a62685093a7fb62b5268ad6a5c69cc153",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 453,
+      "branch_only_commits": 11,
+      "changed_paths_from_merge_base": 11
+    },
+    {
+      "name": "organize-aug20-newspapers",
+      "tip": "6902044d4e3f6b730bb6d14a0cd349d33cce0f93",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 462,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "research-1902-1903-courier",
+      "tip": "dbdd56ff2bc49f4b306439f2da6cc8ce769a34b5",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 462,
+      "branch_only_commits": 18,
+      "changed_paths_from_merge_base": 18
+    },
+    {
+      "name": "research/1904-closeout-1905",
+      "tip": "ce9002df8fbad892657c246fa35850e969075814",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 462,
+      "branch_only_commits": 11,
+      "changed_paths_from_merge_base": 8
+    },
+    {
+      "name": "research/1906-main-street",
+      "tip": "181b7ce3ce096673f1280e24333668a90712bb6f",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 459,
+      "branch_only_commits": 12,
+      "changed_paths_from_merge_base": 10
+    },
+    {
+      "name": "research/1907-main-street",
+      "tip": "1aaaa8c3c6632a40c2a4b225327a6db3f0b318eb",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 458,
+      "branch_only_commits": 11,
+      "changed_paths_from_merge_base": 11
+    },
+    {
+      "name": "research/1908-main-street",
+      "tip": "9edcf159061cbfe78ef7acbe6c44f8ec24bcaf26",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 457,
+      "branch_only_commits": 10,
+      "changed_paths_from_merge_base": 10
+    },
+    {
+      "name": "research/1909-main-street",
+      "tip": "7835f4baf0fff0f66d7547cb83415114f603fb23",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 456,
+      "branch_only_commits": 11,
+      "changed_paths_from_merge_base": 11
+    },
+    {
+      "name": "research/1910-main-street",
+      "tip": "9fe4a40482ecab4d2056298cb1ec875e16ce56a3",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 455,
+      "branch_only_commits": 13,
+      "changed_paths_from_merge_base": 13
+    },
+    {
+      "name": "research/1911-main-street",
+      "tip": "81e07bea5a3dde79aac6661431edd784c0b7a957",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 454,
+      "branch_only_commits": 11,
+      "changed_paths_from_merge_base": 11
+    },
+    {
+      "name": "research/1912-closeout",
+      "tip": "d184e3422abade2fb33f5b500347f3fe808ef389",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 452,
+      "branch_only_commits": 15,
+      "changed_paths_from_merge_base": 11
+    },
+    {
+      "name": "research/1912-main-street",
+      "tip": "e3c56e940d62e575a7f48e5959924a85e1afd206",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 453,
+      "branch_only_commits": 12,
+      "changed_paths_from_merge_base": 12
+    },
+    {
+      "name": "research/1913-pass",
+      "tip": "113194dadc8b0285f50b13c587b24099f65b51a0",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 452,
+      "branch_only_commits": 2,
+      "changed_paths_from_merge_base": 1
+    },
+    {
+      "name": "research/1914-pass",
+      "tip": "510c43dc252d0e5ba61a03533c97793d24c96bc7",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 448,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "research/1915-pass",
+      "tip": "80b402849648983c7feace4bcd04d4bb035d78a2",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 447,
+      "branch_only_commits": 34,
+      "changed_paths_from_merge_base": 10
+    },
+    {
+      "name": "research/1916-pass",
+      "tip": "f0ec2bb08ef096576dcced48e14353e15a75a4ce",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 441,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    },
+    {
+      "name": "temp-ignore-1912",
+      "tip": "e3c56e940d62e575a7f48e5959924a85e1afd206",
+      "tip_is_ancestor_of_main": false,
+      "main_only_commits": 453,
+      "branch_only_commits": 12,
+      "changed_paths_from_merge_base": 12
+    },
+    {
+      "name": "tmp-noop-should-not-create",
+      "tip": "651a3381a7178ae134c19a8fe11aabf776e0766f",
+      "tip_is_ancestor_of_main": true,
+      "main_only_commits": 182,
+      "branch_only_commits": 0,
+      "changed_paths_from_merge_base": 0
+    }
+  ]
+}

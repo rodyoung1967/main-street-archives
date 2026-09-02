@@ -286,3 +286,9 @@ This was a repository-presence and preservation-control audit, not new historica
 - Promoted genuinely missing 1902–1903 relative-location evidence and the 26 February 1914 Holman move using fresh IDs `E-145`–`E-150` / `S-161`–`S-170` and businesses `BUS-081`–`BUS-083`; attached the 24 August 1906 Courier numbering corroboration to existing `E-061` instead of creating duplicate evidence.
 - Corrected the stale master-timeline statement about the missing Holman move notice; no annual status was advanced. Remote scans were not newly re-certified during branch consolidation, so OCR/text-only and legacy-verification caveats remain explicit.
 - Added `RL-046` / `OQ-033` for the unresolved Harding Block–Willamette Building/Fair Store and pre-numbering storefront mapping questions.
+
+### 2026-09-01 — Archive all non-main branch refs before cleanup
+- Archived 24 non-main branch refs with tip SHA, merge base, commit log, binary diff and changed-file tip state.
+- Logical archive SHA-256 `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a`; storage/chunk hashes are in `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json`.
+- This follows canonical integration of `research-1902-1903-courier`; superseded/unmerged branch states remain historical records, not silently accepted claims.
+- Branch refs may be deleted only after this archive is committed to `main` and archive validation passes.

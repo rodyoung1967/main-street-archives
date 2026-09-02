@@ -334,3 +334,7 @@ The canonical status and blockers are maintained in [registers/year-status.md](r
 ## Legacy branch consolidation — 1902–1904 / Holman 1914
 
 The former `research-1902-1903-courier` branch was reconciled against current `main` without merging its obsolete IDs. [Consolidation audit](registers/branch-consolidation-research-1902-1903-courier-2026-09-01.md) and the repository-history snapshot preserve the complete branch-only state. Canonical promoted records are `E-145`–`E-150` / `S-161`–`S-170` with new businesses `BUS-081`–`BUS-083`. The 1906 numbering item was attached to existing `E-061`; no duplicate evidence ID was created.
+
+## Final non-main branch-ref archive — 2026-09-01
+
+All **24** non-main branch refs were archived before branch cleanup. The [branch deletion audit](registers/branch-deletion-audit-2026-09-01.md) records every tip and divergence count; `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json` records archive hashes and storage chunks. This is repository-history preservation, not promotion of superseded branch hypotheses.
