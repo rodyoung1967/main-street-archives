@@ -234,16 +234,14 @@ The exact old branch file and its full context are retained inside the repositor
 '''
     write('evidence/source-captures/1914-02-26-holman-move-fifth-main-legacy-branch-integration.md', holman_capture)
 
-    # New business pages for the three target-relevant businesses not previously registered.
     business_pages = {
-        B[0]: ('union-store-1902.md', 'The Union Store', f'''# The Union Store\n\nBusiness ID: `{B[0]}`.\n\nA 7 November 1902 *Oregon City Courier* advertisement, preserved from the legacy branch as `{S[2]}` / `{E[1]}`, places **The Union Store** on **Main Street between Fifth and Sixth Streets** and identifies the proprietor only as **Michael**. The advertisement announces liquidation/closing and says stock and fixtures are to be sold by New Year.\n\nThe exact later 5xx storefront, legal ownership, opening date, proprietor's full identity, and whether the liquidation completed exactly as advertised remain unresolved. Do not infer vacancy after the advertisement without a later source.\n'''),
-        B[1]: ('portland-clothing-house.md', 'Portland Clothing House', f'''# Portland Clothing House\n\nBusiness ID: `{B[1]}`.\n\nA 2 January 1903 *Oregon City Courier* advertisement, preserved as `{S[3]}` / `{E[2]}`, places **Portland Clothing House next door to Harding's Drug Store**. The source does not print a number.\n\nThis is a storefront-adjacency anchor only. It must not be assigned to 505, 507, 509, 511, or another later number without an independent pre-/post-numbering bridge.\n'''),
-        B[2]: ('fair-store.md', 'The Fair Store', f'''# The Fair Store\n\nBusiness ID: `{B[2]}`.\n\nA 23 January 1903 *Oregon City Courier* advertisement places **The Fair Store opposite the Post Office**. April and May 1903 legacy records indicate an impending move; those later items remain OCR/TEXT ONLY in this consolidation. See `{S[4]}` / `{E[3]}`.\n\nThe old branch also recorded Fair Store advertisements in **Harding Block** and the **Willamette Building** in 1905. Whether the spring-1903 move led to that building, and whether Harding Block and Willamette Building were the same or overlapping premises, remain unresolved under `{RL}`.\n'''),
+        B[0]: ('union-store-1902.md', f'''# The Union Store\n\nBusiness ID: `{B[0]}`.\n\nA 7 November 1902 *Oregon City Courier* advertisement, preserved from the legacy branch as `{S[2]}` / `{E[1]}`, places **The Union Store** on **Main Street between Fifth and Sixth Streets** and identifies the proprietor only as **Michael**. The advertisement announces liquidation/closing and says stock and fixtures are to be sold by New Year.\n\nThe exact later 5xx storefront, legal ownership, opening date, proprietor's full identity, and whether the liquidation completed exactly as advertised remain unresolved. Do not infer vacancy after the advertisement without a later source.\n'''),
+        B[1]: ('portland-clothing-house.md', f'''# Portland Clothing House\n\nBusiness ID: `{B[1]}`.\n\nA 2 January 1903 *Oregon City Courier* advertisement, preserved as `{S[3]}` / `{E[2]}`, places **Portland Clothing House next door to Harding's Drug Store**. The source does not print a number.\n\nThis is a storefront-adjacency anchor only. It must not be assigned to 505, 507, 509, 511, or another later number without an independent pre-/post-numbering bridge.\n'''),
+        B[2]: ('fair-store.md', f'''# The Fair Store\n\nBusiness ID: `{B[2]}`.\n\nA 23 January 1903 *Oregon City Courier* advertisement places **The Fair Store opposite the Post Office**. April and May 1903 legacy records indicate an impending move; those later items remain OCR/TEXT ONLY in this consolidation. See `{S[4]}` / `{E[3]}`.\n\nThe old branch also recorded Fair Store advertisements in **Harding Block** and the **Willamette Building** in 1905. Whether the spring-1903 move led to that building, and whether Harding Block and Willamette Building were the same or overlapping premises, remain unresolved under `{RL}`.\n'''),
     }
-    for bid, (filename, _, body) in business_pages.items():
+    for bid, (filename, body) in business_pages.items():
         write(f'businesses/{filename}', body)
 
-    # Evidence files.
     evidence_files = [
         (E[0], '1902-schrader-main-street-bakery-background.md', 'Schrader Main-Street Bakery background, 1902', S[0],
          'A 3 January 1902 Courier-Herald profile says Herman Schrader had worked nearly eighteen years in the Main-Street Bakery before purchasing his then-current bakery about a year earlier. This extends the Main Street bakery chronology but does not identify a later numbered storefront or prove physical continuity.',
@@ -275,7 +273,6 @@ The exact old branch file and its full context are retained inside the repositor
         body = f'''# {eid} — {name}\n\nType: Primary newspaper reading recovered from legacy branch; verification state preserved conservatively  \nSource: `{sid}`{related}\n\n## Claim supported\n\n{claim}\n\n## Verification / limits\n\nThe complete pre-consolidation branch record is retained in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz`. This integration did not newly inspect the remote scan, so it does not upgrade the legacy verification state.\n\nConfidence: **{confidence}**\n'''
         write(f'evidence/{eid}-{filename}', body)
 
-    # Source register + YAML.
     source_rows = [
         (S[0], 'Courier-Herald, 3 January 1902, p. 24, Schrader profile', 'https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf', E[0]),
         (S[1], 'Courier-Herald, 24 October 1902, p. 5, Huntley Bros. remodel', 'https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf', None),
@@ -292,7 +289,7 @@ The exact old branch file and its full context are retained inside the repositor
               'These source IDs preserve previously branch-only research. The branch snapshot is retained under `records/repository-history/`. Verification states are not silently upgraded during consolidation.', '']
     src_yaml = []
     for sid, name, url, evid in source_rows:
-        src_md += [f'### {sid} — {name}', f'URL: {url}  ', 'Type: Primary newspaper source / legacy-branch source trail.  ',
+        src_md += [f'## {sid} — {name}', f'URL: {url}  ', 'Type: Primary newspaper source / legacy-branch source trail.  ',
                    f'Related evidence: `{evid}`  ' if evid else 'Related evidence: contextual source only; no standalone claim-level record assigned.  ',
                    'Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  ' if sid != S[9] else 'Repository capture: `evidence/source-captures/1914-02-26-holman-move-fifth-main-legacy-branch-integration.md`  ',
                    'Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.', '']
@@ -301,12 +298,11 @@ The exact old branch file and its full context are retained inside the repositor
     append_once('evidence/source-register.md', '## Legacy branch sources integrated 1 September 2026', '\n'.join(src_md))
     append_once('database/sources.yml', f'  - id: {S[0]}\n', '\n'.join(src_yaml))
 
-    # Evidence register + YAML.
     ev_md = ['## Legacy 1902–1903 / February 1914 evidence integrated 1 September 2026', '']
     ev_yaml = []
     for idx, (eid, filename, name, sid, claim, confidence) in enumerate(evidence_files):
         repo_file = f'evidence/{eid}-{filename}'
-        ev_md += [f'### {eid} — {name}', 'Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  ',
+        ev_md += [f'## {eid} — {name}', 'Type: Primary newspaper reading recovered from legacy branch; conservative verification state.  ',
                   f'Sources: `{sid}`  ', f'Related record: `{repo_file}`  ', f'Claims: {claim}  ', f'Confidence: {confidence}', '']
         ev_yaml += [f'  - id: {eid}', f'    name: {json.dumps(name)}',
                     '    type: ' + json.dumps('Primary newspaper reading recovered from legacy branch; verification state preserved conservatively'),
@@ -328,7 +324,6 @@ The exact old branch file and its full context are retained inside the repositor
     append_once('evidence/evidence-register.md', '## Legacy 1902–1903 / February 1914 evidence integrated 1 September 2026', '\n'.join(ev_md))
     append_once('database/evidence.yml', f'  - id: {E[0]}\n', '\n'.join(ev_yaml))
 
-    # Business index/YAML.
     biz_index = f'''## 1902–1903 businesses promoted from legacy branch consolidation
 
 | ID | Business | Address / Association | Notes |
@@ -364,7 +359,6 @@ The exact old branch file and its full context are retained inside the repositor
 '''
     append_once('database/businesses.yml', f'  - id: {B[0]}\n', biz_yaml)
 
-    # Enrich existing central entity pages.
     append_once('businesses/schraders-bakery.md', '## 1902 Main-Street Bakery background', f'''## 1902 Main-Street Bakery background
 
 Legacy-branch source `{S[0]}` / evidence `{E[0]}` preserves a 3 January 1902 profile saying Herman Schrader had worked nearly eighteen years in the **Main-Street Bakery** before purchasing his then-current bakery about a year earlier. This extends the trade chronology but does not prove the exact later Main Street storefront or continuity to the 1912 premises.
@@ -382,7 +376,6 @@ Legacy-branch source `{S[5]}` / evidence `{E[4]}` records George A. Harding's dr
 `{S[0]}` / `{E[0]}` preserves a 1902 profile stating that Schrader had worked nearly eighteen years in the **Main-Street Bakery** before buying his then-current bakery about a year earlier. Exact premises and continuity to the later Main Street bakery remain unresolved.
 ''')
 
-    # Current E-061 gains the independent 24 Aug 1906 corroboration without duplicating evidence IDs.
     replace_required('evidence/E-061-1906-formal-street-numbering.md',
                      'Source: `S-075`  ', f'Sources: `S-075`, `{S[8]}`  ')
     e061 = read('evidence/E-061-1906-formal-street-numbering.md')
@@ -393,7 +386,6 @@ Legacy-branch source `{S[5]}` / evidence `{E[4]}` records George A. Harding's dr
         write('evidence/E-061-1906-formal-street-numbering.md', e061)
     add_source_to_e061_yaml(S[8])
 
-    # Holman chronology updates.
     append_once('evidence/E-054-holman-fifth-main-1915-1917.md', '## 26 February 1914 antecedent', f'''## 26 February 1914 antecedent
 
 The legacy-branch record now retained as `{S[9]}` / `{E[5]}` moves the Fifth/Main chronology back to **26 February 1914**: the *Courier* reported Holman moving from the Caufield Building at Eighth/Main to **his building at Fifth/Main**. The exact later numbered address remains unproved. The separately visually verified 28 August 1914 advertisement independently confirms that Holman had moved to Fifth/Main by that later date.
@@ -422,11 +414,10 @@ A 7 November *Courier* advertisement places **The Union Store** directly on **Ma
 The legacy branch supplies three useful pre-numbering relationships: **Portland Clothing House next door to Harding's Drug Store** (`{E[2]}` / `{S[3]}`); **George A. Harding's drug store in the Willamette Building** (`{E[4]}` / `{S[5]}`); and **The Fair Store opposite the Post Office** with a spring move pending (`{E[3]}` / `{S[4]}`). These are relational anchors only. Later numbers such as Harding's 511 Main address are not projected backward, and the Fair Store's destination remains unproved.
 
 ## 1904 — legacy Courier mapping context
-A consolidated legacy review (`S[6]` / `S[7]`) preserves additional building and adjacency anchors, including the active **Willamette Building** and a New Book Store in **Lamb & Sawyer's Building next to Oregon City Bank**. It recovered no defensible 1904 Courier target number or secure named target-block tenant. That is research coverage only, not vacancy evidence. The full old branch is preserved in the repository-history snapshot.
-'''.replace('`S[6]`', f'`{S[6]}`').replace('`S[7]`', f'`{S[7]}`')
+A consolidated legacy review (`{S[6]}` / `{S[7]}`) preserves additional building and adjacency anchors, including the active **Willamette Building** and a New Book Store in **Lamb & Sawyer's Building next to Oregon City Bank**. It recovered no defensible 1904 Courier target number or secure named target-block tenant. That is research coverage only, not vacancy evidence. The full old branch is preserved in the repository-history snapshot.
+'''
     insert_before('timeline.md', '## Late 1904 — I. Tolpolar on Main Street', '## 1902 — exact study-block business', pre1904)
 
-    # Research leads: update Holman and numbering; add Harding/Willamette/Fair lead.
     old_rl20 = '## RL-020 — Recover the Claimed 1914 Holman Move Notice\nStatus: **Completed.** The 28 August 1914 *Morning Enterprise*, page 3, was recovered and visually reviewed; it reports Holman moving to Fifth and Main. This establishes the intersection-level move but does **not** prove that the premises carried the exact number 501. Exact-number mapping remains under `RL-019` and `RL-025`.'
     new_rl20 = f'''## RL-020 — Recover the Claimed 1914 Holman Move Notice
 Status: **Completed and chronology advanced.** The separately visually verified 28 August 1914 *Morning Enterprise* advertisement confirms Holman at Fifth/Main. Legacy-branch source `{S[9]}` / evidence `{E[5]}` now preserves an earlier **26 February 1914 Courier** notice saying Holman moved from the Caufield Building at Eighth/Main to **his building at Fifth/Main**. The February source moves the documented relocation earlier and adds reported ownership wording, but it still does **not** prove the later number 501 or a legal parcel. Exact-number/property mapping remains under `RL-019` and `RL-025`.'''
@@ -475,7 +466,7 @@ The former `research-1902-1903-courier` branch was reconciled against current `m
 
     log_entry = f'''### 2026-09-01 — Consolidate legacy `research-1902-1903-courier` branch
 - Compared the 18-commit legacy branch against current `main`; direct merge/cherry-pick was rejected because old branch evidence IDs now collide with different canonical records.
-- Preserved the branch tip, merge base, 18 changed files, commit log and binary diff in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz` (SHA-256 `{snapshot_sha}`).
+- Preserved the branch tip, merge base, {len(changed)} changed files, commit log and binary diff in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz` (SHA-256 `{snapshot_sha}`).
 - Promoted genuinely missing 1902–1903 relative-location evidence and the 26 February 1914 Holman move using fresh IDs `{E[0]}`–`{E[5]}` / `{S[0]}`–`{S[9]}` and businesses `{B[0]}`–`{B[2]}`; attached the 24 August 1906 Courier numbering corroboration to existing `E-061` instead of creating duplicate evidence.
 - Corrected the stale master-timeline statement about the missing Holman move notice; no annual status was advanced. Remote scans were not newly re-certified during branch consolidation, so OCR/text-only and legacy-verification caveats remain explicit.
 - Added `{RL}` / `{OQ}` for the unresolved Harding Block–Willamette Building/Fair Store and pre-numbering storefront mapping questions.
