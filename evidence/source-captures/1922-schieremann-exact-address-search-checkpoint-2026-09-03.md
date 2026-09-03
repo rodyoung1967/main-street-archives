@@ -2,7 +2,7 @@
 
 Status: **TARGETED REPOSITORY/ONLINE LEAD PASS COMPLETE; EXACT ADDRESS STILL UNRESOLVED.**
 
-Purpose: record the bounded attempt to identify the exact Main Street number of the vacant room formerly occupied by Alex Schieremann immediately before the 18 July 1922 Fifth/Main fire, so later work does not repeat already-worked repository leads.
+Purpose: record the bounded attempt to identify the exact Main Street number of the vacant room formerly occupied by Alex Schieremann immediately before the 18 July 1922 Fifth/Main fire, then test the adjoining pool hall and first Gates tenants as independent storefront discriminators, so later work does not repeat already-worked leads.
 
 ## Authoritative starting point
 
@@ -52,20 +52,38 @@ Result: **no new pre-fire exact-address advertisement, council report, license n
 
 The February 1922 council/newspaper coverage confirms the city was actively regulating poolrooms but the recovered newspaper summaries do not identify the operators' particular premises. Therefore further general newspaper keyword searching is lower value than obtaining the underlying municipal applications/minutes.
 
+## Gates first-tenant online pass
+
+With the two pre-fire address routes unresolved, the pass continued to the third planned discriminator: the first occupants of C. E. Gates's two new ground-floor storerooms. Searches covered September–December 1922 combinations of **Gates**, **Junken**, `new building`, `Fifth and Main`, `barber`, `barber shop`, `storeroom`, `leased`, `occupancy`, `501 Main`, and `503 Main` across the indexed Oregon newspaper corpus.
+
+Result: **no recovered article or advertisement identified either Gates storeroom by street number or named the first tenant of the second store.** No source was recovered that maps Gates's two rooms to 501 only, 501+503, or another orientation.
+
+A useful caution was recovered while testing the barber lead:
+
+- The visually reviewed 8 June *Banner-Courier* merchant roster already names an **O. K. Barber Shop** as an Oregon City business before the July fire.
+- A 12 December 1922 *Morning Oregonian* report on a separate fire directly places the **O. K. barber shop at Seventh and Main**, identifies **G. F. Johnson** as its operator, and says it adjoined the Falls restaurant there.
+
+This does **not** identify O. K. Barber Shop as Gates's leased August barber room. A move into and then out of the Gates building is possible but unproved; a different barber tenant is equally possible. Therefore the O. K. evidence is retained only as a **constraint against assuming the Gates barber's identity**, not as a storefront bridge.
+
+The first-tenant newspaper route is now also at diminishing returns. A direct lease, opening/move advertisement, directory entry, city permit, tax/assessment change, or 1923–1924 address source remains necessary.
+
 ## Source-class switch
 
 The highest-value next sources are now:
 
 1. **1921–1922 R. L. Polk Oregon City directory — F04**: inspect the complete Oregon City alphabetical and classified sections for Schieremann, Timms, Leland & Little, O. H. Leland, Walter Little, cleaners/dyers, tailors, billiards/poolrooms, and numbered Main Street listings.
 2. **Oregon City poolroom permit/application and council records — F05**: retrieve the original 1922 applications or registers that name each applicant and the particular premises, especially the January–February ordinance period and records surrounding Timms, Leland/Little, and later McAnulty/Barry actions.
-3. **Oregon City telephone directory / telephone-number listings** for Schieremann or his shop in 1921–July 1922.
-4. **City business-license / occupation-license records** for tailor, cleaner/dyer, pool/billiard, cigar, or related businesses naming both proprietor and premises.
-5. If F04/F05 still fail, move to **Gates's first post-fire tenants** as the next independent storefront discriminator rather than repeating the same newspaper search terms.
+3. **Gates/Junken permit, plan, assessment or lease records — F03**: identify frontage, room orientation, entrances, addresses, and first tenants of the two new ground-floor stores.
+4. **Oregon City telephone directory / telephone-number listings** for Schieremann or his shop in 1921–July 1922.
+5. **City business-license / occupation-license records** for tailor, cleaner/dyer, pool/billiard, cigar, barber, or related businesses naming both proprietor and premises.
+6. **1923–1924 directory/address pass** for the Gates rooms and 501/503/505 occupants, used to bracket the earliest post-rebuild numbered configuration without backdating it to July 1922.
 
 ## Current conclusion
 
-Alex Schieremann's exact pre-fire storefront remains **UNRESOLVED**. The adjoining July 1922 pool hall also remains **UNRESOLVED AS TO OPERATOR AND ADDRESS**. No 501/503/505 assignment is promoted, no A. Leland/O. H. Leland identity merger is made, and no later 1925 billiards/cigars use is backdated.
+Alex Schieremann's exact pre-fire storefront remains **UNRESOLVED**. The adjoining July 1922 pool hall also remains **UNRESOLVED AS TO OPERATOR AND ADDRESS**. The first tenants and exact addresses of Gates's two replacement storerooms remain **UNRESOLVED**.
 
-The best next evidence is now the inaccessible/restricted record pair **F04 Polk directory + F05 municipal poolroom applications**. If those cannot be obtained, the next online research step should be Gates's first tenants after the August 1922 rebuild.
+No 501/503/505 assignment is promoted, no A. Leland/O. H. Leland identity merger is made, no O. K. Barber/Gates-tenant identity is asserted, and no later 1925 billiards/cigars use is backdated.
 
-No new evidence/source ID is created by this checkpoint because the continuation records research coverage, retrieval boundaries, and a source-class switch rather than a new archival fact.
+The best next evidence is now the existing targeted record set **F04 Polk directory + F05 municipal poolroom applications + F03 Gates/Junken permit/plan/assessment/lease records**. If those records remain inaccessible, the best remaining online route is a tightly bounded **1923–1924 numbered-address pass** designed to establish the earliest post-rebuild 501/503/505 configuration.
+
+No new evidence/source ID is created by this checkpoint because the continuation records research coverage, retrieval boundaries, a historical constraint, and a source-class switch rather than a new exact-address archival fact.
