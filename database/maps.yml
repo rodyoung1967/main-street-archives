@@ -72,7 +72,10 @@ maps:
       - B-002
       - B-003
       - B-005
-    notes: High-priority source for 501/503/505 Main, building footprint, address-numbering questions, and E-094 original-lot scale alignment.
+      - B-016
+      - B-009
+
+    notes: High-priority source for 501/503/505 Main, building footprint, address-numbering questions, and E-094 original-lot scale alignment. E-182 adds directly inspected 427 corner south of Fifth opposite 501, with laundry north of Fifth/west of Main and 427 clothing/gentlemen's furnishings use. Later spatial compatibility only for Newton; no 1922 tenancy or building continuity.
 
   - id: SM-009
     source_id: S-022

@@ -110,3 +110,7 @@ This register records Sanborn map sheets committed for the Main Street Archive. 
 - Build a year-by-year map comparison table for 503, 505, 507, and possible 501 Main.
 - Confirm whether the 1911 sheet covers the same block or a different 5th/Center context before using it for 503/505 conclusions.
 - Link each map observation to the relevant building page and evidence item.
+
+### SM-008 supplement — 427 / Fifth / laundry context
+
+`E-182` records the visually checked 427 corner south of Fifth opposite 501 and laundry north of Fifth/west of Main. The 427 corner is mapped clothing/gentlemen's furnishings. This is 1925 spatial/use evidence only; no Newton 1922 occupancy or unchanged pre-fire geometry is inferred. Original `S-021` PDF reused without duplicate binary or map ID. See `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`.

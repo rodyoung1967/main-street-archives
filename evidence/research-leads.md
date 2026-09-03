@@ -291,3 +291,14 @@ Preserve 510/501 as an unresolved conflict until direct evidence resolves it.
 
 ### RL-045 repeat-notice update — 24 June 1910 confirms repeated printed 510
 The 24 June 1910 *Courier* repeats E. R. Case's Palace Saloon application with **510 Main street**, matching the 17 June page (`S-199` / `E-178`). Shift the research question from “was 510 a one-page transcription/OCR anomaly?” to “why was 510 repeatedly printed?” Priority tests remain: Council license application/grant documents, 1909–1911 directories, property/tenancy records, address-numbering records, and advertisements capable of bracketing the transition to Pacific Telephone at 510 by August 1910 and Palace at 501 by March 1912. Do not assume move, typo or renumbering in advance.
+
+## RL-048 — Resolve Newton / Quality Restaurant / 427 Main identity
+
+The bounded June–August 1922 local OCR test is complete: 237 pages / 27 issues, with targeted original-scan verification. Do not repeat it as though unsearched. `E-179`–`E-182` and `OQ-034` preserve the result and limits.
+
+1. Read the **1921–1922 Polk Oregon City alphabetical and restaurant listings** for George/Geo. Newton, Quality Restaurant/Cafe and 427 Main. Exact FamilySearch and physical-copy routes are in `source-captures/1921-1922-polk-gazetteer-directory-retrieval-lead.md`; prior readable-scan access remains unresolved.
+2. Seek **phone 517** in 1921–1923 telephone/business directories and Newton in municipal restaurant-license records. Ask the Library/Recorder to identify holdings; custody and survival unconfirmed. No institutional request sent.
+3. Recover a move/sale/lease/ad connecting June's advertisement without a proprietor to August's named proprietor. Direct Newton→427 evidence is still needed; absence of a move notice does not prove continuity.
+4. Incidental **OCR/TEXT ONLY**: Banner-Courier 24 August p.10 prints Miller's Shoe Store at 419 Main in recovered classified text. Inspect the scan before moving the dated address anchor earlier or equating that business with Gilbert Miller. Edith Caldwell's employment and Mrs. George Newton/Genevieve Steen personal notices remain unmerged OCR leads in the detailed capture.
+
+For the structural question, next prioritize the July fire-adjacent pool hall or Schieremann exact address, Gates first tenants, and deed/plan boundaries. Newton is not a proved 503 survivor.

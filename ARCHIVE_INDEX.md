@@ -391,3 +391,7 @@ Five steward-supplied newspaper pages were reconciled by SHA-256. The 10 Oct. 19
 
 ## Steward uploads — 1909–1920 Palace / pool-hall reconciliation
 [Reconciliation audit](evidence/source-captures/1909-1920-palace-poolhall-steward-upload-reconciliation-2026-09-02.md) accounts for five supplied PDFs by exact SHA-256. New exact page files are the **2 Jul. 1909 Ralph O. Smith Palace Saloon Fifth/Main repeat notice** (`S-178` / `E-158`) and **24 Jun. 1910 E. R. Case Palace Saloon repeat notice at printed 510 Main** (`S-199` / `E-178`). The supplied 17 Sep. 1909 Smith page and 13 Feb./4 Jun. 1920 pool-hall pages are byte-identical to existing repository files and were not duplicated. No IDs were renumbered or duplicated; annual status is unchanged.
+
+## 3 September 2026 — George Newton / 427 Main address test
+
+[Integrated source review](evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md) and [237-page discovery inventory](evidence/source-captures/1922-newton-june-august-discovery.json) preserve five original PDFs, all raw OCR snapshots, and the newly verified **across the way from the laundry** report. `E-179`–`E-182` separate the 427 ad, Newton's saved restaurant, unnumbered Quality Cafe roster, and later map context. Newton → 427 remains **PROBABLE / WORKING HYPOTHESIS**; no 503 or Gates-model conclusion. [Business identity page](businesses/quality-restaurant-1922.md), [Newton profile](people/profiles/george-newton.md), [427 address](buildings/427-main.md); `OQ-034` / `RL-048`. **1922 IN PROGRESS**.

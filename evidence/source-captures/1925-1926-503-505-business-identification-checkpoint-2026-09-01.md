@@ -112,3 +112,7 @@ The only new Fifth-related item from this municipal-report pass is the **11 Nove
 
 - **503 in May 1925:** restaurant; business name and operator unresolved. **Kwality Restaurant by 1926** is reported by the official City synthesis, with the underlying advertisement still needed.
 - **505 in May 1925:** billiards/cigars; business name and operator unresolved. **Farr's Pool Hall at 505** is independently confirmed at an undetermined date, but has not been bridged to May 1925.
+
+## 3 September 2026 — Quality / Newton update
+
+`E-179` / `S-141` now formally records the June 8 **427 Main, phone 517** advertisement and retains the original PDF. The August Newton reports (`E-180`) add **across the way from the laundry**; Newton-to-427 is probable only, and the 503 Kwality relationship remains unproved. See [1922-george-newton-427-main-address-test-2026-09-03](1922-george-newton-427-main-address-test-2026-09-03.md). This supplement does not expand the prior full-issue visual certification to other issues.

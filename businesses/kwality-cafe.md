@@ -61,3 +61,9 @@ A Time Capsule Maps photo-metadata record uses the wording **"The Quality Cafe"*
 
 ## 18 October 1940 JAGERS exact-address bridge
 `S-193` / `E-172` adds a dated **18 October 1940** advertisement for **JAGERS at 503 Main**, describing a “Cozy place for A Tasty Pickup.” This is highly relevant to the later/undated J. Jager and New Kwality Cafe evidence at 503, but the 1940 ad does not print `J. Jager`, `New Kwality Cafe`, or a name-change statement. The archive therefore retains `JAGERS` as separate `BUS-084` pending a direct continuity source.
+
+## 3 September 2026 — Newton address test
+
+Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.

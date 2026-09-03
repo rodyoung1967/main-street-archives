@@ -59,3 +59,7 @@ These callouts do not replace year-specific closeout records. When a year reache
 - `OCR/TEXT ONLY` and search-index coverage do not count as visual review.
 - Moving chronologically to a later year does not change an earlier year’s certification level.
 - Update this register whenever an annual status changes, and link the full year closeout that supports the change.
+
+## 3 September 2026 — bounded Newton discovery supplement
+
+**1922 remains IN PROGRESS.** [Newton address test](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md) screened 237 OCR/text pages from 27 June–August issues and verified targeted items on five original newspaper scans, plus existing 1925 map context. These counts are not 237 visually reviewed pages, do not replace an annual title/issue inventory, and overlap existing coverage. The selected text-retrieval gaps were recovered; broader 1922 image/manual work remains open. `OQ-034` and `RL-048` preserve the unresolved Newton/address link and source routes.

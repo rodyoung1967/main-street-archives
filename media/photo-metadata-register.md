@@ -1159,3 +1159,53 @@ Dimensions: 2048 × 1324. SHA-256: `875329cbd74094a80fc49b4e470b5b70e2dda48dc665
 Rights: not supplied; watermarked access copy; no public-domain assertion.
 Limits: Other people, property/business ownership, exact move day, building name, uninterrupted operation, and survival of the photographed structure are unresolved.
 Record: `evidence/source-captures/1880-1910-505-main-harding-young-photo-records.md`.
+
+## IMG-0727 — Banner-Courier, 8 June 1922, page 10, Quality Restaurant at 427 Main
+File: `newspapers/banner-courier/1922-06-08-page-10-quality-restaurant-427-main.pdf`
+Type: Original full-page newspaper PDF; source-page image retained within PDF.
+Status: `committed`; **VISUALLY VERIFIED**, targeted Quality Restaurant advertisement and separate merchant-roster entries; not a certification of reading every column.
+Provenance: Historic Oregon Newspapers direct download, https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/; working download filename `banner-1922-06-08-p10.pdf`.
+Source/evidence: `S-141` / `E-179`.
+Integrity: SHA-256 `66bb4b5b6fb0c6d72a6c7cee41e21194e70f53bd6684c55c47773b5b4a7d06bf`; 524294 bytes.
+Limits: Quality Restaurant directly advertises 427 Main St., phone 517. No proprietor is printed in the advertisement.
+Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.
+
+## IMG-0728 — Banner-Courier, 17 August 1922, page 2, Quality Cafe roster
+File: `newspapers/banner-courier/1922-08-17-page-2-quality-cafe-roster.pdf`
+Type: Original full-page newspaper PDF; source-page image retained within PDF.
+Status: `committed`; **VISUALLY VERIFIED**, targeted Quality Cafe row in the business roster; not a certification of reading every column.
+Provenance: Historic Oregon Newspapers direct download, https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/; working download filename `banner-1922-08-17-p2.pdf`.
+Source/evidence: `S-141` / `E-181`.
+Integrity: SHA-256 `1a7dd10757bbb0b0534f5f0e3bd3ba51355d63248a10872b2fe4febabbeb0550`; 579436 bytes.
+Limits: The roster prints QUALITY CAFE without proprietor, phone or street address. It does not prove identity with either Quality Restaurant record.
+Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.
+
+## IMG-0729 — Morning Oregonian, 17 August 1922, George Newton Quality restaurant fire-survival dinner
+File: `newspapers/oregonian/1922-08-17-page-4-newton-quality-firemen-dinner.pdf`
+Type: Original full-page newspaper PDF; source-page image retained within PDF.
+Status: `committed`; **VISUALLY VERIFIED**, targeted Firemen Are Dinner Guests article; not a certification of reading every column.
+Provenance: Historic Oregon Newspapers direct download, https://oregonnews.uoregon.edu/lccn/sn83025138/1922-08-17/ed-1/seq-4/; working download filename `oregonian-1922-08-17-p4.pdf`.
+Source/evidence: `S-200` / `E-180`.
+Integrity: SHA-256 `4ea60d3679b88edd1c24896a4a521e62370fd21fdd3f10d6a65375b3b9819f74`; 770099 bytes.
+Limits: Names George Newton as Quality restaurant proprietor and reports firefighters saved his restaurant during the recent Fifth Street fire. The August 16 dateline and last-evening wording place the dinner on August 15. No address or phone. Its wording closely parallels the Enterprise account; separate publication is not proof of an independent witness.
+Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.
+
+## IMG-0730 — Banner-Courier, 17 August 1922, Newton restaurant across the way from the laundry
+File: `newspapers/banner-courier/1922-08-17-page-8-newton-quality-across-laundry.pdf`
+Type: Original full-page newspaper PDF; source-page image retained within PDF.
+Status: `committed`; **VISUALLY VERIFIED**, targeted Firemen Honored with Banquet at the Quality article; not a certification of reading every column.
+Provenance: Historic Oregon Newspapers direct download, https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-8/; working download filename `banner-1922-08-17-p8.pdf`.
+Source/evidence: `S-201` / `E-180`.
+Integrity: SHA-256 `12e83eb2f00e5213f791670920797cf50aefa1c1a17d0ec926916aab219857f2`; 662444 bytes.
+Limits: Names George Newton as proprietor and says the fire destroyed Oregon City Laundry and threatened his restaurant across the way. Tuesday-evening banquet is consistent with August 15. No numbered address or phone. John Fuson/Frison and Ariel Newton are mentioned in a marriage/gift account; no kinship between Ariel and George is stated.
+Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.
+
+## IMG-0731 — Oregon City Enterprise, 18 August 1922, Newton Quality restaurant banquet
+File: `newspapers/oregon-city-enterprise/1922-08-18-page-3-newton-quality-firemen-banquet.pdf`
+Type: Original full-page newspaper PDF; source-page image retained within PDF.
+Status: `committed`; **VISUALLY VERIFIED**, targeted Firemen Are Feted by Local Restaurant Man article; not a certification of reading every column.
+Provenance: Historic Oregon Newspapers direct download, https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-3/; working download filename `enterprise-1922-08-18-p3.pdf`.
+Source/evidence: `S-202` / `E-180`.
+Integrity: SHA-256 `a668b95e9ba4ce47f8fcec362fa2037a2aa6dbe68435d07c903071378d0a2b63`; 840717 bytes.
+Limits: Names George Newton as Quality restaurant proprietor and reports the restaurant was saved during the Fifth Street fire; banquet Tuesday evening. No address or phone. Opening closely parallels the Oregonian dispatch; do not count the two as independent witnesses. John Frison and Ariel Newton marriage context does not establish kinship to George.
+Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.

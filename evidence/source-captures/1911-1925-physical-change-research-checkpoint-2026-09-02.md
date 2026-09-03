@@ -1,6 +1,6 @@
 # 1911–1925 501/503/505 physical-change research checkpoint — 2 September 2026
 
-Status: **TARGETED RESEARCH CHECKPOINT — NO NEW PRIMARY CLAIM PROMOTED; 1922 REMAINS THE STRONGEST DOCUMENTED PHYSICAL-CHANGE ANCHOR IN THE 1911–1925 WINDOW.**
+Status: **TARGETED RESEARCH CHECKPOINT; 3 September Newton follow-up promotes only the verified source wording in E-179–E-182. No storefront model selected.** The original 2 September session promoted no new primary claim; 1922 remains the strongest documented physical-change anchor in the 1911–1925 window.
 
 Purpose: preserve the focused research session begun after the project steward emphasized that the surviving 503/505-era frontage must be distinguished from the visibly earlier pre-1925 building configuration. This checkpoint does not change any annual closeout status and does not select a final 501/503/505 reconstruction model.
 
@@ -68,30 +68,13 @@ Status: **PLAUSIBLE / UNPROVEN**.
 
 No map compatibility, tenant use, or later street number should be used to select between these models without a direct address/property/plan bridge.
 
-## Quality Restaurant fire-survival lead — exact page locator recovered; visual scan check pending
+## Quality Restaurant follow-up — 3 September 2026
 
-A later continuation on 2 September re-recovered the exact primary page locator behind the earlier George Newton lead. The detailed capture is:
+The earlier visual gap is resolved. `E-180` / `S-200`–`S-202` directly names George Newton as proprietor of the saved Quality restaurant; the newly recovered Banner-Courier p.8 says it was **across the way from Oregon City Laundry**. `E-179` / `S-141` directly places the June Quality Restaurant at **427 Main, phone 517**, without proprietor. `E-181` separately records unnumbered QUALITY CAFE.
 
-`evidence/source-captures/1922-08-17-quality-restaurant-fire-survival-lead.md`
+Newton → 427 is **PROBABLE / WORKING HYPOTHESIS**, not a direct proprietor/address link. No recovered source places him at 503; no Gates Model A/B selection follows. The 1925 427 corner/laundry geometry (`E-182`) is compatible but cannot be backdated to prove 1922 tenancy or physical continuity.
 
-Historic Oregon Newspapers identifies:
-
-- *Morning Oregonian*, **17 August 1922**, p. **4**, image 4 — https://oregonnews.uoregon.edu/lccn/sn83025138/1922-08-17/ed-1/seq-4/
-- archive text under **“Firemen Are Dinner Guests”** identifies **George Newton**, proprietor of the **Quality restaurant**, and reports that the Oregon City fire department had **saved his restaurant from destruction during the recent fire in Fifth street**;
-- *Banner-Courier*, **17 August 1922**, p. **2** — https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/ — has an archive-text/OCR business-roster entry **QUALITY CAFE** on the same date.
-
-The exact locators and archive text are now recovered, but the actual rendered scans were not successfully opened in this continuation. Therefore this remains **PRIMARY PAGE LOCATOR / ARCHIVE TEXT — VISUAL VERIFICATION PENDING**, not a visually verified source/evidence record.
-
-If the Morning Oregonian wording is confirmed on the scan, it would distinguish Newton's Quality restaurant as a **saved** business from the separately documented **Fifth Street Restaurant**, which was destroyed and whose site Gates rebuilt. That distinction could become highly useful to the storefront reconstruction.
-
-However, no recovered item gives Newton's street number. Do **not** currently infer:
-
-- Quality restaurant = Quality Cafe;
-- either business was at **503 Main**;
-- either business was the later **New Kwality/Kwality Cafe** at 503;
-- Quality/Kwality spelling similarity proves continuity.
-
-The highest-value missing bridge is now an exact-address record for **George Newton / Quality Restaurant / Quality Cafe**.
+[Integrated address test](1922-george-newton-427-main-address-test-2026-09-03.md) preserves five original PDFs, 237-page/27-issue OCR coverage, remaining identity and incidental leads, and restricted-source callouts. The [earlier lead](1922-08-17-quality-restaurant-fire-survival-lead.md) retains the superseded access history.
 
 ## Highest-value next checks
 
@@ -101,7 +84,7 @@ The highest-value missing bridge is now an exact-address record for **George New
 4. **Harding → Gates/Wolf deed(s).** Recover legal descriptions, dimensions and recording data; map the Gates/Wolf line to original Block 4 Lots 3–4 before assigning modern storefronts.
 5. **1922 assessment / improvement records and pre-1925 permits/plans.** Look for value/footprint changes, hollow-tile construction, Junken contractor references, frontage/depth, entrances and legal description.
 6. **1923–1924 directory/address evidence.** Bridge the new 1922 construction to the May 1925 Sanborn occupants at 501 store / 503 restaurant / 505 billiards-cigar use.
-7. **Quality Restaurant / Quality Cafe address.** Visually inspect the recovered 17 August pages and search 1921–1924 advertisements, licenses and directories for George Newton and an exact street number before making any 503/Kwality connection.
+7. **Newton → 427 identity bridge (`OQ-034` / `RL-048`).** The target scans are now verified and a bounded June–August newspaper test is complete. Prioritize directory, telephone-517 and restaurant-license records naming Newton and an address; do not repeat that OCR pass or make a 503/Kwality connection from names alone.
 
 ## Research-state conclusion
 

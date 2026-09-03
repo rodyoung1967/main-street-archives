@@ -1,0 +1,2138 @@
+{
+  "status": "Bounded discovery, not annual visual-review certification",
+  "range": [
+    "1922-06-01",
+    "1922-08-31"
+  ],
+  "page_count": 237,
+  "issue_count": 27,
+  "main_pattern_hit_pages": 26,
+  "recovery_notes": [
+    "August 31 Banner-Courier issue timeout recovered.",
+    "June 16 Enterprise 404 corrected to June 15 issue using existing repository inventory; eight pages retrieved."
+  ],
+  "pages": [
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28749,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19971,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15525,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "Swafford's mother, Mrs. J. F. Spiger. Mrs. W. A. Long has improved from her operation so as to be able to be brought home from the St. Vincent hospital. She was accompanied home by her nurse, Miss Isabel Hattan, who visited friends before returning back to Portland. Mrs. Kate L. Newton whose home is now at Los Angeles, California, and who was formerly a resident of Ore gon City has returned to look after property interests and is also visit ing among her friends. Mrs. Eunice Hein and Mrs. Epsy Lee of Canby were Oregon City, visit ors Monday. Mrs. C. Schuebel who has been at Des Moines, Iowa, where he went as a delegate to the general assembly of the Presbyterian church returned to her home Monday "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22243,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15912,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23523,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24778,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24115,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17305,
+      "ocr_hits": [
+        {
+          "match": "Quality Restaurant",
+          "snippet": " knowledge of the Printer. We are proud of the quality of every job that leaves our shop. It is the result of houghtful care and years of experience. Let us co-operate with you on your next printing job. You'll like our work and our prices. The Banner-Courier GOOD WHOLESOME FOOD Quality Restaurant 427 Main St. Phone . 517 ber production, and when attained it will be sustained for all future time. The largest plant in the West de voted exclusively to boiler manufac turing is in Oregon. No other state has such a wide area of fertile land uncrossed by rail way lines as is represented in .the great Central Oregon country an area nearly as large as the State of Ohio. Think of the possibilities of the future when t"
+        },
+        {
+          "match": "427 Main",
+          "snippet": "rinter. We are proud of the quality of every job that leaves our shop. It is the result of houghtful care and years of experience. Let us co-operate with you on your next printing job. You'll like our work and our prices. The Banner-Courier GOOD WHOLESOME FOOD Quality Restaurant 427 Main St. Phone . 517 ber production, and when attained it will be sustained for all future time. The largest plant in the West de voted exclusively to boiler manufac turing is in Oregon. No other state has such a wide area of fertile land uncrossed by rail way lines as is represented in .the great Central Oregon country an area nearly as large as the State of Ohio. Think of the possibilities of the future when the land i"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-01/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21018,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25086,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 10715,
+      "ocr_hits": [
+        {
+          "match": "Quality Restaurant",
+          "snippet": "ledge of the Printer. , A We are proud of the quality of every job that leaves our shop. It is the result of houghtful care and years of experience. Let us co-operate 'with you on your next printing job. You'll like our work and our prices. The Banner-Courier GOOD WHOLESOME FOOD Quality Restaurant 427MainSt. Phone 517 When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River SPECIAL Oldfield Fabric Tires 30x3 30x3i2 30x3y2 32x4 .... 33x4 . 34x4 8.20 9.35 13.55 12.25 18.05 18.80 Not Seconds The most Trustworthy Tires Built SMITH'S TIRE SHOP \"On the hill to save you money\" 609 - 7th St Near Center gfnnnniiinitiiiiiiiuiinniuiiuiE' - Perhaps your ba"
+        },
+        {
+          "match": "427Main",
+          "snippet": "r. , A We are proud of the quality of every job that leaves our shop. It is the result of houghtful care and years of experience. Let us co-operate 'with you on your next printing job. You'll like our work and our prices. The Banner-Courier GOOD WHOLESOME FOOD Quality Restaurant 427MainSt. Phone 517 When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River SPECIAL Oldfield Fabric Tires 30x3 30x3i2 30x3y2 32x4 .... 33x4 . 34x4 8.20 9.35 13.55 12.25 18.05 18.80 Not Seconds The most Trustworthy Tires Built SMITH'S TIRE SHOP \"On the hill to save you money\" 609 - 7th St Near Center gfnnnniiinitiiiiiiiuiinniuiiuiE' - Perhaps your battery ca"
+        }
+      ],
+      "visual_review_status": "VISUALLY VERIFIED — targeted item only",
+      "visual_review_scope": "Quality Restaurant advertisement and separate merchant-roster entries"
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-11/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13707,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-12/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12152,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-13/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 5105,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-14/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 7408,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12396,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12348,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13546,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 11031,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13209,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17002,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25249,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 4968,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30486,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24753,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22789,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24212,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "she will teach next year. Those college students who came hoffi3 last week are Miss Marion Jt Jt TTCTVTVTTVnS T)nnE Jt Mrs. W. W. Woodbeck Jt Jt Jt jt jt jt jt jt jt jt jt jt jt jt jt jt jt jt ggi The Community club has adjourned until the close of the summer vacation. Mrs. John Newton of Holcomb, New York is expected to arrive Friday and will spend the summer with her sister Mrs. H. H. Emmons at Stone Gabres. Mr. and Mrs. Floyd Brown spent the week end in Salem. . G. I. Truitt of Oakland, Oregon, ar rived Sunday for the purpose of ac companying his family home. Mrs. Truitt and the remaining members of the family have been . spending the school year at this place, accupying the Pierce cottage on t"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19818,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19255,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22884,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17556,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12682,
+      "ocr_hits": [
+        {
+          "match": "Quality Restaurant",
+          "snippet": " and years of experience. Let us co-operate with you on your next printing job. -You'll like our work and our prices. The Banner-Courier When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River GOOD WHOLESOME FOOD Quality Restaurant 427 Main St. Phone 517 Remember The TIRE SALE 30x3 30x3y2 30x312 32x4 33x4 34x4 ..$ 8.20 .. 9.35 13.55 12.25 18.05 18.80 Accessories, Oils, Grease, Gasoline SMITH'S TIRE SHOP \"On the hill to save you money\" r 609 - 7th St Near Center on the Hill 402 - 7th St. Phone 41 119- T I The fame of a great name lives in the Westinghouse battery. SIP A 6 volt 100 ampere hour battery for $19.50. Used in , Chevrolet, Buick, Port"
+        },
+        {
+          "match": "427 Main",
+          "snippet": "ience. Let us co-operate with you on your next printing job. -You'll like our work and our prices. The Banner-Courier When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River GOOD WHOLESOME FOOD Quality Restaurant 427 Main St. Phone 517 Remember The TIRE SALE 30x3 30x3y2 30x312 32x4 33x4 34x4 ..$ 8.20 .. 9.35 13.55 12.25 18.05 18.80 Accessories, Oils, Grease, Gasoline SMITH'S TIRE SHOP \"On the hill to save you money\" r 609 - 7th St Near Center on the Hill 402 - 7th St. Phone 41 119- T I The fame of a great name lives in the Westinghouse battery. SIP A 6 volt 100 ampere hour battery for $19.50. Used in , Chevrolet, Buick, Port, Overlan"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-15/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25099,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26182,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19979,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25586,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15413,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15286,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21646,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13765,
+      "ocr_hits": [
+        {
+          "match": "Quality Restaurant",
+          "snippet": "e and years of experience. Let us co-operate with you on your next printing job. You'll like our work and our prices. The Banner-Courier When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River GOOD WHOLESOME FOOD Quality Restaurant 427 Main St Phone 517 1 Next to Electric Hotel Goodrich 55-30x3'2 $10.90 Warren and Blodgett, Props. 407 Main St. Oregon City TirePrices are Down Oldfield 33x312 Fabric - Regular $12.95, now $10.95 Oldfield 30x '&2 fabric, now $9.35 Oldfield 30x3 fabric, now . $8.25 Springfield cord 30x312now$12.50 All Other Sizes Reduced Accessories, Oils, Grease, Gasoline SMITH'S TIRE SHOP \"On the hill to save you money\" 609 . 7th"
+        },
+        {
+          "match": "427 Main",
+          "snippet": "rience. Let us co-operate with you on your next printing job. You'll like our work and our prices. The Banner-Courier When You Build Remember Oregon City Sand and Gravel Company WASHED and SCREENED RIVER SAND and GRAVEL 14th Street at River GOOD WHOLESOME FOOD Quality Restaurant 427 Main St Phone 517 1 Next to Electric Hotel Goodrich 55-30x3'2 $10.90 Warren and Blodgett, Props. 407 Main St. Oregon City TirePrices are Down Oldfield 33x312 Fabric - Regular $12.95, now $10.95 Oldfield 30x '&2 fabric, now $9.35 Oldfield 30x3 fabric, now . $8.25 Springfield cord 30x312now$12.50 All Other Sizes Reduced Accessories, Oils, Grease, Gasoline SMITH'S TIRE SHOP \"On the hill to save you money\" 609 . 7th St Near "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16467,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 11215,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 27971,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16642,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17627,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15707,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18311,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24671,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23420,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19028,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 45816,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29099,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30807,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20195,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18823,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19609,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21111,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23527,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22100,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-06/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15895,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29553,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 14945,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20574,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15433,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21436,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23423,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21628,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-13/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12193,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26956,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23581,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16574,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22212,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15806,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24094,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26022,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19345,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25940,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13696,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25554,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24445,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 14516,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16307,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18320,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26938,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "43; J. Sevier, $26.14; Sam Jacobson, $8.71. Special No. 38 Barney Schoenberg, $1.24; P. T. Monroe) $1,99; W. A. Bard, $7.49. Special No. 39 Cascade Garage $76.95 ; Smith Hardware, $3.46; Harold E. Wooster, $18.00; W. S. Morgan, $13.99; IClyde Davis,' $42.33;' Ralph Wade, $69.59; Newton Boroman, $10; J. F. Snyder, $9.98; W. A. Osborn, $44.91; F. H. Davis, $24.91; W. K. Cor- bin, $44.91; Joe Michal, $44.91; Fred Davis-, 21.16; H. W. Davis, 17.39; E. E. Pinkley, $17.43; N. G. Henrickson, $4.98; M. M. Duncan, $112.43; S. E. Bracy, $9.88; Arthur Kelley, $7.47; J. J. Whitley, 44.91; Ward Jones, $82.33; G. I. Dart, $69.86; E, T. Davis, $84.37; R. G. Palmateer, $72.34; W L. Shriner, $17.43; Chester Dean, "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25779,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30703,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15137,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-27/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26288,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29123,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18177,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19559,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15918,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21680,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23822,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15675,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-03/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 23276,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 27306,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20739,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "regon City, Ore. Phone 380 for aprjo intment Perpetual Motion Discredited.' . It seems hardly credible, but up to the \"year 1772, there was no scientist In all Europe who knew enough to categorically deny that there was such a thing as perpetual motion. It remained for Sir Isaac Newton and the French scientist, De La Hire, to demonstrate beyond doubt the im possibility of attaining It. Quite a little time passed ' bet ore the scientific world in general was willing to accept the Newtonian the ory, but finally the French Academy of Science at Paris, In 1775, publicly declared that perpetual motion was an impossibility and thereby branded all those who. still insisted upon ex perimenting with it as "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18343,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20767,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17484,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21545,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25463,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17633,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "o, attended the Adventist meeting Canby Department Dr. John Fuller Us 1GS0US On last Thursday night, during the absence of W. M. Walker and family, a bunch of boys invaded their home one mile west of CanbK Wesley Kite, Leo Williams, ' Frank Stevens and a young man by the name of Newton, were taken in by local officials, and later turned over to Sheriff Wilson, who had been notified. Willam Steele of Oregon City was arrested by offi cials later, as one of the parties impli cated. A charge of theft was not sus tained in court at Oregon City, as the boys were scared away before they had succeeded in their attempt It was reported that some of the boys had previously worked for 'Mr. Walker and knowing "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24509,
+      "ocr_hits": [
+        {
+          "match": "QUALITY CAFE",
+          "snippet": "t Home Trade with them, increase the value of the community. DR. FREEZE, Eye Specialist THE FIRST NATIONAL BANK HOGG BROTHERS, Furniture, Hardware STOKES MOTOR CAR COMPANY C. G. MILLER CO., Day and Night Garage A. C. HOWLAND, Real Estate, Loans, Insurance, Bonds BANK OF COMMERCE QUALITY CAFE BANK OF OREGON CITY BANNON AND CO., Dry Goods, Clothing; HOLT GROCERY, 7th and Center St. BURMEISTER AND ANDRESEN, Jewelers HUNTLEY-DRAPER DRUG CO. McANULTY AND BARRY, Cigars, Restaurant OREGON CITY SAND AND GRAVEL CO. C. W. FRIEDRICH AND SON, Hardware OREGON CITY CASH MARKET NEAL, Mc AND ROSE, Jewelers STRAIGHT AND SALISBURY, Plumbers JONES DRUG CO. ! PRICE BROTHERS DEPARTMENT STORE THE BANNER-COURIER R. A. JUNKEN,"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-10/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21199,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26512,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 11875,
+      "ocr_hits": [
+        {
+          "match": "QUALITY CAFE",
+          "snippet": "t Home Tradejwith them, increase the value of the community. DR. FREEZE, Eye Specialist THE FIRST NATIONAL BANK HOGG BROTHERS, Furniture, Hardware STOKES MOTOR CAR COMPANY C. G. MILLER CO., Day and Night Garage A. C. HOWLAND, Real Estate, Loans, Insurance, Bonds BANK OF COMMERCE QUALITY CAFE N BANK OF OREGON CITY , BANNON AND CO., Dry Goods, Clothing HOLT GROCERY, 7th and Center St. BURMEISTER AND ANDRESEN, Jewelers HUNTLEY-DRAPER DRUG CO. McANULTY AND BARRY, Cigars, Restaurant OREGON CITY SAND AND GRAVEL CO. C. W. FRIEDRICH AND SON, Hardware OREGON CITY CASH MARKET NEAL, Mc AND ROSE, Jewelers STRAIGHT AND SALISBURY Plumbers JONES DRUG CO. PRJCE BROTHERS DEPARTMENT STORE THE BANNER-COURIER R. A. JUNKEN,"
+        }
+      ],
+      "visual_review_status": "VISUALLY VERIFIED — targeted item only",
+      "visual_review_scope": "Quality Cafe row in the business roster"
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17635,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17278,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19367,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25662,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 13867,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20503,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "pted to sell for a cash sum these petitions. CONTRACT FOR BUILDING CITY HALL AWARDED FIREMEN HONORED WITH BANQUET AT THE \"QUALITY\" In appreciation of their efforts in camibatting the re which destroyed the Oregon City laundry and threat ened his restaurant across the way, George Newton, proprietor, banqueted the members of the department at the Quality\" on Tuesday evening. Chicken and all the other good things to eat which go with it were served. Fjire Chief John Fuson was pre sented with a silver set, Chief Priebe making the presentation, in honor of his marriage to Miss Ariel Newton. As a matter of ''safety first\" the boys took along the fire truck and left their temporary address with the telep"
+        },
+        {
+          "match": "Newton",
+          "snippet": "eted the members of the department at the Quality\" on Tuesday evening. Chicken and all the other good things to eat which go with it were served. Fjire Chief John Fuson was pre sented with a silver set, Chief Priebe making the presentation, in honor of his marriage to Miss Ariel Newton. As a matter of ''safety first\" the boys took along the fire truck and left their temporary address with the telephone operator. Those attending were: Chief Priebe, asst. John Frison, captains Warner and Seiler, Louis Nobel, Calvin Prce, George Snooks, Al Cox, George Har vey, Walter Young, Raymond Bierman, Ed. Quinn, Ed. Lindsley, Jacob Bing ham and Raymond Elliott. Self-Feeding Sows. Some breeders are very successf"
+        }
+      ],
+      "visual_review_status": "VISUALLY VERIFIED — targeted item only",
+      "visual_review_scope": "Firemen Honored with Banquet at the Quality article"
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25172,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-10/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15585,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 14810,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16291,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 14977,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24991,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25117,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12260,
+      "ocr_hits": [
+        {
+          "match": "QUALITY CAFE",
+          "snippet": "at Home Trade with them, increase the value of the community. DR. FREEZE, Eye Specialist THE FIRST NATIONAL BAK HOGG BROTHERS, Furniture, Hardware STOKES MOTOR CAR COMPANY C. G. MILLER CO., Day and Night Garage A. C. HOWLAND, Real Estate, Loans, Insurance, Bonds BANK OF COMMERCE QUALITY CAFE BANK OF OREGON CITY BANNON AND CO., Dry Goods, Clothing HOLT GROCERY, 7th and Center St. BURMEISTER AND ANDRESEN, Jewelers HUNTLEY-DRAPER DRUG CO. McANULTY AND BARRY, Cigars, Restaurant OREGON CITY SAND AND GRAVEL CO. C. W. FRIEDRICH AND SON, Hardware OREGON CITY CASH MARKET NEAL, Mc AND ROSE, Jewelers STRAIGHT AND SALISBURY, Plumbers JONES DRUG CO. PRICE BROTHERS DEPARTMENT STORE THE BANNER-COURIER R. A. JUNKEN, Co"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34795,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-24/ed-1/seq-9/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18449,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25555,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16974,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16438,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 14273,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21621,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 25337,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 12409,
+      "ocr_hits": [
+        {
+          "match": "QUALITY CAFE",
+          "snippet": "HOme Trade with them, increase the value of the community. DR. FREEZE, Eye Specialist THE FIRST NATIONAL BANK HOGG BROTHERS, Furniture, Hardware STOKES MOTOR CAR COMPANY C. G. MILLER CO., Day and Night Garage A. C. HOWLAND, Real Estate, Loans, Insurance, Bonds , BANK OF COMMERCE QUALITY CAFE BANK OF OREGON CITY BANNON AND CO., Dry Groods, Clothing HOLT GROCERY, 7th and Center St. BURMEISTER AND ANDRESEN, Jewelers HUNTLE Y-DRAPER DRUG CO. McANULTY AND BARRY, Cigars, Restaurant OREGON CITY SAND AND GRAVEL CO. C. W. FRIEDRICH AND SON, Hardware OREGON CITY CASH MARKET NEAL, Mc AND ROSE, Jewelers STRAIGHT AND SALISBURY, Plumbers JONES DRUG CO. PRICE BROTHERS DEPARTMENT STORE THE BANNER-COURIER R. A. JUN KEN,"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-31/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/banner-courier/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18515,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29005,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35615,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21779,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 36827,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 24043,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32188,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34573,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-02/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17285,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 26966,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35498,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29027,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34040,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34665,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33890,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 11866,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-09/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17659,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28725,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34043,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31091,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34808,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33065,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30107,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 19022,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "rned on Monday for it. Mr. and Mrs. Joe Hackett are en. joying the summer months at Oswe go Lake. Mrs. Hackett was formerly a teacher Of domestic art at the Ore gon City High school- and resided here. A visitor who will be much enter tained during her stay in Oregon is Mrs. John Newton of Holcomb, New York, who arrives on Saturday. She will be a house guest at Stone Gables, the H. H. Emmons home. Mrs. New ton is a sister-in-law of the Emmons. Ruth Truscott gave a little out door frolic for the third and fourth grades, who are her pupils. It was given at River View Park and cake and ice cream served on Thursday af ternoon. Games and out door sports enjoyed. Audry Tillman is recovering from her Illn"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-15/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 15341,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29241,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31323,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29895,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33784,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33916,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30296,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33979,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-23/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 16444,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29528,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33490,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "Holman & Pace I FUNERAL j DIRECTORS 1 Homelike Efficient Courteous i . 1 Telephone 86 uurnnsviiiu, accompauiou w -\"-ii i r n ? r m y W E MRS. HUGH ROBERTS, Correspondent 'New York Visitor Is Guest of Honor JENNINGS LODGE, June 28 A round of pleasure is being given for Mrs. Lydia Newton Of Holcomb, New York,\" who is the house guest of H. H. Emmons at Stone Gables. Mrs. Newton arrived on June 18. On Mon-, day last a motor trip to Camas, Wash, and a visit through the Vancouver barracks was much enjoyed. Tues day a visit was paid to the Quality Poultry rafach and a motor ride through Gresham and Troutdale was a pleasant jaunt. Wednesday Mrs. Newton was the motive at a lunch at the Bohemian, Mrs. Ballo"
+        },
+        {
+          "match": "Newton",
+          "snippet": "sviiiu, accompauiou w -\"-ii i r n ? r m y W E MRS. HUGH ROBERTS, Correspondent 'New York Visitor Is Guest of Honor JENNINGS LODGE, June 28 A round of pleasure is being given for Mrs. Lydia Newton Of Holcomb, New York,\" who is the house guest of H. H. Emmons at Stone Gables. Mrs. Newton arrived on June 18. On Mon-, day last a motor trip to Camas, Wash, and a visit through the Vancouver barracks was much enjoyed. Tues day a visit was paid to the Quality Poultry rafach and a motor ride through Gresham and Troutdale was a pleasant jaunt. Wednesday Mrs. Newton was the motive at a lunch at the Bohemian, Mrs. Ballow as hos tess. Multnomah field to take in the Rose Festival was a pleasant part of the day."
+        },
+        {
+          "match": "Newton",
+          "snippet": "Mrs. Newton arrived on June 18. On Mon-, day last a motor trip to Camas, Wash, and a visit through the Vancouver barracks was much enjoyed. Tues day a visit was paid to the Quality Poultry rafach and a motor ride through Gresham and Troutdale was a pleasant jaunt. Wednesday Mrs. Newton was the motive at a lunch at the Bohemian, Mrs. Ballow as hos tess. Multnomah field to take in the Rose Festival was a pleasant part of the day. Thursday a luncheon was given at the Multnomah and a view o the rose festival center was much enjoyed. Friday was spent sight see ing in Portland and the Rose Show was one of the pleasing features Sat urday a drive over the Columbia high way with dinner at the Gorge hotel t"
+        },
+        {
+          "match": "Newton",
+          "snippet": "day, Mrs. New- j ton being the motive of the gather- j ing. fL' t. i.. j,s TUra rhos . Ua A uoauaj ui mio \" v k-. . . ? o dinner On Tuesday evening Mrs. Truscott enter tained with a porch party. Cards were the evening's diversion. ' On Wednesday morning three ma chines with Mrs. Newton's friends motored to Seaside where the par ty have the Mayo cottage until July 1. The honored visitor plans to return, on July 6 to her home in New York. Her visit has been an exceptionally pleasant one. Guild Entertained By Mrs. F. Covert JENNINGS LODGE, June 28 Mrs. Frank Covert very delightfully enter tained the Grace Guild at her home on the Clackamas on Wednesday last. Mrs. Babler presided and Mrs. OHn Ford lea"
+        },
+        {
+          "match": "Newton",
+          "snippet": "sewives are arranging their work and planning on attending Chautauqua at Gladstone which opens on Saturday, July 1. Perhaps never before have we had so many eastern people visit at this place as are here just now. Among them are v Mrs. Lloyd Spooner from Pennsylvania; Mrs. Lydia Newton of New York; Mr. and Mrs. J. C. New comb of Ohio; Mrs. Burton and Miss Hunt of Chicago; Janice Scripture of Iowa; H. Kolb of Illinois; Miss Wip polt of North Dakota; Mrs. Mansfield and son, Carl, of Minnesota; Clyde Blinstone of Wisconsin; Mr. and Mrs. Horace Hampton of Indiana. Waren Swart was a business caller at Canby on Thursday. Eldon Tillamook of Lorraine, Ore gon, left on Monday for Hiflsboro, to visit an unc"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31298,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 40322,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35343,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29306,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "d -v commission authorizing an increase in the charges set aside, was attempt ed through a resolution introduced by T. M. Kerrigan, recall member of the commission, at an executive session of the body held here today. The resolution came as a complete surprise to H. H. Corey and Newton McCoy, other members of the com mission, they said, and failed for want of a second. Both Mr. Corey and Mr. McCoy said they desired ad ditional time in which to consider the offering, but Mr. Corey later issued a statement saying that he could not approve the- resolution. The resolution as submitted by Mr. Kerrigan apparently was intend ed as a short cut to the reduction of telephone rates in Oregon, and if ap prove"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 41783,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-06-30/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18276,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "ople. Married At the Presbyterian manse, Oregon City, June 23, 1892, Rev. G. William Giboney officiating. Christian Schuebel and Miss Aggie Beatie. - ' Married Graham-Glaspool, at St. Paul's Episcopal church m this city on Wednesday, June 22, Rev. Lund, of Salem, officiating, J. Newton Graham and Miss Edith Glasspool of this city. Cherry Party Mrs. Theodore W. Clark gave a cherry party last Satur day evening in honor of the Symphony club. There was enough eherry-eatiner to give the party Its name, and cards and other games and dancing were in. troaucea to make the occasion enjoy able. Canby Will Celebrate Canby will celebrate the Fourth in true style, when William Knight will , be presi dent of th"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29973,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34453,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": " Association is tur- Reunibii and Picnic Held at River View Wash., Mr. and Mrs. Layton Smith of Independence, Mrs Edith Jones and son, R. Ingraham Jones of McMinn ville, Mr. and Mrs. Walter Smith, of Oregon City; Mr. and Mrs. Bruce Burnett and son, Robert of Portland. Mrs. Lydia Newton JENNINGS LODGE, July 4 Mrs. Lydia Newton was the honored guest of a very informal yet delight ful porch party, given by Mrs. E. Truscott and Miss Ruth Truscott, at their home on Wednesday evening last. The porch was very attractive with flowers, the sweet pea and Japanese iris used tQ- lend charm for the fam ilies gathered for a tilt of 500. Mr. and Mrs. Norman Chapman, Mr. and Mrs. R. G. Thompson, Mr and Mrs. H H. "
+        },
+        {
+          "match": "Newton",
+          "snippet": "Held at River View Wash., Mr. and Mrs. Layton Smith of Independence, Mrs Edith Jones and son, R. Ingraham Jones of McMinn ville, Mr. and Mrs. Walter Smith, of Oregon City; Mr. and Mrs. Bruce Burnett and son, Robert of Portland. Mrs. Lydia Newton JENNINGS LODGE, July 4 Mrs. Lydia Newton was the honored guest of a very informal yet delight ful porch party, given by Mrs. E. Truscott and Miss Ruth Truscott, at their home on Wednesday evening last. The porch was very attractive with flowers, the sweet pea and Japanese iris used tQ- lend charm for the fam ilies gathered for a tilt of 500. Mr. and Mrs. Norman Chapman, Mr. and Mrs. R. G. Thompson, Mr and Mrs. H H. Emmons, Mrs Newton, Mrs. Truscott, Miss K"
+        },
+        {
+          "match": "Newton",
+          "snippet": "Truscott, at their home on Wednesday evening last. The porch was very attractive with flowers, the sweet pea and Japanese iris used tQ- lend charm for the fam ilies gathered for a tilt of 500. Mr. and Mrs. Norman Chapman, Mr. and Mrs. R. G. Thompson, Mr and Mrs. H H. Emmons, Mrs Newton, Mrs. Truscott, Miss Kaminski, Howard and Ruth Truscott. GIVE BIRTHDAY PARTY iiiiuiiiiiHiuimimiu j Holman&Pace FUNERAL DIRECTORS Homelike Efficient Courteous j Telephone 86 7th and Water Sts Oregon City House Party Given At Coast Cottage TPwwrMfis LODGE. July 4 A delightful house party at the coast was eiven by Mrs. H. H. Emmons, who had the Mayo cottage overlook ing the ocean at Seaside. Her guests were Mrs. Carloc"
+        },
+        {
+          "match": "Newton",
+          "snippet": "e TPwwrMfis LODGE. July 4 A delightful house party at the coast was eiven by Mrs. H. H. Emmons, who had the Mayo cottage overlook ing the ocean at Seaside. Her guests were Mrs. Carlock, Mrs. Ballou, Mrs. Hoge, Mrs. Mowery. Mrs. Doam, Miss Truscott and Miss Kaminski and Mrs. John Newton of New York, the party motored down and spent three days. On Monday Mrs. John Newton, the house guest of Mrs. Emmons was a luncheon guest at the Benson. f Tuesday being the 4th the Emmons pave their annual picnic atStone Ga bles and at 8 p. m.Mrs. John Newton departed for her home in NewYork after having a most delightful time. CAMP OVER FOURTH JENNINGS LODGE, July 4 A camping party fpr over the week I end at Cedar "
+        },
+        {
+          "match": "Newton",
+          "snippet": "H. Emmons, who had the Mayo cottage overlook ing the ocean at Seaside. Her guests were Mrs. Carlock, Mrs. Ballou, Mrs. Hoge, Mrs. Mowery. Mrs. Doam, Miss Truscott and Miss Kaminski and Mrs. John Newton of New York, the party motored down and spent three days. On Monday Mrs. John Newton, the house guest of Mrs. Emmons was a luncheon guest at the Benson. f Tuesday being the 4th the Emmons pave their annual picnic atStone Ga bles and at 8 p. m.Mrs. John Newton departed for her home in NewYork after having a most delightful time. CAMP OVER FOURTH JENNINGS LODGE, July 4 A camping party fpr over the week I end at Cedar Island was made up of I I several Portland families, who had a I 1 pleasant time boat"
+        },
+        {
+          "match": "Newton",
+          "snippet": "inski and Mrs. John Newton of New York, the party motored down and spent three days. On Monday Mrs. John Newton, the house guest of Mrs. Emmons was a luncheon guest at the Benson. f Tuesday being the 4th the Emmons pave their annual picnic atStone Ga bles and at 8 p. m.Mrs. John Newton departed for her home in NewYork after having a most delightful time. CAMP OVER FOURTH JENNINGS LODGE, July 4 A camping party fpr over the week I end at Cedar Island was made up of I I several Portland families, who had a I 1 pleasant time boating, canoeing and swimming. Among tnem were Mr. and Mrs. Clyde Jones, former resi dents and Mr. and Mrs. Butts. Mrs. S. P. Widen, Hazel and Carl Widen, Ruth Lofgren, Conrad Jo"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 27853,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34923,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 37389,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32527,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34923,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-07/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 17513,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29145,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32093,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30771,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 36001,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31552,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31551,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 36334,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "., where they are to make their future home. Mr. Burns and family were former residents of Ore gon City, and this is his first visit to his old home city , in three years. Chi chagof is about 170 miles from Juneau and 50 miles from Sitka. Santa Barbara Man Visits Brother William Newton, of Santa Barbara, Calif., is in this city, where he is vis iting his brother, J. A. Newton, of Sixth and Water streets. Mr. New ton will remain here until July 24th, when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their res"
+        },
+        {
+          "match": "Newton",
+          "snippet": "re gon City, and this is his first visit to his old home city , in three years. Chi chagof is about 170 miles from Juneau and 50 miles from Sitka. Santa Barbara Man Visits Brother William Newton, of Santa Barbara, Calif., is in this city, where he is vis iting his brother, J. A. Newton, of Sixth and Water streets. Mr. New ton will remain here until July 24th, when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school"
+        },
+        {
+          "match": "Newton",
+          "snippet": "her William Newton, of Santa Barbara, Calif., is in this city, where he is vis iting his brother, J. A. Newton, of Sixth and Water streets. Mr. New ton will remain here until July 24th, when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school, and recently re-elected, will return in time to take up her duties. For the present Miss Newton is employed in the Price Brothers' store. Start on Homeward Journey- Mr. and M"
+        },
+        {
+          "match": "Newton",
+          "snippet": "a, Calif., is in this city, where he is vis iting his brother, J. A. Newton, of Sixth and Water streets. Mr. New ton will remain here until July 24th, when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school, and recently re-elected, will return in time to take up her duties. For the present Miss Newton is employed in the Price Brothers' store. Start on Homeward Journey- Mr. and Mrs. Frank Robinson and children, Mi"
+        },
+        {
+          "match": "Newton",
+          "snippet": ", of Sixth and Water streets. Mr. New ton will remain here until July 24th, when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school, and recently re-elected, will return in time to take up her duties. For the present Miss Newton is employed in the Price Brothers' store. Start on Homeward Journey- Mr. and Mrs. Frank Robinson and children, Mildred and Allen, who have been spending the past three weeks at the home of"
+        },
+        {
+          "match": "Newton",
+          "snippet": " when he will leave for his home In the south. He will be accompanied by his niece. Miss Effie Newton, who will be a guest at the Newton home in San ta Barbara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school, and recently re-elected, will return in time to take up her duties. For the present Miss Newton is employed in the Price Brothers' store. Start on Homeward Journey- Mr. and Mrs. Frank Robinson and children, Mildred and Allen, who have been spending the past three weeks at the home of Mr. and Mrs. William Robinson, of Rosemont, left for Mc- Minnville on Satu"
+        },
+        {
+          "match": "Newton",
+          "snippet": "ara, and who will also visit her brother, Ernest Newton, and wife, who recently took up their residence in Long Beach. Miss Newton, who is a teacner oi tne sixtn grade of the Eastham school, and recently re-elected, will return in time to take up her duties. For the present Miss Newton is employed in the Price Brothers' store. Start on Homeward Journey- Mr. and Mrs. Frank Robinson and children, Mildred and Allen, who have been spending the past three weeks at the home of Mr. and Mrs. William Robinson, of Rosemont, left for Mc- Minnville on Saturday, where they re mained until Monday visiting friends. On Monday they started on their homeward journey to Pomona, Calif., and are making the trip by aut"
+        },
+        {
+          "match": "Newton",
+          "snippet": "ents for about a month. Mrs. Loney's home is at Barton. Meyers' Family Have Son Mr. and Mrs. Jay Meyers, of Glad stone, are the proud parents of a son born at the Oregon City hospital on Wednesday at 12 o'clock. His weight, is nine pounds. . Go To Long Beach For Oung Mrs. George Newton and two child ren, accompanied by Genevieve Steen, sister of Mrs. Newton, are to leave today for Long Beach, Wash., where they are to enjoy an outing qf several weeks. Mrs. Kerns Visits Buins Home Mrs. Addie-Kerns, of Portland, for merly Miss Addie Buchtel, of that ci ty, is a guest of Mrs. Charles Burns, of this city. Hugh Aspinwall, of Brooks, is reg istered at the Electric, I have located in Oregon City. I am an "
+        },
+        {
+          "match": "Newton",
+          "snippet": "ve Son Mr. and Mrs. Jay Meyers, of Glad stone, are the proud parents of a son born at the Oregon City hospital on Wednesday at 12 o'clock. His weight, is nine pounds. . Go To Long Beach For Oung Mrs. George Newton and two child ren, accompanied by Genevieve Steen, sister of Mrs. Newton, are to leave today for Long Beach, Wash., where they are to enjoy an outing qf several weeks. Mrs. Kerns Visits Buins Home Mrs. Addie-Kerns, of Portland, for merly Miss Addie Buchtel, of that ci ty, is a guest of Mrs. Charles Burns, of this city. Hugh Aspinwall, of Brooks, is reg istered at the Electric, I have located in Oregon City. I am an old hand at the business, I guarantee to get as much money for your prope"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-14/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21173,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28086,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "out of. commission. At Colfax, twenty miles east of Des Moines, a number of buildings were blown down and all windows in the business block were broken. Trees, blown down by the storm, are blockading the streets and roads. Wire communications to Ames, Og den, Grinnell, Boone and Newton are down and the latter town is reported to be in darkness. Weather bureau reports indicate that the storm caused considerable damage to crops. It was accompanied by pevere lightning. Telephone reports from the vicinity of Boone, thirty-five miles northwest of Des Moines, stated that a score or more of persens were slightly injured when automobiles in which they ware riding were Hewn into ditches. Inter-' urban stre"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 27185,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31572,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34958,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31135,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32205,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35983,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 18075,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29441,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33398,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32398,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 37543,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "17.43; J. Sevier, $26.14; Sam Jacobson, $8.71. Special No. 38 Barney Schoenberg, $1.24; P. T. Monroe, $1.99; W. A. Bard, $7.49. Special No. 39 Cascade Garage $76.95; Smith Hardware, $3.46; Harold E. Wooster, $18.00; W. S. Morgan, $13.99; (Clyde Davis, $42.33; Ralph Wade, $69.59; Newton Boroman, $10; J. F. Snyder, $9.98; W. A. Osborn, $44.91; F. H. Davis, $24.91; W. K. Cor bin, $44.91; Joe Michal, $44.91; Fred Davis, 21 J6; H. W. Davis, 17.39; E. E. Pinkley, $17.43; N. G. Henrickson, $4.98; M. M. Duncan, $112.43; S. E. Bracy, $9.88; Arthur Kelley, $7.47; J. J. Whitley, 44.91; Ward Jones, $82.33; G. I. Dart. $69.86; E. T. Davis, $84.37; R. G. Palmateer, $72.34; W L. Shriner, $17.43; Chester Dean, 32"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33159,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31344,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 37976,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-28/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22857,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 27980,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 34269,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32565,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35281,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32574,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32290,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20913,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-04/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 20113,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "to, they say, the truck crashed into them. At the same time, they charge, three , men in the truck opened fire. Bullets from high-powered rifles of the agents riddled the truck. ALBANY YOUTH IS SHOT ACCIDENTALLY BY MAN ALBANY, July 28. Brooksher Wise, 16-year-old son of Mrs. Guy Newton, of North Albany, is in a doubtful con dition at a local hospital as the result of a bullet wound through his chest an inch below the heart, inflicted ac cidentally, it is said, by C D. Walker, also of North Albany. Young Newton had come up on Walker at the \"Walker farm while the owner was shooting with a gun at a target,' according to the wounded boy's mother. Walker, evidently not seeing the lad, she said, shot at"
+        },
+        {
+          "match": "Newton",
+          "snippet": "ly 28. Brooksher Wise, 16-year-old son of Mrs. Guy Newton, of North Albany, is in a doubtful con dition at a local hospital as the result of a bullet wound through his chest an inch below the heart, inflicted ac cidentally, it is said, by C D. Walker, also of North Albany. Young Newton had come up on Walker at the \"Walker farm while the owner was shooting with a gun at a target,' according to the wounded boy's mother. Walker, evidently not seeing the lad, she said, shot at tne target. The bullet entered the boy's chest. Unless the wound becomes in fected, the attending physician says, the boy stands a good chance for re- covery. - POISON GIVEN TO SMALL CHILD; DEATH IS RESULT t T7Trrr3TnTr Idaho. ."
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 29783,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33898,
+      "ocr_hits": [
+        {
+          "match": "Quality Restaurant",
+          "snippet": "ing to his duties there this week. MELDRUM NOTES Mr. and Mrs. George Gardner and daughter motored to Castle Rock, Wash., the early part of the week to bring home Wilmer Gardner, who has been visiting at his grandparents' home. Miss Edith Caldwell has accepted a position with the Quality Restaurant in 'Oregon City. Dale McNally and Ray Hibert have returned from their fishing trip at Badger Lake. They report a splendid trip. mt- nnri Mrs. W. R. Davis were j Tuesday callers at the A. W. Meyers ncmie Mr. and Mrs. Carl Swanson, daugh ter and infant son are visitors of Miss Blanch Gardner. Mr. Swanson is a well known contractor and builder of Easter Oregon, Mrs. John Lindley and little daugh ter left on Thursday fo"
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 30150,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33233,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32305,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32353,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28134,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-11/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22907,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28440,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33135,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31320,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": "d have been in flames. Damage, however, was immaterial. FIREMEN ARE FETED BY LOCAL RESTAURANT MAN In consideration of the excellent work the Oregon City fire department did in saving his restaurant from de struction during the recent fire- in Or egon City on Fifth street, George Newton, proprietor of the Quality restaurairt. entertained the fire de partment at a banquet a this place of business on Tuesday evening. The menu consisted of a number of I courses, when chicken was served and everything that goes with a chick- ! en dinner. The table were decorated j with cut, flower. One of the surprising events of the j evening was the presentation of a set of silver to the assistant fire , chief( John "
+        },
+        {
+          "match": "Newton",
+          "snippet": "presentation of a set of silver to the assistant fire , chief( John pj. the presentation SDeeh hfiil15, rhir w,-inam Priebe, and responded to by the as sistant chief. The gift was from mem bers of the fire department, in honor of the recent marriage of John Frlson and Miss Ariel Newton, of this city, who was later given a charivaTT at their boat house. This followed the banquet. Attending the affair were Fire Chief Priebe, Assistant Fire Chief John Fri on. Captains Gerald Warner and Har ry Seiler, Lieutenant Louis Nobel, Hosemen Calvin Price, Al Cox, George Harvey, George Snooks, Edward Quinn, Ray Bierman, Walter Young, Jacob Bigham, Raymond Elliott and Ed Lindsey. When attending the banauet the j"
+        }
+      ],
+      "visual_review_status": "VISUALLY VERIFIED — targeted item only",
+      "visual_review_scope": "Firemen Are Feted by Local Restaurant Man article"
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 35092,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31341,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33684,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32408,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 22940,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-1/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 28892,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-2/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 33517,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-3/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32383,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-4/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31596,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-5/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 31214,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-6/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 32038,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-7/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 39602,
+      "ocr_hits": [],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    },
+    {
+      "page_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-25/ed-1/seq-8/",
+      "ocr_snapshot": "newspapers/oregon-city-enterprise/ocr/1922-june-august-newton-address-test.json",
+      "ocr_chars": 21636,
+      "ocr_hits": [
+        {
+          "match": "Newton",
+          "snippet": " found lying beside his automobile. Since 1910 Dr. Hull had been an orchardist. He was 46 years \" old and1 is survived by his wife and two daughters. CHICAGO, Aug. 21. Federal inves tigators today focused their attention j on the search for a letter written sup posedly by Dr. J. Newton Roe, a year after his supposed death. Early in 1921 Dr. Roe, the owner of the New Southern hotel, was found guilty of violating the federa? prohi bition laws and sentenced to the fed eral penitentiary. In April, 1921, Dr. Roe supposedly died. His body was buried at Valparaiso, Ind. The body has recently been exhumed, but the body was so badly decayed that identi fication was impossible. Authentic information that a "
+        }
+      ],
+      "visual_review_status": "OCR/TEXT ONLY",
+      "visual_review_scope": null
+    }
+  ]
+}

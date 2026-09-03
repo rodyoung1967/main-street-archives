@@ -3,7 +3,8 @@ businesses:
     name: Kwality Cafe
     repository_file: businesses/kwality-cafe.md
     address: 503 Main
-    notes: Early cafe/restaurant occupant. Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City; street number not in the ad.
+    notes: Early cafe/restaurant occupant. Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City; street number not in the ad. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
     related_buildings:
       - B-001
     related_evidence:
@@ -13,7 +14,8 @@ businesses:
     name: New Kwality Cafe
     repository_file: businesses/kwality-cafe.md
     address: 503 Main
-    notes: J. Jager, proprietor; documented by New Kwality Cafe matchbook artifact.
+    notes: J. Jager, proprietor; documented by New Kwality Cafe matchbook artifact. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
     related_buildings:
       - B-001
     related_people:
@@ -31,7 +33,8 @@ businesses:
     name: Larry's Kwality Cafe
     repository_file: businesses/kwality-cafe.md
     address: 503 Main
-    notes: Telephone 6106; merchant lunches, steaks, chops; documented by matchcover artifact.
+    notes: Telephone 6106; merchant lunches, steaks, chops; documented by matchcover artifact. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
     related_buildings:
       - B-001
     related_people:
@@ -927,7 +930,8 @@ businesses:
   - id: BUS-068
     name: Oregon City Laundry
     address: 109 Fifth by October 1918; temporary office 519 Main after July 1922 fire
-    notes: Fifth Street construction-site change documented in 1916; pre-fire plant destroyed July 1922; 1925 laundry is a later physical presence and not proved identical footprint.
+    notes: Fifth Street construction-site change documented in 1916; pre-fire plant destroyed July 1922; 1925 laundry is a later physical presence and not proved identical footprint. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
     related_people: [P-077, P-078, P-079, P-080, P-081]
     related_buildings: [B-009, B-011]
     related_evidence: [E-102, E-103, E-124, E-125]
@@ -1093,3 +1097,38 @@ businesses:
     notes: 18 Mar. 1910 M. Justin liquor-license application names Mt. Hood Cafe at Fifth/Main. Relationship to Justin & Hitchman remains unresolved.
     related_evidence: [E-176]
     related_sources: [S-197]
+  - id: BUS-087
+    name: Quality Restaurant (427 Main, June 1922)
+    address: 427 Main Street
+    notes: Archive qualifier distinguishes the exact-address advertisement, which prints Quality Restaurant and phone 517 without proprietor. Identity with BUS-088 is probable only; BUS-089 and later 503 Kwality businesses remain unmerged.
+    related_buildings:
+    - B-016
+    related_evidence:
+    - E-179
+    related_sources:
+    - S-141
+    repository_file: businesses/quality-restaurant-1922.md
+
+  - id: BUS-088
+    name: Quality restaurant (George Newton, August 1922)
+    address: Oregon City; across the way from Oregon City Laundry; exact number unresolved
+    notes: Archive qualifier distinguishes the Newton proprietor/fire-survival record. 427 Main is the best-supported working location, not a direct source claim. No proved 503 association or building ownership.
+    related_people:
+    - P-106
+    related_evidence:
+    - E-180
+    related_sources:
+    - S-200
+    - S-201
+    - S-202
+    repository_file: businesses/quality-restaurant-1922.md
+
+  - id: BUS-089
+    name: Quality Cafe (August 1922 roster)
+    address: Oregon City; exact address unresolved
+    notes: Archive qualifier distinguishes unnumbered QUALITY CAFE roster wording. No proprietor or phone. Not merged with either Quality Restaurant record or later 503 Kwality.
+    related_evidence:
+    - E-181
+    related_sources:
+    - S-141
+    repository_file: businesses/quality-restaurant-1922.md

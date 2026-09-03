@@ -191,3 +191,14 @@ The visually verified *Courier* report says the Chicago clothing store on Main s
 
 ## 2 July 1909 and 24 June 1910 Palace repeat notices
 `S-178` / `E-158` now includes the 2 July 1909 republication of Ralph O. Smith's three-month Palace Saloon, Fifth/Main application. `S-199` / `E-178` now includes the 24 June 1910 republication of E. R. Case's Palace application, again printing **510 Main**. Repeat publication is not treated as a second application, grant or premises transfer; the 1910 510-versus-later-501 conflict remains open.
+
+## Quality names in 1922 — separate dated attestations
+
+| Date | Attestation | Evidence | Limit |
+| --- | --- | --- | --- |
+| 8 June 1922 | `BUS-087` Quality Restaurant, 427 Main, phone 517 | `E-179`, `T-072` | No proprietor. |
+| 15 August 1922 dinner; reported 17–18 August | `BUS-088` Quality restaurant under George Newton, saved from fire and across the way from laundry | `E-180`, `T-073` | Exact number unresolved; 427 probable only. |
+| 17 August 1922 | `BUS-089` QUALITY CAFE roster | `E-181`, `T-074` | No proprietor/address/phone; identity unmerged. |
+| May 1925 | 427 corner mapped clothing/gentlemen's furnishings | `E-182`, `T-075` | Does not date a Quality closure/move or prove continuous physical fabric. |
+
+No succession, rename or 503 Kwality link is inferred from these rows. Follow `OQ-034` / `RL-048`.

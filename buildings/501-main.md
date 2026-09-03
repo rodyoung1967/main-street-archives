@@ -139,3 +139,9 @@ A visually verified *Courier* notice (`S-199` / `E-178`) identifies **E. R. Case
 
 ## June 1910 repeated 510 Palace wording
 The Palace/501 chronology now includes a second issue-page control for the unresolved 1910 number conflict: both **17 and 24 June 1910** *Courier* notices for E. R. Case print **Palace Saloon, 510 Main street** (`S-199` / `E-178`). This strengthens only the fact that `510` was repeatedly printed; it does not place the Palace conclusively in the physical 510 premises or prove a move from/to the later direct **501 Main** Palace anchor. A repeated notice may repeat the same source-copy error.
+
+## 3 September 2026 — Newton address test
+
+Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.

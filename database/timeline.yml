@@ -737,3 +737,54 @@ timeline:
     related_people: [P-027]
     related_businesses: [BUS-021]
     related_buildings: [B-002]
+  - id: T-072
+    date: 8 June 1922
+    summary: Quality Restaurant directly advertises 427 Main St., phone 517, without a proprietor.
+    confidence: DOCUMENTED / DIRECT; Newton identity unresolved.
+    related_evidence:
+    - E-179
+    related_sources:
+    - S-141
+    related_businesses:
+    - BUS-087
+    related_buildings:
+    - B-016
+
+  - id: T-073
+    date: 15 August 1922 (calendar-derived); reported 17–18 August
+    summary: George Newton entertains firefighters at his Quality restaurant after it was saved during the Fifth Street fire. Banner-Courier says the restaurant was across the way from Oregon City Laundry.
+    confidence: Direct proprietor/survival/relative-location reporting; calendar-derived dinner date. 427 Main probable only; no direct numbered address.
+    related_evidence:
+    - E-180
+    related_sources:
+    - S-200
+    - S-201
+    - S-202
+    related_people:
+    - P-106
+    related_businesses:
+    - BUS-088
+
+  - id: T-074
+    date: 17 August 1922
+    summary: Quality Cafe appears without proprietor, phone or address in the Banner-Courier business roster.
+    confidence: DOCUMENTED / DIRECT for name only; not merged with Quality Restaurant or 503 Kwality.
+    related_evidence:
+    - E-181
+    related_sources:
+    - S-141
+    related_businesses:
+    - BUS-089
+
+  - id: T-075
+    date: May 1925
+    summary: Sanborn Sheet 6 maps 427 at the corner south of Fifth opposite 501; laundry lies north of Fifth/west of Main. 427 corner use is clothing/gentlemen's furnishings.
+    confidence: Direct map context for 1925 only; no 1922 Newton tenancy or building-continuity inference.
+    related_evidence:
+    - E-182
+    related_sources:
+    - S-021
+    related_buildings:
+    - B-016
+    - B-005
+    - B-009

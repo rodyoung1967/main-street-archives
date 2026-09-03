@@ -267,3 +267,9 @@ The exact 25 December 1913 *Oregon City Courier* front page is now visually veri
 
 ## 2 September 2026 exact-page additions
 The exact 14 April 1911 Chicago Store page is now visually preserved under `S-032` / `E-026` and directly prints **505 Main**. The exact 13 May 1921 Dr. Freeze page is now visually preserved under `S-035` / `E-028` and prints **505 Main**, followed one week later by the already preserved **505½ Main** form. These are occupancy/address anchors only and do not establish surviving-building continuity or physical subdivision layout.
+
+## 3 September 2026 — Newton address test
+
+Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.

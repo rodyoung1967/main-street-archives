@@ -123,3 +123,7 @@ The issue has now been exhausted visually for the immediate fire-address targets
 5. OHS MSS 1503 Block 4 Lots 3 & 4 title abstract.
 
 The new Scripture result also makes historical Fifth Street number geometry a priority: **108 Fifth and Oregon City Laundry's known 109 Fifth address must not be described as physically adjacent until the odd/even address sides are mapped from primary evidence.**
+
+## 3 September 2026 — Quality / Newton update
+
+`E-179` / `S-141` now formally records the June 8 **427 Main, phone 517** advertisement and retains the original PDF. The August Newton reports (`E-180`) add **across the way from the laundry**; Newton-to-427 is probable only, and the 503 Kwality relationship remains unproved. See [1922-george-newton-427-main-address-test-2026-09-03](1922-george-newton-427-main-address-test-2026-09-03.md). This supplement does not expand the prior full-issue visual certification to other issues.

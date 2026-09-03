@@ -166,3 +166,4 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-105 | [E. R. Case](profiles/e-r-case.md) | Palace Saloon liquor-license applicant / Fifth-Main saloon context | 1 Jun. 1910 Council record places Case's saloon at Fifth/Main; 17 and 24 Jun. Courier notices print Palace Saloon, **510 Main street**, for the same three-month application. Repeated 510 is preserved but does not resolve true physical/legal number, later Palace 501, or later Pacific Telephone 510. |
+| P-106 | [George Newton](profiles/george-newton.md) | Quality restaurant proprietor, August 1922 | Directly named in three August 1922 newspaper reports. Exact premises number unresolved; 427 Main is a probable address inference, not a documented proprietor/address pairing. No proved relationship to later 503 Kwality, real-estate ownership, Ariel Newton, or other same-name personal notices. |

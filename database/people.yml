@@ -1142,3 +1142,16 @@ people:
     - S-093
     - S-199
 
+  - id: P-106
+    name: George Newton
+    role: Quality restaurant proprietor, August 1922
+    notes: Directly named in three August 1922 newspaper reports. Exact premises number unresolved; 427 Main is a probable address inference, not a documented proprietor/address pairing. No proved relationship to later 503 Kwality, real-estate ownership, Ariel Newton, or other same-name personal notices.
+    repository_file: people/profiles/george-newton.md
+    related_businesses:
+    - BUS-088
+    related_evidence:
+    - E-180
+    related_sources:
+    - S-200
+    - S-201
+    - S-202

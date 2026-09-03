@@ -186,3 +186,9 @@ The 31 October 1918 *Courier* answer page (`S-188` / `E-167`) prints **Wolf & Mi
 
 ## 18 October 1940 JAGERS exact-address advertisement
 A visually verified *Amplifier* page (`S-193` / `E-172`) directly advertises **JAGERS at 503 Main St., Oregon City** with the phrase “Cozy place for A Tasty Pickup.” This supplies a dated 1940 occupant/business-name anchor between the 1937 generic KWALITY sale advertisement and the City's 1947 Kwality Cafe directory synthesis. It does not by itself identify J. Jager or establish that JAGERS and New Kwality Cafe were the same business.
+
+## 3 September 2026 — Newton address test
+
+Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.

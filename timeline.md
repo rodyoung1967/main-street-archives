@@ -453,3 +453,9 @@ A visually verified *Enterprise* advertisement prints **Dr. Freeze, Eye Speciali
 A newly preserved **2 July 1909** *Courier* page republishes Ralph O. Smith's three-month liquor-license application at **Palace Saloon, Fifth and Main streets**, first preserved from 25 June (`S-178` / `E-158`). It is not treated as a second application or grant.
 
 A newly preserved **24 June 1910** *Courier* page republishes E. R. Case's three-month Palace application and again prints **510 Main street**, one week after the 17 June notice (`S-199` / `E-178`). Two separate scans therefore carry `510`, but a repeated notice can repeat the same underlying source-copy/address error. The archive continues to preserve the unresolved relationship between this 1910 `510`, Joe Wilson's later direct **501 Main** Palace, and Pacific Telephone's later 1910 use of **510 Main**.
+
+## June–August 1922 — Quality Restaurant / George Newton address test
+
+**8 June:** Quality Restaurant directly advertises **427 Main, phone 517**, without proprietor (`E-179`, `S-141`, `T-072`). **15 August, calendar-derived:** George Newton hosts firefighters at his saved Quality restaurant, reported 17–18 August; the Banner-Courier calls it **across the way from the laundry** (`E-180`, `S-200`–`S-202`, `T-073`). **17 August:** unnumbered QUALITY CAFE appears in a roster (`E-181`, `T-074`).
+
+Newton → 427 is **PROBABLE / WORKING HYPOTHESIS**, not an exact-address claim. The three attestations (`BUS-087`–`BUS-089`) remain unmerged, and no 503 Kwality continuity or Gates model choice follows. The later May 1925 map marks the 427 corner clothing/gentlemen's furnishings (`E-182`, `T-075`); that does not date a restaurant move/closure or prove building continuity.

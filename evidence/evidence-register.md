@@ -1544,3 +1544,51 @@ Limits / conflict:
 - No move, renumbering, typo correction, license grant, tenancy, business ownership, real-estate ownership, or physical-premises explanation is assumed.
 Confidence: Very High for the two printed 510 notices and Case/Palace relationship; **UNRESOLVED CONFLICT** for how 510 relates to later Palace 501 and later 1910 Pacific Telephone 510.
 
+## E-179 — Quality Restaurant advertised at 427 Main, 8 June 1922
+Type: Primary newspaper advertisement; visually verified
+Sources: `S-141`
+Claims:
+- The advertisement directly prints Quality Restaurant, 427 Main St., and phone 517.
+- It does not name a proprietor. Newton-to-427 identity and June-to-August occupancy continuity remain unproved.
+- The same-page merchant roster separately lists Fifth Street Restaurant; the two names must not be conflated.
+Confidence: DOCUMENTED / DIRECT for the printed business, address and phone; PROBABLE / WORKING HYPOTHESIS only for identity with Newton's August restaurant.
+Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
+
+Related record: `evidence/E-179-1922-quality-restaurant-427-main.md`
+
+## E-180 — George Newton Quality restaurant saved in the Fifth Street fire
+Type: Primary newspaper reports; visually verified
+Sources: `S-200` `S-201` `S-202`
+Claims:
+- Morning Oregonian August 17 and Enterprise August 18 directly name George Newton as proprietor of the Quality restaurant and report it was saved from destruction during the recent Fifth Street fire.
+- Banner-Courier August 17 page 8 says the fire destroyed Oregon City Laundry and threatened Newton's restaurant across the way; this is relative-location evidence, not a numbered address.
+- The dinner is dated to August 15 by the Oregonian August 16 dateline and last-evening wording, consistent with Tuesday evening in the local papers; publication dates are August 17 and 18.
+- No report prints 427 or 503, a phone, deed or building-ownership claim. Oregonian and Enterprise wording may share a dispatch; independence is not assumed.
+Confidence: DOCUMENTED / DIRECT for proprietor, fire-survival reporting and across-the-way wording; calendar-derived dinner date; exact address unresolved and Newton-to-427 remains PROBABLE / WORKING HYPOTHESIS.
+Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
+
+Related record: `evidence/E-180-1922-newton-quality-fire-survival.md`
+
+## E-181 — Quality Cafe in the 17 August 1922 business roster
+Type: Primary newspaper business roster; visually verified
+Sources: `S-141`
+Claims:
+- The Banner-Courier August 17 page 2 business roster directly lists QUALITY CAFE.
+- The row gives no proprietor, street number or phone. Roster order is not spatial adjacency.
+- Identity with Quality Restaurant at 427, Newton's Quality restaurant, or later 503 Kwality businesses is unresolved.
+Confidence: DOCUMENTED / DIRECT for the printed name; identity and address unresolved.
+Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
+
+Related record: `evidence/E-181-1922-quality-cafe-roster.md`
+
+## E-182 — 427 Main corner and laundry relationship on the May 1925 Sanborn
+Type: Primary Sanborn map; visually verified
+Sources: `S-021`
+Claims:
+- Sheet 6 maps 427 at the corner south of Fifth, opposite the 501 Main corner; Oregon City Laundry is north of Fifth and west of the Main frontage.
+- The 427 corner use is marked clothing/gentlemen's furnishings, not a named Quality restaurant.
+- This later geometry is compatible with the Newton across-the-way clue but does not prove his 1922 address, identical pre-fire geometry, tenancy continuity or building survival.
+Confidence: DOCUMENTED / DIRECT for the May 1925 mapped numbers, uses and spatial relationship; application to Newton in 1922 is compatibility only.
+Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
+
+Related record: `evidence/E-182-1925-427-main-fifth-laundry-map-context.md`

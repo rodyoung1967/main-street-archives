@@ -1,5 +1,17 @@
 # 17 August 1922 Quality Restaurant / Quality Cafe fire-survival lead
 
+**Current status, 3 September 2026: VISUAL GAP RESOLVED; NEWTON → 427 STILL PROBABLE / WORKING HYPOTHESIS.**
+
+The original Oregonian p.4 and Banner-Courier p.2 PDFs are now retained and their target items visually verified. Additional local reports on Banner-Courier p.8 and Enterprise 18 August p.3 directly name Newton; p.8 adds **across the way from the laundry**. The June 8 ad directly prints 427 Main and phone 517, but no source combines Newton and 427.
+
+Current records: `E-179`–`E-182`, `S-141`, `S-200`–`S-202`, `P-106`, `BUS-087`–`BUS-089`, `B-016`, `OQ-034` / `RL-048`. [Integrated research and complete provenance](1922-george-newton-427-main-address-test-2026-09-03.md). No Gates model selected; 1922 IN PROGRESS.
+
+## Historical checkpoint — 2 September 2026, superseded access state
+
+The original text below is retained to explain the prior lead and retrieval gap. Its pending-scan statements describe the earlier session, not the current verification state.
+
+# 17 August 1922 Quality Restaurant / Quality Cafe fire-survival lead
+
 Status: **PRIMARY PAGE LOCATORS AND ARCHIVE TEXT RECOVERED; VISUAL SCAN VERIFICATION STILL REQUIRED BEFORE EVIDENCE PROMOTION**
 
 Date of research update: **2 September 2026**

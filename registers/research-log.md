@@ -348,3 +348,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Confirmed the supplied 17 Sep. 1909 Smith page and 13 Feb./4 Jun. 1920 pool-hall pages are exact duplicates of existing repository files; recorded aliases without duplicating binaries or IDs.
 - Extended stable `S-178` / `E-158` with the 2 Jul. 1909 repeat Smith notice and stable `S-199` / `E-178` with the 24 Jun. 1910 repeat Case notice. The repeated 1910 `510 Main` wording is stronger evidence for newspaper wording but remains unresolved as a physical/legal address.
 - No annual status changed; no existing ID was renumbered.
+
+## 3 September 2026 — commit-authorized Newton / 427 integration
+
+- Research baseline `2069df3`; integration fast-forwarded to current `main` `34f6a4b`. Policies reviewed completely and baseline validation passed. Steward subsequently authorized committing and pushing the previously research-only findings.
+- Preserved five original newspaper PDFs; no exact duplicates among existing newspaper PDFs. Reused `S-141` for its two already registered pages; new banquet sources `S-200`–`S-202`. Added `E-179`–`E-182`, `P-106`, `BUS-087`–`BUS-089`, `B-016`, `IMG-0727`–`IMG-0731`, `T-072`–`T-075`, `OQ-034` / `RL-048` without renumbering.
+- Preserved 237 OCR/text snapshots, 27-issue/page audit and the recovered June 15 Enterprise / August 31 Banner issue routes. OCR counts are not visual-review counts. Unverified Edith Caldwell, Mrs. Newton and Miller's 419 Main leads remain labeled.
+- Corrected superseded scan-gap checkpoints while retaining prior access history. Newton→427 remains probable, not direct; no 503 association, entity merger, property ownership, building continuity, or Gates-model selection.
+- Synchronized Markdown/YAML entities, evidence/sources, media/crosswalk, addresses, business/timeline, maps, open questions/leads and unchanged annual status. Original raster inventory counts unchanged because sources are PDFs.
+- Permanent record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`. Archive validation passed before and after integration; final diff review and integrity checks passed for five original PDFs, all 237 OCR snapshots, and unchanged existing IDs. Fetched the latest main again and fast-forwarded through cleanup-only commits without historical-file differences before committing.

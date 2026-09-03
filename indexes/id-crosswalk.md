@@ -333,3 +333,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-172` / `E-152` — newly supplied 17 Sep. 1909 file is an exact duplicate alias of the existing repository PDF; no new ID.
 - `S-150` / `E-135` — newly supplied 13 Feb. and 4 Jun. 1920 pool-hall PDFs are exact duplicate aliases of existing repository PDFs; no new IDs.
 [Reconciliation record](../evidence/source-captures/1909-1920-palace-poolhall-steward-upload-reconciliation-2026-09-02.md).
+
+## 3 September 2026 — Newton / 427 address test
+
+| Claim | Direct record links | Boundary |
+| --- | --- | --- |
+| `E-179` / `S-141` / `IMG-0727` / `T-072` | `BUS-087`, `B-016` | June 8 exact 427/phone 517 ad, no proprietor. |
+| `E-180` / `S-200`–`S-202` / `IMG-0729`–`IMG-0731` / `T-073` | `P-106`, `BUS-088`; contextual laundry `BUS-068` | Newton directly named; across-the-way report; exact number unresolved. |
+| `E-181` / `S-141` / `IMG-0728` / `T-074` | `BUS-089` | Unnumbered Quality Cafe roster; no merger. |
+| `E-182` / `S-021` / `SM-008` / `T-075` | `B-016`, `B-005`, `B-009` | 1925 map geometry and use only. |
+
+`OQ-034` / `RL-048`: `P-106` → `B-016` is probable only, not a direct occupancy edge. No `BUS-087`/`BUS-088`/`BUS-089` identity merger and no 503 Kwality linkage. [Full capture](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md).

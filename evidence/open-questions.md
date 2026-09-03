@@ -195,3 +195,13 @@ Why does the 31 October 1918 *Courier* answer page print **503 Main** for Wolf &
 
 ### OQ-032 update — repeated 1909/1910 Palace notices
 The 2 July 1909 *Courier* repeats Ralph O. Smith's three-month Palace Saloon, Fifth/Main application from 25 June (`S-178` / `E-158`). More significantly, the 24 June 1910 *Courier* repeats E. R. Case's Palace application and again prints **510 Main** (`S-199` / `E-178`). This rules out `510` as an OCR-only or single-scan transcription artifact but does **not** prove 510 was the true physical/legal Palace premises because the repeated notice may reproduce the same source copy. Continue to resolve Smith→Case succession, license grants, and the 510→later-501 / Pacific-Telephone-510 conflict without normalizing the number.
+
+## OQ-034 — Was George Newton's saved Quality restaurant the 427 Main business?
+
+Status: **OPEN — PROBABLE / WORKING HYPOTHESIS, not a direct address pairing.** `E-179` directly places Quality Restaurant (`BUS-087`) at 427 Main (`B-016`), phone 517, on 8 June 1922; it names no proprietor. `E-180` directly names George Newton (`P-106`, `BUS-088`) and describes his saved restaurant as across the way from the laundry in August, without a number. `E-181` separately records unnumbered Quality Cafe (`BUS-089`). `E-182` provides compatible 1925 map geometry but cannot prove 1922 tenancy or unchanged buildings.
+
+Recover a directory, telephone-517 listing, restaurant license, ad or sale/move notice joining Newton and the address, and bracket any June–August move. Keep alternate-business and relocation explanations open. Do not merge later 503 Kwality or use Newton's survival to choose Gates Model A/B. `RL-048` gives the remaining source routes.
+
+### OQ-031 / OQ-006 update — Newton is not a proved 503 anchor
+
+Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.

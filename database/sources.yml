@@ -102,7 +102,7 @@ sources:
   - id: S-021
     name: 1925 Sanborn, 5th Area
     url: https://www.orcity.org/DocumentCenter/View/4866/1925-6-PDF
-    notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for the separate 501 store, 503 restaurant, and 505 billiards/cigars uses. Task 6 corrected E-094's cadastral orientation to original Block 4; the former Block 26 Lot 5/Lot 6 scale alignment is withdrawn. Related map SM-008.
+    notes: May 1925 Sanborn sheet 6; repository binary at maps/sanborn/originals/1925-6 (5th).pdf. High-priority source for the separate 501 store, 503 restaurant, and 505 billiards/cigars uses. Task 6 corrected E-094's cadastral orientation to original Block 4; the former Block 26 Lot 5/Lot 6 scale alignment is withdrawn. Related map SM-008. E-182 adds the visually verified May 1925 427 corner/laundry spatial and use context; no backdating to Newton in 1922.
 
   - id: S-022
     name: 1950 Sanborn, 5th Area
@@ -697,7 +697,17 @@ sources:
   - id: S-141
     name: 1922 Timms / Leland & Little billiards source set
     url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
-    notes: Visually verified 25 February, 8 June and 17 August pages establish Leland & Little by February, separately name Timms Pool Hall/Walter Little/O. H. Leland in June, and identify Leland and Little as billiards in August. Exact addresses and fire-adjacent identity unresolved. Related evidence E-126.
+    notes: 'Visually verified 25 February, 8 June and 17 August pages establish Leland & Little by February, separately name Timms Pool Hall/Walter Little/O. H. Leland in June, and identify Leland and Little as billiards in August. Exact addresses and fire-adjacent identity unresolved. Related evidence E-126. 3 September 2026: the June 8 p.10 and August 17 p.2 original PDFs are retained; E-179 directly records Quality Restaurant at 427 Main, phone 517, without proprietor, and E-181 records unnumbered QUALITY CAFE. Reuse this existing source set; E-126 billiards findings unchanged.'
+    repository_files:
+      - newspapers/banner-courier/1922-06-08-page-10-quality-restaurant-427-main.pdf
+      - newspapers/banner-courier/1922-08-17-page-2-quality-cafe-roster.pdf
+    related_evidence:
+      - E-126
+      - E-179
+      - E-181
+    related_media:
+      - IMG-0727
+      - IMG-0728
 
   - id: S-142
     name: Oregon City Commission Harr pool-hall and liquor-license records, 1948
@@ -1025,3 +1035,35 @@ sources:
     repository_file: newspapers/oregon-city-courier/1910-06-17-page-7-palace-saloon-er-case-510-main.pdf
     notes: Visually verified 17 and 24 June 1910 pages both print E. R. Case applying for a three-month liquor license at the Palace Saloon, 510 Main street. The 24 June page is preserved at newspapers/oregon-city-courier/1910-06-24-page-7-palace-saloon-er-case-510-main.pdf. Repetition confirms 510 occurs on two issue scans but does not rule out repeated source-copy/address error or prove a physical move/true premises number. Separate 1 June Council evidence places Case's saloon at Fifth/Main; later Palace 501 and later Pacific Telephone 510 remain unresolved. 24 June SHA-256 39292ce2a44c7cb0b29b53c08cc1ec4eb7968ff7a3d19cde3911712db26974c0 (700071 bytes). Related evidence E-178.
 
+  - id: S-200
+    name: Morning Oregonian, 17 August 1922, George Newton Quality restaurant fire-survival dinner
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1922-08-17/ed-1/seq-4/
+    notes: Names George Newton as Quality restaurant proprietor and reports firefighters saved his restaurant during the recent Fifth Street fire. The August 16 dateline and last-evening wording place the dinner on August 15. No address or phone. Its wording closely parallels the Enterprise account; separate publication is not proof of an independent witness. Visually verified; original PDF retained byte-for-byte.
+    repository_file: newspapers/oregonian/1922-08-17-page-4-newton-quality-firemen-dinner.pdf
+    sha256: 4ea60d3679b88edd1c24896a4a521e62370fd21fdd3f10d6a65375b3b9819f74
+    related_evidence:
+    - E-180
+    related_media:
+    - IMG-0729
+
+  - id: S-201
+    name: Banner-Courier, 17 August 1922, Newton restaurant across the way from the laundry
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-8/
+    notes: Names George Newton as proprietor and says the fire destroyed Oregon City Laundry and threatened his restaurant across the way. Tuesday-evening banquet is consistent with August 15. No numbered address or phone. John Fuson/Frison and Ariel Newton are mentioned in a marriage/gift account; no kinship between Ariel and George is stated. Visually verified; original PDF retained byte-for-byte.
+    repository_file: newspapers/banner-courier/1922-08-17-page-8-newton-quality-across-laundry.pdf
+    sha256: 12e83eb2f00e5213f791670920797cf50aefa1c1a17d0ec926916aab219857f2
+    related_evidence:
+    - E-180
+    related_media:
+    - IMG-0730
+
+  - id: S-202
+    name: Oregon City Enterprise, 18 August 1922, Newton Quality restaurant banquet
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-08-18/ed-1/seq-3/
+    notes: Names George Newton as Quality restaurant proprietor and reports the restaurant was saved during the Fifth Street fire; banquet Tuesday evening. No address or phone. Opening closely parallels the Oregonian dispatch; do not count the two as independent witnesses. John Frison and Ariel Newton marriage context does not establish kinship to George. Visually verified; original PDF retained byte-for-byte.
+    repository_file: newspapers/oregon-city-enterprise/1922-08-18-page-3-newton-quality-firemen-banquet.pdf
+    sha256: a668b95e9ba4ce47f8fcec362fa2037a2aa6dbe68435d07c903071378d0a2b63
+    related_evidence:
+    - E-180
+    related_media:
+    - IMG-0731
