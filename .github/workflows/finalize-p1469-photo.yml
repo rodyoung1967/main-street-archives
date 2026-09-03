@@ -1,0 +1,193 @@
+name: Finalize CCHS P-1469 photo
+
+on:
+  push:
+    branches:
+      - 'temp/ingest-p1469-1890-flood'
+    paths:
+      - '.github/workflows/finalize-p1469-photo.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    env:
+      BASE_MAIN: 8e74aafe62615e435de829cdda915dec04e850f3
+      TARGET: media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg
+    steps:
+      - name: Check out staging branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preserve staged image chunks
+        run: |
+          mkdir -p /tmp/p1469
+          cp .ingest/p1469/chunk*.b64 /tmp/p1469/
+          test -s /tmp/p1469/chunk00.b64
+          test -s /tmp/p1469/chunk01.b64
+
+      - name: Confirm authoritative main and reset integration base
+        run: |
+          git fetch origin main
+          ACTUAL_MAIN="$(git rev-parse origin/main)"
+          echo "origin/main=$ACTUAL_MAIN"
+          test "$ACTUAL_MAIN" = "$BASE_MAIN"
+          git reset --hard origin/main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator dependency
+        run: python -m pip install --quiet pyyaml
+
+      - name: Validate authoritative base
+        run: python3 scripts/validate_archive.py
+
+      - name: Reassemble P-1469 photograph
+        run: |
+          mkdir -p "$(dirname "$TARGET")"
+          cat /tmp/p1469/chunk*.b64 | base64 --decode > "$TARGET"
+          test -s "$TARGET"
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg')
+          b = p.read_bytes()
+          if not b.startswith(b'\xff\xd8\xff'):
+              raise SystemExit('P-1469 staged payload is not a JPEG')
+          print(f'JPEG bytes={len(b)}')
+          PY
+
+      - name: Integrate conservative media metadata
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import hashlib, re
+
+          target = Path('media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg')
+          sha = hashlib.sha256(target.read_bytes()).hexdigest()
+          size = target.stat().st_size
+
+          def read(path):
+              return Path(path).read_text(encoding='utf-8')
+
+          def write(path, text):
+              p = Path(path)
+              p.parent.mkdir(parents=True, exist_ok=True)
+              p.write_text(text, encoding='utf-8')
+
+          # Immutable-ID and duplicate guards against current authoritative main.
+          for marker, path in [
+              ('IMG-0732', 'media/photo-metadata-register.md'),
+              ('P-1469', 'media/photo-metadata-register.md'),
+          ]:
+              if marker in read(path):
+                  raise SystemExit(f'{marker} already present in {path}; stop rather than overwrite/reuse')
+
+          capture = f'''# CCHS P-1469 — 1890 Main Street flood photograph — preservation record
+
+Integration date: **2 September 2026**  
+Status: **COMMITTED HISTORIC PHOTOGRAPH; SOURCE-OBJECT NUMBER PRESERVED; EXACT INSTITUTIONAL TITLE/CATALOG URL AND CAMERA MAPPING STILL REQUIRE RECOVERY**
+
+## Preserved file
+
+- Media ID: `IMG-0732`
+- Repository path: `{target.as_posix()}`
+- Staging provenance: reconstructed byte-for-byte from `.ingest/p1469/chunk00.b64` and `chunk01.b64` on the dedicated `temp/ingest-p1469-1890-flood` branch.
+- Clackamas County Historical Society object number carried by the staging work: **P-1469**.
+- SHA-256: `{sha}`
+- Bytes: `{size}`
+- File format: JPEG (magic bytes verified during integration).
+
+## Provenance boundary
+
+The staging branch preserved the image bytes and the object number **P-1469**, but it did not preserve the original uploaded filename, exact CCHS catalog title, exact catalog entry URL, rights statement, or a machine-readable caption. Those fields are therefore **not invented here**. They remain provenance-recovery tasks.
+
+The project context associates this supplied photograph with the **1890 Oregon City flood / Main Street** photo group. Until the exact P-1469 catalog record is recovered, treat the year/subject wording as project-steward staging context rather than a fully transcribed museum catalog record.
+
+## Historical-use limit
+
+Do not use this photograph alone to prove an exact 501/503/505 address, camera position, ownership, occupancy, or continuity with the surviving buildings. Exact spatial interpretation should be recorded only after visual comparison with fixed landmarks, Sanborn geometry, and the other flood-era views.
+'''
+          write('evidence/source-captures/1890-main-street-flood-p1469-photo-preservation-2026-09-02.md', capture)
+
+          reg_path = 'media/photo-metadata-register.md'
+          reg = read(reg_path).rstrip() + f'''\n\n## IMG-0732 — CCHS P-1469 — 1890 Main Street flood photograph
+File: `{target.as_posix()}`  
+Type: Historic photograph / flood-era Main Street streetscape  
+Status: `committed`  
+Institution / object number: Clackamas County Historical Society, **P-1469** (object number preserved from the dedicated staging branch)  
+Date/subject context: **1890 Oregon City flood / Main Street** — project-steward staging context pending exact P-1469 catalog transcription  
+Original supplied filename: **not preserved in the staging branch; recovery remains open**  
+Exact institutional catalog title/URL: **not yet recovered; do not infer from neighboring CCHS object records**  
+Rights/reproduction: **not established in the staging data**  
+SHA-256: `{sha}`  
+File size: {size} bytes  
+Visual/address limit: no exact 501/503/505 facade, camera position, ownership, occupancy, or surviving-building continuity is asserted by this preservation record.  
+Record: `evidence/source-captures/1890-main-street-flood-p1469-photo-preservation-2026-09-02.md`.\n'''
+          write(reg_path, reg)
+
+          inv_path = 'media/photos/inventory.md'
+          inv = read(inv_path)
+          inv, n = re.subn(r'- \*\*(\d+) committed raster files\*\* in the repository\.', lambda m: f'- **{int(m.group(1))+1} committed raster files** in the repository.', inv, count=1)
+          if n != 1: raise SystemExit('Could not update raster count')
+          inv, n = re.subn(r'- \*\*(\d+) photographs/aerials\*\*, all stored together under `media/photos/`\.', lambda m: f'- **{int(m.group(1))+1} photographs/aerials**, all stored together under `media/photos/`.', inv, count=1)
+          if n != 1: raise SystemExit('Could not update photograph count')
+          inv, n = re.subn(r'### Street-level and early photographs — (\d+) files', lambda m: f'### Street-level and early photographs — {int(m.group(1))+1} files', inv, count=1)
+          if n != 1: raise SystemExit('Could not update street-level count')
+          row = f'| `IMG-0732` | CCHS object P-1469; 1890 Main Street flood context pending exact catalog transcription | [`early-main-street/{target.name}`](early-main-street/{target.name}) | Committed staged JPEG; P-1469 preserved. Exact catalog title/URL, original supplied filename, rights, and exact 501/503/505 camera/address mapping remain unresolved. |\n'
+          anchor = '\n## Recent supplied-file reconciliation\n'
+          if anchor not in inv: raise SystemExit('Inventory insertion anchor missing')
+          inv = inv.replace(anchor, row + anchor, 1)
+          write(inv_path, inv)
+
+          readme_path = 'media/photos/early-main-street/README.md'
+          readme = read(readme_path)
+          readme = readme.replace(
+              'Status: **four street-level files are committed (`IMG-0722`–`IMG-0725`); four additional public-source full scenes are planned but have not been imported**',
+              'Status: **five standalone street-level files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`); four additional public-source full scenes are planned but have not been imported**',
+              1,
+          )
+          readme = readme.replace(
+              'The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`) and one provenance-unresolved crop (`IMG-0722`).',
+              'The committed set comprises the previously cataloged `IMG-0722`–`IMG-0725` set plus the steward-staged CCHS P-1469 JPEG (`IMG-0732`). P-1469 is preserved now even though its exact catalog title/URL and original supplied filename still require recovery.',
+              1,
+          )
+          section = f'''\n## Committed CCHS P-1469 flood photograph\n\n- `IMG-0732` — `{target.name}`\n- Preserved from the dedicated staging branch carrying Clackamas County Historical Society object number **P-1469**.\n- Project staging context identifies it with the **1890 Oregon City flood / Main Street** photo group.\n- The staging branch did not preserve the exact museum catalog title/URL, original supplied filename, or rights statement; those are explicitly left unresolved rather than inferred.\n- Do not assign an exact 501/503/505 facade or camera position until landmark/Sanborn comparison is documented.\n\n'''
+          marker = '\n## Committed exact-address photograph\n'
+          if marker not in readme: raise SystemExit('README insertion anchor missing')
+          readme = readme.replace(marker, section + '## Committed exact-address photograph\n', 1)
+          write(readme_path, readme)
+
+          cross_path = 'indexes/id-crosswalk.md'
+          cross = read(cross_path).rstrip() + f'''\n\n### P-1469 photograph preservation\n\n| Media/source object | Repository record | Boundary |\n| --- | --- | --- |\n| `IMG-0732` / CCHS `P-1469` | `{target.as_posix()}`; `evidence/source-captures/1890-main-street-flood-p1469-photo-preservation-2026-09-02.md` | Image bytes and P-1469 object number preserved; exact catalog title/URL, original supplied filename, rights, and precise target-frontage mapping remain unresolved. |\n'''
+          write(cross_path, cross)
+
+          log_path = 'registers/research-log.md'
+          log = read(log_path).rstrip() + f'''\n\n## 2026-09-02 — Preserve staged CCHS P-1469 flood photograph\n\n- Reassembled the two staged base64 chunks from `temp/ingest-p1469-1890-flood` and committed the resulting JPEG as `IMG-0732` at `{target.as_posix()}`.\n- Preserved SHA-256 `{sha}` ({size} bytes) and CCHS object number **P-1469**.\n- Did not invent missing provenance: exact institutional title/catalog URL, original supplied filename, rights, and exact 501/503/505 camera/address mapping remain open.\n- Updated the canonical media register, definitive photo inventory, early-photo README, crosswalk, and a dedicated preservation/source-capture record.\n'''
+          write(log_path, log)
+
+          print(f'Integrated IMG-0732 sha256={sha} bytes={size}')
+          PY
+
+      - name: Validate completed archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit one clean integration commit to staging branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg \
+                  media/photo-metadata-register.md \
+                  media/photos/inventory.md \
+                  media/photos/early-main-street/README.md \
+                  evidence/source-captures/1890-main-street-flood-p1469-photo-preservation-2026-09-02.md \
+                  indexes/id-crosswalk.md \
+                  registers/research-log.md
+          git status --short
+          git commit -m 'Preserve CCHS P-1469 1890 Main Street flood photograph'
+          git push --force-with-lease origin HEAD:temp/ingest-p1469-1890-flood
