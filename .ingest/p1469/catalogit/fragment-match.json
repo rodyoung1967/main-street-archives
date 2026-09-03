@@ -1,0 +1,40 @@
+{
+  "chunks": {
+    "chunk00.b64": {
+      "chars": 19999,
+      "matches": {
+        "media1.jpg": false,
+        "media2.jpg": false
+      },
+      "interior_sample_matches": {
+        "media1.jpg": false,
+        "media2.jpg": false
+      }
+    },
+    "chunk01.b64": {
+      "chars": 39809,
+      "matches": {
+        "media1.jpg": false,
+        "media2.jpg": false
+      },
+      "interior_sample_matches": {
+        "media1.jpg": false,
+        "media2.jpg": false
+      }
+    }
+  },
+  "media": {
+    "media1.jpg": {
+      "bytes": 569359,
+      "sha256": "767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74",
+      "jpeg_magic": "ffd8ff",
+      "base64_chars": 759148
+    },
+    "media2.jpg": {
+      "bytes": 103784,
+      "sha256": "c3a19367cc0dc26f56a11e53f855dc37349e081039fd086ac97b868ab5add875",
+      "jpeg_magic": "ffd8ff",
+      "base64_chars": 138380
+    }
+  }
+}
