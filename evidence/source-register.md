@@ -1497,3 +1497,18 @@ Provenance: directly downloaded from Historic Oregon Newspapers during the Newto
 Evidence: `E-180`; person `P-106`; business `BUS-088`; media `IMG-0731`.
 Notes: Names George Newton as Quality restaurant proprietor and reports the restaurant was saved during the Fifth Street fire; banquet Tuesday evening. No address or phone. Opening closely parallels the Oregonian dispatch; do not count the two as independent witnesses. John Frison and Ariel Newton marriage context does not establish kinship to George.
 Integrity: SHA-256 `a668b95e9ba4ce47f8fcec362fa2037a2aa6dbe68435d07c903071378d0a2b63`; 840717 bytes.
+
+## S-203 — Clackamas County Historical Society photograph P-1469, 1890 Main Street flood
+Type: Institutional historic-photograph catalog record and preserved public image derivative; **CATALOG METADATA VERIFIED**.  
+Holding institution: Clackamas County Historical Society.  
+Entry/Object ID: `P-1469`.  
+Catalog title: **1890 Flood - Oregon City Main Street**.  
+Catalog description: **Oregon City Main Street, 6th and Main, looking southwest.  Unidentified people.  Flooding.  Debris.**  
+Date made: **1890**.  
+CatalogIt entry UUID: `de65a6a0-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-main-street-1`.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-main-street-1  
+API lookup: https://api.catalogit.app/api/public/search?query=P-1469&size=50  
+Repository image: `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` (`IMG-0732`), SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`, 2400×1745 JPEG, 569359 bytes.  
+Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.  
+Related evidence: `E-183`.  
+Notes: CCHS directly identifies the scene as 6th and Main looking southwest during the 1890 flood. Do not use this source alone to assign an exact 501/503/505 facade or physical-building continuity. The earlier steward-supplied file was not recoverable byte-for-byte from the temporary staging fragments; the committed file is the exact current CCHS public high-resolution derivative.

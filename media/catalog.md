@@ -32,6 +32,7 @@ For the definitive photograph-only inventory and supplied-file audit, use [`medi
 | `IMG-0723` | `media/photo-metadata-register.md` | Committed December 1919 photograph of B. J. Staats Hardware at cataloged 516 Main (`S-147` / `E-132`) |
 | `IMG-0724` | `media/photo-metadata-register.md` | Committed George Harding Drug Store crop cataloged at 505 Main, 1880/1880s (`S-148` / `E-133`) |
 | `IMG-0725` | `media/photo-metadata-register.md` | Committed 1910 George Young's Second Hand Store photograph with visible 505 doorway (`S-149` / `E-134`) |
+| `IMG-0732` | `media/photo-metadata-register.md` | Committed CCHS P-1469 1890 Main Street flood photograph, 6th/Main looking southwest (`S-203` / `E-183`) |
 
 ## Deprecated Older Paths
 

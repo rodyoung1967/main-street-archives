@@ -357,3 +357,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Corrected superseded scan-gap checkpoints while retaining prior access history. Newton→427 remains probable, not direct; no 503 association, entity merger, property ownership, building continuity, or Gates-model selection.
 - Synchronized Markdown/YAML entities, evidence/sources, media/crosswalk, addresses, business/timeline, maps, open questions/leads and unchanged annual status. Original raster inventory counts unchanged because sources are PDFs.
 - Permanent record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`. Archive validation passed before and after integration; final diff review and integrity checks passed for five original PDFs, all 237 OCR snapshots, and unchanged existing IDs. Fetched the latest main again and fast-forwarded through cleanup-only commits without historical-file differences before committing.
+
+## 2026-09-03 — Commit CCHS P-1469 1890 Main Street flood photograph
+
+- Recovered the exact Clackamas County Historical Society CatalogIt record **P-1469**, title **1890 Flood - Oregon City Main Street**, dated **1890**, described as **6th and Main, looking southwest** with flooding, debris, and unidentified people.
+- The abandoned temporary staging chunks were incomplete and could not reconstruct a valid JPEG; corrupt bytes were not committed.
+- Preserved the current CCHS public high-resolution derivative as `IMG-0732` at `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` (2400×1745, SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`, 569359 bytes).
+- Assigned `S-203` and `E-183` without renumbering existing records and synchronized Markdown/YAML source/evidence registers, media metadata, photograph inventory, media catalog, early-photo README, crosswalk, and source capture.
+- Preserved the uncertainty boundary: byte identity to the earlier steward upload is not claimed, and the photograph alone does not prove an exact 501/503/505 facade or building continuity.

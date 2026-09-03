@@ -2803,3 +2803,18 @@ evidence:
     related_maps:
     - SM-008
     repository_file: evidence/E-182-1925-427-main-fifth-laundry-map-context.md
+
+  - id: E-183
+    name: CCHS P-1469 1890 Main Street flood scene at 6th and Main
+    type: Institutional historic-photograph catalog metadata plus preserved image
+    claims:
+    - CCHS catalogs P-1469 as "1890 Flood - Oregon City Main Street" and dates it to 1890.
+    - The CCHS description places the scene at 6th and Main looking southwest and identifies flooding, debris, and unidentified people.
+    - The repository image is the public high-resolution derivative attached to that exact CCHS record.
+    - The photograph alone does not establish an exact 501/503/505 facade or continuity to later buildings.
+    confidence: Very High for institutional catalog metadata and image association; exact target-frontage interpretation remains separate.
+    related_sources:
+    - S-203
+    related_media:
+    - IMG-0732
+    repository_file: evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md

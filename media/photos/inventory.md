@@ -5,8 +5,8 @@ Scope: every committed raster file, with photographs distinguished from maps, ne
 
 ## Result
 
-- **69 committed raster files** in the repository.
-- **42 photographs/aerials**, all stored together under `media/photos/`.
+- **70 committed raster files** in the repository.
+- **43 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
 - **All 69 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
@@ -23,7 +23,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).
 
-### Street-level and early photographs — 4 files
+### Street-level and early photographs — 5 files
 
 | Media ID | Cataloged subject/date | Canonical repository file | Status and limit |
 | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `IMG-0723` | B. J. Staats Hardware, cataloged 516 Main, December 1919 snow | [`early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg`](early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg) | Committed exact supplied-file match; museum metadata supplies address/date, while the image visibly shows the hardware fascia and closing-out/big-sale signs. The signs support a sale event, not by themselves a completed closure. |
 | `IMG-0724` | George Harding Drug Store, cataloged 505 Main, 1880/1880s | [`early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg`](early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg) | Committed exact supplied-file match; structured date and caption conflict, the crop does not show 505, and the location may be retrospective. |
 | `IMG-0725` | George Young's Second Hand Store, 505 Main, 1910 | [`early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg`](early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg) | Committed exact supplied-file match; storefront and 505 doorway are visible. |
+| `IMG-0732` | CCHS P-1469; 1890 Flood - Oregon City Main Street; 1890; 6th/Main looking southwest | [`early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`](early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg) | Committed CCHS public high-resolution derivative; exact institutional object identity and scene description established. Byte identity to the earlier steward upload is not claimed; exact 501/503/505 facade mapping remains separate. |
 
 ## Recent supplied-file reconciliation
 
@@ -39,6 +40,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `516 Main B.J. Staats hardware Store in 22 inches of snow 1919.jpg` | `c3cdabf87560ca79fa919a23b081407c5d069cd0fd196280253e39df838c8cac` | `IMG-0723` — `media/photos/early-main-street/IMG-0723_1919-12-516-main-bj-staats-hardware-snow.jpg` | Exact byte match |
 | `George Harding Drug Store 1880 (Clackamas County Historical Society).jpg` | `532b58185f876a7651d578be9cb39f94a414d4daaa2169438cae1329ed99fe61` | `IMG-0724` — `media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg` | Exact byte match |
 | `George Young's Second Hand Store 1910 (Clackamas County Historical Society).jpg` | `875329cbd74094a80fc49b4e470b5b70e2dda48dc66594508240facdf2c75c04` | `IMG-0725` — `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` | Exact byte match |
+| `Oregon City Main Street, 6th & Main, looking southwest down main. (Clackamas County Historical Society).jpg` (steward-supplied identification; exact original bytes not recoverable from staging) | not available | `IMG-0732` — `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` | Recovered from exact CCHS P-1469 record as current public high-resolution derivative; **not claimed as an exact byte match** to the earlier upload. |
 
 The original filenames remain preserved in the canonical media records. The repository filenames add stable media IDs and do not alter the image bytes.
 

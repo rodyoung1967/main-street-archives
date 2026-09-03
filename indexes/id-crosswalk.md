@@ -344,3 +344,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `E-182` / `S-021` / `SM-008` / `T-075` | `B-016`, `B-005`, `B-009` | 1925 map geometry and use only. |
 
 `OQ-034` / `RL-048`: `P-106` → `B-016` is probable only, not a direct occupancy edge. No `BUS-087`/`BUS-088`/`BUS-089` identity merger and no 503 Kwality linkage. [Full capture](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md).
+
+### CCHS P-1469 1890 flood photograph
+
+| Media/source/evidence | Repository record | Boundary |
+| --- | --- | --- |
+| `IMG-0732` / `S-203` / `E-183` / CCHS `P-1469` | `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`; `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md` | CCHS directly supplies 1890 and 6th/Main southwest scene metadata; do not infer an exact 501/503/505 facade or building continuity from the image alone. |

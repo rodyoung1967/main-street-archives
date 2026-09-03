@@ -1067,3 +1067,15 @@ sources:
     - E-180
     related_media:
     - IMG-0731
+
+  - id: S-203
+    name: Clackamas County Historical Society photograph P-1469, 1890 Main Street flood
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-main-street-1
+    notes: >-
+      CCHS catalogs P-1469 as "1890 Flood - Oregon City Main Street" (1890) and describes the scene as 6th and Main looking southwest, with unidentified people, flooding, and debris. The repository preserves the current CCHS public high-resolution derivative as IMG-0732. Exact 501/503/505 facade identity and building continuity are not asserted. The prior steward upload could not be reconstructed byte-for-byte from incomplete staging fragments.
+    repository_file: media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg
+    sha256: 767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74
+    related_evidence:
+    - E-183
+    related_media:
+    - IMG-0732

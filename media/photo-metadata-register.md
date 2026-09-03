@@ -1209,3 +1209,22 @@ Source/evidence: `S-202` / `E-180`.
 Integrity: SHA-256 `a668b95e9ba4ce47f8fcec362fa2037a2aa6dbe68435d07c903071378d0a2b63`; 840717 bytes.
 Limits: Names George Newton as Quality restaurant proprietor and reports the restaurant was saved during the Fifth Street fire; banquet Tuesday evening. No address or phone. Opening closely parallels the Oregonian dispatch; do not count the two as independent witnesses. John Frison and Ariel Newton marriage context does not establish kinship to George.
 Rights: 1922 US newspaper publication; archival access copy. No separate raster derivative added.
+
+## IMG-0732 — CCHS P-1469, 1890 Main Street flood at 6th and Main
+File: `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`  
+Type: Historic photograph / institutional public derivative  
+Status: `committed`  
+Source: `S-203`; evidence `E-183`  
+Holding institution / object: Clackamas County Historical Society, **P-1469**  
+Catalog title: **1890 Flood - Oregon City Main Street**  
+Catalog description: **Oregon City Main Street, 6th and Main, looking southwest.  Unidentified people.  Flooding.  Debris.**  
+Date made: **1890**  
+Catalog entry UUID: `de65a6a0-9b1e-11eb-b3ef-53e7205a00b4`  
+CatalogIt media UUID: `3c630c60-b5ce-11f0-b5a3-a3a9be51ef91`  
+Public catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-main-street-1  
+Recovered derivative: https://d8e7jbdw4fu0e.cloudfront.net/4813/3c630c60-b5ce-11f0-b5a3-a3a9be51ef91-vdUeg2T.lg@2x.jpg  
+Dimensions: 2400 × 1745  
+SHA-256: `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`  
+File size: 569359 bytes  
+Provenance note: the temporary steward-upload staging chunks were incomplete and could not reconstruct a valid JPEG. This committed file is the exact current CCHS public high-resolution derivative for P-1469; byte identity to the earlier steward upload is not claimed.  
+Historical-use limit: the institutional record directly supplies the 6th/Main southwest location context, but this image alone does not assign an exact 501/503/505 facade or prove physical-building continuity.

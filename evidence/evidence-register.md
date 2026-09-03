@@ -1592,3 +1592,14 @@ Confidence: DOCUMENTED / DIRECT for the May 1925 mapped numbers, uses and spatia
 Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
 
 Related record: `evidence/E-182-1925-427-main-fifth-laundry-map-context.md`
+
+## E-183 — CCHS P-1469 1890 Main Street flood scene at 6th and Main
+Type: Institutional historic-photograph catalog metadata plus preserved image; source `S-203`; media `IMG-0732`.  
+Evidence state: **DOCUMENTED / DIRECT** for the institutional title, date, location description, and image association.  
+Claims:
+- Clackamas County Historical Society catalogs object **P-1469** as **1890 Flood - Oregon City Main Street** and dates it to **1890**.
+- The catalog description places the photograph at **6th and Main, looking southwest** and identifies flooding, debris, and unidentified people.
+- The preserved repository image is the public high-resolution derivative attached to that exact institutional record.
+- The source does **not** independently establish an exact 501/503/505 address for a particular pictured facade and does not establish building continuity to later structures.
+Confidence: **Very High** for the CCHS catalog metadata and image association; exact target-frontage/facade interpretation remains separate.  
+Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.

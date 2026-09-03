@@ -1,10 +1,19 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **four street-level files are committed (`IMG-0722`–`IMG-0725`); four additional public-source full scenes are planned but have not been imported**
+Status: **five standalone street-level files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`); three additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
 The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`) and one provenance-unresolved crop (`IMG-0722`). See the [definitive repository photograph inventory](../inventory.md) for hashes, the 514/516 distinction, and repository-wide counts.
+
+## Committed CCHS P-1469 1890 flood photograph
+
+- `IMG-0732` — `IMG-0732_1890-main-street-flood-cchs-p1469.jpg`
+- Clackamas County Historical Society object **P-1469**, catalog title **1890 Flood - Oregon City Main Street**.
+- CCHS dates the image **1890** and describes it as **6th and Main, looking southwest**, with unidentified people, flooding, and debris.
+- The committed JPEG is the current CCHS public high-resolution derivative (2400×1745); SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`.
+- The earlier steward-supplied image was incompletely staged, so byte identity to that upload is not claimed.
+- Do not use this photograph alone to assign a specific 501/503/505 facade or physical-building continuity.
 
 ## Committed exact-address photograph
 
