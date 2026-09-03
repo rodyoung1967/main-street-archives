@@ -15,7 +15,7 @@ jobs:
   integrate:
     runs-on: ubuntu-latest
     env:
-      BASE_MAIN: f4a7209b410cd56fef3e4f01b9ecd58668acdb5d
+      BASE_MAIN: a6fab942a9739c5e2abd8345b6b34dcce19516ee
       TARGET_BRANCH: temp/finalize-p1469-main
       TARGET_FILE: media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg
     steps:
