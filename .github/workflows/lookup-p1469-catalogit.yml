@@ -27,22 +27,44 @@ jobs:
             --data-urlencode 'size=100' \
             -o .ingest/p1469/catalogit/flood-main.json
           python -m json.tool .ingest/p1469/catalogit/p1469.json >/dev/null
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          d=json.loads(Path('.ingest/p1469/catalogit/p1469.json').read_text())
-          e=d['entries'][0]
-          for i,m in enumerate(e['media'],1):
-              print(i, m.get('name'), m['derivatives']['public_highres_2x']['path'])
-          PY
           curl -fL --retry 3 'https://d8e7jbdw4fu0e.cloudfront.net/4813/3c630c60-b5ce-11f0-b5a3-a3a9be51ef91-vdUeg2T.lg@2x.jpg' -o .ingest/p1469/catalogit/media1.jpg
           curl -fL --retry 3 'https://d8e7jbdw4fu0e.cloudfront.net/4813/004f1760-9b7e-11eb-97c3-a30f15c9573f-vdUeg2T.lg@2x.jpg' -o .ingest/p1469/catalogit/media2.jpg
           file .ingest/p1469/catalogit/media*.jpg
           sha256sum .ingest/p1469/catalogit/media*.jpg > .ingest/p1469/catalogit/media.sha256
-      - name: Commit lookup results to staging branch
+      - name: Compare surviving upload fragments to CatalogIt derivatives
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, json
+
+          chunks=[]
+          for p in sorted(Path('.ingest/p1469').glob('chunk*.b64')):
+              chunks.append((p.name, ''.join(p.read_text().split())))
+
+          report={'chunks':{},'media':{}}
+          for mp in [Path('.ingest/p1469/catalogit/media1.jpg'), Path('.ingest/p1469/catalogit/media2.jpg')]:
+              raw=mp.read_bytes()
+              b64=base64.b64encode(raw).decode()
+              report['media'][mp.name]={
+                  'bytes':len(raw),
+                  'sha256':hashlib.sha256(raw).hexdigest(),
+                  'jpeg_magic':raw[:3].hex(),
+                  'base64_chars':len(b64),
+              }
+              for name,c in chunks:
+                  report['chunks'].setdefault(name,{'chars':len(c),'matches':{}})
+                  report['chunks'][name]['matches'][mp.name]=c in b64
+                  # Also compare a robust interior sample in case a staging chunk was clipped at an edge.
+                  if len(c) >= 4096:
+                      sample=c[len(c)//2-2048:len(c)//2+2048]
+                      report['chunks'][name].setdefault('interior_sample_matches',{})[mp.name]=sample in b64
+          Path('.ingest/p1469/catalogit/fragment-match.json').write_text(json.dumps(report,indent=2)+'\n')
+          print(json.dumps(report,indent=2))
+          PY
+      - name: Commit verification results to staging branch
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .ingest/p1469/catalogit/
-          git commit -m 'Stage P-1469 CatalogIt derivatives for verification'
+          git commit -m 'Compare P-1469 fragments with CCHS derivatives'
           git push origin HEAD:temp/ingest-p1469-1890-flood
