@@ -1,0 +1,32 @@
+name: Lookup CCHS 2019.001.00179
+
+on:
+  push:
+    branches:
+      - temp/lookup-2019-001-00179
+    paths:
+      - '.github/workflows/lookup-2019-001-00179.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Query CatalogIt public API
+        run: |
+          mkdir -p .ingest
+          curl -fL --retry 3 --get 'https://api.catalogit.app/api/public/search' \
+            --data-urlencode 'query=2019.001.00179' \
+            --data-urlencode 'size=50' \
+            -o .ingest/2019-001-00179.json
+          python -m json.tool .ingest/2019-001-00179.json >/dev/null
+      - name: Commit lookup result
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .ingest/2019-001-00179.json
+          git commit -m 'Stage CCHS 2019.001.00179 lookup'
+          git push origin HEAD:temp/lookup-2019-001-00179
