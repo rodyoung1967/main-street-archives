@@ -1,0 +1,100 @@
+name: Ingest CCHS P-1474 1890 flood photo v2
+
+on:
+  push:
+    branches:
+      - 'temp/ingest-p1474-1890-flood'
+    paths:
+      - '.github/workflows/ingest-p1474-1890-flood-photo-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    env:
+      BASE_MAIN: 59a8960f30a6afa4c94cc65716418fe3d11f73ac
+      TARGET: media/photos/early-main-street/IMG-0727_1890-flood-main-street-after-waters-resided-p1474.jpg
+      CATALOG_PAGE: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/1890-flood-main-street-after-waters-resided-oregon-city-oregon.
+      EXPECTED_SHA256: c6fc21c3acb6c2ea182510870c407b16c05cd303f31b6471ad2948dad31b58df
+      EXPECTED_SIZE: '653119'
+    steps:
+      - name: Check out staging branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Confirm authoritative main has not advanced
+        run: |
+          git fetch origin main
+          ACTUAL_MAIN="$(git rev-parse origin/main)"
+          echo "origin/main=$ACTUAL_MAIN"
+          test "$ACTUAL_MAIN" = "$BASE_MAIN"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependency
+        run: python -m pip install --quiet pyyaml
+      - name: Validate archive before photo integration
+        run: python3 scripts/validate_archive.py
+      - name: Discover live CatalogIt assets and require exact steward-upload bytes
+        run: |
+          python3 - <<'PY'
+          import hashlib, html, os, re, urllib.request
+          from pathlib import Path
+          page = os.environ['CATALOG_PAGE']
+          target = Path(os.environ['TARGET'])
+          expected_sha = os.environ['EXPECTED_SHA256']
+          expected_size = int(os.environ['EXPECTED_SIZE'])
+          ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/142 Safari/537.36'
+          with urllib.request.urlopen(urllib.request.Request(page, headers={'User-Agent': ua}), timeout=45) as r:
+              text = r.read().decode('utf-8', errors='replace')
+          text = html.unescape(text).replace('\\/', '/').replace('\\u002F', '/')
+          candidates = set(re.findall(r'https://[^"\'<>\s]+?\.(?:jpg|jpeg|JPG|JPEG)(?:\?[^"\'<>\s]*)?', text))
+          bases = [
+              'https://d8e7jbdw4fu0e.cloudfront.net/4813/d8908080-9b80-11eb-97c3-a30f15c9573f-vdUeg4U',
+              'https://d3f1jyudfg58oi.cloudfront.net/4813/photo/d8908080-9b80-11eb-97c3-a30f15c9573f-sunJPJ9',
+          ]
+          for b in bases:
+              for suffix in ['.lg@2x.jpg', '.lg.jpg', '.md@2x.jpg', '.md.jpg', '.sm@2x.jpg', '.sm.jpg', '.tn@2x.JPG', '.tn.JPG', '.jpg', '.JPG']:
+                  candidates.add(b + suffix)
+          print(f'Candidate assets: {len(candidates)}')
+          target.parent.mkdir(parents=True, exist_ok=True)
+          exact = None
+          for i, url in enumerate(sorted(candidates), 1):
+              headers = {'User-Agent': ua, 'Referer': page, 'Accept': 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8'}
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=30) as r:
+                      data = r.read()
+                  digest = hashlib.sha256(data).hexdigest()
+                  print(f'[{i}] bytes={len(data)} sha256={digest} url={url}')
+                  if len(data) == expected_size and digest == expected_sha:
+                      exact = (url, data)
+                      break
+              except Exception as exc:
+                  print(f'[{i}] ERROR {exc} url={url}')
+          if exact is None:
+              raise SystemExit('No live CatalogIt asset matched the exact steward-upload SHA-256 and byte count.')
+          url, data = exact
+          target.write_bytes(data)
+          print(f'EXACT MATCH: {url}')
+          PY
+      - name: Integrate photograph metadata and historical context
+        run: python3 scripts/ingest_p1474_1890_flood_photo.py
+      - name: Remove one-use staging tooling
+        run: |
+          rm -f scripts/ingest_p1474_1890_flood_photo.py
+          rm -f .github/workflows/ingest-p1474-1890-flood-photo.yml
+          rm -f .github/workflows/ingest-p1474-1890-flood-photo-v2.yml
+      - name: Validate archive after photo integration
+        run: python3 scripts/validate_archive.py
+      - name: Squash to one verified integration commit on staging branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git reset --soft "$BASE_MAIN"
+          git add -A
+          git status --short
+          git commit -m 'Preserve CCHS P-1474 1890 Main Street flood photograph'
+          git push --force-with-lease origin HEAD:temp/ingest-p1474-1890-flood
