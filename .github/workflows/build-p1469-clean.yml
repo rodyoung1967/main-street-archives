@@ -6,6 +6,7 @@ on:
       - 'temp/ingest-p1469-1890-flood'
     paths:
       - '.github/workflows/build-p1469-clean.yml'
+      - '.ingest/p1469/build_clean.py'
 
 permissions:
   contents: write
@@ -72,8 +73,30 @@ jobs:
       - name: Integrate synchronized archive records
         run: python /tmp/build_clean.py
 
-      - name: Validate completed archive
-        run: python3 scripts/validate_archive.py
+      - name: Validate completed archive and capture diagnostics
+        run: |
+          set +e
+          python3 scripts/validate_archive.py 2>&1 | tee /tmp/p1469-validator.log
+          rc=${PIPESTATUS[0]}
+          echo "$rc" > /tmp/p1469-validator.rc
+          exit 0
+
+      - name: Persist validator failure for diagnosis
+        run: |
+          rc="$(cat /tmp/p1469-validator.rc)"
+          if [ "$rc" -eq 0 ]; then
+            exit 0
+          fi
+          git fetch origin temp/ingest-p1469-1890-flood
+          git reset --hard origin/temp/ingest-p1469-1890-flood
+          mkdir -p .ingest/p1469
+          cp /tmp/p1469-validator.log .ingest/p1469/validator-last.log
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .ingest/p1469/validator-last.log
+          git commit -m 'Capture P-1469 validation failure' || true
+          git push origin HEAD:temp/ingest-p1469-1890-flood
+          exit 1
 
       - name: Review integration diff and commit
         run: |
