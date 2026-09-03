@@ -1,0 +1,96 @@
+name: Build clean CCHS P-1469 integration
+
+on:
+  push:
+    branches:
+      - 'temp/ingest-p1469-1890-flood'
+    paths:
+      - '.github/workflows/build-p1469-clean.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    env:
+      BASE_MAIN: f4a7209b410cd56fef3e4f01b9ecd58668acdb5d
+      TARGET_BRANCH: temp/finalize-p1469-main
+      TARGET_FILE: media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg
+    steps:
+      - name: Check out staging tools
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preserve integration script outside working tree
+        run: |
+          cp .ingest/p1469/build_clean.py /tmp/build_clean.py
+          test -s /tmp/build_clean.py
+
+      - name: Reset to authoritative main only if unchanged
+        run: |
+          git fetch origin main
+          ACTUAL_MAIN="$(git rev-parse origin/main)"
+          echo "origin/main=$ACTUAL_MAIN"
+          test "$ACTUAL_MAIN" = "$BASE_MAIN"
+          git reset --hard origin/main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validation/image dependencies
+        run: python -m pip install --quiet pyyaml pillow
+
+      - name: Validate authoritative base
+        run: python3 scripts/validate_archive.py
+
+      - name: Retrieve exact CCHS P-1469 record and image
+        run: |
+          curl -fL --retry 3 --get 'https://api.catalogit.app/api/public/search' \
+            --data-urlencode 'query=P-1469' \
+            --data-urlencode 'size=50' \
+            -o /tmp/p1469.json
+          python -m json.tool /tmp/p1469.json >/dev/null
+          IMAGE_URL="$(python - <<'PY'
+          import json
+          d=json.load(open('/tmp/p1469.json'))
+          e=[x for x in d.get('entries',[]) if x.get('properties',{}).get('hasCatalogNumber',{}).get('value_text')=='P-1469']
+          if len(e)!=1:
+              raise SystemExit(f'expected one P-1469 entry, got {len(e)}')
+          m=e[0]['media'][0]['derivatives']
+          print(m.get('public_highres_2x',{}).get('path') or m['public_highres']['path'])
+          PY
+          )"
+          echo "Recovering institutional derivative: $IMAGE_URL"
+          mkdir -p "$(dirname "$TARGET_FILE")"
+          curl -fL --retry 3 "$IMAGE_URL" -o "$TARGET_FILE"
+          test -s "$TARGET_FILE"
+
+      - name: Integrate synchronized archive records
+        run: python /tmp/build_clean.py
+
+      - name: Validate completed archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Review integration diff and commit
+        run: |
+          git status --short
+          git diff --check
+          git diff --stat
+          test -f "$TARGET_FILE"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg
+          git add evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md
+          git add evidence/source-register.md evidence/evidence-register.md
+          git add database/sources.yml database/evidence.yml
+          git add media/photo-metadata-register.md media/photos/inventory.md media/photos/early-main-street/README.md media/catalog.md
+          git add indexes/id-crosswalk.md registers/research-log.md
+          git diff --cached --check
+          git commit -m 'Preserve CCHS P-1469 1890 Main Street flood photograph'
+
+      - name: Push clean commit to finalization branch
+        run: git push origin HEAD:"$TARGET_BRANCH"
