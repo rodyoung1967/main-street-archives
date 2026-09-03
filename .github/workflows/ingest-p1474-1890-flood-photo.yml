@@ -16,7 +16,7 @@ jobs:
     env:
       BASE_MAIN: 59a8960f30a6afa4c94cc65716418fe3d11f73ac
       TARGET: media/photos/early-main-street/IMG-0727_1890-flood-main-street-after-waters-resided-p1474.jpg
-      IMAGE_URL: https://d8e7jbdw4fu0e.cloudfront.net/4813/d8908080-9b80-11eb-97c3-a30f15c9573f-vdUeg4U.lg%402x.jpg
+      CATALOG_PAGE: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/1890-flood-main-street-after-waters-resided-oregon-city-oregon.
       EXPECTED_SHA256: c6fc21c3acb6c2ea182510870c407b16c05cd303f31b6471ad2948dad31b58df
       EXPECTED_SIZE: '653119'
     steps:
@@ -38,15 +38,67 @@ jobs:
         run: python -m pip install --quiet pyyaml
       - name: Validate archive before photo integration
         run: python3 scripts/validate_archive.py
-      - name: Download exact CatalogIt access image and verify against steward upload
+      - name: Discover CatalogIt image assets and require exact steward-upload bytes
         run: |
-          mkdir -p "$(dirname "$TARGET")"
-          curl -L --fail --retry 3 --retry-delay 2 -o "$TARGET" "$IMAGE_URL"
-          ACTUAL_SHA="$(sha256sum "$TARGET" | awk '{print $1}')"
-          ACTUAL_SIZE="$(stat -c%s "$TARGET")"
-          echo "downloaded sha256=$ACTUAL_SHA bytes=$ACTUAL_SIZE"
-          test "$ACTUAL_SHA" = "$EXPECTED_SHA256"
-          test "$ACTUAL_SIZE" = "$EXPECTED_SIZE"
+          python3 - <<'PY'
+          import hashlib, html, os, re, urllib.request
+          from pathlib import Path
+
+          page = os.environ['CATALOG_PAGE']
+          target = Path(os.environ['TARGET'])
+          expected_sha = os.environ['EXPECTED_SHA256']
+          expected_size = int(os.environ['EXPECTED_SIZE'])
+          headers = {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/142 Safari/537.36',
+              'Referer': page,
+              'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+          }
+
+          req = urllib.request.Request(page, headers={'User-Agent': headers['User-Agent']})
+          with urllib.request.urlopen(req, timeout=45) as r:
+              text = r.read().decode('utf-8', errors='replace')
+          text = html.unescape(text).replace('\\/', '/')
+
+          candidates = set()
+          for pat in [
+              r'https://[^"\'<>\s]+?\.(?:jpg|jpeg|JPG|JPEG)(?:\?[^"\'<>\s]*)?',
+              r'https:\\u002F\\u002F[^"\'<>\s]+?\.(?:jpg|jpeg|JPG|JPEG)(?:\?[^"\'<>\s]*)?',
+          ]:
+              for u in re.findall(pat, text):
+                  candidates.add(u.replace('\\u002F', '/'))
+
+          # Include asset URLs exposed by the public CatalogIt page/crawler plus likely size variants.
+          bases = [
+              'https://d8e7jbdw4fu0e.cloudfront.net/4813/d8908080-9b80-11eb-97c3-a30f15c9573f-vdUeg4U',
+              'https://d3f1jyudfg58oi.cloudfront.net/4813/photo/d8908080-9b80-11eb-97c3-a30f15c9573f-sunJPJ9',
+          ]
+          for b in bases:
+              for suffix in ['.lg@2x.jpg', '.lg.jpg', '.md@2x.jpg', '.md.jpg', '.sm@2x.jpg', '.sm.jpg', '.tn@2x.JPG', '.tn.JPG', '.jpg', '.JPG']:
+                  candidates.add(b + suffix)
+
+          print(f'Catalog page yielded {len(candidates)} candidate image URLs')
+          target.parent.mkdir(parents=True, exist_ok=True)
+          exact = None
+          for i, url in enumerate(sorted(candidates), 1):
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      data = r.read()
+                  digest = hashlib.sha256(data).hexdigest()
+                  print(f'[{i}] {url} -> {len(data)} bytes sha256={digest}')
+                  if len(data) == expected_size and digest == expected_sha:
+                      exact = (url, data)
+                      break
+              except Exception as exc:
+                  print(f'[{i}] {url} -> ERROR {exc}')
+
+          if exact is None:
+              raise SystemExit('No live CatalogIt image asset matched the exact steward-upload SHA-256 and byte count.')
+          url, data = exact
+          target.write_bytes(data)
+          print(f'EXACT MATCH: {url}')
+          print(f'WROTE: {target} ({len(data)} bytes, sha256={expected_sha})')
+          PY
       - name: Integrate photograph metadata and historical context
         run: python3 scripts/ingest_p1474_1890_flood_photo.py
       - name: Remove one-use staging tooling
