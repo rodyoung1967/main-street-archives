@@ -1,0 +1,66 @@
+name: Ingest CCHS P-1474 1890 flood photo
+
+on:
+  push:
+    branches:
+      - 'temp/ingest-p1474-1890-flood'
+    paths:
+      - '.github/workflows/ingest-p1474-1890-flood-photo.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    env:
+      BASE_MAIN: 59a8960f30a6afa4c94cc65716418fe3d11f73ac
+      TARGET: media/photos/early-main-street/IMG-0727_1890-flood-main-street-after-waters-resided-p1474.jpg
+      IMAGE_URL: https://d8e7jbdw4fu0e.cloudfront.net/4813/d8908080-9b80-11eb-97c3-a30f15c9573f-vdUeg4U.lg%402x.jpg
+      EXPECTED_SHA256: c6fc21c3acb6c2ea182510870c407b16c05cd303f31b6471ad2948dad31b58df
+      EXPECTED_SIZE: '653119'
+    steps:
+      - name: Check out staging branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Confirm authoritative main has not advanced
+        run: |
+          git fetch origin main
+          ACTUAL_MAIN="$(git rev-parse origin/main)"
+          echo "origin/main=$ACTUAL_MAIN"
+          test "$ACTUAL_MAIN" = "$BASE_MAIN"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependency
+        run: python -m pip install --quiet pyyaml
+      - name: Validate archive before photo integration
+        run: python3 scripts/validate_archive.py
+      - name: Download exact CatalogIt access image and verify against steward upload
+        run: |
+          mkdir -p "$(dirname "$TARGET")"
+          curl -L --fail --retry 3 --retry-delay 2 -o "$TARGET" "$IMAGE_URL"
+          ACTUAL_SHA="$(sha256sum "$TARGET" | awk '{print $1}')"
+          ACTUAL_SIZE="$(stat -c%s "$TARGET")"
+          echo "downloaded sha256=$ACTUAL_SHA bytes=$ACTUAL_SIZE"
+          test "$ACTUAL_SHA" = "$EXPECTED_SHA256"
+          test "$ACTUAL_SIZE" = "$EXPECTED_SIZE"
+      - name: Integrate photograph metadata and historical context
+        run: python3 scripts/ingest_p1474_1890_flood_photo.py
+      - name: Remove one-use staging tooling
+        run: |
+          rm scripts/ingest_p1474_1890_flood_photo.py
+          rm .github/workflows/ingest-p1474-1890-flood-photo.yml
+      - name: Validate archive after photo integration
+        run: python3 scripts/validate_archive.py
+      - name: Squash to one verified integration commit on staging branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git reset --soft "$BASE_MAIN"
+          git add -A
+          git status --short
+          git commit -m 'Preserve CCHS P-1474 1890 Main Street flood photograph'
+          git push --force-with-lease origin HEAD:temp/ingest-p1474-1890-flood
