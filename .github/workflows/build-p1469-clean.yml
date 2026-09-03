@@ -24,9 +24,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Preserve integration script outside working tree
+      - name: Preserve and correct integration script outside working tree
         run: |
           cp .ingest/p1469/build_clean.py /tmp/build_clean.py
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('/tmp/build_clean.py')
+          s = p.read_text()
+          old = 'p.write_text(current + "\\n\\n" + text.strip() + "\\n", encoding="utf-8")'
+          new = 'p.write_text(current + "\\n\\n" + text.rstrip() + "\\n", encoding="utf-8")'
+          if old not in s:
+              raise SystemExit('append helper signature changed; stop for review')
+          p.write_text(s.replace(old, new, 1))
+          PY
           test -s /tmp/build_clean.py
 
       - name: Reset to authoritative main only if unchanged
