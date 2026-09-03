@@ -1,10 +1,10 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **five standalone street-level files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`); three additional public-source full scenes remain planned**
+Status: **six standalone street-level files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0733`); three additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
-The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`) and one provenance-unresolved crop (`IMG-0722`). See the [definitive repository photograph inventory](../inventory.md) for hashes, the 514/516 distinction, and repository-wide counts.
+The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`), one provenance-unresolved crop (`IMG-0722`), the recovered CCHS P-1469 derivative (`IMG-0732`), and the current CCHS P-1456 derivative (`IMG-0733`) representing the newly supplied higher-resolution P-1456 attachment as a substantive duplicate. See the [definitive repository photograph inventory](../inventory.md) for hashes, the 514/516 distinction, and repository-wide counts.
 
 ## Committed CCHS P-1469 1890 flood photograph
 
@@ -14,6 +14,17 @@ The committed set comprises three exact byte matches to recent steward-supplied 
 - The committed JPEG is the current CCHS public high-resolution derivative (2400×1745); SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`.
 - The earlier steward-supplied image was incompletely staged, so byte identity to that upload is not claimed.
 - Do not use this photograph alone to assign a specific 501/503/505 facade or physical-building continuity.
+
+## Committed CCHS P-1456 1890 flood photograph
+
+- `IMG-0733` — `IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`
+- Clackamas County Historical Society object **P-1456**, catalog title **1890 Flood - Oregon City at 6th and Main Street Looking South**; catalog tag **Duplicate**.
+- CCHS dates the photograph **1890** and describes Main Street looking south after water receded, between the alley and Sixth Street, with unidentified people.
+- CCHS prints **Duplicates P-1456, P-1616, P-5519, P-8885**. Preserve that as catalog metadata; current digital derivatives are not assumed byte-identical.
+- The steward-supplied `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg` is 2048 × 1543, 903423 bytes, SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`, and was visually inspected.
+- The committed binary is the current CCHS P-1456 high-resolution derivative (1200 × 904; SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`), a substantive duplicate rather than an exact-byte copy of the supplied attachment.
+- The catalog's associated Sanborn-map attachment has not been interpreted in this integration. Do not assign a specific 501/503/505 facade or physical-building continuity from this photograph alone.
+
 
 ## Committed exact-address photograph
 

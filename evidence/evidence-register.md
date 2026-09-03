@@ -1603,3 +1603,16 @@ Claims:
 - The source does **not** independently establish an exact 501/503/505 address for a particular pictured facade and does not establish building continuity to later structures.
 Confidence: **Very High** for the CCHS catalog metadata and image association; exact target-frontage/facade interpretation remains separate.  
 Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.
+
+## E-184 — CCHS P-1456 1890 Main Street looking south after flood waters receded
+Type: Institutional historic-photograph catalog metadata plus steward-supplied photograph and preserved institutional derivative; source `S-204`; media `IMG-0733`.  
+Evidence state: **DOCUMENTED / DIRECT** for the CCHS title, object ID, date, location description, duplicate-group metadata and image association; **VISUALLY VERIFIED** for the steward-supplied photograph.  
+Claims:
+- Clackamas County Historical Society catalogs **P-1456** as **1890 Flood - Oregon City at 6th and Main Street Looking South**, dated **1890**.
+- The CCHS description places the view on Main Street looking south after the water had receded, **between the alley and Sixth Street**, with unidentified people.
+- CCHS tags the entry **Duplicate** and prints the duplicate-group wording **P-1456, P-1616, P-5519, P-8885**; the archive preserves that relationship as institutional metadata and does not infer byte identity among current derivatives.
+- The supplied image visibly depicts the flood-aftermath streetscape; the repository preserves the current public P-1456 high-resolution CatalogIt derivative as the canonical binary for this media record.
+- The source does **not** independently assign an exact 501/503/505 address to a pictured facade or establish physical-building continuity to later structures.
+- The catalog references an associated Sanborn map for visible-structure locations; that map attachment is not interpreted in this evidence entry.
+Confidence: **Very High** for the institutional catalog metadata and P-1456 image association; exact target-frontage/facade interpretation remains separate.  
+Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.

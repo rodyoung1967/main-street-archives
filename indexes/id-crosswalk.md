@@ -350,3 +350,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Media/source/evidence | Repository record | Boundary |
 | --- | --- | --- |
 | `IMG-0732` / `S-203` / `E-183` / CCHS `P-1469` | `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`; `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md` | CCHS directly supplies 1890 and 6th/Main southwest scene metadata; do not infer an exact 501/503/505 facade or building continuity from the image alone. |
+
+### CCHS P-1456 1890 flood photograph
+
+| Media/source/evidence | Repository record | Boundary |
+| --- | --- | --- |
+| `IMG-0733` / `S-204` / `E-184` / CCHS `P-1456` | `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`; `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md` | CCHS directly supplies the 1890, post-recession, Main-looking-south, alley-to-Sixth metadata and duplicate group P-1456/P-1616/P-5519/P-8885. Supplied and committed JPEGs are substantive duplicates, not byte-identical. No exact 501/503/505 facade or building continuity is inferred. |

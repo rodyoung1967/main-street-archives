@@ -365,3 +365,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved the current CCHS public high-resolution derivative as `IMG-0732` at `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` (2400×1745, SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`, 569359 bytes).
 - Assigned `S-203` and `E-183` without renumbering existing records and synchronized Markdown/YAML source/evidence registers, media metadata, photograph inventory, media catalog, early-photo README, crosswalk, and source capture.
 - Preserved the uncertainty boundary: byte identity to the earlier steward upload is not claimed, and the photograph alone does not prove an exact 501/503/505 facade or building continuity.
+
+## 2026-09-03 — Preserve CCHS P-1456 1890 Main Street looking-south photograph
+
+- Visually reviewed the steward-supplied `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg` (2048 × 1543; 903423 bytes; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`).
+- Verified the supplied metadata against the public CCHS CatalogIt record for **P-1456**, including title, **Duplicate** tag, post-recession/alley-to-Sixth description, 1890 date/place hierarchy, Photographic Paper medium note, and printed duplicate group **P-1456 / P-1616 / P-5519 / P-8885**.
+- CatalogIt also returns the three other listed CCHS duplicate records; their current derivatives differ in encoding/size, so the archive records the duplicate relationship as institutional metadata rather than claiming byte identity.
+- The GitHub connector cannot directly transfer the conversation attachment's binary bytes. To preserve the scene without re-encoding through ChatGPT, committed the current highest-quality public P-1456 CatalogIt derivative as `IMG-0733` at `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` (1200 × 904; 779120 bytes; SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`). The supplied attachment's exact filename/hash/dimensions remain recorded for future recognition.
+- Added `S-204` / `E-184`, canonical media/inventory records, source capture and crosswalk. The catalog-associated Sanborn-map attachment remains uninterpreted; no exact 501/503/505 facade or later building continuity is asserted.

@@ -1512,3 +1512,20 @@ Repository image: `media/photos/early-main-street/IMG-0732_1890-main-street-floo
 Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.  
 Related evidence: `E-183`.  
 Notes: CCHS directly identifies the scene as 6th and Main looking southwest during the 1890 flood. Do not use this source alone to assign an exact 501/503/505 facade or physical-building continuity. The earlier steward-supplied file was not recoverable byte-for-byte from the temporary staging fragments; the committed file is the exact current CCHS public high-resolution derivative.
+
+## S-204 — Clackamas County Historical Society photograph P-1456, 1890 Main Street looking south
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
+Holding institution: Clackamas County Historical Society.  
+Entry/Object ID: `P-1456`; tag **Duplicate**.  
+Catalog title: **1890 Flood - Oregon City at 6th and Main Street Looking South**.  
+Catalog description: **Flood of 1890. Main Street of Oregon City looking south after water had receded. Between Alley and 6th Street. Unidentified people. (See Sanborn Map below for location of visible structures)**.  
+Catalog duplicate wording: **Duplicates P-1456, P-1616, P-5519, P-8885**.  
+Date/place: **1890; Oregon City, Clackamas County, Oregon, United States of America, North America**. Medium note: **Photographic Paper**.  
+CatalogIt entry UUID: `de0cb130-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-at-6th-and-main-street-looking-south-3`.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-at-6th-and-main-street-looking-south-3  
+API lookup: https://api.catalogit.app/api/public/search?query=P-1456&size=50  
+Original supplied filename: `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg`; 2048 × 1543; 903423 bytes; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`.  
+Repository image: `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` (`IMG-0733`), current CCHS P-1456 public high-resolution derivative, 1200 × 904, 779120 bytes, SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`.  
+Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.  
+Related evidence: `E-184`.  
+Notes: The supplied JPEG and current CatalogIt derivative are not byte-identical; they are treated as substantive duplicates of the same P-1456 photographic object/scene. Preserve the CCHS duplicate-group wording as metadata, not as a claim that all digital derivatives are byte-identical. Do not assign exact 501/503/505 facades or building continuity from this source alone.

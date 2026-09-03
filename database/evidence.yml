@@ -2818,3 +2818,19 @@ evidence:
     related_media:
     - IMG-0732
     repository_file: evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md
+
+  - id: E-184
+    name: CCHS P-1456 1890 Main Street looking south after flood waters receded
+    type: Institutional historic-photograph catalog metadata plus steward-supplied photograph and preserved public derivative
+    claims:
+    - CCHS catalogs P-1456 as 1890 Flood - Oregon City at 6th and Main Street Looking South and dates it to 1890.
+    - The description places the view on Main Street looking south after water receded, between the alley and Sixth Street, with unidentified people.
+    - CCHS tags the entry Duplicate and lists P-1456, P-1616, P-5519 and P-8885 as duplicates; this is preserved as catalog metadata, not proof that every current digital derivative is byte-identical.
+    - The supplied photograph was visually inspected; the repository preserves the current public P-1456 CatalogIt high-resolution derivative as IMG-0733.
+    - Exact 501/503/505 facade identity and physical-building continuity are not established by this photograph alone.
+    confidence: Very High for institutional metadata and image association; exact target-frontage interpretation remains separate.
+    related_sources:
+    - S-204
+    related_media:
+    - IMG-0733
+    repository_file: evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md

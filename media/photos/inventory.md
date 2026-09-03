@@ -5,12 +5,12 @@ Scope: every committed raster file, with photographs distinguished from maps, ne
 
 ## Result
 
-- **70 committed raster files** in the repository.
-- **43 photographs/aerials**, all stored together under `media/photos/`.
+- **71 committed raster files** in the repository.
+- **44 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
-- **All 69 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
+- **All 71 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
-- The three recent steward-supplied historical JPEGs are present as exact byte matches.
+- Three recent steward-supplied historical JPEGs remain exact byte matches; the newly supplied P-1456 JPEG is preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
 - No photograph is committed or currently cataloged as **514 Main Street**. The snow photograph is cataloged as **516 Main Street** and committed as `IMG-0723`.
 
 This inventory is a repository-presence audit. It does not convert a catalog caption, filename, or visual interpretation into independent proof of an address, date, person, business, or building.
@@ -23,7 +23,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).
 
-### Street-level and early photographs — 5 files
+### Street-level and early photographs — 6 files
 
 | Media ID | Cataloged subject/date | Canonical repository file | Status and limit |
 | --- | --- | --- | --- |
@@ -32,6 +32,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `IMG-0724` | George Harding Drug Store, cataloged 505 Main, 1880/1880s | [`early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg`](early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg) | Committed exact supplied-file match; structured date and caption conflict, the crop does not show 505, and the location may be retrospective. |
 | `IMG-0725` | George Young's Second Hand Store, 505 Main, 1910 | [`early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg`](early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg) | Committed exact supplied-file match; storefront and 505 doorway are visible. |
 | `IMG-0732` | CCHS P-1469; 1890 Flood - Oregon City Main Street; 1890; 6th/Main looking southwest | [`early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`](early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg) | Committed CCHS public high-resolution derivative; exact institutional object identity and scene description established. Byte identity to the earlier steward upload is not claimed; exact 501/503/505 facade mapping remains separate. |
+| `IMG-0733` | CCHS P-1456; 1890 flood; Main Street looking south after water receded, alley-to-Sixth context | [`early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`](early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg) | Committed current CCHS P-1456 high-resolution derivative; supplied 2048 × 1543 JPEG visually inspected and preserved by exact filename/hash metadata. CCHS duplicate group P-1456/P-1616/P-5519/P-8885 preserved as catalog metadata; exact 501/503/505 facade mapping remains separate. |
 
 ## Recent supplied-file reconciliation
 
@@ -41,6 +42,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `George Harding Drug Store 1880 (Clackamas County Historical Society).jpg` | `532b58185f876a7651d578be9cb39f94a414d4daaa2169438cae1329ed99fe61` | `IMG-0724` — `media/photos/early-main-street/IMG-0724_1880-505-main-george-harding-drug-store.jpg` | Exact byte match |
 | `George Young's Second Hand Store 1910 (Clackamas County Historical Society).jpg` | `875329cbd74094a80fc49b4e470b5b70e2dda48dc66594508240facdf2c75c04` | `IMG-0725` — `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` | Exact byte match |
 | `Oregon City Main Street, 6th & Main, looking southwest down main. (Clackamas County Historical Society).jpg` (steward-supplied identification; exact original bytes not recoverable from staging) | not available | `IMG-0732` — `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` | Recovered from exact CCHS P-1469 record as current public high-resolution derivative; **not claimed as an exact byte match** to the earlier upload. |
+| `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg` | `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb` | `IMG-0733` — `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` | Supplied 2048 × 1543, 903423-byte JPEG is visually verified and recorded by exact signature; repository binary is the current CCHS P-1456 high-resolution derivative and is a **substantive duplicate, not an exact byte match**. |
 
 The original filenames remain preserved in the canonical media records. The repository filenames add stable media IDs and do not alter the image bytes.
 

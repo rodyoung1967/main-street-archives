@@ -1228,3 +1228,23 @@ SHA-256: `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`
 File size: 569359 bytes  
 Provenance note: the temporary steward-upload staging chunks were incomplete and could not reconstruct a valid JPEG. This committed file is the exact current CCHS public high-resolution derivative for P-1469; byte identity to the earlier steward upload is not claimed.  
 Historical-use limit: the institutional record directly supplies the 6th/Main southwest location context, but this image alone does not assign an exact 501/503/505 facade or prove physical-building continuity.
+
+## IMG-0733 — CCHS P-1456, 1890 flood at 6th/Main looking south
+File: `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`  
+Type: Historic photograph / institutional public derivative; substantive duplicate of steward-supplied P-1456 JPEG  
+Status: `committed`  
+Source: `S-204`; evidence `E-184`  
+Holding institution / object: Clackamas County Historical Society, **P-1456**; catalog tag **Duplicate**  
+Catalog title: **1890 Flood - Oregon City at 6th and Main Street Looking South**  
+Catalog description: **Flood of 1890. Main Street of Oregon City looking south after water had receded. Between Alley and 6th Street. Unidentified people. (See Sanborn Map below for location of visible structures)**  
+Catalog duplicate wording: **Duplicates P-1456, P-1616, P-5519, P-8885**  
+Date/place: **1890; Oregon City, Clackamas County, Oregon, United States of America, North America**  
+Medium note: **Photographic Paper**  
+Catalog entry UUID: `de0cb130-9b1e-11eb-b3ef-53e7205a00b4`; photograph media UUID `21604e00-9b84-11eb-8d59-b7d9fd36cc45`; associated Sanborn media UUID `17d3a3c0-8613-11ed-8c19-377cb8658c65`  
+Public catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-at-6th-and-main-street-looking-south-3  
+Repository derivative: https://d8e7jbdw4fu0e.cloudfront.net/4813/21604e00-9b84-11eb-8d59-b7d9fd36cc45-vdUegXk.lg@2x.jpg  
+Repository dimensions: 1200 × 904; SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`; 779120 bytes  
+Original supplied filename: `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg`  
+Original supplied attachment: 2048 × 1543; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`; 903423 bytes; visually inspected.  
+Derivative relationship: the committed current CatalogIt derivative is not byte-identical to the supplied attachment; both represent the same P-1456 photograph and are treated as substantive duplicates. The supplied exact file signature is retained for future recognition.  
+Historical-use limit: CCHS directly supplies the Main Street / looking-south / post-flood / alley-to-Sixth context, but this source alone does not assign exact 501/503/505 facades or prove building continuity. The associated Sanborn attachment is not interpreted in this record.

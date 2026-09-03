@@ -1079,3 +1079,15 @@ sources:
     - E-183
     related_media:
     - IMG-0732
+
+  - id: S-204
+    name: Clackamas County Historical Society photograph P-1456, 1890 Main Street looking south
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-at-6th-and-main-street-looking-south-3
+    notes: >-
+      CCHS catalogs P-1456 as "1890 Flood - Oregon City at 6th and Main Street Looking South" (1890), tags it Duplicate, and describes Main Street looking south after water receded between the alley and Sixth Street. CCHS prints the duplicate group P-1456/P-1616/P-5519/P-8885. The steward-supplied 2048x1543 JPEG (SHA-256 9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb) and the current CCHS derivative committed as IMG-0733 are not byte-identical but are substantive duplicates of the same P-1456 scene. Exact 501/503/505 facade mapping and later building continuity are not asserted.
+    repository_file: media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg
+    sha256: 7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7
+    related_evidence:
+    - E-184
+    related_media:
+    - IMG-0733
