@@ -127,3 +127,13 @@ Planned repository paths once original binaries can be transferred:
 5. Compare rooflines, lot widths, cornices, party walls, storefront bays, and setbacks against the 1925 Sanborn and later known images.
 6. Record whether the **same physical structure** can be followed between images. Do not equate an address's documentary existence with survival of the current building.
 7. Treat city survey dates `c.1919` (503) and `c.1920` (505) as approximate survey estimates until photographic, permit, tax, deed, or newspaper construction evidence independently narrows them.
+
+
+## CCHS 2008.008.002.309 — 1888 Main Street alley/barber scene
+
+- `IMG-0734` — `IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`
+- Cataloged **1888**, Main Street at/near the alley between Fourth and Fifth Streets.
+- The right storefront visibly advertises **HAIR CUTTING** and **SHAVING**.
+- A narrow passage is visible between the central building and barber shop; this is compatible with the catalog's compressed alley description.
+- Exact modern street number and side remain unresolved. Bluff orientation suggests the east side of Main but is not yet map-matched.
+- Highest-value comparison: visually match the structures and alley against `SM-003` (October 1888 Sanborn sheet 2), tracked under `RL-049` / `OQ-035`.

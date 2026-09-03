@@ -2834,3 +2834,20 @@ evidence:
     related_media:
     - IMG-0733
     repository_file: evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md
+
+
+  - id: E-185
+    name: 1888 Main Street alley storefronts and visible barber shop
+    type: Institutional historic-photograph catalog metadata plus visually verified photograph
+    claims:
+    - CCHS catalogs the scene as Buildings on Main Street, Oregon City, dated 1888, at the alley between Fourth and Fifth Streets.
+    - The right storefront visibly reads HAIR CUTTING and SHAVING, documenting barber-shop use.
+    - A narrow passage between the central building and barber storefront is compatible with the catalog's alley wording but is not yet map-matched.
+    - East-side Main orientation is probable from the bluff background but is not yet established by map comparison.
+    - Exact modern address, proprietor and any 501/503/505 connection remain unresolved.
+    confidence: Very High for catalog identity/date and barber lettering; Probable for alley-side orientation; exact address unresolved.
+    related_sources:
+    - S-205
+    related_media:
+    - IMG-0734
+    repository_file: evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md

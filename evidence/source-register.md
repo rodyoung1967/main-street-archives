@@ -1529,3 +1529,22 @@ Repository image: `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-l
 Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.  
 Related evidence: `E-184`.  
 Notes: The supplied JPEG and current CatalogIt derivative are not byte-identical; they are treated as substantive duplicates of the same P-1456 photographic object/scene. Preserve the CCHS duplicate-group wording as metadata, not as a claim that all digital derivatives are byte-identical. Do not assign exact 501/503/505 facades or building continuity from this source alone.
+
+
+## S-205 — Clackamas County Historical Society photograph 2008.008.002.309, Buildings on Main Street
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
+Holding institution: Clackamas County Historical Society.  
+Entry/Object ID: `2008.008.002.309`.  
+Catalog title: **Buildings on Main Street, Oregon City**.  
+Catalog description: **Buildings on Main Street
+Alley between 4th and 5th Streets on Main Street,
+Oregon City**.  
+Date/place: **1888; Oregon City, Clackamas County, Oregon, United States of America, North America**.  
+Notes: **Medium: Negative; Location of Negative: Society Collection**. Other numbers: **Gardner 309; Trembath, Beauliau #3**.  
+CatalogIt entry UUID: `7b7a2a20-9b1e-11eb-b3ef-53e7205a00b4`; slug `buildings-on-main-street-oregon-city`.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/buildings-on-main-street-oregon-city  
+API lookup: https://api.catalogit.app/api/public/search?query=2008.008.002.309&size=50  
+Original supplied filename: `Alley between 4th-5th Strrets on Main, O.C., 1888(1).jpg`; 2048 x 1544; 1165272 bytes; SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a`.  
+Repository image: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg` (`IMG-0734`), 2400 x 1810, 1075501 bytes, SHA-256 `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`.  
+Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Related evidence: `E-185`.  
+Notes: The right storefront visibly reads HAIR CUTTING and SHAVING. The catalog's exact modern address/side is not inferred; the alley-opening and east-side orientation readings remain qualified pending `SM-003` comparison.

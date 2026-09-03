@@ -1248,3 +1248,24 @@ Original supplied filename: `1890 Flood - Oregon City at 6th and Main Street Loo
 Original supplied attachment: 2048 × 1543; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`; 903423 bytes; visually inspected.  
 Derivative relationship: the committed current CatalogIt derivative is not byte-identical to the supplied attachment; both represent the same P-1456 photograph and are treated as substantive duplicates. The supplied exact file signature is retained for future recognition.  
 Historical-use limit: CCHS directly supplies the Main Street / looking-south / post-flood / alley-to-Sixth context, but this source alone does not assign exact 501/503/505 facades or prove building continuity. The associated Sanborn attachment is not interpreted in this record.
+
+
+## IMG-0734 — CCHS 2008.008.002.309, 1888 Main Street alley storefronts
+File: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`  
+Type: Historic photograph / institutional public derivative  
+Status: `committed`; steward image **VISUALLY VERIFIED**  
+Source: `S-205`; evidence `E-185`  
+Holding institution / object: Clackamas County Historical Society, **2008.008.002.309**  
+Catalog title: **Buildings on Main Street, Oregon City**  
+Catalog location wording: **Buildings on Main Street
+Alley between 4th and 5th Streets on Main Street,
+Oregon City**  
+Date made: **1888**  
+Visible content: right storefront windows read **HAIR CUTTING** and **SHAVING**; narrow passage/alley candidate between central building and barber storefront.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/buildings-on-main-street-oregon-city  
+Repository derivative: https://d8e7jbdw4fu0e.cloudfront.net/4813/ee23c990-9b6f-11eb-97c3-a30f15c9573f-vdUe1V9.lg@2x.jpg  
+Dimensions: 2400 x 1810  
+SHA-256: `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`  
+File size: 1075501 bytes  
+Steward upload: `Alley between 4th-5th Strrets on Main, O.C., 1888(1).jpg`, 2048 x 1544, 1165272 bytes, SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a`.  
+Spatial-use limit: exact modern address and side of Main are unresolved. The visible passage is compatible with the catalog's alley wording; bluff geometry makes east-side Main probable, not proven. No 501/503/505 identity is inferred. Follow-up `RL-049` / `OQ-035`.

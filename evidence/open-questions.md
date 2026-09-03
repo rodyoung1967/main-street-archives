@@ -205,3 +205,7 @@ Recover a directory, telephone-517 listing, restaurant license, ad or sale/move 
 ### OQ-031 / OQ-006 update — Newton is not a proved 503 anchor
 
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+
+## OQ-035 — Where exactly were the 1888 Main Street alley/barber storefronts?
+CCHS describes `IMG-0734` / `S-205` as buildings on Main Street at the alley between Fourth and Fifth Streets, but the compressed wording does not establish which side of Main, which historical street numbers, or who operated the visibly lettered **HAIR CUTTING / SHAVING** storefront. The bluff background makes an east-side Main orientation plausible and the visible passage is compatible with the alley, but both require direct `SM-003` map matching. Track under `RL-049`. No 501/503/505 relationship is currently asserted.

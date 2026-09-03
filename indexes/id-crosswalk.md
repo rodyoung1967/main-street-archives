@@ -356,3 +356,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Media/source/evidence | Repository record | Boundary |
 | --- | --- | --- |
 | `IMG-0733` / `S-204` / `E-184` / CCHS `P-1456` | `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`; `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md` | CCHS directly supplies the 1890, post-recession, Main-looking-south, alley-to-Sixth metadata and duplicate group P-1456/P-1616/P-5519/P-8885. Supplied and committed JPEGs are substantive duplicates, not byte-identical. No exact 501/503/505 facade or building continuity is inferred. |
+
+
+### CCHS 2008.008.002.309 — 1888 Main Street alley/barber photograph
+
+| Media/source/evidence | Repository record | Boundary |
+| --- | --- | --- |
+| `IMG-0734` / `S-205` / `E-185` / CCHS `2008.008.002.309` | `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`; `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md` | 1888 Main Street at/near alley between 4th and 5th; visible barber lettering is direct. Exact modern address/side and any 501/503/505 relationship remain unresolved; follow `RL-049` / `OQ-035`. |

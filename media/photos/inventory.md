@@ -66,3 +66,12 @@ The current layout is the recommended one:
 - Preserve steward-supplied photographs in the repository unless an exact/substantive duplicate is already present or a legal, safety, integrity, or technical reason is documented, as required by `AGENTS.md`.
 
 The validator now checks that every committed raster has an exact-path entry in the canonical media register, resides in an approved source-class folder, and—when under `media/photos/`—begins with its stable `IMG-####` ID.
+
+
+### IMG-0734 — 1888 Main Street alley/barber scene
+- File: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`
+- Source/evidence: `S-205` / `E-185`
+- CCHS object: `2008.008.002.309`
+- Date: 1888
+- SHA-256: `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`
+- Status: committed; steward image visually verified; exact modern address/orientation unresolved.

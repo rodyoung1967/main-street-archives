@@ -60,3 +60,5 @@ media/photo-metadata-register.md
 3. Assign or confirm a stable ID.
 4. Link the item to evidence, source, building, business, person, timeline, and crosswalk records as needed.
 5. Update `indexes/id-crosswalk.md` if the item participates in a multi-ID relationship.
+
+- `IMG-0734` — 1888 CCHS Main Street alley/barber photograph (`S-205` / `E-185`): `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`

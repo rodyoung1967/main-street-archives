@@ -1091,3 +1091,16 @@ sources:
     - E-184
     related_media:
     - IMG-0733
+
+
+  - id: S-205
+    name: Clackamas County Historical Society photograph 2008.008.002.309, Buildings on Main Street
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/buildings-on-main-street-oregon-city
+    notes: >-
+      CCHS dates the photograph to 1888 and describes Main Street at the alley between 4th and 5th Streets. The right storefront visibly advertises HAIR CUTTING and SHAVING. Exact modern address/side and proprietor remain unresolved; alley-opening/east-side orientation interpretations are explicitly qualified pending SM-003 comparison.
+    repository_file: media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg
+    sha256: c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce
+    related_evidence:
+    - E-185
+    related_media:
+    - IMG-0734

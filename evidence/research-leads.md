@@ -302,3 +302,7 @@ The bounded June–August 1922 local OCR test is complete: 237 pages / 27 issues
 4. Incidental **OCR/TEXT ONLY**: Banner-Courier 24 August p.10 prints Miller's Shoe Store at 419 Main in recovered classified text. Inspect the scan before moving the dated address anchor earlier or equating that business with Gilbert Miller. Edith Caldwell's employment and Mrs. George Newton/Genevieve Steen personal notices remain unmerged OCR leads in the detailed capture.
 
 For the structural question, next prioritize the July fire-adjacent pool hall or Schieremann exact address, Gates first tenants, and deed/plan boundaries. Newton is not a proved 503 survivor.
+
+
+## RL-049 — Map the 1888 Main Street alley/barber photograph to SM-003
+Use the visually verified CCHS photograph `IMG-0734` / `S-205` / `E-185` and directly compare it against the October 1888 Sanborn sheet `SM-003` (`S-016`). Test which Main Street block face and alley opening match the photographed central two-story wood building, barber storefront, narrow passage, neighboring structure, and bluff orientation. Search 1888 directories/newspapers/licenses for a barber at the resulting premises only after the map geometry is established. Do not assign the handwritten Trembath wording to the barber without independent evidence, and do not convert the scene into a modern numbered address until the pre-1906 numbering/location bridge is demonstrated.

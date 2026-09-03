@@ -373,3 +373,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - CatalogIt also returns the three other listed CCHS duplicate records; their current derivatives differ in encoding/size, so the archive records the duplicate relationship as institutional metadata rather than claiming byte identity.
 - The GitHub connector cannot directly transfer the conversation attachment's binary bytes. To preserve the scene without re-encoding through ChatGPT, committed the current highest-quality public P-1456 CatalogIt derivative as `IMG-0733` at `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` (1200 × 904; 779120 bytes; SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`). The supplied attachment's exact filename/hash/dimensions remain recorded for future recognition.
 - Added `S-204` / `E-184`, canonical media/inventory records, source capture and crosswalk. The catalog-associated Sanborn-map attachment remains uninterpreted; no exact 501/503/505 facade or later building continuity is asserted.
+
+
+## 2026-09-03 — CCHS 2008.008.002.309 1888 Main Street alley/barber photograph
+- Preserved as `IMG-0734` / `S-205` / `E-185`.
+- Steward upload visually reviewed: right storefront reads **HAIR CUTTING** and **SHAVING**; exact upload SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a` retained in metadata.
+- CCHS's compressed location wording is preserved rather than converted into an unsupported modern address.
+- Working interpretation: the narrow passage in the image may be the cataloged alley between Fourth and Fifth; the bluff background makes east-side Main plausible. Both remain qualified pending direct visual matching to `SM-003` (1888 Sanborn sheet 2).
+- Added `RL-049` / `OQ-035` for the map/address/operator test. No 503/505 building or occupancy claim created.

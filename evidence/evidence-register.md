@@ -1616,3 +1616,16 @@ Claims:
 - The catalog references an associated Sanborn map for visible-structure locations; that map attachment is not interpreted in this evidence entry.
 Confidence: **Very High** for the institutional catalog metadata and P-1456 image association; exact target-frontage/facade interpretation remains separate.  
 Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.
+
+
+## E-185 — 1888 Main Street alley storefronts and visible barber shop
+Type: Institutional historic photograph / direct visual evidence; source `S-205`; media `IMG-0734`.  
+Evidence state: **DOCUMENTED / DIRECT** for the CCHS title/date/general location and visible barber-service lettering; **PROBABLE / WORKING HYPOTHESIS** for the exact alley/side orientation.  
+Claims:
+- CCHS catalogs the photograph as **Buildings on Main Street, Oregon City**, dates it to **1888**, and describes it as Main Street at the alley between Fourth and Fifth Streets.
+- The right storefront directly displays **HAIR CUTTING** and **SHAVING**, establishing barber-shop use for that photographed storefront.
+- A narrow passage is visible between the central two-story building and the barber storefront, compatible with the catalog's alley wording but not yet map-matched.
+- The bluff behind the buildings is compatible with an east-side Main Street frontage viewed eastward from the west side of Main, but this remains a working hypothesis.
+- No exact modern street number, proprietor, or connection to 501/503/505 is established by this photograph alone.
+Confidence: **Very High** for the institutional identity/date and visible barber lettering; **Probable** for the alley-side/orientation interpretation; exact address unresolved.  
+Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Follow-up: `RL-049` / `OQ-035`.
