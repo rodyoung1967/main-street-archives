@@ -44,6 +44,16 @@ Oregon Digital Newspaper Program's title histories independently confirm that th
 - Banner-Courier title history: 1919–1950 — https://odnp.uoregon.edu/oregon-city-oregon-city-courier/
 - Oregon City Enterprise title history: 1891–1950 — https://odnp.uoregon.edu/oregon-city-oregon-city-enterprise/
 
+### Morning Enterprise title/run clarification — 3 September continuation
+
+A separate follow-up tested whether the **Morning Enterprise** might expose an overlooked online 1925–1926 run under its distinct LCCN `sn00063701`. Oregon Digital Newspaper Program's title history confirms that the daily Morning Enterprise itself was published from **1911 through 1933**. However, Historic Oregon Newspapers' current **All Titles** inventory lists only **913 digitized issues for this LCCN, with online coverage from 8 January 1911 through 23 December 1913**.
+
+Sources:
+- Title record: https://oregonnews.uoregon.edu/lccn/sn00063701/
+- All Titles inventory: https://oregonnews.uoregon.edu/newspapers/
+
+Therefore the Morning Enterprise does **not** provide a hidden digitized 1923–1926 local run. Its long publication span must not be confused with the much shorter online holdings span. The manual microfilm conclusion below remains unchanged.
+
 ## Exact manual review target
 
 When local microfilm can be inspected, prioritize **1923–1926** and capture actual page images for every promoted finding. Search terms/targets should include:
@@ -60,6 +70,6 @@ Any exact-address hit must be visually verified from the microfilm scan before p
 
 ## Current consequence
 
-The online regional-newspaper route has reached diminishing returns for the 1923–1924 bridge. The missing local interval is not a mystery or presumed lost: **the Oregon City Public Library officially reports microfilm holdings covering the needed years, while the public digitization project stops at 1922.** The local microfilm therefore becomes the definitive newspaper route for the 1923–1926 occupant transition.
+The online regional-newspaper route has reached diminishing returns for the 1923–1924 bridge. The missing local interval is not a mystery or presumed lost: **the Oregon City Public Library officially reports microfilm holdings covering the needed years, while the public digitization project stops at 1922.** The distinct Morning Enterprise title likewise has no online coverage after December 1913 despite continuing in print through 1933. The local microfilm therefore becomes the definitive newspaper route for the 1923–1926 occupant transition.
 
 No new `S-###`, `E-###`, person, business, building, or annual-status change is created by this access checkpoint. The next online-only work should continue municipal license/commission and historic-resource-source retrieval rather than repeat the completed regional OCR pass.
