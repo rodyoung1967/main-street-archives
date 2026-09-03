@@ -68,19 +68,30 @@ Status: **PLAUSIBLE / UNPROVEN**.
 
 No map compatibility, tenant use, or later street number should be used to select between these models without a direct address/property/plan bridge.
 
-## Unverified lead encountered in this session — do not cite as evidence
+## Quality Restaurant fire-survival lead — exact page locator recovered; visual scan check pending
 
-An online-search lead appeared to connect **George Newton / Quality Restaurant** with a report that a restaurant was saved in the recent Fifth Street fire. During the later verification pass the exact primary scan/page locator was not successfully re-recovered. It is therefore retained only as an **UNVERIFIED LEAD**, not a source, evidence entry, occupant claim, or 503 address bridge.
+A later continuation on 2 September re-recovered the exact primary page locator behind the earlier George Newton lead. The detailed capture is:
 
-Before promotion, recover the actual newspaper page and visually verify all of the following:
+`evidence/source-captures/1922-08-17-quality-restaurant-fire-survival-lead.md`
 
-- exact publication/date/page;
-- whether the proprietor is actually George Newton;
-- exact business style (`Quality Restaurant`, `Quality Cafe`, or another wording);
-- whether the report directly says the restaurant was saved in the July Fifth Street fire;
-- any printed address or location wording.
+Historic Oregon Newspapers identifies:
 
-Do not connect this lead to the later Kwality/Quality Cafe at 503 by name similarity alone.
+- *Morning Oregonian*, **17 August 1922**, p. **4**, image 4 — https://oregonnews.uoregon.edu/lccn/sn83025138/1922-08-17/ed-1/seq-4/
+- archive text under **“Firemen Are Dinner Guests”** identifies **George Newton**, proprietor of the **Quality restaurant**, and reports that the Oregon City fire department had **saved his restaurant from destruction during the recent fire in Fifth street**;
+- *Banner-Courier*, **17 August 1922**, p. **2** — https://oregonnews.uoregon.edu/lccn/sn00063699/1922-08-17/ed-1/seq-2/ — has an archive-text/OCR business-roster entry **QUALITY CAFE** on the same date.
+
+The exact locators and archive text are now recovered, but the actual rendered scans were not successfully opened in this continuation. Therefore this remains **PRIMARY PAGE LOCATOR / ARCHIVE TEXT — VISUAL VERIFICATION PENDING**, not a visually verified source/evidence record.
+
+If the Morning Oregonian wording is confirmed on the scan, it would distinguish Newton's Quality restaurant as a **saved** business from the separately documented **Fifth Street Restaurant**, which was destroyed and whose site Gates rebuilt. That distinction could become highly useful to the storefront reconstruction.
+
+However, no recovered item gives Newton's street number. Do **not** currently infer:
+
+- Quality restaurant = Quality Cafe;
+- either business was at **503 Main**;
+- either business was the later **New Kwality/Kwality Cafe** at 503;
+- Quality/Kwality spelling similarity proves continuity.
+
+The highest-value missing bridge is now an exact-address record for **George Newton / Quality Restaurant / Quality Cafe**.
 
 ## Highest-value next checks
 
@@ -90,7 +101,7 @@ Do not connect this lead to the later Kwality/Quality Cafe at 503 by name simila
 4. **Harding → Gates/Wolf deed(s).** Recover legal descriptions, dimensions and recording data; map the Gates/Wolf line to original Block 4 Lots 3–4 before assigning modern storefronts.
 5. **1922 assessment / improvement records and pre-1925 permits/plans.** Look for value/footprint changes, hollow-tile construction, Junken contractor references, frontage/depth, entrances and legal description.
 6. **1923–1924 directory/address evidence.** Bridge the new 1922 construction to the May 1925 Sanborn occupants at 501 store / 503 restaurant / 505 billiards-cigar use.
-7. **Quality Restaurant lead.** Re-recover and visually inspect the apparent fire-survival article before any historical use.
+7. **Quality Restaurant / Quality Cafe address.** Visually inspect the recovered 17 August pages and search 1921–1924 advertisements, licenses and directories for George Newton and an exact street number before making any 503/Kwality connection.
 
 ## Research-state conclusion
 
