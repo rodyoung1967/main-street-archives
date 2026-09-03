@@ -15,8 +15,10 @@ The city-hosted report is very large and the current PDF renderer did not provid
 
 The extracted fire-department call list includes apparent entries for:
 
-- **Mar. 1 — 503 Main**
+- **Mar. 1 — 503 Main Res**
 - **Sept. 11 — 5th & Main Garage**
+
+The `Res` text is visible in the current public search-index extraction for the City's PDF and appears to abbreviate **residence**, but this remains **OCR/SEARCH-INDEX TEXT ONLY** pending inspection of the original row. It materially narrows how the March 1 lead should be handled: do not describe it as a 503 Main storefront/business fire from the text extraction alone.
 
 The extraction also appears to include cause/damage columns, but column alignment is not reliable enough to assign those values to these entries without visual page review.
 
@@ -24,7 +26,8 @@ The extraction also appears to include cause/damage columns, but column alignmen
 
 Do **not** yet state as fact that:
 
-- a fire damaged 503 Main on March 1, 1928;
+- a fire damaged the 503 Main commercial storefront on March 1, 1928;
+- `Res` definitively means a residence at the modern 503 storefront rather than a table/use notation requiring visual interpretation;
 - the Fifth & Main garage entry refers to a particular known garage/business;
 - either incident caused rebuilding or materially changed the surviving 503/505 structures.
 
@@ -32,8 +35,9 @@ Treat both as high-value follow-up leads pending direct visual inspection of the
 
 ## Why this matters
 
-If the `503 Main` call is visually confirmed, it could become relevant to:
+If the `503 Main Res` row is visually confirmed, it could become relevant to:
 
+- mixed residential/commercial or rear/upstairs use associated with the 503 address;
 - the c.1919 surviving-building estimate for 503;
 - post-1925 alterations or repairs;
 - the relationship between the 1925 Sanborn footprint and later building fabric.
@@ -43,7 +47,7 @@ If the `5th & Main Garage` entry is visually confirmed and the garage can be ide
 ## Next checks
 
 1. Obtain/render the exact fire-department page from the 1928 report.
-2. Visually verify both entries and their cause/damage columns.
+2. Visually verify both entries and their use/cause/damage columns.
 3. Identify the Fifth & Main garage by proprietor/address.
 4. Check newspapers around March 1 and September 11, 1928 for corresponding fire reports.
 
@@ -58,9 +62,17 @@ The official PDF was successfully downloaded on 2 September 2026, superseding th
 - File size: **23,068,960 bytes**
 - SHA-256: `270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be`
 - PDF inventory: **29 pages**, unencrypted.
-- Text extraction again surfaced the two apparent address entries above. **OCR/TEXT ONLY**: no cause, damage, use, occupant, fire event or building-continuity claim was promoted.
+- Text extraction again surfaced the two apparent address entries above. **OCR/TEXT ONLY**: no cause, damage, occupant, fire event or building-continuity claim was promoted.
 - Rendering was initiated, but rendered images were not inspected. Rendering alone does not count as visual review.
 - The downloaded PDF and temporary derivatives were in transient working storage at the pause. **The PDF has not been committed in this checkpoint.** Re-download from the official URL and verify the hash if the working copy is unavailable; preserve the original under `records/municipal/annual-reports/1928-municipal-activities-report.pdf` with source/register metadata when review resumes.
+
+## 3 September 2026 retrieval continuation
+
+The public search engine's indexed extraction was rechecked after research resumed. It clearly exposes the text **`Mar. 1—503 Main Res`** and **`Sept. 11—5th & Main Garage`** within the fire-department table. This is a useful textual refinement but **not visual verification**.
+
+The official PDF remains **23,068,960 bytes**. The web PDF opener rejected it as too large, and the required PDF screenshot operation could not run because the document was not successfully opened as a PDF source. A direct container download also failed because that runtime could not resolve the City host. These are current tool/retrieval limits, not evidence that the source is unavailable to the public. The existing 2 September successful-download hash remains the control value for a future retrieved copy.
+
+No evidence/source ID, occupant, fire-damage, use, construction or annual-status claim is promoted by this continuation.
 
 ### Resume order and earlier-year clarification
 
@@ -71,4 +83,4 @@ The steward asked whether 1924–1927 were already finished before moving to 192
 3. The 1928 detour was selected for its explicit 503 Main and Fifth/Main garage leads, **not because 1924–1927 were certified complete**. Return to the pending visual checks above after the earlier-year gap/status audit and an agreed research order.
 4. Do not treat the 1928 text snippets as evidence of damage, vacancy, demolition, rebuilding, an identified business, or continuity of a surviving structure. Assign claim-level evidence and timeline entries only after scan verification.
 
-Last completed research commit before this pause: [`077f779`](https://github.com/rodyoung1967/main-street-archives/commit/077f77918dc2bba93c08dcc69ddfd8f90f88f69e), the full 1926 municipal-report review. No institutional message, paid request, or restricted-access operation was made in this continuation.
+Last completed research commit before the original pause: [`077f779`](https://github.com/rodyoung1967/main-street-archives/commit/077f77918dc2bba93c08dcc69ddfd8f90f88f69e), the full 1926 municipal-report review. No institutional message, paid request, or restricted-access operation was made in this continuation.
