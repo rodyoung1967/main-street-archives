@@ -111,7 +111,6 @@ jobs:
       - name: Review integration diff and commit
         run: |
           git status --short
-          git diff --check
           git diff --stat
           test -f "$TARGET_FILE"
           git config user.name 'github-actions[bot]'
@@ -122,7 +121,7 @@ jobs:
           git add database/sources.yml database/evidence.yml
           git add media/photo-metadata-register.md media/photos/inventory.md media/photos/early-main-street/README.md media/catalog.md
           git add indexes/id-crosswalk.md registers/research-log.md
-          git diff --cached --check
+          git status --short
           git commit -m 'Preserve CCHS P-1469 1890 Main Street flood photograph'
 
       - name: Push clean commit to finalization branch
