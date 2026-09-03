@@ -1104,3 +1104,15 @@ sources:
     - E-185
     related_media:
     - IMG-0734
+
+  - id: S-206
+    name: Clackamas County Historical Society photograph 2019.001.00179, Downtown Oregon City
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/downtown-oregon-city-1
+    notes: >-
+      CCHS catalogs this photograph only as Downtown Oregon City and supplies no exposure date in the live public record. The steward filename adds “focusing on 4th-6th streets (aerial view)”; preserve that as project-supplied context rather than institutional catalog text, and do not assume an airborne camera.
+    repository_file: media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg
+    sha256: d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f
+    related_evidence:
+    - E-186
+    related_media:
+    - IMG-0735

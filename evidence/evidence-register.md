@@ -1629,3 +1629,14 @@ Claims:
 - No exact modern street number, proprietor, or connection to 501/503/505 is established by this photograph alone.
 Confidence: **Very High** for the institutional identity/date and visible barber lettering; **Probable** for the alley-side/orientation interpretation; exact address unresolved.  
 Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Follow-up: `RL-049` / `OQ-035`.
+
+## E-186 — Undated Downtown Oregon City elevated overview / 4th–6th filename context
+Type: Institutional historic photograph / direct visual evidence; source `S-206`; media `IMG-0735`.  
+Evidence state: **DOCUMENTED / DIRECT** for CCHS object identity/title/description and visible downtown/river/falls scene; **PROJECT-STEWARD SUPPLIED CONTEXT** for the filename phrase “focusing on 4th-6th streets (aerial view)”; **UNRESOLVED** for exposure date and exact block/building mapping.  
+Claims:
+- CCHS catalogs object **2019.001.00179** as **Downtown Oregon City**; the live public record retrieved 3 September 2026 gives the same text as its description and provides no exposure date.
+- The photograph visibly presents an elevated oblique overview of downtown Oregon City with the Willamette River/Falls and multiple downtown blocks in view.
+- The steward-supplied filename identifies the intended focus as **4th–6th streets** and calls it an **aerial view**. That wording is preserved as project metadata but is not institutional catalog text; the photograph may instead have been taken from elevated ground/bluff.
+- No individual structure in the image is assigned to 501, 503, 505, or another numbered address by this integration.
+Confidence: **Very High** for CCHS object identity/title/description and direct visual content; filename focus is attributable to the steward; exact date/camera/block mapping unresolved.  
+Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`. Follow-up: `RL-050` / `OQ-036`.

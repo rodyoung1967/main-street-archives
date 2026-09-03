@@ -363,3 +363,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Media/source/evidence | Repository record | Boundary |
 | --- | --- | --- |
 | `IMG-0734` / `S-205` / `E-185` / CCHS `2008.008.002.309` | `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`; `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md` | 1888 Main Street at/near alley between 4th and 5th; visible barber lettering is direct. Exact modern address/side and any 501/503/505 relationship remain unresolved; follow `RL-049` / `OQ-035`. |
+
+### CCHS 2019.001.00179 — Downtown Oregon City historic overview
+
+| Media/source/evidence | Repository record | Boundary |
+| --- | --- | --- |
+| `IMG-0735` / `S-206` / `E-186` / CCHS `2019.001.00179` | `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`; `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md` | CCHS identity/title/description direct; steward filename supplies 4th–6th/aerial-view context; exposure date, camera platform/position and exact building/address mapping remain unresolved under `RL-050` / `OQ-036`. |

@@ -5,12 +5,12 @@ Scope: every committed raster file, with photographs distinguished from maps, ne
 
 ## Result
 
-- **71 committed raster files** in the repository.
-- **44 photographs/aerials**, all stored together under `media/photos/`.
+- **73 committed raster files** in the repository.
+- **46 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
-- **All 71 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
+- **All 73 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
-- Three recent steward-supplied historical JPEGs remain exact byte matches; the newly supplied P-1456 JPEG is preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
+- Four recent steward-supplied historical JPEGs are exact byte matches; the P-1456 steward JPEG remains preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
 - No photograph is committed or currently cataloged as **514 Main Street**. The snow photograph is cataloged as **516 Main Street** and committed as `IMG-0723`.
 
 This inventory is a repository-presence audit. It does not convert a catalog caption, filename, or visual interpretation into independent proof of an address, date, person, business, or building.
@@ -23,7 +23,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).
 
-### Street-level and early photographs — 6 files
+### Street-level and early photographs — 8 files
 
 | Media ID | Cataloged subject/date | Canonical repository file | Status and limit |
 | --- | --- | --- | --- |
@@ -33,6 +33,8 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `IMG-0725` | George Young's Second Hand Store, 505 Main, 1910 | [`early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg`](early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg) | Committed exact supplied-file match; storefront and 505 doorway are visible. |
 | `IMG-0732` | CCHS P-1469; 1890 Flood - Oregon City Main Street; 1890; 6th/Main looking southwest | [`early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg`](early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg) | Committed CCHS public high-resolution derivative; exact institutional object identity and scene description established. Byte identity to the earlier steward upload is not claimed; exact 501/503/505 facade mapping remains separate. |
 | `IMG-0733` | CCHS P-1456; 1890 flood; Main Street looking south after water receded, alley-to-Sixth context | [`early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`](early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg) | Committed current CCHS P-1456 high-resolution derivative; supplied 2048 × 1543 JPEG visually inspected and preserved by exact filename/hash metadata. CCHS duplicate group P-1456/P-1616/P-5519/P-8885 preserved as catalog metadata; exact 501/503/505 facade mapping remains separate. |
+| `IMG-0734` | CCHS 2008.008.002.309; Buildings on Main Street, Oregon City; 1888 | [`early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`](early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg) | Committed CCHS derivative; barber lettering directly visible; exact modern address/orientation unresolved. |
+| `IMG-0735` | CCHS 2019.001.00179; Downtown Oregon City; date not supplied | [`early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`](early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg) | Committed CCHS derivative; steward filename adds 4th–6th-street/aerial-view context only. Exact exposure date, camera position, and block/building mapping unresolved. |
 
 ## Recent supplied-file reconciliation
 
@@ -43,6 +45,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `George Young's Second Hand Store 1910 (Clackamas County Historical Society).jpg` | `875329cbd74094a80fc49b4e470b5b70e2dda48dc66594508240facdf2c75c04` | `IMG-0725` — `media/photos/early-main-street/IMG-0725_1910-505-main-george-young-second-hand-store.jpg` | Exact byte match |
 | `Oregon City Main Street, 6th & Main, looking southwest down main. (Clackamas County Historical Society).jpg` (steward-supplied identification; exact original bytes not recoverable from staging) | not available | `IMG-0732` — `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` | Recovered from exact CCHS P-1469 record as current public high-resolution derivative; **not claimed as an exact byte match** to the earlier upload. |
 | `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg` | `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb` | `IMG-0733` — `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` | Supplied 2048 × 1543, 903423-byte JPEG is visually verified and recorded by exact signature; repository binary is the current CCHS P-1456 high-resolution derivative and is a **substantive duplicate, not an exact byte match**. |
+| `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg` | `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f` | `IMG-0735` — `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg` | Supplied 1401 × 1109, 243009-byte JPEG visually verified and recorded by exact signature; repository binary is the current CCHS 2019.001.00179 high-resolution derivative and is an **exact byte match** to the steward upload. Filename phrase “focusing on 4th-6th streets (aerial view)” is preserved as steward metadata. |
 
 The original filenames remain preserved in the canonical media records. The repository filenames add stable media IDs and do not alter the image bytes.
 
@@ -75,3 +78,12 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Date: 1888
 - SHA-256: `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`
 - Status: committed; steward image visually verified; exact modern address/orientation unresolved.
+
+### IMG-0735 — CCHS 2019.001.00179 Downtown Oregon City overview
+- File: `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`
+- Source/evidence: `S-206` / `E-186`
+- CCHS title/description: **Downtown Oregon City**
+- Date: **not supplied in live CCHS public record**
+- Steward filename context: **focusing on 4th-6th streets (aerial view)** — preserved as project-supplied context, not institutional catalog text.
+- Steward SHA-256: `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; repository derivative SHA-256: `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.
+- Status: committed; exact exposure date, camera position and individual building/address mapping unresolved.

@@ -62,3 +62,5 @@ media/photo-metadata-register.md
 5. Update `indexes/id-crosswalk.md` if the item participates in a multi-ID relationship.
 
 - `IMG-0734` — 1888 CCHS Main Street alley/barber photograph (`S-205` / `E-185`): `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`
+
+- `IMG-0735` — CCHS `2019.001.00179`, **Downtown Oregon City**; undated historic elevated overview. Canonical metadata: `media/photo-metadata-register.md`; source/evidence `S-206` / `E-186`. Steward filename adds 4th–6th-street/aerial-view context only.

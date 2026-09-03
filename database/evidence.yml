@@ -2851,3 +2851,18 @@ evidence:
     related_media:
     - IMG-0734
     repository_file: evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md
+
+  - id: E-186
+    name: Undated Downtown Oregon City elevated overview / 4th–6th filename context
+    type: Institutional historic-photograph catalog metadata plus visually verified photograph
+    claims:
+    - CCHS object 2019.001.00179 is titled and described Downtown Oregon City; the live record supplies no exposure date.
+    - The image visibly shows an elevated downtown overview with the Willamette River/Falls and multiple blocks.
+    - The steward filename says focusing on 4th-6th streets (aerial view); that phrase is project context, not CCHS catalog text, and an airborne camera is unproved.
+    - Exact exposure date, camera position, individual block faces and numbered-address identities remain unresolved.
+    confidence: Very High for catalog identity and direct visual content; exact date/camera/address mapping unresolved.
+    related_sources:
+    - S-206
+    related_media:
+    - IMG-0735
+    repository_file: evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md

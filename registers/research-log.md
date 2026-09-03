@@ -381,3 +381,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - CCHS's compressed location wording is preserved rather than converted into an unsupported modern address.
 - Working interpretation: the narrow passage in the image may be the cataloged alley between Fourth and Fifth; the bluff background makes east-side Main plausible. Both remain qualified pending direct visual matching to `SM-003` (1888 Sanborn sheet 2).
 - Added `RL-049` / `OQ-035` for the map/address/operator test. No 503/505 building or occupancy claim created.
+
+## 2026-09-03 — CCHS 2019.001.00179 Downtown Oregon City overview
+- Preserved as `IMG-0735` / `S-206` / `E-186`.
+- Exact steward attachment metadata: `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg`; 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.
+- Verified the live CCHS public record: title/description **Downtown Oregon City**, classification **Photograph**, object `2019.001.00179`; no exposure date is supplied.
+- Preserved filename phrase **focusing on 4th-6th streets (aerial view)** as steward context only. The image is an elevated oblique overview; airborne camera status is not established.
+- Repository binary is the current CCHS `public_highres_2x` derivative (1401 × 1109; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`) and is an **exact byte-for-byte copy** of the supplied image.
+- Added `RL-050` / `OQ-036` to date the image and map visible Fourth–Sixth Street structures before any 501/503/505 assignment.
+- Recalculated definitive raster/photo counts, correcting the prior inventory count drift after `IMG-0734`/`IMG-0734` integration.

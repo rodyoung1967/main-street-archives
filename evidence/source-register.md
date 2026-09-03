@@ -1548,3 +1548,21 @@ Original supplied filename: `Alley between 4th-5th Strrets on Main, O.C., 1888(1
 Repository image: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg` (`IMG-0734`), 2400 x 1810, 1075501 bytes, SHA-256 `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`.  
 Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Related evidence: `E-185`.  
 Notes: The right storefront visibly reads HAIR CUTTING and SHAVING. The catalog's exact modern address/side is not inferred; the alley-opening and east-side orientation readings remain qualified pending `SM-003` comparison.
+
+## S-206 — Clackamas County Historical Society photograph 2019.001.00179, Downtown Oregon City
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
+Holding institution: Clackamas County Historical Society.  
+Entry/Object ID: `2019.001.00179`.  
+Catalog title: **Downtown Oregon City**.  
+Catalog description: **Downtown Oregon City**.  
+Classification/folder: **Photograph / Photographs**.  
+Catalog date: **not supplied**. Do not interpret the `2019` accession prefix as the exposure date.  
+CatalogIt entry UUID: `922dab10-9b1f-11eb-b3ef-53e7205a00b4`; slug `downtown-oregon-city-1`.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/downtown-oregon-city-1  
+API lookup: https://api.catalogit.app/api/public/search?query=2019.001.00179&size=50  
+Original supplied filename: `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg`; 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.  
+Filename-derived steward context: **focusing on 4th-6th streets (aerial view)**; this is not CCHS catalog wording and does not prove an airborne camera.  
+Repository image: `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg` (`IMG-0735`), 1401 × 1109, 243009 bytes, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; CCHS `public_highres_2x` public derivative.  
+Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.  
+Related evidence: `E-186`.  
+Use limit: useful historic downtown/block-level visual evidence; exact date, camera position, Fourth–Sixth street mapping and individual building/address identities remain unresolved.

@@ -1269,3 +1269,20 @@ SHA-256: `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`
 File size: 1075501 bytes  
 Steward upload: `Alley between 4th-5th Strrets on Main, O.C., 1888(1).jpg`, 2048 x 1544, 1165272 bytes, SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a`.  
 Spatial-use limit: exact modern address and side of Main are unresolved. The visible passage is compatible with the catalog's alley wording; bluff geometry makes east-side Main probable, not proven. No 501/503/505 identity is inferred. Follow-up `RL-049` / `OQ-035`.
+
+## IMG-0735 — CCHS 2019.001.00179, Downtown Oregon City overview
+File: `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`  
+Type: Historic photograph / elevated downtown overview / institutional public derivative  
+Status: `committed`; steward image visually verified  
+Holding institution: **Clackamas County Historical Society**  
+CCHS object: **2019.001.00179**; catalog title/description: **Downtown Oregon City**  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/downtown-oregon-city-1  
+Catalog date: **not supplied**; do not infer 2019 from the accession/object number.  
+Original supplied filename: `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg`  
+Steward-supplied attachment: 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.  
+Filename-derived project context: **focusing on 4th-6th streets (aerial view)**. This wording is preserved as steward metadata, not CCHS catalog text; an airborne platform is not established.  
+Repository derivative: 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; CCHS `public_highres_2x` derivative.  
+Derivative relationship: **exact byte match to the steward upload** — same 1401 × 1109 dimensions, 243009-byte size, and SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.  
+Visual content: elevated downtown overview with the Willamette River/Falls and multiple downtown blocks visible. Exact exposure date, camera position, Fourth–Sixth block mapping, building identities, and modern/historical addresses remain unresolved.  
+Source/evidence: `S-206` / `E-186`; follow-up `RL-050` / `OQ-036`.  
+Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.

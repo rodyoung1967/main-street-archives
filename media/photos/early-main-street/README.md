@@ -1,10 +1,10 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **six standalone street-level files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0733`); three additional public-source full scenes remain planned**
+Status: **8 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0735`); four additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
-The committed set comprises three exact byte matches to recent steward-supplied JPEGs (`IMG-0723`–`IMG-0725`), one provenance-unresolved crop (`IMG-0722`), the recovered CCHS P-1469 derivative (`IMG-0732`), and the current CCHS P-1456 derivative (`IMG-0733`) representing the newly supplied higher-resolution P-1456 attachment as a substantive duplicate. See the [definitive repository photograph inventory](../inventory.md) for hashes, the 514/516 distinction, and repository-wide counts.
+The committed set now includes the earlier exact steward matches and crop, the two 1890 flood records (`IMG-0732`–`IMG-0733`), the 1888 alley/barber scene (`IMG-0734`), and this undated CCHS downtown overview (`IMG-0735`). See the [definitive repository photograph inventory](../inventory.md) for exact hashes, derivative relationships, the 514/516 distinction, and repository-wide counts.
 
 ## Committed CCHS P-1469 1890 flood photograph
 
@@ -137,3 +137,12 @@ Planned repository paths once original binaries can be transferred:
 - A narrow passage is visible between the central building and barber shop; this is compatible with the catalog's compressed alley description.
 - Exact modern street number and side remain unresolved. Bluff orientation suggests the east side of Main but is not yet map-matched.
 - Highest-value comparison: visually match the structures and alley against `SM-003` (October 1888 Sanborn sheet 2), tracked under `RL-049` / `OQ-035`.
+
+## CCHS 2019.001.00179 — Downtown Oregon City historic overview
+
+- `IMG-0735` — `IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`
+- CCHS title and description are both **Downtown Oregon City**; the live public record supplies **no exposure date**.
+- The steward filename adds **focusing on 4th-6th streets (aerial view)**. Preserve that phrase as steward-provided descriptive context only; CCHS does not print it in the live record, and the camera is not proved to have been airborne.
+- Visual review shows an elevated downtown overview with the Willamette River and Falls and multiple downtown blocks visible.
+- The supplied attachment is 1401 × 1109, 243009 bytes, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`. The committed file is the current CCHS `public_highres_2x` derivative (1401 × 1109, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`) and is an **exact byte match** to the steward upload.
+- Highest-value follow-up: date the exposure and map the 4th–6th street block geometry by fixed-landmark/Sanborn/photo comparison (`RL-050` / `OQ-036`).
