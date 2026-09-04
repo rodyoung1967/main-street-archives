@@ -7,3 +7,9 @@ George Young operated a second-hand/furniture/curio business in the Fifth–Sixt
 A 10 March 1911 report says he moved one door north from the Harding Building into the Willamette Building (`E-085`). The visually reviewed 5 January 1912 business page directly lists **G. H. Young — The Curio Man — 507 Main Street** (`E-092`), and a 1914 business listing again gives 507 Main.
 
 The evidence strongly links the names George Young and G. H. Young in the same business chronology, but the archive does not expand the initials without a direct source. The 1910 image, 1911 move report, and 1912/1914 address strongly support a **505→507** sequence and 507/Willamette correspondence, while preserving the latter as an inference because the move report prints neither number. No exact move day, property ownership, building survival, or transfer to W. W. Bradley is established.
+
+## 1916 CCHS MOT:P-502 photograph and 507 Main conflict
+
+`S-209` / `E-189` / `IMG-0738` preserves a CCHS photograph whose public catalog identifies **G. H. Young Store — 507 Main Street — 1916**. The image itself visibly reads **“G. H. Youngs Collection. Oregon City Ore.”**, but does not visibly print 507 or the year. This supports the institutional-photo side of the earlier CCHS MOT:P-370/MOT:P-384 1916/507 leads.
+
+It conflicts with selected visually verified 1916 newspaper business-directory advertisements placing **W. W. Bradley at 507 Main** (`E-116`, `E-119`). Keep the exact transition/exposure date unresolved; do not infer continuous Young tenancy through all of 1916 or discard Bradley's dated advertisements.

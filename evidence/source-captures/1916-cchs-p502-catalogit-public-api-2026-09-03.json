@@ -1,0 +1,213 @@
+{
+  "byte_match_to_steward_upload": false,
+  "entry": {
+    "account_id": "4813",
+    "account_name": "Clackamas County Historical Society",
+    "account_slug": "clackamas-county-historical-society",
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned.",
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs"
+      }
+    ],
+    "hasCatalogNumber_sorter": "_________p0000000502",
+    "id": "db47c4d0-9b1e-11eb-b3ef-53e7205a00b4",
+    "media": [
+      {
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "complementary_color": "120F09",
+          "dominant_color": "090C12",
+          "public": {
+            "height": 1058,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-vdUefen.sm@1x.jpg",
+            "width": 768
+          },
+          "public_2x": {
+            "height": 1058,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-vdUefen.sm@2x.jpg",
+            "width": 768
+          },
+          "public_highres": {
+            "height": 1653,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-vdUefen.lg@1x.jpg",
+            "width": 1200
+          },
+          "public_highres_2x": {
+            "height": 1653,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-vdUefen.lg@2x.jpg",
+            "width": 1200
+          },
+          "public_thumbnail": {
+            "height": 200,
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-sunMnL0.tn.jpg",
+            "width": 200
+          },
+          "public_thumbnail_2x": {
+            "height": 200,
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-sunMnTt.tn@2x.jpg",
+            "width": 200
+          }
+        },
+        "uuid": "c39afbe0-9b82-11eb-8d59-b7d9fd36cc45"
+      }
+    ],
+    "next_id": "d299c8b0-9b1e-11eb-b3ef-53e7205a00b4",
+    "prev_id": "90d9a940-9b1e-11eb-b3ef-53e7205a00b4",
+    "properties": {
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "order": 2,
+        "value_text": "P-502",
+        "width": "w-xs-12"
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "order": 4,
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "order": 1,
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_date": "1916-01-01T00:00:00.000Z",
+                "fuzzydate_value": "1916"
+              }
+            },
+            "width": "w-xs-6"
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "order": 2,
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Oregon City"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "County",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Clackamas"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "State",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Oregon"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "Country",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "United States of America"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "Continent",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "North America"
+                },
+                "width": "w-xs-6"
+              }
+            ],
+            "width": "w-xs-6"
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "order": 3,
+            "value_text": "Medium: Photographic Paper",
+            "width": "w-xs-12"
+          }
+        },
+        "width": "w-xs-12"
+      },
+      "hasDescription": {
+        "label": "Description",
+        "order": 3,
+        "value_text": "G. H. Young Store.  Oregon City.  1916.  Photo taken at 507 Main Street, Oregon City.",
+        "width": "w-xs-12"
+      },
+      "hasName": {
+        "label": "Name/Title",
+        "order": 1,
+        "value_text": "G. H. Young Store - 507 Main Street Oregon City 1916",
+        "width": "w-xs-12"
+      }
+    },
+    "slug": "g.-h.-young-store-507-main-street-oregon-city-1916"
+  },
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916",
+  "matched_derivative_kind": "path",
+  "matched_public_derivative": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c39afbe0-9b82-11eb-8d59-b7d9fd36cc45-vdUefen.lg@2x.jpg",
+  "repository_derivative_bytes": 1572307,
+  "repository_derivative_dimensions": [
+    2400,
+    3306
+  ],
+  "repository_derivative_sha256": "459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f",
+  "retrieved_from": "https://api.catalogit.app/api/public/accounts/4813/entries/db47c4d0-9b1e-11eb-b3ef-53e7205a00b4",
+  "search_url": "https://api.catalogit.app/api/public/accounts/4813/search?query=P-502&size=50",
+  "uploaded_file_bytes": 1106345,
+  "uploaded_file_dimensions": [
+    1486,
+    2048
+  ],
+  "uploaded_file_sha256": "c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864"
+}

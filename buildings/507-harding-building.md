@@ -181,3 +181,9 @@ This proves an upstairs/half-number professional address at **507½** immediatel
 `E-138` / `S-154` visually verifies a Spirella advertisement locating **Willamette Bldg., Room 4, “Over Harding Drug Store.”** This new 1912 vertical relationship complicates any simple mapping of the Willamette Building to 507 alone, because the separate January 1912 address ladder directly places George Young at 507, Brightbill at 509, and George A. Harding's drug business at 511.
 
 The evidence is compatible with a named building spanning more than one numbered storefront, with Young having changed premises, or with broader contemporary building-name usage. None is yet proved. For reconstruction, treat the named-building footprint, storefront numbers, and upstairs half-numbered rooms as separate layers until an original plan, Sanborn detail, lease, directory, or advertisement explicitly bridges them.
+
+## CCHS MOT:P-502 — cataloged 1916 Young storefront / Bradley conflict
+
+The steward-supplied CCHS MOT:P-502 photograph is now preserved as `IMG-0738` (`S-209` / `E-189`). CCHS catalogs it as **G. H. Young Store — 507 Main Street — 1916**; the image visibly reads **“G. H. Youngs Collection. Oregon City Ore.”** but does not visibly print 507 or 1916.
+
+This adds direct photographic content to the museum-side 1916/507 record, but it conflicts with selected visually verified 1916 newspaper directory advertisements placing **W. W. Bradley at 507 Main** (`E-116`, `E-119`). The exact Young→Bradley transition and the photograph's exposure date remain unresolved. Do not use MOT:P-502 to prove property ownership, continuous 1916 tenancy, or survival of the photographed structure.

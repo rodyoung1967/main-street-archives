@@ -202,3 +202,7 @@ The visually verified *Courier* report says the Chicago clothing store on Main s
 | May 1925 | 427 corner mapped clothing/gentlemen's furnishings | `E-182`, `T-075` | Does not date a Quality closure/move or prove continuous physical fabric. |
 
 No succession, rename or 503 Kwality link is inferred from these rows. Follow `OQ-034` / `RL-048`.
+
+## 1916 CCHS MOT:P-502 Young / Bradley conflict
+
+CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) is cataloged **G. H. Young Store — 507 Main Street — 1916** and visibly carries G. H. Young collection lettering. Selected 1916 directory advertisements place **W. W. Bradley at 507 Main**. This is a retained source conflict, not a resolved transfer date.

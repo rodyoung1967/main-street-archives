@@ -470,11 +470,13 @@ people:
     - E-109
     - E-116
     - E-119
+    - E-189
     related_sources:
     - S-120
     - S-121
     - S-130
     - S-133
+    - S-209
 
   - id: P-042
     name: H. P. Brightbill
@@ -868,8 +870,8 @@ people:
       continuity and building-name bridge remain unresolved.
     related_businesses: [BUS-067]
     related_buildings: [B-002, B-003]
-    related_evidence: [E-085, E-092, E-134]
-    related_sources: [S-098, S-102, S-149]
+    related_evidence: [E-085, E-092, E-134, E-189]
+    related_sources: [S-098, S-102, S-149, S-209]
     repository_file: people/profiles/g-h-young.md
 
   - id: P-077
