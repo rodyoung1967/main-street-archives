@@ -39,6 +39,18 @@ Discovery indexes:
 
 These indexes establish an access route, not the contents of any 1941 entry. The underlying directory image was not available for visual inspection in the current research environment.
 
+### Additional searchable-book index found 4 September 2026
+
+A separate current genealogy index, **Forebears — Oregon City Genealogy Resources & Vital Records**, lists an **“Oregon City, Oregon City Directory (1941–1960)”** resource and describes the directory group as **searchable books containing information relating to the area, its residents and businesses**.
+
+Discovery route:
+
+https://forebears.io/united-states/oregon/clackamas-county/oregon-city
+
+This is a second independent discovery route for searchable directory material covering 1941. The current research environment could retrieve the search-index description but the Forebears page itself returned a 403 when opened, and no underlying directory image or Farr/Harr/505 result was exposed. Therefore this remains an **ACCESS LEAD / RETRIEVAL GAP**, not directory evidence.
+
+Targeted public-web searches for **Edwin F. Farr**, **Carl R. Harr**, **Farr's Pool Hall**, **Harr's Recreation Center**, and **505 Main** combined with the 1941 directory title did not surface a directory-page transcription or image. Search silence is not occupancy evidence.
+
 ## Why 1941 is high value
 
 The repository currently has:
