@@ -1445,3 +1445,16 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Source/evidence/timeline: `S-215` / `E-195` / `T-078`
 - Target relevance: project steward identifies the predecessor frontage later associated with **501/503/505** in the **right-hand background beyond the arch**. CCHS directly supplies Sixth/Main and 1895, but individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS**; no pre-1906 numbering or post-1922 continuity inference.
 - Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`
+
+## IMG-0745 — CCHS 2008.008.003.257 Oregon City view from Promenade at 5th St., 1960
+- Repository file: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`
+- CCHS object: `2008.008.003.257`
+- Catalog title: **Oregon City (view from the Promenade at 5th St.)**
+- Catalog date: **1960**
+- Catalog description: **Oregon City (view from the Promenade at 5th St.)**
+- Medium / negative location: **Negative / Society Collection**
+- Other numbers: **Stevens 257; Stevens Photo #257**
+- Repository derivative: **2387 × 1600**, 577,219 bytes, SHA-256 `6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d`
+- Steward upload: `O.C. looking downriver from Promenade at 5th St., 1960.jpg`, **2048 × 1372**, 926,304 bytes, SHA-256 `104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d`
+- Review: **VISUALLY VERIFIED 4 September 2026**. Broad elevated downtown context; exact 501/503/505 building assignment unresolved.
+- Related source/evidence/timeline: `S-216` / `E-196` / `T-079`.

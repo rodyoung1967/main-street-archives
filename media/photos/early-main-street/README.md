@@ -183,3 +183,7 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0744 — CCHS 2008.008.046.040 Oregon City "Welcome Arch", 6th and Main, 1895
 
 `IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg` preserves the largest public derivative recovered from the exact CCHS object. CCHS directly catalogs the scene at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the right-hand background beyond the arch. This is strong fixed-location target-block context, but exact individual later-address boundaries remain **PROBABLE / WORKING HYPOTHESIS** and no pre-1906 numbering or post-1922 continuity is inferred. See `S-215` / `E-195` and `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`.
+
+## IMG-0745 — CCHS 2008.008.003.257 Promenade at 5th Street view, 1960
+
+`IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg` preserves the largest public derivative recovered from the exact CCHS object. CCHS catalogs the elevated downtown view from the **Promenade at 5th St.** and dates it **1960**. It is retained as a dated downtown structural/roofline comparison frame. Individual 501/503/505 buildings are not assigned from this broad view without separate map/photo alignment. See `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`.

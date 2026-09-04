@@ -159,3 +159,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Institutional metadata: CCHS **Oregon City "Welcome Arch"**, **6th and Main**, **1895**; Culp, Ed 40; Stevens Photo #97.
 - Source/evidence/timeline: `S-215` / `E-195` / `T-078`.
 - Target relevance: steward identifies later 501/503/505 predecessor frontage in the right-hand background; individual later-address boundaries remain **PROBABLE / WORKING HYPOTHESIS**.
+
+### IMG-0745 — CCHS 2008.008.003.257 Oregon City view from Promenade at 5th St., 1960
+- File: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`
+- Dimensions: 2387 × 1600; 577,219 bytes; SHA-256 `6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d`
+- Source: `S-216` / `E-196`; CCHS date **1960**.
+- View: elevated downtown Oregon City toward the river/bridge from the Promenade at Fifth Street.
+- Target status: exact 501/503/505 building assignment unresolved; retained as dated structural comparison context.

@@ -812,3 +812,10 @@ timeline:
     related_evidence: [E-195]
     related_sources: [S-215, S-204, S-214, S-018]
     related_buildings: [B-005, B-001, B-002]
+
+  - id: T-079
+    date: 1960
+    summary: CCHS photograph from the Promenade at 5th Street documents an elevated downtown Oregon City view toward the Willamette River and bridge; exact 501/503/505 building mapping remains unresolved pending photo/map alignment.
+    confidence: Very High for CCHS date/view description and visible scene; exact target-building mapping unresolved.
+    related_evidence: [E-196]
+    related_sources: [S-216]

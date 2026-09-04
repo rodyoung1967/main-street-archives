@@ -487,3 +487,7 @@ If confirmed, the later 501/503/505 block is visible on the east/right side of M
 ## 1895 — Welcome Arch at Sixth/Main shows later 501/503/505 predecessor frontage in right background
 
 CCHS `2008.008.046.040` (`S-215` / `E-195` / `IMG-0744` / `T-078`) is cataloged **Oregon City "Welcome Arch"**, **6th and Main**, **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**. Because the institution directly fixes the Sixth/Main location, this is strong block-level spatial evidence and is consistent with the corrected right-side orientation of `IMG-0743` and the 1892 Sanborn. Exact individual later-address storefront boundaries remain **PROBABLE / WORKING HYPOTHESIS**; the later numbers are not visible and structural continuity is not inferred.
+
+## 1960 — CCHS Promenade at Fifth Street elevated downtown view
+
+CCHS `2008.008.003.257` (`S-216` / `E-196` / `IMG-0745` / `T-079`) is cataloged **Oregon City (view from the Promenade at 5th St.)**, **1960**. The photograph directly records the downtown roofscape, streets, automobiles, utility infrastructure, Willamette River and bridge from an elevated Promenade viewpoint. It is useful as a dated structural comparison frame, but this integration does **not** assign individual visible structures to 501, 503 or 505 Main without separate map/photo alignment.

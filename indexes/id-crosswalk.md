@@ -448,3 +448,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Related buildings: `B-005` / `B-001` / `B-002`; comparisons `S-204` / `E-184`, `S-214` / `E-194`; map `SM-005` / `S-018` / `E-020`.
 - Limit: later street numbers are not visible or backdated; exact individual storefront boundaries and structural continuity remain unresolved.
 - Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`.
+
+## S-216 / E-196 / IMG-0745 / T-079 — CCHS 1960 Promenade at Fifth Street downtown view
+- Source: `S-216` — CCHS `2008.008.003.257`, **Oregon City (view from the Promenade at 5th St.)**, 1960.
+- Evidence: `E-196` — dated elevated downtown context; exact 501/503/505 building assignment unresolved.
+- Media: `IMG-0745` — `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`.
+- Timeline: `T-079` — 1960 downtown view.
+- Review: `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`.

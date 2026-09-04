@@ -1,0 +1,257 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "search_url": "https://api.catalogit.app/api/public/search?query=2008.008.003.257&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/6851af40-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-(view-from-the-promenade-at-5th-st.)",
+  "selected_public_derivative": {
+    "key": "public_highres_2x",
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-vdUeVu3.lg@2x.jpg",
+    "width": 1200,
+    "height": 804
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg",
+  "repository_derivative": {
+    "width": 2387,
+    "height": 1600,
+    "bytes": 577219,
+    "sha256": "6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d"
+  },
+  "steward_attachment": {
+    "filename": "O.C. looking downriver from Promenade at 5th St., 1960.jpg",
+    "width": 2048,
+    "height": 1372,
+    "bytes": 926304,
+    "sha256": "104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City (view from the Promenade at 5th St.)",
+    "entry_object_id": "2008.008.003.257",
+    "description": "Oregon City (view from the Promenade at 5th St.)",
+    "date_made": "1960",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_number": "Stevens 257",
+    "stevens_photo_number": "257"
+  },
+  "entry": {
+    "id": "6851af40-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-(view-from-the-promenade-at-5th-st.)",
+    "media": [
+      {
+        "uuid": "b1004ea0-9b6d-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "O.C. looking downriver from Promenade at 5th St., 1960",
+        "description": "Copyright: none; Origsize: 2; Origformat: Other; Resolution: 800 DPI",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-sumagHn.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-sumagLw.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-vdUeVu3.sm@1x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-vdUeVu3.sm@2x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-vdUeVu3.lg@1x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/b1004ea0-9b6d-11eb-97c3-a30f15c9573f-vdUeVu3.lg@2x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "dominant_color": "4E5154",
+          "complementary_color": "54514E"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City (view from the Promenade at 5th St.)",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.003.257",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City (view from the Promenade at 5th St.)",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1960",
+                "fuzzydate_date": "1960-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Stevens 257; Stevens Photo #: 257",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000030000000257",
+    "prev_id": "5eddd5a0-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "ef384aa0-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

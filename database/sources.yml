@@ -1192,3 +1192,11 @@ sources:
     notes: "CCHS catalogs the scene at 6th and Main in 1895. Steward identifies the predecessor frontage later associated with 501/503/505 in the right-hand background. Exact individual later-address boundaries remain PROBABLE / WORKING HYPOTHESIS; no pre-1906 numbering or structural-continuity inference. Related E-195/IMG-0744/T-078."
     related_evidence: [E-195]
     related_media: [IMG-0744]
+
+  - id: S-216
+    name: "Clackamas County Historical Society 2008.008.003.257, Oregon City view from the Promenade at 5th Street, 1960"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-(view-from-the-promenade-at-5th-st.)"
+    repository_file: "media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg"
+    notes: "CCHS object 2008.008.003.257; 1960 elevated downtown view from the Promenade at 5th St. Steward image visually verified; exact 501/503/505 building assignment remains unresolved. Related E-196/IMG-0745/T-079. Steward SHA-256 104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d; repository derivative SHA-256 6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d."
+    related_evidence: [E-196]
+    related_media: [IMG-0745]
