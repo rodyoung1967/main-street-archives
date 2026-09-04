@@ -6,6 +6,15 @@ Purpose: preserve repeated 1945–1946 Oregon City municipal-finance entries inv
 
 ## Sources
 
+### 7 June 1945 City Commission — May claims
+
+Public City WebDrawer record:
+https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4724209/File/document
+
+A 4 September 2026 follow-up recovered the readable municipal text for the **7 June 1945** adjourned regular meeting after the 6 June meeting lacked a quorum. The Recorder's report covered claims against the City for **May 1945**. In the page-2 vendor/purpose/amount sequence, **C.P.Farr** aligns with OCR reading **Rent-Recreation Bldg.** and **$150.00**.
+
+This pushes the currently recovered recreation-building-rent pattern back from August 1945 to at least **May 1945**. A page-2 screenshot attempt failed with a WebDrawer cache-miss error, so the entry remains **PRIMARY MUNICIPAL OCR/TEXT ONLY** and the column alignment still requires visual verification.
+
 ### 7 September 1945 City Commission — August claims
 
 Public City WebDrawer record:
@@ -27,13 +36,13 @@ https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4724211/File/document
 
 A 4 September 2026 follow-up recovered the readable municipal text for the **5 June 1946** regular meeting. The Recorder's report covers claims against the City for **May 1946**. In the page-2 vendor/purpose/amount sequence, **C.P. Farr** again aligns with **Rent - Rec. Bldg.** and **$150.00**.
 
-This extends the repeated municipal recreation-building rent pattern from the already preserved August–September 1945 claims into at least **May 1946**. It still supplies no street address or business name for the rented building.
+The recovered entries now bracket repeated municipal recreation-building rent from at least **May 1945 through May 1946**, with confirmed OCR/text examples for May, August, and September 1945 and May 1946. They still supply no street address or business name for the rented building.
 
 The repeated amount and recreation-rent wording across 1945 and 1946 make this more than an isolated OCR token, but the original page images still require visual inspection before promotion under project policy.
 
 ## Visual-verification boundary
 
-The WebDrawer routes expose readable PDF text, but screenshot attempts in the current research environment failed with cache-miss/404 errors, including the 5 June 1946 page-2 screenshot attempt. Therefore:
+The WebDrawer routes expose readable PDF text, but screenshot attempts in the current research environment failed with cache-miss/404 errors, including the 7 June 1945 page-2 and 5 June 1946 page-2 attempts. Therefore:
 
 - the municipal wording is preserved as **OCR/TEXT ONLY**;
 - no new evidence/source ID is created;
@@ -65,7 +74,7 @@ The existing 505 chain remains:
 
 1. Visually inspect the 1945 and 1946 claim pages and confirm the C. P. Farr / $150 / recreation-building-rent alignment.
 2. Identify **C. P. Farr** from a direct directory, election, obituary, property, or municipal record before merging with any named Farr.
-3. Search remaining **1944–1946** finance/property records for the address or description of the City's rented recreation building and determine the first/last month of the rent pattern.
+3. Search remaining **1944–1946** finance/property records for the address or description of the City's rented recreation building and determine the first/last month of the rent pattern; the recovered pattern now reaches at least May 1945.
 4. Keep municipal recreation-program rent separate from private pool-hall/recreation-center trade names unless a direct premises record connects them.
 5. Continue the backward 505 search for contemporary Edwin F. Farr / Farr's Pool Hall / 505 Main license or directory evidence in the 1930s–early 1940s and the forward 1945–1947 liquor-license search for Harr/Farr succession evidence.
 
