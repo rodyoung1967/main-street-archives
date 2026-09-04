@@ -36,6 +36,17 @@ jobs:
       - name: Integrate CCHS P-370
         run: python3 scripts/integrate_cchs_p370_young_curio.py
 
+      - name: Normalize external P-370 namespace
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('registers/research-log.md')
+          s = p.read_text(encoding='utf-8')
+          s = re.sub(r'(?<!MOT:)\bP-370\b', 'MOT:P-370', s)
+          p.write_text(s, encoding='utf-8')
+          PY
+
       - name: Validate integrated archive
         run: python3 scripts/validate_archive.py
 
@@ -46,5 +57,3 @@ jobs:
           git diff --cached --check
           git commit -m "Add CCHS P-370 Young Curio storefront photo"
           git push --force-with-lease origin HEAD:temp/ingest-cchs-p370-young-curio
-
-# retriggered after current main baseline namespace repair
