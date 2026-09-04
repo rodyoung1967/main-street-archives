@@ -23,6 +23,17 @@ https://www.orcity.org/2014/401-3rd-Street
 
 This establishes Farr's Pool Hall at 505 as a documented historic-business association. The recovered inventory wording does not, by itself, prove the exact opening date of Farr's Pool Hall or that it was already at 505 in 1934; use 1934 only as a residence-acquisition anchor until a contemporary directory/ad/license establishes the business date.
 
+## 1928–1935 assumed-business-name archive route
+
+The Oregon Secretary of State's official Clackamas County records inventory confirms that the Oregon State Archives holds **Clackamas County Assumed Business Names [Certificates], 1928–1935 (.25 cu.ft.)**. The series can include the assumed business name, business description, filing date and business owner, and may have an alphabetical business-name index.
+
+This is now a **highest-priority archival bridge** for the unnamed 1925 billiards/cigars use and the later Farr's Pool Hall association. A surviving certificate for Farr's Pool Hall or Edwin F. Farr could provide a contemporary filing date and owner identity. The official series description does not guarantee a numbered street address, so any 505 address still has to appear on the original record or be independently bridged.
+
+Source capture:
+`evidence/source-captures/1928-1935-clackamas-assumed-business-names-farr-pool-hall-route-2026-09-03.md`
+
+The public Oregon Historical Records Index does not list assumed business names among its indexed Clackamas County record types, so the target certificates currently require an Archives reference request/manual inspection rather than a demonstrated online name-index search. This is a retrieval limitation, not negative evidence.
+
 ## 1945 / 1948 — Harr's Recreation Center
 
 Oregon City's official historic-resource synthesis places **Harr's Recreation Center at 505 Main in 1945**. That remains an official-secondary chronology statement pending recovery of its underlying directory or license page.
@@ -74,6 +85,7 @@ Sources:
 | --- | --- | --- |
 | 1922 | Timms Pool Hall and Leland & Little operating in Oregon City; exact addresses unresolved | Very High for the verified business references; unresolved for 505 |
 | 1925 | 505 Main mapped as billiards/cigars | Very High |
+| 1928–1935 | Clackamas County assumed-business-name certificates survive at Oregon State Archives; Farr target not yet retrieved | Very High for archival holdings; unresolved for Farr/505 |
 | 1930s | Farr's Pool Hall historically documented at 505; exact start date unresolved | High for 505 association |
 | 1945 | City historic-resource synthesis places Harr's Recreation Center at 505 | High as official-secondary chronology; underlying page still needed |
 | 11 Feb. 1948 | Harr and McDougald named as pool-hall operators; address/trade name omitted | High for municipal text wording; not an exact-address bridge |
@@ -84,6 +96,7 @@ Sources:
 1. What was Timms Pool Hall's exact 1922 address?
 2. Was Timms, Leland & Little, or another hall the pool hall adjoining the Schieremann tailor-shop building in the July 1922 fire?
 3. When did Farr's Pool Hall first open at 505 Main?
-4. When did Farr transfer/close and Harr's Recreation Center begin?
-5. Can the 1941 directory and the source behind the City's 1945 Harr statement narrow the Farr→Harr transition?
-6. Did a major 1939-1940 rebuild/remodel explain the 2021 inventory's 1940 date?
+4. Does the Clackamas County **Assumed Business Names [Certificates], 1928–1935** collection contain Farr's Pool Hall / Edwin F. Farr, and if so does the original certificate print an Oregon City street address?
+5. When did Farr transfer/close and Harr's Recreation Center begin?
+6. Can the 1941 directory and the source behind the City's 1945 Harr statement narrow the Farr→Harr transition?
+7. Did a major 1939-1940 rebuild/remodel explain the 2021 inventory's 1940 date?
