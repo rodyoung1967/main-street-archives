@@ -44,7 +44,6 @@ These indexes establish an access route, not the contents of any 1941 entry. The
 A separate current genealogy index, **Forebears — Oregon City Genealogy Resources & Vital Records**, lists an **“Oregon City, Oregon City Directory (1941–1960)”** resource and describes the directory group as **searchable books containing information relating to the area, its residents and businesses**.
 
 Discovery route:
-
 https://forebears.io/united-states/oregon/clackamas-county/oregon-city
 
 This is a second independent discovery route for searchable directory material covering 1941. The current research environment could retrieve the search-index description but the Forebears page itself returned a 403 when opened, and no underlying directory image or Farr/Harr/505 result was exposed. Therefore this remains an **ACCESS LEAD / RETRIEVAL GAP**, not directory evidence.
@@ -102,6 +101,51 @@ https://oregonnews.uoregon.edu/lccn/2024240281/1946-08-01/ed-1/seq-3/
 
 This supports treating the 1946 compilation as the production cycle leading toward the already documented **1947–48 Clackamas County Directory**, rather than assuming the December 1941 countywide project and the 1947–48 volume were the same edition.
 
+## 1947–48 county directory — contemporary availability and City-use clues
+
+A focused 4 September 2026 continuation materially strengthens the retrieval route for the later county directory without exposing its Farr/Harr/505 entries.
+
+### 8 July 1948 Sandy Post — new directory available in county library system
+
+A *Sandy Post* notice dated **8 July 1948**, page 5, reports that librarian **Mrs. Lois Shearman** said a copy of the **new Clackamas County Directory** was available for use in the **Sandy branch of the Clackamas County library**.
+
+Historic Oregon Newspapers page:
+https://oregonnews.uoregon.edu/lccn/2024240281/1948-07-08/ed-1/seq-5.pdf
+
+This is contemporary evidence that a newly issued Clackamas County directory was physically available in the county library system by **8 July 1948**. The notice does not print the publisher, formal title or edition year, so it must **not** be silently equated with the separately bibliographically documented Pacific Directory Service 1947–48/1948 edition until a title page, catalog record or other direct bridge is recovered.
+
+The page text was recoverable, but the page-image/screenshot request failed in the current environment. This finding remains **PRIMARY NEWSPAPER OCR/TEXT ONLY** pending visual certification.
+
+### February 1948 Oregon City claims — Pacific Directory Service payment
+
+The Oregon City Commission record containing the **11 February 1948** Harr/McDougald pool-hall appearance continues into the **3 March 1948** regular meeting and the City's February claims. On municipal page **477**, the OCR-aligned expense list pairs **Pacific Directory Service** with **Directory** and an amount of **$9.75**.
+
+Official municipal source:
+https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document
+
+This directly supports that the City paid Pacific Directory Service for a directory in the February 1948 claims cycle. It does **not** print the directory title or edition and therefore does not by itself prove that the purchase was the 1947–48 Clackamas County volume. It also provides no Farr, Harr or 505 listing.
+
+### Bibliographic control and retrieval consequence
+
+The City's 2000 bibliography already cites **Pacific Directory Service. _Directory of Clackamas County_. Portland: Pacific Directory Service, 1948.** Other local-history material cites the edition as **Clackamas County Directory, 1947–48** or **Pacific Directory, 1947-48**. Those citations remain bibliographic/secondary evidence until the directory itself is inspected.
+
+Taken together, the 1946 compilation notice, July 1948 library-availability notice, City bibliography, and February 1948 Pacific Directory Service payment make the 1947–48 directory a **concrete high-priority retrieval target**, not merely a hypothetical source class.
+
+When the actual volume is located, inspect and preserve the complete Oregon City alphabetic/classified/address coverage for:
+
+1. Edwin F. Farr / Edwin Franklin Farr / E. F. Farr;
+2. Alice Farr;
+3. Farr's Pool Hall;
+4. Carl R. Harr / Harr's Recreation Center;
+5. Harris E. McDougald / Pastime Pool Hall;
+6. 505 Main and 505½ Main;
+7. pool, billiard, recreation, tavern, beer, cigars and tobacco classifications;
+8. neighboring 501–511 Main entries.
+
+Do not infer occupancy from the directory's known existence or later citations; the actual page images remain required.
+
+Full municipal/directory continuation: `evidence/source-captures/1945-1948-liquor-license-list-reconstruction-pass-2026-09-04.md`.
+
 ## Why 1941 is high value
 
 The repository currently has:
@@ -129,6 +173,6 @@ Record residences separately from business premises and do not infer a business 
 
 ## Research boundary
 
-No 1941/1942 occupant, business, transition date or exact-address claim is promoted from these access leads. No source/evidence ID is created. The directory image itself must be inspected before any historical claim is added.
+No 1941/1942/1947–48 occupant, business, transition date or exact-address claim is promoted from these access leads. No source/evidence ID is created. The directory image itself must be inspected before any historical claim is added.
 
-If 1941 or a surviving early-1942 volume proves Farr still at 505, the Farr→Harr transition would be narrowed to **after that source's effective date and by the City's reported 1945 Harr entry**. If either already shows Harr, that would move the transition earlier. Either result requires the actual page image.
+If 1941 or a surviving early-1942 volume proves Farr still at 505, the Farr→Harr transition would be narrowed to **after that source's effective date and by the City's reported 1945 Harr entry**. If either already shows Harr, that would move the transition earlier. The 1947–48 volume can independently test whether Harr is still printed at 505 immediately before the direct late-1948 municipal license list. Every such result requires the actual directory page image.
