@@ -26,6 +26,8 @@ https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722834/File/document
 
 The same list includes other address controls such as Harris E. McDougald / Pastime Pool Hall at 723 Main Street and Wallace & Mary R. Seid / Seid's Restaurant at 517 Main Street.
 
+The recovered approval list contains **17 applicants**. Importantly for the active Farr→Harr research question, it includes **both known Oregon City pool-hall operators in the same licensing action**: Harr at 505 Main and McDougald at 723 Main. That makes this list a useful procedural template rather than merely a single Harr citation. The highest-value 1945–1947 municipal search should therefore seek analogous late-year liquor-license approval/renewal lists and compare the complete licensed universe year by year for the first appearance of Harr and any last appearance of Farr. A missing name in an incomplete or unrecovered list must not be treated as proof of non-operation.
+
 ## Date handling for the later record
 
 The retrieved later PDF is a four-page excerpt. The Harr license list appears immediately after correspondence dated **16 November 1948** and **23 November 1948**, and immediately before minutes headed **3 January 1949**. The opening date of the meeting containing the Harr list is not visible in the retrieved excerpt. Therefore this archive records that event conservatively as **late 1948** rather than assigning an exact December meeting date without the missing opening page.
@@ -49,9 +51,10 @@ The PDF text layers were successfully retrieved. Screenshot/page-image requests 
 ## Follow-up targets
 
 1. Recover the full late-1948 meeting including its opening page to establish the exact liquor-license meeting date.
-2. Search 1934–February 1948 city directories, liquor-license renewals, and newspapers for the transition from **Farr's Pool Hall** to **Harr's Recreation Center**.
-3. Search 1948–1953 records for the transition from **Carl R. Harr / Harr's Recreation Center** to the city inventory's **"Well's Recreation"** entry.
-4. Verify the spelling of "Well's" against the underlying 1953 directory or license record.
-5. Search 1949–1965 municipal liquor-license records to bridge the recreation-center era to the earliest documented **505 Tavern** period.
-6. Search 1947–1948 minutes and license files for Harr's first application and any directly printed address.
-7. Keep recreation-center/pool-hall business succession separate from proof of real-estate ownership.
+2. Search the analogous **late-year 1945, 1946 and 1947 liquor-license approval/renewal lists**, preserving the entire applicant universe and testing specifically for Farr, Harr, 505 Main, and the other pool-hall operators rather than searching one surname in isolation.
+3. Search 1934–February 1948 city directories, liquor-license renewals, and newspapers for the transition from **Farr's Pool Hall** to **Harr's Recreation Center**.
+4. Search 1948–1953 records for the transition from **Carl R. Harr / Harr's Recreation Center** to the city inventory's **"Well's Recreation"** entry.
+5. Verify the spelling of "Well's" against the underlying 1953 directory or license record.
+6. Search 1949–1965 municipal liquor-license records to bridge the recreation-center era to the earliest documented **505 Tavern** period.
+7. Search 1947–1948 minutes and license files for Harr's first application and any directly printed address.
+8. Keep recreation-center/pool-hall business succession separate from proof of real-estate ownership.
