@@ -9,7 +9,7 @@ Branch: `main`
 
 Immediately before this checkpoint, the newest commit on `main` was:
 
-- `de0fc499d80c34c7cbd82d65d76d59459b2cdf0c` — **Add CCHS P-502 G. H. Young 507 Main photo**
+- `de0fc499d80c34c7cbd82d65d76d59459b2cdf0c` — **Add CCHS MOT:P-502 G. H. Young 507 Main photo**
 
 That commit was already present when the Farr/505 work paused. **Do not reset or move `main` backward to an earlier Farr-research commit.** Resume from the then-current/latest `main` and preserve any concurrent project work.
 
