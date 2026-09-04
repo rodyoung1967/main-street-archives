@@ -2,7 +2,7 @@
 
 Date reviewed: 4 September 2026
 
-Status: **AUTHORITATIVE JUDICIAL RECONSTRUCTION OF CONTEMPORARY OLCC RENEWAL PROCEDURE — SOURCE-SELECTION / DATE-WINDOW FINDING ONLY; NO FARR/HARR/505 LICENSE IDENTIFIED.**
+Status: **AUTHORITATIVE JUDICIAL RECONSTRUCTION OF CONTEMPORARY OLCC RENEWAL PROCEDURE + OFFICIAL LOCAL PROCEEDINGS-INDEX ROUTE — SOURCE-SELECTION / DATE-WINDOW FINDING ONLY; NO FARR/HARR/505 LICENSE IDENTIFIED.**
 
 Purpose: tighten the checkpoint-directed 1945–1947 liquor-license search for the unresolved Farr's Pool Hall → Harr's Recreation Center transition at 505 Main. This source does not establish any Farr or Harr license. Its value is that the Oregon Supreme Court reproduced a detailed 1944–1945 OLCC renewal chronology from Commission files and minutes, allowing the 505 search to target the correct months rather than treating each calendar year as a single undifferentiated block.
 
@@ -70,8 +70,33 @@ Search for and preserve:
 
 Capture applicant/licensee, trade name, exact premises, license class, application date, fee receipt date, local endorsement, Commission action date, renewal/transfer notation, and any predecessor/successor wording.
 
+## Oregon City local-government locator — proceedings index
+
+The Oregon City Public Library's official **Microfilm Scanning System** inventory lists an **Oregon City Council and Commission Proceeding — Index: August 6, 1850 to June 26, 1978**.
+
+Official City library page:
+
+`https://www.orcity.org/490/Microfilm-Scanning-System`
+
+The same page says the microfilm/microfiche reader is located in the Carnegie Center near the service desk and gives the Library Reference Department as the route for questions about specific dates.
+
+This index is a concrete **MANUAL CALLOUT** for the local half of the OLCC renewal workflow documented by the Gouge case. The index itself has not been inspected, so no Farr/Harr/505 entry is assumed.
+
+### Exact local-index search windows
+
+Use the index to identify Oregon City Commission proceedings for:
+
+- **December 1944–March 1945** — 1945 license recommendations/endorsements;
+- **December 1945–March 1946** — 1946 cycle;
+- **December 1946–March 1947** — 1947 cycle;
+- **December 1947–March 1948** — 1948 cycle, as a control against the known February and late-1948 Harr records.
+
+Within those windows check headings/names for **liquor license**, **beer license**, **Oregon Liquor Control Commission / OLCC**, **tavern**, **pool hall / pool room**, **renewal**, **recommendation**, **endorsement**, **transfer**, **Farr**, **Harr**, **McDougald**, and exact premises if the index supports addresses.
+
+For any index hit, preserve the exact date and reel/volume/page locator, then inspect the underlying proceeding image before making an applicant, premises, or transition claim.
+
 ## Evidence boundary
 
 The Gouge case documents OLCC procedure in another Oregon city and for another licensee. It does **not** prove that Farr or Harr applied on the same exact day, held the same license classes, received the same treatment, or operated at 505 in any particular year.
 
-No 505 occupancy, Farr/Harr business succession, or transition date is promoted from this finding. It is a targeted records-route refinement only.
+The library inventory proves the existence and coverage of the proceedings index, not its contents. No 505 occupancy, Farr/Harr business succession, or transition date is promoted from these route findings.
