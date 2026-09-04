@@ -42,3 +42,7 @@ Sequence (chronology only): Brightbill → Smith → Hylton → unnamed 1925 res
 ## 31 October 1918 Wolf & Miller address conflict
 
 A visually verified *Oregon City Courier* answer page (`S-188` / `E-167`) prints **Wolf & Miller at 503 Main St.** This conflicts with direct 505 Main evidence on 20 September and 10/24 October 1918. The 503 wording is retained as a conflict only; it is not yet accepted as a proved 503 occupancy or relocation.
+
+## 1895 — Pre-numbering predecessor-frontage photo context
+
+`S-213` / `E-193` / `IMG-0742` is an 1895 CCHS bluff photograph in which the project steward identifies the roof/top of the predecessor Main/Fifth frontage later associated with **501/503/505 Main** as visible. For this 503 timeline, use the image only as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context. The `503` number is not visible and should not be backdated to 1895; physical continuity into later numbered or surviving structures remains unproved.

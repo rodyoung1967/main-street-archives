@@ -416,3 +416,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Other institutional identifiers: **Lynch-Criteser 056**; **Freytag Collection #1**.
 - Limits: **“(1st National)”** and **“Latourette and Myers ?”** remain catalog/uncertain wording; no modern-building, ownership, person-identity, or 503/505 continuity is asserted.
 - Review: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`.
+
+## S-213 / E-193 / IMG-0742 / T-076 — CCHS 1895 lower-Main bluff photograph
+
+- Source: `S-213` — CCHS `2008.008.003.125`.
+- Evidence: `E-193` — direct 1895 streetscape; probable/working-hypothesis target-frontage roofline assignment.
+- Media: `IMG-0742` — full public CCHS derivative.
+- Timeline: `T-076` — 1895 photograph context.
+- Related buildings: `B-005` 501, `B-001` 503, `B-002` 505 (later-address mapping only).
+- Related map context: `SM-005` / `S-018` / `E-020`.
+- Limit: no pre-1906 numbered-address, one-building, occupancy, ownership or continuity inference.
+- Review: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`.

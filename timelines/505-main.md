@@ -70,3 +70,7 @@ Sequence (chronology only; no physical-building continuity implied): Harding Dru
 ## 4 September 2026 — MOT:P-498 Harding-photo supplement
 
 The CCHS MOT:P-498 full-frame image (`S-211` / `E-191` / `IMG-0740`) is cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. It visibly shows the Harding storefront but no readable street number and appears to be the same underlying historical exposure as cropped `IMG-0724`. The separate catalog's circa-1885 date and JAH 11/2022 Harding-moved-north/Young-moved-in annotation are preserved without replacing the older CCHS 1880/1880s metadata. Treat `505` as retrospective pre-numbering location metadata and the move note as a later institutional annotation, not an exact transfer date or building-continuity proof.
+
+## 1895 — Pre-numbering predecessor-frontage photo context
+
+`S-213` / `E-193` / `IMG-0742` is an 1895 CCHS bluff photograph in which the project steward identifies the roof/top of the predecessor Main/Fifth frontage later associated with **501/503/505 Main** as visible. For this 505 timeline, use the image only as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context. The `505` number is not visible and should not be backdated to 1895; physical continuity into later numbered or surviving structures remains unproved.

@@ -2947,3 +2947,16 @@ evidence:
       - "Catalog metadata supplies Negative; Society Collection; Lynch-Criteser 056; Freytag Collection #1."
     confidence: "Very High for exact catalog wording and visible interior content; unresolved for date/address precision, institutional-name chronology, person identities and structural continuity."
     related_sources: [S-212]
+
+  - id: E-193
+    name: "CCHS 1895 bluff photo shows pre-1922 Main/Fifth target-frontage roofline candidate"
+    type: "Institutional photograph/catalog metadata plus direct visual review; documented/direct for 1895 streetscape and probable/working-hypothesis for exact later-address frontage assignment"
+    claims:
+      - "CCHS 2008.008.003.125 catalogs Lower Main Street Oregon City from Top of 3rd Street Stairs 1895 and describes a bluff view looking downriver."
+      - "The photograph directly depicts the lower-Main commercial streetscape."
+      - "Project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible; this is compatible with the developed frontage mapped on the 1892 Sanborn."
+      - "Later 501/503/505 address boundaries are not visible; no pre-1906 numbered-address, single-building, occupancy, ownership or continuity claim is made."
+    confidence: "Very High for catalog metadata and visible streetscape; PROBABLE / WORKING HYPOTHESIS for exact target-frontage roofline assignment."
+    related_sources: [S-213, S-018]
+    related_buildings: [B-005, B-001, B-002]
+

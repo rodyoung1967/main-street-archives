@@ -140,3 +140,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Institutional metadata: Interior of the Oregon City Bank of Commerce; 512 Main; 1890; Lynch-Criteser 056 / Freytag Collection #1.
 - Source/evidence: `S-212` / `E-192`.
 - Limit: address/date/name are catalog metadata; “Latourette and Myers ?” remains uncertain and no building continuity is inferred.
+
+### IMG-0742 — CCHS 2008.008.003.125 Lower Main / 3rd Street Stairs, 1895
+- File: `media/photos/early-main-street/IMG-0742_1895-lower-main-from-3rd-street-stairs-cchs-2008-008-003-125.jpg`
+- Institutional metadata: Oregon City from bluff/top of 3rd Street Stairs, looking downriver; 1895; Stevens 125.
+- Source/evidence/timeline: `S-213` / `E-193` / `T-076`.
+- Target relevance: the later 501/503/505 predecessor-frontage roof/top is a steward-identified, map-compatible **PROBABLE / WORKING HYPOTHESIS**; no 1895 numbered-address or building-continuity claim.

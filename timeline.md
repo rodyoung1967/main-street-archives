@@ -471,3 +471,9 @@ Newton → 427 is **PROBABLE / WORKING HYPOTHESIS**, not an exact-address claim.
 ## Circa 1885 catalog supplement — CCHS MOT:P-498 full Harding storefront
 
 A second CCHS catalog object, MOT:P-498 (`S-211` / `E-191` / `IMG-0740`), preserves a full-frame version of the Harding storefront photograph and catalogs it **Harding Drug Store - 505 Main Street**, **circa 1885**. It appears to be the same underlying exposure as the older 400 × 400 `IMG-0724` crop, but the records differ in date precision/medium and are not merged. The full image visibly shows the George A. Harding storefront but no readable street number. A JAH 11/2022 catalog annotation says Harding moved north and George Young moved into this location; that later annotation is compatible with independent Young-at-505 evidence but is not a contemporary dated transfer source. The pre-1906 `505` label remains retrospective-address metadata, and no surviving-building continuity is inferred.
+
+## 1895 — Bluff photograph of lower Main; target-frontage roofline candidate
+
+CCHS `2008.008.003.125` (`S-213` / `E-193` / `IMG-0742` / `T-076`) catalogs a photograph made from the top of the 3rd Street Stairs looking downriver in **1895**. The project steward identifies the visible roof/top of the predecessor frontage later associated with 501/503/505 Main. The 1892 Sanborn independently establishes developed commercial frontage in the area.
+
+The specific later-address roofline mapping remains **PROBABLE / WORKING HYPOTHESIS**: the photo does not display 501/503/505 numbers, does not prove one physical building covered all three later spaces, and does not bridge continuity to the post-1922 structures.

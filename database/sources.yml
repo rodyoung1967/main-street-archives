@@ -1168,3 +1168,12 @@ sources:
     notes: "Exact CCHS catalog-number record and visually reviewed steward image. Catalog supplies 1890 / 512 Main / Negative / Society Collection / Lynch-Criteser 056 / Freytag Collection #1. '(1st National)' and 'Latourette and Myers ?' remain institutional/uncertain metadata; no building continuity or 503/505 claim. Related E-192/IMG-0741. Steward SHA-256 892ac908cbed6ab49381e890ecedce0410bb936f709a8f326ef969874f0c11a0; repository derivative SHA-256 188e381b438d99e60dd0bb8203de7dd7909a76e18c8f7758d5d9e128ab28f0d2."
     related_evidence: [E-192]
     related_media: [IMG-0741]
+
+  - id: S-213
+    name: "Clackamas County Historical Society 2008.008.003.125, Lower Main Street Oregon City from Top of 3rd Street Stairs 1895"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/lower-main-street-oregon-city-from-top-of-3rd-street-stairs-1895"
+    repository_file: "media/photos/early-main-street/IMG-0742_1895-lower-main-from-3rd-street-stairs-cchs-2008-008-003-125.jpg"
+    notes: "CCHS 2008.008.003.125; cataloged 1895 bluff/downriver view from top of 3rd Street Stairs. Steward target-roofline identification is PROBABLE / WORKING HYPOTHESIS only; do not backdate later street numbers or infer structural continuity. Related E-193/IMG-0742/T-076."
+    related_evidence: [E-193]
+    related_media: [IMG-0742]
+

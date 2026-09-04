@@ -5,8 +5,8 @@
 - Building ID: `B-005`
 - Related businesses: `BUS-045`, `BUS-024`, `BUS-025`
 - Related people: `P-055`, `P-037`, `P-038`, `P-099`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 - Unified timeline: [501 Main Street](../timelines/501-main.md)
@@ -145,3 +145,9 @@ The Palace/501 chronology now includes a second issue-page control for the unres
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
 See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
+
+## 1895 bluff photograph — predecessor target-frontage roofline candidate
+
+`S-213` / `E-193` / `IMG-0742` preserves the CCHS bluff view cataloged **1895**. The project steward identifies the roof/top of the predecessor frontage later associated with **501/503/505 Main** as visible. Existing 1892 Sanborn context (`SM-005` / `S-018` / `E-020`) independently shows developed commercial frontage in the area.
+
+Classification: **PROBABLE / WORKING HYPOTHESIS for exact target-frontage assignment.** The later street numbers are not image-visible and should not be backdated before Oregon City's 1906 numbering program. The photograph does not prove one building spanned all three later addresses or establish continuity to post-1922 structures.

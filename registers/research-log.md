@@ -419,3 +419,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Added `S-212` / `E-192` plus API/source captures and synchronized media/source/evidence/crosswalk records.
 - Preserved **“(1st National)”** and **“Latourette and Myers ?”** as catalog wording rather than positive identification. The image does not visibly prove 512 Main, 1890, the bank name or the people; no present-building or 503/505 continuity was inferred.
 - Validator must pass before the integration commit is pushed.
+
+## 4 September 2026 — CCHS 1895 Lower Main / 3rd Street Stairs photograph
+
+- Checked current `main`; exact object `2008.008.003.125` was not already registered.
+- Preserved the largest public derivative from the exact CCHS object as `IMG-0742` and tracked the steward upload separately by filename, dimensions, bytes and SHA-256.
+- Added `S-213` / `E-193` / `T-076` and synchronized source/evidence/building/timeline/photo/crosswalk records.
+- Project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible. Archive classification for that exact spatial assignment is **PROBABLE / WORKING HYPOTHESIS**, compatible with 1892 Sanborn developed-frontage context.
+- Explicitly did not backdate 501/503/505 street numbers to 1895, did not claim a single building spanned all three later address spaces, and did not infer continuity into the post-1922 structures.

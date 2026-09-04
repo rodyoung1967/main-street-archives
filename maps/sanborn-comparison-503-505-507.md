@@ -246,3 +246,9 @@ Archive handling:
 
 ## Building-name caution added by September 1912 evidence
 A visually verified September 1912 advertisement (`E-138` / `S-154`) places **Room 4 of the Willamette Building over Harding Drug Store** without a street number. Read alongside the January 1912 507/509/511 address ladder, this cautions against forcing each historical named building into a single numbered Sanborn bay. When comparing the 1911 and 1925 sheets, keep named-building identity, ground-floor storefront numbering, and upstairs/half-number rooms separate unless a source explicitly joins them.
+
+## 1895 CCHS bluff-photo cross-check
+
+`S-213` / `E-193` / `IMG-0742` adds a CCHS photograph cataloged **1895**, made from the top of the 3rd Street Stairs looking downriver. The project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible. This is compatible with the developed commercial frontage shown by `SM-005` (1892).
+
+Use this as **PROBABLE / WORKING HYPOTHESIS** for precise target-roof assignment until landmark/roof geometry is explicitly aligned across the 1892/1900 Sanborns and the photograph. Do not infer that the later address numbers existed in 1895, that one structure spanned all three later spaces, or that the visible roof continued into the post-1922 buildings.

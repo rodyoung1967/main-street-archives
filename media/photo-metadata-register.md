@@ -1396,3 +1396,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Catalog note: medium **Negative**; negative location **Society Collection**.
 - Interpretation limit: the catalog's **“(1st National)”** and **“Latourette and Myers ?”** wording is preserved as institutional/uncertain metadata; the image does not visibly prove the address, date, institution name, or person identities. No structural continuity to a modern building is inferred.
 - Review: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`
+
+## IMG-0742 — CCHS 2008.008.003.125 Lower Main Street from 3rd Street Stairs, 1895
+
+- Type: Institutional historic photograph / elevated cityscape
+- CCHS external object: `2008.008.003.125`
+- Catalog title: **Lower Main Street Oregon City from Top of 3rd Street Stairs 1895**
+- Catalog date: **1895**
+- Repository file: `media/photos/early-main-street/IMG-0742_1895-lower-main-from-3rd-street-stairs-cchs-2008-008-003-125.jpg`
+- Status: `committed`
+- Repository derivative: 2400 × 1638; 485,488 bytes; SHA-256 `32bbe96cad82042f786c00e30b7dfa26499b00f998621db0e633ea6019b7f3a7`
+- Steward attachment: `Lower Main Street Oregon City from Top of 3rd Street Stairs 1895.jpg`; 2048 × 1397; 581,027 bytes; SHA-256 `97f006c0f74ac9fabc2cd4e1be0f71d7e781afbbc795c272cec7d3b9bb125cff`
+- Source/evidence/timeline: `S-213` / `E-193` / `T-076`
+- Other identifiers: **Stevens 125**; **Stevens Photo #125**
+- Catalog note: medium **Photographic Paper**; negative location **Society Collection**.
+- Target-frontage note: project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible. Preserve as **PROBABLE / WORKING HYPOTHESIS** for exact target assignment; the photo does not display the later address numbers or resolve internal storefront boundaries.
+- Related map context: `SM-005` / `S-018` / `E-020` (1892 Sanborn).
+- Review: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`

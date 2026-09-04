@@ -49,3 +49,7 @@ The archive does not assume the 1910 `510` is a typo or a move; the number relat
 ## 2 September 2026 Palace repeat-notice supplement
 - **25 Jun. and 2 Jul. 1909:** Ralph O. Smith's three-month Palace Saloon application is printed at Fifth/Main (`S-178` / `E-158`); no 501 number or grant.
 - **17 and 24 Jun. 1910:** E. R. Case's Palace application prints **510 Main** in two consecutive *Courier* issues (`S-199` / `E-178`); repeated wording does not resolve the conflict with the later direct 501 Palace anchor.
+
+## 1895 — Pre-numbering predecessor-frontage photo context
+
+`S-213` / `E-193` / `IMG-0742` is an 1895 CCHS bluff photograph in which the project steward identifies the roof/top of the predecessor Main/Fifth frontage later associated with **501/503/505 Main** as visible. For this 501 timeline, use the image only as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context. The `501` number is not visible and should not be backdated to 1895; physical continuity into later numbered or surviving structures remains unproved.
