@@ -1,0 +1,59 @@
+name: Enrich 1895 Welcome Arch signage evidence
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/enrich-1895-welcome-arch-signage.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync current main
+        run: |
+          git fetch origin main
+          git checkout main
+          git pull --ff-only origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator dependency
+        run: python3 -m pip install --quiet pyyaml
+
+      - name: Validate archive before enrichment
+        run: python3 scripts/validate_archive.py
+
+      - name: Enrich Welcome Arch signage evidence
+        run: python3 scripts/enrich_1895_welcome_arch_signage.py
+
+      - name: Validate archive after enrichment
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit, rebase onto newest main, validate, and push
+        run: |
+          git config user.name 'main-street-archive-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No enrichment changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Enrich 1895 Welcome Arch signage evidence'
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
