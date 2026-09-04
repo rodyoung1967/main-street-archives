@@ -62,12 +62,14 @@ https://oregonnews.uoregon.edu/lccn/2024240281/1948-07-08/ed-1/seq-5/
 
 ### Oregon City municipal purchase/use lead
 
-The readable text layer of the Oregon City City Commission record beginning **11 February 1948** and continuing into the March claims lists **Pacific Directory Service** with the purpose **Directory** and amount **$9.20** in the City claims table.
+The readable text layer of the Oregon City City Commission record beginning **11 February 1948** and continuing into the March claims lists **Pacific Directory Service** with the purpose **Directory** and amount **$9.75** in the City claims table.
 
 Public City record:
 https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document
 
-The PDF is six pages. Its OCR/text layer is readable, but the screenshot request for the relevant page failed with a cache-miss error in the current research environment. Therefore this municipal purchase remains **OCR/TEXT ONLY** for column alignment and is not promoted to a source/evidence claim. It nevertheless provides a useful retrieval lead that Oregon City itself was purchasing/using a Pacific Directory Service directory in early 1948.
+The PDF is six pages. Its text extraction groups the vendor, purpose and amount columns separately, but the adjacent sequence aligns **Otis Elevator Co. / Repairs / $6.75**, **Pacific Directory Service / Directory / $9.75**, then two **Pacific Telephone & Telegraph / Telephone** rows at **$20.15** and **$9.20**. This corrects the earlier project transcription that had assigned $9.20 to Pacific Directory Service.
+
+The text layer is readable, but the screenshot request for the relevant page failed with a cache-miss error in the current research environment. Therefore this municipal purchase remains **OCR/TEXT ONLY** pending visual page certification and is not promoted to a source/evidence claim. It nevertheless provides a useful retrieval lead that Oregon City itself was purchasing/using a Pacific Directory Service directory in early 1948.
 
 ## Current physical-copy lead
 
@@ -115,3 +117,5 @@ Residences, business premises and property ownership must remain separate unless
 No 1947-48 505 occupant, Farr→Harr transition date, 503 occupant, or business-owner relationship is promoted from the catalog/bibliography/compilation evidence. No source/evidence ID is created until actual directory content is inspected under project policy.
 
 This source should be prioritized ahead of repeating broad newspaper keyword searches for the Farr→Harr transition because it is contemporary, address-oriented, explicitly collected business addresses, and lies immediately before the February/late-1948 municipal anchors.
+
+Related focused reconstruction: `evidence/source-captures/1945-1948-liquor-license-list-reconstruction-pass-2026-09-04.md`.
