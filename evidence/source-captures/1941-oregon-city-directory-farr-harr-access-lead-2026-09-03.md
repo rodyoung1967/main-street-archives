@@ -2,9 +2,9 @@
 
 Date: 3 September 2026
 
-Status: **SOURCE/ACCESS LEAD ONLY — DIRECTORY PAGE NOT INSPECTED.**
+Status: **SOURCE/ACCESS LEAD ONLY — DIRECTORY PAGE NOT INSPECTED; ADDITIONAL LATE-1941 COUNTYWIDE DIRECTORY PROJECT IS OCR/TEXT ONLY AND COMPLETION UNPROVED.**
 
-Purpose: preserve a confirmed adjacent-period directory route that can tighten the unresolved **Farr's Pool Hall → Harr's Recreation Center** transition at 505 Main without treating catalog/index data as occupant evidence.
+Purpose: preserve confirmed adjacent-period directory routes that can tighten the unresolved **Farr's Pool Hall → Harr's Recreation Center** transition at 505 Main without treating catalog/index data or publication announcements as occupant evidence.
 
 ## Exact directory identity — bibliography visually verified
 
@@ -51,6 +51,57 @@ This is a second independent discovery route for searchable directory material c
 
 Targeted public-web searches for **Edwin F. Farr**, **Carl R. Harr**, **Farr's Pool Hall**, **Harr's Recreation Center**, and **505 Main** combined with the 1941 directory title did not surface a directory-page transcription or image. Search silence is not occupancy evidence.
 
+## Late-1941 countywide Pacific Directory project — possible early-1942 bridge source
+
+A **4 December 1941 Sandy Post** page contains a Pacific Directory Service announcement stating that a **complete classified business and professional directory for Clackamas County** was then being compiled. The announcement says the book was intended to be mailed to post-office and rural box holders in Clackamas County **“early this spring”** and identifies **A. B. Waldie** as the Pacific Directory Service representative doing the work locally from Oregon City.
+
+Historic Oregon Newspapers routes:
+
+- issue/page OCR: https://oregonnews.uoregon.edu/lccn/2024240281/1941-12-04/ed-1/seq-2/ocr/
+- page PDF: https://oregonnews.uoregon.edu/lccn/2024240281/1941-12-04/ed-1/seq-2.pdf
+
+A companion notice on page 1 states that **H. C. Prudhomme of Pacific Directory Service, publisher of the 1941 Oregon City directory**, was gathering information for a countywide **Business and Professional Directory and Buyers' Guide**, with a special section planned for each incorporated town.
+
+The current environment recovered the Historic Oregon Newspapers OCR/search-index text, but direct PDF retrieval and screenshot failed with a cache-miss error. Therefore this finding remains **PRIMARY NEWSPAPER OCR/TEXT ONLY** pending visual inspection of the original page image.
+
+### What this establishes — and what it does not
+
+This establishes that Pacific Directory Service had begun a **second, countywide directory project by December 1941**, separate in description from the already published 1941 Oregon City directory, and that the publisher expected distribution in early spring 1942.
+
+It does **not** yet establish:
+
+- that the directory was actually completed or distributed;
+- its final title or imprint year;
+- that a surviving copy exists;
+- that it contained Edwin Farr, Carl Harr, Farr's Pool Hall, Harr's Recreation Center, or 505 Main;
+- that it was the source used by the 2000 Oregon City re-survey.
+
+Targeted catalog/web searches during this pass did not locate a clearly identified surviving **1942 Clackamas County directory**. The correct state is therefore **UNVERIFIED PUBLICATION / ACCESS LEAD**, not a new occupancy source.
+
+### Why this matters for the Farr → Harr transition
+
+If a surviving early-1942 countywide directory can be located, it could provide a near-contemporary bridge between the known 1941 Oregon City directory and the City's official-secondary 1945 Harr chronology. Because the announced work was specifically a classified business/professional directory with incorporated-town sections, it is particularly well suited to testing the 505 business name/operator.
+
+Search future catalogs and local holdings for combinations of:
+
+- **Pacific Directory Service**;
+- **H. C. Prudhomme**;
+- **A. B. Waldie**;
+- **Clackamas County Directory**;
+- **Business and Professional Directory and Buyers' Guide**;
+- publication/distribution dates **1942–1943**.
+
+If located, visually inspect Oregon City sections for **505 Main / 505½ Main, Edwin F. Farr, Alice Farr, Farr's Pool Hall, Carl R. Harr, Harr's Recreation Center, pool/billiards/recreation/cigars/tobacco/beer**, and neighboring 501–511 Main addresses.
+
+## 1946 compilation notice helps distinguish the later county directory cycle
+
+A separate **1 August 1946 Sandy Post** notice says a **new Clackamas County Directory** was then being compiled with house-to-house listings in incorporated cities, occupations, business connections, home and business addresses, spouses/children, telephone numbers, real-estate ownership, rural-route listings, and a complete classified business directory/buyers' guide.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/2024240281/1946-08-01/ed-1/seq-3/
+
+This supports treating the 1946 compilation as the production cycle leading toward the already documented **1947–48 Clackamas County Directory**, rather than assuming the December 1941 countywide project and the 1947–48 volume were the same edition.
+
 ## Why 1941 is high value
 
 The repository currently has:
@@ -61,15 +112,15 @@ The repository currently has:
 - 11 February 1948 City Commission text: Harr and McDougald appear as pool-hall operators;
 - late-1948 municipal liquor-license text: **Carl R. Harr, Harr's Recreation Center, 505 Main Street**.
 
-A direct 1941 directory page could therefore provide an important discriminator within the Farr→Harr gap and independently test the City's retrospective transcription.
+A direct 1941 directory page—or the newly identified possible early-1942 countywide directory—could therefore provide an important discriminator within the Farr→Harr gap and independently test the City's retrospective transcription.
 
 ## Exact inspection targets
 
-When the 1941 volume is accessible, visually inspect and preserve the relevant page images for:
+When the 1941 volume or a surviving early-1942 countywide volume is accessible, visually inspect and preserve the relevant page images for:
 
 1. **Edwin F. Farr / Alice Farr** — occupation and business address;
 2. **Farr's Pool Hall / Farr** under pool, billiards, recreation, cigars/tobacco, soft drinks, taverns or similar classified headings;
-3. **Carl R. Harr / Harr's Recreation Center** — test whether Harr appears as early as 1941;
+3. **Carl R. Harr / Harr's Recreation Center** — test whether Harr appears by 1941–42;
 4. **505 Main, 505½ Main and neighboring 501–511 Main** in any street/address guide;
 5. **Dr. Roy Briggs** — verify the City's reported 1941 505½ entry and preserve the exact half-number syntax;
 6. any business successor/predecessor wording that directly links Farr and Harr.
@@ -78,6 +129,6 @@ Record residences separately from business premises and do not infer a business 
 
 ## Research boundary
 
-No 1941 occupant, business, transition date or exact-address claim is promoted from this access lead. No source/evidence ID is created. The directory image itself must be inspected before any historical claim is added.
+No 1941/1942 occupant, business, transition date or exact-address claim is promoted from these access leads. No source/evidence ID is created. The directory image itself must be inspected before any historical claim is added.
 
-If 1941 proves Farr still at 505, the Farr→Harr transition would be narrowed to **after the directory's effective date and by the City's reported 1945 Harr entry**. If 1941 already shows Harr, that would move the transition earlier. Either result requires the actual page image.
+If 1941 or a surviving early-1942 volume proves Farr still at 505, the Farr→Harr transition would be narrowed to **after that source's effective date and by the City's reported 1945 Harr entry**. If either already shows Harr, that would move the transition earlier. Either result requires the actual page image.
