@@ -1,0 +1,140 @@
+    for d in all_dicts(search_obj):
+        if OBJECT_ID in compact_strings(d):
+            candidates.append(d)
+    # De-dupe by JSON form.
+    seen = set()
+    out = []
+    for c in candidates:
+        key = json.dumps(c, sort_keys=True, default=str)
+        if key not in seen:
+            seen.add(key)
+            out.append(c)
+    return out
+
+
+def entry_id(cand):
+    for k in ("id", "entry_id", "uuid"):
+        v = cand.get(k)
+        if isinstance(v, str) and re.fullmatch(r"[0-9a-fA-F-]{32,40}", v):
+            return v
+    # Some payloads use a URI containing the UUID.
+    for v in compact_strings(cand):
+        m = re.search(r"([0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12})", v)
+        if m:
+            return m.group(1)
+    return None
+
+
+def catalog_number(obj):
+    if not isinstance(obj, dict):
+        return None
+    props = obj.get("properties") or {}
+    p = props.get("hasCatalogNumber") if isinstance(props, dict) else None
+    if isinstance(p, dict):
+        for k in ("value_text", "value", "text"):
+            if isinstance(p.get(k), str):
+                return p[k]
+    for k in ("catalog_number", "catalogNumber", "object_id", "objectId"):
+        if isinstance(obj.get(k), str):
+            return obj[k]
+    return None
+
+
+def media_urls(entry):
+    urls = []
+    media = entry.get("media") if isinstance(entry, dict) else None
+    if not isinstance(media, list):
+        media = [media] if isinstance(media, dict) else []
+    priority = ("public_highres", "public", "public_thumbnail", "highres", "original")
+    for m in media:
+        if not isinstance(m, dict):
+            continue
+        deriv = m.get("derivatives")
+        if isinstance(deriv, dict):
+            for key in priority:
+                d = deriv.get(key)
+                if isinstance(d, dict):
+                    v = d.get("path") or d.get("url")
+                    if isinstance(v, str):
+                        urls.append((key, v))
+                elif isinstance(d, str):
+                    urls.append((key, d))
+        for key in ("path", "url"):
+            v = m.get(key)
+            if isinstance(v, str):
+                urls.append((key, v))
+    # Fallback recursive URL discovery restricted to likely image/download paths.
+    for d in all_dicts(entry):
+        for k, v in d.items():
+            if isinstance(v, str) and v.startswith("http") and ("cloudfront" in v or "/media/" in v or v.lower().endswith((".jpg", ".jpeg", ".png"))):
+                urls.append((k, v))
+    seen = set()
+    out = []
+    for kind, url in urls:
+        if url.startswith("/"):
+            url = "https://api.catalogit.app" + url
+        if url not in seen:
+            seen.add(url)
+            out.append((kind, url))
+    return out
+
+
+def image_dims(data):
+    # Minimal JPEG SOF parser; avoids an external Pillow dependency on the Actions runner.
+    if data[:2] != b"\xff\xd8":
+        return None
+    i = 2
+    while i + 9 < len(data):
+        if data[i] != 0xFF:
+            i += 1
+            continue
+        marker = data[i + 1]
+        i += 2
+        if marker in (0xD8, 0xD9):
+            continue
+        if i + 2 > len(data):
+            break
+        seglen = int.from_bytes(data[i:i+2], "big")
+        if seglen < 2 or i + seglen > len(data):
+            break
+        if marker in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+            h = int.from_bytes(data[i+3:i+5], "big")
+            w = int.from_bytes(data[i+5:i+7], "big")
+            return (w, h)
+        i += seglen
+    return None
+
+
+# Immutable-ID and duplicate guards after the workflow rebases onto the latest main.
+for ident, path in ((SID, "evidence/source-register.md"), (EID, "evidence/evidence-register.md")):
+    if re.search(r"(?m)^## " + re.escape(ident) + r" —", read(path)):
+        raise SystemExit(f"{ident} is already assigned in {path}; stop rather than reuse")
+for path in ("database/sources.yml", "database/evidence.yml"):
+    if f"  - id: {SID}\n" in read(path) or f"  - id: {EID}\n" in read(path):
+        raise SystemExit(f"new source/evidence id unexpectedly already present in {path}")
+for path in ("media/photo-metadata-register.md", "media/photos/inventory.md"):
+    if IMG in read(path):
+        raise SystemExit(f"{IMG} is already assigned in {path}; stop rather than reuse")
+if TARGET.exists():
+    raise SystemExit(f"target already exists: {TARGET}")
+
+# Live CCHS/CatalogIt discovery. The institutional account ID is independently recoverable
+# from CCHS HUB image paths and is also the iframe account used by the CCHS collection page.
+search_url = API_BASE + "/search?" + urllib.parse.urlencode({"query": OBJECT_ID, "size": 50})
+search_data = http_json(search_url)
+candidates = find_entry_candidates(search_data)
+if not candidates:
+    raise SystemExit("CatalogIt search returned no entry candidate containing P-502")
+
+entry = None
+candidate_id = None
+for cand in candidates:
+    eid = entry_id(cand)
+    if eid:
+        try:
+            detail = http_json(f"{API_BASE}/entries/{eid}")
+        except Exception as exc:
+            print(f"detail fetch failed for {eid}: {exc}")
+            continue
+        if catalog_number(detail) == OBJECT_ID or OBJECT_ID in compact_strings(detail):
+            entry = detail
