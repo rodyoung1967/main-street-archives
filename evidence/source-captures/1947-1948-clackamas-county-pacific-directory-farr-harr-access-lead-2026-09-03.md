@@ -71,18 +71,24 @@ The PDF is six pages. Its text extraction groups the vendor, purpose and amount 
 
 The text layer is readable, but the screenshot request for the relevant page failed with a cache-miss error in the current research environment. Therefore this municipal purchase remains **OCR/TEXT ONLY** pending visual page certification and is not promoted to a source/evidence claim. It nevertheless provides a useful retrieval lead that Oregon City itself was purchasing/using a Pacific Directory Service directory in early 1948.
 
-## Current physical-copy lead
+## Current physical-copy / acquisition lead
 
-A current Genealogical Forum of Oregon list includes:
+A current Genealogical Forum of Oregon sale inventory includes:
 
-- item **TF0767**
-- **Clackamas Co. Directory 1947-48**
-- one copy listed
+- item **TF0767**;
+- **Clackamas Co. Directory 1947-48**;
+- **one copy**;
+- **$60.00** listed price.
 
-Current GFO file/search route:
-https://gfo.org/file_download/inline/15b29c58-c6a6-4696-9cd3-00db8f6ccf04
+Current GFO file/search routes:
+- https://gfo.org/file_download/inline/15b29c58-c6a6-4696-9cd3-00db8f6ccf04
+- https://gfo.org/file_download/inline/141559c7-aca8-4b04-b8f4-2e88e2538f9c
 
-This is a present access lead, not proof of availability on a future date or permission to reproduce the volume.
+This is unusually actionable because it is not merely evidence that a copy once existed: the current sale inventory exposes a specific physical item number and quantity. It is still only an **acquisition / survival lead**; availability can change and the book's Oregon City pages have not been inspected.
+
+The GFO exports are **not reliable publisher authority** for this item. One current rendering leaves the publisher field blank while another labels the same `TF0767` item **R. L. Polk & Co.** That conflicts with the stronger historic-resource bibliographies identifying H. C. Prudhomme / Pacific Directory Service. Do not use the sales-list publisher field to reassign the directory's bibliographic identity; inspect the actual title page when the copy is obtained.
+
+Targeted exact-title searches of Internet Archive, FamilySearch, Google Books and WorldCat did not expose an accessible Oregon City scan or directly inspectable directory page in this pass. That is a **DIGITAL RETRIEVAL GAP**, not evidence that no digital copy exists.
 
 Oak Lodge History Detectives also states that it has scanned the **Oak Grove portion** of the 1947-48 Clackamas County Directory. That independently supports survival of the volume but does not provide Oregon City pages in the material presently exposed.
 
