@@ -21,7 +21,12 @@ https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
 
 The bibliography page was visually inspected from the original City PDF on 3 September 2026. This establishes the exact title/publisher wording used by the City's historic-resource research. It does **not** establish the contents of any 1941 directory entry or prove that the City survey transcribed every entry correctly.
 
-This correction is important because future retrieval should search **Pacific Directory Service / Directory of Oregon City / 1941**, not assume the volume was a Polk directory.
+A recent National Register nomination for West Linn's historic city hall independently cites the same source in the fuller coverage form **“Pacific Directory Service 1941 Directory: Oregon City-West Linn-Gladstone.”** That citation is useful for catalog/title searching and indicates the volume's geographic coverage; it remains secondary bibliographic evidence, not proof of a particular Oregon City entry.
+
+West Linn nomination:
+https://westlinnoregon.gov/sites/default/files/fileattachments/communications/page/54306/final_nomination_application_city_hall_and_area_history.pdf
+
+This correction is important because future retrieval should search **Pacific Directory Service / Directory of Oregon City / Oregon City-West Linn-Gladstone / 1941**, not assume the volume was a Polk directory.
 
 ## Current access lead
 
