@@ -2,7 +2,7 @@
 
 Date reviewed: 4 September 2026
 
-Status: **PHYSICAL-SOURCE HOLDING / INDEX ROUTE CONFIRMED — OREGON CITY DIRECTORY PAGES NOT YET INSPECTED; NO FARR/505 ENTRY PROMOTED.**
+Status: **PHYSICAL-SOURCE HOLDING / INDEX ROUTE CONFIRMED — OREGON CITY DIRECTORY PAGES NOT YET INSPECTED; NO FARR/505 ENTRY PROMOTED. ADDITIONAL 1930/1931/1935/1939 CLACKAMAS TELEPHONE-DIRECTORY SEQUENCE CONFIRMED BIBLIOGRAPHICALLY, HOLDING LOCATION UNRESOLVED.**
 
 Purpose: add a contemporary non-newspaper source directly inside the active 1930–1932 pool-hall licensing window. This route complements, rather than replaces, the unresolved City Recorder / Commission license-register search for Ordinances 1219 and 1234.
 
@@ -19,7 +19,7 @@ Northwest Heritage Index / key route:
 
 The index description states that this directory was indexed only to identify other communities covered in addition to Oregon City. Individual Oregon City subscribers/businesses therefore should **not** be expected to appear in the public Northwest Heritage Index even if they are present in the directory itself.
 
-The index provides page ranges for several other communities — for example Milwaukie pp. 21–24, Oak Grove pp. 24–27, Redland pp. 27–28, and Colton p. 19 — which confirms that the cited code refers to an actual multi-community directory volume. The Oregon City section/page range has not yet been identified from the public index and must be inspected in the source itself.
+The index provides page ranges for several other communities — for example Beavercreek pp. 17–19, Colton p. 19, Molalla pp. 19–21, Milwaukie pp. 21–24, Oak Grove pp. 24–27, and Redland pp. 27–28 — which confirms that the cited code refers to an actual multi-community directory volume. The Oregon City section/page range has not yet been identified from the public index and must be inspected in the source itself. Do not infer an Oregon City page range merely by subtracting these later community ranges.
 
 ## Holding institution and access route
 
@@ -36,6 +36,31 @@ Current access information:
 - genealogy page: https://wilsonvillelibrary.org/lib/page/genealogy-databases
 
 This makes the 1932 telephone directory a concrete **MANUAL / LIBRARY-ASSISTED retrieval target**, rather than a merely hypothetical record class.
+
+## Additional bracketing sequence: 1930, 1931, 1935 and 1939
+
+A visually accessible 1988 West Linn historic-resource inventory / National Register supporting document cites, in its bibliography:
+
+> **Clackamas Co. Telephone Directory, 1930, 1931, 1935, 1939.**
+
+Source:
+
+https://westlinnoregon.gov/sites/default/files/fileattachments/planning/page/6488/1988_national_register_nomination_for_the_lewthwaitte-moffat_house.pdf
+
+This is **bibliographic evidence that preservation researchers had access to a multi-year Clackamas County telephone-directory sequence spanning the 1932 target date**. It does not identify the repository that held those volumes, does not prove that each volume covers Oregon City in the same format, and does not expose any Farr/505 entry.
+
+### Research consequence
+
+If the 1930/1931 and 1935 volumes can be located, they create a strong bracketing test around the confirmed August 1932 directory:
+
+- **1930 / 1931** — test whether Edwin F. Farr, Farr's Pool Hall, or a different named 505/pool-hall operator appears before Ordinance 1234;
+- **August 1932** — direct contemporary target only months after Ordinance 1234;
+- **1935** — test whether Farr is established by the mid-1930s and whether 505/pool-hall naming changed;
+- **1939** — useful forward control approaching the 1941 Pacific Directory period.
+
+A change between adjacent telephone directories can narrow a published-name/address transition interval, but directory silence or appearance does not by itself establish municipal licensing, legal ownership, or uninterrupted occupancy.
+
+Targeted public-web/catalog searches during this pass did not identify a confirmed present holding for the 1930, 1931, 1935, or 1939 volumes. Their current status is **SOURCE-SEQUENCE CONFIRMED / HOLDING LOCATION UNRESOLVED**.
 
 ## Why this source is high value
 
@@ -64,19 +89,22 @@ Request scans or visually inspect the **entire Oregon City section** of `OR CLAC
 
 For each relevant listing preserve the exact printed wording, page number, subscriber/business name, address, telephone number, and any classified-business heading.
 
+Repeat the same target set in any located 1930, 1931, 1935 and 1939 volumes so changes can be bracketed without changing search criteria between years.
+
 ## Online-search result and evidence boundary
 
-Targeted public-web searches did not expose scans or transcriptions of the Oregon City pages and did not return a Farr/505 listing from this directory. The public Northwest Heritage Index itself is not a name-by-name index of Oregon City directory subscribers.
+Targeted public-web searches did not expose scans or transcriptions of the Oregon City pages and did not return a Farr/505 listing from the August 1932 directory. The public Northwest Heritage Index itself is not a name-by-name index of Oregon City directory subscribers.
 
 Therefore:
 
 - **survival/holding of the August 1932 directory is documented**;
 - **contents of the Oregon City pages remain uninspected**;
-- no Farr, 505, pool-hall operator, or business-continuity claim is promoted from this access route;
+- **the existence/use of a 1930/1931/1935/1939 Clackamas telephone-directory sequence is bibliographically documented, but current holdings remain unresolved**;
+- no Farr, 505, pool-hall operator, or business-continuity claim is promoted from these access routes;
 - search silence is not treated as evidence of absence.
 
 ## Priority relative to the active 1930/1932 licensing search
 
 This should be pursued **in parallel with the City Recorder license-register / proceeding-index manual callout**, because it is contemporary, highly address-oriented, and likely much faster to inspect than a broad archival license-ledger search.
 
-If the August 1932 directory directly prints **Edwin F. Farr / Farr's Pool Hall / 505 Main**, it would provide the earliest currently targeted contemporary exact-period bridge between the unnamed 1925 Sanborn billiards/cigars occupancy and the later official-secondary Farr chronology. It would still require the municipal license record for proof of licensing.
+If the August 1932 directory directly prints **Edwin F. Farr / Farr's Pool Hall / 505 Main**, it would provide the earliest currently targeted contemporary exact-period bridge between the unnamed 1925 Sanborn billiards/cigars occupancy and the later official-secondary Farr chronology. The 1930/1931 and 1935 volumes could then bracket when that published association first appeared. Municipal license records would still be required for proof of licensing.
