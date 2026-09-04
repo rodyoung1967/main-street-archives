@@ -1,0 +1,63 @@
+name: Integrate CCHS P-498 Harding 505 photo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/integrate-cchs-p498-harding-505-photo.yml"
+      - "scripts/integrate_cchs_p498_harding_505_photo.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Install image and validator dependencies
+        run: python3 -m pip install --disable-pip-version-check pillow pyyaml
+
+      - name: Recover CCHS P-498 and integrate archive records
+        run: python3 scripts/integrate_cchs_p498_harding_505_photo.py
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "No P-498 integration changes to commit."
+            exit 0
+          fi
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add \
+            media \
+            evidence \
+            database \
+            businesses \
+            buildings \
+            people \
+            timelines \
+            timeline.md \
+            indexes \
+            registers
+          git commit -m "Add CCHS P-498 Harding 505 full-frame photo"
+          git pull --rebase origin main
+          git push origin HEAD:main
