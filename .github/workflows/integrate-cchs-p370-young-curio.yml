@@ -1,0 +1,48 @@
+name: Integrate CCHS P-370 Young Curio Store
+
+on:
+  push:
+    branches:
+      - temp/ingest-cchs-p370-young-curio
+    paths:
+      - scripts/integrate_cchs_p370_young_curio.py
+      - .github/workflows/integrate-cchs-p370-young-curio.yml
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git rebase origin/main
+
+      - name: Validate baseline
+        run: |
+          git worktree add /tmp/main-baseline origin/main
+          (cd /tmp/main-baseline && python3 scripts/validate_archive.py)
+          git worktree remove /tmp/main-baseline
+
+      - name: Integrate CCHS P-370
+        run: python3 scripts/integrate_cchs_p370_young_curio.py
+
+      - name: Validate integrated archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit integration tree
+        run: |
+          git add -A
+          git status --short
+          git diff --cached --check
+          git commit -m "Add CCHS P-370 Young Curio storefront photo"
+          git push --force-with-lease origin HEAD:temp/ingest-cchs-p370-young-curio
