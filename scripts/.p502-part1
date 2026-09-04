@@ -63,12 +63,13 @@ def yaml_block(path, ident):
 
 def add_yaml_list_item(path, ident, field, value):
     text, m, block = yaml_block(path, ident)
-    # Do nothing if the exact item is already present anywhere in this entity block.
-    if re.search(r"(?m)^\s*-\s+" + re.escape(value) + r"\s*$", block) or re.search(
-        r"(?m)^\s+" + re.escape(field) + r":\s*\[[^\]]*\b" + re.escape(value) + r"\b", block
+    # Do nothing if the exact item is already present in a block-style or inline field.
+    if re.search(r"(?m)^      -\s+" + re.escape(value) + r"\s*$", block) or re.search(
+        r"(?m)^    " + re.escape(field) + r":\s*\[[^\]]*\b" + re.escape(value) + r"\b", block
     ):
         return
-    # Existing block-style list.
+    # Existing block-style list. Child list items are indented six spaces beneath
+    # the four-space entity field, matching the repository's YAML layout.
     fm = re.search(r"(?m)^(    " + re.escape(field) + r":\s*)$", block)
     if fm:
         start = fm.end()
@@ -77,7 +78,7 @@ def add_yaml_list_item(path, ident, field, value):
         insert = start + (nm.start() if nm else len(rest))
         prefix = block[:insert].rstrip()
         suffix = block[insert:]
-        block = prefix + f"\n    - {value}\n" + suffix.lstrip("\n")
+        block = prefix + f"\n      - {value}\n" + suffix.lstrip("\n")
     else:
         # Existing inline list.
         im = re.search(r"(?m)^(    " + re.escape(field) + r":\s*)\[([^\]]*)\]\s*$", block)
@@ -87,7 +88,7 @@ def add_yaml_list_item(path, ident, field, value):
             new_line = im.group(1) + "[" + ", ".join(vals) + "]"
             block = block[:im.start()] + new_line + block[im.end():]
         else:
-            block = block.rstrip() + f"\n    {field}:\n    - {value}"
+            block = block.rstrip() + f"\n    {field}:\n      - {value}"
     new = block.rstrip() + "\n\n"
     write(path, text[:m.start()] + new + text[m.end():])
 
