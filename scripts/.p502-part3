@@ -1,0 +1,140 @@
+            candidate_id = eid
+            break
+if entry is None:
+    # Search payload may already contain the detailed object.
+    for cand in candidates:
+        if catalog_number(cand) == OBJECT_ID and isinstance(cand.get("media"), (list, dict)):
+            entry = cand
+            candidate_id = entry_id(cand)
+            break
+if entry is None:
+    raise SystemExit("Could not resolve a detailed CatalogIt P-502 entry")
+
+serialized = json.dumps(entry, ensure_ascii=False, sort_keys=True)
+checks = ["P-502", "G. H. Young", "507 Main", "1916", "Oregon City"]
+missing = [s for s in checks if s.lower() not in serialized.lower()]
+if missing:
+    raise SystemExit(f"P-502 live metadata is missing expected supplied fields: {missing}")
+
+slug = entry.get("slug") if isinstance(entry.get("slug"), str) else None
+hub_url = HUB_BASE + (slug if slug else candidate_id)
+
+# Download public derivatives until the exact steward-uploaded bytes are found.
+found = None
+attempts = []
+for kind, url in media_urls(entry):
+    try:
+        data = http_bytes(url)
+    except Exception as exc:
+        attempts.append({"kind": kind, "url": url, "error": repr(exc)})
+        continue
+    sha = hashlib.sha256(data).hexdigest()
+    dims = image_dims(data)
+    attempts.append({"kind": kind, "url": url, "bytes": len(data), "sha256": sha, "dimensions": dims})
+    if sha == EXPECTED_SHA and len(data) == EXPECTED_SIZE:
+        found = (data, url, kind, dims)
+        break
+
+if not found:
+    print(json.dumps({"media_attempts": attempts}, indent=2))
+    raise SystemExit("No public CCHS P-502 derivative matched the exact steward-uploaded JPEG hash")
+
+data, image_url, image_kind, dims = found
+if dims != EXPECTED_DIMS:
+    raise SystemExit(f"exact-hash image has unexpected dimensions {dims}, expected {EXPECTED_DIMS}")
+TARGET.parent.mkdir(parents=True, exist_ok=True)
+TARGET.write_bytes(data)
+
+# Preserve the live public API payload and a compact provenance/debug footer.
+API_SNAPSHOT.parent.mkdir(parents=True, exist_ok=True)
+API_SNAPSHOT.write_text(json.dumps({
+    "retrieved_from": f"{API_BASE}/entries/{candidate_id}",
+    "search_url": search_url,
+    "hub_url": hub_url,
+    "matched_public_derivative": image_url,
+    "matched_derivative_kind": image_kind,
+    "uploaded_file_sha256": EXPECTED_SHA,
+    "uploaded_file_bytes": EXPECTED_SIZE,
+    "uploaded_file_dimensions": list(EXPECTED_DIMS),
+    "entry": entry,
+}, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+
+capture_text = f'''# CCHS P-502: G. H. Young Store at 507 Main, cataloged 1916
+
+Reviewed **3 September 2026** from the steward-supplied high-resolution JPEG and the live public Clackamas County Historical Society CatalogIt record. Source `{SID}`; evidence `{EID}`; image `{IMG}`.
+
+## Source identity and preservation
+
+- Institution: **Clackamas County Historical Society**.
+- Catalog Entry/Object ID: **P-502**. This is an external museum object number, **not** a project `P-###` person ID.
+- Catalog title supplied by the steward and confirmed against the live public entry: **G. H. Young Store - 507 Main Street Oregon City 1916**.
+- Catalog description supplied by the steward: **G. H. Young Store. Oregon City. 1916. Photo taken at 507 Main Street, Oregon City.**
+- Catalog date: **1916**.
+- Catalog place: Oregon City, Clackamas County, Oregon, United States of America.
+- Catalog note: **Medium: Photographic Paper**.
+- Public HUB entry: {hub_url}
+- Public API snapshot retained at [`{API_SNAPSHOT}`](./{API_SNAPSHOT.name}).
+- Exact steward-uploaded JPEG retained at [`{TARGET}`](../../{TARGET}).
+- Original uploaded filename: `{ORIGINAL_NAME}`.
+- Integrity: **{EXPECTED_SIZE:,} bytes**, **{EXPECTED_DIMS[0]} × {EXPECTED_DIMS[1]} px**, SHA-256 `{EXPECTED_SHA}`.
+- The public CCHS derivative downloaded during integration matched the steward-uploaded JPEG **byte-for-byte**, so no alternate raster was substituted.
+
+## Visual review — VISUALLY VERIFIED
+
+The actual JPEG was inspected, not merely OCRed. The storefront/interior display is densely filled with baskets, woven goods, rugs/textiles, a guitar, curios and other objects. Hand-painted lettering across the lower window reads **“G. H. Youngs Collection. Oregon City Ore.”** The image also visibly carries the **Clackamas County Historical Society** watermark.
+
+The image itself does **not** visibly print **507 Main** or **1916**. Those two locators come from the institutional catalog metadata. Do not convert them into image-text claims.
+
+## Relationship to the existing Young chronology
+
+The archive already has direct exact-address evidence for G. H. Young at **507 Main in January 1912** (`E-092`) and again in a 1914 city-business listing. Earlier CCHS records `MOT:P-370` and `MOT:P-384`, saved as catalog leads in the P-391/Young review, also describe Young/Young's Curio Store at **507 Main in 1916**. P-502 is therefore an additional independent cataloged photograph supporting the **institutional-photo side** of that 1916 association.
+
+It does **not** prove the photographed room survived unchanged from 1912, establish title/ownership, or prove that the photograph was exposed on a specific day in 1916.
+
+## UNRESOLVED CONFLICT — W. W. Bradley at 507 in 1916
+
+Selected visually verified 1916 newspaper business-directory advertisements place **W. W. Bradley's furniture business at 507 Main** (`E-116` / `S-130`, with additional 1916 recurrence in `E-119`). CCHS P-502 instead catalogs this G. H. Young store photograph as **507 Main, 1916**.
+
+Both source families are preserved. The archive does **not** choose one chronology by assumption. Plausible explanations to test include an imprecise catalog date, a photograph made earlier but cataloged to 1916, publication lag/carry-forward in the business directory, a mid-year transition, or some unproved subdivision/overlap. None is established by P-502 alone.
+
+## Next checks
+
+1. Locate a dated 1915–1917 Young advertisement, move/closing notice, directory entry, tax/license record, or newspaper story that brackets when Young left 507.
+2. Locate Bradley's acquisition/opening/move notice and determine whether he succeeded Young at the same room.
+3. Ask CCHS whether P-502 has negative-envelope, donor, accession, photographer, or date-control notes beyond the public fields.
+4. Compare P-502 with CCHS `P-370` and `P-384` to determine whether they show the same display/storefront and whether any has stronger dating provenance.
+'''
+CAPTURE.write_text(capture_text, encoding="utf-8")
+
+append_once("evidence/source-register.md", f"## {SID} —", f'''## {SID} — Clackamas County Historical Society P-502, G. H. Young Store — 507 Main Street Oregon City 1916
+Type: Institutional historic photograph and public museum-catalog record; steward-supplied JPEG **VISUALLY VERIFIED** and live CatalogIt metadata checked 3 September 2026.  
+Public HUB entry: {hub_url}  
+Repository image: `{TARGET}`  
+Public API snapshot: `{API_SNAPSHOT}`  
+Catalog object ID: **P-502** (external museum ID; not a project person ID).  
+Original uploaded filename: `{ORIGINAL_NAME}`  
+Integrity: {EXPECTED_SIZE:,} bytes; {EXPECTED_DIMS[0]} × {EXPECTED_DIMS[1]} px; SHA-256 `{EXPECTED_SHA}`.  
+Related evidence: `{EID}`; image `{IMG}`; person `P-076`; business `BUS-067`; building `B-003`.  
+Notes: CCHS catalogs the photograph as **G. H. Young Store - 507 Main Street Oregon City 1916**. Visible window lettering reads **G. H. Youngs Collection. Oregon City Ore.** The image itself does not print 507 or 1916; those fields are institutional metadata. Preserve an unresolved conflict with selected 1916 newspaper directory advertisements placing W. W. Bradley at 507 (`E-116`, `E-119`).''')
+
+append_once("evidence/evidence-register.md", f"## {EID} —", f'''## {EID} — CCHS P-502 catalogs G. H. Young Store at 507 Main in 1916
+Type: Institutional photograph/catalog metadata plus direct visual review; **DOCUMENTED / VISUALLY VERIFIED**, with explicit 1916 occupancy conflict.  
+Source: `{SID}`; image `{IMG}`.  
+Claims: The CCHS public catalog directly associates P-502 with **G. H. Young Store**, **507 Main Street**, Oregon City, and **1916**. The preserved photograph visibly shows a curio/collection storefront display and the lettering **“G. H. Youngs Collection. Oregon City Ore.”**; it does not visibly show the street number or year. This adds a second institutional-photo line to the earlier P-370/P-384 1916/507 catalog leads and extends the documented Young-store photographic record beyond the direct 1912/1914 address anchors.  
+Conflict/limit: Selected visually verified 1916 newspaper business-directory advertisements instead place **W. W. Bradley at 507 Main** (`E-116` / `S-130`; see also `E-119`). Do not infer continuous Young occupancy through 1916, reject Bradley, or force a transition date without a dated bridge. P-502 does not establish property ownership or surviving-building continuity.  
+Confidence: **Very High** for what the CCHS catalog says and for the visible G. H. Young collection lettering; **UNRESOLVED** for exact exposure date and 1916 occupancy chronology.''')
+
+# YAML mirrors.
+append_once("database/sources.yml", f"  - id: {SID}\n", f'''  - id: {SID}
+    name: "Clackamas County Historical Society P-502, G. H. Young Store - 507 Main Street Oregon City 1916"
+    url: "{hub_url}"
+    repository_file: "{TARGET}"
+    notes: "Steward-supplied JPEG visually verified and byte-matched to the live CCHS public derivative; CCHS catalog metadata identifies G. H. Young Store, 507 Main Street, Oregon City, 1916. Image itself shows G. H. Youngs Collection / Oregon City Ore. lettering but not the street number or year. External object ID P-502. Related E-189/IMG-0738/P-076/BUS-067/B-003; 1916 W. W. Bradley 507 conflict remains unresolved."
+''')
+append_once("database/evidence.yml", f"  - id: {EID}\n", f'''  - id: {EID}
+    name: "CCHS P-502 catalogs G. H. Young Store at 507 Main in 1916"
+    type: "Institutional photograph/catalog metadata plus direct visual review; documented and visually verified with unresolved occupancy conflict"
+    claims:
+      - "CCHS public catalog metadata associates P-502 with G. H. Young Store, 507 Main Street, Oregon City, and 1916."
+      - "The preserved photograph visibly shows G. H. Youngs Collection / Oregon City Ore. lettering; the street number and year are metadata, not visible image text."
+      - "Selected 1916 newspaper business-directory advertisements place W. W. Bradley at 507 Main, so exact 1916 occupancy/exposure chronology remains unresolved."
