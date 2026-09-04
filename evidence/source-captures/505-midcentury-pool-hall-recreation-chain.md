@@ -23,18 +23,22 @@ https://www.orcity.org/2014/401-3rd-Street
 
 This establishes Farr's Pool Hall at 505 as a documented historic-business association. The recovered inventory wording does not, by itself, prove the exact opening date of Farr's Pool Hall or that it was already at 505 in 1934; use 1934 only as a residence-acquisition anchor until a contemporary directory/ad/license establishes the business date.
 
-## 1949 — Harr's Recreation Center
+## 1945 / 1948 — Harr's Recreation Center
 
-Oregon City Commission records list:
+Oregon City's official historic-resource synthesis places **Harr's Recreation Center at 505 Main in 1945**. That remains an official-secondary chronology statement pending recovery of its underlying directory or license page.
 
-- **Carl R. Harr — Harr's Recreation Center — 505 Main Street**
+Primary municipal text provides stronger later anchors:
 
-in the city's license/business records around January 1949.
+- **11 February 1948:** City Commission text names **Harr and McDougald** as pool-hall operators, but gives no first name, trade name, or address.
+- **Late 1948:** a municipal license/business list directly prints **Carl R. Harr — Harr's Recreation Center — 505 Main Street**.
 
-Source:
+Source capture:
+`evidence/source-captures/1948-harrs-recreation-center-505-main.md`
+
+Primary municipal source:
 https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722834/File/document
 
-This proves a recreation-center business at 505 by 1949 and provides a later anchor after Farr's Pool Hall.
+The retrieved license excerpt appears after November 1948 correspondence and immediately before minutes headed **3 January 1949**; its meeting-opening page is missing. The archive therefore records the exact-address primary anchor conservatively as **late 1948**, not 1949. Older project wording that labeled this municipal item simply “1949” is superseded by this tighter dating.
 
 ## 1922 Timms Pool Hall — keep separate
 
@@ -50,14 +54,15 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-07-20/ed-1/seq-1/
 
 Therefore:
 - do **not** identify the adjoining 1922 fire pool hall as Farr's Pool Hall;
-- Timms Pool Hall is a stronger 1922 candidate because it is explicitly operating in Oregon City that month, but its address is still unresolved;
-- do **not** identify Timms as the adjoining pool hall until an address or other spatial source proves it.
+- Timms Pool Hall is a legitimate 1922 candidate because it is explicitly operating in Oregon City before the fire, but its address is still unresolved;
+- Leland & Little is another legitimate 1922 billiards candidate and also lacks an exact premises;
+- do **not** identify any of these as the adjoining pool hall until an address or other spatial source proves it.
 
 ## Construction-date relevance
 
 The 2021 ODOT/UO cultural-resources report has been visually checked and lists **505 Main / 505 Tavern — build date 1940**. Oregon City's 2000 Downtown Final Report separately gives **c.1920** for 505.
 
-The recreation-use chain demonstrates that a 505-address billiards use was mapped in 1925 and a recreation business was at 505 in 1949. The 1940 inventory date therefore cannot mean the first-ever use of the 505 address. It may represent a rebuild, major alteration, assessor/resource date, or surviving-building fabric date.
+The recreation-use chain demonstrates that a 505-address billiards use was mapped in 1925 and Harr's Recreation Center is directly documented at 505 in late 1948. The 1940 inventory date therefore cannot mean the first-ever use of the 505 address. It may represent a rebuild, major alteration, assessor/resource date, or surviving-building fabric date.
 
 Sources:
 - 2021 report: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
@@ -67,15 +72,18 @@ Sources:
 
 | Date | Evidence | Confidence |
 | --- | --- | --- |
-| 1922 | Timms Pool Hall operating in Oregon City; exact address unresolved | High for business existence; unresolved for 505 |
+| 1922 | Timms Pool Hall and Leland & Little operating in Oregon City; exact addresses unresolved | Very High for the verified business references; unresolved for 505 |
 | 1925 | 505 Main mapped as billiards/cigars | Very High |
 | 1930s | Farr's Pool Hall historically documented at 505; exact start date unresolved | High for 505 association |
-| 1949 | Harr's Recreation Center at 505 Main | Very High |
+| 1945 | City historic-resource synthesis places Harr's Recreation Center at 505 | High as official-secondary chronology; underlying page still needed |
+| 11 Feb. 1948 | Harr and McDougald named as pool-hall operators; address/trade name omitted | High for municipal text wording; not an exact-address bridge |
+| late 1948 | Carl R. Harr / Harr's Recreation Center / 505 Main directly printed in municipal license text | Very High for text wording; page image not yet certified |
 
 ## Open questions
 
 1. What was Timms Pool Hall's exact 1922 address?
-2. Was Timms the pool hall adjoining the Schieremann tailor-shop building in the July 1922 fire?
+2. Was Timms, Leland & Little, or another hall the pool hall adjoining the Schieremann tailor-shop building in the July 1922 fire?
 3. When did Farr's Pool Hall first open at 505 Main?
 4. When did Farr transfer/close and Harr's Recreation Center begin?
-5. Did a major 1939-1940 rebuild/remodel explain the 2021 inventory's 1940 date?
+5. Can the 1941 directory and the source behind the City's 1945 Harr statement narrow the Farr→Harr transition?
+6. Did a major 1939-1940 rebuild/remodel explain the 2021 inventory's 1940 date?
