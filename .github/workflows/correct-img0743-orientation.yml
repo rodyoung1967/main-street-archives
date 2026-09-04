@@ -1,0 +1,138 @@
+name: Correct IMG-0743 right-side orientation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/correct-img0743-orientation.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sync current main
+        run: |
+          git fetch origin main
+          git pull --ff-only origin main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate archive before correction
+        run: python3 scripts/validate_archive.py
+
+      - name: Correct IMG-0743 side orientation everywhere integrated
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          files = [
+              'buildings/501-main.md',
+              'buildings/503-main.md',
+              'buildings/505-main.md',
+              'database/evidence.yml',
+              'database/sources.yml',
+              'database/timeline.yml',
+              'evidence/evidence-register.md',
+              'evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md',
+              'evidence/source-register.md',
+              'indexes/id-crosswalk.md',
+              'maps/sanborn-comparison-503-505-507.md',
+              'media/photo-metadata-register.md',
+              'media/photos/early-main-street/README.md',
+              'media/photos/inventory.md',
+              'registers/research-log.md',
+              'timeline.md',
+              'timelines/501-main.md',
+              'timelines/503-main.md',
+              'timelines/505-main.md',
+          ]
+
+          bad_replacements = [
+              ('left side of the photograph', 'right side of the photograph'),
+              ('left side of the view', 'right side of the view'),
+              ('east/left side', 'east/right side'),
+              ('east/left', 'east/right'),
+          ]
+
+          target_terms = (
+              '501/503/505',
+              '501, 503 and 505',
+              'Fifth-to-Sixth',
+              'Fifth–Sixth',
+              'odd-numbered',
+              'target frontage',
+              'target block',
+          )
+
+          changed = []
+          replacements = 0
+          for filename in files:
+              p = Path(filename)
+              text = p.read_text(encoding='utf-8')
+              out = []
+              file_count = 0
+              for line in text.splitlines(keepends=True):
+                  new = line
+                  if any(term in line for term in target_terms):
+                      for old, repl in bad_replacements:
+                          n = new.count(old)
+                          if n:
+                              new = new.replace(old, repl)
+                              file_count += n
+                  out.append(new)
+              if file_count:
+                  p.write_text(''.join(out), encoding='utf-8')
+                  changed.append(filename)
+                  replacements += file_count
+
+          if replacements == 0:
+              raise SystemExit('No incorrect left-side IMG-0743 orientation text found; refusing empty correction.')
+
+          capture = Path('evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md')
+          text = capture.read_text(encoding='utf-8').rstrip()
+          marker = '## Orientation correction — project steward, 4 September 2026'
+          if marker not in text:
+              text += '''\n\n## Orientation correction — project steward, 4 September 2026\n\nThe earlier integration mistakenly described the later 501/503/505 east-side frontage as being on the **left** side of the photograph. The project steward corrected the orientation: **when looking south from Sixth toward Fifth, the east-side / later 501/503/505 frontage is on the RIGHT side of the photograph.** Repository references to this image have been corrected accordingly. The separate caution remains that the Sixth-to-Fifth viewpoint comes from steward metadata/filename rather than the CCHS catalog wording for this object, and exact storefront-to-later-address divisions still require photo/Sanborn alignment.\n'''
+              capture.write_text(text + '\n', encoding='utf-8')
+
+          log = Path('registers/research-log.md')
+          text = log.read_text(encoding='utf-8').rstrip()
+          marker = '## 4 September 2026 — IMG-0743 orientation correction'
+          if marker not in text:
+              text += '''\n\n## 4 September 2026 — IMG-0743 orientation correction\n\n- Project steward corrected the side-of-frame interpretation for `S-214` / `E-194` / `IMG-0743`.\n- For a view looking **south from Sixth toward Fifth**, the east-side frontage later associated with **501/503/505 Main is on the RIGHT side of the photograph**, not the left.\n- Corrected all integrated IMG-0743 references carrying the mistaken left-side wording.\n- This correction changes side-of-frame orientation only; the CCHS catalog still supplies only `Main Street, Oregon City` and date range 1890–1899, while the Sixth-to-Fifth viewpoint remains steward metadata and exact storefront-to-number mapping remains unresolved.\n'''
+              log.write_text(text + '\n', encoding='utf-8')
+
+          print(f'Corrected {replacements} orientation references in {len(changed)} files:')
+          for f in changed:
+              print(' -', f)
+          PY
+
+      - name: Remove one-time workflow
+        run: rm .github/workflows/correct-img0743-orientation.yml
+
+      - name: Validate archive after correction
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit, rebase onto newest main, validate, and push
+        run: |
+          git config user.name 'main-street-archive-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Correct IMG-0743 target frontage to right side'
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
