@@ -1,86 +1,88 @@
-# 1928 Municipal Activities Report — fire-call leads for 503 Main / Fifth & Main
+# 1928 Municipal Activities Report — aerial / fire evidence for 501–505 Main and Fifth & Main
 
-Status: **indexed/text-extraction leads only; visual verification pending**
+Status: **RELEVANT PAGES VISUALLY VERIFIED; FULL 29-PAGE REPORT REVIEW NOT COMPLETE**
 
-Purpose: preserve two potentially important fire-department entries from Oregon City's 1928 Municipal Activities Report without overstating them under the archive's strict visual-review standard.
+Purpose: preserve and interpret the Fifth/Main evidence in Oregon City's 1928 Municipal Activities Report while separating direct visual observations from address mapping, structural inference, and unresolved photograph dating.
 
 ## Source
 
 City of Oregon City, **1928 Municipal Activities Report**:
 https://www.orcity.org/DocumentCenter/View/6216/1928-Municipal-Activities-Report
 
-The city-hosted report is very large and the current PDF renderer did not provide a stable page image during this review. Search/text extraction surfaced the entries below, but they have **not yet been cleared by direct page-image inspection**.
+Repository original:
+`records/municipal/annual-reports/1928 Municipal Activities Report.PDF`
 
-## Indexed fire-call leads
+The project steward committed the original PDF to `main` on 3 September 2026 in commit `6412d71a1acd667820f6542d2bd5d796e16771c4`.
 
-The extracted fire-department call list includes apparent entries for:
+Prior direct-download control values remain:
+
+- File size: **23,068,960 bytes**
+- SHA-256: `270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be`
+- PDF inventory: **29 pages**, unencrypted
+
+The report covers municipal activity for **1928** and its transmittal page is dated **March 1, 1929**. The embedded aerial itself is not separately captioned with an exposure date in the reviewed scan. Therefore this record calls it the **1928-report aerial** rather than silently treating the report year as an independently proved photograph date.
+
+## PDF page 4 — embedded aerial: 501 / 503 / 505 structural baseline
+
+**VISUALLY VERIFIED 3 September 2026.** The upper half of PDF page 4 contains an oblique aerial/elevated photograph of downtown Oregon City; a city map occupies the lower half.
+
+### Direct visual observations
+
+The Fifth/Main block is visible in the aerial. When the visible street geometry is aligned with the independently mapped 1925 Sanborn sequence, the Main-frontage row at the northwest Fifth/Main corner shows the later-generation low commercial buildings corresponding to **501, 503, and 505 Main** rather than the earlier wooden storefront generation documented elsewhere in the archive.
+
+The address assignment is treated as a **STRONG CROSS-SOURCE INFERENCE** rather than as printed labeling within the photograph: the photograph itself does not print 501, 503, or 505, but Fifth/Main geometry and the 1925 Sanborn address sequence independently anchor the row.
+
+The image supports the following structural conclusions:
+
+- **501, 503, and 505 are all visibly present as the later Main-frontage configuration** by the state shown in the 1928-report aerial.
+- The earlier wooden-building generation previously associated with this frontage is no longer the visible configuration.
+- **505 has not yet acquired the later deeper rear configuration/remodel** known from later evidence and present-building observation. In this aerial, the rear extent associated with the 505 frontage remains materially shorter than the later/current rear extent.
+- This creates a new **pre-rear-expansion visual baseline** for 505 and materially strengthens the existing `E-101` hypothesis that the 1940 historic-inventory date may reflect a later major alteration/rearward expansion rather than first erection of the Main Street front/core.
+
+### Evidentiary boundary
+
+This aerial does **not** by itself establish:
+
+- the exact exposure date of the photograph;
+- the exact construction dates of 501, 503, or 505;
+- that the three visible later-generation buildings were all erected in one project or one year;
+- that the July–August 1922 Gates/Wolf work produced all three modern-numbered storefronts;
+- the exact date, permit, owner, builder, or scope of the later 505 rear remodel;
+- that the rear remodel occurred specifically in 1940.
+
+The strongest defensible conclusion is structural and relative: **the later 501/503/505 frontage is already present in the 1928-report aerial, while the later deeper rear form of 505 is not yet present.** This narrows the 505 physical-history problem without resolving the remodel date.
+
+## PDF page 10 — Fire Department rows
+
+**VISUALLY VERIFIED 3 September 2026.** The actual scanned Fire Department table was inspected. It visibly includes the location/use rows:
 
 - **Mar. 1 — 503 Main Res**
 - **Sept. 11 — 5th & Main Garage**
 
-The `Res` text is visible in the current public search-index extraction for the City's PDF and appears to abbreviate **residence**, but this remains **OCR/SEARCH-INDEX TEXT ONLY** pending inspection of the original row. It materially narrows how the March 1 lead should be handled: do not describe it as a 503 Main storefront/business fire from the text extraction alone.
+This supersedes the former **OCR/TEXT ONLY** status for the existence and wording of those two rows.
 
-The extraction also appears to include cause/damage columns, but column alignment is not reliable enough to assign those values to these entries without visual page review.
+The table layout remains dense enough that cause/damage values should be transcribed row-by-row from a higher-resolution crop before any particular cause or loss is assigned to either event. No fire damage or rebuilding claim is promoted here.
 
-## Current handling
+`Res` is preserved exactly as printed. It is likely an abbreviation for residence, but the repository should not transform the abbreviation into a more specific occupancy/floor-plan conclusion without corroborating evidence.
 
-Do **not** yet state as fact that:
+## Research consequence
 
-- a fire damaged the 503 Main commercial storefront on March 1, 1928;
-- `Res` definitively means a residence at the modern 503 storefront rather than a table/use notation requiring visual interpretation;
-- the Fifth & Main garage entry refers to a particular known garage/business;
-- either incident caused rebuilding or materially changed the surviving 503/505 structures.
+The aerial now provides a direct visual bridge between the **May 1925 Sanborn configuration** and later aerial/physical evidence:
 
-Treat both as high-value follow-up leads pending direct visual inspection of the original report page.
+1. by the report-era photograph, the later 501/503/505 Main-frontage building generation is in place;
+2. 505 is still in a shallower rear configuration than its later/current form;
+3. the later rear expansion/remodel therefore belongs **after the state visible in this photograph**, but its calendar date remains unresolved because the aerial's exposure date is not independently printed and no permit/assessor bridge has yet been recovered.
 
-## Why this matters
-
-If the `503 Main Res` row is visually confirmed, it could become relevant to:
-
-- mixed residential/commercial or rear/upstairs use associated with the 503 address;
-- the c.1919 surviving-building estimate for 503;
-- post-1925 alterations or repairs;
-- the relationship between the 1925 Sanborn footprint and later building fabric.
-
-If the `5th & Main Garage` entry is visually confirmed and the garage can be identified, it may also help reconstruct the Fifth Street side/rear-of-block business sequence near the laundry and 501/503 frontage.
+This should be used alongside, not instead of, the existing 1936/1940/1944 aerial sequence, 1925/1950 Sanborn comparison, assessor-card target, and 1939–1941 permit search.
 
 ## Next checks
 
-1. Obtain/render the exact fire-department page from the 1928 report.
-2. Visually verify both entries and their use/cause/damage columns.
-3. Identify the Fifth & Main garage by proprietor/address.
-4. Check newspapers around March 1 and September 11, 1928 for corresponding fire reports.
+1. Use a higher-resolution crop of PDF page 10 to transcribe the cause/damage columns for the **Mar. 1 — 503 Main Res** and **Sept. 11 — 5th & Main Garage** rows without column drift.
+2. Identify the Fifth & Main garage by proprietor/address and check newspapers around September 11, 1928.
+3. Check newspapers around March 1, 1928 for the 503 Main call; do not assume a storefront fire.
+4. Continue the 505 rear-work test with assessor improvement cards, permits, and address-level comparison against later aerials.
+5. Resume the backward 505 billiards/recreation chronology: seek the earliest contemporary exact-date/exact-address bridge for **Edwin F. Farr / Farr's Pool Hall / 505 Main**, keeping Farr, Harr, Timms, Leland, Little, and other pool-hall operators distinct.
 
-## Pause checkpoint — 2 September 2026
+## Coverage / annual-status boundary
 
-Research paused at the project steward's request before any 1928 scan was visually inspected. **1928 remains IN PROGRESS; visual coverage is 0/29 PDF pages.**
-
-The official PDF was successfully downloaded on 2 September 2026, superseding the earlier retrieval problem described above for this attempt:
-
-- Official URL: https://www.orcity.org/DocumentCenter/View/6216/1928-Municipal-Activities-Report
-- Downloaded filename: `1928-municipal-activities-report.pdf`
-- File size: **23,068,960 bytes**
-- SHA-256: `270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be`
-- PDF inventory: **29 pages**, unencrypted.
-- Text extraction again surfaced the two apparent address entries above. **OCR/TEXT ONLY**: no cause, damage, occupant, fire event or building-continuity claim was promoted.
-- Rendering was initiated, but rendered images were not inspected. Rendering alone does not count as visual review.
-- The downloaded PDF and temporary derivatives were in transient working storage at the pause. **The PDF has not been committed in this checkpoint.** Re-download from the official URL and verify the hash if the working copy is unavailable; preserve the original under `records/municipal/annual-reports/1928-municipal-activities-report.pdf` with source/register metadata when review resumes.
-
-## 3 September 2026 retrieval continuation
-
-The public search engine's indexed extraction was rechecked after research resumed. It clearly exposes the text **`Mar. 1—503 Main Res`** and **`Sept. 11—5th & Main Garage`** within the fire-department table. This is a useful textual refinement but **not visual verification**.
-
-The official PDF remains **23,068,960 bytes**. The web PDF opener rejected it as too large, and the required PDF screenshot operation could not run because the document was not successfully opened as a PDF source. A direct container download also failed because that runtime could not resolve the City host. These are current tool/retrieval limits, not evidence that the source is unavailable to the public. The existing 2 September successful-download hash remains the control value for a future retrieved copy.
-
-No evidence/source ID, occupant, fire-damage, use, construction or annual-status claim is promoted by this continuation.
-
-### Resume order and earlier-year clarification
-
-The steward asked whether 1924–1927 were already finished before moving to 1928. **They must not be represented as a completed run.**
-
-1. **First audit the saved 1924 and 1927 work and identify the next unfinished municipal-report task.** Their report-review completion has not been established in this checkpoint. The annual status register does not certify either year. An omitted year in the city's report listing is not proof that no report or other records exist.
-2. Preserve the distinction between a completed report and a completed research year: **1925 report 22/22 PDF pages visually reviewed (`S-157`); 1926 report 23/23 (`S-159`); both years remain IN PROGRESS.** See [annual status](../../registers/year-status.md).
-3. The 1928 detour was selected for its explicit 503 Main and Fifth/Main garage leads, **not because 1924–1927 were certified complete**. Return to the pending visual checks above after the earlier-year gap/status audit and an agreed research order.
-4. Do not treat the 1928 text snippets as evidence of damage, vacancy, demolition, rebuilding, an identified business, or continuity of a surviving structure. Assign claim-level evidence and timeline entries only after scan verification.
-
-Last completed research commit before the original pause: [`077f779`](https://github.com/rodyoung1967/main-street-archives/commit/077f77918dc2bba93c08dcc69ddfd8f90f88f69e), the full 1926 municipal-report review. No institutional message, paid request, or restricted-access operation was made in this continuation.
+Only the pages needed for the present question have been visually inspected in this continuation. **1928 remains IN PROGRESS.** This update does not certify a 29/29 report review or an annual closeout. Absence elsewhere in the report has not been used as evidence of absence.
