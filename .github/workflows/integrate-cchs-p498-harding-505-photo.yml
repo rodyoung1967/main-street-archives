@@ -6,6 +6,7 @@ on:
     paths:
       - ".github/workflows/integrate-cchs-p498-harding-505-photo.yml"
       - "scripts/integrate_cchs_p498_harding_505_photo.py"
+      - "scripts/run_cchs_p498_harding_505_photo.py"
   workflow_dispatch:
 
 permissions:
@@ -32,7 +33,7 @@ jobs:
         run: python3 -m pip install --disable-pip-version-check pillow pyyaml
 
       - name: Recover CCHS P-498 and integrate archive records
-        run: python3 scripts/integrate_cchs_p498_harding_505_photo.py
+        run: python3 scripts/run_cchs_p498_harding_505_photo.py
 
       - name: Validate archive
         run: python3 scripts/validate_archive.py
