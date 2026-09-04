@@ -36,7 +36,7 @@ jobs:
       - name: Integrate CCHS P-370
         run: python3 scripts/integrate_cchs_p370_young_curio.py
 
-      - name: Normalize external P-370 namespace
+      - name: Normalize generated text
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -45,6 +45,15 @@ jobs:
           s = p.read_text(encoding='utf-8')
           s = re.sub(r'(?<!MOT:)\bP-370\b', 'MOT:P-370', s)
           p.write_text(s, encoding='utf-8')
+
+          p = Path('media/photos/inventory.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('Audit date: **4 September 2026**  \n', 'Audit date: **4 September 2026**\n')
+          p.write_text(s, encoding='utf-8')
+
+          p = Path('media/photos/early-main-street/README.md')
+          s = p.read_text(encoding='utf-8')
+          p.write_text(s.rstrip() + '\n', encoding='utf-8')
           PY
 
       - name: Validate integrated archive
