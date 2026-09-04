@@ -4,11 +4,28 @@ Date: 3 September 2026
 
 Status: **SOURCE/ACCESS LEAD ONLY — DIRECTORY PAGE NOT INSPECTED.**
 
-Purpose: preserve a newly confirmed adjacent-period directory route that can tighten the unresolved **Farr's Pool Hall → Harr's Recreation Center** transition at 505 Main without treating catalog/index data as occupant evidence.
+Purpose: preserve a confirmed adjacent-period directory route that can tighten the unresolved **Farr's Pool Hall → Harr's Recreation Center** transition at 505 Main without treating catalog/index data as occupant evidence.
 
-## Confirmed access lead
+## Exact directory identity — bibliography visually verified
 
-Current public genealogy directory indexes identify **Oregon City, Oregon, City Directory, 1941** as an image-bearing volume in the **Ancestry U.S. City Directories** collection.
+The City of Oregon City's **Downtown Oregon City Historic Resource Survey — Final Report (2000)** contains a selected bibliography that directly cites:
+
+**Pacific Directory Service. _Directory of Oregon City_. Portland: Pacific Directory Service, 1941.**
+
+The same bibliography separately cites:
+
+**Pacific Directory Service. _Directory of Clackamas County_. Portland: Pacific Directory Service, 1948.**
+
+City report:
+https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+
+The bibliography page was visually inspected from the original City PDF on 3 September 2026. This establishes the exact title/publisher wording used by the City's historic-resource research. It does **not** establish the contents of any 1941 directory entry or prove that the City survey transcribed every entry correctly.
+
+This correction is important because future retrieval should search **Pacific Directory Service / Directory of Oregon City / 1941**, not assume the volume was a Polk directory.
+
+## Current access lead
+
+Public genealogy directory indexes identify **Oregon City, Oregon, City Directory, 1941** as an image-bearing volume in the **Ancestry U.S. City Directories** collection.
 
 Discovery indexes:
 
