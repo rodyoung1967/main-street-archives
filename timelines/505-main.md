@@ -74,3 +74,7 @@ The CCHS MOT:P-498 full-frame image (`S-211` / `E-191` / `IMG-0740`) is cataloge
 ## 1895 — Pre-numbering predecessor-frontage photo context
 
 `S-213` / `E-193` / `IMG-0742` is an 1895 CCHS bluff photograph in which the project steward identifies the roof/top of the predecessor Main/Fifth frontage later associated with **501/503/505 Main** as visible. For this 505 timeline, use the image only as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context. The `505` number is not visible and should not be backdated to 1895; physical continuity into later numbered or surviving structures remains unproved.
+
+## 1890–1899 — Pre-numbering Main Street photo context
+
+`S-214` / `E-194` / `IMG-0743` is a CCHS Main Street photograph dated **1890–1899**. The steward filename says it looks south from Sixth toward Fifth; if that probable orientation is confirmed, the east-side block later containing **505 Main** is visible along the left side. The `505` number is not visible and should not be backdated; exact storefront identity and physical continuity remain unresolved.

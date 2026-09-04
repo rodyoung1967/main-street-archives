@@ -1413,3 +1413,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Target-frontage note: project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible. Preserve as **PROBABLE / WORKING HYPOTHESIS** for exact target assignment; the photo does not display the later address numbers or resolve internal storefront boundaries.
 - Related map context: `SM-005` / `S-018` / `E-020` (1892 Sanborn).
 - Review: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`
+
+## IMG-0743 — CCHS 2008.008.003.104 Main Street, Oregon City, cataloged 1890–1899
+
+- Type: Institutional historic photograph / Main Street streetscape
+- CCHS external object: `2008.008.003.104`
+- Catalog title: **Main Street, Oregon City**
+- Catalog date: **1890 - 1899**
+- Repository file: `media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg`
+- Status: `committed`
+- Repository derivative: 2399 × 1664; 454,590 bytes; SHA-256 `853afd9db056375c724ad35599a772836a9d3732bf313dc22048e939124fab49`
+- Steward attachment: `Main Street, Oregon City looking south from 6th onto 5th st.jpg`; 2048 × 1420; 527,507 bytes; SHA-256 `69de483d0541125560cbdd263435aa0a69847975c0aacff8a90f732e220605a0`
+- Source/evidence/timeline: `S-214` / `E-194` / `T-077`
+- Other identifiers: **Stevens 104**; **Stevens Photo #102**; **Bill Howell #2000**
+- Catalog note: medium **Negative**; negative location **Society Collection**.
+- Viewpoint note: steward filename says looking south from Sixth toward Fifth; this is preserved as project metadata, not institutional catalog wording. It is compatible with fixed-location CCHS P-1456 (`S-204` / `E-184`) but remains a **PROBABLE / WORKING HYPOTHESIS** until photo-to-photo/map alignment.
+- Target relevance: if that orientation is correct, the east-side Fifth-to-Sixth block later containing 501/503/505 appears on the left side of the view; exact later address divisions and structural continuity remain unresolved.
+- Review: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`

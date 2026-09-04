@@ -1,0 +1,263 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "search_url": "https://api.catalogit.app/api/public/search?query=2008.008.003.104&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/a4d46840-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/main-street-oregon-city-5",
+  "selected_public_derivative": {
+    "key": "public_highres_2x",
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a32e7440-9b7d-11eb-97c3-a30f15c9573f-vdUe7X7.lg@2x.jpg",
+    "width": 1200,
+    "height": 832
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg",
+  "repository_derivative": {
+    "width": 2399,
+    "height": 1664,
+    "bytes": 454590,
+    "sha256": "853afd9db056375c724ad35599a772836a9d3732bf313dc22048e939124fab49"
+  },
+  "steward_attachment": {
+    "filename": "Main Street, Oregon City looking south from 6th onto 5th st.jpg",
+    "width": 2048,
+    "height": 1420,
+    "bytes": 527507,
+    "sha256": "69de483d0541125560cbdd263435aa0a69847975c0aacff8a90f732e220605a0"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Main Street, Oregon City",
+    "entry_object_id": "2008.008.003.104",
+    "description": "Main Street, Oregon City",
+    "date_made": "1890 - 1899",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_number": "Stevens 104",
+    "stevens_photo_number": "102",
+    "other_photo_number": "Bill Howell #2000"
+  },
+  "steward_viewpoint_annotation": "The project-steward supplied filename identifies the scene as looking south from Sixth Street toward Fifth Street on Main Street. This wording is preserved as steward metadata, not as CCHS catalog text.",
+  "entry": {
+    "id": "a4d46840-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "main-street-oregon-city-5",
+    "media": [
+      {
+        "uuid": "a32e7440-9b7d-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "O.C. Main Street, 1890s",
+        "description": "Origformat: Negative",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/a32e7440-9b7d-11eb-97c3-a30f15c9573f-sunD1o5.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/a32e7440-9b7d-11eb-97c3-a30f15c9573f-sunD1ub.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a32e7440-9b7d-11eb-97c3-a30f15c9573f-vdUe7X7.sm@1x.jpg",
+            "width": 768,
+            "height": 533
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a32e7440-9b7d-11eb-97c3-a30f15c9573f-vdUe7X7.sm@2x.jpg",
+            "width": 768,
+            "height": 533
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a32e7440-9b7d-11eb-97c3-a30f15c9573f-vdUe7X7.lg@1x.jpg",
+            "width": 1200,
+            "height": 832
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a32e7440-9b7d-11eb-97c3-a30f15c9573f-vdUe7X7.lg@2x.jpg",
+            "width": 1200,
+            "height": 832
+          },
+          "dominant_color": "FCFDFD",
+          "complementary_color": "FDFCFC"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Main Street, Oregon City",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.003.104",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Main Street, Oregon City",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1890",
+                "fuzzydate_date": "1890-01-01T00:00:00.000Z"
+              },
+              "fuzzydate_to": {
+                "fuzzydate_value": "1899",
+                "fuzzydate_date": "1899-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Stevens 104; Stevens Photo #: 102; Other Photo #: Bill Howell #2000",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000030000000104",
+    "prev_id": "4bc1d350-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "93bfd940-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

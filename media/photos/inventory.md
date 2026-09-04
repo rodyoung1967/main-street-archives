@@ -146,3 +146,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Institutional metadata: Oregon City from bluff/top of 3rd Street Stairs, looking downriver; 1895; Stevens 125.
 - Source/evidence/timeline: `S-213` / `E-193` / `T-076`.
 - Target relevance: the later 501/503/505 predecessor-frontage roof/top is a steward-identified, map-compatible **PROBABLE / WORKING HYPOTHESIS**; no 1895 numbered-address or building-continuity claim.
+
+### IMG-0743 — CCHS 2008.008.003.104 Main Street, Oregon City, 1890–1899
+- File: `media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg`
+- Institutional metadata: Main Street, Oregon City; date range 1890–1899; Stevens 104 / Stevens Photo #102 / Bill Howell #2000.
+- Source/evidence/timeline: `S-214` / `E-194` / `T-077`.
+- Spatial use: steward filename identifies a Sixth-to-Fifth southward view; treat as probable pending alignment with P-1456 and 1892/1900 Sanborns. No later-address or building-continuity inference.

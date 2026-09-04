@@ -477,3 +477,9 @@ A second CCHS catalog object, MOT:P-498 (`S-211` / `E-191` / `IMG-0740`), preser
 CCHS `2008.008.003.125` (`S-213` / `E-193` / `IMG-0742` / `T-076`) catalogs a photograph made from the top of the 3rd Street Stairs looking downriver in **1895**. The project steward identifies the visible roof/top of the predecessor frontage later associated with 501/503/505 Main. The 1892 Sanborn independently establishes developed commercial frontage in the area.
 
 The specific later-address roofline mapping remains **PROBABLE / WORKING HYPOTHESIS**: the photo does not display 501/503/505 numbers, does not prove one physical building covered all three later spaces, and does not bridge continuity to the post-1922 structures.
+
+## 1890–1899 — Main Street street-level photograph / Sixth-to-Fifth viewpoint candidate
+
+CCHS `2008.008.003.104` (`S-214` / `E-194` / `IMG-0743` / `T-077`) catalogs a **Main Street, Oregon City** photograph to **1890–1899**. The steward filename identifies a southward view from Sixth toward Fifth; existing P-1456 (`S-204` / `E-184`) independently establishes a CCHS 1890 Sixth/Main-looking-south viewpoint and makes that interpretation plausible.
+
+If confirmed, the later 501/503/505 block is visible on the east/left side of Main. Exact storefront boundaries, specific exposure year, pre-1906 numbered addresses, occupancy and continuity remain unresolved.

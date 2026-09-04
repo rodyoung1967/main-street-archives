@@ -1177,3 +1177,11 @@ sources:
     related_evidence: [E-193]
     related_media: [IMG-0742]
 
+  - id: S-214
+    name: "Clackamas County Historical Society 2008.008.003.104, Main Street, Oregon City"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/main-street-oregon-city-5"
+    repository_file: "media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg"
+    notes: "CCHS 2008.008.003.104; Main Street, Oregon City; date range 1890-1899. Steward filename says south from Sixth toward Fifth; project metadata only, probable pending P-1456/Sanborn alignment. No pre-1906 numbered-address or structural-continuity inference. Related E-194/IMG-0743/T-077."
+    related_evidence: [E-194]
+    related_media: [IMG-0743]
+

@@ -427,3 +427,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Added `S-213` / `E-193` / `T-076` and synchronized source/evidence/building/timeline/photo/crosswalk records.
 - Project steward identifies the roof/top of the predecessor frontage later associated with 501/503/505 Main as visible. Archive classification for that exact spatial assignment is **PROBABLE / WORKING HYPOTHESIS**, compatible with 1892 Sanborn developed-frontage context.
 - Explicitly did not backdate 501/503/505 street numbers to 1895, did not claim a single building spanned all three later address spaces, and did not infer continuity into the post-1922 structures.
+
+## 4 September 2026 — CCHS 1890–1899 Main Street photograph 2008.008.003.104
+
+- Checked current `main`; exact object `2008.008.003.104` was not already registered.
+- Preserved the largest public derivative from the exact CCHS object as `IMG-0743` and tracked the steward upload separately by filename, dimensions, bytes and SHA-256.
+- Added `S-214` / `E-194` / `T-077` and synchronized source/evidence/building/timeline/photo/crosswalk/map-comparison records.
+- CCHS metadata is limited to **Main Street, Oregon City** and **1890–1899**. The steward filename's **looking south from Sixth toward Fifth** wording is preserved as project metadata, not institutional catalog wording.
+- The proposed viewpoint is compatible with fixed-location P-1456 (`S-204` / `E-184`), but exact camera position and storefront-to-later-501/503/505 mapping remain **PROBABLE / WORKING HYPOTHESIS** pending photo/Sanborn alignment.
+- Explicitly did not backdate 501/503/505 street numbers, select a single exposure year, or infer continuity into later numbered or post-1922 structures.

@@ -427,3 +427,15 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Related map context: `SM-005` / `S-018` / `E-020`.
 - Limit: no pre-1906 numbered-address, one-building, occupancy, ownership or continuity inference.
 - Review: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`.
+
+## S-214 / E-194 / IMG-0743 / T-077 — CCHS 1890–1899 Main Street photograph
+
+- Source: `S-214` — CCHS `2008.008.003.104`.
+- Evidence: `E-194` — direct Main Street/date-range streetscape; probable Sixth-to-Fifth viewpoint and later-address mapping.
+- Media: `IMG-0743` — full public CCHS derivative.
+- Timeline: `T-077` — 1890–1899 photograph context.
+- Related buildings: `B-005` 501, `B-001` 503, `B-002` 505 (later-address spatial context only).
+- Related fixed-location photo: `S-204` / `E-184` / `IMG-0733`.
+- Related map context: `SM-005` / `S-018`; `SM-006` / `S-019`; `E-020`.
+- Limit: no pre-1906 numbered-address, exact exposure-year, storefront-boundary, occupancy, ownership or continuity inference.
+- Review: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`.
