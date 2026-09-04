@@ -2,9 +2,9 @@
 
 Date reviewed: 4 September 2026
 
-Status: **VISUALLY VERIFIED OFFICIAL-REPORT BIBLIOGRAPHY AND SURVEY-FORM CUSTODY ROUTE + UNRESOLVED UNDERLYING SOURCE FOR 1945 HARR ENTRY.**
+Status: **VISUALLY VERIFIED OFFICIAL-REPORT BIBLIOGRAPHY AND SURVEY-FORM CUSTODY ROUTE + DIRECTORY-BASED CITY SYNTHESIS WITH EXACT 1945 DIRECTORY/PAGE UNRESOLVED.**
 
-Purpose: clarify the provenance of Oregon City's official-secondary statement placing **Harr's Recreation Center at 505 Main in 1945**. This does not weaken that statement as an official-secondary chronology anchor; it corrects an over-specific project description that had called it a "1945 directory entry" before the exact underlying source was recovered.
+Purpose: clarify the provenance of Oregon City's official-secondary statement placing **Harr's Recreation Center at 505 Main in 1945**. This does not weaken that statement as an official-secondary chronology anchor; it corrects an over-specific project description that had called it a "1945 directory entry" before the exact directory title/page was recovered.
 
 ## Official report inspected
 
@@ -27,6 +27,19 @@ This is now the highest-value direct provenance route for the 505 chronology. Be
 
 The report identifies the 2000 consultant as **Michelle L. Dennis**, not Alex McMurry. Alex McMurry / HPNW is associated with the separate 2002 401 Third Street survey form that independently identifies Edwin and Alice Farr as Farr's Pool Hall proprietors. Keep those survey projects/researchers distinct.
 
+## Current SHPO digital / hard-copy route
+
+Oregon SHPO's current official **Survey Historic Places** page states that the **Oregon Statewide Inventory** is accessed through the public **Oregon Historic Sites Database** and instructs researchers to contact SHPO when additional information may exist beyond the online database.
+
+Official routes:
+
+- Survey / inventory information: `https://www.oregon.gov/oprd/oh/pages/survey.aspx`
+- Historic Sites Database: `https://heritagedata.prd.state.or.us/historic/`
+
+The Historic Sites Database itself says a **City and Street Name** search is the normal way to locate properties. The current SHPO built-environment survey contact listed on the official page is **Evan West**, and the page separately gives the general Oregon Heritage/SHPO contact route.
+
+This means the 505 form should first be searched in the public database, but a missing or incomplete online record does not exhaust the source: SHPO explicitly says additional information can exist beyond the online database.
+
 ## Visually verified Selected Bibliography
 
 PDF page index 22 / printed page 21 is headed **SELECTED BIBLIOGRAPHY**. It visibly lists, among other sources:
@@ -40,7 +53,17 @@ PDF page index 22 / printed page 21 is headed **SELECTED BIBLIOGRAPHY**. It visi
 
 Crucially, the selected bibliography does **not** list a Pacific Directory Service or other city directory dated **1945**.
 
-Because the heading is **Selected Bibliography**, absence of a 1945 title is not proof that no 1945 source existed or was consulted. It does mean the project should not identify the City synthesis's 1945 Harr statement specifically as a "1945 directory entry" unless the 505 property survey sheet, working files, or another source note explicitly establishes that provenance.
+Because the heading is **Selected Bibliography**, absence of a 1945 title is not proof that no 1945 directory existed or was consulted. It does mean the project should not identify the City synthesis's 1945 Harr statement as coming from a specifically identified **1945 directory volume/page** until the 505 property survey sheet, working files, or another source note supplies that citation.
+
+## Relationship to registered `S-033`
+
+The repository's registered `S-033` describes the legacy City 505 resource page as an **official secondary construction interpretation and directory synthesis**. An earlier preserved review of that live legacy page likewise characterized the recreation-business sequence through Well's Recreation as directory-based.
+
+Accordingly, the source-class issue is narrower than first thought:
+
+- retain **directory synthesis** as the City page's source context;
+- treat the **exact directory title, edition/effective year, and page behind the 1945 Harr entry** as unresolved;
+- do not assume that the underlying volume itself was titled or published in 1945 merely because the City chronology assigns Harr to 1945.
 
 ## 505 survey-data context
 
@@ -50,27 +73,24 @@ The repository's separate registered City 505 resource page (`S-033` / `E-032`) 
 
 ## Correct evidence wording
 
-Until the underlying 1945 source is recovered, use:
+Until the underlying directory citation is recovered, use:
 
-> **City historic-resource synthesis reports Harr's Recreation Center at 505 Main in 1945; exact underlying contemporary source/page remains unresolved.**
+> **City historic-resource directory synthesis reports Harr's Recreation Center at 505 Main in 1945; exact underlying directory title/effective year/page remains unresolved.**
 
-Do **not** use:
+Avoid wording that implies the project has already inspected a specific 1945 directory page.
 
-> "The City synthesis transcribes a 1945 directory entry"
-
-unless later source recovery proves that exact proposition.
-
-The later-1948 municipal license list remains independent direct text identifying **Carl R. Harr — Harr's Recreation Center — 505 Main Street**, so this provenance correction does not reopen the question of whether Harr's was a real, separate 505 business. It only leaves the **1945 source type and exact transition date** unresolved.
+The later-1948 municipal license list remains independent direct text identifying **Carl R. Harr — Harr's Recreation Center — 505 Main Street**, so this provenance correction does not reopen the question of whether Harr's was a real, separate 505 business. It leaves the **exact 1945 directory citation and Farr→Harr transition date** unresolved.
 
 ## Highest-value next provenance checks
 
 1. Retrieve the **2000 individual 505 Main Oregon Inventory of Historic Properties Historic Resource Survey Form** from the City of Oregon City copy set or the original SHPO holdings; inspect every page for the 1941/1945/1953 occupancy chronology and source annotations.
-2. Ask for any retained **research worksheets, source notes, correspondence, or project files** associated with that 505 form and the 2000 downtown re-survey.
-3. Keep the separate **2002 Alex McMurry / HPNW 401 Third Street form** as an independent Farr identity/business source; do not conflate its researcher/project provenance with the 2000 downtown re-survey.
-4. Search Clackamas County Historical Society history files because the 2000 report explicitly lists them as a source class.
-5. Inspect the actual **1941 Oregon City** and **1947-48 Clackamas County** Pacific Directory volumes already identified in separate access leads.
-6. Continue the independent **1944-48 municipal/OLCC license-renewal route**; a direct 1945-47 license or endorsement record would resolve the chronology without depending on the survey's unidentified underlying source.
+2. Search the public **Oregon Historic Sites Database** by Oregon City + Main + 505; if the online record lacks the historical/source pages, request the additional SHPO file material.
+3. Ask for any retained **research worksheets, source notes, correspondence, or project files** associated with that 505 form and the 2000 downtown re-survey.
+4. Keep the separate **2002 Alex McMurry / HPNW 401 Third Street form** as an independent Farr identity/business source; do not conflate its researcher/project provenance with the 2000 downtown re-survey.
+5. Search Clackamas County Historical Society history files because the 2000 report explicitly lists them as a source class.
+6. Inspect the actual **1941 Oregon City** and **1947-48 Clackamas County** Pacific Directory volumes already identified in separate access leads.
+7. Continue the independent **1944-48 municipal/OLCC license-renewal route**; a direct 1945-47 license or endorsement record would resolve the chronology without depending on the survey's unidentified exact directory citation.
 
 ## Evidence boundary
 
-This finding proves what the official 2000 report visibly says about the survey project, survey-form custody, selected bibliography, and Appendix A. It does not prove no 1945 directory existed, no unpublished directory was consulted, or that the 1945 Harr chronology is wrong. The correct state is **OFFICIAL SECONDARY CLAIM / UNDERLYING SOURCE PROVENANCE UNRESOLVED**, with the individual 505 survey form now a precisely identified retrieval target.
+This finding proves what the official 2000 report visibly says about the survey project, survey-form custody, selected bibliography, and Appendix A; the registered legacy 505 City page remains a directory synthesis. It does not prove no 1945 directory existed, no directory was consulted, or that the 1945 Harr chronology is wrong. The correct state is **OFFICIAL SECONDARY DIRECTORY-SYNTHESIS CLAIM / EXACT UNDERLYING DIRECTORY CITATION UNRESOLVED**, with the individual 505 survey form now a precisely identified retrieval target.
