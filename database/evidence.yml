@@ -2937,3 +2937,13 @@ evidence:
     related_people: [P-001, P-076]
     related_businesses: [BUS-007, BUS-067]
     related_buildings: [B-002]
+
+  - id: E-192
+    name: "CCHS catalogs 1890 Bank of Commerce interior at 512 Main"
+    type: "Institutional photograph/catalog metadata plus direct visual review; documented/visually verified with address/date/institution-name/person-identification cautions"
+    claims:
+      - "CCHS 2008.008.049.056 catalogs Interior of the Oregon City Bank of Commerce, date 1890, and describes it as (1st National), 512 Main, with Latourette and Myers followed by a question mark."
+      - "The supplied photograph visibly shows a historic bank/office interior with a long service counter and teller-style partitioning; it does not visibly print 512 Main, 1890, the bank name, or person names."
+      - "Catalog metadata supplies Negative; Society Collection; Lynch-Criteser 056; Freytag Collection #1."
+    confidence: "Very High for exact catalog wording and visible interior content; unresolved for date/address precision, institutional-name chronology, person identities and structural continuity."
+    related_sources: [S-212]

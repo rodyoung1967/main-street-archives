@@ -167,3 +167,7 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0740 — CCHS MOT:P-498 Harding Drug Store, 505 Main, circa 1885
 
 `IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg` preserves the largest live public CCHS derivative recovered from the MOT:P-498 record. The steward supplied a 2048 × 1359 JPEG of the same catalog object; its exact SHA-256 is recorded in `S-211` and the photo metadata register. The full frame visibly shows the George A. Harding storefront but no readable street number. It appears to be the same underlying exposure as `IMG-0724`; both are retained because IMG-0724 is only a 400 × 400 crop attached to a different institutional object/date record. See `E-191` for retrospective-address/date cautions.
+
+## IMG-0741 — CCHS 2008.008.049.056 Bank of Commerce interior, 512 Main, cataloged 1890
+
+`IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg` preserves the largest public image derivative recovered from the exact CCHS catalog-number record. The steward-supplied image was visually reviewed and is tracked by its original dimensions, byte count and SHA-256 in `media/photo-metadata-register.md`. CCHS catalogs the scene as the **Interior of the Oregon City Bank of Commerce**, **512 Main**, **1890**; those are institutional metadata rather than text visible in the image. The description's **“Latourette and Myers ?”** remains explicitly uncertain. See `S-212` / `E-192` and `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`.

@@ -407,3 +407,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Related entities: `BUS-007` Harding Drug Store; `P-001` George A. Harding; `B-002` 505 Main; context `BUS-067` / `P-076` George Young.
 - Related prior image record: `S-148` / `E-133` / `IMG-0724` (apparent same exposure, 400 × 400 crop, distinct CCHS object and 1880/1880s metadata).
 - Review: `evidence/source-captures/circa-1885-cchs-p498-harding-drug-store-505-main-photo-2026-09-04.md`.
+
+## S-212 / E-192 / IMG-0741 — CCHS 2008.008.049.056 Bank of Commerce interior
+
+- Source: `S-212` — exact CCHS catalog-number record for **Interior of the Oregon City Bank of Commerce**.
+- Evidence: `E-192` — cataloged **1890 / 512 Main** and direct interior-image content, with attribution limits.
+- Media: `IMG-0741` — `media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg`.
+- Other institutional identifiers: **Lynch-Criteser 056**; **Freytag Collection #1**.
+- Limits: **“(1st National)”** and **“Latourette and Myers ?”** remain catalog/uncertain wording; no modern-building, ownership, person-identity, or 503/505 continuity is asserted.
+- Review: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`.

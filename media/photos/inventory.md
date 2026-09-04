@@ -134,3 +134,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Full storefront frame; materially broader than the existing 400 × 400 `IMG-0724` crop of the apparent same historical exposure.
 - Repository SHA-256: `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`; steward attachment SHA-256: `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`.
 - 505 address is institutional retrospective metadata; no number is visible in the image.
+
+### IMG-0741 — CCHS 2008.008.049.056 Bank of Commerce interior, 512 Main, cataloged 1890
+- File: `media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg`
+- Institutional metadata: Interior of the Oregon City Bank of Commerce; 512 Main; 1890; Lynch-Criteser 056 / Freytag Collection #1.
+- Source/evidence: `S-212` / `E-192`.
+- Limit: address/date/name are catalog metadata; “Latourette and Myers ?” remains uncertain and no building continuity is inferred.

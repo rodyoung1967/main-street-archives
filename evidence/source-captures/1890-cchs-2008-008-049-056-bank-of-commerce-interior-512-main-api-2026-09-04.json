@@ -1,0 +1,256 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "search_url": "https://api.catalogit.app/api/public/search?query=2008.008.049.056&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/9c6f34f0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/interior-of-the-oregon-city-bank-of-commerce",
+  "selected_public_derivative": {
+    "key": "public_highres_2x",
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/31acb660-9b55-11eb-97c3-a30f15c9573f-vdUe5Td.lg@2x.jpg",
+    "width": 1200,
+    "height": 811
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg",
+  "repository_derivative": {
+    "width": 2400,
+    "height": 1622,
+    "bytes": 1562361,
+    "sha256": "188e381b438d99e60dd0bb8203de7dd7909a76e18c8f7758d5d9e128ab28f0d2"
+  },
+  "steward_attachment": {
+    "filename": "Interior of the Oregon City Bank of Commerce, 512 Main St 1890(1).jpg",
+    "width": 2048,
+    "height": 1384,
+    "bytes": 1614953,
+    "sha256": "892ac908cbed6ab49381e890ecedce0410bb936f709a8f326ef969874f0c11a0"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Interior of the Oregon City Bank of Commerce",
+    "entry_object_id": "2008.008.049.056",
+    "description": "Interior of the Oregon City Bank of Commerce (1st National), 512 Main. Latourette and Myers ?",
+    "date_made": "1890",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_number": "Lynch-Criteser 056",
+    "other_photo_number": "Freytag Collection #1"
+  },
+  "entry": {
+    "id": "9c6f34f0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "interior-of-the-oregon-city-bank-of-commerce",
+    "media": [
+      {
+        "uuid": "31acb660-9b55-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Interior of Bank of Commerce, 512 Main, O.C., 1890",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/31acb660-9b55-11eb-97c3-a30f15c9573f-suls7Jd.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/31acb660-9b55-11eb-97c3-a30f15c9573f-suls7Mf.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/31acb660-9b55-11eb-97c3-a30f15c9573f-vdUe5Td.sm@1x.jpg",
+            "width": 768,
+            "height": 519
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/31acb660-9b55-11eb-97c3-a30f15c9573f-vdUe5Td.sm@2x.jpg",
+            "width": 768,
+            "height": 519
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/31acb660-9b55-11eb-97c3-a30f15c9573f-vdUe5Td.lg@1x.jpg",
+            "width": 1200,
+            "height": 811
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/31acb660-9b55-11eb-97c3-a30f15c9573f-vdUe5Td.lg@2x.jpg",
+            "width": 1200,
+            "height": 811
+          },
+          "dominant_color": "FAF5F5",
+          "complementary_color": "F5FAFA"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Interior of the Oregon City Bank of Commerce",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.049.056",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Interior of the Oregon City Bank of Commerce (1st National), 512 Main.\r\nLatourette and Myers ?",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1890",
+                "fuzzydate_date": "1890-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Lynch-Criteser 056; Other Photo #: Freytag Collection #1",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000490000000056",
+    "prev_id": "b8a1b930-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "92b12860-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

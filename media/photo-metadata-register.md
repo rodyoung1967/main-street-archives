@@ -1379,3 +1379,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Visual note: Full frame visibly shows the George A. Harding fascia, display windows, central entrance, merchandise and several posed men; no readable street number is visible.
 - Duplicate/provenance note: Appears to be the same underlying exposure as `IMG-0724`, but `IMG-0724` is only a 400 × 400 crop tied to a different CCHS catalog object and 1880/1880s metadata. MOT:P-498 is retained as a materially fuller frame and distinct institutional record.
 - Historical caution: `505 Main` and circa 1885 are catalog metadata. The 2022 Harding/Young move annotation is retrospective and is not treated as a contemporary transfer record or proof of present-building continuity.
+
+## IMG-0741 — CCHS 2008.008.049.056 Interior of Oregon City Bank of Commerce, 512 Main, cataloged 1890
+
+- Type: Institutional historic photograph / interior view
+- CCHS external object: `2008.008.049.056`
+- Catalog title: **Interior of the Oregon City Bank of Commerce**
+- Catalog date: **1890**
+- Catalog location: **512 Main, Oregon City** (institutional metadata; not image-visible)
+- Repository file: `media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg`
+- Status: `committed`
+- Repository derivative: 2400 × 1622; 1,562,361 bytes; SHA-256 `188e381b438d99e60dd0bb8203de7dd7909a76e18c8f7758d5d9e128ab28f0d2`
+- Steward attachment: `Interior of the Oregon City Bank of Commerce, 512 Main St 1890(1).jpg`; 2048 × 1384; 1,614,953 bytes; SHA-256 `892ac908cbed6ab49381e890ecedce0410bb936f709a8f326ef969874f0c11a0`
+- Source/evidence: `S-212` / `E-192`
+- Other identifiers: **Lynch-Criteser 056**; **Freytag Collection #1**
+- Catalog note: medium **Negative**; negative location **Society Collection**.
+- Interpretation limit: the catalog's **“(1st National)”** and **“Latourette and Myers ?”** wording is preserved as institutional/uncertain metadata; the image does not visibly prove the address, date, institution name, or person identities. No structural continuity to a modern building is inferred.
+- Review: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`

@@ -411,3 +411,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 | 2026-09-04 | Integrated CCHS MOT:P-370 Young's Curio Store photograph | Preserved current CCHS public derivative as `IMG-0739` and recorded the steward upload's exact hash/dimensions. Visible sign verified. Catalog supplies 507 Main and 1916, but duplicate note says same picture MOT:P-6253 is dated 1907; recorded as unresolved under `E-190` / `RL-051`. | Retrieve MOT:P-6253 and CCHS date-control/postcard provenance before using MOT:P-370 as a 1916 occupancy anchor. |
 
 - **4 Sep 2026 — CCHS MOT:P-498 Harding full-frame integration:** Preserved `IMG-0740` / `S-211` / `E-191`, cataloged **Harding Drug Store - 505 Main Street**, circa 1885. Full frame visually reviewed; no street number visible. Recorded steward attachment `Harding Drug Store - 505 Main Street.jpg` (2048×1359, SHA-256 `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`) and recovered the largest live public CCHS derivative (SHA-256 `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`). Kept separate from `IMG-0724` because that record is only a 400×400 crop tied to a distinct CCHS object and 1880/1880s metadata. Preserved the JAH 11/2022 Harding→Young note as retrospective annotation, not a contemporary exact-date fact. CCHS MOT:P-498 Harding full-frame integration.
+
+## 4 September 2026 — CCHS 1890 Bank of Commerce interior, cataloged 512 Main
+
+- Checked current `main` before integration; exact object `2008.008.049.056` was not already registered.
+- Preserved the largest public derivative recovered from the exact CCHS record as `IMG-0741` and recorded the steward upload hash/dimensions separately for provenance.
+- Added `S-212` / `E-192` plus API/source captures and synchronized media/source/evidence/crosswalk records.
+- Preserved **“(1st National)”** and **“Latourette and Myers ?”** as catalog wording rather than positive identification. The image does not visibly prove 512 Main, 1890, the bank name or the people; no present-building or 503/505 continuity was inferred.
+- Validator must pass before the integration commit is pushed.
