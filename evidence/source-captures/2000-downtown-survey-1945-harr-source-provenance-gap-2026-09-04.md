@@ -2,17 +2,30 @@
 
 Date reviewed: 4 September 2026
 
-Status: **VISUALLY VERIFIED OFFICIAL-REPORT BIBLIOGRAPHY + UNRESOLVED UNDERLYING SOURCE FOR 1945 HARR ENTRY.**
+Status: **VISUALLY VERIFIED OFFICIAL-REPORT BIBLIOGRAPHY AND SURVEY-FORM CUSTODY ROUTE + UNRESOLVED UNDERLYING SOURCE FOR 1945 HARR ENTRY.**
 
 Purpose: clarify the provenance of Oregon City's official-secondary statement placing **Harr's Recreation Center at 505 Main in 1945**. This does not weaken that statement as an official-secondary chronology anchor; it corrects an over-specific project description that had called it a "1945 directory entry" before the exact underlying source was recovered.
 
 ## Official report inspected
 
-City of Oregon City, **Downtown Oregon City Historic Resource Survey — Final Report** (2000):
+City of Oregon City, **Oregon City Historic Downtown Re-Survey — Final Report** (September 2000), prepared for the City by **Michelle L. Dennis, Historic Preservation Consultant**:
 
 `https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF`
 
 The original City PDF was opened and the relevant pages were visually inspected on 4 September 2026.
+
+## Visually verified project/custody statement
+
+The report's introduction states that the downtown re-survey generated **fifty-nine (59) Oregon Inventory of Historic Properties Historic Resource Survey Forms** — 57 buildings/structures and two sites where buildings documented in the 1983 survey had been demolished.
+
+It further states that each form provides **architectural and historical information**, a black-and-white photograph, and a locator map, and gives a concrete custody/access route:
+
+- **copies of the report and inventory forms are available through the City of Oregon City**;
+- **the original forms are housed at the State Historic Preservation Office (SHPO) in Salem**.
+
+This is now the highest-value direct provenance route for the 505 chronology. Because 505 Main appears in the project's Appendix A survey-data table, the project should specifically request/retrieve the **individual 505 Main survey form** and any associated research/source notes from the City and/or SHPO.
+
+The report identifies the 2000 consultant as **Michelle L. Dennis**, not Alex McMurry. Alex McMurry / HPNW is associated with the separate 2002 401 Third Street survey form that independently identifies Edwin and Alice Farr as Farr's Pool Hall proprietors. Keep those survey projects/researchers distinct.
 
 ## Visually verified Selected Bibliography
 
@@ -51,12 +64,13 @@ The later-1948 municipal license list remains independent direct text identifyin
 
 ## Highest-value next provenance checks
 
-1. Recover the underlying **505 Main individual survey/resource form and research notes** used for `S-033`, especially any source annotations beside the 1941, 1945 and 1953 occupancy rows.
-2. Ask/search Oregon City Planning historic-resource files and any retained **HPNW / Alex McMurry / Downtown Survey working files** for the 505 property research sheet.
-3. Search Clackamas County Historical Society history files because the 2000 report explicitly lists them as a source class.
-4. Inspect the actual **1941 Oregon City** and **1947-48 Clackamas County** Pacific Directory volumes already identified in separate access leads.
-5. Continue the independent **1944-48 municipal/OLCC license-renewal route**; a direct 1945-47 license or endorsement record would resolve the chronology without depending on the survey's unidentified underlying source.
+1. Retrieve the **2000 individual 505 Main Oregon Inventory of Historic Properties Historic Resource Survey Form** from the City of Oregon City copy set or the original SHPO holdings; inspect every page for the 1941/1945/1953 occupancy chronology and source annotations.
+2. Ask for any retained **research worksheets, source notes, correspondence, or project files** associated with that 505 form and the 2000 downtown re-survey.
+3. Keep the separate **2002 Alex McMurry / HPNW 401 Third Street form** as an independent Farr identity/business source; do not conflate its researcher/project provenance with the 2000 downtown re-survey.
+4. Search Clackamas County Historical Society history files because the 2000 report explicitly lists them as a source class.
+5. Inspect the actual **1941 Oregon City** and **1947-48 Clackamas County** Pacific Directory volumes already identified in separate access leads.
+6. Continue the independent **1944-48 municipal/OLCC license-renewal route**; a direct 1945-47 license or endorsement record would resolve the chronology without depending on the survey's unidentified underlying source.
 
 ## Evidence boundary
 
-This finding proves only what the official 2000 report visibly includes in its **selected** bibliography and summary table. It does not prove no 1945 directory existed, no unpublished directory was consulted, or that the 1945 Harr chronology is wrong. The correct state is **OFFICIAL SECONDARY CLAIM / UNDERLYING SOURCE PROVENANCE UNRESOLVED**.
+This finding proves what the official 2000 report visibly says about the survey project, survey-form custody, selected bibliography, and Appendix A. It does not prove no 1945 directory existed, no unpublished directory was consulted, or that the 1945 Harr chronology is wrong. The correct state is **OFFICIAL SECONDARY CLAIM / UNDERLYING SOURCE PROVENANCE UNRESOLVED**, with the individual 505 survey form now a precisely identified retrieval target.
