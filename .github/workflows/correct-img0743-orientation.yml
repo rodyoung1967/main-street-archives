@@ -30,6 +30,9 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install validator dependency
+        run: python3 -m pip install pyyaml
+
       - name: Validate archive before correction
         run: python3 scripts/validate_archive.py
 
