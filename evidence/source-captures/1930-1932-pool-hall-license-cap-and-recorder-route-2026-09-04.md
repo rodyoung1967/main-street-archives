@@ -69,6 +69,37 @@ During this pass:
 
 Under project policy, these are **retrieval/indexing gaps**, not evidence that the records or licensees did not exist. No operator/address claim is promoted from search silence.
 
+## 4 September 2026 follow-up — direct HPRM record boundary located
+
+A public-search result now exposes the City's legacy HPRM/WebDrawer document directly:
+
+- `https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723030/File/document`
+- content type: PDF;
+- four pages in the exposed record segment;
+- OCR/text begins with the **2 March 1932 regular meeting**, including the full recovered Ordinance 1234 first-reading text;
+- the same first page continues into the **4 March 1932 adjourned meeting**;
+- the record then proceeds through the March 4 finance material and, on the fourth page, begins the **6 April 1932 regular meeting**.
+
+### Specific retrieval-gap conclusion
+
+The promised **16 March 1932 special meeting** is **not contained in this exposed four-page record segment** between the March 4 and April 6 entries. This materially narrows the retrieval problem: the March 16 minutes appear to be a separate, omitted, differently indexed, or presently unavailable record rather than text merely hidden later in this same PDF segment.
+
+The available OCR for the March 2 page states that Ordinance 1234 was to return for second reading and final passage at a special meeting on **16 March 1932 at 1:00 P.M.** The April 6 page later says the minutes of the previous meeting were read and approved, but the exposed segment does not itself identify or reproduce those intervening minutes. Do **not** infer final passage solely from the April 6 approval language.
+
+A page-image screenshot attempt against the direct HPRM PDF failed because the source could not be fetched from cache. Therefore the March 2 document remains **OCR/TEXT ONLY / RETRIEVAL GAP FOR VISUAL VERIFICATION** under project policy despite the stronger direct-record URL.
+
+### Exact records request / archive target now justified
+
+Request or retrieve from the City Recorder / E-Vault:
+
+1. the complete City Commission minutes for the **special meeting of 16 March 1932, 1:00 P.M.**;
+2. **Ordinance 1234** as finally enrolled/adopted, including passage date and signatures;
+3. **Ordinance 1219**, passed **3 September 1930**, including all sections governing pool-hall licensing;
+4. any **City Recorder license register, license book, receipt book, application file, transfer file, petition, or renewal record** for pool/billiard rooms covering **August–October 1930** and **February–April 1932**, preferably the continuous 1930–1932 volume if one survives;
+5. for each pool/billiard entry, capture **licensee, trade/business name, premises/address, issue date, term/expiration, fee, transfer notation, denial/appeal, and any table-count or bond information**.
+
+Search-name controls remain: **Edwin F. Farr, Edwin Franklin Farr, E. F. Farr, Alice Farr, Farr's Pool Hall, 505 Main, 505½ Main**, plus all other licensed pool-room operators found in the record. No identity merge or 505 assignment should be made until a contemporary bridge is found.
+
 ## Immediate next retrieval targets
 
 1. **Ordinance 1219**, passed 3 September 1930 — obtain the original ordinance or meeting page and visually verify its full regulatory mechanism.
