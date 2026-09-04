@@ -47,3 +47,6 @@ Preliminary aerial comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** suggests 
 - Treat the 503 restaurant label as consistent with later Kwality Cafe research, but not proof of the Kwality name.
 - Treat the 505 billiards/cigars/beer pattern as useful background for later 505 tavern/bar-lineage research.
 - Keep the reported c.1919 construction estimate for the surviving 503 building separate from proof of the earlier commercial frontage at this location.
+
+### Photographic corroboration — CCHS U-1426.005098a
+`IMG-0736` / `E-187` adds a visually verified demolition photograph cataloged by CCHS as the **Post Office at 5th and Main** and states that the building was **constructed in 1933**. This independently agrees with the 1950 Sanborn's **U.S. Post Office — BUILT 1933** notation at the southeast Fifth/Main corner. The photograph does **not** supply its demolition/exposure date. Spatially, the Post Office is on the same east side of Main as 501/503/505 but across Fifth Street from 501 on the Fourth-to-Fifth block.

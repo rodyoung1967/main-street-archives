@@ -1566,3 +1566,17 @@ Repository image: `media/photos/early-main-street/IMG-0735_undated-downtown-oreg
 Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.  
 Related evidence: `E-186`.  
 Use limit: useful historic downtown/block-level visual evidence; exact date, camera position, Fourth–Sixth street mapping and individual building/address identities remain unresolved.
+
+## S-207 — Clackamas County Historical Society photograph U-1426.005098a, demolition of the Post Office at Fifth and Main
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / IMAGE VISUALLY VERIFIED / EXACT BYTE MATCH**.  
+Holding institution: Clackamas County Historical Society.  
+Entry/Object ID: `U-1426.005098a`.  
+Catalog title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**.  
+Catalog description: **Demolition of the Post Office, Oregon City, constructed in 1933**.  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/demolition-of-the-post-office-at-5th-and-main-oregon-city-constructed-in-1933.  
+API lookup: https://api.catalogit.app/api/public/search?query=U-1426.005098a&size=50  
+Original supplied filename: `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg`; 981 × 776; 145571 bytes; SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`.  
+Repository image: `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg` (`IMG-0736`), exact byte match to the supplied file and current CCHS public high-resolution derivative.  
+Date boundary: catalog says the Post Office was constructed in **1933** but does not date the demolition photograph. Existing Sanborn evidence `E-102` independently records the southeast Fifth/Main U.S. Post Office as **BUILT 1933**.  
+Spatial boundary: same east side of Main as 501/503/505, but on the opposite side of Fifth Street from 501; the pictured Post Office is not part of the 501/503/505 block.  
+Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`. Related evidence: `E-187`.

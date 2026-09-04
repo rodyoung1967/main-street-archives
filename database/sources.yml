@@ -1116,3 +1116,15 @@ sources:
     - E-186
     related_media:
     - IMG-0735
+
+  - id: S-207
+    name: Clackamas County Historical Society photograph U-1426.005098a, demolition of the Post Office at Fifth and Main
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/demolition-of-the-post-office-at-5th-and-main-oregon-city-constructed-in-1933.
+    notes: >-
+      CCHS object U-1426.005098a is titled Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933. and describes demolition of the Oregon City Post Office, constructed in 1933. The steward-supplied JPEG is an exact byte match to the current CCHS public high-resolution derivative. The live record does not date the demolition image. Existing Sanborn E-102 independently places the 1933 Post Office at southeast Fifth/Main, same east side of Main as 501/503/505 but across Fifth from 501.
+    repository_file: media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg
+    sha256: 75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2
+    related_evidence:
+    - E-187
+    related_media:
+    - IMG-0736

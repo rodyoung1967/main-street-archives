@@ -1640,3 +1640,15 @@ Claims:
 - No individual structure in the image is assigned to 501, 503, 505, or another numbered address by this integration.
 Confidence: **Very High** for CCHS object identity/title/description and direct visual content; filename focus is attributable to the steward; exact date/camera/block mapping unresolved.  
 Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`. Follow-up: `RL-050` / `OQ-036`.
+
+## E-187 — Undated demolition of 1933 U.S. Post Office at Fifth and Main
+Type: Institutional historic photograph / direct visual evidence; source `S-207`; media `IMG-0736`.  
+Evidence state: **DOCUMENTED / DIRECT** for CCHS identity, Fifth/Main location wording, demolition subject, and construction-year statement; **VISUALLY VERIFIED** for the demolition scene; **STRONG CROSS-SOURCE INFERENCE** for the precise block relationship using existing Sanborn `E-102`; demolition date unresolved.  
+Claims:
+- CCHS object **U-1426.005098a** depicts demolition of the Oregon City Post Office at **Fifth and Main** and states that the building was constructed in **1933**.
+- The photograph visibly shows the building in active/partial demolition, with wall removal, exposed reinforcement and rubble.
+- Existing 1950 Sanborn evidence `E-102` independently places the U.S. Post Office at the **southeast Fifth/Main corner** and labels it **BUILT 1933**.
+- Spatially, that places the Post Office on the **same east side of Main** as 501/503/505 but **across Fifth Street from 501**, on the Fourth-to-Fifth block. It is not part of the 501/503/505 building row.
+- Neither the CCHS live record nor the image establishes the demolition/exposure date.
+Confidence: **Very High** for catalog identity, demolition subject, Fifth/Main location and construction-year wording; **Very High** for southeast-corner geometry when combined with `E-102`; demolition date unresolved.  
+Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`.

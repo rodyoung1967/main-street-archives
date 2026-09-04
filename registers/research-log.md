@@ -390,3 +390,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Repository binary is the current CCHS `public_highres_2x` derivative (1401 × 1109; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`) and is an **exact byte-for-byte copy** of the supplied image.
 - Added `RL-050` / `OQ-036` to date the image and map visible Fourth–Sixth Street structures before any 501/503/505 assignment.
 - Recalculated definitive raster/photo counts, correcting the prior inventory count drift after `IMG-0734`/`IMG-0734` integration.
+
+## 2026-09-03 — CCHS U-1426.005098a Post Office demolition photograph
+- Preserved as `IMG-0736` / `S-207` / `E-187`.
+- Steward upload `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg` is 981 × 776, 145571 bytes, SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2` and is **byte-for-byte identical** to the current CCHS public high-resolution derivative.
+- CCHS title directly identifies demolition of the Post Office at Fifth/Main and says it was constructed in 1933; the live record supplies no demolition/exposure date.
+- Reconciled the steward's same-side-of-Main note with existing Sanborn `E-102`: the Post Office was southeast Fifth/Main, on the same east side of Main as 501/503/505 but directly across Fifth from 501, on the Fourth-to-Fifth block.
+- Did not convert the phrase "at the end of 4th street" into a controlling location claim; CCHS and Sanborn provide the more precise Fifth/Main anchor.

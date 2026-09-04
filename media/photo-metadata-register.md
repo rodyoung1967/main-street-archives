@@ -1286,3 +1286,20 @@ Derivative relationship: **exact byte match to the steward upload** — same 140
 Visual content: elevated downtown overview with the Willamette River/Falls and multiple downtown blocks visible. Exact exposure date, camera position, Fourth–Sixth block mapping, building identities, and modern/historical addresses remain unresolved.  
 Source/evidence: `S-206` / `E-186`; follow-up `RL-050` / `OQ-036`.  
 Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.
+
+## IMG-0736 — CCHS U-1426.005098a, demolition of Post Office at Fifth and Main
+File: `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`  
+Type: Historic photograph / demolition / institutional catalog image  
+Status: `committed`; exact steward-supplied byte match; visually verified  
+Holding institution: **Clackamas County Historical Society**  
+CCHS object: **U-1426.005098a**  
+Catalog title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**  
+Catalog description: **Demolition of the Post Office, Oregon City, constructed in 1933**  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/demolition-of-the-post-office-at-5th-and-main-oregon-city-constructed-in-1933.  
+Original supplied filename: `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg`  
+Dimensions: 981 × 776; 145571 bytes; SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`.  
+Derivative relationship: **exact byte match** to current CCHS `public_highres_2x` derivative.  
+Date boundary: building construction is cataloged as **1933** and independently shown as **BUILT 1933** by Sanborn `E-102`; photograph/demolition date is not supplied and remains unresolved.  
+Spatial relationship: southeast Fifth/Main, same east side of Main as 501/503/505 but across Fifth Street from 501 on the Fourth-to-Fifth block; this relationship is supported by existing Sanborn evidence `E-102`.  
+Source/evidence: `S-207` / `E-187`.  
+Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`.

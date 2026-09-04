@@ -369,3 +369,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Media/source/evidence | Repository record | Boundary |
 | --- | --- | --- |
 | `IMG-0735` / `S-206` / `E-186` / CCHS `2019.001.00179` | `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`; `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md` | CCHS identity/title/description direct; steward filename supplies 4th–6th/aerial-view context; exposure date, camera platform/position and exact building/address mapping remain unresolved under `RL-050` / `OQ-036`. |
+
+### CCHS U-1426.005098a — Post Office demolition at Fifth/Main
+
+| Media/source/evidence | Repository record | Boundary |
+| --- | --- | --- |
+| `IMG-0736` / `S-207` / `E-187` / CCHS `U-1426.005098a` | `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`; `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md` | Exact supplied/CCHS JPEG. Post Office is southeast Fifth/Main, same east side as 501/503/505 but across Fifth from 501; 1933 is construction year, demolition date unresolved. |

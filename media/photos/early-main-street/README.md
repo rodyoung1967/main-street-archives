@@ -1,10 +1,10 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **8 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0735`); four additional public-source full scenes remain planned**
+Status: **9 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0736`); four additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
-The committed set now includes the earlier exact steward matches and crop, the two 1890 flood records (`IMG-0732`–`IMG-0733`), the 1888 alley/barber scene (`IMG-0734`), and this undated CCHS downtown overview (`IMG-0735`). See the [definitive repository photograph inventory](../inventory.md) for exact hashes, derivative relationships, the 514/516 distinction, and repository-wide counts.
+The committed set now includes the earlier exact steward matches and crop, the two 1890 flood records (`IMG-0732`–`IMG-0733`), the 1888 alley/barber scene (`IMG-0734`), the undated CCHS downtown overview (`IMG-0735`), and the exact-match CCHS Post Office demolition photograph (`IMG-0736`). See the [definitive repository photograph inventory](../inventory.md) for exact hashes, derivative relationships, the 514/516 distinction, and repository-wide counts.
 
 ## Committed CCHS P-1469 1890 flood photograph
 
@@ -146,3 +146,12 @@ Planned repository paths once original binaries can be transferred:
 - Visual review shows an elevated downtown overview with the Willamette River and Falls and multiple downtown blocks visible.
 - The supplied attachment is 1401 × 1109, 243009 bytes, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`. The committed file is the current CCHS `public_highres_2x` derivative (1401 × 1109, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`) and is an **exact byte match** to the steward upload.
 - Highest-value follow-up: date the exposure and map the 4th–6th street block geometry by fixed-landmark/Sanborn/photo comparison (`RL-050` / `OQ-036`).
+
+## CCHS U-1426.005098a — Post Office demolition at Fifth and Main
+
+- `IMG-0736` — `IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`
+- CCHS title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**
+- CCHS description: **Demolition of the Post Office, Oregon City, constructed in 1933**
+- The steward upload is 981 × 776, 145571 bytes, SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`, and is an **exact byte match** to the current CCHS public high-resolution derivative.
+- The live catalog supplies no demolition/exposure date. **1933 is the construction year of the pictured Post Office, not the photograph date.**
+- Existing 1950 Sanborn evidence (`E-102`) independently places the Post Office at the **southeast corner of Fifth/Main** and labels it **BUILT 1933**. Thus it is on the same east side of Main as 501/503/505, but directly across Fifth Street from 501 on the Fourth-to-Fifth block.

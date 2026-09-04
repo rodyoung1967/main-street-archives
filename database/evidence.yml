@@ -2866,3 +2866,18 @@ evidence:
     related_media:
     - IMG-0735
     repository_file: evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md
+
+  - id: E-187
+    name: Undated demolition of 1933 U.S. Post Office at Fifth and Main
+    type: Institutional historic photograph plus existing Sanborn spatial corroboration
+    claims:
+    - CCHS U-1426.005098a depicts demolition of the Oregon City Post Office at Fifth and Main and states the building was constructed in 1933.
+    - The photograph visibly shows partial demolition, exposed reinforcement and rubble.
+    - Existing Sanborn E-102 places the Post Office at southeast Fifth/Main and labels it BUILT 1933, putting it on the same east side of Main as 501/503/505 but across Fifth Street from 501.
+    - The demolition/exposure date is not supplied and remains unresolved.
+    confidence: Very High for identity, location, demolition subject and construction year; demolition date unresolved.
+    related_sources:
+    - S-207
+    related_media:
+    - IMG-0736
+    repository_file: evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md

@@ -5,12 +5,12 @@ Scope: every committed raster file, with photographs distinguished from maps, ne
 
 ## Result
 
-- **73 committed raster files** in the repository.
-- **46 photographs/aerials**, all stored together under `media/photos/`.
+- **74 committed raster files** in the repository.
+- **47 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
-- **All 73 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
+- **All 74 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
-- Four recent steward-supplied historical JPEGs are exact byte matches; the P-1456 steward JPEG remains preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
+- Five recent steward-supplied historical JPEGs are exact byte matches; the P-1456 steward JPEG remains preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
 - No photograph is committed or currently cataloged as **514 Main Street**. The snow photograph is cataloged as **516 Main Street** and committed as `IMG-0723`.
 
 This inventory is a repository-presence audit. It does not convert a catalog caption, filename, or visual interpretation into independent proof of an address, date, person, business, or building.
@@ -23,7 +23,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).
 
-### Street-level and early photographs — 8 files
+### Street-level and early photographs — 9 files
 
 | Media ID | Cataloged subject/date | Canonical repository file | Status and limit |
 | --- | --- | --- | --- |
@@ -35,6 +35,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `IMG-0733` | CCHS P-1456; 1890 flood; Main Street looking south after water receded, alley-to-Sixth context | [`early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg`](early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg) | Committed current CCHS P-1456 high-resolution derivative; supplied 2048 × 1543 JPEG visually inspected and preserved by exact filename/hash metadata. CCHS duplicate group P-1456/P-1616/P-5519/P-8885 preserved as catalog metadata; exact 501/503/505 facade mapping remains separate. |
 | `IMG-0734` | CCHS 2008.008.002.309; Buildings on Main Street, Oregon City; 1888 | [`early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg`](early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg) | Committed CCHS derivative; barber lettering directly visible; exact modern address/orientation unresolved. |
 | `IMG-0735` | CCHS 2019.001.00179; Downtown Oregon City; date not supplied | [`early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg`](early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg) | Committed CCHS derivative; steward filename adds 4th–6th-street/aerial-view context only. Exact exposure date, camera position, and block/building mapping unresolved. |
+| `IMG-0736` | CCHS U-1426.005098a; Post Office demolition at Fifth/Main; building constructed 1933; demolition date unknown | [`early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`](early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg) | Exact byte match to steward upload and CCHS public high-resolution derivative; southeast Fifth/Main is same east side of Main as 501/503/505 but across Fifth from 501. |
 
 ## Recent supplied-file reconciliation
 
@@ -46,6 +47,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `Oregon City Main Street, 6th & Main, looking southwest down main. (Clackamas County Historical Society).jpg` (steward-supplied identification; exact original bytes not recoverable from staging) | not available | `IMG-0732` — `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` | Recovered from exact CCHS P-1469 record as current public high-resolution derivative; **not claimed as an exact byte match** to the earlier upload. |
 | `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg` | `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb` | `IMG-0733` — `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` | Supplied 2048 × 1543, 903423-byte JPEG is visually verified and recorded by exact signature; repository binary is the current CCHS P-1456 high-resolution derivative and is a **substantive duplicate, not an exact byte match**. |
 | `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg` | `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f` | `IMG-0735` — `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg` | Supplied 1401 × 1109, 243009-byte JPEG visually verified and recorded by exact signature; repository binary is the current CCHS 2019.001.00179 high-resolution derivative and is an **exact byte match** to the steward upload. Filename phrase “focusing on 4th-6th streets (aerial view)” is preserved as steward metadata. |
+| `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg` | `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2` | `IMG-0736` — `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg` | **Exact byte match** to current CCHS U-1426.005098a public high-resolution derivative; 981 × 776, 145571 bytes. Construction year 1933 is catalog/map evidence; demolition date remains unresolved. |
 
 The original filenames remain preserved in the canonical media records. The repository filenames add stable media IDs and do not alter the image bytes.
 
@@ -87,3 +89,12 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Steward filename context: **focusing on 4th-6th streets (aerial view)** — preserved as project-supplied context, not institutional catalog text.
 - Steward SHA-256: `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; repository derivative SHA-256: `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.
 - Status: committed; exact exposure date, camera position and individual building/address mapping unresolved.
+
+### IMG-0736 — CCHS U-1426.005098a Post Office demolition at Fifth/Main
+- File: `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`
+- Source/evidence: `S-207` / `E-187`
+- CCHS title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**
+- Building construction: **1933** (CCHS wording; independently consistent with Sanborn `E-102`).
+- Photograph/demolition date: **not supplied / unresolved**.
+- Spatial relation: southeast Fifth/Main; same east side of Main as 501/503/505, directly across Fifth Street from 501.
+- SHA-256: `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`; exact byte match to steward upload and CCHS derivative.
