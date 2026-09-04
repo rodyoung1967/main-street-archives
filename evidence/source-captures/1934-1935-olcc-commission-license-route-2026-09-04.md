@@ -35,23 +35,36 @@ Its high-value implication is narrower and positive: **the OLCC Commission meeti
 
 The schedule PDF could be read through the official search-index extraction in the current environment, but direct PDF retrieval returned an error, so this capture remains **OFFICIAL SEARCH-INDEX/TEXT LEVEL** pending visual inspection of the schedule page.
 
-## New administrative-history confirmation: licensing began in 1934
+## Administrative-history confirmation and enabling-act date correction
 
-A separate official Oregon State Archives administrative overview for the Oregon Liquor Control Commission confirms the historical mechanism behind this route. It states that Oregon's Liquor Control Act, passed in **1934**, gave the state exclusive control over distilled spirits and fortified wine while authorizing the Commission to **license private businesses to sell beer and table wine by the bottle and by the glass**. It further states that, during 1934, the Commission created the organization needed to administer the act and that **issuance of various classes of licenses began that year**.
+A separate Oregon State Archives administrative overview explains that the new state liquor-control system was organized and began issuing various license classes during **1934**, including authority to license private businesses to sell beer and table wine by bottle and glass.
 
 Official Oregon State Archives administrative overview:
 
 `https://records.sos.state.or.us/ORSOSWebDrawer/Record/7589708/File/document`
 
-This materially strengthens the 1934–1935 route: the period is not merely the first surviving Commission-meeting series; it is also the documented start of the Commission's private beer/table-wine licensing activity under the new state system.
+The overview's chronology can be read as placing the Liquor Control Act in 1934. A more legally precise source establishes the enabling-act date: the Oregon Supreme Court in **Oregon Liquor Control Commission v. Coe, 163 Or. 646 (1940)** identifies the Commission as created under the **Oregon Liquor Control Act, Oregon Laws 1933, Second Special Session**, and quotes Chapter 17 of that special-session law. Contemporary Governor Julius Meier reporting also shows the Commission actively operating stores/agencies and collecting permits and license revenue through 1934.
 
-The overview does **not** name Edwin Farr, Alice Farr, Farr's Pool Hall, 505 Main, or any Oregon City pool hall. It therefore changes the **source-selection confidence**, not the Farr/505 occupancy evidence state.
+Legal cross-check:
+
+`https://law.justia.com/cases/oregon/supreme-court/1940/163-or-646.html`
+
+Governor Meier administration source:
+
+`https://records.sos.state.or.us/ORSOSWebDrawer/Record/6777852/File/document`
+
+Therefore the archive should distinguish:
+
+- **1933 Second Special Session** — enabling Liquor Control Act / creation of the Commission;
+- **1934** — operational rollout and issuance of license classes under the new system.
+
+This materially strengthens the 1934–1935 route without misdating the enabling legislation. The sources do **not** name Edwin Farr, Alice Farr, Farr's Pool Hall, 505 Main, or any Oregon City pool hall. They change source-selection confidence, not the Farr/505 occupancy evidence state.
 
 ## Why this matters for 505 Main
 
 Oregon City's official historic-resource inventory identifies **Edwin F. and Alice Farr** as proprietors of **Farr's Pool Hall, 505 Main Street**, and says they acquired the 401 Third Street residence in **1934**. The residence date is not an opening date for the pool hall.
 
-Because OLCC Commission records begin in 1934, and the State Archives administrative history confirms that private beer/table-wine licensing also began in 1934, the first two years of the permanent state series overlap the earliest securely dated biographical context currently associated with Edwin/Alice Farr. The state series therefore offers a source-independent way to test whether the pool hall appears in early post-Prohibition licensing material.
+Because the permanent OLCC Commission record series begins in 1934 and the state system was actively issuing licenses during 1934, the first two years of the permanent series overlap the earliest securely dated biographical context currently associated with Edwin/Alice Farr. The state series therefore offers a source-independent way to test whether the pool hall appears in early post-Prohibition licensing material.
 
 No claim is made that Farr necessarily sold beer/liquor or held an OLCC license in 1934–1935. That is the question to test.
 
