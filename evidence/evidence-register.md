@@ -1652,3 +1652,13 @@ Claims:
 - Neither the CCHS live record nor the image establishes the demolition/exposure date.
 Confidence: **Very High** for catalog identity, demolition subject, Fifth/Main location and construction-year wording; **Very High** for southeast-corner geometry when combined with `E-102`; demolition date unresolved.  
 Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`.
+
+## E-188 — Undated CCHS P-9379 aerial photograph of Oregon City
+Type: Institutional historic-photograph catalog metadata plus visually reviewed aerial photograph; source `S-208`; media `IMG-0737`.  
+Claims:
+- CCHS catalogs **P-9379** as **Aerial Photograph Oregon City**, with accession number **2022.012.001** and media label **Aerial view of Oregon City**.
+- The photograph visibly includes downtown Oregon City, the Willamette River, the Oregon City–West Linn bridge, log rafts/booms, and surrounding development.
+- The live CCHS record supplies no exposure date; the accession number is not a date-made field.
+- The steward attachment and committed CCHS derivative are substantive duplicates, not byte-identical files.
+- Do not assign a 501/503/505 roof/building identity from this overview without a separate dated spatial comparison.
+Confidence: **DOCUMENTED / DIRECT** for the CCHS object/title/description/media association and visible broad Oregon City aerial scene; **UNRESOLVED** for exposure date, camera details, and exact numbered-building mapping.

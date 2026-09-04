@@ -1303,3 +1303,22 @@ Date boundary: building construction is cataloged as **1933** and independently 
 Spatial relationship: southeast Fifth/Main, same east side of Main as 501/503/505 but across Fifth Street from 501 on the Fourth-to-Fifth block; this relationship is supported by existing Sanborn evidence `E-102`.  
 Source/evidence: `S-207` / `E-187`.  
 Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`.
+
+## IMG-0737 — CCHS P-9379, Aerial Photograph Oregon City
+File: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg`  
+Type: Historic aerial photograph / institutional public derivative  
+Status: `committed`; steward image visually reviewed  
+Source: `S-208`; evidence `E-188`  
+Holding institution / object: Clackamas County Historical Society, **P-9379**  
+Accession number: **2022.012.001** — accession identifier only; not an exposure date  
+Catalog title/description: **Aerial Photograph Oregon City**  
+Catalog media label: **Aerial view of Oregon City**  
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/aerial-photograph-oregon-city  
+Catalog date: **not supplied**  
+Repository derivative: https://d8e7jbdw4fu0e.cloudfront.net/4813/65a355f0-5a88-11ef-a7ae-619770c70e43-vdUfbm9.lg@2x.jpg  
+Repository dimensions: 2400 × 1965; 1068263 bytes; SHA-256 `410b8493e52365bc5968d983f82a015cfc4ec9ded2b89976799c019396d622bd`  
+Original supplied filename: `Aerial Photograph Oregon City.jpg`  
+Steward attachment: 2048 × 1676; 1200394 bytes; SHA-256 `2154e29eec46892888f04f9faeb1a09eb7f69b93fe2d0c338a6968af43b50e10`; visually reviewed.  
+Derivative relationship: the steward attachment and committed CCHS derivative depict the same P-9379 aerial scene but are **substantive duplicates, not byte-identical**. The repository retains the larger institutional derivative and records the supplied file's exact signature.  
+Visual content/limit: broad Oregon City aerial including downtown, Willamette River, Oregon City–West Linn bridge, log rafts/booms and surrounding development. Exact exposure date, camera/flight details and numbered-address/501/503/505 identities remain unresolved.  
+Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.

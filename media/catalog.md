@@ -65,3 +65,4 @@ media/photo-metadata-register.md
 
 - `IMG-0735` — CCHS `2019.001.00179`, **Downtown Oregon City**; undated historic elevated overview. Canonical metadata: `media/photo-metadata-register.md`; source/evidence `S-206` / `E-186`. Steward filename adds 4th–6th-street/aerial-view context only.
 - `IMG-0736` — CCHS `U-1426.005098a` Post Office demolition at Fifth/Main; building constructed 1933, image date unresolved; exact steward/CCHS byte match.
+- `IMG-0737` — CCHS `P-9379`, **Aerial Photograph Oregon City**; accession `2022.012.001`; exposure date unresolved; committed under `media/photos/aerials/` (`S-208` / `E-188`).

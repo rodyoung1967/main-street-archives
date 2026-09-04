@@ -397,3 +397,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - CCHS title directly identifies demolition of the Post Office at Fifth/Main and says it was constructed in 1933; the live record supplies no demolition/exposure date.
 - Reconciled the steward's same-side-of-Main note with existing Sanborn `E-102`: the Post Office was southeast Fifth/Main, on the same east side of Main as 501/503/505 but directly across Fifth from 501, on the Fourth-to-Fifth block.
 - Did not convert the phrase "at the end of 4th street" into a controlling location claim; CCHS and Sanborn provide the more precise Fifth/Main anchor.
+
+## 2026-09-03 — Preserve CCHS P-9379 Oregon City aerial photograph
+
+- Verified live CCHS object **P-9379**, title/description **Aerial Photograph Oregon City**, media label **Aerial view of Oregon City**, and accession number **2022.012.001**. The public record supplies no exposure date.
+- Preserved CCHS's current 2400 × 1965 high-resolution derivative as `IMG-0737` at `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` (SHA-256 `410b8493e52365bc5968d983f82a015cfc4ec9ded2b89976799c019396d622bd`, 1068263 bytes).
+- Recorded the steward-supplied `Aerial Photograph Oregon City.jpg` (2048 × 1676, 1200394 bytes, SHA-256 `2154e29eec46892888f04f9faeb1a09eb7f69b93fe2d0c338a6968af43b50e10`) as a visually verified substantive duplicate rather than claiming byte identity.
+- Assigned `S-208` / `E-188` / `IMG-0737` without renumbering existing IDs and synchronized YAML/Markdown source and evidence registers, media metadata, aerial README, photograph inventory, legacy media catalog, crosswalk, and source capture.
+- Preserved uncertainty: accession year 2022 is not treated as exposure date; no exact 501/503/505 building identity is assigned from the overview alone.

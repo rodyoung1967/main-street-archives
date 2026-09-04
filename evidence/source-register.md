@@ -1580,3 +1580,12 @@ Repository image: `media/photos/early-main-street/IMG-0736_undated-post-office-d
 Date boundary: catalog says the Post Office was constructed in **1933** but does not date the demolition photograph. Existing Sanborn evidence `E-102` independently records the southeast Fifth/Main U.S. Post Office as **BUILT 1933**.  
 Spatial boundary: same east side of Main as 501/503/505, but on the opposite side of Fifth Street from 501; the pictured Post Office is not part of the 501/503/505 block.  
 Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`. Related evidence: `E-187`.
+
+## S-208 — Clackamas County Historical Society photograph P-9379, Aerial Photograph Oregon City
+Type: Institutional historic-photograph catalog record plus preserved public image derivative; **CATALOG METADATA VERIFIED / IMAGE VISUALLY REVIEWED**.  
+Object: **P-9379**. Accession number: **2022.012.001**.  
+Catalog title/description: **Aerial Photograph Oregon City**. Catalog media label: **Aerial view of Oregon City**.  
+URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/aerial-photograph-oregon-city  
+Repository: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` (`IMG-0737`); source capture `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.  
+Evidence: `E-188`.  
+Notes: The live CCHS record supplies no exposure date. `2022.012.001` is retained only as an accession number and is not converted into a photograph date. The committed 2400×1965 CCHS derivative and the steward-supplied 2048×1676 JPEG are substantive duplicates of the same P-9379 scene, not byte-identical copies.

@@ -2881,3 +2881,19 @@ evidence:
     related_media:
     - IMG-0736
     repository_file: evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md
+
+  - id: E-188
+    name: Undated CCHS P-9379 aerial photograph of Oregon City
+    type: Institutional historic-photograph catalog metadata plus visually reviewed aerial photograph
+    claims:
+    - CCHS object P-9379 is titled and described Aerial Photograph Oregon City; its media label is Aerial view of Oregon City.
+    - The photograph visibly shows a broad aerial view of downtown Oregon City, the Willamette River, the Oregon City-West Linn bridge, log rafts/booms, and surrounding development.
+    - Accession number 2022.012.001 is an accession identifier; the live public record supplies no exposure date.
+    - The steward-supplied 2048x1676 JPEG and the committed 2400x1965 CCHS derivative are substantive duplicates of the same scene, not byte-identical files.
+    - Exact exposure date, camera/flight details, and numbered-address or 501/503/505 building identities remain unresolved without separate comparison evidence.
+    confidence: Very High for catalog identity and direct visual content; exposure date, camera details and exact target-building mapping unresolved.
+    related_sources:
+    - S-208
+    related_media:
+    - IMG-0737
+    repository_file: evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md

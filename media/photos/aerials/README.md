@@ -42,3 +42,9 @@ Oregon City photocompare aerial screenshots (`S-023`), cataloged under `E-021`. 
 | IMG-0041 | 2023 | `media/photos/aerials/IMG-0041_aerial_5th-main_2023.jpg` |
 | IMG-0042 | 2024 | `media/photos/aerials/IMG-0042_aerial_5th-main_2024.jpg` |
 | IMG-0043 | 2025 | `media/photos/aerials/IMG-0043_aerial_5th-main_2025.jpg` |
+
+## Other historic aerials
+
+| Media ID | Date | Repository file | Source / limit |
+| --- | --- | --- | --- |
+| IMG-0737 | Undated | `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` | CCHS `P-9379` / accession `2022.012.001` (`S-208` / `E-188`); catalog title **Aerial Photograph Oregon City**. Exposure date and exact target-building mapping unresolved. |

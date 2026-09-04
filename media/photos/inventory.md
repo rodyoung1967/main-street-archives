@@ -5,10 +5,10 @@ Scope: every committed raster file, with photographs distinguished from maps, ne
 
 ## Result
 
-- **74 committed raster files** in the repository.
-- **47 photographs/aerials**, all stored together under `media/photos/`.
+- **75 committed raster files** in the repository.
+- **48 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
-- **All 74 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
+- **All 75 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
 - Five recent steward-supplied historical JPEGs are exact byte matches; the P-1456 steward JPEG remains preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
 - No photograph is committed or currently cataloged as **514 Main Street**. The snow photograph is cataloged as **516 Main Street** and committed as `IMG-0723`.
@@ -19,9 +19,11 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 **1 September 2026 addition outside the raster-file count:** `IMG-0726` is an oblique downtown aerial embedded on PDF page 4 of the [retained 1926 municipal report](../../records/municipal/annual-reports/1926-municipal-activities-report.pdf). It is cataloged in the [media register](../photo-metadata-register.md), not stored as a duplicate standalone photo. Its exposure date and target-roof mapping are unresolved. The report's other illustrations are also retained with [page locators](../../evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md). The historical raster-only totals above do not count embedded PDF illustrations.
 
-### Aerial series — 38 files
+### Aerial photographs — 39 files
 
 `IMG-0006` through `IMG-0043` are the Oregon City 5th-and-Main aerial/photocompare series covering 1929–2025. All 38 files and years are itemized in [`aerials/README.md`](aerials/README.md).
+
+`IMG-0737` is a separate undated CCHS aerial of Oregon City (`P-9379`; accession `2022.012.001`), preserved at [`aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg`](aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg). CCHS supplies no exposure date; it is not folded into the dated 38-frame photocompare sequence.
 
 ### Street-level and early photographs — 9 files
 
@@ -38,6 +40,8 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 | `IMG-0736` | CCHS U-1426.005098a; Post Office demolition at Fifth/Main; building constructed 1933; demolition date unknown | [`early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg`](early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg) | Exact byte match to steward upload and CCHS public high-resolution derivative; southeast Fifth/Main is same east side of Main as 501/503/505 but across Fifth from 501. |
 
 ## Recent supplied-file reconciliation
+
+| `Aerial Photograph Oregon City.jpg` | `2154e29eec46892888f04f9faeb1a09eb7f69b93fe2d0c338a6968af43b50e10` | `IMG-0737` — `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` | Supplied 2048 × 1676, 1200394-byte JPEG is visually verified and recorded by exact signature; repository binary is the current CCHS P-9379 2400 × 1965 high-resolution derivative and is a **substantive duplicate, not an exact byte match**. CCHS accession `2022.012.001` is not treated as an exposure date. |
 
 | Original supplied filename | SHA-256 | Canonical media ID/path | Result |
 | --- | --- | --- | --- |
@@ -98,3 +102,12 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Photograph/demolition date: **not supplied / unresolved**.
 - Spatial relation: southeast Fifth/Main; same east side of Main as 501/503/505, directly across Fifth Street from 501.
 - SHA-256: `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`; exact byte match to steward upload and CCHS derivative.
+
+### IMG-0737 — CCHS P-9379 Aerial Photograph Oregon City
+- File: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg`
+- Source/evidence: `S-208` / `E-188`
+- CCHS object/accession: `P-9379` / `2022.012.001`
+- Catalog title/description: **Aerial Photograph Oregon City**; media label **Aerial view of Oregon City**
+- Exposure date: **not supplied / unresolved**; accession number is not used as a date.
+- Steward SHA-256: `2154e29eec46892888f04f9faeb1a09eb7f69b93fe2d0c338a6968af43b50e10`; committed CCHS derivative SHA-256: `410b8493e52365bc5968d983f82a015cfc4ec9ded2b89976799c019396d622bd`.
+- Status: committed institutional high-resolution derivative; steward attachment preserved by exact signature as a substantive duplicate.

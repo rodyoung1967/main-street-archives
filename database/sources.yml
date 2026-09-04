@@ -1128,3 +1128,15 @@ sources:
     - E-187
     related_media:
     - IMG-0736
+
+  - id: S-208
+    name: Clackamas County Historical Society photograph P-9379, Aerial Photograph Oregon City
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/aerial-photograph-oregon-city
+    notes: >-
+      CCHS catalogs P-9379 as Aerial Photograph Oregon City and repeats that wording as the description; the media label is Aerial view of Oregon City. Accession number 2022.012.001 is an accession identifier, not an exposure date. The live public record supplies no date. The repository preserves the current 2400x1965 CCHS public high-resolution derivative as IMG-0737. The steward-supplied 2048x1676 JPEG is the same scene but not byte-identical; its exact filename/hash/size are preserved in the media record and source capture.
+    repository_file: media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg
+    sha256: 410b8493e52365bc5968d983f82a015cfc4ec9ded2b89976799c019396d622bd
+    related_evidence:
+    - E-188
+    related_media:
+    - IMG-0737
