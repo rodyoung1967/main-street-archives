@@ -1,0 +1,70 @@
+# Final compatibility pass for the archive's mixed legacy YAML-list styles and
+# external museum identifiers. This runs after the historical integration above
+# and before scripts/validate_archive.py.
+
+# P-041 and BUS-026 use the repository's older indentationless sequence style
+# under four-space mapping keys. The generic helper in part1 uses the newer
+# six-space child-list style; normalize only the two known legacy blocks rather
+# than rewriting either YAML file wholesale.
+for yaml_path in (Path("database/people.yml"), Path("database/businesses.yml")):
+    text = yaml_path.read_text(encoding="utf-8")
+    text = text.replace("    - E-119\n      - E-189", "    - E-119\n    - E-189")
+    text = text.replace("    - S-133\n      - S-209", "    - S-133\n    - S-209")
+    yaml_path.write_text(text, encoding="utf-8")
+
+# Museum/CCHS object numbers use the MOT: namespace in Markdown so the archive
+# validator never mistakes them for project P-### person IDs. Limit the pass to
+# files touched by this integration (plus the existing Young catalog capture it
+# appends to); do not globally rewrite unrelated historical records.
+external_museum_ids = ("P-370", "P-384", "P-391", "P-502")
+external_md_paths = [
+    Path("buildings/507-harding-building.md"),
+    Path("businesses/gh-young-curio-man.md"),
+    Path("businesses/ww-bradley-furniture.md"),
+    Path("evidence/evidence-register.md"),
+    Path("evidence/source-captures/1910-young-second-hand-store-505-main-p391.md"),
+    CAPTURE,
+    Path("evidence/source-register.md"),
+    Path("indexes/id-crosswalk.md"),
+    Path("media/photo-metadata-register.md"),
+    Path("media/photos/early-main-street/README.md"),
+    Path("media/photos/inventory.md"),
+    Path("people/profiles/g-h-young.md"),
+    Path("people/profiles/ww-bradley.md"),
+    Path("registers/business-timeline.md"),
+    Path("registers/research-log.md"),
+    Path("timeline.md"),
+]
+for md_path in external_md_paths:
+    text = md_path.read_text(encoding="utf-8")
+    for museum_id in external_museum_ids:
+        text = re.sub(
+            rf"(?<!MOT:)\b{re.escape(museum_id)}\b",
+            f"MOT:{museum_id}",
+            text,
+        )
+    md_path.write_text(text, encoding="utf-8")
+
+# Markdown/YAML identity synchronization requires source/evidence names to match
+# their normalized Markdown headings exactly.
+sources_yml = Path("database/sources.yml")
+text = sources_yml.read_text(encoding="utf-8")
+text = text.replace(
+    'name: "Clackamas County Historical Society P-502, G. H. Young Store - 507 Main Street Oregon City 1916"',
+    'name: "Clackamas County Historical Society MOT:P-502, G. H. Young Store — 507 Main Street Oregon City 1916"',
+)
+sources_yml.write_text(text, encoding="utf-8")
+
+evidence_yml = Path("database/evidence.yml")
+text = evidence_yml.read_text(encoding="utf-8")
+text = text.replace(
+    'name: "CCHS P-502 catalogs G. H. Young Store at 507 Main in 1916"',
+    'name: "CCHS MOT:P-502 catalogs G. H. Young Store at 507 Main in 1916"',
+)
+evidence_yml.write_text(text, encoding="utf-8")
+
+# Ensure the compatibility helper itself never survives into the integrated tree.
+try:
+    Path("scripts/.p502-part5").unlink()
+except FileNotFoundError:
+    pass
