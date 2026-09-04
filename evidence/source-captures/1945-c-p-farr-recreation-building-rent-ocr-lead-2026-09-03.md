@@ -2,9 +2,18 @@
 
 Status: **PRIMARY MUNICIPAL OCR/TEXT ONLY — PAGE IMAGE NOT VISUALLY VERIFIED; IDENTITY AND ADDRESS UNRESOLVED.**
 
-Purpose: preserve repeated 1945–1946 Oregon City municipal-finance entries involving **C. P. Farr** and rent for the City's recreation program, because they may become useful in distinguishing the Farr-era property/business history from the later Harr's Recreation Center chronology. They are not evidence that the rented recreation building was 505 Main and must not be merged with Edwin F. Farr or Farr's Pool Hall without a direct identity/property bridge.
+Purpose: preserve repeated 1944–1946 Oregon City municipal-finance entries involving **C. P. Farr** and rent for the City's recreation program, because they may become useful in distinguishing the Farr-era property/business history from the later Harr's Recreation Center chronology. They are not evidence that the rented recreation building was 505 Main and must not be merged with Edwin F. Farr or Farr's Pool Hall without a direct identity/property bridge.
 
 ## Sources
+
+### 5 January 1945 City Commission — December 1944 claims
+
+Public City WebDrawer record:
+https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722819/File/document
+
+The readable municipal text identifies the **5 January 1945** adjourned regular meeting and states that the City Recorder's report covered claims against the City for **December 1944**. On page 3 of the four-page PDF (PDF index page 2), the vendor/purpose/amount sequences place **C.P.Farr** with **Rent-Recreation Bldg.** and **$150.00**.
+
+This pushes the currently recovered recreation-building-rent pattern back from May 1945 to at least **December 1944**. A screenshot attempt for the relevant page failed with a WebDrawer cache-miss error, so the entry remains **PRIMARY MUNICIPAL OCR/TEXT ONLY** and the column alignment still requires visual verification.
 
 ### 7 June 1945 City Commission — May claims
 
@@ -12,8 +21,6 @@ Public City WebDrawer record:
 https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4724209/File/document
 
 A 4 September 2026 follow-up recovered the readable municipal text for the **7 June 1945** adjourned regular meeting after the 6 June meeting lacked a quorum. The Recorder's report covered claims against the City for **May 1945**. In the page-2 vendor/purpose/amount sequence, **C.P.Farr** aligns with OCR reading **Rent-Recreation Bldg.** and **$150.00**.
-
-This pushes the currently recovered recreation-building-rent pattern back from August 1945 to at least **May 1945**. A page-2 screenshot attempt failed with a WebDrawer cache-miss error, so the entry remains **PRIMARY MUNICIPAL OCR/TEXT ONLY** and the column alignment still requires visual verification.
 
 ### 7 September 1945 City Commission — August claims
 
@@ -36,13 +43,13 @@ https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4724211/File/document
 
 A 4 September 2026 follow-up recovered the readable municipal text for the **5 June 1946** regular meeting. The Recorder's report covers claims against the City for **May 1946**. In the page-2 vendor/purpose/amount sequence, **C.P. Farr** again aligns with **Rent - Rec. Bldg.** and **$150.00**.
 
-The recovered entries now bracket repeated municipal recreation-building rent from at least **May 1945 through May 1946**, with confirmed OCR/text examples for May, August, and September 1945 and May 1946. They still supply no street address or business name for the rented building.
+The recovered entries now bracket repeated municipal recreation-building rent from at least **December 1944 through May 1946**, with OCR/text examples for December 1944; May, August, and September 1945; and May 1946. They still supply no street address or business name for the rented building.
 
-The repeated amount and recreation-rent wording across 1945 and 1946 make this more than an isolated OCR token, but the original page images still require visual inspection before promotion under project policy.
+The repeated amount and recreation-rent wording across 1944–1946 make this more than an isolated OCR token, but the original page images still require visual inspection before promotion under project policy.
 
 ## Visual-verification boundary
 
-The WebDrawer routes expose readable PDF text, but screenshot attempts in the current research environment failed with cache-miss/404 errors, including the 7 June 1945 page-2 and 5 June 1946 page-2 attempts. Therefore:
+The WebDrawer routes expose readable PDF text, but screenshot attempts in the current research environment failed with cache-miss/404 errors, including the 5 January 1945, 7 June 1945, and 5 June 1946 relevant-page attempts. Therefore:
 
 - the municipal wording is preserved as **OCR/TEXT ONLY**;
 - no new evidence/source ID is created;
@@ -60,7 +67,7 @@ The official City historic-resource record for Clarence Farr identifies him by f
 
 ## What this may eventually help answer
 
-If later records identify C. P. Farr and the rented building, the 1945–1946 payments could help reconstruct City recreation facilities and clarify whether the word **recreation** in municipal finance records has any connection at all to the privately operated **Harr's Recreation Center at 505 Main**. At present there is no such connection.
+If later records identify C. P. Farr and the rented building, the 1944–1946 payments could help reconstruct City recreation facilities and clarify whether the word **recreation** in municipal finance records has any connection at all to the privately operated **Harr's Recreation Center at 505 Main**. At present there is no such connection.
 
 The existing 505 chain remains:
 
@@ -72,9 +79,9 @@ The existing 505 chain remains:
 
 ## Next checks
 
-1. Visually inspect the 1945 and 1946 claim pages and confirm the C. P. Farr / $150 / recreation-building-rent alignment.
+1. Visually inspect the 1944–1946 claim pages and confirm the C. P. Farr / $150 / recreation-building-rent alignment.
 2. Identify **C. P. Farr** from a direct directory, election, obituary, property, or municipal record before merging with any named Farr.
-3. Search remaining **1944–1946** finance/property records for the address or description of the City's rented recreation building and determine the first/last month of the rent pattern; the recovered pattern now reaches at least May 1945.
+3. Search remaining **1944–1946** finance/property records for the address or description of the City's rented recreation building and determine the first/last month of the rent pattern; the recovered pattern now reaches at least December 1944.
 4. Keep municipal recreation-program rent separate from private pool-hall/recreation-center trade names unless a direct premises record connects them.
 5. Continue the backward 505 search for contemporary Edwin F. Farr / Farr's Pool Hall / 505 Main license or directory evidence in the 1930s–early 1940s and the forward 1945–1947 liquor-license search for Harr/Farr succession evidence.
 
