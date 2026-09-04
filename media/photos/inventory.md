@@ -1,16 +1,16 @@
 # Definitive Repository Photograph Inventory
 
-Audit date: **31 August 2026**  
+Audit date: **4 September 2026**
 Scope: every committed raster file, with photographs distinguished from maps, newspaper clippings, directory pages, screenshots, and artifact images.
 
 ## Result
 
-- **75 committed raster files** in the repository.
-- **48 photographs/aerials**, all stored together under `media/photos/`.
+- **77 committed raster files** in the repository.
+- **50 photographs/aerials**, all stored together under `media/photos/`.
 - **27 source-document images** kept in their canonical source-class folders: 14 newspaper images, 8 record/directory images, 3 map images, and 2 artifact images.
-- **All 75 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
+- **All 77 raster files are recorded by exact repository path** in `media/photo-metadata-register.md`.
 - **No byte-identical raster duplicates** were found.
-- Five recent steward-supplied historical JPEGs are exact byte matches; the P-1456 steward JPEG remains preserved by exact signature and represented in-repository by a substantive-duplicate current CCHS derivative.
+- Recent steward-supplied historical JPEGs are reconciled below by exact hash or documented substantive-duplicate relationship.
 - No photograph is committed or currently cataloged as **514 Main Street**. The snow photograph is cataloged as **516 Main Street** and committed as `IMG-0723`.
 
 This inventory is a repository-presence audit. It does not convert a catalog caption, filename, or visual interpretation into independent proof of an address, date, person, business, or building.
@@ -25,7 +25,7 @@ This inventory is a repository-presence audit. It does not convert a catalog cap
 
 `IMG-0737` is a separate undated CCHS aerial of Oregon City (`P-9379`; accession `2022.012.001`), preserved at [`aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg`](aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg). CCHS supplies no exposure date; it is not folded into the dated 38-frame photocompare sequence.
 
-### Street-level and early photographs — 9 files
+### Street-level and early photographs — 11 files
 
 | Media ID | Cataloged subject/date | Canonical repository file | Status and limit |
 | --- | --- | --- | --- |
@@ -118,3 +118,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Actual image visually verified; **G. H. Youngs Collection. Oregon City Ore.** lettering visible.
 - Source/evidence: `S-209` / `E-189`. Highest-resolution live CCHS public derivative preserved; steward-uploaded derivative separately visually verified and hash-recorded.
 - Interpretation limit: unresolved against 1916 W. W. Bradley newspaper listings at 507 Main.
+
+### IMG-0739 — CCHS MOT:P-370 Young's Curio Store, 507 Main, 1907/1916 date conflict
+- File: `media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg`
+- Source/evidence: `S-210` / `E-190`
+- CCHS object: `MOT:P-370`; catalog address 507 Main.
+- Image visibly shows **NEW & SECONDHAND YOUNG'S CURIO STORE** signage.
+- Structured date is 1916, but description says duplicate `MOT:P-6253` is the same picture dated 1907; exposure date unresolved.
+- Steward SHA-256 `9c29b441dcc12f5b9f44e70000fb43f444263323bc23ac1fad5b02afc96a2136`; repository derivative SHA-256 `03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af`; byte match `false`.

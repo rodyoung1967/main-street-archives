@@ -1343,3 +1343,23 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward-uploaded derivative separately inspected: 1,106,345 bytes; 1486 × 2048 px; SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864`. Same cataloged photograph, not byte-identical.
 - Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916
 - Review: [`1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md`](../evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md)
+
+## IMG-0739 — CCHS MOT:P-370 Young's Curio Store at 507 Main — 1907/1916 date conflict
+
+- Type: Historic storefront photograph; Clackamas County Historical Society.
+- Repository file: `media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg`
+- Original steward filename: `G.H. Young's 2nd Hand and Curio Shop 1916(2).jpg`
+- Status: `committed`
+- Source: `S-210`
+- Evidence: `E-190`
+- External Entry/Object ID: **MOT:P-370**.
+- Related person/business/building: `P-076` / `BUS-067` / `B-003`.
+- Visual verification: sign clearly reads **NEW & SECONDHAND YOUNG'S CURIO STORE**.
+- Catalog address: **507 Main Street, Oregon City**; not treated as confidently legible image text.
+- Date conflict: structured date **1916**, but description says duplicate **MOT:P-6253** is the same picture dated **1907**.
+- Reverse-side Ray O. Young stamp: catalog description only; reverse image not supplied.
+- Steward upload: 599,499 bytes; 2048 × 1289 px; SHA-256 `9c29b441dcc12f5b9f44e70000fb43f444263323bc23ac1fad5b02afc96a2136`.
+- Repository derivative: 504,030 bytes; 2400 × 1511 px; SHA-256 `03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af`.
+- Byte match to steward upload: **false**.
+- Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916
+- Review: [`1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md`](../evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md)

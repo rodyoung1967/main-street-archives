@@ -1146,3 +1146,9 @@ sources:
     url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916"
     repository_file: "media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg"
     notes: "Steward-supplied JPEG visually verified; repository preserves the highest-resolution live CCHS public derivative of the same photograph (not byte-identical to the steward derivative); CCHS catalog metadata identifies G. H. Young Store, 507 Main Street, Oregon City, 1916. Image itself shows G. H. Youngs Collection / Oregon City Ore. lettering but not the street number or year. External object ID P-502. Related E-189/IMG-0738/P-076/BUS-067/B-003; 1916 W. W. Bradley 507 conflict remains unresolved."
+
+  - id: S-210
+    name: "Clackamas County Historical Society MOT:P-370, G.H. Young's 2nd Hand and Curio Shop 1916"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916"
+    repository_file: "media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg"
+    notes: "CCHS MOT:P-370; steward JPEG visually verified. Catalog supplies 507 Main and structured date 1916, while its duplicate note says same picture MOT:P-6253 has date 1907. Preserve date as unresolved. Related E-190/IMG-0739/P-076/BUS-067/B-003/RL-051."

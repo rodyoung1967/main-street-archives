@@ -1,0 +1,226 @@
+{
+  "byte_match_to_steward_upload": false,
+  "entry": {
+    "account_id": "4813",
+    "account_name": "Clackamas County Historical Society",
+    "account_slug": "clackamas-county-historical-society",
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned.",
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs"
+      }
+    ],
+    "hasCatalogNumber_sorter": "_________p0000000370",
+    "id": "d299c8b0-9b1e-11eb-b3ef-53e7205a00b4",
+    "media": [
+      {
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "complementary_color": "D4DDF0",
+          "dominant_color": "F0E7D4",
+          "public": {
+            "height": 484,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-vdUee9V.sm@1x.jpg",
+            "width": 768
+          },
+          "public_2x": {
+            "height": 484,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-vdUee9V.sm@2x.jpg",
+            "width": 768
+          },
+          "public_highres": {
+            "height": 756,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-vdUee9V.lg@1x.jpg",
+            "width": 1200
+          },
+          "public_highres_2x": {
+            "height": 756,
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-vdUee9V.lg@2x.jpg",
+            "width": 1200
+          },
+          "public_thumbnail": {
+            "height": 200,
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-sulPNaK.tn.JPG",
+            "width": 200
+          },
+          "public_thumbnail_2x": {
+            "height": 200,
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-sulPNf5.tn@2x.JPG",
+            "width": 200
+          }
+        },
+        "description": "Origsize: 3\" x 4\"; Origformat: Print-Photographic",
+        "name": "Young's Curio Store, Oregon City, 1916.",
+        "uuid": "5d01dc20-9b3f-11eb-97c3-a30f15c9573f"
+      }
+    ],
+    "next_id": "a74b8d50-9b1f-11eb-b3ef-53e7205a00b4",
+    "prev_id": "db47c4d0-9b1e-11eb-b3ef-53e7205a00b4",
+    "properties": {
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "order": 2,
+        "value_text": "P-370",
+        "width": "w-xs-12"
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "order": 5,
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "order": 1,
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_date": "1916-01-01T00:00:00.000Z",
+                "fuzzydate_value": "1916"
+              }
+            },
+            "width": "w-xs-6"
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "order": 2,
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Oregon City"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "County",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Clackamas"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "State",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "Oregon"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "Country",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "United States of America"
+                },
+                "width": "w-xs-6"
+              },
+              {
+                "label": "Continent",
+                "value_reference": {
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place",
+                  "reference_value": "North America"
+                },
+                "width": "w-xs-6"
+              }
+            ],
+            "width": "w-xs-6"
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "order": 3,
+            "value_text": "Medium: Photographic Paper",
+            "width": "w-xs-12"
+          }
+        },
+        "width": "w-xs-12"
+      },
+      "hasDescription": {
+        "label": "Description",
+        "order": 4,
+        "value_text": "Young's Curio Store, Oregon City, Oregon.  Store located at 507 Main Street.  Back of postcard is stamped \"Ray O. Young, 757 Division Street, Oregon City, Ore. - OL 6-7132, Collector of Historical Events.\"\nSame picture P-6253 has date of 1907.\n\n**Duplicate P-6253**",
+        "width": "w-xs-12"
+      },
+      "hasName": {
+        "label": "Name/Title",
+        "order": 1,
+        "value_text": "G.H. Young's 2nd Hand and Curio Shop 1916",
+        "width": "w-xs-12"
+      },
+      "hasTag": {
+        "label": "Tags",
+        "order": 3,
+        "value_reference": {
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Tag",
+          "reference_value": "Duplicate"
+        },
+        "width": "w-xs-12"
+      }
+    },
+    "slug": "g.h.-youngs-2nd-hand-and-curio-shop-1916"
+  },
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916",
+  "live_metadata_contains_p6253_1907_conflict": true,
+  "matched_derivative_kind": "path",
+  "matched_public_derivative": "https://d8e7jbdw4fu0e.cloudfront.net/4813/5d01dc20-9b3f-11eb-97c3-a30f15c9573f-vdUee9V.lg@2x.jpg",
+  "repository_derivative_bytes": 504030,
+  "repository_derivative_dimensions": [
+    2400,
+    1511
+  ],
+  "repository_derivative_sha256": "03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af",
+  "retrieved_from": "https://api.catalogit.app/api/public/accounts/4813/entries/d299c8b0-9b1e-11eb-b3ef-53e7205a00b4",
+  "search_url": "https://api.catalogit.app/api/public/accounts/4813/search?query=P-370&size=50",
+  "steward_upload_bytes": 599499,
+  "steward_upload_dimensions": [
+    2048,
+    1289
+  ],
+  "steward_upload_filename": "G.H. Young's 2nd Hand and Curio Shop 1916(2).jpg",
+  "steward_upload_sha256": "9c29b441dcc12f5b9f44e70000fb43f444263323bc23ac1fad5b02afc96a2136"
+}

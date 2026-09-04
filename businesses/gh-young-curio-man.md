@@ -19,3 +19,9 @@ Together, the visible 1910 address, the 1911 one-door-north report, and the 1912
 CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) catalogs a photographed **G. H. Young Store at 507 Main Street in 1916**. The preserved image visibly bears **“G. H. Youngs Collection. Oregon City Ore.”** lettering. The cataloged address/year are institutional metadata rather than visible signage.
 
 This cannot simply extend continuous Young occupancy through 1916 because selected 1916 newspaper directory ads directly place **W. W. Bradley at 507 Main** (`E-116`, `E-119`). The transition date, catalog-date precision, and possibility of publication lag remain unresolved.
+
+## CCHS MOT:P-370 date conflict — 507 Main storefront
+
+CCHS MOT:P-370 is now preserved as `IMG-0739` (`S-210` / `E-190`). The photograph visibly identifies **YOUNG'S CURIO STORE**, while CCHS supplies **507 Main**. Its record is internally date-conflicted: structured date **1916**, but duplicate **MOT:P-6253** is said to be the same picture dated **1907**.
+
+Treat MOT:P-370 as strong storefront-identification evidence but not as a resolved 1916 occupancy anchor until `RL-051` is completed.
