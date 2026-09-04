@@ -50,7 +50,7 @@ The project-steward supplied filename says the view looks **south from Sixth tow
 
 The proposed orientation is compatible with the existing CCHS P-1456 record (`S-204` / `E-184` / `IMG-0733`), which CCHS directly describes as Main Street at **Sixth and Main looking south** in 1890. The two records should be aligned structure-by-structure before treating this new photograph's camera position as independently proved.
 
-If the steward filename orientation is correct, the **east-side Main Street block between Fifth and Sixth**—the block later containing 501/503/505 and higher odd numbers—appears along the left side of the view. This makes the photograph valuable pre-numbering structural/streetfront evidence, but exact later address boundaries have not yet been assigned to individual visible storefronts.
+If the steward filename orientation is correct, the **east-side Main Street block between Fifth and Sixth**—the block later containing 501/503/505 and higher odd numbers—appears along the right side of the view. This makes the photograph valuable pre-numbering structural/streetfront evidence, but exact later address boundaries have not yet been assigned to individual visible storefronts.
 
 Classification: **DOCUMENTED / DIRECT** for the CCHS object, 1890–1899 date range, Main Street scene and visible streetscape; **PROBABLE / WORKING HYPOTHESIS** for the exact Sixth-to-Fifth camera position and for mapping individual pictured storefronts to later 501/503/505 boundaries.
 
@@ -66,3 +66,8 @@ Classification: **DOCUMENTED / DIRECT** for the CCHS object, 1890–1899 date ra
 ## Best next comparison
 
 Align this image against the 1892 and 1900 Sanborn sheets and the fixed-location P-1456 1890 Sixth/Main-looking-south photograph. Use street intersections, building widths/heights, party walls, roof forms, projecting bays/awnings and sign-bearing walls to assign the photographed east-side storefront sequence before applying later street numbers.
+
+## Orientation correction — project steward, 4 September 2026
+
+The earlier integration mistakenly described the later 501/503/505 east-side frontage as being on the **left** side of the photograph. The project steward corrected the orientation: **when looking south from Sixth toward Fifth, the east-side / later 501/503/505 frontage is on the RIGHT side of the photograph.** Repository references to this image have been corrected accordingly. The separate caution remains that the Sixth-to-Fifth viewpoint comes from steward metadata/filename rather than the CCHS catalog wording for this object, and exact storefront-to-later-address divisions still require photo/Sanborn alignment.
+

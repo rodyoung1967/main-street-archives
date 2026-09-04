@@ -482,4 +482,4 @@ The specific later-address roofline mapping remains **PROBABLE / WORKING HYPOTHE
 
 CCHS `2008.008.003.104` (`S-214` / `E-194` / `IMG-0743` / `T-077`) catalogs a **Main Street, Oregon City** photograph to **1890–1899**. The steward filename identifies a southward view from Sixth toward Fifth; existing P-1456 (`S-204` / `E-184`) independently establishes a CCHS 1890 Sixth/Main-looking-south viewpoint and makes that interpretation plausible.
 
-If confirmed, the later 501/503/505 block is visible on the east/left side of Main. Exact storefront boundaries, specific exposure year, pre-1906 numbered addresses, occupancy and continuity remain unresolved.
+If confirmed, the later 501/503/505 block is visible on the east/right side of Main. Exact storefront boundaries, specific exposure year, pre-1906 numbered addresses, occupancy and continuity remain unresolved.

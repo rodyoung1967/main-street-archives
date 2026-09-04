@@ -1428,5 +1428,5 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Other identifiers: **Stevens 104**; **Stevens Photo #102**; **Bill Howell #2000**
 - Catalog note: medium **Negative**; negative location **Society Collection**.
 - Viewpoint note: steward filename says looking south from Sixth toward Fifth; this is preserved as project metadata, not institutional catalog wording. It is compatible with fixed-location CCHS P-1456 (`S-204` / `E-184`) but remains a **PROBABLE / WORKING HYPOTHESIS** until photo-to-photo/map alignment.
-- Target relevance: if that orientation is correct, the east-side Fifth-to-Sixth block later containing 501/503/505 appears on the left side of the view; exact later address divisions and structural continuity remain unresolved.
+- Target relevance: if that orientation is correct, the east-side Fifth-to-Sixth block later containing 501/503/505 appears on the right side of the view; exact later address divisions and structural continuity remain unresolved.
 - Review: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`

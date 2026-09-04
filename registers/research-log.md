@@ -436,3 +436,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - CCHS metadata is limited to **Main Street, Oregon City** and **1890–1899**. The steward filename's **looking south from Sixth toward Fifth** wording is preserved as project metadata, not institutional catalog wording.
 - The proposed viewpoint is compatible with fixed-location P-1456 (`S-204` / `E-184`), but exact camera position and storefront-to-later-501/503/505 mapping remain **PROBABLE / WORKING HYPOTHESIS** pending photo/Sanborn alignment.
 - Explicitly did not backdate 501/503/505 street numbers, select a single exposure year, or infer continuity into later numbered or post-1922 structures.
+
+## 4 September 2026 — IMG-0743 orientation correction
+
+- Project steward corrected the side-of-frame interpretation for `S-214` / `E-194` / `IMG-0743`.
+- For a view looking **south from Sixth toward Fifth**, the east-side frontage later associated with **501/503/505 Main is on the RIGHT side of the photograph**, not the left.
+- Corrected all integrated IMG-0743 references carrying the mistaken left-side wording.
+- This correction changes side-of-frame orientation only; the CCHS catalog still supplies only `Main Street, Oregon City` and date range 1890–1899, while the Sixth-to-Fifth viewpoint remains steward metadata and exact storefront-to-number mapping remains unresolved.
+
