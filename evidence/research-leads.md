@@ -309,3 +309,16 @@ Use the visually verified CCHS photograph `IMG-0734` / `S-205` / `E-185` and dir
 
 ## RL-050 — Date and map CCHS 2019.001.00179 Downtown Oregon City overview
 Use `IMG-0735` / `S-206` / `E-186` to identify the camera location and date of the undated CCHS **Downtown Oregon City** overview. Start with the steward filename's **4th–6th streets** focus as a search aid only, not proof. Compare Willamette Falls/river geometry, Main Street alignment, prominent foreground buildings, rooflines, street openings, and industrial structures against the 1884, 1888, 1890, 1892, 1900, 1911, 1925 and later Sanborn/photo sequence. Test whether the photograph was made from the east bluff/high ground before calling it a true aerial. Once geometry is secure, identify which visible structures correspond to the Fourth–Sixth Street blocks and whether any predecessor of the 501/503/505 frontage can be seen.
+
+## RL-051 — Resolve CCHS MOT:P-370 / MOT:P-6253 duplicate photograph date
+
+CCHS MOT:P-370 is preserved as `IMG-0739` / `S-210` / `E-190`. The photograph visibly shows **NEW & SECONDHAND YOUNG'S CURIO STORE** and CCHS catalogs it at 507 Main. Structured date **1916** conflicts with the description's statement that duplicate **MOT:P-6253** is the same picture dated **1907**.
+
+Next work:
+1. Retrieve and visually inspect MOT:P-6253 and compare the image directly to MOT:P-370.
+2. Capture P-6253 date, description, donor/accession, photographer, postcard, and duplicate fields.
+3. Ask CCHS for internal notes explaining whether 1907 or 1916 is an exposure, copy, donation, or cataloging date.
+4. Obtain and inspect the postcard reverse referenced by MOT:P-370.
+5. Use dated 1907–1916 advertisements/directories and storefront details to bracket the image.
+
+Until resolved, do not use MOT:P-370 as unqualified 1916 occupancy evidence and do not choose 1907 solely from the duplicate note.

@@ -2910,3 +2910,16 @@ evidence:
     related_people: [P-076, P-041]
     related_businesses: [BUS-067, BUS-026]
     related_buildings: [B-003]
+
+  - id: E-190
+    name: "CCHS MOT:P-370 catalogs Young's Curio Store at 507 Main with 1907/1916 duplicate-date conflict"
+    type: "Institutional photograph/catalog metadata plus direct visual review; documented/visually verified with unresolved 1907/1916 date conflict"
+    claims:
+      - "The photograph visibly shows NEW & SECONDHAND YOUNG'S CURIO STORE signage."
+      - "CCHS MOT:P-370 catalogs the store at 507 Main Street with structured date 1916."
+      - "The same CCHS description says duplicate MOT:P-6253 is the same picture dated 1907, so the exposure date remains unresolved."
+    confidence: "Very High for visible signage and catalog wording; unresolved for exposure date."
+    related_sources: [S-210]
+    related_people: [P-076, P-041]
+    related_businesses: [BUS-067, BUS-026]
+    related_buildings: [B-003]

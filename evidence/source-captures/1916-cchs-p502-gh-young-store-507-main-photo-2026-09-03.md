@@ -43,3 +43,7 @@ Both source families are preserved. The archive does **not** choose one chronolo
 2. Locate Bradley's acquisition/opening/move notice and determine whether he succeeded Young at the same room.
 3. Ask CCHS whether MOT:P-502 has negative-envelope, donor, accession, photographer, or date-control notes beyond the public fields.
 4. Compare MOT:P-502 with CCHS `MOT:P-370` and `MOT:P-384` to determine whether they show the same display/storefront and whether any has stronger dating provenance.
+
+## MOT:P-370 date-control update — 4 September 2026
+
+The actual MOT:P-370 photograph is now preserved separately as `IMG-0739` / `S-210` / `E-190`. Its record has an internal **1907/1916 duplicate-date conflict** because CCHS dates MOT:P-370 to 1916 but states duplicate MOT:P-6253 is the same picture dated 1907. MOT:P-370 is therefore not an uncomplicated independent 1916 confirmation. MOT:P-502 remains separately cataloged 507 Main / 1916 and continues to conflict with selected W. W. Bradley 1916 listings on its own evidence.

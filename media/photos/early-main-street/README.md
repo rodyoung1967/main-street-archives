@@ -1,6 +1,6 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **10 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0736`); four additional public-source full scenes remain planned**
+Status: **11 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0736`); four additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
@@ -159,3 +159,7 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0738 — CCHS MOT:P-502 G. H. Young Store, 507 Main, cataloged 1916
 
 `IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg` preserves the highest-resolution live CCHS public derivative (SHA-256 `459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f`); the separately inspected steward-upload derivative is SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864` and is not byte-identical. Institutional metadata supplies **507 Main** and **1916**; visible lettering supplies **G. H. Youngs Collection. Oregon City Ore.** The 1916 date/address must be reconciled with selected newspaper directory advertisements placing W. W. Bradley at 507. See `S-209` / `E-189` and the [source review](../../../evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md).
+
+## IMG-0739 — CCHS MOT:P-370 Young's Curio Store at 507 Main — date conflict
+
+`IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg` preserves the current CCHS public derivative of the steward-supplied MOT:P-370 photograph. Visible sign: **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS supplies 507 Main and structured date 1916, but its description says duplicate **MOT:P-6253** is the same picture dated 1907. Treat the exposure date as **UNRESOLVED CONFLICT (1907/1916)**. See `S-210` / `E-190` / `RL-051` and the [source review](../../../evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md).

@@ -1600,3 +1600,15 @@ Original uploaded filename: `G. H. Young Store - 507 Main Street Oregon City 191
 Repository derivative integrity: 1,572,307 bytes; 2400 × 3306 px; SHA-256 `459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f`. Steward upload separately inspected: 1,106,345 bytes; 1486 × 2048 px; SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864`.
 Related evidence: `E-189`; image `IMG-0738`; person `P-076`; business `BUS-067`; building `B-003`.
 Notes: CCHS catalogs the photograph as **G. H. Young Store - 507 Main Street Oregon City 1916**. Visible window lettering reads **G. H. Youngs Collection. Oregon City Ore.** The image itself does not print 507 or 1916; those fields are institutional metadata. Preserve an unresolved conflict with selected 1916 newspaper directory advertisements placing W. W. Bradley at 507 (`E-116`, `E-119`).
+
+## S-210 — Clackamas County Historical Society MOT:P-370, G.H. Young's 2nd Hand and Curio Shop 1916
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** and live CatalogIt metadata checked 4 September 2026.
+Public HUB entry: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916
+Repository image: `media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg`
+Public API snapshot: `evidence/source-captures/1907-1916-cchs-p370-catalogit-public-api-2026-09-04.json`
+External museum ID: **MOT:P-370**.
+Original uploaded filename: `G.H. Young's 2nd Hand and Curio Shop 1916(2).jpg`
+Steward integrity: 599,499 bytes; 2048 × 1289 px; SHA-256 `9c29b441dcc12f5b9f44e70000fb43f444263323bc23ac1fad5b02afc96a2136`.
+Repository derivative integrity: 504,030 bytes; 2400 × 1511 px; SHA-256 `03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af`.
+Related evidence: `E-190`; image `IMG-0739`; person `P-076`; business `BUS-067`; building `B-003`; date-conflict lead `RL-051`.
+Notes: Visible sign reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS supplies 507 Main and structured date 1916, but the same description says duplicate **MOT:P-6253** is the same picture dated **1907**. Exposure date remains unresolved.

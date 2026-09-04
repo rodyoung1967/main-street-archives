@@ -389,3 +389,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Media: `IMG-0738` — `media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg`.
 - Related entities: `P-076`, `BUS-067`, `B-003`; conflict context `P-041` / `BUS-026`.
 - Review: `evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md`.
+
+## S-210 / E-190 / IMG-0739 — CCHS MOT:P-370 Young's Curio Store
+
+- Source: `S-210` — CCHS MOT:P-370 and visually verified steward photograph.
+- Evidence: `E-190` — visible Young's Curio Store signage, cataloged 507 Main, with 1907/1916 duplicate-date conflict.
+- Media: `IMG-0739` — `media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg`.
+- Related: `P-076`, `BUS-067`, `B-003`; 1916 conflict context `P-041` / `BUS-026`.
+- Research lead: `RL-051` — retrieve and reconcile duplicate MOT:P-6253.
+- Review: `evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md`.

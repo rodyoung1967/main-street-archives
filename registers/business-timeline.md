@@ -206,3 +206,7 @@ No succession, rename or 503 Kwality link is inferred from these rows. Follow `O
 ## 1916 CCHS MOT:P-502 Young / Bradley conflict
 
 CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) is cataloged **G. H. Young Store — 507 Main Street — 1916** and visibly carries G. H. Young collection lettering. Selected 1916 directory advertisements place **W. W. Bradley at 507 Main**. This is a retained source conflict, not a resolved transfer date.
+
+## 1907/1916 CCHS MOT:P-370 Young storefront date conflict
+
+CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio Store and is cataloged at 507 Main. Structured date 1916 conflicts with the catalog statement that duplicate MOT:P-6253 is the same picture dated 1907. No transfer or occupancy date is resolved from this image alone.

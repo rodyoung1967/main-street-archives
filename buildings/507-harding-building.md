@@ -187,3 +187,9 @@ The evidence is compatible with a named building spanning more than one numbered
 The steward-supplied CCHS MOT:P-502 photograph is now preserved as `IMG-0738` (`S-209` / `E-189`). CCHS catalogs it as **G. H. Young Store — 507 Main Street — 1916**; the image visibly reads **“G. H. Youngs Collection. Oregon City Ore.”** but does not visibly print 507 or 1916.
 
 This adds direct photographic content to the museum-side 1916/507 record, but it conflicts with selected visually verified 1916 newspaper directory advertisements placing **W. W. Bradley at 507 Main** (`E-116`, `E-119`). The exact Young→Bradley transition and the photograph's exposure date remain unresolved. Do not use MOT:P-502 to prove property ownership, continuous 1916 tenancy, or survival of the photographed structure.
+
+## CCHS MOT:P-370 — Young storefront date conflict
+
+`IMG-0739` / `S-210` / `E-190` preserves a CCHS photograph cataloged at **507 Main** whose storefront sign visibly reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. The catalog date is not stable: MOT:P-370 says 1916 but its duplicate note says the same picture MOT:P-6253 is dated 1907.
+
+This supports the visual identity of a Young storefront associated by CCHS with 507 Main, but it does not by itself establish exposure year, legal ownership, or building continuity.

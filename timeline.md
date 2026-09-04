@@ -199,6 +199,10 @@ No exact 503/505 occupant, parcel, demolition, or transaction-day inference foll
 
 CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) catalogs a photograph as **G. H. Young Store, 507 Main Street, Oregon City, 1916**; the image visibly reads **“G. H. Youngs Collection. Oregon City Ore.”** Selected visually verified 1916 newspaper directory advertisements instead place **W. W. Bradley at 507 Main** (`E-116`, `E-119`). Preserve this as an **UNRESOLVED CONFLICT** pending a dated transition or stronger exposure-date provenance.
 
+### 1907/1916 — CCHS MOT:P-370 duplicate-date conflict
+
+CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly shows **NEW & SECONDHAND YOUNG'S CURIO STORE** and is cataloged at **507 Main**. Structured date **1916** conflicts with the description's statement that duplicate **MOT:P-6253** is the same picture dated **1907**. Preserve the exposure date as an **UNRESOLVED CONFLICT**.
+
 ## 1917 — selected 108 Fifth, 519, 617 and 619 Main anchors
 
 The twelve-issue visual sample (`E-120` / `S-134`) directly repeats Scripture & May at **108 Fifth** in January/February, the Electric Store at **Andresen Building, 619 Main** in January, Theroux Music House at **519 Main** in October, and Jones Drug Company at **617 Main** in November. These are dated observations, not proof of uninterrupted occupancy or one-room succession. The sample is not exhaustive annual coverage; 1917 remains **IN PROGRESS**.

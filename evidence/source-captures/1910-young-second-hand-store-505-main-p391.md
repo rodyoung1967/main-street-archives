@@ -129,7 +129,7 @@ This reduces the risk of treating every George Young / second-hand-store referen
 The same catalog section also includes:
 
 - **MOT:P-389** — Young's 2nd Hand store at **4th and Main**, 1901;
-- **MOT:P-370 / MOT:P-384** — Young/Young's Curio Store at **507 Main**, 1916; `MOT:P-384` identifies George H. Young in the image;
+- **MOT:P-370 / MOT:P-384** — CCHS associates Young/Young's Curio Store with **507 Main**; `MOT:P-384` remains a 1916 catalog lead and identifies George H. Young, while the now-inspected `MOT:P-370` record has an internal **1907/1916 duplicate-date conflict** because it says duplicate `MOT:P-6253` is the same picture dated 1907;
 - **MOT:P-392** — Pioneer Market, **corner Fifth and Main**, 1908.
 
 These records indicate that the museum collection may contain useful visual evidence for reconstructing the Fifth/Main frontage and George H. Young's moves.
@@ -146,3 +146,7 @@ These records indicate that the museum collection may contain useful visual evid
 ## MOT:P-502 follow-up — additional 1916 / 507 Main CCHS photograph
 
 CCHS MOT:P-502 is now preserved as `IMG-0738` / `S-209` / `E-189`. Its catalog metadata identifies **G. H. Young Store — 507 Main Street — 1916**, and its image visibly bears G. H. Young collection lettering. It independently strengthens the museum-catalog side of the earlier MOT:P-370/MOT:P-384 1916/507 leads, while creating an explicit conflict with the selected 1916 newspaper directory advertisements placing W. W. Bradley at 507. See [1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md](1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md).
+
+## MOT:P-370 actual-image follow-up — 4 September 2026
+
+The actual MOT:P-370 photograph is now preserved as `IMG-0739` / `S-210` / `E-190`. Visible signage reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS catalogs 507 Main and structured date 1916, but its duplicate note says the same picture MOT:P-6253 is dated 1907. Use it for storefront identity and 507 catalog association, but not as unqualified 1916 evidence until `RL-051` resolves the duplicate-date provenance.
