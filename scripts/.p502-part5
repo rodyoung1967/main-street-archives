@@ -63,6 +63,27 @@ text = text.replace(
 )
 evidence_yml.write_text(text, encoding="utf-8")
 
+# The generated register blocks inherited the archive's Markdown two-space
+# hard-break convention. `git diff --check` rejects those trailing spaces, so
+# strip trailing whitespace only inside the newly added S-209 and E-189 blocks.
+def strip_new_register_block(path, ident):
+    p = Path(path)
+    text = p.read_text(encoding="utf-8")
+    pattern = re.compile(
+        rf"(?ms)^(## {re.escape(ident)} —.*?)(?=^## |\Z)"
+    )
+    match = pattern.search(text)
+    if not match:
+        raise SystemExit(f"missing new register block {ident} in {path}")
+    cleaned = "\n".join(line.rstrip() for line in match.group(1).splitlines())
+    if match.group(1).endswith("\n"):
+        cleaned += "\n"
+    text = text[:match.start(1)] + cleaned + text[match.end(1):]
+    p.write_text(text, encoding="utf-8")
+
+strip_new_register_block("evidence/source-register.md", SID)
+strip_new_register_block("evidence/evidence-register.md", EID)
+
 # Ensure the compatibility helper itself never survives into the integrated tree.
 try:
     Path("scripts/.p502-part5").unlink()
