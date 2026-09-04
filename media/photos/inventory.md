@@ -160,6 +160,7 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence/timeline: `S-215` / `E-195` / `T-078`.
 - Target relevance: steward identifies later 501/503/505 predecessor frontage in the right-hand background; individual later-address boundaries remain **PROBABLE / WORKING HYPOTHESIS**.
 
+- Signage re-review: **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** is visually readable; a separate sign contains **FASHION**, fuller wording unresolved. The `(1)` re-upload is byte-identical to the already recorded steward file, so no duplicate binary/media ID is added.
 ### IMG-0745 — CCHS 2008.008.003.257 Oregon City view from Promenade at 5th St., 1960
 - File: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`
 - Dimensions: 2387 × 1600; 577,219 bytes; SHA-256 `6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d`

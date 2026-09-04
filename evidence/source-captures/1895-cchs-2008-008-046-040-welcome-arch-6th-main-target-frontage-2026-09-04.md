@@ -43,6 +43,18 @@ The photograph shows a large decorated **WELCOME** arch spanning Main Street, wi
 
 No later `501`, `503`, or `505` street numbers are readable in the image.
 
+## Signage re-review — 4 September 2026
+
+A second project-steward upload, `Welcome Arch, O.C. Main St., 1895(1).jpg`, was checked against the originally recorded steward JPEG. It is an **exact byte-identical duplicate**: 2048 × 1285, 886,058 bytes, SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`. No second `IMG-####` record is created; both uploads resolve to `IMG-0744`.
+
+Dedicated enlarged visual review of the right-background frontage adds the following sign transcription:
+
+- the large grocery sign reads **E. E. WILLIAMS.** above **GROCERIES** and **FRUIT-FEED**;
+- a separate more distant storefront sign on the same steward-identified frontage visibly contains the word **FASHION**; the surrounding wording is too indistinct to identify the full business name safely;
+- the project steward clarifies that the photograph is looking **south from Sixth/Main toward Fifth Street** and that these signs are on the predecessor frontage later associated with **501/503/505 Main**.
+
+The sign text is direct visual evidence in the 1895 photograph. The later-number mapping is not: no 501, 503 or 505 number is visible, and the archive does **not** yet assign E. E. Williams or the `FASHION` sign to one specific later numbered storefront. Individual 501-vs-503-vs-505 boundaries remain **PROBABLE / WORKING HYPOTHESIS** pending photo/Sanborn alignment.
+
 ## Target-frontage interpretation
 
 The CCHS catalog directly fixes the scene at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501, 503 and 505 Main** in the **background on the right side of the street**, beyond the arch.

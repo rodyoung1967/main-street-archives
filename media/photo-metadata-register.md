@@ -1446,6 +1446,10 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Target relevance: project steward identifies the predecessor frontage later associated with **501/503/505** in the **right-hand background beyond the arch**. CCHS directly supplies Sixth/Main and 1895, but individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS**; no pre-1906 numbering or post-1922 continuity inference.
 - Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`
 
+### 4 September 2026 signage re-review / duplicate reconciliation
+- Enlarged visual transcription: **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED**; a separate distant sign visibly contains **FASHION**, with fuller wording unresolved.
+- Steward spatial annotation: signs are on the right-background predecessor frontage later associated with 501/503/505 in a view looking south from Sixth/Main toward Fifth; exact later storefront number remains unresolved.
+- Re-upload `Welcome Arch, O.C. Main St., 1895(1).jpg` is an **exact byte duplicate** of the original steward upload: 2048 × 1285; 886,058 bytes; SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`. It is therefore retained as provenance only and does not receive a new media ID.
 ## IMG-0745 — CCHS 2008.008.003.257 Oregon City view from Promenade at 5th St., 1960
 - Repository file: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`
 - CCHS object: `2008.008.003.257`

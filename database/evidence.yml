@@ -2980,6 +2980,10 @@ evidence:
       - "The photograph directly shows the decorated arch and commercial Main Street storefronts extending beyond it."
       - "Project steward identifies the predecessor frontage later associated with 501/503/505 in the right-hand background; this is consistent with corrected Sixth-to-Fifth orientation and 1892 Sanborn geometry."
       - "The later address numbers are not visible; individual storefront-to-number boundaries and structural continuity remain unresolved."
+      - Direct enlarged visual re-review of IMG-0744 reads "E. E. WILLIAMS." above "GROCERIES" and "FRUIT-FEED" on a grocery sign.
+      - A separate more distant sign on the steward-identified target frontage visibly contains "FASHION"; surrounding wording and the full business identity remain unresolved.
+      - The project steward identifies the view as looking south from Sixth/Main toward Fifth and places these signs on the predecessor frontage later associated with 501/503/505; no individual later-number assignment is made.
+      - The re-upload Welcome Arch, O.C. Main St., 1895(1).jpg is byte-identical to the already tracked steward JPEG (2048 x 1285; 886058 bytes; SHA-256 90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e); no duplicate media ID was created.
     confidence: "Very High for CCHS object/date/location and visible streetscape; PROBABLE / WORKING HYPOTHESIS for individual later-address storefront mapping."
     related_sources: [S-215, S-204, S-214, S-018]
     related_buildings: [B-005, B-001, B-002]

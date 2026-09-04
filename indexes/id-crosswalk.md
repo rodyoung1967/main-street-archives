@@ -449,6 +449,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Limit: later street numbers are not visible or backdated; exact individual storefront boundaries and structural continuity remain unresolved.
 - Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`.
 
+- Signage re-review: `IMG-0744` directly shows **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and a separate sign containing **FASHION**; later 501/503/505 storefront assignment remains unresolved. The `(1)` steward re-upload is an exact byte duplicate and does not create a new ID.
 ## S-216 / E-196 / IMG-0745 / T-079 — CCHS 1960 Promenade at Fifth Street downtown view
 - Source: `S-216` — CCHS `2008.008.003.257`, **Oregon City (view from the Promenade at 5th St.)**, 1960.
 - Evidence: `E-196` — dated elevated downtown context; exact 501/503/505 building assignment unresolved.

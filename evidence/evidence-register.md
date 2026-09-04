@@ -1712,6 +1712,7 @@ Claims: CCHS object `2008.008.046.040` is cataloged **Oregon City "Welcome Arch"
 Limits: `501`, `503`, and `505` are not readable and should not be backdated as official 1895 numbers. Exact individual storefront-to-later-address boundaries, occupants, ownership, and continuity to later numbered or post-1922 structures are not proved by this photograph alone.  
 Confidence: **Very High** for CCHS object/date/location and visible streetscape; **PROBABLE / WORKING HYPOTHESIS** for assigning individual visible predecessor storefronts to later 501/503/505 boundaries.
 
+Signage re-review, 4 September 2026: enlarged visual inspection of `IMG-0744` reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** on the grocery sign. A separate distant sign visibly contains **FASHION**, but the rest of that business name is unresolved. The project steward places both signs on the right-background predecessor frontage later associated with 501/503/505 while looking south from Sixth/Main toward Fifth; no individual later number is assigned. A re-upload named `Welcome Arch, O.C. Main St., 1895(1).jpg` is byte-identical to the already tracked steward JPEG (SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`), so no duplicate media ID was created.
 ## E-196 — CCHS 1960 Promenade-at-Fifth elevated downtown view
 Type: Institutional photograph/catalog metadata plus direct visual review; **DOCUMENTED / DIRECT** for the dated downtown scene; target-building assignment unresolved.  
 Source: `S-216`; image `IMG-0745`; timeline `T-079`.  

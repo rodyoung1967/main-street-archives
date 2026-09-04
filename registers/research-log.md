@@ -458,3 +458,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Exact CCHS object and largest public derivative retrieved by catalog number; project-steward upload visually reviewed and separately hashed.
 - Treated the image as **DOCUMENTED / DIRECT** dated downtown structural context. Did not assign individual roofs/walls to 501/503/505 or infer additions, remodeling, ownership or occupancy without separate alignment.
 - Best next use: compare against the 1950 Sanborn and later aerials/photos to isolate the east-side Fifth-to-Sixth block and test 503/505 rear-footprint conditions.
+
+## 4 September 2026 — IMG-0744 Welcome Arch signage re-review
+
+- Re-reviewed the 1895 Welcome Arch image at enlarged scale.
+- Directly transcribed **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED**; a separate sign visibly contains **FASHION**, while its remaining wording is unresolved.
+- Preserved the project-steward clarification that the view looks south from Sixth/Main toward Fifth and that the signs lie on the predecessor frontage later associated with 501/503/505; no individual later number is assigned.
+- Re-upload `Welcome Arch, O.C. Main St., 1895(1).jpg` is byte-identical to the previously tracked steward JPEG (2048 × 1285; 886,058 bytes; SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`), so no duplicate media object was created.
+- Also corrected stale `left side` wording that had reappeared in the three unified timelines for `IMG-0743`; the already-recorded steward correction is **RIGHT side** when looking south from Sixth toward Fifth.
