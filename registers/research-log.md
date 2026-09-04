@@ -444,3 +444,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Corrected all integrated IMG-0743 references carrying the mistaken left-side wording.
 - This correction changes side-of-frame orientation only; the CCHS catalog still supplies only `Main Street, Oregon City` and date range 1890–1899, while the Sixth-to-Fifth viewpoint remains steward metadata and exact storefront-to-number mapping remains unresolved.
 
+## 4 September 2026 — CCHS Welcome Arch 1895 photo integration
+
+- Preserved `IMG-0744` / `S-215` / `E-195` / `T-078` for CCHS `2008.008.046.040`, **Oregon City "Welcome Arch"**, **6th and Main**, **1895**.
+- Exact CCHS object and largest public derivative retrieved by catalog number; steward upload separately tracked by original filename, dimensions, bytes and SHA-256.
+- Project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**.
+- Classified the Sixth/Main date/location and visible streetscape as **DOCUMENTED / DIRECT**; exact individual later-address storefront boundaries remain **PROBABLE / WORKING HYPOTHESIS**.
+- No pre-1906 numbered-address, occupancy, ownership, or structural-continuity claim was introduced.

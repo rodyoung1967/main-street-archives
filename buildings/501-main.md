@@ -5,8 +5,8 @@
 - Building ID: `B-005`
 - Related businesses: `BUS-045`, `BUS-024`, `BUS-025`
 - Related people: `P-055`, `P-037`, `P-038`, `P-099`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`, `E-195`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`, `S-215`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 - Unified timeline: [501 Main Street](../timelines/501-main.md)
@@ -157,3 +157,9 @@ Classification: **PROBABLE / WORKING HYPOTHESIS for exact target-frontage assign
 `S-214` / `E-194` / `IMG-0743` preserves CCHS `2008.008.003.104`, cataloged **Main Street, Oregon City**, date **1890–1899**. The project-steward filename identifies the view as looking south from Sixth toward Fifth. That proposed orientation is compatible with fixed-location P-1456 (`S-204` / `E-184`) but is not catalog wording for this object.
 
 If the orientation is confirmed, the east-side Fifth-to-Sixth frontage later containing **501/503/505 Main** appears along the right side of the photograph. Classification for exact storefront-to-later-address mapping remains **PROBABLE / WORKING HYPOTHESIS**. The later numbers are not visible, the exposure year is not narrowed within 1890–1899, and continuity to numbered or post-1922 structures is not established.
+
+## 1895 Welcome Arch photograph — fixed Sixth/Main target-side context
+
+`S-215` / `E-195` / `IMG-0744` preserves CCHS `2008.008.046.040`, cataloged **Oregon City "Welcome Arch"**, **6th and Main**, **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**.
+
+The institutional Sixth/Main location makes this photograph a strong spatial anchor and is consistent with the corrected right-side orientation in `S-214` / `E-194` and the 1892 Sanborn block geometry. Exact individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS** because the later numbers are not visible and formal citywide numbering came later. No occupancy, title, or continuity to post-1922/surviving structures is inferred.

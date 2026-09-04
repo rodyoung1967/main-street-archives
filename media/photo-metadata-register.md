@@ -1430,3 +1430,18 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Viewpoint note: steward filename says looking south from Sixth toward Fifth; this is preserved as project metadata, not institutional catalog wording. It is compatible with fixed-location CCHS P-1456 (`S-204` / `E-184`) but remains a **PROBABLE / WORKING HYPOTHESIS** until photo-to-photo/map alignment.
 - Target relevance: if that orientation is correct, the east-side Fifth-to-Sixth block later containing 501/503/505 appears on the right side of the view; exact later address divisions and structural continuity remain unresolved.
 - Review: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`
+
+## IMG-0744 — CCHS 2008.008.046.040 Oregon City "Welcome Arch", 6th and Main, 1895
+- Repository file: `media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg`
+- CCHS object: `2008.008.046.040`
+- Catalog title: **Oregon City "Welcome Arch"**
+- Catalog description/location: **Oregon City "Welcome Arch", 6th and Main.**
+- Catalog date: **1895**
+- Medium / negative location: **Negative / Society Collection**
+- Other identifiers: **Culp, Ed 40**; **Stevens Photo #97**
+- CCHS/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-welcome-arch-1 ; https://api.catalogit.app/api/public/accounts/4813/entries/8ff53cb0-9b1e-11eb-b3ef-53e7205a00b4
+- Repository derivative: **2400 × 1506**, **798,714 bytes**, SHA-256 `6f35359b9de3509a64ebec65d810b38b1048092eaeb3fcb6161d5d048e65603f`
+- Steward attachment: `Welcome Arch, O.C. Main St., 1895.jpg`; **2048 × 1285**, **886,058 bytes**, SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`
+- Source/evidence/timeline: `S-215` / `E-195` / `T-078`
+- Target relevance: project steward identifies the predecessor frontage later associated with **501/503/505** in the **right-hand background beyond the arch**. CCHS directly supplies Sixth/Main and 1895, but individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS**; no pre-1906 numbering or post-1922 continuity inference.
+- Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`

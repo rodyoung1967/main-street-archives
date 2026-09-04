@@ -78,3 +78,7 @@ The CCHS MOT:P-498 full-frame image (`S-211` / `E-191` / `IMG-0740`) is cataloge
 ## 1890–1899 — Pre-numbering Main Street photo context
 
 `S-214` / `E-194` / `IMG-0743` is a CCHS Main Street photograph dated **1890–1899**. The steward filename says it looks south from Sixth toward Fifth; if that probable orientation is confirmed, the east-side block later containing **505 Main** is visible along the left side. The `505` number is not visible and should not be backdated; exact storefront identity and physical continuity remain unresolved.
+
+## 1895 — Welcome Arch / Sixth-Main fixed-location photo context
+
+`S-215` / `E-195` / `IMG-0744` is cataloged by CCHS at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the right-hand background. For the later **505 Main** timeline, treat the photo as strong fixed-location block context but **PROBABLE / WORKING HYPOTHESIS** for the exact individual predecessor storefront boundary. Do not backdate the later street number or infer structural continuity.

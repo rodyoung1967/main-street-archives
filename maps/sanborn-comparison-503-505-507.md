@@ -258,3 +258,9 @@ Use this as **PROBABLE / WORKING HYPOTHESIS** for precise target-roof assignment
 `S-214` / `E-194` / `IMG-0743` adds CCHS `2008.008.003.104`, cataloged **Main Street, Oregon City**, date **1890–1899**. The project-steward filename says the view looks south from Sixth toward Fifth. That proposed viewpoint is compatible with CCHS P-1456 (`S-204` / `E-184`), which CCHS directly locates at Sixth/Main looking south in 1890.
 
 This photograph should be aligned against `SM-005` (1892) and `SM-006` (1900), plus P-1456, using intersection geometry, building widths/heights, roof forms, party walls and sign-bearing walls. If the viewpoint is confirmed, the later 501/503/505 east-side block is visible along the left side. Until alignment is completed, exact later-address storefront assignments remain **PROBABLE / WORKING HYPOTHESIS** and no structural continuity is inferred.
+
+## 1895 CCHS Welcome Arch / Sixth-Main photo cross-check
+
+`S-215` / `E-195` / `IMG-0744` adds CCHS `2008.008.046.040`, directly cataloged at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the right-hand background beyond the arch.
+
+This source should be aligned against `SM-005` (1892), `SM-006` (1900), fixed-location P-1456 (`S-204` / `E-184`) and `IMG-0743` (`S-214` / `E-194`). The cataloged Sixth/Main position makes it a particularly useful geometry anchor. Use party walls, facade widths, roof forms and the Fifth intersection to assign individual predecessor storefronts; until that alignment is complete, exact 501/503/505 boundaries remain **PROBABLE / WORKING HYPOTHESIS**.

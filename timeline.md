@@ -483,3 +483,7 @@ The specific later-address roofline mapping remains **PROBABLE / WORKING HYPOTHE
 CCHS `2008.008.003.104` (`S-214` / `E-194` / `IMG-0743` / `T-077`) catalogs a **Main Street, Oregon City** photograph to **1890–1899**. The steward filename identifies a southward view from Sixth toward Fifth; existing P-1456 (`S-204` / `E-184`) independently establishes a CCHS 1890 Sixth/Main-looking-south viewpoint and makes that interpretation plausible.
 
 If confirmed, the later 501/503/505 block is visible on the east/right side of Main. Exact storefront boundaries, specific exposure year, pre-1906 numbered addresses, occupancy and continuity remain unresolved.
+
+## 1895 — Welcome Arch at Sixth/Main shows later 501/503/505 predecessor frontage in right background
+
+CCHS `2008.008.046.040` (`S-215` / `E-195` / `IMG-0744` / `T-078`) is cataloged **Oregon City "Welcome Arch"**, **6th and Main**, **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**. Because the institution directly fixes the Sixth/Main location, this is strong block-level spatial evidence and is consistent with the corrected right-side orientation of `IMG-0743` and the 1892 Sanborn. Exact individual later-address storefront boundaries remain **PROBABLE / WORKING HYPOTHESIS**; the later numbers are not visible and structural continuity is not inferred.

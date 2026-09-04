@@ -1,0 +1,257 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "search_url": "https://api.catalogit.app/api/public/search?query=2008.008.046.040&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/8ff53cb0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-welcome-arch-1",
+  "selected_public_derivative": {
+    "key": "public_highres_2x",
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cd1949b0-9b69-11eb-97c3-a30f15c9573f-vdUe2pl.lg@2x.jpg",
+    "width": 1200,
+    "height": 753
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg",
+  "repository_derivative": {
+    "width": 2400,
+    "height": 1506,
+    "bytes": 798714,
+    "sha256": "6f35359b9de3509a64ebec65d810b38b1048092eaeb3fcb6161d5d048e65603f"
+  },
+  "steward_attachment": {
+    "filename": "Welcome Arch, O.C. Main St., 1895.jpg",
+    "width": 2048,
+    "height": 1285,
+    "bytes": 886058,
+    "sha256": "90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City \"Welcome Arch\"",
+    "entry_object_id": "2008.008.046.040",
+    "description": "Oregon City \"Welcome Arch\", 6th and Main.",
+    "date_made": "1895",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_number": "Culp, Ed 40",
+    "stevens_photo_number": "97"
+  },
+  "steward_target_frontage_annotation": "Project steward identifies the predecessor Main Street frontage later numbered 501, 503 and 505 as visible in the background on the right side of the street.",
+  "entry": {
+    "id": "8ff53cb0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-welcome-arch-1",
+    "media": [
+      {
+        "uuid": "cd1949b0-9b69-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "\"Welcome Arch\", O.C. Main St., 1895",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/cd1949b0-9b69-11eb-97c3-a30f15c9573f-sum3fnS.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/cd1949b0-9b69-11eb-97c3-a30f15c9573f-sum3fqd.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cd1949b0-9b69-11eb-97c3-a30f15c9573f-vdUe2pl.sm@1x.jpg",
+            "width": 768,
+            "height": 482
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cd1949b0-9b69-11eb-97c3-a30f15c9573f-vdUe2pl.sm@2x.jpg",
+            "width": 768,
+            "height": 482
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cd1949b0-9b69-11eb-97c3-a30f15c9573f-vdUe2pl.lg@1x.jpg",
+            "width": 1200,
+            "height": 753
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cd1949b0-9b69-11eb-97c3-a30f15c9573f-vdUe2pl.lg@2x.jpg",
+            "width": 1200,
+            "height": 753
+          },
+          "dominant_color": "FEFCF8",
+          "complementary_color": "F8FAFE"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City \"Welcome Arch\"",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.046.040",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City \"Welcome Arch\", 6th and Main.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1895",
+                "fuzzydate_date": "1895-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Culp, Ed  40; Stevens Photo #: 97",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000460000000040",
+    "prev_id": "96fbfc00-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "5ee4b370-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}

@@ -152,3 +152,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Institutional metadata: Main Street, Oregon City; date range 1890–1899; Stevens 104 / Stevens Photo #102 / Bill Howell #2000.
 - Source/evidence/timeline: `S-214` / `E-194` / `T-077`.
 - Spatial use: steward filename identifies a Sixth-to-Fifth southward view; treat as probable pending alignment with P-1456 and 1892/1900 Sanborns. No later-address or building-continuity inference.
+
+### IMG-0744 — CCHS 2008.008.046.040 Oregon City "Welcome Arch", 6th and Main, 1895
+- File: `media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg`
+- Dimensions: 2400 × 1506; 798,714 bytes; SHA-256 `6f35359b9de3509a64ebec65d810b38b1048092eaeb3fcb6161d5d048e65603f`
+- Institutional metadata: CCHS **Oregon City "Welcome Arch"**, **6th and Main**, **1895**; Culp, Ed 40; Stevens Photo #97.
+- Source/evidence/timeline: `S-215` / `E-195` / `T-078`.
+- Target relevance: steward identifies later 501/503/505 predecessor frontage in the right-hand background; individual later-address boundaries remain **PROBABLE / WORKING HYPOTHESIS**.

@@ -439,3 +439,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Related map context: `SM-005` / `S-018`; `SM-006` / `S-019`; `E-020`.
 - Limit: no pre-1906 numbered-address, exact exposure-year, storefront-boundary, occupancy, ownership or continuity inference.
 - Review: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`.
+
+## S-215 / E-195 / IMG-0744 / T-078 — CCHS 1895 Welcome Arch at Sixth/Main
+- Source: `S-215` — CCHS `2008.008.046.040`, **Oregon City "Welcome Arch"**, 6th and Main, 1895.
+- Evidence: `E-195` — fixed Sixth/Main streetscape with steward-identified later 501/503/505 predecessor frontage in right-hand background.
+- Media: `IMG-0744` — `media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg`.
+- Timeline: `T-078` — 1895 fixed-location target-block photo context.
+- Related buildings: `B-005` / `B-001` / `B-002`; comparisons `S-204` / `E-184`, `S-214` / `E-194`; map `SM-005` / `S-018` / `E-020`.
+- Limit: later street numbers are not visible or backdated; exact individual storefront boundaries and structural continuity remain unresolved.
+- Review: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`.
