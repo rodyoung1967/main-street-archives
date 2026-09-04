@@ -163,3 +163,7 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0739 — CCHS MOT:P-370 Young's Curio Store at 507 Main — date conflict
 
 `IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg` preserves the current CCHS public derivative of the steward-supplied MOT:P-370 photograph. Visible sign: **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS supplies 507 Main and structured date 1916, but its description says duplicate **MOT:P-6253** is the same picture dated 1907. Treat the exposure date as **UNRESOLVED CONFLICT (1907/1916)**. See `S-210` / `E-190` / `RL-051` and the [source review](../../../evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md).
+
+## IMG-0740 — CCHS MOT:P-498 Harding Drug Store, 505 Main, circa 1885
+
+`IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg` preserves the largest live public CCHS derivative recovered from the MOT:P-498 record. The steward supplied a 2048 × 1359 JPEG of the same catalog object; its exact SHA-256 is recorded in `S-211` and the photo metadata register. The full frame visibly shows the George A. Harding storefront but no readable street number. It appears to be the same underlying exposure as `IMG-0724`; both are retained because IMG-0724 is only a 400 × 400 crop attached to a different institutional object/date record. See `E-191` for retrospective-address/date cautions.

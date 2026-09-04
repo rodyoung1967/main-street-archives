@@ -398,3 +398,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Related: `P-076`, `BUS-067`, `B-003`; 1916 conflict context `P-041` / `BUS-026`.
 - Research lead: `RL-051` — retrieve and reconcile duplicate MOT:P-6253.
 - Review: `evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md`.
+
+## S-211 / E-191 / IMG-0740 — CCHS MOT:P-498 Harding Drug Store
+
+- Source: `S-211` — CCHS MOT:P-498 catalog record.
+- Evidence: `E-191` — circa-1885 catalog/address and direct full-frame visual content, with retrospective-address caution.
+- Media: `IMG-0740` — full Harding storefront frame.
+- Related entities: `BUS-007` Harding Drug Store; `P-001` George A. Harding; `B-002` 505 Main; context `BUS-067` / `P-076` George Young.
+- Related prior image record: `S-148` / `E-133` / `IMG-0724` (apparent same exposure, 400 × 400 crop, distinct CCHS object and 1880/1880s metadata).
+- Review: `evidence/source-captures/circa-1885-cchs-p498-harding-drug-store-505-main-photo-2026-09-04.md`.

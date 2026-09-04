@@ -126,3 +126,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Image visibly shows **NEW & SECONDHAND YOUNG'S CURIO STORE** signage.
 - Structured date is 1916, but description says duplicate `MOT:P-6253` is the same picture dated 1907; exposure date unresolved.
 - Steward SHA-256 `9c29b441dcc12f5b9f44e70000fb43f444263323bc23ac1fad5b02afc96a2136`; repository derivative SHA-256 `03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af`; byte match `false`.
+
+### IMG-0740 — CCHS MOT:P-498 Harding Drug Store, 505 Main, circa 1885
+- File: `media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg`
+- Source/evidence: `S-211` / `E-191`
+- CCHS object: `MOT:P-498`; catalog display **P‑498**; date **circa 1885**.
+- Full storefront frame; materially broader than the existing 400 × 400 `IMG-0724` crop of the apparent same historical exposure.
+- Repository SHA-256: `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`; steward attachment SHA-256: `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`.
+- 505 address is institutional retrospective metadata; no number is visible in the image.

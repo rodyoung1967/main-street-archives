@@ -1363,3 +1363,19 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Byte match to steward upload: **false**.
 - Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916
 - Review: [`1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md`](../evidence/source-captures/1907-1916-cchs-p370-young-curio-store-507-main-date-conflict-2026-09-04.md)
+
+## IMG-0740 — CCHS MOT:P-498 Harding Drug Store, 505 Main, circa 1885 full frame
+
+- Type: Institutional historic photograph / full storefront view
+- CCHS external object: `MOT:P-498` (catalog display **P‑498**)
+- Catalog title: **Harding Drug Store - 505 Main Street**
+- Catalog date: **circa 1885**
+- Repository file: `media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg`
+- Status: `committed`
+- Repository derivative: 2400 × 1593; 439,626 bytes; SHA-256 `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`
+- Steward attachment: `Harding Drug Store - 505 Main Street.jpg`; 2048 × 1359; 528,546 bytes; SHA-256 `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`
+- Source/evidence: `S-211` / `E-191`
+- Related business/person/building: `BUS-007` / `P-001` / `B-002`
+- Visual note: Full frame visibly shows the George A. Harding fascia, display windows, central entrance, merchandise and several posed men; no readable street number is visible.
+- Duplicate/provenance note: Appears to be the same underlying exposure as `IMG-0724`, but `IMG-0724` is only a 400 × 400 crop tied to a different CCHS catalog object and 1880/1880s metadata. MOT:P-498 is retained as a materially fuller frame and distinct institutional record.
+- Historical caution: `505 Main` and circa 1885 are catalog metadata. The 2022 Harding/Young move annotation is retrospective and is not treated as a contemporary transfer record or proof of present-building continuity.

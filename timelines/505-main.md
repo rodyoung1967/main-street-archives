@@ -66,3 +66,7 @@ Sequence (chronology only; no physical-building continuity implied): Harding Dru
 ## 14 April 1911 / 13 May 1921 steward-page update
 - **14 Apr. 1911:** exact visually preserved Chicago Store ad prints **505 Main** (`S-032` / `E-026`), extending the exact preserved March/April scan set.
 - **13 May 1921:** Dr. Freeze ad prints **505 Main**; **20 May** prints **505½ Main** (`S-035` / `E-028`). The week-to-week variation is not evidence of a physical floor or room move.
+
+## 4 September 2026 — MOT:P-498 Harding-photo supplement
+
+The CCHS MOT:P-498 full-frame image (`S-211` / `E-191` / `IMG-0740`) is cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. It visibly shows the Harding storefront but no readable street number and appears to be the same underlying historical exposure as cropped `IMG-0724`. The separate catalog's circa-1885 date and JAH 11/2022 Harding-moved-north/Young-moved-in annotation are preserved without replacing the older CCHS 1880/1880s metadata. Treat `505` as retrospective pre-numbering location metadata and the move note as a later institutional annotation, not an exact transfer date or building-continuity proof.

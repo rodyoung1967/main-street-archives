@@ -273,3 +273,7 @@ The exact 14 April 1911 Chicago Store page is now visually preserved under `S-03
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
 See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
+
+## CCHS MOT:P-498 full-frame Harding storefront supplement
+
+`S-211` / `E-191` / `IMG-0740` preserves a materially fuller CCHS frame cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. It appears to show the same underlying exposure as the existing `IMG-0724` crop, but the separate MOT:P-498 record carries distinct date/medium metadata and a 2022 Harding→Young move annotation. The image itself shows the Harding storefront but no readable `505`; because citywide numbering is documented in 1906, this remains retrospective location metadata. No continuity to the surviving 505 building is inferred.

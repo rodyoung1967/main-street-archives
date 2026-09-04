@@ -2923,3 +2923,17 @@ evidence:
     related_people: [P-076, P-041]
     related_businesses: [BUS-067, BUS-026]
     related_buildings: [B-003]
+
+  - id: E-191
+    name: "CCHS MOT:P-498 catalogs Harding Drug Store at 505 Main circa 1885"
+    type: "Institutional photograph/catalog metadata plus direct visual review; documented/visually verified with retrospective-address and date-precision cautions"
+    claims:
+      - "CCHS MOT:P-498 catalogs Harding Drug Store - 505 Main Street, date circa 1885, medium Photographic Paper."
+      - "The full-frame photograph visibly shows the George A. Harding storefront fascia, display windows and entrance; no readable street number is visible."
+      - "The JAH 11/2022 Harding-moved-north/George-Young-moved-in statement is retrospective catalog annotation, not a contemporary transfer record."
+      - "MOT:P-498 appears to preserve the same underlying exposure as cropped IMG-0724, but the distinct catalog records and differing date/medium metadata are retained rather than collapsed."
+    confidence: "Very High for catalog wording and visible storefront content; unresolved for exact exposure date, retrospective numbered-address precision, Harding-to-Young transfer timing and structural continuity."
+    related_sources: [S-211, S-148]
+    related_people: [P-001, P-076]
+    related_businesses: [BUS-007, BUS-067]
+    related_buildings: [B-002]

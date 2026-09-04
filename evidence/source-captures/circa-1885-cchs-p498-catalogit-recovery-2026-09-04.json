@@ -1,0 +1,32 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "external_object_id": "P-498",
+  "record_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/harding-drug-store-505-main-street",
+  "selected_public_derivative_url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/e0d39af0-9b82-11eb-8d59-b7d9fd36cc45-vdUefdb.lg-nt@2x.jpg",
+  "repository_file": "media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg",
+  "repository_derivative": {
+    "width": 2400,
+    "height": 1593,
+    "bytes": 439626,
+    "sha256": "d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879"
+  },
+  "steward_attachment": {
+    "filename": "Harding Drug Store - 505 Main Street.jpg",
+    "width": 2048,
+    "height": 1359,
+    "bytes": 528546,
+    "sha256": "11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Harding Drug Store - 505 Main Street",
+    "description": "Harding Drug Store - 505 Main Street. George A. Harding store. Harding moved to the shop north and George Young moved into this location JAH 11/2022",
+    "date_made": "circa 1885",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper"
+  }
+}

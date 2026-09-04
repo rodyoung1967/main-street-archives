@@ -1152,3 +1152,11 @@ sources:
     url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.h.-youngs-2nd-hand-and-curio-shop-1916"
     repository_file: "media/photos/early-main-street/IMG-0739_1907-1916-date-conflict-young-curio-store-507-main-cchs-p370.jpg"
     notes: "CCHS MOT:P-370; steward JPEG visually verified. Catalog supplies 507 Main and structured date 1916, while its duplicate note says same picture MOT:P-6253 has date 1907. Preserve date as unresolved. Related E-190/IMG-0739/P-076/BUS-067/B-003/RL-051."
+
+  - id: S-211
+    name: "Clackamas County Historical Society MOT:P-498, Harding Drug Store — 505 Main Street, circa 1885"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/harding-drug-store-505-main-street"
+    repository_file: "media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg"
+    notes: "CCHS MOT:P-498; steward-supplied 2048x1359 JPEG visually verified. Catalog identifies Harding Drug Store - 505 Main Street, date circa 1885, medium Photographic Paper, and carries a retrospective JAH 11/2022 Harding-moved-north/George-Young-moved-in annotation. Image itself shows the Harding storefront but no readable street number. 505 is retrospective institutional metadata because formal citywide numbering is documented in 1906. MOT:P-498 appears to be the same underlying historical exposure as cropped IMG-0724 but is preserved as a distinct catalog object/full-frame derivative. Steward SHA-256 11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c; repository derivative SHA-256 d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879."
+    related_evidence: [E-191]
+    related_media: [IMG-0740]

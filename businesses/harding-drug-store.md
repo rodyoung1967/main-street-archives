@@ -83,3 +83,9 @@ A visually verified 7 September 1912 *Morning Enterprise* Spirella advertisement
 ## 1903 Willamette Building anchor
 
 Legacy-branch source `S-166` / evidence `E-149` records George A. Harding's drug store in the **Willamette Building** on 6 April 1903. No later street number is back-projected. This early building-name anchor should be tested together with the 1911–1912 Harding/Willamette evidence, not collapsed into a single storefront without proof.
+
+## CCHS MOT:P-498 full-frame storefront record
+
+`S-211` / `E-191` / `IMG-0740` adds the CCHS MOT:P-498 full-frame photograph cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. The photograph visibly shows the George A. Harding fascia, full display windows and doorway, but not a readable street number. CCHS's later JAH 11/2022 annotation says Harding moved to the shop north and George Young moved into this location; preserve that as retrospective institutional metadata, not as a contemporary dated transfer record.
+
+This appears to be the same historical exposure as the older `IMG-0724` crop but is a distinct catalog object with a materially fuller frame and different date/medium metadata. The archive therefore preserves both. The pre-1906 `505` label remains retrospective-address evidence and does not prove present-building continuity.

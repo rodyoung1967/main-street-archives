@@ -75,3 +75,7 @@ High-priority sources to locate:
 ## 1903 Willamette Building business anchor
 
 `S-166` / `E-149` preserves the legacy-branch reading that Harding's drug business was in the **Willamette Building** in April 1903. The source predates formal citywide numbering and does not justify assigning a later 5xx number to the 1903 premises.
+
+## CCHS MOT:P-498 full-frame circa-1885 catalog record
+
+CCHS MOT:P-498 (`S-211` / `E-191` / `IMG-0740`) catalogs **Harding Drug Store - 505 Main Street** at **circa 1885**. The full frame visibly bears the George A. Harding storefront fascia but no readable street number. The catalog's JAH 11/2022 note saying Harding moved north and George Young moved into this location is retained as a retrospective annotation. It does not independently date a Harding→Young succession, establish title, or prove survival of the photographed structure.

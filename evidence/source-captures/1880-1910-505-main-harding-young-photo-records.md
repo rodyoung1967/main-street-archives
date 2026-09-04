@@ -53,3 +53,7 @@ Together, the 1910 photograph plus the 1911 move report and later 507 records st
 ## Rights and integrity
 
 The two user-supplied JPEGs were preserved without pixel alteration. The Young image is visibly watermarked; the Harding crop is not visibly watermarked in the supplied frame. The society's public collection page directs users to request non-watermarked copies and warns that catalog descriptions can contain errors. No public-domain status or reuse license is inferred.
+
+## 4 September 2026 MOT:P-498 full-frame follow-up
+
+CCHS MOT:P-498 is now preserved separately as `IMG-0740` / `S-211` / `E-191`. It appears to show the same underlying Harding storefront exposure as the 400 × 400 `IMG-0724` crop but supplies the full storefront frame, a distinct catalog object, **circa 1885** dating, Photographic Paper medium metadata, and a JAH 11/2022 note that Harding moved north and George Young moved into the location. The distinct records are retained and their metadata conflict is explicit; the later note is not promoted to a contemporary transfer fact.

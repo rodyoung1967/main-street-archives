@@ -1612,3 +1612,11 @@ Steward integrity: 599,499 bytes; 2048 × 1289 px; SHA-256 `9c29b441dcc12f5b9f44
 Repository derivative integrity: 504,030 bytes; 2400 × 1511 px; SHA-256 `03bceff0e4c7b09a893d1271e295af05f93ab22f146a77092f1d33ef75d245af`.
 Related evidence: `E-190`; image `IMG-0739`; person `P-076`; business `BUS-067`; building `B-003`; date-conflict lead `RL-051`.
 Notes: Visible sign reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS supplies 507 Main and structured date 1916, but the same description says duplicate **MOT:P-6253** is the same picture dated **1907**. Exposure date remains unresolved.
+
+## S-211 — Clackamas County Historical Society MOT:P-498, Harding Drug Store — 505 Main Street, circa 1885
+Type: Institutional photograph/catalog metadata plus steward-supplied image; **VISUALLY VERIFIED 4 September 2026**.  
+Catalog record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/harding-drug-store-505-main-street  
+Repository image: `media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg`  
+Source capture: `evidence/source-captures/circa-1885-cchs-p498-harding-drug-store-505-main-photo-2026-09-04.md`  
+Related evidence/media: `E-191` / `IMG-0740`; related business/person/building: `BUS-007` / `P-001` / `B-002`.  
+Notes: Catalog title identifies Harding Drug Store at 505 Main, date made circa 1885, medium Photographic Paper, and carries a later JAH 11/2022 annotation saying Harding moved north and George Young moved into this location. The full photograph visibly shows the Harding fascia/storefront but no street number. Because formal citywide numbering is documented in 1906, 505 is treated as retrospective institutional metadata. MOT:P-498 appears to preserve the same underlying exposure as the older cropped `IMG-0724` record but is retained because it supplies a materially fuller frame and distinct catalog metadata/provenance. Steward attachment SHA-256 `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`; committed derivative SHA-256 `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`.
