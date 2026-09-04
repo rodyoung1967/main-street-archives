@@ -381,3 +381,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Media/source/evidence | Repository record | Boundary |
 | --- | --- | --- |
 | `IMG-0737` / `S-208` / `E-188` / CCHS `P-9379` / accession `2022.012.001` | `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg`; `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md` | CCHS identity/title/description and broad aerial scene are direct. The public record supplies no exposure date; accession `2022.012.001` is not a date. Exact camera details and 501/503/505 building mapping remain unresolved. |
+
+## S-209 / E-189 / IMG-0738 — CCHS MOT:P-502 G. H. Young Store
+
+- Source: `S-209` — CCHS public catalog / steward-supplied photograph, external object `MOT:P-502`.
+- Evidence: `E-189` — cataloged **507 Main / 1916** with explicit W. W. Bradley conflict.
+- Media: `IMG-0738` — `media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg`.
+- Related entities: `P-076`, `BUS-067`, `B-003`; conflict context `P-041` / `BUS-026`.
+- Review: `evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md`.

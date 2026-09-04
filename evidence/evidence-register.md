@@ -1662,3 +1662,10 @@ Claims:
 - The steward attachment and committed CCHS derivative are substantive duplicates, not byte-identical files.
 - Do not assign a 501/503/505 roof/building identity from this overview without a separate dated spatial comparison.
 Confidence: **DOCUMENTED / DIRECT** for the CCHS object/title/description/media association and visible broad Oregon City aerial scene; **UNRESOLVED** for exposure date, camera details, and exact numbered-building mapping.
+
+## E-189 — CCHS MOT:P-502 catalogs G. H. Young Store at 507 Main in 1916
+Type: Institutional photograph/catalog metadata plus direct visual review; **DOCUMENTED / VISUALLY VERIFIED**, with explicit 1916 occupancy conflict.
+Source: `S-209`; image `IMG-0738`.
+Claims: The CCHS public catalog directly associates MOT:P-502 with **G. H. Young Store**, **507 Main Street**, Oregon City, and **1916**. The preserved photograph visibly shows a curio/collection storefront display and the lettering **“G. H. Youngs Collection. Oregon City Ore.”**; it does not visibly show the street number or year. This adds a second institutional-photo line to the earlier MOT:P-370/MOT:P-384 1916/507 catalog leads and extends the documented Young-store photographic record beyond the direct 1912/1914 address anchors.
+Conflict/limit: Selected visually verified 1916 newspaper business-directory advertisements instead place **W. W. Bradley at 507 Main** (`E-116` / `S-130`; see also `E-119`). Do not infer continuous Young occupancy through 1916, reject Bradley, or force a transition date without a dated bridge. MOT:P-502 does not establish property ownership or surviving-building continuity.
+Confidence: **Very High** for what the CCHS catalog says and for the visible G. H. Young collection lettering; **UNRESOLVED** for exact exposure date and 1916 occupancy chronology.

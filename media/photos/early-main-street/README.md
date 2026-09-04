@@ -1,6 +1,6 @@
 # Early Main Street street-level photographs — 1905–1922
 
-Status: **9 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0736`); four additional public-source full scenes remain planned**
+Status: **10 standalone historic Main Street/downtown files are committed (`IMG-0722`–`IMG-0725`, `IMG-0732`–`IMG-0736`); four additional public-source full scenes remain planned**
 
 Purpose: collect non-aerial photographic evidence that may show the Fifth/Main frontage containing 503, 505, and neighboring addresses. These are visual sources and should be analyzed image-by-image; metadata or captions alone do not prove that a particular storefront is 503 or 505.
 
@@ -155,3 +155,7 @@ Planned repository paths once original binaries can be transferred:
 - The steward upload is 981 × 776, 145571 bytes, SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`, and is an **exact byte match** to the current CCHS public high-resolution derivative.
 - The live catalog supplies no demolition/exposure date. **1933 is the construction year of the pictured Post Office, not the photograph date.**
 - Existing 1950 Sanborn evidence (`E-102`) independently places the Post Office at the **southeast corner of Fifth/Main** and labels it **BUILT 1933**. Thus it is on the same east side of Main as 501/503/505, but directly across Fifth Street from 501 on the Fourth-to-Fifth block.
+
+## IMG-0738 — CCHS MOT:P-502 G. H. Young Store, 507 Main, cataloged 1916
+
+`IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg` preserves the highest-resolution live CCHS public derivative (SHA-256 `459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f`); the separately inspected steward-upload derivative is SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864` and is not byte-identical. Institutional metadata supplies **507 Main** and **1916**; visible lettering supplies **G. H. Youngs Collection. Oregon City Ore.** The 1916 date/address must be reconciled with selected newspaper directory advertisements placing W. W. Bradley at 507. See `S-209` / `E-189` and the [source review](../../../evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md).

@@ -13,3 +13,9 @@ Together, the visible 1910 address, the 1911 one-door-north report, and the 1912
 
 ## 16 August 1907 exact-505 advertisement
 `S-189` / `E-168` visually verifies an *Oregon City Enterprise* auction advertisement for **Young's Second Hand Store, 505 Main Street** on 16 August 1907. This pushes the exact-numbered trade-name anchor back from the CCHS photograph dated 1910. Because the ad does not print George/G. H. Young's given name, the individual identity link remains a strong inference rather than explicit wording.
+
+## 1916 CCHS MOT:P-502 photograph and 507 Main conflict
+
+CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) catalogs a photographed **G. H. Young Store at 507 Main Street in 1916**. The preserved image visibly bears **“G. H. Youngs Collection. Oregon City Ore.”** lettering. The cataloged address/year are institutional metadata rather than visible signage.
+
+This cannot simply extend continuous Young occupancy through 1916 because selected 1916 newspaper directory ads directly place **W. W. Bradley at 507 Main** (`E-116`, `E-119`). The transition date, catalog-date precision, and possibility of publication lag remain unresolved.

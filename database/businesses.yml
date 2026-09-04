@@ -429,11 +429,13 @@ businesses:
     - E-109
     - E-116
     - E-119
+    - E-189
     related_sources:
     - S-120
     - S-121
     - S-130
     - S-133
+    - S-209
 
   - id: BUS-027
     name: H. P. Brightbill grocery
@@ -923,8 +925,8 @@ businesses:
       continuity and the building-name bridge remain unresolved.
     related_people: [P-076]
     related_buildings: [B-002, B-003]
-    related_evidence: [E-085, E-092, E-134, E-168]
-    related_sources: [S-098, S-102, S-149, S-189]
+    related_evidence: [E-085, E-092, E-134, E-168, E-189]
+    related_sources: [S-098, S-102, S-149, S-189, S-209]
     repository_file: businesses/gh-young-curio-man.md
 
   - id: BUS-068

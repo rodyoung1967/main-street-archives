@@ -142,3 +142,7 @@ These records indicate that the museum collection may contain useful visual evid
 4. Compare storefront/alley/building geometry in `IMG-0725` with the 1911/1925 Sanborn maps and later photographs.
 5. Determine whether the 1910 Young premises at 505 was the same physical building occupied by the Chicago Store in 1911 or a predecessor structure affected by the 1913 fire/rebuilding history.
 6. Continue seeking an exact contemporary address for **Timms Pool Hall** and **Leland & Little** in 1922; do not use `MOT:P-391` to assign either business to 505 without a direct bridge.
+
+## MOT:P-502 follow-up — additional 1916 / 507 Main CCHS photograph
+
+CCHS MOT:P-502 is now preserved as `IMG-0738` / `S-209` / `E-189`. Its catalog metadata identifies **G. H. Young Store — 507 Main Street — 1916**, and its image visibly bears G. H. Young collection lettering. It independently strengthens the museum-catalog side of the earlier MOT:P-370/MOT:P-384 1916/507 leads, while creating an explicit conflict with the selected 1916 newspaper directory advertisements placing W. W. Bradley at 507. See [1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md](1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md).

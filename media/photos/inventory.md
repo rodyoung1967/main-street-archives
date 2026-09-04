@@ -111,3 +111,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Exposure date: **not supplied / unresolved**; accession number is not used as a date.
 - Steward SHA-256: `2154e29eec46892888f04f9faeb1a09eb7f69b93fe2d0c338a6968af43b50e10`; committed CCHS derivative SHA-256: `410b8493e52365bc5968d983f82a015cfc4ec9ded2b89976799c019396d622bd`.
 - Status: committed institutional high-resolution derivative; steward attachment preserved by exact signature as a substantive duplicate.
+
+### IMG-0738 — G. H. Young Store, 507 Main, CCHS MOT:P-502 (cataloged 1916)
+- File: `media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg`
+- CCHS object: `MOT:P-502`; catalog title identifies 507 Main and 1916.
+- Actual image visually verified; **G. H. Youngs Collection. Oregon City Ore.** lettering visible.
+- Source/evidence: `S-209` / `E-189`. Highest-resolution live CCHS public derivative preserved; steward-uploaded derivative separately visually verified and hash-recorded.
+- Interpretation limit: unresolved against 1916 W. W. Bradley newspaper listings at 507 Main.

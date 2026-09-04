@@ -1589,3 +1589,14 @@ URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/
 Repository: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` (`IMG-0737`); source capture `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.  
 Evidence: `E-188`.  
 Notes: The live CCHS record supplies no exposure date. `2022.012.001` is retained only as an accession number and is not converted into a photograph date. The committed 2400×1965 CCHS derivative and the steward-supplied 2048×1676 JPEG are substantive duplicates of the same P-9379 scene, not byte-identical copies.
+
+## S-209 — Clackamas County Historical Society MOT:P-502, G. H. Young Store — 507 Main Street Oregon City 1916
+Type: Institutional historic photograph and public museum-catalog record; steward-supplied JPEG **VISUALLY VERIFIED** and live CatalogIt metadata checked 3 September 2026.
+Public HUB entry: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916
+Repository image: `media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg`
+Public API snapshot: `evidence/source-captures/1916-cchs-p502-catalogit-public-api-2026-09-03.json`
+Catalog object ID: **MOT:P-502** (external museum ID; not a project person ID).
+Original uploaded filename: `G. H. Young Store - 507 Main Street Oregon City 1916.jpg`
+Repository derivative integrity: 1,572,307 bytes; 2400 × 3306 px; SHA-256 `459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f`. Steward upload separately inspected: 1,106,345 bytes; 1486 × 2048 px; SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864`.
+Related evidence: `E-189`; image `IMG-0738`; person `P-076`; business `BUS-067`; building `B-003`.
+Notes: CCHS catalogs the photograph as **G. H. Young Store - 507 Main Street Oregon City 1916**. Visible window lettering reads **G. H. Youngs Collection. Oregon City Ore.** The image itself does not print 507 or 1916; those fields are institutional metadata. Preserve an unresolved conflict with selected 1916 newspaper directory advertisements placing W. W. Bradley at 507 (`E-116`, `E-119`).

@@ -1140,3 +1140,9 @@ sources:
     - E-188
     related_media:
     - IMG-0737
+
+  - id: S-209
+    name: "Clackamas County Historical Society MOT:P-502, G. H. Young Store — 507 Main Street Oregon City 1916"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916"
+    repository_file: "media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg"
+    notes: "Steward-supplied JPEG visually verified; repository preserves the highest-resolution live CCHS public derivative of the same photograph (not byte-identical to the steward derivative); CCHS catalog metadata identifies G. H. Young Store, 507 Main Street, Oregon City, 1916. Image itself shows G. H. Youngs Collection / Oregon City Ore. lettering but not the street number or year. External object ID P-502. Related E-189/IMG-0738/P-076/BUS-067/B-003; 1916 W. W. Bradley 507 conflict remains unresolved."

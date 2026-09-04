@@ -1322,3 +1322,24 @@ Steward attachment: 2048 × 1676; 1200394 bytes; SHA-256 `2154e29eec46892888f04f
 Derivative relationship: the steward attachment and committed CCHS derivative depict the same P-9379 aerial scene but are **substantive duplicates, not byte-identical**. The repository retains the larger institutional derivative and records the supplied file's exact signature.  
 Visual content/limit: broad Oregon City aerial including downtown, Willamette River, Oregon City–West Linn bridge, log rafts/booms and surrounding development. Exact exposure date, camera/flight details and numbered-address/501/503/505 identities remain unresolved.  
 Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.
+
+## IMG-0738 — G. H. Young Store at 507 Main, CCHS MOT:P-502, cataloged 1916
+
+- Type: Historic storefront/interior photograph; Clackamas County Historical Society.
+- Repository file: `media/photos/early-main-street/IMG-0738_1916-g-h-young-store-507-main-cchs-p502.jpg`
+- Original steward filename: `G. H. Young Store - 507 Main Street Oregon City 1916.jpg`
+- Status: `committed`
+- Source: `S-209`
+- Evidence: `E-189`
+- External Entry/Object ID: **MOT:P-502** (CCHS; not a project person ID).
+- Related person: `P-076` G. H. Young / George Young.
+- Related business: `BUS-067`.
+- Related building: `B-003` / historic 507 Main storefront context.
+- Catalog date/address: **1916; 507 Main Street, Oregon City**.
+- Visual verification: actual JPEG inspected; lower-window lettering reads **“G. H. Youngs Collection. Oregon City Ore.”** amid a dense curio/collection display. CCHS watermark visible.
+- Critical limit: **507 Main** and **1916** are supplied/institutional catalog metadata, not visible text in the photograph.
+- Conflict: selected visually verified 1916 newspaper directory advertisements place W. W. Bradley at 507 Main (`E-116`, `E-119`). Preserve both until the transition/date is independently bracketed.
+- Repository derivative integrity: 1,572,307 bytes; 2400 × 3306 px; SHA-256 `459eb503b4f8bdd855310e5d65c446574210d4fd580dfc3e03b685f3e4eaed5f`.
+- Steward-uploaded derivative separately inspected: 1,106,345 bytes; 1486 × 2048 px; SHA-256 `c6e7054ed5a5453ab86e544bce56eff0c859b720c64dce4b1895feb2d53ae864`. Same cataloged photograph, not byte-identical.
+- Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/g.-h.-young-store-507-main-street-oregon-city-1916
+- Review: [`1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md`](../evidence/source-captures/1916-cchs-p502-gh-young-store-507-main-photo-2026-09-03.md)
