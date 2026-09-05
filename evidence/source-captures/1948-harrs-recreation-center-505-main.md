@@ -71,3 +71,16 @@ The same pass attempted the analogous annual 1945, 1946 and 1947 list recovery u
 8. Search 1949–1965 municipal liquor-license records to bridge the recreation-center era to the earliest documented **505 Tavern** period.
 9. Search 1947–1948 minutes and license files for Harr's first application and any directly printed address.
 10. Keep recreation-center/pool-hall business succession separate from proof of real-estate ownership.
+
+## Exact predecessor-page escalation
+
+A dedicated retrieval capture now preserves the current City archive transition, exact missing page ranges, screenshot failures, and a ready-to-submit page-specific public-records request:
+
+`evidence/source-captures/1946-1948-commission-minute-predecessor-retrieval-route-2026-09-04.md`
+
+The two fixed municipal targets are now:
+
+- **1946:** pages immediately preceding **p.318**, provisionally **pp.314–317 plus any earlier page required to capture the full meeting header**. Page 318 itself closes the prior meeting and then begins the 6 March 1946 regular meeting.
+- **1947–48:** pages immediately preceding **p.474**, provisionally **pp.470–473 plus any earlier page required to capture the full meeting header(s)**. Page 474 begins the 11 February 1948 special meeting.
+
+Oregon City's current records site states that it is transitioning older electronic records into **Laserfiche**, and the legacy 1940s WebDrawer decade query currently does not expose these predecessor pages in the available search interface. The missing ranges therefore remain a **retrieval gap** and are now routed to a narrowly scoped City Recorder/public-records request rather than further broad keyword searching.
