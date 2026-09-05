@@ -31,6 +31,19 @@ jobs:
         run: python3 -m pip install --quiet pyyaml pillow
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
+      - name: Correct P-1317 evidence title synchronization
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_cchs_p1317_bluff_5th.py')
+          text = p.read_text(encoding='utf-8')
+          old = 'name: "CCHS P-1317 Fifth Street bluff view / probable 501-503-505 predecessor frontage"'
+          new = 'name: "CCHS P-1317 Fifth Street bluff view shows probable 501/503/505 predecessor frontage through branches"'
+          if old in text:
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+          elif new not in text:
+              raise SystemExit('Expected P-1317 evidence-name line not found')
+          PY
       - name: Retrieve exact CCHS P-1317 object and integrate photo
         run: python3 scripts/integrate_cchs_p1317_bluff_5th.py
       - name: Validate archive after integration
