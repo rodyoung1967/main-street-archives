@@ -330,3 +330,7 @@ CCHS `P-6974` (`S-219` / `E-199` / `IMG-0748`) identifies **Walter Little on lef
 **State: UNVERIFIED LEAD / identity question.** Do not merge `P-393` with `P-090` by name alone. Seek an independent bridge: 1908–1922 city/business directories, residence/spouse/family identifiers, middle initial, voter/census records, confectionery-to-cigar/billiards transition advertising, or a record explicitly naming the same Walter/W. L. Little across both contexts.
 
 A secondary lead is whether cataloged **Richard Friedrichs** (`P-392`) is related to the later **C. W. Friedrich and Son** hardware references; surname and business type alone are insufficient.
+
+### Rain Check Room sign in CCHS P-4565
+
+The circa-mid-1960s photograph `IMG-0749` directly shows **RAIN CHECK Room / BREAKFAST / LUNCH & DINNERS** on the facade zone associated spatially with the Wheel/503 corner. Determine from directories, advertisements, liquor/restaurant licenses, or telephone books whether **Rain Check Room** was a room/trade style within The Wheel, a separate business, or an adjacent operation. Do not merge it into `BUS-004` without an independent name/address bridge. Related `S-220` / `E-200`.

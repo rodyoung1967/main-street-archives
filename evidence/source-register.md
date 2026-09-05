@@ -1690,3 +1690,14 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Public API: https://api.catalogit.app/api/public/accounts/4813/entries/5c1a1730-9b1e-11eb-b3ef-53e7205a00b4
 Related evidence/media: `E-199` / `IMG-0748`.
 Notes: CCHS identifies **Richard Friedrichs on right** and **Walter Little on left** with Friedrich's Hardware and Little's Confectionery. The image itself does not independently prove the names, and the catalog wording does not assign 510 versus 512 to a specific business. The 1908 Walter Little is **not merged** with later `P-090` Walter L. Little solely by name.
+
+## S-220 — CCHS P-4565 — Oregon City mid-1960s Main Street business lineup
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 4 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-4565`.
+Date: **circa mid-1960s** per catalog description; exact exposure date unresolved.
+Repository image: `media/photos/main-street/IMG-0749_circa-mid-1960s-503-517-main-business-lineup-cchs-p4565.jpg`.
+Capture: `evidence/source-captures/cchs-p4565-mid-1960s-main-fifth-business-lineup-2026-09-04.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin
+Related evidence/media/timeline: `E-200` / `IMG-0749` / `T-081`.
+Notes: Directly readable signs include **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid's/Restaurant. The image visibly shows **5th ST / MAIN** street blades; CCHS's supplied title/description instead says Main and McLoughlin Blvd., so both are preserved as a location-wording conflict.

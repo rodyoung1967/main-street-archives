@@ -193,3 +193,7 @@ This adds direct photographic content to the museum-side 1916/507 record, but it
 `IMG-0739` / `S-210` / `E-190` preserves a CCHS photograph cataloged at **507 Main** whose storefront sign visibly reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. The catalog date is not stable: MOT:P-370 says 1916 but its duplicate note says the same picture MOT:P-6253 is dated 1907.
 
 This supports the visual identity of a Young storefront associated by CCHS with 507 Main, but it does not by itself establish exposure year, legal ownership, or building continuity.
+
+## Mid-1960s P-4565 pre-fire storefront row
+
+CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) visually documents the neighboring pre-1967-fire row, including Coast to Coast Stores, Dixon’s Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid’s/Restaurant. Only Dixon’s 509 address is independently exact in the current mid-1960s evidence; do not assign the other visible storefronts exact numbers from photograph order alone.

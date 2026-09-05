@@ -3038,3 +3038,18 @@ evidence:
     related_businesses: [BUS-090, BUS-091]
     related_people: [P-392, P-393]
     repository_file: evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md
+
+  - id: E-200
+    name: "Circa mid-1960s photograph documents 503/505 and neighboring Main Street businesses"
+    type: Primary photographic evidence with institutional catalog metadata
+    classification: DOCUMENTED / DIRECT
+    claims:
+      - "CCHS P-4565 directly documents multiple circa-mid-1960s Main Street business signs, including TAVERN/505, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid's/Restaurant."
+      - "The photograph visibly shows 5th ST and MAIN street blades while the CCHS supplied description says Main and McLoughlin Blvd.; preserve both."
+      - "The image is strong pre-fire visual context for businesses independently named in 1964-1967 sources."
+    confidence: "Very High for visible lettering and P-4565 identity; High for broad circa-mid-1960s/pre-fire context; exact exposure date unresolved."
+    related_sources: [S-220]
+    related_businesses: [BUS-004, BUS-005, BUS-007, BUS-023, BUS-092, BUS-093, BUS-094]
+    related_buildings: [B-001, B-002, B-003]
+    related_media: [IMG-0749]
+    repository_file: evidence/source-captures/cchs-p4565-mid-1960s-main-fifth-business-lineup-2026-09-04.md

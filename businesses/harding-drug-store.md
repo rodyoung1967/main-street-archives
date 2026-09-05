@@ -89,3 +89,7 @@ Legacy-branch source `S-166` / evidence `E-149` records George A. Harding's drug
 `S-211` / `E-191` / `IMG-0740` adds the CCHS MOT:P-498 full-frame photograph cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. The photograph visibly shows the George A. Harding fascia, full display windows and doorway, but not a readable street number. CCHS's later JAH 11/2022 annotation says Harding moved to the shop north and George Young moved into this location; preserve that as retrospective institutional metadata, not as a contemporary dated transfer record.
 
 This appears to be the same historical exposure as the older `IMG-0724` crop but is a distinct catalog object with a materially fuller frame and different date/medium metadata. The archive therefore preserves both. The pre-1906 `505` label remains retrospective-address evidence and does not prove present-building continuity.
+
+## Mid-1960s P-4565 photograph
+
+CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows **HARDING DRUGS** signage in the pre-fire row. The catalog description transcribes “Harding (sp?) Drugs”; the 1 September 1967 fire article independently names Hardings Drug Store among the gutted businesses (`E-045`).

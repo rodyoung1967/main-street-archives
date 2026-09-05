@@ -52,3 +52,7 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 - Exact date, seller, and deed for Dick and Sheila's later purchase of the 503 building.
 - Exact date, buyer, deed, business-sale agreement, and liquor-license transfer when Dick and Sheila sold the business and building together.
 - Exact historical date ranges of The Wheel, Wheel Cafe, Wheel Restaurant, and Wheel Lounge name forms.
+
+## Mid-1960s P-4565 photograph
+
+CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) catalogs **The Wheel** in this circa-mid-1960s Main Street lineup. Wheel motifs are directly visible on the 503-side frontage; the words “The Wheel” are not clearly readable in the scan. A **RAIN CHECK Room / BREAKFAST / LUNCH & DINNERS** sign is directly visible on the same facade zone, but its relationship to The Wheel is unresolved.

@@ -827,3 +827,13 @@ timeline:
     related_evidence: [E-197]
     related_sources: [S-217]
     related_buildings: [B-005, B-001, B-002]
+
+  - id: T-081
+    date: "circa mid-1960s"
+    title: "Circa mid-1960s — photographed Main Street lineup before the 1967 fire"
+    summary: "CCHS P-4565 visually documents the 503/505 frontage and neighboring Main Street businesses before the 1967 fire; exact exposure date unresolved."
+    confidence: "High for scene/business lineup; exact exposure date unresolved."
+    related_sources: [S-220]
+    related_evidence: [E-200]
+    related_businesses: [BUS-004, BUS-005, BUS-007, BUS-023, BUS-092, BUS-093, BUS-094]
+    related_buildings: [B-001, B-002, B-003]

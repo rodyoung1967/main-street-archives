@@ -1156,3 +1156,30 @@ businesses:
     related_evidence: [E-199]
     related_sources: [S-219]
     repository_file: businesses/littles-confectionery-7th-street.md
+
+  - id: BUS-092
+    name: Coast to Coast Stores
+    repository_file: businesses/coast-to-coast-stores.md
+    address: "Main Street between 5th and 6th; exact number unresolved in this photo"
+    notes: "Directly legible in CCHS P-4565. Relationship to the 1967 fire article's 'Coast Hardware Co.' is plausible but not silently equated without an exact business-name/address bridge."
+    related_evidence: [E-200]
+    related_sources: [S-220]
+    related_media: [IMG-0749]
+
+  - id: BUS-093
+    name: Volunteers of America Thrift Store
+    repository_file: businesses/volunteers-of-america-thrift-store.md
+    address: "Main Street between 5th and 6th; exact number unresolved in this photo"
+    notes: "Directly legible in CCHS P-4565 and independently named in the 1 September 1967 fire report; this is strong continuity to the same distinctive establishment name."
+    related_evidence: [E-200]
+    related_sources: [S-220]
+    related_media: [IMG-0749]
+
+  - id: BUS-094
+    name: Seid's Restaurant
+    repository_file: businesses/seids-restaurant.md
+    address: "517 Main documented in 1948; exact number not readable in this mid-1960s photo"
+    notes: "A 1948 municipal license list directly places Seid's Restaurant at 517 Main with Wallace and Mary R. Seid; CCHS P-4565 visibly shows Seid's/Restaurant in the later streetscape. Continuous operators/address through the whole interval are not assumed."
+    related_evidence: [E-200]
+    related_sources: [S-220]
+    related_media: [IMG-0749]

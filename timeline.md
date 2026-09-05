@@ -497,3 +497,7 @@ CCHS `2008.008.003.257` (`S-216` / `E-196` / `IMG-0745` / `T-079`) is cataloged 
 CCHS `P-1317` (`S-217` / `E-197` / `IMG-0746` / `T-080`) is titled **Oregon City - View from Bluff** and described as **Oregon City from the Bluff at 5th Street**. The photograph directly shows an elevated downtown scene partly obscured by trees. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the branches.
 
 The catalog metadata supplied with the image gives **no exposure date**, and no later target street number is readable. Treat exact target-frontage identification as **PROBABLE / WORKING HYPOTHESIS** and individual 501-versus-503-versus-505 roof/storefront assignment, one-building-versus-multiple-buildings interpretation, and structural continuity as unresolved.
+
+## T-081 — Circa mid-1960s — photographed Main Street lineup before the 1967 fire
+
+CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) shows the Main Street commercial row with the catalog-identified **The Wheel**, directly readable **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid's/Restaurant. The photograph directly shows **5th ST / MAIN** street blades; CCHS's supplied description instead says Main and McLoughlin Blvd., so the archive preserves the conflict. The image is strong visual context for the businesses independently documented immediately before the **1 September 1967** fire (`E-045`).

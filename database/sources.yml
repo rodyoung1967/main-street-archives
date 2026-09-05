@@ -1223,3 +1223,10 @@ sources:
     related_media: [IMG-0748]
     related_businesses: [BUS-090, BUS-091]
     related_people: [P-392, P-393]
+
+  - id: S-220
+    name: "CCHS P-4565 — Oregon City mid-1960s Main Street business lineup"
+    url: "evidence/source-captures/cchs-p4565-mid-1960s-main-fifth-business-lineup-2026-09-04.md"
+    notes: "CCHS P-4565, circa mid-1960s. Directly readable business signs and visible 5th/Main street blades; catalog Main/McLoughlin wording preserved as conflict."
+    related_media: [IMG-0749]
+    related_evidence: [E-200]

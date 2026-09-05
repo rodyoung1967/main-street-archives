@@ -472,3 +472,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Identity guardrail: `P-393` is **not merged** with `P-090` Walter L. Little; same-person question remains unresolved.
 - Catalog identifiers: `P-6974`; `2008.008.001.320`; Society 320; Society Photo #320; Ferguson Collection #18.
 - Review: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`.
+
+| `IMG-0749` CCHS `P-4565` | `S-220`, `E-200`, `T-081`, `BUS-004`, `BUS-005`, `BUS-007`, `BUS-023`, `BUS-092`, `BUS-093`, `BUS-094`, `B-001`, `B-002`, `B-003` | Circa-mid-1960s pre-fire Main Street business lineup; directly shows TAVERN/505 and multiple neighboring signs; visible 5th/Main blades conflict with catalog Main/McLoughlin wording. |

@@ -1752,3 +1752,15 @@ Claims:
 - The 1908 Walter Little record is **not sufficient by itself** to merge with `P-090` Walter L. Little of the 1921–1922 billiards research.
 Classification: **DOCUMENTED / DIRECT** for CCHS catalog metadata and visible streetscape; **UNRESOLVED IDENTITY** for `P-393` versus `P-090` and for Richard Friedrichs versus later Friedrich firm references.
 Confidence: **Very High** for the CCHS object, 1908 date, combined 510–512 7th Street business-group identification and cataloged left/right person identifications; individual 510/512 assignment and later-person/business continuity unresolved.
+
+## E-200 — Circa mid-1960s photograph documents 503/505 and neighboring Main Street businesses
+Source: `S-220`
+Media: `IMG-0749`
+Type: Primary photographic evidence with institutional catalog metadata
+Claims:
+- CCHS catalogs the scene as circa mid-1960s and lists **The Wheel, 505 Tavern, Coast to Coast Store, Dixon's Pastry Shop, Harding (sp?) Drugs, Thrift Store, and Seid's Restaurant**.
+- Visual review directly reads **TAVERN / 505**, **COAST TO COAST STORES**, **DIXON'S Pastry Shop**, **HARDING DRUGS**, **VOLUNTEERS / AMERICA / THRIFT STORE**, and **Seid's / RESTAURANT**, plus a **RAIN CHECK Room / BREAKFAST / LUNCH & DINNERS** sign whose relationship to The Wheel is unresolved.
+- The image directly shows **5th ST** and **MAIN** street blades at the target corner, while the CCHS title/description says Main and McLoughlin Blvd.; preserve the conflict.
+- This provides visual pre-fire context for businesses independently named in the 1 September 1967 fire report (`E-045`), and corroborates the 1965 505 Tavern renewal (`E-029`) and 1964 Dixon's 509 Main advertisement (`E-129`).
+Classification: **DOCUMENTED / DIRECT** for visible lettering and institutional catalog description; **STRONG CROSS-SOURCE CONTEXT** for the pre-1967-fire lineup; exact exposure date and several exact storefront numbers unresolved.
+Confidence: **Very High** for visible signage and P-4565 identity; **High** for broad circa-mid-1960s/pre-fire context; location wording conflict preserved rather than resolved by assumption.

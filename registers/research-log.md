@@ -490,3 +490,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Added separate catalog-derived person records `P-392` Richard Friedrichs and `P-393` Walter Little (1908 confectionery identification).
 - Did **not** merge the 1908 Walter Little with `P-090` Walter L. Little from the 1921–1922 billiards research; opened an identity lead instead.
 - Steward original signature: 2048 × 1372, 516,379 bytes, SHA-256 `b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d`.
+
+## 4 September 2026 — CCHS P-4565 mid-1960s business-lineup photograph
+
+- Integrated `IMG-0749` / `S-220` / `E-200` from exact CCHS catalog object `P-4565`.
+- Direct visual review records **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, Seid's/Restaurant, and unresolved **Rain Check Room** wording; CCHS also identifies The Wheel.
+- Preserved location-wording conflict: photograph visibly shows **5th ST / MAIN** blades while supplied CCHS description says Main and McLoughlin Blvd.
+- Added new business records `BUS-092`, `BUS-093`, `BUS-094`; linked existing `BUS-004`, `BUS-005`, `BUS-007`, and `BUS-023`.
+- Photo supplies a visual pre-fire lineup that aligns with independently dated 1964–1967 records; exact exposure date remains unresolved within “circa mid-1960s.”

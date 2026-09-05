@@ -190,3 +190,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Steward original: `Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street.jpg`; 2048 × 1372; SHA-256 `b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d`.
 - CCHS identification: Richard Friedrichs on right; Walter Little on left.
 - Limit: individual 510/512 business assignment unresolved; 1908 Walter Little not merged with `P-090`.
+
+### IMG-0749 — Circa-mid-1960s Main Street business lineup
+- File: `media/photos/main-street/IMG-0749_circa-mid-1960s-503-517-main-business-lineup-cchs-p4565.jpg`
+- Source/evidence: `S-220` / `E-200`
+- CCHS: `P-4565`
+- Key value: visual lineup of The Wheel/503, **TAVERN 505**, Coast to Coast, Dixon's Pastry Shop, Harding Drugs, Volunteers thrift, and Seid's before the 1967 fire; visible **5th/Main** street blades preserved against conflicting catalog Main/McLoughlin wording.

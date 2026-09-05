@@ -1507,3 +1507,14 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Provenance: largest public derivative recovered from the exact CCHS object; steward upload tracked separately by exact signature.
 - Interpretation limit: CCHS, not facial recognition or legible storefront text, supplies the business/person names. Do not split 510 versus 512 between the two businesses without further evidence. Do not merge the cataloged 1908 Walter Little with `P-090` solely by name.
 - Review: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`
+
+## IMG-0749 — CCHS P-4565, circa-mid-1960s Main Street business lineup
+- Type: Historic street-level commercial photograph
+- Date: **circa mid-1960s** per CCHS catalog description; exact exposure date unresolved
+- Location: target row at **5th/Main visibly signed in photograph**; CCHS title/description says Main and McLoughlin Blvd.
+- Source/Evidence: `S-220` / `E-200`
+- Repository file: `media/photos/main-street/IMG-0749_circa-mid-1960s-503-517-main-business-lineup-cchs-p4565.jpg`
+- CCHS catalog: `P-4565`
+- Repository dimensions: **2400 × 1921**; SHA-256 `25329cd01f7f935b9c4346f724ba56c495e32b6e2d4d2a90d2c26dbea4f3b154`
+- Steward original: `Oregon City 1960's - Street Scene - Corner of Main and McLoughlin.jpg`; 2048×1639; 539,871 bytes; SHA-256 `e1cc91d86616daf4cc863b30159742e0bc98e5e698bf56fcd671cfa0a56a8a59`
+- Visual business/sign findings: **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, Seid's/Restaurant, and unresolved **Rain Check Room** wording; CCHS also identifies The Wheel.

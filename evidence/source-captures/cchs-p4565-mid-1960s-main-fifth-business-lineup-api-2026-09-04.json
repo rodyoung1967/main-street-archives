@@ -1,0 +1,149 @@
+{
+  "reviewed": "2026-09-04",
+  "catalog": "P-4565",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-4565&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/65fc5820-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 961,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/95af47d0-d1cc-11ee-9dd0-db3630b944dc-vdUfFRc.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0749_circa-mid-1960s-503-517-main-business-lineup-cchs-p4565.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1921,
+    "bytes": 438245,
+    "sha256": "25329cd01f7f935b9c4346f724ba56c495e32b6e2d4d2a90d2c26dbea4f3b154"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin.jpg",
+    "width": 2048,
+    "height": 1639,
+    "bytes": 539871,
+    "sha256": "e1cc91d86616daf4cc863b30159742e0bc98e5e698bf56fcd671cfa0a56a8a59"
+  },
+  "entry": {
+    "id": "65fc5820-9b1f-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin",
+    "media": [
+      {
+        "uuid": "95af47d0-d1cc-11ee-9dd0-db3630b944dc",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/95af47d0-d1cc-11ee-9dd0-db3630b944dc-u53sXTK.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/95af47d0-d1cc-11ee-9dd0-db3630b944dc-u53sXVF.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/95af47d0-d1cc-11ee-9dd0-db3630b944dc-vdUfFRc.sm@1x.jpg",
+            "width": 768,
+            "height": 615
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/95af47d0-d1cc-11ee-9dd0-db3630b944dc-vdUfFRc.sm@2x.jpg",
+            "width": 768,
+            "height": 615
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/95af47d0-d1cc-11ee-9dd0-db3630b944dc-vdUfFRc.lg@1x.jpg",
+            "width": 1200,
+            "height": 961
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/95af47d0-d1cc-11ee-9dd0-db3630b944dc-vdUfFRc.lg@2x.jpg",
+            "width": 1200,
+            "height": 961
+          },
+          "dominant_color": "a8a8a8",
+          "complementary_color": "a8a8a8"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-4565",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Corner of Main and McLoughlin Blvd., Oregon City. Commercial buildings. Circa mid-1960s\nThe Wheel, 505 Tavern, Coast to Coast Store, Dixon's Pastry Shop, Harding (sp?) Drugs, Thrift Store, Seid's Restaurant",
+        "order": 3
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000004565",
+    "prev_id": "6721c550-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "66136290-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}
