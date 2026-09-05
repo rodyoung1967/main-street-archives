@@ -63,6 +63,36 @@ Forebears currently describes an **“Oregon City, Oregon City Directory (1941-1
 
 The page itself returned a 403 when opened in the current environment, so the underlying book images/index could not be inspected. Treat this as an **access lead only**. Its displayed surname statistics are not a substitute for the 1941 directory pages and must not be used to assign Farr or Harr to a premises or year.
 
+### Ancestry image-online discovery route
+
+LDSGenealogy's Oregon City directory inventory now gives a concrete online-image discovery route for the exact target year:
+
+`https://ldsgenealogy.com/OR/Oregon-City.htm`
+
+Under **Oregon City City Directories** it lists:
+
+> **Oregon City, Oregon, City Directory, 1941 (in U.S. City Directories collection) — Ancestry — Image: online**
+
+The parallel Clackamas County directory inventory repeats the same listing:
+
+`https://ldsgenealogy.com/OR/Clackamas-County-City-Directories.htm`
+
+This is a **discovery/access index**, not inspection of the Ancestry images themselves. No Ancestry directory page was opened in this pass, so no Farr, Harr, 505 Main or neighboring-address claim is promoted from this listing. The value is retrievability: a holder with Ancestry access now has a specifically identified image collection to open rather than an open-ended catalog search.
+
+### Independent Pacific Directory Service scope control — West Linn nomination
+
+An official City of West Linn historic nomination for the historic City Hall uses the 1941 directory in its discussion of Columbia Food Stores and cites it in footnote 58 as:
+
+> **Pacific Directory Service 1941 Directory: Oregon City-West Linn-Gladstone**
+
+Official nomination PDF:
+
+`https://westlinnoregon.gov/sites/default/files/fileattachments/communications/page/54306/final_nomination_application_city_hall_and_area_history.pdf`
+
+The nomination states that the 1941 directory lists two Columbia Food Stores in Oregon City and one in West Linn. This is independent evidence that a recent official historic-resource researcher actually consulted a Pacific Directory Service 1941 directory covering **Oregon City, West Linn and Gladstone**. It strengthens the bibliographic/scope identification already preserved from Oregon City's 2000 Downtown Final Report.
+
+It still does **not** expose the target directory pages or establish a Farr/Harr/505 occupancy. The actual 1941 directory images remain the required primary-source check.
+
 ## Separate 1941 PT&T telephone-directory locator — page 112
 
 The same final McLean nomination separately cites **Pacific Telephone & Telegraph Co. Directories** and identifies the 1941 title/scope as:
@@ -94,7 +124,7 @@ Evidence boundary: the present pass does not prove that footnote 102 specificall
 
 ## Retrieval consequence
 
-When requesting or opening the **Pacific Directory Service 1941 Directory of Oregon City**, provide **pages 71 and 181** as two independent control locators. Ask the holder to confirm:
+When requesting or opening the **Pacific Directory Service 1941 Directory of Oregon City / Oregon City-West Linn-Gladstone**, use the newly identified **Ancestry U.S. City Directories image-online route** as well as the existing physical/catalog routes, and provide **pages 71 and 181** as two independent control locators. Ask the holder to confirm:
 
 - **p. 71 — Thomas Deo Edwards**;
 - **p. 181 — Dr. William O. Steele / Roos Building context**.

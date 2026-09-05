@@ -81,6 +81,34 @@ Therefore even after the annual 1945, 1946 and 1947 renewal lists are reconstruc
 
 Neither May applicant is Farr, Harr or the 505 premises. Because this is a **complete recovered two-entry list**, that limited statement applies only to this May 5 action and does not extend to unrecovered 1948 applications or renewals.
 
+## Additional procedural control — pre-4 August 1948 one-applicant Brandt endorsement
+
+Official Oregon City WebDrawer record:
+
+`https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4726672/File/document`
+
+The recovered record begins on municipal page **502** with the close of a Commission meeting. Immediately after final passage of Ordinance No. 1332, the minutes state:
+
+> Upon motion the Commission endorsed the following applicant for a liquor license:
+
+The complete applicant universe in this action is one entry:
+
+1. **C. H. Brandt and Nellie Brandt — Buena Vista Store.**
+
+The meeting then adjourns. On the same municipal page 502 the next visible header begins **Oregon City, Oregon, August 4, 1948 — REGULAR MEETING**. The August 4 meeting lacked a quorum and adjourned to August 6.
+
+The opening header/date of the meeting containing the Brandt endorsement is **not present in this recovered excerpt**. Therefore the defensible date is only **before 4 August 1948**; do not silently assign the endorsement to a presumed July regular-meeting date without recovering the preceding page(s) and header.
+
+No Farr, Harr or 505 Main wording appears in this complete one-applicant action. That statement applies only to this particular endorsement and is not evidence about other unrecovered 1948 actions.
+
+The Brandts later appear again in the late-1948 17-applicant approval list as **C. H. & Nellie Brandt, Buena Vista Store, 1427 16th Street**. The earlier one-applicant endorsement therefore also demonstrates that an applicant appearing in the annual late-year universe could have a separate in-year Commission action.
+
+### Research significance
+
+Together with the **5 May 1948 two-applicant endorsement**, municipal page 502 establishes that Oregon City handled liquor-license business in very small in-year batches, including a **single applicant**. The Farr→Harr search therefore cannot rely on annual renewal lists alone: individual endorsements, transfers, relocations and ownership-change actions throughout the license year remain necessary targets.
+
+The official PDF text is retrievable, but this addition is preserved as **PRIMARY MUNICIPAL OCR/TEXT ONLY** until the page image is visually certified under repository standards.
+
 ## February–March 1948 municipal pagination / directory clue
 
 Official Oregon City WebDrawer record:
@@ -195,7 +223,7 @@ Accordingly, the exact **Farr's Pool Hall → Harr's Recreation Center** transit
 2. For the **December 1947–January 1948** cycle, request or inspect the minute-book pages **immediately preceding municipal page 474**; capture the full meeting header and entire applicant universe.
 3. For the **December 1945–February 1946** cycle, request or inspect the minute-book pages **immediately preceding municipal page 318**; capture the full meeting header and entire applicant universe.
 4. Reconstruct the analogous late-year **1945 and 1947** annual lists and establish equivalent hard page boundaries where possible.
-5. Search the same minute windows for smaller in-year lists and individual transfers, because the 5 May 1948 two-applicant endorsement proves this procedural form existed.
+5. Search the same minute windows for individual and small-batch actions, because the 5 May 1948 two-applicant endorsement and the pre-4 August 1948 single-applicant Brandt endorsement prove that liquor-license business could be handled outside the annual list in batches as small as one applicant.
 6. Recover the **opening page of the late-1948 meeting** containing municipal pages 537–538 so the exact date can replace the current interval dating.
 7. Obtain the actual **1947–48 Clackamas County Directory** and inspect the Oregon City section using the fixed target set above.
 8. Preserve applicant/licensee, trade name, premises, license class, action/date, transfer/change wording and record/page for every recovered municipal list.

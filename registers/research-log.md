@@ -498,3 +498,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved location-wording conflict: photograph visibly shows **5th ST / MAIN** blades while supplied CCHS description says Main and McLoughlin Blvd.
 - Added new business records `BUS-092`, `BUS-093`, `BUS-094`; linked existing `BUS-004`, `BUS-005`, `BUS-007`, and `BUS-023`.
 - Photo supplies a visual pre-fire lineup that aligns with independently dated 1964–1967 records; exact exposure date remains unresolved within “circa mid-1960s.”
+
+### 2026-09-04 — Farr→Harr continuation: single-applicant 1948 endorsement and 1941 directory image route
+- Recovered official Oregon City WebDrawer record `4726672`, municipal p.502, showing a **one-applicant** liquor-license endorsement for **C. H. Brandt and Nellie Brandt — Buena Vista Store** immediately before the visible 4 August 1948 meeting header. The action's own opening meeting header/date is missing, so it is recorded only as **pre-4 August 1948** and **PRIMARY MUNICIPAL OCR/TEXT ONLY** pending scan certification.
+- This complements the 5 May 1948 two-applicant action and confirms that annual renewal lists alone cannot exhaust the Farr→Harr transition search.
+- LDSGenealogy identifies **Oregon City, Oregon, City Directory, 1941** in Ancestry's U.S. City Directories collection as **Image: online**; the images were not inspected in this pass.
+- An official West Linn historic nomination independently cites **Pacific Directory Service 1941 Directory: Oregon City-West Linn-Gladstone**, strengthening the directory's publisher/scope control without adding any Farr/Harr/505 occupant claim.
+- The Farr's Pool Hall → Harr's Recreation Center transition date remains unresolved.
