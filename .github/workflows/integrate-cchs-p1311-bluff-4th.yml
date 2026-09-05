@@ -46,7 +46,7 @@ jobs:
           path = Path('database/sources.yml')
           text = path.read_text(encoding='utf-8')
           if not re.search(rf'(?m)^  - id: {re.escape(sid)}\s*$', text):
-              text = text.rstrip() + f'''\n\n  - id: {sid}\n    name: CCHS P-1311 bluff at 4th Street looking northwest\n    url: {url}\n    notes: Primary CCHS photograph, cataloged 1955-1965. Enlarged review supports The Wheel signage at 503 Main and 505 Tavern signage at adjacent 505 Main in the same photographed state; exact exposure year remains unresolved and the image alone does not backdate the 505 Tavern name to 1955.\n'''
+              text = text.rstrip() + f'''\n\n  - id: {sid}\n    name: CCHS P-1311, bluff at 4th Street looking northwest\n    url: {url}\n    notes: Primary CCHS photograph, cataloged 1955-1965. Enlarged review supports The Wheel signage at 503 Main and 505 Tavern signage at adjacent 505 Main in the same photographed state; exact exposure year remains unresolved and the image alone does not backdate the 505 Tavern name to 1955.\n'''
               path.write_text(text, encoding='utf-8')
           PY
       - name: Validate archive
