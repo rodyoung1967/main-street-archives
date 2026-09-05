@@ -1,0 +1,45 @@
+name: Integrate P-1043 Fain address research
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-p1043-fains-address.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install PyYAML
+      - name: Integrate Fain address research and validate
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/integrate_p1043_fains_511_address_lead.py
+            python3 scripts/validate_archive.py
+            git add -A
+            if git diff --cached --quiet; then
+              echo 'P-1043 Fain address research already integrated.'
+              exit 0
+            fi
+            git commit -m "Tie P-1043 Fain sign to later 511 Main anchor"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
