@@ -26,6 +26,31 @@ jobs:
         run: python3 -m pip install -r requirements.txt
       - name: Integrate aerial rereview
         run: python3 scripts/integrate_1940_aerial_rereview.py
+      - name: Finish wording synchronization
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          def replace(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if new in text:
+                  return
+              if old not in text:
+                  raise SystemExit(f'{path}: synchronization text not found')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          replace(
+              'evidence/open-questions.md',
+              'No **1939–1941** permit recovered. Assessor cards, address-level aerial transcription, or physical analysis are still needed.',
+              'No **1939–1941** permit recovered. The **5 September 2026 address-level aerial re-review is now complete** (`E-102`): 1940 is the earliest reviewed frame with distinguishable deeper-505 rear depth relative to 503, but it is a by-1940 state rather than a construction date. Assessor cards, permits, and physical analysis are still needed.',
+          )
+          replace(
+              'evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md',
+              '4. **Steward-verified aerial transcription** — address-level comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** for 501/503/505 rear edges.',
+              '4. **COMPLETED 5 September 2026 — steward-verified aerial transcription:** address-level comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** now narrows 501 removal to **1936–1940** and identifies **1940 as the earliest reviewed distinguishable deeper-505-vs-503 state**; exact alteration date remains unresolved.',
+          )
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integrated records
@@ -37,6 +62,6 @@ jobs:
             echo 'No changes.'
             exit 0
           fi
-          git commit -m 'Integrate 1940 aerial footprint rereview'
+          git commit -m 'Complete 1940 aerial rereview synchronization'
           git pull --rebase origin main
           git push origin HEAD:main
