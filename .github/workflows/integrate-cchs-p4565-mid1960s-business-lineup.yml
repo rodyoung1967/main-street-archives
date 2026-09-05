@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_cchs_p4565_mid1960s_main_business_lineup.py'
+      - 'scripts/repair_cchs_p4565_metadata.py'
       - '.github/workflows/integrate-cchs-p4565-mid1960s-business-lineup.yml'
   workflow_dispatch:
 
@@ -25,6 +26,8 @@ jobs:
       - run: pip install Pillow PyYAML
       - name: Integrate P-4565 photograph and business evidence
         run: python3 scripts/integrate_cchs_p4565_mid1960s_main_business_lineup.py
+      - name: Normalize P-4565 structured metadata
+        run: python3 scripts/repair_cchs_p4565_metadata.py
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
