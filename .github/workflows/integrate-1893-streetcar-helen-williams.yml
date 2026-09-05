@@ -22,7 +22,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install Pillow
+      - run: pip install Pillow PyYAML
       - name: Integrate Helen photograph and signage evidence
         run: python3 scripts/integrate_1893_streetcar_helen_williams.py
       - name: Validate archive
