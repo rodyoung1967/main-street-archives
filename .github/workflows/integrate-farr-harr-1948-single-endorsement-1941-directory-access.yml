@@ -1,0 +1,41 @@
+name: Integrate Farr-Harr 1948 procedural and 1941 directory controls
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_farr_harr_1948_single_endorsement_and_1941_directory_access.py'
+      - '.github/workflows/integrate-farr-harr-1948-single-endorsement-1941-directory-access.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Integrate research controls
+        run: python3 scripts/integrate_farr_harr_1948_single_endorsement_and_1941_directory_access.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Add 1948 single endorsement and 1941 directory image route'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
