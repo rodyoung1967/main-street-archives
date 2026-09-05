@@ -530,3 +530,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Added business records `BUS-095` and `BUS-096` with exact street numbers/operators left unresolved.
 
 | 2026-09-05 | Integrated 1940 aerial address-level re-review | Re-reviewed canonical local `S-023` frames; narrowed 501 removal from 1936–1944 to **1936–1940** and established **1940 as earliest reviewed distinguishable deeper-505-vs-503 state**. Direct same-source ArcGIS renders used only as temporary alignment aids, not independent evidence. | Exact 501 demolition cause/date and exact 505 alteration date/scope/permit/assessor change remain open. |
+
+### 2026-09-05 — CCHS P-4563 northeast 5th/Main photograph
+- Integrated project-steward supplied photograph as `IMG-0752` / `S-231` / `E-205` / `T-084`.
+- Preserved exact CCHS metadata: title **Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's**, object `P-4563`, and the catalog description naming **American Cleaners** and **Outdoor Store** with **(5th and Main Street)**.
+- Direct visual review reads **AMERICAN CLEANERS**, **OUTDOOR STORE**, **SPORTING GOODS**, **MAIN**, and **5th ST**.
+- Preserved steward spatial correction/identification: the photographed storefront group is the **northeast corner of 5th and Main**.
+- Added business records `BUS-097` American Cleaners and `BUS-098` A & K Outdoor Store / Outdoor Store without assigning unsupported street numbers or proprietors.
+- The source-backed CCHS derivative is retained as the canonical binary; the exact supplied-file filename, dimensions, byte count and SHA-256 are preserved in the source capture/API record.

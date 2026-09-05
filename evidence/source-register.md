@@ -1788,3 +1788,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-204` / `IMG-0751` / `T-083`.
 Related businesses: `BUS-095`, `BUS-096`, plus `BUS-004` only as camera-position context.
 Notes: Image directly shows Mobil service-station branding and The L. H. Hagen Agency / Insurance signage. Project steward identifies the camera at/near The Wheel/503 northwest corner looking southeast; the target 503/505 facades are not visible.
+
+## S-231 — CCHS P-4563 — circa-mid-1960s northeast 5th/Main American Cleaners and Outdoor Store scene
+Type: Primary historic photograph with CCHS institutional catalog metadata and attributed project-steward quadrant identification; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-4563`.
+Date: **circa mid-1960s** per CCHS description; exact exposure date unresolved.
+Repository image: `media/photos/main-street/IMG-0752_circa-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-cchs-p4563.jpg`.
+Capture: `evidence/source-captures/cchs-p4563-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-mid-1960s-1
+Related evidence/media/timeline: `E-205` / `IMG-0752` / `T-084`.
+Related businesses: `BUS-097`, `BUS-098`.
+Notes: CCHS names American Cleaners and Outdoor Store and specifies “(5th and Main Street).” Project steward identifies the photographed storefront group as the northeast corner of 5th/Main. Target 503/505 facades are not shown.

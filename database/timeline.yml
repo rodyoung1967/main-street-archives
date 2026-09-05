@@ -856,3 +856,11 @@ timeline:
     related_evidence: [E-204]
     related_businesses: [BUS-095, BUS-096, BUS-004]
     related_buildings: [B-001]
+
+  - id: T-084
+    date: "Circa mid-1960s"
+    summary: "CCHS P-4563 documents American Cleaners and an Outdoor Store at the 5th/Main intersection; project steward identifies the pictured commercial group as the northeast corner. Target 503/505 facades are not shown."
+    confidence: "Very High for P-4563/catalog and visible signs; High for northeast-quadrant placement from attributed steward testimony."
+    related_sources: [S-231]
+    related_evidence: [E-205]
+    related_businesses: [BUS-097, BUS-098]

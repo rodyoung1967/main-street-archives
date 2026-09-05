@@ -133,7 +133,7 @@ wr(API, json.dumps(api, indent=2, ensure_ascii=False) + '\n')
 TITLE = prop(entry, 'hasName') or "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's"
 DESCRIPTION = prop(entry, 'hasDescription') or ''
 SOURCE_NAME = 'CCHS P-4563 — circa-mid-1960s northeast 5th/Main American Cleaners and Outdoor Store scene'
-EVIDENCE_NAME = 'Circa-mid-1960s photograph documents the northeast 5th/Main commercial corner'
+EVIDENCE_NAME = 'Circa-mid-1960s photograph documents northeast 5th/Main commercial corner'
 TIMELINE_NAME = 'Circa mid-1960s — northeast 5th/Main American Cleaners and Outdoor Store corner'
 
 capture = f'''# {SOURCE_NAME}

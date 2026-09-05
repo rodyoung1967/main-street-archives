@@ -208,3 +208,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-230` / `E-204`
 - CCHS: `P-4564`
 - Key value: opposite-corner spatial context for 5th/Main; directly shows Mobil service station and L. H. Hagen Agency. Project steward places camera at/near The Wheel/503 looking southeast; 503/505 facades are not shown.
+
+### IMG-0752 — Circa-mid-1960s northeast 5th/Main American Cleaners / Outdoor Store
+- File: `media/photos/main-street/IMG-0752_circa-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-cchs-p4563.jpg`
+- Source/evidence: `S-231` / `E-205`
+- CCHS: `P-4563`
+- Key value: documents the northeast 5th/Main neighboring corner, with American Cleaners and Outdoor Store directly/catalographically identified; target 503/505 facades are not shown.

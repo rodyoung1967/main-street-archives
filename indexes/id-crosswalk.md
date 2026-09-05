@@ -478,3 +478,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0750` CCHS `P-1293` | `S-229`, `E-203`, `T-082`, `B-001`, `B-002`, `B-005`, `E-011`, `E-021`, `E-101`, `E-102` | CCHS-cataloged 1975 aerial; 505 visibly deeper rearward than 503; 501 absent; supplied title says 1981, catalog metadata says 1975. |
 
 | `IMG-0751` CCHS `P-4564` | `S-230`, `E-204`, `T-083`, `BUS-095`, `BUS-096`, `BUS-004`, `B-001` | Circa-mid-1960s Mobil/Hagen opposite-corner scene. Mobil and Hagen signage direct; project steward places camera at/near The Wheel/503 looking southeast. `BUS-004` / `B-001` are camera-position context only; 503/505 facades are not depicted. |
+
+| `IMG-0752` CCHS `P-4563` | `S-231`, `E-205`, `T-084`, `BUS-097`, `BUS-098` | Circa-mid-1960s northeast 5th/Main neighboring-corner scene; American Cleaners and Outdoor Store documented; target 503/505 facades not shown. |

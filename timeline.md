@@ -509,3 +509,9 @@ CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), institutionally cataloged **1975
 ## T-083 — Circa mid-1960s — opposite-corner Mobil and Hagen scene from The Wheel corner
 
 CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`) directly shows a **Mobil** service station and **The L. H. Hagen Agency / Insurance** in a scene cataloged **circa mid-1960s**. Project-steward orientation places the camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast, making the station the opposite southeast-corner context. The target 503/505 facades are not visible, and exact opposite-side street numbers remain unresolved.
+
+## T-084 — Circa mid-1960s — northeast 5th/Main American Cleaners and Outdoor Store corner
+
+CCHS `P-4563` (`S-231` / `E-205` / `IMG-0752`) documents **American Cleaners** and an **Outdoor Store** in a scene cataloged **circa mid-1960s** and explicitly described as **(5th and Main Street)**. The project steward identifies the pictured storefront group as the **northeast corner of 5th and Main**. The photograph supplies neighboring-corner/intersection context; it does not show the 503/505 facades.
+
+Related businesses: `BUS-097`, `BUS-098`.

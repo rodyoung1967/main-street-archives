@@ -1833,3 +1833,16 @@ Classification: **DOCUMENTED / DIRECT** for visible signs, photographed use, cat
 Confidence: **Very High** for P-4564 identity and visible Mobil/Hagen signage; **High** for the southeast-corner orientation when combined with steward testimony and established Wheel/503 location.
 Related businesses: `BUS-095`, `BUS-096`, `BUS-004` (camera-position context only).
 Related buildings: `B-001` (camera-position context only).
+
+## E-205 — Circa-mid-1960s photograph documents northeast 5th/Main commercial corner
+Source: `S-231`
+Media: `IMG-0752`
+Type: Primary photographic evidence with institutional catalog metadata and attributed project-steward spatial testimony
+Claims:
+- Direct visual review reads **AMERICAN CLEANERS**, **OUTDOOR STORE**, **SPORTING GOODS**, **MAIN**, and **5th ST**.
+- CCHS `P-4563` describes the scene as circa mid-1960s and names **American Cleaners** and **Outdoor Store**, with “(5th and Main Street)” in the description.
+- Project steward identifies the photographed commercial group as the **northeast corner of 5th and Main**.
+- The photograph is neighboring/intersection context and does not depict the 503/505 storefront facades.
+Classification: **DOCUMENTED / DIRECT** for visible lettering, catalog wording, and the attributed steward statement; exact street numbers and business operators unresolved.
+Confidence: **Very High** for P-4563 identity and visible/captured business names; **High** for northeast-quadrant placement based on steward testimony plus the visible/CCHS 5th/Main intersection identification.
+Related businesses: `BUS-097`, `BUS-098`.

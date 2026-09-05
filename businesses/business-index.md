@@ -159,3 +159,6 @@ These records were already part of the evidence narrative but previously lacked 
 
 | BUS-095 | [Mobil Service Station — 5th/Main context](mobil-service-station-5th-main.md) | Southeast corner of 5th/Main by steward orientation; exact number unresolved | CCHS `P-4564` says “Mobile Service Station”; photograph directly shows **Mobil** branding. Operator/legal entity unresolved. `E-204`. |
 | BUS-096 | [The L. H. Hagen Agency](l-h-hagen-agency.md) | Adjacent to photographed Mobil station; exact number unresolved | CCHS `P-4564` names the agency; photograph directly reads **The L. H. HAGEN Agency** and **INSURANCE**. Proprietor identity unresolved. `E-204`. |
+
+| BUS-097 | [American Cleaners](american-cleaners.md) | Northeast corner of 5th/Main per project-steward spatial identification; exact number unresolved | CCHS `P-4563`, circa mid-1960s; name directly visible and cataloged. `E-205`. |
+| BUS-098 | [A & K Outdoor Store / Outdoor Store](a-and-k-outdoor-store.md) | Northeast 5th/Main commercial group per project-steward identification; exact number unresolved | CCHS `P-4563`, circa mid-1960s; OUTDOOR STORE directly visible and catalog names Outdoor Store; smaller A & K lettering visually apparent but exact trade-name styling remains to corroborate. `E-205`. |

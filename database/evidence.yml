@@ -3114,3 +3114,17 @@ evidence:
     related_buildings: [B-001]
     related_media: [IMG-0751]
     repository_file: evidence/source-captures/cchs-p4564-mid-1960s-mobil-hagen-southeast-5th-main-2026-09-05.md
+
+  - id: E-205
+    name: "Circa-mid-1960s photograph documents northeast 5th/Main commercial corner"
+    type: "Primary photographic evidence with institutional catalog metadata and attributed project-steward spatial testimony"
+    claims:
+      - "American Cleaners, Outdoor Store, Sporting Goods, Main and 5th St lettering are visible."
+      - "CCHS P-4563 names American Cleaners and Outdoor Store and specifies (5th and Main Street)."
+      - "Project steward identifies the photographed storefront group as the northeast corner of 5th and Main."
+      - "The photograph does not show the 503/505 storefront facades."
+    confidence: "Very High for catalog identity and visible signage; High for northeast-corner placement based on attributed steward testimony plus 5th/Main controls."
+    related_sources: [S-231]
+    related_businesses: [BUS-097, BUS-098]
+    related_media: [IMG-0752]
+    repository_file: evidence/source-captures/cchs-p4563-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-2026-09-05.md

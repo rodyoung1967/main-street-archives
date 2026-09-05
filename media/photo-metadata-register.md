@@ -1546,3 +1546,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Related businesses: `BUS-095` Mobil Service Station; `BUS-096` The L. H. Hagen Agency; `BUS-004` The Wheel only as camera-position context
 - Orientation: project steward identifies camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast; photographed Mobil station is opposite on southeast corner. The 503/505 facades are not visible.
 - Visual findings: Mobil pole/canopy branding, fuel pumps, L. H. Hagen Agency and Insurance signage, bluff, traffic signal, roadway/track geometry and background industrial structures.
+
+## IMG-0752 — CCHS P-4563, circa-mid-1960s northeast 5th/Main commercial corner
+- Type: Historic street-level intersection/commercial photograph
+- Date: **circa mid-1960s** per CCHS catalog description; exact exposure date unresolved
+- CCHS catalog: `P-4563`
+- CCHS title: **Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's**
+- Repository file: `media/photos/main-street/IMG-0752_circa-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-cchs-p4563.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1907**; 390,447 bytes; SHA-256 `a44541fc5fdb6803457f44d99bca9524ecfa651c0d176b635c31accf8217b61a`
+- Steward original: `Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's(1).jpg`; 2048×1627; 495,209 bytes; SHA-256 `55786b2024ad8186289859095b3d132ad27b742155d1c7ddf98ee03c68d78fa6`
+- Source/Evidence/Timeline: `S-231` / `E-205` / `T-084`
+- Related businesses: `BUS-097` American Cleaners; `BUS-098` A & K Outdoor Store / Outdoor Store
+- Location: visible/CCHS 5th and Main intersection; project steward identifies pictured storefront group as the **northeast corner**.
+- Visual findings: American Cleaners, Outdoor Store, Sporting Goods signage, Main/5th street blades, traffic signals, autos, roadway/track geometry and bluff.

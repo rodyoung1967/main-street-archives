@@ -1201,3 +1201,21 @@ businesses:
     related_evidence: [E-204]
     related_sources: [S-230]
     related_media: [IMG-0751]
+
+  - id: BUS-097
+    name: American Cleaners
+    repository_file: businesses/american-cleaners.md
+    address: "Northeast corner of 5th/Main per steward identification; exact number unresolved"
+    notes: "CCHS P-4563, circa mid-1960s; AMERICAN CLEANERS directly visible and cataloged."
+    related_evidence: [E-205]
+    related_sources: [S-231]
+    related_media: [IMG-0752]
+
+  - id: BUS-098
+    name: "A & K Outdoor Store / Outdoor Store"
+    repository_file: businesses/a-and-k-outdoor-store.md
+    address: "Northeast 5th/Main commercial group per steward identification; exact number unresolved"
+    notes: "OUTDOOR STORE directly visible and cataloged; smaller A & K lettering visually apparent; exact trade-name styling and Sporting Goods storefront relationship unresolved."
+    related_evidence: [E-205]
+    related_sources: [S-231]
+    related_media: [IMG-0752]

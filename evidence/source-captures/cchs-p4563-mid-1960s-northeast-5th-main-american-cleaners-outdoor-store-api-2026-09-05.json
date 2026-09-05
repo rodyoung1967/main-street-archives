@@ -1,0 +1,149 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-4563",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/d6ad7c50-ba05-11ed-a262-e7d6d6f41c49",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-mid-1960s-1",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 954,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/ab76a150-9543-11ee-b923-f58af1395650-vdUf4xH.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0752_circa-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-cchs-p4563.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1907,
+    "bytes": 390447,
+    "sha256": "a44541fc5fdb6803457f44d99bca9524ecfa651c0d176b635c31accf8217b61a"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's(1).jpg",
+    "width": 2048,
+    "height": 1627,
+    "bytes": 495209,
+    "sha256": "55786b2024ad8186289859095b3d132ad27b742155d1c7ddf98ee03c68d78fa6",
+    "location_note": "The photographed storefront group is the northeast corner of 5th and Main."
+  },
+  "entry": {
+    "id": "d6ad7c50-ba05-11ed-a262-e7d6d6f41c49",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-mid-1960s-1",
+    "media": [
+      {
+        "uuid": "ab76a150-9543-11ee-b923-f58af1395650",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/ab76a150-9543-11ee-b923-f58af1395650-uYN1BXf.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/ab76a150-9543-11ee-b923-f58af1395650-uYN1BZ9.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/ab76a150-9543-11ee-b923-f58af1395650-vdUf4xH.sm@1x.jpg",
+            "width": 768,
+            "height": 610
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/ab76a150-9543-11ee-b923-f58af1395650-vdUf4xH.sm@2x.jpg",
+            "width": 768,
+            "height": 610
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/ab76a150-9543-11ee-b923-f58af1395650-vdUf4xH.lg@1x.jpg",
+            "width": 1200,
+            "height": 954
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/ab76a150-9543-11ee-b923-f58af1395650-vdUf4xH.lg@2x.jpg",
+            "width": 1200,
+            "height": 954
+          },
+          "dominant_color": "686868",
+          "complementary_color": "696969"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-4563",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Corner of Main and McLoughlin Blvd., Oregon City. Commercial buildings. Circa mid-1960s  (5th and Main Street)\nAmerican Cleaners, Outdoor Store, \n\nU1426-005109",
+        "order": 3
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000004563",
+    "prev_id": "66136290-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "660be880-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}
