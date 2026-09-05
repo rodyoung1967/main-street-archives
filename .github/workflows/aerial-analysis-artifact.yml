@@ -1,0 +1,38 @@
+name: Package aerial analysis images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/aerial-analysis-artifact.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+          sparse-checkout: |
+            media/photos/aerials
+          sparse-checkout-cone-mode: true
+      - name: Stage target aerials
+        run: |
+          mkdir -p /tmp/aerial-analysis
+          cp media/photos/aerials/IMG-0007_aerial_5th-main_1936.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0008_aerial_5th-main_1940.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0009_aerial_5th-main_1944.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0010_aerial_5th-main_1955.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0011_aerial_5th-main_1961.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0012_aerial_5th-main_1974.jpg /tmp/aerial-analysis/
+          cp media/photos/aerials/IMG-0750_1975-oregon-city-aerial-503-505-main-cchs-p1293.jpg /tmp/aerial-analysis/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: aerial-analysis-images
+          path: /tmp/aerial-analysis/
+          retention-days: 1
