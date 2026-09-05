@@ -36,7 +36,7 @@ CATALOG = {
 }
 
 SEARCH_URL = "https://api.catalogit.app/api/public/search?" + urllib.parse.urlencode(
-    {"query": TARGET, "size": 50}
+    {"query": TARGET, "size": 200}
 )
 
 def rd(path):
@@ -77,7 +77,7 @@ def catno(obj):
 
 def find_match(obj):
     if isinstance(obj, dict):
-        if catno(obj) == TARGET:
+        if catno(obj) == TARGET and str(obj.get("account_id")) == ACCOUNT:
             return obj
         for v in obj.values():
             m = find_match(v)

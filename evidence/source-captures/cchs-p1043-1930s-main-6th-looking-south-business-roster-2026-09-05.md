@@ -14,8 +14,22 @@ Archive IDs: source `S-237`; evidence `E-211`; media `IMG-0758`; timeline `T-088
 - Medium: **Photographic Paper**
 - Location of Negative: **Halon**
 - Other Number: **Society Photo #: 168**
-- Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/child-in-front-of-building-1
-- Public API: https://api.catalogit.app/api/public/accounts/4813/entries/28a8afe0-76a1-11ee-bc74-3dd853f6747b
+- Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-streetcar-on-main-at-6th
+- Public API: https://api.catalogit.app/api/public/accounts/4813/entries/f9806ec0-9b1e-11eb-b3ef-53e7205a00b4
+
+
+## CatalogIt account-scope correction
+
+During initial automation, a **global CatalogIt search** encountered an unrelated **History Fort Lauderdale** object that also uses catalog number `P-1043`. That global duplicate was mistakenly selected as the first exact-number match. The error was detected by the mismatched account/slug and portrait image geometry and corrected **5 September 2026** before finalization.
+
+The repository image and API capture now come from the exact account-scoped Clackamas County Historical Society object:
+
+- CCHS account ID: `4813`
+- CCHS entry ID: `f9806ec0-9b1e-11eb-b3ef-53e7205a00b4`
+- CCHS slug: `oregon-city-1930s-streetcar-on-main-at-6th`
+- Correct repository derivative: **2398 × 1422**, SHA-256 `c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa`
+
+The rejected Fort Lauderdale object is retained only in this audit explanation and is **not evidence for Oregon City**.
 
 ## Project-steward supplied image
 
@@ -29,9 +43,9 @@ Archive IDs: source `S-237`; evidence `E-211`; media `IMG-0758`; timeline `T-088
 
 - File: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`
 - Source: largest public CCHS derivative recovered from the exact `P-1043` catalog object
-- Dimensions: **550 × 850**
-- Bytes: **58,901**
-- SHA-256: `a96a00bfc65c364b95078ee38ef186f53faf66c3f2b78ce8fa6eb3864999a92d`
+- Dimensions: **2398 × 1422**
+- Bytes: **528,704**
+- SHA-256: `c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa`
 - Byte-identical to steward upload: **no**
 
 The exact steward-file fingerprint is retained. If the public derivative differs in encoding or dimensions, both are treated as representations of the same institutional photograph/object rather than as different scenes.

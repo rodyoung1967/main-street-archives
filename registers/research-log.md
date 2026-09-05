@@ -585,3 +585,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Did **not** merge the 1930s American Cleaners wording with later `BUS-097` solely by name.
 - Did **not** treat Rexall/Drugs as a direct Harding-name transcription; it is retained only as a probable cross-source alignment lead.
 - Did **not** make a new direct 503/505 occupancy claim from the distant frontage. `P-1128` remains the stronger 1936 Farr-at-505 anchor.
+
+### 2026-09-05 — P-1043 CatalogIt account-scope correction
+- Detected that the first integration pass used a global CatalogIt exact-number match from unrelated **History Fort Lauderdale account 11808**, which also has an object numbered `P-1043`.
+- Correct CCHS match is **account 4813**, entry `f9806ec0-9b1e-11eb-b3ef-53e7205a00b4`, slug `oregon-city-1930s-streetcar-on-main-at-6th`.
+- Replaced the incorrect portrait derivative with the correct CCHS landscape derivative at **2398×1422**, 528,704 bytes, SHA-256 `c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa`.
+- Rewrote the raw API capture to the CCHS object and corrected source/media URLs and fingerprints.
+- Hardened the reusable integration script to require `account_id == 4813` and expanded the search result set before choosing an exact catalog-number match.
+- The historical sign analysis was based on the steward-supplied Oregon City photograph and therefore did not depend on the rejected Fort Lauderdale image; this correction repairs source provenance and repository binary identity.

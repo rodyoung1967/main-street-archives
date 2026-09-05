@@ -1642,7 +1642,7 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - CCHS other number: **Society Photo #168**
 - Repository file: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`
 - Status: `committed`
-- Repository dimensions: **550 × 850**; 58,901 bytes; SHA-256 `a96a00bfc65c364b95078ee38ef186f53faf66c3f2b78ce8fa6eb3864999a92d`
+- Repository dimensions: **2398 × 1422**; 528,704 bytes; SHA-256 `c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa`
 - Steward original: `Oregon City 1930s - Streetcar on Main at 6th(1).jpg`; 2048×1214; 617,696 bytes; SHA-256 `870d294ee08012121c057d63b6f90112ff5305600c36a2f1895fa57738b65e08`
 - Steward orientation: looking south from Sixth toward Fifth.
 - Direct visual text includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall, Drugs, Hardware, Tourist Hotel, Alexander's Mkt., American Cleaners, and partial additional signs.

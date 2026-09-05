@@ -128,7 +128,7 @@ with Image.open(BytesIO(data)) as im:
     width, height = im.size
 nbytes = len(data)
 sha = hashlib.sha256(data).hexdigest()
-if (width, height) != (1200, 711):
+if (width, height) != (2398, 1422):
     raise SystemExit(f"Unexpected correct derivative dimensions: {width}x{height}")
 if sha != "c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa":
     raise SystemExit(f"Unexpected correct derivative SHA: {sha}")

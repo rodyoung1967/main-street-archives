@@ -1,21 +1,20 @@
 {
   "reviewed": "2026-09-05",
   "catalog": "P-1043",
-  "search_url": "https://api.catalogit.app/api/public/search?query=P-1043&size=50",
-  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/28a8afe0-76a1-11ee-bc74-3dd853f6747b",
-  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/child-in-front-of-building-1",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/f9806ec0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-streetcar-on-main-at-6th",
   "selected_derivative": {
     "key": "public_highres_2x",
-    "width": 550,
-    "height": 850,
-    "url": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@2x.jpg"
+    "width": 1200,
+    "height": 711,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9ebf0700-5dd2-11f0-8520-4d5196086781-vdUelYW.lg@2x.jpg"
   },
   "repository_file": "media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg",
   "repository_image": {
-    "width": 550,
-    "height": 850,
-    "bytes": 58901,
-    "sha256": "a96a00bfc65c364b95078ee38ef186f53faf66c3f2b78ce8fa6eb3864999a92d"
+    "width": 2398,
+    "height": 1422,
+    "bytes": 528704,
+    "sha256": "c86af7360e1ab64eb0855ed967cc0d1c22f8b8a06254070d2743ffbce6226daa"
   },
   "steward_upload": {
     "filename": "Oregon City 1930s - Streetcar on Main at 6th(1).jpg",
@@ -40,20 +39,27 @@
     "other_number": "Society Photo #: 168"
   },
   "repository_byte_identical_to_steward_upload": false,
+  "correction_2026_09_05": {
+    "reason": "The initial global CatalogIt search returned an unrelated History Fort Lauderdale object that reused catalog number P-1043 before the CCHS object. The archive was corrected to the account-scoped Clackamas County Historical Society object before finalization.",
+    "rejected_account_id": "11808",
+    "rejected_entry_id": "28a8afe0-76a1-11ee-bc74-3dd853f6747b",
+    "correct_account_id": "4813",
+    "correct_entry_id": "f9806ec0-9b1e-11eb-b3ef-53e7205a00b4"
+  },
   "entry": {
-    "id": "28a8afe0-76a1-11ee-bc74-3dd853f6747b",
-    "account_id": "11808",
-    "account_slug": "history-fort-lauderdale",
-    "account_name": "History Fort Lauderdale",
+    "id": "f9806ec0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
     "folder_ids": [
-      "120f36b0-a00d-11ee-b3d2-cf8012dd59c3"
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
     ],
     "folders": [
       {
-        "id": "120f36b0-a00d-11ee-b3d2-cf8012dd59c3",
-        "name": "Postcards",
-        "slug": "postcards",
-        "description": "History Fort Lauderdale's Postcard Collection"
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
       }
     ],
     "classification": "Photograph",
@@ -97,45 +103,84 @@
       "DeaccessionMixin",
       "Collectible"
     ],
-    "slug": "child-in-front-of-building-1",
+    "slug": "oregon-city-1930s-streetcar-on-main-at-6th",
     "media": [
       {
-        "uuid": "f2f672d0-7784-11ee-a4d3-a71c617cd984",
+        "uuid": "9ebf0700-5dd2-11f0-8520-4d5196086781",
         "content_type": "image/jpeg",
-        "description": "Origformat: Artifact; Resolution: 800 dpi",
         "derivatives": {
           "public_thumbnail": {
-            "path": "https://d3f1jyudfg58oi.cloudfront.net/11808/image/f2f672d0-7784-11ee-a4d3-a71c617cd984-uUeGSbm.tn.jpg",
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/9ebf0700-5dd2-11f0-8520-4d5196086781-vRAhZjr.tn.jpg",
             "width": 200,
             "height": 200
           },
           "public_thumbnail_2x": {
-            "path": "https://d3f1jyudfg58oi.cloudfront.net/11808/image/f2f672d0-7784-11ee-a4d3-a71c617cd984-uUeGSdU.tn@2x.jpg",
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/9ebf0700-5dd2-11f0-8520-4d5196086781-vRAhZkd.tn@2x.jpg",
             "width": 200,
             "height": 200
           },
           "public": {
-            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.sm@1x.jpg",
-            "width": 550,
-            "height": 850
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9ebf0700-5dd2-11f0-8520-4d5196086781-vdUelYW.sm@1x.jpg",
+            "width": 768,
+            "height": 455
           },
           "public_2x": {
-            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.sm@2x.jpg",
-            "width": 550,
-            "height": 850
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9ebf0700-5dd2-11f0-8520-4d5196086781-vdUelYW.sm@2x.jpg",
+            "width": 768,
+            "height": 455
           },
           "public_highres": {
-            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@1x.jpg",
-            "width": 550,
-            "height": 850
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9ebf0700-5dd2-11f0-8520-4d5196086781-vdUelYW.lg@1x.jpg",
+            "width": 1200,
+            "height": 711
           },
           "public_highres_2x": {
-            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@2x.jpg",
-            "width": 550,
-            "height": 850
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9ebf0700-5dd2-11f0-8520-4d5196086781-vdUelYW.lg@2x.jpg",
+            "width": 1200,
+            "height": 711
           },
-          "dominant_color": "e8d8c8",
-          "complementary_color": "c8d8e8"
+          "dominant_color": "f8f8f8",
+          "complementary_color": "f7f7f7"
+        }
+      },
+      {
+        "uuid": "f97907d0-9b36-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Streetcar on Main, 1930s.",
+        "description": "Copyright: None; Origsize: 4\" x 6\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/f97907d0-9b36-11eb-97c3-a30f15c9573f-sulAFOu.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/f97907d0-9b36-11eb-97c3-a30f15c9573f-sulAFSU.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f97907d0-9b36-11eb-97c3-a30f15c9573f-vdUelYW.sm@1x.jpg",
+            "width": 768,
+            "height": 454
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f97907d0-9b36-11eb-97c3-a30f15c9573f-vdUelYW.sm@2x.jpg",
+            "width": 768,
+            "height": 454
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f97907d0-9b36-11eb-97c3-a30f15c9573f-vdUelYW.lg@1x.jpg",
+            "width": 1200,
+            "height": 709
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f97907d0-9b36-11eb-97c3-a30f15c9573f-vdUelYW.lg@2x.jpg",
+            "width": 1200,
+            "height": 709
+          },
+          "dominant_color": "F6F5F1",
+          "complementary_color": "F1F2F6"
         }
       }
     ],
@@ -143,7 +188,7 @@
       "hasName": {
         "label": "Name/Title",
         "width": "w-xs-12",
-        "value_text": "Child in front of building",
+        "value_text": "Oregon City 1930s - Streetcar on Main at 6th",
         "order": 1
       },
       "hasCatalogNumber": {
@@ -155,203 +200,107 @@
       "hasDescription": {
         "label": "Description",
         "width": "w-xs-12",
-        "value_text": "Unidentified child standing with hand over eyes in yard in front of building. Possibly a small wheelbarrow behind child.\r\n\r\nMight be same child as in P-1031.\r\n\r\nBlack and white photographic image with border. Real photo postcard. Postally unused.",
+        "value_text": "Main Street Looking Southwest from 6th Street",
         "order": 3
       },
-      "hasCollection": {
-        "label": "Collection",
-        "width": "w-xs-12",
-        "value_reference": {
-          "reference_value": "FLHS Postcard Collection",
-          "reference_type": "http://www.catalogit.me/rdf/ontologies/catalogit/collectable#Collection"
-        },
-        "order": 4
-      },
-      "hasCatalogedBy": {
-        "label": "Cataloged By",
-        "width": "w-xs-12",
-        "value_reference": {
-          "reference_value": "MTE (Margo Edwards)",
-          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
-        },
-        "order": 5
-      },
-      "hasLexicon": {
-        "label": "Lexicon",
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
         "width": "w-xs-12",
         "value": {
-          "hasNomenclature4": {
-            "label": "Nomenclature 4.0",
-            "width": "w-xs-12",
-            "value_hreference_list": [
-              {
-                "label": "Nomenclature Primary Object Term",
-                "width": "w-xs-12",
-                "value_reference": {
-                  "reference_value": "Postcard"
-                }
-              },
-              {
-                "label": "Nomenclature Sub-Class",
-                "width": "w-xs-12",
-                "value_reference": {
-                  "reference_value": "Writing Media"
-                }
-              },
-              {
-                "label": "Nomenclature Class",
-                "width": "w-xs-12",
-                "value_reference": {
-                  "reference_value": "Written Communication T&E"
-                }
-              },
-              {
-                "label": "Nomenclature Category",
-                "width": "w-xs-12",
-                "value_reference": {
-                  "reference_value": "Category 06: Tools & Equipment for Communication"
-                }
-              }
-            ],
-            "order": 1
-          }
-        },
-        "order": 6
-      },
-      "hasLocation": {
-        "label": "Location",
-        "width": "w-xs-12",
-        "value": {
-          "hasLocation": {
-            "label": "Location",
+          "hasMadeDate": {
+            "label": "Date made",
             "width": "w-xs-6",
-            "value_hreference_list": [
-              {
-                "label": "Container",
-                "width": "w-xs-6",
-                "value_reference": {
-                  "reference_value": "Postcard Files, P-951 - P-1100",
-                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
-                }
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1930",
+                "fuzzydate_date": "1930-01-01T00:00:00.000Z"
               },
-              {
-                "label": "Room",
-                "width": "w-xs-6",
-                "value_reference": {
-                  "reference_value": "Hofmann Manuscript Room",
-                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
-                }
-              },
-              {
-                "label": "Building",
-                "width": "w-xs-6",
-                "value_reference": {
-                  "reference_value": "Hoch Heritage Center",
-                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
-                }
+              "fuzzydate_to": {
+                "fuzzydate_value": "1939",
+                "fuzzydate_date": "1939-01-01T00:00:00.000Z"
               }
-            ],
+            },
             "order": 1
           },
-          "hasCategory": {
-            "label": "Category",
+          "hasMadePlace": {
+            "label": "Place",
             "width": "w-xs-6",
-            "value_reference": {
-              "reference_value": "Permanent",
-              "reference_type": "http://www.catalogit.me/rdf/ontologies/catalogit/collectable#LocationCategory"
-            },
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
             "order": 2
           },
-          "hasDateValue": {
-            "label": "Date",
-            "width": "w-xs-6",
-            "value_date": "2023-10-26T19:00:00.000Z",
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
             "order": 3
           }
         },
-        "order": 7
+        "order": 4
       },
-      "hasInventoried": {
-        "label": "Inventory",
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
         "width": "w-xs-12",
         "value": {
-          "hasInventoryBy": {
-            "label": "Inventoried By",
-            "width": "w-xs-6",
-            "value_reference": {
-              "reference_value": "MTE (Margo Edwards)",
-              "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
-            },
-            "order": 1
-          },
-          "hasInventoryDate": {
-            "label": "Inventoried Date",
-            "width": "w-xs-6",
-            "value_fuzzydate": {
-              "fuzzydate_value": "Oct 23, 2008",
-              "fuzzydate_date": "2008-10-23T00:00:00.000Z"
-            },
-            "order": 2
-          }
-        },
-        "order": 8
-      },
-      "hasMaintenance": {
-        "label": "Maintenance",
-        "width": "w-xs-12",
-        "value": {
-          "hasMaintenanceEvent": {
-            "label": "Maintenance History",
+          "hasOtherNumber": {
+            "label": "Other Numbers",
             "width": "w-xs-12",
             "value": {
-              "hasMaintenanceDate": {
-                "label": "Date",
+              "hasValue": {
+                "label": "Other Number",
                 "width": "w-xs-6",
-                "value_fuzzydate": {
-                  "fuzzydate_value": "Jun 27, 2007",
-                  "fuzzydate_date": "2007-06-27T00:00:00.000Z"
-                },
+                "value_text": "Society Photo #: 168",
                 "order": 1
               }
             },
             "order": 1
           }
         },
-        "order": 9
-      },
-      "hasCreateUser": {
-        "label": "Created By",
-        "width": "w-xs-6",
-        "value_reference": {
-          "reference_value": "admin@catalogit.app",
-          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
-        },
-        "order": 10
-      },
-      "hasCreateDate": {
-        "label": "Create Date",
-        "width": "w-xs-6",
-        "value_date": "2008-10-23T07:00:00.000Z",
-        "order": 11
-      },
-      "hasUpdateUser": {
-        "label": "Updated By",
-        "width": "w-xs-6",
-        "value_reference": {
-          "reference_value": "admin@catalogit.app",
-          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
-        },
-        "order": 12
-      },
-      "hasUpdateDate": {
-        "label": "Update Date",
-        "width": "w-xs-6",
-        "value_date": "2023-10-31T00:32:21.403Z",
-        "order": 13
+        "order": 5
       }
     },
     "hasCatalogNumber_sorter": "_________p0000001043",
-    "prev_id": "9b49d250-9b1f-11eb-b3ef-53e7205a00b4",
-    "next_id": "8c14b1b0-9b1f-11eb-b3ef-53e7205a00b4"
+    "prev_id": "f8fe1f60-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "f942c980-9b1e-11eb-b3ef-53e7205a00b4"
   }
 }

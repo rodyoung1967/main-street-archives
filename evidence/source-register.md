@@ -1869,7 +1869,7 @@ Catalog ID: `P-1043`.
 Date: **1930–1939** per CCHS Date made metadata; exact exposure year unresolved.
 Repository image: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`.
 Capture: `evidence/source-captures/cchs-p1043-1930s-main-6th-looking-south-business-roster-2026-09-05.md`.
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/child-in-front-of-building-1
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-streetcar-on-main-at-6th
 Other number: **Society Photo #168**.
 Related evidence/media/timeline: `E-211` / `IMG-0758` / `T-088`.
 Related block context: `B-001` 503 Main; `B-002` 505 Main; `B-003` Harding Building / Harding Drug context.
