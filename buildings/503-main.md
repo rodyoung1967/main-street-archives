@@ -226,3 +226,7 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) supplies a street-level view of t
 ## 1975 P-1293 aerial footprint comparison
 
 CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows the mapped 503 footprint ending materially sooner rearward/westward than adjacent 505. This is relative-footprint evidence only; it does not establish the legal boundary or when 505 became deeper.
+
+## CCHS P-4564 opposite-corner camera context
+
+CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`), cataloged **circa mid-1960s**, does **not** show the 503 facade. The project steward identifies the camera as at/near The Wheel/503 northwest corner of 5th/Main looking southeast. On that attributed orientation, the photograph records the Mobil station and L. H. Hagen Agency across the intersection on the southeast side. Use this image as camera/orientation and opposite-corner context, not as direct architectural evidence for 503.

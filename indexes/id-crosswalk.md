@@ -476,3 +476,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0749` CCHS `P-4565` | `S-220`, `E-200`, `T-081`, `BUS-004`, `BUS-005`, `BUS-007`, `BUS-023`, `BUS-092`, `BUS-093`, `BUS-094`, `B-001`, `B-002`, `B-003` | Circa-mid-1960s pre-fire Main Street business lineup; directly shows TAVERN/505 and multiple neighboring signs; visible 5th/Main blades conflict with catalog Main/McLoughlin wording. |
 
 | `IMG-0750` CCHS `P-1293` | `S-229`, `E-203`, `T-082`, `B-001`, `B-002`, `B-005`, `E-011`, `E-021`, `E-101`, `E-102` | CCHS-cataloged 1975 aerial; 505 visibly deeper rearward than 503; 501 absent; supplied title says 1981, catalog metadata says 1975. |
+
+| `IMG-0751` CCHS `P-4564` | `S-230`, `E-204`, `T-083`, `BUS-095`, `BUS-096`, `BUS-004`, `B-001` | Circa-mid-1960s Mobil/Hagen opposite-corner scene. Mobil and Hagen signage direct; project steward places camera at/near The Wheel/503 looking southeast. `BUS-004` / `B-001` are camera-position context only; 503/505 facades are not depicted. |

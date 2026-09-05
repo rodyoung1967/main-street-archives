@@ -1807,3 +1807,17 @@ Classification: **DOCUMENTED / DIRECT** for photographed later-state geometry an
 Confidence: **High to Very High** for relative 505-vs-503 rear depth and 501 absence in the mapped block; no exact measurement or construction date inferred.
 Related prior evidence: `E-011`, `E-021`, `E-101`, `E-102`.
 Related buildings: `B-001`, `B-002`, `B-005`.
+
+## E-204 — Circa-mid-1960s photograph documents southeast 5th/Main Mobil station and Hagen insurance agency
+Source: `S-230`
+Media: `IMG-0751`
+Type: Primary photographic evidence with institutional catalog metadata and attributed project-steward spatial testimony
+Claims:
+- Visual review directly shows **Mobil** branding and a service-station forecourt, together with **The L. H. HAGEN Agency** and **INSURANCE** signage.
+- CCHS `P-4564` describes the scene as circa mid-1960s and names a “Mobile Service Station,” “The L. H. Hagen Agency Insurance,” and “Publishers.”
+- The project steward identifies the camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast. Combined with independently established `BUS-004` / `B-001` location evidence, this strongly supports the Mobil station as the southeast-corner opposite-side context.
+- The photograph does not depict the 503 or 505 storefront facades and does not establish exact numbered addresses for the station or Hagen agency.
+Classification: **DOCUMENTED / DIRECT** for visible signs, photographed use, catalog wording, and the fact of the attributed steward statement; **STRONG CROSS-SOURCE INFERENCE** for the precise camera/opposite-corner spatial placement; exact exposure date and street numbers unresolved.
+Confidence: **Very High** for P-4564 identity and visible Mobil/Hagen signage; **High** for the southeast-corner orientation when combined with steward testimony and established Wheel/503 location.
+Related businesses: `BUS-095`, `BUS-096`, `BUS-004` (camera-position context only).
+Related buildings: `B-001` (camera-position context only).

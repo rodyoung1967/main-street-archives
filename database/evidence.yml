@@ -3095,3 +3095,19 @@ evidence:
     related_buildings: [B-001, B-002, B-005]
     related_media: [IMG-0750]
     repository_file: evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md
+
+  - id: E-204
+    name: "Circa-mid-1960s photograph documents southeast 5th/Main Mobil station and Hagen insurance agency"
+    type: Primary photographic evidence with institutional catalog metadata and attributed project-steward spatial testimony
+    classification: DOCUMENTED / DIRECT
+    claims:
+      - "Photograph directly shows Mobil branding, service-station use, The L. H. HAGEN Agency, and INSURANCE signage."
+      - "CCHS P-4564 describes the scene as circa mid-1960s and names a Mobile Service Station, The L. H. Hagen Agency Insurance, and Publishers."
+      - "Project steward identifies the camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast; combined with established Wheel/503 location evidence, this strongly supports the station as southeast-corner opposite-side context."
+      - "The photograph does not depict the 503 or 505 storefront facades and does not establish exact opposite-side street numbers."
+    confidence: "Very High for P-4564 identity and visible Mobil/Hagen signage; High for southeast-corner orientation with attributed steward testimony and established Wheel/503 location."
+    related_sources: [S-230]
+    related_businesses: [BUS-095, BUS-096, BUS-004]
+    related_buildings: [B-001]
+    related_media: [IMG-0751]
+    repository_file: evidence/source-captures/cchs-p4564-mid-1960s-mobil-hagen-southeast-5th-main-2026-09-05.md

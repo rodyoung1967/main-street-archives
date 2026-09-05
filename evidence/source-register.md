@@ -1776,3 +1776,15 @@ Capture: `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-50
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1981-aerial-view
 Related evidence/media/timeline: `E-203` / `IMG-0750` / `T-082`.
 Notes: Target-block review directly shows 505 extending farther rearward than 503 and confirms continued absence of the former 501 corner structure. It does not date the 505 rear-depth change or prove the 1940 addition hypothesis.
+
+## S-230 — CCHS P-4564 — circa-mid-1960s Mobil station and L. H. Hagen Agency at 5th/Main
+Type: Primary historic photograph with CCHS institutional catalog metadata and attributed project-steward camera-orientation testimony; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-4564`.
+Date: **circa mid-1960s** per CCHS description; exact exposure date unresolved.
+Repository image: `media/photos/main-street/IMG-0751_circa-mid-1960s-mobil-hagen-southeast-5th-main-cchs-p4564.jpg`.
+Capture: `evidence/source-captures/cchs-p4564-mid-1960s-mobil-hagen-southeast-5th-main-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-blvd
+Related evidence/media/timeline: `E-204` / `IMG-0751` / `T-083`.
+Related businesses: `BUS-095`, `BUS-096`, plus `BUS-004` only as camera-position context.
+Notes: Image directly shows Mobil service-station branding and The L. H. Hagen Agency / Insurance signage. Project steward identifies the camera at/near The Wheel/503 northwest corner looking southeast; the target 503/505 facades are not visible.

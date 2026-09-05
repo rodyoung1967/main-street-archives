@@ -521,3 +521,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Recorded this as a by-1975 later-state endpoint for the unresolved 505 rear-depth chronology; did **not** convert it into proof of a 1940 addition.
 - Preserved the metadata conflict: supplied title/filename says **1981**, while the CCHS Date made field/description says **1975**.
 - 501 absence is corroborative only because `E-021` already brackets removal to 1936–1944.
+
+### 2026-09-05 — CCHS P-4564 Mobil/Hagen southeast-corner photograph
+- Integrated project-steward supplied image as `IMG-0751` / `S-230` / `E-204` / `T-083`.
+- Exact CCHS object `P-4564` recovered and matched to the supplied title; catalog describes a circa-mid-1960s “Mobile Service Station,” “The L. H. Hagen Agency Insurance,” and “Publishers.”
+- Direct visual review reads **Mobil**, **The L. H. HAGEN Agency**, and **INSURANCE**.
+- Preserved steward orientation: camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast. This is attributed testimony; the photograph itself does not show the 503/505 facades or an exact 503 street number.
+- Added business records `BUS-095` and `BUS-096` with exact street numbers/operators left unresolved.

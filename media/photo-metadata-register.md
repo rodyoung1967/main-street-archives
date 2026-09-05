@@ -1532,3 +1532,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Visual finding: in the established target-block mapping, **505 extends farther rearward than 503**, while the separate former **501** corner structure is absent.
 - Interpretation limit: confirms the later-state geometry by 1975; does not date a 505 addition, prove a 1940 construction event, establish legal boundaries, or alter the already-established 1936–1944 501 removal bracket.
 - Review: `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md`
+
+## IMG-0751 — CCHS P-4564, circa-mid-1960s Mobil/Hagen southeast-corner scene
+- Type: Historic street-level intersection/commercial photograph
+- Date: **circa mid-1960s** per CCHS catalog description; exact exposure date unresolved
+- CCHS catalog: `P-4564`
+- CCHS title: **Oregon City 1960's - Street Scene - Corner of Main and McLoughlin Blvd**
+- Repository file: `media/photos/main-street/IMG-0751_circa-mid-1960s-mobil-hagen-southeast-5th-main-cchs-p4564.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1921**; 503,109 bytes; SHA-256 `17acdce8916a14db00e90e90df871a9faae62304a743078cfb8a8142bc315d69`
+- Steward original: `Oregon City 1960's - Street Scene - Corner of Main and McLoughlin Blvd.jpg`; 2048×1639; 599,969 bytes; SHA-256 `45ac666a169bd62c7a689dee7bb01d1fdbae2862609bedb96be815e6b0b24880`
+- Source/Evidence/Timeline: `S-230` / `E-204` / `T-083`
+- Related businesses: `BUS-095` Mobil Service Station; `BUS-096` The L. H. Hagen Agency; `BUS-004` The Wheel only as camera-position context
+- Orientation: project steward identifies camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast; photographed Mobil station is opposite on southeast corner. The 503/505 facades are not visible.
+- Visual findings: Mobil pole/canopy branding, fuel pumps, L. H. Hagen Agency and Insurance signage, bluff, traffic signal, roadway/track geometry and background industrial structures.

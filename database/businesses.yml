@@ -1183,3 +1183,21 @@ businesses:
     related_evidence: [E-200]
     related_sources: [S-220]
     related_media: [IMG-0749]
+
+  - id: BUS-095
+    name: "Mobil Service Station — 5th/Main context"
+    repository_file: businesses/mobil-service-station-5th-main.md
+    address: "Southeast corner of 5th/Main by steward orientation; exact number unresolved"
+    status: "Documented in CCHS P-4564 circa-mid-1960s photograph; exact operator/legal entity and operating span unresolved"
+    related_evidence: [E-204]
+    related_sources: [S-230]
+    related_media: [IMG-0751]
+
+  - id: BUS-096
+    name: "The L. H. Hagen Agency"
+    repository_file: businesses/l-h-hagen-agency.md
+    address: "Adjacent to photographed Mobil station; exact number unresolved"
+    status: "Documented in CCHS P-4564 circa-mid-1960s photograph; proprietor identity and operating span unresolved"
+    related_evidence: [E-204]
+    related_sources: [S-230]
+    related_media: [IMG-0751]

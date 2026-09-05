@@ -846,3 +846,13 @@ timeline:
     related_sources: [S-229]
     related_evidence: [E-203]
     related_buildings: [B-001, B-002, B-005]
+
+  - id: T-083
+    date: "circa mid-1960s"
+    title: "Circa mid-1960s — opposite-corner Mobil and Hagen scene from The Wheel corner"
+    summary: "CCHS P-4564 directly shows Mobil service-station and L. H. Hagen Agency signage. Project steward places the camera at/near The Wheel/503 northwest corner looking southeast; target 503/505 facades are not visible."
+    confidence: "Very High for visible scene; High for attributed camera orientation; exact exposure date and street numbers unresolved."
+    related_sources: [S-230]
+    related_evidence: [E-204]
+    related_businesses: [BUS-095, BUS-096, BUS-004]
+    related_buildings: [B-001]

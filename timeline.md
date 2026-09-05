@@ -505,3 +505,7 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) shows the Main Street commercial 
 ## T-082 — 1975 — aerial shows deeper 505 rear footprint and no 501 structure
 
 CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), institutionally cataloged **1975**, provides an independent aerial control for the 5th/Main block. In the established address mapping, **505 Main extends materially farther rearward/westward than 503 Main**, while the separate former **501 Main** corner structure is absent. The 505 observation confirms the later-state depth asymmetry by 1975 but does not date the change or prove the `E-101` circa-1940 rear-addition hypothesis. The 501 observation corroborates but does not narrow the existing **1936–1944** removal bracket. The uploaded title/filename says “1981”; the CCHS 1975 date wording is controlling as catalog metadata and the discrepancy is preserved.
+
+## T-083 — Circa mid-1960s — opposite-corner Mobil and Hagen scene from The Wheel corner
+
+CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`) directly shows a **Mobil** service station and **The L. H. Hagen Agency / Insurance** in a scene cataloged **circa mid-1960s**. Project-steward orientation places the camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast, making the station the opposite southeast-corner context. The target 503/505 facades are not visible, and exact opposite-side street numbers remain unresolved.

@@ -202,3 +202,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence/timeline: `S-229` / `E-203` / `T-082`
 - CCHS: `P-1293`
 - Key value: independent high-quality aerial confirmation that 505 is deeper rearward than 503 by 1975 and that 501 remains absent; supplied “1981” title conflicts with CCHS 1975 date metadata and is preserved as such.
+
+### IMG-0751 — Circa-mid-1960s Mobil/Hagen southeast-corner scene
+- File: `media/photos/main-street/IMG-0751_circa-mid-1960s-mobil-hagen-southeast-5th-main-cchs-p4564.jpg`
+- Source/evidence: `S-230` / `E-204`
+- CCHS: `P-4564`
+- Key value: opposite-corner spatial context for 5th/Main; directly shows Mobil service station and L. H. Hagen Agency. Project steward places camera at/near The Wheel/503 looking southeast; 503/505 facades are not shown.
