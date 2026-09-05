@@ -95,6 +95,20 @@ Treat this only as evidence that Oregon City paid Pacific Directory Service for 
 
 The pagination also gives a useful manual callout: the missing December 1947 / January 1948 renewal material should lie **immediately before municipal page 474** if preserved in the same chronological minute-book sequence. Retrieve and visually inspect the pages immediately preceding 474 rather than relying on public full-text search.
 
+## March 1946 municipal pagination — new hard boundary
+
+Official Oregon City WebDrawer record:
+
+`https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723048/File/document`
+
+The recovered record begins with the close of the preceding matter and then starts the **6 March 1946 regular meeting** at municipal page **318**. This establishes a second useful chronological page boundary in the same municipal proceedings series.
+
+The record itself contains no recovered liquor/license wording and does not identify Edwin F. Farr, Alice Farr, Carl Harr or 505 Main in a license action. It does contain a **C. P. Farr** line in the March claims material, but that identity remains separate from Edwin F. Farr under repository policy and is not used as 505 evidence.
+
+Research consequence: for the **1946 license-year** search, the late-December-1945 / January-February-1946 Commission material should be sought in the minute-book pages **immediately preceding municipal page 318**, subject to visual confirmation that the chronology is continuous across the missing segment. This is materially narrower than an open-ended December-through-March text search.
+
+Screenshot attempts against the official PDF returned a cache miss in the current environment. The p.318/date locator is therefore preserved as **PRIMARY MUNICIPAL OCR/TEXT ONLY** pending scan certification.
+
 ## Target annual lists — current recovery result
 
 The search used the later municipal renewal vocabulary as well as the late-1948 approval wording, including variants of:
@@ -115,6 +129,8 @@ Result in this pass: **annual Oregon City applicant list not recovered**.
 ### 1946 license year
 
 Target window: **December 1945 through March 1946**, plus in-year transfer/application checks.
+
+New locator: the **6 March 1946** regular meeting starts at municipal **p.318** in WebDrawer record `4723048`; retrieve and inspect the immediately preceding municipal pages for the annual renewal batch and any smaller actions.
 
 Result in this pass: **annual Oregon City applicant list not recovered**.
 
@@ -177,11 +193,12 @@ Accordingly, the exact **Farr's Pool Hall → Harr's Recreation Center** transit
 
 1. Use the Oregon City Council/Commission proceedings index for **December 1944–March 1948**, then inspect the underlying minute images for every liquor/beer/license/renewal/endorsement/transfer hit.
 2. For the **December 1947–January 1948** cycle, request or inspect the minute-book pages **immediately preceding municipal page 474**; capture the full meeting header and entire applicant universe.
-3. Reconstruct the analogous late-year **1945, 1946 and 1947** annual lists with their complete applicant universes and exact municipal page locators.
-4. Search the same minute windows for smaller in-year lists and individual transfers, because the 5 May 1948 two-applicant endorsement proves this procedural form existed.
-5. Recover the **opening page of the late-1948 meeting** containing municipal pages 537–538 so the exact date can replace the current interval dating.
-6. Obtain the actual **1947–48 Clackamas County Directory** and inspect the Oregon City section using the fixed target set above.
-7. Preserve applicant/licensee, trade name, premises, license class, action/date, transfer/change wording and record/page for every recovered municipal list.
+3. For the **December 1945–February 1946** cycle, request or inspect the minute-book pages **immediately preceding municipal page 318**; capture the full meeting header and entire applicant universe.
+4. Reconstruct the analogous late-year **1945 and 1947** annual lists and establish equivalent hard page boundaries where possible.
+5. Search the same minute windows for smaller in-year lists and individual transfers, because the 5 May 1948 two-applicant endorsement proves this procedural form existed.
+6. Recover the **opening page of the late-1948 meeting** containing municipal pages 537–538 so the exact date can replace the current interval dating.
+7. Obtain the actual **1947–48 Clackamas County Directory** and inspect the Oregon City section using the fixed target set above.
+8. Preserve applicant/licensee, trade name, premises, license class, action/date, transfer/change wording and record/page for every recovered municipal list.
 
 ## Validation / environment note
 
