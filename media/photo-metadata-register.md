@@ -1587,3 +1587,18 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Source/Evidence/Timeline: `S-233` / `E-207` / `T-086`
 - Related prior Post Office record: `S-207` / `E-187` / `IMG-0736`
 - Key value: intact pre-demolition state of the 1933 Fifth/Main Post Office; supplied date remains tentative.
+
+## IMG-0755 — CCHS 2008.008.049.057, Oregon City Bank of Commerce exterior, 1891
+- Type: Historic commercial-building exterior photograph
+- CCHS catalog: `2008.008.049.057`
+- CCHS title: **Oregon City Bank of Commerce 1891 - Oregon City**
+- CCHS date: **1891**
+- Repository file: `media/photos/early-main-street/IMG-0755_1891-oregon-city-bank-of-commerce-exterior-512-main-cchs-2008-008-049-057.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1726**; 674,281 bytes; SHA-256 `9cb2745bc830456506ef297db4bc6e5895a16f9283b5f53fa7df4508b59a15a5`
+- Steward original: `Oregon City Bank of Commerce 1891 - Oregon City.jpg`; 2048×1472; 776,187 bytes; SHA-256 `070287adf65b6f19187c4a2fbb1b65610b641ea57ce03af2e0e32965e352c359`
+- Source/evidence: `S-234` / `E-208`
+- Other identifiers: **Lynch-Criteser 057**; **Latourette Family #1**
+- Direct visual text: **COMMERCIAL BANK**; neighboring **SHARPLES**; enlarged neighboring window supports **WILSON & COOKE / HARDWARE**; left/rear **ROOMS & BOARD**.
+- Limits: no 512 number is image-visible. The 512 Main location and later demolition/renumbering, stone-remnant, and moved-rooming-house statements are CCHS/JAH catalog annotations. Do not infer a modern neighboring address from the partial right-hand storefront.
+- Related image: `IMG-0741` / `S-212` / `E-192`, CCHS 1890 Bank of Commerce interior.

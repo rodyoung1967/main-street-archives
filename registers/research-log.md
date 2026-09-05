@@ -552,3 +552,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved the question mark on the mid-1960s attribution; no exact demolition-date inference was made.
 - **Repository-image recovery:** the prior staged derivative could not be decoded by Pillow. The exact CCHS P-4562 CatalogIt object was therefore used to recover a valid public derivative; the steward original filename/dimensions/bytes/SHA-256 remain preserved in metadata.
 - This integration does not alter annual research-status certifications.
+
+### 2026-09-05 — CCHS 2008.008.049.057 Bank of Commerce exterior integrated
+- Checked current `main`; exact object `2008.008.049.057` was not already registered.
+- Preserved the largest public derivative from the exact CCHS record as `IMG-0755` and tracked the steward upload separately by filename, dimensions, bytes, and SHA-256.
+- Added `S-234` / `E-208` and synchronized source/evidence/media/crosswalk/inventory records.
+- Direct visual review reads **COMMERCIAL BANK** on the facade; the partial neighboring storefront carries **SHARPLES** signage and enlarged review supports **WILSON & COOKE / HARDWARE** window lettering.
+- Preserved CCHS/JAH later annotations for 512 Main, demolition/renumbering, northwest-corner stone remnants, and the moved Thomas Charman house/rooming house without upgrading them to image-visible or independently verified facts.
+- Linked the closely related 1890 interior record `S-212` / `E-192` / `IMG-0741`.
+- No 503/505 occupancy, title, or building-continuity claim was inferred from this even-side Main Street control photograph.

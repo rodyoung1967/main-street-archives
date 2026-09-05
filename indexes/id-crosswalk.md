@@ -484,3 +484,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0753` CCHS `P-1311` | `S-232`, `E-206`, `T-085`, `BUS-004`, `B-001`, `BUS-005`, `B-002` | 1955–1965 bluff-at-4th view; enlarged review supports The Wheel on 503 and 505 Tavern signage on adjacent 505; exact exposure year unresolved. |
 
 | `IMG-0754` / `S-233` / `E-207` / CCHS `P-4562` | `media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg`; `evidence/source-captures/cchs-p4562-mid-1960s-post-office-rear-5th-main-2026-09-05.md` | Supplied CCHS metadata identifies intact U.S. Post Office rear view at Fifth/Main, related `U-1426.005109d`; cross-check `E-102` and demolition image `S-207` / `E-187` / `IMG-0736`. “Circa mid-1960s?” remains tentative. |
+
+## S-234 / E-208 / IMG-0755 — CCHS 2008.008.049.057 Bank of Commerce exterior
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-234` / `E-208` / `IMG-0755` | `S-212` / `E-192` / `IMG-0741` related interior | 1891 exterior: **COMMERCIAL BANK** directly visible; CCHS catalogs 512 Main. Later demolition/renumbering, stone-remnant, and moved-rooming-house history retained as attributed catalog annotation. |

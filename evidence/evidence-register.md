@@ -1874,3 +1874,17 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for visible condition and supplied metadata; **STRONG CROSS-SOURCE INFERENCE** for same-building chronology; **PROBABLE / TENTATIVE** for the mid-1960s date.
 Confidence: Very High for the visible intact state; High for Post Office/Fifth-Main identification as supplied institutional metadata plus independent map context; Moderate for circa-mid-1960s dating because the supplied metadata includes a question mark.
 Related evidence: `E-102`, `E-187`.
+
+## E-208 — CCHS 1891 exterior documents Commercial Bank facade cataloged at 512 Main
+Source: `S-234`
+Media: `IMG-0755`
+Type: Primary photographic evidence with institutional catalog metadata
+Claims:
+- CCHS object `2008.008.049.057` is dated **1891** and titled **Oregon City Bank of Commerce 1891 - Oregon City**.
+- **COMMERCIAL BANK** is directly visible on the stone facade.
+- CCHS catalogs the Oregon City Bank of Commerce / First National at **512 Main Street**.
+- CCHS later annotation says the bank was demolished, the structure to the right was renumbered, stone remnants remain at the northwest corner, and a former Thomas Charman house/rooming house was moved back from Main Street for the bank.
+- The right-hand neighboring storefront visibly carries **SHARPLES** signage; enlarged review supports **WILSON & COOKE / HARDWARE** window lettering, but no modern number is assigned from this image.
+- The photograph is a contextual even-side Main Street control and does not establish 503/505 occupancy or building continuity.
+Classification: **DOCUMENTED / DIRECT** for the CCHS object/date and image-visible facade/signage; **institutional catalog annotation** for 512 Main, demolition/renumbering, stone-remnant, and moved-rooming-house history.
+Confidence: **Very High** for object identity, catalog date, and visible COMMERCIAL BANK wording; **High as attributed catalog metadata** for the later JAH annotations, pending independent primary-record corroboration.

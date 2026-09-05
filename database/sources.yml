@@ -1329,3 +1329,9 @@ sources:
     notes: "Steward-supplied metadata identifies P-4562 as U.S. Post Office rear view at Fifth/Main, related U-1426.005109d. Repository binary is a valid public derivative recovered from the exact CCHS P-4562 object; steward-original provenance is preserved separately."
     related_evidence: [E-207]
     related_media: [IMG-0754]
+
+  - id: S-234
+    name: "CCHS 2008.008.049.057, Oregon City Bank of Commerce exterior, 1891"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-bank-of-commerce-1891-oregon-city"
+    repository_file: "media/photos/early-main-street/IMG-0755_1891-oregon-city-bank-of-commerce-exterior-512-main-cchs-2008-008-049-057.jpg"
+    notes: "Primary CCHS photograph dated 1891. COMMERCIAL BANK is directly visible; CCHS catalogs the bank at 512 Main and supplies later JAH demolition/renumbering, stone-remnant, and moved-rooming-house annotations. Related interior: S-212/E-192/IMG-0741."

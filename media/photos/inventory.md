@@ -227,3 +227,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - CCHS: `P-4562`; supplied description references `U-1426.005109d`
 - Key value: photographs the 1933 Fifth/Main Post Office intact before the separately preserved demolition view (`IMG-0736`); exact exposure and demolition dates remain unresolved.
 - Repository binary is a public derivative from the exact CCHS P-4562 object; exact steward-original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.
+
+### IMG-0755 — CCHS 2008.008.049.057 Bank of Commerce exterior, 1891
+- File: `media/photos/early-main-street/IMG-0755_1891-oregon-city-bank-of-commerce-exterior-512-main-cchs-2008-008-049-057.jpg`
+- Direct visual: **COMMERCIAL BANK** facade; partial neighboring hardware storefront; bluff-side context.
+- Institutional metadata: Oregon City Bank of Commerce / First National, **512 Main**, 1891; Lynch-Criteser 057 / Latourette Family #1.
+- Source/evidence: `S-234` / `E-208`.
+- Limit: 512 Main and later demolition/renumbering / moved-house history are catalog annotations; no 512 number is visible.
