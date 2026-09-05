@@ -37,6 +37,15 @@ jobs:
             exit 0
           fi
           git commit -m 'Integrate CCHS 1891 Bank of Commerce exterior'
-          git pull --rebase origin main
-          python3 scripts/validate_archive.py
-          git push origin HEAD:main
+          for attempt in 1 2 3 4 5; do
+            echo "Publish attempt ${attempt}"
+            git fetch origin main
+            git rebase origin/main
+            python3 scripts/validate_archive.py
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          echo 'Failed to publish after 5 attempts.' >&2
+          exit 1
