@@ -47,3 +47,7 @@ The steward also described the building as being "at the end of 4th street". Tha
 ## Historical significance and limit
 
 This photograph is valuable fixed-landmark evidence for the south side of Fifth Street and for understanding the immediate setting opposite 501. CCHS's construction-year wording independently agrees with the Sanborn `BUILT 1933` notation. The image should **not** be assigned a demolition year until a dated demolition, redevelopment, city, newspaper, or photographic record establishes when the building was removed.
+
+## 5 September 2026 intact-state cross-check — CCHS P-4562
+
+New `IMG-0754` / `S-233` / `E-207` preserves CCHS `P-4562`, supplied as **U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s?** and related number `U-1426.005109d`. The photograph shows the Post Office intact, before the demolition state in `IMG-0736`. Because the P-4562 date itself is tentative, this narrows the chronology only **probabilistically**, not to a firm demolition bracket. Exact demolition date remains unresolved.

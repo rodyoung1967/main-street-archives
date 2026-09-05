@@ -220,3 +220,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-232` / `E-206`
 - CCHS: `P-1311`
 - Key value: same-frame elevated view of The Wheel at 503 and 505 Tavern signage at 505; exact exposure year within 1955–1965 unresolved.
+
+### IMG-0754 — Circa-mid-1960s? U.S. Post Office rear view at Fifth/Main
+- File: `media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg`
+- Source/evidence/timeline: `S-233` / `E-207` / `T-086`
+- CCHS: `P-4562`; supplied description references `U-1426.005109d`
+- Key value: photographs the 1933 Fifth/Main Post Office intact before the separately preserved demolition view (`IMG-0736`); exact exposure and demolition dates remain unresolved.
+- Repository binary is a public derivative from the exact CCHS P-4562 object; exact steward-original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.

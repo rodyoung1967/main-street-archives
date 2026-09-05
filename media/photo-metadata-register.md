@@ -1573,3 +1573,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Source/Evidence/Timeline: `S-232` / `E-206` / `T-085`
 - Related buildings/businesses: `B-001` / `BUS-004` (503 / The Wheel); `B-002` / `BUS-005` (505 / 505 Tavern)
 - Visual findings: enlarged review supports The Wheel wording/signage on 503 and 505 Tavern / Tavern 505 signage on adjacent 505 in the same frame.
+
+## IMG-0754 — CCHS P-4562, U.S. Post Office rear view at Fifth/Main
+- Type: Historic street-level institutional-building photograph
+- Date: **circa mid-1960s?** per supplied CCHS description; exact exposure date unresolved
+- CCHS catalog: `P-4562`; description also gives `U-1426.005109d`
+- CCHS title: **Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's**
+- Repository file: `media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg`
+- Status: `committed`
+- Repository derivative: **2400 × 1921**; 531,979 bytes; SHA-256 `aa0e7ce4106998fb835d3b42d852157bbe9fe8c703cae7162abff66b2d0e42f9`
+- Steward original: `Oregon City 1960's - Street Scene - Southwest Corner of Main and McLoughlin - Mid 1960's.jpg`; **2048 × 1639**; 615,961 bytes; SHA-256 `979b74ea9aa53844a7e207aa3d8f8132c7b0a8da428a5fe5205f3dc8ae91a56f`
+- Derivative note: repository binary is the largest valid public CCHS derivative recovered from the exact P-4562 CatalogIt object; the steward original is separately tracked by supplied filename/dimensions/bytes/SHA-256.
+- Source/Evidence/Timeline: `S-233` / `E-207` / `T-086`
+- Related prior Post Office record: `S-207` / `E-187` / `IMG-0736`
+- Key value: intact pre-demolition state of the 1933 Fifth/Main Post Office; supplied date remains tentative.

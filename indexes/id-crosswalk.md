@@ -482,3 +482,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0752` CCHS `P-4563` | `S-231`, `E-205`, `T-084`, `BUS-097`, `BUS-098` | Circa-mid-1960s northeast 5th/Main neighboring-corner scene; American Cleaners and Outdoor Store documented; target 503/505 facades not shown. |
 
 | `IMG-0753` CCHS `P-1311` | `S-232`, `E-206`, `T-085`, `BUS-004`, `B-001`, `BUS-005`, `B-002` | 1955–1965 bluff-at-4th view; enlarged review supports The Wheel on 503 and 505 Tavern signage on adjacent 505; exact exposure year unresolved. |
+
+| `IMG-0754` / `S-233` / `E-207` / CCHS `P-4562` | `media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg`; `evidence/source-captures/cchs-p4562-mid-1960s-post-office-rear-5th-main-2026-09-05.md` | Supplied CCHS metadata identifies intact U.S. Post Office rear view at Fifth/Main, related `U-1426.005109d`; cross-check `E-102` and demolition image `S-207` / `E-187` / `IMG-0736`. “Circa mid-1960s?” remains tentative. |

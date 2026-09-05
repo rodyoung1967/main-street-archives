@@ -544,3 +544,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved supplied CCHS metadata: title **Oregon City 1955 - from the Bluff at 4th Street Looking Northwest**, object `P-1311`, description naming the West Linn Inn, and Date made **1955–1965**.
 - Enlarged visual review supports project-steward readings of **The Wheel** on the 503 frontage and **505 Tavern / Tavern 505** signage at adjacent 505.
 - Preserved the date limit: the title's “1955” is not promoted to an exact exposure date and the image alone does not backdate 505 Tavern to 1955.
+
+### 2026-09-05 — CCHS P-4562 Post Office rear-view photograph
+- Integrated the project-steward supplied photograph as `IMG-0754` / `S-233` / `E-207` / `T-086`.
+- Supplied metadata: `P-4562`, **U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s?**, related number `U-1426.005109d`.
+- Direct visual review shows the institutional building intact; cross-source comparison links it to the 1933 Fifth/Main Post Office in `E-102` and the undated demolition view `E-187` / `IMG-0736`.
+- Preserved the question mark on the mid-1960s attribution; no exact demolition-date inference was made.
+- **Repository-image recovery:** the prior staged derivative could not be decoded by Pillow. The exact CCHS P-4562 CatalogIt object was therefore used to recover a valid public derivative; the steward original filename/dimensions/bytes/SHA-256 remain preserved in metadata.
+- This integration does not alter annual research-status certifications.

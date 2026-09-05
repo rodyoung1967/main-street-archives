@@ -521,3 +521,7 @@ Related businesses: `BUS-097`, `BUS-098`.
 CCHS P-1311, cataloged 1955-1965, shows the 5th/Main target frontage from the bluff at 4th Street. Project-steward visual identification, supported by direct enlarged review, reads The Wheel on the 503 frontage and 505 Tavern signage on the adjacent 505 frontage. The broad catalog date range does not establish a single exposure year.
 
 Related source/evidence/media: `S-232` / `E-206` / `IMG-0753`. Related businesses/buildings: `BUS-004` / `B-001`; `BUS-005` / `B-002`.
+
+## T-086 — Circa mid-1960s? — U.S. Post Office still intact at Fifth/Main
+
+CCHS `P-4562` (`S-233` / `E-207` / `IMG-0754`), from project-steward supplied metadata, identifies an **intact rear view of the U.S. Post Office at Fifth and Main**. Existing map evidence independently identifies the building as the **1933 Post Office** (`E-102`), while `IMG-0736` / `E-187` shows it later during demolition. The supplied **“circa mid-1960s?”** date is tentative, so this is not a firm demolition bracket; exact exposure and demolition dates remain unresolved.

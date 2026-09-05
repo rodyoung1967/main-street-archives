@@ -3146,3 +3146,16 @@ evidence:
     related_businesses:
       - BUS-004
       - BUS-005
+
+  - id: E-207
+    name: "Circa-mid-1960s photograph shows the Fifth/Main U.S. Post Office intact before demolition"
+    type: Primary photographic evidence plus supplied institutional metadata
+    claims:
+      - "Photograph directly shows the institutional building intact."
+      - "Supplied CCHS metadata identifies P-4562 as U.S. Post Office rear view at Fifth/Main and references U-1426.005109d."
+      - "Existing E-102 identifies the Fifth/Main Post Office as built 1933; E-187 preserves a later demolition-state photograph."
+      - "The supplied circa mid-1960s? date is tentative and does not establish an exact demolition date."
+    confidence: "Very High for visible intact state; High for supplied Post Office/location identification with independent map context; Moderate for tentative mid-1960s date."
+    related_sources: [S-233]
+    related_media: [IMG-0754]
+    repository_file: "evidence/source-captures/cchs-p4562-mid-1960s-post-office-rear-5th-main-2026-09-05.md"

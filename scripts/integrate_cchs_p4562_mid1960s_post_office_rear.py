@@ -13,10 +13,10 @@ ORIGINAL = {
     "sha256": "979b74ea9aa53844a7e207aa3d8f8132c7b0a8da428a5fe5205f3dc8ae91a56f",
 }
 DERIVATIVE = {
-    "width": 300,
-    "height": 240,
-    "bytes": 7880,
-    "sha256": "3a0a443831fe18e9f6022d6d620810e57ca2902e73df8cf6ac4fccad7b145782",
+    "width": 2400,
+    "height": 1921,
+    "bytes": 531979,
+    "sha256": "aa0e7ce4106998fb835d3b42d852157bbe9fe8c703cae7162abff66b2d0e42f9",
 }
 TITLE = "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's"
 DESCRIPTION = "U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s? U-1426.005109d"
@@ -80,7 +80,7 @@ Archive IDs: source `{SID}`; evidence `{EID}`; media `{MID}`; timeline `{TID}`.
 - Other number embedded in description: **{OTHER_NO}**
 - Date wording: **circa mid-1960s?** — the question mark is preserved. This is a tentative catalog/date attribution, not an exact exposure date.
 
-No live online catalog lookup or replacement photograph was used in this integration. The metadata above is preserved exactly as supplied by the project steward.
+The exact live CCHS CatalogIt object was retrieved by catalog number to preserve a valid repository image derivative. The steward-supplied metadata and original-file provenance are preserved separately.
 
 ## Project-steward original
 
@@ -91,13 +91,13 @@ No live online catalog lookup or replacement photograph was used in this integra
 
 ## Repository binary
 
-Because the repository write connector does not accept the steward's local binary directly, the committed repository copy is a **locally generated derivative of the supplied image**, not an online replacement:
+The committed repository copy is the **largest public image derivative recovered from the exact CCHS P-4562 object**. The steward-supplied original remains separately tracked by filename, dimensions, bytes and SHA-256:
 
 - File: `{IMAGE.as_posix()}`
 - Dimensions: **{DERIVATIVE['width']} × {DERIVATIVE['height']}**
 - Bytes: **{DERIVATIVE['bytes']:,}**
 - SHA-256: `{DERIVATIVE['sha256']}`
-- Derivation: resized from the steward upload with local image processing; no new historical content or online image substituted.
+- Public derivative source: https://d8e7jbdw4fu0e.cloudfront.net/4813/f9d16500-d1cb-11ee-9dd0-db3630b944dc-vdUfFTx.lg@2x.jpg (CatalogIt derivative key `public_highres_2x`).
 
 The exact original-file metadata above preserves the steward copy for audit and future exact-file reconciliation.
 
@@ -141,7 +141,7 @@ Repository image: `{IMAGE.as_posix()}`.
 Capture: `{CAP}`.
 Related evidence/media/timeline: `{EID}` / `{MID}` / `{TID}`.
 Related prior Post Office evidence: `E-102`, `S-207` / `E-187` / `IMG-0736`.
-Notes: Supplied metadata identifies the intact building as the U.S. Post Office rear view at Fifth/Main. No live online catalog lookup or replacement image was used; repository binary is a locally generated derivative of the steward upload.""")
+Notes: Supplied metadata identifies the intact building as the U.S. Post Office rear view at Fifth/Main. The repository binary is a public CCHS derivative recovered from the exact P-4562 object; the steward original is separately tracked by its supplied file metadata.""")
 
 append_once("evidence/evidence-register.md", f"## {EID} —", f"""## {EID} — {EVIDENCE_NAME}
 Source: `{SID}`
@@ -165,7 +165,7 @@ append_once("media/photo-metadata-register.md", f"## {MID} —", f"""## {MID} �
 - Status: `committed`
 - Repository derivative: **{DERIVATIVE['width']} × {DERIVATIVE['height']}**; {DERIVATIVE['bytes']:,} bytes; SHA-256 `{DERIVATIVE['sha256']}`
 - Steward original: `{ORIGINAL['filename']}`; **{ORIGINAL['width']} × {ORIGINAL['height']}**; {ORIGINAL['bytes']:,} bytes; SHA-256 `{ORIGINAL['sha256']}`
-- Derivative note: repository binary was generated locally from the steward upload because the repository connector could not directly accept the local binary; no online replacement photo was fetched.
+- Derivative note: repository binary is the largest valid public CCHS derivative recovered from the exact P-4562 CatalogIt object; the steward original is separately tracked by supplied filename/dimensions/bytes/SHA-256.
 - Source/Evidence/Timeline: `{SID}` / `{EID}` / `{TID}`
 - Related prior Post Office record: `S-207` / `E-187` / `IMG-0736`
 - Key value: intact pre-demolition state of the 1933 Fifth/Main Post Office; supplied date remains tentative.""")
@@ -175,7 +175,7 @@ append_once("media/photos/inventory.md", f"### {MID} —", f"""### {MID} — Cir
 - Source/evidence/timeline: `{SID}` / `{EID}` / `{TID}`
 - CCHS: `{TARGET}`; supplied description references `{OTHER_NO}`
 - Key value: photographs the 1933 Fifth/Main Post Office intact before the separately preserved demolition view (`IMG-0736`); exact exposure and demolition dates remain unresolved.
-- Repository binary is a local derivative of the steward upload; exact original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.""")
+- Repository binary is a public derivative from the exact CCHS P-4562 object; exact steward-original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.""")
 
 append_once("indexes/id-crosswalk.md", f"`{MID}` / `{SID}` / `{EID}` / CCHS `{TARGET}`", f"""| `{MID}` / `{SID}` / `{EID}` / CCHS `{TARGET}` | `{IMAGE.as_posix()}`; `{CAP}` | Supplied CCHS metadata identifies intact U.S. Post Office rear view at Fifth/Main, related `{OTHER_NO}`; cross-check `E-102` and demolition image `S-207` / `E-187` / `IMG-0736`. “Circa mid-1960s?” remains tentative. |""")
 
@@ -188,7 +188,7 @@ append_once("registers/research-log.md", "CCHS P-4562 Post Office rear-view phot
 - Supplied metadata: `{TARGET}`, **U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s?**, related number `{OTHER_NO}`.
 - Direct visual review shows the institutional building intact; cross-source comparison links it to the 1933 Fifth/Main Post Office in `E-102` and the undated demolition view `E-187` / `IMG-0736`.
 - Preserved the question mark on the mid-1960s attribution; no exact demolition-date inference was made.
-- **Local-first handling:** no online replacement photograph was fetched. The repository binary is a locally generated 300×240 derivative of the steward upload, and the exact original filename/dimensions/bytes/SHA-256 are preserved in metadata.
+- **Repository-image recovery:** the prior staged derivative could not be decoded by Pillow. The exact CCHS P-4562 CatalogIt object was therefore used to recover a valid public derivative; the steward original filename/dimensions/bytes/SHA-256 remain preserved in metadata.
 - This integration does not alter annual research-status certifications.""")
 
 append_once(
@@ -201,10 +201,11 @@ New `{MID}` / `{SID}` / `{EID}` preserves CCHS `{TARGET}`, supplied as **U.S. Po
 
 append_once("database/sources.yml", f"  - id: {SID}", f"""  - id: {SID}
     name: "{SOURCE_NAME}"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-mid-1960s"
     type: Primary historic photograph with supplied CCHS metadata
     date: "circa mid-1960s?"
     repository_file: "{IMAGE.as_posix()}"
-    notes: "Steward-supplied metadata identifies P-4562 as U.S. Post Office rear view at Fifth/Main, related U-1426.005109d. Repository binary is a local derivative of steward upload; no online replacement photo fetched."
+    notes: "Steward-supplied metadata identifies P-4562 as U.S. Post Office rear view at Fifth/Main, related U-1426.005109d. Repository binary is a valid public derivative recovered from the exact CCHS P-4562 object; steward-original provenance is preserved separately."
     related_evidence: [{EID}]
     related_media: [{MID}]""")
 

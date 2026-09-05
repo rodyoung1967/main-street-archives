@@ -879,3 +879,11 @@ timeline:
     related_buildings:
       - B-001
       - B-002
+
+  - id: T-086
+    date: "circa mid-1960s?"
+    title: "Circa mid-1960s? — U.S. Post Office intact at Fifth/Main"
+    summary: "CCHS P-4562, from steward-supplied metadata, shows the Fifth/Main U.S. Post Office intact before the separately preserved demolition view; exact exposure and demolition dates remain unresolved."
+    confidence: "High for intact-state/location relationship; Moderate for tentative date."
+    related_sources: [S-233]
+    related_evidence: [E-207]

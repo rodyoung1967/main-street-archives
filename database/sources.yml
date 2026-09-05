@@ -1319,3 +1319,13 @@ sources:
     name: CCHS P-1311, bluff at 4th Street looking northwest
     url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1955-from-the-bluff-at-4th-street-looking-northwest
     notes: Primary CCHS photograph, cataloged 1955-1965. Enlarged review supports The Wheel signage at 503 Main and 505 Tavern signage at adjacent 505 Main in the same photographed state; exact exposure year remains unresolved and the image alone does not backdate the 505 Tavern name to 1955.
+
+  - id: S-233
+    name: "CCHS P-4562 — circa-mid-1960s rear view of the 1933 U.S. Post Office at Fifth/Main"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin-mid-1960s"
+    type: Primary historic photograph with supplied CCHS metadata
+    date: "circa mid-1960s?"
+    repository_file: "media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg"
+    notes: "Steward-supplied metadata identifies P-4562 as U.S. Post Office rear view at Fifth/Main, related U-1426.005109d. Repository binary is a valid public derivative recovered from the exact CCHS P-4562 object; steward-original provenance is preserved separately."
+    related_evidence: [E-207]
+    related_media: [IMG-0754]

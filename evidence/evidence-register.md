@@ -1861,3 +1861,16 @@ Classification: **DOCUMENTED / DIRECT** for the CCHS object/date range and visib
 Confidence: **Very High** for object identity, broad catalog date range and 503/505 sign identifications.
 Related buildings: `B-001`, `B-002`.
 Related businesses: `BUS-004`, `BUS-005`.
+
+## E-207 — Circa-mid-1960s photograph shows the Fifth/Main U.S. Post Office intact before demolition
+Source: `S-233`
+Media: `IMG-0754`
+Type: Primary photographic evidence plus supplied institutional metadata and cross-source structural chronology
+Claims:
+- The photograph directly shows an intact brick institutional building with gabled masonry elevation, tall windows, chimney and covered side/rear service area.
+- Supplied CCHS metadata identifies `P-4562` as **U.S. Post Office (rear view) (5th and Main Street)** and gives related number `U-1426.005109d`.
+- Existing `E-102` independently places the U.S. Post Office at Fifth/Main and dates the building to 1933; `E-187` preserves an undated demolition photograph of that Post Office.
+- The supplied “circa mid-1960s?” wording is tentative; this photograph does not establish an exact exposure or demolition date.
+Classification: **DOCUMENTED / DIRECT** for visible condition and supplied metadata; **STRONG CROSS-SOURCE INFERENCE** for same-building chronology; **PROBABLE / TENTATIVE** for the mid-1960s date.
+Confidence: Very High for the visible intact state; High for Post Office/Fifth-Main identification as supplied institutional metadata plus independent map context; Moderate for circa-mid-1960s dating because the supplied metadata includes a question mark.
+Related evidence: `E-102`, `E-187`.

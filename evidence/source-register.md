@@ -1812,3 +1812,14 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-206` / `IMG-0753` / `T-085`.
 Related buildings/businesses: `B-001` / `BUS-004`; `B-002` / `BUS-005`.
 Notes: Enlarged visual review supports the project-steward identification of The Wheel signage on 503 and 505 Tavern signage on adjacent 505. The broad catalog range cannot be collapsed to 1955.
+
+## S-233 — CCHS P-4562 — circa-mid-1960s rear view of the 1933 U.S. Post Office at Fifth/Main
+Type: Primary historic photograph with project-steward supplied CCHS metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society (per supplied metadata).
+Catalog ID: `P-4562`; related number `U-1426.005109d`.
+Date: **circa mid-1960s?** per supplied description; exact exposure date unresolved.
+Repository image: `media/photos/main-street/IMG-0754_circa-mid-1960s-us-post-office-rear-5th-main-cchs-p4562.jpg`.
+Capture: `evidence/source-captures/cchs-p4562-mid-1960s-post-office-rear-5th-main-2026-09-05.md`.
+Related evidence/media/timeline: `E-207` / `IMG-0754` / `T-086`.
+Related prior Post Office evidence: `E-102`, `S-207` / `E-187` / `IMG-0736`.
+Notes: Supplied metadata identifies the intact building as the U.S. Post Office rear view at Fifth/Main. The repository binary is a public CCHS derivative recovered from the exact P-4562 object; the steward original is separately tracked by its supplied file metadata.
