@@ -576,3 +576,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Project steward identifies the target storefront as **505 Main**. Enlarged review reads the principal sign as **probable `FARR'S`**; lower wording is likely pool-related but is not strong enough for a letter-perfect transcription.
 - Cross-source comparison with the existing official-secondary `S-036` / `E-033` identification of **Farr's Pool Hall at 505 Main** supports a **STRONG CROSS-SOURCE INFERENCE** that Farr's was operating there in the 1936 photographed state.
 - This creates a 1936 occupancy anchor but does **not** turn the Farrs' 1934 residence purchase into a pool-hall opening date and does not resolve the Farr-to-Harr transition.
+
+### 2026-09-05 — CCHS P-1043 1930s Main Street from Sixth
+- Integrated `P-1043` as `IMG-0758` / `S-237` / `E-211` / `T-088`.
+- Preserved CCHS Date made **1930–1939**, description **Main Street Looking Southwest from 6th Street**, Society Photo #168, and steward clarification that the view looks south from Sixth toward Fifth.
+- Direct sign roster records Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners, Hardware and additional partial signs.
+- Did **not** assign most signs to exact street numbers from perspective alone.
+- Did **not** merge the 1930s American Cleaners wording with later `BUS-097` solely by name.
+- Did **not** treat Rexall/Drugs as a direct Harding-name transcription; it is retained only as a probable cross-source alignment lead.
+- Did **not** make a new direct 503/505 occupancy claim from the distant frontage. `P-1128` remains the stronger 1936 Farr-at-505 anchor.

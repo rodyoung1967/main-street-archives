@@ -1918,3 +1918,20 @@ Related sources: `S-236`, `S-036`.
 Related evidence: `E-033`.
 Related business: `BUS-013`.
 Related building: `B-002`.
+
+## E-211 — 1930s P-1043 provides Sixth-to-Fifth Main Street business-sign and facade sequence
+Source: `S-237`
+Media: `IMG-0758`
+Type: Primary photographic streetscape evidence with institutional catalog metadata
+Claims:
+- CCHS `P-1043` is cataloged **Oregon City 1930s - Streetcar on Main at 6th**, Date made **1930–1939**, description **Main Street Looking Southwest from 6th Street**.
+- Project steward clarifies the view as looking south from Sixth toward Fifth.
+- Directly readable west-side signs include **OREGON CITY AUTO PARTS**, **FAIN'S MEN'S STORE**, **SANDWICH NOOK**, **REXALL**, **DRUGS**, **HARDWARE**, and smaller CAFE/HOTEL wording.
+- Directly readable east-side signs include **TOURIST HOTEL / FREE GARAGE TO TOURISTS**, **ALEXANDER'S MKT.**, and **AMERICAN CLEANERS**.
+- Partial/probable text includes **...MONDS CAFE**, a near-right **... SHOE SHOP**, and a painted **5-10-25 ... STORE** advertisement.
+- The Rexall/Drugs cluster is consistent with established Harding Drug context but Harding's name is not directly readable here.
+- The distant 503/505 frontage is not secure enough for a new direct occupancy claim; this source is an address-sequence/spatial control to be reconciled with directories and `P-1128`.
+Classification: **DOCUMENTED / DIRECT** for object/date range/orientation wording and clearly readable sign text; **PROBABLE / PARTIAL** for incomplete signs; **PROBABLE / CROSS-SOURCE ALIGNMENT LEAD** for Harding; **UNRESOLVED** for most exact street numbers and 503/505-specific signage.
+Confidence: **Very High** for the institutional object/date range and clear sign readings; lower where explicitly marked partial/probable.
+Related buildings: `B-001`, `B-002`, `B-003`.
+Related source control: `S-236` / `E-210` / `IMG-0757` (1936 P-1128 Farr-at-505 anchor).

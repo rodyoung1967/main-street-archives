@@ -1,0 +1,357 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1043",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1043&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/28a8afe0-76a1-11ee-bc74-3dd853f6747b",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/child-in-front-of-building-1",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 550,
+    "height": 850,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg",
+  "repository_image": {
+    "width": 550,
+    "height": 850,
+    "bytes": 58901,
+    "sha256": "a96a00bfc65c364b95078ee38ef186f53faf66c3f2b78ce8fa6eb3864999a92d"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1930s - Streetcar on Main at 6th(1).jpg",
+    "width": 2048,
+    "height": 1214,
+    "bytes": 617696,
+    "sha256": "870d294ee08012121c057d63b6f90112ff5305600c36a2f1895fa57738b65e08",
+    "orientation_note": "Project steward states the camera is looking south from 6th Street toward 5th Street."
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1930s - Streetcar on Main at 6th",
+    "entry_object_id": "P-1043",
+    "description": "Main Street Looking Southwest from 6th Street",
+    "date_made": "1930 - 1939",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper",
+    "location_of_negative": "Halon",
+    "other_number": "Society Photo #: 168"
+  },
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "28a8afe0-76a1-11ee-bc74-3dd853f6747b",
+    "account_id": "11808",
+    "account_slug": "history-fort-lauderdale",
+    "account_name": "History Fort Lauderdale",
+    "folder_ids": [
+      "120f36b0-a00d-11ee-b3d2-cf8012dd59c3"
+    ],
+    "folders": [
+      {
+        "id": "120f36b0-a00d-11ee-b3d2-cf8012dd59c3",
+        "name": "Postcards",
+        "slug": "postcards",
+        "description": "History Fort Lauderdale's Postcard Collection"
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "child-in-front-of-building-1",
+    "media": [
+      {
+        "uuid": "f2f672d0-7784-11ee-a4d3-a71c617cd984",
+        "content_type": "image/jpeg",
+        "description": "Origformat: Artifact; Resolution: 800 dpi",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/11808/image/f2f672d0-7784-11ee-a4d3-a71c617cd984-uUeGSbm.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/11808/image/f2f672d0-7784-11ee-a4d3-a71c617cd984-uUeGSdU.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.sm@1x.jpg",
+            "width": 550,
+            "height": 850
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.sm@2x.jpg",
+            "width": 550,
+            "height": 850
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@1x.jpg",
+            "width": 550,
+            "height": 850
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/11808/f2f672d0-7784-11ee-a4d3-a71c617cd984-vd31nxS.lg@2x.jpg",
+            "width": 550,
+            "height": 850
+          },
+          "dominant_color": "e8d8c8",
+          "complementary_color": "c8d8e8"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Child in front of building",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1043",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Unidentified child standing with hand over eyes in yard in front of building. Possibly a small wheelbarrow behind child.\r\n\r\nMight be same child as in P-1031.\r\n\r\nBlack and white photographic image with border. Real photo postcard. Postally unused.",
+        "order": 3
+      },
+      "hasCollection": {
+        "label": "Collection",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "FLHS Postcard Collection",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/catalogit/collectable#Collection"
+        },
+        "order": 4
+      },
+      "hasCatalogedBy": {
+        "label": "Cataloged By",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "MTE (Margo Edwards)",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
+        },
+        "order": 5
+      },
+      "hasLexicon": {
+        "label": "Lexicon",
+        "width": "w-xs-12",
+        "value": {
+          "hasNomenclature4": {
+            "label": "Nomenclature 4.0",
+            "width": "w-xs-12",
+            "value_hreference_list": [
+              {
+                "label": "Nomenclature Primary Object Term",
+                "width": "w-xs-12",
+                "value_reference": {
+                  "reference_value": "Postcard"
+                }
+              },
+              {
+                "label": "Nomenclature Sub-Class",
+                "width": "w-xs-12",
+                "value_reference": {
+                  "reference_value": "Writing Media"
+                }
+              },
+              {
+                "label": "Nomenclature Class",
+                "width": "w-xs-12",
+                "value_reference": {
+                  "reference_value": "Written Communication T&E"
+                }
+              },
+              {
+                "label": "Nomenclature Category",
+                "width": "w-xs-12",
+                "value_reference": {
+                  "reference_value": "Category 06: Tools & Equipment for Communication"
+                }
+              }
+            ],
+            "order": 1
+          }
+        },
+        "order": 6
+      },
+      "hasLocation": {
+        "label": "Location",
+        "width": "w-xs-12",
+        "value": {
+          "hasLocation": {
+            "label": "Location",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "Container",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Postcard Files, P-951 - P-1100",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
+                }
+              },
+              {
+                "label": "Room",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Hofmann Manuscript Room",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
+                }
+              },
+              {
+                "label": "Building",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Hoch Heritage Center",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#StorageLocation"
+                }
+              }
+            ],
+            "order": 1
+          },
+          "hasCategory": {
+            "label": "Category",
+            "width": "w-xs-6",
+            "value_reference": {
+              "reference_value": "Permanent",
+              "reference_type": "http://www.catalogit.me/rdf/ontologies/catalogit/collectable#LocationCategory"
+            },
+            "order": 2
+          },
+          "hasDateValue": {
+            "label": "Date",
+            "width": "w-xs-6",
+            "value_date": "2023-10-26T19:00:00.000Z",
+            "order": 3
+          }
+        },
+        "order": 7
+      },
+      "hasInventoried": {
+        "label": "Inventory",
+        "width": "w-xs-12",
+        "value": {
+          "hasInventoryBy": {
+            "label": "Inventoried By",
+            "width": "w-xs-6",
+            "value_reference": {
+              "reference_value": "MTE (Margo Edwards)",
+              "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
+            },
+            "order": 1
+          },
+          "hasInventoryDate": {
+            "label": "Inventoried Date",
+            "width": "w-xs-6",
+            "value_fuzzydate": {
+              "fuzzydate_value": "Oct 23, 2008",
+              "fuzzydate_date": "2008-10-23T00:00:00.000Z"
+            },
+            "order": 2
+          }
+        },
+        "order": 8
+      },
+      "hasMaintenance": {
+        "label": "Maintenance",
+        "width": "w-xs-12",
+        "value": {
+          "hasMaintenanceEvent": {
+            "label": "Maintenance History",
+            "width": "w-xs-12",
+            "value": {
+              "hasMaintenanceDate": {
+                "label": "Date",
+                "width": "w-xs-6",
+                "value_fuzzydate": {
+                  "fuzzydate_value": "Jun 27, 2007",
+                  "fuzzydate_date": "2007-06-27T00:00:00.000Z"
+                },
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 9
+      },
+      "hasCreateUser": {
+        "label": "Created By",
+        "width": "w-xs-6",
+        "value_reference": {
+          "reference_value": "admin@catalogit.app",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
+        },
+        "order": 10
+      },
+      "hasCreateDate": {
+        "label": "Create Date",
+        "width": "w-xs-6",
+        "value_date": "2008-10-23T07:00:00.000Z",
+        "order": 11
+      },
+      "hasUpdateUser": {
+        "label": "Updated By",
+        "width": "w-xs-6",
+        "value_reference": {
+          "reference_value": "admin@catalogit.app",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Person"
+        },
+        "order": 12
+      },
+      "hasUpdateDate": {
+        "label": "Update Date",
+        "width": "w-xs-6",
+        "value_date": "2023-10-31T00:32:21.403Z",
+        "order": 13
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001043",
+    "prev_id": "9b49d250-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "8c14b1b0-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}

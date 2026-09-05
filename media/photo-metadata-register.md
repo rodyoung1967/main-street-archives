@@ -1632,3 +1632,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Related building/business: `B-002` / `BUS-013`
 - Sign review: 505 principal sign **probably reads `FARR'S`**; lower wording is likely `POOL` or `POOL HALL` but not securely transcribed.
 - Cross-source value: with `S-036` / `E-033`, strongly supports **Farr's Pool Hall at 505 Main in 1936**; does not establish opening date.
+
+## IMG-0758 — CCHS P-1043, 1930s Main at Sixth looking toward Fifth
+- Type: Historic Main Street streetscape / streetcar / commercial-block photograph
+- CCHS catalog: `P-1043`
+- CCHS title: **Oregon City 1930s - Streetcar on Main at 6th**
+- CCHS Date made: **1930–1939**; exact exposure year unresolved
+- CCHS description: **Main Street Looking Southwest from 6th Street**
+- CCHS other number: **Society Photo #168**
+- Repository file: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`
+- Status: `committed`
+- Repository dimensions: **550 × 850**; 58,901 bytes; SHA-256 `a96a00bfc65c364b95078ee38ef186f53faf66c3f2b78ce8fa6eb3864999a92d`
+- Steward original: `Oregon City 1930s - Streetcar on Main at 6th(1).jpg`; 2048×1214; 617,696 bytes; SHA-256 `870d294ee08012121c057d63b6f90112ff5305600c36a2f1895fa57738b65e08`
+- Steward orientation: looking south from Sixth toward Fifth.
+- Direct visual text includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall, Drugs, Hardware, Tourist Hotel, Alexander's Mkt., American Cleaners, and partial additional signs.
+- Source/Evidence/Timeline: `S-237` / `E-211` / `T-088`
+- Key value: same-frame storefront-sign sequence for reconstructing the Sixth-to-Fifth Main Street block and independently checking 503/505 spatial mapping.
+- Limit: most exact street numbers and the distant 503/505 sign identities remain unresolved.

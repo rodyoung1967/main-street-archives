@@ -356,3 +356,9 @@ New CCHS `2008.008.002.425` (`S-235` / `E-209` / `IMG-0756`) supplies a dated **
 ### 1936 P-1128 Farr anchor
 
 `S-236` / `E-210` / `IMG-0757` / `T-087` now provides a **1936** photographed-state anchor strongly supporting Farr's Pool Hall at 505 Main. This narrows the useful transition search: determine how far **before 1936** Farr can be documented at 505 and locate the first documentary appearance of **Harr's Recreation Center** before the existing 1945/1948 anchors. The exact opening and Farr→Harr transfer dates remain unresolved.
+
+### P-1043 1930s Sixth-to-Fifth storefront-sequence lead
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`) provides a dense, dated-range **1930–1939** sign sequence looking south from Sixth toward Fifth. Cross-check 1930–1939 directories, ads and licenses for **Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Tourist Hotel, Alexander's Market, the partial ...MONDS CAFE, the clipped ... SHOE SHOP, the painted 5-10-25 ... STORE sign, and the Rexall/Drugs grouping**.
+
+Primary goals: assign exact numbered addresses; narrow the photograph's exposure year by overlapping business operating spans; test whether the Rexall/Drugs position is Harding Drug Store; determine whether the 1930s American Cleaners sign is related to later `BUS-097`; then use the resolved west-side address sequence as an independent geometry check on `P-1128` / Farr's Pool Hall at 505. Do not merge same-name businesses or infer exact addresses from sign order alone.

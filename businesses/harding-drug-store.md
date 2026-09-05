@@ -93,3 +93,7 @@ This appears to be the same historical exposure as the older `IMG-0724` crop but
 ## Mid-1960s P-4565 photograph
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows **HARDING DRUGS** signage in the pre-fire row. The catalog description transcribes “Harding (sp?) Drugs”; the 1 September 1967 fire article independently names Hardings Drug Store among the gutted businesses (`E-045`).
+
+## 1930s P-1043 Rexall/Drugs lead
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), cataloged **1930–1939**, shows **REXALL** and **DRUGS** signage in the expected west-side Main Street sequence. The spatial relationship is consistent with Harding Drug Store, but the name **HARDING** is not directly legible, so this remains a **probable alignment lead** rather than direct business-name proof.

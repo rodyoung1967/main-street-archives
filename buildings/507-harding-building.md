@@ -197,3 +197,7 @@ This supports the visual identity of a Young storefront associated by CCHS with 
 ## Mid-1960s P-4565 pre-fire storefront row
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) visually documents the neighboring pre-1967-fire row, including Coast to Coast Stores, Dixon’s Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid’s/Restaurant. Only Dixon’s 509 address is independently exact in the current mid-1960s evidence; do not assign the other visible storefronts exact numbers from photograph order alone.
+
+## 1930s P-1043 Rexall/Drugs alignment lead
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly shows a **REXALL / DRUGS** sign cluster in the west-side Main Street storefront sequence. Its position is consistent with the established Harding Drug / Harding Building context, but **HARDING is not securely readable in this image**. Treat the photograph as a **probable cross-source alignment lead**, not a direct named Harding identification, until the exact directory/address sequence is matched.

@@ -247,3 +247,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - CCHS: `P-1128`; accession **2002.071.010**; photograph by Ralph Eddy per catalog description.
 - Key value: project-steward mapping identifies the 505 storefront; enlarged review gives probable **FARR'S** and likely pool-related wording. Cross-source comparison with `E-033` strongly supports **Farr's Pool Hall at 505 Main in 1936**.
 - Limit: full sign text, business opening date, property ownership, and Farr-to-Harr transition remain unresolved.
+
+### IMG-0758 — CCHS P-1043, 1930s Main Street business-sign roster
+- File: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`
+- Source/evidence/timeline: `S-237` / `E-211` / `T-088`
+- CCHS: `P-1043`; Society Photo #168; Date made **1930–1939**
+- Key value: view south from Sixth toward Fifth with a dense readable business-sign sequence on both sides of Main; useful for exact-address reconstruction and cross-checking 503/505.
+- Limit: this frame does not securely yield a direct Farr/503/505 sign reading.

@@ -3205,3 +3205,18 @@ evidence:
       - BUS-013
     related_buildings:
       - B-002
+
+  - id: E-211
+    name: "1930s P-1043 provides Sixth-to-Fifth Main Street business-sign and facade sequence"
+    type: Primary photographic streetscape evidence with institutional catalog metadata
+    date: "1930-1939"
+    claims:
+      - "CCHS P-1043 is cataloged Oregon City 1930s - Streetcar on Main at 6th, Date made 1930-1939, description Main Street Looking Southwest from 6th Street."
+      - "Project steward clarifies the practical orientation as looking south from Sixth toward Fifth."
+      - "Direct sign text includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall, Drugs, Hardware, Tourist Hotel, Alexander's Mkt., and American Cleaners."
+      - "Partial signs include ...MONDS CAFE, a clipped ... SHOE SHOP, and a painted 5-10-25 ... STORE advertisement."
+      - "Rexall/Drugs is a probable Harding alignment lead, not direct HARDING transcription."
+      - "The distant 503/505 frontage is not secure enough for a new direct occupancy claim; use as spatial/address-sequence control."
+    confidence: "Very High for object/date range/clear sign readings; probable where marked; exact addresses and target storefront identities unresolved."
+    related_sources: [S-237]
+    related_buildings: [B-001, B-002, B-003]

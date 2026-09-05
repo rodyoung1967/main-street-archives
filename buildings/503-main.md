@@ -234,3 +234,7 @@ CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`), cataloged **circa mid-1960s**, d
 ## 1955–1965 CCHS P-1311 bluff view
 
 CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`) is an elevated bluff-at-4th photograph with a catalog Date made range of **1955–1965**. Enlarged review supports **The Wheel** wording/signage on the 503 frontage, while the adjacent 505 frontage carries **505 Tavern / Tavern 505** signage. The image is direct same-frame evidence that the two businesses occupied separate neighboring storefronts in the photographed state. The exact exposure year remains unresolved and is not assigned as 1955 merely because the title begins “Oregon City 1955.”
+
+## 1930s P-1043 Sixth-to-Fifth spatial control
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`), dated **1930–1939**, looks south from Sixth toward Fifth and shows the west-side odd-numbered commercial row continuing toward the 503/505 corner. The image supplies a dense business-sign/facade sequence that can help map the target frontage once the intervening businesses are assigned exact numbers. **No 503 sign or business name is securely readable at the target distance in this frame**, so it is context rather than a new 503 occupancy record.

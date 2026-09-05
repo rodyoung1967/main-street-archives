@@ -327,3 +327,9 @@ CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`) is an elevated bluff-at-4th photo
 CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936** and shows the Fifth/Main block from the bluff. The project steward identifies the relevant storefront as **505 Main**. Enlarged review yields a **probable `FARR'S`** principal sign and likely pool-related lower wording. Combined with the independent City inventory (`S-036` / `E-033`) naming **Farr's Pool Hall at 505 Main**, this strongly supports Farr's operating at 505 in the 1936 photographed state.
 
 Do not treat this as proof that Farr's opened in 1934 or 1936, as a property-ownership record, or as proof of uninterrupted continuity from the 1925 unnamed billiards/cigars use. The exact Farr-to-Harr transition remains open.
+
+## 1930s P-1043 Sixth-to-Fifth spatial control
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`), dated **1930–1939**, looks south from Sixth toward Fifth and provides a same-frame sign sequence along the west-side odd-numbered Main Street row. It should be used to assign intermediate storefront numbers and independently test the 505 position.
+
+**No `505` or secure `FARR'S` wording is directly readable in this more distant view.** The stronger operating-state anchor remains CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`), where steward storefront mapping plus probable `FARR'S` signage supports Farr's Pool Hall at 505 in 1936.

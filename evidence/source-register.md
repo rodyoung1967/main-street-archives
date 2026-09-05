@@ -1861,3 +1861,16 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-210` / `IMG-0757` / `T-087`.
 Related building/business: `B-002` / `BUS-013`.
 Notes: Steward maps the target storefront to 505 Main. Enlarged review gives probable `FARR'S` and likely pool-related wording; cross-source comparison with `S-036` / `E-033` strongly supports Farr's Pool Hall at 505 in the 1936 photographed state. Full sign transcription remains unresolved.
+
+## S-237 — CCHS P-1043, 1930s Main Street from Sixth toward Fifth
+Type: Primary historic streetscape photograph with CCHS institutional metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1043`.
+Date: **1930–1939** per CCHS Date made metadata; exact exposure year unresolved.
+Repository image: `media/photos/main-street/IMG-0758_1930-1939-main-6th-looking-south-business-roster-cchs-p1043.jpg`.
+Capture: `evidence/source-captures/cchs-p1043-1930s-main-6th-looking-south-business-roster-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/child-in-front-of-building-1
+Other number: **Society Photo #168**.
+Related evidence/media/timeline: `E-211` / `IMG-0758` / `T-088`.
+Related block context: `B-001` 503 Main; `B-002` 505 Main; `B-003` Harding Building / Harding Drug context.
+Notes: Direct sign roster includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners and other partial signs. Most exact street numbers remain unresolved; no new direct 503/505 occupancy claim is made from this frame.

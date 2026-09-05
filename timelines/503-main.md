@@ -66,3 +66,5 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 | 1975 | CCHS `P-1293` aerial shows 503 ending materially sooner rearward than adjacent 505. | Direct relative-footprint evidence; no legal boundary or change date inferred. | `E-203`; `S-229`; `IMG-0750` |
 
 | 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **The Wheel** signage on the 503 frontage and **505 Tavern / Tavern 505** on adjacent 505. | **Direct photographic** same-frame business separation; catalog range only, not a 1955 opening/date claim. | `E-206`; `S-232`; `IMG-0753` |
+
+| 1930–1939 | P-1043 block-sequence context | CCHS `P-1043` looks south from Sixth toward Fifth and preserves a dense west-side odd-number storefront-sign sequence. Exact `503` sign/occupant is not securely readable in this frame; use it as spatial/address-sequence context and cross-check with `P-1128`. | `E-211`; `S-237`; `IMG-0758` |

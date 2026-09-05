@@ -498,3 +498,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-236` / `E-210` / `IMG-0757` / `T-087` | `B-002`; `BUS-013`; `S-036` / `E-033` | Exact 1936 CCHS photograph. Steward maps target storefront to 505; probable **FARR'S** sign and likely pool wording combine with independent City business/address evidence to strongly support Farr's Pool Hall at 505 in 1936. Exact full sign text/opening date remain unresolved. |
+
+## S-237 / E-211 / IMG-0758 / T-088 — CCHS P-1043, 1930s Sixth-to-Fifth Main Street view
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-237` / `E-211` / `IMG-0758` / `T-088` | `B-001`, `B-002`, `B-003`; cross-check `S-236` / `E-210` / `IMG-0757` | 1930–1939 streetscape from Sixth toward Fifth; direct business-sign roster. 503/505 exact signage unresolved in this frame; use as spatial/address-sequence control. |

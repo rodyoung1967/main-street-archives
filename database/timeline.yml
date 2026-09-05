@@ -903,3 +903,12 @@ timeline:
       - BUS-013
     related_buildings:
       - B-002
+
+  - id: T-088
+    date: "1930-1939"
+    title: "1930-1939 — P-1043 Main Street business-sign roster from Sixth toward Fifth"
+    summary: "CCHS P-1043 preserves a dense business-sign sequence looking south from Sixth toward Fifth. Clear text includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt. and American Cleaners. Exact addresses and direct 503/505 signage remain unresolved; use as block-mapping control."
+    confidence: "Very High for catalog/sign text; unresolved for most exact addresses and target storefront identities."
+    related_sources: [S-237]
+    related_evidence: [E-211]
+    related_buildings: [B-001, B-002, B-003]

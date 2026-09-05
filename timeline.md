@@ -529,3 +529,9 @@ CCHS `P-4562` (`S-233` / `E-207` / `IMG-0754`), from project-steward supplied me
 ## T-087 — 1936 — CCHS P-1128 strongly supports Farr's Pool Hall at 505
 
 CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`) is cataloged **1936**. The project steward identifies the target storefront in the Fifth/Main row as **505 Main**. Enlarged review gives probable **FARR'S** signage and likely pool-related wording. Combined with independent `S-036` / `E-033`, which identifies Edwin and Alice Farr as proprietors of **Farr's Pool Hall at 505 Main**, this is a **STRONG CROSS-SOURCE INFERENCE** that Farr's was operating at 505 in the 1936 photographed state. It does not establish an opening date or resolve the later Farr-to-Harr transition.
+
+## T-088 — 1930–1939 — P-1043 Main Street business-sign roster
+
+CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`) looks southwest/south from Sixth toward Fifth and preserves a dense commercial-sign sequence. Clear text includes **Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners**, and other partial signs. This is a high-value block-mapping control, but most exact numbers remain unresolved and the distant 503/505 frontage is not secure enough for a new direct occupancy claim.
+
+Cross-check: the independently integrated **1936 P-1128** view (`S-236` / `E-210` / `IMG-0757`) remains the stronger photographic anchor for Farr's Pool Hall at 505.
