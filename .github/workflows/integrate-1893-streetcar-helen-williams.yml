@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_1893_streetcar_helen_williams.py'
+      - 'scripts/repair_1893_streetcar_helen_metadata.py'
       - '.github/workflows/integrate-1893-streetcar-helen-williams.yml'
   workflow_dispatch:
 
@@ -25,6 +26,8 @@ jobs:
       - run: pip install Pillow PyYAML
       - name: Integrate Helen photograph and signage evidence
         run: python3 scripts/integrate_1893_streetcar_helen_williams.py
+      - name: Repair structured metadata
+        run: python3 scripts/repair_1893_streetcar_helen_metadata.py
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
