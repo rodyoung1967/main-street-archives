@@ -19,10 +19,13 @@ A useful reading order is:
 5. `evidence/evidence-register.md` and `evidence/source-register.md` — evidence and source audit trail.
 6. `registers/year-status.md` — what has and has not met the archive's annual-review standard.
 7. `evidence/open-questions.md` — what remains uncertain.
+8. `MANUAL-FOLLOWUP.md` — central manual/institutional follow-up queue, contacts, request drafts, and dispatch/response tracker.
 
 Data layout guide: `DATA_LAYOUT.md`
 
 ID crosswalk: `indexes/id-crosswalk.md`
+
+Manual follow-up dashboard: [`MANUAL-FOLLOWUP.md`](MANUAL-FOLLOWUP.md)
 
 ## Cloud Workflow
 
@@ -52,6 +55,7 @@ Cursor integration prompt: **Integrate [handoff file] into the archive per WORKF
 
 - `timeline.md` - **recommended first read**; master chronological walkthrough.
 - `ARCHIVE_INDEX.md` - human-readable project index, search guide, and reading path.
+- `MANUAL-FOLLOWUP.md` - canonical human-action/manual-follow-up dashboard with priority queue, contacts, ready-to-send drafts, dispatch tracking, and response status.
 - `registers/ownership-timeline.md` - separates property ownership, business ownership, and operation.
 - `registers/year-status.md` - canonical annual-review status and remaining certification blockers.
 - `docs/CLOUD_WORKFLOW.md` - ChatGPT → GitHub → Cursor workflow; iOS access.
@@ -98,7 +102,7 @@ The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/ori
 2. Document the exact **505 sequence**: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen deed, later business-transfer/repossession periods, the Wiitanens' pre-March 1991 rename to 505 Tavern, and 2024 estate succession.
 3. Complete the **1915** issue/page inventory and page-by-page visual review, then work the remaining years against `registers/year-status.md` rather than using legacy “routine pass” language as a completion claim.
 4. Request and inspect the OHS Main/Fifth title abstract indexed in MSS 1503, including reconciliation of its Block 4 / Lot 3-5 metadata conflict.
-5. Recover the 1905-1906 and 1916-1917 directory pages and the inaccessible primary municipal records listed in the numbered manual-callout queue.
+5. Recover the 1905-1906 and 1916-1917 directory pages and the inaccessible primary municipal records listed in `MANUAL-FOLLOWUP.md`.
 6. Transcribe tax statements and assessor records for 503 and 505, and obtain deeds/OLCC/licenses needed to separate property ownership from business operation.
 7. Confirm The Wheel / Brass Rail / The Dug Inn / Sports Keg / 505 Tavern / Thirsty Duck chronology, including the exact documentation for the Wiitanens' pre-March 1991 rename to 505 Tavern.
 8. Obtain primary permit/assessor confirmation for the accepted **1968** Harding replacement-building date and resolve the unverified Dr. Bailey/1909 legacy claim.
