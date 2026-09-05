@@ -1,0 +1,42 @@
+name: Integrate 1908 CCHS P-6974 Friedrich Little photograph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_1908_cchs_p6974_friedrich_little.py'
+      - '.github/workflows/integrate-1908-cchs-p6974-friedrich-little.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install Pillow PyYAML
+      - name: Integrate P-6974 photograph and catalog evidence
+        run: python3 scripts/integrate_1908_cchs_p6974_friedrich_little.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Integrate CCHS P-6974 1908 Friedrich Little photo'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
