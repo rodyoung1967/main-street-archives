@@ -1,0 +1,40 @@
+name: Diagnose P-1043 CatalogIt matches
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/diagnose-p1043-catalog.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: List exact P-1043 CatalogIt matches
+        run: |
+          python3 - <<'PY'
+          import json, urllib.parse, urllib.request
+          url='https://api.catalogit.app/api/public/search?' + urllib.parse.urlencode({'query':'P-1043','size':200})
+          req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 Main-Street-Archive/1.0'})
+          with urllib.request.urlopen(req,timeout=90) as r: data=json.load(r)
+          hits=[]
+          def walk(x):
+              if isinstance(x,dict):
+                  try: cat=x['properties']['hasCatalogNumber']['value_text']
+                  except Exception: cat=None
+                  if cat=='P-1043':
+                      hits.append({k:x.get(k) for k in ('id','account_id','account_slug','account_name','slug')})
+                  for v in x.values(): walk(v)
+              elif isinstance(x,list):
+                  for v in x: walk(v)
+          walk(data)
+          print(json.dumps(hits,indent=2))
+          PY
