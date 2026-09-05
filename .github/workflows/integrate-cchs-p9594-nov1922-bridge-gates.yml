@@ -1,0 +1,45 @@
+name: Integrate CCHS P-9594 November 1922 bridge view
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_cchs_p9594_nov1922_bridge_gates.py'
+      - '.github/workflows/integrate-cchs-p9594-nov1922-bridge-gates.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --ff-only origin main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install integration dependencies
+        run: pip install Pillow PyYAML
+      - name: Integrate P-9594 photograph
+        run: python3 scripts/integrate_cchs_p9594_nov1922_bridge_gates.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Integrate CCHS P-9594 November 1922 bridge view'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
