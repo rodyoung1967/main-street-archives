@@ -234,3 +234,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Institutional metadata: Oregon City Bank of Commerce / First National, **512 Main**, 1891; Lynch-Criteser 057 / Latourette Family #1.
 - Source/evidence: `S-234` / `E-208`.
 - Limit: 512 Main and later demolition/renumbering / moved-house history are catalog annotations; no 512 number is visible.
+
+### IMG-0756 — CCHS 1947 Oregon City aerial
+- File: `media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg`
+- Source/evidence: `S-235` / `E-209`
+- CCHS: `2008.008.002.425`; **Gardner 425**; **Tripp, Bill #3**
+- Key value: independent dated **1947** high-oblique downtown/riverfront control between `IMG-0009` (1944) and `IMG-0010` (1955). Exact 501/503/505 roof mapping remains pending.

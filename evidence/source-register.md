@@ -1835,3 +1835,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media: `E-208` / `IMG-0755`.
 Related earlier bank interior: `S-212` / `E-192` / `IMG-0741`.
 Notes: **COMMERCIAL BANK** is directly visible on the facade. Catalog metadata places the bank at 512 Main and supplies later demolition/renumbering, stone-remnant, and moved-rooming-house annotations; those later historical statements are retained as institutional annotation rather than treated as image-visible facts.
+
+## S-235 — CCHS 2008.008.002.425 — Oregon City 1947 aerial
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `2008.008.002.425`.
+Date: **1947** per CCHS Date made metadata.
+Repository image: `media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg`.
+Capture: `evidence/source-captures/cchs-2008-008-002-425-1947-oregon-city-aerial-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1947-aerial
+Other numbers: **Gardner 425**; **Tripp, Bill #3**.
+Related evidence/media: `E-209` / `IMG-0756`.
+Use limit: dated independent high-oblique downtown/riverfront control. Exact 501/503/505 roof mapping is not yet verified, so no new target-footprint or construction-date claim is made from this source alone.

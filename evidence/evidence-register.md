@@ -1888,3 +1888,15 @@ Claims:
 - The photograph is a contextual even-side Main Street control and does not establish 503/505 occupancy or building continuity.
 Classification: **DOCUMENTED / DIRECT** for the CCHS object/date and image-visible facade/signage; **institutional catalog annotation** for 512 Main, demolition/renumbering, stone-remnant, and moved-rooming-house history.
 Confidence: **Very High** for object identity, catalog date, and visible COMMERCIAL BANK wording; **High as attributed catalog metadata** for the later JAH annotations, pending independent primary-record corroboration.
+
+## E-209 — 1947 CCHS high-oblique aerial provides an independent downtown/riverfront control
+Source: `S-235`
+Media: `IMG-0756`
+Type: Primary historic aerial photographic evidence with institutional catalog metadata
+Claims:
+- CCHS `2008.008.002.425` catalogs the photograph as **Oregon City 1947 - Aerial**, Date made **1947**.
+- Direct visual review shows lower/downtown Oregon City, the Willamette River, Oregon City–West Linn bridge, riverfront/highway corridor, Willamette Falls industrial complex, and log booms.
+- The 1947 date makes the photograph an independent chronological control between city photocompare `IMG-0009` (1944) and `IMG-0010` (1955).
+- Exact individual 501/503/505 roof mapping has not yet been verified in this steep oblique view; existing `E-021` / 1940 re-review conclusions remain unchanged.
+Classification: **DOCUMENTED / DIRECT** for object identity, 1947 date and broad visual content; **UNRESOLVED** for target-building roof/footprint mapping.
+Confidence: **Very High** for CCHS object/date and broad scene; unresolved for 501/503/505-specific geometry.

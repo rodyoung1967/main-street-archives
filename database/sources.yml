@@ -1335,3 +1335,13 @@ sources:
     url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-bank-of-commerce-1891-oregon-city"
     repository_file: "media/photos/early-main-street/IMG-0755_1891-oregon-city-bank-of-commerce-exterior-512-main-cchs-2008-008-049-057.jpg"
     notes: "Primary CCHS photograph dated 1891. COMMERCIAL BANK is directly visible; CCHS catalogs the bank at 512 Main and supplies later JAH demolition/renumbering, stone-remnant, and moved-rooming-house annotations. Related interior: S-212/E-192/IMG-0741."
+
+  - id: S-235
+    name: "CCHS 2008.008.002.425 — Oregon City 1947 aerial"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1947-aerial"
+    type: Primary historic aerial photograph with CCHS institutional catalog metadata
+    date: "1947"
+    repository_file: "media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg"
+    notes: "Independent dated high-oblique Oregon City aerial; exact 501/503/505 roof mapping remains unresolved pending fixed-landmark alignment. Other numbers Gardner 425 and Tripp, Bill #3."
+    related_evidence: [E-209]
+    related_media: [IMG-0756]

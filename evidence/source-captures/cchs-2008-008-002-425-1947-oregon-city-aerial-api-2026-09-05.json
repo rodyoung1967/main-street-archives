@@ -1,0 +1,272 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "2008.008.002.425",
+  "search_url": "https://api.catalogit.app/api/public/search?query=2008.008.002.425&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/805a7c70-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1947-aerial",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 1552,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/77f048d0-9b5a-11eb-97c3-a30f15c9573f-vdUe17N.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg",
+  "repository_image": {
+    "width": 2374,
+    "height": 3070,
+    "bytes": 963170,
+    "sha256": "efef2341920dc0f3ff2ffb05083617351bdbc0d16e1d92a3f7e8730c529758c1"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1947 - Aerial.jpg",
+    "width": 1583,
+    "height": 2048,
+    "bytes": 1069600,
+    "sha256": "0646272020265b20b230ccbf8343cf2f797f70bc39543270443de23102ca92da"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1947 - Aerial",
+    "entry_object_id": "2008.008.002.425",
+    "tags": [
+      "Willamette Falls Exhibit - Brain Storm"
+    ],
+    "description": "Oregon City from the air.",
+    "date_made": "1947",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_numbers": [
+      "Gardner 425",
+      "Tripp, Bill #3"
+    ]
+  },
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "805a7c70-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1947-aerial",
+    "media": [
+      {
+        "uuid": "77f048d0-9b5a-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "O.C. from the Air, 1947",
+        "description": "Copyright: none; Origsize: 4 x 4.75; Origformat: Negative; Resolution: 800 DPI; Negno: 1",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/77f048d0-9b5a-11eb-97c3-a30f15c9573f-sumCCuD.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/77f048d0-9b5a-11eb-97c3-a30f15c9573f-sumCDxk.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/77f048d0-9b5a-11eb-97c3-a30f15c9573f-vdUe17N.sm@1x.jpg",
+            "width": 768,
+            "height": 993
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/77f048d0-9b5a-11eb-97c3-a30f15c9573f-vdUe17N.sm@2x.jpg",
+            "width": 768,
+            "height": 993
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/77f048d0-9b5a-11eb-97c3-a30f15c9573f-vdUe17N.lg@1x.jpg",
+            "width": 1200,
+            "height": 1552
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/77f048d0-9b5a-11eb-97c3-a30f15c9573f-vdUe17N.lg@2x.jpg",
+            "width": 1200,
+            "height": 1552
+          },
+          "dominant_color": "55514F",
+          "complementary_color": "4F5355"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1947 - Aerial",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.002.425",
+        "order": 2
+      },
+      "hasTag": {
+        "label": "Tags",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "Willamette Falls Exhibit - Brain Storm",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Tag"
+        },
+        "order": 3
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City from the air.",
+        "order": 4
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1947",
+                "fuzzydate_date": "1947-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 5
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Gardner 425; Other Photo #: Tripp, Bill #3",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 6
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000020000000425",
+    "prev_id": "e650c7f0-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "d342d9f0-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

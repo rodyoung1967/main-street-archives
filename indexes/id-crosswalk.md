@@ -490,3 +490,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-234` / `E-208` / `IMG-0755` | `S-212` / `E-192` / `IMG-0741` related interior | 1891 exterior: **COMMERCIAL BANK** directly visible; CCHS catalogs 512 Main. Later demolition/renumbering, stone-remnant, and moved-rooming-house history retained as attributed catalog annotation. |
+
+| `IMG-0756` / `S-235` / `E-209` / CCHS `2008.008.002.425` | `media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg`; `evidence/source-captures/cchs-2008-008-002-425-1947-oregon-city-aerial-2026-09-05.md` | CCHS catalogs the high-oblique Oregon City aerial as **1947**; independent chronological control between `IMG-0009` and `IMG-0010`. Exact 501/503/505 roof mapping remains unresolved pending fixed-landmark alignment. |

@@ -1602,3 +1602,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Direct visual text: **COMMERCIAL BANK**; neighboring **SHARPLES**; enlarged neighboring window supports **WILSON & COOKE / HARDWARE**; left/rear **ROOMS & BOARD**.
 - Limits: no 512 number is image-visible. The 512 Main location and later demolition/renumbering, stone-remnant, and moved-rooming-house statements are CCHS/JAH catalog annotations. Do not infer a modern neighboring address from the partial right-hand storefront.
 - Related image: `IMG-0741` / `S-212` / `E-192`, CCHS 1890 Bank of Commerce interior.
+
+## IMG-0756 — CCHS 2008.008.002.425, Oregon City 1947 aerial
+- Type: Historic high-oblique aerial photograph
+- CCHS catalog: `2008.008.002.425`
+- CCHS title: **Oregon City 1947 - Aerial**
+- Date made: **1947**
+- Repository file: `media/photos/aerials/IMG-0756_1947-oregon-city-aerial-cchs-2008-008-002-425.jpg`
+- Status: `committed`
+- Repository dimensions: **2374 × 3070**; 963,170 bytes; SHA-256 `efef2341920dc0f3ff2ffb05083617351bdbc0d16e1d92a3f7e8730c529758c1`
+- Steward original: `Oregon City 1947 - Aerial.jpg`; 1583×2048; 1,069,600 bytes; SHA-256 `0646272020265b20b230ccbf8343cf2f797f70bc39543270443de23102ca92da`
+- Other numbers: **Gardner 425**; **Tripp, Bill #3**
+- Source/Evidence: `S-235` / `E-209`
+- Visual value: dated 1947 downtown/riverfront high-oblique control between the canonical 1944 and 1955 aerial frames.
+- Limit: exact 501/503/505 roof mapping remains unresolved pending fixed-landmark alignment.

@@ -52,3 +52,7 @@ Oregon City photocompare aerial screenshots (`S-023`), cataloged under `E-021`. 
 ## Independent CCHS P-1293 aerial
 
 `IMG-0750` is an **independent CCHS aerial cataloged 1975**, not a frame from the Oregon City photocompare screenshot series. It directly confirms a deeper rearward 505 footprint relative to 503 and continued absence of 501. See `S-229` / `E-203` and `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md`. The supplied filename/title says 1981; CCHS metadata says 1975.
+
+## Independent CCHS 2008.008.002.425 1947 aerial
+
+`IMG-0756` preserves CCHS `2008.008.002.425`, cataloged **1947**, an independent high-oblique view of Oregon City, the Willamette River, bridge, falls/industrial complex, riverfront corridor and log booms. It falls chronologically between city photocompare `IMG-0009` (1944) and `IMG-0010` (1955). The target 501/503/505 block is within the downtown field, but individual roof mapping has not yet been verified in this oblique geometry; see `S-235` / `E-209` and `evidence/source-captures/cchs-2008-008-002-425-1947-oregon-city-aerial-2026-09-05.md`.

@@ -3172,3 +3172,17 @@ evidence:
     confidence: "Very High for object identity/date and visible COMMERCIAL BANK wording; High as attributed institutional annotation for later historical statements, pending independent primary-record corroboration."
     related_sources:
       - S-234
+
+  - id: E-209
+    name: "1947 CCHS high-oblique aerial provides an independent downtown/riverfront control"
+    type: Primary historic aerial photographic evidence with institutional catalog metadata
+    date: "1947"
+    claims:
+      - "CCHS 2008.008.002.425 catalogs the photograph as Oregon City 1947 - Aerial, Date made 1947."
+      - "Direct visual review shows lower/downtown Oregon City, the Willamette River, bridge, riverfront/highway corridor, Willamette Falls industrial complex, and log booms."
+      - "The photograph is an independent chronological control between city photocompare IMG-0009 (1944) and IMG-0010 (1955)."
+      - "Exact individual 501/503/505 roof mapping is unresolved in this steep oblique view; existing E-021 and 1940 re-review conclusions remain unchanged."
+    confidence: "Very High for object identity, 1947 date and broad visual content; unresolved for target-building geometry."
+    related_sources: [S-235]
+    related_media: [IMG-0756]
+    repository_file: "evidence/source-captures/cchs-2008-008-002-425-1947-oregon-city-aerial-2026-09-05.md"

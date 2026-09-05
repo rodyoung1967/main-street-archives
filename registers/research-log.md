@@ -561,3 +561,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved CCHS/JAH later annotations for 512 Main, demolition/renumbering, northwest-corner stone remnants, and the moved Thomas Charman house/rooming house without upgrading them to image-visible or independently verified facts.
 - Linked the closely related 1890 interior record `S-212` / `E-192` / `IMG-0741`.
 - No 503/505 occupancy, title, or building-continuity claim was inferred from this even-side Main Street control photograph.
+
+### 2026-09-05 — CCHS 2008.008.002.425 1947 Oregon City aerial
+- Preserved as `IMG-0756` / `S-235` / `E-209` from the exact CCHS catalog object, with project-steward upload fingerprint retained.
+- Supplied metadata: **Oregon City 1947 - Aerial**, Date made **1947**, description **Oregon City from the air**, other numbers **Gardner 425** and **Tripp, Bill #3**.
+- Direct visual review documents broad downtown/riverfront, bridge, Willamette Falls industrial complex, riverfront/highway geometry and log booms.
+- Treated as an independent dated control between `IMG-0009` (1944) and `IMG-0010` (1955).
+- Exact 501/503/505 roof mapping was **not** promoted from the oblique image; the existing 1936–1940 501-removal bracket and 1940 first-readable 505-depth asymmetry remain unchanged pending fixed-landmark alignment.
+- This integration does not alter annual research-status certifications.

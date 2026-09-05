@@ -90,3 +90,7 @@ Full file list: `media/photos/aerials/README.md`
 ## Independent 1975 CCHS P-1293 cross-check
 
 CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`) is independent of the city photocompare screenshots and supplies a useful later-state control. In the established 5th/Main mapping, **505 extends farther rearward than 503** and the former **501** corner structure remains absent. The 501 observation now corroborates the **1936–1940** removal bracket established by the focused re-review. The 505 observation remains an independent later-state control; the earliest reviewed photocompare frame in which the 505-vs-503 depth asymmetry can be distinguished is now **1940**. The photograph itself does not date the change or prove a circa-1940 addition.
+
+## Independent 1947 CCHS 2008.008.002.425 high-oblique control
+
+CCHS `2008.008.002.425` (`S-235` / `E-209` / `IMG-0756`) is an independent **1947** high-oblique aerial rather than a city photocompare screenshot. It provides a valuable dated control between `IMG-0009` (1944) and `IMG-0010` (1955), but the camera angle and dense roof field differ enough that this integration does **not** yet promote an individual 501/503/505 roof assignment. Existing conclusions remain unchanged: 501 removal is bracketed **1936–1940**, and 1940 is the earliest reviewed photocompare frame where the deeper 505 rear footprint can be distinguished relative to 503. Fixed-landmark alignment of the 1947 photograph is the next step before using it as independent target-footprint confirmation.

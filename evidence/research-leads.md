@@ -348,3 +348,7 @@ Primary route: **Wilmer Gardner Research Library / Clackamas County Family Histo
 ### P-1293 1975 rear-depth terminus for RL-005
 
 CCHS `P-1293` (`IMG-0750` / `S-229` / `E-203`) now directly confirms that **505 Main extended farther rearward than 503 Main by 1975**. Treat this as a later-state terminus, not a construction date. Re-review `IMG-0007` (1936), `IMG-0008` (1940), `IMG-0009` (1944), `IMG-0010` (1955), `IMG-0011` (1961), and `IMG-0012` (1974) specifically for the first frame showing the same rear-edge asymmetry; then target assessor cards/permits around that earliest transition. This is a focused follow-up to `RL-005` / `E-101` / `E-102`.
+
+### 1947 CCHS high-oblique control for RL-005
+
+New CCHS `2008.008.002.425` (`S-235` / `E-209` / `IMG-0756`) supplies a dated **1947** oblique aerial between the canonical 1944 and 1955 plan-view frames. Re-align it using the bridge approach, river/highway curvature, street grid, institutional buildings and block edges, then test whether the former 501 corner and the 505-vs-503 rear-depth asymmetry can be independently read. Do **not** treat current difficulty isolating an individual roof as evidence of absence.
