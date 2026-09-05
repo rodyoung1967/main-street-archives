@@ -120,6 +120,9 @@ Confidence: Moderate to high for 501 existence in 1936 and removal by 1944; mode
 ### 5 September 2026 re-review
 Focused re-review of the canonical local `IMG-0007` / `IMG-0008` / `IMG-0009` frames **supersedes the earlier 1936–1944 removal bracket**: 501 is present in 1936 and the mapped corner footprint is absent in 1940, narrowing removal to **1936–1940**. The same re-review identifies **1940 as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than 503**. The 1936 rear-edge relationship is ambiguous and is not treated as negative evidence. Exact 505 alteration date and 501 removal cause remain unresolved. Method: `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.
 
+### 5 September 2026 re-review
+Focused re-review of the canonical local `IMG-0007` / `IMG-0008` / `IMG-0009` frames **supersedes the earlier 1936–1944 removal bracket**: 501 is present in 1936 and the mapped corner footprint is absent in 1940, narrowing removal to **1936–1940**. The same re-review identifies **1940 as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than 503**. The 1936 rear-edge relationship is ambiguous and is not treated as negative evidence. Exact 505 alteration date and 501 removal cause remain unresolved. Method: `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.
+
 ## E-022 — August 2026 Family Identity, Address, Business-Separation, and 505 Property Corrections
 Type: Direct user / family confirmation  
 Date: 16–24 August 2026  

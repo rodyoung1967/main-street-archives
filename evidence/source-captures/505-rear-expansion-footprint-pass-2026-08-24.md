@@ -97,7 +97,7 @@ Competing explanations in `E-101` remain live.
 1. **Oregon City Building Division / Planning archives** — original 1939–1941 permit files for **505 Main** (addition, alteration, repair, or new construction).
 2. **Clackamas County assessor improvement cards / tax rolls 1938–1942** — test for improvement-value jump or sketch revision at **505** vs. adjacent **503**.
 3. **Polk Oregon City directories 1939, 1941, 1947** — street-guide entries for **501–511 Main** and recreation/restaurant names.
-4. **Steward-verified aerial transcription** — address-level comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** for 501/503/505 rear edges.
+4. **COMPLETED 5 September 2026 — steward-verified aerial transcription:** address-level comparison **`IMG-0007` / `IMG-0008` / `IMG-0009`** now narrows 501 removal to **1936–1940** and identifies **1940 as the earliest reviewed distinguishable deeper-505-vs-503 state**; exact alteration date remains unresolved.
 5. **Physical building analysis** — material breaks between front bar room and any rear section at 505.
 
 ---
