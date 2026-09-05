@@ -23,6 +23,9 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install Pillow PyYAML
+      - name: Correct P-4563 evidence label
+        run: |
+          sed -i "s/Circa-mid-1960s photograph documents the northeast 5th\/Main commercial corner/Circa-mid-1960s photograph documents northeast 5th\/Main commercial corner/" scripts/integrate_cchs_p4563_mid1960s_northeast_5th_main.py
       - name: Integrate P-4563 photograph and northeast-corner context
         run: python3 scripts/integrate_cchs_p4563_mid1960s_northeast_5th_main.py
       - name: Validate archive
