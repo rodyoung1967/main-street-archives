@@ -13,10 +13,10 @@ ORIGINAL = {
     "sha256": "979b74ea9aa53844a7e207aa3d8f8132c7b0a8da428a5fe5205f3dc8ae91a56f",
 }
 DERIVATIVE = {
-    "width": 1200,
-    "height": 960,
-    "bytes": 123727,
-    "sha256": "e9e40bf28448075e52eae49d88ff788bc927ce18738dcfa1362398ad309851ba",
+    "width": 300,
+    "height": 240,
+    "bytes": 7880,
+    "sha256": "3a0a443831fe18e9f6022d6d620810e57ca2902e73df8cf6ac4fccad7b145782",
 }
 TITLE = "Oregon City 1960's - Street Scene - Corner of Main and McLoughlin - Mid 1960's"
 DESCRIPTION = "U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s? U-1426.005109d"
@@ -188,7 +188,7 @@ append_once("registers/research-log.md", "CCHS P-4562 Post Office rear-view phot
 - Supplied metadata: `{TARGET}`, **U.S. Post Office (rear view) (5th and Main Street) circa mid-1960s?**, related number `{OTHER_NO}`.
 - Direct visual review shows the institutional building intact; cross-source comparison links it to the 1933 Fifth/Main Post Office in `E-102` and the undated demolition view `E-187` / `IMG-0736`.
 - Preserved the question mark on the mid-1960s attribution; no exact demolition-date inference was made.
-- **Local-first handling:** no online replacement photograph was fetched. The repository binary is a locally generated 1200×960 derivative of the steward upload, and the exact original filename/dimensions/bytes/SHA-256 are preserved in metadata.
+- **Local-first handling:** no online replacement photograph was fetched. The repository binary is a locally generated 300×240 derivative of the steward upload, and the exact original filename/dimensions/bytes/SHA-256 are preserved in metadata.
 - This integration does not alter annual research-status certifications.""")
 
 append_once(
