@@ -1726,3 +1726,16 @@ Source: `S-217`; image `IMG-0746`; timeline `T-080`.
 Claims: CCHS object `P-1317` is titled **Oregon City - View from Bluff** and described as **Oregon City from the Bluff at 5th Street**. The image directly shows an elevated downtown Oregon City scene partly obscured by trees. Project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the branches.  
 Limits: The catalog supplies no exposure date; no 501/503/505 number is readable; individual storefront/roof boundaries are not assigned; no one-building-across-three-addresses or structural-continuity inference is made.  
 Confidence: **Very High** for CCHS object/view description and visible scene; **PROBABLE / WORKING HYPOTHESIS** for the target-frontage identification; exposure date **UNRESOLVED**.
+
+## E-198 — 1893 E. E. Williams storefront visible in Streetcar Helen photograph
+Source: `S-218`
+Media: `IMG-0747`
+Type: Primary photographic evidence
+Claims:
+- The 1893 Sixth/Main Streetcar Helen photograph directly shows the storefront name E. E. WILLIAMS on the right/east side of Main.
+- A separate DRUGS sign is directly visible farther south on the same side.
+- The repeated E. E. Williams name in the independently reviewed 1895 Welcome Arch photograph provides a two-date business/signage anchor, but the exact later 501/503/505 bay remains unresolved.
+Confidence: Very High for the visible E. E. WILLIAMS and DRUGS transcriptions; Moderate/working-hypothesis for exact mapping to a later 501/503/505 bay.
+Classification: **DOCUMENTED / DIRECT** for visible `E. E. WILLIAMS`; **PROBABLE / WORKING HYPOTHESIS** for assignment to a specific later 501/503/505 storefront.
+Claim: The 1893 Sixth/Main streetcar photograph visibly names **E. E. WILLIAMS** on the east/right side of Main and visibly shows a separate **DRUGS** sign farther south. Together with the 1895 Welcome Arch transcription (`E-195`), this establishes a two-date photographic anchor for E. E. Williams on the same target-side Main Street frontage, while leaving the exact later numbered bay unresolved.
+Capture: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`.

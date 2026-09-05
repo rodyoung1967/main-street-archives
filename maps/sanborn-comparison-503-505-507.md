@@ -272,3 +272,7 @@ Dedicated sign review adds two alignment anchors on the steward-identified right
 CCHS `P-1317` (`S-217` / `E-197` / `IMG-0746`) is described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage later associated with 501/503/505 Main through tree branches. The image has no supplied exposure date and does not visibly print the later numbers.
 
 Use this frame as a photo/Sanborn alignment target, not a dated footprint map. Compare its partially obscured roof/wall sequence against `SM-005` (1892), `SM-006` (1900), `IMG-0742`, `IMG-0744`, and the fixed 1890 Sixth/Main views. A successful alignment may strengthen the target-frontage identification and help bracket the exposure date; it must not be used to assume building continuity across the 1922 fire/rebuild sequence.
+
+## 1893 Streetcar Helen / E. E. Williams comparison
+
+`S-218` / `E-198` / `IMG-0747` adds a fixed **1893 Sixth/Main looking-south** street-level comparison. The right/east storefront directly reads **E. E. WILLIAMS**, while the 1895 Welcome Arch image (`S-215` / `E-195` / `IMG-0744`) independently reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** on the target-side predecessor frontage. Use the repeated Williams sign, party walls, roof forms, facade widths and the 1892/1900 Sanborn geometry to resolve the individual later 501/503/505 bay. Do not backdate the later street numbers or infer physical continuity solely from the matching business name.

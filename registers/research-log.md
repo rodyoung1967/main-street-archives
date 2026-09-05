@@ -474,3 +474,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Catalog metadata supplied with the image gives **no exposure date**. The description's `B-016-005583` and Other Photo # `Back of B-0160.005583` variants were both retained rather than normalized.
 - Project steward identifies the predecessor frontage/building group later associated with 501/503/505 Main through the tree branches. Recorded as **PROBABLE / WORKING HYPOTHESIS** for exact later-address mapping; no individual address boundary, single-building claim or structural continuity inferred.
 - Best next step: align with 1892/1900 Sanborn, 1890 Sixth/Main photographs, and the 1895 bluff/Welcome-Arch views to test the target mapping and possibly bracket the exposure date.
+
+## 4 September 2026 — 1893 Streetcar Helen signage re-review
+
+- Recovered/integrated the steward-supplied **1893 Streetcar Helen** photograph at Sixth/Main as `IMG-0747` / `S-218` / `E-198`.
+- Enlarged visual review directly reads **E. E. WILLIAMS** on the right/east Main Street storefront and a separate **DRUGS** sign farther south.
+- This adds a 1893 visual anchor for the same **E. E. Williams** business independently read in the 1895 Welcome Arch photograph (`IMG-0744` / `E-195`).
+- Exact assignment of the Williams storefront to later **501, 503, or 505** remains unresolved pending 1892/1900 Sanborn and photo alignment.

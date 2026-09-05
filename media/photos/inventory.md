@@ -175,3 +175,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - View: elevated Oregon City from the Fifth Street bluff, partially obscured by trees.
 - Steward target note: predecessor frontage later associated with 501/503/505 is visible through branches.
 - Limit: individual later-address boundaries, date and structural continuity remain unresolved.
+
+### IMG-0747 — 1893 Streetcar Helen at Sixth/Main
+- File: `media/photos/early-main-street/IMG-0747_1893-streetcar-helen-sixth-main-ee-williams.jpg`
+- Source/evidence: `S-218` / `E-198`
+- Steward original: `Oregon City 1893 - Streetcar Helen - Oregon City's First Streetcar.jpg`; 2048×1332; SHA-256 `db0f1a09d0394c33adc313628091ed418832eaefdb46ab326c6485c384cf6f03`.
+- Direct visual finding: **E. E. WILLIAMS** is legible on the right/east Main Street storefront; **DRUGS** is legible farther south.
+- Comparison value: earlier anchor for the E. E. Williams grocery sign independently visible in the 1895 Welcome Arch photograph; exact later 501/503/505 bay remains unresolved.

@@ -1478,3 +1478,18 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Review: **VISUALLY VERIFIED 4 September 2026**. Elevated downtown scene framed/obscured by trees; project steward identifies probable predecessor 501/503/505 frontage through branches.
 - Boundary: exact individual later-address assignment, exposure date and structural continuity remain unresolved.
 - Related source/evidence/timeline: `S-217` / `E-197` / `T-080`.
+
+## IMG-0747 — 1893 Streetcar Helen at Sixth/Main; E. E. Williams visible
+- Type: Historic street-level photograph
+- Date: **1893**
+- Location: **Sixth and Main, Oregon City; looking south along Main toward Fifth**
+- Source/Evidence: `S-218` / `E-198`
+- Repository file: `media/photos/early-main-street/IMG-0747_1893-streetcar-helen-sixth-main-ee-williams.jpg`
+- Repository dimensions: **2400 × 1562**
+- Repository bytes: **1,069,896**
+- Repository SHA-256: `3a1c856132558c6589ced204975a948863f4b7163e9d8cc58332443e98ce0931`
+- Steward original filename: `Oregon City 1893 - Streetcar Helen - Oregon City's First Streetcar.jpg`
+- Steward original dimensions/bytes/SHA-256: **2048 × 1332**, **1,159,631 bytes**, `db0f1a09d0394c33adc313628091ed418832eaefdb46ab326c6485c384cf6f03`
+- Direct signage: **E. E. WILLIAMS**; separate **DRUGS** sign farther south.
+- Interpretation limit: do not assign Williams to later 501 vs 503 vs 505 until Sanborn/photo alignment resolves the individual storefront boundary.
+- Review: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`.

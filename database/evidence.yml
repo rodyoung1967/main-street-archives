@@ -3009,3 +3009,18 @@ evidence:
     confidence: "Very High for catalog identity/view description and visible scene; probable/working hypothesis for exact target-frontage mapping; exposure date unresolved."
     related_sources: [S-217]
     related_buildings: [B-005, B-001, B-002]
+
+  - id: E-198
+    name: 1893 E. E. Williams storefront visible in Streetcar Helen photograph
+    type: Primary photographic evidence
+    claims:
+      - The 1893 Sixth/Main Streetcar Helen photograph directly shows E. E. WILLIAMS on the right/east Main Street storefront.
+      - A separate DRUGS sign is directly visible farther south on the same side.
+      - The matching E. E. Williams name in the 1895 Welcome Arch photograph provides a two-date visual business/signage anchor, while the individual later 501/503/505 storefront assignment remains unresolved.
+    confidence: Very High for visible sign transcription; Moderate / working hypothesis for exact later-address bay mapping.
+    related_sources:
+      - S-218
+    related_buildings:
+      - B-005
+      - B-001
+      - B-002

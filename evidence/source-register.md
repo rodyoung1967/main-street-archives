@@ -1668,3 +1668,12 @@ Repository image: `media/photos/early-main-street/IMG-0746_undated-oregon-city-v
 Source capture: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`  
 Related evidence/media/timeline: `E-197` / `IMG-0746` / `T-080`.  
 Notes: CCHS describes the image as **Oregon City from the Bluff at 5th Street** and supplies no exposure date in the steward metadata. Project steward identifies the predecessor frontage/building group later associated with 501/503/505 Main as visible through tree branches. Treat exact individual later-address mapping as **PROBABLE / WORKING HYPOTHESIS**. Preserve the description's `B-016-005583` and Other Photo # `Back of B-0160.005583` as separate supplied strings. Steward SHA-256 `f3218dbee1c625ffd253968052269e6027844f5e61eafe957605e813b7778698`; committed derivative SHA-256 `da038d67b1a6ba210ae96939df8c0167b703e7ae69979ac8054a2857c6b6f726`.
+
+## S-218 — 1893 Streetcar Helen at Sixth/Main photograph
+Type: Historic photograph / institutional-photo evidence
+Date: 1893
+Location: Sixth and Main, Oregon City, Oregon
+Repository image: `media/photos/early-main-street/IMG-0747_1893-streetcar-helen-sixth-main-ee-williams.jpg`
+Capture: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`
+Steward original: `Oregon City 1893 - Streetcar Helen - Oregon City's First Streetcar.jpg`; 2048×1332; SHA-256 `db0f1a09d0394c33adc313628091ed418832eaefdb46ab326c6485c384cf6f03`.
+Finding: direct visual review reads **E. E. WILLIAMS** on the right/east Main Street storefront and **DRUGS** farther south. The Williams sign provides an earlier visual comparison to the independently transcribed 1895 E. E. Williams grocery sign (`S-215`/`E-195`). Exact later 501/503/505 assignment remains unresolved.
