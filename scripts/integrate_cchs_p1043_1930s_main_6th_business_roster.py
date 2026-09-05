@@ -416,7 +416,7 @@ for path, addr in (("timelines/503-main.md", "503"), ("timelines/505-main.md", "
         append_once(path, f"| 1930–1939 | P-1043 block-sequence context", f'''| 1930–1939 | P-1043 block-sequence context | CCHS `P-1043` looks south from Sixth toward Fifth and preserves a dense west-side odd-number storefront-sign sequence. Exact `{addr}` sign/occupant is not securely readable in this frame; use it as spatial/address-sequence context and cross-check with `P-1128`. | `{EID}`; `{SID}`; `{MID}` |''')
 
 append_once("database/sources.yml", f"  - id: {SID}", f'''  - id: {SID}
-    name: "CCHS P-1043 — Oregon City 1930s, streetcar on Main at 6th"
+    name: "CCHS P-1043, 1930s Main Street from Sixth toward Fifth"
     url: "{HUB}"
     type: Primary historic streetscape photograph with CCHS institutional catalog metadata
     date: "1930-1939"
