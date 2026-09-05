@@ -26,6 +26,22 @@ jobs:
         run: pip install PyYAML
       - name: Integrate directory production and retrieval route
         run: python3 scripts/integrate_1946_1948_clackamas_directory_production_route.py
+      - name: Normalize structured evidence names
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('database/evidence.yml')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace(
+              'name: "Pacific Directory Service county-directory data collection underway August-September 1946"',
+              'name: "Pacific Directory Service county-directory data collection underway August–September 1946"',
+          )
+          text = text.replace(
+              'name: "1947-48 Clackamas County Directory publication availability and retrieval route"',
+              'name: "1947–48 Clackamas County Directory publication/availability and retrieval route"',
+          )
+          p.write_text(text, encoding='utf-8')
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
