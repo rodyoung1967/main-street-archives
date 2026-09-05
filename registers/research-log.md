@@ -608,3 +608,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Cross-source comparison with the August Gates construction reports (`E-097`) makes that building a **strong candidate for the newly completed Gates fire-replacement**.
 - Preserved the critical limit: the archive has **not** proved that the July fire-destroyed restaurant building was modern-numbered 501, nor that the replacement equals 501 alone rather than 501+503 or another arrangement.
 - This adds a high-value visual bridge but does not alter the 1922 annual status.
+
+### 2026-09-05 — P-1043 Fain's address-sequence follow-up
+<!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->
+- Followed the steward request to tie readable P-1043 signs to numbered addresses rather than leaving the photo as a sign roster only.
+- Official Historic Oregon Newspapers indexed text for *The Amplifier*, **1 March 1943 p.4**, places **Fain's Men's Store at 511 Main, Oregon City** (`S-240` / `E-214` / `BUS-099`).
+- The original scan/PDF could not be opened in the current retrieval route, so the 1943 address remains **OCR/TEXT ONLY**, not visually verified.
+- P-1043 independently and visually shows **FAIN'S MEN'S STORE** during 1930–1939; therefore Fain's=511 in the photographed state is now **PROBABLE / WORKING HYPOTHESIS**, not documented/direct continuity.
+- Targeted searches did not resolve a historic exact address for **Sandwich Nook**. Preserved that as an unresolved search result, not negative evidence.
+- Preserved—but did not promote—a secondary **Tourist Hotel 524½ Main (1932)** lead and later **American Cleaners 502/506 Main (1953+)** directory-summary context. The City historic-resource association of Oregon City Auto Parts with 1020–1024 Main is geographically outside the photographed block and is not used to assign the P-1043 sign.
+- No annual closeout status changed.

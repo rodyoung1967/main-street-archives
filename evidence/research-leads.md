@@ -366,3 +366,10 @@ Primary goals: assign exact numbered addresses; narrow the photograph's exposure
 ### 5 September 2026 — P-9594 November 1922 visual bridge (`RL-010` / `RL-019` / 1922 Gates model)
 
 CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) supplies a description-dated **November 1922** photograph only months after the July fire and August Gates construction reports. The light-toned Fifth/Main candidate building is now the strongest photographic candidate for the newly completed Gates replacement. Next test: align P-9594 against the **1925 Sanborn Sheet 6** and securely mapped later street/aerial views using the Electric Hotel block, Fifth/Main crossing, bridge approach and surviving block edges. The goal is to test **501 alone vs. 501+503**, not to assume either model. Do not rewrite the July fire as a proved '501 burned' event unless an independent numbered-premises bridge is recovered.
+
+### P-1043 address-sequence follow-up — Fain's later 511 anchor
+<!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->
+
+`S-240` / `E-214` adds official Historic Oregon Newspapers **page text** placing **Fain's Men's Store at 511 Main** on 1 March 1943. Because the scan was not visually opened, keep that exact-address item **OCR/TEXT ONLY**. Read with visually verified P-1043, this makes `Fain's = 511` in the 1930s photographed state **PROBABLE**, not direct.
+
+Next priority is now sharply defined: find **one 1930–1939 exact-address Fain source** and visually inspect it. Then use that fixed storefront to walk the P-1043 west-side sequence toward 509, 507, 505 and 503. **Sandwich Nook** remains the highest-value adjacent exact-address target; targeted online search in this pass did not resolve it. Tourist Hotel `524½` is secondary-only and American Cleaners `502/506` is later-only context, so neither is yet a controlling 1930s anchor.

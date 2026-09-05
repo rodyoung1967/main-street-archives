@@ -126,3 +126,11 @@ This image can become a strong **address-sequence control** by matching its visi
 - **PROBABLE / CROSS-SOURCE ALIGNMENT LEAD:** Rexall/Drugs grouping as Harding Drug Store context.
 - **UNRESOLVED:** exact addresses for most visible businesses; exact exposure year inside 1930–1939; identity continuity for American Cleaners; direct identification of 503 or 505 in this frame.
 - **NO NEGATIVE INFERENCE:** inability to read a Farr/503/505 sign in this distant perspective is not evidence that a business was absent.
+
+### 1943 Fain's 511 Main follow-up
+
+Follow-up `S-240` / `E-214` finds official Historic Oregon Newspapers indexed text for ***The Amplifier***, **1 March 1943 p.4**, associating **Fain's Men's Store with 511 Main, Oregon City**. The original scan was not visually opened in that research session, so the address is **OCR/TEXT ONLY** pending scan inspection.
+
+This materially strengthens the west-side sequence reconstruction but does **not** yet turn the P-1043 storefront into a documented 511 address. The photo is dated only 1930–1939; a contemporary 1930s exact-address source is still needed to prove continuity. Current state: **PROBABLE that the photographed Fain's storefront is 511 Main**.
+
+Targeted follow-up did not recover a reliable historic exact-number source for **Sandwich Nook**, so it remains unresolved. A secondary 1932 `524½ Main` Tourist Hotel lead and later `502/506 Main` American Cleaners directory-summary data are retained as leads/context only, not promoted to controlling P-1043 address assignments. See `evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md`.

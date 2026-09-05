@@ -1220,3 +1220,13 @@ businesses:
     related_evidence: [E-205]
     related_sources: [S-231]
     related_media: [IMG-0752]
+
+  - id: BUS-099
+    name: "Fain's Men's Store"
+    repository_file: businesses/fains-mens-store.md
+    address: "511 Main by 1 March 1943 official page text (OCR/TEXT ONLY); exact P-1043 1930s address not yet proved"
+    notes: "CCHS P-1043 directly shows Fain's Men's Store during 1930-1939. Historic Oregon Newspapers indexed text gives 511 Main in 1943; continuity and exact 1930s number remain to verify."
+    related_evidence: [E-211, E-214]
+    related_sources: [S-237, S-240]
+    related_media: [IMG-0758]
+

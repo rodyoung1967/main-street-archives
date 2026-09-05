@@ -1896,3 +1896,13 @@ Capture: `evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fif
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city  
 Related evidence/media: `E-213` / `IMG-0760`.  
 Notes: Broad bridge/downtown view. A light-toned Fifth/Main corner building is a strong cross-source candidate for the Gates fire-replacement documented under `E-097`, but exact 501/503/505 mapping remains unresolved.
+
+## S-240 — 1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead
+<!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->
+Type: Historic Oregon Newspapers official page text / newspaper source; **OCR/TEXT ONLY — scan not visually verified in this session**.  
+Date: **1 March 1943**  
+Page: **4**  
+URL: https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/  
+Related evidence/business/photo: `E-214` / `BUS-099` / `S-237` / `E-211` / `IMG-0758`.  
+Capture: `evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md`.  
+Notes: Official indexed page text places **FAIN'S MEN'S STORE** at **511 Main Oregon City**. The original scan/PDF could not be opened through the available retrieval route, so do not label the transcription visually verified. This is a later exact-address anchor, not proof that the 1930–1939 P-1043 storefront was already 511 or that occupancy was uninterrupted.

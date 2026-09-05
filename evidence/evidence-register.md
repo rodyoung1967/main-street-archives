@@ -1960,3 +1960,19 @@ Claims:
 - The image does **not** prove that the replacement equals modern 501 alone, that 501 specifically was the July fire-destroyed building, or that Gates's two ground-floor rooms became the later 501+503 pair.
 Classification: **DOCUMENTED / DIRECT** for object/date/scene; **STRONG CROSS-SOURCE INFERENCE** for Gates-replacement identification; **UNRESOLVED** for exact modern-number footprint.  
 Confidence: **Very High** for CCHS object/date metadata and broad scene; **High** for the Gates-replacement visual candidate; unresolved for 501-vs-501+503 mapping.
+
+## E-214 — 1943 page text places Fain's Men's Store at 511 Main; 1930s P-1043 mapping remains probable
+<!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->
+Source: `S-240`  
+Related photograph/evidence: `S-237` / `E-211` / `IMG-0758`  
+Related business: `BUS-099`  
+Type: Newspaper exact-address text lead plus cross-source photographic comparison  
+Claims:
+- Historic Oregon Newspapers indexed text for ***The Amplifier***, **1 March 1943, p.4**, places **Fain's Men's Store at 511 Main, Oregon City**.
+- The page scan was not successfully opened in this research session; the 1943 address evidence is therefore **OCR/TEXT ONLY** pending visual inspection.
+- Independently, CCHS `P-1043` directly shows **FAIN'S MEN'S STORE** in the 1930–1939 west-side Main Street sequence.
+- Combining the two makes **Fain's = 511 in the P-1043 photographed state probable**, but does not prove continuous occupancy or a 1930s exact address.
+- Targeted searches did not recover a reliable historic exact address for **Sandwich Nook**; that address remains unresolved rather than negatively inferred.
+- A Tourist Hotel 524½ Main statement was located only in a secondary biography and remains an unverified lead; later 502/506 American Cleaners directory-summary data does not establish the 1930s address.
+Classification: **OCR/TEXT ONLY** for the 1943 exact-address newspaper transcription; **DOCUMENTED / DIRECT** for the already-reviewed P-1043 Fain business-name sign; **PROBABLE / WORKING HYPOTHESIS** for Fain at 511 during the P-1043 exposure.  
+Confidence: **High** that the official indexed 1943 page text associates Fain's with 511; **Unresolved pending scan** for exact visual transcription; **Probable** for the 1930s photo-address mapping.

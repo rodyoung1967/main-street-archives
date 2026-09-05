@@ -3250,3 +3250,20 @@ evidence:
     related_media: [IMG-0760]
     related_buildings: [B-001, B-002, B-005]
     repository_file: "evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fifth-main-2026-09-05.md"
+
+  - id: E-214
+    name: "1943 page text places Fain's Men's Store at 511 Main; 1930s P-1043 mapping remains probable"
+    type: "Newspaper exact-address text lead plus cross-source photographic comparison"
+    date: "1943-03-01"
+    claims:
+      - "Historic Oregon Newspapers indexed text for The Amplifier, 1 March 1943 p.4, places Fain's Men's Store at 511 Main, Oregon City."
+      - "The scan was not successfully opened in this session, so the 1943 address is OCR/TEXT ONLY pending visual verification."
+      - "CCHS P-1043 independently and directly shows Fain's Men's Store in the 1930-1939 west-side Main Street sequence."
+      - "Fain's at 511 in the P-1043 photographed state is probable, not yet documented/direct, because continuity back from 1943 is unproved."
+      - "Sandwich Nook exact address remains unresolved after targeted online search; no absence inference is made."
+    confidence: "High for the official 1943 indexed-text association; unresolved pending scan visual verification; probable for the 1930s P-1043 511 mapping."
+    related_sources: [S-240, S-237]
+    related_businesses: [BUS-099]
+    related_media: [IMG-0758]
+    repository_file: "evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md"
+

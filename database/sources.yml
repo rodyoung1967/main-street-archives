@@ -1385,3 +1385,15 @@ sources:
     notes: "CCHS P-9594 bridge/downtown view. Light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the Gates fire-replacement documented in E-097; exact 501/503/505 mapping remains unresolved."
     related_evidence: [E-213]
     related_media: [IMG-0760]
+
+  - id: S-240
+    name: "1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead"
+    url: "https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/"
+    type: "Historic Oregon Newspapers official page text / newspaper source; OCR/TEXT ONLY pending scan inspection"
+    date: "1943-03-01"
+    repository_file: "evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md"
+    notes: "Official indexed page text associates Fain's Men's Store with 511 Main Oregon City. Scan not visually opened in this session; later exact-address anchor only, not proof of 1930s P-1043 address continuity."
+    related_evidence: [E-214]
+    related_businesses: [BUS-099]
+    related_media: [IMG-0758]
+
