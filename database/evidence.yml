@@ -3053,3 +3053,30 @@ evidence:
     related_buildings: [B-001, B-002, B-003]
     related_media: [IMG-0749]
     repository_file: evidence/source-captures/cchs-p4565-mid-1960s-main-fifth-business-lineup-2026-09-04.md
+
+  - id: E-201
+    name: "Pacific Directory Service county-directory data collection underway August–September 1946"
+    type: "Primary newspaper OCR/text-only production evidence"
+    claims:
+      - "Pacific Directory Service was compiling a county-wide Clackamas County directory in August-September 1946 using house-to-house canvassing in incorporated cities and more than 15,000 rural questionnaires."
+      - "The eventual printed directory year must not automatically be used as an exact occupancy observation date."
+      - "Linkage of the 1946 campaign to the later 1947-48/1948 county volume is a strong cross-source inference, not direct proof."
+    confidence: "Very High for compilation method; High but not direct for edition linkage."
+    related_sources: [S-221, S-222]
+    related_businesses: [BUS-013, BUS-014]
+    related_buildings: [B-002]
+    repository_file: evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md
+
+  - id: E-202
+    name: "1947–48 Clackamas County Directory publication/availability and retrieval route"
+    type: "Cross-source publication and holdings reconstruction"
+    claims:
+      - "Oregon City's March 3 1948 report of February claims includes Pacific Directory Service and a Directory item; exact dollar amount is withheld because OCR flattened the table geometry."
+      - "A new Clackamas County Directory was available at the Sandy branch of the county library by July 8 1948."
+      - "CCHS later explicitly used Pacific Directory, 1947-48; official Oregon City and Lake Oswego bibliographies identify Pacific Directory Service and use 1948 versus 1947-1948 date forms."
+      - "FamilySearch catalog 95422 is a 1960-forward R. L. Polk series, not the target Pacific Directory Service volume."
+    confidence: "Very High for individual source statements; High for edition/provenance reconstruction; target Farr/Harr listing still uninspected."
+    related_sources: [S-223, S-224, S-225, S-226, S-227, S-228]
+    related_businesses: [BUS-013, BUS-014]
+    related_buildings: [B-002]
+    repository_file: evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md

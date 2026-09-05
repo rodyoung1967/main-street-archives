@@ -334,3 +334,9 @@ A secondary lead is whether cataloged **Richard Friedrichs** (`P-392`) is relate
 ### Rain Check Room sign in CCHS P-4565
 
 The circa-mid-1960s photograph `IMG-0749` directly shows **RAIN CHECK Room / BREAKFAST / LUNCH & DINNERS** on the facade zone associated spatially with the Wheel/503 corner. Determine from directories, advertisements, liquor/restaurant licenses, or telephone books whether **Rain Check Room** was a room/trade style within The Wheel, a separate business, or an adjacent operation. Do not merge it into `BUS-004` without an independent name/address bridge. Related `S-220` / `E-200`.
+
+### Recover Pacific Directory Service 1947–48 Clackamas County volume
+
+Highest-value Farr→Harr source target. The production/retrieval reconstruction in `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md` (`E-201` / `E-202`) shows county-wide data gathering underway in Aug.–Sep. **1946**, a Pacific Directory Service **Directory** expense in Oregon City's February 1948 claims cycle, county-library availability by 8 July 1948, and CCHS's later explicit use of a **Pacific Directory, 1947-48**.
+
+Primary route: **Wilmer Gardner Research Library / Clackamas County Family History Society and CCHS**. Request the actual volume/title page and scans of all Harr, Farr, 505/505½ Main, 501–511 Main, and pool/billiards/recreation classified/address sections. Also capture front matter describing canvass and publication dates. Historic Ticor Title Company citations are a secondary provenance lead. FamilySearch catalog 95422 is excluded because it begins with the 1960 R. L. Polk series.

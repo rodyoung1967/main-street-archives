@@ -505,3 +505,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - LDSGenealogy identifies **Oregon City, Oregon, City Directory, 1941** in Ancestry's U.S. City Directories collection as **Image: online**; the images were not inspected in this pass.
 - An official West Linn historic nomination independently cites **Pacific Directory Service 1941 Directory: Oregon City-West Linn-Gladstone**, strengthening the directory's publisher/scope control without adding any Farr/Harr/505 occupant claim.
 - The Farr's Pool Hall → Harr's Recreation Center transition date remains unresolved.
+
+### 2026-09-04 — 1946–48 Clackamas County Directory production and retrieval route
+- Added `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md` with new evidence `E-201` / `E-202` and sources `S-221`–`S-228`.
+- 1 Aug. and 5 Sep. 1946 *Sandy Post* notices show Pacific Directory Service actively compiling a county-wide directory using house-to-house canvassing plus more than 15,000 rural questionnaires. Newspaper scan images were not visually certified, so these remain OCR/TEXT ONLY.
+- Corrected the existing March 1948 municipal directory clue: the text extraction supports Pacific Directory Service + Directory in the February-claims table, but **not a safely assigned dollar amount**; the earlier `$9.75` statement is withdrawn pending visual table inspection.
+- Preserved 8 Jul. 1948 Sandy-library availability, CCHS's later use of **Pacific Directory, 1947-48**, official 1947-48/1948 bibliographic variants, historic Ticor provenance, and FamilySearch catalog 95422 as a non-target 1960-forward Polk series.
+- Key interpretive change: any eventual Farr/Harr hit in the 1947–48 directory may reflect **late-1946 canvass data** and must not be dated mechanically from the edition label.
+- Farr's Pool Hall → Harr's Recreation Center transition date remains unresolved.

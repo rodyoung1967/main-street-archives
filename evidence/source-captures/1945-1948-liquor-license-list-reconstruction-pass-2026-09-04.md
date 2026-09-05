@@ -117,7 +117,7 @@ Official Oregon City WebDrawer record:
 
 Municipal page **474** begins the **11 February 1948 special meeting** that already names **Messrs. Harr and McDougald** as pool-hall operators requesting card-playing permission. The same record continues into the **3 March 1948 regular meeting** and its February claims.
 
-On municipal page **477**, the claims text pairs **Pacific Directory Service** with the description **Directory** and an amount of **$9.75** in the OCR-aligned expense list.
+On municipal page **477**, the extracted claims text places **Pacific Directory Service** in the vendor sequence and **Directory** in the corresponding item-description sequence. Because the OCR/text extraction flattens the multi-column table, the dollar amount cannot be safely assigned without visual page inspection; the previous **$9.75** reading is withdrawn as overprecise.
 
 Treat this only as evidence that Oregon City paid Pacific Directory Service for a directory in the February 1948 claims cycle. The line does **not** print a title or edition, so it does not by itself prove that the purchased item was the 1947–48 Clackamas County Directory and does not expose any Farr/Harr/505 entry.
 
@@ -205,6 +205,12 @@ When located, inspect the complete Oregon City alphabetic/classified/address cov
 - 505 Main / 505½ Main;
 - pool / billiard / recreation / tavern / beer / cigars / tobacco headings;
 - neighboring 501–511 Main entries.
+
+### Dedicated 1946–1948 production / retrieval reconstruction
+
+See `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md` (`E-201` / `E-202`). New 1 August and 5 September 1946 *Sandy Post* notices establish that Pacific Directory Service was then gathering county-directory data through house-to-house canvassing and rural questionnaires. This means an eventual Farr/Harr hit in the volume later labeled 1947–48/1948 cannot be dated solely from the printed edition year; the front matter and listing context must be checked for canvass/publication lag.
+
+The same reconstruction also preserves the February 1948 Oregon City directory expense, July 1948 Sandy-library availability, CCHS's later explicit use of a Pacific Directory 1947-48, official bibliographic variants, and the FamilySearch 95422 exclusion.
 
 ## Current Farr → Harr conclusion
 

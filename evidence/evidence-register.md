@@ -1764,3 +1764,32 @@ Claims:
 - This provides visual pre-fire context for businesses independently named in the 1 September 1967 fire report (`E-045`), and corroborates the 1965 505 Tavern renewal (`E-029`) and 1964 Dixon's 509 Main advertisement (`E-129`).
 Classification: **DOCUMENTED / DIRECT** for visible lettering and institutional catalog description; **STRONG CROSS-SOURCE CONTEXT** for the pre-1967-fire lineup; exact exposure date and several exact storefront numbers unresolved.
 Confidence: **Very High** for visible signage and P-4565 identity; **High** for broad circa-mid-1960s/pre-fire context; location wording conflict preserved rather than resolved by assumption.
+
+## E-201 — Pacific Directory Service county-directory data collection underway August–September 1946
+Type: Primary newspaper OCR/text-only production evidence; sources `S-221` and `S-222`.
+Evidence state: **DOCUMENTED / DIRECT** for the 1946 compilation campaign and collection method; **STRONG CROSS-SOURCE INFERENCE** that this campaign produced the later-labeled 1947–48/1948 Clackamas County volume.
+Claims:
+- Pacific Directory Service was compiling a new county-wide Clackamas County directory in August and September 1946.
+- Incorporated-city data was to be gathered by house-to-house canvass; rural data used more than 15,000 mailed questionnaires.
+- Requested/listed fields included business/occupation and home/business address data, making the volume directly relevant to 505 Main occupancy research.
+- The eventual printed year must not automatically be treated as the observation date because the documented canvass began in 1946.
+Confidence: Very High for the OCR-described compilation method; High but not direct for linkage to the later 1947–48/1948 edition.
+Related sources: `S-221`, `S-222`.
+Related businesses: `BUS-013`, `BUS-014`.
+Related building: `B-002`.
+Record: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+
+## E-202 — 1947–48 Clackamas County Directory publication/availability and retrieval route
+Type: Cross-source publication/holdings reconstruction; sources `S-223`, `S-224`, `S-225`, `S-226`, `S-227`, `S-228`.
+Evidence state: **DOCUMENTED / DIRECT** for each source's own statement; **STRONG CROSS-SOURCE INFERENCE** that the bibliographic 1947–48 and 1948 labels describe the same Pacific Directory Service county volume and that the 1946 campaign produced it.
+Claims:
+- Oregon City's March 3, 1948 report of February claims includes Pacific Directory Service and an item described as Directory; the flattened OCR does not safely preserve the amount.
+- By 8 July 1948 the Sandy branch of the Clackamas County library had a newly issued Clackamas County Directory available for use.
+- CCHS later explicitly used a source it called Pacific Directory, 1947-48.
+- Oregon City's 2000 bibliography cites Pacific Directory Service, Directory of Clackamas County, 1948; Lake Oswego's 2014 survey cites Pacific Directory Service, 1947–1948 Directory of Clackamas County.
+- FamilySearch catalog 95422 is a 1960-forward R. L. Polk series and is not the target 1947–48 Pacific Directory Service edition.
+Confidence: Very High for the individual source statements; High for the edition-identity/provenance reconstruction; no confidence upgrade to Farr/Harr occupancy until the actual target pages are inspected.
+Related sources: `S-223`, `S-224`, `S-225`, `S-226`, `S-227`, `S-228`.
+Related businesses: `BUS-013`, `BUS-014`.
+Related building: `B-002`.
+Record: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.

@@ -9,3 +9,7 @@ Commission text of 11 February 1948 names Harr as a pool-hall operator without f
 This proves Harr's is not a Farr transcription error. Farr's is a separate business; transition date, opening/closing, exact 1945 directory citation, and property ownership remain unresolved.
 
 See the [505 Main unified timeline](../timelines/505-main.md).
+
+## 1946–1948 county-directory timing caution
+
+The target Pacific Directory Service county volume later cited as **1947–48 / 1948** is now tied to a documented county-wide data-gathering campaign underway in **August–September 1946** (`E-201` / `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`). If Harr / Harr's Recreation Center appears at 505 in the eventual directory pages, the listing may reflect a late-1946 canvass rather than a condition first observed in 1948; the actual page and front matter remain required.

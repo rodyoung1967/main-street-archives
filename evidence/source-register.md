@@ -1701,3 +1701,67 @@ Capture: `evidence/source-captures/cchs-p4565-mid-1960s-main-fifth-business-line
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1960s-street-scene-corner-of-main-and-mcloughlin
 Related evidence/media/timeline: `E-200` / `IMG-0749` / `T-081`.
 Notes: Directly readable signs include **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid's/Restaurant. The image visibly shows **5th ST / MAIN** street blades; CCHS's supplied title/description instead says Main and McLoughlin Blvd., so both are preserved as a location-wording conflict.
+
+## S-221 — Sandy Post, 1 August 1946, Clackamas County Directory compilation advertisement
+Type: Primary newspaper OCR/text only.
+Date: 1 August 1946.
+URL: https://oregonnews.uoregon.edu/lccn/2024240281/1946-08-01/ed-1/seq-3/ocr/
+Related evidence: `E-201`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Pacific Directory Service county-wide directory campaign; house-to-house canvass and rural questionnaire methodology. Scan not visually certified in this pass.
+
+## S-222 — Sandy Post, 5 September 1946, Clackamas County Directory compilation notice
+Type: Primary newspaper OCR/text only.
+Date: 5 September 1946.
+URL: https://oregonnews.uoregon.edu/lccn/2024240281/1946-09-05/ed-1/seq-4/ocr/
+Related evidence: `E-201`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Follow-up Pacific Directory Service county-wide compilation notice; canvass/questionnaire fields. Scan not visually certified in this pass.
+
+## S-223 — Oregon City Commission, March 3 1948 February claims, Pacific Directory Service Directory
+Type: Primary municipal OCR/text only.
+Date: 3 March 1948 meeting; report covers February 1948 claims.
+URL: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Municipal p.477 extracted table places Pacific Directory Service in vendor sequence and Directory in item sequence. Exact dollar amount withheld pending visual table inspection.
+
+## S-224 — Sandy Post, 8 July 1948, new Clackamas County Directory at Sandy library branch
+Type: Primary newspaper OCR/text only.
+Date: 8 July 1948.
+URL: https://oregonnews.uoregon.edu/lccn/2024240281/1948-07-08/ed-1/seq-5.pdf
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Contemporary notice that a new Clackamas County Directory was available at Sandy branch of the county library. Publisher/edition not printed in notice.
+
+## S-225 — CCHS 2012 Facts You Should Know About Oregon City citing Pacific Directory 1947-48
+Type: Institutional secondary web source.
+Date: 27 February 2012.
+URL: https://clackamascountyhistoricalsociety.wordpress.com/2012/02/27/facts-you-should-know-about-oregon-city/
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: CCHS explicitly credits Pacific Directory, 1947-48; strong modern retrieval/provenance lead, not target occupancy evidence.
+
+## S-226 — Oregon City 2000 Downtown Final Report bibliography, Pacific Directory Service Directory of Clackamas County 1948
+Type: Official secondary bibliography.
+Date: 2000.
+URL: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Official bibliography identifies Pacific Directory Service, Directory of Clackamas County, Portland, 1948.
+
+## S-227 — Lake Oswego 2014 historic survey bibliography, Pacific Directory Service 1947-1948 Directory of Clackamas County
+Type: Official secondary bibliography.
+Date: 2014.
+URL: https://www.ci.oswego.or.us/sites/default/files/fileattachments/boc_hrab/webpage/18280/103_107_burnham_road_ils.pdf
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Official bibliography uses the 1947-1948 date form for Pacific Directory Service Directory of Clackamas County.
+
+## S-228 — FamilySearch catalog 95422 Oregon City directory, 1960-forward R. L. Polk control
+Type: Current institutional catalog HTML.
+Date: catalog reviewed 4 September 2026.
+URL: https://www.familysearch.org/en/search/catalog/95422
+Related evidence: `E-202`.
+Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+Notes: Control/exclusion: catalog 95422 is R. L. Polk, publication 1960-forward, and does not establish the 1947-48 Pacific Directory Service volume.
