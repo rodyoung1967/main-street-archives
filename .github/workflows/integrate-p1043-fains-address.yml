@@ -30,6 +30,17 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python3 scripts/integrate_p1043_fains_511_address_lead.py
+            python3 - <<'PY'
+          from pathlib import Path
+          p=Path('database/sources.yml')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('name: "1 March 1943 The Amplifier p.4 — Fain\'s Men\'s Store at 511 Main page-text lead"', 'name: "1 March 1943 *The Amplifier* p.4, Fain\'s Men\'s Store 511 Main page-text lead"')
+          p.write_text(s,encoding='utf-8')
+          p=Path('database/evidence.yml')
+          s=p.read_text(encoding='utf-8')
+          s=s.replace('name: "1943 page text places Fain\'s Men\'s Store at 511 Main; 1930s mapping remains probable"', 'name: "1943 page text places Fain\'s Men\'s Store at 511 Main; 1930s P-1043 mapping remains probable"')
+          p.write_text(s,encoding='utf-8')
+          PY
             python3 scripts/validate_archive.py
             git add -A
             if git diff --cached --quiet; then
