@@ -56,3 +56,7 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 ## Mid-1960s P-4565 photograph
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) catalogs **The Wheel** in this circa-mid-1960s Main Street lineup. Wheel motifs are directly visible on the 503-side frontage; the words “The Wheel” are not clearly readable in the scan. A **RAIN CHECK Room / BREAKFAST / LUNCH & DINNERS** sign is directly visible on the same facade zone, but its relationship to The Wheel is unresolved.
+
+## 1955–1965 P-1311 bluff photograph
+
+CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`), cataloged **1955–1965**, provides an elevated same-frame view of 503 and 505 Main. Enlarged review supports **The Wheel** wording/signage on the 503 frontage and **505 Tavern / Tavern 505** on the adjacent 505 frontage. This strengthens the physical separation of the two businesses but does not supply an exact exposure year.

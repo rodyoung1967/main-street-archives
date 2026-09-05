@@ -3128,3 +3128,21 @@ evidence:
     related_businesses: [BUS-097, BUS-098]
     related_media: [IMG-0752]
     repository_file: evidence/source-captures/cchs-p4563-mid-1960s-northeast-5th-main-american-cleaners-outdoor-store-2026-09-05.md
+
+  - id: E-206
+    name: "1955-1965 bluff photograph documents The Wheel at 503 and 505 Tavern signage at 505"
+    type: "Primary photographic evidence with institutional catalog metadata"
+    claims:
+      - "CCHS P-1311 is cataloged with a 1955-1965 Date made range; exact exposure year is unresolved."
+      - "Enlarged review supports The Wheel wording/signage on the 503 Main frontage."
+      - "Enlarged review supports 505 Tavern / Tavern 505 signage on the adjacent 505 Main frontage."
+      - "The photograph documents the two businesses as separate neighboring occupancies in the photographed state, but does not prove continuous operation throughout 1955-1965."
+    confidence: "Very High for object identity, catalog date range and sign identifications; exact exposure year unresolved."
+    related_sources:
+      - S-232
+    related_buildings:
+      - B-001
+      - B-002
+    related_businesses:
+      - BUS-004
+      - BUS-005

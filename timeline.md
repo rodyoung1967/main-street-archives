@@ -515,3 +515,9 @@ CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`) directly shows a **Mobil** servic
 CCHS `P-4563` (`S-231` / `E-205` / `IMG-0752`) documents **American Cleaners** and an **Outdoor Store** in a scene cataloged **circa mid-1960s** and explicitly described as **(5th and Main Street)**. The project steward identifies the pictured storefront group as the **northeast corner of 5th and Main**. The photograph supplies neighboring-corner/intersection context; it does not show the 503/505 facades.
 
 Related businesses: `BUS-097`, `BUS-098`.
+
+## T-085 — 1955–1965 — CCHS P-1311 bluff view shows The Wheel and 505 Tavern
+
+CCHS P-1311, cataloged 1955-1965, shows the 5th/Main target frontage from the bluff at 4th Street. Project-steward visual identification, supported by direct enlarged review, reads The Wheel on the 503 frontage and 505 Tavern signage on the adjacent 505 frontage. The broad catalog date range does not establish a single exposure year.
+
+Related source/evidence/media: `S-232` / `E-206` / `IMG-0753`. Related businesses/buildings: `BUS-004` / `B-001`; `BUS-005` / `B-002`.

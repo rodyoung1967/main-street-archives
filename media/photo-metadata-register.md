@@ -1560,3 +1560,16 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Related businesses: `BUS-097` American Cleaners; `BUS-098` A & K Outdoor Store / Outdoor Store
 - Location: visible/CCHS 5th and Main intersection; project steward identifies pictured storefront group as the **northeast corner**.
 - Visual findings: American Cleaners, Outdoor Store, Sporting Goods signage, Main/5th street blades, traffic signals, autos, roadway/track geometry and bluff.
+
+## IMG-0753 — CCHS P-1311, bluff at 4th looking northwest, 1955–1965
+- Type: Historic elevated streetscape / commercial-block photograph
+- CCHS catalog: `P-1311`
+- CCHS title: **Oregon City 1955 - from the Bluff at 4th Street Looking Northwest**
+- CCHS Date made: **1955–1965**; exact exposure year unresolved
+- Repository file: `media/photos/main-street/IMG-0753_1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-cchs-p1311.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1894**; 789,479 bytes; SHA-256 `9ebb56e79da912ab2ad8649bf3f2f0d07f124eca2fc264923213585c512c4599`
+- Steward original: `Oregon City 1955 - from the Bluff at 4th Street Looking Northwest.jpg`; 2048×1616; 909,725 bytes; SHA-256 `e04639c56001073eed1c010708298ca50460e0380b8e004509732328696bde98`
+- Source/Evidence/Timeline: `S-232` / `E-206` / `T-085`
+- Related buildings/businesses: `B-001` / `BUS-004` (503 / The Wheel); `B-002` / `BUS-005` (505 / 505 Tavern)
+- Visual findings: enlarged review supports The Wheel wording/signage on 503 and 505 Tavern / Tavern 505 signage on adjacent 505 in the same frame.

@@ -64,3 +64,5 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 | Circa mid-1960s | CCHS `P-4565` photographs The Wheel/503 facade with wheel motifs beside the directly signed **TAVERN / 505** frontage; visible 5th/Main street blades. | Primary photograph + catalog; exact exposure date unresolved. | `E-200`; `S-220`; `IMG-0749` |
 
 | 1975 | CCHS `P-1293` aerial shows 503 ending materially sooner rearward than adjacent 505. | Direct relative-footprint evidence; no legal boundary or change date inferred. | `E-203`; `S-229`; `IMG-0750` |
+
+| 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **The Wheel** signage on the 503 frontage and **505 Tavern / Tavern 505** on adjacent 505. | **Direct photographic** same-frame business separation; catalog range only, not a 1955 opening/date claim. | `E-206`; `S-232`; `IMG-0753` |

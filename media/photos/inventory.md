@@ -214,3 +214,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-231` / `E-205`
 - CCHS: `P-4563`
 - Key value: documents the northeast 5th/Main neighboring corner, with American Cleaners and Outdoor Store directly/catalographically identified; target 503/505 facades are not shown.
+
+### IMG-0753 — 1955–1965 bluff-at-4th view of 503/505
+- File: `media/photos/main-street/IMG-0753_1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-cchs-p1311.jpg`
+- Source/evidence: `S-232` / `E-206`
+- CCHS: `P-1311`
+- Key value: same-frame elevated view of The Wheel at 503 and 505 Tavern signage at 505; exact exposure year within 1955–1965 unresolved.

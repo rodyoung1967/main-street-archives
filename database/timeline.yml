@@ -864,3 +864,18 @@ timeline:
     related_sources: [S-231]
     related_evidence: [E-205]
     related_businesses: [BUS-097, BUS-098]
+
+  - id: T-085
+    date: "1955-1965"
+    summary: "CCHS P-1311, cataloged 1955-1965, shows the 5th/Main target frontage from the bluff at 4th Street. Project-steward visual identification, supported by direct enlarged review, reads The Wheel on the 503 frontage and 505 Tavern signage on the adjacent 505 frontage. The broad catalog date range does not establish a single exposure year."
+    confidence: "Very High for P-1311 identity, broad date range and sign identifications; exact exposure year unresolved."
+    related_sources:
+      - S-232
+    related_evidence:
+      - E-206
+    related_businesses:
+      - BUS-004
+      - BUS-005
+    related_buildings:
+      - B-001
+      - B-002

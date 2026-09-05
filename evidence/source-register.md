@@ -1800,3 +1800,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-205` / `IMG-0752` / `T-084`.
 Related businesses: `BUS-097`, `BUS-098`.
 Notes: CCHS names American Cleaners and Outdoor Store and specifies “(5th and Main Street).” Project steward identifies the photographed storefront group as the northeast corner of 5th/Main. Target 503/505 facades are not shown.
+
+## S-232 — CCHS P-1311, bluff at 4th Street looking northwest
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1311`.
+Date: **1955–1965** per catalog Date made field; exact exposure year unresolved.
+Repository image: `media/photos/main-street/IMG-0753_1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-cchs-p1311.jpg`.
+Capture: `evidence/source-captures/cchs-p1311-1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1955-from-the-bluff-at-4th-street-looking-northwest
+Related evidence/media/timeline: `E-206` / `IMG-0753` / `T-085`.
+Related buildings/businesses: `B-001` / `BUS-004`; `B-002` / `BUS-005`.
+Notes: Enlarged visual review supports the project-steward identification of The Wheel signage on 503 and 505 Tavern signage on adjacent 505. The broad catalog range cannot be collapsed to 1955.

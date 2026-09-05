@@ -538,3 +538,9 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved steward spatial correction/identification: the photographed storefront group is the **northeast corner of 5th and Main**.
 - Added business records `BUS-097` American Cleaners and `BUS-098` A & K Outdoor Store / Outdoor Store without assigning unsupported street numbers or proprietors.
 - The source-backed CCHS derivative is retained as the canonical binary; the exact supplied-file filename, dimensions, byte count and SHA-256 are preserved in the source capture/API record.
+
+### 2026-09-05 — CCHS P-1311 bluff-at-4th photograph
+- Integrated project-steward supplied photograph as `IMG-0753` / `S-232` / `E-206` / `T-085`.
+- Preserved supplied CCHS metadata: title **Oregon City 1955 - from the Bluff at 4th Street Looking Northwest**, object `P-1311`, description naming the West Linn Inn, and Date made **1955–1965**.
+- Enlarged visual review supports project-steward readings of **The Wheel** on the 503 frontage and **505 Tavern / Tavern 505** signage at adjacent 505.
+- Preserved the date limit: the title's “1955” is not promoted to an exact exposure date and the image alone does not backdate 505 Tavern to 1955.

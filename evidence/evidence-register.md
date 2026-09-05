@@ -1846,3 +1846,18 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for visible lettering, catalog wording, and the attributed steward statement; exact street numbers and business operators unresolved.
 Confidence: **Very High** for P-4563 identity and visible/captured business names; **High** for northeast-quadrant placement based on steward testimony plus the visible/CCHS 5th/Main intersection identification.
 Related businesses: `BUS-097`, `BUS-098`.
+
+## E-206 — 1955-1965 bluff photograph documents The Wheel at 503 and 505 Tavern signage at 505
+Source: `S-232`
+Media: `IMG-0753`
+Type: Primary photographic evidence with institutional catalog metadata
+Claims:
+- CCHS `P-1311` is titled **Oregon City 1955 - from the Bluff at 4th Street Looking Northwest** and has Date made **1955–1965**.
+- Enlarged review supports the project-steward identification of **The Wheel** wording/signage on the 503 Main frontage.
+- Enlarged review supports **505 Tavern / Tavern 505** signage on the adjacent 505 Main frontage.
+- The single photograph therefore directly documents the two businesses as separate neighboring 503/505 occupancies in the photographed state.
+- The exact exposure year is unresolved; the photograph cannot by itself backdate 505 Tavern to 1955 or prove uninterrupted operation throughout 1955–1965.
+Classification: **DOCUMENTED / DIRECT** for the CCHS object/date range and visible business signage; exact exposure year unresolved.
+Confidence: **Very High** for object identity, broad catalog date range and 503/505 sign identifications.
+Related buildings: `B-001`, `B-002`.
+Related businesses: `BUS-004`, `BUS-005`.

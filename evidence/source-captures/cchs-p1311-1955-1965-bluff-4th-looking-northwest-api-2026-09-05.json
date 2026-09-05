@@ -1,0 +1,278 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1311",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1311&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/02f1e1f0-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1955-from-the-bluff-at-4th-street-looking-northwest",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 947,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-vdUenw2.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0753_1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-cchs-p1311.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1894,
+    "bytes": 789479,
+    "sha256": "9ebb56e79da912ab2ad8649bf3f2f0d07f124eca2fc264923213585c512c4599"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1955 - from the Bluff at 4th Street Looking Northwest.jpg",
+    "width": 2048,
+    "height": 1616,
+    "bytes": 909725,
+    "sha256": "e04639c56001073eed1c010708298ca50460e0380b8e004509732328696bde98",
+    "visual_note": "Project steward identifies THE WHEEL wording on the 503 Main frontage and 505 TAVERN wording/signage on the 505 Main frontage."
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1955 - from the Bluff at 4th Street Looking Northwest",
+    "entry_object_id": "P-1311",
+    "description": "Oregon City from the Bluff at 4th Street Looking Northwest. West Linn Inn in background.",
+    "date_made": "1955 - 1965",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper",
+    "location_of_negative": "Halon"
+  },
+  "entry": {
+    "id": "02f1e1f0-9b1f-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1955-from-the-bluff-at-4th-street-looking-northwest",
+    "media": [
+      {
+        "uuid": "c5dcb910-9b83-11eb-8d59-b7d9fd36cc45",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-sunPAcD.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-sunPAky.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-vdUenw2.sm@1x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-vdUenw2.sm@2x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-vdUenw2.lg@1x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/c5dcb910-9b83-11eb-8d59-b7d9fd36cc45-vdUenw2.lg@2x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "dominant_color": "F6F7F3",
+          "complementary_color": "F4F3F7"
+        }
+      },
+      {
+        "uuid": "642c1a40-9b46-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Oregon City from the Bluff at 4th Street Looking Northwest.",
+        "description": "Copyright: None; Origsize: 8\" x 10\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/642c1a40-9b46-11eb-97c3-a30f15c9573f-sul1q0S.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/642c1a40-9b46-11eb-97c3-a30f15c9573f-sul1q2A.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/642c1a40-9b46-11eb-97c3-a30f15c9573f-vdUenw2.sm@1x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/642c1a40-9b46-11eb-97c3-a30f15c9573f-vdUenw2.sm@2x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/642c1a40-9b46-11eb-97c3-a30f15c9573f-vdUenw2.lg@1x.jpg",
+            "width": 850,
+            "height": 671
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/642c1a40-9b46-11eb-97c3-a30f15c9573f-vdUenw2.lg@2x.jpg",
+            "width": 850,
+            "height": 671
+          },
+          "dominant_color": "F6F7F3",
+          "complementary_color": "F4F3F7"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1955 - from the Bluff at 4th Street Looking Northwest",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1311",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City from the Bluff at 4th Street Looking Northwest. West Linn Inn in background.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1955",
+                "fuzzydate_date": "1955-01-01T00:00:00.000Z"
+              },
+              "fuzzydate_to": {
+                "fuzzydate_value": "1965",
+                "fuzzydate_date": "1965-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 4
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001311",
+    "prev_id": "022b3690-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "6cb7d310-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}

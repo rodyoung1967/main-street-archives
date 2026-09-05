@@ -230,3 +230,7 @@ CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows the ma
 ## CCHS P-4564 opposite-corner camera context
 
 CCHS `P-4564` (`S-230` / `E-204` / `IMG-0751`), cataloged **circa mid-1960s**, does **not** show the 503 facade. The project steward identifies the camera as at/near The Wheel/503 northwest corner of 5th/Main looking southeast. On that attributed orientation, the photograph records the Mobil station and L. H. Hagen Agency across the intersection on the southeast side. Use this image as camera/orientation and opposite-corner context, not as direct architectural evidence for 503.
+
+## 1955–1965 CCHS P-1311 bluff view
+
+CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`) is an elevated bluff-at-4th photograph with a catalog Date made range of **1955–1965**. Enlarged review supports **The Wheel** wording/signage on the 503 frontage, while the adjacent 505 frontage carries **505 Tavern / Tavern 505** signage. The image is direct same-frame evidence that the two businesses occupied separate neighboring storefronts in the photographed state. The exact exposure year remains unresolved and is not assigned as 1955 merely because the title begins “Oregon City 1955.”

@@ -92,3 +92,5 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 | Circa mid-1960s | CCHS `P-4565` directly shows **TAVERN / 505** on the 505 frontage, visually corroborating the Nov. 1965 renewal. | Primary photograph; exact exposure date unresolved. | `E-200`; `S-220`; `IMG-0749` |
 
 | 1975 | CCHS `P-1293` aerial directly shows **505 extending farther rearward than 503**. | Confirms later-state asymmetry by 1975; does not date the change or prove a circa-1940 addition. | `E-203`; `S-229`; `IMG-0750` |
+
+| 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **505 Tavern / Tavern 505** signage at 505 and **The Wheel** on adjacent 503. | **Direct photographic** same-frame business separation; broad date range cannot backdate the 505 Tavern name to 1955. | `E-206`; `S-232`; `IMG-0753` |
