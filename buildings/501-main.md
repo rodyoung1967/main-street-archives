@@ -5,8 +5,8 @@
 - Building ID: `B-005`
 - Related businesses: `BUS-045`, `BUS-024`, `BUS-025`
 - Related people: `P-055`, `P-037`, `P-038`, `P-099`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`, `E-195`, `E-197`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`, `S-215`, `S-217`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 - Unified timeline: [501 Main Street](../timelines/501-main.md)
@@ -175,3 +175,9 @@ For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spat
 ## 1975 P-1293 continued absence
 
 CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows no separate 501 structure at the mapped former corner site. This is independent later corroboration only; `E-021` already establishes that 501 disappeared between 1936 and 1944, so the 1975 image does not narrow the removal date.
+
+### November 1922 CCHS P-9594 visual bridge
+
+CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) is described by the institution as a **November 1922** view. A light-toned building appears at/near the Fifth/Main corner candidate zone. Cross-checking the photograph against the August 1922 Gates construction reports makes it a **strong candidate for the newly completed Gates fire-replacement**.
+
+This does **not** prove the replacement was this numbered address. In particular, the archive still cannot choose between a Gates footprint principally at later 501 and a two-bay 501+503 arrangement. The photograph is a new visual bridge, not an exact-address determination.

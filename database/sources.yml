@@ -1375,3 +1375,13 @@ sources:
     notes: "Bluff view of lower Oregon City, railroad tracks and Highway 99E/tunnel approach; no secure 503/505 sign transcription from current image."
     related_evidence: [E-212]
     related_media: [IMG-0759]
+
+  - id: S-239
+    name: "CCHS P-9594, Oregon City arch bridge and temporary bridge, November 1922"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city"
+    type: Primary historic photograph with CCHS institutional catalog metadata
+    date: "November 1922"
+    repository_file: "media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg"
+    notes: "CCHS P-9594 bridge/downtown view. Light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the Gates fire-replacement documented in E-097; exact 501/503/505 mapping remains unresolved."
+    related_evidence: [E-213]
+    related_media: [IMG-0760]

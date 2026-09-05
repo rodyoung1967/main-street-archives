@@ -3234,3 +3234,19 @@ evidence:
     related_sources: [S-238]
     related_media: [IMG-0759]
     repository_file: "evidence/source-captures/cchs-p1032-1936-1939-oregon-city-from-bluff-highway99e-2026-09-05.md"
+
+  - id: E-213
+    name: "November 1922 photograph provides a probable visual of the Fifth/Main Gates fire-replacement building"
+    type: Primary historic photograph plus cross-source structural inference
+    date: "November 1922"
+    claims:
+      - "CCHS P-9594 has a 1922 Date made field and a description specifically stating Nov. 1922."
+      - "Direct visual review shows a light-toned building at/near the Fifth/Main candidate zone."
+      - "E-097 independently proves Gates was constructing a two-story hollow-tile Fifth/Main fire-replacement in August 1922 with occupancy projected around October 1."
+      - "The November timing and corner context make the photographed building a strong candidate for the newly completed Gates replacement."
+      - "The photograph does not prove modern 501 alone, 501+503, or the numbered identity of the July fire-destroyed building."
+    confidence: "Very High for CCHS object/date metadata and broad scene; High for the Gates-replacement visual candidate; unresolved for exact modern-number footprint."
+    related_sources: [S-239]
+    related_media: [IMG-0760]
+    related_buildings: [B-001, B-002, B-005]
+    repository_file: "evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fifth-main-2026-09-05.md"

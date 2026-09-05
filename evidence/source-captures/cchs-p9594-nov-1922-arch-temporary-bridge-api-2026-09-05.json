@@ -1,0 +1,272 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-9594",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-9594&size=200",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/6c25e8c0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 535,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-vdUeW2i.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg",
+  "repository_image": {
+    "width": 1909,
+    "height": 851,
+    "bytes": 311884,
+    "sha256": "fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City.jpg",
+    "width": 1909,
+    "height": 851,
+    "bytes": 311884,
+    "sha256": "fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City",
+    "entry_object_id": "P-9594",
+    "description": "Arch Bridge Under Construction and Temporary Bridge, Oregon City, Nov. 1922 West Linn Inn in background.",
+    "date_made": "1922",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_name": "2008.008.002.046",
+    "other_number": "Gardner 46",
+    "other_photo_number": "Meyers #39"
+  },
+  "repository_byte_identical_to_steward_upload": true,
+  "entry": {
+    "id": "6c25e8c0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city",
+    "media": [
+      {
+        "uuid": "fb629fd0-9b6c-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Temporary Bridge and New Arch Bridge, O.C., Nov. 1922",
+        "description": "Copyright: none; Origsize: 4 x 4.75; Origformat: Negative; Resolution: 800 DPI; Negno: 1",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-sum9Y3R.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-sum9Y5P.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-vdUeW2i.sm@1x.jpg",
+            "width": 768,
+            "height": 342
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-vdUeW2i.sm@2x.jpg",
+            "width": 768,
+            "height": 342
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-vdUeW2i.lg@1x.jpg",
+            "width": 1200,
+            "height": 535
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fb629fd0-9b6c-11eb-97c3-a30f15c9573f-vdUeW2i.lg@2x.jpg",
+            "width": 1200,
+            "height": 535
+          },
+          "dominant_color": "E1E2DD",
+          "complementary_color": "DEDDE2"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-9594",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Arch Bridge Under Construction and Temporary Bridge, Oregon City, Nov. 1922\nWest Linn Inn in background.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1922",
+                "fuzzydate_date": "1922-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherName": {
+            "label": "Other Names",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Name",
+                "width": "w-xs-6",
+                "value_text": "2008.008.002.046",
+                "order": 1
+              }
+            },
+            "order": 1
+          },
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Gardner 46; Other Photo #: Meyers #39",
+                "order": 1
+              }
+            },
+            "order": 2
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000009594",
+    "prev_id": "c2c27f30-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "000ebf30-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}

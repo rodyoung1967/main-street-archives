@@ -40,3 +40,9 @@ The [28 August model test](source-captures/1922-task-7-fire-origin-model-test-20
 - **Very High** for construction, ownership wording, material, use plan, contractor, and projected completion.
 - **High** for continuity of July `C. Gates` with August `C. E. Gates` in this exact property sequence.
 - **Plausible / unproven** for 501+503 as the two Gates Main-facing storerooms.
+
+## November 1922 photographic cross-check — CCHS P-9594
+
+New `S-239` / `E-213` / `IMG-0760` adds a CCHS photograph whose description specifically dates the scene to **November 1922**. A light-toned building is visible at/near the Fifth/Main candidate zone. Because the August reports above document Gates's two-story hollow-tile fire-replacement under construction with occupancy projected around 1 October, the November photograph is a **strong cross-source candidate for the newly completed Gates building**.
+
+This strengthens the visual chronology but does **not** remove the mapping limit in this evidence record. The photograph does not prove that Gates's replacement was modern **501 alone**, that it was **501+503**, or that the July fire-destroyed restaurant building had already been proved as numbered 501. Fixed-landmark and footprint alignment against the 1925 Sanborn remains required.

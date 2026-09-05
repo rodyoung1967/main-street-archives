@@ -1947,3 +1947,16 @@ Claims:
 - The unreadable target signage is a visual-resolution limit and is not evidence of absence.
 Classification: **DOCUMENTED / DIRECT** for object identity/date and broad scene; **UNRESOLVED** for 503/505 sign transcription.  
 Confidence: **Very High** for institutional metadata and broad visual context; unresolved for target-sign text.
+
+## E-213 — November 1922 photograph provides a probable visual of the Fifth/Main Gates fire-replacement building
+Source: `S-239`  
+Media: `IMG-0760`  
+Type: Primary historic photograph plus cross-source structural inference  
+Claims:
+- CCHS `P-9594` catalogs the scene as **Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City** and its description specifically dates the view to **Nov. 1922**.
+- Direct visual review shows the downtown commercial blocks and a conspicuously light-toned building at/near the Fifth/Main candidate zone.
+- `E-097` independently proves Gates was constructing a two-story hollow-tile Fifth/Main fire-replacement in August 1922, with occupancy projected around October 1.
+- The November timing and mapped corner context make the light-toned building a **strong cross-source candidate** for the newly completed Gates replacement.
+- The image does **not** prove that the replacement equals modern 501 alone, that 501 specifically was the July fire-destroyed building, or that Gates's two ground-floor rooms became the later 501+503 pair.
+Classification: **DOCUMENTED / DIRECT** for object/date/scene; **STRONG CROSS-SOURCE INFERENCE** for Gates-replacement identification; **UNRESOLVED** for exact modern-number footprint.  
+Confidence: **Very High** for CCHS object/date metadata and broad scene; **High** for the Gates-replacement visual candidate; unresolved for 501-vs-501+503 mapping.

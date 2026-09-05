@@ -600,3 +600,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Direct enlarged review found the lower Oregon City / railroad / Highway 99E / bridge context clearly useful, but no `503`, `505`, or target-business sign is secure enough for a new direct occupancy claim.
 - The target-sign reading remains unresolved; unreadability is not evidence of absence.
 - This integration does not change annual research-status certifications.
+
+### 2026-09-05 — CCHS P-9594 November 1922 bridge/Gates candidate
+- Integrated project-steward supplied CCHS `P-9594` as `IMG-0760` / `S-239` / `E-213`.
+- Preserved steward original fingerprint: `Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City.jpg`, 1909×851, 311,884 bytes, SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`.
+- CCHS description specifically dates the scene to **Nov. 1922**. Direct visual review identifies a light-toned building at/near the Fifth/Main corner candidate zone.
+- Cross-source comparison with the August Gates construction reports (`E-097`) makes that building a **strong candidate for the newly completed Gates fire-replacement**.
+- Preserved the critical limit: the archive has **not** proved that the July fire-destroyed restaurant building was modern-numbered 501, nor that the replacement equals 501 alone rather than 501+503 or another arrangement.
+- This adds a high-value visual bridge but does not alter the 1922 annual status.

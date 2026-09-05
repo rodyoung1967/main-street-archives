@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-007`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`, `BUS-067`
 - Related people: `P-001`, `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`, `P-046`, `P-076`, `P-094`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`
-- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`
+- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`, `T-041`, `T-042`
@@ -333,3 +333,9 @@ Do not treat this as proof that Farr's opened in 1934 or 1936, as a property-own
 CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`), dated **1930–1939**, looks south from Sixth toward Fifth and provides a same-frame sign sequence along the west-side odd-numbered Main Street row. It should be used to assign intermediate storefront numbers and independently test the 505 position.
 
 **No `505` or secure `FARR'S` wording is directly readable in this more distant view.** The stronger operating-state anchor remains CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`), where steward storefront mapping plus probable `FARR'S` signage supports Farr's Pool Hall at 505 in 1936.
+
+### November 1922 CCHS P-9594 visual bridge
+
+CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) is described by the institution as a **November 1922** view. A light-toned building appears at/near the Fifth/Main corner candidate zone. Cross-checking the photograph against the August 1922 Gates construction reports makes it a **strong candidate for the newly completed Gates fire-replacement**.
+
+This does **not** prove the replacement was this numbered address. In particular, the archive still cannot choose between a Gates footprint principally at later 501 and a two-bay 501+503 arrangement. The photograph is a new visual bridge, not an exact-address determination.

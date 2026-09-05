@@ -1661,3 +1661,16 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward original: `Oregon City 1930s - From Bluff.jpg`; 2048×1372; 813,578 bytes; SHA-256 `41b1fa63e264689c39a78f6bb3e522eb96520d10b91051c29299e8abd92d8b00`
 - Visual note: lower Oregon City/railroad/Highway 99E context; no secure 503/505 sign transcription from the supplied frame.
 - Related source/evidence: `S-238` / `E-212`
+
+## IMG-0760 — CCHS P-9594, November 1922 arch/temporary bridge and Fifth/Main candidate
+- Type: Historic elevated streetscape / bridge-construction photograph
+- CCHS catalog: `P-9594`
+- Other identifiers: `2008.008.002.046`; Gardner 46; Meyers #39
+- CCHS title: **Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City**
+- CCHS Date made: **1922**; description specifies **Nov. 1922**
+- Repository file: `media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg`
+- Status: `committed`
+- Repository dimensions: **1909 × 851**; 311,884 bytes; SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`
+- Steward original: `Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City.jpg`; 1909×851; 311,884 bytes; SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`
+- Visual note: light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the newly completed Gates fire-replacement (`E-097`), not direct proof of 501 alone or 501+503.
+- Related source/evidence: `S-239` / `E-213`
