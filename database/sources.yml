@@ -1200,3 +1200,12 @@ sources:
     notes: "CCHS object 2008.008.003.257; 1960 elevated downtown view from the Promenade at 5th St. Steward image visually verified; exact 501/503/505 building assignment remains unresolved. Related E-196/IMG-0745/T-079. Steward SHA-256 104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d; repository derivative SHA-256 6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d."
     related_evidence: [E-196]
     related_media: [IMG-0745]
+
+  - id: S-217
+    name: "Clackamas County Historical Society P-1317, Oregon City - View from Bluff at Fifth Street"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-view-from-bluff-3"
+    repository_file: "media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg"
+    notes: "CCHS P-1317; Oregon City from the Bluff at 5th Street; exposure date not supplied. Steward identifies probable predecessor 501/503/505 frontage through tree branches; exact later-address boundaries unresolved. Related E-197/IMG-0746/T-080."
+    related_evidence: [E-197]
+    related_media: [IMG-0746]
+    related_buildings: [B-005, B-001, B-002]

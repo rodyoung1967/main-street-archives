@@ -167,3 +167,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source: `S-216` / `E-196`; CCHS date **1960**.
 - View: elevated downtown Oregon City toward the river/bridge from the Promenade at Fifth Street.
 - Target status: exact 501/503/505 building assignment unresolved; retained as dated structural comparison context.
+
+### IMG-0746 — CCHS P-1317 Oregon City view from Bluff at Fifth Street
+- File: `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`
+- Dimensions: 2400 × 1762; 1,170,322 bytes; SHA-256 `da038d67b1a6ba210ae96939df8c0167b703e7ae69979ac8054a2857c6b6f726`
+- Source/evidence: `S-217` / `E-197`; exposure date **not supplied**.
+- View: elevated Oregon City from the Fifth Street bluff, partially obscured by trees.
+- Steward target note: predecessor frontage later associated with 501/503/505 is visible through branches.
+- Limit: individual later-address boundaries, date and structural continuity remain unresolved.

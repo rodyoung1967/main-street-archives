@@ -350,7 +350,7 @@ append_once(
     "database/evidence.yml",
     f"  - id: {EVIDENCE_ID}\n",
     f"""  - id: {EVIDENCE_ID}
-    name: "CCHS P-1317 Fifth Street bluff view / probable 501-503-505 predecessor frontage"
+    name: "CCHS P-1317 Fifth Street bluff view shows probable 501/503/505 predecessor frontage through branches"
     type: "Institutional photograph/catalog metadata plus direct visual review"
     claims:
       - "CCHS P-1317 is titled Oregon City - View from Bluff and described as Oregon City from the Bluff at 5th Street."

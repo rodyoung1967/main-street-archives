@@ -84,3 +84,7 @@ The CCHS MOT:P-498 full-frame image (`S-211` / `E-191` / `IMG-0740`) is cataloge
 `S-215` / `E-195` / `IMG-0744` is cataloged by CCHS at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the right-hand background. For the later **505 Main** timeline, treat the photo as strong fixed-location block context but **PROBABLE / WORKING HYPOTHESIS** for the exact individual predecessor storefront boundary. Do not backdate the later street number or infer structural continuity.
 
 Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
+
+## Undated — CCHS P-1317 Fifth Street bluff photo context
+
+`S-217` / `E-197` / `IMG-0746` is CCHS `P-1317`, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the partially branch-obscured predecessor frontage later associated with **501/503/505 Main**. Use this as **PROBABLE / WORKING HYPOTHESIS** spatial context only: the exposure date is not supplied, later address numbers are not visible, and individual storefront/roof boundaries and structural continuity remain unresolved.

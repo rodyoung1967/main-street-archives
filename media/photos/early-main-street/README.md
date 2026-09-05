@@ -187,3 +187,7 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0745 — CCHS 2008.008.003.257 Promenade at 5th Street view, 1960
 
 `IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg` preserves the largest public derivative recovered from the exact CCHS object. CCHS catalogs the elevated downtown view from the **Promenade at 5th St.** and dates it **1960**. It is retained as a dated downtown structural/roofline comparison frame. Individual 501/503/505 buildings are not assigned from this broad view without separate map/photo alignment. See `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`.
+
+## IMG-0746 — CCHS P-1317 Oregon City - View from Bluff at Fifth Street
+
+`IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg` preserves the largest public derivative recovered from the exact CCHS P-1317 object. CCHS describes the view as **Oregon City from the Bluff at 5th Street**; no exposure date is supplied. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** through the tree branches. Exact individual later-address boundaries and structural continuity remain **PROBABLE / WORKING HYPOTHESIS / UNRESOLVED**. See `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`.

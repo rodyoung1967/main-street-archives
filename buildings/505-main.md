@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-007`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`, `BUS-067`
 - Related people: `P-001`, `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`, `P-046`, `P-076`, `P-094`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`
-- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`
+- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`, `T-041`, `T-042`
@@ -297,3 +297,9 @@ If the orientation is confirmed, the east-side Fifth-to-Sixth frontage later con
 The institutional Sixth/Main location makes this photograph a strong spatial anchor and is consistent with the corrected right-side orientation in `S-214` / `E-194` and the 1892 Sanborn block geometry. Exact individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS** because the later numbers are not visible and formal citywide numbering came later. No occupancy, title, or continuity to post-1922/surviving structures is inferred.
 
 Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
+
+## Undated CCHS P-1317 Fifth Street bluff photograph
+
+`S-217` / `E-197` / `IMG-0746` preserves CCHS `P-1317`, **Oregon City - View from Bluff**, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the tree branches.
+
+For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context only. The catalog supplies no exposure date, the later street numbers are not visible, branches obscure the target area, and the image does not establish individual 501/503/505 boundaries or continuity into later numbered/surviving structures.

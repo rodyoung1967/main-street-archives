@@ -456,3 +456,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Media: `IMG-0745` — `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`.
 - Timeline: `T-079` — 1960 downtown view.
 - Review: `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`.
+
+## S-217 / E-197 / IMG-0746 / T-080 — CCHS P-1317 Fifth Street bluff view
+- Source: `S-217` — CCHS `P-1317`, **Oregon City - View from Bluff**, description fixes Bluff at Fifth Street.
+- Evidence: `E-197` — project-steward probable identification of the branch-obscured predecessor 501/503/505 frontage; individual later-address mapping and exposure date unresolved.
+- Media: `IMG-0746` — `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`.
+- Timeline: `T-080` — undated bluff-view context.
+- Review: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`.

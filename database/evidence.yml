@@ -2997,3 +2997,15 @@ evidence:
       - "The frame is useful as dated structural context, but individual 501/503/505 buildings are not assigned without separate photo/map alignment."
     confidence: "Very High for catalog identity/date/view description and visible downtown content; unresolved for exact target-building mapping."
     related_sources: [S-216]
+
+  - id: E-197
+    name: "CCHS P-1317 Fifth Street bluff view shows probable 501/503/505 predecessor frontage through branches"
+    type: "Institutional photograph/catalog metadata plus direct visual review"
+    claims:
+      - "CCHS P-1317 is titled Oregon City - View from Bluff and described as Oregon City from the Bluff at 5th Street."
+      - "The photograph directly depicts an elevated downtown Oregon City scene partly obscured by trees; the project steward identifies the predecessor frontage later associated with 501/503/505 Main through the branches."
+      - "No later target number is visible and individual 501/503/505 boundaries remain unresolved."
+      - "The exposure date is not supplied in the steward catalog metadata."
+    confidence: "Very High for catalog identity/view description and visible scene; probable/working hypothesis for exact target-frontage mapping; exposure date unresolved."
+    related_sources: [S-217]
+    related_buildings: [B-005, B-001, B-002]

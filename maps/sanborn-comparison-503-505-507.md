@@ -266,3 +266,9 @@ This photograph should be aligned against `SM-005` (1892) and `SM-006` (1900), p
 This source should be aligned against `SM-005` (1892), `SM-006` (1900), fixed-location P-1456 (`S-204` / `E-184`) and `IMG-0743` (`S-214` / `E-194`). The cataloged Sixth/Main position makes it a particularly useful geometry anchor. Use party walls, facade widths, roof forms and the Fifth intersection to assign individual predecessor storefronts; until that alignment is complete, exact 501/503/505 boundaries remain **PROBABLE / WORKING HYPOTHESIS**.
 
 Dedicated sign review adds two alignment anchors on the steward-identified right-background target frontage: **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and a separate sign containing **FASHION**. Use those sign-bearing walls together with facade widths, party walls and roof forms when matching the 1895 view to `SM-005`/`SM-006`; do not assign either sign to a later 501/503/505 number until that geometry is demonstrated (`E-195`).
+
+## Undated CCHS P-1317 Fifth Street bluff-photo comparison target
+
+CCHS `P-1317` (`S-217` / `E-197` / `IMG-0746`) is described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage later associated with 501/503/505 Main through tree branches. The image has no supplied exposure date and does not visibly print the later numbers.
+
+Use this frame as a photo/Sanborn alignment target, not a dated footprint map. Compare its partially obscured roof/wall sequence against `SM-005` (1892), `SM-006` (1900), `IMG-0742`, `IMG-0744`, and the fixed 1890 Sixth/Main views. A successful alignment may strengthen the target-frontage identification and help bracket the exposure date; it must not be used to assume building continuity across the 1922 fire/rebuild sequence.

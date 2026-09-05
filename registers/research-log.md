@@ -466,3 +466,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved the project-steward clarification that the view looks south from Sixth/Main toward Fifth and that the signs lie on the predecessor frontage later associated with 501/503/505; no individual later number is assigned.
 - Re-upload `Welcome Arch, O.C. Main St., 1895(1).jpg` is byte-identical to the previously tracked steward JPEG (2048 × 1285; 886,058 bytes; SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`), so no duplicate media object was created.
 - Also corrected stale `left side` wording that had reappeared in the three unified timelines for `IMG-0743`; the already-recorded steward correction is **RIGHT side** when looking south from Sixth toward Fifth.
+
+## 4 September 2026 — CCHS P-1317 Fifth Street bluff photo integration
+
+- Preserved `IMG-0746` / `S-217` / `E-197` / `T-080` for CCHS `P-1317`, **Oregon City - View from Bluff**, described as Oregon City from the Bluff at 5th Street.
+- Exact CCHS object and largest public derivative retrieved by catalog number; steward upload visually reviewed and separately hashed.
+- Catalog metadata supplied with the image gives **no exposure date**. The description's `B-016-005583` and Other Photo # `Back of B-0160.005583` variants were both retained rather than normalized.
+- Project steward identifies the predecessor frontage/building group later associated with 501/503/505 Main through the tree branches. Recorded as **PROBABLE / WORKING HYPOTHESIS** for exact later-address mapping; no individual address boundary, single-building claim or structural continuity inferred.
+- Best next step: align with 1892/1900 Sanborn, 1890 Sixth/Main photographs, and the 1895 bluff/Welcome-Arch views to test the target mapping and possibly bracket the exposure date.

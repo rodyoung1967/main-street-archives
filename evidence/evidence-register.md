@@ -1719,3 +1719,10 @@ Source: `S-216`; image `IMG-0745`; timeline `T-079`.
 Claims: CCHS object `2008.008.003.257` is cataloged **Oregon City (view from the Promenade at 5th St.)**, date **1960**. The photograph directly depicts an elevated downtown Oregon City scene toward the Willamette River and bridge, including commercial rooflines, streets, vehicles and utility infrastructure. It provides a dated comparison frame for downtown building massing and roof/rear conditions.  
 Limits: Individual visible structures are not assigned here to 501, 503 or 505 Main; no rear addition, demolition, remodeling, ownership, occupancy or structural-continuity claim is inferred without separate map/photo alignment.  
 Confidence: **Very High** for CCHS catalog identity/date/view description and visible downtown content; **UNRESOLVED** for exact target-building mapping.
+
+## E-197 — CCHS P-1317 Fifth Street bluff view shows probable 501/503/505 predecessor frontage through branches
+Type: Institutional photograph/catalog metadata plus direct visual review; **DOCUMENTED / DIRECT** for the Bluff-at-Fifth scene; **PROBABLE / WORKING HYPOTHESIS** for exact later-address frontage mapping.  
+Source: `S-217`; image `IMG-0746`; timeline `T-080`.  
+Claims: CCHS object `P-1317` is titled **Oregon City - View from Bluff** and described as **Oregon City from the Bluff at 5th Street**. The image directly shows an elevated downtown Oregon City scene partly obscured by trees. Project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the branches.  
+Limits: The catalog supplies no exposure date; no 501/503/505 number is readable; individual storefront/roof boundaries are not assigned; no one-building-across-three-addresses or structural-continuity inference is made.  
+Confidence: **Very High** for CCHS object/view description and visible scene; **PROBABLE / WORKING HYPOTHESIS** for the target-frontage identification; exposure date **UNRESOLVED**.

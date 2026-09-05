@@ -1462,3 +1462,19 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward upload: `O.C. looking downriver from Promenade at 5th St., 1960.jpg`, **2048 × 1372**, 926,304 bytes, SHA-256 `104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d`
 - Review: **VISUALLY VERIFIED 4 September 2026**. Broad elevated downtown context; exact 501/503/505 building assignment unresolved.
 - Related source/evidence/timeline: `S-216` / `E-196` / `T-079`.
+
+## IMG-0746 — CCHS P-1317 Oregon City - View from Bluff at Fifth Street
+- Repository file: `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`
+- CCHS object: `P-1317`
+- Catalog title: **Oregon City - View from Bluff**
+- Catalog description: **Oregon City from the Bluff at 5th Street. The original is on the back of B-016-005583.**
+- Catalog date: **not supplied / unresolved**
+- Place: **Oregon City, Clackamas County, Oregon**
+- Medium / negative location: **Photographic Paper / Halon**
+- Other Photo #: **Back of B-0160.005583**
+- Identifier note: description and Other Photo # use different supplied `B-016...` strings; both retained verbatim.
+- Repository derivative: **2400 × 1762**, 1,170,322 bytes, SHA-256 `da038d67b1a6ba210ae96939df8c0167b703e7ae69979ac8054a2857c6b6f726`
+- Steward upload: `Oregon City - View from Bluff.jpg`, **2048 × 1503**, 1,246,287 bytes, SHA-256 `f3218dbee1c625ffd253968052269e6027844f5e61eafe957605e813b7778698`
+- Review: **VISUALLY VERIFIED 4 September 2026**. Elevated downtown scene framed/obscured by trees; project steward identifies probable predecessor 501/503/505 frontage through branches.
+- Boundary: exact individual later-address assignment, exposure date and structural continuity remain unresolved.
+- Related source/evidence/timeline: `S-217` / `E-197` / `T-080`.

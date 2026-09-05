@@ -6,8 +6,8 @@
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`, `BUS-078`
 - Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`, `P-035`, `P-036`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`, `E-197`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`, `S-217`
 - Unified timeline: [503 Main Street](../timelines/503-main.md)
 
 ## Known / Working History
@@ -212,3 +212,9 @@ If the orientation is confirmed, the east-side Fifth-to-Sixth frontage later con
 The institutional Sixth/Main location makes this photograph a strong spatial anchor and is consistent with the corrected right-side orientation in `S-214` / `E-194` and the 1892 Sanborn block geometry. Exact individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS** because the later numbers are not visible and formal citywide numbering came later. No occupancy, title, or continuity to post-1922/surviving structures is inferred.
 
 Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
+
+## Undated CCHS P-1317 Fifth Street bluff photograph
+
+`S-217` / `E-197` / `IMG-0746` preserves CCHS `P-1317`, **Oregon City - View from Bluff**, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the tree branches.
+
+For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context only. The catalog supplies no exposure date, the later street numbers are not visible, branches obscure the target area, and the image does not establish individual 501/503/505 boundaries or continuity into later numbered/surviving structures.

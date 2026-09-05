@@ -491,3 +491,9 @@ CCHS `2008.008.046.040` (`S-215` / `E-195` / `IMG-0744` / `T-078`) is cataloged 
 ## 1960 — CCHS Promenade at Fifth Street elevated downtown view
 
 CCHS `2008.008.003.257` (`S-216` / `E-196` / `IMG-0745` / `T-079`) is cataloged **Oregon City (view from the Promenade at 5th St.)**, **1960**. The photograph directly records the downtown roofscape, streets, automobiles, utility infrastructure, Willamette River and bridge from an elevated Promenade viewpoint. It is useful as a dated structural comparison frame, but this integration does **not** assign individual visible structures to 501, 503 or 505 Main without separate map/photo alignment.
+
+## Undated — CCHS P-1317 Fifth Street bluff view / probable 501-503-505 predecessor frontage
+
+CCHS `P-1317` (`S-217` / `E-197` / `IMG-0746` / `T-080`) is titled **Oregon City - View from Bluff** and described as **Oregon City from the Bluff at 5th Street**. The photograph directly shows an elevated downtown scene partly obscured by trees. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the branches.
+
+The catalog metadata supplied with the image gives **no exposure date**, and no later target street number is readable. Treat exact target-frontage identification as **PROBABLE / WORKING HYPOTHESIS** and individual 501-versus-503-versus-505 roof/storefront assignment, one-building-versus-multiple-buildings interpretation, and structural continuity as unresolved.

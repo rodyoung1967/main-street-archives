@@ -1660,3 +1660,11 @@ Repository image: `media/photos/early-main-street/IMG-0745_1960-oregon-city-prom
 Source capture: `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`  
 Related evidence/media/timeline: `E-196` / `IMG-0745` / `T-079`.  
 Notes: CCHS catalogs the image as **Oregon City (view from the Promenade at 5th St.)**, date **1960**, with **Stevens 257 / Stevens Photo #257** and negative location **Society Collection**. The photograph directly records a broad elevated downtown view toward the river and bridge. Exact 501/503/505 building identification is not assigned in this integration; use as dated structural context pending separate block alignment. Steward SHA-256 `104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d`; committed derivative SHA-256 `6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d`.
+
+## S-217 — Clackamas County Historical Society P-1317, Oregon City - View from Bluff at Fifth Street
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026; exact CatalogIt object retrieved by catalog number.  
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-view-from-bluff-3 ; https://api.catalogit.app/api/public/accounts/4813/entries/033860d0-9b1f-11eb-b3ef-53e7205a00b4  
+Repository image: `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`  
+Source capture: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`  
+Related evidence/media/timeline: `E-197` / `IMG-0746` / `T-080`.  
+Notes: CCHS describes the image as **Oregon City from the Bluff at 5th Street** and supplies no exposure date in the steward metadata. Project steward identifies the predecessor frontage/building group later associated with 501/503/505 Main as visible through tree branches. Treat exact individual later-address mapping as **PROBABLE / WORKING HYPOTHESIS**. Preserve the description's `B-016-005583` and Other Photo # `Back of B-0160.005583` as separate supplied strings. Steward SHA-256 `f3218dbee1c625ffd253968052269e6027844f5e61eafe957605e813b7778698`; committed derivative SHA-256 `da038d67b1a6ba210ae96939df8c0167b703e7ae69979ac8054a2857c6b6f726`.
