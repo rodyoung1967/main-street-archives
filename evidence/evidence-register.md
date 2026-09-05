@@ -1935,3 +1935,15 @@ Classification: **DOCUMENTED / DIRECT** for object/date range/orientation wordin
 Confidence: **Very High** for the institutional object/date range and clear sign readings; lower where explicitly marked partial/probable.
 Related buildings: `B-001`, `B-002`, `B-003`.
 Related source control: `S-236` / `E-210` / `IMG-0757` (1936 P-1128 Farr-at-505 anchor).
+
+## E-212 — 1936–1939 bluff photograph provides dated lower-Oregon-City context but no secure 503/505 sign reading
+Source: `S-238`  
+Media: `IMG-0759`  
+Type: Primary photographic evidence with institutional catalog metadata  
+Claims:
+- CCHS `P-1032` catalogs the photograph as **Oregon City 1930s - From Bluff**, Date made **1936–1939**.
+- The photograph directly depicts lower Oregon City, railroad tracks, Highway 99E/tunnel-approach context, the bridge, and commercial/industrial blocks.
+- Enlarged review does **not** support a secure transcription of a `503`, `505`, or target-business sign from this frame alone.
+- The unreadable target signage is a visual-resolution limit and is not evidence of absence.
+Classification: **DOCUMENTED / DIRECT** for object identity/date and broad scene; **UNRESOLVED** for 503/505 sign transcription.  
+Confidence: **Very High** for institutional metadata and broad visual context; unresolved for target-sign text.

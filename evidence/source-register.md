@@ -1874,3 +1874,14 @@ Other number: **Society Photo #168**.
 Related evidence/media/timeline: `E-211` / `IMG-0758` / `T-088`.
 Related block context: `B-001` 503 Main; `B-002` 505 Main; `B-003` Harding Building / Harding Drug context.
 Notes: Direct sign roster includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners and other partial signs. Most exact street numbers remain unresolved; no new direct 503/505 occupancy claim is made from this frame.
+
+## S-238 — CCHS P-1032, Oregon City from bluff, 1936–1939
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `P-1032`.  
+Date: **1936–1939** per catalog Date made field.  
+Repository image: `media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg`.  
+Capture: `evidence/source-captures/cchs-p1032-1936-1939-oregon-city-from-bluff-highway99e-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-from-bluff  
+Related evidence/media: `E-212` / `IMG-0759`.  
+Notes: Bluff view of lower Oregon City, railroad tracks and Highway 99E/tunnel approach. Enlarged review does not support a reliable direct 503/505 sign transcription; absence of readable wording is not negative occupancy evidence.

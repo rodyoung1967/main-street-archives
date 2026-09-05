@@ -1649,3 +1649,15 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Source/Evidence/Timeline: `S-237` / `E-211` / `T-088`
 - Key value: same-frame storefront-sign sequence for reconstructing the Sixth-to-Fifth Main Street block and independently checking 503/505 spatial mapping.
 - Limit: most exact street numbers and the distant 503/505 sign identities remain unresolved.
+
+## IMG-0759 — CCHS P-1032, Oregon City from bluff, 1936–1939
+- Type: Historic elevated/bluff streetscape photograph
+- CCHS catalog: `P-1032`
+- CCHS title: **Oregon City 1930s - From Bluff**
+- CCHS Date made: **1936–1939**
+- Repository file: `media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg`
+- Status: `committed`
+- Repository dimensions: **2399 × 1608**; 712,211 bytes; SHA-256 `a9c3a3617baad196368b0a6c23c5032d5d83aa5908ea8ebd632ac4496af18a15`
+- Steward original: `Oregon City 1930s - From Bluff.jpg`; 2048×1372; 813,578 bytes; SHA-256 `41b1fa63e264689c39a78f6bb3e522eb96520d10b91051c29299e8abd92d8b00`
+- Visual note: lower Oregon City/railroad/Highway 99E context; no secure 503/505 sign transcription from the supplied frame.
+- Related source/evidence: `S-238` / `E-212`

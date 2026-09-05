@@ -1,0 +1,278 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1032",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1032&size=200",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/f8fe1f60-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-from-bluff",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 804,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-vdUelUv.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg",
+  "repository_image": {
+    "width": 2399,
+    "height": 1608,
+    "bytes": 712211,
+    "sha256": "a9c3a3617baad196368b0a6c23c5032d5d83aa5908ea8ebd632ac4496af18a15"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1930s - From Bluff.jpg",
+    "width": 2048,
+    "height": 1372,
+    "bytes": 813578,
+    "sha256": "41b1fa63e264689c39a78f6bb3e522eb96520d10b91051c29299e8abd92d8b00"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1930s - From Bluff",
+    "entry_object_id": "P-1032",
+    "description": "Oregon City photo from Bluff looking down on railroad tracks and Tunnel entrance on Highway 99E.",
+    "date_made": "1936 - 1939",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper",
+    "location_of_negative": "Halon"
+  },
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "f8fe1f60-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1930s-from-bluff",
+    "media": [
+      {
+        "uuid": "04f251f0-9b84-11eb-8d59-b7d9fd36cc45",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-sunPdeR.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-sunPdlT.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-vdUelUv.sm@1x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-vdUelUv.sm@2x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-vdUelUv.lg@1x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/04f251f0-9b84-11eb-8d59-b7d9fd36cc45-vdUelUv.lg@2x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "dominant_color": "EFEFEA",
+          "complementary_color": "EAEAEF"
+        }
+      },
+      {
+        "uuid": "1d378320-9b48-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Oregon City from Bluff , 1930s",
+        "description": "Copyright: None; Origsize: 4\" x 6\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/1d378320-9b48-11eb-97c3-a30f15c9573f-sul5wpg.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/1d378320-9b48-11eb-97c3-a30f15c9573f-sul5wrO.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/1d378320-9b48-11eb-97c3-a30f15c9573f-vdUelUv.sm@1x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/1d378320-9b48-11eb-97c3-a30f15c9573f-vdUelUv.sm@2x.jpg",
+            "width": 768,
+            "height": 515
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/1d378320-9b48-11eb-97c3-a30f15c9573f-vdUelUv.lg@1x.jpg",
+            "width": 850,
+            "height": 570
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/1d378320-9b48-11eb-97c3-a30f15c9573f-vdUelUv.lg@2x.jpg",
+            "width": 850,
+            "height": 570
+          },
+          "dominant_color": "EFEEEA",
+          "complementary_color": "EAEBEF"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1930s - From Bluff",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1032",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City photo from Bluff looking down on railroad tracks and Tunnel entrance on Highway 99E.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1936",
+                "fuzzydate_date": "1936-01-01T00:00:00.000Z"
+              },
+              "fuzzydate_to": {
+                "fuzzydate_value": "1939",
+                "fuzzydate_date": "1939-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 4
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001032",
+    "prev_id": "5e8d6bb0-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "f9806ec0-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

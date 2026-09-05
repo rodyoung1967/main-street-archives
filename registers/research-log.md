@@ -593,3 +593,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Rewrote the raw API capture to the CCHS object and corrected source/media URLs and fingerprints.
 - Hardened the reusable integration script to require `account_id == 4813` and expanded the search result set before choosing an exact catalog-number match.
 - The historical sign analysis was based on the steward-supplied Oregon City photograph and therefore did not depend on the rejected Fort Lauderdale image; this correction repairs source provenance and repository binary identity.
+
+### 2026-09-05 — CCHS P-1032 1936–1939 bluff view
+- Integrated project-steward supplied CCHS photograph `P-1032` as `IMG-0759` / `S-238` / `E-212`.
+- Preserved the steward-upload fingerprint: `Oregon City 1930s - From Bluff.jpg`, 2048×1372, 813,578 bytes, SHA-256 `41b1fa63e264689c39a78f6bb3e522eb96520d10b91051c29299e8abd92d8b00`.
+- Direct enlarged review found the lower Oregon City / railroad / Highway 99E / bridge context clearly useful, but no `503`, `505`, or target-business sign is secure enough for a new direct occupancy claim.
+- The target-sign reading remains unresolved; unreadability is not evidence of absence.
+- This integration does not change annual research-status certifications.

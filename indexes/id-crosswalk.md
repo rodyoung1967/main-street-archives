@@ -504,3 +504,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-237` / `E-211` / `IMG-0758` / `T-088` | `B-001`, `B-002`, `B-003`; cross-check `S-236` / `E-210` / `IMG-0757` | 1930–1939 streetscape from Sixth toward Fifth; direct business-sign roster. 503/505 exact signage unresolved in this frame; use as spatial/address-sequence control. |
+
+| `IMG-0759` / `S-238` / `E-212` / CCHS `P-1032` | `media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg`; `evidence/source-captures/cchs-p1032-1936-1939-oregon-city-from-bluff-highway99e-2026-09-05.md` | CCHS 1936–1939 bluff view. Direct broad transportation/commercial context; 503/505 sign text remains unresolved at current image scale and is not treated as negative occupancy evidence. |
