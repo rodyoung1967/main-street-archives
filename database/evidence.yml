@@ -3186,3 +3186,22 @@ evidence:
     related_sources: [S-235]
     related_media: [IMG-0756]
     repository_file: "evidence/source-captures/cchs-2008-008-002-425-1947-oregon-city-aerial-2026-09-05.md"
+
+  - id: E-210
+    name: "1936 P-1128 photograph strongly supports Farr's Pool Hall at 505 Main"
+    type: Primary photographic evidence with cross-source business/address identification
+    date: "1936"
+    claims:
+      - "CCHS P-1128 is cataloged Oregon City 1936 - 5th and Main from the Bluff, Date made 1936."
+      - "Project-steward mapping identifies the target storefront as 505 Main."
+      - "Enlarged review gives PROBABLE FARR'S and likely POOL / POOL HALL wording, but not a secure full-sign transcription."
+      - "With independent S-036 / E-033 identifying Farr's Pool Hall at 505 Main, the photograph strongly supports Farr's operating at 505 in the 1936 photographed state."
+      - "Opening date, property ownership, proprietor physical presence, and Farr-to-Harr transition remain unresolved."
+    confidence: "STRONG CROSS-SOURCE INFERENCE for Farr's at 505 in 1936; PROBABLE for exact sign transcription"
+    related_sources:
+      - S-236
+      - S-036
+    related_businesses:
+      - BUS-013
+    related_buildings:
+      - B-002

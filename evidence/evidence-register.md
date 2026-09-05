@@ -1900,3 +1900,21 @@ Claims:
 - Exact individual 501/503/505 roof mapping has not yet been verified in this steep oblique view; existing `E-021` / 1940 re-review conclusions remain unchanged.
 Classification: **DOCUMENTED / DIRECT** for object identity, 1947 date and broad visual content; **UNRESOLVED** for target-building roof/footprint mapping.
 Confidence: **Very High** for CCHS object/date and broad scene; unresolved for 501/503/505-specific geometry.
+
+## E-210 — 1936 P-1128 photograph strongly supports Farr's Pool Hall at 505 Main
+Source: `S-236`
+Media: `IMG-0757`
+Type: Primary photographic evidence with institutional catalog metadata plus cross-source business/address identification
+Claims:
+- CCHS `P-1128` is cataloged **Oregon City 1936 - 5th and Main from the Bluff**, Date made **1936**, photograph by Ralph Eddy per the institutional description.
+- Project-steward spatial identification maps the target storefront in the photographed Main Street row to **505 Main**.
+- Enlarged visual review yields **PROBABLE `FARR'S`** as the principal sign and likely **POOL / POOL HALL** wording, but not a secure letter-perfect full-sign transcription.
+- Independent `S-036` / `E-033` identifies Edwin F. and Alice Farr as proprietors of **Farr's Pool Hall at 505 Main**.
+- Together these facts support a **STRONG CROSS-SOURCE INFERENCE** that the 1936 photograph shows Farr's Pool Hall operating at 505 Main.
+- The photograph does not establish an opening date, property ownership, the physical presence of either proprietor, or the Farr-to-Harr transition date.
+Classification: **DOCUMENTED / DIRECT** for object/date; **PROBABLE / WORKING HYPOTHESIS** for exact sign transcription; **STRONG CROSS-SOURCE INFERENCE** for Farr's Pool Hall at 505 in the 1936 photographed state.
+Confidence: **High** for the 1936 Farr's-at-505 operating-state conclusion; lower for exact lower-line sign wording.
+Related sources: `S-236`, `S-036`.
+Related evidence: `E-033`.
+Related business: `BUS-013`.
+Related building: `B-002`.

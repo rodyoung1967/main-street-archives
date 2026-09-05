@@ -352,3 +352,7 @@ CCHS `P-1293` (`IMG-0750` / `S-229` / `E-203`) now directly confirms that **505 
 ### 1947 CCHS high-oblique control for RL-005
 
 New CCHS `2008.008.002.425` (`S-235` / `E-209` / `IMG-0756`) supplies a dated **1947** oblique aerial between the canonical 1944 and 1955 plan-view frames. Re-align it using the bridge approach, river/highway curvature, street grid, institutional buildings and block edges, then test whether the former 501 corner and the 505-vs-503 rear-depth asymmetry can be independently read. Do **not** treat current difficulty isolating an individual roof as evidence of absence.
+
+### 1936 P-1128 Farr anchor
+
+`S-236` / `E-210` / `IMG-0757` / `T-087` now provides a **1936** photographed-state anchor strongly supporting Farr's Pool Hall at 505 Main. This narrows the useful transition search: determine how far **before 1936** Farr can be documented at 505 and locate the first documentary appearance of **Harr's Recreation Center** before the existing 1945/1948 anchors. The exact opening and Farr→Harr transfer dates remain unresolved.

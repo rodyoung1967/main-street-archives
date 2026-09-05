@@ -196,6 +196,7 @@ buildings:
       - E-195
       - E-197
       - E-206
+      - E-210
     related_sources:
       - S-130
       - S-021
@@ -226,6 +227,7 @@ buildings:
       - S-214
       - S-215
       - S-217
+      - S-236
     related_maps:
       - SM-002
       - SM-003

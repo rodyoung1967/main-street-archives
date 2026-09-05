@@ -525,3 +525,7 @@ Related source/evidence/media: `S-232` / `E-206` / `IMG-0753`. Related businesse
 ## T-086 — Circa mid-1960s? — U.S. Post Office still intact at Fifth/Main
 
 CCHS `P-4562` (`S-233` / `E-207` / `IMG-0754`), from project-steward supplied metadata, identifies an **intact rear view of the U.S. Post Office at Fifth and Main**. Existing map evidence independently identifies the building as the **1933 Post Office** (`E-102`), while `IMG-0736` / `E-187` shows it later during demolition. The supplied **“circa mid-1960s?”** date is tentative, so this is not a firm demolition bracket; exact exposure and demolition dates remain unresolved.
+
+## T-087 — 1936 — CCHS P-1128 strongly supports Farr's Pool Hall at 505
+
+CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`) is cataloged **1936**. The project steward identifies the target storefront in the Fifth/Main row as **505 Main**. Enlarged review gives probable **FARR'S** signage and likely pool-related wording. Combined with independent `S-036` / `E-033`, which identifies Edwin and Alice Farr as proprietors of **Farr's Pool Hall at 505 Main**, this is a **STRONG CROSS-SOURCE INFERENCE** that Farr's was operating at 505 in the 1936 photographed state. It does not establish an opening date or resolve the later Farr-to-Harr transition.

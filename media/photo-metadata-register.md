@@ -1616,3 +1616,19 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Source/Evidence: `S-235` / `E-209`
 - Visual value: dated 1947 downtown/riverfront high-oblique control between the canonical 1944 and 1955 aerial frames.
 - Limit: exact 501/503/505 roof mapping remains unresolved pending fixed-landmark alignment.
+
+## IMG-0757 — CCHS P-1128, Oregon City 1936 — 5th and Main from the Bluff
+- Type: Historic elevated streetscape / commercial-block photograph
+- CCHS catalog: `P-1128`
+- CCHS title: **Oregon City 1936 - 5th and Main from the Bluff**
+- Date made: **1936**
+- Photographer: **Ralph Eddy**, per CCHS description
+- Accession: **2002.071.010**
+- Repository file: `media/photos/main-street/IMG-0757_1936-5th-main-bluff-farrs-505-cchs-p1128.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1502**; 739,383 bytes; SHA-256 `835cbedf906ea7215c2fa4bad79e6fcdc2124738e7392f975966b7e2153f4d82`
+- Steward original: `Oregon City 1936 - 5th and Main from the Bluff.jpg`; 2048×1281; 847,507 bytes; SHA-256 `518fbb3621ce273ae057dd1c759f3efd5c6ee3c8dad1131430c8b3253e6636fb`
+- Source/Evidence/Timeline: `S-236` / `E-210` / `T-087`
+- Related building/business: `B-002` / `BUS-013`
+- Sign review: 505 principal sign **probably reads `FARR'S`**; lower wording is likely `POOL` or `POOL HALL` but not securely transcribed.
+- Cross-source value: with `S-036` / `E-033`, strongly supports **Farr's Pool Hall at 505 Main in 1936**; does not establish opening date.

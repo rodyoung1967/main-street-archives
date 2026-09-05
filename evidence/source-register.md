@@ -1847,3 +1847,17 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Other numbers: **Gardner 425**; **Tripp, Bill #3**.
 Related evidence/media: `E-209` / `IMG-0756`.
 Use limit: dated independent high-oblique downtown/riverfront control. Exact 501/503/505 roof mapping is not yet verified, so no new target-footprint or construction-date claim is made from this source alone.
+
+## S-236 — CCHS P-1128 — Oregon City 1936, 5th and Main from the Bluff
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1128`.
+Date: **1936** per CCHS Date made metadata.
+Photographer: **Ralph Eddy**, per CCHS description.
+Accession: **2002.071.010**; description also references negative/sample print `2008.008.001.104` and Original Maxine Bohoskie #2.
+Repository image: `media/photos/main-street/IMG-0757_1936-5th-main-bluff-farrs-505-cchs-p1128.jpg`.
+Capture: `evidence/source-captures/cchs-p1128-1936-5th-main-bluff-farrs-505-signage-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1936-5th-and-main-from-the-bluff
+Related evidence/media/timeline: `E-210` / `IMG-0757` / `T-087`.
+Related building/business: `B-002` / `BUS-013`.
+Notes: Steward maps the target storefront to 505 Main. Enlarged review gives probable `FARR'S` and likely pool-related wording; cross-source comparison with `S-036` / `E-033` strongly supports Farr's Pool Hall at 505 in the 1936 photographed state. Full sign transcription remains unresolved.

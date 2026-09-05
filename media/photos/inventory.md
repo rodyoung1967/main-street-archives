@@ -240,3 +240,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-235` / `E-209`
 - CCHS: `2008.008.002.425`; **Gardner 425**; **Tripp, Bill #3**
 - Key value: independent dated **1947** high-oblique downtown/riverfront control between `IMG-0009` (1944) and `IMG-0010` (1955). Exact 501/503/505 roof mapping remains pending.
+
+### IMG-0757 — CCHS P-1128 — 1936 Fifth/Main bluff view
+- File: `media/photos/main-street/IMG-0757_1936-5th-main-bluff-farrs-505-cchs-p1128.jpg`
+- Source/evidence/timeline: `S-236` / `E-210` / `T-087`
+- CCHS: `P-1128`; accession **2002.071.010**; photograph by Ralph Eddy per catalog description.
+- Key value: project-steward mapping identifies the 505 storefront; enlarged review gives probable **FARR'S** and likely pool-related wording. Cross-source comparison with `E-033` strongly supports **Farr's Pool Hall at 505 Main in 1936**.
+- Limit: full sign text, business opening date, property ownership, and Farr-to-Harr transition remain unresolved.

@@ -212,3 +212,7 @@ CCHS describes `IMG-0734` / `S-205` as buildings on Main Street at the alley bet
 
 ## OQ-036 — When and from where was CCHS 2019.001.00179 photographed, and which 4th–6th street structures are visible?
 The live CCHS record for `IMG-0735` / `S-206` is titled/described only **Downtown Oregon City** and supplies no exposure date. The steward filename says **focusing on 4th-6th streets (aerial view)**, while the image itself can also be read as an elevated oblique view potentially taken from the bluff rather than from an aircraft. Determine exposure date, camera position/direction, and exact Fourth–Sixth Street block/building identities through fixed-landmark comparison with Sanborn maps, dated photographs, street geometry, river/falls alignment and surviving landmark structures. Do not infer a 2019 date from the accession number or assign 501/503/505 from the filename alone. Track under `RL-050`.
+
+### 5 September 2026 — P-1128 narrows Farr occupancy to a 1936 photographic state
+
+CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936**. Steward mapping of 505 plus a probable `FARR'S` sign and likely pool-related wording, combined with `S-036` / `E-033`, strongly supports Farr's Pool Hall at 505 in 1936. The **opening date remains unresolved**, and the later transition from Farr to Harr remains open.

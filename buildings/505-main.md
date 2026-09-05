@@ -321,3 +321,9 @@ This strengthens—but does not prove—the `E-101` interpretation that the offi
 ## 1955–1965 CCHS P-1311 bluff view
 
 CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`) is an elevated bluff-at-4th photograph with a catalog Date made range of **1955–1965**. Enlarged review supports **505 Tavern / Tavern 505** signage on the 505 frontage and **The Wheel** signage on adjacent 503. This directly documents the separate neighboring business identities in the photographed state. Because the exposure year is unresolved within 1955–1965, the photograph does **not** by itself move the documented start of the 505 Tavern trade name back to 1955.
+
+## 1936 CCHS P-1128 Farr signage anchor
+
+CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936** and shows the Fifth/Main block from the bluff. The project steward identifies the relevant storefront as **505 Main**. Enlarged review yields a **probable `FARR'S`** principal sign and likely pool-related lower wording. Combined with the independent City inventory (`S-036` / `E-033`) naming **Farr's Pool Hall at 505 Main**, this strongly supports Farr's operating at 505 in the 1936 photographed state.
+
+Do not treat this as proof that Farr's opened in 1934 or 1936, as a property-ownership record, or as proof of uninterrupted continuity from the 1925 unnamed billiards/cigars use. The exact Farr-to-Harr transition remains open.

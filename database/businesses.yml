@@ -223,6 +223,7 @@ businesses:
       - P-029
     related_evidence:
       - E-033
+      - E-210
     related_sources: [S-036]
     repository_file: businesses/farrs-pool-hall.md
 

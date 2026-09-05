@@ -569,3 +569,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Treated as an independent dated control between `IMG-0009` (1944) and `IMG-0010` (1955).
 - Exact 501/503/505 roof mapping was **not** promoted from the oblique image; the existing 1936–1940 501-removal bracket and 1940 first-readable 505-depth asymmetry remain unchanged pending fixed-landmark alignment.
 - This integration does not alter annual research-status certifications.
+
+### 2026-09-05 — CCHS P-1128 1936 Farr signage at 505
+- Integrated CCHS `P-1128` as `IMG-0757` / `S-236` / `E-210` / `T-087` with the steward-supplied metadata and exact steward-file fingerprint preserved.
+- CCHS dates the photograph **1936** and credits **Ralph Eddy** in the description.
+- Project steward identifies the target storefront as **505 Main**. Enlarged review reads the principal sign as **probable `FARR'S`**; lower wording is likely pool-related but is not strong enough for a letter-perfect transcription.
+- Cross-source comparison with the existing official-secondary `S-036` / `E-033` identification of **Farr's Pool Hall at 505 Main** supports a **STRONG CROSS-SOURCE INFERENCE** that Farr's was operating there in the 1936 photographed state.
+- This creates a 1936 occupancy anchor but does **not** turn the Farrs' 1934 residence purchase into a pool-hall opening date and does not resolve the Farr-to-Harr transition.

@@ -1,0 +1,317 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1128",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1128&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/fc7a9bf0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1936-5th-and-main-from-the-bluff",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 751,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vdUelqq.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0757_1936-5th-main-bluff-farrs-505-cchs-p1128.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1502,
+    "bytes": 739383,
+    "sha256": "835cbedf906ea7215c2fa4bad79e6fcdc2124738e7392f975966b7e2153f4d82"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1936 - 5th and Main from the Bluff.jpg",
+    "width": 2048,
+    "height": 1281,
+    "bytes": 847507,
+    "sha256": "518fbb3621ce273ae057dd1c759f3efd5c6ee3c8dad1131430c8b3253e6636fb",
+    "visual_note": "Project steward identifies the target storefront as 505 Main and asked for enlarged sign review."
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1936 - 5th and Main from the Bluff",
+    "entry_object_id": "P-1128",
+    "tags": [
+      "Arcadia"
+    ],
+    "description": "Pacific Highway Through Oregon City. Photo by Ralph Eddy.  Also Negative and Sample Print - 2008.008.001.104  Original Maxine Bohoskie #2",
+    "date_made": "1936",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper",
+    "location_of_negative": "Halon",
+    "accession_number": "2002.071.010"
+  },
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "fc7a9bf0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1936-5th-and-main-from-the-bluff",
+    "media": [
+      {
+        "uuid": "696a8ae0-6357-11f0-b1d8-696c08cde0aa",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vRflZQx.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vRflZQu.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vdUelqq.sm@1x.jpg",
+            "width": 768,
+            "height": 480
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vdUelqq.sm@2x.jpg",
+            "width": 768,
+            "height": 480
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vdUelqq.lg@1x.jpg",
+            "width": 1200,
+            "height": 751
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/696a8ae0-6357-11f0-b1d8-696c08cde0aa-vdUelqq.lg@2x.jpg",
+            "width": 1200,
+            "height": 751
+          },
+          "dominant_color": "d8c8a8",
+          "complementary_color": "a9b9d9"
+        }
+      },
+      {
+        "uuid": "49a41fa0-9b6f-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Pacific Highway Through Oregon City. 1936",
+        "description": "Copyright: None; Origsize: 8\" x  10\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-sumd7eW.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-sumd7gI.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-vdUelqq.sm@1x.jpg",
+            "width": 768,
+            "height": 513
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-vdUelqq.sm@2x.jpg",
+            "width": 768,
+            "height": 513
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-vdUelqq.lg@1x.jpg",
+            "width": 850,
+            "height": 568
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/49a41fa0-9b6f-11eb-97c3-a30f15c9573f-vdUelqq.lg@2x.jpg",
+            "width": 850,
+            "height": 568
+          },
+          "dominant_color": "0E0D0F",
+          "complementary_color": "0E0F0D"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1936 - 5th and Main from the Bluff",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1128",
+        "order": 2
+      },
+      "hasTag": {
+        "label": "Tags",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "Arcadia",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Tag"
+        },
+        "order": 3
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Pacific Highway Through Oregon City. Photo by Ralph Eddy.\n\nAlso Negative and Sample Print - 2008.008.001.104  Original Maxine Bohoskie #2",
+        "order": 4
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1936",
+                "fuzzydate_date": "1936-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 5
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasType": {
+                "label": "Number Type",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Accession Number",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#NumberType"
+                },
+                "order": 1
+              },
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "2002.071.010",
+                "order": 2
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 6
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001128",
+    "prev_id": "819e4710-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "b648fc20-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}
