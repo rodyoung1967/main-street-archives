@@ -1,10 +1,10 @@
-# 1941 Oregon City directory — page 181 locator and Polk disambiguation
+# 1941 Oregon City directory — page 71 / 181 locators and Polk disambiguation
 
 Date reviewed: 4 September 2026
 
-Status: **OFFICIAL NATIONAL REGISTER DIRECTORY-PAGE LOCATOR + CATALOG DISAMBIGUATION — ACTUAL 1941 OREGON CITY DIRECTORY PAGE NOT INSPECTED; NO FARR/HARR/505 CLAIM PROMOTED.**
+Status: **DIRECTORY-PAGE LOCATORS + CATALOG DISAMBIGUATION — ACTUAL 1941 OREGON CITY DIRECTORY PAGES NOT INSPECTED; NO FARR/HARR/505 CLAIM PROMOTED.**
 
-Purpose: preserve a concrete internal page locator for the separately documented 1941 Oregon City city/business directory and prevent a nearby 1941 R. L. Polk citation from being used to relabel that Oregon City volume incorrectly.
+Purpose: preserve concrete internal page locators for the separately documented 1941 Oregon City city/business directory and prevent a nearby 1941 R. L. Polk citation from being used to relabel that Oregon City volume incorrectly.
 
 ## Official Oregon City bibliographic identity remains controlling
 
@@ -18,7 +18,7 @@ Official City report:
 
 The same bibliography separately cites the 1948 Pacific Directory Service county directory. This remains the strongest official bibliographic identification currently recovered for the 1941 Oregon City city/business directory.
 
-## New concrete page locator — page 181
+## Concrete page locator — page 181
 
 The final Oregon National Register nomination for the **Dr. Edward and Anne McLean House** states that Dr. William O. Steele stayed in offices in the Roos Building on Main Street in Oregon City after Dr. McLean moved to the McLean Clinic. Footnote **110** gives the source simply as:
 
@@ -36,6 +36,33 @@ This page locator does **not** identify Farr, Harr, 505 Main or 505½ Main, and 
 
 The official nomination PDF text was retrievable, but screenshot attempts for the relevant PDF pages returned cache-miss errors on 4 September 2026. Therefore the nomination wording and page locator are preserved as **OFFICIAL PDF TEXT / NOT SCAN-CERTIFIED IN THIS PASS**. The actual 1941 directory page 181 has not been recovered or visually inspected.
 
+## Second independent directory locator — Thomas Deo Edwards, page 71
+
+A biographical bibliography for numismatist **Thomas Deo Edwards**, who lived in Oregon City, separately cites:
+
+> **Oregon City Directory of 1941, page 71**
+
+Source:
+
+`https://sites.google.com/a/numismaticmall.com/www/encyclopedic-dictionary-of-numismatic-philatelic-biographies/edwards-thomas-deo`
+
+This is a lower-authority web biographical source than the National Register nomination, but it supplies a second explicit internal page citation to a publication named as the **Oregon City Directory of 1941**. The actual directory page 71 has not been recovered or visually inspected, so the locator is preserved as a **SECONDARY WEB CITATION / CONTROL LEAD**, not as scan-certified directory evidence.
+
+The two currently recovered city-directory controls are therefore:
+
+- **Thomas Deo Edwards — p. 71** (secondary web bibliography);
+- **Dr. William O. Steele — p. 181** (official National Register footnote).
+
+Because Edwards is an **E** surname and Steele an **S** surname, the two locators are *compatible with* an alphabetically organized resident/business section. They do **not prove** the directory's full internal structure, and they do not justify estimating a Farr or Harr page number before the actual volume or an additional F/G/H control is inspected.
+
+### Forebears discovery route
+
+Forebears currently describes an **“Oregon City, Oregon City Directory (1941-1960)”** as searchable books covering area residents and businesses:
+
+`https://forebears.io/united-states/oregon/clackamas-county/oregon-city`
+
+The page itself returned a 403 when opened in the current environment, so the underlying book images/index could not be inspected. Treat this as an **access lead only**. Its displayed surname statistics are not a substitute for the 1941 directory pages and must not be used to assign Farr or Harr to a premises or year.
+
 ## Separate 1941 PT&T telephone-directory locator — page 112
 
 The same final McLean nomination separately cites **Pacific Telephone & Telegraph Co. Directories** and identifies the 1941 title/scope as:
@@ -44,12 +71,12 @@ The same final McLean nomination separately cites **Pacific Telephone & Telegrap
 
 That footnote supports the McLean residence listing at River Road / Holly Gardens, West Linn.
 
-This is a **different publication** from the 1941 Oregon City city/business directory. Keep the two page locators separate:
+This is a **different publication** from the 1941 Oregon City city/business directory. Keep the page locators separate:
 
 - **PT&T telephone directory:** 1941 Oregon City–West Linn–Gladstone, **p. 112**;
-- **1941 Oregon City city/business directory:** **p. 181** in the McLean nomination's Steele citation.
+- **1941 Oregon City city/business directory:** **p. 71** (Edwards control lead) and **p. 181** (Steele control).
 
-Do not infer that page numbering, publisher, entry structure or address coverage is shared between the two volumes.
+Do not infer that page numbering, publisher, entry structure or address coverage is shared between the telephone and city/business directories.
 
 ## Why the nearby R. L. Polk citation does not re-identify the Oregon City volume
 
@@ -67,12 +94,17 @@ Evidence boundary: the present pass does not prove that footnote 102 specificall
 
 ## Retrieval consequence
 
-When requesting or opening the **Pacific Directory Service 1941 Directory of Oregon City**, provide **page 181** as a known internal locator from recent National Register research. It can help an archivist confirm that the correct edition/image set has been found before searching for the 505 targets.
+When requesting or opening the **Pacific Directory Service 1941 Directory of Oregon City**, provide **pages 71 and 181** as two independent control locators. Ask the holder to confirm:
+
+- **p. 71 — Thomas Deo Edwards**;
+- **p. 181 — Dr. William O. Steele / Roos Building context**.
+
+If both controls match, that materially strengthens confidence that the correct edition/image set has been found before searching for the 505 targets.
 
 Once the volume is accessible, visually inspect and preserve:
 
 1. title/publication page;
-2. page **181** and the Dr. William O. Steele entry, as an edition/control check;
+2. pages **71** and **181** as edition/control checks;
 3. Edwin F. / Edwin Franklin Farr;
 4. Alice Farr;
 5. Farr's Pool Hall / Farr business listings;
@@ -83,11 +115,11 @@ Once the volume is accessible, visually inspect and preserve:
 10. neighboring 501–511 Main entries;
 11. pool hall / pool room / billiards / recreation / cigars / tobacco / soft-drink / tavern classifications if present.
 
-Do not estimate the Farr page from Steele's page 181 or assume alphabetical pagination until the actual directory structure is inspected.
+Do not estimate the Farr/Harr page solely by interpolating between Edwards p.71 and Steele p.181 until the actual directory structure or additional F/G/H page controls are inspected.
 
 ## Current historical conclusion
 
-This finding improves **retrievability**, not the Farr→Harr chronology. It does not establish who occupied 505 in 1941 and does not narrow the transition interval.
+These findings improve **retrievability**, not the Farr→Harr chronology. They do not establish who occupied 505 in 1941 and do not narrow the transition interval.
 
 Related captures:
 
