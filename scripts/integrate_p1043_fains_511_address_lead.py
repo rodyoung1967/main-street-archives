@@ -187,7 +187,7 @@ if SOURCE_ID not in sources_text:
     sources_text = sources_text.rstrip() + r'''
 
   - id: S-240
-    name: "1 March 1943 The Amplifier p.4 — Fain's Men's Store at 511 Main page-text lead"
+    name: "1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead"
     url: "https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/"
     type: "Historic Oregon Newspapers official page text / newspaper source; OCR/TEXT ONLY pending scan inspection"
     date: "1943-03-01"
@@ -205,7 +205,7 @@ if EVIDENCE_ID not in evidence_text:
     evidence_text = evidence_text.rstrip() + r'''
 
   - id: E-214
-    name: "1943 page text places Fain's Men's Store at 511 Main; 1930s mapping remains probable"
+    name: "1943 page text places Fain's Men's Store at 511 Main; 1930s P-1043 mapping remains probable"
     type: "Newspaper exact-address text lead plus cross-source photographic comparison"
     date: "1943-03-01"
     claims:
