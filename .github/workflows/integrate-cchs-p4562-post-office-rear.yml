@@ -1,0 +1,44 @@
+name: Integrate CCHS P-4562 Post Office rear view
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'research-inbox/p4562-steward-post-office-rear.jpg'
+      - 'scripts/integrate_cchs_p4562_mid1960s_post_office_rear.py'
+      - '.github/workflows/integrate-cchs-p4562-post-office-rear.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependencies
+        run: python3 -m pip install pillow pyyaml
+      - name: Integrate P-4562 from local steward image
+        run: python3 scripts/integrate_cchs_p4562_mid1960s_post_office_rear.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git commit -m 'Integrate CCHS P-4562 Post Office rear view'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
