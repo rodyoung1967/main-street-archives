@@ -1493,3 +1493,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Direct signage: **E. E. WILLIAMS**; separate **DRUGS** sign farther south.
 - Interpretation limit: do not assign Williams to later 501 vs 503 vs 505 until Sanborn/photo alignment resolves the individual storefront boundary.
 - Review: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`.
+
+## IMG-0748 — 1908 Friedrich's Hardware and Little's Confectionery, 510–512 7th Street
+- Type: Historic street-level photograph
+- Date: **1908**
+- Institutional catalog: CCHS `P-6974`; description also cites `2008.008.001.320`
+- Location: **510–512 7th Street, Oregon City** as a combined cataloged address group
+- CCHS description: **Friedrich's Hardware and Little's Confectionery ... (Richard Friedrichs on right; Walter Little on left)**
+- Source/Evidence: `S-219` / `E-199`
+- Repository file: `media/photos/early-main-street/IMG-0748_1908-friedrichs-hardware-littles-confectionery-510-512-7th-cchs-p6974.jpg`
+- Repository derivative: 2400 × 1608; 422,617 bytes; SHA-256 `04d6c8edd3896e221e727003f48a65026556d16fcae31c6bedeeb86dcd69bbbb`
+- Steward original: `Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street.jpg`; 2048 × 1372; 516,379 bytes; SHA-256 `b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d`
+- Provenance: largest public derivative recovered from the exact CCHS object; steward upload tracked separately by exact signature.
+- Interpretation limit: CCHS, not facial recognition or legible storefront text, supplies the business/person names. Do not split 510 versus 512 between the two businesses without further evidence. Do not merge the cataloged 1908 Walter Little with `P-090` solely by name.
+- Review: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`

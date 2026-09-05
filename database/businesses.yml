@@ -1138,3 +1138,21 @@ businesses:
     related_sources:
     - S-141
     repository_file: businesses/quality-restaurant-1922.md
+
+  - id: BUS-090
+    name: Friedrich's Hardware
+    address: 510–512 7th Street group, Oregon City; individual number unresolved
+    notes: CCHS P-6974 catalogs Friedrich's Hardware with Little's Confectionery at the combined 510–512 7th Street group in 1908 and identifies Richard Friedrichs on right. No continuity to later C. W. Friedrich and Son is claimed.
+    related_people: [P-392]
+    related_evidence: [E-199]
+    related_sources: [S-219]
+    repository_file: businesses/friedrichs-hardware-7th-street.md
+
+  - id: BUS-091
+    name: Little's Confectionery
+    address: 510–512 7th Street group, Oregon City; individual number unresolved
+    notes: CCHS P-6974 catalogs Little's Confectionery with Friedrich's Hardware at the combined 510–512 7th Street group in 1908 and identifies Walter Little on left. The 1908 Walter Little identity is kept separate from P-090 pending corroboration.
+    related_people: [P-393]
+    related_evidence: [E-199]
+    related_sources: [S-219]
+    repository_file: businesses/littles-confectionery-7th-street.md

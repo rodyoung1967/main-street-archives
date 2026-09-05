@@ -3024,3 +3024,17 @@ evidence:
       - B-005
       - B-001
       - B-002
+
+  - id: E-199
+    name: 1908 Friedrich's Hardware / Little's Confectionery at 510–512 7th Street
+    type: Primary photographic evidence with institutional catalog metadata
+    claims:
+      - CCHS catalogs the photograph to 1908 and identifies Friedrich's Hardware and Little's Confectionery at the combined 510–512 7th Street address group in Oregon City.
+      - CCHS identifies Richard Friedrichs on right and Walter Little on left.
+      - The supplied catalog wording does not establish which individual business occupied 510 versus 512.
+      - The cataloged 1908 Walter Little is not sufficient by itself to merge with P-090 Walter L. Little from the 1921–1922 billiards research.
+    confidence: Very High for the CCHS object/date/combined-address/business and cataloged person identifications; individual 510/512 assignment and later identity continuity unresolved.
+    related_sources: [S-219]
+    related_businesses: [BUS-090, BUS-091]
+    related_people: [P-392, P-393]
+    repository_file: evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md

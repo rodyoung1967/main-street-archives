@@ -322,3 +322,11 @@ Next work:
 5. Use dated 1907–1916 advertisements/directories and storefront details to bracket the image.
 
 Until resolved, do not use MOT:P-370 as unqualified 1916 occupancy evidence and do not choose 1907 solely from the duplicate note.
+
+## 1908 Walter Little confectionery identity lead — P-6974
+
+CCHS `P-6974` (`S-219` / `E-199` / `IMG-0748`) identifies **Walter Little on left** at **Little's Confectionery** in the combined **510–512 7th Street** business group in **1908**. The archive already has `P-090` Walter L. Little in 1921–1922 billiards-related records.
+
+**State: UNVERIFIED LEAD / identity question.** Do not merge `P-393` with `P-090` by name alone. Seek an independent bridge: 1908–1922 city/business directories, residence/spouse/family identifiers, middle initial, voter/census records, confectionery-to-cigar/billiards transition advertising, or a record explicitly naming the same Walter/W. L. Little across both contexts.
+
+A secondary lead is whether cataloged **Richard Friedrichs** (`P-392`) is related to the later **C. W. Friedrich and Son** hardware references; surname and business type alone are insufficient.

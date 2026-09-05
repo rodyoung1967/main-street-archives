@@ -1161,3 +1161,21 @@ people:
     - S-200
     - S-201
     - S-202
+
+  - id: P-392
+    name: Richard Friedrichs — 1908 CCHS identification
+    role: Friedrich's Hardware cataloged subject, 1908
+    notes: CCHS P-6974 identifies Richard Friedrichs on right in the 1908 510–512 7th Street photograph. Relation to later C. W. Friedrich and Son references is unresolved.
+    related_businesses: [BUS-090]
+    related_evidence: [E-199]
+    related_sources: [S-219]
+    repository_file: people/profiles/richard-friedrichs-1908.md
+
+  - id: P-393
+    name: Walter Little — 1908 confectionery identification
+    role: Little's Confectionery cataloged subject, 1908
+    notes: CCHS P-6974 identifies Walter Little on left in the 1908 510–512 7th Street photograph. Kept separate from P-090 Walter L. Little pending independent same-person evidence.
+    related_businesses: [BUS-091]
+    related_evidence: [E-199]
+    related_sources: [S-219]
+    repository_file: people/profiles/walter-little-1908-confectionery.md

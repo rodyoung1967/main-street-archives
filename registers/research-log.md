@@ -481,3 +481,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Enlarged visual review directly reads **E. E. WILLIAMS** on the right/east Main Street storefront and a separate **DRUGS** sign farther south.
 - This adds a 1893 visual anchor for the same **E. E. Williams** business independently read in the 1895 Welcome Arch photograph (`IMG-0744` / `E-195`).
 - Exact assignment of the Williams storefront to later **501, 503, or 505** remains unresolved pending 1892/1900 Sanborn and photo alignment.
+
+## 4 September 2026 — CCHS P-6974 1908 Friedrich/Little 7th Street photograph
+
+- Integrated the steward-supplied 1908 photograph as `IMG-0748` / `S-219` / `E-199` using the exact CCHS catalog object and largest public derivative.
+- Preserved CCHS's combined **510–512 7th Street** wording without guessing which business occupied which individual number.
+- Added `BUS-090` Friedrich's Hardware and `BUS-091` Little's Confectionery.
+- Added separate catalog-derived person records `P-392` Richard Friedrichs and `P-393` Walter Little (1908 confectionery identification).
+- Did **not** merge the 1908 Walter Little with `P-090` Walter L. Little from the 1921–1922 billiards research; opened an identity lead instead.
+- Steward original signature: 2048 × 1372, 516,379 bytes, SHA-256 `b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d`.

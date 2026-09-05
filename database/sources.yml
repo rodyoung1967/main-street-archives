@@ -1214,3 +1214,12 @@ sources:
     name: 1893 Streetcar Helen at Sixth/Main photograph
     url: Internal repository photograph / evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md
     notes: Historic photograph identified as the first streetcar Helen entering Oregon City at Sixth and Main in 1893. Direct visual review reads E. E. WILLIAMS on the east/right storefront and a separate DRUGS sign farther south. Steward original is preserved by filename, dimensions, bytes and SHA-256; exact later 501/503/505 bay assignment remains unresolved.
+
+  - id: S-219
+    name: CCHS P-6974, Friedrich's Hardware and Little's Confectionery, 510–512 7th Street, 1908
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1908-friedrichs-hardware-and-littles-confectionery-at-510-512-7th-street
+    notes: Institutional photograph/catalog record. CCHS identifies Richard Friedrichs on right and Walter Little on left. Combined 510–512 address does not assign individual numbers; 1908 Walter Little is not merged with P-090 by name alone.
+    related_evidence: [E-199]
+    related_media: [IMG-0748]
+    related_businesses: [BUS-090, BUS-091]
+    related_people: [P-392, P-393]

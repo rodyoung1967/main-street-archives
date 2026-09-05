@@ -1,0 +1,260 @@
+{
+  "reviewed": "2026-09-04",
+  "institution": "Clackamas County Historical Society",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-6974&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/5c1a1730-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1908-friedrichs-hardware-and-littles-confectionery-at-510-512-7th-street",
+  "selected_public_derivative": {
+    "key": "public_highres_2x",
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/50823000-9b6a-11eb-97c3-a30f15c9573f-vdUeTrZ.lg@2x.jpg",
+    "width": 1200,
+    "height": 804
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0748_1908-friedrichs-hardware-littles-confectionery-510-512-7th-cchs-p6974.jpg",
+  "repository_derivative": {
+    "width": 2400,
+    "height": 1608,
+    "bytes": 422617,
+    "sha256": "04d6c8edd3896e221e727003f48a65026556d16fcae31c6bedeeb86dcd69bbbb"
+  },
+  "steward_attachment": {
+    "filename": "Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street.jpg",
+    "width": 2048,
+    "height": 1372,
+    "bytes": 516379,
+    "sha256": "b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street",
+    "entry_object_id": "P-6974",
+    "description": "Friedrich's Hardware and Little's Confectionery  510 - 512 7th St., Oregon City (Richard Friedrichs on right; Walter Little on left)  2008.008.001.320 Negative and Sample Print",
+    "date_made": "1908",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Negative",
+    "location_of_negative": "Society Collection",
+    "other_numbers": [
+      "Society 320",
+      "Society Photo #: 320",
+      "Ferguson Collection #18"
+    ]
+  },
+  "entry": {
+    "id": "5c1a1730-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1908-friedrichs-hardware-and-littles-confectionery-at-510-512-7th-street",
+    "media": [
+      {
+        "uuid": "50823000-9b6a-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Friedrich's Hardware and Little's Confectionery,  1908",
+        "description": "Copyright: none; Origformat: Other; Resolution: 800 DPI",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/50823000-9b6a-11eb-97c3-a30f15c9573f-sum4b1B.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/50823000-9b6a-11eb-97c3-a30f15c9573f-sum4b5D.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/50823000-9b6a-11eb-97c3-a30f15c9573f-vdUeTrZ.sm@1x.jpg",
+            "width": 768,
+            "height": 514
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/50823000-9b6a-11eb-97c3-a30f15c9573f-vdUeTrZ.sm@2x.jpg",
+            "width": 768,
+            "height": 514
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/50823000-9b6a-11eb-97c3-a30f15c9573f-vdUeTrZ.lg@1x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/50823000-9b6a-11eb-97c3-a30f15c9573f-vdUeTrZ.lg@2x.jpg",
+            "width": 1200,
+            "height": 804
+          },
+          "dominant_color": "D8E5E0",
+          "complementary_color": "E5D8DD"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-6974",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Friedrich's Hardware and Little's Confectionery \n510 - 512 7th St., Oregon City\n(Richard Friedrichs on right; Walter Little on left)\n\n2008.008.001.320 Negative and Sample Print",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1908",
+                "fuzzydate_date": "1908-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Society 320; Society Photo #: 320; Other Photo #: Ferguson Collection #18",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000006974",
+    "prev_id": "d4e03640-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "71107440-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

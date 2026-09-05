@@ -150,3 +150,6 @@ These records were already part of the evidence narrative but previously lacked 
 - `BUS-024` Palace Saloon: `S-198` / `E-177` extends Ralph O. Smith at Main/Fifth through 31 Dec. 1909; `S-199` / `E-178` directly prints **E. R. Case / Palace Saloon / 510 Main** on 17 Jun. 1910. The printed 510 is an unresolved conflict/transition question and is not silently changed to 501.
 - `BUS-011` Chicago Store: exact 14 Apr. 1911 page now preserved and visually verified at **505 Main** under existing `S-032` / `E-026`.
 - `BUS-021` Dr. Freeze: exact 13 May 1921 page prints **505 Main**, while 20 May prints **505½ Main**; this reinforces address-form uncertainty rather than a physical-layout conclusion.
+
+| BUS-090 | [Friedrich's Hardware](friedrichs-hardware-7th-street.md) | 510–512 7th Street group; individual number unresolved | CCHS `P-6974`, 1908; Richard Friedrichs cataloged on right. `E-199`. |
+| BUS-091 | [Little's Confectionery](littles-confectionery-7th-street.md) | 510–512 7th Street group; individual number unresolved | CCHS `P-6974`, 1908; Walter Little cataloged on left; not merged with `P-090`. `E-199`. |

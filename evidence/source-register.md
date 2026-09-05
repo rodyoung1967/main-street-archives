@@ -1677,3 +1677,16 @@ Repository image: `media/photos/early-main-street/IMG-0747_1893-streetcar-helen-
 Capture: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`
 Steward original: `Oregon City 1893 - Streetcar Helen - Oregon City's First Streetcar.jpg`; 2048×1332; SHA-256 `db0f1a09d0394c33adc313628091ed418832eaefdb46ab326c6485c384cf6f03`.
 Finding: direct visual review reads **E. E. WILLIAMS** on the right/east Main Street storefront and **DRUGS** farther south. The Williams sign provides an earlier visual comparison to the independently transcribed 1895 E. E. Williams grocery sign (`S-215`/`E-195`). Exact later 501/503/505 assignment remains unresolved.
+
+## S-219 — CCHS P-6974, Friedrich's Hardware and Little's Confectionery, 510–512 7th Street, 1908
+Type: Institutional historic photograph and museum-catalog record; photograph visually reviewed.
+Institution: Clackamas County Historical Society.
+Catalog IDs: `P-6974`; description also names `2008.008.001.320`; Society 320; Society Photo #320; Ferguson Collection #18.
+Date: **1908**.
+Location: **510–512 7th Street, Oregon City** as a combined cataloged address group.
+Repository file: `media/photos/early-main-street/IMG-0748_1908-friedrichs-hardware-littles-confectionery-510-512-7th-cchs-p6974.jpg`.
+Source capture: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1908-friedrichs-hardware-and-littles-confectionery-at-510-512-7th-street
+Public API: https://api.catalogit.app/api/public/accounts/4813/entries/5c1a1730-9b1e-11eb-b3ef-53e7205a00b4
+Related evidence/media: `E-199` / `IMG-0748`.
+Notes: CCHS identifies **Richard Friedrichs on right** and **Walter Little on left** with Friedrich's Hardware and Little's Confectionery. The image itself does not independently prove the names, and the catalog wording does not assign 510 versus 512 to a specific business. The 1908 Walter Little is **not merged** with later `P-090` Walter L. Little solely by name.

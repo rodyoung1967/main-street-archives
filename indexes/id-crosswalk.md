@@ -463,3 +463,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Media: `IMG-0746` — `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`.
 - Timeline: `T-080` — undated bluff-view context.
 - Review: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`.
+
+## CCHS P-6974 — 1908 510–512 7th Street photograph
+
+- Source/evidence/media: `S-219` / `E-199` / `IMG-0748`.
+- Businesses: `BUS-090` Friedrich's Hardware; `BUS-091` Little's Confectionery.
+- Cataloged people: `P-392` Richard Friedrichs; `P-393` Walter Little (1908 confectionery identification).
+- Identity guardrail: `P-393` is **not merged** with `P-090` Walter L. Little; same-person question remains unresolved.
+- Catalog identifiers: `P-6974`; `2008.008.001.320`; Society 320; Society Photo #320; Ferguson Collection #18.
+- Review: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`.

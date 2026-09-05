@@ -1739,3 +1739,16 @@ Confidence: Very High for the visible E. E. WILLIAMS and DRUGS transcriptions; M
 Classification: **DOCUMENTED / DIRECT** for visible `E. E. WILLIAMS`; **PROBABLE / WORKING HYPOTHESIS** for assignment to a specific later 501/503/505 storefront.
 Claim: The 1893 Sixth/Main streetcar photograph visibly names **E. E. WILLIAMS** on the east/right side of Main and visibly shows a separate **DRUGS** sign farther south. Together with the 1895 Welcome Arch transcription (`E-195`), this establishes a two-date photographic anchor for E. E. Williams on the same target-side Main Street frontage, while leaving the exact later numbered bay unresolved.
 Capture: `evidence/source-captures/1893-streetcar-helen-sixth-main-ee-williams-2026-09-04.md`.
+
+## E-199 — 1908 Friedrich's Hardware / Little's Confectionery at 510–512 7th Street
+Source: `S-219`
+Media: `IMG-0748`
+Type: Primary photographic evidence with institutional catalog metadata
+Claims:
+- CCHS catalogs the photograph to **1908** and identifies the business group as **Friedrich's Hardware and Little's Confectionery, 510–512 7th Street, Oregon City**.
+- CCHS identifies **Richard Friedrichs on right** and **Walter Little on left**.
+- The catalog wording provides 510–512 as a combined address group and does not establish which individual business held 510 versus 512.
+- The photograph visually shows two adjacent commercial storefronts, two men, and a stairway between the storefronts, but the business/person names are catalog identifications rather than independently legible image text.
+- The 1908 Walter Little record is **not sufficient by itself** to merge with `P-090` Walter L. Little of the 1921–1922 billiards research.
+Classification: **DOCUMENTED / DIRECT** for CCHS catalog metadata and visible streetscape; **UNRESOLVED IDENTITY** for `P-393` versus `P-090` and for Richard Friedrichs versus later Friedrich firm references.
+Confidence: **Very High** for the CCHS object, 1908 date, combined 510–512 7th Street business-group identification and cataloged left/right person identifications; individual 510/512 assignment and later-person/business continuity unresolved.

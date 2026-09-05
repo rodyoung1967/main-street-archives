@@ -182,3 +182,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Steward original: `Oregon City 1893 - Streetcar Helen - Oregon City's First Streetcar.jpg`; 2048×1332; SHA-256 `db0f1a09d0394c33adc313628091ed418832eaefdb46ab326c6485c384cf6f03`.
 - Direct visual finding: **E. E. WILLIAMS** is legible on the right/east Main Street storefront; **DRUGS** is legible farther south.
 - Comparison value: earlier anchor for the E. E. Williams grocery sign independently visible in the 1895 Welcome Arch photograph; exact later 501/503/505 bay remains unresolved.
+
+### IMG-0748 — CCHS P-6974, Friedrich's Hardware and Little's Confectionery, 1908
+- File: `media/photos/early-main-street/IMG-0748_1908-friedrichs-hardware-littles-confectionery-510-512-7th-cchs-p6974.jpg`
+- Source/evidence: `S-219` / `E-199`
+- CCHS catalog: `P-6974`; 1908; combined 510–512 7th Street group.
+- Steward original: `Oregon City 1908 - Friedrich's Hardware and Little's Confectionery at 510-512 7th Street.jpg`; 2048 × 1372; SHA-256 `b394eacbd2e3052599abd7829c3207a8d7b0ebdf709d0b90b5cd8e54fb10d41d`.
+- CCHS identification: Richard Friedrichs on right; Walter Little on left.
+- Limit: individual 510/512 business assignment unresolved; 1908 Walter Little not merged with `P-090`.
