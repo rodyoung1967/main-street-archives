@@ -78,6 +78,11 @@ jobs:
           entry = get_json(entry_url)
           if catno(entry) != target:
               raise SystemExit(f"Catalog mismatch: {catno(entry)}")
+          slug = entry.get('slug') or match.get('slug')
+          hub_url = (
+              f'https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/{slug}'
+              if slug else entry_url
+          )
 
           candidates = []
           for media in entry.get('media', []):
@@ -147,11 +152,47 @@ jobs:
               '- Repository binary is a local derivative of the steward upload; exact original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.',
               '- Repository binary is a public derivative from the exact CCHS P-4562 object; exact steward-original filename/dimensions/size/hash are preserved in `media/photo-metadata-register.md`.'
           )
+          # Keep the script's source-YAML template valid on future re-runs.
+          text = text.replace(
+              '    name: "{SOURCE_NAME}"\n    type: Primary historic photograph with supplied CCHS metadata',
+              '    name: "{SOURCE_NAME}"\n    url: "' + hub_url + '"\n    type: Primary historic photograph with supplied CCHS metadata'
+          )
           script.write_text(text, encoding='utf-8')
+          Path('/tmp/p4562-hub-url.txt').write_text(hub_url, encoding='utf-8')
           print(f'Recovered P-4562 derivative: {width}x{height}, {len(data)} bytes, sha256 {sha}')
+          print(f'P-4562 public record: {hub_url}')
           PY
       - name: Integrate P-4562
         run: python3 scripts/integrate_cchs_p4562_mid1960s_post_office_rear.py
+      - name: Synchronize P-4562 source URL
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          hub_url = Path('/tmp/p4562-hub-url.txt').read_text(encoding='utf-8').strip()
+          register = Path('evidence/source-register.md').read_text(encoding='utf-8')
+          m = re.search(r'(?m)^## (S-\d+) — CCHS P-4562', register)
+          if not m:
+              raise SystemExit('Could not resolve integrated P-4562 source ID')
+          sid = m.group(1)
+
+          path = Path('database/sources.yml')
+          text = path.read_text(encoding='utf-8')
+          sm = re.search(rf'(?m)^  - id: {re.escape(sid)}\s*$', text)
+          if not sm:
+              raise SystemExit(f'{sid} missing from database/sources.yml after integration')
+          nm = re.search(r'(?m)^  - id: ', text[sm.end():])
+          end = sm.end() + nm.start() if nm else len(text)
+          section = text[sm.start():end]
+          if not re.search(r'(?m)^    url:\s*\S+', section):
+              name_line = re.search(r'(?m)^    name:.*$', section)
+              if not name_line:
+                  raise SystemExit(f'Could not locate name line for {sid}')
+              insert_at = sm.start() + name_line.end()
+              text = text[:insert_at] + f'\n    url: "{hub_url}"' + text[insert_at:]
+              path.write_text(text, encoding='utf-8')
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
