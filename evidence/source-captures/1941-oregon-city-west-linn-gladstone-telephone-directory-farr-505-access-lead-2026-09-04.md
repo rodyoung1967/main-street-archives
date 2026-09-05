@@ -1,0 +1,139 @@
+# 1941 Oregon City–West Linn–Gladstone telephone directory — Farr / 505 access lead
+
+Date reviewed: 4 September 2026
+
+Status: **OFFICIAL NATIONAL REGISTER SOURCE CITATION + DISTINCT TELEPHONE-DIRECTORY ACCESS LEAD — ACTUAL DIRECTORY PAGE NOT INSPECTED; NO FARR/HARR/505 CLAIM PROMOTED.**
+
+Purpose: preserve a newly identified **1941 Pacific Telephone & Telegraph Co. telephone directory** as a source distinct from the separately documented **1941 Pacific Directory Service city/business directory**. This provides an independent 1941 test for the unresolved Farr's Pool Hall → Harr's Recreation Center transition at 505 Main.
+
+## Newly identified source
+
+The final Oregon National Register nomination for the **Dr. Edward and Anne McLean House** cites a sequence of Pacific Telephone & Telegraph Co. directories in footnote 57:
+
+> Pacific Telephone & Telegraph Co. Directories, “Clackamas County,” [1927] or “Oregon City and Clackamas County,” [1928, 1929, 1931, 1933] or “Oregon City, West Linn, and Gladstone,” [1941], 112.
+
+Official Oregon State Historic Preservation Office nomination:
+
+`https://www.oregon.gov/oprd/OH/Documents/SG100011430.pdf`
+
+The nomination uses the 1941 directory substantively in its McLean residence chronology, stating that by 1941 the McLeans were listed at **River Rd, Holly Gardens, West Linn**, without a street number. The footnote gives **page 112** for the cited 1941 directory material.
+
+This establishes that a preservation researcher had access to a 1941 Pacific Telephone & Telegraph Co. directory titled/scope-labeled **“Oregon City, West Linn, and Gladstone.”** It does not expose the Farr/Harr/505 page and does not establish the current repository holding the volume.
+
+### Visual-verification boundary
+
+The official nomination PDF was opened in the current research environment and its searchable text/footnote was recovered. Required screenshot attempts against the relevant PDF pages returned cache-miss failures, so this pass does **not** claim scan-level visual certification of the nomination footnote. The actual 1941 telephone-directory page 112 was not recovered or inspected.
+
+## Critical source distinction — do not merge the two 1941 directories
+
+There are now **two separate 1941 directory sources** in the project:
+
+1. **Pacific Directory Service** — *Directory of Oregon City*, Portland, 1941; another official historic nomination gives the fuller coverage wording **Oregon City–West Linn–Gladstone**. This is the city/business directory already tracked in `evidence/source-captures/1941-oregon-city-directory-farr-harr-access-lead-2026-09-03.md`.
+2. **Pacific Telephone & Telegraph Co.** — telephone directory cited in the McLean nomination as **“Oregon City, West Linn, and Gladstone,” [1941]**.
+
+The similar geographic wording must not be used to merge these publications. Publisher, source type and research function are different.
+
+The telephone directory can independently test published subscriber/business name, address and telephone associations in 1941; the Pacific Directory Service volume may provide broader resident/business/classified information. Neither source proves municipal licensing or legal ownership by itself.
+
+## Earlier PT&T title sequence recovered from the same official citation
+
+The same final National Register footnote identifies these title/scope variants:
+
+- **1927:** Pacific Telephone & Telegraph Co., **“Clackamas County”**;
+- **1928, 1929, 1931, 1933:** **“Oregon City and Clackamas County”**;
+- **1941:** **“Oregon City, West Linn, and Gladstone.”**
+
+These exact title variants are useful for catalog and archival searching and provide a new provenance bridge around the separately documented **August 1932 Telephone Directory, Oregon City, Clackamas County, Oregon** held in the Wilsonville Public Library Heritage Collection.
+
+They do not establish that the nomination researcher used the same physical repository for every cited year.
+
+## Current survival / catalog context
+
+Independent catalog evidence confirms that historic Pacific Telephone & Telegraph Co. Oregon/Clackamas telephone directories survive in institutional collections. For example, Washington State Library catalogs an **August 1916** Pacific Telephone and Telegraph Company telephone directory covering Portland, Oregon City, Salem and multiple Oregon counties, including Clackamas County, in its Rare Vault.
+
+Washington State Library catalog:
+
+`https://stlow.iii.com/record=b1740083~S2`
+
+This is useful survival context only; it is not the 1941 target volume.
+
+Targeted public-web/catalog searches using the exact 1941 title and publisher did not surface a digitized copy or a confirmed current holding for the 1941 Oregon City–West Linn–Gladstone telephone directory. No Farr, Harr, McDougald, 505 Main or pool-hall listing was exposed. This remains a **RETRIEVAL GAP**, not negative evidence.
+
+## Why the 1941 telephone directory is high value
+
+The repository already has:
+
+- May 1925 Sanborn: 505 Main = billiards/cigars, operator unnamed;
+- official historic-resource synthesis identifying Edwin F. and Alice Farr as proprietors of Farr's Pool Hall at 505 Main, operating span unresolved;
+- a separate City synthesis reporting Dr. Roy Briggs at 505½ Main in 1941 and Harr's Recreation Center at 505 by 1945;
+- 11 February 1948 municipal text naming Harr and McDougald as Oregon City pool-hall operators;
+- late-1948 municipal text directly identifying Carl R. Harr — Harr's Recreation Center — 505 Main.
+
+A direct 1941 PT&T listing could independently establish which subscriber/business names and exact addresses were publicly associated with 505/505½ at that date. Because it is a telephone directory rather than the Pacific Directory Service city directory, agreement or disagreement between the two 1941 sources would be particularly useful.
+
+## Exact inspection targets
+
+When the 1941 PT&T volume becomes accessible, visually inspect and preserve the title/publication page plus the complete relevant Oregon City coverage. Use the same fixed target set used for other directory years:
+
+1. Edwin F. Farr / Edwin Franklin Farr / E. F. Farr;
+2. Alice Farr;
+3. Farr's Pool Hall or any Farr business listing;
+4. Carl R. Harr / Harr's Recreation Center;
+5. Harris E. McDougald / Pastime Pool Hall;
+6. 505 Main and 505½ Main;
+7. Dr. Roy Briggs;
+8. neighboring 501–511 Main entries;
+9. all Oregon City pool halls / pool rooms / billiards / recreation listings if a classified section exists;
+10. related cigars/tobacco, soft drinks, beer/tavern headings if present.
+
+Preserve exact printed wording, page number, subscriber/business name, address, telephone number and heading. Record residential listings separately from business premises.
+
+## Provenance / holding-location follow-up
+
+The McLean nomination proves that the 1941 telephone directory was available to the nomination researcher, but the extracted bibliography does not identify where the volume was consulted.
+
+Highest-value provenance questions:
+
+- ask West Linn Planning whether the McLean nomination research files contain scans, notes or source-location information for the cited PT&T directories;
+- ask the Oregon SHPO National Register Program whether the nomination preparer supplied underlying directory scans or can identify the repository used;
+- search West Linn Public Library / City archives, Oregon Historical Society, Washington State Library, Clackamas County Historical Society, Genealogical Forum of Oregon and telephone-directory special collections using the exact title variants above.
+
+Do **not** assume West Linn, SHPO or the nomination preparer owns the directory merely because it was cited.
+
+## Ready-to-send provenance request
+
+Suggested recipient routes:
+
+- West Linn Planning: `contactplanning@westlinnoregon.gov`
+- Oregon SHPO National Register Program: `ORSHPO.NationalRegisterProgram@oprd.oregon.gov`
+
+Subject: **Source-location question — 1941 Oregon City/West Linn/Gladstone telephone directory**
+
+Body:
+
+> Hello,
+>
+> I am researching the business history of 503 and 505 Main Street in Oregon City. The final National Register nomination for the Dr. Edward and Anne McLean House cites, in footnote 57, a Pacific Telephone & Telegraph Co. directory titled/scope-labeled **“Oregon City, West Linn, and Gladstone,” [1941]**, with page 112 used for the McLean listing.
+>
+> I am trying to locate that 1941 telephone directory itself. Would you know where the nomination preparer consulted it, or whether the nomination research files include scans, photocopies, source notes, a call number, or repository information for that directory?
+>
+> The same footnote cites related PT&T directories as **“Clackamas County” [1927]** and **“Oregon City and Clackamas County” [1928, 1929, 1931, 1933]**. Any provenance information for that directory sequence would also be useful.
+>
+> My immediate research target is the 1941 Oregon City coverage, particularly Edwin F. Farr / Farr's Pool Hall, Alice Farr, Carl R. Harr / Harr's Recreation Center, Harris E. McDougald, 505 or 505½ Main Street, neighboring 501–511 Main, and any pool/billiard/recreation classifications.
+>
+> I am not assuming your office owns the directory; I am trying to identify the library, archive, private collection or digital source used by the nomination researcher.
+>
+> Thank you for any source-location information you can provide.
+>
+> Rodney Young
+
+## Evidence boundary
+
+No 1941 Farr, Harr, McDougald, Briggs or 505/505½ listing is promoted from this access lead. The National Register nomination demonstrates use and identifies the directory/publisher/title scope, but the actual directory page must be inspected before any historical occupancy or business claim is added.
+
+Related captures:
+
+- `evidence/source-captures/1941-oregon-city-directory-farr-harr-access-lead-2026-09-03.md`
+- `evidence/source-captures/1941-oregon-city-directory-online-catalog-route-correction-2026-09-04.md`
+- `evidence/source-captures/1932-oregon-city-telephone-directory-farr-505-access-route-2026-09-04.md`
+- `evidence/source-captures/1930-1939-clackamas-telephone-directory-west-linn-survey-provenance-2026-09-04.md`
