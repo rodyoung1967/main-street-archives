@@ -25,6 +25,30 @@ jobs:
       - run: pip install Pillow PyYAML
       - name: Integrate P-1311 photograph and 503/505 signage context
         run: python3 scripts/integrate_cchs_p1311_bluff_4th_1955_1965.py
+      - name: Synchronize P-1311 source YAML
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          register = Path('evidence/source-register.md').read_text(encoding='utf-8')
+          match = re.search(r'(?m)^## (S-\d+) — CCHS P-1311, bluff at 4th Street looking northwest\s*$', register)
+          if not match:
+              raise SystemExit('Could not find newly integrated P-1311 source ID')
+          sid = match.group(1)
+          start = match.start()
+          next_heading = re.search(r'(?m)^## S-\d+ —', register[match.end():])
+          end = match.end() + next_heading.start() if next_heading else len(register)
+          block = register[start:end]
+          public = re.search(r'(?m)^Public record:\s*(\S+)', block)
+          url = public.group(1) if public else 'evidence/source-captures/cchs-p1311-1955-1965-bluff-4th-looking-northwest-wheel-503-505-tavern-2026-09-05.md'
+
+          path = Path('database/sources.yml')
+          text = path.read_text(encoding='utf-8')
+          if not re.search(rf'(?m)^  - id: {re.escape(sid)}\s*$', text):
+              text = text.rstrip() + f'''\n\n  - id: {sid}\n    name: CCHS P-1311 bluff at 4th Street looking northwest\n    url: {url}\n    notes: Primary CCHS photograph, cataloged 1955-1965. Enlarged review supports The Wheel signage at 503 Main and 505 Tavern signage at adjacent 505 Main in the same photographed state; exact exposure year remains unresolved and the image alone does not backdate the 505 Tavern name to 1955.\n'''
+              path.write_text(text, encoding='utf-8')
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
