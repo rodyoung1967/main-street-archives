@@ -1,0 +1,38 @@
+name: Export temporary aerial analysis hrefs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/export_aerial_analysis_hrefs.py'
+      - '.github/workflows/export-aerial-analysis-hrefs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Export aligned aerial image hrefs
+        run: python3 scripts/export_aerial_analysis_hrefs.py
+      - name: Commit href list
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research-inbox/aerial-analysis-export-hrefs-2026-09-05.md
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git commit -m 'Generate temporary aligned aerial export hrefs'
+          git pull --rebase origin main
+          git push origin HEAD:main
