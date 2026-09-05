@@ -837,3 +837,12 @@ timeline:
     related_evidence: [E-200]
     related_businesses: [BUS-004, BUS-005, BUS-007, BUS-023, BUS-092, BUS-093, BUS-094]
     related_buildings: [B-001, B-002, B-003]
+
+  - id: T-082
+    date: "1975"
+    title: "1975 — aerial shows deeper 505 rear footprint and no 501 structure"
+    summary: "CCHS P-1293 confirms that 505 extends farther rearward than 503 by 1975 and that the former 501 structure remains absent; no change date inferred."
+    confidence: "High for mapped relative footprint; exact construction/change date unresolved."
+    related_sources: [S-229]
+    related_evidence: [E-203]
+    related_buildings: [B-001, B-002, B-005]

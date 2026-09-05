@@ -67,3 +67,5 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 ## Undated — CCHS P-1317 Fifth Street bluff photo context
 
 `S-217` / `E-197` / `IMG-0746` is CCHS `P-1317`, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the partially branch-obscured predecessor frontage later associated with **501/503/505 Main**. Use this as **PROBABLE / WORKING HYPOTHESIS** spatial context only: the exposure date is not supplied, later address numbers are not visible, and individual storefront/roof boundaries and structural continuity remain unresolved.
+
+| 1975 | CCHS `P-1293` aerial shows the former 501 corner footprint still absent. | Corroboration only; 1936–1944 removal bracket already established by `E-021`. | `E-203`; `S-229`; `IMG-0750` |

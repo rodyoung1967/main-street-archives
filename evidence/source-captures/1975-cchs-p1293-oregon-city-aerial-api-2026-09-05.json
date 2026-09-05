@@ -1,0 +1,273 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1293",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1293&size=50",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/02341030-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1981-aerial-view",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 1223,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-vdUempT.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/aerials/IMG-0750_1975-oregon-city-aerial-503-505-main-cchs-p1293.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 2446,
+    "bytes": 661148,
+    "sha256": "383ee35adc143af31f1a1080fe1a4dfad05354aedd7e6e1a75e0dd7b378ed5cd"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1981 - Aerial View.jpg",
+    "width": 2009,
+    "height": 2048,
+    "bytes": 779338,
+    "sha256": "7fcbdd1dc89b26d93498b6aa87af075b35965b3cb72de71a163198604e7a9912",
+    "supplied_title": "Oregon City 1981 - Aerial View",
+    "catalog_date_supplied": "1975",
+    "catalog_description_supplied": "Aerial Views of Oregon City, 1975. A) Main Street and McLoughlin Avenue/5th Street. B) Willamette Falls. C) Museum Site Before Museum of the Oregon Territory was Built. Companion Photos - P-1293, P-4391, P-4392",
+    "notes_supplied": "Medium: Photographic Paper; Location of Negative: Halon"
+  },
+  "entry": {
+    "id": "02341030-9b1f-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1981-aerial-view",
+    "media": [
+      {
+        "uuid": "dd565e40-9b86-11eb-8d59-b7d9fd36cc45",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-sunWKQM.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-sunWKaM.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-vdUempT.sm@1x.jpg",
+            "width": 768,
+            "height": 783
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-vdUempT.sm@2x.jpg",
+            "width": 768,
+            "height": 783
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-vdUempT.lg@1x.jpg",
+            "width": 1200,
+            "height": 1223
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/dd565e40-9b86-11eb-8d59-b7d9fd36cc45-vdUempT.lg@2x.jpg",
+            "width": 1200,
+            "height": 1223
+          },
+          "dominant_color": "11140F",
+          "complementary_color": "120F14"
+        }
+      },
+      {
+        "uuid": "9e1bd1b0-9b59-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Aerial Views of Oregon City, 1981. (A)",
+        "description": "Copyright: None; Origsize: 8\" x 8\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-sumA424.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-sumA44J.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-vdUempT.sm@1x.jpg",
+            "width": 768,
+            "height": 783
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-vdUempT.sm@2x.jpg",
+            "width": 768,
+            "height": 783
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-vdUempT.lg@1x.jpg",
+            "width": 834,
+            "height": 850
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/9e1bd1b0-9b59-11eb-97c3-a30f15c9573f-vdUempT.lg@2x.jpg",
+            "width": 834,
+            "height": 850
+          },
+          "dominant_color": "111510",
+          "complementary_color": "141015"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1981 - Aerial View",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1293",
+        "order": 2
+      },
+      "hasTag": {
+        "label": "Tags",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "Jo's House",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Tag"
+        },
+        "order": 3
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Aerial Views of Oregon City, 1975.\nA) Main Street and McLoughlin Avenue/5th Street.\nB) Willamette Falls.\nC) Museum Site Before Museum of the Oregon Territory was Built.\nCompanion Photos - P-1293, P-4391, P-4392",
+        "order": 4
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1975",
+                "fuzzydate_date": "1975-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001293",
+    "prev_id": "9e6c6480-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "83cf01c0-693c-11ee-aaa2-ebeaeabbd9dc"
+  }
+}

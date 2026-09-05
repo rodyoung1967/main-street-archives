@@ -86,3 +86,7 @@ Full file list: `media/photos/aerials/README.md`
 - Clackamas County assessor footprint sketches and demolition permits for **501 Main** and the east-side **500 Main** counterpart.
 - Newspaper notices for highway construction impacts on Main Street addresses.
 - Identify Sanborn-labelled occupant and owner records for 501 before removal.
+
+## Independent 1975 CCHS P-1293 cross-check
+
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`) is independent of the city photocompare screenshots and supplies a useful later-state control. In the established 5th/Main mapping, **505 extends farther rearward than 503** and the former **501** corner structure remains absent. The 501 observation only corroborates the existing 1936–1944 removal bracket. The 505 observation sharpens the rear-expansion research question: determine the earliest photocompare frame in which the 505-vs-503 depth asymmetry becomes visible. The photograph itself does not date the change or prove a circa-1940 addition.

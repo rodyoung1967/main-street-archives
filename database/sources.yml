@@ -1294,3 +1294,10 @@ sources:
     url: "https://www.familysearch.org/en/search/catalog/95422"
     notes: "Control/exclusion: catalog 95422 is R. L. Polk, publication 1960-forward, and does not establish the 1947-48 Pacific Directory Service volume."
     related_evidence: [E-202]
+
+  - id: S-229
+    name: "CCHS P-1293 — Oregon City aerial, cataloged 1975"
+    url: "evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md"
+    notes: "CCHS P-1293 aerial cataloged 1975; uploaded title says 1981. Direct mapped-block view confirms 505 is deeper rearward than 503 and 501 remains absent."
+    related_media: [IMG-0750]
+    related_evidence: [E-203]

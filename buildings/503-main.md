@@ -222,3 +222,7 @@ For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spat
 ## Mid-1960s P-4565 facade view
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) supplies a street-level view of the 503/The Wheel frontage with wheel motifs immediately beside the directly numbered **TAVERN / 505** sign. The image also shows **5th ST / MAIN** street blades at the corner.
+
+## 1975 P-1293 aerial footprint comparison
+
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows the mapped 503 footprint ending materially sooner rearward/westward than adjacent 505. This is relative-footprint evidence only; it does not establish the legal boundary or when 505 became deeper.

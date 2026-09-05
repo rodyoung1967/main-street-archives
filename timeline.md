@@ -501,3 +501,7 @@ The catalog metadata supplied with the image gives **no exposure date**, and no 
 ## T-081 — Circa mid-1960s — photographed Main Street lineup before the 1967 fire
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) shows the Main Street commercial row with the catalog-identified **The Wheel**, directly readable **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, and Seid's/Restaurant. The photograph directly shows **5th ST / MAIN** street blades; CCHS's supplied description instead says Main and McLoughlin Blvd., so the archive preserves the conflict. The image is strong visual context for the businesses independently documented immediately before the **1 September 1967** fire (`E-045`).
+
+## T-082 — 1975 — aerial shows deeper 505 rear footprint and no 501 structure
+
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), institutionally cataloged **1975**, provides an independent aerial control for the 5th/Main block. In the established address mapping, **505 Main extends materially farther rearward/westward than 503 Main**, while the separate former **501 Main** corner structure is absent. The 505 observation confirms the later-state depth asymmetry by 1975 but does not date the change or prove the `E-101` circa-1940 rear-addition hypothesis. The 501 observation corroborates but does not narrow the existing **1936–1944** removal bracket. The uploaded title/filename says “1981”; the CCHS 1975 date wording is controlling as catalog metadata and the discrepancy is preserved.

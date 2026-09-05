@@ -474,3 +474,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Review: `evidence/source-captures/1908-cchs-p6974-friedrich-little-510-512-7th-2026-09-04.md`.
 
 | `IMG-0749` CCHS `P-4565` | `S-220`, `E-200`, `T-081`, `BUS-004`, `BUS-005`, `BUS-007`, `BUS-023`, `BUS-092`, `BUS-093`, `BUS-094`, `B-001`, `B-002`, `B-003` | Circa-mid-1960s pre-fire Main Street business lineup; directly shows TAVERN/505 and multiple neighboring signs; visible 5th/Main blades conflict with catalog Main/McLoughlin wording. |
+
+| `IMG-0750` CCHS `P-1293` | `S-229`, `E-203`, `T-082`, `B-001`, `B-002`, `B-005`, `E-011`, `E-021`, `E-101`, `E-102` | CCHS-cataloged 1975 aerial; 505 visibly deeper rearward than 503; 501 absent; supplied title says 1981, catalog metadata says 1975. |

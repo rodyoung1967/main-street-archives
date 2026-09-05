@@ -3080,3 +3080,18 @@ evidence:
     related_businesses: [BUS-013, BUS-014]
     related_buildings: [B-002]
     repository_file: evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md
+
+  - id: E-203
+    name: "1975 aerial confirms deeper 505 footprint than 503 and continued absence of 501"
+    type: Primary aerial photographic evidence with institutional catalog metadata
+    classification: DOCUMENTED / DIRECT
+    claims:
+      - "In the established 5th/Main mapping, 505 Main extends materially farther rearward/westward than 503 Main in the CCHS-cataloged 1975 aerial."
+      - "The former 501 Main corner structure is absent; this corroborates but does not narrow the existing 1936-1944 removal bracket."
+      - "The image confirms the 505/503 rear-depth asymmetry by 1975 but does not date its origin or prove a circa-1940 addition."
+      - "The supplied title/filename says 1981 while the institutional metadata says 1975; the conflict is preserved."
+    confidence: "High to Very High for relative footprint and 501 absence in the mapped block; no exact dimensions or construction date inferred."
+    related_sources: [S-229]
+    related_buildings: [B-001, B-002, B-005]
+    related_media: [IMG-0750]
+    repository_file: evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md

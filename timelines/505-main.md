@@ -90,3 +90,5 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 `S-217` / `E-197` / `IMG-0746` is CCHS `P-1317`, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the partially branch-obscured predecessor frontage later associated with **501/503/505 Main**. Use this as **PROBABLE / WORKING HYPOTHESIS** spatial context only: the exposure date is not supplied, later address numbers are not visible, and individual storefront/roof boundaries and structural continuity remain unresolved.
 
 | Circa mid-1960s | CCHS `P-4565` directly shows **TAVERN / 505** on the 505 frontage, visually corroborating the Nov. 1965 renewal. | Primary photograph; exact exposure date unresolved. | `E-200`; `S-220`; `IMG-0749` |
+
+| 1975 | CCHS `P-1293` aerial directly shows **505 extending farther rearward than 503**. | Confirms later-state asymmetry by 1975; does not date the change or prove a circa-1940 addition. | `E-203`; `S-229`; `IMG-0750` |

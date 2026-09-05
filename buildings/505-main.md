@@ -307,3 +307,7 @@ For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spat
 ## Mid-1960s P-4565 facade view
 
 CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows the **TAVERN / 505** projecting sign and the 505 facade next to the catalog-identified Wheel frontage. This is visual corroboration of the 1965 505 Tavern documentary record, not evidence of ownership.
+
+## 1975 P-1293 aerial footprint comparison
+
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, directly confirms the later-state condition that **505 extends farther rearward/westward than 503**. This materially corroborates `E-011` and supplies a by-1975 endpoint for `RL-005`, but does not prove the change occurred in 1940 or identify an addition permit.

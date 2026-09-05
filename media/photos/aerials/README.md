@@ -48,3 +48,7 @@ Oregon City photocompare aerial screenshots (`S-023`), cataloged under `E-021`. 
 | Media ID | Date | Repository file | Source / limit |
 | --- | --- | --- | --- |
 | IMG-0737 | Undated | `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` | CCHS `P-9379` / accession `2022.012.001` (`S-208` / `E-188`); catalog title **Aerial Photograph Oregon City**. Exposure date and exact target-building mapping unresolved. |
+
+## Independent CCHS P-1293 aerial
+
+`IMG-0750` is an **independent CCHS aerial cataloged 1975**, not a frame from the Oregon City photocompare screenshot series. It directly confirms a deeper rearward 505 footprint relative to 503 and continued absence of 501. See `S-229` / `E-203` and `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md`. The supplied filename/title says 1981; CCHS metadata says 1975.

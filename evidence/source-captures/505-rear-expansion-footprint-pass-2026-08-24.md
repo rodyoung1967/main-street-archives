@@ -105,3 +105,7 @@ Competing explanations in `E-101` remain live.
 ## Statement on absence of evidence
 
 No 1939–1941 permit for **505 Main** was recovered in this pass. That is **coverage only**, not negative evidence that no improvement occurred.
+
+## 5 September 2026 follow-up — CCHS P-1293
+
+New independent aerial `IMG-0750` / `S-229` / `E-203`, cataloged by CCHS as **1975**, directly shows **505 extending farther rearward than 503**. This confirms the later-state asymmetry previously carried as owner observation (`E-011`) but **does not date its origin** and does not by itself validate the circa-1940 rear-addition hypothesis (`E-101`). It changes the best next test to a frame-by-frame search for the **first appearance** of the asymmetry in 1936/1940/1944/1955/1961/1974 aerials, followed by permit/assessor correlation.

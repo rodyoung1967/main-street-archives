@@ -513,3 +513,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved 8 Jul. 1948 Sandy-library availability, CCHS's later use of **Pacific Directory, 1947-48**, official 1947-48/1948 bibliographic variants, historic Ticor provenance, and FamilySearch catalog 95422 as a non-target 1960-forward Polk series.
 - Key interpretive change: any eventual Farr/Harr hit in the 1947–48 directory may reflect **late-1946 canvass data** and must not be dated mechanically from the edition label.
 - Farr's Pool Hall → Harr's Recreation Center transition date remains unresolved.
+
+## 5 September 2026 — CCHS P-1293 1975 aerial footprint control
+
+- Integrated `IMG-0750` / `S-229` / `E-203` / `T-082` from exact CCHS catalog object `P-1293` and project-steward supplied photograph metadata.
+- Visual review confirms **505 extends farther rearward than 503** and **501 is absent** in the mapped target block.
+- Recorded this as a by-1975 later-state endpoint for the unresolved 505 rear-depth chronology; did **not** convert it into proof of a 1940 addition.
+- Preserved the metadata conflict: supplied title/filename says **1981**, while the CCHS Date made field/description says **1975**.
+- 501 absence is corroborative only because `E-021` already brackets removal to 1936–1944.

@@ -196,3 +196,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-220` / `E-200`
 - CCHS: `P-4565`
 - Key value: visual lineup of The Wheel/503, **TAVERN 505**, Coast to Coast, Dixon's Pastry Shop, Harding Drugs, Volunteers thrift, and Seid's before the 1967 fire; visible **5th/Main** street blades preserved against conflicting catalog Main/McLoughlin wording.
+
+### IMG-0750 — CCHS P-1293 Oregon City aerial, cataloged 1975
+- File: `media/photos/aerials/IMG-0750_1975-oregon-city-aerial-503-505-main-cchs-p1293.jpg`
+- Source/evidence/timeline: `S-229` / `E-203` / `T-082`
+- CCHS: `P-1293`
+- Key value: independent high-quality aerial confirmation that 505 is deeper rearward than 503 by 1975 and that 501 remains absent; supplied “1981” title conflicts with CCHS 1975 date metadata and is preserved as such.

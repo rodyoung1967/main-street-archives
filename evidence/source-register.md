@@ -1765,3 +1765,14 @@ URL: https://www.familysearch.org/en/search/catalog/95422
 Related evidence: `E-202`.
 Capture: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
 Notes: Control/exclusion: catalog 95422 is R. L. Polk, publication 1960-forward, and does not establish the 1947-48 Pacific Directory Service volume.
+
+## S-229 — CCHS P-1293 — Oregon City aerial, cataloged 1975
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1293`.
+Date: **1975** per supplied CCHS Date made field and description; uploaded title/filename says “1981” and is preserved as conflicting title wording.
+Repository image: `media/photos/aerials/IMG-0750_1975-oregon-city-aerial-503-505-main-cchs-p1293.jpg`.
+Capture: `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1981-aerial-view
+Related evidence/media/timeline: `E-203` / `IMG-0750` / `T-082`.
+Notes: Target-block review directly shows 505 extending farther rearward than 503 and confirms continued absence of the former 501 corner structure. It does not date the 505 rear-depth change or prove the 1940 addition hypothesis.

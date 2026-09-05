@@ -1793,3 +1793,17 @@ Related sources: `S-223`, `S-224`, `S-225`, `S-226`, `S-227`, `S-228`.
 Related businesses: `BUS-013`, `BUS-014`.
 Related building: `B-002`.
 Record: `evidence/source-captures/1946-1948-clackamas-county-directory-production-retrieval-route-2026-09-04.md`.
+
+## E-203 — 1975 aerial confirms deeper 505 footprint than 503 and continued absence of 501
+Source: `S-229`
+Media: `IMG-0750`
+Type: Primary aerial photographic evidence with institutional catalog metadata
+Claims:
+- In the established 5th/Main address mapping, the **505 Main footprint extends materially farther rearward/westward than 503 Main** in the CCHS-cataloged 1975 aerial.
+- The former **501 Main** corner structure is absent, independently corroborating—but not narrowing—the existing `E-021` removal bracket of 1936–1944.
+- The photograph establishes the 505/503 rear-depth asymmetry **by 1975** but does **not** establish when it first appeared and does not prove `E-101`'s proposed circa-1940 rear addition/remodel.
+- The uploaded title/filename says 1981 while the supplied institutional metadata says 1975; 1975 is retained as the catalog date and the conflict is explicit.
+Classification: **DOCUMENTED / DIRECT** for photographed later-state geometry and catalog date statement; **STRONG CROSS-SOURCE CORROBORATION** for continued 501 absence; change date remains unresolved.
+Confidence: **High to Very High** for relative 505-vs-503 rear depth and 501 absence in the mapped block; no exact measurement or construction date inferred.
+Related prior evidence: `E-011`, `E-021`, `E-101`, `E-102`.
+Related buildings: `B-001`, `B-002`, `B-005`.

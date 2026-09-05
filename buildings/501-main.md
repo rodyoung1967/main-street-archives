@@ -171,3 +171,7 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 `S-217` / `E-197` / `IMG-0746` preserves CCHS `P-1317`, **Oregon City - View from Bluff**, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the tree branches.
 
 For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context only. The catalog supplies no exposure date, the later street numbers are not visible, branches obscure the target area, and the image does not establish individual 501/503/505 boundaries or continuity into later numbered/surviving structures.
+
+## 1975 P-1293 continued absence
+
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows no separate 501 structure at the mapped former corner site. This is independent later corroboration only; `E-021` already establishes that 501 disappeared between 1936 and 1944, so the 1975 image does not narrow the removal date.

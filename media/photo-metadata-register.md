@@ -1518,3 +1518,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Repository dimensions: **2400 × 1921**; SHA-256 `25329cd01f7f935b9c4346f724ba56c495e32b6e2d4d2a90d2c26dbea4f3b154`
 - Steward original: `Oregon City 1960's - Street Scene - Corner of Main and McLoughlin.jpg`; 2048×1639; 539,871 bytes; SHA-256 `e1cc91d86616daf4cc863b30159742e0bc98e5e698bf56fcd671cfa0a56a8a59`
 - Visual business/sign findings: **TAVERN / 505**, Coast to Coast Stores, Dixon's Pastry Shop, Harding Drugs, Volunteers of America Thrift Store, Seid's/Restaurant, and unresolved **Rain Check Room** wording; CCHS also identifies The Wheel.
+
+## IMG-0750 — CCHS P-1293, Oregon City aerial cataloged 1975
+- Type: Historic aerial photograph
+- Institutional date: **1975** per supplied CCHS Date made field and description
+- Supplied title/filename: **Oregon City 1981 - Aerial View** — title/date conflict preserved
+- CCHS catalog: `P-1293`
+- Related buildings: `B-001` (503), `B-002` (505), `B-005` (501 historic/removed)
+- Source/Evidence/Timeline: `S-229` / `E-203` / `T-082`
+- Repository file: `media/photos/aerials/IMG-0750_1975-oregon-city-aerial-503-505-main-cchs-p1293.jpg`
+- Repository dimensions: **2400 × 2446**; 661,148 bytes; SHA-256 `383ee35adc143af31f1a1080fe1a4dfad05354aedd7e6e1a75e0dd7b378ed5cd`
+- Steward upload: `Oregon City 1981 - Aerial View.jpg`; 2009×2048; 779,338 bytes; SHA-256 `7fcbdd1dc89b26d93498b6aa87af075b35965b3cb72de71a163198604e7a9912`
+- Visual finding: in the established target-block mapping, **505 extends farther rearward than 503**, while the separate former **501** corner structure is absent.
+- Interpretation limit: confirms the later-state geometry by 1975; does not date a 505 addition, prove a 1940 construction event, establish legal boundaries, or alter the already-established 1936–1944 501 removal bracket.
+- Review: `evidence/source-captures/1975-cchs-p1293-oregon-city-aerial-503-505-501-2026-09-05.md`
