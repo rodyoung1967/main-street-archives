@@ -32,12 +32,12 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 1925 | Sanborn maps **501 as a separate store** beside 503 restaurant and 505 billiards/cigars. | **Exact map use**; occupant unnamed and 1922 division unresolved. | `E-020`; `S-021`; `SM-008` |
 | 11 Nov. 1926 | Fire department responds to **Fifth and Main, false alarm**, 1:15 p.m. | **Intersection context only**; no number or occupant, damage unstated. Not a 501 fire or rebuild. | `E-142`; `S-159`; `T-049` |
 | 1936 | Aerial shows distinct 501 roof/structure. | Physical presence; tenant/construction date unknown. | `E-021`; `S-023` |
-| 1936–1944 | Distinct 501 structure disappears between aerials. | Removal window only; cause/date unresolved. | `E-021`; `S-023` |
+| 1936–1940 | Distinct 501 structure disappears between aerial states; 1940 frame shows the mapped corner footprint absent. | Removal window narrowed; exact date/cause unresolved. | `E-021`; `S-023` |
 | 1950 | Earlier separate 501 storefront configuration is absent from Sanborn. | Physical/address context, not removal-cause proof. | `SM-009` |
 | Current research | OHS indexes a Main/Fifth Block 4 title abstract, but its title says Lots 3–4 while its lot field says 3–5. | Retrieval lead only; abstract not inspected and historic 501 lot/title still unresolved. | `E-095`; `S-109`, `S-110` |
 | Current model | 501 remains live in the Gates/Wolf/fire model because Gates-to-501 is unproved. | **Hypothesis/conflict; no model selected.** | `E-108`; Task 7/8 captures |
 
-Open: Palace 1900/1905 exact location; Surber's 1905 Palace→1907 No.501 room continuity; later Surber/Smith/Case/Wilson/Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1944 removal cause.
+Open: Palace 1900/1905 exact location; Surber's 1905 Palace→1907 No.501 room continuity; later Surber/Smith/Case/Wilson/Hunsaker succession; Case/Pioneer/Holman/Restaurant exact assignment; 1922 boundary/fire room; 1925 tenant; 1936–1940 removal cause.
 
 ## 1909–1910 Palace address update — printed 510 conflict retained
 - **31 Dec. 1909:** Ralph O. Smith applies at **Palace Saloon, corner Main/Fifth** for six months (`S-198` / `E-177`); no 501 printed.

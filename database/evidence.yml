@@ -372,14 +372,15 @@ evidence:
     name: "Aerial Photocompare Series: 5th & Main / McLoughlin Context"
     type: Aerial photograph evidence
     claims:
+      - Focused 5 September 2026 re-review of canonical local IMG-0007/IMG-0008 narrows 501 removal to 1936-1940 and identifies 1940 as the earliest reviewed frame with distinguishable deeper 505 rear depth relative to 503; exact 505 alteration date remains unresolved.
       - Oregon City photocompare aerial series 1929-2025 centered on 5th and Main shows McLoughlin Blvd / US99E labeling by 1929.
       - A wider graded highway corridor west of Main appears by 1936.
       - The 1936 frame shows three distinct roofs at 501, 503, and 505 Main.
       - By 1944 the 501 Main footprint is absent; the east-side building across from 500 Main is also no longer present.
-      - 501 Main was removed between 1936 and 1944.
+      - 501 Main was removed between the 1936 and 1940 aerial states.
       - Remaining Main-frontage structures north of the former 501 corner persist through mid-century.
       - 1996 flood frame shows high water near riverfront / McLoughlin corridor.
-    confidence: Moderate to high for 501 existence in 1936 and removal by 1944; moderate for highway/corridor labeling; not sufficient alone for business names, ownership, or legal cause of demolition.
+    confidence: Moderate to high for 501 existence in 1936 and absence by 1940; moderate for highway/corridor labeling; not sufficient alone for business names, ownership, or legal cause of demolition.
     related_sources:
       - S-023
     related_buildings:
@@ -1495,6 +1496,7 @@ evidence:
     name: 505 Main Sanborn / Aerial Footprint Pass (1936–1950)
     type: Primary map evidence + preliminary aerial comparison / research-pass synthesis
     claims:
+      - 5 September 2026 address-level aerial follow-up identifies 1940 as the earliest reviewed frame with distinguishable deeper 505 rear depth relative to 503; 1936 is ambiguous and no construction date is inferred.
       - August 2026 footprint pass visually compared 1925 and 1950 Sanborn Sheet 6 PDFs for the Fifth/Main/Water block and preliminarily compared aerial frames IMG-0007 (1936), IMG-0008 (1940), and IMG-0009 (1944).
       - 1925 shows separate 503 Rest. and 505 Billds. and Cigars storefronts with Oregon City Laundry behind 501/503; 1950 shows 505 Main as Bill'ds, Cigars and Rest. with CONC. FL. plus block reconfiguration including Fifth-corner gas station, reshaped laundry, and U.S. Post Office BUILT 1933.
       - No 1939-1941 construction/addition permit for 505 Main was retrieved online; preliminary aerial comparison suggests increased built coverage by 1940 but does not yet isolate 505 specifically.
@@ -3086,8 +3088,9 @@ evidence:
     type: Primary aerial photographic evidence with institutional catalog metadata
     classification: DOCUMENTED / DIRECT
     claims:
+      - Later same-day S-023 re-review moves the earliest reviewed distinguishable deeper-505 endpoint to 1940 and narrows 501 removal to 1936-1940; this does not change P-1293's value as independent 1975 corroboration.
       - "In the established 5th/Main mapping, 505 Main extends materially farther rearward/westward than 503 Main in the CCHS-cataloged 1975 aerial."
-      - "The former 501 Main corner structure is absent; this corroborates but does not narrow the existing 1936-1944 removal bracket."
+      - "The former 501 Main corner structure is absent; this corroborates but does not narrow the newly narrowed 1936-1940 removal bracket."
       - "The image confirms the 505/503 rear-depth asymmetry by 1975 but does not date its origin or prove a circa-1940 addition."
       - "The supplied title/filename says 1981 while the institutional metadata says 1975; the conflict is preserved."
     confidence: "High to Very High for relative footprint and 501 absence in the mapped block; no exact dimensions or construction date inferred."

@@ -117,6 +117,9 @@ Related media: `IMG-0006` through `IMG-0043`; key frames: `IMG-0007` (1936), `IM
 Claims: Oregon City photocompare aerial series (1929–2025) centered on 5th & Main shows McLoughlin Blvd / US99E labeling by 1929 and a wider graded highway corridor west of Main by 1936. The 1936 frame shows three distinct roofs at 501, 503, and 505 Main. By 1944 the 501 Main footprint is absent, and the east-side building across from 500 Main (Sanborn-labelled counterpart) is also no longer present — establishing **501 Main removal between 1936 and 1944**. Remaining Main-frontage structures north of the former 501 corner persist through mid-century. 1996 flood frame shows high water near riverfront / McLoughlin corridor.  
 Confidence: Moderate to high for 501 existence in 1936 and removal by 1944; moderate for highway/corridor labeling; not sufficient alone for business names, ownership, or legal cause of demolition.
 
+### 5 September 2026 re-review
+Focused re-review of the canonical local `IMG-0007` / `IMG-0008` / `IMG-0009` frames **supersedes the earlier 1936–1944 removal bracket**: 501 is present in 1936 and the mapped corner footprint is absent in 1940, narrowing removal to **1936–1940**. The same re-review identifies **1940 as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than 503**. The 1936 rear-edge relationship is ambiguous and is not treated as negative evidence. Exact 505 alteration date and 501 removal cause remain unresolved. Method: `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.
+
 ## E-022 — August 2026 Family Identity, Address, Business-Separation, and 505 Property Corrections
 Type: Direct user / family confirmation  
 Date: 16–24 August 2026  
@@ -241,6 +244,9 @@ Sources: `S-021`, `S-022`, `S-023`; related hypothesis `E-101`
 Related record: `evidence/E-102-505-sanborn-aerial-footprint-pass-2026-08-24.md`; source capture: `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`  
 Claims: August 2026 footprint pass visually compared **1925** and **1950** Sanborn Sheet 6 PDFs for the Fifth/Main/Water block and preliminarily compared aerial frames **`IMG-0007` (1936)**, **`IMG-0008` (1940)**, and **`IMG-0009` (1944)**. **1925:** separate **503 Rest.** and **505 Billds. & Cigars** storefronts; Oregon City Laundry behind 501/503. **1950:** **505 Main** labeled **Bill'ds, Cigars & Rest.** with **CONC. FL.**; block reconfiguration including Fifth-corner gas station, reshaped laundry, and **U.S. Post Office BUILT 1933**. No **1939–1941** construction/addition permit for **505 Main** was retrieved online. Preliminary aerial comparison suggests increased built coverage in the Main/McLoughlin block by **1940** but does not yet isolate **505** specifically. Strengthens plausibility that inventory **1940** may reflect mid-century improvement/reconfiguration rather than first-ever erection; does **not** confirm a **505-specific rear wall extension** around 1940.  
 Confidence: Very High for the 1925 and 1950 Sanborn address/occupancy readings; Moderate for block-level aerial density change 1936→1940 — preliminary, address unresolved; Unresolved for 505 rear-wall movement and any specific 1940 physical event.
+
+### 5 September 2026 address-level follow-up
+The pending aerial transcription is complete. `IMG-0008` (1940) shows the mapped 501 corner footprint absent and provides the earliest reviewed distinguishable deeper-505-vs-503 state. This strengthens the rear-remodel hypothesis but does not date construction to 1940; permits/assessor evidence remain required. See `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.
 
 ## E-036 — Withdrawn 1981 Sandy Post Brass Rail Citation
 Type: Research correction  
@@ -1807,6 +1813,9 @@ Classification: **DOCUMENTED / DIRECT** for photographed later-state geometry an
 Confidence: **High to Very High** for relative 505-vs-503 rear depth and 501 absence in the mapped block; no exact measurement or construction date inferred.
 Related prior evidence: `E-011`, `E-021`, `E-101`, `E-102`.
 Related buildings: `B-001`, `B-002`, `B-005`.
+
+### 5 September 2026 later same-day re-review
+The 1975 CCHS image remains independent later-state corroboration, but it no longer supplies the earliest known deep-505 endpoint: focused `S-023` re-review now identifies the deeper 505 state by **1940** and narrows 501 removal to **1936–1940**. `E-203` does not date the 505 alteration itself.
 
 ## E-204 — Circa-mid-1960s photograph documents southeast 5th/Main Mobil station and Hagen insurance agency
 Source: `S-230`

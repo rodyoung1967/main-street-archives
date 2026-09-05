@@ -311,3 +311,9 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows the **TAVERN / 505
 ## 1975 P-1293 aerial footprint comparison
 
 CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, directly confirms the later-state condition that **505 extends farther rearward/westward than 503**. This materially corroborates `E-011` and supplies a by-1975 endpoint for `RL-005`, but does not prove the change occurred in 1940 or identify an addition permit.
+
+## 5 September 2026 aerial rear-depth re-review
+
+Focused address-level re-review of the canonical local aerial series (`S-023` / `E-021` / `E-102`) now identifies **1940 (`IMG-0008`) as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than adjacent 503**. The 1936 frame is ambiguous; no absence inference is made. Later 1961/1974 frames and independent CCHS 1975 `P-1293` (`E-203`) confirm the deeper state.
+
+This strengthens—but does not prove—the `E-101` interpretation that the official **1940** date may relate to substantial rear work or remodeling rather than first construction of the Main-frontage premises. Permit, assessor, deed, and physical-fabric evidence remain required to date and explain the change.

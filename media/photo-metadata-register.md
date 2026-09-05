@@ -87,7 +87,7 @@ Repository audit, 31 August 2026: **69 raster files are committed and all 69 are
 - Status: `committed` (all 38 JPEG files present in repository)
 - Analysis: `evidence/aerial-5th-main-photocompare-series.md`
 - File index: `media/photos/aerials/README.md`
-- Notes: Screenshots from Oregon City photocompare viewer, one frame per year 1929–2025. Key finding: 501 Main visible as separate roof in 1936 (`IMG-0007`); absent by 1944 (`IMG-0009`) — removal window 1936–1944 (`D-003`, `E-021`).
+- Notes: Screenshots from Oregon City photocompare viewer, one frame per year 1929–2025. Key finding: 501 Main visible as separate roof in 1936 (`IMG-0007`); absent by 1944 (`IMG-0009`) — removal window narrowed to 1936–1940 by 5 September 2026 re-review (`D-011`, `E-021`, `E-102`).
 
 | Media ID | Year | Repository file |
 | --- | --- | --- |

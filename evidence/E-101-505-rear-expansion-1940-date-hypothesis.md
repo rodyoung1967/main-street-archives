@@ -51,3 +51,9 @@ A whole-building rebuild around 1940, assessor/survey dating convention, phased 
 - Research lead: `RL-005`
 - Related footprint pass: `E-102`
 - Media comparison targets: `IMG-0007`, `IMG-0008`, `IMG-0009`
+
+## 5 September 2026 — address-level aerial re-review
+
+A focused re-review of the canonical local `S-023` images now identifies **1940 (`IMG-0008`) as the earliest reviewed frame in which 505 can be distinguished as extending materially farther rearward/westward than 503**. The 1936 frame does not securely show the later asymmetry; that ambiguity is not evidence that the deeper portion did not exist. Later frames and independent 1975 CCHS `P-1293` (`E-203`) confirm the deeper state.
+
+This materially strengthens the rear-expansion/remodel interpretation but does **not** prove a 1940 construction event. The same re-review narrows the separate 501 removal interval to **1936–1940**. Full method/limits: `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.

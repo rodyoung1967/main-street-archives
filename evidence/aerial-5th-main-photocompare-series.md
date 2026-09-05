@@ -34,7 +34,7 @@ An initial integration pass incorrectly stated that 501 Main could not be isolat
 | 2005 Leaf Off (`IMG-0022`) | Leaf-off frame improves roofline reading for the remaining block. | Moderate |
 | 2012–2025 (`IMG-0029`–`IMG-0043`) | Color aerials show current commercial block including 503/505/507 context; replacement Harding Building footprint at 507 readable in later decades. | Moderate to high for current footprint |
 
-**Working conclusion:** McLoughlin / US99E is an established labeled corridor by **1929**, with a visibly wider graded corridor by **1936**. The **501 Main removal window (1936–1944)** overlaps the period of visible highway-corridor change and should be tested against ODOT / county highway and acquisition records (`OQ-023`).
+**Working conclusion:** McLoughlin / US99E is an established labeled corridor by **1929**, with a visibly wider graded corridor by **1936**. The **501 Main removal window (1936–1940)** overlaps the period of visible highway-corridor change and should be tested against ODOT / county highway and acquisition records (`OQ-023`).
 
 ## 501 Main — Existence and Removal (Primary Aerial Finding)
 
@@ -43,16 +43,16 @@ Cross-reference: `E-020` and `maps/sanborn-comparison-503-505-507.md` place **50
 | Question | Aerial finding | Status |
 | --- | --- | --- |
 | Did 501 exist as a separate structure in the aerial era? | **Yes.** `IMG-0007` (1936) shows **three distinct roofs** at **501, 503, and 505 Main** on the west-side Main frontage. | **Supported** — moderate to high |
-| When was 501 removed? | **Between 1936 and 1944.** Present in 1936 (`IMG-0007`); absent by 1944 (`IMG-0009`). Exact year within that window not yet pinned (1940 frame may narrow further). | **Partially answered** — removal window established |
+| When was 501 removed? | **Between 1936 and 1940.** Present in 1936 (`IMG-0007`); absent in the 1940 frame (`IMG-0008`), with 1944 (`IMG-0009`) as later confirmation. | **Partially answered** — narrower removal interval established; exact date/cause unresolved |
 | East-side counterpart | By **1944**, the building **across from 500 Main** (east side of Main, as labelled on Sanborn sheets) is **also no longer present**. | **Supported** — moderate |
 | Cause of removal | Timing overlaps McLoughlin / US99E corridor change, but aerials alone do not prove highway acquisition, fire, or voluntary demolition. | **Unresolved** — needs deeds, permits, highway project records |
 | Business / ownership | Not readable from aerials. | **Unresolved** (`OQ-005` remainder) |
 
-**Working conclusion:** The aerial series adds **positive evidence** that **501 Main existed as a separable building through at least 1936** and was **removed by 1944**, with a related east-side footprint across from **500 Main** also gone by 1944. This **partially answers** `OQ-005` (existence + removal timing) while leaving business history, ownership, and removal **cause** open.
+**Working conclusion:** The aerial series adds **positive evidence** that **501 Main existed as a separable building through at least 1936** and was **removed by the 1940 aerial**, narrowing the removal interval to **1936–1940**. The related east-side footprint across from **500 Main** is also gone by 1944. This **partially answers** `OQ-005` (existence + removal timing) while leaving business history, ownership, and removal **cause** open.
 
 ## 503 / 505 / 507 Block Observations
 
-- **503 & 505:** Remain part of the Main frontage north from the former 501 corner after 1944; finer legal/physical boundary not readable from aerials alone (`OQ-004` unchanged). **`E-101`** proposes testing whether **505's rear depth** changed between **1936 (`IMG-0007`)**, **1940 (`IMG-0008`)**, and **1944 (`IMG-0009`)** as a possible explanation for the inventory **1940** date. **`E-102`** (August 2026) preliminarily compared those frames: block-level built coverage appears denser by **1940**, but **505-specific rear-edge transcription remains open** (`RL-005`). See `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`.
+- **503 & 505:** Remain part of the Main frontage north from the former 501 corner. A focused **5 September 2026** re-review of the canonical local `S-023` frames now identifies **1940 (`IMG-0008`) as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than 503**. The 1936 frame does not securely show the later asymmetry, but that ambiguity is not negative evidence. The deeper state remains visible in later frames and is independently confirmed by 1975 CCHS `P-1293` (`E-203`). Exact construction date/scope remains open under `OQ-003` / `RL-005`; see `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.
 - **507 / Harding Building:** Distinct roof mass visible in 1936; post-fire replacement footprint consistent with late-1960s fire narrative (`E-016`, `E-017`) in later color years — exact fire-year confirmation still needs newspapers / fire records.
 - **Circa 2017 modification:** Time Capsule Maps metadata (`E-015`) reports significant 503 modification around 2017; 2017+ color aerials (`IMG-0035` onward) may support future permit/photo comparison but are not transcribed here frame-by-frame.
 
@@ -64,7 +64,7 @@ Full file list: `media/photos/aerials/README.md`
 | --- | --- | --- |
 | `IMG-0006` | 1929 | Earliest series frame; US99E / McLoughlin labeled |
 | `IMG-0007` | 1936 | **Three distinct roofs: 501, 503, 505 Main** |
-| `IMG-0008` | 1940 | Compare against 1936/1944 for narrowing 501 removal year |
+| `IMG-0008` | 1940 | **501 absent; first reviewed frame with distinguishable deeper 505 rear footprint relative to 503** |
 | `IMG-0009` | 1944 | **501 Main absent**; east-side building across from 500 Main also absent |
 | `IMG-0010` | 1955 | Mid-century built block without 501 corner structure |
 | `IMG-0011` | 1961 | Pre-/around Harding fire era — 507 mass visible |
@@ -81,7 +81,7 @@ Full file list: `media/photos/aerials/README.md`
 
 ## Follow-Up Research
 
-- Pin exact 501 removal year between 1940 and 1944 using `IMG-0008` and any intermediate sources.
+- Pin the exact 501 removal date within the **1936–1940** aerial bracket using demolition/highway/property records; no intermediate aerial is presently established.
 - Oregon Department of Transportation / county records for US99E / McLoughlin widening and acquisition dates near 5th & Main (**1936–1944 window**).
 - Clackamas County assessor footprint sketches and demolition permits for **501 Main** and the east-side **500 Main** counterpart.
 - Newspaper notices for highway construction impacts on Main Street addresses.
@@ -89,4 +89,4 @@ Full file list: `media/photos/aerials/README.md`
 
 ## Independent 1975 CCHS P-1293 cross-check
 
-CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`) is independent of the city photocompare screenshots and supplies a useful later-state control. In the established 5th/Main mapping, **505 extends farther rearward than 503** and the former **501** corner structure remains absent. The 501 observation only corroborates the existing 1936–1944 removal bracket. The 505 observation sharpens the rear-expansion research question: determine the earliest photocompare frame in which the 505-vs-503 depth asymmetry becomes visible. The photograph itself does not date the change or prove a circa-1940 addition.
+CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`) is independent of the city photocompare screenshots and supplies a useful later-state control. In the established 5th/Main mapping, **505 extends farther rearward than 503** and the former **501** corner structure remains absent. The 501 observation now corroborates the **1936–1940** removal bracket established by the focused re-review. The 505 observation remains an independent later-state control; the earliest reviewed photocompare frame in which the 505-vs-503 depth asymmetry can be distinguished is now **1940**. The photograph itself does not date the change or prove a circa-1940 addition.

@@ -528,3 +528,5 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Direct visual review reads **Mobil**, **The L. H. HAGEN Agency**, and **INSURANCE**.
 - Preserved steward orientation: camera at/near The Wheel/503 northwest corner of 5th/Main looking southeast. This is attributed testimony; the photograph itself does not show the 503/505 facades or an exact 503 street number.
 - Added business records `BUS-095` and `BUS-096` with exact street numbers/operators left unresolved.
+
+| 2026-09-05 | Integrated 1940 aerial address-level re-review | Re-reviewed canonical local `S-023` frames; narrowed 501 removal from 1936–1944 to **1936–1940** and established **1940 as earliest reviewed distinguishable deeper-505-vs-503 state**. Direct same-source ArcGIS renders used only as temporary alignment aids, not independent evidence. | Exact 501 demolition cause/date and exact 505 alteration date/scope/permit/assessor change remain open. |

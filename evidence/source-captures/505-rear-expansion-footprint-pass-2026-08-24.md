@@ -1,6 +1,6 @@
 # 505 Main — rear-expansion footprint pass (1936–1950)
 
-Status: **PARTIAL PASS — Sanborn visually verified; aerial preliminary; permits not recovered**
+Status: **FOLLOW-UP COMPLETE FOR AERIAL ADDRESS TRANSCRIPTION — permits/assessor records still unresolved**
 
 Date: 24 August 2026
 
@@ -109,3 +109,9 @@ No 1939–1941 permit for **505 Main** was recovered in this pass. That is **cov
 ## 5 September 2026 follow-up — CCHS P-1293
 
 New independent aerial `IMG-0750` / `S-229` / `E-203`, cataloged by CCHS as **1975**, directly shows **505 extending farther rearward than 503**. This confirms the later-state asymmetry previously carried as owner observation (`E-011`) but **does not date its origin** and does not by itself validate the circa-1940 rear-addition hypothesis (`E-101`). It changes the best next test to a frame-by-frame search for the **first appearance** of the asymmetry in 1936/1940/1944/1955/1961/1974 aerials, followed by permit/assessor correlation.
+
+## 5 September 2026 address-level aerial follow-up
+
+The pending steward-verified aerial transcription in manual callout 4 has now been completed against the canonical local `S-023` frames. **501 is present in 1936 and absent in 1940**, narrowing its removal bracket to **1936–1940**. The **1940 frame is also the earliest reviewed frame in which 505 can be distinguished as deeper rearward/westward than 503**. The 1936 rear-edge relationship remains ambiguous and is not treated as evidence of absence.
+
+This resolves the frame-transcription portion of `RL-005`, but not the construction-date question. Original permits, assessor cards, and physical material evidence remain necessary. See `evidence/source-captures/1940-aerial-501-removal-505-depth-rereview-2026-09-05.md`.

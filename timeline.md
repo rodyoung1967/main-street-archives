@@ -295,8 +295,8 @@ The municipal table distinguishes **10 July, 4:40 p.m., Sixth/Main, false alarm*
 ## 1935 — present 527 Main / Swartz Building
 City of Oregon City and ODOT historic-resource surveys identify the **present building at 527 Main as the Swartz Building, constructed in 1935** (`S-062`, `S-063`). Because Bailey & Price was documented at 527 Main in January 1912 (`S-061`), the 1912 business occupied a predecessor building/storefront at that address unless later address-renumbering evidence changes the interpretation.
 
-## 1936-1944 — 501 Main removal window
-Aerial evidence establishes that a distinct **501 Main structure existed in 1936 and was removed by 1944** (`E-021`). Its exact tenant history, ownership, removal date, and relationship to McLoughlin/US99E work remain open.
+## 1936-1940 — 501 Main removal window
+Focused re-review of the canonical local aerial series establishes that a distinct **501 Main structure existed in 1936 and the mapped corner footprint was absent in the 1940 frame** (`E-021` / `E-102`). The exact tenant history, ownership, demolition date, and relationship to McLoughlin/US99E work remain open. The same 1940 frame is the earliest reviewed aerial in which **505 can be distinguished as deeper rearward/westward than 503**; this is a photographed state, not proof of a 1940 construction event.
 
 ## 1940s-1950s
 503 Main housed the Kwality Cafe lineage.

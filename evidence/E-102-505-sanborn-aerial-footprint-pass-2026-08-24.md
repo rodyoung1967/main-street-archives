@@ -17,19 +17,24 @@ An August 2026 footprint pass visually compared **1925** and **1950** Sanborn Sh
 
 - No **1939–1941** construction/addition permit for **505 Main** was retrieved online; Clackamas Document Retriever returned only a later electrical permit.
 
-**Aerial — preliminary only:**
+**Aerial — 5 September 2026 address-level re-review:**
 
-- Cropped **1936 → 1940 → 1944** comparison suggests **increased built coverage** in the Main/McLoughlin block by **1940**, but **does not yet isolate 505** specifically.
+- The canonical local `S-023` screenshots were re-reviewed frame by frame. Direct renders of the same city layers were used only as temporary alignment/zoom aids, not as independent evidence.
+- **1936 (`IMG-0007`)**: 501 is present; the 503/505 rear-depth relationship is too ambiguous for a secure asymmetry call.
+- **1940 (`IMG-0008`)**: 501 is absent, narrowing its removal interval to **1936–1940**; 505 can be distinguished as extending farther rearward/westward than 503.
+- **1944 (`IMG-0009`)**: confirms 501 remains absent; frame quality does not narrow the 505 construction date beyond the by-1940 state.
+- Later 1955/1961/1974 frames maintain the deeper-505 condition, independently confirmed by CCHS `P-1293` in 1975 (`E-203`).
 
 ## Interpretation for `E-101`
 
-This pass **strengthens plausibility** that the inventory **1940** line may reflect **mid-century improvement or block reconfiguration** (including concrete-floor notation at **505** by 1950) rather than first-ever erection of the entire premises. It does **not** confirm a **505-specific rear expansion** around 1940.
+The re-review now establishes a stronger photographic endpoint: the **deeper 505-vs-503 rear-footprint relationship is distinguishable by the 1940 frame**. This materially strengthens the possibility that the inventory **1940** line reflects substantial improvement or rear work rather than first-ever erection of the Main-frontage premises. It still does **not** date the work to 1940; permit/assessor/physical evidence is required.
 
 ## Confidence
 
 - Very High for the **1925** and **1950** Sanborn address/occupancy readings described above.
-- Moderate for **block-level aerial density change 1936→1940** — preliminary, address unresolved.
-- Unresolved for **505 rear-wall movement** and for any specific **1940** physical event.
+- Moderate for the address-level reading that **505 is deeper than 503 by 1940**; early aerial resolution limits exact rear-wall transcription.
+- Moderate to High for **501 present in 1936 and absent by 1940**.
+- Unresolved for the exact **date, scope, permit, owner, or builder** of any 505 rear alteration and for whether 1940 specifically marks construction.
 
 ## Related IDs
 

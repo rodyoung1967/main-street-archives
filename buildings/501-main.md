@@ -15,7 +15,7 @@
 
 The **1925 Sanborn map directly labels 501 Main Street as a separate store space** at/near the 5th and Main corner. On the same frontage, 503 is mapped as a restaurant and 505 as billiards/cigars (`E-020` / `S-021`).
 
-Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. By the 1944 aerial, that footprint is gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between 1936 and 1944.
+Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. A focused 5 September 2026 re-review of the 1940 frame shows that mapped corner footprint already gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between the **1936 and 1940 aerial states**; 1944 is later confirmation.
 
 Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof and does not identify the July 1922 fire-origin room.
 
@@ -103,7 +103,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 | 1924 | A Polk Oregon City directory existed; actual address pages still needed | Very High for directory existence |
 | 1925 | **501 Main** shown by Sanborn as a separate **store** | Very High |
 | 1936 | Distinct 501 structure visible in aerial evidence | Moderate–High |
-| 1936–1944 | 501 structure removed during this interval | Moderate–High |
+| 1936–1940 | 501 structure removed during this interval | Moderate–High |
 
 ## Open Questions
 
@@ -114,7 +114,7 @@ The highest-value next step is to obtain the **1924 address and business-directo
 - Did the July 1922 Fifth Street Restaurant occupy the modern 501 footprint?
 - Did the Gates replacement map principally to 501, to 501+503, or to another two-store arrangement?
 - Which original Block 4 lot contained historic 501, and can a deed, title abstract, numbering plat, or survey prove it?
-- Why was the 501 structure removed between 1936 and 1944?
+- Why was the 501 structure removed between 1936 and 1940?
 - Was its removal connected to McLoughlin Boulevard / US99E work?
 
 
