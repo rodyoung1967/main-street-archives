@@ -1,0 +1,43 @@
+name: Repair CCHS P-1043 account scope
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/repair-cchs-p1043-account-scope.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install Pillow PyYAML
+      - name: Repair exact CCHS P-1043 provenance and binary
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/repair_cchs_p1043_account_scope.py
+            python3 scripts/validate_archive.py
+            git add -A
+            if git diff --cached --quiet; then
+              echo 'P-1043 account-scope repair already applied.'
+              exit 0
+            fi
+            git commit -m 'Correct P-1043 to exact CCHS catalog object'
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 2
+          done
+          exit 1
