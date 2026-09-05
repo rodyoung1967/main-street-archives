@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_cchs_p1032_1936_1939_from_bluff.py'
+      - 'scripts/repair_cchs_p1032_name_sync.py'
       - '.github/workflows/integrate-cchs-p1032-1936-1939-from-bluff.yml'
   workflow_dispatch:
 
@@ -28,6 +29,8 @@ jobs:
         run: pip install Pillow PyYAML
       - name: Integrate P-1032 photograph
         run: python3 scripts/integrate_cchs_p1032_1936_1939_from_bluff.py
+      - name: Synchronize P-1032 names
+        run: python3 scripts/repair_cchs_p1032_name_sync.py
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
@@ -41,5 +44,10 @@ jobs:
           fi
           git commit -m 'Integrate CCHS P-1032 1936-1939 bluff view'
           git pull --rebase origin main
+          python3 scripts/repair_cchs_p1032_name_sync.py
           python3 scripts/validate_archive.py
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit --amend --no-edit
+          fi
           git push origin HEAD:main
