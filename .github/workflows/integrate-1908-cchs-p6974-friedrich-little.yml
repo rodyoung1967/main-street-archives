@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_1908_cchs_p6974_friedrich_little.py'
+      - 'scripts/repair_1908_cchs_p6974_metadata.py'
       - '.github/workflows/integrate-1908-cchs-p6974-friedrich-little.yml'
   workflow_dispatch:
 
@@ -25,6 +26,8 @@ jobs:
       - run: pip install Pillow PyYAML
       - name: Integrate P-6974 photograph and catalog evidence
         run: python3 scripts/integrate_1908_cchs_p6974_friedrich_little.py
+      - name: Normalize P-6974 structured metadata
+        run: python3 scripts/repair_1908_cchs_p6974_metadata.py
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
