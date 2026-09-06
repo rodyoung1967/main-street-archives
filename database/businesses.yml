@@ -129,6 +129,8 @@ businesses:
     - E-107
     - E-109
     - E-119
+
+    - E-219
     related_sources:
     - S-148
     - S-143
@@ -137,6 +139,7 @@ businesses:
     - S-121
     - S-133
 
+    - S-245
   - id: BUS-008
     name: Tony's Restaurant
     address: 507 Main

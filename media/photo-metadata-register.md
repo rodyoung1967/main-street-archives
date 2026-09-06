@@ -1727,3 +1727,15 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward original: `Oregon City Labor Day Parade 1902 - 5th and Main.jpg`; 850×669; 81,519 bytes; SHA-256 `c2ba7159afc46bac160511ab0c6d77f1603056a03b858229b503a5152d1bb514`
 - Visual note: Ringling Bros./World's Greatest Shows and General Arthur cigar advertising readable; faded center-wall business lettering unresolved; target-area structure appears low/likely one-story or tall-false-front.
 - Related source/evidence: `S-244` / `E-218`
+
+## IMG-0765 — CCHS 2008.008.005.002 Oregon City 1896, Sixth and Main
+- Source/evidence/timeline: `S-245` / `E-219` / `T-092`
+- CCHS object: **2008.008.005.002**
+- CCHS title: **Oregon City 1896 - 6th and Main Street**
+- Date made: **1896 (from institutional title; separate Date made field not recovered)**
+- Repository file: `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg`
+- Repository dimensions: **2141 × 1690**; 631,568 bytes; SHA-256 `39968e3b09ba2a6a63ea70f90aceabb20f58e7b0e8c217ad8e631455972e06dc`
+- Steward upload: `Oregon City 1896 - 6th and Main Street.jpg`, **2048 × 1616**, 1,143,797 bytes, SHA-256 `bdaecd73ca379a34d444afc8764b6972c0bb39532a906a0f33b3dceb34bac3c8`
+- Visual review: Portland House; Harding/drug-store wording; East Side Railway ticket-office wording; Sixth-to-Fifth Main streetscape.
+- Spatial caution: steward identifies the two men as the northeast Fifth/Main corner. The later 501-505 sites are visible on the right/west side as **predecessor buildings**, not the later/current structures. Individual bay assignments remain unresolved.
+- Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street

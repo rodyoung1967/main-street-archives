@@ -195,3 +195,11 @@ Planned repository paths once original binaries can be transferred:
 ## IMG-0755 — CCHS 2008.008.049.057 Bank of Commerce exterior, 1891
 
 `IMG-0755_1891-oregon-city-bank-of-commerce-exterior-512-main-cchs-2008-008-049-057.jpg` preserves the largest public CCHS derivative recovered from the exact catalog object. **COMMERCIAL BANK** is directly visible on the stone facade. CCHS catalogs the bank as Oregon City Bank of Commerce / First National at **512 Main** and provides later JAH annotations concerning demolition, renumbering of the neighboring structure, surviving stone remnants, and a Thomas Charman house/rooming house moved back for the bank. Those later statements remain attributed catalog metadata. See `S-234` / `E-208` and `evidence/source-captures/1891-cchs-2008-008-049-057-bank-of-commerce-exterior-512-main-2026-09-05.md`. Related interior photograph: `IMG-0741` (`S-212` / `E-192`).
+
+## IMG-0765 — CCHS 2008.008.005.002 Oregon City 1896, Sixth and Main
+
+- File: `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg`
+- Source/evidence: `S-245` / `E-219`
+- Directly visible: Portland House, Harding/drug-store wording, railway ticket-office wording and the pre-numbering Main Street building fabric.
+- Steward spatial anchor: the two men mark the northeast Fifth/Main corner.
+- The later 501/503/505 positions contain **older predecessor buildings** in this image. Do not backdate the later building identities to 1896.

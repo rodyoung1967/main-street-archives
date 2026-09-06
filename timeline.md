@@ -547,3 +547,7 @@ CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762`) has an institutional title contai
 ## ca. 1900 (from institutional title; separate Date made field not recovered) — T-091: P-1241 bluff view preserves early Fifth-to-Seventh Main frontage
 
 CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**. The institutional title fixes the photographed commercial span as Main between Fifth and Seventh. At far left, the project steward identifies the visible frontage with the area later numbered **501-505 Main**. The early frontage is visually present, but no later address number is readable; exact 501/503/505 boundaries and building continuity remain a **PROBABLE / WORKING HYPOTHESIS**, not direct proof.
+
+## 1896 — CCHS Sixth/Main predecessor-frontage photograph (`T-092`)
+
+CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`) is titled **Oregon City 1896 - 6th and Main Street**. The photograph visibly shows Portland House, Harding/drug-store wording and East Side Railway ticket-office wording. The project steward identifies the two men near Fifth as standing on the **northeast corner of Fifth and Main**, allowing the right/west side to be read as the pre-numbering sites later numbered 511 through 501 toward Fifth. The buildings occupying the later **501/503/505 sites in 1896 are predecessor structures**; no continuity with the later/current buildings is inferred and no individual 1896 business is assigned to 501/503/505 from this image alone.

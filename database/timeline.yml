@@ -942,3 +942,13 @@ timeline:
     related_media: [IMG-0763]
     related_buildings: [B-005, B-001, B-002]
 
+  - id: T-092
+    date: "1896"
+    summary: "CCHS 2008.008.005.002 shows the Sixth-to-Fifth Main streetscape. Steward identifies the northeast Fifth/Main corner; later 501/503/505 sites contain predecessor buildings, with Harding/drug-store and East Side Railway ticket-office wording visible farther north on the west side."
+    confidence: "High for dated photo/signs and steward-anchored block geometry; individual later-numbered predecessor bay assignments unresolved."
+    related_sources: [S-245]
+    related_evidence: [E-219]
+    related_media: [IMG-0765]
+    related_buildings: [B-005, B-001, B-002]
+    related_businesses: [BUS-007]
+

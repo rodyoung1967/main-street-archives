@@ -3326,3 +3326,17 @@ evidence:
     related_media: [IMG-0764]
     related_buildings: [B-005, B-001, B-002]
     repository_file: "media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg"
+
+  - id: E-219
+    name: "1896 Sixth/Main photograph anchors predecessor frontage on the later 501-505 sites"
+    type: "Primary historic photograph / spatial and predecessor-building evidence"
+    claims:
+      - "CCHS 2008.008.005.002 documents the 1896 Sixth/Main streetscape and visible Harding/drug-store, railway-ticket and Portland House signage."
+      - "Project steward identifies the two men near Fifth as standing on the northeast Fifth/Main corner; with that anchor, the right/west-side approach corresponds to sites later numbered 511 through 501 toward Fifth."
+      - "The 1896 structures at later 501/503/505 positions are predecessor buildings; no later-building continuity or exact 1896 numbered business assignment is inferred."
+    confidence: "Very High for object/sign visibility; High for steward-anchored side/order geometry; unresolved for exact individual predecessor bay/address assignments."
+    related_sources: [S-245]
+    related_media: [IMG-0765]
+    related_buildings: [B-005, B-001, B-002]
+    related_businesses: [BUS-007]
+

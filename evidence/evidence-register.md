@@ -2028,3 +2028,17 @@ Claims:
 - Compared with `E-097`'s documented two-story Gates replacement and `E-216`'s probable two-story 1927 501-area mass, this image supplies a useful earlier structural contrast, but does not prove continuity from 1902 to the July 1922 fire.
 Classification: **DOCUMENTED / DIRECT** for photograph identity/date and readable advertising; **PROBABLE / WORKING HYPOTHESIS** for one-story form; **UNRESOLVED** for occupant, faded lettering, exact later address mapping, and 1902-to-1922 building continuity.  
 Confidence: Very High for catalog/date and clear advertising; Moderate for one-story interpretation; unresolved for occupant/address continuity.
+
+## E-219 — 1896 Sixth/Main photograph anchors predecessor frontage on the later 501-505 sites
+Source: `S-245`  
+Media: `IMG-0765`  
+Type: Primary historic photograph / spatial and predecessor-building evidence  
+Claims:
+- CCHS `2008.008.005.002` is titled **Oregon City 1896 - 6th and Main Street** and is dated **1896 (from institutional title; separate Date made field not recovered)**.
+- Direct visual review reads **PORTLAND HOUSE**, substantial **HARDING / ... DRUG ST...** wording and substantial **TICKET ... / EAST ... / RAILWA...** wording.
+- Project steward identifies the two men near the crossing as standing on the northeast corner of Fifth and Main.
+- Using that corner only as an attributed spatial anchor, the right/west-side approach corresponds to the sites later numbered 511, 509, 507, 505, 503 and 501 toward Fifth.
+- The 1896 structures at the later 501/503/505 positions are predecessor buildings; the photograph does not establish continuity with the later/current buildings.
+- No individual 1896 business is assigned to later 501, 503 or 505 from this image alone, and Harding is not assigned an 1896 number from later address evidence.
+Classification: **DOCUMENTED / DIRECT** for object/date and visible sign/street fabric; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY** for the northeast-corner identification; **STRONG SPATIAL INFERENCE** for the later-numbered site sequence; **UNRESOLVED** for individual predecessor bay/address assignments and Harding's exact 1896 number.  
+Confidence: **Very High** for object identity and visible signs; **High** for the steward-anchored side/order geometry; **Unresolved** for exact 501/503/505 predecessor boundaries.

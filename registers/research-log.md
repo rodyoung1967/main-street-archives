@@ -650,3 +650,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Multiple enlargement/contrast passes did not produce a defensible transcription of the pale center-wall lettering; it is not assigned to The Union Store or another occupant.
 - Recorded the target-area building as a **probable** low one-story/tall-false-front form. This supplies a pre-1922 structural contrast with `E-097`/`E-216`, not proof that the same building survived to the July 1922 fire.
 - No year-level research status changed.
+
+### 2026-09-05 — integrated CCHS 2008.008.005.002 1896 Sixth/Main predecessor-frontage view
+- Added `S-245` / `E-219` / `IMG-0765` / `T-092` and the largest public CCHS derivative of the exact catalog object.
+- Preserved the steward original-file fingerprint: 2048×1616, 1,143,797 bytes, SHA-256 `bdaecd73ca379a34d444afc8764b6972c0bb39532a906a0f33b3dceb34bac3c8`.
+- Recorded visible Portland House, Harding/drug-store and East Side Railway ticket-office wording.
+- Preserved the steward's northeast Fifth/Main corner identification as attributed spatial testimony.
+- Recorded the crucial structural distinction that the 1896 buildings on the later 501/503/505 sites are **predecessor buildings**, not the later/current structures.
+- Did not back-project Harding's later 511/507 addresses into 1896 and did not assign individual 1896 businesses to later 501/503/505 without a geometric or contemporary-address bridge.

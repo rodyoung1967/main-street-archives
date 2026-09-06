@@ -97,3 +97,6 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows **HARDING DRUGS** 
 ## 1930s P-1043 Rexall/Drugs lead
 
 CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), cataloged **1930–1939**, shows **REXALL** and **DRUGS** signage in the expected west-side Main Street sequence. The spatial relationship is consistent with Harding Drug Store, but the name **HARDING** is not directly legible, so this remains a **probable alignment lead** rather than direct business-name proof.
+
+## 1896 Sixth/Main street-view anchor
+CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`), titled **Oregon City 1896 - 6th and Main Street**, directly shows substantial **HARDING / ... DRUG ST...** wording next to substantial East Side Railway ticket-office wording on the west/right side of Main north of Fifth. The project steward's Fifth/Main corner identification makes this valuable pre-numbering spatial evidence. It does **not** by itself prove Harding's exact 1896 numbered address. Keep the 1880/1880s retrospective 505 catalog label, the 1911-1915 direct 511 evidence and the 1921 strong 507 inference separate until geometric/contemporary evidence resolves the earlier move sequence.

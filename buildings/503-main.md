@@ -252,3 +252,6 @@ CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district wi
 ### Circa-1900 P-1241 bluff-view frontage context
 
 CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**, independently fixing the photographed Main Street span between Fifth and Seventh. The project steward identifies the far-left visible frontage as the area later numbered 501-505 Main. The frontage itself is visible, but this photograph does **not** show a readable `503` number or prove individual later-address boundaries/building continuity. Use as **PROBABLE spatial context** pending Sanborn/photo alignment.
+
+## 1896 CCHS predecessor-site photograph
+`S-245` / `E-219` / `IMG-0765` preserves CCHS `2008.008.005.002`, **Oregon City 1896 - 6th and Main Street**. The project steward fixes the northeast Fifth/Main corner using the two men visible near the crossing. The later-numbered 501/503/505 positions can therefore be placed generally on the right/west side approaching Fifth, but the structures visible there in 1896 are **predecessor buildings**, not the later/current numbered building. Individual 1896 bay boundaries and occupants remain unresolved; address position is not treated as building continuity.

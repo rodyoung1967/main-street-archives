@@ -1951,3 +1951,15 @@ Capture: `evidence/source-captures/cchs-p1798-1902-09-01-labor-day-parade-5th-ma
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-labor-day-parade-1902-5th-and-main  
 Related evidence/media: `E-218` / `IMG-0764`.  
 Notes: Ringling Bros. / World's Greatest Shows and General Arthur cigar advertising are readable. Pale center-wall lettering remains unresolved. Target-area structure presents as a probable low one-story/tall-false-front form; exact later 501/503/505 mapping and continuity to 1922 remain unproved.
+
+## S-245 — CCHS 2008.008.005.002 — Oregon City 1896, Sixth and Main streetscape
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `2008.008.005.002`.  
+Date: **1896 (from institutional title; separate Date made field not recovered)**.  
+Repository image: `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg`.  
+Capture: `evidence/source-captures/cchs-2008-008-005-002-1896-6th-main-predecessor-501-505-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street  
+Related evidence/media/timeline: `E-219` / `IMG-0765` / `T-092`.  
+Related sites/buildings: `B-005`, `B-001`, `B-002`; related business context: `BUS-007`.  
+Notes: Steward fixes the northeast Fifth/Main corner by the two men. The visible later-501/503/505 positions contain predecessor buildings, not the later/current structures. Readable Harding/drug-store and railway-ticket signs are preserved without assigning an unsupported 1896 street number.

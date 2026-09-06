@@ -518,3 +518,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0763` / `S-243` / `E-217` / CCHS `P-1241` | `B-005`, `B-001`, `B-002`; `T-091` | Circa-1900 bluff view titled Main between Fifth and Seventh; steward maps far-left frontage to later 501-505 area. Exact numbered boundaries/building continuity unresolved. |
 
 | `IMG-0764` / `S-244` / `E-218` / CCHS `P-1798` | `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`; `evidence/source-captures/cchs-p1798-1902-09-01-labor-day-parade-5th-main-signs-2026-09-05.md` | 1 Sep. 1902 Fifth/Main Labor Day parade. Readable Ringling Bros./General Arthur advertising; low-profile target-area form is a probable one-story/tall-false-front predecessor state. Faded occupant lettering and later 501/503/505 mapping unresolved. |
+
+| `2008.008.005.002` CCHS 1896 Sixth/Main | `S-245` | `IMG-0765` / `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg` | `E-219`, `T-092` | `B-005`, `B-001`, `B-002`, `BUS-007` |

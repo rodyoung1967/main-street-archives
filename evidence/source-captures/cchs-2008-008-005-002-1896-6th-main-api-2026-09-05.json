@@ -1,0 +1,259 @@
+{
+  "reviewed": "2026-09-05",
+  "institution": "Clackamas County Historical Society",
+  "catalog": "2008.008.005.002",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/82ebfcc0-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street",
+  "live_title": "Oregon City 1896 - 6th and Main Street",
+  "live_description": "Oregon City Main Street, looking South at 6th Street",
+  "live_date_made": "1896 (from institutional title; separate Date made field not recovered)",
+  "live_medium": null,
+  "live_location_of_negative": null,
+  "live_other_number": "Other No.: Caufield, R 2; Other Photo #: Andresen #1",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 947,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f54971a0-9b67-11eb-97c3-a30f15c9573f-vdUe0yO.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg",
+  "repository_image": {
+    "width": 2141,
+    "height": 1690,
+    "bytes": 631568,
+    "sha256": "39968e3b09ba2a6a63ea70f90aceabb20f58e7b0e8c217ad8e631455972e06dc"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1896 - 6th and Main Street.jpg",
+    "width": 2048,
+    "height": 1616,
+    "bytes": 1143797,
+    "sha256": "bdaecd73ca379a34d444afc8764b6972c0bb39532a906a0f33b3dceb34bac3c8"
+  },
+  "steward_spatial_annotation": "Project steward identifies the two men near the Fifth/Main crossing as standing on the northeast corner of Fifth and Main. With that fixed corner, the right/west side of Main approaching Fifth contains predecessor buildings on the sites later numbered 511, 509, 507, 505, 503 and 501; the old 501-505 group is visible farther down the right side and must not be described as the later/current buildings.",
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "82ebfcc0-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1896-6th-and-main-street",
+    "media": [
+      {
+        "uuid": "f54971a0-9b67-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "O.C. Main St. (lookingS. from 6th), 1896",
+        "description": "Copyright: none; Origsize: 4 x 4.75; Origformat: Negative; Resolution: 800 DPI; Negno: 1",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/f54971a0-9b67-11eb-97c3-a30f15c9573f-sum0VYQ.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/f54971a0-9b67-11eb-97c3-a30f15c9573f-sum0V0b.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f54971a0-9b67-11eb-97c3-a30f15c9573f-vdUe0yO.sm@1x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f54971a0-9b67-11eb-97c3-a30f15c9573f-vdUe0yO.sm@2x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f54971a0-9b67-11eb-97c3-a30f15c9573f-vdUe0yO.lg@1x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/f54971a0-9b67-11eb-97c3-a30f15c9573f-vdUe0yO.lg@2x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "dominant_color": "DFE2DF",
+          "complementary_color": "E2DFE2"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1896 - 6th and Main Street",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.005.002",
+        "order": 2
+      },
+      "hasTag": {
+        "label": "Tags",
+        "width": "w-xs-12",
+        "value_reference": {
+          "reference_value": "Arcadia",
+          "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Tag"
+        },
+        "order": 3
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City Main Street, looking South at 6th Street",
+        "order": 4
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1896",
+                "fuzzydate_date": "1896-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 5
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Caufield, R 2; Other Photo #: Andresen #1",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 6
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000050000000002",
+    "prev_id": "82f6f940-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "60e69360-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

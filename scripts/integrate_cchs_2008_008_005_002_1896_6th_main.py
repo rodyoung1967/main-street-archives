@@ -127,18 +127,38 @@ def yaml_add_list_item(path, entity_id, field, item):
     n = re.search(r"(?m)^  - id: ", text[m.end():])
     end = m.end() + n.start() if n else len(text)
     section = text[m.start():end]
-    if re.search(rf"(?m)^\s+- {re.escape(item)}\s*$", section):
+
+    inline = re.search(rf"(?m)^    {re.escape(field)}:\s*\[(.*?)\]\s*$", section)
+    if inline:
+        items = [x.strip() for x in inline.group(1).split(',') if x.strip()]
+        if item in items:
+            return
+        items.append(item)
+        replacement = f"    {field}: [{', '.join(items)}]"
+        a = m.start() + inline.start()
+        b = m.start() + inline.end()
+        wr(path, text[:a] + replacement + text[b:])
         return
-    fm = re.search(rf"(?m)^    {re.escape(field)}:\s*$", section)
-    if fm:
-        field_start = m.start() + fm.end()
+
+    block = re.search(rf"(?m)^    {re.escape(field)}:\s*$", section)
+    if block:
+        field_start = m.start() + block.end()
         after = text[field_start:end]
         nf = re.search(r"(?m)^    [A-Za-z0-9_]+:", after)
         insert_at = field_start + (nf.start() if nf else len(after))
-        text = text[:insert_at].rstrip("\n") + f"\n      - {item}\n" + text[insert_at:].lstrip("\n")
-    else:
-        insert_at = end
-        text = text[:insert_at].rstrip("\n") + f"\n    {field}:\n      - {item}\n\n" + text[insert_at:].lstrip("\n")
+        existing_field_text = text[field_start:insert_at]
+        if re.search(rf"(?m)^\s+- {re.escape(item)}\s*$", existing_field_text):
+            return
+        # Preserve the indentation style already used by this YAML list. Some
+        # legacy records use four spaces for list items while newer ones use six.
+        lm = re.search(r"(?m)^(\s*)-\s+\S", existing_field_text)
+        item_indent = lm.group(1) if lm else "      "
+        text = text[:insert_at].rstrip("\n") + f"\n{item_indent}- {item}\n" + text[insert_at:].lstrip("\n")
+        wr(path, text)
+        return
+
+    insert_at = end
+    text = text[:insert_at].rstrip("\n") + f"\n    {field}: [{item}]\n\n" + text[insert_at:].lstrip("\n")
     wr(path, text)
 
 

@@ -385,3 +385,6 @@ CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is now reviewed. Its ti
 ### P-1241 circa-1900 far-left frontage alignment
 
 CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763` / `T-091`) explicitly locates the photographed Main Street span between Fifth and Seventh. The steward maps the far-left frontage to the later 501-505 area. Align that frontage against the 1892/1900 Sanborn sheets and 1895/1907-1916 photographs using party walls, roof heights, setbacks, Fifth Street alignment and adjacent building rhythm. Goal: determine whether any visible circa-1900 mass can be securely mapped to later 501, 503 or 505 without assuming address continuity equals building continuity.
+
+### 1896 CCHS 2008.008.005.002 supplement
+`S-245` / `E-219` / `IMG-0765` adds a fixed-view test for the existing Harding Block / Willamette Building and pre-numbering storefront-mapping problem. Align the steward-identified northeast Fifth/Main corner and the visible Harding/railway-ticket signs against the 1890/1892 Sanborns and neighboring historic photographs. Goal: map later 501/503/505/507/509/511 **sites** onto the 1896 predecessor bays without assuming that any pictured building survives into the later numbered era.
