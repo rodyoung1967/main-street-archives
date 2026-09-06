@@ -30,6 +30,12 @@ The photograph is a broad elevated/aerial view centered on **Willamette Falls**,
 
 The **Fifth/Main target district lies within the downtown portion of the image**, making this useful for block-scale geometry and footprint comparison. At the available scale, however, individual `501`, `503` and `505` street numbers and business signs are not readable. No business occupancy is assigned from this image alone.
 
+### Probable two-story mass at the mapped 501 position
+
+On enlarged review, and following the project steward's mapped identification of the historic 501 position, the building mass at that corner **appears to be two stories tall**. The visible wall/roof relationship is more consistent with a two-story structure than a single-story storefront. Because no `501` number is readable in P-5577 and the exact 501/503/Gates footprint remains unresolved, this is classified as a **PROBABLE VISUAL / SPATIAL INTERPRETATION**, not direct numbered-address proof.
+
+This observation is important because the August 1922 newspaper reports (`E-097`) independently describe C. E. Gates's Fifth/Main fire-replacement building as **two stories** and of hollow-tile construction. The apparent two-story mass in P-5577 is therefore **compatible with** the Gates replacement description and modestly strengthens that comparison. It does **not** establish that the photographed structure is the Gates replacement, because P-5577 is dated only to 1922 with no month and could theoretically predate the 18 July fire.
+
 ## Why the 1922 date matters — and its limit
 
 The institutional record supplies **1922**, but no month or day. That means P-5577 cannot by itself be classified as a pre-fire or post-fire photograph relative to the **18 July 1922 Fifth/Main fire**, and it cannot by itself prove whether the Gates replacement described in August was already standing.
@@ -54,6 +60,7 @@ The `2014.002.027.001` designation and **Gardner Photos 027_001** number also su
 - **DOCUMENTED / DIRECT:** CCHS object identity, title, 1922 Date made, description, companion-photo numbers and Gardner identifier.
 - **VISUALLY VERIFIED:** broad aerial coverage of Willamette Falls, West Linn, Oregon City and the downtown grid.
 - **DOCUMENTED SPATIAL CONTEXT:** the Fifth/Main district is within the photographed downtown area.
+- **PROBABLE VISUAL / SPATIAL INTERPRETATION:** the building mass at the steward-mapped historic 501 position appears two stories tall; this is compatible with, but does not prove identity with, the two-story Gates replacement described in August 1922.
 - **UNRESOLVED:** precise exposure date within 1922; pre- versus post-18-July-fire state; exact 501/503/505 footprint transcription from this image; any business occupancy.
 
 No visual absence is treated as proof of vacancy, demolition or non-use.
