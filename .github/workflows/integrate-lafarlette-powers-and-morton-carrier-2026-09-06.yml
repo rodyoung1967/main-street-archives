@@ -1,0 +1,106 @@
+name: Integrate LaFarlette Powers residence and Morton carrier route
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-lafarlette-powers-and-morton-carrier-2026-09-06.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Harden pending Morton carrier integrator
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path('scripts/integrate_morton_carrier_route.py')
+          text = p.read_text(encoding='utf-8')
+          old = '''        old = "**ACTIVE MANUAL — THREE DRAFTS READY / NOT SENT**"\n        new = "**ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**"\n        # Restrict replacements to MF-052-related text by replacing the two occurrences introduced in the prior pass.\n        replaced = 0\n        pieces = []\n        pos = 0\n        while replaced < 2:\n            idx = manual.find(old, pos)\n            if idx == -1:\n                break\n            pieces.append(manual[pos:idx])\n            pieces.append(new)\n            pos = idx + len(old)\n            replaced += 1\n        if replaced:\n            pieces.append(manual[pos:])\n            manual = "".join(pieces)\n'''
+          new = '''        old = "**ACTIVE MANUAL — THREE DRAFTS READY / NOT SENT**"\n        new = "**ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**"\n        # Change only MF-052's queue row and dedicated audit row. Other manual items may use the same status wording.\n        lines = manual.splitlines()\n        changed = 0\n        for i, line in enumerate(lines):\n            if "MF-052" in line and old in line:\n                lines[i] = line.replace(old, new)\n                changed += 1\n        if changed == 0:\n            raise SystemExit("MF-052 status target not found; inspect MANUAL-FOLLOWUP.md before retrying")\n        manual = "\\n".join(lines) + ("\\n" if manual.endswith("\\n") else "")\n'''
+          if old in text:
+              text = text.replace(old, new, 1)
+              p.write_text(text, encoding='utf-8')
+              print('Hardened MF-052-only status update.')
+          else:
+              print('Carrier integrator already hardened or block changed; continuing.')
+          PY
+
+      - name: Integrate pending Morton carrier and ILL routes
+        run: python3 scripts/integrate_morton_carrier_route.py
+
+      - name: Record Powers residence family lead
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          marker = 'LaFarlette Powers residence family lead — 2026-09-06'
+
+          additions = {
+            'evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md': f'''\n\n## Project-steward clarification — probable Powers residence\n<!-- {marker} -->\n\nOn **6 September 2026**, project steward **Rodney Young** added a family-history clarification: **he believes Raye and Floyd LaFarlette lived in Powers, Oregon**. Rodney expressed this as a belief rather than a certain dated recollection, so the archive preserves it as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not as documentary residence proof.\n\nThis lead is consistent with, but not proved by, the documentary geography already in the archive:\n\n- the visually reviewed **7 August 1947 Coquille Valley Sentinel** places **Anderson and LaFarlette** in the Coos Bay–Powers mail-contract business; later records identify Floyd as the LaFarlette partner;\n- searchable **15 January 1948** text places `Ray LaFarlette` in a Powers-centered Royal Neighbors officer context;\n- searchable **22 April 1948** text explicitly gives `Ray LaFarlette, Powers` in a Royal Neighbors convention item.\n\nThe two 1948 items remain **OCR/TEXT ONLY** pending scan certification, and `Ray LaFarlette, Powers` may represent residence, postal/community identification, or reporter shorthand. It is therefore stronger than a generic Powers association but still should not be converted into a proved street residence without a directory, voter/registration record, census/enumeration record, property/tax record, utility account, school record, or another contemporary residence source.\n\n### Chronology consequence\n\nThe Powers lead does **not** resolve the Morton conflict. A substantially correct family sequence could still be **Chicago → brief Morton interval → Powers/Coos County**, while Raye's 1954 profile compressed the westward move as Chicago → Coquille. Alternatively, the Morton recollection could be displaced and the family's early Coos County home may have been Powers. Both remain hypotheses until contemporary residence evidence is recovered.\n''',
+
+            'evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md': f'''\n\n## Family residence clarification — Powers, Oregon\n<!-- {marker} -->\n\nOn **6 September 2026**, Rodney Young stated that he **believes Raye and Floyd LaFarlette lived in Powers, Oregon**. Because he stated this as a belief rather than a certain dated memory, classify it as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**.\n\nThe lead is geographically compatible with the documented **7 August 1947 Coos Bay–Powers mail-contract business** involving Anderson and LaFarlette and with 1948 searchable-text references identifying Raye/`Ray LaFarlette` in Powers-centered community activity, including one item printed as `Ray LaFarlette, Powers`. Those records strengthen Powers as a residence-search target but do not yet prove a household address.\n\nHighest-value residence tests are a late-1940s Powers directory/telephone listing if one survives, voter or registration records, tax/property records, school/family notices, utility records, and page-by-page local newspaper references giving a residence or home address. Preserve this separately from the unresolved Morton stop and from the later Myrtle Lodge / Myrtle Point business history.\n''',
+
+            'evidence/source-captures/morton-wheel-1945-1947-online-access-and-lafarlette-control-pass-2026-09-06.md': f'''\n\n## Powers residence family lead — effect on the Morton test\n<!-- {marker} -->\n\nRodney Young now states that he **believes Raye and Floyd lived in Powers, Oregon**. This is **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not documentary residence proof. It gives the post-Morton side of the chronology a more specific locality and makes the existing 1947–48 Powers evidence more significant as a residence-search target.\n\nDo not use the Powers lead to erase Morton. The correct test is now whether contemporary records support one of several sequences: **Chicago → Morton → Powers/Coos County**, **Chicago → Powers/Coos County with no Morton residence**, or another short/transitional arrangement. The 1945–47 Morton Journal/directory/license work under **MF-052** remains necessary because Powers evidence after August 1947 cannot determine whether a prior Morton interval occurred.\n''',
+
+            'people/profiles/raye-grisham.md': f'''\n\n## Powers residence family lead\n<!-- {marker} -->\n\nRodney Young stated on **6 September 2026** that he **believes Raye and Floyd LaFarlette lived in Powers, Oregon**. Preserve this as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**. Existing 1947–48 records independently tie the LaFarlette family/business network to Powers and include an OCR/text-only `Ray LaFarlette, Powers` community reference, but no contemporary household address has yet been scan-certified. Powers should therefore be treated as a high-value residence-search target, not as an established residence fact.\n''',
+
+            'people/profiles/floyd-lafarlette.md': f'''\n\n## Powers residence family lead\n<!-- {marker} -->\n\nRodney Young stated on **6 September 2026** that he **believes Floyd and Raye LaFarlette lived in Powers, Oregon**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**. Floyd's documented 1947 Anderson-and-LaFarlette business served the Coos Bay–Powers route, but that commercial geography does not by itself prove his residence. Search contemporary residence sources before promoting Powers to a documented home location.\n'''
+          }
+
+          for rel, section in additions.items():
+              p = Path(rel)
+              text = p.read_text(encoding='utf-8')
+              if marker in text:
+                  print(f'{rel}: Powers lead already integrated')
+                  continue
+              p.write_text(text.rstrip() + section.rstrip() + '\n', encoding='utf-8')
+              print(f'{rel}: added Powers residence lead')
+          PY
+
+      - name: Validate archive after edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push synchronized research
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            scripts/integrate_morton_carrier_route.py \
+            MANUAL-FOLLOWUP.md \
+            evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md \
+            evidence/source-captures/morton-wheel-1945-1947-online-access-and-lafarlette-control-pass-2026-09-06.md \
+            evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md \
+            evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md \
+            registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md \
+            people/profiles/raye-grisham.md \
+            people/profiles/floyd-lafarlette.md
+          if git diff --cached --quiet; then
+            echo 'No research changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Add Powers residence lead and Morton archive routes'
+          for attempt in 1 2 3 4 5 6; do
+            if git pull --rebase origin main; then
+              python3 scripts/validate_archive.py
+              if git push origin main; then
+                exit 0
+              fi
+            fi
+            sleep 2
+          done
+          exit 1
