@@ -13,83 +13,88 @@ permissions:
 jobs:
   inspect:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 5
     steps:
-      - name: Probe live PDF and Wayback copy
+      - name: Test Wayback byte-range recovery
         run: |
           set -euxo pipefail
+          mkdir -p artifact/chunks
+          URL='https://web.archive.org/web/20220628154456id_/https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'
+          echo "$URL" > artifact/url.txt
+          echo '--- HEAD ---' | tee artifact/range-log.txt
+          curl -sS -A 'Mozilla/5.0' -I --connect-timeout 10 --max-time 40 "$URL" | tee -a artifact/range-log.txt || true
+
           python3 - <<'PY'
-          import json, re, urllib.parse, urllib.request
-          page='https://oaklodgehistory.org/pages/oaklodge/oakgrove/'
-          req=urllib.request.Request(page,headers={'User-Agent':'Mozilla/5.0'})
-          with urllib.request.urlopen(req,timeout=20) as r:
-              body=r.read().decode('utf-8','replace')
-          print('PAGE_BYTES',len(body))
-          for href in re.findall(r'href=["\']([^"\']+)',body,re.I):
-              if '1947' in href and '.pdf' in href.lower(): print('PDF_LINK',href)
-          target='https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'
-          cdx='https://web.archive.org/cdx/search/cdx?'+urllib.parse.urlencode({
-              'url':target,'output':'json','filter':'statuscode:200','fl':'timestamp,original,mimetype,statuscode,digest,length','collapse':'digest'
-          })
-          print('CDX',cdx)
-          try:
-              req=urllib.request.Request(cdx,headers={'User-Agent':'Mozilla/5.0'})
-              with urllib.request.urlopen(req,timeout=25) as r:
-                  data=r.read().decode('utf-8','replace')
-              print('CDX_RESULT',data[:12000])
-          except Exception as e: print('CDX_ERROR',repr(e))
+          import hashlib, pathlib, subprocess
+          url='https://web.archive.org/web/20220628154456id_/https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'
+          chunk=1024*1024
+          log=[]
+          for i in range(0, 16):
+              start=i*chunk; end=start+chunk-1
+              out=pathlib.Path(f'artifact/chunks/chunk-{i:02d}.bin')
+              hdr=pathlib.Path(f'artifact/chunks/chunk-{i:02d}.headers')
+              cmd=['curl','-sS','-A','Mozilla/5.0','--connect-timeout','10','--max-time','45','-H',f'Range: bytes={start}-{end}','-D',str(hdr),'-o',str(out),url]
+              cp=subprocess.run(cmd, text=True, capture_output=True)
+              data=out.read_bytes() if out.exists() else b''
+              htxt=hdr.read_text(errors='replace') if hdr.exists() else ''
+              sha=hashlib.sha256(data).hexdigest() if data else '-'
+              status=[]
+              for line in htxt.splitlines():
+                  ll=line.lower()
+                  if line.startswith('HTTP/') or ll.startswith('content-range:') or ll.startswith('content-length:') or ll.startswith('accept-ranges:') or ll.startswith('content-type:'):
+                      status.append(line.strip())
+              msg=f'CHUNK {i} request={start}-{end} rc={cp.returncode} bytes={len(data)} sha256={sha} headers={status}'
+              print(msg); log.append(msg)
+              if cp.stderr: print('STDERR',cp.stderr.strip())
+              # Stop on a short successful range after first chunk.
+              if i>0 and data and len(data)<chunk:
+                  break
+          pathlib.Path('artifact/range-summary.txt').write_text('\n'.join(log)+'\n')
           PY
-          mkdir -p artifact
-          : > live-status.txt
-          for u in \
-            'https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf' \
-            'https://oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf' \
-            'http://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'; do
-            echo "=== $u ===" | tee -a live-status.txt
-            curl -sS -A 'Mozilla/5.0' -I -L --max-redirs 10 --connect-timeout 10 --max-time 35 "$u" 2>&1 | tee -a live-status.txt || true
-            curl -sS -A 'Mozilla/5.0' -L --max-redirs 10 --connect-timeout 10 --max-time 45 -o candidate.bin "$u" || true
-            mt="$(file -b --mime-type candidate.bin 2>/dev/null || true)"
-            sz="$(stat -c%s candidate.bin 2>/dev/null || echo 0)"
-            echo "MIME=$mt SIZE=$sz" | tee -a live-status.txt
-            if [ "$mt" = 'application/pdf' ]; then cp candidate.bin directory.pdf; break; fi
-          done
-          if [ ! -f directory.pdf ]; then
-            python3 - <<'PY'
-          import json, urllib.parse, urllib.request, pathlib
-          target='https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'
-          cdx='https://web.archive.org/cdx/search/cdx?'+urllib.parse.urlencode({'url':target,'output':'json','filter':'statuscode:200','fl':'timestamp,original,mimetype,statuscode,digest,length','collapse':'digest'})
-          try:
-              req=urllib.request.Request(cdx,headers={'User-Agent':'Mozilla/5.0'})
-              rows=json.load(urllib.request.urlopen(req,timeout=25))
-              print('WAYBACK_ROWS',rows)
-              if len(rows)>1:
-                  ts=rows[-1][0]
-                  url=f'https://web.archive.org/web/{ts}id_/{target}'
-                  print('WAYBACK_FETCH',url)
-                  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
-                  data=urllib.request.urlopen(req,timeout=60).read()
-                  pathlib.Path('directory.pdf').write_bytes(data)
-                  print('WAYBACK_BYTES',len(data))
-          except Exception as e: print('WAYBACK_ERROR',repr(e))
+
+          echo '--- RANGE SUMMARY ---'
+          cat artifact/range-summary.txt
+
+          python3 - <<'PY'
+          import hashlib, pathlib, re
+          chunks=sorted(pathlib.Path('artifact/chunks').glob('chunk-*.bin'))
+          # Only concatenate when responses prove distinct ranged bytes (206 + coherent Content-Range).
+          good=[]
+          expected=0
+          for p in chunks:
+              hp=p.with_suffix('.headers')
+              h=hp.read_text(errors='replace') if hp.exists() else ''
+              m=re.search(r'Content-Range:\s*bytes\s+(\d+)-(\d+)/(\d+|\*)',h,re.I)
+              if not m or ' 206 ' not in h:
+                  print('NOT_RANGE_SAFE',p.name); break
+              s,e,total=m.groups(); s=int(s); e=int(e)
+              if s!=expected:
+                  print('NONCONTIGUOUS',p.name,s,expected); break
+              data=p.read_bytes()
+              if len(data)!=(e-s+1):
+                  print('SIZE_MISMATCH',p.name,len(data),e-s+1); break
+              good.append(data); expected=e+1
+              if total!='*' and expected>=int(total): break
+          if good:
+              data=b''.join(good)
+              pathlib.Path('artifact/directory-range.pdf').write_bytes(data)
+              print('ASSEMBLED_BYTES',len(data),'SHA256',hashlib.sha256(data).hexdigest())
+          else:
+              print('NO_SAFE_ASSEMBLY')
           PY
-          fi
-          cp live-status.txt artifact/
-          if [ -f directory.pdf ] && [ "$(file -b --mime-type directory.pdf)" = 'application/pdf' ]; then
-            echo "PDF_BYTES $(stat -c%s directory.pdf)"
-            cp directory.pdf artifact/
+
+          if [ -f artifact/directory-range.pdf ]; then
             sudo apt-get update -qq
             sudo apt-get install -y -qq poppler-utils >/dev/null
-            pdfinfo directory.pdf | tee artifact/pdfinfo.txt || true
-            pdftotext -f 1 -l 12 -layout directory.pdf artifact/first-pages.txt || true
-            echo '--- FIRST PAGES TEXT ---'
+            file artifact/directory-range.pdf
+            pdfinfo artifact/directory-range.pdf | tee artifact/pdfinfo.txt || true
+            pdftotext -f 1 -l 12 -layout artifact/directory-range.pdf artifact/first-pages.txt || true
             sed -n '1,500p' artifact/first-pages.txt || true
-            pdftoppm -f 1 -l 8 -png -r 140 directory.pdf artifact/page >/dev/null 2>&1 || true
-          else
-            echo 'NO_PDF_RECOVERED'
+            pdftoppm -f 1 -l 8 -png -r 140 artifact/directory-range.pdf artifact/page >/dev/null 2>&1 || true
           fi
-      - name: Upload scan inspection artifact
+      - name: Upload range inspection artifact
         uses: actions/upload-artifact@v4
         with:
-          name: oak-lodge-1947-directory-inspection
+          name: oak-lodge-1947-directory-range-inspection
           path: artifact/
           retention-days: 1
