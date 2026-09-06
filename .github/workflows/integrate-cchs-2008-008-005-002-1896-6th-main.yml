@@ -1,0 +1,45 @@
+name: Integrate CCHS 2008.008.005.002 1896 Sixth Main
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-cchs-2008-008-005-002-1896-6th-main.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 -m pip install Pillow PyYAML
+      - name: Integrate photograph and validate
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/integrate_cchs_2008_008_005_002_1896_6th_main.py
+            python3 scripts/validate_archive.py
+            git add -A
+            if git diff --cached --quiet; then
+              echo 'CCHS 2008.008.005.002 already integrated.'
+              exit 0
+            fi
+            git commit -m "Integrate CCHS 1896 Sixth Main predecessor frontage"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
