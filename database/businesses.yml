@@ -1254,3 +1254,12 @@ businesses:
     related_evidence: [E-221]
     related_sources: [S-247]
 
+  - id: BUS-102
+    name: "Myrtle Lodge / former Club Midway"
+    repository_file: "businesses/myrtle-lodge-coaledo.md"
+    address: "Coaledo, Coos County, Oregon; historic U.S. Highway 101 corridor; exact modern parcel unresolved"
+    notes: "Van Spores rename Midway to Myrtle Lodge in 1947; Charlie Elkins and Floyd LaFarlette advertised as new owners in 1951. Keep separate from Myrtle Point hotel/Club Lehua and South Powers Town Club House."
+    related_people: [P-006, P-022]
+    related_evidence: [E-250, E-243, E-244]
+    related_sources: [S-277, S-269, S-270]
+

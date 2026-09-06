@@ -2446,3 +2446,19 @@ Claims:
 - The comparison does not establish the 1946 owner/legal description of 708, uninterrupted address usage, or building survival.
 Classification: **STRONG CROSS-SOURCE SPATIAL INFERENCE**; historic 708 parcel ownership remains unresolved.  
 Confidence: High for separation; unresolved for 1946 title/boundary.
+
+## E-250 — Myrtle Lodge is documented at Coaledo; South Powers Town Club House remains an unbridged candidate
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / evidence -->
+Type: Primary newspaper page scan batch  
+Source: `S-277`  
+Related business: `BUS-102`  
+Claims:
+- The 11 Dec. 1947 page reports that Mr. and Mrs. Van Spores received permission to rename their Highway 101 restaurant and club from the Midway to the Myrtle Lodge.
+- The 28 Oct. 1948 polling list identifies No. 31 Coaledo at The Myrtle Lodge and separately No. 39 South Powers at Town Club House.
+- The 14 Jul. 1949 classified describes property as behind Myrtle Lodge at Coaledo.
+- The 9 Oct. 1952 Myrtle Lodge advertisement says the venue was just seven miles north of Coquille on Highway 101.
+- The 28 Oct. 1954 polling list again identifies No. 31 Coaledo at Myrtle Lodge; Powers polling sites are then Rebekah Hall and a private residence.
+- Together these sources document Myrtle Lodge at Coaledo on the historic U.S. 101 Coquille–Coos Bay corridor, but do not establish an exact modern parcel or surviving building.
+- The South Powers Town Club House is a documentary candidate for Rodney Young's separate Town Club family recollection, but no LaFarlette ownership/operation bridge has been established.
+Classification: **DOCUMENTED / DIRECT for the printed source statements; STRONG CROSS-SOURCE INFERENCE for same-site Midway → Myrtle Lodge continuity; UNVERIFIED LEAD for any LaFarlette ↔ South Powers Town Club House connection.**  
+Confidence: **Very High for Coaledo locality; exact modern parcel unresolved.**

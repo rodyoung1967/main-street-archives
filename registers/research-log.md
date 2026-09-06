@@ -842,3 +842,8 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Registered `B-017` and `S-276` / `E-249` as an off-Main address control; current City records strongly distinguish 708 from the Farr Store's documented 709 Monroe / 919 7th parcel.
 - Synchronized source/evidence YAML, person/building records, crosswalk, index, open questions, research leads, 505/Farr/Harr handling notes, and the Farr→Harr checkpoint.
 - Historical result: the C. P. Farr municipal recreation-rent series is **not evidence for 505 Main or the Farr→Harr transfer**; the exact transition remains unresolved.
+
+### 6 September 2026 — Myrtle Lodge located at Coaledo; Town Club lead opened
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / research log -->
+
+Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-250`. The combined record fixes Myrtle Lodge at **Coaledo on historic U.S. 101**, creates `BUS-102` for Myrtle Lodge / former Club Midway, and retains the exact modern parcel as unresolved. Rodney Young's separate family recollection of a LaFarlette-owned **Town Club** around Sheila's age ten is preserved as an unverified lead. A South Powers Town Club House existed in 1946–48, but no LaFarlette bridge is established. No 503/505 building or Oregon City timeline claim was changed by this off-site finding.

@@ -411,3 +411,8 @@ CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) now gives two strong bl
 The municipal C. P. Farr recreation-rent thread now has an exact premises control: **708 Monroe** (`S-273` / `E-247`), with C. P. Farr strongly identified as **Clarence P. Farr** (`E-248`). Do **not** spend further Farr→Harr research effort treating this rent series as a possible 505 Main clue unless a new direct source explicitly bridges the premises. `E-249` strongly separates 708 from the Farr Store/709 Monroe parcel as well.
 
 For the mid-1940s 505 transition, retain the existing priority order: **MF-001 1947–48 Clackamas County Directory → MF-002 missing 1944–48 Oregon City liquor-license proceedings → MF-047 cumulative 505 historic-resource file/source notes**.
+
+### 6 September 2026 — LaFarlette “Town Club” mid-1950s family lead
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / research lead -->
+
+Project steward Rodney Young recalls that Raye and Floyd LaFarlette owned a **Town Club** in the mid-1950s when Sheila was about ten. Source `S-277` / evidence `E-250` independently documents a **South Powers Town Club House** in 1948, but there is no LaFarlette ownership/operator bridge and the building's commercial/social function is unresolved. Prioritize 1953–57 liquor-license, assumed-business-name, directory and newspaper records; first target mid-1954 through mid-1955. Keep this lead separate from `BUS-102` Myrtle Lodge and the Myrtle Point hotel/Club Lehua complex.

@@ -649,3 +649,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-273` / `E-247` | `B-017`, `P-395` | February 1946 municipal recreation rent: **708 Monroe**, not 505 Main; OCR/TEXT ONLY pending scan certification. |
 | `S-274` / `S-275` / `E-248` | `P-395` | `C. P. Farr → Clarence P. Farr` is **STRONG CROSS-SOURCE INFERENCE**; do not merge with `P-028` Edwin F. Farr. |
 | `S-276` / `E-249` | `B-017` | Modern 919 7th / 709 Monroe same-APN control strongly separates the 708 premises; historic 708 title remains unresolved. |
+
+## Myrtle Lodge / Coaledo location batch — 6 September 2026
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / crosswalk -->
+
+- `S-277` / `E-250` / `BUS-102` → `P-006`, `P-022` — primary Coaledo location/name batch and Myrtle Lodge business record.
+- Existing `S-269` / `E-243` → `BUS-102`, `P-022` — 18 Oct. 1951 Elkins/Floyd new-ownership advertisement.
+- Existing `S-270` / `E-244` → `BUS-102`, `P-006`, `P-022` — 11 Jun. 1953 Raye/Floyd hosting/involvement record; no independent Raye legal-ownership upgrade.
+- South Powers Town Club House remains an unassigned business/entity lead pending identification and a LaFarlette bridge.

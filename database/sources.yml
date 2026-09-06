@@ -1728,3 +1728,13 @@ sources:
     related_evidence: [E-249]
     related_buildings: [B-017]
     repository_file: "evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md"
+
+  - id: S-277
+    name: "Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947-1954"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088222/"
+    type: "Primary newspaper page scan batch"
+    date: "1947-12-11 to 1954-10-28"
+    repository_file: "newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/"
+    notes: "Preserved pages documenting Midway rename, Coaledo locality, highway location and South Powers Town Club House candidate."
+    related_evidence: [E-250]
+

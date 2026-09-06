@@ -47,3 +47,10 @@ The newspaper scans supporting Floyd's pre-Wheel business chronology are now pre
 - `S-271` / `E-245` — 11 March 1954 Raye profile / family chronology: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`.
 
 See `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md` for claim boundaries and preservation provenance.
+
+## Myrtle Lodge location refined to Coaledo
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / profile -->
+
+New primary-source location batch `S-277` / `E-250` fixes the Myrtle Lodge associated with Floyd's 1951 ownership at **Coaledo, Coos County**, on the historic U.S. 101 corridor. A 1952 ad says seven miles north of Coquille; 1948 and 1954 polling lists explicitly say Coaledo, Myrtle Lodge; a 1949 classified says “behind Myrtle Lodge at Coaledo.” Exact modern parcel remains unresolved. Business record: `BUS-102`.
+
+Rodney Young additionally recalls that Raye and Floyd owned a **Town Club** in the mid-1950s when Sheila was about ten. A **South Powers Town Club House** is independently documented in 1946–48, but no LaFarlette bridge has been recovered. Treat this as **PROJECT-STEWARD / FAMILY PROVENANCE / HIGH-VALUE UNVERIFIED LEAD**, not ownership fact.

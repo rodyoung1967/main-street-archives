@@ -165,3 +165,10 @@ These records were already part of the evidence narrative but previously lacked 
 | BUS-099 | [Fain's Men's Store](fains-mens-store.md) | 511 Main by 1 Mar. 1943 official page text (**OCR/TEXT ONLY**); P-1043 1930s number unproved | P-1043 directly shows the business sign in 1930–1939; the 1943 text supplies a later exact-number anchor. Treat Fain's=511 in the photographed state as probable pending a 1930s exact-address source. `E-211` / `E-214`. |
 | BUS-100 | [W. B. Eddy's Store — 1917](w-b-eddys-store-1917.md) | 427 Main Street, corner Fifth (25 Jan. 1917) | Direct new-location advertisement `E-221` / `S-247`. Kept separate from 1915 BUS-032 and 1910 Watson B. Eddy record pending identity/move proof. |
 | BUS-101 | [Strebig Meat Market — former 427 occupant](strebig-meat-market-427-former-occupant.md) | Former occupant of 427 Main corner building by 25 Jan. 1917; exact occupancy dates unknown | Named directly as former occupant in `E-221` / `S-247`. Kept separate from 1907 BUS-047 pending identity/continuity proof. |
+
+## 6 September 2026 — LaFarlette Coos County hospitality context
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / business index -->
+
+| ID | Business | Address | Notes |
+| --- | --- | --- | --- |
+| BUS-102 | [Myrtle Lodge / former Club Midway](myrtle-lodge-coaledo.md) | Coaledo, historic U.S. 101 corridor; exact modern parcel unresolved | Midway → Myrtle Lodge rename directly reported 11 Dec. 1947; Floyd LaFarlette and Charlie Elkins advertised as new owners 18 Oct. 1951 (`E-243`). Coaledo location independently documented in 1948, 1949, 1952 and 1954 (`E-250`). Do not merge with Myrtle Point hotel/Club Lehua or South Powers Town Club House. |

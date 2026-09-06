@@ -2320,3 +2320,14 @@ Relevant rows: permits BM-17-0295/BM-17-0296 list **919 7th St** and BM-17-0297 
 Related evidence/building: `E-249`; `B-017` as comparison context only.  
 Capture: `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.  
 Notes: This directly establishes a modern 919 7th / 709 Monroe parcel-address relationship. It does not prove that 709 existed as an address in 1946, identify the historic 708 parcel, or establish ownership of the 708 recreation premises.
+
+## S-277 — Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947-1954
+<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / source -->
+Type: Primary newspaper page scans preserved as a research batch.  
+Publication: *Coquille Valley Sentinel*.  
+Dates/pages: 11 Dec. 1947 p.1; 28 Oct. 1948 p.12; 14 Jul. 1949 p.15; 9 Oct. 1952 p.9; 28 Oct. 1954 p.1.  
+Preserved originals: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/`  
+Manifest: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/manifest.json`  
+Related evidence/business: `E-250`; `BUS-102`.  
+Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
+Classification: **PRIMARY SOURCE BATCH — DIRECT printed location/name evidence; exact modern parcel unresolved.**
