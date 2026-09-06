@@ -10,6 +10,7 @@ The exact Farr → Harr transition date remains **UNRESOLVED**.
 
 Current evidence remains:
 
+- CCHS `P-1128` is independently dated **1936**; steward mapping of the 505 storefront plus probable **FARR'S** / likely pool-related signage, combined with the City's independent Farr/505 business identification, provides a **STRONG CROSS-SOURCE INFERENCE** that Farr's Pool Hall was operating at 505 in the photographed state. This is an operating-state anchor, not an opening date.
 - Oregon City's later historic-resource synthesis reports **Harr's Recreation Center at 505 Main in 1945**, but the exact underlying directory/source title, effective year, page, and source-note lineage have not yet been recovered.
 - The **11 February 1948** Oregon City Commission text directly identifies **Harr** as a pool-hall operator, but the line itself does not supply the street address.
 - A later **1948 municipal liquor-license list** directly identifies **Carl R. Harr — Harr's Recreation Center — 505 Main Street**.
@@ -21,9 +22,9 @@ No new source in this final pass states whether **Farr or Harr occupied 505 Main
 
 ### 1. GFO TF0767 is the strongest practical directory route
 
-Genealogical Forum of Oregon lobby-sale item **TF0767 — “Clackamas Co. Directory 1947-48”** was publicly listed through at least October 2025. GFO's current shop instructions still provide a remote lobby-sales ordering/availability route.
+On **5 September 2026**, GFO's currently linked lobby-sales list was visually rechecked and still showed **TF0767 — “Clackamas Co. Directory 1947-48” — quantity 1 — $60.00**. GFO's current shop instructions still require contacting Lobby Sales to confirm actual physical availability and total cost.
 
-Present physical availability must be confirmed before treating the volume as obtainable. No purchase or email was made in this pass.
+The current-list row materially strengthens the acquisition route, but it is not proof that the copy remains unsold at the instant of inquiry. No purchase or email was made in this pass.
 
 See:
 
