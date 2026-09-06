@@ -32,16 +32,56 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           git rev-parse HEAD > /tmp/ownership_followup_base_sha
-      - name: Correct integration helper guards and 505 anchor
+      - name: Prepare race-safe ownership integration helper
         run: |
           python3 - <<'PY'
           from pathlib import Path
+          import re
+
           p = Path('scripts/integrate_503_505_2002_2010_ownership_followup.py')
           t = p.read_text(encoding='utf-8')
 
-          # Fix over-escaped regex guards in the staged helper. The original
-          # P-person expression can match the empty string because its pipes
-          # become regex alternation; use literal Markdown pipes instead.
+          # Correct the known shorthand 505 timeline anchor before ID remapping.
+          old = '''replace_once("timelines/505-main.md",
+              "| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |",
+              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |")'''
+          new = '''replace_once("timelines/505-main.md",
+              "| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |",
+              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |")'''
+          if old in t:
+              t = t.replace(old, new, 1)
+          elif new not in t:
+              raise SystemExit('Expected 505 timeline helper anchor not found')
+
+          source_text = Path('evidence/source-register.md').read_text(encoding='utf-8')
+          evidence_text = Path('evidence/evidence-register.md').read_text(encoding='utf-8')
+          people_text = Path('people/people-index.md').read_text(encoding='utf-8')
+
+          source_nums = [int(x) for x in re.findall(r'(?m)^## S-(\d{3})\b', source_text)]
+          evidence_nums = [int(x) for x in re.findall(r'(?m)^## E-(\d{3})\b', evidence_text)]
+          person_nums = [int(x) for x in re.findall(r'(?m)^\| P-(\d{3}) \|', people_text)]
+          if not source_nums or not evidence_nums or not person_nums:
+              raise SystemExit('Could not determine current ID maxima from authoritative registers')
+
+          new_s = [f'S-{n:03d}' for n in range(max(source_nums)+1, max(source_nums)+4)]
+          new_e = [f'E-{n:03d}' for n in range(max(evidence_nums)+1, max(evidence_nums)+4)]
+          new_p = f'P-{max(person_nums)+1:03d}'
+
+          # Remap every literal ID in the staged helper through placeholders so
+          # sequential source/evidence numbers cannot cascade into one another.
+          mapping = {
+              'S-252': new_s[0], 'S-253': new_s[1], 'S-254': new_s[2],
+              'E-226': new_e[0], 'E-227': new_e[1], 'E-228': new_e[2],
+              'P-107': new_p,
+          }
+          placeholders = {old_id: f'__OWNERSHIP_ID_{i}__' for i, old_id in enumerate(mapping)}
+          for old_id, ph in placeholders.items():
+              t = t.replace(old_id, ph)
+          for old_id, ph in placeholders.items():
+              t = t.replace(ph, mapping[old_id])
+
+          # Keep the helper's variable names but set their values to the allocated IDs.
+          # Fix over-escaped guard regexes so they test actual Markdown IDs.
           t = t.replace('rf"^## {S252}\\\\b"', 'rf"^## {S252}\\b"')
           t = t.replace('rf"^## {S253}\\\\b"', 'rf"^## {S253}\\b"')
           t = t.replace('rf"^## {S254}\\\\b"', 'rf"^## {S254}\\b"')
@@ -50,18 +90,10 @@ jobs:
           t = t.replace('rf"^## {E228}\\\\b"', 'rf"^## {E228}\\b"')
           t = t.replace('rf"^\\\\| {P107} \\\\|"', 'rf"^\\| {P107} \\|"')
 
-          old = '''replace_once("timelines/505-main.md",
-              "| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |",
-              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |")'''
-          new = '''replace_once("timelines/505-main.md",
-              "| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |",
-              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |")'''
-          if old not in t and new not in t:
-              raise SystemExit('Expected 505 timeline helper anchor not found')
-          if old in t:
-              t = t.replace(old, new, 1)
-
           p.write_text(t, encoding='utf-8')
+          print('Allocated sources:', ', '.join(new_s))
+          print('Allocated evidence:', ', '.join(new_e))
+          print('Allocated person:', new_p)
           PY
       - name: Apply ownership follow-up integration
         run: python3 scripts/integrate_503_505_2002_2010_ownership_followup.py
