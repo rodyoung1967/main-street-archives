@@ -221,3 +221,20 @@ It adds **OCR/TEXT-ONLY** post-window controls placing `Ray LaFarlette` in a Pow
 The same 28 July page says Carl Anderson had operated buses in **Washington for 21 years**. This is retained only as a **PERSON-NETWORK LEAD**; the source does not say Morton and does not connect Anderson to any Wheel Cafe.
 
 The online proprietor sweep still recovered no contemporary Morton residence/employment record, no 1944–47 Morton Wheel existence proof, no Morton Wheel proprietor, no Morton→Oregon City person bridge, and no named pre-Raye Oregon City Wheel proprietor. Public indexing confirms *The Morton Journal* began in 1945 but did not expose the target run; the 1946 directory's Morton coverage also remains unproved. The issue now has formal manual/restricted-source callout **MF-052**. No institutional request has been sent.
+
+## Project-steward clarification — probable Powers residence
+<!-- LaFarlette Powers residence family lead — 2026-09-06 -->
+
+On **6 September 2026**, project steward **Rodney Young** added a family-history clarification: **he believes Raye and Floyd LaFarlette lived in Powers, Oregon**. Rodney expressed this as a belief rather than a certain dated recollection, so the archive preserves it as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not as documentary residence proof.
+
+This lead is consistent with, but not proved by, the documentary geography already in the archive:
+
+- the visually reviewed **7 August 1947 Coquille Valley Sentinel** places **Anderson and LaFarlette** in the Coos Bay–Powers mail-contract business; later records identify Floyd as the LaFarlette partner;
+- searchable **15 January 1948** text places `Ray LaFarlette` in a Powers-centered Royal Neighbors officer context;
+- searchable **22 April 1948** text explicitly gives `Ray LaFarlette, Powers` in a Royal Neighbors convention item.
+
+The two 1948 items remain **OCR/TEXT ONLY** pending scan certification, and `Ray LaFarlette, Powers` may represent residence, postal/community identification, or reporter shorthand. It is therefore stronger than a generic Powers association but still should not be converted into a proved street residence without a directory, voter/registration record, census/enumeration record, property/tax record, utility account, school record, or another contemporary residence source.
+
+### Chronology consequence
+
+The Powers lead does **not** resolve the Morton conflict. A substantially correct family sequence could still be **Chicago → brief Morton interval → Powers/Coos County**, while Raye's 1954 profile compressed the westward move as Chicago → Coquille. Alternatively, the Morton recollection could be displaced and the family's early Coos County home may have been Powers. Both remain hypotheses until contemporary residence evidence is recovered.

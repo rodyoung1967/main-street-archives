@@ -31,21 +31,16 @@ def main() -> None:
     if MARKER not in manual:
         old = "**ACTIVE MANUAL — THREE DRAFTS READY / NOT SENT**"
         new = "**ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**"
-        # Restrict replacements to MF-052-related text by replacing the two occurrences introduced in the prior pass.
-        replaced = 0
-        pieces = []
-        pos = 0
-        while replaced < 2:
-            idx = manual.find(old, pos)
-            if idx == -1:
-                break
-            pieces.append(manual[pos:idx])
-            pieces.append(new)
-            pos = idx + len(old)
-            replaced += 1
-        if replaced:
-            pieces.append(manual[pos:])
-            manual = "".join(pieces)
+        # Change only MF-052's queue row and dedicated audit row. Other manual items may use the same status wording.
+        lines = manual.splitlines()
+        changed = 0
+        for i, line in enumerate(lines):
+            if "MF-052" in line and old in line:
+                lines[i] = line.replace(old, new)
+                changed += 1
+        if changed == 0:
+            raise SystemExit("MF-052 status target not found; inspect MANUAL-FOLLOWUP.md before retrying")
+        manual = "\n".join(lines) + ("\n" if manual.endswith("\n") else "")
         manual += f'''\n\n### MF-052 access-route upgrade — 6 September 2026\n<!-- {MARKER} -->\n\nTwo additional retrieval routes were established without changing the evidentiary conclusion:\n\n1. Washington State Library states that **most Washington newspaper microfilm can be borrowed through interlibrary loan from a local public library**. Ask staff to confirm that its *Morton Journal* holdings cover **1945–7 August 1947** and that those exact reels circulate before relying on ILL.\n2. Washington's current UTC retention schedule identifies permanent State Archives series for **passenger-carrier permit records**, **Commission order books**, **docket books**, and **formal transportation T-files**. Because Floyd LaFarlette's 1949 freight partner Carl Anderson said he had operated buses in Washington for 21 years, add a **bounded Carl Anderson / Carl A. Anderson 1928–1949 carrier-name/route query** to Washington State Archives. This is a person-network lead only; no Morton connection has been found.\n\nThe fourth ready route is now preserved as **Request D** in `registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md`. No request has been sent.\n'''
         MANUAL.write_text(manual, encoding="utf-8")
 

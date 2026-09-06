@@ -187,3 +187,40 @@ These drafts are preserved for project-steward use. **No request has been sent.*
 The further public-online pass did not recover the Morton Wheel proprietor, a LaFarlette Morton residence/employment record, a Morton→Oregon City owner bridge, or the pre-Raye Oregon City Wheel proprietor. Public indexing confirms *The Morton Journal* began in 1945 but did not expose readable target issues; the 1946 directory's Morton coverage remains unproved. These three drafts are therefore now the active restricted/manual route under **MF-052** in `MANUAL-FOLLOWUP.md`.
 
 One later contextual lead should be handled cautiously if it appears in requested records: a 28 July 1949 *Coquille Valley Sentinel* item says Floyd's later freight partner **Carl A. Anderson** had operated buses in **Washington for 21 years**. This does **not** identify Morton or connect Anderson to a Wheel Cafe. Preserve any direct Morton association if found, but do not merge same-name Andersons or treat him as the remembered proprietor without contemporary bridging evidence.
+
+
+---
+
+## Request D — Washington State Archives: Carl Anderson passenger-carrier route identification
+<!-- Morton Anderson carrier archive route — 2026-09-06 -->
+
+**Status:** READY TO SEND / NOT SENT. Exploratory person-network route only; this is not evidence Carl Anderson was in Morton.
+
+**Send through:** Washington State Archives, State Government Archives / Ask an Archivist. Current research contact is listed on the official Archives site.
+
+**Subject:** Historical Washington passenger-carrier records — Carl Anderson / Carl A. Anderson, circa 1928–1949
+
+**Draft:**
+
+Hello,
+
+I am researching a historical business/residence question involving a man named **Carl Anderson / Carl A. Anderson** who was documented in Coos County, Oregon by 1949 as co-owner/operator of the Anderson-LaFarlette motor-freight business. A 28 July 1949 newspaper account quotes Anderson saying that he had **operated buses in Washington for 21 years**.
+
+Could you please advise whether the State Government Archives holds predecessor-agency passenger-carrier records that can identify Anderson's Washington bus company and route(s), approximately **1928 through 1949**? I am particularly interested in:
+
+- passenger-carrier / auto-transportation permit or certificate files and applications;
+- Commission order books and docket books;
+- formal transportation / T-files involving buses or motor carriers;
+- transfer, assignment, name-change or route records tied to Carl Anderson / Carl A. Anderson.
+
+If the records are indexed by operator/carrier name, could you please check **Carl Anderson / Carl A. Anderson** first? If a geographic narrowing is required, my highest-value areas are **Morton and eastern Lewis County**, followed by **Centralia and Chehalis**. Those places are research priorities only; I do not yet have evidence that Anderson operated there.
+
+The goal is to identify his Washington bus route/company before drawing any connection to a separate Morton, Washington business-history question.
+
+If the current UTC record-series names do not map cleanly onto 1928–1949 predecessor-agency holdings, I would appreciate guidance to the applicable Public Service Commission / Department of Public Works / Public Utilities Commission series or earlier retention schedule.
+
+Thank you.
+
+### Morton Journal ILL note for Request A
+
+When sending **Request A**, also ask Washington State Library to confirm whether its exact *Morton Journal* holdings include the **1945–7 August 1947** target interval and whether those specific microfilm reels can be loaned through **interlibrary loan to a local public library**. State Library guidance says most Washington newspaper microfilm is eligible for ILL, but the exact title/reels must be confirmed before relying on that route.

@@ -54,3 +54,8 @@ See `evidence/source-captures/lafarlette-coquille-primary-source-preservation-20
 New primary-source location batch `S-277` / `E-250` fixes the Myrtle Lodge associated with Floyd's 1951 ownership at **Coaledo, Coos County**, on the historic U.S. 101 corridor. A 1952 ad says seven miles north of Coquille; 1948 and 1954 polling lists explicitly say Coaledo, Myrtle Lodge; a 1949 classified says “behind Myrtle Lodge at Coaledo.” Exact modern parcel remains unresolved. Business record: `BUS-102`.
 
 Rodney Young additionally recalls that Raye and Floyd owned a **Town Club** in the mid-1950s when Sheila was about ten. A **South Powers Town Club House** is independently documented in 1946–48, but no LaFarlette bridge has been recovered. Treat this as **PROJECT-STEWARD / FAMILY PROVENANCE / HIGH-VALUE UNVERIFIED LEAD**, not ownership fact.
+
+## Powers residence family lead
+<!-- LaFarlette Powers residence family lead — 2026-09-06 -->
+
+Rodney Young stated on **6 September 2026** that he **believes Floyd and Raye LaFarlette lived in Powers, Oregon**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**. Floyd's documented 1947 Anderson-and-LaFarlette business served the Coos Bay–Powers route, but that commercial geography does not by itself prove his residence. Search contemporary residence sources before promoting Powers to a documented home location.

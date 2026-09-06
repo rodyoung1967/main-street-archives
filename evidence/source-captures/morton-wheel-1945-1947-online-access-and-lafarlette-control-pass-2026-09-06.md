@@ -121,3 +121,61 @@ No request was sent automatically.
 No new proprietor, ownership-transfer, Morton residence, or Morton employment fact was established, so this pass intentionally does **not** alter `businesses/the-wheel.md`, `registers/ownership-timeline.md`, or the Raye/Floyd person profiles as if Morton were proved. The meaningful new archive state is the bounded online-search closure, the post-window Coos/Powers controls, the Carl Anderson Washington network lead with an explicit non-bridge warning, and formal **MF-052** manual/restricted-source follow-up.
 
 Do **not** merge the Morton Wheel with The Wheel at 503 Main unless a contemporary person/license/transaction source establishes the connection.
+
+
+## 11. Access-route upgrade — microfilm ILL and Washington passenger-carrier archives
+<!-- Morton Anderson carrier archive route — 2026-09-06 -->
+
+A further source-access pass produced two concrete routes that improve **MF-052** without changing the historical conclusion.
+
+### Morton Journal microfilm may be reachable by interlibrary loan
+
+Washington State Library's official genealogical-resources guidance says it holds Washington newspapers on microfilm from 1853 to the present and that **most newspaper microfilm is available through interlibrary loan from a researcher's local public library**, generally up to ten rolls per request for four weeks with no renewals:
+
+https://www2.sos.wa.gov/legacy/genealogy.aspx
+
+The State Library's current collections page also says the Tumwater library has been closed to ordinary public access since **1 July 2025**, with limited Thursday appointment access:
+
+https://www.sos.wa.gov/library/research-collections/collections-washington-state-library
+
+Classification: **OFFICIAL ACCESS CONTROL / ACTIONABLE RETRIEVAL ROUTE**. This does **not** establish that the State Library actually holds the exact 1945–7 August 1947 *Morton Journal* reels or that those specific reels circulate. The first request should therefore ask staff to confirm the exact holdings/reel coverage and whether the target reels can be sent by ILL. If yes, this becomes preferable to treating the newspaper as in-person-only.
+
+### Washington State Archives preserves passenger-carrier permit and formal transportation files
+
+Washington State Archives' official State Government Archives page says state-agency archival records are held in Olympia and are open for public research; the Archives' “Ask an Archivist” service accepts specific name/date/location research requests:
+
+- https://www.sos.wa.gov/archives/explore-our-collection/branches/state-government
+- https://www.sos.wa.gov/archives/explore-our-collection/ask-archivist
+
+The current Washington Utilities and Transportation Commission records-retention schedule identifies several permanent archival series that could preserve a former Washington bus operator's identity and route history:
+
+- **Commission Orders (Order Books)** — permanent transfer to Washington State Archives;
+- **Docket Books** — transfer to Washington State Archives for permanent retention after the retention interval;
+- **Formal Transportation Cases (T-Files)** — includes motor-carrier and bus contested cases; permanent transfer to Washington State Archives;
+- **Carrier Permit Records** — includes applications and related correspondence for heavily regulated for-hire carriers including **passenger carriers**; permanent transfer to Washington State Archives after permit termination.
+
+Official schedule:
+https://www2.sos.wa.gov/_assets/archives/recordsmanagement/utilities-and-transportation-commission-records-retention-schedule-v.1.2-%28december-2022%29.pdf
+
+The research environment recovered the official PDF text but the required page-image/screenshot renderer returned a cache-miss error, so this is retained as **OFFICIAL TEXT / VISUAL RENDER RETRIEVAL GAP**, not scan-certified archival evidence. The current schedule also does **not** by itself prove that every 1928–1949 predecessor-agency file survived or was transferred under the same disposition rule. Archives staff should confirm the applicable legacy series and holdings before any absence is interpreted.
+
+### Why Carl A. Anderson is worth a bounded carrier-file query
+
+The 28 July 1949 *Coquille Valley Sentinel* says Carl Anderson, then operating the Anderson-LaFarlette truck line serving Powers, stated that he had **operated buses in Washington for 21 years**. Earlier March 1949 reporting identifies Carl Anderson and Floyd LaFarlette as co-owners of the Anderson-LaFarlette trucking service.
+
+That creates a narrow **PERSON-NETWORK LEAD**: if Anderson's Washington bus work was a regulated passenger-carrier operation, a permit, order, docket or T-file may name his company and route. A Morton/eastern Lewis County route would materially strengthen the hypothesis that the LaFarlettes' later Coos business network had a Washington connection in the same locality remembered by the family. A route elsewhere in Washington would weaken Anderson as a Morton-specific lead but still would not disprove the separate LaFarlette Morton recollection.
+
+Classification: **ACTIONABLE PERSON-NETWORK LEAD ONLY**. No online source found in this pass localizes Anderson's Washington bus work to Morton, Lewis County, Centralia, Chehalis or eastern Lewis County. Do **not** treat Anderson as a Morton resident, Morton Wheel proprietor, or the Morton→Oregon City Wheel owner unless a contemporary record explicitly establishes that connection.
+
+### New manual action under MF-052
+
+Add Washington State Archives as a fourth route: request a name/company/route search for **Carl Anderson / Carl A. Anderson**, approximately **1928–1949**, in predecessor Public Service Commission / Department of Public Works / Public Utilities Commission / Utilities and Transportation Commission passenger-carrier permit records, Commission order books, docket books and formal transportation T-files. Ask staff first whether the legacy series are indexed by carrier/operator name. Search Morton, eastern Lewis County, Centralia and Chehalis only as geographic priorities, not asserted residences.
+
+No request was sent automatically.
+
+## Powers residence family lead — effect on the Morton test
+<!-- LaFarlette Powers residence family lead — 2026-09-06 -->
+
+Rodney Young now states that he **believes Raye and Floyd lived in Powers, Oregon**. This is **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not documentary residence proof. It gives the post-Morton side of the chronology a more specific locality and makes the existing 1947–48 Powers evidence more significant as a residence-search target.
+
+Do not use the Powers lead to erase Morton. The correct test is now whether contemporary records support one of several sequences: **Chicago → Morton → Powers/Coos County**, **Chicago → Powers/Coos County with no Morton residence**, or another short/transitional arrangement. The 1945–47 Morton Journal/directory/license work under **MF-052** remains necessary because Powers evidence after August 1947 cannot determine whether a prior Morton interval occurred.

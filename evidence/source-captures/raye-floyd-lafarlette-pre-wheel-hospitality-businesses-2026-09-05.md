@@ -238,3 +238,12 @@ The visually reviewed *Coquille Valley Sentinel* pages used above are preserved 
 Primary-source batch `S-277` / `E-250` now fixes **Myrtle Lodge at Coaledo, Coos County**, on the historic U.S. 101 Coquille–Coos Bay corridor. The exact modern parcel remains unresolved. This sharpens, but does not change, the existing 1951–53 Floyd/Raye Myrtle Lodge chronology. Business record: `BUS-102`.
 
 Rodney Young also recalls that Raye and Floyd owned a **Town Club** in the mid-1950s when Sheila was about ten. The initial documentary pass found a **South Powers Town Club House** in 1946–48 polling-place records, but no evidence yet connects it to the LaFarlettes. With Sheila born 13 June 1944 and age nine in the March 1954 profile, prioritize roughly **mid-1954 through mid-1955**, while searching 1953–57 ownership/license records. Do not merge the Town Club lead with Myrtle Lodge, Myrtle Hotel/Club Lehua, or the South Powers building without a direct bridge.
+
+## Family residence clarification — Powers, Oregon
+<!-- LaFarlette Powers residence family lead — 2026-09-06 -->
+
+On **6 September 2026**, Rodney Young stated that he **believes Raye and Floyd LaFarlette lived in Powers, Oregon**. Because he stated this as a belief rather than a certain dated memory, classify it as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**.
+
+The lead is geographically compatible with the documented **7 August 1947 Coos Bay–Powers mail-contract business** involving Anderson and LaFarlette and with 1948 searchable-text references identifying Raye/`Ray LaFarlette` in Powers-centered community activity, including one item printed as `Ray LaFarlette, Powers`. Those records strengthen Powers as a residence-search target but do not yet prove a household address.
+
+Highest-value residence tests are a late-1940s Powers directory/telephone listing if one survives, voter or registration records, tax/property records, school/family notices, utility records, and page-by-page local newspaper references giving a residence or home address. Preserve this separately from the unresolved Morton stop and from the later Myrtle Lodge / Myrtle Point business history.
