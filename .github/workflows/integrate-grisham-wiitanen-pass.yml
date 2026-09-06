@@ -36,6 +36,30 @@ jobs:
         run: sed -i 's/block\.strip()/block.rstrip()/' scripts/integrate_503_505_grisham_wiitanen_pass.py
       - name: Apply research integration
         run: python3 scripts/integrate_503_505_grisham_wiitanen_pass.py
+      - name: Normalize Markdown/YAML record names
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          replacements = {
+              'database/evidence.yml': {
+                  'name: "Oregon City cemetery register identifies Raye W. Grisham maiden name as Weaver"': 'name: "Oregon City cemetery register identifies Raye W. Grisham\'s maiden name as Weaver"',
+                  'name: "Raye W. Grisham obituary confirms Sheila Wiitanen as daughter and husband sequence"': 'name: "Raye W. Grisham obituary directly confirms Sheila Wiitanen as daughter and husband sequence"',
+              },
+              'database/sources.yml': {
+                  'name: "Oregon City Mausoleum Burial List — Raye W. Grisham / maiden Weaver"': 'name: "Oregon City Mausoleum Burial List, Raye W. Grisham / maiden Weaver"',
+                  'name: "The Oregonian obituary — Raye W. Grisham, 11 July 2012"': 'name: "The Oregonian obituary for Raye W. Grisham, 11 July 2012"',
+                  'name: "OLCC licenses-by-type historical PDF — The Wheel Bar & Grill / Maurice Enterprises Inc"': 'name: "OLCC licenses-by-type historical PDF, The Wheel Bar & Grill / Maurice Enterprises Inc"',
+              },
+          }
+          for rel, mapping in replacements.items():
+              path = Path(rel)
+              text = path.read_text(encoding='utf-8')
+              for old, new in mapping.items():
+                  if old not in text:
+                      raise SystemExit(f'missing expected normalization anchor in {rel}: {old}')
+                  text = text.replace(old, new, 1)
+              path.write_text(text, encoding='utf-8')
+          PY
       - name: Validate synchronized archive
         run: python3 scripts/validate_archive.py
       - name: Publish without overwriting concurrent main
