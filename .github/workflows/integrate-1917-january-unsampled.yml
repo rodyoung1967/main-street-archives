@@ -1,0 +1,66 @@
+name: Integrate 1917 January unsampled review
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/integrate_1917_january_unsampled.py"
+      - ".github/workflows/integrate-1917-january-unsampled.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate 1917 January visual review
+        run: python3 scripts/integrate_1917_january_unsampled.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit integrated records
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add \
+            evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md \
+            evidence/source-captures/1917-courier-review-start.md \
+            evidence/source-register.md \
+            evidence/evidence-register.md \
+            evidence/research-leads.md \
+            evidence/open-questions.md \
+            database/sources.yml \
+            database/evidence.yml \
+            database/businesses.yml \
+            database/buildings.yml \
+            database/timeline.yml \
+            businesses/business-index.md \
+            businesses/w-b-eddys-store-1917.md \
+            businesses/strebig-meat-market-427-former-occupant.md \
+            buildings/427-main.md \
+            registers/address-register.md \
+            registers/year-status.md \
+            registers/research-log.md \
+            indexes/id-crosswalk.md \
+            timeline.md
+          if git diff --cached --quiet; then
+            echo "No integration changes to commit"
+            exit 0
+          fi
+          git commit -m "Extend 1917 review through remaining January issues"
+          git pull --rebase origin main
+          git push origin HEAD:main
