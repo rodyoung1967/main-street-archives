@@ -1,0 +1,32 @@
+name: Render 505 SHPO 30539 for visual review
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/render-505-shpo-30539-for-review.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Render original official PDF to PNG
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/505-shpo-render
+          pdftoppm -png -r 200 -singlefile records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1
+          file /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
+          sha256sum /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
+      - uses: actions/upload-artifact@v4
+        with:
+          name: 505-shpo-30539-visual-review
+          path: /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
+          if-no-files-found: error
+          retention-days: 7
