@@ -1,0 +1,125 @@
+name: Fetch 1917 Courier September unsampled issues
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/fetch-1917-courier-september-unsampled.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Discover and download remaining September Courier issues
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="newspapers/oregon-city-courier/1917-september-unsampled"
+          mkdir -p "$out"
+          rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
+
+          fetch_issue() {
+            d="$1"
+            count=0
+            for n in $(seq 1 24); do
+              nn=$(printf '%02d' "$n")
+              f="$out/${d}-seq-${nn}.pdf"
+              tmp="$f.tmp"
+              url="https://oregonnews.uoregon.edu/lccn/sn00063698/${d}/ed-1/seq-${n}.pdf"
+              if curl --silent --show-error --fail --location --retry 2 --retry-delay 1 \
+                   --connect-timeout 20 --max-time 180 \
+                   --user-agent "Mozilla/5.0 (main-street-archives research)" \
+                   -o "$tmp" "$url"; then
+                if [ "$(head -c 4 "$tmp")" = "%PDF" ]; then
+                  mv "$tmp" "$f"
+                  count=$n
+                  continue
+                fi
+              fi
+              rm -f "$tmp"
+              break
+            done
+            if [ "$count" -lt 1 ]; then
+              echo "No retrievable pages found for $d" >&2
+              exit 1
+            fi
+            echo "$d pages=$count"
+          }
+
+          fetch_issue 1917-09-13
+          fetch_issue 1917-09-20
+          fetch_issue 1917-09-27
+
+          : > "$out/sha256.txt"
+          for f in "$out"/*.pdf; do sha256sum "$f" >> "$out/sha256.txt"; done
+
+      - name: Write retrieval manifest
+        shell: python
+        run: |
+          import hashlib, json, pathlib, re
+          from collections import defaultdict
+          from datetime import datetime, timezone
+          out = pathlib.Path("newspapers/oregon-city-courier/1917-september-unsampled")
+          grouped = defaultdict(list)
+          rx = re.compile(r"(1917-09-\d\d)-seq-(\d\d)\.pdf$")
+          for pdf in sorted(out.glob("*.pdf")):
+              m = rx.match(pdf.name)
+              if m:
+                  grouped[m.group(1)].append((int(m.group(2)), pdf))
+          expected = {"1917-09-13", "1917-09-20", "1917-09-27"}
+          if set(grouped) != expected:
+              raise SystemExit(f"Unexpected issue set: {sorted(grouped)}")
+          items=[]; issues=[]
+          for date in sorted(grouped):
+              rows=sorted(grouped[date]); seqs=[s for s,_ in rows]
+              if seqs != list(range(1,len(seqs)+1)):
+                  raise SystemExit(f"Non-contiguous sequences for {date}: {seqs}")
+              issues.append({"date":date,"page_count":len(rows)})
+              for seq,pdf in rows:
+                  items.append({
+                      "date":date,"sequence":seq,"file":pdf.name,
+                      "source_url":f"https://oregonnews.uoregon.edu/lccn/sn00063698/{date}/ed-1/seq-{seq}.pdf",
+                      "sha256":hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                      "review_status":"PENDING VISUAL REVIEW"
+                  })
+          manifest={
+              "title":"Oregon City Courier 1917 September unsampled weekly issues",
+              "newspaper_lccn":"sn00063698",
+              "retrieved_utc":datetime.now(timezone.utc).isoformat(),
+              "issue_count":len(issues),"page_count":len(items),"issues":issues,"items":items,
+              "annual_completion_limit":"September continuation only; actual page scans still require page-by-page visual review."
+          }
+          (out/"manifest.json").write_text(json.dumps(manifest,indent=2)+"\n")
+          print(json.dumps({"issues":issues,"page_count":len(items)},indent=2))
+
+      - name: Upload preserved PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1917-courier-september-unsampled
+          path: newspapers/oregon-city-courier/1917-september-unsampled
+          retention-days: 7
+
+      - name: Commit preserved PDFs and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add newspapers/oregon-city-courier/1917-september-unsampled
+          git commit -m "Archive unsampled September 1917 Courier pages"
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
