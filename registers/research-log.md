@@ -676,3 +676,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Repeated 108 Fifth and 619 Main advertisements corroborate the existing 1917 sample anchors as additional dated observations.
 - No exact 501/503/505/507/509/511 occupant was established in these 24 pages. This is bounded coverage only, not vacancy/non-use evidence.
 - 1917 remains **IN PROGRESS**; unreviewed annual pages/titles, true 13 Dec p21 and the Sohns & Woodbeck Oregon City directory remain open.
+
+### 2026-09-05 — continued exhaustive 1917 Courier review through remaining February issues
+<!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
+- Preserved and visually inspected **28/28 actual page scans** for 8, 15 and 22 February 1917 (`S-248`). Retrieval commit: `a89ae39e96f8094e7556a0c0605b2093c7687491`.
+- With the previously reviewed 1 February sample, February is now **4 complete issues / 36 pages visually verified**.
+- Selected dated controls: Electric Store / Andresen Building **619 Main** (8/15/22 Feb. p.2); Scripture & May **108 Fifth** (8 Feb. p.4); Williams Bros. Transfer & Storage **612 Main** (8 Feb. p.6; 15/22 Feb. p.8).
+- No exact 501/503/505/507/509/511 Main occupant was established in these 28 pages. This is bounded coverage only, not vacancy/non-use evidence.
+- Non-overlapping monthly sample + January + February continuation progress is now **18 complete tracked issues / 148 visually verified pages**.
+- 1917 remains **IN PROGRESS**; true 13 Dec p21, Sohns & Woodbeck Oregon City section, and remaining annual relevant-title/page audit stay open.

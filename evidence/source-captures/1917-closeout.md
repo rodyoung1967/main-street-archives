@@ -44,3 +44,8 @@ These are retained as **retrieval gaps**, not blockers to moving into 1918:
 The earlier workflow treated the documented gaps as sufficient reason to progress to 1918. Under the current exact status system, **1917 remains `IN PROGRESS`** because full relevant-title/page coverage is not certified and the true 13 December page 21 and Oregon City directory section remain unretrieved. The exact-occupant questions for 503 and 505 remain open.
 
 Do not later summarize 1917 as proving either address vacant. The correct statement is: **no defensible exact-address occupant has yet been recovered from the sources successfully accessed and reviewed.**
+
+## February continuation added 5 September 2026
+<!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
+
+`S-248` / `E-222` adds complete visual review of the 8, 15 and 22 February *Courier* issues (**28/28 pages**). Including the already sampled 1 February issue, February is now **4 complete issues / 36 pages visually verified**. The structured non-overlapping monthly-sample + January + February batches total **18 complete tracked issues / 148 visually verified pages**. This remains partial annual coverage, not a closeout certification. The 13 December true-page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.

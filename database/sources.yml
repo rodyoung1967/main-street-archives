@@ -1464,3 +1464,12 @@ sources:
     related_businesses: [BUS-100, BUS-101]
     related_buildings: [B-016]
 
+  - id: S-248
+    name: "Oregon City Courier, 8/15/22 February 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-02-08/ed-1/"
+    type: "Primary newspaper page scans; visually verified 28/28 pages"
+    date: "1917-02-08 through 1917-02-22"
+    repository_file: "evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md"
+    notes: "Preserved originals and manifest are under newspapers/oregon-city-courier/1917-february-unsampled/. Selected exact-number anchors repeat 619 Main, 108 Fifth and 612 Main; no exact 501/503/505/507/509/511 Main occupant was established in the bounded batch."
+    related_evidence: [E-222]
+

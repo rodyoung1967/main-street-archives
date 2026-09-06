@@ -2072,3 +2072,18 @@ Claims:
 - Across the complete 11/18/25 January batch (**24 visually reviewed pages**), no exact 501/503/505/507/509/511 Main occupant was established. This is coverage only and not negative evidence.
 Classification: **DOCUMENTED / DIRECT** for the 25 January 1917 business/address/former-occupant wording; **UNRESOLVED** for Eddy 1915→1917 identity, Strebig 1907→pre-1917 identity, and 1917→1922 physical-building continuity.  
 Confidence: **Very High** for the visible 25 January wording and 24-page visual-review count; unresolved for the cross-period identity/continuity questions.
+
+## E-222 — February 1917 continuation visually clears 28 pages and repeats selected downtown address anchors
+<!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
+Source: `S-248`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **28 page scans** for the 8, 15 and 22 February 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 1 February sample issue, February now has **4 complete issues / 36 pages visually verified**.
+- Across the non-overlapping monthly-sample, January-continuation and February-continuation batches, the project now documents **18 complete tracked issues / 148 page images visually verified**; this is not exhaustive annual coverage.
+- 8 February p.2 directly repeats the Electric Store at **Andresen Building, 619 Main St.**; 15 and 22 February p.2 repeat the same exact-number anchor.
+- 8 February p.4 directly repeats **Scripture & May, 108 Fifth St.**
+- 8 February p.6 directly prints **Williams Bros. Transfer & Storage, Office 612 Main Street**; 15 and 22 February p.8 repeat that exact-number anchor.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant was established in these 28 pages. This is bounded coverage only and is not evidence of vacancy, non-use, demolition or absence.
+Classification: **DOCUMENTED / DIRECT** for the visual-review count and the printed dated address anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible address wording; no occupancy-continuity inference is made.

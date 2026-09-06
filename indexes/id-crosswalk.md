@@ -531,3 +531,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-247` / `E-221` / `T-093` | `B-016`; `BUS-100`, `BUS-101`; identity leads `BUS-032`, `BUS-047`; later `BUS-087` | 25 Jan. 1917 p6 directly gives W. B. Eddy's Store at **427 Main Street, Corner 5th** and names Strebig Meat Market as former building occupant. No cross-period business merger or physical-building continuity is assumed. |
 | `BUS-100` | `S-247`, `E-221`, `B-016`, `T-093` | W. B. Eddy's Store at 427 on 25 Jan. 1917; prior room not numbered. |
 | `BUS-101` | `S-247`, `E-221`, `B-016`, `T-093` | Strebig Meat Market named only as former 427 building occupant; exact occupancy dates/proprietor unresolved. |
+
+## S-248 / E-222 — February 1917 visual-review continuation
+<!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-248` / `E-222` | 1917 annual audit; `S-134` / `E-120`; `S-247` / `E-221` | 8/15/22 Feb. complete-page batch, **28/28 pages visually reviewed**. Selected direct anchors repeat 619 Main, 108 Fifth and 612 Main. No exact 501/503/505/507/509/511 occupant established; no continuity or vacancy inference. |

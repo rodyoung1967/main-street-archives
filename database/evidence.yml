@@ -3370,3 +3370,16 @@ evidence:
     related_businesses: [BUS-100, BUS-101, BUS-032, BUS-047, BUS-087]
     related_buildings: [B-016]
 
+  - id: E-222
+    name: "February 1917 continuation visually clears 28 pages and repeats selected downtown address anchors"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-02-08 through 1917-02-22"
+    claims:
+      - "All 28 page scans for the 8, 15 and 22 February 1917 Courier issues were visually reviewed."
+      - "With the 1 February sample issue, February now has 4 complete issues / 36 visually verified pages."
+      - "The non-overlapping monthly-sample, January-continuation and February-continuation batches now total 18 complete tracked issues / 148 visually verified pages; this is not exhaustive annual coverage."
+      - "Selected direct anchors repeat Electric Store at 619 Main, Scripture & May at 108 Fifth, and Williams Bros. Transfer & Storage at 612 Main."
+      - "No exact 501/503/505/507/509/511 Main occupant was established in these 28 pages; the bounded no-hit result is not vacancy or absence evidence."
+    confidence: "Very High for the inspected-page count and visible dated address wording; no continuity inference is made."
+    related_sources: [S-248]
+

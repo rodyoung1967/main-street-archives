@@ -1987,3 +1987,16 @@ Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`
 Related evidence/business/building: `E-221`; `BUS-100`, `BUS-101`; `B-016`.  
 Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.  
 Notes: 25 Jan. p.6 directly prints W. B. Eddy's Store at **427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market**. The three issues also repeat 108 Fifth and 619 Main anchors. No exact 501/503/505/507/509/511 occupant was found in this bounded batch; silence is not vacancy evidence.
+
+## S-248 — Oregon City Courier, 8/15/22 February 1917 complete-page visual-review batch
+<!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **8 February 1917 (8 pages); 15 February 1917 (10 pages); 22 February 1917 (10 pages)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-02-08/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-february-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-february-unsampled/manifest.json`  
+Retrieval commit: `a89ae39e96f8094e7556a0c0605b2093c7687491`  
+Related evidence: `E-222`.  
+Capture: `evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md`.  
+Notes: This completes the three February issues not already represented by the 1 February monthly sample. Selected visible anchors include 619 Main, 108 Fifth, and 612 Main. No exact 501/503/505/507/509/511 Main occupant was established in this bounded batch; silence is not vacancy evidence.
