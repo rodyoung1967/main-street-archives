@@ -215,3 +215,14 @@ The evidence does not yet prove any of those bridges. The common business name r
 **UNRESOLVED:** whether the Morton Wheel existed as early as 1944–1947; the Morton proprietor name(s); whether the LaFarlettes were ever residents/employees in Morton; the Oregon City Wheel proprietor/licensee in 1958; Raye's exact acquisition date and seller; and whether the same person/couple appears in both towns.
 
 Do **not** merge the Morton Wheel and Oregon City Wheel ownership histories until a contemporary source explicitly bridges the people or transaction.
+
+## 6 September continuation — public-online threshold reached
+<!-- Morton Wheel ownership bridge continuation — 2026-09-06 -->
+
+The continuation capture `evidence/source-captures/morton-wheel-1945-1947-online-access-and-lafarlette-control-pass-2026-09-06.md` records the completed proprietor/access sweep. It did **not** identify a Morton Wheel proprietor, a Morton LaFarlette residence/employment record, a Morton→Oregon City owner, or the pre-Raye Oregon City Wheel proprietor.
+
+Two access findings now control the next step: (1) *The Morton Journal* is officially cataloged beginning in **1945**, but no readable public digitized run for the target 1945–7 Aug. 1947 interval surfaced; and (2) Washington State Library lists **Lewis County 1946**, while other directory catalogs describe the 1946 volume as Centralia/Centralia-Chehalis, so **Morton coverage must be proved before interpreting any no-hit**.
+
+A later Coos-side person-network clue is preserved but not promoted: a 28 July 1949 article says Floyd's freight partner Carl A. Anderson had operated buses in Washington for 21 years. It does **not** say Morton and does **not** connect Anderson to either Wheel business.
+
+The remaining source problem is now formally registered as **MF-052** in `MANUAL-FOLLOWUP.md`, using the existing Washington State Library, Washington LCB, and Oregon OLCC ready-to-send drafts. No request has been sent.

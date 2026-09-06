@@ -178,3 +178,12 @@ LCB's current records index establishes that Licensee Application Files are a re
 ## Do not send automatically
 
 These drafts are preserved for project-steward use. **No request has been sent.** If any institution supplies records, visually inspect original scans where available and integrate the exact names/dates before promoting either the Chicago → Morton → Coquille chronology or the Morton → Oregon City ownership hypothesis.
+
+---
+
+## 6 September 2026 online-exhaustion update
+<!-- Morton Wheel ownership bridge continuation — 2026-09-06 -->
+
+The further public-online pass did not recover the Morton Wheel proprietor, a LaFarlette Morton residence/employment record, a Morton→Oregon City owner bridge, or the pre-Raye Oregon City Wheel proprietor. Public indexing confirms *The Morton Journal* began in 1945 but did not expose readable target issues; the 1946 directory's Morton coverage remains unproved. These three drafts are therefore now the active restricted/manual route under **MF-052** in `MANUAL-FOLLOWUP.md`.
+
+One later contextual lead should be handled cautiously if it appears in requested records: a 28 July 1949 *Coquille Valley Sentinel* item says Floyd's later freight partner **Carl A. Anderson** had operated buses in **Washington for 21 years**. This does **not** identify Morton or connect Anderson to a Wheel Cafe. Preserve any direct Morton association if found, but do not merge same-name Andersons or treat him as the remembered proprietor without contemporary bridging evidence.

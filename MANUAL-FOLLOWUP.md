@@ -61,6 +61,8 @@ These are the **current high-value human actions**. They are ordered for the act
 
 | 19 | **MF-050** | Search **1953–1957 Coos County Court / historical OLCC licensing records for Town Club / Town Club House / LaFarlette**, prioritizing Mar. 1954–Dec. 1955 | Public online searching did not recover the ownership/license bridge; official inventory confirms surviving County Court journals/indexes that can include liquor-license actions | **ACTIVE MANUAL — TWO DRAFTS READY**. [Coos County Clerk + Oregon State Archives drafts](registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md) |
 
+| 20 | **MF-052** | Inspect/search **The Morton Journal, 1945–7 Aug. 1947** and first establish whether the **1946 Lewis County / Centralia-Chehalis directory actually includes Morton**; if covered, check LaFarlette variants and Wheel Cafe entries. In parallel, use the prepared Washington LCB and Oregon OLCC historical-license requests to identify the Morton Wheel proprietor and the pre-Raye 503 Main Wheel licensee | Public-online searching did not expose the target Morton Journal run, did not establish Morton coverage in the 1946 directory, and did not recover a reliable 1940s/1950s Morton Wheel proprietor or a 1958–67 Oregon City pre-Raye proprietor. The shared Wheel name remains only a clue | **ACTIVE MANUAL — THREE DRAFTS READY / NOT SENT**. [Combined Washington State Library + OLCC + Washington LCB drafts](registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
@@ -260,7 +262,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **19-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).
+The current practical list is the **20-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -296,3 +298,13 @@ Future research sessions should add a new `MF-###` item only when a source genui
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-051** | **YEAR-CLOSEOUT / MANUAL CALLOUT** | **Yes for 1917 manual completion** | Obtain the **true printed Page 8 of the 13 April 1917 Oregon City Enterprise** from Oregon City Public Library microfilm, Oregon Digital Newspaper Program source microfilm/original, or another institutional copy. The online archive's seq-8 object visibly prints **PAGE 6** and a Thursday masthead with an obscured/marked date, while seq-6 is already the normal Friday Page 6. PDF/JP2/OCR/RDF, ed-1 seq9-12, editions 2-4, neighboring-object, Chronicling America/LOC and LOC-index recovery did not expose the true Page 8. Inspect any institutional replacement visually for target addresses/businesses and integrate it. Retrieval gap, not negative evidence. See `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md` and `newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/recovery-manifest.json`. |
+
+
+---
+
+## 6 September 2026 — Morton Wheel / Oregon City Wheel pre-Raye proprietor bridge
+<!-- Morton Wheel ownership bridge continuation — 2026-09-06 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-052** | **ACTIVE MANUAL — THREE DRAFTS READY / NOT SENT** | **Yes** | The public-online continuation exhausted the practical indexed routes for the target **1945–7 Aug. 1947 Morton Journal** interval without exposing readable issue pages, while official/catalog sources confirm the paper existed beginning in 1945. Washington State Library lists a **1946 Lewis County directory**, but commercial catalog/index descriptions label the 1946 volume as **Centralia** or **Centralia/Chehalis**, so Morton coverage must be established before interpreting any no-hit. No reliable public-online source identified the Morton Wheel proprietor, Raye/Floyd in Morton, Raye as a Morton Wheel employee, a Morton proprietor who later appears at the Oregon City Wheel, or the pre-Raye proprietor/licensee of **Wheel Cafe & Lounge, 503 Main, Oregon City**. Use the three ready-to-send requests in `registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md`. Treat all no-hits as coverage/retrieval results, not negative evidence. |

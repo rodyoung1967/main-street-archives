@@ -210,3 +210,14 @@ Classification: **RETRIEVAL GAP / UNRESOLVED**, not negative evidence. The most 
 **UNRESOLVED / RETRIEVAL GAP:** no period Morton residence, employee record, proprietor, Oregon City predecessor-owner, or cross-town ownership bridge has yet been recovered.
 
 Do **not** merge the Morton Wheel and Oregon City Wheel histories until a contemporary person/license/transaction source establishes the bridge.
+
+## 11. Online-access continuation — 6 September 2026
+<!-- Morton Wheel ownership bridge continuation — 2026-09-06 -->
+
+A further proprietor/access pass is preserved in `evidence/source-captures/morton-wheel-1945-1947-online-access-and-lafarlette-control-pass-2026-09-06.md`.
+
+It adds **OCR/TEXT-ONLY** post-window controls placing `Ray LaFarlette` in a Powers Royal Neighbors context on **15 January 1948** and explicitly as `Ray LaFarlette, Powers` on **22 April 1948**. It also adds an **OCR/TEXT-ONLY** 28 July 1949 item identifying `Rae LaFarlette` among “the girls who work at the Coquille Hotel,” plus the 23 June 1949 report that Carl A. Anderson purchased Floyd LaFarlette's interest in Anderson-LaFarlette Freight. Required screenshot rerendering of the 1949 PDFs failed with a cache-miss error, so those items are not scan-certified in this pass.
+
+The same 28 July page says Carl Anderson had operated buses in **Washington for 21 years**. This is retained only as a **PERSON-NETWORK LEAD**; the source does not say Morton and does not connect Anderson to any Wheel Cafe.
+
+The online proprietor sweep still recovered no contemporary Morton residence/employment record, no 1944–47 Morton Wheel existence proof, no Morton Wheel proprietor, no Morton→Oregon City person bridge, and no named pre-Raye Oregon City Wheel proprietor. Public indexing confirms *The Morton Journal* began in 1945 but did not expose the target run; the 1946 directory's Morton coverage also remains unproved. The issue now has formal manual/restricted-source callout **MF-052**. No institutional request has been sent.
