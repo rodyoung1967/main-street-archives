@@ -8,7 +8,9 @@ Purpose: preserve and separate the emerging pre-503 business history of Raye LaF
 
 Rodney Young recalls that Raye's later ownership of The Wheel was definitely **not her first business venture** and that she also ran some kind of **nightclub or hotel in Myrtle Point, Oregon**.
 
-Classification: **FAMILY / ORAL-HISTORY LEAD** until matched to contemporary records. The Myrtle Point recollection is not converted into a specific legal ownership or operator claim without documentary support.
+On 5 September 2026 Rodney added a second, more specific family-memory lead: **Raye may have worked at the Wheel Cafe in Morton, Washington, and the people who owned the Morton Wheel may later have owned The Wheel in Oregon City before Raye bought the Oregon City business from them.** Rodney explicitly cautioned that this is memory and may be partly wrong.
+
+Classification: **FAMILY / ORAL-HISTORY LEAD** until matched to contemporary records. Neither the Myrtle Point recollection nor the Morton→Oregon City ownership recollection is converted into a specific legal ownership, operator, employment, or business-transfer claim without documentary support.
 
 ## 1954 Coquille profile — earlier Chicago rooming-house business
 
@@ -91,16 +93,30 @@ These strengthen the later Floyd/Myrtle Hotel association but do not replace the
 
 Rodney asked whether the family may have lived in **Morton, Washington** during the interval between Myrtle Point and Oregon City. A targeted web pass confirms that Morton had a restaurant called **The Wheel Cafe**, later styled **Wheel Cafe & Jubilee Room**, at **145 Main Street, Morton, Washington 98356**. Later local-business listings give phone **360-496-3240**, and a 2007 neon-sign record identifies the establishment as a restaurant/diner at that address. A 2014 Lewis County local-memory feature includes a recollection of **“The Old Wheel Cafe,”** and a Morton resident's obituary states that she had worked as a waitress at the Wheel Cafe before a later dental-office career.
 
+A **9 August 1973 Centralia Daily Chronicle** indexed result also advertises the Morton Wheel Cafe with the line **“where friendly people meet”** and references the **Jubilee Room**, confirming that the business was still active by 1973. The actual page remains behind NewspaperArchive access in the current environment, so this is **OCR/TEXT ONLY** until visually verified.
+
 Current online sources:
 
 - Waymarking, “The Wheel Cafe, Morton, Washington,” posted 7 May 2007 — https://www.waymarking.com/waymarks/WM1GX7_The_Wheel_Cafe_Morton_Washington
 - MenuPix, “Wheel Cafe & Jubilee Room,” 145 Main St., Morton — https://www.menupix.com/washington/restaurants/4712917/Wheel-Cafe-and-Jubilee-Room-Morton-WA
 - *The Chronicle* / Chronline 2014 retrospective PDF containing local recollection of “The Old Wheel Cafe.”
 - Betty Armstrong obituary, Morton, stating she worked as a waitress at the Wheel Cafe before her dental-assistant career.
+- *Centralia Daily Chronicle*, 9 Aug. 1973, p. 6, indexed NewspaperArchive result for Wheel Cafe/Jubilee Room in Morton.
 
-**Important:** no source recovered in this pass connects **Raye or Floyd LaFarlette** to the Morton Wheel Cafe. The shared **Wheel Cafe** name is therefore a **HIGH-VALUE UNVERIFIED LEAD**, not evidence that the Morton and Oregon City businesses shared ownership, management, or naming lineage.
+**Important:** no documentary source recovered in this pass yet connects **Raye or Floyd LaFarlette** to the Morton Wheel Cafe, and no source yet names a Morton Wheel owner who can be matched to the Oregon City business. The shared **Wheel Cafe** name plus Rodney's family recollection is therefore a **HIGH-VALUE UNVERIFIED LEAD**, not evidence that the Morton and Oregon City businesses shared ownership, management, employees, or naming lineage.
 
-The next decisive sources are the Washington State Library's **Morton telephone directories for 1962 and 1964–1976** and the *Morton Journal* (published 1945–1973). Check both the personal listings for Floyd/Raye LaFarlette and the business listings/advertisements for Wheel Cafe, including proprietor/manager names. This should establish whether the LaFarlettes were in Morton during the Wheel Cafe's operation and whether the apparent naming overlap is meaningful or coincidental.
+## Chronology complication: Oregon City Wheel already existed by 1960
+
+The repository's visually preserved **30 November 1960 Oregonian** item (`E-044`) already names the **Wheel Cafe at Fifth and Main in Oregon City**. Thus, if Rodney's remembered chain is substantially correct — Morton Wheel owners later owned the Oregon City Wheel and then sold it to Raye — those Morton owners would have taken over an **already-existing Oregon City Wheel** rather than necessarily introducing the Wheel name to Oregon City.
+
+That creates two separate questions that must not be collapsed:
+
+1. **Did Raye work at the Morton Wheel Cafe, and who owned/operated that business during her possible employment?**
+2. **Did one or more of those Morton owners/operators later acquire the already-existing Wheel Cafe at 503 Main, Oregon City, and then sell that business to Raye?**
+
+The current documentation does not identify the Oregon City Wheel proprietor in the November 1960 article, and the 7 June 1967 Oregon City Commission minutes (`E-025`) authorize a liquor application for “the Wheel located at 503 Main Street” without the repository capture presently supplying an individual applicant name. Those owner/licensee identities are now high-value comparison targets.
+
+The next decisive sources are the Washington State Library's **Morton telephone directories for 1962 and 1964–1976**, the *Morton Journal* (published 1945–1973), and Oregon City business-directory / liquor-license records bracketing **1960–1967**. Check the Morton business listings and advertisements for proprietor/manager names, personal listings for Floyd/Raye LaFarlette, and Oregon City records for the Wheel's proprietor/licensee before Raye's acquisition.
 
 ## Working chronology — do not collapse the establishments
 
@@ -108,20 +124,22 @@ The next decisive sources are the Washington State Library's **Morton telephone 
 2. **By 1949–1954:** Raye was working in the Coquille Hotel environment; the 1954 profile identifies her at its coffee shop.
 3. **October 1951:** Floyd is directly documented as a new co-owner of **The Myrtle Lodge**, a dining and Saturday-night dancing venue outside Myrtle Point.
 4. **June 1953:** Raye and Floyd are directly documented hosting a Myrtle Lodge banquet/dance.
-5. **1962–1965:** indexed *Myrtle Point Herald* material strongly associates the LaFarlettes with the **Myrtle Hotel / Myrtle Coffee Shop / Club Lehua** in **Myrtle Point**; the February 1963 OCR specifically places **Mr. and Mrs. Floyd LaFarlette** in the owner/renovation context.
-6. **Post-1965 interval under investigation:** Morton, Washington is now a specific family-location lead, and Morton had its own **Wheel Cafe**. No LaFarlette-to-Morton-Wheel connection is yet documented.
-7. **Later:** Raye acquired The Wheel business at **503 Main Street, Oregon City**. The exact Wheel acquisition date remains a separate research question.
+5. **By November 1960:** an **Oregon City Wheel Cafe** already exists at Fifth and Main; proprietor unresolved.
+6. **1962–1965:** indexed *Myrtle Point Herald* material strongly associates the LaFarlettes with the **Myrtle Hotel / Myrtle Coffee Shop / Club Lehua** in **Myrtle Point**; the February 1963 OCR specifically places **Mr. and Mrs. Floyd LaFarlette** in the owner/renovation context.
+7. **Morton interval under investigation:** family memory says Raye may have worked at Morton's **Wheel Cafe**, and that its owners may later have owned the Oregon City Wheel before selling it to her. Exact dates and names are unresolved.
+8. **Later:** Raye acquired The Wheel business at **503 Main Street, Oregon City**. The exact Wheel acquisition date and seller remain separate research questions.
 
-This chronology demonstrates that The Wheel should not be narrated as Raye's first business experience.
+This chronology demonstrates that The Wheel should not be narrated as Raye's first business experience and that the possible Morton→Oregon City relationship must be tested through named owners/operators rather than inferred from the shared business name.
 
 ## Next action
 
-Highest value is visual retrieval of:
+Highest value is visual/documentary retrieval of:
 
 1. *Myrtle Point Herald*, **21 Feb. 1963, p. 1** — exact Mr./Mrs. LaFarlette ownership wording and relationship among Myrtle Hotel, Myrtle Coffee Shop and Club Lehua;
 2. **16 Aug. 1962, p. 1** — Floyd ownership wording;
 3. **24 May 1962, p. 8** — resolve the OCR-corrupted Rae LaFarlette / Guerin Hotel passage;
 4. **25 Jun. 1964, p. 1** and **6 May 1965, p. 1** — later operation/continuity;
-5. Morton telephone directories **1962 and 1964–1976** plus *Morton Journal* **1945–1973** — test the LaFarlettes' Morton residence and the ownership/management history of the Morton Wheel Cafe.
+5. Morton telephone directories **1962 and 1964–1976** plus *Morton Journal* **1945–1973** — identify Wheel Cafe proprietor/manager(s), test Raye/Floyd residence/employment, and date ownership changes;
+6. Oregon City Wheel records **1960–1967** — identify pre-Raye proprietor/licensee(s), especially the individual behind the June 1967 liquor application, then compare those names directly with the Morton ownership chain.
 
 Until those scans are inspected, retain the Myrtle Point records as OCR/TEXT ONLY and do not merge **The Myrtle Lodge** with **Myrtle Hotel / Club Lehua**. Likewise, do not merge the **Morton Wheel Cafe** with **The Wheel at 503 Main, Oregon City** unless contemporary evidence explicitly establishes a bridge.
