@@ -1679,3 +1679,12 @@ sources:
     notes: "Corrective preservation of a page already used in LaFarlette research; see evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md."
     related_evidence: [E-245]
 
+  - id: S-272
+    name: "Oregon City Enterprise, March 1917 scan-first visual-review batch with archive page-association conflict"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/"
+    type: "Primary newspaper page scans; 40 exposed slots inspected, 39 genuine intended-date pages recovered"
+    date: "1917-03-02 through 1917-03-30"
+    repository_file: "evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md"
+    notes: "16 March seq-5 visibly belongs to 23 March; true 16 March page 5 remains a retrieval gap after alternate-derivative recovery. No exact target-address occupant established on the 39 genuine pages."
+    related_evidence: [E-246]
+

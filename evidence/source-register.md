@@ -2270,3 +2270,19 @@ Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manife
 Related evidence: `E-245`.  
 Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED; preserved contemporary published account, with Morton omission treated as a chronology conflict rather than negative evidence.**
+
+## S-272 — Oregon City Enterprise, March 1917 scan-first visual-review batch with archive page-association conflict
+<!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
+Type: Primary newspaper page scans; **40/40 exposed archive slots visually inspected; 39 genuine intended-date pages recovered** on 6 September 2026.  
+Publication: *Oregon City Enterprise*  
+Issue dates: **2, 9, 16, 23 and 30 March 1917**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-march/`  
+Manifest: `newspapers/oregon-city-enterprise/1917-march/manifest.json`  
+Original retrieval commit: `e65bd35360e6c6cea20b88184671407841ba73b5`  
+Recovery manifest: `newspapers/oregon-city-enterprise/1917-march/recovery-march16-page5/recovery-manifest.json`  
+Recovery commit: `4d4853ddb0cd81ceefe147a335dd83e940d93cdd`  
+Related evidence: `E-246`.  
+Manual callout: `MF-049`.  
+Capture: `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md`.  
+Notes: Visual date audit shows 16 March seq-5 is actually a distinct 23 March Page-5 variant. True 16 March page 5 remains unrecovered after derivative/alternate-edition/LOC recovery attempts. No exact 501/503/505/507/509/511 occupant was established on the 39 genuine recovered pages; no vacancy inference is made.

@@ -399,3 +399,8 @@ CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763` / `T-091`) explicitly locates the 
 
 ### 1896 Fifth/Main sign-to-address alignment
 CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) now gives two strong block anchors: Albright's cold-storage/meat premises at the Fifth/Main foreground and Wilhelm Tell House toward the Sixth/Main end. Next compare the visible party walls/storefront widths with the 1892 Sanborn, then test the later 1907–1912 address ladder. Do not back-project 501/503/505 numbers solely from the photograph.
+
+## 6 September 2026 — 1917 Enterprise March gap-aware continuation
+<!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
+
+`S-272` / `E-246` visually audits all 40 archive-supplied March slots and identifies a source-association defect: 16 March seq-5 visibly belongs to 23 March. The true 16 March page 5 remains **RETRIEVAL GAP `MF-049`** after PDF/JP2/OCR/RDF, alternate-edition and LOC/Chronicling-America recovery attempts. Enterprise cumulative genuine intended-date coverage is **105 pages through March**; **310 later Apr-Dec exposed pages** remain. Continue with April page-by-page visual review, but preserve the March gap for manual completion. The exact 1917 503/505 occupant question remains unresolved; no vacancy inference and no Farr identity merge is permitted.

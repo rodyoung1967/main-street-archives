@@ -349,6 +349,13 @@ If a Sanborn or other map source is added:
 - Add the binary source file under the appropriate map source folder.
 - Update `maps/sanborn-map-register.md` and related evidence.
 
+## Cross-Record Propagation Audit
+<!-- cross-record-propagation-audit-2026-09-06 -->
+
+After every meaningful verified source batch, explicitly review the related **timeline, building, business, person, open-question, research-lead, register, crosswalk, and YAML/database records** before calling the integration complete. Update every record whose historical content or evidence state materially changes.
+
+If the batch produces only bounded coverage, a retrieval gap, or a no-hit result and therefore **does not establish a new entity fact**, record that propagation decision in the source capture or research log rather than manufacturing a vacancy, occupant, business, ownership, or building-event entry. A no-hit is not a historical event.
+
 ## Updating Evidence
 
 If evidence changes:

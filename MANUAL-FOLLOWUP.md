@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **5 September 2026** — outreach-draft coverage was completed for every current active manual item that requires institutional contact. Missing drafts were added in `registers/research-requests/active-manual-outreach-drafts-2026-09-05.md`, the active queue now links directly to the applicable correspondence, and the dispatch tracker distinguishes one-draft and two-draft items. No existing MF ID was renumbered or removed.
+Last amended: **6 September 2026** — added a visually confirmed 1917 Enterprise source-association gap and its exhausted online-recovery route; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -263,3 +263,13 @@ Future research sessions should add a new `MF-###` item only when a source genui
 ## MF-048 — 503 Wiitanen acquisition / conveyance deed chain
 
 **ACTIVE — ASCEND SELF-SERVICE FIRST.** Search official Clackamas County Ascend by account **00572650** and preserve the target parcel Events/Sales History, especially recording number, deed type, grantor, grantee and sale amount for the reported 2 Dec. 2002 / $200,000 event. If Ascend does not expose the older chain, use the Assessment & Taxation history-card and Recording fallback draft at `registers/research-requests/503-wiitanen-conveyance-deed-request-2026-09-05.md`. Route capture: `evidence/source-captures/clackamas-ascend-503-sales-history-route-2026-09-05.md`. Keep separate from MF-034 (505).
+
+
+---
+
+## 6 September 2026 — 1917 Enterprise source-page retrieval gap
+<!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-049** | **YEAR-CLOSEOUT / MANUAL CALLOUT** | **Yes for 1917 manual completion** | Obtain the **true printed page 5 of the 16 March 1917 Oregon City Enterprise** from Oregon City Public Library microfilm, Oregon Digital Newspaper Program source microfilm/original, or another institutional copy. The online archive's 16 Mar seq-5 PDF/JP2/OCR/RDF object is visually a **23 Mar 1917 Page 5**; alternate online derivatives and editions did not recover the correct page. Inspect the supplied scan visually for 501/503/505/507/509/511, occupants, business names, sales/moves, fire/construction/demolition and Fifth/Main controls, then integrate the result. This is a retrieval gap, **not negative evidence**. See `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md` and `newspapers/oregon-city-enterprise/1917-march/recovery-march16-page5/recovery-manifest.json`. |

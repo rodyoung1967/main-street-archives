@@ -232,3 +232,8 @@ CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) provides a new pre-numb
 ### 503 Wiitanen exit / Maurice acquisition — 5 September 2026
 
 The downstream bracket is now materially tighter but the deed is still missing. `E-228` reports a **2 Dec. 2002 / $200,000** 503 transaction with hidden parties; `E-229` names **Maurice Shahtout** on the 503 land/building assessment-derived entry in tax year 2010; `E-225` and `E-230` independently tie **Maurice Enterprises Inc / The Wheel Bar & Grill** to the later 503 business chain. The same 2010 page still names **Richard M. and Sheila J. Wiitanen** on the 505 land/building entry. Retrieve the 503 deed/index chain under `MF-048` before identifying the 2002 parties or equating Maurice Shahtout with Maurice Enterprises Inc.
+
+### 6 September 2026 — March Enterprise retrieval-gap refinement
+<!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
+
+`E-246` / `S-272` advances 1917 newspaper coverage but **does not resolve the 503/505 occupant question**. Of 40 exposed March Enterprise slots, 39 are genuine intended-date pages; the archive's 16 March seq-5 visibly prints 23 March, and the true 16 March page 5 remains unrecovered under manual callout `MF-049` after reasonable online recovery attempts. No exact 501/503/505/507/509/511 occupant was established on the 39 genuine pages. Keep the missing page and newspaper silence as coverage/retrieval facts only, not vacancy or non-use evidence.

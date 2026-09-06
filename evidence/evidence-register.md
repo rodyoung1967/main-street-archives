@@ -2394,3 +2394,17 @@ Claims:
 - The article does not mention Morton; that omission is an unresolved conflict with family oral history and is not proof that no brief Morton stop occurred.
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED; preserved contemporary published account, with Morton omission treated as a chronology conflict rather than negative evidence.**  
 Confidence: **Very High for the visible dated wording; inference boundaries above are retained.**
+
+## E-246 — March 1917 Enterprise visual audit finds one misassociated page and leaves true 16 March page 5 unrecovered
+<!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
+Source: `S-272`  
+Type: Primary newspaper page scans plus recovery audit  
+Claims:
+- All **40 exposed March archive slots** were visually inspected, but only **39 are genuine intended-date March issue pages**.
+- The archive file exposed as **16 March seq-5/page 5 visibly prints 23 March 1917, Page 5** and is a distinct scan from the normal 23 March page 5.
+- True **16 March 1917 Enterprise page 5** remains a **RETRIEVAL GAP** after PDF/JP2/OCR/RDF/page-HTML, alternate-edition, and Library-of-Congress/Chronicling-America recovery attempts; manual callout `MF-049` preserves the next route.
+- Enterprise cumulative genuine intended-date coverage is **105 pages through March**, with **310 later exposed April-December pages** still unreviewed.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant and no new exact 427 Main occupant was established on the 39 genuine recovered March pages.
+- A Farr Brothers reference appears only on the misassociated **23 March** Page-5 variant; it supplies no 505 address and does not bridge Edwin/Alice Farr to 505 in 1917.
+Classification: **DOCUMENTED / DIRECT** for visible printed dates and scan identity; **RETRIEVAL GAP** for true 16 March page 5; **COVERAGE RESULT ONLY** for the no-target-address finding.  
+Confidence: **Very High** for the page-date conflict and inspected-page counts; no continuity, vacancy, or Farr identity inference is made.

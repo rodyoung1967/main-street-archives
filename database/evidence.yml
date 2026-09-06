@@ -3680,3 +3680,17 @@ evidence:
     confidence: "Very High for visible dated wording; classification and inference boundaries preserved in the evidence register."
     related_sources: [S-271]
 
+  - id: E-246
+    name: "March 1917 Enterprise visual audit finds one misassociated page and leaves true 16 March page 5 unrecovered"
+    type: "Primary newspaper page scans plus recovery audit"
+    date: "1917-03-02 through 1917-03-30"
+    claims:
+      - "All 40 exposed March archive slots were visually inspected; 39 are genuine intended-date March issue pages."
+      - "The 16 March seq-5 object visibly prints 23 March 1917 Page 5 and differs from the normal 23 March Page-5 scan."
+      - "True 16 March page 5 remains a retrieval gap after alternate-derivative and alternate-edition recovery attempts."
+      - "Enterprise cumulative genuine intended-date coverage through March is 105 pages; 310 later exposed April-December pages remain unreviewed."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established on the 39 genuine recovered pages."
+      - "The Farr Brothers wording on the misassociated 23 March variant does not bridge Edwin/Alice Farr to 505 in 1917."
+    confidence: "Very High for page-date conflict and counts; retrieval gap and no-merge limits explicitly retained."
+    related_sources: [S-272]
+
