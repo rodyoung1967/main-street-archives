@@ -119,3 +119,8 @@ The missing second local title has now been identified correctly as the weekly *
 <!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
 
 `S-272` / `E-246` audits all **40 exposed March Enterprise slots**, but visual printed-date checking shows only **39 genuine intended-date March pages**. The archive's 16 March seq-5/page-5 object visibly prints **23 March 1917, Page 5** and is distinct from the normal 23 March page 5. Reasonable alternate-derivative/edition/LOC recovery did not locate the true 16 March page 5, now retained as **RETRIEVAL GAP / `MF-049`**. Enterprise cumulative genuine coverage is **105 pages through March**, with **310 later exposed April-December pages** pending. No exact target 501/503/505/507/509/511 occupant was established on the recovered genuine pages; the missing page prevents complete 16 March no-hit coverage.
+
+## Enterprise April audit added 6 September 2026
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+`S-279` / `E-252` visually inspects all **32 April archive slots**, credits **31 genuine intended-date pages**, and identifies true 13 April printed Page 8 as retrieval gap `MF-051` because seq-8 is visibly a second printed Page 6 variant. Enterprise cumulative genuine coverage is **136 pages through April**; **278 May-December slots remain**. April also promotes W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`): 1917 ads place the stable on Main between Fourth/Fifth, differing from the 1915 Fifth-between-Main-and-Water location. No exact 501/503/505/507/509/511 or new 427 occupant was established.

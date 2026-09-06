@@ -110,3 +110,8 @@ The remaining **24 businesses** without standalone pages are `BUS-008`, `BUS-033
 The remaining **35 people/entities** without standalone profiles are `P-009`, `P-010`, `P-015`–`P-017`, `P-020`, `P-021`, `P-032`, `P-033`, `P-039`, `P-040`, `P-043`, `P-047`–`P-049`, `P-052`–`P-054`, `P-058`–`P-065`, and `P-067`–`P-075`. They are family/group context, single dated applicants/occupants, prospective-move actors, or leads lacking enough independent chronology for a useful profile.
 
 This page-coverage decision does not remove any entity from the canonical indexes. It also does not certify an annual research year or turn an unresolved identity/address into a negative finding.
+
+## 6 September 2026 follow-up — W. S. Eddy / Fashion Stable promotion
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+April 1917 Enterprise review converts W. S. Eddy / Fashion Stable from peripheral relative-location mentions into a **multi-date, location-conflict-heavy chronology**, meeting this audit's promotion rule. Added person `P-396` and business `BUS-103` with standalone pages and YAML/index synchronization. No building ID is created because neither the 1915 nor 1917 notice prints an exact number.

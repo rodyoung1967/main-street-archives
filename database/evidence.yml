@@ -3759,3 +3759,17 @@ evidence:
     confidence: "High for research-route selection; Town Club ownership remains unresolved."
     related_sources: [S-278]
 
+  - id: E-252
+    name: "April 1917 Enterprise audit finds Page-8 gap and advances W. S. Eddy / Fashion Stable chronology"
+    type: "Primary newspaper visual review plus source-recovery audit"
+    date: "1917-04-06 through 1917-04-27"
+    claims:
+      - "All 32 exposed April slots were inspected; 31 are genuine intended-date pages."
+      - "13 April seq-8 is visibly printed Page 6; true printed Page 8 remains a retrieval gap."
+      - "Enterprise cumulative genuine intended-date coverage through April is 136 pages; 278 later exposed slots remain."
+      - "Repeated April ads place W. S. Eddy / Fashion Stable between Fourth and Fifth on Main, differing from the 1915 Fifth-between-Main-and-Water location."
+      - "20 April p3 records Annie L. Farr conveying lot 6 block 92 Oregon City for $1; identity with Alice/Annis/Edwin Farr is not established."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established on the 31 genuine intended-date pages."
+    confidence: "Very High for direct scan readings; location-change and identity limits preserved."
+    related_sources: [S-279]
+

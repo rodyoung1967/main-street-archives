@@ -172,3 +172,10 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address | Notes |
 | --- | --- | --- | --- |
 | BUS-102 | [Myrtle Lodge / former Club Midway](myrtle-lodge-coaledo.md) | Coaledo, historic U.S. 101 corridor; exact modern parcel unresolved | Midway → Myrtle Lodge rename directly reported 11 Dec. 1947; Floyd LaFarlette and Charlie Elkins advertised as new owners 18 Oct. 1951 (`E-243`). Coaledo location independently documented in 1948, 1949, 1952 and 1954 (`E-250`). Do not merge with Myrtle Point hotel/Club Lehua or South Powers Town Club House. |
+
+## April 1917 Enterprise entity promotion
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+| ID | Business | Address / location | Notes |
+| --- | --- | --- | --- |
+| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; April 1917 Main between Fourth/Fifth; no number | Multi-date relative-location chronology through W. S. Eddy; possible move/location-wording change. No 110 Fifth, 427 Main, or target-frontage assignment. `E-252` / `S-279`. |

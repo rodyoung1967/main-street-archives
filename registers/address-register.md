@@ -99,3 +99,11 @@ E-116/S-130, [page ledger](../evidence/source-captures/1916-courier-pages-106-18
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
 | Fifth/Main foreground; no number (1896 photograph) | C. Albright's cold-storage/meat premises | `E-220` with later `E-173` / `E-123` | **Strong cross-source intersection/site correlation**: photographed sign reads `C. ALBRIGHT'S` / `COLD STORAGE`; later records call Charles Albright's meat-business location/old stand Fifth/Main. Exact later number and building continuity unresolved. |
+
+## 1915–1917 Fashion Stable relative-location change
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+- `E-112` / `S-124` (continued `E-114` / `S-128`) places **W. S. Eddy / Fashion Stable on Fifth Street between Main and Water** in 1915.
+- `E-252` / `S-279` places **W. S. Eddy / Fashion Stable on Main Street between Fourth and Fifth** repeatedly in April 1917.
+
+Both are relative-location evidence. No numbered building record is created. Test a move or changed premises/entrance before mapping Fashion Stable to 110 Fifth, 427 Main, or another address.

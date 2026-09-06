@@ -561,3 +561,10 @@ CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`) is titled **Oregon City
 <!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
 
 A visually verified *Oregon City Courier* advertisement (`S-247` / `E-221`) gives **W. B. Eddy's Store (`BUS-100`)** at its **new location, 427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market (`BUS-101`)**. The ad does not identify Eddy's prior room, so no move from the 1915 526 Main `BUS-032` record is asserted. The former Strebig reference is likewise not merged with 1907 `BUS-047` without an independent identity/continuity bridge. The later 1922 Quality Restaurant at 427 is a same-address anchor, not proof that the same physical building survived.
+
+## April 1917 — Fashion Stable shifts relative-location evidence
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+Repeated *Oregon City Enterprise* professional ads place **W. S. Eddy (`P-396`) at Fashion Stable (`BUS-103`), between Fourth and Fifth on Main Street** (`E-252` / `S-279`). The archive's 1915 direct evidence had placed W. S. Eddy/Fashion Stable on **Fifth Street between Main and Water** (`E-112`, `E-114`). Treat this as a dated relative-location change supporting a possible move or changed premises/location wording, not as an exact move date or numbered-building assignment. It does not identify W. S. Eddy with W. B. Eddy's Store at 427 Main.
+
+The same April batch reports a preparedness parade beginning at **Fifth and Main** with Henry Strebig leading the line; civic/intersection context only. True 13 April printed Page 8 remains a retrieval gap under `MF-051`.

@@ -664,3 +664,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-278` / `E-251` → `P-006`, `P-022`, `MF-050` — 1954–55 Coos County/OLCC renewal-route controls; no Town Club license identity established.
 - `MF-050` → `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md` — Coos County Clerk + Oregon State Archives targeted 1953–57 licensing/ownership requests.
 - Candidate remains separate: `S-277` / `E-250` documents the 1940s South Powers Town Club House but does not bridge it to the LaFarlettes.
+
+## P-396 / BUS-103 — W. S. Eddy / Fashion Stable
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+| Person | Business | Evidence / source | Building relationship |
+| --- | --- | --- | --- |
+| `P-396` W. S. Eddy | `BUS-103` Fashion Stable | 1915 `E-112`/`S-124`, `E-114`/`S-128`; April 1917 `E-252`/`S-279` | No numbered building assigned. 1915 relative location Fifth between Main/Water; April 1917 Main between Fourth/Fifth. No 110 Fifth or 427 Main bridge. |

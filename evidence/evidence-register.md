@@ -2474,3 +2474,19 @@ Claims:
 - These controls make the late-1954/1955 County Court approval record and OLCC renewal/Commission records the highest-value next source for testing the family Town Club ownership lead.
 Classification: **OCR/TEXT ONLY / RECORD-ROUTE CONTROL; NO TOWN CLUB OWNERSHIP CLAIM.**  
 Confidence: **High for research-route selection; Town Club/LaFarlette identity remains unresolved.**
+
+## E-252 — April 1917 Enterprise audit finds Page-8 gap and advances W. S. Eddy / Fashion Stable chronology
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+Source: `S-279`  
+Type: Primary newspaper visual review plus source-recovery audit  
+Claims:
+- All **32 exposed April archive slots** were visually inspected; **31 are genuine intended-date pages**.
+- 13 April seq-8 visibly prints **PAGE 6** and a **Thursday** masthead with the date physically obscured/marked; normal seq-6 is separately the Friday Page 6. True 13 April printed Page 8 remains a **RETRIEVAL GAP** under `MF-051` after derivative, hidden-sequence, alternate-edition and LOC recovery attempts.
+- Enterprise cumulative genuine intended-date coverage through April is **136 pages**; **278 May-December exposed slots remain**.
+- Repeated April p.7 ads directly place **W. S. Eddy, V.S., M.D.V., at Fashion Stable between Fourth and Fifth on Main Street**. This differs from visually verified 1915 evidence placing W. S. Eddy/Fashion Stable on Fifth between Main and Water; exact move date and number remain unresolved.
+- 13 April p.1 directly places a preparedness parade start at Fifth/Main and names Henry Strebig as line leader; civic context only, not storefront occupancy.
+- 20 April p.3 directly records **Annie L. Farr -> W. P. Morris and Viola Morris, lot 6, block 92, Oregon City, $1**; no bridge to Alice/Edwin Farr or 505 Main.
+- 20 April p.8 directly includes **Farr Bros.** in county-poor expenditures; no 505 address or Edwin/Alice bridge.
+- No defensible exact **501/503/505/507/509/511 Main** occupant and no new exact 427 Main occupant was established on the 31 genuine intended-date pages.
+Classification: **DOCUMENTED / DIRECT** for visible page identity, relative-location wording, transfer, parade and expenditure wording; **STRONG CROSS-SOURCE IDENTITY** for W. S. Eddy/Fashion Stable across 1915 and 1917; **RETRIEVAL GAP** for true 13 April Page 8; **NO-MERGE / COVERAGE RESULT ONLY** for the guarded identities and target no-hit.  
+Confidence: **Very High** for the direct scan readings and page conflict; no exact move date, numbered Fashion Stable premises, vacancy or target occupancy is inferred.

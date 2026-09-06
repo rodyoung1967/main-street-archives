@@ -13,3 +13,8 @@ The ad says the business was forced from another storeroom in a hurry but does n
 ## Identity and continuity limits
 
 `BUS-100` is intentionally separate from `BUS-032` until a source directly links the 1915 and 1917 businesses, proprietor, or move. It is also not merged with the 1910 Watson B. Eddy & Son record solely on initials/surname. The 1917 source proves the dated public business name/address only; it does not prove real-estate ownership, lease terms, prior address, or physical-building continuity to the 1922 Quality Restaurant at 427 Main.
+
+## W. S. Eddy / Fashion Stable no-merge guard — April 1917
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+April Enterprise ads (`E-252` / `S-279`) name **W. S. Eddy, V.S., M.D.V.** at Fashion Stable **between Fourth and Fifth on Main Street**. The initials differ from this business's **W. B. Eddy** wording. The relative block location is not enough to identify the men or businesses as the same, and Fashion Stable is not assigned to 427 Main.

@@ -1199,3 +1199,14 @@ people:
     related_evidence: [E-248, E-247, E-249]
     related_buildings: [B-017]
     repository_file: people/profiles/clarence-p-farr.md
+
+  - id: P-396
+    name: W. S. Eddy
+    repository_file: people/profiles/w-s-eddy.md
+    role: Veterinarian / Fashion Stable professional
+    notes: >-
+      Visually verified 1915 notices place W. S. Eddy / Fashion Stable on Fifth Street between Main and Water; repeated April 1917 ads place the stable on Main between Fourth and Fifth. Exact move date and number unresolved. Do not merge with W. B. Eddy or earlier A. J. Eddy wording without a bridge.
+    related_businesses: [BUS-103]
+    related_evidence: [E-112, E-114, E-252]
+    related_sources: [S-124, S-128, S-279]
+

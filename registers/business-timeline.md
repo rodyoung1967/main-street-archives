@@ -220,3 +220,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | --- | --- | --- | --- | --- | --- |
 | 15 Mar. 1917 | 617 Main | Jones Drug Co. | `BUS-040` | `E-227` / `S-253` | Direct ad; moves earliest integrated exact-number observation earlier than 1 Nov. Exact move day/tenancy/continuity unresolved. |
 | 22 Mar. 1917 | 617 Main | Jones Drug Co. | `BUS-040` | `E-227` / `S-253` | Direct repeated ad; dated observation only. |
+
+## W. S. Eddy / Fashion Stable relative-location chronology
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+| Period | Address / relative location | Business / person | IDs | Evidence | Limits |
+| --- | --- | --- | --- | --- | --- |
+| Apr.–Jun. 1915 verified span | Fifth Street between Main and Water | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-112`, `E-114`; `S-124`, `S-128` | Relative location only; no number. |
+| 6–27 Apr. 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |

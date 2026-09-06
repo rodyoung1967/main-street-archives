@@ -253,3 +253,10 @@ The downstream bracket is now materially tighter but the deed is still missing. 
 **Current state:** **UNVERIFIED LEAD / RETRIEVAL GAP.** No public online 1953–57 source recovered in the 6 Sep. pass directly connects LaFarlette to the Town Club name. Existing March 1954 evidence places Raye at the Coquille Hotel coffee shop and Floyd at Coos Bay Lumber Company; preserved licensing controls `S-278` / `E-251` identify late-1954/1955 County Court and OLCC records as the decisive next source.
 
 **Next action:** `MF-050`; request `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`. Do not merge the South Powers Town Club House with the remembered business without a direct identity/ownership/license bridge.
+
+### 6 September 2026 — April 1917 Enterprise page gap and Fashion Stable location change
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+`E-252` / `S-279` leaves the true **13 April printed Page 8** unrecovered under `MF-051`; the archive's seq-8 is visibly a second Page 6 variant. The 31 genuine intended-date April pages establish no target 501/503/505/507/509/511 occupant.
+
+A separate direct finding now gives W. S. Eddy / Fashion Stable a location-change problem: 1915 evidence places the stable on **Fifth between Main and Water**, while repeated April 1917 ads place it **on Main between Fourth and Fifth**. Resolve whether the stable physically moved, the advertised office/stable relationship changed, or one relative-location wording described a different entrance/premises. Do not assign an exact number and do not merge W. S. Eddy with W. B. Eddy at 427 Main.

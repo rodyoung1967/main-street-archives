@@ -287,3 +287,12 @@ Future research sessions should add a new `MF-###` item only when a source genui
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-050** | **ACTIVE MANUAL** | **Yes** | Search the **1953–1957 Coos County Court Journal Index/Journal/orders** and historical **OLCC application/renewal/transfer/Commission-action records**, prioritizing **March 1954–December 1955**, for `Town Club`, `Town Club House`, `South Powers`, `Powers`, and LaFarlette name variants. The public-online pass found no direct identity bridge; this is a **RETRIEVAL GAP, not negative evidence**. Ready-to-send County Clerk and State Archives drafts: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`. |
+
+---
+
+## 6 September 2026 — April 1917 Enterprise source-page retrieval gap
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-051** | **YEAR-CLOSEOUT / MANUAL CALLOUT** | **Yes for 1917 manual completion** | Obtain the **true printed Page 8 of the 13 April 1917 Oregon City Enterprise** from Oregon City Public Library microfilm, Oregon Digital Newspaper Program source microfilm/original, or another institutional copy. The online archive's seq-8 object visibly prints **PAGE 6** and a Thursday masthead with an obscured/marked date, while seq-6 is already the normal Friday Page 6. PDF/JP2/OCR/RDF, ed-1 seq9-12, editions 2-4, neighboring-object, Chronicling America/LOC and LOC-index recovery did not expose the true Page 8. Inspect any institutional replacement visually for target addresses/businesses and integrate it. Retrieval gap, not negative evidence. See `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md` and `newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/recovery-manifest.json`. |

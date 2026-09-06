@@ -1263,3 +1263,13 @@ businesses:
     related_evidence: [E-250, E-243, E-244]
     related_sources: [S-277, S-269, S-270]
 
+  - id: BUS-103
+    name: Fashion Stable
+    repository_file: businesses/fashion-stable.md
+    address: "1915 Fifth Street between Main and Water; April 1917 Main Street between Fourth and Fifth; exact number unresolved"
+    notes: >-
+      Multi-date relative-location chronology through W. S. Eddy. The changed wording supports a move, changed premises, or changed location description but does not establish exact move date, title, lease, or numbered building. Not assigned to 110 Fifth, 427 Main, or 501/503/505.
+    related_people: [P-396]
+    related_evidence: [E-112, E-114, E-252]
+    related_sources: [S-124, S-128, S-279]
+

@@ -425,3 +425,10 @@ The family recollection that Raye and Floyd LaFarlette owned a **Town Club** whe
 Public online searching across 1953–57 did not produce a direct bridge. This is a **RETRIEVAL GAP, not negative evidence**. Proceed under **MF-050** with the Coos County Court Journal Index/Journal/orders and historical OLCC files. Keep the 1940s South Powers Town Club House (`S-277` / `E-250`) separate until an applicant, licensee, address or transaction source bridges it.
 
 Request: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`.
+
+## 6 September 2026 — W. S. Eddy / Fashion Stable 1915–1917 location-change lead
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+New `S-279` / `E-252` evidence promotes W. S. Eddy (`P-396`) and Fashion Stable (`BUS-103`) to stable entities. Compare 1915 notices (**Fifth Street between Main and Water**) with April 1917 notices (**Main Street between Fourth and Fifth**) and search 1915–1917 move notices, directories, city licenses, stable/livery ads, fire insurance maps, and property records for the transition. Keep **W. S. Eddy**, January 1917 **W. B. Eddy's Store at 427 Main**, and earlier **A. J. Eddy** wording separate unless a contemporary source bridges them. The result may sharpen 427/Fifth geography but is not currently a 427 assignment.
+
+The same April batch leaves true 13 April printed Page 8 as retrieval gap `MF-051` and establishes no exact target-frontage occupant on the 31 genuine pages.

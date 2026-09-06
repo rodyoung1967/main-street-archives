@@ -1747,3 +1747,12 @@ sources:
     notes: "Licensing-route controls for MF-050; no Town Club or LaFarlette license identification. See evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md."
     related_evidence: [E-251]
 
+  - id: S-279
+    name: "Oregon City Enterprise, April 1917 scan-first visual-review batch with Page-8 source conflict"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/"
+    type: "Primary newspaper page scans plus recovery audit; 32 exposed slots inspected, 31 genuine intended-date pages"
+    date: "1917-04-06 through 1917-04-27"
+    repository_file: "evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md"
+    notes: "True 13 April printed Page 8 remains unrecovered; April advances W. S. Eddy/Fashion Stable relative location to Main between Fourth and Fifth."
+    related_evidence: [E-252]
+

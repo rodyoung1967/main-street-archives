@@ -16,3 +16,8 @@ See [address test](../evidence/source-captures/1922-george-newton-427-main-addre
 `E-221` / `S-247` adds the earliest currently integrated exact-number evidence on this address page: a visually verified *Courier* advertisement identifies **W. B. Eddy's Store (`BUS-100`) at 427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market (`BUS-101`)**.
 
 This directly fixes **427 Main as a Fifth/Main corner address by 25 January 1917**, but it does not establish the legal parcel, ownership, a specific construction date, or physical survival of the 1917 building into the 1922 Quality Restaurant (`BUS-087`) or 1925 mapped state. `BUS-100` is not merged with 1915 `BUS-032`, and `BUS-101` is not merged with 1907 `BUS-047`, without an independent bridge.
+
+## April 1917 W. S. Eddy / Fashion Stable nearby relative-location control
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+
+`E-252` / `S-279` repeatedly places **W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street** in April 1917. This is a relative-location control within the same Main block as 427, but **does not print 427**. Do not assign Fashion Stable to this building or merge W. S. Eddy with the separately printed **W. B. Eddy's Store (`BUS-100`)** at 427 Main without an independent bridge.

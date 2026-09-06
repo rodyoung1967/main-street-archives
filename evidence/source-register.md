@@ -2343,3 +2343,18 @@ Related evidence: `E-251`.
 Related manual callout: `MF-050`.  
 Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
 Classification: **OCR/TEXT ONLY / ORIGINAL PDF PRESERVED — licensing-record route controls, not a Town Club or LaFarlette license identification.**
+
+## S-279 — Oregon City Enterprise, April 1917 scan-first visual-review batch with Page-8 source conflict
+<!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
+Type: Primary newspaper page scans plus derivative-recovery audit; **32/32 exposed slots visually inspected, 31 genuine intended-date pages recovered**.  
+Publication: *Oregon City Enterprise*  
+Issue dates: 6, 13, 20 and 27 April 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-april/`  
+Manifest: `newspapers/oregon-city-enterprise/1917-april/manifest.json`  
+Retrieval commit: `9c50293b82e519382e76e8b7d1def95cf8eaf248`  
+Recovery manifest: `newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/recovery-manifest.json`  
+Recovery commit: `1cc5060d2d5b198f6f8a27930ffff702abfd8347`  
+Related evidence: `E-252`. Manual callout: `MF-051`.  
+Capture: `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md`.  
+Notes: 13 April seq-8 visibly prints PAGE 6 and a Thursday masthead with altered/obscured date, while normal seq-6 is already Friday Page 6. True printed Page 8 remains unrecovered. April directly advances W. S. Eddy/Fashion Stable to Main between Fourth and Fifth, differing from the 1915 Fifth-between-Main-and-Water location. No exact target-number occupant was established.
