@@ -31,14 +31,17 @@ jobs:
         run: pip install PyYAML
       - name: Validate archive before retrieval
         run: python3 scripts/validate_archive.py
-      - name: Query official Oregon SHPO historic-sites layer
+      - name: Query official Oregon SHPO historic-sites layer and site summary
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          from urllib.parse import urlencode
+          from urllib.parse import urlencode, urljoin
           from urllib.request import urlopen, Request
+          from html.parser import HTMLParser
           import json
-          from datetime import datetime, timezone
+
+          out = Path('records/historic-surveys')
+          out.mkdir(parents=True, exist_ok=True)
 
           endpoint = 'https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0/query'
           params = {
@@ -53,30 +56,80 @@ jobs:
               data = json.load(r)
           if 'error' in data:
               raise SystemExit('SHPO query error: ' + json.dumps(data['error']))
+          features = data.get('features', [])
+          if len(features) != 1:
+              raise SystemExit(f'Expected one 505 Main SHPO feature; got {len(features)}')
+          attrs = features[0]['attributes']
+          rid = int(attrs['RESOURCE_ID'])
 
-          out = Path('records/historic-surveys')
-          out.mkdir(parents=True, exist_ok=True)
           raw = out / '505-main-oregon-shpo-current-resource-query-2026-09-06.json'
           raw.write_text(json.dumps(data, indent=2, sort_keys=True) + '\n', encoding='utf-8')
+
+          summary_url = f'https://heritagedata.prd.state.or.us/historic/index.cfm?do=v.dsp_siteSummary&resultDisplay={rid}'
+          sreq = Request(summary_url, headers={'User-Agent': 'main-street-archives historical research'})
+          with urlopen(sreq, timeout=60) as r:
+              html_bytes = r.read()
+              final_url = r.geturl()
+              content_type = r.headers.get('Content-Type', '')
+          html = html_bytes.decode('utf-8', errors='replace')
+          summary_path = out / f'505-main-oregon-shpo-site-summary-resource-{rid}-2026-09-06.html'
+          summary_path.write_text(html, encoding='utf-8')
+
+          class LinkParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.links = []
+              def handle_starttag(self, tag, attrs):
+                  d = dict(attrs)
+                  if tag.lower() == 'a' and d.get('href'):
+                      self.links.append(d['href'])
+          parser = LinkParser()
+          parser.feed(html)
+          links = []
+          for href in parser.links:
+              absolute = urljoin(final_url, href)
+              if absolute not in links:
+                  links.append(absolute)
 
           note = out / '505-main-oregon-shpo-current-resource-query-2026-09-06-provenance.md'
           note.write_text(
               '# 505 Main — Oregon SHPO current historic-sites REST query provenance\n\n'
               'Retrieval date: **6 September 2026**  \n'
-              'Status: **RAW OFFICIAL DATABASE QUERY — INTERPRETATION PENDING VISUAL/RECORD REVIEW**\n\n'
+              'Status: **OFFICIAL DATABASE QUERY + RESOURCE-ID/SITE-SUMMARY RETRIEVAL CONTROL; HISTORIC SCANS STILL REQUIRE VISUAL REVIEW**\n\n'
               'Official ArcGIS layer: `https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0`  \n'
               'Official query endpoint: `https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0/query`  \n'
               'Where clause: `city=\'Oregon City\' AND address LIKE \'505 Main%\'`  \n'
-              f'Returned feature count: **{len(data.get("features", []))}**.\n\n'
-              'Raw response: `records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json`\n\n'
-              'This file preserves the database response for source-control/retrieval purposes. '
-              'Do not promote any historical claim from this query until the returned record is inspected and, where a scanned historic form is available, the original form/image is visually reviewed.\n',
+              f'Returned feature count: **{len(features)}**.  \n'
+              f'Returned **RESOURCE_ID: {rid}**.  \n'
+              f'Property/address: **{attrs.get("propName", "")} — {attrs.get("address", "").strip()}, {attrs.get("city", "")}**.  \n'
+              f'Resurvey date: **{attrs.get("rlsDate", "")}**; database year-built field: **{attrs.get("yrBuilt", "")}**.\n\n'
+              'Raw response: `records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json`  \n'
+              f'Site-summary URL: `{summary_url}`  \n'
+              f'Preserved site-summary HTML: `{summary_path.as_posix()}`  \n'
+              f'HTTP final URL: `{final_url}`; content type: `{content_type}`.\n\n'
+              'The current database record supplies the exact resource-ID retrieval key. Its descriptive fields overlap the already registered 2009 form and should not be treated as independent proof of the 1940 construction date. The next task is to inspect the site-summary links and any scanned historic forms/source notes.\n',
+              encoding='utf-8'
+          )
+
+          links_path = out / f'505-main-oregon-shpo-site-summary-resource-{rid}-links-2026-09-06.md'
+          links_path.write_text(
+              '# 505 Main — Oregon SHPO site-summary link inventory\n\n'
+              f'Resource ID: **{rid}**  \n'
+              f'Site summary: `{summary_url}`  \n'
+              f'Links found in returned HTML: **{len(links)}**.\n\n' +
+              ''.join(f'- `{u}`\n' for u in links),
               encoding='utf-8'
           )
 
           print('QUERY URL:', url)
-          print('FEATURE COUNT:', len(data.get('features', [])))
-          print(json.dumps(data, indent=2, sort_keys=True))
+          print('RESOURCE_ID:', rid)
+          print('SITE SUMMARY:', summary_url)
+          print('SITE SUMMARY FINAL URL:', final_url)
+          print('SITE SUMMARY CONTENT TYPE:', content_type)
+          print('SITE SUMMARY HTML BYTES:', len(html_bytes))
+          print('LINK COUNT:', len(links))
+          for u in links:
+              print('LINK:', u)
           PY
       - name: Validate archive after retrieval
         run: python3 scripts/validate_archive.py
@@ -84,12 +137,15 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06-provenance.md
+          git add records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json \
+                  records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06-provenance.md \
+                  records/historic-surveys/505-main-oregon-shpo-site-summary-resource-*-2026-09-06.html \
+                  records/historic-surveys/505-main-oregon-shpo-site-summary-resource-*-links-2026-09-06.md
           if git diff --cached --quiet; then
             echo 'No retrieval files changed.'
             exit 0
           fi
-          git commit -m 'Preserve official SHPO query for 505 Main'
+          git commit -m 'Preserve 505 SHPO resource site summary'
           git pull --rebase origin main
           python3 scripts/validate_archive.py
           git push origin HEAD:main
