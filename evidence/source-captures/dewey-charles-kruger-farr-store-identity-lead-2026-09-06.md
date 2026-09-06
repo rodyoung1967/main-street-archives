@@ -2,7 +2,7 @@
 
 Date reviewed: **6 September 2026**
 
-Status: **STRONG CROSS-SOURCE IDENTITY LEAD / PROPERTY-PURCHASE BRIDGE NOT YET DIRECTLY RECOVERED.**
+Status: **STRONG CROSS-SOURCE IDENTITY LEAD / PROPERTY-PURCHASE BRIDGE NOT YET DIRECTLY RECOVERED / EXACT CLACKAMAS DEED-INDEX AND OWNERSHIP-BOOK ROUTE NOW IDENTIFIED.**
 
 Purpose: test the identity and spelling behind Oregon City's 2002 historic-resource statement that **“Dewey Krueger”** bought the Farr Store property at **919 7th Street** from Clarence Farr in the mid-1940s. This pass does not recover the conveyance deed and therefore does not promote the purchaser identity to deed-level proof.
 
@@ -77,6 +77,49 @@ The current evidence therefore supports a **STRONG WORKING HYPOTHESIS** that the
 
 Oregon City municipal records from the early 1940s also contain **W. G. H. Krueger** in a mayoral role while **C. P. Farr** appears as commissioner. That is a separate named person and must not be merged with Dewey Charles Kruger merely because both surnames occur in the same city and period.
 
+## Exact deed / ownership retrieval route now identified
+
+Oregon Secretary of State's current **Clackamas County Inventory** precisely identifies the record series capable of resolving the Farr → Kruger/Krueger → Faust property chain.
+
+Official inventory:
+
+`https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx`
+
+The inventory states that the **Clackamas County Clerk's Recording Office, Suite 110, Public Research Area** holds:
+
+- **Deed Index [Direct], 1851–1972** — microfilm jackets;
+- **Deed Index [Direct and Indirect], 1851–1969** — 43 reels of microfilm;
+- **Deed Index [Indirect], 1851–1972** — microfilm jackets;
+- **Deed Books, vol. A–Z and 27–698, 1850–1966** — microfilm jackets.
+
+The same inventory says the **Clackamas County Archives** holds:
+
+- deed records covering **1916–1959** in hundreds of volumes;
+- **Ownership Books, 1939–1959**, explicitly described as including **deed and chronological ownership information**;
+- security microfilm of **direct deed indexes, 1851–1969**, **indirect deed indexes, 1851–1969**, and deeds through 1966.
+
+It also identifies Assessment & Taxation copies of deeds through 1960 and a Surveyor's deed-index book arranged by township/range through about 1976.
+
+This materially narrows the manual lookup. The best first pass is no longer a vague courthouse deed search: use the **1939–1959 Ownership Books** and the **direct/indirect deed indexes** to retrieve the recording references for both transactions, then inspect the actual deed books.
+
+### Exact lookup sequence
+
+For the **mid-1940s acquisition**, search:
+
+- grantor/direct index: **Farr, Clarence P. / Clarence / C. P.**, including spouse/co-owner variants;
+- grantee/indirect index: **Kruger, Dewey C. / Dewey Charles / Dewey**, and repeat under **Krueger**;
+- property controls: **Block 129, Lots 3x / 4x**, map **22E31AD**, later tax lot **5000** / APN **2-2E-31AD-05000**, and **919 7th Street**.
+
+For the **1951 disposition**, search:
+
+- grantor/direct index: **Kruger/Krueger, Dewey C. / Dewey** and any spouse/co-owner;
+- grantee/indirect index: **Faust, Lee**;
+- same legal-description/property controls.
+
+Because ownership books cover **1939–1959**, one parcel-first book entry may provide both deed references and the chronological chain even if the surname spelling differs between the 2002 survey and the recorded instruments.
+
+Classification: **OFFICIAL RECORD-CUSTODY / RETRIEVAL ROUTE**, not a new conveyance finding. No deed has yet been inspected.
+
 ## Property research still required
 
 The highest-value next record is the actual conveyance or parcel-history entry for the **mid-1940s Clarence Farr → Dewey Krueger/Kruger** transaction at the Farr Store property:
@@ -86,7 +129,7 @@ The highest-value next record is the actual conveyance or parcel-history entry f
 - later City permit control: APN **2-2E-31AD-05000**;
 - modern Monroe-side address on the same APN: **709 Monroe**.
 
-The deed or assessor ownership book should be checked under both **Kruger** and **Krueger**, and should establish:
+The deed or assessor ownership book should establish:
 
 1. exact grantor and grantee names;
 2. recording / transaction date;
@@ -104,4 +147,4 @@ It also does not change the **505 Main Farr's Pool Hall → Harr's Recreation Ce
 
 ## Evidence boundary
 
-This pass establishes a strong biographical identity candidate behind the historic-survey purchaser name. It does **not** prove that Dewey Charles Kruger was the legal grantee of 919 7th, does not resolve the exact mid-1940s purchase date, and does not prove that every Kruger/Krueger reference belongs to the same person.
+This pass establishes a strong biographical identity candidate behind the historic-survey purchaser name and a precise archival route to the controlling legal records. It does **not** prove that Dewey Charles Kruger was the legal grantee of 919 7th, does not resolve the exact mid-1940s purchase date, and does not prove that every Kruger/Krueger reference belongs to the same person.
