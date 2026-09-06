@@ -1,0 +1,318 @@
+{
+  "title": "Oregon City Enterprise",
+  "lccn": "sn00063700",
+  "year": 1917,
+  "month": "June",
+  "issues": [
+    {
+      "date": "1917-06-01",
+      "page_count": 8,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1917-06-01-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-1.pdf",
+          "bytes": 561543,
+          "sha256": "0d1e98c0c135470c4f2e03e126f1814f391f00e63acb3be52c04c3204cd75cdd"
+        },
+        {
+          "sequence": 2,
+          "file": "1917-06-01-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-2.pdf",
+          "bytes": 521775,
+          "sha256": "9c7f72bb11daa2f1cab5c5ba2f3480cc207e44829f9dab0da2025e96390a8fc3"
+        },
+        {
+          "sequence": 3,
+          "file": "1917-06-01-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-3.pdf",
+          "bytes": 572618,
+          "sha256": "0fc0b55e1e65c75dafbd53b13889f5987a449e39ed77399370ea3ba90151533b"
+        },
+        {
+          "sequence": 4,
+          "file": "1917-06-01-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-4.pdf",
+          "bytes": 588437,
+          "sha256": "24f057cd21183898d34f950b9d93c0296d989a7ab9c0abbeb582334ef75cc9de"
+        },
+        {
+          "sequence": 5,
+          "file": "1917-06-01-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-5.pdf",
+          "bytes": 606195,
+          "sha256": "b6487d6fe607e0edeb5a8cda147131a46e2043ab1db81e6178ef563563219cdf"
+        },
+        {
+          "sequence": 6,
+          "file": "1917-06-01-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-6.pdf",
+          "bytes": 560412,
+          "sha256": "268fd4497844a7c90aefd72bcd71137f4b5dfc254ef5eb6ce3cab4aed13f1e14"
+        },
+        {
+          "sequence": 7,
+          "file": "1917-06-01-seq-07.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-7.pdf",
+          "bytes": 579388,
+          "sha256": "72abf91fdcc44d62f39627aed5852637b053fb3aa8db70c55d7812e5ec41449b"
+        },
+        {
+          "sequence": 8,
+          "file": "1917-06-01-seq-08.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/seq-8.pdf",
+          "bytes": 597293,
+          "sha256": "fc614382bc0a85e6b93d8b47930e44aaf51081ba76587b7b27352e0e51d3072d"
+        }
+      ]
+    },
+    {
+      "date": "1917-06-08",
+      "page_count": 8,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1917-06-08-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-1.pdf",
+          "bytes": 560576,
+          "sha256": "44497eed9ad5482a52af6c2466f52b8a930fe51ea710b4e574af497c6eb390cb"
+        },
+        {
+          "sequence": 2,
+          "file": "1917-06-08-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-2.pdf",
+          "bytes": 526146,
+          "sha256": "804de39f900787cea84df9bfe392a0f6989bcc9523a307b19d9aff590732b972"
+        },
+        {
+          "sequence": 3,
+          "file": "1917-06-08-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-3.pdf",
+          "bytes": 598627,
+          "sha256": "829233f1df0158d581b16baa61a8e29ed9be38f77cd373735f2594e330b613e8"
+        },
+        {
+          "sequence": 4,
+          "file": "1917-06-08-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-4.pdf",
+          "bytes": 567282,
+          "sha256": "d94dc67cce5f4c64fb8630702187d5f5e5469549f9282f3dd46184c71614410f"
+        },
+        {
+          "sequence": 5,
+          "file": "1917-06-08-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-5.pdf",
+          "bytes": 634421,
+          "sha256": "18890ebd10b6b4a26fe4402ebe063552a68e9d9958ed426ca08b7bc4d85a81c1"
+        },
+        {
+          "sequence": 6,
+          "file": "1917-06-08-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-6.pdf",
+          "bytes": 584631,
+          "sha256": "832b2e4fd035f2cd77109e6154ac54b41032464d18d30aac843da8f4ecd5134e"
+        },
+        {
+          "sequence": 7,
+          "file": "1917-06-08-seq-07.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-7.pdf",
+          "bytes": 622142,
+          "sha256": "3237957ad04d1f7ae6fe7747da6dfaf01c30b3550c319810bd760fbcf1b1f468"
+        },
+        {
+          "sequence": 8,
+          "file": "1917-06-08-seq-08.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/seq-8.pdf",
+          "bytes": 620483,
+          "sha256": "ae2cc4a549ce33ca0356693b9a45a48603b1e6896c58af46b661e529401be403"
+        }
+      ]
+    },
+    {
+      "date": "1917-06-15",
+      "page_count": 8,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1917-06-15-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-1.pdf",
+          "bytes": 577545,
+          "sha256": "b7c0e410012d3c7470a57809456d9336680ca183bc17c2545ddf80dfb0e0ee9c"
+        },
+        {
+          "sequence": 2,
+          "file": "1917-06-15-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-2.pdf",
+          "bytes": 543998,
+          "sha256": "7dbfa47b0dee87b8252efebbd86a74a8971ed883e54509e759a29bbdd15218e5"
+        },
+        {
+          "sequence": 3,
+          "file": "1917-06-15-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-3.pdf",
+          "bytes": 571654,
+          "sha256": "267d1da39ac0e4d54dd7330d7d0258e22f642b5ff3706f8514618e428d67bf9e"
+        },
+        {
+          "sequence": 4,
+          "file": "1917-06-15-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-4.pdf",
+          "bytes": 597941,
+          "sha256": "bdb58c1b4d20c9a68d753aaa3bf289bb2a51d49c5ce47170a31c862b7f8cb010"
+        },
+        {
+          "sequence": 5,
+          "file": "1917-06-15-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-5.pdf",
+          "bytes": 640790,
+          "sha256": "5c0304290885b8a87562932ce771e9a0125348e7533c54882544c4cb3ab59257"
+        },
+        {
+          "sequence": 6,
+          "file": "1917-06-15-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-6.pdf",
+          "bytes": 570947,
+          "sha256": "77e5041ae380c40872535041d16bf27dce21a9bb97d53b7b121b1510fae46178"
+        },
+        {
+          "sequence": 7,
+          "file": "1917-06-15-seq-07.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-7.pdf",
+          "bytes": 633448,
+          "sha256": "65b0aeab24346e8595babc970e2356bcfe858667f8d52f5fbdbc2a2c64c68951"
+        },
+        {
+          "sequence": 8,
+          "file": "1917-06-15-seq-08.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/seq-8.pdf",
+          "bytes": 578003,
+          "sha256": "e67cf7bb9f5a3def21bbefcfb291aeb4c8a162f0d8982f7bdc3b7b368f258156"
+        }
+      ]
+    },
+    {
+      "date": "1917-06-22",
+      "page_count": 8,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1917-06-22-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-1.pdf",
+          "bytes": 616548,
+          "sha256": "4da2de78a97c60b3d9ae769676cdc931892354fb7b2388642d4819ec6d786892"
+        },
+        {
+          "sequence": 2,
+          "file": "1917-06-22-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-2.pdf",
+          "bytes": 578456,
+          "sha256": "c56d41d80531e87ddc9546b8e3363577fa3dd2eff28dc3a6a6909afee823d239"
+        },
+        {
+          "sequence": 3,
+          "file": "1917-06-22-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-3.pdf",
+          "bytes": 530150,
+          "sha256": "ccec498dcb4830c1be9693e676f0c79332cc683c7dabd3248a2895d954cf084f"
+        },
+        {
+          "sequence": 4,
+          "file": "1917-06-22-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-4.pdf",
+          "bytes": 632535,
+          "sha256": "21a7d91457bc2153762c804ecb9cd83873c2b1624a5a7df013cf38bd77b3ccf1"
+        },
+        {
+          "sequence": 5,
+          "file": "1917-06-22-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-5.pdf",
+          "bytes": 666246,
+          "sha256": "62a10dafdf8ff3cf31d49c3cf40b77c8feb805427f32b3cf47a34ac22fffed2d"
+        },
+        {
+          "sequence": 6,
+          "file": "1917-06-22-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-6.pdf",
+          "bytes": 725892,
+          "sha256": "113daa7cc72d80893f68a26a9c9ca2e68912a9cd1e8bd67379c6fb48e1828d20"
+        },
+        {
+          "sequence": 7,
+          "file": "1917-06-22-seq-07.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-7.pdf",
+          "bytes": 642280,
+          "sha256": "60f959a2d58bf37c0752b16628a9263bc7bf87d266cc776a6fd2cc06f40f5227"
+        },
+        {
+          "sequence": 8,
+          "file": "1917-06-22-seq-08.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/seq-8.pdf",
+          "bytes": 657264,
+          "sha256": "3e4b250f2f28ad0ae0fd10a63a48037c6f0f9a90d6837d906d71fad8d2993098"
+        }
+      ]
+    },
+    {
+      "date": "1917-06-29",
+      "page_count": 8,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1917-06-29-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-1.pdf",
+          "bytes": 591654,
+          "sha256": "c52b5dc1e95b8028cc6239b6e86d172d4f819a5a235f16704f8d92f5f0df6b2e"
+        },
+        {
+          "sequence": 2,
+          "file": "1917-06-29-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-2.pdf",
+          "bytes": 562141,
+          "sha256": "4df9fc9fa825fcba8a19376a90ed954e69953747dee361f7272c6fe7290ebe93"
+        },
+        {
+          "sequence": 3,
+          "file": "1917-06-29-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-3.pdf",
+          "bytes": 564363,
+          "sha256": "db43362542a72291c21bc728ac60c2eb9569316011f95505a6bb06735c41d3f4"
+        },
+        {
+          "sequence": 4,
+          "file": "1917-06-29-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-4.pdf",
+          "bytes": 594533,
+          "sha256": "8bee4eb4b80ae16b60620c25bbcca75c4dcf8f4a374bd303c7497d1359cd5eee"
+        },
+        {
+          "sequence": 5,
+          "file": "1917-06-29-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-5.pdf",
+          "bytes": 649575,
+          "sha256": "e821945f47868701869664338612ce69f1df703e347ab21dd59ca14c1d0c78fb"
+        },
+        {
+          "sequence": 6,
+          "file": "1917-06-29-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-6.pdf",
+          "bytes": 518449,
+          "sha256": "01ffb9c1200bf0231f3f8d07809173e638552c044713d0d09983240af143e2c4"
+        },
+        {
+          "sequence": 7,
+          "file": "1917-06-29-seq-07.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-7.pdf",
+          "bytes": 626519,
+          "sha256": "8095085bab0f22f7aece72af0ee82931815f805e45d3cf4b121e36d4a77ea95e"
+        },
+        {
+          "sequence": 8,
+          "file": "1917-06-29-seq-08.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/seq-8.pdf",
+          "bytes": 604533,
+          "sha256": "605338f83fb098eeff91d1caba30cfd5163f4c9734354a21337e12b674f7ae84"
+        }
+      ]
+    }
+  ]
+}
