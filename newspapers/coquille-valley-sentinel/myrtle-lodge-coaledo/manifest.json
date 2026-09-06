@@ -1,0 +1,54 @@
+{
+  "publication": "Coquille Valley Sentinel",
+  "lccn": "sn96088222",
+  "archive": "Historic Oregon Newspapers / University of Oregon",
+  "purpose": "Myrtle Lodge Coaledo location, Midway identity, and South Powers Town Club House lead",
+  "retrieved_utc_by": "GitHub Actions",
+  "items": [
+    {
+      "date": "1947-12-11",
+      "page": 1,
+      "file": "1947-12-11-p1-midway-renamed-myrtle-lodge.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1947-12-11/ed-1/seq-1.pdf",
+      "bytes": 5431349,
+      "sha256": "c8d04fbb27036db574b2c3e3ffc7f692c1bc999b541da198e8b247a7e610755f",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1948-10-28",
+      "page": 12,
+      "file": "1948-10-28-p12-coaledo-myrtle-lodge-town-club-house.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1948-10-28/ed-1/seq-12.pdf",
+      "bytes": 5698508,
+      "sha256": "029a66c9a389ca2aac2339116fc6c3e461c07232e160ec30d2c349564b450f16",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1949-07-14",
+      "page": 15,
+      "file": "1949-07-14-p15-behind-myrtle-lodge-at-coaledo.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1949-07-14/ed-1/seq-15.pdf",
+      "bytes": 5745987,
+      "sha256": "adec121b0a30799ba79fc0d9a29e3707f49fcdb77f96ecc2fd71188589c39ee6",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1952-10-09",
+      "page": 9,
+      "file": "1952-10-09-p9-myrtle-lodge-seven-miles-north-coquille.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1952-10-09/ed-1/seq-9.pdf",
+      "bytes": 6569913,
+      "sha256": "460587388ebdb3e2f126c1f3a0feff018d2b4007c634aef5c8bfa338b89f1fd6",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1954-10-28",
+      "page": 1,
+      "file": "1954-10-28-p1-coaledo-myrtle-lodge-powers-polling-places.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1954-10-28/ed-1/seq-1.pdf",
+      "bytes": 6140481,
+      "sha256": "abb0575443fae1e34ae3b4c9484e12d07087b78ab98a2fc5ba28ed91c9d9d344",
+      "content_type": "application/pdf"
+    }
+  ]
+}
