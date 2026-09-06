@@ -21,6 +21,26 @@ Family history says Dick and Sheila first operated **Brass Rail** at 505 while s
 
 The **6 April 1988** Oregon City Commission record is a firm business-role bookend: an OLCC change-of-ownership application transferred **The Dug Inn (formerly The Brass Rail), 505 Main Street** from Dick or Sheila Wiitanen to Stillman H. and M. Diane Cotterell. It does **not** say when the Wiitanens acquired the real estate and does not identify their real-estate grantor.
 
+## 0. Provenance of the 503 → 505 seller-memory correction
+
+An older pre-repository historical-society draft had assigned the remembered **Mrs. Nemeth** property sale to **503 Main**, approximately 1975. That wording is superseded, but the reason for the change is now recoverable in repository history rather than being treated as an unexplained edit.
+
+Commit **`26952e7265eebb07bf3bbe5ff114f589bd914f3f` — “Correct Wiitanen 505 property chain” (19 Aug. 2026)** explicitly removed the old `c. 1975 / 503 Main / Mrs. Nemeth` ownership row and replaced it with the family clarification that:
+
+- Dick and Sheila operated **Brass Rail at 505 before owning that building**;
+- they later **purchased the 505 building from Mrs. Nesmeth / Nemeth**; and
+- the earlier archive statement assigning this purchase to **503** was incorrect.
+
+Commit **`e8ff28b578eefb55f5e0ba862027076f6a6ac8aa` — “Correct Wiitanen and Nesmeth people records”** synchronized the same correction in the people records and labeled the earlier 503 reading **superseded**.
+
+### Research consequence
+
+**505 remains the primary property target because the current archive reflects a later steward/family clarification, not an accidental reassignment.** The old 503 statement is retained as provenance showing how the memory was previously recorded; it is not independent evidence for a 503 purchase.
+
+If the County 505 parcel/grantee search produces no corresponding Wiitanen acquisition, 503 may be checked as a **disconfirming control** because of the superseded draft, but the search should not begin by assuming both properties shared the same seller.
+
+**Evidence state:** HIGH FAMILY / STEWARD CLARIFICATION for assigning the remembered Nesmeth/Nemeth sale to 505; **not deed-proven** for the seller identity, spelling or transaction date.
+
 ## 1. County parcel-first ownership route is stronger than surname guessing
 
 The Oregon State Archives **Clackamas County Inventory** confirms that Clackamas County preserves multiple record series spanning the exact likely acquisition window:
@@ -34,6 +54,14 @@ The Oregon State Archives **Clackamas County Inventory** confirms that Clackamas
 The Land Ownership Books are held by **Clackamas County Assessment & Taxation, Suite 135**. The recording/deed indexes are held by the **Clackamas County Clerk/Recording Office**.
 
 Current official County guidance also states that owner names are not published online and directs parcel-specific ownership questions to **Assessment & Taxation**, `propertytaxinfo@clackamas.us`, 503-655-8671.
+
+### Electronic-index limit confirmed
+
+A current generic GovOS county-record search help page describes a system capable of searching grantor, grantee, legal description and recorded-date fields. However, the **Clackamas County archival inventory controls the availability question for this project**: Clackamas Recording Instruments are **electronically indexed from 1989-present**, while the target-era indexes are retained as physical/microform records — including the **1973–1999 Recording Index** and **1924–1985 Deed Index** in the Recording Office public research area.
+
+The current Clackamas Recording webpage says the office maintains a public viewing area and preserves records on microfilm/computer image, but it does not expose a Clackamas public online index covering the 1970s–1980s target interval.
+
+Therefore the generic GovOS search-help discovery does **not** convert the 1973–1988 Wiitanen acquisition search into an online-complete task. The target remains a manual/restricted retrieval.
 
 ### Research consequence
 
@@ -99,7 +127,9 @@ Unless a directory explicitly identifies a property owner, it must not be used a
 
 Targeted searches for **Nesmeth / Nemeth / Nesmith** variants with 505 Main, Oregon City, Brass Rail, Wiitanen and tavern terms produced no reliable property-owner match. Random surname hits elsewhere in Oregon were rejected rather than merged by name alone.
 
-Public modern property-history aggregators expose 505 transfer rows only much later (roughly 2012 forward), so they do not reach the target interval.
+Possible Oregon-area Nemeth individuals surfaced in cemetery, obituary and modern public-record indexes, but **none has a documented bridge to 505 Main**. They are not promoted as seller candidates merely because the surname resembles the family recollection.
+
+Public modern property-history aggregators expose 505 transfer rows only much later and/or provide inconsistent derivative sale metadata, so they do not establish the target-era chain.
 
 This no-hit is a **coverage statement only**, not evidence that the remembered surname is wrong.
 
@@ -107,8 +137,9 @@ This no-hit is a **coverage statement only**, not evidence that the remembered s
 
 1. **Assessment & Taxation Land Ownership Book / Tax Lot Card** for `2-2E-31AB-08300`, roughly 1973–1988 — fastest parcel-first route to the chronological owner names and deed references.
 2. **Recorder deed / recording index and acquisition instrument** — legal proof of the Wiitanen grantor, exact date and legal description (`MF-034`).
-3. **Original 1983-era 505 Main historic inventory form + worksheets** — independent dated owner snapshot and source trail.
+3. **Original 1983-era 505 Main historic inventory form + worksheets** — independent dated owner snapshot and source trail (`MF-047`).
 4. **Late-1970s/1980s directories and OLCC administrative files** — bracket business/operator chronology only unless a record explicitly states the real-estate owner/landlord.
+5. If and only if the parcel-first 505 search produces no Wiitanen acquisition, use **503 as a disconfirming control** because an older, now-superseded family-history draft had once attached the Nemeth memory there.
 
 ## Evidence boundary
 
@@ -117,6 +148,7 @@ No exact pre-Wiitanen owner name is promoted from this online pass. **Mrs. Nesme
 ## Current external access controls
 
 - Oregon Secretary of State, Clackamas County Inventory: `https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx`
+- Clackamas County Recording: `https://www.clackamas.us/recording`
 - Clackamas County Assessment & Taxation ownership contact: `https://www.clackamas.us/cmap` and `https://www.clackamas.us/rm`
 - Oregon City Historic Resources: `https://www.orcity.org/1230/Historic-Resources`
 - Oregon SHPO Survey Historic Places: `https://www.oregon.gov/oprd/oh/pages/survey.aspx`
@@ -124,6 +156,7 @@ No exact pre-Wiitanen owner name is promoted from this online pass. **Mrs. Nesme
 Related repository records:
 
 - `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md`
+- `registers/research-requests/505-1983-historic-inventory-owner-field-request-2026-09-05.md`
 - `evidence/source-captures/1973-1987-503-505-research-pass.md`
 - `evidence/source-captures/505-main-cumulative-inventory-and-2009-rls-online-retrieval-pass-2026-09-05.md`
 - `registers/ownership-timeline.md`
