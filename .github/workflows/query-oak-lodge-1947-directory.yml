@@ -1,0 +1,60 @@
+name: Query Oak Lodge 1947-48 directory scan
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/query-oak-lodge-1947-directory.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Fetch and inspect directory scan
+        run: |
+          set -euxo pipefail
+          python3 - <<'PY'
+          import re, urllib.request
+          page='https://oaklodgehistory.org/pages/oaklodge/oakgrove/'
+          req=urllib.request.Request(page,headers={'User-Agent':'Mozilla/5.0'})
+          with urllib.request.urlopen(req,timeout=20) as r:
+              body=r.read().decode('utf-8','replace')
+          print('PAGE_BYTES',len(body))
+          for href in re.findall(r'href=["\']([^"\']+)',body,re.I):
+              if '1947' in href and ('.pdf' in href.lower() or 'Directory' in href):
+                  print('PDF_LINK',href)
+          PY
+          for u in \
+            'https://oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf' \
+            'https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf'; do
+            echo "TRY $u"
+            curl -A 'Mozilla/5.0' -L --max-redirs 8 --connect-timeout 10 --max-time 60 -D headers.txt -o directory.pdf "$u" || true
+            cat headers.txt || true
+            if [ -s directory.pdf ]; then
+              file directory.pdf
+              if file directory.pdf | grep -qi PDF; then break; fi
+            fi
+          done
+          test -s directory.pdf
+          file directory.pdf
+          pdfinfo directory.pdf || true
+          pdftotext -f 1 -l 12 -layout directory.pdf first-pages.txt || true
+          echo '--- FIRST PAGES TEXT ---'
+          sed -n '1,500p' first-pages.txt || true
+          mkdir -p artifact
+          cp directory.pdf artifact/
+          if command -v pdftoppm >/dev/null 2>&1; then
+            pdftoppm -f 1 -l 6 -png -r 140 directory.pdf artifact/page >/dev/null 2>&1 || true
+          fi
+          cp first-pages.txt artifact/ || true
+      - name: Upload scan inspection artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: oak-lodge-1947-directory-inspection
+          path: artifact/
+          retention-days: 1
