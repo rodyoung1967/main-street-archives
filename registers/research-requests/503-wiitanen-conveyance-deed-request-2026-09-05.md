@@ -1,7 +1,24 @@
 # MF-048 — 503 Main Wiitanen acquisition and conveyance deed request
 
-Status: **DRAFT READY — NOT SENT**  
-Prepared: 5 September 2026
+Status: **ASCEND SELF-SERVICE FIRST / OUTREACH DRAFT READY — NOT SENT**  
+Prepared: 5 September 2026  
+Online-route refinement: 5 September 2026
+
+## First action — official Clackamas County Ascend lookup
+
+Before sending a broad records request, use Clackamas County's official Ascend property system:
+
+https://ascendweb.clackamas.us/
+
+Search by **Account Number 00572650**. If needed, use the property-address search for **503 Main St, Oregon City**.
+
+Official Ascend parcel pages expose a **Sales History** table with sale date, recording date, recording number, sale amount, deed/transfer type, **Grantor (Seller)** and **Grantee (Buyer)**. They can also show recording/taxpayer-change Events. See the documented access route:
+
+`evidence/source-captures/clackamas-ascend-503-sales-history-route-2026-09-05.md`
+
+Preserve the complete target parcel page, especially **Events** and **Sales History**, and test whether it identifies the reported **2 December 2002 / $200,000** transaction. Do not assume that transaction was the Wiitanen conveyance until Ascend or the recorded deed identifies the parties.
+
+If Ascend supplies a recording number, use that number to request only the specific deed copy. If the older Wiitanen acquisition does not appear because of a system/conversion boundary, use the Assessment & Taxation history-card request below.
 
 ## Assessment & Taxation / parcel-history request
 
@@ -12,7 +29,7 @@ Hello,
 
 I am researching the ownership history of **503 Main Street, Oregon City, Oregon 97045**, currently associated with county account/parcel **00572650** and tax lot **2-2E-31AB-08200** (legal-description lead: **2 OREGON CITY PT LT 4 BLK 4**).
 
-Could you please provide, or tell me how to obtain, the **chronological owner history and deed/instrument references** for this parcel from approximately **1970 through 2010**? I am especially trying to identify:
+Could you please provide, or tell me how to obtain, the **chronological owner history / property history card and deed/instrument references** for this parcel from approximately **1970 through 2010**? I am especially trying to identify:
 
 1. the deed/instrument by which **Richard M. (Dick) Wiitanen and/or Sheila J. Wiitanen** acquired the 503 Main real estate;
 2. the deed/instrument by which they later conveyed the property out; and
@@ -41,7 +58,7 @@ I would like copies of the recorded instruments that:
 1. vested the 503 Main property in **Richard M. (Dick) Wiitanen and/or Sheila J. Wiitanen**; and
 2. later conveyed the property from the Wiitanens to the next owner.
 
-A public-record-derived transaction history reports a **2 December 2002 sale for $200,000**, but the online source suppresses the buyer and seller names. If your index shows a conveyance affecting this parcel on or near that date, please include the instrument number, recording date, grantor, grantee, deed type, consideration if indexed, and a copy of the deed.
+A public-record-derived transaction history reports a **2 December 2002 sale for $200,000**, but the online source suppresses the buyer and seller names. If your index/Ascend record shows a conveyance affecting this parcel on or near that date, please include the instrument number, recording date, grantor, grantee, deed type, consideration if indexed, and a copy of the deed.
 
 Please use the parcel/legal description rather than assuming the 2002 transaction was a Wiitanen conveyance; that is the question I am trying to verify.
 
