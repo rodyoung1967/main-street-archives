@@ -32,6 +32,8 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           git rev-parse HEAD > /tmp/grisham_wiitanen_base_sha
+      - name: Preserve YAML list indentation in integration helper
+        run: sed -i 's/block\.strip()/block.rstrip()/' scripts/integrate_503_505_grisham_wiitanen_pass.py
       - name: Apply research integration
         run: python3 scripts/integrate_503_505_grisham_wiitanen_pass.py
       - name: Validate synchronized archive
