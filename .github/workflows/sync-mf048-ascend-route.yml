@@ -1,0 +1,64 @@
+name: Sync MF-048 Ascend route
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-mf048-ascend-route.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-mf048-ascend-route
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependency
+        run: python3 -m pip install PyYAML
+      - name: Sync to current main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+      - name: Apply MF-048 synchronization
+        run: python3 scripts/sync_mf048_ascend_route.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Publish preserving concurrent main
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          rm -f scripts/sync_mf048_ascend_route.py
+          rm -f .github/workflows/sync-mf048-ascend-route.yml
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No persistent MF-048 changes required.'
+            exit 0
+          fi
+          git commit -m 'Sync MF-048 with official Ascend route'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo 'Concurrent changes conflict with MF-048 synchronization; refusing overwrite.' >&2
+              exit 1
+            fi
+            python3 scripts/validate_archive.py
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
+          echo 'Main continued advancing through three safe attempts.' >&2
+          exit 1
