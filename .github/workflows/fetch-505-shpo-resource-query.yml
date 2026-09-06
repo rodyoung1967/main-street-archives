@@ -1,0 +1,95 @@
+name: Fetch 505 Main SHPO resource query
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-505-shpo-resource-query.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-505-shpo-resource-query
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Synchronize latest main
+        run: git pull --rebase origin main
+      - name: Install validator dependency
+        run: pip install PyYAML
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+      - name: Query official Oregon SHPO historic-sites layer
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from urllib.parse import urlencode
+          from urllib.request import urlopen, Request
+          import json
+          from datetime import datetime, timezone
+
+          endpoint = 'https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0/query'
+          params = {
+              'where': "city='Oregon City' AND address LIKE '505 Main%'",
+              'outFields': 'OBJECTID,RESOURCE_ID,resource_ID_1,SOURCE,Confidence,SHPO_REVIEWED,propName,address,city,county,yrBuilt,origUse,primStyle,secStyle,planTypeDescr,sidingMat1,sidingMat2,elig,ilsDate,rlsDate,nrStat,nrDateListed,HistDist,GlobalID',
+              'returnGeometry': 'false',
+              'f': 'json',
+          }
+          url = endpoint + '?' + urlencode(params)
+          req = Request(url, headers={'User-Agent': 'main-street-archives historical research'})
+          with urlopen(req, timeout=60) as r:
+              data = json.load(r)
+          if 'error' in data:
+              raise SystemExit('SHPO query error: ' + json.dumps(data['error']))
+
+          out = Path('records/historic-surveys')
+          out.mkdir(parents=True, exist_ok=True)
+          raw = out / '505-main-oregon-shpo-current-resource-query-2026-09-06.json'
+          raw.write_text(json.dumps(data, indent=2, sort_keys=True) + '\n', encoding='utf-8')
+
+          note = out / '505-main-oregon-shpo-current-resource-query-2026-09-06-provenance.md'
+          note.write_text(
+              '# 505 Main — Oregon SHPO current historic-sites REST query provenance\n\n'
+              'Retrieval date: **6 September 2026**  \n'
+              'Status: **RAW OFFICIAL DATABASE QUERY — INTERPRETATION PENDING VISUAL/RECORD REVIEW**\n\n'
+              'Official ArcGIS layer: `https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0`  \n'
+              'Official query endpoint: `https://maps.prd.state.or.us/arcgis/rest/services/Cultural/HistSites_GIS_FeaturesOnly/FeatureServer/0/query`  \n'
+              'Where clause: `city=\'Oregon City\' AND address LIKE \'505 Main%\'`  \n'
+              f'Returned feature count: **{len(data.get("features", []))}**.\n\n'
+              'Raw response: `records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json`\n\n'
+              'This file preserves the database response for source-control/retrieval purposes. '
+              'Do not promote any historical claim from this query until the returned record is inspected and, where a scanned historic form is available, the original form/image is visually reviewed.\n',
+              encoding='utf-8'
+          )
+
+          print('QUERY URL:', url)
+          print('FEATURE COUNT:', len(data.get('features', [])))
+          print(json.dumps(data, indent=2, sort_keys=True))
+          PY
+      - name: Validate archive after retrieval
+        run: python3 scripts/validate_archive.py
+      - name: Commit preserved official query response
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06.json records/historic-surveys/505-main-oregon-shpo-current-resource-query-2026-09-06-provenance.md
+          if git diff --cached --quiet; then
+            echo 'No retrieval files changed.'
+            exit 0
+          fi
+          git commit -m 'Preserve official SHPO query for 505 Main'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
