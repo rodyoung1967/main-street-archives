@@ -1,0 +1,60 @@
+name: Sync Farr-Harr transition chronology
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync-farr-harr-transition-chronology.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-farr-harr-transition-chronology
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Synchronize chronology and validate with race-safe retry
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          for attempt in 1 2 3 4 5; do
+            echo "Synchronization attempt ${attempt}"
+            git fetch origin main
+            git reset --hard origin/main
+
+            python3 scripts/sync_farr_harr_transition_chronology.py
+            python3 scripts/validate_archive.py
+
+            rm -f scripts/sync_farr_harr_transition_chronology.py
+            rm -f .github/workflows/sync-farr-harr-transition-chronology.yml
+
+            git add -A
+            if git diff --cached --quiet; then
+              echo 'Chronology already synchronized; temporary files removed with no persistent changes needed.'
+              exit 0
+            fi
+
+            git commit -m 'Sync 1936 Farr anchor into transition chronology'
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo 'Remote main advanced during synchronization; retrying from newest main.'
+            sleep 2
+          done
+
+          echo 'Unable to publish Farr-Harr chronology synchronization after 5 race-safe attempts.' >&2
+          exit 1
