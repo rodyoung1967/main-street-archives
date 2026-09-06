@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_708_monroe_canonical_sync.py'
+      - 'scripts/run_708_monroe_canonical_sync.py'
       - '.github/workflows/integrate-708-monroe-canonical-sync.yml'
   workflow_dispatch:
 
@@ -33,7 +34,7 @@ jobs:
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
       - name: Integrate 708 Monroe canonical records
-        run: python3 scripts/integrate_708_monroe_canonical_sync.py
+        run: python3 scripts/run_708_monroe_canonical_sync.py
       - name: Validate archive after integration
         run: python3 scripts/validate_archive.py
       - name: Commit integration
