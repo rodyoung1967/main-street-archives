@@ -35,9 +35,13 @@ new_func = '''def yaml_add_list_item(path, entity_id, field, item):
         nf = re.search(r"(?m)^    [A-Za-z0-9_]+:", after)
         insert_at = field_start + (nf.start() if nf else len(after))
         existing_field_text = text[field_start:insert_at]
-        if re.search(rf"(?m)^      - {re.escape(item)}\\s*$", existing_field_text):
+        if re.search(rf"(?m)^\\s+- {re.escape(item)}\\s*$", existing_field_text):
             return
-        text = text[:insert_at].rstrip("\\n") + f"\\n      - {item}\\n" + text[insert_at:].lstrip("\\n")
+        # Preserve the indentation style already used by this YAML list. Some
+        # legacy records use four spaces for list items while newer ones use six.
+        lm = re.search(r"(?m)^(\\s*)-\\s+\\S", existing_field_text)
+        item_indent = lm.group(1) if lm else "      "
+        text = text[:insert_at].rstrip("\\n") + f"\\n{item_indent}- {item}\\n" + text[insert_at:].lstrip("\\n")
         wr(path, text)
         return
 
@@ -48,7 +52,7 @@ new_func = '''def yaml_add_list_item(path, entity_id, field, item):
 replacement = new_func + '\n\n# Exact-object idempotency'
 new_text, count = pattern.subn(lambda m: replacement, text, count=1)
 if count != 1:
-    if 'inline = re.search' in text:
+    if 'inline = re.search' in text and 'item_indent = lm.group(1)' in text:
         print('yaml helper already patched')
         raise SystemExit(0)
     raise SystemExit(f'Expected to patch one yaml_add_list_item helper, patched {count}')
