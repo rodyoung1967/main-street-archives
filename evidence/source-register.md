@@ -2192,3 +2192,16 @@ Retrieval commit: `b15d41d11cd0d5749db05f207111c5c38ead85d8`
 Related evidence: `E-239`.  
 Capture: `evidence/source-captures/1917-courier-december-13-27-year-end-review-2026-09-05.md`.  
 Notes: 20 and 27 December are visually verified 8/8 each. Prior and fresh review agree that 13 December has 23 genuine pages while archive sequence 21 is a 27 December page; the true page 21 remains a retrieval gap. Annual Courier inventory reaches 52 issue dates: 51 complete issues + one 23/24 partial, 435 genuine pages visually verified. No exact target occupant was established.
+
+## S-266 — Oregon City Enterprise, January 1917 complete-page visual-review batch
+<!-- 1917 Enterprise January visual review — 2026-09-06 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 6 September 2026.  
+Publication: *Oregon City Enterprise*  
+Issues: **5, 12, 19 and 26 January 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-05/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-january/`  
+Manifest: `newspapers/oregon-city-enterprise/1917-january/manifest.json`  
+Retrieval commit: `9b19733a9dc82ab617f0c461a23651a70e96e3fd`  
+Related evidence: `E-240`.  
+Capture: `evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md`.  
+Notes: All 32 January scans were visually reviewed before text backstop. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Farr-like text hits are unrelated; Roswell L. Holman appears in a county-expense context without a target street number. No vacancy inference is made.

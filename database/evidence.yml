@@ -3610,3 +3610,15 @@ evidence:
     confidence: "Very High for page counts, visible headers/address wording and gap classification; no vacancy or continuity inference."
     related_sources: [S-265]
 
+  - id: E-240
+    name: "January 1917 Enterprise visual audit clears 32 pages without a target-address assignment"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-01-05 through 1917-01-26"
+    claims:
+      - "All 32 page scans for the 5, 12, 19 and 26 January 1917 Oregon City Enterprise issues were visually reviewed."
+      - "The Enterprise Friday-pattern inventory exposes 52 issues / 416 pages; 4 issues / 32 pages are now visually reviewed and 384 exposed pages remain."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the January batch."
+      - "Farr-like text matches are unrelated; Roswell L. Holman is named in county-expense material without a target Main Street number."
+    confidence: "Very High for the visual-review count; no continuity or vacancy inference is made."
+    related_sources: [S-266]
+

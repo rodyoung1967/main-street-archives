@@ -317,7 +317,7 @@ The canonical status and blockers are maintained in [registers/year-status.md](r
 
 - **1915 — IN PROGRESS:** Courier **123/123** sheets complete through year end. *Morning Enterprise* **225/428** images reviewed through 16 July page 1; **203 remain**, next 16 July page 2. Relevant Book 3 water-ledger audit and the 1915–1916 Polk Oregon City section review are complete. Other source classes and Courier exceptions M01–M04 remain.
 - **1916 — IN PROGRESS:** 104 issues / 884 pages inventoried. Courier **238/458** reviewed; Enterprise **0/426** in the exhaustive pass. Seven first-monthly June–December Courier issues are already included in the 238. **646 total newspaper pages remain**; next Courier page is 18 May page 4.
-- **1917 — IN PROGRESS:** twelve selected monthly Courier issues / **96 pages** visually reviewed, supplying 108 Fifth and 519/617/619 Main anchors. This is a sample, not annual completion.
+- **1917 — IN PROGRESS:** *Courier* reaches all 52 issue dates with **435 genuine pages visually verified** and one true-page retrieval gap (13 Dec p21). *Oregon City Enterprise* Friday-pattern inventory exposes **52 issues / 416 pages**; January is now **32/416 visually reviewed**, leaving **384 exposed pages**, with title-calendar reconciliation still required. Sohns & Woodbeck 1916–17 Oregon City directory section also remains unresolved.
 - **1918 — IN PROGRESS:** exact 24 October business-guide snapshot is registered as `E-124` / `S-138`; annual inventory and exhaustive page review remain unfinished.
 - **1922 — IN PROGRESS:** targeted fire/property package is integrated, but neither 501/503/505 fire model is selected and the annual review is not certified.
 

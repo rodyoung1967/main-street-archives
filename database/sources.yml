@@ -1625,3 +1625,12 @@ sources:
     notes: "20/27 December visually verified 8/8 each; 13 December has 23 genuine pages visually verified but archive seq-21 is dated 27 December. Courier inventory reaches 52 issue dates, 51 complete + one 23/24 partial, 435 genuine pages. No exact target occupant established."
     related_evidence: [E-239]
 
+  - id: S-266
+    name: "Oregon City Enterprise, January 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-05/ed-1/"
+    type: "Primary newspaper page scans; visually verified 32/32 pages"
+    date: "1917-01-05 through 1917-01-26"
+    repository_file: "evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md"
+    notes: "All four January Enterprise issues, 32 pages, visually reviewed. No exact 501/503/505/507/509/511 or new 427 Main occupant established."
+    related_evidence: [E-240]
+

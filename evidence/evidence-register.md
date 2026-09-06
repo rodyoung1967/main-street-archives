@@ -2323,3 +2323,15 @@ Claims:
 - No defensible exact 501/503/505/507/509/511 or new 427 Main occupant was established in the genuine December pages reviewed.
 Classification: **DOCUMENTED / DIRECT** for inspected pages, visible headers/address wording and the sequence-21 conflict; **RETRIEVAL GAP** for true 13 December page 21; **COVERAGE RESULT ONLY** for no target-number finding.  
 Confidence: **Very High** for page counts and visible wording; no vacancy or continuity inference is made.
+
+## E-240 — January 1917 Enterprise visual audit clears 32 pages without a target-address assignment
+<!-- 1917 Enterprise January visual review — 2026-09-06 -->
+Source: `S-266`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **32 page scans** for the 5, 12, 19 and 26 January 1917 *Oregon City Enterprise* issues were visually reviewed.
+- The 1917 Enterprise Friday-pattern inventory currently exposes **52 issues / 416 pages**; after this batch, **4 issues / 32 pages** are visually reviewed and **384 exposed pages remain**.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the January batch.
+- Farr-like text matches are unrelated to the later 505 Main Farr business; Roswell L. Holman is named in county-expense material without an exact target Main Street number.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count; **COVERAGE RESULT ONLY** for the no-target-address finding.  
+Confidence: **Very High** for the visual-review count; no occupancy-continuity or vacancy inference is made.

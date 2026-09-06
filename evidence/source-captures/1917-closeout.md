@@ -104,3 +104,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 December Courier year-end continuation — 2026-09-05 -->
 
 `S-265` / `E-239` carries the Courier audit through **27 December 1917**. Dec. 20 and 27 are 8/8 visually verified; Dec. 13 remains 23/24 genuine pages because archive sequence 21 is visibly a Dec. 27 page. The year-level Courier inventory now reaches **52 issue dates: 51 complete issues plus one partial; 435 genuine pages visually verified; one true-page retrieval gap**. No exact 501/503/505/507/509/511 occupant was established in the genuine December pages. **1917 remains IN PROGRESS** because full other-relevant-title/page certification and the Sohns & Woodbeck Oregon City directory section remain unresolved.
+
+## Enterprise January audit added 6 September 2026
+<!-- 1917 Enterprise January visual review — 2026-09-06 -->
+
+The missing second local title has now been identified correctly as the weekly *Oregon City Enterprise* (`sn00063700`); the Historic Oregon Newspapers digitized *Morning Enterprise* run ends in 1913. The Friday-pattern 1917 Enterprise inventory exposes **52 issues / 416 pages**. `S-266` / `E-240` visually clears all four January issues (**32/32 pages**), leaving **384 exposed Enterprise pages**. No exact target 501/503/505/507/509/511 or new 427 Main occupant was established in January. This is coverage only, not vacancy evidence. Enterprise title-calendar reconciliation and the remaining February–December scans are still required.
