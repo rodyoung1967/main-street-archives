@@ -15,3 +15,8 @@ The target Pacific Directory Service county volume later cited as **1947–48 / 
 CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is an independently cataloged **1936** bluff view of Fifth/Main. The project steward identifies the target storefront as **505 Main**. Enlarged review makes the principal storefront sign **probable `FARR'S`**, with lower wording likely **POOL / POOL HALL** but not securely legible enough for a full direct transcription.
 
 Because the independent City historic-resource evidence (`S-036` / `E-033`) already identifies **Farr's Pool Hall at 505 Main**, the combined evidence is classified **STRONG CROSS-SOURCE INFERENCE** that the photograph shows Farr's Pool Hall operating at 505 in **1936**. This is an operating-state anchor, not an opening date. The Farr-to-Harr transition remains unresolved.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 708 Monroe identity guard
+
+The separately registered municipal recreation-rent record `S-273` / `E-247` identifies **708 Monroe**, not 505 Main. Its payee `C. P. Farr` is strongly identified as **Clarence P. Farr (`P-395`)** under `E-248`. This is not Edwin F. Farr and is not evidence for Farr's Pool Hall opening, operation, ownership, or transfer at 505.

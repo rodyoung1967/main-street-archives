@@ -1688,3 +1688,43 @@ sources:
     notes: "16 March seq-5 visibly belongs to 23 March; true 16 March page 5 remains a retrieval gap after alternate-derivative recovery. No exact target-address occupant established on the 39 genuine pages."
     related_evidence: [E-246]
 
+# 708-monroe-canonical-sync-2026-09-06
+  - id: S-273
+    name: "Oregon City Commission, 6 March 1946 — February recreation-department rent at 708 Monroe"
+    url: "https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723048/File/document"
+    type: "Primary municipal claims record; OCR/TEXT ONLY pending page-image certification"
+    date: "1946-03-06"
+    notes: "Extracted sequence: C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00. This is a 708 Monroe municipal-recreation record, not a 505 Main occupancy or Farr/Harr business-transfer record."
+    related_evidence: [E-247]
+    related_people: [P-395]
+    related_buildings: [B-017]
+    repository_file: "evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md"
+
+  - id: S-274
+    name: "Oregon City Courier, 23 June 1911 — Clarence P. Farr executor notice"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-23/ed-1/seq-7/"
+    type: "Primary newspaper legal notice; text control"
+    date: "1911-06-23"
+    notes: "Explicitly names Clarence P. Farr as executor of Isaac Farr's estate; used as the direct middle-initial bridge in the later C. P. Farr identity analysis."
+    related_evidence: [E-248]
+    related_people: [P-395]
+    repository_file: "evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md"
+
+  - id: S-275
+    name: "Oregon City historic-resource record, Farr Store / 919 7th Street"
+    url: "https://www.orcity.org/2142/919-7th-Street"
+    type: "Official municipal historic-resource synthesis / survey route"
+    notes: "Identifies Clarence Farr with Farr Brothers/Farr Store at Seventh and Monroe and reports a mid-1940s sale to Dewey Krueger; does not identify 708 Monroe or 505 Main."
+    related_evidence: [E-248, E-249]
+    related_people: [P-395]
+    repository_file: "evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md"
+
+  - id: S-276
+    name: "Oregon City 19 September 2017 permit log — 919 7th / 709 Monroe same-APN control"
+    url: "https://www.orcity.org/DocumentCenter/View/638/September-11-2017-to-September-15-2017-PDF"
+    type: "Official municipal permit-log address/parcel control"
+    date: "2017-09-19"
+    notes: "919 7th and 709 Monroe appear under the same APN 2-2E-31AD-05000. Modern parcel/address control only; does not identify historic 708 ownership."
+    related_evidence: [E-249]
+    related_buildings: [B-017]
+    repository_file: "evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md"

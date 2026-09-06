@@ -2286,3 +2286,37 @@ Related evidence: `E-246`.
 Manual callout: `MF-049`.  
 Capture: `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md`.  
 Notes: Visual date audit shows 16 March seq-5 is actually a distinct 23 March Page-5 variant. True 16 March page 5 remains unrecovered after derivative/alternate-edition/LOC recovery attempts. No exact 501/503/505/507/509/511 occupant was established on the 39 genuine recovered pages; no vacancy inference is made.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## S-273 — Oregon City Commission, 6 March 1946 — February recreation-department rent at 708 Monroe
+Type: Primary municipal Commission/claims record; **OCR/TEXT ONLY — ORIGINAL PAGE IMAGE NOT VISUALLY CERTIFIED**.  
+Public record: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723048/File/document  
+Meeting: **6 March 1946**; Recorder claims report covers **February 1946**.  
+Relevant extracted sequence: **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00**.  
+Related evidence/person/building: `E-247`; `P-395`; `B-017`.  
+Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.  
+Notes: The readable municipal text is unusually explicit about the address, but repeated attempts to render the original claim-page image failed. Preserve this as OCR/TEXT ONLY until the scan is visually inspected. The entry is evidence for a City recreation-department rental at **708 Monroe**, not 505 Main, Farr's Pool Hall, or Harr's Recreation Center.
+
+## S-274 — Oregon City Courier, 23 June 1911 — Clarence P. Farr executor notice
+Type: Primary newspaper legal notice; **TEXT/TRANSCRIPTION CONTROL — PAGE IMAGE NOT NEWLY CERTIFIED IN THIS synchronization**.  
+Archive page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-23/ed-1/seq-7/  
+Relevant wording identifies **CLARENCE P. FARR** as executor of the estate of Isaac Farr.  
+Related evidence/person: `E-248`; `P-395`.  
+Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.  
+Notes: This supplies the direct middle-initial bridge for the Oregon City Clarence Farr family line. It is not by itself proof that every later `C. P. Farr` reference names this person.
+
+## S-275 — Oregon City historic-resource record, Farr Store / 919 7th Street
+Type: Official City historic-resource synthesis and underlying survey route; secondary property/biographical evidence.  
+City page: https://www.orcity.org/2142/919-7th-Street  
+Survey PDF: https://www.orcity.org/DocumentCenter/View/7877/919_7th  
+Related evidence/person: `E-248`, `E-249`; `P-395`.  
+Captures: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`; `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.  
+Notes: The City identifies Clarence Farr with Farr Brothers / Farr Store at the northwest corner of Seventh and Monroe and reports a mid-1940s sale to Dewey Krueger. This is official secondary evidence and does not identify the 708 Monroe recreation premises or connect Clarence to Edwin F. Farr's 505 Main pool hall.
+
+## S-276 — Oregon City 19 September 2017 permit log — 919 7th / 709 Monroe same-APN control
+Type: Official municipal permit-log property/address control.  
+PDF: https://www.orcity.org/DocumentCenter/View/638/September-11-2017-to-September-15-2017-PDF  
+Relevant rows: permits BM-17-0295/BM-17-0296 list **919 7th St** and BM-17-0297 lists **709 Monroe St**, with the same owner and APN **2-2E-31AD-05000**.  
+Related evidence/building: `E-249`; `B-017` as comparison context only.  
+Capture: `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.  
+Notes: This directly establishes a modern 919 7th / 709 Monroe parcel-address relationship. It does not prove that 709 existed as an address in 1946, identify the historic 708 parcel, or establish ownership of the 708 recreation premises.

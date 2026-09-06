@@ -834,3 +834,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - This is a preservation correction, not an evidence upgrade. The later 1962–65 *Myrtle Point Herald* material remains OCR/TEXT ONLY pending actual scan retrieval.
 
 | 2026-09-06 | Completed gap-aware March 1917 Oregon City Enterprise visual audit and cross-record propagation review | Inspected **40/40 exposed March slots**; **39 genuine intended-date pages**. 16 Mar seq-5 visibly prints 23 Mar Page 5 and differs from the normal 23 Mar p5; true 16 Mar p5 remains retrieval gap `MF-049` after alternate-derivative/edition/LOC recovery. Enterprise cumulative genuine coverage **105 pages**, with 310 later Apr-Dec exposed pages pending. Reviewed 503/505 buildings/timelines, Farr business/person profiles, master/business timelines, open questions and leads; no new target occupant/building/business/person fact warrants an entity chronology edit. | Continue April Enterprise page-by-page visual audit; preserve `MF-049` for year-closeout/manual retrieval. |
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+### 2026-09-06 — canonicalized the 708 Monroe / C. P. Farr separation finding before further Farr→Harr research
+- Registered `S-273` / `E-247` for the 6 March 1946 Commission claims text: **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00**; retained **OCR/TEXT ONLY** because the claim-page image has not rendered for visual certification.
+- Registered `P-395` Clarence P. Farr with `S-274` / `S-275` / `E-248` as a **STRONG CROSS-SOURCE INFERENCE**, explicitly separate from Edwin F. Farr (`P-028`).
+- Registered `B-017` and `S-276` / `E-249` as an off-Main address control; current City records strongly distinguish 708 from the Farr Store's documented 709 Monroe / 919 7th parcel.
+- Synchronized source/evidence YAML, person/building records, crosswalk, index, open questions, research leads, 505/Farr/Harr handling notes, and the Farr→Harr checkpoint.
+- Historical result: the C. P. Farr municipal recreation-rent series is **not evidence for 505 Main or the Farr→Harr transfer**; the exact transition remains unresolved.

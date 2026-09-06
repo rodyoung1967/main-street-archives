@@ -2408,3 +2408,41 @@ Claims:
 - A Farr Brothers reference appears only on the misassociated **23 March** Page-5 variant; it supplies no 505 address and does not bridge Edwin/Alice Farr to 505 in 1917.
 Classification: **DOCUMENTED / DIRECT** for visible printed dates and scan identity; **RETRIEVAL GAP** for true 16 March page 5; **COVERAGE RESULT ONLY** for the no-target-address finding.  
 Confidence: **Very High** for the page-date conflict and inspected-page counts; no continuity, vacancy, or Farr identity inference is made.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## E-247 — February 1946 City recreation-department rent is explicitly addressed to 708 Monroe
+Source: `S-273`  
+Related person/building: `P-395` / `B-017`  
+Type: Primary municipal claims text; page image not visually certified  
+Claims:
+- The 6 March 1946 Oregon City Commission claims material for February aligns **C. P. Farr**, **Rent at 708 Monroe - Rec. Dept.**, and **$150.00**.
+- The repeated 1944–1946 C. P. Farr / $150 recreation-rent pattern strongly suggests the same rental relationship across adjacent months, but **708 Monroe is directly printed only in the recovered February 1946 text**.
+- This record should not be used as evidence for **505 Main**, **Farr's Pool Hall**, **Harr's Recreation Center**, or a Farr→Harr transfer.
+Classification: **OCR/TEXT ONLY** for the municipal row; **DOCUMENTED ADDRESS IN EXTRACTED PRIMARY TEXT**, pending scan certification.  
+Confidence: High for the extracted wording; original-page visual verification still required.
+
+## E-248 — Municipal C. P. Farr is strongly identified as Clarence P. Farr, not Edwin F. Farr
+Sources: `S-274`, `S-275`; municipal context in `S-273`  
+Related person: `P-395`  
+Type: Cross-source identity control  
+Claims:
+- The 23 June 1911 legal notice directly names **Clarence P. Farr** in the Oregon City Farr family line.
+- Oregon City's official Farr Store history independently identifies **Clarence Farr** with the local Farr Brothers/Farr Store family and property context.
+- Early-1940s Oregon City municipal records use **C. P. Farr** for a commissioner; the 1944–1946 recreation-rent claims use the same initials.
+- Together these facts strongly support identifying the municipal/rent **C. P. Farr** as **Clarence P. Farr**.
+- No recovered 1940s record in this chain spells out `Clarence P. Farr` in the same rent row, so the identity remains **STRONG CROSS-SOURCE INFERENCE**, not a direct same-record expansion.
+- Clarence P. Farr is kept separate from **Edwin F. Farr (`P-028`)**, Alice Farr, and Farr's Pool Hall at 505 Main.
+Classification: **STRONG CROSS-SOURCE INFERENCE / IDENTITY GUARD**.  
+Confidence: High; direct 1940s spelled-out bridge still desirable.
+
+## E-249 — 708 Monroe is strongly separated from the Farr Store's documented 709 Monroe address
+Sources: `S-273`, `S-275`, `S-276`  
+Related building/person: `B-017` / `P-395`  
+Type: Address/parcel comparison; historic 708 title unresolved  
+Claims:
+- The 1946 municipal rent text identifies the recreation premises as **708 Monroe**.
+- A 2017 official City permit log directly associates **919 7th Street** and **709 Monroe Street** with the same APN **2-2E-31AD-05000**, consistent with the Farr Store corner property having a Monroe-side 709 address.
+- This strongly favors **708 Monroe and the Farr Store/709 Monroe property being separate premises**, rather than 708 being a simple alternate address for 919 7th.
+- The comparison does not establish the 1946 owner/legal description of 708, uninterrupted address usage, or building survival.
+Classification: **STRONG CROSS-SOURCE SPATIAL INFERENCE**; historic 708 parcel ownership remains unresolved.  
+Confidence: High for separation; unresolved for 1946 title/boundary.

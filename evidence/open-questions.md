@@ -237,3 +237,10 @@ The downstream bracket is now materially tighter but the deed is still missing. 
 <!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
 
 `E-246` / `S-272` advances 1917 newspaper coverage but **does not resolve the 503/505 occupant question**. Of 40 exposed March Enterprise slots, 39 are genuine intended-date pages; the archive's 16 March seq-5 visibly prints 23 March, and the true 16 March page 5 remains unrecovered under manual callout `MF-049` after reasonable online recovery attempts. No exact 501/503/505/507/509/511 occupant was established on the 39 genuine pages. Keep the missing page and newspaper silence as coverage/retrieval facts only, not vacancy or non-use evidence.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 — Farr→Harr false-path closure: C. P. Farr recreation rent is 708 Monroe
+
+`S-273` / `E-247` records the February 1946 City recreation-department rent at **708 Monroe**, not 505 Main. `E-248` strongly identifies the municipal `C. P. Farr` as **Clarence P. Farr** and explicitly keeps him separate from Edwin F. Farr (`P-028`). `E-249` further favors 708 as separate from the Farr Store's documented 709 Monroe / 919 7th parcel.
+
+**Effect on open questions:** the exact **Farr's Pool Hall → Harr's Recreation Center** transition at 505 remains open, but the C. P. Farr municipal recreation-rent series is removed as evidence for that transition. Continue with the 1947–48 directory, missing 1944–48 liquor-license proceedings, and cumulative 505 historic-resource source notes. Historic ownership/legal description of 708 itself remains unresolved.

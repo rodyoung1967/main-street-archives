@@ -350,3 +350,8 @@ CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca -
 
 ## 1896 CCHS predecessor-site photograph
 `S-245` / `E-219` / `IMG-0765` preserves CCHS `2008.008.005.002`, **Oregon City 1896 - 6th and Main Street**. The project steward fixes the northeast Fifth/Main corner using the two men visible near the crossing. The later-numbered 501/503/505 positions can therefore be placed generally on the right/west side approaching Fifth, but the structures visible there in 1896 are **predecessor buildings**, not the later/current numbered building. Individual 1896 bay boundaries and occupants remain unresolved; address position is not treated as building continuity.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 — C. P. Farr recreation-rent false path closed
+
+The separate municipal recreation-rent thread now has an exact February 1946 premises address: **708 Monroe** (`S-273` / `E-247`), not 505 Main. The payee `C. P. Farr` is strongly identified as Clarence P. Farr (`P-395`), distinct from Edwin F. Farr. This does **not** change the 505 chronology; it removes the municipal recreation-rent series as evidence for Farr's Pool Hall, Harr's Recreation Center, or their transition.

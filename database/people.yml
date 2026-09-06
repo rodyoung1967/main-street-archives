@@ -1189,3 +1189,13 @@ people:
     related_evidence: [E-229]
     related_sources: [S-255]
     repository_file: people/profiles/maurice-shahtout.md
+
+# 708-monroe-canonical-sync-2026-09-06
+  - id: P-395
+    name: Clarence P. Farr
+    role: "Oregon City Farr Brothers family / municipal C. P. Farr identity control"
+    notes: "1911 legal notice directly names Clarence P. Farr. Later municipal C. P. Farr is a strong cross-source identity inference; February 1946 recreation rent is addressed to 708 Monroe. Keep separate from Edwin F. Farr and the 505 Main pool-hall chain."
+    related_sources: [S-274, S-275, S-273]
+    related_evidence: [E-248, E-247, E-249]
+    related_buildings: [B-017]
+    repository_file: people/profiles/clarence-p-farr.md

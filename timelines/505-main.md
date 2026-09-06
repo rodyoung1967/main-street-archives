@@ -97,3 +97,8 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 | 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **505 Tavern / Tavern 505** signage at 505 and **The Wheel** on adjacent 503. | **Direct photographic** same-frame business separation; broad date range cannot backdate the 505 Tavern name to 1955. | `E-206`; `S-232`; `IMG-0753` |
 
 | 1930–1939 | P-1043 block-sequence context | CCHS `P-1043` looks south from Sixth toward Fifth and preserves a dense west-side odd-number storefront-sign sequence. Exact `505` sign/occupant is not securely readable in this frame; use it as spatial/address-sequence context and cross-check with `P-1128`. | `E-211`; `S-237`; `IMG-0758` |
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## Research-control note — 708 Monroe is not part of the 505 Farr→Harr chain
+
+A February 1946 City claim prints **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00** (`S-273` / `E-247`; OCR/TEXT ONLY pending scan certification). This is an off-site municipal recreation-premises thread and is not inserted as a 505 occupancy event. The exact Farr→Harr transition at 505 remains unresolved.

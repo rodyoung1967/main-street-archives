@@ -536,3 +536,13 @@ buildings:
     - S-141
     - S-021
     - S-247
+
+# 708-monroe-canonical-sync-2026-09-06
+  - id: B-017
+    name: 708 Monroe Street recreation-premises control
+    address: 708 Monroe Street, Oregon City, Oregon
+    repository_file: buildings/708-monroe.md
+    notes: "February 1946 municipal claims text identifies City recreation-department rent at 708 Monroe. This address record is deliberately separate from 505 Main and from the Farr Store/919 7th/709 Monroe property. Historic ownership, legal description, footprint and building continuity are unresolved."
+    related_people: [P-395]
+    related_evidence: [E-247, E-249]
+    related_sources: [S-273, S-276, S-275]

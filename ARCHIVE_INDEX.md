@@ -395,3 +395,10 @@ Five steward-supplied newspaper pages were reconciled by SHA-256. The 10 Oct. 19
 ## 3 September 2026 — George Newton / 427 Main address test
 
 [Integrated source review](evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md) and [237-page discovery inventory](evidence/source-captures/1922-newton-june-august-discovery.json) preserve five original PDFs, all raw OCR snapshots, and the newly verified **across the way from the laundry** report. `E-179`–`E-182` separate the 427 ad, Newton's saved restaurant, unnumbered Quality Cafe roster, and later map context. Newton → 427 remains **PROBABLE / WORKING HYPOTHESIS**; no 503 or Gates-model conclusion. [Business identity page](businesses/quality-restaurant-1922.md), [Newton profile](people/profiles/george-newton.md), [427 address](buildings/427-main.md); `OQ-034` / `RL-048`. **1922 IN PROGRESS**.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+### 708 Monroe Street — off-Main research control
+
+Primary file: `buildings/708-monroe.md` (`B-017`).
+
+A February 1946 Oregon City Commission claims record identifies the City's recreation-department rent as **C. P. Farr — 708 Monroe — $150** (`S-273` / `E-247`; **OCR/TEXT ONLY** pending scan certification). This address is retained because it closes a misleading Farr/Harr research path: it is **not evidence for 505 Main**. A separate City permit-address control strongly distinguishes 708 from the Farr Store parcel's documented **709 Monroe / 919 7th** address (`E-249`).

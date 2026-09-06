@@ -3694,3 +3694,41 @@ evidence:
     confidence: "Very High for page-date conflict and counts; retrieval gap and no-merge limits explicitly retained."
     related_sources: [S-272]
 
+# 708-monroe-canonical-sync-2026-09-06
+  - id: E-247
+    name: "February 1946 City recreation-department rent is explicitly addressed to 708 Monroe"
+    type: "Primary municipal claims text; OCR/TEXT ONLY pending scan certification"
+    claims:
+      - "6 March 1946 claims material aligns C. P. Farr, Rent at 708 Monroe - Rec. Dept., and $150.00."
+      - "The record is a 708 Monroe municipal-recreation-premises record and is not evidence for 505 Main, Farr's Pool Hall, Harr's Recreation Center, or a Farr-to-Harr transfer."
+    confidence: "High for extracted wording; original-page visual certification pending"
+    related_sources: [S-273]
+    related_people: [P-395]
+    related_buildings: [B-017]
+    repository_file: "evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md"
+
+  - id: E-248
+    name: "Municipal C. P. Farr is strongly identified as Clarence P. Farr, not Edwin F. Farr"
+    type: "Cross-source identity control"
+    claims:
+      - "A 1911 Oregon City legal notice explicitly names Clarence P. Farr."
+      - "Official City Farr Store history independently identifies Clarence Farr in the local Farr Brothers family/property context."
+      - "The later municipal C. P. Farr identity is a strong cross-source inference, not a same-record full-name expansion."
+      - "Clarence P. Farr is not merged with Edwin F. Farr or Farr's Pool Hall at 505 Main."
+    confidence: "High; direct 1940s spelled-out identity bridge still desirable"
+    related_sources: [S-274, S-275, S-273]
+    related_people: [P-395, P-028]
+    repository_file: "evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md"
+
+  - id: E-249
+    name: "708 Monroe is strongly separated from the Farr Store's documented 709 Monroe address"
+    type: "Cross-source address/parcel comparison"
+    claims:
+      - "1946 municipal text names 708 Monroe for the recreation premises."
+      - "2017 City permit records place 919 7th and 709 Monroe on the same APN 2-2E-31AD-05000."
+      - "The evidence strongly favors separate 708 and 709/Farr Store premises; historic 708 title remains unresolved."
+    confidence: "High for spatial separation; historic 708 ownership and legal description unresolved"
+    related_sources: [S-273, S-275, S-276]
+    related_people: [P-395]
+    related_buildings: [B-017]
+    repository_file: "evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md"

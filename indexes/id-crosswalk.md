@@ -640,3 +640,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-269` / `E-243` → `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`
 - `S-270` / `E-244` → `P-006`, `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`
 - `S-271` / `E-245` → `P-006`, `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 — 708 Monroe / Clarence P. Farr separation control
+
+| Record | Links | Handling rule |
+| --- | --- | --- |
+| `S-273` / `E-247` | `B-017`, `P-395` | February 1946 municipal recreation rent: **708 Monroe**, not 505 Main; OCR/TEXT ONLY pending scan certification. |
+| `S-274` / `S-275` / `E-248` | `P-395` | `C. P. Farr → Clarence P. Farr` is **STRONG CROSS-SOURCE INFERENCE**; do not merge with `P-028` Edwin F. Farr. |
+| `S-276` / `E-249` | `B-017` | Modern 919 7th / 709 Monroe same-APN control strongly separates the 708 premises; historic 708 title remains unresolved. |

@@ -172,3 +172,10 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | P-393 | [Walter Little — 1908 confectionery identification](profiles/walter-little-1908-confectionery.md) | Confectionery catalog subject | CCHS `P-6974` identifies him on left; deliberately not merged with `P-090`. |
 
 | P-394 | [Maurice Shahtout](profiles/maurice-shahtout.md) | 503 Main downstream real-estate owner lead | Public-record-derived 2010 assessment page names him on 503 land/building entry; exact acquisition deed and relationship to Maurice Enterprises Inc remain unresolved. |
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 identity addition
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-395 | [Clarence P. Farr](profiles/clarence-p-farr.md) | Oregon City Farr Brothers family / municipal C. P. Farr identity control | 1911 source directly gives **Clarence P. Farr**; later municipal `C. P. Farr` identity is a **STRONG CROSS-SOURCE INFERENCE**. February 1946 recreation rent is addressed to 708 Monroe. Keep separate from Edwin F. Farr / 505 Main. |

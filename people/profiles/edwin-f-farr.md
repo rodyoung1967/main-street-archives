@@ -13,3 +13,8 @@ A 19 July 1917 *Oregon City Courier* draft-number page has an **OREGON CITY NO. 
 A related identity checkpoint also preserves an unresolved Alice Farr conflict: the 2002 City survey says Edwin F. and Alice Farr remained at 401 Third until their respective deaths in the late 1960s, while a secondary cemetery aggregator reports an **Alice Clarinda Sprague Farr (1893–1934)** buried at Logan Pleasant View Cemetery. It is not established that this is the same Alice Farr. Primary marriage, deed, census, and death records are required before resolving the identities.
 
 See `evidence/source-captures/1917-1934-edwin-alice-farr-identity-control-2026-09-03.md`.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## Clarence P. Farr no-merge control
+
+`P-395` **Clarence P. Farr** is now separately registered. The municipal `C. P. Farr` recreation-rent thread points to **708 Monroe** (`E-247`) and is not merged with Edwin F. Farr, Alice Farr, or Farr's Pool Hall at 505.

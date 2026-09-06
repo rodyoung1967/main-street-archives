@@ -195,3 +195,10 @@ The temporary Oak Lodge and AA80061 probe workflows were removed after their res
 Parallel project work has continued to advance `main`, including the later 503/505 Grisham/Wiitanen research pass at `a6e2ba53c01cbeccedad039545f9f7348688d9df`. That work is preserved and must not be conflated with the earlier Farr → Harr transition question.
 
 This checkpoint changes no historical conclusion. It records the completed online access tests, the remaining retrieval gaps, and the exact resume path.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 addendum — C. P. Farr recreation-rent lead separated from 505
+
+Subsequent work after this checkpoint recovered a February 1946 municipal claims line identifying **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00** (`S-273` / `E-247`). The row remains **OCR/TEXT ONLY** pending scan certification. Cross-source identity work separately supports `C. P. Farr → Clarence P. Farr` (`P-395` / `E-248`), not Edwin F. Farr.
+
+This does **not** change the checkpoint's Farr→Harr bracket. It closes the C. P. Farr municipal recreation-rent series as a 505 transition lead. The high-value resume routes remain MF-001, MF-002 and MF-047.

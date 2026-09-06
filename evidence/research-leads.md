@@ -404,3 +404,10 @@ CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) now gives two strong bl
 <!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
 
 `S-272` / `E-246` visually audits all 40 archive-supplied March slots and identifies a source-association defect: 16 March seq-5 visibly belongs to 23 March. The true 16 March page 5 remains **RETRIEVAL GAP `MF-049`** after PDF/JP2/OCR/RDF, alternate-edition and LOC/Chronicling-America recovery attempts. Enterprise cumulative genuine intended-date coverage is **105 pages through March**; **310 later Apr-Dec exposed pages** remain. Continue with April page-by-page visual review, but preserve the March gap for manual completion. The exact 1917 503/505 occupant question remains unresolved; no vacancy inference and no Farr identity merge is permitted.
+
+<!-- 708-monroe-canonical-sync-2026-09-06 -->
+## 6 September 2026 — 708 Monroe separation control for the Farr/Harr search
+
+The municipal C. P. Farr recreation-rent thread now has an exact premises control: **708 Monroe** (`S-273` / `E-247`), with C. P. Farr strongly identified as **Clarence P. Farr** (`E-248`). Do **not** spend further Farr→Harr research effort treating this rent series as a possible 505 Main clue unless a new direct source explicitly bridges the premises. `E-249` strongly separates 708 from the Farr Store/709 Monroe parcel as well.
+
+For the mid-1940s 505 transition, retain the existing priority order: **MF-001 1947–48 Clackamas County Directory → MF-002 missing 1944–48 Oregon City liquor-license proceedings → MF-047 cumulative 505 historic-resource file/source notes**.
