@@ -121,7 +121,9 @@ The strongest current manual/institutional route is the **Wilmer Gardner Researc
 3. librarians accept research inquiries;
 4. historical records show a Clackamas County library branch had a copy by July 1948.
 
-Request the actual volume or scans, not a later transcription.
+A separate 5 September 2026 acquisition check also established that **Genealogical Forum of Oregon lobby-sale item TF0767, “Clackamas Co. Directory 1947-48,”** remained publicly listed through at least October 2025. Current physical availability is subject to confirmation, but if available this is now the strongest route to obtaining the actual volume rather than a derivative scan. See `evidence/source-captures/1947-1948-gfo-tf0767-purchase-status-refinement-2026-09-05.md`.
+
+Request or obtain the actual volume or scans, not a later transcription.
 
 ## Exact pages/entries to inspect when the volume is found
 
@@ -135,16 +137,48 @@ Inspect all available sections rather than a single surname hit:
 6. Street/address index or reverse directory if present.
 7. Front matter explaining canvass date, compilation date, publication date and how carry-forward listings were handled.
 
+## 5 September 2026 — Oak Lodge live-link and Wayback recovery test
+
+Oak Lodge History Detectives' current Oak Grove page still publishes a link labeled for the **1947–1948 Oak Grove** portion of the Clackamas County directory:
+
+`https://www.oaklodgehistory.org/documents/OakLodge/ClackamasCountyDirectories/1947-1948_OakGrove.pdf`
+
+A direct retrieval test found the current file route unusable: the `www` HTTPS URL repeatedly redirected to itself through Cloudflare and the non-`www` HTTPS route returned HTTP 404. This is an access condition, not evidence about the historical directory contents.
+
+The Internet Archive CDX index independently exposes one archived copy of that exact PDF URL:
+
+- capture timestamp: **20220628154456**;
+- original MIME type: **application/pdf**;
+- HTTP status recorded by the archive: **200**;
+- digest: `XSYVFGQPYTR7LGELTE7VZJ6LA5236AVH`.
+
+The replayed object cannot be treated as a complete scan. It terminates at exactly **1,048,576 bytes**, lacks the PDF trailer/xref necessary for normal parsing, and the archived response metadata explicitly identifies `warc-truncated: length`. The replay also contains the archive's truncation marker. Poppler therefore could not read the document structure or extract front matter.
+
+Classification: **RETRIEVAL GAP / ACCESS EVIDENCE ONLY**. The Wayback object proves that Oak Lodge had published an Oak Grove PDF derivative by June 2022, but it does **not** provide a complete or certifiable copy of the directory and does not establish any Farr, Harr, or 505 Main entry. Do not infer title-page wording, pagination, publication date, or occupancy from the truncated object.
+
+Research consequence: do not spend further time treating the Oak Lodge live/Wayback PDF as the likely path to the decisive 505 entry unless a new complete capture or repaired source file appears. The actual-volume route, particularly GFO **TF0767**, is materially stronger.
+
+## 5 September 2026 — Copyright registration AA80061 retrieval test
+
+The printed Copyright Office catalog trail previously surfaced registration identifier **AA80061** for the Clackamas County directory, but the catalog's OCR/date string is garbled enough that the date must not be normalized by inference.
+
+A targeted 5 September 2026 attempt to recover the underlying card through the U.S. Copyright Office Virtual Card Catalog did not recover a dependable card image or registration date. The VCC search endpoint returned **HTTP 403** to the automated query, while the public VCC application shell itself loaded without exposing AA80061 in its static HTML. Targeted public search-engine queries also failed to surface a defensible AA80061 card/date result.
+
+Classification: **RETRIEVAL GAP / BIBLIOGRAPHIC ACCESS EVIDENCE ONLY**. The exact registration/effective date associated with AA80061 remains unresolved. Preserve the identifier as a future card-catalog retrieval key, but do not convert the malformed printed-catalog text into a guessed 1946 or 1947 date.
+
 ## Farr → Harr status after this pass
 
 The transition date remains **unresolved**.
 
 What changed is the interpretation and retrieval strategy:
 
-- the target county directory is now tied to a documented **1946 data-gathering campaign**;
+- the target county directory is tied to a documented **1946 data-gathering campaign**;
 - Oregon City was processing a Pacific Directory Service **Directory** expense in the **February 1948 claims cycle**;
 - the Sandy branch had a **new Clackamas County Directory** by **8 July 1948**;
 - CCHS later explicitly used a **Pacific Directory, 1947-48**;
-- official bibliographies identify the publisher as **Pacific Directory Service** and the volume as either 1947–48 or 1948.
+- official bibliographies identify the publisher as **Pacific Directory Service** and the volume as either 1947–48 or 1948;
+- the current Oak Lodge PDF link is broken and its sole recovered 2022 Wayback PDF object is **length-truncated**, so it cannot resolve the Oregon City entries or front matter;
+- the AA80061 Virtual Card Catalog route remains a **retrieval gap**, so no exact publication/registration date is inferred from the garbled catalog OCR;
+- GFO **TF0767** remains the strongest practical route to the physical 1947–48 volume.
 
 No source recovered here states whether Farr or Harr occupied 505 in the 1946 canvass. That remains the next decisive check.
