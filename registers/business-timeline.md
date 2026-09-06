@@ -35,6 +35,7 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 | 1 Sep. 1967 | Wheel Restaurant | `BUS-004` | `E-045` | Very High | Spared in the block fire; smoke and water damage. |
 | Apr. 1983 | Wheel Cafe | `BUS-004` | `E-047` | Very High name | Downtown lunch landmark. Street number not in article. |
 | Apr.–Aug. 1985 | The Wheel Cafe | `BUS-004` | `E-048`, `E-049` | Very High | Lottery outlet at 503 Main St.; Richard M. Wiitanen named owner. Working family interpretation is that the Grisham → Wiitanen transition was a sale of the 503 business; exact transaction date/terms pending. |
+| OLCC license cycle ending 31 Mar. 2009 | The Wheel Bar & Grill | `BUS-004` | `E-225` | High official indexed text; visual page pending | OLCC indexed license row names Maurice Enterprises Inc at 503 Main, license 104145. This is a later operating-license endpoint, not proof of the Wiitanen sale date or 503 title transfer. |
 | 2016-2017+ | White Rabbit / Black Ink | `BUS-018` | `E-001`, `E-098`, `E-099` | Strong for 2017 article; very high for 2016–2021 permits | The article's phrase "The Wheel Tavern" is retained only as source wording; family correction says it was never an official business name. |
 | Oct. 2016 | Interior remodel (Black Ink Coffee LLC owner line) | — | `E-098` | Very High | BB-16-0534: hazmat abatement, interior wall demo, re-roof; $61,700. |
 | Sep. 2021 | Parklet (White Rabbit / Black Ink) | `BUS-018` | `E-099` | Very High | RWOBS-21-00029 one-day parklet. |

@@ -6,7 +6,7 @@
 - Related buildings: `B-001` (The Wheel at 503 Main); family/real-estate context at `B-002`
 - Related businesses: `BUS-004`
 - Related people: `P-022` Floyd LaFarlette; `P-008` Sheila Wiitanen (daughter); `P-007` Richard / Dick Wiitanen
-- Related evidence: `E-007`, `E-009`, `E-019`, `E-022`
+- Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`
 
 ## Identity Correction (August 2026)
 
@@ -15,6 +15,7 @@ Earlier archive notes recorded `P-006` as **Ray Grisham**, possibly a male 505 /
 That reading is **superseded, not deleted**:
 
 - **Raye LaFarlette and Raye Grisham are the same woman**, Rodney Young's grandmother.
+- The City of Oregon City mausoleum register directly records her maiden name as **Weaver** (`E-223`), so the supported surname sequence is **Raye Weaver → Raye LaFarlette → Raye Grisham**.
 - First marriage: **LaFarlette** (with Floyd LaFarlette, `P-022`).
 - After divorce she remarried and became **Raye Grisham**.
 - The LaFarlette → Grisham surname change is a **personal-name/family-status change, not evidence of a sale or transfer of The Wheel**.
@@ -28,6 +29,8 @@ Keep `P-005` and `P-006` as separate people. Do not merge Hansen and Grisham.
 ## Working Biography
 
 Family history places Raye in the continuing Wheel operation at 503. Victor (`P-010`) independently managed the restaurant portion during Raye Grisham's years and the early Dick/Sheila period (`E-007`).
+
+The **11 July 2012 Oregonian obituary** independently names **Sheila Wiitanen as Raye's daughter** and names deceased husbands **Floyd La Farlette** and **Cliff Grisham** (`E-224`). The obituary does not mention The Wheel or either Main Street property, so it corroborates family identity rather than a business transaction. Its age 93 conflicts with the City cemetery row's age 94; the conflict is retained.
 
 The later transition from **Raye Grisham to Richard / Dick and Sheila Wiitanen at The Wheel** is currently treated as a **working family interpretation of a sale of the 503 business**. Primary records are still needed for the exact date, seller/buyer form, terms, liquor-license transfer, and whether Richard / Dick, Sheila, or both were named in the transaction.
 

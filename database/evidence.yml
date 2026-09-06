@@ -3383,3 +3383,39 @@ evidence:
     confidence: "Very High for the inspected-page count and visible dated address wording; no continuity inference is made."
     related_sources: [S-248]
 
+  - id: E-223
+    name: "Oregon City cemetery register identifies Raye W. Grisham's maiden name as Weaver"
+    type: "Official municipal cemetery register; visually verified"
+    claims:
+      - "Raye W. Grisham is directly recorded with maiden name WEAVER."
+      - "Death 6/30/2012; burial 11/2/2012; age field 94."
+      - "Age conflicts with E-224 obituary age 93; preserve both source statements."
+      - "This is identity evidence, not a 503/505 business or property transaction."
+    confidence: "Very High for the visually verified municipal row; age conflict unresolved"
+    related_sources: [S-249]
+    related_people: [P-006]
+
+  - id: E-224
+    name: "Raye W. Grisham obituary directly confirms Sheila Wiitanen as daughter and husband sequence"
+    type: "Newspaper obituary / family identity evidence"
+    claims:
+      - "The Oregonian obituary gives Raye W. Grisham birth 12/30/1918, death 6/30/2012, age 93."
+      - "Names daughters Carol Stover and Sheila Wiitanen."
+      - "Names deceased husbands Floyd La Farlette and Cliff Grisham."
+      - "Does not mention The Wheel, 503 Main, 505 Main, or a transfer."
+    confidence: "High for published family/identity wording; age conflict with E-223 retained"
+    related_sources: [S-250]
+    related_people: [P-006, P-008, P-022]
+
+  - id: E-225
+    name: "OLCC indexed license text places Maurice Enterprises Inc with The Wheel Bar & Grill at 503 Main"
+    type: "Official state liquor-license list text; OCR/TEXT ONLY"
+    claims:
+      - "OLCC indexed text lists THE WHEEL BAR & GRILL, MAURICE ENTERPRISES INC, 503 MAIN ST OREGON CITY, license 104145, expires 3/31/09."
+      - "Provides a later operating-license endpoint after Richard M. Wiitanen's August 1985 owner anchor."
+      - "Does not prove the Wiitanen business-sale date, real-estate conveyance, or simultaneous transfer."
+      - "Direct PDF page-image retrieval failed; visual certification remains a retrieval gap."
+    confidence: "High for official indexed license text; pending visual page verification"
+    related_sources: [S-251]
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]

@@ -65,6 +65,7 @@ Status: Major roles clarified; exact transaction records remain open.
 - **Later, they purchased the 503 Main building itself.**
 - **Later, when they sold The Wheel business, they also sold the 503 building.**
 - Richard M. Wiitanen is independently documented as owner of The Wheel Cafe business at 503 in August 1985 (`E-049`).
+- Official OLCC indexed license text later names **Maurice Enterprises Inc** as licensee for **The Wheel Bar & Grill, 503 Main**, license 104145 expiring 31 March 2009 (`E-225` / `S-251`; OCR/TEXT ONLY pending visual PDF-page recovery). This narrows the later business-successor bracket but does not date the Wiitanen sale or 503 real-estate conveyance.
 
 Still open for 503: exact business-sale date from Raye; exact later property-purchase date and seller; exact combined business/building sale date and buyer; deeds, sale agreements, and liquor-license transfer records.
 

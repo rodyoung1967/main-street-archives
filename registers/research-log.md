@@ -685,3 +685,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 Main occupant was established in these 28 pages. This is bounded coverage only, not vacancy/non-use evidence.
 - Non-overlapping monthly sample + January + February continuation progress is now **18 complete tracked issues / 148 visually verified pages**.
 - 1917 remains **IN PROGRESS**; true 13 Dec p21, Sohns & Woodbeck Oregon City section, and remaining annual relevant-title/page audit stay open.
+
+## Grisham/Wiitanen targeted 503/505 pass — 5 September 2026
+
+- Visually verified the Oregon City cemetery row recording **Raye W. Grisham — maiden Weaver** (`S-249` / `E-223`), preserving its age-94 conflict with the obituary.
+- Recovered the 11 July 2012 Oregonian obituary naming **Sheila Wiitanen as Raye's daughter** and Floyd La Farlette / Cliff Grisham as deceased husbands (`S-250` / `E-224`).
+- Recovered official OLCC indexed license text naming **Maurice Enterprises Inc** for **The Wheel Bar & Grill, 503 Main**, license 104145 expiring 31 March 2009 (`S-251` / `E-225`); original PDF page remains a visual-retrieval gap.
+- Tested the **D & S Incorporated** lead. Only tertiary address-history aggregation was recovered; official Oregon corporate filing remained inaccessible through the available registry route. Previously surfaced registry number wording remains unverified and is not accepted into evidence.
+- No new 505 vesting deed was recovered; `MF-034` remains the controlling manual deed-chain route. No outreach or paid search was initiated.

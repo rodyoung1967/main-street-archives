@@ -1473,3 +1473,24 @@ sources:
     notes: "Preserved originals and manifest are under newspapers/oregon-city-courier/1917-february-unsampled/. Selected exact-number anchors repeat 619 Main, 108 Fifth and 612 Main; no exact 501/503/505/507/509/511 Main occupant was established in the bounded batch."
     related_evidence: [E-222]
 
+  - id: S-249
+    name: "Oregon City Mausoleum Burial List, Raye W. Grisham / maiden Weaver"
+    url: "https://www.orcity.org/DocumentCenter/View/646/Mausoleum-Burial-List-by-Last-Name---September-2019-PDF"
+    type: "Official municipal cemetery register PDF; visually verified"
+    notes: "PDF page 49 / viewer index 48 directly records GRISHAM RAYE W., maiden WEAVER, death 6/30/2012, age 94, burial 11/2/2012; age conflicts with S-250 obituary's 93."
+    related_people: [P-006]
+
+  - id: S-250
+    name: "The Oregonian obituary for Raye W. Grisham, 11 July 2012"
+    url: "https://obits.oregonlive.com/us/obituaries/oregon/name/raye-grisham-obituary?id=25350789"
+    type: "Newspaper obituary webpage / family identity source"
+    notes: "Names daughter Sheila Wiitanen and deceased husbands Floyd La Farlette and Cliff Grisham; gives birth 12/30/1918, death 6/30/2012, age 93. Does not mention The Wheel or 503/505."
+    related_people: [P-006, P-008, P-022]
+
+  - id: S-251
+    name: "OLCC licenses-by-type historical PDF, The Wheel Bar & Grill / Maurice Enterprises Inc"
+    url: "https://www.olcc.state.or.us/pdfs/licensesbytype.pdf"
+    type: "Official state liquor-license list; OCR/TEXT ONLY pending page-image verification"
+    notes: "Indexed row: THE WHEEL BAR & GRILL; MAURICE ENTERPRISES INC; 503 MAIN ST, OREGON CITY; license 104145; expires 3/31/09. Direct PDF page retrieval failed in this session."
+    related_businesses: [BUS-004]
+    related_buildings: [B-001]

@@ -2087,3 +2087,43 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant was established in these 28 pages. This is bounded coverage only and is not evidence of vacancy, non-use, demolition or absence.
 Classification: **DOCUMENTED / DIRECT** for the visual-review count and the printed dated address anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible address wording; no occupancy-continuity inference is made.
+
+## E-223 — Oregon City cemetery register identifies Raye W. Grisham's maiden name as Weaver
+Source: `S-249`  
+Related person: `P-006`  
+Type: Official municipal cemetery register; visually verified  
+Claims:
+- City of Oregon City mausoleum register directly records **GRISHAM, RAYE, W.**, maiden name **WEAVER**.
+- It records death **30 June 2012**, burial **2 November 2012**, niche 97, and age **94**.
+- This directly supports **Weaver** as Raye's maiden surname; combined with independently established married surnames, the archive may describe her surname sequence as Weaver → LaFarlette → Grisham.
+- The age-94 field conflicts with `S-250` / `E-224`, which reports age 93 and prints birth 30 Dec. 1918 / death 30 Jun. 2012. Preserve the conflict.
+- The cemetery record does not establish a 503/505 business or property transaction.
+Classification: **DOCUMENTED / DIRECT** for the municipal row and maiden-name field; **UNRESOLVED CONFLICT** for reported age.  
+Confidence: **Very High** for the visually verified row; age conflict retained.
+
+## E-224 — Raye W. Grisham obituary directly confirms Sheila Wiitanen as daughter and husband sequence
+Source: `S-250`  
+Related people: `P-006`, `P-008`, `P-022`  
+Type: Contemporary newspaper obituary / family identity evidence  
+Claims:
+- The Oregonian obituary published **11 July 2012** identifies **Raye W. Grisham**, birth **30 Dec. 1918**, death **30 Jun. 2012**, age **93**.
+- It names daughters **Carol Stover and Sheila Wiitanen**.
+- It says Raye was preceded in death by husbands **Floyd La Farlette** and **Cliff Grisham**.
+- It independently corroborates the Raye→Sheila family relationship relevant to the later Grisham→Wiitanen Wheel business history.
+- It does **not** mention The Wheel, 503 Main, 505 Main, or a business/property transfer.
+- Its age 93 conflicts with the municipal cemetery row's age 94 (`E-223`), although the obituary's printed birth/death dates are consistent with age 93.
+Classification: **DOCUMENTED / DIRECT** for the obituary wording and relationships; no address/business-transfer inference.  
+Confidence: **High** for family/identity facts as published obituary evidence; age conflict preserved.
+
+## E-225 — OLCC indexed license text places Maurice Enterprises Inc with The Wheel Bar & Grill at 503 Main
+Source: `S-251`  
+Related building/business: `B-001` / `BUS-004`  
+Type: Official state liquor-license list text; original PDF page not visually recovered in this session  
+Claims:
+- Official OLCC indexed PDF text lists **THE WHEEL BAR & GRILL** with licensee **MAURICE ENTERPRISES INC** at **503 MAIN ST, OREGON CITY, OR 97045**.
+- The row gives license number **104145** and expiration **31 March 2009**.
+- This provides an independent later operating-license endpoint after `E-049`'s August 1985 Richard M. Wiitanen ownership anchor.
+- It does not state when the Wiitanens sold The Wheel business, who purchased the 503 real estate, whether business and property transfers were simultaneous, or whether Maurice Enterprises held title.
+- Direct PDF/page-image retrieval failed in this session, so the evidence remains **OCR/TEXT ONLY** pending visual verification.
+Classification: **OCR/TEXT ONLY** from an official state PDF index; **RETRIEVAL GAP** for page-image certification.  
+Confidence: **High** for the indexed state-license row; exact transfer mechanics/date unresolved.

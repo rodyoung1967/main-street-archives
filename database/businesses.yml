@@ -52,7 +52,7 @@ businesses:
     name: The Wheel
     repository_file: businesses/the-wheel.md
     address: 503 Main
-    notes: The Wheel was only at 503 Main and was never a 505 Main business. Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503; the surname change is not a business transfer. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. June 7 1967 Commission minutes place the Wheel at 503 Main Street. A 2017 article's phrase "The Wheel Tavern" is source wording only; family correction says it was never an official business name. The former Mrs. Nemeth/Nesmeth property-purchase claim does not belong to 503; that purchase was 505 Main.
+    notes: The Wheel was only at 503 Main and was never a 505 Main business. Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503; the surname change is not a business transfer. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. OLCC indexed license text later names Maurice Enterprises Inc as licensee for The Wheel Bar & Grill at 503, license 104145 expiring 3/31/09; this is a later operating-license endpoint, not a deed/sale date. June 7 1967 Commission minutes place the Wheel at 503 Main Street. A 2017 article's phrase "The Wheel Tavern" is source wording only; family correction says it was never an official business name. The former Mrs. Nemeth/Nesmeth property-purchase claim does not belong to 503; that purchase was 505 Main.
     related_buildings:
       - B-001
     related_people:
@@ -70,6 +70,7 @@ businesses:
       - E-048
       - E-049
       - E-206
+      - E-225
   - id: BUS-005
     name: 505 Tavern
     repository_file: businesses/the-505.md

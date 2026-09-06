@@ -66,6 +66,7 @@ buildings:
       - E-211
       - E-213
       - E-217
+      - E-225
 
       - E-219
     related_sources:
@@ -89,6 +90,7 @@ buildings:
       - S-237
       - S-239
       - S-243
+      - S-251
 
       - S-245
     related_maps:

@@ -2000,3 +2000,31 @@ Retrieval commit: `a89ae39e96f8094e7556a0c0605b2093c7687491`
 Related evidence: `E-222`.  
 Capture: `evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md`.  
 Notes: This completes the three February issues not already represented by the 1 February monthly sample. Selected visible anchors include 619 Main, 108 Fifth, and 612 Main. No exact 501/503/505/507/509/511 Main occupant was established in this bounded batch; silence is not vacancy evidence.
+
+## S-249 — Oregon City Mausoleum Burial List, Raye W. Grisham / maiden Weaver
+Type: Official municipal cemetery register PDF; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: City of Oregon City.  
+Document: **Mausoleum Burial List by Last Name**, dated **5 September 2019**.  
+Page: PDF page 49 / viewer index 48.  
+URL: https://www.orcity.org/DocumentCenter/View/646/Mausoleum-Burial-List-by-Last-Name---September-2019-PDF  
+Related evidence/person: `E-223` / `P-006`.  
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Notes: Direct row records **GRISHAM, RAYE, W., maiden WEAVER**, death 6/30/2012, age 94, burial 11/2/2012, niche 97. Age conflicts with `S-250` obituary's 93; preserve both.
+
+## S-250 — The Oregonian obituary for Raye W. Grisham, 11 July 2012
+Type: Newspaper obituary webpage / family identity source; page text directly inspected 5 September 2026.  
+Publication: **The Oregonian**.  
+Publication date: **11 July 2012**.  
+URL: https://obits.oregonlive.com/us/obituaries/oregon/name/raye-grisham-obituary?id=25350789  
+Related evidence/people: `E-224` / `P-006`, `P-008`, `P-022`.  
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Notes: Obituary identifies Raye W. Grisham, age 93, birth 30 Dec. 1918, death 30 June 2012; daughters Carol Stover and Sheila Wiitanen; deceased husbands Floyd La Farlette and Cliff Grisham. It does not mention The Wheel or either Main Street address.
+
+## S-251 — OLCC licenses-by-type historical PDF, The Wheel Bar & Grill / Maurice Enterprises Inc
+Type: Official state liquor-license list; **OCR/TEXT ONLY / OFFICIAL INDEXED PDF TEXT — page-image retrieval gap**.  
+Agency: Oregon Liquor Control Commission.  
+URL: https://www.olcc.state.or.us/pdfs/licensesbytype.pdf  
+Indexed row: **THE WHEEL BAR & GRILL — MAURICE ENTERPRISES INC — 503 MAIN ST, OREGON CITY, OR 97045 — license 104145 — expires 3/31/09**.  
+Related evidence/building/business: `E-225` / `B-001` / `BUS-004`.  
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Notes: The direct PDF open/page-image route failed in this session, so retain OCR/TEXT ONLY status. The row establishes a later state-license association but not the Wiitanen sale date or real-estate title.

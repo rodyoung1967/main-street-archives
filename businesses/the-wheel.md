@@ -4,7 +4,7 @@
 
 - Business ID: `BUS-004`
 - Related building: `B-001` (503 Main Street)
-- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`
+- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-225`
 - Related people: `P-006`, `P-010`, `P-022`, `P-007`, `P-008`
 
 ## Known / Working History
@@ -13,7 +13,7 @@
 
 Family confirmation: **Raye Grisham** (`P-006`, formerly Raye LaFarlette) bought The Wheel at 503 Main. Raye LaFarlette and Raye Grisham are the same woman; the surname change is not itself a business transfer.
 
-Oregon City Commission minutes of **7 June 1967** place "the Wheel" at **503 Main Street** (`E-025`). Newspapers document **Wheel Cafe**, **Wheel Restaurant**, and **The Wheel Cafe** at this location; August 1985 reporting identifies **Richard M. Wiitanen** as owner of The Wheel Cafe (`E-049`).
+Oregon City Commission minutes of **7 June 1967** place "the Wheel" at **503 Main Street** (`E-025`). Newspapers document **Wheel Cafe**, **Wheel Restaurant**, and **The Wheel Cafe** at this location; August 1985 reporting identifies **Richard M. Wiitanen** as owner of The Wheel Cafe (`E-049`). Official OLCC indexed license text later lists **The Wheel Bar & Grill — Maurice Enterprises Inc — 503 Main — license 104145 — expires 31 March 2009** (`E-225`). That state-list row remains OCR/TEXT ONLY until the original PDF page can be visually opened, and it does not prove the exact Wiitanen sale or deed date.
 
 A 2017 article uses **"The Wheel Tavern"** (`E-001`), but family correction says this was never an official business name. Preserve it only as source wording.
 
@@ -43,6 +43,7 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 - Family confirmation: **Raye sold The Wheel business to Dick and Sheila.**
 - Family confirmation: **Dick and Sheila later bought the 503 building.**
 - Richard M. Wiitanen is independently documented as owner of **The Wheel Cafe business at 503 Main** in August 1985 (`E-049`).
+- OLCC indexed license text later identifies **Maurice Enterprises Inc** as licensee for **The Wheel Bar & Grill at 503 Main**, license 104145 expiring **31 March 2009** (`E-225`; OCR/TEXT ONLY pending visual page verification).
 - Family confirmation: **Dick and Sheila later sold The Wheel business and the 503 building together.**
 - A 2010 Portland Mercury feature identifies the Wheel Lounge at 503 Main (`S-029`); this is secondary naming evidence and not proof of a formal legal name.
 
