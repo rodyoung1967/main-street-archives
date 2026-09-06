@@ -514,3 +514,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0761` CCHS `P-5577` | `S-241`, `E-215`, `T-089`; `B-001`, `B-002`, `B-005` context | 1922 aerial of Willamette Falls/West Linn/Oregon City. Fifth/Main target district is in frame, but exact 501/503/505 detail and pre/post-July-fire state are unresolved because the catalog gives no month. Companion sequence: P-4776/P-5578/P-5579/P-5580. |
 
 | `IMG-0762` / `S-242` / `E-216` / `T-090` / CCHS `P-5578` | `B-005`; cross-check `S-241` / `E-215` / `IMG-0761` and `E-097` | CCHS title says 1922 but Date made says 1927. At the steward-mapped historic 501 position, the visible mass appears two stories tall; exact 501 number and Gates identity remain unresolved. |
+
+| `IMG-0763` / `S-243` / `E-217` / CCHS `P-1241` | `B-005`, `B-001`, `B-002`; `T-091` | Circa-1900 bluff view titled Main between Fifth and Seventh; steward maps far-left frontage to later 501-505 area. Exact numbered boundaries/building continuity unresolved. |

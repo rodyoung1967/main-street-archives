@@ -1418,3 +1418,13 @@ sources:
     related_media: [IMG-0762]
     related_buildings: [B-005]
 
+  - id: S-243
+    name: "CCHS P-1241 — circa-1900 bluff view, Main between Fifth and Seventh"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets"
+    type: "Primary historic photograph with CCHS institutional catalog metadata"
+    date: "ca. 1900 (from institutional title; separate Date made field not recovered)"
+    repository_file: "media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg"
+    notes: "Institutional title locates Main between Fifth and Seventh; steward maps far-left frontage to later 501-505 area. Exact numbered boundaries/building continuity unresolved."
+    related_evidence: [E-217]
+    related_media: [IMG-0763]
+

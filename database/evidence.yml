@@ -3297,3 +3297,18 @@ evidence:
     related_buildings: [B-005]
     repository_file: "evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-501-two-story-2026-09-05.md"
 
+  - id: E-217
+    name: "Circa-1900 bluff view preserves the Main/Fifth-to-Seventh streetscape and probable 501-505 predecessor frontage"
+    type: "Primary historic photograph / early streetscape and building-geometry evidence"
+    date: "ca. 1900 (from institutional title; separate Date made field not recovered)"
+    claims:
+      - "CCHS P-1241 title locates Main between Fifth and Seventh Streets."
+      - "Far-left early commercial frontage is visually present."
+      - "Project steward identifies that frontage as the historic area later numbered 501-505 Main."
+      - "No later address numbers are readable; individual boundaries and building continuity remain unresolved."
+    confidence: "Very High for object/title geography; Moderate-to-High for later-area mapping; unresolved for individual address footprints."
+    related_sources: [S-243]
+    related_media: [IMG-0763]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/cchs-p1241-ca1900-bluff-main-5th-7th-target-frontage-2026-09-05.md"
+

@@ -191,3 +191,7 @@ CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district wi
 CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is cataloged with a **Date made field of 1927**, despite an institutional title containing `1922`. At the project-steward mapped historic 501 position, the visible building mass appears **two stories tall**. The photograph does not show a readable `501`, so exact numbered identification is **PROBABLE / WORKING HYPOTHESIS**, not direct address evidence.
 
 This is structurally compatible with the **two-story hollow-tile** Gates Fifth/Main replacement documented in August 1922 (`E-097`) and provides a useful post-1925 visual control. It does not prove that the visible 1927 mass is the Gates building or resolve whether Gates's two ground-floor storerooms became later 501 alone, 501+503, or another arrangement.
+
+### Circa-1900 P-1241 bluff-view frontage context
+
+CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**, independently fixing the photographed Main Street span between Fifth and Seventh. The project steward identifies the far-left visible frontage as the area later numbered 501-505 Main. The frontage itself is visible, but this photograph does **not** show a readable `501` number or prove individual later-address boundaries/building continuity. Use as **PROBABLE spatial context** pending Sanborn/photo alignment.

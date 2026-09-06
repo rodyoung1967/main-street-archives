@@ -254,3 +254,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - CCHS: `P-1043`; Society Photo #168; Date made **1930–1939**
 - Key value: view south from Sixth toward Fifth with a dense readable business-sign sequence on both sides of Main; useful for exact-address reconstruction and cross-checking 503/505.
 - Limit: this frame does not securely yield a direct Farr/503/505 sign reading.
+
+### IMG-0763 — CCHS P-1241 circa-1900 Main-between-Fifth-and-Seventh bluff view
+- File: `media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg`
+- Source/evidence: `S-243` / `E-217`.
+- Institutional title places the view on Main between Fifth and Seventh; steward identifies the far-left frontage as the later 501-505 area.
+- Limit: exact numbered boundaries and continuity to later buildings are not proved by the photograph alone.

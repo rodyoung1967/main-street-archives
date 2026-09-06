@@ -635,3 +635,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - The 1927 two-story state is compatible with the two-story Gates Fifth/Main replacement independently reported in August 1922 (`E-097`) but does not prove identity or resolve the 501-versus-501+503 footprint model.
 - `P-5578` is companion-series exposure #2; remaining `P-4776`, `P-5579`, and `P-5580` should be checked individually for their own Date made fields. Do not assume all companion images share a 1922 date.
 - No annual closeout status changed.
+
+### 2026-09-05 — CCHS P-1241 circa-1900 bluff view
+- Integrated project-steward supplied CCHS `P-1241` as `IMG-0763` / `S-243` / `E-217` / `T-091`.
+- Institutional title: **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**; it independently locates Main between Fifth and Seventh.
+- Steward original preserved by filename, dimensions, bytes and SHA-256 `af12fed120f6c9e3a3c92de1302868df2cbe02d916ad7d68b640a8fa80b20d9e`; canonical repository binary is the largest exact-object CCHS derivative.
+- Direct visual review confirms the far-left early commercial frontage. Steward identifies it as the later 501-505 area; exact individual-number boundaries and building continuity remain probable/unresolved rather than direct.
+- No annual research-status certification changed.

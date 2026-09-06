@@ -1,0 +1,268 @@
+{
+  "reviewed": "2026-09-05",
+  "institution": "Clackamas County Historical Society",
+  "catalog": "P-1241",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/00455f90-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets",
+  "live_title": "Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets",
+  "live_description": "Oregon City from the Bluff, 5th to 7th Streets.",
+  "live_date_made": "ca. 1900 (from institutional title; separate Date made field not recovered)",
+  "live_medium": null,
+  "live_location_of_negative": null,
+  "live_other_number": null,
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 1122,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-vdUem6H.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 2244,
+    "bytes": 909720,
+    "sha256": "521c823280fa66ce87f4b6494c5d41476989470b69dee484442f984aa12a2621"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Street.jpg",
+    "width": 2048,
+    "height": 1914,
+    "bytes": 1045002,
+    "sha256": "af12fed120f6c9e3a3c92de1302868df2cbe02d916ad7d68b640a8fa80b20d9e"
+  },
+  "steward_target_annotation": "Project steward identifies the far-left Main Street frontage in this view as the historic area later numbered 501-505 Main.",
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "00455f90-9b1f-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets",
+    "media": [
+      {
+        "uuid": "2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-sunfdhv.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-sunfduy.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-vdUem6H.sm@1x.jpg",
+            "width": 768,
+            "height": 718
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-vdUem6H.sm@2x.jpg",
+            "width": 768,
+            "height": 718
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-vdUem6H.lg@1x.jpg",
+            "width": 1200,
+            "height": 1122
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/2dcb94b0-9b8e-11eb-8d59-b7d9fd36cc45-vdUem6H.lg@2x.jpg",
+            "width": 1200,
+            "height": 1122
+          },
+          "dominant_color": "F4F4F4",
+          "complementary_color": "F4F4F4"
+        }
+      },
+      {
+        "uuid": "cda46620-9b7e-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Oregon City from the Bluff, 5th to 7th Streets., 1900-1910",
+        "description": "Copyright: None; Origsize: 8\" x 10\"; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/cda46620-9b7e-11eb-97c3-a30f15c9573f-sunF5Ym.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/cda46620-9b7e-11eb-97c3-a30f15c9573f-sunF50U.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cda46620-9b7e-11eb-97c3-a30f15c9573f-vdUem6H.sm@1x.jpg",
+            "width": 768,
+            "height": 718
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cda46620-9b7e-11eb-97c3-a30f15c9573f-vdUem6H.sm@2x.jpg",
+            "width": 768,
+            "height": 718
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cda46620-9b7e-11eb-97c3-a30f15c9573f-vdUem6H.lg@1x.jpg",
+            "width": 850,
+            "height": 795
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/cda46620-9b7e-11eb-97c3-a30f15c9573f-vdUem6H.lg@2x.jpg",
+            "width": 850,
+            "height": 795
+          },
+          "dominant_color": "F3F4F3",
+          "complementary_color": "F4F3F4"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1241",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City from the Bluff, 5th to 7th Streets.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1896",
+                "fuzzydate_date": "1896-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 4
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001241",
+    "prev_id": "fc39e970-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "ff396dd0-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

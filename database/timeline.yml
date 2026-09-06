@@ -932,3 +932,13 @@ timeline:
     related_media: [IMG-0762]
     related_buildings: [B-005]
 
+  - id: T-091
+    date: "ca. 1900 (from institutional title; separate Date made field not recovered)"
+    title: "P-1241 bluff view preserves early Fifth-to-Seventh Main frontage"
+    summary: "CCHS P-1241 locates Main between Fifth and Seventh; far-left frontage is steward-mapped to the later 501-505 area, with exact address boundaries and building continuity unresolved."
+    confidence: "Very High for catalog geography; probable for later 501-505 area mapping."
+    related_sources: [S-243]
+    related_evidence: [E-217]
+    related_media: [IMG-0763]
+    related_buildings: [B-005, B-001, B-002]
+

@@ -1929,3 +1929,15 @@ Capture: `evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-west-linn-and-oregon-city  
 Related evidence/media/timeline/building: `E-216` / `IMG-0762` / `T-090` / `B-005`.  
 Notes: At the steward-mapped historic 501 position, the visible building mass appears two stories tall. Exact 501 numbering is not visible and remains a spatial mapping inference. The 1927 state is compatible with the two-story Gates replacement documented in 1922 but does not prove building identity.
+
+## S-243 — CCHS P-1241 — circa-1900 bluff view, Main between Fifth and Seventh
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `P-1241`.  
+Date: **ca. 1900 (from institutional title; separate Date made field not recovered)**; institutional title says **1900 ca**.  
+Repository image: `media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg`.  
+Capture: `evidence/source-captures/cchs-p1241-ca1900-bluff-main-5th-7th-target-frontage-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets  
+Related evidence/media/timeline: `E-217` / `IMG-0763` / `T-091`.  
+Related buildings: `B-005`, `B-001`, `B-002`.  
+Notes: Institutional title locates Main between Fifth and Seventh. Steward identifies the far-left frontage as the later 501-505 area; exact numbered boundaries and building continuity remain unresolved.

@@ -381,3 +381,7 @@ CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761` / `T-089`) explicitly names compan
 ### P-5578 companion-series date/footprint follow-up
 
 CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is now reviewed. Its title contains **1922**, but its separate Date made field is **1927**, while already archived `P-5577` has Date made **1922**. Therefore the companion list must not be assumed to be one same-date flight. Retrieve `P-4776`, `P-5579`, and `P-5580` individually, record each Date made field, and compare the steward-mapped 501/503/505 footprint and story heights. Highest-value test: determine whether the apparent two-story 501-position mass persists consistently and whether any angle clarifies the Gates 501-alone versus 501+503 model.
+
+### P-1241 circa-1900 far-left frontage alignment
+
+CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763` / `T-091`) explicitly locates the photographed Main Street span between Fifth and Seventh. The steward maps the far-left frontage to the later 501-505 area. Align that frontage against the 1892/1900 Sanborn sheets and 1895/1907-1916 photographs using party walls, roof heights, setbacks, Fifth Street alignment and adjacent building rhythm. Goal: determine whether any visible circa-1900 mass can be securely mapped to later 501, 503 or 505 without assuming address continuity equals building continuity.

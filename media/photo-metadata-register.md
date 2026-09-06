@@ -1705,3 +1705,14 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Status: `committed`
 - Visual review: at the steward-mapped historic 501 position, the building mass appears **two stories tall**. No `501` number is readable, so exact address mapping remains probable rather than direct.
 - Structural comparison: compatible with the two-story Gates Fifth/Main replacement reported in August 1922 (`E-097`); identity not proved.
+
+## IMG-0763 — CCHS P-1241 circa-1900 bluff view, Main between Fifth and Seventh
+- Source/evidence/timeline: `S-243` / `E-217` / `T-091`
+- CCHS object: **P-1241**
+- CCHS title: **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**
+- Date made: **ca. 1900 (from institutional title; separate Date made field not recovered)**
+- Repository file: `media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg`
+- Repository dimensions: **2400 × 2244**; 909,720 bytes; SHA-256 `521c823280fa66ce87f4b6494c5d41476989470b69dee484442f984aa12a2621`
+- Steward original: `Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Street.jpg`; 2048×1914; 1,045,002 bytes; SHA-256 `af12fed120f6c9e3a3c92de1302868df2cbe02d916ad7d68b640a8fa80b20d9e`
+- Status: `committed`
+- Visual note: early Main Street frontage is visible at far left. Steward maps it to the later 501-505 area; no address numbers are readable and individual building continuity remains unresolved.

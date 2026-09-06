@@ -2003,3 +2003,15 @@ Claims:
 - This photograph does not resolve whether the Gates building mapped to later 501 alone, 501+503, or another room/footprint arrangement.
 Classification: **DOCUMENTED / DIRECT** for CCHS metadata; **VISUALLY VERIFIED** for apparent two-story mass; **PROBABLE / WORKING HYPOTHESIS** for exact 501 assignment; **STRONG CROSS-SOURCE COMPATIBILITY** with the Gates two-story rebuild description.  
 Confidence: **High** for visual story-height interpretation at the mapped position; exact numbered-address/building identity remains unresolved.
+
+## E-217 — Circa-1900 bluff view preserves the Main/Fifth-to-Seventh streetscape and probable 501-505 predecessor frontage
+Source: `S-243`  
+Media: `IMG-0763`  
+Type: Primary historic photograph / early streetscape and building-geometry evidence  
+Claims:
+- CCHS `P-1241` is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**, explicitly locating the photographed Main Street span between **5th and 7th Streets**.
+- Direct visual review confirms an early commercial frontage at the far-left side of the image.
+- Project steward identifies that far-left frontage as the historic area later numbered **501-505 Main**.
+- Because no later street number is readable and address/building continuity cannot be assumed across circa 1900, the exact 501/503/505 boundaries remain unresolved.
+Classification: **DOCUMENTED / DIRECT** for object/title and broad streetscape; **VISUALLY VERIFIED** for the far-left frontage; **PROBABLE / WORKING HYPOTHESIS** for later 501-505 mapping; **UNRESOLVED** for individual boundaries and building continuity.  
+Confidence: **Very High** for object identity/title geography; **Moderate-to-High** for the steward-mapped 501-505 area; unresolved for individual-address footprints.
