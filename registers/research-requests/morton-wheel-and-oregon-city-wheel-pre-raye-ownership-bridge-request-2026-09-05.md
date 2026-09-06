@@ -243,3 +243,31 @@ Please incorporate this into the Washington transportation-record lookup. In add
 Geographic priorities should include **Morton**, nearby **Mineral, Mossyrock, Packwood and Randle**, broader **eastern Lewis County**, then **Centralia/Chehalis**. Please do not treat those places as asserted residences; they are search targets based on family recollection.
 
 The known **Anderson-LaFarlette Coos Bay–Powers** route in Oregon is independently documented and should be treated as a separate route unless a Washington record explicitly connects the operations.
+
+## Supplemental named-person bridge test — Albert D. Flor / Margaret Remus
+<!-- Albert Flor Morton bridge pass — 2026-09-06 -->
+
+A new candidate-person pass should be incorporated into **Requests A–C** and the broader MF-052 search.
+
+The project's existing official-secondary evidence places **Mr. and Mrs. Albert D. Flor** in a restaurant/cocktail-bar operation at **503 Main, Oregon City, in 1957**. Newly recovered searchable text from the official **5 December 1951 Oregon City Commission** minutes lists **Albert D. Flor and Margaret Remus** together among approved liquor-license applicants. The accessible 1951 text does **not** give their premises or trade name, so it must not yet be treated as a 503 Main license.
+
+### Add to Washington / Morton searches
+
+Please check these names and variants in the **1945–7 August 1947 Morton Journal**, any directory that actually covers Morton, and historical Washington liquor-license/application files:
+
+- **Albert D. Flor**
+- **Albert Flor**
+- **A. D. Flor**
+- **Mrs. Albert D. Flor**
+- **Margaret Remus**
+- OCR variants of `Flor` when practical (`Florr`, `Flore`, `Floor`) only as discovery terms, not identity matches
+
+Search with **Wheel Cafe / The Wheel Cafe / Wheel**, restaurant/cafe/cocktail-bar terms, and owner/proprietor/manager/employee/licensee/transfer language. For Washington liquor records, extend the named-person check through approximately **1957** if the index permits, because the exact date of any hypothesized move from Morton to Oregon City is not established.
+
+A broad public-index pass on 6 September 2026 found **no reliable Flor/Remus Morton or eastern Lewis County hit**. Treat that as an online-access result only; the principal Morton newspaper and directory coverage gaps remain.
+
+### Add to Oregon license-chain search
+
+Before limiting the Oregon OLCC lookup to 1958–1967, ask whether predecessor records can identify the **licensed premises, trade name, license class, renewals, partners and transfers** associated with **Albert D. Flor and Margaret Remus from December 1951 forward**. The goal is to determine whether the 1951 approval can be tied to **503 Main**, whether Flor/Remus continue there through the documented 1957 operation, and who succeeded them before/by the Wheel Cafe period.
+
+Do **not** infer that Flor/Remus owned the 503 real estate or the Wheel business merely from liquor-license status. Preserve licensee, operator, business owner, tenant and property owner as separate roles unless contemporary evidence bridges them.

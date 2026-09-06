@@ -328,3 +328,12 @@ Rodney Young additionally believes **Floyd LaFarlette's trucking route stopped a
 Under **MF-052**, expand the Washington carrier-record query to search **Floyd LaFarlette / La Farlette directly**, not only Carl A. Anderson, and include Morton plus nearby eastern Lewis County communities such as Mineral, Mossyrock, Packwood and Randle. This may test whether the Morton family recollection arose from Floyd's transportation work even if a fixed Morton residence cannot be documented.
 
 Keep the documented **Coos Bay–Powers** route separate: no evidence currently shows that the Oregon route extended into Washington.
+
+### MF-052 named-person refinement — Albert D. Flor / Margaret Remus
+<!-- Albert Flor Morton bridge pass — 2026-09-06 -->
+
+A candidate-person bridge pass tested the known **1957 Mr./Mrs. Albert D. Flor restaurant/cocktail-bar operation at 503 Main** against Morton/eastern Lewis County. Public-index searching recovered **no reliable Flor/Remus Morton or Morton Wheel connection**, but official Oregon City Commission searchable text produced an earlier control: on **5 December 1951**, **Albert D. Flor and Margaret Remus** were listed together among approved liquor-license applicants.
+
+The 1951 text does **not** state the premises or trade name and the source page could not be visually rendered in the current environment, so classify it **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP** and do not call it a 503 Main license yet.
+
+Under **MF-052**, add **Albert D. Flor / Albert Flor / A. D. Flor / Mrs. Albert D. Flor / Margaret Remus** to the Morton Journal, verified-coverage directory, and Washington liquor-license searches. On the Oregon side, extend the license-chain test backward to the **December 1951 Flor/Remus approval** and identify its premises/trade name, then trace renewals/transfers through the documented 1957 Flor-at-503 control into the Wheel Cafe period. The public-online Morton no-hit remains a retrieval gap, not negative evidence.
