@@ -2,7 +2,7 @@
 
 Date reviewed: 5 September 2026
 
-Status: **VISUALLY VERIFIED GFO SALES-LIST ROW + CURRENT ORDERING INSTRUCTIONS; ACTUAL CURRENT AVAILABILITY NOT YET CONFIRMED. RETRIEVAL ROUTE ONLY.**
+Status: **VISUALLY VERIFIED CURRENT GFO SALES-LIST ROW + CURRENT ORDERING INSTRUCTIONS; ACTUAL CURRENT PHYSICAL AVAILABILITY NOT YET CONFIRMED. RETRIEVAL ROUTE ONLY.**
 
 Purpose: refine `MF-001` from a general lookup/acquisition lead into the most direct known purchase-confirmation route for the actual **1947–48 Clackamas County Directory**, while preserving the distinction between a sales-list row and confirmed present availability.
 
@@ -21,15 +21,29 @@ Genealogical Forum of Oregon's publicly linked sales material includes the exact
 - quantity shown: **1**;
 - listed price: **$60.00**.
 
-The row was visually verified on the GFO PDF currently linked from its shopping/sales pages. The PDF header itself says **“Updated for 8/24,”** so that particular file must not be treated as a live stock database merely because the GFO website still links it.
+An earlier GFO PDF header said **“Updated for 8/24,”** so that older file could not be treated as a live stock database merely because the GFO website still linked it. A separate GFO lobby-sales list dated **10 October 2025** also continued to list **TF0767 — Clackamas Co. Directory 1947-48 — quantity 1 — $60.00**.
 
-A separate GFO lobby-sales list dated **10 October 2025** also continued to list **TF0767 — Clackamas Co. Directory 1947-48 — quantity 1 — $60.00**.
+### 5 September 2026 current-list confirmation
 
-Therefore the correct present-tense conclusion is:
+A fresh online recheck on **5 September 2026** opened the GFO **current** lobby-sales PDF directly from the live **Shop with Us** page. The PDF was crawled that day and page **19** was visually inspected. It still visibly lists:
 
-> **TF0767 remained publicly offered in GFO sales lists through at least October 2025, and GFO's current shop page still exposes the lobby-sales ordering route; present physical availability must be confirmed with GFO because all items are subject to prior sale.**
+> **TF0767 — Clackamas Co. Directory 1947-48 — Qty 1 — $60.00**
 
-Do not record the directory as acquired, reserved, or currently on the shelf until GFO confirms it.
+Current GFO shop page:
+
+`https://gfo.org/support-us/shop/`
+
+Current lobby-sales PDF observed in this pass:
+
+`https://gfo.org/file_download/inline/15b29c58-c6a6-4696-9cd3-00db8f6ccf04`
+
+A second currently exposed GFO lobby-sales PDF also carried the same TF0767 row with quantity 1 and $60. The current GFO shop page says the lobby-sale list is its **latest list**, but also explicitly instructs buyers to contact Lobby Sales so GFO can **confirm availability and total cost**. Therefore the current row materially strengthens the purchase route but still is not proof that the physical copy remains unsold at the instant of inquiry.
+
+The correct present-tense conclusion is now:
+
+> **As of the 5 September 2026 online recheck, GFO's currently linked lobby-sales list still visually shows TF0767 — Clackamas Co. Directory 1947-48 — quantity 1 — $60.00. GFO must still confirm actual physical availability before the project records the volume as obtainable, reserved, or acquired.**
+
+Do not record the directory as acquired, reserved, or definitely on the shelf until GFO confirms it.
 
 ## Federal registration cross-reference
 
@@ -69,9 +83,9 @@ Before paying for a research lookup, use the direct purchase-confirmation route 
 
 Suggested concise availability message:
 
-> Hello — I am interested in lobby-sale item **TF0767, “Clackamas Co. Directory 1947-48,”** which appears in GFO sales lists at $60. A federal Copyright Office catalog cross-reference for the title is **AA80061**. Would you please confirm whether the copy is still available and provide the total cost for pickup or Media Mail shipping? I am specifically researching the Oregon City section. Thank you.
+> Hello — I am interested in lobby-sale item **TF0767, “Clackamas Co. Directory 1947-48,”** which appears in GFO's current lobby-sales list at $60, quantity 1. A federal Copyright Office catalog cross-reference for the title is **AA80061**. Would you please confirm whether the copy is still available and provide the total cost for pickup or Media Mail shipping? I am specifically researching the Oregon City section. Thank you.
 
-No email was sent in this research pass.
+No email was sent and no purchase was made in this research pass.
 
 ## Why acquisition is higher value than a narrow lookup
 
