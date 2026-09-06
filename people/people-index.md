@@ -185,4 +185,4 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–25 May 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. `E-252` / `S-279`; `E-253` / `S-280`. |
+| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–29 Jun 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281`. |

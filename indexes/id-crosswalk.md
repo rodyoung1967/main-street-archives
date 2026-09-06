@@ -679,3 +679,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `P-396` / `BUS-103` — W. S. Eddy / Fashion Stable Main-between-Fourth/Fifth observation extended through 25 May.
 - `BUS-104` — Farr Brothers Store / Meat Market; 25 May 1917 direct meat-market wording, later official 919 7th / Clarence Farr context; separate from `BUS-013` 505 Main.
 - `T-094` — dated 106 Fifth timeline event.
+
+## S-281 / E-254 — June 1917 Enterprise continuation
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+| Source / evidence | Related entities | Relationship |
+| --- | --- | --- |
+| `S-281` / `E-254` | `P-396`, `BUS-103` | Five June p7 ads continue W. S. Eddy / Fashion Stable at Main between Fourth and Fifth through 29 June; no number. |
+| `S-281` / `E-254` | `BUS-104` | 22 June p6 County Court expenditures include Farr Bros.; no address/proprietor/new trade description. |

@@ -2504,3 +2504,16 @@ Claims:
 - no exact 501/503/505/507/509/511 Main or new 427 Main occupant was established.
 Classification: **DOCUMENTED / DIRECT** for page identity, 106 Fifth, Fashion Stable and Farr Brothers business type; **COVERAGE RESULT ONLY** for no target-address hit.  
 Confidence: **Very High**, with identity/building-continuity limits preserved.
+
+## E-254 — June 1917 Enterprise closes 40-page batch and extends Fashion Stable through June 29
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+Source: `S-281`  
+Type: Primary newspaper visual review  
+Claims:
+- all **40/40 June scans** are visually verified genuine intended-date pages;
+- Enterprise cumulative genuine coverage is **208 pages through June**, with **206 July–December exposed slots remaining**;
+- 1/8/15/22/29 June p7 directly repeat W. S. Eddy / Fashion Stable **between Fourth and Fifth on Main Street**, extending the verified 1917 observation through 29 June;
+- 22 June p6 directly includes Farr Bros. in County Court expenditures but prints no address, proprietor or new trade description;
+- no exact 501/503/505/507/509/511 Main or new 427 Main occupant was established.
+Classification: **DOCUMENTED / DIRECT** for page identity and printed Fashion Stable/Farr wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
+Confidence: **Very High**, with exact-number, identity and continuity limits preserved.

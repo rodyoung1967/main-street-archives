@@ -1764,3 +1764,12 @@ sources:
     repository_file: "evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md"
     notes: "May complete; direct 106 Fifth enlistment use, Fashion Stable continuation and Farr Brothers Meat market wording."
     related_evidence: [E-253]
+
+  - id: S-281
+    name: "Oregon City Enterprise, June 1917 complete scan-first visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/"
+    type: "Primary newspaper page scans; 40/40 genuine pages visually verified"
+    date: "1917-06-01 through 1917-06-29"
+    repository_file: "evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md"
+    notes: "June complete; Fashion Stable continues through 29 June and Farr Bros. appears in 22 June county expenditures; no exact target Main occupant."
+    related_evidence: [E-254]

@@ -178,7 +178,7 @@ These records were already part of the evidence narrative but previously lacked 
 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
-| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–25 May 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. May ads extend direct observation through 25 May. `E-252` / `S-279`; `E-253` / `S-280`. |
+| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–29 Jun 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. June ads extend direct observation through 29 June. `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281`. |
 
 ## May 1917 Enterprise business promotion
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
@@ -186,3 +186,9 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
 | BUS-104 | [Farr Brothers Store / Meat Market](farr-brothers-store.md) | 1917 exact address unresolved; official Farr Store context is 919 7th | 25 May 1917 directly says **Farr Brothers Meat market**; 1922 primary sources say Grocers/Butchers. Official City history links the store to Louis/Clarence Farr. Strictly separate from Edwin/Alice Farr and 505 Main pool hall. `E-253` / `S-280`. |
+
+
+## June 1917 Enterprise continuation
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+`BUS-104` Farr Brothers receives a second 1917 dated observation: 22 June p6 County Court expenditures include **Farr Bros.** (`E-254` / `S-281`), without address or new trade description. No 505 Main relationship is inferred.

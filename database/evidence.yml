@@ -3786,3 +3786,18 @@ evidence:
       - "No exact target Main occupant established in May."
     confidence: "Very High for visible wording and counts; inference limits retained."
     related_sources: [S-280]
+
+  - id: E-254
+    name: "June 1917 Enterprise closes 40-page batch and extends Fashion Stable through June 29"
+    type: "Primary newspaper visual review"
+    date: "1917-06-01 through 1917-06-29"
+    claims:
+      - "All 40 June pages visually verified."
+      - "Enterprise cumulative genuine coverage: 208 pages through June; 206 July-December slots remain."
+      - "1/8/15/22/29 June p7 repeat W. S. Eddy/Fashion Stable between Fourth and Fifth on Main Street."
+      - "22 June p6 includes Farr Bros. in County Court expenditures without address or named proprietor."
+      - "No exact target Main occupant established in June."
+    confidence: "Very High for visible wording and counts; inference limits retained."
+    related_businesses: [BUS-103, BUS-104]
+    related_people: [P-396]
+    related_sources: [S-281]

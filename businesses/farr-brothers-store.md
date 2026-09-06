@@ -11,3 +11,9 @@ Business ID: `BUS-104`. Official identity context includes Clarence P. Farr (`P-
 ## No-merge rule
 
 Do not merge this grocery/meat business with Edwin F. Farr, Alice Farr, **Farr's Pool Hall (`BUS-013`) at 505 Main**, Carl Harr or Harr's Recreation Center. The 1917 evidence does not establish exact address, title or named operators.
+
+
+## June 1917 continuation
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+**22 June p6** includes **Farr Bros.** in County Court expenditures (`E-254` / `S-281`). This confirms another dated local supplier/business appearance but supplies no address, individual proprietor or new trade type. The 25 May **Meat market** wording remains the stronger 1917 business-type observation.

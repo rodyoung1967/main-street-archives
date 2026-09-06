@@ -437,3 +437,8 @@ The same April batch leaves true 13 April printed Page 8 as retrieval gap `MF-05
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
 
 May is complete 32/32 (`S-280` / `E-253`), cumulative **168 genuine Enterprise pages through May**. Continue with **June 1/8/15/22/29 (40 exposed slots)** using printed-date/page-number audit before content promotion. Preserve the open exact 503/505 occupant question. Separately, `B-018` establishes a 106 Fifth recruiting-use anchor and `BUS-104` strengthens the non-505 Farr Brothers grocery/meat identity.
+
+## 6 September 2026 — June Enterprise extends Fashion Stable observation
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+`S-281` / `E-254` extends the direct W. S. Eddy / Fashion Stable **Main-between-Fourth/Fifth** observation through **29 June 1917**. Continue searching move notices, directories, licenses and property records for the transition from the 1915 Fifth-between-Main/Water location. The longer 1917 span still supplies no exact number and does not bridge W. S. Eddy to W. B. Eddy/427 Main. June's Farr Bros. expenditure appearance likewise supplies no 505 Main bridge.

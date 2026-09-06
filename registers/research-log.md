@@ -869,3 +869,11 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Extended `P-396` / `BUS-103` Fashion Stable through 25 May.
 - Added `BUS-104` Farr Brothers Store / Meat Market from direct 1917 meat-market wording plus existing 1922/official identity context; no Edwin/Alice/505 merge.
 - No exact 501/503/505/507/509/511 Main occupant established in May; no vacancy inference.
+
+### 2026-09-06 — closed June 1917 Enterprise visual batch
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+- Visually reviewed **40/40 genuine pages** for 1/8/15/22/29 June; no June page-association gap.
+- Enterprise cumulative genuine coverage is **208 pages through June**; **206 July–December exposed slots remain**. Earlier 16 Mar p5 and 13 Apr p8 gaps remain.
+- `S-281` / `E-254` extend W. S. Eddy / Fashion Stable at Main between Fourth/Fifth through 29 June and add a 22 June Farr Bros. County Court expenditure appearance.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established. This is bounded coverage, not vacancy evidence.

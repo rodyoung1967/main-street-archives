@@ -129,3 +129,8 @@ The missing second local title has now been identified correctly as the weekly *
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
 
 `S-280` / `E-253` closes May at **32/32 genuine visually verified pages** with no May page-identity gap. Enterprise cumulative coverage is **168 genuine intended-date pages through May**; the prior March/April gaps remain and **246 exposed June–December slots** are still pending. May directly establishes 106 Fifth as a National Guard enlistment location (`B-018`), extends W. S. Eddy/Fashion Stable through 25 May, and calls Farr Brothers a Meat market (`BUS-104`). No exact target Main occupant was established; silence is not vacancy evidence.
+
+## Enterprise June audit added 6 September 2026
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+`S-281` / `E-254` closes June at **40/40 genuine visually verified pages** with no June page-identity gap. Enterprise cumulative coverage is **208 genuine intended-date pages through June**; the prior March/April gaps remain and **206 exposed July–December slots** are pending. June extends W. S. Eddy/Fashion Stable at Main between Fourth/Fifth through 29 June and adds a Farr Bros. expenditure appearance without address. No exact target Main occupant was established; silence is not vacancy evidence.

@@ -227,7 +227,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Period | Address / relative location | Business / person | IDs | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
 | Apr.–Jun. 1915 verified span | Fifth Street between Main and Water | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-112`, `E-114`; `S-124`, `S-128` | Relative location only; no number. |
-| 6 Apr.–25 May 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279`; `E-253` / `S-280` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |
+| 6 Apr.–29 Jun. 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |
 
 ## Farr Brothers separate business identity
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
@@ -235,3 +235,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Date | Address | Business | ID | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
 | 25 May 1917 | Not printed | Farr Brothers Meat market | `BUS-104` | `E-253` / `S-280` | Direct business-type wording only; official later context is 919 7th. No Edwin/Alice Farr or 505 merge. |
+
+
+### June 1917 Farr Brothers continuation
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+| Date | Address / location | Business | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 22 Jun. 1917 | Oregon City; exact address not printed | Farr Bros. (`BUS-104`) | `E-254` / `S-281` | County Court expenditure appearance only; no proprietor, new trade type or 505 relationship. |

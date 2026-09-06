@@ -2367,3 +2367,12 @@ Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-25/ed
 Preserved originals: `newspapers/oregon-city-enterprise/1917-may/`; manifest `newspapers/oregon-city-enterprise/1917-may/manifest.json`; retrieval commit `048e4f847c9749889fa377c51ee47196fe2cea6f`.  
 Evidence: `E-253`; capture: `evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md`.  
 Notes: Direct 106 Fifth National Guard enlistment use; W. S. Eddy/Fashion Stable continuation; Farr Brothers Meat market wording. No exact target Main occupant.
+
+## S-281 — Oregon City Enterprise, June 1917 complete scan-first visual-review batch
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.  
+Issue dates: 1, 8, 15, 22 and 29 June 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-june/`; manifest `newspapers/oregon-city-enterprise/1917-june/manifest.json`; retrieval commit `77ec7b746990740ba842e7f451b490cadd07763c`.  
+Evidence: `E-254`; capture: `evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md`.  
+Notes: W. S. Eddy/Fashion Stable repeats through 29 June at Main between Fourth/Fifth; 22 June repeats Farr Bros. in county expenditures. No exact target Main occupant.

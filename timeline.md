@@ -575,3 +575,8 @@ The same April batch reports a preparedness parade beginning at **Fifth and Main
 A visually verified *Oregon City Enterprise* article directly states that Oregon National Guard **enlistments are being received at 106 Fifth street** (`S-280` / `E-253`; `B-018`). This establishes a dated recruiting use, not property ownership, ordinary tenancy or physical continuity.
 
 The May batch also extends **W. S. Eddy / Fashion Stable (`P-396` / `BUS-103`) at Main between Fourth and Fifth through 25 May** and directly calls **Farr Brothers (`BUS-104`) a Meat market** without an address. Neither result establishes a 501/503/505 occupant.
+
+## 29 June 1917 — Fashion Stable relative-location observation continues
+<!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
+
+The 1/8/15/22/29 June *Oregon City Enterprise* p7 professional ads continue to place **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) between Fourth and Fifth on Main Street**, extending the direct 1917 observation through **29 June** (`E-254` / `S-281`). No exact street number, ownership or physical-building continuity is established. The separate W. B. Eddy/427 Main identity remains unmerged.
