@@ -1,0 +1,174 @@
+name: Archive LaFarlette Coquille primary sources
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/archive-lafarlette-coquille-primary-sources.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Retrieve primary page PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import pathlib
+          import requests
+
+          items = [
+              {
+                  'date': '1947-08-07',
+                  'page': 13,
+                  'file': '1947-08-07-p13-anderson-lafarlette-mail-contract.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf',
+              },
+              {
+                  'date': '1951-10-18',
+                  'page': 4,
+                  'file': '1951-10-18-p4-myrtle-lodge-new-owners.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf',
+              },
+              {
+                  'date': '1953-06-11',
+                  'page': 3,
+                  'file': '1953-06-11-p3-myrtle-lodge-banquet.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf',
+              },
+              {
+                  'date': '1954-03-11',
+                  'page': 1,
+                  'file': '1954-03-11-p1-raye-lafarlette-profile.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf',
+              },
+          ]
+
+          out = pathlib.Path('newspapers/coquille-valley-sentinel/lafarlette-primary-sources')
+          out.mkdir(parents=True, exist_ok=True)
+          session = requests.Session()
+          session.headers.update({'User-Agent': 'main-street-archives archival retrieval'})
+
+          manifest_items = []
+          for item in items:
+              r = session.get(item['url'], timeout=90)
+              ctype = r.headers.get('content-type', '').lower()
+              if r.status_code != 200 or not r.content.startswith(b'%PDF'):
+                  raise SystemExit(f"Failed PDF retrieval {item['url']}: status={r.status_code} type={ctype!r} bytes={len(r.content)}")
+              path = out / item['file']
+              path.write_bytes(r.content)
+              manifest_items.append({
+                  **item,
+                  'bytes': len(r.content),
+                  'sha256': hashlib.sha256(r.content).hexdigest(),
+                  'content_type': ctype,
+              })
+              print(item['date'], item['page'], len(r.content), path)
+
+          manifest = {
+              'publication': 'Coquille Valley Sentinel',
+              'lccn': 'sn96088222',
+              'archive': 'Historic Oregon Newspapers / University of Oregon',
+              'purpose': 'Corrective preservation of primary pages already used in Raye/Floyd LaFarlette research',
+              'retrieved_utc_by': 'GitHub Actions',
+              'items': manifest_items,
+          }
+          (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit and push preserved originals
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/coquille-valley-sentinel/lafarlette-primary-sources/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve LaFarlette Coquille newspaper scans'
+            for attempt in 1 2 3 4 5 6; do
+              echo "retrieval push attempt $attempt"
+              if git push origin main; then
+                break
+              fi
+              git pull --rebase origin main
+              python3 scripts/validate_archive.py
+              if [ "$attempt" = 6 ]; then
+                echo 'Unable to push preserved originals.' >&2
+                exit 1
+              fi
+              sleep 2
+            done
+          else
+            echo 'Preserved originals already present.'
+          fi
+
+      - name: Resync after source preservation
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Integrate preserved sources with fresh IDs
+        run: |
+          python3 scripts/integrate_lafarlette_coquille_primary_sources.py
+          python3 scripts/validate_archive.py
+
+      - name: Commit integrated source and evidence records
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+
+          stage_integration () {
+            git add \
+              evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md \
+              evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md \
+              evidence/source-register.md \
+              evidence/evidence-register.md \
+              database/sources.yml \
+              database/evidence.yml \
+              people/profiles/raye-grisham.md \
+              people/profiles/floyd-lafarlette.md \
+              indexes/id-crosswalk.md \
+              registers/research-log.md
+          }
+
+          stage_integration
+          if git diff --cached --quiet; then
+            echo 'Integration already present.'
+            exit 0
+          fi
+          git commit -m 'Register LaFarlette supporting primary sources'
+
+          for attempt in 1 2 3 4 5 6; do
+            echo "integration push attempt $attempt"
+            if git push origin main; then
+              exit 0
+            fi
+
+            echo 'main advanced; rebuild integration from newest main with fresh IDs'
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/integrate_lafarlette_coquille_primary_sources.py
+            python3 scripts/validate_archive.py
+            stage_integration
+            if git diff --cached --quiet; then
+              echo 'Another writer already integrated equivalent records.'
+              exit 0
+            fi
+            git commit -m 'Register LaFarlette supporting primary sources'
+            sleep 2
+          done
+
+          echo 'Unable to push LaFarlette source integration after retries.' >&2
+          exit 1
