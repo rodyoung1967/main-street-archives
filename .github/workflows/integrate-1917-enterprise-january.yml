@@ -1,0 +1,48 @@
+name: Integrate January 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-1917-enterprise-january.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate January Enterprise visual review
+        run: python3 scripts/integrate_1917_enterprise_january.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit integrated records
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md \
+            evidence/source-register.md \
+            evidence/evidence-register.md \
+            database/sources.yml \
+            database/evidence.yml \
+            evidence/source-captures/1917-closeout.md \
+            registers/year-status.md \
+            ARCHIVE_INDEX.md \
+            registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No integration changes.'
+            exit 0
+          fi
+          git commit -m 'Integrate January 1917 Enterprise visual review'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin main
