@@ -1,0 +1,38 @@
+name: Integrate Albert Flor 1949 control
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-albert-flor-1949-control-2026-09-06.yml'
+permissions:
+  contents: write
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate before edit
+        run: python3 scripts/validate_archive.py
+      - name: Integrate 1949 Flor control
+        run: python3 scripts/integrate_albert_flor_1949_oregon_city_control.py
+      - name: Validate after edit
+        run: python3 scripts/validate_archive.py
+      - name: Commit and push
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add evidence/source-captures/albert-d-flor-morton-bridge-pass-2026-09-06.md people/profiles/albert-d-flor-family.md registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Push Flor Oregon City control back to 1949'
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep 2
+          done
+          exit 1
