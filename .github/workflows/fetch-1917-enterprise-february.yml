@@ -70,6 +70,14 @@ jobs:
             exit 0
           fi
           git commit -m 'Archive February 1917 Oregon City Enterprise scans'
-          git pull --rebase origin main
-          python3 scripts/validate_archive.py
-          git push origin main
+          for attempt in 1 2 3 4 5 6; do
+            echo "push attempt $attempt"
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          echo 'Unable to push preserved February scans after retries.' >&2
+          exit 1
