@@ -1,0 +1,49 @@
+name: Query CCHS 1896 Fifth Main Looking NE photo
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/query-cchs-1896-5th-main-looking-ne.yml'
+  workflow_dispatch:
+
+jobs:
+  query:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Query CatalogIt
+        run: |
+          python3 - <<'PY'
+          import json, urllib.parse, urllib.request
+          queries = [
+              "Oregon City 1896 - 5th and Main Street Looking NE",
+              "Oregon City 1896 5th Main Street",
+              "5th and Main Street Oregon City 1896",
+              "Wilhelm Tell House Oregon City",
+              "Schlitz Wilhelm Tell House Oregon City",
+          ]
+          def walk(o):
+              if isinstance(o, dict):
+                  yield o
+                  for v in o.values(): yield from walk(v)
+              elif isinstance(o, list):
+                  for v in o: yield from walk(v)
+          def cat(d):
+              try: return d['properties']['hasCatalogNumber']['value_text']
+              except Exception: return None
+          def name(d):
+              try: return d['properties']['hasName']['value_text']
+              except Exception: return d.get('title') or d.get('name') or d.get('label') or d.get('slug')
+          seen=set()
+          for q in queries:
+              url='https://api.catalogit.app/api/public/search?'+urllib.parse.urlencode({'query':q,'size':100})
+              print('\nQUERY',q,'URL',url)
+              req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 Main-Street-Archive/1.0'})
+              data=json.load(urllib.request.urlopen(req,timeout=90))
+              for d in walk(data):
+                  c=cat(d); nm=name(d); slug=d.get('slug'); did=d.get('id'); acct=d.get('account_id')
+                  key=(c,nm,slug,did,acct)
+                  if c and key not in seen:
+                      seen.add(key)
+                      print('CANDIDATE',c,'|',nm,'| id=',did,'| slug=',slug,'| account=',acct)
+          PY
