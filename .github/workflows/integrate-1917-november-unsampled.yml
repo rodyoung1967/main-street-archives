@@ -1,0 +1,57 @@
+name: Integrate November 1917 visual review
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/integrate_1917_november_unsampled.py"
+      - ".github/workflows/integrate-1917-november-unsampled.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate November visual review
+        run: python3 scripts/integrate_1917_november_unsampled.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit integrated records
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add \
+            evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md \
+            evidence/source-captures/1917-courier-review-start.md \
+            evidence/source-captures/1917-closeout.md \
+            evidence/source-register.md \
+            evidence/evidence-register.md \
+            database/sources.yml \
+            database/evidence.yml \
+            registers/year-status.md \
+            registers/research-log.md \
+            indexes/id-crosswalk.md
+          if git diff --cached --quiet; then
+            echo "No integration changes to commit"
+            exit 0
+          fi
+          git commit -m "Complete November 1917 Courier visual review"
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
