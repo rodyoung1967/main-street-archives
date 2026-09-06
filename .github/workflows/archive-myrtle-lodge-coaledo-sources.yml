@@ -104,12 +104,61 @@ jobs:
       - name: Integrate location evidence with fresh IDs
         run: |
           python3 scripts/integrate_myrtle_lodge_coaledo_location.py
+          python3 - <<'PY'
+          from pathlib import Path
+
+          marker = '<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / evidence -->'
+          p = Path('evidence/evidence-register.md')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace(marker + '\nSource:', marker + '\nType: Primary newspaper page scan batch  \nSource:')
+          p.write_text(t, encoding='utf-8')
+
+          p = Path('evidence/source-register.md')
+          t = p.read_text(encoding='utf-8').replace(
+              'Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947–1954',
+              'Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947-1954',
+          )
+          p.write_text(t, encoding='utf-8')
+
+          p = Path('database/evidence.yml')
+          t = p.read_text(encoding='utf-8').replace(
+              'name: "Myrtle Lodge documented at Coaledo; Town Club candidate remains unbridged"',
+              'name: "Myrtle Lodge is documented at Coaledo; South Powers Town Club House remains an unbridged candidate"',
+          )
+          p.write_text(t, encoding='utf-8')
+          PY
           python3 scripts/validate_archive.py
 
       - name: Commit integrated records
         run: |
           git config user.name main-street-archive-bot
           git config user.email actions@users.noreply.github.com
+
+          normalize_integration () {
+            python3 - <<'PY'
+          from pathlib import Path
+
+          marker = '<!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / evidence -->'
+          p = Path('evidence/evidence-register.md')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace(marker + '\nSource:', marker + '\nType: Primary newspaper page scan batch  \nSource:')
+          p.write_text(t, encoding='utf-8')
+
+          p = Path('evidence/source-register.md')
+          t = p.read_text(encoding='utf-8').replace(
+              'Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947–1954',
+              'Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947-1954',
+          )
+          p.write_text(t, encoding='utf-8')
+
+          p = Path('database/evidence.yml')
+          t = p.read_text(encoding='utf-8').replace(
+              'name: "Myrtle Lodge documented at Coaledo; Town Club candidate remains unbridged"',
+              'name: "Myrtle Lodge is documented at Coaledo; South Powers Town Club House remains an unbridged candidate"',
+          )
+          p.write_text(t, encoding='utf-8')
+          PY
+          }
 
           stage_integration () {
             git add \
@@ -145,6 +194,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python3 scripts/integrate_myrtle_lodge_coaledo_location.py
+            normalize_integration
             python3 scripts/validate_archive.py
             stage_integration
             if git diff --cached --quiet; then
