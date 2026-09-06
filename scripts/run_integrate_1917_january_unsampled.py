@@ -54,6 +54,35 @@ if old not in src:
     raise SystemExit("expected add_inline implementation not found; stop rather than patch unknown script")
 
 patched = src.replace(old, new, 1)
+
+# Keep generated Markdown/YAML identity strings byte-for-byte consistent and
+# satisfy the source schema's required URL field. The Jan. 25 p.6 landing page
+# is the direct page supporting E-221; the batch manifest retains all 24 pages.
+patched = patched.replace(
+    'name: "Oregon City Courier 11/18/25 January 1917 complete-page visual-review batch"\n    type:',
+    'name: "Oregon City Courier, 11/18/25 January 1917 complete-page visual-review batch"\n    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-25/ed-1/seq-6/"\n    type:',
+    1,
+)
+patched = patched.replace(
+    '# Strebig Meat Market — former 427 Main occupant named in 1917',
+    '# Strebig Meat Market — former 427 occupant',
+    1,
+)
+patched = patched.replace(
+    'name: "Strebig Meat Market — former 427 Main occupant named in 1917"',
+    'name: "Strebig Meat Market — former 427 occupant"',
+    1,
+)
+
+for required in [
+    'name: "Oregon City Courier, 11/18/25 January 1917 complete-page visual-review batch"',
+    'url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-25/ed-1/seq-6/"',
+    '# Strebig Meat Market — former 427 occupant',
+    'name: "Strebig Meat Market — former 427 occupant"',
+]:
+    if required not in patched:
+        raise SystemExit(f"expected metadata patch missing: {required}")
+
 code = compile(patched, str(target), "exec")
 globals_dict = {"__name__": "__main__", "__file__": str(target)}
 exec(code, globals_dict)
