@@ -1,0 +1,1510 @@
+{
+  "title": "Oregon City Enterprise",
+  "lccn": "sn00063700",
+  "target_issue": "1917-04-13",
+  "target_printed_page": 8,
+  "reason": "Archive ed-1 seq-8 is visually printed PAGE 6, with a Thursday masthead and obscured/hand-corrected date, while seq-6 is already the normal Friday April 13 Page 6. True April 13 Page 8 therefore requires recovery or source-conflict classification.",
+  "attempts": [
+    {
+      "label": "oregonnews Apr13 ed1 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "content_type": "application/pdf",
+      "bytes": 507113,
+      "sha256": "455e44b42270e7a597125218f8439ee77c8ad1d63c32c88e9f57c61ce97ac9df",
+      "saved_as": "oregonnews-apr13-ed1-seq8.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 jp2",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.jp2",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.jp2",
+      "content_type": "image/jp2",
+      "bytes": 4044450,
+      "sha256": "4fba10efdc70c5b683040ae39e8eee757ec13706932a0c76f0f4a288bfae052b",
+      "saved_as": "oregonnews-apr13-ed1-seq8.jp2"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 txt",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.txt",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.txt",
+      "content_type": "text/plain; charset=UTF-8",
+      "bytes": 25892,
+      "sha256": "09ddb17538f1b9e001b686c0dd2c97d7ab9b382998144e87f78099e8d27db570",
+      "saved_as": "oregonnews-apr13-ed1-seq8.txt"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 xml",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.xml",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.xml",
+      "content_type": "application/xml",
+      "bytes": 927629,
+      "sha256": "188a53f3c6ac96ac0f559cc20948bf737d5dd4395550b9f8f587f381c795bbb5",
+      "saved_as": "oregonnews-apr13-ed1-seq8.xml"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 rdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.rdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.rdf",
+      "content_type": "application/rdf+xml",
+      "bytes": 2270,
+      "sha256": "dc67b7ab58523b9ad6c5c490d2e3c904417fc778db299255491aaf291fa3aa0b",
+      "saved_as": "oregonnews-apr13-ed1-seq8.rdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 jpg",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/thumbnail.jpg",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/thumbnail.jpg",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 48568,
+      "sha256": "a2b7ddd978b6ab27a8d5a527003e029b60439996bd710e40d2557387340d08d8",
+      "saved_as": "oregonnews-apr13-ed1-seq8.html"
+    },
+    {
+      "label": "oregonnews Apr13 issue html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21504,
+      "sha256": "36e90ba655f4fc778d418996f078530c013128739ccb8006bcc637497708da7f",
+      "saved_as": "oregonnews-1917-04-13-ed1.html"
+    },
+    {
+      "label": "oregonnews Apr13 issue rdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1.rdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1.rdf",
+      "content_type": "application/rdf+xml",
+      "bytes": 1399,
+      "sha256": "03227232692efb38ddbb1857afc1626487d78dbccb49acfee1e4ac636c604893",
+      "saved_as": "oregonnews-1917-04-13-ed1.rdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq1 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-1.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-1.pdf",
+      "content_type": "application/pdf",
+      "bytes": 540429,
+      "sha256": "48e4920fe8a3cbd29bd3aeb9bcf2fa0c0e51c33ecdc8e0899c623f5417a95f76",
+      "saved_as": "oregonnews-apr13-ed1-seq01.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq1 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-1/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-1/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 41724,
+      "sha256": "66e687ab0f00f40cdb468581ad09632c55699c7e5f05c802a4e768a31c517279",
+      "saved_as": "oregonnews-apr13-ed1-seq01.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq2 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-2.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-2.pdf",
+      "content_type": "application/pdf",
+      "bytes": 520044,
+      "sha256": "e44bd276c9b9c6887f3e0bcfd459a3f6c0c911cde4baa6723f087c30c2f71e1b",
+      "saved_as": "oregonnews-apr13-ed1-seq02.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq2 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-2/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-2/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 47458,
+      "sha256": "ee5ac82632690d1a0004694989acd1c7a917cbd41a90e4074cf88b99f10f02ba",
+      "saved_as": "oregonnews-apr13-ed1-seq02.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq3 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-3.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-3.pdf",
+      "content_type": "application/pdf",
+      "bytes": 571757,
+      "sha256": "25b49851495e977901c25f659cad8662d9bfd8ca9450b52d3d9f2c3584e9485c",
+      "saved_as": "oregonnews-apr13-ed1-seq03.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq3 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-3/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-3/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51629,
+      "sha256": "6ce9bb45c780f7cbef6767645ff1288175c4be0f191ffa5b1f579d538f8a8848",
+      "saved_as": "oregonnews-apr13-ed1-seq03.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq4 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-4.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-4.pdf",
+      "content_type": "application/pdf",
+      "bytes": 574279,
+      "sha256": "0ac0a8b55ffe3c8977ad2b6fa43652175f6ae87855f65ff28a1c2b389722e678",
+      "saved_as": "oregonnews-apr13-ed1-seq04.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq4 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-4/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-4/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 51052,
+      "sha256": "ee43ef363a0ad2f4641fe5e112db648e4119779037f0bc1cfb33477d985e496d",
+      "saved_as": "oregonnews-apr13-ed1-seq04.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq5 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-5.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-5.pdf",
+      "content_type": "application/pdf",
+      "bytes": 546369,
+      "sha256": "4ddb5e4d98484cee42aab7bb0c6f3ba2f85d915dab4c800c22e16f10508d6374",
+      "saved_as": "oregonnews-apr13-ed1-seq05.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq5 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-5/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-5/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 50714,
+      "sha256": "845c5dcc6746447cfeb4cec120fe653fd217cbf1f28bb1fac93df3999446e193",
+      "saved_as": "oregonnews-apr13-ed1-seq05.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-6.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-6.pdf",
+      "content_type": "application/pdf",
+      "bytes": 550770,
+      "sha256": "9d1058274d614c8ab75eb638d3c1c03fdc8332e308d9edd2910d5fd906f2b2ea",
+      "saved_as": "oregonnews-apr13-ed1-seq06.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq6 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-6/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-6/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 52346,
+      "sha256": "47259d05c0401a9f806962a01cfdb663f31ceb5d896529d22572d7902c33c624",
+      "saved_as": "oregonnews-apr13-ed1-seq06.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-7.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-7.pdf",
+      "content_type": "application/pdf",
+      "bytes": 595619,
+      "sha256": "cecb895b746eb3e17a9753895e25a5f8f271518a4795be69214b37ad5b881304",
+      "saved_as": "oregonnews-apr13-ed1-seq07.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq7 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-7/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-7/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 57161,
+      "sha256": "d9d77a0a21f32731c4a65ffea72071290731ddd3728ea116909dccf8da1721fd",
+      "saved_as": "oregonnews-apr13-ed1-seq07.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "content_type": "application/pdf",
+      "bytes": 507113,
+      "sha256": "455e44b42270e7a597125218f8439ee77c8ad1d63c32c88e9f57c61ce97ac9df",
+      "saved_as": "oregonnews-apr13-ed1-seq08.pdf"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq8 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 48568,
+      "sha256": "a2b7ddd978b6ab27a8d5a527003e029b60439996bd710e40d2557387340d08d8",
+      "saved_as": "oregonnews-apr13-ed1-seq08.html"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq9 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-9.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-9.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq9 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-9/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-9/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq10 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-10.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-10.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq10 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-10/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-10/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq11 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-11.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-11.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq11 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-11/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-11/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq12 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-12.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-12.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed1 seq12 html",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-12/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/seq-12/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 issue",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq1 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-1.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-1.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq2 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-2.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-2.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq3 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-3.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-3.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq4 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-4.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-4.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq5 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-5.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-5.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-6.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-6.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-7.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-7.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-8.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-8.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq9 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-9.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-9.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq10 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-10.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-10.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq11 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-11.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-11.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed2 seq12 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-12.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-2/seq-12.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 issue",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq1 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-1.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-1.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq2 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-2.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-2.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq3 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-3.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-3.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq4 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-4.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-4.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq5 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-5.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-5.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-6.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-6.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-7.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-7.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-8.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-8.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq9 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-9.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-9.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq10 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-10.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-10.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq11 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-11.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-11.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed3 seq12 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-12.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-3/seq-12.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 issue",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq1 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-1.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-1.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq2 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-2.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-2.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq3 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-3.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-3.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq4 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-4.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-4.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq5 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-5.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-5.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-6.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-6.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-7.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-7.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-8.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-8.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq9 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-9.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-9.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq10 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-10.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-10.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq11 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-11.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-11.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews Apr13 ed4 seq12 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-12.pdf",
+      "status": 404,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-4/seq-12.pdf",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9443,
+      "sha256": "b93e936d05768bd247bd54be8dc66311331960818999075643e44d3c14d77789"
+    },
+    {
+      "label": "oregonnews 1917-04-06 issue rdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1.rdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1.rdf",
+      "content_type": "application/rdf+xml",
+      "bytes": 1399,
+      "sha256": "e4e2d8c8c20977d854b14d4f795eda03757312a0090ce085b373a5e8a7e74aaf",
+      "saved_as": "oregonnews-1917-04-06-ed1.rdf"
+    },
+    {
+      "label": "oregonnews 1917-04-06 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-6.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-6.pdf",
+      "content_type": "application/pdf",
+      "bytes": 567438,
+      "sha256": "76f3787b22cf35fe4ca6ed45d9d8325ae5eb82f42af0720f3d053e6ca0806e46",
+      "saved_as": "oregonnews-1917-04-06-seq6.pdf"
+    },
+    {
+      "label": "oregonnews 1917-04-06 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-7.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-7.pdf",
+      "content_type": "application/pdf",
+      "bytes": 606729,
+      "sha256": "c9751f230dc7f534a22f1b39b2ceb07cfd94c04792ee99ce023374cbfcaeb499",
+      "saved_as": "oregonnews-1917-04-06-seq7.pdf"
+    },
+    {
+      "label": "oregonnews 1917-04-06 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-8.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/seq-8.pdf",
+      "content_type": "application/pdf",
+      "bytes": 580662,
+      "sha256": "64dd36260b70b0bf4a027e037ce8b50158b04bfa44c7169eec0284d31323d2ce",
+      "saved_as": "oregonnews-1917-04-06-seq8.pdf"
+    },
+    {
+      "label": "oregonnews 1917-04-20 issue rdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1.rdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1.rdf",
+      "content_type": "application/rdf+xml",
+      "bytes": 1399,
+      "sha256": "45f16eb58dc80aed711ac1c08b596d1a511008bd780d5ef665145494f68a3526",
+      "saved_as": "oregonnews-1917-04-20-ed1.rdf"
+    },
+    {
+      "label": "oregonnews 1917-04-20 seq6 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-6.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-6.pdf",
+      "content_type": "application/pdf",
+      "bytes": 596003,
+      "sha256": "e4e3e62be599bd69f90274b78381ad438a540030e600bcc79496758622ba5859",
+      "saved_as": "oregonnews-1917-04-20-seq6.pdf"
+    },
+    {
+      "label": "oregonnews 1917-04-20 seq7 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-7.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-7.pdf",
+      "content_type": "application/pdf",
+      "bytes": 614681,
+      "sha256": "639fe1108f77c1ad47b5f6f500544a85cf1f9f9f1431b19dd404bf57125dbd00",
+      "saved_as": "oregonnews-1917-04-20-seq7.pdf"
+    },
+    {
+      "label": "oregonnews 1917-04-20 seq8 pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-8.pdf",
+      "status": 200,
+      "final_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/seq-8.pdf",
+      "content_type": "application/pdf",
+      "bytes": 630605,
+      "sha256": "5e956255328bcb3417f2a456b7ede1cad4e34d74cb13013ce8116099ddd9776b",
+      "saved_as": "oregonnews-1917-04-20-seq8.pdf"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "06b9fcf7520d2a152a5996f94f8641afa70174848e238b7aa94f39a6692b877d"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 jp2",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8.jp2",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "bbcffe08f526bca3fdeeb1b3516ed4374a8e6f6444a3a61b5b80e8b39e7f2229"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 txt",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.txt",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8&st=text",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5749,
+      "sha256": "edf301dad15bf5dd75d800cbed9c567ba68186535f5757a3f487ee99192fb64a"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 xml",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.xml",
+      "status": 404,
+      "final_url": "https://www.loc.gov/chroniclingamerica/lccn/sn00063700/1917-04-13/ed-1/seq-8/ocr.xml",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 89558,
+      "sha256": "b22214a3ac6cabfe7a3ef53bc8c1a1243e80ed872c75b894913d900456b7d192"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 rdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8.rdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/chroniclingamerica/lccn/sn00063700/1917-04-13/ed-1/seq-8.rdf",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5752,
+      "sha256": "0098a923e5728d3cf7e027d3a4a1e03c56e14aa523beb9d9e28ba3f608b93783"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 jpg",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8/thumbnail.jpg",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "2752cde2fd8f3d38ee2ce074f45ae446b054bbf5db08a22b0c415bad0c90d6bc"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "9d6e4202d053d907d417e2609759e117e245aa51796af76eeb7f175c6446e514"
+    },
+    {
+      "label": "chronam Apr13 issue html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?st=gallery",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5707,
+      "sha256": "c54f820c49ec56d6ce97b2c974a22cc7b544a54c34131969c3e6b8718113633c"
+    },
+    {
+      "label": "chronam Apr13 issue rdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1.rdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/chroniclingamerica/lccn/sn00063700/1917-04-13/ed-1.rdf",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5734,
+      "sha256": "fd3339df6edab78f6fade4b727ab4a987a12a12c9ae775285c0f4b9c4b7657af"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq1 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-1.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=1",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "8719696f6c75fe65ea6d3d24f75ecc14e009f1edf7b7fdfccee5c19534e0ea0b"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq1 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-1/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=1",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "4169ccf3550c2658c7ce5e090744ff9832f43115de1c4d7e6cc4da6a2fe4d84a"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq2 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-2.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "fe72d6a466af7f972217ab6f9d5290748ff2619fa48a3ca2bf339a4e949403f0"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq2 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-2/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "6b962d5ad45f5eb54ee45c056a977fe18ae039d75e8300cdba473750b536b759"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq3 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-3.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=3",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "891cd3a35a737cd57fdea9cf8a27f6de9bebd478bc4d6fce674e492b2ffa191f"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq3 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-3/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=3",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "a6da2bbc8d5a5c7c170383c94a56e47877de8a10ce2a0af0f05bbecbb26a3ade"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq4 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-4.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=4",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "28879cc47f42fa54c33d132ffa37549a93c0fa8d718d03a6f8820d7795068fc9"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq4 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-4/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=4",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "97a36cc592c345f52f07c29b406044f737ed17e743338f9661384af4b1be8276"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq5 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-5.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=5",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "159c8932124fc9622a8d8c72f62e60279fc4ba1e8931dbda637a8399875fbd08"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq5 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-5/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=5",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "8d93155055a3fd7b508873502bd4e30d4aa7850862794de5fbc9da26604cdaa0"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "7623d6584f98567bd958fa4631b42597c67123faddef99f22edc736a7ec80219"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq6 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-6/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "0e16d6b32ede77461639415daaa63397cfc3b6c4f908840e68ea839e0cb8dd2f"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "90a5499e1c3a8b21c2aafd5dab84859ae4e82d2ddc7068efacab3a1a0da807f3"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq7 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-7/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "9eac5c453a2bbd464583248c0d0d424a4c1dfc0c369be0935e80199790c0139b"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "e6a23213c5808b288b5284cc106e85247730be5b404c79d212e08cbcebad698e"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq8 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-8/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "0d320ec2488165a35b7731fdab7121c8b2bc9a95240cbc067a16c4e8e730c0bd"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq9 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-9.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=9",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "628dd2920af39f1cc7a3b099dbb97211dd2850d4d92ba74a14f1d3ec52208a1f"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq9 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-9/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=9",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "9b9577226f6e49648b7aad81ef8ed5993f1a30f06c18faf71b0b09f6d1f74224"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq10 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-10.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=10",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "39d16d22beb9602b14438a0ad9d00a14f45cc89a52d7742b38fc4e23db176a23"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq10 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-10/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=10",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "3ab237be5dd2a71eec675b826f928b2fd0cfbb3ffbcb57f8d572a329fc6e8e00"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq11 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-11.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=11",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "c76e1927ef97077c3428b473f82fa5fd150a8471f3fa4ba5502abc33a500177e"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq11 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-11/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=11",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "41a5eb92951f7c36b0b911a0cf183b272546e062e9d50446821db173f92c291a"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq12 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-12.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=12",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "3c63336eeacfb6793b75e884588b6aba1b7b3f5c9d700063f47e80d4be07ff11"
+    },
+    {
+      "label": "chronam Apr13 ed1 seq12 html",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-1/seq-12/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-1/?sp=12",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "8834c469ed39853f4a595b955f86196a45700e359f8e217f4eb97541d41fd432"
+    },
+    {
+      "label": "chronam Apr13 ed2 issue",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?st=gallery",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5707,
+      "sha256": "e1ce0d4f4bea1d875fc82050ca9f7df50c5b2cc6c183c3e08bc5e74e3d3700ce"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq1 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-1.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=1",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "313bc4e51f2b0fe2676dd07f4646681b54299538e6a4882fd16744e91179d916"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq2 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-2.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "41d3019b7b4b3b1604524ac331f60ec4538556be6ce8c1142fce485bdd0a79e1"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq3 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-3.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=3",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "8407ab51e2a24217bc4d965688247302e84ec8171f1ed95b5a764a6985a6003e"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq4 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-4.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=4",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "7f50c909fa1b57485200c28ca3239ecea770ba8bc90e5dd3f7311351d1813abb"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq5 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-5.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=5",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "58880288b3a8c7da0fa332c281d13b07ed0c4a5e5af8814e45ade41658c41c64"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "dbf1feda62793a284148e7cd16e5d9e4cece849c389bd0fd6f85d5d47c56a5e2"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "2377b7c51293c78a182394c7bda6d5662c42d4a867d9b94797d80b8778a71b45"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "0ef4d2bdf7e12e900bf362e86b6c947abf0af57fffecb91d659b2b11f10fc8c6"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq9 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-9.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=9",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "aeb09af444ac3a752c53c957b9bf1d9fe555b9f3541daf10416bb76fb0bd7be1"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq10 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-10.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=10",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "ebda88c68428c67a6d64f955d046f6d70c19c4e14752e84b9472addc9da9c22a"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq11 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-11.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=11",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "c1086d09cdf188535d6784bdc834ca42f22dd2a8df2025325bfd73252f4f31a5"
+    },
+    {
+      "label": "chronam Apr13 ed2 seq12 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-2/seq-12.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-2/?sp=12",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "16b341bf8d7eae913b4816ed31f0385fe0c5abdf5b378bc7a28b39ca15158cb7"
+    },
+    {
+      "label": "chronam Apr13 ed3 issue",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?st=gallery",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5707,
+      "sha256": "eedc27db705261092c4fac9fc1548375d6ebfce5c9d1f52147b2b3eb5617d817"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq1 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-1.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=1",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "4128009e206e9d88872017871bcdc4f926f0df00726317d1717c08e5b5b38d76"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq2 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-2.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "8b979265cee4138d3987f0e35ad8096c27ca8e8bf0c57ba6e18bd148cc855a18"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq3 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-3.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=3",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "7ba5b113ca5ae72c2e9d7cd376ac356b6712f762be3fbcb11a039f5566be03e0"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq4 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-4.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=4",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "04277da3662c584edf360d4c06b7b98a5977010307dc8f51c54871adc9443562"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq5 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-5.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=5",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "af1420f7650b4722d7705cee21bfed2679cd7deed57aaedc1745de06dcccdd7b"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "c98e0f0d07fc5346e181dc3e56404895be14742fc86885b6e6252dfd1cb5475b"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "5cd7acc0c8b9831c836b585fd99d1ee68a4f65ae71f25a81a2dca0f90ca95765"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "aedead71a710492849c49d7c672eeed2d9a556ee1313eef5852a50039574e648"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq9 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-9.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=9",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "f30a4904b8ee951f9aabaa2aa772f3c971e9b9f733e09a5df13e6441ebd4cb29"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq10 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-10.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=10",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "b8be65f81c8c7d37187c928f9733c62196674bd042d0c84ae3be644bae76b7a2"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq11 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-11.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=11",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "35f8336dce6b36a4868fc118eb40a08102dcf097f64245e3db20c30b9a1528a3"
+    },
+    {
+      "label": "chronam Apr13 ed3 seq12 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-3/seq-12.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-3/?sp=12",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "5d04f29c5028a2d3ff85a5c00e417ed32f015cf4a97056ddbcea106e9d5068ae"
+    },
+    {
+      "label": "chronam Apr13 ed4 issue",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?st=gallery",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5707,
+      "sha256": "b556f9b2795fabd1aaf1e7616fd5f3e5cc709af5232a96c451bf2e34a76fcc39"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq1 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-1.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=1",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "6ec4cff36bb27d6137559a2712dfcb15165753aa1616fde6a34df47e98c76248"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq2 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-2.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=2",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "9dc1631ae3448ce6df7b38e5f32e6ed61a6d6c69a2ef7aa3d7c66337500d093d"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq3 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-3.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=3",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "33e3cc7cfd021a9771b103003453ed6b8842aa08d1c73f3a67f819ed12ec2718"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq4 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-4.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=4",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "4d30217c45ae0a3c304ab48150c2640fc0386d9c0a246828e09f491d5349fbd5"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq5 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-5.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=5",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "aa341ca60ba8477d8a02e8c7ea5b2b27e3d1c07c34daa6e9b245bf118e4564b7"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "5c2b8b467085df924d9ec1241ef3222a420378cd5b8dcd4224b1eacd8192268a"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "3e3d2b41992a646a7240cdc5b1b97951794b23af40e98fb321c65a4074a30cb5"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "43b61dc703f70c65c29a0b5455c660d683b4c3dabe75c5fb3939e42a0b4f19ab"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq9 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-9.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=9",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "2fa81a404185b1561ca128bd9ef9a53208954932f341ecb7966b39c9c27c8a64"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq10 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-10.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=10",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "a36303199c51ad846ffd4fa6c5347434452482eaa48a643e1e6ba6be701f2f56"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq11 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-11.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=11",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "b409884773669ffb6ff08e572787f745cfe6484c179230f7f9930f123ec6c3bd"
+    },
+    {
+      "label": "chronam Apr13 ed4 seq12 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-13/ed-4/seq-12.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-13/ed-4/?sp=12",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5692,
+      "sha256": "2d70407a3e7526609b762a09aaad84d7ceb87066bb36c7df707dffba8e2d8c95"
+    },
+    {
+      "label": "chronam 1917-04-06 issue rdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-06/ed-1.rdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/chroniclingamerica/lccn/sn00063700/1917-04-06/ed-1.rdf",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5734,
+      "sha256": "64613fa93e9ec4515935b10334af5f57a73f4911f0a0c6704a9f6f943edf6e38"
+    },
+    {
+      "label": "chronam 1917-04-06 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-06/ed-1/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-06/ed-1/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "fce20230d9cd253185ff46de629848439f77c98fc09feedec12b83fb409d61e5"
+    },
+    {
+      "label": "chronam 1917-04-06 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-06/ed-1/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-06/ed-1/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "a27ff0f8d191f51a787172ee26dd53838c14269bf910cb895703bcddd850dd1e"
+    },
+    {
+      "label": "chronam 1917-04-06 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-06/ed-1/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-06/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "157d99e779c29fddb1aaa2b1c5379e24bd7b51ad362222b3f7be50a45b7ae971"
+    },
+    {
+      "label": "chronam 1917-04-20 issue rdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-20/ed-1.rdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/chroniclingamerica/lccn/sn00063700/1917-04-20/ed-1.rdf",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5734,
+      "sha256": "9f623f9b2161102b2c3ca804da7ba4bbdc3f63a87a3dadffd4101aec0ead32ef"
+    },
+    {
+      "label": "chronam 1917-04-20 seq6 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-20/ed-1/seq-6.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-20/ed-1/?sp=6",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "7acc29348caa2dbe00fd3a536bb9eadf165cd6020032471c5edf82fbff3eae39"
+    },
+    {
+      "label": "chronam 1917-04-20 seq7 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-20/ed-1/seq-7.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-20/ed-1/?sp=7",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "fcf449f0e8376a356ee19c56167add9a6eb3590d0ac8fa2cb75749c44815f7a4"
+    },
+    {
+      "label": "chronam 1917-04-20 seq8 pdf",
+      "url": "https://chroniclingamerica.loc.gov/lccn/sn00063700/1917-04-20/ed-1/seq-8.pdf",
+      "status": 403,
+      "final_url": "https://www.loc.gov/resource/sn00063700/1917-04-20/ed-1/?sp=8",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5689,
+      "sha256": "ceeae62b4651b662c53041c3efceed98f6184188cf8bd9f6f097e3a62e2d0c63"
+    },
+    {
+      "label": "loc-newspaper-title-search",
+      "url": "https://www.loc.gov/newspapers/?q=Oregon%20City%20Enterprise&dates=1917&fo=json&c=100",
+      "status": 200,
+      "final_url": "https://www.loc.gov/newspapers/?q=Oregon%20City%20Enterprise&dates=1917&fo=json&c=100",
+      "content_type": "application/json",
+      "bytes": 1339892,
+      "sha256": "94019a71b788214ed65f6db6246f901251bb07c32e440c9aa0ff68baeb7b988e",
+      "saved_as": "loc-newspaper-title-search.json"
+    },
+    {
+      "label": "loc-lccn-search",
+      "url": "https://www.loc.gov/search/?q=sn00063700&fo=json&c=100",
+      "status": 200,
+      "final_url": "https://www.loc.gov/search/?q=sn00063700&fo=json&c=100",
+      "content_type": "application/json",
+      "bytes": 4195,
+      "sha256": "2003ab6233198fab2c2e64f32bd94e58769beb077be3adc97e45268e43ad6933",
+      "saved_as": "loc-lccn-search.json"
+    },
+    {
+      "label": "loc-newspaper-lccn-search",
+      "url": "https://www.loc.gov/newspapers/?q=sn00063700&fo=json&c=100",
+      "status": 503,
+      "final_url": "https://www.loc.gov/newspapers/?q=sn00063700&fo=json&c=100",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 89499,
+      "sha256": "c6c8457f2e831be8c0535c57059d1082159cad08a9a47cd3d27cc8700a5b4ba8"
+    }
+  ]
+}
