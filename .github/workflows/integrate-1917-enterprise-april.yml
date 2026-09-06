@@ -1,0 +1,57 @@
+name: Integrate April 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-1917-enterprise-april.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate April Enterprise visual review, entities, and retrieval gap
+        run: python3 scripts/integrate_1917_enterprise_april.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized April integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md \
+            evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml \
+            people/profiles/w-s-eddy.md people/people-index.md database/people.yml \
+            businesses/fashion-stable.md businesses/business-index.md database/businesses.yml \
+            buildings/427-main.md businesses/w-b-eddys-store-1917.md \
+            evidence/source-captures/1917-closeout.md evidence/open-questions.md evidence/research-leads.md \
+            MANUAL-FOLLOWUP.md registers/address-register.md registers/business-timeline.md \
+            timeline.md indexes/id-crosswalk.md registers/entity-page-audit-2026-08-29.md \
+            registers/year-status.md ARCHIVE_INDEX.md registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No April integration changes.'
+            exit 0
+          fi
+          git commit -m 'Integrate April 1917 Enterprise audit and Fashion Stable chronology'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
