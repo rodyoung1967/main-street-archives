@@ -1,0 +1,160 @@
+name: Archive LaFarlette Town Club licensing controls
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/archive-lafarlette-town-club-licensing-controls.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Retrieve licensing-control PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import pathlib
+          import requests
+
+          items = [
+              {
+                  'date': '1954-12-09',
+                  'publication': 'Coquille Valley Sentinel',
+                  'page': 3,
+                  'file': '1954-12-09-p3-coos-county-liquor-renewal-control.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn96088222/1954-12-09/ed-1/seq-3.pdf',
+              },
+              {
+                  'date': '1955-12-07',
+                  'publication': 'Medford Mail Tribune',
+                  'page': 7,
+                  'file': '1955-12-07-p7-olcc-renewal-action-coos-county-control.pdf',
+                  'url': 'https://oregonnews.uoregon.edu/lccn/sn97071090/1955-12-07/ed-1/seq-7.pdf',
+              },
+          ]
+
+          out = pathlib.Path('newspapers/town-club-lafarlette-licensing-controls')
+          out.mkdir(parents=True, exist_ok=True)
+          session = requests.Session()
+          session.headers.update({'User-Agent': 'main-street-archives archival retrieval'})
+          manifest_items = []
+          for item in items:
+              r = session.get(item['url'], timeout=90)
+              ctype = r.headers.get('content-type', '').lower()
+              if r.status_code != 200 or not r.content.startswith(b'%PDF'):
+                  raise SystemExit(f"Failed PDF retrieval {item['url']}: status={r.status_code} type={ctype!r} bytes={len(r.content)}")
+              path = out / item['file']
+              path.write_bytes(r.content)
+              manifest_items.append({
+                  **item,
+                  'bytes': len(r.content),
+                  'sha256': hashlib.sha256(r.content).hexdigest(),
+                  'content_type': ctype,
+              })
+              print(item['date'], item['page'], len(r.content), path)
+
+          manifest = {
+              'purpose': 'Licensing-record route controls for the LaFarlette / Town Club 1953-1957 research lead',
+              'archive': 'Historic Oregon Newspapers / University of Oregon',
+              'retrieved_utc_by': 'GitHub Actions',
+              'items': manifest_items,
+          }
+          (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit and push preserved originals
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/town-club-lafarlette-licensing-controls/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve Town Club licensing control scans'
+            for attempt in 1 2 3 4 5 6; do
+              echo "source push attempt $attempt"
+              if git push origin main; then
+                break
+              fi
+              git pull --rebase origin main
+              python3 scripts/validate_archive.py
+              if [ "$attempt" = 6 ]; then
+                exit 1
+              fi
+              sleep 2
+            done
+          else
+            echo 'Preserved originals already present.'
+          fi
+
+      - name: Resync after source preservation
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Integrate licensing route with fresh IDs
+        run: |
+          python3 scripts/integrate_lafarlette_town_club_licensing_route.py
+          python3 scripts/validate_archive.py
+
+      - name: Commit integrated records
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+
+          stage_integration () {
+            git add \
+              evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md \
+              evidence/source-register.md \
+              evidence/evidence-register.md \
+              evidence/research-leads.md \
+              evidence/open-questions.md \
+              database/sources.yml \
+              database/evidence.yml \
+              indexes/id-crosswalk.md \
+              registers/research-log.md \
+              MANUAL-FOLLOWUP.md \
+              registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md
+          }
+
+          stage_integration
+          if git diff --cached --quiet; then
+            echo 'Integration already present.'
+            exit 0
+          fi
+          git commit -m 'Escalate LaFarlette Town Club lead to licensing records'
+
+          for attempt in 1 2 3 4 5 6; do
+            echo "integration push attempt $attempt"
+            if git push origin main; then
+              exit 0
+            fi
+            echo 'main advanced; rebuild from latest main with fresh IDs'
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/integrate_lafarlette_town_club_licensing_route.py
+            python3 scripts/validate_archive.py
+            stage_integration
+            if git diff --cached --quiet; then
+              echo 'Equivalent integration already present.'
+              exit 0
+            fi
+            git commit -m 'Escalate LaFarlette Town Club lead to licensing records'
+            sleep 2
+          done
+
+          echo 'Unable to push Town Club licensing integration after retries.' >&2
+          exit 1
