@@ -1,0 +1,106 @@
+name: Fetch 1917 Courier March unsampled issues
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/fetch-1917-courier-march-unsampled.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Download unsampled March Courier issues
+        shell: bash
+        run: |
+          set -euo pipefail
+          out="newspapers/oregon-city-courier/1917-march-unsampled"
+          mkdir -p "$out"
+          rm -f "$out"/*.pdf "$out/sha256.txt" "$out/manifest.json"
+
+          fetch_issue() {
+            d="$1"; count="$2"
+            for n in $(seq 1 "$count"); do
+              nn=$(printf '%02d' "$n")
+              f="$out/${d}-seq-${nn}.pdf"
+              url="https://oregonnews.uoregon.edu/lccn/sn00063698/${d}/ed-1/seq-${n}.pdf"
+              curl --fail --location --retry 3 --retry-delay 1 --connect-timeout 20 --max-time 180 \
+                --user-agent "Mozilla/5.0 (main-street-archives research)" -o "$f" "$url" &
+              while [ "$(jobs -rp | wc -l)" -ge 8 ]; do wait -n; done
+            done
+          }
+
+          fetch_issue 1917-03-08 10
+          fetch_issue 1917-03-15 8
+          fetch_issue 1917-03-22 8
+          fetch_issue 1917-03-29 12
+          wait
+
+          test "$(find "$out" -maxdepth 1 -name '*.pdf' | wc -l)" -eq 38
+          : > "$out/sha256.txt"
+          for f in "$out"/*.pdf; do
+            test "$(head -c 4 "$f")" = "%PDF"
+            sha256sum "$f" >> "$out/sha256.txt"
+          done
+
+      - name: Write retrieval manifest
+        shell: python
+        run: |
+          import hashlib, json, pathlib
+          from datetime import datetime, timezone
+          out = pathlib.Path("newspapers/oregon-city-courier/1917-march-unsampled")
+          issues = [("1917-03-08",10),("1917-03-15",8),("1917-03-22",8),("1917-03-29",12)]
+          items=[]
+          for date,count in issues:
+              for seq in range(1,count+1):
+                  pdf=out/f"{date}-seq-{seq:02d}.pdf"
+                  items.append({
+                      "date":date,
+                      "sequence":seq,
+                      "file":pdf.name,
+                      "source_url":f"https://oregonnews.uoregon.edu/lccn/sn00063698/{date}/ed-1/seq-{seq}.pdf",
+                      "sha256":hashlib.sha256(pdf.read_bytes()).hexdigest(),
+                      "review_status":"PENDING VISUAL REVIEW"
+                  })
+          manifest={
+              "title":"Oregon City Courier 1917 March unsampled weekly issues",
+              "newspaper_lccn":"sn00063698",
+              "retrieved_utc":datetime.now(timezone.utc).isoformat(),
+              "issue_count":len(issues),
+              "page_count":len(items),
+              "issues":[{"date":d,"page_count":c} for d,c in issues],
+              "items":items,
+              "annual_completion_limit":"March continuation only; does not satisfy exhaustive annual newspaper review."
+          }
+          (out/"manifest.json").write_text(json.dumps(manifest,indent=2)+"\n")
+
+      - name: Upload preserved PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1917-courier-march-unsampled
+          path: newspapers/oregon-city-courier/1917-march-unsampled
+          retention-days: 7
+
+      - name: Commit preserved PDFs and manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "main-street-archive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add newspapers/oregon-city-courier/1917-march-unsampled
+          git commit -m "Archive unsampled March 1917 Courier pages"
+          git pull --rebase origin main
+          git push origin HEAD:main
