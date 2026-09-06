@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          # Patch the integration helper so existing inline YAML relationship lists stay valid.
+          # Patch the helper while preserving the indentation of existing YAML relationship lists.
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
