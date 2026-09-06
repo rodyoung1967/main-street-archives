@@ -94,3 +94,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
 
 `S-263` / `E-237` completes visual review of the remaining October 11/18/25 *Courier* issues (**24/24 pages**). With October 4, October is now **4 complete issues / 32 pages visually verified**. The non-overlapping monthly-sample + January–October batches total **45 complete tracked issues / 364 visually verified pages**. Jones Drug is directly printed at 617 Main on 11 and 18 October; recurring 612/619 Main controls continue. No exact target 501/503/505/507/509/511 occupant was established. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.
+
+## November completion added 5 September 2026
+<!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
+
+`S-264` / `E-238` completes visual review of the remaining November 8/15/22/29 *Courier* issues (**32/32 pages**). With November 1, November is now **5 complete issues / 40 pages visually verified**. The non-overlapping monthly-sample + January-November batches total **49 complete tracked issues / 396 visually verified pages**. Recurring 612/619 Main controls continue; the unsampled Jones ads do not print exact street numbers. Adams Department Store building-removal wording is directly visible by Nov. 15 but is unnumbered and is not assigned to the target block. No exact target 501/503/505/507/509/511 occupant was established. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open.

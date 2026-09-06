@@ -2295,3 +2295,17 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 24-page batch.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated address wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
+
+## E-238 — November 1917 continuation visually clears 32 pages and completes Courier coverage for the month
+<!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
+Source: `S-264`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **32 page scans** for the 8, 15, 22 and 29 November 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 1 November sample, November now has **5 complete issues / 40 visually verified pages**.
+- Across the non-overlapping monthly-sample and January-November continuation batches, the project now documents **49 complete tracked 1917 Courier issues / 396 visually verified pages**; this is not exhaustive annual coverage.
+- Recurring exact controls include **612 Main** and **619 Main**. Jones Drug advertisements recur in all four issues but those particular ads do not print an exact street number; the 1 November sample remains the direct November **617 Main** observation.
+- Adams Department Store's **“PART OF BUILDING TO BE TORN DOWN SOON”** wording is directly visible by **15 November 1917** and repeats 22 and 29 November, but the ads are unnumbered and are not assigned to the target frontage.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 32-page batch.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity, demolition-location or vacancy inference is made.

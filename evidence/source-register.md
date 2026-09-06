@@ -2167,3 +2167,16 @@ Retrieval commit: `9687a4be9734bd3b7260021557febc269b0bfbc6`
 Related evidence: `E-237`.  
 Capture: `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.  
 Notes: Complete visual review confirms Jones Drug at 617 Main on 11 and 18 October plus recurring 612 and 619 Main controls. The 25 October Jones advertisement gives Oregon City but no exact street number. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; no vacancy inference is made.
+
+## S-264 — Oregon City Courier, 8/15/22/29 November 1917 complete-page visual-review batch
+<!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **8, 15, 22 and 29 November 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-11-08/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-november-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-november-unsampled/manifest.json`  
+Retrieval commit: `2bc2108c331034184d81cd1b182778b486f2d705`  
+Related evidence: `E-238`.  
+Capture: `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.  
+Notes: Complete visual review confirms recurring 612/619 Main controls. Jones Drug ads in these four issues print Oregon City but not an exact number; Nov. 1 remains the month's direct 617 Main observation. Adams Department Store building-removal wording is directly visible by Nov. 15 but remains unnumbered and is not assigned to the target block. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.

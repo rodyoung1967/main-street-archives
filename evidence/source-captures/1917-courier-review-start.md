@@ -195,3 +195,12 @@ Across the non-overlapping monthly sample plus January–September continuations
 Direct controls include **Jones Drug Co., 617 Main** on 11 and 18 October plus recurring **612 Main** and **619 Main**. The 25 October Jones advertisement has no exact street number and is not promoted as one. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
 
 Across the non-overlapping monthly sample plus January–October continuations, the documented progress count is now **45 complete tracked issues / 364 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.
+
+## November 8-29 continuation — 5 September 2026
+<!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
+
+`S-264` / `E-238` visually clears **32/32 pages** of the remaining 8, 15, 22 and 29 November *Courier* issues. Together with the already reviewed 1 November sample, **November Courier coverage is now 5 complete issues / 40 pages visually verified**.
+
+Recurring exact controls include **612 Main** and **619 Main**. Jones Drug ads recur but those four ads do not print an exact street number; the Nov. 1 sample remains the direct November 617 Main observation. Adams Department Store's building-removal wording is directly visible by **15 November**, but remains unnumbered and is not assigned to the target block. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
+
+Across the non-overlapping monthly sample plus January-November continuations, the documented progress count is now **49 complete tracked issues / 396 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.

@@ -800,3 +800,14 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
 - Text extraction was used only after all scans were visually reviewed; no target-number candidate survived scan/context review.
 - Non-overlapping tracked 1917 progress is now **45 complete issues / 364 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining November 1917 Courier visual review
+<!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **32/32 actual page scans** for 8, 15, 22 and 29 November 1917. Preserved source retrieval commit: `2bc2108c331034184d81cd1b182778b486f2d705`.
+- With the already reviewed 1 November sample, November is now **5 complete issues / 40 visually verified pages**.
+- Recurring exact controls include **612 Main** and **619 Main**. The Jones Drug ads in the four continuation issues print Oregon City but not an exact street number; Nov. 1 remains the month's direct 617 Main observation.
+- Adams Department Store's **PART OF BUILDING TO BE TORN DOWN SOON** wording is directly visible by **15 November 1917** and repeats on 22 and 29 November; the ads are unnumbered and are not assigned to the target frontage.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 32 pages.
+- Text extraction was used only after all scans were visually reviewed.
+- Non-overlapping tracked 1917 progress is now **49 complete issues / 396 visually verified page images**. 1917 remains **IN PROGRESS**.
