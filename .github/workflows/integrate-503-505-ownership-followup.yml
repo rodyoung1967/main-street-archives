@@ -1,0 +1,79 @@
+name: Integrate 503-505 ownership follow-up
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-503-505-ownership-followup.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: integrate-503-505-ownership-followup
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependency
+        run: python3 -m pip install PyYAML
+      - name: Lock to newest main at job start
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          git rev-parse HEAD > /tmp/ownership_followup_base_sha
+      - name: Correct 505 timeline integration anchor
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_503_505_2002_2010_ownership_followup.py')
+          t = p.read_text(encoding='utf-8')
+          old = '''replace_once("timelines/505-main.md",
+              "| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |",
+              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |")'''
+          new = '''replace_once("timelines/505-main.md",
+              "| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |",
+              "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |")'''
+          if old not in t:
+              raise SystemExit('Expected shorthand 505 timeline anchor not found in integration helper')
+          p.write_text(t.replace(old, new, 1), encoding='utf-8')
+          PY
+      - name: Apply ownership follow-up integration
+        run: python3 scripts/integrate_503_505_2002_2010_ownership_followup.py
+      - name: Validate synchronized archive
+        run: python3 scripts/validate_archive.py
+      - name: Publish without overwriting concurrent main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          rm -f scripts/integrate_503_505_2002_2010_ownership_followup.py
+          rm -f .github/workflows/integrate-503-505-ownership-followup.yml
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo 'No persistent ownership-followup changes required.'
+            exit 0
+          fi
+
+          git commit -m 'Integrate 503-505 2002-2010 ownership follow-up'
+
+          base_sha="$(cat /tmp/ownership_followup_base_sha)"
+          git fetch origin main
+          remote_sha="$(git rev-parse origin/main)"
+          if [ "$remote_sha" != "$base_sha" ]; then
+            echo "Remote main advanced from $base_sha to $remote_sha; refusing to overwrite concurrent work." >&2
+            exit 1
+          fi
+
+          git push origin HEAD:main
