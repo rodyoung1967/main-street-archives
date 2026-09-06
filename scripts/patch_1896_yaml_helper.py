@@ -46,7 +46,7 @@ new_func = '''def yaml_add_list_item(path, entity_id, field, item):
     wr(path, text)
 '''
 replacement = new_func + '\n\n# Exact-object idempotency'
-new_text, count = pattern.subn(replacement, text, count=1)
+new_text, count = pattern.subn(lambda m: replacement, text, count=1)
 if count != 1:
     if 'inline = re.search' in text:
         print('yaml helper already patched')
