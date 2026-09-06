@@ -67,3 +67,15 @@ A Time Capsule Maps photo-metadata record uses the wording **"The Quality Cafe"*
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
 See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
+
+## September 1953 — `Al & Marge Kwality Cafe`
+<!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
+
+Official Oregon City Commission searchable text for the September 1953 finance report names **`Al & Marge Kwality Cafe`**. This is the first recovered dated city record in the current archive that combines personal first names with the **Kwality Cafe** business style in the early-1950s period.
+
+The same research pass found that the City's 902 Fifth Street historic inventory identifies **Fred Remus as a cook at the Kwality Cafe in 1953**. Combined with the December 1951 liquor-license approval for **Albert D. Flor and Margaret Remus** and the City's 1957 secondary control for **Mr./Mrs. Albert D. Flor managing the restaurant/cocktail bar at 503 Main**, the evidence creates a strong continuity hypothesis that the 1953 `Al & Marge` style may refer to Flor and Margaret Remus.
+
+Limits remain material: the 1953 finance line gives **no address or surnames**, the 1951 license list gives **no trade name/address**, and Fred Remus's relationship to Margaret is unknown. Preserve `Al & Marge Kwality Cafe` as a dated business-style control and do not yet treat Flor/Remus identity, ownership, or exact 503 occupancy in September 1953 as directly proved.
+
+Official 1953 Commission PDF: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4752017/File/document  
+City 902 Fifth historic-resource record: https://www.orcity.org/2072/902-5th-Street

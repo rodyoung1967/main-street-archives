@@ -337,3 +337,12 @@ A candidate-person bridge pass tested the known **1957 Mr./Mrs. Albert D. Flor r
 The 1951 text does **not** state the premises or trade name and the source page could not be visually rendered in the current environment, so classify it **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP** and do not call it a 503 Main license yet.
 
 Under **MF-052**, add **Albert D. Flor / Albert Flor / A. D. Flor / Mrs. Albert D. Flor / Margaret Remus** to the Morton Journal, verified-coverage directory, and Washington liquor-license searches. On the Oregon side, extend the license-chain test backward to the **December 1951 Flor/Remus approval** and identify its premises/trade name, then trace renewals/transfers through the documented 1957 Flor-at-503 control into the Wheel Cafe period. The public-online Morton no-hit remains a retrieval gap, not negative evidence.
+
+### MF-052 Flor/Remus continuity breakthrough — September 1953
+<!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
+
+The Flor candidate now has a much tighter Oregon-side chain. Official city text names **`Al & Marge Kwality Cafe`** in **September 1953**; the City's 902 Fifth historic inventory says **Fred Remus was a cook at Kwality Cafe in 1953**; the 1951 liquor list names **Albert D. Flor + Margaret Remus**; and the 503 historic-resource synthesis places **Mr./Mrs. Albert D. Flor** managing the restaurant/cocktail bar at 503 in 1957.
+
+Classification: **STRONG CROSS-SOURCE CONTINUITY HYPOTHESIS**, not direct identity/ownership proof. The 1953 business line has no surnames/address and the 1951 license line has no premises/trade name.
+
+Under MF-052, make the **1953 T. W. Salisbury Oregon City & Vicinity Directory** an explicit dual-purpose retrieval: capture Flor, Margaret/Marge Remus, Fred Remus, `Al & Marge Kwality Cafe`, the 503 Main street listing and restaurant/cafe classifieds. Add `Al & Marge`, `Marge Remus`, `Fred Remus`, and `Kwality Cafe` to the Morton Journal/directory/LCB search as secondary bridge terms. The fresh public-online Morton no-hit remains a retrieval gap, not negative evidence.

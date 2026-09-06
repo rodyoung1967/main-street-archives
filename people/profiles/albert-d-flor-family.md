@@ -16,3 +16,12 @@ Classification: **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP**. The und
 A dedicated Morton/eastern Lewis County public-index pass found **no reliable historical Albert D. Flor, Mrs. Albert D. Flor, or Margaret Remus hit** and no connection to the Morton Wheel Cafe. This is a **retrieval gap, not negative evidence**, because the target 1945–47 *Morton Journal* issues remain outside the readable public-online route and 1946 directory coverage of Morton remains unresolved.
 
 `Margaret Remus` is now an important associate-name control for Oregon license/renewal/transfer research and for the Morton Journal/directory/Washington liquor-license search. See `evidence/source-captures/albert-d-flor-morton-bridge-pass-2026-09-06.md`.
+
+## 1953 `Al & Marge Kwality Cafe` continuity lead
+<!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
+
+Official Oregon City Commission text for the **September 1953** finance report names **`Al & Marge Kwality Cafe`**. This falls between the **5 December 1951 Albert D. Flor + Margaret Remus** liquor-license approval and the City's official-secondary **1957 Mr./Mrs. Flor at 503 Main** restaurant/cocktail-bar control.
+
+A separate City historic-resource record says **Fred Remus was a cook at the Kwality Cafe in 1953**, providing an independent Remus-surname connection to the business but not establishing Fred's relationship to Margaret.
+
+Classification: **STRONG CROSS-SOURCE CONTINUITY HYPOTHESIS; NOT DIRECT IDENTITY PROOF**. It is plausible that `Al` = Albert D. Flor and `Marge` = Margaret Remus, but the 1953 finance line supplies no surnames/address and the 1951 liquor line supplies no business/address. Do not promote Margaret Remus to Mrs. Flor, co-owner, or 503 tenant without a direct record. The 1953 Salisbury directory is now the decisive primary-source target.

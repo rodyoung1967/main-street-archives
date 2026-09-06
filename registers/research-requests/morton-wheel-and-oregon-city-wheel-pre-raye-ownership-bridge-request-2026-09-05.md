@@ -271,3 +271,28 @@ A broad public-index pass on 6 September 2026 found **no reliable Flor/Remus Mor
 Before limiting the Oregon OLCC lookup to 1958–1967, ask whether predecessor records can identify the **licensed premises, trade name, license class, renewals, partners and transfers** associated with **Albert D. Flor and Margaret Remus from December 1951 forward**. The goal is to determine whether the 1951 approval can be tied to **503 Main**, whether Flor/Remus continue there through the documented 1957 operation, and who succeeded them before/by the Wheel Cafe period.
 
 Do **not** infer that Flor/Remus owned the 503 real estate or the Wheel business merely from liquor-license status. Preserve licensee, operator, business owner, tenant and property owner as separate roles unless contemporary evidence bridges them.
+
+## Supplemental Oregon continuity target — 1951 Flor/Remus → 1953 `Al & Marge Kwality Cafe` → 1957 Flor at 503
+<!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
+
+The Oregon-side license-chain request can now be made substantially more precise.
+
+New official Oregon City Commission searchable text for **September 1953** names **`Al & Marge Kwality Cafe`** in the City's finance/vendor list. A separate City historic-resource record states that **Fred Remus was a cook at Kwality Cafe in 1953**. These controls sit between the **5 December 1951** city liquor approval for **Albert D. Flor and Margaret Remus** and the City's later official-secondary statement that **Mr. and Mrs. Albert D. Flor** managed the restaurant/cocktail bar at **503 Main in 1957**.
+
+When requesting OLCC / predecessor licensing records or city/county license records, please specifically ask for records that can establish or reject this possible continuity:
+
+- `Albert D. Flor` / `Albert Flor` / `A. D. Flor`;
+- `Margaret Remus` / `Marge Remus`;
+- `Al & Marge Kwality Cafe` / `Al and Marge Kwality Cafe`;
+- `Kwality Cafe`, `503 Main Street`, Oregon City;
+- years **1951–1958**, especially original applications, annual renewals, trade-name cards, premise/address cards, partner changes and ownership/license transfers.
+
+The decisive questions are:
+
+1. What premises/trade name was licensed to **Flor + Remus in December 1951**?
+2. Do 1952–54 records identify **Albert Flor and/or Margaret Remus with Kwality Cafe / 503 Main**?
+3. Who is `Al` and who is `Marge` in the **September 1953** business style?
+4. Was **Fred Remus** related to or employed by the licensees beyond the directory-derived statement that he cooked at Kwality Cafe?
+5. What change, if any, occurs between Flor's documented 1957 management and the **Wheel Cafe** name by 1960?
+
+For the Morton-side requests, add **`Al & Marge` / `Al and Marge`, `Marge Remus`, `Fred Remus`, and `Kwality Cafe`** as discovery terms alongside Flor/Remus and Wheel Cafe. A fresh public-index pass did not find a Morton hit; treat that only as an access result.

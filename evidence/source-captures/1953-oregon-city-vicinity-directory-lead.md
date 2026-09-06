@@ -47,3 +47,19 @@ When the directory image is obtained, visually inspect and capture:
 - the complete odd-numbered 500 block for address controls.
 
 Do not promote the spelling "Well's Recreation" to primary evidence until the actual directory page is visually inspected.
+
+## Flor / Remus / Kwality retrieval expansion
+<!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
+
+The 1953 directory is now also the highest-value source for resolving the early-1950s **503 Main Kwality Cafe operator chain**. New official city text names **`Al & Marge Kwality Cafe`** in September 1953; a City historic-resource record separately says **Fred Remus was a cook at Kwality Cafe in 1953**; and the December 1951 city liquor list names **Albert D. Flor and Margaret Remus** jointly.
+
+When the directory image is obtained, add these mandatory captures to the existing 505 work:
+
+- alphabetical **Flor** entries, especially Albert / Albert D.;
+- alphabetical **Remus** entries, especially Margaret/Marge and Fred;
+- exact **503 Main** street-address entry and adjacent 501/505 controls;
+- classified **restaurants / cafes / cocktail lounges**;
+- any `Kwality Cafe`, `Al & Marge`, or variant business listing;
+- proprietor/manager/spouse notation, home address, occupation and telephone number for the named people.
+
+This is now a dual-purpose source: it can resolve both the 505 `Well's Recreation` question and the Flor/Remus → Kwality → Wheel transition at 503.
