@@ -10,90 +10,32 @@ on:
 jobs:
   query:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps:
-      - name: Discover ORMS form and query Nov-Dec 1945
+      - name: Probe ORMS search form
         run: |
           python3 - <<'PY'
-          import html, re, urllib.parse, urllib.request
-          from html.parser import HTMLParser
-
-          BASE = 'https://ormswd.synergydcs.com/ORMSCMSearch/search/SearchMain.aspx'
-          HEADERS = {'User-Agent': 'Mozilla/5.0 Main-Street-Archive/1.0'}
-
-          def get(url):
-              req = urllib.request.Request(url, headers=HEADERS)
-              with urllib.request.urlopen(req, timeout=90) as r:
-                  return r.geturl(), r.read().decode('utf-8', 'replace')
-
-          class Parser(HTMLParser):
-              def __init__(self):
-                  super().__init__(); self.selects=[]; self.current=None; self.option=None; self.links=[]; self.form=None; self.inputs=[]
-              def handle_starttag(self, tag, attrs):
-                  a=dict(attrs)
-                  if tag=='form' and self.form is None: self.form=a
-                  elif tag=='select':
-                      self.current={'name':a.get('name'),'id':a.get('id'),'options':[]}; self.selects.append(self.current)
-                  elif tag=='option' and self.current is not None:
-                      self.option={'value':a.get('value',''),'text':''}
-                  elif tag=='input': self.inputs.append(a)
-                  elif tag=='a' and a.get('href'): self.links.append((a.get('href'),''))
-              def handle_data(self, data):
-                  if self.option is not None: self.option['text'] += data
-                  if self.links: self.links[-1]=(self.links[-1][0], self.links[-1][1]+data)
-              def handle_endtag(self, tag):
-                  if tag=='option' and self.option is not None and self.current is not None:
-                      self.option['text']=' '.join(self.option['text'].split())
-                      self.current['options'].append(self.option); self.option=None
-                  elif tag=='select': self.current=None
-
-          final, body = get(BASE)
-          p=Parser(); p.feed(body)
-          print('FORM URL', final)
-          print('FORM', p.form)
-          print('INPUTS')
-          for x in p.inputs: print({k:x.get(k) for k in ('name','id','type','value')})
-          print('SELECTS')
-          for s in p.selects:
-              print('SELECT', s['name'], s['id'])
-              for o in s['options']:
-                  if o['text']:
-                      print('  OPTION', repr(o['value']), '|', o['text'])
-
-          allopts=[o for s in p.selects for o in s['options']]
-          jur = next((o['value'] for o in allopts if 'oregon city' in o['text'].lower()), None)
-          meeting = next((o['value'] for o in allopts if o['text'].strip().lower()=='meeting date'), None)
-          content = next((o['value'] for o in allopts if o['text'].strip().lower()=='document content'), None)
-          anyword = next((o['value'] for o in allopts if o['text'].strip().lower()=='any word'), None)
-          print('DISCOVERED jurisdiction=',repr(jur),'meeting=',repr(meeting),'content=',repr(content),'anyword=',repr(anyword))
-
-          def query(label, params):
-              url=BASE+'?'+urllib.parse.urlencode(params)
-              print('\nQUERY', label, url)
-              try:
-                  f,b=get(url)
-              except Exception as e:
-                  print('ERROR',repr(e)); return
-              print('FINAL',f,'BYTES',len(b))
-              q=Parser(); q.feed(b)
-              hits=[]
-              for href,text in q.links:
-                  t=' '.join(text.split())
-                  if ('HPRMWebDrawer/Record/' in href or '/Record/' in href or 'record' in t.lower() or 'city commission' in t.lower()):
-                      hits.append((href,t))
-              print('HITS',len(hits))
-              for h,t in hits[:100]: print('HIT',h,'|',t)
-              # Print compact visible text around likely record numbers / dates / license vocabulary.
-              txt=' '.join(re.sub(r'<[^>]+>',' ',b).split())
-              for needle in ('1945','liquor','license','commission'):
-                  low=txt.lower(); pos=low.find(needle)
-                  if pos>=0: print('SNIP',needle,html.unescape(txt[max(0,pos-250):pos+750]))
-
-          common={'arch':'1','code':jur or '023','op1':'AND','page':'1','size':'100'}
-          if meeting:
-              query('meeting-date Nov-Dec 1945', {**common,'t1':meeting,'q1':'11/01/1945 to 12/31/1945'})
-          if content:
-              query('document-content liquor + 1945', {**common,'t1':content,'q1':'liquor','op1':'AND','t2':content,'q2':'1945'})
-              query('document-content license + 1945', {**common,'t1':content,'q1':'license','op1':'AND','t2':content,'q2':'1945'})
-          if anyword:
-              query('any-word 1945', {**common,'t1':anyword,'q1':'1945'})
+          import re, urllib.request
+          url='https://ormswd.synergydcs.com/ORMSCMSearch/search/SearchMain.aspx'
+          req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0'})
+          try:
+              with urllib.request.urlopen(req,timeout=15) as r:
+                  body=r.read().decode('utf-8','replace')
+                  print('STATUS',r.status,'URL',r.geturl(),'BYTES',len(body))
+                  for m in re.finditer(r'<select[^>]*>.*?</select>',body,re.I|re.S):
+                      block=m.group(0)
+                      head=block[:block.find('>')+1]
+                      print('\nSELECT',re.sub(r'\s+',' ',head))
+                      for value,text in re.findall(r'<option[^>]*value=["\']?([^"\' >]*)[^>]*>(.*?)</option>',block,re.I|re.S):
+                          text=re.sub(r'<[^>]+>',' ',text)
+                          text=' '.join(text.split())
+                          print('OPTION',repr(value),'|',text)
+                  print('\nFORM TAGS')
+                  for f in re.findall(r'<form[^>]*>',body,re.I): print(re.sub(r'\s+',' ',f))
+                  print('\nINPUT NAMES')
+                  for tag in re.findall(r'<input[^>]*>',body,re.I):
+                      nm=re.search(r'name=["\']([^"\']+)',tag,re.I)
+                      if nm: print(nm.group(1), re.sub(r'\s+',' ',tag)[:240])
+          except Exception as e:
+              print('FORM_ERROR',repr(e))
           PY
