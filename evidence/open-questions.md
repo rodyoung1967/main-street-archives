@@ -219,3 +219,6 @@ CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936**. Stew
 
 ### 5 September 2026 — P-1798 visual update to OQ-033
 CCHS `P-1798` (`S-244` / `E-218` / `IMG-0764`) adds a precisely described **1 September 1902 Fifth/Main** photograph. It gives a low-profile probable one-story/tall-false-front structural state in the target zone, but its pale business lettering remains unreadable and no exact later 501/503/505 mapping follows. Existing `E-146` Union Store block-level evidence remains a separate candidate and is not visually assigned to the photograph.
+
+### 5 September 2026 — 1896 Albright/Wilhelm sign-map question
+CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) provides a new pre-numbering Fifth/Main spatial control. `C. ALBRIGHT'S` / `COLD STORAGE` is visibly on the steward-mapped Fifth/Main foreground and strongly correlates with `E-173`/`E-123` Albright-old-stand evidence; Wilhelm Tell House provides a north-end Sixth/Main compatibility anchor. **Open:** align the photograph to the 1892 Sanborn and later exact-number ladder before assigning any photographed 1896 bay to modern 501, 503 or 505.

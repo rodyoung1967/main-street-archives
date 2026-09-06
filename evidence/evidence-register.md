@@ -2042,3 +2042,16 @@ Claims:
 - No individual 1896 business is assigned to later 501, 503 or 505 from this image alone, and Harding is not assigned an 1896 number from later address evidence.
 Classification: **DOCUMENTED / DIRECT** for object/date and visible sign/street fabric; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY** for the northeast-corner identification; **STRONG SPATIAL INFERENCE** for the later-numbered site sequence; **UNRESOLVED** for individual predecessor bay/address assignments and Harding's exact 1896 number.  
 Confidence: **Very High** for object identity and visible signs; **High** for the steward-anchored side/order geometry; **Unresolved** for exact 501/503/505 predecessor boundaries.
+
+## E-220 — 1896 Fifth/Main photograph anchors Albright cold-storage signage at the Fifth/Main corner and Wilhelm Tell House toward Sixth/Main
+Source: `S-246`  
+Media: `IMG-0766`  
+Type: Primary photographic evidence with cross-source spatial/business correlation  
+Claims:
+- CCHS `2008.008.005.003` is titled **Oregon City 1896 - 5th and Main Street Looking NE**; the project steward further identifies the camera as on Fifth looking north toward Sixth.
+- `C. ALBRIGHT'S` and `COLD STORAGE` are directly readable on the right/east-side foreground sign; `E-173` and `E-123` independently place Charles Albright's old meat-business stand at Fifth/Main by 1907, creating a strong cross-source site correlation.
+- `WILHELM TELL HOUSE` is directly readable toward the north end; a 25 July 1902 primary advertisement independently locates that business at Sixth/Main, supporting the view orientation without proving 1896 proprietorship or a numbered address.
+- `Schlitz` is directly readable on the west/left side; an 1894 primary advertisement places The Bon Ton on Main near Fifth and advertises Schlitz beer, making that business a probable photographed-premises candidate rather than a proved identification.
+- The photograph does not establish exact later 501/503/505 boundaries or building continuity into 1922 or the surviving structures.
+Classification: **DOCUMENTED / DIRECT** for visible signs and CCHS identity; **STRONG CROSS-SOURCE INFERENCE** for Albright's Fifth/Main site; **PROBABLE / WORKING HYPOTHESIS** for the Bon Ton/Schlitz identification; exact numbered-address mapping unresolved.  
+Confidence: Very High for readable signs and object identity; High for Albright Fifth/Main correlation; Moderate for Bon Ton identification; unresolved for exact later numbers/building continuity.

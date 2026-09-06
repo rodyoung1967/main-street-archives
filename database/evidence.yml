@@ -3340,3 +3340,15 @@ evidence:
     related_buildings: [B-005, B-001, B-002]
     related_businesses: [BUS-007]
 
+  - id: E-220
+    name: "1896 Fifth/Main photograph anchors Albright cold-storage signage at the Fifth/Main corner and Wilhelm Tell House toward Sixth/Main"
+    type: "Primary photographic evidence with cross-source spatial/business correlation"
+    claims:
+      - "C. ALBRIGHT'S and COLD STORAGE are directly readable; existing E-173/E-123 independently place Charles Albright's old meat-business stand at Fifth/Main."
+      - "WILHELM TELL HOUSE is directly readable toward the north end and is compatible with a 1902 primary advertisement locating that business at Sixth/Main."
+      - "Schlitz is directly readable; an 1894 Main-near-Fifth Bon Ton advertisement for Schlitz beer makes The Bon Ton a probable, not proved, photographed-premises identification."
+      - "Exact later 501/503/505 boundaries and building continuity remain unresolved."
+    confidence: "Very High for visible signs/object identity; High for Albright Fifth/Main correlation; Moderate for Bon Ton identification; exact numbered addresses unresolved."
+    related_sources: [S-246]
+    related_evidence: [E-173, E-123]
+    repository_file: "evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md"

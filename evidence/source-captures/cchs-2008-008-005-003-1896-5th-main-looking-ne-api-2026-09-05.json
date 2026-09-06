@@ -1,0 +1,243 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "2008.008.005.003",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/82f6f940-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-5th-and-main-street-looking-ne",
+  "repository_file": "media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 947,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fe0b2100-9b60-11eb-97c3-a30f15c9573f-vdUe0yc.lg@2x.jpg"
+  },
+  "repository_image": {
+    "width": 2141,
+    "height": 1690,
+    "bytes": 613332,
+    "sha256": "82c11006e4e682012ae639ec84df777b6fefef656532236e8302d7268ccb841e"
+  },
+  "steward_upload": {
+    "filename": "Oregon City 1896 - 5th and Main Street Looking NE.jpg",
+    "width": 2048,
+    "height": 1616,
+    "bytes": 1120199,
+    "sha256": "37d0c6b6aa607bd8891d2440a095cea802f8e6f116f4dd927982331895668547",
+    "orientation_note": "Project steward: on 5th looking north toward 6th."
+  },
+  "repository_byte_identical_to_steward_upload": false,
+  "entry": {
+    "id": "82f6f940-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1896-5th-and-main-street-looking-ne",
+    "media": [
+      {
+        "uuid": "fe0b2100-9b60-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "O.C. Main St., looking NE at 6th St., 1896",
+        "description": "Copyright: none; Origsize: 4 x 4.75; Origformat: Negative; Resolution: 800 DPI; Negno: 1",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/fe0b2100-9b60-11eb-97c3-a30f15c9573f-sumNnPx.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/fe0b2100-9b60-11eb-97c3-a30f15c9573f-sumNnRa.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fe0b2100-9b60-11eb-97c3-a30f15c9573f-vdUe0yc.sm@1x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fe0b2100-9b60-11eb-97c3-a30f15c9573f-vdUe0yc.sm@2x.jpg",
+            "width": 768,
+            "height": 606
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fe0b2100-9b60-11eb-97c3-a30f15c9573f-vdUe0yc.lg@1x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/fe0b2100-9b60-11eb-97c3-a30f15c9573f-vdUe0yc.lg@2x.jpg",
+            "width": 1200,
+            "height": 947
+          },
+          "dominant_color": "93928C",
+          "complementary_color": "8C8D93"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1896 - 5th and Main Street Looking NE",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "2008.008.005.003",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City Main Street, looking NE toward 6th Street. Stevens corner on the upper left, the Oriental Hotel called the Wilhelm Tell House, and Gambrinus Cold Storage (JAH 11/2022)",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1896",
+                "fuzzydate_date": "1896-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Negative\nLocation of Negative: Society Collection",
+            "order": 3
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Caufield, R 3; Other Photo #: Andresen #2",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "0000002008000000000800000000050000000003",
+    "prev_id": "ffa30510-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "82ebfcc0-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

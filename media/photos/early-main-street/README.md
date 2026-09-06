@@ -203,3 +203,5 @@ Planned repository paths once original binaries can be transferred:
 - Directly visible: Portland House, Harding/drug-store wording, railway ticket-office wording and the pre-numbering Main Street building fabric.
 - Steward spatial anchor: the two men mark the northeast Fifth/Main corner.
 - The later 501/503/505 positions contain **older predecessor buildings** in this image. Do not backdate the later building identities to 1896.
+
+- `IMG-0766` — 1896 Fifth/Main looking NE, CCHS `2008.008.005.003`: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`. Directly readable `C. ALBRIGHT'S` / `COLD STORAGE`, `WILHELM TELL HOUSE`, and `Schlitz` signs. Albright has a strong cross-source Fifth/Main site bridge through `E-173`/`E-123`; exact later 501/503/505 boundaries remain unresolved.

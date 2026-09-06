@@ -97,3 +97,5 @@ E-116/S-130, [page ledger](../evidence/source-captures/1916-courier-pages-106-18
 | Quality Cafe, exact number unresolved | Unassigned | `businesses/quality-restaurant-1922.md` | `BUS-089` | `E-181` | August roster alone gives no proprietor/address. |
 
 Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+
+| Fifth/Main foreground; no number (1896 photograph) | C. Albright's cold-storage/meat premises | `E-220` with later `E-173` / `E-123` | **Strong cross-source intersection/site correlation**: photographed sign reads `C. ALBRIGHT'S` / `COLD STORAGE`; later records call Charles Albright's meat-business location/old stand Fifth/Main. Exact later number and building continuity unresolved. |

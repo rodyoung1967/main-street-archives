@@ -658,3 +658,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Preserved the steward's northeast Fifth/Main corner identification as attributed spatial testimony.
 - Recorded the crucial structural distinction that the 1896 buildings on the later 501/503/505 sites are **predecessor buildings**, not the later/current structures.
 - Did not back-project Harding's later 511/507 addresses into 1896 and did not assign individual 1896 businesses to later 501/503/505 without a geometric or contemporary-address bridge.
+
+### 2026-09-05 — CCHS 2008.008.005.003 1896 Fifth/Main sign-to-address photograph
+- Integrated the steward-supplied scene as `IMG-0766` / `S-246` / `E-220`.
+- Preserved steward original fingerprint: `Oregon City 1896 - 5th and Main Street Looking NE.jpg`, 2048×1616, 1,120,199 bytes, SHA-256 `37d0c6b6aa607bd8891d2440a095cea802f8e6f116f4dd927982331895668547`.
+- Direct visual reads: `C. ALBRIGHT'S` / `COLD STORAGE`, `WILHELM TELL HOUSE`, and `Schlitz`.
+- Cross-checked Albright against existing `E-173`/`E-123` Fifth/Main old-stand evidence; classified the exact numbered address as unresolved.
+- Preserved Wilhelm Tell House at Sixth/Main (1902 primary-ad compatibility) and The Bon Ton/Schlitz (1894 Main-near-Fifth ad) as location/identity correlations with explicit uncertainty.
+- No annual research-status certification changed.

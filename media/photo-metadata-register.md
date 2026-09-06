@@ -1739,3 +1739,15 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Visual review: Portland House; Harding/drug-store wording; East Side Railway ticket-office wording; Sixth-to-Fifth Main streetscape.
 - Spatial caution: steward identifies the two men as the northeast Fifth/Main corner. The later 501-505 sites are visible on the right/west side as **predecessor buildings**, not the later/current structures. Individual bay assignments remain unresolved.
 - Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street
+
+## IMG-0766 — CCHS 2008.008.005.003, Oregon City 1896 - 5th and Main Street Looking NE
+- Type: Historic streetscape photograph
+- CCHS object: **2008.008.005.003**
+- CCHS title: **Oregon City 1896 - 5th and Main Street Looking NE**
+- Repository file: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`
+- Status: `committed`
+- Repository dimensions: **2141 × 1690**; 613,332 bytes; SHA-256 `82c11006e4e682012ae639ec84df777b6fefef656532236e8302d7268ccb841e`
+- Steward original: `Oregon City 1896 - 5th and Main Street Looking NE.jpg`; 2048×1616; 1,120,199 bytes; SHA-256 `37d0c6b6aa607bd8891d2440a095cea802f8e6f116f4dd927982331895668547`
+- Steward orientation: **on 5th looking north toward 6th**
+- Visual note: Wilhelm Tell House; C. Albright's / Cold Storage; Schlitz signs readable. Exact later 501/503/505 storefront boundaries remain unresolved.
+- Related source/evidence: `S-246` / `E-220`

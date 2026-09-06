@@ -267,3 +267,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - CCHS object: `P-1798`
 - Date: **1 September 1902** from catalog description
 - Status: committed; readable advertising recorded; pale target-wall lettering, exact occupant, exact later address mapping and building continuity remain unresolved.
+
+### IMG-0766 — CCHS 2008.008.005.003, 1896 Fifth/Main looking NE
+- File: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`
+- Source/evidence: `S-246` / `E-220`
+- Date/title: **1896** in institutional title
+- Status: committed; readable Albright cold-storage, Wilhelm Tell House and Schlitz signage; exact later numbered-address mapping unresolved.

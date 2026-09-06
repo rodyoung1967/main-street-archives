@@ -1963,3 +1963,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-219` / `IMG-0765` / `T-092`.  
 Related sites/buildings: `B-005`, `B-001`, `B-002`; related business context: `BUS-007`.  
 Notes: Steward fixes the northeast Fifth/Main corner by the two men. The visible later-501/503/505 positions contain predecessor buildings, not the later/current structures. Readable Harding/drug-store and railway-ticket signs are preserved without assigning an unsupported 1896 street number.
+
+## S-246 — CCHS 2008.008.005.003, Oregon City 1896 - 5th and Main Street Looking NE
+Type: Primary historic photograph with CCHS catalog identity; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `2008.008.005.003`.  
+Title/date wording: **Oregon City 1896 - 5th and Main Street Looking NE**.  
+Repository image: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`.  
+Capture: `evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-5th-and-main-street-looking-ne  
+Related evidence/media: `E-220` / `IMG-0766`; cross-checks `E-173`, `E-123`.  
+Related study area: historic 501/503/505 predecessor frontage; exact later numbered boundaries unresolved.  
+Notes: `WILHELM TELL HOUSE`, `C. ALBRIGHT'S` / `COLD STORAGE`, and `Schlitz` are directly readable. Steward orientation is on Fifth looking north toward Sixth.
