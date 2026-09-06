@@ -1,0 +1,27 @@
+{
+  "purpose": "Licensing-record route controls for the LaFarlette / Town Club 1953-1957 research lead",
+  "archive": "Historic Oregon Newspapers / University of Oregon",
+  "retrieved_utc_by": "GitHub Actions",
+  "items": [
+    {
+      "date": "1954-12-09",
+      "publication": "Coquille Valley Sentinel",
+      "page": 3,
+      "file": "1954-12-09-p3-coos-county-liquor-renewal-control.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1954-12-09/ed-1/seq-3.pdf",
+      "bytes": 5572882,
+      "sha256": "b73f31b36449fd7bdc24e4ecda854fa77adb379b01e8d9e82d8322d3f2c330cb",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1955-12-07",
+      "publication": "Medford Mail Tribune",
+      "page": 7,
+      "file": "1955-12-07-p7-olcc-renewal-action-coos-county-control.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn97071090/1955-12-07/ed-1/seq-7.pdf",
+      "bytes": 767960,
+      "sha256": "b4c923354d808fcbc9a155dc2789fee21212e0e136de912f56820c0a229a55a9",
+      "content_type": "application/pdf"
+    }
+  ]
+}
