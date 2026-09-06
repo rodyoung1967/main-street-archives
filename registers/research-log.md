@@ -626,3 +626,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Exact 501/503/505 lettering/business signage is unreadable at this scale.
 - Because no month is supplied, P-5577 is **not** classified as pre- or post-18-July-1922-fire evidence. `P-9594` remains the stronger November 1922 post-fire visual control.
 - No annual research-status certification changed.
+
+### 2026-09-05 — CCHS P-5578 1927 aerial / probable two-story 501 mass
+- Integrated project-steward supplied CCHS `P-5578` as `IMG-0762` / `S-242` / `E-216` / `T-090`.
+- Preserved the institutional title **Oregon City 1922 - Aerial View of West Linn and Oregon City** and the separate Date made field **1927** as an explicit catalog discrepancy rather than silently reconciling them.
+- Preserved steward-upload fingerprint: `Oregon City 1922 - Aerial View of West Linn and Oregon City.jpg`, 2048×1600, 1,197,569 bytes, SHA-256 `a3310bf8ad80041f7ef6b5a1998237aa10893373485668dc91b40e77d23c1b4c`.
+- At the steward-mapped historic 501 position, direct visual review shows an apparently **two-story** building mass. Exact `501` numbering is not readable, so address assignment remains **PROBABLE / WORKING HYPOTHESIS**.
+- The 1927 two-story state is compatible with the two-story Gates Fifth/Main replacement independently reported in August 1922 (`E-097`) but does not prove identity or resolve the 501-versus-501+503 footprint model.
+- `P-5578` is companion-series exposure #2; remaining `P-4776`, `P-5579`, and `P-5580` should be checked individually for their own Date made fields. Do not assume all companion images share a 1922 date.
+- No annual closeout status changed.

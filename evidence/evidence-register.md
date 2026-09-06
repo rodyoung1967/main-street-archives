@@ -1989,3 +1989,17 @@ Claims:
 - CCHS names companion photographs **P-4776, P-5578, P-5579 and P-5580**; reviewing that sequence may improve target-block geometry and dating.
 Classification: **DOCUMENTED / DIRECT** for object/date/year and broad scene; **DOCUMENTED SPATIAL CONTEXT** for the target district being in frame; **UNRESOLVED** for fire/rebuild state and exact target footprints.  
 Confidence: **Very High** for catalog identity/year and broad visual geography; unresolved for precise within-year chronology and target-building detail.
+
+## E-216 — P-5578 visually supports a probable two-story building mass at the steward-mapped historic 501 position in the cataloged 1927 state
+Source: `S-242`  
+Media: `IMG-0762`  
+Related building: `B-005`  
+Type: Primary historic aerial photograph / structural and spatial evidence  
+Claims:
+- CCHS `P-5578` is titled **Oregon City 1922 - Aerial View of West Linn and Oregon City**, while its separate Date made field is **1927**; both are preserved and the discrepancy remains explicit.
+- Direct visual review shows an apparently **two-story** building mass at the project-steward mapped historic 501 position.
+- No readable `501` number appears in the image, so the exact address assignment is **PROBABLE / WORKING HYPOTHESIS**, not direct numbered-address evidence.
+- The 1927 two-story mass is structurally compatible with the two-story Gates Fifth/Main fire-replacement independently documented in August 1922 (`E-097`).
+- This photograph does not resolve whether the Gates building mapped to later 501 alone, 501+503, or another room/footprint arrangement.
+Classification: **DOCUMENTED / DIRECT** for CCHS metadata; **VISUALLY VERIFIED** for apparent two-story mass; **PROBABLE / WORKING HYPOTHESIS** for exact 501 assignment; **STRONG CROSS-SOURCE COMPATIBILITY** with the Gates two-story rebuild description.  
+Confidence: **High** for visual story-height interpretation at the mapped position; exact numbered-address/building identity remains unresolved.

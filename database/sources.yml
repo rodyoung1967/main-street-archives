@@ -1407,3 +1407,14 @@ sources:
     related_evidence: [E-215]
     related_media: [IMG-0761]
 
+  - id: S-242
+    name: "CCHS P-5578, Oregon City aerial view of West Linn and Oregon City, Date made 1927"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-west-linn-and-oregon-city"
+    type: "Primary historic aerial photograph with CCHS institutional catalog metadata"
+    date: "1927"
+    repository_file: "media/photos/aerials/IMG-0762_1927-west-linn-oregon-city-aerial-cchs-p5578.jpg"
+    notes: "Institutional title contains 1922 but Date made is 1927. At steward-mapped historic 501 position, visible mass appears two stories; exact 501 number is not readable."
+    related_evidence: [E-216]
+    related_media: [IMG-0762]
+    related_buildings: [B-005]
+

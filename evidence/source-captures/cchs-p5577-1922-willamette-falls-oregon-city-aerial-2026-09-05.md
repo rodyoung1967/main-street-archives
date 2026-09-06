@@ -64,3 +64,8 @@ The `2014.002.027.001` designation and **Gardner Photos 027_001** number also su
 - **UNRESOLVED:** precise exposure date within 1922; pre- versus post-18-July-fire state; exact 501/503/505 footprint transcription from this image; any business occupancy.
 
 No visual absence is treated as proof of vacancy, demolition or non-use.
+
+## Companion P-5578 reviewed
+
+Companion `P-5578` is now archived as `S-242` / `E-216` / `IMG-0762` / `T-090`. Its institutional title also contains `1922`, but its separate Date made field is **1927**. This means the companion-series label alone cannot be used to assume all exposures were made in 1922 or on one flight. P-5578 also provides a clearer later-state observation that the building mass at the steward-mapped historic 501 position appears **two stories tall**.
+

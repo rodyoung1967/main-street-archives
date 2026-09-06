@@ -922,3 +922,13 @@ timeline:
     related_evidence: [E-215]
     related_media: [IMG-0761]
 
+  - id: T-090
+    date: "1927"
+    title: "1927 — P-5578 shows probable two-story mass at mapped historic 501 position"
+    summary: "CCHS P-5578 has a title containing 1922 but Date made 1927. At the steward-mapped historic 501 position, the visible mass appears two stories tall; exact numbered identity is not directly readable."
+    confidence: "High for visual story-height interpretation; probable for exact 501 mapping; Gates identity unresolved."
+    related_sources: [S-242]
+    related_evidence: [E-216]
+    related_media: [IMG-0762]
+    related_buildings: [B-005]
+

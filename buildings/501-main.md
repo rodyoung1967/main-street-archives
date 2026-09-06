@@ -5,8 +5,8 @@
 - Building ID: `B-005`
 - Related businesses: `BUS-045`, `BUS-024`, `BUS-025`
 - Related people: `P-055`, `P-037`, `P-038`, `P-099`
-- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`
-- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`
+- Related evidence: `E-020`, `E-021`, `E-054`, `E-055`, `E-056`, `E-094`, `E-096`, `E-097`, `E-103`, `E-104`, `E-108`, `E-121`, `E-122`, `E-154`, `E-155`, `E-156`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-216`
+- Related sources: `S-021`, `S-023`, `S-064` through `S-069`, `S-107`, `S-108`, `S-111` through `S-113`, `S-117` through `S-119`, `S-135` through `S-137`, `S-174` through `S-176`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-242`
 - Related open question: `OQ-005`
 - Related research leads: `RL-018` through `RL-022`
 - Unified timeline: [501 Main Street](../timelines/501-main.md)
@@ -185,3 +185,9 @@ This does **not** prove the replacement was this numbered address. In particular
 ### 1922 P-5577 aerial spatial context
 
 CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district within a broad **1922** aerial of Oregon City. The image is useful for block-scale geometry and companion-flight comparison, but exact target numbers are unreadable and the catalog supplies no month. Do **not** use it alone to classify this address as pre- or post-July-fire or to prove a specific Gates-rebuild footprint.
+
+### 1927 P-5578 aerial — probable two-story mass at mapped 501 position
+
+CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is cataloged with a **Date made field of 1927**, despite an institutional title containing `1922`. At the project-steward mapped historic 501 position, the visible building mass appears **two stories tall**. The photograph does not show a readable `501`, so exact numbered identification is **PROBABLE / WORKING HYPOTHESIS**, not direct address evidence.
+
+This is structurally compatible with the **two-story hollow-tile** Gates Fifth/Main replacement documented in August 1922 (`E-097`) and provides a useful post-1925 visual control. It does not prove that the visible 1927 mass is the Gates building or resolve whether Gates's two ground-floor storerooms became later 501 alone, 501+503, or another arrangement.

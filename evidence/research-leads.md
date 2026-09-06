@@ -377,3 +377,7 @@ Next priority is now sharply defined: find **one 1930–1939 exact-address Fain 
 ### P-5577 companion aerial sequence
 
 CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761` / `T-089`) explicitly names companion photographs **P-4776, P-5578, P-5579 and P-5580**. Retrieve all four and compare their camera positions, overlap and target-block visibility. The goal is to determine whether any exposure gives a stronger footprint view of 501/503/505 or can be relatively sequenced against the July 1922 fire and November `P-9594` control. Do not infer pre/post-fire status from P-5577's year-only date.
+
+### P-5578 companion-series date/footprint follow-up
+
+CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is now reviewed. Its title contains **1922**, but its separate Date made field is **1927**, while already archived `P-5577` has Date made **1922**. Therefore the companion list must not be assumed to be one same-date flight. Retrieve `P-4776`, `P-5579`, and `P-5580` individually, record each Date made field, and compare the steward-mapped 501/503/505 footprint and story heights. Highest-value test: determine whether the apparent two-story 501-position mass persists consistently and whether any angle clarifies the Gates 501-alone versus 501+503 model.

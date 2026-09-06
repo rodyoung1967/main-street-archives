@@ -1688,3 +1688,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Status: `committed`
 - Visual review: broad Willamette Falls / West Linn / Oregon City aerial. Fifth/Main is within the downtown frame, but exact 501/503/505 lettering and business signs are not readable. No month is supplied, so pre-/post-July-1922-fire state remains unresolved.
 - Companion-photo lead: `P-4776`, `P-5578`, `P-5579`, `P-5580`.
+
+## IMG-0762 — CCHS P-5578 1927 aerial view of West Linn and Oregon City
+- Source/evidence/timeline: `S-242` / `E-216` / `T-090`
+- Related building: `B-005`
+- CCHS object: **P-5578**
+- CCHS title: **Oregon City 1922 - Aerial View of West Linn and Oregon City**
+- Date made: **1927**
+- Title/date note: title contains `1922`; separate Date made field is `1927`. Preserve both; chronology uses Date made 1927 pending further catalog clarification.
+- Description: **Aerial View #2 of Willamette Falls, W. Linn and O.C. Companion Photos P-4776, P-5577, P-5578, P-5579, P-5580. 2014.002.027.002**
+- Medium: **Photographic Paper**; negative location **CCHS Halon Room**
+- Other number: **Gardner Photos 027_002**
+- Project-steward upload: `Oregon City 1922 - Aerial View of West Linn and Oregon City.jpg`; 2048 × 1600; 1,197,569 bytes; SHA-256 `a3310bf8ad80041f7ef6b5a1998237aa10893373485668dc91b40e77d23c1b4c`
+- Repository file: `media/photos/aerials/IMG-0762_1927-west-linn-oregon-city-aerial-cchs-p5578.jpg`
+- Repository dimensions: **2400 × 1875**; 1,080,385 bytes; SHA-256 `811b55bdc23dea565435846626e165436e91c48c5feb2a90c9a57bce8466d648`
+- Status: `committed`
+- Visual review: at the steward-mapped historic 501 position, the building mass appears **two stories tall**. No `501` number is readable, so exact address mapping remains probable rather than direct.
+- Structural comparison: compatible with the two-story Gates Fifth/Main replacement reported in August 1922 (`E-097`); identity not proved.

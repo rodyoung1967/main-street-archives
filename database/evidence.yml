@@ -3282,3 +3282,18 @@ evidence:
     related_media: [IMG-0761]
     repository_file: "evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-aerial-2026-09-05.md"
 
+  - id: E-216
+    name: "P-5578 visually supports a probable two-story building mass at the steward-mapped historic 501 position in the cataloged 1927 state"
+    type: "Primary historic aerial photograph / structural and spatial evidence"
+    date: "1927"
+    claims:
+      - "CCHS P-5578 title contains 1922 while the separate Date made field is 1927; both are preserved."
+      - "At the project-steward mapped historic 501 position, the visible building mass appears two stories tall."
+      - "No readable 501 number is present, so exact address identity remains probable rather than direct."
+      - "The 1927 two-story mass is compatible with the two-story Gates Fifth/Main replacement documented in August 1922, but identity and exact 501/503 footprint remain unresolved."
+    confidence: "High for visual two-story interpretation; probable for exact 501 mapping; unresolved for Gates identity and footprint."
+    related_sources: [S-242]
+    related_media: [IMG-0762]
+    related_buildings: [B-005]
+    repository_file: "evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-501-two-story-2026-09-05.md"
+

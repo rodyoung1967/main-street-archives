@@ -148,10 +148,12 @@ def yaml_add_list_item(path, entity_id, field, item):
     wr(path, text)
 
 
-for p in ("evidence/source-register.md", "media/photo-metadata-register.md", "indexes/id-crosswalk.md"):
-    if TARGET in rd(p):
-        print(f"{TARGET} already integrated; no changes needed.")
-        raise SystemExit(0)
+if (
+    f"Catalog ID: `{TARGET}`" in rd("evidence/source-register.md")
+    or f"CCHS object: **{TARGET}**" in rd("media/photo-metadata-register.md")
+):
+    print(f"{TARGET} already integrated as its own archival object; no changes needed.")
+    raise SystemExit(0)
 
 SID = next_id("evidence/source-register.md", "S", 3)
 EID = next_id("evidence/evidence-register.md", "E", 3)

@@ -539,3 +539,7 @@ Cross-check: the independently integrated **1936 P-1128** view (`S-236` / `E-210
 ## 1922 — T-089: P-5577 aerial documents same-year downtown geometry
 
 CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) is a **1922** aerial of Willamette Falls, West Linn and Oregon City. The downtown grid and Fifth/Main district are in frame, providing same-year spatial context for the target block. The catalog gives **no month**, so this photograph is **not** used to decide whether the exposure predates or postdates the 18 July Fifth/Main fire or whether the Gates replacement was already complete. Exact 501/503/505 signs are unreadable at this scale. Companion exposures `P-4776`, `P-5578`, `P-5579`, and `P-5580` remain a high-value sequence to retrieve.
+
+## 1927 — T-090: P-5578 shows probable two-story mass at mapped historic 501 position
+
+CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762`) has an institutional title containing **1922** but a separate **Date made field of 1927**. Both are preserved; this timeline uses the Date made field while flagging the discrepancy. In the steward-mapped historic 501 position, direct visual review shows a building mass that appears **two stories tall**. Because no `501` number is visible, exact address identity remains **PROBABLE / WORKING HYPOTHESIS**. The two-story 1927 state is compatible with the two-story Gates Fifth/Main replacement reported in August 1922 (`E-097`) but does not resolve whether that rebuild mapped to later 501 alone or 501+503.

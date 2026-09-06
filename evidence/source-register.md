@@ -1917,3 +1917,15 @@ Capture: `evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city  
 Related evidence/media/timeline: `E-215` / `IMG-0761` / `T-089`.  
 Notes: Broad aerial of Willamette Falls, West Linn and Oregon City. Fifth/Main lies within the downtown frame, but individual target numbers/business signs are unreadable at this scale. Because no month is supplied, do not classify the view as pre- or post-July-1922 fire from this source alone. Companion photos: P-4776, P-5578, P-5579, P-5580.
+
+## S-242 — CCHS P-5578, Oregon City aerial view of West Linn and Oregon City, Date made 1927
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `P-5578`; Gardner Photos `027_002`; series wording `2014.002.027.002`.  
+Institutional title: **Oregon City 1922 - Aerial View of West Linn and Oregon City**.  
+Date made field: **1927**; title/date discrepancy retained.  
+Repository image: `media/photos/aerials/IMG-0762_1927-west-linn-oregon-city-aerial-cchs-p5578.jpg`.  
+Capture: `evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-501-two-story-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-west-linn-and-oregon-city  
+Related evidence/media/timeline/building: `E-216` / `IMG-0762` / `T-090` / `B-005`.  
+Notes: At the steward-mapped historic 501 position, the visible building mass appears two stories tall. Exact 501 numbering is not visible and remains a spatial mapping inference. The 1927 state is compatible with the two-story Gates replacement documented in 1922 but does not prove building identity.
