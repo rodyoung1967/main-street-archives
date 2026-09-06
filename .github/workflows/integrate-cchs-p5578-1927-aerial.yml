@@ -29,6 +29,27 @@ jobs:
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
+            python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_cchs_p5578_1927_aerial.py')
+          s = p.read_text(encoding='utf-8')
+          old = '''for p in ("evidence/source-register.md", "media/photo-metadata-register.md", "indexes/id-crosswalk.md"):
+              if TARGET in rd(p):
+                  print(f"{TARGET} already integrated; no changes needed.")
+                  raise SystemExit(0)
+          '''
+          new = '''if (
+              f"Catalog ID: `{TARGET}`" in rd("evidence/source-register.md")
+              or f"CCHS object: **{TARGET}**" in rd("media/photo-metadata-register.md")
+          ):
+              print(f"{TARGET} already integrated as its own archival object; no changes needed.")
+              raise SystemExit(0)
+          '''
+          if old in s:
+              p.write_text(s.replace(old, new), encoding='utf-8')
+          elif new not in s:
+              raise SystemExit('Could not locate P-5578 idempotency block to repair')
+          PY
             python3 scripts/integrate_cchs_p5578_1927_aerial.py
             python3 scripts/validate_archive.py
             git add -A
