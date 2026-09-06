@@ -1,0 +1,45 @@
+{
+  "publication": "Coquille Valley Sentinel",
+  "lccn": "sn96088222",
+  "archive": "Historic Oregon Newspapers / University of Oregon",
+  "purpose": "Corrective preservation of primary pages already used in Raye/Floyd LaFarlette research",
+  "retrieved_utc_by": "GitHub Actions",
+  "items": [
+    {
+      "date": "1947-08-07",
+      "page": 13,
+      "file": "1947-08-07-p13-anderson-lafarlette-mail-contract.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf",
+      "bytes": 4844158,
+      "sha256": "6d84b7b3cbc688a7deddfbf2d52ce4b0002a11b7c5cf3b3e0f5083e6f9b58a0c",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1951-10-18",
+      "page": 4,
+      "file": "1951-10-18-p4-myrtle-lodge-new-owners.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf",
+      "bytes": 5395040,
+      "sha256": "a597245bbed1c834e6a5cf811be7dbf40f54963df18f08d56099b0201ba513da",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1953-06-11",
+      "page": 3,
+      "file": "1953-06-11-p3-myrtle-lodge-banquet.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf",
+      "bytes": 5944019,
+      "sha256": "fa6d694c7f5434cbbd706ea2ec46ee34455fdbec773208263f96b03ee51a97e9",
+      "content_type": "application/pdf"
+    },
+    {
+      "date": "1954-03-11",
+      "page": 1,
+      "file": "1954-03-11-p1-raye-lafarlette-profile.pdf",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf",
+      "bytes": 6485278,
+      "sha256": "48bf4c3e02ec2ca5f844b3d4b4c7eebdd503c4670de9be516f856d10a980ad5b",
+      "content_type": "application/pdf"
+    }
+  ]
+}
