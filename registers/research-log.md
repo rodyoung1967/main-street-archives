@@ -750,3 +750,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 32 pages.
 - Text-layer backstops were run only after each issue's visual review and did not change the bounded no-target result.
 - Non-overlapping tracked 1917 progress is now **29 complete issues / 242 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining June 1917 Courier visual review
+<!-- 1917 June 14-28 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **24/24 actual page scans** for 14, 21 and 28 June 1917. Preserved source retrieval commit: `3c1e42645fdda5c529c254f26c6b7e156e659f20`.
+- With the already reviewed 7 June sample, June is now **4 complete issues / 32 visually verified pages**.
+- Repeated direct controls include **612 Main**, **619 Main**, and **Fifth/Main**.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
+- Text-layer backstops were run only after visual review and did not change the bounded no-target result.
+- Non-overlapping tracked 1917 progress is now **32 complete issues / 266 visually verified page images**. 1917 remains **IN PROGRESS**.

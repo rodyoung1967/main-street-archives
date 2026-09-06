@@ -69,3 +69,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
 
 `S-258` / `E-232` completes visual review of the remaining May 10/17/24/31 *Courier* issues (**32/32 pages**). With May 3, May is now **5 complete issues / 40 pages visually verified**. The non-overlapping monthly-sample + January–May batches total **29 complete tracked issues / 242 visually verified pages**. No exact target 501/503/505/507/509/511 occupant was established in the May continuation. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.
+
+## June completion added 5 September 2026
+<!-- 1917 June 14-28 Courier visual review — 2026-09-05 -->
+
+`S-259` / `E-233` completes visual review of the remaining June 14/21/28 *Courier* issues (**24/24 pages**). With June 7, June is now **4 complete issues / 32 pages visually verified**. The non-overlapping monthly-sample + January–June batches total **32 complete tracked issues / 266 visually verified pages**. No exact target 501/503/505/507/509/511 occupant was established in the June continuation. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.

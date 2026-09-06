@@ -2102,3 +2102,16 @@ Retrieval commit: `9b3c9fc705a394ad3f500093335e73209544948b`
 Related evidence: `E-232`.  
 Capture: `evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md`.  
 Notes: Complete visual review repeatedly confirms dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text checking was only a post-review backstop and no vacancy inference is made.
+
+## S-259 — Oregon City Courier, 14/21/28 June 1917 complete-page visual-review batch
+<!-- 1917 June 14-28 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **14, 21 and 28 June 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-06-14/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-june-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-june-unsampled/manifest.json`  
+Retrieval commit: `3c1e42645fdda5c529c254f26c6b7e156e659f20`  
+Related evidence: `E-233`.  
+Capture: `evidence/source-captures/1917-courier-june-14-28-visual-review-2026-09-05.md`.  
+Notes: Complete visual review repeatedly confirms dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text checking was only a post-review backstop and no vacancy inference is made.
