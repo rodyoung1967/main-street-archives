@@ -1,0 +1,123 @@
+name: Recover 1917 Enterprise April 13 page 8
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/recover-1917-enterprise-april13-page8.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before recovery
+        run: python3 scripts/validate_archive.py
+      - name: Probe alternate page derivatives, hidden sequences, and editions
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, time, re
+          out = pathlib.Path('newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8')
+          out.mkdir(parents=True, exist_ok=True)
+          s = requests.Session()
+          s.headers.update({'User-Agent':'main-street-archives archival recovery audit'})
+          attempts=[]
+
+          def probe(label,url,save_name=None):
+              row={'label':label,'url':url}
+              try:
+                  r=s.get(url,timeout=60,allow_redirects=True)
+                  row.update(status=r.status_code, final_url=r.url, content_type=r.headers.get('content-type',''), bytes=len(r.content), sha256=hashlib.sha256(r.content).hexdigest())
+                  if save_name and r.status_code == 200 and r.content:
+                      p=out/save_name
+                      p.write_bytes(r.content)
+                      row['saved_as']=save_name
+              except Exception as e:
+                  row['error']=repr(e)
+              attempts.append(row)
+              time.sleep(0.08)
+              return row
+
+          hosts=['https://oregonnews.uoregon.edu','https://chroniclingamerica.loc.gov']
+          derivatives=[('.pdf','pdf'),('.jp2','jp2'),('/ocr.txt','txt'),('/ocr.xml','xml'),('.rdf','rdf'),('/thumbnail.jpg','jpg'),('/','html')]
+          for host in hosts:
+              htag='oregonnews' if 'oregonnews' in host else 'chronam'
+              rel='/lccn/sn00063700/1917-04-13/ed-1/seq-8'
+              for suff,ext in derivatives:
+                  probe(f'{htag} Apr13 ed1 seq8 {ext}',host+rel+suff,f'{htag}-apr13-ed1-seq8.{ext}')
+              probe(f'{htag} Apr13 issue html',host+'/lccn/sn00063700/1917-04-13/ed-1/',f'{htag}-1917-04-13-ed1.html')
+              probe(f'{htag} Apr13 issue rdf',host+'/lccn/sn00063700/1917-04-13/ed-1.rdf',f'{htag}-1917-04-13-ed1.rdf')
+
+              # Probe all normal and possible hidden ed-1 sequences. The archive UI exposes eight,
+              # but seq-8 is visibly a second Page 6, so test whether a true Page 8 sits after it.
+              for seq in range(1,13):
+                  probe(f'{htag} Apr13 ed1 seq{seq} pdf',f'{host}/lccn/sn00063700/1917-04-13/ed-1/seq-{seq}.pdf',f'{htag}-apr13-ed1-seq{seq:02d}.pdf')
+                  probe(f'{htag} Apr13 ed1 seq{seq} html',f'{host}/lccn/sn00063700/1917-04-13/ed-1/seq-{seq}/',f'{htag}-apr13-ed1-seq{seq:02d}.html')
+
+              # Alternate editions.
+              for ed in range(2,5):
+                  probe(f'{htag} Apr13 ed{ed} issue',f'{host}/lccn/sn00063700/1917-04-13/ed-{ed}/',f'{htag}-1917-04-13-ed{ed}.html')
+                  for seq in range(1,13):
+                      probe(f'{htag} Apr13 ed{ed} seq{seq} pdf',f'{host}/lccn/sn00063700/1917-04-13/ed-{ed}/seq-{seq}.pdf',f'{htag}-apr13-ed{ed}-seq{seq:02d}.pdf')
+
+              # Neighboring Friday issues for source-object/page-order comparison.
+              for date in ['1917-04-06','1917-04-20']:
+                  probe(f'{htag} {date} issue rdf',f'{host}/lccn/sn00063700/{date}/ed-1.rdf',f'{htag}-{date}-ed1.rdf')
+                  for seq in [6,7,8]:
+                      probe(f'{htag} {date} seq{seq} pdf',f'{host}/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf',f'{htag}-{date}-seq{seq}.pdf')
+
+          loc_urls={
+              'loc-newspaper-title-search':'https://www.loc.gov/newspapers/?q=Oregon%20City%20Enterprise&dates=1917&fo=json&c=100',
+              'loc-lccn-search':'https://www.loc.gov/search/?q=sn00063700&fo=json&c=100',
+              'loc-newspaper-lccn-search':'https://www.loc.gov/newspapers/?q=sn00063700&fo=json&c=100',
+          }
+          for label,url in loc_urls.items():
+              probe(label,url,label+'.json')
+
+          manifest={
+              'title':'Oregon City Enterprise',
+              'lccn':'sn00063700',
+              'target_issue':'1917-04-13',
+              'target_printed_page':8,
+              'reason':'Archive ed-1 seq-8 is visually printed PAGE 6, with a Thursday masthead and obscured/hand-corrected date, while seq-6 is already the normal Friday April 13 Page 6. True April 13 Page 8 therefore requires recovery or source-conflict classification.',
+              'attempts':attempts,
+          }
+          (out/'recovery-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          print(json.dumps(manifest,indent=2))
+          PY
+      - name: Validate archive after recovery
+        run: python3 scripts/validate_archive.py
+      - name: Upload recovery artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1917-enterprise-april13-page8-recovery
+          path: newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/
+          retention-days: 14
+      - name: Commit recovery audit
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/
+          if git diff --cached --quiet; then
+            echo 'No recovery changes.'
+            exit 0
+          fi
+          git commit -m 'Record April 13 Enterprise page 8 recovery audit'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
