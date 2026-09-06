@@ -1,0 +1,79 @@
+name: Add Sheila Chicago chronology control
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/add-sheila-chicago-chronology-control.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before edit
+        run: python3 scripts/validate_archive.py
+      - name: Add Chicago birthplace chronology control
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          marker = "Sheila Chicago birthplace chronology control — 2026-09-06"
+
+          def replace_once(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if marker in text:
+                  print(f'{path}: already integrated')
+                  return
+              if old not in text:
+                  raise SystemExit(f'target not found in {path}')
+              text = text.replace(old, new, 1)
+              p.write_text(text, encoding='utf-8')
+
+          pre = 'evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md'
+          old = "On 6 September 2026 Rodney's brother **Mitch Young independently recalled that the LaFarlettes were in Morton before Coquille, while Sheila was below school age, and that as far as he knew they came to Morton from Chicago**. This supersedes the earlier working placement of Morton after Myrtle Point. The older placement is retained here only as superseded research history; it is no longer the active chronology.\n\nClassification: **FAMILY / ORAL-HISTORY LEAD** until matched to contemporary records."
+          new = "On 6 September 2026 Rodney's brother **Mitch Young independently recalled that the LaFarlettes were in Morton before Coquille, while Sheila was below school age, and that as far as he knew they came to Morton from Chicago**. This supersedes the earlier working placement of Morton after Myrtle Point. The older placement is retained here only as superseded research history; it is no longer the active chronology.\n\nRodney further states from family knowledge that **Sheila LaFarlette was born in Chicago**. The published obituary supplies Sheila's birth date, **13 June 1944**, but does not state a birthplace; therefore Chicago is retained here specifically as **PROJECT-STEWARD / FAMILY PROVENANCE**, not documentary birth-place proof. If accurate, it establishes that the family was still in Chicago at Sheila's birth and makes any remembered Chicago → Morton move necessarily **after 13 June 1944**.\n\n<!-- " + marker + " -->\n\nClassification: **FAMILY / ORAL-HISTORY LEAD** until matched to contemporary records."
+          replace_once(pre, old, new)
+
+          morton = 'evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md'
+          old = "## 2. Sheila's birth date makes “not of school age” a useful chronology control\n\nThe published *Oregonian* obituary for **Sheila (LaFarlette) Wiitanen** states that she was born **13 June 1944**.\n\nSource:\nhttps://obits.oregonlive.com/us/obituaries/oregon/name/sheila-wiitanen-obituary?id=23217490\n\nClassification: **SECONDARY BIOGRAPHICAL CONTROL** for Sheila's reported birth date.\n\nThis makes Mitch's phrase “Mom wasn’t of school age” more useful than a generic before/after recollection. If the remembered **Chicago → Morton → Coquille** sequence is substantially correct, the Morton interval would have occurred during Sheila's very early childhood."
+          new = "## 2. Sheila's birth date and Chicago birthplace sharpen the lower chronology bound\n\nThe published *Oregonian* obituary for **Sheila (LaFarlette) Wiitanen** states that she was born **13 June 1944**.\n\nSource:\nhttps://obits.oregonlive.com/us/obituaries/oregon/name/sheila-wiitanen-obituary?id=23217490\n\nClassification: **SECONDARY BIOGRAPHICAL CONTROL** for Sheila's reported birth date.\n\nRodney Young additionally states from family knowledge that **Sheila was born in Chicago**. The obituary does not state a birthplace, and no birth certificate has yet been recovered in this project, so Chicago is classified as **PROJECT-STEWARD / FAMILY PROVENANCE** rather than documentary proof.\n\n<!-- " + marker + " -->\n\nChronologically, this is important. If the family provenance is accurate, the LaFarlettes were still in **Chicago on 13 June 1944**, and any remembered Chicago → Morton move must have occurred **after Sheila's birth**. Combined with Mitch's phrase “Mom wasn’t of school age,” this makes the proposed Morton interval a very-early-childhood episode rather than merely an undated pre-Coquille stop."
+          replace_once(morton, old, new)
+
+          profile = 'people/profiles/raye-grisham.md'
+          old = "This remains **FAMILY / ORAL-HISTORY EVIDENCE**, not documentary proof. Sheila's published obituary reports a birth date of **13 June 1944**, while the visually rechecked 11 March 1954 *Coquille Valley Sentinel* profile says Sheila was 9 and gives Raye's own contemporary move account as **Chicago → Coquille in 1944**, without mentioning Morton. Floyd is independently documented in a southern Coos County business by **7 August 1947**."
+          new = "This remains **FAMILY / ORAL-HISTORY EVIDENCE**, not documentary proof. Sheila's published obituary reports a birth date of **13 June 1944**. Rodney additionally states from family knowledge that **Sheila was born in Chicago**; because the obituary does not provide birthplace and no birth certificate is yet in the archive, Chicago is retained as **PROJECT-STEWARD / FAMILY PROVENANCE**. If accurate, that means the family was still in Chicago on 13 June 1944 and any Chicago → Morton move came afterward. The visually rechecked 11 March 1954 *Coquille Valley Sentinel* profile says Sheila was 9 and gives Raye's own contemporary move account as **Chicago → Coquille in 1944**, without mentioning Morton. Floyd is independently documented in a southern Coos County business by **7 August 1947**.\n\n<!-- " + marker + " -->"
+          replace_once(profile, old, new)
+          PY
+      - name: Validate archive after edit
+        run: python3 scripts/validate_archive.py
+      - name: Commit chronology refinement
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md \
+            evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md \
+            people/profiles/raye-grisham.md
+          if git diff --cached --quiet; then
+            echo 'No chronology changes.'
+            exit 0
+          fi
+          git commit -m 'Add Sheila Chicago birth chronology control'
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
