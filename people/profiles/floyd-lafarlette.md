@@ -35,3 +35,15 @@ Full chronology/control capture: `evidence/source-captures/lafarlette-morton-chr
 ## The Wheel
 
 Floyd's exact role, operating dates, and any ownership interest in **The Wheel at 503 Main** remain undocumented. His independently documented southwest-Oregon hospitality businesses do not by themselves establish a later Wheel ownership role. The family-memory Morton hypothesis likewise cannot be used to connect Floyd to the Oregon City Wheel until a contemporary proprietor, licensee, transaction, or other person-level bridge is found.
+
+## Preserved primary-source pages
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / Floyd profile links -->
+
+The newspaper scans supporting Floyd's pre-Wheel business chronology are now preserved in-repository:
+
+- `S-268` / `E-242` — 7 August 1947 Anderson and LaFarlette mail-contract report: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf`;
+- `S-269` / `E-243` — 18 October 1951 Myrtle Lodge new-ownership advertisement: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`;
+- `S-270` / `E-244` — 11 June 1953 Myrtle Lodge banquet/dance: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`;
+- `S-271` / `E-245` — 11 March 1954 Raye profile / family chronology: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`.
+
+See `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md` for claim boundaries and preservation provenance.

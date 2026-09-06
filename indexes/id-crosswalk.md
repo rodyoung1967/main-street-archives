@@ -632,3 +632,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-265` / `E-239` | 1917 annual audit; `S-134` / `E-120` | Dec. 20/27 8/8 each; Dec. 13 23 genuine pages + true-page-21 gap. Annual Courier: 52 issue dates, 51 complete + one partial, 435 genuine pages. No exact target occupant. |
+
+## LaFarlette Coquille primary-source preservation — 6 September 2026
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / crosswalk -->
+
+- `S-268` / `E-242` → `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf`
+- `S-269` / `E-243` → `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`
+- `S-270` / `E-244` → `P-006`, `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`
+- `S-271` / `E-245` → `P-006`, `P-022` — `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`

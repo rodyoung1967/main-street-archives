@@ -824,3 +824,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 | 2026-09-06 | Began exhaustive 1917 Oregon City Enterprise visual audit | Corrected title availability: Historic Oregon Newspapers' digitized *Morning Enterprise* ends in 1913; the relevant second 1917 local title is the weekly *Oregon City Enterprise*. Built a Friday-pattern inventory of **52 issues / 416 exposed pages** and visually reviewed all four January issues, **32/32 scans**. No exact 501/503/505/507/509/511 or new 427 Main occupant established; false/irrelevant Farr-like matches and unnumbered Holman/Jones contexts were not promoted. | Continue February Enterprise page-by-page; reconcile Friday inventory against archive title calendar before title certification. |
 
 | 2026-09-06 | Completed February 1917 Oregon City Enterprise visual batch | Visually reviewed **34/34 scans** for 2/9/16/23 February; Enterprise cumulative **66/416**. 612 Main optometrist controls recur. Farr Bros appears in county-poor expenditures and Annis L. Farr in the tax list; existing Farr identity control prevents merging the Seventh Street Farr Brothers grocery/meat firm with Edwin/Alice Farr's later 505 pool hall. No target-number occupant established. | Continue March Enterprise; preserve no-merge Farr identity discipline. |
+
+### 2026-09-06 — corrected LaFarlette primary-source preservation gap
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / research log -->
+
+- Confirmed that several visually reviewed *Coquille Valley Sentinel* pages supporting the Raye/Floyd chronology had been cited only by external archive URL and were not preserved as repository source files.
+- Preserved the 7 Aug. 1947, 18 Oct. 1951, 11 Jun. 1953 and 11 Mar. 1954 page PDFs under `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/`, with hashes/URLs in `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`.
+- Added source IDs `S-268`, `S-269`, `S-270`, `S-271` and evidence IDs `E-242`, `E-243`, `E-244`, `E-245`; synchronized Markdown/YAML registers and linked the Raye/Floyd profiles.
+- This is a preservation correction, not an evidence upgrade. The later 1962–65 *Myrtle Point Herald* material remains OCR/TEXT ONLY pending actual scan retrieval.

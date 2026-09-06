@@ -6,7 +6,7 @@
 - Related buildings: `B-001` (The Wheel at 503 Main); family/real-estate context at `B-002`
 - Related businesses: `BUS-004`
 - Related people: `P-022` Floyd LaFarlette; `P-008` Sheila Wiitanen (daughter); `P-007` Richard / Dick Wiitanen
-- Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`
+- Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`, `E-244`, `E-245`
 - Related research captures: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`; `evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md`
 
 ## Identity Correction (August 2026)
@@ -73,3 +73,13 @@ Dick and Sheila also owned the **505 real estate** during at least part of their
 - [503 Main Street](../../buildings/503-main.md)
 - [505 Main Street](../../buildings/505-main.md)
 - [People Index](../people-index.md)
+
+## Preserved primary-source pages
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / Raye profile links -->
+
+The primary page scans underlying the pre-Wheel chronology are now preserved in the repository rather than cited only by external URL:
+
+- `S-271` / `E-245` — 11 March 1954 Raye profile: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`;
+- `S-270` / `E-244` — 11 June 1953 Myrtle Lodge banquet/dance: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`.
+
+Floyd's 1951 Myrtle Lodge ownership advertisement and the 1947 Coos County chronology control are preserved in the same batch. See `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.

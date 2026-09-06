@@ -2218,3 +2218,55 @@ Retrieval commit: `2947e59611eb9dce2786ac43de279f6df97b61e9`
 Related evidence: `E-241`.  
 Capture: `evidence/source-captures/1917-enterprise-february-02-23-visual-review-2026-09-06.md`.  
 Notes: Complete February scan review. 612 Main optometrist controls recur on 2 and 16 Feb. Farr Bros appears in county-poor expenditures and Annis L. Farr in the delinquent-tax list, but existing identity evidence separates the Seventh Street Farr Brothers grocery/meat business from Edwin/Alice Farr's later 505 pool-hall question. No exact target address was established.
+
+## S-268 — Coquille Valley Sentinel, 7 August 1947 p.13 — Anderson and LaFarlette mail-contract report
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1947 source -->
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
+Publication: *Coquille Valley Sentinel*  
+Date: **1947-08-07**  
+Page: **13**  
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf  
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf`  
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
+Related evidence: `E-242`.  
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Classification: **DOCUMENTED / DIRECT for the dated Anderson and LaFarlette business report; Floyd identification is cross-source and must not be inferred from surname alone.**
+
+## S-269 — Coquille Valley Sentinel, 18 October 1951 p.4 — Myrtle Lodge new-ownership advertisement
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1951 source -->
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
+Publication: *Coquille Valley Sentinel*  
+Date: **1951-10-18**  
+Page: **4**  
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf  
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`  
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
+Related evidence: `E-243`.  
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.**
+
+## S-270 — Coquille Valley Sentinel, 11 June 1953 p.3 — Myrtle Lodge banquet and dance
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1953 source -->
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
+Publication: *Coquille Valley Sentinel*  
+Date: **1953-06-11**  
+Page: **3**  
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf  
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`  
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
+Related evidence: `E-244`.  
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED for hosting/involvement; no legal ownership inference for Raye.**
+
+## S-271 — Coquille Valley Sentinel, 11 March 1954 p.1 — Raye LaFarlette profile
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1954 source -->
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
+Publication: *Coquille Valley Sentinel*  
+Date: **1954-03-11**  
+Page: **1**  
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf  
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`  
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
+Related evidence: `E-245`.  
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED; preserved contemporary published account, with Morton omission treated as a chronology conflict rather than negative evidence.**

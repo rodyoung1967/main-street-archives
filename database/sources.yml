@@ -1643,3 +1643,39 @@ sources:
     notes: "February Enterprise complete: 612 Main controls plus Farr Bros county-poor and Annis L. Farr tax contexts. Existing identity guard keeps these separate from the later Edwin/Alice Farr 505 pool-hall history."
     related_evidence: [E-241]
 
+  - id: S-268
+    name: "Coquille Valley Sentinel, 7 August 1947 p.13 — Anderson and LaFarlette mail-contract report"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf"
+    type: "Primary newspaper page scan; visually verified and preserved"
+    date: "1947-08-07"
+    repository_file: "newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf"
+    notes: "Corrective preservation of a page already used in LaFarlette research; see evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md."
+    related_evidence: [E-242]
+
+  - id: S-269
+    name: "Coquille Valley Sentinel, 18 October 1951 p.4 — Myrtle Lodge new-ownership advertisement"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf"
+    type: "Primary newspaper page scan; visually verified and preserved"
+    date: "1951-10-18"
+    repository_file: "newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf"
+    notes: "Corrective preservation of a page already used in LaFarlette research; see evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md."
+    related_evidence: [E-243]
+
+  - id: S-270
+    name: "Coquille Valley Sentinel, 11 June 1953 p.3 — Myrtle Lodge banquet and dance"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf"
+    type: "Primary newspaper page scan; visually verified and preserved"
+    date: "1953-06-11"
+    repository_file: "newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf"
+    notes: "Corrective preservation of a page already used in LaFarlette research; see evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md."
+    related_evidence: [E-244]
+
+  - id: S-271
+    name: "Coquille Valley Sentinel, 11 March 1954 p.1 — Raye LaFarlette profile"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf"
+    type: "Primary newspaper page scan; visually verified and preserved"
+    date: "1954-03-11"
+    repository_file: "newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf"
+    notes: "Corrective preservation of a page already used in LaFarlette research; see evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md."
+    related_evidence: [E-245]
+

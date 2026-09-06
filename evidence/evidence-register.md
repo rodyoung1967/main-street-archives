@@ -2349,3 +2349,48 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant and no new exact 427 Main occupant was established.
 Classification: **DOCUMENTED / DIRECT** for scan counts, 612 wording, Farr Bros county-account wording and Annis L. Farr tax-list wording; **IDENTITY GUARD / NO-MERGE** for their relation to later 505 Farr history; **COVERAGE RESULT ONLY** for the no-target-address finding.  
 Confidence: **Very High** for the visible dated wording; no continuity or vacancy inference is made.
+
+## E-242 — Anderson and LaFarlette business is documented in Coos County by 7 August 1947
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1947 evidence -->
+Source: `S-268`  
+Type: Primary newspaper page scan  
+Claims:
+- The 7 August 1947 Coquille Valley Sentinel p.13 reports that Anderson and LaFarlette had been awarded the Coos Bay–Powers mail contract.
+- This is a hard Coos County chronology control by August 1947; later records identify Floyd LaFarlette as the Anderson-LaFarlette partner, so the Floyd bridge is cross-source rather than supplied solely by this page.
+- The page does not mention Morton and does not disprove an earlier brief Morton interval.
+Classification: **DOCUMENTED / DIRECT for the dated Anderson and LaFarlette business report; Floyd identification is cross-source and must not be inferred from surname alone.**  
+Confidence: **Very High for the visible dated wording; inference boundaries above are retained.**
+
+## E-243 — Floyd LaFarlette and Charlie Elkins are directly advertised as new owners of The Myrtle Lodge in 1951
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1951 evidence -->
+Source: `S-269`  
+Type: Primary newspaper page scan  
+Claims:
+- The advertisement states that The Myrtle Lodge is under the new ownership of Charlie Elkins and Floyd LaFarlette.
+- The advertisement describes a dining establishment offering steaks, seafood and chicken and advertising Saturday-night dancing.
+- The source establishes Floyd's co-ownership; it does not by itself state that Raye held a legal ownership interest.
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.**  
+Confidence: **Very High for the visible dated wording; inference boundaries above are retained.**
+
+## E-244 — Raye and Floyd LaFarlette are directly named among Myrtle Lodge banquet-and-dance hosts in 1953
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1953 evidence -->
+Source: `S-270`  
+Type: Primary newspaper page scan  
+Claims:
+- The article names Mr. and Mrs. Floyd LaFarlette among the hosts of a banquet and dance at The Myrtle Lodge.
+- The event included dancing after dinner.
+- This directly establishes Raye's involvement at the venue as Mrs. Floyd LaFarlette but does not independently restate her legal ownership interest.
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED for hosting/involvement; no legal ownership inference for Raye.**  
+Confidence: **Very High for the visible dated wording; inference boundaries above are retained.**
+
+## E-245 — Raye LaFarlette's 1954 profile directly documents the Chicago rooming-house and Coquille Hotel chronology
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1954 evidence -->
+Source: `S-271`  
+Type: Primary newspaper page scan  
+Claims:
+- The profile identifies Mrs. Floyd LaFarlette as Raye and says the family first came to Coos County on a 1944 vacation trip, returned to their home in Chicago, sold their rooming-house business and moved to Coquille.
+- The profile says Raye was working at the Coquille Hotel coffee shop and had been employed at the hotel for several years.
+- The profile gives daughters Carolyn as 15 and Sheila as 9 at publication.
+- The article does not mention Morton; that omission is an unresolved conflict with family oral history and is not proof that no brief Morton stop occurred.
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED; preserved contemporary published account, with Morton omission treated as a chronology conflict rather than negative evidence.**  
+Confidence: **Very High for the visible dated wording; inference boundaries above are retained.**

@@ -3635,3 +3635,48 @@ evidence:
     confidence: "Very High for visible dated wording; Farr surname/business observations remain explicitly separated from later 505 history."
     related_sources: [S-267]
 
+  - id: E-242
+    name: "Anderson and LaFarlette business is documented in Coos County by 7 August 1947"
+    type: "Primary newspaper page scan"
+    date: "1947-08-07"
+    claims:
+      - "The 7 August 1947 Coquille Valley Sentinel p.13 reports that Anderson and LaFarlette had been awarded the Coos Bay–Powers mail contract."
+      - "This is a hard Coos County chronology control by August 1947; later records identify Floyd LaFarlette as the Anderson-LaFarlette partner, so the Floyd bridge is cross-source rather than supplied solely by this page."
+      - "The page does not mention Morton and does not disprove an earlier brief Morton interval."
+    confidence: "Very High for visible dated wording; classification and inference boundaries preserved in the evidence register."
+    related_sources: [S-268]
+
+  - id: E-243
+    name: "Floyd LaFarlette and Charlie Elkins are directly advertised as new owners of The Myrtle Lodge in 1951"
+    type: "Primary newspaper page scan"
+    date: "1951-10-18"
+    claims:
+      - "The advertisement states that The Myrtle Lodge is under the new ownership of Charlie Elkins and Floyd LaFarlette."
+      - "The advertisement describes a dining establishment offering steaks, seafood and chicken and advertising Saturday-night dancing."
+      - "The source establishes Floyd's co-ownership; it does not by itself state that Raye held a legal ownership interest."
+    confidence: "Very High for visible dated wording; classification and inference boundaries preserved in the evidence register."
+    related_sources: [S-269]
+
+  - id: E-244
+    name: "Raye and Floyd LaFarlette are directly named among Myrtle Lodge banquet-and-dance hosts in 1953"
+    type: "Primary newspaper page scan"
+    date: "1953-06-11"
+    claims:
+      - "The article names Mr. and Mrs. Floyd LaFarlette among the hosts of a banquet and dance at The Myrtle Lodge."
+      - "The event included dancing after dinner."
+      - "This directly establishes Raye's involvement at the venue as Mrs. Floyd LaFarlette but does not independently restate her legal ownership interest."
+    confidence: "Very High for visible dated wording; classification and inference boundaries preserved in the evidence register."
+    related_sources: [S-270]
+
+  - id: E-245
+    name: "Raye LaFarlette's 1954 profile directly documents the Chicago rooming-house and Coquille Hotel chronology"
+    type: "Primary newspaper page scan"
+    date: "1954-03-11"
+    claims:
+      - "The profile identifies Mrs. Floyd LaFarlette as Raye and says the family first came to Coos County on a 1944 vacation trip, returned to their home in Chicago, sold their rooming-house business and moved to Coquille."
+      - "The profile says Raye was working at the Coquille Hotel coffee shop and had been employed at the hotel for several years."
+      - "The profile gives daughters Carolyn as 15 and Sheila as 9 at publication."
+      - "The article does not mention Morton; that omission is an unresolved conflict with family oral history and is not proof that no brief Morton stop occurred."
+    confidence: "Very High for visible dated wording; classification and inference boundaries preserved in the evidence register."
+    related_sources: [S-271]
+

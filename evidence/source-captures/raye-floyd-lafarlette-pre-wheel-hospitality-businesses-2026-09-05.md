@@ -143,3 +143,8 @@ Highest value is visual/documentary retrieval of:
 6. Oregon City Wheel records **1960–1967** — identify pre-Raye proprietor/licensee(s), especially the individual behind the June 1967 liquor application, then compare those names directly with the Morton ownership chain.
 
 Until those scans are inspected, retain the Myrtle Point records as OCR/TEXT ONLY and do not merge **The Myrtle Lodge** with **Myrtle Hotel / Club Lehua**. Likewise, do not merge the **Morton Wheel Cafe** with **The Wheel at 503 Main, Oregon City** unless contemporary evidence explicitly establishes a bridge.
+
+## Repository preservation correction — 6 September 2026
+<!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / existing capture link -->
+
+The visually reviewed *Coquille Valley Sentinel* pages used above are now preserved under `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/` and registered in `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`. This corrects the earlier state in which the research capture retained archive URLs and visual-review notes but the underlying PDFs were not committed. The 1962–1965 *Myrtle Point Herald* pages remain OCR/TEXT ONLY / retrieval gaps and are not included in this preservation batch.
