@@ -1,0 +1,159 @@
+name: Archive Myrtle Lodge Coaledo location sources
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/archive-myrtle-lodge-coaledo-sources.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Retrieve primary page PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import json
+          import pathlib
+          import requests
+
+          items = [
+              ('1947-12-11', 1, '1947-12-11-p1-midway-renamed-myrtle-lodge.pdf', 'https://oregonnews.uoregon.edu/lccn/sn96088222/1947-12-11/ed-1/seq-1.pdf'),
+              ('1948-10-28', 12, '1948-10-28-p12-coaledo-myrtle-lodge-town-club-house.pdf', 'https://oregonnews.uoregon.edu/lccn/sn96088222/1948-10-28/ed-1/seq-12.pdf'),
+              ('1949-07-14', 15, '1949-07-14-p15-behind-myrtle-lodge-at-coaledo.pdf', 'https://oregonnews.uoregon.edu/lccn/sn96088222/1949-07-14/ed-1/seq-15.pdf'),
+              ('1952-10-09', 9, '1952-10-09-p9-myrtle-lodge-seven-miles-north-coquille.pdf', 'https://oregonnews.uoregon.edu/lccn/sn96088222/1952-10-09/ed-1/seq-9.pdf'),
+              ('1954-10-28', 1, '1954-10-28-p1-coaledo-myrtle-lodge-powers-polling-places.pdf', 'https://oregonnews.uoregon.edu/lccn/sn96088222/1954-10-28/ed-1/seq-1.pdf'),
+          ]
+
+          out = pathlib.Path('newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo')
+          out.mkdir(parents=True, exist_ok=True)
+          session = requests.Session()
+          session.headers.update({'User-Agent': 'main-street-archives archival retrieval'})
+          manifest_items = []
+          for date, page, filename, url in items:
+              r = session.get(url, timeout=90)
+              ctype = r.headers.get('content-type', '').lower()
+              if r.status_code != 200 or not r.content.startswith(b'%PDF'):
+                  raise SystemExit(f'Failed PDF retrieval {url}: status={r.status_code} type={ctype!r} bytes={len(r.content)}')
+              path = out / filename
+              path.write_bytes(r.content)
+              manifest_items.append({
+                  'date': date,
+                  'page': page,
+                  'file': filename,
+                  'url': url,
+                  'bytes': len(r.content),
+                  'sha256': hashlib.sha256(r.content).hexdigest(),
+                  'content_type': ctype,
+              })
+              print(date, page, len(r.content), path)
+
+          manifest = {
+              'publication': 'Coquille Valley Sentinel',
+              'lccn': 'sn96088222',
+              'archive': 'Historic Oregon Newspapers / University of Oregon',
+              'purpose': 'Myrtle Lodge Coaledo location, Midway identity, and South Powers Town Club House lead',
+              'retrieved_utc_by': 'GitHub Actions',
+              'items': manifest_items,
+          }
+          (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit and push preserved originals
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve Myrtle Lodge Coaledo newspaper scans'
+            for attempt in 1 2 3 4 5 6; do
+              echo "source push attempt $attempt"
+              if git push origin main; then
+                break
+              fi
+              git pull --rebase origin main
+              python3 scripts/validate_archive.py
+              if [ "$attempt" = 6 ]; then
+                exit 1
+              fi
+              sleep 2
+            done
+          else
+            echo 'Preserved originals already present.'
+          fi
+
+      - name: Resync after source preservation
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+      - name: Integrate location evidence with fresh IDs
+        run: |
+          python3 scripts/integrate_myrtle_lodge_coaledo_location.py
+          python3 scripts/validate_archive.py
+
+      - name: Commit integrated records
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+
+          stage_integration () {
+            git add \
+              evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md \
+              evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md \
+              evidence/source-register.md \
+              evidence/evidence-register.md \
+              evidence/research-leads.md \
+              database/sources.yml \
+              database/evidence.yml \
+              database/businesses.yml \
+              businesses/business-index.md \
+              businesses/myrtle-lodge-coaledo.md \
+              people/profiles/raye-grisham.md \
+              people/profiles/floyd-lafarlette.md \
+              indexes/id-crosswalk.md \
+              registers/research-log.md
+          }
+
+          stage_integration
+          if git diff --cached --quiet; then
+            echo 'Integration already present.'
+            exit 0
+          fi
+          git commit -m 'Locate Myrtle Lodge at Coaledo and record Town Club lead'
+
+          for attempt in 1 2 3 4 5 6; do
+            echo "integration push attempt $attempt"
+            if git push origin main; then
+              exit 0
+            fi
+            echo 'main advanced; rebuild from latest main with fresh IDs'
+            git fetch origin main
+            git reset --hard origin/main
+            python3 scripts/integrate_myrtle_lodge_coaledo_location.py
+            python3 scripts/validate_archive.py
+            stage_integration
+            if git diff --cached --quiet; then
+              echo 'Equivalent integration already present.'
+              exit 0
+            fi
+            git commit -m 'Locate Myrtle Lodge at Coaledo and record Town Club lead'
+            sleep 2
+          done
+
+          echo 'Unable to push Myrtle Lodge integration after retries.' >&2
+          exit 1
