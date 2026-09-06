@@ -611,3 +611,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-262` / `E-236` | 1917 annual audit; `S-134` / `E-120` | 13/20/27 September batch, **24/24 pages visually reviewed**. September totals 4 issues / 32 pages with the September 6 sample. Sep. 27 directly confirms Theroux at 519 Main and Jones Drug at 617 Main; recurring 612/619 controls. No exact 501/503/505/507/509/511 or new 427 occupant; 20 Sep. apparent 505 is a bank total, not an address. |
+
+## S-263 / E-237 — remaining October 1917 Courier visual review
+<!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-263` / `E-237` | 1917 annual audit; `S-134` / `E-120` | 11/18/25 October batch, **24/24 pages visually reviewed**. October totals 4 issues / 32 pages with the October 4 sample. Jones Drug is directly at 617 Main on Oct. 11 and 18; recurring 612/619 controls. The Oct. 25 Jones ad has no exact street number. No exact 501/503/505/507/509/511 or new 427 occupant. |

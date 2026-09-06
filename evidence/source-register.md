@@ -2154,3 +2154,16 @@ Retrieval commit: `8a3bee05860be735e2af968841050cbd2aca6a39`
 Related evidence: `E-236`.  
 Capture: `evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md`.  
 Notes: Complete visual review confirms dated 519, 612, 617 and 619 Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. The apparent 505 hit on 20 September p.2 is part of a $505,899.28 bank total, not an address; no vacancy inference is made.
+
+## S-263 — Oregon City Courier, 11/18/25 October 1917 complete-page visual-review batch
+<!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **11, 18 and 25 October 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-october-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-october-unsampled/manifest.json`  
+Retrieval commit: `9687a4be9734bd3b7260021557febc269b0bfbc6`  
+Related evidence: `E-237`.  
+Capture: `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.  
+Notes: Complete visual review confirms Jones Drug at 617 Main on 11 and 18 October plus recurring 612 and 619 Main controls. The 25 October Jones advertisement gives Oregon City but no exact street number. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; no vacancy inference is made.

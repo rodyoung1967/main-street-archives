@@ -186,3 +186,12 @@ Across the non-overlapping monthly sample plus January–August continuations, t
 Direct controls include **Theroux Music House, 519 Main** and **Jones Drug Co., 617 Main** on 27 September, alongside recurring **612 Main** and **619 Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer checking was performed only after visual review; the apparent 505 hit on 20 September p.2 is a bank total, not an address.
 
 Across the non-overlapping monthly sample plus January–September continuations, the documented progress count is now **42 complete tracked issues / 340 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md`.
+
+## October 11–25 continuation — 5 September 2026
+<!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
+
+`S-263` / `E-237` visually clears **24/24 pages** of the remaining 11, 18 and 25 October *Courier* issues. Together with the already reviewed 4 October sample, **October Courier coverage is now 4 complete issues / 32 pages visually verified**.
+
+Direct controls include **Jones Drug Co., 617 Main** on 11 and 18 October plus recurring **612 Main** and **619 Main**. The 25 October Jones advertisement has no exact street number and is not promoted as one. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
+
+Across the non-overlapping monthly sample plus January–October continuations, the documented progress count is now **45 complete tracked issues / 364 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.

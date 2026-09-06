@@ -3569,3 +3569,17 @@ evidence:
     confidence: "Very High for the inspected-page count, visible dated wording and false-positive classification; no continuity or vacancy inference is made."
     related_sources: [S-262]
 
+  - id: E-237
+    name: "October 1917 continuation visually clears 24 pages and completes Courier coverage for the month"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-10-11 through 1917-10-25"
+    claims:
+      - "All 24 page scans for the 11, 18 and 25 October 1917 Courier issues were visually reviewed."
+      - "With the 4 October sample, October now has 4 complete issues / 32 visually verified pages."
+      - "The non-overlapping monthly-sample and January-October batches now total 45 complete tracked issues / 364 visually verified pages; this is not exhaustive annual coverage."
+      - "Jones Drug Company is directly printed at 617 Main Street, Oregon City on 11 and 18 October, alongside recurring 612 Main and 619 Main controls."
+      - "The 25 October Jones Drug advertisement gives Oregon City but no exact street number and is not promoted as an exact-address observation."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the 24-page batch."
+    confidence: "Very High for the inspected-page count and visible dated wording; no continuity or vacancy inference is made."
+    related_sources: [S-263]
+

@@ -790,3 +790,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
 - Post-review text checks produced an apparent 505 on 20 September p.2; scan/context review confirms it is part of the bank total $505,899.28, not a street address.
 - Non-overlapping tracked 1917 progress is now **42 complete issues / 340 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining October 1917 Courier visual review
+<!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **24/24 actual page scans** for 11, 18 and 25 October 1917. Preserved source retrieval commit: `9687a4be9734bd3b7260021557febc269b0bfbc6`.
+- With the already reviewed 4 October sample, October is now **4 complete issues / 32 visually verified pages**.
+- 11 October p.2 and 18 October p.2 directly confirm **Jones Drug Co., 617 Main Street**. Recurring controls include 612 Main and 619 Main. The 25 October Jones ad gives Oregon City but no exact street number.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
+- Text extraction was used only after all scans were visually reviewed; no target-number candidate survived scan/context review.
+- Non-overlapping tracked 1917 progress is now **45 complete issues / 364 visually verified page images**. 1917 remains **IN PROGRESS**.

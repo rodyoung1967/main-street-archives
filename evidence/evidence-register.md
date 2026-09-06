@@ -2281,3 +2281,17 @@ Claims:
 - The apparent 505 text hit on 20 September p.2 is visibly part of the bank total **$505,899.28**, not a street address.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count, visible dated address wording and false-positive classification; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
+
+## E-237 — October 1917 continuation visually clears 24 pages and completes Courier coverage for the month
+<!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
+Source: `S-263`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **24 page scans** for the 11, 18 and 25 October 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 4 October sample, October now has **4 complete issues / 32 visually verified pages**.
+- Across the non-overlapping monthly-sample and January–October continuation batches, the project now documents **45 complete tracked 1917 Courier issues / 364 visually verified pages**; this is not exhaustive annual coverage.
+- **Jones Drug Company is directly printed at 617 Main Street, Oregon City on 11 and 18 October**, alongside recurring **612 Main** and **619 Main** controls.
+- The 25 October Jones Drug advertisement gives Oregon City but no exact street number and is not treated as an exact-address observation.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 24-page batch.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated address wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
