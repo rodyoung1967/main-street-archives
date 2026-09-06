@@ -57,6 +57,7 @@ These are the **current high-value human actions**. They are ordered for the act
 | 15 | **MF-019** | Inspect **1920–1925 assessment rolls / ownership books / parcel controls** for target Block 4 | Required property/improvement control across the pre-fire, fire, and 1925-map interval | **ACTIVE MANUAL — DRAFT READY**. [Assessment & Taxation email draft](registers/research-requests/active-manual-outreach-drafts-2026-09-05.md) |
 | 16 | **MF-031** | Review **1923–1926 local newspaper microfilm** unavailable in the principal online local-newspaper run | Post-1922 digitized local coverage is not continuous; one of the best paths to 1925/26 Farr/Kwality/occupancy evidence | **ACTIVE MANUAL — ACCESS EMAIL DRAFT READY**. [Library access email draft](registers/research-requests/active-manual-outreach-drafts-2026-09-05.md). The page-by-page review itself remains manual/in-person unless staff supplies the needed scans. |
 | 17 | **MF-014** | Retrieve the original **1906 numbering plat / Ordinance 357 implementation records** | Foundational address-mapping source for pre-/post-1906 Main/Fifth numbering | **ACTIVE MANUAL — DRAFT READY**. [City Recorder email draft](registers/research-requests/active-manual-outreach-drafts-2026-09-05.md) |
+| 18 | **MF-048** | Retrieve the **503 Main parcel-first ownership/deed-reference chain**, including the Wiitanen acquisition deed and conveyance out, with special attention to the reported **2 Dec. 2002 / $200,000** transaction | New 2010 assessment-derived evidence names Maurice Shahtout at 503 while the Wiitanens remain at 505, but the 2002 parties are hidden; deed proof is now the decisive bridge | **ACTIVE MANUAL — TWO-STAGE DRAFT READY**. [503 deed-chain draft](registers/research-requests/503-wiitanen-conveyance-deed-request-2026-09-05.md) |
 
 ### Recommended batching
 
@@ -258,3 +259,7 @@ When a request is sent, record the actual date, channel and exact request versio
 The current practical list is the **17-item active queue in section 1**. Every immediate-action item that requires institutional outreach now has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The new later-ownership work is concentrated in **MF-034** (parcel ownership sequence + deed proof) and **MF-047** (1983 survey owner snapshot).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
+
+## MF-048 — 503 Wiitanen acquisition / conveyance deed chain
+
+**ACTIVE MANUAL.** Retrieve the 503 Main parcel-first owner/deed-reference history and the actual deeds into and out of Dick/Sheila Wiitanen; test the reported 2 Dec. 2002 / $200,000 transaction without assuming its parties. Draft: `registers/research-requests/503-wiitanen-conveyance-deed-request-2026-09-05.md`. Keep separate from MF-034 (505).

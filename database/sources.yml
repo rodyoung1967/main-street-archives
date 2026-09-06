@@ -1515,3 +1515,31 @@ sources:
     related_businesses: [BUS-040]
     related_buildings: [B-013]
 
+  - id: S-254
+    name: "Homes.com public-record-derived 503 Main purchase history"
+    url: "https://www.homes.com/property/503-main-st-oregon-city-or/lt9ek3mwclkqr/"
+    type: "Secondary public-record-derived property transaction aggregator"
+    notes: "Reports 2 Dec 2002 transaction at 503 Main for $200,000 with parties hidden; later 2007/2009 events require reconciliation. Transaction lead only."
+    related_evidence: [E-228]
+    related_buildings: [B-001]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: S-255
+    name: "City-Data repackaged 2010 Clackamas County assessment data for 503 and 505 Main"
+    url: "https://www.city-data.com/clackamas-county/M/Main-Street-1.html"
+    type: "Secondary republication of public-record tax assessment data"
+    notes: "Tax-year 2010 page names Maurice Shahtout on 503 land/building entry and Richard M Wiitanen & Sheila J Wiitanen on 505 land/building entry; original County roll/deeds remain uninspected."
+    related_evidence: [E-229]
+    related_buildings: [B-001, B-002]
+    related_people: [P-394, P-007, P-008]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: S-256
+    name: "Clackamas County 2026 cancellation list, Maurice Enterprises Inc (The Wheel Bar & Grill)"
+    url: "https://docs.clackamas.us/documents/drupal/9e3c9ae6-b8c8-4920-b7f5-b6012417cf67"
+    type: "Official county business-personal-property tax record"
+    notes: "Account P2252284 names MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL) in multiple historical tax-year sections; row supplies no street address."
+    related_evidence: [E-230]
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md

@@ -560,3 +560,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-253` / `E-227` | `BUS-040`; `B-013`; `T-032`; 1917 annual audit | 15/22/29 March batch, **28/28 pages visually reviewed**. Jones Drug directly at **617 Main** on 15 and 22 March; 29 March says Main Street only. No exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |
+
+## S-254 / E-228 — 503 downstream ownership follow-up
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-254` / `E-228` | `B-001` | Public-record-derived 2 Dec. 2002 / $200,000 503 transaction; parties hidden. |
+| `S-255` / `E-229` | `B-001`, `B-002`, `P-394`, `P-007`, `P-008` | 2010 assessment-derived page names Maurice Shahtout at 503 and Richard M. & Sheila J. Wiitanen at 505; original County roll/deeds pending. |
+| `S-256` / `E-230` | `B-001`, `BUS-004` | Official County BPP account P2252284 names Maurice Enterprises Inc (The Wheel Bar & Grill); row has no address. |
+| `P-394` Maurice Shahtout | `B-001`, `BUS-004`, `E-229`, `S-255` | Named on the 2010 503 land/building assessment-derived entry; exact deed and Maurice Enterprises relationship unresolved. |

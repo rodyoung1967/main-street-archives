@@ -714,3 +714,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**.
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 28 pages. This is bounded coverage only, not vacancy/non-use evidence.
 - Non-overlapping tracked 1917 progress is now **22 complete issues / 186 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+## 503 downstream ownership / Maurice follow-up — 5 September 2026
+
+- Recovered a public-record-derived **2 Dec. 2002 / $200,000** 503 transaction lead (`S-254` / `E-228`); buyer/seller names remain hidden and no Wiitanen→Maurice conveyance is asserted.
+- Recovered a 2010 Clackamas assessment-data republication that separately names **Maurice Shahtout** on the 503 land/building entry and **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry (`S-255` / `E-229`). This materially strengthens the downstream separation of the two properties.
+- Registered **Maurice Shahtout** as `P-394` based on the 2010 ownership entry, while keeping him separate from Maurice Enterprises Inc pending corporate/deed proof.
+- Recovered official Clackamas County BPP text naming account **P2252284 — MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)** (`S-256` / `E-230`), independently strengthening the entity/trade-name link already addressed by OLCC `E-225`.
+- Preserved the conflict that Homes.com reports later 2007/2009 purchase events while the 2010 assessment-derived page gives Maurice Shahtout a “most recent sale price” of $200,000. No clean deed-chain interpretation is made from the aggregators.
+- Added `MF-048` and a two-stage Assessment & Taxation / Recording draft for the 503 Wiitanen acquisition and conveyance deeds. No outreach was sent.

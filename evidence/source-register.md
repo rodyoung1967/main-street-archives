@@ -2054,3 +2054,25 @@ Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`
 Related evidence/business/building: `E-227`; `BUS-040`; `B-013`.  
 Capture: `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.  
 Notes: 15 Mar. p2 and 22 Mar. p6 directly print Jones Drug Co. at **617 Main Street**, moving its earliest integrated exact-number observation earlier than the prior 1 Nov. sample. Selected 612 Main, 619 Main and Fifth/Main anchors recur. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; silence is not vacancy evidence.
+
+## S-254 — Homes.com public-record-derived 503 Main purchase history
+Type: Secondary property-data aggregator reporting publicly available records; **TRANSACTION LEAD ONLY**.  
+URL: https://www.homes.com/property/503-main-st-oregon-city-or/lt9ek3mwclkqr/  
+Related evidence/building: `E-228` / `B-001`.  
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Notes: Reports a **2 Dec. 2002** 503 Main purchase at **$200,000**, title company Oregon Title Insurance Co, but hides buyer/seller names. Also reports later 2007/2009 events that conflict with the separate 2010 assessment-derived page's “most recent sale price” wording. Do not identify the 2002 parties without the deed/index.
+
+## S-255 — City-Data repackaged 2010 Clackamas County assessment data for 503 and 505 Main
+Type: Secondary republication of public-record property-tax assessment data; **PUBLIC-RECORD-DERIVED / ORIGINAL ROLL NOT INSPECTED**.  
+Tax year represented: **2010**.  
+URL: https://www.city-data.com/clackamas-county/M/Main-Street-1.html  
+Related evidence/buildings/person: `E-229` / `B-001`, `B-002` / `P-394`.  
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Notes: At 503, names Maurice Shahtout on a land/building entry with most recent sale price $200,000 and separately lists Maurice Enterprises Inc. At 505, names Richard M Wiitanen & Sheila J Wiitanen on a land/building entry and separately lists 505 Tavern. Strong cross-address ownership snapshot, but verify against original County assessment/deed records.
+
+## S-256 — Clackamas County 2026 cancellation list, Maurice Enterprises Inc (The Wheel Bar & Grill)
+Type: Official Clackamas County business-personal-property tax spreadsheet; **DIRECT OFFICIAL TEXT**.  
+URL: https://docs.clackamas.us/documents/drupal/9e3c9ae6-b8c8-4920-b7f5-b6012417cf67  
+Related evidence/business: `E-230` / `BUS-004`.  
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Notes: Account `P2252284` directly names **MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)** in multiple historical tax-year sections including 2013-14, 2014-15 and 2015-16. The row does not print 503 Main; address linkage is independently supplied by `S-251` / `E-225`.

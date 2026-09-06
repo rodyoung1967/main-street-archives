@@ -2159,3 +2159,41 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in these 28 pages. This is bounded coverage only and not vacancy, demolition or absence evidence.
 Classification: **DOCUMENTED / DIRECT** for the page-review count, March 15/22 Jones Drug 617 wording, and other visible dated anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected scans and printed address wording; unresolved for exact move day and physical/tenancy continuity.
+
+## E-228 — 503 Main purchase history reports a $200,000 transaction on 2 December 2002
+Source: `S-254`  
+Related building: `B-001`  
+Type: Secondary public-record-derived transaction-history lead  
+Claims:
+- Homes.com reports a **2 December 2002** transaction at **503 Main Street** for **$200,000**, with Oregon Title Insurance Co named as title company.
+- Buyer and seller names are hidden; the record therefore does **not** establish that the Wiitanens were grantors or Maurice Shahtout was purchaser.
+- The same source reports later 2007 and 2009 purchase events; those must be reconciled with other assessment/deed evidence rather than silently treated as a clean chain.
+Classification: **DOCUMENTED SECONDARY TRANSACTION LEAD / PARTIES UNRESOLVED**.  
+Confidence: **High** for the aggregator's displayed date/price; **Unresolved** for parties, deed type and historical interpretation.
+
+## E-229 — 2010 assessment snapshot separates Maurice Shahtout at 503 from Richard and Sheila Wiitanen at 505
+Source: `S-255`  
+Related buildings: `B-001`, `B-002`  
+Related people: `P-394`, `P-007`, `P-008`  
+Type: Secondary republication of Clackamas County tax-assessment data  
+Claims:
+- For tax year **2010**, the republished 503 land/building entry names **MAURICE SHAHTOUT**, with land value $29,675, building value $74,240, total market value $103,915, and most recent sale price **$200,000**.
+- A separate 503 entry names **MAURICE ENTERPRISES INC** with total market value $21,664.
+- The republished 505 land/building entry names **RICHARD M WIITANEN & SHEILA J WIITANEN**, with land value $27,519, building value $70,980 and total market value $98,499.
+- A separate 505 entry names **505 TAVERN** with total market value $25,397.
+- This materially supports a 2010 cross-address separation: Maurice Shahtout is the named 503 real-estate owner in the republished assessment data while Richard and Sheila Wiitanen remain jointly named at 505.
+- The source is not the original County roll and does not itself prove deed dates, entity relationships, or the 2002 buyer.
+Classification: **STRONG SECONDARY PUBLIC-RECORD-DERIVED OWNERSHIP SNAPSHOT**; deed-level title remains pending.  
+Confidence: **High** for the displayed 2010 assessment names/values; primary county verification still required.
+
+## E-230 — County business-personal-property record links Maurice Enterprises Inc to The Wheel Bar & Grill
+Source: `S-256`  
+Related building/business: `B-001` / `BUS-004`  
+Type: Official Clackamas County business-personal-property tax record  
+Claims:
+- Clackamas County's 2026 cancellation list directly names account **P2252284 — MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)**.
+- The account appears in multiple historical tax-year sections including 2013-14, 2014-15 and 2015-16.
+- The County row does not print a street address, so it is not used alone to locate the business; `E-225` independently places Maurice Enterprises Inc / The Wheel Bar & Grill at **503 Main** in the OLCC record.
+- The source does not name Maurice Shahtout personally and does not prove real-estate ownership.
+Classification: **DOCUMENTED / DIRECT** for entity-to-trade-name linkage; **NO REAL-ESTATE TITLE CLAIM**.  
+Confidence: **Very High** for the official County account/trade-name wording.

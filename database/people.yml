@@ -1179,3 +1179,13 @@ people:
     related_evidence: [E-199]
     related_sources: [S-219]
     repository_file: people/profiles/walter-little-1908-confectionery.md
+
+  - id: P-394
+    name: Maurice Shahtout
+    role: 503 Main downstream real-estate owner lead
+    notes: "Secondary public-record-derived 2010 assessment page names Maurice Shahtout on the 503 land/building entry and reports most recent sale price $200,000. Exact acquisition deed and legal relationship to Maurice Enterprises Inc remain unresolved."
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    related_evidence: [E-229]
+    related_sources: [S-255]
+    repository_file: people/profiles/maurice-shahtout.md

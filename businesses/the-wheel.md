@@ -4,8 +4,8 @@
 
 - Business ID: `BUS-004`
 - Related building: `B-001` (503 Main Street)
-- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-225`
-- Related people: `P-006`, `P-010`, `P-022`, `P-007`, `P-008`
+- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-225`, `E-228`, `E-229`, `E-230`
+- Related people: `P-006`, `P-010`, `P-022`, `P-007`, `P-008`, `P-394`
 
 ## Known / Working History
 
@@ -44,6 +44,9 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 - Family confirmation: **Dick and Sheila later bought the 503 building.**
 - Richard M. Wiitanen is independently documented as owner of **The Wheel Cafe business at 503 Main** in August 1985 (`E-049`).
 - OLCC indexed license text later identifies **Maurice Enterprises Inc** as licensee for **The Wheel Bar & Grill at 503 Main**, license 104145 expiring **31 March 2009** (`E-225`; OCR/TEXT ONLY pending visual page verification).
+- A public-record-derived **2010** assessment page names **Maurice Shahtout** on the 503 land/building entry and separately names Maurice Enterprises Inc at 503 (`E-229`).
+- Clackamas County later directly links **Maurice Enterprises Inc** to the trade name **The Wheel Bar & Grill** in business-personal-property account `P2252284` (`E-230`).
+- A **2 December 2002 / $200,000** 503 transaction is now identified as a high-value deed lead, but its buyer/seller remain hidden and it is not yet accepted as the Wiitanen sale (`E-228`).
 - Family confirmation: **Dick and Sheila later sold The Wheel business and the 503 building together.**
 - A 2010 Portland Mercury feature identifies the Wheel Lounge at 503 Main (`S-029`); this is secondary naming evidence and not proof of a formal legal name.
 

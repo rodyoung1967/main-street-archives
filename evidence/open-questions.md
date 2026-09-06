@@ -228,3 +228,7 @@ CCHS `P-1798` (`S-244` / `E-218` / `IMG-0764`) adds a precisely described **1 Se
 
 ### 5 September 2026 — 1896 Albright/Wilhelm sign-map question
 CCHS `2008.008.005.003` (`S-246` / `E-220` / `IMG-0766`) provides a new pre-numbering Fifth/Main spatial control. `C. ALBRIGHT'S` / `COLD STORAGE` is visibly on the steward-mapped Fifth/Main foreground and strongly correlates with `E-173`/`E-123` Albright-old-stand evidence; Wilhelm Tell House provides a north-end Sixth/Main compatibility anchor. **Open:** align the photograph to the 1892 Sanborn and later exact-number ladder before assigning any photographed 1896 bay to modern 501, 503 or 505.
+
+### 503 Wiitanen exit / Maurice acquisition — 5 September 2026
+
+The downstream bracket is now materially tighter but the deed is still missing. `E-228` reports a **2 Dec. 2002 / $200,000** 503 transaction with hidden parties; `E-229` names **Maurice Shahtout** on the 503 land/building assessment-derived entry in tax year 2010; `E-225` and `E-230` independently tie **Maurice Enterprises Inc / The Wheel Bar & Grill** to the later 503 business chain. The same 2010 page still names **Richard M. and Sheila J. Wiitanen** on the 505 land/building entry. Retrieve the 503 deed/index chain under `MF-048` before identifying the 2002 parties or equating Maurice Shahtout with Maurice Enterprises Inc.

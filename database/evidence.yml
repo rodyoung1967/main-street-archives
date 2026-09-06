@@ -3450,3 +3450,42 @@ evidence:
     related_businesses: [BUS-040]
     related_buildings: [B-013]
 
+  - id: E-228
+    name: "503 Main purchase history reports a $200,000 transaction on 2 December 2002"
+    type: "Secondary public-record-derived transaction-history lead"
+    claims:
+      - "Homes.com reports a 2 December 2002 transaction at 503 Main for $200,000."
+      - "Buyer and seller names are hidden; Wiitanen grantor and Maurice buyer identities are not established."
+      - "Later 2007 and 2009 aggregator events require reconciliation with primary deed/index records."
+    confidence: "High for displayed date/price; parties and deed interpretation unresolved"
+    related_sources: [S-254]
+    related_buildings: [B-001]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: E-229
+    name: "2010 assessment snapshot separates Maurice Shahtout at 503 from Richard and Sheila Wiitanen at 505"
+    type: "Secondary republication of public-record tax assessment data"
+    claims:
+      - "Tax-year 2010 republished 503 land/building entry names Maurice Shahtout and reports most recent sale price $200,000."
+      - "A separate 503 entry names Maurice Enterprises Inc."
+      - "Tax-year 2010 republished 505 land/building entry names Richard M Wiitanen & Sheila J Wiitanen."
+      - "A separate 505 entry names 505 Tavern."
+      - "This is a strong cross-address ownership snapshot but not deed-level proof."
+    confidence: "High for displayed assessment-derived names and values; primary County verification pending"
+    related_sources: [S-255]
+    related_buildings: [B-001, B-002]
+    related_people: [P-394, P-007, P-008]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: E-230
+    name: "County business-personal-property record links Maurice Enterprises Inc to The Wheel Bar & Grill"
+    type: "Official county business-personal-property tax record"
+    claims:
+      - "Clackamas County account P2252284 directly names MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)."
+      - "The account appears in multiple historical tax-year sections including 2013-14, 2014-15 and 2015-16."
+      - "The County row does not print an address and does not name Maurice Shahtout personally."
+    confidence: "Very High for entity/trade-name wording; no real-estate-title claim"
+    related_sources: [S-256]
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md

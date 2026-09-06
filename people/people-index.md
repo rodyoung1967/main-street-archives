@@ -170,3 +170,5 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | P-392 | [Richard Friedrichs — 1908 CCHS identification](profiles/richard-friedrichs-1908.md) | Hardware-store catalog subject | CCHS `P-6974` identifies him on right; relation to later Friedrich firm unresolved. |
 | P-393 | [Walter Little — 1908 confectionery identification](profiles/walter-little-1908-confectionery.md) | Confectionery catalog subject | CCHS `P-6974` identifies him on left; deliberately not merged with `P-090`. |
+
+| P-394 | [Maurice Shahtout](profiles/maurice-shahtout.md) | 503 Main downstream real-estate owner lead | Public-record-derived 2010 assessment page names him on 503 land/building entry; exact acquisition deed and relationship to Maurice Enterprises Inc remain unresolved. |
