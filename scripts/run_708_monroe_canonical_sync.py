@@ -32,4 +32,22 @@ src = src.replace('append_once("database/evidence.yml", MARKER, evidence_yaml)',
 src = src.replace('append_once("database/people.yml", MARKER, people_yaml)', 'append_once("database/people.yml", YMARKER, people_yaml)', 1)
 src = src.replace('append_once("database/buildings.yml", MARKER, building_yaml)', 'append_once("database/buildings.yml", YMARKER, building_yaml)', 1)
 
+# Match the validator's canonical Markdown/YAML name and building-ID rules.
+src = src.replace(
+    'name: "Municipal C. P. Farr is strongly identified as Clarence P. Farr"',
+    'name: "Municipal C. P. Farr is strongly identified as Clarence P. Farr, not Edwin F. Farr"',
+    1,
+)
+src = src.replace(
+    'name: "Oregon City historic-resource record — Farr Store, 919 7th Street"',
+    'name: "Oregon City historic-resource record, Farr Store / 919 7th Street"',
+    1,
+)
+src = src.replace(
+    'name: "Oregon City 2017 permit log — 919 7th and 709 Monroe same-APN control"',
+    'name: "Oregon City 19 September 2017 permit log — 919 7th / 709 Monroe same-APN control"',
+    1,
+)
+src = src.replace('Building/address ID: `{B_708}`.', 'Building ID: `{B_708}`.', 1)
+
 exec(compile(src, str(SOURCE), "exec"), {"__name__": "__main__"})
