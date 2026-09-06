@@ -7,6 +7,7 @@
 - Related businesses: `BUS-004`
 - Related people: `P-022` Floyd LaFarlette; `P-008` Sheila Wiitanen (daughter); `P-007` Richard / Dick Wiitanen
 - Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`
+- Related research capture: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`
 
 ## Identity Correction (August 2026)
 
@@ -25,6 +26,22 @@ That reading is **superseded, not deleted**:
 - She should not be assigned an ownership/operator role in the 505 tavern business merely because later family members owned the neighboring 505 building.
 
 Keep `P-005` and `P-006` as separate people. Do not merge Hansen and Grisham.
+
+## Pre-Wheel business and hospitality history
+
+The Wheel was **not Raye's first business venture**. Project-steward family history specifically recalls that Raye had earlier hospitality/nightlife business experience in southwest Oregon, including a hotel or nightclub in Myrtle Point. Contemporary records now provide several independent anchors, while the exact Myrtle Point ownership wording still requires scan retrieval.
+
+A visually reviewed **11 March 1954 Coquille Valley Sentinel** profile identifies Mrs. Floyd LaFarlette as **Raye** and says the family had owned a **rooming-house business in Chicago**, returned there after a 1944 Coos County visit, sold the business, and moved to Oregon. The same profile says Raye was working at the **Coquille Hotel coffee shop** and had been employed at the hotel for several years. This is direct contemporary evidence of business experience before The Wheel.
+
+A visually reviewed **18 October 1951 Coquille Valley Sentinel** advertisement directly names **Floyd LaFarlette and Charlie Elkins as the new owners of The Myrtle Lodge**, advertising steaks, seafood, chicken and Saturday-night dancing from 10 p.m. to 1 a.m. The Myrtle Lodge was on the Coquille/Coos Bay Highway 101 corridor and must not be silently converted into the separate Myrtle Point memory.
+
+A visually reviewed **11 June 1953 Coquille Valley Sentinel** article documents **Mr. and Mrs. Floyd LaFarlette** among the hosts of a banquet and dance at The Myrtle Lodge. This establishes Raye's direct involvement with the venue but does not by itself restate a legal ownership interest.
+
+The strongest match to the remembered **Myrtle Point** business is a different cluster: **Myrtle Hotel / Myrtle Coffee Shop / Club Lehua**. Indexed/OCR text from the *Myrtle Point Herald* in **1962–1963** associates Floyd LaFarlette with ownership of the hotel, coffee shop and Lehua, and the **21 February 1963** article “Myrtle Hotel Begins Major Renovation This Week” explicitly places **Mr. and Mrs. Floyd LaFarlette** in the owner/renovation context. The page image is presently behind NewspaperArchive subscriber access, so Raye's exact legal/operating role remains **OCR/TEXT ONLY** pending visual verification. Do not yet state as documentary fact that “Raye owned Club Lehua” until the original scan is inspected.
+
+A separate **24 May 1962 Myrtle Point Herald** Guerin Hotel history page also indexes **Rae LaFarlette**, Carol and Sheila, but the OCR is too corrupted to establish Raye's precise Guerin Hotel role. Keep that as a retrieval target rather than an ownership claim.
+
+See `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md` for source-by-source classifications and retrieval routes.
 
 ## Working Biography
 
