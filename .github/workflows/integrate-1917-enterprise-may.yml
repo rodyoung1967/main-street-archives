@@ -24,11 +24,13 @@ jobs:
           from pathlib import Path
           p = Path('scripts/integrate_1917_enterprise_may.py')
           s = p.read_text()
-          bad = 'yr = r("registers/year-status.md")n\n'
+          bad = 'yr = r("registers/year-status.md")n' + '\n'
           if bad in s:
-              s = s.replace(bad, 'yr = r("registers/year-status.md")\n', 1)
+              s = s.replace(bad, 'yr = r("registers/year-status.md")' + '\n', 1)
           s = s.replace('Building/address ID: `{BID}`.', 'Building ID: `{BID}`.', 1)
-          s = s.replace('Source: `{SID}`  \\nClaims:', 'Source: `{SID}`  \\nType: Primary newspaper visual review  \\nClaims:', 1)
+          needle = 'Source: `{SID}`  ' + '\n' + 'Claims:'
+          replacement = 'Source: `{SID}`  ' + '\n' + 'Type: Primary newspaper visual review  ' + '\n' + 'Claims:'
+          s = s.replace(needle, replacement, 1)
           if 'May closeout integration finished:' not in s:
               tail = Path('scripts/integrate_1917_enterprise_may_tail.pyfrag').read_text()
               s = s.rstrip() + '\n' + tail
