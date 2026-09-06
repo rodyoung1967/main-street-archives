@@ -29,6 +29,7 @@ jobs:
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
+            python3 scripts/patch_1896_yaml_helper.py
             python3 scripts/integrate_cchs_2008_008_005_002_1896_6th_main.py
             python3 scripts/validate_archive.py
             git add -A
