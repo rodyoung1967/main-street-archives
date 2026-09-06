@@ -1,16 +1,19 @@
 # Morton Wheel / Oregon City Wheel pre-Raye ownership bridge — research requests
 
 Date prepared: **5 September 2026**  
+Revised: **6 September 2026** after project-steward chronology correction  
 Status: **DRAFTS READY / NOT SENT**
 
 Related research capture:
 `evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md`
 
-Purpose: resolve the project-steward family-memory hypothesis that **Raye LaFarlette / Raye Grisham worked at the Wheel Cafe in Morton, Washington; its owners later owned The Wheel at 503 Main Street, Oregon City; and Raye later bought the Oregon City business from them.** The requests intentionally seek names and transfer chronology rather than assuming the hypothesis is correct.
+Purpose: resolve the project-steward family-memory hypothesis that **Raye LaFarlette / Raye Grisham worked at the Wheel Cafe in Morton, Washington; its owners later owned The Wheel at 503 Main Street, Oregon City; and Raye later bought the Oregon City business from them.** On 6 September Rodney revised the remembered chronology and said he now thinks the Morton stop came **after Chicago and before Coquille**, rather than after Myrtle Point. The requests intentionally seek names and dates rather than assuming either the chronology or the ownership bridge is correct.
+
+The revised chronology conflicts with a visually verified 1954 *Coquille Valley Sentinel* profile in which Raye said the family returned to Chicago after a 1944 Coos County vacation, sold their rooming-house business, and moved to Coquille. The same profile says the decision to move to Coquille was ten years earlier. Accordingly, a Morton stop is an **UNRESOLVED FAMILY / CONTEMPORARY-SOURCE CONFLICT** and should be tested especially in **1944–1947**.
 
 ---
 
-## Request A — Washington State Library: Morton Wheel proprietor / LaFarlette lookup
+## Request A — Washington State Library: early Morton / LaFarlette / Wheel Cafe lookup
 
 ### Recipient
 
@@ -20,30 +23,35 @@ Current route: https://www.sos.wa.gov/library/ask-librarian
 
 ### Subject
 
-**Specific Morton, Washington lookup — Wheel Cafe proprietor and LaFarlette listings, 1950s–1960s**
+**Specific Morton, Washington lookup — LaFarlette family and Wheel Cafe, 1944–1947**
 
 ### Ready-to-send body
 
 Hello,
 
-I am researching the ownership history of **The Wheel Cafe in Morton, Washington**, later known as **Wheel Cafe & Jubilee Room**, at **145 Main Street**. I am also testing a family recollection involving **Raye / Rae LaFarlette and Floyd LaFarlette**.
+I am researching a specific family-history question involving **Morton, Washington, in approximately 1944–1947**.
 
-Your telephone-book holdings page lists Morton volumes for **1962 and 1964–1976**. Would you please make a specific lookup in the earliest available Morton books for:
+A family recollection says **Floyd LaFarlette and Raye / Rae LaFarlette** may have spent time in Morton after leaving Chicago and before settling in Coquille, Oregon, and that Raye may have worked at **The Wheel Cafe in Morton**. A contemporary 1954 Oregon newspaper profile instead describes the family's move as Chicago directly to Coquille in 1944, so I am trying to test the Morton recollection rather than assume it is correct.
 
-- **Wheel Cafe** / **The Wheel Cafe** / **Wheel Cafe & Jubilee Room**;
-- **145 Main Street, Morton**;
-- any proprietor, owner, manager, or associated personal name printed with that business;
-- **Floyd LaFarlette**;
-- **Raye LaFarlette / Rae LaFarlette**;
-- **Raye Grisham / Rae Grisham**, if present in later volumes.
+Would you please help determine whether your **1946 Lewis County / Centralia-Chehalis directory** includes **Morton** or an outlying-community section? If it does, would you please check for:
 
-I am especially interested in the **1962 and 1964–1967** books, including the Wheel's telephone number and any business-heading or proprietor information.
+- **Floyd LaFarlette / Floyd La Farlette**;
+- **Raye LaFarlette / Rae LaFarlette / Raye La Farlette / Rae La Farlette**;
+- **Wheel Cafe / The Wheel Cafe**;
+- **145 Main Street, Morton**, if the street address was in use then;
+- any owner, proprietor, manager, employee, occupation, spouse, residence, or telephone notation associated with those entries.
 
-I am also trying to identify the Wheel Cafe's proprietor in the **1950s**. Your public holdings list does not show a Morton telephone book for that decade. Was the Morton exchange included in a broader Centralia, Lewis County, or regional telephone book under another catalog title during approximately **1950–1959**? If so, could the Wheel Cafe / 145 Main listing be checked there as well?
+Your county-directory holdings page lists Lewis County for **1946** and again for **1948–1950**, while your Morton-specific telephone-book holdings begin later. If the 1946 volume does not cover Morton, I would appreciate confirmation of that coverage limitation and any recommendation for a directory, telephone exchange book, tax list, or other source that did cover Morton in 1944–1947.
 
-The Library of Congress catalog identifies *The Morton Journal* as a weekly Morton newspaper from **1945–1973** (LCCN `sn88085057`, OCLC `17315663`). If Washington State Library holds the relevant microfilm, I would also appreciate any guidance on the most practical access route for a targeted **1950–1965 Wheel Cafe ownership/new-management search**.
+I am also trying to establish whether **The Wheel Cafe itself existed in Morton by 1944–1947**. The Library of Congress catalog identifies *The Morton Journal* as a weekly Morton newspaper beginning in **1945** (LCCN `sn88085057`, OCLC `17315663`). If Washington State Library holds that microfilm, would you please advise the most practical route for a targeted **1945–1947** search for:
 
-The goal is simply to identify the Morton Wheel's historical proprietor(s) and determine whether the LaFarlette names appear in Morton. A no-hit should be reported as such; I am not assuming the family recollection is correct.
+- `LaFarlette` / `La Farlette` / `Floyd` / `Raye` / `Rae`;
+- `Wheel Cafe` / `The Wheel` / `145 Main`;
+- `waitress`, `employee`, `manager`, `proprietor`, `owner`;
+- `new ownership`, `new management`, `sold`, `purchased`;
+- arrival, departure, residence, visitor, or move notices.
+
+A no-hit should be reported as a coverage result only; I am not assuming the family recollection is correct.
 
 Thank you,
 
@@ -51,7 +59,7 @@ Rodney Young
 
 ### Handling note
 
-A directory or newspaper no-hit is a coverage result, not proof that Raye did not work there or that a particular proprietor did not exist. Preserve exact volume/year, listing wording, phone number, address, and any proprietor notation supplied by staff.
+Preserve exact directory title/year, whether Morton is actually included, listing wording, page number, phone/address, and any proprietor or occupation notation. A no-hit is not proof that Raye never worked in Morton.
 
 ---
 
@@ -105,6 +113,53 @@ Keep liquor-license identity distinct from business ownership, real-estate owner
 
 ---
 
+## Request C — Washington State Liquor and Cannabis Board: early Morton Wheel licensee
+
+### Recipient
+
+Washington State Liquor and Cannabis Board — Public Records  
+Current request route: https://lcb.wa.gov/records/make-public-records-request
+
+### Subject
+
+**Historical licensee/application lookup — Wheel Cafe, 145 Main, Morton, approximately 1944–1952**
+
+### Ready-to-send body
+
+Hello,
+
+I am researching the early history of **The Wheel Cafe in Morton, Washington**, later listed at **145 Main Street, Morton**. I am trying to identify both the earliest surviving license record and the proprietor/licensee during the late 1940s or early 1950s.
+
+Your current Public Records Index lists **Licensee Application Files** as a requestable licensing record type, and your public-records guidance indicates that searches may use trade name, business name, street address, owner names and a date range.
+
+Would you please determine whether the Liquor and Cannabis Board, its predecessor Liquor Control Board records, or a successor archival series contains any historical licensing/application records for:
+
+- **Wheel Cafe / The Wheel Cafe**;
+- **145 Main Street, Morton, Washington** (or the same premises if earlier numbering differed);
+- approximately **1944–1952**.
+
+I am especially seeking:
+
+1. the earliest surviving application/license date for the business;
+2. the individual or corporate applicant/licensee name;
+3. owner/proprietor names;
+4. any change-of-ownership, transfer, or trade-name record;
+5. any record that helps establish whether the Wheel Cafe was already operating in **1944–1947**.
+
+This is being used to test a family recollection involving **Raye / Rae LaFarlette and Floyd LaFarlette**. I am not assuming they owned the business or that the cafe existed throughout the full requested date range.
+
+If records this old are no longer held by LCB, could you please provide any known transfer, retention, archival-series, microfilm, accession, or successor-custodian information that would identify where historical liquor-license application files for Lewis County/Morton from this period were sent?
+
+Thank you,
+
+Rodney Young
+
+### Handling note
+
+LCB's current records index establishes that Licensee Application Files are a requestable record class; it does **not** establish survival back to the 1940s. Treat a no-record/custody response as a records-survival finding, not as proof the Morton Wheel did not exist.
+
+---
+
 ## Do not send automatically
 
-These drafts are preserved for project-steward use. **No request has been sent.** If either institution supplies records, visually inspect original scans where available and integrate the exact names/dates before promoting the Morton → Oregon City ownership hypothesis.
+These drafts are preserved for project-steward use. **No request has been sent.** If any institution supplies records, visually inspect original scans where available and integrate the exact names/dates before promoting either the Chicago → Morton → Coquille chronology or the Morton → Oregon City ownership hypothesis.
