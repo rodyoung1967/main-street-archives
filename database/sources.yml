@@ -1452,3 +1452,15 @@ sources:
     notes: "Primary CCHS photograph, visually verified; steward orientation on Fifth looking north toward Sixth. Visible Albright cold-storage, Wilhelm Tell House and Schlitz signage; exact later numbered-address mapping unresolved."
     related_evidence: [E-220]
     related_media: [IMG-0766]
+
+  - id: S-247
+    name: "Oregon City Courier, 11/18/25 January 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-25/ed-1/seq-6/"
+    type: "Primary newspaper page scans; visually verified 24/24 pages"
+    date: "1917-01-11 through 1917-01-25"
+    repository_file: "evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md"
+    notes: "Preserved originals and manifest are under newspapers/oregon-city-courier/1917-january-unsampled/. Jan 25 p6 directly prints W. B. Eddy's Store at 427 Main Street, Corner 5th, in building formerly occupied by Strebig Meat Market."
+    related_evidence: [E-221]
+    related_businesses: [BUS-100, BUS-101]
+    related_buildings: [B-016]
+

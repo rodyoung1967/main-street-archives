@@ -521,12 +521,16 @@ buildings:
     name: 427 Main Street (historic storefront address)
     address: 427 Main Street, Oregon City, Oregon
     repository_file: buildings/427-main.md
-    notes: Quality Restaurant directly advertised here with phone 517 on 8 June 1922; proprietor omitted. Newton association probable only. May 1925 Sheet 6 maps the corner south of Fifth opposite 501 and marks clothing/gentlemen's furnishings. No legal parcel, ownership, physical continuity or modern-building identification proved.
+    notes: Quality Restaurant directly advertised here with phone 517 on 8 June 1922; proprietor omitted. Newton association probable only. May 1925 Sheet 6 maps the corner south of Fifth opposite 501 and marks clothing/gentlemen's furnishings. No legal parcel, ownership, physical continuity or modern-building identification proved. Jan 25 1917 Courier directly fixes 427 Main as corner Fifth for W. B. Eddy's Store and names Strebig Meat Market as former building occupant; cross-period business identity and physical-building continuity remain unresolved.
     related_businesses:
     - BUS-087
+    - BUS-100
+    - BUS-101
     related_evidence:
     - E-179
     - E-182
+    - E-221
     related_sources:
     - S-141
     - S-021
+    - S-247

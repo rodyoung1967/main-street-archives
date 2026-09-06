@@ -92,7 +92,7 @@ E-116/S-130, [page ledger](../evidence/source-captures/1916-courier-pages-106-18
 
 | Address | Building ID | Primary Page | Related Businesses | Related Evidence | Notes |
 | --- | --- | --- | --- | --- | --- |
-| 427 Main Street (historic address) | `B-016` | `buildings/427-main.md` | `BUS-087` | `E-179`, `E-182` | June 8 Quality Restaurant ad prints phone 517 but no proprietor; May 1925 map corner south of Fifth is clothing/gentlemen's furnishings. No physical-continuity claim. |
+| 427 Main Street (historic address) | `B-016` | `buildings/427-main.md` | `BUS-100`, `BUS-101`, `BUS-087` | `E-221`, `E-179`, `E-182` | Jan. 25, 1917 ad directly fixes 427 Main at corner Fifth for W. B. Eddy's Store and names Strebig Meat Market as former building occupant; June 8, 1922 Quality Restaurant ad prints 427 and phone 517. Business identity and physical-building continuity across dates are not assumed. |
 | Newton's Quality restaurant, exact number unresolved | Unassigned | `businesses/quality-restaurant-1922.md` | `BUS-088`, `P-106` | `E-180` | Across the way from laundry. 427 is probable only; no direct 503 association. |
 | Quality Cafe, exact number unresolved | Unassigned | `businesses/quality-restaurant-1922.md` | `BUS-089` | `E-181` | August roster alone gives no proprietor/address. |
 

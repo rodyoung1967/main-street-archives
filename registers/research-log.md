@@ -666,3 +666,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Cross-checked Albright against existing `E-173`/`E-123` Fifth/Main old-stand evidence; classified the exact numbered address as unresolved.
 - Preserved Wilhelm Tell House at Sixth/Main (1902 primary-ad compatibility) and The Bon Ton/Schlitz (1894 Main-near-Fifth ad) as location/identity correlations with explicit uncertainty.
 - No annual research-status certification changed.
+
+### 2026-09-05 — resumed exhaustive 1917 Courier review with remaining January issues
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+- Preserved and visually inspected **24/24 actual page scans** for 11, 18 and 25 January 1917 (`S-247`). Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`.
+- With the earlier 4 January sample, January Courier coverage is now **4 complete issues / 32 page images visually verified**.
+- Major new direct finding (`E-221`): **W. B. Eddy's Store — 427 Main Street, Corner 5th** on 25 Jan. p6; same ad says the building was formerly occupied by **Strebig Meat Market**.
+- Created separate `BUS-100` and `BUS-101` records rather than silently merging with 1915 `BUS-032` or 1907 `BUS-047`; identity and move/continuity bridges remain open.
+- Repeated 108 Fifth and 619 Main advertisements corroborate the existing 1917 sample anchors as additional dated observations.
+- No exact 501/503/505/507/509/511 occupant was established in these 24 pages. This is bounded coverage only, not vacancy/non-use evidence.
+- 1917 remains **IN PROGRESS**; unreviewed annual pages/titles, true 13 Dec p21 and the Sohns & Woodbeck Oregon City directory remain open.

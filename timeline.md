@@ -551,3 +551,8 @@ CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca -
 ## 1896 — CCHS Sixth/Main predecessor-frontage photograph (`T-092`)
 
 CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`) is titled **Oregon City 1896 - 6th and Main Street**. The photograph visibly shows Portland House, Harding/drug-store wording and East Side Railway ticket-office wording. The project steward identifies the two men near Fifth as standing on the **northeast corner of Fifth and Main**, allowing the right/west side to be read as the pre-numbering sites later numbered 511 through 501 toward Fifth. The buildings occupying the later **501/503/505 sites in 1896 are predecessor structures**; no continuity with the later/current buildings is inferred and no individual 1896 business is assigned to 501/503/505 from this image alone.
+
+## 25 January 1917 — T-093: W. B. Eddy's Store at 427 Main, corner Fifth; Strebig Meat Market named as former occupant
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+
+A visually verified *Oregon City Courier* advertisement (`S-247` / `E-221`) gives **W. B. Eddy's Store (`BUS-100`)** at its **new location, 427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market (`BUS-101`)**. The ad does not identify Eddy's prior room, so no move from the 1915 526 Main `BUS-032` record is asserted. The former Strebig reference is likewise not merged with 1907 `BUS-047` without an independent identity/continuity bridge. The later 1922 Quality Restaurant at 427 is a same-address anchor, not proof that the same physical building survived.

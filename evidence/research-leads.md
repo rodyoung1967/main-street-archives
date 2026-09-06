@@ -210,6 +210,11 @@ Action: Resolve numbered callouts1915-M02 (October 14 seq 4 carries October 21 d
 
 ## RL-043 — Resolve unnumbered 1915 business changes and neighboring-address transitions
 
+
+### 5 September 2026 — 1917 Eddy/Strebig/427 continuation
+
+`E-221` / `S-247` directly places **W. B. Eddy's Store (`BUS-100`) at 427 Main, corner Fifth** on 25 January 1917 and says the building was formerly occupied by **Strebig Meat Market (`BUS-101`)**. Test two separate bridges rather than merging by name: (1) whether 1915 `BUS-032` Eddy's Dependable Store at 526 and 1917 `BUS-100` are the same business/proprietor and, if so, when/where the move occurred; (2) whether `BUS-101` is the same Strebig operation as 1907 `BUS-047` at Albright's Old Stand/Fifth-Main. Directories, intervening advertisements and exact-address move notices are preferred. The 1917/1922 shared 427 address also requires a structural/parcel continuity test before treating it as one physical building.
+
 Status: **Open online follow-up**, with Brunswick opening/name subquestions resolved; not an exhausted-online/manual callout. Sources `S-120`, `S-121`; [prior integration audit](source-captures/1915-sheets-073-100-integration-audit.md), [through-November 25 findings](source-captures/1915-courier-sheets-101-110.md).
 
 - **Bannon & Co., 12 August p5:** about 300 square feet being added upstairs for women's apparel, on Main Street. Resolve exact number and relationship to the September 30 Masonic Temple advertisement before assigning the enlargement to a building. Do not convert work in progress into completed work.

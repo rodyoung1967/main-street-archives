@@ -2055,3 +2055,20 @@ Claims:
 - The photograph does not establish exact later 501/503/505 boundaries or building continuity into 1922 or the surviving structures.
 Classification: **DOCUMENTED / DIRECT** for visible signs and CCHS identity; **STRONG CROSS-SOURCE INFERENCE** for Albright's Fifth/Main site; **PROBABLE / WORKING HYPOTHESIS** for the Bon Ton/Schlitz identification; exact numbered-address mapping unresolved.  
 Confidence: Very High for readable signs and object identity; High for Albright Fifth/Main correlation; Moderate for Bon Ton identification; unresolved for exact later numbers/building continuity.
+
+## E-221 — 25 January 1917 W. B. Eddy ad fixes 427 Main at corner Fifth and names former Strebig Meat Market occupancy
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+Source: `S-247`  
+Related building: `B-016`  
+Related businesses: `BUS-100`, `BUS-101`; identity leads `BUS-032`, `BUS-047`; later 427 business `BUS-087`.  
+Type: Primary newspaper advertisement; visually verified  
+Claims:
+- *Oregon City Courier*, **25 January 1917, p.6**, directly advertises **W. B. Eddy's Store** at its **new location, 427 Main Street, Corner 5th**.
+- The same advertisement directly says that building was **formerly occupied by the Strebig Meat Market**.
+- The advertisement says Eddy had been forced out of another storeroom quickly but does not print that former address; no 526-to-427 move is proved.
+- `BUS-100` is therefore kept separate from the 1915 `BUS-032` Eddy's Dependable Store unless an independent identity/move bridge is found.
+- `BUS-101` is kept separate from the 1907 `BUS-047` Strebig fresh-meat market at Albright's Old Stand/Fifth-Main unless an independent continuity/identity bridge is found.
+- Existing 1922 `BUS-087` Quality Restaurant evidence at 427 is a later same-address anchor only; the 1917 advertisement does not prove physical-building survival or continuous occupancy through 1922.
+- Across the complete 11/18/25 January batch (**24 visually reviewed pages**), no exact 501/503/505/507/509/511 Main occupant was established. This is coverage only and not negative evidence.
+Classification: **DOCUMENTED / DIRECT** for the 25 January 1917 business/address/former-occupant wording; **UNRESOLVED** for Eddy 1915→1917 identity, Strebig 1907→pre-1917 identity, and 1917→1922 physical-building continuity.  
+Confidence: **Very High** for the visible 25 January wording and 24-page visual-review count; unresolved for the cross-period identity/continuity questions.

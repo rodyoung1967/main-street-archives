@@ -522,3 +522,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `2008.008.005.002` CCHS 1896 Sixth/Main | `S-245` | `IMG-0765` / `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg` | `E-219`, `T-092` | `B-005`, `B-001`, `B-002`, `BUS-007` |
 
 | `IMG-0766` / `S-246` / `E-220` / CCHS `2008.008.005.003` | `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`; `evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md` | 1896 Fifth/Main view; visible Albright cold-storage, Wilhelm Tell House and Schlitz signs. Albright strongly correlates to later Fifth/Main old-stand evidence; exact later 501/503/505 numbers unresolved. |
+
+## S-247 / E-221 / T-093 — January 1917 427 Main corner control
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-247` / `E-221` / `T-093` | `B-016`; `BUS-100`, `BUS-101`; identity leads `BUS-032`, `BUS-047`; later `BUS-087` | 25 Jan. 1917 p6 directly gives W. B. Eddy's Store at **427 Main Street, Corner 5th** and names Strebig Meat Market as former building occupant. No cross-period business merger or physical-building continuity is assumed. |
+| `BUS-100` | `S-247`, `E-221`, `B-016`, `T-093` | W. B. Eddy's Store at 427 on 25 Jan. 1917; prior room not numbered. |
+| `BUS-101` | `S-247`, `E-221`, `B-016`, `T-093` | Strebig Meat Market named only as former 427 building occupant; exact occupancy dates/proprietor unresolved. |

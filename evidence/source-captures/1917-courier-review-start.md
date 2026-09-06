@@ -96,3 +96,12 @@ Keep the 1916–1917 water-rent ledger findings separate from newspaper silence:
 A new structured first-issue-of-each-month pass (`S-134` / `E-120`) visually reviewed **12 complete selected issues / 96 pages**: Jan4, Feb1, Mar1, Apr5, May3, Jun7, Jul5, Aug2, Sep6, Oct4, Nov1 and Dec6. [Detailed log and preserved-page links](1917-courier-first-issue-monthly-sample.md).
 
 Verified additions include Scripture & May at **108 Fifth** on Jan4/Feb1, Electric Store at **619 Main** on Jan4, Theroux Music House at **519 Main** on Oct4, and Jones Drug Co. at **617 Main** on Nov1. The sample establishes no exact 501/503/505/507/509/511 occupant. Sampling silence is not vacancy evidence. 1917 remains **IN PROGRESS**; the 13 Dec true-p21 and Sohns & Woodbeck Oregon City directory gaps remain open, and this sample does not substitute for exhaustive annual page review.
+
+## January 11–25 exhaustive continuation — 5 September 2026
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+
+`S-247` / `E-221` visually clears all **24/24 pages** of the remaining January 11, 18 and 25 *Courier* issues. With the already reviewed January 4 issue, **January Courier coverage is now 4 complete issues / 32 page images visually verified**.
+
+The major new address control is **25 January p.6: W. B. Eddy's Store, 427 Main Street, Corner 5th**, in a building the ad says was **formerly occupied by the Strebig Meat Market**. The archive keeps the 1917 Eddy and Strebig references separate from `BUS-032` and `BUS-047` until independent identity/continuity evidence is found. Repeated 108 Fifth and 619 Main ads corroborate `E-120` as additional dated observations.
+
+No exact 501/503/505/507/509/511 occupant was established in these 24 pages; that bounded result is not vacancy evidence. 1917 remains **IN PROGRESS** because the remainder of the annual relevant-title/page audit, the true 13 Dec p21 retrieval gap, and the Sohns & Woodbeck Oregon City directory section remain open. See `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.

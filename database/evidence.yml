@@ -3352,3 +3352,21 @@ evidence:
     related_sources: [S-246]
     related_evidence: [E-173, E-123]
     repository_file: "evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md"
+
+  - id: E-221
+    name: "25 January 1917 W. B. Eddy ad fixes 427 Main at corner Fifth and names former Strebig Meat Market occupancy"
+    type: "Primary newspaper advertisement; visually verified"
+    date: "1917-01-25"
+    claims:
+      - "W. B. Eddy's Store directly advertises its new location as 427 Main Street, Corner 5th."
+      - "The advertisement says the building was formerly occupied by the Strebig Meat Market."
+      - "The prior Eddy storeroom is not numbered; no move from 526 Main is proved."
+      - "BUS-100 remains separate from BUS-032 pending an identity/move bridge."
+      - "BUS-101 remains separate from BUS-047 pending a 1907-to-pre-1917 identity/continuity bridge."
+      - "The later 1922 Quality Restaurant at 427 is a same-address control, not proof of physical-building continuity."
+      - "The 24-page January 11/18/25 batch established no exact 501/503/505/507/509/511 occupant; this is bounded coverage, not vacancy evidence."
+    confidence: "Very High for the visually verified 1917 wording and page-review count; unresolved for cross-period identity and building continuity."
+    related_sources: [S-247]
+    related_businesses: [BUS-100, BUS-101, BUS-032, BUS-047, BUS-087]
+    related_buildings: [B-016]
+

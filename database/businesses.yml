@@ -1233,3 +1233,21 @@ businesses:
     related_sources: [S-237, S-240]
     related_media: [IMG-0758]
 
+  - id: BUS-100
+    name: "W. B. Eddy's Store — 1917"
+    repository_file: "businesses/w-b-eddys-store-1917.md"
+    address: "427 Main Street, corner Fifth (25 January 1917)"
+    notes: "Direct advertisement calls 427 the new location and says the business was forced from another storeroom, whose address is not stated. Kept separate from BUS-032 and the 1910 Watson B. Eddy record pending an identity/move bridge."
+    related_buildings: [B-016]
+    related_evidence: [E-221]
+    related_sources: [S-247]
+
+  - id: BUS-101
+    name: "Strebig Meat Market — former 427 occupant"
+    repository_file: "businesses/strebig-meat-market-427-former-occupant.md"
+    address: "427 Main Street corner building; former occupant as of 25 January 1917; exact dates unknown"
+    notes: "The W. B. Eddy advertisement says the 427 building was formerly occupied by the Strebig Meat Market. Kept separate from BUS-047 (1907 Strebig at Albright's Old Stand/Fifth-Main) pending independent identity/continuity proof."
+    related_buildings: [B-016]
+    related_evidence: [E-221]
+    related_sources: [S-247]
+

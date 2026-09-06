@@ -952,3 +952,12 @@ timeline:
     related_buildings: [B-005, B-001, B-002]
     related_businesses: [BUS-007]
 
+  - id: T-093
+    date: 25 January 1917
+    summary: "W. B. Eddy's Store advertises its new location at 427 Main Street, Corner 5th; the ad says the building was formerly occupied by the Strebig Meat Market."
+    confidence: "Direct/very high for dated business-address and former-occupant wording; unresolved for Eddy 1915 identity, Strebig 1907 identity, and physical-building continuity to 1922."
+    related_sources: [S-247]
+    related_evidence: [E-221]
+    related_businesses: [BUS-100, BUS-101, BUS-032, BUS-047, BUS-087]
+    related_buildings: [B-016]
+

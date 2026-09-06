@@ -1975,3 +1975,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media: `E-220` / `IMG-0766`; cross-checks `E-173`, `E-123`.  
 Related study area: historic 501/503/505 predecessor frontage; exact later numbered boundaries unresolved.  
 Notes: `WILHELM TELL HOUSE`, `C. ALBRIGHT'S` / `COLD STORAGE`, and `Schlitz` are directly readable. Steward orientation is on Fifth looking north toward Sixth.
+
+## S-247 — Oregon City Courier, 11/18/25 January 1917 complete-page visual-review batch
+<!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **11 January 1917 (8 pages); 18 January 1917 (8 pages); 25 January 1917 (8 pages)**.  
+Preserved originals: `newspapers/oregon-city-courier/1917-january-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-january-unsampled/manifest.json`  
+Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`  
+Related evidence/business/building: `E-221`; `BUS-100`, `BUS-101`; `B-016`.  
+Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.  
+Notes: 25 Jan. p.6 directly prints W. B. Eddy's Store at **427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market**. The three issues also repeat 108 Fifth and 619 Main anchors. No exact 501/503/505/507/509/511 occupant was found in this bounded batch; silence is not vacancy evidence.

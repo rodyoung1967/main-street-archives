@@ -198,6 +198,11 @@ The 2 July 1909 *Courier* repeats Ralph O. Smith's three-month Palace Saloon, Fi
 
 ## OQ-034 — Was George Newton's saved Quality restaurant the 427 Main business?
 
+
+### 5 September 2026 — 1917 427 Main corner control
+
+New `E-221` / `S-247` evidence independently fixes **427 Main Street at corner Fifth** on 25 January 1917, when W. B. Eddy's Store advertised there and named Strebig Meat Market as the building's former occupant. This strengthens the address's Fifth/Main geographic control but does **not** answer whether George Newton operated the 1922 Quality Restaurant at 427, and it does not establish physical-building continuity from 1917 to 1922. Keep Newton → 427 at its existing evidence state until a proprietor/address source joins the 1922 records directly.
+
 Status: **OPEN — PROBABLE / WORKING HYPOTHESIS, not a direct address pairing.** `E-179` directly places Quality Restaurant (`BUS-087`) at 427 Main (`B-016`), phone 517, on 8 June 1922; it names no proprietor. `E-180` directly names George Newton (`P-106`, `BUS-088`) and describes his saved restaurant as across the way from the laundry in August, without a number. `E-181` separately records unnumbered Quality Cafe (`BUS-089`). `E-182` provides compatible 1925 map geometry but cannot prove 1922 tenancy or unchanged buildings.
 
 Recover a directory, telephone-517 listing, restaurant license, ad or sale/move notice joining Newton and the address, and bracket any June–August move. Keep alternate-business and relocation explanations open. Do not merge later 503 Kwality or use Newton's survival to choose Gates Model A/B. `RL-048` gives the remaining source routes.
