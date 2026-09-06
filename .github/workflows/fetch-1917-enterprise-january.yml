@@ -1,0 +1,72 @@
+name: Fetch January 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-1917-enterprise-january.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+      - name: Download January Enterprise page PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, time
+          dates = ['1917-01-05','1917-01-12','1917-01-19','1917-01-26']
+          base = 'https://oregonnews.uoregon.edu/lccn/sn00063700'
+          out = pathlib.Path('newspapers/oregon-city-enterprise/1917-january')
+          out.mkdir(parents=True, exist_ok=True)
+          s = requests.Session()
+          s.headers.update({'User-Agent':'main-street-archives archival retrieval'})
+          issues=[]
+          for ds in dates:
+              pages=[]
+              for seq in range(1,33):
+                  url=f'{base}/{ds}/ed-1/seq-{seq}.pdf'
+                  r=s.get(url,timeout=60)
+                  ctype=r.headers.get('content-type','').lower()
+                  if r.status_code != 200 or 'pdf' not in ctype or not r.content.startswith(b'%PDF'):
+                      break
+                  fn=f'{ds}-seq-{seq:02d}.pdf'
+                  (out/fn).write_bytes(r.content)
+                  pages.append({'sequence':seq,'file':fn,'url':url,'bytes':len(r.content),'sha256':hashlib.sha256(r.content).hexdigest()})
+                  time.sleep(0.05)
+              if not pages:
+                  raise SystemExit(f'No pages retrieved for {ds}')
+              issues.append({'date':ds,'page_count':len(pages),'pages':pages})
+          manifest={'title':'Oregon City Enterprise','lccn':'sn00063700','year':1917,'month':'January','issues':issues,'total_pages':sum(i['page_count'] for i in issues)}
+          (out/'manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          print(json.dumps({k:v for k,v in manifest.items() if k!='issues'},indent=2))
+          print([(i['date'],i['page_count']) for i in issues])
+          PY
+      - name: Upload January originals
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1917-enterprise-january
+          path: newspapers/oregon-city-enterprise/1917-january/
+          retention-days: 7
+      - name: Commit preserved originals
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1917-january/
+          if git diff --cached --quiet; then
+            echo 'No retrieval changes.'
+            exit 0
+          fi
+          git commit -m 'Archive January 1917 Oregon City Enterprise scans'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin main
