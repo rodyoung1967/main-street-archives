@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
       - name: Sync to latest main
         run: git pull --rebase origin main
-      - name: Repair generated May integration script tail
+      - name: Repair generated May integration script
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -27,6 +27,8 @@ jobs:
           bad = 'yr = r("registers/year-status.md")n\n'
           if bad in s:
               s = s.replace(bad, 'yr = r("registers/year-status.md")\n', 1)
+          s = s.replace('Building/address ID: `{BID}`.', 'Building ID: `{BID}`.', 1)
+          s = s.replace('Source: `{SID}`  \\nClaims:', 'Source: `{SID}`  \\nType: Primary newspaper visual review  \\nClaims:', 1)
           if 'May closeout integration finished:' not in s:
               tail = Path('scripts/integrate_1917_enterprise_may_tail.pyfrag').read_text()
               s = s.rstrip() + '\n' + tail
