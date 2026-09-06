@@ -373,3 +373,7 @@ CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) supplies a description-dated **No
 `S-240` / `E-214` adds official Historic Oregon Newspapers **page text** placing **Fain's Men's Store at 511 Main** on 1 March 1943. Because the scan was not visually opened, keep that exact-address item **OCR/TEXT ONLY**. Read with visually verified P-1043, this makes `Fain's = 511` in the 1930s photographed state **PROBABLE**, not direct.
 
 Next priority is now sharply defined: find **one 1930–1939 exact-address Fain source** and visually inspect it. Then use that fixed storefront to walk the P-1043 west-side sequence toward 509, 507, 505 and 503. **Sandwich Nook** remains the highest-value adjacent exact-address target; targeted online search in this pass did not resolve it. Tourist Hotel `524½` is secondary-only and American Cleaners `502/506` is later-only context, so neither is yet a controlling 1930s anchor.
+
+### P-5577 companion aerial sequence
+
+CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761` / `T-089`) explicitly names companion photographs **P-4776, P-5578, P-5579 and P-5580**. Retrieve all four and compare their camera positions, overlap and target-block visibility. The goal is to determine whether any exposure gives a stronger footprint view of 501/503/505 or can be relatively sequenced against the July 1922 fire and November `P-9594` control. Do not infer pre/post-fire status from P-5577's year-only date.

@@ -1674,3 +1674,17 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward original: `Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City.jpg`; 1909×851; 311,884 bytes; SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`
 - Visual note: light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the newly completed Gates fire-replacement (`E-097`), not direct proof of 501 alone or 501+503.
 - Related source/evidence: `S-239` / `E-213`
+
+## IMG-0761 — CCHS P-5577 1922 aerial view of Willamette Falls and Oregon City
+- Source/evidence/timeline: `S-241` / `E-215` / `T-089`
+- CCHS object: **P-5577**
+- CCHS title: **Oregon City 1922 - Aerial View of Willamette Falls and Oregon City**
+- Date made: **1922**
+- Description: **Aerial View #1 of Willamette Falls, West Linn and Oregon City.  Companion Photos P-4776, P-5577, P-5578, P-5579, P-5580. 2014.002.027.001**
+- Medium: **Photographic Paper**; negative location **CCHS Halon Room**
+- Other number: **Gardner Photos 027_001**
+- Repository file: `media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg`
+- Repository dimensions: **2400 × 1875**; 695,334 bytes; SHA-256 `ecb09a7f1f8b1631d6727fb010304ccde5a2c2d938661f415935b80219d31e6c`
+- Status: `committed`
+- Visual review: broad Willamette Falls / West Linn / Oregon City aerial. Fifth/Main is within the downtown frame, but exact 501/503/505 lettering and business signs are not readable. No month is supplied, so pre-/post-July-1922-fire state remains unresolved.
+- Companion-photo lead: `P-4776`, `P-5578`, `P-5579`, `P-5580`.

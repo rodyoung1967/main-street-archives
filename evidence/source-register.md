@@ -1906,3 +1906,14 @@ URL: https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/
 Related evidence/business/photo: `E-214` / `BUS-099` / `S-237` / `E-211` / `IMG-0758`.  
 Capture: `evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md`.  
 Notes: Official indexed page text places **FAIN'S MEN'S STORE** at **511 Main Oregon City**. The original scan/PDF could not be opened through the available retrieval route, so do not label the transcription visually verified. This is a later exact-address anchor, not proof that the 1930–1939 P-1043 storefront was already 511 or that occupancy was uninterrupted.
+
+## S-241 — CCHS P-5577, Oregon City aerial view of Willamette Falls and Oregon City, 1922
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `P-5577`; Gardner Photos `027_001`; accession/series wording `2014.002.027.001`.  
+Date: **1922**; no month supplied.  
+Repository image: `media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg`.  
+Capture: `evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-aerial-2026-09-05.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city  
+Related evidence/media/timeline: `E-215` / `IMG-0761` / `T-089`.  
+Notes: Broad aerial of Willamette Falls, West Linn and Oregon City. Fifth/Main lies within the downtown frame, but individual target numbers/business signs are unreadable at this scale. Because no month is supplied, do not classify the view as pre- or post-July-1922 fire from this source alone. Companion photos: P-4776, P-5578, P-5579, P-5580.

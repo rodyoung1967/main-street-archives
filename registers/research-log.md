@@ -618,3 +618,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Targeted searches did not resolve a historic exact address for **Sandwich Nook**. Preserved that as an unresolved search result, not negative evidence.
 - Preserved—but did not promote—a secondary **Tourist Hotel 524½ Main (1932)** lead and later **American Cleaners 502/506 Main (1953+)** directory-summary context. The City historic-resource association of Oregon City Auto Parts with 1020–1024 Main is geographically outside the photographed block and is not used to assign the P-1043 sign.
 - No annual closeout status changed.
+
+### 2026-09-05 — CCHS P-5577 1922 aerial
+- Integrated project-steward supplied CCHS `P-5577` as `IMG-0761` / `S-241` / `E-215` / `T-089`.
+- Preserved title, description, Date made **1922**, medium, negative location, Gardner Photos `027_001`, and companion list `P-4776`, `P-5578`, `P-5579`, `P-5580`.
+- Direct visual review confirms broad Willamette Falls / West Linn / Oregon City coverage with the Fifth/Main district inside the downtown frame.
+- Exact 501/503/505 lettering/business signage is unreadable at this scale.
+- Because no month is supplied, P-5577 is **not** classified as pre- or post-18-July-1922-fire evidence. `P-9594` remains the stronger November 1922 post-fire visual control.
+- No annual research-status certification changed.

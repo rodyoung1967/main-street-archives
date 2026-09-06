@@ -1,0 +1,235 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-5577",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-5577&size=200",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/a7942480-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 938,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/93460a50-60b6-11ef-a83b-51d6852e35b3-vdUe7z9.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1875,
+    "bytes": 695334,
+    "sha256": "ecb09a7f1f8b1631d6727fb010304ccde5a2c2d938661f415935b80219d31e6c"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City 1922 - Aerial View of Willamette Falls and Oregon City",
+    "entry_object_id": "P-5577",
+    "description": "Aerial View #1 of Willamette Falls, West Linn and Oregon City.  Companion Photos P-4776, P-5577, P-5578, P-5579, P-5580. 2014.002.027.001",
+    "date_made": "1922",
+    "medium": "Photographic Paper",
+    "location_of_negative": "CCHS Halon Room",
+    "other_number": "Gardner Photos 027_001"
+  },
+  "entry": {
+    "id": "a7942480-9b1e-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city",
+    "media": [
+      {
+        "uuid": "93460a50-60b6-11ef-a83b-51d6852e35b3",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/93460a50-60b6-11ef-a83b-51d6852e35b3-umdTw2l.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/image/93460a50-60b6-11ef-a83b-51d6852e35b3-umdTw4O.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/93460a50-60b6-11ef-a83b-51d6852e35b3-vdUe7z9.sm@1x.jpg",
+            "width": 768,
+            "height": 600
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/93460a50-60b6-11ef-a83b-51d6852e35b3-vdUe7z9.sm@2x.jpg",
+            "width": 768,
+            "height": 600
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/93460a50-60b6-11ef-a83b-51d6852e35b3-vdUe7z9.lg@1x.jpg",
+            "width": 1200,
+            "height": 938
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/93460a50-60b6-11ef-a83b-51d6852e35b3-vdUe7z9.lg@2x.jpg",
+            "width": 1200,
+            "height": 938
+          },
+          "dominant_color": "c8b878",
+          "complementary_color": "7787c7"
+        }
+      },
+      {
+        "uuid": "a6a2d820-9b49-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Aerial View #1, W. Linn, O.C., 1922",
+        "description": "Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/a6a2d820-9b49-11eb-97c3-a30f15c9573f-sul7igk.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/a6a2d820-9b49-11eb-97c3-a30f15c9573f-sul7iiS.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a6a2d820-9b49-11eb-97c3-a30f15c9573f-vdUe7za.sm@1x.jpg",
+            "width": 768,
+            "height": 587
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a6a2d820-9b49-11eb-97c3-a30f15c9573f-vdUe7za.sm@2x.jpg",
+            "width": 768,
+            "height": 587
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a6a2d820-9b49-11eb-97c3-a30f15c9573f-vdUe7za.lg@1x.jpg",
+            "width": 850,
+            "height": 650
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/a6a2d820-9b49-11eb-97c3-a30f15c9573f-vdUe7za.lg@2x.jpg",
+            "width": 850,
+            "height": 650
+          },
+          "dominant_color": "B4AC8E",
+          "complementary_color": "8E96B4"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City 1922 - Aerial View of Willamette Falls and Oregon City",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-5577",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Aerial View #1 of Willamette Falls, West Linn and Oregon City. \nCompanion Photos P-4776, P-5577, P-5578, P-5579, P-5580.\n2014.002.027.001",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1922",
+                "fuzzydate_date": "1922-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: CCHS Halon Room",
+            "order": 2
+          }
+        },
+        "order": 4
+      },
+      "hasOtherIdentifier": {
+        "label": "Other Names and Numbers",
+        "width": "w-xs-12",
+        "value": {
+          "hasOtherNumber": {
+            "label": "Other Numbers",
+            "width": "w-xs-12",
+            "value": {
+              "hasValue": {
+                "label": "Other Number",
+                "width": "w-xs-6",
+                "value_text": "Other No.: Gardner Photos 027_001",
+                "order": 1
+              }
+            },
+            "order": 1
+          }
+        },
+        "order": 5
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000005577",
+    "prev_id": "6b29e010-9b1f-11eb-b3ef-53e7205a00b4",
+    "next_id": "a7a2a370-9b1e-11eb-b3ef-53e7205a00b4"
+  }
+}

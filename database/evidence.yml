@@ -3267,3 +3267,18 @@ evidence:
     related_media: [IMG-0758]
     repository_file: "evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md"
 
+  - id: E-215
+    name: "1922 P-5577 aerial preserves downtown and Fifth/Main spatial context without a month-specific fire/rebuild state"
+    type: "Primary historic aerial photograph / spatial-context evidence"
+    date: "1922"
+    claims:
+      - "CCHS P-5577 catalogs Aerial View #1 of Willamette Falls, West Linn and Oregon City, Date made 1922."
+      - "The downtown grid and Fifth/Main district are visually in frame."
+      - "Individual 501/503/505 numbers and business signs are not readable at the available scale."
+      - "No month is supplied, so the image cannot by itself be placed before or after the 18 July 1922 Fifth/Main fire or used to prove the Gates replacement was standing."
+      - "Companion photos P-4776, P-5578, P-5579 and P-5580 should be reviewed as a sequence."
+    confidence: "Very High for catalog identity/year and broad geography; unresolved for precise within-year chronology and target-building detail."
+    related_sources: [S-241]
+    related_media: [IMG-0761]
+    repository_file: "evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-aerial-2026-09-05.md"
+

@@ -1397,3 +1397,13 @@ sources:
     related_businesses: [BUS-099]
     related_media: [IMG-0758]
 
+  - id: S-241
+    name: "CCHS P-5577, Oregon City aerial view of Willamette Falls and Oregon City, 1922"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city"
+    type: "Primary historic aerial photograph with CCHS institutional catalog metadata"
+    date: "1922"
+    repository_file: "media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg"
+    notes: "Broad Willamette Falls/West Linn/Oregon City aerial; Fifth/Main lies in frame. No month, readable target numbers, or direct business occupancy. Companion photos P-4776/P-5578/P-5579/P-5580."
+    related_evidence: [E-215]
+    related_media: [IMG-0761]
+

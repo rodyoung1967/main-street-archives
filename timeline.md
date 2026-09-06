@@ -535,3 +535,7 @@ CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`) is cataloged **1936**. The projec
 CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`) looks southwest/south from Sixth toward Fifth and preserves a dense commercial-sign sequence. Clear text includes **Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners**, and other partial signs. This is a high-value block-mapping control, but most exact numbers remain unresolved and the distant 503/505 frontage is not secure enough for a new direct occupancy claim.
 
 Cross-check: the independently integrated **1936 P-1128** view (`S-236` / `E-210` / `IMG-0757`) remains the stronger photographic anchor for Farr's Pool Hall at 505.
+
+## 1922 — T-089: P-5577 aerial documents same-year downtown geometry
+
+CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) is a **1922** aerial of Willamette Falls, West Linn and Oregon City. The downtown grid and Fifth/Main district are in frame, providing same-year spatial context for the target block. The catalog gives **no month**, so this photograph is **not** used to decide whether the exposure predates or postdates the 18 July Fifth/Main fire or whether the Gates replacement was already complete. Exact 501/503/505 signs are unreadable at this scale. Companion exposures `P-4776`, `P-5578`, `P-5579`, and `P-5580` remain a high-value sequence to retrieve.

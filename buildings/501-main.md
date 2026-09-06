@@ -181,3 +181,7 @@ CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows no sep
 CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) is described by the institution as a **November 1922** view. A light-toned building appears at/near the Fifth/Main corner candidate zone. Cross-checking the photograph against the August 1922 Gates construction reports makes it a **strong candidate for the newly completed Gates fire-replacement**.
 
 This does **not** prove the replacement was this numbered address. In particular, the archive still cannot choose between a Gates footprint principally at later 501 and a two-bay 501+503 arrangement. The photograph is a new visual bridge, not an exact-address determination.
+
+### 1922 P-5577 aerial spatial context
+
+CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district within a broad **1922** aerial of Oregon City. The image is useful for block-scale geometry and companion-flight comparison, but exact target numbers are unreadable and the catalog supplies no month. Do **not** use it alone to classify this address as pre- or post-July-fire or to prove a specific Gates-rebuild footprint.

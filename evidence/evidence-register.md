@@ -1976,3 +1976,16 @@ Claims:
 - A Tourist Hotel 524½ Main statement was located only in a secondary biography and remains an unverified lead; later 502/506 American Cleaners directory-summary data does not establish the 1930s address.
 Classification: **OCR/TEXT ONLY** for the 1943 exact-address newspaper transcription; **DOCUMENTED / DIRECT** for the already-reviewed P-1043 Fain business-name sign; **PROBABLE / WORKING HYPOTHESIS** for Fain at 511 during the P-1043 exposure.  
 Confidence: **High** that the official indexed 1943 page text associates Fain's with 511; **Unresolved pending scan** for exact visual transcription; **Probable** for the 1930s photo-address mapping.
+
+## E-215 — 1922 P-5577 aerial preserves downtown and Fifth/Main spatial context without a month-specific fire/rebuild state
+Source: `S-241`  
+Media: `IMG-0761`  
+Type: Primary historic aerial photograph / spatial-context evidence  
+Claims:
+- CCHS `P-5577` catalogs an **Aerial View #1 of Willamette Falls, West Linn and Oregon City**, Date made **1922**.
+- Direct visual review confirms broad coverage of the Oregon City downtown grid and the Fifth/Main district.
+- Individual 501/503/505 numbers and business signs are not readable at the available scale, so the image is not used for direct occupancy assignments.
+- Because the catalog provides **no month**, the image cannot by itself be placed before or after the 18 July 1922 Fifth/Main fire or used to prove the Gates replacement was standing.
+- CCHS names companion photographs **P-4776, P-5578, P-5579 and P-5580**; reviewing that sequence may improve target-block geometry and dating.
+Classification: **DOCUMENTED / DIRECT** for object/date/year and broad scene; **DOCUMENTED SPATIAL CONTEXT** for the target district being in frame; **UNRESOLVED** for fire/rebuild state and exact target footprints.  
+Confidence: **Very High** for catalog identity/year and broad visual geography; unresolved for precise within-year chronology and target-building detail.

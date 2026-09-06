@@ -912,3 +912,13 @@ timeline:
     related_sources: [S-237]
     related_evidence: [E-211]
     related_buildings: [B-001, B-002, B-003]
+
+  - id: T-089
+    date: "1922"
+    title: "1922 — P-5577 aerial documents same-year downtown geometry"
+    summary: "CCHS P-5577 is a 1922 aerial of Willamette Falls, West Linn and Oregon City. Fifth/Main is within the downtown frame, but exact 501/503/505 signs are unreadable and no month is supplied, so pre/post-July-fire state remains unresolved."
+    confidence: "Very High for catalog year and broad geography; unresolved for within-year chronology and target-building detail."
+    related_sources: [S-241]
+    related_evidence: [E-215]
+    related_media: [IMG-0761]
+
