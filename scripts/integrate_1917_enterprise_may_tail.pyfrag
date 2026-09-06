@@ -1,0 +1,19 @@
+newrow = f'| 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `{CAPTURE}` | *Courier*: all 52 issue dates inventoried, **435 genuine pages visually verified**, true 13 Dec p21 unresolved. *Oregon City Enterprise*: **168 genuine intended-date pages through May**; 170 Jan-May archive slots inspected, with true 16 Mar p5 and true 13 Apr p8 retrieval gaps; **246 June-Dec exposed slots remain**. May adds direct 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and promotes separate Farr Brothers meat/grocery business (`{BUS}`); no target-frontage occupant. Title-calendar reconciliation, Sohns & Woodbeck Oregon City directory section, and other source-class closeout remain unresolved. |'
+pattern = r'^\| 1917 \| \*\*IN PROGRESS\*\* \|.*$'
+newyr, count = re.subn(pattern, newrow, yr, count=1, flags=re.M)
+if count != 1:
+    raise SystemExit('Could not update canonical 1917 year-status row')
+w('registers/year-status.md', newyr)
+
+ai = r('ARCHIVE_INDEX.md')
+ai_new, n = re.subn(
+    r'^- \*\*1917 — IN PROGRESS:\*\*.*$',
+    f'- **1917 — IN PROGRESS:** Courier 435 genuine pages with true 13 Dec p21 unresolved; Enterprise **168 genuine intended-date pages through May**, with true 16 Mar p5 and 13 Apr p8 gaps and **246 June–December exposed slots remaining**. May adds exact 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and strengthens separate Farr Brothers meat/grocery identity (`{BUS}`).',
+    ai,
+    count=1,
+    flags=re.M,
+)
+if n:
+    w('ARCHIVE_INDEX.md', ai_new)
+
+print(f'May closeout integration finished: {SID} {EID} {BID} {BUS} {TID}')
