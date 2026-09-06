@@ -1,0 +1,63 @@
+name: Integrate Grisham-Wiitanen research pass
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-grisham-wiitanen-pass.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: integrate-grisham-wiitanen-pass
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependency
+        run: python3 -m pip install PyYAML
+      - name: Lock to newest main at job start
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+          git rev-parse HEAD > /tmp/grisham_wiitanen_base_sha
+      - name: Apply research integration
+        run: python3 scripts/integrate_503_505_grisham_wiitanen_pass.py
+      - name: Validate synchronized archive
+        run: python3 scripts/validate_archive.py
+      - name: Publish without overwriting concurrent main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          rm -f scripts/integrate_503_505_grisham_wiitanen_pass.py
+          rm -f .github/workflows/integrate-grisham-wiitanen-pass.yml
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo 'No persistent Grisham/Wiitanen research changes required.'
+            exit 0
+          fi
+
+          git commit -m 'Integrate Grisham-Wiitanen 503-505 research pass'
+
+          base_sha="$(cat /tmp/grisham_wiitanen_base_sha)"
+          git fetch origin main
+          remote_sha="$(git rev-parse origin/main)"
+          if [ "$remote_sha" != "$base_sha" ]; then
+            echo "Remote main advanced from $base_sha to $remote_sha; refusing to overwrite concurrent work." >&2
+            exit 1
+          fi
+
+          git push origin HEAD:main
