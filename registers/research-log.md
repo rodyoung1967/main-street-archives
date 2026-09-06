@@ -770,3 +770,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
 - Post-review text checks produced target-number hits on 12 July p.8; scan/context review confirms they are draft-registration serial numbers attached to people, not street addresses.
 - Non-overlapping tracked 1917 progress is now **35 complete issues / 290 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining August 1917 Courier visual review
+<!-- 1917 August 09-30 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **26/26 actual page scans** for 9, 16, 23 and 30 August 1917. Preserved source retrieval commit: `ba69171fdb3466baa958eae3b7d530b60ed05577`.
+- With the already reviewed 2 August sample, August is now **5 complete issues / 32 visually verified pages**.
+- Repeated direct controls include **612 Main** and **619 Main**; 23 August p.2 adds **718 Main Street**.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 26 pages.
+- Post-review text checks produced 507/509 hits on 9 August p.1; scan/context review confirms they are draft-board identifiers attached to men, not street addresses.
+- Non-overlapping tracked 1917 progress is now **39 complete issues / 316 visually verified page images**. 1917 remains **IN PROGRESS**.
