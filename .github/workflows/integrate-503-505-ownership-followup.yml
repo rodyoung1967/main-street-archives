@@ -32,21 +32,36 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           git rev-parse HEAD > /tmp/ownership_followup_base_sha
-      - name: Correct 505 timeline integration anchor
+      - name: Correct integration helper guards and 505 anchor
         run: |
           python3 - <<'PY'
           from pathlib import Path
           p = Path('scripts/integrate_503_505_2002_2010_ownership_followup.py')
           t = p.read_text(encoding='utf-8')
+
+          # Fix over-escaped regex guards in the staged helper. The original
+          # P-person expression can match the empty string because its pipes
+          # become regex alternation; use literal Markdown pipes instead.
+          t = t.replace('rf"^## {S252}\\\\b"', 'rf"^## {S252}\\b"')
+          t = t.replace('rf"^## {S253}\\\\b"', 'rf"^## {S253}\\b"')
+          t = t.replace('rf"^## {S254}\\\\b"', 'rf"^## {S254}\\b"')
+          t = t.replace('rf"^## {E226}\\\\b"', 'rf"^## {E226}\\b"')
+          t = t.replace('rf"^## {E227}\\\\b"', 'rf"^## {E227}\\b"')
+          t = t.replace('rf"^## {E228}\\\\b"', 'rf"^## {E228}\\b"')
+          t = t.replace('rf"^\\\\| {P107} \\\\|"', 'rf"^\\| {P107} \\|"')
+
           old = '''replace_once("timelines/505-main.md",
               "| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |",
               "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |")'''
           new = '''replace_once("timelines/505-main.md",
               "| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |",
               "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Scott Forvilly purchases/reopens as **Thirsty Duck**; permit lists Richard Wiitanen as co-trustee/real-estate owner. | Business and property roles separate. | `BUS-005`, `BUS-006`; `P-007`, `P-012`, `P-013`; `E-008`, `E-035`; `S-004`, `S-043` |")'''
-          if old not in t:
-              raise SystemExit('Expected shorthand 505 timeline anchor not found in integration helper')
-          p.write_text(t.replace(old, new, 1), encoding='utf-8')
+          if old not in t and new not in t:
+              raise SystemExit('Expected 505 timeline helper anchor not found')
+          if old in t:
+              t = t.replace(old, new, 1)
+
+          p.write_text(t, encoding='utf-8')
           PY
       - name: Apply ownership follow-up integration
         run: python3 scripts/integrate_503_505_2002_2010_ownership_followup.py
