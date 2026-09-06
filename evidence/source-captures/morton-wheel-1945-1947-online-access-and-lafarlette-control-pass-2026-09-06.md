@@ -179,3 +179,12 @@ No request was sent automatically.
 Rodney Young now states that he **believes Raye and Floyd lived in Powers, Oregon**. This is **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not documentary residence proof. It gives the post-Morton side of the chronology a more specific locality and makes the existing 1947–48 Powers evidence more significant as a residence-search target.
 
 Do not use the Powers lead to erase Morton. The correct test is now whether contemporary records support one of several sequences: **Chicago → Morton → Powers/Coos County**, **Chicago → Powers/Coos County with no Morton residence**, or another short/transitional arrangement. The 1945–47 Morton Journal/directory/license work under **MF-052** remains necessary because Powers evidence after August 1947 cannot determine whether a prior Morton interval occurred.
+
+## Floyd trucking-route family lead — Morton or nearby stop
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+Rodney Young now additionally recalls/believes that **Floyd LaFarlette's trucking route stopped at Morton, Washington, or close to Morton**. This is retained as **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**, not route proof.
+
+This materially sharpens the existing Washington transportation-record search. The State Archives query should not be limited to Carl A. Anderson: it should also ask for **Floyd LaFarlette / La Farlette** as an operator, employee, partner, assignee, applicant, transferee, or named person in passenger-carrier, truck/freight, motor-carrier, route-certificate, permit, docket and Commission-order records. Geographic priorities should include **Morton, Mineral, Mossyrock, Packwood, Randle, eastern Lewis County, Centralia and Chehalis**.
+
+The existing documented **Coos Bay–Powers** route remains a separate Oregon route unless contemporary evidence explicitly bridges it to a Washington carrier or stop. The family recollection can guide discovery but cannot be used to extend that proven route northward.

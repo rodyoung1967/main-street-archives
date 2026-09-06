@@ -233,3 +233,12 @@ The remaining source problem is now formally registered as **MF-052** in `MANUAL
 The continuing online pass identified one additional bounded person-network route. Floyd LaFarlette's later Coos freight partner **Carl Anderson** said in July 1949 that he had operated buses in Washington for 21 years. Washington's current UTC records schedule identifies permanent State Archives holdings categories for passenger-carrier permit records and formal transportation files, making Anderson's prior route/company potentially recoverable through the State Government Archives even though web searching did not localize him to Morton.
 
 This remains **PERSON-NETWORK LEAD ONLY**. Anderson is not a Morton resident, Morton Wheel proprietor, or ownership bridge on current evidence. **MF-052** and the combined request file now contain the State Archives query. The same access pass found official guidance that most Washington State Library newspaper microfilm can be sent by interlibrary loan; Request A should first confirm exact *Morton Journal* 1945–7 August 1947 reel coverage and ILL eligibility. No request has been sent.
+
+## Floyd route may have stopped near Morton — family lead
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+Rodney Young additionally believes **Floyd LaFarlette's trucking route stopped at Morton, Washington, or nearby**. Preserve this as **FAMILY / ORAL-HISTORY LEAD**.
+
+This creates a potentially important alternative explanation for the Morton recollection: the family's Morton connection may have involved Floyd's transportation work, whether or not a long-term residence is ultimately proved. Search transportation records for Floyd directly as well as Carl A. Anderson, and search eastern Lewis County localities around Morton rather than requiring the exact city name.
+
+Do not conflate this with the documented **Coos Bay–Powers** mail/freight route. No contemporary source currently proves that the Oregon route extended to Washington or that the Washington and Oregon carrier operations were the same enterprise.

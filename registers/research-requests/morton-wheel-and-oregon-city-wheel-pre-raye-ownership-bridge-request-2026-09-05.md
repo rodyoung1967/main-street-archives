@@ -224,3 +224,22 @@ Thank you.
 ### Morton Journal ILL note for Request A
 
 When sending **Request A**, also ask Washington State Library to confirm whether its exact *Morton Journal* holdings include the **1945–7 August 1947** target interval and whether those specific microfilm reels can be loaned through **interlibrary loan to a local public library**. State Library guidance says most Washington newspaper microfilm is eligible for ILL, but the exact title/reels must be confirmed before relying on that route.
+
+## Supplemental search instruction — Floyd / Morton-area trucking-route lead
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+Rodney Young now additionally states from family memory that he **believes Floyd LaFarlette's trucking route stopped at Morton, Washington, or close to Morton**.
+
+Classification: **FAMILY / ORAL-HISTORY LEAD — NOT DOCUMENTED ROUTE FACT**.
+
+Please incorporate this into the Washington transportation-record lookup. In addition to **Carl Anderson / Carl A. Anderson**, search **Floyd LaFarlette / Floyd La Farlette / LaFarlette / La Farlette** for approximately **1944–1949**, extending earlier if carrier indexes suggest it, as any of the following:
+
+- carrier/operator or permit holder;
+- driver/employee;
+- partner or co-owner;
+- applicant, assignee, transferee or correspondent;
+- person named in a route certificate, timetable, docket, order or carrier file.
+
+Geographic priorities should include **Morton**, nearby **Mineral, Mossyrock, Packwood and Randle**, broader **eastern Lewis County**, then **Centralia/Chehalis**. Please do not treat those places as asserted residences; they are search targets based on family recollection.
+
+The known **Anderson-LaFarlette Coos Bay–Powers** route in Oregon is independently documented and should be treated as a separate route unless a Washington record explicitly connects the operations.

@@ -238,3 +238,20 @@ The two 1948 items remain **OCR/TEXT ONLY** pending scan certification, and `Ray
 ### Chronology consequence
 
 The Powers lead does **not** resolve the Morton conflict. A substantially correct family sequence could still be **Chicago → brief Morton interval → Powers/Coos County**, while Raye's 1954 profile compressed the westward move as Chicago → Coquille. Alternatively, the Morton recollection could be displaced and the family's early Coos County home may have been Powers. Both remain hypotheses until contemporary residence evidence is recovered.
+
+## Project-steward route clarification — Floyd route may have stopped at/near Morton
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+On **6 September 2026**, Rodney Young added another family-history recollection: he **believes Floyd LaFarlette's trucking route stopped at Morton, Washington, or close to Morton**.
+
+Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**. Rodney expressed this as a belief, not as a documented route schedule or a certain dated recollection.
+
+This must remain separate from the route already documented in contemporary Coos County evidence. The archive directly establishes **Anderson and LaFarlette** in the **Coos Bay–Powers mail/freight business by 7 August 1947**, with later evidence identifying Floyd as the LaFarlette partner. No contemporary record yet establishes that this same business, an earlier Floyd operation, or Carl Anderson's earlier Washington bus operation served Morton.
+
+The new recollection creates three specific tests:
+
+1. Did **Floyd LaFarlette himself** operate, drive, own, partner in, or work for a Washington truck/bus/freight line serving Morton or eastern Lewis County before the Coos County operation?
+2. Did **Carl A. Anderson's Washington passenger-carrier route** stop at Morton, Mineral, Mossyrock, Packwood, Randle, Centralia/Chehalis, or another nearby eastern Lewis County point, and if so was Floyd connected to that operation?
+3. Could the remembered family presence in Morton have been tied to a **transportation stop/route assignment** rather than a long-term residence?
+
+Do not infer that the proven Coos Bay–Powers route physically continued to Washington. A contemporary permit, timetable, carrier application, directory listing, newspaper notice, employment record, or route certificate is required before connecting the Oregon and Washington route histories.

@@ -319,3 +319,12 @@ Two additional retrieval routes were established without changing the evidentiar
 2. Washington's current UTC retention schedule identifies permanent State Archives series for **passenger-carrier permit records**, **Commission order books**, **docket books**, and **formal transportation T-files**. Because Floyd LaFarlette's 1949 freight partner Carl Anderson said he had operated buses in Washington for 21 years, add a **bounded Carl Anderson / Carl A. Anderson 1928–1949 carrier-name/route query** to Washington State Archives. This is a person-network lead only; no Morton connection has been found.
 
 The fourth ready route is now preserved as **Request D** in `registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md`. No request has been sent.
+
+### MF-052 family-route refinement — Floyd trucking stop near Morton
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+Rodney Young additionally believes **Floyd LaFarlette's trucking route stopped at Morton, Washington, or nearby**. This remains **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**.
+
+Under **MF-052**, expand the Washington carrier-record query to search **Floyd LaFarlette / La Farlette directly**, not only Carl A. Anderson, and include Morton plus nearby eastern Lewis County communities such as Mineral, Mossyrock, Packwood and Randle. This may test whether the Morton family recollection arose from Floyd's transportation work even if a fixed Morton residence cannot be documented.
+
+Keep the documented **Coos Bay–Powers** route separate: no evidence currently shows that the Oregon route extended into Washington.

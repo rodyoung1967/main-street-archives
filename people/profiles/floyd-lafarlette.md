@@ -59,3 +59,10 @@ Rodney Young additionally recalls that Raye and Floyd owned a **Town Club** in t
 <!-- LaFarlette Powers residence family lead — 2026-09-06 -->
 
 Rodney Young stated on **6 September 2026** that he **believes Floyd and Raye LaFarlette lived in Powers, Oregon**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY LEAD**. Floyd's documented 1947 Anderson-and-LaFarlette business served the Coos Bay–Powers route, but that commercial geography does not by itself prove his residence. Search contemporary residence sources before promoting Powers to a documented home location.
+
+## Family lead — possible Morton-area trucking stop
+<!-- Floyd Morton route family lead — 2026-09-06 -->
+
+Rodney Young states that he **believes Floyd's trucking route stopped at Morton, Washington, or close to Morton**. This is **PROJECT-STEWARD / FAMILY ORAL-HISTORY EVIDENCE** and should be used as a discovery lead only.
+
+The archive already documents Floyd in the later **Anderson-LaFarlette Coos Bay–Powers** freight/mail operation. That Oregon route must not be projected into Washington. The open question is whether Floyd had an earlier or separate Washington transportation role, or whether a partner/employer's route through Morton explains the family's Morton recollection. Search Floyd/LaFarlette directly in Washington carrier permits, dockets, order books, route certificates, directories and the *Morton Journal*.
