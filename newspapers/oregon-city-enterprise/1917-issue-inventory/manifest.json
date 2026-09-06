@@ -1,0 +1,376 @@
+{
+  "title": "Oregon City Enterprise",
+  "lccn": "sn00063700",
+  "year": 1917,
+  "method": "Probe every Friday issue URL and sequential page PDF URL; inventory only, not visual review.",
+  "expected_fridays": 52,
+  "issues_found": 52,
+  "missing_friday_issue_urls": [],
+  "total_exposed_pages": 416,
+  "issues": [
+    {
+      "date": "1917-01-05",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-05/ed-1/"
+    },
+    {
+      "date": "1917-01-12",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-12/ed-1/"
+    },
+    {
+      "date": "1917-01-19",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-19/ed-1/"
+    },
+    {
+      "date": "1917-01-26",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-26/ed-1/"
+    },
+    {
+      "date": "1917-02-02",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-02/ed-1/"
+    },
+    {
+      "date": "1917-02-09",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-09/ed-1/"
+    },
+    {
+      "date": "1917-02-16",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 10,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-16/ed-1/"
+    },
+    {
+      "date": "1917-02-23",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-23/ed-1/"
+    },
+    {
+      "date": "1917-03-02",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-02/ed-1/"
+    },
+    {
+      "date": "1917-03-09",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-09/ed-1/"
+    },
+    {
+      "date": "1917-03-16",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/"
+    },
+    {
+      "date": "1917-03-23",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-23/ed-1/"
+    },
+    {
+      "date": "1917-03-30",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-30/ed-1/"
+    },
+    {
+      "date": "1917-04-06",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-06/ed-1/"
+    },
+    {
+      "date": "1917-04-13",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/"
+    },
+    {
+      "date": "1917-04-20",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-20/ed-1/"
+    },
+    {
+      "date": "1917-04-27",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-27/ed-1/"
+    },
+    {
+      "date": "1917-05-04",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-04/ed-1/"
+    },
+    {
+      "date": "1917-05-11",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-11/ed-1/"
+    },
+    {
+      "date": "1917-05-18",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-18/ed-1/"
+    },
+    {
+      "date": "1917-05-25",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-25/ed-1/"
+    },
+    {
+      "date": "1917-06-01",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-01/ed-1/"
+    },
+    {
+      "date": "1917-06-08",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-08/ed-1/"
+    },
+    {
+      "date": "1917-06-15",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-15/ed-1/"
+    },
+    {
+      "date": "1917-06-22",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-22/ed-1/"
+    },
+    {
+      "date": "1917-06-29",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/"
+    },
+    {
+      "date": "1917-07-06",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-06/ed-1/"
+    },
+    {
+      "date": "1917-07-13",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-13/ed-1/"
+    },
+    {
+      "date": "1917-07-20",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-20/ed-1/"
+    },
+    {
+      "date": "1917-07-27",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed-1/"
+    },
+    {
+      "date": "1917-08-03",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-03/ed-1/"
+    },
+    {
+      "date": "1917-08-10",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-10/ed-1/"
+    },
+    {
+      "date": "1917-08-17",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-17/ed-1/"
+    },
+    {
+      "date": "1917-08-24",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-24/ed-1/"
+    },
+    {
+      "date": "1917-08-31",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed-1/"
+    },
+    {
+      "date": "1917-09-07",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-07/ed-1/"
+    },
+    {
+      "date": "1917-09-14",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed-1/"
+    },
+    {
+      "date": "1917-09-21",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-21/ed-1/"
+    },
+    {
+      "date": "1917-09-28",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-28/ed-1/"
+    },
+    {
+      "date": "1917-10-05",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-10-05/ed-1/"
+    },
+    {
+      "date": "1917-10-12",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-10-12/ed-1/"
+    },
+    {
+      "date": "1917-10-19",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 6,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-10-19/ed-1/"
+    },
+    {
+      "date": "1917-10-26",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-10-26/ed-1/"
+    },
+    {
+      "date": "1917-11-02",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-02/ed-1/"
+    },
+    {
+      "date": "1917-11-09",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-09/ed-1/"
+    },
+    {
+      "date": "1917-11-16",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-16/ed-1/"
+    },
+    {
+      "date": "1917-11-23",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-23/ed-1/"
+    },
+    {
+      "date": "1917-11-30",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-30/ed-1/"
+    },
+    {
+      "date": "1917-12-07",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-12-07/ed-1/"
+    },
+    {
+      "date": "1917-12-14",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-12-14/ed-1/"
+    },
+    {
+      "date": "1917-12-21",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-12-21/ed-1/"
+    },
+    {
+      "date": "1917-12-28",
+      "weekday": "Friday",
+      "exists": true,
+      "pages": 8,
+      "issue_url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-12-28/ed-1/"
+    }
+  ]
+}
