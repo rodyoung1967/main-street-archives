@@ -31,6 +31,22 @@ Therefore the correct present-tense conclusion is:
 
 Do not record the directory as acquired, reserved, or currently on the shelf until GFO confirms it.
 
+## Federal registration cross-reference
+
+A separate 5 September 2026 federal-catalog pass recovered an independent Copyright Office registration control for this title:
+
+- **Clackamas County [Or.] Directory, 1947-1948**;
+- credited claimant: **Pacific Directory Service, Portland, Oregon**;
+- copyright registration: **AA80061**.
+
+The federal catalog entry is currently preserved as **OCR/TEXT ONLY** because the exact scanned catalog page and underlying registration card have not yet been visually certified. The garbled OCR date token must not be expanded into a specific registration date without the image/card.
+
+Detailed capture:
+
+`evidence/source-captures/1948-clackamas-directory-copyright-registration-aa80061-2026-09-05.md`
+
+Research consequence: future GFO/library/archive requests should carry **both identifiers — GFO TF0767 and federal registration AA80061** — because together they distinguish the physical sales item from similar later Clackamas/Oregon City directories.
+
 ## Current GFO ordering instructions
 
 GFO's current **Shop with Us** page states that lobby-sale books are handled separately from its surplus sales and instructs remote buyers to contact **Lobby Sales** with the item ID, full description, name, and address. GFO will then confirm availability and the total cost, including Media Mail shipping.
@@ -46,14 +62,14 @@ The current shop page also states that listed prices do not include shipping and
 Before paying for a research lookup, use the direct purchase-confirmation route first:
 
 1. Contact `lobby_sales@gfo.org`.
-2. Identify **TF0767 — Clackamas Co. Directory 1947-48**.
+2. Identify **TF0767 — Clackamas Co. Directory 1947-48** and, as a cross-reference, federal copyright registration **AA80061**.
 3. Ask whether the single listed copy is still available and request total cost with shipping or pickup.
 4. If available, purchase/hold the actual volume according to GFO's instructions.
 5. If unavailable, immediately fall back to the already-prepared GFO research/scan request and ask whether another library copy or retained catalog copy is available for lookup.
 
 Suggested concise availability message:
 
-> Hello — I am interested in lobby-sale item **TF0767, “Clackamas Co. Directory 1947-48,”** which appears in GFO sales lists at $60. Would you please confirm whether the copy is still available and provide the total cost for pickup or Media Mail shipping? I am specifically researching the Oregon City section. Thank you.
+> Hello — I am interested in lobby-sale item **TF0767, “Clackamas Co. Directory 1947-48,”** which appears in GFO sales lists at $60. A federal Copyright Office catalog cross-reference for the title is **AA80061**. Would you please confirm whether the copy is still available and provide the total cost for pickup or Media Mail shipping? I am specifically researching the Oregon City section. Thank you.
 
 No email was sent in this research pass.
 
@@ -73,7 +89,7 @@ That is especially important because separate contemporary evidence shows Pacifi
 
 ## Evidence boundary
 
-The GFO sales row is **acquisition/access evidence only**. It supplies no Farr, Harr, 505 Main, or transition fact from inside the directory.
+The GFO sales row and federal registration cross-reference are **acquisition/access/provenance evidence only**. They supply no Farr, Harr, 505 Main, or transition fact from inside the directory.
 
 Until the volume itself is obtained and visually inspected, the Farr → Harr chronology remains unchanged:
 
