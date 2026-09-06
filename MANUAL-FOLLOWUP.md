@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **5 September 2026** — at project-steward direction, **MF-034** was promoted from `CONDITIONAL / DEFER` to **ACTIVE MANUAL** and linked to a ready-to-send Clackamas County vesting-deed request. No existing MF ID was renumbered or removed.
+Last amended: **5 September 2026** — **MF-034** was expanded to include the parcel-first Assessment & Taxation ownership-book/tax-lot-card route, and **MF-047** was added for the unretrieved 1983-era 505 Main historic-inventory form's owner field. No existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -50,12 +50,13 @@ These are the **current high-value human actions**. They are ordered for the act
 | 8 | **MF-007** | Retrieve complete **OHS MSS 1503, Series B, Box 19 title abstract** | Could independently resolve Harding/Wolf/Gates ownership chain and later parcel division | **ACTIVE MANUAL — DRAFT READY**. `registers/research-requests/1922-deed-and-ohs-request-drafts-2026-08-28.md` |
 | 9 | **MF-005** | Retrieve **505 Main 1939–1941 building-permit index/files** | Direct test of what the later “1940” construction date actually represents | **ACTIVE MANUAL — DRAFT READY**. `evidence/source-captures/505-main-1939-1941-building-permit-records-request-draft-2026-08-27.md` |
 | 10 | **MF-043** | Obtain **505 assessor improvement cards/building sketches/reassessment history, 1938–1942** | Independent structural/value test of a 1940 remodel/rebuild/rear-expansion event | **ACTIVE MANUAL**. `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md` |
-| 11 | **MF-034** | Retrieve the **vesting deed by which Richard/Dick and/or Sheila Wiitanen acquired 505 Main**, plus the immediately preceding vesting deed | Preferred primary source to prove or disprove the family-history statement that the seller was Mrs. Nesmeth/Nemeth, establish her correct recorded name/spelling and transfer date, and identify the immediately prior owner | **ACTIVE MANUAL — DRAFT READY**. `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md` |
-| 12 | **MF-013** | Retrieve **1922 poolroom applications/minutes** | Direct premises wording could resolve the July-fire-adjacent pool hall and 505/505½ licensing chain | **ACTIVE MANUAL**. `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` (`1922-F05`) |
-| 13 | **MF-041** | Retrieve the actual **2 June 1920 Council minutes** and related G. K. Baker pool-room license material | Existing newspaper evidence identifies the action but not the particular premises; direct municipal record may bridge the 1920 pool-hall sequence | **ACTIVE MANUAL**. `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md` (`1920-MIN01`) |
-| 14 | **MF-019** | Inspect **1920–1925 assessment rolls / ownership books / parcel controls** for target Block 4 | Required property/improvement control across the pre-fire, fire, and 1925-map interval | **ACTIVE MANUAL**; broadened from earlier 1922–25 wording to include formal `1920-TAX01` callout |
-| 15 | **MF-031** | Review **1923–1926 local newspaper microfilm** unavailable in the principal online local-newspaper run | Post-1922 digitized local coverage is not continuous; one of the best paths to 1925/26 Farr/Kwality/occupancy evidence | **ACTIVE MANUAL**, but can be batched with other Oregon City Library microfilm work |
-| 16 | **MF-014** | Retrieve the original **1906 numbering plat / Ordinance 357 implementation records** | Foundational address-mapping source for pre-/post-1906 Main/Fifth numbering | **ACTIVE MANUAL**, lower immediate yield than the sources above |
+| 11 | **MF-034** | Retrieve the **1973–1988 chronological parcel-owner/deed-reference record** for 505 and the **vesting deed by which Richard/Dick and/or Sheila Wiitanen acquired it**, plus the immediately preceding vesting deed | Parcel-first ownership books/tax-lot cards can reveal the exact pre-Wiitanen owner without guessing the surname; the deed then supplies legal proof, date, grantor spelling and legal description | **ACTIVE MANUAL — TWO DRAFTS READY**. Assessment & Taxation + Recording drafts: `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md` |
+| 12 | **MF-047** | Retrieve the **original 1983-era 505 Main historic-resource inventory form and research file**, especially its **OWNER** field | Gives an independent dated ownership snapshot close to the unresolved Wiitanen acquisition interval; can bracket the deed search without conflating tavern operation with real-estate ownership | **ACTIVE MANUAL — DRAFT READY**. `registers/research-requests/505-1983-historic-inventory-owner-field-request-2026-09-05.md` |
+| 13 | **MF-013** | Retrieve **1922 poolroom applications/minutes** | Direct premises wording could resolve the July-fire-adjacent pool hall and 505/505½ licensing chain | **ACTIVE MANUAL**. `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` (`1922-F05`) |
+| 14 | **MF-041** | Retrieve the actual **2 June 1920 Council minutes** and related G. K. Baker pool-room license material | Existing newspaper evidence identifies the action but not the particular premises; direct municipal record may bridge the 1920 pool-hall sequence | **ACTIVE MANUAL**. `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md` (`1920-MIN01`) |
+| 15 | **MF-019** | Inspect **1920–1925 assessment rolls / ownership books / parcel controls** for target Block 4 | Required property/improvement control across the pre-fire, fire, and 1925-map interval | **ACTIVE MANUAL**; broadened from earlier 1922–25 wording to include formal `1920-TAX01` callout |
+| 16 | **MF-031** | Review **1923–1926 local newspaper microfilm** unavailable in the principal online local-newspaper run | Post-1922 digitized local coverage is not continuous; one of the best paths to 1925/26 Farr/Kwality/occupancy evidence | **ACTIVE MANUAL**, but can be batched with other Oregon City Library microfilm work |
+| 17 | **MF-014** | Retrieve the original **1906 numbering plat / Ordinance 357 implementation records** | Foundational address-mapping source for pre-/post-1906 Main/Fifth numbering | **ACTIVE MANUAL**, lower immediate yield than the sources above |
 
 ### Recommended batching
 
@@ -64,7 +65,8 @@ Do not send unnecessary duplicate emails.
 - **Oregon City Recorder batch:** MF-002, MF-005, MF-013 and later MF-017/MF-018 can be coordinated, but keep record-series requests clearly separated within the message or send in small logically grouped requests if staff prefer.
 - **Oregon City Public Library/microfilm batch:** MF-038, MF-041 and MF-031 can share a visit or staff-reference exchange.
 - **OHS/Clackamas early-property batch:** MF-006, MF-007 and MF-019 answer related but distinct legal/property questions; do not treat one as a substitute for the others.
-- **Clackamas Recording ownership-chain request:** MF-034 is a later, address-specific vesting-deed request and should remain distinct from the 1922 MF-006 request so the two historical transactions are not conflated.
+- **Clackamas later ownership chain:** MF-034 has two complementary County requests: Assessment & Taxation for the parcel-first chronological owner/deed-reference record, then Recording for the legal conveyance. Keep both under one MF item because they answer the same transaction question from different County record series.
+- **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034's deed proof.
 
 ---
 
@@ -107,16 +109,16 @@ No MF number is reused or renumbered. Items that are no longer immediate actions
 | MF-031 | **ACTIVE MANUAL** | **Yes** | Keep; post-1922 local newspaper gap is directly relevant to 1925/26 occupancy. |
 | MF-032 | **HOUSEKEEPING** | **No as research callout** | Physical mirroring of already verified source binaries is repository-preservation work (`RL-021`), not historical manual research. |
 | MF-033 | **CONDITIONAL / DEFERRED UMBRELLA** | **Yes as later research program, not as one manual request** | Break later-era work into specific sources only when that interval becomes active. Prior Oregonian mirroring subtask is obsolete because `RL-015` was completed 18 Aug. 2026. |
-| MF-034 | **ACTIVE MANUAL** | **Yes** | **Promoted 5 Sep. 2026 by project steward.** Retrieve the deed/vesting instrument by which Dick/Richard and/or Sheila Wiitanen acquired 505 Main and the immediately preceding vesting deed. This is the preferred primary route to prove/disprove Mrs. Nesmeth/Nemeth as seller and establish the exact grantor spelling/date/prior owner. Draft: `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md`. |
+| MF-034 | **ACTIVE MANUAL** | **Yes** | **Expanded 5 Sep. 2026.** Retrieve the 1973–1988 parcel-first chronological owner/deed-reference record from Assessment & Taxation and the deed/vesting instrument by which Dick/Richard and/or Sheila Wiitanen acquired 505 Main plus the immediately preceding deed. This avoids dependence on the uncertain Nesmeth/Nemeth spelling while preserving the deed as legal proof. Draft: `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md`. |
 | MF-035 | **OPTIONAL / DESIRABLE** | **Desirable, not currently required** | `AGENTS.md` describes 2024 estate/probate/deed documentation as desirable; current family/lease chronology is sufficient for ongoing work. |
 | MF-036 | **CONDITIONAL / DEFER** | **Yes** | Primary 1967 fire/1968 Harding replacement records are valid 507-context research, but lower priority than 503/505 core questions. |
 | MF-037 | **OPTIONAL / DESIRABLE** | **Useful, not current manual blocker** | Additional Mitch Young oral history can generate leads, but documentary evidence remains priority for unresolved ownership/license dates. |
 
 ---
 
-# 3. Manual tasks restored by the 5 September audit
+# 3. Manual tasks restored or added on 5 September
 
-These IDs were added because formal callouts existed in source captures but had not been copied into the central dashboard.
+MF-038 through MF-046 were restored by the audit because formal callouts existed in source captures but had not been copied into the central dashboard. **MF-047** was added after the later ownership search exhausted ordinary public-online retrieval of the 1983-era 505 form.
 
 | ID | Priority / class | Manual task | Why it belongs here | Source |
 | --- | --- | --- | --- | --- |
@@ -129,6 +131,7 @@ These IDs were added because formal callouts existed in source captures but had 
 | **MF-044** | **OPTIONAL / CONDITIONAL PHYSICAL** | On-site **503 vs 505 rear-building fabric survey** | Useful only if documentary sources leave rear-addition question unresolved | same 505 footprint capture |
 | **MF-045** | **CONDITIONAL / DEFER** | State **OLCC 1945–1947 Commission/license records** for complete Farr/Harr comparison | Useful independent cross-check after MF-002 local applicant lists | `evidence/source-captures/1944-1945-olcc-renewal-cycle-gouge-route-2026-09-04.md` and Farr checkpoint |
 | **MF-046** | **YEAR-CLOSEOUT** | Obtain readable **1925 Oregon City Commission minute scans** corresponding to existing metadata inventory and reconcile coverage | Metadata inventory is not visual minute review; required eventually for certified 1925 closeout if public export remains inaccessible | `evidence/source-captures/1924-1927-municipal-minutes-access-review-2026-09-01.md` |
+| **MF-047** | **P1 — ACTIVE MANUAL** | Recover the **original 1983-era 505 Main historic-resource inventory form and associated research file**, especially the `OWNER` field | A contemporaneous original Oregon City inventory-form template contains an explicit owner field; the unretrieved 505 form could independently identify the owner at the survey date and bracket the Wiitanen purchase | `evidence/source-captures/1973-1988-505-pre-wiitanen-owner-online-pass-2026-09-05.md`; draft: `registers/research-requests/505-1983-historic-inventory-owner-field-request-2026-09-05.md` |
 
 ### Not added as standalone manual items
 
@@ -200,7 +203,7 @@ These are real tasks but **not things Rodney should interrupt the current resear
 - **MF-042** — broad 1919–21 permit/improvement files after property geometry is narrowed.
 - **MF-045** — state OLCC 1945–47 after local Commission lists are recovered.
 
-**MF-034 is no longer deferred.** It was promoted to the active queue on 5 September 2026 by project-steward direction because the recorded vesting deed is the preferred primary source for the Nesmeth/Nemeth → Wiitanen 505 ownership claim.
+**MF-034 is no longer deferred.** It now includes the parcel-first Assessment & Taxation owner-sequence route as well as the recorded vesting-deed route. **MF-047 is also active** as an independent 1983 ownership snapshot, but neither replaces the deed as legal conveyance proof.
 
 ## Optional/desirable
 
@@ -230,7 +233,8 @@ All correspondence is **UNSENT** as of 5 September 2026, per the project steward
 | MF-007 | NOT SENT | — | — | — | — | No |
 | MF-005 | NOT SENT | — | — | — | — | No |
 | MF-043 | NOT SENT | — | — | — | — | No |
-| **MF-034** | **NOT SENT — DRAFT READY** | — | — | — | — | No |
+| **MF-034** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |
+| **MF-047** | **NOT SENT — DRAFT READY** | — | — | — | — | No |
 | MF-013 | NOT SENT | — | — | — | — | No |
 | MF-041 | NOT SENT | — | — | — | — | No |
 | MF-019 | NOT SENT | — | — | — | — | No |
@@ -247,6 +251,6 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **16-item active queue in section 1**. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The audit also restored formal manual callouts that had been missed by the first dashboard.
+The current practical list is the **17-item active queue in section 1**. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The new later-ownership work is concentrated in **MF-034** (parcel ownership sequence + deed proof) and **MF-047** (1983 survey owner snapshot).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
