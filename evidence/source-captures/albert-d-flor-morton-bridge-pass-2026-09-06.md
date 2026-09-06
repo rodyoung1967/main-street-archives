@@ -129,3 +129,27 @@ The highest-value Oregon-side source is now the **_Oregon City & Vicinity Direct
 - any **Kwality Cafe / Al & Marge Kwality Cafe** entry, including proprietor/manager names, phone and address.
 
 An address-bearing 1953 directory entry or a 1951–53 OLCC/city license record naming both the Flor/Remus pair and Kwality/503 would convert the current continuity hypothesis into a direct bridge.
+
+## Earlier Oregon City control — November 1949
+<!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
+
+A further backward search found **Albert D. Flor** in the official Oregon City Commission record for the **9 November 1949 adjourned regular meeting**, when the City Recorder's claims report for **October 1949** was approved. Searchable text in the claims list names `Albert D. Flor` among City payees/vendors; the same record also contains an `Albert Flor` entry in a jury-fee group.
+
+Official source:
+https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723898/File/document
+
+The official PDF endpoint repeatedly timed out when opened for page-image inspection, so this is **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP**, not scan-certified. The searchable text does not identify a restaurant, Kwality Cafe, 503 Main, Margaret Remus, or the basis for the `Albert D. Flor` supply payment. Do not infer a business identity from the payee line alone, and do not assume the jury-fee `Albert Flor` is the same person solely from the similar name.
+
+### Chronology consequence
+
+This moves the exact-name **Albert D. Flor** Oregon City control back from the December 1951 liquor application to **November 1949**. If this is the same Albert D. Flor later associated with the 1951 Flor/Remus application and 1957 restaurant/cocktail-bar management at 503, any hypothesized earlier Morton residence/business role would have to accommodate his documented Oregon City activity by late 1949. This does not rule out a prior Morton connection.
+
+Current evidence sequence is therefore:
+
+- **9 Nov. 1949:** `Albert D. Flor` in Oregon City Commission October claims list — exact-name city presence/payee control; business/premises unknown.
+- **5 Dec. 1951:** Albert D. Flor + Margaret Remus jointly approved liquor applicants — premises/trade name unknown.
+- **Sept. 1953:** `Al & Marge Kwality Cafe` in City finance/vendor list — surnames/address absent.
+- **1953:** Fred Remus identified by City historic survey as a cook at Kwality Cafe.
+- **1957:** City historic-resource synthesis places Mr./Mrs. Albert D. Flor managing the restaurant/cocktail bar at 503 Main.
+
+The Flor→Remus→Al & Marge→503 continuity remains a **strong cross-source hypothesis**, not a proved ownership chain.

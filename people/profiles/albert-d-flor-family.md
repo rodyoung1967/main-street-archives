@@ -25,3 +25,10 @@ Official Oregon City Commission text for the **September 1953** finance report n
 A separate City historic-resource record says **Fred Remus was a cook at the Kwality Cafe in 1953**, providing an independent Remus-surname connection to the business but not establishing Fred's relationship to Margaret.
 
 Classification: **STRONG CROSS-SOURCE CONTINUITY HYPOTHESIS; NOT DIRECT IDENTITY PROOF**. It is plausible that `Al` = Albert D. Flor and `Marge` = Margaret Remus, but the 1953 finance line supplies no surnames/address and the 1951 liquor line supplies no business/address. Do not promote Margaret Remus to Mrs. Flor, co-owner, or 503 tenant without a direct record. The 1953 Salisbury directory is now the decisive primary-source target.
+
+## November 1949 Oregon City control
+<!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
+
+Official Oregon City Commission searchable text for the **9 November 1949** meeting's October claims report includes the exact name **Albert D. Flor** among City payees/vendors. The underlying PDF timed out during visual retrieval, and the text does not identify his business, address, or reason beyond the claims-list context. Classification: **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP**.
+
+This is now the earliest exact-name Oregon City control recovered for the later 503 operator, subject to identity confirmation across the 1949/1951/1957 records. It does not itself connect Flor to Kwality Cafe or 503 Main.

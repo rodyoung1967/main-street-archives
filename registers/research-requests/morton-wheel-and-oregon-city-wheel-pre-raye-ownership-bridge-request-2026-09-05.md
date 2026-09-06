@@ -296,3 +296,8 @@ The decisive questions are:
 5. What change, if any, occurs between Flor's documented 1957 management and the **Wheel Cafe** name by 1960?
 
 For the Morton-side requests, add **`Al & Marge` / `Al and Marge`, `Marge Remus`, `Fred Remus`, and `Kwality Cafe`** as discovery terms alongside Flor/Remus and Wheel Cafe. A fresh public-index pass did not find a Morton hit; treat that only as an access result.
+
+## Supplemental date control — Albert D. Flor in Oregon City by November 1949
+<!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
+
+Official Oregon City Commission searchable text places **Albert D. Flor** in the City's **October 1949 claims list approved 9 November 1949**, although the payee line does not identify his business/address. When testing a Morton connection for Flor, prioritize records **before November 1949** while still checking later records for travel, former-residence, transfer, or ownership references. Do not treat the 1949 payee entry as proof that Flor already operated Kwality Cafe or 503 Main.

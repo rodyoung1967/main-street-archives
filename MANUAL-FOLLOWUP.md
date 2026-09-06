@@ -346,3 +346,8 @@ The Flor candidate now has a much tighter Oregon-side chain. Official city text 
 Classification: **STRONG CROSS-SOURCE CONTINUITY HYPOTHESIS**, not direct identity/ownership proof. The 1953 business line has no surnames/address and the 1951 license line has no premises/trade name.
 
 Under MF-052, make the **1953 T. W. Salisbury Oregon City & Vicinity Directory** an explicit dual-purpose retrieval: capture Flor, Margaret/Marge Remus, Fred Remus, `Al & Marge Kwality Cafe`, the 503 Main street listing and restaurant/cafe classifieds. Add `Al & Marge`, `Marge Remus`, `Fred Remus`, and `Kwality Cafe` to the Morton Journal/directory/LCB search as secondary bridge terms. The fresh public-online Morton no-hit remains a retrieval gap, not negative evidence.
+
+### MF-052 Flor chronology refinement — November 1949 Oregon City control
+<!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
+
+Official city text now places the exact name **Albert D. Flor** in Oregon City's October 1949 claims report approved **9 November 1949**. The business/premises are not named and the PDF could not be visually rendered. For the Morton side of MF-052, prioritize Flor searches before November 1949; for the Oregon side, continue seeking the missing record that connects the 1949 payee and 1951 Flor/Remus liquor application to Kwality Cafe / 503 Main.
