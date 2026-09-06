@@ -28,6 +28,19 @@ jobs:
         run: pip install pillow pyyaml
       - name: Integrate P-1798 photograph
         run: python3 scripts/integrate_cchs_p1798_1902_labor_day_fifth_main.py
+      - name: Normalize generated record names
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('database/sources.yml')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('name: "CCHS P-1798 — Labor Day parade at Fifth and Main, 1 September 1902"', 'name: "CCHS P-1798, Labor Day parade at Fifth & Main, 1 September 1902"')
+          p.write_text(s, encoding='utf-8')
+          p = Path('database/evidence.yml')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('name: "1902 Fifth/Main photograph shows low-profile predecessor-era commercial form and readable advertising"', 'name: "1902 Fifth/Main photograph shows a low-profile predecessor-era commercial form and readable advertising, but no secure occupant name"')
+          p.write_text(s, encoding='utf-8')
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit integration
