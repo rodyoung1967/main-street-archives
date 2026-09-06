@@ -7,7 +7,7 @@
 - Related businesses: `BUS-004`
 - Related people: `P-022` Floyd LaFarlette; `P-008` Sheila Wiitanen (daughter); `P-007` Richard / Dick Wiitanen
 - Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`
-- Related research capture: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`
+- Related research captures: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`; `evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md`
 
 ## Identity Correction (August 2026)
 
@@ -42,6 +42,18 @@ The strongest match to the remembered **Myrtle Point** business is a different c
 A separate **24 May 1962 Myrtle Point Herald** Guerin Hotel history page also indexes **Rae LaFarlette**, Carol and Sheila, but the OCR is too corrupted to establish Raye's precise Guerin Hotel role. Keep that as a retrieval target rather than an ownership claim.
 
 See `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md` for source-by-source classifications and retrieval routes.
+
+## Morton, Washington family-memory hypothesis
+
+Rodney Young and his brother **Mitch Young** independently remember a Morton, Washington interval before Coquille. On 6 September 2026 Mitch said the LaFarlettes were in Morton **before** Coquille, that Sheila “wasn't of school age,” and, as far as he knew, that the family came to Morton from Chicago. Rodney separately remembers Raye working at the **Wheel Cafe in Morton** and recalls a possible sequence in which the Morton Wheel owners later became connected to the Oregon City Wheel before Raye bought it.
+
+This remains **FAMILY / ORAL-HISTORY EVIDENCE**, not documentary proof. Sheila's published obituary reports a birth date of **13 June 1944**, while the visually rechecked 11 March 1954 *Coquille Valley Sentinel* profile says Sheila was 9 and gives Raye's own contemporary move account as **Chicago → Coquille in 1944**, without mentioning Morton. Floyd is independently documented in a southern Coos County business by **7 August 1947**.
+
+Accordingly, if the family sequence is substantially correct, the highest-value **working search bracket** for Morton is **13 June 1944 through 7 August 1947**, when Sheila would have been approximately age 0–3. That bracket is a search hypothesis only; it remains in **UNRESOLVED CONFLICT** with Raye's 1954 Chicago → Coquille account.
+
+No contemporary source yet recovered establishes a Morton residence for Raye, employment at the Morton Wheel, the Morton Wheel proprietor in the target period, or a person/transaction bridge from the Morton Wheel to The Wheel at 503 Main in Oregon City. The separate Morton property-control pass also preserves an unverified **1950** build-date lead for the surviving 145 Main building, so the present building must not be projected backward into a proposed 1944–1947 employment story.
+
+Full chronology/control capture: `evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md`.
 
 ## Working Biography
 
