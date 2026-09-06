@@ -1,0 +1,216 @@
+{
+  "title": "Oregon City Courier 1917 October unsampled weekly issues",
+  "newspaper_lccn": "sn00063698",
+  "retrieved_utc": "2026-09-06T05:28:33.164346+00:00",
+  "issue_count": 3,
+  "page_count": 24,
+  "issues": [
+    {
+      "date": "1917-10-11",
+      "page_count": 8
+    },
+    {
+      "date": "1917-10-18",
+      "page_count": 8
+    },
+    {
+      "date": "1917-10-25",
+      "page_count": 8
+    }
+  ],
+  "items": [
+    {
+      "date": "1917-10-11",
+      "sequence": 1,
+      "file": "1917-10-11-seq-01.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-1.pdf",
+      "sha256": "121d500d9ca5d00e3ae730855d78a663732934994ddb0ac374870c1625272f0e",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 2,
+      "file": "1917-10-11-seq-02.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-2.pdf",
+      "sha256": "74281be26e999d2eb3e312200e55c226e1a8a7158e69715527a23d98a1585b3e",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 3,
+      "file": "1917-10-11-seq-03.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-3.pdf",
+      "sha256": "51081e60822f10ceb5a49823277038b47603e3515eb55eaae0d205cb9b03f5e4",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 4,
+      "file": "1917-10-11-seq-04.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-4.pdf",
+      "sha256": "23a7a067a8169f8c2c888a8590526e3c7c763fd7ac969b66715956f91b30430a",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 5,
+      "file": "1917-10-11-seq-05.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-5.pdf",
+      "sha256": "59306cc0a249dc17ed7500b01ca3ca4d99f4188c76bdfd89d90f6dadd7a5cca7",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 6,
+      "file": "1917-10-11-seq-06.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-6.pdf",
+      "sha256": "f00c21ec9578537943846bfa03cac7378fc2776b143d5d3e008ea28665c3594a",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 7,
+      "file": "1917-10-11-seq-07.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-7.pdf",
+      "sha256": "24c165b7285a205f947fbea02f71e616b9b74f61e30a625a7816980e3874cb0d",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-11",
+      "sequence": 8,
+      "file": "1917-10-11-seq-08.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/seq-8.pdf",
+      "sha256": "fa3068370df094dee8f64d9d758e07508a25e3ba11dab8026225102f54bf3566",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 1,
+      "file": "1917-10-18-seq-01.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-1.pdf",
+      "sha256": "6eb0208839b710584c974be7fa7815844d35cf1f72cd0b79f7dc1c1f75b33e38",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 2,
+      "file": "1917-10-18-seq-02.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-2.pdf",
+      "sha256": "dbc4980f001438fe6be4d30a0f5c24ed256ce234c19e7963550a8de1770c2426",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 3,
+      "file": "1917-10-18-seq-03.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-3.pdf",
+      "sha256": "5c03c0062a4203c030a5a4f119bd3daf86d8ea97ae6461f6a1832e89f8830281",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 4,
+      "file": "1917-10-18-seq-04.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-4.pdf",
+      "sha256": "1182a03980b706794d8a68798a5f16cdc06193be2042321255bf4cd61250b667",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 5,
+      "file": "1917-10-18-seq-05.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-5.pdf",
+      "sha256": "d39bc0f68b63c382d76d5ba7cba7001ab7f17111b63e6267268711e29aeb4c33",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 6,
+      "file": "1917-10-18-seq-06.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-6.pdf",
+      "sha256": "ce0db1f60d40255100a6a29ec80107386a3462c29f03ae6d0f1772970cc75db3",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 7,
+      "file": "1917-10-18-seq-07.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-7.pdf",
+      "sha256": "a4efc748dace0bc4929e31d64d04d26d3757bee08bc343a3fd15bf21fa8bb68a",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-18",
+      "sequence": 8,
+      "file": "1917-10-18-seq-08.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-18/ed-1/seq-8.pdf",
+      "sha256": "4378be0280cc7438aa2187205180a89a0965e34f109d229f8cf7fb5ce214fb42",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 1,
+      "file": "1917-10-25-seq-01.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-1.pdf",
+      "sha256": "cff91e95f6c8545f8be9fb57887ff56f0311f93d2f4c76cf86b8a011584322fc",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 2,
+      "file": "1917-10-25-seq-02.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-2.pdf",
+      "sha256": "b36eda3ca986467538d742bb6d6e2ff0d1f8eda3757926e2b2c795abe9e2d279",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 3,
+      "file": "1917-10-25-seq-03.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-3.pdf",
+      "sha256": "40b461009cb7ea5a72072dbc39ac6c660bff1a5a65a08c4e21a0ad82a7e9a019",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 4,
+      "file": "1917-10-25-seq-04.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-4.pdf",
+      "sha256": "fdae757dfbd127b7b99f86f3492cb51b1bd2e497ed7ef661857f967e9bddab03",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 5,
+      "file": "1917-10-25-seq-05.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-5.pdf",
+      "sha256": "40ed44b7b51bf25e1d51125792377405b6b122a5e421f3e1d4be37262067aa6a",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 6,
+      "file": "1917-10-25-seq-06.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-6.pdf",
+      "sha256": "e99caa23ca9decd69eeea585a31e9b6642812ea81e304a053f4f16bcf9df1288",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 7,
+      "file": "1917-10-25-seq-07.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-7.pdf",
+      "sha256": "9a0aeaab45df049afdb2248a53800710f61ee55bea5e3598cde858b3c2627c2c",
+      "review_status": "PENDING VISUAL REVIEW"
+    },
+    {
+      "date": "1917-10-25",
+      "sequence": 8,
+      "file": "1917-10-25-seq-08.pdf",
+      "source_url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-25/ed-1/seq-8.pdf",
+      "sha256": "08d6890ed0a4b35a65520ff4a5dac783ef5ae380c1f87cc200b34e7afe48cf1c",
+      "review_status": "PENDING VISUAL REVIEW"
+    }
+  ],
+  "annual_completion_limit": "October continuation only; actual page scans still require page-by-page visual review."
+}
