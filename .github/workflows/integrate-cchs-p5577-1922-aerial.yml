@@ -30,6 +30,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             python3 scripts/integrate_cchs_p5577_1922_aerial.py
+            sed -i 's/^### IMG-0761 /## IMG-0761 /' media/photo-metadata-register.md
             python3 scripts/validate_archive.py
             git add -A
             if git diff --cached --quiet; then
