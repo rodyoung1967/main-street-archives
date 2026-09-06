@@ -36,7 +36,7 @@ Rodney supplied a screenshot of the exchange as **`IMG_5678.jpeg`** in the ChatG
 
 Classification: **FAMILY / ORAL-HISTORY LEAD — TWO FAMILY MEMBERS AGREE; NOT DOCUMENTARY PROOF.** Agreement between Rodney and Mitch increases the importance of testing the lead but does not establish residence, employment, ownership, or a business transfer.
 
-## 2. Sheila's birth date makes “not of school age” a useful chronology control
+## 2. Sheila's birth date and Chicago birthplace sharpen the lower chronology bound
 
 The published *Oregonian* obituary for **Sheila (LaFarlette) Wiitanen** states that she was born **13 June 1944**.
 
@@ -45,7 +45,11 @@ https://obits.oregonlive.com/us/obituaries/oregon/name/sheila-wiitanen-obituary?
 
 Classification: **SECONDARY BIOGRAPHICAL CONTROL** for Sheila's reported birth date.
 
-This makes Mitch's phrase “Mom wasn’t of school age” more useful than a generic before/after recollection. If the remembered **Chicago → Morton → Coquille** sequence is substantially correct, the Morton interval would have occurred during Sheila's very early childhood.
+Rodney Young additionally states from family knowledge that **Sheila was born in Chicago**. The obituary does not state a birthplace, and no birth certificate has yet been recovered in this project, so Chicago is classified as **PROJECT-STEWARD / FAMILY PROVENANCE** rather than documentary proof.
+
+<!-- Sheila Chicago birthplace chronology control — 2026-09-06 -->
+
+Chronologically, this is important. If the family provenance is accurate, the LaFarlettes were still in **Chicago on 13 June 1944**, and any remembered Chicago → Morton move must have occurred **after Sheila's birth**. Combined with Mitch's phrase “Mom wasn’t of school age,” this makes the proposed Morton interval a very-early-childhood episode rather than merely an undated pre-Coquille stop.
 
 ## 3. Original 1954 Raye profile visually rechecked — direct chronology remains Chicago → Coquille
 

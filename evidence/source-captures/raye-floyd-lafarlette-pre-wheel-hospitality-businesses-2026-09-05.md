@@ -17,6 +17,10 @@ On 5 September 2026 Rodney added a second, more specific family-memory lead: **R
 
 On 6 September 2026 Rodney's brother **Mitch Young independently recalled that the LaFarlettes were in Morton before Coquille, while Sheila was below school age, and that as far as he knew they came to Morton from Chicago**. This supersedes the earlier working placement of Morton after Myrtle Point. The older placement is retained here only as superseded research history; it is no longer the active chronology.
 
+Rodney further states from family knowledge that **Sheila LaFarlette was born in Chicago**. The published obituary supplies Sheila's birth date, **13 June 1944**, but does not state a birthplace; therefore Chicago is retained here specifically as **PROJECT-STEWARD / FAMILY PROVENANCE**, not documentary birth-place proof. If accurate, it establishes that the family was still in Chicago at Sheila's birth and makes any remembered Chicago → Morton move necessarily **after 13 June 1944**.
+
+<!-- Sheila Chicago birthplace chronology control — 2026-09-06 -->
+
 Classification: **FAMILY / ORAL-HISTORY LEAD** until matched to contemporary records. Neither the Myrtle Point recollection nor the Morton→Oregon City ownership recollection is converted into a specific legal ownership, operator, employment, or business-transfer claim without documentary support.
 
 ---
