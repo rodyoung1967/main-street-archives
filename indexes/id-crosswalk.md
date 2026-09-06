@@ -546,3 +546,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-249` / `E-223` | `P-006` | Visually verified City cemetery row records Raye W. Grisham's maiden name as Weaver; age 94 conflicts with obituary age 93. |
 | `S-250` / `E-224` | `P-006`, `P-008`, `P-022` | Oregonian obituary directly names Sheila Wiitanen as Raye's daughter and Floyd La Farlette / Cliff Grisham as deceased husbands; no 503/505 business claim. |
 | `S-251` / `E-225` | `B-001`, `BUS-004`, compare `E-049` | Official OLCC indexed text names Maurice Enterprises Inc at The Wheel Bar & Grill, 503 Main, license 104145 expiring 3/31/09; OCR/TEXT ONLY pending visual page verification. |
+
+## S-252 / E-226 — 8 March 1917 visual-review checkpoint
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-252` / `E-226` | 1917 annual audit; `S-134` / `E-120`; `S-247` / `E-221`; `S-248` / `E-222` | 8 Mar. complete issue, **10/10 pages visually reviewed**. Direct controls repeat 619 Main, 612 Main and Fifth/Main. No exact 501/503/505/507/509/511 or new 427 Main occupant established; no continuity or vacancy inference. |

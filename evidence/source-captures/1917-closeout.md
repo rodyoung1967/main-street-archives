@@ -49,3 +49,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
 
 `S-248` / `E-222` adds complete visual review of the 8, 15 and 22 February *Courier* issues (**28/28 pages**). Including the already sampled 1 February issue, February is now **4 complete issues / 36 pages visually verified**. The structured non-overlapping monthly-sample + January + February batches total **18 complete tracked issues / 148 visually verified pages**. This remains partial annual coverage, not a closeout certification. The 13 December true-page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.
+
+## March 8 continuation added 5 September 2026
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+
+`S-252` / `E-226` adds complete visual review of the 8 March *Courier* issue (**10/10 pages**). Including the already sampled 1 March issue, March currently has **2 complete issues / 18 pages visually verified**; March 15, 22 and 29 remain pending. The structured non-overlapping monthly-sample + January + February + March-8 batches total **19 complete tracked issues / 158 visually verified pages**. This remains partial annual coverage, not a closeout certification. The 13 December true-page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.

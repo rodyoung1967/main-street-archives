@@ -2028,3 +2028,16 @@ Indexed row: **THE WHEEL BAR & GRILL — MAURICE ENTERPRISES INC — 503 MAIN ST
 Related evidence/building/business: `E-225` / `B-001` / `BUS-004`.  
 Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
 Notes: The direct PDF open/page-image route failed in this session, so retain OCR/TEXT ONLY status. The row establishes a later state-license association but not the Wiitanen sale date or real-estate title.
+
+## S-252 — Oregon City Courier, 8 March 1917 complete-page visual-review checkpoint
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issue: **8 March 1917 (10 pages)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-08/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`  
+Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`  
+Related evidence: `E-226`.  
+Capture: `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.  
+Notes: Complete visual review of the 8 March issue repeats 619 Main, 612 Main and Fifth/Main anchors. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; this is bounded coverage, not vacancy evidence.

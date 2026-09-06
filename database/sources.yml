@@ -1494,3 +1494,13 @@ sources:
     notes: "Indexed row: THE WHEEL BAR & GRILL; MAURICE ENTERPRISES INC; 503 MAIN ST, OREGON CITY; license 104145; expires 3/31/09. Direct PDF page retrieval failed in this session."
     related_businesses: [BUS-004]
     related_buildings: [B-001]
+
+  - id: S-252
+    name: "Oregon City Courier, 8 March 1917 complete-page visual-review checkpoint"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-08/ed-1/"
+    type: "Primary newspaper page scans; visually verified 10/10 pages"
+    date: "1917-03-08"
+    repository_file: "evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md"
+    notes: "Preserved originals and manifest are under newspapers/oregon-city-courier/1917-march-unsampled/. Exact-number/intersection anchors repeat 619 Main, 612 Main and Fifth/Main; no exact 501/503/505/507/509/511 or new 427 Main occupant was established."
+    related_evidence: [E-226]
+

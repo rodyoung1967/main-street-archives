@@ -2127,3 +2127,18 @@ Claims:
 - Direct PDF/page-image retrieval failed in this session, so the evidence remains **OCR/TEXT ONLY** pending visual verification.
 Classification: **OCR/TEXT ONLY** from an official state PDF index; **RETRIEVAL GAP** for page-image certification.  
 Confidence: **High** for the indexed state-license row; exact transfer mechanics/date unresolved.
+
+## E-226 — 8 March 1917 Courier visually clears 10 pages and repeats selected downtown address anchors
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+Source: `S-252`  
+Type: Primary newspaper page scans; complete-page visual-review checkpoint  
+Claims:
+- All **10 page scans** for the 8 March 1917 *Oregon City Courier* issue were visually reviewed.
+- With the already reviewed 1 March sample issue, March currently has **2 complete issues / 18 visually verified pages**; 15/22/29 March remain pending.
+- Across the non-overlapping monthly-sample, January, February and March-8 batches, the project now documents **19 complete tracked issues / 158 visually verified pages**; this is not exhaustive annual coverage.
+- 8 March p.2 directly repeats the Electric Store at **Andresen Building, 619 Main St.**
+- 8 March pp.4, 8 and 10 directly repeat R. L. Holman at **Fifth and Main St.**
+- 8 March p.7 directly prints an optometrist advertisement at **612 Main Street**; p.8 directly prints Williams Bros. Transfer & Storage at **Office 612 Main Street**.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the ten-page issue. This is bounded coverage only and is not vacancy, demolition or absence evidence.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count and printed dated address anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible address wording; no occupancy-continuity inference is made.

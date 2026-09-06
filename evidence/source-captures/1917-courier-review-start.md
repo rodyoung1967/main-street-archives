@@ -114,3 +114,12 @@ No exact 501/503/505/507/509/511 occupant was established in these 24 pages; tha
 Selected exact-number repetitions include the Electric Store at **619 Main**, Scripture & May at **108 Fifth**, and Williams Bros. Transfer & Storage at **612 Main**. No exact 501/503/505/507/509/511 occupant was established in the 28-page continuation; this bounded result is not vacancy evidence.
 
 Across the non-overlapping monthly sample plus January and February continuations, the documented progress count is now **18 complete tracked issues / 148 visually verified page images**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md`.
+
+## March 8 continuation — 5 September 2026
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+
+`S-252` / `E-226` visually clears **10/10 pages** of the 8 March *Courier*. Together with the previously reviewed 1 March sample, **March currently has 2 complete issues / 18 pages visually verified**; 15, 22 and 29 March remain pending.
+
+Selected direct repetitions include the Electric Store at **619 Main**, R. L. Holman at **Fifth/Main**, an optometrist at **612 Main**, and Williams Bros. Transfer & Storage at **612 Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; this bounded result is not vacancy evidence.
+
+Across the non-overlapping monthly sample plus January, February and March-8 continuations, the documented progress count is now **19 complete tracked issues / 158 visually verified page images**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.

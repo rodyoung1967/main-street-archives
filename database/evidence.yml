@@ -3419,3 +3419,17 @@ evidence:
     related_sources: [S-251]
     related_buildings: [B-001]
     related_businesses: [BUS-004]
+
+  - id: E-226
+    name: "8 March 1917 Courier visually clears 10 pages and repeats selected downtown address anchors"
+    type: "Primary newspaper page scans; complete-page visual-review checkpoint"
+    date: "1917-03-08"
+    claims:
+      - "All 10 page scans for the 8 March 1917 Courier issue were visually reviewed."
+      - "With the 1 March sample issue, March currently has 2 complete issues / 18 visually verified pages; 15/22/29 March remain pending."
+      - "The non-overlapping monthly-sample, January, February and March-8 batches now total 19 complete tracked issues / 158 visually verified pages; this is not exhaustive annual coverage."
+      - "Selected direct anchors repeat Electric Store at 619 Main, R. L. Holman at Fifth/Main, and two 612 Main advertisements."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the ten-page issue; the bounded no-hit result is not vacancy or absence evidence."
+    confidence: "Very High for the inspected-page count and visible dated address wording; no continuity inference is made."
+    related_sources: [S-252]
+

@@ -693,3 +693,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Recovered official OLCC indexed license text naming **Maurice Enterprises Inc** for **The Wheel Bar & Grill, 503 Main**, license 104145 expiring 31 March 2009 (`S-251` / `E-225`); original PDF page remains a visual-retrieval gap.
 - Tested the **D & S Incorporated** lead. Only tertiary address-history aggregation was recovered; official Oregon corporate filing remained inaccessible through the available registry route. Previously surfaced registry number wording remains unverified and is not accepted into evidence.
 - No new 505 vesting deed was recovered; `MF-034` remains the controlling manual deed-chain route. No outreach or paid search was initiated.
+
+### 2026-09-05 — continued exhaustive 1917 Courier review through 8 March
+<!-- 1917 March 8 Courier visual review — 2026-09-05 -->
+- Synced against current `main` after parallel Grisham/Wiitanen work consumed `S-249`–`S-251` / `E-223`–`E-225`; assigned this checkpoint the next free IDs `S-252` / `E-226`.
+- Visually inspected **10/10 actual page scans** for 8 March 1917. Preserved source batch retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`.
+- With the previously reviewed 1 March sample, March currently has **2 complete issues / 18 visually verified pages**.
+- Selected dated controls: Electric Store / Andresen Building **619 Main** (p.2); R. L. Holman **Fifth/Main** (pp.4, 8, 10); optometrist **612 Main** (p.7); Williams Bros. Transfer & Storage **612 Main** (p.8).
+- Pages 5–6 are delinquent-tax-list pages; numeric entries were not misclassified as storefront addresses.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the issue. This is bounded coverage only, not vacancy/non-use evidence.
+- Documented non-overlapping 1917 progress is now **19 complete tracked issues / 158 visually verified page images**. March 15/22/29 remain pending; 1917 remains **IN PROGRESS**.
