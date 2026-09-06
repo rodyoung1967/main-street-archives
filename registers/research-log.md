@@ -642,3 +642,11 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Steward original preserved by filename, dimensions, bytes and SHA-256 `af12fed120f6c9e3a3c92de1302868df2cbe02d916ad7d68b640a8fa80b20d9e`; canonical repository binary is the largest exact-object CCHS derivative.
 - Direct visual review confirms the far-left early commercial frontage. Steward identifies it as the later 501-505 area; exact individual-number boundaries and building continuity remain probable/unresolved rather than direct.
 - No annual research-status certification changed.
+
+### 2026-09-05 — CCHS P-1798 Labor Day parade / Fifth-Main sign review
+- Integrated steward-supplied CCHS `P-1798` as `IMG-0764` / `S-244` / `E-218`.
+- Preserved steward fingerprint: `Oregon City Labor Day Parade 1902 - 5th and Main.jpg`, 850×669, 81,519 bytes, SHA-256 `c2ba7159afc46bac160511ab0c6d77f1603056a03b858229b503a5152d1bb514`.
+- Readable advertising: **Ringling Bros. / World's Greatest Shows** and **General Arthur Cigar**. Background Charman/drug and steam-laundry wording is contextual only.
+- Multiple enlargement/contrast passes did not produce a defensible transcription of the pale center-wall lettering; it is not assigned to The Union Store or another occupant.
+- Recorded the target-area building as a **probable** low one-story/tall-false-front form. This supplies a pre-1922 structural contrast with `E-097`/`E-216`, not proof that the same building survived to the July 1922 fire.
+- No year-level research status changed.

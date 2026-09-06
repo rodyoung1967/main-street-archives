@@ -3312,3 +3312,17 @@ evidence:
     related_buildings: [B-005, B-001, B-002]
     repository_file: "evidence/source-captures/cchs-p1241-ca1900-bluff-main-5th-7th-target-frontage-2026-09-05.md"
 
+  - id: E-218
+    name: "1902 Fifth/Main photograph shows a low-profile predecessor-era commercial form and readable advertising, but no secure occupant name"
+    type: Primary photographic evidence
+    date: "1902-09-01"
+    claims:
+      - "CCHS P-1798 describes the scene as the Oregon City Labor Day Parade at Fifth and Main on 1 September 1902."
+      - "Ringling Bros. / World's Greatest Shows and General Arthur cigar advertising are readable."
+      - "The target-area structure presents as a probable low one-story or tall-false-front commercial form."
+      - "Pale center-wall lettering, exact occupant, later 501/503/505 mapping, and continuity to the July 1922 fire remain unresolved."
+    confidence: "Very High for date/object/readable advertising; Moderate for one-story interpretation; unresolved for occupant/address/building continuity."
+    related_sources: [S-244]
+    related_media: [IMG-0764]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg"

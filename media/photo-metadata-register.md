@@ -1716,3 +1716,14 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward original: `Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Street.jpg`; 2048×1914; 1,045,002 bytes; SHA-256 `af12fed120f6c9e3a3c92de1302868df2cbe02d916ad7d68b640a8fa80b20d9e`
 - Status: `committed`
 - Visual note: early Main Street frontage is visible at far left. Steward maps it to the later 501-505 area; no address numbers are readable and individual building continuity remains unresolved.
+
+## IMG-0764 — CCHS P-1798 Labor Day parade, Fifth & Main, 1 September 1902
+- Type: Historic street/parade photograph
+- CCHS object: **P-1798**
+- CCHS title: **Oregon City Labor Day Parade 1902 - 5th and Main**
+- Repository file: `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1888**; 421,326 bytes; SHA-256 `15e159b3f7a3ef226af5b31342dd29964af1ea3c81a04e9d1b431e2eec05ac2b`
+- Steward original: `Oregon City Labor Day Parade 1902 - 5th and Main.jpg`; 850×669; 81,519 bytes; SHA-256 `c2ba7159afc46bac160511ab0c6d77f1603056a03b858229b503a5152d1bb514`
+- Visual note: Ringling Bros./World's Greatest Shows and General Arthur cigar advertising readable; faded center-wall business lettering unresolved; target-area structure appears low/likely one-story or tall-false-front.
+- Related source/evidence: `S-244` / `E-218`

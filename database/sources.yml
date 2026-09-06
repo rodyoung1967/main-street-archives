@@ -1428,3 +1428,12 @@ sources:
     related_evidence: [E-217]
     related_media: [IMG-0763]
 
+  - id: S-244
+    name: "CCHS P-1798, Labor Day parade at Fifth & Main, 1 September 1902"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-labor-day-parade-1902-5th-and-main"
+    type: Primary historic photograph with CCHS institutional catalog metadata
+    date: "1902-09-01"
+    repository_file: "media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg"
+    notes: "Readable Ringling Bros. and General Arthur advertising; faded occupant lettering and exact later address mapping unresolved."
+    related_evidence: [E-218]
+    related_media: [IMG-0764]

@@ -2015,3 +2015,16 @@ Claims:
 - Because no later street number is readable and address/building continuity cannot be assumed across circa 1900, the exact 501/503/505 boundaries remain unresolved.
 Classification: **DOCUMENTED / DIRECT** for object/title and broad streetscape; **VISUALLY VERIFIED** for the far-left frontage; **PROBABLE / WORKING HYPOTHESIS** for later 501-505 mapping; **UNRESOLVED** for individual boundaries and building continuity.  
 Confidence: **Very High** for object identity/title geography; **Moderate-to-High** for the steward-mapped 501-505 area; unresolved for individual-address footprints.
+
+## E-218 — 1902 Fifth/Main photograph shows a low-profile predecessor-era commercial form and readable advertising, but no secure occupant name
+Source: `S-244`  
+Media: `IMG-0764`  
+Type: Primary photographic evidence  
+Claims:
+- CCHS `P-1798` describes the photograph as the Oregon City Labor Day Parade at Fifth & Main on **1 September 1902**.
+- `RINGLING BROS.` and `WORLD'S GREATEST SHOWS` are readable as wall advertising; `GENERAL ARTHUR CIGAR` is also readable advertising.
+- The center target-area building presents visually as a low one-story / tall-false-front commercial form; story count is **PROBABLE / WORKING HYPOTHESIS**, not architectural proof.
+- The pale center-wall lettering is not secure enough to transcribe and is not assigned to The Union Store or any other occupant.
+- Compared with `E-097`'s documented two-story Gates replacement and `E-216`'s probable two-story 1927 501-area mass, this image supplies a useful earlier structural contrast, but does not prove continuity from 1902 to the July 1922 fire.
+Classification: **DOCUMENTED / DIRECT** for photograph identity/date and readable advertising; **PROBABLE / WORKING HYPOTHESIS** for one-story form; **UNRESOLVED** for occupant, faded lettering, exact later address mapping, and 1902-to-1922 building continuity.  
+Confidence: Very High for catalog/date and clear advertising; Moderate for one-story interpretation; unresolved for occupant/address continuity.

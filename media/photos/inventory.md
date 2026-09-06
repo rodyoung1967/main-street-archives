@@ -260,3 +260,10 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-243` / `E-217`.
 - Institutional title places the view on Main between Fifth and Seventh; steward identifies the far-left frontage as the later 501-505 area.
 - Limit: exact numbered boundaries and continuity to later buildings are not proved by the photograph alone.
+
+### IMG-0764 — CCHS P-1798 Labor Day parade at Fifth & Main, 1902
+- File: `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`
+- Source/evidence: `S-244` / `E-218`
+- CCHS object: `P-1798`
+- Date: **1 September 1902** from catalog description
+- Status: committed; readable advertising recorded; pale target-wall lettering, exact occupant, exact later address mapping and building continuity remain unresolved.

@@ -516,3 +516,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0762` / `S-242` / `E-216` / `T-090` / CCHS `P-5578` | `B-005`; cross-check `S-241` / `E-215` / `IMG-0761` and `E-097` | CCHS title says 1922 but Date made says 1927. At the steward-mapped historic 501 position, the visible mass appears two stories tall; exact 501 number and Gates identity remain unresolved. |
 
 | `IMG-0763` / `S-243` / `E-217` / CCHS `P-1241` | `B-005`, `B-001`, `B-002`; `T-091` | Circa-1900 bluff view titled Main between Fifth and Seventh; steward maps far-left frontage to later 501-505 area. Exact numbered boundaries/building continuity unresolved. |
+
+| `IMG-0764` / `S-244` / `E-218` / CCHS `P-1798` | `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`; `evidence/source-captures/cchs-p1798-1902-09-01-labor-day-parade-5th-main-signs-2026-09-05.md` | 1 Sep. 1902 Fifth/Main Labor Day parade. Readable Ringling Bros./General Arthur advertising; low-profile target-area form is a probable one-story/tall-false-front predecessor state. Faded occupant lettering and later 501/503/505 mapping unresolved. |

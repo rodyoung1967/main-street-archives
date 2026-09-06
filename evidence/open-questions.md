@@ -216,3 +216,6 @@ The live CCHS record for `IMG-0735` / `S-206` is titled/described only **Downtow
 ### 5 September 2026 — P-1128 narrows Farr occupancy to a 1936 photographic state
 
 CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936**. Steward mapping of 505 plus a probable `FARR'S` sign and likely pool-related wording, combined with `S-036` / `E-033`, strongly supports Farr's Pool Hall at 505 in 1936. The **opening date remains unresolved**, and the later transition from Farr to Harr remains open.
+
+### 5 September 2026 — P-1798 visual update to OQ-033
+CCHS `P-1798` (`S-244` / `E-218` / `IMG-0764`) adds a precisely described **1 September 1902 Fifth/Main** photograph. It gives a low-profile probable one-story/tall-false-front structural state in the target zone, but its pale business lettering remains unreadable and no exact later 501/503/505 mapping follows. Existing `E-146` Union Store block-level evidence remains a separate candidate and is not visually assigned to the photograph.

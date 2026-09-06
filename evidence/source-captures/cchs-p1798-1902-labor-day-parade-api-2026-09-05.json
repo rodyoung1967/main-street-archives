@@ -1,0 +1,272 @@
+{
+  "reviewed": "2026-09-05",
+  "catalog": "P-1798",
+  "search_url": "https://api.catalogit.app/api/public/search?query=P-1798&size=200",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/0d7895b0-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-labor-day-parade-1902-5th-and-main",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 944,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-vdUepPS.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg",
+  "repository_image": {
+    "width": 2400,
+    "height": 1888,
+    "bytes": 421326,
+    "sha256": "15e159b3f7a3ef226af5b31342dd29964af1ea3c81a04e9d1b431e2eec05ac2b"
+  },
+  "steward_upload": {
+    "filename": "Oregon City Labor Day Parade 1902 - 5th and Main.jpg",
+    "width": 850,
+    "height": 669,
+    "bytes": 81519,
+    "sha256": "c2ba7159afc46bac160511ab0c6d77f1603056a03b858229b503a5152d1bb514"
+  },
+  "catalog_metadata_supplied_by_steward": {
+    "title": "Oregon City Labor Day Parade 1902 - 5th and Main",
+    "description": "Oregon City Labor Day Parade, 1902.  5th & Main. 1st September 1902.",
+    "date_made": "1902",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "state": "Oregon",
+    "country": "United States of America",
+    "continent": "North America",
+    "medium": "Photographic Paper",
+    "location_of_negative": "Halon"
+  },
+  "entry": {
+    "id": "0d7895b0-9b1f-11eb-b3ef-53e7205a00b4",
+    "account_id": "4813",
+    "account_slug": "clackamas-county-historical-society",
+    "account_name": "Clackamas County Historical Society",
+    "folder_ids": [
+      "775eed70-9ada-11eb-924d-3720ffab4dcc"
+    ],
+    "folders": [
+      {
+        "id": "775eed70-9ada-11eb-924d-3720ffab4dcc",
+        "name": "Photographs",
+        "slug": "photographs",
+        "description": "Here is a database of CCHS's historic photo collection. Please note that some photos have been accessioned but have not yet been scanned."
+      }
+    ],
+    "classification": "Photograph",
+    "classification_v2": "Photograph",
+    "classifications": [
+      "Photograph",
+      "Basic Entry",
+      "PhotographMixin",
+      "ContextMixin",
+      "CatalogingMixin",
+      "CategoriesMixin",
+      "AcquisitionMixin",
+      "PhotographCreateInfoMixin",
+      "EthnographyMixin",
+      "EditionMixin",
+      "InscriptionSignatureMarksMixin",
+      "LexiconMixin",
+      "OtherIdentifierMixin",
+      "DimensionsMixin",
+      "PartsMixin",
+      "AccessoryMixin",
+      "ColorsMixin",
+      "LocationMixin",
+      "InventoriedMixin",
+      "ConditionMixin",
+      "MaintenanceMixin",
+      "ConservationMixin",
+      "ValuationsMixin",
+      "InsuranceDetailsMixin",
+      "RelationshipMixin",
+      "WebLinkMixin",
+      "ProvenanceMixin",
+      "CopyrightMixin",
+      "ReproductionsMixin",
+      "ExhibitionMixin",
+      "IntakeMixin",
+      "LoansMixin",
+      "ShippingMixin",
+      "LabelsMixin",
+      "ResearchNotesMixin",
+      "DeaccessionMixin",
+      "Collectible"
+    ],
+    "slug": "oregon-city-labor-day-parade-1902-5th-and-main",
+    "media": [
+      {
+        "uuid": "45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45",
+        "content_type": "image/jpeg",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-sundCax.tn.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-sundCsu.tn@2x.jpg",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-vdUepPS.sm@1x.jpg",
+            "width": 768,
+            "height": 604
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-vdUepPS.sm@2x.jpg",
+            "width": 768,
+            "height": 604
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-vdUepPS.lg@1x.jpg",
+            "width": 1200,
+            "height": 944
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/45b3ba80-9b8e-11eb-8d59-b7d9fd36cc45-vdUepPS.lg@2x.jpg",
+            "width": 1200,
+            "height": 944
+          },
+          "dominant_color": "303030",
+          "complementary_color": "303030"
+        }
+      },
+      {
+        "uuid": "4b6898b0-9b7f-11eb-97c3-a30f15c9573f",
+        "content_type": "image/jpeg",
+        "name": "Oregon City Labor Day Parade, 1902.",
+        "description": "Copyright: Clackamas County Historical Society; Origsize: 8x10; Origformat: Print-Photographic",
+        "derivatives": {
+          "public_thumbnail": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-sunGYKH.tn.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public_thumbnail_2x": {
+            "path": "https://d3f1jyudfg58oi.cloudfront.net/4813/photo/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-sunGYLs.tn@2x.JPG",
+            "width": 200,
+            "height": 200
+          },
+          "public": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-vdUepPS.sm@1x.jpg",
+            "width": 768,
+            "height": 604
+          },
+          "public_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-vdUepPS.sm@2x.jpg",
+            "width": 768,
+            "height": 604
+          },
+          "public_highres": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-vdUepPS.lg@1x.jpg",
+            "width": 850,
+            "height": 669
+          },
+          "public_highres_2x": {
+            "path": "https://d8e7jbdw4fu0e.cloudfront.net/4813/4b6898b0-9b7f-11eb-97c3-a30f15c9573f-vdUepPS.lg@2x.jpg",
+            "width": 850,
+            "height": 669
+          },
+          "dominant_color": "303030",
+          "complementary_color": "303030"
+        }
+      }
+    ],
+    "properties": {
+      "hasName": {
+        "label": "Name/Title",
+        "width": "w-xs-12",
+        "value_text": "Oregon City Labor Day Parade 1902 - 5th and Main",
+        "order": 1
+      },
+      "hasCatalogNumber": {
+        "label": "Entry/Object ID",
+        "width": "w-xs-12",
+        "value_text": "P-1798",
+        "order": 2
+      },
+      "hasDescription": {
+        "label": "Description",
+        "width": "w-xs-12",
+        "value_text": "Oregon City Labor Day Parade, 1902.  5th & Main. 1st September 1902.",
+        "order": 3
+      },
+      "hasCreateOrManufactureInfo": {
+        "label": "Made/Created",
+        "width": "w-xs-12",
+        "value": {
+          "hasMadeDate": {
+            "label": "Date made",
+            "width": "w-xs-6",
+            "value_fuzzydaterange": {
+              "fuzzydate_from": {
+                "fuzzydate_value": "1902",
+                "fuzzydate_date": "1902-01-01T00:00:00.000Z"
+              }
+            },
+            "order": 1
+          },
+          "hasMadePlace": {
+            "label": "Place",
+            "width": "w-xs-6",
+            "value_hreference_list": [
+              {
+                "label": "City",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon City",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "County",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Clackamas",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "State",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "Oregon",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Country",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "United States of America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              },
+              {
+                "label": "Continent",
+                "width": "w-xs-6",
+                "value_reference": {
+                  "reference_value": "North America",
+                  "reference_type": "http://www.catalogit.me/rdf/ontologies/core/common#Place"
+                }
+              }
+            ],
+            "order": 2
+          },
+          "hasNotes": {
+            "label": "Notes",
+            "width": "w-xs-12",
+            "value_text": "Medium: Photographic Paper\nLocation of Negative: Halon",
+            "order": 3
+          }
+        },
+        "order": 4
+      }
+    },
+    "hasCatalogNumber_sorter": "_________p0000001798",
+    "prev_id": "dc250570-9b1e-11eb-b3ef-53e7205a00b4",
+    "next_id": "0f19c290-9b1f-11eb-b3ef-53e7205a00b4"
+  }
+}
