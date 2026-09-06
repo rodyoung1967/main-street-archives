@@ -590,3 +590,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-259` / `E-233` | 1917 annual audit; `S-134` / `E-120` | 14/21/28 June batch, **24/24 pages visually reviewed**. June totals 4 issues / 32 pages with the June 7 sample. Repeated 612 Main, 619 Main and Fifth/Main controls; no exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |
+
+## S-260 / E-234 — remaining July 1917 Courier visual review
+<!-- 1917 July 12-26 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-260` / `E-234` | 1917 annual audit; `S-134` / `E-120` | 12/19/26 July batch, **24/24 pages visually reviewed**. July totals 4 issues / 32 pages with the July 5 sample. Repeated 612 Main and 619 Main controls; no exact 501/503/505/507/509/511 or new 427 occupant. July 12 p.8 target-number text hits are draft serials, not addresses. |

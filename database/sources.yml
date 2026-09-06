@@ -1571,3 +1571,12 @@ sources:
     notes: "Complete remaining-June Courier visual review. Dated controls repeatedly confirm 612 Main, 619 Main and Fifth/Main. No exact 501/503/505/507/509/511 or new 427 Main occupant was established."
     related_evidence: [E-233]
 
+  - id: S-260
+    name: "Oregon City Courier, 12/19/26 July 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-07-12/ed-1/"
+    type: "Primary newspaper page scans; visually verified 24/24 pages"
+    date: "1917-07-12 through 1917-07-26"
+    repository_file: "evidence/source-captures/1917-courier-july-12-26-visual-review-2026-09-05.md"
+    notes: "Complete remaining-July Courier visual review. Dated controls repeatedly confirm 612 Main and 619 Main. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; target-number text hits on 12 July p.8 are draft serials, not addresses."
+    related_evidence: [E-234]
+

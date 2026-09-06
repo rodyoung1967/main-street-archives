@@ -159,3 +159,12 @@ Across the non-overlapping monthly sample plus January–May continuations, the 
 Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer checking was performed only after visual review and did not reveal a hidden target-address hit.
 
 Across the non-overlapping monthly sample plus January–June continuations, the documented progress count is now **32 complete tracked issues / 266 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-june-14-28-visual-review-2026-09-05.md`.
+
+## July 12–26 continuation — 5 September 2026
+<!-- 1917 July 12-26 Courier visual review — 2026-09-05 -->
+
+`S-260` / `E-234` visually clears **24/24 pages** of the remaining 12, 19 and 26 July *Courier* issues. Together with the already reviewed 5 July sample, **July Courier coverage is now 4 complete issues / 32 pages visually verified**.
+
+Repeated exact controls include **612 Main** and **619 Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer checking was performed only after visual review; target-number hits on 12 July p.8 are draft-registration serials, not addresses.
+
+Across the non-overlapping monthly sample plus January–July continuations, the documented progress count is now **35 complete tracked issues / 290 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-july-12-26-visual-review-2026-09-05.md`.
