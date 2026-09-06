@@ -1,0 +1,95 @@
+name: Integrate May 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-1917-enterprise-may.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Repair generated May integration script tail
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/integrate_1917_enterprise_may.py')
+          s=p.read_text()
+          bad='yr = r("registers/year-status.md")n\n'
+          if bad in s:
+              s=s.replace(bad,'yr = r("registers/year-status.md")\n',1)
+          if 'May closeout integration finished:' not in s:
+              s += r'''
+newrow = f'| 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `{CAPTURE}` | *Courier*: all 52 issue dates inventoried, **435 genuine pages visually verified**, true 13 Dec p21 unresolved. *Oregon City Enterprise*: **168 genuine intended-date pages through May**; 170 Jan-May archive slots inspected, with true 16 Mar p5 and true 13 Apr p8 retrieval gaps; **246 June-Dec exposed slots remain**. May adds direct 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and promotes separate Farr Brothers meat/grocery business (`{BUS}`); no target-frontage occupant. Title-calendar reconciliation, Sohns & Woodbeck Oregon City directory section, and other source-class closeout remain unresolved. |'
+pattern = r'^\| 1917 \| \*\*IN PROGRESS\*\* \|.*$'
+newyr, count = re.subn(pattern, newrow, yr, count=1, flags=re.M)
+if count != 1:
+    raise SystemExit('Could not update canonical 1917 year-status row')
+w('registers/year-status.md', newyr)
+
+# Keep the archive-index annual summary current when that compact line exists.
+ai = r('ARCHIVE_INDEX.md')
+ai_new, n = re.subn(
+    r'^- \*\*1917 — IN PROGRESS:\*\*.*$',
+    f'- **1917 — IN PROGRESS:** Courier 435 genuine pages with true 13 Dec p21 unresolved; Enterprise **168 genuine intended-date pages through May**, with true 16 Mar p5 and 13 Apr p8 gaps and **246 June–December exposed slots remaining**. May adds exact 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and strengthens separate Farr Brothers meat/grocery identity (`{BUS}`).',
+    ai,
+    count=1,
+    flags=re.M,
+)
+if n:
+    w('ARCHIVE_INDEX.md', ai_new)
+
+print(f'May closeout integration finished: {SID} {EID} {BID} {BUS} {TID}')
+'''
+          p.write_text(s)
+          PY
+          python3 -m py_compile scripts/integrate_1917_enterprise_may.py
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate May Enterprise visual closeout
+        run: python3 scripts/integrate_1917_enterprise_may.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized May closeout
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            scripts/integrate_1917_enterprise_may.py \
+            evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md \
+            evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml \
+            buildings/106-fifth.md database/buildings.yml registers/address-register.md \
+            businesses/farr-brothers-store.md businesses/business-index.md database/businesses.yml \
+            people/profiles/w-s-eddy.md people/profiles/clarence-p-farr.md people/people-index.md database/people.yml \
+            businesses/fashion-stable.md \
+            evidence/source-captures/1922-farr-brothers-identity-clarification-2026-09-03.md \
+            timeline.md database/timeline.yml registers/business-timeline.md \
+            indexes/id-crosswalk.md ARCHIVE_INDEX.md registers/entity-page-audit-2026-08-29.md \
+            evidence/source-captures/1917-closeout.md evidence/open-questions.md evidence/research-leads.md \
+            registers/research-log.md registers/year-status.md
+          if git diff --cached --quiet; then
+            echo 'No May integration changes.'
+            exit 0
+          fi
+          git commit -m 'Close May 1917 Enterprise visual audit'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
