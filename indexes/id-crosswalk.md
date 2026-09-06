@@ -657,3 +657,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Existing `S-269` / `E-243` → `BUS-102`, `P-022` — 18 Oct. 1951 Elkins/Floyd new-ownership advertisement.
 - Existing `S-270` / `E-244` → `BUS-102`, `P-006`, `P-022` — 11 Jun. 1953 Raye/Floyd hosting/involvement record; no independent Raye legal-ownership upgrade.
 - South Powers Town Club House remains an unassigned business/entity lead pending identification and a LaFarlette bridge.
+
+## Town Club licensing-route control — 6 September 2026
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / crosswalk -->
+
+- `S-278` / `E-251` → `P-006`, `P-022`, `MF-050` — 1954–55 Coos County/OLCC renewal-route controls; no Town Club license identity established.
+- `MF-050` → `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md` — Coos County Clerk + Oregon State Archives targeted 1953–57 licensing/ownership requests.
+- Candidate remains separate: `S-277` / `E-250` documents the 1940s South Powers Town Club House but does not bridge it to the LaFarlettes.

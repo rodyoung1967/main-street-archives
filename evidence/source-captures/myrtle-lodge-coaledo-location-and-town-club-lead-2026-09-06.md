@@ -67,3 +67,54 @@ Classification: **DOCUMENTED / DIRECT** for the South Powers Town Club House nam
 ## Propagation audit
 
 This finding changes the LaFarlette pre-Wheel business geography and warrants a dedicated business record plus updates to Raye/Floyd profiles and the research lead. It does **not** change any 503/505 Main building fact, Oregon City Wheel ownership date, or target-property timeline event, so no 503/505 building/timeline entry is manufactured from this off-site Coos County evidence.
+
+## 1954–1955 Town Club licensing-route pass — 6 September 2026
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / capture -->
+
+Archive IDs: source `S-278`; evidence `E-251`.  
+Manual callout: **MF-050**.  
+Ready-to-send request: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`.  
+Preserved licensing-control pages: `newspapers/town-club-lafarlette-licensing-controls/`.  
+Retrieval commit: `b90301065950e8b9ee1a55c40ab312e5c6d711c1`.
+
+### Chronology control at the start of the family-memory window
+
+Existing visually preserved source `S-271` / `E-245`, the **11 March 1954 Coquille Valley Sentinel** profile of Raye, says Raye was then working at the **Coquille Hotel coffee shop** and Floyd worked at the **Coos Bay Lumber Company**; daughter Sheila was nine. This does not rule out a simultaneous business interest, but it makes a **post-March-1954 acquisition/license change** a particularly important hypothesis to test if the family recollection that they owned a Town Club when Sheila was about ten is substantially correct.
+
+### 9 December 1954 — Coos County renewal universe
+
+The preserved 9 Dec. 1954 *Coquille Valley Sentinel* page reports that all current liquor-license certificates would expire at midnight Dec. 31, that renewal forms had been sent to **Coos County's 166 retail licensees**, and that renewal applications should bear approval of the licensee's **local governing body — city council or county court**.
+
+This is not evidence that the LaFarlettes or a Town Club held one of those licenses. It is a direct **record-route control** showing that late-1954 County Court/city approval records and OLCC renewal files are the correct source class for testing a 1955 ownership/license hypothesis.
+
+### 7 December 1955 — OLCC renewal-action control
+
+The preserved 7 Dec. 1955 *Medford Mail Tribune* page reports OLCC action after investigation of complaints involving Coos County enforcement and states that the Commission rejected **28 renewal applications statewide**, naming several Coos County establishments among the reported actions.
+
+Again, this page does not name the LaFarlettes or a Town Club in the recovered text. Its value is to identify a concrete **December 1955 Commission-action window** in which renewal/denial minutes or lists should be checked.
+
+### Aggressive online Town Club search result
+
+Targeted public-web and Historic Oregon Newspapers searches were run across **1953–1957**, emphasizing 1954–55, for combinations of `Town Club`, `Town Club House`, `South Powers`, `Powers`, `Coquille`, `Myrtle Point`, `Floyd LaFarlette`, `Raye`, `Rae`, `Ray`, and `La Farlette` variants. The searches repeatedly recovered unrelated Town Clubs elsewhere in Oregon and the already preserved 1940s **South Powers Town Club House**, but did **not** recover a contemporary online source that connects Raye or Floyd to the Town Club name.
+
+Classification: **ONLINE SEARCH COVERAGE / RETRIEVAL GAP — NOT NEGATIVE EVIDENCE.** The absence of an indexed online hit does not establish that the family recollection is wrong. The highest-value next evidence is now the surviving County Court/Board and OLCC licensing record.
+
+### Archival route now identified
+
+The Oregon State Archives' official Coos County inventory identifies **County Court Journal Index, vol. 1–3, 1947–2001**, **County Court Journal, vol. 1–28, 1859–1965**, County Court orders, and related administrative records at the Coos County Courthouse. The inventory explicitly states that County Commissioners administrative journals can include licenses such as **liquor licenses**.
+
+Accordingly **MF-050** requests a 1953–57 lookup, prioritizing March 1954–Dec. 1955, from:
+
+1. **Coos County Clerk** — County Court journal/index/orders/local approval material; and
+2. **Oregon State Archives** — historical OLCC applications, renewals, transfers, indexes and Commission actions.
+
+The request expressly tests both the general Town Club family recollection and the separate **South Powers Town Club House candidate** without merging them in advance.
+
+### Evidence status
+
+- **DOCUMENTED / DIRECT — VISUALLY VERIFIED:** March 1954 Raye profile (`S-271` / `E-245`) for Raye/Floyd employment and Sheila age control.
+- **OCR/TEXT ONLY / ORIGINAL PDF PRESERVED:** `S-278` / `E-251` licensing-route controls. The page PDFs are preserved in-repository, but this integration does not promote them to scan-certified visual evidence.
+- **FAMILY / PROJECT-STEWARD PROVENANCE:** Raye and Floyd owned something remembered as the Town Club when Sheila was about ten.
+- **DOCUMENTED / DIRECT:** South Powers Town Club House existed as a named polling place in the 1940s (`S-277` / `E-250`).
+- **UNVERIFIED LEAD:** South Powers Town Club House = the remembered Town Club; LaFarlette ownership/operation/license.
+- **RETRIEVAL GAP:** 1953–57 licensing/ownership bridge pending MF-050.

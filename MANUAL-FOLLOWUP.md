@@ -59,6 +59,8 @@ These are the **current high-value human actions**. They are ordered for the act
 | 17 | **MF-014** | Retrieve the original **1906 numbering plat / Ordinance 357 implementation records** | Foundational address-mapping source for pre-/post-1906 Main/Fifth numbering | **ACTIVE MANUAL — DRAFT READY**. [City Recorder email draft](registers/research-requests/active-manual-outreach-drafts-2026-09-05.md) |
 | 18 | **MF-048** | Resolve the **503 Main parcel-first ownership/deed-reference chain**, including the Wiitanen acquisition deed and conveyance out, with special attention to the reported **2 Dec. 2002 / $200,000** transaction | Official Clackamas County **Ascend** can expose recording number, sale amount, grantor and grantee; target account `00572650` still requires interactive lookup. Use institutional outreach only if Ascend/history-card self-service does not resolve the chain | **ACTIVE — ASCEND SELF-SERVICE FIRST / FALLBACK DRAFT READY**. [Ascend route](evidence/source-captures/clackamas-ascend-503-sales-history-route-2026-09-05.md) · [503 deed-chain fallback draft](registers/research-requests/503-wiitanen-conveyance-deed-request-2026-09-05.md) |
 
+| 19 | **MF-050** | Search **1953–1957 Coos County Court / historical OLCC licensing records for Town Club / Town Club House / LaFarlette**, prioritizing Mar. 1954–Dec. 1955 | Public online searching did not recover the ownership/license bridge; official inventory confirms surviving County Court journals/indexes that can include liquor-license actions | **ACTIVE MANUAL — TWO DRAFTS READY**. [Coos County Clerk + Oregon State Archives drafts](registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
@@ -248,6 +250,8 @@ All correspondence is **UNSENT** as of 5 September 2026, per the project steward
 | MF-017 + MF-024 | NOT SENT — DRAFT READY | — | — | — | — | No |
 | MF-018 + MF-023 | NOT SENT — DRAFT READY | — | — | — | — | No |
 
+| **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |
+
 When a request is sent, record the actual date, channel and exact request version. Do not place private payment information or unnecessary personal correspondence in the public repository. Preserve supplied historical files under canonical source folders when permission allows, visually inspect originals before promoting claims, and record precise no-hit scope when an institution reports that a series was checked without a target result.
 
 ---
@@ -256,7 +260,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **18-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).
+The current practical list is the **19-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -273,3 +277,13 @@ Future research sessions should add a new `MF-###` item only when a source genui
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-049** | **YEAR-CLOSEOUT / MANUAL CALLOUT** | **Yes for 1917 manual completion** | Obtain the **true printed page 5 of the 16 March 1917 Oregon City Enterprise** from Oregon City Public Library microfilm, Oregon Digital Newspaper Program source microfilm/original, or another institutional copy. The online archive's 16 Mar seq-5 PDF/JP2/OCR/RDF object is visually a **23 Mar 1917 Page 5**; alternate online derivatives and editions did not recover the correct page. Inspect the supplied scan visually for 501/503/505/507/509/511, occupants, business names, sales/moves, fire/construction/demolition and Fifth/Main controls, then integrate the result. This is a retrieval gap, **not negative evidence**. See `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md` and `newspapers/oregon-city-enterprise/1917-march/recovery-march16-page5/recovery-manifest.json`. |
+
+
+---
+
+## 6 September 2026 — LaFarlette Town Club licensing bridge
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / manual -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-050** | **ACTIVE MANUAL** | **Yes** | Search the **1953–1957 Coos County Court Journal Index/Journal/orders** and historical **OLCC application/renewal/transfer/Commission-action records**, prioritizing **March 1954–December 1955**, for `Town Club`, `Town Club House`, `South Powers`, `Powers`, and LaFarlette name variants. The public-online pass found no direct identity bridge; this is a **RETRIEVAL GAP, not negative evidence**. Ready-to-send County Clerk and State Archives drafts: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`. |

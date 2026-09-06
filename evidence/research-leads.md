@@ -416,3 +416,12 @@ For the mid-1940s 505 transition, retain the existing priority order: **MF-001 1
 <!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / research lead -->
 
 Project steward Rodney Young recalls that Raye and Floyd LaFarlette owned a **Town Club** in the mid-1950s when Sheila was about ten. Source `S-277` / evidence `E-250` independently documents a **South Powers Town Club House** in 1948, but there is no LaFarlette ownership/operator bridge and the building's commercial/social function is unresolved. Prioritize 1953–57 liquor-license, assumed-business-name, directory and newspaper records; first target mid-1954 through mid-1955. Keep this lead separate from `BUS-102` Myrtle Lodge and the Myrtle Point hotel/Club Lehua complex.
+
+### 6 September 2026 — Town Club licensing bridge becomes MF-050
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / research lead -->
+
+The family recollection that Raye and Floyd LaFarlette owned a **Town Club** when Sheila was about ten remains unverified. Existing `S-271` / `E-245` puts Raye at the Coquille Hotel and Floyd at Coos Bay Lumber Company on 11 Mar. 1954, making a later-1954/1955 ownership or license transition especially important to test. Preserved licensing-route controls `S-278` / `E-251` show the local-governing-body/OLCC renewal pathway but do not name a Town Club or LaFarlette license.
+
+Public online searching across 1953–57 did not produce a direct bridge. This is a **RETRIEVAL GAP, not negative evidence**. Proceed under **MF-050** with the Coos County Court Journal Index/Journal/orders and historical OLCC files. Keep the 1940s South Powers Town Club House (`S-277` / `E-250`) separate until an applicant, licensee, address or transaction source bridges it.
+
+Request: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`.

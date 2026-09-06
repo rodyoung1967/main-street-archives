@@ -3748,3 +3748,14 @@ evidence:
     confidence: "Very High for Coaledo locality; exact modern parcel unresolved; no LaFarlette-Town Club bridge yet."
     related_sources: [S-277]
 
+  - id: E-251
+    name: "1954-1955 liquor-renewal notices define the direct licensing-record route for the Town Club hypothesis"
+    type: "Primary newspaper page scans; OCR/text-only route control"
+    date: "1954-12-09/1955-12-07"
+    claims:
+      - "The 1954 notice gives a 166-licensee Coos County renewal universe and local governing-body approval route."
+      - "The 1955 report gives a concrete OLCC renewal-action window involving Coos County context."
+      - "No Town Club or LaFarlette license is identified by these pages; MF-050 targets the underlying licensing records."
+    confidence: "High for research-route selection; Town Club ownership remains unresolved."
+    related_sources: [S-278]
+

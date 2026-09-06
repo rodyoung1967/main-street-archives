@@ -1738,3 +1738,12 @@ sources:
     notes: "Preserved pages documenting Midway rename, Coaledo locality, highway location and South Powers Town Club House candidate."
     related_evidence: [E-250]
 
+  - id: S-278
+    name: "1954-1955 Oregon liquor-license renewal controls for Coos County Town Club research"
+    url: "https://oregonnews.uoregon.edu/"
+    type: "Primary newspaper page scans; OCR/text reviewed, PDFs preserved"
+    date: "1954-12-09/1955-12-07"
+    repository_file: "newspapers/town-club-lafarlette-licensing-controls/"
+    notes: "Licensing-route controls for MF-050; no Town Club or LaFarlette license identification. See evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md."
+    related_evidence: [E-251]
+

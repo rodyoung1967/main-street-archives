@@ -244,3 +244,12 @@ The downstream bracket is now materially tighter but the deed is still missing. 
 `S-273` / `E-247` records the February 1946 City recreation-department rent at **708 Monroe**, not 505 Main. `E-248` strongly identifies the municipal `C. P. Farr` as **Clarence P. Farr** and explicitly keeps him separate from Edwin F. Farr (`P-028`). `E-249` further favors 708 as separate from the Farr Store's documented 709 Monroe / 919 7th parcel.
 
 **Effect on open questions:** the exact **Farr's Pool Hall → Harr's Recreation Center** transition at 505 remains open, but the C. P. Farr municipal recreation-rent series is removed as evidence for that transition. Continue with the 1947–48 directory, missing 1944–48 liquor-license proceedings, and cumulative 505 historic-resource source notes. Historic ownership/legal description of 708 itself remains unresolved.
+
+### Town Club / LaFarlette mid-1950s ownership bridge — MF-050
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / open question -->
+
+**Question:** What establishment did the Young family remember as Raye and Floyd LaFarlette's **Town Club** when Sheila was about ten, and were they owners, operators and/or liquor licensees? Was it the documented 1940s **South Powers Town Club House**, or a different Coos County business?
+
+**Current state:** **UNVERIFIED LEAD / RETRIEVAL GAP.** No public online 1953–57 source recovered in the 6 Sep. pass directly connects LaFarlette to the Town Club name. Existing March 1954 evidence places Raye at the Coquille Hotel coffee shop and Floyd at Coos Bay Lumber Company; preserved licensing controls `S-278` / `E-251` identify late-1954/1955 County Court and OLCC records as the decisive next source.
+
+**Next action:** `MF-050`; request `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`. Do not merge the South Powers Town Club House with the remembered business without a direct identity/ownership/license bridge.

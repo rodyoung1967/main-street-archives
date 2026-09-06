@@ -2462,3 +2462,15 @@ Claims:
 - The South Powers Town Club House is a documentary candidate for Rodney Young's separate Town Club family recollection, but no LaFarlette ownership/operation bridge has been established.
 Classification: **DOCUMENTED / DIRECT for the printed source statements; STRONG CROSS-SOURCE INFERENCE for same-site Midway → Myrtle Lodge continuity; UNVERIFIED LEAD for any LaFarlette ↔ South Powers Town Club House connection.**  
 Confidence: **Very High for Coaledo locality; exact modern parcel unresolved.**
+
+## E-251 — 1954-1955 liquor-renewal notices define the direct licensing-record route for the Town Club hypothesis
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / evidence -->
+Source: `S-278`  
+Type: Primary newspaper page scans; OCR/text discovery with original PDFs preserved  
+Claims:
+- The 9 Dec. 1954 *Coquille Valley Sentinel* reports that renewal forms had been sent to **166 Coos County retail licensees** and that 1955 renewals should bear approval of the local governing body, city council or county court.
+- The 7 Dec. 1955 *Medford Mail Tribune* reports a contemporaneous OLCC renewal-action window following investigation involving Coos County and says **28 renewal applications statewide** were rejected.
+- Neither preserved page, in the text recovered during this pass, identifies Raye/Floyd LaFarlette or a Town Club license.
+- These controls make the late-1954/1955 County Court approval record and OLCC renewal/Commission records the highest-value next source for testing the family Town Club ownership lead.
+Classification: **OCR/TEXT ONLY / RECORD-ROUTE CONTROL; NO TOWN CLUB OWNERSHIP CLAIM.**  
+Confidence: **High for research-route selection; Town Club/LaFarlette identity remains unresolved.**

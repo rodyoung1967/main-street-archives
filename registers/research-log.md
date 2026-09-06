@@ -847,3 +847,14 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 <!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / research log -->
 
 Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-250`. The combined record fixes Myrtle Lodge at **Coaledo on historic U.S. 101**, creates `BUS-102` for Myrtle Lodge / former Club Midway, and retains the exact modern parcel as unresolved. Rodney Young's separate family recollection of a LaFarlette-owned **Town Club** around Sheila's age ten is preserved as an unverified lead. A South Powers Town Club House existed in 1946–48, but no LaFarlette bridge is established. No 503/505 building or Oregon City timeline claim was changed by this off-site finding.
+
+## 6 September 2026 — LaFarlette Town Club 1953–57 licensing-route pass
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / research log -->
+
+- Ran targeted online searches for Town Club / Town Club House / South Powers / Powers / Coquille / Myrtle Point combined with LaFarlette variants across 1953–57, prioritizing 1954–55.
+- No direct online source recovered tying Raye or Floyd to a Town Club; result retained as **RETRIEVAL GAP / bounded search coverage**, not negative evidence.
+- Existing `S-271` / `E-245` supplies a 11 Mar. 1954 current-state control: Raye at the Coquille Hotel coffee shop, Floyd at Coos Bay Lumber Company, Sheila age 9.
+- Preserved two liquor-renewal route-control pages as `S-278` / `E-251` under `newspapers/town-club-lafarlette-licensing-controls/`; classification remains **OCR/TEXT ONLY / ORIGINAL PDF PRESERVED** for this integration.
+- Official Coos County inventory confirms 1947–2001 County Court Journal Index and County Court Journal through 1965, with administrative journals capable of containing liquor-license actions.
+- Created **MF-050** and the ready-to-send Coos County Clerk / Oregon State Archives request `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor-business-record-request-2026-09-06.md`.
+- No Town Club business ID was created because identity, location, commercial status and LaFarlette relationship remain unresolved.

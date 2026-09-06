@@ -2331,3 +2331,15 @@ Manifest: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/manifest.jso
 Related evidence/business: `E-250`; `BUS-102`.  
 Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
 Classification: **PRIMARY SOURCE BATCH — DIRECT printed location/name evidence; exact modern parcel unresolved.**
+
+## S-278 — 1954-1955 Oregon liquor-license renewal controls for Coos County Town Club research
+<!-- LaFarlette Town Club licensing route — 2026-09-06 / source -->
+Type: Primary newspaper page scans preserved in-repository; text/OCR reviewed, not scan-certified in this integration.  
+Pages: *Coquille Valley Sentinel*, 9 Dec. 1954 p.3; *Medford Mail Tribune*, 7 Dec. 1955 p.7.  
+Preserved originals: `newspapers/town-club-lafarlette-licensing-controls/`  
+Manifest: `newspapers/town-club-lafarlette-licensing-controls/manifest.json`  
+Retrieval commit: `b90301065950e8b9ee1a55c40ab312e5c6d711c1`  
+Related evidence: `E-251`.  
+Related manual callout: `MF-050`.  
+Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
+Classification: **OCR/TEXT ONLY / ORIGINAL PDF PRESERVED — licensing-record route controls, not a Town Club or LaFarlette license identification.**
