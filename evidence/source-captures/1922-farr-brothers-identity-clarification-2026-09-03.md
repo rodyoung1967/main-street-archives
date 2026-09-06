@@ -34,3 +34,8 @@ Therefore:
 ## Research handling
 
 No new source/evidence ID or person/business merge is created by this checkpoint because its function is to preserve a bounded anti-conflation decision using an official secondary identity source, not to create a new 501/503/505 occupancy assignment. Existing Farr's Pool Hall and 1922 billiards records remain authoritative for their own claims.
+
+## 25 May 1917 direct business-type control
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+`E-253` / `S-280` adds an earlier primary control: the *Oregon City Enterprise* market column directly calls **Farr Brothers** a **Meat market**. It prints no address or individual proprietor. This strengthens the grocery/meat identity and supports stable business `BUS-104` while reinforcing—not weakening—the no-merge rule with Edwin/Alice Farr and Farr's Pool Hall at 505.

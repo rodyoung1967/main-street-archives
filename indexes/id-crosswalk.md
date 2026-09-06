@@ -671,3 +671,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Person | Business | Evidence / source | Building relationship |
 | --- | --- | --- | --- |
 | `P-396` W. S. Eddy | `BUS-103` Fashion Stable | 1915 `E-112`/`S-124`, `E-114`/`S-128`; April 1917 `E-252`/`S-279` | No numbered building assigned. 1915 relative location Fifth between Main/Water; April 1917 Main between Fourth/Fifth. No 110 Fifth or 427 Main bridge. |
+
+## S-280 / E-253 — May 1917 Enterprise closeout
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+- `B-018` — 106 Fifth exact-address National Guard enlistment use, 25 May 1917.
+- `P-396` / `BUS-103` — W. S. Eddy / Fashion Stable Main-between-Fourth/Fifth observation extended through 25 May.
+- `BUS-104` — Farr Brothers Store / Meat Market; 25 May 1917 direct meat-market wording, later official 919 7th / Clarence Farr context; separate from `BUS-013` 505 Main.
+- `T-094` — dated 106 Fifth timeline event.

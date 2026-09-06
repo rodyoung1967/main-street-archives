@@ -2358,3 +2358,12 @@ Recovery commit: `1cc5060d2d5b198f6f8a27930ffff702abfd8347`
 Related evidence: `E-252`. Manual callout: `MF-051`.  
 Capture: `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md`.  
 Notes: 13 April seq-8 visibly prints PAGE 6 and a Thursday masthead with altered/obscured date, while normal seq-6 is already Friday Page 6. True printed Page 8 remains unrecovered. April directly advances W. S. Eddy/Fashion Stable to Main between Fourth and Fifth, differing from the 1915 Fifth-between-Main-and-Water location. No exact target-number occupant was established.
+
+## S-280 — Oregon City Enterprise, May 1917 complete scan-first visual-review batch
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
+Issue dates: 4, 11, 18 and 25 May 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-25/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-may/`; manifest `newspapers/oregon-city-enterprise/1917-may/manifest.json`; retrieval commit `048e4f847c9749889fa377c51ee47196fe2cea6f`.  
+Evidence: `E-253`; capture: `evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md`.  
+Notes: Direct 106 Fifth National Guard enlistment use; W. S. Eddy/Fashion Stable continuation; Farr Brothers Meat market wording. No exact target Main occupant.

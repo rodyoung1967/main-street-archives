@@ -178,4 +178,11 @@ These records were already part of the evidence narrative but previously lacked 
 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
-| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; April 1917 Main between Fourth/Fifth; no number | Multi-date relative-location chronology through W. S. Eddy; possible move/location-wording change. No 110 Fifth, 427 Main, or target-frontage assignment. `E-252` / `S-279`. |
+| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–25 May 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. May ads extend direct observation through 25 May. `E-252` / `S-279`; `E-253` / `S-280`. |
+
+## May 1917 Enterprise business promotion
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+| ID | Business | Address / location | Notes |
+| --- | --- | --- | --- |
+| BUS-104 | [Farr Brothers Store / Meat Market](farr-brothers-store.md) | 1917 exact address unresolved; official Farr Store context is 919 7th | 25 May 1917 directly says **Farr Brothers Meat market**; 1922 primary sources say Grocers/Butchers. Official City history links the store to Louis/Clarence Farr. Strictly separate from Edwin/Alice Farr and 505 Main pool hall. `E-253` / `S-280`. |

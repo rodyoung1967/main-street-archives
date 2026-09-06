@@ -168,6 +168,7 @@ Notes: Direct 106 Fifth National Guard enlistment use; W. S. Eddy/Fashion Stable
 append_once("evidence/evidence-register.md", f'''## {EID} — May 1917 Enterprise closes 32-page batch and establishes 106 Fifth enlistment use
 <!-- {MARKER} -->
 Source: `{SID}`  
+Type: Primary newspaper visual review  
 Claims:
 - all **32/32 May scans** are visually verified genuine intended-date pages;
 - Enterprise cumulative coverage is **168 genuine pages through May**, with 246 exposed June–December slots remaining;
@@ -190,7 +191,7 @@ if not re.search(rf"(?m)^  - id: {re.escape(EID)}$", text):
 
 # New 106 Fifth address/building record.
 if not (ROOT / BUILDING).exists():
-    w(BUILDING, f'''# 106 Fifth Street\n\nBuilding/address ID: `{BID}`.\n\n## Direct evidence\n\nA visually verified **25 May 1917 Oregon City Enterprise** article states that Oregon National Guard **“enlistments are being received at 106 Fifth street”** (`{EID}` / `{SID}`). This establishes a dated exact-address recruiting/enlistment use.\n\n## Limits\n\nOwner, ordinary tenant, exact room, parcel, footprint, construction date, physical fabric, continuity and duration are unresolved. Do not merge 106 Fifth with 107/108/109/110 Fifth, Fashion Stable, or any Main Street target solely from this evidence.\n\n## Audit history\n\nThe 29 August entity audit did not create 106 Fifth because no direct exact-address use had then been recovered. `{EID}` supplies that missing direct observation; the old audit wording is retained as historical process documentation.\n''')
+    w(BUILDING, f'''# 106 Fifth Street\n\nBuilding ID: `{BID}`.\n\n## Direct evidence\n\nA visually verified **25 May 1917 Oregon City Enterprise** article states that Oregon National Guard **“enlistments are being received at 106 Fifth street”** (`{EID}` / `{SID}`). This establishes a dated exact-address recruiting/enlistment use.\n\n## Limits\n\nOwner, ordinary tenant, exact room, parcel, footprint, construction date, physical fabric, continuity and duration are unresolved. Do not merge 106 Fifth with 107/108/109/110 Fifth, Fashion Stable, or any Main Street target solely from this evidence.\n\n## Audit history\n\nThe 29 August entity audit did not create 106 Fifth because no direct exact-address use had then been recovered. `{EID}` supplies that missing direct observation; the old audit wording is retained as historical process documentation.\n''')
 text = r("database/buildings.yml")
 if not re.search(rf"(?m)^  - id: {re.escape(BID)}$", text):
     text = text.rstrip() + f'''\n\n  - id: {BID}\n    name: 106 Fifth Street (historic National Guard enlistment address)\n    address: 106 Fifth Street, Oregon City, Oregon\n    repository_file: {BUILDING}\n    notes: "25 May 1917 Enterprise directly states National Guard enlistments were received at 106 Fifth. Dated recruiting use only; owner, ordinary tenant, parcel, footprint and physical continuity unresolved."\n    related_evidence: [{EID}]\n    related_sources: [{SID}]\n'''
@@ -278,4 +279,23 @@ append_once("evidence/research-leads.md", f'''## 6 September 2026 — Enterprise
 append_once("registers/research-log.md", f'''### 2026-09-06 — closed May 1917 Oregon City Enterprise\n<!-- {MARKER} -->\n- Visually verified **32/32 genuine May pages**; no May source-association gap.\n- Enterprise cumulative genuine coverage: **168 pages through May**; **246 June–December slots remain**.\n- Added `{BID}` for direct 25 May **106 Fifth Street** National Guard enlistment use.\n- Extended `P-396` / `BUS-103` Fashion Stable through 25 May.\n- Added `{BUS}` Farr Brothers Store / Meat Market from direct 1917 meat-market wording plus existing 1922/official identity context; no Edwin/Alice/505 merge.\n- No exact 501/503/505/507/509/511 Main occupant established in May; no vacancy inference.''')
 
 # Canonical annual status row.
-yr = r("registers/year-status.md")n
+yr = r("registers/year-status.md")
+newrow = f'| 1917 | **IN PROGRESS** | `evidence/source-captures/1917-closeout.md`; `{CAPTURE}` | *Courier*: all 52 issue dates inventoried, **435 genuine pages visually verified**, true 13 Dec p21 unresolved. *Oregon City Enterprise*: **168 genuine intended-date pages through May**; 170 Jan-May archive slots inspected, with true 16 Mar p5 and true 13 Apr p8 retrieval gaps; **246 June-Dec exposed slots remain**. May adds direct 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and promotes separate Farr Brothers meat/grocery business (`{BUS}`); no target-frontage occupant. Title-calendar reconciliation, Sohns & Woodbeck Oregon City directory section, and other source-class closeout remain unresolved. |'
+pattern = r'^\| 1917 \| \*\*IN PROGRESS\*\* \|.*$'
+newyr, count = re.subn(pattern, newrow, yr, count=1, flags=re.M)
+if count != 1:
+    raise SystemExit('Could not update canonical 1917 year-status row')
+w('registers/year-status.md', newyr)
+
+ai = r('ARCHIVE_INDEX.md')
+ai_new, n = re.subn(
+    r'^- \*\*1917 — IN PROGRESS:\*\*.*$',
+    f'- **1917 — IN PROGRESS:** Courier 435 genuine pages with true 13 Dec p21 unresolved; Enterprise **168 genuine intended-date pages through May**, with true 16 Mar p5 and 13 Apr p8 gaps and **246 June–December exposed slots remaining**. May adds exact 106 Fifth enlistment use (`{BID}`), extends W. S. Eddy/Fashion Stable through 25 May, and strengthens separate Farr Brothers meat/grocery identity (`{BUS}`).',
+    ai,
+    count=1,
+    flags=re.M,
+)
+if n:
+    w('ARCHIVE_INDEX.md', ai_new)
+
+print(f'May closeout integration finished: {SID} {EID} {BID} {BUS} {TID}')

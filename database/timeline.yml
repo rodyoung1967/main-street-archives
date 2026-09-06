@@ -961,3 +961,11 @@ timeline:
     related_businesses: [BUS-100, BUS-101, BUS-032, BUS-047, BUS-087]
     related_buildings: [B-016]
 
+  - id: T-094
+    date: "25 May 1917"
+    summary: "Oregon City Enterprise directly states that Oregon National Guard enlistments are being received at 106 Fifth Street; dated recruiting use only, not owner/ordinary tenant or physical continuity."
+    confidence: "Very High for exact-address published wording; property/building relationships unresolved"
+    related_evidence:
+      - E-253
+    related_buildings:
+      - B-018

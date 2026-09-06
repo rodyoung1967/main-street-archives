@@ -107,3 +107,10 @@ Newton's saved Quality restaurant is reported across the way from the laundry (`
 - `E-252` / `S-279` places **W. S. Eddy / Fashion Stable on Main Street between Fourth and Fifth** repeatedly in April 1917.
 
 Both are relative-location evidence. No numbered building record is created. Test a move or changed premises/entrance before mapping Fashion Stable to 110 Fifth, 427 Main, or another address.
+
+## 25 May 1917 — 106 Fifth exact-address anchor
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+| Address | Building ID | Primary page | Related evidence | Established use / limits |
+| --- | --- | --- | --- | --- |
+| **106 Fifth Street** | `B-018` | `buildings/106-fifth.md` | `E-253` / `S-280` | Oregon National Guard enlistments received here on 25 May 1917. Owner, ordinary tenant, parcel, footprint and physical continuity unresolved. |

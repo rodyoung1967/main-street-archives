@@ -2490,3 +2490,17 @@ Claims:
 - No defensible exact **501/503/505/507/509/511 Main** occupant and no new exact 427 Main occupant was established on the 31 genuine intended-date pages.
 Classification: **DOCUMENTED / DIRECT** for visible page identity, relative-location wording, transfer, parade and expenditure wording; **STRONG CROSS-SOURCE IDENTITY** for W. S. Eddy/Fashion Stable across 1915 and 1917; **RETRIEVAL GAP** for true 13 April Page 8; **NO-MERGE / COVERAGE RESULT ONLY** for the guarded identities and target no-hit.  
 Confidence: **Very High** for the direct scan readings and page conflict; no exact move date, numbered Fashion Stable premises, vacancy or target occupancy is inferred.
+
+## E-253 — May 1917 Enterprise closes 32-page batch and establishes 106 Fifth enlistment use
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+Source: `S-280`  
+Type: Primary newspaper visual review  
+Claims:
+- all **32/32 May scans** are visually verified genuine intended-date pages;
+- Enterprise cumulative coverage is **168 genuine pages through May**, with 246 exposed June–December slots remaining;
+- 25 May p8 directly states National Guard enlistments are received at **106 Fifth street** (`B-018`);
+- 4/11/18/25 May p7 ads extend W. S. Eddy/Fashion Stable at Main between Fourth/Fifth through 25 May;
+- 25 May p6 directly calls Farr Brothers a **Meat market**, without an address or named individual proprietor;
+- no exact 501/503/505/507/509/511 Main or new 427 Main occupant was established.
+Classification: **DOCUMENTED / DIRECT** for page identity, 106 Fifth, Fashion Stable and Farr Brothers business type; **COVERAGE RESULT ONLY** for no target-address hit.  
+Confidence: **Very High**, with identity/building-continuity limits preserved.

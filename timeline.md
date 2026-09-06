@@ -568,3 +568,10 @@ A visually verified *Oregon City Courier* advertisement (`S-247` / `E-221`) give
 Repeated *Oregon City Enterprise* professional ads place **W. S. Eddy (`P-396`) at Fashion Stable (`BUS-103`), between Fourth and Fifth on Main Street** (`E-252` / `S-279`). The archive's 1915 direct evidence had placed W. S. Eddy/Fashion Stable on **Fifth Street between Main and Water** (`E-112`, `E-114`). Treat this as a dated relative-location change supporting a possible move or changed premises/location wording, not as an exact move date or numbered-building assignment. It does not identify W. S. Eddy with W. B. Eddy's Store at 427 Main.
 
 The same April batch reports a preparedness parade beginning at **Fifth and Main** with Henry Strebig leading the line; civic/intersection context only. True 13 April printed Page 8 remains a retrieval gap under `MF-051`.
+
+## 25 May 1917 — T-094: National Guard enlistments at 106 Fifth
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+A visually verified *Oregon City Enterprise* article directly states that Oregon National Guard **enlistments are being received at 106 Fifth street** (`S-280` / `E-253`; `B-018`). This establishes a dated recruiting use, not property ownership, ordinary tenancy or physical continuity.
+
+The May batch also extends **W. S. Eddy / Fashion Stable (`P-396` / `BUS-103`) at Main between Fourth and Fifth through 25 May** and directly calls **Farr Brothers (`BUS-104`) a Meat market** without an address. Neither result establishes a 501/503/505 occupant.

@@ -115,3 +115,10 @@ This page-coverage decision does not remove any entity from the canonical indexe
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
 April 1917 Enterprise review converts W. S. Eddy / Fashion Stable from peripheral relative-location mentions into a **multi-date, location-conflict-heavy chronology**, meeting this audit's promotion rule. Added person `P-396` and business `BUS-103` with standalone pages and YAML/index synchronization. No building ID is created because neither the 1915 nor 1917 notice prints an exact number.
+
+## 6 September 2026 follow-up — 106 Fifth and Farr Brothers promotion
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+The earlier audit correctly withheld **106 Fifth** because no direct exact-address use had then been recovered. May 1917 `S/E` evidence (`S-280` / `E-253`) now directly states National Guard enlistments were received at 106 Fifth, so address record `B-018` is added. The earlier wording remains in place as audit history.
+
+The same May source directly calls **Farr Brothers** a **Meat market**. Combined with 1922 primary Grocers/Butchers evidence and official City Farr Store identity/location context, the business now meets the archive threshold for stable business `BUS-104`. No 505/Edwin/Alice Farr merger is made.

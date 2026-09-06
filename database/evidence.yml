@@ -3773,3 +3773,16 @@ evidence:
     confidence: "Very High for direct scan readings; location-change and identity limits preserved."
     related_sources: [S-279]
 
+  - id: E-253
+    name: "May 1917 Enterprise closes 32-page batch and establishes 106 Fifth enlistment use"
+    type: "Primary newspaper visual review"
+    date: "1917-05-04 through 1917-05-25"
+    claims:
+      - "All 32 May pages visually verified."
+      - "Enterprise cumulative genuine coverage: 168 pages through May; 246 June-December slots remain."
+      - "25 May p8 directly states National Guard enlistments are received at 106 Fifth street."
+      - "May p7 ads extend W. S. Eddy/Fashion Stable through 25 May."
+      - "25 May p6 directly calls Farr Brothers a Meat market, without address or named proprietor."
+      - "No exact target Main occupant established in May."
+    confidence: "Very High for visible wording and counts; inference limits retained."
+    related_sources: [S-280]

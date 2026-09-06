@@ -860,3 +860,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - No Town Club business ID was created because identity, location, commercial status and LaFarlette relationship remain unresolved.
 
 | 2026-09-06 | Completed gap-aware April 1917 Oregon City Enterprise audit | Inspected **32/32 exposed April slots**; **31 genuine intended-date pages**. Archive seq-8 for 13 Apr is visibly printed Page 6; true Page 8 remains `MF-051` after alternate recovery. Cumulative Enterprise genuine coverage **136 pages through April**; 278 later slots remain. Promoted W. S. Eddy `P-396` / Fashion Stable `BUS-103` because April ads move the relative location from 1915 Fifth-between-Main/Water to 1917 Main-between-Fourth/Fifth. Annie L. Farr transfer and Farr Bros expenditure contexts retained without 505/Edwin/Alice merge. No target-number occupant established. | Continue May Enterprise with printed-date/page-number audit before text backstop. |
+
+### 2026-09-06 — closed May 1917 Oregon City Enterprise
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+- Visually verified **32/32 genuine May pages**; no May source-association gap.
+- Enterprise cumulative genuine coverage: **168 pages through May**; **246 June–December slots remain**.
+- Added `B-018` for direct 25 May **106 Fifth Street** National Guard enlistment use.
+- Extended `P-396` / `BUS-103` Fashion Stable through 25 May.
+- Added `BUS-104` Farr Brothers Store / Meat Market from direct 1917 meat-market wording plus existing 1922/official identity context; no Edwin/Alice/505 merge.
+- No exact 501/503/505/507/509/511 Main occupant established in May; no vacancy inference.

@@ -432,3 +432,8 @@ Request: `registers/research-requests/coos-town-club-lafarlette-1953-1957-liquor
 New `S-279` / `E-252` evidence promotes W. S. Eddy (`P-396`) and Fashion Stable (`BUS-103`) to stable entities. Compare 1915 notices (**Fifth Street between Main and Water**) with April 1917 notices (**Main Street between Fourth and Fifth**) and search 1915–1917 move notices, directories, city licenses, stable/livery ads, fire insurance maps, and property records for the transition. Keep **W. S. Eddy**, January 1917 **W. B. Eddy's Store at 427 Main**, and earlier **A. J. Eddy** wording separate unless a contemporary source bridges them. The result may sharpen 427/Fifth geography but is not currently a 427 assignment.
 
 The same April batch leaves true 13 April printed Page 8 as retrieval gap `MF-051` and establishes no exact target-frontage occupant on the 31 genuine pages.
+
+## 6 September 2026 — Enterprise continuation after May
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+May is complete 32/32 (`S-280` / `E-253`), cumulative **168 genuine Enterprise pages through May**. Continue with **June 1/8/15/22/29 (40 exposed slots)** using printed-date/page-number audit before content promotion. Preserve the open exact 503/505 occupant question. Separately, `B-018` establishes a 106 Fifth recruiting-use anchor and `BUS-104` strengthens the non-505 Farr Brothers grocery/meat identity.

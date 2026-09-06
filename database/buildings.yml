@@ -546,3 +546,11 @@ buildings:
     related_people: [P-395]
     related_evidence: [E-247, E-249]
     related_sources: [S-273, S-276, S-275]
+
+  - id: B-018
+    name: 106 Fifth Street (historic National Guard enlistment address)
+    address: 106 Fifth Street, Oregon City, Oregon
+    repository_file: buildings/106-fifth.md
+    notes: "25 May 1917 Enterprise directly states National Guard enlistments were received at 106 Fifth. Dated recruiting use only; owner, ordinary tenant, parcel, footprint and physical continuity unresolved."
+    related_evidence: [E-253]
+    related_sources: [S-280]

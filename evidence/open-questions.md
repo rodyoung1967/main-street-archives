@@ -260,3 +260,8 @@ The downstream bracket is now materially tighter but the deed is still missing. 
 `E-252` / `S-279` leaves the true **13 April printed Page 8** unrecovered under `MF-051`; the archive's seq-8 is visibly a second Page 6 variant. The 31 genuine intended-date April pages establish no target 501/503/505/507/509/511 occupant.
 
 A separate direct finding now gives W. S. Eddy / Fashion Stable a location-change problem: 1915 evidence places the stable on **Fifth between Main and Water**, while repeated April 1917 ads place it **on Main between Fourth and Fifth**. Resolve whether the stable physically moved, the advertised office/stable relationship changed, or one relative-location wording described a different entrance/premises. Do not assign an exact number and do not merge W. S. Eddy with W. B. Eddy at 427 Main.
+
+## 6 September 2026 — May Enterprise narrowing
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+May 1917 is now 32/32 visually verified under `S-280` / `E-253`. The exact 1917 **503/505 occupant question remains unresolved**; May establishes no target Main occupant. The Fifth Street control is improved by direct **106 Fifth** enlistment use (`B-018`). Enterprise still has 246 June–December exposed slots plus the two earlier page gaps and final title-calendar reconciliation.

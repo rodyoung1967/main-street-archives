@@ -317,7 +317,7 @@ The canonical status and blockers are maintained in [registers/year-status.md](r
 
 - **1915 — IN PROGRESS:** Courier **123/123** sheets complete through year end. *Morning Enterprise* **225/428** images reviewed through 16 July page 1; **203 remain**, next 16 July page 2. Relevant Book 3 water-ledger audit and the 1915–1916 Polk Oregon City section review are complete. Other source classes and Courier exceptions M01–M04 remain.
 - **1916 — IN PROGRESS:** 104 issues / 884 pages inventoried. Courier **238/458** reviewed; Enterprise **0/426** in the exhaustive pass. Seven first-monthly June–December Courier issues are already included in the 238. **646 total newspaper pages remain**; next Courier page is 18 May page 4.
-- **1917 — IN PROGRESS:** *Courier* reaches all 52 issue dates with **435 genuine pages visually verified** and true 13 Dec p21 unresolved. *Oregon City Enterprise*: **136 genuine intended-date pages through April**; true 16 Mar p5 and 13 Apr p8 remain retrieval gaps; **278 May-Dec exposed slots remain**. April adds W. S. Eddy/Fashion Stable relative-location chronology but no target-address occupant. Sohns & Woodbeck 1916–17 Oregon City directory section remains unresolved.
+- **1917 — IN PROGRESS:** Courier 435 genuine pages with true 13 Dec p21 unresolved; Enterprise **168 genuine intended-date pages through May**, with true 16 Mar p5 and 13 Apr p8 gaps and **246 June–December exposed slots remaining**. May adds exact 106 Fifth enlistment use (`B-018`), extends W. S. Eddy/Fashion Stable through 25 May, and strengthens separate Farr Brothers meat/grocery identity (`BUS-104`).
 - **1918 — IN PROGRESS:** exact 24 October business-guide snapshot is registered as `E-124` / `S-138`; annual inventory and exhaustive page review remain unfinished.
 - **1922 — IN PROGRESS:** targeted fire/property package is integrated, but neither 501/503/505 fire model is selected and the annual review is not certified.
 
@@ -402,3 +402,10 @@ Five steward-supplied newspaper pages were reconciled by SHA-256. The 10 Oct. 19
 Primary file: `buildings/708-monroe.md` (`B-017`).
 
 A February 1946 Oregon City Commission claims record identifies the City's recreation-department rent as **C. P. Farr — 708 Monroe — $150** (`S-273` / `E-247`; **OCR/TEXT ONLY** pending scan certification). This address is retained because it closes a misleading Farr/Harr research path: it is **not evidence for 505 Main**. A separate City permit-address control strongly distinguishes 708 from the Farr Store parcel's documented **709 Monroe / 919 7th** address (`E-249`).
+
+## May 1917 Enterprise additions
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+- [`B-018` — 106 Fifth Street](buildings/106-fifth.md): 25 May 1917 direct National Guard enlistment/recruiting use; property/building continuity unresolved.
+- [`BUS-104` — Farr Brothers Store / Meat Market](businesses/farr-brothers-store.md): 25 May 1917 direct meat-market wording; later official 919 7th / Louis-Clarence Farr context; **not** Farr's Pool Hall at 505.
+- `P-396` / `BUS-103` W. S. Eddy / Fashion Stable: Main-between-Fourth/Fifth observation now extends through 25 May 1917.

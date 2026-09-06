@@ -178,11 +178,11 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-395 | [Clarence P. Farr](profiles/clarence-p-farr.md) | Oregon City Farr Brothers family / municipal C. P. Farr identity control | 1911 source directly gives **Clarence P. Farr**; later municipal `C. P. Farr` identity is a **STRONG CROSS-SOURCE INFERENCE**. February 1946 recreation rent is addressed to 708 Monroe. Keep separate from Edwin F. Farr / 505 Main. |
+| P-395 | [Clarence P. Farr](profiles/clarence-p-farr.md) | Oregon City Farr Brothers family / municipal C. P. Farr identity control | Official City history associates Clarence with Farr Brothers Store (`BUS-104`); 25 May 1917 only names Farr Brothers Meat market, not Clarence individually. Keep separate from Edwin F. Farr / 505 Main. |
 
 ## April 1917 Enterprise entity promotion
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 notices place him/Fashion Stable on Fifth between Main/Water; April 1917 ads place Fashion Stable on Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. `E-252` / `S-279`. |
+| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–25 May 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. `E-252` / `S-279`; `E-253` / `S-280`. |

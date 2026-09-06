@@ -1198,10 +1198,20 @@ people:
     related_sources: [S-274, S-275, S-273]
     related_evidence: [E-248, E-247, E-249]
     related_buildings: [B-017]
+    related_businesses:
+    - BUS-104
+    related_evidence:
+    - E-253
+    related_sources:
+    - S-280
     repository_file: people/profiles/clarence-p-farr.md
 
   - id: P-396
     name: W. S. Eddy
+    related_evidence:
+    - E-253
+    related_sources:
+    - S-280
     repository_file: people/profiles/w-s-eddy.md
     role: Veterinarian / Fashion Stable professional
     notes: >-

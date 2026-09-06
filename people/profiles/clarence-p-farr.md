@@ -15,3 +15,8 @@ Later Oregon City municipal records use **C. P. Farr**. The archive therefore tr
 The 6 March 1946 Commission claims text aligns C. P. Farr with **Rent at 708 Monroe - Rec. Dept. — $150.00** (`S-273` / `E-247`). The original claim-page image has not been visually certified, so the row remains **OCR/TEXT ONLY**.
 
 Clarence P. Farr is **not** merged with Edwin F. Farr (`P-028`), Alice Farr, Farr's Pool Hall (`BUS-013`), Carl R. Harr (`P-094`), or Harr's Recreation Center (`BUS-014`). The 708 Monroe municipal recreation premises is a separate research thread from 505 Main.
+
+## 1917 Farr Brothers business-type control
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+`E-253` / `S-280` directly calls **Farr Brothers** a **Meat market** on 25 May 1917. The page does **not** name Clarence individually. Clarence's relation to Farr Brothers Store comes from the independent official City source. Business `BUS-104` therefore links here as cross-source identity context, not a direct 25 May proprietor statement.

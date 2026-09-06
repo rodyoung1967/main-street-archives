@@ -124,3 +124,8 @@ The missing second local title has now been identified correctly as the weekly *
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
 `S-279` / `E-252` visually inspects all **32 April archive slots**, credits **31 genuine intended-date pages**, and identifies true 13 April printed Page 8 as retrieval gap `MF-051` because seq-8 is visibly a second printed Page 6 variant. Enterprise cumulative genuine coverage is **136 pages through April**; **278 May-December slots remain**. April also promotes W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`): 1917 ads place the stable on Main between Fourth/Fifth, differing from the 1915 Fifth-between-Main-and-Water location. No exact 501/503/505/507/509/511 or new 427 occupant was established.
+
+## Enterprise May audit added 6 September 2026
+<!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
+
+`S-280` / `E-253` closes May at **32/32 genuine visually verified pages** with no May page-identity gap. Enterprise cumulative coverage is **168 genuine intended-date pages through May**; the prior March/April gaps remain and **246 exposed June–December slots** are still pending. May directly establishes 106 Fifth as a National Guard enlistment location (`B-018`), extends W. S. Eddy/Fashion Stable through 25 May, and calls Farr Brothers a Meat market (`BUS-104`). No exact target Main occupant was established; silence is not vacancy evidence.
