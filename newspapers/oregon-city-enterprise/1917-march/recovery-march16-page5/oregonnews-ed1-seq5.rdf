@@ -1,0 +1,41 @@
+@base <https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/seq-5> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ndnp: <http://chroniclingamerica.loc.gov/terms#> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5#page> a ndnp:Page ;
+    ndnp:number "PAGE 5" ;
+    ndnp:sequence 5 ;
+    dcterms:issued "1917-03-16"^^xsd:date ;
+    dcterms:title "Oregon City enterprise. - 1917-03-16 - 5" ;
+    ore:aggregates </lccn/sn00063700/1917-03-16/ed-1/seq-5.jp2>,
+        </lccn/sn00063700/1917-03-16/ed-1/seq-5.pdf>,
+        </lccn/sn00063700/1917-03-16/ed-1/seq-5/ocr.txt>,
+        </lccn/sn00063700/1917-03-16/ed-1/seq-5/ocr.xml>,
+        <https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn00063700%2F00000002042%2F1917031601%2F1197.jp2/full/240,/0/default.jpg> ;
+    ore:isAggregatedBy </lccn/sn00063700/1917-03-16/ed-1#issue> ;
+    ore:isDescribedBy </lccn/sn00063700/1917-03-16/ed-1/seq-5.rdf> ;
+    foaf:depiction <https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn00063700%2F00000002042%2F1917031601%2F1197.jp2/full/240,/0/default.jpg> .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5.jp2> dc:format "image/jp2" ;
+    exif:height 6934 ;
+    exif:width 4728 .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5.pdf> dc:format "application/pdf" .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5.rdf> a ore:ResourceMap ;
+    dcterms:created "2026-09-06T17:16:29+00:00"^^xsd:dateTime ;
+    dcterms:creator <http://chroniclingamerica.loc.gov/awardees/dlc#awardee> ;
+    dcterms:modified "2026-09-06T17:16:29+00:00"^^xsd:dateTime ;
+    ore:describes </lccn/sn00063700/1917-03-16/ed-1/seq-5#page> .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5/ocr.txt> dc:format "text/plain" .
+
+</lccn/sn00063700/1917-03-16/ed-1/seq-5/ocr.xml> dc:format "text/xml" .
+
+<https://oregonnews.uoregon.edu/images/iiif/batch_oregoncitypubliclibrary_charm_ver01%2Fdata%2Fsn00063700%2F00000002042%2F1917031601%2F1197.jp2/full/240,/0/default.jpg> dc:format "image/jpeg" .
+
