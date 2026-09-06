@@ -496,10 +496,10 @@ buildings:
     name: 617 Main Street / Beaver Building address
     address: 617 Main Street, Oregon City, Oregon
     repository_file: buildings/617-main-beaver-building.md
-    notes: Electric Store and Schilling optometry are dated 1915–1916 occupants; Jones Drug Company is directly at 617 by November 1917. Shared-room arrangement, ownership and exact transition dates unresolved.
+    notes: Electric Store and Schilling optometry are dated 1915–1916 occupants; Jones Drug Company is directly at 617 Main by 15 March 1917 and again 22 March / 1 November. The 29 March Jones ad is Main Street only. Shared-room arrangement, ownership, building continuity and exact transition dates unresolved.
     related_businesses: [BUS-031, BUS-037, BUS-040]
-    related_evidence: [E-109, E-116, E-119, E-120]
-    related_sources: [S-121, S-130, S-133, S-134]
+    related_evidence: [E-109, E-116, E-119, E-120, E-227]
+    related_sources: [S-121, S-130, S-133, S-134, S-253]
 
   - id: B-014
     name: 619 Main Street / Andresen Building address

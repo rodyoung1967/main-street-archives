@@ -390,10 +390,10 @@ timeline:
 
   - id: T-032
     date: 1917 selected monthly issues
-    summary: Sample directly repeats Scripture & May at 108 Fifth, Electric Store at 619 Main, Theroux at 519 Main and Jones Drug at 617 Main. These are dated observations, not uninterrupted occupancy.
+    summary: Sample and March continuation directly repeat Scripture & May at 108 Fifth, Electric Store at 619 Main, Theroux at 519 Main and Jones Drug at 617 Main; Jones is exact at 617 by 15 March 1917 and again 22 March / 1 November. These are dated observations, not uninterrupted occupancy.
     confidence: Very High for visually verified selected dates; sampling only, year IN PROGRESS.
-    related_evidence: [E-120]
-    related_sources: [S-134]
+    related_evidence: [E-120, E-227]
+    related_sources: [S-134, S-253]
     related_businesses: [BUS-029, BUS-031, BUS-039, BUS-040]
     related_buildings: [B-008, B-011, B-013, B-014]
 

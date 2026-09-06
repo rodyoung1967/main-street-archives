@@ -553,3 +553,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-252` / `E-226` | 1917 annual audit; `S-134` / `E-120`; `S-247` / `E-221`; `S-248` / `E-222` | 8 Mar. complete issue, **10/10 pages visually reviewed**. Direct controls repeat 619 Main, 612 Main and Fifth/Main. No exact 501/503/505/507/509/511 or new 427 Main occupant established; no continuity or vacancy inference. |
+
+## S-253 / E-227 — remaining March 1917 visual review and Jones Drug 617 refinement
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-253` / `E-227` | `BUS-040`; `B-013`; `T-032`; 1917 annual audit | 15/22/29 March batch, **28/28 pages visually reviewed**. Jones Drug directly at **617 Main** on 15 and 22 March; 29 March says Main Street only. No exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |

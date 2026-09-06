@@ -211,3 +211,11 @@ CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) is cataloged **G. H. Young Store
 ## 1907/1916 CCHS MOT:P-370 Young storefront date conflict
 
 CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio Store and is cataloged at 507 Main. Structured date 1916 conflicts with the catalog statement that duplicate MOT:P-6253 is the same picture dated 1907. No transfer or occupancy date is resolved from this image alone.
+
+## March 1917 Jones Drug exact-address refinement
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+
+| Date | Address | Business | ID | Evidence | Limit |
+| --- | --- | --- | --- | --- | --- |
+| 15 Mar. 1917 | 617 Main | Jones Drug Co. | `BUS-040` | `E-227` / `S-253` | Direct ad; moves earliest integrated exact-number observation earlier than 1 Nov. Exact move day/tenancy/continuity unresolved. |
+| 22 Mar. 1917 | 617 Main | Jones Drug Co. | `BUS-040` | `E-227` / `S-253` | Direct repeated ad; dated observation only. |

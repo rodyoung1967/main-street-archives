@@ -703,3 +703,14 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Pages 5–6 are delinquent-tax-list pages; numeric entries were not misclassified as storefront addresses.
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the issue. This is bounded coverage only, not vacancy/non-use evidence.
 - Documented non-overlapping 1917 progress is now **19 complete tracked issues / 158 visually verified page images**. March 15/22/29 remain pending; 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining March 1917 Courier visual review
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+- Synced against current `main` after parallel ownership work; `S-253` / `E-227` were free at integration start and the script hard-stops on collision.
+- Visually inspected **28/28 actual page scans** for 15, 22 and 29 March 1917; source batch retrieval commit `413f0499335e7d4c21093b928038b33175bc7b6f`.
+- March is now **5 complete issues / 46 visually verified pages** including the March 1 sample and March 8 checkpoint.
+- Major direct refinement: Jones Drug Co. **617 Main Street** on 15 Mar. p2 and 22 Mar. p6. This moves the earliest integrated exact-number Jones anchor earlier than Nov. 1; exact move day, tenancy and physical succession remain unresolved.
+- 29 Mar. p9 says only Main Street; no number was backfilled from other dates.
+- Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 28 pages. This is bounded coverage only, not vacancy/non-use evidence.
+- Non-overlapping tracked 1917 progress is now **22 complete issues / 186 visually verified page images**. 1917 remains **IN PROGRESS**.

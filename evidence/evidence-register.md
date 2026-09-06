@@ -2142,3 +2142,20 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the ten-page issue. This is bounded coverage only and is not vacancy, demolition or absence evidence.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count and printed dated address anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible address wording; no occupancy-continuity inference is made.
+
+## E-227 — March 1917 continuation moves Jones Drug's exact 617 Main anchor back to 15 March and clears 28 pages
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+Source: `S-253`  
+Related building/business: `B-013` / `BUS-040`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **28 page scans** for the 15, 22 and 29 March 1917 *Oregon City Courier* issues were visually reviewed.
+- With the previously reviewed 1 and 8 March issues, March now has **5 complete issues / 46 visually verified pages**.
+- Across the non-overlapping monthly-sample, January, February and March-continuation batches, the project now documents **22 complete tracked issues / 186 visually verified pages**; this is not exhaustive annual coverage.
+- **15 March p.2** directly advertises **Jones Drug Co., 617 Main Street, Jack & Albright**; **22 March p.6** repeats the same exact-number address.
+- These scans move the earliest integrated exact-number Jones Drug observation from 1 November back to **15 March 1917**, but do not prove the exact move day, legal succession, lease, title, or uninterrupted occupancy.
+- **29 March p.9** advertises Jones Drug Company at **Main Street** without a number; that unnumbered wording is preserved separately and is not used to infer 617.
+- Selected direct controls repeat **612 Main**, **619 Main**, and **Fifth/Main** during the batch.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in these 28 pages. This is bounded coverage only and not vacancy, demolition or absence evidence.
+Classification: **DOCUMENTED / DIRECT** for the page-review count, March 15/22 Jones Drug 617 wording, and other visible dated anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected scans and printed address wording; unresolved for exact move day and physical/tenancy continuity.

@@ -3433,3 +3433,20 @@ evidence:
     confidence: "Very High for the inspected-page count and visible dated address wording; no continuity inference is made."
     related_sources: [S-252]
 
+  - id: E-227
+    name: "March 1917 continuation moves Jones Drug's exact 617 Main anchor back to 15 March and clears 28 pages"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-03-15 through 1917-03-29"
+    claims:
+      - "All 28 page scans for the 15, 22 and 29 March 1917 Courier issues were visually reviewed."
+      - "With the 1 and 8 March issues, March now has 5 complete issues / 46 visually verified pages."
+      - "The non-overlapping monthly-sample, January, February and March batches now total 22 complete tracked issues / 186 visually verified pages; this is not exhaustive annual coverage."
+      - "15 March p2 directly prints Jones Drug Co. at 617 Main Street, Jack & Albright; 22 March p6 repeats the exact 617 Main address."
+      - "The exact-number observation moves the integrated Jones Drug 617 anchor back from 1 November to 15 March 1917 without proving the move day, tenancy, title or continuous occupancy."
+      - "29 March p9 prints Jones Drug Company at Main Street without a number and is not used to infer 617."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the 28-page batch; this is bounded coverage, not vacancy or absence evidence."
+    confidence: "Very High for the inspected-page count and visible dated address wording; unresolved for exact move day and continuity."
+    related_sources: [S-253]
+    related_businesses: [BUS-040]
+    related_buildings: [B-013]
+

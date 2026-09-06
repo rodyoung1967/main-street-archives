@@ -1504,3 +1504,14 @@ sources:
     notes: "Preserved originals and manifest are under newspapers/oregon-city-courier/1917-march-unsampled/. Exact-number/intersection anchors repeat 619 Main, 612 Main and Fifth/Main; no exact 501/503/505/507/509/511 or new 427 Main occupant was established."
     related_evidence: [E-226]
 
+  - id: S-253
+    name: "Oregon City Courier, 15/22/29 March 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-15/ed-1/"
+    type: "Primary newspaper page scans; visually verified 28/28 pages"
+    date: "1917-03-15 through 1917-03-29"
+    repository_file: "evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md"
+    notes: "March 15 p2 and March 22 p6 directly print Jones Drug Co. at 617 Main Street. March 29 p9 prints Main Street without a number. Other repeated controls include 612 Main, 619 Main and Fifth/Main. No target 501/503/505/507/509/511 or new 427 Main occupant was established."
+    related_evidence: [E-227]
+    related_businesses: [BUS-040]
+    related_buildings: [B-013]
+

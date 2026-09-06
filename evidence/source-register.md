@@ -2041,3 +2041,16 @@ Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`
 Related evidence: `E-226`.  
 Capture: `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.  
 Notes: Complete visual review of the 8 March issue repeats 619 Main, 612 Main and Fifth/Main anchors. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; this is bounded coverage, not vacancy evidence.
+
+## S-253 — Oregon City Courier, 15/22/29 March 1917 complete-page visual-review batch
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **15 March 1917 (8 pages); 22 March 1917 (8 pages); 29 March 1917 (12 pages)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-15/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`  
+Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`  
+Related evidence/business/building: `E-227`; `BUS-040`; `B-013`.  
+Capture: `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.  
+Notes: 15 Mar. p2 and 22 Mar. p6 directly print Jones Drug Co. at **617 Main Street**, moving its earliest integrated exact-number observation earlier than the prior 1 Nov. sample. Selected 612 Main, 619 Main and Fifth/Main anchors recur. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; silence is not vacancy evidence.

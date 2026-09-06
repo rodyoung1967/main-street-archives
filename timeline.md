@@ -205,6 +205,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly shows **NEW & SECONDHAND
 
 ## 1917 — selected 108 Fifth, 519, 617 and 619 Main anchors
 
+### March continuation refinement
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+
+`E-227` / `S-253` moves the earliest integrated exact-number **Jones Drug Company (`BUS-040`) at 617 Main** observation back from the 1 November sample to **15 March 1917**, repeated on **22 March**. The 29 March Jones Drug ad prints only Main Street. These are dated observations; they do not prove the exact move day, lease, uninterrupted occupancy or a single physical room/building succession. March is now **5 complete Courier issues / 46 visually verified pages**; the non-overlapping tracked 1917 count is **22 issues / 186 pages**, still IN PROGRESS.
+
 The twelve-issue visual sample (`E-120` / `S-134`) directly repeats Scripture & May at **108 Fifth** in January/February, the Electric Store at **Andresen Building, 619 Main** in January, Theroux Music House at **519 Main** in October, and Jones Drug Company at **617 Main** in November. These are dated observations, not proof of uninterrupted occupancy or one-room succession. The sample is not exhaustive annual coverage; 1917 remains **IN PROGRESS**.
 
 ## 24 October 1918 — exact Fifth/Main business snapshot

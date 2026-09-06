@@ -123,3 +123,12 @@ Across the non-overlapping monthly sample plus January and February continuation
 Selected direct repetitions include the Electric Store at **619 Main**, R. L. Holman at **Fifth/Main**, an optometrist at **612 Main**, and Williams Bros. Transfer & Storage at **612 Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; this bounded result is not vacancy evidence.
 
 Across the non-overlapping monthly sample plus January, February and March-8 continuations, the documented progress count is now **19 complete tracked issues / 158 visually verified page images**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.
+
+## March 15–29 continuation — 5 September 2026
+<!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
+
+`S-253` / `E-227` visually clears **28/28 pages** of the remaining 15, 22 and 29 March *Courier* issues. Together with the already reviewed March 1 and March 8 issues, **March Courier coverage is now 5 complete issues / 46 pages visually verified**.
+
+The major chronology refinement is **Jones Drug Co. at 617 Main on 15 March p.2 and 22 March p.6**, moving the earliest integrated exact-number Jones observation earlier than the prior 1 November sample. The 29 March p.9 Jones ad says Main Street only and is not used to infer a number. Repeated 612 Main, 619 Main and Fifth/Main controls remain dated observations only.
+
+No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Across the non-overlapping monthly sample plus January–March continuations, the documented progress count is now **22 complete tracked issues / 186 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.

@@ -637,16 +637,18 @@ businesses:
   - id: BUS-040
     name: Jones Drug Company
     repository_file: businesses/jones-drug-company.md
-    address: 617 Main by 1 November 1917; Andresen Building move prospect in 1916
-    notes: June 1916 prospective move into former PRL&P/Schilling room; November 1, 1917 p3 directly prints Jones Drug Co., 617 Main Street. Exact move day and legal succession/lease terms unresolved.
+    address: 617 Main by 15 March 1917; Andresen Building move prospect in 1916
+    notes: March 15 and 22 1917 exact-address ads directly place Jones Drug Company at 617 Main; Nov 1 repeats it. June 1916 remains prospective move evidence. Exact move day, lease, succession and continuity unresolved.
     related_people: []
     related_buildings: [B-013]
     related_evidence:
     - E-119
     - E-120
+    - E-227
     related_sources:
     - S-133
     - S-134
+    - S-253
   - id: BUS-041
     name: Burmeister & Andresen jewelers
     address: Suspension-bridge corner; Andresen Building
