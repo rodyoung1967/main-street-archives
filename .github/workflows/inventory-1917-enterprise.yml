@@ -1,0 +1,113 @@
+name: Inventory 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/inventory-1917-enterprise.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before inventory
+        run: python3 scripts/validate_archive.py
+      - name: Build 1917 weekly issue/page inventory
+        run: |
+          python3 - <<'PY'
+          import datetime, json, pathlib, time
+          import requests
+
+          base = 'https://oregonnews.uoregon.edu/lccn/sn00063700'
+          out = pathlib.Path('newspapers/oregon-city-enterprise/1917-issue-inventory')
+          out.mkdir(parents=True, exist_ok=True)
+
+          session = requests.Session()
+          session.headers.update({'User-Agent':'main-street-archives research inventory'})
+
+          d = datetime.date(1917, 1, 5)
+          issues = []
+          while d.year == 1917:
+              ds = d.isoformat()
+              pages = 0
+              first_url = f'{base}/{ds}/ed-1/seq-1.pdf'
+              r = session.get(first_url, stream=True, timeout=30)
+              exists = r.status_code == 200 and 'pdf' in r.headers.get('content-type','').lower()
+              r.close()
+              if exists:
+                  for seq in range(1, 33):
+                      url = f'{base}/{ds}/ed-1/seq-{seq}.pdf'
+                      rr = session.get(url, stream=True, timeout=30)
+                      ok = rr.status_code == 200 and 'pdf' in rr.headers.get('content-type','').lower()
+                      rr.close()
+                      if not ok:
+                          break
+                      pages = seq
+                      time.sleep(0.03)
+              issues.append({'date': ds, 'weekday': d.strftime('%A'), 'exists': exists, 'pages': pages, 'issue_url': f'{base}/{ds}/ed-1/'})
+              d += datetime.timedelta(days=7)
+
+          missing_fridays = [x['date'] for x in issues if not x['exists']]
+          total_pages = sum(x['pages'] for x in issues)
+          manifest = {
+              'title': 'Oregon City Enterprise',
+              'lccn': 'sn00063700',
+              'year': 1917,
+              'method': 'Probe every Friday issue URL and sequential page PDF URL; inventory only, not visual review.',
+              'expected_fridays': len(issues),
+              'issues_found': sum(1 for x in issues if x['exists']),
+              'missing_friday_issue_urls': missing_fridays,
+              'total_exposed_pages': total_pages,
+              'issues': issues,
+          }
+          (out/'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
+
+          lines = [
+              '# 1917 Oregon City Enterprise — issue/page inventory',
+              '',
+              'Status: **INVENTORY ONLY — page counts are not visual-review counts.**',
+              '',
+              'This inventory probes the Historic Oregon Newspapers `Oregon City Enterprise` (`sn00063700`) weekly Friday issue URLs for 1917 and each exposed sequential PDF page. It does not count any page as visually reviewed.',
+              '',
+              f"- Friday dates tested: **{len(issues)}**",
+              f"- Friday issues found: **{manifest['issues_found']}**",
+              f"- Exposed page PDFs counted: **{total_pages}**",
+              f"- Missing expected Friday issue URLs: **{len(missing_fridays)}**" + (f" — {', '.join(missing_fridays)}" if missing_fridays else ''),
+              '',
+              '| Date | Pages exposed |',
+              '| --- | ---: |',
+          ]
+          for x in issues:
+              lines.append(f"| {x['date']} | {x['pages'] if x['exists'] else 'MISSING'} |")
+          lines += [
+              '',
+              '## Methodological limit',
+              '',
+              'This is a Friday-pattern inventory and must be reconciled against the archive title calendar/index before annual title certification, so an irregular non-Friday issue cannot be excluded solely from this probe. Actual scans must be visually inspected page by page before any page is marked `VISUALLY VERIFIED`.',
+          ]
+          (out/'README.md').write_text('\n'.join(lines) + '\n')
+          print(json.dumps(manifest, indent=2))
+          PY
+      - name: Validate archive after inventory
+        run: python3 scripts/validate_archive.py
+      - name: Commit inventory
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1917-issue-inventory/manifest.json newspapers/oregon-city-enterprise/1917-issue-inventory/README.md
+          if git diff --cached --quiet; then
+            echo 'No inventory changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Record 1917 Oregon City Enterprise issue inventory'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin main
