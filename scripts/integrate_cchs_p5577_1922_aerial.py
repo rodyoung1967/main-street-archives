@@ -240,7 +240,7 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for object/date/year and broad scene; **DOCUMENTED SPATIAL CONTEXT** for the target district being in frame; **UNRESOLVED** for fire/rebuild state and exact target footprints.  
 Confidence: **Very High** for catalog identity/year and broad visual geography; unresolved for precise within-year chronology and target-building detail.''')
 
-append_once("media/photo-metadata-register.md", f"### {MID} — CCHS {TARGET} 1922 aerial view of Willamette Falls and Oregon City", f'''### {MID} — CCHS {TARGET} 1922 aerial view of Willamette Falls and Oregon City
+append_once("media/photo-metadata-register.md", f"## {MID} — CCHS {TARGET} 1922 aerial view of Willamette Falls and Oregon City", f'''## {MID} — CCHS {TARGET} 1922 aerial view of Willamette Falls and Oregon City
 - Source/evidence/timeline: `{SID}` / `{EID}` / `{TID}`
 - CCHS object: **{TARGET}**
 - CCHS title: **{CATALOG["title"]}**
