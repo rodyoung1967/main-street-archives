@@ -604,3 +604,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-261` / `E-235` | 1917 annual audit; `S-134` / `E-120` | 9/16/23/30 August batch, **26/26 pages visually reviewed**. August totals 5 issues / 32 pages with the August 2 sample. Repeated 612/619 Main controls; 23 August adds 718 Main. No exact 501/503/505/507/509/511 or new 427 occupant. August 9 p.1 507/509 hits are draft identifiers, not addresses. |
+
+## S-262 / E-236 — remaining September 1917 Courier visual review
+<!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-262` / `E-236` | 1917 annual audit; `S-134` / `E-120` | 13/20/27 September batch, **24/24 pages visually reviewed**. September totals 4 issues / 32 pages with the September 6 sample. Sep. 27 directly confirms Theroux at 519 Main and Jones Drug at 617 Main; recurring 612/619 controls. No exact 501/503/505/507/509/511 or new 427 occupant; 20 Sep. apparent 505 is a bank total, not an address. |

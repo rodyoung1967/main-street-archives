@@ -2141,3 +2141,16 @@ Retrieval commit: `ba69171fdb3466baa958eae3b7d530b60ed05577`
 Related evidence: `E-235`.  
 Capture: `evidence/source-captures/1917-courier-august-09-30-visual-review-2026-09-05.md`.  
 Notes: Complete visual review repeatedly confirms dated 612 and 619 Main controls and adds 718 Main on 23 August. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Apparent 507/509 text hits on 9 August p.1 are draft-board identifiers, not addresses; no vacancy inference is made.
+
+## S-262 — Oregon City Courier, 13/20/27 September 1917 complete-page visual-review batch
+<!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **13, 20 and 27 September 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-09-13/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-september-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-september-unsampled/manifest.json`  
+Retrieval commit: `8a3bee05860be735e2af968841050cbd2aca6a39`  
+Related evidence: `E-236`.  
+Capture: `evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md`.  
+Notes: Complete visual review confirms dated 519, 612, 617 and 619 Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. The apparent 505 hit on 20 September p.2 is part of a $505,899.28 bank total, not an address; no vacancy inference is made.

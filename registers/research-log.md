@@ -780,3 +780,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 26 pages.
 - Post-review text checks produced 507/509 hits on 9 August p.1; scan/context review confirms they are draft-board identifiers attached to men, not street addresses.
 - Non-overlapping tracked 1917 progress is now **39 complete issues / 316 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — completed remaining September 1917 Courier visual review
+<!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **24/24 actual page scans** for 13, 20 and 27 September 1917. Preserved source retrieval commit: `8a3bee05860be735e2af968841050cbd2aca6a39`.
+- With the already reviewed 6 September sample, September is now **4 complete issues / 32 visually verified pages**.
+- 27 September p.2 directly confirms **Theroux Music House, 519 Main Street**; p.8 directly confirms **Jones Drug Co., 617 Main St.** Recurring controls also include 612 Main and 619 Main.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
+- Post-review text checks produced an apparent 505 on 20 September p.2; scan/context review confirms it is part of the bank total $505,899.28, not a street address.
+- Non-overlapping tracked 1917 progress is now **42 complete issues / 340 visually verified page images**. 1917 remains **IN PROGRESS**.

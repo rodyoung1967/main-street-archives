@@ -84,3 +84,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 August 09-30 Courier visual review — 2026-09-05 -->
 
 `S-261` / `E-235` completes visual review of the remaining August 9/16/23/30 *Courier* issues (**26/26 pages**). With August 2, August is now **5 complete issues / 32 pages visually verified**. The non-overlapping monthly-sample + January–August batches total **39 complete tracked issues / 316 visually verified pages**. No exact target 501/503/505/507/509/511 occupant was established in the August continuation; apparent 507/509 text hits on August 9 p.1 are draft-board identifiers rather than addresses. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.
+
+## September completion added 5 September 2026
+<!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
+
+`S-262` / `E-236` completes visual review of the remaining September 13/20/27 *Courier* issues (**24/24 pages**). With September 6, September is now **4 complete issues / 32 pages visually verified**. The non-overlapping monthly-sample + January–September batches total **42 complete tracked issues / 340 visually verified pages**. September 27 directly confirms 519 Main for Theroux Music House and 617 Main for Jones Drug; no exact target 501/503/505/507/509/511 occupant was established. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.

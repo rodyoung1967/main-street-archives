@@ -1589,3 +1589,12 @@ sources:
     notes: "Complete remaining-August Courier visual review. Dated controls repeatedly confirm 612 and 619 Main; 23 August adds 718 Main. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; 507/509 text hits on 9 August p.1 are draft-board identifiers, not addresses."
     related_evidence: [E-235]
 
+  - id: S-262
+    name: "Oregon City Courier, 13/20/27 September 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-09-13/ed-1/"
+    type: "Primary newspaper page scans; visually verified 24/24 pages"
+    date: "1917-09-13 through 1917-09-27"
+    repository_file: "evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md"
+    notes: "Complete remaining-September Courier visual review. Dated controls confirm Theroux at 519 Main and Jones Drug at 617 Main on 27 September, plus recurring 612/619 Main. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; the 20 September 505 hit is a bank total, not an address."
+    related_evidence: [E-236]
+

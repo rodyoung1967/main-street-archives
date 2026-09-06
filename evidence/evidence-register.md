@@ -2267,3 +2267,17 @@ Claims:
 - Apparent 507/509 text hits on 9 August p.1 are visibly draft-board identification numbers, not street addresses.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count, visible dated address wording and false-positive classification; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
+
+## E-236 — September 1917 continuation visually clears 24 pages and completes Courier coverage for the month
+<!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
+Source: `S-262`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **24 page scans** for the 13, 20 and 27 September 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 6 September sample, September now has **4 complete issues / 32 visually verified pages**.
+- Across the non-overlapping monthly-sample and January–September continuation batches, the project now documents **42 complete tracked 1917 Courier issues / 340 visually verified pages**; this is not exhaustive annual coverage.
+- Selected dated controls directly confirm **Theroux Music House at 519 Main** and **Jones Drug Co. at 617 Main** on 27 September, alongside recurring **612 Main** and **619 Main** controls.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 24-page batch.
+- The apparent 505 text hit on 20 September p.2 is visibly part of the bank total **$505,899.28**, not a street address.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count, visible dated address wording and false-positive classification; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
