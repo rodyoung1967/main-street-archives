@@ -1,0 +1,60 @@
+name: Integrate March 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-1917-enterprise-march.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate March Enterprise visual review and retrieval gap
+        run: python3 scripts/integrate_1917_enterprise_march.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized March integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            AGENTS.md \
+            ARCHIVE_INDEX.md \
+            MANUAL-FOLLOWUP.md \
+            database/evidence.yml \
+            database/sources.yml \
+            evidence/evidence-register.md \
+            evidence/open-questions.md \
+            evidence/research-leads.md \
+            evidence/source-register.md \
+            evidence/source-captures/1917-closeout.md \
+            evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md \
+            registers/research-log.md \
+            registers/year-status.md
+          if git diff --cached --quiet; then
+            echo 'No March integration changes.'
+            exit 0
+          fi
+          git commit -m 'Integrate March 1917 Enterprise visual audit and page gap'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push March integration after retries' >&2
+          exit 1
