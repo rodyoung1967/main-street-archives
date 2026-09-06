@@ -1,0 +1,180 @@
+{
+  "features": [
+    {
+      "attributes": {
+        "Confidence": 20,
+        "GlobalID": "{E24C8675-91B9-4FBF-A32F-CCE8391202F5}",
+        "HistDist": "",
+        "OBJECTID": 81895,
+        "RESOURCE_ID": 30539.0,
+        "SHPO_REVIEWED": 0,
+        "SOURCE": "Taxlots / Master Address",
+        "address": "505 Main St ",
+        "city": "Oregon City",
+        "county": "Clackamas",
+        "elig": "not eligible/non-contributing",
+        "ilsDate": "",
+        "nrDateListed": "",
+        "nrStat": "",
+        "origUse": "COMMERCIAL: General",
+        "planTypeDescr": "1-Part Block",
+        "primStyle": "Vernacular",
+        "propName": "505 Tavern",
+        "resource_ID_1": 30539,
+        "rlsDate": "01/19/2009",
+        "secStyle": "",
+        "sidingMat1": "Concrete: Other/Undefined",
+        "sidingMat2": "",
+        "yrBuilt": "1940"
+      }
+    }
+  ],
+  "fields": [
+    {
+      "alias": "OBJECTID",
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID"
+    },
+    {
+      "alias": "resource_ID",
+      "name": "RESOURCE_ID",
+      "type": "esriFieldTypeDouble"
+    },
+    {
+      "alias": "resource_ID_1",
+      "name": "resource_ID_1",
+      "type": "esriFieldTypeInteger"
+    },
+    {
+      "alias": "Source",
+      "length": 50,
+      "name": "SOURCE",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "Confidence",
+      "name": "Confidence",
+      "type": "esriFieldTypeSmallInteger"
+    },
+    {
+      "alias": "SHPO_REVIEWED",
+      "name": "SHPO_REVIEWED",
+      "type": "esriFieldTypeSmallInteger"
+    },
+    {
+      "alias": "propName",
+      "length": 1073741822,
+      "name": "propName",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "address",
+      "length": 1073741822,
+      "name": "address",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "city",
+      "length": 50,
+      "name": "city",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "county",
+      "length": 15,
+      "name": "county",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "yrBuilt",
+      "length": 32,
+      "name": "yrBuilt",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "origUse",
+      "length": 30,
+      "name": "origUse",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "primStyle",
+      "length": 30,
+      "name": "primStyle",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "secStyle",
+      "length": 30,
+      "name": "secStyle",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "planTypeDescr",
+      "length": 30,
+      "name": "planTypeDescr",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "sidingMat1",
+      "length": 30,
+      "name": "sidingMat1",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "sidingMat2",
+      "length": 30,
+      "name": "sidingMat2",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "elig",
+      "length": 30,
+      "name": "elig",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "ilsDate",
+      "length": 10,
+      "name": "ilsDate",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "rlsDate",
+      "length": 10,
+      "name": "rlsDate",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "nrStat",
+      "length": 30,
+      "name": "nrStat",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "nrDateListed",
+      "length": 10,
+      "name": "nrDateListed",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "HistDist",
+      "length": 30,
+      "name": "HistDist",
+      "type": "esriFieldTypeString"
+    },
+    {
+      "alias": "GlobalID",
+      "length": 38,
+      "name": "GlobalID",
+      "type": "esriFieldTypeGlobalID"
+    }
+  ],
+  "geometryType": "esriGeometryPoint",
+  "globalIdFieldName": "GlobalID",
+  "objectIdFieldName": "OBJECTID",
+  "spatialReference": {
+    "latestWkid": 6557,
+    "wkid": 102970
+  }
+}
