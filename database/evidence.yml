@@ -3622,3 +3622,16 @@ evidence:
     confidence: "Very High for the visual-review count; no continuity or vacancy inference is made."
     related_sources: [S-266]
 
+  - id: E-241
+    name: "February 1917 Enterprise visual audit clears 34 pages and reinforces the Farr identity guard"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-02-02 through 1917-02-23"
+    claims:
+      - "All 34 page scans for the four February Enterprise issues were visually reviewed; 16 February has 10 pages."
+      - "Enterprise cumulative coverage is 66/416 exposed pages; 350 remain."
+      - "612 Main St. is directly visible in optometrist advertisements on 2 and 16 February."
+      - "Farr Bros appears in county-poor expenditures and Annis L. Farr in a delinquent-tax list; neither supplies a target Main address or an identity bridge to Edwin F. Farr."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established."
+    confidence: "Very High for visible dated wording; Farr surname/business observations remain explicitly separated from later 505 history."
+    related_sources: [S-267]
+

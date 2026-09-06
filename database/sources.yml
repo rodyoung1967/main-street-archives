@@ -1634,3 +1634,12 @@ sources:
     notes: "All four January Enterprise issues, 32 pages, visually reviewed. No exact 501/503/505/507/509/511 or new 427 Main occupant established."
     related_evidence: [E-240]
 
+  - id: S-267
+    name: "Oregon City Enterprise, February 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-02/ed-1/"
+    type: "Primary newspaper page scans; visually verified 34/34 pages"
+    date: "1917-02-02 through 1917-02-23"
+    repository_file: "evidence/source-captures/1917-enterprise-february-02-23-visual-review-2026-09-06.md"
+    notes: "February Enterprise complete: 612 Main controls plus Farr Bros county-poor and Annis L. Farr tax contexts. Existing identity guard keeps these separate from the later Edwin/Alice Farr 505 pool-hall history."
+    related_evidence: [E-241]
+

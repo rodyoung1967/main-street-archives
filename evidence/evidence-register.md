@@ -2335,3 +2335,17 @@ Claims:
 - Farr-like text matches are unrelated to the later 505 Main Farr business; Roswell L. Holman is named in county-expense material without an exact target Main Street number.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count; **COVERAGE RESULT ONLY** for the no-target-address finding.  
 Confidence: **Very High** for the visual-review count; no occupancy-continuity or vacancy inference is made.
+
+## E-241 — February 1917 Enterprise visual audit clears 34 pages and reinforces the Farr identity guard
+<!-- 1917 Enterprise February visual review — 2026-09-06 -->
+Source: `S-267`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **34 page scans** for the 2, 9, 16 and 23 February 1917 *Oregon City Enterprise* issues were visually reviewed; 16 February is a 10-page issue.
+- Enterprise cumulative coverage is now **66/416 exposed pages** across eight January-February issues; **350 exposed pages remain**.
+- **612 Main St.** is directly visible in optometrist advertisements on 2 and 16 February.
+- **Farr Bros.** appears in the 16 February county-poor expenditure list and **Annis L. Farr, Oregon City** appears in the 16 February delinquent-tax list, but neither observation supplies a target Main Street address or bridges to Edwin F. Farr.
+- Existing Farr identity control places the Farr Brothers grocery/meat business on Seventh Street; these observations are not evidence that Farr's Pool Hall operated at 505 Main in 1917.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant and no new exact 427 Main occupant was established.
+Classification: **DOCUMENTED / DIRECT** for scan counts, 612 wording, Farr Bros county-account wording and Annis L. Farr tax-list wording; **IDENTITY GUARD / NO-MERGE** for their relation to later 505 Farr history; **COVERAGE RESULT ONLY** for the no-target-address finding.  
+Confidence: **Very High** for the visible dated wording; no continuity or vacancy inference is made.

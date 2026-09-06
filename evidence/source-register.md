@@ -2205,3 +2205,16 @@ Retrieval commit: `9b19733a9dc82ab617f0c461a23651a70e96e3fd`
 Related evidence: `E-240`.  
 Capture: `evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md`.  
 Notes: All 32 January scans were visually reviewed before text backstop. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Farr-like text hits are unrelated; Roswell L. Holman appears in a county-expense context without a target street number. No vacancy inference is made.
+
+## S-267 — Oregon City Enterprise, February 1917 complete-page visual-review batch
+<!-- 1917 Enterprise February visual review — 2026-09-06 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 34/34 pages** on 6 September 2026.  
+Publication: *Oregon City Enterprise*  
+Issues: **2, 9, 16 and 23 February 1917 (8, 8, 10 and 8 pages)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-02/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-february/`  
+Manifest: `newspapers/oregon-city-enterprise/1917-february/manifest.json`  
+Retrieval commit: `2947e59611eb9dce2786ac43de279f6df97b61e9`  
+Related evidence: `E-241`.  
+Capture: `evidence/source-captures/1917-enterprise-february-02-23-visual-review-2026-09-06.md`.  
+Notes: Complete February scan review. 612 Main optometrist controls recur on 2 and 16 Feb. Farr Bros appears in county-poor expenditures and Annis L. Farr in the delinquent-tax list, but existing identity evidence separates the Seventh Street Farr Brothers grocery/meat business from Edwin/Alice Farr's later 505 pool-hall question. No exact target address was established.

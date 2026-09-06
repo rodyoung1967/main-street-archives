@@ -109,3 +109,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 Enterprise January visual review — 2026-09-06 -->
 
 The missing second local title has now been identified correctly as the weekly *Oregon City Enterprise* (`sn00063700`); the Historic Oregon Newspapers digitized *Morning Enterprise* run ends in 1913. The Friday-pattern 1917 Enterprise inventory exposes **52 issues / 416 pages**. `S-266` / `E-240` visually clears all four January issues (**32/32 pages**), leaving **384 exposed Enterprise pages**. No exact target 501/503/505/507/509/511 or new 427 Main occupant was established in January. This is coverage only, not vacancy evidence. Enterprise title-calendar reconciliation and the remaining February–December scans are still required.
+
+## Enterprise February audit added 6 September 2026
+<!-- 1917 Enterprise February visual review — 2026-09-06 -->
+
+`S-267` / `E-241` visually clears all four February *Oregon City Enterprise* issues (**34/34 pages**, including the 10-page 16 February issue). Enterprise cumulative coverage is now **66/416 exposed pages**, leaving **350**. Direct 612 Main controls recur. Farr Bros county-poor and Annis L. Farr tax-list observations are retained with the existing no-merge guard: the Farr Brothers grocery/meat firm is a separate Seventh Street business and is not evidence that Edwin/Alice Farr's later 505 pool hall existed in 1917. No exact target 501/503/505/507/509/511 occupant was established.
