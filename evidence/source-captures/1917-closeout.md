@@ -59,3 +59,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
 
 `S-253` / `E-227` completes visual review of the remaining March 15/22/29 *Courier* issues (**28/28 pages**). With March 1 and 8, March is now **5 complete issues / 46 pages visually verified**. The non-overlapping monthly-sample + January + February + March batches total **22 complete tracked issues / 186 visually verified pages**. Jones Drug is directly at 617 Main by 15 March and again 22 March; this refines a neighboring address chronology but does not resolve 501/503/505. This remains partial annual coverage, not closeout certification. The 13 December true-page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.
+
+## April completion added 5 September 2026
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+
+`S-257` / `E-231` completes visual review of the remaining April 12/19/26 *Courier* issues (**24/24 pages**). With April 5, April is now **4 complete issues / 32 pages visually verified**. The non-overlapping monthly-sample + January–April batches total **25 complete tracked issues / 210 visually verified pages**. No exact target 501/503/505/507/509/511 occupant was established in the April continuation. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open, as does the rest of the annual relevant-title/page audit.

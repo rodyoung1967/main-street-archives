@@ -1543,3 +1543,13 @@ sources:
     related_buildings: [B-001]
     related_businesses: [BUS-004]
     repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: S-257
+    name: "Oregon City Courier, 12/19/26 April 1917 complete-page visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1917-04-12/ed-1/"
+    type: "Primary newspaper page scans; visually verified 24/24 pages"
+    date: "1917-04-12 through 1917-04-26"
+    repository_file: "evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md"
+    notes: "Complete remaining-April Courier visual review. Dated controls repeat 612 Main, 619 Main and Fifth/Main. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text-like numeric false positives were rejected against scan context."
+    related_evidence: [E-231]
+

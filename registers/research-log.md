@@ -723,3 +723,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - Recovered official Clackamas County BPP text naming account **P2252284 — MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)** (`S-256` / `E-230`), independently strengthening the entity/trade-name link already addressed by OLCC `E-225`.
 - Preserved the conflict that Homes.com reports later 2007/2009 purchase events while the 2010 assessment-derived page gives Maurice Shahtout a “most recent sale price” of $200,000. No clean deed-chain interpretation is made from the aggregators.
 - Added `MF-048` and a two-stage Assessment & Taxation / Recording draft for the 503 Wiitanen acquisition and conveyance deeds. No outreach was sent.
+
+### 2026-09-05 — completed remaining April 1917 Courier visual review
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs were allocated dynamically from the authoritative register maxima to avoid collision with active parallel ownership work.
+- Visually inspected **24/24 actual page scans** for 12, 19 and 26 April 1917. Preserved source retrieval commit: `f4a0007afa908fe36388157b96dad1e28037f076`.
+- With the already reviewed 5 April sample, April is now **4 complete issues / 32 visually verified pages**.
+- Repeated direct controls include **612 Main**, **619 Main**, and **Fifth/Main**.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
+- Text-layer backstop did not change the result: April 19 `505`/`617` strings are county-expenditure amounts; April 26's `509` is **509 Boss Street**.
+- Non-overlapping tracked 1917 progress is now **25 complete issues / 210 visually verified page images**. 1917 remains **IN PROGRESS**.

@@ -132,3 +132,12 @@ Across the non-overlapping monthly sample plus January, February and March-8 con
 The major chronology refinement is **Jones Drug Co. at 617 Main on 15 March p.2 and 22 March p.6**, moving the earliest integrated exact-number Jones observation earlier than the prior 1 November sample. The 29 March p.9 Jones ad says Main Street only and is not used to infer a number. Repeated 612 Main, 619 Main and Fifth/Main controls remain dated observations only.
 
 No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Across the non-overlapping monthly sample plus January–March continuations, the documented progress count is now **22 complete tracked issues / 186 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.
+
+## April 12–26 continuation — 5 September 2026
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+
+`S-257` / `E-231` visually clears **24/24 pages** of the remaining 12, 19 and 26 April *Courier* issues. Together with the already reviewed 5 April sample, **April Courier coverage is now 4 complete issues / 32 pages visually verified**.
+
+Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. A text-layer backstop was checked against the scans: target-like `505`/`617` numbers on April 19 are county-expenditure amounts, and April 26's `509` is **509 Boss Street**.
+
+Across the non-overlapping monthly sample plus January–April continuations, the documented progress count is now **25 complete tracked issues / 210 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.

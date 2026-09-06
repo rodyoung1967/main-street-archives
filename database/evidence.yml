@@ -3489,3 +3489,18 @@ evidence:
     related_buildings: [B-001]
     related_businesses: [BUS-004]
     repository_file: evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md
+
+  - id: E-231
+    name: "April 1917 continuation visually clears 24 pages and completes Courier coverage for the month"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-04-12 through 1917-04-26"
+    claims:
+      - "All 24 page scans for the 12, 19 and 26 April 1917 Courier issues were visually reviewed."
+      - "With the 5 April sample, April now has 4 complete issues / 32 visually verified pages."
+      - "The non-overlapping monthly-sample and January-April batches now total 25 complete tracked issues / 210 visually verified pages; this is not exhaustive annual coverage."
+      - "Selected dated controls repeat 612 Main, 619 Main and Fifth/Main."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the 24-page batch; this is bounded coverage, not vacancy or absence evidence."
+      - "Text-layer target-like strings on April 19 are county-expenditure amounts, and April 26's 509 is 509 Boss Street rather than 509 Main."
+    confidence: "Very High for the inspected-page count and visible dated wording; no continuity or vacancy inference is made."
+    related_sources: [S-257]
+

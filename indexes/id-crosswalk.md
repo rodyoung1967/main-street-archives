@@ -569,3 +569,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-255` / `E-229` | `B-001`, `B-002`, `P-394`, `P-007`, `P-008` | 2010 assessment-derived page names Maurice Shahtout at 503 and Richard M. & Sheila J. Wiitanen at 505; original County roll/deeds pending. |
 | `S-256` / `E-230` | `B-001`, `BUS-004` | Official County BPP account P2252284 names Maurice Enterprises Inc (The Wheel Bar & Grill); row has no address. |
 | `P-394` Maurice Shahtout | `B-001`, `BUS-004`, `E-229`, `S-255` | Named on the 2010 503 land/building assessment-derived entry; exact deed and Maurice Enterprises relationship unresolved. |
+
+## S-257 / E-231 — remaining April 1917 Courier visual review
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-257` / `E-231` | 1917 annual audit; `S-134` / `E-120` | 12/19/26 April batch, **24/24 pages visually reviewed**. April totals 4 issues / 32 pages with the April 5 sample. Repeated 612 Main, 619 Main and Fifth/Main controls; no exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |

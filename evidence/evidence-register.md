@@ -2197,3 +2197,17 @@ Claims:
 - The source does not name Maurice Shahtout personally and does not prove real-estate ownership.
 Classification: **DOCUMENTED / DIRECT** for entity-to-trade-name linkage; **NO REAL-ESTATE TITLE CLAIM**.  
 Confidence: **Very High** for the official County account/trade-name wording.
+
+## E-231 — April 1917 continuation visually clears 24 pages and completes Courier coverage for the month
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+Source: `S-257`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **24 page scans** for the 12, 19 and 26 April 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 5 April sample, April now has **4 complete issues / 32 visually verified pages**.
+- Across the non-overlapping monthly-sample and January–April continuation batches, the project now documents **25 complete tracked 1917 Courier issues / 210 visually verified pages**; this is not exhaustive annual coverage.
+- Selected dated controls directly repeat **612 Main**, **619 Main**, and **Fifth/Main**.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 24-page batch.
+- Post-review text checking did not change that result: April 19 target-like `505`/`617` strings are county-expenditure amounts, while April 26's `509` is **509 Boss Street**, not 509 Main.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated address wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.

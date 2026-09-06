@@ -2076,3 +2076,16 @@ URL: https://docs.clackamas.us/documents/drupal/9e3c9ae6-b8c8-4920-b7f5-b6012417
 Related evidence/business: `E-230` / `BUS-004`.  
 Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
 Notes: Account `P2252284` directly names **MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)** in multiple historical tax-year sections including 2013-14, 2014-15 and 2015-16. The row does not print 503 Main; address linkage is independently supplied by `S-251` / `E-225`.
+
+## S-257 — Oregon City Courier, 12/19/26 April 1917 complete-page visual-review batch
+<!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **12 April 1917 (8 pages); 19 April 1917 (8 pages); 26 April 1917 (8 pages)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-04-12/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-april-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-april-unsampled/manifest.json`  
+Retrieval commit: `f4a0007afa908fe36388157b96dad1e28037f076`  
+Related evidence: `E-231`.  
+Capture: `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.  
+Notes: Complete visual review repeats dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer false positives include county-expenditure amounts ending in 505/617 and 509 Boss Street; no vacancy inference.
