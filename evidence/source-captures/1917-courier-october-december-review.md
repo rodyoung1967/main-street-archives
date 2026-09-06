@@ -63,3 +63,8 @@ Neither newspaper silence nor water-account absence independently proves vacancy
 1. Recover the true page 21 of the 13 Dec issue from another archive derivative, microfilm, or the holding institution and inspect it visually.
 2. Recover the full Oregon City section of the 1916–1917 Sohns & Woodbeck directory.
 3. Continue parallel *Enterprise/Morning Enterprise* review only where a concrete 1917 address, business-name, transfer, or construction lead warrants it.
+
+## Year-end continuation — 5 September 2026
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+
+The later structured pass visually verifies all 8 pages of both 20 and 27 December. The 13 December conflict remains unchanged: sequences 1–20 and 22–24 are genuine, sequence 21 is dated 27 December, and the true page 21 remains a retrieval gap. The Courier audit now reaches the final 1917 issue date with 51 complete issues plus one 23/24 partial and 435 genuine pages visually verified.

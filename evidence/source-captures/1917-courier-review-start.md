@@ -204,3 +204,8 @@ Across the non-overlapping monthly sample plus January–October continuations, 
 Recurring exact controls include **612 Main** and **619 Main**. Jones Drug ads recur but those four ads do not print an exact street number; the Nov. 1 sample remains the direct November 617 Main observation. Adams Department Store's building-removal wording is directly visible by **15 November**, but remains unnumbered and is not assigned to the target block. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
 
 Across the non-overlapping monthly sample plus January-November continuations, the documented progress count is now **49 complete tracked issues / 396 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.
+
+## December year-end continuation — 5 September 2026
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+
+`S-265` / `E-239` reaches the final 1917 *Courier* issue date. Dec. 20 and 27 are **8/8 visually verified**. Dec. 13 remains **23 genuine pages verified + true page 21 retrieval gap** because archive sequence 21 is visibly dated Dec. 27. December therefore has **3 complete issues + one 23/24 partial, 47 genuine pages**. The annual Courier inventory is **52 issue dates; 51 complete + one partial; 435 genuine pages verified; one page gap**. No exact target occupant was established. 1917 remains **IN PROGRESS** under the wider relevant-title/source standard.

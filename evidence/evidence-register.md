@@ -2309,3 +2309,17 @@ Claims:
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 32-page batch.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity, demolition-location or vacancy inference is made.
+
+## E-239 — December 1917 review reaches Courier year end with one true-page retrieval gap
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+Source: `S-265`  
+Type: Primary newspaper scans; year-end issue/page audit  
+Claims:
+- **20 and 27 December 1917 are visually verified 8/8 pages each.**
+- The archive's 13 December sequence 21 is visibly dated 27 December; **23 genuine 13 December pages are visually verified and true page 21 remains a RETRIEVAL GAP**.
+- December totals **3 complete issues plus one 23/24 partial issue, 47 genuine pages visually verified of 48 expected**.
+- The tracked 1917 Courier inventory reaches all **52 issue dates: 51 complete issues + one partial, 435 genuine pages visually verified, one genuine-page gap**.
+- Dated December controls include 612 and 619 Main; Jones Drug ads on 20 and 27 December print Main Street/Oregon City but no exact number.
+- No defensible exact 501/503/505/507/509/511 or new 427 Main occupant was established in the genuine December pages reviewed.
+Classification: **DOCUMENTED / DIRECT** for inspected pages, visible headers/address wording and the sequence-21 conflict; **RETRIEVAL GAP** for true 13 December page 21; **COVERAGE RESULT ONLY** for no target-number finding.  
+Confidence: **Very High** for page counts and visible wording; no vacancy or continuity inference is made.

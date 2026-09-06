@@ -3597,3 +3597,16 @@ evidence:
     confidence: "Very High for the inspected-page count and visible dated wording; no continuity, demolition-location or vacancy inference is made."
     related_sources: [S-264]
 
+  - id: E-239
+    name: "December 1917 review reaches Courier year end with one true-page retrieval gap"
+    type: "Primary newspaper scans; year-end issue/page audit"
+    date: "1917-12-13 through 1917-12-27"
+    claims:
+      - "20 and 27 December 1917 are visually verified 8/8 pages each."
+      - "13 December has 23 genuine pages visually verified; archive sequence 21 is visibly dated 27 December and the true page remains a retrieval gap."
+      - "December has 3 complete issues plus one 23/24 partial issue, 47 genuine pages visually verified of 48 expected."
+      - "The tracked 1917 Courier inventory reaches all 52 issue dates: 51 complete issues plus one partial, 435 genuine pages visually verified, one genuine-page gap."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the genuine December pages reviewed."
+    confidence: "Very High for page counts, visible headers/address wording and gap classification; no vacancy or continuity inference."
+    related_sources: [S-265]
+

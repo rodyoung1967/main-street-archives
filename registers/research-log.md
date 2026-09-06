@@ -811,3 +811,12 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 32 pages.
 - Text extraction was used only after all scans were visually reviewed.
 - Non-overlapping tracked 1917 progress is now **49 complete issues / 396 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+### 2026-09-05 — carried 1917 Courier review through year end
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+- Preserved gap-aware December retrieval in commit `b15d41d11cd0d5749db05f207111c5c38ead85d8`.
+- Visually inspected all 8 pages of both 20 and 27 December; prior scan-certified review supplies 23 genuine pages for 13 December.
+- Confirmed again that archive 13 December sequence 21 is visibly dated 27 December; ordinary alternate-derivative/web recovery did not surface the true page.
+- Courier annual inventory now reaches 52 issue dates: 51 complete + one 23/24 partial, 435 genuine pages visually verified, one retrieval gap.
+- December controls include 612 and 619 Main. Jones Drug ads on 20/27 December say Main Street but not 617. No exact 501/503/505/507/509/511 occupant was established.
+- 1917 remains IN PROGRESS under the project-wide standard because other relevant-title/page coverage is not certified and the Sohns & Woodbeck Oregon City directory section remains unresolved.

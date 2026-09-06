@@ -99,3 +99,8 @@ Do not later summarize 1917 as proving either address vacant. The correct statem
 <!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
 
 `S-264` / `E-238` completes visual review of the remaining November 8/15/22/29 *Courier* issues (**32/32 pages**). With November 1, November is now **5 complete issues / 40 pages visually verified**. The non-overlapping monthly-sample + January-November batches total **49 complete tracked issues / 396 visually verified pages**. Recurring 612/619 Main controls continue; the unsampled Jones ads do not print exact street numbers. Adams Department Store building-removal wording is directly visible by Nov. 15 but is unnumbered and is not assigned to the target block. No exact target 501/503/505/507/509/511 occupant was established. This remains partial annual coverage, not closeout certification. The true 13 December page-21 and Sohns & Woodbeck Oregon City section gaps remain open.
+
+## December year-end Courier continuation added 5 September 2026
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+
+`S-265` / `E-239` carries the Courier audit through **27 December 1917**. Dec. 20 and 27 are 8/8 visually verified; Dec. 13 remains 23/24 genuine pages because archive sequence 21 is visibly a Dec. 27 page. The year-level Courier inventory now reaches **52 issue dates: 51 complete issues plus one partial; 435 genuine pages visually verified; one true-page retrieval gap**. No exact 501/503/505/507/509/511 occupant was established in the genuine December pages. **1917 remains IN PROGRESS** because full other-relevant-title/page certification and the Sohns & Woodbeck Oregon City directory section remain unresolved.

@@ -2180,3 +2180,15 @@ Retrieval commit: `2bc2108c331034184d81cd1b182778b486f2d705`
 Related evidence: `E-238`.  
 Capture: `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.  
 Notes: Complete visual review confirms recurring 612/619 Main controls. Jones Drug ads in these four issues print Oregon City but not an exact number; Nov. 1 remains the month's direct 617 Main observation. Adams Department Store building-removal wording is directly visible by Nov. 15 but remains unnumbered and is not assigned to the target block. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
+
+## S-265 — Oregon City Courier, 13/20/27 December 1917 year-end visual-review batch
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+Type: Primary newspaper page scans; year-end Courier review with one retrieval conflict.  
+Publication: *Oregon City Courier*  
+Issues: **13, 20 and 27 December 1917**, combined with the previously reviewed 6 December sample.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-12-13/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-december-continuation/`  
+Retrieval commit: `b15d41d11cd0d5749db05f207111c5c38ead85d8`  
+Related evidence: `E-239`.  
+Capture: `evidence/source-captures/1917-courier-december-13-27-year-end-review-2026-09-05.md`.  
+Notes: 20 and 27 December are visually verified 8/8 each. Prior and fresh review agree that 13 December has 23 genuine pages while archive sequence 21 is a 27 December page; the true page 21 remains a retrieval gap. Annual Courier inventory reaches 52 issue dates: 51 complete issues + one 23/24 partial, 435 genuine pages visually verified. No exact target occupant was established.

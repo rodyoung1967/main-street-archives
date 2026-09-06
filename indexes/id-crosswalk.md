@@ -625,3 +625,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-264` / `E-238` | 1917 annual audit; `S-134` / `E-120` | 8/15/22/29 November batch, **32/32 pages visually reviewed**. November totals 5 issues / 40 pages with the Nov. 1 sample. Recurring 612/619 controls; unsampled Jones ads lack exact numbers. Adams building-removal wording is direct by Nov. 15 but unnumbered. No exact 501/503/505/507/509/511 or new 427 occupant. |
+
+## S-265 / E-239 — December 1917 Courier year end
+<!-- 1917 December Courier year-end continuation — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-265` / `E-239` | 1917 annual audit; `S-134` / `E-120` | Dec. 20/27 8/8 each; Dec. 13 23 genuine pages + true-page-21 gap. Annual Courier: 52 issue dates, 51 complete + one partial, 435 genuine pages. No exact target occupant. |
