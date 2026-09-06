@@ -733,3 +733,10 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 24 pages.
 - Text-layer backstop did not change the result: April 19 `505`/`617` strings are county-expenditure amounts; April 26's `509` is **509 Boss Street**.
 - Non-overlapping tracked 1917 progress is now **25 complete issues / 210 visually verified page images**. 1917 remains **IN PROGRESS**.
+
+## MF-048 Ascend self-service refinement — 5 September 2026
+
+- Confirmed Clackamas County's official Ascend system accepts an eight-digit account-number search and that indexed parcel pages expose **Events** and **Sales History** with recording number, sale amount, deed/transfer type, **grantor (seller)** and **grantee (buyer)**.
+- The 503 target is account **00572650** / tax lot **2-2E-31AB-08200**. The available web-research interface could not submit the target account form or safely open an unobserved target query URL, so the actual 503 Sales History remains **uninspected** rather than a no-hit.
+- Created `evidence/source-captures/clackamas-ascend-503-sales-history-route-2026-09-05.md` and revised `MF-048` so Ascend self-service is first; Assessment & Taxation history-card / Recording outreach is fallback after the recording number(s) are identified or if older history is omitted.
+- No email, public-record request, paid search or deed-copy order was made.
