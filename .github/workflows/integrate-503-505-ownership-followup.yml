@@ -31,7 +31,6 @@ jobs:
         run: |
           git fetch origin main
           git reset --hard origin/main
-          git rev-parse HEAD > /tmp/ownership_followup_base_sha
       - name: Prepare race-safe ownership integration helper
         run: |
           python3 - <<'PY'
@@ -41,7 +40,6 @@ jobs:
           p = Path('scripts/integrate_503_505_2002_2010_ownership_followup.py')
           t = p.read_text(encoding='utf-8')
 
-          # Correct the known shorthand 505 timeline anchor before ID remapping.
           old = '''replace_once("timelines/505-main.md",
               "| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |",
               "| Tax year 2010 | Public-record-derived assessment page names **Richard M. Wiitanen & Sheila J. Wiitanen** on the 505 land/building entry and separately **505 Tavern** at 505. | **Strong secondary ownership snapshot**; original County roll/deed still pending. | `P-007`, `P-008`; `E-227`; `S-253` |\\n| 2017 | Thirsty Duck reopening / permits / Wiitanen owner line. |")'''
@@ -56,7 +54,6 @@ jobs:
           source_text = Path('evidence/source-register.md').read_text(encoding='utf-8')
           evidence_text = Path('evidence/evidence-register.md').read_text(encoding='utf-8')
           people_text = Path('people/people-index.md').read_text(encoding='utf-8')
-
           source_nums = [int(x) for x in re.findall(r'(?m)^## S-(\d{3})\b', source_text)]
           evidence_nums = [int(x) for x in re.findall(r'(?m)^## E-(\d{3})\b', evidence_text)]
           person_nums = [int(x) for x in re.findall(r'(?m)^\| P-(\d{3}) \|', people_text)]
@@ -66,9 +63,6 @@ jobs:
           new_s = [f'S-{n:03d}' for n in range(max(source_nums)+1, max(source_nums)+4)]
           new_e = [f'E-{n:03d}' for n in range(max(evidence_nums)+1, max(evidence_nums)+4)]
           new_p = f'P-{max(person_nums)+1:03d}'
-
-          # Remap every literal ID in the staged helper through placeholders so
-          # sequential source/evidence numbers cannot cascade into one another.
           mapping = {
               'S-252': new_s[0], 'S-253': new_s[1], 'S-254': new_s[2],
               'E-226': new_e[0], 'E-227': new_e[1], 'E-228': new_e[2],
@@ -80,8 +74,6 @@ jobs:
           for old_id, ph in placeholders.items():
               t = t.replace(ph, mapping[old_id])
 
-          # Keep the helper's variable names but set their values to the allocated IDs.
-          # Fix over-escaped guard regexes so they test actual Markdown IDs.
           t = t.replace('rf"^## {S252}\\\\b"', 'rf"^## {S252}\\b"')
           t = t.replace('rf"^## {S253}\\\\b"', 'rf"^## {S253}\\b"')
           t = t.replace('rf"^## {S254}\\\\b"', 'rf"^## {S254}\\b"')
@@ -99,8 +91,9 @@ jobs:
         run: python3 scripts/integrate_503_505_2002_2010_ownership_followup.py
       - name: Validate synchronized archive
         run: python3 scripts/validate_archive.py
-      - name: Publish without overwriting concurrent main
+      - name: Publish while preserving concurrent main
         run: |
+          set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
@@ -115,12 +108,19 @@ jobs:
 
           git commit -m 'Integrate 503-505 2002-2010 ownership follow-up'
 
-          base_sha="$(cat /tmp/ownership_followup_base_sha)"
-          git fetch origin main
-          remote_sha="$(git rev-parse origin/main)"
-          if [ "$remote_sha" != "$base_sha" ]; then
-            echo "Remote main advanced from $base_sha to $remote_sha; refusing to overwrite concurrent work." >&2
-            exit 1
-          fi
+          for attempt in 1 2 3; do
+            echo "Publish attempt $attempt"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              echo 'Concurrent main conflicts with ownership follow-up; aborting rather than overwriting.' >&2
+              git rebase --abort || true
+              exit 1
+            fi
+            python3 scripts/validate_archive.py
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          done
 
-          git push origin HEAD:main
+          echo 'Main continued advancing through three safe publish attempts; no overwrite attempted.' >&2
+          exit 1
