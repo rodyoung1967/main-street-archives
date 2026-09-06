@@ -42,7 +42,9 @@ replacement = r'''    def add_inline(block_text, key, values):
         return block_text[:mm.end("items")] + additions + block_text[mm.end("items"):]
 '''
 
-patched, count = pattern.subn(replacement, src, count=1)
+# Use a callable replacement so backslashes inside the injected Python source
+# are preserved literally rather than interpreted by re.sub replacement rules.
+patched, count = pattern.subn(lambda _m: replacement, src, count=1)
 if count != 1:
     raise SystemExit("Could not patch add_inline helper in January integration script")
 
