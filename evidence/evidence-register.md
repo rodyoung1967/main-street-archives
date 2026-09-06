@@ -2211,3 +2211,17 @@ Claims:
 - Post-review text checking did not change that result: April 19 target-like `505`/`617` strings are county-expenditure amounts, while April 26's `509` is **509 Boss Street**, not 509 Main.
 Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated address wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.
+
+## E-232 — May 1917 continuation visually clears 32 pages and completes Courier coverage for the month
+<!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
+Source: `S-258`  
+Type: Primary newspaper page scans; complete-page visual-review batch  
+Claims:
+- All **32 page scans** for the 10, 17, 24 and 31 May 1917 *Oregon City Courier* issues were visually reviewed.
+- With the already reviewed 3 May sample, May now has **5 complete issues / 40 visually verified pages**.
+- Across the non-overlapping monthly-sample and January–May continuation batches, the project now documents **29 complete tracked 1917 Courier issues / 242 visually verified pages**; this is not exhaustive annual coverage.
+- Selected dated controls directly repeat **612 Main**, **619 Main**, and **Fifth/Main** across the month.
+- No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in the 32-page batch.
+- Post-review text-layer checking surfaced only the same legitimate surrounding controls and did not reveal a hidden target-address hit.
+Classification: **DOCUMENTED / DIRECT** for the inspected-page count and visible dated address wording; **COVERAGE RESULT ONLY** for the no-target-number finding.  
+Confidence: **Very High** for the inspected-page count and visible wording; no occupancy-continuity or vacancy inference is made.

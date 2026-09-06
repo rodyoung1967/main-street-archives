@@ -576,3 +576,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Notes |
 | --- | --- | --- |
 | `S-257` / `E-231` | 1917 annual audit; `S-134` / `E-120` | 12/19/26 April batch, **24/24 pages visually reviewed**. April totals 4 issues / 32 pages with the April 5 sample. Repeated 612 Main, 619 Main and Fifth/Main controls; no exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |
+
+## S-258 / E-232 — remaining May 1917 Courier visual review
+<!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
+
+| Record | Links | Notes |
+| --- | --- | --- |
+| `S-258` / `E-232` | 1917 annual audit; `S-134` / `E-120` | 10/17/24/31 May batch, **32/32 pages visually reviewed**. May totals 5 issues / 40 pages with the May 3 sample. Repeated 612 Main, 619 Main and Fifth/Main controls; no exact 501/503/505/507/509/511 or new 427 occupant; no continuity/vacancy inference. |

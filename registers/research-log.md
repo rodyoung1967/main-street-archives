@@ -740,3 +740,13 @@ Reconciled five steward-supplied newspaper pages by exact SHA-256. The 10 Oct. 1
 - The 503 target is account **00572650** / tax lot **2-2E-31AB-08200**. The available web-research interface could not submit the target account form or safely open an unobserved target query URL, so the actual 503 Sales History remains **uninspected** rather than a no-hit.
 - Created `evidence/source-captures/clackamas-ascend-503-sales-history-route-2026-09-05.md` and revised `MF-048` so Ascend self-service is first; Assessment & Taxation history-card / Recording outreach is fallback after the recording number(s) are identified or if older history is omitted.
 - No email, public-record request, paid search or deed-copy order was made.
+
+### 2026-09-05 — completed remaining May 1917 Courier visual review
+<!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
+- Synced against current `main`; source/evidence IDs are allocated dynamically from the authoritative register maxima at runtime because parallel workflows remain active.
+- Visually inspected **32/32 actual page scans** for 10, 17, 24 and 31 May 1917. Preserved source retrieval commit: `9b3c9fc705a394ad3f500093335e73209544948b`.
+- With the already reviewed 3 May sample, May is now **5 complete issues / 40 visually verified pages**.
+- Repeated direct controls include **612 Main**, **619 Main**, and **Fifth/Main**.
+- No exact 501/503/505/507/509/511 or new 427 Main occupant was established in these 32 pages.
+- Text-layer backstops were run only after each issue's visual review and did not change the bounded no-target result.
+- Non-overlapping tracked 1917 progress is now **29 complete issues / 242 visually verified page images**. 1917 remains **IN PROGRESS**.

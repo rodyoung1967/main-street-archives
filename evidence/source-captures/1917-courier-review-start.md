@@ -141,3 +141,12 @@ No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Acros
 Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. A text-layer backstop was checked against the scans: target-like `505`/`617` numbers on April 19 are county-expenditure amounts, and April 26's `509` is **509 Boss Street**.
 
 Across the non-overlapping monthly sample plus January–April continuations, the documented progress count is now **25 complete tracked issues / 210 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.
+
+## May 10–31 continuation — 5 September 2026
+<!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
+
+`S-258` / `E-232` visually clears **32/32 pages** of the remaining 10, 17, 24 and 31 May *Courier* issues. Together with the already reviewed 3 May sample, **May Courier coverage is now 5 complete issues / 40 pages visually verified**.
+
+Repeated controls include **612 Main**, **619 Main**, and **Fifth/Main**. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer checking was performed only after visual review and did not reveal a hidden target-address hit.
+
+Across the non-overlapping monthly sample plus January–May continuations, the documented progress count is now **29 complete tracked issues / 242 visually verified pages**. 1917 remains **IN PROGRESS**; see `evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md`.

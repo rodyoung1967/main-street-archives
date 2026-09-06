@@ -3504,3 +3504,16 @@ evidence:
     confidence: "Very High for the inspected-page count and visible dated wording; no continuity or vacancy inference is made."
     related_sources: [S-257]
 
+  - id: E-232
+    name: "May 1917 continuation visually clears 32 pages and completes Courier coverage for the month"
+    type: "Primary newspaper page scans; complete-page visual-review batch"
+    date: "1917-05-10 through 1917-05-31"
+    claims:
+      - "All 32 page scans for the 10, 17, 24 and 31 May 1917 Courier issues were visually reviewed."
+      - "With the 3 May sample, May now has 5 complete issues / 40 visually verified pages."
+      - "The non-overlapping monthly-sample and January-May batches now total 29 complete tracked issues / 242 visually verified pages; this is not exhaustive annual coverage."
+      - "Selected dated controls repeatedly confirm 612 Main, 619 Main and Fifth/Main."
+      - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the 32-page batch; this is bounded coverage, not vacancy or absence evidence."
+    confidence: "Very High for the inspected-page count and visible dated wording; no continuity or vacancy inference is made."
+    related_sources: [S-258]
+

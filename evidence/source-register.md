@@ -2089,3 +2089,16 @@ Retrieval commit: `f4a0007afa908fe36388157b96dad1e28037f076`
 Related evidence: `E-231`.  
 Capture: `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.  
 Notes: Complete visual review repeats dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer false positives include county-expenditure amounts ending in 505/617 and 509 Boss Street; no vacancy inference.
+
+## S-258 — Oregon City Courier, 10/17/24/31 May 1917 complete-page visual-review batch
+<!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.  
+Publication: *Oregon City Courier*  
+Issues: **10, 17, 24 and 31 May 1917 (8 pages each)**.  
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-05-10/ed-1/  
+Preserved originals: `newspapers/oregon-city-courier/1917-may-unsampled/`  
+Manifest: `newspapers/oregon-city-courier/1917-may-unsampled/manifest.json`  
+Retrieval commit: `9b3c9fc705a394ad3f500093335e73209544948b`  
+Related evidence: `E-232`.  
+Capture: `evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md`.  
+Notes: Complete visual review repeatedly confirms dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text checking was only a post-review backstop and no vacancy inference is made.
