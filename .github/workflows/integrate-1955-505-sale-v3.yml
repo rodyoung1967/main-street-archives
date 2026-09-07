@@ -1,0 +1,33 @@
+name: Integrate 1955 505 sale visual review v3
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/trigger-1955-505-sale-integration.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply verified 1955 sale-page integration
+        run: python3 .github/scripts/integrate_1955_sale_visual.py
+      - name: Remove final temporary trigger and v3 workflow
+        run: |
+          git config user.name 'main-street-archive-bot'
+          git config user.email '49879113+rodyoung1967@users.noreply.github.com'
+          git pull --rebase origin main
+          rm -f .github/workflows/integrate-1955-505-sale-v3.yml .github/trigger-1955-505-sale-integration.txt
+          python3 scripts/validate_archive.py
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'Remove temporary 1955 sale integration tooling'
+            git push origin HEAD:main
+          fi
