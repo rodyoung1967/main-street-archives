@@ -2535,3 +2535,19 @@ Limits:
 - `S-282` does **not** name Albert Flor, Margaret Remus, Raye LaFarlette/Grisham, or any proprietor/licensee.
 - The cross-source bracket does **not** prove Flor owned The Wheel, renamed Kwality Cafe, sold the business, or sold it to Raye.
 Classification: **DOCUMENTED / DIRECT** for the 22 August 1958 Wheel name/address/phone; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.
+
+## E-256 — Wheel Cafe & Lounge at exact 503 Main by 16 May 1958
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+Source: `S-283`  
+Related building/business: `B-001` / `BUS-004`  
+Type: Primary newspaper advertisement  
+Claims:
+- On **16 May 1958**, the visually inspected page directly advertises **WHEEL CAFE & LOUNGE** in an Oregon City business guide.
+- The advertisement directly prints **503 Main St.** and **Ph: 9106**.
+- This supersedes 22 August 1958 (`E-255` / `S-282`) only as the archive's **earliest currently recovered exact-number Wheel advertisement**; the August source remains valid later corroboration.
+- Paired with `E-032`, the unresolved Flor/Kwality → Wheel transition is now bracketed from the 1957 Flor same-address control to no later than **16 May 1958**.
+Limits:
+- The advertisement does not name a proprietor, owner, licensee, seller, buyer, predecessor, or change-of-management event.
+- A visually inspected 9 May issue page carries a **Gresham**, not Oregon City, business guide; its silence cannot be used as a negative opening boundary.
+Confidence: **Very High / DOCUMENTED-DIRECT for 16 May 1958 name/address/phone; transition unresolved.**  
+Classification: **DOCUMENTED / DIRECT** for 16 May 1958 name/address/phone; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.

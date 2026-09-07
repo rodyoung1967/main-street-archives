@@ -85,7 +85,7 @@ Current route: https://www.oregon.gov/olcc/pages/public-records-request.aspx
 
 ### Subject
 
-**Historical licensee/trade-name lookup — Wheel Cafe, 503 Main Street, Oregon City, 1958–1967**
+**Historical licensee/trade-name lookup — Kwality / Wheel Cafe, 503 Main Street, Oregon City, 1951–1967**
 
 ### Ready-to-send body
 
@@ -101,7 +101,7 @@ Would you please determine whether OLCC still holds, has imaged/microfilmed, or 
 - **Wheel Cafe**
 - **Wheel Cafe & Lounge**
 - **503 Main Street, Oregon City, Oregon**
-- date range **1958–1967**, extending later if necessary to capture the transfer into Raye LaFarlette / Raye Grisham's ownership
+- date range **1951–1967**, with special attention to **1957 through 16 May 1958**, extending later if necessary to capture the transfer into Raye LaFarlette / Raye Grisham's ownership
 
 I am especially interested in any surviving **Licensee History Card, License Tradename Card, License File, application, renewal, transfer/change-of-ownership record, county/renewal-district licensee list, microfiche record, or predecessor series** that identifies:
 
@@ -301,3 +301,8 @@ For the Morton-side requests, add **`Al & Marge` / `Al and Marge`, `Marge Remus`
 <!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
 
 Official Oregon City Commission searchable text places **Albert D. Flor** in the City's **October 1949 claims list approved 9 November 1949**, although the payee line does not identify his business/address. When testing a Morton connection for Flor, prioritize records **before November 1949** while still checking later records for travel, former-residence, transfer, or ownership references. Do not treat the 1949 payee entry as proof that Flor already operated Kwality Cafe or 503 Main.
+
+## 7 September 2026 OLCC draft refinement — earlier Wheel endpoint
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+Before sending Request B, use the broadened **1951–1967** scope above. New visually verified evidence (`S-283` / `E-256`) places **Wheel Cafe & Lounge at 503 Main by 16 May 1958**, so the decisive transfer/renewal search must include records effective before that date as well as the earlier **1951 Flor + Margaret Remus** approval and the 1953 `Al & Marge Kwality Cafe` continuity lead. This remains a draft; nothing was sent automatically.

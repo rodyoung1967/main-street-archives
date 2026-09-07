@@ -269,3 +269,8 @@ This strongly narrows the downstream 503 chain but does **not** yet prove that t
 The 503 occupancy chronology can now be bracketed more tightly. `E-032` / `S-026` places **Mr. and Mrs. Albert D. Flor** operating/managing the restaurant/cocktail bar at this address in **1957**. `E-255` / `S-282` directly advertises **WHEEL CAFE & LOUNGE, 503 Main St., phone 9106** on **22 August 1958**.
 
 This is an **occupancy/trade-name boundary, not a real-estate ownership event**. The records do not establish a property conveyance, a business sale, an assumed-name filing, or the identity of the August 1958 licensee. The exact Kwality/Flor → Wheel mechanism remains unresolved.
+
+## 16 May 1958 — occupancy/trade-name endpoint
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+`E-256` / `S-283` directly advertises **Wheel Cafe & Lounge, 503 Main St., phone 9106** on **16 May 1958**. This is an occupancy/trade-name endpoint only; it is not a real-estate conveyance, opening date, or business-sale record. `E-255` / `S-282` remains a later August corroboration.

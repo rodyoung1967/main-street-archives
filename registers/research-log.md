@@ -895,3 +895,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Added `T-095` as citywide regulatory chronology and `RL-052` to recover the enacted 1911 ordinance and 1917 amendment outcome.
 - Added context to `BUS-019` / `E-089` / the 503 unified timeline without creating a 1917 503/505 occupant or alleging any operator violation.
 - Reviewed buildings/people/businesses/open questions: no building, proprietor, person-identity or open-question status change is warranted by the citywide article.
+
+### 2026-09-07 — moved earliest recovered Wheel exact-address ad to 16 May 1958
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+- Visually inspected the **16 May 1958 p.2** Oregon City business guide and preserved the source as `S-283` / `E-256`: **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**.
+- This moves the earliest recovered exact-address Wheel advertisement back from 22 August 1958 while leaving the proprietor/licensee and Flor/Kwality transition unresolved.
+- Visually inspected the analogous **9 May p.7** guide and confirmed it is a **Gresham**, not Oregon City, business guide; no negative opening inference was made.
+- Recorded later repeat-ad controls and a July-4/June-27 source-association anomaly in `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`.
+- Cross-record propagation completed; no ownership, licensee, sale, or opening event was invented.

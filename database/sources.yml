@@ -1785,3 +1785,15 @@ sources:
     related_businesses: [BUS-004]
     related_evidence: [E-255]
     # Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06
+
+  - id: S-283
+    name: "Clackamas County News, 16 May 1958 p.2 — Wheel Cafe & Lounge at 503 Main"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088135/1958-05-16/ed-1/seq-2.pdf"
+    type: "Primary newspaper page scan"
+    date: "1958-05-16"
+    repository_file: "newspapers/clackamas-county-news/1958-05-16-p2-wheel-cafe-lounge-503-main.pdf"
+    notes: "Visually reviewed Oregon City business-guide ad: WHEEL CAFE & LOUNGE, STEAKS, 503 Main St., Ph: 9106. Earliest currently recovered exact-address Wheel advertisement; no proprietor/licensee or opening/transfer wording."
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    related_evidence: [E-256]
+    # Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07

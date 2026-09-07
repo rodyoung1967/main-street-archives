@@ -282,3 +282,8 @@ Questions to resolve:
 3. Did Flor continue under a new Wheel trade name, sell/transfer the business, or leave before another operator renamed it?
 4. If a sale occurred, who were the buyer and seller, and is either party connected to Raye LaFarlette/Grisham's later acquisition?
 5. What dated record first uses the Wheel name and what dated record last uses Kwality/Flor wording?
+
+## 7 September 2026 — Flor/Kwality → Wheel transition endpoint moved to 16 May 1958
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+`E-256` / `S-283` visually establishes **Wheel Cafe & Lounge, 503 Main, phone 9106** by **16 May 1958**, moving the earliest recovered exact-address Wheel advertisement back from 22 August. A visually inspected 9 May page carries a Gresham rather than Oregon City business guide, so it does not establish nonexistence one week earlier. Still open: who was the May 1958 proprietor/licensee, whether Flor continued under the Wheel name, and whether a rename/sale/transfer occurred before 16 May.

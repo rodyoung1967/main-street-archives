@@ -50,3 +50,8 @@ The City historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. A
 These are two documented endpoints at the same address. They make Flor the **latest currently identified named operator control before the earliest exact-number Wheel anchor**, but they do not establish the mechanism of transition.
 
 Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. Do **not** infer that Flor owned The Wheel, renamed Kwality Cafe to The Wheel, sold The Wheel, or sold it to Raye LaFarlette/Grisham. The decisive targets are the underlying 1957 `Historic Oregon City` publication, 1957–1958 liquor-license renewals/transfers, assumed-business-name filings, directories/telephone books, and contemporary sale/new-management notices.
+
+## Revised 1957 → 16 May 1958 transition boundary
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+A visually verified 16 May 1958 primary advertisement (`E-256` / `S-283`) now places **Wheel Cafe & Lounge at 503 Main, phone 9106**, earlier than the previously registered 22 August endpoint. Flor remains only the latest named 1957 same-address operator control from the City synthesis. Do not promote `P-025` to Wheel proprietor/owner or infer a Flor sale/rename from the tighter bracket.

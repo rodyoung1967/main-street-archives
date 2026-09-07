@@ -596,3 +596,8 @@ Timeline record: `T-095`. Source/evidence: `S-281` / `E-254`.
 A visually verified *Oregon City Enterprise* council report says all city pool rooms were being described as violating certain ordinance sections while the council discussed an amendment allowing pool rooms to operate **cigar stands without additional licenses**. The report says the city's strict pool-room legislation had been made in **1911**, when saloons were still operating.
 
 This is a **citywide regulatory event**, useful context for interpreting the 1912 Smith pool room at 503 and later pool-hall/cigar evidence. It is **not** evidence that Smith, Farr, Timms, a 505 operator, or any particular premises violated the ordinance or had a particular license status. The underlying 1911 ordinance text and 1917 amendment outcome remain open under `RL-052`.
+
+## 16 May 1958 — Wheel Cafe & Lounge at exact 503 Main
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+A visually verified *Clackamas County News* advertisement (`S-283` / `E-256`) directly reads **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. This moves the earliest recovered exact-address Wheel advertisement back from 22 August 1958. It does not identify the proprietor/licensee or establish an opening, rename, sale, or transfer.

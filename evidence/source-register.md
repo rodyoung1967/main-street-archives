@@ -2389,3 +2389,14 @@ Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-08-22/ed-1/seq-
 Evidence: `E-255`  
 Capture: `evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md`  
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The original page was visually reviewed during the 5–6 September 2026 ownership-bridge pass; the preserved PDF is the same archive page. The advertisement directly reads **WHEEL CAFE & LOUNGE**, **503 Main St.**, **Ph: 9106**. It does not name a proprietor, owner, licensee, seller, buyer, or predecessor.
+
+## S-283 — Clackamas County News, 16 May 1958 p.2 — Wheel Cafe & Lounge at 503 Main
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+Type: Primary newspaper page scan  
+Publication: *The Clackamas County News* (archive catalog: *Estacada's Clackamas County news.*)  
+Date/page: **16 May 1958, p. 2**  
+Repository file: `newspapers/clackamas-county-news/1958-05-16-p2-wheel-cafe-lounge-503-main.pdf`  
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-05-16/ed-1/seq-2.pdf  
+Evidence: `E-256`  
+Capture: `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The page's Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an earlier exact-address endpoint, not an opening or transfer date.

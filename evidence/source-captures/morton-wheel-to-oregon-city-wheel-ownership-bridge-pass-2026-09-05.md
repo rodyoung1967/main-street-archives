@@ -242,3 +242,10 @@ Rodney Young additionally believes **Floyd LaFarlette's trucking route stopped a
 This creates a potentially important alternative explanation for the Morton recollection: the family's Morton connection may have involved Floyd's transportation work, whether or not a long-term residence is ultimately proved. Search transportation records for Floyd directly as well as Carl A. Anderson, and search eastern Lewis County localities around Morton rather than requiring the exact city name.
 
 Do not conflate this with the documented **Coos Bay–Powers** mail/freight route. No contemporary source currently proves that the Oregon route extended to Washington or that the Washington and Oregon carrier operations were the same enterprise.
+
+## 7 September 2026 correction — earlier exact-address Wheel advertisement
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+The earlier conclusion in this capture that **22 August 1958** was the earliest recovered exact-number Wheel anchor is superseded **only on that point**. A visually verified **16 May 1958** *Clackamas County News* p.2 Oregon City business-guide advertisement directly reads **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106** (`S-283` / `E-256`). The 22 August and 28 November advertisements remain valid later corroboration.
+
+This does not establish an opening date or identify a proprietor/licensee. A visually inspected 9 May guide is for Gresham rather than Oregon City, so it cannot serve as negative evidence. Detailed backward-pass capture: `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`.

@@ -199,3 +199,8 @@ These records were already part of the evidence narrative but previously lacked 
 - `BUS-001` **Kwality Cafe lineage:** 1957 City synthesis places Mr./Mrs. Albert D. Flor at the 503 restaurant/cocktail bar; the 1953 `Al & Marge Kwality Cafe` identity remains a strong hypothesis, not direct proof.
 - `BUS-004` **The Wheel:** `S-282` / `E-255` now supplies the earliest registered exact-number primary anchor: **Wheel Cafe & Lounge, 503 Main St., phone 9106, 22 August 1958**.
 - Do not merge the endpoints into a Flor-owned Wheel or a proved Kwality→Wheel rename/sale without a direct transfer/license/trade-name record.
+
+## 7 September 2026 — Wheel exact-address date refinement
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+`BUS-004` now has a visually verified exact-address advertisement at **503 Main on 16 May 1958** (`E-256` / `S-283`), phone 9106. Treat this as the earliest currently recovered ad, not as an opening or ownership date. The 1957 Flor → Wheel transition remains unresolved.

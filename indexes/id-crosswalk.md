@@ -704,3 +704,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `T-095` | Dated citywide regulatory chronology | Not a 503/505 occupancy event |
 | `RL-052` | Underlying 1911 ordinance + 1917 amendment/outcome recovery | Online-first; ordinance lineage still unresolved |
 | `BUS-019` / `B-001` | Context for 1912 Smith “Pool Room, Cigars and Tobacco” at 503 | Does not prove compliance, violation or separate cigar-license status |
+
+## S-283 / E-256 — 16 May 1958 Wheel exact-address control
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+| Record | Links | Handling rule |
+| --- | --- | --- |
+| `S-283` / `E-256` | `B-001`, `BUS-004`; compare `P-025` / `E-032` and later `S-282` / `E-255` | Visually verified 16 May 1958 ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Earliest currently recovered exact-address ad; not an opening, proprietor, license, rename, or sale record. |

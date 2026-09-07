@@ -351,3 +351,8 @@ Under MF-052, make the **1953 T. W. Salisbury Oregon City & Vicinity Directory**
 <!-- Albert Flor 1949 Oregon City control — 2026-09-06 -->
 
 Official city text now places the exact name **Albert D. Flor** in Oregon City's October 1949 claims report approved **9 November 1949**. The business/premises are not named and the PDF could not be visually rendered. For the Morton side of MF-052, prioritize Flor searches before November 1949; for the Oregon side, continue seeking the missing record that connects the 1949 payee and 1951 Flor/Remus liquor application to Kwality Cafe / 503 Main.
+
+### MF-052 Oregon-side date refinement — Wheel documented by 16 May 1958
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+A visually verified primary advertisement now places **Wheel Cafe & Lounge at 503 Main, phone 9106, by 16 May 1958** (`S-283` / `E-256`), earlier than the prior 22 August endpoint. This does not identify the licensee/proprietor. For the Oregon-side MF-052 license-chain test, search **1951–1959**, with special attention to the 1957 renewal cycle and any change/transfer effective **before 16 May 1958**. No outreach was sent.

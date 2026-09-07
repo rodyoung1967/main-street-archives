@@ -75,3 +75,8 @@ The immediately preceding named same-address control is the City's official-seco
 **1957 — Flor restaurant/cocktail bar at 503 → by 22 Aug. 1958 — Wheel Cafe & Lounge at 503.**
 
 Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. No recovered source yet says who owned or licensed the Wheel in August 1958, whether Flor continued under the Wheel name, whether a sale occurred, or who Raye later purchased from. `P-025` is therefore retained as a predecessor/operator control and is **not** promoted to a Wheel owner/operator without a direct bridge.
+
+## 16 May 1958 — earlier exact-address Wheel anchor
+<!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
+
+`S-283` / `E-256` now preserves a visually reviewed **16 May 1958** advertisement reading **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. This supersedes `S-282` / `E-255` only as the archive's earliest recovered exact-number Wheel advertisement; the 22 August page remains valid later corroboration. The May ad names no proprietor/licensee and is **not** an opening or ownership-transfer date. The current documentary bracket is therefore **1957 Flor same-address restaurant/cocktail-bar control → by 16 May 1958 Wheel Cafe & Lounge at 503**, with the mechanism unresolved.
