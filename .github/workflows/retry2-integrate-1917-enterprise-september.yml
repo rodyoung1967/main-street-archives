@@ -1,0 +1,58 @@
+name: Retry2 September 1917 Enterprise integration
+
+on:
+  push:
+    paths:
+      - '.github/workflows/retry2-integrate-1917-enterprise-september.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Repair September integration script
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1917_enterprise_september.py')
+          lines = p.read_text().splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('SID = f"S-{max(int(x) for x in re.findall'):
+                  lines[i] = 'SID = f"S-{max(int(x) for x in re.findall(r\'(?m)^## S-(\\d{3})\\b\', src)) + 1:03d}"'
+              elif line.startswith('EID = f"E-{max(int(x) for x in re.findall'):
+                  lines[i] = 'EID = f"E-{max(int(x) for x in re.findall(r\'(?m)^## E-(\\d{3})\\b\', ev)) + 1:03d}"'
+          s = '\n'.join(lines) + '\n'
+          s = s.replace('name: "J. C. Penney Co. / The Golden Rule — Oregon City 1917"', 'name: "J. C. Penney Co. / The Golden Rule"')
+          p.write_text(s)
+          PY
+          python3 -m py_compile scripts/integrate_1917_enterprise_september.py
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate September Enterprise closeout
+        run: python3 scripts/integrate_1917_enterprise_september.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized September closeout
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No September integration changes.'
+            exit 0
+          fi
+          git commit -m 'Close September 1917 Enterprise visual audit'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
