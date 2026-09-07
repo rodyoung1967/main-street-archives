@@ -4,6 +4,10 @@ Person ID: `P-022`. Related business/address: `BUS-004`, `B-001`.
 
 Family history identifies Floyd as Raye LaFarlette's first husband and associates Floyd and Raye with **The Wheel at 503 Main**. Raye LaFarlette later used the surname Grisham; she is one person, not two operators.
 
+## Family identity and relationship chronology
+
+Rodney Young clarified on **7 September 2026** that the later **Floyd LaFarlette in Arkansas is the same Floyd LaFarlette** who was Raye's husband, not a same-name person who should be split from him. Rodney's family recollection is that **Raye and Floyd met in Memphis**, then went to **Chicago**; their exact place of marriage is not presently known. After Raye and Floyd divorced, **Floyd moved back to Arkansas**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY EVIDENCE**. These statements establish the project's identity treatment and provide discovery geography, but the meeting, marriage, divorce, and move dates still require contemporary documentary anchors.
+
 ## Pre-Wheel business record
 
 Floyd's business history is now independently documented outside The Wheel context.
