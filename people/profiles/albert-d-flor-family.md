@@ -4,7 +4,7 @@ Person ID: `P-025`. Related address: `B-001`.
 
 The City of Oregon City's historic-resource synthesis associates Mr. and Mrs. Albert D. Flor with a restaurant/cocktail-bar operation at **503 Main in 1957** (`E-032`, `S-026`).
 
-This is official secondary evidence. The underlying 1957 directory or other primary page should be recovered before expanding the operating dates, legal business name, ownership roles, or property interest.
+This is official secondary evidence. A visually reviewed City copy of the planning narrative says the 1957 Flor appearance derives from a **`Historic Oregon City` publication**, and the City's 2000 Downtown Final Report bibliography separately cites **_Historic Oregon City_ (no publisher), 1957**. Recover that underlying 1957 publication before expanding the operating dates, legal business name, ownership roles, or property interest. A 1957 directory remains independently useful for Flor/Remus/Kwality continuity but is **not established as the source** behind this City sentence.
 
 ## December 1951 liquor-license control and Morton bridge test
 <!-- Albert Flor Morton bridge pass — 2026-09-06 -->
@@ -33,6 +33,15 @@ Official Oregon City Commission searchable text for the **9 November 1949** meet
 
 This is now the earliest exact-name Oregon City control recovered for the later 503 operator, subject to identity confirmation across the 1949/1951/1957 records. It does not itself connect Flor to Kwality Cafe or 503 Main.
 
+## 1957 source provenance — `Historic Oregon City`
+<!-- Flor 1957 Historic Oregon City provenance — 2026-09-07 -->
+
+A visually inspected 2022 City mural-permit exhibit reproduces the City's 503 Main planning narrative and explicitly says the Flor-managed restaurant/cocktail bar was still at the site in **1957 when it appears in the “Historic Oregon City” publication**. The City's visually inspected 2000 Downtown Final Report bibliography independently lists **_Historic Oregon City_ (no publisher), 1957**.
+
+The Oregon Historical Society Research Library's Archives West finding aid for the **Pacific Northwest Promotional Brochures Collection, Mss 6000** places Oregon City material in **Box/Folder 16/4** and lists several related `Historic Oregon City` items (1948, circa 1954, circa 1955, and undated). None is cataloged there explicitly as the 1957 edition, so do **not** identify one of those copies as the cited 1957 item without inspection.
+
+Classification: **OFFICIAL SECONDARY / VISUALLY VERIFIED PROVENANCE** for the City narrative and bibliography; **DIRECT HOLDINGS / RETRIEVAL LEAD** for OHS Mss 6000; underlying 1957 publication remains unrecovered.
+
 ## 1957 → 22 August 1958 503 Main transition boundary
 <!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
 
@@ -40,4 +49,4 @@ The City historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. A
 
 These are two documented endpoints at the same address. They make Flor the **latest currently identified named operator control before the earliest exact-number Wheel anchor**, but they do not establish the mechanism of transition.
 
-Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. Do **not** infer that Flor owned The Wheel, renamed Kwality Cafe to The Wheel, sold The Wheel, or sold it to Raye LaFarlette/Grisham. The decisive targets are 1957–1958 liquor-license renewals/transfers, assumed-business-name filings, directories/telephone books, and contemporary sale/new-management notices.
+Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. Do **not** infer that Flor owned The Wheel, renamed Kwality Cafe to The Wheel, sold The Wheel, or sold it to Raye LaFarlette/Grisham. The decisive targets are the underlying 1957 `Historic Oregon City` publication, 1957–1958 liquor-license renewals/transfers, assumed-business-name filings, directories/telephone books, and contemporary sale/new-management notices.
