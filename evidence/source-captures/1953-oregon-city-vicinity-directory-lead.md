@@ -12,6 +12,17 @@ Official sources:
 - Oregon City Historic Review Program Update bibliography: https://oregon-city.granicus.com/MetaViewer.php?clip_id=655&meta_id=31497&view_id=6
 - Oregon City Commission minutes / claims, 7 Jan 1953: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722848/File/document
 
+## January 1953 municipal acquisition record — exact claims detail
+<!-- Salisbury 1953 city-directory acquisition control — 2026-09-07 -->
+
+The official searchable text for the **7 January 1953** Oregon City Commission record gives the claims entry more specifically as:
+
+- **T. W. Salisbury & Company — $263.00 — `O. C. Directories`**.
+
+This is primary municipal evidence that Oregon City purchased Oregon City directories directly from the publisher at the beginning of 1953. It materially strengthens the provenance and dating route for the surviving **_Oregon City & Vicinity Directory, 1953_**, but it does **not** establish any 503/505 occupant or business by itself.
+
+The current research environment has recovered the official indexed/searchable municipal text, not a newly visually certified image of this claims row. Preserve it as **PRIMARY MUNICIPAL INDEXED TEXT / SCAN CERTIFICATION OPEN** until the original page image is visually inspected.
+
 Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. Public indexing also exposes a FamilySearch Library holding titled **_Oregon City (Clackamas County, Oregon) city directory: including Gladstone, West Linn and Willamette, also a buyers' guide and a complete classified business directory_**.
 
 ## FamilySearch catalog 95422 — locator now independently confirmed
