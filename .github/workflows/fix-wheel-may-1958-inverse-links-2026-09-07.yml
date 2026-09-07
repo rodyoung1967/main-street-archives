@@ -1,0 +1,93 @@
+name: Fix May 1958 Wheel inverse links
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/fix-wheel-may-1958-inverse-links-2026-09-07.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Correct inverse-link list membership
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          def repair(path, entity_id, memberships):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              m = re.search(rf'(?ms)^  - id: {re.escape(entity_id)}\n.*?(?=^  - id: |\Z)', text)
+              if not m:
+                  raise SystemExit(f'Entity not found: {entity_id} in {path}')
+              block = m.group(0)
+
+              # Remove each controlled relationship value wherever it was
+              # accidentally placed inside this entity block.
+              values = [v for vals in memberships.values() for v in vals]
+              for value in values:
+                  block = re.sub(rf'(?m)^\s+- {re.escape(value)}\s*\n', '', block)
+
+              # Add each value under its proper typed relationship list.
+              for key, vals in memberships.items():
+                  km = re.search(rf'(?ms)^    {re.escape(key)}:\n(?P<items>(?:      - .*\n)*)', block)
+                  if not km:
+                      raise SystemExit(f'Key not found: {key} in {entity_id}')
+                  add = ''.join(f'      - {v}\n' for v in vals)
+                  block = block[:km.end('items')] + add + block[km.end('items'):]
+
+              p.write_text(text[:m.start()] + block + text[m.end():], encoding='utf-8')
+
+          repair('database/businesses.yml', 'BUS-004', {
+              'related_evidence': ['E-256'],
+              'related_sources': ['S-283'],
+          })
+
+          # Correct both the new May links and the older Flor/August controls
+          # that had previously been appended below related_maps in B-001.
+          repair('database/buildings.yml', 'B-001', {
+              'related_people': ['P-025'],
+              'related_evidence': ['E-032', 'E-255', 'E-256'],
+              'related_sources': ['S-026', 'S-282', 'S-283'],
+          })
+          PY
+
+      - name: Validate archive after edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add database/businesses.yml database/buildings.yml
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Fix Wheel May 1958 inverse links'
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
