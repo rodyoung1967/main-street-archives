@@ -130,3 +130,31 @@ Under existing **MF-052**:
 4. continue to treat any missing local 1966–67 ordinary business-license file as a survival/retrieval issue, not proof of no transfer.
 
 No institutional request, purchase, email, phone call, or other outreach was made in this pass.
+
+---
+
+## 7 September 2026 continuation — EDR appendix visually checked; 1967–68 directory copy identified
+
+### A. Posted 1969 EDR appendix route is visually exhausted online
+
+The official City-hosted **Tech Memo #6 — Most Promising Alternatives** PDF was opened and visually inspected rather than relying only on extracted/searchable text. The city-directory discussion in section **3.4** visibly states that EDR reviewed directory years including **1969** and that the **EDR-City Directory Abstract is included in Appendix D**.
+
+The complete posted PDF contains **103 PDF pages (page indexes 0–102)**. Visual inspection of the report's closing pages shows the consultant report continuing through its signed closing material and ending in the **References** section on the final posted page. **Appendix D is not appended to this City-posted PDF.** No separately posted Appendix D was recovered through the accompanying City project-document route during this continuation.
+
+Classification: **VISUALLY VERIFIED POSTED-PDF CONTENT / RETRIEVAL GAP FOR THE PROMISED APPENDIX.** This closes the immediate online check of the report attachment itself. It does **not** establish that 503 Main, The Wheel, or any LaFarlette was absent from the underlying 1969 EDR directory output. The raw EDR abstract remains unavailable from this posted derivative.
+
+### B. Exact surviving 1967–68 telephone-directory copy control
+
+A live private-market search result was rechecked and now supplies a stable item identifier for the previously noted physical-copy lead:
+
+- item title: **1967-1968 OREGON TELEPHONE DIRECTORY, AREA CODE 503, OREGON CITY, GLADSTONE**;
+- marketplace item ID: **124002914101**;
+- public item route: `https://www.ebay.ca/itm/124002914101`.
+
+The search-result page visibly exposes that title and identifier, independently confirming that a surviving physical volume specifically names the target Oregon City/Gladstone coverage and **1967–1968** date span. The item-detail page did not render usable interior directory pages in the available online route, so no Wheel, 503 Main, phone-number, or LaFarlette content was inspected.
+
+Classification: **DIRECT ACCESS/HOLDINGS CONTROL FOR THE PHYSICAL VOLUME; DIRECTORY CONTENT RETRIEVAL GAP.** This corroborates the NYPL holdings metadata but is not historical occupancy, ownership, or licensing evidence.
+
+### C. Cross-record propagation audit
+
+This continuation changes **source-access state only**. It establishes that the City-posted EDR PDF lacks its promised Appendix D and improves the identifier for the 1967–68 physical-directory route. It establishes no new historical occupant, proprietor, owner, licensee, transaction, building event, or person-business link. Accordingly no business/person/building/timeline/YAML entity fact is manufactured from these access results. The existing `MF-052` directory/OLCC target remains the controlling next-step route.
