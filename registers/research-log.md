@@ -922,3 +922,13 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Visually comparable Oregon City guide panels on 31 Jan. and 7/14/21 Feb. do not carry the Wheel ad; missing intervening March issues remain a retrieval/coverage gap, so no business opening or transfer date is inferred.
 - Telephone-number searching recovered no dated pre-Wheel 9106 or 6106 bridge. This is a retrieval gap, not evidence of a number/operator change.
 - State Archives inventory confirms Clackamas County assumed-business-name registers span 1928–1964, but currently listed holdings expose 1928–35 certificates and 1959–64 record volumes; the 1957–58 target register/index is not located online in this pass. No outreach sent.
+
+## 7 September 2026 — 1967 Wheel OLCC permanent-record route
+<!-- 1967-wheel-olcc-permanent-commission-route-2026-09-07 -->
+
+- Re-confirmed the Oregon City bound-page sequence: the Wheel/503 liquor action is **before the printed 7 June 1967 heading**, exact preceding-meeting date unresolved.
+- Repeated targeted online searches did not recover a named LaFarlette applicant or a digitized 1967 OLCC Wheel packet; bounded retrieval result only.
+- Oregon State Archives' January 2024 OLCC retention schedule identifies **Commission Meeting Records (minutes, agendas, exhibits), 1934–ongoing** as permanent and transferred after 20 years.
+- Current schedule shows ordinary license files/history/tradename cards are finite-retention records; missing 1967 operational files therefore cannot be treated as negative evidence.
+- Corrected stale `S-027` / `E-025` exact-7-June wording in canonical Markdown/YAML and related narratives.
+- Refined existing `MF-052` and the unsent OLCC request draft; **no institutional request was sent**.

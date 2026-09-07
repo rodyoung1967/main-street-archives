@@ -92,3 +92,12 @@ have not yet produced a contemporary source explicitly naming Raye or Floyd as t
 5. Once the first direct LaFarlette→Wheel source is found, work backward from it to identify the immediately preceding proprietor/seller.
 
 No institutional request, email, phone call, paid lookup, or manual outreach was made in this pass.
+
+## 7 September 2026 — OLCC permanent Commission-record survival route
+<!-- 1967-wheel-olcc-permanent-commission-route-2026-09-07 -->
+
+A follow-up Oregon State Archives retention-schedule pass materially improves the record-survival strategy. The official January 2024 OLCC schedule identifies **Commission Meeting Records, 1934–ongoing** — specifically **minutes, agendas, and exhibits** — as **permanent** records transferred to the State Archives after 20 years. Ordinary License Files, License Tradename Cards, and Licensee History Cards are finite-retention series under the current schedule.
+
+Therefore the highest-value surviving state target is now the **OLCC Commission meeting agenda/exhibit packet around the local Wheel action before 7 June 1967**, not an assumption that the ordinary licensing file still exists. No digitized target packet or named LaFarlette applicant was recovered online in this pass. See `evidence/source-captures/1967-wheel-olcc-permanent-commission-records-route-2026-09-07.md`.
+
+No request was sent.

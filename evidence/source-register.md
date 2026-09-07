@@ -141,10 +141,10 @@ Source/location: https://legacyorcity.teammunicode.com/planning/503-main-street-
 Related evidence: `E-032`
 Notes: Official secondary synthesis. The City page explicitly says little historic information was found, describes the building as apparently constructed circa 1919, and attributes Wolf-family ownership from about 1922 to 1972 to research conducted during the 1983 survey. Treat c.1919 as an approximate historic-survey conclusion, not primary construction proof; the ownership span is survey-derived rather than deed proof on this page. Related evidence E-032.
 
-## S-027 — Oregon City Commission minutes, 7 June 1967
+## S-027 — Oregon City Commission bound minutes, Wheel liquor action before 7 June 1967
 Source/location: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document
 Related evidence: `E-025`
-Notes: Liquor application for the Wheel at 503 Main Street. Related evidence E-025.
+Notes: Bound page 453 authorizes the mayor to sign a liquor application for the Wheel at 503 Main Street in the closing portion of the meeting immediately preceding the printed 7 June 1967 heading. Exact preceding-meeting date and applicant/licensee remain unresolved; do not cite the action as exactly 7 June 1967. Related evidence E-025.
 
 ## S-028 — Rodney Young family-history testimony, August 2026
 Source/location: Internal / project oral history, including 16 August 2026 corrections

@@ -361,3 +361,12 @@ A visually verified primary advertisement now places **Wheel Cafe & Lounge at 50
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
 
 A visually verified primary ad now places **Wheel Cafe & Lounge at 503 Main, phone 9106, by 28 March 1958** (`S-285` / `E-259`), earlier than the May/August controls. For the Oregon-side license/ownership chain, prioritize late 1957 through **28 March 1958**. The Oregon State Archives Clackamas County inventory says assumed-business-name registers cover 1928–1964 and can name owners/filing dates, but its listed available holdings expose 1928–35 certificates and 1959–64 record volumes; the **1957–58 register/index remains an access gap**. No outreach was sent.
+
+### MF-052 refinement — 1967 Wheel OLCC permanent Commission-record route
+<!-- 1967-wheel-olcc-permanent-commission-route-2026-09-07 -->
+
+The 7 September 2026 acquisition pass identified a materially better survival route for the **1967 Wheel / 503 Main** liquor action. Oregon State Archives' January 2024 OLCC schedule says **Commission Meeting Records (minutes, agendas, exhibits), 1934–ongoing** are **permanent** and transferred to the State Archives after 20 years. Ordinary license files/history/tradename cards have finite retention, so non-recovery of a 1967 operational file would be a **records-survival/retrieval gap**, not negative evidence.
+
+**Next manual action under MF-052, not yet sent:** prioritize the permanent OLCC Commission agenda/exhibit packet around the Oregon City action **before 7 June 1967** and search **The Wheel / 503 Main / Raye or Rae LaFarlette / Mrs. Floyd LaFarlette / Floyd E. LaFarlette / Raye Grisham**, with **Albert D. Flor / Margaret or Marge Remus / Kwality Cafe** as predecessor controls. The immediate question is applicant/licensee identity and transaction type.
+
+Source capture: `evidence/source-captures/1967-wheel-olcc-permanent-commission-records-route-2026-09-07.md`.

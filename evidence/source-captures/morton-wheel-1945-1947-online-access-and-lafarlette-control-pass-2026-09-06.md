@@ -92,7 +92,7 @@ Classification: **RETRIEVAL GAP / UNRESOLVED**, not negative evidence.
 
 ## 7. Oregon City pre-Raye proprietor remains unresolved
 
-The repository already directly anchors **Wheel Cafe & Lounge, 503 Main Street, Oregon City, phone 9106** in August and November 1958, with a 1959 continuation lead, and the 7 June 1967 Oregon City Commission minutes record a liquor application for the Wheel at 503 Main. The public minute text does not name the applicant.
+The repository already directly anchors **Wheel Cafe & Lounge, 503 Main Street, Oregon City, phone 9106** in 1958, with a 1959 continuation lead, and a 1967 Oregon City Commission bound page records a liquor application for the Wheel at 503 Main in the meeting section immediately **before the printed 7 June heading**. The exact preceding-meeting date and applicant remain unresolved.
 
 A fresh owner/proprietor/licensee sweep did not recover a reliable named 1958–1967 proprietor or the seller from whom Raye acquired the business.
 

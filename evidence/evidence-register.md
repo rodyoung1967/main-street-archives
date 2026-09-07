@@ -141,11 +141,11 @@ Sources: `S-025`
 Claims: 12 February 1914 Oregon City Courier industrial edition profiles L. Hylton at 503 Main as a dealer in cigars, tobacco, smokers' supplies, and soft drinks.  
 Confidence: Very High.
 
-## E-025 — The Wheel at 503 Main, Oregon City Commission, 7 June 1967
-Type: Primary municipal record  
+## E-025 — The Wheel at 503 Main, municipal liquor action before 7 June 1967
+Type: Primary municipal searchable text; exact preceding-meeting date / scan re-certification unresolved  
 Sources: `S-027`  
-Claims: Commission minutes authorize the mayor to sign a liquor application for "the Wheel located at 503 Main Street."  
-Confidence: Very High for address and name as of that date.
+Claims: Bound Commission page 453 authorizes the mayor to sign a liquor application for "the Wheel located at 503 Main Street" in the meeting section immediately preceding the printed 7 June 1967 heading. The public text does not name the applicant/licensee or identify the action as a renewal, new license, ownership/licensee transfer, or sale.  
+Confidence: Very High for the printed business/address action and its placement before the 7 June heading; unresolved for exact preceding-meeting date, applicant identity, transaction type, and acquisition significance.
 
 ## E-026 — The Chicago Store at 505 Main, 1911-1913
 Type: Primary newspaper advertisements; **VISUALLY VERIFIED** for the supplied 31 March, 7 April and 28 April 1911 pages.  

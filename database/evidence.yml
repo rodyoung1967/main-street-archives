@@ -460,11 +460,12 @@ evidence:
       - B-001
 
   - id: E-025
-    name: "The Wheel at 503 Main, Oregon City Commission, 7 June 1967"
-    type: Primary municipal record
+    name: "The Wheel at 503 Main, municipal liquor action before 7 June 1967"
+    type: Primary municipal searchable text; exact preceding-meeting date and scan re-certification unresolved
     claims:
-      - Commission minutes authorize a liquor application for the Wheel located at 503 Main Street.
-    confidence: Very High for address and name as of that date.
+      - Bound Commission page 453 authorizes the mayor to sign a liquor application for the Wheel located at 503 Main Street in the meeting section immediately preceding the printed 7 June 1967 heading.
+      - The public text does not identify the applicant/licensee or establish whether the action was a renewal, new license, ownership/licensee transfer, business sale, or another licensing event.
+    confidence: Very High for the business/address action and its placement before the 7 June heading; unresolved for exact preceding-meeting date, applicant identity, transaction type, and acquisition significance.
     related_sources:
       - S-027
     related_businesses:

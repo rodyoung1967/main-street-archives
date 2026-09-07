@@ -477,3 +477,8 @@ For the recreation-business chain, search and retrieval should now target the **
 4. MF-002 / missing **1944–48 municipal or OLCC license proceedings** for direct transition evidence.
 
 Include spelling variants **Well's / Wells / Well / Welle / Welsh**, but preserve "Well's Recreation" as the exact 2000 survey-form wording unless an original directory page establishes otherwise. Do not infer direct Harr→Well succession from the survey narrative.
+
+### 7 September 2026 — permanent OLCC Commission-record route for the 1967 Wheel action
+<!-- 1967-wheel-olcc-permanent-commission-route-2026-09-07 -->
+
+A 7 September 2026 State Archives retention-schedule pass shows that **OLCC Commission Meeting Records — minutes, agendas, exhibits — are permanent from 1934 onward and transferred after 20 years**, while ordinary license files/cards are finite-retention series. The 503 Main Wheel action occurs in Oregon City's bound minutes **before the printed 7 June 1967 heading**, but the public text omits the applicant and transaction type. Highest-value next evidence is the corresponding OLCC Commission agenda/exhibit/staff packet. Treat non-recovery of an ordinary license file as a survival gap, not evidence against a 1967 transfer. Coordinate under `MF-052`; do not send a request without steward authorization.

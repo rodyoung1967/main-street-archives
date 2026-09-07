@@ -57,7 +57,7 @@ This photograph does **not** prove that The Wheel or 505 Tavern operated continu
 
 ## Chronological significance
 
-For **503 Main**, the image independently complements the 30 November 1960 **Wheel Cafe** newspaper anchor (`E-044`) and the later exact 7 June 1967 municipal 503 Main record (`E-025`).
+For **503 Main**, the image independently complements the 30 November 1960 **Wheel Cafe** newspaper anchor (`E-044`) and the later **1967 municipal liquor-action record before the printed 7 June heading** (`E-025`).
 
 For **505 Main**, the image complements the exact November 1965 municipal **505 Tavern** renewal (`E-029`). Because the image's date range begins in 1955 but extends through 1965, it must **not** be used to backdate the 505 Tavern trade name to 1955 without a narrower exposure date or an independent earlier documentary source.
 

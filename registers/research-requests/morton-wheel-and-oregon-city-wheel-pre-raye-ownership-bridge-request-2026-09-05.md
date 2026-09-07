@@ -93,7 +93,9 @@ Hello,
 
 I am researching the ownership/operator history of **The Wheel / Wheel Cafe / Wheel Cafe & Lounge at 503 Main Street, Oregon City** and am trying to identify the business owner or OLCC licensee immediately before **Raye LaFarlette / Raye Grisham** acquired the business.
 
-Contemporary newspaper advertising places **Wheel Cafe & Lounge at 503 Main Street by 22 August 1958**, telephone **9106**. Oregon City Commission minutes later place **the Wheel at 503 Main Street on 7 June 1967** in connection with a liquor application, but the public minute text available to me does not identify the individual applicant.
+Contemporary newspaper advertising places **Wheel Cafe & Lounge at 503 Main Street by 1958**, telephone **9106**. Oregon City Commission bound page 453 later records **the Wheel at 503 Main Street** in connection with a liquor application in the meeting section immediately **before the printed 7 June 1967 heading**; the exact preceding-meeting date and individual applicant are not identified in the public text.
+
+The Oregon State Archives' January 2024 OLCC retention schedule identifies **Commission Meeting Records (minutes, agendas, and exhibits), 1934–ongoing, as permanent records transferred to the State Archives after 20 years**. If the ordinary 1967 license file/history card no longer survives, please prioritize any **1967 OLCC Commission agenda, minutes, exhibit packet, staff recommendation, or related permanent meeting record** that may identify the applicant/licensee or transaction type for The Wheel at 503 Main.
 
 Would you please determine whether OLCC still holds, has imaged/microfilmed, or transferred any legacy licensing records for:
 

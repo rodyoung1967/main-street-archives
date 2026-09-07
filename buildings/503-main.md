@@ -101,7 +101,7 @@ This creates a plausible family-network lead, but **does not yet prove that the 
 
 - Family confirmation (`E-022`): Raye Grisham bought The Wheel at 503 Main.
 - Oregonian 30 November 1960 (`E-044`): "the Wheel Cafe, 5th and Main Streets in Oregon City."
-- Primary municipal evidence (`E-025`): 7 June 1967 Commission minutes, liquor application for "the Wheel located at 503 Main Street."
+- Primary municipal evidence (`E-025`): a 1967 Commission bound page records a liquor application for "the Wheel located at 503 Main Street" in the meeting section immediately **before the printed 7 June 1967 heading**; exact preceding-meeting date and applicant remain unresolved.
 - Oregonian 2 September 1967 (`E-045`): "the Wheel Restaurant" spared in the Main Street fire.
 - Oregonian 1983 (`E-047`): Wheel Cafe as a downtown lunch destination.
 - Oregonian 1985 (`E-048`, `E-049`): **The Wheel Cafe, 503 Main St.**; **Richard M. Wiitanen** named as owner in August 1985.
