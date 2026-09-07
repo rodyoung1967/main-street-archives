@@ -2591,3 +2591,16 @@ Claims:
 - Missing intervening March issues are a **RETRIEVAL / COVERAGE GAP**, so no precise first-ad or opening date is inferred.
 Confidence: **Very High / DOCUMENTED-DIRECT for 28 March name/address/phone; transition unresolved.**  
 Classification: **DOCUMENTED / DIRECT** for the ad; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.
+
+## E-260 — July 1917 Enterprise closes 32-page batch and extends Fashion Stable through July 27
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+Source: `S-286`  
+Type: Primary newspaper visual review  
+Claims:
+- all **32/32 July scans** are visually verified genuine intended-date pages, with no July page-association defect;
+- Enterprise cumulative genuine coverage is **240 pages through July**; **242 Jan–Jul archive slots** have been inspected, with the existing March/April true-page gaps unchanged; **174 August–December exposed slots remain**;
+- 6/13/20/27 July p7 directly repeat W. S. Eddy / Fashion Stable **between Fourth and Fifth on Main Street**, extending the verified 1917 observation through 27 July;
+- 20 July p7 credits a market report to Farr Bros. and Brady Mercantile Company, while 20 July p8 includes Farr Bros. in County Court expenditures; neither prints a Farr street address or individual proprietor;
+- no exact 501/503/505/507/509/511 Main, new 427 Main, or new numbered Fifth Street target occupant was established.
+Classification: **DOCUMENTED / DIRECT** for scan identity and printed Fashion Stable/Farr wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
+Confidence: **Very High**, with exact-number, individual-identity and continuity limits preserved.

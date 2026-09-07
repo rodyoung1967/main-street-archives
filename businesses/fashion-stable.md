@@ -5,7 +5,7 @@ Business ID: `BUS-103`. Related person: W. S. Eddy (`P-396`). Exact numbered pre
 ## Relative-location chronology
 
 - **1915:** W. S. Eddy professional notices place Fashion Stable on **Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`).
-- **6 April–29 June 1917:** repeated ads place Fashion Stable **between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`).
+- **6 April–27 July 1917:** repeated ads place Fashion Stable **between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`; continued `E-260` / `S-286`).
 
 This is direct evidence for two dated relative locations and a strong same-business bridge through W. S. Eddy's repeated name/credentials. It is not proof of a specific move date, lease, ownership, or physical-building continuity.
 
@@ -26,3 +26,9 @@ Ads on 4, 11, 18 and 25 May p7 repeat W. S. Eddy / Fashion Stable between Fourth
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 Ads on 1, 8, 15, 22 and 29 June p7 repeat W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street, extending the verified 1917 span through **29 June** (`E-254` / `S-281`). No exact number is printed.
+
+
+## July continuation
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+Ads on 6, 13, 20 and 27 July p7 repeat W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street, extending the verified 1917 span through **27 July** (`E-260` / `S-286`). No exact number is printed.

@@ -229,7 +229,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 | Period | Address / relative location | Business / person | IDs | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
-| Apr.–Jun. 1915 verified span | Fifth Street between Main and Water | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-112`, `E-114`; `S-124`, `S-128` | Relative location only; no number. |
+| 6 Apr.–27 Jul. 1917 verified span | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252`, `E-253`, `E-254`, `E-260`; `S-279`, `S-280`, `S-281`, `S-286` | Direct relative-location wording; no street number, move date, lease, ownership, or target-building continuity. |
 | 6 Apr.–29 Jun. 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |
 
 ## Farr Brothers separate business identity
@@ -253,3 +253,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Date | Location | Business / subject | Records | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
 | 8 Jun. 1917 | Oregon City, citywide | Pool-room ordinance / cigar-stand licensing discussion | `T-095` / `RL-052` | `E-254` / `S-281` | Council report says pool rooms were violating ordinance sections and discusses cigar stands without additional licenses; strict legislation said to date to 1911. No room, address, proprietor or individual violation named. |
+
+
+| 20 Jul. 1917 | Not printed | Farr Bros. market-report credit + county expenditures | `BUS-104` | `E-260` / `S-286` | Dated business/supplier appearances only; no address or named proprietor; no Edwin/Alice Farr or 505 merge. |
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->

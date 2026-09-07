@@ -606,3 +606,8 @@ A visually verified *Clackamas County News* advertisement (`S-283` / `E-256`) di
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
 
 A visually verified *Clackamas County News* advertisement directly prints **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106** (`S-285` / `E-259`, `T-097`). This is the earliest currently recovered exact-address Wheel advertisement. It does not identify proprietor/licensee or establish an opening, rename, ownership change, or sale.
+
+## 6–27 July 1917 — Enterprise continuation: Fashion Stable and Farr Brothers
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+Four visually verified July professional ads extend **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) at Main between Fourth and Fifth** through **27 July 1917** (`E-260` / `S-286`). No exact street number is printed. On **20 July**, Farr Bros. appears in a market-report credit and County Court expenditures, still without a Farr address or named proprietor. These observations do not establish an occupant at 501/503/505 or bridge Farr Brothers Store to Farr's Pool Hall at 505.

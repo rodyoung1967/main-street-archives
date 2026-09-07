@@ -3877,3 +3877,18 @@ evidence:
     related_people: [P-025]
     related_sources: [S-285]
     # Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07
+
+  - id: E-260
+    name: "July 1917 Enterprise closes 32-page batch and extends Fashion Stable through July 27"
+    type: "Primary newspaper visual review"
+    date: "1917-07-06 through 1917-07-27"
+    claims:
+      - "All 32 July pages visually verified as genuine intended-date pages."
+      - "Enterprise cumulative genuine coverage: 240 pages through July; 174 August-December slots remain; March and April true-page gaps unchanged."
+      - "6/13/20/27 July p7 repeat W. S. Eddy/Fashion Stable between Fourth and Fifth on Main Street."
+      - "20 July p7 and p8 include Farr Bros. business/supplier references without address or named proprietor."
+      - "No exact target Main or new numbered Fifth target occupant established in July."
+    confidence: "Very High for visible wording and counts; inference limits retained."
+    related_businesses: [BUS-103, BUS-104]
+    related_people: [P-396]
+    related_sources: [S-286]

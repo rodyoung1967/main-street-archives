@@ -724,3 +724,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Handling rule |
 | --- | --- | --- |
 | `S-285` / `E-259` | `B-001`, `BUS-004`; compare `P-025` / `E-032`, later `S-283` / `E-256` and `S-282` / `E-255` | Visually verified 28 Mar. 1958 ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Earliest currently recovered exact-address ad; not an opening, proprietor, license, rename, sale, or transfer date. |
+
+## S-286 / E-260 — July 1917 Enterprise visual closeout
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+- `S-286` → preserved 6/13/20/27 July Enterprise scans and `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.
+- `E-260` → `P-396` / `BUS-103` Fashion Stable continuation through 27 July; `BUS-104` Farr Brothers 20 July market-report/expenditure observations.
+- No `B-001` / `B-002` occupant relationship is created: the target-address result is bounded coverage only.

@@ -1274,18 +1274,17 @@ businesses:
 
   - id: BUS-103
     name: Fashion Stable
-    related_evidence: [E-112, E-114, E-252, E-253, E-254]
-    related_sources: [S-124, S-128, S-279, S-280, S-281]
+    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260]
+    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286]
     repository_file: businesses/fashion-stable.md
     address: "1915 Fifth Street between Main and Water; April 1917 Main Street between Fourth and Fifth; exact number unresolved"
     notes: >-
       Multi-date relative-location chronology through W. S. Eddy. The changed wording supports a move, changed premises, or changed location description but does not establish exact move date, title, lease, or numbered building. Not assigned to 110 Fifth, 427 Main, or 501/503/505.
     related_people: [P-396]
-
   - id: BUS-104
     name: Farr Brothers Store / Meat Market
-    related_evidence: [E-253, E-254]
-    related_sources: [S-280, S-281]
+    related_evidence: [E-253, E-254, E-260]
+    related_sources: [S-280, S-281, S-286]
     repository_file: businesses/farr-brothers-store.md
     address: "1917 exact address unresolved; official Farr Store history places the business at 919 7th Street"
     notes: "25 May 1917 Enterprise directly calls Farr Brothers a Meat market; 1922 primary evidence says Grocers/Butchers; official City history associates Farr Brothers Store with Louis and Clarence Farr. No merge with Edwin/Alice Farr or 505 Main."

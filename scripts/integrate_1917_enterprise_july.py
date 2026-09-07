@@ -329,7 +329,7 @@ else:
 w("registers/year-status.md", "\n".join(lines) + ("\n" if yr.endswith("\n") else ""))
 
 # Research log is a row-oriented audit record.
-rl = r("registers/research-log.md")n = None
+rl = r("registers/research-log.md")
 logrow = f"| 2026-09-07 | Completed July 1917 Oregon City Enterprise scan-first visual audit | **32/32 genuine pages** for 6/13/20/27 Jul; cumulative **240 genuine pages through July**, **174 Aug–Dec slots remain**; existing Mar/Apr page gaps unchanged. Fashion Stable / W. S. Eddy extends through 27 Jul; 20 Jul Farr Bros. market-report + expenditure controls remain unaddressed/no named proprietor. No exact target-frontage occupant; bounded coverage only. `{SID}` / `{EID}`. Cross-record propagation audit completed. |"
 if MARKER not in rl:
     lines = rl.splitlines()

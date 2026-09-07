@@ -1214,8 +1214,8 @@ people:
 
   - id: P-396
     name: W. S. Eddy
-    related_evidence: [E-112, E-114, E-252, E-253, E-254]
-    related_sources: [S-124, S-128, S-279, S-280, S-281]
+    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260]
+    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286]
     repository_file: people/profiles/w-s-eddy.md
     role: Veterinarian / Fashion Stable professional
     notes: >-

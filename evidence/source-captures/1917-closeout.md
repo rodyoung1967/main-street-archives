@@ -139,3 +139,8 @@ The missing second local title has now been identified correctly as the weekly *
 <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
 
 The already closed June Enterprise batch (`S-281` / `E-254`; 40/40 genuine pages) also contains a visually verified **8 June p.3** city-council report on citywide pool-room ordinance violations and a proposed cigar-stand/additional-license change. It dates the strict pool-room legislation to 1911. This adds regulatory context only; June coverage counts and the target-frontage no-hit do not change. Underlying ordinance/amendment recovery is `RL-052`; chronology `T-095`.
+
+## Enterprise July audit added 7 September 2026
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+`S-286` / `E-260` closes July at **32/32 genuine visually verified pages**, with no July page-identity defect. Enterprise cumulative genuine coverage is **240 pages through July**; **242 Jan–Jul archive slots** have been inspected, the true **16 March p5** and **13 April p8** retrieval gaps remain, and **174 exposed August–December slots** remain. W. S. Eddy / Fashion Stable continues through 27 July at Main between Fourth/Fifth; 20 July carries two Farr Bros. business/supplier observations without address or named proprietor. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Coverage only; 1917 remains **IN PROGRESS**.

@@ -2430,3 +2430,12 @@ Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-
 Evidence: `E-259`  
 Capture: `evidence/source-captures/1958-03-28-wheel-cafe-earliest-exact-address-control-and-february-guide-controls-2026-09-07.md`  
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an advertising/occupancy endpoint, not an opening, ownership, rename, sale, or transfer date.
+
+## S-286 — Oregon City Enterprise, July 1917 complete scan-first visual-review batch
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
+Issue dates: 6, 13, 20 and 27 July 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-july/`; manifest `newspapers/oregon-city-enterprise/1917-july/manifest.json`; retrieval commit `5aac50e370846d5b9481cee00be1bc457e8c7fa2`.  
+Evidence: `E-260`; capture: `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.  
+Notes: W. S. Eddy/Fashion Stable repeats through 27 July at Main between Fourth/Fifth; 20 July carries Farr Bros. market-report and county-expenditure appearances. No exact target Main occupant.

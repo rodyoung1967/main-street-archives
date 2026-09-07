@@ -299,3 +299,8 @@ The same form's owner field names **Richard and Sheila Wiitanen** (`E-258`), est
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
 
 `S-285` / `E-259` moves the earliest recovered exact-address Wheel advertisement from 16 May to **28 March 1958**. Comparable 31 Jan.–21 Feb. Oregon City guide panels lack the ad, but missing intervening March issues are a **retrieval/coverage gap** and cannot date the opening or transition. The core question remains: who controlled/licensed 503 when the Kwality/Flor operation became The Wheel, and what record identifies the transfer/rename mechanism?
+
+## 7 September 2026 — 1917 Enterprise July coverage does not resolve 503/505 occupancy
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+The complete July Enterprise visual batch (`S-286` / `E-260`) raises cumulative genuine Enterprise coverage to **240 pages through July** but does **not** identify an exact 503 or 505 Main occupant. This is bounded source coverage, not vacancy/non-use evidence. The 1917 occupant question remains open; the Sohns & Woodbeck Oregon City directory section and remaining Enterprise August–December pages remain material routes.

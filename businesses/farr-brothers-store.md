@@ -17,3 +17,9 @@ Do not merge this grocery/meat business with Edwin F. Farr, Alice Farr, **Farr's
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 **22 June p6** includes **Farr Bros.** in County Court expenditures (`E-254` / `S-281`). This confirms another dated local supplier/business appearance but supplies no address, individual proprietor or new trade type. The 25 May **Meat market** wording remains the stronger 1917 business-type observation.
+
+
+## July 1917 continuation
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+On **20 July p7**, a market-report credit says the report is furnished by **Farr Bros.** and Brady Mercantile Company; **20 July p8** also lists **Farr Bros.** in County Court expenditures (`E-260` / `S-286`). These are additional dated business/supplier appearances, but neither supplies an address or individual Farr proprietor. The 25 May **Meat market** wording remains the controlling direct 1917 trade description. No Edwin/Alice Farr or 505 Main merge is permitted.

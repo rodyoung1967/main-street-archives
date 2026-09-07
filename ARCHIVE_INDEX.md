@@ -414,3 +414,10 @@ A February 1946 Oregon City Commission claims record identifies the City's recre
 <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
 
 The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council report stating that Oregon City's strict pool-room legislation dated to 1911 and discussing cigar stands/additional licenses. This is useful context for `BUS-019` at 503 and later pool-hall/cigar evidence, but it identifies no particular pool room or address. See `T-095` / `RL-052`.
+
+## 1917 Enterprise — July complete visual batch
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+- [`S-286` / `E-260` July Enterprise visual review](evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md): 6/13/20/27 July, **32/32 genuine pages**, no page-association defect; cumulative Enterprise **240 genuine pages through July**.
+- Preserved originals and checksums: [`newspapers/oregon-city-enterprise/1917-july/manifest.json`](newspapers/oregon-city-enterprise/1917-july/manifest.json).
+- Entity propagation: `P-396` / `BUS-103` Fashion Stable through 27 July; `BUS-104` Farr Brothers 20 July controls. No exact target Main occupant created.

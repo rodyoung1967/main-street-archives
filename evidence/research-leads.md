@@ -489,3 +489,8 @@ A 7 September 2026 State Archives retention-schedule pass shows that **OLCC Comm
 The strongest new non-OLCC route is now a confirmed **1965–1970 Oregon City telephone-directory sequence** held by NYPL: 1965, 1966, 1966–67, 1967–68, 1968–69, and 1969–70, covering Oregon City/Gladstone/West Linn. Compare **Wheel / 503 Main / telephone number** and **LaFarlette household/name variants** year by year. A directory-number or listing transition may narrow the takeover interval but is not ownership proof by itself.
 
 Oregon City's 1976 disposal authorization separately lists **Business License Applications, Jan. 1966–Dec. 1967**, so non-recovery of an ordinary local business-license application in the suspected takeover window must be treated as a survival gap. The permanent OLCC Commission records remain the higher-value applicant/licensee route. See `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md`; coordinate manual work under `MF-052`.
+
+## 7 September 2026 — Enterprise continuation after July
+<!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+July is complete **32/32** (`S-286` / `E-260`), cumulative **240 genuine Enterprise pages through July**. Continue with **August 3/10/17/24/31**, but first verify the actual exposed issue/page inventory rather than assuming eight pages per date. Preserve the March/April true-page gaps and the 1916–17 Sohns & Woodbeck Oregon City directory gap. Continue target-address, pool-room, Fashion Stable and Farr identity checks with the same scan-first/no-merge rules.

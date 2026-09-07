@@ -1822,3 +1822,12 @@ sources:
     related_businesses: [BUS-004]
     related_evidence: [E-259]
     # Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07
+
+  - id: S-286
+    name: "Oregon City Enterprise, July 1917 complete scan-first visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed-1/"
+    type: "Primary newspaper page scans; 32/32 genuine pages visually verified"
+    date: "1917-07-06 through 1917-07-27"
+    repository_file: "evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md"
+    notes: "July complete; Fashion Stable continues through 27 July and Farr Bros. appears twice on 20 July; no exact target Main occupant."
+    related_evidence: [E-260]
