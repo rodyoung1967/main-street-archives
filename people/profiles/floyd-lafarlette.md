@@ -6,7 +6,7 @@ Family history identifies Floyd as Raye LaFarlette's first husband and associate
 
 ## Family identity and relationship chronology
 
-Rodney Young clarified on **7 September 2026** that the later **Floyd LaFarlette in Arkansas is the same Floyd LaFarlette** who was Raye's husband, not a same-name person who should be split from him. Rodney's family recollection is that **Raye and Floyd met in Memphis**, then went to **Chicago**; their exact place of marriage is not presently known. After Raye and Floyd divorced, **Floyd moved back to Arkansas**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY EVIDENCE**. These statements establish the project's identity treatment and provide discovery geography, but the meeting, marriage, divorce, and move dates still require contemporary documentary anchors.
+Rodney Young clarified on **7 September 2026** that the later **Floyd LaFarlette in Arkansas is the same Floyd LaFarlette** who was Raye's husband, not a same-name person who should be split from him. Rodney's family recollection is that **Raye and Floyd met in Memphis**, then went to **Chicago**; their exact place of marriage is not presently known. Rodney further clarified that **Raye and Floyd were still together during their Oregon City period**. Their Oregon City presence therefore belongs **before** their divorce and before Floyd's return to Arkansas. After Raye and Floyd divorced, **Floyd moved back to Arkansas**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY EVIDENCE**. These statements establish the project's identity and relationship-order treatment and provide discovery geography, but the meeting, marriage, Oregon City arrival, divorce, and move dates still require contemporary documentary anchors.
 
 ## Pre-Wheel business record
 
@@ -38,7 +38,7 @@ Full chronology/control capture: `evidence/source-captures/lafarlette-morton-chr
 
 ## The Wheel
 
-Floyd's exact role, operating dates, and any ownership interest in **The Wheel at 503 Main** remain undocumented. His independently documented southwest-Oregon hospitality businesses do not by themselves establish a later Wheel ownership role. The family-memory Morton hypothesis likewise cannot be used to connect Floyd to the Oregon City Wheel until a contemporary proprietor, licensee, transaction, or other person-level bridge is found.
+Family history now specifically places **Raye and Floyd together in Oregon City during the Oregon City period**. This means searches for the earliest LaFarlette connection to The Wheel should include **both Floyd and Raye**, and should not assume Raye acquired or operated The Wheel only after their divorce. Floyd's exact role, operating dates, and any ownership interest in **The Wheel at 503 Main** remain undocumented. His independently documented southwest-Oregon hospitality businesses do not by themselves establish a later Wheel ownership role. The family-memory Morton hypothesis likewise cannot be used to connect Floyd to the Oregon City Wheel until a contemporary proprietor, licensee, transaction, or other person-level bridge is found.
 
 ## Preserved primary-source pages
 <!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / Floyd profile links -->
