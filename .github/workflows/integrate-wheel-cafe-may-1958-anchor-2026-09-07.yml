@@ -37,6 +37,40 @@ jobs:
       - name: Integrate earlier Wheel endpoint
         run: python3 scripts/integrate_wheel_cafe_may_1958_anchor.py
 
+      - name: Normalize generated archive records
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          # The one-off integrator's append helper strips the first line's
+          # leading spaces. Restore root-list indentation in YAML databases.
+          for name, prefix in (
+              ('database/sources.yml', 'S'),
+              ('database/evidence.yml', 'E'),
+              ('database/timeline.yml', 'T'),
+          ):
+              p = Path(name)
+              t = p.read_text(encoding='utf-8')
+              t = re.sub(rf'(?m)^- id: ({prefix}-\d+)\s*$', r'  - id: \1', t)
+              p.write_text(t, encoding='utf-8')
+
+          # Keep the Markdown evidence title synchronized with the YAML name,
+          # and supply the explicit Confidence field required by the validator.
+          p = Path('evidence/evidence-register.md')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace(
+              'Wheel Cafe & Lounge is directly documented at 503 Main by 16 May 1958',
+              'Wheel Cafe & Lounge at exact 503 Main by 16 May 1958'
+          )
+          marker = 'Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07'
+          if marker in t and 'Confidence: **Very High / DOCUMENTED-DIRECT for 16 May 1958 name/address/phone; transition unresolved.**' not in t:
+              needle = 'Classification: **DOCUMENTED / DIRECT** for 16 May 1958 name/address/phone; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.'
+              repl = 'Confidence: **Very High / DOCUMENTED-DIRECT for 16 May 1958 name/address/phone; transition unresolved.**  \n' + needle
+              t = t.replace(needle, repl, 1)
+          p.write_text(t, encoding='utf-8')
+          PY
+
       - name: Validate archive after integration
         run: python3 scripts/validate_archive.py
 
