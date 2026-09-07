@@ -13,7 +13,9 @@
 
 Family confirmation: **Raye Grisham** (`P-006`, formerly Raye LaFarlette) bought The Wheel at 503 Main. Raye LaFarlette and Raye Grisham are the same woman; the surname change is not itself a business transfer.
 
-Oregon City Commission minutes of **7 June 1967** place "the Wheel" at **503 Main Street** (`E-025`). Newspapers document **Wheel Cafe**, **Wheel Restaurant**, and **The Wheel Cafe** at this location; August 1985 reporting identifies **Richard M. Wiitanen** as owner of The Wheel Cafe (`E-049`). Official OLCC indexed license text later lists **The Wheel Bar & Grill — Maurice Enterprises Inc — 503 Main — license 104145 — expires 31 March 2009** (`E-225`). That state-list row remains OCR/TEXT ONLY until the original PDF page can be visually opened, and it does not prove the exact Wiitanen sale or deed date.
+Oregon City Commission bound minutes contain a **1967-era** municipal action authorizing the mayor to sign a liquor application for **"the Wheel located at 503 Main Street"** (`E-025` / `S-027`). A 7 September 2026 recheck shows that the Wheel paragraph occurs **before the printed 7 June 1967 meeting heading**, in the closing portion of the preceding meeting. It therefore should not be cited as exactly 7 June 1967 unless the preceding meeting date is independently recovered. The application text names no applicant or licensee and does not prove a LaFarlette purchase. See [`1967-wheel-liquor-date-boundary-lafarlette-acquisition-control-2026-09-07.md`](../evidence/source-captures/1967-wheel-liquor-date-boundary-lafarlette-acquisition-control-2026-09-07.md).
+
+Newspapers document **Wheel Cafe**, **Wheel Restaurant**, and **The Wheel Cafe** at this location; August 1985 reporting identifies **Richard M. Wiitanen** as owner of The Wheel Cafe (`E-049`). Official OLCC indexed license text later lists **The Wheel Bar & Grill — Maurice Enterprises Inc — 503 Main — license 104145 — expires 31 March 2009** (`E-225`). That state-list row remains OCR/TEXT ONLY until the original PDF page can be visually opened, and it does not prove the exact Wiitanen sale or deed date.
 
 A 2017 article uses **"The Wheel Tavern"** (`E-001`), but family correction says this was never an official business name. Preserve it only as source wording.
 
@@ -39,6 +41,8 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 ## Documented / Reported Ownership and Operation
 
 - Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503 (`E-022`).
+- Raye and Floyd were still together during the Oregon City period according to project-steward/family evidence; their exact respective ownership, licensing, employment, and operating roles at The Wheel remain unresolved.
+- The 1967-era Wheel liquor application at 503 is a **high-value acquisition/license-transfer lead**, but the municipal text does not name Raye, Floyd, the applicant, or the transaction type. Treat **c.1967 acquisition** as a working hypothesis only, not a documented date.
 - Victor independently managed the restaurant portion during Raye's years and early Dick/Sheila years (`E-007`).
 - Family confirmation: **Raye sold The Wheel business to Dick and Sheila.**
 - Family confirmation: **Dick and Sheila later bought the 503 building.**
@@ -52,6 +56,7 @@ Do not merge The Wheel with 505 Tavern, Brass Rail, The Dug Inn, Sports Keg, or 
 
 ## Research Priorities / Open Questions
 
+- **Exact date, applicant/licensee, seller/predecessor, and transaction type for Raye and/or Floyd LaFarlette's first documented involvement with The Wheel.** Test the 1967 municipal liquor application first because it may represent the acquisition/license-change event remembered by the family, but do not assume that until the underlying application is recovered.
 - Exact date and terms of Raye's sale of The Wheel business to Dick and Sheila.
 - Exact date, seller, and deed for Dick and Sheila's later purchase of the 503 building.
 - Exact date, buyer, deed, business-sale agreement, and liquor-license transfer when Dick and Sheila sold the business and building together.
