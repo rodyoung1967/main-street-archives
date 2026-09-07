@@ -27,6 +27,10 @@ That reading is **superseded, not deleted**:
 
 Keep `P-005` and `P-006` as separate people. Do not merge Hansen and Grisham.
 
+## Family relationship chronology clarification — Oregon City before divorce
+
+Rodney Young clarified on **7 September 2026** that **Raye and Floyd LaFarlette were still together during their Oregon City period**. Classification: **PROJECT-STEWARD / FAMILY ORAL-HISTORY EVIDENCE**. Therefore the Oregon City phase must be placed **before** their divorce and before Floyd's later return to Arkansas. This correction matters to the Wheel search: do **not** assume Raye's first Oregon City Wheel connection occurred only after the marriage ended. Searches for the early Oregon City Wheel period should include **Raye LaFarlette and Floyd LaFarlette together**, while their exact respective ownership, operating, licensing, and employment roles remain unresolved until contemporary records identify them.
+
 ## Pre-Wheel business and hospitality history
 
 The Wheel was **not Raye's first business venture**. Project-steward family history specifically recalls that Raye had earlier hospitality/nightlife business experience in southwest Oregon, including a hotel or nightclub in Myrtle Point. Contemporary records now provide several independent anchors, while the exact Myrtle Point ownership wording still requires scan retrieval.
