@@ -1,0 +1,225 @@
+name: Integrate 1955 505 sale visual review
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-1955-505-sale-visual-review.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Integrate visually verified page and phone
+        run: |
+          set -euxo pipefail
+          git config user.name 'main-street-archive-bot'
+          git config user.email '49879113+rodyoung1967@users.noreply.github.com'
+          git pull --rebase origin main
+
+          mkdir -p newspapers/eugene-register-guard
+          curl -fsSL 'https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30.jp2' \
+            -o newspapers/eugene-register-guard/1955-11-20-image-30.jp2
+          echo '50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48  newspapers/eugene-register-guard/1955-11-20-image-30.jp2' | sha256sum -c -
+
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          capture = Path('evidence/source-captures/1955-11-20-505-main-beer-pool-sale-ad-original-ocr.md')
+          capture.write_text('''# 20 November 1955 505 Main beer/pool tavern sale advertisement — original page visual review
+
+Date reviewed: **7 September 2026**
+
+Status: **PRIMARY NEWSPAPER PAGE / ORIGINAL JP2 RETRIEVED AND VISUALLY VERIFIED; SELLER UNNAMED; CONTACT PHONE VISUALLY READ AS 9179.**
+
+Purpose: preserve and visually certify the original newspaper page for the already known **20 November 1955** sale advertisement at **505 Main Street, Oregon City**, while keeping the unnamed seller and unresolved business succession separate from what the advertisement actually proves.
+
+## Source
+
+**Eugene Register-Guard**, 20 November 1955, Image 30, classified section **Business Opportunity / Business For Sale 600**.
+
+University of Oregon Historic Oregon Newspapers page:
+
+`https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/`
+
+Original JP2:
+
+`https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30.jp2`
+
+Repository source file:
+
+`newspapers/eugene-register-guard/1955-11-20-image-30.jp2`
+
+SHA-256: `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`.
+
+The archive identifies the page as **Eugene register-guard. (Eugene, Or.) 1930-1983, November 20, 1955, Image 30**.
+
+## Visual review
+
+The original JP2 was retrieved at **3724 × 5408 pixels** and visually inspected. The target classified is headed **BEER — POOL** and directly describes:
+
+- one of the best taverns in a large payroll town;
+- a **long-established business**;
+- approximately **50 kegs per month**;
+- bottled wine and beer sales;
+- **3 pool tables**;
+- owner-controlled amusement machines;
+- a reasonable down payment; and
+- inquiry at **505 Main Street, Oregon City, Oregon**.
+
+The advertisement does **not** print a business trade name or seller/proprietor name.
+
+## Telephone number — resolved by visual inspection
+
+The printed contact line is visually legible as **“Phone 9179”**.
+
+This supersedes two earlier non-visual readings:
+
+- the University of Oregon OCR rendered the number as `0179`;
+- earlier project work had carried `6179` as a working reading.
+
+The original page image is controlling for this transcription. The canonical historical contact number for this **20 November 1955 sale advertisement** is therefore **9179**.
+
+This does not establish whether `9179` was a business line, a seller's residence line, an agent's line, or another contact number. That relationship remains to be established independently.
+
+## What this source establishes
+
+The advertisement directly establishes that on **20 November 1955** an unnamed seller offered for sale an established **beer/pool tavern business at 505 Main Street** with three pool tables, beer/wine sales, amusement machines, and contact phone **9179**.
+
+It is consistent with the 1950 Sanborn billiards/cigars/beer use and the 1953 official-secondary directory statement placing **“Well's Recreation”** at 505, but the ad itself does **not** identify the business as Well's Recreation and does not prove continuity from the 1953 directory entry.
+
+## What this source does not establish
+
+Do not infer from this advertisement alone:
+
+- the seller's identity;
+- that the seller was the proprietor behind **Well's Recreation**;
+- the exact trade name in November 1955;
+- who subscribed to telephone **9179**;
+- whether the building real estate was included in the sale;
+- whether a sale actually closed;
+- the buyer's identity;
+- a Harr → Well or Well → later-operator transfer date.
+
+## Research consequence
+
+Highest-value follow-up now becomes:
+
+1. search **9179** in 1953–55 Oregon City telephone directories, city directories, and contemporary advertising to identify the subscriber/contact;
+2. recover the actual **1953 T. W. Salisbury Oregon City & Vicinity Directory** page for 505 / Well's Recreation and any proprietor/telephone notation;
+3. continue one-off Oregon City liquor-license applications/transfers between the late-1948 Harr anchor and this 1955 sale point; and
+4. look for a post-sale reopening, transfer, or new-license action that identifies the buyer.
+
+## Cross-record propagation audit
+
+This visual review changes a source transcription and strengthens `E-039`; it does **not** create a new proprietor, business name, business-transfer date, building-owner fact, or real-estate transaction. The 505 timeline, business timeline, source/evidence registers, YAML evidence/source records, 1953/1960 directory leads, and Enterprise Courier retrieval plan are synchronized. No new person/business ID or crosswalk relationship is warranted.
+''', encoding='utf-8')
+
+          def replace_required(path, old, new):
+              p=Path(path); s=p.read_text(encoding='utf-8')
+              if old not in s:
+                  raise SystemExit(f'missing replacement in {path}: {old!r}')
+              p.write_text(s.replace(old,new), encoding='utf-8')
+
+          replace_required(
+              'evidence/source-captures/1953-oregon-city-vicinity-directory-lead.md',
+              'Nov 1955 classified: unnamed long-established beer/pool tavern at **505 Main**, phone **6179**, three pool tables.',
+              'Nov 1955 classified: unnamed long-established beer/pool tavern at **505 Main**, contact phone **9179** visually verified from the original page image, three pool tables.'
+          )
+          replace_required(
+              'evidence/source-captures/1960-oregon-city-directory-505-main-lead.md',
+              'November 1955 classified: long-established **beer / pool** business at **505 Main**, phone 6179, three pool tables; business name not recovered;',
+              'November 1955 classified: long-established **beer / pool** business at **505 Main**, contact phone **9179** visually verified from the original page image, three pool tables; business name not recovered;'
+          )
+          replace_required(
+              'evidence/source-captures/1950-1992-oregon-city-enterprise-courier-local-microfilm-route-2026-09-07.md',
+              '- phone `0179` and `6179` as separate discovery variants until the original regional ad is visually resolved;',
+              '- visually verified contact phone **`9179`** from the original 20 Nov. 1955 regional ad; search that number for subscriber, proprietor, sale, transfer, and reopening references;'
+          )
+
+          # Source register: upgrade S-037 from OCR route to original-page route and record visual certification.
+          p=Path('evidence/source-register.md'); s=p.read_text(encoding='utf-8')
+          old='## S-037 — Eugene Register-Guard, 20 November 1955, beer-pool classified\nSource/location: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/'
+          new='## S-037 — Eugene Register-Guard, 20 November 1955, beer-pool classified\nSource/location: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/\nRepository scan: `newspapers/eugene-register-guard/1955-11-20-image-30.jp2` (SHA-256 `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`)\nVisual verification: Original JP2 inspected 7 Sep. 2026; the ad prints contact phone **9179**. OCR `0179` and prior working reading `6179` are superseded.'
+          if old not in s: raise SystemExit('S-037 header/source pattern missing')
+          p.write_text(s.replace(old,new),encoding='utf-8')
+
+          # Source YAML: point S-037 at the page rather than OCR derivative.
+          replace_required(
+              'database/sources.yml',
+              '    url: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/',
+              '    url: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/'
+          )
+
+          # Evidence register: append visual phone fact inside E-039 only.
+          p=Path('evidence/evidence-register.md'); s=p.read_text(encoding='utf-8')
+          m=re.search(r'(?ms)^## E-039 .*?(?=^## E-040 )',s)
+          if not m: raise SystemExit('E-039 block missing')
+          block=m.group(0)
+          if '9179' not in block:
+              block=block.rstrip()+"\nVisual verification (7 Sep. 2026): Original `S-037` JP2 inspected; the classified prints contact phone **9179**. University OCR `0179` and the earlier working `6179` transcription are superseded. Seller/subscriber identity remains unresolved.\n\n"
+              s=s[:m.start()]+block+s[m.end():]
+              p.write_text(s,encoding='utf-8')
+
+          # Evidence YAML: synchronize E-039 claim without changing entity relationships.
+          p=Path('database/evidence.yml'); s=p.read_text(encoding='utf-8')
+          claim='      - November 20 1955 Eugene Register-Guard offered a beer-and-pool tavern for sale with inquiries to 505 Main Street, Oregon City.\n'
+          if claim not in s: raise SystemExit('E-039 YAML claim missing')
+          add='      - Original page visual review confirms the advertisement printed contact phone 9179; OCR 0179 and earlier working 6179 readings are superseded.\n'
+          if add not in s:
+              s=s.replace(claim,claim+add,1)
+              p.write_text(s,encoding='utf-8')
+
+          # Address/business chronology — preserve seller/trade-name uncertainty while adding the verified phone.
+          p=Path('timelines/505-main.md'); s=p.read_text(encoding='utf-8')
+          s2=re.sub(
+              r'\| Nov\. 1955 \| Unnamed beer-and-pool tavern\. \| Primary use lead; no invented trade name\. \| `E-039` \|',
+              '| Nov. 1955 | Unnamed beer-and-pool tavern offered for sale; contact phone **9179**. | **Primary newspaper page visually verified**; seller and trade name unprinted/unresolved. | `E-039`; `S-037` |',s,count=1)
+          if s2==s: raise SystemExit('505 timeline 1955 row pattern missing')
+          p.write_text(s2,encoding='utf-8')
+
+          p=Path('registers/business-timeline.md'); s=p.read_text(encoding='utf-8')
+          old='| Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High | |'
+          new='| Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High / original page visually verified | Contact phone **9179**; seller and trade name remain unresolved. |'
+          if old not in s: raise SystemExit('business timeline 1955 row missing')
+          p.write_text(s.replace(old,new,1),encoding='utf-8')
+
+          # Research log: record source acquisition and the exact evidence boundary.
+          p=Path('registers/research-log.md'); s=p.read_text(encoding='utf-8')
+          note='''\n\n## 7 September 2026 — 1955 505 Main sale-ad visual certification\n- Retrieved the original University of Oregon JP2 for *Eugene Register-Guard*, 20 Nov. 1955, Image 30 and preserved it at `newspapers/eugene-register-guard/1955-11-20-image-30.jp2` (`S-037`; SHA-256 `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`).\n- Visually inspected the target **BEER — POOL** classified. It directly prints **505 Main Street, Oregon City** and contact **Phone 9179**.\n- This resolves the phone transcription only: UO OCR `0179` and earlier project reading `6179` are superseded. Seller/proprietor, telephone subscriber, trade name, sale completion, and buyer remain unresolved.\n- Synchronized `S-037`, `E-039`, source/evidence YAML, 505/business timelines, 1953/1960 directory leads, and the Enterprise Courier microfilm target. No new person/business/crosswalk relationship was created.\n'''
+          if '1955 505 Main sale-ad visual certification' not in s:
+              p.write_text(s.rstrip()+note+'\n',encoding='utf-8')
+          PY
+
+          rm -f .github/workflows/fetch-1955-505-sale-page-scan.yml
+          rm -f .github/workflows/integrate-1955-505-sale-visual-review.yml
+
+          echo 'Remaining 505-sale phone variants (expected only in supersession notes):'
+          grep -R -n -E '0179|6179|9179' \
+            evidence/source-captures/1955-11-20-505-main-beer-pool-sale-ad-original-ocr.md \
+            evidence/source-captures/1953-oregon-city-vicinity-directory-lead.md \
+            evidence/source-captures/1960-oregon-city-directory-505-main-lead.md \
+            evidence/source-captures/1950-1992-oregon-city-enterprise-courier-local-microfilm-route-2026-09-07.md \
+            timelines/505-main.md registers/business-timeline.md evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml || true
+
+          python3 scripts/validate_archive.py
+
+          git add -A
+          git status --short
+          git commit -m 'Visually verify 1955 505 sale ad phone 9179'
+
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "push attempt $attempt failed; rebasing onto current main"
+            git pull --rebase origin main
+          done
+          exit 1
