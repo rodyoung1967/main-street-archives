@@ -2,7 +2,7 @@
 
 Date reviewed: **7 September 2026**
 
-Status: **PRIMARY NEWSPAPER PAGE LOCATED / OCR TEXT RECOVERED; PAGE IMAGE NOT VISUALLY CERTIFIED IN THIS PASS; SELLER UNNAMED; PHONE OCR CONFLICT UNRESOLVED.**
+Status: **PRIMARY NEWSPAPER PAGE / ORIGINAL JP2 RETRIEVED AND VISUALLY VERIFIED; SELLER UNNAMED; CONTACT PHONE VISUALLY READ AS 9179.**
 
 Purpose: preserve the exact original-newspaper page location for the already known **20 November 1955** sale advertisement at **505 Main Street, Oregon City**, while keeping the seller identity and telephone-number reading separate from what the OCR alone can establish.
 
@@ -10,9 +10,19 @@ Purpose: preserve the exact original-newspaper page location for the already kno
 
 **Eugene Register-Guard**, 20 November 1955, Image 30, classified section **Business Opportunity / Business For Sale 600**.
 
-University of Oregon Historic Oregon Newspapers OCR route:
+University of Oregon Historic Oregon Newspapers page:
 
-`https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/`
+`https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/`
+
+Original JP2:
+
+`https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30.jp2`
+
+Repository source file:
+
+`newspapers/eugene-register-guard/1955-11-20-image-30.jp2`
+
+SHA-256: `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`.
 
 The archive identifies the page as **Eugene register-guard. (Eugene, Or.) 1930-1983, November 20, 1955, Image 30**.
 
@@ -31,21 +41,22 @@ The classified is headed **“BEER POOL”** and describes:
 
 The advertisement does **not** print a business trade name or seller/proprietor name in the recovered OCR.
 
-## Telephone-number boundary
+## Telephone number — resolved by visual inspection
 
-The University of Oregon page OCR renders the contact line as:
+The original 3724 × 5408 JP2 was visually inspected. The printed contact line is clearly legible as **“Phone 9179”**.
 
-**“Phone 0179”**
+This supersedes two earlier non-visual readings:
 
-Earlier project work had preserved **6179** as the working/canonical reading. The current discovery therefore creates an explicit OCR-versus-prior-reading conflict.
+- the University of Oregon OCR rendered the number as `0179`;
+- earlier project work had carried `6179` as a working reading.
 
-Do **not** replace the canonical phone with `0179` on OCR alone. The original page image / JP2 / PDF must be visually inspected before resolving whether the printed first digit is **0**, **6**, or another character.
+The original page image controls this transcription. The canonical contact number for this **20 November 1955 sale advertisement** is therefore **9179**.
 
-The UO archive's normal page interface provides PDF and JP2 page-image routes for Register-Guard pages, but the exact 20 November 1955 page image could not be rendered/downloaded in this research environment during this pass. That is a **retrieval/visual-certification gap**, not evidence for either telephone reading.
+This does not establish whether `9179` was a business line, a seller's residence line, an agent's line, or another contact number. Subscriber identity remains unresolved.
 
 ## What this source establishes
 
-This advertisement directly establishes that on **20 November 1955** an unnamed seller offered for sale an established **beer/pool tavern business at 505 Main Street** with three pool tables, beer/wine sales, and amusement machines.
+This advertisement directly establishes that on **20 November 1955** an unnamed seller offered for sale an established **beer/pool tavern business at 505 Main Street** with three pool tables, beer/wine sales, amusement machines, and contact phone **9179**.
 
 It is consistent with the 1950 Sanborn billiards/cigars/beer use and the 1953 official-secondary directory statement placing **“Well's Recreation”** at 505, but the ad itself does **not** identify the business as Well's Recreation and does not prove continuity from the 1953 directory entry.
 
@@ -54,6 +65,7 @@ It is consistent with the 1950 Sanborn billiards/cigars/beer use and the 1953 of
 Do not infer from this advertisement alone:
 
 - the seller's identity;
+- who subscribed to telephone **9179**;
 - that the seller was the proprietor behind **Well's Recreation**;
 - the exact trade name in November 1955;
 - whether the building real estate was included in the sale;
@@ -66,10 +78,13 @@ Do not infer from this advertisement alone:
 
 Highest-value follow-up remains:
 
-1. visually inspect the original Register-Guard page image to resolve the telephone number;
-2. search both **0179** and **6179** independently in 1953–55 Oregon City telephone directories and contemporary newspaper advertising;
+1. search **9179** in 1953–55 Oregon City telephone directories, city directories, and contemporary advertising to identify the subscriber/contact;
 3. recover the actual **1953 T. W. Salisbury Oregon City & Vicinity Directory** page for 505 / Well's Recreation and any proprietor notation;
 4. continue one-off Oregon City liquor-license applications/transfers between the late-1948 Harr anchor and this 1955 sale point; and
 5. look for a post-sale reopening, transfer, or new-license action that identifies the buyer.
 
 Until a source creates the bridge, preserve **Well's Recreation (1953 official-secondary)** and this **unnamed 1955 beer/pool tavern sale advertisement** as separate evidentiary points.
+
+## Cross-record propagation audit
+
+This visual review changes a source transcription and strengthens `E-039`; it does **not** create a new proprietor, business name, business-transfer date, building-owner fact, or real-estate transaction. The 505 timeline, business timeline, source/evidence registers, YAML evidence/source records, 1953/1960 directory leads, and Enterprise Courier retrieval plan are synchronized. No new person/business ID or crosswalk relationship is warranted.

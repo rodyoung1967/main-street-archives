@@ -274,6 +274,7 @@ Type: Primary newspaper classified
 Sources: `S-037`  
 Claims: 20 November 1955 Eugene Register-Guard offered a long-established beer-and-pool tavern for sale, inquiries to 505 Main Street, Oregon City. No trade name or owner in the ad.  
 Confidence: Very High for a beer/pool tavern at the address in 1955.
+Visual verification (7 Sep. 2026): Original `S-037` JP2 inspected; the classified prints contact phone **9179**. University OCR `0179` and earlier working `6179` are superseded. Seller/subscriber identity remains unresolved.
 
 ## E-040 — Historical Society Edition v5 Working Narrative
 Type: Project synthesis / working history  

@@ -46,7 +46,7 @@ When the microfilm is inspected, prioritize:
 2. **October–December 1955**
    - local versions or companion notices for the 20 Nov. 1955 505 sale advertisement;
    - proprietor/seller name;
-   - phone `0179` and `6179` as separate discovery variants until the original regional ad is visually resolved;
+   - visually verified contact phone **`9179`** from the original 20 Nov. 1955 regional ad; search that number for subscriber, proprietor, sale, transfer, and reopening references;
    - change-of-ownership, closing, sale-completed, liquor-license or reopening language.
 
 3. **January–December 1956**

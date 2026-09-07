@@ -37,7 +37,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | Late 1948 | **Carl R. Harr, Harr's Recreation Center, 505 Main** in liquor-license list. | **Exact primary municipal text**; page not visually certified; exact meeting date open. Proves Harr distinct from Farr. | `BUS-014`; `P-094`; `E-127`; `S-142` |
 | 1950 | Sanborn: billiards, cigars, beer at 505. | Exact map use; business/operator unnamed. | `E-020`; `SM-009` |
 | 1953 | **“Well's Recreation”** reported at 505. | May 2000 individual SHPO survey scan is now **VISUALLY VERIFIED** and explicitly attributes this wording to a "1953 city directory"; the underlying directory page/proprietor remains unresolved. | `BUS-015`; `E-032`; `E-257`; `S-284` |
-| Nov. 1955 | Unnamed beer-and-pool tavern. | Primary use lead; no invented trade name. | `E-039` |
+| Nov. 1955 | Unnamed beer-and-pool tavern offered for sale; contact phone **9179**. | **Primary newspaper page visually verified**; seller and trade name unprinted/unresolved. | `E-039`; `S-037` |
 | Nov. 1965 | **505 Tavern** liquor renewal. | **Exact primary municipal.** | `BUS-005`; `E-029`; `S-038` |
 | 1 Sep. 1967 | Block fire; 505 Tavern and Wheel Restaurant spared with smoke/water damage. | Shared event; confirms separate businesses. | `E-045`; `S-052` |
 | Mar. 1972; Feb. 1976 | 505 Tavern renewal and classified (655-4321). | Primary documentary anchors. | `E-029`, `E-046`; `S-039`, `S-053` |

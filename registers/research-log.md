@@ -932,3 +932,9 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Current schedule shows ordinary license files/history/tradename cards are finite-retention records; missing 1967 operational files therefore cannot be treated as negative evidence.
 - Corrected stale `S-027` / `E-025` exact-7-June wording in canonical Markdown/YAML and related narratives.
 - Refined existing `MF-052` and the unsent OLCC request draft; **no institutional request was sent**.
+
+## 7 September 2026 — 1955 505 Main sale-ad visual certification
+- Retrieved and preserved the original University of Oregon JP2 for *Eugene Register-Guard*, 20 Nov. 1955, Image 30 at `newspapers/eugene-register-guard/1955-11-20-image-30.jp2` (`S-037`; SHA-256 `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`).
+- Visual inspection directly reads **505 Main Street, Oregon City** and **Phone 9179** in the **BEER — POOL** classified. UO OCR `0179` and earlier project reading `6179` are superseded.
+- Seller/proprietor, telephone subscriber, trade name, sale completion, and buyer remain unresolved. No new person/business/crosswalk relationship was created.
+

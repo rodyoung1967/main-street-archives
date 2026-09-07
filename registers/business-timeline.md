@@ -58,7 +58,7 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 | 1945 (City synthesis; May 2000 individual form visually verified) | Harr's Recreation Center | `BUS-014` | `E-032`, `E-257` | Official secondary chronology; survey wording visually verified | SHPO resource 30539 page 1 explicitly says a "1945 city directory" lists Harr's at 505; underlying directory title/page still needed. |
 | 1950 | Billiards, cigars, beer (Sanborn) | | `E-020` | High map | |
 | 1953 (City synthesis; May 2000 individual form visually verified) | “Well's Recreation” | `BUS-015` | `E-032`, `E-257` | Official secondary chronology; survey wording visually verified | SHPO resource 30539 page 1 explicitly attributes "Well's Recreation" to a 1953 city directory; underlying page/proprietor still needed. |
-| Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High | |
+| Nov. 1955 | Beer-and-pool tavern (unnamed in ad) | | `E-039` | Very High / original page visually verified | Contact phone **9179**; seller and trade name remain unresolved. |
 | Nov. 1965 / Mar. 1972 | 505 Tavern | `BUS-005` | `E-029` | Very High | Liquor renewals. Separate from The Wheel at 503. |
 | 1 Sep. 1967 | 505 Tavern | `BUS-005` | `E-045` | Very High | Spared in the block fire; smoke and water damage. The same article separately names Wheel Restaurant. |
 | Feb. 1976 | 505 Tavern | `BUS-005` | `E-046` | Very High | Classified; phone 655-4321. Still using 505 Tavern name. |

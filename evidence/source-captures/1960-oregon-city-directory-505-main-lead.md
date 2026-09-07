@@ -17,7 +17,7 @@ The current 505 Main chronology has a narrow but important business-name transit
 - late 1948: **Carl R. Harr, Harr's Recreation Center, 505 Main Street** (primary City Commission liquor-license evidence);
 - 1950 Sanborn: **billiards / cigars / beer** use at 505;
 - 1953 city historic-resource synthesis: **"Well's Recreation"** at 505, spelling/proprietor still unverified from the underlying directory;
-- November 1955 classified: long-established **beer / pool** business at **505 Main**, phone 6179, three pool tables; business name not recovered;
+- November 1955 classified: long-established **beer / pool** business at **505 Main**, contact phone **9179** visually verified from the original page image, three pool tables; business name not recovered;
 - November 1965: City Commission liquor-license renewal explicitly lists **505 Tavern**.
 
 The **1960 directory lies directly inside this rename/ownership gap**. It can potentially establish whether the 505 Tavern name was already in use by 1960 or whether a recreation/pool-hall name persisted later than 1955.

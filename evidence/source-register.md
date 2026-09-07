@@ -198,7 +198,9 @@ Related evidence: `E-033`
 Notes: Farr's Pool Hall at 505 Main. Related evidence E-033.
 
 ## S-037 — Eugene Register-Guard, 20 November 1955, beer-pool classified
-Source/location: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/ocr/
+Source/location: https://oregonnews.uoregon.edu/lccn/sn85042472/1955-11-20/ed-1/seq-30/
+Repository scan: `newspapers/eugene-register-guard/1955-11-20-image-30.jp2` (SHA-256 `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`)
+Visual verification: Original JP2 inspected 7 Sep. 2026; the ad prints contact phone **9179**. OCR `0179` and prior working reading `6179` are superseded.
 Related evidence: `E-039`
 Notes: Inquiries at 505 Main. Related evidence E-039.
 

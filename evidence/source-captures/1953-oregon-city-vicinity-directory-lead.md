@@ -97,7 +97,7 @@ The 1953 Salisbury directory is therefore the most direct source for testing:
 - Late 1948 Commission liquor-license list: **Carl R. Harr, Harr's Recreation Center, 505 Main Street**.
 - 1950 Sanborn: billiards, cigars, beer at 505.
 - 1953 city synthesis: **"Well's Recreation"** at 505; underlying directory page not yet recovered.
-- Nov 1955 classified: unnamed long-established beer/pool tavern at **505 Main**, phone **6179**, three pool tables.
+- Nov 1955 classified: unnamed long-established beer/pool tavern at **505 Main**, contact phone **9179** visually verified from the original page image, three pool tables.
 
 ## Retrieval targets
 
