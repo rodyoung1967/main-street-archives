@@ -35,10 +35,12 @@ jobs:
       - name: Integrate Flor-Kwality-Wheel transition
         run: |
           python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
-          # Normalize colon-space punctuation in the generated BUS-004 plain YAML
-          # note before validation. The prose meaning is unchanged.
+          # Normalize generator formatting before validation. These changes only
+          # restore valid YAML syntax; they do not alter the evidence claims.
           python3 - <<'PY'
           from pathlib import Path
+          import re
+
           p = Path('database/businesses.yml')
           t = p.read_text(encoding='utf-8')
           t = t.replace('primary anchor is 22 Aug 1958: Wheel Cafe & Lounge',
@@ -46,6 +48,15 @@ jobs:
           t = t.replace('503 Main St., Ph: 9106 (',
                         '503 Main St., phone 9106 (')
           p.write_text(t, encoding='utf-8')
+
+          # append_once() in this one-off integrator strips the indentation from
+          # the first line of newly appended YAML list items. Restore the root-list
+          # indentation in the generated source/evidence databases.
+          for name in ('database/sources.yml', 'database/evidence.yml'):
+              p = Path(name)
+              t = p.read_text(encoding='utf-8')
+              t = re.sub(r'(?m)^- id: ((?:S|E)-\d+)\s*$', r'  - id: \1', t)
+              p.write_text(t, encoding='utf-8')
           PY
 
       - name: Validate archive after edit
