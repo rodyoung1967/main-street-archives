@@ -1,10 +1,10 @@
-# 20 November 1955 505 Main beer/pool tavern sale advertisement — original newspaper page OCR
+# 20 November 1955 505 Main beer/pool tavern sale advertisement — original newspaper page visual review
 
 Date reviewed: **7 September 2026**
 
 Status: **PRIMARY NEWSPAPER PAGE / ORIGINAL JP2 RETRIEVED AND VISUALLY VERIFIED; SELLER UNNAMED; CONTACT PHONE VISUALLY READ AS 9179.**
 
-Purpose: preserve the exact original-newspaper page location for the already known **20 November 1955** sale advertisement at **505 Main Street, Oregon City**, while keeping the seller identity and telephone-number reading separate from what the OCR alone can establish.
+Purpose: preserve and visually certify the original newspaper page for the already known **20 November 1955** sale advertisement at **505 Main Street, Oregon City**, while keeping the unnamed seller, telephone subscriber, trade name, and later succession separate from what the advertisement itself proves.
 
 ## Source
 
@@ -26,9 +26,9 @@ SHA-256: `50a237e527267eae87393ec3e8d5b45e9c87fca60e7bb66d46fa06d6efd2ef48`.
 
 The archive identifies the page as **Eugene register-guard. (Eugene, Or.) 1930-1983, November 20, 1955, Image 30**.
 
-## Advertisement content recovered from the original page OCR
+## Visual review of the original advertisement
 
-The classified is headed **“BEER POOL”** and describes:
+The original **3724 × 5408** JP2 was visually inspected. The target classified is headed **“BEER — POOL”** and directly describes:
 
 - one of the best taverns in a large payroll town;
 - a **long-established business**;
@@ -39,11 +39,11 @@ The classified is headed **“BEER POOL”** and describes:
 - a reasonable down payment; and
 - inquiry at **505 Main Street, Oregon City, Oregon**.
 
-The advertisement does **not** print a business trade name or seller/proprietor name in the recovered OCR.
+The advertisement does **not** print a business trade name or seller/proprietor name.
 
 ## Telephone number — resolved by visual inspection
 
-The original 3724 × 5408 JP2 was visually inspected. The printed contact line is clearly legible as **“Phone 9179”**.
+The printed contact line is clearly legible as **“Phone 9179”**.
 
 This supersedes two earlier non-visual readings:
 
@@ -70,18 +70,17 @@ Do not infer from this advertisement alone:
 - the exact trade name in November 1955;
 - whether the building real estate was included in the sale;
 - whether a sale actually closed;
-- the buyer's identity;
-- a Harr → Well or Well → later-operator transfer date; or
-- whether `0179` or `6179` is the correct printed telephone number.
+- the buyer's identity; or
+- a Harr → Well or Well → later-operator transfer date.
 
 ## Research consequence
 
 Highest-value follow-up remains:
 
 1. search **9179** in 1953–55 Oregon City telephone directories, city directories, and contemporary advertising to identify the subscriber/contact;
-3. recover the actual **1953 T. W. Salisbury Oregon City & Vicinity Directory** page for 505 / Well's Recreation and any proprietor notation;
-4. continue one-off Oregon City liquor-license applications/transfers between the late-1948 Harr anchor and this 1955 sale point; and
-5. look for a post-sale reopening, transfer, or new-license action that identifies the buyer.
+2. recover the actual **1953 T. W. Salisbury Oregon City & Vicinity Directory** page for 505 / Well's Recreation and any proprietor/telephone notation;
+3. continue one-off Oregon City liquor-license applications/transfers between the late-1948 Harr anchor and this 1955 sale point; and
+4. look for a post-sale reopening, transfer, or new-license action that identifies the buyer.
 
 Until a source creates the bridge, preserve **Well's Recreation (1953 official-secondary)** and this **unnamed 1955 beer/pool tavern sale advertisement** as separate evidentiary points.
 
