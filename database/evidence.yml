@@ -3801,3 +3801,18 @@ evidence:
     related_businesses: [BUS-103, BUS-104]
     related_people: [P-396]
     related_sources: [S-281]
+
+  - id: E-255
+    name: "Wheel Cafe & Lounge is directly documented at 503 Main by 22 August 1958"
+    source: S-282
+    type: "Primary newspaper advertisement"
+    claims:
+      - "22 August 1958 advertisement directly reads WHEEL CAFE & LOUNGE."
+      - "Advertisement directly prints 503 Main St. and Ph: 9106."
+      - "Paired with E-032's 1957 Flor same-address operator control, this brackets an unresolved transition; it does not identify the Wheel proprietor or prove a Flor ownership/rename/sale."
+    confidence: "Very High / DOCUMENTED-DIRECT for 1958 name-address-phone; transition unresolved"
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    related_people: [P-025]
+    related_sources: [S-282]
+    # Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06

@@ -4,7 +4,7 @@
 
 - Business ID: `BUS-004`
 - Related building: `B-001` (503 Main Street)
-- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-225`, `E-228`, `E-229`, `E-230`
+- Related evidence: `E-001`, `E-007`, `E-015`, `E-022`, `E-025`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-225`, `E-228`, `E-229`, `E-230`, `E-255`
 - Related people: `P-006`, `P-010`, `P-022`, `P-007`, `P-008`, `P-394`
 
 ## Known / Working History
@@ -64,3 +64,14 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) catalogs **The Wheel** in this ci
 ## 1955–1965 P-1311 bluff photograph
 
 CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`), cataloged **1955–1965**, provides an elevated same-frame view of 503 and 505 Main. Enlarged review supports **The Wheel** wording/signage on the 503 frontage and **505 Tavern / Tavern 505** on the adjacent 505 frontage. This strengthens the physical separation of the two businesses but does not supply an exact exposure year.
+
+## Earliest exact-address Wheel anchor and 1957 predecessor boundary
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+`S-282` / `E-255` preserves a visually reviewed **22 August 1958** *Clackamas County News* advertisement reading **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. This moves the archive's earliest registered exact-number Wheel anchor earlier than the previously emphasized 30 November 1960 intersection-only advertisement. The ownership-bridge capture also records a visually reviewed **28 November 1958** repeat advertisement and an OCR/text-only **13 February 1959** continuation with the same 503/9106 wording.
+
+The immediately preceding named same-address control is the City's official-secondary **1957 Mr./Mrs. Albert D. Flor restaurant/cocktail-bar operation** (`E-032` / `S-026`). Therefore the present documentary bracket is:
+
+**1957 — Flor restaurant/cocktail bar at 503 → by 22 Aug. 1958 — Wheel Cafe & Lounge at 503.**
+
+Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. No recovered source yet says who owned or licensed the Wheel in August 1958, whether Flor continued under the Wheel name, whether a sale occurred, or who Raye later purchased from. `P-025` is therefore retained as a predecessor/operator control and is **not** promoted to a Wheel owner/operator without a direct bridge.

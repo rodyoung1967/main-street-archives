@@ -2376,3 +2376,14 @@ Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed
 Preserved originals: `newspapers/oregon-city-enterprise/1917-june/`; manifest `newspapers/oregon-city-enterprise/1917-june/manifest.json`; retrieval commit `77ec7b746990740ba842e7f451b490cadd07763c`.  
 Evidence: `E-254`; capture: `evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md`.  
 Notes: W. S. Eddy/Fashion Stable repeats through 29 June at Main between Fourth/Fifth; 22 June repeats Farr Bros. in county expenditures. No exact target Main occupant.
+
+## S-282 — Clackamas County News, 22 August 1958 p.2 — Wheel Cafe & Lounge at 503 Main
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+Type: Primary newspaper page scan  
+Publication: *The Clackamas County News*  
+Date/page: **22 August 1958, p. 2**  
+Repository file: `newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf`  
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-08-22/ed-1/seq-2.pdf  
+Evidence: `E-255`  
+Capture: `evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md`  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The original page was visually reviewed during the 5–6 September 2026 ownership-bridge pass; the preserved PDF is the same archive page. The advertisement directly reads **WHEEL CAFE & LOUNGE**, **503 Main St.**, **Ph: 9106**. It does not name a proprietor, owner, licensee, seller, buyer, or predecessor.

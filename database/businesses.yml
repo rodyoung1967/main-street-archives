@@ -3,7 +3,7 @@ businesses:
     name: Kwality Cafe
     repository_file: businesses/kwality-cafe.md
     address: 503 Main
-    notes: Early cafe/restaurant occupant. Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City; street number not in the ad. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+    notes: Early cafe/restaurant occupant. Oregonian 12 June 1937 classified advertises KWALITY cafe for sale, Oregon City; street number not in the ad. September 1953 City text names Al & Marge Kwality Cafe; paired with the 1951 Flor/Remus liquor-license line and the 1957 Flor 503 operator control this is a strong continuity hypothesis, not direct identity proof. A direct 22 Aug 1958 Wheel Cafe & Lounge advertisement at exact 503 brackets the later transition without proving Flor owned, renamed, or sold The Wheel. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
     related_buildings:
       - B-001
@@ -52,7 +52,7 @@ businesses:
     name: The Wheel
     repository_file: businesses/the-wheel.md
     address: 503 Main
-    notes: The Wheel was only at 503 Main and was never a 505 Main business. Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503; the surname change is not a business transfer. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. OLCC indexed license text later names Maurice Enterprises Inc as licensee for The Wheel Bar & Grill at 503, license 104145 expiring 3/31/09; this is a later operating-license endpoint, not a deed/sale date. June 7 1967 Commission minutes place the Wheel at 503 Main Street. A 2017 article's phrase "The Wheel Tavern" is source wording only; family correction says it was never an official business name. The former Mrs. Nemeth/Nesmeth property-purchase claim does not belong to 503; that purchase was 505 Main.
+    notes: The Wheel was only at 503 Main and was never a 505 Main business. Earliest currently registered exact-number primary anchor is 22 Aug 1958 — Wheel Cafe & Lounge, 503 Main St., phone 9106 (E-255/S-282); a 28 Nov 1958 repeat is preserved in the ownership-bridge capture and Feb 1959 continuation is OCR/text only. The 1957 Flor restaurant/cocktail-bar same-address control brackets the predecessor transition but does not prove Flor owned, renamed, or sold The Wheel. Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503; the surname change is not a business transfer. Documented as Wheel Cafe at 5th and Main by 1960, Wheel Restaurant in the 1967 fire article, and The Wheel Cafe at 503 Main in 1985 with Richard M. Wiitanen as owner. OLCC indexed license text later names Maurice Enterprises Inc as licensee for The Wheel Bar & Grill at 503, license 104145 expiring 3/31/09; this is a later operating-license endpoint, not a deed/sale date. June 7 1967 Commission minutes place the Wheel at 503 Main Street. A 2017 article's phrase "The Wheel Tavern" is source wording only; family correction says it was never an official business name. The former Mrs. Nemeth/Nesmeth property-purchase claim does not belong to 503; that purchase was 505 Main.
     related_buildings:
       - B-001
     related_people:
@@ -71,6 +71,9 @@ businesses:
       - E-049
       - E-206
       - E-225
+      - E-255
+    related_sources:
+      - S-282
   - id: BUS-005
     name: 505 Tavern
     repository_file: businesses/the-505.md

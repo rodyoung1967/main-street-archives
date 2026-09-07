@@ -32,3 +32,12 @@ Classification: **STRONG CROSS-SOURCE CONTINUITY HYPOTHESIS; NOT DIRECT IDENTITY
 Official Oregon City Commission searchable text for the **9 November 1949** meeting's October claims report includes the exact name **Albert D. Flor** among City payees/vendors. The underlying PDF timed out during visual retrieval, and the text does not identify his business, address, or reason beyond the claims-list context. Classification: **OFFICIAL PRIMARY TEXT / VISUAL RENDER RETRIEVAL GAP**.
 
 This is now the earliest exact-name Oregon City control recovered for the later 503 operator, subject to identity confirmation across the 1949/1951/1957 records. It does not itself connect Flor to Kwality Cafe or 503 Main.
+
+## 1957 → 22 August 1958 503 Main transition boundary
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+The City historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. Albert D. Flor** operating/managing the **restaurant and cocktail bar at 503 Main in 1957**. A now-preserved and formally registered primary advertisement (`E-255` / `S-282`) directly places **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106** there on **22 August 1958**.
+
+These are two documented endpoints at the same address. They make Flor the **latest currently identified named operator control before the earliest exact-number Wheel anchor**, but they do not establish the mechanism of transition.
+
+Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. Do **not** infer that Flor owned The Wheel, renamed Kwality Cafe to The Wheel, sold The Wheel, or sold it to Raye LaFarlette/Grisham. The decisive targets are 1957–1958 liquor-license renewals/transfers, assumed-business-name filings, directories/telephone books, and contemporary sale/new-management notices.

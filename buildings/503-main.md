@@ -6,8 +6,8 @@
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`, `BUS-078`
 - Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`, `P-035`, `P-036`, `P-394`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-225`, `E-228`, `E-229`, `E-230`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-251`, `S-254`, `S-255`, `S-256`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-225`, `E-228`, `E-229`, `E-230`, `E-255`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-251`, `S-254`, `S-255`, `S-256`, `S-282`
 - Unified timeline: [503 Main Street](../timelines/503-main.md)
 
 ## Known / Working History
@@ -262,3 +262,10 @@ CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca -
 `E-228` adds a **2 December 2002 / $200,000** 503 transaction lead, but the aggregator hides the buyer and seller. `E-229` then supplies a public-record-derived **2010** assessment snapshot naming **Maurice Shahtout** on the 503 land/building entry while the neighboring 505 land/building entry still names **Richard M. and Sheila J. Wiitanen**. `E-230` independently links **Maurice Enterprises Inc** to **The Wheel Bar & Grill** in an official Clackamas County business-personal-property record, while `E-225` independently places that entity/trade name at 503 through OLCC.
 
 This strongly narrows the downstream 503 chain but does **not** yet prove that the 2 December 2002 transaction was the Wiitanen conveyance, that Maurice Shahtout was its buyer, or that Maurice Shahtout and Maurice Enterprises Inc were legally the same interest. Retrieve the County deed/index chain under `MF-048`.
+
+## 1957–1958 occupancy/name transition at 503
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+The 503 occupancy chronology can now be bracketed more tightly. `E-032` / `S-026` places **Mr. and Mrs. Albert D. Flor** operating/managing the restaurant/cocktail bar at this address in **1957**. `E-255` / `S-282` directly advertises **WHEEL CAFE & LOUNGE, 503 Main St., phone 9106** on **22 August 1958**.
+
+This is an **occupancy/trade-name boundary, not a real-estate ownership event**. The records do not establish a property conveyance, a business sale, an assumed-name filing, or the identity of the August 1958 licensee. The exact Kwality/Flor → Wheel mechanism remains unresolved.

@@ -192,3 +192,10 @@ These records were already part of the evidence narrative but previously lacked 
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 `BUS-104` Farr Brothers receives a second 1917 dated observation: 22 June p6 County Court expenditures include **Farr Bros.** (`E-254` / `S-281`), without address or new trade description. No 505 Main relationship is inferred.
+
+## 6 September 2026 — 503 Kwality/Flor → Wheel transition refinement
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+- `BUS-001` **Kwality Cafe lineage:** 1957 City synthesis places Mr./Mrs. Albert D. Flor at the 503 restaurant/cocktail bar; the 1953 `Al & Marge Kwality Cafe` identity remains a strong hypothesis, not direct proof.
+- `BUS-004` **The Wheel:** `S-282` / `E-255` now supplies the earliest registered exact-number primary anchor: **Wheel Cafe & Lounge, 503 Main St., phone 9106, 22 August 1958**.
+- Do not merge the endpoints into a Flor-owned Wheel or a proved Kwality→Wheel rename/sale without a direct transfer/license/trade-name record.

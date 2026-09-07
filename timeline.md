@@ -580,3 +580,10 @@ The May batch also extends **W. S. Eddy / Fashion Stable (`P-396` / `BUS-103`) a
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 The 1/8/15/22/29 June *Oregon City Enterprise* p7 professional ads continue to place **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) between Fourth and Fifth on Main Street**, extending the direct 1917 observation through **29 June** (`E-254` / `S-281`). No exact street number, ownership or physical-building continuity is established. The separate W. B. Eddy/427 Main identity remains unmerged.
+
+## 1957–22 August 1958 — 503 restaurant/Flor → Wheel boundary refined
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+The earlier 1957–1960 bracket is now narrowed. The City historic-resource synthesis (`E-032` / `S-026`) reports **Mr. and Mrs. Albert D. Flor** operating/managing the restaurant and cocktail bar at **503 Main in 1957**. A preserved, visually reviewed **22 August 1958** *Clackamas County News* advertisement (`E-255` / `S-282`) directly reads **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**.
+
+**Documented endpoints:** 1957 Flor operation at 503 → Wheel Cafe & Lounge at exact 503 by 22 August 1958. **Unresolved:** whether Flor renamed the business, sold it, was replaced by an intermediate operator, or had any ownership relationship to The Wheel. No property transfer is inferred from this occupancy/name change.

@@ -79,3 +79,10 @@ Limits remain material: the 1953 finance line gives **no address or surnames**, 
 
 Official 1953 Commission PDF: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4752017/File/document  
 City 902 Fifth historic-resource record: https://www.orcity.org/2072/902-5th-Street
+
+## 1957 → 1958 Kwality/Flor → Wheel transition bracket
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+The early-1950s continuity evidence now has a firm later boundary. The City's 1957 historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. Albert D. Flor** with the restaurant/cocktail-bar operation at **503 Main**. The visually verified **22 August 1958** advertisement (`E-255` / `S-282`) directly identifies **WHEEL CAFE & LOUNGE at 503 Main, phone 9106**.
+
+Together with the 1953 **`Al & Marge Kwality Cafe`** line, these records make 1957–1958 the critical transition interval. They do **not** directly prove that `Al & Marge` were Flor/Remus, that Kwality was formally renamed The Wheel, that Flor owned either business, or that the Flor household sold to Raye. Preserve those as research hypotheses until a proprietor/license/transfer record names the parties and trade name.

@@ -28,9 +28,10 @@ The 1912 and 1913 rows were previously misplaced under the 503 heading. They are
 | Mar. 1912 | H. H. Smith pool hall (application) | `BUS-019` | `E-023` | Very High for application | Grant not independently proven. |
 | Feb. 1914 | L. Hylton cigar/tobacco | `BUS-020` | `E-024` | Very High | |
 | 1925 | Restaurant (Sanborn) | `BUS-001` context | `E-020` | High map | Kwality name not on the map. |
-| 1926 / 1947 / 1957 | Kwality Restaurant / Cafe / Flor | `BUS-001` | `E-032` | Official secondary | |
+| 1926 / 1947 / 1957 | Kwality Restaurant / Cafe / Flor | `BUS-001` | `E-032` | Official secondary | 1957 is the latest named same-address Flor operator control before Wheel appears directly at exact 503 in Aug. 1958; transition mechanism unresolved. |
 | Jun. 1937 | Kwality Cafe (for sale) | `BUS-001` | `E-043` | Very High name; address not in ad | Oregon City classified; manager retiring. Street number not in the ad. |
-| Nov. 1960 | Wheel Cafe | `BUS-004` | `E-044` | Very High name/intersection | Oregonian: 5th and Main. Street number not stated. |
+| 22 Aug. 1958 | Wheel Cafe & Lounge | `BUS-004` | `E-255` / `S-282` | Very High / visually verified exact address | Direct ad: **503 Main St., Ph: 9106**. Proprietor/licensee not named; paired with 1957 Flor control only as an unresolved transition bracket. |
+| Nov. 1960 | Wheel Cafe | `BUS-004` | `E-044` | Very High name/intersection | Oregonian: 5th and Main. Street number not stated; later corroboration after the exact 1958 anchor. |
 | By Jun. 1967 | The Wheel | `BUS-004` | `E-025`, `E-022` | Very High address; high family purchase | Raye LaFarlette / Raye Grisham is the same person and bought The Wheel at 503. The surname change is not a business transfer. |
 | 1 Sep. 1967 | Wheel Restaurant | `BUS-004` | `E-045` | Very High | Spared in the block fire; smoke and water damage. |
 | Apr. 1983 | Wheel Cafe | `BUS-004` | `E-047` | Very High name | Downtown lunch landmark. Street number not in article. |

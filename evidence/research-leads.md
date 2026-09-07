@@ -442,3 +442,10 @@ May is complete 32/32 (`S-280` / `E-253`), cumulative **168 genuine Enterprise p
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 `S-281` / `E-254` extends the direct W. S. Eddy / Fashion Stable **Main-between-Fourth/Fifth** observation through **29 June 1917**. Continue searching move notices, directories, licenses and property records for the transition from the 1915 Fifth-between-Main/Water location. The longer 1917 span still supplies no exact number and does not bridge W. S. Eddy to W. B. Eddy/427 Main. June's Farr Bros. expenditure appearance likewise supplies no 505 Main bridge.
+
+## 6 September 2026 — 1957–1958 Flor/Kwality → Wheel transfer search
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+Highest-value target is now the narrow **1957 through 22 August 1958** transition at 503 Main. Search Oregon City/OLCC liquor-license applications, renewals and transfers; assumed-business-name filings; 1957–1959 directories/telephone books; and newspaper sale/new-management notices using **Albert D. Flor**, **Mr./Mrs. Albert D. Flor**, **Margaret/Marge Remus**, **Al & Marge Kwality Cafe**, **Kwality Cafe**, **Wheel Cafe & Lounge**, **503 Main**, and **9106**.
+
+Disconfirming test: actively look for a different proprietor/licensee at the Wheel in 1958. A different named operator would defeat any simple Flor=Wheel assumption and may identify the pre-Raye seller chain.

@@ -270,3 +270,15 @@ May 1917 is now 32/32 visually verified under `S-280` / `E-253`. The exact 1917 
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
 
 June is complete **40/40** under `S-281` / `E-254`. The exact 503/505 occupant question remains open: no target-number occupant was established. Fashion Stable's Main-between-Fourth/Fifth wording now persists through **29 June 1917**, narrowing its 1917 state but not its exact address. Continue with July Enterprise using the same printed-date/page-number audit.
+
+## 6 September 2026 — who controlled 503 at the Kwality/Flor → Wheel transition?
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+`E-032` / `S-026` places Mr./Mrs. Albert D. Flor with the 503 restaurant/cocktail bar in **1957**; `E-255` / `S-282` directly places **Wheel Cafe & Lounge at 503 Main** by **22 August 1958**. The exact transition is now narrowed but still unanswered.
+
+Questions to resolve:
+1. Was the 1953 **`Al & Marge Kwality Cafe`** line Albert D. Flor and Margaret Remus?
+2. Who was the proprietor/licensee of **Wheel Cafe & Lounge, 503 Main** in August 1958?
+3. Did Flor continue under a new Wheel trade name, sell/transfer the business, or leave before another operator renamed it?
+4. If a sale occurred, who were the buyer and seller, and is either party connected to Raye LaFarlette/Grisham's later acquisition?
+5. What dated record first uses the Wheel name and what dated record last uses Kwality/Flor wording?

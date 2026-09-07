@@ -269,7 +269,7 @@ people:
     name: Mr. and Mrs. Albert D. Flor
     repository_file: people/profiles/albert-d-flor-family.md
     role: 503 restaurant/cocktail-bar operators
-    notes: 1957 listing in City historic-resource synthesis.
+    notes: 1957 City historic-resource synthesis places Mr./Mrs. Albert D. Flor operating/managing the restaurant/cocktail bar at 503 Main. This is the latest currently named same-address operator control before the direct 22 Aug 1958 Wheel Cafe & Lounge exact-address advertisement. The transition mechanism is unresolved; do not infer Flor owned, renamed, or sold The Wheel.
     related_buildings:
       - B-001
     related_businesses:
@@ -1215,4 +1215,3 @@ people:
     notes: >-
       Visually verified 1915 notices place W. S. Eddy / Fashion Stable on Fifth Street between Main and Water; repeated April 1917 ads place the stable on Main between Fourth and Fifth. Exact move date and number unresolved. Do not merge with W. B. Eddy or earlier A. J. Eddy wording without a bridge.
     related_businesses: [BUS-103]
-

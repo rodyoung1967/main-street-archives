@@ -687,3 +687,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | --- | --- | --- |
 | `S-281` / `E-254` | `P-396`, `BUS-103` | Five June p7 ads continue W. S. Eddy / Fashion Stable at Main between Fourth and Fifth through 29 June; no number. |
 | `S-281` / `E-254` | `BUS-104` | 22 June p6 County Court expenditures include Farr Bros.; no address/proprietor/new trade description. |
+
+## S-282 / E-255 — 1958 Wheel exact-address transition control
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+| Record | Links | Handling rule |
+| --- | --- | --- |
+| `S-282` / `E-255` | `B-001`, `BUS-004`; compare `P-025` / `E-032` | 22 Aug. 1958 visually verified ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Pair with 1957 Flor only to bracket an unresolved transition; do not promote Flor to Wheel owner/operator without a bridge. |

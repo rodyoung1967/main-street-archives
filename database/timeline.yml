@@ -465,13 +465,14 @@ timeline:
     related_buildings: []
 
   - id: T-038
-    date: 1957–1960
-    summary: City synthesis reports Albert D. Flor restaurant/cocktail-bar operation at 503 in 1957; 1960 Oregonian places Wheel Cafe at Fifth and Main. Exact Kwality-to-Wheel transition remains unresolved.
-    confidence: Official secondary for 1957; High for 1960 newspaper wording; transition unresolved.
+    date: 1957–22 August 1958
+    summary: City synthesis reports Mr./Mrs. Albert D. Flor operating/managing the restaurant/cocktail bar at 503 in 1957; visually reviewed 22 Aug 1958 Clackamas County News ad directly places Wheel Cafe & Lounge at 503 Main, phone 9106. Exact Kwality/Flor-to-Wheel transition and proprietor/licensee remain unresolved.
+    confidence: Official secondary for 1957; DOCUMENTED/DIRECT primary newspaper page for 22 Aug 1958; transition unresolved.
     related_people: [P-025]
-    related_businesses: [BUS-004]
+    related_businesses: [BUS-001, BUS-004]
     related_buildings: [B-001]
-
+    related_evidence: [E-032, E-255]
+    related_sources: [S-026, S-282]
   - id: T-047
     date: 10 July 1926
     summary: Fire-call table records Sixth and Main at 4.40 p.m. as a false alarm; damage blank, no numbered premises or occupant.

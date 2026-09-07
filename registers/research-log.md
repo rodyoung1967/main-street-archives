@@ -877,3 +877,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Enterprise cumulative genuine coverage is **208 pages through June**; **206 July–December exposed slots remain**. Earlier 16 Mar p5 and 13 Apr p8 gaps remain.
 - `S-281` / `E-254` extend W. S. Eddy / Fashion Stable at Main between Fourth/Fifth through 29 June and add a 22 June Farr Bros. County Court expenditure appearance.
 - No exact 501/503/505/507/509/511 or new 427 Main occupant was established. This is bounded coverage, not vacancy evidence.
+
+### 2026-09-06 — synchronized Flor/Kwality → Wheel 1957–1958 transition
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+
+- Preserved the previously visually reviewed **22 Aug. 1958 Clackamas County News p.2** page under `newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf` and formally registered it as `S-282` / `E-255`.
+- Direct source wording: **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**.
+- Propagated the resulting 1957→1958 bracket across `P-025`, `BUS-001`, `BUS-004`, `B-001`, the 503 and master timelines, business timeline/index, YAML databases, open questions, research leads and crosswalk.
+- Repaired pre-existing YAML drift for B-001 by carrying its already-established `P-025` / `E-032` / `S-026` Flor connection into `database/buildings.yml`.
+- Evidence handling remains conservative: the 1957 Flor endpoint and 1958 Wheel endpoint are documented, but **ownership, rename, sale, licensee identity and Raye's seller remain unresolved**. No Flor→Wheel ownership relationship was manufactured.

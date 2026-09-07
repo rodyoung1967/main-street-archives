@@ -2517,3 +2517,19 @@ Claims:
 - no exact 501/503/505/507/509/511 Main or new 427 Main occupant was established.
 Classification: **DOCUMENTED / DIRECT** for page identity and printed Fashion Stable/Farr wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
 Confidence: **Very High**, with exact-number, identity and continuity limits preserved.
+
+## E-255 — Wheel Cafe & Lounge is directly documented at 503 Main by 22 August 1958
+<!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
+Source: `S-282`  
+Related building/business: `B-001` / `BUS-004`  
+Type: Primary newspaper advertisement  
+Confidence: **Very High / DOCUMENTED-DIRECT** for the 22 August 1958 name/address/phone; **transition unresolved** when paired with the 1957 Flor endpoint.  
+Claims:
+- On **22 August 1958**, *The Clackamas County News* directly advertises **WHEEL CAFE & LOUNGE**.
+- The advertisement directly prints **503 Main St.** and **Ph: 9106**.
+- This is the archive's earliest currently registered **exact-number** primary Wheel anchor at 503 Main.
+- Compared with existing `E-032`, which places **Mr. and Mrs. Albert D. Flor** operating/managing the restaurant/cocktail bar at 503 in **1957**, the two documented endpoints narrow the unresolved restaurant/Kwality/Flor → Wheel transition to after the 1957 control and no later than **22 August 1958**.
+Limits:
+- `S-282` does **not** name Albert Flor, Margaret Remus, Raye LaFarlette/Grisham, or any proprietor/licensee.
+- The cross-source bracket does **not** prove Flor owned The Wheel, renamed Kwality Cafe, sold the business, or sold it to Raye.
+Classification: **DOCUMENTED / DIRECT** for the 22 August 1958 Wheel name/address/phone; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.
