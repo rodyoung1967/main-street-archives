@@ -1,0 +1,123 @@
+name: Fetch January 1919 Oregon City newspapers
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fetch-1919-january-newspapers.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Fetch January 1919 scans and manifests
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, time
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          ROOT = Path('.')
+          titles = {
+              'oregon-city-enterprise': {
+                  'name': 'Oregon City Enterprise',
+                  'lccn': 'sn00063700',
+                  'dates': ['1919-01-03','1919-01-10','1919-01-17','1919-01-24','1919-01-31'],
+              },
+              'oregon-city-courier': {
+                  'name': 'Oregon City Courier',
+                  'lccn': 'sn00063698',
+                  'dates': ['1919-01-02','1919-01-09','1919-01-16','1919-01-23','1919-01-30'],
+              },
+          }
+          ua = 'main-street-archives archival preservation/1.0'
+
+          for slug, meta in titles.items():
+              out = ROOT / 'newspapers' / slug / '1919-january'
+              out.mkdir(parents=True, exist_ok=True)
+              issues = []
+              for day in meta['dates']:
+                  pages = []
+                  for seq in range(1, 21):
+                      url = f"https://oregonnews.uoregon.edu/lccn/{meta['lccn']}/{day}/ed-1/seq-{seq}.pdf"
+                      req = Request(url, headers={'User-Agent': ua})
+                      try:
+                          with urlopen(req, timeout=60) as resp:
+                              data = resp.read()
+                      except HTTPError as e:
+                          if e.code == 404 and seq > 1:
+                              break
+                          raise
+                      if not data.startswith(b'%PDF'):
+                          raise SystemExit(f'Non-PDF response for {url}: {data[:30]!r}')
+                      fn = f'{day}-seq-{seq:02d}.pdf'
+                      path = out / fn
+                      path.write_bytes(data)
+                      pages.append({
+                          'sequence': seq,
+                          'file': fn,
+                          'url': url,
+                          'bytes': len(data),
+                          'sha256': hashlib.sha256(data).hexdigest(),
+                      })
+                      time.sleep(0.12)
+                  if not pages:
+                      raise SystemExit(f'No exposed pages recovered for {meta["name"]} {day}')
+                  issues.append({'date': day, 'page_count': len(pages), 'pages': pages})
+                  print(meta['name'], day, len(pages))
+              manifest = {
+                  'title': meta['name'],
+                  'lccn': meta['lccn'],
+                  'year': 1919,
+                  'month': 'January',
+                  'status': 'RETRIEVAL ONLY — visual inspection required before certification',
+                  'issues': issues,
+                  'total_pages': sum(i['page_count'] for i in issues),
+              }
+              (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
+          PY
+
+      - name: Validate archive after retrieval
+        run: python3 scripts/validate_archive.py
+
+      - name: Upload January scan artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1919-january-oregon-city-newspapers
+          path: |
+            newspapers/oregon-city-enterprise/1919-january
+            newspapers/oregon-city-courier/1919-january
+          retention-days: 14
+
+      - name: Commit preserved originals
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1919-january newspapers/oregon-city-courier/1919-january
+          if git diff --cached --quiet; then
+            echo 'No new January 1919 newspaper files.'
+            exit 0
+          fi
+          git commit -m 'Archive January 1919 Oregon City newspaper scans'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
