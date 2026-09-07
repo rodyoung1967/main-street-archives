@@ -91,3 +91,8 @@ Together with the 1953 **`Al & Marge Kwality Cafe`** line, these records make 19
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 The visually verified `S-283` / `E-256` Wheel advertisement moves the later endpoint of the unresolved Kwality/Flor → Wheel transition from 22 August back to **16 May 1958**. It does not state `formerly Kwality`, name Flor/Remus, identify an owner/licensee, or record a sale. Preserve the 1953 `Al & Marge` and 1957 Flor controls separately until a direct bridge is recovered.
+
+## 28 March 1958 — revised later endpoint for the Kwality/Flor transition
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+The visually verified `S-285` / `E-259` advertisement moves the later endpoint of the unresolved Kwality/Flor → Wheel transition back to **28 March 1958**. It does not state `formerly Kwality`, name Flor/Remus, identify an owner/licensee, or record a sale. Preserve the 1953 `Al & Marge` and 1957 Flor controls separately until a direct bridge is recovered.

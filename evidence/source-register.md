@@ -2417,3 +2417,14 @@ Notes:
 - The same page says the building was apparently used "for this purpose for a number of years"; this is survey-author synthesis and is **not** proof of uninterrupted Harr operation or a direct Harr→Well transfer.
 - Page 3 directly lists source classes and bibliography entries including the **1941 Directory of Oregon City**, **1948 Directory of Clackamas County** (the form itself prints "Director of Clackamas County"), Sanborn maps, newspapers, local history files, and the City's **1983 Historic Survey of Downtown Oregon City (individual property files)**. It does **not** identify the exact 1945 or 1953 directory title/page behind those occupancy statements.
 - Page 3 owner field directly records **Richard and Sheila Wiitanen**. Treat this as a dated official-survey ownership field, not a recorded deed/conveyance.
+
+## S-285 — Clackamas County News, 28 March 1958 p.3 — Wheel Cafe & Lounge at 503 Main
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+Type: Primary newspaper page scan  
+Publication: *The Clackamas County News*  
+Date/page: **28 March 1958, p. 3**  
+Repository file: `newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf`  
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-3.pdf  
+Evidence: `E-259`  
+Capture: `evidence/source-captures/1958-03-28-wheel-cafe-earliest-exact-address-control-and-february-guide-controls-2026-09-07.md`  
+Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an advertising/occupancy endpoint, not an opening, ownership, rename, sale, or transfer date.

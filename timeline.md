@@ -601,3 +601,8 @@ This is a **citywide regulatory event**, useful context for interpreting the 191
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 A visually verified *Clackamas County News* advertisement (`S-283` / `E-256`) directly reads **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. This moves the earliest recovered exact-address Wheel advertisement back from 22 August 1958. It does not identify the proprietor/licensee or establish an opening, rename, sale, or transfer.
+
+## 28 March 1958 — Wheel Cafe & Lounge directly at 503 Main
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+A visually verified *Clackamas County News* advertisement directly prints **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106** (`S-285` / `E-259`, `T-097`). This is the earliest currently recovered exact-address Wheel advertisement. It does not identify proprietor/licensee or establish an opening, rename, ownership change, or sale.

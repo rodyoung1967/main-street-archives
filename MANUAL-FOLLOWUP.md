@@ -356,3 +356,8 @@ Official city text now places the exact name **Albert D. Flor** in Oregon City's
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 A visually verified primary advertisement now places **Wheel Cafe & Lounge at 503 Main, phone 9106, by 16 May 1958** (`S-283` / `E-256`), earlier than the prior 22 August endpoint. This does not identify the licensee/proprietor. For the Oregon-side MF-052 license-chain test, search **1951–1959**, with special attention to the 1957 renewal cycle and any change/transfer effective **before 16 May 1958**. No outreach was sent.
+
+### MF-052 refinement — Wheel now documented by 28 March 1958; assumed-name register gap
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+A visually verified primary ad now places **Wheel Cafe & Lounge at 503 Main, phone 9106, by 28 March 1958** (`S-285` / `E-259`), earlier than the May/August controls. For the Oregon-side license/ownership chain, prioritize late 1957 through **28 March 1958**. The Oregon State Archives Clackamas County inventory says assumed-business-name registers cover 1928–1964 and can name owners/filing dates, but its listed available holdings expose 1928–35 certificates and 1959–64 record volumes; the **1957–58 register/index remains an access gap**. No outreach was sent.

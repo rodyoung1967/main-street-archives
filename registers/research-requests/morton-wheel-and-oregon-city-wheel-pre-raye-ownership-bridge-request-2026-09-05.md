@@ -306,3 +306,8 @@ Official Oregon City Commission searchable text places **Albert D. Flor** in the
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 Before sending Request B, use the broadened **1951–1967** scope above. New visually verified evidence (`S-283` / `E-256`) places **Wheel Cafe & Lounge at 503 Main by 16 May 1958**, so the decisive transfer/renewal search must include records effective before that date as well as the earlier **1951 Flor + Margaret Remus** approval and the 1953 `Al & Marge Kwality Cafe` continuity lead. This remains a draft; nothing was sent automatically.
+
+### Date refinement — 28 March 1958 Wheel endpoint
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+The earliest currently recovered exact-address Wheel advertisement is now **28 March 1958**, not August/May 1958. Any Oregon-side historical license/trade-name lookup should specifically test late **1957 through 28 March 1958**, while retaining the broader 1951–1959 chain. The Clackamas County assumed-business-name register series is a high-value parallel record type because it can include business name, filing date, and owner; the 1957–58 volume/index was not located online in the current pass.

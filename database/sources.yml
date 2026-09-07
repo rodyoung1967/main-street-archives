@@ -1810,3 +1810,15 @@ sources:
     related_buildings: [B-002]
     related_businesses: [BUS-014, BUS-015]
     related_people: [P-007, P-008]
+
+  - id: S-285
+    name: "Clackamas County News, 28 March 1958 p.3 — Wheel Cafe & Lounge at 503 Main"
+    url: "https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-3.pdf"
+    type: "Primary newspaper page scan"
+    date: "1958-03-28"
+    repository_file: "newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf"
+    notes: "Visually reviewed Oregon City business-guide ad: WHEEL CAFE & LOUNGE, STEAKS, 503 Main St., Ph: 9106. Earliest currently recovered exact-address Wheel advertisement; no proprietor/licensee or opening/transfer wording."
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    related_evidence: [E-259]
+    # Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07

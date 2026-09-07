@@ -717,3 +717,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-284` → visually verified 3-page official SHPO survey scan for `B-002`.
 - `E-257` → `B-002` / `BUS-014` Harr's Recreation Center / `BUS-015` Well's Recreation; exact survey wording verified, underlying 1945/1953 directory pages unresolved.
 - `E-258` → `B-002` / `P-007` Richard / Dick Wiitanen / `P-008` Sheila Wiitanen; official May 2000 owner-field snapshot, not deed proof.
+
+## S-285 / E-259 — 28 March 1958 Wheel exact-address control
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+| Record | Links | Handling rule |
+| --- | --- | --- |
+| `S-285` / `E-259` | `B-001`, `BUS-004`; compare `P-025` / `E-032`, later `S-283` / `E-256` and `S-282` / `E-255` | Visually verified 28 Mar. 1958 ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Earliest currently recovered exact-address ad; not an opening, proprietor, license, rename, sale, or transfer date. |

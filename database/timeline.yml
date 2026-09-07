@@ -987,3 +987,13 @@ timeline:
     related_evidence: [E-256]
     related_sources: [S-283]
     # Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07
+
+  - id: T-097
+    date: 28 March 1958
+    summary: "Wheel Cafe & Lounge is directly advertised at 503 Main Street, phone 9106."
+    confidence: "Very High / DOCUMENTED-DIRECT for name-address-phone; proprietor and transition unresolved"
+    related_buildings: [B-001]
+    related_businesses: [BUS-004]
+    related_evidence: [E-259]
+    related_sources: [S-285]
+    # Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07

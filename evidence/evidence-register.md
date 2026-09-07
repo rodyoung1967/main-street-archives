@@ -2576,3 +2576,17 @@ Claims:
 - It does **not** identify the acquisition date, seller, deed number, legal description, purchase terms, or prove the remembered Nesmeth/Nemeth seller spelling.
 Classification: **DOCUMENTED / DIRECT for the survey-form owner field; OFFICIAL-SURVEY OWNERSHIP SNAPSHOT, not deed proof of conveyance.**  
 Confidence: High for the May 2000 ownership snapshot; exact acquisition mechanics/date remain unresolved.
+
+## E-259 — Wheel Cafe & Lounge at exact 503 Main by 28 March 1958
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+Source: `S-285`  
+Related building/business: `B-001` / `BUS-004`  
+Type: Primary newspaper advertisement  
+Claims:
+- The visually inspected **28 March 1958** page directly advertises **WHEEL CAFE & LOUNGE** in the recurring Oregon City business guide.
+- The advertisement directly prints **503 Main St.** and **Ph: 9106**.
+- This supersedes 16 May 1958 (`E-256` / `S-283`) only as the archive's **earliest currently recovered exact-address Wheel advertisement**; May and August remain valid later corroboration.
+- Comparable visually inspected Oregon City guides on **31 Jan., 7 Feb., 14 Feb., and 21 Feb. 1958** do not carry the Wheel advertisement. This is an advertising-state control only, **not proof the business did not exist**.
+- Missing intervening March issues are a **RETRIEVAL / COVERAGE GAP**, so no precise first-ad or opening date is inferred.
+Confidence: **Very High / DOCUMENTED-DIRECT for 28 March name/address/phone; transition unresolved.**  
+Classification: **DOCUMENTED / DIRECT** for the ad; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.

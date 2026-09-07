@@ -55,3 +55,8 @@ Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. Do **not** inf
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 A visually verified 16 May 1958 primary advertisement (`E-256` / `S-283`) now places **Wheel Cafe & Lounge at 503 Main, phone 9106**, earlier than the previously registered 22 August endpoint. Flor remains only the latest named 1957 same-address operator control from the City synthesis. Do not promote `P-025` to Wheel proprietor/owner or infer a Flor sale/rename from the tighter bracket.
+
+## 1957 → 28 March 1958 same-address transition boundary
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+The current documented endpoints are the City's **1957** official-secondary Mr./Mrs. Albert D. Flor restaurant/cocktail-bar control at 503 (`E-032` / `S-026`) and the visually verified **28 March 1958** Wheel Cafe & Lounge advertisement at exact 503 (`E-259` / `S-285`). This narrows chronology but does **not** make Flor a Wheel proprietor or prove a rename, sale, or transfer.

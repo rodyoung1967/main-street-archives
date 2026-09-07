@@ -109,6 +109,8 @@ buildings:
       - S-026
       - S-282
       - S-283
+      - E-259
+      - S-285
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon

@@ -274,3 +274,8 @@ This is an **occupancy/trade-name boundary, not a real-estate ownership event**.
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 `E-256` / `S-283` directly advertises **Wheel Cafe & Lounge, 503 Main St., phone 9106** on **16 May 1958**. This is an occupancy/trade-name endpoint only; it is not a real-estate conveyance, opening date, or business-sale record. `E-255` / `S-282` remains a later August corroboration.
+
+## 28 March 1958 — occupancy/trade-name endpoint
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+`E-259` / `S-285` directly advertises **Wheel Cafe & Lounge, 503 Main St., phone 9106** on **28 March 1958**. This is an occupancy/trade-name advertising endpoint only; it is not a real-estate conveyance, opening date, business sale, assumed-name filing, or license transfer.

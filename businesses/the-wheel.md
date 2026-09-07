@@ -80,3 +80,8 @@ Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. No recovered s
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 `S-283` / `E-256` now preserves a visually reviewed **16 May 1958** advertisement reading **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. This supersedes `S-282` / `E-255` only as the archive's earliest recovered exact-number Wheel advertisement; the 22 August page remains valid later corroboration. The May ad names no proprietor/licensee and is **not** an opening or ownership-transfer date. The current documentary bracket is therefore **1957 Flor same-address restaurant/cocktail-bar control → by 16 May 1958 Wheel Cafe & Lounge at 503**, with the mechanism unresolved.
+
+## 28 March 1958 — earliest currently recovered exact-address Wheel advertisement
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+`S-285` / `E-259` preserves the visually reviewed **28 March 1958** advertisement reading **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. It supersedes the May and August controls only as the earliest recovered exact-number Wheel advertisement; those later pages remain corroboration. Comparable recurring Oregon City guide panels on 31 January and 7/14/21 February do not carry this ad, but missing intervening March issues prevent a precise first-ad boundary. **Do not treat guide silence as proof the Wheel business did not exist.** The ad names no proprietor/licensee and does not prove a Kwality rename, Flor ownership, sale, or Raye acquisition.

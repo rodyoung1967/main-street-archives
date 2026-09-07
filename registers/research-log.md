@@ -913,3 +913,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Page 1 explicitly attributes **Harr's Recreation Center at 505** to a "1945 city directory" and **Well's Recreation** to a "1953 city directory"; original directory pages remain unresolved.
 - Page 3 names **Richard and Sheila Wiitanen** in the owner field, providing a May 2000 official-survey ownership snapshot but not a deed/acquisition date.
 - Propagation audit completed across 505 building/business/person records, unified/business timelines, open questions, research leads, research-request scope, crosswalk, and YAML mirrors. Root master timeline was reviewed but not changed because the historical chronology dates themselves did not change; the source/evidence state change is carried in the unified 505 and business timelines.
+
+### 2026-09-07 — Wheel newspaper boundary moved to 28 March 1958
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+- Preserved and registered the visually verified 28 Mar. 1958 *Clackamas County News* p.3 Wheel Cafe & Lounge ad at exact 503 Main as `S-285` / `E-259` / `T-097`.
+- Propagated the revised earliest-recovered advertising endpoint across Wheel/Kwality/503/person/timeline/crosswalk/database records.
+- Visually comparable Oregon City guide panels on 31 Jan. and 7/14/21 Feb. do not carry the Wheel ad; missing intervening March issues remain a retrieval/coverage gap, so no business opening or transfer date is inferred.
+- Telephone-number searching recovered no dated pre-Wheel 9106 or 6106 bridge. This is a retrieval gap, not evidence of a number/operator change.
+- State Archives inventory confirms Clackamas County assumed-business-name registers span 1928–1964, but currently listed holdings expose 1928–35 certificates and 1959–64 record volumes; the 1957–58 target register/index is not located online in this pass. No outreach sent.

@@ -68,3 +68,8 @@ Do **not** infer from this bracket that Albert Flor owned the Wheel, renamed Kwa
 ## Propagation note
 
 This capture preserves the new primary-source endpoint immediately while the backward newspaper pass is still active. Broad replacement of the current `S-283` / `E-256` earliest-advertisement wording across business, building, timeline, crosswalk, database/YAML, open-question, and MF-052 records should be done in one synchronized batch after the current backward pass reaches its useful online limit, so repeated date-by-date rewrites do not collide with parallel work. The existing May and August source/evidence records remain valid; only their status as the earliest recovered Wheel advertisement is superseded by this March 28 scan.
+
+## 7 September 2026 propagation completion
+<!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
+
+The March 28 endpoint has now been formally registered as `S-285` / `E-259` / `T-097`, its primary PDF preserved in the repository, and its chronology/limits propagated across the canonical archive. May and August records remain valid later corroboration.
