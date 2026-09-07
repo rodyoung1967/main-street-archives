@@ -17,16 +17,33 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Render original official PDF to PNG
+      - name: Validate archive before rendering
+        run: python3 scripts/validate_archive.py
+      - name: Install PDF rendering tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+      - name: Inspect and render original official PDF
         run: |
           set -euo pipefail
-          mkdir -p /tmp/505-shpo-render
-          pdftoppm -png -r 200 -singlefile records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1
-          file /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
-          sha256sum /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
+          PDF='records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf'
+          OUT='/tmp/505-shpo-render'
+          mkdir -p "$OUT"
+          file "$PDF"
+          sha256sum "$PDF" | tee "$OUT/pdf-sha256.txt"
+          pdfinfo "$PDF" | tee "$OUT/pdfinfo.txt"
+          pdftoppm -png -r 160 "$PDF" "$OUT/505-main-shpo-resource-30539-inventory-form-page"
+          ls -lh "$OUT"/*.png
+          sha256sum "$OUT"/*.png | tee "$OUT/rendered-pages-sha256.txt"
+      - name: Validate archive after rendering
+        run: python3 scripts/validate_archive.py
       - uses: actions/upload-artifact@v4
         with:
           name: 505-shpo-30539-visual-review
-          path: /tmp/505-shpo-render/505-main-shpo-resource-30539-inventory-form-page-1.png
+          path: |
+            /tmp/505-shpo-render/*.png
+            /tmp/505-shpo-render/pdfinfo.txt
+            /tmp/505-shpo-render/pdf-sha256.txt
+            /tmp/505-shpo-render/rendered-pages-sha256.txt
           if-no-files-found: error
           retention-days: 7
