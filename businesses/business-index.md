@@ -17,8 +17,8 @@
 | BUS-011 | [The Chicago Store](chicago-store.md) | 505 Main | Exact-address ads in 1911 and 1913; physical-building continuity unresolved. |
 | BUS-012 | [Wolf & Miller](wolf-miller.md) | 505 Main | October 1918 shoe/repair business; identities and 1916 Springfield bridge limits preserved. |
 | BUS-013 | [Farr's Pool Hall](farrs-pool-hall.md) | 505 Main | Edwin F. and Alice Farr; operating span unresolved. |
-| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | 1945 secondary and late-1948 direct Carl R. Harr evidence; distinct from Farr's. |
-| BUS-015 | [Well's Recreation](wells-recreation.md) | 505 Main | Reported 1953 directory entry; spelling/page verification open. |
+| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | May 2000 individual survey scan now visually verifies the survey's explicit 1945-directory wording (`E-257` / `S-284`); late-1948 direct Carl R. Harr evidence remains independent; Farr→Harr transition unresolved. |
+| BUS-015 | [Well's Recreation](wells-recreation.md) | 505 Main | May 2000 individual survey scan visually verifies the survey's explicit 1953-directory wording/spelling (`E-257` / `S-284`); original directory page/proprietor still needed. |
 | BUS-016 | [The Dug Inn](dug-inn.md) | 505 Main | April 1988 Commission record: formerly The Brass Rail; Wiitanen-to-Cotterell transfer. Place within the later business sale/repo/transfer cycle after the original Dick/Sheila Brass Rail period and later 505 property purchase. |
 | BUS-017 | [Sports Keg](sports-keg.md) | 505 Main | Family recollection; dates/operator remain a research lead. |
 | BUS-018 | [White Rabbit / Black Ink](white-rabbit-black-ink.md) | 503 Main | 2016-2017 renovation and later use; 2017 article `E-001`; municipal permits `E-098` and `E-099`. |

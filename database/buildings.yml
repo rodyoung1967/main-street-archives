@@ -220,6 +220,8 @@ buildings:
       - E-217
 
       - E-219
+      - E-257
+      - E-258
     related_sources:
       - S-130
       - S-021
@@ -256,6 +258,7 @@ buildings:
       - S-243
 
       - S-245
+      - S-284
     related_maps:
       - SM-002
       - SM-003

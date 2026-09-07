@@ -7,3 +7,8 @@ Sheila was the daughter of Floyd and Raye LaFarlette. The 11 July 2012 Oregonian
 At 505, Dick and Sheila operated Brass Rail before owning the building, then later purchased the real estate from Mrs. Nesmeth / Nemeth. They renamed the operating business 505 Tavern before selling it to their son Mitch in March 1991. A 1988 municipal record identifies a Wiitanen-to-Cotterell Dug Inn/former Brass Rail transfer role (`E-030`).
 
 Sheila died in 2014. Wiitanen ownership of 505 continued through Dick's death in 2024. Exact deeds, business-sale agreements, and liquor-license transfers remain research targets.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## May 2000 505 property-owner survey field
+
+The visually reviewed individual Oregon SHPO form for **505 Main / resource 30539** records **Richard and Sheila Wiitanen** in the owner field in May 2000 (`S-284` / `E-258`). This is an official-survey ownership snapshot, not a deed and not proof of the acquisition date or seller.

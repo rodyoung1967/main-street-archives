@@ -18,3 +18,10 @@ The target Pacific Directory Service county volume later cited as **1947–48 / 
 ## 708 Monroe false-path closure
 
 The 1944–1946 municipal `C. P. Farr` recreation-rent series is now controlled by the February 1946 exact-address text **708 Monroe** (`S-273` / `E-247`), with `C. P. Farr` strongly identified as Clarence P. Farr (`P-395`). It is therefore not evidence for Harr's Recreation Center at 505 or for the Farr→Harr transition. The 1945 Harr source-provenance gap remains unchanged.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## May 2000 individual survey-form provenance now visually verified
+
+The original three-page Oregon SHPO scan for resource **30539 / 505 Main** has now been visually reviewed (`S-284` / `E-257`). Page 1 explicitly states that **"The 1945 city directory lists Harr's Recreation Center at 505 Main."** This upgrades the project's knowledge of the **survey's exact wording**, but not the underlying directory evidence: the form does not identify the exact 1945 directory title/page, and that original page remains unrecovered.
+
+The form then says the building was apparently used for this purpose for a number of years before reporting **Well's Recreation** in the 1953 city directory. Treat that as survey synthesis only; do not infer uninterrupted Harr operation or a direct Harr→Well transfer.

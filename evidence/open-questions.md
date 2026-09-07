@@ -287,3 +287,10 @@ Questions to resolve:
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
 
 `E-256` / `S-283` visually establishes **Wheel Cafe & Lounge, 503 Main, phone 9106** by **16 May 1958**, moving the earliest recovered exact-address Wheel advertisement back from 22 August. A visually inspected 9 May page carries a Gresham rather than Oregon City business guide, so it does not establish nonexistence one week earlier. Still open: who was the May 1958 proprietor/licensee, whether Flor continued under the Wheel name, and whether a rename/sale/transfer occurred before 16 May.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+### 7 September 2026 — 505 SHPO individual form narrows Farr→Harr→Well provenance, does not close it
+
+The three-page May 2000 individual 505 Main form from Oregon SHPO resource **30539** is now visually verified (`S-284` / `E-257`). It explicitly says a **1945 city directory** lists Harr's Recreation Center at 505 and a **1953 city directory** lists **Well's Recreation**. The actual directory title/page for either year is still unrecovered, so the exact Farr→Harr changeover and Harr→Well transition remain open.
+
+The same form's owner field names **Richard and Sheila Wiitanen** (`E-258`), establishing an official-survey ownership snapshot by May 2000. The exact 505 acquisition date, remembered Nesmeth/Nemeth seller identity/spelling, deed, and terms remain open.

@@ -3833,3 +3833,30 @@ evidence:
     related_people: [P-025]
     related_sources: [S-283]
     # Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07
+
+# 505-shpo-30539-visual-review-2026-09-07
+  - id: E-257
+    name: "May 2000 505 Main survey visually confirms Harr 1945 and Well's 1953 directory-synthesis wording"
+    type: "Official historic-resource survey synthesis; original scan visually verified"
+    claims:
+      - "May 2000 individual 505 Main form explicitly says the 1945 city directory lists Harr's Recreation Center at 505 Main."
+      - "The same form says the building is listed in the 1953 city directory as Well's Recreation."
+      - "Page 3 confirms source classes/bibliography but does not identify the exact 1945 or 1953 directory title/page."
+      - "No direct Farr-to-Harr or Harr-to-Well transfer or uninterrupted operation is inferred."
+    confidence: "Very High for survey wording; underlying directory pages remain unresolved"
+    related_sources: [S-284]
+    related_buildings: [B-002]
+    related_businesses: [BUS-014, BUS-015]
+    repository_file: "records/historic-surveys/505-main-shpo-resource-30539-inventory-form-provenance.md"
+
+  - id: E-258
+    name: "May 2000 505 Main survey owner field names Richard and Sheila Wiitanen"
+    type: "Official historic-resource survey owner field; original scan visually verified"
+    claims:
+      - "Page 3 of the May 2000 505 Main survey form records Richard and Sheila Wiitanen in the owner field."
+      - "This is an official-survey ownership snapshot by May 2000, not a recorded deed or proof of acquisition date."
+    confidence: "High for the May 2000 ownership snapshot; deed and acquisition date remain unresolved"
+    related_sources: [S-284]
+    related_buildings: [B-002]
+    related_people: [P-007, P-008]
+    repository_file: "records/historic-surveys/505-main-shpo-resource-30539-inventory-form-provenance.md"

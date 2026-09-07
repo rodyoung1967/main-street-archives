@@ -711,3 +711,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Handling rule |
 | --- | --- | --- |
 | `S-283` / `E-256` | `B-001`, `BUS-004`; compare `P-025` / `E-032` and later `S-282` / `E-255` | Visually verified 16 May 1958 ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Earliest currently recovered exact-address ad; not an opening, proprietor, license, rename, or sale record. |
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## S-284 / E-257 / E-258 — Oregon SHPO 30539, 505 Main May 2000 individual survey
+- `S-284` → visually verified 3-page official SHPO survey scan for `B-002`.
+- `E-257` → `B-002` / `BUS-014` Harr's Recreation Center / `BUS-015` Well's Recreation; exact survey wording verified, underlying 1945/1953 directory pages unresolved.
+- `E-258` → `B-002` / `P-007` Richard / Dick Wiitanen / `P-008` Sheila Wiitanen; official May 2000 owner-field snapshot, not deed proof.

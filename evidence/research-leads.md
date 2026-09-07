@@ -464,3 +464,16 @@ Next work:
 4. compare the enacted rules cautiously with the 1912 Smith 503 application/advertisement and later 1920–1925 pool-hall/cigar evidence.
 
 Do not infer that Smith, Farr, Timms, or any particular 503/505 operator violated the ordinance or owed/held a separate cigar license unless a source names that operator/premises.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+### 7 September 2026 — SHPO 30539 recovered; provenance search moves behind the 2000 form
+
+The individual May 2000 505 Main SHPO form is **no longer a retrieval target**: all three pages are preserved and visually verified as `S-284` / `E-257` / `E-258`.
+
+For the recreation-business chain, search and retrieval should now target the **sources behind the form**:
+1. the actual 1945 and 1953 directory title/page/effective-year controls;
+2. the City's **1983 Historic Survey of Downtown Oregon City individual 505 property file**, which the form explicitly lists among its sources;
+3. MF-001 / the **1947–48 Clackamas County Directory** (canvassed in 1946) for the Farr→Harr bracket;
+4. MF-002 / missing **1944–48 municipal or OLCC license proceedings** for direct transition evidence.
+
+Include spelling variants **Well's / Wells / Well / Welle / Welsh**, but preserve "Well's Recreation" as the exact 2000 survey-form wording unless an original directory page establishes otherwise. Do not infer direct Harr→Well succession from the survey narrative.

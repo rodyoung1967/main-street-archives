@@ -2400,3 +2400,20 @@ Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-05-16/ed-1/seq-
 Evidence: `E-256`  
 Capture: `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`  
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The page's Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an earlier exact-address endpoint, not an opening or transfer date.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## S-284 — Oregon SHPO resource 30539 — 505 Main May 2000 Historic Resource Survey Form
+Type: Official Oregon SHPO-held historic-resource survey form; **ORIGINAL OFFICIAL SCAN, 3/3 PAGES VISUALLY VERIFIED**.  
+Resource: **Oregon Historic Sites Database RESOURCE_ID 30539 — 505 Main St / 505 Tavern**.  
+Survey/form: Oregon Inventory of Historic Properties — Historic Resource Survey Form; researcher **Michelle L. Dennis**; recorded **May 2000**.  
+Official endpoint: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=30539.pdf  
+Repository PDF: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf`  
+SHA-256: `5c07dbb4582d80a57b477506ae84ac728ae5b909fb1c41f12d1b1d89b1646bd5`  
+Visual review: all **3 pages** rendered from the preserved official PDF and inspected 7 September 2026.  
+Related evidence/building/businesses/people: `E-257`, `E-258`; `B-002`; `BUS-014`, `BUS-015`; `P-007`, `P-008`.  
+Provenance: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form-provenance.md`.  
+Notes:
+- Page 1 directly states that **"The 1945 city directory lists Harr's Recreation Center at 505 Main"** and that the building is listed in the **1953 city directory as "Well's Recreation."**
+- The same page says the building was apparently used "for this purpose for a number of years"; this is survey-author synthesis and is **not** proof of uninterrupted Harr operation or a direct Harr→Well transfer.
+- Page 3 directly lists source classes and bibliography entries including the **1941 Directory of Oregon City**, **1948 Directory of Clackamas County** (the form itself prints "Director of Clackamas County"), Sanborn maps, newspapers, local history files, and the City's **1983 Historic Survey of Downtown Oregon City (individual property files)**. It does **not** identify the exact 1945 or 1953 directory title/page behind those occupancy statements.
+- Page 3 owner field directly records **Richard and Sheila Wiitanen**. Treat this as a dated official-survey ownership field, not a recorded deed/conveyance.

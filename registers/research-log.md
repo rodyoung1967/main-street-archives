@@ -904,3 +904,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Visually inspected the analogous **9 May p.7** guide and confirmed it is a **Gresham**, not Oregon City, business guide; no negative opening inference was made.
 - Recorded later repeat-ad controls and a July-4/June-27 source-association anomaly in `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`.
 - Cross-record propagation completed; no ownership, licensee, sale, or opening event was invented.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+### 2026-09-07 — visually verified complete 505 SHPO resource 30539 individual form
+- Re-synchronized to current `main` before integration and followed `AGENTS.md` / `RESEARCH-STANDARD.md`.
+- Preserved official PDF was rendered and **3/3 pages visually inspected** after successful workflow run.
+- Registered `S-284` and claim-level `E-257` / `E-258`.
+- Page 1 explicitly attributes **Harr's Recreation Center at 505** to a "1945 city directory" and **Well's Recreation** to a "1953 city directory"; original directory pages remain unresolved.
+- Page 3 names **Richard and Sheila Wiitanen** in the owner field, providing a May 2000 official-survey ownership snapshot but not a deed/acquisition date.
+- Propagation audit completed across 505 building/business/person records, unified/business timelines, open questions, research leads, research-request scope, crosswalk, and YAML mirrors. Root master timeline was reviewed but not changed because the historical chronology dates themselves did not change; the source/evidence state change is carried in the unified 505 and business timelines.

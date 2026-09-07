@@ -13,3 +13,8 @@ Dick and Sheila operated Brass Rail before they owned the 505 building. They lat
 A 2017 permit continued to list Richard Martin Wiitanen as owner/co-trustee of the 505 real estate. He died in November 2024; family history says 505 passed through his estate to Rodney and Mitchell Young.
 
 Property ownership, business ownership, operation, and liquor-license roles remain separate throughout this chronology.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## May 2000 505 property-owner survey field
+
+The visually reviewed individual Oregon SHPO form for **505 Main / resource 30539** records **Richard and Sheila Wiitanen** in the owner field in May 2000 (`S-284` / `E-258`). This is an official-survey ownership snapshot, not a deed and not proof of the acquisition date or seller.

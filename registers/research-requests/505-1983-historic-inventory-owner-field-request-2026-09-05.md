@@ -130,3 +130,16 @@ Related records:
 - `evidence/source-captures/505-main-shpo-resource-id-and-scanned-document-route-2026-09-05.md`
 - `evidence/source-captures/2000-downtown-survey-1945-harr-source-provenance-gap-2026-09-04.md`
 - `registers/research-requests/505-wiitanen-vesting-deed-request-2026-09-05.md`
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## 7 September 2026 scope update — 2000 individual form obtained
+
+The **May 2000 individual 505 Main survey form has now been obtained directly from Oregon SHPO resource 30539 and visually reviewed in full** (`S-284` / `E-257` / `E-258`). Do not request that form again.
+
+The remaining request scope should focus on:
+- the older **1982–1983 / 1983-era individual 505 property file**;
+- research worksheets, source annotations, correspondence, directory transcriptions/extracts, and prior-record identifiers;
+- material identifying the exact source/page behind **Harr's Recreation Center (1945)** and **Well's Recreation (1953)**;
+- any underlying owner/assessor source for the 2000 owner field naming Richard and Sheila Wiitanen.
+
+The recovered 2000 form narrows but does not eliminate the cumulative-file request.

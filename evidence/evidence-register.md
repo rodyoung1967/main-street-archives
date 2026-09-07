@@ -2551,3 +2551,28 @@ Limits:
 - A visually inspected 9 May issue page carries a **Gresham**, not Oregon City, business guide; its silence cannot be used as a negative opening boundary.
 Confidence: **Very High / DOCUMENTED-DIRECT for 16 May 1958 name/address/phone; transition unresolved.**  
 Classification: **DOCUMENTED / DIRECT** for 16 May 1958 name/address/phone; **UNRESOLVED TRANSITION** when paired with the 1957 Flor endpoint.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## E-257 — May 2000 505 Main survey visually confirms Harr 1945 and Well's 1953 directory-synthesis wording
+Source: `S-284`  
+Related building/businesses: `B-002`; `BUS-014`, `BUS-015`  
+Type: Official historic-resource survey synthesis; original survey scan visually verified  
+Claims:
+- Page 1 of the May 2000 individual 505 Main form directly states: **"The 1945 city directory lists Harr's Recreation Center at 505 Main."**
+- It further states that the building was apparently used for this purpose for a number of years and was listed in the **1953 city directory as "Well's Recreation."**
+- Page 3 visually confirms the survey's source classes and bibliography, including the 1941 Oregon City and 1948 Clackamas County Pacific Directory Service volumes and the 1983 Oregon City individual property files.
+- The form does **not** supply a title/page for a 1945 directory or a 1953 directory, and its selected bibliography does not identify either volume by those years. Therefore the project has now verified the **survey's exact wording**, not the underlying directory pages.
+- No direct Farr→Harr or Harr→Well business-sale, ownership-transfer, or uninterrupted-operation relationship is inferred.
+Classification: **DOCUMENTED / DIRECT and VISUALLY VERIFIED for what the May 2000 survey form says; OFFICIAL SECONDARY for the 1945/1953 occupancy chronology; underlying directory pages remain RETRIEVAL GAP / unresolved provenance.**  
+Confidence: Very High for the survey wording; Moderate pending original directory pages for the historical occupancy dates.
+
+## E-258 — May 2000 505 Main survey owner field names Richard and Sheila Wiitanen
+Source: `S-284`  
+Related building/people: `B-002`; `P-007`, `P-008`  
+Type: Official historic-resource survey owner field; original survey scan visually verified  
+Claims:
+- Page 3 of the May 2000 individual 505 Main survey form directly records **Richard and Sheila Wiitanen** in the owner field.
+- This establishes that the official May 2000 survey record treated Richard and Sheila as the 505 property owners by that survey date.
+- It does **not** identify the acquisition date, seller, deed number, legal description, purchase terms, or prove the remembered Nesmeth/Nemeth seller spelling.
+Classification: **DOCUMENTED / DIRECT for the survey-form owner field; OFFICIAL-SURVEY OWNERSHIP SNAPSHOT, not deed proof of conveyance.**  
+Confidence: High for the May 2000 ownership snapshot; exact acquisition mechanics/date remain unresolved.

@@ -99,7 +99,10 @@ people:
       - BUS-010
       - BUS-016
     repository_file: people/profiles/richard-dick-wiitanen.md
-
+    related_evidence:
+      - E-258
+    related_sources:
+      - S-284
   - id: P-008
     name: Sheila Wiitanen
     role: Brass Rail operator; later 505 property owner; 503 Wheel context
@@ -113,7 +116,10 @@ people:
       - BUS-010
       - BUS-016
     repository_file: people/profiles/sheila-wiitanen.md
-
+    related_evidence:
+      - E-258
+    related_sources:
+      - S-284
   - id: P-009
     name: Willie
     role: Bartender

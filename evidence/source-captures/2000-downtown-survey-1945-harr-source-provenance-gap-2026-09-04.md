@@ -94,3 +94,20 @@ The later-1948 municipal license list remains independent direct text identifyin
 ## Evidence boundary
 
 This finding proves what the official 2000 report visibly says about the survey project, survey-form custody, selected bibliography, and Appendix A; the registered legacy 505 City page remains a directory synthesis. It does not prove no 1945 directory existed, no directory was consulted, or that the 1945 Harr chronology is wrong. The correct state is **OFFICIAL SECONDARY DIRECTORY-SYNTHESIS CLAIM / EXACT UNDERLYING DIRECTORY CITATION UNRESOLVED**, with the individual 505 survey form now a precisely identified retrieval target.
+
+<!-- 505-shpo-30539-visual-review-2026-09-07 -->
+## 7 September 2026 — individual 505 form recovered and visually verified
+
+The previously targeted **individual May 2000 505 Main Historic Resource Survey Form** has now been recovered from Oregon SHPO **RESOURCE_ID 30539**, preserved at `records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf`, and all **3/3 pages were visually inspected** (`S-284` / `E-257` / `E-258`).
+
+This materially narrows the provenance gap:
+- the form itself explicitly says **"The 1945 city directory lists Harr's Recreation Center at 505 Main"**;
+- it explicitly says the property is listed in the **1953 city directory as "Well's Recreation"**;
+- page 3 lists the 1941 Oregon City and 1948 Clackamas County directory volumes and the City's 1983 individual property files, but **does not identify the exact 1945 or 1953 directory title/page**.
+
+Therefore the 2000 form is no longer a retrieval target. The remaining high-value provenance targets are:
+1. the actual underlying **1945 and 1953 directory pages/title/effective-year controls**;
+2. the **1983 505 individual property file**, worksheets/source notes, and any retained directory transcriptions;
+3. the 1947–48 Clackamas County Directory and missing 1944–48 municipal/OLCC licensing material for independent transition evidence.
+
+The exact Farr→Harr transition remains unresolved, and no Harr→Well ownership/business-transfer claim is created.
