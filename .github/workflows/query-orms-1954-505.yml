@@ -1,0 +1,119 @@
+name: Probe ORMS 1954 505 license window
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/query-orms-1954-505.yml'
+  workflow_dispatch:
+
+jobs:
+  query:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Query Oregon City Jan-May 1954 Commission records
+        run: |
+          python3 - <<'PY'
+          import html, http.cookiejar, re, time, urllib.parse, urllib.request
+
+          URL='https://ormswd.synergydcs.com/ORMSCMSearch/search/SearchMain.aspx'
+          cj=http.cookiejar.CookieJar()
+          opener=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+          headers={'User-Agent':'Mozilla/5.0 Main-Street-Archive/1.0'}
+
+          def fetch(req, tries=3, timeout=60):
+              last=None
+              for i in range(tries):
+                  try:
+                      with opener.open(req,timeout=timeout) as r:
+                          return r.geturl(), r.read().decode('utf-8','replace')
+                  except Exception as e:
+                      last=e
+                      print('FETCH_RETRY',i+1,repr(e))
+                      time.sleep(2*(i+1))
+              raise last
+
+          def textify(s):
+              s=re.sub(r'<script.*?</script>',' ',s,flags=re.I|re.S)
+              s=re.sub(r'<style.*?</style>',' ',s,flags=re.I|re.S)
+              s=re.sub(r'<[^>]+>',' ',s)
+              return ' '.join(html.unescape(s).split())
+
+          def hidden(body):
+              out={}
+              for tag in re.findall(r'<input[^>]*type=["\']hidden["\'][^>]*>',body,re.I):
+                  n=re.search(r'name=["\']([^"\']+)',tag,re.I)
+                  v=re.search(r'value=["\']([^"\']*)',tag,re.I|re.S)
+                  if n: out[n.group(1)]=html.unescape(v.group(1) if v else '')
+              return out
+
+          def selects(body):
+              result={}
+              for sm in re.finditer(r'<select[^>]*name=["\']([^"\']+)["\'][^>]*>(.*?)</select>',body,re.I|re.S):
+                  name=sm.group(1); opts=[]
+                  for om in re.finditer(r'<option([^>]*)>(.*?)</option>',sm.group(2),re.I|re.S):
+                      attrs=om.group(1); label=textify(om.group(2))
+                      vm=re.search(r'value=["\']([^"\']*)["\']',attrs,re.I)
+                      opts.append((vm.group(1) if vm else '',label))
+                  result[name]=opts
+              return result
+
+          _,form=fetch(urllib.request.Request(URL,headers=headers))
+          print('FORM_BYTES',len(form))
+          sels=selects(form)
+          for name,opts in sels.items():
+              if 'Jurisdiction' in name or 'SearchType1' in name or 'SortBy1' in name:
+                  print('SELECT',name,opts[:120])
+
+          jurisdiction='023'
+          jname='ctl00$ContentPlaceHolder1$ddlJurisdictions'
+          for name,opts in sels.items():
+              for val,label in opts:
+                  if 'oregon city' in label.lower():
+                      jurisdiction=val; jname=name
+                      print('OREGON_CITY_OPTION',name,val,label)
+
+          search_name='ctl00$ContentPlaceHolder1$ddlSearchType1'
+          meeting_val='meetingDate'
+          for name,opts in sels.items():
+              if 'SearchType1' in name:
+                  search_name=name
+                  for val,label in opts:
+                      if label.strip().lower()=='meeting date':
+                          meeting_val=val
+                          print('MEETING_DATE_OPTION',name,val,label)
+
+          data=hidden(form)
+          data.update({
+              jname:jurisdiction,
+              search_name:meeting_val,
+              'ctl00$ContentPlaceHolder1$txtSearch1':'01/01/1954 to 05/31/1954',
+              'ctl00$ContentPlaceHolder1$rdoAndGroup_1':'rdoAnd1',
+              'ctl00$ContentPlaceHolder1$ddlSearchType2':'-1',
+              'ctl00$ContentPlaceHolder1$txtSearch2':'',
+              'ctl00$ContentPlaceHolder1$rdoAndGroup_2':'rdoAnd2',
+              'ctl00$ContentPlaceHolder1$ddlSearchType3':'-1',
+              'ctl00$ContentPlaceHolder1$txtSearch3':'',
+              'ctl00$ContentPlaceHolder1$ddlSortBy1':'MeetingDate',
+              'ctl00$ContentPlaceHolder1$ddlSortBy2':'',
+              'ctl00$ContentPlaceHolder1$btnSubmit':'Search',
+              'ctl00$ContentPlaceHolder1$chkarchived':'on',
+              'ctl00$ContentPlaceHolder1$hdnIsPaging':'3',
+          })
+          payload=urllib.parse.urlencode(data).encode()
+          req=urllib.request.Request(URL,data=payload,headers={**headers,'Content-Type':'application/x-www-form-urlencoded'})
+          final,res=fetch(req,tries=2,timeout=90)
+          print('SEARCH_FINAL',final,'BYTES',len(res))
+          print('SEARCH_VISIBLE_HEAD',textify(res)[:30000])
+          seen=set()
+          for href,inner in re.findall(r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',res,re.I|re.S):
+              t=textify(inner)
+              key=(href,t)
+              if key in seen: continue
+              seen.add(key)
+              if 'record' in href.lower() or re.search(r'\b1954\b',t):
+                  print('RESULT_LINK',href,'|',t)
+          for rid in sorted(set(re.findall(r'/Record/(\d+)',res,re.I))):
+              print('RECORD_ID',rid)
+          PY
