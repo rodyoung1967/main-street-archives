@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_505_shpo_30539_visual_review.py'
+      - 'scripts/run_505_shpo_30539_visual_review.py'
       - '.github/workflows/integrate-505-shpo-30539-visual-review.yml'
   workflow_dispatch:
 
@@ -33,7 +34,7 @@ jobs:
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
       - name: Integrate 505 SHPO visual-review findings
-        run: python3 scripts/integrate_505_shpo_30539_visual_review.py
+        run: python3 scripts/run_505_shpo_30539_visual_review.py
       - name: Validate archive after integration
         run: python3 scripts/validate_archive.py
       - name: Commit synchronized integration
