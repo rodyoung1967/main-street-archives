@@ -35,14 +35,16 @@ jobs:
       - name: Integrate Flor-Kwality-Wheel transition
         run: |
           python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
-          # The integrator's BUS-004 plain YAML scalar contains one colon-space
-          # in prose. Normalize that punctuation before YAML validation.
+          # Normalize colon-space punctuation in the generated BUS-004 plain YAML
+          # note before validation. The prose meaning is unchanged.
           python3 - <<'PY'
           from pathlib import Path
           p = Path('database/businesses.yml')
           t = p.read_text(encoding='utf-8')
           t = t.replace('primary anchor is 22 Aug 1958: Wheel Cafe & Lounge',
                         'primary anchor is 22 Aug 1958 — Wheel Cafe & Lounge')
+          t = t.replace('503 Main St., Ph: 9106 (',
+                        '503 Main St., phone 9106 (')
           p.write_text(t, encoding='utf-8')
           PY
 
