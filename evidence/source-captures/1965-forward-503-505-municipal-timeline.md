@@ -37,13 +37,17 @@ This is the archive's earliest registered municipal anchor for the **505 Tavern*
 | Source | `S-052` / `E-045` |
 | Finding | Oregonian names **Wheel Restaurant** and **505 Tavern** as the only establishments spared by flames in the block; both received smoke and water damage. Harding Drug Store and other businesses gutted. |
 
-### 7 June 1967 — Wheel liquor application at 503 Main
+### Before 7 June 1967 — Wheel liquor application at 503 Main; exact preceding-meeting date unresolved
 
 | Field | Value |
 | --- | --- |
 | Source | `S-027` / `E-025` |
 | URL | https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document |
-| Finding | Commission minutes authorize the mayor to sign a liquor application for **"the Wheel located at 503 Main Street."** |
+| Finding | Commission bound-minutes searchable text authorizes the mayor to sign a liquor application for **"the Wheel located at 503 Main Street."** The Wheel motion appears **before** the printed **7 June 1967 REGULAR MEETING** heading. It records McElroy, Conrad, and Danielson voting; the June 7 roll call immediately following lists McElroy and Conrad but not Danielson. Therefore the Wheel action belongs to the **preceding meeting**, whose exact date is not yet recovered from the accessible text segment. |
+| Limits | Applicant/licensee and application type are not stated. Original page-image retrieval failed in the 7 September 2026 recheck, so the date-boundary correction is based on official searchable PDF sequence and remains a **visual re-certification retrieval gap**. Do not equate this action with a proved Raye/Floyd LaFarlette purchase. |
+| Control capture | [`1967-wheel-liquor-date-boundary-lafarlette-acquisition-control-2026-09-07.md`](1967-wheel-liquor-date-boundary-lafarlette-acquisition-control-2026-09-07.md) |
+
+The prior archive wording **"7 June 1967 — Wheel liquor application"** is superseded by the date-boundary correction above. The record remains a high-value **1967 acquisition/license-transfer lead**, but it does not name a proprietor or purchaser.
 
 ### Adjacent — 507-511 replacement context
 
@@ -163,7 +167,7 @@ This is primary municipal evidence of a substantial interior/building-envelope p
 | Source | `S-043` / `E-035` |
 | URL | https://www.orcity.org/DocumentCenter/View/591/April-17-2017-to-April-21-2017-PDF |
 | Address / business | **505 Main St / 505 Tavern** |
-| Owner on permit | **Wiitanen Richard Martin Co-Tru** |
+| Owner on permit | **WIITANEN RICHARD MARTIN CO-TRU** |
 | Work | Install new UL-300 fire system in cooking hood; related electrical permit BE-17-0278 |
 | Valuation | $2,750 |
 | APN | 2-2E-31AB-08300 |
@@ -199,7 +203,7 @@ Supports continuing **505 real-estate** interest by Richard Wiitanen during the 
 
 These periods still lack registered Oregon City commission or permit records in the archive:
 
-1. **1966–1971** — liquor renewals / business licenses at 505 between the 1965 and 1972 minute anchors.
+1. **1966–1971** — the 1967 Wheel application is now registered but its exact preceding-meeting date, applicant/licensee, and transaction type are unresolved; 505 renewals between the 1965 and 1972 anchors also remain incomplete.
 2. **1973–1987** — Brass Rail operating interval, Hansen→Wiitanen transition, and pre-Dug Inn records. **August 2026 targeted pass:** no new primary record recovered online; see `evidence/source-captures/1973-1987-503-505-research-pass.md` and `RL-041`.
 3. **1989–2008** — Sports Keg, Mitch Young March 1991 acquisition, and pre-Berman operator chain.
 4. **2013–2016** — Thirsty Duck opening permits and Forvilly-era records.
@@ -219,7 +223,7 @@ Search venues:
 | Item | Confidence |
 | --- | --- |
 | 505 Tavern named in 1965 and 1972 liquor renewals | Very High (`E-029`) |
-| Wheel at 503 Main in June 1967 minutes | Very High (`E-025`) |
+| 1967-era Wheel liquor application at 503 Main | Very High that the official searchable municipal text records the action; **exact preceding-meeting date unresolved and visual page re-certification pending** (`E-025`; 7 Sep 2026 date-boundary capture) |
 | Distinct Wheel Restaurant and 505 Tavern in September 1967 fire article | Very High (`E-045`) |
 | Dug Inn formerly Brass Rail at 505 Main, April 1988 | Very High (`E-030`) |
 | Richard M. Wiitanen owner of Wheel Cafe business at 503 Main, August 1985 | Very High (`E-049`) |
