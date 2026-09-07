@@ -17,4 +17,13 @@ src = src.replace(
     1,
 )
 
+# Keep the canonical Markdown business name identical to the YAML name. The
+# quotation marks belong to source wording in notes/evidence, not to BUS-015's
+# canonical entity name.
+src = src.replace(
+    "| BUS-015 | [“Well's Recreation”](wells-recreation.md) | 505 Main | May 2000 individual survey scan visually verifies",
+    "| BUS-015 | [Well's Recreation](wells-recreation.md) | 505 Main | May 2000 individual survey scan visually verifies",
+    1,
+)
+
 exec(compile(src, str(SOURCE), "exec"), {"__name__": "__main__"})
