@@ -1,0 +1,27 @@
+name: Package Aug 2 1917 Courier scans
+
+on:
+  push:
+    paths:
+      - '.github/workflows/package-1917-courier-aug02-temp.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload preserved Aug 2 Courier scans
+        uses: actions/upload-artifact@v4
+        with:
+          name: courier-1917-08-02-scan-check
+          path: |
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-01.pdf
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-02.pdf
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-03.pdf
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-04.pdf
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-05.pdf
+            newspapers/oregon-city-courier/1917-first-issue-monthly-sample/1917-08-02-seq-06.pdf
+          retention-days: 1
