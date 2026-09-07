@@ -25,7 +25,7 @@ The live publisher PDF is 736 pages. Its extracted text at PDF page marker **P56
 - **Missing years: 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1954, 1955, 1956, 1957, 1958, 1959.**
 - **Reel: 26**
 
-The index's range label is internally broader than the actual surviving years represented by the missing-year list. It therefore must be read as a **collection/reel coverage statement**, not as evidence that a directory was published annually throughout the printed range.
+The index's printed range label is internally inconsistent with its own missing-year list: the label says **1941-1950**, while the missing-year list continues through **1959**. It must therefore be read as a **collection/reel coverage statement with malformed or truncated range text**, not as evidence that a directory was published annually throughout the printed range.
 
 A screenshot attempt for the relevant page returned a cache-miss error in the current research environment. Classification is therefore **PUBLISHER PDF TEXT / NOT SCAN-CERTIFIED IN THIS PASS**.
 
@@ -45,6 +45,15 @@ Source:
 
 This is **secondary catalog/aggregation evidence only**. It is useful as independent corroboration of the same broad coverage pattern but cannot establish that no 1945 directory existed elsewhere.
 
+### 7 September 2026 interpretive refinement — likely 1953 content on Reel 26
+<!-- Gale Reel 26 1953 retrieval inference — 2026-09-07 -->
+
+The publisher's Oregon City missing-year list is more useful than the malformed range heading alone. It explicitly enumerates every year from 1942 through 1959 **except 1953**. The same entry begins with 1941, while independent current directory catalogs list Oregon City image editions for **1941, 1953 and 1960**.
+
+Taken together, these sources support a **strong catalog inference** that Oregon City **Reel 26 includes the 1953 edition and probably the 1960 edition in addition to 1941**. This is not yet a visually verified statement about the physical reel: the reel itself has not been inspected, and the Gale page image could not be rendered in this environment. Do not promote this inference to primary directory evidence until Reel 26 or the original 1953 volume is visually examined.
+
+Research consequence: Reel 26 should no longer be treated only as a 1941 control. It is now a **high-value direct retrieval route for the unrecovered 1953 Oregon City & Vicinity Directory page that may identify the proprietor and exact spelling of Well's Recreation at 505 Main**.
+
 ## Library of Congress access route for the microfilm collection
 
 The Library of Congress current research guide confirms that **City Directories of the United States** is a large **self-service microfilm collection** in the Library's Microform and Electronic Resources Center, representing more than 1,200 cities, towns and counties, primarily from 1861 through 1960. The guide says the reels are arranged by city and that paper copies of the directory guide are available in the Microform and Electronic Resources Center and at the Local History and Genealogy Reference Desk.
@@ -52,6 +61,12 @@ The Library of Congress current research guide confirms that **City Directories 
 Current Library of Congress guide:
 
 `https://guides.loc.gov/united-states-city-telephone-directories/city-directories`
+
+The Library of Congress also publishes a **Directory Holdings Data Package** derived from its directory inventory tables, with 56,612 city-directory records available as CSV/JSON and state-by-state metadata files. The Oregon metadata endpoint was identified in this pass, but direct retrieval of that state file returned a cache miss in the current research environment; therefore no new row-level LOC assertion for Oregon City 1953 is made here.
+
+Dataset route:
+
+`https://data.labs.loc.gov/directories/`
 
 A separate Library of Congress microform guide identifies the collection as:
 
@@ -63,9 +78,11 @@ Microform guide:
 
 `https://wwws.loc.gov/rr/microform/guide/c.html`
 
-Research consequence: the Gale/Research Publications **Oregon City Reel 26** now has a concrete national repository/access route. If in-person Library of Congress access becomes practical, the guide/reel can be inspected directly. The LOC selectivity statement is also important evidence-methodologically: a year missing from Reel 26 cannot be converted into proof that no directory for that year was ever published or survives elsewhere.
+Research consequence: the Gale/Research Publications **Oregon City Reel 26** has a concrete national repository/access route. If in-person Library of Congress access becomes practical, the guide/reel can be inspected directly. The LOC selectivity statement is also important evidence-methodologically: a year missing from Reel 26 cannot be converted into proof that no directory for that year was ever published or survives elsewhere.
 
 The present online pass has not independently inspected the physical LOC Reel 26, so treat the specific reel-at-LOC inference as an **institutional collection/access route** rather than a visually verified reel holding.
+
+A current Yale University Library microform inventory separately lists **City Directories of the United States in Microform** (Research Publications) as a major microform set. That confirms an additional institutional holding of the broader series, but the current online Yale description does not expose Oregon City/Reel 26 contents, so no claim is made that Yale specifically holds this reel without further catalog verification.
 
 ## Relationship to the City's historic-resource bibliography
 
@@ -95,8 +112,9 @@ The Gale index materially strengthens a bibliographic distinction already emergi
 1. **1941 Oregon City** is a documented city-directory edition and a microfilm-series control.
 2. **1947–48 / 1948 Clackamas County** is a separate county-directory source known to include Oregon City material and remains the highest-value unrecovered volume for Farr/Harr transition work.
 3. **1945** is missing from Gale's Oregon City microfilm coverage and is not named as a directory title in the 2000 selected bibliography.
-4. Library of Congress cautions that the Research Publications collection is selective after 1860, confirming that **microfilm omission is not publication nonexistence evidence**.
-5. Therefore the City's statement **“Harr's Recreation Center — 1945”** must continue to be described as an **official-secondary directory-synthesis chronology point with exact underlying title/effective year/page unresolved**, not as a visually inspected “1945 Oregon City Directory” entry.
+4. The Gale omission pattern plus independent image-catalog listings now make **1953 on Reel 26 a strong retrieval inference**, though not yet a visually inspected reel fact.
+5. Library of Congress cautions that the Research Publications collection is selective after 1860, confirming that **microfilm omission is not publication nonexistence evidence**.
+6. Therefore the City's statement **“Harr's Recreation Center — 1945”** must continue to be described as an **official-secondary directory-synthesis chronology point with exact underlying title/effective year/page unresolved**, not as a visually inspected “1945 Oregon City Directory” entry.
 
 This does **not** prove the City's 1945 chronology is wrong. A consultant could have derived the date from a source not represented on Gale Reel 26, from a county directory with an effective/canvass date different from its title date, from an unpublished worksheet, or from another source class retained in the cumulative survey file.
 
@@ -104,19 +122,21 @@ This does **not** prove the City's 1945 chronology is wrong. A consultant could 
 
 The author index gives a concrete control, **Reel 26**, for the Oregon City series. The Library of Congress route provides a credible institution at which the underlying *City Directories of the United States* collection can be inspected.
 
-However, because the publisher's own missing-year list includes **1945** and **1948**, Reel 26 is **not** a substitute for obtaining the separate **1947–48 Clackamas County Directory**. Its main value to the active 505 question is:
+Because the publisher's own missing-year list includes **1945** and **1948**, Reel 26 is **not** a substitute for obtaining the separate **1947–48 Clackamas County Directory**. Its highest active values are now:
 
+- likely recovery of the **1953 Oregon City & Vicinity Directory**, especially the exact **505 Main / Well's Recreation** street, alphabetical and classified entries;
 - verifying the 1941 Oregon City volume and its contents/page structure;
-- checking whether any unexpected supplementary material appears on the reel;
+- likely checking the 1960 Oregon City directory inside the later 505 rename window, subject to physical-reel verification;
 - documenting the limits of this particular reproduced city-directory series.
 
 ## Next checks
 
-1. If Library of Congress or another holder can inspect **City Directories of the United States — Oregon City Reel 26**, visually verify the actual 1941 title/front matter and the Farr/Harr/505/505½/501–511 pages and classifications.
-2. Continue the separate **1947–48 Clackamas County Directory** acquisition route (`MF-001` / GFO TF0767 and other preserved institutional routes); Reel 26 does not contain 1948 according to Gale's own index.
-3. Obtain the cumulative **505 Main historic-resource file** (`MF-047`) and trace the City's 1941 / 1945 / 1953 chronology to exact source notes.
-4. Obtain the missing **1944–48 Oregon City liquor-license proceedings** (`MF-002`) because direct municipal succession evidence can resolve Farr → Harr independently of directory provenance.
+1. If Library of Congress or another verified holder can inspect **City Directories of the United States — Oregon City Reel 26**, first target the **1953** volume and visually capture 505 Main, Harr, Well/Well's/Wells/Welle/Welsh variants, recreation/pool/billiards classifications, proprietor notation, telephone number, and 501–511 Main address controls.
+2. Also identify and capture the reel's title/leader or sequence boundaries so the presence of 1941/1953/1960 can be established directly rather than inferred from the index.
+3. Continue the separate **1947–48 Clackamas County Directory** acquisition route (`MF-001` / GFO TF0767 and other preserved institutional routes); Reel 26 does not contain 1948 according to Gale's own index.
+4. Obtain the cumulative **505 Main historic-resource file** (`MF-047`) and trace the City's 1941 / 1945 / 1953 chronology to exact source notes.
+5. Obtain the missing **1944–48 Oregon City liquor-license proceedings** (`MF-002`) because direct municipal succession evidence can resolve Farr → Harr independently of directory provenance.
 
 ## Evidence boundary
 
-This finding establishes what Gale's reproduced/microfilmed Oregon City directory series says it contains and omits, and identifies a Library of Congress access route for the larger Research Publications microfilm collection. **A missing 1945 year on Gale Reel 26 is not evidence that no 1945 directory, county directory, business listing, license record, or consultant source existed.** Failed or absent catalog coverage remains a source-coverage statement, not negative historical evidence.
+This finding establishes what Gale's reproduced/microfilmed Oregon City directory series says it contains and omits and identifies institutional access routes for the broader Research Publications collection. **The presence of the 1953 directory on Reel 26 is presently a strong catalog inference, not a visually verified reel fact. A missing 1945 year on Gale Reel 26 is not evidence that no 1945 directory, county directory, business listing, license record, or consultant source existed.** Failed or absent catalog coverage remains a source-coverage statement, not negative historical evidence.
