@@ -33,7 +33,18 @@ jobs:
           file newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf
 
       - name: Integrate Flor-Kwality-Wheel transition
-        run: python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
+        run: |
+          python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
+          # The integrator's BUS-004 plain YAML scalar contains one colon-space
+          # in prose. Normalize that punctuation before YAML validation.
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('database/businesses.yml')
+          t = p.read_text(encoding='utf-8')
+          t = t.replace('primary anchor is 22 Aug 1958: Wheel Cafe & Lounge',
+                        'primary anchor is 22 Aug 1958 — Wheel Cafe & Lounge')
+          p.write_text(t, encoding='utf-8')
+          PY
 
       - name: Validate archive after edit
         run: python3 scripts/validate_archive.py
