@@ -587,3 +587,12 @@ The 1/8/15/22/29 June *Oregon City Enterprise* p7 professional ads continue to p
 The earlier 1957–1960 bracket is now narrowed. The City historic-resource synthesis (`E-032` / `S-026`) reports **Mr. and Mrs. Albert D. Flor** operating/managing the restaurant and cocktail bar at **503 Main in 1957**. A preserved, visually reviewed **22 August 1958** *Clackamas County News* advertisement (`E-255` / `S-282`) directly reads **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**.
 
 **Documented endpoints:** 1957 Flor operation at 503 → Wheel Cafe & Lounge at exact 503 by 22 August 1958. **Unresolved:** whether Flor renamed the business, sold it, was replaced by an intermediate operator, or had any ownership relationship to The Wheel. No property transfer is inferred from this occupancy/name change.
+
+## 8 June 1917 — Oregon City pool-room / cigar-stand licensing discussion
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+Timeline record: `T-095`. Source/evidence: `S-281` / `E-254`.
+
+A visually verified *Oregon City Enterprise* council report says all city pool rooms were being described as violating certain ordinance sections while the council discussed an amendment allowing pool rooms to operate **cigar stands without additional licenses**. The report says the city's strict pool-room legislation had been made in **1911**, when saloons were still operating.
+
+This is a **citywide regulatory event**, useful context for interpreting the 1912 Smith pool room at 503 and later pool-hall/cigar evidence. It is **not** evidence that Smith, Farr, Timms, a 505 operator, or any particular premises violated the ordinance or had a particular license status. The underlying 1911 ordinance text and 1917 amendment outcome remain open under `RL-052`.

@@ -449,3 +449,18 @@ May is complete 32/32 (`S-280` / `E-253`), cumulative **168 genuine Enterprise p
 Highest-value target is now the narrow **1957 through 22 August 1958** transition at 503 Main. Search Oregon City/OLCC liquor-license applications, renewals and transfers; assumed-business-name filings; 1957–1959 directories/telephone books; and newspaper sale/new-management notices using **Albert D. Flor**, **Mr./Mrs. Albert D. Flor**, **Margaret/Marge Remus**, **Al & Marge Kwality Cafe**, **Kwality Cafe**, **Wheel Cafe & Lounge**, **503 Main**, and **9106**.
 
 Disconfirming test: actively look for a different proprietor/licensee at the Wheel in 1958. A different named operator would defeat any simple Flor=Wheel assumption and may identify the pre-Raye seller chain.
+
+## RL-052 — Recover 1911 / 1917 Oregon City pool-room regulation
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+**Status: OPEN — ONLINE-FIRST.**
+
+`E-254` / `S-281` visually verifies an 8 June 1917 *Oregon City Enterprise* council report saying city pool rooms were violating certain ordinance sections while the council discussed an amendment that would let pool rooms operate cigar stands without additional licenses. The article says the city's strict pool-room legislation was made in **1911**, when saloons still operated.
+
+Next work:
+1. recover the enacted **1911 pool-room ordinance** (not merely newspaper summaries), including ordinance number, adoption/effective dates, license provisions, open-front requirements, prohibited games and any cigar/tobacco provisions;
+2. trace its relationship to the earlier pool-room ordinance lineage, including the already discoverable 1907/1909 measures, without assuming the 1917 reporter's “made in 1911” phrase means there were no earlier regulations;
+3. recover the **1917 amendment text and council outcome** associated with the cigar-stand/additional-license discussion;
+4. compare the enacted rules cautiously with the 1912 Smith 503 application/advertisement and later 1920–1925 pool-hall/cigar evidence.
+
+Do not infer that Smith, Farr, Timms, or any particular 503/505 operator violated the ordinance or owed/held a separate cigar license unless a source names that operator/premises.

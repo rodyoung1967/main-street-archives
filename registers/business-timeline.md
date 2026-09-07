@@ -244,3 +244,10 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Date | Address / location | Business | Evidence | Limits |
 | --- | --- | --- | --- | --- |
 | 22 Jun. 1917 | Oregon City; exact address not printed | Farr Bros. (`BUS-104`) | `E-254` / `S-281` | County Court expenditure appearance only; no proprietor, new trade type or 505 relationship. |
+
+### 8 June 1917 — citywide pool-room regulatory context
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+| Date | Location | Business / subject | Records | Evidence | Limits |
+| --- | --- | --- | --- | --- | --- |
+| 8 Jun. 1917 | Oregon City, citywide | Pool-room ordinance / cigar-stand licensing discussion | `T-095` / `RL-052` | `E-254` / `S-281` | Council report says pool rooms were violating ordinance sections and discusses cigar stands without additional licenses; strict legislation said to date to 1911. No room, address, proprietor or individual violation named. |

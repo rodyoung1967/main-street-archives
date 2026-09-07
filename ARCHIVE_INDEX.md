@@ -409,3 +409,8 @@ A February 1946 Oregon City Commission claims record identifies the City's recre
 - [`B-018` — 106 Fifth Street](buildings/106-fifth.md): 25 May 1917 direct National Guard enlistment/recruiting use; property/building continuity unresolved.
 - [`BUS-104` — Farr Brothers Store / Meat Market](businesses/farr-brothers-store.md): 25 May 1917 direct meat-market wording; later official 919 7th / Louis-Clarence Farr context; **not** Farr's Pool Hall at 505.
 - `P-396` / `BUS-103` W. S. Eddy / Fashion Stable: Main-between-Fourth/Fifth observation now extends through 25 May 1917.
+
+## 1917 pool-room regulatory context
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council report stating that Oregon City's strict pool-room legislation dated to 1911 and discussing cigar stands/additional licenses. This is useful context for `BUS-019` at 503 and later pool-hall/cigar evidence, but it identifies no particular pool room or address. See `T-095` / `RL-052`.

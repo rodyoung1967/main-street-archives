@@ -886,3 +886,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Propagated the resulting 1957→1958 bracket across `P-025`, `BUS-001`, `BUS-004`, `B-001`, the 503 and master timelines, business timeline/index, YAML databases, open questions, research leads and crosswalk.
 - Repaired pre-existing YAML drift for B-001 by carrying its already-established `P-025` / `E-032` / `S-026` Flor connection into `database/buildings.yml`.
 - Evidence handling remains conservative: the 1957 Flor endpoint and 1958 Wheel endpoint are documented, but **ownership, rename, sale, licensee identity and Raye's seller remain unresolved**. No Flor→Wheel ownership relationship was manufactured.
+
+### 2026-09-06 — June 1917 Enterprise pool-room regulatory amendment
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+- Rechecked the already validated June closeout (`S-281` / `E-254`) against the scan review and found one omitted direct finding on **8 June p.3**.
+- Visually verified citywide pool-room ordinance/cigar-stand licensing discussion and the article's statement that strict pool-room legislation dated to 1911.
+- Added `T-095` as citywide regulatory chronology and `RL-052` to recover the enacted 1911 ordinance and 1917 amendment outcome.
+- Added context to `BUS-019` / `E-089` / the 503 unified timeline without creating a 1917 503/505 occupant or alleging any operator violation.
+- Reviewed buildings/people/businesses/open questions: no building, proprietor, person-identity or open-question status change is warranted by the citywide article.

@@ -72,3 +72,8 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 | 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **The Wheel** signage on the 503 frontage and **505 Tavern / Tavern 505** on adjacent 505. | **Direct photographic** same-frame business separation; catalog range only, not a 1955 opening/date claim. | `E-206`; `S-232`; `IMG-0753` |
 
 | 1930–1939 | P-1043 block-sequence context | CCHS `P-1043` looks south from Sixth toward Fifth and preserves a dense west-side odd-number storefront-sign sequence. Exact `503` sign/occupant is not securely readable in this frame; use it as spatial/address-sequence context and cross-check with `P-1128`. | `E-211`; `S-237`; `IMG-0758` |
+
+## 1911–1917 pool-room regulatory context — not a 503 occupancy event
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+The 1912 Smith entries above sit within a broader city licensing regime. A visually verified 8 June 1917 council report (`E-254` / `S-281`; `T-095`) says Oregon City's strict pool-room legislation dated to **1911** and records discussion of cigar stands and additional licenses. The report is **citywide** and names no pool room or address, so it is not added to the table as a 1917 503 occupant/event. It is retained only as context for interpreting Smith's 1912 “Pool Room, Cigars and Tobacco” wording. See `RL-052` for the underlying ordinance-recovery task.

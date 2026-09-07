@@ -970,3 +970,10 @@ timeline:
       - E-253
     related_buildings:
       - B-018
+
+  - id: T-095
+    date: "8 June 1917"
+    summary: "Oregon City Enterprise reports citywide pool-room ordinance violations were discussed while council considered allowing pool rooms to operate cigar stands without additional licenses; the article dates the strict pool-room legislation to 1911."
+    confidence: "Very High for visually verified published council-report wording; no individual room, address, proprietor, violation, or license status identified"
+    related_evidence:
+      - E-254

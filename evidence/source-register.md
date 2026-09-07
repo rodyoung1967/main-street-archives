@@ -2377,6 +2377,8 @@ Preserved originals: `newspapers/oregon-city-enterprise/1917-june/`; manifest `n
 Evidence: `E-254`; capture: `evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md`.  
 Notes: W. S. Eddy/Fashion Stable repeats through 29 June at Main between Fourth/Fifth; 22 June repeats Farr Bros. in county expenditures. No exact target Main occupant.
 
+**June 8 regulatory amendment.** <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+The visually inspected 8 June p.3 council report also says city pool rooms were violating ordinance sections and records discussion of allowing pool-room cigar stands without additional licenses; it dates the strict pool-room legislation to 1911. This is citywide regulatory context only, not an address/operator finding. See `T-095` / `RL-052`.
 ## S-282 — Clackamas County News, 22 August 1958 p.2 — Wheel Cafe & Lounge at 503 Main
 <!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
 Type: Primary newspaper page scan  

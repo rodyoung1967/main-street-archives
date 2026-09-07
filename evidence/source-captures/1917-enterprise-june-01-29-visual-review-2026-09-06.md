@@ -46,3 +46,22 @@ Propagation decision:
 ## Status
 
 **June Enterprise monthly batch is closed: 40/40 visually verified.** 1917 remains **IN PROGRESS** with **208 genuine intended-date Enterprise pages through June**, the two earlier Enterprise page gaps, and **206 July–December exposed slots** still to review. Courier, directory and other-source blockers remain separately active.
+
+## 8 June p.3 — citywide pool-room / cigar-stand licensing context
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+Enlarged visual inspection of **8 June 1917, p.3** confirms a city-council report stating that **all of the pool rooms in the city** were said to be violating certain sections of the city ordinance. The discussion concerned a proposed ordinance amendment that would allow pool rooms to **operate cigar stands without paying additional licenses**. The same paragraph says the city's **strict pool-room legislation** had been made in **1911**, when saloons were still operating.
+
+This is **DOCUMENTED / DIRECT** evidence for the printed 1917 council-report wording and a material regulatory backdrop for Oregon City's pool-room/cigar businesses. It does **not** identify any particular pool room, address, proprietor, licensee, violator, or enforcement case. In particular, it does not prove that the 1912 Smith pool room at 503 Main, any later 505 pool hall, Farr's Pool Hall, or any named operator violated the ordinance or paid/owed a cigar license.
+
+A bounded online follow-up found additional discovery material: an official City minutes derivative describes **Ordinance 457** in December 1909 as amending earlier pool-room legislation, while April–May 1911 newspapers report a stricter pool-room measure under consideration with open-front and anti-gambling provisions. Those items help define the ordinance lineage but are not promoted here as visually certified source claims. `RL-052` now targets the underlying 1911 enactment and the 1917 amendment/outcome.
+
+### Propagation amendment
+
+This finding materially changes the regulatory interpretation of the early pool-room evidence, so the June batch is additionally propagated to:
+- master/business chronology (`T-095`) as a **citywide regulatory event**, not a 503/505 occupancy event;
+- the 1912 Smith pool-room evidence/business pages as later regulatory context only;
+- the 503 unified timeline as a contextual note attached to the 1912 pool-room sequence, not as a 1917 occupant;
+- research lead `RL-052` for the actual 1911 ordinance and 1917 amendment outcome.
+
+No building, occupant, proprietor, or ownership assignment changes. No open question is closed by this citywide article.

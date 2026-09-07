@@ -2518,6 +2518,8 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for page identity and printed Fashion Stable/Farr wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
 Confidence: **Very High**, with exact-number, identity and continuity limits preserved.
 
+**Additional direct claim — 8 June p.3.** <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+The page directly reports a citywide complaint that pool rooms were violating ordinance sections and a council discussion about amending the rules so pool rooms could operate cigar stands without additional licenses; it says the strict pool-room legislation was made in 1911. Classification: **DOCUMENTED / DIRECT** for the printed regulatory wording; no individual pool room, address, proprietor, violation, or license status is inferred. Related chronology/lead: `T-095` / `RL-052`.
 ## E-255 — Wheel Cafe & Lounge is directly documented at 503 Main by 22 August 1958
 <!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
 Source: `S-282`  

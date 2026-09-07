@@ -33,3 +33,10 @@ The 1912 occupancy proves use of the **503 Main address/storefront**, not that t
 **Very High** for H. N. Smith's printed 503 Main pool-room advertisement on 5 January, H. H. Smith's 503 Main pool-hall license application on 24 March, and H. H. Smith's departure from a Fifth/Main pool hall in July.  
 **High** that the March and July H. H. Smith items describe the same business sequence.  
 **Unresolved** whether H. N. Smith and H. H. Smith are the same person and whether the Fifth/Main wording proves a precise corner footprint.
+
+## Later regulatory context from 1917
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+`E-254` / `S-281` (8 June 1917 p.3) later reports that Oregon City's strict pool-room legislation had been made in **1911** and that the council was discussing whether pool rooms could operate cigar stands without paying additional licenses. Because the January 1912 Smith advertisement at 503 expressly offered **Pool Room, Cigars and Tobacco**, this is material regulatory backdrop.
+
+It does **not** prove that Smith violated any ordinance, that his cigar/tobacco activity required or lacked a separate license, that his March 1912 application was granted, or that the 1917 report referred to 503 Main. Recover the underlying ordinance/amendment under `RL-052`.

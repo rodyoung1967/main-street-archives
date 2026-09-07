@@ -694,3 +694,13 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Record | Links | Handling rule |
 | --- | --- | --- |
 | `S-282` / `E-255` | `B-001`, `BUS-004`; compare `P-025` / `E-032` | 22 Aug. 1958 visually verified ad directly gives **Wheel Cafe & Lounge, 503 Main, 9106**. Pair with 1957 Flor only to bracket an unresolved transition; do not promote Flor to Wheel owner/operator without a bridge. |
+
+## T-095 / RL-052 — 1917 pool-room regulatory amendment
+<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
+
+| Records | Connection | Limit |
+| --- | --- | --- |
+| `S-281` / `E-254` | 8 Jun. 1917 Enterprise p3 citywide pool-room/cigar-license discussion | Direct published regulatory wording; no particular room/address/operator |
+| `T-095` | Dated citywide regulatory chronology | Not a 503/505 occupancy event |
+| `RL-052` | Underlying 1911 ordinance + 1917 amendment/outcome recovery | Online-first; ordinance lineage still unresolved |
+| `BUS-019` / `B-001` | Context for 1912 Smith “Pool Room, Cigars and Tobacco” at 503 | Does not prove compliance, violation or separate cigar-license status |
