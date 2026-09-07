@@ -1,0 +1,57 @@
+name: Amend June 1917 Enterprise pool-room regulation context
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/amend-1917-enterprise-june-poolroom-regulation.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  amend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Compile amendment script
+        run: python3 -m py_compile scripts/amend_1917_enterprise_june_poolroom_regulation.py
+      - name: Validate archive before amendment
+        run: python3 scripts/validate_archive.py
+      - name: Apply June regulatory amendment
+        run: python3 scripts/amend_1917_enterprise_june_poolroom_regulation.py
+      - name: Validate archive after amendment
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized June amendment
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            scripts/amend_1917_enterprise_june_poolroom_regulation.py \
+            evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md \
+            evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml \
+            timeline.md database/timeline.yml registers/business-timeline.md \
+            evidence/E-089-1912-smith-pool-room-503-main.md businesses/h-h-smith-pool-hall.md timelines/503-main.md \
+            evidence/research-leads.md indexes/id-crosswalk.md \
+            evidence/source-captures/1917-closeout.md ARCHIVE_INDEX.md registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No June regulatory amendment changes.'
+            exit 0
+          fi
+          git commit -m 'Add 1917 pool-room licensing context'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
