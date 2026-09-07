@@ -1,0 +1,55 @@
+name: Integrate March 1958 Wheel anchor
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-wheel-cafe-march-1958-anchor-2026-09-07.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate before integration
+        run: python3 scripts/validate_archive.py
+      - name: Retrieve March 28 primary page
+        run: |
+          mkdir -p newspapers/clackamas-county-news
+          curl -fL --retry 3 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-3.pdf' \
+            -o newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf
+          test $(wc -c < newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf) -gt 10000
+          file newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf
+      - name: Integrate March endpoint
+        run: python3 scripts/integrate_wheel_cafe_march_1958_anchor.py
+      - name: Validate after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit and push
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf \
+            evidence/source-captures/1958-03-28-wheel-cafe-earliest-exact-address-control-and-february-guide-controls-2026-09-07.md \
+            evidence/source-register.md evidence/evidence-register.md evidence/open-questions.md \
+            database/sources.yml database/evidence.yml database/timeline.yml database/businesses.yml database/buildings.yml \
+            businesses/the-wheel.md businesses/kwality-cafe.md buildings/503-main.md people/profiles/albert-d-flor-family.md \
+            timelines/503-main.md registers/business-timeline.md timeline.md indexes/id-crosswalk.md registers/research-log.md \
+            MANUAL-FOLLOWUP.md registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Move Wheel exact-address anchor to March 1958'
+          for i in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep 2
+          done
+          exit 1
