@@ -29,3 +29,9 @@ On **20 July p7**, a market-report credit says the report is furnished by **Farr
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
 
 The market report on **3, 10, 17 and 24 August p7** says it is furnished by **Farr Bros.** and Brady Mercantile Company (`E-261` / `S-287`). On **31 August p7** the provider line changes to **R. Petzold and Brady Mercantile Company**. The change is evidence only about that published report credit; it does not prove Farr Brothers closed, sold, relocated or ceased operating. No address or individual Farr proprietor is printed, and no Edwin/Alice Farr or 505 Main merge is permitted.
+
+
+## September 1917 continuation
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+**14 September p7** and **28 September p7** market reports visibly credit **Farr Brothers** with Brady Mercantile Company; **14 September p6** separately lists **Farr Bros. (Piezo), $14.00** in County Court expenditure material (`E-262` / `S-288`). By contrast, 7 September p7 credits R. Petzold + Brady, and 21 September p7 has no local market-report column. These variations are not closure, sale, ownership-transfer or relocation evidence. No address or individual Farr proprietor is printed; no Edwin/Alice Farr or 505 Main merge is permitted.

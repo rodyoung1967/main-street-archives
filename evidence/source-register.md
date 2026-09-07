@@ -2448,3 +2448,12 @@ Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed
 Preserved originals: `newspapers/oregon-city-enterprise/1917-august/`; manifest `newspapers/oregon-city-enterprise/1917-august/manifest.json`; retrieval commit `fb892469e50de219b4acaa8642ea2860b8cb429a`.  
 Evidence: `E-261`; capture: `evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`.  
 Notes: Fashion Stable repeats through 31 August; Farr Bros. market-report credits continue through 24 August; 31 August provider line changes to R. Petzold + Brady Mercantile; Mrs. J. C. Napier directly prints at 512½ Main; no exact target Main occupant.
+
+## S-288 — Oregon City Enterprise, September 1917 complete scan-first visual-review batch
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
+Issue dates: 7, 14, 21 and 28 September 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-september/`; manifest `newspapers/oregon-city-enterprise/1917-september/manifest.json`; retrieval commit `b4e91df67fe2ffb72bac3d814b4d0cb535ec2b46`.  
+Evidence: `E-262`; capture: `evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`.  
+Notes: Fashion Stable continues through 28 Sep; Farr business/supplier controls on 14/28 Sep; 14 Sep p3 directly places J. C. Penney Co./The Golden Rule on Main between Fifth/Sixth, phone 270; no exact target Main occupant.

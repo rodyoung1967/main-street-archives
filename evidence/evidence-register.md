@@ -2619,3 +2619,17 @@ Claims:
 - no exact 501/503/505/507/509/511 Main, new 427 Main, or new numbered Fifth Street target occupant was established.
 Classification: **DOCUMENTED / DIRECT** for scan identity and printed wording; **CORRECTION** for the Napier 512½ transcription; **COVERAGE RESULT ONLY** for target-address no-hit.  
 Confidence: **Very High**, with exact-number, individual-identity, closure and continuity limits preserved.
+
+## E-262 — September 1917 Enterprise closes 32-page batch and adds J. C. Penney Fifth-to-Sixth Main anchor
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+Source: `S-288`  
+Type: Primary newspaper visual review  
+Claims:
+- **32/32 September scans** are genuine intended-date pages with no page-association defect;
+- cumulative Enterprise coverage: **312 genuine pages through September / 314 slots inspected**, two earlier true-page gaps unchanged, **102 Oct–Dec exposed slots remain**;
+- 7/14/21/28 Sep p7 repeat W. S. Eddy / Fashion Stable between Fourth and Fifth on Main;
+- 14 and 28 Sep market reports credit Farr Brothers + Brady Mercantile; 14 Sep p6 separately lists Farr Bros. (Piezo), $14.00; 7 Sep instead credits R. Petzold + Brady and 21 Sep has no local market-report column;
+- 14 Sep p3 visibly advertises **J. C. Penney Co. / The Golden Rule — Main Street Between Fifth and Sixth — Phone 270** (`BUS-105`), with no numbered address;
+- no exact 501/503/505/507/509/511 Main, new 427 Main, or numbered Fifth target occupant was established.
+Classification: **DOCUMENTED / DIRECT** for scan identity and printed wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
+Confidence: **Very High**, with exact-number, side-of-street, identity and continuity limits preserved.

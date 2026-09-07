@@ -427,3 +427,9 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 
 - [`evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`](evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md) — `S-287` / `E-261`; **40/40** August pages visually verified; cumulative Enterprise **280 genuine pages through August**.
 - Fashion Stable / W. S. Eddy extends through 31 August; Farr Bros. market-report credits through 24 August; Napier address corrected to 512½ Main; no exact target Main occupant.
+
+## 1917 Enterprise September complete visual batch
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+- [`evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`](evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md) — `S-288` / `E-262`; **32/32** September pages visually verified; cumulative Enterprise **312 genuine pages through September**.
+- New `BUS-105` J. C. Penney/The Golden Rule Main-between-Fifth/Sixth relative-location anchor; Fashion Stable through 28 Sep; Farr controls on 14/28 Sep; no exact target Main occupant.

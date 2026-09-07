@@ -1840,3 +1840,12 @@ sources:
     repository_file: "evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md"
     notes: "August complete; Fashion Stable through 31 Aug; Farr market credits through 24 Aug; Napier 512½ Main visual correction; no exact target Main occupant."
     related_evidence: [E-261]
+
+  - id: S-288
+    name: "Oregon City Enterprise, September 1917 complete scan-first visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed-1/"
+    type: "Primary newspaper page scans; 32/32 genuine pages visually verified"
+    date: "1917-09-07 through 1917-09-28"
+    repository_file: "evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md"
+    notes: "September complete; Fashion Stable through 28 Sep; Farr business controls; J. C. Penney/The Golden Rule Main between Fifth/Sixth phone 270; no exact target occupant."
+    related_evidence: [E-262]

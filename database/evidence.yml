@@ -3909,3 +3909,19 @@ evidence:
     related_businesses: [BUS-103, BUS-104]
     related_people: [P-396]
     related_sources: [S-287]
+
+  - id: E-262
+    name: "September 1917 Enterprise closes 32-page batch and adds J. C. Penney Fifth-to-Sixth Main anchor"
+    type: "Primary newspaper visual review"
+    date: "1917-09-07 through 1917-09-28"
+    claims:
+      - "All 32 September pages visually verified as genuine intended-date pages."
+      - "Enterprise cumulative genuine coverage: 312 pages through September; 102 October-December slots remain; March/April true-page gaps unchanged."
+      - "7/14/21/28 September p7 repeat W. S. Eddy/Fashion Stable between Fourth and Fifth on Main Street."
+      - "14/28 September market reports credit Farr Brothers and Brady Mercantile; 14 September p6 separately lists Farr Bros. in county expenditures; provider-line changes are not ownership/closure evidence."
+      - "14 September p3 directly places J. C. Penney Co./The Golden Rule on Main Street between Fifth and Sixth, phone 270, without a number."
+      - "No exact target Main or numbered Fifth target occupant established in September."
+    confidence: "Very High for visible wording and counts; inference limits retained."
+    related_businesses: [BUS-103, BUS-104, BUS-105]
+    related_people: [P-396]
+    related_sources: [S-288]

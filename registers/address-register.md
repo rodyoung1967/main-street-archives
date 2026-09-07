@@ -119,3 +119,8 @@ Both are relative-location evidence. No numbered building record is created. Tes
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
 
 Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both the 2 August *Oregon City Courier* p1 and 3 August *Oregon City Enterprise* p5 (`E-261` / `S-287` for the Enterprise batch; Courier monthly-sample source already registered). This corrects an older repository summary that wrote 612 Main for Napier after OCR misread the half-address. A separate 612 Main optometrist advertisement remains distinct. This establishes a dated address use only, not parcel/building continuity or a relationship to 501/503/505.
+
+### Main Street between Fifth and Sixth — J. C. Penney / The Golden Rule, 14 September 1917
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+`S-288` / `E-262` visually verifies a **J. C. Penney Co. / THE GOLDEN RULE** advertisement printing **Main Street Between Fifth and Sixth** and **Phone 270** (`BUS-105`). This is a direct block-relative location only. No side of Main or numbered address appears; do not allocate 501/503/505/507/509/511 or any parcel/building from this wording.

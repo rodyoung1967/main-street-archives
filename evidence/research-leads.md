@@ -499,3 +499,10 @@ July is complete **32/32** (`S-286` / `E-260`), cumulative **240 genuine Enterpr
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
 
 August is complete **40/40** (`S-287` / `E-261`), cumulative **280 genuine Enterprise pages through August**. Continue with **September 7/14/21/28**, verifying the actual exposed issue/page inventory first. Preserve the March/April true-page gaps and the 1916–17 Sohns & Woodbeck Oregon City directory gap. Continue target-address, pool-room, Fashion Stable and Farr identity checks with the same scan-first/no-merge rules. The 31 August Farr market-report credit change is not a closure event unless an independent source explicitly says so.
+
+## 7 September 2026 — J. C. Penney exact-number lead and Enterprise continuation after September
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+`S-288` / `E-262` directly places **J. C. Penney Co. / The Golden Rule (`BUS-105`)** on **Main Street between Fifth and Sixth, phone 270**, on 14 September 1917, but no number/side is printed. Seek a 1916–18 directory, telephone listing, business announcement, lease/property notice or another contemporary numbered advertisement before linking it to any 501–511 storefront.
+
+September is complete **32/32**, cumulative **312 genuine Enterprise pages through September**. Continue October 5/12/19/26 using the inventory's actual exposed counts — notably **19 October has six exposed slots**, not eight — and retain the two earlier true-page gaps. Continue Fashion Stable/Farr/target-address checks without interpreting ad or market-report silence as closure.

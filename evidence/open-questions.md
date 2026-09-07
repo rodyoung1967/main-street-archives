@@ -309,3 +309,8 @@ The complete July Enterprise visual batch (`S-286` / `E-260`) raises cumulative 
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
 
 The complete August Enterprise visual batch (`S-287` / `E-261`) raises cumulative genuine Enterprise coverage to **280 pages through August** but does **not** identify an exact 503 or 505 Main occupant. This is bounded source coverage, not vacancy/non-use evidence. The 1917 occupant question remains open; the Sohns & Woodbeck Oregon City directory section and remaining Enterprise September–December pages remain material routes.
+
+## 7 September 2026 — September Enterprise still does not resolve exact 1917 503/505 occupants
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+The complete September Enterprise visual batch (`S-288` / `E-262`) raises cumulative genuine Enterprise coverage to **312 pages through September** but still does not identify an exact 503 or 505 Main occupant. The new `BUS-105` block-relative J. C. Penney anchor is explicitly insufficient to assign a target number. Continue the Sohns & Woodbeck Oregon City directory route and remaining October–December Enterprise pages; source silence is not vacancy/non-use evidence.

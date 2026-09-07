@@ -739,3 +739,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-287` / `E-261` → `BUS-104`: Farr Bros. market-report credits on 3/10/17/24 Aug; 31 Aug provider-line change does not establish closure/sale/relocation.
 - `S-287` / `E-261` → address register: 3 Aug p5 directly prints Mrs. J. C. Napier at **512½ Main**, corroborating reinspection of the already registered 2 Aug Courier source and correcting its older summary transcription.
 - No target building, tenancy, ownership or 505 Farr/Harr bridge is created by this batch.
+
+## S-288 / E-262 — September 1917 Enterprise complete visual batch
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+- `S-288` / `E-262` → `P-396` / `BUS-103`: Fashion Stable Main-between-Fourth/Fifth observation extended through **28 Sep 1917**.
+- `S-288` / `E-262` → `BUS-104`: Farr Brothers direct 14/28 Sep market-report credits and 14 Sep county-expenditure appearance; no address/proprietor/505 merge.
+- `S-288` / `E-262` → `BUS-105`: J. C. Penney Co. / The Golden Rule, **Main Street between Fifth and Sixth, phone 270**, 14 Sep 1917; no numbered-building assignment.
+- No target building/tenancy/ownership event is created from the September no-hit.

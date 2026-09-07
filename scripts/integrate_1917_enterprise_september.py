@@ -80,8 +80,8 @@ retrieval_commit = subprocess.check_output(
 # Allocate identifiers only after workflow syncs latest main.
 src = r("evidence/source-register.md")
 ev = r("evidence/evidence-register.md")
-SID = f"S-{max(int(x) for x in re.findall(r'(?m)^## S-(\\d{3})\\b', src)) + 1:03d}"
-EID = f"E-{max(int(x) for x in re.findall(r'(?m)^## E-(\\d{3})\\b', ev)) + 1:03d}"
+SID = f"S-{max(int(x) for x in re.findall(r'(?m)^## S-(\d{3})\b', src)) + 1:03d}"
+EID = f"E-{max(int(x) for x in re.findall(r'(?m)^## E-(\d{3})\b', ev)) + 1:03d}"
 
 if (ROOT / JCP_PAGE).exists():
     m = re.search(r"Business ID: `(BUS-\d{3})`", r(JCP_PAGE))
@@ -229,7 +229,7 @@ if not re.search(rf"(?m)^  - id: {re.escape(EID)}$", text):
 
 text = r("database/businesses.yml")
 if not re.search(rf"(?m)^  - id: {re.escape(JCP_BUS)}$", text):
-    text = text.rstrip() + f'''\n\n  - id: {JCP_BUS}\n    name: "J. C. Penney Co. / The Golden Rule — Oregon City 1917"\n    address: "Main Street between Fifth and Sixth (no number printed)"\n    notes: "14 Sep 1917 Enterprise p3 directly prints J. C. Penney Co., THE GOLDEN RULE, 175 BUSY STORES, Main Street Between Fifth and Sixth, Phone 270. No side/number/building assignment."\n    repository_file: "{JCP_PAGE}"\n    related_evidence: [{EID}]\n    related_sources: [{SID}]\n'''
+    text = text.rstrip() + f'''\n\n  - id: {JCP_BUS}\n    name: "J. C. Penney Co. / The Golden Rule"\n    address: "Main Street between Fifth and Sixth (no number printed)"\n    notes: "14 Sep 1917 Enterprise p3 directly prints J. C. Penney Co., THE GOLDEN RULE, 175 BUSY STORES, Main Street Between Fifth and Sixth, Phone 270. No side/number/building assignment."\n    repository_file: "{JCP_PAGE}"\n    related_evidence: [{EID}]\n    related_sources: [{SID}]\n'''
     w("database/businesses.yml", text)
 update_entity_relations("database/businesses.yml", "BUS-103", EID, SID)
 update_entity_relations("database/businesses.yml", "BUS-104", EID, SID)

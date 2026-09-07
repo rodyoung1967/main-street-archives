@@ -616,3 +616,8 @@ Four visually verified July professional ads extend **W. S. Eddy (`P-396`) / Fas
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
 
 Five visually verified August professional ads extend **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) at Main between Fourth and Fifth** through **31 August 1917** (`E-261` / `S-287`). Farr Bros. receives market-report credits on 3/10/17/24 August; the 31 August credit instead names R. Petzold + Brady Mercantile, a provider-line change only. **3 August p5 directly prints Mrs. J. C. Napier at 512½ Main**, matching fresh visual reinspection of 2 August Courier p1 and correcting an older 612 transcription. Adams Department Store has an unnumbered going-out-of-business ad on 31 August p8. None of these observations establishes a 501/503/505 occupant.
+
+## 14 September 1917 — J. C. Penney / The Golden Rule on Main between Fifth and Sixth
+<!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+A visually verified *Oregon City Enterprise* p3 advertisement directly prints **J. C. Penney Co. — THE GOLDEN RULE — Main Street Between Fifth and Sixth — Phone 270** (`BUS-105`, `E-262` / `S-288`). This places the business in the Fifth-to-Sixth Main block but does not identify a numbered storefront, side of Main, parcel, owner, lease or building continuity. The same September batch extends W. S. Eddy/Fashion Stable through 28 September and adds Farr Brothers business/supplier observations without an address. No 501/503/505 occupant is established.
