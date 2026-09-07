@@ -1,6 +1,6 @@
 # 1953 Oregon City & Vicinity Directory — 505 Main source-recovery lead
 
-Status: **high-priority directory lead; FamilySearch catalog locator confirmed; actual 503/505 entries not yet visually recovered**
+Status: **high-priority directory lead; FamilySearch catalog locator confirmed; Gale/Research Publications Reel 26 is now a strong 1953 retrieval inference; actual 503/505 entries not yet visually recovered**
 
 The exact directory used by later Oregon City historic-resource research has now been confirmed as:
 
@@ -44,6 +44,27 @@ Classification: **SECONDARY BIBLIOGRAPHIC INDEX / DIRECT LOCATOR CONFIRMATION** 
 This supersedes the previous wording that catalog **95422 had not been independently verified**. The locator is now confirmed; **page-level access remains a retrieval gap**.
 
 The actual 1953 page images / 503 and 505 Main entries have not yet been recovered in the current research environment.
+
+## Gale / Research Publications Oregon City Reel 26 — likely 1953 retrieval route
+<!-- Gale Reel 26 1953 Well's retrieval route — 2026-09-07 -->
+
+Gale/Cengage's publisher author index for **_City Directories of the United States_** assigns **Oregon City to Reel 26**. The Oregon City entry has an internally inconsistent printed range label (`1941-1950`) but an explicit missing-year list that continues through **1959**. That list names 1942–1952 except 1953 and 1954–1959, while independent current directory catalogs list Oregon City image editions for **1941, 1953 and 1960**.
+
+This combination supports a **strong catalog inference that Reel 26 contains the 1953 Oregon City directory**, and likely the 1960 directory as well. The physical reel has not been inspected and the relevant Gale PDF page image could not be rendered in the current environment, so this is **not scan-certified primary evidence** and does not establish any occupant at 505 by itself.
+
+Publisher index:
+- https://assets.cengage.com/gale/psm/3065000A.pdf
+
+Library of Congress access/control routes:
+- https://guides.loc.gov/united-states-city-telephone-directories/city-directories
+- https://wwws.loc.gov/rr/microform/guide/c.html
+- https://data.labs.loc.gov/directories/
+
+The Library of Congress identifies the Research Publications set as **_City directories of the United States in microform_**, LC call number **Microfilm (o) 84/206**, and describes the microfilm collection as self-service, arranged by city, with coverage primarily through 1960. LOC's public Directory Holdings Data Package also exposes state-by-state machine-readable inventory metadata; the Oregon file was identified but returned a cache miss in this research environment, so no row-level LOC assertion for Oregon City 1953 is made yet.
+
+Detailed coverage analysis: `evidence/source-captures/1941-1960-oregon-city-directory-gale-microfilm-series-gap-control-2026-09-06.md`.
+
+**Retrieval priority:** if Reel 26 can be inspected, go first to the 1953 volume and capture the title/front matter plus exact 505 Main, Well/Well's/Wells/Welle/Welsh, Harr, recreation/pool/billiards classifications, proprietor notation, telephone number, and 501–511 Main controls. This route may recover the original Well's entry without relying on the SHPO transcription.
 
 ## EDR derivative shortcut — verified route, omitted appendix
 
