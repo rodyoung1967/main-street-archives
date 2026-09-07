@@ -370,3 +370,12 @@ The 7 September 2026 acquisition pass identified a materially better survival ro
 **Next manual action under MF-052, not yet sent:** prioritize the permanent OLCC Commission agenda/exhibit packet around the Oregon City action **before 7 June 1967** and search **The Wheel / 503 Main / Raye or Rae LaFarlette / Mrs. Floyd LaFarlette / Floyd E. LaFarlette / Raye Grisham**, with **Albert D. Flor / Margaret or Marge Remus / Kwality Cafe** as predecessor controls. The immediate question is applicant/licensee identity and transaction type.
 
 Source capture: `evidence/source-captures/1967-wheel-olcc-permanent-commission-records-route-2026-09-07.md`.
+
+### MF-052 refinement — 1965–1970 Oregon City directories and 1966–67 local record survival
+<!-- 1967-wheel-directory-record-survival-pass-2026-09-07 -->
+
+A 7 September 2026 focused continuation found two materially useful controls for the unresolved LaFarlette→Wheel acquisition date. First, Oregon City's later old-record disposal action explicitly included **Business License Applications, Jan. 1966–Dec. 1967**; this creates a genuine local records-survival risk but does **not** prove that the separate Wheel liquor application was destroyed. Second, the **New York Public Library** finding aid confirms a continuous Oregon City/Gladstone/West Linn telephone-directory run for **1965, 1966, 1966–67, 1967–68, 1968–69, and 1969–70**.
+
+**Next manual action under MF-052, not yet sent:** inspect those six directory volumes for **The Wheel / Wheel Cafe / 503 Main / 9106 / later number**, plus **Floyd, Raye/Rae LaFarlette and La Farlette** variants. Use the permanent OLCC Commission agenda/exhibit route in parallel. Also retrieve the exact **11 July 2012 Clackamas Review p. A9** obituary for **Raye LaFarlette Grisham**; the index is recovered, but the obituary text is not online in the current route.
+
+Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md`.

@@ -938,3 +938,15 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Visual inspection directly reads **505 Main Street, Oregon City** and **Phone 9179** in the **BEER — POOL** classified. UO OCR `0179` and earlier project reading `6179` are superseded.
 - Seller/proprietor, telephone subscriber, trade name, sale completion, and buyer remain unresolved. No new person/business/crosswalk relationship was created.
 
+
+### 7 September 2026 — 1967 Wheel directory / record-survival continuation
+<!-- 1967-wheel-directory-record-survival-pass-2026-09-07 -->
+
+- Re-synced current `main` before the continuation; parallel 1955-sale work was left untouched.
+- Repeated LaFarlette/Wheel owner-proprietor searches for 1965–1970; no contemporary direct LaFarlette→Wheel hit recovered. Classified as bounded no-hit only.
+- Recovered official Oregon City searchable text showing a later disposal authorization that included **Business License Applications, Jan. 1966–Dec. 1967**. This is a local records-survival control, not proof that the liquor application was destroyed.
+- Confirmed via NYPL's institutional finding aid that Oregon City/Gladstone/West Linn telephone directories survive for **1965, 1966, 1966–67, 1967–68, 1968–69, 1969–70**.
+- Confirmed that a City-hosted technical memo used a **1969 EDR city directory**, but its promised Appendix D abstract is not exposed in the posted report route; preserved as an attachment retrieval gap.
+- Narrowed Raye's obituary to **Clackamas Review, 11 July 2012, p. A9**; actual obituary text remains unrecovered.
+- Cross-record propagation decision: because this batch establishes research-route/survival facts rather than a new ownership/occupancy event, no new timeline acquisition event, owner, licensee, or seller was created. Updated the source capture, `MF-052`, research leads, The Wheel research page, and this log only.
+- No outreach or purchase was made.

@@ -482,3 +482,10 @@ Include spelling variants **Well's / Wells / Well / Welle / Welsh**, but preserv
 <!-- 1967-wheel-olcc-permanent-commission-route-2026-09-07 -->
 
 A 7 September 2026 State Archives retention-schedule pass shows that **OLCC Commission Meeting Records — minutes, agendas, exhibits — are permanent from 1934 onward and transferred after 20 years**, while ordinary license files/cards are finite-retention series. The 503 Main Wheel action occurs in Oregon City's bound minutes **before the printed 7 June 1967 heading**, but the public text omits the applicant and transaction type. Highest-value next evidence is the corresponding OLCC Commission agenda/exhibit/staff packet. Treat non-recovery of an ordinary license file as a survival gap, not evidence against a 1967 transfer. Coordinate under `MF-052`; do not send a request without steward authorization.
+
+### 7 September 2026 — year-by-year directory bracket for the LaFarlette/Wheel transition
+<!-- 1967-wheel-directory-record-survival-pass-2026-09-07 -->
+
+The strongest new non-OLCC route is now a confirmed **1965–1970 Oregon City telephone-directory sequence** held by NYPL: 1965, 1966, 1966–67, 1967–68, 1968–69, and 1969–70, covering Oregon City/Gladstone/West Linn. Compare **Wheel / 503 Main / telephone number** and **LaFarlette household/name variants** year by year. A directory-number or listing transition may narrow the takeover interval but is not ownership proof by itself.
+
+Oregon City's 1976 disposal authorization separately lists **Business License Applications, Jan. 1966–Dec. 1967**, so non-recovery of an ordinary local business-license application in the suspected takeover window must be treated as a survival gap. The permanent OLCC Commission records remain the higher-value applicant/licensee route. See `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md`; coordinate manual work under `MF-052`.

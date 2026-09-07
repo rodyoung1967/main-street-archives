@@ -90,3 +90,8 @@ Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. No recovered s
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
 
 `S-285` / `E-259` preserves the visually reviewed **28 March 1958** advertisement reading **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106**. It supersedes the May and August controls only as the earliest recovered exact-number Wheel advertisement; those later pages remain corroboration. Comparable recurring Oregon City guide panels on 31 January and 7/14/21 February do not carry this ad, but missing intervening March issues prevent a precise first-ad boundary. **Do not treat guide silence as proof the Wheel business did not exist.** The ad names no proprietor/licensee and does not prove a Kwality rename, Flor ownership, sale, or Raye acquisition.
+
+## 7 September 2026 — 1965–1970 directory and local-record survival control
+<!-- 1967-wheel-directory-record-survival-pass-2026-09-07 -->
+
+The c.1967 LaFarlette acquisition hypothesis remains **unproved** after another owner/proprietor sweep. A later Oregon City records-disposal action explicitly included **Business License Applications, Jan. 1966–Dec. 1967**, establishing a records-survival risk but not proving that the separate 1967 Wheel liquor application was destroyed. NYPL, however, confirms a continuous Oregon City/Gladstone/West Linn telephone-directory sequence for **1965 through 1969–70**. Those volumes are now the best non-OLCC route for bracketing a Wheel listing/phone-number change and the first local LaFarlette household/business appearance. See `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md` and `MF-052`.
