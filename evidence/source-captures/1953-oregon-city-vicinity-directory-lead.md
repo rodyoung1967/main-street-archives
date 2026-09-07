@@ -1,6 +1,6 @@
 # 1953 Oregon City & Vicinity Directory — 505 Main source-recovery lead
 
-Status: **high-priority directory lead; actual 503/505 entries not yet visually recovered**
+Status: **high-priority directory lead; FamilySearch catalog locator confirmed; actual 503/505 entries not yet visually recovered**
 
 The exact directory used by later Oregon City historic-resource research has now been confirmed as:
 
@@ -12,7 +12,27 @@ Official sources:
 - Oregon City Historic Review Program Update bibliography: https://oregon-city.granicus.com/MetaViewer.php?clip_id=655&meta_id=31497&view_id=6
 - Oregon City Commission minutes / claims, 7 Jan 1953: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722848/File/document
 
-Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. Public indexing also exposes a FamilySearch Library holding for an Oregon City directory series including Gladstone, West Linn and Willamette, but the previously suggested FamilySearch catalog number **95422 has not been independently verified** and should not yet be treated as a confirmed locator. The actual 1953 page images / 503 and 505 Main entries have not yet been recovered in the current research environment.
+Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. Public indexing also exposes a FamilySearch Library holding titled **_Oregon City (Clackamas County, Oregon) city directory: including Gladstone, West Linn and Willamette, also a buyers' guide and a complete classified business directory_**.
+
+## FamilySearch catalog 95422 — locator now independently confirmed
+<!-- FamilySearch 95422 locator verification — 2026-09-07 -->
+
+A fresh catalog-index check on 7 September 2026 resolved the earlier uncertainty about the suggested FamilySearch locator. The current LDSGenealogy Oregon City directory index links the exact FamilySearch Library title above to a dedicated item page; that item page explicitly states:
+
+> “Here is the direct catalog entry for this item: https://www.familysearch.org/en/search/catalog/95422”
+
+Index routes:
+- https://ldsgenealogy.com/OR/Oregon-City.htm
+- https://ldsgenealogy.com/cgi-bin/FHL2-OR.cgi?413266_Oregon_City_%28Clackamas_County%2C_Oregon%29_city_directory_%3A_including_Gladstone%2C_West_Linn_and_Willamette%2C_also_a_buyers%27_guide_and_a_complete_classified_business_directory=
+
+Direct FamilySearch route:
+- https://www.familysearch.org/en/search/catalog/95422
+
+Classification: **SECONDARY BIBLIOGRAPHIC INDEX / DIRECT LOCATOR CONFIRMATION** for the mapping of this Oregon City directory title to **FamilySearch catalog 95422**. The FamilySearch catalog endpoint itself continued to time out in the current research environment, so the catalog's detailed volume/film/digital-access table was not inspected. Do **not** infer which years/images are digitally open, locked, microfilm-only or book-only from the locator alone.
+
+This supersedes the previous wording that catalog **95422 had not been independently verified**. The locator is now confirmed; **page-level access remains a retrieval gap**.
+
+The actual 1953 page images / 503 and 505 Main entries have not yet been recovered in the current research environment.
 
 ## EDR derivative shortcut — verified route, omitted appendix
 
