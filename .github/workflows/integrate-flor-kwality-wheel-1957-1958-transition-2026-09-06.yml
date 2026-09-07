@@ -35,8 +35,8 @@ jobs:
       - name: Integrate Flor-Kwality-Wheel transition
         run: |
           python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
-          # Normalize generator formatting before validation. These changes only
-          # restore valid YAML syntax; they do not alter the evidence claims.
+          # Normalize one-off generator formatting and register field alignment
+          # before validation. Evidence meaning/classification is unchanged.
           python3 - <<'PY'
           from pathlib import Path
           import re
@@ -49,14 +49,35 @@ jobs:
                         '503 Main St., phone 9106 (')
           p.write_text(t, encoding='utf-8')
 
-          # append_once() in this one-off integrator strips the indentation from
-          # the first line of newly appended YAML list items. Restore the root-list
-          # indentation in the generated source/evidence databases.
+          # append_once() strips indentation from the first line of appended YAML.
           for name in ('database/sources.yml', 'database/evidence.yml'):
               p = Path(name)
               t = p.read_text(encoding='utf-8')
               t = re.sub(r'(?m)^- id: ((?:S|E)-\d+)\s*$', r'  - id: \1', t)
               p.write_text(t, encoding='utf-8')
+
+          # Markdown/YAML display names are required to match exactly.
+          p = Path('database/sources.yml')
+          t = p.read_text(encoding='utf-8').replace(
+              'Clackamas County News, 22 August 1958 p.2 — Wheel Cafe & Lounge, 503 Main',
+              'Clackamas County News, 22 August 1958 p.2 — Wheel Cafe & Lounge at 503 Main')
+          p.write_text(t, encoding='utf-8')
+
+          p = Path('database/evidence.yml')
+          t = p.read_text(encoding='utf-8').replace(
+              'Wheel Cafe & Lounge at exact 503 Main by 22 August 1958',
+              'Wheel Cafe & Lounge is directly documented at 503 Main by 22 August 1958')
+          p.write_text(t, encoding='utf-8')
+
+          # Evidence register requires an explicit Confidence field.
+          p = Path('evidence/evidence-register.md')
+          t = p.read_text(encoding='utf-8')
+          needle = 'Type: Primary newspaper advertisement  \nClaims:\n- On **22 August 1958**, *The Clackamas County News* directly advertises **WHEEL CAFE & LOUNGE**.'
+          repl = 'Type: Primary newspaper advertisement  \nConfidence: **Very High / DOCUMENTED-DIRECT** for the 22 August 1958 name/address/phone; **transition unresolved** when paired with the 1957 Flor endpoint.  \nClaims:\n- On **22 August 1958**, *The Clackamas County News* directly advertises **WHEEL CAFE & LOUNGE**.'
+          if needle not in t:
+              raise SystemExit('Expected new E-255 evidence-register block not found for Confidence insertion')
+          t = t.replace(needle, repl, 1)
+          p.write_text(t, encoding='utf-8')
           PY
 
       - name: Validate archive after edit
