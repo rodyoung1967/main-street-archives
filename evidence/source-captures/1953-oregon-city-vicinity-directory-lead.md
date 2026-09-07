@@ -1,6 +1,6 @@
 # 1953 Oregon City & Vicinity Directory — 505 Main source-recovery lead
 
-Status: **high-priority directory lead; actual 505 entry not yet visually recovered**
+Status: **high-priority directory lead; actual 503/505 entries not yet visually recovered**
 
 The exact directory used by later Oregon City historic-resource research has now been confirmed as:
 
@@ -12,7 +12,17 @@ Official sources:
 - Oregon City Historic Review Program Update bibliography: https://oregon-city.granicus.com/MetaViewer.php?clip_id=655&meta_id=31497&view_id=6
 - Oregon City Commission minutes / claims, 7 Jan 1953: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722848/File/document
 
-Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. The actual page image / 505 Main entry has not yet been recovered in the current research environment.
+Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. Public indexing also exposes a FamilySearch Library holding for an Oregon City directory series including Gladstone, West Linn and Willamette, but the previously suggested FamilySearch catalog number **95422 has not been independently verified** and should not yet be treated as a confirmed locator. The actual 1953 page images / 503 and 505 Main entries have not yet been recovered in the current research environment.
+
+## EDR derivative shortcut — verified route, omitted appendix
+
+A City-hosted **Hazardous Materials Corridor Assessment** for the Willamette Falls Path/OR99E project was visually checked at report p. 14. It directly states that EDR city-directory listings for **1953** and later years were reviewed and that the **EDR-City Directory Abstract** was included in Appendix D. The same page identifies **502/506 Main** listings beginning in 1953, confirming that the EDR work covered the target 500 block.
+
+However, the currently accessible 103-page City PDF does **not** include the referenced EDR City Directory Abstract itself. No 503/505 1953 entry can therefore be extracted from that PDF, and the report body's selective list is not a complete directory abstract. Treat the omitted Appendix D as a **RETRIEVAL GAP**, not negative evidence.
+
+Detailed capture: `evidence/source-captures/1953-edr-city-directory-abstract-shortcut-pass-2026-09-06.md`.
+
+The EDR abstract remains a useful derivative shortcut if a fuller City/ODOT project package is found, but the original Salisbury page image remains the preferred evidence.
 
 ## Why this source is important for 505 Main
 
