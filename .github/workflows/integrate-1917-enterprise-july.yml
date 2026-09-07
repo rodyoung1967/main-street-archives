@@ -1,0 +1,67 @@
+name: Integrate July 1917 Oregon City Enterprise
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-1917-enterprise-july.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Repair staged integration-script typo
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1917_enterprise_july.py')
+          s = p.read_text()
+          s = s.replace('rl = r("registers/research-log.md")n = None', 'rl = r("registers/research-log.md")')
+          p.write_text(s)
+          PY
+      - name: Compile integration script
+        run: python3 -m py_compile scripts/integrate_1917_enterprise_july.py
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate July Enterprise visual closeout
+        run: python3 scripts/integrate_1917_enterprise_july.py
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit synchronized July closeout
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            scripts/integrate_1917_enterprise_july.py \
+            evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md \
+            evidence/source-register.md evidence/evidence-register.md \
+            database/sources.yml database/evidence.yml \
+            businesses/fashion-stable.md businesses/farr-brothers-store.md businesses/business-index.md database/businesses.yml \
+            people/profiles/w-s-eddy.md people/people-index.md database/people.yml \
+            timeline.md registers/business-timeline.md \
+            evidence/research-leads.md evidence/open-questions.md evidence/source-captures/1917-closeout.md \
+            indexes/id-crosswalk.md registers/research-log.md registers/year-status.md ARCHIVE_INDEX.md
+          if git diff --cached --quiet; then
+            echo 'No July integration changes.'
+            exit 0
+          fi
+          git commit -m 'Close July 1917 Enterprise visual audit'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
