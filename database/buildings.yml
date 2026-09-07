@@ -102,13 +102,12 @@ buildings:
       - SM-007
       - SM-008
       - SM-009
-
       - P-025
       - E-032
       - E-255
+      - E-256
       - S-026
       - S-282
-      - E-256
       - S-283
   - id: B-002
     name: 505 Main Street
