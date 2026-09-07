@@ -1,0 +1,54 @@
+name: Integrate 1967 Wheel OLCC permanent Commission route
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_1967_wheel_olcc_permanent_commission_route.py'
+      - '.github/workflows/integrate-1967-wheel-olcc-permanent-commission-route.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validator dependencies
+        run: python3 -m pip install -r requirements.txt
+      - name: Integrate 1967 Wheel OLCC archival route
+        run: python3 scripts/integrate_1967_wheel_olcc_permanent_commission_route.py
+      - name: Preserve existing research-lead ID scheme
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('evidence/research-leads.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace(
+              '## RL-1967-WHEEL-OLCC — Recover the permanent OLCC Commission exhibit behind the 1967 Wheel action',
+              '### 7 September 2026 — permanent OLCC Commission-record route for the 1967 Wheel action',
+          )
+          p.write_text(text, encoding='utf-8')
+          PY
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integrated records
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add evidence businesses buildings timelines timeline.md registers database MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git commit -m 'Integrate 1967 Wheel OLCC permanent record route'
+          git pull --rebase origin main
+          git push origin HEAD:main
