@@ -1,0 +1,80 @@
+name: Integrate Flor-Kwality-Wheel 1957-1958 transition
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-flor-kwality-wheel-1957-1958-transition-2026-09-06.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Preserve visually reviewed 1958 Wheel source page
+        run: |
+          mkdir -p newspapers/clackamas-county-news
+          curl -fL --retry 3 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn96088135/1958-08-22/ed-1/seq-2.pdf' \
+            -o newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf
+          test $(wc -c < newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf) -gt 10000
+          file newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf
+
+      - name: Integrate Flor-Kwality-Wheel transition
+        run: python3 scripts/integrate_flor_kwality_wheel_1957_1958_transition.py
+
+      - name: Validate archive after edit
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push synchronized research
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf \
+            evidence/source-register.md \
+            evidence/evidence-register.md \
+            database/sources.yml \
+            database/evidence.yml \
+            people/profiles/albert-d-flor-family.md \
+            businesses/kwality-cafe.md \
+            businesses/the-wheel.md \
+            businesses/business-index.md \
+            buildings/503-main.md \
+            timelines/503-main.md \
+            timeline.md \
+            registers/business-timeline.md \
+            database/people.yml \
+            database/businesses.yml \
+            database/buildings.yml \
+            database/timeline.yml \
+            evidence/open-questions.md \
+            evidence/research-leads.md \
+            indexes/id-crosswalk.md \
+            registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Bracket Flor-Kwality to Wheel transition by August 1958'
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
