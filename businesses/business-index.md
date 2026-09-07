@@ -178,7 +178,7 @@ These records were already part of the evidence narrative but previously lacked 
 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
-| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–27 Jul 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. July ads extend direct observation through 27 July. `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281`; `E-260` / `S-286`. |
+| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–31 Aug 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. August ads extend direct observation through 31 August. `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281`; `E-260` / `S-286`; `E-261` / `S-287`. |
 
 ## May 1917 Enterprise business promotion
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
@@ -210,3 +210,9 @@ These records were already part of the evidence narrative but previously lacked 
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 `BUS-104` Farr Brothers receives two additional 20 July observations: a market-report credit on p7 and County Court expenditures on p8 (`E-260` / `S-286`). Neither prints an address or individual proprietor; no `BUS-013` / 505 merge.
+
+
+## August 1917 Enterprise continuation
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+`BUS-104` Farr Brothers receives direct market-report credits on 3/10/17/24 August p7 (`E-261` / `S-287`). The 31 August provider line names R. Petzold + Brady Mercantile instead; this is not treated as a Farr closure/sale/relocation. No address or `BUS-013` / 505 merge.

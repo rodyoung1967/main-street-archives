@@ -5,7 +5,7 @@ Person ID: `P-396`. Related business: `BUS-103` (Fashion Stable).
 ## Documented chronology
 
 - **23 April 1915 and later 1915 notices:** visually verified Enterprise evidence places **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`). No street number is printed.
-- **6 April–27 July 1917:** repeated visually reviewed professional ads place **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`; continued `E-260` / `S-286`). No street number is printed.
+- **6 April–31 August 1917:** repeated visually reviewed professional ads place **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`; continued `E-260` / `S-286` and `E-261` / `S-287`). No street number is printed.
 
 The identical initials, professional credentials and Fashion Stable name strongly bridge these as the same W. S. Eddy/business chronology. The changed relative location supports a move, changed stable premises, or changed location wording by April 1917, but does not establish the exact move date.
 
@@ -31,3 +31,9 @@ The 1/8/15/22/29 June p7 advertisements repeat the same name, credentials, busin
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 The 6/13/20/27 July p7 advertisements repeat the same name, credentials, business and relative location; latest verified date is **27 July 1917** (`E-260` / `S-286`).
+
+
+## August continuation
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+The 3/10/17/24/31 August p7 advertisements repeat the same name, credentials, business and relative location; latest verified date is **31 August 1917** (`E-261` / `S-287`).

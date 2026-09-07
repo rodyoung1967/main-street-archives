@@ -229,7 +229,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 | Period | Address / relative location | Business / person | IDs | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
-| 6 Apr.–27 Jul. 1917 verified span | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252`, `E-253`, `E-254`, `E-260`; `S-279`, `S-280`, `S-281`, `S-286` | Direct relative-location wording; no street number, move date, lease, ownership, or target-building continuity. |
+| 6 Apr.–31 Aug. 1917 verified span | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252`, `E-253`, `E-254`, `E-260`, `E-261`; `S-279`, `S-280`, `S-281`, `S-286`, `S-287` | Direct relative-location wording; no street number, move date, lease, ownership, or target-building continuity. |
 | 6 Apr.–29 Jun. 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |
 
 ## Farr Brothers separate business identity
@@ -257,3 +257,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 | 20 Jul. 1917 | Not printed | Farr Bros. market-report credit + county expenditures | `BUS-104` | `E-260` / `S-286` | Dated business/supplier appearances only; no address or named proprietor; no Edwin/Alice Farr or 505 merge. |
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
+
+
+| 3–24 Aug. 1917 | Not printed | Farr Bros. market-report credits with Brady Mercantile | `BUS-104` | `E-261` / `S-287` | Dated business appearances only; 31 Aug provider line changes to R. Petzold + Brady Mercantile; no closure inference, address or named proprietor. |
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->

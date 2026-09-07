@@ -2439,3 +2439,12 @@ Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed
 Preserved originals: `newspapers/oregon-city-enterprise/1917-july/`; manifest `newspapers/oregon-city-enterprise/1917-july/manifest.json`; retrieval commit `5aac50e370846d5b9481cee00be1bc457e8c7fa2`.  
 Evidence: `E-260`; capture: `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.  
 Notes: W. S. Eddy/Fashion Stable repeats through 27 July at Main between Fourth/Fifth; 20 July carries Farr Bros. market-report and county-expenditure appearances. No exact target Main occupant.
+
+## S-287 — Oregon City Enterprise, August 1917 complete scan-first visual-review batch
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.  
+Issue dates: 3, 10, 17, 24 and 31 August 1917.  
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed-1/  
+Preserved originals: `newspapers/oregon-city-enterprise/1917-august/`; manifest `newspapers/oregon-city-enterprise/1917-august/manifest.json`; retrieval commit `fb892469e50de219b4acaa8642ea2860b8cb429a`.  
+Evidence: `E-261`; capture: `evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`.  
+Notes: Fashion Stable repeats through 31 August; Farr Bros. market-report credits continue through 24 August; 31 August provider line changes to R. Petzold + Brady Mercantile; Mrs. J. C. Napier directly prints at 512½ Main; no exact target Main occupant.

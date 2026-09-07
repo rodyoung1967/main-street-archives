@@ -304,3 +304,8 @@ The same form's owner field names **Richard and Sheila Wiitanen** (`E-258`), est
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 The complete July Enterprise visual batch (`S-286` / `E-260`) raises cumulative genuine Enterprise coverage to **240 pages through July** but does **not** identify an exact 503 or 505 Main occupant. This is bounded source coverage, not vacancy/non-use evidence. The 1917 occupant question remains open; the Sohns & Woodbeck Oregon City directory section and remaining Enterprise August–December pages remain material routes.
+
+## 7 September 2026 — 1917 Enterprise August coverage does not resolve 503/505 occupancy
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+The complete August Enterprise visual batch (`S-287` / `E-261`) raises cumulative genuine Enterprise coverage to **280 pages through August** but does **not** identify an exact 503 or 505 Main occupant. This is bounded source coverage, not vacancy/non-use evidence. The 1917 occupant question remains open; the Sohns & Woodbeck Oregon City directory section and remaining Enterprise September–December pages remain material routes.

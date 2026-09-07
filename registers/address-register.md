@@ -114,3 +114,8 @@ Both are relative-location evidence. No numbered building record is created. Tes
 | Address | Building ID | Primary page | Related evidence | Established use / limits |
 | --- | --- | --- | --- | --- |
 | **106 Fifth Street** | `B-018` | `buildings/106-fifth.md` | `E-253` / `S-280` | Oregon National Guard enlistments received here on 25 May 1917. Owner, ordinary tenant, parcel, footprint and physical continuity unresolved. |
+
+### 512½ Main Street — August 1917 direct address control
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both the 2 August *Oregon City Courier* p1 and 3 August *Oregon City Enterprise* p5 (`E-261` / `S-287` for the Enterprise batch; Courier monthly-sample source already registered). This corrects an older repository summary that wrote 612 Main for Napier after OCR misread the half-address. A separate 612 Main optometrist advertisement remains distinct. This establishes a dated address use only, not parcel/building continuity or a relationship to 501/503/505.

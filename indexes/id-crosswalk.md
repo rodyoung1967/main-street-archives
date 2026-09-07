@@ -731,3 +731,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-286` → preserved 6/13/20/27 July Enterprise scans and `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.
 - `E-260` → `P-396` / `BUS-103` Fashion Stable continuation through 27 July; `BUS-104` Farr Brothers 20 July market-report/expenditure observations.
 - No `B-001` / `B-002` occupant relationship is created: the target-address result is bounded coverage only.
+
+## S-287 / E-261 — August 1917 Enterprise complete visual batch
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+- `S-287` / `E-261` → `P-396` / `BUS-103`: Fashion Stable Main-between-Fourth/Fifth observation extended through **31 Aug 1917**.
+- `S-287` / `E-261` → `BUS-104`: Farr Bros. market-report credits on 3/10/17/24 Aug; 31 Aug provider-line change does not establish closure/sale/relocation.
+- `S-287` / `E-261` → address register: 3 Aug p5 directly prints Mrs. J. C. Napier at **512½ Main**, corroborating reinspection of the already registered 2 Aug Courier source and correcting its older summary transcription.
+- No target building, tenancy, ownership or 505 Farr/Harr bridge is created by this batch.

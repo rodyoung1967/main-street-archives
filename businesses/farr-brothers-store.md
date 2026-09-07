@@ -23,3 +23,9 @@ Do not merge this grocery/meat business with Edwin F. Farr, Alice Farr, **Farr's
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 On **20 July p7**, a market-report credit says the report is furnished by **Farr Bros.** and Brady Mercantile Company; **20 July p8** also lists **Farr Bros.** in County Court expenditures (`E-260` / `S-286`). These are additional dated business/supplier appearances, but neither supplies an address or individual Farr proprietor. The 25 May **Meat market** wording remains the controlling direct 1917 trade description. No Edwin/Alice Farr or 505 Main merge is permitted.
+
+
+## August 1917 continuation
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+The market report on **3, 10, 17 and 24 August p7** says it is furnished by **Farr Bros.** and Brady Mercantile Company (`E-261` / `S-287`). On **31 August p7** the provider line changes to **R. Petzold and Brady Mercantile Company**. The change is evidence only about that published report credit; it does not prove Farr Brothers closed, sold, relocated or ceased operating. No address or individual Farr proprietor is printed, and no Edwin/Alice Farr or 505 Main merge is permitted.

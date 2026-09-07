@@ -2604,3 +2604,18 @@ Claims:
 - no exact 501/503/505/507/509/511 Main, new 427 Main, or new numbered Fifth Street target occupant was established.
 Classification: **DOCUMENTED / DIRECT** for scan identity and printed Fashion Stable/Farr wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
 Confidence: **Very High**, with exact-number, individual-identity and continuity limits preserved.
+
+## E-261 — August 1917 Enterprise closes 40-page batch and extends Fashion Stable through August 31
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+Source: `S-287`  
+Type: Primary newspaper visual review  
+Claims:
+- all **40/40 August scans** are genuine intended-date pages with no August page-association defect;
+- Enterprise cumulative genuine coverage is **280 pages through August**; **282 Jan–Aug archive slots** inspected; existing March/April true-page gaps unchanged; **134 September–December exposed slots remain**;
+- 3/10/17/24/31 August p7 repeat W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street;
+- 3/10/17/24 August p7 credit Farr Bros. + Brady Mercantile for the market report; 31 August credits R. Petzold + Brady Mercantile, a provider-line change only;
+- 3 August p5 directly prints Mrs. J. C. Napier at **512½ Main**, corroborating fresh visual reinspection of 2 August Courier p1 and correcting the older 612 transcription;
+- 31 August p8 carries an unnumbered Adams Department Store going-out-of-business/closing-out advertisement;
+- no exact 501/503/505/507/509/511 Main, new 427 Main, or new numbered Fifth Street target occupant was established.
+Classification: **DOCUMENTED / DIRECT** for scan identity and printed wording; **CORRECTION** for the Napier 512½ transcription; **COVERAGE RESULT ONLY** for target-address no-hit.  
+Confidence: **Very High**, with exact-number, individual-identity, closure and continuity limits preserved.

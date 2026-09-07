@@ -611,3 +611,8 @@ A visually verified *Clackamas County News* advertisement directly prints **WHEE
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 Four visually verified July professional ads extend **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) at Main between Fourth and Fifth** through **27 July 1917** (`E-260` / `S-286`). No exact street number is printed. On **20 July**, Farr Bros. appears in a market-report credit and County Court expenditures, still without a Farr address or named proprietor. These observations do not establish an occupant at 501/503/505 or bridge Farr Brothers Store to Farr's Pool Hall at 505.
+
+## 3–31 August 1917 — Enterprise continuation and 512½ Main address correction
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+Five visually verified August professional ads extend **W. S. Eddy (`P-396`) / Fashion Stable (`BUS-103`) at Main between Fourth and Fifth** through **31 August 1917** (`E-261` / `S-287`). Farr Bros. receives market-report credits on 3/10/17/24 August; the 31 August credit instead names R. Petzold + Brady Mercantile, a provider-line change only. **3 August p5 directly prints Mrs. J. C. Napier at 512½ Main**, matching fresh visual reinspection of 2 August Courier p1 and correcting an older 612 transcription. Adams Department Store has an unnumbered going-out-of-business ad on 31 August p8. None of these observations establishes a 501/503/505 occupant.

@@ -29,7 +29,7 @@ August demonstrates that 1917 Courier issues are not only sometimes larger than 
 
 The six-page 2 Aug visual pass and targeted August 1917 searches did not produce a defensible exact-address occupant for **503 Main** or **505 Main**. This remains a coverage/result observation only and is not evidence of vacancy or non-use.
 
-The 2 Aug issue contains a separately useful numbered-address item at **612 Main** (Mrs. J. C. Napier, in a household-canning story) and a 612 Main optometrist advertisement. These are on the even-numbered side and do not resolve the target block.
+The 2 Aug issue contains a separately useful numbered-address item at **512½ Main** (Mrs. J. C. Napier, in a household-canning story) and a separate **612 Main** optometrist advertisement. Fresh scan reinspection on 7 September 2026 corrected the prior `612 Main` Napier transcription: the printed article visibly reads **512½ Main street**; OCR had misread the half-address. These opposite-side controls do not resolve the target block.
 
 ## Later December review
 
@@ -40,3 +40,9 @@ The earlier 13 Dec rendering limitation is superseded. All 24 archive-supplied f
 1. Preserve the 2 Aug issue as a six-page visually reviewed issue.
 2. Do not promote a 503/505 occupant from August search silence.
 3. Carry the exact-occupant question to the full 1916–17 Oregon City directory retrieval.
+
+
+## 7 September 2026 visual correction — Mrs. J. C. Napier
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+Fresh visual reinspection of preserved **2 August 1917 p1** confirms **Mrs. J. C. Napier, of 512½ Main street**. The prior summary's 612 attribution came from OCR/transcription error. A separate 612 Main optometrist advertisement remains valid and distinct. The 3 August Enterprise p5 independently prints the same **512½ Main** Napier address (`E-261` / `S-287`).

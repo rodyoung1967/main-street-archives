@@ -421,3 +421,9 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - [`S-286` / `E-260` July Enterprise visual review](evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md): 6/13/20/27 July, **32/32 genuine pages**, no page-association defect; cumulative Enterprise **240 genuine pages through July**.
 - Preserved originals and checksums: [`newspapers/oregon-city-enterprise/1917-july/manifest.json`](newspapers/oregon-city-enterprise/1917-july/manifest.json).
 - Entity propagation: `P-396` / `BUS-103` Fashion Stable through 27 July; `BUS-104` Farr Brothers 20 July controls. No exact target Main occupant created.
+
+## 1917 Enterprise August complete visual batch
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+- [`evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`](evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md) — `S-287` / `E-261`; **40/40** August pages visually verified; cumulative Enterprise **280 genuine pages through August**.
+- Fashion Stable / W. S. Eddy extends through 31 August; Farr Bros. market-report credits through 24 August; Napier address corrected to 512½ Main; no exact target Main occupant.

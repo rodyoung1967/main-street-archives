@@ -3892,3 +3892,20 @@ evidence:
     related_businesses: [BUS-103, BUS-104]
     related_people: [P-396]
     related_sources: [S-286]
+
+  - id: E-261
+    name: "August 1917 Enterprise closes 40-page batch and extends Fashion Stable through August 31"
+    type: "Primary newspaper visual review"
+    date: "1917-08-03 through 1917-08-31"
+    claims:
+      - "All 40 August pages visually verified as genuine intended-date pages."
+      - "Enterprise cumulative genuine coverage: 280 pages through August; 134 September-December slots remain; March and April true-page gaps unchanged."
+      - "3/10/17/24/31 August p7 repeat W. S. Eddy/Fashion Stable between Fourth and Fifth on Main Street."
+      - "3/10/17/24 August p7 credit Farr Bros. and Brady Mercantile; 31 August changes the market-report provider line to R. Petzold and Brady Mercantile."
+      - "3 August p5 and fresh visual reinspection of 2 August Courier p1 print Mrs. J. C. Napier at 512½ Main; older 612 summary corrected."
+      - "31 August p8 has unnumbered Adams Department Store closing-out advertising."
+      - "No exact target Main or new numbered Fifth target occupant established in August."
+    confidence: "Very High for visible wording and counts; inference limits retained."
+    related_businesses: [BUS-103, BUS-104]
+    related_people: [P-396]
+    related_sources: [S-287]

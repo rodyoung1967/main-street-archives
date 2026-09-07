@@ -1831,3 +1831,12 @@ sources:
     repository_file: "evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md"
     notes: "July complete; Fashion Stable continues through 27 July and Farr Bros. appears twice on 20 July; no exact target Main occupant."
     related_evidence: [E-260]
+
+  - id: S-287
+    name: "Oregon City Enterprise, August 1917 complete scan-first visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed-1/"
+    type: "Primary newspaper page scans; 40/40 genuine pages visually verified"
+    date: "1917-08-03 through 1917-08-31"
+    repository_file: "evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md"
+    notes: "August complete; Fashion Stable through 31 Aug; Farr market credits through 24 Aug; Napier 512½ Main visual correction; no exact target Main occupant."
+    related_evidence: [E-261]

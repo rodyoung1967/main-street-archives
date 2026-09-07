@@ -494,3 +494,8 @@ Oregon City's 1976 disposal authorization separately lists **Business License Ap
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 July is complete **32/32** (`S-286` / `E-260`), cumulative **240 genuine Enterprise pages through July**. Continue with **August 3/10/17/24/31**, but first verify the actual exposed issue/page inventory rather than assuming eight pages per date. Preserve the March/April true-page gaps and the 1916–17 Sohns & Woodbeck Oregon City directory gap. Continue target-address, pool-room, Fashion Stable and Farr identity checks with the same scan-first/no-merge rules.
+
+## 7 September 2026 — Enterprise continuation after August
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+August is complete **40/40** (`S-287` / `E-261`), cumulative **280 genuine Enterprise pages through August**. Continue with **September 7/14/21/28**, verifying the actual exposed issue/page inventory first. Preserve the March/April true-page gaps and the 1916–17 Sohns & Woodbeck Oregon City directory gap. Continue target-address, pool-room, Fashion Stable and Farr identity checks with the same scan-first/no-merge rules. The 31 August Farr market-report credit change is not a closure event unless an independent source explicitly says so.

@@ -952,3 +952,5 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Narrowed Raye's obituary to **Clackamas Review, 11 July 2012, p. A9**; actual obituary text remains unrecovered.
 - Cross-record propagation decision: because this batch establishes research-route/survival facts rather than a new ownership/occupancy event, no new timeline acquisition event, owner, licensee, or seller was created. Updated the source capture, `MF-052`, research leads, The Wheel research page, and this log only.
 - No outreach or purchase was made.
+
+| 2026-09-07 | Completed August 1917 Oregon City Enterprise scan-first visual audit | **40/40 genuine pages** for 3/10/17/24/31 Aug; cumulative **280 genuine pages through August**, **134 Sep–Dec slots remain**; existing Mar/Apr page gaps unchanged. Fashion Stable continues through 31 Aug; Farr Bros. market credits through 24 Aug with 31 Aug provider-line change not treated as closure; visual reinspection corrects Mrs. J. C. Napier from OCR-derived 612 to **512½ Main** in both Courier/Enterprise; Adams closing-out ad unnumbered. No exact target occupant. `S-287` / `E-261`. Cross-record propagation audit completed. |

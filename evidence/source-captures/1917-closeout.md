@@ -144,3 +144,8 @@ The already closed June Enterprise batch (`S-281` / `E-254`; 40/40 genuine pages
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
 
 `S-286` / `E-260` closes July at **32/32 genuine visually verified pages**, with no July page-identity defect. Enterprise cumulative genuine coverage is **240 pages through July**; **242 Jan–Jul archive slots** have been inspected, the true **16 March p5** and **13 April p8** retrieval gaps remain, and **174 exposed August–December slots** remain. W. S. Eddy / Fashion Stable continues through 27 July at Main between Fourth/Fifth; 20 July carries two Farr Bros. business/supplier observations without address or named proprietor. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Coverage only; 1917 remains **IN PROGRESS**.
+
+## Enterprise August audit added 7 September 2026
+<!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
+
+`S-287` / `E-261` closes August at **40/40 genuine visually verified pages**, with no August page-identity defect. Enterprise cumulative genuine coverage is **280 pages through August**; **282 Jan–Aug archive slots** have been inspected, the true **16 March p5** and **13 April p8** retrieval gaps remain, and **134 exposed September–December slots** remain. W. S. Eddy / Fashion Stable continues through 31 August at Main between Fourth/Fifth; Farr Bros. market-report credits continue through 24 August, with the 31 August provider-line change explicitly not treated as closure evidence. Fresh scan review corrects Mrs. J. C. Napier to **512½ Main** in both Courier and Enterprise. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Coverage only; 1917 remains **IN PROGRESS**.
