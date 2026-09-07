@@ -272,12 +272,12 @@ The exact underlying 1953 directory title/page, proprietor, opening/closing date
 
 replace_once(
     "businesses/business-index.md",
-    "| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | 1945 secondary and late-1948 direct Carl R. Harr evidence; distinct from Farr's; exact transition unresolved. |",
+    "| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | 1945 secondary and late-1948 direct Carl R. Harr evidence; distinct from Farr's. |",
     f"| BUS-014 | [Harr's Recreation Center](harrs-recreation-center.md) | 505 Main | May 2000 individual survey scan now visually verifies the survey's explicit 1945-directory wording (`{E_OCC}` / `{S_SCAN}`); late-1948 direct Carl R. Harr evidence remains independent; Farr→Harr transition unresolved. |",
 )
 replace_once(
     "businesses/business-index.md",
-    "| BUS-015 | [“Well's Recreation”](wells-recreation.md) | 505 Main | 1953 City directory synthesis; spelling preserved, original page needed. |",
+    "| BUS-015 | [Well's Recreation](wells-recreation.md) | 505 Main | Reported 1953 directory entry; spelling/page verification open. |",
     f"| BUS-015 | [“Well's Recreation”](wells-recreation.md) | 505 Main | May 2000 individual survey scan visually verifies the survey's explicit 1953-directory wording/spelling (`{E_OCC}` / `{S_SCAN}`); original directory page/proprietor still needed. |",
 )
 
