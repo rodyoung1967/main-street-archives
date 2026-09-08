@@ -1,0 +1,68 @@
+name: Integrate 2026-09-07 session knowledge
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_2026_09_07_session_knowledge.py'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: |
+          git fetch origin main
+          git merge --ff-only origin/main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install validator dependency
+        run: python -m pip install pyyaml
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate reconciled session knowledge
+        run: python3 scripts/integrate_2026_09_07_session_knowledge.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push integrated research
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ARCHIVE_INDEX.md \
+            buildings/505-main.md \
+            database/buildings.yml \
+            database/evidence.yml \
+            database/sources.yml \
+            evidence/evidence-register.md \
+            evidence/source-register.md \
+            evidence/source-captures/1911-1925-physical-change-research-checkpoint-2026-09-02.md \
+            evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md \
+            indexes/id-crosswalk.md \
+            maps/sanborn-comparison-503-505-507.md \
+            maps/sanborn-map-register.md \
+            maps/sanborn/originals/README.md \
+            registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No integration changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Preserve 1910-1925 structural reconciliation'
+          git push origin main
