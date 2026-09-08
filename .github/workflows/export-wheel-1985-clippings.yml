@@ -1,4 +1,4 @@
-name: Package Wheel 1985 clippings
+name: Package Wheel 1983-1985 clippings
 
 on:
   push:
@@ -23,11 +23,13 @@ jobs:
           sparse-checkout-cone-mode: true
       - name: Stage Wheel clippings
         run: |
-          mkdir -p /tmp/wheel-1985
-          cp newspapers/oregonian/1985-08-the-wheel-oregonian-2.png /tmp/wheel-1985/
-          cp newspapers/oregonian/1985-08-the-wheel-oregonian.png /tmp/wheel-1985/
+          mkdir -p /tmp/wheel-clippings
+          cp newspapers/oregonian/1983-the-wheel-oregonian.png /tmp/wheel-clippings/
+          cp newspapers/oregonian/1983-wheel-cafe-oregonian.png /tmp/wheel-clippings/
+          cp newspapers/oregonian/1985-08-the-wheel-oregonian-2.png /tmp/wheel-clippings/
+          cp newspapers/oregonian/1985-08-the-wheel-oregonian.png /tmp/wheel-clippings/
       - uses: actions/upload-artifact@v4
         with:
-          name: wheel-1985-clippings
-          path: /tmp/wheel-1985/
+          name: wheel-1983-1985-clippings
+          path: /tmp/wheel-clippings/
           retention-days: 1
