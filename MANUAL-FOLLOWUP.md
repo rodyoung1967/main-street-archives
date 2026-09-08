@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **7 September 2026** — added **MF-056** for a focused 1953–1956 Oregon City Pacific Telephone directory / phone 9179 lookup supporting the unresolved 505 Main successor question; no existing MF ID was renumbered or removed.
+Last amended: **7 September 2026** — added **MF-057** for the focused 505 Main 1953–1956 operator-transition Commission-proceedings and assumed-business-name retrieval package; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -71,6 +71,8 @@ These are the **current high-value human actions**. They are ordered for the act
 
 | 24 | **MF-056** | Locate an **Oregon City Pacific Telephone directory, 1953–1956**, preferably nearest 20 Nov. 1955, and identify subscriber **9179** plus any 505 Main / Well's / Harr listings | The visually verified 20 Nov. 1955 505 sale ad gives **9179** but no seller/business name; open-web recovery now establishes a separate Oregon City directory series while the near-date Sept. 1955 Portland PT&T book's stated coverage omits Oregon City | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY**. [Telephone-directory lookup draft](registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md) |
 
+| 25 | **MF-057** | Retrieve **505 Main 1953–1956 operator-transition records** through the Oregon City Council/Commission Proceedings Index and the missing Clackamas County assumed-business-name register/index interval | Targeted public-online late-1955/1956 liquor searching did not expose the purchaser/successor, while the official assumed-name series spans 1928–1964 but the public holdings presentation jumps from 1928–35 to 1959–64; these are retrieval/custody gaps, not negative evidence | **ACTIVE MANUAL — TWO REQUESTS READY / NOT SENT / NO FEES AUTHORIZED**. [505 operator-transition request package](registers/research-requests/505-1953-1956-operator-transition-record-requests-2026-09-07.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
@@ -84,6 +86,7 @@ Do not send unnecessary duplicate emails.
 - **Oregon Secretary of State historical business records:** **MF-054** is a registration-file route, not ownership proof. First send the no-fee identification/guidance email. If staff requires the paid Old Stock Entity search or microfiche copies, obtain project-steward fee approval before submitting forms/payment. Keep this route separate from MF-053 liquor-license records and MF-048 503 real-estate/deed records.
 - **GFO Wheel directory bookends:** **MF-055** is a single focused 503/The Wheel directory question using GFO holdings **TF0763 (1964)** and **TF0764 (1977)**. It is separate from the GFO 1947–48 Farr/Harr lookup under MF-001. GFO currently posts a **$15 minimum** research charge; do not send/authorize work until the project steward approves the fee.
 - **505 / phone 9179 directory lookup:** **MF-056** goes first to the **Clackamas County Family History Society / Wilmer Gardner Research Library** for a 1953–1956 Oregon City Pacific Telephone issue and subscriber 9179. Use **Oregon Historical Society Research Library only as a fallback** if the local CCFHS route cannot locate the issue; do not send duplicate simultaneous requests. No fee is authorized.
+- **505 / 1953–1956 operator-transition records:** **MF-057** pairs two independent source classes under one active question: Oregon City Public Library's Council/Commission Proceedings Index for the **1 Nov. 1955–31 Dec. 1956** liquor-action locator, and Clackamas County Recording for the **1936–1958 assumed-business-name register/index custody and lookup**. A City license action and a County assumed-name filing prove different relationships; do not substitute one for the other. No fee is authorized.
 
 ---
 
@@ -240,7 +243,7 @@ These are real tasks but **not things Rodney should interrupt the current resear
 
 # 7. Dispatch / response tracker
 
-All correspondence is **UNSENT** as of 5 September 2026, per the project steward.
+All correspondence is **UNSENT** as of 7 September 2026, per the project steward.
 
 | ID / batch | Status | Sent date / channel | Reply / reference | Fees approved | Material received | Integrated |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -268,6 +271,8 @@ All correspondence is **UNSENT** as of 5 September 2026, per the project steward
 | **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |
 | **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | — | — | **No** | — | No |
 | **MF-055** | **NOT SENT — EMAIL DRAFT READY / $15 MINIMUM FEE NOT AUTHORIZED** | — | — | **No** | — | No |
+| **MF-056** | **NOT SENT — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED** | — | — | **No** | — | No |
+| **MF-057** | **NOT SENT — TWO REQUESTS READY / NO FEES AUTHORIZED** | — | — | **No** | — | No |
 
 When a request is sent, record the actual date, channel and exact request version. Do not place private payment information or unnecessary personal correspondence in the public repository. Preserve supplied historical files under canonical source folders when permission allows, visually inspect originals before promoting claims, and record precise no-hit scope when an institution reports that a series was checked without a target result.
 
@@ -277,7 +282,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **24-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
+The current practical list is the **25-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila). The active mid-century 505 business-successor gap is now also isolated in **MF-056** (phone 9179) and **MF-057** (Commission proceedings + assumed-name records).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -437,3 +442,15 @@ Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-p
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-056** | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY** | **Yes** | Public-online recovery has reasonably exhausted the practical routes for a **1953–1956 Oregon City Pacific Telephone & Telegraph / Pacific Telephone Northwest directory**. The visually verified **20 Nov. 1955** 505 Main beer/pool sale ad prints contact **9179** but no seller/business name. A surviving Sept. 1955 Portland PT&T directory has a stated inclusion list that omits Oregon City; 1956–57 advertising independently shows Oregon City four-digit numbers alongside separate Portland Olive numbers; and a 1961 contemporary item explicitly refers to a distinct Oregon City telephone-directory issue. Ask **CCFHS / Wilmer Gardner Research Library first** to locate the target local issue and identify subscriber 9179, 505 Main, Well/Well's/Wells variants and Carl R. Harr/Harr's Recreation Center. Use **Oregon Historical Society Research Library only if CCFHS cannot locate it**. A telephone listing proves a published subscriber/address association only, not business ownership, sale, tenancy, liquor-license ownership or building ownership. Ready unsent draft: `registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md`. |
+
+
+---
+
+## 7 September 2026 — 505 Main 1953–1956 operator-transition record routes
+<!-- MF-057 505 operator-transition Commission/assumed-name routes — 2026-09-07 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-057** | **ACTIVE MANUAL — TWO REQUESTS READY / NOT SENT / NO FEES AUTHORIZED** | **Yes** | Targeted public-online searching did not expose a defensible **late-1955/1956 505 Main liquor-license purchaser/successor action**. Oregon City's known archive migration prevents reliable decade-level browsing, while the Oregon City Public Library holds a **Council/Commission Proceedings Index through 1978** that can locate exact meeting/page entries. Separately, the official Clackamas County inventory says the **Assumed Business Names Registers** series spans **1928–1964** and can name a business owner/filing date, but its public holdings presentation jumps from **1928–35 certificates to 1959–64 volumes**, leaving **1936–1958** as a custody/access gap. Use the two ready requests to (A) locate any 505 liquor action from **1 Nov. 1955–31 Dec. 1956** and (B) locate the missing assumed-name interval and any **Well's Recreation / variants / Harr's Recreation Center / 505 Main** filing. These source classes prove different relationships. No result has yet identified the Well's proprietor, 1955 seller, or buyer. Ready package: `registers/research-requests/505-1953-1956-operator-transition-record-requests-2026-09-07.md`. No request has been sent and no fee is authorized. |
+
+Source/retrieval closeout: `evidence/source-captures/1953-1956-505-operator-transition-offline-record-routes-2026-09-07.md`.
