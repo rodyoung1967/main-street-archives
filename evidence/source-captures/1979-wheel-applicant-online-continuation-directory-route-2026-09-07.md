@@ -226,3 +226,26 @@ But the evidence weight of the middle point is now more precisely stated:
 - **Best decisive source:** the City agenda/application packet or corresponding permanent OLCC agenda/exhibit/application material.
 
 No new `S-###`, `E-###`, `P-###`, `BUS-###`, or `IMG-####` identifier is assigned by this continuation. No ownership event is propagated to business, building, person, or timeline records because applicant identity and application type remain unresolved.
+
+---
+
+## 7 September 2026 continuation — MF-053 manual-route promotion
+
+Further public-online recovery attempts did **not** identify the 6 June 1979 applicant or application category. The online pass additionally tested the City/WebDrawer agenda-packet query, Oregon State Archives public indexing, Historic Oregon Newspapers/regional 1979–1981 newspaper routes, and the Oregon historical business-registry route. These attempts either produced bounded no-hits or access/retrieval gaps; none establishes absence of a surviving supporting record.
+
+The remaining high-value sources have now crossed the project's manual-action threshold and are assigned **MF-053**. Ready-to-send correspondence is preserved at:
+
+`registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md`
+
+The four bounded routes are:
+
+1. **Oregon City Recorder** — recover the **6 June 1979 City Commission agenda packet and supporting Wheel liquor-license material**, especially any manager/police memo, routing sheet, exhibit, or returned OLCC form.
+2. **Oregon State Archives** — inspect the permanent **OLCC Commission Meeting Records** around May–July 1979 for The Wheel / 503 Main, prioritizing agendas and exhibits that identify applicant/licensee and application category.
+3. **Oregon City Public Library** — inspect the **6 June 1979 Enterprise-Courier** microfilm. The June 6 Commission minutes state that the meeting agenda had been delivered to the paper and published that day, making the newspaper an independent same-day route to the agenda wording and any adjacent Wheel coverage.
+4. **University of Idaho Special Collections** — inspect the surviving **1980 Oregon City directory** for 503 Main, The Wheel, Raye/Grisham/LaFarlette, Richard/Dick/Sheila Wiitanen, and telephone-number continuity.
+
+Classification: **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. No institutional request, purchase, email, or phone call has been made.
+
+### Cross-record propagation audit
+
+This continuation changes **research-access state and priority only**. It establishes no new Wheel owner, licensee, purchaser, seller, business-transfer date, tenancy, or 503 real-estate fact. Therefore no business/building/person/timeline/YAML/crosswalk entity fact is manufactured from these retrieval gaps. The decisive unresolved fields remain **applicant/licensee identity** and **application type**. The separate 503 real-estate/deed chain remains under `MF-048`; `MF-053` is specifically the Raye → Wiitanen **business/license transition** investigation.
