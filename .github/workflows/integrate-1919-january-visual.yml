@@ -1,0 +1,74 @@
+name: Integrate January 1919 visual review
+
+on:
+  push:
+    paths:
+      - '.github/workflows/integrate-1919-january-visual.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: |
+          git fetch origin main
+          git pull --rebase origin main
+
+      - name: Finalize staged integration script
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1919_january_visual.py')
+          text = p.read_text(encoding='utf-8')
+          old = 'MARKER = "<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->"\nCAPTURE ='
+          new = 'MARKER = "<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->"\nYAML_MARKER = "# 1919 January Enterprise Courier visual review — 2026-09-07"\nCAPTURE ='
+          if old in text:
+              text = text.replace(old, new, 1)
+          replacements = {
+              'append_once("database/sources.yml", MARKER, MARKER + "\\n" + sources_yaml)': 'append_once("database/sources.yml", YAML_MARKER, YAML_MARKER + "\\n" + sources_yaml)',
+              'append_once("database/evidence.yml", MARKER, MARKER + "\\n" + evidence_yaml)': 'append_once("database/evidence.yml", YAML_MARKER, YAML_MARKER + "\\n" + evidence_yaml)',
+              'append_once("database/businesses.yml", MARKER, MARKER + "\\n" + business_yaml)': 'append_once("database/businesses.yml", YAML_MARKER, YAML_MARKER + "\\n" + business_yaml)',
+              'append_once("database/people.yml", MARKER, MARKER + "\\n" + person_yaml)': 'append_once("database/people.yml", YAML_MARKER, YAML_MARKER + "\\n" + person_yaml)',
+              '    lines.insert(insert_at + 1, MARKER)\n': '',
+              '- No `B-005`/`B-001`/`B-002` event is created from the January 501/503/505 no-hit.': '- No 501/503/505 building event is created from the January no-hit.'
+          }
+          for a, b in replacements.items():
+              text = text.replace(a, b)
+          p.write_text(text, encoding='utf-8')
+          PY
+          python3 -m py_compile scripts/integrate_1919_january_visual.py
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate January 1919 visual findings
+        run: python3 scripts/integrate_1919_january_visual.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push January 1919 integration
+        run: |
+          git config user.name "rodyoung1967"
+          git config user.email "49879113+rodyoung1967@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No integration changes to commit"
+            exit 0
+          fi
+          git commit -m "Close January 1919 newspaper visual audit"
+          if git push origin HEAD:main; then
+            exit 0
+          fi
+          echo "Parallel main change detected; rebasing once"
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
