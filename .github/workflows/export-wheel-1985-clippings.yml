@@ -1,0 +1,33 @@
+name: Package Wheel 1985 clippings
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/export-wheel-1985-clippings.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+          sparse-checkout: |
+            newspapers/oregonian
+          sparse-checkout-cone-mode: true
+      - name: Stage Wheel clippings
+        run: |
+          mkdir -p /tmp/wheel-1985
+          cp newspapers/oregonian/1985-08-the-wheel-oregonian-2.png /tmp/wheel-1985/
+          cp newspapers/oregonian/1985-08-the-wheel-oregonian.png /tmp/wheel-1985/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wheel-1985-clippings
+          path: /tmp/wheel-1985/
+          retention-days: 1
