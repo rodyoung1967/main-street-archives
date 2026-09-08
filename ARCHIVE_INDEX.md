@@ -455,3 +455,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - No source-explicit 501/503/505 occupant or target construction event; no-hit is bounded coverage only.
 - Full review: [evidence/source-captures/1919-february-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-february-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **March 1919 Enterprise + Courier**.
+
+## 1919 March complete visual batch
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- March local-newspaper coverage: **56/56 visually verified pages** (`S-291` / `E-265`); Jan–Mar cumulative **182 pages**.
+- Cox billiard license transferred on 6 Mar. to **F. D. Rohberger**, called new owner of the parlors; no address printed. February `Mr. Rohrberg` versus March `F. D. Rohberger` remains an unresolved contemporary name-form conflict.
+- Ohio Dentists at 507½-over-Harding through 21 Mar.; Farr Brothers market-report continuation; Theroux at 210 Seventh on 28 Mar.
+- No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
+- Full review: [evidence/source-captures/1919-march-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-march-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological batch: **April 1919 Enterprise + Courier**.

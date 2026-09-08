@@ -518,3 +518,10 @@ Continue 1919 chronologically. The January 70-page no-hit for exact 501/503/505 
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 `E-264` / `S-290` establishes an intended **12 Feb. 1919** handover of F. D. Cox's billiard parlors to **Mr. Rohrberg of Ocean Falls, B.C.**, but no address. Search March–June 1919 newspapers, council/license records and directories for **Rohrberg + billiard/pool/cigar**, and separately test whether a premises number appears. Do not project the 1915 Cox Seventh–Eighth location or infer 501/503/505 from business type alone.
+
+## 7 September 2026 — March 1919 Rohberger / Rohrberg follow-forward
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` advances the February Cox-sale lead: the **6 Mar. Courier p1** directly prints **F. D. Rohberger** as transferee of Cox's billiard license and **new owner of the parlors**. Search forward under both **Rohberger** and **Rohrberg**, including initials F. D. and any later first-name/initial variants, for an exact premises address, annual license/application/bond, advertisement, directory entry, residence, or sale. Preserve the February `Mr. Rohrberg of Ocean Falls, B.C.` spelling as a competing contemporary form until independently reconciled.
+
+Continue exact-address searches for 501/503/505 and target construction/property language. March no-hit remains bounded coverage only.

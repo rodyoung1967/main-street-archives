@@ -3961,3 +3961,25 @@ evidence:
       February monthly scan-first review. Cox/Rohrberg premises must not be assigned to 501,
       503 or 505 Main; the 1915 Cox location between Seventh and Eighth cannot be projected
       into 1919 without an independent bridge. No target construction event was recovered.
+
+# 1919 March Enterprise Courier visual review — 2026-09-07
+  - id: E-265
+    name: "March 1919 visual review: Cox→Rohberger license transfer and neighboring business controls"
+    type: Primary newspaper scan batch
+    claims:
+      - 56/56 recovered March 1919 pages visually verified.
+      - F. D. Cox's billiard license was transferred to F. D. Rohberger, called the new owner of the parlors; address not printed.
+      - February Mr. Rohrberg versus March F. D. Rohberger is an unresolved contemporary name-form conflict.
+      - Ohio Dentists continued at 507½ Main over Harding's Drug Store through 21 March; Theroux Music House was directly at 210 Seventh Street on 28 March.
+      - Farr Brothers appeared in 7, 21 and 28 March market-report credits without address or individual proprietor.
+    confidence: Very High for scan-visible wording and page coverage; unresolved for buyer name normalization; none for unprinted billiard premises number
+    related_sources: [S-291]
+    related_evidence: []
+    related_businesses: [BUS-106, BUS-029, BUS-104]
+    related_people: [P-397]
+    related_buildings: [B-003]
+    sources: [S-291]
+    notes: >-
+      March monthly scan-first review. Cox/Rohberger premises must not be assigned to 501,
+      503 or 505 Main; the 1915 Cox location cannot be projected into 1919. The damaged right
+      edge of the 7 March Enterprise council report supplies only incomplete corroboration.

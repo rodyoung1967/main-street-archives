@@ -218,3 +218,14 @@ The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox addres
 `E-264` / `S-290` adds a major later Cox control. The **6 Feb. 1919 Courier p1** council report directly says **F. D. Cox was granted a billiard hall license for the year**. The **13 Feb. Courier p1** then reports that Cox's billiard parlors had been purchased by **Mr. Rohrberg of Ocean Falls, B.C.** and that Cox would take active charge of his soda works. The **14 Feb. Enterprise p5** independently reports the purchase and says Rohrberg would **assume charge Wednesday morning**, establishing an intended handover on **12 Feb. 1919**.
 
 None of these sources prints the parlors' address. Do **not** project the directly documented 1915 Main-between-Seventh/Eighth location into 1919, and do not assign the sold parlors to 501/503/505. Search forward under the visually verified surname **Rohrberg** for a premises number, license, advertisement, or business name.
+
+## March 1919 continuation — license transfer to F. D. Rohberger
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` provides the direct municipal-action follow-through to the February sale. The **6 Mar. 1919 Courier p1** visibly states: **“The billiard license of F. D. Cox was transferred to F. D. Rohberger, the new owner of the parlors.”** No premises address is printed.
+
+This creates a contemporary name-form problem that must remain visible. The February sale stories visibly print **Mr. Rohrberg of Ocean Falls, B.C.**; the March council report visibly prints **F. D. Rohberger**. The sale→license-transfer chronology strongly suggests transaction continuity, but spelling/initial identity is not independently reconciled. Do not silently normalize the names or create an exact premises assignment.
+
+The **7 Mar. Enterprise p3** council summary has a damaged/cropped right edge; it visibly begins `The billiard parlor license of F. D.` and ends `...er by the council`, but the missing edge prevents a complete name/sentence transcription. Use the complete Courier report for the direct transfer claim.
+
+No March source places the parlors at 501/503/505 or proves that the 1919 room was the same as Cox's 1915 Main-between-Seventh/Eighth hall.

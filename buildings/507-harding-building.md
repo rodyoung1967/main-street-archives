@@ -206,3 +206,8 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly 
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
 
 `E-263` / `S-289` directly places Ohio Dentists (`BUS-106`) at **507½ Main** on 2/10/17/31 Jan. 1919 with the repeated wording **over Harding's Drug Store**. This is an important pre-1921 spatial anchor for the historic 507-area business row. It does not directly print Harding's ground-floor number and does not prove the physical identity, construction date, ownership or later survival of the building. Treat Harding-at-507 as a **strong spatial inference**, not direct exact-address evidence.
+
+## March 1919 507½-over-Harding continuation
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` directly repeats Ohio Dentists at **507½ Main over Harding's Drug Store** on 14 and 21 March 1919. This extends the documented upstairs spatial relationship through **21 March** but still does not print Harding's lower-floor exact number, ownership, lease terms, construction date, or physical-building continuity.

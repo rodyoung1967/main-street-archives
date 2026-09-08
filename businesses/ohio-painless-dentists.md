@@ -23,3 +23,8 @@ Full monthly review: [evidence/source-captures/1919-january-enterprise-courier-v
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 Visually verified **14 Feb. p2** and **28 Feb. p7 Enterprise** advertisements (`E-264` / `S-290`) repeat **Ohio Dentists**, **Dr. J. G. Nash, Manager**, **507½ Main Street**, **over Harding's Drug Store**, Phone 62. This extends the direct office-location run through **28 February 1919**. Harding's exact lower-floor number remains unprinted and therefore inferential.
+
+## March 1919 continuation
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+Visually verified **14 Mar. p3** and **21 Mar. p3 Enterprise** advertisements (`E-265` / `S-291`) repeat **Ohio Dentists**, **Dr. J. G. Nash, Manager**, **507½ Main Street**, **over Harding's Drug Store**, Phone 62. This extends the direct office-location run through **21 March 1919**. Harding's exact lower-floor number remains unprinted and therefore inferential.

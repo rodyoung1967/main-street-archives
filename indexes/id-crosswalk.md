@@ -764,3 +764,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-290` / `E-264` → `BUS-029` / `P-044`: Theroux Music House directly at **210 Seventh** on 7/14/21 Feb.
 - `S-290` / `E-264` → `BUS-104`: Farr Brothers market-report credits 21/28 Feb.; no Farr's Pool Hall merge.
 - No 501/503/505 building event created from the February no-hit.
+
+## S-291 / E-265 / T-098 — March 1919 complete monthly local-newspaper visual batch
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-291` / `E-265` / `T-098` → Cox billiard research: **F. D. Cox license transferred to F. D. Rohberger**, called new owner of the parlors; premises number unresolved; February `Mr. Rohrberg` form remains a name conflict.
+- `S-291` / `E-265` → `BUS-106` / `P-397` / `B-003`: Ohio Dentists / J. G. Nash continue at **507½ Main over Harding's Drug Store** through 21 Mar.; Harding lower exact number remains inference.
+- `S-291` / `E-265` → `BUS-104`: Farr Brothers market-report credits on 7/21/28 Mar., no address/proprietor and no Farr-pool-hall merge.
+- `S-291` / `E-265` → `BUS-029` / `P-044`: Theroux Music House directly at **210 Seventh Street** on 28 Mar.
+- No 501/503/505 building event is created from the March no-hit.

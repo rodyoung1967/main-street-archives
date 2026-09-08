@@ -40,3 +40,8 @@ The market report on **3, 10, 17 and 24 August p7** says it is furnished by **Fa
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 The visually verified **21 Feb. p3** and **28 Feb. p7 Enterprise** market reports (`E-264` / `S-290`) credit **Brady Mercantile Company and Farr Brothers**. These are dated business appearances only: no address or individual proprietor is printed. Do not merge this grocery/meat concern with Edwin/Alice Farr or Farr's Pool Hall at 505 Main.
+
+## March 1919 continuation
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+The visually verified **7 Mar. p7**, **21 Mar. p2**, and **28 Mar. p6 Enterprise** market reports (`E-265` / `S-291`) credit **Brady Mercantile Company and Farr Brothers**. These are dated business appearances only: no address or individual proprietor is printed. Do not merge this grocery/meat concern with Edwin/Alice Farr, Farr's Pool Hall at 505 Main, Carl Harr, or Harr's Recreation Center.

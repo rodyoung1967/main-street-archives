@@ -140,3 +140,11 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | --- | --- | --- | --- |
 | **507½ Main** | 14 & 28 Feb. 1919 | Ohio Dentists; Dr. J. G. Nash manager | `E-264` / `S-290`; direct `over Harding's Drug Store`, but Harding's ground-floor exact number is not printed. |
 | **210 Seventh Street** | 7/14/21 Feb. 1919 | Theroux Music House | `E-264` / `S-290`; direct business address, unrelated to target frontage. |
+
+## March 1919 address controls
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+| Address | Date | Directly documented use | Evidence / limit |
+| --- | --- | --- | --- |
+| **507½ Main** | 14 & 21 Mar. 1919 | Ohio Dentists; Dr. J. G. Nash manager | `E-265` / `S-291`; direct `over Harding's Drug Store` wording; Harding lower exact number not printed. |
+| **210 Seventh Street** | 28 Mar. 1919 | Theroux Music House | `E-265` / `S-291`; direct business-address continuation. |

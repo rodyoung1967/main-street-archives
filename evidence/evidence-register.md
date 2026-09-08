@@ -2663,3 +2663,17 @@ Claims:
 - 21/28 Feb market reports credit **Brady Mercantile Company and Farr Brothers** without address or proprietor;
 - no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is coverage only.
 Confidence: **Very High** for scan-visible wording and monthly page coverage; none for a Cox/ Rohrberg premises number not printed by the sources.
+
+## E-265 — March 1919 visual review: Cox→Rohberger license transfer and neighboring business controls
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
+Sources: `S-291`.  
+Claims:
+- all **56/56** recovered March pages were visually inspected after printed date/page identity review;
+- 6 Mar Courier p1 directly says **F. D. Cox's billiard license was transferred to F. D. Rohberger, the new owner of the parlors**; no premises address is printed;
+- February's buyer form **Mr. Rohrberg** and March's **F. D. Rohberger** are preserved as an unresolved contemporary name-form conflict; transaction continuity is strongly suggested but identity is not silently normalized;
+- 14/21 Mar Enterprise ads repeat **Ohio Dentists / Dr. J. G. Nash at 507½ Main over Harding's Drug Store**;
+- 7/21/28 Mar market reports credit **Brady Mercantile Company and Farr Brothers** without address or proprietor;
+- 28 Mar Enterprise p3 directly prints **Theroux Music House, 210 Seventh Street**;
+- no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is coverage only.
+Confidence: **Very High** for scan-visible wording and monthly page coverage; **Unresolved conflict** for buyer surname/initial form; none for an unprinted billiard premises number.

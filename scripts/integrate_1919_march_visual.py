@@ -33,15 +33,30 @@ def update_yaml_relation(path, entity_id, field, value):
         new=f'    {field}: [' + ', '.join(vals) + ']'
         block=block[:fm.start()] + new + block[fm.end():]
     else:
-        fm=re.search(rf'(?m)^    {re.escape(field)}:\s*$\n((?:      - .*\n)*)',block)
-        if fm:
-            vals=[x.strip() for x in re.findall(r'(?m)^      -\s*(.+?)\s*$',fm.group(1))]
-            if value in vals: return False
-            replacement=f'    {field}:\n' + fm.group(1) + f'      - {value}\n'
-            block=block[:fm.start()] + replacement + block[fm.end():]
-        else:
+        lines=block.splitlines(keepends=True)
+        field_idx=None
+        for i,line in enumerate(lines):
+            if re.match(rf'^    {re.escape(field)}:\s*$', line.rstrip('\n')):
+                field_idx=i
+                break
+        if field_idx is None:
             if not block.endswith('\n'): block += '\n'
             block += f'    {field}: [{value}]\n'
+        else:
+            j=field_idx+1
+            vals=[]
+            item_indent=None
+            while j < len(lines):
+                im=re.match(r'^(\s*)-\s*(.+?)\s*\n?$', lines[j])
+                if not im or len(im.group(1)) < 4:
+                    break
+                item_indent=item_indent or im.group(1)
+                vals.append(im.group(2).strip())
+                j += 1
+            if value in vals: return False
+            indent=item_indent or '    '
+            lines.insert(j, f'{indent}- {value}\n')
+            block=''.join(lines)
     t=t[:m.start()] + block + t[m.end():]
     p.write_text(t,encoding='utf-8')
     return True
@@ -174,7 +189,7 @@ Claims:
 Confidence: **Very High** for scan-visible wording and monthly page coverage; **Unresolved conflict** for buyer surname/initial form; none for an unprinted billiard premises number.''')
 
 append_once('database/sources.yml',YAML_MARKER,YAML_MARKER+f'''\n  - id: {S}\n    name: "March 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"\n    url: https://oregonnews.uoregon.edu/\n    notes: >-\n      Primary scan batch, visually verified 56/56 pages: 24 Courier and 32 Enterprise.\n      Direct findings include transfer of F. D. Cox's billiard license to F. D. Rohberger,\n      called the new owner of the parlors; February printed the buyer as Mr. Rohrberg, so\n      the name form remains unresolved. Ohio Dentists continued at 507½ Main over Harding's\n      Drug Store; Farr Brothers market-report credits and Theroux at 210 Seventh continued.\n      No source-explicit 501/503/505 occupant was found.\n''')
-append_once('database/evidence.yml',YAML_MARKER,YAML_MARKER+f'''\n  - id: {E}\n    name: "March 1919 visual review: Cox to Rohberger license transfer and neighboring controls"\n    type: Primary newspaper scan batch\n    claims:\n      - 56/56 recovered March 1919 pages visually verified.\n      - F. D. Cox's billiard license was transferred to F. D. Rohberger, called the new owner of the parlors; address not printed.\n      - February Mr. Rohrberg versus March F. D. Rohberger is an unresolved contemporary name-form conflict.\n      - Ohio Dentists continued at 507½ Main over Harding's Drug Store through 21 March; Theroux Music House was directly at 210 Seventh Street on 28 March.\n      - Farr Brothers appeared in 7, 21 and 28 March market-report credits without address or individual proprietor.\n    confidence: Very High for scan-visible wording and page coverage; unresolved for buyer name normalization; none for unprinted billiard premises number\n    related_sources: [{S}]\n    related_evidence: []\n    related_businesses: [BUS-106, BUS-029, BUS-104]\n    related_people: [P-397]\n    related_buildings: [B-003]\n    sources: [{S}]\n    notes: >-\n      March monthly scan-first review. Cox/Rohberger premises must not be assigned to 501,\n      503 or 505 Main; the 1915 Cox location cannot be projected into 1919. The damaged right\n      edge of the 7 March Enterprise council report supplies only incomplete corroboration.\n''')
+append_once('database/evidence.yml',YAML_MARKER,YAML_MARKER+f'''\n  - id: {E}\n    name: "March 1919 visual review: Cox→Rohberger license transfer and neighboring business controls"\n    type: Primary newspaper scan batch\n    claims:\n      - 56/56 recovered March 1919 pages visually verified.\n      - F. D. Cox's billiard license was transferred to F. D. Rohberger, called the new owner of the parlors; address not printed.\n      - February Mr. Rohrberg versus March F. D. Rohberger is an unresolved contemporary name-form conflict.\n      - Ohio Dentists continued at 507½ Main over Harding's Drug Store through 21 March; Theroux Music House was directly at 210 Seventh Street on 28 March.\n      - Farr Brothers appeared in 7, 21 and 28 March market-report credits without address or individual proprietor.\n    confidence: Very High for scan-visible wording and page coverage; unresolved for buyer name normalization; none for unprinted billiard premises number\n    related_sources: [{S}]\n    related_evidence: []\n    related_businesses: [BUS-106, BUS-029, BUS-104]\n    related_people: [P-397]\n    related_buildings: [B-003]\n    sources: [{S}]\n    notes: >-\n      March monthly scan-first review. Cox/Rohberger premises must not be assigned to 501,\n      503 or 505 Main; the 1915 Cox location cannot be projected into 1919. The damaged right\n      edge of the 7 March Enterprise council report supplies only incomplete corroboration.\n''')
 
 append_once('evidence/source-captures/1915-1916-cox-pool-hall-lead.md',MARKER,f'''## March 1919 continuation — license transfer to F. D. Rohberger
 {MARKER}

@@ -16,3 +16,8 @@ Full review: [evidence/source-captures/1919-january-enterprise-courier-visual-re
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 `E-264` / `S-290` visually verifies Dr. J. G. Nash again as manager of Ohio Dentists at **507½ Main over Harding's Drug Store** on **14 and 28 February 1919**, extending his direct advertised role through month end.
+
+## March 1919 continuation
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` visually verifies Dr. J. G. Nash again as manager of Ohio Dentists at **507½ Main over Harding's Drug Store** on **14 and 21 March 1919**, extending his direct advertised role through 21 March.

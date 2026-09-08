@@ -285,3 +285,13 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | 14 & 28 Feb. 1919 | **507½ Main** | Ohio Dentists / Dr. J. G. Nash | `E-264` / `S-290` | Direct; `over Harding's Drug Store`; Harding lower exact number unprinted. |
 | 7/14/21 Feb. 1919 | **210 Seventh Street** | Theroux Music House (`BUS-029`) | `E-264` / `S-290` | Direct; exact prior move date from 519 Main unresolved. |
 | 21 & 28 Feb. 1919 | Not printed | Farr Brothers + Brady Mercantile market-report credit | `E-264` / `S-290` | Dated business appearance only; no Farr's Pool Hall merge. |
+
+## March 1919 verified business controls
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+| Date | Business / person | Location / transaction | Evidence / limit |
+| --- | --- | --- | --- |
+| 6 Mar. 1919 | F. D. Cox → **F. D. Rohberger** | Billiard license transferred; Rohberger called new owner of parlors | `E-265` / `S-291`; **no premises address**. February buyer printed `Mr. Rohrberg`; name form unresolved. |
+| 14 & 21 Mar. 1919 | Ohio Dentists / Dr. J. G. Nash | **507½ Main over Harding's Drug Store** | Direct; Harding lower-floor exact number remains inferential. |
+| 7, 21 & 28 Mar. 1919 | Farr Brothers + Brady Mercantile | Market-report provider credit | Direct business appearance only; no address/proprietor; no 505 merge. |
+| 28 Mar. 1919 | Theroux Music House | **210 Seventh Street** | Direct address continuation; exact move date from 519 unresolved. |

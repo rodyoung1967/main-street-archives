@@ -10,3 +10,8 @@ The sources do not expand the initials, establish property ownership, or prove t
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 `E-264` / `S-290` directly places Theroux Music House at **210 Seventh Street** on 7/14/21 Feb. 1919. This updates the later business-address chronology without proving the exact move date from 519 Main.
+
+## March 1919 address continuation
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` directly places Theroux Music House at **210 Seventh Street** again on **28 March 1919**. This is a dated business-address control, not a property-ownership or exact move-date claim.

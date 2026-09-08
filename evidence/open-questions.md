@@ -326,3 +326,10 @@ The same complete January batch found no source-explicit occupant at 501/503/505
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
 
 `E-264` / `S-290` proves F. D. Cox still held an Oregon City billiard-hall license in early Feb. 1919 and then sold his billiard parlors to **Mr. Rohrberg**, with intended handover **12 Feb.** The exact premises remains unresolved. The direct 1915 Cox hall between Seventh and Eighth must not be projected into 1919. Resolve Rohrberg's given name and locate his 1919 license/application, advertisement, directory listing, or premises number before connecting this sale to any Main Street address.
+
+## March 1919 Cox buyer-name / premises refinement
+<!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
+
+`E-265` / `S-291` directly establishes the 6 March **F. D. Cox → F. D. Rohberger billiard-license transfer**, with Rohberger called the new owner of the parlors. February's sale reports instead print **Mr. Rohrberg of Ocean Falls, B.C.** Treat the identity/name form as unresolved until an independent directory, license application/bond, census, business advertisement, or other identifier reconciles the forms.
+
+The parlors' 1919 address remains unresolved. Do not project Cox's 1915 Main-between-Seventh/Eighth location forward, and do not assign the transfer to 501/503/505 without direct premises evidence. March's complete 56-page target no-hit does not answer the occupancy/construction question.

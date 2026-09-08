@@ -997,3 +997,13 @@ timeline:
     related_evidence: [E-259]
     related_sources: [S-285]
     # Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07
+
+  - id: T-098
+    date: 6 March 1919
+    summary: Oregon City Courier reports that F. D. Cox's billiard license was transferred to F. D. Rohberger, called the new owner of the parlors; February sale reports printed the buyer as Mr. Rohrberg of Ocean Falls, B.C.
+    confidence: Very High for the visible license-transfer wording; unresolved for buyer name normalization and premises address
+    related_evidence:
+      - E-265
+    related_sources:
+      - S-291
+
