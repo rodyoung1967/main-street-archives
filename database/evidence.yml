@@ -3983,3 +3983,24 @@ evidence:
       March monthly scan-first review. Cox/Rohberger premises must not be assigned to 501,
       503 or 505 Main; the 1915 Cox location cannot be projected into 1919. The damaged right
       edge of the 7 March Enterprise council report supplies only incomplete corroboration.
+
+# 1919 April Enterprise Courier visual review — 2026-09-07
+  - id: E-266
+    name: "April 1919 visual review: Post Office move to Fifth and Main and neighboring business controls"
+    type: Primary newspaper scan batch
+    claims:
+      - 56/56 recovered April 1919 pages visually verified.
+      - The Oregon City Post Office moved 15 April 1919 to Fifth and Main into two combined store rooms owned by First National Bank and the Barlow-David heirs.
+      - The 1919 named-owner pair strongly aligns with the 1913 Block 26 Lot 5 Barlow/David and Lot 6 First National Bank sequence; exact numbered postal bay remains unresolved.
+      - The April 1919 ownership description conflicts with the September 1918 newspaper description of the leased building as owned by M. D. Latourette.
+      - Ohio Dentists continued at 507½ Main over Harding's Drug Store on 11 April; Farr Brothers market-report credits and Theroux at 210 Seventh continued.
+    confidence: Very High for scan-visible wording and page coverage; strong cross-source inference for Block 26 Lots 5-6 correspondence; unresolved for ownership-description conflict and exact postal bay
+    related_sources: [S-292]
+    related_evidence: [E-094]
+    related_businesses: [BUS-106, BUS-007, BUS-104, BUS-029]
+    related_people: [P-397, P-044]
+    related_buildings: [B-003]
+    sources: [S-292]
+    notes: >-
+      April monthly scan-first review. The Post Office is opposite-side spatial context, not a
+      501/503/505 occupancy event. No exact target occupant or target construction event was found.

@@ -142,3 +142,16 @@ Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite po
 4. Use that exact bay to test the 1922 Miller's Shoe Store location.
 5. Search additional exact-number advertisements in the 500–524 Main range for `near`, `next to`, `across from`, and `opposite post office` relationships.
 6. Keep all three Post Office locations chronologically distinct in future spatial analysis.
+
+## 15 April 1919 actual move — two combined store rooms at Fifth and Main
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+The complete April monthly scan-first review (`S-292` / `E-266`) adds a much stronger actual-occupancy control. **18 Apr. 1919 Enterprise p1**, visually verified, reports that the Oregon City Post Office moved on **15 April** from opposite the courthouse to **Fifth and Main streets**. It says the new quarters consisted of **two store buildings combined into one large room**: one owned by **First National Bank**, the other by the **Barlow-David heirs**. First National Bank rented the heirs' store room and sublet the combined rooms to the federal government. **M. D. Latourette** is identified as **vice president of First National Bank** and as instrumental in securing the location.
+
+### Block 26 geometry refinement
+
+The 1913 assessment (`E-094`) places **Mary E. Barlow / Juliette E. David on Block 26 Lot 5** and **First National Bank on Block 26 Lot 6**. Because Block 26 is the even/opposite side of Main, the 1919 adjacent-owner description is a **STRONG CROSS-SOURCE INFERENCE** that the new postal quarters occupied combined rooms associated with **Lots 5–6**. The 1919 article itself prints no lot numbers or exact street number, so the exact bay within the later 504–514 range remains unresolved.
+
+### Ownership-description conflict now explicit
+
+This April report conflicts with the **12 Sep. 1918 Courier** wording that described the leased east-side Fifth–Sixth Main building as **owned by M. D. Latourette**. The later article instead assigns the two component store rooms to First National Bank and the Barlow-David heirs while giving Latourette a bank-officer/transaction role. Preserve both direct contemporary statements as an **UNRESOLVED CONFLICT**; do not continue describing Latourette ownership as an uncontested fact.

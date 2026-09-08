@@ -107,3 +107,8 @@ CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`), titled **Oregon City 1
 `E-263` / `S-289` materially moves the known 507½-over-Harding configuration earlier than the March 1921 Freeze sequence. Direct scans on **2, 10, 17 and 31 January 1919** place Ohio Painless Dentists / Ohio Dentists (`BUS-106`) at **507½ Main Street** and explicitly describe the office as **over Harding's Drug Store**; 10/17/31 name Dr. J. G. Nash (`P-397`) as manager.
 
 This is direct evidence for the upstairs **507½** address and its published relationship to Harding's store. It is **not** a direct advertisement saying `Harding Drug Store, 507 Main`. Harding-at-ground-floor-507 therefore remains a **STRONG SPATIAL/ADDRESS INFERENCE**. The direct 511 Main controls from 1911–1916 remain intact, and the exact move date to the later 507-area arrangement remains unresolved.
+
+## April 1919 507½-over-Harding continuation
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+The visually verified **11 Apr. 1919 Enterprise p4** Ohio Dentists advertisement (`E-266` / `S-292`) again describes the **507½ Main** dental office as **over Harding's Drug Store**. This preserves the spatial relationship into April but still does not print Harding's own ground-floor number; `507 Main` remains a strong inference rather than a direct exact-address fact.

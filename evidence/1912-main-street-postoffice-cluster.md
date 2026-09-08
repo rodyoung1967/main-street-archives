@@ -65,3 +65,8 @@ The full page/PDF should be downloaded into `newspapers/oregon-city-courier/` wh
 5. Continue the dated 507/509/511 tenant sequence beyond the verified 1911–1916 anchors without assuming uninterrupted occupancy or a shared footprint.
 6. Reconstruct 503-529 Main storefront-by-storefront for 1905-1913 without treating inferred adjacency as proof.
 7. Keep the pre-1918 and post-1918 Post Office locations separate in all spatial analysis.
+
+## April 1919 refinement of the later Post Office landmark
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+`S-292` / `E-266` now directly dates the later Post Office's **actual move to Fifth and Main to 15 April 1919** and describes its quarters as two adjoining store buildings combined into one room, with First National Bank and the Barlow-David heirs named as owners. The 1913 Block 26 assessment strongly aligns those owner names with Lots 6 and 5 respectively on the even side. This improves the later landmark used for 1921–22 `opposite Post Office` evidence but does not alter the separate circa-1912 Post Office hypothesis on this page.

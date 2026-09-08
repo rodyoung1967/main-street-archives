@@ -261,3 +261,8 @@ The post-v5 evidence materially strengthens the history of both storefronts with
 - **503 ignition / 505 adjoining pool hall remains the strongest working hypothesis, but the Gates building can presently be modeled either principally as 501 or as 501+503. No source fixes that line, and 501 remains a viable alternative pending its exact July 1922 occupant.**
 
 Future Historical Society editions should incorporate this supplement only at the evidence level stated here and should not promote the 1922 storefront hypothesis until an exact contemporary bridge is recovered.
+
+## April 1919 Post Office landmark refinement
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+The 1919 monthly scan-first pass now directly dates the Post Office's actual move to **15 April 1919**. The 18 Apr. Enterprise says the Fifth/Main quarters combined two store buildings, one owned by First National Bank and one by the Barlow-David heirs. This strongly aligns with the independently verified 1913 Block 26 Lot 6 / Lot 5 owner sequence on the even side of Main and improves the spatial landmark opposite the 501/503/505 frontage. The exact numbered postal bay remains unresolved. The article also creates a contemporary conflict with the Sep. 1918 report that called the leased building M. D. Latourette-owned; the supplement should not present Latourette ownership as settled.

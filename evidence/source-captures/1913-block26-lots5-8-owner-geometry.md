@@ -49,3 +49,10 @@ The title search should no longer prioritize Barlow/David Block 26 Lot 5 for the
 4. map those deed dimensions to 501/503/505 without backdating current parcel boundaries.
 
 The July 1922 fire-origin address remains unresolved.
+
+## April 1919 Post Office cross-source owner recurrence
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+The 18 Apr. 1919 Enterprise Post Office story (`S-292` / `E-266`) says the new Fifth/Main postal quarters combined **two store buildings**, one owned by **First National Bank** and the other by the **Barlow-David heirs**. This closely reproduces the 1913 Block 26 owner sequence documented above: **Lot 5 Mary E. Barlow / Juliette E. David; Lot 6 First National Bank**.
+
+Because Block 26 is independently established on the **even/opposite side of Main**, this is a **STRONG CROSS-SOURCE INFERENCE** that the April 1919 postal rooms correspond to the Lot 5–6 portion of the Block 26 frontage. Do not convert the inference into an exact 504/506/etc. postal address; the 1919 article does not print a lot number or numbered street bay.

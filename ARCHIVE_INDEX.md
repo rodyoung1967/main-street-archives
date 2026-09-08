@@ -466,3 +466,15 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
 - Full review: [evidence/source-captures/1919-march-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-march-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **April 1919 Enterprise + Courier**.
+
+## 1919 April complete visual batch
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- April local-newspaper coverage: **56/56 visually verified pages** (`S-292` / `E-266`); Jan–Apr cumulative **238 pages**.
+- 15 Apr. Post Office move to Fifth/Main: two combined store rooms owned by First National Bank and Barlow-David heirs; strong cross-source Block 26 Lots 6/5 alignment, exact numbered bay unresolved.
+- 1918 Latourette vs. 1919 bank/Barlow-David ownership descriptions remain an explicit contemporary conflict.
+- Ohio Dentists at 507½-over-Harding on 11 Apr.; Farr Brothers market-report continuation; Theroux at 210 Seventh through 25 Apr.
+- No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
+- Full review: [evidence/source-captures/1919-april-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-april-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological batch: **May 1919 Enterprise + Courier**.

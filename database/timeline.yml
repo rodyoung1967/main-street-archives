@@ -1007,3 +1007,13 @@ timeline:
     related_sources:
       - S-291
 
+  - id: T-099
+    date: 15 April 1919
+    summary: Oregon City Post Office moved to Fifth and Main into two combined store rooms described three days later as owned by First National Bank and the Barlow-David heirs; the ownership wording conflicts with the September 1918 report describing the leased building as M. D. Latourette-owned.
+    confidence: Very High for the visible move and ownership wording; strong cross-source inference for Block 26 Lots 5-6; unresolved for ownership reconciliation and exact numbered postal bay
+    related_evidence:
+      - E-266
+      - E-094
+    related_sources:
+      - S-292
+

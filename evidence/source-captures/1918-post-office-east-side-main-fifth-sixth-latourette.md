@@ -77,3 +77,10 @@ Do not currently claim that:
 2. Search 1919–1922 ads/directories for `Post Office`, `M. D. Latourette`, and east-side Main addresses between Fifth and Sixth.
 3. Use the exact post-office number to test `Miller's Shoe Store` and Dr. Freeze relative positions.
 4. Keep the August 1918 proposed Fourth/Fifth site separate from the September 1918 final lease location.
+
+## April 1919 follow-up — actual move and conflicting ownership description
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+`S-292` / `E-266` visually verifies the **18 Apr. 1919 Enterprise p1** report that the Post Office actually moved on **15 April 1919 to Fifth and Main**, into two store buildings combined into one large room. The article says one room was owned by **First National Bank** and the other by the **Barlow-David heirs**; First National Bank rented the latter and sublet the combined quarters to the federal government. It identifies **M. D. Latourette as vice president of First National Bank** and credits his efforts in securing the location.
+
+This materially qualifies this capture's earlier statement that the September 1918 source proved Latourette ownership of the leased building. The **1918 source does directly print that ownership description**, but the **1919 source directly conflicts with it**. Current classification: **UNRESOLVED CONTEMPORARY OWNERSHIP-DESCRIPTION CONFLICT**. Possible agency, building-name, ownership-date or reporting differences remain hypotheses until lease/deed/property records resolve them.

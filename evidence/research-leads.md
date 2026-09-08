@@ -525,3 +525,8 @@ Continue 1919 chronologically. The January 70-page no-hit for exact 501/503/505 
 `E-265` / `S-291` advances the February Cox-sale lead: the **6 Mar. Courier p1** directly prints **F. D. Rohberger** as transferee of Cox's billiard license and **new owner of the parlors**. Search forward under both **Rohberger** and **Rohrberg**, including initials F. D. and any later first-name/initial variants, for an exact premises address, annual license/application/bond, advertisement, directory entry, residence, or sale. Preserve the February `Mr. Rohrberg of Ocean Falls, B.C.` spelling as a competing contemporary form until independently reconciled.
 
 Continue exact-address searches for 501/503/505 and target construction/property language. March no-hit remains bounded coverage only.
+
+## 1919 Post Office exact-bay and ownership-conflict route
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+**Priority: HIGH — ONLINE FIRST, then existing manual/property routes if needed.** The April monthly visual batch (`S-292` / `E-266`) directly dates the move to **15 Apr. 1919** and names **First National Bank + Barlow-David heirs** as owners of the two combined store rooms. Search 1919–1922 directories, postal notices, First National Bank/Latourette property references, deeds/assessments and federal Post Office lease/site records for an exact numbered bay and ownership reconciliation. Use the 1913 Block 26 Lot 5 Barlow/David + Lot 6 First National Bank sequence as a cross-source test, not as proof of a 1919 lot assignment. Preserve the 1918 Latourette ownership statement as a conflict until resolved.

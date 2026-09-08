@@ -38,3 +38,6 @@ The [28 August 1922-model reassessment](../evidence/source-captures/1922-task-7-
 ## 1907–1908 license evidence: no property-title update
 
 E-121–E-123 document Surber's No.501 business-address assertion and other liquor applications/market advertisements. These sources do not establish land/building ownership. Surber, Justin & Hitchman and Strebig are not added as target property owners. See [visual review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md).
+
+| 12 Sep. 1918 vs. 18 Apr. 1919 Post Office reports | East/even Fifth–Sixth Main block | 1918 report: M. D. Latourette; 1919 report: First National Bank + Barlow-David heirs | **UNRESOLVED CONTEMPORARY OWNERSHIP-DESCRIPTION CONFLICT** | `E-266` plus existing 1918 Post Office evidence and E-094 | Very High for each source's printed wording; unresolved reconciliation | 1919 article says actual postal quarters combined two stores, bank renting heirs' room and subletting both; Latourette identified as bank VP. Do not collapse the sources into one ownership claim without lease/deed/property evidence. |
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->

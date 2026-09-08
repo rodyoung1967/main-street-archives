@@ -2677,3 +2677,18 @@ Claims:
 - 28 Mar Enterprise p3 directly prints **Theroux Music House, 210 Seventh Street**;
 - no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is coverage only.
 Confidence: **Very High** for scan-visible wording and monthly page coverage; **Unresolved conflict** for buyer surname/initial form; none for an unprinted billiard premises number.
+
+## E-266 — April 1919 visual review: Post Office move to Fifth and Main and neighboring business controls
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
+Sources: `S-292`.  
+Claims:
+- all **56/56** recovered April pages were visually inspected after printed date/page identity review;
+- 18 Apr Enterprise p1 reports the Post Office moved **15 Apr. 1919 to Fifth and Main** into **two combined store buildings**, one owned by First National Bank and one by the Barlow-David heirs; the bank rented the heirs' room and sublet the combined quarters to the federal government;
+- the named 1919 owners strongly align with the 1913 Block 26 Lot 5 Barlow/David and Lot 6 First National Bank owner sequence, but the exact numbered postal bay remains unresolved;
+- the 1919 ownership wording conflicts with the 12 Sep. 1918 Courier description of the leased building as owned by M. D. Latourette; both source statements remain open;
+- 11 Apr Enterprise p4 repeats **Ohio Dentists / Dr. J. G. Nash at 507½ Main over Harding's Drug Store**;
+- all four April Enterprise market reports credit **Brady Mercantile Company and Farr Brothers** without address or proprietor;
+- Theroux Music House continues at **210 Seventh Street** through 25 Apr.;
+- no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is bounded coverage only.
+Confidence: **Very High** for scan-visible April wording and page coverage; **Strong cross-source inference** for Block 26 Lots 5–6 correspondence; **Unresolved conflict** for 1918 vs. 1919 ownership descriptions; none for an unprinted exact Post Office bay.

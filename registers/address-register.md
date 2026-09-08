@@ -148,3 +148,7 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | --- | --- | --- | --- |
 | **507½ Main** | 14 & 21 Mar. 1919 | Ohio Dentists; Dr. J. G. Nash manager | `E-265` / `S-291`; direct `over Harding's Drug Store` wording; Harding lower exact number not printed. |
 | **210 Seventh Street** | 28 Mar. 1919 | Theroux Music House | `E-265` / `S-291`; direct business-address continuation. |
+
+| Fifth & Main — 15 Apr. 1919 Post Office combined rooms | Opposite/even side context; exact number unresolved | `evidence/source-captures/1918-1922-post-office-east-main-fifth-sixth-anchor.md` | U.S. Post Office | `E-266`; E-094 | 18 Apr. Enterprise says two store buildings owned by First National Bank and Barlow-David heirs were combined; strong cross-source alignment to Block 26 Lots 6 + 5, but no exact numbered postal bay. |
+| 507½ Main — 11 Apr. 1919 | Upstairs office; exact physical-building continuity unresolved | `businesses/ohio-painless-dentists.md` | BUS-106 | `E-266` | Ohio Dentists / Dr. J. G. Nash; directly described as over Harding's Drug Store. |
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->

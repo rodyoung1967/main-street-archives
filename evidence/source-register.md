@@ -2481,3 +2481,11 @@ Coverage: Courier 6/13/20/27 Mar., 24 pages; Enterprise 7/14/21/28 Mar., 32 page
 Repository originals: `newspapers/oregon-city-courier/1919-march/` and `newspapers/oregon-city-enterprise/1919-march/`.  
 Related evidence: `E-265`.  
 Notes: 6 Mar Courier directly transfers F. D. Cox's billiard license to **F. D. Rohberger, the new owner of the parlors**; February sale reports instead print **Mr. Rohrberg**, so the name form remains unresolved. Ohio Dentists continues at 507½-over-Harding through 21 Mar.; Farr Brothers market-report credits and Theroux at 210 Seventh continue. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.
+
+## S-292 — April 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
+Coverage: Courier 3/10/17/24 Apr., 24 pages; Enterprise 4/11/18/25 Apr., 32 pages; **56/56 total**.  
+Repository originals: `newspapers/oregon-city-courier/1919-april/` and `newspapers/oregon-city-enterprise/1919-april/`.  
+Related evidence: `E-266`.  
+Notes: 18 Apr Enterprise p1 directly reports the Post Office's 15 Apr move to Fifth/Main into two combined store rooms owned by First National Bank and the Barlow-David heirs, creating an ownership-description conflict with the Sep 1918 Latourette report and a strong cross-source match to Block 26 Lots 5–6. Ohio Dentists continues at 507½-over-Harding on 11 Apr.; Farr Brothers market credits recur all four Enterprise issues; Theroux continues at 210 Seventh. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.

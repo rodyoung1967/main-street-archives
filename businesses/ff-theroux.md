@@ -17,3 +17,8 @@ Sources: `S-120`, `S-121`, `S-130`, `S-133`, `S-134`.
 <!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
 
 The **28 Mar. 1919 Enterprise p3** scan (`E-265` / `S-291`) directly prints **Theroux Music House — 210 Seventh Street**. This extends the 1919 Seventh Street address control without establishing the exact departure date from 519 Main.
+
+## April 1919 — 210 Seventh Street continuation
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+`E-266` / `S-292` visually verifies April advertising for **Theroux Music House at 210 Seventh Street**, including 18 Apr. p3 and 25 Apr. p7. This extends the direct Seventh Street business-address chronology through **25 April 1919** without establishing the exact move date from 519 Main.

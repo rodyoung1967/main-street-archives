@@ -636,3 +636,10 @@ A scan-first review of **56/56 February pages** (`S-290` / `E-264`) adds a major
 <!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
 
 A scan-first review of **56/56 March pages** (`S-291` / `E-265`) directly records the **6 March transfer of F. D. Cox's billiard license to F. D. Rohberger, “the new owner of the parlors.”** February's sale reports instead print the buyer as **Mr. Rohrberg of Ocean Falls, B.C.**; preserve this as an unresolved contemporary name-form conflict rather than silently normalizing it. No address is printed for the parlors. Ohio Dentists / Dr. J. G. Nash continue at **507½ Main over Harding's Drug Store through 21 March**; Farr Brothers market-report credits appear on 7/21/28 March; Theroux Music House is directly at **210 Seventh Street** on 28 March. No exact 501/503/505 occupant or target construction/property event was recovered; that is bounded coverage only.
+
+## 15 April 1919 — Post Office moves to Fifth and Main; April newspaper batch complete
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+The **18 Apr. Enterprise p1** scan (`S-292` / `E-266`) directly reports that the Oregon City Post Office moved on **15 April 1919 to Fifth and Main**, into **two store buildings combined into one large room**. One is described as owned by First National Bank and the other by the Barlow-David heirs; the bank rented the latter and sublet the combined rooms to the federal government. The owner names strongly align with the 1913 Block 26 Lot 6/5 sequence on the even side of Main. The exact numbered postal bay remains unresolved, and the 1919 ownership wording conflicts with the 1918 report calling the leased building M. D. Latourette-owned.
+
+The full April batch is **56/56 visually verified pages**, bringing January–April 1919 local-newspaper coverage to **238 pages**. Ohio Dentists/Nash continues at 507½-over-Harding on 11 Apr.; Farr Brothers appears in all four April market reports without address/proprietor; Theroux remains at 210 Seventh through 25 Apr. No source-explicit 501/503/505 occupant or target construction/property event was recovered; bounded coverage only.

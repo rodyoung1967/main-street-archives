@@ -333,3 +333,11 @@ The same complete January batch found no source-explicit occupant at 501/503/505
 `E-265` / `S-291` directly establishes the 6 March **F. D. Cox → F. D. Rohberger billiard-license transfer**, with Rohberger called the new owner of the parlors. February's sale reports instead print **Mr. Rohrberg of Ocean Falls, B.C.** Treat the identity/name form as unresolved until an independent directory, license application/bond, census, business advertisement, or other identifier reconciles the forms.
 
 The parlors' 1919 address remains unresolved. Do not project Cox's 1915 Main-between-Seventh/Eighth location forward, and do not assign the transfer to 501/503/505 without direct premises evidence. March's complete 56-page target no-hit does not answer the occupancy/construction question.
+
+## April 1919 Post Office geometry / ownership questions
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+1. What exact numbered Main Street bay or bays did the Post Office occupy after **15 April 1919** within the even-side Fifth–Sixth block?
+2. Do lease, deed, assessment or bank/property records reconcile the **12 Sep. 1918 M. D. Latourette ownership description** with the **18 Apr. 1919 First National Bank + Barlow-David heirs ownership description**?
+3. Can the strong Block 26 **Lots 5–6** owner-geometry inference be converted into a direct lot/bay identification from a 1919 lease, directory, postal record or contemporary map?
+4. Once the postal bay is fixed, how tightly does it constrain 1921–22 `opposite Post Office` wording at 505½ Main and Miller's Shoe Store?

@@ -311,21 +311,6 @@ The **18 Apr. Enterprise p1** scan (`{S}` / `{E}`) directly reports that the Ore
 The full April batch is **56/56 visually verified pages**, bringing January–April 1919 local-newspaper coverage to **238 pages**. Ohio Dentists/Nash continues at 507½-over-Harding on 11 Apr.; Farr Brothers appears in all four April market reports without address/proprietor; Theroux remains at 210 Seventh through 25 Apr. No source-explicit 501/503/505 occupant or target construction/property event was recovered; bounded coverage only.
 ''')
 
-append_once("timelines/address-occupancy-timeline.md", MARKER, f'''## April 1919 address and landmark controls
-{MARKER}
-
-- **15 Apr. 1919 — Fifth & Main, even/opposite side context:** Post Office moves into two combined store rooms; First National Bank and Barlow-David heirs are the directly reported room owners (`{E}` / `{S}`). Cross-source owner geometry strongly aligns the rooms with Block 26 Lots 6 and 5; exact numbered bay unresolved.
-- **11 Apr. 1919 — 507½ Main:** Ohio Dentists / Dr. J. G. Nash, **over Harding's Drug Store**; Harding ground-floor number still unprinted.
-- No direct April 501/503/505 occupant; no-hit is coverage only.
-''')
-append_once("timelines/business-occupancy-timeline.md", MARKER, f'''## April 1919 business controls
-{MARKER}
-
-- Ohio Dentists / Dr. J. G. Nash continues at **507½ Main over Harding's Drug Store** on 11 Apr. (`{E}` / `{S}`).
-- Farr Brothers is credited with Brady Mercantile in all four April Enterprise market reports, without address or individual proprietor.
-- Theroux Music House remains directly at **210 Seventh Street** through 25 Apr.
-- No defensible April 501/503/505 business occupant was established.
-''')
 append_once("registers/business-timeline.md", MARKER, f'''| 11 Apr. 1919 | 507½ Main | Ohio Dentists / Dr. J. G. Nash | `BUS-106` | `{E}` | Direct ad says 507½ Main, over Harding's Drug Store; Harding's ground-floor number not printed. |
 | Apr. 1919 | address not printed | Farr Brothers market-report provider | `BUS-104` | `{E}` | 4/11/18/25 Apr. Enterprise credits with Brady Mercantile; no proprietor/address bridge to 505. |
 | 25 Apr. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `{E}` | Direct April advertising continues the Seventh Street address. |

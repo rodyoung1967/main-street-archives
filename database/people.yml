@@ -533,6 +533,7 @@ people:
     - E-119
     - E-120
     - E-265
+    - E-266
     related_sources:
     - S-120
     - S-121
@@ -540,6 +541,7 @@ people:
     - S-133
     - S-134
     - S-291
+    - S-292
 
   - id: P-045
     name: E. T. Mass
@@ -1235,5 +1237,5 @@ people:
       Phone 62, at 507½ Main over Harding's Drug Store. The 2 Jan ad establishes the same
       office/location but does not visibly name Nash.
     related_businesses: [BUS-106]
-    related_evidence: [E-263, E-264, E-265]
-    related_sources: [S-289, S-290, S-291]
+    related_evidence: [E-263, E-264, E-265, E-266]
+    related_sources: [S-289, S-290, S-291, S-292]

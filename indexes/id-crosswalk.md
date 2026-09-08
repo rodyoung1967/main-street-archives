@@ -773,3 +773,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-291` / `E-265` → `BUS-104`: Farr Brothers market-report credits on 7/21/28 Mar., no address/proprietor and no Farr-pool-hall merge.
 - `S-291` / `E-265` → `BUS-029` / `P-044`: Theroux Music House directly at **210 Seventh Street** on 28 Mar.
 - No 501/503/505 building event is created from the March no-hit.
+
+## S-292 / E-266 — April 1919 complete monthly local-newspaper visual batch
+<!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-292` / `E-266` → 15 Apr. Post Office move to Fifth/Main; two combined rooms owned as First National Bank + Barlow-David heirs; strong cross-source relation to `E-094` Block 26 Lots 6 + 5; exact numbered bay unresolved.
+- `S-292` / `E-266` → unresolved 1918 Latourette vs. 1919 bank/Barlow-David Post Office ownership-description conflict.
+- `S-292` / `E-266` → `BUS-106` / `P-397` and Harding spatial context: 507½ Main over Harding's Drug Store on 11 Apr.
+- `S-292` / `E-266` → `BUS-104` Farr Brothers market-report continuation and `BUS-029` / `P-044` Theroux at 210 Seventh.
+- `T-099` → 15 Apr. 1919 Post Office move event.
