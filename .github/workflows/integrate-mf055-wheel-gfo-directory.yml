@@ -1,0 +1,142 @@
+name: Integrate MF-055 Wheel GFO directory follow-up
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-mf055-wheel-gfo-directory.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Patch MF-055 into manual dashboard
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('Last amended:'):
+                  lines[i] = ('Last amended: **7 September 2026** — added **MF-055** for a focused GFO lookup '
+                              'in the 1964 and 1977 Oregon City directories to bracket The Wheel / 503 Main ownership/operator history; '
+                              'no existing MF ID was renumbered or removed.')
+                  break
+          text = '\n'.join(lines) + ('\n' if text.endswith('\n') else '')
+
+          row = ('| 23 | **MF-055** | Obtain focused **1964 and 1977 Oregon City directory** lookups from GFO for '
+                 '**503 Main / The Wheel**, LaFarlette/Grisham and Wiitanen entries, and telephone/classified controls | '
+                 'These confirmed physical volumes provide strong published bookends before the unresolved pre-7-Jun-1967 Wheel liquor action '
+                 'and before the 6-Jun-1979 Wheel liquor application | **ACTIVE MANUAL — EMAIL DRAFT READY / $15 MINIMUM RESEARCH FEE REQUIRES APPROVAL**. '
+                 '[GFO Wheel lookup draft](registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md) |')
+          if row not in text:
+              anchor = '| 22 | **MF-054**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-054 active row anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+
+          batch = ('- **GFO Wheel directory bookends:** **MF-055** is a single focused 503/The Wheel directory question using GFO holdings '
+                   '**TF0763 (1964)** and **TF0764 (1977)**. It is separate from the GFO 1947–48 Farr/Harr lookup under MF-001. '
+                   'GFO currently posts a **$15 minimum** research charge; do not send/authorize work until the project steward approves the fee.\n')
+          if batch not in text:
+              anchor = '- **Oregon Secretary of State historical business records:** **MF-054**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-054 batching anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + batch + text[end+1:]
+
+          tracker = '| **MF-055** | **NOT SENT — EMAIL DRAFT READY / $15 MINIMUM FEE NOT AUTHORIZED** | — | — | **No** | — | No |'
+          if tracker not in text:
+              anchor = '| **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-054 tracker anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + tracker + '\n' + text[end+1:]
+
+          text = text.replace('The current practical list is the **22-item active queue in section 1**.',
+                              'The current practical list is the **23-item active queue in section 1**.')
+
+          section = '''\n\n---\n\n## 7 September 2026 — GFO 1964 / 1977 Wheel directory bookend route\n<!-- MF-055 Wheel directory bookends — 2026-09-07 -->\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-055** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEE NOT AUTHORIZED** | **Yes** | GFO confirms physical holdings **TF0763 — Oregon City Directory 1964** and **TF0764 — Oregon City Directory 1977**. Request a focused lookup for **503 Main / The Wheel / Wheel Cafe**, LaFarlette/Grisham and Wiitanen personal entries, relevant classified pages and numerical telephone entries. The 1964 volume is a strong pre-/early-transition control before the unresolved 1967 Wheel liquor action; the 1977 volume is a strong later control before the 1979 Wheel liquor action. GFO currently posts a **$15 per half-hour / $15 minimum** research fee. **Do not send or authorize paid work without project-steward approval.** A directory association is a published occupancy/operator/contact bracket, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md`. |\n'''
+          if '## 7 September 2026 — GFO 1964 / 1977 Wheel directory bookend route' not in text:
+              text += section
+
+          p.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push dashboard integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then
+            echo 'MF-055 dashboard integration already present.'
+            exit 0
+          fi
+          git commit -m 'Add MF-055 Wheel directory follow-up'
+          for attempt in 1 2 3 4 5 6; do
+            if git push origin main; then
+              exit 0
+            fi
+            echo "main advanced; rebuilding MF-055 dashboard integration ($attempt)"
+            git fetch origin main
+            git reset --hard origin/main
+            python3 - <<'PY'
+          from pathlib import Path
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('Last amended:'):
+                  lines[i] = ('Last amended: **7 September 2026** — added **MF-055** for a focused GFO lookup in the 1964 and 1977 Oregon City directories to bracket The Wheel / 503 Main ownership/operator history; no existing MF ID was renumbered or removed.')
+                  break
+          text = '\n'.join(lines) + ('\n' if text.endswith('\n') else '')
+          row = '| 23 | **MF-055** | Obtain focused **1964 and 1977 Oregon City directory** lookups from GFO for **503 Main / The Wheel**, LaFarlette/Grisham and Wiitanen entries, and telephone/classified controls | These confirmed physical volumes provide strong published bookends before the unresolved pre-7-Jun-1967 Wheel liquor action and before the 6-Jun-1979 Wheel liquor application | **ACTIVE MANUAL — EMAIL DRAFT READY / $15 MINIMUM RESEARCH FEE REQUIRES APPROVAL**. [GFO Wheel lookup draft](registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md) |'
+          if row not in text:
+              pos = text.find('| 22 | **MF-054**')
+              if pos < 0: raise SystemExit('MF-054 active row anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+          batch = '- **GFO Wheel directory bookends:** **MF-055** is a single focused 503/The Wheel directory question using GFO holdings **TF0763 (1964)** and **TF0764 (1977)**. It is separate from the GFO 1947–48 Farr/Harr lookup under MF-001. GFO currently posts a **$15 minimum** research charge; do not send/authorize work until the project steward approves the fee.\n'
+          if batch not in text:
+              pos = text.find('- **Oregon Secretary of State historical business records:** **MF-054**')
+              if pos < 0: raise SystemExit('MF-054 batching anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + batch + text[end+1:]
+          tracker = '| **MF-055** | **NOT SENT — EMAIL DRAFT READY / $15 MINIMUM FEE NOT AUTHORIZED** | — | — | **No** | — | No |'
+          if tracker not in text:
+              pos = text.find('| **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED**')
+              if pos < 0: raise SystemExit('MF-054 tracker anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + tracker + '\n' + text[end+1:]
+          text = text.replace('The current practical list is the **22-item active queue in section 1**.', 'The current practical list is the **23-item active queue in section 1**.')
+          section = '\n\n---\n\n## 7 September 2026 — GFO 1964 / 1977 Wheel directory bookend route\n<!-- MF-055 Wheel directory bookends — 2026-09-07 -->\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-055** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEE NOT AUTHORIZED** | **Yes** | GFO confirms physical holdings **TF0763 — Oregon City Directory 1964** and **TF0764 — Oregon City Directory 1977**. Request a focused lookup for **503 Main / The Wheel / Wheel Cafe**, LaFarlette/Grisham and Wiitanen personal entries, relevant classified pages and numerical telephone entries. The 1964 volume is a strong pre-/early-transition control before the unresolved 1967 Wheel liquor action; the 1977 volume is a strong later control before the 1979 Wheel liquor action. GFO currently posts a **$15 per half-hour / $15 minimum** research fee. **Do not send or authorize paid work without project-steward approval.** A directory association is a published occupancy/operator/contact bracket, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md`. |\n'
+          if '## 7 September 2026 — GFO 1964 / 1977 Wheel directory bookend route' not in text:
+              text += section
+          p.write_text(text, encoding='utf-8')
+          PY
+            python3 scripts/validate_archive.py
+            git add MANUAL-FOLLOWUP.md
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Add MF-055 Wheel directory follow-up'
+            sleep 2
+          done
+          exit 1
