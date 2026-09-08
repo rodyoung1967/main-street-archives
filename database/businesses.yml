@@ -1329,3 +1329,14 @@ businesses:
     related_people: [P-397]
     related_evidence: [E-263, E-264, E-265, E-266, E-267]
     related_sources: [S-289, S-290, S-291, S-292, S-293]
+
+# 1919 September Enterprise visual review — 2026-09-07
+  - id: BUS-107
+    name: S. Fesznecker tin and repair shop
+    address: Broadway earlier; building just south of post office by 12 Sep. 1919; exact number unresolved
+    notes: >-
+      Descriptive archive label only; formal trade name unknown. The 12 September Enterprise directly reports the move but does not print a numbered address, parcel or building owner. No 501/503/505 assignment.
+    related_people: [P-398]
+    related_evidence: [E-271]
+    related_sources: [S-297]
+    repository_file: businesses/s-fesznecker-tin-repair.md

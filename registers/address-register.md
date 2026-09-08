@@ -156,3 +156,8 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | 507½ Main — 16 May 1919 | Upstairs/internal geometry unresolved | `businesses/ohio-painless-dentists.md` | BUS-106 | `E-267` | Ohio Dentists / Dr. J. G. Nash; directly described as over Harding's Drug Store. |
 | Fifth & Main corner — 8–9 May 1919 | Public meeting-point control only; exact corner/bay not assigned | `evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md` | Memorial Day assembly | `E-267` | Courier/Enterprise describe assembly at Fifth and Main before proceeding to First Baptist Church; not an occupant or Post Office bay identification. |
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+## September 1919 relative-location anchor south of Post Office
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+`E-271` directly places `BUS-107` in **the building just south of the post office** on 12 Sep. 1919 after a move from Broadway. Exact street number/parcel is unresolved; no 501/503/505 normalization. Compare cautiously with cleaner/dyer `E-136` (`two doors south of new post office`).

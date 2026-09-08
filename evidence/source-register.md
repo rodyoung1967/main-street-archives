@@ -2521,3 +2521,11 @@ Coverage: Enterprise 1/8/15/22/29 Aug., 40 pages; Banner-Courier 7/14/21/28 Aug.
 Repository originals: `newspapers/oregon-city-enterprise/1919-august/`; gap manifest `newspapers/banner-courier/1919-august/manifest.json`.  
 Related evidence: `E-270`.  
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building event in the 40 Enterprise pages. Cleaner repeats reconfirm existing `S-152`/`E-136` and are not duplicated. Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers recurs in market reports without address/proprietor.
+
+## S-297 — September 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+Type: Primary newspaper scans plus retrieval-gap manifest; **32/32 online-exposed pages VISUALLY VERIFIED** 7 September 2026.  
+Coverage: Enterprise 5/12/19/26 Sep., 32 pages; Banner-Courier 4/11/18/25 Sep. **manual retrieval gaps** under `MF-030`.  
+Repository originals: `newspapers/oregon-city-enterprise/1919-september/`; gap manifest `newspapers/banner-courier/1919-september/manifest.json`.  
+Related evidence: `E-271`.  
+Notes: 12 Sep. p2 directly reports S. Fesznecker moving his tin and repair shop from Broadway to the building just south of the post office. No exact 501/503/505/505½ occupant or target structural event was established.

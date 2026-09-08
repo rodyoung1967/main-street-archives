@@ -230,3 +230,6 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
 | BUS-106 | [Ohio Painless Dentists / Ohio Dentists](ohio-painless-dentists.md) | **507½ Main** | Direct 2/10/17/31 Jan. 1919 advertisements; `P-397` J. G. Nash named manager on 10/17/31; wording says over Harding's Drug Store. Harding's lower exact number is not printed. `E-263` / `S-289`. |
+
+| BUS-107 | [S. Fesznecker tin and repair shop](s-fesznecker-tin-repair.md) | Broadway earlier; building just south of post office by 12 Sep. 1919; exact number unresolved | Descriptive archive label, not a proved formal trade name. Direct move wording `E-271`; no 501/503/505 assignment. |
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->

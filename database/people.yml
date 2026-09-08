@@ -1247,3 +1247,14 @@ people:
     related_businesses: [BUS-106]
     related_evidence: [E-263, E-264, E-265, E-266, E-267]
     related_sources: [S-289, S-290, S-291, S-292, S-293]
+
+# 1919 September Enterprise visual review — 2026-09-07
+  - id: P-398
+    name: S. Fesznecker
+    role: Tin and repair shop operator
+    notes: >-
+      12 September 1919 Enterprise directly reports a move from Broadway to the building just south of the post office. Given name, exact street number, tenancy and later chronology unresolved.
+    related_businesses: [BUS-107]
+    related_evidence: [E-271]
+    related_sources: [S-297]
+    repository_file: people/profiles/s-fesznecker.md

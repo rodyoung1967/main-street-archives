@@ -998,3 +998,13 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Cleaner repeat ads reconfirm existing `S-152` / `E-136`; no duplicate evidence created.
 - Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers recurs without address/proprietor.
 - Integrated monthly batch as `S-296` / `E-270`; validation required before push.
+
+## 7 September 2026 — September 1919 monthly scan-first review
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+- Preserved retrieval commit `d630baf`; visually inspected **32/32** Enterprise pages for 5/12/19/26 Sep. 1919.
+- Printed title/date/page sequences coherent; no source-association defect found.
+- Direct new finding: 12 Sep. p2 — S. Fesznecker moved tin/repair shop from Broadway to building just south of Post Office (`S-297` / `E-271`, `P-398`, `BUS-107`).
+- Theroux p7 ads visibly read **210 Seventh**, correcting OCR `110`.
+- No exact 501/503/505/505½ occupant or target structural/ownership event recovered; bounded coverage only.
+- Banner-Courier 4/11/18/25 Sep. remains `MF-030` retrieval/manual gap.

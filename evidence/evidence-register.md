@@ -2748,3 +2748,17 @@ Claims:
 - all five August Enterprise market reports credit Farr Brothers without address or individual proprietor;
 - Frank Mount remodel references concern the residence at Ninth and Center; the post-office remodel reference is explicitly Oswego.
 Confidence: **Very High** for scan-visible wording and online-page coverage; **RETRIEVAL GAP** for inaccessible Banner-Courier issues; none for an unprinted target occupant/event.
+
+## E-271 — September 1919 visual review: Fesznecker shop move just south of post office and bounded target coverage
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+Type: Primary newspaper online scan batch with explicit successor-title retrieval gap.  
+Sources: `S-297`; related post-office evidence `E-266`; related cleaner evidence `E-136`.  
+Claims:
+- all **32/32 online-exposed September Enterprise pages** were visually inspected after printed title/date/page identity review;
+- **12 Sep. p2** directly states that **S. Fesznecker moved his tin and repair shop from Broadway to the building just south of the post office**;
+- this is a relative-location/business-move fact only; no exact street number, parcel, formal trade name or building ownership is printed;
+- the finding can be compared with the already verified cleaner/dyer wording `two doors south of new post office`, but does not prove exact storefront adjacency or a target-number identity;
+- Theroux Music House is visibly **210 Seventh Street** through 26 Sep.; OCR `110` is a misreading;
+- no source-explicit 501/503/505/505½ occupant or target construction/property event was established in the online pages;
+- September Banner-Courier issues remain manual retrieval gaps under `MF-030`.
+Confidence: **Very High** for scan-visible wording and page coverage; **RETRIEVAL GAP** for inaccessible Banner-Courier issues; none for an unprinted numbered target address.

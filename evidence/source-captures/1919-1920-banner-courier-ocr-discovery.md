@@ -53,3 +53,8 @@ The July monthly scan workflow (`S-295` / `E-269`) corrected the issue calendar 
 <!-- 1919 August Enterprise visual review — 2026-09-07 -->
 
 The August workflow (`S-296` / `E-270`) recovered and visually reviewed all **40 Enterprise pages** but again found no online Banner-Courier pages for **7/14/21/28 Aug. 1919**. The existing institutional microfilm route and `MF-030` remain controlling. This is a retrieval gap, not negative evidence.
+
+## September 1919 monthly reconfirmation
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+The September workflow recovered and visually reviewed all **32 Enterprise pages** but again found no online Banner-Courier pages for **4/11/18/25 Sep. 1919**. The existing institutional microfilm route and `MF-030` remain controlling. Retrieval gap, not negative evidence.

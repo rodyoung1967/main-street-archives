@@ -523,3 +523,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers appears in all five market reports without address/proprietor; cleaner repeats reconfirm existing `E-136` without duplication.
 - Full review: [evidence/source-captures/1919-august-enterprise-visual-review-2026-09-07.md](evidence/source-captures/1919-august-enterprise-visual-review-2026-09-07.md).
 - Next chronological online batch: **September 1919 Enterprise**.
+
+## 1919 September monthly visual checkpoint
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- September Enterprise: **32/32 online-exposed pages visually verified**; January–September cumulative online local-newspaper visual count **476 pages**.
+- Banner-Courier 4/11/18/25 Sep. remains `MF-030` manual microfilm gap.
+- New direct spatial lead: 12 Sep. p2 places S. Fesznecker's tin/repair shop in the building just south of the Post Office after moving from Broadway; exact number unresolved.
+- No source-explicit 501/503/505/505½ occupant or target physical-building event established in September Enterprise.
+- Full review: `evidence/source-captures/1919-september-enterprise-visual-review-2026-09-07.md`.
+- Next chronological batch: **October 1919 Enterprise**.

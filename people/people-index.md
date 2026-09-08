@@ -193,3 +193,6 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-397 | [Dr. J. G. Nash](profiles/j-g-nash.md) | Manager, Ohio Dentists | Directly named in 10/17/31 Jan. 1919 ads at 507½ Main over Harding's Drug Store; no property-ownership inference. `E-263` / `S-289`. |
+
+| P-398 | [S. Fesznecker](profiles/s-fesznecker.md) | Tin and repair shop operator | 12 Sep. 1919 Enterprise directly reports a move from Broadway to the building just south of the post office. Given name, exact address, ownership/tenancy and later chronology unresolved. `E-271`. |
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->

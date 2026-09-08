@@ -271,3 +271,8 @@ The 1919 monthly scan-first pass now directly dates the Post Office's actual mov
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 The complete May 1919 scan-first pass (`S-293` / `E-267`) found a 16 May Enterprise report that alterations to **the Wolf building** were nearing completion in a new-confectionery context. The source does **not** print an address, Wolf identity or proprietor. It therefore cannot be used to date construction/remodeling at 503 or 505 and should not be connected to the 1918 Wolf & Miller business or 1922 S. Wolf property owner without independent evidence. It remains a potentially important clue for the unresolved c.1919/c.1920 building-change question.
+
+## September 1919 Post Office neighborhood refinement
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+A visually verified 12 Sep. 1919 Enterprise item (`S-297` / `E-271`) says **S. Fesznecker moved his tin and repair shop from Broadway to the building just south of the post office**. This adds a second relative-location control near the April 1919 Fifth/Main post office and the cleaner/dyer's `two doors south` wording, but it does not establish an exact numbered storefront or connect the shop to 501/503/505.

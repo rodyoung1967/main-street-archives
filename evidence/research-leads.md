@@ -540,3 +540,8 @@ Continue exact-address searches for 501/503/505 and target construction/property
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
 
 The complete June monthly scan pass (`S-294` / `E-268`) did **not** identify the May `Wolf building` confectionery by address, proprietor or Wolf identity. Continue the existing **ONLINE-FIRST** route into July: search opening advertisements, confectionery references, porch/pergola descriptions, Wolf-name property references and exact-address wording. June silence is coverage only and does not justify a 503/505 assignment or a same-person merge.
+
+## September 1919 — identify S. Fesznecker and the post-office-south storefront
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+Direct source `S-297` / `E-271` places **S. Fesznecker's tin and repair shop** in the **building just south of the post office** by 12 Sep. 1919 after a move from Broadway. Next online/manual targets: identify Fesznecker's full name; locate directory/telephone/classified listings; test whether a numbered address is recoverable; and compare the location carefully with cleaner/dyer `E-136` (`two doors south`). Do not assign 501/503/505 or infer exact adjacency without an independent address/parcel bridge.

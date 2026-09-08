@@ -123,3 +123,8 @@ The July online scan pass (`S-295` / `E-269`) visually reviewed **38/38 exposed 
 <!-- 1919 August Enterprise visual review — 2026-09-07 -->
 
 The complete online-exposed August Enterprise pass (`S-296` / `E-270`) visually reviewed **40/40 pages** and found no source-explicit target-frontage construction, demolition, rebuilding or remodeling event. Potential remodel hits were visually resolved as **Dr. Frank Mount's Ninth-and-Center residence** (15/22 Aug.) and the **Oswego post office** (29 Aug.). Banner-Courier remains unavailable online under `MF-030`, so this is bounded Enterprise coverage only and cannot prove that no target work occurred.
+
+## September 1919 monthly visual addition
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+The complete online-exposed September Enterprise pass (`S-297` / `E-271`) visually reviewed **32/32 pages**. It found no source-explicit target-frontage construction, demolition, rebuilding or remodeling event and no exact 501/503/505 occupant. The new Fesznecker move is a relative post-office neighborhood anchor only, not a target-building assignment. Banner-Courier remains unavailable online under `MF-030`.

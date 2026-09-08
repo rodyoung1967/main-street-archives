@@ -1929,3 +1929,10 @@ sources:
     url: https://oregonnews.uoregon.edu/
     notes: >-
       Primary August scan batch: 40/40 Enterprise pages visually verified. Banner-Courier 7, 14, 21 and 28 August remain MF-030 manual retrieval gaps. No exact 501/503/505 occupant or target structural event was established.
+
+# 1919 September Enterprise visual review — 2026-09-07
+  - id: S-297
+    name: "September 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap"
+    url: https://oregonnews.uoregon.edu/
+    notes: >-
+      Primary September scan batch: 32/32 Enterprise pages visually verified. Banner-Courier 4, 11, 18 and 25 September remain MF-030 manual retrieval gaps. The 12 September p2 scan directly reports S. Fesznecker moving his tin and repair shop from Broadway to the building just south of the post office.

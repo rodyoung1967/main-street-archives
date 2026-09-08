@@ -4092,3 +4092,22 @@ evidence:
     sources: [S-296]
     notes: >-
       August is not a complete local-newspaper month because Banner-Courier is unavailable online. No negative inference is made across inaccessible issues.
+
+# 1919 September Enterprise visual review — 2026-09-07
+  - id: E-271
+    name: "September 1919 visual review: Fesznecker shop move just south of post office and bounded target coverage"
+    type: Primary newspaper online scan batch with explicit manual retrieval gap
+    claims:
+      - 32/32 online-exposed September 1919 Enterprise pages visually verified.
+      - S. Fesznecker moved his tin and repair shop from Broadway to the building just south of the post office by 12 September 1919.
+      - No exact street number, parcel, formal trade name or building ownership was printed for the Fesznecker shop.
+      - Theroux Music House continued at 210 Seventh Street through 26 September; OCR 110 is incorrect.
+      - No source-explicit 501, 503, 505 or 505-half Main occupant or target physical-building event was established.
+      - Banner-Courier 4, 11, 18 and 25 September remain manual microfilm retrieval gaps under MF-030.
+    confidence: Very High for visible online pages; retrieval gap for inaccessible Banner-Courier issues
+    related_sources: [S-297]
+    related_evidence: [E-136, E-266]
+    related_businesses: [BUS-107, BUS-029]
+    related_people: [P-398, P-044]
+    related_buildings: []
+    sources: [S-297]

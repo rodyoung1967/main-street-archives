@@ -78,3 +78,8 @@ A subsequent full-year OCR discovery pass found the same classified on page 7 in
 Direct visual review shows **every inspected repeat prints `500`**, including 25 July and 5 September, where OCR had incorrectly rendered `600`. The stable advertisement continues to print the same trade, **`two doors south of new post office`**, and Phone **260**. This materially strengthens the printed-number and relative-location evidence but still does not identify the advertiser or explain whether period wording `500 Fifth and Main streets` should normalize to 500 Main, 500 Fifth, or another convention.
 
 Detailed repeat-set capture: `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.
+
+## September 1919 comparison lead — Fesznecker
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+A separate visually verified 12 Sep. 1919 item (`S-297` / `E-271`) says S. Fesznecker moved his tin and repair shop to **the building just south of the post office**. This can be compared with the cleaner's `two doors south of new post office` wording, but does not identify the cleaner, normalize `500 Fifth and Main streets`, or prove a one-door/two-door numbered storefront sequence.

@@ -29,7 +29,7 @@ if Path(CAPTURE).exists():
 
 S=next_id("evidence/source-register.md","S")
 E=next_id("evidence/evidence-register.md","E")
-P=next_id("people/people-index.md","P")
+P=f"P-{max(int(x) for x in re.findall(r'(?m)^\| P-(\d{3}) \|', read('people/people-index.md')))+1:03d}"
 BUS=next_id("businesses/business-index.md","BUS")
 
 capture=f'''# September 1919 Oregon City newspaper scan-first visual review

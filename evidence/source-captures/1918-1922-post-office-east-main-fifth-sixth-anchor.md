@@ -155,3 +155,8 @@ The 1913 assessment (`E-094`) places **Mary E. Barlow / Juliette E. David on Blo
 ### Ownership-description conflict now explicit
 
 This April report conflicts with the **12 Sep. 1918 Courier** wording that described the leased east-side Fifth–Sixth Main building as **owned by M. D. Latourette**. The later article instead assigns the two component store rooms to First National Bank and the Barlow-David heirs while giving Latourette a bank-officer/transaction role. Preserve both direct contemporary statements as an **UNRESOLVED CONFLICT**; do not continue describing Latourette ownership as an uncontested fact.
+
+## September 1919 — Fesznecker relative-location anchor
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+The visually verified **12 Sep. 1919 Enterprise p2** (`S-297` / `E-271`) reports that **S. Fesznecker moved his tin and repair shop from Broadway to the building just south of the post office**. The article prints no exact street number. Compare cautiously with cleaner/dyer `E-136`, which says `two doors south of new post office`; the two expressions create a useful spatial lead but do not prove exact numbered storefront adjacency.

@@ -650,3 +650,8 @@ The full April batch is **56/56 visually verified pages**, bringing January–Ap
 The **16 May Enterprise p2** scan (`S-293` / `E-267`) directly reports alterations nearing completion to **the Wolf building** in a new-confectionery context, describing a full-length rustic front porch, side pergola and blue-and-white interior. The item gives no address, Wolf identity or proprietor. It is therefore an **unlocated building-alteration lead**, not a 503/505 event and not a bridge to Wolf & Miller or S. Wolf.
 
 The full May batch is **72/72 visually verified pages**, bringing January–May 1919 local-newspaper coverage to **310 pages**. Ohio Dentists/Nash continues at 507½-over-Harding on 16 May; Farr Brothers appears in all five May market reports without address/proprietor; Theroux remains at 210 Seventh through 30 May. No source-explicit 501/503/505 occupant or target construction/property event was established; bounded coverage only.
+
+## 12 September 1919 — tin/repair shop moves just south of Post Office
+<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+The *Oregon City Enterprise* p.2 (`S-297` / `E-271`) directly reports that **S. Fesznecker (`P-398`) moved his tin and repair shop (`BUS-107`) from Broadway to the building just south of the post office**. Exact street number, parcel and formal trade name remain unresolved. This is a neighborhood spatial/business-move event, not a 501/503/505 assignment.
