@@ -1030,6 +1030,7 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 
 - Reconciled all **340** stale acquisition-time page labels in the twelve January–December continuation manifests to the completed 5 September visual-review records.
 - Marked **339 genuine intended-date pages** as visually verified and linked every manifest to its exact review capture (two captures for March).
+- Corrected eight stale manifest caveats that still said the now-reviewed scans required page-by-page visual review; the replacement wording preserves the separate annual-completeness limit.
 - Kept the known substituted-page exception explicit: the file exposed as 13 December sequence 21 was visually reviewed as a **27 December** page; the true 13 December page 21 remains unrecovered.
 - Added validator coverage for the twelve manifests' canonical review links, item counts, per-page status, file presence, SHA-256 values, and the substituted-page exception.
 - No annual status advanced: the Courier still has one true-page gap, and 1917 remains **IN PROGRESS** for the other documented title/directory gaps.

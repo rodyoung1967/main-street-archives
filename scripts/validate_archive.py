@@ -504,6 +504,13 @@ def validate_1917_courier_manifest_reconciliation() -> list[str]:
                 if not (ROOT / record).exists():
                     errors.append(f"{rel}: missing review record -> {record}")
 
+        completion_limit = str(data.get("annual_completion_limit", ""))
+        if "december-continuation" not in rel and (
+            "does not satisfy exhaustive annual newspaper review" not in completion_limit
+            or "require page-by-page visual review" in completion_limit.lower()
+        ):
+            errors.append(f"{rel}: stale or missing annual-completion limit")
+
         items = data.get("items", [])
         if not isinstance(items, list) or len(items) != expected_count:
             actual_count = len(items) if isinstance(items, list) else "non-list"
