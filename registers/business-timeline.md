@@ -314,3 +314,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | 11/18/25 Jul. 1919 | address not printed | Farr Brothers market-report provider | `BUS-104` | `E-269` | Brady Mercantile + Farr Brothers credit; no individual proprietor/address bridge to 505. |
 | 25 Jul. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-269` | Direct classified continues the Seventh Street address. |
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+| 29 Aug. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-270` | August Enterprise advertising directly continues the published address through 29 Aug. |
+| Aug. 1919 | address not printed | Farr Brothers market-report provider | `BUS-104` | `E-270` | All five Enterprise issues credit Farr Brothers with Brady Mercantile; no individual proprietor/address bridge to 505. |
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->

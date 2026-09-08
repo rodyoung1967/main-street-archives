@@ -118,3 +118,8 @@ The complete June local-newspaper scan pass (`S-294` / `E-268`) reviewed **56/56
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
 
 The July online scan pass (`S-295` / `E-269`) visually reviewed **38/38 exposed pages** — final Courier 3 Jul. plus Enterprise 4/11/18/25 Jul. — and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. This does **not** cover the inaccessible 17/24/31 Jul. Banner-Courier issues, which remain `MF-030`; no physical-work absence may be inferred across that gap.
+
+## August 1919 monthly visual addition
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+
+The complete online-exposed August Enterprise pass (`S-296` / `E-270`) visually reviewed **40/40 pages** and found no source-explicit target-frontage construction, demolition, rebuilding or remodeling event. Potential remodel hits were visually resolved as **Dr. Frank Mount's Ninth-and-Center residence** (15/22 Aug.) and the **Oswego post office** (29 Aug.). Banner-Courier remains unavailable online under `MF-030`, so this is bounded Enterprise coverage only and cannot prove that no target work occurred.

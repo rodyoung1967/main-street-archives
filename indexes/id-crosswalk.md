@@ -810,3 +810,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-152` / `E-136` → 18/25 Jul. cleaner/dyer repeat re-encountered, not duplicated.
 - `S-160` / `E-144` → 11 Jul. Gilbert Miller item re-encountered, not duplicated.
 - No target building, ownership or Wolf relation created from bounded July online coverage.
+
+## S-296 / E-270 — August 1919 online Enterprise visual batch
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+
+- `S-296` / `E-270` → `BUS-029` / `P-044`: Theroux Music House at 210 Seventh through 29 Aug.
+- `S-296` / `E-270` → `BUS-104`: Farr Brothers market-report continuation without address/proprietor.
+- `S-296` / `E-270` → existing `E-136` / `S-152`: cleaner/dyer repeat set reconfirmed, not duplicated.
+- `S-296` / `E-270` → `MF-030`: Banner-Courier 7/14/21/28 Aug. remain manual retrieval gaps.

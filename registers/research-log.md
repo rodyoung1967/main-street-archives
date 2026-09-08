@@ -986,3 +986,15 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 
 | 2026-09-07 | Completed July 1919 **online-exposed** Enterprise + final Courier scan-first visual audit | **38/38 online pages**: final Courier 3 Jul. 6/6 + Enterprise 4/11/18/25 Jul. 32/32. Corrected the title calendar: no 10 Jul. Courier issue is expected in institutional holdings; Banner-Courier begins 17 Jul. and 17/24/31 Jul. remain `MF-030` manual gaps. Cumulative Jan–Jul online visual coverage **404 pages**. No exact 501/503/505/505½ occupant or target construction/property event in the online pages. Existing cleaner `S-152`/`E-136` and Gilbert Miller `S-160`/`E-144` pages re-encountered without duplicate promotion. Theroux at 210 Seventh through 25 Jul.; Farr Brothers market credits without address/proprietor. Created `S-295` / `E-269`. |
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+## 2026-09-07 — August 1919 Enterprise full visual pass
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+
+- Preserved all five online Enterprise issues (1/8/15/22/29 Aug.), **40 pages**, retrieval commit `65001db`.
+- Visually inspected **40/40 actual scans**, including printed date/page identity; no source-association defect found.
+- Banner-Courier 7/14/21/28 Aug. remained online retrieval gaps under existing `MF-030`.
+- No source-explicit 501/503/505/505½ occupant or target structural/property event; bounded coverage only.
+- Reopened target-like remodel hits: Dr. Frank Mount's Ninth/Center residence on 15/22 Aug.; Oswego post-office remodel on 29 Aug.; all non-target.
+- Cleaner repeat ads reconfirm existing `S-152` / `E-136`; no duplicate evidence created.
+- Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers recurs without address/proprietor.
+- Integrated monthly batch as `S-296` / `E-270`; validation required before push.

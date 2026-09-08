@@ -65,3 +65,8 @@ The visually reopened **26 June Courier p6** and **27 June Enterprise p7** count
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
 
 Visually reviewed Enterprise market reports on **11, 18 and 25 July 1919** (`S-295` / `E-269`) credit **Brady Mercantile Company and Farr Brothers**. They print no exact address or individual Farr proprietor and do not bridge this concern to Edwin/Alice Farr or Farr's Pool Hall at 505 Main.
+
+## August 1919 market-report continuation
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+
+Visually reviewed Enterprise market reports on **1, 8, 15, 22 and 29 August 1919** (`S-296` / `E-270`) credit **Brady Mercantile Company and Farr Brothers**. A 29 August county/court expense list also prints `Farr Bros.` None gives an exact address or individual Farr proprietor; no bridge to Farr's Pool Hall at 505 is created.

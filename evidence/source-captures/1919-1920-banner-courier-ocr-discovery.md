@@ -48,3 +48,8 @@ Highest-priority manual searches in that microfilm interval:
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
 
 The July monthly scan workflow (`S-295` / `E-269`) corrected the issue calendar against institutional holdings: the final *Oregon City Courier* issue in the sequence is **3 July 1919**; the Courier/Banner merger occurred **8 July**; successor *Banner-Courier* holdings begin **17 July**. Direct PDF-route probes for **17, 24 and 31 July 1919** again returned no exposed online issue pages. Those dates remain **RETRIEVAL GAPS / `MF-030`**, not negative evidence. The 3 July Courier and all four July Enterprise issues were preserved and visually reviewed separately.
+
+## August 1919 monthly visual-pass reconfirmation
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+
+The August workflow (`S-296` / `E-270`) recovered and visually reviewed all **40 Enterprise pages** but again found no online Banner-Courier pages for **7/14/21/28 Aug. 1919**. The existing institutional microfilm route and `MF-030` remain controlling. This is a retrieval gap, not negative evidence.

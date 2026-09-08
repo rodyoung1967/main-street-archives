@@ -513,3 +513,13 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - Theroux remains at 210 Seventh through 25 Jul.; Farr Brothers appears in market reports without address/proprietor.
 - Full review: [evidence/source-captures/1919-july-online-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-july-online-enterprise-courier-visual-review-2026-09-07.md).
 - Next online chronological batch: **August 1919 Enterprise**; Banner-Courier remains `MF-030`.
+
+### 1919 August online-newspaper checkpoint
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+- **1919 remains IN PROGRESS.**
+- August Enterprise coverage: **40/40 online-exposed pages visually verified** (`S-296` / `E-270`); Jan–Aug cumulative online-exposed local-newspaper visual coverage: **444 pages**.
+- Banner-Courier 7/14/21/28 Aug. remains `MF-030` manual microfilm retrieval gap and is excluded from the visual count.
+- No exact 501/503/505/505½ occupant or target structural/property event was established in the August Enterprise pages; bounded coverage only.
+- Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers appears in all five market reports without address/proprietor; cleaner repeats reconfirm existing `E-136` without duplication.
+- Full review: [evidence/source-captures/1919-august-enterprise-visual-review-2026-09-07.md](evidence/source-captures/1919-august-enterprise-visual-review-2026-09-07.md).
+- Next chronological online batch: **September 1919 Enterprise**.

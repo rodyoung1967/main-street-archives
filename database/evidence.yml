@@ -4070,3 +4070,25 @@ evidence:
     notes: >-
       July is not a complete local-newspaper month because the successor Banner-Courier is unavailable online.
       No negative inference is made across the inaccessible issues.
+
+# 1919 August Enterprise visual review — 2026-09-07
+  - id: E-270
+    name: "August 1919 online visual review: bounded target coverage and repeated neighborhood controls"
+    type: Primary newspaper online scan batch with explicit manual retrieval gap
+    claims:
+      - 40/40 online-exposed August 1919 Enterprise pages visually verified.
+      - No source-explicit 501, 503, 505 or 505-half Main occupant or target physical-building event was established.
+      - Banner-Courier 7, 14, 21 and 28 August remain manual microfilm retrieval gaps under MF-030.
+      - Existing cleaner/dyer E-136 was reconfirmed but not duplicated.
+      - Theroux Music House continued at 210 Seventh Street through 29 August.
+      - Farr Brothers appeared in all five August Enterprise market reports without address or individual proprietor.
+      - Remodel candidates were visually resolved as Ninth-and-Center residential work and an Oswego post-office item.
+    confidence: Very High for visible online pages; retrieval gap for inaccessible Banner-Courier issues
+    related_sources: [S-296]
+    related_evidence: [E-136]
+    related_businesses: [BUS-104, BUS-029]
+    related_people: [P-044]
+    related_buildings: []
+    sources: [S-296]
+    notes: >-
+      August is not a complete local-newspaper month because Banner-Courier is unavailable online. No negative inference is made across inaccessible issues.

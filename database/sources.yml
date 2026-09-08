@@ -1922,3 +1922,10 @@ sources:
     notes: >-
       Primary July scan batch: 38/38 online-exposed pages visually verified. Final Courier 3 July
       plus four Enterprise issues; Banner-Courier 17, 24 and 31 July remain MF-030 manual retrieval gaps.
+
+# 1919 August Enterprise visual review — 2026-09-07
+  - id: S-296
+    name: "August 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap"
+    url: https://oregonnews.uoregon.edu/
+    notes: >-
+      Primary August scan batch: 40/40 Enterprise pages visually verified. Banner-Courier 7, 14, 21 and 28 August remain MF-030 manual retrieval gaps. No exact 501/503/505 occupant or target structural event was established.

@@ -2734,3 +2734,17 @@ Claims:
 - 25 Jul. directly continues Theroux Music House at 210 Seventh Street;
 - 11/18/25 Jul. market reports credit Farr Brothers without address or individual proprietor.
 Confidence: **Very High** for scan-visible wording and online-page coverage; **RETRIEVAL GAP** for Banner-Courier 17/24/31 Jul.; none for an unprinted target occupant/event.
+
+## E-270 — August 1919 online visual review: bounded target coverage and repeated neighborhood controls
+<!-- 1919 August Enterprise visual review — 2026-09-07 -->
+Type: Primary newspaper online scan batch with explicit manual successor-title gap.  
+Sources: `S-296`; existing exact-page cleaner control `S-152`.  
+Claims:
+- all **40/40 online-exposed August Enterprise pages** were visually inspected after printed title/date/page identity review;
+- no source-explicit 501/503/505/505½ occupant or target construction/property event was established in those pages;
+- August Banner-Courier issues remain manual retrieval gaps under `MF-030`;
+- existing cleaner/dyer `E-136` is visibly reconfirmed but not duplicated;
+- Theroux Music House continues at **210 Seventh Street through 29 August**;
+- all five August Enterprise market reports credit Farr Brothers without address or individual proprietor;
+- Frank Mount remodel references concern the residence at Ninth and Center; the post-office remodel reference is explicitly Oswego.
+Confidence: **Very High** for scan-visible wording and online-page coverage; **RETRIEVAL GAP** for inaccessible Banner-Courier issues; none for an unprinted target occupant/event.
