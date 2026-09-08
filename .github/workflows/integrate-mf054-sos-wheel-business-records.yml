@@ -1,0 +1,148 @@
+name: Integrate MF-054 SOS Wheel business records
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-mf054-sos-wheel-business-records.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Patch MF-054 into manual dashboard
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+
+          # Header amendment note.
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('Last amended:'):
+                  lines[i] = ('Last amended: **7 September 2026** — added **MF-054** for Oregon Secretary of State '
+                              'historical D & S Incorporated / Wheel assumed-business-name records; no existing MF ID was renumbered or removed.')
+                  break
+          text = '\n'.join(lines) + ('\n' if text.endswith('\n') else '')
+
+          row = ('| 22 | **MF-054** | Identify the historical Oregon Secretary of State registry/file records for '
+                 '**D & S Incorporated** and any assumed-business-name filings for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge** '
+                 'at 503 Main | A historical corporation/DBA filing could independently bracket the pre-Raye or Raye → Wiitanen '
+                 'business transition; pre-2009 registrations are held on microfiche and the live registry is not exposing the inactive file '
+                 '| **ACTIVE MANUAL — EMAIL DRAFT READY / PAID SEARCH OR COPIES REQUIRE APPROVAL**. '
+                 '[SOS request draft](registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md) |')
+
+          if '**MF-054**' not in text:
+              anchor = '| 21 | **MF-053**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-053 active-row anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+
+          batch = ('- **Oregon Secretary of State historical business records:** **MF-054** is a registration-file route, not ownership proof. '
+                   'First send the no-fee identification/guidance email. If staff requires the paid Old Stock Entity search or microfiche copies, '
+                   'obtain project-steward fee approval before submitting forms/payment. Keep this route separate from MF-053 liquor-license records '
+                   'and MF-048 503 real-estate/deed records.\n')
+          if batch not in text:
+              anchor = '- **1979 Wheel / 503 business-transition batch:** **MF-053**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-053 batching anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + batch + text[end+1:]
+
+          tracker = '| **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | — | — | **No** | — | No |'
+          if tracker not in text:
+              anchor = '| **MF-053** | **NOT SENT — FOUR ROUTES READY**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-053 tracker anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + tracker + '\n' + text[end+1:]
+
+          text = text.replace('The current practical list is the **21-item active queue in section 1**.',
+                              'The current practical list is the **22-item active queue in section 1**.')
+
+          section = '''\n\n---\n\n## 7 September 2026 — Oregon Secretary of State Wheel / D & S historical business-record route\n<!-- MF-054 Wheel D&S / DBA historical registry route — 2026-09-07 -->\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-054** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | **Yes** | Send the no-fee Corporation Division identification/guidance email first for **D & S Incorporated** and historical assumed-business-name records for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge, 503 Main, Oregon City**, using Raye/Rae LaFarlette/Grisham and Richard/Dick/Sheila Wiitanen only as search aids. Oregon SOS says pre-2009 business registrations are on microfiche; an old entity not found in the registry may require the **$10 Request for Search of Old Stock Entity**, and microfiche document/assumed-name files may require a paid Request for Copy. **Do not incur a fee without project-steward approval.** A filing date or entity formation date is registration evidence, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md`. |\n'''
+          if '## 7 September 2026 — Oregon Secretary of State Wheel / D & S historical business-record route' not in text:
+              text += section
+
+          p.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push dashboard integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then
+            echo 'MF-054 dashboard integration already present.'
+            exit 0
+          fi
+          git commit -m 'Add MF-054 Oregon business records follow-up'
+          for attempt in 1 2 3 4 5 6; do
+            if git push origin main; then
+              exit 0
+            fi
+            echo "main advanced; retrying MF-054 integration ($attempt)"
+            git fetch origin main
+            git reset --hard origin/main
+            python3 - <<'PY'
+          from pathlib import Path
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('Last amended:'):
+                  lines[i] = ('Last amended: **7 September 2026** — added **MF-054** for Oregon Secretary of State historical D & S Incorporated / Wheel assumed-business-name records; no existing MF ID was renumbered or removed.')
+                  break
+          text = '\n'.join(lines) + ('\n' if text.endswith('\n') else '')
+          row = '| 22 | **MF-054** | Identify the historical Oregon Secretary of State registry/file records for **D & S Incorporated** and any assumed-business-name filings for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge** at 503 Main | A historical corporation/DBA filing could independently bracket the pre-Raye or Raye → Wiitanen business transition; pre-2009 registrations are held on microfiche and the live registry is not exposing the inactive file | **ACTIVE MANUAL — EMAIL DRAFT READY / PAID SEARCH OR COPIES REQUIRE APPROVAL**. [SOS request draft](registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md) |'
+          if '**MF-054**' not in text:
+              pos = text.find('| 21 | **MF-053**')
+              if pos < 0: raise SystemExit('MF-053 active-row anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+          batch = '- **Oregon Secretary of State historical business records:** **MF-054** is a registration-file route, not ownership proof. First send the no-fee identification/guidance email. If staff requires the paid Old Stock Entity search or microfiche copies, obtain project-steward fee approval before submitting forms/payment. Keep this route separate from MF-053 liquor-license records and MF-048 503 real-estate/deed records.\n'
+          if batch not in text:
+              pos = text.find('- **1979 Wheel / 503 business-transition batch:** **MF-053**')
+              if pos < 0: raise SystemExit('MF-053 batching anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + batch + text[end+1:]
+          tracker = '| **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | — | — | **No** | — | No |'
+          if tracker not in text:
+              pos = text.find('| **MF-053** | **NOT SENT — FOUR ROUTES READY**')
+              if pos < 0: raise SystemExit('MF-053 tracker anchor not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + tracker + '\n' + text[end+1:]
+          text = text.replace('The current practical list is the **21-item active queue in section 1**.', 'The current practical list is the **22-item active queue in section 1**.')
+          section = '\n\n---\n\n## 7 September 2026 — Oregon Secretary of State Wheel / D & S historical business-record route\n<!-- MF-054 Wheel D&S / DBA historical registry route — 2026-09-07 -->\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-054** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | **Yes** | Send the no-fee Corporation Division identification/guidance email first for **D & S Incorporated** and historical assumed-business-name records for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge, 503 Main, Oregon City**, using Raye/Rae LaFarlette/Grisham and Richard/Dick/Sheila Wiitanen only as search aids. Oregon SOS says pre-2009 business registrations are on microfiche; an old entity not found in the registry may require the **$10 Request for Search of Old Stock Entity**, and microfiche document/assumed-name files may require a paid Request for Copy. **Do not incur a fee without project-steward approval.** A filing date or entity formation date is registration evidence, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md`. |\n'
+          if '## 7 September 2026 — Oregon Secretary of State Wheel / D & S historical business-record route' not in text:
+              text += section
+          p.write_text(text, encoding='utf-8')
+          PY
+            python3 scripts/validate_archive.py
+            git add MANUAL-FOLLOWUP.md
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git commit -m 'Add MF-054 Oregon business records follow-up'
+            sleep 2
+          done
+          exit 1
