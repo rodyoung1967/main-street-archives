@@ -64,6 +64,60 @@ YEAR_STATUS_REGISTER = ROOT / "registers" / "year-status.md"
 PHOTO_METADATA_REGISTER = ROOT / "media" / "photo-metadata-register.md"
 REPOSITORY_HISTORY_DIR = ROOT / "records" / "repository-history"
 
+COURIER_1917_RECONCILED_MANIFESTS = {
+    "newspapers/oregon-city-courier/1917-january-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-february-unsampled/manifest.json": (
+        28,
+        ("evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-march-unsampled/manifest.json": (
+        38,
+        (
+            "evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md",
+            "evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md",
+        ),
+    ),
+    "newspapers/oregon-city-courier/1917-april-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-may-unsampled/manifest.json": (
+        32,
+        ("evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-june-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-june-14-28-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-july-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-july-12-26-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-august-unsampled/manifest.json": (
+        26,
+        ("evidence/source-captures/1917-courier-august-09-30-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-september-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-october-unsampled/manifest.json": (
+        24,
+        ("evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-november-unsampled/manifest.json": (
+        32,
+        ("evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md",),
+    ),
+    "newspapers/oregon-city-courier/1917-december-continuation/manifest.json": (
+        40,
+        ("evidence/source-captures/1917-courier-december-13-27-year-end-review-2026-09-05.md",),
+    ),
+}
+
 RASTER_EXTENSIONS = {".gif", ".jpeg", ".jpg", ".png", ".tif", ".tiff", ".webp"}
 ALLOWED_RASTER_ROOTS = {
     ("artifacts", "images"),
@@ -424,6 +478,68 @@ def validate_json_files() -> list[str]:
     return errors
 
 
+def validate_1917_courier_manifest_reconciliation() -> list[str]:
+    """Keep acquisition manifests aligned with the completed 1917 visual reviews."""
+    errors: list[str] = []
+    special_page = ("1917-12-13", 21)
+
+    for rel, (expected_count, expected_records) in COURIER_1917_RECONCILED_MANIFESTS.items():
+        path = ROOT / rel
+        if not path.exists():
+            errors.append(f"{rel}: missing reconciled manifest")
+            continue
+        try:
+            data = json.loads(read_text(path))
+        except (OSError, UnicodeDecodeError, json.JSONDecodeError):
+            continue  # validate_json_files reports the parse failure.
+
+        records = data.get("review_records")
+        if records is None:
+            record = data.get("review_record")
+            records = [record] if record else []
+        if not isinstance(records, list) or tuple(records) != expected_records:
+            errors.append(f"{rel}: review record set does not match the canonical visual review")
+        else:
+            for record in records:
+                if not (ROOT / record).exists():
+                    errors.append(f"{rel}: missing review record -> {record}")
+
+        items = data.get("items", [])
+        if not isinstance(items, list) or len(items) != expected_count:
+            actual_count = len(items) if isinstance(items, list) else "non-list"
+            errors.append(f"{rel}: expected {expected_count} reviewed items, found {actual_count}")
+            continue
+
+        for item in items:
+            date = item.get("date")
+            sequence = item.get("sequence")
+            label = f"{rel} [{date} seq {sequence}]"
+            status = str(item.get("review_status", ""))
+            if "PENDING" in status or "PRIOR REVIEW" in status:
+                errors.append(f"{label}: stale review status -> {status}")
+            elif (date, sequence) == special_page:
+                if "MISASSOCIATED 27 DECEMBER PAGE" not in status or "RETRIEVAL GAP" not in status:
+                    errors.append(f"{label}: must preserve the substituted-page exception")
+            elif not status.startswith("VISUALLY VERIFIED"):
+                errors.append(f"{label}: expected visually verified status -> {status}")
+
+            filename = item.get("file")
+            if not filename:
+                errors.append(f"{label}: missing file name")
+                continue
+            page_path = path.parent / filename
+            if not page_path.exists():
+                errors.append(f"{label}: missing page file -> {filename}")
+                continue
+            expected_hash = item.get("sha256")
+            if not expected_hash:
+                errors.append(f"{label}: missing SHA-256")
+            elif file_sha256(page_path) != expected_hash:
+                errors.append(f"{label}: page SHA-256 mismatch -> {filename}")
+
+    return errors
+
+
 def validate_repository_history_archives() -> list[str]:
     """Verify repository-history manifests actually point to intact preserved archives."""
     errors: list[str] = []
@@ -767,6 +883,7 @@ def main() -> int:
     errors.extend(validate_year_status_register())
     errors.extend(validate_mirrored_names())
     errors.extend(validate_json_files())
+    errors.extend(validate_1917_courier_manifest_reconciliation())
     errors.extend(validate_repository_history_archives())
 
     if errors:

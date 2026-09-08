@@ -57,6 +57,7 @@ Twenty legacy relationship fields (`source`, `sources`, or `evidence`) appeared 
 ### 5. Moderate — review status and dashboard inconsistencies
 
 - Sixteen January–September 1919 Enterprise/Courier manifests still said retrieval-only after their documented visual reviews. Their current status and exact review-record path are now recorded. Banner-Courier July–September manifests remain retrieval gaps and were not upgraded.
+- Reconciled all **340** stale per-page labels in the twelve 1917 Courier continuation manifests against the canonical visual-review captures: **339 genuine intended-date pages** now say visually verified, while the inspected file served as 13 December sequence 21 is explicitly marked as a misassociated 27 December page. The true 13 December page 21 remains a retrieval gap. Each manifest now links its exact review record, and the validator checks item count, review state, page-file presence, SHA-256, and the substituted-page exception.
 - Corrected the 1919 year-status wording from “August–December remains” to “October–December remains,” consistent with the preserved August and September reviews.
 - Restored the missing active `MF-052` row in the dispatch tracker and removed a malformed duplicate `MF-056` row from the `MF-055` detail table. No manual-follow-up ID was renumbered or deleted.
 
@@ -92,8 +93,6 @@ These findings are documented but were not bulk-rewritten because doing so requi
 
 The source-side `related_evidence` lists are historically selective: every relationship they do declare is valid, but they do not attempt to mirror every evidence-to-source relationship. A future schema decision should establish whether reciprocity is mandatory before a migration is attempted.
 
-Twelve 1917 Courier acquisition manifests contain **340** per-page `PENDING` / `PRIOR REVIEW MAY EXIST` labels even though the later canonical year-status and review captures record **435 genuine Courier pages visually verified**, with the true 13 December page 21 still unresolved. These acquisition-time fields were not mass-overwritten because they need page-by-page reconciliation against the later review captures and the known substituted-page exception. Treat `registers/year-status.md` and the linked review captures as authoritative current state.
-
 Source-register serial numbers **030, 031, and 044** are unassigned gaps. They have no live references and no occurrence in recoverable Git history, so the audit found no evidence that source records were deleted. IDs were not renumbered or reused.
 
 ## Research completeness remains open
@@ -102,4 +101,4 @@ No year is certified `ONLINE COMPLETE` or `ONLINE + MANUAL COMPLETE`. Every annu
 
 ## Validation outcome
 
-`python3 scripts/validate_archive.py` passes after all repairs. The validator now guards the two failure classes that allowed the highest-impact defects: typed relationship misuse/legacy aliases and missing or altered repository-history archives.
+`python3 scripts/validate_archive.py` passes after all repairs. The validator now guards the failure classes that allowed the highest-impact defects: typed relationship misuse/legacy aliases, missing or altered repository-history archives, and regression of reconciled 1917 Courier page-review state.

@@ -1025,3 +1025,11 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Updated the 503/Flor structured chronology to the direct 28 March 1958 Wheel anchor, keeping May/August as later corroboration and preserving all ownership/transition limits.
 - Hardened `scripts/validate_archive.py` to enforce relationship types, reject legacy aliases, validate list-form repository paths, and verify repository-history archive presence/hash/size/readability. Full findings and intentionally unresolved normalization debt are in `registers/repository-integrity-audit-2026-09-08.md`.
 - No annual status advanced; all years remain **IN PROGRESS**. No OCR-only material was promoted and no unresolved historical question was silently resolved.
+
+### 8 September 2026 — 1917 Courier manifest-state reconciliation
+
+- Reconciled all **340** stale acquisition-time page labels in the twelve January–December continuation manifests to the completed 5 September visual-review records.
+- Marked **339 genuine intended-date pages** as visually verified and linked every manifest to its exact review capture (two captures for March).
+- Kept the known substituted-page exception explicit: the file exposed as 13 December sequence 21 was visually reviewed as a **27 December** page; the true 13 December page 21 remains unrecovered.
+- Added validator coverage for the twelve manifests' canonical review links, item counts, per-page status, file presence, SHA-256 values, and the substituted-page exception.
+- No annual status advanced: the Courier still has one true-page gap, and 1917 remains **IN PROGRESS** for the other documented title/directory gaps.
