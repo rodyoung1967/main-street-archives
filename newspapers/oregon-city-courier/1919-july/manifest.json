@@ -1,0 +1,60 @@
+{
+  "title": "Oregon City Courier",
+  "lccn": "sn00063698",
+  "year": 1919,
+  "month": "July",
+  "status": "RETRIEVAL ONLY \u2014 visual inspection required before certification; Banner-Courier missing issues remain retrieval gaps",
+  "issues": [
+    {
+      "date": "1919-07-03",
+      "page_count": 6,
+      "pages": [
+        {
+          "sequence": 1,
+          "file": "1919-07-03-seq-01.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-1.pdf",
+          "bytes": 772039,
+          "sha256": "1ce56d0a584bff3e7bb520fde70bfd74ae487c2fedce1899470236856610dfda"
+        },
+        {
+          "sequence": 2,
+          "file": "1919-07-03-seq-02.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-2.pdf",
+          "bytes": 730645,
+          "sha256": "2e14a3b0bb8b3f1b8daaeab238708e816eed5bfd1463c7fccf7dc5727011a918"
+        },
+        {
+          "sequence": 3,
+          "file": "1919-07-03-seq-03.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-3.pdf",
+          "bytes": 647026,
+          "sha256": "4962f66a3d337661b04e9772ebe15544966d5389cb5e8c691172d2b693b1b8be"
+        },
+        {
+          "sequence": 4,
+          "file": "1919-07-03-seq-04.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-4.pdf",
+          "bytes": 735205,
+          "sha256": "167113f466f05359cb2031727108f5e5ac949257ac614b12aca235df86ec0352"
+        },
+        {
+          "sequence": 5,
+          "file": "1919-07-03-seq-05.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-5.pdf",
+          "bytes": 713651,
+          "sha256": "52b31fe081538e1675c60997c567129c35a88972e3eb80bf0e5437d928f9817c"
+        },
+        {
+          "sequence": 6,
+          "file": "1919-07-03-seq-06.pdf",
+          "url": "https://oregonnews.uoregon.edu/lccn/sn00063698/1919-07-03/ed-1/seq-6.pdf",
+          "bytes": 729615,
+          "sha256": "913cb05274b690f921efa4e2fd6d22200e7937d3c5a106fe030aef8a26c2848b"
+        }
+      ]
+    }
+  ],
+  "retrieval_gaps": [],
+  "total_pages": 6,
+  "title_transition_note": "Institutional holdings end Oregon City Courier 3 July 1919; merger with Clackamas County Banner occurred 8 July; no 10 July Courier issue is expected."
+}

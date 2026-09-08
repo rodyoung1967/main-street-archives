@@ -1,0 +1,27 @@
+{
+  "title": "The Banner-Courier",
+  "lccn": "sn00063699",
+  "year": 1919,
+  "month": "July",
+  "status": "RETRIEVAL ONLY \u2014 visual inspection required before certification; Banner-Courier missing issues remain retrieval gaps",
+  "issues": [],
+  "retrieval_gaps": [
+    {
+      "date": "1919-07-17",
+      "status": "RETRIEVAL GAP \u2014 no online issue page exposed at tested Historic Oregon Newspapers PDF route",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1919-07-17/ed-1/seq-1.pdf"
+    },
+    {
+      "date": "1919-07-24",
+      "status": "RETRIEVAL GAP \u2014 no online issue page exposed at tested Historic Oregon Newspapers PDF route",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1919-07-24/ed-1/seq-1.pdf"
+    },
+    {
+      "date": "1919-07-31",
+      "status": "RETRIEVAL GAP \u2014 no online issue page exposed at tested Historic Oregon Newspapers PDF route",
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1919-07-31/ed-1/seq-1.pdf"
+    }
+  ],
+  "total_pages": 0,
+  "title_transition_note": "Institutional holdings begin Banner-Courier 17 July 1919; 1919 issues are not exposed in the Historic Oregon Newspapers digitized run and remain a microfilm/manual gap."
+}
