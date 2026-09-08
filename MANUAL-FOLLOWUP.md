@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **7 September 2026** — added **MF-053** for the unresolved 6 June 1979 Wheel applicant/application type and the Raye → Wiitanen business-transition record routes; no existing MF ID was renumbered or removed.
+Last amended: **7 September 2026** — added **MF-054** for Oregon Secretary of State historical D & S Incorporated / Wheel assumed-business-name records; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -75,6 +75,7 @@ Do not send unnecessary duplicate emails.
 - **Clackamas later ownership chain:** MF-034 has two complementary County requests: Assessment & Taxation for the parcel-first chronological owner/deed-reference record, then Recording for the legal conveyance. Keep both under one MF item because they answer the same transaction question from different County record series.
 - **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034's deed proof.
 - **1979 Wheel / 503 business-transition batch:** **MF-053** is separate from MF-052 (pre-Raye acquisition) and MF-048 (503 real-estate/deed chain). Its four routes all answer the later Raye → Wiitanen **business/license** transition and should preserve applicant/licensee, application type, and bounded no-hit scope without converting a liquor action into a sale.
+- **Oregon Secretary of State historical business records:** **MF-054** is a registration-file route, not ownership proof. First send the no-fee identification/guidance email. If staff requires the paid Old Stock Entity search or microfiche copies, obtain project-steward fee approval before submitting forms/payment. Keep this route separate from MF-053 liquor-license records and MF-048 503 real-estate/deed records.
 
 ---
 
@@ -257,6 +258,7 @@ All correspondence is **UNSENT** as of 5 September 2026, per the project steward
 
 | **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |
 | **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |
+| **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | — | — | **No** | — | No |
 
 When a request is sent, record the actual date, channel and exact request version. Do not place private payment information or unnecessary personal correspondence in the public repository. Preserve supplied historical files under canonical source folders when permission allows, visually inspect originals before promoting claims, and record precise no-hit scope when an institution reports that a series was checked without a target result.
 
@@ -266,7 +268,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **21-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
+The current practical list is the **22-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -395,3 +397,13 @@ Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-p
 
 **Separation rule:** MF-053 concerns the later **Raye → Wiitanen Wheel business/license transition at 503 Main**. It does not replace **MF-052** (pre-Raye Wheel acquisition/proprietor work) or **MF-048** (503 real-estate/deed chain), and it must not be mixed with the separate 505 Main tavern chain.
 
+
+
+---
+
+## 7 September 2026 — Oregon Secretary of State Wheel / D & S historical business-record route
+<!-- MF-054 Wheel D&S / DBA historical registry route — 2026-09-07 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-054** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | **Yes** | Send the no-fee Corporation Division identification/guidance email first for **D & S Incorporated** and historical assumed-business-name records for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge, 503 Main, Oregon City**, using Raye/Rae LaFarlette/Grisham and Richard/Dick/Sheila Wiitanen only as search aids. Oregon SOS says pre-2009 business registrations are on microfiche; an old entity not found in the registry may require the **$10 Request for Search of Old Stock Entity**, and microfiche document/assumed-name files may require a paid Request for Copy. **Do not incur a fee without project-steward approval.** A filing date or entity formation date is registration evidence, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md`. |
