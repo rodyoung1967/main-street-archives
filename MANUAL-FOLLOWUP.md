@@ -65,6 +65,8 @@ These are the **current high-value human actions**. They are ordered for the act
 
 | 21 | **MF-053** | Identify the **6 Jun. 1979 Wheel applicant/application type** through the City agenda/supporting packet, permanent OLCC Commission records, 6 Jun. 1979 *Enterprise-Courier* microfilm, and the 1980 Oregon City directory | Directly targets the unresolved **Raye → Wiitanen Wheel business transition at 503** without presuming that the generic 1979 liquor application was a transfer | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. [Request package](registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md) |
 
+| 22 | **MF-054** | Identify the historical Oregon Secretary of State registry/file records for **D & S Incorporated** and any assumed-business-name filings for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge** at 503 Main | A historical corporation/DBA filing could independently bracket the pre-Raye or Raye → Wiitanen business transition; pre-2009 registrations are held on microfiche and the live registry is not exposing the inactive file | **ACTIVE MANUAL — EMAIL DRAFT READY / PAID SEARCH OR COPIES REQUIRE APPROVAL**. [SOS request draft](registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
