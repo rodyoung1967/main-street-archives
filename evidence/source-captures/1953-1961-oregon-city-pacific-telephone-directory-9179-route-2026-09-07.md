@@ -2,7 +2,7 @@
 
 Date reviewed: **7 September 2026**
 
-Status: **CONTEMPORARY NEWSPAPER TEXT / DIRECTORY-SERIES CONTROL; TARGET 1953–1956 DIRECTORY IMAGES NOT RECOVERED; PHONE 9179 SUBSCRIBER UNRESOLVED.**
+Status: **CONTEMPORARY NEWSPAPER TEXT / DIRECTORY-SERIES CONTROL; TARGET 1953–1956 OREGON CITY DIRECTORY IMAGES NOT RECOVERED; PHONE 9179 SUBSCRIBER UNRESOLVED; PUBLIC-ONLINE ROUTES REASONABLY EXHAUSTED / MANUAL LOOKUP JUSTIFIED.**
 
 ## Purpose
 
@@ -39,6 +39,41 @@ The Oregon City Commission record of **7 January 1953** names **P. H. Sherlund, 
 Official route:
 `https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722848/File/document`
 
+## September 1955 Portland PT&T directory — useful exclusion control
+
+A surviving original **September 1955** Pacific Telephone and Telegraph Company Portland telephone directory is documented by a sold marketplace listing. The listing describes it as a **1,224-page** original and gives the explicit included-area field as:
+
+**Milwaukie, Oak Grove, Oswego, Burlington, Beaverton, Tigard, Gresham.**
+
+Marketplace bibliographic route:
+`https://www.ebay.com/itm/227195638705`
+
+The listing does **not** name Oregon City in that inclusion field. This is useful as a **source-scope exclusion control**: despite its near-perfect date proximity to the 20 November 1955 505 sale advertisement, the surviving Portland issue is not a defensible substitute for the separate Oregon City telephone directory.
+
+Evidence limit: this conclusion relies on seller-supplied marketplace metadata rather than inspection of every printed directory coverage page. It establishes only that the described Portland volume's stated inclusion list omits Oregon City. Do not infer that no subscriber in Oregon City could ever appear incidentally elsewhere in the volume, and do not treat the marketplace listing as a subscriber source.
+
+## 1956–1957 four-digit Oregon City number / Portland Olive-number control
+
+Digitized Polk Portland city-directory advertising provides a useful numbering-format control. A 1956 Portland-directory statewide advertisement lists its Oregon City office at **702 Main** with local **Phone 5228** while separately giving **Portland Phone: Olive 4-4308**. The 1957 volume similarly lists an Oregon City office at **901 Main Street — Phone 5228 (Portland Phone: Olive 4-4308)**.
+
+Discovery routes:
+- `https://ldsgenealogy.com/OR/books/Polks-Portland-city-directory-1956-part-4.htm`
+- `https://ldsgenealogy.com/OR/Polks-Portland-city-directory-1957.htm`
+
+This is a strong methodological reason **not** to convert the 1955 sale-ad number `9179` mechanically into `OLive 6-9179` or another Portland exchange number. Contemporary businesses could print a four-digit Oregon City number and a separate Portland Olive number in the same advertisement.
+
+These directory-ad controls do not identify subscriber 9179 and are not 505 occupancy evidence.
+
+## 1959 Oregon City telephone-directory survival lead
+
+A current marketplace-category index exposes a physical-volume listing titled:
+
+**“Oregon City Portland Centennial Telephone Directory Phone Book Yellow Pages 1959.”**
+
+This is a **bibliographic / physical-survival lead only**. The interior, publisher/title page, exact geographic scope, and subscriber pages have not been inspected in the current environment. The listing nevertheless supports the proposition that a separate Oregon City telephone-directory issue survives from the late 1950s and strengthens the plausibility of a 1953–1956 local-volume retrieval route.
+
+Do not use this listing to assert any 1959 505 occupant, business name, telephone number, or proprietor.
+
 ## Search result for phone 9179
 
 Targeted public-index searches were repeated for:
@@ -49,9 +84,26 @@ Targeted public-index searches were repeated for:
 - Well / Well's / Wells variants; and
 - Pacific Telephone / Oregon City telephone directory.
 
-No defensible public-index result identified the **Oregon City subscriber for 9179**. Statewide newspaper matches to the same four digits were rejected when they belonged to other cities, advertisements, pattern numbers, or unrelated contexts.
+No defensible public-index result identified the **Oregon City subscriber for 9179**. Statewide newspaper matches to the same four digits were rejected when they belonged to other cities, advertisements, pattern numbers, database identifiers, or unrelated contexts.
 
 This is a **retrieval gap / bounded online no-hit**, not evidence that the number was unlisted or that the 505 seller lacked a local telephone listing.
+
+## Public-online recovery exhaustion / manual threshold
+
+The current pass tested the practical open-web routes for a 1953–1956 Oregon City telephone directory, including broad catalog/index searches, Internet Archive/Open Library-style discovery, genealogy directory indexes, surviving Pacific Telephone books for other Oregon exchanges, local-history indexes, marketplace survival traces, and the contemporaneous Portland volume.
+
+The result is now sufficiently specific to justify a manual lookup:
+
+- Oregon City is independently documented as a local Pacific Telephone office in 1953;
+- a distinct Oregon City directory issue is explicitly documented by 1961;
+- an earlier local Oregon City PT&T directory survives for August 1932;
+- a 1959 Oregon City telephone-directory physical-volume lead survives;
+- the near-date September 1955 **Portland** PT&T volume has a stated coverage list that omits Oregon City; and
+- no target-year Oregon City scan or publicly inspectable subscriber page has been recovered.
+
+Accordingly, the target **1953–1956 Oregon City Pacific Telephone directory / subscriber 9179** is now a **MANUAL CALLOUT / RETRIEVAL GAP**, not merely an unattempted online lead. A focused local-library lookup is warranted; no institutional request has been sent.
+
+The best first local route is the **Clackamas County Family History Society, Wilmer Gardner Research Library**, located in the Museum of the Oregon Territory. Its current site states that the library holds thousands of books, photographs and publications and accepts research requests for people unable to visit. Use Oregon Historical Society Research Library only as a fallback if the local collection cannot locate the target issue; avoid duplicate simultaneous outreach.
 
 ## Why this matters for the 505 succession question
 
@@ -83,7 +135,7 @@ A 1950 census index places **Dal Wells**, born about 1924 in Utah, at **1306 Har
 
 ## Cross-record propagation audit
 
-This pass establishes no new 505 occupant, proprietor, business owner, tenant, licensee, building owner, business name date, or transition date. Therefore no timeline, building, business, person, YAML/database, source/evidence ID, or crosswalk fact is promoted. The useful result is the narrowed telephone-directory retrieval route and explicit no-hit boundary preserved here.
+This pass establishes no new 505 occupant, proprietor, business owner, tenant, licensee, building owner, business name date, or transition date. Therefore no timeline, building, business, person, YAML/database, source/evidence ID, or crosswalk fact is promoted. The useful result is the narrowed telephone-directory retrieval route, exclusion of the September 1955 Portland volume as a defensible Oregon City substitute, and promotion of the target local book to a precise manual retrieval gap.
 
 Related records:
 
