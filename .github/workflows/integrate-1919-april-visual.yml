@@ -23,6 +23,21 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
 
+      - name: Repair obsolete April timeline paths
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('scripts/integrate_1919_april_visual.py')
+          text = p.read_text(encoding='utf-8')
+          for path in ('timelines/address-occupancy-timeline.md', 'timelines/business-occupancy-timeline.md'):
+              pattern = rf'append_once\("{re.escape(path)}", MARKER, f\'\'\'.*?\n\'\'\'\)\n'
+              text, n = re.subn(pattern, '', text, count=1, flags=re.S)
+              if n != 1:
+                  raise SystemExit(f'Expected one obsolete block for {path}, found {n}')
+          p.write_text(text, encoding='utf-8')
+          PY
+
       - name: Compile integration script
         run: python3 -m py_compile scripts/integrate_1919_april_visual.py
 
