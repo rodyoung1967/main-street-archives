@@ -22,6 +22,27 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
 
+      - name: Fix multiline YAML relation handling
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1919_march_visual.py')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace(
+              "fm=re.search(rf'(?m)^    {re.escape(field)}:\\s*$\\n((?:      - .*\\n)*)',block)",
+              "fm=re.search(rf'(?m)^    {re.escape(field)}:\\s*$\\n((?:[ ]{4,8}- .*\\n)*)',block)"
+          )
+          text = text.replace(
+              "vals=[x.strip() for x in re.findall(r'(?m)^      -\\s*(.+?)\\s*$',fm.group(1))]",
+              "vals=[x.strip() for x in re.findall(r'(?m)^[ ]{4,8}-\\s*(.+?)\\s*$',fm.group(1))]"
+          )
+          text = text.replace(
+              "replacement=f'    {field}:\\n' + fm.group(1) + f'      - {value}\\n'",
+              "indent='      '\\n            first=re.search(r'(?m)^([ ]{4,8})-',fm.group(1))\\n            if first: indent=first.group(1)\\n            replacement=f'    {field}:\\n' + fm.group(1) + f'{indent}- {value}\\n'"
+          )
+          p.write_text(text, encoding='utf-8')
+          PY
+
       - name: Compile integration script
         run: python3 -m py_compile scripts/integrate_1919_march_visual.py
 
