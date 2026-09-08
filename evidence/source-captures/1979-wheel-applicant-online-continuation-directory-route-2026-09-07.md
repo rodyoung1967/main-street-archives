@@ -143,3 +143,86 @@ The current Wheel ownership bracket is unchanged but the search strategy is tigh
 The immediate highest-value target remains the **underlying 6 June 1979 application/agenda/OLCC material**, followed by the **1979 and 1980 directory pages**. The separate 1965–1969 directory / permanent OLCC route remains the priority for dating Raye/Floyd's first Wheel involvement and identifying the pre-Raye proprietor.
 
 No institutional request, purchase, email, phone call, or other outreach was made in this pass.
+
+---
+
+## 7 September 2026 continuation — 1979 statutory wording control and packet-access route
+
+### 7. 1979 Oregon law expressly treats renewals as applications
+
+The official **1979 Oregon Revised Statutes, chapter 471** materially changes how the 6 June 1979 City wording should be interpreted.
+
+Official historical statute PDF:
+
+`https://archives.oregonlegislature.gov/ORS_Archives/1979-Chapter-471.pdf`
+
+At **ORS 471.290(1)**, the statute states that a person desiring **a license or renewal of a license** must make application to the Oregon Liquor Control Commission on Commission forms. The same subsection says the form is to show, among other things:
+
+- the applicant's name and address;
+- the location of the place of business to be operated under the license;
+- other information required by the Commission.
+
+At **ORS 471.355(1)**, the statute states that, except for special beer licenses, **licenses and renewals** are issued for one year and expire on one of four quarter-end dates: **31 March, 30 June, 30 September, or 31 December**. A first license could be issued for less than a year under subsection (2).
+
+Classification: **DIRECT OFFICIAL STATUTORY SEARCHABLE TEXT / PAGE-IMAGE RE-CERTIFICATION RETRIEVAL GAP IN THIS CONTINUATION**. The official historical PDF was opened and the statutory text located, but repeated page-screenshot requests timed out. The searchable official text is retained as a legal/administrative interpretation control, not as a historical ownership event.
+
+Research consequence: the phrase **`liquor license application`** in the 6 June 1979 Oregon City minute is legally compatible with an ordinary **renewal application** as well as other licensing actions. The June timing also does not distinguish the category because annual licenses could expire at multiple quarter ends. Therefore:
+
+> **Do not describe the 6 June 1979 Wheel action as transfer-like, a probable ownership change, or a purchase date on the wording/timing alone.**
+
+It remains a high-value **dated licensing lead** inside the independently supported Raye → Wiitanen business-successor bracket, but the underlying form/packet is still required to identify the applicant and application type.
+
+The statutory form requirement makes the missing application especially valuable: if the relevant form survives, it should expose at least the applicant identity and business location and may contain the additional OLCC information needed to classify the action.
+
+### 8. City archive explicitly catalogs 1970–1979 `Agenda Packets and Minutes`
+
+Oregon City's current **Meeting Document Archive** explicitly provides a decade link labeled:
+
+**`1970 to 1979 City Commission Agenda Packets and Minutes`**
+
+Archive page:
+
+`https://www.orcity.org/1844/Meeting-Document-Archive`
+
+The page also says the City participates in the Oregon Records Management Solution and directs users to WebDrawer search or the Office of the City Recorder for assistance locating documents.
+
+In this continuation, the decade-specific WebDrawer link and generic public search route did not yield a retrievable 6 June 1979 packet. Public access therefore remains a **RETRIEVAL GAP**, not evidence that the packet or supporting application was never retained.
+
+Classification: **DIRECT CURRENT CITY HOLDINGS/ACCESS CONTROL; SPECIFIC 6 JUNE 1979 PACKET NOT RECOVERED**.
+
+This strengthens the next manual/public-records target: request or locate the **6 June 1979 City Commission agenda packet and liquor-license supporting material for The Wheel**, including any Police Chief recommendation, manager memo, cover sheet, returned OLCC form, or exhibit.
+
+### 9. 1978 municipal wording comparator
+
+Official Oregon City bound minutes for 1978, WebDrawer record **4746156**, contain other isolated actions using the generic phrase **`liquor license application`**, including approvals for a **7-11 Store** and the **Edgewater Inn**.
+
+Source:
+
+`https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4746156/File/document`
+
+A bounded search of that particular retrieved record did not expose The Wheel. This is used **only as a wording comparator and coverage statement**; it is not evidence that The Wheel had no 1978 licensing action elsewhere in the annual minutes.
+
+Classification: **DIRECT OFFICIAL SEARCHABLE MUNICIPAL TEXT / BOUNDED RECORD-LEVEL NO-HIT FOR WHEEL**.
+
+Research consequence: Oregon City used the generic `liquor license application` wording for routine isolated approvals in the surrounding period. Combined with the 1979 statute, this further blocks any attempt to infer `change of ownership` from the 6 June 1979 phrase itself.
+
+### 10. D & S Incorporated remains a lead, not a shortcut
+
+The separate repository pass on **D & S Incorporated** remains controlling. Modern aggregation associates the corporation with Sheila and Richard Wiitanen at 503 Main, but the Oregon Secretary of State historical filing, formation date, officers, and entity history have not been independently recovered from an official record. A previously surfaced registry number remains unverified.
+
+No official corporate record was recovered in this continuation. Do not use modern `established` dates, payphone metadata, or the unverified registry number to date the Raye → Wiitanen Wheel transaction.
+
+### 11. Revised 1979 evidence weight
+
+The current bracket remains:
+
+**Raye ownership (family/project-steward control) → 6 June 1979 unexplained Wheel licensing action → Richard M. Wiitanen directly documented as Wheel Cafe owner by August 1985 (`E-049`).**
+
+But the evidence weight of the middle point is now more precisely stated:
+
+- **Direct fact:** the City approved a liquor-license application for The Wheel on 6 June 1979.
+- **Not established:** applicant, licensee, application category, seller, buyer, ownership change, business-sale date, or real-estate transfer.
+- **Administrative/legal control:** under 1979 Oregon law, `application` encompassed both license and renewal applications.
+- **Best decisive source:** the City agenda/application packet or corresponding permanent OLCC agenda/exhibit/application material.
+
+No new `S-###`, `E-###`, `P-###`, `BUS-###`, or `IMG-####` identifier is assigned by this continuation. No ownership event is propagated to business, building, person, or timeline records because applicant identity and application type remain unresolved.
