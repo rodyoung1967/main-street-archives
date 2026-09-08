@@ -31,6 +31,10 @@ jobs:
           from urllib.request import Request, urlopen
           from urllib.error import HTTPError
 
+          # Institutional holdings establish the title transition:
+          # Oregon City Courier ends 3 Jul 1919; merger occurred 8 Jul;
+          # Banner-Courier holdings begin 17 Jul. There is therefore no
+          # expected 10 Jul Courier issue in this inventory.
           titles = {
               'oregon-city-enterprise': {
                   'name': 'Oregon City Enterprise',
@@ -41,7 +45,7 @@ jobs:
               'oregon-city-courier': {
                   'name': 'Oregon City Courier',
                   'lccn': 'sn00063698',
-                  'dates': ['1919-07-03','1919-07-10'],
+                  'dates': ['1919-07-03'],
                   'required': True,
               },
               'banner-courier': {
@@ -86,10 +90,14 @@ jobs:
                       print(meta['name'], day, 'RETRIEVAL GAP')
               manifest = {
                   'title': meta['name'], 'lccn': meta['lccn'], 'year': 1919, 'month': 'July',
-                  'status': 'RETRIEVAL ONLY — visual inspection required before certification; missing expected issues remain retrieval gaps',
+                  'status': 'RETRIEVAL ONLY — visual inspection required before certification; Banner-Courier missing issues remain retrieval gaps',
                   'issues': issues, 'retrieval_gaps': gaps,
                   'total_pages': sum(i['page_count'] for i in issues),
               }
+              if slug == 'oregon-city-courier':
+                  manifest['title_transition_note'] = 'Institutional holdings end Oregon City Courier 3 July 1919; merger with Clackamas County Banner occurred 8 July; no 10 July Courier issue is expected.'
+              if slug == 'banner-courier':
+                  manifest['title_transition_note'] = 'Institutional holdings begin Banner-Courier 17 July 1919; 1919 issues are not exposed in the Historic Oregon Newspapers digitized run and remain a microfilm/manual gap.'
               (out / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
           PY
 
