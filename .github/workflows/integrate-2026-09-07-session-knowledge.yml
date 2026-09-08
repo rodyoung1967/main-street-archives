@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/integrate_2026_09_07_session_knowledge.py'
+      - 'scripts/sync_2026_09_07_session_map_yaml.py'
 
 permissions:
   contents: write
@@ -37,7 +38,9 @@ jobs:
         run: python3 scripts/validate_archive.py
 
       - name: Integrate reconciled session knowledge
-        run: python3 scripts/integrate_2026_09_07_session_knowledge.py
+        run: |
+          python3 scripts/integrate_2026_09_07_session_knowledge.py
+          python3 scripts/sync_2026_09_07_session_map_yaml.py
 
       - name: Validate archive after integration
         run: python3 scripts/validate_archive.py
@@ -50,6 +53,7 @@ jobs:
             buildings/505-main.md \
             database/buildings.yml \
             database/evidence.yml \
+            database/maps.yml \
             database/sources.yml \
             evidence/evidence-register.md \
             evidence/source-register.md \
