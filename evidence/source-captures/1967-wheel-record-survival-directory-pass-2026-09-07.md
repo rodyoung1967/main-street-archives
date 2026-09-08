@@ -158,3 +158,58 @@ Classification: **DIRECT ACCESS/HOLDINGS CONTROL FOR THE PHYSICAL VOLUME; DIRECT
 ### C. Cross-record propagation audit
 
 This continuation changes **source-access state only**. It establishes that the City-posted EDR PDF lacks its promised Appendix D and improves the identifier for the 1967–68 physical-directory route. It establishes no new historical occupant, proprietor, owner, licensee, transaction, building event, or person-business link. Accordingly no business/person/building/timeline/YAML entity fact is manufactured from these access results. The existing `MF-052` directory/OLCC target remains the controlling next-step route.
+
+---
+
+## 7 September 2026 continuation — municipal wording control, Four Falls chronology, and phone-number caution
+
+### D. 11 November 1965 annual liquor batch explicitly uses renewal wording
+
+Official Oregon City Commission bound-minutes searchable text, WebDrawer record **4753762**, begins with the **11 November 1965 adjourned regular meeting**. In the licensing portion the Commission expressly moved **"to renew the liquor license applications"** for a multi-business list that includes **505 Tavern** and several other establishments.
+
+Source: `https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4753762/File/document` (`S-038` / `E-029` already register the 505 Tavern renewal control).
+
+Classification for this wording recheck: **OFFICIAL PRIMARY SEARCHABLE TEXT / VISUAL RE-CERTIFICATION RETRIEVAL GAP IN THIS CONTINUATION**. A fresh screenshot attempt returned a cache-miss error, so this continuation does not upgrade the page's visual state.
+
+Research use: this establishes that Oregon City minutes could and did explicitly label an annual liquor action as a **renewal**. Do not infer anything from The Wheel's absence from the displayed 1965 list; the useful point here is the City's wording convention, not a negative Wheel claim.
+
+### E. 23 March 1967 Four Falls Tavern had a separate pool/billiard permit action
+
+Official Oregon City Commission searchable text in WebDrawer record **4723339** places a **23 March 1967 special meeting** immediately before the printed **5 April 1967 regular meeting** heading. In the closing portion of the March 23 meeting the Commission approved a **pool and billiard permit for the Four Falls Tavern, 206 - 8th Street, Oregon City**.
+
+Source: `https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723339/File/document`.
+
+Classification: **OFFICIAL PRIMARY SEARCHABLE TEXT / VISUAL RE-CERTIFICATION RETRIEVAL GAP IN THIS CONTINUATION**. The searchable text supplies the meeting/date/address/permit wording; a fresh screenshot attempt returned a cache-miss error.
+
+This is **not a Wheel record** and does not connect Four Falls ownership to The Wheel. It is retained only because the later pre-7-June-1967 municipal liquor action mentions **The Wheel at 503 Main and Four Falls Tavern together**.
+
+### F. What the 1965/1967 wording comparison changes — and does not change
+
+The comparison modestly strengthens the reason to investigate the 1967 action rather than dismissing it automatically as a routine annual renewal:
+
+- in November 1965 the City explicitly called its multi-business action **renewals**;
+- Four Falls had a separate permit action on **23 March 1967**;
+- the later 1967 Wheel/Four Falls liquor action uses the more generic **liquor application** wording and does not identify applicant or transaction type.
+
+Classification: **PROBABLE / RESEARCH-PRIORITY INTERPRETATION ONLY**. This does **not** prove that the Wheel application represented a purchase, ownership change, new licensee, or LaFarlette acquisition. Historical licensing practice may permit other explanations. The underlying application/OLCC agenda-exhibit material remains necessary.
+
+### G. Modern phone-number metadata is internally inconsistent and is rejected as an ownership-date shortcut
+
+A modern Yellow Pages listing associates **The Wheel Bar and Grill, 503 Main** with **503-656-9717**, while a separate modern MerchantCircle listing for the same business/address gives **503-655-3121**.
+
+Routes checked:
+
+- Yellow Pages: `https://www.yellowpages.com/oregon-city-or/restaurants`;
+- MerchantCircle: `https://www.merchantcircle.com/the-wheel-bar-grill1-oregon-city-or`.
+
+Classification: **MODERN THIRD-PARTY DIRECTORY METADATA / NOT HISTORICAL OWNERSHIP EVIDENCE**. The conflicting later numbers show why modern listings cannot establish when the historical **9106** number changed or date a business transfer. Continue the phone-number approach only through contemporaneous telephone/city directories.
+
+### H. Southwest-Oregon exit search remains a bounded coverage result
+
+The indexed pre-Wheel chronology still has Floyd LaFarlette described as a Myrtle Hotel **operator** in May 1965. A bounded continuation did not expose a later 1965–1968 Myrtle Point/Coos County business item that would extend that indexed business trail before the suspected Oregon City interval.
+
+Classification: **BOUNDED ONLINE NO-HIT / COVERAGE STATEMENT ONLY**. This does not prove the LaFarlettes left Coos County at any particular date and is not an Oregon City arrival date.
+
+### I. Cross-record propagation audit
+
+This batch changes research interpretation and source-control context but establishes **no new Wheel owner, operator, licensee, purchaser, seller, transaction date, or 503 real-estate fact**. Accordingly it is preserved in this Wheel acquisition source capture without manufacturing a new business/person/building timeline event or new sequential `S-###` / `E-###` IDs. Existing `S-038` / `E-029` remain the registered 1965 renewal control. The 23 March Four Falls item is an adjacent-license chronology control only. The controlling next step remains recovery of the named applicant/application type in the 1967 Wheel liquor material.
