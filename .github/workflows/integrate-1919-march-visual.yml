@@ -23,15 +23,16 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
 
-      - name: Repair March YAML relation updater
+      - name: Repair March integration script
         run: |
           python3 - <<'PY'
           from pathlib import Path
+          import textwrap
           p = Path('scripts/integrate_1919_march_visual.py')
           text = p.read_text(encoding='utf-8')
           start = text.index('def update_yaml_relation(')
           end = text.index('\nif Path(CAPTURE).exists():', start)
-          fn = r'''def update_yaml_relation(path, entity_id, field, value):
+          fn = textwrap.dedent(r'''def update_yaml_relation(path, entity_id, field, value):
               p=Path(path); t=p.read_text(encoding='utf-8')
               m=re.search(rf'(?ms)^  - id: {re.escape(entity_id)}\n.*?(?=^  - id: |\Z)',t)
               if not m: return False
@@ -71,11 +72,13 @@ jobs:
               t=t[:m.start()] + block + t[m.end():]
               p.write_text(t,encoding='utf-8')
               return True
-          '''
-          # Remove the workflow/YAML indentation from the replacement function.
-          import textwrap
-          fn = textwrap.dedent(fn)
-          p.write_text(text[:start] + fn + text[end:], encoding='utf-8')
+          ''')
+          text = text[:start] + fn + text[end:]
+          text = text.replace(
+              'name: "March 1919 visual review: Cox to Rohberger license transfer and neighboring controls"',
+              'name: "March 1919 visual review: Cox→Rohberger license transfer and neighboring business controls"'
+          )
+          p.write_text(text, encoding='utf-8')
           PY
 
       - name: Compile integration script
