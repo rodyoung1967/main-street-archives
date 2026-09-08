@@ -1,0 +1,79 @@
+name: Fix MF-054 active dashboard row
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fix-mf054-active-row.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Ensure MF-054 active row exists
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+          row = '| 22 | **MF-054** | Identify the historical Oregon Secretary of State registry/file records for **D & S Incorporated** and any assumed-business-name filings for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge** at 503 Main | A historical corporation/DBA filing could independently bracket the pre-Raye or Raye → Wiitanen business transition; pre-2009 registrations are held on microfiche and the live registry is not exposing the inactive file | **ACTIVE MANUAL — EMAIL DRAFT READY / PAID SEARCH OR COPIES REQUIRE APPROVAL**. [SOS request draft](registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md) |'
+          if row not in text:
+              anchor = '| 21 | **MF-053**'
+              pos = text.find(anchor)
+              if pos < 0:
+                  raise SystemExit('MF-053 active row not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+          text = text.replace('The current practical list is the **21-item active queue in section 1**.', 'The current practical list is the **22-item active queue in section 1**.')
+          p.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then
+            echo 'MF-054 active row already present.'
+            exit 0
+          fi
+          git commit -m 'Fix MF-054 active follow-up row'
+          for attempt in 1 2 3 4 5 6; do
+            if git push origin main; then
+              exit 0
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+            python3 - <<'PY'
+          from pathlib import Path
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+          row = '| 22 | **MF-054** | Identify the historical Oregon Secretary of State registry/file records for **D & S Incorporated** and any assumed-business-name filings for **The Wheel / Wheel Cafe / Wheel Cafe & Lounge** at 503 Main | A historical corporation/DBA filing could independently bracket the pre-Raye or Raye → Wiitanen business transition; pre-2009 registrations are held on microfiche and the live registry is not exposing the inactive file | **ACTIVE MANUAL — EMAIL DRAFT READY / PAID SEARCH OR COPIES REQUIRE APPROVAL**. [SOS request draft](registers/research-requests/oregon-sos-wheel-ds-historical-business-records-request-2026-09-07.md) |'
+          if row not in text:
+              pos = text.find('| 21 | **MF-053**')
+              if pos < 0: raise SystemExit('MF-053 active row not found')
+              end = text.find('\n', pos)
+              text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+          text = text.replace('The current practical list is the **21-item active queue in section 1**.', 'The current practical list is the **22-item active queue in section 1**.')
+          p.write_text(text, encoding='utf-8')
+          PY
+            python3 scripts/validate_archive.py
+            git add MANUAL-FOLLOWUP.md
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Fix MF-054 active follow-up row'
+            sleep 2
+          done
+          exit 1
