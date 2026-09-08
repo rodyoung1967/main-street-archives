@@ -956,3 +956,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 | 2026-09-07 | Completed August 1917 Oregon City Enterprise scan-first visual audit | **40/40 genuine pages** for 3/10/17/24/31 Aug; cumulative **280 genuine pages through August**, **134 Sep–Dec slots remain**; existing Mar/Apr page gaps unchanged. Fashion Stable continues through 31 Aug; Farr Bros. market credits through 24 Aug with 31 Aug provider-line change not treated as closure; visual reinspection corrects Mrs. J. C. Napier from OCR-derived 612 to **512½ Main** in both Courier/Enterprise; Adams closing-out ad unnumbered. No exact target occupant. `S-287` / `E-261`. Cross-record propagation audit completed. |
 
 | 2026-09-07 | Completed September 1917 Oregon City Enterprise scan-first visual audit | **32/32 genuine pages** for 7/14/21/28 Sep; cumulative **312 genuine pages through September**, **102 Oct–Dec slots remain**; existing Mar/Apr page gaps unchanged. Fashion Stable continues through 28 Sep; Farr Brothers appears 14/28 Sep plus 14 Sep county expenditures with alternating market-report credits kept non-transfer evidence; created `BUS-105` for direct J. C. Penney/The Golden Rule Main-between-Fifth/Sixth phone-270 anchor. No exact target occupant. `S-288` / `E-262`. Cross-record propagation audit completed. |
+
+
+## 7 September 2026 — Wheel 1967 acquisition-inference audit
+<!-- wheel-1967-acquisition-inference-audit-2026-09-07 -->
+
+- Audited the 503 business timeline after the 1965–67 LaFarlette continuation.
+- Corrected an over-strong row that combined `E-025` and `E-022` under **By Jun. 1967**; the municipal liquor action and family purchase fact are now separate propositions.
+- Explicitly recorded that the **6 May 1965** Myrtle Hotel operator control is not a legal earliest-purchase boundary and the unnamed pre-7-Jun-1967 Wheel action is not a latest-purchase boundary.
+- No new owner, seller, licensee, transaction date, or sequential ID was created. Continued priority: named 1967 applicant/application type and 1965–69 directories.
