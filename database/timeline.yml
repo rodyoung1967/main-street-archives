@@ -1017,3 +1017,12 @@ timeline:
     related_sources:
       - S-292
 
+  - id: T-100
+    date: 16 May 1919
+    summary: Oregon City Enterprise reports alterations to the unlocated Wolf building nearing completion in a new-confectionery context, with a rustic front porch, side pergola and blue-and-white interior; no address, Wolf identity or proprietor is printed.
+    confidence: Very High for visible article wording and alteration details; unresolved for building location, Wolf identity and any connection to 503/505, Wolf & Miller or S. Wolf
+    related_evidence:
+      - E-267
+    related_sources:
+      - S-293
+

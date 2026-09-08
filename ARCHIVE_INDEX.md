@@ -478,3 +478,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
 - Full review: [evidence/source-captures/1919-april-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-april-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **May 1919 Enterprise + Courier**.
+
+## 1919 May complete visual batch
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- May local-newspaper coverage: **72/72 visually verified pages** (`S-293` / `E-267`); Jan–May cumulative **310 pages**.
+- 16 May: unlocated **Wolf building** alterations/new-confectionery lead; no address, Wolf identity or proprietor, and no 503/505 assignment.
+- Ohio Dentists at 507½-over-Harding on 16 May; Farr Brothers market-report continuation on all five Enterprise dates; Theroux at 210 Seventh through 30 May.
+- No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
+- Full review: [evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological batch: **June 1919 Enterprise + Courier**.

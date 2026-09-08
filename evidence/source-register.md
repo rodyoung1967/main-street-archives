@@ -2489,3 +2489,11 @@ Coverage: Courier 3/10/17/24 Apr., 24 pages; Enterprise 4/11/18/25 Apr., 32 page
 Repository originals: `newspapers/oregon-city-courier/1919-april/` and `newspapers/oregon-city-enterprise/1919-april/`.  
 Related evidence: `E-266`.  
 Notes: 18 Apr Enterprise p1 directly reports the Post Office's 15 Apr move to Fifth/Main into two combined store rooms owned by First National Bank and the Barlow-David heirs, creating an ownership-description conflict with the Sep 1918 Latourette report and a strong cross-source match to Block 26 Lots 5–6. Ohio Dentists continues at 507½-over-Harding on 11 Apr.; Farr Brothers market credits recur all four Enterprise issues; Theroux continues at 210 Seventh. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.
+
+## S-293 — May 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
+Coverage: Courier 1/8/15/22/29 May, 32 pages; Enterprise 2/9/16/23/30 May, 40 pages; **72/72 total**.  
+Repository originals: `newspapers/oregon-city-courier/1919-may/` and `newspapers/oregon-city-enterprise/1919-may/`.  
+Related evidence: `E-267`.  
+Notes: 16 May Enterprise p2 directly reports alterations of an unlocated `Wolf building` nearing completion in a new-confectionery context, with rustic porch/pergola and blue-white interior; no address, Wolf identity or proprietor is printed, so no link to Wolf & Miller, S. Wolf, 503 or 505 is made. Ohio Dentists continues at 507½-over-Harding on 16 May; Farr Brothers market credits recur all five Enterprise issues; Theroux continues at 210 Seventh through 30 May. No source-explicit 501/503/505 occupant; bounded coverage only.

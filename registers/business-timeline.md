@@ -300,3 +300,9 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Apr. 1919 | address not printed | Farr Brothers market-report provider | `BUS-104` | `E-266` | 4/11/18/25 Apr. Enterprise credits with Brady Mercantile; no proprietor/address bridge to 505. |
 | 25 Apr. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-266` | Direct April advertising continues the Seventh Street address. |
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+| 16 May 1919 | address not printed | New confectionery / “Wolf building” alterations | Unresolved | `E-267` | Article reports alterations nearing completion and physical improvements; no proprietor, Wolf identity or address. Do not assign to BUS-012, S. Wolf, 503 or 505. |
+| 16 May 1919 | 507½ Main | Ohio Dentists / Dr. J. G. Nash | `BUS-106` | `E-267` | Direct ad says 507½ Main, over Harding's Drug Store; Harding's own number not printed. |
+| May 1919 | address not printed | Farr Brothers market-report provider | `BUS-104` | `E-267` | 2/9/16/23/30 May Enterprise credits with Brady Mercantile; no proprietor/address bridge to 505. |
+| 30 May 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-267` | Direct May advertising continues the Seventh Street address. |
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->

@@ -782,3 +782,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-292` / `E-266` → `BUS-106` / `P-397` and Harding spatial context: 507½ Main over Harding's Drug Store on 11 Apr.
 - `S-292` / `E-266` → `BUS-104` Farr Brothers market-report continuation and `BUS-029` / `P-044` Theroux at 210 Seventh.
 - `T-099` → 15 Apr. 1919 Post Office move event.
+
+## S-293 / E-267 — May 1919 complete monthly local-newspaper visual batch
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-293` / `E-267` → unlocated **Wolf building** alteration/new-confectionery lead on 16 May; no entity/address bridge created.
+- `S-293` / `E-267` → `BUS-106` / `P-397` and `B-003` context: Ohio Dentists at 507½ Main over Harding's Drug Store on 16 May.
+- `S-293` / `E-267` → `BUS-104` Farr Brothers market-report continuation across all five Enterprise issues.
+- `S-293` / `E-267` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 30 May.
+- `T-100` → 16 May 1919 unlocated Wolf-building alteration event.

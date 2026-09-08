@@ -530,3 +530,8 @@ Continue exact-address searches for 501/503/505 and target construction/property
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
 
 **Priority: HIGH — ONLINE FIRST, then existing manual/property routes if needed.** The April monthly visual batch (`S-292` / `E-266`) directly dates the move to **15 Apr. 1919** and names **First National Bank + Barlow-David heirs** as owners of the two combined store rooms. Search 1919–1922 directories, postal notices, First National Bank/Latourette property references, deeds/assessments and federal Post Office lease/site records for an exact numbered bay and ownership reconciliation. Use the 1913 Block 26 Lot 5 Barlow/David + Lot 6 First National Bank sequence as a cross-source test, not as proof of a 1919 lot assignment. Preserve the 1918 Latourette ownership statement as a conflict until resolved.
+
+## May 1919 Wolf-building / confectionery identification route
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+**Priority: HIGH — ONLINE FIRST.** The 16 May 1919 Enterprise (`S-293` / `E-267`) directly documents substantial alterations to an unlocated **Wolf building** in a new-confectionery context. Search May–July 1919 Enterprise/Courier advertising and local items for the confectionery opening, porch/pergola descriptions, `Wolf building`, proprietor names, address wording and later business references. Cross-check 1919–20 directories and property/permit sources. Treat Wolf & Miller (`BUS-012`) and S. Wolf of Portland as separate candidates unless a contemporary source explicitly bridges identity or premises.

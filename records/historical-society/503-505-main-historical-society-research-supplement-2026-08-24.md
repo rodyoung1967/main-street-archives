@@ -266,3 +266,8 @@ Future Historical Society editions should incorporate this supplement only at th
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
 
 The 1919 monthly scan-first pass now directly dates the Post Office's actual move to **15 April 1919**. The 18 Apr. Enterprise says the Fifth/Main quarters combined two store buildings, one owned by First National Bank and one by the Barlow-David heirs. This strongly aligns with the independently verified 1913 Block 26 Lot 6 / Lot 5 owner sequence on the even side of Main and improves the spatial landmark opposite the 501/503/505 frontage. The exact numbered postal bay remains unresolved. The article also creates a contemporary conflict with the Sep. 1918 report that called the leased building M. D. Latourette-owned; the supplement should not present Latourette ownership as settled.
+
+## May 1919 unlocated Wolf-building alteration lead
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+The complete May 1919 scan-first pass (`S-293` / `E-267`) found a 16 May Enterprise report that alterations to **the Wolf building** were nearing completion in a new-confectionery context. The source does **not** print an address, Wolf identity or proprietor. It therefore cannot be used to date construction/remodeling at 503 or 505 and should not be connected to the 1918 Wolf & Miller business or 1922 S. Wolf property owner without independent evidence. It remains a potentially important clue for the unresolved c.1919/c.1920 building-change question.

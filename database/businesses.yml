@@ -138,6 +138,7 @@ businesses:
     - E-109
     - E-119
     - E-266
+    - E-267
 
     - E-219
     related_sources:
@@ -148,6 +149,7 @@ businesses:
     - S-121
     - S-133
     - S-292
+    - S-293
 
     - S-245
   - id: BUS-008
@@ -517,6 +519,7 @@ businesses:
     - E-120
     - E-265
     - E-266
+    - E-267
     related_sources:
     - S-120
     - S-121
@@ -525,6 +528,7 @@ businesses:
     - S-134
     - S-291
     - S-292
+    - S-293
 
   - id: BUS-030
     name: Mass's Hotel and Restaurant
@@ -1289,8 +1293,8 @@ businesses:
     related_people: [P-396]
   - id: BUS-104
     name: Farr Brothers Store / Meat Market
-    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266]
-    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292]
+    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266, E-267]
+    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292, S-293]
     repository_file: businesses/farr-brothers-store.md
     address: "1917 exact address unresolved; official Farr Store history places the business at 919 7th Street"
     notes: "25 May 1917 Enterprise directly calls Farr Brothers a Meat market; 1922 primary evidence says Grocers/Butchers; official City history associates Farr Brothers Store with Louis and Clarence Farr. No merge with Edwin/Alice Farr or 505 Main."
@@ -1315,5 +1319,5 @@ businesses:
       The lower-floor exact number for Harding is not printed; do not convert the relation
       into direct Harding-at-507 proof, property ownership, or construction evidence.
     related_people: [P-397]
-    related_evidence: [E-263, E-264, E-265, E-266]
-    related_sources: [S-289, S-290, S-291, S-292]
+    related_evidence: [E-263, E-264, E-265, E-266, E-267]
+    related_sources: [S-289, S-290, S-291, S-292, S-293]

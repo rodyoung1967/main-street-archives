@@ -152,3 +152,7 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | Fifth & Main — 15 Apr. 1919 Post Office combined rooms | Opposite/even side context; exact number unresolved | `evidence/source-captures/1918-1922-post-office-east-main-fifth-sixth-anchor.md` | U.S. Post Office | `E-266`; E-094 | 18 Apr. Enterprise says two store buildings owned by First National Bank and Barlow-David heirs were combined; strong cross-source alignment to Block 26 Lots 6 + 5, but no exact numbered postal bay. |
 | 507½ Main — 11 Apr. 1919 | Upstairs office; exact physical-building continuity unresolved | `businesses/ohio-painless-dentists.md` | BUS-106 | `E-266` | Ohio Dentists / Dr. J. G. Nash; directly described as over Harding's Drug Store. |
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+| 507½ Main — 16 May 1919 | Upstairs/internal geometry unresolved | `businesses/ohio-painless-dentists.md` | BUS-106 | `E-267` | Ohio Dentists / Dr. J. G. Nash; directly described as over Harding's Drug Store. |
+| Fifth & Main corner — 8–9 May 1919 | Public meeting-point control only; exact corner/bay not assigned | `evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md` | Memorial Day assembly | `E-267` | Courier/Enterprise describe assembly at Fifth and Main before proceeding to First Baptist Church; not an occupant or Post Office bay identification. |
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->

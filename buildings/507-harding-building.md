@@ -211,3 +211,8 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly 
 <!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
 
 `E-265` / `S-291` directly repeats Ohio Dentists at **507½ Main over Harding's Drug Store** on 14 and 21 March 1919. This extends the documented upstairs spatial relationship through **21 March** but still does not print Harding's lower-floor exact number, ownership, lease terms, construction date, or physical-building continuity.
+
+## May 1919 507½ office control
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+`E-267` / `S-293` directly continues Ohio Dentists / Dr. J. G. Nash at **507½ Main, over Harding's Drug Store**, on **16 May 1919**. The half-number is a direct address designation; the source does not establish floor geometry or print Harding Drug Store's own exact number.

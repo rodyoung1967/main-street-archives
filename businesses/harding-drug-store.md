@@ -112,3 +112,8 @@ This is direct evidence for the upstairs **507½** address and its published rel
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
 
 The visually verified **11 Apr. 1919 Enterprise p4** Ohio Dentists advertisement (`E-266` / `S-292`) again describes the **507½ Main** dental office as **over Harding's Drug Store**. This preserves the spatial relationship into April but still does not print Harding's own ground-floor number; `507 Main` remains a strong inference rather than a direct exact-address fact.
+
+## May 1919 507½-over-Harding continuation
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+The visually verified **16 May 1919 Enterprise p6** Ohio Dentists advertisement (`E-267` / `S-293`) again places the **507½ Main** dental office **over Harding's Drug Store**. It preserves the spatial relationship but does not directly print Harding's ground-floor street number.

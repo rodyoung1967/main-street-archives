@@ -341,3 +341,11 @@ The parlors' 1919 address remains unresolved. Do not project Cox's 1915 Main-bet
 2. Do lease, deed, assessment or bank/property records reconcile the **12 Sep. 1918 M. D. Latourette ownership description** with the **18 Apr. 1919 First National Bank + Barlow-David heirs ownership description**?
 3. Can the strong Block 26 **Lots 5–6** owner-geometry inference be converted into a direct lot/bay identification from a 1919 lease, directory, postal record or contemporary map?
 4. Once the postal bay is fixed, how tightly does it constrain 1921–22 `opposite Post Office` wording at 505½ Main and Miller's Shoe Store?
+
+## May 1919 “Wolf building” questions
+<!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
+
+1. Where was the **Wolf building** whose alterations were nearing completion on 16 May 1919?
+2. Who owned or controlled that building, and who opened/operated the new confectionery?
+3. Is the `Wolf` name connected to the unidentified Wolf partner in Wolf & Miller, to **S. Wolf of Portland** in 1922, to another Wolf family, or merely to a building name with no relevant identity continuity?
+4. Can contemporary advertisements, permits, directories, deeds or later confectionery references supply a numbered address without projecting the later 1922 property evidence backward?
