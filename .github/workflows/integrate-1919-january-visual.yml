@@ -33,12 +33,14 @@ jobs:
           if old in text:
               text = text.replace(old, new, 1)
           replacements = {
+              'PERS = next_id("people/people-index.md", "P")': 'PERS = next_id("database/people.yml", "P", r"(?m)^\\s*- id: P-(\\d+)\\s*$")',
               'append_once("database/sources.yml", MARKER, MARKER + "\\n" + sources_yaml)': 'append_once("database/sources.yml", YAML_MARKER, YAML_MARKER + "\\n" + sources_yaml)',
               'append_once("database/evidence.yml", MARKER, MARKER + "\\n" + evidence_yaml)': 'append_once("database/evidence.yml", YAML_MARKER, YAML_MARKER + "\\n" + evidence_yaml)',
               'append_once("database/businesses.yml", MARKER, MARKER + "\\n" + business_yaml)': 'append_once("database/businesses.yml", YAML_MARKER, YAML_MARKER + "\\n" + business_yaml)',
               'append_once("database/people.yml", MARKER, MARKER + "\\n" + person_yaml)': 'append_once("database/people.yml", YAML_MARKER, YAML_MARKER + "\\n" + person_yaml)',
               '    lines.insert(insert_at + 1, MARKER)\n': '',
-              '- No `B-005`/`B-001`/`B-002` event is created from the January 501/503/505 no-hit.': '- No 501/503/505 building event is created from the January no-hit.'
+              '- No `B-005`/`B-001`/`B-002` event is created from the January 501/503/505 no-hit.': '- No 501/503/505 building event is created from the January no-hit.',
+              'name: "January 1919 visual review — 507½ Harding relation and Pantorium 500"\n    type: Primary newspaper scan batch\n    sources: [{S}]': 'name: "January 1919 Enterprise/Courier visual review: 507½ Harding relation and Pantorium 500"\n    type: Primary newspaper scan batch\n    confidence: Very High for scan-visible wording; strong inference only for Harding exact ground-floor number\n    claims:\n      - 70/70 recovered January 1919 newspaper pages visually verified.\n      - Ohio Dentists directly at 507½ Main over Harding Drug Store; Pantorium Cleaners directly at 500 Main.\n    related_sources: [{S}]\n    sources: [{S}]'
           }
           for a, b in replacements.items():
               text = text.replace(a, b)
