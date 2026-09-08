@@ -68,24 +68,29 @@ Newton's saved Quality restaurant is reported across the way from the laundry (`
 
 See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
 
-## September 1953 — `Al & Marge Kwality Cafe`
+## August 1953 claims — `Al & Marge Kwality Cafe`
 <!-- Flor Kwality 1953 continuity bridge — 2026-09-06 -->
 
-Official Oregon City Commission searchable text for the September 1953 finance report names **`Al & Marge Kwality Cafe`**. This is the first recovered dated city record in the current archive that combines personal first names with the **Kwality Cafe** business style in the early-1950s period.
+Official Oregon City Commission searchable text is now more precisely placed than the earlier generic `September 1953 finance report` wording. The **2 September 1953** regular meeting lacked a quorum and adjourned; at the **10 September 1953 adjourned regular meeting**, the City Recorder presented **claims against the City for August 1953**, and the official searchable claims list includes **`Al & Marge Kwality Cafe`**.
 
-The same research pass found that the City's 902 Fifth Street historic inventory identifies **Fred Remus as a cook at the Kwality Cafe in 1953**. Combined with the December 1951 liquor-license approval for **Albert D. Flor and Margaret Remus** and the City's 1957 secondary control for **Mr./Mrs. Albert D. Flor managing the restaurant/cocktail bar at 503 Main**, the evidence creates a strong continuity hypothesis that the 1953 `Al & Marge` style may refer to Flor and Margaret Remus.
+This is therefore a dated **City payee/vendor control for the August 1953 claims period**, not merely a loose September business mention. The recovered text gives no surnames or address, and OCR/table-column alignment is insufficient to assign a reliable payment amount or purpose. The page image has not been successfully rendered through the current route.
 
-Limits remain material: the 1953 finance line gives **no address or surnames**, the 1951 license list gives **no trade name/address**, and Fred Remus's relationship to Margaret is unknown. Preserve `Al & Marge Kwality Cafe` as a dated business-style control and do not yet treat Flor/Remus identity, ownership, or exact 503 occupancy in September 1953 as directly proved.
+The same research stream found that the City's 902 Fifth Street historic inventory identifies **Fred Remus as a cook at the Kwality Cafe in 1953**. Combined with the December 1951 liquor-license approval for **Albert D. Flor and Margaret Remus** and the City's later secondary control for **Mr./Mrs. Albert D. Flor managing the restaurant/cocktail bar at 503 Main**, the evidence creates a strong continuity hypothesis that the 1953 `Al & Marge` style may refer to Flor and Margaret Remus.
+
+Limits remain material: the 1953 claims row gives **no address or surnames**, the 1951 license list gives **no trade name/address**, Fred Remus's relationship to Margaret remains unproved, and no source yet directly identifies Margaret Remus as Mrs. Albert Flor. Preserve `Al & Marge Kwality Cafe` as a dated municipal business-style/payee control and do not yet treat Flor/Remus identity, ownership, licensing, or exact 503 occupancy in August 1953 as directly proved.
 
 Official 1953 Commission PDF: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4752017/File/document  
-City 902 Fifth historic-resource record: https://www.orcity.org/2072/902-5th-Street
+City 902 Fifth historic-resource record: https://www.orcity.org/2072/902-5th-Street  
+Continuation capture: [1951–1958 Flor/Remus/Kwality/Wheel city-record continuation](../evidence/source-captures/1951-1958-flor-remus-kwality-wheel-city-record-continuation-2026-09-07.md)
 
 ## 1957 → 1958 Kwality/Flor → Wheel transition bracket
 <!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
 
-The early-1950s continuity evidence now has a firm later boundary. The City's 1957 historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. Albert D. Flor** with the restaurant/cocktail-bar operation at **503 Main**. The visually verified **22 August 1958** advertisement (`E-255` / `S-282`) directly identifies **WHEEL CAFE & LOUNGE at 503 Main, phone 9106**.
+The early-1950s continuity evidence has a firm later boundary but the 1957 endpoint remains **official-secondary**. The City's historic-resource synthesis (`E-032` / `S-026`) places **Mr. and Mrs. Albert D. Flor** with the restaurant/cocktail-bar operation at **503 Main** in 1957. The underlying `Historic Oregon City` publication/page has not been recovered; the City's bibliography cites it as 1957, while surviving related/exact-title copies are cataloged as undated or circa 1954–55. Do not move the Flor endpoint to 1955 from that catalog metadata, but also do not describe the underlying booklet as a scan-certified 1957 primary source.
 
-Together with the 1953 **`Al & Marge Kwality Cafe`** line, these records make 1957–1958 the critical transition interval. They do **not** directly prove that `Al & Marge` were Flor/Remus, that Kwality was formally renamed The Wheel, that Flor owned either business, or that the Flor household sold to Raye. Preserve those as research hypotheses until a proprietor/license/transfer record names the parties and trade name.
+The visually verified **22 August 1958** advertisement (`E-255` / `S-282`) directly identifies **WHEEL CAFE & LOUNGE at 503 Main, phone 9106**. Together with the 1953 **`Al & Marge Kwality Cafe`** line, these records make 1957–1958 the critical transition interval. They do **not** directly prove that `Al & Marge` were Flor/Remus, that Kwality was formally renamed The Wheel, that Flor owned either business, or that the Flor household sold to Raye. Preserve those as research hypotheses until a proprietor/license/transfer record names the parties and trade name.
+
+See the [city-record continuation](../evidence/source-captures/1951-1958-flor-remus-kwality-wheel-city-record-continuation-2026-09-07.md) for the source-provenance distinction.
 
 ## 16 May 1958 — earlier Wheel endpoint for the Kwality/Flor transition
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
