@@ -70,7 +70,7 @@ If a decisive item is found, visually capture the original microfilm page and sy
 
 This route complements rather than replaces:
 
-- the original 1953 Salisbury directory / FamilySearch catalog 95422 / Gale Oregon City Reel 26 route;
+- the original **1953 T. W. Salisbury** directory through gated Ancestry/MyHeritage images, Gale / Research Publications Oregon City Reel 26, Library of Congress microfilm, or another independent institutional copy; **FamilySearch catalog 95422 is excluded because it is an R. L. Polk series beginning in 1960**;
 - late-1953/1954 Oregon City liquor-license proceedings;
 - OLCC legacy license-history / tradename / microfiche routes;
 - Clackamas County assumed-business-name records for the missing 1936–58 holdings interval;
