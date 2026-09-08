@@ -821,3 +821,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 
 | S-297 | E-271 | P-398 | BUS-107 | — | 12 Sep. 1919 Enterprise p2: Fesznecker tin/repair shop move from Broadway to building just south of Post Office |
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## SM-010 / S-298 / E-272 — corrected 1911 Fifth/Main map and steward structural comparison
+- `SM-010` → `S-298` → `maps/sanborn/originals/1911-16 (5th-Main).pdf`: correct November 1911 Sanborn Sheet 16 for the downtown Fifth/Main target frontage.
+- `E-272` → `S-149`, `S-298`, `S-021`, `S-033` → `B-002` (also target-frontage context `B-005` / `B-001`): steward visual synthesis rejecting c.1908 as the surviving/current 505 construction date while retaining the 1911–1925 physical-change bracket.
+- `SM-007` / `S-020` remains the separate Canemah Sheet 22 geographic-control source.

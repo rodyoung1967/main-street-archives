@@ -2529,3 +2529,14 @@ Coverage: Enterprise 5/12/19/26 Sep., 32 pages; Banner-Courier 4/11/18/25 Sep. *
 Repository originals: `newspapers/oregon-city-enterprise/1919-september/`; gap manifest `newspapers/banner-courier/1919-september/manifest.json`.  
 Related evidence: `E-271`.  
 Notes: 12 Sep. p2 directly reports S. Fesznecker moving his tin and repair shop from Broadway to the building just south of the post office. No exact 501/503/505/505½ occupant or target structural event was established.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## S-298 — Sanborn Fire Insurance Map, Oregon City, November 1911, Sheet 16 — Fifth/Main target block
+Type: Primary fire-insurance map scan; **VISUALLY VERIFIED in project 1911→1925 comparison**.  
+Date: November 1911.  
+Sheet: **16**.  
+Repository: `maps/sanborn/originals/1911-16 (5th-Main).pdf`.  
+SHA-256: `ffd9349d0c88fff7ce31f70cba115163296ae6b4dd19b6e7e6fb044cc1e319dd`.  
+Map ID: `SM-010`.  
+Related evidence/buildings: `E-272`; `B-005`, `B-001`, `B-002`.  
+Notes: This is the correct downtown Fifth/Main sheet for the later 501/503/505 frontage. The earlier registered 1911 Sheet 22 (`SM-007` / `S-020`) is Canemah and remains a valid geographic-control source, not the target block. Visual comparison with `S-021` / 1925 Sheet 6 shows changed storefront/footprint geometry by 1925; the map does not itself date each demolition or rebuild.

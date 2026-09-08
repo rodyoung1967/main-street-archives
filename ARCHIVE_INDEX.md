@@ -534,3 +534,8 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - No source-explicit 501/503/505/505½ occupant or target physical-building event established in September Enterprise.
 - Full review: `evidence/source-captures/1919-september-enterprise-visual-review-2026-09-07.md`.
 - Next chronological batch: **October 1919 Enterprise**.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## 1910 photograph / 1911–1925 structural reconciliation — 7 September 2026
+
+- [Steward photo/map reconciliation](evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md): preserves the explicit visual rejection of a literal 1908 surviving-505 construction date, registers corrected downtown 1911 Sanborn Sheet 16 as `SM-010` / `S-298`, and reconciles the focused 1922 research without duplicating later integrated evidence. Related evidence: `E-272`.

@@ -2762,3 +2762,18 @@ Claims:
 - no source-explicit 501/503/505/505½ occupant or target construction/property event was established in the online pages;
 - September Banner-Courier issues remain manual retrieval gaps under `MF-030`.
 Confidence: **Very High** for scan-visible wording and page coverage; **RETRIEVAL GAP** for inaccessible Banner-Courier issues; none for an unprinted numbered target address.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## E-272 — Steward visual comparison rejects c.1908 as surviving 505 construction date
+Type: Project-steward visual observation / primary photo-and-map cross-source synthesis.  
+Sources: `S-149`, `S-298`, `S-021`, `S-033`.  
+Record: `evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md`.  
+Claims:
+- The 1910 CCHS Young's Secondhand Store photograph (`S-149` / `E-134`) visibly shows the **505** address in the earlier frontage.
+- The project steward identifies that 1910 frontage as the same **predecessor-building appearance** seen in the project's flood-era photographs.
+- The correct 1911 downtown Sanborn Sheet 16 (`S-298` / `SM-010`) and the 1925 Sheet 6 (`S-021`) show a materially different 501/503/505 storefront/footprint arrangement.
+- Fifth Street is 60 feet wide on both target sheets; the relevant change is building/storefront geometry, not a proved street narrowing.
+- Taken with the City's later survey correction (`S-033`), this is strong evidence that **c.1908 must not be used as the construction date of the surviving/current 505 building**.
+- The comparison does **not** date the replacement precisely or choose between the competing 1922 Gates/Wolf storefront models.
+Classification: **HIGH-CONFIDENCE PROJECT-STEWARD VISUAL SYNTHESIS for rejecting a literal 1908 surviving-building date; exact replacement date remains unresolved.**  
+Confidence: Very High for the registered map-geometry change; High for the steward photograph-to-flood-era building match; none for a precise construction year beyond the 1911–1925 bracket.

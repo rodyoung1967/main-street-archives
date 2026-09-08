@@ -91,3 +91,10 @@ Newton → 427 is **PROBABLE / WORKING HYPOTHESIS**, not a direct proprietor/add
 The focused session strengthens the **research priority** of the 1922 fire/property/rebuild sequence but does not yet prove which surviving modern storefront(s) were erected or materially altered in that event. The physical change between the corrected 1911 target map and the 1925 Sanborn remains established; the exact 503/505 construction/reconfiguration date remains unresolved.
 
 No absence of a recovered permit, deed, construction notice, or address was treated as evidence that the event did not occur.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## 7 September 2026 reconciliation — steward visual comparison and map registration
+
+The remaining session knowledge is now formally preserved in `evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md` as `E-272`. The steward explicitly identifies the 1910 505 frontage as the earlier predecessor-building appearance also seen in flood-era photographs and notes that the 1911→1925 comparison does not match the later storefront width/footprint. The correct 1911 downtown Sheet 16 binary was already preserved but is now formally registered as `SM-010` / `S-298`.
+
+This reinforces the existing conclusion: **c.1908 is not a defensible construction date for the surviving/current 505 building; 1911–1925 is the stronger physical-change bracket.** It does not select a precise construction year or a Gates/Wolf storefront model. The later Newton/Quality, Freeze, pool-hall, Miller and 1922 rebuild results were already integrated elsewhere and were not duplicated.

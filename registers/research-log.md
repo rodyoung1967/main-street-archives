@@ -1008,3 +1008,11 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Theroux p7 ads visibly read **210 Seventh**, correcting OCR `110`.
 - No exact 501/503/505/505½ occupant or target structural/ownership event recovered; bounded coverage only.
 - Banner-Courier 4/11/18/25 Sep. remains `MF-030` retrieval/manual gap.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+### 2026-09-07 — reconciled focused 1911–1925 construction research and steward observation
+- Re-synchronized against current `main`; later parallel commits already contained the session's verified 1922 property/fire/rebuild, Freeze 505½, pool-hall caution, Gilbert Miller relocation and Newton/Quality follow-up. Those facts were **not duplicated**.
+- Preserved the project steward's explicit visual conclusion as `E-272`: the 1910 Young/505 frontage is the earlier predecessor-building appearance also seen in flood-era photographs, while the corrected 1911→1925 map comparison shows changed storefront/footprint geometry. This rejects c.1908 as the surviving/current 505 construction date without inventing an exact replacement year.
+- Formally registered the already-preserved correct downtown 1911 Sanborn Sheet 16 as `SM-010` / `S-298`; retained Sheet 22 as Canemah geographic control.
+- Preserved two below-promotion session leads in the reconciliation capture: a commercial 1908 property-data value lacked parcel-specific official confirmation, and a 21 July 1922 "vacant half of a store building" wording remains OCR/TEXT-ONLY pending visual verification.
+- Propagation audit: building, map, source/evidence registers/YAML, crosswalk, archive index and checkpoint updated. No person/business/timeline fact manufactured because this integration adds structural interpretation rather than a new dated historical event.

@@ -4111,3 +4111,17 @@ evidence:
     related_people: [P-398, P-044]
     related_buildings: []
     sources: [S-297]
+
+# 2026-09-07-session-1910-1925-structural-reconciliation
+  - id: E-272
+    name: "Steward visual comparison rejects c.1908 as surviving 505 construction date"
+    type: "Project-steward visual observation and primary photo/map cross-source synthesis"
+    claims:
+      - "The 1910 Young's Secondhand Store photograph visibly shows 505 in the earlier frontage; the project steward identifies that frontage as the predecessor-building appearance also seen in flood-era photographs."
+      - "Correct 1911 Sanborn Sheet 16 and 1925 Sheet 6 show materially different 501/503/505 storefront/footprint geometry; Fifth Street itself is 60 feet wide on both target sheets."
+      - "Together with the City's later survey correction, c.1908 must not be used as the construction date of the surviving/current 505 building."
+      - "The comparison does not prove an exact replacement date or select a 1922 Gates/Wolf storefront model."
+    confidence: "Very High for map-geometry change; High for steward photo/flood-era visual match; exact construction year unresolved within the 1911-1925 bracket"
+    related_sources: [S-149, S-298, S-021, S-033]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md"

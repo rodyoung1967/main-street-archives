@@ -87,3 +87,15 @@ maps:
       - B-002
       - B-003
     notes: Useful comparison with 1925 for mid-century changes around 503/505/507 Main. Visually verified August 2026 during E-102 footprint pass.
+
+# 2026-09-07-session-1910-1925-structural-reconciliation
+  - id: SM-010
+    source_id: S-298
+    title: 1911 Sanborn Sheet 16, Fifth/Main target block
+    date: November 1911
+    source_status: Canonical binary PDF committed at maps/sanborn/originals/1911-16 (5th-Main).pdf; visually verified in the project 1911-to-1925 target-frontage comparison.
+    related_buildings:
+      - B-005
+      - B-001
+      - B-002
+    notes: Correct downtown Fifth/Main sheet for the later 501/503/505 frontage. Visual comparison with 1925 Sheet 6 shows changed storefront/footprint geometry but does not date each demolition or rebuild. SM-007 / S-020 Sheet 22 is Canemah and remains geographic control only.

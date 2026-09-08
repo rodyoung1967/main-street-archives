@@ -5,8 +5,8 @@
 - Building ID: `B-002`
 - Related businesses: `BUS-005`, `BUS-006`, `BUS-007`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`, `BUS-067`
 - Related people: `P-001`, `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`, `P-046`, `P-076`, `P-094`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-257`, `E-258`
-- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-284`
+- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-257`, `E-258`, `E-272`
+- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-284`, `S-298`
 - Related oral history: `OH-001`
 - Related current records: `R-001`
 - Related timeline entries: `T-002`, `T-007`, `T-008`, `T-041`, `T-042`
@@ -48,6 +48,9 @@ The surviving 505 building has conflicting dates in City/consultant historic-res
 The registered City historic-resource page (`S-033`) preserves an important survey correction. It says the **1983 survey indicated c.1908**, but the later City synthesis rejects that date for the surviving building: using Sanborn-map comparison, it places construction **sometime between 1911 and 1925**, with **about 1920** offered only as a possibility.
 
 This is official secondary evidence that **c.1908 should not be used as the construction date of the surviving 505 building**. It agrees with the project's independent visual conclusion that the pre-1925 address/business evidence must be separated from surviving-building fabric. The **1911–1925 bracket** is substantially stronger than the tentative c.1920 estimate, but it is still a secondary map-based conclusion; primary permit, assessment, deed, contractor, or construction-notice evidence is still needed to date the physical replacement precisely.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+**Project-steward visual cross-check (`E-272`):** the steward identifies the 1910 Young's Secondhand Store / 505 frontage as the same predecessor-building appearance seen in the project's flood-era photographs. The corrected 1911 Sheet 16 and 1925 Sheet 6 show materially different 501/503/505 storefront/footprint geometry. This independently reinforces the conclusion that **1908 is not the construction date of the surviving/current 505 building**. The comparison narrows the physical problem to the established **1911–1925 change window** but does not prove an exact replacement year or which July–August 1922 rebuild footprint became modern 505. The width difference concerns the building/storefront configuration; Fifth Street is mapped at 60 feet on both target sheets.
 
 Legacy City source:
 https://legacyorcity.teammunicode.com/planning/505-main-street

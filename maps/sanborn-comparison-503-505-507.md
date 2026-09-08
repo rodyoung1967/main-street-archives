@@ -11,6 +11,7 @@ This file records observations extracted from the uploaded Sanborn map sheets fo
 - `SM-005` / `S-018` — 1892 sheet 3
 - `SM-006` / `S-019` — 1900 sheet 13
 - `SM-007` / `S-020` — 1911 sheet 22
+- `SM-010` / `S-298` — 1911 sheet 16, corrected downtown Fifth/Main target block
 - `SM-008` / `S-021` — 1925 sheet 6
 - `SM-009` / `S-022` — 1950 revised sheet 6
 - `S-107` — visually verified 1913 Block 26 assessment notice
@@ -276,3 +277,10 @@ Use this frame as a photo/Sanborn alignment target, not a dated footprint map. C
 ## 1893 Streetcar Helen / E. E. Williams comparison
 
 `S-218` / `E-198` / `IMG-0747` adds a fixed **1893 Sixth/Main looking-south** street-level comparison. The right/east storefront directly reads **E. E. WILLIAMS**, while the 1895 Welcome Arch image (`S-215` / `E-195` / `IMG-0744`) independently reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** on the target-side predecessor frontage. Use the repeated Williams sign, party walls, roof forms, facade widths and the 1892/1900 Sanborn geometry to resolve the individual later 501/503/505 bay. Do not backdate the later street numbers or infer physical continuity solely from the matching business name.
+
+<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
+## Steward structural reconciliation — 7 September 2026
+
+`E-272` preserves the project steward's explicit visual comparison: the 1910 Young/505 photograph represents the earlier predecessor frontage also recognized in flood-era photographs, while the corrected 1911 Sheet 16 (`SM-010` / `S-298`) and 1925 Sheet 6 (`SM-008` / `S-021`) show materially different storefront/footprint geometry.
+
+This strengthens the **1911–1925 physical-change bracket** and rejects a literal **c.1908 construction date for the surviving/current 505 building**. It does not assign an exact replacement year or select a 1922 Gates/Wolf storefront model. Fifth Street itself remains 60 feet wide on both target Sanborn sheets; the changed width/geometry is the commercial frontage, not a proven street narrowing.
