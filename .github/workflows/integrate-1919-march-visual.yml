@@ -23,6 +23,61 @@ jobs:
           git fetch origin main
           git pull --rebase origin main
 
+      - name: Repair March YAML relation updater
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_1919_march_visual.py')
+          text = p.read_text(encoding='utf-8')
+          start = text.index('def update_yaml_relation(')
+          end = text.index('\nif Path(CAPTURE).exists():', start)
+          fn = r'''def update_yaml_relation(path, entity_id, field, value):
+              p=Path(path); t=p.read_text(encoding='utf-8')
+              m=re.search(rf'(?ms)^  - id: {re.escape(entity_id)}\n.*?(?=^  - id: |\Z)',t)
+              if not m: return False
+              block=m.group(0)
+              fm=re.search(rf'(?m)^    {re.escape(field)}:\s*\[([^\]]*)\]\s*$',block)
+              if fm:
+                  vals=[v.strip() for v in fm.group(1).split(',') if v.strip()]
+                  if value in vals: return False
+                  vals.append(value)
+                  new=f'    {field}: [' + ', '.join(vals) + ']'
+                  block=block[:fm.start()] + new + block[fm.end():]
+              else:
+                  lines=block.splitlines(keepends=True)
+                  field_idx=None
+                  for i,line in enumerate(lines):
+                      if re.match(rf'^    {re.escape(field)}:\s*$', line.rstrip('\n')):
+                          field_idx=i
+                          break
+                  if field_idx is None:
+                      if not block.endswith('\n'): block += '\n'
+                      block += f'    {field}: [{value}]\n'
+                  else:
+                      j=field_idx+1
+                      vals=[]
+                      item_indent=None
+                      while j < len(lines):
+                          im=re.match(r'^(\s*)-\s*(.+?)\s*\n?$', lines[j])
+                          if not im or len(im.group(1)) < 4:
+                              break
+                          item_indent=item_indent or im.group(1)
+                          vals.append(im.group(2).strip())
+                          j += 1
+                      if value in vals: return False
+                      indent=item_indent or '    '
+                      lines.insert(j, f'{indent}- {value}\n')
+                      block=''.join(lines)
+              t=t[:m.start()] + block + t[m.end():]
+              p.write_text(t,encoding='utf-8')
+              return True
+          '''
+          # Remove the workflow/YAML indentation from the replacement function.
+          import textwrap
+          fn = textwrap.dedent(fn)
+          p.write_text(text[:start] + fn + text[end:], encoding='utf-8')
+          PY
+
       - name: Compile integration script
         run: python3 -m py_compile scripts/integrate_1919_march_visual.py
 
