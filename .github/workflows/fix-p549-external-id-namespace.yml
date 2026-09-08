@@ -1,0 +1,47 @@
+name: Fix MOT P-549 external-ID namespace
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fix-p549-external-id-namespace.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Mark P-549 as external MOT identifier in checkpoint title
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('evidence/source-captures/2026-09-07-1926-aerial-littles-p549-preservation-checkpoint.md')
+          t=p.read_text()
+          old="Little's Confectionary P-549 preservation checkpoint"
+          new="Little's Confectionary MOT:P-549 preservation checkpoint"
+          if old not in t:
+            raise SystemExit('Expected title wording not found')
+          p.write_text(t.replace(old,new,1))
+          PY
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit and push
+        run: |
+          git config user.name "rodyoung1967"
+          git config user.email "49879113+rodyoung1967@users.noreply.github.com"
+          git add evidence/source-captures/2026-09-07-1926-aerial-littles-p549-preservation-checkpoint.md
+          git commit -m "Namespace Little P-549 as external MOT identifier"
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then exit 0; fi
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            sleep $((attempt*2))
+          done
+          exit 1
