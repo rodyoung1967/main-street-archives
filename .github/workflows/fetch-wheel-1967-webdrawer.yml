@@ -14,13 +14,12 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch current City and State records access pages
+      - name: Fetch current Oregon Records Management search form
         run: |
           set -euxo pipefail
           mkdir -p /tmp/wheel-1967
-          curl -L --fail --retry 2 'https://www.orcity.org/1844/Meeting-Document-Archive' -o /tmp/wheel-1967/meeting-document-archive.html
-          curl -L --fail --retry 2 'https://sos.oregon.gov/archives/Pages/orms.aspx' -o /tmp/wheel-1967/oregon-state-orms.html
-          curl -sSIL 'https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document' -o /tmp/wheel-1967/legacy-record-headers.txt || true
+          curl -L --fail --retry 2 'https://records.sos.state.or.us/ORSOSCMSearch/Search/SearchMain.aspx' -o /tmp/wheel-1967/search-main.html
+          curl -sSIL 'https://records.sos.state.or.us/ORSOSCMSearch/Search/SearchMain.aspx' -o /tmp/wheel-1967/search-main-headers.txt
       - uses: actions/upload-artifact@v4
         with:
           name: wheel-1967-record-route-probe
