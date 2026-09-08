@@ -7,7 +7,7 @@
 - Related businesses: `BUS-004`
 - Related people: `P-022` Floyd LaFarlette; `P-008` Sheila Wiitanen (daughter); `P-007` Richard / Dick Wiitanen
 - Related evidence: `E-007`, `E-009`, `E-019`, `E-022`, `E-223`, `E-224`, `E-244`, `E-245`
-- Related research captures: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`; `evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md`
+- Related research captures: `evidence/source-captures/raye-floyd-lafarlette-pre-wheel-hospitality-businesses-2026-09-05.md`; `evidence/source-captures/lafarlette-morton-chronology-controls-2026-09-06.md`; `evidence/source-captures/1943-floyd-lafarlette-raye-weaver-marriage-index-control-2026-09-07.md`
 
 ## Identity Correction (August 2026)
 
@@ -26,6 +26,14 @@ That reading is **superseded, not deleted**:
 - She should not be assigned an ownership/operator role in the 505 tavern business merely because later family members owned the neighboring 505 building.
 
 Keep `P-005` and `P-006` as separate people. Do not merge Hansen and Grisham.
+
+## 1943 marriage index control
+
+A recovered **Cross County, Arkansas marriage index** lists **Floyd LaFarlette, age 35**, and **Raye Weaver, age 24**, married **6 July 1943**, index **B-1432**. This fits the archive's independently supported identity sequence for Raye and the known Floyd/Raye marriage relationship.
+
+Classification: **SECONDARY/INDEXED RECORD — STRONG IDENTITY AND MARRIAGE-LOCATION LEAD, NOT SCAN-CERTIFIED PRIMARY PROOF**. The underlying county marriage record has not yet been recovered or visually inspected. Safe current wording is therefore that Cross County, Arkansas is a strong indexed marriage-location lead, not yet primary-record proof. This index does not establish where Raye and Floyd met, when they moved to Chicago, or any Wheel ownership/operation fact.
+
+Source capture: `evidence/source-captures/1943-floyd-lafarlette-raye-weaver-marriage-index-control-2026-09-07.md`.
 
 ## Family relationship chronology clarification — Oregon City before divorce
 
