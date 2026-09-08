@@ -539,3 +539,8 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 ## 1910 photograph / 1911–1925 structural reconciliation — 7 September 2026
 
 - [Steward photo/map reconciliation](evidence/source-captures/2026-09-07-1910-photo-1911-1925-geometry-steward-reconciliation.md): preserves the explicit visual rejection of a literal 1908 surviving-505 construction date, registers corrected downtown 1911 Sanborn Sheet 16 as `SM-010` / `S-298`, and reconciles the focused 1922 research without duplicating later integrated evidence. Related evidence: `E-272`.
+
+## Repository integrity audit — 8 September 2026
+
+- [Deep repository integrity and consistency audit](registers/repository-integrity-audit-2026-09-08.md): records the full-file, structured-data, hash, Git-object, archive-preservation, status, and high-risk narrative checks; documents completed repairs and bounded outstanding normalization debt.
+- Recovered both previously ignored repository-history tarballs from their recorded Git object IDs and added validator enforcement for their presence, hashes, sizes, and readability.

@@ -275,13 +275,13 @@ people:
     name: Mr. and Mrs. Albert D. Flor
     repository_file: people/profiles/albert-d-flor-family.md
     role: 503 restaurant/cocktail-bar operators
-    notes: 1957 City historic-resource synthesis places Mr./Mrs. Albert D. Flor operating/managing the restaurant/cocktail bar at 503 Main. This is the latest currently named same-address operator control before the direct 22 Aug 1958 Wheel Cafe & Lounge exact-address advertisement. The transition mechanism is unresolved; do not infer Flor owned, renamed, or sold The Wheel.
+    notes: 1957 City historic-resource synthesis places Mr./Mrs. Albert D. Flor operating/managing the restaurant/cocktail bar at 503 Main. This is the latest currently named same-address operator control before the direct 28 Mar 1958 Wheel Cafe & Lounge exact-address advertisement; May and August advertisements provide later corroboration. The transition mechanism is unresolved; do not infer Flor owned, renamed, or sold The Wheel.
     related_buildings:
       - B-001
     related_businesses:
       - BUS-001
-    related_evidence: [E-032]
-    related_sources: [S-026]
+    related_evidence: [E-032, E-255, E-256, E-259]
+    related_sources: [S-026, S-282, S-283, S-285]
 
   - id: P-026
     name: Mrs. Nesmeth / Nemeth
@@ -537,6 +537,7 @@ people:
     - E-267
     - E-268
     - E-269
+    - E-270
     related_sources:
     - S-120
     - S-121
@@ -548,9 +549,7 @@ people:
     - S-293
     - S-294
     - S-295
-
-    sources: [S-296]
-    evidence: [E-270]
+    - S-296
   - id: P-045
     name: E. T. Mass
     role: Ex-sheriff and hotel/restaurant operator

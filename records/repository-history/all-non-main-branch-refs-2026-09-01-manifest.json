@@ -1,13 +1,15 @@
 {
   "main_at_archive": "d94123fa03206a7cbda58ba9cf5e880b81160bee",
   "branch_count": 24,
-  "logical_archive_sha256": "ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a",
-  "logical_archive_bytes": 3409556,
+  "original_recorded_logical_archive_sha256": "ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a",
+  "original_recorded_logical_archive_bytes": 3409556,
+  "logical_archive_sha256": "33d8f3e1eb3960ef84d60451c2020886978c96643305bcb22e3f38b1a018cf84",
+  "logical_archive_bytes": 3395223,
   "stored_files": [
     {
       "path": "records/repository-history/all-non-main-branch-refs-2026-09-01.tar.gz",
-      "bytes": 3409556,
-      "sha256": "ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a"
+      "bytes": 3395223,
+      "sha256": "33d8f3e1eb3960ef84d60451c2020886978c96643305bcb22e3f38b1a018cf84"
     }
   ],
   "reassembly": "Concatenate parts in numeric order if split, then verify logical_archive_sha256.",
@@ -204,5 +206,8 @@
       "branch_only_commits": 0,
       "changed_paths_from_merge_base": 0
     }
-  ]
+  ],
+  "recovered_on": "2026-09-08",
+  "recovery_head": "0dd2fc3013214293945faa92b5c56a03441660f4",
+  "recovery_note": "Original ignored tarball was absent; deterministically rebuilt from the 24 recorded branch names/tips and historical main baseline."
 }

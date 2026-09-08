@@ -5,6 +5,8 @@
 *.zip
 *.tar.gz
 *.tar
+!records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz
+!records/repository-history/all-non-main-branch-refs-2026-09-01.tar.gz
 
 # OS
 .DS_Store

@@ -5,7 +5,7 @@ Business ID: `BUS-073`. Person: `P-093`.
 ## Direct Address Chronology
 
 - 12 February 1914: Oregon City Pantorium, owned by F. Champion, at **416 Main**.
-- 24 October 1918: Pantorium Cleaners at **500 Main** (`E-124`).
+- 24 October 1918 through 2 January 1919: Pantorium Cleaners at **500 Main** (`E-124`, `E-263`).
 - January and June 1922: active cleaning/dyeing business; recovered sources do not print an address.
 - 20 July 1922: Pantorium at **519 Main** (`B-011`), where Oregon City Laundry arranged a temporary post-fire office.
 

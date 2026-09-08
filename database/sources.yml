@@ -1855,6 +1855,10 @@ sources:
   - id: S-289
     name: "January 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-01-02 through 1919-01-31"
+    repository_file: "evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-263]
     notes: >-
       Primary newspaper scan batch, visually verified 7 September 2026: 40/40 Enterprise pages
       (3/10/17/24/31 Jan.) plus 30/30 Courier pages (2/9/16/23/30 Jan.), 70/70 total.
@@ -1867,6 +1871,10 @@ sources:
   - id: S-290
     name: "February 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-02-06 through 1919-02-28"
+    repository_file: "evidence/source-captures/1919-february-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-264]
     notes: >-
       Primary scan batch, visually verified 56/56 pages: 24 Courier and 32 Enterprise.
       Direct findings include the F. D. Cox billiard-hall license and sale to Mr. Rohrberg,
@@ -1877,6 +1885,10 @@ sources:
   - id: S-291
     name: "March 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-03-06 through 1919-03-28"
+    repository_file: "evidence/source-captures/1919-march-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-265]
     notes: >-
       Primary scan batch, visually verified 56/56 pages: 24 Courier and 32 Enterprise.
       Direct findings include transfer of F. D. Cox's billiard license to F. D. Rohberger,
@@ -1889,6 +1901,10 @@ sources:
   - id: S-292
     name: "April 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-04-03 through 1919-04-25"
+    repository_file: "evidence/source-captures/1919-april-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-266]
     notes: >-
       Primary scan batch, visually verified 56/56 April pages: 24 Courier and 32 Enterprise.
       The 18 April Enterprise directly reports the 15 April Post Office move to Fifth/Main into
@@ -1900,6 +1916,10 @@ sources:
   - id: S-293
     name: "May 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-05-01 through 1919-05-30"
+    repository_file: "evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-267]
     notes: >-
       Primary scan batch, visually verified 72/72 May pages: 32 Courier and 40 Enterprise.
       A 16 May Enterprise item directly reports alterations to an unlocated Wolf building in a
@@ -1910,6 +1930,10 @@ sources:
   - id: S-294
     name: "June 1919 Oregon City Enterprise + Courier complete monthly visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified monthly batch"
+    date: "1919-06-05 through 1919-06-27"
+    repository_file: "evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-268]
     notes: >-
       Primary scan batch, visually verified 56/56 June pages: 24 Courier and 32 Enterprise.
       No exact 501/503/505/505-half occupant or target physical-building event was established.
@@ -1919,6 +1943,10 @@ sources:
   - id: S-295
     name: "July 1919 online-exposed Oregon City Enterprise + final Courier visual-review batch"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified online batch with manual retrieval gap"
+    date: "1919-07-03 through 1919-07-25"
+    repository_file: "evidence/source-captures/1919-july-online-enterprise-courier-visual-review-2026-09-07.md"
+    related_evidence: [E-269]
     notes: >-
       Primary July scan batch: 38/38 online-exposed pages visually verified. Final Courier 3 July
       plus four Enterprise issues; Banner-Courier 17, 24 and 31 July remain MF-030 manual retrieval gaps.
@@ -1927,6 +1955,10 @@ sources:
   - id: S-296
     name: "August 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified online batch with manual retrieval gap"
+    date: "1919-08-01 through 1919-08-29"
+    repository_file: "evidence/source-captures/1919-august-enterprise-visual-review-2026-09-07.md"
+    related_evidence: [E-270]
     notes: >-
       Primary August scan batch: 40/40 Enterprise pages visually verified. Banner-Courier 7, 14, 21 and 28 August remain MF-030 manual retrieval gaps. No exact 501/503/505 occupant or target structural event was established.
 
@@ -1934,6 +1966,10 @@ sources:
   - id: S-297
     name: "September 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap"
     url: https://oregonnews.uoregon.edu/
+    type: "Primary newspaper scans; visually verified online batch with manual retrieval gap"
+    date: "1919-09-05 through 1919-09-26"
+    repository_file: "evidence/source-captures/1919-september-enterprise-visual-review-2026-09-07.md"
+    related_evidence: [E-271]
     notes: >-
       Primary September scan batch: 32/32 Enterprise pages visually verified. Banner-Courier 4, 11, 18 and 25 September remain MF-030 manual retrieval gaps. The 12 September p2 scan directly reports S. Fesznecker moving his tin and repair shop from Broadway to the building just south of the post office.
 

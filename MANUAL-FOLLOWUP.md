@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **7 September 2026** — added **MF-057** for the focused 505 Main 1953–1956 operator-transition Commission-proceedings and assumed-business-name retrieval package; no existing MF ID was renumbered or removed.
+Last amended: **8 September 2026** — integrity audit restored the omitted **MF-052** dispatch row and removed a stray duplicate **MF-056** row; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -268,6 +268,7 @@ All correspondence is **UNSENT** as of 7 September 2026, per the project steward
 | MF-018 + MF-023 | NOT SENT — DRAFT READY | — | — | — | — | No |
 
 | **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |
+| **MF-052** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |
 | **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |
 | **MF-054** | **NOT SENT — EMAIL DRAFT READY / FEES NOT AUTHORIZED** | — | — | **No** | — | No |
 | **MF-055** | **NOT SENT — EMAIL DRAFT READY / $15 MINIMUM FEE NOT AUTHORIZED** | — | — | **No** | — | No |
@@ -431,7 +432,6 @@ Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-p
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-055** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEE NOT AUTHORIZED** | **Yes** | GFO confirms physical holdings **TF0763 — Oregon City Directory 1964** and **TF0764 — Oregon City Directory 1977**. Request a focused lookup for **503 Main / The Wheel / Wheel Cafe**, LaFarlette/Grisham and Wiitanen personal entries, relevant classified pages and numerical telephone entries. The 1964 volume is a strong pre-/early-transition control before the unresolved 1967 Wheel liquor action; the 1977 volume is a strong later control before the 1979 Wheel liquor action. GFO currently posts a **$15 per half-hour / $15 minimum** research fee. **Do not send or authorize paid work without project-steward approval.** A directory association is a published occupancy/operator/contact bracket, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md`. |
-| **MF-056** | **NOT SENT — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED** | — | — | **No** | — | No |
 
 
 ---

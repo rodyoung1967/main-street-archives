@@ -1347,6 +1347,7 @@ evidence:
 
   - id: E-094
     name: Original Oregon City Plat / Block 4–Block 26 Orientation Correction
+    repository_file: evidence/E-094-original-plat-block26-lot5-boundary.md
     type: Primary official plat and assessment evidence reconciled with current parcel records
     claims:
       - The visually verified 1913 assessment notice treats original Block 4 and Block 26 as separate physical blocks and lists G. A. Harding at Block 4 Lots 3 and 4.
@@ -1368,6 +1369,7 @@ evidence:
 
   - id: E-095
     name: OHS MSS 1503 Main/Fifth Title-Abstract Index Entry
+    repository_file: evidence/E-095-ohs-mss1503-main-fifth-title-abstract-index.md
     type: Official institutional archival index and collection finding aid
     claims:
       - The visually verified OHS index lists a Box 19 Oregon City item at Main and Fifth whose title says Block 4 Lots 3 & 4 and whose separate Lot field says 3, 4, 5.
@@ -1386,6 +1388,7 @@ evidence:
 
   - id: E-096
     name: Harding Main Street Property Sale to S. Wolf and C. Gates, July 1922
+    repository_file: evidence/E-096-1922-harding-property-sale-wolf-gates.md
     type: Primary newspaper property-transfer and storefront-allocation evidence; direct visual inspection
     claims:
       - Five days before the Fifth/Main fire, Banner-Courier reported that a George A. Harding Main Street property group containing the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop and the Red Front Clothing Store had been sold to S. Wolf and C. Gates, both of Portland.
@@ -1411,6 +1414,7 @@ evidence:
 
   - id: E-097
     name: C. E. Gates Fifth/Main Fire-Replacement Building, August 1922
+    repository_file: evidence/E-097-1922-gates-fifth-main-fire-rebuild.md
     type: Primary newspaper construction and post-fire property evidence; direct visual inspection of two scans
     claims:
       - A new building was under construction at Fifth/Main on C. E. Gates's property by 17 August 1922, with R. A. Junken as contractor and occupancy expected about 1 October.
@@ -1433,6 +1437,7 @@ evidence:
 
   - id: E-098
     name: 2016 503 Main Interior Remodel Permit (Black Ink Coffee LLC)
+    repository_file: evidence/E-098-2016-503-main-interior-remodel-permit.md
     type: Primary municipal permit log
     claims:
       - Permit BB-16-0534, application 31 August 2016 and issued 3 October 2016, at 503 Main St for hazmat abatement, interior non-load-bearing wall demolition, and re-roofing.
@@ -1448,6 +1453,7 @@ evidence:
 
   - id: E-099
     name: 2021 503 Main Parklet Permit (White Rabbit / Black Ink)
+    repository_file: evidence/E-099-2021-503-main-parklet-permit.md
     type: Primary municipal permit log
     claims:
       - Permit RWOBS-21-00029 authorizes a temporary one-day parklet abutting 503 Main St on 17 September 2021.
@@ -1462,6 +1468,7 @@ evidence:
 
   - id: E-100
     name: 505 Main Oregon Historic Site Form; 1940 Construction Date
+    repository_file: evidence/E-100-2009-505-main-historic-site-form-1940-date.md
     type: Official state historic-site inventory form; PDF text extraction
     claims:
       - The 19 January 2009 resurvey form for 505 Main St lists primary construction date 1940 and current/other name 505 Tavern.
@@ -2597,6 +2604,7 @@ evidence:
 
   - id: E-168
     name: Young's Second Hand Store at 505 Main, 16 August 1907
+    repository_file: evidence/E-168-1907-08-16-youngs-second-hand-store-505-main.md
     type: Primary newspaper advertisement; visually verified
     claims:
       - The advertisement directly prints Young's Second Hand Store, 505 Main Street, Oregon City, Oregon.
@@ -2609,6 +2617,7 @@ evidence:
 
   - id: E-169
     name: Joseph Wilson at Palace Saloon, Fifth and Main, 14 March 1911
+    repository_file: evidence/E-169-1911-03-14-joseph-wilson-palace-saloon.md
     type: Primary newspaper liquor-license notice; visually verified
     claims:
       - Joseph Wilson announces a three-month liquor-license application at The Palace Saloon, Fifth and Main streets.
@@ -2621,6 +2630,7 @@ evidence:
 
   - id: E-170
     name: W. O. Witham / A. A. Munden furniture-store succession at 514 Main
+    repository_file: evidence/E-170-1921-05-20-witham-munden-514-main.md
     type: Primary newspaper article plus visually verified comparison page
     claims:
       - 20 May 1921 Oregon City Enterprise says W. O. Witham had come from Salem about two and one-half years earlier and purchased A. A. Munden's furniture store at 514 Main street.
@@ -3353,6 +3363,7 @@ evidence:
     confidence: "Very High for visible signs/object identity; High for Albright Fifth/Main correlation; Moderate for Bon Ton identification; exact numbered addresses unresolved."
     related_sources: [S-246]
     related_evidence: [E-173, E-123]
+    related_media: [IMG-0766]
     repository_file: "evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md"
 
   - id: E-221
@@ -3749,6 +3760,7 @@ evidence:
       - "The South Powers Town Club House is a documentary candidate for Rodney Young's separate Town Club family recollection, but no LaFarlette ownership/operation bridge has been established."
     confidence: "Very High for Coaledo locality; exact modern parcel unresolved; no LaFarlette-Town Club bridge yet."
     related_sources: [S-277]
+    related_businesses: [BUS-102]
 
   - id: E-251
     name: "1954-1955 liquor-renewal notices define the direct licensing-record route for the Town Club hypothesis"
@@ -3788,6 +3800,7 @@ evidence:
       - "No exact target Main occupant established in May."
     confidence: "Very High for visible wording and counts; inference limits retained."
     related_sources: [S-280]
+    related_buildings: [B-018]
 
   - id: E-254
     name: "June 1917 Enterprise closes 40-page batch and extends Fashion Stable through June 29"
@@ -3807,7 +3820,6 @@ evidence:
 
   - id: E-255
     name: "Wheel Cafe & Lounge is directly documented at 503 Main by 22 August 1958"
-    source: S-282
     type: "Primary newspaper advertisement"
     claims:
       - "22 August 1958 advertisement directly reads WHEEL CAFE & LOUNGE."
@@ -3822,7 +3834,6 @@ evidence:
 
   - id: E-256
     name: "Wheel Cafe & Lounge at exact 503 Main by 16 May 1958"
-    source: S-283
     type: "Primary newspaper advertisement"
     claims:
       - "16 May 1958 advertisement directly reads WHEEL CAFE & LOUNGE."
@@ -3865,7 +3876,6 @@ evidence:
 
   - id: E-259
     name: "Wheel Cafe & Lounge at exact 503 Main by 28 March 1958"
-    source: S-285
     type: "Primary newspaper advertisement"
     claims:
       - "28 March 1958 advertisement directly reads WHEEL CAFE & LOUNGE at 503 Main St., Ph: 9106."
@@ -3936,7 +3946,9 @@ evidence:
       - 70/70 recovered January 1919 newspaper pages visually verified.
       - Ohio Dentists directly at 507½ Main over Harding Drug Store; Pantorium Cleaners directly at 500 Main.
     related_sources: [S-289]
-    sources: [S-289]
+    related_buildings: [B-003]
+    related_businesses: [BUS-106, BUS-007, BUS-073]
+    related_people: [P-397]
     notes: >-
       70/70 recovered January pages visually inspected. Ohio Painless Dentists / Ohio Dentists
       is directly at 507½ Main over Harding's Drug Store on 2/10/17/31 January; Dr. J. G. Nash
@@ -3956,7 +3968,9 @@ evidence:
       - Ohio Dentists continued at 507½ Main over Harding's Drug Store; Theroux Music House was directly at 210 Seventh Street.
     confidence: Very High for scan-visible wording and page coverage; none for an unprinted Cox/Rohrberg premises number
     related_sources: [S-290]
-    sources: [S-290]
+    related_buildings: [B-003]
+    related_businesses: [BUS-106, BUS-029, BUS-104]
+    related_people: [P-397, P-044]
     notes: >-
       February monthly scan-first review. Cox/Rohrberg premises must not be assigned to 501,
       503 or 505 Main; the 1915 Cox location between Seventh and Eighth cannot be projected
@@ -3978,7 +3992,6 @@ evidence:
     related_businesses: [BUS-106, BUS-029, BUS-104]
     related_people: [P-397]
     related_buildings: [B-003]
-    sources: [S-291]
     notes: >-
       March monthly scan-first review. Cox/Rohberger premises must not be assigned to 501,
       503 or 505 Main; the 1915 Cox location cannot be projected into 1919. The damaged right
@@ -4000,7 +4013,6 @@ evidence:
     related_businesses: [BUS-106, BUS-007, BUS-104, BUS-029]
     related_people: [P-397, P-044]
     related_buildings: [B-003]
-    sources: [S-292]
     notes: >-
       April monthly scan-first review. The Post Office is opposite-side spatial context, not a
       501/503/505 occupancy event. No exact target occupant or target construction event was found.
@@ -4022,7 +4034,6 @@ evidence:
     related_businesses: [BUS-106, BUS-007, BUS-104, BUS-029]
     related_people: [P-397, P-044]
     related_buildings: [B-003]
-    sources: [S-293]
     notes: >-
       The May Wolf-building item is retained as an unlocated same-name research lead only. It must
       not be assigned to BUS-012, S. Wolf, 503 Main or 505 Main without an independent bridge.
@@ -4044,7 +4055,6 @@ evidence:
     related_businesses: [BUS-104, BUS-029]
     related_people: [P-044]
     related_buildings: []
-    sources: [S-294]
     notes: >-
       Bounded monthly coverage only. No target vacancy, closure, relocation, demolition, ownership,
       construction or Wolf-identity inference is made from June silence.
@@ -4066,7 +4076,6 @@ evidence:
     related_businesses: [BUS-104, BUS-029]
     related_people: [P-044]
     related_buildings: []
-    sources: [S-295]
     notes: >-
       July is not a complete local-newspaper month because the successor Banner-Courier is unavailable online.
       No negative inference is made across the inaccessible issues.
@@ -4089,7 +4098,6 @@ evidence:
     related_businesses: [BUS-104, BUS-029]
     related_people: [P-044]
     related_buildings: []
-    sources: [S-296]
     notes: >-
       August is not a complete local-newspaper month because Banner-Courier is unavailable online. No negative inference is made across inaccessible issues.
 
@@ -4110,7 +4118,6 @@ evidence:
     related_businesses: [BUS-107, BUS-029]
     related_people: [P-398, P-044]
     related_buildings: []
-    sources: [S-297]
 
 # 2026-09-07-session-1910-1925-structural-reconciliation
   - id: E-272

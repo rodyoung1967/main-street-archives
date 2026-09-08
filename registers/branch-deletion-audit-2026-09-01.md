@@ -4,8 +4,10 @@ ALL_NON_MAIN_BRANCH_REFS_ARCHIVED_V1
 
 Authoritative `main` at archive start: `d94123fa03206a7cbda58ba9cf5e880b81160bee`  
 Non-main branch refs archived: **24**  
-Logical archive SHA-256: `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a`  
-Logical archive size: **3409556 bytes**  
+- Originally recorded logical archive SHA-256: `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a` (**the ignored archive file was not committed**)
+- Recovered logical archive SHA-256: `33d8f3e1eb3960ef84d60451c2020886978c96643305bcb22e3f38b1a018cf84`
+- Recovered logical archive size: **3395223 bytes**
+- Recovery date: **8 September 2026**, from all 24 branch-tip IDs and the historical `main` baseline recorded below.
 Manifest: `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json`
 
 ## Purpose

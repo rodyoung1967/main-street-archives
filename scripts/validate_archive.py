@@ -3,8 +3,11 @@
 
 from __future__ import annotations
 
+import hashlib
+import json
 import re
 import sys
+import tarfile
 from pathlib import Path
 
 try:
@@ -59,6 +62,7 @@ RECORDS_DIR = ROOT / "records"
 BUILDINGS_DIR = ROOT / "buildings"
 YEAR_STATUS_REGISTER = ROOT / "registers" / "year-status.md"
 PHOTO_METADATA_REGISTER = ROOT / "media" / "photo-metadata-register.md"
+REPOSITORY_HISTORY_DIR = ROOT / "records" / "repository-history"
 
 RASTER_EXTENSIONS = {".gif", ".jpeg", ".jpg", ".png", ".tif", ".tiff", ".webp"}
 ALLOWED_RASTER_ROOTS = {
@@ -113,6 +117,19 @@ EVIDENCE_BLOCK_PATTERN = re.compile(r"^## (E-\d{3}) —", re.MULTILINE)
 SKIP_SCAN_DIRS = {".git", "scripts", ".cursor"}
 EXTERNAL_ID_NAMESPACES = {"MOT:", "TEL:"}
 ALLOWED_YEAR_STATUSES = {"IN PROGRESS", "ONLINE COMPLETE", "ONLINE + MANUAL COMPLETE"}
+
+RELATED_FIELD_PREFIXES = {
+    "related_buildings": ("B-",),
+    "related_businesses": ("BUS-",),
+    "related_people": ("P-",),
+    "related_evidence": ("E-",),
+    "related_sources": ("S-",),
+    "related_artifacts": ("A-",),
+    "related_media": ("IMG-", "DOC-", "MAP-"),
+    "related_maps": ("SM-",),
+    "related_timeline": ("T-",),
+}
+DEPRECATED_RELATION_FIELDS = {"source", "sources", "evidence"}
 
 
 def read_text(path: Path) -> str:
@@ -332,10 +349,128 @@ def validate_yaml_identity_and_paths() -> list[str]:
             repository_file = item.get("repository_file")
             if repository_file and not (ROOT / repository_file).exists():
                 errors.append(f"{path.name} [{entity_id}]: missing repository_file -> {repository_file}")
+            repository_files = item.get("repository_files", [])
+            if repository_files and not isinstance(repository_files, list):
+                errors.append(f"{path.name} [{entity_id}]: 'repository_files' must be a list")
+            elif isinstance(repository_files, list):
+                for repository_path in repository_files:
+                    if not (ROOT / repository_path).exists():
+                        errors.append(
+                            f"{path.name} [{entity_id}]: missing repository_files entry -> {repository_path}"
+                        )
         for entity_id in sorted(set(found)):
             count = found.count(entity_id)
             if count > 1:
                 errors.append(f"{path.name}: duplicate YAML ID -> {entity_id} ({count} occurrences)")
+    return errors
+
+
+def validate_yaml_relationship_fields() -> list[str]:
+    """Reject schema aliases and IDs stored under the wrong relationship type."""
+    errors: list[str] = []
+    for _, (_, path, root_key) in YAML_FILES.items():
+        if not path.exists():
+            continue
+        for item in load_yaml_items(path, root_key):
+            entity_id = item.get("id", "?")
+            for field in sorted(DEPRECATED_RELATION_FIELDS & item.keys()):
+                errors.append(
+                    f"{path.name} [{entity_id}]: deprecated relationship field '{field}'"
+                )
+            for field, prefixes in RELATED_FIELD_PREFIXES.items():
+                value = item.get(field)
+                if value is None:
+                    continue
+                if not isinstance(value, list):
+                    errors.append(f"{path.name} [{entity_id}]: '{field}' must be a list")
+                    continue
+                duplicate_ids = sorted(
+                    {
+                        related_id
+                        for related_id in value
+                        if isinstance(related_id, str) and value.count(related_id) > 1
+                    }
+                )
+                for related_id in duplicate_ids:
+                    errors.append(
+                        f"{path.name} [{entity_id}]: duplicate {field} ID -> {related_id}"
+                    )
+                for related_id in value:
+                    if not isinstance(related_id, str) or not related_id.startswith(prefixes):
+                        expected = "/".join(prefix.rstrip("-") for prefix in prefixes)
+                        errors.append(
+                            f"{path.name} [{entity_id}]: {field} expects {expected} ID -> {related_id}"
+                        )
+    return errors
+
+
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as stream:
+        for block in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
+
+
+def validate_json_files() -> list[str]:
+    errors: list[str] = []
+    for path in ROOT.rglob("*.json"):
+        if any(part in SKIP_SCAN_DIRS for part in path.parts):
+            continue
+        try:
+            json.loads(read_text(path))
+        except (OSError, UnicodeDecodeError, json.JSONDecodeError) as exc:
+            errors.append(f"{path.relative_to(ROOT)}: invalid JSON -> {exc}")
+    return errors
+
+
+def validate_repository_history_archives() -> list[str]:
+    """Verify repository-history manifests actually point to intact preserved archives."""
+    errors: list[str] = []
+    legacy_manifest = REPOSITORY_HISTORY_DIR / "research-1902-1903-courier-legacy-branch-snapshot.json"
+    branch_manifest = REPOSITORY_HISTORY_DIR / "all-non-main-branch-refs-2026-09-01-manifest.json"
+
+    if legacy_manifest.exists():
+        data = json.loads(read_text(legacy_manifest))
+        archive = ROOT / data["archive"]
+        if not archive.exists():
+            errors.append(f"{legacy_manifest.relative_to(ROOT)}: missing archive -> {data['archive']}")
+        elif file_sha256(archive) != data.get("archive_sha256"):
+            errors.append(f"{legacy_manifest.relative_to(ROOT)}: archive SHA-256 mismatch")
+
+    if branch_manifest.exists():
+        data = json.loads(read_text(branch_manifest))
+        stored_paths: list[Path] = []
+        logical_digest = hashlib.sha256()
+        logical_bytes = 0
+        for stored in data.get("stored_files", []):
+            path = ROOT / stored["path"]
+            stored_paths.append(path)
+            if not path.exists():
+                errors.append(f"{branch_manifest.relative_to(ROOT)}: missing stored file -> {stored['path']}")
+                continue
+            actual_bytes = path.stat().st_size
+            actual_hash = file_sha256(path)
+            if actual_bytes != stored.get("bytes"):
+                errors.append(f"{stored['path']}: byte count mismatch")
+            if actual_hash != stored.get("sha256"):
+                errors.append(f"{stored['path']}: SHA-256 mismatch")
+            with path.open("rb") as stream:
+                for block in iter(lambda: stream.read(1024 * 1024), b""):
+                    logical_digest.update(block)
+                    logical_bytes += len(block)
+        if stored_paths and all(path.exists() for path in stored_paths):
+            if logical_bytes != data.get("logical_archive_bytes"):
+                errors.append(f"{branch_manifest.relative_to(ROOT)}: logical byte count mismatch")
+            if logical_digest.hexdigest() != data.get("logical_archive_sha256"):
+                errors.append(f"{branch_manifest.relative_to(ROOT)}: logical archive SHA-256 mismatch")
+
+    for archive in REPOSITORY_HISTORY_DIR.glob("*.tar.gz"):
+        try:
+            with tarfile.open(archive, "r:gz") as stream:
+                stream.getmembers()
+        except (OSError, tarfile.TarError) as exc:
+            errors.append(f"{archive.relative_to(ROOT)}: unreadable tar archive -> {exc}")
     return errors
 
 
@@ -618,6 +753,7 @@ def main() -> int:
 
     errors.extend(find_duplicate_register_ids())
     errors.extend(validate_yaml_identity_and_paths())
+    errors.extend(validate_yaml_relationship_fields())
     errors.extend(find_orphan_references(yaml_ids, known))
     errors.extend(find_broken_links())
     errors.extend(find_unknown_id_references(known))
@@ -630,6 +766,8 @@ def main() -> int:
     errors.extend(validate_raster_inventory())
     errors.extend(validate_year_status_register())
     errors.extend(validate_mirrored_names())
+    errors.extend(validate_json_files())
+    errors.extend(validate_repository_history_archives())
 
     if errors:
         print(f"\nErrors ({len(errors)}):")

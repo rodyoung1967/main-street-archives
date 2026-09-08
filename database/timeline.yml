@@ -894,10 +894,10 @@ timeline:
     title: "1936 — CCHS P-1128 strongly supports Farr's Pool Hall at 505"
     summary: "CCHS P-1128 is dated 1936. Steward storefront mapping plus probable FARR'S / likely pool-related signage, combined with S-036/E-033, strongly supports Farr's Pool Hall operating at 505 Main in the photographed state. Exact opening date/full sign text/Farr-to-Harr transition remain unresolved."
     confidence: "Strong cross-source inference"
-    evidence:
+    related_evidence:
       - E-210
       - E-033
-    sources:
+    related_sources:
       - S-236
       - S-036
     related_businesses:
@@ -1025,4 +1025,3 @@ timeline:
       - E-267
     related_sources:
       - S-293
-

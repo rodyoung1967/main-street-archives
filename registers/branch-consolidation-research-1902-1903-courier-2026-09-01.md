@@ -5,11 +5,12 @@ LEGACY_BRANCH_INTEGRATED_V1
 Integration date: **1 September 2026**  
 Branch tip: `dbdd56ff2bc49f4b306439f2da6cc8ce769a34b5`  
 Baseline `main` when integration script started: `565719b1b1d298f46805c9cb3246d024668d0b15`  
-Snapshot SHA-256: `4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5`
+- Originally recorded snapshot SHA-256: `4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5` (**the ignored archive file was not committed**)
+- Recovered snapshot SHA-256: `e6e6948f57aed7b38697cb1a793b1184b5b894828c721d2125699d4733aaf63d` (rebuilt 8 September 2026 from the recorded branch tip and baseline)
 
 ## Why the branch was not merged directly
 
-The old branch reused evidence/source identifiers that now have different meanings on the authoritative archive. For example, its old `E-057` was a Schrader 1902 record while current `E-057` is Tolpolar 1904. A merge or cherry-pick would therefore corrupt canonical identity. The integration instead preserved the complete branch byte-for-byte and promoted missing claims under fresh IDs.
+The old branch reused evidence/source identifiers that now have different meanings on the authoritative archive. For example, its old `E-057` was a Schrader 1902 record while current `E-057` is Tolpolar 1904. A merge or cherry-pick would therefore corrupt canonical identity. The integration promoted missing claims under fresh IDs. The intended tar archive was accidentally excluded by `.gitignore`; the 8 September audit recovered the complete branch files and Git metadata from the recorded commit IDs.
 
 ## Complete branch preservation
 

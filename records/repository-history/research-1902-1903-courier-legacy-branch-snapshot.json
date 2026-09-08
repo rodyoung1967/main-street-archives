@@ -4,7 +4,8 @@
   "merge_base": "6902044d4e3f6b730bb6d14a0cd349d33cce0f93",
   "main_baseline": "565719b1b1d298f46805c9cb3246d024668d0b15",
   "archive": "records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz",
-  "archive_sha256": "4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5",
+  "original_recorded_archive_sha256": "4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5",
+  "archive_sha256": "e6e6948f57aed7b38697cb1a793b1184b5b894828c721d2125699d4733aaf63d",
   "changed_files": [
     "buildings/501-main.md",
     "evidence/1902-1903-main-street-mapping-synthesis.md",
@@ -24,5 +25,9 @@
     "evidence/source-captures/1904-courier-main-street-review.md",
     "evidence/source-register.md",
     "timeline.md"
-  ]
+  ],
+  "archive_bytes": 38083,
+  "recovered_on": "2026-09-08",
+  "recovery_head": "0dd2fc3013214293945faa92b5c56a03441660f4",
+  "recovery_note": "Original ignored tarball was absent; deterministically rebuilt from the recorded branch SHA and historical main baseline."
 }

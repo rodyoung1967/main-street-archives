@@ -4,7 +4,7 @@ buildings:
     address: 503 Main Street, Oregon City, Oregon
     repository_file: buildings/503-main.md
     context_only: E-139/S-157 corrects the April 30, 1925 Main-between-Fifth-and-Sixth fire to approximately $15 damage. No side or numbered premises is stated; not an identified 503 fire or reconstruction.
-    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Occupancy/name chronology is now bracketed by the 1957 Mr./Mrs. Albert D. Flor restaurant/cocktail-bar control and the direct 22 Aug 1958 Wheel Cafe & Lounge exact-address advertisement; this is not title/deed evidence and the transition mechanism remains unresolved. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. The July 1922 Gates/Wolf division leaves 503 unresolved between two models; it may begin Wolf's remainder or belong to Gates's two-store corner replacement. Also includes a c.1919 surviving-building estimate that the legacy City page explicitly qualifies as an apparent date reached despite little historic information, plus 503/505 boundary questions. The same City page attributes Wolf-family ownership about 1922-1972 to 1983 survey research rather than a cited deed on that page. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
+    notes: Associated with Kwality Cafe lineage and The Wheel, which was only at 503. Occupancy/name chronology is now bracketed by the 1957 Mr./Mrs. Albert D. Flor restaurant/cocktail-bar control and the direct 28 Mar 1958 Wheel Cafe & Lounge exact-address advertisement, with May and August advertisements as later corroboration; this is not title/deed evidence and the transition mechanism remains unresolved. Raye LaFarlette / Raye Grisham is the same person; working family interpretation is that the later Grisham-to-Wiitanen Wheel transition was a business sale. The former archive claim that Dick and Sheila bought the 503 building from Mrs. Nemeth/Nesmeth is superseded; that purchase belongs to 505. The July 1922 Gates/Wolf division leaves 503 unresolved between two models; it may begin Wolf's remainder or belong to Gates's two-store corner replacement. Also includes a c.1919 surviving-building estimate that the legacy City page explicitly qualifies as an apparent date reached despite little historic information, plus 503/505 boundary questions. The same City page attributes Wolf-family ownership about 1922-1972 to 1983 survey research rather than a cited deed on that page. The 28 August 2026 model test (E-108) selects neither simple Gates/Wolf model; 501 remains live. Post-fire footprint, pre-fire division and actual ignition room require separate proof; see the Task 8 handoff. Newton's saved Quality restaurant is reported across the way from the laundry (E-180); the June Quality Restaurant ad directly prints 427 Main, phone 517 (E-179), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
 
     related_businesses:
       - BUS-001
@@ -30,6 +30,7 @@ buildings:
       - P-034
       - P-035
       - P-036
+      - P-025
     related_evidence:
       - E-116
       - E-108
@@ -67,8 +68,11 @@ buildings:
       - E-213
       - E-217
       - E-225
-
       - E-219
+      - E-032
+      - E-255
+      - E-256
+      - E-259
     related_sources:
       - S-130
       - S-021
@@ -91,8 +95,11 @@ buildings:
       - S-239
       - S-243
       - S-251
-
       - S-245
+      - S-026
+      - S-282
+      - S-283
+      - S-285
     related_maps:
       - SM-002
       - SM-003
@@ -102,15 +109,6 @@ buildings:
       - SM-007
       - SM-008
       - SM-009
-      - P-025
-      - E-032
-      - E-255
-      - E-256
-      - S-026
-      - S-282
-      - S-283
-      - E-259
-      - S-285
   - id: B-002
     name: 505 Main Street
     address: 505 Main Street, Oregon City, Oregon
@@ -309,6 +307,8 @@ buildings:
       - E-109
       - E-119
       - E-189
+      - E-263
+      - E-264
       - E-265
       - E-266
       - E-267
@@ -330,6 +330,8 @@ buildings:
       - S-121
       - S-133
       - S-209
+      - S-289
+      - S-290
       - S-291
       - S-292
       - S-293

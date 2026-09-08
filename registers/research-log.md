@@ -284,14 +284,14 @@ This was a repository-presence and preservation-control audit, not new historica
 
 ### 2026-09-01 — Consolidate legacy `research-1902-1903-courier` branch
 - Compared the 18-commit legacy branch against current `main`; direct merge/cherry-pick was rejected because old branch evidence IDs now collide with different canonical records.
-- Preserved the branch tip, merge base, 18 changed files, commit log and binary diff in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz` (SHA-256 `4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5`).
+- Intended to preserve the branch tip, merge base, 18 changed files, commit log and binary diff in `records/repository-history/research-1902-1903-courier-legacy-branch-snapshot.tar.gz`; the recorded SHA-256 was `4a293f640b6e40e53110921aa858be5cba1ece5ad0cb0c324c5b0e68e3f782d5`, but the file was later found to have been excluded by `.gitignore` and was recovered on 8 September 2026.
 - Promoted genuinely missing 1902–1903 relative-location evidence and the 26 February 1914 Holman move using fresh IDs `E-145`–`E-150` / `S-161`–`S-170` and businesses `BUS-081`–`BUS-083`; attached the 24 August 1906 Courier numbering corroboration to existing `E-061` instead of creating duplicate evidence.
 - Corrected the stale master-timeline statement about the missing Holman move notice; no annual status was advanced. Remote scans were not newly re-certified during branch consolidation, so OCR/text-only and legacy-verification caveats remain explicit.
 - Added `RL-046` / `OQ-033` for the unresolved Harding Block–Willamette Building/Fair Store and pre-numbering storefront mapping questions.
 
 ### 2026-09-01 — Archive all non-main branch refs before cleanup
 - Archived 24 non-main branch refs with tip SHA, merge base, commit log, binary diff and changed-file tip state.
-- Logical archive SHA-256 `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a`; storage/chunk hashes are in `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json`.
+- Originally recorded logical archive SHA-256 `ef666f75ba91fe2d9b3505ba126a3b22ccb96a61ea6afb05e35a9ac45f895c0a`; the ignored file was later found absent and was recovered from all 24 recorded branch-tip IDs on 8 September 2026. Current storage hashes are in `records/repository-history/all-non-main-branch-refs-2026-09-01-manifest.json`.
 - This follows canonical integration of `research-1902-1903-courier`; superseded/unmerged branch states remain historical records, not silently accepted claims.
 - Branch refs may be deleted only after this archive is committed to `main` and archive validation passes.
 
@@ -1016,3 +1016,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Formally registered the already-preserved correct downtown 1911 Sanborn Sheet 16 as `SM-010` / `S-298`; retained Sheet 22 as Canemah geographic control.
 - Preserved two below-promotion session leads in the reconciliation capture: a commercial 1908 property-data value lacked parcel-specific official confirmation, and a 21 July 1922 "vacant half of a store building" wording remains OCR/TEXT-ONLY pending visual verification.
 - Propagation audit: building, map, source/evidence registers/YAML, crosswalk, archive index and checkpoint updated. No person/business/timeline fact manufactured because this integration adds structural interpretation rather than a new dated historical event.
+
+### 2026-09-08 — deep repository integrity and consistency audit
+
+- Audited 3,340 tracked files, all structured entity collections, 174 JSON files, 1,824 resolved file/SHA-256 pairs, Git object integrity, repository paths, IDs, links, schema fields, review statuses, manual-dashboard rows, and the protected 503/505 narrative distinctions.
+- Found two repository-history tarballs claimed by manifests but absent because `*.tar.gz` was ignored. Recovered the focused legacy-branch archive and the complete 24-branch archive from their recorded Git object IDs; retained the original recorded hashes and added current recovery hashes/provenance.
+- Corrected typed relationship misplacements, legacy YAML aliases, recent 1919 source/evidence/file links, ten missing standalone-evidence file mappings, 16 stale 1919 manifest statuses, the 1919 current-status wording, and two manual-dashboard tracker defects.
+- Updated the 503/Flor structured chronology to the direct 28 March 1958 Wheel anchor, keeping May/August as later corroboration and preserving all ownership/transition limits.
+- Hardened `scripts/validate_archive.py` to enforce relationship types, reject legacy aliases, validate list-form repository paths, and verify repository-history archive presence/hash/size/readability. Full findings and intentionally unresolved normalization debt are in `registers/repository-integrity-audit-2026-09-08.md`.
+- No annual status advanced; all years remain **IN PROGRESS**. No OCR-only material was promoted and no unresolved historical question was silently resolved.

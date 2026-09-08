@@ -72,11 +72,11 @@ businesses:
       - E-206
       - E-225
       - E-255
+      - E-256
+      - E-259
     related_sources:
       - S-282
-      - E-256
       - S-283
-      - E-259
       - S-285
   - id: BUS-005
     name: 505 Tavern
@@ -522,6 +522,7 @@ businesses:
     - E-267
     - E-268
     - E-269
+    - E-270
     related_sources:
     - S-120
     - S-121
@@ -533,9 +534,7 @@ businesses:
     - S-293
     - S-294
     - S-295
-
-    sources: [S-296]
-    evidence: [E-270]
+    - S-296
   - id: BUS-030
     name: Mass's Hotel and Restaurant
     address: Former Brunswick quarters; Main near Seventh context, exact number unresolved
@@ -1014,12 +1013,12 @@ businesses:
 
   - id: BUS-073
     name: Oregon City Pantorium / Pantorium Cleaners
-    address: 416 Main in 1914; 500 Main in 1918; 519 Main by 20 July 1922
+    address: 416 Main in 1914; 500 Main from 24 Oct. 1918 through 2 Jan. 1919; 519 Main by 20 July 1922
     notes: Cleaning/dyeing business with multiple documented moves. Candidate for recent ignition-room tenant only; exact 17 July 1922 location unresolved.
     related_people: [P-093]
     related_buildings: [B-011]
-    related_evidence: [E-103, E-124]
-    related_sources: [S-117, S-138]
+    related_evidence: [E-103, E-124, E-263]
+    related_sources: [S-117, S-138, S-289]
     repository_file: businesses/pantorium-cleaners.md
 
   - id: BUS-074
@@ -1299,14 +1298,12 @@ businesses:
     related_people: [P-396]
   - id: BUS-104
     name: Farr Brothers Store / Meat Market
-    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266, E-267, E-268, E-269]
-    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292, S-293, S-294, S-295]
+    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266, E-267, E-268, E-269, E-270]
+    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292, S-293, S-294, S-295, S-296]
     repository_file: businesses/farr-brothers-store.md
     address: "1917 exact address unresolved; official Farr Store history places the business at 919 7th Street"
     notes: "25 May 1917 Enterprise directly calls Farr Brothers a Meat market; 1922 primary evidence says Grocers/Butchers; official City history associates Farr Brothers Store with Louis and Clarence Farr. No merge with Edwin/Alice Farr or 505 Main."
     related_people: [P-395]
-    sources: [S-296]
-    evidence: [E-270]
   - id: BUS-105
     name: "J. C. Penney Co. / The Golden Rule"
     address: "Main Street between Fifth and Sixth (no number printed)"
