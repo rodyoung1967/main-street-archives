@@ -1,6 +1,6 @@
 # 1953 Oregon City & Vicinity Directory — 505 Main source-recovery lead
 
-Status: **high-priority directory lead; FamilySearch catalog locator confirmed; Gale/Research Publications Reel 26 is now a strong 1953 retrieval inference; actual 503/505 entries not yet visually recovered**
+Status: **high-priority directory lead; FamilySearch catalog 95422 excluded as a 1953 route; Gale/Research Publications Reel 26 is a strong 1953 retrieval inference; actual 503/505 entries not yet visually recovered**
 
 The exact directory used by later Oregon City historic-resource research has now been confirmed as:
 
@@ -23,27 +23,29 @@ This is primary municipal evidence that Oregon City purchased Oregon City direct
 
 The current research environment has recovered the official indexed/searchable municipal text, not a newly visually certified image of this claims row. Preserve it as **PRIMARY MUNICIPAL INDEXED TEXT / SCAN CERTIFICATION OPEN** until the original page image is visually inspected.
 
-Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection. Public indexing also exposes a FamilySearch Library holding titled **_Oregon City (Clackamas County, Oregon) city directory: including Gladstone, West Linn and Willamette, also a buyers' guide and a complete classified business directory_**.
+Independent directory indexes confirm that an **Oregon City Directory 1953** is digitized in the MyHeritage city-directory collection and in Ancestry's U.S. City Directories collection.
 
-## FamilySearch catalog 95422 — locator now independently confirmed
-<!-- FamilySearch 95422 locator verification — 2026-09-07 -->
+## FamilySearch catalog 95422 — confirmed exclusion from the 1953 Salisbury route
+<!-- FamilySearch 95422 catalog disambiguation — corrected 2026-09-07 -->
 
-A fresh catalog-index check on 7 September 2026 resolved the earlier uncertainty about the suggested FamilySearch locator. The current LDSGenealogy Oregon City directory index links the exact FamilySearch Library title above to a dedicated item page; that item page explicitly states:
+A September 7 cross-file audit found that a prior working note over-promoted FamilySearch catalog **95422** as a possible locator for the 1953 T. W. Salisbury directory. The repository's already-established direct catalog control (`S-228`) and the live FamilySearch catalog identify **95422** as a different series:
 
-> “Here is the direct catalog entry for this item: https://www.familysearch.org/en/search/catalog/95422”
+- author: **R. L. Polk & Co.**;
+- publication begins **1960**;
+- annual Oregon City directory series;
+- listed contained volumes begin with **1960**, followed by later years.
 
-Index routes:
-- https://ldsgenealogy.com/OR/Oregon-City.htm
-- https://ldsgenealogy.com/cgi-bin/FHL2-OR.cgi?413266_Oregon_City_%28Clackamas_County%2C_Oregon%29_city_directory_%3A_including_Gladstone%2C_West_Linn_and_Willamette%2C_also_a_buyers%27_guide_and_a_complete_classified_business_directory=
+The generic title resembles the earlier Oregon City / Gladstone / West Linn / Willamette directory coverage, which created the false lead, but the publisher/date series do not match **T. W. Salisbury & Co., 1953**.
 
 Direct FamilySearch route:
 - https://www.familysearch.org/en/search/catalog/95422
 
-Classification: **SECONDARY BIBLIOGRAPHIC INDEX / DIRECT LOCATOR CONFIRMATION** for the mapping of this Oregon City directory title to **FamilySearch catalog 95422**. The FamilySearch catalog endpoint itself continued to time out in the current research environment, so the catalog's detailed volume/film/digital-access table was not inspected. Do **not** infer which years/images are digitally open, locked, microfilm-only or book-only from the locator alone.
+Cross-check capture:
+- `evidence/source-captures/1941-oregon-city-directory-online-catalog-route-correction-2026-09-04.md`
 
-This supersedes the previous wording that catalog **95422 had not been independently verified**. The locator is now confirmed; **page-level access remains a retrieval gap**.
+Classification: **DIRECT CATALOG DISAMBIGUATION / EXCLUSION**. FamilySearch catalog **95422 is not a valid holding or digital-access route for the 1953 Salisbury volume**. Do not cite it as such.
 
-The actual 1953 page images / 503 and 505 Main entries have not yet been recovered in the current research environment.
+The actual 1953 page images / 503 and 505 Main entries remain unrecovered in the current research environment. Current viable 1953 routes remain the gated Ancestry/MyHeritage image collections, Gale/Research Publications microfilm, Library of Congress holdings, preservation-research files, and any independently identified institutional copy.
 
 ## Gale / Research Publications Oregon City Reel 26 — likely 1953 retrieval route
 <!-- Gale Reel 26 1953 Well's retrieval route — 2026-09-07 -->
