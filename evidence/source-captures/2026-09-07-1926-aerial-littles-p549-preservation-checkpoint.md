@@ -1,4 +1,4 @@
-# 7 September 2026 — 1926 aerial / Little's Confectionary P-549 preservation checkpoint
+# 7 September 2026 — 1926 aerial / Little's Confectionary MOT:P-549 preservation checkpoint
 
 Status: **PRESERVED FROM PROJECT-STEWARD REVIEW — CLAIM PROMOTION REMAINS EVIDENCE-STATE BOUNDED**
 
