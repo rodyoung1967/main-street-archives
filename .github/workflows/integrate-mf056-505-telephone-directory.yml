@@ -1,0 +1,106 @@
+name: Integrate MF-056 505 telephone-directory follow-up
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-mf056-505-telephone-directory.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Patch MF-056 into manual dashboard
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          p = Path('MANUAL-FOLLOWUP.md')
+          text = p.read_text(encoding='utf-8')
+          marker = '<!-- MF-056 505 telephone-directory 9179 lookup — 2026-09-07 -->'
+
+          if marker in text:
+              print('MF-056 telephone-directory integration already present.')
+              raise SystemExit(0)
+
+          ids = [int(x) for x in re.findall(r'MF-(\d{3})', text)]
+          current_max = max(ids, default=0)
+          if current_max >= 56:
+              raise SystemExit(f'MF-056 is no longer safely available; current maximum MF id is {current_max}. Refusing to collide or renumber.')
+
+          # Header amendment only because MF-056 is confirmed to be the next available ID.
+          lines = text.splitlines()
+          for i, line in enumerate(lines):
+              if line.startswith('Last amended:'):
+                  lines[i] = ('Last amended: **7 September 2026** — added **MF-056** for a focused 1953–1956 Oregon City '
+                              'Pacific Telephone directory / phone 9179 lookup supporting the unresolved 505 Main successor question; '
+                              'no existing MF ID was renumbered or removed.')
+                  break
+          text = '\n'.join(lines) + ('\n' if text.endswith('\n') else '')
+
+          row = ('| 24 | **MF-056** | Locate an **Oregon City Pacific Telephone directory, 1953–1956**, preferably nearest 20 Nov. 1955, '
+                 'and identify subscriber **9179** plus any 505 Main / Well\'s / Harr listings | The visually verified 20 Nov. 1955 505 sale ad gives '
+                 '**9179** but no seller/business name; open-web recovery now establishes a separate Oregon City directory series while the near-date '
+                 'Sept. 1955 Portland PT&T book\'s stated coverage omits Oregon City | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; '
+                 'OHS FALLBACK ONLY**. [Telephone-directory lookup draft](registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md) |')
+          anchor = '| 23 | **MF-055**'
+          pos = text.find(anchor)
+          if pos < 0:
+              raise SystemExit('MF-055 active-row anchor not found')
+          end = text.find('\n', pos)
+          text = text[:end+1] + '\n' + row + '\n' + text[end+1:]
+
+          batch = ('- **505 / phone 9179 directory lookup:** **MF-056** goes first to the **Clackamas County Family History Society / Wilmer Gardner Research Library** '
+                   'for a 1953–1956 Oregon City Pacific Telephone issue and subscriber 9179. Use **Oregon Historical Society Research Library only as a fallback** '
+                   'if the local CCFHS route cannot locate the issue; do not send duplicate simultaneous requests. No fee is authorized.\n')
+          batch_anchor = '- **GFO Wheel directory bookends:** **MF-055**'
+          pos = text.find(batch_anchor)
+          if pos < 0:
+              raise SystemExit('MF-055 batching anchor not found')
+          end = text.find('\n', pos)
+          text = text[:end+1] + batch + text[end+1:]
+
+          tracker = '| **MF-056** | **NOT SENT — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED** | — | — | **No** | — | No |'
+          tracker_anchor = '| **MF-055** |'
+          # use the dispatch tracker occurrence, not the active queue row
+          matches = [m.start() for m in re.finditer(re.escape(tracker_anchor), text)]
+          if not matches:
+              raise SystemExit('MF-055 tracker anchor not found')
+          pos = matches[-1]
+          end = text.find('\n', pos)
+          text = text[:end+1] + tracker + '\n' + text[end+1:]
+
+          text = text.replace('The current practical list is the **23-item active queue in section 1**.',
+                              'The current practical list is the **24-item active queue in section 1**.')
+
+          section = '''\n\n---\n\n## 7 September 2026 — Oregon City 1953–1956 telephone directory / subscriber 9179 route\n<!-- MF-056 505 telephone-directory 9179 lookup — 2026-09-07 -->\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-056** | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY** | **Yes** | Public-online recovery has reasonably exhausted the practical routes for a **1953–1956 Oregon City Pacific Telephone & Telegraph / Pacific Telephone Northwest directory**. The visually verified **20 Nov. 1955** 505 Main beer/pool sale ad prints contact **9179** but no seller/business name. A surviving Sept. 1955 Portland PT&T directory has a stated inclusion list that omits Oregon City; 1956–57 advertising independently shows Oregon City four-digit numbers alongside separate Portland Olive numbers; and a 1961 contemporary item explicitly refers to a distinct Oregon City telephone-directory issue. Ask **CCFHS / Wilmer Gardner Research Library first** to locate the target local issue and identify subscriber 9179, 505 Main, Well/Well's/Wells variants and Carl R. Harr/Harr's Recreation Center. Use **Oregon Historical Society Research Library only if CCFHS cannot locate it**. A telephone listing proves a published subscriber/address association only, not business ownership, sale, tenancy, liquor-license ownership or building ownership. Ready unsent draft: `registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md`. |\n'''
+          text += section
+
+          p.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push MF-056 dashboard integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add MANUAL-FOLLOWUP.md
+          if git diff --cached --quiet; then
+            echo 'MF-056 dashboard integration already present.'
+            exit 0
+          fi
+          git commit -m 'Add MF-056 505 telephone-directory follow-up'
+          git push origin main
