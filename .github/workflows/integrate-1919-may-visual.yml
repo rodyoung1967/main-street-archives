@@ -1,0 +1,55 @@
+name: Integrate May 1919 visual review
+
+on:
+  push:
+    paths:
+      - '.github/workflows/integrate-1919-may-visual.yml'
+      - 'scripts/integrate_1919_may_visual.py'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync latest main
+        run: |
+          git fetch origin main
+          git pull --rebase origin main
+
+      - name: Compile integration script
+        run: python3 -m py_compile scripts/integrate_1919_may_visual.py
+
+      - name: Validate archive before integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Integrate May 1919 visual findings
+        run: python3 scripts/integrate_1919_may_visual.py
+
+      - name: Validate archive after integration
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push May 1919 integration
+        run: |
+          git config user.name "rodyoung1967"
+          git config user.email "49879113+rodyoung1967@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No integration changes to commit"
+            exit 0
+          fi
+          git commit -m "Close May 1919 newspaper visual audit"
+          for attempt in 1 2 3 4 5; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Parallel main change detected; rebasing"
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            sleep $((attempt*2))
+          done
+          exit 1
