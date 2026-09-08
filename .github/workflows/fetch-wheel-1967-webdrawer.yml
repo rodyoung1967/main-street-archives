@@ -14,11 +14,12 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch current City meeting archive page
+      - name: Fetch current City meeting archive and 1960s search pages
         run: |
           set -euxo pipefail
           mkdir -p /tmp/wheel-1967
           curl -L --fail --retry 2 'https://www.orcity.org/1844/Meeting-Document-Archive' -o /tmp/wheel-1967/meeting-document-archive.html
+          curl -L --fail --retry 2 'https://ormswd.synergydcs.com/HPRMWebDrawer/Record?q=webdrawercode%3A%22*023*%22+And+recTitle%3A%22*196*+city+commission*%22+And+recContainer%3A3AAgenda%20Packets%20and%20Minutes&sortBy=recTypedTitle-' -o /tmp/wheel-1967/commission-1960s-search.html
           curl -sSIL 'https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document' -o /tmp/wheel-1967/legacy-record-headers.txt || true
       - uses: actions/upload-artifact@v4
         with:
