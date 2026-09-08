@@ -2497,3 +2497,11 @@ Coverage: Courier 1/8/15/22/29 May, 32 pages; Enterprise 2/9/16/23/30 May, 40 pa
 Repository originals: `newspapers/oregon-city-courier/1919-may/` and `newspapers/oregon-city-enterprise/1919-may/`.  
 Related evidence: `E-267`.  
 Notes: 16 May Enterprise p2 directly reports alterations of an unlocated `Wolf building` nearing completion in a new-confectionery context, with rustic porch/pergola and blue-white interior; no address, Wolf identity or proprietor is printed, so no link to Wolf & Miller, S. Wolf, 503 or 505 is made. Ohio Dentists continues at 507½-over-Harding on 16 May; Farr Brothers market credits recur all five Enterprise issues; Theroux continues at 210 Seventh through 30 May. No source-explicit 501/503/505 occupant; bounded coverage only.
+
+## S-294 — June 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
+Coverage: Courier 5/12/19/26 Jun., 24 pages; Enterprise 6/13/20/27 Jun., 32 pages; **56/56 total**.  
+Repository originals: `newspapers/oregon-city-courier/1919-june/` and `newspapers/oregon-city-enterprise/1919-june/`.  
+Related evidence: `E-268`.  
+Notes: No source-explicit 501/503/505/505½ occupant or target physical-building event. The May unlocated Wolf-building lead remains unidentified. Farr Bros. appears in county-claims material without address/proprietor; Theroux Music House is directly at 210 Seventh through 27 Jun.; a Clem Dollar legal item supplies no premises. Bounded coverage only.

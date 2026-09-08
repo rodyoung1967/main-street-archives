@@ -535,3 +535,8 @@ Continue exact-address searches for 501/503/505 and target construction/property
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 **Priority: HIGH — ONLINE FIRST.** The 16 May 1919 Enterprise (`S-293` / `E-267`) directly documents substantial alterations to an unlocated **Wolf building** in a new-confectionery context. Search May–July 1919 Enterprise/Courier advertising and local items for the confectionery opening, porch/pergola descriptions, `Wolf building`, proprietor names, address wording and later business references. Cross-check 1919–20 directories and property/permit sources. Treat Wolf & Miller (`BUS-012`) and S. Wolf of Portland as separate candidates unless a contemporary source explicitly bridges identity or premises.
+
+## June 1919 follow-forward on May Wolf-building lead
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+The complete June monthly scan pass (`S-294` / `E-268`) did **not** identify the May `Wolf building` confectionery by address, proprietor or Wolf identity. Continue the existing **ONLINE-FIRST** route into July: search opening advertisements, confectionery references, porch/pergola descriptions, Wolf-name property references and exact-address wording. June silence is coverage only and does not justify a 503/505 assignment or a same-person merge.

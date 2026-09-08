@@ -489,3 +489,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
 - Full review: [evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **June 1919 Enterprise + Courier**.
+
+## 1919 June complete visual batch
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- June local-newspaper coverage: **56/56 visually verified pages** (`S-294` / `E-268`); Jan–Jun cumulative **366 pages**.
+- No source-explicit 501/503/505/505½ occupant or target construction/property event; bounded coverage only.
+- May's unlocated `Wolf building` lead remains unidentified; June creates no Wolf/503/505 bridge.
+- Farr Bros. appears in late-June county claims without address/proprietor; Theroux remains at 210 Seventh through 27 Jun.; the 13 Jun. Clem Dollar candidate is a non-premises debt/court item.
+- Full review: [evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological batch: **July 1919**, with `MF-030` preserving the Banner-Courier microfilm gap beginning 17 Jul.

@@ -2706,3 +2706,17 @@ Claims:
 - Theroux Music House continues at **210 Seventh Street** through 30 May;
 - no source-explicit 501/503/505 occupant or target physical-building event was established; no-hit is bounded coverage only.
 Confidence: **Very High** for scan-visible wording and monthly page coverage; **Unresolved** for Wolf-building identity/location; none for an unprinted target-premises bridge.
+
+## E-268 — June 1919 visual review: bounded target-frontage coverage and business controls
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
+Sources: `S-294`.  
+Claims:
+- all **56/56** recovered June pages were visually inspected after printed title/date/page identity review;
+- no source-explicit 501/503/505/505½ occupant or target construction/property event was established;
+- the May unlocated `Wolf building` lead was not identified or located by the June batch;
+- 13 Jun. Enterprise p1 visually confirms the Clem Dollar item is an old debt/court dispute with no business premises or target-address relationship;
+- 26/27 Jun. county-claims material names Farr Bros. without address or individual proprietor;
+- 27 Jun. Enterprise p7 directly continues Theroux Music House at **210 Seventh Street**;
+- the Falls Restaurant sale article prints no address, and the Prouty confectionery/pool-table item is Canby context rather than the target frontage.
+Confidence: **Very High** for scan-visible wording and monthly page coverage; none for an unprinted target-premises or Wolf identity bridge.

@@ -791,3 +791,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-293` / `E-267` → `BUS-104` Farr Brothers market-report continuation across all five Enterprise issues.
 - `S-293` / `E-267` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 30 May.
 - `T-100` → 16 May 1919 unlocated Wolf-building alteration event.
+
+## S-294 / E-268 — June 1919 complete monthly local-newspaper visual batch
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-294` / `E-268` → **56/56** June pages visually verified; bounded 501/503/505/505½ coverage only.
+- `S-294` / `E-268` → `BUS-104` Farr Bros. late-June county-claims appearance without address/proprietor.
+- `S-294` / `E-268` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 27 June.
+- `S-294` / `E-268` → 13 June Clem Dollar candidate visually resolved as a non-premises debt/court item; no 505 bridge.
+- No building, ownership or Wolf-identity relation created from June no-hit coverage.

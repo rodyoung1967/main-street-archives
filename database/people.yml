@@ -535,6 +535,7 @@ people:
     - E-265
     - E-266
     - E-267
+    - E-268
     related_sources:
     - S-120
     - S-121
@@ -544,6 +545,7 @@ people:
     - S-291
     - S-292
     - S-293
+    - S-294
 
   - id: P-045
     name: E. T. Mass

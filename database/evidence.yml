@@ -4026,3 +4026,25 @@ evidence:
     notes: >-
       The May Wolf-building item is retained as an unlocated same-name research lead only. It must
       not be assigned to BUS-012, S. Wolf, 503 Main or 505 Main without an independent bridge.
+
+# 1919 June Enterprise Courier visual review — 2026-09-07
+  - id: E-268
+    name: "June 1919 visual review: bounded target-frontage coverage and business controls"
+    type: Primary newspaper scan batch
+    claims:
+      - 56/56 recovered June 1919 pages visually verified.
+      - No source-explicit 501, 503, 505 or 505-half Main occupant or target physical-building event was established.
+      - June did not identify or locate the May unlocated Wolf-building lead.
+      - A 13 June Clem Dollar court item supplies no business premises or target-address relationship.
+      - Farr Bros. appears in late-June county-claims material without address or individual proprietor.
+      - Theroux Music House continued at 210 Seventh Street through 27 June.
+    confidence: Very High for scan-visible wording and page coverage; none for an unprinted target-premises or Wolf identity bridge
+    related_sources: [S-294]
+    related_evidence: []
+    related_businesses: [BUS-104, BUS-029]
+    related_people: [P-044]
+    related_buildings: []
+    sources: [S-294]
+    notes: >-
+      Bounded monthly coverage only. No target vacancy, closure, relocation, demolition, ownership,
+      construction or Wolf-identity inference is made from June silence.

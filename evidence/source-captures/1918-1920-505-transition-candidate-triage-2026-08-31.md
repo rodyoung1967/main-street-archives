@@ -48,3 +48,8 @@ The strongest exact-number 1920 fact remains the visually verified 505½ pool-ha
 ## 1 September 2026 visual follow-up on candidate 7
 
 Candidate **#7, 11 July 1919 p. 5**, has now been visually inspected on the actual *Oregon City Enterprise* scan and promoted from OCR-only to `S-160` / `E-144`. The page confirms Gilbert Miller family residence/migration context described in the original triage. It does **not** name Wolf & Miller, 505/505½, property ownership, or construction. All other dispositions in this 31 August triage remain unchanged; the 18-page triage itself was not repeated.
+
+## 7 September 2026 visual follow-up on candidate 4
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+Candidate **#4, 13 June 1919 Enterprise p1**, has now been visually inspected during the complete June monthly scan pass (`S-294` / `E-268`). The original scan confirms the prior disposition: the item is an old R. Petzold/Clem Dollar debt dispute over goods allegedly sold mostly in June 1915 and prints no pool-hall premises, numbered Main Street address, 505/505½ relationship, or construction event. The prior triage conclusion is unchanged.

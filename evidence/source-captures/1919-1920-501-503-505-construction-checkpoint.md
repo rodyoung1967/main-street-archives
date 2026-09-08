@@ -108,3 +108,8 @@ The exact 2 June 1920 Commission scan remains unrecovered; the 1919–1920 Polk 
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 The **16 May 1919 Enterprise p2** scan (`E-267` / `S-293`) directly reports alterations nearing completion to an unlocated **Wolf building** in connection with a new confectionery. Architectural details include a rustic front porch, side pergola and blue-and-white interior. Because the item gives no address, owner identity or proprietor, it **cannot be assigned to 501/503/505 or used as proof of the surviving 503/505 construction date**. It remains a high-value location/identity lead for the broader 1919 structural-change question.
+
+## June 1919 complete monthly visual addition
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+The complete June local-newspaper scan pass (`S-294` / `E-268`) reviewed **56/56 recovered pages** and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. It also supplied no address or identity bridge for the unlocated **Wolf building** alteration reported in May. This is bounded coverage only and does not establish that no physical work occurred.

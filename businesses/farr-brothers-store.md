@@ -55,3 +55,8 @@ All four April Enterprise market reports — **4 Apr. p3, 11 Apr. p6, 18 Apr. p2
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 The visually reopened **2/9/16/23/30 May 1919 Enterprise** market reports each credit **Brady Mercantile Company and Farr Brothers** (`E-267` / `S-293`). No address or individual Farr proprietor is printed. This does not bridge the store to Edwin/Alice Farr or Farr's Pool Hall at 505 Main.
+
+## June 1919 county-claims appearance
+<!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
+
+The visually reopened **26 June Courier p6** and **27 June Enterprise p7** county-claims material names **Farr Bros.** (`E-268` / `S-294`). This is a dated business/payee appearance only. No exact address or individual Farr proprietor is printed, and the parallel newspaper appearances do not create a bridge to Edwin/Alice Farr or Farr's Pool Hall at 505 Main.
