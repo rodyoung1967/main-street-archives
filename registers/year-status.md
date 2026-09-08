@@ -1,6 +1,6 @@
 # Annual Research Status
 
-Audit date: 28 August 2026; targeted 1925 checkpoint added 1 September 2026.
+Audit date: 28 August 2026; targeted checkpoints added through 8 September 2026. The 8 September amendment reconciles the 1928 municipal-report preservation and visual-review status.
 Scope: annual online-review work currently documented for 1904–1918, plus targeted 1922 fire/property and 1925–1926 municipal/occupancy checkpoints. The later additions do not certify a fresh audit of the earlier years.
 
 This is the canonical status register for annual research. The completion levels and certification requirements are defined in `RESEARCH-STANDARD.md`. A legacy targeted, routine, OCR-assisted, or “complete enough for progression” pass does not qualify as `ONLINE COMPLETE` unless every required title, issue, retrievable page, online source class, retrieval gap, and manual callout has been audited.
@@ -41,7 +41,7 @@ This is the canonical status register for annual research. The completion levels
 
 The project steward paused research after asking whether 1924–1927 had been finished. **No completed 1924–1927 sequence is certified.** The 1925 and 1926 municipal reports are fully visually reviewed, but those years remain **IN PROGRESS**. Completion of the 1924 and 1927 municipal-report work has **not been established**; audit their existing records first when resuming. Absence from a report listing is not evidence that a year's report or other records did not exist.
 
-**1928 targeted status: IN PROGRESS.** Its 29-page municipal report was retrieved and text-extracted, but **0/29 PDF pages were visually reviewed** before the pause. The apparent March 1 / 503 Main and September 11 / Fifth & Main garage entries remain **OCR/TEXT ONLY**. This was a lead-driven detour, not a certification of earlier years. The [1928 pause checkpoint](../evidence/source-captures/1928-municipal-fire-report-leads-503-main-fifth-main-garage.md) records the official URL, file hash, uncommitted-PDF status and resume order.
+**1928 targeted status: IN PROGRESS.** The official 29-page municipal report is preserved under `records/municipal/annual-reports/` (commit `6412d71`; 23,068,960 bytes; SHA-256 `270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be`). **PDF pages 4 and 10 are visually verified; 27 pages remain pending full visual review.** Page 4 supplies the report-era aerial baseline, and page 10 directly prints the **Mar. 1 — 503 Main Res** and **Sept. 11 — 5th & Main Garage** rows. Cause/damage columns still require high-resolution row transcription before assignment. This targeted review is not annual certification. The [current 1928 checkpoint](../evidence/source-captures/1928-municipal-fire-report-leads-503-main-fifth-main-garage.md) controls; the older 2 September research-log entry remains a historical record of the pre-commit pause.
 
 ## Shared manual-work callouts
 
