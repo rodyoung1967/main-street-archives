@@ -1,0 +1,30 @@
+name: Fetch Wheel 1967 WebDrawer record
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-wheel-1967-webdrawer.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch official 1967 Commission bound record
+        run: |
+          set -euxo pipefail
+          mkdir -p /tmp/wheel-1967
+          curl -L --fail --retry 3 --retry-delay 2 \
+            'https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723655/File/document' \
+            -o /tmp/wheel-1967/oregon-city-commission-1967-record-4723655.pdf
+          file /tmp/wheel-1967/oregon-city-commission-1967-record-4723655.pdf
+          ls -lh /tmp/wheel-1967/oregon-city-commission-1967-record-4723655.pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: wheel-1967-webdrawer-4723655
+          path: /tmp/wheel-1967/
+          retention-days: 1
