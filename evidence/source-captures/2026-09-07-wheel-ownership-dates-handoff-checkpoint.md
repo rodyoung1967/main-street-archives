@@ -295,3 +295,36 @@ The Wheel ownership problem is now best treated as **two separate transition inv
 2. **Raye → Wiitanen:** A newly recovered **6 Jun. 1979** municipal liquor application for The Wheel is now the best dated lead; Richard M. Wiitanen is directly documented as owner by **Aug. 1985**. The 1979 applicant and application type are the immediate priority.
 
 No source yet justifies an exact ownership-transfer date for either transition.
+
+---
+
+## 7 September 2026 continuation — SUPERSEDING 1979 statutory interpretation control
+<!-- 1979 Wheel application statutory interpretation correction — 2026-09-07 -->
+
+The earlier phrases **“HIGH-VALUE TRANSFER / LICENSE LEAD”** and **“best lead on the Raye → Wiitanen sale”** above are preserved as research history but are **superseded in evidentiary weight** by a direct check of the **1979 Oregon Revised Statutes**.
+
+Official 1979 ORS chapter 471 establishes that:
+
+- **ORS 471.290(1)** required any person seeking **a license or renewal of a license** to make an application to the Oregon Liquor Control Commission on Commission forms; the form was to identify the applicant and business location, among other required information.
+- **ORS 471.355(1)** provided that licenses and renewals generally ran for one year and could expire on **31 March, 30 June, 30 September, or 31 December**.
+
+Research consequence: the phrase **“liquor license application”** in the **6 June 1979** Oregon City minute is legally compatible with an ordinary **renewal application**. The June timing does not independently distinguish renewal from another licensing action because licenses could expire at multiple quarter ends.
+
+Therefore the safe current interpretation is:
+
+- **DOCUMENTED / DIRECT:** on 6 June 1979 the City approved a liquor-license application for The Wheel.
+- **UNRESOLVED:** applicant/licensee, application category, renewal vs. ownership/licensee change, seller, buyer, and business-sale date.
+- **DO NOT characterize the 6 June 1979 action as transfer-like, a probable ownership change, or a purchase date from its wording or timing alone.**
+- It remains a **high-value dated licensing lead** because it falls within the independently supported family-history → August 1985 successor bracket, but the decisive evidence is the underlying application/packet.
+
+Oregon City's current Meeting Document Archive explicitly catalogs **“1970 to 1979 City Commission Agenda Packets and Minutes.”** The specific 6 June 1979 agenda/application packet was not recovered through the public online route in this continuation, so it remains a **RETRIEVAL GAP**, not evidence that the packet never existed or was destroyed.
+
+The controlling continuation capture is:
+
+`evidence/source-captures/1979-wheel-applicant-online-continuation-directory-route-2026-09-07.md`
+
+Commit preserving the statutory/packet interpretation control:
+
+`fab59d70d5ac4df93c455fa2b96a81c5efe6d520` — **Refine 1979 Wheel liquor application interpretation**
+
+The immediate priority remains to identify the **applicant/licensee and application category** from the City agenda/application packet or corresponding OLCC material, followed by inspection of the surviving **1979 and 1980 Oregon City directories**. No new `S-###`, `E-###`, `P-###`, `BUS-###`, or `IMG-####` identifiers were assigned and no ownership event was propagated from this correction.
