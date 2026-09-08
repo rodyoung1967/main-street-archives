@@ -1,0 +1,135 @@
+name: Integrate MF-053 Wheel 1979 manual routes
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-mf053-wheel-1979.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Patch MF-053 into manual dashboard
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('MANUAL-FOLLOWUP.md')
+          text = path.read_text(encoding='utf-8')
+          marker = '<!-- 1979-wheel-applicant-manual-routes-2026-09-07 -->'
+          request = 'registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md'
+
+          if marker in text:
+              print('MF-053 dashboard integration already present.')
+              raise SystemExit(0)
+
+          old_header = 'Last amended: **6 September 2026** — added a visually confirmed 1917 Enterprise source-association gap and its exhausted online-recovery route; no existing MF ID was renumbered or removed.'
+          new_header = 'Last amended: **7 September 2026** — added **MF-053** for the unresolved 6 June 1979 Wheel applicant/application type and the Raye → Wiitanen business-transition record routes; no existing MF ID was renumbered or removed.'
+          if old_header in text:
+              text = text.replace(old_header, new_header, 1)
+
+          active_row = f'| 21 | **MF-053** | Identify the **6 Jun. 1979 Wheel applicant/application type** through the City agenda/supporting packet, permanent OLCC Commission records, 6 Jun. 1979 *Enterprise-Courier* microfilm, and the 1980 Oregon City directory | Directly targets the unresolved **Raye → Wiitanen Wheel business transition at 503** without presuming that the generic 1979 liquor application was a transfer | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. [Request package]({request}) |\n\n'
+          needle = '### Recommended batching\n'
+          if needle not in text:
+              raise SystemExit('Could not locate Recommended batching insertion point')
+          text = text.replace(needle, active_row + needle, 1)
+
+          batching = '- **1979 Wheel / 503 business-transition batch:** **MF-053** is separate from MF-052 (pre-Raye acquisition) and MF-048 (503 real-estate/deed chain). Its four routes all answer the later Raye → Wiitanen **business/license** transition and should preserve applicant/licensee, application type, and bounded no-hit scope without converting a liquor action into a sale.\n'
+          batching_anchor = '- **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034\'s deed proof.\n'
+          if batching_anchor in text:
+              text = text.replace(batching_anchor, batching_anchor + batching, 1)
+          else:
+              raise SystemExit('Could not locate batching anchor')
+
+          tracker_row = f'| **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |\n'
+          tracker_anchor = '| **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |\n'
+          if tracker_anchor in text:
+              text = text.replace(tracker_anchor, tracker_anchor + tracker_row, 1)
+          else:
+              raise SystemExit('Could not locate dispatch tracker anchor')
+
+          text = text.replace('The current practical list is the **20-item active queue in section 1**.', 'The current practical list is the **21-item active queue in section 1**.', 1)
+          old_later = 'The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).'
+          new_later = 'The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).'
+          if old_later in text:
+              text = text.replace(old_later, new_later, 1)
+
+          section = f'''\n\n---\n\n## 7 September 2026 — 1979 Wheel applicant / Raye → Wiitanen business-transition records\n{marker}\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-053** | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT** | **Yes** | Public-online recovery did not identify the applicant or application category behind the **6 June 1979** Oregon City approval for The Wheel. **1979 ORS 471.290** confirms that the generic word `application` could include a renewal, so the City minute cannot be promoted to transfer evidence. Use four bounded routes: **(A)** Oregon City Recorder — 6 Jun. 1979 agenda/supporting packet; **(B)** Oregon State Archives — permanent OLCC Commission Meeting Records, May–Jul. 1979; **(C)** Oregon City Public Library — 6 Jun. 1979 *Enterprise-Courier* microfilm / published Commission agenda; **(D)** University of Idaho Special Collections — 1980 Oregon City directory lookup. The decisive fields are **applicant/licensee identity** and **application type**. Ready-to-send package: `{request}`. No request has been sent. |\n\n**Separation rule:** MF-053 concerns the later **Raye → Wiitanen Wheel business/license transition at 503 Main**. It does not replace **MF-052** (pre-Raye Wheel acquisition/proprietor work) or **MF-048** (503 real-estate/deed chain), and it must not be mixed with the separate 505 Main tavern chain.\n'''
+          text = text.rstrip() + section + '\n'
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+
+      - name: Commit and push dashboard integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+
+          stage_and_commit () {
+            git add MANUAL-FOLLOWUP.md
+            if git diff --cached --quiet; then
+              return 1
+            fi
+            git commit -m 'Add MF-053 Wheel transition manual routes'
+            return 0
+          }
+
+          if ! stage_and_commit; then
+            echo 'MF-053 manual integration already present.'
+            exit 0
+          fi
+
+          for attempt in 1 2 3 4 5 6; do
+            echo "push attempt $attempt"
+            if git push origin main; then
+              exit 0
+            fi
+            echo 'main advanced; rebuild MF-053 dashboard patch from latest main'
+            git fetch origin main
+            git reset --hard origin/main
+            python3 - <<'PY'
+          from pathlib import Path
+          path = Path('MANUAL-FOLLOWUP.md')
+          text = path.read_text(encoding='utf-8')
+          marker = '<!-- 1979-wheel-applicant-manual-routes-2026-09-07 -->'
+          request = 'registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md'
+          if marker in text:
+              raise SystemExit(0)
+          old_header = 'Last amended: **6 September 2026** — added a visually confirmed 1917 Enterprise source-association gap and its exhausted online-recovery route; no existing MF ID was renumbered or removed.'
+          new_header = 'Last amended: **7 September 2026** — added **MF-053** for the unresolved 6 June 1979 Wheel applicant/application type and the Raye → Wiitanen business-transition record routes; no existing MF ID was renumbered or removed.'
+          if old_header in text: text = text.replace(old_header, new_header, 1)
+          row = f'| 21 | **MF-053** | Identify the **6 Jun. 1979 Wheel applicant/application type** through the City agenda/supporting packet, permanent OLCC Commission records, 6 Jun. 1979 *Enterprise-Courier* microfilm, and the 1980 Oregon City directory | Directly targets the unresolved **Raye → Wiitanen Wheel business transition at 503** without presuming that the generic 1979 liquor application was a transfer | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. [Request package]({request}) |\n\n'
+          text = text.replace('### Recommended batching\n', row + '### Recommended batching\n', 1)
+          anchor = '- **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034\'s deed proof.\n'
+          text = text.replace(anchor, anchor + '- **1979 Wheel / 503 business-transition batch:** **MF-053** is separate from MF-052 (pre-Raye acquisition) and MF-048 (503 real-estate/deed chain). Its four routes all answer the later Raye → Wiitanen **business/license** transition and should preserve applicant/licensee, application type, and bounded no-hit scope without converting a liquor action into a sale.\n', 1)
+          text = text.replace('| **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |\n', '| **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |\n| **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |\n', 1)
+          text = text.replace('The current practical list is the **20-item active queue in section 1**.', 'The current practical list is the **21-item active queue in section 1**.', 1)
+          text = text.replace('The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).', 'The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).', 1)
+          section = f'''\n\n---\n\n## 7 September 2026 — 1979 Wheel applicant / Raye → Wiitanen business-transition records\n{marker}\n\n| ID | Audited disposition | Still needed? | Audit decision |\n| --- | --- | --- | --- |\n| **MF-053** | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT** | **Yes** | Public-online recovery did not identify the applicant or application category behind the **6 June 1979** Oregon City approval for The Wheel. **1979 ORS 471.290** confirms that the generic word `application` could include a renewal, so the City minute cannot be promoted to transfer evidence. Use four bounded routes: **(A)** Oregon City Recorder — 6 Jun. 1979 agenda/supporting packet; **(B)** Oregon State Archives — permanent OLCC Commission Meeting Records, May–Jul. 1979; **(C)** Oregon City Public Library — 6 Jun. 1979 *Enterprise-Courier* microfilm / published Commission agenda; **(D)** University of Idaho Special Collections — 1980 Oregon City directory lookup. The decisive fields are **applicant/licensee identity** and **application type**. Ready-to-send package: `{request}`. No request has been sent. |\n\n**Separation rule:** MF-053 concerns the later **Raye → Wiitanen Wheel business/license transition at 503 Main**. It does not replace **MF-052** (pre-Raye Wheel acquisition/proprietor work) or **MF-048** (503 real-estate/deed chain), and it must not be mixed with the separate 505 Main tavern chain.\n'''
+          path.write_text(text.rstrip() + section + '\n', encoding='utf-8')
+          PY
+            python3 scripts/validate_archive.py
+            git add MANUAL-FOLLOWUP.md
+            if git diff --cached --quiet; then
+              echo 'Equivalent MF-053 integration already landed.'
+              exit 0
+            fi
+            git commit -m 'Add MF-053 Wheel transition manual routes'
+            sleep 2
+          done
+
+          echo 'Unable to push MF-053 dashboard integration after retries.' >&2
+          exit 1
