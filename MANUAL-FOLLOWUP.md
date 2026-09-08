@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **6 September 2026** — added a visually confirmed 1917 Enterprise source-association gap and its exhausted online-recovery route; no existing MF ID was renumbered or removed.
+Last amended: **7 September 2026** — added **MF-053** for the unresolved 6 June 1979 Wheel applicant/application type and the Raye → Wiitanen business-transition record routes; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -63,6 +63,8 @@ These are the **current high-value human actions**. They are ordered for the act
 
 | 20 | **MF-052** | Inspect/search **The Morton Journal, 1945–7 Aug. 1947** and first establish whether the **1946 Lewis County / Centralia-Chehalis directory actually includes Morton**; if covered, check LaFarlette variants and Wheel Cafe entries. In parallel, use the prepared Washington LCB and Oregon OLCC historical-license requests to identify the Morton Wheel proprietor and the pre-Raye 503 Main Wheel licensee | Public-online searching did not expose the target Morton Journal run, did not establish Morton coverage in the 1946 directory, and did not recover a reliable 1940s/1950s Morton Wheel proprietor or a 1958–67 Oregon City pre-Raye proprietor. The shared Wheel name remains only a clue | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. [Combined Washington State Library + OLCC + Washington LCB drafts](registers/research-requests/morton-wheel-and-oregon-city-wheel-pre-raye-ownership-bridge-request-2026-09-05.md) |
 
+| 21 | **MF-053** | Identify the **6 Jun. 1979 Wheel applicant/application type** through the City agenda/supporting packet, permanent OLCC Commission records, 6 Jun. 1979 *Enterprise-Courier* microfilm, and the 1980 Oregon City directory | Directly targets the unresolved **Raye → Wiitanen Wheel business transition at 503** without presuming that the generic 1979 liquor application was a transfer | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT**. [Request package](registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
@@ -72,6 +74,7 @@ Do not send unnecessary duplicate emails.
 - **OHS/Clackamas early-property batch:** MF-006, MF-007 and MF-019 answer related but distinct legal/property questions; do not treat one as a substitute for the others.
 - **Clackamas later ownership chain:** MF-034 has two complementary County requests: Assessment & Taxation for the parcel-first chronological owner/deed-reference record, then Recording for the legal conveyance. Keep both under one MF item because they answer the same transaction question from different County record series.
 - **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034's deed proof.
+- **1979 Wheel / 503 business-transition batch:** **MF-053** is separate from MF-052 (pre-Raye acquisition) and MF-048 (503 real-estate/deed chain). Its four routes all answer the later Raye → Wiitanen **business/license** transition and should preserve applicant/licensee, application type, and bounded no-hit scope without converting a liquor action into a sale.
 
 ---
 
@@ -253,6 +256,7 @@ All correspondence is **UNSENT** as of 5 September 2026, per the project steward
 | MF-018 + MF-023 | NOT SENT — DRAFT READY | — | — | — | — | No |
 
 | **MF-050** | **NOT SENT — TWO DRAFTS READY** | — | — | — | — | No |
+| **MF-053** | **NOT SENT — FOUR ROUTES READY** | — | — | — | — | No |
 
 When a request is sent, record the actual date, channel and exact request version. Do not place private payment information or unnecessary personal correspondence in the public repository. Preserve supplied historical files under canonical source folders when permission allows, visually inspect originals before promoting claims, and record precise no-hit scope when an institution reports that a series was checked without a target result.
 
@@ -262,7 +266,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **20-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), and **MF-048** (503 chain, now **Ascend self-service first** before fallback outreach).
+The current practical list is the **21-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -379,3 +383,15 @@ A 7 September 2026 focused continuation found two materially useful controls for
 **Next manual action under MF-052, not yet sent:** inspect those six directory volumes for **The Wheel / Wheel Cafe / 503 Main / 9106 / later number**, plus **Floyd, Raye/Rae LaFarlette and La Farlette** variants. Use the permanent OLCC Commission agenda/exhibit route in parallel. Also retrieve the exact **11 July 2012 Clackamas Review p. A9** obituary for **Raye LaFarlette Grisham**; the index is recovered, but the obituary text is not online in the current route.
 
 Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md`.
+
+---
+
+## 7 September 2026 — 1979 Wheel applicant / Raye → Wiitanen business-transition records
+<!-- 1979-wheel-applicant-manual-routes-2026-09-07 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-053** | **ACTIVE MANUAL — FOUR ROUTES READY / NOT SENT** | **Yes** | Public-online recovery did not identify the applicant or application category behind the **6 June 1979** Oregon City approval for The Wheel. **1979 ORS 471.290** confirms that the generic word `application` could include a renewal, so the City minute cannot be promoted to transfer evidence. Use four bounded routes: **(A)** Oregon City Recorder — 6 Jun. 1979 agenda/supporting packet; **(B)** Oregon State Archives — permanent OLCC Commission Meeting Records, May–Jul. 1979; **(C)** Oregon City Public Library — 6 Jun. 1979 *Enterprise-Courier* microfilm / published Commission agenda; **(D)** University of Idaho Special Collections — 1980 Oregon City directory lookup. The decisive fields are **applicant/licensee identity** and **application type**. Ready-to-send package: `registers/research-requests/1979-wheel-license-transition-record-requests-2026-09-07.md`. No request has been sent. |
+
+**Separation rule:** MF-053 concerns the later **Raye → Wiitanen Wheel business/license transition at 503 Main**. It does not replace **MF-052** (pre-Raye Wheel acquisition/proprietor work) or **MF-048** (503 real-estate/deed chain), and it must not be mixed with the separate 505 Main tavern chain.
+
