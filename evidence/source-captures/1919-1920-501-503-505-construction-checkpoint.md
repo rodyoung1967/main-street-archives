@@ -113,3 +113,8 @@ The **16 May 1919 Enterprise p2** scan (`E-267` / `S-293`) directly reports alte
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
 
 The complete June local-newspaper scan pass (`S-294` / `E-268`) reviewed **56/56 recovered pages** and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. It also supplied no address or identity bridge for the unlocated **Wolf building** alteration reported in May. This is bounded coverage only and does not establish that no physical work occurred.
+
+## July 1919 online-exposed visual addition
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+The July online scan pass (`S-295` / `E-269`) visually reviewed **38/38 exposed pages** — final Courier 3 Jul. plus Enterprise 4/11/18/25 Jul. — and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. This does **not** cover the inaccessible 17/24/31 Jul. Banner-Courier issues, which remain `MF-030`; no physical-work absence may be inferred across that gap.

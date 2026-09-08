@@ -2720,3 +2720,17 @@ Claims:
 - 27 Jun. Enterprise p7 directly continues Theroux Music House at **210 Seventh Street**;
 - the Falls Restaurant sale article prints no address, and the Prouty confectionery/pool-table item is Canby context rather than the target frontage.
 Confidence: **Very High** for scan-visible wording and monthly page coverage; none for an unprinted target-premises or Wolf identity bridge.
+
+## E-269 — July 1919 online visual review: bounded target coverage with Banner-Courier retrieval gap
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper online scan batch with explicit manual title gap.  
+Sources: `S-295`; existing exact-page controls `S-152`, `S-160`.  
+Claims:
+- all **38/38 online-exposed July pages** were visually inspected after printed title/date/page identity review;
+- *Oregon City Courier* ends in the institutional July sequence at 3 Jul.; 17/24/31 Jul. Banner-Courier remain manual gaps under `MF-030`;
+- no source-explicit 501/503/505/505½ occupant or target construction/property event was established in the online pages;
+- 18/25 Jul. cleaner pages visibly reconfirm existing `E-136` but are not duplicated;
+- 11 Jul. Gilbert Miller page visibly reconfirms existing `E-144` but is not duplicated;
+- 25 Jul. directly continues Theroux Music House at 210 Seventh Street;
+- 11/18/25 Jul. market reports credit Farr Brothers without address or individual proprietor.
+Confidence: **Very High** for scan-visible wording and online-page coverage; **RETRIEVAL GAP** for Banner-Courier 17/24/31 Jul.; none for an unprinted target occupant/event.

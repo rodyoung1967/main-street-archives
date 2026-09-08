@@ -43,3 +43,8 @@ Highest-priority manual searches in that microfilm interval:
 - Zero online issues do not imply no newspaper coverage existed in 1919–1920.
 - The original bounded script and machine-readable zero-result inventory remain in the repository for reproducibility: `scripts/discover_1919_1920_banner_courier.py` and `evidence/source-captures/1919-1920-banner-courier-ocr-inventory.json`.
 - This pass does not mark 1919 or 1920 ONLINE COMPLETE.
+
+## July 1919 monthly visual-pass reconfirmation
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+The July monthly scan workflow (`S-295` / `E-269`) corrected the issue calendar against institutional holdings: the final *Oregon City Courier* issue in the sequence is **3 July 1919**; the Courier/Banner merger occurred **8 July**; successor *Banner-Courier* holdings begin **17 July**. Direct PDF-route probes for **17, 24 and 31 July 1919** again returned no exposed online issue pages. Those dates remain **RETRIEVAL GAPS / `MF-030`**, not negative evidence. The 3 July Courier and all four July Enterprise issues were preserved and visually reviewed separately.

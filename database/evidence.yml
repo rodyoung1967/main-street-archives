@@ -4048,3 +4048,25 @@ evidence:
     notes: >-
       Bounded monthly coverage only. No target vacancy, closure, relocation, demolition, ownership,
       construction or Wolf-identity inference is made from June silence.
+
+# 1919 July online Enterprise Courier visual review — 2026-09-07
+  - id: E-269
+    name: "July 1919 online visual review: bounded target coverage with Banner-Courier retrieval gap"
+    type: Primary newspaper online scan batch with explicit manual retrieval gap
+    claims:
+      - 38/38 online-exposed July 1919 pages visually verified.
+      - No source-explicit 501, 503, 505 or 505-half Main occupant or target physical-building event was established in those online pages.
+      - Banner-Courier issues of 17, 24 and 31 July remain manual microfilm retrieval gaps under MF-030.
+      - Existing cleaner/dyer E-136 and Gilbert Miller E-144 were reconfirmed but not duplicated.
+      - Theroux Music House continued at 210 Seventh Street through 25 July.
+      - Farr Brothers appeared in July market reports without address or individual proprietor.
+    confidence: Very High for visible online pages; retrieval gap for inaccessible Banner-Courier issues
+    related_sources: [S-295]
+    related_evidence: [E-136, E-144]
+    related_businesses: [BUS-104, BUS-029]
+    related_people: [P-044]
+    related_buildings: []
+    sources: [S-295]
+    notes: >-
+      July is not a complete local-newspaper month because the successor Banner-Courier is unavailable online.
+      No negative inference is made across the inaccessible issues.

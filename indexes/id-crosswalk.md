@@ -800,3 +800,13 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-294` / `E-268` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 27 June.
 - `S-294` / `E-268` → 13 June Clem Dollar candidate visually resolved as a non-premises debt/court item; no 505 bridge.
 - No building, ownership or Wolf-identity relation created from June no-hit coverage.
+
+## S-295 / E-269 — July 1919 online-exposed monthly visual batch
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-295` / `E-269` → **38/38 online-exposed July pages** visually verified; Banner-Courier 17/24/31 Jul. remain `MF-030` retrieval gaps.
+- `S-295` / `E-269` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 25 Jul.
+- `S-295` / `E-269` → `BUS-104` Farr Brothers July market-report continuation without address/proprietor.
+- `S-152` / `E-136` → 18/25 Jul. cleaner/dyer repeat re-encountered, not duplicated.
+- `S-160` / `E-144` → 11 Jul. Gilbert Miller item re-encountered, not duplicated.
+- No target building, ownership or Wolf relation created from bounded July online coverage.

@@ -2505,3 +2505,11 @@ Coverage: Courier 5/12/19/26 Jun., 24 pages; Enterprise 6/13/20/27 Jun., 32 page
 Repository originals: `newspapers/oregon-city-courier/1919-june/` and `newspapers/oregon-city-enterprise/1919-june/`.  
 Related evidence: `E-268`.  
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building event. The May unlocated Wolf-building lead remains unidentified. Farr Bros. appears in county-claims material without address/proprietor; Theroux Music House is directly at 210 Seventh through 27 Jun.; a Clem Dollar legal item supplies no premises. Bounded coverage only.
+
+## S-295 — July 1919 online-exposed Oregon City Enterprise + final Courier visual-review batch
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans plus retrieval-gap manifest; **38/38 online-exposed pages VISUALLY VERIFIED** 7 September 2026.  
+Coverage: final Courier issue 3 Jul., 6 pages; Enterprise 4/11/18/25 Jul., 32 pages; Banner-Courier 17/24/31 Jul. **manual retrieval gaps** under `MF-030`.  
+Repository originals: `newspapers/oregon-city-courier/1919-july/`, `newspapers/oregon-city-enterprise/1919-july/`; gap manifest `newspapers/banner-courier/1919-july/manifest.json`.  
+Related evidence: `E-269`.  
+Notes: No exact 501/503/505/505½ occupant or target physical-building event in the 38 online pages. Previously integrated July cleaner (`S-152`/`E-136`) and Gilbert Miller (`S-160`/`E-144`) pages were re-encountered but not duplicated. Theroux continues at 210 Seventh through 25 Jul.; Farr Brothers appears in market reports without address/proprietor.

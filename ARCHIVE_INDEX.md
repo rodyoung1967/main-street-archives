@@ -500,3 +500,16 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - Farr Bros. appears in late-June county claims without address/proprietor; Theroux remains at 210 Seventh through 27 Jun.; the 13 Jun. Clem Dollar candidate is a non-premises debt/court item.
 - Full review: [evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **July 1919**, with `MF-030` preserving the Banner-Courier microfilm gap beginning 17 Jul.
+
+## 1919 July online-exposed visual batch
+<!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- July online coverage: **38/38 exposed pages visually verified** (`S-295` / `E-269`); Jan–Jul online cumulative **404 pages**.
+- Final Courier issue in holdings: 3 Jul.; successor Banner-Courier begins 17 Jul. after the 8 Jul. merger.
+- Banner-Courier 17/24/31 Jul. remain **manual retrieval gaps (`MF-030`)** and are not included in visual totals.
+- No source-explicit 501/503/505/505½ occupant or target construction/property event in the online pages; bounded coverage only.
+- Existing cleaner `E-136` and Gilbert Miller `E-144` July pages were re-encountered, not duplicated.
+- Theroux remains at 210 Seventh through 25 Jul.; Farr Brothers appears in market reports without address/proprietor.
+- Full review: [evidence/source-captures/1919-july-online-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-july-online-enterprise-courier-visual-review-2026-09-07.md).
+- Next online chronological batch: **August 1919 Enterprise**; Banner-Courier remains `MF-030`.
