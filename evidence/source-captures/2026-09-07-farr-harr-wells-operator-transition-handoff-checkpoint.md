@@ -148,7 +148,7 @@ Exact volume:
 
 **Oregon City & Vicinity Directory, 1953 — T. W. Salisbury & Co.**
 
-Known routes remain FamilySearch catalog `95422`, gated Ancestry/MyHeritage copies, Gale / Research Publications Oregon City Reel 26, and Library of Congress microfilm. A West Linn National Register nomination independently cites the same 1953 directory at p. 192, confirming the edition's internal pagination but not the 505 page.
+Known routes remain gated Ancestry/MyHeritage copies, Gale / Research Publications Oregon City Reel 26, Library of Congress microfilm, and any independently identified institutional copy. **FamilySearch catalog `95422` is excluded from the 1953 route because it is an R. L. Polk series beginning in 1960.** A West Linn National Register nomination independently cites the same 1953 directory at p. 192, confirming the edition's internal pagination but not the 505 page.
 
 If accessed, preserve and visually inspect title/front matter, 505 Main street listing, Well variants, Carl R. Harr, Harr's Recreation Center, recreation/billiards/pool classifications, proprietor/manager wording, telephone number, full 501–511 odd Main block, and any connection to phone 9179. Do not stop after one snippet.
 
