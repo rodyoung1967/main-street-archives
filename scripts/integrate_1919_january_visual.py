@@ -4,6 +4,7 @@ import re
 import sys
 
 MARKER = "<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->"
+YAML_MARKER = "# 1919 January Enterprise Courier visual review — 2026-09-07"
 CAPTURE = "evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md"
 
 def read(path):
@@ -48,7 +49,7 @@ if Path(CAPTURE).exists():
 S = next_id("evidence/source-register.md", "S")
 E = next_id("evidence/evidence-register.md", "E")
 BUS = next_id("businesses/business-index.md", "BUS")
-PERS = next_id("people/people-index.md", "P")
+PERS = next_id("database/people.yml", "P", r"(?m)^\s*- id: P-(\d+)\s*$")
 
 for id_ in (S, E, BUS, PERS):
     ensure_absent(id_)
@@ -273,12 +274,17 @@ sources_yaml = f"""
       at 507½ Main over Harding's Drug Store and Pantorium Cleaners at 500 Main.
       No source-explicit January 501/503/505 occupant was found; bounded coverage only.
 """
-append_once("database/sources.yml", MARKER, MARKER + "\n" + sources_yaml)
+append_once("database/sources.yml", YAML_MARKER, YAML_MARKER + "\n" + sources_yaml)
 
 evidence_yaml = f"""
   - id: {E}
-    name: "January 1919 visual review — 507½ Harding relation and Pantorium 500"
+    name: "January 1919 Enterprise/Courier visual review: 507½ Harding relation and Pantorium 500"
     type: Primary newspaper scan batch
+    confidence: Very High for scan-visible wording; strong inference only for Harding exact ground-floor number
+    claims:
+      - 70/70 recovered January 1919 newspaper pages visually verified.
+      - Ohio Dentists directly at 507½ Main over Harding Drug Store; Pantorium Cleaners directly at 500 Main.
+    related_sources: [{S}]
     sources: [{S}]
     notes: >-
       70/70 recovered January pages visually inspected. Ohio Painless Dentists / Ohio Dentists
@@ -289,7 +295,7 @@ evidence_yaml = f"""
       event was found; no-hit is coverage only. Courier 30 Jan pp2-6 contain a printed 1918
       running-header typo within the genuine 1919 issue.
 """
-append_once("database/evidence.yml", MARKER, MARKER + "\n" + evidence_yaml)
+append_once("database/evidence.yml", YAML_MARKER, YAML_MARKER + "\n" + evidence_yaml)
 
 business_yaml = f"""
   - id: {BUS}
@@ -305,11 +311,11 @@ business_yaml = f"""
     related_evidence: [{E}]
     related_sources: [{S}]
 """
-append_once("database/businesses.yml", MARKER, MARKER + "\n" + business_yaml)
+append_once("database/businesses.yml", YAML_MARKER, YAML_MARKER + "\n" + business_yaml)
 
 person_yaml = f"""
   - id: {PERS}
-    name: J. G. Nash
+    name: Dr. J. G. Nash
     repository_file: people/profiles/j-g-nash.md
     role: Manager, Ohio Dentists
     notes: >-
@@ -320,7 +326,7 @@ person_yaml = f"""
     related_evidence: [{E}]
     related_sources: [{S}]
 """
-append_once("database/people.yml", MARKER, MARKER + "\n" + person_yaml)
+append_once("database/people.yml", YAML_MARKER, YAML_MARKER + "\n" + person_yaml)
 
 harding_update = f"""
 ## January 1919 507½-over-Harding bridge
@@ -407,7 +413,7 @@ crosswalk_block = f"""
 - `{S}` / `{E}` → `{BUS}` / `{PERS}`: Ohio Painless Dentists / Ohio Dentists, 507½ Main; J. G. Nash manager on 10/17/31 Jan.; direct `over Harding's Drug Store` wording.
 - `{S}` / `{E}` → `BUS-007` / `B-003`: pushes the 507½-over-Harding spatial configuration back to 2 Jan. 1919; lower `507 Main` for Harding remains **STRONG INFERENCE**, not direct.
 - `{S}` / `{E}` → `BUS-073`: Pantorium Cleaners directly at **500 Main** on 2 Jan. 1919.
-- No `B-005`/`B-001`/`B-002` event is created from the January 501/503/505 no-hit.
+- No 501/503/505 building event is created from the January no-hit.
 """
 append_once("indexes/id-crosswalk.md", MARKER, crosswalk_block)
 
@@ -449,7 +455,6 @@ if "| 1919 |" not in ys:
         "February–December annual visual work and other online source classes remain; Banner-Courier from July 1919 has a documented manual microfilm gap. |"
     )
     lines.insert(insert_at, row)
-    lines.insert(insert_at + 1, MARKER)
     write("registers/year-status.md", "\n".join(lines) + "\n")
 
 if Path("businesses/pantorium-cleaners.md").exists():

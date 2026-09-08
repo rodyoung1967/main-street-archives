@@ -965,3 +965,6 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Corrected an over-strong row that combined `E-025` and `E-022` under **By Jun. 1967**; the municipal liquor action and family purchase fact are now separate propositions.
 - Explicitly recorded that the **6 May 1965** Myrtle Hotel operator control is not a legal earliest-purchase boundary and the unnamed pre-7-Jun-1967 Wheel action is not a latest-purchase boundary.
 - No new owner, seller, licensee, transaction date, or sequential ID was created. Continued priority: named 1967 applicant/application type and 1965–69 directories.
+
+| 2026-09-07 | Completed January 1919 Enterprise + Courier scan-first visual audit | **70/70 pages**: Enterprise 40/40 (3/10/17/24/31 Jan.) + Courier 30/30 (2/9/16/23/30 Jan.). Directly verified Ohio Dentists at 507½ Main over Harding's Drug Store and Pantorium Cleaners at 500 Main; created `S-289` / `E-263` / `BUS-106` / `P-397`. No exact 501/503/505 occupant or target construction event; bounded coverage only. 30 Jan Courier pp2–6 preserve a printed 1918 running-header typo in the genuine 1919 issue. 1919 remains IN PROGRESS; next chronological batch February. |
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->

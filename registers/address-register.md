@@ -124,3 +124,11 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 `S-288` / `E-262` visually verifies a **J. C. Penney Co. / THE GOLDEN RULE** advertisement printing **Main Street Between Fifth and Sixth** and **Phone 270** (`BUS-105`). This is a direct block-relative location only. No side of Main or numbered address appears; do not allocate 501/503/505/507/509/511 or any parcel/building from this wording.
+
+## January 1919 address controls
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+| Address | Date | Directly documented use | Evidence / limit |
+| --- | --- | --- | --- |
+| **500 Main** | 2 Jan. 1919 | Pantorium Cleaners | `E-263` / `S-289`; visually verified `500`, not 510. |
+| **507½ Main** | 2/10/17/31 Jan. 1919 | Ohio Painless Dentists / Ohio Dentists; J. G. Nash manager on 10/17/31 | `E-263` / `S-289`; direct upstairs address and `over Harding's Drug Store`; Harding's lower exact number is not printed. |

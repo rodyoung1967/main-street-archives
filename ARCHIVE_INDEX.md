@@ -433,3 +433,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 
 - [`evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`](evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md) — `S-288` / `E-262`; **32/32** September pages visually verified; cumulative Enterprise **312 genuine pages through September**.
 - New `BUS-105` J. C. Penney/The Golden Rule Main-between-Fifth/Sixth relative-location anchor; Fashion Stable through 28 Sep; Farr controls on 14/28 Sep; no exact target Main occupant.
+
+## 1919 January complete visual batch
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- January local-newspaper coverage is **70/70 visually verified pages**: Enterprise 40/40 and Courier 30/30 (`S-289` / `E-263`).
+- Direct January controls: Ohio Dentists (`BUS-106`) at **507½ Main over Harding's Drug Store**, Dr. J. G. Nash (`P-397`) manager on 10/17/31 Jan.; Pantorium Cleaners at **500 Main** on 2 Jan.
+- No source-explicit 501/503/505 occupant or target construction event; no-hit is bounded coverage only.
+- 30 Jan Courier interior running headers print 1918 inside the genuine 1919 issue; source typo documented.
+- Full review: [evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological online batch: **February 1919 Enterprise + Courier**.

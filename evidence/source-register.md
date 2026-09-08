@@ -2457,3 +2457,11 @@ Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed
 Preserved originals: `newspapers/oregon-city-enterprise/1917-september/`; manifest `newspapers/oregon-city-enterprise/1917-september/manifest.json`; retrieval commit `b4e91df67fe2ffb72bac3d814b4d0cb535ec2b46`.  
 Evidence: `E-262`; capture: `evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`.  
 Notes: Fashion Stable continues through 28 Sep; Farr business/supplier controls on 14/28 Sep; 14 Sep p3 directly places J. C. Penney Co./The Golden Rule on Main between Fifth/Sixth, phone 270; no exact target Main occupant.
+
+## S-289 — January 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
+Coverage: *Oregon City Enterprise* 3/10/17/24/31 Jan. 1919, 40 pages; *Oregon City Courier* 2/9/16/23/30 Jan. 1919, 30 pages; **70/70 January pages**.  
+Repository originals: `newspapers/oregon-city-enterprise/1919-january/` and `newspapers/oregon-city-courier/1919-january/`.  
+Related evidence: `E-263`.  
+Notes: Direct findings include Ohio Dentists at **507½ Main over Harding's Drug Store** and Pantorium Cleaners at **500 Main**. No source-explicit January 501/503/505 occupant or target construction event was found; this is bounded coverage only. Courier 30 Jan. pp.2–6 contain a printed `1918` running-header year error within the genuine 1919 issue.

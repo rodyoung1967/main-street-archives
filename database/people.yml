@@ -1221,3 +1221,17 @@ people:
     notes: >-
       Visually verified 1915 notices place W. S. Eddy / Fashion Stable on Fifth Street between Main and Water; repeated April 1917 ads place the stable on Main between Fourth and Fifth. Exact move date and number unresolved. Do not merge with W. B. Eddy or earlier A. J. Eddy wording without a bridge.
     related_businesses: [BUS-103]
+
+# 1919 January Enterprise Courier visual review — 2026-09-07
+
+  - id: P-397
+    name: Dr. J. G. Nash
+    repository_file: people/profiles/j-g-nash.md
+    role: Manager, Ohio Dentists
+    notes: >-
+      Visually verified 10/17/31 Jan 1919 advertisements name Dr. J. G. Nash as manager,
+      Phone 62, at 507½ Main over Harding's Drug Store. The 2 Jan ad establishes the same
+      office/location but does not visibly name Nash.
+    related_businesses: [BUS-106]
+    related_evidence: [E-263]
+    related_sources: [S-289]

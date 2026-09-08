@@ -2633,3 +2633,18 @@ Claims:
 - no exact 501/503/505/507/509/511 Main, new 427 Main, or numbered Fifth target occupant was established.
 Classification: **DOCUMENTED / DIRECT** for scan identity and printed wording; **COVERAGE RESULT ONLY** for the target-address no-hit.  
 Confidence: **Very High**, with exact-number, side-of-street, identity and continuity limits preserved.
+
+## E-263 — January 1919 Enterprise/Courier visual review: 507½ Harding relation and Pantorium 500
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
+Sources: `S-289`.  
+Claims:
+- all **70/70** recovered January 1919 pages across the five Enterprise and five Courier issues were visually inspected after printed date/page identity review;
+- 2 Jan. Courier p3 directly places **Ohio Painless Dentists at 507½ Main Street, over Harding's Drug Store**;
+- 10/17/31 Jan. Enterprise ads repeat **Ohio Dentists**, **Dr. J. G. Nash, Manager**, Phone 62, at **507½ Main Street over Harding's Drug Store**;
+- the relation supports Harding-at-ground-floor-507 only as a **STRONG SPATIAL/ADDRESS INFERENCE** because no January ad prints `507 Main` for Harding itself;
+- 2 Jan. Courier p3 directly places **Pantorium Cleaners at 500 Main Street**, extending its 24 Oct. 1918 exact-address anchor;
+- no defensible source-explicit January occupant for **501/503/505 Main** and no target construction/demolition/remodel event was found; no-hit is bounded coverage, not absence/vacancy evidence;
+- 30 Jan. Courier interior pp.2–6 visibly carry a mistaken `January 30, 1918` running header inside the genuine 1919 issue; this is preserved as a printed-source error, not page substitution.
+Related business/person: `BUS-106`, `P-397`, `BUS-007`, `BUS-073`.  
+Confidence: **Very High** for scan-visible wording and January page coverage; **Strong inference only** for Harding's exact ground-floor number.

@@ -153,3 +153,10 @@ Do not currently claim that:
 4. Identify the 519 Main occupant in 1919–early 1922 more completely.
 5. Identify the occupant of 500 Main in 1921–1922 to establish Pantorium's departure bound.
 6. Continue searching for other Oregon City cleaning/dyeing businesses that could match the Eugene report.
+
+## 2 January 1919 — Pantorium still at 500 Main
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+`E-263` / `S-289` visually verifies a **2 Jan. 1919 Courier p3** advertisement reading **Pantorium Cleaners — 500 Main Street**. An enlarged scan confirms **500**, not 510. This extends the direct 500 Main run from the previously verified 24 Oct. 1918 classified through 2 Jan. 1919.
+
+The ad does not print the 1918 phone number and does not resolve operator ownership. The direct address chronology is now **416 Main (1914) → 500 Main (24 Oct. 1918 and 2 Jan. 1919) → 519 Main by 20 Jul. 1922**, with the move date still unresolved.

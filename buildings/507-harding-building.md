@@ -201,3 +201,8 @@ CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) visually documents the neighborin
 ## 1930s P-1043 Rexall/Drugs alignment lead
 
 CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly shows a **REXALL / DRUGS** sign cluster in the west-side Main Street storefront sequence. Its position is consistent with the established Harding Drug / Harding Building context, but **HARDING is not securely readable in this image**. Treat the photograph as a **probable cross-source alignment lead**, not a direct named Harding identification, until the exact directory/address sequence is matched.
+
+## January 1919 upstairs-office / Harding relation
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+`E-263` / `S-289` directly places Ohio Dentists (`BUS-106`) at **507½ Main** on 2/10/17/31 Jan. 1919 with the repeated wording **over Harding's Drug Store**. This is an important pre-1921 spatial anchor for the historic 507-area business row. It does not directly print Harding's ground-floor number and does not prove the physical identity, construction date, ownership or later survival of the building. Treat Harding-at-507 as a **strong spatial inference**, not direct exact-address evidence.

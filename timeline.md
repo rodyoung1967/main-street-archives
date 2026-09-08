@@ -621,3 +621,8 @@ Five visually verified August professional ads extend **W. S. Eddy (`P-396`) / F
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 A visually verified *Oregon City Enterprise* p3 advertisement directly prints **J. C. Penney Co. — THE GOLDEN RULE — Main Street Between Fifth and Sixth — Phone 270** (`BUS-105`, `E-262` / `S-288`). This places the business in the Fifth-to-Sixth Main block but does not identify a numbered storefront, side of Main, parcel, owner, lease or building continuity. The same September batch extends W. S. Eddy/Fashion Stable through 28 September and adds Farr Brothers business/supplier observations without an address. No 501/503/505 occupant is established.
+
+## January 1919 — complete local-newspaper monthly visual batch
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+A scan-first review of **70/70 January pages** across the *Oregon City Enterprise* and *Oregon City Courier* (`S-289` / `E-263`) directly places **Ohio Painless Dentists / Ohio Dentists at 507½ Main over Harding's Drug Store** on 2/10/17/31 Jan.; Dr. J. G. Nash (`P-397`) is named manager on 10/17/31. This pushes the known 507½-over-Harding arrangement back to **2 Jan. 1919**, while Harding's exact lower-floor number remains an inference rather than direct wording. The same 2 Jan. Courier page directly keeps **Pantorium Cleaners at 500 Main**. No defensible source-explicit January occupant for **501, 503 or 505 Main** and no target construction event was found; no-hit is bounded coverage only. The 30 Jan. Courier pp2–6 running header mistakenly prints 1918 inside the genuine 1919 issue.

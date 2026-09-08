@@ -186,3 +186,10 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–28 Sep 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. Latest `E-262` / `S-288`. |
+
+## January 1919 entity promotion
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-397 | [Dr. J. G. Nash](profiles/j-g-nash.md) | Manager, Ohio Dentists | Directly named in 10/17/31 Jan. 1919 ads at 507½ Main over Harding's Drug Store; no property-ownership inference. `E-263` / `S-289`. |

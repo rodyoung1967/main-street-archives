@@ -100,3 +100,10 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), cataloged **1930–1939**, shows
 
 ## 1896 Sixth/Main street-view anchor
 CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`), titled **Oregon City 1896 - 6th and Main Street**, directly shows substantial **HARDING / ... DRUG ST...** wording next to substantial East Side Railway ticket-office wording on the west/right side of Main north of Fifth. The project steward's Fifth/Main corner identification makes this valuable pre-numbering spatial evidence. It does **not** by itself prove Harding's exact 1896 numbered address. Keep the 1880/1880s retrospective 505 catalog label, the 1911-1915 direct 511 evidence and the 1921 strong 507 inference separate until geometric/contemporary evidence resolves the earlier move sequence.
+
+## January 1919 507½-over-Harding bridge
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+`E-263` / `S-289` materially moves the known 507½-over-Harding configuration earlier than the March 1921 Freeze sequence. Direct scans on **2, 10, 17 and 31 January 1919** place Ohio Painless Dentists / Ohio Dentists (`BUS-106`) at **507½ Main Street** and explicitly describe the office as **over Harding's Drug Store**; 10/17/31 name Dr. J. G. Nash (`P-397`) as manager.
+
+This is direct evidence for the upstairs **507½** address and its published relationship to Harding's store. It is **not** a direct advertisement saying `Harding Drug Store, 507 Main`. Harding-at-ground-floor-507 therefore remains a **STRONG SPATIAL/ADDRESS INFERENCE**. The direct 511 Main controls from 1911–1916 remain intact, and the exact move date to the later 507-area arrangement remains unresolved.

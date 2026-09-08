@@ -1296,3 +1296,18 @@ businesses:
     repository_file: "businesses/j-c-penney-golden-rule.md"
     related_evidence: [E-262]
     related_sources: [S-288]
+
+# 1919 January Enterprise Courier visual review — 2026-09-07
+
+  - id: BUS-106
+    name: Ohio Painless Dentists / Ohio Dentists
+    repository_file: businesses/ohio-painless-dentists.md
+    address: 507 1/2 Main
+    notes: >-
+      Visually verified advertisements on 2/10/17/31 Jan 1919 place the dental office at
+      507½ Main over Harding's Drug Store. Dr. J. G. Nash is named manager on 10/17/31.
+      The lower-floor exact number for Harding is not printed; do not convert the relation
+      into direct Harding-at-507 proof, property ownership, or construction evidence.
+    related_people: [P-397]
+    related_evidence: [E-263]
+    related_sources: [S-289]

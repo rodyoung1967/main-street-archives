@@ -506,3 +506,10 @@ August is complete **40/40** (`S-287` / `E-261`), cumulative **280 genuine Enter
 `S-288` / `E-262` directly places **J. C. Penney Co. / The Golden Rule (`BUS-105`)** on **Main Street between Fifth and Sixth, phone 270**, on 14 September 1917, but no number/side is printed. Seek a 1916–18 directory, telephone listing, business announcement, lease/property notice or another contemporary numbered advertisement before linking it to any 501–511 storefront.
 
 September is complete **32/32**, cumulative **312 genuine Enterprise pages through September**. Continue October 5/12/19/26 using the inventory's actual exposed counts — notably **19 October has six exposed slots**, not eight — and retain the two earlier true-page gaps. Continue Fashion Stable/Farr/target-address checks without interpreting ad or market-report silence as closure.
+
+## 7 September 2026 — January 1919 Harding address-transition lead
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+`E-263` / `S-289` directly places Ohio Dentists at **507½ Main over Harding's Drug Store** on 2/10/17/31 Jan. 1919, moving that spatial relationship more than two years earlier than the prior March 1921 Freeze bridge. Search **after the last direct 511 Main Harding controls in 1916 and through 2 Jan. 1919** for a directory, Harding advertisement, lease, building notice or street-number listing that explicitly identifies the drug store's lower-floor number. Keep `507` as a strong inference until such a source is found.
+
+Continue 1919 chronologically. The January 70-page no-hit for exact 501/503/505 is bounded coverage, not evidence of vacancy or non-use.

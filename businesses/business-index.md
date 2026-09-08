@@ -223,3 +223,10 @@ These records were already part of the evidence narrative but previously lacked 
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 `BUS-104` Farr Brothers receives direct 14/28 September market-report credits plus a 14 September county-expenditure appearance; alternating Petzold/Farr provider lines are not treated as business-transfer evidence. `BUS-105` records the new J. C. Penney/The Golden Rule Main-between-Fifth/Sixth relative-location anchor.
+
+## January 1919 entity promotion
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+| ID | Business | Address / location | Notes |
+| --- | --- | --- | --- |
+| BUS-106 | [Ohio Painless Dentists / Ohio Dentists](ohio-painless-dentists.md) | **507½ Main** | Direct 2/10/17/31 Jan. 1919 advertisements; `P-397` J. G. Nash named manager on 10/17/31; wording says over Harding's Drug Store. Harding's lower exact number is not printed. `E-263` / `S-289`. |

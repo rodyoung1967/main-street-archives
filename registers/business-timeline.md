@@ -267,3 +267,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | 14 Sep. 1917 | Main Street between Fifth and Sixth; phone 270 | J. C. Penney Co. / The Golden Rule | `BUS-105` | `E-262` / `S-288` | Direct relative-location ad; no street number or building assignment. |
 | 14 & 28 Sep. 1917 | Address not printed | Farr Brothers market-report/supplier controls | `BUS-104` | `E-262` / `S-288` | 14 Sep p6 county expenditure also; provider-line variation does not prove transfer/closure. |
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
+
+## January 1919 verified business/address controls
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+| Date span | Address | Business / person | Evidence | Confidence / limit |
+| --- | --- | --- | --- | --- |
+| 2/10/17/31 Jan. 1919 | **507½ Main** | Ohio Painless Dentists / Ohio Dentists (`BUS-106`); Dr. J. G. Nash (`P-397`) manager on 10/17/31 | `E-263` / `S-289` | Direct for dental office/manager and `over Harding's Drug Store`; Harding ground-floor 507 remains strong inference, not direct. |
+| 2 Jan. 1919 | **500 Main** | Pantorium Cleaners (`BUS-073`) | `E-263` / `S-289` | Direct; extends 24 Oct. 1918 exact-address anchor; move to 519 remains unresolved. |

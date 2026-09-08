@@ -3925,3 +3925,23 @@ evidence:
     related_businesses: [BUS-103, BUS-104, BUS-105]
     related_people: [P-396]
     related_sources: [S-288]
+
+# 1919 January Enterprise Courier visual review — 2026-09-07
+
+  - id: E-263
+    name: "January 1919 Enterprise/Courier visual review: 507½ Harding relation and Pantorium 500"
+    type: Primary newspaper scan batch
+    confidence: Very High for scan-visible wording; strong inference only for Harding exact ground-floor number
+    claims:
+      - 70/70 recovered January 1919 newspaper pages visually verified.
+      - Ohio Dentists directly at 507½ Main over Harding Drug Store; Pantorium Cleaners directly at 500 Main.
+    related_sources: [S-289]
+    sources: [S-289]
+    notes: >-
+      70/70 recovered January pages visually inspected. Ohio Painless Dentists / Ohio Dentists
+      is directly at 507½ Main over Harding's Drug Store on 2/10/17/31 January; Dr. J. G. Nash
+      is directly named manager on 10/17/31. Harding's exact lower-floor 507 number remains a
+      strong spatial inference because the ads do not print it. Pantorium Cleaners is directly
+      at 500 Main on 2 January. No source-explicit 501/503/505 occupant or target construction
+      event was found; no-hit is coverage only. Courier 30 Jan pp2-6 contain a printed 1918
+      running-header typo within the genuine 1919 issue.

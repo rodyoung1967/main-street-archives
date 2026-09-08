@@ -314,3 +314,10 @@ The complete August Enterprise visual batch (`S-287` / `E-261`) raises cumulativ
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 The complete September Enterprise visual batch (`S-288` / `E-262`) raises cumulative genuine Enterprise coverage to **312 pages through September** but still does not identify an exact 503 or 505 Main occupant. The new `BUS-105` block-relative J. C. Penney anchor is explicitly insufficient to assign a target number. Continue the Sohns & Woodbeck Oregon City directory route and remaining October–December Enterprise pages; source silence is not vacancy/non-use evidence.
+
+## January 1919 Harding / target-frontage refinement
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+`E-263` / `S-289` moves the direct **507½ Main over Harding's Drug Store** relationship back to **2 Jan. 1919**, but still does not print Harding's lower-floor exact number. The open Harding-address question is narrowed: determine when the directly documented **511 Main** drug-store address of 1911–1916 changed to the later 507-area configuration and locate an independent source that explicitly prints Harding at 507.
+
+The same complete January batch found no source-explicit occupant at 501/503/505 and no target construction event. This does **not** answer the occupancy or c.1919/c.1920 construction questions; it records January coverage only.

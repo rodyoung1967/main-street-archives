@@ -747,3 +747,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-288` / `E-262` → `BUS-104`: Farr Brothers direct 14/28 Sep market-report credits and 14 Sep county-expenditure appearance; no address/proprietor/505 merge.
 - `S-288` / `E-262` → `BUS-105`: J. C. Penney Co. / The Golden Rule, **Main Street between Fifth and Sixth, phone 270**, 14 Sep 1917; no numbered-building assignment.
 - No target building/tenancy/ownership event is created from the September no-hit.
+
+## S-289 / E-263 — January 1919 complete monthly local-newspaper visual batch
+<!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-289` / `E-263` → `BUS-106` / `P-397`: Ohio Painless Dentists / Ohio Dentists, 507½ Main; J. G. Nash manager on 10/17/31 Jan.; direct `over Harding's Drug Store` wording.
+- `S-289` / `E-263` → `BUS-007` / `B-003`: pushes the 507½-over-Harding spatial configuration back to 2 Jan. 1919; lower `507 Main` for Harding remains **STRONG INFERENCE**, not direct.
+- `S-289` / `E-263` → `BUS-073`: Pantorium Cleaners directly at **500 Main** on 2 Jan. 1919.
+- No 501/503/505 building event is created from the January no-hit.
