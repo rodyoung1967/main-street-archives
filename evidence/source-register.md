@@ -2465,3 +2465,11 @@ Coverage: *Oregon City Enterprise* 3/10/17/24/31 Jan. 1919, 40 pages; *Oregon Ci
 Repository originals: `newspapers/oregon-city-enterprise/1919-january/` and `newspapers/oregon-city-courier/1919-january/`.  
 Related evidence: `E-263`.  
 Notes: Direct findings include Ohio Dentists at **507½ Main over Harding's Drug Store** and Pantorium Cleaners at **500 Main**. No source-explicit January 501/503/505 occupant or target construction event was found; this is bounded coverage only. Courier 30 Jan. pp.2–6 contain a printed `1918` running-header year error within the genuine 1919 issue.
+
+## S-290 — February 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
+Coverage: Courier 6/13/20/27 Feb., 24 pages; Enterprise 7/14/21/28 Feb., 32 pages; **56/56 total**.  
+Repository originals: `newspapers/oregon-city-courier/1919-february/` and `newspapers/oregon-city-enterprise/1919-february/`.  
+Related evidence: `E-264`.  
+Notes: F. D. Cox annual billiard-hall license and Feb. 12 sale/handover to Mr. Rohrberg; Ohio Dentists 507½-over-Harding continuation; Theroux Music House 210 Seventh; Farr Brothers market-report credits. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.

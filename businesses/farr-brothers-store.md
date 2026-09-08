@@ -35,3 +35,8 @@ The market report on **3, 10, 17 and 24 August p7** says it is furnished by **Fa
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 **14 September p7** and **28 September p7** market reports visibly credit **Farr Brothers** with Brady Mercantile Company; **14 September p6** separately lists **Farr Bros. (Piezo), $14.00** in County Court expenditure material (`E-262` / `S-288`). By contrast, 7 September p7 credits R. Petzold + Brady, and 21 September p7 has no local market-report column. These variations are not closure, sale, ownership-transfer or relocation evidence. No address or individual Farr proprietor is printed; no Edwin/Alice Farr or 505 Main merge is permitted.
+
+## February 1919 continuation
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+The visually verified **21 Feb. p3** and **28 Feb. p7 Enterprise** market reports (`E-264` / `S-290`) credit **Brady Mercantile Company and Farr Brothers**. These are dated business appearances only: no address or individual proprietor is printed. Do not merge this grocery/meat concern with Edwin/Alice Farr or Farr's Pool Hall at 505 Main.

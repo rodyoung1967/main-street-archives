@@ -132,3 +132,11 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | --- | --- | --- | --- |
 | **500 Main** | 2 Jan. 1919 | Pantorium Cleaners | `E-263` / `S-289`; visually verified `500`, not 510. |
 | **507½ Main** | 2/10/17/31 Jan. 1919 | Ohio Painless Dentists / Ohio Dentists; J. G. Nash manager on 10/17/31 | `E-263` / `S-289`; direct upstairs address and `over Harding's Drug Store`; Harding's lower exact number is not printed. |
+
+## February 1919 address controls
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+| Address | Date | Use | Evidence / limit |
+| --- | --- | --- | --- |
+| **507½ Main** | 14 & 28 Feb. 1919 | Ohio Dentists; Dr. J. G. Nash manager | `E-264` / `S-290`; direct `over Harding's Drug Store`, but Harding's ground-floor exact number is not printed. |
+| **210 Seventh Street** | 7/14/21 Feb. 1919 | Theroux Music House | `E-264` / `S-290`; direct business address, unrelated to target frontage. |

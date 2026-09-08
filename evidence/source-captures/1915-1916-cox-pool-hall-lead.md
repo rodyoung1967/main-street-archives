@@ -211,3 +211,10 @@ There is **still no direct evidence placing Frank D. Cox at 503 Main**. The Octo
 ## Research-standard warning
 
 The 5 Mar 1914 newspaper page was visually inspected. The 1910 Asay & Cox address is direct newspaper text; the Cox-partner identity remains unresolved. The 2 Oct 1912 F. D. Cox license is primary municipal text evidence, but its screenshot endpoint failed and it is **not visually certified** in this pass. The Moose directional argument is a cross-source inference and **not** an exact-address finding. Do not promote Cox to 503 without a direct premises source or substantially stronger corroboration.
+
+## February 1919 continuation — Cox licenses, then sells billiard parlors
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+`E-264` / `S-290` adds a major later Cox control. The **6 Feb. 1919 Courier p1** council report directly says **F. D. Cox was granted a billiard hall license for the year**. The **13 Feb. Courier p1** then reports that Cox's billiard parlors had been purchased by **Mr. Rohrberg of Ocean Falls, B.C.** and that Cox would take active charge of his soda works. The **14 Feb. Enterprise p5** independently reports the purchase and says Rohrberg would **assume charge Wednesday morning**, establishing an intended handover on **12 Feb. 1919**.
+
+None of these sources prints the parlors' address. Do **not** project the directly documented 1915 Main-between-Seventh/Eighth location into 1919, and do not assign the sold parlors to 501/503/505. Search forward under the visually verified surname **Rohrberg** for a premises number, license, advertisement, or business name.

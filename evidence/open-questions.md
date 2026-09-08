@@ -321,3 +321,8 @@ The complete September Enterprise visual batch (`S-288` / `E-262`) raises cumula
 `E-263` / `S-289` moves the direct **507½ Main over Harding's Drug Store** relationship back to **2 Jan. 1919**, but still does not print Harding's lower-floor exact number. The open Harding-address question is narrowed: determine when the directly documented **511 Main** drug-store address of 1911–1916 changed to the later 507-area configuration and locate an independent source that explicitly prints Harding at 507.
 
 The same complete January batch found no source-explicit occupant at 501/503/505 and no target construction event. This does **not** answer the occupancy or c.1919/c.1920 construction questions; it records January coverage only.
+
+## February 1919 Cox/Rohrberg premises question
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+`E-264` / `S-290` proves F. D. Cox still held an Oregon City billiard-hall license in early Feb. 1919 and then sold his billiard parlors to **Mr. Rohrberg**, with intended handover **12 Feb.** The exact premises remains unresolved. The direct 1915 Cox hall between Seventh and Eighth must not be projected into 1919. Resolve Rohrberg's given name and locate his 1919 license/application, advertisement, directory listing, or premises number before connecting this sale to any Main Street address.

@@ -968,3 +968,6 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 
 | 2026-09-07 | Completed January 1919 Enterprise + Courier scan-first visual audit | **70/70 pages**: Enterprise 40/40 (3/10/17/24/31 Jan.) + Courier 30/30 (2/9/16/23/30 Jan.). Directly verified Ohio Dentists at 507½ Main over Harding's Drug Store and Pantorium Cleaners at 500 Main; created `S-289` / `E-263` / `BUS-106` / `P-397`. No exact 501/503/505 occupant or target construction event; bounded coverage only. 30 Jan Courier pp2–6 preserve a printed 1918 running-header typo in the genuine 1919 issue. 1919 remains IN PROGRESS; next chronological batch February. |
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
+
+| 2026-09-07 | Completed February 1919 Enterprise + Courier scan-first visual audit | **56/56 pages**: Courier 24/24 (6/13/20/27 Feb.) + Enterprise 32/32 (7/14/21/28 Feb.); cumulative Jan–Feb **126 visually verified pages**. F. D. Cox annual billiard license and Cox→Rohrberg sale/handover (12 Feb intended) verified without premises address; Ohio Dentists 507½-over-Harding through 28 Feb.; Theroux 210 Seventh; Farr Brothers market-report credits. No exact 501/503/505 occupant or target construction event; bounded coverage only. `S-290` / `E-264`. |
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->

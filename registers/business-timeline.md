@@ -275,3 +275,13 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | --- | --- | --- | --- | --- |
 | 2/10/17/31 Jan. 1919 | **507½ Main** | Ohio Painless Dentists / Ohio Dentists (`BUS-106`); Dr. J. G. Nash (`P-397`) manager on 10/17/31 | `E-263` / `S-289` | Direct for dental office/manager and `over Harding's Drug Store`; Harding ground-floor 507 remains strong inference, not direct. |
 | 2 Jan. 1919 | **500 Main** | Pantorium Cleaners (`BUS-073`) | `E-263` / `S-289` | Direct; extends 24 Oct. 1918 exact-address anchor; move to 519 remains unresolved. |
+
+## February 1919 verified business controls
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+| Date | Address | Business / event | Evidence | Limit |
+| --- | --- | --- | --- | --- |
+| 6–14 Feb. 1919 | **Not printed** | F. D. Cox billiard hall licensed for year; parlors sold to Mr. Rohrberg; intended handover 12 Feb. | `E-264` / `S-290` | Direct sale/operation chronology; no premises number and no 501/503/505 assignment. |
+| 14 & 28 Feb. 1919 | **507½ Main** | Ohio Dentists / Dr. J. G. Nash | `E-264` / `S-290` | Direct; `over Harding's Drug Store`; Harding lower exact number unprinted. |
+| 7/14/21 Feb. 1919 | **210 Seventh Street** | Theroux Music House (`BUS-029`) | `E-264` / `S-290` | Direct; exact prior move date from 519 Main unresolved. |
+| 21 & 28 Feb. 1919 | Not printed | Farr Brothers + Brady Mercantile market-report credit | `E-264` / `S-290` | Dated business appearance only; no Farr's Pool Hall merge. |

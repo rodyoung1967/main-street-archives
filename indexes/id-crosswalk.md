@@ -755,3 +755,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-289` / `E-263` → `BUS-007` / `B-003`: pushes the 507½-over-Harding spatial configuration back to 2 Jan. 1919; lower `507 Main` for Harding remains **STRONG INFERENCE**, not direct.
 - `S-289` / `E-263` → `BUS-073`: Pantorium Cleaners directly at **500 Main** on 2 Jan. 1919.
 - No 501/503/505 building event is created from the January no-hit.
+
+## S-290 / E-264 — February 1919 complete monthly local-newspaper visual batch
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+- `S-290` / `E-264` → Cox pool-hall research: yearly license, sale to Mr. Rohrberg, intended 12 Feb. handover; address unresolved.
+- `S-290` / `E-264` → `BUS-106` / `P-397`: Ohio Dentists / J. G. Nash continue at **507½ Main over Harding's Drug Store** through 28 Feb.
+- `S-290` / `E-264` → `BUS-029` / `P-044`: Theroux Music House directly at **210 Seventh** on 7/14/21 Feb.
+- `S-290` / `E-264` → `BUS-104`: Farr Brothers market-report credits 21/28 Feb.; no Farr's Pool Hall merge.
+- No 501/503/505 building event created from the February no-hit.

@@ -11,3 +11,8 @@ The 2 January *Courier* advertisement directly establishes the same dental busin
 This supports a documented business-management role and advertised office location. It does not establish property ownership, tenancy terms, professional partnership structure, or any relationship to the owners of the building or Harding Drug Store beyond the printed relative-location wording.
 
 Full review: [evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md](../../evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md).
+
+## February 1919 continuation
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+`E-264` / `S-290` visually verifies Dr. J. G. Nash again as manager of Ohio Dentists at **507½ Main over Harding's Drug Store** on **14 and 28 February 1919**, extending his direct advertised role through month end.

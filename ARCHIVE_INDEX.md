@@ -444,3 +444,14 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - 30 Jan Courier interior running headers print 1918 inside the genuine 1919 issue; source typo documented.
 - Full review: [evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-january-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological online batch: **February 1919 Enterprise + Courier**.
+
+## 1919 February complete visual batch
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+- **1919 remains IN PROGRESS.**
+- February local-newspaper coverage: **56/56 visually verified pages** (`S-290` / `E-264`); Jan–Feb cumulative **126 pages**.
+- Cox billiard hall: yearly license followed by sale to Mr. Rohrberg, intended handover 12 Feb.; premises number unresolved.
+- Ohio Dentists at 507½-over-Harding through 28 Feb.; Theroux at 210 Seventh; Farr Brothers market-report continuation.
+- No source-explicit 501/503/505 occupant or target construction event; no-hit is bounded coverage only.
+- Full review: [evidence/source-captures/1919-february-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-february-enterprise-courier-visual-review-2026-09-07.md).
+- Next chronological batch: **March 1919 Enterprise + Courier**.

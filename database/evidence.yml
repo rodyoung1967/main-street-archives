@@ -3945,3 +3945,19 @@ evidence:
       at 500 Main on 2 January. No source-explicit 501/503/505 occupant or target construction
       event was found; no-hit is coverage only. Courier 30 Jan pp2-6 contain a printed 1918
       running-header typo within the genuine 1919 issue.
+
+# 1919 February Enterprise Courier visual review — 2026-09-07
+  - id: E-264
+    name: "February 1919 visual review: Cox billiard sale and neighboring business controls"
+    type: Primary newspaper scan batch
+    claims:
+      - 56/56 recovered February 1919 pages visually verified.
+      - F. D. Cox received a 1919 billiard-hall license and sold his billiard parlors to Mr. Rohrberg, with intended handover 12 February; address not printed.
+      - Ohio Dentists continued at 507½ Main over Harding's Drug Store; Theroux Music House was directly at 210 Seventh Street.
+    confidence: Very High for scan-visible wording and page coverage; none for an unprinted Cox/Rohrberg premises number
+    related_sources: [S-290]
+    sources: [S-290]
+    notes: >-
+      February monthly scan-first review. Cox/Rohrberg premises must not be assigned to 501,
+      503 or 505 Main; the 1915 Cox location between Seventh and Eighth cannot be projected
+      into 1919 without an independent bridge. No target construction event was recovered.

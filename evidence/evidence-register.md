@@ -2648,3 +2648,18 @@ Claims:
 - 30 Jan. Courier interior pp.2–6 visibly carry a mistaken `January 30, 1918` running header inside the genuine 1919 issue; this is preserved as a printed-source error, not page substitution.
 Related business/person: `BUS-106`, `P-397`, `BUS-007`, `BUS-073`.  
 Confidence: **Very High** for scan-visible wording and January page coverage; **Strong inference only** for Harding's exact ground-floor number.
+
+## E-264 — February 1919 visual review: Cox billiard sale and neighboring business controls
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
+Sources: `S-290`.  
+Claims:
+- all **56/56** recovered February pages were visually inspected after printed date/page identity review;
+- 6 Feb Courier p1 says **F. D. Cox was granted a billiard hall license for the year**;
+- 13 Feb Courier p1 says Cox's billiard parlors were purchased by **Mr. Rohrberg of Ocean Falls, B.C.**;
+- 14 Feb Enterprise p5 independently says Rohrberg purchased the parlors and would **assume charge Wednesday morning**, dating the intended handover to **12 Feb. 1919**; no premises address is printed;
+- 14 and 28 Feb Enterprise ads repeat **Ohio Dentists / Dr. J. G. Nash at 507½ Main over Harding's Drug Store**;
+- 7/14/21 Feb Enterprise ads directly place **Theroux Music House at 210 Seventh Street**;
+- 21/28 Feb market reports credit **Brady Mercantile Company and Farr Brothers** without address or proprietor;
+- no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is coverage only.
+Confidence: **Very High** for scan-visible wording and monthly page coverage; none for a Cox/ Rohrberg premises number not printed by the sources.

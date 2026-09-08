@@ -513,3 +513,8 @@ September is complete **32/32**, cumulative **312 genuine Enterprise pages throu
 `E-263` / `S-289` directly places Ohio Dentists at **507½ Main over Harding's Drug Store** on 2/10/17/31 Jan. 1919, moving that spatial relationship more than two years earlier than the prior March 1921 Freeze bridge. Search **after the last direct 511 Main Harding controls in 1916 and through 2 Jan. 1919** for a directory, Harding advertisement, lease, building notice or street-number listing that explicitly identifies the drug store's lower-floor number. Keep `507` as a strong inference until such a source is found.
 
 Continue 1919 chronologically. The January 70-page no-hit for exact 501/503/505 is bounded coverage, not evidence of vacancy or non-use.
+
+## 7 September 2026 — Cox → Rohrberg February 1919 follow-forward
+<!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
+
+`E-264` / `S-290` establishes an intended **12 Feb. 1919** handover of F. D. Cox's billiard parlors to **Mr. Rohrberg of Ocean Falls, B.C.**, but no address. Search March–June 1919 newspapers, council/license records and directories for **Rohrberg + billiard/pool/cigar**, and separately test whether a premises number appears. Do not project the 1915 Cox Seventh–Eighth location or infer 501/503/505 from business type alone.
