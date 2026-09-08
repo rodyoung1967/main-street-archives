@@ -8,6 +8,14 @@ At 505, Dick and Sheila operated Brass Rail before owning the building, then lat
 
 Sheila died in 2014. Wiitanen ownership of 505 continued through Dick's death in 2024. Exact deeds, business-sale agreements, and liquor-license transfers remain research targets.
 
+## 2014 obituary — Dick/Sheila business-partnership control
+
+The published *Oregonian* obituary for **Sheila (LaFarlette) Wiitanen**, published 27–30 April 2014, describes her as a **self-made business woman** who partnered with her husband **Dick Wiitanen** of 42 years in running **several successful businesses**. It also gives her birth date as **13 June 1944** and death date as **18 April 2014**.
+
+Public obituary route: `https://obits.oregonlive.com/us/obituaries/oregon/name/sheila-wiitanen-obituary?id=23217490`.
+
+Classification: **PUBLISHED OBITUARY / DIRECT BIOGRAPHICAL AND GENERAL BUSINESS-PARTNERSHIP EVIDENCE**. The obituary does **not** name The Wheel, 503 Main, Brass Rail, 505 Tavern, or any specific transaction. It therefore corroborates a Dick/Sheila business partnership generally but must not be used by itself to prove the Raye→Wiitanen Wheel transfer or date it.
+
 <!-- 505-shpo-30539-visual-review-2026-09-07 -->
 ## May 2000 505 property-owner survey field
 
