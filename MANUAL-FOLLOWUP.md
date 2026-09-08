@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **7 September 2026** — added **MF-055** for a focused GFO lookup in the 1964 and 1977 Oregon City directories to bracket The Wheel / 503 Main ownership/operator history; no existing MF ID was renumbered or removed.
+Last amended: **7 September 2026** — added **MF-056** for a focused 1953–1956 Oregon City Pacific Telephone directory / phone 9179 lookup supporting the unresolved 505 Main successor question; no existing MF ID was renumbered or removed.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 
@@ -69,6 +69,8 @@ These are the **current high-value human actions**. They are ordered for the act
 
 | 23 | **MF-055** | Obtain focused **1964 and 1977 Oregon City directory** lookups from GFO for **503 Main / The Wheel**, LaFarlette/Grisham and Wiitanen entries, and telephone/classified controls | These confirmed physical volumes provide strong published bookends before the unresolved pre-7-Jun-1967 Wheel liquor action and before the 6-Jun-1979 Wheel liquor application | **ACTIVE MANUAL — EMAIL DRAFT READY / $15 MINIMUM RESEARCH FEE REQUIRES APPROVAL**. [GFO Wheel lookup draft](registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md) |
 
+| 24 | **MF-056** | Locate an **Oregon City Pacific Telephone directory, 1953–1956**, preferably nearest 20 Nov. 1955, and identify subscriber **9179** plus any 505 Main / Well's / Harr listings | The visually verified 20 Nov. 1955 505 sale ad gives **9179** but no seller/business name; open-web recovery now establishes a separate Oregon City directory series while the near-date Sept. 1955 Portland PT&T book's stated coverage omits Oregon City | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY**. [Telephone-directory lookup draft](registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md) |
+
 ### Recommended batching
 
 Do not send unnecessary duplicate emails.
@@ -81,6 +83,7 @@ Do not send unnecessary duplicate emails.
 - **1979 Wheel / 503 business-transition batch:** **MF-053** is separate from MF-052 (pre-Raye acquisition) and MF-048 (503 real-estate/deed chain). Its four routes all answer the later Raye → Wiitanen **business/license** transition and should preserve applicant/licensee, application type, and bounded no-hit scope without converting a liquor action into a sale.
 - **Oregon Secretary of State historical business records:** **MF-054** is a registration-file route, not ownership proof. First send the no-fee identification/guidance email. If staff requires the paid Old Stock Entity search or microfiche copies, obtain project-steward fee approval before submitting forms/payment. Keep this route separate from MF-053 liquor-license records and MF-048 503 real-estate/deed records.
 - **GFO Wheel directory bookends:** **MF-055** is a single focused 503/The Wheel directory question using GFO holdings **TF0763 (1964)** and **TF0764 (1977)**. It is separate from the GFO 1947–48 Farr/Harr lookup under MF-001. GFO currently posts a **$15 minimum** research charge; do not send/authorize work until the project steward approves the fee.
+- **505 / phone 9179 directory lookup:** **MF-056** goes first to the **Clackamas County Family History Society / Wilmer Gardner Research Library** for a 1953–1956 Oregon City Pacific Telephone issue and subscriber 9179. Use **Oregon Historical Society Research Library only as a fallback** if the local CCFHS route cannot locate the issue; do not send duplicate simultaneous requests. No fee is authorized.
 
 ---
 
@@ -274,7 +277,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **23-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
+The current practical list is the **24-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -423,3 +426,14 @@ Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-p
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-055** | **ACTIVE MANUAL — EMAIL DRAFT READY / FEE NOT AUTHORIZED** | **Yes** | GFO confirms physical holdings **TF0763 — Oregon City Directory 1964** and **TF0764 — Oregon City Directory 1977**. Request a focused lookup for **503 Main / The Wheel / Wheel Cafe**, LaFarlette/Grisham and Wiitanen personal entries, relevant classified pages and numerical telephone entries. The 1964 volume is a strong pre-/early-transition control before the unresolved 1967 Wheel liquor action; the 1977 volume is a strong later control before the 1979 Wheel liquor action. GFO currently posts a **$15 per half-hour / $15 minimum** research fee. **Do not send or authorize paid work without project-steward approval.** A directory association is a published occupancy/operator/contact bracket, not sale, liquor-license, tenancy, or real-estate proof. Ready draft: `registers/research-requests/gfo-1964-1977-wheel-directory-lookup-request-2026-09-07.md`. |
+| **MF-056** | **NOT SENT — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED** | — | — | **No** | — | No |
+
+
+---
+
+## 7 September 2026 — Oregon City 1953–1956 telephone directory / subscriber 9179 route
+<!-- MF-056 505 telephone-directory 9179 lookup — 2026-09-07 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-056** | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY** | **Yes** | Public-online recovery has reasonably exhausted the practical routes for a **1953–1956 Oregon City Pacific Telephone & Telegraph / Pacific Telephone Northwest directory**. The visually verified **20 Nov. 1955** 505 Main beer/pool sale ad prints contact **9179** but no seller/business name. A surviving Sept. 1955 Portland PT&T directory has a stated inclusion list that omits Oregon City; 1956–57 advertising independently shows Oregon City four-digit numbers alongside separate Portland Olive numbers; and a 1961 contemporary item explicitly refers to a distinct Oregon City telephone-directory issue. Ask **CCFHS / Wilmer Gardner Research Library first** to locate the target local issue and identify subscriber 9179, 505 Main, Well/Well's/Wells variants and Carl R. Harr/Harr's Recreation Center. Use **Oregon Historical Society Research Library only if CCFHS cannot locate it**. A telephone listing proves a published subscriber/address association only, not business ownership, sale, tenancy, liquor-license ownership or building ownership. Ready unsent draft: `registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md`. |
