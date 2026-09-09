@@ -135,7 +135,6 @@ A visually verified 19 January 1912 *Oregon City Courier* local-news item (`E-27
 The item does not state a street number or either man's formal job title. It therefore does not replace the separately verified 5 January 1912 **Geo. A. Harding — 511 Main** address control (`E-092`), nor does it by itself prove Cross or Wilmot worked at the numbered 511 premises. Do not infer pharmacist/druggist credentials, ownership, or employment duration without another source.'''
 )
 
-# Keep structured BUS-007 relationships synchronized.
 replace_once(
     "database/businesses.yml",
     "    related_people:\n    - P-001\n",
@@ -162,7 +161,6 @@ append_once(
 - No building ID or exact-address edge is created from this page because the notice prints no street number; `E-092` remains the separate 5 Jan. 1912 511 Main address control.'''
 )
 
-# Correct the stale annual target-status bullet now that the 19 March Palace Saloon scan is canonical.
 replace_once(
     "evidence/source-captures/1912-main-street-research.md",
     "- **501 Main:** no exact 1912 occupant recovered in the current pass.",
@@ -187,3 +185,4 @@ append_once(
 )
 
 print("Integrated S-299 / E-273 / P-399 / P-400 and corrected stale 1912 501 status")
+# workflow-trigger touch
