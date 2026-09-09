@@ -70,3 +70,7 @@ Visually reviewed Enterprise market reports on **11, 18 and 25 July 1919** (`S-2
 <!-- 1919 August Enterprise visual review — 2026-09-07 -->
 
 Visually reviewed Enterprise market reports on **1, 8, 15, 22 and 29 August 1919** (`S-296` / `E-270`) credit **Brady Mercantile Company and Farr Brothers**. A 29 August county/court expense list also prints `Farr Bros.` None gives an exact address or individual Farr proprietor; no bridge to Farr's Pool Hall at 505 is created.
+
+## October–December 1917 continuation
+
+October market reports and a 19 Oct. county expenditure, the 2 Nov. market report and 23 Nov. county expenditure name Farr Bros./Farr Brothers without an address or individual proprietor (`E-274` / `S-300`; `E-275` / `S-301`). The 7 Dec. p.5 phrase **“Farrs' market”** is a probable but unproved connection because it omits “Brothers,” address, and proprietor (`E-276` / `S-302`). None bridges this concern to Edwin/Alice Farr or the later 505 pool hall.

@@ -1751,3 +1751,13 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Steward orientation: **on 5th looking north toward 6th**
 - Visual note: Wilhelm Tell House; C. Albright's / Cold Storage; Schlitz signs readable. Exact later 501/503/505 storefront boundaries remain unresolved.
 - Related source/evidence: `S-246` / `E-220`
+
+## IMG-0767 — City of Oregon City Historic Photographs compilation
+- Type: Official historic-photograph compilation PDF
+- Source/evidence: `S-303` / `E-277`
+- Repository file: `media/historic-photographs/oregon-city-historic-photographs.pdf`
+- Provenance: `media/historic-photographs/oregon-city-historic-photographs-provenance.md`
+- Pages/bytes: **72 / 3,257,433**
+- SHA-256: `4f987499ecf0243e99e84e8482f4529bbfa04601c3fb887a19bc1016af063d19`
+- Status: `committed`; all 72 pages visually screened 8 September 2026
+- Result: no card visibly dated 1917 and no exact 501/503/505 image identified. Other Main Street images are not assigned to the target premises.

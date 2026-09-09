@@ -178,8 +178,8 @@ These records were already part of the evidence narrative but previously lacked 
 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
-| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–28 Sep 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. September extends direct observation through 28 September. Latest `E-262` / `S-288`. |
-| BUS-105 | [J. C. Penney Co. / The Golden Rule](j-c-penney-golden-rule.md) | 14 Sep 1917: Main Street between Fifth and Sixth; phone 270 | Direct ad; no number/side/parcel/building assignment. `E-262` / `S-288`. |
+| BUS-103 | [Fashion Stable](fashion-stable.md) | 1915 Fifth between Main/Water; 6 Apr–28 Dec 1917 Main between Fourth/Fifth | W. S. Eddy (`P-396`); no exact number. Latest `E-276` / `S-302`. |
+| BUS-105 | [J. C. Penney Co. / The Golden Rule](j-c-penney-golden-rule.md) | 14 Sep 1917: Main between Fifth/Sixth; 12 Oct: **524–526 Main** | Direct ads; later range does not prove ownership or building continuity. `E-262`/`S-288`; `E-274`/`S-300`. |
 
 ## May 1917 Enterprise business promotion
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->

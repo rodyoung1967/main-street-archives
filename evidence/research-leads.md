@@ -453,7 +453,13 @@ Disconfirming test: actively look for a different proprietor/licensee at the Whe
 ## RL-052 — Recover 1911 / 1917 Oregon City pool-room regulation
 <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
 
-**Status: OPEN — ONLINE-FIRST.**
+**Status: MANUAL CALLOUT — `MF-060`; public online municipal routes exhausted for 1917.**
+
+The City Historic Documents and Meetings routes do not expose a general 1917 minute/report set. Recover the underlying commission minutes, ordinance/amendment, and license record manually; do not infer a particular operator or premises from the citywide newspaper report.
+
+## 1917 current continuation state — ONLINE COMPLETE
+
+The formal closeout is `evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md` (`S-303` / `E-277`). Do not repeat online title/page or broad source-class work for 1917. Remaining work is limited to `MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, and `MF-007`. Exact 503/505 occupants remain unresolved.
 
 `E-254` / `S-281` visually verifies an 8 June 1917 *Oregon City Enterprise* council report saying city pool rooms were violating certain ordinance sections while the council discussed an amendment that would let pool rooms operate cigar stands without additional licenses. The article says the city's strict pool-room legislation was made in **1911**, when saloons still operated.
 

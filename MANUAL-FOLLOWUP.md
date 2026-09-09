@@ -1,7 +1,19 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **8 September 2026** — integrity audit restored the omitted **MF-052** dispatch row and removed a stray duplicate **MF-056** row; no existing MF ID was renumbered or removed.
+Last amended: **9 September 2026** — added the two collision-free 1917 closeout callouts `MF-059` and `MF-060`; no existing MF ID was renumbered or removed.
+
+## 1917 ONLINE COMPLETE — remaining manual work
+
+The formal year closeout is `evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md`. Its seven manual tasks are `MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, and `MF-007`. No institutional request has been sent for this closeout.
+
+### MF-059 — 1917 assessment/tax roll for Original Oregon City Block 4 Lots 3–4
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Inspect the 1917 Clackamas County assessment and tax rolls through the County/State Archives holding route for Original Oregon City Block 4 Lots 3–4, G. A. Harding, target street numbers, improvements, valuation changes, and transfers. The State county inventory confirms this series and its likely fields, but no public online 1917 page images were found. Do not project the 1913 Harding assessment (`S-107`/`E-094`) into 1917.
+
+### MF-060 — 1917 commission/ordinance/pool-room licensing record
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Retrieve the underlying City Commission minutes, ordinance/amendment text, and any license record behind the 8 June 1917 Enterprise report on pool-room law and cigar stands. Search 1911 enabling language and the 1917 proposal/outcome, while keeping general regulation separate from any particular operator or premises. Official City online routes expose no general 1917 minute/report set. This supersedes `RL-052`'s former ONLINE-FIRST status.
 
 This is the central human-action dashboard for work that genuinely requires or may ultimately require an email, phone call, records request, paid lookup, restricted account, library/archive visit, microfilm, physical-source inspection, or project-steward action outside an ordinary public-online research pass.
 

@@ -185,7 +185,7 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–28 Sep 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. Latest `E-262` / `S-288`. |
+| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | 1915 Fifth-between-Main/Water; 6 Apr–28 Dec 1917 Main between Fourth/Fifth. Exact move date/number unresolved; not merged with W. B. Eddy. Latest `E-276` / `S-302`. |
 
 ## January 1919 entity promotion
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->

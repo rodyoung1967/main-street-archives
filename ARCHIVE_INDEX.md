@@ -313,11 +313,18 @@ High-priority people/entities:
 
 ## Current annual-review checkpoints
 
-The canonical status and blockers are maintained in [registers/year-status.md](registers/year-status.md). No year is currently certified `ONLINE COMPLETE`.
+The canonical status and blockers are maintained in [registers/year-status.md](registers/year-status.md). **1917 is ONLINE COMPLETE**; no year is currently ONLINE + MANUAL COMPLETE.
 
 - **1915 — IN PROGRESS:** Courier **123/123** sheets complete through year end. *Morning Enterprise* **225/428** images reviewed through 16 July page 1; **203 remain**, next 16 July page 2. Relevant Book 3 water-ledger audit and the 1915–1916 Polk Oregon City section review are complete. Other source classes and Courier exceptions M01–M04 remain.
 - **1916 — IN PROGRESS:** 104 issues / 884 pages inventoried. Courier **238/458** reviewed; Enterprise **0/426** in the exhaustive pass. Seven first-monthly June–December Courier issues are already included in the 238. **646 total newspaper pages remain**; next Courier page is 18 May page 4.
-- **1917 — IN PROGRESS:** Courier 435 genuine pages with true 13 Dec p21 unresolved; Enterprise **208 genuine intended-date pages through June**, with true 16 Mar p5 and 13 Apr p8 gaps and **206 July–December exposed slots remaining**. June extends W. S. Eddy/Fashion Stable through 29 June and adds a Farr Bros. expenditure control; no exact target Main occupant.
+- **1917 — ONLINE COMPLETE:** [formal all-source closeout](evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md), `S-303` / `E-277`. **104 issues / 852 slots / 849 genuine intended-date pages** visually reviewed across Courier and Enterprise; other required online source classes audited. Seven manual callouts remain; exact 503/505 occupants are unresolved and source silence is not vacancy evidence.
+
+## 1917 ONLINE COMPLETE certification
+
+- October Enterprise: [`S-300` / `E-274`](evidence/source-captures/1917-enterprise-october-05-26-visual-review-2026-09-08.md), **30/30** pages; J. C. Penney/The Golden Rule at **524–526 Main** (`T-101`).
+- November Enterprise: [`S-301` / `E-275`](evidence/source-captures/1917-enterprise-november-02-30-visual-review-2026-09-08.md), **40/40** pages.
+- December Enterprise: [`S-302` / `E-276`](evidence/source-captures/1917-enterprise-december-07-28-visual-review-2026-09-08.md), **32/32** pages; Fashion Stable continues through 28 Dec.
+- All-source record: [`S-303` / `E-277`](evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md); City photograph compilation `IMG-0767` is under `media/historic-photographs/`.
 - **1918 — IN PROGRESS:** exact 24 October business-guide snapshot is registered as `E-124` / `S-138`; annual inventory and exhaustive page review remain unfinished.
 - **1922 — IN PROGRESS:** targeted fire/property package is integrated, but neither 501/503/505 fire model is selected and the annual review is not certified.
 

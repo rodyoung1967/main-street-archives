@@ -834,3 +834,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Source / evidence | Entity / topic | Scope and limit |
 | --- | --- | --- |
 | `S-299` / `E-273` | `BUS-029` / `P-044` Theroux Music House | 40/40 October Enterprise pages visually verified; Theroux directly at 210 Seventh on 3/17/31 Oct. No exact 501/503/505/505½ occupant or target physical/property event. October Banner-Courier remains `MF-030`. |
+## 1917 ONLINE COMPLETE closeout — 8 September 2026
+
+- `S-253` / `E-227` / `T-102` → 22 Mar. citywide Main Street storeroom scarcity and contemplated blocks; no target occupancy/construction inference.
+- `S-300` / `E-274` / `T-101` → `BUS-105`: J. C. Penney/The Golden Rule at **524–526 Main**, 12 Oct.
+- `S-301` / `E-275` → November Enterprise 40/40 visual batch.
+- `S-302` / `E-276` → December Enterprise 32/32 visual batch.
+- `S-303` / `E-277` / `IMG-0767` → formal 1917 all-source ONLINE COMPLETE certification and City photograph compilation.
+- `E-277` → `MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, `MF-007`.
+- `RL-052` → `MF-060`: public online municipal routes exhausted; underlying commission/ordinance/license record is manual.

@@ -349,3 +349,7 @@ The parlors' 1919 address remains unresolved. Do not project Cox's 1915 Main-bet
 2. Who owned or controlled that building, and who opened/operated the new confectionery?
 3. Is the `Wolf` name connected to the unidentified Wolf partner in Wolf & Miller, to **S. Wolf of Portland** in 1922, to another Wolf family, or merely to a building name with no relevant identity continuity?
 4. Can contemporary advertisements, permits, directories, deeds or later confectionery references supply a numbered address without projecting the later 1922 property evidence backward?
+
+## 1917 final online synthesis — exact occupants remain unresolved
+
+The all-source audit (`S-303` / `E-277`) certifies 1917 **ONLINE COMPLETE**, not historically resolved: 104 issues, 852 archive slots, and 849 genuine intended-date pages were visually reviewed across the only two online Oregon City titles with 1917 holdings. Directory, map, municipal, property, historic-resource, and photograph routes were also audited. No defensible exact 503 or 505 occupant emerged. The March realty report (`T-102`) makes a vacancy inference from the water-ledger omission especially unsafe. Only the seven manual callouts in the formal closeout remain; do not repeat the completed broad online pass.

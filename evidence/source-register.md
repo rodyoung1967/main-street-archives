@@ -2055,7 +2055,7 @@ Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`
 Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`  
 Related evidence/business/building: `E-227`; `BUS-040`; `B-013`.  
 Capture: `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.  
-Notes: 15 Mar. p2 and 22 Mar. p6 directly print Jones Drug Co. at **617 Main Street**, moving its earliest integrated exact-number observation earlier than the prior 1 Nov. sample. Selected 612 Main, 619 Main and Fifth/Main anchors recur. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; silence is not vacancy evidence.
+Notes: 15 Mar. p2 and 22 Mar. p6 directly print Jones Drug Co. at **617 Main Street**. The 22 Mar. p3 realty report says Main Street storerooms were unavailable and two new business blocks were contemplated; citywide context only (`T-102`), not a target occupant or completed project. No exact 501/503/505/507/509/511 occupant was established; silence is not vacancy evidence.
 
 ## S-254 — Homes.com public-record-derived 503 Main purchase history
 Type: Secondary property-data aggregator reporting publicly available records; **TRANSACTION LEAD ONLY**.  
@@ -2548,3 +2548,27 @@ Coverage: Enterprise 3/10/17/24/31 Oct., 40 pages; Banner-Courier 2/9/16/23/30 O
 Repository originals: `newspapers/oregon-city-enterprise/1919-october/`; gap manifest `newspapers/banner-courier/1919-october/manifest.json`.  
 Related evidence: `E-273`.  
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building/property event. Theroux Music House is directly at 210 Seventh on 3/17/31 Oct., extending direct continuity through 31 Oct.; OCR leading-digit errors are rejected after scan review.
+## S-300 — October 1917 Oregon City Enterprise complete visual-review batch
+Type: Primary newspaper scans; **VISUALLY VERIFIED 30/30 pages** on 8 September 2026.
+Coverage/files: 5/12/19/26 Oct.; `newspapers/oregon-city-enterprise/1917-october/`.
+Related evidence/timeline: `E-274`; `T-101`.
+Notes: J. C. Penney/The Golden Rule directly at **524–526 Main** on 12 Oct. pp.3–6; Fashion Stable continues; Farr Bros. references remain unaddressed. No target occupant/event.
+
+## S-301 — November 1917 Oregon City Enterprise complete visual-review batch
+Type: Primary newspaper scans; **VISUALLY VERIFIED 40/40 pages** on 8 September 2026.
+Coverage/files: 2/9/16/23/30 Nov.; `newspapers/oregon-city-enterprise/1917-november/`.
+Related evidence: `E-275`.
+Notes: genuine issue pages despite “Morning Enterprise” running heads on 23/30 Nov. p.6; Fashion Stable and unaddressed Farr Brothers controls; no target occupant/event.
+
+## S-302 — December 1917 Oregon City Enterprise complete visual-review batch
+Type: Primary newspaper scans; **VISUALLY VERIFIED 32/32 pages** on 8 September 2026.
+Coverage/files: 7/14/21/28 Dec.; `newspapers/oregon-city-enterprise/1917-december/`.
+Related evidence: `E-276`.
+Notes: Fashion Stable continues through 28 Dec.; 7 Dec. “Farrs' market” is a qualified identity lead only. No target occupant/event.
+
+## S-303 — 1917 all-online-source-class closeout bundle
+Type: Multi-source online audit; **ONLINE COMPLETE** 8 September 2026.
+Record: `evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md`.
+Raw captures: `evidence/source-captures/1917-online-source-class-data/`; media `IMG-0767`.
+Related evidence: `E-277`.
+Notes: certifies 104 issues / 852 slots / 849 genuine intended-date pages visually reviewed across both online titles and reviews directories, maps, municipal/property/historic-resource/photo sources. Seven remaining tasks are explicit manual callouts; no absence inference.

@@ -44,3 +44,7 @@ Ads on 3, 10, 17, 24 and 31 August p7 repeat W. S. Eddy / Fashion Stable between
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
 
 Ads on 7, 14, 21 and 28 September p7 repeat W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street, extending the verified 1917 span through **28 September** (`E-262` / `S-288`). No exact number is printed.
+
+## October–December continuation
+
+The same p.7 advertisement appears in every October, November, and December Enterprise issue, extending the direct relative-location observation through **28 December 1917** (`E-274`–`E-276`; `S-300`–`S-302`). No exact number or target-premises link is printed.

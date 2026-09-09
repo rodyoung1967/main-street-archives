@@ -1,0 +1,76 @@
+{
+  "captured": "2026-09-08",
+  "purpose": "1917 all-online-source-class closeout reproducibility bundle",
+  "files": [
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-01-2026-09-08.html.gz",
+      "bytes": 5249,
+      "sha256": "a6b2c35f9a5ea32a5a6154854441df744985d04fd4361d2a74cf6baac4ad2d20"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-02-2026-09-08.html.gz",
+      "bytes": 5210,
+      "sha256": "c575af31ea17f13c1fb1b839ec61bc58485ac8fa252af18a3c8fc74401fea342"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-03-2026-09-08.html.gz",
+      "bytes": 5176,
+      "sha256": "b42f39895804be3a79aab36cdf02583b2026e667503341c534996d9c46207d0c"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-04-2026-09-08.html.gz",
+      "bytes": 5249,
+      "sha256": "7e9f551f3818f27cf0a4f08a4d0f11eaa54e9fb63192fc7b0e7977458822b945"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-05-2026-09-08.html.gz",
+      "bytes": 5355,
+      "sha256": "1987320aa998ac5720bfc1ffde66f6a41312d7ad8e55c0912f09cc5be0a332ba"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-06-2026-09-08.html.gz",
+      "bytes": 5202,
+      "sha256": "ee18aba5c79b845bf01df1028e77ba237aa57bc42a9fbb6d0abdda2500a10d4d"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-07-2026-09-08.html.gz",
+      "bytes": 5187,
+      "sha256": "6a67e7b0569ad5028fd7c0ceb0f53b99b5746fed26b05ba3af9af77ab9c593a7"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-08-2026-09-08.html.gz",
+      "bytes": 5253,
+      "sha256": "5b848f565b380b5368520e6b0018f9848badbc5dd816c05d7996d6d1afbde265"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-09-2026-09-08.html.gz",
+      "bytes": 5366,
+      "sha256": "3322789fe0d0e28c5619760b3a3f3ab0ad22350abff4038f13580a95b6d0122b"
+    },
+    {
+      "file": "historic-oregon-newspapers-all-titles-page-10-2026-09-08.html.gz",
+      "bytes": 3913,
+      "sha256": "ad31543db55f6166391474164a691fda2a5cb56f7f1c520bf76beccd4bd347cd"
+    },
+    {
+      "file": "historic-oregon-newspapers-sn00063698-2026-09-08.json",
+      "bytes": 113456,
+      "sha256": "dccab0985673516928e5c93a8aa764052621f2be69e49b4704afc1b2712449d7"
+    },
+    {
+      "file": "historic-oregon-newspapers-sn00063700-2026-09-08.json",
+      "bytes": 213281,
+      "sha256": "c05d3de794bdaaf6a0c48a4cd73f45db68d764127af9c86d1af357125aac6ace"
+    },
+    {
+      "file": "historic-oregon-newspapers-sn00063701-2026-09-08.json",
+      "bytes": 120134,
+      "sha256": "08dfaf6a927dfc5f9dfd546707b2ed3f850bd27dc0ba06b59f87a489bbbc14cb"
+    },
+    {
+      "file": "loc-oregon-city-sanborn-search-2026-09-08.json",
+      "bytes": 251981,
+      "sha256": "1573a4f77262464931c67fd6871915906b208793568a50ad248d94fcf57e24e1"
+    }
+  ]
+}

@@ -1043,3 +1043,11 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - The 3 Oct. `building south of the post office` candidate is Estacada, not Oregon City; 31 Oct. pool-room and Wolfer hits are unrelated to the target.
 - Banner-Courier 2/9/16/23/30 Oct. remains `MF-030` manual microfilm gap.
 - Integrated monthly batch as `S-299` / `E-273`; 1919 stays **IN PROGRESS** with **516** online local-newspaper pages visually reviewed Jan-Oct.
+### 9 September 2026 — reconstructed and propagated 1917 ONLINE COMPLETE closeout
+
+- Restored November (40) and December (32) Enterprise originals and manifests; October's 30 originals were already intact. All 102 Oct–Dec pages retain the prior page-by-page visual findings as `S-300`–`S-302` / `E-274`–`E-276`.
+- Preserved ten Historic Oregon Newspapers catalog pages, three title JSON records, the LOC map query, and the official 72-page City historic-photograph PDF (`IMG-0767`) with hashes.
+- Certified **104 issues / 852 slots / 849 genuine intended-date pages** across Courier and Enterprise and completed the directory/map/municipal/property/historic-resource/photo online audit (`S-303` / `E-277`).
+- Added `T-101` (Penney 524–526 Main) and `T-102` (22 Mar. citywide storeroom context). Exact 503/505 occupants remain unresolved; no absence inference.
+- Collision audit found later `MF-058` already assigned to Ray Hansen, so new 1917 manual tasks use `MF-059` and `MF-060`. Seven total year callouts remain; no outreach sent.
+- Cross-record propagation reviewed timeline, business, address, open-question, research-lead, registers, crosswalk, media and YAML records.

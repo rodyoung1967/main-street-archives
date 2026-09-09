@@ -100,7 +100,9 @@ The Sanborn key and Sanborn map sheet PDFs are committed under `maps/sanborn/ori
 
 1. Document the exact **503 Wheel sequence**: Raye-to-Wiitanen business sale, later Wiitanen purchase of the 503 building, and later combined sale of business and building.
 2. Document the exact **505 sequence**: Brass Rail operation before property ownership, Nesmeth/Nemeth-to-Wiitanen deed, later business-transfer/repossession periods, the Wiitanens' pre-March 1991 rename to 505 Tavern, and 2024 estate succession.
-3. Complete the **1915** issue/page inventory and page-by-page visual review, then work the remaining years against `registers/year-status.md` rather than using legacy “routine pass” language as a completion claim.
+3. Continue annual work from `registers/year-status.md`: **1917 is ONLINE COMPLETE**; do not repeat its completed broad online pass. Other years remain governed by their listed blockers.
+
+Current 1917 certification: [formal all-source closeout](evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md) — 104 issues / 852 slots / 849 genuine intended-date pages visually reviewed, all required online source classes audited, seven manual callouts remaining.
 4. Request and inspect the OHS Main/Fifth title abstract indexed in MSS 1503, including reconciliation of its Block 4 / Lot 3-5 metadata conflict.
 5. Recover the 1905-1906 and 1916-1917 directory pages and the inaccessible primary municipal records listed in `MANUAL-FOLLOWUP.md`.
 6. Transcribe tax statements and assessor records for 503 and 505, and obtain deeds/OLCC/licenses needed to separate property ownership from business operation.

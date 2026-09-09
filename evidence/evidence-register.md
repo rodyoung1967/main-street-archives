@@ -2157,6 +2157,7 @@ Claims:
 - These scans move the earliest integrated exact-number Jones Drug observation from 1 November back to **15 March 1917**, but do not prove the exact move day, legal succession, lease, title, or uninterrupted occupancy.
 - **29 March p.9** advertises Jones Drug Company at **Main Street** without a number; that unnumbered wording is preserved separately and is not used to infer 617.
 - Selected direct controls repeat **612 Main**, **619 Main**, and **Fifth/Main** during the batch.
+- **22 March p.3** directly reports that Main Street storerooms were unavailable and that two Main Street business blocks were contemplated for the summer; this is citywide context (`T-102`), not proof of a target occupant or completed construction.
 - No defensible exact **501, 503, 505, 507, 509 or 511 Main** occupant, and no new exact 427 Main occupant, was established in these 28 pages. This is bounded coverage only and not vacancy, demolition or absence evidence.
 Classification: **DOCUMENTED / DIRECT** for the page-review count, March 15/22 Jones Drug 617 wording, and other visible dated anchors; **COVERAGE RESULT ONLY** for the no-target-number finding.  
 Confidence: **Very High** for the inspected scans and printed address wording; unresolved for exact move day and physical/tenancy continuity.
@@ -2792,3 +2793,27 @@ Claims:
 - October Banner-Courier issues remain manual retrieval gaps under `MF-030`.
 Classification: **DOCUMENTED / DIRECT** for scan-visible Theroux address and inspected-page count; **COVERAGE RESULT ONLY** for the no-target finding; **RETRIEVAL GAP** for inaccessible Banner-Courier issues.  
 Confidence: **Very High** for scan-visible wording and page coverage.
+## E-274 — October 1917 Enterprise visual review and 524–526 Main Penney anchor
+Source: `S-300`.
+Type: Primary newspaper scan batch.
+Claims: All **30/30** pages visually verified. The 12 Oct. pp.3–6 ad directly places J. C. Penney/The Golden Rule at **524–526 Main** (`T-101`). Fashion Stable and Farr Bros. controls continue. No exact 501/503/505 occupant or target-building event; bounded coverage only.
+Confidence: **Very High**.
+
+## E-275 — November 1917 Enterprise complete visual review
+Source: `S-301`.
+Type: Primary newspaper scan batch.
+Claims: All **40/40** pages visually verified. The 23/30 Nov. p.6 running-head wording does not make those pages substitutions. Fashion Stable and unaddressed Farr Brothers observations continue. No target occupant/event; bounded coverage only.
+Confidence: **Very High**.
+
+## E-276 — December 1917 Enterprise complete visual review
+Source: `S-302`.
+Type: Primary newspaper scan batch.
+Claims: All **32/32** pages visually verified. Fashion Stable continues through 28 Dec.; 7 Dec. “Farrs' market” remains a probable but unproved Farr Brothers reference and is not a bridge to the later 505 pool hall. No target occupant/event.
+Confidence: **Very High** for visible wording and coverage.
+
+## E-277 — 1917 all-online-source-class closeout
+Source: `S-303`; media `IMG-0767`.
+Type: Multi-source research coverage certification.
+Claims: The complete online pass covers **104 issues / 852 slots / 849 genuine intended-date newspaper pages**, plus online directories, maps, municipal/property records, historic-resource sources and photographs. Exact 503/505 occupants remain unresolved. Seven precisely scoped manual callouts remain (`MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, `MF-007`).
+Classification: **ONLINE COMPLETE** for research coverage; no vacancy, ownership, demolition, continuity, or occupant inference from source silence.
+Confidence: **Very High** for the documented coverage; unresolved for exact 503/505 occupants.

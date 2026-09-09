@@ -660,3 +660,14 @@ The *Oregon City Enterprise* p.2 (`S-297` / `E-271`) directly reports that **S. 
 <!-- 1919 October Enterprise visual review — 2026-09-08 -->
 
 The complete online-exposed October Enterprise batch (`S-299` / `E-273`) comprises **40/40 visually reviewed pages**. Original advertisements on **3, 17 and 31 October** directly print **Theroux Music House, 210 Seventh Street**, extending the dated control through month end. No source-explicit 501/503/505/505½ occupant or target construction/property event was established in the October Enterprise pages. October Banner-Courier remains a manual microfilm gap under `MF-030`; no negative inference is made across that inaccessible title.
+## 22 March 1917 — Main Street storeroom scarcity and contemplated blocks
+
+The *Oregon City Courier* p.3 says no Main Street storerooms were available and at least two Main Street business blocks were contemplated for summer (`T-102`, `S-253` / `E-227`). This is citywide context, not proof of occupancy at 503/505 or completed construction; it cautions against a vacancy inference from the water-ledger omission.
+
+## 12 October 1917 — J. C. Penney / The Golden Rule at 524–526 Main
+
+Enterprise advertisements on pp.3–6 directly print **524–526 Main Street** (`T-101`, `S-300` / `E-274`). This supersedes the September block-only location without proving building continuity.
+
+## 1917 online research certification
+
+The formal all-source audit (`S-303` / `E-277`) certifies **ONLINE COMPLETE**: 104 issues, 852 slots, 849 genuine intended-date newspaper pages visually reviewed, plus all required online source classes. Exact 503/505 occupants remain unresolved and seven manual callouts remain. Source silence is not vacancy evidence.

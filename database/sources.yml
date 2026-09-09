@@ -1510,7 +1510,7 @@ sources:
     type: "Primary newspaper page scans; visually verified 28/28 pages"
     date: "1917-03-15 through 1917-03-29"
     repository_file: "evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md"
-    notes: "March 15 p2 and March 22 p6 directly print Jones Drug Co. at 617 Main Street. March 29 p9 prints Main Street without a number. Other repeated controls include 612 Main, 619 Main and Fifth/Main. No target 501/503/505/507/509/511 or new 427 Main occupant was established."
+    notes: "March 15 p2 and March 22 p6 directly print Jones Drug Co. at 617 Main Street. March 22 p3 reports citywide Main Street storeroom scarcity and contemplated business blocks (T-102), not a target occupant or completed project. No target 501/503/505/507/509/511 occupant was established."
     related_evidence: [E-227]
     related_businesses: [BUS-040]
     related_buildings: [B-013]
@@ -1990,3 +1990,41 @@ sources:
     url: https://oregonnews.uoregon.edu/
     notes: >-
       Primary October scan batch: 40/40 Enterprise pages visually verified. Banner-Courier 2, 9, 16, 23 and 30 October remain MF-030 manual retrieval gaps. Theroux Music House is directly at 210 Seventh through 31 October; no exact target-number occupant or target structural/property event was established.
+  - id: S-300
+    name: October 1917 Oregon City Enterprise complete visual-review batch
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-10-05/ed-1/
+    type: Primary newspaper scans; visually verified 30/30 pages
+    date: 1917-10-05 through 1917-10-26
+    repository_file: evidence/source-captures/1917-enterprise-october-05-26-visual-review-2026-09-08.md
+    related_evidence: [E-274]
+    related_businesses: [BUS-103, BUS-104, BUS-105]
+    notes: 30/30 pages visually verified; Penney at 524-526 Main; no target occupant or event.
+
+  - id: S-301
+    name: November 1917 Oregon City Enterprise complete visual-review batch
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-11-02/ed-1/
+    type: Primary newspaper scans; visually verified 40/40 pages
+    date: 1917-11-02 through 1917-11-30
+    repository_file: evidence/source-captures/1917-enterprise-november-02-30-visual-review-2026-09-08.md
+    related_evidence: [E-275]
+    related_businesses: [BUS-103, BUS-104]
+    notes: 40/40 pages visually verified; running-head inconsistencies are not page substitutions; no target occupant or event.
+
+  - id: S-302
+    name: December 1917 Oregon City Enterprise complete visual-review batch
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-12-07/ed-1/
+    type: Primary newspaper scans; visually verified 32/32 pages
+    date: 1917-12-07 through 1917-12-28
+    repository_file: evidence/source-captures/1917-enterprise-december-07-28-visual-review-2026-09-08.md
+    related_evidence: [E-276]
+    related_businesses: [BUS-103, BUS-104]
+    notes: 32/32 pages visually verified; Fashion Stable continues through 28 December; no target occupant or event.
+
+  - id: S-303
+    name: 1917 all-online-source-class closeout bundle
+    url: https://oregonnews.uoregon.edu/titles/
+    type: Multi-source online audit; ONLINE COMPLETE
+    date: 1917; audited 2026-09-08
+    repository_file: evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md
+    related_evidence: [E-277]
+    notes: 104 issues, 852 archive slots and 849 genuine intended-date pages visually reviewed; all other required online source classes reviewed; seven manual callouts remain.

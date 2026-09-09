@@ -1,4 +1,6 @@
-# 1917 progression checkpoint — 503 / 505 Main
+# 1917 progression checkpoint — superseded by ONLINE COMPLETE certification
+
+> **Current status (8 September 2026): ONLINE COMPLETE.** The controlling certification is [`1917-online-source-class-closeout-2026-09-08.md`](1917-online-source-class-closeout-2026-09-08.md) (`S-303` / `E-277`). The chronological notes below are preserved as audit history; their earlier `IN PROGRESS` statements are superseded.
 
 Year status: **IN PROGRESS** — the earlier workflow moved forward chronologically, but the adopted online-completion standard is not satisfied.
 

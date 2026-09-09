@@ -3457,6 +3457,7 @@ evidence:
       - "15 March p2 directly prints Jones Drug Co. at 617 Main Street, Jack & Albright; 22 March p6 repeats the exact 617 Main address."
       - "The exact-number observation moves the integrated Jones Drug 617 anchor back from 1 November to 15 March 1917 without proving the move day, tenancy, title or continuous occupancy."
       - "29 March p9 prints Jones Drug Company at Main Street without a number and is not used to infer 617."
+      - "22 March p3 reports that Main Street storerooms were unavailable and that business blocks were contemplated; this is citywide context only, not target occupancy or completed construction."
       - "No exact 501/503/505/507/509/511 or new 427 Main occupant was established in the 28-page batch; this is bounded coverage, not vacancy or absence evidence."
     confidence: "Very High for the inspected-page count and visible dated address wording; unresolved for exact move day and continuity."
     related_sources: [S-253]
@@ -4149,3 +4150,34 @@ evidence:
     related_businesses: [BUS-029]
     related_people: [P-044]
     related_buildings: []
+  - id: E-274
+    name: October 1917 Enterprise visual review and 524–526 Main Penney anchor
+    type: Primary newspaper scan batch
+    claims: ["30/30 pages visually verified; J. C. Penney/The Golden Rule directly at 524-526 Main on 12 October; no target occupant or event."]
+    confidence: Very High for visible wording and coverage
+    related_sources: [S-300]
+    related_businesses: [BUS-103, BUS-104, BUS-105]
+
+  - id: E-275
+    name: November 1917 Enterprise complete visual review
+    type: Primary newspaper scan batch
+    claims: ["40/40 pages visually verified; running-head inconsistencies are genuine intended-issue pages; no target occupant or event."]
+    confidence: Very High for visible wording and coverage
+    related_sources: [S-301]
+    related_businesses: [BUS-103, BUS-104]
+
+  - id: E-276
+    name: December 1917 Enterprise complete visual review
+    type: Primary newspaper scan batch
+    claims: ["32/32 pages visually verified; Fashion Stable continues through 28 December; Farrs' market remains a qualified identity lead; no target occupant or event."]
+    confidence: Very High for visible wording and coverage
+    related_sources: [S-302]
+    related_businesses: [BUS-103, BUS-104]
+
+  - id: E-277
+    name: 1917 all-online-source-class closeout
+    type: Multi-source research coverage certification
+    claims: ["1917 is ONLINE COMPLETE: 104 online newspaper issues, 852 slots, 849 genuine intended-date pages visually reviewed, plus all required online source classes; exact 503/505 occupants remain unresolved and seven manual callouts remain."]
+    confidence: Very High for documented coverage; no historical absence inference
+    related_sources: [S-303]
+    related_media: [IMG-0767]

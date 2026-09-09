@@ -2,7 +2,7 @@
 
 <!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
 
-Status: **VISUALLY VERIFIED — 3 complete issues / 28 of 28 page scans reviewed. March Courier is now complete within the retrieved weekly issue inventory; 1917 remains IN PROGRESS.**
+Status: **VISUALLY VERIFIED — 3 complete issues / 28 of 28 page scans reviewed. March Courier is complete; the all-source year is now ONLINE COMPLETE.**
 
 Archive IDs: source `S-253`; evidence `E-227`.
 
@@ -37,6 +37,10 @@ On **29 March p.9**, a large Jones Drug Company Easter advertisement prints only
 
 ## Other dated address controls
 
+### 22 March citywide real-estate context
+
+Page 3 reports under **“REALTY BOOMING — Dwellings Scarce. Important Operations Planned for this Year”** that no Main Street storerooms were available for any kind of business and that at least two Main Street business blocks were being considered for the coming summer, including one near the courthouse with offices and several storerooms (`T-102`). This is direct citywide market/planning context only: it supplies no target number, owner, completed construction, or tenant. It materially cautions against treating the water-ledger omission as vacancy evidence, but does not prove 503 or 505 occupied.
+
 These are dated observations only, not proof of uninterrupted occupancy:
 
 - **15 Mar. p.3:** Williams Bros. Transfer & Storage — **Office 612 Main Street**.
@@ -61,4 +65,4 @@ This is bounded coverage for the three issues only. It is **not** evidence that 
 
 ## Effect on 1917 status
 
-March *Courier* coverage is now complete within the five-issue March inventory: **5 issues / 46 pages visually verified**. 1917 remains **IN PROGRESS** because later unsampled issues and other relevant title/source-class work remain, including the known true **13 December 1917 Courier page 21** retrieval gap and the **Sohns & Woodbeck 1916–1917 directory, Oregon City section** gap.
+March *Courier* coverage is complete within the five-issue March inventory: **5 issues / 46 pages visually verified**. The later all-source audit certifies 1917 **ONLINE COMPLETE**; see `1917-online-source-class-closeout-2026-09-08.md`. The true 13 December page 21 and directory section remain documented manual callouts.

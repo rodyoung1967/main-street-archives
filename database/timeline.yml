@@ -1025,3 +1025,18 @@ timeline:
       - E-267
     related_sources:
       - S-293
+
+  - id: T-101
+    date: 12 October 1917
+    summary: J. C. Penney Co. / The Golden Rule advertisements directly print 524-526 Main Street.
+    confidence: Very High for visible address wording; building continuity unresolved
+    related_evidence: [E-274]
+    related_sources: [S-300]
+    related_businesses: [BUS-105]
+
+  - id: T-102
+    date: 22 March 1917
+    summary: Courier reports no Main Street storerooms available and at least two Main Street business blocks contemplated for summer; citywide context only.
+    confidence: Very High for visible report wording; no target occupancy or completed-construction inference
+    related_evidence: [E-227]
+    related_sources: [S-253]

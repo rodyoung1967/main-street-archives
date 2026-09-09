@@ -125,6 +125,8 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 
 `S-288` / `E-262` visually verifies a **J. C. Penney Co. / THE GOLDEN RULE** advertisement printing **Main Street Between Fifth and Sixth** and **Phone 270** (`BUS-105`). This is a direct block-relative location only. No side of Main or numbered address appears; do not allocate 501/503/505/507/509/511 or any parcel/building from this wording.
 
+`S-300` / `E-274` / `T-101` adds a direct **524–526 Main Street** range from the 12 October 1917 Enterprise advertisement. This refines the September wording without proving bay geometry, ownership, tenancy, construction, or physical-building continuity.
+
 ## January 1919 address controls
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
 

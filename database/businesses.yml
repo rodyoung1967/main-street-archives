@@ -1291,28 +1291,28 @@ businesses:
 
   - id: BUS-103
     name: Fashion Stable
-    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260, E-261, E-262]
-    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286, S-287, S-288]
+    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260, E-261, E-262, E-274, E-275, E-276]
+    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286, S-287, S-288, S-300, S-301, S-302]
     repository_file: businesses/fashion-stable.md
     address: "1915 Fifth Street between Main and Water; April 1917 Main Street between Fourth and Fifth; exact number unresolved"
     notes: >-
-      Multi-date relative-location chronology through W. S. Eddy. The changed wording supports a move, changed premises, or changed location description but does not establish exact move date, title, lease, or numbered building. Not assigned to 110 Fifth, 427 Main, or 501/503/505.
+      Multi-date relative-location chronology through W. S. Eddy, continuing through 28 December 1917. The changed wording supports a move, changed premises, or changed location description but does not establish exact move date, title, lease, or numbered building. Not assigned to 110 Fifth, 427 Main, or 501/503/505.
     related_people: [P-396]
   - id: BUS-104
     name: Farr Brothers Store / Meat Market
-    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266, E-267, E-268, E-269, E-270]
-    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292, S-293, S-294, S-295, S-296]
+    related_evidence: [E-253, E-254, E-260, E-261, E-262, E-265, E-266, E-267, E-268, E-269, E-270, E-274, E-275, E-276]
+    related_sources: [S-280, S-281, S-286, S-287, S-288, S-291, S-292, S-293, S-294, S-295, S-296, S-300, S-301, S-302]
     repository_file: businesses/farr-brothers-store.md
     address: "1917 exact address unresolved; official Farr Store history places the business at 919 7th Street"
     notes: "25 May 1917 Enterprise directly calls Farr Brothers a Meat market; 1922 primary evidence says Grocers/Butchers; official City history associates Farr Brothers Store with Louis and Clarence Farr. No merge with Edwin/Alice Farr or 505 Main."
     related_people: [P-395]
   - id: BUS-105
     name: "J. C. Penney Co. / The Golden Rule"
-    address: "Main Street between Fifth and Sixth (no number printed)"
-    notes: "14 Sep 1917 Enterprise p3 directly prints J. C. Penney Co., THE GOLDEN RULE, 175 BUSY STORES, Main Street Between Fifth and Sixth, Phone 270. No side/number/building assignment."
+    address: "524-526 Main Street by 12 October 1917"
+    notes: "14 Sep prints Main between Fifth/Sixth and phone 270; 12 Oct pp3-6 directly print 524-526 Main. No ownership, lease, construction, opening-date, or building-continuity inference."
     repository_file: "businesses/j-c-penney-golden-rule.md"
-    related_evidence: [E-262]
-    related_sources: [S-288]
+    related_evidence: [E-262, E-274]
+    related_sources: [S-288, S-300]
 
 # 1919 January Enterprise Courier visual review — 2026-09-07
 
