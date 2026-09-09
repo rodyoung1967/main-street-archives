@@ -1,0 +1,160 @@
+name: Probe 505 1953-56 digital sources
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-505-1953-1956-digital-sources.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe public digital-source routes
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/probe505
+          python3 - <<'PY'
+          import json, re, time, urllib.parse, urllib.request
+          from pathlib import Path
+
+          out = Path('/tmp/probe505')
+          ua = {'User-Agent': 'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+
+          def get(url, timeout=30):
+              req = urllib.request.Request(url, headers=ua)
+              try:
+                  with urllib.request.urlopen(req, timeout=timeout) as r:
+                      data = r.read()
+                      return {'url': url, 'status': getattr(r, 'status', 200), 'content_type': r.headers.get('Content-Type',''), 'data': data}
+              except Exception as e:
+                  return {'url': url, 'error': repr(e), 'data': b''}
+
+          report = {'internet_archive_searches': [], 'google_books_searches': [], 'internet_archive_items': {}, 'search_index_queries': []}
+
+          ia_queries = [
+              'title:("Oregon City") AND year:1953 AND mediatype:texts',
+              '"Oregon City & Vicinity Directory"',
+              '"Oregon City" AND Salisbury AND year:1953',
+              '"Oregon City" AND "telephone directory" AND year:[1953 TO 1956]',
+              '"Oregon City" AND "phone book" AND year:[1953 TO 1956]',
+              'title:("Oregon City") AND year:1960 AND mediatype:texts',
+          ]
+          for q in ia_queries:
+              params = urllib.parse.urlencode({'q':q,'fl[]':['identifier','title','creator','date','year','description'],'rows':50,'page':1,'output':'json'}, doseq=True)
+              r = get('https://archive.org/advancedsearch.php?' + params)
+              item = {'query':q,'status':r.get('status'),'error':r.get('error')}
+              if r['data']:
+                  try:
+                      j=json.loads(r['data'])
+                      item['numFound']=j.get('response',{}).get('numFound')
+                      item['docs']=j.get('response',{}).get('docs',[])
+                  except Exception as e:
+                      item['parse_error']=repr(e)
+                      item['body_prefix']=r['data'][:1000].decode('utf-8','replace')
+              report['internet_archive_searches'].append(item)
+              time.sleep(.5)
+
+          gb_queries = [
+              '"Oregon City & Vicinity Directory" 1953 Salisbury',
+              '"Oregon City" "telephone directory" 1955 Oregon',
+              '"Oregon City" "telephone directory" 1954 Oregon',
+              '"Oregon City" "telephone directory" 1956 Oregon',
+          ]
+          for q in gb_queries:
+              url='https://www.googleapis.com/books/v1/volumes?' + urllib.parse.urlencode({'q':q,'maxResults':40})
+              r=get(url)
+              item={'query':q,'status':r.get('status'),'error':r.get('error')}
+              if r['data']:
+                  try:
+                      j=json.loads(r['data']); item['totalItems']=j.get('totalItems');
+                      item['items']=[{'id':x.get('id'),'volumeInfo':x.get('volumeInfo',{}),'accessInfo':x.get('accessInfo',{})} for x in j.get('items',[])]
+                  except Exception as e: item['parse_error']=repr(e)
+              report['google_books_searches'].append(item)
+              time.sleep(.5)
+
+          # Pull the known 1959 Polk IA item and inspect machine-readable derivatives.
+          ident='polksportlandcity1959rich'
+          meta=get('https://archive.org/metadata/' + ident)
+          if meta['data']:
+              try:
+                  mj=json.loads(meta['data'])
+                  files=mj.get('files',[])
+                  report['internet_archive_items'][ident]={'metadata':mj.get('metadata',{}),'files':[f.get('name') for f in files]}
+                  txt_candidates=[f.get('name') for f in files if f.get('name','').endswith(('_djvu.txt','_searchtext.txt','_text.pdf.txt'))]
+                  if txt_candidates:
+                      name=txt_candidates[0]
+                      rr=get('https://archive.org/download/%s/%s' % (ident, urllib.parse.quote(name)))
+                      text=rr['data'].decode('utf-8','replace')
+                      (out/'polksportlandcity1959rich.txt').write_text(text)
+                      terms=['505 Main','505 MAIN','Well\'s Recreation','Wells Recreation','505 Tavern','9179','Oregon City']
+                      hits={}
+                      for term in terms:
+                          loc=[]
+                          low=text.lower(); needle=term.lower(); start=0
+                          while True:
+                              i=low.find(needle,start)
+                              if i<0: break
+                              loc.append(text[max(0,i-250):min(len(text),i+350)].replace('\n',' '))
+                              start=i+len(needle)
+                              if len(loc)>=25: break
+                          hits[term]=loc
+                      report['internet_archive_items'][ident]['text_file']=name
+                      report['internet_archive_items'][ident]['term_hits']=hits
+              except Exception as e:
+                  report['internet_archive_items'][ident]={'error':repr(e)}
+
+          # Public search-index probes. Save result HTML only; do not follow gated/paywalled image viewers.
+          ddg_queries = [
+              '"Oregon City & Vicinity Directory" 1953 Salisbury',
+              '"Well\'s Recreation" "Oregon City"',
+              '"Wells Recreation" "Oregon City" 505',
+              '"505 Main" "Oregon City" 9179',
+              '"Phone 9179" "Oregon City"',
+              'site:ormswd.synergydcs.com/HPRMWebDrawer/Record "1955" "liquor license" "Oregon City"',
+              'site:ormswd.synergydcs.com/HPRMWebDrawer/Record "1956" "liquor license" "Oregon City"',
+          ]
+          for idx,q in enumerate(ddg_queries):
+              url='https://html.duckduckgo.com/html/?' + urllib.parse.urlencode({'q':q})
+              r=get(url)
+              body=r['data'].decode('utf-8','replace')
+              (out/f'ddg-{idx:02d}.html').write_text(body)
+              links=[]
+              for m in re.finditer(r'class="result__a"[^>]*href="([^"]+)"[^>]*>(.*?)</a>', body, re.I|re.S):
+                  href=re.sub('&amp;','&',m.group(1)); title=re.sub('<.*?>','',m.group(2)); links.append({'title':title,'href':href})
+              report['search_index_queries'].append({'query':q,'status':r.get('status'),'error':r.get('error'),'results':links[:30]})
+              time.sleep(1)
+
+          (out/'report.json').write_text(json.dumps(report, indent=2, ensure_ascii=False))
+
+          # Human-readable summary
+          lines=[]
+          for x in report['internet_archive_searches']:
+              lines.append(f"IA QUERY: {x['query']} | numFound={x.get('numFound')} | error={x.get('error')}")
+              for d in x.get('docs',[])[:20]: lines.append('  '+json.dumps(d,ensure_ascii=False))
+          for x in report['google_books_searches']:
+              lines.append(f"GB QUERY: {x['query']} | total={x.get('totalItems')} | error={x.get('error')}")
+              for d in x.get('items',[])[:20]: lines.append('  '+json.dumps(d,ensure_ascii=False))
+          ia=report['internet_archive_items'].get(ident,{})
+          lines.append('1959 POLK TERM HITS:')
+          for term,hits in ia.get('term_hits',{}).items():
+              lines.append(f'  {term}: {len(hits)}')
+              for h in hits[:5]: lines.append('    '+h)
+          for x in report['search_index_queries']:
+              lines.append(f"DDG QUERY: {x['query']} | results={len(x.get('results',[]))} | error={x.get('error')}")
+              for d in x.get('results',[])[:15]: lines.append('  '+json.dumps(d,ensure_ascii=False))
+          (out/'summary.txt').write_text('\n'.join(lines))
+          PY
+          echo '--- summary ---'
+          sed -n '1,1000p' /tmp/probe505/summary.txt
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-505-1953-1956-digital-sources
+          path: /tmp/probe505/
+          retention-days: 1
