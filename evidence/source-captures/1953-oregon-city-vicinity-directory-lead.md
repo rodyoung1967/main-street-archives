@@ -1,6 +1,6 @@
 # 1953 Oregon City & Vicinity Directory — 505 Main source-recovery lead
 
-Status: **high-priority directory lead; FamilySearch catalog 95422 excluded as a 1953 route; Gale/Research Publications Reel 26 is a strong 1953 retrieval inference; actual 503/505 entries not yet visually recovered**
+Status: **high-priority directory lead; FamilySearch catalog 95422 excluded as a 1953 route; Gale/Research Publications Reel 26 is a strong 1953 retrieval inference; LOC current Oregon City inventory explicitly lists 1941/1950 but is non-comprehensive; actual 503/505 entries not yet visually recovered**
 
 The exact directory used by later Oregon City historic-resource research has now been confirmed as:
 
@@ -8,7 +8,7 @@ The exact directory used by later Oregon City historic-resource research has now
 
 Official Oregon City preservation documentation explicitly lists this title in its bibliography. A January 7, 1953 Oregon City Commission claims record also includes **T. W. Salisbury & Company** among payees, providing contemporary municipal evidence that the City was doing business with the directory publisher in the year of publication.
 
-Official sources:
+Official Oregon City sources:
 - Oregon City Historic Review Program Update bibliography: https://oregon-city.granicus.com/MetaViewer.php?clip_id=655&meta_id=31497&view_id=6
 - Oregon City Commission minutes / claims, 7 Jan 1953: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722848/File/document
 
@@ -45,26 +45,60 @@ Cross-check capture:
 
 Classification: **DIRECT CATALOG DISAMBIGUATION / EXCLUSION**. FamilySearch catalog **95422 is not a valid holding or digital-access route for the 1953 Salisbury volume**. Do not cite it as such.
 
-The actual 1953 page images / 503 and 505 Main entries remain unrecovered in the current research environment. Current viable 1953 routes remain the gated Ancestry/MyHeritage image collections, Gale/Research Publications microfilm, Library of Congress holdings, preservation-research files, and any independently identified institutional copy.
+The actual 1953 page images / 503 and 505 Main entries remain unrecovered in the current research environment. Current viable routes remain the gated Ancestry/MyHeritage image collections, Gale/Research Publications Reel 26, preservation-research files, independently identified institutional copies, and Library of Congress as a broader collection/access route subject to the inventory caution below. **Do not describe LOC as a verified holder of the 1953 Salisbury volume unless the exact reel/volume is directly confirmed.**
 
 ## Gale / Research Publications Oregon City Reel 26 — likely 1953 retrieval route
 <!-- Gale Reel 26 1953 Well's retrieval route — 2026-09-07 -->
 
 Gale/Cengage's publisher author index for **_City Directories of the United States_** assigns **Oregon City to Reel 26**. The Oregon City entry has an internally inconsistent printed range label (`1941-1950`) but an explicit missing-year list that continues through **1959**. That list names 1942–1952 except 1953 and 1954–1959, while independent current directory catalogs list Oregon City image editions for **1941, 1953 and 1960**.
 
-This combination supports a **strong catalog inference that Reel 26 contains the 1953 Oregon City directory**, and likely the 1960 directory as well. The physical reel has not been inspected and the relevant Gale PDF page image could not be rendered in the current environment, so this is **not scan-certified primary evidence** and does not establish any occupant at 505 by itself.
+This combination supports a **strong catalog inference that Reel 26 contains the 1953 Oregon City directory**, and likely the 1960 directory as well. The physical reel has not been inspected, so this is **not primary directory evidence** and does not establish any occupant at 505 by itself.
 
 Publisher index:
 - https://assets.cengage.com/gale/psm/3065000A.pdf
+
+### 8 September 2026 visual publisher-index check
+
+The Gale/Cengage publisher PDF page carrying the Oregon City entry was successfully rendered and visually inspected in the current continuation. The visible entry confirms the text-level transcription already preserved in the repository:
+
+- **Oregon City**;
+- range label **1941-1950**;
+- locality coverage including West Linn, Willamette, Bolton, Gladstone, Park Place, Clackamas Heights, and Canemah;
+- missing-year list extending through **1959**, with **1953 omitted from the missing-year list**;
+- **Reel: 26**.
+
+This upgrades the publisher-index entry itself from text-only/cache-miss status to **VISUALLY VERIFIED PUBLISHER INDEX**, but it does **not** visually verify the physical Reel 26 contents or the 1953 directory page. The inference that 1953 is on Reel 26 remains a **strong catalog inference** until the reel/volume is directly inspected.
 
 Library of Congress access/control routes:
 - https://guides.loc.gov/united-states-city-telephone-directories/city-directories
 - https://wwws.loc.gov/rr/microform/guide/c.html
 - https://data.labs.loc.gov/directories/
 
-The Library of Congress identifies the Research Publications set as **_City directories of the United States in microform_**, LC call number **Microfilm (o) 84/206**, and describes the microfilm collection as self-service, arranged by city, with coverage primarily through 1960. LOC's public Directory Holdings Data Package also exposes state-by-state machine-readable inventory metadata; the Oregon file was identified but returned a cache miss in this research environment, so no row-level LOC assertion for Oregon City 1953 is made yet.
+The Library of Congress identifies the Research Publications set as **_City directories of the United States in microform_**, LC call number **Microfilm (o) 84/206**, and describes the microfilm collection as self-service, arranged by city, with coverage primarily through 1960.
 
-Detailed coverage analysis: `evidence/source-captures/1941-1960-oregon-city-directory-gale-microfilm-series-gap-control-2026-09-06.md`.
+### 8 September 2026 LOC full-state inventory harvest — important caution
+
+The completed temporary LOC directory-data probe on `main` downloaded the full Library of Congress Directory Holdings Data Package. The harvested **Oregon** state metadata file contains **876 rows**. Filtering that full file to locality exactly `Oregon City` produces only two explicit city-directory inventory rows:
+
+- **1941**;
+- **1950**.
+
+Both rows identify the source collection as **City Directories of the United States**, original format **Microfilm**, repository **Library of Congress General Collections**, and preserve the guide-derived date text **`1941, 1950`**. There is **no explicit 1953 Oregon City row** in that state metadata file.
+
+Crucially, the LOC dataset README says the inventory commonly reflects directory **spine text**, may omit localities represented inside a volume, and was **not created for all states held by the Library**. LOC therefore warns that the dataset **must not be interpreted as a comprehensive list of all directories held by the Library**.
+
+Correct interpretation:
+
+- the current LOC inventory explicitly lists **1941 and 1950** for Oregon City;
+- the absence of a 1953 row is an **inventory/description gap**, not proof that LOC lacks the 1953 volume;
+- the separate Gale **Reel 26** missing-year pattern remains a strong 1953 content inference requiring direct reel inspection;
+- do not cite “Library of Congress microfilm” as a verified 1953 holding without direct reel/volume confirmation.
+
+Durable harvest/correction capture:
+- `evidence/source-captures/2026-09-08-loc-oregon-city-directory-holdings-1941-1950-inventory-caution.md`
+
+Detailed Gale coverage analysis:
+- `evidence/source-captures/1941-1960-oregon-city-directory-gale-microfilm-series-gap-control-2026-09-06.md`
 
 **Retrieval priority:** if Reel 26 can be inspected, go first to the 1953 volume and capture the title/front matter plus exact 505 Main, Well/Well's/Wells/Welle/Welsh, Harr, recreation/pool/billiards classifications, proprietor notation, telephone number, and 501–511 Main controls. This route may recover the original Well's entry without relying on the SHPO transcription.
 
