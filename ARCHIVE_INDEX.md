@@ -491,10 +491,11 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 
 - **1919 remains IN PROGRESS.**
 - May local-newspaper coverage: **72/72 visually verified pages** (`S-293` / `E-267`); Jan–May cumulative **310 pages**.
-- 16 May: unlocated **Wolf building** alterations/new-confectionery lead; no address, Wolf identity or proprietor, and no 503/505 assignment.
+- 16 May: **Sandy Department** item about `Wolf building` alterations/new-confectionery; full-page visual context rules it out as an Oregon City/503/505 lead.
 - Ohio Dentists at 507½-over-Harding on 16 May; Farr Brothers market-report continuation on all five Enterprise dates; Theroux at 210 Seventh through 30 May.
 - No source-explicit 501/503/505 occupant or target construction/property event; bounded coverage only.
 - Full review: [evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-may-enterprise-courier-visual-review-2026-09-07.md).
+- Context correction: [evidence/source-captures/1919-05-16-wolf-building-sandy-context-correction-2026-09-09.md](evidence/source-captures/1919-05-16-wolf-building-sandy-context-correction-2026-09-09.md).
 - Next chronological batch: **June 1919 Enterprise + Courier**.
 
 ## 1919 June complete visual batch
@@ -503,7 +504,7 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - **1919 remains IN PROGRESS.**
 - June local-newspaper coverage: **56/56 visually verified pages** (`S-294` / `E-268`); Jan–Jun cumulative **366 pages**.
 - No source-explicit 501/503/505/505½ occupant or target construction/property event; bounded coverage only.
-- May's unlocated `Wolf building` lead remains unidentified; June creates no Wolf/503/505 bridge.
+- May's `Wolf building` item is now visually resolved as **Sandy Department** news, not an Oregon City/503/505 lead; June creates no Wolf/503/505 bridge.
 - Farr Bros. appears in late-June county claims without address/proprietor; Theroux remains at 210 Seventh through 27 Jun.; the 13 Jun. Clem Dollar candidate is a non-premises debt/court item.
 - Full review: [evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md](evidence/source-captures/1919-june-enterprise-courier-visual-review-2026-09-07.md).
 - Next chronological batch: **July 1919**, with `MF-030` preserving the Banner-Courier microfilm gap beginning 17 Jul.

@@ -21,9 +21,9 @@ New visually verified steward uploads add two important anchors:
 
 The 31 October item is retained as an unresolved address conflict. It is **not** treated as proof that the firm moved from 505 to 503 after dissolution. Independent advertising, directories, leases/licenses, or other records are needed to decide whether this was a real move or a printed error.
 
-## 16 May 1919 unlocated “Wolf building” lead — NOT an identity bridge
+## 16 May 1919 Sandy “Wolf building” item — RULED OUT AS AN IDENTITY BRIDGE
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-A visually verified **16 May 1919 Enterprise p2** item (`E-267` / `S-293`) reports alterations nearing completion to a **Wolf building** in connection with a new confectionery and describes a rustic front porch, side pergola and blue-and-white interior. The article prints **no address, no Wolf first name/initials, no proprietor, and no Wolf & Miller trade name**.
+A visually verified **16 May 1919 Enterprise p2** item (`E-267` / `S-293`) reports alterations nearing completion to a **Wolf building** in connection with a new confectionery and describes a rustic front porch, side pergola and blue-and-white interior. Full-page visual review places the item inside the boxed **Sandy Department**. The article prints **no exact Sandy address, no Wolf first name/initials, no proprietor, and no Wolf & Miller trade name**.
 
-This is retained here only as a same-name research lead. It is **not evidence that the building belonged to Wolf & Miller, the firm's unidentified Wolf partner, S. Wolf of Portland, 503 Main, or 505 Main**. The existing 1918 Wolf & Miller address evidence and conflicts remain unchanged.
+This false Oregon City same-name lead is closed. It is **not evidence that the building belonged to Wolf & Miller, the firm's unidentified Wolf partner, S. Wolf of Portland, 503 Main, or 505 Main**. The existing 1918 Wolf & Miller address evidence and conflicts remain unchanged.

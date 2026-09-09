@@ -312,9 +312,9 @@ The visually verified original plat and 1925 Sanborn scale now strongly align **
 - Clara Rose Wolf family = S. Wolf / later 503 Wolf family: **Plausible / unproven**
 - Fire-start building = 501, 503, or 505 Main: **Unresolved**
 
-## 16 May 1919 backward lead — unlocated “Wolf building” alteration
+## 16 May 1919 backward lead — CLOSED AS SANDY DEPARTMENT NEWS
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-A visually verified **16 May 1919 Enterprise p2** item (`E-267` / `S-293`) says alterations of **the Wolf building** were nearing completion in a new-confectionery context, with a rustic porch, side pergola and blue-and-white interior. It prints no address, Wolf first name/initials, proprietor or connection to the later 1922 property sequence.
+A visually verified **16 May 1919 Enterprise p2** item (`E-267` / `S-293`) says alterations of **the Wolf building** were nearing completion in a new-confectionery context, with a rustic porch, side pergola and blue-and-white interior. A 9 September 2026 full-page visual recheck places the item inside the boxed **Sandy Department**. It prints no exact Sandy address, Wolf first name/initials, proprietor or connection to the later 1922 property sequence.
 
-This is a potentially useful backward lead but **does not identify S. Wolf**, does not establish that S. Wolf owned Oregon City property in May 1919, and does not bridge the building to the 1922 ignition property or the earlier Wolf & Miller business. Keep the 1919 item separate until independent address/identity evidence connects them.
+This former backward lead is closed. It **does not identify S. Wolf**, does not establish that S. Wolf owned Oregon City property in May 1919, and does not bridge the Sandy building to the 1922 ignition property or the earlier Wolf & Miller business.

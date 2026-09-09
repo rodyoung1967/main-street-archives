@@ -104,15 +104,15 @@ The handoff's remaining ordinary public/indexed online paths have now been worke
 
 The exact 2 June 1920 Commission scan remains unrecovered; the 1919–1920 Polk images require authenticated FamilySearch access; and the 1920 assessment roll, Harding/Wolf/Gates deed chain, OHS Block 4 abstract and any surviving pre-2002 City permit/improvement files remain underlying-record/manual tasks. Full distinction between work completed online and manual/authenticated work remaining is saved in `evidence/source-captures/1919-1920-construction-occupancy-online-closeout-2026-09-01.md`. The 503/505 physical-change date remains unresolved and neither 1919 nor 1920 is advanced to ONLINE COMPLETE.
 
-## May 1919 monthly visual addition — unlocated Wolf building alteration
+## May 1919 monthly visual addition — Sandy Wolf-building item ruled out
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-The **16 May 1919 Enterprise p2** scan (`E-267` / `S-293`) directly reports alterations nearing completion to an unlocated **Wolf building** in connection with a new confectionery. Architectural details include a rustic front porch, side pergola and blue-and-white interior. Because the item gives no address, owner identity or proprietor, it **cannot be assigned to 501/503/505 or used as proof of the surviving 503/505 construction date**. It remains a high-value location/identity lead for the broader 1919 structural-change question.
+The **16 May 1919 Enterprise p2** scan (`E-267` / `S-293`) directly reports alterations nearing completion to a **Wolf building** in connection with a new confectionery. Architectural details include a rustic front porch, side pergola and blue-and-white interior. A 9 September 2026 full-page visual recheck places the item inside the boxed **Sandy Department**, immediately above that department's `LOCALS` subhead. It is not an Oregon City event, **cannot be assigned to 501/503/505 or used as proof of the surviving 503/505 construction date**, and is closed as a target-frontage lead.
 
 ## June 1919 complete monthly visual addition
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
 
-The complete June local-newspaper scan pass (`S-294` / `E-268`) reviewed **56/56 recovered pages** and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. It also supplied no address or identity bridge for the unlocated **Wolf building** alteration reported in May. This is bounded coverage only and does not establish that no physical work occurred.
+The complete June local-newspaper scan pass (`S-294` / `E-268`) reviewed **56/56 recovered pages** and found no source-explicit construction, demolition, rebuilding, remodeling, lease, sale, move or fire event assignable to **501, 503, 505 or 505½ Main**. It supplied no address or identity bridge for the May **Wolf building** item, which later full-page visual review resolved as Sandy Department news. This is bounded coverage only and does not establish that no physical work occurred.
 
 ## July 1919 online-exposed visual addition
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->

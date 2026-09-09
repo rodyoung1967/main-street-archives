@@ -786,11 +786,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 ## S-293 / E-267 — May 1919 complete monthly local-newspaper visual batch
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-- `S-293` / `E-267` → unlocated **Wolf building** alteration/new-confectionery lead on 16 May; no entity/address bridge created.
+- `S-293` / `E-267` → **Sandy Department** `Wolf building` alteration/new-confectionery item on 16 May; visually ruled out as an Oregon City/503/505 lead, with no entity/address bridge created.
 - `S-293` / `E-267` → `BUS-106` / `P-397` and `B-003` context: Ohio Dentists at 507½ Main over Harding's Drug Store on 16 May.
 - `S-293` / `E-267` → `BUS-104` Farr Brothers market-report continuation across all five Enterprise issues.
 - `S-293` / `E-267` → `BUS-029` / `P-044` Theroux Music House at 210 Seventh through 30 May.
-- `T-100` → 16 May 1919 unlocated Wolf-building alteration event.
+- `T-100` → 16 May 1919 Sandy Department Wolf-building alteration item; retained ID, corrected geographic context, ruled out for the target frontage.
 
 ## S-294 / E-268 — June 1919 complete monthly local-newspaper visual batch
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->

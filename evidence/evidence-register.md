@@ -2694,19 +2694,20 @@ Claims:
 - no source-explicit 501/503/505 occupant or target physical-building event was found; no-hit is bounded coverage only.
 Confidence: **Very High** for scan-visible April wording and page coverage; **Strong cross-source inference** for Block 26 Lots 5–6 correspondence; **Unresolved conflict** for 1918 vs. 1919 ownership descriptions; none for an unprinted exact Post Office bay.
 
-## E-267 — May 1919 visual review: unlocated Wolf building confectionery alterations and neighboring business controls
+## E-267 — May 1919 visual review: Sandy Wolf-building item ruled out and neighboring business controls
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 Type: Primary newspaper scan batch; **VISUALLY VERIFIED**.  
 Sources: `S-293`.  
 Claims:
 - all **72/72** recovered May pages were visually inspected after printed date/page identity review;
 - 16 May Enterprise p2 directly reports alterations of the **Wolf building** nearing completion in a new-confectionery context and describes a rustic front porch, side pergola and blue-and-white interior;
-- the Wolf building's address, owner identity and confectionery proprietor are unprinted, so it is not linked to Wolf & Miller, S. Wolf, 503 Main or 505 Main;
+- full-page visual review places the item inside the boxed **Sandy Department**, immediately above that department's `LOCALS` subhead; it is not an unlocated Oregon City item;
+- the Sandy building's exact address, owner identity and confectionery proprietor remain unprinted, and the item is ruled out as a link to Wolf & Miller, S. Wolf, 503 Main or 505 Main;
 - 16 May Enterprise p6 repeats **Ohio Dentists / Dr. J. G. Nash at 507½ Main over Harding's Drug Store**;
 - all five May Enterprise market reports credit **Brady Mercantile Company and Farr Brothers** without address or proprietor;
 - Theroux Music House continues at **210 Seventh Street** through 30 May;
 - no source-explicit 501/503/505 occupant or target physical-building event was established; no-hit is bounded coverage only.
-Confidence: **Very High** for scan-visible wording and monthly page coverage; **Unresolved** for Wolf-building identity/location; none for an unprinted target-premises bridge.
+Confidence: **Very High** for scan-visible wording, Sandy Department context and monthly page coverage; **Unresolved** only for the Sandy building's exact address, Wolf identity and proprietor; none for a target-premises bridge.
 
 ## E-268 — June 1919 visual review: bounded target-frontage coverage and business controls
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
@@ -2715,7 +2716,7 @@ Sources: `S-294`.
 Claims:
 - all **56/56** recovered June pages were visually inspected after printed title/date/page identity review;
 - no source-explicit 501/503/505/505½ occupant or target construction/property event was established;
-- the May unlocated `Wolf building` lead was not identified or located by the June batch;
+- the May `Wolf building` item, subsequently resolved by full-page visual context as Sandy Department news, is not an Oregon City/503/505 lead;
 - 13 Jun. Enterprise p1 visually confirms the Clem Dollar item is an old debt/court dispute with no business premises or target-address relationship;
 - 26/27 Jun. county-claims material names Farr Bros. without address or individual proprietor;
 - 27 Jun. Enterprise p7 directly continues Theroux Music House at **210 Seventh Street**;

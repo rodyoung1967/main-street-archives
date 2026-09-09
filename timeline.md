@@ -644,10 +644,10 @@ The **18 Apr. Enterprise p1** scan (`S-292` / `E-266`) directly reports that the
 
 The full April batch is **56/56 visually verified pages**, bringing January–April 1919 local-newspaper coverage to **238 pages**. Ohio Dentists/Nash continues at 507½-over-Harding on 11 Apr.; Farr Brothers appears in all four April market reports without address/proprietor; Theroux remains at 210 Seventh through 25 Apr. No source-explicit 501/503/505 occupant or target construction/property event was recovered; bounded coverage only.
 
-## 16 May 1919 — unlocated Wolf building alterations; May newspaper batch complete
+## 16 May 1919 — Sandy Department Wolf-building item ruled out; May newspaper batch complete
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-The **16 May Enterprise p2** scan (`S-293` / `E-267`) directly reports alterations nearing completion to **the Wolf building** in a new-confectionery context, describing a full-length rustic front porch, side pergola and blue-and-white interior. The item gives no address, Wolf identity or proprietor. It is therefore an **unlocated building-alteration lead**, not a 503/505 event and not a bridge to Wolf & Miller or S. Wolf.
+The **16 May Enterprise p2** scan (`S-293` / `E-267`) directly reports alterations nearing completion to **the Wolf building** in a new-confectionery context, describing a full-length rustic front porch, side pergola and blue-and-white interior. Full-page visual review places the item inside the boxed **Sandy Department**, immediately above that department's `LOCALS` section. It is therefore Sandy-area news, not an unlocated Oregon City building event and not a bridge to 503/505, Wolf & Miller or S. Wolf.
 
 The full May batch is **72/72 visually verified pages**, bringing January–May 1919 local-newspaper coverage to **310 pages**. Ohio Dentists/Nash continues at 507½-over-Harding on 16 May; Farr Brothers appears in all five May market reports without address/proprietor; Theroux remains at 210 Seventh through 30 May. No source-explicit 501/503/505 occupant or target construction/property event was established; bounded coverage only.
 

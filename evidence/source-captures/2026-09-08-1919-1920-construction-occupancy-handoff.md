@@ -104,7 +104,7 @@ The City historic-survey evidence should be handled as follows:
 
 Current `main` shows parallel page-by-page work completed for **January through October 1919**. The construction checkpoint records these later additions:
 
-- May: visually verified alteration of an **unlocated Wolf building** connected to a new confectionery (`S-293` / `E-267`); no address/identity bridge to 501/503/505.
+- May: visually verified alteration of a **Wolf building** connected to a new confectionery (`S-293` / `E-267`); a 9 September full-page recheck places it in the boxed Sandy Department and rules it out as an Oregon City/501/503/505 lead.
 - June: complete recovered-page review; no source-explicit target construction event (`S-294` / `E-268`).
 - July: all online-exposed local pages reviewed; no target event; inaccessible Banner-Courier remains `MF-030` (`S-295` / `E-269`).
 - August: complete online-exposed Enterprise review; no target event (`S-296` / `E-270`).
@@ -154,7 +154,7 @@ No institutional request should be sent without explicit steward authorization. 
 - Who was A. Leland, and is there any source-explicit connection to O. H. Leland, Timms Pool Hall or Leland & Little?
 - What happened at 505/505½ between Wolf & Miller's Oct. 1918 occupancy and Leland's Jun. 1920 pool-hall permit?
 - Who was the unnamed 1919 cleaner/dyer using Phone 260, and what exactly did the newspaper mean by `500 Fifth and Main streets`?
-- Where was the May 1919 **Wolf building** alteration, and which Wolf/business network did it involve?
+- **Closed 9 September 2026:** the May 1919 **Wolf building** alteration item is Sandy Department news, not an Oregon City target-frontage event.
 - How do the 1922 Harding/Wolf/Gates legal-property boundaries map onto the later 501/503/505 storefront geometry?
 
 ## Evidence discipline to preserve

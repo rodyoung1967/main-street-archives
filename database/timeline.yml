@@ -1019,8 +1019,8 @@ timeline:
 
   - id: T-100
     date: 16 May 1919
-    summary: Oregon City Enterprise reports alterations to the unlocated Wolf building nearing completion in a new-confectionery context, with a rustic front porch, side pergola and blue-and-white interior; no address, Wolf identity or proprietor is printed.
-    confidence: Very High for visible article wording and alteration details; unresolved for building location, Wolf identity and any connection to 503/505, Wolf & Miller or S. Wolf
+    summary: Oregon City Enterprise reports alterations to a Wolf building in a new-confectionery context; full-page visual review places the item inside the Sandy Department, ruling it out as an Oregon City/503/505 event.
+    confidence: Very High for visible wording, alteration details and Sandy Department context; unresolved only for the Sandy building's exact address, Wolf identity and proprietor
     related_evidence:
       - E-267
     related_sources:

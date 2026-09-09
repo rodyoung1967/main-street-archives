@@ -31,7 +31,7 @@ At the time this checkpoint was prepared, parallel workflows had already advance
 | February | **56/56** | `S-290` / `E-264` | Cox billiard-parlor sale / ownership transition without premises number; no target-number result |
 | March | **56/56** | `S-291` / `E-265`; timeline `T-098` | Cox license transferred to Rohberger; premises still unnumbered |
 | April | **56/56** | `S-292` / `E-266`; timeline `T-099` | Post Office actually moved to Fifth/Main on 15 Apr.; two store rooms combined; ownership-description conflict preserved |
-| May | **72/72** | `S-293` / `E-267`; timeline `T-100` | Unlocated `Wolf building` alterations for a new confectionery; no Wolf/503/505 identity bridge |
+| May | **72/72** | `S-293` / `E-267`; timeline `T-100` | `Wolf building` alterations for a new confectionery; 9 September full-page recheck places item in Sandy Department and rules out Oregon City/503/505 bridge |
 | June | **56/56** | `S-294` / `E-268` | Bounded coverage only; no exact target occupant or target structural event |
 | July | **38/38 online-exposed** | `S-295` / `E-269` | Final Courier + four Enterprise issues; successor Banner-Courier becomes manual gap `MF-030` |
 | August | **40/40 online-exposed** | `S-296` / `E-270` | No target event; several apparent remodel leads visually resolved as unrelated |
@@ -118,20 +118,20 @@ A **12 Sep. 1918 Courier** report had instead described the proposed leased buil
 
 No exact 501/503/505 occupant or target structural event was established by the April batch.
 
-## May 1919 — unlocated Wolf-building alteration lead
+## May 1919 — Sandy Wolf-building item ruled out as target lead
 
 The complete May batch was **72/72 pages**.
 
-**16 May Enterprise p.2** directly reports that alterations to **`the Wolf building`** were nearing completion for a **new confectionery**, including a full-length rustic porch, side pergola, and blue-and-white interior treatment.
+**16 May Enterprise p.2** directly reports that alterations to **`the Wolf building`** were nearing completion for a **new confectionery**, including a full-length rustic porch, side pergola, and blue-and-white interior treatment. A 9 September 2026 full-page visual recheck places the item inside the boxed **Sandy Department**, immediately above that department's `LOCALS` subhead.
 
 Critical limits:
 
-- no street address is printed;
+- no exact Sandy street address is printed;
 - no Wolf first name is printed;
 - no proprietor is identified;
 - no source connects this building to Wolf & Miller, S. Wolf of Portland, 503, 505, or the later Wolf property network.
 
-The archive therefore preserves it as an **unlocated building-alteration lead**, not a target-building event.
+The archive therefore preserves it as a **Sandy Department false target lead**, not a target-building event. The prior unlocated-Oregon-City classification is superseded.
 
 ## June 1919 — bounded coverage and false candidates resolved
 

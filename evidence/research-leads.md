@@ -537,15 +537,15 @@ Continue exact-address searches for 501/503/505 and target construction/property
 
 **Priority: HIGH — ONLINE FIRST, then existing manual/property routes if needed.** The April monthly visual batch (`S-292` / `E-266`) directly dates the move to **15 Apr. 1919** and names **First National Bank + Barlow-David heirs** as owners of the two combined store rooms. Search 1919–1922 directories, postal notices, First National Bank/Latourette property references, deeds/assessments and federal Post Office lease/site records for an exact numbered bay and ownership reconciliation. Use the 1913 Block 26 Lot 5 Barlow/David + Lot 6 First National Bank sequence as a cross-source test, not as proof of a 1919 lot assignment. Preserve the 1918 Latourette ownership statement as a conflict until resolved.
 
-## May 1919 Wolf-building / confectionery identification route
+## May 1919 Wolf-building / confectionery identification route — CLOSED
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
-**Priority: HIGH — ONLINE FIRST.** The 16 May 1919 Enterprise (`S-293` / `E-267`) directly documents substantial alterations to an unlocated **Wolf building** in a new-confectionery context. Search May–July 1919 Enterprise/Courier advertising and local items for the confectionery opening, porch/pergola descriptions, `Wolf building`, proprietor names, address wording and later business references. Cross-check 1919–20 directories and property/permit sources. Treat Wolf & Miller (`BUS-012`) and S. Wolf of Portland as separate candidates unless a contemporary source explicitly bridges identity or premises.
+**CLOSED 9 SEPTEMBER 2026 — VISUALLY RULED OUT.** The 16 May 1919 Enterprise (`S-293` / `E-267`) item is inside the page's boxed **Sandy Department**, immediately above that department's `LOCALS` subhead. It is not an unlocated Oregon City item and supplies no route to 501/503/505, Wolf & Miller (`BUS-012`) or S. Wolf of Portland (`P-035`). No further target-frontage research should be spent identifying the Sandy confectionery unless contrary primary evidence appears.
 
 ## June 1919 follow-forward on May Wolf-building lead
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
 
-The complete June monthly scan pass (`S-294` / `E-268`) did **not** identify the May `Wolf building` confectionery by address, proprietor or Wolf identity. Continue the existing **ONLINE-FIRST** route into July: search opening advertisements, confectionery references, porch/pergola descriptions, Wolf-name property references and exact-address wording. June silence is coverage only and does not justify a 503/505 assignment or a same-person merge.
+The complete June monthly scan pass (`S-294` / `E-268`) did not identify the May `Wolf building` confectionery by address, proprietor or Wolf identity. A later full-page visual check resolved the premise: the May item is **Sandy Department** news, not an Oregon City/503/505 lead. The former July follow-forward instruction is withdrawn.
 
 ## September 1919 — identify S. Fesznecker and the post-office-south storefront
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->

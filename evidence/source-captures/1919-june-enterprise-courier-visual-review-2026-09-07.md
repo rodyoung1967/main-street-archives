@@ -34,11 +34,11 @@ Across all 56 visually reviewed June pages and the post-visual text-discovery ba
 
 **This is bounded June coverage only. It is not evidence of vacancy, closure, demolition, non-use, relocation, or absence of an occupant.**
 
-## May “Wolf building” follow-forward
+## May “Wolf building” follow-forward — later context correction
 
 The June batch produced no source-explicit continuation identifying the **Wolf building** whose alterations were reported on 16 May. No June page supplied an address, Wolf identity, proprietor, confectionery trade name, or other bridge to Wolf & Miller, S. Wolf, 503 Main or 505 Main.
 
-This leaves the May item as an **unlocated / unresolved same-name building lead**. June silence does not establish that the confectionery closed, moved, changed name, or was outside the target block.
+A 9 September 2026 full-page visual recheck resolved the premise: the May item is inside the boxed **Sandy Department** and is not an Oregon City/503/505 lead. June's no-hit remains bounded coverage, but no further target-frontage follow-forward is warranted for that Sandy item.
 
 ## 13 June — Clem Dollar court item visually resolved
 
