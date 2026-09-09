@@ -550,6 +550,8 @@ people:
     - S-294
     - S-295
     - S-296
+    related_evidence: [E-273]
+    related_sources: [S-299]
   - id: P-045
     name: E. T. Mass
     role: Ex-sheriff and hotel/restaurant operator

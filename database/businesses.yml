@@ -535,6 +535,8 @@ businesses:
     - S-294
     - S-295
     - S-296
+    related_evidence: [E-273]
+    related_sources: [S-299]
   - id: BUS-030
     name: Mass's Hotel and Restaurant
     address: Former Brunswick quarters; Main near Seventh context, exact number unresolved

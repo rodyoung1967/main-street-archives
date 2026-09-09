@@ -161,3 +161,6 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
 
 `E-271` directly places `BUS-107` in **the building just south of the post office** on 12 Sep. 1919 after a move from Broadway. Exact street number/parcel is unresolved; no 501/503/505 normalization. Compare cautiously with cleaner/dyer `E-136` (`two doors south of new post office`).
+
+| 210 Seventh Street | Theroux Music House (`BUS-029`) | `E-273` | Visually verified Enterprise ads on 3/17/31 Oct. 1919 extend the direct address control through 31 Oct.; OCR leading-digit errors rejected. |
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->

@@ -45,3 +45,8 @@ The sources do not expand the initials, establish property ownership, or prove t
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
 
 `S-297` / `E-271` directly continues Theroux Music House at **210 Seventh Street through 26 September 1919**. OCR `110` is rejected after scan inspection.
+
+## October 1919 address continuation
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+`S-299` / `E-273` directly continues Theroux Music House at **210 Seventh Street through 31 October 1919**. OCR/text leading-digit errors are rejected after scan inspection. This is a business-location control, not property ownership.

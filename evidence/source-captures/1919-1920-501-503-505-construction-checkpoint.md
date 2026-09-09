@@ -128,3 +128,8 @@ The complete online-exposed August Enterprise pass (`S-296` / `E-270`) visually 
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
 
 The complete online-exposed September Enterprise pass (`S-297` / `E-271`) visually reviewed **32/32 pages**. It found no source-explicit target-frontage construction, demolition, rebuilding or remodeling event and no exact 501/503/505 occupant. The new Fesznecker move is a relative post-office neighborhood anchor only, not a target-building assignment. Banner-Courier remains unavailable online under `MF-030`.
+
+## October 1919 monthly visual addition
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+The complete online-exposed October Enterprise pass (`S-299` / `E-273`) visually reviewed **40/40 pages** and found no source-explicit 501/503/505/505½ occupant or target construction, demolition, rebuilding, remodeling, fire, sale, lease or ownership event. The seemingly relevant **3 October building south of the post office** item was visually resolved as an **Estacada** feed-store notice. October Banner-Courier remains unavailable online under `MF-030`; this is bounded Enterprise coverage only, not evidence that no target work occurred.

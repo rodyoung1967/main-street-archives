@@ -322,3 +322,6 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | 12 Sep. 1919 | Building just south of Oregon City Post Office; exact number unresolved | S. Fesznecker tin and repair shop | `BUS-107` | `E-271` | Direct move from Broadway; descriptive business label only. |
 | 26 Sep. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-271` | Scan visibly reads 210; OCR 110 rejected. |
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+| 31 Oct. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-273` | October Enterprise ads on 3/17/31 Oct. directly continue the address through month end. |
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->

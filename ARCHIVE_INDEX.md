@@ -544,3 +544,12 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 
 - [Deep repository integrity and consistency audit](registers/repository-integrity-audit-2026-09-08.md): records the full-file, structured-data, hash, Git-object, archive-preservation, status, and high-risk narrative checks; documents completed repairs and bounded outstanding normalization debt.
 - Recovered both previously ignored repository-history tarballs from their recorded Git object IDs and added validator enforcement for their presence, hashes, sizes, and readability.
+
+## October 1919 complete online Enterprise visual batch
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+- [`evidence/source-captures/1919-october-enterprise-visual-review-2026-09-08.md`](evidence/source-captures/1919-october-enterprise-visual-review-2026-09-08.md) — `S-299` / `E-273`; **40/40** October Enterprise pages visually verified.
+- **1919 remains IN PROGRESS.** January–October cumulative online local-newspaper visual count: **516 pages**.
+- Theroux Music House is directly at **210 Seventh Street through 31 Oct. 1919**.
+- No source-explicit 501/503/505/505½ occupant or target physical/property event established in October Enterprise.
+- Banner-Courier 2/9/16/23/30 Oct. remains `MF-030`; next chronological online step is November Enterprise.

@@ -158,3 +158,8 @@ Do **not** restart the October 1918–June 1920 Enterprise OCR sweep or the 18-c
 If continuing this construction/occupancy thread, resume with the **direct municipal/record sources** in the order above. If restricted/authenticated FamilySearch access is available, the **1919–20 Polk Oregon City pages** are the best remaining online-adjacent source. Otherwise the highest-value human record is **MF-041 (2 June 1920 Council record)**, followed by **MF-019 / MF-006 / MF-007** and **MF-030**.
 
 All uncertainty labels and no-negative-evidence rules in `RESEARCH-STANDARD.md` remain controlling.
+
+## October 1919 annual-review continuation
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+After the narrow 1919–1920 construction pass reached its authenticated/manual boundary, year-level online work continued chronologically. `S-299` / `E-273` now records **40/40 October Enterprise pages visually verified**, bringing the January–October online local-newspaper visual count to **516 pages**. Theroux Music House is directly at 210 Seventh through 31 October. No exact target-number or target structural/property event emerged. November Enterprise is the next chronological online step; Banner-Courier remains `MF-030`.

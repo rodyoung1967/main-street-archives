@@ -1034,3 +1034,12 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Kept the known substituted-page exception explicit: the file exposed as 13 December sequence 21 was visually reviewed as a **27 December** page; the true 13 December page 21 remains unrecovered.
 - Added validator coverage for the twelve manifests' canonical review links, item counts, per-page status, file presence, SHA-256 values, and the substituted-page exception.
 - No annual status advanced: the Courier still has one true-page gap, and 1917 remains **IN PROGRESS** for the other documented title/directory gaps.
+
+### 2026-09-08 — October 1919 Enterprise complete visual review
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+- Preserved originals are in retrieval commit `87f70a09ebcffd020abe4618aac28ee90d503848`; visually inspected **40/40** Enterprise pages for 3/10/17/24/31 Oct. 1919.
+- Theroux Music House is directly at **210 Seventh Street** on 3/17/31 Oct.; OCR/text leading-digit errors were rejected against the scans.
+- No source-explicit 501/503/505/505½ occupant or target construction/property event was found in the online October pages.
+- The 3 Oct. `building south of the post office` candidate is Estacada, not Oregon City; 31 Oct. pool-room and Wolfer hits are unrelated to the target.
+- Banner-Courier 2/9/16/23/30 Oct. remains `MF-030` manual microfilm gap.
+- Integrated monthly batch as `S-299` / `E-273`; 1919 stays **IN PROGRESS** with **516** online local-newspaper pages visually reviewed Jan-Oct.

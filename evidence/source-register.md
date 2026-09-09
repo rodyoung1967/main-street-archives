@@ -2540,3 +2540,11 @@ SHA-256: `ffd9349d0c88fff7ce31f70cba115163296ae6b4dd19b6e7e6fb044cc1e319dd`.
 Map ID: `SM-010`.  
 Related evidence/buildings: `E-272`; `B-005`, `B-001`, `B-002`.  
 Notes: This is the correct downtown Fifth/Main sheet for the later 501/503/505 frontage. The earlier registered 1911 Sheet 22 (`SM-007` / `S-020`) is Canemah and remains a valid geographic-control source, not the target block. Visual comparison with `S-021` / 1925 Sheet 6 shows changed storefront/footprint geometry by 1925; the map does not itself date each demolition or rebuild.
+
+## S-299 — October 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+Type: Primary newspaper scans plus retrieval-gap manifest; **40/40 online-exposed pages VISUALLY VERIFIED** 8 September 2026.  
+Coverage: Enterprise 3/10/17/24/31 Oct., 40 pages; Banner-Courier 2/9/16/23/30 Oct. **manual retrieval gaps** under `MF-030`.  
+Repository originals: `newspapers/oregon-city-enterprise/1919-october/`; gap manifest `newspapers/banner-courier/1919-october/manifest.json`.  
+Related evidence: `E-273`.  
+Notes: No source-explicit 501/503/505/505½ occupant or target physical-building/property event. Theroux Music House is directly at 210 Seventh on 3/17/31 Oct., extending direct continuity through 31 Oct.; OCR leading-digit errors are rejected after scan review.

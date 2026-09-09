@@ -655,3 +655,8 @@ The full May batch is **72/72 visually verified pages**, bringing January–May 
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
 
 The *Oregon City Enterprise* p.2 (`S-297` / `E-271`) directly reports that **S. Fesznecker (`P-398`) moved his tin and repair shop (`BUS-107`) from Broadway to the building just south of the post office**. Exact street number, parcel and formal trade name remain unresolved. This is a neighborhood spatial/business-move event, not a 501/503/505 assignment.
+
+## October 1919 — Theroux continues at 210 Seventh; target frontage not identified
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+The complete online-exposed October Enterprise batch (`S-299` / `E-273`) comprises **40/40 visually reviewed pages**. Original advertisements on **3, 17 and 31 October** directly print **Theroux Music House, 210 Seventh Street**, extending the dated control through month end. No source-explicit 501/503/505/505½ occupant or target construction/property event was established in the October Enterprise pages. October Banner-Courier remains a manual microfilm gap under `MF-030`; no negative inference is made across that inaccessible title.

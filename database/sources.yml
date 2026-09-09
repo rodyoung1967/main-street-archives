@@ -1983,3 +1983,10 @@ sources:
     notes: "Correct downtown Fifth/Main sheet for later 501/503/505 frontage. 1911 Sheet 22 is Canemah and must not be substituted. Visual comparison with 1925 Sheet 6 shows changed storefront/footprint geometry but does not date each physical change."
     related_evidence: [E-272]
     related_buildings: [B-005, B-001, B-002]
+
+# 1919 October Enterprise visual review — 2026-09-08
+  - id: S-299
+    name: "October 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap"
+    url: https://oregonnews.uoregon.edu/
+    notes: >-
+      Primary October scan batch: 40/40 Enterprise pages visually verified. Banner-Courier 2, 9, 16, 23 and 30 October remain MF-030 manual retrieval gaps. Theroux Music House is directly at 210 Seventh through 31 October; no exact target-number occupant or target structural/property event was established.

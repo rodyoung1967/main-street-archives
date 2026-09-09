@@ -2777,3 +2777,18 @@ Claims:
 - The comparison does **not** date the replacement precisely or choose between the competing 1922 Gates/Wolf storefront models.
 Classification: **HIGH-CONFIDENCE PROJECT-STEWARD VISUAL SYNTHESIS for rejecting a literal 1908 surviving-building date; exact replacement date remains unresolved.**  
 Confidence: Very High for the registered map-geometry change; High for the steward photograph-to-flood-era building match; none for a precise construction year beyond the 1911–1925 bracket.
+
+## E-273 — October 1919 online visual review: Theroux 210 Seventh continuity and bounded target coverage
+<!-- 1919 October Enterprise visual review — 2026-09-08 -->
+Type: Primary newspaper online scan batch with explicit successor-title retrieval gap.  
+Source: `S-299`.  
+Claims:
+- all **40/40 online-exposed October Enterprise pages** were visually inspected from the original scans;
+- Theroux Music House is directly printed at **210 Seventh Street** on 3, 17 and 31 October, extending the dated address control through **31 October 1919**;
+- OCR/text readings `S10` / `110` are rejected where the original scan visibly reads **210**;
+- no source-explicit 501/503/505/505½ occupant or target construction/property event was established in the online pages;
+- the 3 October `building south of the post office` hit is explicitly an **Estacada** item, not Oregon City;
+- 31 October pool-room references and the Henry Wolfer surname hit do not bridge to the target frontage, S. Wolf, or Wolf & Miller;
+- October Banner-Courier issues remain manual retrieval gaps under `MF-030`.
+Classification: **DOCUMENTED / DIRECT** for scan-visible Theroux address and inspected-page count; **COVERAGE RESULT ONLY** for the no-target finding; **RETRIEVAL GAP** for inaccessible Banner-Courier issues.  
+Confidence: **Very High** for scan-visible wording and page coverage.
