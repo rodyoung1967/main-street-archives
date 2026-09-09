@@ -95,7 +95,7 @@ No direct 1912 source recovered in the current pass explicitly reports a fire at
 
 ## Target-address status for 1912
 
-- **501 Main:** no exact 1912 occupant recovered in the current pass.
+- **501 Main:** positive exact occupant/use — Joe Wilson's Palace Saloon in a visually verified 19 March *Morning Enterprise* liquor-license notice (`E-104`, `S-118`). This proves 501 address/business use on that date, not continuity of later building fabric.
 - **503 Main:** positive exact occupant/use — H. N. Smith pool room on 5 January; H. H. Smith pool-hall license application at 503 on 24 March.
 - **505 Main:** no exact-number 1912 occupant recovered in the current pass. The Chicago Store appears on 5 January only as `Main St. just below Postoffice`; its 1911 505 address is not mechanically carried forward.
 - **507 Main:** positive exact occupant — G. H. Young on 5 January.
