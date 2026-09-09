@@ -2593,3 +2593,16 @@ Type: Repository synthesis of visually verified primary scans, official/secondar
 Capture: `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md`.  
 Related evidence: `E-280`.  
 Notes: 102 local-newspaper issue dates accounted for; 638/638 online-retrievable pages visually reviewed; 24 Banner-Courier issues remain `MF-030`. Other ordinary public/indexed online source classes are closed; restricted/manual records remain explicitly listed.
+
+## S-307 — Oregon City Courier, 19 January 1912, pages 1–4 visual-review batch
+<!-- 1912 Courier Jan 19 pages 1-4 steward visual review and binary preservation — 2026-09-09 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES** on 9 September 2026; exact archive PDF derivatives preserved.  
+Publication: *Oregon City Courier*.  
+Date/pages: **19 January 1912, printed pages 1–4**.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-1.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-2.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-3.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-4.pdf`.  
+SHA-256: page 1 `47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679`; page 2 `01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99`; page 3 `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611`; page 4 `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e`.  
+Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.  
+Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.  
+Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. The separate 19 January page/image 8 Percy Cross / Harding Drug Store lead remains **OCR/TEXT ONLY** because page 8 is not in this four-page batch. No new `E-###` is assigned from the bounded no-hit/context result.
+

@@ -1068,3 +1068,10 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 <!-- Flor Morton thread knowledge checkpoint — 2026-09-08 -->
 
 Completed a thread-level preservation audit for the LaFarlette / Morton / Albert D. Flor / Margaret Remus / Kwality→Wheel research. Confirmed that the substantive oral-history leads, 1949 Flor Oregon City control, 1951 Flor+Remus liquor application, 1953 `Al & Marge Kwality Cafe`, Fred Remus cook control, 1957 Flor-at-503 control, Morton no-hit/retrieval-gap status, and MF-052 manual routes are already integrated. Preserved two important later corrections/improvements: **FamilySearch catalog 95422 is a 1960+ Polk series and must not be used for the 1953 Salisbury directory**, and the earliest recovered exact-address Wheel ad is now **28 March 1958**. Added `evidence/source-captures/2026-09-08-flor-morton-thread-knowledge-checkpoint.md`. No institutional request was sent.
+
+### 2026-09-09 — 19 January 1912 Courier pages 1–4 steward batch
+- Visually reviewed printed pages 1–4 and credited all four pages under the 1912 exhaustive audit.
+- Re-upload aliases with `(1)` suffixes were byte-identical to the first supplied PDFs by SHA-256; no duplicate binaries were retained.
+- Preserved exact canonical page PDFs at `newspapers/oregon-city-courier/1912-01-19-page-1.pdf` through `page-4.pdf` after hash-gated archive download; preservation commit `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.
+- Registered the batch as `S-307`; no new `E-###` was created because target screening produced no defensible new 501/503/505/507/509/511 claim. Page-1 high-water and dredging items remain non-target context. Page/image 8 Percy Cross / Harding Drug Store remains OCR/TEXT ONLY and pending visual review.
+

@@ -20,7 +20,9 @@ Each supplied PDF was rendered to a faithful page image and visually inspected. 
 | `Courier Jan 19, 1912 p3.pdf` | 3 | `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611` |
 | `Courier Jan 19, 1912 p4.pdf` | 4 | `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e` |
 
-The current connector permits repository text updates but does not provide a direct local-file-to-binary-upload path. The four PDF bytes therefore are **not yet preserved in `newspapers/` by this checkpoint**. Their original filenames and SHA-256 values are retained here so later binary ingest can be verified exactly rather than guessed or silently substituted.
+The later uploads `Courier Jan 19, 1912 p1(1).pdf` through `p4(1).pdf` are byte-for-byte duplicates of the first four supplied files: all four SHA-256 values match exactly. They were therefore treated as duplicate aliases and not archived as second copies.
+
+The four exact page PDFs are now preserved in `newspapers/oregon-city-courier/` as `1912-01-19-page-1.pdf` through `1912-01-19-page-4.pdf`. A one-time repository ingest downloaded the canonical Oregon Historic Newspapers derivatives and required their SHA-256 values to match the steward uploads before committing them. The verified binary-preservation commit is `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`. The temporary ingest workflow was then removed.
 
 ## Page-review ledger
 
@@ -71,7 +73,7 @@ These supplied PDFs cover only printed pages **1–4**. They therefore **do not 
 
 ## Cross-record propagation decision
 
-No new `E-###` or `S-###` is created from this bounded review because the batch changes visual-audit coverage and adds non-target city context but does not materially alter a target building, business, person, ownership, timeline, crosswalk, open-question, or YAML/database fact.
+No new `E-###` is created from this bounded review because it does not materially alter a target building, business, person, ownership, timeline, crosswalk, open-question, or YAML/database fact. The preserved four-page primary-source batch is indexed as `S-307` in the source register and `database/sources.yml`; that source registration records provenance and audit coverage rather than manufacturing a target-block historical event.
 
 The appropriate repository propagation is:
 
@@ -83,5 +85,5 @@ The appropriate repository propagation is:
 ## Next actions
 
 1. Obtain and visually inspect **19 January 1912 pages/images 5–8**, with priority on page/image 8 for the Percy Cross / Harding Drug Store lead.
-2. When a supported binary-ingest route is available, preserve the four supplied PDFs under `newspapers/oregon-city-courier/` and verify them against the SHA-256 values above.
-3. Continue the issue-by-issue *Courier* visual audit and target screening under the current 1912 `IN PROGRESS` status.
+2. Continue the issue-by-issue *Courier* visual audit and target screening under the current 1912 `IN PROGRESS` status.
+3. Reuse the preserved page files and `S-307` as the provenance/coverage control; do not create duplicate binaries for byte-identical steward re-uploads.

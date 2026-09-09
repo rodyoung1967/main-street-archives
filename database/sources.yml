@@ -2046,3 +2046,12 @@ sources:
     url: https://github.com/rodyoung1967/main-street-archives
     notes: >-
       ONLINE COMPLETE certification: 102 local issue dates accounted for; 638/638 online-retrievable pages visually reviewed; 24 Banner-Courier issues and other restricted/manual records remain explicit callouts.
+
+  - id: S-307
+    name: "Oregon City Courier, 19 January 1912, pages 1–4 visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/"
+    type: "Primary newspaper page scans; visually verified 4/4 pages; exact repository PDFs preserved"
+    date: "1912-01-19"
+    repository_file: "evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md"
+    notes: "Four steward-supplied pages were visually reviewed and exact archive PDF derivatives preserved under newspapers/oregon-city-courier/. Duplicate (1) re-uploads are byte-identical and were not duplicated. No new target-block claim; page-1 high-water and river-channel items remain non-target context. Page-8 Percy Cross / Harding Drug Store lead is still OCR/TEXT ONLY."
+
