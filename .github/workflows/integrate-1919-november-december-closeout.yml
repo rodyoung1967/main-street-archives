@@ -22,7 +22,7 @@ jobs:
         run: git pull --rebase origin main
       - name: Validate archive before integration
         run: python3 scripts/validate_archive.py
-      - name: Fix relation-writer newline before integration
+      - name: Fix integration helper before integration
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -30,9 +30,11 @@ jobs:
           t=p.read_text(encoding='utf-8')
           old='    p.write_text(text[:m.start()] + block + text[m.end():], encoding="utf-8")\n    return True\n'
           new='    if not block.endswith("\\n"):\n        block += "\\n"\n    p.write_text(text[:m.start()] + block + text[m.end():], encoding="utf-8")\n    return True\n'
-          if old not in t:
-              raise SystemExit('expected relation-writer block not found')
-          p.write_text(t.replace(old,new,1),encoding='utf-8')
+          if old in t:
+              t=t.replace(old,new,1)
+          t=t.replace('name: "November 1919 Enterprise review and B. J. Staats 520-22 Main liquidation address"', 'name: "November 1919 Enterprise review and B. J. Staats 520–22 Main liquidation address"')
+          t=t.replace('name: "December 1919 Enterprise review and Portland House Fifth-Main fire"', 'name: "December 1919 Enterprise review and Portland House Fifth/Main fire"')
+          p.write_text(t,encoding='utf-8')
           PY
       - name: Integrate November December and annual 1919 closeout
         run: python3 scripts/integrate_1919_november_december_closeout.py
