@@ -1,0 +1,36 @@
+name: Temporary 1912 Archive Probe
+
+on:
+  push:
+    branches:
+      - research/1912-online-closeout
+    paths:
+      - scripts/temp_1912_archive_probe.py
+      - .github/workflows/temp-1912-archive-probe.yml
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install probe dependencies
+        run: python -m pip install --disable-pip-version-check requests pillow
+      - name: Run 1912 inventory and Courier visual probe
+        run: python scripts/temp_1912_archive_probe.py
+      - name: Upload probe results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1912-archive-probe-results
+          path: probe-results/
+          if-no-files-found: warn
+          retention-days: 3
