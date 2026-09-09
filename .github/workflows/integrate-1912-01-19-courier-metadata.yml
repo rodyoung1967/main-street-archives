@@ -1,0 +1,81 @@
+name: Temporary integrate Jan 19 1912 Courier metadata
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/integrate-1912-01-19-courier-metadata.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out newest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Append collision-free source metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+
+          if grep -q '^## S-307 ' evidence/source-register.md || grep -q '^  - id: S-307$' database/sources.yml; then
+            echo 'S-307 is already allocated; refusing to collide.' >&2
+            exit 1
+          fi
+
+          cat >> evidence/source-register.md <<'EOF'
+
+## S-307 — Oregon City Courier, 19 January 1912, pages 1–4 visual-review batch
+<!-- 1912 Courier Jan 19 pages 1-4 steward visual review and binary preservation — 2026-09-09 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES** on 9 September 2026; exact archive PDF derivatives preserved.  
+Publication: *Oregon City Courier*.  
+Date/pages: **19 January 1912, printed pages 1–4**.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-1.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-2.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-3.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-4.pdf`.  
+SHA-256: page 1 `47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679`; page 2 `01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99`; page 3 `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611`; page 4 `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e`.  
+Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.  
+Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.  
+Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. The separate 19 January page/image 8 Percy Cross / Harding Drug Store lead remains **OCR/TEXT ONLY** because page 8 is not in this four-page batch. No new `E-###` is assigned from the bounded no-hit/context result.
+EOF
+
+          cat >> database/sources.yml <<'EOF'
+
+  - id: S-307
+    name: "Oregon City Courier, 19 January 1912, pages 1–4 visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/"
+    type: "Primary newspaper page scans; visually verified 4/4 pages; exact repository PDFs preserved"
+    date: "1912-01-19"
+    repository_file: "evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md"
+    notes: "Four steward-supplied pages were visually reviewed and exact archive PDF derivatives preserved under newspapers/oregon-city-courier/. Duplicate (1) re-uploads are byte-identical and were not duplicated. No new target-block claim; page-1 high-water and river-channel items remain non-target context. Page-8 Percy Cross / Harding Drug Store lead is still OCR/TEXT ONLY."
+EOF
+
+      - name: Commit source metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'main-street-archive-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add evidence/source-register.md database/sources.yml
+          git commit -m 'Register Jan 19 1912 Courier pages 1-4'
+
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git fetch origin main
+            git rebase origin/main
+            if [ "$(grep -c '^## S-307 ' evidence/source-register.md)" -ne 1 ] || [ "$(grep -c '^  - id: S-307$' database/sources.yml)" -ne 1 ]; then
+              echo 'S-307 collision detected after rebase; refusing push.' >&2
+              exit 1
+            fi
+          done
+          exit 1
