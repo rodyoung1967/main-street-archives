@@ -1,0 +1,93 @@
+name: Probe LOC Oregon city-directory holdings data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-loc-oregon-city-directory-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch LOC directory holdings data package
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/locdir
+          python3 - <<'PY'
+          import csv, io, json, re, urllib.parse, urllib.request
+          from pathlib import Path
+          out=Path('/tmp/locdir')
+          ua={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+          def get(url,timeout=45):
+              req=urllib.request.Request(url,headers=ua)
+              try:
+                  with urllib.request.urlopen(req,timeout=timeout) as r:
+                      return {'url':url,'status':getattr(r,'status',200),'ctype':r.headers.get('Content-Type',''),'data':r.read()}
+              except Exception as e:return {'url':url,'error':repr(e),'data':b''}
+          seeds=[
+            'https://data.labs.loc.gov/directories/',
+            'https://data.labs.loc.gov/directories/index.json',
+            'https://data.labs.loc.gov/directories/manifest.json',
+          ]
+          R={'seed':[],'candidate_urls':[],'matches':[]}
+          found=set()
+          for i,url in enumerate(seeds):
+              rr=get(url); body=rr['data'].decode('utf-8','replace'); (out/f'seed-{i}.txt').write_text(body)
+              R['seed'].append({'url':url,'status':rr.get('status'),'ctype':rr.get('ctype'),'error':rr.get('error'),'prefix':body[:4000]})
+              for h in re.findall(r'https?://[^\s"\'<>]+|href=["\']([^"\']+)["\']',body,re.I):
+                  if isinstance(h,tuple): h=h[0]
+                  if not h: continue
+                  if isinstance(h,str) and h.startswith('href='):continue
+              # simpler href/src/file-like extraction
+              for h in re.findall(r'["\']([^"\']*(?:oregon|OR)[^"\']*\.(?:csv|json|zip|txt))["\']',body,re.I):
+                  found.add(urllib.parse.urljoin(url,h))
+              for h in re.findall(r'["\']([^"\']+\.(?:csv|json|zip|txt))["\']',body,re.I):
+                  if 'director' in h.lower() or 'holding' in h.lower() or 'oregon' in h.lower(): found.add(urllib.parse.urljoin(url,h))
+          # Known/likely state-file patterns; harmless 404 probes.
+          for u in [
+            'https://data.labs.loc.gov/directories/Oregon.csv',
+            'https://data.labs.loc.gov/directories/oregon.csv',
+            'https://data.labs.loc.gov/directories/or.csv',
+            'https://data.labs.loc.gov/directories/Oregon.json',
+            'https://data.labs.loc.gov/directories/oregon.json',
+            'https://data.labs.loc.gov/directories/data/oregon.csv',
+            'https://data.labs.loc.gov/directories/data/OR.csv',
+          ]: found.add(u)
+          for n,url in enumerate(sorted(found)):
+              rr=get(url); R['candidate_urls'].append({'url':url,'status':rr.get('status'),'ctype':rr.get('ctype'),'error':rr.get('error'),'bytes':len(rr['data'])})
+              if not rr['data']: continue
+              p=out/f'candidate-{n:03d}'
+              p.write_bytes(rr['data'])
+              text=rr['data'].decode('utf-8','replace')
+              # exact locality/year/context search in text-like files
+              low=text.lower()
+              for needle in ['oregon city','1953','salisbury','clackamas']:
+                  if needle in low:
+                      loc=[]; start=0
+                      while len(loc)<100:
+                          j=low.find(needle,start)
+                          if j<0:break
+                          loc.append(text[max(0,j-600):min(len(text),j+1200)])
+                          start=j+len(needle)
+                      R['matches'].append({'url':url,'needle':needle,'contexts':loc})
+          (out/'report.json').write_text(json.dumps(R,indent=2,ensure_ascii=False))
+          lines=[]
+          for x in R['seed']:lines.append('SEED '+json.dumps(x,ensure_ascii=False))
+          for x in R['candidate_urls']:lines.append('CAND '+json.dumps(x,ensure_ascii=False))
+          for x in R['matches']:
+              lines.append(f"MATCH {x['url']} {x['needle']} count={len(x['contexts'])}")
+              for c in x['contexts'][:30]:lines.append('  '+c.replace('\n',' ')[:1800])
+          (out/'summary.txt').write_text('\n'.join(lines))
+          PY
+          sed -n '1,1600p' /tmp/locdir/summary.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-loc-oregon-city-directory-data
+          path: /tmp/locdir/
+          retention-days: 1

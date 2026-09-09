@@ -1,0 +1,53 @@
+name: Probe live LOC Oregon City inventory
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-loc-current-oregon-city-inventory.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Oregon city-directory inventory page
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/locoregoninventory
+          python3 - <<'PY'
+          import html,re,urllib.request
+          from pathlib import Path
+          url='https://guides.loc.gov/united-states-city-telephone-directories/city-directories/oklahoma-south-carolina'
+          req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'})
+          try:
+              with urllib.request.urlopen(req,timeout=40) as r:
+                  body=r.read().decode('utf-8','replace'); status=r.status
+          except Exception as e:
+              Path('/tmp/locoregoninventory/summary.txt').write_text(f'ERROR {e!r}\n'); raise
+          Path('/tmp/locoregoninventory/page.html').write_text(body)
+          text=re.sub(r'(?is)<script.*?</script>|<style.*?</style>',' ',body)
+          text=re.sub(r'(?s)<[^>]+>',' ',text); text=re.sub(r'\s+',' ',html.unescape(text))
+          lines=[f'URL {url} STATUS {status} LEN {len(body)}']
+          low=text.lower(); start=0; n=0
+          while True:
+              p=low.find('oregon city',start)
+              if p<0: break
+              lines.append('CONTEXT '+text[max(0,p-1800):p+4200])
+              start=p+11; n+=1
+              if n>=20: break
+          # include broad Oregon section around first Oregon marker
+          for needle in ['Oregon', 'Oregon City']:
+              p=text.find(needle)
+              if p>=0: lines.append('SECTION '+text[max(0,p-3000):p+12000])
+          Path('/tmp/locoregoninventory/summary.txt').write_text('\n'.join(lines))
+          print('\n'.join(lines))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-loc-current-oregon-city-inventory
+          path: /tmp/locoregoninventory/
+          retention-days: 1

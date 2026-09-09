@@ -1,0 +1,58 @@
+name: Probe current LOC Oregon City directory guide
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-loc-current-guide-oregon-city.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch current LOC city-directory guide
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/locguide
+          python3 - <<'PY'
+          import html,re,urllib.request
+          from pathlib import Path
+          urls=[
+            'https://guides.loc.gov/united-states-city-telephone-directories/city-directories',
+            'https://guides.loc.gov/united-states-city-telephone-directories/oregon',
+          ]
+          ua={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+          lines=[]
+          for i,url in enumerate(urls):
+              try:
+                  req=urllib.request.Request(url,headers=ua)
+                  with urllib.request.urlopen(req,timeout=40) as r: body=r.read().decode('utf-8','replace'); status=r.status
+              except Exception as e:
+                  lines.append(f'URL {url} ERROR {e!r}'); continue
+              Path(f'/tmp/locguide/page-{i}.html').write_text(body)
+              text=re.sub(r'(?is)<script.*?</script>|<style.*?</style>',' ',body)
+              text=re.sub(r'(?s)<[^>]+>',' ',text); text=re.sub(r'\s+',' ',html.unescape(text))
+              lines.append(f'URL {url} STATUS {status} LEN {len(body)}')
+              low=text.lower(); start=0; n=0
+              while True:
+                  p=low.find('oregon city',start)
+                  if p<0: break
+                  lines.append('CONTEXT '+text[max(0,p-1200):p+2500])
+                  start=p+11; n+=1
+                  if n>=20: break
+              # capture links containing Oregon or city directory hints
+              for href,label in re.findall(r'(?is)<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',body):
+                  lbl=re.sub(r'(?s)<[^>]+>',' ',label); lbl=re.sub(r'\s+',' ',html.unescape(lbl)).strip()
+                  if re.search(r'(?i)oregon|directory|city',lbl+' '+href): lines.append('LINK '+lbl+' => '+href)
+          Path('/tmp/locguide/summary.txt').write_text('\n'.join(lines))
+          print('\n'.join(lines[:500]))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-loc-current-guide-oregon-city
+          path: /tmp/locguide/
+          retention-days: 1

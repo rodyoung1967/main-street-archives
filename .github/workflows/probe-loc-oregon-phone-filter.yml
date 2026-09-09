@@ -1,0 +1,59 @@
+name: Probe LOC Oregon telephone filter
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-loc-oregon-phone-filter.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Query Oregon-filtered LOC telephone collection
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/locoregonphone
+          python3 - <<'PY'
+          import json, urllib.parse, urllib.request
+          from pathlib import Path
+          out=Path('/tmp/locoregonphone')
+          ua={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+          def get(url):
+              try:
+                  req=urllib.request.Request(url,headers=ua)
+                  with urllib.request.urlopen(req,timeout=40) as r:return {'status':r.status,'data':r.read()}
+              except Exception as e:return {'error':repr(e),'data':b''}
+          base='https://www.loc.gov/collections/united-states-telephone-directory-collection/'
+          probes=[
+            {'fa':'location:oregon','fo':'json','c':200},
+            {'q':'Oregon','fa':'partof:united states telephone directory collection','fo':'json','c':200},
+            {'q':'Oregon City','fa':'location:oregon','fo':'json','c':200},
+            {'q':'Oregon City','fo':'json','c':200},
+          ]
+          R=[]
+          for p in probes:
+              url=base+'?'+urllib.parse.urlencode(p)
+              rr=get(url); x={'params':p,'url':url,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['pagination']=j.get('pagination'); x['results']=[{k:z.get(k) for k in ('id','title','date','location','url','description','resources')} for z in j.get('results',[])]
+                  except Exception as e:x['parse_error']=repr(e); x['prefix']=rr['data'][:1000].decode('utf-8','replace')
+              R.append(x)
+          (out/'report.json').write_text(json.dumps(R,indent=2,ensure_ascii=False))
+          lines=[]
+          for x in R:
+              lines.append('QUERY '+json.dumps(x['params'])+f" status={x.get('status')} error={x.get('error')} n={len(x.get('results',[]))}")
+              for z in x.get('results',[]): lines.append('  '+json.dumps(z,ensure_ascii=False))
+          (out/'summary.txt').write_text('\n'.join(lines))
+          print('\n'.join(lines))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-loc-oregon-phone-filter
+          path: /tmp/locoregonphone/
+          retention-days: 1

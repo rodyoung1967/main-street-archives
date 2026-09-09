@@ -1,0 +1,142 @@
+name: Probe 505 catalog and custody routes
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-505-catalog-custody.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe public library and archival catalogs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/probe505catalog
+          python3 - <<'PY'
+          import html, json, re, time, urllib.parse, urllib.request
+          from pathlib import Path
+          out=Path('/tmp/probe505catalog')
+          ua={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+          def get(url, timeout=35):
+              req=urllib.request.Request(url,headers=ua)
+              try:
+                  with urllib.request.urlopen(req,timeout=timeout) as r:
+                      return {'url':url,'status':getattr(r,'status',200),'ctype':r.headers.get('Content-Type',''),'data':r.read()}
+              except Exception as e:
+                  return {'url':url,'error':repr(e),'data':b''}
+          def strip(s):
+              s=re.sub(r'(?is)<script.*?</script>|<style.*?</style>',' ',s)
+              s=re.sub(r'(?s)<[^>]+>',' ',s)
+              return re.sub(r'\s+',' ',html.unescape(s)).strip()
+          R={'ia':[],'loc':[],'openlibrary':[],'catalog_pages':[],'osa':{}}
+
+          # Broader IA metadata searches to catch weak/misdated records.
+          iaq=[
+            'collection:citydirectories AND "Oregon City"',
+            'collection:citydirectories AND Clackamas AND Oregon',
+            'creator:(Salisbury) AND mediatype:texts',
+            'publisher:(Salisbury) AND mediatype:texts',
+            'title:(directory) AND "Oregon City" AND year:[1952 TO 1954]',
+            'description:("Oregon City") AND directory AND year:[1952 TO 1954]',
+            '"Oregon City" AND directory AND year:[1952 TO 1954] AND mediatype:texts',
+            '"Oregon City" AND telephone AND year:[1953 TO 1956] AND mediatype:texts',
+            '"Oregon City" AND "Pacific Telephone" AND year:[1953 TO 1956]',
+            '"Enterprise Courier" AND "Oregon City" AND year:[1953 TO 1956]',
+          ]
+          for q in iaq:
+              p=urllib.parse.urlencode({'q':q,'fl[]':['identifier','title','creator','publisher','date','year','description','collection'],'rows':100,'output':'json'},doseq=True)
+              rr=get('https://archive.org/advancedsearch.php?'+p); x={'q':q,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['numFound']=j.get('response',{}).get('numFound'); x['docs']=j.get('response',{}).get('docs',[])
+                  except Exception as e:x['parse_error']=repr(e)
+              R['ia'].append(x); time.sleep(.4)
+
+          queries=[
+            '"Oregon City & Vicinity Directory" 1953',
+            '"Oregon City" directory Salisbury 1953 Oregon',
+            '"Oregon City" telephone directory 1955 Oregon',
+            '"Oregon City" telephone directory 1954 Oregon',
+            '"Oregon City" telephone directory 1956 Oregon',
+            'Clackamas County assumed business names register Oregon',
+          ]
+          for q in queries:
+              # Library of Congress JSON search
+              rr=get('https://www.loc.gov/books/?'+urllib.parse.urlencode({'q':q,'fo':'json','c':50}))
+              x={'q':q,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['results']=[{'id':z.get('id'),'title':z.get('title'),'date':z.get('date'),'description':z.get('description'),'url':z.get('url')} for z in j.get('results',[])[:50]]
+                  except Exception as e:x['parse_error']=repr(e)
+              R['loc'].append(x); time.sleep(.4)
+
+              # Open Library
+              rr=get('https://openlibrary.org/search.json?'+urllib.parse.urlencode({'q':q,'limit':50}))
+              x={'q':q,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['numFound']=j.get('numFound'); x['docs']=[{k:z.get(k) for k in ('key','title','author_name','first_publish_year','publisher','edition_key')} for z in j.get('docs',[])[:50]]
+                  except Exception as e:x['parse_error']=repr(e)
+              R['openlibrary'].append(x); time.sleep(.4)
+
+          # Public catalog HTML; capture visible text, no authentication bypass.
+          pages=[
+            ('Hathi exact Salisbury','https://catalog.hathitrust.org/Search/Home?'+urllib.parse.urlencode({'lookfor':'"Oregon City & Vicinity Directory"','type':'all'})),
+            ('Hathi Oregon City dir','https://catalog.hathitrust.org/Search/Home?'+urllib.parse.urlencode({'lookfor':'Oregon City directory Oregon','type':'all'})),
+            ('WorldCat Salisbury','https://search.worldcat.org/search?'+urllib.parse.urlencode({'q':'"Oregon City & Vicinity Directory" 1953'})),
+            ('WorldCat phone 1955','https://search.worldcat.org/search?'+urllib.parse.urlencode({'q':'"Oregon City" telephone directory 1955 Oregon'})),
+            ('Google Books HTML','https://books.google.com/books?'+urllib.parse.urlencode({'q':'"Oregon City & Vicinity Directory" 1953 Salisbury'})),
+            ('FamilySearch catalog query','https://www.familysearch.org/search/catalog/results?'+urllib.parse.urlencode({'count':20,'query':'+keywords:"Oregon City" +keywords:directory'})),
+          ]
+          for i,(label,url) in enumerate(pages):
+              rr=get(url); body=rr['data'].decode('utf-8','replace'); (out/f'catalog-{i:02d}.html').write_text(body)
+              R['catalog_pages'].append({'label':label,'url':url,'status':rr.get('status'),'error':rr.get('error'),'text':strip(body)[:30000]})
+              time.sleep(.7)
+
+          # Oregon State Archives Clackamas County inventory: preserve exact visible context/links around assumed business names.
+          osa_urls=[
+            'https://sos.oregon.gov/archives/records/county/Pages/clackamas-inventory.aspx',
+            'https://sos.oregon.gov/archives/records/county/Pages/clackamas.aspx',
+          ]
+          for idx,url in enumerate(osa_urls):
+              rr=get(url); body=rr['data'].decode('utf-8','replace'); (out/f'osa-{idx:02d}.html').write_text(body)
+              contexts=[]
+              for m in re.finditer(r'(?i)assumed.{0,80}business.{0,80}name|business.{0,80}name.{0,80}register',body):
+                  contexts.append(strip(body[max(0,m.start()-2500):min(len(body),m.end()+5000)]))
+              links=[]
+              for href,label in re.findall(r'(?is)<a[^>]+href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',body):
+                  txt=strip(label)
+                  if re.search(r'(?i)assumed|business name|microfilm|record',txt+' '+href): links.append({'text':txt,'href':html.unescape(href)})
+              R['osa'][url]={'status':rr.get('status'),'error':rr.get('error'),'contexts':contexts[:20],'links':links[:100]}
+
+          (out/'report.json').write_text(json.dumps(R,indent=2,ensure_ascii=False))
+          lines=[]
+          for x in R['ia']:
+              lines.append(f"IA {x['q']} :: {x.get('numFound')} err={x.get('error')}")
+              for z in x.get('docs',[])[:30]:lines.append('  '+json.dumps(z,ensure_ascii=False))
+          for grp in ('loc','openlibrary'):
+              for x in R[grp]:
+                  lines.append(f"{grp.upper()} {x['q']} :: count={len(x.get('results',x.get('docs',[])))} num={x.get('numFound')} err={x.get('error')}")
+                  for z in x.get('results',x.get('docs',[]))[:20]:lines.append('  '+json.dumps(z,ensure_ascii=False))
+          for x in R['catalog_pages']:
+              lines.append(f"CATALOG {x['label']} status={x.get('status')} err={x.get('error')}")
+              lines.append('  '+x.get('text','')[:5000])
+          for url,x in R['osa'].items():
+              lines.append(f"OSA {url} status={x.get('status')} err={x.get('error')}")
+              for c in x.get('contexts',[]):lines.append('  CONTEXT '+c[:6000])
+              for z in x.get('links',[]):lines.append('  LINK '+json.dumps(z,ensure_ascii=False))
+          (out/'summary.txt').write_text('\n'.join(lines))
+          PY
+          sed -n '1,1400p' /tmp/probe505catalog/summary.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-505-catalog-custody
+          path: /tmp/probe505catalog/
+          retention-days: 1
