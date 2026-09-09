@@ -1,0 +1,75 @@
+name: Temporary ingest Jan 19 1912 Courier PDFs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/ingest-1912-01-19-courier.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out newest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Synchronize and download verified page PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          git checkout -B main origin/main
+          mkdir -p newspapers/oregon-city-courier
+
+          curl -L --fail --retry 4 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-1.pdf' \
+            -o newspapers/oregon-city-courier/1912-01-19-page-1.pdf
+          curl -L --fail --retry 4 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-2.pdf' \
+            -o newspapers/oregon-city-courier/1912-01-19-page-2.pdf
+          curl -L --fail --retry 4 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-3.pdf' \
+            -o newspapers/oregon-city-courier/1912-01-19-page-3.pdf
+          curl -L --fail --retry 4 --retry-delay 2 \
+            'https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-4.pdf' \
+            -o newspapers/oregon-city-courier/1912-01-19-page-4.pdf
+
+          echo '47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679  newspapers/oregon-city-courier/1912-01-19-page-1.pdf' | sha256sum -c -
+          echo '01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99  newspapers/oregon-city-courier/1912-01-19-page-2.pdf' | sha256sum -c -
+          echo 'c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611  newspapers/oregon-city-courier/1912-01-19-page-3.pdf' | sha256sum -c -
+          echo '36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e  newspapers/oregon-city-courier/1912-01-19-page-4.pdf' | sha256sum -c -
+
+      - name: Commit exact verified binaries
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'main-street-archive-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add newspapers/oregon-city-courier/1912-01-19-page-1.pdf \
+                  newspapers/oregon-city-courier/1912-01-19-page-2.pdf \
+                  newspapers/oregon-city-courier/1912-01-19-page-3.pdf \
+                  newspapers/oregon-city-courier/1912-01-19-page-4.pdf
+
+          if git diff --cached --quiet; then
+            echo 'Verified binaries already present; no commit required.'
+            exit 0
+          fi
+
+          git commit -m 'Archive Jan 19 1912 Courier pages 1-4'
+
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} lost a race; rebasing onto newest main."
+            git fetch origin main
+            git rebase origin/main
+          done
+          exit 1
