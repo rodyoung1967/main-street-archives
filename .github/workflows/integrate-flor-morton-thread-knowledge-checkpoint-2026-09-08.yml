@@ -1,0 +1,47 @@
+name: Integrate Flor Morton thread knowledge checkpoint
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/integrate-flor-morton-thread-knowledge-checkpoint-2026-09-08.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before edit
+        run: python3 scripts/validate_archive.py
+      - name: Integrate thread knowledge checkpoint
+        run: python3 scripts/integrate_flor_morton_thread_knowledge_checkpoint.py
+      - name: Validate archive after edit
+        run: python3 scripts/validate_archive.py
+      - name: Commit and push synchronized research
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add \
+            evidence/source-captures/2026-09-08-flor-morton-thread-knowledge-checkpoint.md \
+            registers/research-log.md
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Preserve Flor Morton thread knowledge checkpoint'
+          for attempt in 1 2 3 4 5 6; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
