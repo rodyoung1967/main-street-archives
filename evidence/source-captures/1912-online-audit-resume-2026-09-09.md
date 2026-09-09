@@ -63,6 +63,15 @@ Fresh archive searches independently re-confirmed several issue-size controls al
 
 The previously established 29 Mar ten-image and 5 Apr twelve-image controls remain unchanged. Because issue sizes vary, image 8 by itself is not sufficient to infer that an issue contains exactly eight images.
 
+### 14 June 1912 — newly resolved complete count
+
+A fresh normal archive page result for **14 June 1912, image/page 7** explicitly displays **`of 8`** in the page navigation. The 14 June *Courier* issue is therefore an authoritative **eight-image/page issue**. The earlier restart ledger had left this date unresolved.
+
+Canonical page:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-06-14/ed-1/seq-7/
+
+This changes inventory coverage only; the page does not create a new target-address/building claim.
+
 ## Remaining narrow Courier inventory/retrieval problems after this pass
 
 ### 23 February 1912
@@ -96,6 +105,24 @@ Image/page 7 is positively exposed and visibly associated in archive text with *
 Canonical page:
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-08-02/ed-1/seq-7/
 
+## Morning Enterprise visual-recovery continuation
+
+Current-main audit work already gives complete visual credit to **6 July (4/4)** and **7 July (4/4)** and gives **9 July 3/4**, with page/image 2 the sole visual gap in the 9 July issue.
+
+On 9 September the exact 9 July page 2 HTML page and its one-page native PDF object were recovered again. The archive page itself confirms **`of 4`** for the issue. The PDF object is real and contains the page text, but repeated PDF screenshot/render attempts failed in the current research interface. The page therefore remains:
+
+**OCR/TEXT ONLY + PAGE-SPECIFIC VISUAL RETRIEVAL GAP.**
+
+No visual-review credit is awarded merely because the PDF text layer opens.
+
+Canonical page:
+- https://oregonnews.uoregon.edu/lccn/sn00063701/1912-07-09/ed-1/seq-2/
+
+Native PDF:
+- https://oregonnews.uoregon.edu/lccn/sn00063701/1912-07-09/ed-1/seq-2.pdf
+
+The extracted page repeats already known relative controls such as E. B. Anderson on Main near Sixth and M. E. Dunn next door to the Post Office. It does not create a safe new exact target-address claim.
+
 ## Cross-record propagation decision
 
 This batch establishes **audit coverage and retrieval state only**. It does not establish a new claim-level historical fact. Therefore no new `E-###`, `S-###`, person, business, building, YAML/database, timeline, or address mapping is created from this checkpoint. Existing claim-level current-main records remain controlling.
@@ -105,7 +132,7 @@ This batch establishes **audit coverage and retrieval state only**. It does not 
 1. Continue reasonable online recovery for authoritative full issue counts for 23 Feb, 3 May and 2 Aug Courier.
 2. Continue recovery attempts for the genuine 17 May Courier image 2.
 3. Retry the faithful scan for 19 Jan Courier p8 before converting the item into any later manual callout.
-4. Continue the actual-surviving-date/page-count ledger and page-by-page faithful-scan review for the *Morning Enterprise*.
+4. Continue the actual-surviving-date/page-count ledger and page-by-page faithful-scan review for the *Morning Enterprise*, beginning after the already credited July 6–9 batch.
 5. Continue the weekly *Oregon City Enterprise* ledger and scan review.
 6. Keep construction/demolition/fire/address screening active during every visual page review.
 7. Audit the other online source classes required by `RESEARCH-STANDARD.md` before closeout.
