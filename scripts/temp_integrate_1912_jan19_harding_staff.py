@@ -33,6 +33,7 @@ E = "E-273"
 P1 = "P-399"
 P2 = "P-400"
 CAP = "evidence/source-captures/1912-01-19-courier-harding-drugstore-staff-visual-review.md"
+E_NAME = "Harding Drug Store staff item: Percy Cross and A. B. Wilmot, 1912"
 
 append_once(
     "evidence/source-register.md",
@@ -63,7 +64,7 @@ append_once(
 append_once(
     "evidence/evidence-register.md",
     "## E-273 — Harding Drug Store staff item: Percy Cross and A. B. Wilmot, 1912",
-    f'''## E-273 — Harding Drug Store staff item: Percy Cross and A. B. Wilmot, 1912
+    f'''## E-273 — {E_NAME}
 Type: Primary newspaper scan / business-staff evidence; **VISUALLY VERIFIED**.  
 Date: **19 January 1912**.  
 Source: `{S}`.  
@@ -78,7 +79,7 @@ append_once(
     "database/evidence.yml",
     "  - id: E-273\n",
     f'''  - id: E-273
-    name: Harding Drug Store staff item — Percy Cross and A. B. Wilmot, 19 January 1912
+    name: "{E_NAME}"
     type: Primary newspaper scan / business-staff evidence; visually verified
     claims:
       - The 19 January 1912 Oregon City Courier p.8 scan directly reports Percy Cross accepting a position in Harding Drug Store during the absence of A. B. Wilmot.
@@ -185,4 +186,4 @@ append_once(
 )
 
 print("Integrated S-299 / E-273 / P-399 / P-400 and corrected stale 1912 501 status")
-# workflow-trigger touch
+# workflow-trigger touch 2
