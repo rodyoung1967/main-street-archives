@@ -1,0 +1,110 @@
+name: Probe LOC Oregon City telephone directories
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-loc-oregon-city-phone.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Query Library of Congress telephone-directory collection
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/locphone
+          python3 - <<'PY'
+          import json, re, time, urllib.parse, urllib.request
+          from pathlib import Path
+          out=Path('/tmp/locphone')
+          ua={'User-Agent':'Mozilla/5.0 MainStreetArchiveResearch/1.0'}
+          def get(url, timeout=40):
+              req=urllib.request.Request(url,headers=ua)
+              try:
+                  with urllib.request.urlopen(req,timeout=timeout) as r:
+                      return {'url':url,'status':getattr(r,'status',200),'ctype':r.headers.get('Content-Type',''),'data':r.read()}
+              except Exception as e:return {'url':url,'error':repr(e),'data':b''}
+
+          base='https://www.loc.gov/collections/united-states-telephone-directory-collection/'
+          variants=[
+            {'q':'Oregon City','fo':'json','c':100},
+            {'q':'Oregon City Oregon','fo':'json','c':100},
+            {'q':'Oregon','fo':'json','c':100,'dates':'1953-1956'},
+            {'q':'Oregon City','fo':'json','c':100,'dates':'1950-1960'},
+          ]
+          allres=[]; searches=[]
+          for v in variants:
+              url=base+'?'+urllib.parse.urlencode(v)
+              rr=get(url); x={'params':v,'url':url,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['pagination']=j.get('pagination'); x['results']=[]
+                      for z in j.get('results',[]):
+                          item={k:z.get(k) for k in ('id','title','date','location','partof','url','description','resources')}
+                          x['results'].append(item); allres.append(item)
+                  except Exception as e:x['parse_error']=repr(e); x['prefix']=rr['data'][:1000].decode('utf-8','replace')
+              searches.append(x); time.sleep(.6)
+
+          # Generic LOC search with tight title/location wording as a cross-check.
+          qs=['"Oregon City" telephone directory','"Oregon City" white pages','"Oregon City" yellow pages','"Oregon - White Pages" Oregon City']
+          generic=[]
+          for q in qs:
+              url='https://www.loc.gov/search/?'+urllib.parse.urlencode({'q':q,'fo':'json','c':100})
+              rr=get(url); x={'q':q,'url':url,'status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); x['results']=[{k:z.get(k) for k in ('id','title','date','location','partof','url','description','resources')} for z in j.get('results',[])[:100]]; allres+=x['results']
+                  except Exception as e:x['parse_error']=repr(e)
+              generic.append(x); time.sleep(.6)
+
+          # Deduplicate plausible Oregon telephone-directory items and fetch item JSON.
+          candidates={}
+          for z in allres:
+              title=(z.get('title') or '')
+              blob=json.dumps(z,ensure_ascii=False)
+              if re.search(r'(?i)oregon',blob) and re.search(r'(?i)telephone|white pages|yellow pages|directory',blob):
+                  ident=z.get('id') or z.get('url')
+                  if ident:candidates[str(ident)]=z
+          items=[]
+          for n,(ident,z) in enumerate(candidates.items()):
+              if n>=200:break
+              url=ident
+              if url.startswith('http://'):url='https://'+url[7:]
+              if not url.endswith('/'):url+='/'
+              sep='&' if '?' in url else '?'
+              rr=get(url+sep+'fo=json')
+              item={'seed':z,'json_url':url+sep+'fo=json','status':rr.get('status'),'error':rr.get('error')}
+              if rr['data']:
+                  try:
+                      j=json.loads(rr['data']); item['item']={k:j.get(k) for k in ('id','title','date','location','partof','description','resources','other_formats')}
+                  except Exception as e:item['parse_error']=repr(e)
+              items.append(item); time.sleep(.25)
+
+          R={'collection_searches':searches,'generic_searches':generic,'candidate_items':items}
+          (out/'report.json').write_text(json.dumps(R,indent=2,ensure_ascii=False))
+          lines=[]
+          for x in searches:
+              lines.append('COLLECTION '+json.dumps(x['params'])+f" status={x.get('status')} error={x.get('error')} count={len(x.get('results',[]))}")
+              for z in x.get('results',[]):
+                  if re.search(r'(?i)oregon|city',json.dumps(z)):lines.append('  '+json.dumps(z,ensure_ascii=False))
+          for x in generic:
+              lines.append(f"GENERIC {x['q']} status={x.get('status')} error={x.get('error')} count={len(x.get('results',[]))}")
+              for z in x.get('results',[]):
+                  if re.search(r'(?i)oregon',json.dumps(z)):lines.append('  '+json.dumps(z,ensure_ascii=False))
+          lines.append('CANDIDATE ITEM DETAILS')
+          for x in items:
+              lines.append(json.dumps(x,ensure_ascii=False)[:30000])
+          (out/'summary.txt').write_text('\n'.join(lines))
+          PY
+          sed -n '1,1800p' /tmp/locphone/summary.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: probe-loc-oregon-city-phone
+          path: /tmp/locphone/
+          retention-days: 1
