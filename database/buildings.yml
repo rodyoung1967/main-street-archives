@@ -538,8 +538,8 @@ buildings:
     notes: Clackamas County Historical Society object 2008.008.004.169 is cataloged as 516 Main in December 1919 during 22 inches of snow; the photograph visibly shows B. J. Staats Hardw... on the fascia and closing-out/big-sale signs. Catalog and image claims are kept distinct. No completed closure, transfer, title, exact exposure day, construction date, or surviving-building identity is inferred.
     related_businesses: [BUS-079]
     related_people: [P-095]
-    related_evidence: [E-132]
-    related_sources: [S-147]
+    related_evidence: [E-132, E-278]
+    related_sources: [S-147, S-304]
   - id: B-016
     name: 427 Main Street (historic storefront address)
     address: 427 Main Street, Oregon City, Oregon

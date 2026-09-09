@@ -466,3 +466,17 @@ Source capture: `evidence/source-captures/1967-wheel-record-survival-directory-p
 | **MF-057** | **ACTIVE MANUAL — TWO REQUESTS READY / NOT SENT / NO FEES AUTHORIZED** | **Yes** | Targeted public-online searching did not expose a defensible **late-1955/1956 505 Main liquor-license purchaser/successor action**. Oregon City's known archive migration prevents reliable decade-level browsing, while the Oregon City Public Library holds a **Council/Commission Proceedings Index through 1978** that can locate exact meeting/page entries. Separately, the official Clackamas County inventory says the **Assumed Business Names Registers** series spans **1928–1964** and can name a business owner/filing date, but its public holdings presentation jumps from **1928–35 certificates to 1959–64 volumes**, leaving **1936–1958** as a custody/access gap. Use the two ready requests to (A) locate any 505 liquor action from **1 Nov. 1955–31 Dec. 1956** and (B) locate the missing assumed-name interval and any **Well's Recreation / variants / Harr's Recreation Center / 505 Main** filing. These source classes prove different relationships. No result has yet identified the Well's proprietor, 1955 seller, or buyer. Ready package: `registers/research-requests/505-1953-1956-operator-transition-record-requests-2026-09-07.md`. No request has been sent and no fee is authorized. |
 
 Source/retrieval closeout: `evidence/source-captures/1953-1956-505-operator-transition-offline-record-routes-2026-09-07.md`.
+
+## 1919 ONLINE COMPLETE manual-callout reconciliation
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+For the 1919 annual closeout, `MF-040` / `1919-D01` is treated as a **RESTRICTED/AUTHENTICATED MANUAL CALLOUT**: public catalog/ARK and alternate public-copy routes were exhausted, while the actual 1919–1920 Polk target images require authenticated FamilySearch access. This does not authorize institutional outreach or paid research.
+
+### MF-061 — 1919–1921 Oregon City target-frontage permit / improvement files
+
+Status: **ACTIVE MANUAL / RECORDS-ACCESS CALLOUT**.  
+Source sought: any surviving **1919–1921 building permit, alteration/improvement, sign, sidewalk/street-front, inspection or related property files** for **501, 503, 505, 505½ Main** and the Fifth/Main target frontage.  
+Likely route: Oregon City historic records/records management and any transferred archival holdings; use direct records inspection or a future steward-authorized request.  
+Why manual: ordinary public/indexed online routes have not exposed the underlying files; catalog/index silence is not evidence that the files never existed.  
+Question: determine whether a contemporary record directly dates demolition, construction, reconstruction, remodeling or sign work affecting the surviving 503/505 frontage.  
+No request has been sent and no paid research has been authorized.

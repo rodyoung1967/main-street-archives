@@ -133,3 +133,10 @@ The complete online-exposed September Enterprise pass (`S-297` / `E-271`) visual
 <!-- 1919 October Enterprise visual review — 2026-09-08 -->
 
 The complete online-exposed October Enterprise pass (`S-299` / `E-273`) visually reviewed **40/40 pages** and found no source-explicit 501/503/505/505½ occupant or target construction, demolition, rebuilding, remodeling, fire, sale, lease or ownership event. The seemingly relevant **3 October building south of the post office** item was visually resolved as an **Estacada** feed-store notice. October Banner-Courier remains unavailable online under `MF-030`; this is bounded Enterprise coverage only, not evidence that no target work occurred.
+
+## November–December 1919 completion and annual certification
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+November (`S-304` / `E-278`) and December (`S-305` / `E-279`) Enterprise are now **32/32 + 32/32 visually verified**. Neither month supplies source-explicit 501/503/505/505½ construction or occupancy proof. November adds the B. J. Staats **520–22 Main** selling-out ad, which conflicts with the December CCHS photograph cataloged at **516 Main**; December adds Portland House at **Fifth and Main**, owned by Mr. and Mrs. Beck and described as frame construction, but with no numbered target assignment.
+
+The formal annual source-class audit is `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md` (`S-306` / `E-280`): **1919 is ONLINE COMPLETE**. This changes research-work status only. The surviving 503 c.1919 estimate remains secondary/approximate, the surviving 505 remains bracketed to 1911–1925 with c.1920 tentative, and the exact physical-change date remains unresolved pending manual/restricted records.

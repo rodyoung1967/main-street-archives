@@ -671,3 +671,12 @@ Enterprise advertisements on pp.3–6 directly print **524–526 Main Street** (
 ## 1917 online research certification
 
 The formal all-source audit (`S-303` / `E-277`) certifies **ONLINE COMPLETE**: 104 issues, 852 slots, 849 genuine intended-date newspaper pages visually reviewed, plus all required online source classes. Exact 503/505 occupants remain unresolved and seven manual callouts remain. Source silence is not vacancy evidence.
+
+## November–December 1919 — Staats address conflict; Portland House fire; online year closeout
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+The complete November Enterprise pass (`S-304` / `E-278`) visually reviewed **32/32 pages**. On **28 November p8**, B. J. Staats Hardware Co. directly advertises **520–22 Main Street** while selling out its hardware/implement stock. That contemporary address conflicts with the separately visually verified December CCHS photograph cataloged at **516 Main**, where Staats and sale signage are visible. Both sources stand; no address is normalized by assumption.
+
+The complete December Enterprise pass (`S-305` / `E-279`) visually reviewed **32/32 pages**. On **19 December p5**, a small-fire report places the **Portland House at Fifth and Main**, names **Mr. and Mrs. Beck** as owners and describes the Portland House and adjoining buildings as frame construction. The report prints no number or parcel and is not assigned to 501/503/505.
+
+The annual closeout (`S-306` / `E-280`) certifies **1919 ONLINE COMPLETE**: **638/638 online-retrievable local-newspaper pages** were visually reviewed across 52 Enterprise and 26 Courier issues; 24 Banner-Courier issue dates remain `MF-030` manual microfilm work. Other ordinary public/indexed online source classes are closed, with restricted/manual records explicitly retained. The exact surviving 503/505 construction dates remain unresolved.

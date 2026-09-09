@@ -2028,3 +2028,20 @@ sources:
     repository_file: evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md
     related_evidence: [E-277]
     notes: 104 issues, 852 archive slots and 849 genuine intended-date pages visually reviewed; all other required online source classes reviewed; seven manual callouts remain.
+
+# 1919 November-December annual online closeout — 2026-09-08
+  - id: S-304
+    name: "November 1919 Oregon City Enterprise complete online visual-review batch"
+    url: https://oregonnews.uoregon.edu/
+    notes: >-
+      32/32 November Enterprise pages visually verified. 28 Nov p8 directly prints B. J. Staats Hardware Co. at 520-22 Main Street with selling-out wording; conflicts with CCHS December catalog metadata at 516 Main. Banner-Courier remains MF-030.
+  - id: S-305
+    name: "December 1919 Oregon City Enterprise complete online visual-review batch"
+    url: https://oregonnews.uoregon.edu/
+    notes: >-
+      32/32 December Enterprise pages visually verified. 19 Dec p5 directly places Portland House at Fifth and Main, names Mr. and Mrs. Beck as owners, and describes frame construction; no numbered target assignment. Banner-Courier remains MF-030.
+  - id: S-306
+    name: "1919 all-online-source-class closeout synthesis"
+    url: https://github.com/rodyoung1967/main-street-archives
+    notes: >-
+      ONLINE COMPLETE certification: 102 local issue dates accounted for; 638/638 online-retrievable pages visually reviewed; 24 Banner-Courier issues and other restricted/manual records remain explicit callouts.

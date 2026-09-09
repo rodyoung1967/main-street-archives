@@ -2572,3 +2572,24 @@ Record: `evidence/source-captures/1917-online-source-class-closeout-2026-09-08.m
 Raw captures: `evidence/source-captures/1917-online-source-class-data/`; media `IMG-0767`.
 Related evidence: `E-277`.
 Notes: certifies 104 issues / 852 slots / 849 genuine intended-date pages visually reviewed across both online titles and reviews directories, maps, municipal/property/historic-resource/photo sources. Seven remaining tasks are explicit manual callouts; no absence inference.
+
+## S-304 — November 1919 Oregon City Enterprise complete online visual-review batch
+<!-- 1919 November-December annual online closeout — 2026-09-08 --> source-register
+Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.  
+Coverage: Enterprise 7/14/21/28 Nov., 32 pages; Banner-Courier 6/13/20/27 Nov. manual `MF-030`.  
+Repository originals: `newspapers/oregon-city-enterprise/1919-november/`; capture `evidence/source-captures/1919-november-enterprise-visual-review-2026-09-08.md`.  
+Related evidence: `E-278`.  
+Notes: 28 Nov. p8 directly advertises B. J. Staats Hardware Co., “Selling Out Hardware and Implements,” **520–22 Main Street**. This conflicts with the separately cataloged December 1919 CCHS **516 Main** Staats photograph; neither address is normalized. No source-explicit 501/503/505/505½ construction/occupancy event was established in the 32 pages.
+
+## S-305 — December 1919 Oregon City Enterprise complete online visual-review batch
+Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.  
+Coverage: Enterprise 5/12/19/26 Dec., 32 pages; Banner-Courier 4/11/18/25 Dec. manual `MF-030`.  
+Repository originals: `newspapers/oregon-city-enterprise/1919-december/`; capture `evidence/source-captures/1919-december-enterprise-visual-review-2026-09-08.md`.  
+Related evidence: `E-279`.  
+Notes: 19 Dec. p5 directly reports the Portland House at Fifth and Main, identifies Mr. and Mrs. Beck as owners, and describes it/adjoining buildings as frame construction. No street number or target-building identity is printed; no 501/503/505 assignment is made.
+
+## S-306 — 1919 all-online-source-class closeout synthesis
+Type: Repository synthesis of visually verified primary scans, official/secondary online source-class work and explicit restricted/manual gaps; **ONLINE COMPLETE certification record**.  
+Capture: `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md`.  
+Related evidence: `E-280`.  
+Notes: 102 local-newspaper issue dates accounted for; 638/638 online-retrievable pages visually reviewed; 24 Banner-Courier issues remain `MF-030`. Other ordinary public/indexed online source classes are closed; restricted/manual records remain explicitly listed.

@@ -2817,3 +2817,41 @@ Type: Multi-source research coverage certification.
 Claims: The complete online pass covers **104 issues / 852 slots / 849 genuine intended-date newspaper pages**, plus online directories, maps, municipal/property records, historic-resource sources and photographs. Exact 503/505 occupants remain unresolved. Seven precisely scoped manual callouts remain (`MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, `MF-007`).
 Classification: **ONLINE COMPLETE** for research coverage; no vacancy, ownership, demolition, continuity, or occupant inference from source silence.
 Confidence: **Very High** for the documented coverage; unresolved for exact 503/505 occupants.
+
+## E-278 — November 1919 Enterprise review and B. J. Staats 520–22 Main liquidation address
+<!-- 1919 November-December annual online closeout — 2026-09-08 --> evidence-register
+Type: Primary newspaper visual evidence / monthly complete online batch.  
+Source: `S-304`.  
+Claims:
+- **32/32 November Enterprise pages** were visually inspected;
+- 28 Nov. p8 directly prints **B. J. Staats Hardware Co., 520–22 Main Street** and a selling-out / going-out-of-hardware-business message;
+- the address conflicts with CCHS December 1919 catalog metadata placing the visually matching Staats sale storefront at **516 Main** (`E-132`); neither source is corrected by assumption;
+- no source-explicit 501/503/505/505½ target construction/occupancy event was established in the reviewed pages;
+- four November Banner-Courier issues remain `MF-030` manual microfilm work.
+Classification: **DOCUMENTED / DIRECT** for scan-visible wording; **UNRESOLVED CONFLICT** for 516 vs. 520–22; **COVERAGE RESULT ONLY** for no target finding.  
+Confidence: **Very High** for page coverage and printed advertisement.
+
+## E-279 — December 1919 Enterprise review and Portland House Fifth/Main fire
+Type: Primary newspaper visual evidence / monthly complete online batch.  
+Source: `S-305`.  
+Claims:
+- **32/32 December Enterprise pages** were visually inspected;
+- 19 Dec. p5 directly places the **Portland House at Fifth and Main**, identifies **Mr. and Mrs. Beck** as owners, and describes the Portland House and adjoining buildings as frame construction;
+- the article supplies no number, parcel, side-of-street statement, legal description or present-building identity, so it is not assigned to 501/503/505;
+- no source-explicit 501/503/505/505½ target construction/occupancy event was established in the reviewed pages;
+- four December Banner-Courier issues remain `MF-030` manual microfilm work.
+Classification: **DOCUMENTED / DIRECT** for scan-visible Fifth/Main wording and construction material; **INTERSECTION CONTEXT ONLY** for the target frontage.  
+Confidence: **Very High** for page coverage and printed report.
+
+## E-280 — 1919 ONLINE COMPLETE certification
+Type: Annual research-completeness synthesis under `RESEARCH-STANDARD.md`.  
+Source: `S-306`.  
+Claims:
+- the 1919 local-newspaper inventory accounts for **52 Enterprise + 26 Courier + 24 Banner-Courier = 102 issue dates**;
+- all **638/638 online-retrievable pages** (474 Enterprise + 164 Courier) were visually reviewed;
+- the 24 Banner-Courier issues from 17 Jul.–25 Dec. are precisely documented manual microfilm gaps under `MF-030`;
+- applicable ordinary public/indexed online directory, map, municipal, property/title, historic-resource, photograph and general-web routes have been audited/integrated, with remaining restricted/manual routes explicitly called out;
+- 1919 therefore meets the repository definition of **ONLINE COMPLETE**, but not ONLINE + MANUAL COMPLETE;
+- exact construction dates of the surviving 503 and 505 buildings remain unresolved.
+Classification: **RESEARCH-COVERAGE CERTIFICATION**, not historical proof of source silence.  
+Confidence: **Very High** for completion state as documented; unresolved for construction dates.

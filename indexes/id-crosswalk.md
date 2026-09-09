@@ -843,3 +843,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-303` / `E-277` / `IMG-0767` → formal 1917 all-source ONLINE COMPLETE certification and City photograph compilation.
 - `E-277` → `MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, `MF-007`.
 - `RL-052` → `MF-060`: public online municipal routes exhausted; underlying commission/ordinance/license record is manual.
+
+## 1919 November–December and annual closeout
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+| Source / evidence | Entity / topic | Scope and limit |
+| --- | --- | --- |
+| `S-304` / `E-278` | `BUS-079`; `B-015` conflict context | 32/32 Nov. Enterprise pages; Staats selling-out ad directly **520–22 Main**; CCHS Dec. catalog says **516 Main**. Preserve conflict. |
+| `S-305` / `E-279` | Fifth/Main Portland House context | 32/32 Dec. Enterprise pages; Mr./Mrs. Beck owners, frame structure; no numbered target assignment. |
+| `S-306` / `E-280` | 1919 annual status | **ONLINE COMPLETE**; 638/638 online pages visually reviewed; 24 Banner-Courier issues plus restricted/manual records remain callouts. |

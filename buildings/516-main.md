@@ -24,3 +24,8 @@ The image also visibly shows deep snow piled along the street and storefront sig
 - Image rights were not supplied with the user-provided watermarked access copy; no public-domain conclusion is made.
 
 Detailed record: [December 1919 photograph evidence](../evidence/source-captures/1919-516-main-bj-staats-hardware-snow-photo.md).
+
+## November 1919 newspaper-address conflict
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+The institutional **516 Main** catalog address for the December Staats photograph now has a direct contemporary conflict: the visually verified **28 November 1919 Enterprise p8** advertisement (`S-304` / `E-278`) prints **B. J. Staats Hardware Co., 520–22 Main Street** with selling-out wording. Do not silently replace 516 with 520–22 or vice versa. The photograph itself does not visibly print a street number, so reconciliation requires another contemporary address/property control.

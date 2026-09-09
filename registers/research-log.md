@@ -1051,3 +1051,13 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Added `T-101` (Penney 524–526 Main) and `T-102` (22 Mar. citywide storeroom context). Exact 503/505 occupants remain unresolved; no absence inference.
 - Collision audit found later `MF-058` already assigned to Ray Hansen, so new 1917 manual tasks use `MF-059` and `MF-060`. Seven total year callouts remain; no outreach sent.
 - Cross-record propagation reviewed timeline, business, address, open-question, research-lead, registers, crosswalk, media and YAML records.
+
+## 8 September 2026 — November/December 1919 completion and ONLINE COMPLETE certification
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+- Resynchronized against current `main` after parallel work and preserved the already-committed November/December originals/manifests.
+- Visually reviewed **32/32 November Enterprise pages** and **32/32 December Enterprise pages** from scanned page images; OCR/text used only for discovery.
+- Registered `S-304` / `E-278`: 28 Nov. B. J. Staats Hardware selling-out ad directly prints **520–22 Main**. Preserved unresolved conflict with CCHS December photograph cataloged **516 Main** (`S-147` / `E-132` / `IMG-0723`).
+- Registered `S-305` / `E-279`: 19 Dec. Portland House fire directly places it at **Fifth and Main**, names **Mr. and Mrs. Beck** as owners and describes frame construction; no numbered target assignment.
+- Completed the 1919 annual source-class audit `S-306` / `E-280`: **102 local issue dates accounted for and 638/638 online-retrievable pages visually verified**. The 24 Banner-Courier issues from 17 Jul.–25 Dec. remain `MF-030` manual microfilm work.
+- Reconciled directory, map, municipal, property/title, historic-resource and photograph online-source classes. `MF-040` is retained as restricted/authenticated Polk work; added `MF-061` for surviving 1919–21 permit/improvement records; `MF-019`, `MF-006`, `MF-007` and `MF-041` remain underlying-record/manual routes.
+- Certified **1919 ONLINE COMPLETE**, not ONLINE + MANUAL COMPLETE. No institutional request or paid research was authorized. The exact 503/505 construction date remains unresolved and source silence was not treated as vacancy or non-use.

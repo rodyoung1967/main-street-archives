@@ -4181,3 +4181,42 @@ evidence:
     confidence: Very High for documented coverage; no historical absence inference
     related_sources: [S-303]
     related_media: [IMG-0767]
+
+# 1919 November-December annual online closeout — 2026-09-08
+  - id: E-278
+    name: "November 1919 Enterprise review and B. J. Staats 520–22 Main liquidation address"
+    type: Primary newspaper visual evidence / complete monthly online batch
+    claims:
+      - 32/32 November 1919 Enterprise pages visually verified.
+      - 28 November page 8 directly prints B. J. Staats Hardware Co. at 520-22 Main Street with selling-out wording.
+      - The 520-22 address conflicts with the separately cataloged December 1919 CCHS Staats photograph at 516 Main; neither source is normalized.
+      - No exact 501, 503, 505 or 505-half target construction or occupancy event was established.
+    confidence: Very High for visible wording; unresolved for address reconciliation
+    related_sources: [S-304]
+    related_businesses: [BUS-079]
+    related_buildings: [B-015]
+  - id: E-279
+    name: "December 1919 Enterprise review and Portland House Fifth/Main fire"
+    type: Primary newspaper visual evidence / complete monthly online batch
+    claims:
+      - 32/32 December 1919 Enterprise pages visually verified.
+      - 19 December page 5 directly places Portland House at Fifth and Main, names Mr. and Mrs. Beck as owners, and describes the Portland House and adjoining buildings as frame construction.
+      - No numbered target assignment is made because the article supplies no street number, parcel or present-building identity.
+    confidence: Very High for visible wording; intersection context only for target frontage
+    related_sources: [S-305]
+    related_businesses: []
+    related_buildings: []
+  - id: E-280
+    name: "1919 ONLINE COMPLETE certification"
+    type: Annual research-coverage certification under RESEARCH-STANDARD.md
+    claims:
+      - 102 relevant local-newspaper issue dates are accounted for.
+      - 638/638 online-retrievable 1919 local-newspaper pages were visually reviewed.
+      - 24 Banner-Courier issues remain MF-030 manual microfilm work.
+      - Other ordinary public/indexed online source classes are audited and remaining restricted/manual routes are explicit callouts.
+      - 1919 is ONLINE COMPLETE but not ONLINE + MANUAL COMPLETE.
+      - Exact 503 and 505 construction dates remain unresolved.
+    confidence: Very High for research-completeness state
+    related_sources: [S-306]
+    related_businesses: []
+    related_buildings: [B-001, B-002]

@@ -166,3 +166,7 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 
 | 210 Seventh Street | Theroux Music House (`BUS-029`) | `E-273` | Visually verified Enterprise ads on 3/17/31 Oct. 1919 extend the direct address control through 31 Oct.; OCR leading-digit errors rejected. |
 <!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+| 520–22 Main Street | 28 Nov. 1919 | B. J. Staats Hardware Co.; selling-out advertisement | `E-278` / `S-304`; direct newspaper address. Conflicts with CCHS December photo metadata at 516 Main; no normalization. |
+| Fifth and Main | 19 Dec. 1919 | Portland House; Mr. and Mrs. Beck named owners; frame structure / adjoining frame buildings | `E-279` / `S-305`; no street number, parcel, side or present-building identity; intersection context only. |
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->

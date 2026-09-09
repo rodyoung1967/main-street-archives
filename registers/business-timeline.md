@@ -325,3 +325,7 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 | 31 Oct. 1919 | 210 Seventh Street | Theroux Music House | `BUS-029` | `E-273` | October Enterprise ads on 3/17/31 Oct. directly continue the address through month end. |
 <!-- 1919 October Enterprise visual review — 2026-09-08 -->
+
+| 28 Nov. 1919 | 520–22 Main | B. J. Staats Hardware Co. | `BUS-079` | `E-278` | Selling-out ad; conflicts with December CCHS catalog address 516 Main. Does not prove final closure. |
+| 19 Dec. 1919 | Fifth and Main, number not printed | Portland House | — | `E-279` | Mr. and Mrs. Beck named owners; frame structure and adjoining frame buildings; not assigned to 501/503/505. |
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->

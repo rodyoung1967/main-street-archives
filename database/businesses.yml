@@ -1074,8 +1074,8 @@ businesses:
     notes: Clackamas County Historical Society catalog metadata supplies 516 Main and December 1919; the photograph visibly shows B. J. Staats Hardw... on the fascia plus closing-out and big-sale signs. No expanded initials, legal-name form, completed closure, transfer, business ownership, or real-estate ownership is inferred.
     related_buildings: [B-015]
     related_people: [P-095]
-    related_evidence: [E-132]
-    related_sources: [S-147]
+    related_evidence: [E-132, E-278]
+    related_sources: [S-147, S-304]
     repository_file: businesses/b-j-staats-hardware.md
 
   - id: BUS-080

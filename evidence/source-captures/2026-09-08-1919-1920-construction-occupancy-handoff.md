@@ -185,3 +185,10 @@ Significant checkpoints include:
 ## Bottom line
 
 Do **not** restart the 1919–1920 construction search from scratch. The narrow ordinary public-online search is already exhausted and documented. The best immediate online work is to finish **November 1919**, then **December 1919**, and perform the 1919 annual closeout audit. The best remaining evidence for the actual construction/physical-change date is now in the authenticated/manual municipal, directory, assessment, deed/title, permit and Banner-Courier sources listed above.
+
+## Superseding 1919 end-state
+<!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+The handoff's November and December resume points are complete. November Enterprise **32/32** and December Enterprise **32/32** were visually reviewed and integrated as `S-304` / `E-278` and `S-305` / `E-279`. The annual source-class audit is `S-306` / `E-280` at `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md`.
+
+**1919 is now ONLINE COMPLETE.** Banner-Courier and the authenticated/manual construction-date sources remain open, so 1919 is not ONLINE + MANUAL COMPLETE. Future chronological research should not repeat the completed 1919 online newspaper/public-indexed work; use the numbered manual callouts or proceed into the 1920 annual audit as appropriate.
