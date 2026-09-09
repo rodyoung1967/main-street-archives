@@ -1257,3 +1257,21 @@ people:
     related_evidence: [E-271]
     related_sources: [S-297]
     repository_file: people/profiles/s-fesznecker.md
+
+  - id: P-399
+    name: Percy Cross
+    role: Harding Drug Store staff / temporary-position notice
+    notes: Visually verified 19 Jan 1912 Courier reports Cross accepted a position in Harding Drug Store during the absence of A. B. Wilmot. Formal job title, credentials, duration and ownership status are not stated.
+    related_businesses: [BUS-007]
+    related_evidence: [E-273]
+    related_sources: [S-299]
+    repository_file: people/profiles/percy-cross.md
+
+  - id: P-400
+    name: A. B. Wilmot
+    role: Harding Drug Store staff association
+    notes: Visually verified 19 Jan 1912 Courier directly associates Wilmot with Harding Drug Store and says he was absent when Percy Cross accepted a position. Formal job title, credentials, ownership status and absence duration/reason are not stated; initials are preserved exactly as the scan reads them.
+    related_businesses: [BUS-007]
+    related_evidence: [E-273]
+    related_sources: [S-299]
+    repository_file: people/profiles/a-b-wilmot.md

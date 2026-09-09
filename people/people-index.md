@@ -196,3 +196,10 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | P-398 | [S. Fesznecker](profiles/s-fesznecker.md) | Tin and repair shop operator | 12 Sep. 1919 Enterprise directly reports a move from Broadway to the building just south of the post office. Given name, exact address, ownership/tenancy and later chronology unresolved. `E-271`. |
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+## 19 January 1912 Harding Drug Store staff additions
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-399 | [Percy Cross](profiles/percy-cross.md) | Harding Drug Store staff / temporary-position notice | 19 Jan. 1912 Courier visually reports Cross accepted a position in Harding Drug Store during A. B. Wilmot's absence. Formal job title, credentials and duration unresolved. `E-273` / `S-299`. |
+| P-400 | [A. B. Wilmot](profiles/a-b-wilmot.md) | Harding Drug Store staff association | Same notice directly associates Wilmot with the store and says he was absent. Formal job title, credentials, ownership and absence duration/reason unresolved. `E-273` / `S-299`. |

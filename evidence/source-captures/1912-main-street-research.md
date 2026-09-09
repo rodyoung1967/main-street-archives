@@ -95,7 +95,7 @@ No direct 1912 source recovered in the current pass explicitly reports a fire at
 
 ## Target-address status for 1912
 
-- **501 Main:** no exact 1912 occupant recovered in the current pass.
+- **501 Main:** positive exact occupant — Joe Wilson's Palace Saloon is directly at **501 Main** on 19 March (`E-104` / `S-118`).
 - **503 Main:** positive exact occupant/use — H. N. Smith pool room on 5 January; H. H. Smith pool-hall license application at 503 on 24 March.
 - **505 Main:** no exact-number 1912 occupant recovered in the current pass. The Chicago Store appears on 5 January only as `Main St. just below Postoffice`; its 1911 505 address is not mechanically carried forward.
 - **507 Main:** positive exact occupant — G. H. Young on 5 January.
@@ -125,3 +125,6 @@ These remain follow-up context only.
 ## March 19 visual-review integration
 
 The complete four-page *Morning Enterprise* issue of 19 March 1912 is now visually reviewed and preserved as `S-118`. Page 2 directly identifies **Joe Wilson's Palace Saloon, 501 Main Street** in a liquor-license application. Page 3 gives the residential address **513 Fifth Street** for the H. M. Templeton home, then occupied by M. D. Phillips and family. These are direct address records, not evidence of 1922 business continuity, property ownership, or fire-cluster geography. See `E-104` and `E-106`.
+
+## 19 January Harding Drug Store staff visual-review integration
+Page 8 of the 19 January 1912 *Oregon City Courier* is now directly scan-certified as `S-299` / `E-273`. The Local News column reports **Percy Cross accepting a position in Harding Drug Store during the absence of A. B. Wilmot**. This is direct business-staff evidence and strengthens the January operating chronology. The notice prints no street number or job title, so it is not used as an independent 511 Main source or as proof that either man was a pharmacist/druggist.

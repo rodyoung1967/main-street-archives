@@ -1983,3 +1983,12 @@ sources:
     notes: "Correct downtown Fifth/Main sheet for later 501/503/505 frontage. 1911 Sheet 22 is Canemah and must not be substituted. Visual comparison with 1925 Sheet 6 shows changed storefront/footprint geometry but does not date each physical change."
     related_evidence: [E-272]
     related_buildings: [B-005, B-001, B-002]
+
+  - id: S-299
+    name: Oregon City Courier, 19 January 1912 p.8 — Harding Drug Store staff item
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8/
+    notes: >-
+      Visually verified 8 Sep 2026 from the original page scan. The local-news item directly reports Percy Cross accepting a position in Harding Drug Store during the absence of A. B. Wilmot. No street number, formal job title, ownership status, or employment duration is printed. PDF SHA-256 bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62.
+    related_evidence: [E-273]
+    related_businesses: [BUS-007]
+    related_people: [P-399, P-400]

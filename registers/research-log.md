@@ -1034,3 +1034,10 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 - Kept the known substituted-page exception explicit: the file exposed as 13 December sequence 21 was visually reviewed as a **27 December** page; the true 13 December page 21 remains unrecovered.
 - Added validator coverage for the twelve manifests' canonical review links, item counts, per-page status, file presence, SHA-256 values, and the substituted-page exception.
 - No annual status advanced: the Courier still has one true-page gap, and 1917 remains **IN PROGRESS** for the other documented title/directory gaps.
+
+### 2026-09-08 — 19 January 1912 Harding Drug Store staff item scan-certified
+- Retrieved the original 19 Jan. 1912 *Oregon City Courier* p.8 PDF and visually inspected the scan after OCR discovery.
+- Direct reading: Percy Cross accepted a position in Harding Drug Store during the absence of A. B. Wilmot (`S-299` / `E-273`; `P-399`, `P-400`).
+- Preserved PDF SHA-256 `bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62` in the source capture.
+- Kept the page address-neutral because it prints no street number; 5 Jan. 1912 `E-092` remains the separate direct 511 Main control.
+- Corrected the stale 1912 annual-capture target-status bullet so 501 Main now reflects the already integrated 19 Mar. Joe Wilson / Palace Saloon exact-address evidence (`E-104` / `S-118`).

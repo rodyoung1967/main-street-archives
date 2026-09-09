@@ -2540,3 +2540,12 @@ SHA-256: `ffd9349d0c88fff7ce31f70cba115163296ae6b4dd19b6e7e6fb044cc1e319dd`.
 Map ID: `SM-010`.  
 Related evidence/buildings: `E-272`; `B-005`, `B-001`, `B-002`.  
 Notes: This is the correct downtown Fifth/Main sheet for the later 501/503/505 frontage. The earlier registered 1911 Sheet 22 (`SM-007` / `S-020`) is Canemah and remains a valid geographic-control source, not the target block. Visual comparison with `S-021` / 1925 Sheet 6 shows changed storefront/footprint geometry by 1925; the map does not itself date each demolition or rebuild.
+
+## S-299 — Oregon City Courier, 19 January 1912 p.8 — Harding Drug Store staff item
+Type: Primary newspaper page scan; **VISUALLY VERIFIED** 8 September 2026.  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8/  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8.pdf  
+PDF SHA-256: `bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62`.  
+Related evidence/business/people: `E-273` / `BUS-007` / `P-399`, `P-400`.  
+Repository source capture: `evidence/source-captures/1912-01-19-courier-harding-drugstore-staff-visual-review.md`.  
+Notes: Direct scan inspection of the upper-left Local News column reports that **Percy Cross accepted a position in Harding Drug Store during the absence of A. B. Wilmot**. The page prints no street number and no formal job title. Separate 5 January evidence places Geo. A. Harding at 511 Main; do not treat this 19 January page as an independent exact-address source.

@@ -2777,3 +2777,13 @@ Claims:
 - The comparison does **not** date the replacement precisely or choose between the competing 1922 Gates/Wolf storefront models.
 Classification: **HIGH-CONFIDENCE PROJECT-STEWARD VISUAL SYNTHESIS for rejecting a literal 1908 surviving-building date; exact replacement date remains unresolved.**  
 Confidence: Very High for the registered map-geometry change; High for the steward photograph-to-flood-era building match; none for a precise construction year beyond the 1911–1925 bracket.
+
+## E-273 — Harding Drug Store staff item: Percy Cross and A. B. Wilmot, 1912
+Type: Primary newspaper scan / business-staff evidence; **VISUALLY VERIFIED**.  
+Date: **19 January 1912**.  
+Source: `S-299`.  
+Related business/people: `BUS-007`; `P-399`, `P-400`.  
+Record: `evidence/E-273-1912-harding-drugstore-staff-cross-wilmot.md`.  
+Capture: `evidence/source-captures/1912-01-19-courier-harding-drugstore-staff-visual-review.md`.  
+Claims: The 19 January 1912 *Oregon City Courier* p.8 scan directly reports **Percy Cross** accepting a position in **Harding Drug Store** during the absence of **A. B. Wilmot**. This documents active business staffing/operation and directly associates both men with the store. The page gives no street number and no formal job title, license, ownership interest, employment duration, or reason/duration of Wilmot's absence. Separate 5 January evidence (`E-092`) places Geo. A. Harding at 511 Main, but this page is not an independent exact-address source.  
+Confidence: **Very High / DOCUMENTED-DIRECT** for the published staffing statement; unresolved for exact roles, employment duration, ownership/tenancy, and address on this page.

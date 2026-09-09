@@ -827,3 +827,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `SM-010` → `S-298` → `maps/sanborn/originals/1911-16 (5th-Main).pdf`: correct November 1911 Sanborn Sheet 16 for the downtown Fifth/Main target frontage.
 - `E-272` → `S-149`, `S-298`, `S-021`, `S-033` → `B-002` (also target-frontage context `B-005` / `B-001`): steward visual synthesis rejecting c.1908 as the surviving/current 505 construction date while retaining the 1911–1925 physical-change bracket.
 - `SM-007` / `S-020` remains the separate Canemah Sheet 22 geographic-control source.
+
+## S-299 / E-273 — 19 January 1912 Harding Drug Store staff control
+- `S-299` → `E-273` → `BUS-007`: visually verified 19 Jan. 1912 *Courier* p.8 staffing/operation statement for Harding Drug Store.
+- `S-299` / `E-273` → `P-399`: Percy Cross accepted a position in the store.
+- `S-299` / `E-273` → `P-400`: A. B. Wilmot was the absent store-associated person named in the notice.
+- No building ID or exact-address edge is created from this page because the notice prints no street number; `E-092` remains the separate 5 Jan. 1912 511 Main address control.
