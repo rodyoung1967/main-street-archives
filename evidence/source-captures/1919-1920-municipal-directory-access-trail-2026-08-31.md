@@ -49,6 +49,20 @@ A separate physical holding is cataloged by the **Stillaguamish Valley Genealogi
 Catalog evidence:
 https://stillygen.org/libraryRecords.php?le=f3_c162&nr=50&page=96&scl=bda&srch=&st=T
 
+### 8 September 2026 public-mirror / second-custody follow-up
+
+A fresh exact-title search tested **Internet Archive, HathiTrust, and Google Books** for a publicly viewable copy of the 1919–1920 volume. No public digitized mirror of this exact edition was recovered. This is a bounded access result only, not evidence that no other digital copy exists.
+
+A second physical holding of the exact edition is explicitly cataloged by **Spokane Public Library, Inland Northwest Special Collections / Northwest Room**:
+
+- Call number / shelf class: **NW 917.9 OREGON**
+- Volume: **v.1919-1920**
+- Item barcode: **37413312933429**
+- Catalog record: https://catalog.spokanelibrary.org/catalog/Record/e670bdd2-fb7f-5896-97c0-98b693963b74
+- Catalog access note: **Access restricted. For use in Northwest Room only.**
+
+This is a custody/access finding only. The Oregon City pages were not inspected, no historical listing is inferred from the holding, and no institutional request was sent. No new source/evidence ID or timeline event is warranted from this catalog-only update.
+
 ## Directory inspection priorities
 
 Once image access is available, inspect the Oregon City section and any business/classified indexes for:
