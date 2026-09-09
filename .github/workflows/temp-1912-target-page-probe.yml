@@ -1,0 +1,29 @@
+name: Temporary 1912 Target Page Probe
+
+on:
+  push:
+    branches:
+      - research/1912-target-page-probe
+  workflow_dispatch:
+
+jobs:
+  fetch-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch target newspaper scan
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p out
+          URL='https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8.pdf'
+          curl --fail --location --retry 5 --retry-delay 3 --user-agent 'Mozilla/5.0' "$URL" -o out/1912-01-19-courier-page8.pdf
+          file out/1912-01-19-courier-page8.pdf
+          ls -lh out/1912-01-19-courier-page8.pdf
+          pdftoppm -f 1 -singlefile -png -r 180 out/1912-01-19-courier-page8.pdf out/1912-01-19-courier-page8
+          sha256sum out/* > out/SHA256SUMS.txt
+      - name: Upload target scan
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1912-01-19-courier-page8-scan
+          path: out/
+          retention-days: 3
