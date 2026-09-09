@@ -1,0 +1,39 @@
+name: Temporary Integrate 1912 Harding Staff
+
+on:
+  push:
+    branches:
+      - research/1912-hardings-staff-jan19
+    paths:
+      - scripts/temp_integrate_1912_jan19_harding_staff.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: research/1912-hardings-staff-jan19
+          fetch-depth: 0
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Integrate records
+        run: python3 scripts/temp_integrate_1912_jan19_harding_staff.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integrated records
+        run: |
+          git add evidence businesses people indexes database registers
+          if git diff --cached --quiet; then
+            echo "No integration changes to commit"
+          else
+            git commit -m "Integrate 1912 Harding Drug Store staff evidence"
+            git push origin HEAD:research/1912-hardings-staff-jan19
+          fi
