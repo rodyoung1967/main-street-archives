@@ -58,7 +58,7 @@ Canonical comparison capture:
 
 ## P‑267 provenance correction preserved
 
-During integration, a catalog-number-only CatalogIt lookup initially encountered an unrelated object sharing the external catalog number `P-267`. That source association was rejected and corrected. The correct institutional control requires both the catalog number and the Oregon City title:
+During integration, a catalog-number-only CatalogIt lookup initially encountered an unrelated object sharing the external catalog number `P‑267`. That source association was rejected and corrected. The correct institutional control requires both the catalog number and the Oregon City title:
 
 - CCHS catalog: **P‑267**
 - Title: **Oregon City and the Arch Bridge as Seen from Bluff.**
@@ -80,11 +80,11 @@ The provenance/binary repair did **not** change the historical structural interp
 
 The photograph batch was integrated on `main` in commit:
 
-- `6c3a3e0da904a0450f137e69dded83127c312ce4` — **Integrate 1918 and P-267 target-frontage photographs**
+- `6c3a3e0da904a0450f137e69dded83127c312ce4` — **Integrate 1918 and P‑267 target-frontage photographs**
 
 The corrected P‑267 source association was committed in:
 
-- `103a1d0e3167d11a43e02afefdbc6a1897b2ba8f` — **Correct CCHS P-267 source association**
+- `103a1d0e3167d11a43e02afefdbc6a1897b2ba8f` — **Correct CCHS P‑267 source association**
 
 The batch is propagated through the appropriate source, evidence, media, building, timeline, crosswalk, open-question/research-lead, and YAML/database records under the marker `2026-09-09-cchs-1918-p267-target-transition`. No new person or business identity is established by these photographs.
 
@@ -104,8 +104,8 @@ The following one-purpose integration/diagnostic artifacts were removed from `ma
 Cleanup commits:
 
 - `572c31c5442620ad4538d0be7abf870e8e86938d` — Remove temporary 1918-P267 integration workflow
-- `e0fef31a2d62c1c1507ccae51a0ba239de0153c1` — Remove temporary P-267 diagnostic workflow
-- `df171d65d407bcb6cd219bc5415fc77c3d5eca8b` — Remove temporary P-267 source repair workflow
+- `e0fef31a2d62c1c1507ccae51a0ba239de0153c1` — Remove temporary P‑267 diagnostic workflow
+- `df171d65d407bcb6cd219bc5415fc77c3d5eca8b` — Remove temporary P‑267 source repair workflow
 - `7ecbd1d183ec459b0dd3bd9c4d1630240b8be841` — Remove temporary 1918-P267 integration script
 
 These deletions remove temporary tooling only; they do not delete historical evidence, source metadata, images, conclusions, uncertainty notes, or provenance corrections.
