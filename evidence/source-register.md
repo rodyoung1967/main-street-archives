@@ -2658,7 +2658,7 @@ Catalog ID: `P‑267`.
 Date: **1924-1928** per supplied CCHS metadata.  
 Repository image: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`.  
 Capture: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/on-the-tamiami-trail-in-florida-f33  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-and-the-arch-bridge-as-seen-from-bluff.  
 Related evidence/media/timeline: `E-284` / `IMG-0770` / `T-104`.  
 Related buildings: `B-005`, `B-001`, `B-002`.  
 Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.

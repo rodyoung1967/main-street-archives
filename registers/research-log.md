@@ -1108,3 +1108,8 @@ Completed a thread-level preservation audit for the LaFarlette / Morton / Albert
 - Combined with the independent 1925 Sanborn, registered `E-285`: material target-frontage replacement/reconfiguration occurred **after the photographed 1918 state and by 1925**.
 - Preserved limits: no readable target address numbers in either photo; no exact construction year, single-campaign conclusion, ownership, builder, or 1922-fire causation inferred. c.1919/c.1920 remain survey estimates.
 - Cross-record propagation audited across source/evidence/media registers, building records/YAML, master and address timelines, open questions, RL-024, ID crosswalk, and the 1919–1920 construction checkpoint.
+
+### 2026-09-09 — CCHS P‑267 duplicate-catalog source-association correction
+
+Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only CatalogIt lookup selected an unrelated duplicate `P‑267` object. The exact Oregon City title+catalog match is entry `d0789660-9b1e-11eb-b3ef-53e7205a00b4` (`oregon-city-and-the-arch-bridge-as-seen-from-bluff.`). Replaced the incorrect repository derivative with the matching CCHS media derivative selected by perceptual comparison to the steward upload (dHash 1/256; SHA-256 `8a084d7d48dc176e871e79b96be2653eaea276aa4210a02905a97117948d8e9f`; 2400×1902; 784,067 bytes). No historical claim, ID, structural bracket, or confidence level changed; this was a provenance/binary repair.
+

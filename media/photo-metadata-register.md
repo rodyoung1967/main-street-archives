@@ -1797,7 +1797,7 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - CCHS date: **1924-1928**
 - Repository file: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`
 - Status: `committed`
-- Repository dimensions: **1200 × 740**; 251,706 bytes; SHA-256 `b45bef315489b0a475769d696e7322332f0d6b6be00a479f3db2c46599c6d9bb`
+- Repository dimensions: **2400 × 1902**; 784,067 bytes; SHA-256 `8a084d7d48dc176e871e79b96be2653eaea276aa4210a02905a97117948d8e9f`
 - Steward original: `Oregon City and the Arch Bridge as Seen from Bluff.jpg`; 2048×1623; 904,513 bytes; SHA-256 `f5c6d00ca21370a82dd125a583fb5634d95c6ac64b1556f24e3b643631e904b2`
 - Duplicate/variant handling: repository preserves the institutional CCHS derivative of the same substantive photograph; steward fingerprint retained even if bytes differ.
 - Related source/evidence/timeline: `S-312` / `E-284` / `T-104`

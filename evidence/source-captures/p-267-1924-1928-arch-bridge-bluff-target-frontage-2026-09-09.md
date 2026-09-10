@@ -15,8 +15,8 @@ Archive IDs: source `S-312`; evidence `E-284`; media `IMG-0770`; timeline `T-104
 - Medium: **Photographic Paper**
 - Location of Negative: **[not supplied]**
 - Other Number: **[not supplied]**
-- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/on-the-tamiami-trail-in-florida-f33
-- Public API record: https://api.catalogit.app/api/public/accounts/4813/entries/2fe23470-76a1-11ee-bc74-3dd853f6747b
+- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-and-the-arch-bridge-as-seen-from-bluff.
+- Public API record: https://api.catalogit.app/api/public/accounts/4813/entries/d0789660-9b1e-11eb-b3ef-53e7205a00b4
 
 ## Project-steward supplied image provenance
 
@@ -30,9 +30,9 @@ Archive IDs: source `S-312`; evidence `E-284`; media `IMG-0770`; timeline `T-104
 
 - File: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`
 - Source: largest public CCHS derivative recovered from exact catalog object `P‑267`
-- Format/dimensions: **JPEG — 1200 × 740**
-- Bytes: **251,706**
-- SHA-256: `b45bef315489b0a475769d696e7322332f0d6b6be00a479f3db2c46599c6d9bb`
+- Format/dimensions: **JPEG — 2400 × 1902**
+- Bytes: **784,067**
+- SHA-256: `8a084d7d48dc176e871e79b96be2653eaea276aa4210a02905a97117948d8e9f`
 - Steward-upload byte identity: **no**
 
 When the repository derivative differs byte-for-byte from the steward upload, it is retained as the canonical institutional copy of the **same substantive photograph**; the steward upload's exact fingerprint is preserved above to make the duplicate/variant decision auditable.
@@ -54,3 +54,8 @@ Because the CCHS date is a range, this photograph does not supply an exact const
 - **UNRESOLVED:** exact construction/replacement dates for individual 501/503/505 structures, exact ownership, builder, and causation of the changes.
 
 This photograph must not be used alone to infer property ownership, a business transfer, a 1922-fire causal relationship, or uninterrupted building continuity.
+
+## Source-association correction — 9 September 2026
+
+An initial automated CatalogIt lookup matched catalog number `P‑267` without also requiring the Oregon City title and therefore selected an unrelated duplicate-number CatalogIt object. That association and its repository derivative were rejected and replaced. The corrected institutional control requires **both** catalog number `P‑267` and title **Oregon City and the Arch Bridge as Seen from Bluff.**, resolving to API entry `d0789660-9b1e-11eb-b3ef-53e7205a00b4` / slug `oregon-city-and-the-arch-bridge-as-seen-from-bluff.`. `IMG-0770` now contains the matching CCHS media derivative selected against the steward-supplied photograph by perceptual-image comparison (dHash distance **1/256**); repository SHA-256 `8a084d7d48dc176e871e79b96be2653eaea276aa4210a02905a97117948d8e9f`, dimensions **2400 × 1902**, 784,067 bytes. The historical structural interpretation remains based on the visually reviewed steward-supplied Oregon City photograph and is unchanged; this correction fixes provenance/binary association only.
+
