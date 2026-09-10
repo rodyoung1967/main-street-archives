@@ -859,3 +859,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-309` → official Oregon Historical Records Index entries for Victor/Victor John Wolf, Clackamas certificate case 1693777, and 1920 intention case 0786; index only, underlying papers not inspected.
 - `E-281` → `P-399` Victor John Wolf; strong cross-source identity control from `S-126`, `S-308`, `S-309`.
 - `P-399` ↛ `P-035`: no identity merge; different initial and close-dated Oregon City Route 6 / Portland descriptions weigh against it. No `B-###`, `BUS-###` or `T-###` relation created.
+
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+
+| Source / evidence | Entity / topic | Scope and limit |
+| --- | --- | --- |
+| `S-310` / `E-282` | `BUS-007`; `P-400` Percy Cross; `P-401` A. E. Wilmot | 19 Jan. 1912 p8 directly verifies Harding-drugstore staffing wording; no street number on page. `E-092` supplies separate 5 Jan. 511 Main control, so 511 continuity is cross-source inference only. |
+| `S-310` / `E-282` | `P-402` Milton Price | 19 Jan. p7 jury-list wording “Milton Price, pool hall”; no address or proprietor/employee status; no merge to 503/505 pool-hall chains. |
+| `S-310` / `E-282` | Farr Bros. same-name lead | 19 Jan. p7 County Poor expenditure of $10; no address/proprietor/business type and no merge to later `BUS-104` or 505 Main. |

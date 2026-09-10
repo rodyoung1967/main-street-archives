@@ -7,9 +7,7 @@ The page-level review materially improved the year in two places:
 - the 5 January business page was visually checked rather than accepted from OCR, correcting machine readings and establishing the exact **503 / 507 / 509 / 511 Main** sequence;
 - the 10 May front-page editorial supplied a present-tense statement that buildings were being torn down and replaced on Main Street, a structural-change clue that exact-address searches alone could easily miss.
 
-A project-steward supplied batch reviewed on **9 September 2026** adds actual scan-review credit for **19 January 1912 printed pages 1–4**. All four scans are **VISUALLY VERIFIED**. They produced no safe new exact-address or target-block claim; the useful page-1 Willamette high-water and river-channel-improvement material is retained as non-target Oregon City context in `1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.
-
-That batch does **not** certify 19 January pages/images 5–8. In particular, the separate page/image-8 Percy Cross / Harding Drug Store staffing lead remains **OCR/TEXT ONLY** until the actual scan is visually inspected.
+Two project-steward supplied batches reviewed on **9 September 2026** now provide actual scan-review credit for **all eight printed pages of the 19 January 1912 issue**. Pages 1–4 are `S-307`; pages 5–8 are `S-310`. The issue is therefore **8/8 VISUALLY VERIFIED**. Pages 1–4 produced no safe new exact-address or target-block claim; page 1's Willamette high-water and river-channel material remains non-target city context. Page 8 now directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence (`E-282` / `S-310`), superseding the earlier OCR/TEXT ONLY state. The page itself prints no street number.
 
 Pages that the current research interface does not expose reliably are **not** counted as visually reviewed. Completing an image-by-image physical-page checklist remains `RL-036`.
 

@@ -1271,3 +1271,33 @@ people:
     related_evidence: [E-113, E-281]
     related_sources: [S-126, S-308, S-309]
     repository_file: people/profiles/victor-john-wolf.md
+
+# Jan 19 1912 person P-400
+  - id: P-400
+    name: "Percy Cross"
+    role: "Harding drugstore staffer"
+    notes: >-
+      19 Jan. 1912 Courier p8 directly says he accepted a position in the Harding drugstore during A. E. Wilmot's absence. No job title, street number, ownership, or identity beyond the printed name is established. E-282 / S-310.
+    related_businesses: [BUS-007]
+    related_evidence: [E-282]
+    related_sources: [S-310]
+
+# Jan 19 1912 person P-401
+  - id: P-401
+    name: "A. E. Wilmot"
+    role: "Harding drugstore staffing-context person"
+    notes: >-
+      19 Jan. 1912 Courier p8 says Percy Cross accepted a Harding drugstore position during Wilmot's absence. The source does not state Wilmot's job title or ownership. E-282 / S-310.
+    related_businesses: [BUS-007]
+    related_evidence: [E-282]
+    related_sources: [S-310]
+
+# Jan 19 1912 person P-402
+  - id: P-402
+    name: "Milton Price"
+    role: "1912 jury-list taxpayer; 'pool hall' descriptor"
+    notes: >-
+      19 Jan. 1912 Courier p7 prints 'Milton Price, pool hall' under Oregon City, Oregon, No. 1 in a taxpayer jury list. No pool-hall address, trade name, proprietor/employee role, or link to Smith/Leland/Dollar/505 is established. E-282 / S-310.
+    related_businesses: []
+    related_evidence: [E-282]
+    related_sources: [S-310]

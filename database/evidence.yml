@@ -4236,3 +4236,20 @@ evidence:
     related_people: [P-035, P-399]
     related_media: [IMG-0768]
     repository_file: "evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md"
+
+# 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09
+  - id: E-282
+    name: "19 January 1912 Courier pages 5–8: Harding staffing and pool-hall context"
+    type: Primary newspaper scan evidence
+    claims:
+      - Page 8 directly states that Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot.
+      - Page 8 prints no street number or George A. Harding name; reading it with E-092 supports same-store/511 continuity only as a strong cross-source inference.
+      - Page 7 prints Milton Price, pool hall, in Oregon City Precinct No. 1, without proprietor/employee/address detail.
+      - Page 7 lists Farr Bros as a $10 County Poor payee without address, proprietor, or business-type detail.
+      - No new direct 501, 503, or 505 Main occupant or target structural event is established.
+    confidence: Very High for scan-visible wording; unresolved for exact Milton Price role/location and Farr Bros identity continuity
+    related_sources: [S-310]
+    related_evidence: [E-092]
+    related_businesses: [BUS-007]
+    related_people: [P-400, P-401, P-402]
+    related_buildings: []

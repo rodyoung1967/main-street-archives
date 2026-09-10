@@ -2053,7 +2053,7 @@ sources:
     type: "Primary newspaper page scans; visually verified 4/4 pages; exact repository PDFs preserved"
     date: "1912-01-19"
     repository_file: "evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md"
-    notes: "Four steward-supplied pages were visually reviewed and exact archive PDF derivatives preserved under newspapers/oregon-city-courier/. Duplicate (1) re-uploads are byte-identical and were not duplicated. No new target-block claim; page-1 high-water and river-channel items remain non-target context. Page-8 Percy Cross / Harding Drug Store lead is still OCR/TEXT ONLY."
+    notes: "Four steward-supplied pages were visually reviewed and exact archive PDF derivatives preserved under newspapers/oregon-city-courier/. Duplicate (1) re-uploads are byte-identical and were not duplicated. No new target-block claim; page-1 high-water and river-channel items remain non-target context. Page 8 was still OCR/TEXT ONLY at S-307 creation; that state is superseded by S-310/E-282, which visually verifies pages 5–8."
 
   - id: S-308
     name: "Morning Oregonian, 27 June 1922, page 4, Victor Wolf naturalization"
@@ -2074,3 +2074,16 @@ sources:
     related_evidence: [E-281]
     related_people: [P-399]
     notes: "Direct detail pages index Victor/Victor John Wolf under 1922 Clackamas certificate case 1693777 and Victor Wolf under 1920 intention case 0786; Alice-name entries share those case numbers. Index records do not define relationships, explain variants, or identify S. Wolf."
+
+# 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09
+  - id: S-310
+    name: "Oregon City Courier, 19 January 1912, pages 5–8 visual-review batch"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/"
+    type: "Primary newspaper page scans; visually verified 4/4; completes 19 January issue at 8/8 with S-307"
+    date: "1912-01-19"
+    repository_file: "evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md"
+    notes: >-
+      Exact page PDFs are preserved under newspapers/oregon-city-courier/ by commit 7b9e00c697da21f6caea5bb696055b0d910c1ed6.
+      Page 8 directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence,
+      but prints no street number. Page 7 prints Milton Price, pool hall, and a Farr Bros County Poor payment without
+      enough address/identity detail for target-business merger. 1912 remains IN PROGRESS.

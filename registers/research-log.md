@@ -1082,3 +1082,11 @@ Completed a thread-level preservation audit for the LaFarlette / Morton / Albert
 - Re-upload aliases with `(1)` suffixes were byte-identical to the first supplied PDFs by SHA-256; no duplicate binaries were retained.
 - Preserved exact canonical page PDFs at `newspapers/oregon-city-courier/1912-01-19-page-1.pdf` through `page-4.pdf` after hash-gated archive download; preservation commit `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.
 - Registered the batch as `S-307`; no new `E-###` was created because target screening produced no defensible new 501/503/505/507/509/511 claim. Page-1 high-water and dredging items remain non-target context. Page/image 8 Percy Cross / Harding Drug Store remains OCR/TEXT ONLY and pending visual review.
+
+### 2026-09-09 — 19 January 1912 Courier pages 5–8 steward batch
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+- Visually inspected the actual scans for printed pages **5–8**; combined with `S-307`, the 19 January issue is now **8/8 VISUALLY VERIFIED**.
+- Preserved exact page PDFs at `newspapers/oregon-city-courier/1912-01-19-page-5.pdf` through `page-8.pdf`; hash-gated binary commit `7b9e00c697da21f6caea5bb696055b0d910c1ed6`.
+- Registered `S-310` / `E-282`. Page 8 directly verifies **Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence**, superseding the prior OCR-only state; no number is printed, and `E-092` remains the separate 5 Jan. 511 Main control.
+- Page 7 prints **“Milton Price, pool hall”** in the Oregon City No. 1 jury list and **Farr Bros. $10** under County Poor expenditures; both are preserved with strict identity/address limits and are not merged to later pool-hall/Farr chains.
+- Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupant or target structural event. **1912 remains IN PROGRESS**.

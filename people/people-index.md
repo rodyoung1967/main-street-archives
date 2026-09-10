@@ -202,3 +202,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
 | P-399 | [Victor John Wolf](profiles/victor-john-wolf.md) | Oregon City resident / naturalization identity control | `E-281` combines a visually verified 26 June 1922 Oregon City Route 6 naturalization report with official Clackamas index case 1693777. Keep separate from `P-035` S. Wolf: initial and residence descriptions conflict, and no deed/business/property bridge exists. |
+
+| P-400 | Percy Cross | Harding drugstore staffer | 19 Jan. 1912 Courier p8 directly says he accepted a position in the Harding drugstore during A. E. Wilmot's absence. No job title, street number, ownership, or identity beyond the printed name is established. `E-282` / `S-310`. |
+
+| P-401 | A. E. Wilmot | Harding drugstore staffing-context person | 19 Jan. 1912 Courier p8 says Percy Cross accepted a Harding drugstore position during Wilmot's absence. The source does not state Wilmot's job title or ownership. `E-282` / `S-310`. |
+
+| P-402 | Milton Price | 1912 jury-list taxpayer; 'pool hall' descriptor | 19 Jan. 1912 Courier p7 prints 'Milton Price, pool hall' under Oregon City, Oregon, No. 1 in a taxpayer jury list. No pool-hall address, trade name, proprietor/employee role, or link to Smith/Leland/Dollar/505 is established. `E-282` / `S-310`. |

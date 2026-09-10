@@ -117,3 +117,10 @@ The visually verified **11 Apr. 1919 Enterprise p4** Ohio Dentists advertisement
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 The visually verified **16 May 1919 Enterprise p6** Ohio Dentists advertisement (`E-267` / `S-293`) again places the **507½ Main** dental office **over Harding's Drug Store**. It preserves the spatial relationship but does not directly print Harding's ground-floor street number.
+
+## 19 January 1912 staffing notice
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+
+The actual *Oregon City Courier* p8 scan is now **VISUALLY VERIFIED** (`E-282` / `S-310`) and directly states that **Percy Cross (`P-400`) accepted a position in the Harding drugstore during the absence of A. E. Wilmot (`P-401`)**. This supersedes the prior OCR/TEXT ONLY state for that notice.
+
+The notice itself prints **no street number** and does not name George A. Harding. `E-092` independently places George A. Harding at **511 Main** on 5 January 1912. Taken together, the sources strongly support same-store continuity at 511 in January, but the 19 January notice is not direct exact-address evidence and does not prove property/building ownership or Wilmot's precise job role.

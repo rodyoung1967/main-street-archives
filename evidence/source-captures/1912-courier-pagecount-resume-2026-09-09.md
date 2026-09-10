@@ -14,17 +14,13 @@ Purpose: continue the current-standard 1912 *Oregon City Courier* audit from aut
 
 ## 19 January 1912 — current state
 
-The issue is controlled as an **eight-image issue**. Parallel work on 9 September visually inspected and preserved printed pages **1–4** (`S-307`). Those pages produced no safe new exact-address or target-block claim.
+The issue is controlled as an **eight-image issue**. Earlier on 9 September, pages **1–4** were visually inspected and preserved as `S-307`. Later the project steward supplied pages **5–8**; all four actual scans were visually inspected and preserved as `S-310`. The 19 January issue is now **8/8 VISUALLY VERIFIED**.
 
-The archive again exposes page/image 8 text stating, with OCR noise, that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot**:
+Page 8 directly states that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot** (`E-282` / `S-310`):
 
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8/
 
-The actual page-8 scan/PDF still did not render through the available route during this continuation. Therefore the Percy Cross / Harding Drug Store item remains:
-
-**OCR/TEXT ONLY — PENDING SCAN CERTIFICATION.**
-
-Do not create a verified person/business relationship from this text until the actual page is visually inspected. Pages 5–8 remain uncredited visually in the current exhaustive ledger unless another current-main source capture separately certifies them.
+This **supersedes the earlier OCR/TEXT ONLY / pending-scan state** recorded in the first version of this checkpoint. The page prints no street number. `E-092` independently places George A. Harding at 511 Main on 5 January, so interpreting this as the same 511 store is a strong cross-source inference, not wording printed on page 8.
 
 ## Additional issue-size controls recovered / reconfirmed
 
@@ -101,7 +97,7 @@ The correct propagation is this additive coverage checkpoint plus continued `IN 
 
 ## Next exact actions
 
-1. Continue recovery attempts for **19 January pages 5–8**, prioritizing page 8 for Percy Cross / Harding Drug Store.
+1. **19 January pages 1–8 are complete and visually verified; no further recovery is needed for that issue.**
 2. Resolve the remaining Courier count/sequence gaps: **3 May, 17 May (including genuine image 2), 24 May, 2 August**, and strict controls for any issue where only image-8 existence is known.
 3. Continue actual scan-by-scan Courier visual review, crediting `S-307` and all older verified pages instead of repeating them.
 4. Continue the *Morning Enterprise* July/August ledger and then remaining months.

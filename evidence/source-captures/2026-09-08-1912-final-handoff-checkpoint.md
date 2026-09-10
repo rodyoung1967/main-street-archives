@@ -170,3 +170,8 @@ Current timeline/evidence and `E-104` / `S-118` control. Reconcile those stale s
 - Do not merge people or businesses by name alone.
 - Preserve conflicts and rejected interpretations.
 - Do not send institutional/manual research requests unless the project steward explicitly authorizes them.
+
+## 9 September 2026 supersession — 19 January page 8 visually verified
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+
+The earlier handoff section requiring the Percy Cross / Harding drugstore item to remain **OCR/TEXT ONLY** is now superseded. The project steward supplied printed pages 5–8; the actual page-8 scan was visually inspected and directly states that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot**. See `S-310` / `E-282` and `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`. Page 8 prints no street number, so `E-092` remains the independent 5 January 511 Main address control rather than being silently imported into the 19 January wording.

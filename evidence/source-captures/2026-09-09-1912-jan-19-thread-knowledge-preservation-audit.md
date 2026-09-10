@@ -79,3 +79,10 @@ The outstanding work is research, not unsaved knowledge:
 3. continue the broader 1912 source-class work required by `RESEARCH-STANDARD.md` before any annual status advance.
 
 Do not infer historical absence from the four-page no-hit result, do not duplicate the `(1)` upload aliases, and do not upgrade the page-8 Harding Drug Store lead until the actual scan is visually inspected.
+
+## Superseding same-day update — complete issue now preserved
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+
+After this audit was first written, the project steward supplied 19 January printed pages **5–8**. All four actual scans were visually inspected and exact PDFs preserved in commit `7b9e00c697da21f6caea5bb696055b0d910c1ed6`. They are registered as `S-310` / `E-282` and documented in `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`. The issue is now **8/8 VISUALLY VERIFIED**.
+
+Most importantly, page 8 directly verifies that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot**. The former OCR/TEXT ONLY state in the earlier portion of this audit is therefore superseded. The page prints no street number; `E-092` remains the separate 5 January 511 Main address control.

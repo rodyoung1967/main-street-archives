@@ -87,3 +87,8 @@ The appropriate repository propagation is:
 1. Obtain and visually inspect **19 January 1912 pages/images 5–8**, with priority on page/image 8 for the Percy Cross / Harding Drug Store lead.
 2. Continue the issue-by-issue *Courier* visual audit and target screening under the current 1912 `IN PROGRESS` status.
 3. Reuse the preserved page files and `S-307` as the provenance/coverage control; do not create duplicate binaries for byte-identical steward re-uploads.
+
+## Superseding same-day update — pages 5–8 recovered and reviewed
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+
+The earlier statement in this pages-1–4 checkpoint that page 8 remained OCR/TEXT ONLY accurately described the state at that moment. It is now **superseded**: pages 5–8 were subsequently supplied, visually inspected, and preserved as `S-310` / `E-282`. Page 8 directly verifies the Percy Cross / Harding drugstore / A. E. Wilmot staffing notice. The complete 19 January issue is now **8/8 VISUALLY VERIFIED**. See `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`.

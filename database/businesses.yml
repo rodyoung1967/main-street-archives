@@ -129,6 +129,8 @@ businesses:
     - B-003
     related_people:
     - P-001
+    - P-400
+    - P-401
     related_evidence:
     - E-133
     - E-128
@@ -139,6 +141,7 @@ businesses:
     - E-119
     - E-266
     - E-267
+    - E-282
 
     - E-219
     related_sources:
@@ -150,6 +153,7 @@ businesses:
     - S-133
     - S-292
     - S-293
+    - S-310
 
     - S-245
   - id: BUS-008

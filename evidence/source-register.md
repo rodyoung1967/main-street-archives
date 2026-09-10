@@ -2604,7 +2604,7 @@ Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-1.pdf`, `n
 SHA-256: page 1 `47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679`; page 2 `01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99`; page 3 `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611`; page 4 `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e`.  
 Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.  
 Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.  
-Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. The separate 19 January page/image 8 Percy Cross / Harding Drug Store lead remains **OCR/TEXT ONLY** because page 8 is not in this four-page batch. No new `E-###` is assigned from the bounded no-hit/context result.
+Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. At the time of the pages 1–4 review, the separate page-8 Percy Cross / Harding Drug Store lead remained **OCR/TEXT ONLY** because page 8 was not in that batch. That state is now superseded by `S-310` / `E-282`, which visually verifies page 8. No new `E-###` is assigned from the bounded no-hit/context result.
 
 ## S-308 — Morning Oregonian, 27 June 1922, page 4, Victor Wolf naturalization
 Type: Primary newspaper page scan; **VISUALLY VERIFIED** 9 September 2026.
@@ -2622,3 +2622,15 @@ Exact record pointers: `docRsn=722677`, `722678`, `722679`, `722408`, `722410`, 
 Related evidence/person: `E-281`; `P-399`.
 Repository capture: `evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md`.
 Notes: The index gives **Wolf, Victor John** and **Wolf, Victor** under 1922 Clackamas naturalization certificate case **1693777**, plus Victor Wolf under 1920 intention case **0786**. Alice-name entries share those case numbers. The index does not define relationships, explain name variants, give addresses/occupations or identify S. Wolf.
+
+## S-310 — Oregon City Courier, 19 January 1912, pages 5–8 visual-review batch
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES**; completes the issue at **8/8 visually verified** with `S-307`.  
+Publication/date: *Oregon City Courier*, **19 January 1912**, printed pages **5–8**.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-5.pdf` through `1912-01-19-page-8.pdf`.  
+SHA-256: p5 `d7419216d8a39ecfdd726302590ab365f2d7074beac327083c3b84a1c48ddce6`; p6 `53b2c8b4c8b03036fed8a8cc04f18a895dc6fc980ecbc8c052ab7913b2a61300`; p7 `fd88d8623b8203ba49ece2f2c31faf0a8f826569543b18b69d1ce02d1054f444`; p8 `bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62`.  
+Binary preservation commit: `7b9e00c697da21f6caea5bb696055b0d910c1ed6`.  
+Related evidence: `E-282`; cross-reference `E-092`.  
+Source capture: `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`.  
+Notes: Page 8 directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence; no street number is printed. Page 7 prints “Milton Price, pool hall” in the Oregon City No. 1 jury-list section and Farr Bros. as a $10 County Poor payee, both without address/role continuity sufficient for target-business merger. Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupancy claim; 1912 remains IN PROGRESS.

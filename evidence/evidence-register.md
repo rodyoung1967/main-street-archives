@@ -2870,3 +2870,16 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for each source's visible/indexed fields; **STRONG CROSS-SOURCE INFERENCE** for Victor/Victor John identity; **NO IDENTITY BRIDGE** to S. Wolf.
 Confidence: **Very High** for newspaper wording and official index fields; underlying naturalization papers and S. Wolf identity unresolved.
 Capture: `evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md`.
+
+## E-282 — 19 January 1912 Courier pages 5–8: Harding staffing and pool-hall context
+<!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
+Type: Primary newspaper scan evidence; **VISUALLY VERIFIED**.  
+Source: `S-310`. Cross-reference: `E-092`.  
+Claims:
+- page 8 directly states that **Percy Cross (`P-400`) accepted a position in the Harding drugstore during the absence of A. E. Wilmot (`P-401`)**;
+- page 8 prints no street number and does not name George A. Harding; `E-092` independently places George A. Harding at 511 Main on 5 January, so same-store/511 continuity is a **STRONG CROSS-SOURCE INFERENCE**, not a page-8 direct address;
+- page 7 directly prints **“Milton Price, pool hall”** under Oregon City, Oregon, No. 1 in a jury list drawn from the assessment roll; it does not state proprietor, employee, trade name, or address and is not merged to the 503/505 pool-hall chains;
+- page 7 lists **Farr Bros. — $10.00** under County Poor expenditures; same-name/payee evidence only, with no merger to later `BUS-104`, Edwin/Alice Farr, or 505 Main;
+- pages 5–8 produce no new direct 501/503/505 occupant, ownership, structural, or transition claim.
+Classification: **DOCUMENTED / DIRECT** for scan-visible wording; **STRONG CROSS-SOURCE INFERENCE** only for interpreting the unnumbered Harding drugstore notice with `E-092`; **UNRESOLVED** for Milton Price's exact pool-hall role/location and Farr Bros. identity continuity.  
+Confidence: **Very High** for the printed wording and 4/4 page review.
