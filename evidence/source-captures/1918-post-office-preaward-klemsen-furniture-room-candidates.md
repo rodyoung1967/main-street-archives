@@ -1,26 +1,30 @@
 # 1918 Oregon City Post Office pre-award room candidates — Klemsen grocery / furniture-store lead
 
 Research date: **9 September 2026**  
-Status: **MIXED — OCR/TEXT-ONLY pre-award article + VISUALLY VERIFIED / established exact-address comparison sources; candidate bay mapping unresolved**
+Status: **VISUALLY VERIFIED pre-award article + VISUALLY VERIFIED / established exact-address comparison sources; candidate bay mapping unresolved**
 
 Purpose: preserve a high-value pre-award description of the two store rooms proposed for the Oregon City Post Office and test whether those rooms can be mapped to exact even-side Main Street numbers. This note supplements, but does not replace, `evidence/source-captures/1918-1922-post-office-east-main-fifth-sixth-anchor.md`.
 
 ## 8 August 1918 — pre-award Post Office bid names the existing tenants
 
-Historic Oregon Newspapers exposes the OCR/text of **Oregon City Courier, 8 Aug 1918, p. 1**, under the heading `UNOFFICIAL REPORT SAYS POST-OFFICE MAY MOVE`.
+The actual scanned page of the **Oregon City Courier, 8 Aug 1918, p. 1** was visually inspected on 9 Sep 2026. The item is headed **`UNOFFICIAL REPORT SAYS POST-OFFICE MAY MOVE`**.
 
-The article says in substance that:
+The scan directly states that:
 
+- the local Post Office might move from its then-current location opposite the courthouse to a new site **at Fourth and Main streets**;
 - the current Weinhard-estate Post Office lease would expire **1 March 1919**;
-- the government had called for bids for the next five-year period;
+- the government had called for bids for the following five-year period;
 - **First National Bank and Barlow & David** had offered a location at **$150 monthly**;
 - the proposed location was then occupied by the **Klemsen grocery store and a furniture store**;
-- the article describes that proposed location as on Main Street **between Fourth and Fifth**.
+- the proposed rooms were on **Main Street between Fourth and Fifth**.
 
 Canonical page:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1918-08-08/ed-1/seq-1/
 
-Verification state: **OCR/TEXT ONLY for the quoted article content in this pass.** The page-image/PDF retrieval endpoint returned a cache/retrieval failure, so the wording must not be promoted to scan-certified status until the actual page image is successfully inspected.
+PDF:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1918-08-08/ed-1/seq-1.pdf
+
+Verification state: **VISUALLY VERIFIED**. The page-image recovery succeeded in the late 9 Sep continuation; the earlier OCR-only/retrieval-gap status is superseded.
 
 ### Important location conflict
 
@@ -29,7 +33,9 @@ The August report is explicitly **pre-award / unofficial** and conflicts geograp
 - **12 Sep 1918 Courier** reports the selected Post Office lease on the **east side of Main between Fifth and Sixth**;
 - **18 Apr 1919 Enterprise**, visually verified, reports that the Post Office actually moved on 15 April to **Fifth and Main**, into **two store buildings combined into one room**, one owned by First National Bank and one by the Barlow-David heirs.
 
-Therefore do **not** silently normalize the August `between Fourth and Fifth` wording into `between Fifth and Sixth`. Preserve the possibilities that the proposed site changed, the August article misstated the block, or another explanation applies.
+The newly recovered August scan confirms that the `Fourth and Main` / `between Fourth and Fifth` wording is genuinely present in the primary page and is not an OCR artifact.
+
+Therefore do **not** silently normalize the August wording into `between Fifth and Sixth`. Preserve the possibilities that the proposed site changed before award, the August article described a different bid than the one ultimately selected, or another documentary explanation applies. The September lease decision and April 1919 actual move control the later Post Office location.
 
 ## D. M. Klemsen — exact 508 Main anchor
 
@@ -80,14 +86,16 @@ Combining the source streams creates a potentially important bay model:
 - Aug 1918 Post Office proposal — rooms occupied by **Klemsen grocery + a furniture store**;
 - Apr 1919 actual Post Office — **two store rooms combined**, one First National Bank-owned and one Barlow-David-owned.
 
-Thus **506 + 508 Main** is now a **STRONG RESEARCH HYPOTHESIS** for the two pre-Post-Office store rooms.
+Thus **506 + 508 Main** remains a **STRONG RESEARCH HYPOTHESIS** for the two pre-Post-Office store rooms.
+
+The visual verification of the August article does **not** upgrade that 506+508 mapping, because the article itself gives no street numbers and expressly places the proposed site between Fourth and Fifth rather than the later selected Fifth–Sixth block.
 
 It is **not an established Post Office address** because:
 
 1. Klemsen's exact August 1918 address has not been directly recovered;
 2. the August furniture store is unnamed;
 3. Terk remains documented at 506 in October 1918, after the August proposal;
-4. the August article says `between Fourth and Fifth`, conflicting with the later Fifth–Sixth lease/move evidence;
+4. the visually verified August article genuinely says `at Fourth and Main` / `between Fourth and Fifth`, conflicting with the later Fifth–Sixth lease/move evidence;
 5. no move/vacate source has yet been recovered proving that 506 and/or 508 became the postal rooms by April 1919.
 
 Do not state that the 1919–1922 Post Office was at 506–508 until a direct continuity/lease/address bridge is found.
@@ -114,9 +122,12 @@ At present, however, the exact postal bay remains unresolved.
 
 ## Next checks
 
-1. Recover and visually inspect the **8 Aug 1918 Courier p.1** scan to certify or correct the `Fourth and Fifth` wording.
-2. Find a late-1918 / early-1919 move, closing, lease, or relocation item for **D. M. Klemsen**.
-3. Find a late-1918 / early-1919 move or displacement item for **Terk Bros.**
-4. Determine whether the unnamed August furniture store is explicitly Terk Bros.
-5. Locate the federal lease description or a 1919–1922 directory giving the Post Office's exact street number.
-6. Test whether **506 + 508** can be linked directly to the two combined postal rooms; until then keep it as a strong hypothesis only.
+1. Find a late-1918 / early-1919 move, closing, lease, or relocation item for **D. M. Klemsen**.
+2. Find a late-1918 / early-1919 move or displacement item for **Terk Bros.**
+3. Determine whether the unnamed August furniture store is explicitly Terk Bros.
+4. Locate the federal lease description or a 1919–1922 directory giving the Post Office's exact street number.
+5. Test whether **506 + 508** can be linked directly to the two combined postal rooms; until then keep it as a strong hypothesis only.
+
+## Cross-record propagation audit — 9 Sep 2026 visual recovery
+
+This batch changes the **verification state** of the 8 Aug 1918 pre-award article from OCR/TEXT ONLY to VISUALLY VERIFIED and confirms the geographic conflict as genuine source wording. It does **not** establish a new 1919–1922 Post Office bay, occupant, property owner, or modern-address mapping. Related Post Office source captures were reviewed; no building/business/person/YAML entity fact is promoted from this verification-state change alone.
