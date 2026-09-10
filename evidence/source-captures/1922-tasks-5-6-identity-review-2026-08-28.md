@@ -8,6 +8,8 @@ Scope follows the saved 1922 research/model plan: **Task 5 = identity links; Tas
 
 Subsequent checkpoint: the steward authorized Tasks 7–8 after this batch was saved. The [model test](1922-task-7-fire-origin-model-test-2026-08-28.md) and [handoff](1922-task-8-integration-handoff-2026-08-28.md) now record that continuation; the stop-before-Task-7 wording below preserves this batch's original boundary. Identity findings and source hashes are unchanged.
 
+**9 September 2026 supplement:** [`E-281` / `S-308`–`S-309`](1922-06-26-victor-john-wolf-naturalization-identity-control.md) now expands the separate Oregon City directory candidate to **Victor John Wolf** and directly reports Victor Wolf at Oregon City Route 6 on 26 June 1922. This strengthens the identity control but not the S. Wolf hypothesis: the initial and close-dated Portland/Oregon City residence descriptions conflict. Keep `P-399` separate from `P-035`.
+
 **Result:** bounded identity search and five-page visual batch completed. A new primary notice directly names Gilbert Miller with the Springfield Wolf & Miller firm. S. Wolf's full identity, the Oregon City C. E. Gates buyer's full identity, the Wolf partner's name, and the later 503 Wolf-family connection remain unresolved. No identity merger, property-boundary decision, or annual completion certification is made.
 
 ## New direct Miller association — S-125 / E-113
@@ -71,7 +73,7 @@ This identifies the familiar Medford candidate, **not** the 1922 Oregon City pur
 | S. Wolf, 1922 purchaser (`P-035`) | July sale and fire reports (`E-096`, `E-103`); June merchant roster | Full name unknown; do not select a directory candidate. |
 | Saml / Samuel Wolf, Portland | Original 1920 listing: Lena, clothing, 33 3d N, 691 Elliott | Initial/trade compatible, but no Harding deed, Oregon City firm, or later 503 link. |
 | Simon Wolf, Portland | Original 1920 listing: Carolyn, Wonder Millinery, 340 10th | Initial compatible; no target-property or partnership connection. |
-| Victor Wolf | Original 1920 listing: Alice, Goodyear Rubber, Oregon City residence | Geographic context only; different printed initial. No connection to S. Wolf established. |
+| Victor John Wolf (`P-399`) | Original 1920 listing: Alice, Goodyear Rubber, Oregon City residence; 26 June 1922 naturalization report says Germany / Oregon City Route 6; official index gives Victor John and certificate case 1693777 | Controlled separate local identity; different printed initial and close-dated residence conflict weigh against merger with S. Wolf. No connection established. |
 | Wolf in Wolf & Miller | Existing Springfield/1918 Oregon City sources; new notice names Gilbert, not Wolf | Wolf's first name remains unknown. Idaho-bound partner still not explicitly named. |
 | Wolf & Nat / Chicago Store; Clara Rose Wolf family; later 503 Wolf owners | Separate existing business, secondary genealogy, and retrospective survey leads | No new primary bridge recovered; retain all three threads separately. |
 | C. E. Gates, Oregon City buyer (`P-036`) | July/August property sequence (`E-096`, `E-097`) | No full-name expansion recovered. Portland directory search does not decide identity. |

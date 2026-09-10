@@ -194,6 +194,8 @@ Retrieve the July deed(s), grantor/grantee index, August building permit/plans, 
 
 The [28 August 2026 Tasks 5–6 audit](source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) adds verified original directory candidates and a direct 1916 Gilbert Miller firm association (`E-113`), without identifying either buyer or the later 503 Wolf family. The subsequent [Task 7 model test](source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) selects neither model and supplies no comparative ranking. [Task 8 handoff](source-captures/1922-task-8-integration-handoff-2026-08-28.md) consolidates eight open manual callouts; prioritize `1922-F01`/`1922-F02` title records plus `1922-F03`/`1922-F04` geometry/occupants. A replacement plan alone does not prove the pre-fire line or the actual ignition room. Online coverage remains unfinished; no annual certification.
 
+**9 September 2026 identity control:** `E-281` / `S-308`–`S-309` now identifies the separate Oregon City directory candidate as **Victor John Wolf** and directly reports Victor Wolf at Oregon City Route 6 on 26 June 1922. This does not expand the `S.` buyer's name. The different initial and close-dated `of Portland` / Oregon City Route 6 descriptions weigh against a Victor merge, so take Victor out of the active first-line candidate pool unless a deed or other direct bridge reopens it. The highest-yield next step remains the Harding→Wolf/Gates deed/title/assessment route; Samuel and Simon remain unselected directory candidates.
+
 ## RL-041 — 1973–1987 Municipal, Directory, and OLCC Follow-Up for Brass Rail / Hansen→Wiitanen
 Complete the interval work started in `evidence/source-captures/1973-1987-503-505-research-pass.md`. Highest-value targets:
 

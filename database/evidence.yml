@@ -4221,3 +4221,18 @@ evidence:
     related_sources: [S-306]
     related_businesses: []
     related_buildings: [B-001, B-002]
+
+  - id: E-281
+    name: "Victor John Wolf June 1922 naturalization identity control"
+    type: "Primary newspaper visual evidence plus official compiled naturalization index"
+    claims:
+      - The 27 June 1922 Morning Oregonian page 4 scan directly reports that Victor Wolf, Germany, Oregon City route 6, received final citizenship papers at Oregon City on 26 June.
+      - The Oregon Historical Records Index catalogs Victor Wolf and Victor John Wolf under 1922 Clackamas County naturalization certificate case 1693777 and Victor Wolf under 1920 intention case 0786.
+      - Read with the visually verified 1920 Victor (Alice) Wolf directory entry, the sources strongly support Victor John Wolf as the controlled identity of the separate Oregon City candidate.
+      - The evidence does not identify him as S. Wolf; the different initial and close-dated Oregon City Route 6 versus Portland descriptions weigh against that merger.
+      - No target address, property interest, business role or storefront model is established.
+    confidence: "Very High for visible newspaper wording and official index fields; Strong Cross-Source Inference for the Victor/Victor John identity; no bridge to S. Wolf"
+    related_sources: [S-126, S-308, S-309]
+    related_people: [P-035, P-399]
+    related_media: [IMG-0768]
+    repository_file: "evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md"

@@ -1761,3 +1761,14 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - SHA-256: `4f987499ecf0243e99e84e8482f4529bbfa04601c3fb887a19bc1016af063d19`
 - Status: `committed`; all 72 pages visually screened 8 September 2026
 - Result: no card visibly dated 1917 and no exact 501/503/505 image identified. Other Main Street images are not assigned to the target premises.
+
+## IMG-0768 — Morning Oregonian page 4, Victor Wolf naturalization report
+- Type: Full newspaper-page PDF scan
+- Source/evidence/person: `S-308` / `E-281` / `P-399`
+- Publication/date/page: *Morning Oregonian*, 27 June 1922, page 4; event reported 26 June
+- Repository file: `newspapers/oregonian/1922-06-27-page-4-victor-wolf-naturalization.pdf`
+- Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1922-06-27/ed-1/seq-4/
+- Pages/bytes: **1 / 834,099**
+- SHA-256: `62d94a9d933f3feff0ebadeb84794f683a056967c53fe5626d2126429252b442`
+- Status: `committed`; masthead/date/page and split-column article visually verified 9 September 2026
+- Result: directly reports Victor Wolf, Germany, Oregon City Route 6, among persons naturalized at Oregon City on 26 June. No S. Wolf, target address, business or property connection is printed.

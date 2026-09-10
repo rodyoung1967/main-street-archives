@@ -852,3 +852,10 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-304` / `E-278` | `BUS-079`; `B-015` conflict context | 32/32 Nov. Enterprise pages; Staats selling-out ad directly **520–22 Main**; CCHS Dec. catalog says **516 Main**. Preserve conflict. |
 | `S-305` / `E-279` | Fifth/Main Portland House context | 32/32 Dec. Enterprise pages; Mr./Mrs. Beck owners, frame structure; no numbered target assignment. |
 | `S-306` / `E-280` | 1919 annual status | **ONLINE COMPLETE**; 638/638 online pages visually reviewed; 24 Banner-Courier issues plus restricted/manual records remain callouts. |
+
+## June 1922 Victor Wolf identity control
+
+- `S-308` / `IMG-0768` → visually verified 27 June 1922 *Morning Oregonian* page 4; event reported 26 June; Victor Wolf, Germany, Oregon City Route 6.
+- `S-309` → official Oregon Historical Records Index entries for Victor/Victor John Wolf, Clackamas certificate case 1693777, and 1920 intention case 0786; index only, underlying papers not inspected.
+- `E-281` → `P-399` Victor John Wolf; strong cross-source identity control from `S-126`, `S-308`, `S-309`.
+- `P-399` ↛ `P-035`: no identity merge; different initial and close-dated Oregon City Route 6 / Portland descriptions weigh against it. No `B-###`, `BUS-###` or `T-###` relation created.

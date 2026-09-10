@@ -3,8 +3,8 @@
 ## Archive ID
 
 - Person ID: `P-035`
-- Related evidence: `E-096`, `E-103`
-- Related sources: `S-111`, `S-117`
+- Related evidence: `E-096`, `E-103`, `E-281`
+- Related sources: `S-111`, `S-117`, `S-308`, `S-309`
 
 ## What is established
 
@@ -30,7 +30,9 @@ Those are separate candidates or networks until a deed, directory, probate, part
 
 Tasks 7–8 checkpoint: [model test](../../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) leaves the buyer identity, land-versus-building interest and exact room unresolved. The [handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) maps the next records to `1922-F01`/`1922-F02` (buyer/title), `1922-F07` (later 503 owners) and `1922-F08` (partner/family). No candidate merger.
 
-The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) visually verifies the original 1920 Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf directory entries (`S-126`). It also directly identifies Gilbert Miller with the Springfield firm in 1916 (`E-113`), but supplies no bridge from any Wolf candidate to this purchaser or later 503 ownership. Full identity remains unresolved.
+The [28 August 2026 identity audit](../../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md) visually verifies the original 1920 Saml (Lena), Simon (Carolyn), and Victor (Alice) Wolf directory entries (`S-126`). It also directly identifies Gilbert Miller with the Springfield firm in 1916 (`E-113`), but supplies no bridge from any Wolf candidate to this purchaser or later 503 ownership.
+
+The [9 September 2026 Victor John Wolf control](../../evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md) (`E-281`, `S-308`–`S-309`) identifies the separate Oregon City candidate as Victor John Wolf and directly places Victor Wolf on Oregon City Route 6 on 26 June 1922. That does not identify the `S.` buyer; the different initial and close-dated **Oregon City Route 6** versus **of Portland** descriptions weigh against a merge. Full identity remains unresolved.
 
 - Harding-to-Wolf/Gates deed and grantor/grantee index entry.
 - 1921 assessment/1922 tax and 1922–1925 land/lot records.

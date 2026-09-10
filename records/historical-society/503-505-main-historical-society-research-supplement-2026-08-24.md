@@ -218,7 +218,7 @@ Detailed evidence: `../../evidence/source-captures/1919-cleaning-dyeing-two-door
 
 The 1922 fire source directly says **S. Wolf of Portland** owned the building where the fire began. A June Oregon City merchant roster separately includes **S. Wolf**. The visually verified 13 July sale notice now reports that S. Wolf acquired the remainder of Harding's named Main Street store group after the restaurant location was allocated to C. Gates. This is a material property-chain advance, but it is still newspaper reporting rather than the recorded deed and does not locate the remainder within 501/503/505.
 
-Possible Portland directory candidates include **Samuel Wolf** (clothing), **Simon Wolf** (Wonder Millinery), and other Wolf entries. **Victor Wolf** is independently associated with Oregon City but does not match the `S.` initial and should not be merged into the fire-property identity.
+Possible Portland directory candidates include **Samuel Wolf** (clothing), **Simon Wolf** (Wonder Millinery), and other Wolf entries. The later identity control (`E-281`) expands the separate Oregon City candidate to **Victor John Wolf** and reports him at Oregon City Route 6 on 26 June 1922. He does not match the `S.` initial, and the close-dated residence description conflicts with `S. Wolf of Portland`; he should not be merged into the fire-property identity without direct contrary evidence.
 
 No evidence yet proves that S. Wolf was:
 

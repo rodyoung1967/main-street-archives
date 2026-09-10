@@ -2606,3 +2606,19 @@ Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.
 Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.  
 Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. The separate 19 January page/image 8 Percy Cross / Harding Drug Store lead remains **OCR/TEXT ONLY** because page 8 is not in this four-page batch. No new `E-###` is assigned from the bounded no-hit/context result.
 
+## S-308 — Morning Oregonian, 27 June 1922, page 4, Victor Wolf naturalization
+Type: Primary newspaper page scan; **VISUALLY VERIFIED** 9 September 2026.
+Event/source dates: naturalization reported at Oregon City **26 June 1922**; newspaper published **27 June 1922**.
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1922-06-27/ed-1/seq-4/
+Repository PDF: `newspapers/oregonian/1922-06-27-page-4-victor-wolf-naturalization.pdf`
+SHA-256/size: `62d94a9d933f3feff0ebadeb84794f683a056967c53fe5626d2126429252b442`; 834,099 bytes.
+Related evidence/person/media: `E-281`; `P-399`; `IMG-0768`.
+Notes: Full-page masthead/date and the split-column **Seven Are Naturalized** item were visually inspected. The named list includes **Victor Wolf, Germany, Oregon City route 6**. It does not print S. Wolf, a target address, property, business or family relationship.
+
+## S-309 — Oregon Historical Records Index, Victor/Alice Wolf naturalization entries
+Type: Official Oregon Secretary of State compiled archival index; **underlying naturalization papers not inspected**.
+Search page: https://secure.sos.state.or.us/ohri/search.action
+Exact record pointers: `docRsn=722677`, `722678`, `722679`, `722408`, `722410`, `722411`; transcribed in the source capture.
+Related evidence/person: `E-281`; `P-399`.
+Repository capture: `evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md`.
+Notes: The index gives **Wolf, Victor John** and **Wolf, Victor** under 1922 Clackamas naturalization certificate case **1693777**, plus Victor Wolf under 1920 intention case **0786**. Alice-name entries share those case numbers. The index does not define relationships, explain name variants, give addresses/occupations or identify S. Wolf.

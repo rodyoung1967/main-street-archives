@@ -391,9 +391,12 @@ people:
     related_evidence:
       - E-096
       - E-103
+      - E-281
     related_sources:
       - S-111
       - S-117
+      - S-308
+      - S-309
 
   - id: P-036
     name: C. E. Gates
@@ -1259,3 +1262,12 @@ people:
     related_evidence: [E-271]
     related_sources: [S-297]
     repository_file: people/profiles/s-fesznecker.md
+
+  - id: P-399
+    name: Victor John Wolf
+    role: "Oregon City resident / 1922 naturalization identity control"
+    notes: >-
+      The 1920 Portland directory lists Victor (Alice) Wolf, Goodyear Rubber clerk, resident in Oregon City. A visually verified 27 June 1922 Morning Oregonian report lists Victor Wolf, Germany, Oregon City route 6, among persons naturalized on 26 June; the official Oregon Historical Records Index gives Victor John Wolf under Clackamas certificate case 1693777. Strong cross-source identity inference only. Do not merge with P-035 S. Wolf: the initial and close-dated Portland/Oregon City residence descriptions conflict, and no deed, signature, business, family or property bridge exists.
+    related_evidence: [E-113, E-281]
+    related_sources: [S-126, S-308, S-309]
+    repository_file: people/profiles/victor-john-wolf.md

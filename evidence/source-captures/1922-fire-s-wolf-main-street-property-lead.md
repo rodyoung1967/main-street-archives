@@ -191,7 +191,7 @@ https://ldsgenealogy.com/OR/books/Polks-Portland-City-Directory-1920-Vol-II-part
 
 Original scan: https://archive.org/download/CITY_DIRECTORY_PORTLAND_1920_2/page/n571.jpg. The cited left-column entries are intact; the delivered image clips part of the right column. See the [Tasks 5–6 audit](1922-tasks-5-6-identity-review-2026-08-28.md) for preserved images, exact readings, Gates comparisons and unresolved identity callouts.
 
-Samuel's clothing trade is superficially compatible with the clothing/shoe character of Wolf & Miller, but **that is not identity proof**. Searches using Samuel and Simon's full names have not yet produced a defensible Oregon City / Wolf & Miller / target-property bridge. Victor provides evidence of another Wolf with an Oregon City connection but does not match the `S. Wolf` initial. These entries should remain separate candidates/context until a deed, business record, family record, or property source makes a direct bridge.
+Samuel's clothing trade is superficially compatible with the clothing/shoe character of Wolf & Miller, but **that is not identity proof**. Searches using Samuel and Simon's full names have not yet produced a defensible Oregon City / Wolf & Miller / target-property bridge. `E-281` / `S-308`–`S-309` now identifies the separate local candidate as **Victor John Wolf** and directly reports Victor Wolf at Oregon City Route 6 on 26 June 1922. That sharper control weighs against merging him with the close-dated `S. Wolf of Portland`: the initial and residence descriptions conflict. These entries should remain separate candidates/context until a deed, business record, family record, or property source makes a direct bridge.
 
 ## Related 503 Main Wolf-family lead
 

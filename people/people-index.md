@@ -196,3 +196,9 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | P-398 | [S. Fesznecker](profiles/s-fesznecker.md) | Tin and repair shop operator | 12 Sep. 1919 Enterprise directly reports a move from Broadway to the building just south of the post office. Given name, exact address, ownership/tenancy and later chronology unresolved. `E-271`. |
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+## June 1922 identity control
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-399 | [Victor John Wolf](profiles/victor-john-wolf.md) | Oregon City resident / naturalization identity control | `E-281` combines a visually verified 26 June 1922 Oregon City Route 6 naturalization report with official Clackamas index case 1693777. Keep separate from `P-035` S. Wolf: initial and residence descriptions conflict, and no deed/business/property bridge exists. |

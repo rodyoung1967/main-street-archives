@@ -1069,9 +1069,16 @@ Preserved and registered five *Coquille Valley Sentinel* pages as `S-277` / `E-2
 
 Completed a thread-level preservation audit for the LaFarlette / Morton / Albert D. Flor / Margaret Remus / Kwality→Wheel research. Confirmed that the substantive oral-history leads, 1949 Flor Oregon City control, 1951 Flor+Remus liquor application, 1953 `Al & Marge Kwality Cafe`, Fred Remus cook control, 1957 Flor-at-503 control, Morton no-hit/retrieval-gap status, and MF-052 manual routes are already integrated. Preserved two important later corrections/improvements: **FamilySearch catalog 95422 is a 1960+ Polk series and must not be used for the 1953 Salisbury directory**, and the earliest recovered exact-address Wheel ad is now **28 March 1958**. Added `evidence/source-captures/2026-09-08-flor-morton-thread-knowledge-checkpoint.md`. No institutional request was sent.
 
+## 9 September 2026 — Victor John Wolf identity control
+
+- Visually verified the original *Morning Oregonian*, 27 June 1922, page 4 scan (`S-308` / `IMG-0768`). Its Oregon City, 26 June item lists **Victor Wolf, Germany, Oregon City Route 6**, among persons receiving final citizenship papers.
+- Checked official Oregon Historical Records Index detail pages (`S-309`): **Victor Wolf / Victor John Wolf**, 1922 Clackamas certificate case **1693777**, plus 1920 intention case **0786**; Alice-name entries share those case numbers. The underlying papers were not inspected and the index does not define relationships or variants.
+- Registered `E-281` / `P-399`. The sources strongly control the separate local candidate as Victor John Wolf but do not identify him as `P-035` S. Wolf. Different initial and close-dated Oregon City Route 6 / Portland descriptions weigh against the merger.
+- Reviewed timeline, building, business and ownership-timeline propagation. No target address, occupancy, property interest, structural event or storefront-model fact was established, so no such event/relation was created. 1922 remains **IN PROGRESS**.
+- Next: prioritize MF-006 Harding→Wolf/Gates deeds, MF-007 OHS title abstract, MF-019 assessment/ownership books and the restricted 1921–22 Polk Oregon City section. No outreach or paid order was made.
+
 ### 2026-09-09 — 19 January 1912 Courier pages 1–4 steward batch
 - Visually reviewed printed pages 1–4 and credited all four pages under the 1912 exhaustive audit.
 - Re-upload aliases with `(1)` suffixes were byte-identical to the first supplied PDFs by SHA-256; no duplicate binaries were retained.
 - Preserved exact canonical page PDFs at `newspapers/oregon-city-courier/1912-01-19-page-1.pdf` through `page-4.pdf` after hash-gated archive download; preservation commit `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.
 - Registered the batch as `S-307`; no new `E-###` was created because target screening produced no defensible new 501/503/505/507/509/511 claim. Page-1 high-water and dredging items remain non-target context. Page/image 8 Percy Cross / Harding Drug Store remains OCR/TEXT ONLY and pending visual review.
-

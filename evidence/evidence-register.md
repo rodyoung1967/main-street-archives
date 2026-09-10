@@ -2856,3 +2856,17 @@ Claims:
 - exact construction dates of the surviving 503 and 505 buildings remain unresolved.
 Classification: **RESEARCH-COVERAGE CERTIFICATION**, not historical proof of source silence.  
 Confidence: **Very High** for completion state as documented; unresolved for construction dates.
+
+## E-281 — Victor John Wolf June 1922 naturalization identity control
+Type: Primary newspaper visual evidence plus official compiled naturalization index.
+Sources/media: `S-126`, `S-308`, `S-309`; `IMG-0768`.
+People: `P-399`; comparison only to `P-035`.
+Claims:
+- the visually verified 27 June 1922 *Morning Oregonian* page 4 directly reports **Victor Wolf, Germany, Oregon City route 6**, among people receiving final citizenship papers at Oregon City on 26 June;
+- the Oregon Historical Records Index catalogs **Victor Wolf** and **Victor John Wolf** under 1922 Clackamas County certificate case **1693777**, and Victor Wolf under 1920 intention case **0786**;
+- with the visually verified 1920 directory entry for **Victor (Alice) Wolf**, resident in Oregon City, the sources strongly support **Victor John Wolf** as the controlled identity of that separate local candidate;
+- no source identifies him as S. Wolf, and the different initial plus close-dated **Oregon City Route 6** versus **of Portland** descriptions weigh against that merger;
+- no target address, business, deed, ownership interest or storefront model is established.
+Classification: **DOCUMENTED / DIRECT** for each source's visible/indexed fields; **STRONG CROSS-SOURCE INFERENCE** for Victor/Victor John identity; **NO IDENTITY BRIDGE** to S. Wolf.
+Confidence: **Very High** for newspaper wording and official index fields; underlying naturalization papers and S. Wolf identity unresolved.
+Capture: `evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md`.

@@ -123,7 +123,7 @@ No MF number is reused or renumbered. Items that are no longer immediate actions
 | MF-013 | **ACTIVE MANUAL** | **Yes** | Keep; ready-to-send draft now linked in section 1. |
 | MF-014 | **ACTIVE MANUAL** | **Yes** | Keep; foundational numbering source; ready-to-send draft now linked in section 1. |
 | MF-015 | **MERGED / OUTCOME** | **Question still matters; no separate request needed now** | “Wolf-family ownership c.1922–1972” is an outcome to be tested by MF-006, MF-007, MF-019/MF-020 and later title/deed work. Do not launch a vague separate request. |
-| MF-016 | **ONLINE-FIRST** | **Research still needed; manual action not yet justified** | Identity work for S. Wolf / Miller variants should continue with online directories, newspapers, census/vital and business records first. |
+| MF-016 | **ONLINE-FIRST** | **Research still needed; manual action not yet justified** | `E-281` now screens the local Victor candidate as Victor John Wolf and weighs against merging him with S. Wolf. Continue online work for Samuel/Simon and other variants, but use MF-006/MF-007/MF-019 for the decisive buyer/title evidence rather than repeating Victor searches. |
 | MF-017 | **ACTIVE — COMBINE** | **Yes** | 1925 license receipts remain needed; combine with MF-024 into one 1925–26 Recorder/finance license-ledger request. Finished draft is linked in section 4. |
 | MF-018 | **ACTIVE — COMBINE** | **Yes** | 1925 restaurant-inspection records remain needed; combine with MF-023 into one 1925–26 inspection/health-record request. Finished draft is linked in section 4. |
 | MF-019 | **ACTIVE MANUAL** | **Yes** | Keep and broaden to **1920–1925** to absorb omitted formal `1920-TAX01` callout; ready-to-send draft now linked in section 1. |

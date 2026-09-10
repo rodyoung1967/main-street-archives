@@ -2055,3 +2055,22 @@ sources:
     repository_file: "evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md"
     notes: "Four steward-supplied pages were visually reviewed and exact archive PDF derivatives preserved under newspapers/oregon-city-courier/. Duplicate (1) re-uploads are byte-identical and were not duplicated. No new target-block claim; page-1 high-water and river-channel items remain non-target context. Page-8 Percy Cross / Harding Drug Store lead is still OCR/TEXT ONLY."
 
+  - id: S-308
+    name: "Morning Oregonian, 27 June 1922, page 4, Victor Wolf naturalization"
+    url: "https://oregonnews.uoregon.edu/lccn/sn83025138/1922-06-27/ed-1/seq-4/"
+    type: "Primary newspaper page scan; visually verified"
+    date: "1922-06-27; event reported 1922-06-26"
+    repository_file: "newspapers/oregonian/1922-06-27-page-4-victor-wolf-naturalization.pdf"
+    related_evidence: [E-281]
+    related_people: [P-399]
+    notes: "Page 4 masthead/date and Seven Are Naturalized item visually verified. The report lists Victor Wolf, Germany, Oregon City route 6, among persons naturalized at Oregon City on 26 June. No S. Wolf, property, business or target address is printed. IMG-0768."
+
+  - id: S-309
+    name: "Oregon Historical Records Index, Victor/Alice Wolf naturalization entries"
+    url: "https://secure.sos.state.or.us/ohri/search.action"
+    type: "Official compiled archival index; underlying naturalization papers not inspected"
+    date: "1920 and 1922 index entries; checked 2026-09-09"
+    repository_file: "evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md"
+    related_evidence: [E-281]
+    related_people: [P-399]
+    notes: "Direct detail pages index Victor/Victor John Wolf under 1922 Clackamas certificate case 1693777 and Victor Wolf under 1920 intention case 0786; Alice-name entries share those case numbers. Index records do not define relationships, explain variants, or identify S. Wolf."
