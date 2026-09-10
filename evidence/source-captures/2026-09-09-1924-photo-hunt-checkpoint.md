@@ -75,3 +75,16 @@ Highest-value next step: attempt to **narrow the exposure date of CCHS P-267** a
 - A photograph's broad downtown coverage does not prove that a particular storefront is visible.
 - Target-bay identification based on established map geometry must remain distinct from readable address-number evidence.
 - Failed retrieval or inability to resolve a storefront in a low-resolution web image is a **retrieval/inspection gap**, not negative evidence that the storefront is absent.
+
+## Cross-record propagation audit
+
+Reviewed the related chronology/building/photo/evidence/research-lead propagation requirements after this hunt.
+
+- **P-267** is already fully registered as `S-312` / `E-284` / `IMG-0770`; this hunt does not change its institutional date range or the existing target-frontage interpretation, so no duplicate source/evidence/media IDs are warranted.
+- **Ralph Eddy No. 157 / CC0002** and **OHS 371N5709** remain **UNVERIFIED / BIBLIOGRAPHIC IMAGE LEADS** for the target block because the target frontage has not been visually established from an archival-resolution image. They are preserved here for follow-up rather than promoted to new historical evidence entries.
+- No occupant, business operator, property owner, licensee, demolition, construction, or exact exposure date was newly established.
+- No change is warranted to `timeline.md`, the 501/503/505 building histories, business/person records, YAML databases, crosswalk IDs, or annual closeout status from these two leads alone.
+- No absence inference is made from inability to resolve the target row in a web-sized image.
+- No institutional request, paid lookup, or restricted-access action was sent or authorized.
+
+This source capture is the canonical preservation point for the two newly surfaced photo leads until an original or sufficiently faithful archival image is retrieved and visually inspected. At that point, perform the full source/evidence/media and cross-record propagation audit required by `AGENTS.md`.
