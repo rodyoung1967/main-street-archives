@@ -37,7 +37,7 @@ The page directly establishes that on 1 August 1919:
 - it described itself as **two doors south of the new post office**;
 - it used **Phone 260**.
 
-The phrase **new post office** is consistent with the independently documented September 1918 relocation of Oregon City's Post Office into an M. D. Latourette-owned building on the east side of Main between Fifth and Sixth.
+The phrase **new post office** is consistent with the independently documented September 1918 relocation of Oregon City's Post Office into an east-side Main Street building between Fifth and Sixth and the visually verified April 1919 actual move into two adjoining store rooms.
 
 ## Address-normalization limit
 
@@ -79,7 +79,11 @@ Direct visual review shows **every inspected repeat prints `500`**, including 25
 
 Detailed repeat-set capture: `evidence/source-captures/1919-cleaner-repeat-visual-verification-2026-08-31.md`.
 
-## September 1919 comparison lead — Fesznecker
-<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+## September 1919 locality correction — do not use Fesznecker/Pesznecker as an Oregon City anchor
 
-A separate visually verified 12 Sep. 1919 item (`S-297` / `E-271`) says S. Fesznecker moved his tin and repair shop to **the building just south of the post office**. This can be compared with the cleaner's `two doors south of new post office` wording, but does not identify the cleaner, normalize `500 Fifth and Main streets`, or prove a one-door/two-door numbered storefront sequence.
+A previously appended comparison lead treated a 12 Sep. 1919 `S. Fesznecker` tin/repair-shop item as if it might supply another Oregon City Post Office relative-location anchor. Later cross-source review established that the person/business belongs to **Estacada**, not Oregon City. The comparison is therefore withdrawn from the Oregon City Post Office model and must not be used to infer a one-door/two-door storefront sequence here.
+
+Canonical correction:
+`evidence/source-captures/1919-fesznecker-pesznecker-estacada-locality-correction.md`
+
+This correction does not change the verified 1919 cleaner/dyer wording or its unresolved address/identity status.
