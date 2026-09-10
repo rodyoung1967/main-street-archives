@@ -3,13 +3,12 @@
 Date: 9 September 2026  
 Status: **IN PROGRESS — ISSUE-INVENTORY / RETRIEVAL CHECKPOINT**
 
-Purpose: continue the current-standard 1912 *Oregon City Courier* audit from authoritative `main` without restarting the year or reviving the obsolete `research/1912-main-street` branch. This checkpoint records page-count controls, visual-credit inheritance, and retrieval gaps only. It does not create a new historical claim from OCR or issue metadata.
+Purpose: continue the current-standard 1912 *Oregon City Courier* audit from authoritative `main` without restarting the year or reviving the obsolete `research/1912-main-street` branch. This checkpoint records page-count controls, visual-credit inheritance, and retrieval gaps only. It does not create a historical claim from OCR or issue metadata.
 
 ## Synchronization / parallel-work control
 
-- Current `main` advanced during this session through `163addd3aafde395c04641a7c74b565640979823` (`Remove temporary Jan 19 Courier metadata script`).
-- Parallel 1912 work on `main` visually reviewed and archived **19 January printed pages 1–4** as `S-307`; those four pages are credited here and are not re-reviewed.
-- The active branch for this additive continuation is `research/1912-exhaustive-resume-2026-09-09`, fast-forwarded to the current `main` before this checkpoint was written.
+- Parallel 1912 work on `main` visually reviewed and archived **19 January printed pages 1–4** as `S-307` and pages **5–8** as `S-310`; that issue is now complete at **8/8 VISUALLY VERIFIED**.
+- A later controlled retrieval pass preserved `evidence/source-captures/retrieval-manifests/1912-courier-gap-recovery-2026-09-09.tsv` in commit `a7b1fb3fc3d845b2b9da492aa31fc1913508bd29`. That manifest resolves several issue-size questions but, by itself, does **not** supply visual-review credit.
 - `1912` remains **IN PROGRESS** in `registers/year-status.md`.
 
 ## 19 January 1912 — current state
@@ -20,9 +19,9 @@ Page 8 directly states that **Percy Cross accepted a position in the Harding dru
 
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/seq-8/
 
-This **supersedes the earlier OCR/TEXT ONLY / pending-scan state** recorded in the first version of this checkpoint. The page prints no street number. `E-092` independently places George A. Harding at 511 Main on 5 January, so interpreting this as the same 511 store is a strong cross-source inference, not wording printed on page 8.
+This **supersedes the earlier OCR/TEXT ONLY / pending-scan state** recorded in the first version of this checkpoint. The page prints no street number. `E-092` independently places George A. Harding at 511 Main on 5 January, so interpreting this as the same 511 store is a **STRONG CROSS-SOURCE INFERENCE**, not wording printed on page 8.
 
-## Additional issue-size controls recovered / reconfirmed
+## Earlier explicit issue-size controls
 
 The Historic Oregon Newspapers page header (`Page [Select] of N`) is used here as an archive issue-size control only; it is not visual-review credit.
 
@@ -50,17 +49,33 @@ Representative canonical pages:
 
 These controls reduce the page-count backlog but do not certify the underlying pages as visually reviewed.
 
-## Still-unresolved narrow Courier issue-count / sequence gaps
+## 9 September controlled PDF-sequence retrieval — count gaps resolved
 
-The following remain unresolved unless a newer current-main checkpoint supersedes this list:
+The preserved retrieval manifest tested canonical native-PDF sequence URLs through **sequence 12** for the remaining suspect issues. A valid PDF means the canonical archive returned an actual PDF object; `404` means that tested sequence did not exist at that route. This is a **retrieval / issue-inventory control**, not a claim that every returned page has been visually reviewed.
 
-- **3 May 1912** — images 1–6 are exposed; no authoritative complete-count control recovered. Do not infer 6 or 8.
-- **17 May 1912** — later images are exposed, but the known archive association defect remains: the object in the image-2 slot carries a 10 May masthead. Complete count and the genuine 17 May image 2 remain unresolved.
-- **24 May 1912** — pages through at least image 7 are exposed; no authoritative complete-count control recovered in this continuation.
-- **2 August 1912** — images through at least 7 are exposed; no authoritative image-8/all-pages control recovered. Do not infer an eight-image issue from image 7.
-- **13 December 1912** — image 8 is indexed, but no independent `of N` header control was recovered in this continuation; preserve the distinction between image-8 existence and a certified complete issue count.
+| Issue date | Controlled result | Current issue-count conclusion |
+| --- | --- | --- |
+| **23 Feb. 1912** | seq. **1–8** valid PDFs; seq. **9–12 = 404** | **8 archive images** |
+| **3 May 1912** | seq. **1–8** valid PDFs; seq. **9–12 = 404** | **8 archive images** |
+| **17 May 1912** | seq. **1–8** return PDFs; seq. **9–12 = 404** | **8 archive slots**, but **seq. 2 is misassociated** and visibly/textually carries a **10 May** masthead; genuine 17 May page/image 2 remains a retrieval gap |
+| **24 May 1912** | seq. **1–8** valid PDFs; seq. **9–12 = 404** | **8 archive images** |
+| **2 Aug. 1912** | seq. **1–8** valid PDFs; seq. **9–12 = 404** | **8 archive images** |
+| **13 Dec. 1912** | seq. **1–10** valid PDFs; seq. **11–12 = 404** | **10 archive images** — supersedes the earlier assumption/control that only an image-8 endpoint was known |
 
-The 23 February issue has an indexed image 8; if strict all-pages control is required, retain it as a count-control follow-up until an explicit `of N` header or equivalent complete list is captured rather than inferring the issue size solely from image 8.
+Manifest: `evidence/source-captures/retrieval-manifests/1912-courier-gap-recovery-2026-09-09.tsv`.
+
+This substantially closes the previously listed count-control backlog. In particular, **3 May, 24 May, 2 August, and 13 December no longer remain unresolved issue-size questions**, and 23 February is controlled as eight images. The unusual **10-page 13 December issue** must be carried forward as such rather than normalized to the more common eight-page pattern.
+
+## Remaining narrow Courier sequence gap
+
+The remaining problem from this specific count-reconciliation set is **17 May 1912, sequence/image 2**. The archive exposes eight sequence slots, but its `seq-2` object is not the genuine 17 May page: it carries a **10 May 1912** masthead. Therefore:
+
+- the archive-slot count can be recorded as **8**;
+- **seq. 2 cannot receive 17 May visual-review credit**;
+- the genuine 17 May page/image 2 remains a **RETRIEVAL GAP** unless recovered from another derivative, institution, microfilm, or alternate archive object;
+- the misassociated 10 May object must not be silently counted twice or treated as 17 May historical evidence.
+
+This is an archive-association defect, not evidence that the genuine page did not exist.
 
 ## Additional 1912 construction / street-work context surfaced while reconciling pages
 
@@ -87,19 +102,17 @@ This is northern Main Street paving context. It does **not** establish Fifth–S
 
 ## Cross-record decision
 
-No new `E-###` or `S-###` is created from this checkpoint because:
+No new historical `E-###` or external-source `S-###` is created from the issue-count manifest because these results are archive-coverage metadata, not new historical propositions. The manifest is preserved for auditability and this checkpoint carries the corrected issue-size states.
 
-- the newly tightened issue counts are archive-coverage metadata;
-- the Percy Cross item remains OCR-only pending scan certification;
-- the March new-block and September paving items are not yet mapped to the target frontage and do not alter a target-address conclusion.
+The Percy Cross / Harding Drug Store notice is no longer pending: it is separately registered as **VISUALLY VERIFIED `E-282` / `S-310`**. The March new-block and September paving items remain outside the target frontage unless independent location evidence provides a bridge.
 
-The correct propagation is this additive coverage checkpoint plus continued `IN PROGRESS` status.
+The correct propagation from this count pass is the corrected inventory/retrieval checkpoint plus continued **1912 IN PROGRESS** status.
 
 ## Next exact actions
 
 1. **19 January pages 1–8 are complete and visually verified; no further recovery is needed for that issue.**
-2. Resolve the remaining Courier count/sequence gaps: **3 May, 17 May (including genuine image 2), 24 May, 2 August**, and strict controls for any issue where only image-8 existence is known.
-3. Continue actual scan-by-scan Courier visual review, crediting `S-307` and all older verified pages instead of repeating them.
+2. Preserve **17 May genuine image/page 2** as the remaining specific Courier sequence-recovery target from this gap set; do not credit the misassociated 10 May object.
+3. Continue actual scan-by-scan Courier visual review using the now-recovered PDFs for the count-controlled issues, crediting prior verified pages rather than repeating them.
 4. Continue the *Morning Enterprise* July/August ledger and then remaining months.
 5. Continue the weekly *Oregon City Enterprise* full-year ledger and visual/retrieval states.
 6. Keep `RL-038` open: no independent bridge has yet mapped the 10 May Main Street teardown statement to 501/503/505/507 or the target Block 4 frontage.
@@ -107,4 +120,4 @@ The correct propagation is this additive coverage checkpoint plus continued `IN 
 
 ## Current-main preservation note — 9 September 2026
 
-This checkpoint was ported additively to `research/1912-live-audit-2026-09-09` from the earlier short-lived resume branch after confirming that the old `research/1912-main-street` branch was more than a thousand commits stale and must not be merged. Current `main` already contains the verified claim-level 1912 evidence and the 19 January pages 1–4 integration. No existing ID or historical conclusion was replaced by this preservation step.
+This checkpoint is additive to the current `main` work and must not be used to revive or merge the obsolete `research/1912-main-street` branch. Current `main` contains the claim-level 1912 evidence, the complete 19 January visual review, and the controlled gap-retrieval manifest. No historical claim is inferred from a missing archive object or from issue-size metadata alone.
