@@ -94,11 +94,18 @@ Do not currently claim that:
 
 This materially qualifies this capture's earlier statement that the September 1918 source proved Latourette ownership of the leased building. The **1918 source does directly print that ownership description**, but the **1919 source directly conflicts with it**. Current classification: **UNRESOLVED CONTEMPORARY OWNERSHIP-DESCRIPTION CONFLICT**. Possible agency, building-name, ownership-date or reporting differences remain hypotheses until lease/deed/property records resolve them.
 
-## September 1919 relative-location corroboration
-<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+## September 1919 locality correction — former `Fesznecker` corroboration withdrawn
+<!-- 1919 Pesznecker locality correction — 2026-09-09 -->
 
-`S-297` / `E-271` adds a direct post-move neighborhood anchor: S. Fesznecker's tin and repair shop moved from Broadway to **the building just south of the post office** by 12 Sep. 1919. No number/parcel is printed and the item does not resolve the 1918/1919 post-office ownership-description conflict.
+The 12 Sep 1919 Enterprise item previously treated here as an Oregon City post-office-neighborhood anchor is **withdrawn from this reconstruction**. The paper printed `S. Fesznecker` moving a tin/repair shop from Broadway to a building just south of a post office, but a next-week 19 Sep item in the explicitly labeled **Estacada** correspondence section describes **S. Pesznecker** and the same machine/plumbing trade there. Independent contemporary records repeatedly place S. P. / Stephen Pesznecker in Estacada.
+
+Current classification: the 12 Sep source wording remains visually verified, but its earlier **Oregon City Fifth/Main locality interpretation was wrong**. It belongs to Estacada business geography and must not be used to locate the Oregon City Post Office, cleaner/dyer, or 501/503/505 frontage.
+
+Detailed correction:
+`evidence/source-captures/1919-fesznecker-pesznecker-estacada-locality-correction.md`
 
 ## Cross-record propagation audit — 9 Sep 2026
 
-The August proposal's verification state changed from OCR/TEXT ONLY to VISUALLY VERIFIED. This confirms an already-preserved source conflict; it does not establish a new Post Office bay, modern odd-side storefront mapping, business identity, or ownership fact. No building/business/person/YAML entity fact is promoted solely from this status change.
+The August proposal's verification state changed from OCR/TEXT ONLY to VISUALLY VERIFIED. This confirms an already-preserved source conflict; it does not establish a new Post Office bay, modern odd-side storefront mapping, business identity, or ownership fact.
+
+The later Pesznecker correction removes one formerly claimed Oregon City neighborhood corroboration. The valid Oregon City Post Office controls remain the Sep 1918 lease, Apr 1919 actual move, the 1919 cleaner/dyer `two doors south` source, and the 1922 Dr. Freeze/Miller/522 Main relative-location evidence.
