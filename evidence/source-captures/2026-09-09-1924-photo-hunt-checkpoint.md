@@ -4,15 +4,15 @@ Review date: **9 September 2026**
 
 Scope: targeted search for photographs from **1923–1925** that may show **501, 503, or 505 Main Street, Oregon City**, including images cataloged under bluff views, bridge views, downtown streetscapes, nearby landmarks, and other non-address descriptions.
 
-## Confirmed repository control: CCHS P-267
+## Confirmed repository control: CCHS P‑267
 
-Clackamas County Historical Society photograph **P-267**, **“Oregon City and the Arch Bridge as Seen from Bluff,”** is already preserved in the repository as `IMG-0770`.
+Clackamas County Historical Society photograph **P‑267**, **“Oregon City and the Arch Bridge as Seen from Bluff,”** is already preserved in the repository as `IMG-0770`.
 
 Institutional metadata dates the photograph **1924–1928**. The project steward identifies the later-numbered **501/503/505 target row** in the image; direct visual comparison supports a materially changed post-1918 frontage state. The street numbers themselves are not readable in the photograph, and the CCHS date is a range rather than an exact exposure year.
 
 Therefore:
 
-- it is **possible** that P-267 was taken in **1924**;
+- it is **possible** that P‑267 was taken in **1924**;
 - it is **not proven** that the exposure year was 1924;
 - it is currently the strongest known photograph in the project that both falls within a date range beginning in 1924 and visibly includes the target frontage;
 - it must not be described as an exact-1924 target-frontage photograph without narrower dating evidence.
@@ -61,13 +61,13 @@ The strongest present photographic sequence is:
 
 1. **1918** — CCHS bluff photograph documenting the predecessor target-frontage state.
 2. **1924** — Ralph Eddy No. 157 / CC0002, exact-year Oregon City photograph; target-row visibility **unproven**.
-3. **1924–1928** — CCHS P-267 / `IMG-0770`, target row spatially identified; exact exposure year **unresolved**.
+3. **1924–1928** — CCHS P‑267 / `IMG-0770`, target row spatially identified; exact exposure year **unresolved**.
 4. **1923–1936** — OHS 371N5709, downtown-from-bluff candidate; target visibility and exact year **unresolved**.
 5. **1925** — Sanborn map remains the tighter independent by-1925 building-layout control, but is not photographic evidence.
 
 ## Research priority
 
-Highest-value next step: attempt to **narrow the exposure date of CCHS P-267** and obtain/inspect the full-resolution **Ralph Eddy No. 157** image. Either route could materially tighten the chronology of the frontage replacement/reconfiguration between the documented 1918 state and the 1925 Sanborn state.
+Highest-value next step: attempt to **narrow the exposure date of CCHS P‑267** and obtain/inspect the full-resolution **Ralph Eddy No. 157** image. Either route could materially tighten the chronology of the frontage replacement/reconfiguration between the documented 1918 state and the 1925 Sanborn state.
 
 ## Evidence limits
 
@@ -80,7 +80,7 @@ Highest-value next step: attempt to **narrow the exposure date of CCHS P-267** a
 
 Reviewed the related chronology/building/photo/evidence/research-lead propagation requirements after this hunt.
 
-- **P-267** is already fully registered as `S-312` / `E-284` / `IMG-0770`; this hunt does not change its institutional date range or the existing target-frontage interpretation, so no duplicate source/evidence/media IDs are warranted.
+- **P‑267** is already fully registered as `S-312` / `E-284` / `IMG-0770`; this hunt does not change its institutional date range or the existing target-frontage interpretation, so no duplicate source/evidence/media IDs are warranted.
 - **Ralph Eddy No. 157 / CC0002** and **OHS 371N5709** remain **UNVERIFIED / BIBLIOGRAPHIC IMAGE LEADS** for the target block because the target frontage has not been visually established from an archival-resolution image. They are preserved here for follow-up rather than promoted to new historical evidence entries.
 - No occupant, business operator, property owner, licensee, demolition, construction, or exact exposure date was newly established.
 - No change is warranted to `timeline.md`, the 501/503/505 building histories, business/person records, YAML databases, crosswalk IDs, or annual closeout status from these two leads alone.
