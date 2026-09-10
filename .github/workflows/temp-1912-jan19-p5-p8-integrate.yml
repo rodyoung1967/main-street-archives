@@ -1,4 +1,5 @@
 name: Temporary Jan 19 1912 Courier pages 5-8 integration
+# rerun after YAML/person-ID handling fix
 
 on:
   push:
