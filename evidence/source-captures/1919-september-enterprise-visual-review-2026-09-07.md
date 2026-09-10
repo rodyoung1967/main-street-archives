@@ -23,21 +23,37 @@ Retrieval commit: `d630baf` (`Archive September 1919 Oregon City newspaper scans
 
 All 32 recovered Enterprise pages were visually checked for printed publication/date/page identity before text-assisted discovery. No substituted-page, duplicate-page, or printed-date defect was found in the recovered Enterprise set.
 
-## New direct spatial/business finding — 12 September p.2
+## 12 September p.2 — Pesznecker locality correction
 
 The original **12 Sep. 1919 Enterprise p.2** scan visibly states:
 
 > **S. Fesznecker has moved his tin and repair shop from Broadway to the building just south of the post office.**
 
-This is **DOCUMENTED / DIRECT** evidence for a business move and relative location. The source does **not** print a formal trade name, exact street, street number, parcel, building owner, lease terms, or legal lot. `S. Fesznecker tin and repair shop` is therefore an archive descriptive label only.
+The transcription/source wording remains **DOCUMENTED / DIRECT**. However, the archive's original interpretation of this as an **Oregon City Fifth/Main Post Office** reference is **withdrawn**.
 
-The post-office landmark is independently established by April 1919 evidence (`S-292` / `E-266`) as the new Oregon City Post Office quarters at Fifth and Main, in two combined store rooms. The September wording therefore creates a useful relative-location anchor near that post office, but it is not normalized to any numbered Main or Fifth address.
+### Why the locality changed
 
-### Relationship to the cleaner/dyer spatial control
+The **19 Sep 1919 Enterprise p.2**, one week later, contains a follow-up within the page's clearly labeled **`Estacada`** correspondence section. It says a new building was being erected just north of **S. Pesznecker's residence**, which Pesznecker would use for his **machine and plumbing shop** and auto-livery business.
 
-Existing `S-152` / `E-136` directly prints the unnamed cleaner/dyer in July–early September at **`500 Fifth and Main streets`**, **`two doors south of new post office`**, Phone 260. The Fesznecker item one week later says **`the building just south of the post office`**.
+Independent contemporary records repeatedly place **S. P. / Stephen Pesznecker** in Estacada and in the same mechanical trades:
 
-Together these are a **spatial comparison lead**, not proof that the two businesses occupied adjacent numbered storefronts, not proof of a one-door/two-door sequence, and not proof that either occupied 501/503/505. `just south` is less exact than `two doors south`, and the cleaner's unusual `500 Fifth and Main streets` wording remains unresolved.
+- 1917 — Cascade Garage, S. P. Pesznecker, Estacada;
+- 1917 — automobile registration for Stephen Pesznecker, Estacada;
+- 1920 — S. P. Pesznecker Machine Shop advertising plumbing, tinning, wiring and repairing in Estacada;
+- 1922 — continuing S. P. Pesznecker business references in Estacada.
+
+The 12 Sep spelling `Fesznecker` is therefore preserved as source wording, while `Fesznecker = S. P. Pesznecker of Estacada` is classified as a **STRONG CROSS-SOURCE IDENTITY INFERENCE**.
+
+### Research consequence
+
+The 12 Sep move must **not** be used as an Oregon City Main Street spatial anchor. `Broadway` and `the post office` in this item belong to the **Estacada** business geography.
+
+The previous comparison between this item and the Oregon City cleaner/dyer's separately verified `two doors south of new post office` wording (`E-136`) is also **withdrawn**. They refer to different towns.
+
+This correction does not alter the September visual-coverage count or the direct transcription of the source; it corrects the locality interpretation and project relevance.
+
+Detailed correction:
+`evidence/source-captures/1919-fesznecker-pesznecker-estacada-locality-correction.md`
 
 ## Theroux Music House — 210 Seventh Street through 26 September
 
@@ -64,9 +80,11 @@ Direct probing reconfirmed that **4, 11, 18 and 25 September 1919 Banner-Courier
 
 ## Cross-record propagation audit
 
-Updated: source/evidence registers and YAML; new Fesznecker person/business records; post-office spatial-anchor captures; cleaner/post-office comparison lead; Theroux chronology; business timeline; master timeline; address register; research leads; ID crosswalk; 1919 construction checkpoint; Banner-Courier access checkpoint; year-status; archive index; historical-society supplement; and research log.
+The original review updated source/evidence registers and YAML; new person/business records; post-office spatial-anchor captures; cleaner/post-office comparison lead; Theroux chronology; business timeline; master timeline; address register; research leads; ID crosswalk; 1919 construction checkpoint; Banner-Courier access checkpoint; year-status; archive index; historical-society supplement; and research log.
 
-Reviewed but deliberately **not** changed: 501/503/505 building histories, ownership timeline, Wheel/Kwality/Farr-pool-hall relations, and cleaner evidence `E-136`. September does not establish a numbered target occupant or target structural/ownership event.
+**9 Sep 2026 correction:** the `Fesznecker/Pesznecker` source was reclassified as **Estacada**, not Oregon City Fifth/Main. The source/evidence IDs remain preserved, but any use of `E-271` as an Oregon City Post Office or 501/503/505 spatial control is superseded. Related records should point to `evidence/source-captures/1919-fesznecker-pesznecker-estacada-locality-correction.md`.
+
+Reviewed but deliberately **not** changed by the original September pass: 501/503/505 building histories, ownership timeline, Wheel/Kwality/Farr-pool-hall relations, and cleaner evidence `E-136`. September does not establish a numbered target occupant or target structural/ownership event.
 
 ## Next chronological step
 
