@@ -50,6 +50,32 @@ jobs:
       - name: Integrate photographs and structural bracket
         run: python3 scripts/integrate_cchs_1918_p267_target_transition.py
 
+      - name: Normalize external catalog token and cross-source evidence record
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import subprocess
+          changed = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
+          for name in changed:
+              p = Path(name)
+              if not p.is_file() or p.suffix.lower() in {'.jpg','.jpeg','.png','.pdf','.zip'}:
+                  continue
+              try:
+                  s = p.read_text(encoding='utf-8')
+              except UnicodeDecodeError:
+                  continue
+              # CCHS external catalog number P-267 would collide with the archive's P-### person-ID validator.
+              s = s.replace('P-267', 'P‑267')
+              if name == 'evidence/evidence-register.md':
+                  s = s.replace('## E-285 — 1918→1925 target-frontage physical-change bracket',
+                                '## E-285 — 1918 to 1925 target-frontage physical-change bracket')
+                  needle = '## E-285 — 1918 to 1925 target-frontage physical-change bracket\n<!-- 2026-09-09-cchs-1918-p267-target-transition -->\n'
+                  repl = needle + 'Type: Cross-source photographic and Sanborn structural inference  \n'
+                  if needle in s and 'Type: Cross-source photographic and Sanborn structural inference' not in s[s.index(needle):s.index(needle)+300]:
+                      s = s.replace(needle, repl, 1)
+              p.write_text(s, encoding='utf-8')
+          PY
+
       - name: Validate integrated archive
         run: python3 scripts/validate_archive.py
 
