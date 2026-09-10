@@ -1,7 +1,7 @@
 # Fred J. Remus Jr. disambiguation pass — 9 September 2026
 
 Research stream: **503 Main / Kwality Cafe — Fred Remus identity control**  
-Status: **UNVERIFIED IDENTITY LEAD / CONFLICTING 1951 LOCATION CONTROLS — DO NOT MERGE WITH OREGON CITY FRED REMUS**
+Status: **UNVERIFIED IDENTITY LEAD / CHANUTE STALE-ADDRESS CONTROL + MOSES LAKE 1951 CONTROL — DO NOT MERGE WITH OREGON CITY FRED REMUS**
 
 ## Purpose
 
@@ -53,6 +53,28 @@ The PDF text layer was inspected and the passage is on the second scanned page. 
 
 Research value: a surviving marriage record or announcement from approximately spring/summer 1950 could provide a spouse name, age, residence, parents, or military station and become a high-value identity discriminator.
 
+### October 1950 — Chanute Field address explicitly stale / returned mail
+
+A later search of the **October 1950** issue of *The National Fantasy Fan* materially changes how the Chanute Field address must be interpreted. In its membership-information section, the issue prints the heading:
+
+**`LOST - We've had mail returned from the following`**
+
+and beneath that heading lists:
+
+- **Sgt. Fred J. Remus Jr.**;
+- service number rendered by the text layer as **AF 19278700**;
+- **Branch PO, Chanute Field, Illinois**.
+
+Source:
+
+- https://fanac.org/fanzines/TNFF/TNFF-0905.pdf
+
+The indexed PDF text places the heading and Remus line together on printed/page-image 18. A screenshot attempt for that original scanned page failed with a cache miss in the current environment. Classification: **OCR/TEXT ONLY / SCAN VISUAL CERTIFICATION OPEN**.
+
+The heading is crucial: this is **not evidence that Chanute Field was his current October 1950 address**. It is evidence that mail sent to that listed Chanute address had already been returned and that the organization was seeking a new address.
+
+This sharply weakens the earlier interpretation of the April 1951 Chanute listing as a second contemporary posting. Chanute is now a **documented stale-address/contact failure by October 1950**, subject to scan certification.
+
 ### February 1951 — Moses Lake, Washington
 
 The February 1951 *Namelessentials* directory of Pacific Northwest fan editors lists:
@@ -68,9 +90,11 @@ Source:
 
 The PDF text/extraction was inspected. Screenshot retrieval of the scan failed with a cache miss, so classification remains **OCR/TEXT ONLY / SCAN VISUAL CERTIFICATION OPEN**.
 
-This is direct contemporary directory-text evidence that the candidate Fred J. Remus was being listed as an Air Force sergeant at Moses Lake in early 1951. It is not evidence that he lived in Morton, Washington, or Oregon City.
+The service number as extracted here matches the October 1950 returned-mail Chanute line. Taken together, those two text sources support the working interpretation that the organization had lost contact with Remus at Chanute by October 1950 and that a later fan directory associated the same named sergeant with the **Base Weather Station at Moses Lake** by its February 1951 publication date.
 
-### April 1951 — Chanute Field, Illinois conflict/control
+This still does not prove the exact date of a military transfer, physical residence, or arrival in Washington.
+
+### April 1951 — Chanute Field roster appears to carry stale information
 
 The April 1951 issue of *The National Fantasy Fan* contains an NFFF membership roster listing:
 
@@ -82,22 +106,23 @@ Source:
 
 - https://www.fanac.org/fanzines/TNFF/TNFF-1002.pdf
 
-The same issue states that the membership roster was compiled by NFFF secretary-treasurer Bill Berger and instructs members to report address changes. This supports treating the roster as an intended contact-address source, while still allowing publication lag or stale member data.
+The same issue states that the membership roster was compiled by NFFF secretary-treasurer Bill Berger and instructs members to report address changes. The PDF text layer was inspected; the screenshot renderer failed with a cache miss. Classification: **OCR/TEXT ONLY / SCAN VISUAL CERTIFICATION OPEN**.
 
-The PDF text layer was inspected; the screenshot renderer again failed with a cache miss. Classification: **OCR/TEXT ONLY / SCAN VISUAL CERTIFICATION OPEN**.
+Read in isolation, this April roster once appeared to create a Moses Lake-versus-Chanute location conflict. The newly recovered October 1950 `LOST` notice changes that interpretation: **the Chanute address was already explicitly known to produce returned mail before the April 1951 roster appeared**. The April roster therefore is best treated as a **stale-address carry-forward / roster-maintenance artifact unless contrary evidence shows that Remus returned to Chanute**.
 
-The service-number transcription differs by one digit from the February source (`19278700` versus `19273700`). Because both sources give the same uncommon full name, military rank, and near-contemporary context, they are a strong candidate for the same serviceman, but the number discrepancy must remain unresolved until the original scans or an independent military record are checked.
+The April service-number extraction differs by one digit from the matching October 1950 and February 1951 text (`19273700` versus `19278700`). That may be OCR or source typographical error; it must remain unresolved until the original scan or an independent military record is checked.
 
-### Interpretation of the two 1951 locations
+### Revised interpretation of the 1950–1951 location sequence
 
-The February and April publications create **CONFLICTING / MULTIPLE CONTEMPORARY CONTACT-LOCATION CONTROLS**:
+The current source sequence is now:
 
-- February publication: Moses Lake, Washington;
-- April publication: Chanute Field, Illinois.
+1. **October 1950 TNFF:** Chanute Field appears under a returned-mail / `LOST` heading — **stale contact address**.
+2. **February 1951 Namelessentials:** Sgt. Fred J. Remus is listed at **Base Weather Station, Moses Lake, Washington**, with the same extracted service number as the October stale-address notice and with `Tales From Uncle Remus` association.
+3. **April 1951 TNFF:** Chanute Field reappears in a general membership roster, but that address had already been flagged as bad six months earlier — **probable stale carry-forward**, not good evidence of a renewed Chanute posting.
 
-Do **not** automatically narrate this as a February→April transfer. Either publication may contain older contact information, and the NFFF roster itself warns about address changes. The safe conclusion is only that the candidate Fred J. Remus Jr. was associated in contemporary fan directories with both an Air Force weather-station address at Moses Lake and a Chanute Field military postal address during the 1951 publication interval.
+Classification: **STRONG CROSS-SOURCE CONTACT-ADDRESS INFERENCE / OCR-TEXT ONLY** that Moses Lake superseded the old Chanute fan-contact address by early 1951. This is still not military-transfer proof and must not be converted into exact movement dates.
 
-This makes the candidate's precise residence/posting chronology unresolved.
+This revised sequence makes the candidate's Pacific Northwest presence in early 1951 more coherent than the earlier equal-weight `conflicting locations` formulation, but it still does not connect him to Oregon City in 1953.
 
 ## Later fandom continuity controls
 
@@ -117,7 +142,7 @@ The convention-photo caption is text-layer evidence only in this pass; no succes
 
 ### What is supported
 
-A contemporary fan/military person named **Fred J. Remus Jr.** existed and was active in fandom by 1949–1951; he was referred to as a sergeant, was associated with `Tales From Uncle Remus`, and appears in early-1951 directory material with Moses Lake and Chanute Field military addresses.
+A contemporary fan/military person named **Fred J. Remus Jr.** existed and was active in fandom by 1949–1951; he was referred to as a sergeant and associated with `Tales From Uncle Remus`. By October 1950 his former Chanute Field fan-mail address was explicitly returning mail, and a February 1951 Pacific Northwest directory lists the same named sergeant and matching extracted service number at the **Base Weather Station, Moses Lake, Washington**.
 
 ### What is NOT supported
 
@@ -134,19 +159,19 @@ The correct classification is therefore:
 
 **UNVERIFIED IDENTITY LEAD / DISAMBIGUATION CONTROL — DO NOT MERGE.**
 
-The multiple 1951 military-contact locations make a simplistic Washington→Oregon continuity narrative less secure, but they do not exclude a later Oregon move by 1953.
+The October 1950 returned-mail control makes Moses Lake the stronger early-1951 contact-location evidence and removes most of the apparent Chanute-vs-Moses Lake contradiction. It still does not establish what happened between Moses Lake in 1951 and the separate Oregon City Fred Remus control in 1953.
 
 ## Highest-value next tests
 
 1. Recover a **1952–1954 address-bearing fan directory, SAPS roster, mailing envelope/address block, or Fred Remus publication colophon**.
-2. Identify the wife from the **circa June 1950 marriage** lead; search marriage licenses/announcements using Fred J. Remus Jr., military rank, Moses Lake, and Chanute/Rantoul controls.
+2. Identify the wife from the **circa June 1950 marriage** lead; search marriage licenses/announcements using Fred J. Remus Jr., military rank, Chanute/Rantoul as a pre-October-1950 control, and Moses Lake/Grant County as the stronger early-1951 control.
 3. Recover the **1953 T. W. Salisbury Oregon City & Vicinity Directory** and capture Fred Remus's alphabetical entry, 902 Fifth entry, occupation, spouse notation, telephone number, and any middle initial.
 4. Search Oregon/Washington newspapers and directories for **Fred J. Remus Jr.** and the eventual spouse name once identified.
-5. If military records become available, reconcile the service number and duty-station chronology before using the Moses Lake/Chanute addresses as a movement sequence.
+5. If military records become available, reconcile the service number and duty-station chronology before treating fan mailing addresses as exact transfer dates.
 
 ## Cross-record propagation audit
 
-This pass creates a new **identity-disambiguation research control**, not a new historical Oregon City entity fact. Therefore:
+This pass creates and refines an **identity-disambiguation research control**, not a new historical Oregon City entity fact. Therefore:
 
 - do not create or merge a person ID for Fred J. Remus Jr. with the existing Oregon City Fred Remus based on this material;
 - do not alter the 503/Kwality chronology;
