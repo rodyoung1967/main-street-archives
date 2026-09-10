@@ -40,6 +40,15 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1918-09-12/ed-1/seq-1/
 
 This is direct contemporary evidence that the Post Office moved again, this time to the east side of the Fifth–Sixth Main block.
 
+### 8 August 1918 pre-award proposal — visually verified but superseded
+
+The actual scanned page of the **8 Aug 1918 Oregon City Courier, p. 1** has also been visually inspected. Its `UNOFFICIAL REPORT SAYS POST-OFFICE MAY MOVE` item genuinely describes a different proposed site **at Fourth and Main / Main between Fourth and Fifth**, then occupied by **Klemsen's grocery and a furniture store**.
+
+That wording is not an OCR error. It is an explicitly unofficial pre-award proposal and conflicts with the later **12 Sep 1918 settled lease** and **15 Apr 1919 actual move** to Fifth/Main. Keep the conflict; do not use the August proposal as the fire-period location.
+
+Detailed note:
+`evidence/source-captures/1918-post-office-preaward-klemsen-furniture-room-candidates.md`
+
 ## City historic inventory — Latourette-David-Barlow = 504–514 Main
 
 The City of Oregon City's **2000 Downtown Final Report**, printed p. 30, has been visually inspected. Its historic-resource table lists:
@@ -102,7 +111,7 @@ The project was dealing with **different Post Office locations at different date
 
 1. **circa 1912** — earlier Main Street Post Office, probably on the odd-numbered west side; 513 remains only a working candidate;
 2. **1913/14 through 1918** — Weinhard Estate Post Office at **Eighth & Main**;
-3. **post-September 1918 / fire-period 1922** — M. D. Latourette building on the **east/even side of Main between Fifth and Sixth**, within the later **504–514 Main** range.
+3. **post-September 1918 / fire-period 1922** — east/even side of Main between Fifth and Sixth, within the later **504–514 Main** range.
 
 Therefore the earlier odd-side Post Office evidence must **not** be carried forward into the July 1922 fire analysis.
 
@@ -126,7 +135,7 @@ Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite po
 - 6 Nov 1913 Weinhard Estate Post Office planned at Eighth & Main: **Very High / visually verified primary scan**
 - post-1913 Weinhard Post Office continuity into 1917–18: **High / contemporary reporting**
 - Post Office Department leased an east-side Main building between Fifth and Sixth in Sep 1918: **Very High / primary contemporary report**
-- leased building was owned by M. D. Latourette: **Very High / primary contemporary report**
+- Sep 1918 source's M. D. Latourette ownership wording: **Very High as source wording; later ownership description conflicts**
 - Latourette-David-Barlow historic building range = 504–514 Main: **Very High / visually verified official City inventory**
 - post-1918 Post Office occupied some portion of 504–514 Main: **Strong / combined primary + official secondary evidence**
 - 505½ Main was advertised `Opposite Postoffice` on 8 Jun 1922: **Very High / visually verified primary scan**
@@ -137,7 +146,7 @@ Do **not** yet conclude that Miller's Shoe Store was at 503 or 505. `Opposite po
 ## Next checks
 
 1. Find a 1919–1924 directory or advertisement printing the exact Oregon City Post Office street number.
-2. Find the actual Latourette lease description or federal postal-site record.
+2. Find the actual federal postal lease/site description.
 3. Identify which 504–514 bay housed postal service.
 4. Use that exact bay to test the 1922 Miller's Shoe Store location.
 5. Search additional exact-number advertisements in the 500–524 Main range for `near`, `next to`, `across from`, and `opposite post office` relationships.
@@ -156,7 +165,12 @@ The 1913 assessment (`E-094`) places **Mary E. Barlow / Juliette E. David on Blo
 
 This April report conflicts with the **12 Sep. 1918 Courier** wording that described the leased east-side Fifth–Sixth Main building as **owned by M. D. Latourette**. The later article instead assigns the two component store rooms to First National Bank and the Barlow-David heirs while giving Latourette a bank-officer/transaction role. Preserve both direct contemporary statements as an **UNRESOLVED CONFLICT**; do not continue describing Latourette ownership as an uncontested fact.
 
-## September 1919 — Fesznecker relative-location anchor
-<!-- 1919 September Enterprise visual review — 2026-09-07 -->
+## September 1919 correction — Pesznecker item belongs to Estacada
+<!-- 1919 Pesznecker locality correction — 2026-09-09 -->
 
-The visually verified **12 Sep. 1919 Enterprise p2** (`S-297` / `E-271`) reports that **S. Fesznecker moved his tin and repair shop from Broadway to the building just south of the post office**. The article prints no exact street number. Compare cautiously with cleaner/dyer `E-136`, which says `two doors south of new post office`; the two expressions create a useful spatial lead but do not prove exact numbered storefront adjacency.
+The 12 Sep 1919 Enterprise item formerly treated as another Oregon City Post Office-neighborhood anchor is **withdrawn from this model**. The newspaper printed `S. Fesznecker` moving a tin/repair shop from Broadway to a building just south of a post office. A next-week 19 Sep item in the explicitly labeled **Estacada** correspondence section describes **S. Pesznecker** and his machine/plumbing shop there, and independent contemporary sources repeatedly place S. P. / Stephen Pesznecker in Estacada.
+
+Therefore that relative-location wording belongs to **Estacada**, not Oregon City's Fifth/Main geography. It must not be compared with the Oregon City cleaner/dyer as though both referred to the same Post Office.
+
+Detailed correction:
+`evidence/source-captures/1919-fesznecker-pesznecker-estacada-locality-correction.md`
