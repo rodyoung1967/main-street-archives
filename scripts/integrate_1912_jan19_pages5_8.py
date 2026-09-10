@@ -37,7 +37,6 @@ def next_id(path, prefix):
 
 def find_person_id(name):
     text = read("database/people.yml")
-    # Find an exact name field within a person block.
     for m in re.finditer(r"(?ms)^  - id: (P-\d+)\n(.*?)(?=^  - id: |\Z)", text):
         block = m.group(2)
         nm = re.search(r"(?m)^    name:\s*[\"']?(.+?)[\"']?\s*$", block)
@@ -48,7 +47,9 @@ def find_person_id(name):
 
 def allocate_person_ids(names):
     result = {}
-    used = [int(x) for x in re.findall(r"\bP-(\d+)\b", read("people/people-index.md"))]
+    # Only canonical YAML person ID declarations count. Museum catalog strings such
+    # as CCHS P-6974 must never influence archive person-ID allocation.
+    used = [int(x) for x in re.findall(r"(?m)^  - id:\s*P-(\d+)\s*$", read("database/people.yml"))]
     n = max(used) if used else 0
     for name in names:
         found = find_person_id(name)
@@ -125,7 +126,9 @@ if Path(CAPTURE).exists():
 
 S = next_id("evidence/source-register.md", "S")
 E = next_id("evidence/evidence-register.md", "E")
-people = allocate_person_ids(["Percy Cross", "A. E. Wilmot", "Milton Price"])
+person_names = ["Percy Cross", "A. E. Wilmot", "Milton Price"]
+existing_person_ids = {name: find_person_id(name) for name in person_names}
+people = allocate_person_ids(person_names)
 P_CROSS = people["Percy Cross"]
 P_WILMOT = people["A. E. Wilmot"]
 P_PRICE = people["Milton Price"]
@@ -247,30 +250,31 @@ append_once("database/sources.yml", YAML_MARKER, YAML_MARKER + f'''\n  - id: {S}
 
 append_once("database/evidence.yml", YAML_MARKER, YAML_MARKER + f'''\n  - id: {E}\n    name: "19 January 1912 Courier pages 5–8: Harding staffing and pool-hall context"\n    type: Primary newspaper scan evidence\n    claims:\n      - Page 8 directly states that Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot.\n      - Page 8 prints no street number or George A. Harding name; reading it with E-092 supports same-store/511 continuity only as a strong cross-source inference.\n      - Page 7 prints Milton Price, pool hall, in Oregon City Precinct No. 1, without proprietor/employee/address detail.\n      - Page 7 lists Farr Bros as a $10 County Poor payee without address, proprietor, or business-type detail.\n      - No new direct 501, 503, or 505 Main occupant or target structural event is established.\n    confidence: Very High for scan-visible wording; unresolved for exact Milton Price role/location and Farr Bros identity continuity\n    related_sources: [{S}]\n    related_evidence: [E-092]\n    related_businesses: [BUS-007]\n    related_people: [{P_CROSS}, {P_WILMOT}, {P_PRICE}]\n    related_buildings: []\n''')
 
-# Add person controls only if exact-name entries do not already exist.
 people_spec = [
     ("Percy Cross", P_CROSS, "Harding drugstore staffer", f"19 Jan. 1912 Courier p8 directly says he accepted a position in the Harding drugstore during A. E. Wilmot's absence. No job title, street number, ownership, or identity beyond the printed name is established. `{E}` / `{S}`."),
     ("A. E. Wilmot", P_WILMOT, "Harding drugstore staffing-context person", f"19 Jan. 1912 Courier p8 says Percy Cross accepted a Harding drugstore position during Wilmot's absence. The source does not state Wilmot's job title or ownership. `{E}` / `{S}`."),
     ("Milton Price", P_PRICE, "1912 jury-list taxpayer; 'pool hall' descriptor", f"19 Jan. 1912 Courier p7 prints 'Milton Price, pool hall' under Oregon City, Oregon, No. 1 in a taxpayer jury list. No pool-hall address, trade name, proprietor/employee role, or link to Smith/Leland/Dollar/505 is established. `{E}` / `{S}`."),
 ]
-existing_names = read("database/people.yml")
 for name, pid, role, notes in people_spec:
-    if re.search(rf"(?m)^    name:\s*[\"']?{re.escape(name)}[\"']?\s*$", existing_names):
+    if existing_person_ids[name]:
         continue
     append_once("people/people-index.md", f"| {pid} | {name} |", f"| {pid} | {name} | {role} | {notes} |")
-    append_once("database/people.yml", f"  - id: {pid}\n", f'''  - id: {pid}\n    name: {name}\n    role: {role}\n    notes: >-\n      {notes.replace('`','')}\n    related_businesses: [BUS-007]''' if name != "Milton Price" else f'''  - id: {pid}\n    name: {name}\n    role: {role}\n    notes: >-\n      {notes.replace('`','')}\n    related_businesses: []''')
+    related_businesses = "[BUS-007]" if name in ("Percy Cross", "A. E. Wilmot") else "[]"
+    append_once(
+        "database/people.yml",
+        f"# Jan 19 1912 person {pid}",
+        f'''# Jan 19 1912 person {pid}\n  - id: {pid}\n    name: "{name}"\n    role: "{role}"\n    notes: >-\n      {notes.replace('`','')}\n    related_businesses: {related_businesses}\n    related_evidence: [{E}]\n    related_sources: [{S}]'''
+    )
 
-# Small person profiles preserve identity limits without overclaiming biography.
 profiles = {
-    "people/profiles/percy-cross.md": f'''# Percy Cross\n\nPerson ID: `{P_CROSS}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 8 directly states that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot** (`{E}` / `{S}`). The source prints no job title, street number, ownership role, or further identifier.\n\nDo not merge this person with other Cross family members by surname alone. `E-092` separately places George A. Harding at 511 Main two weeks earlier; using that to associate this notice with the 511 business is cross-source inference, not wording printed in Cross's notice.\n''',
-    "people/profiles/a-e-wilmot.md": f'''# A. E. Wilmot\n\nPerson ID: `{P_WILMOT}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 8 says **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot** (`{E}` / `{S}`). This establishes Wilmot only as the person whose absence is mentioned in the store-staffing notice. The page does not state a job title, ownership role, street number, or expanded given names.\n''',
-    "people/profiles/milton-price.md": f'''# Milton Price\n\nPerson ID: `{P_PRICE}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 7 says the annual jury was drawn from the Clackamas County assessment roll and, under **Oregon City, Oregon, No. 1**, prints **“Milton Price, pool hall.”** (`{E}` / `{S}`).\n\nTreat **pool hall** as the source's occupation/descriptor only. The page does not identify a trade name, street address, proprietor/employee status, or connection to H. N./H. H. Smith at 503 Main, Clem Dollar, A. Leland at 505½, or later 505 pool-hall operators.\n'''
+    "Percy Cross": ("people/profiles/percy-cross.md", f'''# Percy Cross\n\nPerson ID: `{P_CROSS}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 8 directly states that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot** (`{E}` / `{S}`). The source prints no job title, street number, ownership role, or further identifier.\n\nDo not merge this person with other Cross family members by surname alone. `E-092` separately places George A. Harding at 511 Main two weeks earlier; using that to associate this notice with the 511 business is cross-source inference, not wording printed in Cross's notice.\n'''),
+    "A. E. Wilmot": ("people/profiles/a-e-wilmot.md", f'''# A. E. Wilmot\n\nPerson ID: `{P_WILMOT}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 8 says **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot** (`{E}` / `{S}`). This establishes Wilmot only as the person whose absence is mentioned in the store-staffing notice. The page does not state a job title, ownership role, street number, or expanded given names.\n'''),
+    "Milton Price": ("people/profiles/milton-price.md", f'''# Milton Price\n\nPerson ID: `{P_PRICE}`.\n\nThe visually verified 19 January 1912 *Oregon City Courier* page 7 says the annual jury was drawn from the Clackamas County assessment roll and, under **Oregon City, Oregon, No. 1**, prints **“Milton Price, pool hall.”** (`{E}` / `{S}`).\n\nTreat **pool hall** as the source's occupation/descriptor only. The page does not identify a trade name, street address, proprietor/employee status, or connection to H. N./H. H. Smith at 503 Main, Clem Dollar, A. Leland at 505½, or later 505 pool-hall operators.\n''')
 }
-for path, text in profiles.items():
-    if not Path(path).exists():
+for name, (path, text) in profiles.items():
+    if not existing_person_ids[name] and not Path(path).exists():
         Path(path).write_text(text, encoding="utf-8")
 
-# Relate the two staffing people and the new source/evidence to BUS-007.
 for pid in (P_CROSS, P_WILMOT):
     update_yaml_relation("database/businesses.yml", "BUS-007", "related_people", pid)
 update_yaml_relation("database/businesses.yml", "BUS-007", "related_evidence", E)
@@ -302,7 +306,6 @@ append_once("registers/research-log.md", DATE_MARKER, f'''### 2026-09-09 — 19 
 - Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupant or target structural event. **1912 remains IN PROGRESS**.
 ''')
 
-# Supersede stale page-8 OCR-only statements without erasing their historical state.
 replace_once(
     "evidence/source-captures/1912-courier-page-review-note.md",
     "A project-steward supplied batch reviewed on **9 September 2026** adds actual scan-review credit for **19 January 1912 printed pages 1–4**. All four scans are **VISUALLY VERIFIED**. They produced no safe new exact-address or target-block claim; the useful page-1 Willamette high-water and river-channel-improvement material is retained as non-target Oregon City context in `1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.\n\nThat batch does **not** certify 19 January pages/images 5–8. In particular, the separate page/image-8 Percy Cross / Harding Drug Store staffing lead remains **OCR/TEXT ONLY** until the actual scan is visually inspected.",
@@ -338,7 +341,6 @@ append_once("evidence/source-captures/2026-09-08-1912-final-handoff-checkpoint.m
 The earlier handoff section requiring the Percy Cross / Harding drugstore item to remain **OCR/TEXT ONLY** is now superseded. The project steward supplied printed pages 5–8; the actual page-8 scan was visually inspected and directly states that **Percy Cross accepted a position in the Harding drugstore during the absence of A. E. Wilmot**. See `{S}` / `{E}` and `{CAPTURE}`. Page 8 prints no street number, so `E-092` remains the independent 5 January 511 Main address control rather than being silently imported into the 19 January wording.
 ''')
 
-# Make S-307's historical note self-correcting rather than globally stale.
 replace_once(
     "evidence/source-register.md",
     "The separate 19 January page/image 8 Percy Cross / Harding Drug Store lead remains **OCR/TEXT ONLY** because page 8 is not in this four-page batch.",
