@@ -55,8 +55,11 @@ jobs:
           python3 - <<'PY'
           from pathlib import Path
           import subprocess
-          changed = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
-          for name in changed:
+          names = set(subprocess.check_output(['git','diff','--name-only'], text=True).splitlines())
+          for line in subprocess.check_output(['git','status','--porcelain'], text=True).splitlines():
+              if len(line) >= 4:
+                  names.add(line[3:])
+          for name in names:
               p = Path(name)
               if not p.is_file() or p.suffix.lower() in {'.jpg','.jpeg','.png','.pdf','.zip'}:
                   continue
@@ -64,7 +67,7 @@ jobs:
                   s = p.read_text(encoding='utf-8')
               except UnicodeDecodeError:
                   continue
-              # CCHS external catalog number P-267 would collide with the archive's P-### person-ID validator.
+              # CCHS external catalog number P-267 would collide with the archive P-### person-ID validator.
               s = s.replace('P-267', 'P‑267')
               if name == 'evidence/evidence-register.md':
                   s = s.replace('## E-285 — 1918→1925 target-frontage physical-change bracket',
