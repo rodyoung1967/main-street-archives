@@ -1,0 +1,41 @@
+name: Temporary CCHS P267 diagnostic
+
+on:
+  push:
+    paths:
+      - .github/workflows/temp-diagnose-cchs-p267.yml
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Query CatalogIt exact title
+        run: |
+          python3 - <<'PY'
+          import json, urllib.parse, urllib.request
+          qs = ['Oregon City and the Arch Bridge as Seen from Bluff', 'P-267 Oregon City Arch Bridge Bluff']
+          def catno(o):
+              try: return o['properties']['hasCatalogNumber']['value_text']
+              except Exception: return None
+          def walk(o, out):
+              if isinstance(o, dict):
+                  if catno(o) or o.get('slug') or o.get('id'):
+                      out.append(o)
+                  for v in o.values(): walk(v,out)
+              elif isinstance(o,list):
+                  for v in o: walk(v,out)
+          for q in qs:
+              u='https://api.catalogit.app/api/public/search?'+urllib.parse.urlencode({'query':q,'size':50})
+              req=urllib.request.Request(u,headers={'User-Agent':'Mozilla/5.0 Main-Street-Archive/1.0'})
+              data=json.load(urllib.request.urlopen(req,timeout=90))
+              arr=[]; walk(data,arr)
+              print('\nQUERY',q)
+              seen=set()
+              for o in arr:
+                  key=(o.get('id'),catno(o),o.get('slug'))
+                  if key in seen: continue
+                  seen.add(key)
+                  txt=json.dumps(o,ensure_ascii=False)
+                  if 'P-267' in txt or 'Oregon City' in txt or 'Arch Bridge' in txt or 'Bluff' in txt:
+                      print(txt[:6000])
+          PY
