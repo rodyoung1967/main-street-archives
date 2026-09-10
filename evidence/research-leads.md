@@ -196,6 +196,8 @@ The [28 August 2026 Tasks 5–6 audit](source-captures/1922-tasks-5-6-identity-r
 
 **9 September 2026 identity control:** `E-281` / `S-308`–`S-309` now identifies the separate Oregon City directory candidate as **Victor John Wolf** and directly reports Victor Wolf at Oregon City Route 6 on 26 June 1922. This does not expand the `S.` buyer's name. The different initial and close-dated `of Portland` / Oregon City Route 6 descriptions weigh against a Victor merge, so take Victor out of the active first-line candidate pool unless a deed or other direct bridge reopens it. The highest-yield next step remains the Harding→Wolf/Gates deed/title/assessment route; Samuel and Simon remain unselected directory candidates.
 
+**10 September 2026 OHRI coverage update:** the official index returned 39 broad `Wolf` hits for Clackamas, 1910–1975, but no exact Samuel/Simon/Saml entry in the returned exact-surname rows. Exact `Samuel Wolf` and `Simon Wolf` queries for 1910–1930 returned no results in both Clackamas and Multnomah; `Saml Wolf` returned no results in Multnomah. Treat this only as bounded index coverage, not absence evidence: OHRI is not a complete deed, tax, directory, residence or business index. Do not repeat these exact searches without a new spelling/person hypothesis. Samuel and Simon remain unselected; proceed to the deed, title abstract, assessment and Polk-directory routes. See `source-captures/2026-09-10-s-wolf-ohri-bounded-index-audit.md`.
+
 ## RL-041 — 1973–1987 Municipal, Directory, and OLCC Follow-Up for Brass Rail / Hansen→Wiitanen
 Complete the interval work started in `evidence/source-captures/1973-1987-503-505-research-pass.md`. Highest-value targets:
 

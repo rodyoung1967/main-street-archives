@@ -2623,6 +2623,8 @@ Related evidence/person: `E-281`; `P-399`.
 Repository capture: `evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md`.
 Notes: The index gives **Wolf, Victor John** and **Wolf, Victor** under 1922 Clackamas naturalization certificate case **1693777**, plus Victor Wolf under 1920 intention case **0786**. Alice-name entries share those case numbers. The index does not define relationships, explain name variants, give addresses/occupations or identify S. Wolf.
 
+**10 September 2026 bounded candidate-search supplement:** a broad `Wolf`, 1910–1975, Clackamas search returned 39 mixed matching-name records. Exact `Samuel Wolf` and `Simon Wolf` searches for 1910–1930 returned no results in both Clackamas and Multnomah; exact `Saml Wolf` returned no results in Multnomah. The broad exact-surname rows likewise exposed no Samuel/Simon/Saml entry. This is official-index coverage only, not evidence that a candidate or the 1922 buyer did not exist, live in a county, or hold property. OHRI is not a complete deed, tax, directory, residence or business index. Capture: `evidence/source-captures/2026-09-10-s-wolf-ohri-bounded-index-audit.md`. No new source or evidence ID is allocated.
+
 ## S-310 — Oregon City Courier, 19 January 1912, pages 5–8 visual-review batch
 <!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
 Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES**; completes the issue at **8/8 visually verified** with `S-307`.  

@@ -1090,3 +1090,11 @@ Completed a thread-level preservation audit for the LaFarlette / Morton / Albert
 - Registered `S-310` / `E-282`. Page 8 directly verifies **Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence**, superseding the prior OCR-only state; no number is printed, and `E-092` remains the separate 5 Jan. 511 Main control.
 - Page 7 prints **“Milton Price, pool hall”** in the Oregon City No. 1 jury list and **Farr Bros. $10** under County Poor expenditures; both are preserved with strict identity/address limits and are not merged to later pool-hall/Farr chains.
 - Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupant or target structural event. **1912 remains IN PROGRESS**.
+
+## 10 September 2026 — S. Wolf OHRI bounded audit and conversation handoff
+
+- Completed the official Oregon Historical Records Index candidate screen begun after `E-281`: broad `Wolf`, Clackamas, 1910–1975 returned 39 hits; exact `Samuel Wolf` and `Simon Wolf` searches for 1910–1930 returned no results in Clackamas and Multnomah; exact `Saml Wolf` returned no results in Multnomah.
+- Preserved the result as bounded official-index coverage, not evidence that either candidate or the 1922 buyer was absent. OHRI is not a complete deed, tax, directory, residence or business index; no entity fact, address, ownership relation or storefront model was created.
+- Added `evidence/source-captures/2026-09-10-s-wolf-ohri-bounded-index-audit.md` and synchronized `S-309`, `RL-040`, `MF-016`, and the archive index.
+- Added `evidence/source-captures/2026-09-10-george-newton-427-main-s-wolf-continuation-handoff.md`, consolidating the Newton→427 working hypothesis, Victor John Wolf identity separation, current unresolved Gates/Wolf storefront models, and deed/title/assessment-first restart order.
+- No institutional request, paid order or authenticated-record action was made. 1922 remains **IN PROGRESS**.

@@ -2069,11 +2069,11 @@ sources:
     name: "Oregon Historical Records Index, Victor/Alice Wolf naturalization entries"
     url: "https://secure.sos.state.or.us/ohri/search.action"
     type: "Official compiled archival index; underlying naturalization papers not inspected"
-    date: "1920 and 1922 index entries; checked 2026-09-09"
+    date: "1920 and 1922 index entries; checked 2026-09-09; bounded candidate search extended 2026-09-10"
     repository_file: "evidence/source-captures/1922-06-26-victor-john-wolf-naturalization-identity-control.md"
     related_evidence: [E-281]
     related_people: [P-399]
-    notes: "Direct detail pages index Victor/Victor John Wolf under 1922 Clackamas certificate case 1693777 and Victor Wolf under 1920 intention case 0786; Alice-name entries share those case numbers. Index records do not define relationships, explain variants, or identify S. Wolf."
+    notes: "Direct detail pages index Victor/Victor John Wolf under 1922 Clackamas certificate case 1693777 and Victor Wolf under 1920 intention case 0786; Alice-name entries share those case numbers. A 10 September bounded OHRI audit returned 39 broad Clackamas Wolf hits but no exact Samuel/Simon/Saml result in the tested 1910–1930 Clackamas/Multnomah queries. This is index coverage only, not absence evidence. Index records do not define relationships, explain variants, or identify S. Wolf. Supplement: evidence/source-captures/2026-09-10-s-wolf-ohri-bounded-index-audit.md."
 
 # 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09
   - id: S-310
