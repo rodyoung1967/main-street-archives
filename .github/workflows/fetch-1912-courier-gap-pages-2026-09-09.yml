@@ -23,6 +23,11 @@ jobs:
           git pull --rebase origin main
           python3 scripts/validate_archive.py
 
+      - name: Install PDF utilities
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y poppler-utils
+
       - name: Fetch targeted 1912 Courier pages and render previews
         shell: bash
         run: |
@@ -49,7 +54,9 @@ jobs:
               mv "$tmp" "$out/pdfs/${stem}.pdf"
               sha=$(sha256sum "$out/pdfs/${stem}.pdf" | awk '{print $1}')
               pdftotext -f 1 -l 1 -layout "$out/pdfs/${stem}.pdf" "$out/${stem}.txt" || true
-              headtxt=$(tr '\n' ' ' < "$out/${stem}.txt" 2>/dev/null | tr '\t' ' ' | sed 's/  */ /g' | cut -c1-220)
+              if [ -f "$out/${stem}.txt" ]; then
+                headtxt=$(tr '\n' ' ' < "$out/${stem}.txt" | tr '\t' ' ' | sed 's/  */ /g' | cut -c1-220)
+              fi
               pdftoppm -f 1 -singlefile -png -r 125 "$out/pdfs/${stem}.pdf" "$out/png/${stem}" >/dev/null 2>&1 || true
               rm -f "$out/${stem}.txt"
             else
