@@ -367,3 +367,12 @@ The complete three-page individual 505 Main survey form for Oregon SHPO **RESOUR
 For occupancy chronology, page 1 explicitly reports **Harr's Recreation Center** from a "1945 city directory" and **Well's Recreation** from a "1953 city directory" (`E-257`). This confirms the exact wording of the official secondary synthesis but still does not supply the underlying directory pages or a direct Farr→Harr / Harr→Well transfer.
 
 For property ownership, page 3 records **Richard and Sheila Wiitanen** in the owner field (`E-258`). This gives a dated official-survey ownership snapshot by **May 2000**, narrowing the Wiitanen property chronology, but it does not establish the purchase date, seller, deed, or terms.
+
+## 1918→1925 photographic structural bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`) and CCHS P‑267 (`S-312` / `E-284` / `IMG-0770`), read with the existing 1925 Sanborn (`E-020`), materially tighten the target-frontage physical-change interval. The project steward maps the visible target row to later 501/503/505 positions; no address numbers are readable in either photograph.
+
+The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 505 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
+
+At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.

@@ -69,3 +69,14 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 `S-217` / `E-197` / `IMG-0746` is CCHS `P-1317`, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the partially branch-obscured predecessor frontage later associated with **501/503/505 Main**. Use this as **PROBABLE / WORKING HYPOTHESIS** spatial context only: the exposure date is not supplied, later address numbers are not visible, and individual storefront/roof boundaries and structural continuity remain unresolved.
 
 | 1975 | CCHS `P-1293` aerial shows the former 501 corner footprint still absent. | Corroboration only; 1936–1944 removal bracket already established by `E-021`. | `E-203`; `S-229`; `IMG-0750` |
+
+## 1918→1925 photographic transition bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+| Date/state | Evidence | Interpretation |
+| --- | --- | --- |
+| 1918 | CCHS `2008.008.009.016` (`E-283` / `IMG-0769`) | Steward-identified predecessor 501/503/505 target row; later 505 upper false-front/parapet already partly lowered; no readable street numbers. |
+| 1924–1928 | CCHS `P‑267` (`E-284` / `IMG-0770`) | Steward identifies new/replacement 501 state and changed neighboring 503/505-area structures; exact exposure year unresolved. |
+| By 1925 | existing Sanborn `E-020` | Independent changed storefront/footprint geometry. |
+
+Combined `E-285`: **material target-frontage replacement/reconfiguration occurred after the photographed 1918 state and by 1925**. This does not establish exact individual construction dates, a single rebuild campaign, ownership, or 1922-fire causation.

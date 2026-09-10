@@ -140,3 +140,10 @@ The complete online-exposed October Enterprise pass (`S-299` / `E-273`) visually
 November (`S-304` / `E-278`) and December (`S-305` / `E-279`) Enterprise are now **32/32 + 32/32 visually verified**. Neither month supplies source-explicit 501/503/505/505½ construction or occupancy proof. November adds the B. J. Staats **520–22 Main** selling-out ad, which conflicts with the December CCHS photograph cataloged at **516 Main**; December adds Portland House at **Fifth and Main**, owned by Mr. and Mrs. Beck and described as frame construction, but with no numbered target assignment.
 
 The formal annual source-class audit is `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md` (`S-306` / `E-280`): **1919 is ONLINE COMPLETE**. This changes research-work status only. The surviving 503 c.1919 estimate remains secondary/approximate, the surviving 505 remains bracketed to 1911–1925 with c.1920 tentative, and the exact physical-change date remains unresolved pending manual/restricted records.
+
+## 9 September 2026 photographic bracket update
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+Two newly supplied CCHS bluff photographs materially improve the structural chronology. The 1918 object `2008.008.009.016` (`S-311` / `E-283` / `IMG-0769`) preserves the steward-identified predecessor target row, with a partly lowered/removed upper false-front at the later 505 position. CCHS `P‑267` (`S-312` / `E-284` / `IMG-0770`), dated 1924–1928, preserves the steward-identified changed/replacement target-row state. With the independent 1925 Sanborn, `E-285` tightens the broad physical-change interval to **after the photographed 1918 state and by 1925**.
+
+This does not convert the City's c.1919 503 or tentative c.1920 505 estimates into primary construction dates. It also does not assign the July 1922 fire origin or Gates/Wolf property division to a specific modern-numbered storefront. Continue the underlying permit/assessor/deed/newspaper research.

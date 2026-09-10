@@ -2636,3 +2636,29 @@ Binary preservation commit: `7b9e00c697da21f6caea5bb696055b0d910c1ed6`.
 Related evidence: `E-282`; cross-reference `E-092`.  
 Source capture: `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`.  
 Notes: Page 8 directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence; no street number is printed. Page 7 prints “Milton Price, pool hall” in the Oregon City No. 1 jury-list section and Farr Bros. as a $10 County Poor payee, both without address/role continuity sufficient for target-business merger. Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupancy claim; 1912 remains IN PROGRESS.
+
+## S-311 — CCHS 2008.008.009.016, Oregon City from the Bluff at 4th Street Steps
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `2008.008.009.016`.  
+Date: **1918** per supplied CCHS metadata.  
+Repository image: `media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg`.  
+Capture: `evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-from-the-bluff-at-4th-street-steps  
+Related evidence/media/timeline: `E-283` / `IMG-0769` / `T-103`.  
+Related buildings: `B-005`, `B-001`, `B-002`.  
+Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.
+
+## S-312 — CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.  
+Institution: Clackamas County Historical Society.  
+Catalog ID: `P‑267`.  
+Date: **1924-1928** per supplied CCHS metadata.  
+Repository image: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`.  
+Capture: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`.  
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/on-the-tamiami-trail-in-florida-f33  
+Related evidence/media/timeline: `E-284` / `IMG-0770` / `T-104`.  
+Related buildings: `B-005`, `B-001`, `B-002`.  
+Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.

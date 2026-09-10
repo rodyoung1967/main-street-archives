@@ -2883,3 +2883,42 @@ Claims:
 - pages 5–8 produce no new direct 501/503/505 occupant, ownership, structural, or transition claim.
 Classification: **DOCUMENTED / DIRECT** for scan-visible wording; **STRONG CROSS-SOURCE INFERENCE** only for interpreting the unnumbered Harding drugstore notice with `E-092`; **UNRESOLVED** for Milton Price's exact pool-hall role/location and Farr Bros. identity continuity.  
 Confidence: **Very High** for the printed wording and 4/4 page review.
+
+## E-283 — CCHS 2008.008.009.016 target-frontage photographic state
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+Source: `S-311`; media `IMG-0769`; capture `evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md`.  
+Type: Primary institutional photographic evidence with project-steward spatial annotation.  
+Claims:
+- The 1918 photograph directly documents the downtown bluff-at-4th streetscape; the project steward identifies predecessor frontage at the later 501/503/505 sites.
+- The steward identifies the later 505 position as already having a partly lowered/removed upper false-front/parapet relative to the earlier more uniform predecessor roofline; the photo visibly supports an uneven upper-facade state, while exact bay mapping remains cross-source.
+- No 501/503/505 address number is readable in the image itself; individual target-bay identification is not treated as source-explicit numbering.
+Classification: **DOCUMENTED / DIRECT** for photographed streetscape; **ATTRIBUTED STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered bay mapping and comparative facade interpretation.  
+Confidence: **Very High** for object/image/date metadata; High for broad target-row comparative structural state; exact individual construction dates unresolved.  
+Related buildings: `B-005`, `B-001`, `B-002`.
+
+## E-284 — CCHS P‑267 target-frontage photographic state
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+Source: `S-312`; media `IMG-0770`; capture `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`.  
+Type: Primary institutional photographic evidence with project-steward spatial annotation.  
+Claims:
+- The 1924-1928 photograph directly documents the later Arch Bridge-era downtown streetscape; the project steward identifies the target 501/503/505 area.
+- The steward identifies the new/replacement 501 state and materially changed/replacement neighboring 503/505-area structures compared with 1918; the date range prevents an exact construction year from being inferred.
+- No 501/503/505 address number is readable in the image itself; individual target-bay identification is not treated as source-explicit numbering.
+Classification: **DOCUMENTED / DIRECT** for photographed streetscape; **ATTRIBUTED STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered bay mapping and comparative facade interpretation.  
+Confidence: **Very High** for object/image/date metadata; High for broad target-row comparative structural state; exact individual construction dates unresolved.  
+Related buildings: `B-005`, `B-001`, `B-002`.
+
+## E-285 — 1918 to 1925 target-frontage physical-change bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+Type: Cross-source photographic and Sanborn structural inference  
+Sources: `S-311`, `S-312`; cross-reference existing `E-020` / `S-021` and `E-272`.  
+Related record: `evidence/source-captures/1918-to-1925-target-frontage-photographic-structural-bracket-2026-09-09.md`.  
+Claims:
+- The 1918 photograph provides a predecessor-era target-frontage state; the later P‑267 photograph provides a changed 1924–1928 state.
+- The independent 1925 Sanborn supplies the tighter later control and confirms changed storefront/footprint geometry relative to 1911.
+- Combined, the evidence supports material target-frontage replacement/reconfiguration **after the photographed 1918 state and by 1925**.
+- The City c.1919 (503) and tentative c.1920 (505) estimates are chronologically compatible with this bracket but are not independently proved by the photographs.
+- The bracket does not establish a single rebuilding campaign, exact individual construction dates, ownership, builder identity, or a causal link to the July 1922 fire.
+Classification: **STRONG CROSS-SOURCE INFERENCE** for the after-1918/by-1925 structural transition bracket.  
+Confidence: **High** for the broad transition interval; exact building-by-building event dates unresolved.  
+Related buildings: `B-005`, `B-001`, `B-002`.

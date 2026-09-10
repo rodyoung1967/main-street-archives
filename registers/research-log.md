@@ -1098,3 +1098,13 @@ Completed a thread-level preservation audit for the LaFarlette / Morton / Albert
 - Added `evidence/source-captures/2026-09-10-s-wolf-ohri-bounded-index-audit.md` and synchronized `S-309`, `RL-040`, `MF-016`, and the archive index.
 - Added `evidence/source-captures/2026-09-10-george-newton-427-main-s-wolf-continuation-handoff.md`, consolidating the Newton→427 working hypothesis, Victor John Wolf identity separation, current unresolved Gates/Wolf storefront models, and deed/title/assessment-first restart order.
 - No institutional request, paid order or authenticated-record action was made. 1922 remains **IN PROGRESS**.
+
+### 2026-09-09 — 1918 and P‑267 bluff photographs tighten 501/503/505 structural bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+- Integrated CCHS `2008.008.009.016` as `S-311` / `E-283` / `IMG-0769` / `T-103` and CCHS `P‑267` as `S-312` / `E-284` / `IMG-0770` / `T-104`.
+- Preserved each exact steward-upload filename, dimensions, byte size and SHA-256, and committed the largest public institutional CCHS derivative of the same substantive photograph.
+- Recorded steward spatial testimony that the 1918 target row shows a partly lowered/removed upper false-front at the later 505 position and that P‑267 shows a new/replacement 501 state plus changed neighboring 503/505-area structures.
+- Combined with the independent 1925 Sanborn, registered `E-285`: material target-frontage replacement/reconfiguration occurred **after the photographed 1918 state and by 1925**.
+- Preserved limits: no readable target address numbers in either photo; no exact construction year, single-campaign conclusion, ownership, builder, or 1922-fire causation inferred. c.1919/c.1920 remain survey estimates.
+- Cross-record propagation audited across source/evidence/media registers, building records/YAML, master and address timelines, open questions, RL-024, ID crosswalk, and the 1919–1920 construction checkpoint.

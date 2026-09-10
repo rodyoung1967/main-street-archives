@@ -1040,3 +1040,23 @@ timeline:
     confidence: Very High for visible report wording; no target occupancy or completed-construction inference
     related_evidence: [E-227]
     related_sources: [S-253]
+
+  - id: T-103
+    date: "1918"
+    title: "1918 — bluff photograph preserves predecessor target-frontage state"
+    summary: "CCHS 2008.008.009.016 is cataloged 1918. The steward identifies the later 501/503/505 target row and a partly lowered/removed upper false-front at the later 505 position; numbers are not readable, so bay mapping is steward-attributed plus cross-source."
+    confidence: "Very High for catalog/image state; target-bay mapping steward-attributed plus cross-source"
+    related_evidence: [E-283, E-285]
+    related_sources: [S-311]
+    related_media: [IMG-0769]
+    related_buildings: [B-005, B-001, B-002]
+
+  - id: T-104
+    date: "1924-1928"
+    title: "1924-1928 — P‑267 shows changed target-frontage state"
+    summary: "CCHS P‑267 shows the Arch Bridge-era downtown. The steward identifies a new/replacement 501 state and changed neighboring 503/505-area structures; exact exposure year and individual construction dates remain unresolved."
+    confidence: "Very High for catalog/image state; target-bay mapping steward-attributed plus cross-source"
+    related_evidence: [E-284, E-285]
+    related_sources: [S-312]
+    related_media: [IMG-0770]
+    related_buildings: [B-005, B-001, B-002]

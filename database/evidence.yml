@@ -4253,3 +4253,44 @@ evidence:
     related_businesses: [BUS-007]
     related_people: [P-400, P-401, P-402]
     related_buildings: []
+
+  - id: E-283
+    name: "CCHS 2008.008.009.016 target-frontage photographic state"
+    type: "Primary institutional photographic evidence with project-steward spatial annotation"
+    claims:
+      - "The 1918 photograph directly documents the downtown bluff-at-4th streetscape; the project steward identifies predecessor frontage at the later 501/503/505 sites."
+      - "The steward identifies the later 505 position as already having a partly lowered/removed upper false-front/parapet relative to the earlier more uniform predecessor roofline; the photo visibly supports an uneven upper-facade state, while exact bay mapping remains cross-source."
+      - "No 501/503/505 address number is readable in the image itself; individual target-bay identification is not source-explicit numbering."
+    confidence: "Very High for object/image/date metadata; High for broad comparative structural state; exact construction dates unresolved"
+    related_sources: [S-311]
+    related_media: [IMG-0769]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md"
+
+  - id: E-284
+    name: "CCHS P‑267 target-frontage photographic state"
+    type: "Primary institutional photographic evidence with project-steward spatial annotation"
+    claims:
+      - "The 1924-1928 photograph directly documents the later Arch Bridge-era downtown streetscape; the project steward identifies the target 501/503/505 area."
+      - "The steward identifies the new/replacement 501 state and materially changed/replacement neighboring 503/505-area structures compared with 1918; the date range prevents an exact construction year from being inferred."
+      - "No 501/503/505 address number is readable in the image itself; individual target-bay identification is not source-explicit numbering."
+    confidence: "Very High for object/image/date metadata; High for broad comparative structural state; exact construction dates unresolved"
+    related_sources: [S-312]
+    related_media: [IMG-0770]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md"
+
+  - id: E-285
+    name: "1918 to 1925 target-frontage physical-change bracket"
+    type: "Cross-source photographic and Sanborn structural inference"
+    claims:
+      - "1918 provides a predecessor target-frontage state and CCHS P‑267 provides a changed 1924-1928 state."
+      - "The independent 1925 Sanborn supplies the tighter later control; combined evidence supports material replacement/reconfiguration after the photographed 1918 state and by 1925."
+      - "The c.1919 503 and tentative c.1920 505 survey estimates are compatible with the bracket but are not independently proved by it."
+      - "No single rebuilding campaign, exact construction date, ownership, builder, or 1922-fire causation is established."
+    confidence: "High for broad after-1918/by-1925 transition; individual building dates unresolved"
+    related_sources: [S-311, S-312, S-021]
+    related_evidence: [E-283, E-284, E-020, E-272]
+    related_media: [IMG-0769, IMG-0770]
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/1918-to-1925-target-frontage-photographic-structural-bracket-2026-09-09.md"

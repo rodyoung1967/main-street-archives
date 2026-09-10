@@ -680,3 +680,12 @@ The complete November Enterprise pass (`S-304` / `E-278`) visually reviewed **32
 The complete December Enterprise pass (`S-305` / `E-279`) visually reviewed **32/32 pages**. On **19 December p5**, a small-fire report places the **Portland House at Fifth and Main**, names **Mr. and Mrs. Beck** as owners and describes the Portland House and adjoining buildings as frame construction. The report prints no number or parcel and is not assigned to 501/503/505.
 
 The annual closeout (`S-306` / `E-280`) certifies **1919 ONLINE COMPLETE**: **638/638 online-retrievable local-newspaper pages** were visually reviewed across 52 Enterprise and 26 Courier issues; 24 Banner-Courier issue dates remain `MF-030` manual microfilm work. Other ordinary public/indexed online source classes are closed, with restricted/manual records explicitly retained. The exact surviving 503/505 construction dates remain unresolved.
+
+## 1918 — CCHS bluff photograph preserves predecessor target-frontage state
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+CCHS `2008.008.009.016` (`S-311` / `E-283` / `IMG-0769`) is cataloged **1918** and shows downtown Oregon City from the bluff at 4th Street steps. The project steward identifies the later 501/503/505 target row and notes partial lowering/loss of the upper false-front/parapet over the later 505 position. Street numbers are not readable, so the bay mapping is steward-attributed plus cross-source. This provides a strong pre-change photographic control, not a precise construction date.
+
+## 1924–1928 — P‑267 shows changed target-frontage state
+
+CCHS `P‑267` (`S-312` / `E-284` / `IMG-0770`) shows the Arch Bridge-era downtown within a **1924–1928** catalog range. The project steward identifies the new/replacement 501 state and materially changed neighboring 503/505-area structures. Read with the independent 1925 Sanborn, the combined evidence (`E-285`) supports a target-frontage physical transition **after the photographed 1918 state and by 1925**. Exact building-by-building construction dates and 1922-fire causation remain unresolved.

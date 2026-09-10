@@ -352,3 +352,8 @@ Full-page visual review on 9 September 2026 places **NEW CONFECTIONERY OPEN.** i
 ## 1917 final online synthesis — exact occupants remain unresolved
 
 The all-source audit (`S-303` / `E-277`) certifies 1917 **ONLINE COMPLETE**, not historically resolved: 104 issues, 852 archive slots, and 849 genuine intended-date pages were visually reviewed across the only two online Oregon City titles with 1917 holdings. Directory, map, municipal, property, historic-resource, and photograph routes were also audited. No defensible exact 503 or 505 occupant emerged. The March realty report (`T-102`) makes a vacancy inference from the water-ledger omission especially unsafe. Only the seven manual callouts in the formal closeout remain; do not repeat the completed broad online pass.
+
+## Structural-date update — 1918→1925 photograph/map bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+New CCHS photographic evidence (`E-283`, `E-284`) plus the 1925 Sanborn tightens the broad 501/503/505 frontage transition to **after the photographed 1918 state and by 1925** (`E-285`). The exact questions remain open: when was each later structure or major component built/rebuilt, was the work one campaign or multiple, and what relationship—if any—did it have to the July 1922 fire? The c.1919 and c.1920 inventory dates remain unproved estimates.

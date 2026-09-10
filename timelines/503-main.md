@@ -79,3 +79,14 @@ Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIE
 <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
 
 The 1912 Smith entries above sit within a broader city licensing regime. A visually verified 8 June 1917 council report (`E-254` / `S-281`; `T-095`) says Oregon City's strict pool-room legislation dated to **1911** and records discussion of cigar stands and additional licenses. The report is **citywide** and names no pool room or address, so it is not added to the table as a 1917 503 occupant/event. It is retained only as context for interpreting Smith's 1912 “Pool Room, Cigars and Tobacco” wording. See `RL-052` for the underlying ordinance-recovery task.
+
+## 1918→1925 photographic transition bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+| Date/state | Evidence | Interpretation |
+| --- | --- | --- |
+| 1918 | CCHS `2008.008.009.016` (`E-283` / `IMG-0769`) | Steward-identified predecessor 501/503/505 target row; later 505 upper false-front/parapet already partly lowered; no readable street numbers. |
+| 1924–1928 | CCHS `P‑267` (`E-284` / `IMG-0770`) | Steward identifies new/replacement 501 state and changed neighboring 503/505-area structures; exact exposure year unresolved. |
+| By 1925 | existing Sanborn `E-020` | Independent changed storefront/footprint geometry. |
+
+Combined `E-285`: **material target-frontage replacement/reconfiguration occurred after the photographed 1918 state and by 1925**. This does not establish exact individual construction dates, a single rebuild campaign, ownership, or 1922-fire causation.

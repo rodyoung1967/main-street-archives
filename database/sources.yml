@@ -2087,3 +2087,25 @@ sources:
       Page 8 directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence,
       but prints no street number. Page 7 prints Milton Price, pool hall, and a Farr Bros County Poor payment without
       enough address/identity detail for target-business merger. 1912 remains IN PROGRESS.
+
+  - id: S-311
+    name: "CCHS 2008.008.009.016, Oregon City from the Bluff at 4th Street Steps"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-from-the-bluff-at-4th-street-steps"
+    type: "Primary institutional historic photograph; visually verified 9 September 2026"
+    date: "1918"
+    repository_file: "media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg"
+    related_evidence: [E-283]
+    related_media: [IMG-0769]
+    related_buildings: [B-005, B-001, B-002]
+    notes: "Address numbers are not readable; target-bay identification is steward-attributed plus cross-source geometry. Detailed limits in evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md."
+
+  - id: S-312
+    name: "CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff"
+    url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/on-the-tamiami-trail-in-florida-f33"
+    type: "Primary institutional historic photograph; visually verified 9 September 2026"
+    date: "1924-1928"
+    repository_file: "media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg"
+    related_evidence: [E-284]
+    related_media: [IMG-0770]
+    related_buildings: [B-005, B-001, B-002]
+    notes: "Address numbers are not readable; target-bay identification is steward-attributed plus cross-source geometry. Detailed limits in evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md."

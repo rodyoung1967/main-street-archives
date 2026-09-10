@@ -1772,3 +1772,35 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - SHA-256: `62d94a9d933f3feff0ebadeb84794f683a056967c53fe5626d2126429252b442`
 - Status: `committed`; masthead/date/page and split-column article visually verified 9 September 2026
 - Result: directly reports Victor Wolf, Germany, Oregon City Route 6, among persons naturalized at Oregon City on 26 June. No S. Wolf, target address, business or property connection is printed.
+
+## IMG-0769 — CCHS 2008.008.009.016, Oregon City from the Bluff at 4th Street Steps
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+- Type: Historic elevated Oregon City streetscape photograph
+- CCHS catalog: `2008.008.009.016`
+- CCHS title: **Oregon City from the Bluff at 4th Street Steps**
+- CCHS date: **1918**
+- Repository file: `media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg`
+- Status: `committed`
+- Repository dimensions: **2400 × 1384**; 815,927 bytes; SHA-256 `9dff0f06440b70f45a51092958cbf12928d11cb0d173deaeb7e72ce1dd25ebb4`
+- Steward original: `Oregon City from the Bluff at 4th Street Steps.jpg`; 2048×1181; 884,802 bytes; SHA-256 `f41164c211f4934d1b80d769ede9ff898742861f0615b87d1e6f9d987db5025e`
+- Duplicate/variant handling: repository preserves the institutional CCHS derivative of the same substantive photograph; steward fingerprint retained even if bytes differ.
+- Related source/evidence/timeline: `S-311` / `E-283` / `T-103`
+- Related buildings: `B-005`, `B-001`, `B-002`
+- Interpretation limit: later street numbers are not readable; target-bay mapping and comparative facade reading are steward-attributed plus cross-source geometry.
+- Review: `evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md`
+
+## IMG-0770 — CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+- Type: Historic elevated Oregon City streetscape photograph
+- CCHS catalog: `P‑267`
+- CCHS title: **Oregon City and the Arch Bridge as Seen from Bluff**
+- CCHS date: **1924-1928**
+- Repository file: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`
+- Status: `committed`
+- Repository dimensions: **1200 × 740**; 251,706 bytes; SHA-256 `b45bef315489b0a475769d696e7322332f0d6b6be00a479f3db2c46599c6d9bb`
+- Steward original: `Oregon City and the Arch Bridge as Seen from Bluff.jpg`; 2048×1623; 904,513 bytes; SHA-256 `f5c6d00ca21370a82dd125a583fb5634d95c6ac64b1556f24e3b643631e904b2`
+- Duplicate/variant handling: repository preserves the institutional CCHS derivative of the same substantive photograph; steward fingerprint retained even if bytes differ.
+- Related source/evidence/timeline: `S-312` / `E-284` / `T-104`
+- Related buildings: `B-005`, `B-001`, `B-002`
+- Interpretation limit: later street numbers are not readable; target-bay mapping and comparative facade reading are steward-attributed plus cross-source geometry.
+- Review: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`

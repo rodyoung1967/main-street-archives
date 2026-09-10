@@ -279,3 +279,12 @@ This is an **occupancy/trade-name boundary, not a real-estate ownership event**.
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
 
 `E-259` / `S-285` directly advertises **Wheel Cafe & Lounge, 503 Main St., phone 9106** on **28 March 1958**. This is an occupancy/trade-name advertising endpoint only; it is not a real-estate conveyance, opening date, business sale, assumed-name filing, or license transfer.
+
+## 1918→1925 photographic structural bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`) and CCHS P‑267 (`S-312` / `E-284` / `IMG-0770`), read with the existing 1925 Sanborn (`E-020`), materially tighten the target-frontage physical-change interval. The project steward maps the visible target row to later 501/503/505 positions; no address numbers are readable in either photograph.
+
+The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 503 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
+
+At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.

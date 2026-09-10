@@ -867,3 +867,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-310` / `E-282` | `BUS-007`; `P-400` Percy Cross; `P-401` A. E. Wilmot | 19 Jan. 1912 p8 directly verifies Harding-drugstore staffing wording; no street number on page. `E-092` supplies separate 5 Jan. 511 Main control, so 511 continuity is cross-source inference only. |
 | `S-310` / `E-282` | `P-402` Milton Price | 19 Jan. p7 jury-list wording “Milton Price, pool hall”; no address or proprietor/employee status; no merge to 503/505 pool-hall chains. |
 | `S-310` / `E-282` | Farr Bros. same-name lead | 19 Jan. p7 County Poor expenditure of $10; no address/proprietor/business type and no merge to later `BUS-104` or 505 Main. |
+
+## 1918→1925 target-frontage photographic bracket — 9 September 2026
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+| Media/source | Evidence/timeline | Buildings | Meaning |
+| --- | --- | --- | --- |
+| `IMG-0769` / `S-311` / CCHS `2008.008.009.016` | `E-283` / `T-103` | `B-005`, `B-001`, `B-002` | 1918 predecessor target-row state; 505 false-front change is steward-attributed plus cross-source. |
+| `IMG-0770` / `S-312` / CCHS `P‑267` | `E-284` / `T-104` | `B-005`, `B-001`, `B-002` | 1924–1928 changed target-row state. |
+| Cross-source | `E-285` + existing `E-020` / `E-272` | `B-005`, `B-001`, `B-002` | Strong inference: material target-frontage replacement/reconfiguration after 1918 and by 1925; exact individual event dates unresolved. |

@@ -555,3 +555,8 @@ The complete June monthly scan pass (`S-294` / `E-268`) did not identify the May
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
 
 Direct source `S-297` / `E-271` places **S. Fesznecker's tin and repair shop** in the **building just south of the post office** by 12 Sep. 1919 after a move from Broadway. Next online/manual targets: identify Fesznecker's full name; locate directory/telephone/classified listings; test whether a numbered address is recoverable; and compare the location carefully with cleaner/dyer `E-136` (`two doors south`). Do not assign 501/503/505 or infer exact adjacency without an independent address/parcel bridge.
+
+### RL-024 update — 1918→1925 photograph/map bracket
+<!-- 2026-09-09-cchs-1918-p267-target-transition -->
+
+New CCHS photograph controls `E-283` and `E-284`, combined in `E-285`, tighten the target physical-change search to **after the photographed 1918 state and by the 1925 Sanborn state**. Continue `RL-024` for the exact building-by-building event dates, permits, assessor/improvement changes, construction reporting, and any 1922-fire relationship. Do not upgrade c.1919 (503) or c.1920 (505) from survey estimates solely because they fall inside the bracket.

@@ -273,3 +273,17 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-246` / `E-220`
 - Date/title: **1896** in institutional title
 - Status: committed; readable Albright cold-storage, Wilhelm Tell House and Schlitz signage; exact later numbered-address mapping unresolved.
+
+### IMG-0769 — CCHS 2008.008.009.016, Oregon City from the Bluff at 4th Street Steps
+- File: `media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg`
+- Source/evidence: `S-311` / `E-283`
+- CCHS: `2008.008.009.016`
+- Date: **1918**
+- Key value: structural-state control for the steward-identified 501/503/505 target frontage; see detailed capture for address-mapping limits.
+
+### IMG-0770 — CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff
+- File: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`
+- Source/evidence: `S-312` / `E-284`
+- CCHS: `P‑267`
+- Date: **1924-1928**
+- Key value: structural-state control for the steward-identified 501/503/505 target frontage; see detailed capture for address-mapping limits.
