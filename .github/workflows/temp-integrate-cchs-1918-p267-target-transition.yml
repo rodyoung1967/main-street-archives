@@ -34,6 +34,19 @@ jobs:
       - name: Baseline archive validation
         run: python3 scripts/validate_archive.py
 
+      - name: Correct temporary integrator indentation handling
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/integrate_cchs_1918_p267_target_transition.py')
+          s = p.read_text(encoding='utf-8')
+          old = 'wr(path, text.rstrip() + "\\n\\n" + block.strip() + "\\n")'
+          new = 'wr(path, text.rstrip() + "\\n\\n" + block.strip("\\n") + "\\n")'
+          if old not in s:
+              raise SystemExit('expected append_once line not found')
+          p.write_text(s.replace(old, new, 1), encoding='utf-8')
+          PY
+
       - name: Integrate photographs and structural bracket
         run: python3 scripts/integrate_cchs_1918_p267_target_transition.py
 
