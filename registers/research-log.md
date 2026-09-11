@@ -1240,3 +1240,16 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Combined with `S-284` / `E-257`, the archive now treats **Wells / Well's Recreation at 505 in 1960** as a **STRONG CROSS-SOURCE INFERENCE**.
 - Preserved limits: 1960 proprietor/licensee, formal punctuation, uninterrupted 1953–1960 operation, and exact Wells→505 Tavern transition remain unresolved.
 - No institutional request sent and no fee authorized.
+
+
+## 2026-09-11 — 1916 Courier 17 August complete visual review
+
+- Used the eight original University of Oregon page PDFs already preserved under `newspapers/oregon-city-courier/1916-august/1916-08-17/`; no duplicate preservation fetch was added.
+- Visually inspected **8/8 pages**. OCR/search text was discovery/navigation only.
+- Page 2 directly repeats **R. L. Holman, Fifth and Main**.
+- Page 7 directly repeats **The Electric Store, Andresen Building, 619 Main**.
+- Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- Page 3's `505.00` occurrence is a **$505 Ford Coupelet price**, not 505 Main. Page 1's Main Street city-hall property is explicitly between Seventh and Eighth and outside the target frontage.
+- No exact 503/505 premises fact was established. Registered `S-323` / `E-296`.
+- Cross-record propagation audit: no new building, business, person, ownership, tenancy, license, trade-name, construction, demolition, sale, vacancy or target-address relationship was created; timeline/building/business/person/open-question records therefore require no historical-content change from this bounded no-hit issue.
+- Courier advances to **326/458**; **132 Courier + 426 Enterprise = 558** newspaper pages remain. Next ordinary Courier page: **24 August 1916 p1**. 1916 remains **IN PROGRESS / not ONLINE COMPLETE**.
