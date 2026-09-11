@@ -2922,3 +2922,16 @@ Claims:
 Classification: **STRONG CROSS-SOURCE INFERENCE** for the after-1918/by-1925 structural transition bracket.  
 Confidence: **High** for the broad transition interval; exact building-by-building event dates unresolved.  
 Related buildings: `B-005`, `B-001`, `B-002`.
+
+
+## E-286 — 18 May 1916 Courier page 6 visual recovery and Main Street track-surface context
+Type: Primary newspaper visual evidence / annual visual-gap resolution.  
+Source: `S-313`.  
+Claims:
+- the exact 18 May 1916 *Oregon City Courier* page 6 original PDF was recovered, rendered, and visually inspected in full;
+- the page directly reports that the **Portland Railway, Light & Power Co.** had a crew working on its **Main Street tracks**, removing stone filler and cutting pavement to the ends of the ties so the space could be filled with Belgian blocks;
+- that wording documents street/track-surface work and is **not** evidence of a 503/505 storefront, building alteration, tenancy, ownership, or business change;
+- the full page supplies no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy claim;
+- the former annual visual retrieval gap for May 18 p6 is resolved, advancing Courier visual coverage to **254/458**.
+Classification: **DOCUMENTED / DIRECT** for the scan-visible street/track work and page coverage; **NO TARGET-PREMISES BRIDGE**.  
+Confidence: **Very High** for source identity, page/date, visual coverage, and printed wording.

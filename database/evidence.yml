@@ -4294,3 +4294,19 @@ evidence:
     related_media: [IMG-0769, IMG-0770]
     related_buildings: [B-005, B-001, B-002]
     repository_file: "evidence/source-captures/1918-to-1925-target-frontage-photographic-structural-bracket-2026-09-09.md"
+
+
+  - id: E-286
+    name: "18 May 1916 Courier page 6 visual recovery and Main Street track-surface context"
+    type: "Primary newspaper visual evidence / annual visual-gap resolution"
+    claims:
+      - "The exact 18 May 1916 Courier page 6 PDF was recovered, rendered and visually inspected in full."
+      - "P. R. L. & P. directly reports a crew working on its Main Street tracks, removing stone filler and cutting pavement to tie ends for Belgian-block infill."
+      - "The item documents public street/track-surface work, not a 503/505 building, tenancy, ownership or business change."
+      - "No exact 503/505 occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy claim appears on the page."
+      - "The former May 18 page-6 visual gap is resolved; Courier coverage advances to 254/458."
+    confidence: "Very High for source identity, page/date, visual coverage and printed wording; no target-premises bridge"
+    related_sources: [S-313]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-may18-may25-bounded-review-2026-09-11.md"

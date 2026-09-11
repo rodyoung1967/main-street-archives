@@ -2662,3 +2662,15 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-284` / `IMG-0770` / `T-104`.  
 Related buildings: `B-005`, `B-001`, `B-002`.  
 Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.
+
+
+## S-313 — Oregon City Courier, 18 May 1916, page 6 recovered visual source
+Type: Primary newspaper page scan; **VISUALLY VERIFIED 11 September 2026**.  
+Publication/date/page: *Oregon City Courier*, **18 May 1916, page 6 / archive seq. 6**.  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-6/  
+Repository PDF: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/oregonnews-ed1-seq6.pdf`.  
+Recovery manifest: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/recovery-manifest.json`.  
+SHA-256 / size: `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb02052061`; 758,542 bytes.  
+Recovery source commit: `cbf0bb8ffe2e78257895c8a58b221713d16afbde`.  
+Related evidence: `E-286`.  
+Notes: This source resolves the former 1916 annual visual-retrieval gap. Full-page visual review confirms a P. R. L. & P. item about repairing the surface around **Main Street tracks** by removing stone filler, cutting pavement to tie ends, and using Belgian-block infill. This is street/track work, not a target building event. No exact 503/505 occupancy, ownership, tenancy, license, sale, construction, demolition or vacancy claim is printed.

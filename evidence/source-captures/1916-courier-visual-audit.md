@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **253/458 Courier pages visually verified**. The audit now includes all pages through May 18 p5, May 18 pp7–8, the full 11-image May 25 Booster Edition, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. **May 18 p6 remains a visual RETRIEVAL GAP** because the page/PDF text is reachable but repeated scan rendering failed; it is not counted as visual review. [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133; [11 September bounded review](1916-courier-may18-may25-bounded-review-2026-09-11.md). The next ordinary unreviewed page after the gap is **June 8 p1**; 205 Courier slots remain pending/unresolved. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **254/458 Courier pages visually verified**. The audit now includes **May 18 in full (8/8)**, the full 11-image May 25 Booster Edition, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. The former May 18 p6 visual gap was recovered from the original University of Oregon PDF and visually verified (`S-313` / `E-286`). [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133; [11 September bounded review](1916-courier-may18-may25-bounded-review-2026-09-11.md). The next ordinary unreviewed page is **June 8 p1**; **204 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 
@@ -118,7 +118,7 @@ No reliable April exact-address listing for **503 Main** or **505 Main** has yet
 
 The May 11 issue again carries Holman & Randall at **Fifth and Main St.**
 
-On 11 September, May 18 pp4, 5, 7 and 8 were visually inspected; **May 18 p6 remains a visual RETRIEVAL GAP** after repeated renderer failures and therefore is not counted as visual review. May 25's **11 available archive images** were visually inspected in full.
+On 11 September, May 18 pp4, 5, 7 and 8 were visually inspected, and the former p6 gap was subsequently recovered from the original University of Oregon PDF and visually verified. **May 18 is now 8/8 visually verified.** May 25's **11 available archive images** were also visually inspected in full. Page 6 includes a short report that the Portland Railway, Light & Power Co. was repairing the surface around its **Main Street tracks**, removing stone filler and cutting pavement to the tie ends for Belgian-block infill. This is street/track work, not a 503/505 building event.
 
 The May 25 **Booster Edition** business directory carries the established neighboring sequence:
 
@@ -138,7 +138,7 @@ The detailed June issue-by-issue audit is still underway.
 
 ## Review status
 
-January through May now have a documented chronological audit trail, but May is **not fully visually closed** because May 18 p6 remains a scan-render retrieval gap. The next ordinary unreviewed Courier page is June 8 p1 (June 1 is already complete). Continue chronologically through all remaining pages/issues while carrying the May 18 p6 gap explicitly, with special attention to:
+January through May now have a documented chronological audit trail, and **May is fully visually closed for the Courier**. The next ordinary unreviewed Courier page is **June 8 p1** (June 1 is already complete). Continue chronologically through all remaining pages/issues, with special attention to:
 
 - 503 Main / 505 Main exact-address evidence;
 - L. Hylton or successor at 503;

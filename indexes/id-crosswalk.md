@@ -876,3 +876,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0769` / `S-311` / CCHS `2008.008.009.016` | `E-283` / `T-103` | `B-005`, `B-001`, `B-002` | 1918 predecessor target-row state; 505 false-front change is steward-attributed plus cross-source. |
 | `IMG-0770` / `S-312` / CCHS `P‑267` | `E-284` / `T-104` | `B-005`, `B-001`, `B-002` | 1924–1928 changed target-row state. |
 | Cross-source | `E-285` + existing `E-020` / `E-272` | `B-005`, `B-001`, `B-002` | Strong inference: material target-frontage replacement/reconfiguration after 1918 and by 1925; exact individual event dates unresolved. |
+
+
+## S-313 / E-286 — 18 May 1916 Courier page 6 gap resolution
+<!-- 2026-09-11-1916-may18-page6-recovery -->
+
+- `S-313` / `E-286` → recovered and visually verified *Oregon City Courier*, 18 May 1916, p. 6.
+- `E-286` → P. R. L. & P. Main Street track/pavement surface work only; **no 501/503/505 premises, building, ownership, tenancy or business relation created**.
+- Annual coverage consequence: former visual retrieval gap resolved; Courier **254/458** visually verified, next ordinary unreviewed page **8 Jun. p1**.

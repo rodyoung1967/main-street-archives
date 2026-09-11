@@ -1132,3 +1132,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Courier advances from **238 to 253/458 visually verified**; **205 Courier slots** remain pending/unresolved, including the May 18 p6 gap. Enterprise remains **426 pending**; combined remainder **631**.
 - Current unresolved page: May 18 p6. Next ordinary unreviewed Courier page: **June 8 p1**. No institutional outreach, purchase, or fee authorization occurred.
 - Detailed capture: evidence/source-captures/1916-courier-may18-may25-bounded-review-2026-09-11.md.
+
+
+## 2026-09-11 — 1916 Courier May 18 page 6 recovery gap resolved
+
+- Added and ran the repository recovery workflow for the one unresolved May 18 page.
+- University of Oregon returned the exact page-6 PDF: **758,542 bytes**, SHA-256 `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb02052061`; recovery source commit `cbf0bb8ffe2e78257895c8a58b221713d16afbde`.
+- Rendered the recovered PDF and visually inspected the complete page. The printed masthead/date and page number confirm **Oregon City Courier, Thursday, May 18, 1916, page 6**.
+- The page's relevant Main Street item reports P. R. L. & P. repairing the surface around its Main Street tracks by removing stone filler, cutting pavement to tie ends, and planning Belgian-block infill. This is street/track work, not a 503/505 building or premises event.
+- No exact 503/505 occupant, proprietor, property owner, tenant, licensee, business transfer, construction, demolition, vacancy, or sale was established.
+- Registered `S-313` / `E-286`. Courier coverage advances to **254/458**, with **204** Courier pages and **426** Enterprise pages remaining (**630 total**). May Courier coverage is now complete; next ordinary page is **June 8 p1**.

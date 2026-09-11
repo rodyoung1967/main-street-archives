@@ -1,6 +1,6 @@
 # 1916 Courier May 18 / May 25 bounded visual review — 11 September 2026
 
-Status: **IN PROGRESS — bounded batch completed with one visual retrieval gap**
+Status: **IN PROGRESS — bounded batch complete; former visual retrieval gap resolved**
 
 Workstream: ANNUAL-1916
 
@@ -20,7 +20,7 @@ The saved remainder for May was May 18 pp4–8 plus the May 25 Booster Edition's
 | --- | --- | --- |
 | 18 May p4 | **VISUALLY VERIFIED** | Editorials, banking, farm-machinery, survey and general advertising. No exact 503/505 premises fact. |
 | 18 May p5 | **VISUALLY VERIFIED** | Local/news page and pictorial business directory. Recurring neighboring businesses and unnumbered Raasch & Lamb context; no exact 503/505 fact. |
-| 18 May p6 | **RETRIEVAL GAP — visual** | Archive page and PDF text are reachable, but repeated attempts to render the original scan failed. OCR/PDF text was not promoted to scan certification. |
+| 18 May p6 | **VISUALLY VERIFIED — recovered** | Original University of Oregon page PDF recovered by repository workflow, rendered and inspected in full. Page carries general/local material plus a short P. R. L. & P. Main Street track-surface repair item; no exact 503/505 premises fact. |
 | 18 May p7 | **VISUALLY VERIFIED** | Legal notices, county accounts, Electric Store at 617 Main and classifieds. No exact 503/505 premises fact. |
 | 18 May p8 | **VISUALLY VERIFIED** | Retail advertisement, county accounts, local notices and Booster Day planning. No exact 503/505 premises fact. |
 | 25 May p1 | **VISUALLY VERIFIED** | Booster Day program places stock-parade assembly at Fifth and Main and parade travel on Main. Geographic/event-route evidence only; not occupancy or ownership. |
@@ -58,7 +58,7 @@ This batch did **not** establish:
 
 The Fifth-and-Main Booster Day route is not converted into premises evidence. The Jones Drug relocation item is not assigned to a numbered storefront without an independent address bridge. Recurring 507/509/511 directory evidence remains neighboring-address context and does not fill the 503/505 gap.
 
-The May 18 p6 failure is a **retrieval gap**, not a negative search result. Its OCR/PDF text may be used for discovery but does not count as page-level visual review.
+The former May 18 p6 retrieval gap is **RESOLVED**. Recovery workflow `.github/workflows/recover-1916-courier-may18-page6.yml` obtained the original University of Oregon PDF, now preserved at `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/oregonnews-ed1-seq6.pdf` (758,542 bytes; SHA-256 `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb02052061`). The full page was rendered and visually inspected. `S-313` / `E-286` preserve the source and interpretation limits.
 
 ## Updated annual counts
 
@@ -67,18 +67,23 @@ Before this batch:
 - Enterprise: **0/426 exhaustive visual pages**, 426 pending.
 - Combined: **238/884 reviewed**, 646 pending.
 
-This batch adds **15 visually verified Courier pages** and leaves one attempted page as a visual retrieval gap.
+The initial bounded pass added 15 visually verified Courier pages; the same-day recovery adds **one more**, resolving the only May gap.
 
-After this batch:
-- Courier: **253/458 visually verified**, **205 pending/unresolved**.
+Current totals:
+- Courier: **254/458 visually verified**, **204 pending**.
 - Enterprise: **0/426 exhaustive visual pages**, **426 pending**.
-- Combined: **253/884 visually reviewed**, **631 pending/unresolved**.
+- Combined: **254/884 visually reviewed**, **630 pending**.
 
-Of the Courier remainder, May 18 p6 is the explicit visual retrieval gap. The next ordinary unreviewed page after that gap is **8 June 1916 p1**. Do not repeat the already completed first-monthly issues: June 1, July 6, August 3, September 7, October 5, November 2 and December 7.
+May is now complete for the Courier. The next ordinary unreviewed page is **8 June 1916 p1**. Do not repeat the already completed first-monthly issues: June 1, July 6, August 3, September 7, October 5, November 2 and December 7.
+
+## May 18 p6 recovery result
+
+The recovered scan directly shows printed page **6** with the masthead/date **Thursday, May 18, 1916**. Full-page visual review found no exact 501/503/505/507/509/511 premises assignment or target business/property transaction. The most relevant Main Street item is **"P. R. L. & P. Repairs Surface"**: the company had a crew working on its Main Street tracks, removing stone filler and cutting pavement to the ends of its ties so the space could be filled with Belgian blocks. This is public-street/track-surface work and is not converted into a storefront, building, ownership or tenancy event.
+
+Other page material includes the Bank of Commerce statement, county/city fund items, a Redlands sawmill fire, local/community reports, and a large Portland Roberts Bros. advertisement; none establishes a target-premises change.
 
 ## Next action
 
-1. Re-attempt May 18 p6 from an alternate faithful scan derivative or renderer; retain the gap if it still cannot be visually inspected.
-2. Resume the ordinary chronological Courier pass at **8 June 1916 p1**.
-3. Continue to skip the seven previously completed monthly-sample issues.
-4. After the Courier is closed, complete the 426-page *Oregon City Enterprise* visual ledger and remaining online-source classes before any annual completion claim.
+1. Resume the ordinary chronological Courier pass at **8 June 1916 p1**.
+2. Continue to skip the seven previously completed monthly-sample issues.
+3. After the Courier is closed, complete the 426-page *Oregon City Enterprise* visual ledger and remaining online-source classes before any annual completion claim.
