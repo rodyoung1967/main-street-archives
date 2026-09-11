@@ -3064,3 +3064,17 @@ Classification: **DOCUMENTED / DIRECT** for the 1960 photo/date; **STRONGLY SUPP
 Confidence: **High** for WELLS sign reading; **High** for the 1960 Well's Recreation identification when combined with the independent 1953 same-address source; proprietor/licensee unresolved.
 Related building: `B-002`.
 Related business: `BUS-015`.
+
+
+## E-296 — 17 August 1916 Courier complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-323`.  
+Claims:
+- all **8/8 pages** of the 17 August 1916 *Oregon City Courier* were visually inspected from original scans;
+- page 2 directly prints **R. L. Holman — Fifth and Main St.**;
+- page 7 directly prints **The Electric Store — Andresen Building, 619 Main Street**;
+- page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- page 3's `505.00` occurrence is a **$505 Ford Coupelet price**, not 505 Main;
+- no exact 503 Main or 505 Main occupant, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy or other target-premises event is printed.
+Classification: **DOCUMENTED / DIRECT** for scan-visible controls and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High** for printed wording and 8/8 page review.
