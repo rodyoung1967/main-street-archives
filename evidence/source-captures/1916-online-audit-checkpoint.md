@@ -223,3 +223,15 @@ Updated coverage: Courier **318/458 visually verified**, **140 pending**; Enterp
 - No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy or other target-premises event.
 
 Updated coverage: Courier **326/458 visually verified**, **132 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **326/884 visually reviewed, 558 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **24 August p1**.
+
+
+## Added 24 August–14 September complete-issue segment — 11 September 2026
+
+Four additional *Oregon City Courier* issues are now fully visually reviewed from the original University of Oregon page scans: **24 August, 31 August, 7 September, and 14 September 1916**. The 7 September first-monthly issue was already part of the maintained monthly set and is not double-counted.
+
+- **24 August — 8/8 visually verified.** No exact 503/505 premises fact. Jones Drug Co. is described in "new quarters" without an exact Main Street number, so it is not assigned to 503 or 505.
+- **31 August — 8/8 visually verified.** No exact 503/505 premises fact. A generic prohibition speech about former saloon buildings does not identify either target address and is not vacancy/occupancy evidence.
+- **14 September — 8/8 visually verified.** No exact 503/505 occupant, owner, tenant, licensee, trade-name, sale, transfer, construction, demolition, closure, or vacancy event.
+- Recurring controls across these issues include **Champion Smith & Telford at 502 Main**, **R. L. Holman at Fifth and Main**, **The Electric Store at 619 Main**, and **Raasch & Lamb unnumbered**. None is converted into a 503/505 assignment without an explicit address bridge.
+
+Updated coverage: Courier **350/458 visually verified**, **44 complete issues**, **108 Courier pages pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **350/884 visually reviewed, 534 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **21 September p1**.
