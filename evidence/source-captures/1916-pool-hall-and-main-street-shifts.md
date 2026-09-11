@@ -52,7 +52,7 @@ Repeated 1916 *Courier* advertising identifies:
 Examples:
 - 3 Feb 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-03/ed-1/seq-8/
 - 4 May 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-8/
-- 8 Jun 1916 p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/
+- 8 Jun 1916 p.5 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/
 - 15 Jun 1916 p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-5/
 - 27 Jul 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/seq-8/
 
@@ -89,3 +89,8 @@ The 1916 target block remains unresolved at 503 and 505, but this pass removes o
 ## June/July original scans now verified — E-119/S-133
 
 June 1 pp3/5/8 confirms the announced Andresen rearrangement and Schilling move; planned/council-authorized moves are not all proven completed that day. July 6 p7 explicitly reports Electric Store/power offices now at **619 Main, Andresen Building**, one door north, while retaining an apparently stale 617 footer. This does not number Raasch & Lamb or connect it to 503/505. The earlier June 22 lead remains at its prior review level. [Full wording limits and originals](1916-courier-first-monthly-june-december.md).
+
+
+## 11 September 2026 — June 8 visual certification
+
+The complete 8 June issue is now visually verified under `S-314` / `E-287`. Page 5 directly shows the **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel with **no street number**, while the same page directly prints **Champion Smith & Telford — 502 Main Street**. Page 6 separately confirms Bradley 507, Brightbill 509 and Harding 511. Nothing in the issue maps Raasch & Lamb to 503, 504 or 505, so the earlier narrowing conclusion is retained without manufacturing an address.

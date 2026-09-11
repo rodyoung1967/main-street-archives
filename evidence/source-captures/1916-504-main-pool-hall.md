@@ -25,7 +25,7 @@ A recurring 1916 *Courier* picture-ad series identifies **RAASCH & LAMB — POOL
 Recovered examples include:
 
 - 3 Feb 1916 p8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-03/ed-1/seq-8.pdf
-- 8 Jun 1916 p5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/ocr/
+- 8 Jun 1916 p5 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/
 - 24 Aug 1916 p8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-24/ed-1/seq-8/ocr/
 - 30 Nov 1916 p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-11-30/ed-1/seq-6.pdf
 
@@ -96,3 +96,8 @@ These records make it plausible that the **Sam Oldstein at 504 Main in Dec. 1916
 ## Verification status
 
 The recovered text is direct and useful evidence, but under `RESEARCH-STANDARD.md` it remains **OCR/TEXT ONLY** until the actual scanned pages are visually inspected.
+
+
+### 11 September 2026 visual update
+
+The 8 June p5 Raasch & Lamb panel is now visually verified from the original scan. It reads **POOL AND BILLIARDS / Everything for Smokers / RAASCH & LAMB** but supplies **no street number**. This strengthens the existence/name control only; it does not connect Raasch & Lamb to the separate December 1916 **504 Main** Oldstein/Wade business.

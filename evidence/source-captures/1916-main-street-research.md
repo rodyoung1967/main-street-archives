@@ -22,7 +22,7 @@ Recovered examples:
 - 6 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-06/ed-1/seq-2/ocr/
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
 - 11 May 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2/
-- 8 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
+- 8 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
 - 15 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
 - 29 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-6/ocr/
 - 13 Jul 1916, p4: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/seq-4/
@@ -63,7 +63,7 @@ Recovered examples:
 - 16 Mar 1916, p5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-16/ed-1/seq-5.pdf
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
 - 11 May 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2/
-- 8 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
+- 8 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
 - 15 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
 - 13 Jul 1916, p4: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/seq-4/
 
@@ -193,3 +193,8 @@ This makes the unresolved 503/505 occupancy conspicuous but does not justify inf
 ## 28 August 2026 certified update
 
 Current exhaustive coverage is **Courier 238/458 pages**: the chronological segment through **May 18 p3**, plus seven full first-monthly issues June–December. Next chronological page remains May 18 p4; see [current monthly ledger](1916-courier-first-monthly-june-december.md). The 104-issue/884-page inventory is recorded in the [checkpoint](1916-online-audit-checkpoint.md); older inventory to-dos and targeted search checkpoints above are historical, not current coverage. April 20 has **12**, not 10 pages. [Verified batch and findings](1916-courier-pages-106-180.md), E-116/S-130. Other online source work remains pending.
+
+
+## 11 September 2026 — complete June 8 issue
+
+The 8 June *Courier* is now **8/8 visually verified** (`S-314` / `E-287`). Page 6 directly reconfirms the neighboring north-side sequence **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**, plus Holman & Randall at **Fifth and Main**. Page 5 directly verifies **Champion Smith & Telford at 502 Main** and shows the **Raasch & Lamb** pool/billiards panel without a street number. No page prints an exact 503 or 505 Main occupant or a target ownership, tenancy, license, construction, demolition, sale or vacancy event. That is bounded issue coverage, not evidence that 503/505 were unused.
