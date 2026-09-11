@@ -1,0 +1,13 @@
+issue_date	sequence	canonical_pdf_url	bytes	sha256	disposition
+1912-05-10	2	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-10/ed-1/seq-2.pdf	702636	05c2f75134ccfc0288771103753126b4bdcccbf954636b8a1f151155a60ebfe5	comparison control; true 10 May page 2; visually distinct
+1912-05-17	1	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-17/ed-1/seq-1.pdf	659087	4a9eb94b1ac26e74448bd415d4c2696e0b7ce2e5760b11223311c69ba209f52e	visual intra-issue continuity control; carries article to page 2
+1912-05-17	2	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-17/ed-1/seq-2.pdf	672595	42681d3bbe9b0c8e37c25afaa6401ba5ffafbcf11438c06cde79663a58e23136	VISUALLY VERIFIED; genuine intended-date page 2 with wrong 10 May running header
+1912-05-17	6	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-17/ed-1/seq-6.pdf	646437	4139295b5ace89bcff55009b306c13fe186b7cbd4509d5cd0be97d0db70418fe	visual intra-issue continuity control; County Court continued from page 2
+1912-01-26	1	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-1.pdf	705555	c23d96d22cbb1aa39e29bcce935930bed93ddc9033069754f271285aefe5a290	VISUALLY VERIFIED
+1912-01-26	2	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-2.pdf	678008	cbac3d1b9dbe0dfb7d73dfe93417440c38b51cf0b9cc1c51a0d4385fbf74db40	VISUALLY VERIFIED
+1912-01-26	3	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-3.pdf	719325	10fce7d5b630b59c0caf20bd499635dbf80d670458076e409b36e67a6e2669df	VISUALLY VERIFIED
+1912-01-26	4	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-4.pdf	678095	9e24eff4bf987c034dd4eb787f7beb34175556b298ffa12785961bf060a05829	VISUALLY VERIFIED
+1912-01-26	5	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-5.pdf	626153	d505c9a394e3fbd4780cda0d58a6c2b5950d24d54daf79f03e9c210fd487adb5	VISUALLY VERIFIED
+1912-01-26	6	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-6.pdf	668534	f253a02b0f8ffd7de3a857319ad0db1c90a0e670b207c129d3622fa78a05a200	VISUALLY VERIFIED
+1912-01-26	7	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-7.pdf	809389	6a91657956cf01034948cf14b8afa8c7d03583384b2426e5e9e075251de41b88	VISUALLY VERIFIED
+1912-01-26	8	https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-8.pdf	817361	dc78c8d40e2c3e24fa324ee2bf9e9aa417860083cad8ef872b984e7e6c279325	VISUALLY VERIFIED

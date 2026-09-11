@@ -3,6 +3,8 @@
 Date: 9 September 2026  
 Status: **IN PROGRESS — ISSUE-INVENTORY / RETRIEVAL CHECKPOINT**
 
+> **Superseded 17 May page-2 status — 11 September 2026:** sequence 2 is now **VISUALLY VERIFIED** as the genuine intended 17 May page with an erroneous May 10 running header. It is distinct from the actual 10 May page 2 and connects the 17 May page-1 article continuation to the page-6 County Court continuation. Use `1912-courier-may17-page2-resolution-jan26-visual-review-2026-09-11.md` for current status. The 3 May pagination anomaly remains unresolved.
+
 Purpose: continue the current-standard 1912 *Oregon City Courier* audit from authoritative `main` without restarting the year or reviving the obsolete `research/1912-main-street` branch. This checkpoint records page-count controls, visual-credit inheritance, and retrieval gaps only. It does not create a historical claim from OCR or issue metadata.
 
 ## Synchronization / parallel-work control

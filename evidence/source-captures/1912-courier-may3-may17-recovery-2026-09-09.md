@@ -2,6 +2,8 @@
 
 Status: **IN PROGRESS — RETRIEVAL / PAGINATION GAP CHECKPOINT**
 
+> **17 May update — 11 September 2026:** the page-2 conclusion below is superseded. Direct visual comparison with the actual 10 May page 2 and visual continuity from 17 May pages 1 → 2 → 6 establish sequence 2 as the genuine intended 17 May page bearing a wrong **May 10** running header. The 17 May retrieval gap is resolved; the 3 May duplicate-printed-page-7 anomaly remains open. See `1912-courier-may17-page2-resolution-jan26-visual-review-2026-09-11.md`.
+
 Purpose: record a fresh online recovery attempt for the two remaining *Oregon City Courier* archive defects after the ordinary 1912 issue-count reconciliation was completed. This is coverage/retrieval metadata only and creates no new historical claim-level ID.
 
 ## 17 May 1912 — genuine page/image 2 still not recovered

@@ -2,6 +2,8 @@
 
 Status: **IN PROGRESS — ISSUE-INVENTORY CHECKPOINT**
 
+> **Superseded 17 May page-2 status — 11 September 2026:** sequence 2 is now **VISUALLY VERIFIED** as the genuine intended 17 May page with a wrong May 10 running header. The retrieval gap is resolved through direct scan comparison and visual intra-issue continuity. See `1912-courier-may17-page2-resolution-jan26-visual-review-2026-09-11.md`. The 3 May duplicate-printed-page-7 anomaly remains open.
+
 Purpose: close the remaining straightforward 1912 *Oregon City Courier* issue-size controls while preserving the distinction between archive inventory and actual scan-level visual review. This checkpoint creates no historical occupant, ownership, building, person, business, or address claim.
 
 ## Newly resolved issue-size controls

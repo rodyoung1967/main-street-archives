@@ -2,6 +2,8 @@
 
 Status: **CURRENT CONVERSATION HANDOFF / RESTART CONTROL**. This file preserves the safe restart state after the 1909→1912 annual-pass conversation. It does not create a new historical claim by itself.
 
+> **Coverage update — 11 September 2026:** the 17 May Courier page-2 gap described below has been resolved. Sequence 2 is the genuine intended 17 May page with an erroneous May 10 running header and is now **VISUALLY VERIFIED**. The 26 January Courier is also complete at **8/8 VISUALLY VERIFIED**. Resume the chronological Courier audit at **2 February 1912, page/sequence 1**, after checking current `main`. See `1912-courier-may17-page2-resolution-jan26-visual-review-2026-09-11.md`.
+
 Repository: `rodyoung1967/main-street-archives`  
 Authoritative branch: `main`  
 Observed `main` immediately before this handoff write: `084d11e287ec7c1561398fcb1199da7c52de4eae` — `Preserve final 1922 Fifth Main fire conversation handoff`.  
