@@ -1,0 +1,48 @@
+name: Integrate 1960 WELLS sign at 505
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/integrate_1960_wells_sign_505.py'
+      - '.github/workflows/integrate-1960-wells-sign-505.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install PyYAML
+      - name: Integrate 1960 WELLS sign finding
+        run: python3 scripts/integrate_1960_wells_sign_505.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Anchor WELLS signage at 505 Main in 1960'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep 4
+          done
+          exit 1
