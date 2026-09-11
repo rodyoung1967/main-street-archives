@@ -2704,3 +2704,13 @@ Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-22/1916-
 Preservation commit: `6d436be3874e8ecb2ee377b0f466e91f6c1c1ae2`.  
 Related evidence: `E-289`.  
 Notes: Page 1 visually verifies the council dispute over Raasch & Lamb's temporary permit for removal of their pool-hall business to the basement of the Andresen Building; the report does not prove the move was completed. Page 3 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. Page 6 prints Bradley 507, Brightbill 509, Harding 511 Main and Holman/Randall at Fifth/Main. Page 7 repeats the completed Electric Store move to Andresen Building 619 Main with a stale 617 footer. No exact 503/505 premises assignment is printed.
+
+
+## S-317 — Oregon City Courier, 29 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Courier*, **29 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-29/1916-06-29-page-1.pdf` through `1916-06-29-page-8.pdf`; fetch manifest in the same directory.  
+Preservation commit: `51222ac20326cf07153d5e62c4889490893ab59a`.  
+Related evidence: `E-290`.  
+Notes: Page 3 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. Page 6 prints Bradley 507, Brightbill 509, and Harding 511 Main; OCR's 611 rendering for Harding is superseded by visual inspection. Page 7 repeats the completed Electric Store move to Andresen Building 619 Main with stale 617 footer. No exact 503/505 premises assignment is printed.

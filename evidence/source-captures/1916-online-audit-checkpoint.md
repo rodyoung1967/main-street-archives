@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | **31 complete issues / 278 pages visually reviewed**; 22 June complete under `S-316` / `E-289` |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | **32 complete issues / 286 pages visually reviewed**; June complete through 29 June under `S-317` / `E-290` |
 | *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **278 visually reviewed; 606 pending** |
+| **Total** |  | **104** | **884** | **286 visually reviewed; 598 pending** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,7 +79,7 @@ was retrieved.
 
 ## Resume point
 
-The former **18 May 1916 p6** gap is resolved, and the **8 June, 15 June, and 22 June 1916** Courier issues are now completely visually inspected from the original scans. The next ordinary unreviewed Courier page is **29 June 1916 p1**. Skip already completed sample issues when they recur later in the year, then complete the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The former **18 May 1916 p6** gap is resolved, and all June Courier dates are now completely visually inspected: the earlier-completed **1 June** sample plus **8, 15, 22, and 29 June**. The next ordinary unreviewed Courier page is **13 July 1916 p1** because **6 July** is already complete under the monthly sample. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
 
 The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
 non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
@@ -102,14 +102,14 @@ This 28 August checkpoint has now been advanced by the [11 September bounded May
 | Month | Issues/pages still requiring visual review | Pages left |
 | --- | --- | ---: |
 | May | complete | 0 |
-| June | 29 (pp1–8) | 8 |
+| June | complete | 0 |
 | July | 13 (pp1–8); 20 (pp1–8); 27 (pp1–8) | 24 |
 | August | 10 (pp1–8); 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 32 |
 | September | 14 (pp1–8); 21 (pp1–8); 28 (pp1–8) | 24 |
 | October | 12 (pp1–8); 19 (pp1–8); 26 (pp1–8) | 24 |
 | November | 9 (pp1–8); 16 (pp1–8); 23 (pp1–8); 30 (pp1–8) | 32 |
 | December | 14 (pp1–20); 21 (pp1–8); 28 (pp1–8) | 36 |
-| **Total** | **21 whole issues** | **180** |
+| **Total** | **20 whole issues** | **172** |
 
 
 ## Added bounded May segment — 11 September 2026
@@ -150,3 +150,15 @@ Updated coverage: Courier **270/458 visually verified**, **188 pending**; Enterp
 - No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
 
 Updated coverage: Courier **278/458 visually verified**, **180 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **278/884 visually reviewed, 606 pending**. **1916 remains IN PROGRESS** and is **not ONLINE COMPLETE**. Next ordinary Courier page: **29 June p1**.
+
+
+## Added 29 June complete-issue segment — 11 September 2026
+
+[Detailed review](1916-courier-june29-visual-review-2026-09-11.md) visually inspected all **8/8** original page scans for the 29 June 1916 *Courier*.
+
+- Page 3 directly prints **Champion Smith & Telford — 502 Main Street** and separately **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number.
+- Page 6 directly reconfirms **W. W. Bradley — 507 Main**, **H. P. Brightbill — 509 Main**, and **George A. Harding — 511 Main**. The OCR rendering of Harding as 611 is rejected in favor of the visually inspected printed number and the surrounding established directory sequence.
+- Page 7 repeats the completed Electric Store move to the **Andresen Building, 619 Main Street**, while retaining the stale Beaver Building / 617 Main footer.
+- No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
+
+Updated coverage: Courier **286/458 visually verified**, **172 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **286/884 visually reviewed, 598 pending**. **June Courier coverage is complete. 1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **13 July p1** because July 6 is already complete.

@@ -24,7 +24,7 @@ Recovered examples:
 - 11 May 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2/
 - 8 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
 - 15 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
-- 29 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-6/ocr/
+- 29 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-317` / `E-290`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-6/
 - 13 Jul 1916, p4: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/seq-4/
 - 20 Jul 1916, p3: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-20/ed-1/seq-3/
 
@@ -208,3 +208,8 @@ The 15 June *Courier* is now **8/8 visually verified** (`S-315` / `E-288`). Page
 ## 11 September 2026 — complete June 22 issue
 
 The 22 June *Courier* is now **8/8 visually verified** (`S-316` / `E-289`). Page 1 directly certifies the temporary-permit and ordinance dispute for **Raasch & Lamb** and the Andresen Building basement, but its wording does **not** establish completion of the move. Page 3 prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main / Holman & Randall Fifth and Main**. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. No page prints an exact 503/505 premises fact.
+
+
+## 11 September 2026 — complete June 29 issue
+
+The 29 June *Courier* is now **8/8 visually verified** (`S-317` / `E-290`) and closes June Courier coverage. Page 3 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**; OCR's 611 rendering for Harding is rejected by the scan. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. No page prints an exact 503/505 premises fact.

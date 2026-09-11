@@ -2149,3 +2149,13 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-june22-visual-review-2026-09-11.md"
     related_evidence: [E-289]
     notes: "Complete issue review. Page 1 certifies Raasch & Lamb temporary basement-move permit dispute at the Andresen Building without proving move completion. No exact 503/505 premises assignment."
+
+
+  - id: S-317
+    name: "Oregon City Courier, 29 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-29"
+    repository_file: "evidence/source-captures/1916-courier-june29-visual-review-2026-09-11.md"
+    related_evidence: [E-290]
+    notes: "Complete issue review and June closeout. Repeats 502/507/509/511 controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment."
