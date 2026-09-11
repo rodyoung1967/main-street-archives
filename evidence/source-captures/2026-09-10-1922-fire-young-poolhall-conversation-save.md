@@ -105,11 +105,11 @@ Conversation commit preserving this narrowing:
 
 A major catalog-level exact-address finding from this conversation is preserved on current `main`.
 
-### Museum of the Oregon Territory item P-391
+### Museum of the Oregon Territory item P‑391
 
 The actual Museum/CCHS photo-reference catalog page was visually inspected.
 
-Item **P-391** states in substance:
+Item **P‑391** states in substance:
 
 - **Young 2nd hand store**;
 - **505 Main street, Oregon City**;
@@ -126,7 +126,7 @@ Canonical note:
 Verification state:
 
 - the **museum catalog page is VISUALLY VERIFIED**;
-- the underlying historic photograph represented by P-391 has **not yet been directly inspected** in this research thread.
+- the underlying historic photograph represented by P‑391 has **not yet been directly inspected** in this research thread.
 
 Interpretation:
 
@@ -139,16 +139,16 @@ Conversation commit:
 
 - `ed56c10d15a7ff8802c40125d5bb98e41b0e8874`
 
-### P-372 correction
+### P‑372 correction
 
-Do **not** merge P-391 with Museum item P-372.
+Do **not** merge P‑391 with Museum item P‑372.
 
 The catalog itself shows:
 
-- **P-372:** Young's 2nd Hand store, **1907**, noted as **across alley from First National Bank**;
-- **P-391:** Young second-hand store, **505 Main**, **1910**, `same location as pool hall is now`.
+- **P‑372:** Young's 2nd Hand store, **1907**, noted as **across alley from First National Bank**;
+- **P‑391:** Young second-hand store, **505 Main**, **1910**, `same location as pool hall is now`.
 
-Earlier search snippets had blended the two records. The canonical P-391 note preserves this correction.
+Earlier search snippets had blended the two records. The canonical P‑391 note preserves this correction.
 
 ## George H. Young move chronology
 
@@ -156,7 +156,7 @@ This conversation tightened the 505 → 507 business chronology.
 
 Direct/verified points:
 
-- **1910:** Museum P-391 catalog = George H. Young second-hand store at **505 Main**.
+- **1910:** Museum P‑391 catalog = George H. Young second-hand store at **505 Main**.
 - **31 Mar 1911:** Chicago Store is visually verified operating at **505 Main**, so Young was no longer the sole documented 505 occupant by then.
 - **20 Apr 1911:** George Young advertises **`NEW STORE. NEW GOODS`** and says **`When I moved into my new store...`**; this confirms a recent move but the ad does not print the new address.
 - **5 Jan 1912 Oregon City Courier:** visually verified **`G. H. Young — The Curio Man — Buys and Sells Anything — 507 Main Street`**.
@@ -355,7 +355,7 @@ Failed access is a **RETRIEVAL GAP**, not negative evidence.
 
 The current historical-society research supplement already incorporates major recent synthesis, including:
 
-- the 1910 **P-391 / 505 Main / later pool-hall** catalog evidence;
+- the 1910 **P‑391 / 505 Main / later pool-hall** catalog evidence;
 - the Miller continuity evidence;
 - the distinction among Timms, Leland & Little, Wheeler, and Huerth & Sandergaard;
 - the Huerth & Sandergaard Eighth/Main elimination;
@@ -378,7 +378,7 @@ Do not manufacture a second report section simply to duplicate evidence already 
 7. Find **Alex Schieremann's exact tailor-shop address**.
 8. Close the exact pre-fire address and direct proprietor equation for **Gilbert Miller / Miller's Shoe Store**.
 9. Use **MF-006 / MF-007 / MF-019** to identify S. Wolf's exact parcel and map the Harding → Wolf/Gates split to modern 501/503/505.
-10. Obtain and visually inspect the underlying Museum **P-391 / M/R y #011-0048** photograph and determine, if possible, when the `same location as pool hall is now` annotation was made.
+10. Obtain and visually inspect the underlying Museum **P‑391 / M/R y #011-0048** photograph and determine, if possible, when the `same location as pool hall is now` annotation was made.
 11. Reconstruct the 1922 fire cluster using Ketchner-next-to-laundry, laundry/garage/restaurant/Miller relationships, Sanborn geometry, and exact Fifth Street numbering.
 
 ## Current conclusion
