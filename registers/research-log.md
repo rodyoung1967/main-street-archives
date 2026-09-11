@@ -1120,3 +1120,15 @@ Completed a thread-level preservation audit for the LaFarlette / Morton / Albert
 ### 2026-09-09 — CCHS P‑267 duplicate-catalog source-association correction
 
 Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only CatalogIt lookup selected an unrelated duplicate `P‑267` object. The exact Oregon City title+catalog match is entry `d0789660-9b1e-11eb-b3ef-53e7205a00b4` (`oregon-city-and-the-arch-bridge-as-seen-from-bluff.`). Replaced the incorrect repository derivative with the matching CCHS media derivative selected by perceptual comparison to the steward upload (dHash 1/256; SHA-256 `8a084d7d48dc176e871e79b96be2653eaea276aa4210a02905a97117948d8e9f`; 2400×1902; 784,067 bytes). No historical claim, ID, structural bracket, or confidence level changed; this was a provenance/binary repair.
+
+
+## 2026-09-11 — 1916 Courier May 18 / May 25 bounded audit
+
+- Resumed ANNUAL-1916 from authoritative main and the saved May 18 p4 checkpoint; did not repeat the completed June–December first-issue samples.
+- Visually inspected May 18 pp4, 5, 7 and 8 plus all 11 available May 25 Booster Edition archive images: **15 newly visually verified pages**.
+- May 18 p6 remains a **visual RETRIEVAL GAP**: archive/PDF text is reachable, but repeated scan-render attempts failed. OCR/text was not counted as visual certification.
+- No exact 503/505 occupant, business owner, property owner, licensee, tenancy, trade-name change, sale, vacancy, demolition, construction event or property transfer was established by the batch.
+- May 25 p1's Fifth-and-Main Booster Day assembly point is geographic/event-route context only. May 25 p5's Jones Drug planned move uses a relative door description without an exact number and is not mapped to 503/505.
+- Courier advances from **238 to 253/458 visually verified**; **205 Courier slots** remain pending/unresolved, including the May 18 p6 gap. Enterprise remains **426 pending**; combined remainder **631**.
+- Current unresolved page: May 18 p6. Next ordinary unreviewed Courier page: **June 8 p1**. No institutional outreach, purchase, or fee authorization occurred.
+- Detailed capture: evidence/source-captures/1916-courier-may18-may25-bounded-review-2026-09-11.md.

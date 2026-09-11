@@ -2,7 +2,7 @@
 
 Status: **IN PROGRESS**
 
-Checkpoint date: 28 August 2026 (prior 26 August segment preserved below)
+Checkpoint date: 11 September 2026 (28 August and prior 26 August segments preserved below)
 
 This file preserves the completed portion of the exhaustive 1916 online review so
 that later work can resume without either repeating certified visual coverage or
@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | 26 complete issues plus May 18 p1–3 / 238 pages visually reviewed; remainder pending |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | 27 complete issues plus May 18 pp1–5 and pp7–8 / **253 pages visually reviewed**; May 18 p6 is a visual retrieval gap |
 | *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **238 reviewed; 646 pending** |
+| **Total** |  | **104** | **884** | **253 visually reviewed; 631 pending/unresolved** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,10 +79,7 @@ was retrieved.
 
 ## Resume point
 
-Resume the Courier visual pass with **18 May 1916 p4 / chronological page 181**, then complete the remaining
-Courier issues and all 52 Enterprise issues. Preserve any non-rendering or
-misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable
-online recovery attempts.
+The current unresolved chronological page is **18 May 1916 p6 / chronological page 183**. Its archive page and PDF text are reachable, but repeated attempts to render the original scan failed in the current retrieval path; it therefore remains a precisely identified **RETRIEVAL GAP** and is **not** counted as visually verified. After resolving or carrying that gap explicitly, the next ordinary unreviewed Courier page is **8 June 1916 p1**. Skip the seven already completed first-monthly issues listed below, then complete the remaining Courier issues and all 52 Enterprise issues. Preserve any other non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
 
 The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
 non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
@@ -100,11 +97,11 @@ Related records:
 
 [Seven full monthly issues](1916-courier-first-monthly-june-december.md), **E-119/S-133**, adds 58 visually verified pages: June 1, July 6, August 3, September 7, October 5, November 2 and December 7. Courier **238/458**, with **220 pending**; Enterprise **426 pending**; both titles **238/884 reviewed, 646 pending**. This is 26 fully reviewed Courier issues plus May 18 pp1–3. All 52 Courier issue metadata files are now retained; May 25 has 11 pages and December 14 has 20.
 
-Next chronological page remains **May 18 p4**. Skip these seven completed issues on reaching them. Other online-source work and numbered manual-callout reconciliation remain pending. **1916 remains IN PROGRESS.**
+This 28 August checkpoint has now been advanced by the [11 September bounded May review](1916-courier-may18-may25-bounded-review-2026-09-11.md): May 18 pp4, 5, 7 and 8 plus all 11 available May 25 archive images were visually verified; May 18 p6 remains a visual **RETRIEVAL GAP**. The current next unresolved page is **May 18 p6**; the next ordinary unreviewed page is **June 8 p1**. Skip the seven completed first-monthly issues on reaching them. Other online-source work and numbered manual-callout reconciliation remain pending. **1916 remains IN PROGRESS.**
 
 | Month | Issues/pages still requiring visual review | Pages left |
 | --- | --- | ---: |
-| May | 18 (pp4–8); 25 (pp1–11) | 16 |
+| May | 18 (p6 visual retrieval gap only); 25 complete | 1 |
 | June | 8 (pp1–8); 15 (pp1–8); 22 (pp1–8); 29 (pp1–8) | 32 |
 | July | 13 (pp1–8); 20 (pp1–8); 27 (pp1–8) | 24 |
 | August | 10 (pp1–8); 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 32 |
@@ -112,4 +109,18 @@ Next chronological page remains **May 18 p4**. Skip these seven completed issues
 | October | 12 (pp1–8); 19 (pp1–8); 26 (pp1–8) | 24 |
 | November | 9 (pp1–8); 16 (pp1–8); 23 (pp1–8); 30 (pp1–8) | 32 |
 | December | 14 (pp1–20); 21 (pp1–8); 28 (pp1–8) | 36 |
-| **Total** | **25 whole issues plus May 18 pp4–8** | **220** |
+| **Total** | **24 whole issues plus May 18 p6 visual retrieval gap** | **205** |
+
+
+## Added bounded May segment — 11 September 2026
+
+[Detailed bounded review](1916-courier-may18-may25-bounded-review-2026-09-11.md) resumed at the saved May 18 p4 checkpoint without repeating the completed June–December first-issue samples.
+
+- **May 18:** original scans for pp4, 5, 7 and 8 were visually inspected. Page 6 exists and its archive/PDF text is reachable, but repeated original-scan rendering attempts failed; it is retained as a visual **RETRIEVAL GAP** and is not counted.
+- **May 25 Booster Edition:** all **11 archive images** were visually inspected from the original page PDFs.
+- No page in this bounded segment established an exact 503 Main or 505 Main occupant, proprietor, owner, licensee, tenancy, sale, vacancy, demolition, construction event, or property transfer.
+- May 25 p1 places Booster Day stock-parade assembly at **Fifth and Main**; this is geographic/event-route evidence only, not premises occupancy.
+- May 25 p5 reports Jones Drug Co. preparing to move after June 10 into the store then occupied by the Portland Railway, Light & Power Co., described relatively as two doors south of Jones's then-current location. The item supplies no exact street number on the page and is not mapped to 503/505.
+- The recurring business-directory context again includes Bradley **507 Main**, Brightbill **509 Main**, and Harding **511 Main**; this continues neighboring-address context only.
+
+Updated coverage: Courier **253/458 visually verified**, **205 pending/unresolved** including the May 18 p6 visual gap; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **253/884 visually reviewed, 631 pending/unresolved**. The annual status remains **IN PROGRESS**.

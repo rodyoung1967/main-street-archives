@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **238/458 Courier pages**: through May 18 p3 plus June 1, July 6, August 3, September 7, October 5, November 2 and December 7 in full. [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133. Next chronological page **May 18 p4**; 220 Courier pages remain. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **253/458 Courier pages visually verified**. The audit now includes all pages through May 18 p5, May 18 pp7–8, the full 11-image May 25 Booster Edition, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. **May 18 p6 remains a visual RETRIEVAL GAP** because the page/PDF text is reachable but repeated scan rendering failed; it is not counted as visual review. [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133; [11 September bounded review](1916-courier-may18-may25-bounded-review-2026-09-11.md). The next ordinary unreviewed page after the gap is **June 8 p1**; 205 Courier slots remain pending/unresolved. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 
@@ -118,13 +118,17 @@ No reliable April exact-address listing for **503 Main** or **505 Main** has yet
 
 The May 11 issue again carries Holman & Randall at **Fifth and Main St.**
 
+On 11 September, May 18 pp4, 5, 7 and 8 were visually inspected; **May 18 p6 remains a visual RETRIEVAL GAP** after repeated renderer failures and therefore is not counted as visual review. May 25's **11 available archive images** were visually inspected in full.
+
 The May 25 **Booster Edition** business directory carries the established neighboring sequence:
 
 - **W. W. Bradley — 507 Main**
 - **H. P. Brightbill — 509 Main**
 - **George A. Harding — 511 Main**
 
-No reliable exact-address May listing for **503 Main** or **505 Main** has yet been recovered.
+May 25 p1 places Booster Day stock-parade assembly at **Fifth and Main**. That is intersection/event-route evidence only and does not identify a 503/505 occupant or owner. May 25 p5 reports a planned Jones Drug Co. move after June 10 into the Portland Railway, Light & Power Co. store, described only by relative door count; the page prints no exact number, so the move is not assigned to 503/505.
+
+No reliable exact-address May listing for **503 Main** or **505 Main** has yet been recovered. This is coverage only and is not evidence of vacancy or non-use.
 
 ## June 1916 — review started
 
@@ -134,7 +138,7 @@ The detailed June issue-by-issue audit is still underway.
 
 ## Review status
 
-January through May now have a documented chronological audit trail, with June started. Continue chronologically through all pages/issues, with special attention to:
+January through May now have a documented chronological audit trail, but May is **not fully visually closed** because May 18 p6 remains a scan-render retrieval gap. The next ordinary unreviewed Courier page is June 8 p1 (June 1 is already complete). Continue chronologically through all remaining pages/issues while carrying the May 18 p6 gap explicitly, with special attention to:
 
 - 503 Main / 505 Main exact-address evidence;
 - L. Hylton or successor at 503;
