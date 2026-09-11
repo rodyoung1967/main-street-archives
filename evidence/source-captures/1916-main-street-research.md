@@ -238,3 +238,10 @@ The 10 August *Courier* is now **8/8 visually verified** (`S-321` / `E-294`). Pa
 ## 11 September 2026 — complete August 17 issue
 
 The 17 August *Courier* is now **8/8 visually verified** (`S-323` / `E-296`). Page 2 repeats **R. L. Holman at Fifth and Main**. Page 7 repeats the Electric Store at **Andresen Building, 619 Main**. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. A page-3 `505.00` occurrence is a **$505 Ford Coupelet price**, not 505 Main; page 1's Main Street city-hall property is between Seventh and Eighth. No page prints an exact 503/505 premises fact. Courier coverage is now **326/458**, with **132** Courier pages remaining; next ordinary issue is 24 August.
+
+
+## 11 September 2026 — complete August 24, August 31, and September 14 issues
+
+The 24 August, 31 August, and 14 September *Courier* issues are now each **8/8 visually verified**. Together with the already completed 7 September first-monthly issue, this advances Courier coverage to **350/458 pages across 44 complete issues**, leaving **108** Courier pages and **426** Enterprise pages (**534 total**) pending.
+
+No issue in this added segment prints an exact 503/505 Main occupant, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, or vacancy event. On 24 August, Jones Drug Co. is said to be in "new quarters" but the page gives no street number, so it is not mapped to 503/505. On 31 August, generic discussion of former saloon buildings does not identify either target address. Recurring controls continue to include Champion Smith & Telford at 502 Main, Holman at Fifth and Main, the Electric Store at 619 Main, and unnumbered Raasch & Lamb. The next ordinary unresolved Courier issue is **21 September 1916**.
