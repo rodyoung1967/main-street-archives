@@ -2684,3 +2684,13 @@ Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-08/1916-
 Preservation commit: `2c39a84c5b022cffcad0738f5933deff62620b7c`.  
 Related evidence: `E-287`.  
 Notes: All eight original page PDFs were visually inspected. Page 5 directly prints Champion Smith & Telford at **502 Main Street** and an unnumbered Raasch & Lamb pool/billiards panel. Page 6 directly prints W. W. Bradley **507 Main**, H. P. Brightbill **509 Main**, George A. Harding **511 Main**, and Holman/Randall at **Fifth and Main**. The issue does not print an exact 503 or 505 Main premises assignment. Page 7's 617 Main Electric Store ad is retained as printed advertising during an independently documented relocation sequence and is not treated alone as proof of same-day physical occupancy.
+
+
+## S-315 — Oregon City Courier, 15 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Courier*, **15 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-15/1916-06-15-page-1.pdf` through `1916-06-15-page-8.pdf`; fetch manifest in the same directory.  
+Preservation commit: `e399d25f4587dcf410138632e7d0f69aa881b42d`.  
+Related evidence: `E-288`.  
+Notes: Page 4 documents a Richard Petzold / Gustav Freiwald Main Street property transfer **between Seventh and Eighth**, outside the target frontage. Page 5 prints Champion Smith & Telford at **502 Main** and Raasch & Lamb pool/billiards without a number. Page 6 prints Bradley **507**, Brightbill **509**, and Harding **511 Main**. Page 7 explicitly announces the Electric Store and Light/Power offices **have moved** one door north to the **Andresen Building, 619 Main Street**, while retaining a Beaver Building / 617 Main footer. No exact 503/505 premises assignment is printed.

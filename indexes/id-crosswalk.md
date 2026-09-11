@@ -894,3 +894,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Raasch & Lamb pool/billiards panel remains **unnumbered** and is not mapped to 503/504/505 from this page alone.
 - No `B-###`, `BUS-###`, ownership, tenancy, or license relation is created for 503/505 from issue silence.
 - Annual coverage consequence: Courier **262/458**, **196** Courier pages remain; next ordinary page **15 Jun. p1**.
+
+
+## S-315 / E-288 — 15 June 1916 Courier complete issue
+<!-- 2026-09-11-1916-june15-complete -->
+
+- `S-315` / `E-288` → *Oregon City Courier*, 15 Jun. 1916, **8/8 pages visually verified**.
+- Electric Store / light-power offices → **Andresen Building, 619 Main**, completed-move wording; retained Beaver / 617 footer classified as stale/conflicting copy.
+- Richard Petzold / Gustav Freiwald property transfer → Main between Seventh/Eighth; explicitly outside the 503/505 block.
+- Direct address controls: **502 Main** Champion Smith & Telford; **507 Main** Bradley; **509 Main** Brightbill; **511 Main** Harding.
+- No target-building, ownership, tenancy, or license relation created from 503/505 issue silence.
+- Annual coverage consequence: Courier **270/458**, **188** Courier pages remain; next ordinary page **22 Jun. p1**.

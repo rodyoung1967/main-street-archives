@@ -53,7 +53,7 @@ Examples:
 - 3 Feb 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-02-03/ed-1/seq-8/
 - 4 May 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-04/ed-1/seq-8/
 - 8 Jun 1916 p.5 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-5/
-- 15 Jun 1916 p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-5/
+- 15 Jun 1916 p.5 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-5/
 - 27 Jul 1916 p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/seq-8/
 
 This gives a useful same-year numbering anchor immediately across Main Street from the odd-numbered 501/503/505/507 sequence. It does not identify 503/505, but it strengthens the address-grid reconstruction and may help when comparing directory street listings or Sanborn maps.
@@ -94,3 +94,8 @@ June 1 pp3/5/8 confirms the announced Andresen rearrangement and Schilling move;
 ## 11 September 2026 — June 8 visual certification
 
 The complete 8 June issue is now visually verified under `S-314` / `E-287`. Page 5 directly shows the **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel with **no street number**, while the same page directly prints **Champion Smith & Telford — 502 Main Street**. Page 6 separately confirms Bradley 507, Brightbill 509 and Harding 511. Nothing in the issue maps Raasch & Lamb to 503, 504 or 505, so the earlier narrowing conclusion is retained without manufacturing an address.
+
+
+## 11 September 2026 — June 15 completion anchor
+
+The complete 15 June issue is now visually verified (`S-315` / `E-288`). Page 5 again shows **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a number and directly prints **Champion Smith & Telford — 502 Main Street**. Page 7 materially improves the neighboring-business chronology: the Electric Store and Light/Power offices explicitly **have moved** one door north and are **now located in the Andresen Building at 619 Main Street**. This supersedes July 6 as the earliest visually verified move-completion anchor while retaining the same ad's Beaver / 617 footer as stale/conflicting copy. Nothing in this issue maps Raasch & Lamb or the Electric Store to 503/505.

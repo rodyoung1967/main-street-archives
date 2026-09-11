@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | **29 complete issues / 262 pages visually reviewed**; 8 June complete under `S-314` / `E-287` |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | **30 complete issues / 270 pages visually reviewed**; 15 June complete under `S-315` / `E-288` |
 | *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **262 visually reviewed; 622 pending** |
+| **Total** |  | **104** | **884** | **270 visually reviewed; 614 pending** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,7 +79,7 @@ was retrieved.
 
 ## Resume point
 
-The former **18 May 1916 p6** gap is resolved, and the entire **8 June 1916** issue has now also been visually inspected page by page from the original scans. The next ordinary unreviewed Courier page is **15 June 1916 p1**. Skip the already completed first-monthly sample issues when they recur later in the year, then complete the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The former **18 May 1916 p6** gap is resolved, and the **8 June** and **15 June 1916** Courier issues are now completely visually inspected from the original scans. The next ordinary unreviewed Courier page is **22 June 1916 p1**. Skip already completed sample issues when they recur later in the year, then complete the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
 
 The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
 non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
@@ -102,14 +102,14 @@ This 28 August checkpoint has now been advanced by the [11 September bounded May
 | Month | Issues/pages still requiring visual review | Pages left |
 | --- | --- | ---: |
 | May | complete | 0 |
-| June | 15 (pp1–8); 22 (pp1–8); 29 (pp1–8) | 24 |
+| June | 22 (pp1–8); 29 (pp1–8) | 16 |
 | July | 13 (pp1–8); 20 (pp1–8); 27 (pp1–8) | 24 |
 | August | 10 (pp1–8); 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 32 |
 | September | 14 (pp1–8); 21 (pp1–8); 28 (pp1–8) | 24 |
 | October | 12 (pp1–8); 19 (pp1–8); 26 (pp1–8) | 24 |
 | November | 9 (pp1–8); 16 (pp1–8); 23 (pp1–8); 30 (pp1–8) | 32 |
 | December | 14 (pp1–20); 21 (pp1–8); 28 (pp1–8) | 36 |
-| **Total** | **23 whole issues** | **196** |
+| **Total** | **22 whole issues** | **188** |
 
 
 ## Added bounded May segment — 11 September 2026
@@ -124,3 +124,16 @@ This 28 August checkpoint has now been advanced by the [11 September bounded May
 - The recurring business-directory context again includes Bradley **507 Main**, Brightbill **509 Main**, and Harding **511 Main**; this continues neighboring-address context only.
 
 Updated coverage after the May recovery and complete 8 June review: Courier **262/458 visually verified**, **196 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **262/884 visually reviewed, 622 pending**. The annual status remains **IN PROGRESS**. `S-314` / `E-287` preserve the 8 June issue-level review, exact neighboring-address controls, and the absence of a source-explicit 503/505 premises assignment on that issue.
+
+
+## Added 15 June complete-issue segment — 11 September 2026
+
+[Detailed review](1916-courier-june15-visual-review-2026-09-11.md) visually inspected all **8/8** original page scans for the 15 June 1916 *Courier*.
+
+- Page 4 reports Richard Petzold acquiring Gustav Freiwald's **Main Street property between Seventh and Eighth**, 66 × 210 feet from Main to the railroad tracks, with a frame building and several houses; this is outside the 503/505 target frontage.
+- Page 5 directly prints **Champion Smith & Telford — 502 Main Street** and separately **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a number.
+- Page 6 directly reconfirms **Bradley 507 Main**, **Brightbill 509 Main**, and **Harding 511 Main**.
+- Page 7 directly announces that the **Electric Store and Light and Power Offices have moved one door north** and are now in the **Andresen Building at 619 Main Street**. The same ad retains a Beaver Building / 617 Main footer; the move text is controlling for completion, while the footer is preserved as stale/internally conflicting copy.
+- No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
+
+Updated coverage: Courier **270/458 visually verified**, **188 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **270/884 visually reviewed, 614 pending**. **1916 remains IN PROGRESS**. Next ordinary Courier page: **22 June p1**.

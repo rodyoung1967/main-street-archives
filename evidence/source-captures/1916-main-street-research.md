@@ -23,7 +23,7 @@ Recovered examples:
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
 - 11 May 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2/
 - 8 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
-- 15 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
+- 15 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
 - 29 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/seq-6/ocr/
 - 13 Jul 1916, p4: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/seq-4/
 - 20 Jul 1916, p3: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-20/ed-1/seq-3/
@@ -44,7 +44,7 @@ Recovered examples:
 - 16 Mar 1916, p5: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-16/ed-1/seq-5.pdf
 - 30 Mar 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-2.pdf
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
-- 15 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
+- 15 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
 - 22 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/seq-6/
 - 27 Jul 1916, p3: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/seq-3/
 
@@ -64,7 +64,7 @@ Recovered examples:
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
 - 11 May 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-11/ed-1/seq-2/
 - 8 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-314` / `E-287`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/seq-6/
-- 15 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
+- 15 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
 - 13 Jul 1916, p4: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/seq-4/
 
 Some OCR instances misread `511` as `611`; the repeated surrounding directory context and cleaner transcriptions support 511 Main. This must be checked visually before final certification.
@@ -198,3 +198,8 @@ Current exhaustive coverage is **Courier 238/458 pages**: the chronological segm
 ## 11 September 2026 — complete June 8 issue
 
 The 8 June *Courier* is now **8/8 visually verified** (`S-314` / `E-287`). Page 6 directly reconfirms the neighboring north-side sequence **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**, plus Holman & Randall at **Fifth and Main**. Page 5 directly verifies **Champion Smith & Telford at 502 Main** and shows the **Raasch & Lamb** pool/billiards panel without a street number. No page prints an exact 503 or 505 Main occupant or a target ownership, tenancy, license, construction, demolition, sale or vacancy event. That is bounded issue coverage, not evidence that 503/505 were unused.
+
+
+## 11 September 2026 — complete June 15 issue
+
+The 15 June *Courier* is now **8/8 visually verified** (`S-315` / `E-288`). Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**. Page 5 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 7 explicitly says the Electric Store and Light/Power offices **have moved** one door north to the **Andresen Building, 619 Main**, moving the visually verified completion anchor earlier than the July 6 sample. Page 4's separate Main Street property sale is between Seventh and Eighth, not the 503/505 block. No page prints an exact 503/505 premises fact.

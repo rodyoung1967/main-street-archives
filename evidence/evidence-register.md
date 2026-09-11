@@ -2949,3 +2949,18 @@ Claims:
 - this is issue-level coverage only and must not be converted into evidence that either target premises was vacant or unused.
 Classification: **DOCUMENTED / DIRECT** for the scan-visible addresses and wording; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High** for page coverage and printed address controls.
+
+
+## E-288 — 15 June 1916 Courier complete visual review; Electric Store move complete by date
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-315`.  
+Claims:
+- all **8/8 pages** of the 15 June 1916 *Oregon City Courier* were visually inspected from original scans;
+- page 7 directly states that the **Electric Store and Light and Power Offices have moved one door north** from their old location and are **now located in the Andresen Building at 619 Main Street**;
+- the same page-7 advertisement retains a **Beaver Building / 617 Main St.** footer; the explicit completed-move text controls for move status, while the footer is preserved as stale/internally conflicting copy rather than proof of two simultaneous offices;
+- this moves the earliest visually verified completion anchor for the Electric Store's 617→619 transition from the later July 6 sample back to **15 June 1916**;
+- page 4 separately reports Richard Petzold acquiring Gustav Freiwald's Main Street property between Seventh and Eighth, 66 × 210 feet from Main to the railroad tracks, outside the 503/505 block;
+- pages 5–6 directly reconfirm **502 Main** Champion Smith & Telford, **507 Main** Bradley, **509 Main** Brightbill, and **511 Main** Harding; Raasch & Lamb remains unnumbered;
+- no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
+Classification: **DOCUMENTED / DIRECT** for move wording, property-sale wording, and numbered controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High** for printed wording and 8/8 page review.

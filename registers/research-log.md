@@ -1152,3 +1152,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 6 visually confirms **W. W. Bradley, 507 Main**; **H. P. Brightbill, 509 Main**; **George A. Harding, 511 Main**; and **R. L. Holman / T. P. Randall, Fifth and Main**.
 - Page 3 continues Huntley Brothers' closing-out sale of the Charman & Co. drug stock without printing a target address. Page 7 still prints the Electric Store at Beaver Building, 617 Main, during the broader 617→619 transition; this ad is not used alone to prove physical occupancy that day.
 - Registered `S-314` / `E-287`. Courier coverage advances to **262/458**; **196 Courier + 426 Enterprise = 622** newspaper pages remain. Next ordinary Courier page: **15 June 1916 p1**.
+
+
+## 2026-09-11 — 1916 Courier 15 June complete visual review
+
+- Preserved all **8 original University of Oregon page PDFs** under `newspapers/oregon-city-courier/1916-june/1916-06-15/`; preservation commit `e399d25f4587dcf410138632e7d0f69aa881b42d`.
+- Visually inspected **8/8 pages**.
+- Page 4 directly reports Richard Petzold taking title from Gustav Freiwald to Main Street property **between Seventh and Eighth**, 66 × 210 feet from Main to the railroad tracks, with a frame building and several houses and possible future brick replacement. This is not the 503/505 block.
+- Page 5 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- Page 6 directly reconfirms **W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main; George A. Harding, 511 Main**.
+- Page 7 directly says the **Electric Store and Light and Power Offices have moved one door north** and are now in the **Andresen Building, 619 Main Street**. The retained Beaver Building / 617 Main footer is preserved as conflicting/stale ad copy, not a second operating location.
+- No exact 503/505 premises fact was established. Registered `S-315` / `E-288`.
+- Courier coverage advances to **270/458**, with **188 Courier + 426 Enterprise = 614** newspaper pages remaining. Next ordinary Courier page: **22 June 1916 p1**.

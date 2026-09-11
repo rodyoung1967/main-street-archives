@@ -4326,3 +4326,20 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-june08-visual-review-2026-09-11.md"
+
+
+  - id: E-288
+    name: "15 June 1916 Courier complete visual review; Electric Store move complete by date"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages of the 15 June 1916 Oregon City Courier were visually inspected."
+      - "Page 7 explicitly says the Electric Store and Light and Power Offices have moved one door north and are now in the Andresen Building at 619 Main Street."
+      - "The same ad retains a Beaver Building / 617 Main footer; explicit completed-move wording controls while the footer is preserved as stale/conflicting copy."
+      - "Page 4 reports Richard Petzold acquiring Gustav Freiwald Main Street property between Seventh and Eighth, outside the target frontage."
+      - "Pages 5-6 reconfirm 502 Main Champion Smith & Telford, 507 Bradley, 509 Brightbill, and 511 Harding; Raasch & Lamb is unnumbered."
+      - "No exact 503/505 premises assignment or target ownership/tenancy/license/construction/sale event is printed."
+    confidence: "Very High for scan-visible wording and 8/8 page coverage"
+    related_sources: [S-315]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-june15-visual-review-2026-09-11.md"
