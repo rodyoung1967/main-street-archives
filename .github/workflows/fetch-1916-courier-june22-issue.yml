@@ -1,0 +1,76 @@
+name: Fetch 1916 Courier June 22 issue
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-1916-courier-june22-issue.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before fetch
+        run: python3 scripts/validate_archive.py
+      - name: Fetch original issue PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, time
+          out = pathlib.Path('newspapers/oregon-city-courier/1916-june/1916-06-22')
+          out.mkdir(parents=True, exist_ok=True)
+          s = requests.Session()
+          s.headers.update({'User-Agent':'main-street-archives annual visual audit'})
+          attempts=[]
+          for seq in range(1,9):
+              url=f'https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/seq-{seq}.pdf'
+              row={'sequence':seq,'url':url}
+              try:
+                  r=s.get(url,timeout=90,allow_redirects=True)
+                  row.update(status=r.status_code,content_type=r.headers.get('content-type',''),bytes=len(r.content),sha256=hashlib.sha256(r.content).hexdigest(),final_url=r.url)
+                  if r.status_code==200 and r.content.startswith(b'%PDF'):
+                      name=f'1916-06-22-page-{seq}.pdf'
+                      (out/name).write_bytes(r.content)
+                      row['saved_as']=name
+              except Exception as e:
+                  row['error']=repr(e)
+              attempts.append(row)
+              time.sleep(0.1)
+          manifest={'title':'Oregon City Courier','lccn':'sn00063698','date':'1916-06-22','edition':1,'expected_pages':8,'attempts':attempts}
+          (out/'fetch-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          print(json.dumps(manifest,indent=2))
+          PY
+      - name: Validate archive after fetch
+        run: python3 scripts/validate_archive.py
+      - name: Upload issue artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1916-courier-june22-issue
+          path: newspapers/oregon-city-courier/1916-june/1916-06-22/
+          retention-days: 14
+      - name: Commit fetched issue
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-courier/1916-june/1916-06-22/
+          if git diff --cached --quiet; then
+            echo 'No fetch changes.'
+            exit 0
+          fi
+          git commit -m 'Preserve 1916 Courier June 22 issue scans'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          exit 1
