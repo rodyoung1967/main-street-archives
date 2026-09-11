@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **9 September 2026** — added the two collision-free 1917 closeout callouts `MF-059` and `MF-060`; no existing MF ID was renumbered or removed.
+Last amended: **10 September 2026** — synchronized the previously created 505 Main `MF-058` Ray Hansen / 1959–1965 proprietor-licensee package into this dashboard; later `MF-059` and `MF-060` remain unchanged and no existing MF ID was renumbered or removed.
 
 ## 1917 ONLINE COMPLETE — remaining manual work
 
@@ -84,6 +84,7 @@ These are the **current high-value human actions**. They are ordered for the act
 | 24 | **MF-056** | Locate an **Oregon City Pacific Telephone directory, 1953–1956**, preferably nearest 20 Nov. 1955, and identify subscriber **9179** plus any 505 Main / Well's / Harr listings | The visually verified 20 Nov. 1955 505 sale ad gives **9179** but no seller/business name; open-web recovery now establishes a separate Oregon City directory series while the near-date Sept. 1955 Portland PT&T book's stated coverage omits Oregon City | **ACTIVE MANUAL — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED; OHS FALLBACK ONLY**. [Telephone-directory lookup draft](registers/research-requests/oregon-city-1953-1956-telephone-directory-9179-lookup-request-2026-09-07.md) |
 
 | 25 | **MF-057** | Retrieve **505 Main 1953–1956 operator-transition records** through the Oregon City Council/Commission Proceedings Index and the missing Clackamas County assumed-business-name register/index interval | Targeted public-online late-1955/1956 liquor searching did not expose the purchaser/successor, while the official assumed-name series spans 1928–1964 but the public holdings presentation jumps from 1928–35 to 1959–64; these are retrieval/custody gaps, not negative evidence | **ACTIVE MANUAL — TWO REQUESTS READY / NOT SENT / NO FEES AUTHORIZED**. [505 operator-transition request package](registers/research-requests/505-1953-1956-operator-transition-record-requests-2026-09-07.md) |
+| 26 | **MF-058** | Identify the **505 Tavern / Ray Hansen c.1959–1965 proprietor-licensee transition** using the 1959–64 Clackamas assumed-business-name reels, actual 1960 and 1964 Oregon City directories, permanent OLCC Commission records, and then targeted *Enterprise-Courier* microfilm | The hard documentary chain currently runs from the unnamed 20 Nov. 1955 beer/pool business sale offering at 505 Main to a 505 Tavern liquor renewal on 11 Nov. 1965; family history places Ray Hansen in the early-1960s chain, but no contemporary source yet links him to 505 | **ACTIVE MANUAL — FIVE ROUTES READY / NOT SENT / NO FEES AUTHORIZED**. [Ray Hansen / 505 proprietor-licensee request package](registers/research-requests/505-ray-hansen-1960-1965-proprietor-license-record-requests-2026-09-07.md) |
 
 ### Recommended batching
 
@@ -91,6 +92,7 @@ Do not send unnecessary duplicate emails.
 
 - **Oregon City Recorder batch:** MF-002, MF-005, MF-013, MF-041, MF-014 and later MF-017/MF-018 can be coordinated, but keep record-series requests clearly separated within the message or send in small logically grouped requests if staff prefer.
 - **Oregon City Public Library/microfilm batch:** MF-038 and MF-031 can share a staff-reference exchange or visit; MF-041 remains a Recorder request first, with Library index/microfilm as fallback access.
+- **505 mid-century batch:** if both are authorized, combine the Clackamas Recording portions of **MF-057** (missing 1936–58 assumed-name interval / Well's-Harr) and **MF-058** (1959–64 assumed-name reels / 505 Tavern-Hansen) into one clearly separated inquiry rather than duplicate emails. Keep MF-056 telephone-directory work separate.
 - **OHS/Clackamas early-property batch:** MF-006, MF-007 and MF-019 answer related but distinct legal/property questions; do not treat one as a substitute for the others.
 - **Clackamas later ownership chain:** MF-034 has two complementary County requests: Assessment & Taxation for the parcel-first chronological owner/deed-reference record, then Recording for the legal conveyance. Keep both under one MF item because they answer the same transaction question from different County record series.
 - **Oregon City / SHPO historic-inventory owner snapshot:** MF-047 is independent corroboration and a transition bracket, not a substitute for MF-034's deed proof.
@@ -286,6 +288,7 @@ All correspondence is **UNSENT** as of 7 September 2026, per the project steward
 | **MF-055** | **NOT SENT — EMAIL DRAFT READY / $15 MINIMUM FEE NOT AUTHORIZED** | — | — | **No** | — | No |
 | **MF-056** | **NOT SENT — CCFHS LOOKUP DRAFT READY / NO FEE AUTHORIZED** | — | — | **No** | — | No |
 | **MF-057** | **NOT SENT — TWO REQUESTS READY / NO FEES AUTHORIZED** | — | — | **No** | — | No |
+| **MF-058** | **NOT SENT — FIVE ROUTES READY / NO FEES AUTHORIZED** | — | — | **No** | — | No |
 
 When a request is sent, record the actual date, channel and exact request version. Do not place private payment information or unnecessary personal correspondence in the public repository. Preserve supplied historical files under canonical source folders when permission allows, visually inspect originals before promoting claims, and record precise no-hit scope when an institution reports that a series was checked without a target result.
 
@@ -295,7 +298,7 @@ When a request is sent, record the actual date, channel and exact request versio
 
 **The project still has substantial manual work, but Rodney does not need to do dozens of undifferentiated tasks.**
 
-The current practical list is the **25-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila). The active mid-century 505 business-successor gap is now also isolated in **MF-056** (phone 9179) and **MF-057** (Commission proceedings + assumed-name records).
+The current practical list is the **26-item active queue in section 1**. Every immediate-action item that requires institutional outreach has a **directly linked, ready-to-send recipient + subject + body**. The two `ACTIVE — COMBINE` request pairs also have finished linked correspondence. Several prior items remain merged, deferred, online-first, optional, or housekeeping. The later-ownership work is concentrated in **MF-034** (505 parcel ownership sequence + deed proof), **MF-047** (1983 505 survey owner snapshot), **MF-048** (503 real-estate/deed chain, **Ascend self-service first**), and **MF-053** (503 Wheel business/license transition from Raye to Dick/Sheila). The active mid-century 505 business-successor gap is now isolated in **MF-056** (phone 9179), **MF-057** (1953–56 Commission proceedings + missing assumed-name interval), and **MF-058** (1959–65 Ray Hansen / 505 Tavern proprietor-licensee chain).
 
 Future research sessions should add a new `MF-###` item only when a source genuinely requires human/restricted/physical access after reasonable online recovery attempts. Ordinary open questions stay in `evidence/research-leads.md` until they cross that threshold.
 
@@ -480,3 +483,18 @@ Likely route: Oregon City historic records/records management and any transferre
 Why manual: ordinary public/indexed online routes have not exposed the underlying files; catalog/index silence is not evidence that the files never existed.  
 Question: determine whether a contemporary record directly dates demolition, construction, reconstruction, remodeling or sign work affecting the surviving 503/505 frontage.  
 No request has been sent and no paid research has been authorized.
+
+
+---
+
+## 10 September 2026 — 505 Tavern / Ray Hansen c.1959–1965 proprietor-licensee transition
+<!-- MF-058 505 Ray Hansen proprietor-licensee routes — dashboard synchronization 2026-09-10 -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-058** | **ACTIVE MANUAL — FIVE ROUTES READY / NOT SENT / NO FEES AUTHORIZED** | **Yes** | The 505 chronology remains documentary at **20 Nov. 1955** (unnamed long-established beer/pool business at 505 Main offered for sale) and **11 Nov. 1965** (505 Tavern in a municipal liquor-renewal batch), but neither record names Ray Hansen. The focused online continuation confirmed a strategically important **1960 R. L. Polk Oregon City directory** source, the County's **Assumed Business Names [Record] vols. 10–13, 1959–1964**, a **1964 Polk directory** at GFO, permanent historical **OLCC Commission Meeting Records**, and a 1960–65 local *Enterprise-Courier* microfilm route. Public/restricted-online work did not recover an original page that links Hansen to 505. Use the request package at `registers/research-requests/505-ray-hansen-1960-1965-proprietor-license-record-requests-2026-09-07.md`. Start with the 1959–64 assumed-name reels and actual 1960 directory; use OLCC records next, then narrow microfilm by any newly recovered person/date/phone. Do not promote Hansen to documentary proprietor/licensee status until an original contemporary record supplies the link. Do not send requests or authorize fees without explicit project-steward approval. |
+
+Related source captures:
+- `evidence/source-captures/1960-1965-505-tavern-hansen-transition-continuation-2026-09-07.md`
+- `evidence/source-captures/1960-polk-oregon-city-directory-official-citation-control-2026-09-07.md`
+- `evidence/source-captures/1960-polk-directory-multnomah-county-library-holding-route-2026-09-07.md`
