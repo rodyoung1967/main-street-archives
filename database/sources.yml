@@ -2207,3 +2207,13 @@ sources:
     url: "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-at-5th-and-main-from-the-bluff-1960"
     repository_file: "evidence/source-captures/1960-cchs-2008-008-049-037-wells-sign-rereview-2026-09-11.md"
     notes: "Exact-dated CCHS photograph. Steward-led enlarged rereview reads vertical WELLS signage on 505 Main; connect to Well's Recreation only as cross-source inference, not as proprietor/license proof."
+
+
+  - id: S-323
+    name: "Oregon City Courier, 17 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-17/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-17"
+    repository_file: "evidence/source-captures/1916-courier-august17-visual-review-2026-09-11.md"
+    related_evidence: [E-296]
+    notes: "Complete 8/8 visual review. Holman Fifth/Main; Electric Store 619 Main; Champion Smith & Telford 502 Main; Raasch & Lamb unnumbered. Page-3 505.00 is a Ford price, not 505 Main. No exact 503/505 premises assignment."
