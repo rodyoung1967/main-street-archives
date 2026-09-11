@@ -163,3 +163,8 @@ Absence of a target-address hit in reviewed directories is a research-status obs
 ## 17 August 1916 complete issue
 
 `S-323` / `E-296` visually certifies all **8/8 pages** of 17 August. Page 2 repeats Holman at **Fifth and Main**; page 7 repeats the Electric Store at **619 Main**; page 8 prints **Champion Smith & Telford at 502 Main** and unnumbered **Raasch & Lamb**. Page-3 `505.00` is a vehicle price, not 505 Main. No exact 503/505 premises fact appears. Resume at **24 August p1**.
+
+
+## 24 August through 14 September 1916 checkpoint
+
+The 24 August, 31 August, and 14 September issues are each **8/8 visually verified**; 7 September was already certified in the first-monthly set. No reviewed page in this segment establishes an exact 503/505 premises assignment. Jones Drug Co.'s "new quarters" wording on 24 August lacks a street number; the 31 August generic saloon-building language is not address-specific; and Raasch & Lamb remains unnumbered. Current Courier coverage is **350/458 pages across 44 complete issues**. Resume at **21 September p1**.
