@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | **33 complete issues / 294 pages visually reviewed**; 13 July complete under `S-318` / `E-291` |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | **34 complete issues / 302 pages visually reviewed**; 20 July complete under `S-319` / `E-292` |
 | *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **294 visually reviewed; 590 pending** |
+| **Total** |  | **104** | **884** | **302 visually reviewed; 582 pending** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,7 +79,7 @@ was retrieved.
 
 ## Resume point
 
-The former **18 May 1916 p6** gap is resolved, all June Courier dates are completely visually inspected, and **13 July 1916** is now also complete at 8/8 pages. The next ordinary unreviewed Courier page is **20 July 1916 p1**; **6 July** was already complete under the monthly sample. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The former **18 May 1916 p6** gap is resolved, all June Courier dates are completely visually inspected, and **13 July** and **20 July 1916** are now complete at 8/8 pages in addition to the previously completed **6 July** sample. The next ordinary unreviewed Courier page is **27 July 1916 p1**. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
 
 The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
 non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
@@ -103,13 +103,13 @@ This 28 August checkpoint has now been advanced by the [11 September bounded May
 | --- | --- | ---: |
 | May | complete | 0 |
 | June | complete | 0 |
-| July | 20 (pp1–8); 27 (pp1–8) | 16 |
+| July | 27 (pp1–8) | 8 |
 | August | 10 (pp1–8); 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 32 |
 | September | 14 (pp1–8); 21 (pp1–8); 28 (pp1–8) | 24 |
 | October | 12 (pp1–8); 19 (pp1–8); 26 (pp1–8) | 24 |
 | November | 9 (pp1–8); 16 (pp1–8); 23 (pp1–8); 30 (pp1–8) | 32 |
 | December | 14 (pp1–20); 21 (pp1–8); 28 (pp1–8) | 36 |
-| **Total** | **19 whole issues** | **164** |
+| **Total** | **18 whole issues** | **156** |
 
 
 ## Added bounded May segment — 11 September 2026
@@ -174,3 +174,16 @@ Updated coverage: Courier **286/458 visually verified**, **172 pending**; Enterp
 - No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
 
 Updated coverage: Courier **294/458 visually verified**, **164 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **294/884 visually reviewed, 590 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **20 July p1**.
+
+
+## Added 20 July complete-issue segment — 11 September 2026
+
+[Detailed review](1916-courier-july20-visual-review-2026-09-11.md) visually inspected all **8/8** original page scans for the 20 July 1916 *Courier*.
+
+- Page 3's visually inspected classified directory directly prints **W. W. Bradley — 507 Main**, **H. P. Brightbill — 509 Main**, and **George A. Harding — 511 Main**.
+- Page 7 repeats the completed Electric Store move to the **Andresen Building, 619 Main Street**, with the stale Beaver Building / 617 Main footer still retained.
+- Page 8's picture directory directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number.
+- A text-layer hit for `505` on page 8 is **505 Division Street**, not 505 Main, and is not mapped to the target property.
+- No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
+
+Updated coverage: Courier **302/458 visually verified**, **156 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **302/884 visually reviewed, 582 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **27 July p1**.

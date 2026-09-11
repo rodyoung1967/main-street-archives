@@ -2169,3 +2169,13 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-july13-visual-review-2026-09-11.md"
     related_evidence: [E-291]
     notes: "Complete issue review. Repeats 502/507/509/511 controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment."
+
+
+  - id: S-319
+    name: "Oregon City Courier, 20 July 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-20/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-07-20"
+    repository_file: "evidence/source-captures/1916-courier-july20-visual-review-2026-09-11.md"
+    related_evidence: [E-292]
+    notes: "Complete issue review. Repeats 502/507/509/511 controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. Page-8 505 is Division Street, not Main. No exact 503/505 Main premises assignment."

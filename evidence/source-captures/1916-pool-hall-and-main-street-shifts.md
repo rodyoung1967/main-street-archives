@@ -111,3 +111,8 @@ Page 3 separately repeats the **Raasch & Lamb — Pool and Billiards / Everythin
 ## 11 September 2026 — July 13 advertising control
 
 The complete 13 July issue is visually verified (`S-318` / `E-291`). Page 8 directly repeats **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number, alongside **Champion Smith & Telford — 502 Main Street**. This extends the visually certified Raasch & Lamb advertising sequence but still supplies no completed basement-move statement and no 503/504/505 address.
+
+
+## 11 September 2026 — July 20 advertising control
+
+The complete 20 July issue is visually verified (`S-319` / `E-292`). Page 8 directly repeats **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number, alongside **Champion Smith & Telford — 502 Main Street**. This extends the visually certified advertising sequence but still does not establish a completed Andresen-basement move or any 503/504/505 Main address.

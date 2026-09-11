@@ -3008,3 +3008,17 @@ Claims:
 - no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
 Classification: **DOCUMENTED / DIRECT** for scan-visible addresses and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High** for printed wording and 8/8 page review.
+
+
+## E-292 — 20 July 1916 Courier complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-319`.  
+Claims:
+- all **8/8 pages** of the 20 July 1916 *Oregon City Courier* were visually inspected from original scans;
+- page 3 directly prints **W. W. Bradley — 507 Main**, **H. P. Brightbill — 509 Main**, and **George A. Harding — 511 Main**;
+- page 7 repeats the Electric Store's completed move to **Andresen Building, 619 Main Street**, while retaining the stale Beaver Building / 617 Main footer;
+- page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- the page-8 text-layer `505` occurrence is **505 Division Street**, not 505 Main;
+- no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
+Classification: **DOCUMENTED / DIRECT** for scan-visible addresses and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505 Main.  
+Confidence: **Very High** for printed wording and 8/8 page review.

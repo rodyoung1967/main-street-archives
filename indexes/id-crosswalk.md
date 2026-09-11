@@ -938,3 +938,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - OCR `607 Main` for Bradley is superseded by the printed scan.
 - No target-building, ownership, tenancy, or license relation created from 503/505 issue silence.
 - Annual coverage consequence: Courier **294/458**, **164** Courier pages remain; next ordinary page **20 Jul. p1**.
+
+
+## S-319 / E-292 — 20 July 1916 Courier complete issue
+<!-- 2026-09-11-1916-july20-complete -->
+
+- `S-319` / `E-292` → *Oregon City Courier*, 20 Jul. 1916, **8/8 pages visually verified**.
+- Direct controls: **502 Main** Champion Smith & Telford; **507 Main** Bradley; **509 Main** Brightbill; **511 Main** Harding.
+- Raasch & Lamb remains **unnumbered**; Electric Store completed-move ad repeats **619 Main** with stale 617 footer.
+- Text-layer `505` on page 8 is **505 Division Street**, not 505 Main.
+- No target-building, ownership, tenancy, or license relation created from 503/505 Main issue silence.
+- Annual coverage consequence: Courier **302/458**, **156** Courier pages remain; next ordinary page **27 Jul. p1**.

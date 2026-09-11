@@ -1199,3 +1199,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
 - No exact 503/505 premises fact was established. Registered `S-318` / `E-291`.
 - Courier coverage advances to **294/458**, with **164 Courier + 426 Enterprise = 590** newspaper pages remaining. Next ordinary Courier page: **20 July 1916 p1**. 1916 remains not ONLINE COMPLETE.
+
+
+## 2026-09-11 — 1916 Courier 20 July complete visual review
+
+- Preserved all **8 original University of Oregon page PDFs** under `newspapers/oregon-city-courier/1916-july/1916-07-20/`; preservation commit `426cf7ab2348eb47c0bb80c585b17667b71f4080`.
+- Visually inspected **8/8 pages**.
+- Page 3 directly reconfirms **W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main; George A. Harding, 511 Main** in the classified directory.
+- Page 7 repeats the completed Electric Store move to **619 Main** with stale 617 Main footer.
+- Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- The page-8 `505` text occurrence is **505 Division Street**, not 505 Main; no target relation is created.
+- No exact 503/505 Main premises fact was established. Registered `S-319` / `E-292`.
+- Courier coverage advances to **302/458**, with **156 Courier + 426 Enterprise = 582** newspaper pages remaining. Next ordinary Courier page: **27 July 1916 p1**. 1916 remains not ONLINE COMPLETE.

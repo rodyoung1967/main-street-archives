@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **294/458 Courier pages visually verified**. The audit includes all June Courier dates, the already-completed July 6 sample, and **July 13 in full (8/8)** under `S-318` / `E-291`. The next ordinary unreviewed page is **July 20 p1**; **164 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **302/458 Courier pages visually verified**. The audit includes all June Courier dates, the already-completed July 6 sample, **July 13 in full (8/8)**, and **July 20 in full (8/8)** under `S-319` / `E-292`. The next ordinary unreviewed page is **July 27 p1**; **156 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 
@@ -138,7 +138,7 @@ The detailed June issue-by-issue audit is still underway.
 
 ## Review status
 
-January through June have a documented chronological audit trail, **July 6 is already complete**, and **July 13 is now complete at 8/8 pages**. The next ordinary unreviewed Courier page is **July 20 p1**. July 13 repeats the established 502/507/509/511 controls, unnumbered Raasch & Lamb, and the Electric Store at 619 Main; no exact 503/505 premises assignment appears. Continue chronologically through all remaining pages/issues, with special attention to:
+January through June have a documented chronological audit trail, and **July 6, July 13, and July 20 are now complete**. The next ordinary unreviewed Courier page is **July 27 p1**. July 20 repeats the established 502/507/509/511 controls, unnumbered Raasch & Lamb, and the Electric Store at 619 Main; no exact 503/505 premises assignment appears. Continue chronologically through all remaining pages/issues, with special attention to:
 
 - 503 Main / 505 Main exact-address evidence;
 - L. Hylton or successor at 503;
