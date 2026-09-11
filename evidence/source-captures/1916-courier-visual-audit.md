@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **270/458 Courier pages visually verified**. The audit includes **May 18 in full (8/8)**, the full 11-image May 25 Booster Edition, **June 8 in full (8/8)**, **June 15 in full (8/8)**, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. The complete June 15 issue is recorded under `S-315` / `E-288`. The next ordinary unreviewed page is **June 22 p1**; **188 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **278/458 Courier pages visually verified**. The audit includes **May 18 in full (8/8)**, the full 11-image May 25 Booster Edition, **June 8 in full (8/8)**, **June 15 in full (8/8)**, **June 22 in full (8/8)**, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. The complete June 22 issue is recorded under `S-316` / `E-289`. The next ordinary unreviewed page is **June 29 p1**; **180 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 
@@ -138,7 +138,7 @@ The detailed June issue-by-issue audit is still underway.
 
 ## Review status
 
-January through May have a documented chronological audit trail, and **June 8 and June 15 are now both complete at 8/8 pages**, in addition to the already completed June 1 sample. The next ordinary unreviewed Courier page is **June 22 p1**. June 15 reconfirms the 502/507/509/511 numbering controls and directly dates the Electric Store's completed move to **619 Main**; no exact 503/505 premises assignment appears. Continue chronologically through all remaining pages/issues, with special attention to:
+January through May have a documented chronological audit trail, and **June 8, June 15, and June 22 are now complete at 8/8 pages**, in addition to the already completed June 1 sample. The next ordinary unreviewed Courier page is **June 29 p1**. June 22 visually certifies the Raasch & Lamb temporary basement-move permit dispute at the Andresen Building while preserving the limit that authorization/dispute wording does not prove completion; no exact 503/505 premises assignment appears. Continue chronologically through all remaining pages/issues, with special attention to:
 
 - 503 Main / 505 Main exact-address evidence;
 - L. Hylton or successor at 503;

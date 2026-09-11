@@ -45,7 +45,7 @@ Recovered examples:
 - 30 Mar 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-30/ed-1/seq-2.pdf
 - 13 Apr 1916, p2: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-04-13/ed-1/seq-2.pdf
 - 15 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-315` / `E-288`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/seq-6.pdf
-- 22 Jun 1916, p6: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/seq-6/
+- 22 Jun 1916, p6 — **VISUALLY VERIFIED 11 Sep 2026 (`S-316` / `E-289`)**: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/seq-6/
 - 27 Jul 1916, p3: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/seq-3/
 
 Interpretation: this strongly supports continued grocery occupancy at 509 Main through at least **27 July 1916**.
@@ -203,3 +203,8 @@ The 8 June *Courier* is now **8/8 visually verified** (`S-314` / `E-287`). Page 
 ## 11 September 2026 — complete June 15 issue
 
 The 15 June *Courier* is now **8/8 visually verified** (`S-315` / `E-288`). Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**. Page 5 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 7 explicitly says the Electric Store and Light/Power offices **have moved** one door north to the **Andresen Building, 619 Main**, moving the visually verified completion anchor earlier than the July 6 sample. Page 4's separate Main Street property sale is between Seventh and Eighth, not the 503/505 block. No page prints an exact 503/505 premises fact.
+
+
+## 11 September 2026 — complete June 22 issue
+
+The 22 June *Courier* is now **8/8 visually verified** (`S-316` / `E-289`). Page 1 directly certifies the temporary-permit and ordinance dispute for **Raasch & Lamb** and the Andresen Building basement, but its wording does **not** establish completion of the move. Page 3 prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main / Holman & Randall Fifth and Main**. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. No page prints an exact 503/505 premises fact.

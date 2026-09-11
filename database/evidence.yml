@@ -4343,3 +4343,21 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-june15-visual-review-2026-09-11.md"
+
+
+  - id: E-289
+    name: "22 June 1916 Courier complete visual review; Raasch & Lamb permit dispute"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages of the 22 June 1916 Oregon City Courier were visually inspected."
+      - "Page 1 reports a temporary permit for Raasch & Lamb to remove their pool-hall business to the Andresen Building basement and the council's later refusal to enact the promised follow-up ordinance."
+      - "The permit/dispute wording does not prove the basement move was completed."
+      - "Page 3 prints Champion Smith & Telford at 502 Main and Raasch & Lamb pool/billiards without a street number."
+      - "Page 6 reconfirms Bradley 507 Main, Brightbill 509 Main, Harding 511 Main, and Holman/Randall at Fifth and Main."
+      - "Page 7 repeats the Electric Store completed move to Andresen Building 619 Main, with stale 617 footer retained."
+      - "No exact 503/505 premises assignment or target ownership/tenancy/license/construction/sale event is printed."
+    confidence: "Very High for scan-visible wording and 8/8 page coverage"
+    related_sources: [S-316]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-june22-visual-review-2026-09-11.md"

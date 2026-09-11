@@ -2964,3 +2964,20 @@ Claims:
 - no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
 Classification: **DOCUMENTED / DIRECT** for move wording, property-sale wording, and numbered controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High** for printed wording and 8/8 page review.
+
+
+## E-289 — 22 June 1916 Courier complete visual review; Raasch & Lamb permit dispute
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-316`.  
+Claims:
+- all **8/8 pages** of the 22 June 1916 *Oregon City Courier* were visually inspected from original scans;
+- page 1 directly reports that the city council had recently granted **Raasch & Lamb, pool hall operators**, a temporary permit for removal of their business to the **basement of the Andresen Building** and had promised an ordinance after expiration of the three-month permit;
+- the same report says the council refused to recognize that pledge through an ordinance presented for the pool-hall owners by W. A. Dimick, who accused the council of changing faith and forcing a legitimate business from the city;
+- the article states the existing ordinance required pool or billiard halls to be on the ground floor and visible from the street;
+- the wording establishes permit/dispute chronology but **does not establish that Raasch & Lamb completed the basement move**;
+- page 3 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a number;
+- page 6 directly reconfirms **Bradley 507 Main**, **Brightbill 509 Main**, **Harding 511 Main**, and Holman/Randall at **Fifth and Main**;
+- page 7 repeats the Electric Store's completed move to **Andresen Building, 619 Main Street**, while retaining a stale Beaver Building / 617 Main footer;
+- no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
+Classification: **DOCUMENTED / DIRECT** for the permit/dispute wording, business advertisements, and numbered controls; **NO COMPLETED-MOVE INFERENCE** for Raasch & Lamb; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High** for printed wording and 8/8 page review.

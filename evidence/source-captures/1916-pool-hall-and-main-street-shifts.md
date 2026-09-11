@@ -16,7 +16,7 @@ The *Oregon City Courier*, 1 June 1916, p.5, reports a substantial rearrangement
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-01/ed-1/seq-5/
 
-The *Courier*, 22 June 1916, p.1, independently confirms the municipal issue: the council had recently granted Raasch & Lamb a temporary permit to move their pool hall to the **basement of the Andresen Building**, despite an ordinance requiring pool/billiard halls to be on the ground floor and visible from the street.
+The *Courier*, 22 June 1916, p.1, now **VISUALLY VERIFIED** under `S-316` / `E-289`, independently confirms the municipal issue: the council had recently granted Raasch & Lamb a temporary permit for removal of their pool-hall business to the **basement of the Andresen Building**, despite an ordinance requiring pool/billiard halls to be on the ground floor and visible from the street. The report also says the council refused to enact the promised follow-up ordinance after the temporary permit. This documents authorization/dispute chronology, **not a completed move**.
 
 Source:
 https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/seq-1/
@@ -99,3 +99,10 @@ The complete 8 June issue is now visually verified under `S-314` / `E-287`. Page
 ## 11 September 2026 — June 15 completion anchor
 
 The complete 15 June issue is now visually verified (`S-315` / `E-288`). Page 5 again shows **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a number and directly prints **Champion Smith & Telford — 502 Main Street**. Page 7 materially improves the neighboring-business chronology: the Electric Store and Light/Power offices explicitly **have moved** one door north and are **now located in the Andresen Building at 619 Main Street**. This supersedes July 6 as the earliest visually verified move-completion anchor while retaining the same ad's Beaver / 617 footer as stale/conflicting copy. Nothing in this issue maps Raasch & Lamb or the Electric Store to 503/505.
+
+
+## 11 September 2026 — June 22 permit dispute visually certified
+
+The complete 22 June issue is now visually verified (`S-316` / `E-289`). The page-1 council column directly states that Raasch & Lamb, identified as pool-hall operators, had received a temporary permit for removal of their business to the **basement of the Andresen Building** and that the council had promised an ordinance after the three-month permit; it then reports the council refusing to recognize that pledge through the proposed ordinance. W. A. Dimick accused the council of changing faith and forcing a legitimate business from the city. The same report states the existing ground-floor / street-visibility requirement for pool and billiard halls. None of that wording says the basement move was actually completed.
+
+Page 3 separately repeats the **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel without a street number and directly prints **Champion Smith & Telford — 502 Main Street**. No 503/504/505 address is attached to Raasch & Lamb.

@@ -1164,3 +1164,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 7 directly says the **Electric Store and Light and Power Offices have moved one door north** and are now in the **Andresen Building, 619 Main Street**. The retained Beaver Building / 617 Main footer is preserved as conflicting/stale ad copy, not a second operating location.
 - No exact 503/505 premises fact was established. Registered `S-315` / `E-288`.
 - Courier coverage advances to **270/458**, with **188 Courier + 426 Enterprise = 614** newspaper pages remaining. Next ordinary Courier page: **22 June 1916 p1**.
+
+
+## 2026-09-11 — 1916 Courier 22 June complete visual review
+
+- Preserved all **8 original University of Oregon page PDFs** under `newspapers/oregon-city-courier/1916-june/1916-06-22/`; preservation commit `6d436be3874e8ecb2ee377b0f466e91f6c1c1ae2`.
+- Visually inspected **8/8 pages**.
+- Page 1 directly reports that the council had recently granted **Raasch & Lamb, pool hall operators**, a temporary permit for removal of their business to the **basement of the Andresen Building**, with a promised ordinance after the three-month permit, but then refused to enact the follow-up ordinance presented by W. A. Dimick. The existing ordinance required pool/billiard halls to be on the ground floor and visible from the street. This does **not** prove the basement move was completed.
+- Page 3 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- Page 6 directly reconfirms **W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main; George A. Harding, 511 Main; Holman/Randall, Fifth and Main**.
+- Page 7 repeats the completed Electric Store move to **619 Main** with the stale 617 Main footer still present.
+- No exact 503/505 premises fact was established. Registered `S-316` / `E-289`.
+- Courier coverage advances to **278/458**, with **180 Courier + 426 Enterprise = 606** newspaper pages remaining. Next ordinary Courier page: **29 June 1916 p1**. 1916 is not ONLINE COMPLETE.

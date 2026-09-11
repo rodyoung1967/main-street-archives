@@ -905,3 +905,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Direct address controls: **502 Main** Champion Smith & Telford; **507 Main** Bradley; **509 Main** Brightbill; **511 Main** Harding.
 - No target-building, ownership, tenancy, or license relation created from 503/505 issue silence.
 - Annual coverage consequence: Courier **270/458**, **188** Courier pages remain; next ordinary page **22 Jun. p1**.
+
+
+## S-316 / E-289 — 22 June 1916 Courier complete issue
+<!-- 2026-09-11-1916-june22-complete -->
+
+- `S-316` / `E-289` → *Oregon City Courier*, 22 Jun. 1916, **8/8 pages visually verified**.
+- Raasch & Lamb → temporary permit/dispute over removal to the **Andresen Building basement**; **no completed-move inference**.
+- Direct controls: **502 Main** Champion Smith & Telford; **507 Main** Bradley; **509 Main** Brightbill; **511 Main** Harding; Fifth/Main Holman/Randall.
+- Electric Store → **619 Main** completed-move ad repeated; 617 footer retained as stale/conflicting copy.
+- No target-building, ownership, tenancy, or license relation created from 503/505 issue silence.
+- Annual coverage consequence: Courier **278/458**, **180** Courier pages remain; next ordinary page **29 Jun. p1**.

@@ -2139,3 +2139,13 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-june15-visual-review-2026-09-11.md"
     related_evidence: [E-288]
     notes: "Complete issue review. Electric Store move explicitly complete to Andresen Building 619 Main by this date; page 4 Main Street sale is between Seventh and Eighth; no exact 503/505 premises assignment."
+
+
+  - id: S-316
+    name: "Oregon City Courier, 22 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-22"
+    repository_file: "evidence/source-captures/1916-courier-june22-visual-review-2026-09-11.md"
+    related_evidence: [E-289]
+    notes: "Complete issue review. Page 1 certifies Raasch & Lamb temporary basement-move permit dispute at the Andresen Building without proving move completion. No exact 503/505 premises assignment."

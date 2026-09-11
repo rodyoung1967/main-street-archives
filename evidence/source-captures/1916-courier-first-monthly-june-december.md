@@ -102,3 +102,8 @@ Next chronological page remains **May 18 p4 / annual page 181**. Skip the seven 
 | 1916-12-07 / 6 | IMG-0609 | Electric Store Andresen Building 619 Main. Picture panel Wilkinson shop 612, Raasch & Lamb pool/billiards unnumbered; Oregon City Garage Main/Fourth, laundry unnumbered. Obituaries, school commentary, railway inquiry and entertainment. No exact 503/505 finding. |
 | 1916-12-07 / 7 | IMG-0610 | Legal notices: rural land and drainage parcels, not target Block 4. Dillman & Howland Eighth/Main; Holman alone Fifth/Main. Farm/classified material; no target premises link. |
 | 1916-12-07 / 8 | IMG-0611 | Williams Bros office 612 Main; Holman alone Fifth/Main. Report of completed 26-mile city water-line repairs and proposed reservoir cleaning is public infrastructure, not target building work. Shopping notices mention Burmeister & Andresen rearrangement/new gift goods without defining floor-plan completion or exact date. Other court, social and syndicated material. |
+
+
+### 22 June exhaustive-review supplement
+
+The later exhaustive pass of 22 June (`S-316` / `E-289`) visually verified all eight pages. Page 1 certifies the Raasch & Lamb permit dispute; page 3 repeats Champion Smith & Telford at 502 Main and unnumbered Raasch & Lamb; page 6 repeats Bradley 507 / Brightbill 509 / Harding 511 and Holman/Randall Fifth/Main; page 7 repeats the Electric Store move to Andresen 619 with stale 617 footer. No exact 503/505 premises fact appears.
