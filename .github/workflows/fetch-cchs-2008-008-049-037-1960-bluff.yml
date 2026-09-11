@@ -1,0 +1,42 @@
+name: Preserve 1960 Fifth/Main CCHS bluff photograph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch_cchs_2008_008_049_037_1960_bluff.py'
+      - '.github/workflows/fetch-cchs-2008-008-049-037-1960-bluff.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install Pillow PyYAML
+      - name: Fetch exact CCHS object and preserve public derivative
+        run: python3 scripts/fetch_cchs_2008_008_049_037_1960_bluff.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit preserved photograph
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Preserve 1960 Fifth/Main CCHS photograph binary'
+          git pull --rebase origin main
+          python3 scripts/validate_archive.py
+          git push origin HEAD:main
