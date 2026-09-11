@@ -2119,3 +2119,13 @@ sources:
     repository_file: "newspapers/oregon-city-courier/1916-may/recovery-may18-page6/oregonnews-ed1-seq6.pdf"
     related_evidence: [E-286]
     notes: "Recovered original page PDF resolves the former annual visual gap. Page reports P. R. L. & P. Main Street track/pavement surface work; no exact 503/505 premises claim."
+
+
+  - id: S-314
+    name: "Oregon City Courier, 8 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-08"
+    repository_file: "evidence/source-captures/1916-courier-june08-visual-review-2026-09-11.md"
+    related_evidence: [E-287]
+    notes: "Complete issue visual review. Direct controls: 502 Champion Smith & Telford; 507 Bradley; 509 Brightbill; 511 Harding; Fifth/Main Holman-Randall; Raasch & Lamb pool/billiards unnumbered. No exact 503/505 premises assignment."

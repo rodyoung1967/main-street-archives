@@ -2674,3 +2674,13 @@ SHA-256 / size: `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb0205206
 Recovery source commit: `cbf0bb8ffe2e78257895c8a58b221713d16afbde`.  
 Related evidence: `E-286`.  
 Notes: This source resolves the former 1916 annual visual-retrieval gap. Full-page visual review confirms a P. R. L. & P. item about repairing the surface around **Main Street tracks** by removing stone filler, cutting pavement to tie ends, and using Belgian-block infill. This is street/track work, not a target building event. No exact 503/505 occupancy, ownership, tenancy, license, sale, construction, demolition or vacancy claim is printed.
+
+
+## S-314 — Oregon City Courier, 8 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Courier*, **8 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-08/1916-06-08-page-1.pdf` through `1916-06-08-page-8.pdf`; fetch manifest in the same directory.  
+Preservation commit: `2c39a84c5b022cffcad0738f5933deff62620b7c`.  
+Related evidence: `E-287`.  
+Notes: All eight original page PDFs were visually inspected. Page 5 directly prints Champion Smith & Telford at **502 Main Street** and an unnumbered Raasch & Lamb pool/billiards panel. Page 6 directly prints W. W. Bradley **507 Main**, H. P. Brightbill **509 Main**, George A. Harding **511 Main**, and Holman/Randall at **Fifth and Main**. The issue does not print an exact 503 or 505 Main premises assignment. Page 7's 617 Main Electric Store ad is retained as printed advertising during an independently documented relocation sequence and is not treated alone as proof of same-day physical occupancy.

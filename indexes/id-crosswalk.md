@@ -884,3 +884,13 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - `S-313` / `E-286` → recovered and visually verified *Oregon City Courier*, 18 May 1916, p. 6.
 - `E-286` → P. R. L. & P. Main Street track/pavement surface work only; **no 501/503/505 premises, building, ownership, tenancy or business relation created**.
 - Annual coverage consequence: former visual retrieval gap resolved; Courier **254/458** visually verified, next ordinary unreviewed page **8 Jun. p1**.
+
+
+## S-314 / E-287 — 8 June 1916 Courier complete issue
+<!-- 2026-09-11-1916-june08-complete -->
+
+- `S-314` / `E-287` → *Oregon City Courier*, 8 Jun. 1916, **8/8 pages visually verified**.
+- Direct address controls: **502 Main** Champion Smith & Telford; **507 Main** Bradley; **509 Main** Brightbill; **511 Main** Harding; **Fifth and Main** Holman/Randall.
+- Raasch & Lamb pool/billiards panel remains **unnumbered** and is not mapped to 503/504/505 from this page alone.
+- No `B-###`, `BUS-###`, ownership, tenancy, or license relation is created for 503/505 from issue silence.
+- Annual coverage consequence: Courier **262/458**, **196** Courier pages remain; next ordinary page **15 Jun. p1**.

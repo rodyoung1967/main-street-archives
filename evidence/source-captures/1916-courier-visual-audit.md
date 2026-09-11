@@ -4,7 +4,7 @@ Status: **in progress**
 
 Purpose: issue-by-issue review of the 1916 *Oregon City Courier* under `RESEARCH-STANDARD.md`. OCR/search results are treated as discovery aids; printed page/PDF renderings are authoritative where inspected.
 
-Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **254/458 Courier pages visually verified**. The audit now includes **May 18 in full (8/8)**, the full 11-image May 25 Booster Edition, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. The former May 18 p6 visual gap was recovered from the original University of Oregon PDF and visually verified (`S-313` / `E-286`). [Monthly ledger](1916-courier-first-monthly-june-december.md), E-119/S-133; [11 September bounded review](1916-courier-may18-may25-bounded-review-2026-09-11.md). The next ordinary unreviewed page is **June 8 p1**; **204 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
+Certification checkpoint: [current checkpoint](1916-online-audit-checkpoint.md) records **262/458 Courier pages visually verified**. The audit includes **May 18 in full (8/8)**, the full 11-image May 25 Booster Edition, **June 8 in full (8/8)**, plus the completed June 1, July 6, August 3, September 7, October 5, November 2 and December 7 issues. The former May 18 p6 gap was recovered (`S-313` / `E-286`), and the complete June 8 issue is recorded under `S-314` / `E-287`. The next ordinary unreviewed page is **June 15 p1**; **196 Courier pages remain**. Other targeted notes do not certify intervening whole issues. April 6 Randall sale is visually verified (E-116); later joint ads are not ownership proof.
 
 ## January 1916
 
@@ -138,7 +138,7 @@ The detailed June issue-by-issue audit is still underway.
 
 ## Review status
 
-January through May now have a documented chronological audit trail, and **May is fully visually closed for the Courier**. The next ordinary unreviewed Courier page is **June 8 p1** (June 1 is already complete). Continue chronologically through all remaining pages/issues, with special attention to:
+January through May have a documented chronological audit trail, and **June 8 is now complete at 8/8 pages** in addition to the already completed June 1 sample. The next ordinary unreviewed Courier page is **June 15 p1**. The 8 June issue visually reconfirms Bradley **507 Main**, Brightbill **509 Main**, Harding **511 Main**, Champion Smith & Telford **502 Main**, unnumbered Raasch & Lamb pool/billiards advertising, and Holman/Randall at **Fifth and Main**; no exact 503/505 premises assignment appears. Continue chronologically through all remaining pages/issues, with special attention to:
 
 - 503 Main / 505 Main exact-address evidence;
 - L. Hylton or successor at 503;

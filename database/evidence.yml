@@ -4310,3 +4310,19 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-may18-may25-bounded-review-2026-09-11.md"
+
+
+  - id: E-287
+    name: "8 June 1916 Courier complete visual review and neighboring-address controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages of the 8 June 1916 Oregon City Courier were visually inspected."
+      - "Page 5 directly prints Champion Smith & Telford at 502 Main Street and Raasch & Lamb Pool and Billiards without a street number."
+      - "Page 6 directly prints W. W. Bradley at 507 Main, H. P. Brightbill at 509 Main, George A. Harding at 511 Main, and R. L. Holman / T. P. Randall at Fifth and Main."
+      - "Page 3 continues Huntley Brothers' closing-out sale of Charman & Co. drug stock without a target address."
+      - "No exact 503/505 premises assignment or target ownership/tenancy/license/construction/sale event is printed; this is coverage, not vacancy evidence."
+    confidence: "Very High for scan-visible wording and 8/8 page coverage"
+    related_sources: [S-314]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-june08-visual-review-2026-09-11.md"

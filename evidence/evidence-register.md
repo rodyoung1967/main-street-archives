@@ -2935,3 +2935,17 @@ Claims:
 - the former annual visual retrieval gap for May 18 p6 is resolved, advancing Courier visual coverage to **254/458**.
 Classification: **DOCUMENTED / DIRECT** for the scan-visible street/track work and page coverage; **NO TARGET-PREMISES BRIDGE**.  
 Confidence: **Very High** for source identity, page/date, visual coverage, and printed wording.
+
+
+## E-287 — 8 June 1916 Courier complete visual review and neighboring-address controls
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-314`.  
+Claims:
+- all **8/8 pages** of the 8 June 1916 *Oregon City Courier* were visually inspected from the original scans;
+- page 5 directly prints **Champion Smith & Telford — 502 Main Street** and separately **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- page 6 directly prints **W. W. Bradley — 507 Main**, **H. P. Brightbill — 509 Main**, **George A. Harding — 511 Main**, and **R. L. Holman / T. P. Randall — Fifth and Main**;
+- page 3 advertises Huntley Brothers' closing-out sale of the Charman & Co. drug stock but supplies no target address;
+- no page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement;
+- this is issue-level coverage only and must not be converted into evidence that either target premises was vacant or unused.
+Classification: **DOCUMENTED / DIRECT** for the scan-visible addresses and wording; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High** for page coverage and printed address controls.

@@ -1142,3 +1142,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - The page's relevant Main Street item reports P. R. L. & P. repairing the surface around its Main Street tracks by removing stone filler, cutting pavement to tie ends, and planning Belgian-block infill. This is street/track work, not a 503/505 building or premises event.
 - No exact 503/505 occupant, proprietor, property owner, tenant, licensee, business transfer, construction, demolition, vacancy, or sale was established.
 - Registered `S-313` / `E-286`. Courier coverage advances to **254/458**, with **204** Courier pages and **426** Enterprise pages remaining (**630 total**). May Courier coverage is now complete; next ordinary page is **June 8 p1**.
+
+
+## 2026-09-11 — 1916 Courier 8 June complete visual review
+
+- Preserved all **8 original University of Oregon page PDFs** for the 8 June 1916 *Oregon City Courier* under `newspapers/oregon-city-courier/1916-june/1916-06-08/`; fetch commit `2c39a84c5b022cffcad0738f5933deff62620b7c`.
+- Visually inspected **8/8 pages** from the original scans. No exact 503 Main or 505 Main occupant, proprietor, owner, tenant, licensee, sale, construction, demolition, closure or vacancy statement was printed.
+- Page 5 visually confirms **Champion Smith & Telford, 502 Main Street**, and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- Page 6 visually confirms **W. W. Bradley, 507 Main**; **H. P. Brightbill, 509 Main**; **George A. Harding, 511 Main**; and **R. L. Holman / T. P. Randall, Fifth and Main**.
+- Page 3 continues Huntley Brothers' closing-out sale of the Charman & Co. drug stock without printing a target address. Page 7 still prints the Electric Store at Beaver Building, 617 Main, during the broader 617→619 transition; this ad is not used alone to prove physical occupancy that day.
+- Registered `S-314` / `E-287`. Courier coverage advances to **262/458**; **196 Courier + 426 Enterprise = 622** newspaper pages remain. Next ordinary Courier page: **15 June 1916 p1**.
