@@ -4456,3 +4456,20 @@ evidence:
     related_media:
       - IMG-0771
     repository_file: "evidence/source-captures/1960-cchs-2008-008-049-037-wells-sign-rereview-2026-09-11.md"
+
+
+  - id: E-296
+    name: "17 August 1916 Courier complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 2 prints R. L. Holman at Fifth and Main."
+      - "Page 7 prints The Electric Store at Andresen Building 619 Main."
+      - "Page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb pool/billiards without a street number."
+      - "Page-3 505.00 is a $505 Ford Coupelet price, not 505 Main."
+      - "No exact 503/505 premises fact."
+    confidence: "Very High"
+    related_sources: [S-323]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-august17-visual-review-2026-09-11.md"
