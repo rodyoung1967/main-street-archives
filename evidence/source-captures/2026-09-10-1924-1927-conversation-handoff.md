@@ -237,7 +237,7 @@ Finalization commit: **`4b196c94f2b50e04f300f2fea119268d06f67f5a`**.
 
 Current photo boundary:
 
-- CCHS P-267 / `S-312` / `E-284` / `IMG-0770` is dated **1924–1928** and has the target frontage spatially identified, but not an exact exposure year.
+- CCHS P‑267 / `S-312` / `E-284` / `IMG-0770` is dated **1924–1928** and has the target frontage spatially identified, but not an exact exposure year.
 - Ralph Eddy negative No. 157 / CC0002 is an **exact-1924 Oregon City photo lead**, but the target 501/503/505 row has not been defensibly established from an archival-resolution image.
 - OHS 371N5709 remains a broader 1923–1936 bluff-view lead.
 - Do not call any of those an exact-1924 target-frontage photograph until the date/visibility requirements are met.
@@ -436,7 +436,7 @@ When public City image access works again:
 
 Do not duplicate the completed photo hunt. Resume only if an archival-resolution copy or better date evidence appears for:
 
-- CCHS P-267 / `IMG-0770`;
+- CCHS P‑267 / `IMG-0770`;
 - Ralph Eddy No. 157 / CC0002;
 - OHS 371N5709.
 
