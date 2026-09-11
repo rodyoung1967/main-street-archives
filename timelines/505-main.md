@@ -38,6 +38,7 @@ Scope: unified chronology of registered address-specific occupants, uses, physic
 | 1950 | Sanborn: billiards, cigars, beer at 505. | Exact map use; business/operator unnamed. | `E-020`; `SM-009` |
 | 1953 | **“Well's Recreation”** reported at 505. | May 2000 individual SHPO survey scan is now **VISUALLY VERIFIED** and explicitly attributes this wording to a "1953 city directory"; the underlying directory page/proprietor remains unresolved. | `BUS-015`; `E-032`; `E-257`; `S-284` |
 | Nov. 1955 | Unnamed beer-and-pool tavern offered for sale; contact phone **9179**. | **Primary newspaper page visually verified**; seller and trade name unprinted/unresolved. | `E-039`; `S-037` |
+| 1960 | Exact-dated CCHS `2008.008.049.037` shows the 505 frontage; steward-led enlarged re-review reads the vertical sign as **WELLS**. Combined with the 1953 directory synthesis naming **Well's Recreation** at 505, this anchors Wells/Well's Recreation in the 1960 photographed state. | **STRONG CROSS-SOURCE INFERENCE** for the business identity; proprietor/licensee and uninterrupted operation unresolved. | `E-295`; `S-322`; `IMG-0771`; `E-257`; `S-284` |
 | Nov. 1965 | **505 Tavern** liquor renewal. | **Exact primary municipal.** | `BUS-005`; `E-029`; `S-038` |
 | 1 Sep. 1967 | Block fire; 505 Tavern and Wheel Restaurant spared with smoke/water damage. | Shared event; confirms separate businesses. | `E-045`; `S-052` |
 | Mar. 1972; Feb. 1976 | 505 Tavern renewal and classified (655-4321). | Primary documentary anchors. | `E-029`, `E-046`; `S-039`, `S-053` |
@@ -115,4 +116,4 @@ A February 1946 City claim prints **C. P. Farr — Rent at 708 Monroe - Rec. Dep
 
 Combined `E-285`: **material target-frontage replacement/reconfiguration occurred after the photographed 1918 state and by 1925**. This does not establish exact individual construction dates, a single rebuild campaign, ownership, or 1922-fire causation.
 
-| 1960 | Exact-dated CCHS `2008.008.049.037` shows the 505 frontage; steward-led enlarged re-review reads the vertical sign as **WELLS**. Combined with the 1953 directory synthesis naming **Well's Recreation** at 505, this anchors Wells/Well's Recreation in the 1960 photographed state. | **STRONG CROSS-SOURCE INFERENCE** for the business identity; proprietor/licensee and uninterrupted operation unresolved. | `E-295`; `S-322`; `IMG-0771`; `E-257`; `S-284` |
+
