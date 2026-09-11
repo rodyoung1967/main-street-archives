@@ -949,3 +949,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Text-layer `505` on page 8 is **505 Division Street**, not 505 Main.
 - No target-building, ownership, tenancy, or license relation created from 503/505 Main issue silence.
 - Annual coverage consequence: Courier **302/458**, **156** Courier pages remain; next ordinary page **27 Jul. p1**.
+
+
+## S-320 / E-293 — 27 July 1916 Courier complete issue
+
+- 8/8 pages visually verified.
+- Direct controls: **502 Main** Champion Smith & Telford; **507** Bradley; **509** Brightbill; **511** Harding; **619 Main** Electric Store.
+- Raasch & Lamb remains unnumbered.
+- No 503/505 bridge. July Courier coverage complete.
+- Annual consequence: **310/458** Courier pages reviewed; **148** remain; next ordinary page **10 Aug. p1**.

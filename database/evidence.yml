@@ -4411,3 +4411,15 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-july20-visual-review-2026-09-11.md"
+
+
+  - id: E-293
+    name: "27 July 1916 Courier complete visual review; July closeout"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Direct controls at 502, 507, 509, 511 and 619 Main; Raasch & Lamb remains unnumbered."
+      - "No exact 503/505 premises fact; July Courier coverage closes."
+    confidence: "Very High"
+    related_sources: [S-320]
+    repository_file: "evidence/source-captures/1916-courier-july27-visual-review-2026-09-11.md"

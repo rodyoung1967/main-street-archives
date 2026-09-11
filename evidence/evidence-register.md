@@ -3022,3 +3022,17 @@ Claims:
 - no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
 Classification: **DOCUMENTED / DIRECT** for scan-visible addresses and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505 Main.  
 Confidence: **Very High** for printed wording and 8/8 page review.
+
+
+## E-293 — 27 July 1916 Courier complete visual review; July closeout
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-320`.  
+Claims:
+- all **8/8 pages** were visually inspected;
+- page 3 directly prints **Bradley 507 Main**, **Brightbill 509 Main**, and **Harding 511 Main**;
+- page 7 repeats Electric Store / Light and Power offices at **Andresen Building, 619 Main Street**;
+- page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- no exact 503/505 premises statement appears;
+- this issue closes July Courier visual coverage.
+Classification: **DOCUMENTED / DIRECT** for scan-visible controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High**.

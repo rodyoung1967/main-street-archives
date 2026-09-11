@@ -1211,3 +1211,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - The page-8 `505` text occurrence is **505 Division Street**, not 505 Main; no target relation is created.
 - No exact 503/505 Main premises fact was established. Registered `S-319` / `E-292`.
 - Courier coverage advances to **302/458**, with **156 Courier + 426 Enterprise = 582** newspaper pages remaining. Next ordinary Courier page: **27 July 1916 p1**. 1916 remains not ONLINE COMPLETE.
+
+
+## 2026-09-11 — 1916 Courier 27 July complete visual review
+
+- Visually inspected **8/8 pages** from preserved original UO scans.
+- Page 3: **Bradley 507 Main; Brightbill 509 Main; Harding 511 Main**.
+- Page 7: Electric Store completed-move advertisement at **Andresen Building, 619 Main**.
+- Page 8: **Champion Smith & Telford, 502 Main**; **Raasch & Lamb** pool/billiards remains unnumbered.
+- No exact 503/505 premises fact. Registered `S-320` / `E-293`.
+- Courier advances to **310/458**; **July complete**; next ordinary page **10 August p1**.

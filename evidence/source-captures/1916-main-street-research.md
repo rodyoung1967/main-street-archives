@@ -223,3 +223,8 @@ The 13 July *Courier* is now **8/8 visually verified** (`S-318` / `E-291`). Page
 ## 11 September 2026 — complete July 20 issue
 
 The 20 July *Courier* is now **8/8 visually verified** (`S-319` / `E-292`). Page 3 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. A page-8 `505` text hit is **505 Division Street**, not 505 Main. No page prints an exact 503/505 Main premises fact.
+
+
+## 11 September 2026 — complete July 27 issue
+
+The 27 July *Courier* is now **8/8 visually verified** (`S-320` / `E-293`) and closes July. Page 3 directly reconfirms **Bradley 507 / Brightbill 509 / Harding 511 Main**. Page 7 repeats the Electric Store at **619 Main**. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. No exact 503/505 premises fact.
