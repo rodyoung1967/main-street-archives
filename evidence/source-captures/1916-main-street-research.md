@@ -233,3 +233,8 @@ The 27 July *Courier* is now **8/8 visually verified** (`S-320` / `E-293`) and c
 ## 11 September 2026 — complete August 10 issue
 
 The 10 August *Courier* is now **8/8 visually verified** (`S-321` / `E-294`). Page 7 repeats the Electric Store / Light and Power office at **619 Main**. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. No exact 503/505 premises fact.
+
+
+## 11 September 2026 — complete August 17 issue
+
+The 17 August *Courier* is now **8/8 visually verified** (`S-323` / `E-296`). Page 2 repeats **R. L. Holman at Fifth and Main**. Page 7 repeats the Electric Store at **Andresen Building, 619 Main**. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. A page-3 `505.00` occurrence is a **$505 Ford Coupelet price**, not 505 Main; page 1's Main Street city-hall property is between Seventh and Eighth. No page prints an exact 503/505 premises fact. Courier coverage is now **326/458**, with **132** Courier pages remaining; next ordinary issue is 24 August.
