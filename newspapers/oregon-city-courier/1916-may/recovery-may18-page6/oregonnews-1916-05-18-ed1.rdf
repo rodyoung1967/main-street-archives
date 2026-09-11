@@ -1,0 +1,27 @@
+@base <https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ore: <http://www.openarchives.org/ore/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+</lccn/sn00063698/1916-05-18/ed-1#issue> a bibo:Issue ;
+    dcterms:issued "1916-05-18"^^xsd:date ;
+    dcterms:title "Oregon City courier. - 1916-05-18" ;
+    ore:aggregates </lccn/sn00063698/1916-05-18/ed-1/seq-1#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-2#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-3#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-4#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-5#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-6#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-7#page>,
+        </lccn/sn00063698/1916-05-18/ed-1/seq-8#page> ;
+    ore:isAggregatedBy </batches/batch_oregoncitypubliclibrary_dora_ver01#batch>,
+        </lccn/sn00063698#title> ;
+    ore:isDescribedBy </lccn/sn00063698/1916-05-18/ed-1.rdf> .
+
+</lccn/sn00063698/1916-05-18/ed-1.rdf> a ore:ResourceMap ;
+    dcterms:created "2026-09-11T14:42:01+00:00"^^xsd:dateTime ;
+    dcterms:creator <http://chroniclingamerica.loc.gov/awardees/dlc#awardee> ;
+    dcterms:modified "2026-09-11T14:42:01+00:00"^^xsd:dateTime ;
+    ore:describes </lccn/sn00063698/1916-05-18/ed-1#issue> .
+
