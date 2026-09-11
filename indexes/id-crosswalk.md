@@ -969,3 +969,14 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Annual consequence: **318/458** Courier pages reviewed; **140** remain; next ordinary page **17 Aug. p1**.
 
 | `IMG-0771` CCHS `2008.008.049.037` | `S-322`, `E-295`, `T-105`, `BUS-015`, `B-002` | Exact-dated 1960 Fifth/Main bluff photograph; steward-led enlarged re-review reads vertical 505 sign as **WELLS**. Combined with `S-284`/`E-257`, strong cross-source 1960 Well's Recreation anchor; proprietor/licensee unresolved. |
+
+
+## S-323 / E-296 — 17 August 1916 Courier complete issue
+<!-- 2026-09-11-1916-august17-complete -->
+
+- `S-323` / `E-296` → *Oregon City Courier*, 17 Aug. 1916, **8/8 pages visually verified**.
+- Direct controls: **502 Main** Champion Smith & Telford; **619 Main** Electric Store; **Fifth and Main** R. L. Holman.
+- Raasch & Lamb remains **unnumbered**.
+- Page-3 `505.00` is a **$505 vehicle price**, not 505 Main.
+- No `B-###`, `BUS-###`, person, ownership, tenancy, licensing, or target-premises relation is created from 503/505 issue silence.
+- Annual coverage consequence: Courier **326/458**, **132** Courier pages remain; next ordinary page **24 Aug. p1**.
