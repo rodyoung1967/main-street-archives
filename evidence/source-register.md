@@ -2743,3 +2743,12 @@ Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/
 Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-27/`.  
 Related evidence: `E-293`.  
 Notes: Directly reconfirms 502/507/509/511 Main controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment.
+
+
+## S-321 — Oregon City Courier, 10 August 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Courier*, **10 August 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-10/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-10/`.  
+Related evidence: `E-294`.  
+Notes: Page 7 prints Electric Store / Light and Power offices at 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. No exact 503/505 premises assignment.

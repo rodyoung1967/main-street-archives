@@ -2189,3 +2189,13 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-july27-visual-review-2026-09-11.md"
     related_evidence: [E-293]
     notes: "Complete 8/8 visual review. Direct controls at 502/507/509/511 Main and Electric Store 619 Main; Raasch & Lamb remains unnumbered; no exact 503/505 premises assignment."
+
+
+  - id: S-321
+    name: "Oregon City Courier, 10 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-10/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-10"
+    repository_file: "evidence/source-captures/1916-courier-august10-visual-review-2026-09-11.md"
+    related_evidence: [E-294]
+    notes: "Complete 8/8 visual review. Electric Store 619 Main; Champion Smith & Telford 502 Main; Raasch & Lamb unnumbered; no exact 503/505 premises assignment."

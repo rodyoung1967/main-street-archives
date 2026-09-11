@@ -958,3 +958,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Raasch & Lamb remains unnumbered.
 - No 503/505 bridge. July Courier coverage complete.
 - Annual consequence: **310/458** Courier pages reviewed; **148** remain; next ordinary page **10 Aug. p1**.
+
+
+## S-321 / E-294 — 10 August 1916 Courier complete issue
+
+- 8/8 pages visually verified.
+- **502 Main** Champion Smith & Telford; **619 Main** Electric Store / Light and Power offices.
+- Raasch & Lamb remains unnumbered.
+- No 503/505 bridge.
+- Annual consequence: **318/458** Courier pages reviewed; **140** remain; next ordinary page **17 Aug. p1**.

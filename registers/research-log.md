@@ -1221,3 +1221,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 8: **Champion Smith & Telford, 502 Main**; **Raasch & Lamb** pool/billiards remains unnumbered.
 - No exact 503/505 premises fact. Registered `S-320` / `E-293`.
 - Courier advances to **310/458**; **July complete**; next ordinary page **10 August p1**.
+
+
+## 2026-09-11 — 1916 Courier 10 August complete visual review
+
+- Preserved all **8 original University of Oregon page PDFs** under `newspapers/oregon-city-courier/1916-august/1916-08-10/`.
+- Visually inspected **8/8 pages**.
+- Page 7 repeats the Electric Store / Light and Power offices at **Andresen Building, 619 Main**.
+- Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- No exact 503/505 premises fact. Registered `S-321` / `E-294`.
+- Courier advances to **318/458**; **140 Courier + 426 Enterprise = 566** newspaper pages remain. Next ordinary Courier page: **17 August 1916 p1**.

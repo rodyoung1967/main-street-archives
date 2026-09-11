@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | **35 complete issues / 310 pages visually reviewed**; 20 July complete under `S-319` / `E-292` |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | **36 complete issues / 318 pages visually reviewed**; 20 July complete under `S-319` / `E-292` |
 | *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **310 visually reviewed; 574 pending** |
+| **Total** |  | **104** | **884** | **318 visually reviewed; 566 pending** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,7 +79,7 @@ was retrieved.
 
 ## Resume point
 
-The former **18 May 1916 p6** gap is resolved, all June Courier dates are completely visually inspected, and **13 July** and **20 July 1916** are now complete at 8/8 pages in addition to the previously completed **6 July** sample. The next ordinary unreviewed Courier page is **10 August 1916 p1** because **3 August** is already complete under the monthly sample. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The former **18 May 1916 p6** gap is resolved, all June Courier dates are completely visually inspected, and **13 July** and **20 July 1916** are now complete at 8/8 pages in addition to the previously completed **6 July** sample. The next ordinary unreviewed Courier page is **17 August 1916 p1**. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
 
 The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
 non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
@@ -104,12 +104,12 @@ This 28 August checkpoint has now been advanced by the [11 September bounded May
 | May | complete | 0 |
 | June | complete | 0 |
 | July | complete | 0 |
-| August | 10 (pp1–8); 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 32 |
+| August | 17 (pp1–8); 24 (pp1–8); 31 (pp1–8) | 24 |
 | September | 14 (pp1–8); 21 (pp1–8); 28 (pp1–8) | 24 |
 | October | 12 (pp1–8); 19 (pp1–8); 26 (pp1–8) | 24 |
 | November | 9 (pp1–8); 16 (pp1–8); 23 (pp1–8); 30 (pp1–8) | 32 |
 | December | 14 (pp1–20); 21 (pp1–8); 28 (pp1–8) | 36 |
-| **Total** | **17 whole issues** | **148** |
+| **Total** | **16 whole issues** | **140** |
 
 
 ## Added bounded May segment — 11 September 2026
@@ -199,3 +199,14 @@ Updated coverage: Courier **302/458 visually verified**, **156 pending**; Enterp
 - No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
 
 Updated coverage: Courier **310/458 visually verified**, **148 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **310/884 visually reviewed, 574 pending**. **July Courier coverage is complete. 1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **10 August p1**.
+
+
+## Added 10 August complete-issue segment — 11 September 2026
+
+[Detailed review](1916-courier-august10-visual-review-2026-09-11.md) visually inspected all **8/8** original page scans for the 10 August 1916 *Courier*.
+
+- Page 7 directly prints the Electric Store / Light and Power offices at **Andresen Building, 619 Main Street**.
+- Page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number.
+- No page prints an exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure, or vacancy statement.
+
+Updated coverage: Courier **318/458 visually verified**, **140 pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **318/884 visually reviewed, 566 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **17 August p1**.

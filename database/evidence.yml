@@ -4423,3 +4423,16 @@ evidence:
     confidence: "Very High"
     related_sources: [S-320]
     repository_file: "evidence/source-captures/1916-courier-july27-visual-review-2026-09-11.md"
+
+
+  - id: E-294
+    name: "10 August 1916 Courier complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 7 prints Electric Store / Light and Power offices at Andresen Building 619 Main."
+      - "Page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb pool/billiards without a street number."
+      - "No exact 503/505 premises fact."
+    confidence: "Very High"
+    related_sources: [S-321]
+    repository_file: "evidence/source-captures/1916-courier-august10-visual-review-2026-09-11.md"

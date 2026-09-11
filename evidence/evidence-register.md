@@ -3036,3 +3036,15 @@ Claims:
 - this issue closes July Courier visual coverage.
 Classification: **DOCUMENTED / DIRECT** for scan-visible controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High**.
+
+
+## E-294 — 10 August 1916 Courier complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-321`.  
+Claims:
+- all **8/8 pages** were visually inspected;
+- page 7 directly prints the Electric Store / Light and Power offices at **Andresen Building, 619 Main Street**;
+- page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- no exact 503 Main or 505 Main premises statement appears.
+Classification: **DOCUMENTED / DIRECT** for scan-visible controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High**.
