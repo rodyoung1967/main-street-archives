@@ -405,3 +405,16 @@ Its durable contributions are already saved in the repository as:
 - this final current-main checkpoint.
 
 No unresolved historical claim from this conversation should be silently promoted beyond the classifications above.
+
+
+---
+
+## Closeout addendum — Lawrence Ivan Palmer employee-continuity lead
+
+A final public-web pass recovered a **secondary reproduction** of the **18 February 2001 Oregonian** obituary for **Lawrence Ivan Palmer Jr.** The reproduced obituary says Palmer moved to Oregon City in 1972, worked for Sears until the **early 1980s**, then worked as a **janitor for The Wheel Lounge** until retiring in the **early 1990s**.
+
+Preserved capture:
+
+- `evidence/source-captures/2001-lawrence-palmer-wheel-lounge-employee-continuity-lead-2026-09-10.md`
+
+Classification: **SECONDARY / REPUBLISHED OBITUARY TEXT — EMPLOYEE-CONTINUITY LEAD ONLY.** The original Oregonian page was not visually inspected. Do not use Palmer's employment span to infer an owner, sale date, license transfer, or exact Raye→Wiitanen transition. Its value is limited to 1980s/early-1990s Wheel staff continuity and possible future employee/oral-history network research.
