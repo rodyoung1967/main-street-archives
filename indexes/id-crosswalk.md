@@ -967,3 +967,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Raasch & Lamb remains unnumbered.
 - No 503/505 bridge.
 - Annual consequence: **318/458** Courier pages reviewed; **140** remain; next ordinary page **17 Aug. p1**.
+
+| `IMG-0771` CCHS `2008.008.049.037` | `S-322`, `E-295`, `T-105`, `BUS-015`, `B-002` | Exact-dated 1960 Fifth/Main bluff photograph; steward-led enlarged re-review reads vertical 505 sign as **WELLS**. Combined with `S-284`/`E-257`, strong cross-source 1960 Well's Recreation anchor; proprietor/licensee unresolved. |

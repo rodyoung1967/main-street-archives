@@ -295,3 +295,9 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Review: `evidence/source-captures/cchs-2008-008-049-037-1960-fifth-main-bluff-photo.md`
 - Key value: exact-dated pre-1967-fire structural and streetscape control for Fifth/Main and the 503/505 frontage.
 - Sign-reading limit: storefront lettering in this 2048-pixel steward copy is too soft for a new trade-name claim by itself; compare the stronger companion controls already registered for The Wheel / 505 Tavern signage.
+
+#### IMG-0771 1960 WELLS sign re-review
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+- Enlarged steward-led rereview reads the vertical 505 Main sign as **WELLS**.
+- Source/evidence/timeline: `S-322` / `E-295` / `T-105`.
+- With `S-284` / `E-257`, this is the project’s **1960 Wells / Well's Recreation** business-sign anchor; proprietor/licensee remains unresolved.

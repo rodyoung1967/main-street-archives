@@ -357,3 +357,10 @@ The all-source audit (`S-303` / `E-277`) certifies 1917 **ONLINE COMPLETE**, not
 <!-- 2026-09-09-cchs-1918-p267-target-transition -->
 
 New CCHS photographic evidence (`E-283`, `E-284`) plus the 1925 Sanborn tightens the broad 501/503/505 frontage transition to **after the photographed 1918 state and by 1925** (`E-285`). The exact questions remain open: when was each later structure or major component built/rebuilt, was the work one campaign or multiple, and what relationship—if any—did it have to the July 1922 fire? The c.1919 and c.1920 inventory dates remain unproved estimates.
+
+### 11 September 2026 — Wells→505 Tavern transition narrowed by exact-dated 1960 photograph
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) is exact-dated **1960**. Steward-led enlarged re-review reads the vertical 505 Main sign as **WELLS**. Combined with the independently preserved 1953 **“Well's Recreation”** directory synthesis (`S-284` / `E-257`), the project now anchors Wells / Well's Recreation at 505 in the 1960 photographed state.
+
+The unresolved question is therefore narrower: **who operated/licensed 505 in 1960, and when/how did the public/business identity change from Wells / Well's Recreation to 505 Tavern by the exact 11 November 1965 municipal record (`E-029`)?** Do not infer the proprietor, a sale, or uninterrupted 1953–1960 operation from the sign alone.

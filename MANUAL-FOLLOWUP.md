@@ -498,3 +498,10 @@ Related source captures:
 - `evidence/source-captures/1960-1965-505-tavern-hansen-transition-continuation-2026-09-07.md`
 - `evidence/source-captures/1960-polk-oregon-city-directory-official-citation-control-2026-09-07.md`
 - `evidence/source-captures/1960-polk-directory-multnomah-county-library-holding-route-2026-09-07.md`
+
+## 11 September 2026 — MF-058 refined by 1960 WELLS photographic anchor
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) is exact-dated **1960** and, after steward-led enlarged re-review, shows **WELLS** signage on the 505 Main frontage. With `S-284` / `E-257`, this strongly anchors Wells / Well's Recreation in the 1960 photographed state.
+
+`MF-058` remains active, but its question is now narrower: identify the **1960 proprietor/licensee** and the **post-1960 transition to 505 Tavern by 11 November 1965**. The actual 1960 directory and 1959–64 assumed-name volumes become especially high-value. No outreach or fee is authorized by this update.

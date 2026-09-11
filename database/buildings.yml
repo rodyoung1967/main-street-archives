@@ -231,6 +231,7 @@ buildings:
       - E-283
       - E-284
       - E-285
+      - E-295
     related_sources:
       - S-130
       - S-021
@@ -271,6 +272,7 @@ buildings:
       - S-298
       - S-311
       - S-312
+      - S-322
     related_maps:
       - SM-002
       - SM-003

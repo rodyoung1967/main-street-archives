@@ -1231,3 +1231,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
 - No exact 503/505 premises fact. Registered `S-321` / `E-294`.
 - Courier advances to **318/458**; **140 Courier + 426 Enterprise = 566** newspaper pages remain. Next ordinary Courier page: **17 August 1916 p1**.
+
+### 2026-09-11 — 1960 WELLS sign re-review at 505 Main
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+- Re-reviewed committed CCHS `2008.008.049.037` / `IMG-0771` after project-steward identification of the vertical 505 sign as **WELLS**.
+- Enlarged review resolves approximately five stacked letter positions and accepts **WELLS** as the project's best visual reading, superseding the earlier tentative TAVERN thought for this sign.
+- Integrated `S-322` / `E-295` / `T-105` and linked `BUS-015` / `B-002`.
+- Combined with `S-284` / `E-257`, the archive now treats **Wells / Well's Recreation at 505 in 1960** as a **STRONG CROSS-SOURCE INFERENCE**.
+- Preserved limits: 1960 proprietor/licensee, formal punctuation, uninterrupted 1953–1960 operation, and exact Wells→505 Tavern transition remain unresolved.
+- No institutional request sent and no fee authorized.

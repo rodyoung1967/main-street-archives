@@ -263,13 +263,14 @@ businesses:
   - id: BUS-015
     name: Well's Recreation
     address: 505 Main
-    notes: City inventory reports 1953 directory; spelling to verify.
+    notes: "City/SHPO survey reports a 1953 directory entry as Well's Recreation; exact-dated 1960 CCHS photograph, on steward-led enlarged rereview, strongly supports vertical WELLS signage at 505. The underlying 1953 directory page, 1960 proprietor/licensee, and exact formal 1960 trade-name spelling remain unresolved."
     related_buildings:
       - B-002
     related_evidence:
       - E-032
       - E-257
-    related_sources: [S-033, S-284]
+      - E-295
+    related_sources: [S-033, S-284, S-322]
     repository_file: businesses/wells-recreation.md
 
   - id: BUS-016

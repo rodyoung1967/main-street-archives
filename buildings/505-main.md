@@ -376,3 +376,12 @@ The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`)
 The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 505 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
 
 At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.
+
+## 1960 CCHS WELLS signage
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+Exact-dated CCHS photograph `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771` / `T-105`) has been re-reviewed at high enlargement after the project steward identified the vertical 505-frontage sign as **WELLS**. The sign presents five stacked letter positions and is now accepted as the project's best visual reading.
+
+Because the May 2000 SHPO form independently says a **1953 city directory** listed **“Well's Recreation” at 505** (`S-284` / `E-257`), the archive now uses the 1960 photograph as a **STRONG CROSS-SOURCE INFERENCE** that Wells / Well's Recreation remained the public-facing business identity at 505 in the photographed state.
+
+This updates the chronology without merging separate relationship questions: the photograph does not identify the 1960 proprietor, tenant, building owner, liquor licensee, or exact transaction history. The next exact municipal business-name anchor is **505 Tavern on 11 November 1965** (`E-029`).

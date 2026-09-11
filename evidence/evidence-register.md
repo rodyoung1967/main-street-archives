@@ -3048,3 +3048,19 @@ Claims:
 - no exact 503 Main or 505 Main premises statement appears.
 Classification: **DOCUMENTED / DIRECT** for scan-visible controls; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High**.
+
+## E-295 — 1960 CCHS photograph anchors WELLS signage at 505 Main
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+Source: `S-322`
+Media: `IMG-0771`
+Type: Primary photographic evidence plus cross-source business-name inference
+Claims:
+- CCHS `2008.008.049.037` is institutionally dated **1960** and depicts the Fifth/Main frontage.
+- Project-steward prompted enlarged re-review identifies the vertical sign on the 505 Main frontage as **WELLS**, with five stacked letter positions materially more consistent with W-E-L-L-S than the earlier tentative TAVERN thought.
+- Independent `S-284` / `E-257` says a 1953 city directory listed **“Well's Recreation”** at 505 Main.
+- Taken together, the evidence provides a **STRONG CROSS-SOURCE INFERENCE** that Wells / Well's Recreation remained the public-facing business identity at 505 in the 1960 photographed state.
+- This narrows the later name-state transition to after the 1960 WELLS photograph and by the exact 11 November 1965 505 Tavern municipal record, without proving a sale, proprietor, licensee, or uninterrupted operation.
+Classification: **DOCUMENTED / DIRECT** for the 1960 photo/date; **STRONGLY SUPPORTED PROJECT VISUAL READING** for WELLS; **STRONG CROSS-SOURCE INFERENCE** for Well's Recreation at 505 in 1960.
+Confidence: **High** for WELLS sign reading; **High** for the 1960 Well's Recreation identification when combined with the independent 1953 same-address source; proprietor/licensee unresolved.
+Related building: `B-002`.
+Related business: `BUS-015`.

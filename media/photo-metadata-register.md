@@ -1824,3 +1824,12 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Visual value: exact-dated **1960**, pre-1 September 1967-fire view of Fifth/Main and the Fifth–Sixth commercial frontage; useful for rooflines, building massing, party-wall/rear relationships, roadway geometry, sidewalks and utility context.
 - Sign-reading limit: several storefront signs are too soft in the supplied 2048-pixel scan for reliable transcription. Do **not** create a new Wheel/505 Tavern trade-name claim from this photograph alone; use independent existing address/business evidence.
 - Duplicate/variant control: not byte-identical to `IMG-0753` (CCHS P-1311, 1955–1965 bluff view). `IMG-0753` steward original is 2048 × 1616 with SHA-256 `e04639c56001073eed1c010708298ca50460e0380b8e004509732328696bde98`; this is retained as a distinct CCHS object/image record.
+
+### IMG-0771 sign re-review — 11 September 2026
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+- Project-steward prompted enlarged review of the vertical **505 Main** sign now reads **WELLS**.
+- Sign geometry: approximately five stacked letter positions, materially more consistent with `WELLS` than the earlier tentative `TAVERN` thought.
+- Related source/evidence/timeline: `S-322` / `E-295` / `T-105`.
+- Cross-source control: `S-284` / `E-257` reports a **1953 city directory** listing **“Well's Recreation”** at 505.
+- Project conclusion: **1960 Wells / Well's Recreation business-sign anchor = STRONG CROSS-SOURCE INFERENCE**. Proprietor/licensee and uninterrupted 1953–1960 operation remain unresolved.
+- This supersedes only the earlier no-trade-name conclusion for this specific vertical 505 sign; other soft signs in `IMG-0771` remain unresolved.

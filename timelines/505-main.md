@@ -114,3 +114,5 @@ A February 1946 City claim prints **C. P. Farr — Rent at 708 Monroe - Rec. Dep
 | By 1925 | existing Sanborn `E-020` | Independent changed storefront/footprint geometry. |
 
 Combined `E-285`: **material target-frontage replacement/reconfiguration occurred after the photographed 1918 state and by 1925**. This does not establish exact individual construction dates, a single rebuild campaign, ownership, or 1922-fire causation.
+
+| 1960 | Exact-dated CCHS `2008.008.049.037` shows the 505 frontage; steward-led enlarged re-review reads the vertical sign as **WELLS**. Combined with the 1953 directory synthesis naming **Well's Recreation** at 505, this anchors Wells/Well's Recreation in the 1960 photographed state. | **STRONG CROSS-SOURCE INFERENCE** for the business identity; proprietor/licensee and uninterrupted operation unresolved. | `E-295`; `S-322`; `IMG-0771`; `E-257`; `S-284` |

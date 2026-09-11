@@ -1060,3 +1060,18 @@ timeline:
     related_sources: [S-312]
     related_media: [IMG-0770]
     related_buildings: [B-005, B-001, B-002]
+
+  - id: T-105
+    date: "1960"
+    summary: "Exact-dated CCHS photograph 2008.008.049.037 shows the 505 Main frontage in 1960. Project-steward prompted enlarged rereview reads the vertical sign as WELLS. Combined with the 1953 directory synthesis naming Well's Recreation at 505, this is a strong cross-source 1960 Wells/Well's Recreation business-sign anchor. Proprietor/licensee and the exact transition to 505 Tavern remain unresolved."
+    confidence: "High for WELLS sign reading; strong cross-source inference for Well's Recreation at 505 in 1960."
+    related_sources:
+      - S-322
+      - S-284
+    related_evidence:
+      - E-295
+      - E-257
+    related_businesses:
+      - BUS-015
+    related_buildings:
+      - B-002

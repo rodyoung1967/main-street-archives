@@ -64,3 +64,10 @@ It is therefore retained as a distinct CCHS object/image record rather than disc
 - `E-045` / `S-052` — 1 September 1967 Main Street fire, later than this photograph.
 
 This source is **not 1912 evidence** and does not alter the 1912 annual-review status. It is preserved because the project steward supplied a new historic photograph during the 1912 workstream.
+
+## 11 September 2026 sign re-review — WELLS at 505
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+The earlier general sign-reading caution above is **superseded in part for one specific sign only**. After the project steward proposed `WELLS`, the vertical sign on the 505 Main frontage was re-examined at high enlargement. The best reading is **WELLS**, with approximately five stacked letter positions. This is materially more consistent with W-E-L-L-S than the earlier tentative TAVERN thought.
+
+The dedicated evidence review is `evidence/source-captures/1960-cchs-2008-008-049-037-wells-sign-rereview-2026-09-11.md` (`S-322` / `E-295` / `T-105`). Combined with `S-284` / `E-257` (1953 directory synthesis: **“Well's Recreation” at 505**), the archive now carries a strong cross-source **1960 Wells / Well's Recreation** business-sign anchor. Other soft storefront lettering in this photograph remains subject to the original caution.

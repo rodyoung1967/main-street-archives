@@ -560,3 +560,10 @@ Direct source `S-297` / `E-271` places **S. Fesznecker's tin and repair shop** i
 <!-- 2026-09-09-cchs-1918-p267-target-transition -->
 
 New CCHS photograph controls `E-283` and `E-284`, combined in `E-285`, tighten the target physical-change search to **after the photographed 1918 state and by the 1925 Sanborn state**. Continue `RL-024` for the exact building-by-building event dates, permits, assessor/improvement changes, construction reporting, and any 1922-fire relationship. Do not upgrade c.1919 (503) or c.1920 (505) from survey estimates solely because they fall inside the bracket.
+
+### 11 September 2026 — 1960 WELLS photograph refines the mid-century 505 search
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+New exact-dated photographic evidence (`S-322` / `E-295` / `IMG-0771`) now places **WELLS signage at 505 Main in 1960**, strongly linking the photographed state to the 1953 **“Well's Recreation”** directory synthesis (`S-284` / `E-257`).
+
+Research priority shifts from asking whether Well's survived into the early 1960s to identifying **who the 1960 proprietor/licensee was and the exact post-1960 transition to 505 Tavern by 11 November 1965**. Highest-value sources remain the actual 1960 Oregon City directory, 1959–64 assumed-business-name volumes, permanent OLCC Commission records, and targeted 1960–65 local newspaper/microfilm. Preserve spelling variants `Well's / Wells / Well / Welle / Welsh`; the photo sign itself reads **WELLS** without establishing punctuation.

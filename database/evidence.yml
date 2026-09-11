@@ -4436,3 +4436,23 @@ evidence:
     confidence: "Very High"
     related_sources: [S-321]
     repository_file: "evidence/source-captures/1916-courier-august10-visual-review-2026-09-11.md"
+
+  - id: E-295
+    name: "1960 CCHS photograph anchors WELLS signage at 505 Main"
+    type: "Primary photographic evidence plus cross-source business-name inference"
+    claims:
+      - "CCHS 2008.008.049.037 is institutionally dated 1960."
+      - "Steward-led enlarged rereview identifies the vertical 505 Main sign as WELLS."
+      - "Combined with S-284/E-257, the 1960 sign strongly supports Well's Recreation as the public-facing business identity at 505 in the photographed state."
+      - "The evidence does not identify the 1960 proprietor or licensee and does not prove uninterrupted operation from 1953."
+    confidence: "High for WELLS sign reading; High as a cross-source 1960 Well's Recreation business-sign anchor; proprietor/licensee unresolved."
+    related_sources:
+      - S-322
+      - S-284
+    related_buildings:
+      - B-002
+    related_businesses:
+      - BUS-015
+    related_media:
+      - IMG-0771
+    repository_file: "evidence/source-captures/1960-cchs-2008-008-049-037-wells-sign-rereview-2026-09-11.md"

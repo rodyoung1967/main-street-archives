@@ -689,3 +689,10 @@ CCHS `2008.008.009.016` (`S-311` / `E-283` / `IMG-0769`) is cataloged **1918** a
 ## 1924–1928 — P‑267 shows changed target-frontage state
 
 CCHS `P‑267` (`S-312` / `E-284` / `IMG-0770`) shows the Arch Bridge-era downtown within a **1924–1928** catalog range. The project steward identifies the new/replacement 501 state and materially changed neighboring 503/505-area structures. Read with the independent 1925 Sanborn, the combined evidence (`E-285`) supports a target-frontage physical transition **after the photographed 1918 state and by 1925**. Exact building-by-building construction dates and 1922-fire causation remain unresolved.
+
+## T-105 — 1960 — WELLS signage at 505 Main
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+
+Exact-dated CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) shows the Fifth/Main frontage. Project-steward prompted enlarged re-review reads the vertical 505 Main sign as **WELLS**. With the independent 1953 SHPO/directory-synthesis statement naming **Well's Recreation** at 505 (`S-284` / `E-257`), the project now treats Wells / Well's Recreation at 505 in 1960 as a **STRONG CROSS-SOURCE INFERENCE**.
+
+This is a business-name/signage anchor, not proof of 1960 proprietor, licensee, property ownership, or uninterrupted operation from 1953. The next exact later trade-name anchor is **505 Tavern, 11 November 1965** (`E-029`).

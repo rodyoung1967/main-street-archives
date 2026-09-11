@@ -2752,3 +2752,16 @@ Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-10/ed-1/
 Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-10/`.  
 Related evidence: `E-294`.  
 Notes: Page 7 prints Electric Store / Light and Power offices at 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. No exact 503/505 premises assignment.
+
+## S-322 — CCHS 2008.008.049.037, 1960 Fifth/Main bluff photograph
+<!-- 1960-wells-sign-lock-2026-09-11 -->
+Type: Primary institutional historic photograph; **VISUALLY VERIFIED / RE-REVIEWED 11 September 2026**.
+Institution: Clackamas County Historical Society.
+Catalog ID: `2008.008.049.037`.
+Date: **1960**.
+Repository image: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`.
+Capture: `evidence/source-captures/1960-cchs-2008-008-049-037-wells-sign-rereview-2026-09-11.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-at-5th-and-main-from-the-bluff-1960
+Related evidence/media/timeline: `E-295` / `IMG-0771` / `T-105`.
+Related building/business: `B-002` / `BUS-015`.
+Notes: Project-steward prompted enlarged re-review identifies the vertical sign on the 505 Main frontage as **WELLS**. The exact-dated photograph plus the independently preserved 1953 “Well's Recreation” directory synthesis supports a strong cross-source 1960 Wells/Well's Recreation business-sign anchor. Proprietor and licensee remain unresolved.
