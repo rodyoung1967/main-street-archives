@@ -160,7 +160,7 @@ Related building: `{BUILDING}`.
 Related business: `{BUSINESS}`.""")
 
 append_once("database/sources.yml", f"  - id: {SID}\n", f"""  - id: {SID}
-    name: "CCHS {CATALOG}, Oregon City at 5th and Main from the Bluff, 1960"
+    name: "CCHS {CATALOG}, 1960 Fifth/Main bluff photograph"
     type: "Primary institutional historic photograph"
     date: "1960"
     url: "{PUBLIC}"
