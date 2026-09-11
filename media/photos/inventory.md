@@ -287,3 +287,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - CCHS: `P‑267`
 - Date: **1924-1928**
 - Key value: structural-state control for the steward-identified 501/503/505 target frontage; see detailed capture for address-mapping limits.
+
+### IMG-0771 — CCHS 2008.008.049.037, 1960 Fifth/Main bluff view
+- File: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`
+- CCHS: `2008.008.049.037`; **Lynch-Criteser 037**
+- Date: **1960**
+- Review: `evidence/source-captures/cchs-2008-008-049-037-1960-fifth-main-bluff-photo.md`
+- Key value: exact-dated pre-1967-fire structural and streetscape control for Fifth/Main and the 503/505 frontage.
+- Sign-reading limit: storefront lettering in this 2048-pixel steward copy is too soft for a new trade-name claim by itself; compare the stronger companion controls already registered for The Wheel / 505 Tavern signage.

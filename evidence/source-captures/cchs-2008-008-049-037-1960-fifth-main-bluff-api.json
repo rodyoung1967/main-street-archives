@@ -1,0 +1,24 @@
+{
+  "catalog": "2008.008.049.037",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/9be03b60-9b1e-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-at-5th-and-main-from-the-bluff-1960",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 813,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/3d304b40-9b56-11eb-97c3-a30f15c9573f-vdUe5D2.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg",
+  "repository_image": {
+    "width": 2361,
+    "height": 1600,
+    "bytes": 428964,
+    "sha256": "3ebebd2e339936fd01c56571db132168e219b29cd6f282252c4303d429bf7093"
+  },
+  "steward_upload_control": {
+    "width": 2048,
+    "height": 1387,
+    "bytes": 717179,
+    "sha256": "7262acf57c7d2a4cf657053c39472809639e160054055b344106791ada341651"
+  }
+}

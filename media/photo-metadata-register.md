@@ -1816,8 +1816,10 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Medium/catalog note: **Negative; Location of Negative: Society Collection**
 - Other number: **Lynch-Criteser 037**
 - Project-steward upload: `Oregon City at 5th and Main, from the Bluff - 1960.jpg`; **2048 × 1387**; **717,179 bytes**; SHA-256 `7262acf57c7d2a4cf657053c39472809639e160054055b344106791ada341651`
-- Expected repository file: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`
-- Status: **`pending-upload`** — the steward supplied the original in the ChatGPT conversation, but the current ChatGPT/GitHub connector cannot transfer the sandbox JPEG bytes into the repository. Preserve the fingerprint above and upload the binary when a supported transfer path is available.
+- Repository file: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`
+- Repository derivative: **2361 × 1600**; **428,964 bytes**; SHA-256 `3ebebd2e339936fd01c56571db132168e219b29cd6f282252c4303d429bf7093`
+- Status: **`committed`** — repository binary is the largest public CCHS derivative recovered from the exact catalog object. The steward-upload fingerprint above remains the control for the conversation-supplied copy.
+- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-at-5th-and-main-from-the-bluff-1960
 - Review: `evidence/source-captures/cchs-2008-008-049-037-1960-fifth-main-bluff-photo.md`
 - Visual value: exact-dated **1960**, pre-1 September 1967-fire view of Fifth/Main and the Fifth–Sixth commercial frontage; useful for rooflines, building massing, party-wall/rear relationships, roadway geometry, sidewalks and utility context.
 - Sign-reading limit: several storefront signs are too soft in the supplied 2048-pixel scan for reliable transcription. Do **not** create a new Wheel/505 Tavern trade-name claim from this photograph alone; use independent existing address/business evidence.

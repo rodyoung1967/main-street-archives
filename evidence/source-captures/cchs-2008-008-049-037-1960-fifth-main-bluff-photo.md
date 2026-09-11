@@ -3,7 +3,7 @@
 Date integrated: 11 September 2026  
 Evidence state: **VISUALLY INSPECTED STEWARD-SUPPLIED PHOTOGRAPH / INSTITUTIONAL CATALOG METADATA**  
 Media tracking: `IMG-0771`  
-Binary status: **pending-upload** for repository retention because the current ChatGPT/GitHub connector path cannot transfer the conversation-sandbox JPEG bytes into the repository.
+Binary status: **committed** as the largest public CCHS derivative recovered from the exact catalog object at `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`. The project-steward upload fingerprint is preserved separately below because derivative bytes may differ.
 
 ## Project-steward supplied catalog metadata
 
@@ -23,7 +23,12 @@ Binary status: **pending-upload** for repository retention because the current C
 - Dimensions: **2048 × 1387**
 - Bytes: **717,179**
 - SHA-256: `7262acf57c7d2a4cf657053c39472809639e160054055b344106791ada341651`
-- Expected repository path once the binary-transfer path is available: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`
+- Repository image: `media/photos/main-street/IMG-0771_1960-5th-main-from-bluff-cchs-2008-008-049-037.jpg`
+- Repository derivative dimensions: **2361 × 1600**
+- Repository derivative bytes: **428,964**
+- Repository derivative SHA-256: `3ebebd2e339936fd01c56571db132168e219b29cd6f282252c4303d429bf7093`
+- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-at-5th-and-main-from-the-bluff-1960
+- Public CCHS API: https://api.catalogit.app/api/public/accounts/4813/entries/9be03b60-9b1e-11eb-b3ef-53e7205a00b4
 
 ## Visual review
 
