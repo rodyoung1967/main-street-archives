@@ -1,0 +1,132 @@
+name: Recover 1916 Courier May 18 page 6
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/recover-1916-courier-may18-page6.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+
+      - name: Validate archive before recovery
+        run: python3 scripts/validate_archive.py
+
+      - name: Probe page derivatives
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, subprocess, time
+          out = pathlib.Path('newspapers/oregon-city-courier/1916-may/recovery-may18-page6')
+          out.mkdir(parents=True, exist_ok=True)
+          s = requests.Session()
+          s.headers.update({'User-Agent':'main-street-archives archival recovery audit'})
+          attempts=[]
+
+          def probe(label,url,save_name=None):
+              row={'label':label,'url':url}
+              try:
+                  r=s.get(url,timeout=90,allow_redirects=True)
+                  row.update(
+                      status=r.status_code,
+                      final_url=r.url,
+                      content_type=r.headers.get('content-type',''),
+                      bytes=len(r.content),
+                      sha256=hashlib.sha256(r.content).hexdigest()
+                  )
+                  if save_name and r.status_code == 200 and r.content:
+                      p=out/save_name
+                      p.write_bytes(r.content)
+                      row['saved_as']=save_name
+              except Exception as e:
+                  row['error']=repr(e)
+              attempts.append(row)
+              time.sleep(0.1)
+              return row
+
+          hosts=['https://oregonnews.uoregon.edu','https://chroniclingamerica.loc.gov']
+          rel='/lccn/sn00063698/1916-05-18/ed-1/seq-6'
+          derivatives=[
+              ('.pdf','pdf'),
+              ('/ocr.txt','txt'),
+              ('/ocr.xml','xml'),
+              ('.rdf','rdf'),
+              ('/','html'),
+          ]
+
+          for host in hosts:
+              htag='oregonnews' if 'oregonnews' in host else 'chronam'
+              for suff,ext in derivatives:
+                  probe(f'{htag} ed1 seq6 {ext}',host+rel+suff,f'{htag}-ed1-seq6.{ext}')
+              probe(f'{htag} issue html',host+'/lccn/sn00063698/1916-05-18/ed-1/',f'{htag}-1916-05-18-ed1.html')
+              probe(f'{htag} issue rdf',host+'/lccn/sn00063698/1916-05-18/ed-1.rdf',f'{htag}-1916-05-18-ed1.rdf')
+              for ed in range(2,5):
+                  probe(f'{htag} ed{ed} issue',f'{host}/lccn/sn00063698/1916-05-18/ed-{ed}/',f'{htag}-1916-05-18-ed{ed}.html')
+                  probe(f'{htag} ed{ed} seq6 pdf',f'{host}/lccn/sn00063698/1916-05-18/ed-{ed}/seq-6.pdf',f'{htag}-ed{ed}-seq6.pdf')
+
+          # Render any recovered PDFs to text/metadata only for diagnostics;
+          # do not commit raster derivatives here because repository policy requires
+          # raster registration. The original PDF remains the review source.
+          renders=[]
+          for pdf in sorted(out.glob('*.pdf')):
+              try:
+                  cp=subprocess.run(['pdfinfo',str(pdf)],capture_output=True,text=True,timeout=30)
+                  renders.append({'file':pdf.name,'pdfinfo_returncode':cp.returncode,'pdfinfo':cp.stdout[:4000],'stderr':cp.stderr[:1000]})
+              except Exception as e:
+                  renders.append({'file':pdf.name,'pdfinfo_error':repr(e)})
+
+          manifest={
+              'title':'Oregon City Courier',
+              'lccn':'sn00063698',
+              'target_issue':'1916-05-18',
+              'target_printed_page':6,
+              'target_sequence':6,
+              'reason':'Current chat retrieval path could reach page/PDF text but repeatedly failed to render the original scan, so the page remained a visual retrieval gap.',
+              'attempts':attempts,
+              'pdf_diagnostics':renders,
+          }
+          (out/'recovery-manifest.json').write_text(json.dumps(manifest,indent=2)+'\n')
+          print(json.dumps(manifest,indent=2))
+          PY
+
+      - name: Validate archive after recovery
+        run: python3 scripts/validate_archive.py
+
+      - name: Upload recovery artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1916-courier-may18-page6-recovery
+          path: newspapers/oregon-city-courier/1916-may/recovery-may18-page6/
+          retention-days: 14
+
+      - name: Commit recovery audit
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-courier/1916-may/recovery-may18-page6/
+          if git diff --cached --quiet; then
+            echo 'No recovery changes.'
+            exit 0
+          fi
+          git commit -m 'Recover 1916 Courier May 18 page 6 source'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            echo "Push race on attempt $attempt; retrying"
+            sleep $((attempt * 2))
+          done
+          echo 'Unable to push after retries' >&2
+          exit 1
