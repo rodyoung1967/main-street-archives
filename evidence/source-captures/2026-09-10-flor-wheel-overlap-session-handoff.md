@@ -221,9 +221,9 @@ Immediately before this write, current `main` was:
 
 The repository's `Validate archive` GitHub workflow **failed** on that HEAD for three pre-existing unknown-person references unrelated to this Wheel conversation:
 
-- `evidence/source-captures/2026-09-10-1922-fire-young-poolhall-conversation-save.md` → unknown `P-372`
-- same file → unknown `P-391`
-- `evidence/source-captures/2026-09-10-1924-1927-conversation-handoff.md` → unknown `P-267`
+- `evidence/source-captures/2026-09-10-1922-fire-young-poolhall-conversation-save.md` → unknown `P‑372`
+- same file → unknown `P‑391`
+- `evidence/source-captures/2026-09-10-1924-1927-conversation-handoff.md` → unknown `P‑267`
 
 This conversation did **not** modify those unrelated files. Do not claim the archive validator passed at this checkpoint.
 
