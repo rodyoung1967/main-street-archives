@@ -2765,3 +2765,13 @@ Public record: https://hub.catalogit.app/clackamas-county-historical-society/fol
 Related evidence/media/timeline: `E-295` / `IMG-0771` / `T-105`.
 Related building/business: `B-002` / `BUS-015`.
 Notes: Project-steward prompted enlarged re-review identifies the vertical sign on the 505 Main frontage as **WELLS**. The exact-dated photograph plus the independently preserved 1953 “Well's Recreation” directory synthesis supports a strong cross-source 1960 Wells/Well's Recreation business-sign anchor. Proprietor and licensee remain unresolved.
+
+
+## S-323 — Oregon City Courier, 17 August 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Courier*, **17 August 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-17/ed-1/  
+Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-17/`.  
+Preservation commit: `772ad002d066acee3b5e747e8037a4d6dbac318b`.  
+Related evidence: `E-296`.  
+Notes: Complete 8/8 visual review. Page 2 repeats Holman at Fifth/Main; page 7 prints Electric Store at Andresen Building 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. A page-3 `505.00` is a Ford price, not 505 Main. No exact 503/505 premises assignment.
