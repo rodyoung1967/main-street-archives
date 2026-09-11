@@ -216,9 +216,11 @@ yaml_add_list_item("database/businesses.yml", BUSINESS, "related_sources", SID)
 
 dbbiz = rd("database/businesses.yml")
 old_note = "    notes: City inventory reports 1953 directory; spelling to verify."
-new_note = ('    notes: "City/SHPO survey reports a 1953 directory entry as Well\\'s Recreation; '
-            'exact-dated 1960 CCHS photograph, on steward-led enlarged rereview, strongly supports vertical WELLS signage at 505. '
-            'The underlying 1953 directory page, 1960 proprietor/licensee, and exact formal 1960 trade-name spelling remain unresolved."')
+new_note = (
+    "    notes: \"City/SHPO survey reports a 1953 directory entry as Well's Recreation; "
+    "exact-dated 1960 CCHS photograph, on steward-led enlarged rereview, strongly supports vertical WELLS signage at 505. "
+    "The underlying 1953 directory page, 1960 proprietor/licensee, and exact formal 1960 trade-name spelling remain unresolved.\""
+)
 if old_note in dbbiz:
     dbbiz = dbbiz.replace(old_note, new_note, 1)
     wr("database/businesses.yml", dbbiz)
