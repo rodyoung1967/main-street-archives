@@ -2159,3 +2159,13 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-june29-visual-review-2026-09-11.md"
     related_evidence: [E-290]
     notes: "Complete issue review and June closeout. Repeats 502/507/509/511 controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment."
+
+
+  - id: S-318
+    name: "Oregon City Courier, 13 July 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-07-13"
+    repository_file: "evidence/source-captures/1916-courier-july13-visual-review-2026-09-11.md"
+    related_evidence: [E-291]
+    notes: "Complete issue review. Repeats 502/507/509/511 controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment."

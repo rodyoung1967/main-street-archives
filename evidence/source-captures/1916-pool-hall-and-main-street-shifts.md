@@ -106,3 +106,8 @@ The complete 15 June issue is now visually verified (`S-315` / `E-288`). Page 5 
 The complete 22 June issue is now visually verified (`S-316` / `E-289`). The page-1 council column directly states that Raasch & Lamb, identified as pool-hall operators, had received a temporary permit for removal of their business to the **basement of the Andresen Building** and that the council had promised an ordinance after the three-month permit; it then reports the council refusing to recognize that pledge through the proposed ordinance. W. A. Dimick accused the council of changing faith and forcing a legitimate business from the city. The same report states the existing ground-floor / street-visibility requirement for pool and billiard halls. None of that wording says the basement move was actually completed.
 
 Page 3 separately repeats the **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel without a street number and directly prints **Champion Smith & Telford — 502 Main Street**. No 503/504/505 address is attached to Raasch & Lamb.
+
+
+## 11 September 2026 — July 13 advertising control
+
+The complete 13 July issue is visually verified (`S-318` / `E-291`). Page 8 directly repeats **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number, alongside **Champion Smith & Telford — 502 Main Street**. This extends the visually certified Raasch & Lamb advertising sequence but still supplies no completed basement-move statement and no 503/504/505 address.

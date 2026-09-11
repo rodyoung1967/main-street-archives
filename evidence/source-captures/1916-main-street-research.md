@@ -213,3 +213,8 @@ The 22 June *Courier* is now **8/8 visually verified** (`S-316` / `E-289`). Page
 ## 11 September 2026 — complete June 29 issue
 
 The 29 June *Courier* is now **8/8 visually verified** (`S-317` / `E-290`) and closes June Courier coverage. Page 3 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. Page 6 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**; OCR's 611 rendering for Harding is rejected by the scan. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. No page prints an exact 503/505 premises fact.
+
+
+## 11 September 2026 — complete July 13 issue
+
+The 13 July *Courier* is now **8/8 visually verified** (`S-318` / `E-291`). Page 4 directly reconfirms **Bradley 507 Main / Brightbill 509 Main / Harding 511 Main**; OCR's 607 Bradley rendering is rejected by the scan. Page 7 repeats the Electric Store completed-move wording at **619 Main** with the stale 617 footer. Page 8 directly prints **Champion Smith & Telford at 502 Main** and leaves Raasch & Lamb unnumbered. No page prints an exact 503/505 premises fact.

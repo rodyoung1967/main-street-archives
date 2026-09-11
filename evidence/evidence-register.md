@@ -2995,3 +2995,16 @@ Claims:
 - the issue closes the remaining June Courier date, so **June is fully visually reviewed**.
 Classification: **DOCUMENTED / DIRECT** for scan-visible addresses and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High** for printed wording and 8/8 page review.
+
+
+## E-291 — 13 July 1916 Courier complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-318`.  
+Claims:
+- all **8/8 pages** of the 13 July 1916 *Oregon City Courier* were visually inspected from original scans;
+- page 4 directly prints **W. W. Bradley — 507 Main**, **H. P. Brightbill — 509 Main**, and **George A. Harding — 511 Main**; OCR's `607 Main` reading for Bradley is rejected by visual inspection;
+- page 7 repeats the Electric Store's completed move to **Andresen Building, 619 Main Street**, while retaining the stale Beaver Building / 617 Main footer;
+- page 8 directly prints **Champion Smith & Telford — 502 Main Street** and **Raasch & Lamb — Pool and Billiards / Everything for Smokers** without a street number;
+- no exact 503 Main or 505 Main occupant, owner, tenant, licensee, sale, transfer, construction, demolition, closure or vacancy statement is printed.
+Classification: **DOCUMENTED / DIRECT** for scan-visible addresses and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
+Confidence: **Very High** for printed wording and 8/8 page review.

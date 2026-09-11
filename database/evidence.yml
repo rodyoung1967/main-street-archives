@@ -4378,3 +4378,19 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-june29-visual-review-2026-09-11.md"
+
+
+  - id: E-291
+    name: "13 July 1916 Courier complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages of the 13 July 1916 Oregon City Courier were visually inspected."
+      - "Page 4 prints Bradley 507 Main, Brightbill 509 Main, and Harding 511 Main; OCR's 607 Bradley rendering is rejected by visual inspection."
+      - "Page 7 repeats the Electric Store completed move to Andresen Building 619 Main, with stale 617 footer retained."
+      - "Page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb pool/billiards without a street number."
+      - "No exact 503/505 premises assignment or target ownership/tenancy/license/construction/sale event is printed."
+    confidence: "Very High for scan-visible wording and 8/8 page coverage"
+    related_sources: [S-318]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-courier-july13-visual-review-2026-09-11.md"

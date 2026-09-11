@@ -1187,3 +1187,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 7 repeats the completed Electric Store move to **619 Main** with the stale 617 Main footer still present.
 - No exact 503/505 premises fact was established. Registered `S-317` / `E-290`.
 - Courier coverage advances to **286/458**, with **172 Courier + 426 Enterprise = 598** newspaper pages remaining. **June Courier coverage is complete.** Next ordinary Courier page: **13 July 1916 p1** because July 6 is already complete. 1916 is not ONLINE COMPLETE.
+
+
+## 2026-09-11 — 1916 Courier 13 July complete visual review
+
+- Used the newer authoritative main after parallel 1960 photo work; the first July 13 fetch attempt had failed at a transient pre-fetch validator state, then succeeded on rerun after current main validated cleanly.
+- Preserved all **8 original University of Oregon page PDFs** under `newspapers/oregon-city-courier/1916-july/1916-07-13/`; preservation commit `512a091b9a9218677307e69389f5c9e64d77a6c1`.
+- Visually inspected **8/8 pages**.
+- Page 4 directly reconfirms **W. W. Bradley, 507 Main; H. P. Brightbill, 509 Main; George A. Harding, 511 Main**. OCR's `607 Main` rendering for Bradley is rejected by the scan.
+- Page 7 repeats the completed Electric Store move to **619 Main** with stale 617 Main footer.
+- Page 8 directly prints **Champion Smith & Telford, 502 Main Street** and an unnumbered **Raasch & Lamb — Pool and Billiards / Everything for Smokers** panel.
+- No exact 503/505 premises fact was established. Registered `S-318` / `E-291`.
+- Courier coverage advances to **294/458**, with **164 Courier + 426 Enterprise = 590** newspaper pages remaining. Next ordinary Courier page: **20 July 1916 p1**. 1916 remains not ONLINE COMPLETE.
