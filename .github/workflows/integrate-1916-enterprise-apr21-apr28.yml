@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/integrate-1916-enterprise-apr21-apr28.yml'
       - 'scripts/maintenance/integrate_1916_enterprise_apr21_apr28.py'
+      - 'scripts/maintenance/repair_1916_enterprise_apr21_apr28_source_urls.py'
 permissions:
   contents: write
 jobs:
@@ -19,7 +20,9 @@ jobs:
       - name: Validate full archive before integration
         run: python3 scripts/validate_archive.py
       - name: Integrate reviewed issues
-        run: python3 scripts/maintenance/integrate_1916_enterprise_apr21_apr28.py
+        run: |
+          python3 scripts/maintenance/integrate_1916_enterprise_apr21_apr28.py
+          python3 scripts/maintenance/repair_1916_enterprise_apr21_apr28_source_urls.py
       - name: Validate full archive after integration
         run: python3 scripts/validate_archive.py
       - name: Commit and push
