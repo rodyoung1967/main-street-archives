@@ -1,0 +1,40 @@
+name: Export 1916 Enterprise Feb 25 and Mar 3 direct
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/export-1916-enterprise-feb25-mar03-direct.yml'
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch page PDFs directly
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, requests, time
+          dates=['1916-02-25','1916-03-03']
+          s=requests.Session(); s.headers.update({'User-Agent':'main-street-archives visual review'})
+          root=pathlib.Path('bundle')
+          for date in dates:
+            out=root/date; out.mkdir(parents=True,exist_ok=True)
+            found=[]
+            for seq in range(1,13):
+              url=f'https://oregonnews.uoregon.edu/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf'
+              try:
+                r=s.get(url,timeout=90,allow_redirects=True)
+                if r.status_code==200 and r.content.startswith(b'%PDF'):
+                  (out/f'{date}-page-{seq}.pdf').write_bytes(r.content); found.append(seq)
+              except Exception:
+                pass
+              time.sleep(.05)
+            (out/'manifest.json').write_text(json.dumps({'date':date,'found_sequences':found},indent=2)+'\n')
+            if not found: raise RuntimeError(f'No pages found for {date}')
+          PY
+      - name: Upload visual-review bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1916-enterprise-feb25-mar03-direct
+          path: bundle/
+          retention-days: 14
