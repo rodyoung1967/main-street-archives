@@ -3174,3 +3174,17 @@ Claims:
 - the no-hit result is bounded coverage only and not absence evidence.  
 Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
 Confidence: **Very High**.
+
+## E-305 — 21 April 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-332`.  
+Claims: all **8/8 pages** visually inspected; the page-2 post-office-site story is explicitly Estacada, not Oregon City; no page establishes a 501/503/505/505½/507 Main target-premises event; no-hit is bounded coverage only.  
+Classification: **DOCUMENTED / DIRECT** for page coverage and Estacada control; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
+Confidence: **Very High**.
+
+## E-306 — 28 April 1916 Enterprise complete visual review and cumulative checkpoint
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-333`.  
+Claims: all **8/8 pages** visually inspected; the page-1 Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company and is non-target; no page establishes a 501/503/505/505½/507 Main target-premises event; Enterprise coverage advances to **146/426**, combined **604/884**, with **280** Enterprise pages uncertified; no-hit is bounded coverage only.  
+Classification: **DOCUMENTED / DIRECT** for page coverage and Parkplace control; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
+Confidence: **Very High**.

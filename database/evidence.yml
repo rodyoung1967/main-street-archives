@@ -4591,3 +4591,28 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md"
+
+  - id: E-305
+    name: "21 April 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected from original scans."
+      - "Page 2 post-office-site story is explicitly Estacada, not Oregon City."
+      - "No page establishes a 501/503/505/505½/507 Main target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-332]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-april21-visual-review-2026-09-11.md"
+  - id: E-306
+    name: "28 April 1916 Enterprise complete visual review and cumulative checkpoint"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected from original scans."
+      - "Page 1 Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company and is non-target."
+      - "No page establishes a 501/503/505/505½/507 Main target-premises event; Enterprise coverage is 146/426 and combined coverage 604/884 with 280 Enterprise pages uncertified."
+    confidence: "Very High"
+    related_sources: [S-333]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md"

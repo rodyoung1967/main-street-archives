@@ -2856,3 +2856,19 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-14/`.
 Source capture: `evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md`.  
 Related evidence: `E-304`.  
 Notes: All eight original pages visually inspected; no source-explicit target-premises event. General saloon/prohibition, Main Street, legal and business material lacks a target-address or parcel bridge.
+
+## S-332 — Oregon City Enterprise, 21 April 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **21 April 1916**, edition 1.  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-21/`.  
+Source capture: `evidence/source-captures/1916-enterprise-april21-visual-review-2026-09-11.md`.  
+Related evidence: `E-305`.  
+Notes: Page 2's “POSTOFFICE SITE IS ISSUE” item is explicitly an Estacada story, not Oregon City. No source-explicit target-premises event.
+
+## S-333 — Oregon City Enterprise, 28 April 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **28 April 1916**, edition 1.  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-28/`.  
+Source capture: `evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md`.  
+Related evidence: `E-306`.  
+Notes: Page 1's Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company, not the target frontage. No source-explicit target-premises event.
