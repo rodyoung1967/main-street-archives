@@ -2872,3 +2872,21 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-28/`.
 Source capture: `evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md`.  
 Related evidence: `E-306`.  
 Notes: Page 1's Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company, not the target frontage. No source-explicit target-premises event.
+
+## S-334 — Oregon City Enterprise, 5 May 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **5 May 1916**, edition 1.  
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-05/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-05/`.  
+Source capture: `evidence/source-captures/1916-enterprise-may05-visual-review-2026-09-12.md`.  
+Related evidence: `E-307`.  
+Notes: Page 4 reports a Treasury combined building-and-site estimate of $70,000 for Oregon City and a $15,000 site estimate; the implied $55,000 building component is arithmetic, not separately printed wording. No site/address/acquisition/construction/move or target-frontage bridge is stated. No source-explicit target-premises event.
+
+## S-335 — Oregon City Enterprise, 12 May 1916, archive-sequence visual review with page-8 anomaly
+Type: Primary newspaper page scans; **ALL 8 DELIVERED ARCHIVE SCANS VISUALLY INSPECTED; 7 GENUINE WEEKLY PAGES CERTIFIED; SEQUENCE 8 WRONG-TITLE** on 12 September 2026.  
+Publication/date: intended *Oregon City Enterprise*, **12 May 1916**, edition 1.  
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-12/`.  
+Source capture: `evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md`.  
+Related evidence: `E-308`.  
+Notes: Sequences 1–7 visibly identify as Oregon City Enterprise. Sequence 8 visibly reads “MORNING ENTERPRISE, FRIDAY, MAY 12, 1916” and is not counted as a genuine weekly page. True weekly page 8 remains a RETRIEVAL GAP. No source-explicit target-premises event.

@@ -4616,3 +4616,31 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md"
+
+  - id: E-307
+    name: "5 May 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected from original scans."
+      - "Page 4 prints a Treasury combined building-and-site estimate of $70,000 for Oregon City and a $15,000 site estimate; the $55,000 building component is arithmetic from those printed figures."
+      - "The page identifies no Oregon City site/address and proves no acquisition, construction, move, or target-frontage connection."
+      - "No page establishes a 501/503/505/505½/507 Main target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-334]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-may05-visual-review-2026-09-12.md"
+  - id: E-308
+    name: "12 May 1916 Enterprise archive-sequence visual review and page-8 retrieval gap"
+    type: "Primary newspaper visual evidence / annual issue-level coverage / retrieval-gap control"
+    claims:
+      - "All 8/8 delivered archive scans visually inspected."
+      - "Sequences 1-7 visibly identify as Oregon City Enterprise and count as seven genuine weekly pages."
+      - "Sequence 8 visibly identifies as Morning Enterprise, Friday, May 12, 1916 and is not counted as genuine weekly page 8; true weekly page 8 remains a RETRIEVAL GAP."
+      - "No inspected page establishes a 501/503/505/505½/507 Main target-premises event."
+      - "Cumulative certified Enterprise coverage is 161/426 and combined newspaper coverage 619/884, with 265 Enterprise pages uncertified."
+    confidence: "Very High"
+    related_sources: [S-335]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md"

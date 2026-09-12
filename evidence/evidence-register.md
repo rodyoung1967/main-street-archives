@@ -3188,3 +3188,17 @@ Source: `S-333`.
 Claims: all **8/8 pages** visually inspected; the page-1 Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company and is non-target; no page establishes a 501/503/505/505½/507 Main target-premises event; Enterprise coverage advances to **146/426**, combined **604/884**, with **280** Enterprise pages uncertified; no-hit is bounded coverage only.  
 Classification: **DOCUMENTED / DIRECT** for page coverage and Parkplace control; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
 Confidence: **Very High**.
+
+## E-307 — 5 May 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-334`.  
+Claims: all **8/8 pages** visually inspected from original scans; page 4 gives a Treasury combined building-and-site estimate of **$70,000** for Oregon City and a **$15,000 site estimate**, yielding an arithmetic $55,000 building component consistent with the earlier federal-building proposal; the page names no Oregon City site/address and proves no acquisition, construction, move, or target-frontage connection; no page establishes a 501/503/505/505½/507 Main target-premises event; no-hit is bounded coverage only.  
+Classification: **DOCUMENTED / DIRECT** for visual coverage and printed $70,000/$15,000 figures; **ARITHMETIC INFERENCE** for the $55,000 component; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
+Confidence: **Very High** for page coverage and printed figures.
+
+## E-308 — 12 May 1916 Enterprise archive-sequence visual review and page-8 retrieval gap
+Type: Primary newspaper visual evidence / annual issue-level coverage / retrieval-gap control.  
+Source: `S-335`.  
+Claims: all **8/8 delivered archive scans** visually inspected; sequences **1–7** visibly identify as *Oregon City Enterprise* and count as seven genuine weekly pages; sequence **8** visibly identifies as **“MORNING ENTERPRISE, FRIDAY, MAY 12, 1916”** and is not counted as genuine weekly page 8; sequences 9–14 are unavailable at the weekly issue URL; the genuine weekly page 8 remains a **RETRIEVAL GAP**; no inspected page establishes a 501/503/505/505½/507 Main target-premises event; cumulative certified Enterprise coverage is **161/426**, combined newspaper coverage **619/884**, with **265** Enterprise pages uncertified.  
+Classification: **DOCUMENTED / DIRECT** for the visible title mismatch and seven genuine weekly pages; **RETRIEVAL GAP** for true weekly page 8; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
+Confidence: **Very High** for the visual title distinction and page coverage.

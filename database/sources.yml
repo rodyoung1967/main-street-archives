@@ -2307,3 +2307,20 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md"
     related_evidence: [E-306]
     notes: "Page 1 Parkplace site/lease item concerns Oregon Portland Railway, Light & Power Company, not target frontage; no source-explicit target-premises event."
+
+  - id: S-334
+    name: "Oregon City Enterprise, 5 May 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-05/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-05-05"
+    repository_file: "evidence/source-captures/1916-enterprise-may05-visual-review-2026-09-12.md"
+    related_evidence: [E-307]
+    notes: "Page 4 prints a $70,000 combined building-and-site estimate for Oregon City and a $15,000 site estimate; $55,000 is the arithmetic building component. No site/address/acquisition/construction/move or target-frontage bridge is stated."
+  - id: S-335
+    name: "Oregon City Enterprise, 12 May 1916, archive-sequence visual review with page-8 anomaly"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-1/"
+    type: "Primary newspaper page scans; 8 delivered scans visually inspected; 7 genuine weekly pages certified; sequence 8 wrong-title"
+    date: "1916-05-12"
+    repository_file: "evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md"
+    related_evidence: [E-308]
+    notes: "Sequences 1-7 visibly identify as Oregon City Enterprise. Sequence 8 visibly identifies as Morning Enterprise, Friday, May 12, 1916; true weekly page 8 remains a RETRIEVAL GAP. No source-explicit target-premises event."

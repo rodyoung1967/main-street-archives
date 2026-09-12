@@ -16,8 +16,8 @@ used to inventory the two Oregon City titles available online for 1916:
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
 | *Oregon City Courier* | `sn00063698` | 52 | 458 | **458/458 visually reviewed — complete** |
-| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **146/426 visually reviewed through 28 April 1916** |
-| **Total** |  | **104** | **884** | **604 visually reviewed; 280 pending** |
+| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **161/426 certified visually reviewed pages through 12 May 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
+| **Total** |  | **104** | **884** | **619 certified visually reviewed; 265 uncertified** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -84,11 +84,11 @@ The *Oregon City Courier* is now **458/458 visually reviewed and complete**. The
 Current newspaper coverage:
 
 - Courier: **458/458**
-- Enterprise: **146/426**
-- Combined: **604/884**
-- Enterprise pages remaining: **280**
+- Enterprise: **161/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
+- Combined: **619/884 certified**
+- Enterprise pages remaining uncertified: **265**
 
-The next ordinary unreviewed *Oregon City Enterprise* issue is **5 May 1916**. Continue the Enterprise chronologically from that date unless newer parallel work on current `main` advances the ledger first. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. After that gap is resolved or formally carried forward under the research standard, continue with the next ordinary issue, **19 May 1916**.
 
 The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
@@ -105,6 +105,8 @@ Related current records:
 - `1916-enterprise-april14-visual-review-2026-09-11.md`
 - `1916-enterprise-april21-visual-review-2026-09-11.md`
 - `1916-enterprise-april28-visual-review-2026-09-11.md`
+- `1916-enterprise-may05-visual-review-2026-09-12.md`
+- `1916-enterprise-may12-visual-review-2026-09-12.md`
 - `1916-courier-visual-audit.md`
 - `1916-main-street-research.md`
 - `1916-1917-directory-lead.md`
