@@ -57,6 +57,10 @@ No page supplies a source-explicit exact **501, 503, 505, 505 1/2, or 507 Main**
 
 The issue contains ordinary local/regional reporting, advertisements, legal/business material, and generic name references, but nothing inspected can be defensibly connected to a target premises on this date.
 
+## Useful person-context finding
+
+Page 8 directly reports that **George A. Harding**, described as **department commander of the G.A.R. "of this city,"** attended a Portland meeting of the Grand Army of the Republic council of administration. This is **DOCUMENTED / DIRECT** person-level civic-role evidence for `P-001`. It does **not** identify a street address, drug-store premises, building ownership, property ownership, tenancy, or any 503/505/507 Main relationship.
+
 This is **bounded page-review coverage only**. It is not evidence that a target address was vacant, unused, closed, demolished, or absent from the city.
 
 ## Annual coverage effect
@@ -67,14 +71,15 @@ Do not treat this issue-level count as the current annual total after later date
 
 ## Cross-record propagation audit
 
-Because this issue establishes **no new target entity fact**, no timeline, building, business, person, open-question, research-lead, crosswalk, or YAML/database historical-content update is warranted from the no-hit result itself.
+The issue establishes **no new target-premises entity fact**, so no target timeline, building, business, open-question, research-lead, crosswalk, or YAML/database historical-content update is warranted from the no-hit result itself. The page-8 Harding item does establish a narrow person-level civic-role fact.
 
-Required propagation is limited to:
+Required propagation is therefore limited to:
 
 - this issue-level source capture;
 - `evidence/source-register.md`;
 - `evidence/evidence-register.md`;
-- the 1916 annual coverage checkpoint/status records.
+- `people/profiles/george-a-harding.md`;
+- the 1916 annual coverage checkpoint/status records (coverage counts unchanged by this person-context refinement).
 
 No vacancy or absence inference is created.
 
