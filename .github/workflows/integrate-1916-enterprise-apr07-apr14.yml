@@ -17,6 +17,16 @@ jobs:
         run: git pull --rebase origin main
       - name: Integrate reviewed issues
         run: python3 scripts/maintenance/integrate_1916_enterprise_apr07_apr14.py
+      - name: Repair generated YAML list indentation
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          for path, record_id in [('database/sources.yml', 'S-330'), ('database/evidence.yml', 'E-303')]:
+              p = Path(path)
+              text = p.read_text()
+              text = text.replace(f'\n- id: {record_id}\n', f'\n  - id: {record_id}\n', 1)
+              p.write_text(text)
+          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit and push
