@@ -2341,3 +2341,20 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md"
     related_evidence: [E-310]
     notes: "Page 8 documents a Jones Drug imminent move but prints no street number; no target-premises bridge."
+
+  - id: S-338
+    name: "Oregon City Enterprise, 2 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-02/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-02"
+    repository_file: "evidence/source-captures/1916-enterprise-june02-visual-review-2026-09-12.md"
+    related_evidence: [E-311]
+    notes: "Page 1 reports seven firms will move so Burmeister & Andresen can expand, but gives no target street number; no source-explicit target-premises event."
+  - id: S-339
+    name: "Oregon City Enterprise, 9 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-09/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-09"
+    repository_file: "evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md"
+    related_evidence: [E-312]
+    notes: "No source-explicit target-premises event; no address bridge for the Jones Drug/Burmeister & Andresen relocation chain; no-hit is bounded coverage only."

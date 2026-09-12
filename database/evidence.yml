@@ -4670,3 +4670,30 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md"
+
+  - id: E-311
+    name: "2 June 1916 Enterprise complete visual review and Burmeister & Andresen relocation control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 1 reports seven firms will move so Burmeister & Andresen, jewelers, can expand, but prints no target street number for that relocation chain."
+      - "No source-explicit target-premises event for 501/503/505/505½/507 Main."
+      - "No-hit is bounded coverage only, not vacancy evidence."
+    confidence: "Very High for printed wording and visual coverage; no target-address inference"
+    related_sources: [S-338]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-june02-visual-review-2026-09-12.md"
+  - id: E-312
+    name: "9 June 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Legal, real-estate-transfer, construction, Main Street and Harding material supplies no source-explicit target-premises assignment."
+      - "No defensible target-address bridge is printed for the late-May/2 June Jones Drug/Burmeister & Andresen relocation sequence."
+      - "No-hit is bounded coverage only, not vacancy evidence."
+    confidence: "Very High"
+    related_sources: [S-339]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md"

@@ -3214,3 +3214,15 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 8 directly states Jones Drug Company is going to move very soon because the landlord wants more room for his own business and labels the current premises only as “Old location—Next to Burmeister & Andresen’s.” No street number is printed, so the move is retained as non-target city/business context and is not mapped to 501/503/505/505½/507 Main. No page establishes a source-explicit target-premises event. The no-hit is coverage only, not vacancy evidence.  
 Source: `S-337`.  
 Confidence: Very High for the printed wording and issue-level visual coverage; no target-address inference.
+
+## E-311 — 2 June 1916 Enterprise complete visual review and Burmeister & Andresen relocation control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 1 directly reports that seven firms will move so Burmeister & Andresen, jewelers, can have room to expand; the page does not print a target street number for that expansion/relocation chain, so it is retained as non-target commercial context only. No page directly assigns an occupant, owner, tenant, licensee, business name, sale/transfer, construction, demolition, closure or vacancy to 501/503/505/505½/507 Main. The no-hit is coverage evidence only, not evidence of absence.  
+Source: `S-338`.  
+Confidence: Very High for issue-level visual coverage and the printed relocation statement; no target-address inference.
+
+## E-312 — 9 June 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. The issue includes legal, real-estate-transfer, construction, Main Street and George A. Harding material, but none supplies a source-explicit target-premises assignment. No inspected page provides a defensible address bridge connecting the late-May/2 June Jones Drug/Burmeister & Andresen relocation sequence to 501/503/505/505½/507 Main. This is coverage evidence only, not evidence of absence.  
+Source: `S-339`.  
+Confidence: Very High for issue-level visual coverage; no target-premises inference from the bounded no-hit.

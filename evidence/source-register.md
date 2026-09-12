@@ -2908,3 +2908,21 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-26/`.
 Source capture: `evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md`.  
 Related evidence: `E-310`.  
 Notes: All eight original page scans were visually inspected. Page 8 is a Jones Drug Company forced-out-of-location sale ad stating an imminent move because the landlord wanted more room for his own business; it identifies the old location only as next to Burmeister & Andresen's and prints no street number, so it is not mapped to the target frontage. No source-explicit target-premises event appears. No-hit is bounded coverage, not vacancy evidence.
+
+## S-338 — Oregon City Enterprise, 2 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **2 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-02/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-02/`.  
+Source capture: `evidence/source-captures/1916-enterprise-june02-visual-review-2026-09-12.md`.  
+Related evidence: `E-311`.  
+Notes: All eight original page scans were visually inspected. Page 1 says seven firms will move so Burmeister & Andresen, jewelers, can expand, but prints no target street number for that relocation chain. No page establishes a source-explicit 501/503/505/505½/507 Main premises event. No-hit is bounded coverage, not vacancy evidence.
+
+## S-339 — Oregon City Enterprise, 9 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **9 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-09/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-09/`.  
+Source capture: `evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md`.  
+Related evidence: `E-312`.  
+Notes: All eight original page scans were visually inspected. Legal, real-estate-transfer, Main Street and Harding material supplies no exact target-premises bridge, and no page maps the late-May/2 June Jones Drug/Burmeister & Andresen relocation chain to 501/503/505/505½/507 Main. No-hit is bounded coverage, not vacancy evidence.
