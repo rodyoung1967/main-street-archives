@@ -1,0 +1,38 @@
+name: Run corrected Mar 10 and Mar 17 Enterprise integration
+
+on:
+  push:
+    paths:
+      - 'scripts/maintenance/run_integrate_1916_enterprise_mar10_mar17_fixed.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Integrate records with corrected helper
+        run: python3 scripts/maintenance/run_integrate_1916_enterprise_mar10_mar17_fixed.py
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit integration
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md evidence/source-register.md evidence/evidence-register.md database/sources.yml database/evidence.yml registers/year-status.md evidence/source-captures/1916-online-audit-checkpoint.md
+          if git diff --cached --quiet; then echo 'No integration changes'; exit 0; fi
+          git commit -m 'Certify Mar 10 and Mar 17 1916 Enterprise reviews'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
