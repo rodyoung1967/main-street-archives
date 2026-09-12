@@ -2775,3 +2775,26 @@ Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-17/`.
 Preservation commit: `772ad002d066acee3b5e747e8037a4d6dbac318b`.  
 Related evidence: `E-296`.  
 Notes: Complete 8/8 visual review. Page 2 repeats Holman at Fifth/Main; page 7 prints Electric Store at Andresen Building 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. A page-3 `505.00` is a Ford price, not 505 Main. No exact 503/505 premises assignment.
+
+
+## S-324 — Oregon City Enterprise, 25 February 1916, complete issue visual review
+<!-- 1916 Enterprise Feb 25 visual review — 2026-09-11 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **25 February 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-02-25/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-02-25/1916-02-25-page-1.pdf` through `1916-02-25-page-10.pdf`; fetch manifest in the same directory.  
+Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.  
+Source capture: `evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md`.  
+Related evidence: `E-297`.  
+Notes: All ten original page PDFs were visually inspected. No page establishes a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition. This is bounded coverage only, not absence evidence.
+
+## S-325 — Oregon City Enterprise, 3 March 1916, complete issue visual review
+<!-- 1916 Enterprise Mar 3 visual review — 2026-09-11 -->
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **3 March 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-03/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-03/1916-03-03-page-1.pdf` through `1916-03-03-page-10.pdf`; fetch manifest in the same directory.  
+Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.  
+Source capture: `evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md`.  
+Related evidence: `E-298`.  
+Notes: All ten original page PDFs were visually inspected. Prohibition/liquor reporting, general real-estate transfers, delinquent-tax lists, and ordinary legal/business material are present, but no inspected item supplies a defensible bridge to a 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only; no vacancy or absence inference.
