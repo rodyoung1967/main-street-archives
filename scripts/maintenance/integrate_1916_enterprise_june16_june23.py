@@ -68,7 +68,7 @@ append_once('database/sources.yml', '  - id: S-340', r'''
 
 append_once('database/evidence.yml', '  - id: E-313', r'''
   - id: E-313
-    name: "16 June 1916 Enterprise complete visual review and Harding non-target property control"
+    name: "16 June 1916 Enterprise complete visual review and Harding non-target Main Street property control"
     type: "Primary newspaper visual evidence / annual issue-level coverage"
     claims:
       - "All 8/8 pages visually inspected."
@@ -81,7 +81,7 @@ append_once('database/evidence.yml', '  - id: E-313', r'''
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md"
   - id: E-314
-    name: "23 June 1916 Enterprise complete visual review and nearby Fourth/Fifth block control"
+    name: "23 June 1916 Enterprise complete visual review and nearby Fourth/Fifth block development control"
     type: "Primary newspaper visual evidence / annual issue-level coverage"
     claims:
       - "All 8/8 pages visually inspected."
