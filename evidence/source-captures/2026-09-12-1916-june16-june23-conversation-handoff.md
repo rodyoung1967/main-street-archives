@@ -1,181 +1,132 @@
-# 1916 Enterprise June 16 / June 23 conversation handoff — 12 September 2026
+# 1916 Enterprise conversation handoff — through 23 June 1916 — 12 September 2026
 
-## Purpose
+## Resume instruction
 
-Resume the exhaustive 1916 Oregon City Enterprise annual visual audit exactly where this conversation stopped. The active dates are **16 June 1916** and **23 June 1916**. The project steward explicitly requested: **add any new information to the repo, continue through the next two unresolved dates, and visually verify all scans.**
+Continue the exhaustive 1916 Oregon City Enterprise annual visual audit from current `main`. **June 16 and June 23 are complete, integrated, and certified. The next ordinary unresolved issue is 30 June 1916.** The project steward's standing cadence is: add new information to the repo, continue through the next two unresolved ordinary dates, and visually verify every delivered original scan before certification.
 
 ## Mandatory startup / repository rules
 
-1. Fetch/sync the newest `main` first and treat current `main` as authoritative.
+1. Fetch/sync newest `main` first; current `main` is authoritative.
 2. Do not reset, revert, force-push, delete, overwrite, discard, or replace newer parallel work.
-3. Read current `AGENTS.md`, `RESEARCH-STANDARD.md`, and `MANUAL-FOLLOWUP.md` completely before resuming research/integration.
+3. Read current `AGENTS.md`, `RESEARCH-STANDARD.md`, and `MANUAL-FOLLOWUP.md` completely before research/integration.
 4. Read `/home/oai/skills/pdfs/SKILL.md` before PDF work.
-5. Original scans are the visual-review authority. OCR/text extraction/search is discovery/navigation only and does not certify a page.
-6. Preserve uncertainty and retrieval gaps. A no-hit is bounded coverage only, never evidence of vacancy/non-use/closure/demolition.
+5. Original scans are the visual-review authority. OCR/text extraction/search is discovery/navigation only.
+6. Preserve uncertainty/retrieval gaps. A no-hit is bounded coverage only, never evidence of vacancy, closure, non-use, demolition, or non-ownership.
 7. Keep business operation, business ownership, property ownership, licensing, tenancy, trade names, addresses, and physical buildings separate.
 8. Keep Markdown registers and YAML/database mirrors synchronized.
-9. Run `python3 scripts/validate_archive.py` after writes and verify the literal output `Validation passed.` before final push. Pull/rebase latest `main` and validate again immediately before push.
+9. Run `python3 scripts/validate_archive.py` after writes; require literal `Validation passed.`. Pull/rebase newest main and validate again immediately before final push.
 10. Do not contact institutions, send requests, purchase records, authorize fees, or perform manual outreach without explicit project-steward authorization.
 
-## Last completed annual checkpoint before this batch
+## Current canonical checkpoint
 
-Before starting June 16/23, canonical 1916 status was:
+Current 1916 status after June 16/23 integration:
 
+- Year status: **IN PROGRESS**.
+- Total annual inventory: **104 issues / 884 pages**.
 - Courier: **458/458 visually reviewed — complete**.
-- Enterprise: **193/426 certified visually reviewed pages through 9 June 1916**.
-- Combined certified newspaper coverage: **651/884**.
-- Enterprise pages still uncertified: **233**.
-- The genuine weekly Enterprise page 8 for **12 May 1916** remains an explicit **RETRIEVAL GAP**. The archive's sequence 8 is visibly a *Morning Enterprise* page. Bounded alternate-edition/title recovery attempts were already exhausted. Do not count it as reviewed and do not convert it into negative evidence.
-- Next ordinary unresolved issue was 16 June 1916.
-- Last completed integration commit before this batch: `0913b8cc` — `Certify June 2 and June 9 1916 Enterprise reviews`.
+- Enterprise: **209/426 certified visually reviewed pages through 23 June 1916**.
+- Combined certified newspaper coverage: **667/884**.
+- Enterprise pages remaining uncertified: **217**.
+- The genuine weekly Enterprise page 8 for **12 May 1916** remains an explicit **RETRIEVAL GAP**. Archive sequence 8 is visibly *Morning Enterprise*; bounded alternate-edition/title recovery attempts were already made. Carry the gap; do not count it as reviewed or use it as negative evidence.
+- **Next ordinary unresolved Enterprise issue: 30 June 1916.**
+- Other online source classes and final manual-callout reconciliation remain pending.
 
-## Work completed in this conversation for June 16 / June 23
+Canonical status file: `registers/year-status.md`.
 
-### Fetch workflow
+## June 16 / June 23 acquisition and preservation
 
-Created and pushed:
+Fetch workflow:
 
 - `.github/workflows/fetch-1916-enterprise-june16-june23.yml`
-- creation commit: `ae356369db419b6739ea61fbc5a1e5d053ae15bd` — `Add June 16/23 1916 Enterprise fetch workflow`
+- workflow creation commit `ae356369db419b6739ea61fbc5a1e5d053ae15bd` — `Add June 16/23 1916 Enterprise fetch workflow`
+- Actions run `34709147125`, job `103594579897`, conclusion **success**
+- artifact `1916-enterprise-june16-june23-visual-bundle`, artifact ID `10302094478`
+- artifact SHA-256 `ec140500c2856cb3d29742c3d806b21744c5ef1587a4c692ba2c347cd6961c50`
+- raw-scan preservation commit `dce98ef0` — `Preserve Enterprise June 16 and June 23 1916 scans`
 
-GitHub Actions fetch run:
-
-- run ID: `34709147125`
-- job ID: `103594579897`
-- conclusion: **success**
-- artifact: `1916-enterprise-june16-june23-visual-bundle`
-- artifact ID: `10302094478`
-- artifact SHA-256: `ec140500c2856cb3d29742c3d806b21744c5ef1587a4c692ba2c347cd6961c50`
-- artifact contained 18 files: 8 PDFs + manifest for each issue.
-
-The workflow synced current main and ran the full archive validator before and after retrieval. Both printed:
-
-```text
-Main Street Archive Validation
-========================================
-
-Validation passed.
-```
-
-The workflow then committed and pushed all retrieved originals:
-
-- commit: `dce98ef0` — `Preserve Enterprise June 16 and June 23 1916 scans`
-- 18 files added.
-- Validator ran again immediately before that push and printed `Validation passed.`
-
-Canonical source directories now preserved on `main`:
+Each issue was probed through sequences 1–14. Sequences 1–8 were valid original PDFs; 9–14 returned 404. All 16 originals plus both fetch manifests are preserved under:
 
 - `newspapers/oregon-city-enterprise/1916/1916-06-16/`
 - `newspapers/oregon-city-enterprise/1916/1916-06-23/`
 
-Each directory contains pages 1–8 plus `fetch-manifest.json`. The fetch attempted sequences 1–14; **8 valid PDF pages were saved for each date**. Thus each issue currently has an 8-page delivered set.
+The fetch workflow ran the full archive validator before retrieval, after retrieval, and immediately before the scan-preservation push; each printed `Validation passed.`
 
-### Local review bundle
+## June 16 — completed visual review
 
-The Actions artifact was downloaded during the conversation to:
+Canonical source capture:
 
-- `/mnt/data/1916-enterprise-june16-june23.zip`
+- `evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md`
 
-It was unpacked/rendered under:
+Status: **VISUALLY VERIFIED — 8/8 genuine weekly pages inspected.** Every delivered PDF was rendered and the faithful page image individually visually inspected; OCR/text extraction was used only after visual review.
 
-- `/mnt/data/june16_june23_review/`
-- rendered page images under `/mnt/data/june16_june23_review/renders/`
+No inspected page directly assigns an occupant, proprietor, business owner, property owner, tenant, licensee, trade name, sale/transfer, construction, demolition, closure, vacancy, fire, or move to **501, 503, 505, 505½, or 507 Main Street**.
 
-All 16 original PDFs were rendered to page images. During the conversation, all eight June 16 page images and all eight June 23 page images were individually opened/displayed for visual inspection. Several pages/crops were reopened at higher attention, including:
+Material non-target control: **page 5**, headline `$30,500 MAIN STREET REALTY DEAL COMPLETED—NEW BUILDING MAY GO UP.` It concerns property on the **east side of Main Street between Seventh and Eighth Streets**. The tract runs toward the Southern Pacific tracks except for **one small corner belonging to George A. Harding**. Possible future brick construction is discussed after an existing lease expires. This is direct evidence that Harding held a small corner interest in a different Main Street tract in June 1916. **Do not project it onto the target Fifth/Sixth frontage or target-block ownership.**
 
-- June 16 p1
-- June 16 p2
-- June 16 p3
-- June 16 p4
-- June 16 p5
-- June 16 p6
-- June 23 p1
-- June 23 p2
-- June 23 p3
-- June 23 p4
-- June 23 p5
-- June 23 p6
-- June 23 p7
-- June 23 p8
+Other controls: page 7 has unrelated professional-directory wording relative to Fourth/Fifth on Main; page 8 contains real-estate transfers and a Jones Drug Co. advertisement, but no target-address bridge.
 
-Additional crops created locally included `june16_right_article.png`, `june16_main_realty.png`, and `june23_hawley.png` for closer reading.
+## June 23 — completed visual review
 
-**Important certification boundary:** although all 16 page scans have been rendered/opened visually, the conversation was interrupted before the substantive page-by-page screening, notes, source captures, register/YAML integration, updated counts, and final certification were completed. Therefore **do not yet mark June 16 or June 23 as certified in the annual ledger solely from this handoff**. Resume by rechecking each page image/source, finish the historical screening, then certify the two issues only after the reviewer is satisfied that every page has been visually inspected for the target categories.
+Canonical source capture:
 
-## Target screening to finish
+- `evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md`
 
-For every page of both issues, screen visually for:
+Status: **VISUALLY VERIFIED — 8/8 genuine weekly pages inspected.** Every delivered PDF was rendered and the faithful page image individually visually inspected; OCR/text extraction was used only after visual review.
 
-- exact target addresses: 501, 503, 505, 505½, 507 Main (and neighboring address anchors where useful);
-- Harding / George A. Harding;
-- Young and known target-associated people;
-- Chicago Store, Palace Saloon, Schrader and other established early target businesses;
-- Jones Drug / Burmeister & Andresen relocation chain from late May / 2 June;
-- Oregon City post-office / federal-building/site material;
-- pool room / pool hall / billiards / cigar / liquor-license material;
-- real-estate transfers, legal descriptions, Block 4 / lot controls, sales, leases, moves, vacancies;
-- fires, construction, demolition, rebuilding, remodeling, structural change;
-- Main Street / Fifth Street location anchors that could independently bridge an unnumbered business to the target frontage.
+No inspected page directly assigns an occupant, proprietor, business owner, property owner, tenant, licensee, trade name, sale/transfer, construction, demolition, closure, vacancy, fire, or move to **501, 503, 505, 505½, or 507 Main Street**.
 
-Use OCR/pdftotext only after visual review to locate difficult text. Any exact-address or material claim discovered in OCR must be checked against the visible original before integration.
+Material nearby but non-target control: **page 1** reports proposed Hawley Pulp & Paper Company expansion. Hawley sought a second paper mill extending from Third Street north on Main toward the alley between Fourth and Fifth, conditioned on vacation of Fourth Street from Main to the Southern Pacific track. Hawley also had an option on the **southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth Streets**, owned by **James Tracy of Gladstone**; existing improvements would be removed if the additional mill were built. This is useful contemporary spatial/property context for the block immediately south of the target Fifth/Sixth frontage, but it establishes nothing about 501/503/505/505½/507 Main. Keep James Tracy ownership and proposed demolition/construction confined to the Fourth/Fifth block described by the source.
 
-## Existing 1916 controls that remain in force
+Other controls: pages 3 and 8 carry real-estate-transfer/county-court material; page 7 carries legal notices and professional-directory Main Street wording. None supplies a target-address bridge.
 
-- 24 Mar 1916 Enterprise p1 Oregon City federal-post-office proposal: one-story, ~4,800 sq ft, $55,000 building + $10,000 site; no site/address/acquisition/construction/move proof.
-- 5 May 1916 Enterprise p4 federal-building prospects: Treasury estimate $70,000 building+site and $15,000 site, arithmetically implying $55,000 building component; still no target-site bridge.
-- 21 Apr post-office site article is Estacada, not Oregon City.
+## Integration state
+
+A parallel/current-main integration completed while this conversation was being handed off. **Do not redo June 16/23.**
+
+Key integration commit:
+
+- `285d81d2c15d81e68e0a67da4edfdd745815dc92` — `Certify June 16 and June 23 1916 Enterprise reviews`
+
+A preceding correction commit was:
+
+- `57a949275b90a267b6205129e011b5b14cde7e42` — `Fix June 16/23 evidence mirror names`
+
+The integration updated the June 16/23 source captures, source/evidence registers, YAML mirrors, annual status/checkpoint, and propagation decisions. Current main's annual ledger already carries the 209/426 and 667/884 counts above.
+
+This handoff itself was first saved, then corrected after discovering that the integration had already landed. The corrected handoff commit is the commit containing this version. Always fetch newer main before resuming because additional parallel commits may have landed.
+
+## Existing 1916 controls still in force
+
+- 24 Mar Enterprise p1 Oregon City federal-post-office proposal: one-story, ~4,800 sq ft, $55,000 building + $10,000 site; no site/address/acquisition/construction/move proof.
+- 5 May Enterprise p4: Treasury estimate $70,000 building+site and $15,000 site, implying a $55,000 building component; still no target-site bridge.
+- 21 Apr post-office-site article is Estacada, not Oregon City.
 - 28 Apr new-site/lease article concerns Oregon Portland Railway, Light & Power Co. near Parkplace, not target property.
-- 19 and 26 May Harding quiet-title material concerns Lots 1 and 2, Block 11, Oregon City — explicitly non-target, not Block 4.
-- 26 May Enterprise p8 Jones Drug Company `Forced-Out-of-Location Sale`: landlord wants more room; Jones says it will move to the present Portland Railway Light & Power Co. room, two doors south; old location next to Burmeister & Andresen. No exact target street number; do not map this chain to 501/503/505/507 without an independent address bridge.
-- 2 Jun Enterprise p1: `EXPANSION OF BURMEISTER & ANDRESEN WILL CAUSE GENERAL SHIFTING.` Seven firms will move so Burmeister & Andresen can expand. No target street number. Context only, not a target-address bridge.
-- 9 Jun complete issue gave no target event or exact-address bridge.
-- 24 Mar 1912 Morning Enterprise p2 pool-hall license notice visibly signs `H. H. SMTHI`; do not normalize that signature to Smith without independent evidence.
+- 19 and 26 May Harding quiet-title material concerns Lots 1 and 2, Block 11, Oregon City — non-target, not Block 4.
+- 26 May Enterprise p8 Jones Drug Company `Forced-Out-of-Location Sale`: landlord wants more room; Jones will move to the present Portland Railway Light & Power Co. room, two doors south; old location next to Burmeister & Andresen. No exact target street number; do not map the chain to target frontage without an independent bridge.
+- 2 Jun Enterprise p1 `EXPANSION OF BURMEISTER & ANDRESEN WILL CAUSE GENERAL SHIFTING`: seven firms will move so Burmeister & Andresen can expand; no target street number.
+- 9 Jun complete issue: no target event/address bridge.
+- 16 Jun Harding Seventh/Eighth Main property control is explicitly non-target.
+- 23 Jun Hawley/James Tracy Fourth/Fifth block expansion control is explicitly south of and separate from the target Fifth/Sixth frontage.
+- 24 Mar 1912 Morning Enterprise p2 pool-hall license notice visibly signs `H. H. SMTHI`; do not normalize the signature to Smith without independent evidence.
 
-## What has NOT yet been done for June 16 / June 23
+## Exact next-chat resume sequence
 
-Do not assume any of the following are complete:
-
-- no final source capture for June 16;
-- no final source capture for June 23;
-- no June 16/23 source-register entries;
-- no June 16/23 evidence-register entries;
-- no YAML mirrors for those entries;
-- no annual-status/checkpoint count update for these 16 pages;
-- no final propagation audit across timeline/building/business/person/open-question/research-lead/crosswalk records;
-- no final integration commit certifying the two issue dates.
-
-The raw scans themselves **are** safely preserved on main at `dce98ef0`.
-
-## Expected IDs / counts — verify before using
-
-At the prior checkpoint the newest entries were S-338/S-339 and E-311/E-312. If no parallel work has consumed IDs, June 16/23 would likely use **S-340/S-341** and **E-313/E-314**, but **re-fetch current main and check the actual next IDs before assigning anything**.
-
-If, after final review, both 8-page issues are certified and no parallel status changes occurred, the arithmetic would become:
-
-- Enterprise: 193 + 16 = **209/426 certified**
-- Combined: 651 + 16 = **667/884 certified**
-- Enterprise remaining uncertified: 426 - 209 = **217**
-- next ordinary unresolved Enterprise issue: **30 June 1916**
-
-These are provisional arithmetic only. Confirm current main, actual page counts, and certification before writing them into canonical status files. The 12 May true weekly p8 retrieval gap remains carried separately.
-
-## Exact resume sequence
-
-1. Fetch/sync newest `main`; inspect commits after `dce98ef0` for parallel work.
-2. Read current `AGENTS.md`, `RESEARCH-STANDARD.md`, `MANUAL-FOLLOWUP.md` completely.
-3. Read `/home/oai/skills/pdfs/SKILL.md`.
-4. Confirm the preserved June 16/23 source directories and manifests.
-5. Re-render/reopen originals if the local `/mnt/data` review bundle is unavailable in the new chat. Do not rely on this handoff as a substitute for seeing the scans.
-6. Finish page-by-page visual screening of all 8 June 16 pages and all 8 June 23 pages. Reopen any ambiguous page/crop at higher resolution.
-7. Only after visual screening, use text extraction/search as secondary discovery/deciphering aid and visually verify any candidate claim.
-8. Write separate source captures for June 16 and June 23 documenting page count, visual status, findings/no-hit limits, and propagation decisions.
-9. Add source/evidence register entries and synchronized YAML mirrors using IDs confirmed from current main.
-10. Update `registers/year-status.md` and `evidence/source-captures/1916-online-audit-checkpoint.md` with actual certified counts.
-11. Audit timeline, buildings, businesses, people, open questions, research leads, crosswalk, and database/YAML records. If the batch is only bounded no-hit coverage, explicitly say no entity/timeline propagation was warranted rather than manufacturing a historical event.
-12. Run `python3 scripts/validate_archive.py` and require literal `Validation passed.`
-13. Commit meaningful integration changes. Before final push, pull/rebase latest `main`, resolve only by preserving newer parallel work, rerun the validator, then push.
-14. Report the final integration commit, exact issue/page certification, material findings, updated coverage counts, carried May 12 gap, and next ordinary unresolved date.
+1. Fetch/sync newest `main` and inspect commits after this handoff; preserve any newer parallel work.
+2. Read current `AGENTS.md`, `RESEARCH-STANDARD.md`, and `MANUAL-FOLLOWUP.md` completely.
+3. Read `/home/oai/skills/pdfs/SKILL.md` before handling scans.
+4. Confirm `registers/year-status.md` still says Enterprise 209/426 through 23 June and next ordinary unresolved issue 30 June; if parallel work advanced it, follow the newer checkpoint instead.
+5. Continue with the **next two ordinary unresolved Enterprise dates**, expected to be **30 June 1916 and 7 July 1916** if no newer work has advanced the ledger.
+6. For each date, determine actual page count from the archive rather than assuming 8 pages. Probe enough sequences to establish the delivered issue extent and preserve a manifest.
+7. Preserve original page PDFs under the canonical `newspapers/oregon-city-enterprise/1916/YYYY-MM-DD/` directory.
+8. Render every valid original scan and visually inspect every page individually. Do not certify from OCR/search text.
+9. Screen for 501/503/505/505½/507 Main; Harding/Young and associated businesses; Jones Drug/Burmeister & Andresen relocation chain; post-office/federal-building material; pool/billiard/cigar/liquor licensing; property transfers/legal descriptions/Block 4; sales/leases/moves; fires/construction/demolition/rebuilding/remodeling; and Main/Fifth spatial/address controls.
+10. Only after visual inspection, use OCR/pdftotext as secondary discovery/deciphering aid. Visually confirm any candidate claim in the original scan.
+11. Create issue-level source captures; add source/evidence register entries and synchronized YAML mirrors using IDs confirmed from current main.
+12. Perform the cross-record propagation audit across timeline, buildings, businesses, people, open questions, research leads, crosswalk, and database/YAML. If only bounded no-hit coverage results, explicitly record that no entity/timeline propagation was warranted.
+13. Update `registers/year-status.md` and `evidence/source-captures/1916-online-audit-checkpoint.md` using actual newly certified page counts. Continue to carry the 12 May page-8 retrieval gap explicitly.
+14. Run full validator and require literal `Validation passed.`; commit meaningful work; pull/rebase newest main; validate again immediately before push; push without overwriting parallel work.
+15. Report exact dates/pages reviewed, material findings and their limits, new coverage counts, carried May 12 gap, next ordinary unresolved date, and final integration commit.
 
 ## Project-steward continuation instruction
 
-After finishing and saving June 16 and June 23, the user's standing cadence is to continue chronologically through unresolved dates when requested. Do not skip the 12 May retrieval gap conceptually; carry it explicitly while continuing ordinary issue dates. No institutional/manual request should be sent without explicit authorization.
+Continue chronologically when requested. The goal is exhaustive online coverage under `RESEARCH-STANDARD.md`, not merely keyword searching. No institutional/manual request should be sent without explicit authorization.
