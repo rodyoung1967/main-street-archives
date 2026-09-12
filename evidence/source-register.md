@@ -2786,7 +2786,7 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-02-25/1916-02
 Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.  
 Source capture: `evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md`.  
 Related evidence: `E-297`.  
-Notes: All ten original page PDFs were visually inspected. No page establishes a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition. This is bounded coverage only, not absence evidence.
+Notes: All ten original page PDFs were visually inspected. No page establishes a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition. Page 8 directly identifies George A. Harding as department commander of the G.A.R. "of this city" and reports his attendance at a Portland council-of-administration meeting; this is person-level civic-role context only and does not establish any target-premises relationship. This is bounded coverage only, not absence evidence.
 
 ## S-325 — Oregon City Enterprise, 3 March 1916, complete issue visual review
 <!-- 1916 Enterprise Mar 3 visual review — 2026-09-11 -->
