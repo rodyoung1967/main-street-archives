@@ -2,7 +2,7 @@
 
 | ID | Name | Role | Notes |
 |---|---|---|---|
-| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader / reported property seller | CCHS catalogs an 1880/1880s Harding Drug Store photo at 505, but the crop lacks a number and the location may be retrospective. Exact 511 business address by 1911; later Harding Building and 1922 property relationships remain distinct and unresolved. |
+| P-001 | [George A. Harding](profiles/george-a-harding.md) | Druggist / civic leader / reported property seller | CCHS catalogs an 1880/1880s Harding Drug Store photo at 505, but the crop lacks a number and the location may be retrospective. Exact 511 business address by 1911. A 25 Feb. 1916 Enterprise item directly identifies him as G.A.R. department commander “of this city”; this is civic-role context only. Later Harding Building and 1922 property relationships remain distinct and unresolved. |
 | P-002 | [Dr. Bailey](profiles/dr-bailey.md) | Dentist | Legacy 1909 Harding Building occupancy claim is unverified. The MOT reference spreadsheet for `MOT:P-391` names a Dr. Bailey among four men in the institutionally dated 1910 Young storefront photo (`IMG-0725`), but does not prove an office location or 1909 tenancy; see `OQ-030`. |
 | P-003 | [J. Jager](profiles/j-jager.md) | Proprietor | Listed as proprietor of New Kwality Cafe on matchbook. |
 | P-004 | [Larry](profiles/larry.md) | Proprietor / operator | Associated with Larry's Kwality Cafe; surname unknown. |
