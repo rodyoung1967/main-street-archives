@@ -29,14 +29,16 @@ Notes: All eight original page scans were visually inspected. Page 8 is a Jones 
 
 append_once('evidence/evidence-register.md','## E-309 — 19 May 1916 Enterprise complete visual review',r'''
 ## E-309 — 19 May 1916 Enterprise complete visual review
-**State:** DOCUMENTED / DIRECT for issue-level visual coverage; bounded no-hit only for target premises.  
-**Source:** `S-336`.  
-All **8/8** page scans were visually inspected. No page directly assigns an occupant, owner, tenant, licensee, business name, sale/transfer, construction, demolition, closure or vacancy to 501/503/505/505½/507 Main. General Main Street and unrelated Harding/Young material does not establish a target bridge. This is coverage evidence only, not evidence of absence.
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. No page directly assigns an occupant, owner, tenant, licensee, business name, sale/transfer, construction, demolition, closure or vacancy to 501/503/505/505½/507 Main. General Main Street and unrelated Harding/Young material does not establish a target bridge. This is coverage evidence only, not evidence of absence.  
+Source: `S-336`.  
+Confidence: Very High for issue-level visual coverage; no target-premises inference from the bounded no-hit.
 
 ## E-310 — 26 May 1916 Enterprise complete visual review and Jones Drug relocation control
-**State:** DOCUMENTED / DIRECT for issue-level visual coverage and the printed Jones Drug move wording; no target-address bridge.  
-**Source:** `S-337`.  
-All **8/8** page scans were visually inspected. Page 8 directly states Jones Drug Company is going to move very soon because the landlord wants more room for his own business and labels the current premises only as “Old location—Next to Burmeister & Andresen’s.” No street number is printed, so the move is retained as non-target city/business context and is not mapped to 501/503/505/505½/507 Main. No page establishes a source-explicit target-premises event. The no-hit is coverage only, not vacancy evidence.
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 8 directly states Jones Drug Company is going to move very soon because the landlord wants more room for his own business and labels the current premises only as “Old location—Next to Burmeister & Andresen’s.” No street number is printed, so the move is retained as non-target city/business context and is not mapped to 501/503/505/505½/507 Main. No page establishes a source-explicit target-premises event. The no-hit is coverage only, not vacancy evidence.  
+Source: `S-337`.  
+Confidence: Very High for the printed wording and issue-level visual coverage; no target-address inference.
 ''')
 
 append_once('database/sources.yml','  - id: S-336',r'''
