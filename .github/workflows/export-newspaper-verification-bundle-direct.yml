@@ -1,0 +1,40 @@
+name: Export newspaper verification bundle direct
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/export-newspaper-verification-bundle-direct.yml'
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch verification bundle directly
+        run: |
+          python3 - <<'PY'
+          import pathlib, requests, time
+          issues=[
+            ('morning-enterprise','sn00063701','1912-03-24',8),
+            ('oregon-city-enterprise','sn00063700','1916-01-14',8),
+            ('oregon-city-enterprise','sn00063700','1916-02-04',8),
+            ('oregon-city-enterprise','sn00063700','1916-02-11',10),
+            ('oregon-city-enterprise','sn00063700','1916-02-18',10),
+          ]
+          s=requests.Session(); s.headers.update({'User-Agent':'main-street-archives visual verification bundle'})
+          root=pathlib.Path('bundle')
+          for title,lccn,date,pages in issues:
+            out=root/title/date; out.mkdir(parents=True,exist_ok=True)
+            for seq in range(1,pages+1):
+              url=f'https://oregonnews.uoregon.edu/lccn/{lccn}/{date}/ed-1/seq-{seq}.pdf'
+              r=s.get(url,timeout=90); r.raise_for_status()
+              if not r.content.startswith(b'%PDF'): raise RuntimeError(url)
+              (out/f'{date}-page-{seq}.pdf').write_bytes(r.content)
+              time.sleep(.05)
+          PY
+      - name: Upload verification bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: newspaper-verification-bundle
+          path: bundle/
+          retention-days: 14
