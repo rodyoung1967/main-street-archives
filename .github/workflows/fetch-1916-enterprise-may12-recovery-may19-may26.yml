@@ -1,0 +1,95 @@
+name: Fetch 1916 Enterprise May 12 recovery and May 19/26 visual bundle
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-1916-enterprise-may12-recovery-may19-may26.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before fetch
+        run: python3 scripts/validate_archive.py
+      - name: Fetch issue scans and May 12 recovery candidates
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, time
+          s=requests.Session(); s.headers.update({'User-Agent':'main-street-archives annual visual audit'})
+          root=pathlib.Path('newspapers/oregon-city-enterprise/1916')
+          all_attempts=[]
+
+          # Ordinary issue retrieval for the next two dates.
+          for date in ('1916-05-19','1916-05-26'):
+            out=root/date; out.mkdir(parents=True,exist_ok=True)
+            attempts=[]; saved=0
+            for seq in range(1,15):
+              url=f'https://oregonnews.uoregon.edu/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf'
+              row={'date':date,'edition':1,'sequence':seq,'url':url}
+              try:
+                r=s.get(url,timeout=90,allow_redirects=True)
+                row.update(status=r.status_code,content_type=r.headers.get('content-type',''),bytes=len(r.content),sha256=hashlib.sha256(r.content).hexdigest(),final_url=r.url)
+                if r.status_code==200 and r.content.startswith(b'%PDF'):
+                  name=f'{date}-page-{seq}.pdf'; (out/name).write_bytes(r.content); row['saved_as']=name; saved+=1
+              except Exception as e: row['error']=repr(e)
+              attempts.append(row); all_attempts.append(row); time.sleep(.08)
+            (out/'fetch-manifest.json').write_text(json.dumps({'title':'Oregon City Enterprise','lccn':'sn00063700','date':date,'attempted_sequences':14,'saved_pages':saved,'attempts':attempts},indent=2)+'\n')
+
+          # Bounded recovery attempts for the unresolved true weekly 12 May page 8.
+          rec=root/'1916-05-12'/'recovery-page-8'; rec.mkdir(parents=True,exist_ok=True)
+          recovery=[]
+          urls=[]
+          # Alternate editions, same sequence.
+          for ed in range(2,6):
+            urls.append((f'enterprise-ed{ed}-seq8',f'https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-{ed}/seq-8.pdf'))
+          # Neighboring sequences in edition 1 in case the true page was shifted.
+          for seq in range(9,21):
+            urls.append((f'enterprise-ed1-seq{seq}',f'https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-1/seq-{seq}.pdf'))
+          # Same-date Morning Enterprise issue pages, to test whether the weekly seq-8 object is a daily-page duplicate/misassociation.
+          for seq in range(1,21):
+            urls.append((f'morning-enterprise-seq{seq}',f'https://oregonnews.uoregon.edu/lccn/sn00063701/1916-05-12/ed-1/seq-{seq}.pdf'))
+          for label,url in urls:
+            row={'label':label,'url':url}
+            try:
+              r=s.get(url,timeout=90,allow_redirects=True)
+              row.update(status=r.status_code,content_type=r.headers.get('content-type',''),bytes=len(r.content),sha256=hashlib.sha256(r.content).hexdigest(),final_url=r.url)
+              if r.status_code==200 and r.content.startswith(b'%PDF'):
+                name=f'{label}.pdf'; (rec/name).write_bytes(r.content); row['saved_as']=name
+            except Exception as e: row['error']=repr(e)
+            recovery.append(row); all_attempts.append(row); time.sleep(.08)
+          (rec/'recovery-manifest.json').write_text(json.dumps({'question':'Recover true Oregon City Enterprise weekly page 8 for 1916-05-12','attempts':recovery},indent=2)+'\n')
+          PY
+      - name: Validate archive after fetch
+        run: python3 scripts/validate_archive.py
+      - name: Upload visual-review bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1916-enterprise-may12-recovery-may19-may26
+          path: |
+            newspapers/oregon-city-enterprise/1916/1916-05-12/recovery-page-8/
+            newspapers/oregon-city-enterprise/1916/1916-05-19/
+            newspapers/oregon-city-enterprise/1916/1916-05-26/
+          retention-days: 14
+      - name: Commit fetched scans and manifests
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1916/1916-05-12/recovery-page-8/ newspapers/oregon-city-enterprise/1916/1916-05-19/ newspapers/oregon-city-enterprise/1916/1916-05-26/
+          if git diff --cached --quiet; then echo 'No fetch changes'; exit 0; fi
+          git commit -m 'Preserve Enterprise May 12 recovery and May 19/26 scans'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
