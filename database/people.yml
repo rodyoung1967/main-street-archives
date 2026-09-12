@@ -5,8 +5,10 @@ people:
     role: Druggist / civic leader
     notes: Associated with Harding Drug Store and later Harding Building context. CCHS catalogs an 1880/1880s store
       photograph at 505 Main, but the crop has no number and the pre-1906 address may be retrospective. A visually
-      verified 13 July 1922 newspaper reports that his separate named Main Street store-property group was sold to
-      S. Wolf and C. Gates; deed, legal description and relationship to the Harding Building remain unresolved.
+      verified 25 February 1916 Enterprise item identifies Harding as department commander of the G.A.R. of this city;
+      that is civic-role evidence only and supplies no target-premises relationship. A visually verified 13 July 1922
+      newspaper reports that his separate named Main Street store-property group was sold to S. Wolf and C. Gates;
+      deed, legal description and relationship to the Harding Building remain unresolved.
     related_buildings:
     - B-002
     - B-003
@@ -20,6 +22,7 @@ people:
     - E-107
     - E-109
     - E-119
+    - E-297
     related_sources:
     - S-148
     - S-143
@@ -27,6 +30,7 @@ people:
     - S-120
     - S-121
     - S-133
+    - S-324
 
   - id: P-002
     name: Dr. Bailey
