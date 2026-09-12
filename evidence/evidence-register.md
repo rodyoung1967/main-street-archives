@@ -3202,3 +3202,15 @@ Source: `S-335`.
 Claims: all **8/8 delivered archive scans** visually inspected; sequences **1–7** visibly identify as *Oregon City Enterprise* and count as seven genuine weekly pages; sequence **8** visibly identifies as **“MORNING ENTERPRISE, FRIDAY, MAY 12, 1916”** and is not counted as genuine weekly page 8; sequences 9–14 are unavailable at the weekly issue URL; the genuine weekly page 8 remains a **RETRIEVAL GAP**; no inspected page establishes a 501/503/505/505½/507 Main target-premises event; cumulative certified Enterprise coverage is **161/426**, combined newspaper coverage **619/884**, with **265** Enterprise pages uncertified.  
 Classification: **DOCUMENTED / DIRECT** for the visible title mismatch and seven genuine weekly pages; **RETRIEVAL GAP** for true weekly page 8; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for target frontage.  
 Confidence: **Very High** for the visual title distinction and page coverage.
+
+## E-309 — 19 May 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. No page directly assigns an occupant, owner, tenant, licensee, business name, sale/transfer, construction, demolition, closure or vacancy to 501/503/505/505½/507 Main. General Main Street and unrelated Harding/Young material does not establish a target bridge. This is coverage evidence only, not evidence of absence.  
+Source: `S-336`.  
+Confidence: Very High for issue-level visual coverage; no target-premises inference from the bounded no-hit.
+
+## E-310 — 26 May 1916 Enterprise complete visual review and Jones Drug relocation control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 8 directly states Jones Drug Company is going to move very soon because the landlord wants more room for his own business and labels the current premises only as “Old location—Next to Burmeister & Andresen’s.” No street number is printed, so the move is retained as non-target city/business context and is not mapped to 501/503/505/505½/507 Main. No page establishes a source-explicit target-premises event. The no-hit is coverage only, not vacancy evidence.  
+Source: `S-337`.  
+Confidence: Very High for the printed wording and issue-level visual coverage; no target-address inference.

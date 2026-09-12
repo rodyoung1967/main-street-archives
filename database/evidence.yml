@@ -4644,3 +4644,29 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md"
+
+  - id: E-309
+    name: "19 May 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "No source-explicit target-premises event for 501/503/505/505½/507 Main."
+      - "No-hit is bounded coverage only, not vacancy evidence."
+    confidence: "Very High"
+    related_sources: [S-336]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-may19-visual-review-2026-09-12.md"
+  - id: E-310
+    name: "26 May 1916 Enterprise complete visual review and Jones Drug relocation control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Jones Drug says it will move very soon because its landlord wants more room for his own business; old location described only as next to Burmeister & Andresen's."
+      - "No street number is printed, so the Jones Drug move is not mapped to the target frontage."
+      - "No source-explicit target-premises event for 501/503/505/505½/507 Main."
+    confidence: "Very High for printed wording; no target-address inference"
+    related_sources: [S-337]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md"

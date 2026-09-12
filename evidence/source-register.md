@@ -2890,3 +2890,21 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-12/`.
 Source capture: `evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md`.  
 Related evidence: `E-308`.  
 Notes: Sequences 1–7 visibly identify as Oregon City Enterprise. Sequence 8 visibly reads “MORNING ENTERPRISE, FRIDAY, MAY 12, 1916” and is not counted as a genuine weekly page. True weekly page 8 remains a RETRIEVAL GAP. No source-explicit target-premises event.
+
+## S-336 — Oregon City Enterprise, 19 May 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **19 May 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-19/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-19/`.  
+Source capture: `evidence/source-captures/1916-enterprise-may19-visual-review-2026-09-12.md`.  
+Related evidence: `E-309`.  
+Notes: All eight original page scans were visually inspected. No page prints a source-explicit target-premises occupant, owner, tenant, licensee, business-name, sale, transfer, construction, demolition, closure or vacancy event for 501/503/505/505½/507 Main. General Main Street and unrelated Harding/Young material is non-target context only. No-hit is bounded coverage, not vacancy evidence.
+
+## S-337 — Oregon City Enterprise, 26 May 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **26 May 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-26/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-26/`.  
+Source capture: `evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md`.  
+Related evidence: `E-310`.  
+Notes: All eight original page scans were visually inspected. Page 8 is a Jones Drug Company forced-out-of-location sale ad stating an imminent move because the landlord wanted more room for his own business; it identifies the old location only as next to Burmeister & Andresen's and prints no street number, so it is not mapped to the target frontage. No source-explicit target-premises event appears. No-hit is bounded coverage, not vacancy evidence.

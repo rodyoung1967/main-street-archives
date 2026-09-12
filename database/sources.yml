@@ -2324,3 +2324,20 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md"
     related_evidence: [E-308]
     notes: "Sequences 1-7 visibly identify as Oregon City Enterprise. Sequence 8 visibly identifies as Morning Enterprise, Friday, May 12, 1916; true weekly page 8 remains a RETRIEVAL GAP. No source-explicit target-premises event."
+
+  - id: S-336
+    name: "Oregon City Enterprise, 19 May 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-19/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-05-19"
+    repository_file: "evidence/source-captures/1916-enterprise-may19-visual-review-2026-09-12.md"
+    related_evidence: [E-309]
+    notes: "No source-explicit target-premises event; no-hit is bounded coverage only."
+  - id: S-337
+    name: "Oregon City Enterprise, 26 May 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-26/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-05-26"
+    repository_file: "evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md"
+    related_evidence: [E-310]
+    notes: "Page 8 documents a Jones Drug imminent move but prints no street number; no target-premises bridge."
