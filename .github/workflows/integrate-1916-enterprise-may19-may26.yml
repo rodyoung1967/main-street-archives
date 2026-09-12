@@ -21,7 +21,7 @@ jobs:
       - name: Validate before integration
         run: python3 scripts/validate_archive.py
       - name: Integrate May 19 and May 26 reviews
-        run: python3 scripts/maintenance/integrate_1916_enterprise_may19_may26.py
+        run: python3 scripts/maintenance/integrate_1916_enterprise_may19_may26_v2.py
       - name: Validate after integration
         run: python3 scripts/validate_archive.py
       - name: Commit and push
@@ -38,4 +38,4 @@ jobs:
           done
           exit 1
 
-# retry after YAML indentation fix
+# retry with evidence-register schema fix
