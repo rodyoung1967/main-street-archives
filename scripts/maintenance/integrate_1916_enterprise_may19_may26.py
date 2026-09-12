@@ -4,7 +4,8 @@ from pathlib import Path
 def append_once(path, marker, text):
     p=Path(path); s=p.read_text()
     if marker not in s:
-        p.write_text(s.rstrip()+"\n\n"+text.strip()+"\n")
+        cleaned=text.strip("\n")
+        p.write_text(s.rstrip()+"\n\n"+cleaned+"\n")
 
 append_once('evidence/source-register.md','## S-336 — Oregon City Enterprise, 19 May 1916',r'''
 ## S-336 — Oregon City Enterprise, 19 May 1916, complete issue visual review
