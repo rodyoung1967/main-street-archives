@@ -2944,3 +2944,20 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-23/`.
 Source capture: `evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md`.  
 Related evidence: `E-314`.  
 Notes: All eight original page scans were visually inspected. Page 1 describes Hawley paper-mill expansion and an option on the southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth, owned by James Tracy; this is nearby non-target parcel context only. No page establishes a source-explicit target-premises event.
+
+
+## S-342 — Oregon City Enterprise, 30 June 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 30 June 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-30/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-june30-visual-review-2026-09-12.md`  
+Related evidence: `E-315`.  
+Notes: Page 2 prints DeNike & Martin at Water/Fifth; page 8 calls H. P. Brightbill a Main Street grocer without a street number. No source-explicit target-premises event.
+
+## S-343 — Oregon City Enterprise, 7 July 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 7 July 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-07/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md`  
+Related evidence: `E-316`.  
+Notes: Exact non-target controls include Water/Fifth, Tenth/Main and Seventh/Main; Hotel Belle/Willamette relationship chain is not assigned to a target address. No source-explicit target-premises event.

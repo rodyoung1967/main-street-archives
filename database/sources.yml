@@ -2375,3 +2375,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md"
     related_evidence: [E-314]
     notes: "Page 1 gives nearby Fourth/Fifth block Hawley expansion and James Tracy ownership context; no source-explicit target-premises event."
+
+
+  - id: S-342
+    name: "Oregon City Enterprise, 30 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-30/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-30"
+    repository_file: "evidence/source-captures/1916-enterprise-june30-visual-review-2026-09-12.md"
+    related_evidence: [E-315]
+    notes: "Water/Fifth business control and unnumbered H. P. Brightbill Main Street grocer control; no source-explicit target-premises event."
+  - id: S-343
+    name: "Oregon City Enterprise, 7 July 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-07/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-07-07"
+    repository_file: "evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md"
+    related_evidence: [E-316]
+    notes: "Explicit non-target Water/Fifth, Tenth/Main and Seventh/Main controls plus Hotel Belle/Willamette relationship-separation evidence; no source-explicit target-premises event."

@@ -3238,3 +3238,16 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 1 directly reports proposed Hawley paper-mill expansion and an option on the southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth Streets, owned by James Tracy of Gladstone, with existing improvements to be removed if the additional mill were built. This is nearby non-target spatial/property context only. No page directly assigns a target-premises event to 501/503/505/505½/507 Main.  
 Source: `S-341`.  
 Confidence: Very High for visual coverage and printed nearby-block wording; no target-address inference.
+
+
+## E-315 — 30 June 1916 Enterprise complete visual review and bounded Main/Fifth controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 2 places DeNike & Martin at the corner of Water and Fifth; page 8 identifies H. P. Brightbill as a Main Street grocer but supplies no street number. Neither item permits assignment to 501/503/505/505½/507 Main. No inspected page directly supplies a target-premises event.  
+Source: `S-342`.  
+Confidence: Very High for visual coverage and printed wording; no target-address inference.
+
+## E-316 — 7 July 1916 Enterprise complete visual review and explicit non-target controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. DeNike & Martin is again at Water/Fifth; Larsen & Co. is explicitly at Tenth/Main; Miller & Obst is explicitly at Seventh/Main. Page 3 distinguishes the Hotel Belle/Willamette business-interest transition from Isaac Gratton building ownership and the Weinhard lease/sublease chain, but gives no target-address bridge. No inspected page directly supplies a target-premises event.  
+Source: `S-343`.  
+Confidence: Very High for visual coverage and printed non-target controls; no target-address inference.

@@ -4724,3 +4724,31 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md"
+
+
+  - id: E-315
+    name: "30 June 1916 Enterprise complete visual review and bounded Main/Fifth controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 2 places DeNike & Martin at Water/Fifth; page 8 identifies H. P. Brightbill as a Main Street grocer without a street number."
+      - "Neither control permits assignment to 501/503/505/505½/507 Main."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-342]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-june30-visual-review-2026-09-12.md"
+  - id: E-316
+    name: "7 July 1916 Enterprise complete visual review and explicit non-target controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Exact non-target controls place DeNike & Martin at Water/Fifth, Larsen & Co. at Tenth/Main, and Miller & Obst at Seventh/Main."
+      - "Page 3 distinguishes Hotel Belle/Willamette business interest, building ownership, lease and sublease relationships without a target-address bridge."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-343]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md"
