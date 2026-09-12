@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/integrate-1916-enterprise-apr07-apr14.yml'
+      - 'scripts/maintenance/integrate_1916_enterprise_apr07_apr14.py'
 permissions:
   contents: write
 jobs:
@@ -17,23 +18,13 @@ jobs:
         run: git pull --rebase origin main
       - name: Integrate reviewed issues
         run: python3 scripts/maintenance/integrate_1916_enterprise_apr07_apr14.py
-      - name: Repair generated YAML list indentation
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          for path, record_id in [('database/sources.yml', 'S-330'), ('database/evidence.yml', 'E-303')]:
-              p = Path(path)
-              text = p.read_text()
-              text = text.replace(f'\n- id: {record_id}\n', f'\n  - id: {record_id}\n', 1)
-              p.write_text(text)
-          PY
       - name: Validate archive
         run: python3 scripts/validate_archive.py
       - name: Commit and push
         run: |
           git config user.name main-street-archive-bot
           git config user.email actions@users.noreply.github.com
-          git add evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md evidence/source-register.md evidence/evidence-register.md database/sources.yml database/evidence.yml registers/year-status.md evidence/source-captures/1916-online-audit-checkpoint.md
+          git add evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md evidence/source-register.md evidence/evidence-register.md database/sources.yml database/evidence.yml registers/year-status.md evidence/source-captures/1916-online-audit-checkpoint.md evidence/1912-main-street-postoffice-cluster.md
           if git diff --cached --quiet; then echo 'No integration changes'; exit 0; fi
           git commit -m 'Certify Apr 7 and Apr 14 1916 Enterprise reviews'
           for attempt in 1 2 3 4 5; do
