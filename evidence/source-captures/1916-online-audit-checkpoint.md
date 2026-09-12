@@ -15,9 +15,9 @@ used to inventory the two Oregon City titles available online for 1916:
 
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
-| *Oregon City Courier* | `sn00063698` | 52 | 458 | **37 complete issues / 326 pages visually reviewed**; 17 August complete under `S-323` / `E-296` |
-| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | Pending |
-| **Total** |  | **104** | **884** | **326 visually reviewed; 558 pending** |
+| *Oregon City Courier* | `sn00063698` | 52 | 458 | **458/458 visually reviewed — complete** |
+| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **80/426 visually reviewed through 3 March 1916** |
+| **Total** |  | **104** | **884** | **538 visually reviewed; 346 pending** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -79,14 +79,24 @@ was retrieved.
 
 ## Resume point
 
-The former **18 May 1916 p6** gap is resolved, June and July Courier coverage is complete, and the completed August issues now include **3 August, 10 August, and 17 August**. The next ordinary unreviewed Courier page is **24 August 1916 p1**. Continue the remaining Courier issues and all 52 Enterprise issues. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+The *Oregon City Courier* is now **458/458 visually reviewed and complete**. The early *Oregon City Enterprise* retrieval gaps through 18 February were recovered and certified, and the complete **25 February** and **3 March** issues are now also visually reviewed.
 
-The year remains **IN PROGRESS**. The 1916–1917 Sohns & Woodbeck directory, any
-non-digitized 1916 *Morning Enterprise* material, and other restricted or physical
-records remain manual-work candidates for the final numbered callout list.
+Current newspaper coverage:
 
-Related records:
+- Courier: **458/458**
+- Enterprise: **80/426**
+- Combined: **538/884**
+- Enterprise pages remaining: **346**
 
+The next ordinary unreviewed *Oregon City Enterprise* issue is **10 March 1916**. Continue the Enterprise chronologically from that date unless newer parallel work on current `main` advances the ledger first. Preserve any future non-rendering or misassociated page as a precisely identified **RETRIEVAL GAP** after reasonable online recovery attempts.
+
+The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
+
+Related current records:
+
+- `1916-enterprise-retrieval-gaps-resolved-visual-review-2026-09-11.md`
+- `1916-enterprise-february25-visual-review-2026-09-11.md`
+- `1916-enterprise-march03-visual-review-2026-09-11.md`
 - `1916-courier-visual-audit.md`
 - `1916-main-street-research.md`
 - `1916-1917-directory-lead.md`
@@ -235,3 +245,18 @@ Four additional *Oregon City Courier* issues are now fully visually reviewed fro
 - Recurring controls across these issues include **Champion Smith & Telford at 502 Main**, **R. L. Holman at Fifth and Main**, **The Electric Store at 619 Main**, and **Raasch & Lamb unnumbered**. None is converted into a 503/505 assignment without an explicit address bridge.
 
 Updated coverage: Courier **350/458 visually verified**, **44 complete issues**, **108 Courier pages pending**; Enterprise **0/426 exhaustive visual pages**, **426 pending**; combined **350/884 visually reviewed, 534 pending**. **1916 remains IN PROGRESS / not ONLINE COMPLETE.** Next ordinary Courier page: **21 September p1**.
+
+
+## Added 25 February and 3 March Enterprise segment — 11 September 2026
+
+The next two unresolved *Oregon City Enterprise* dates after the recovered 18 February issue have now been completed from the preserved original page PDFs.
+
+- **25 February 1916 — 10/10 visually verified.** Source capture: `1916-enterprise-february25-visual-review-2026-09-11.md`; source/evidence `S-324` / `E-297`.
+- **3 March 1916 — 10/10 visually verified.** Source capture: `1916-enterprise-march03-visual-review-2026-09-11.md`; source/evidence `S-325` / `E-298`.
+- Both issues were preserved under `newspapers/oregon-city-enterprise/1916/` by commit `d25e9af3230e836cd5f022e262fd0c6bc0564704`.
+- Archive sequences 1-10 exist for both issues; attempted sequences 11-12 returned 404, confirming 10-page issue extents in the preserved fetch manifests.
+- Full scan review found no source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or target-building transition.
+- The 3 March issue contains general prohibition/liquor reporting, real-estate transfers, delinquent-tax lists and ordinary legal/business material, but none supplies a defensible target-premises bridge.
+- Absence of a target hit is **coverage only**, never evidence of vacancy or non-use.
+
+Updated annual newspaper coverage: Courier **458/458**; Enterprise **80/426**; combined **538/884**; Enterprise **346 pages remain**. **1916 remains IN PROGRESS / NOT ONLINE COMPLETE.** Next ordinary Enterprise date: **10 March 1916**.
