@@ -48,6 +48,13 @@ Detailed source capture:
 
 Classification: **DOCUMENTED / DIRECT for the business address and source wording; STRONG CROSS-SOURCE INFERENCE for the earlier Post Office being on the odd/west side; exact Post Office number remains unresolved.**
 
+
+## 24 March 1916 federal post-office planning proposal
+
+A visually verified **24 March 1916 Oregon City Enterprise, page 1** report (`S-328` / `E-301`) adds an intermediate federal-planning checkpoint between the earlier circa-1912 Post Office location evidence and the later 1918–1919 location change. Under the heading **“OREGON CITY'S NEW POST OFFICE, $55,000,”** the article reports that Treasury Secretary McAdoo considered a **one-story, 4,800-square-foot** building sufficient at **$55,000**, with **$10,000 additional for the site**, reducing the amount from **$100,000** carried in the Hawley bill.
+
+This is **planning/appropriation context only**. The article prints no site, street address, legal description, owner, acquisition, construction-start, completion, occupancy or move date. It therefore does **not** identify either the circa-1912 Post Office bay or the later post-1918 quarters, and it does not prove that the proposed federal building was ever constructed as described. Keep it separate from the **1918 ten-year lease/change-of-location evidence** and the **15 April 1919 actual move** already documented below.
+
 ## Chronology correction — the 1922 Post Office was a later location
 
 A **12 Sep 1918 Oregon City Courier** report proves that the Post Office Department changed the Oregon City post-office location and entered a **ten-year lease** for an **M. D. Latourette building on the east side of Main Street between Fifth and Sixth**. The City of Oregon City's visually reviewed 2000 historic-resource table identifies the **Latourette-David-Barlow building as 504–514 Main St.**

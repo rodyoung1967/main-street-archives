@@ -2818,3 +2818,23 @@ Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.
 Source capture: `evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md`.  
 Related evidence: `E-300`.  
 Notes: All eight original pages visually inspected. Page 8 includes an I. Tolpolar county-expense listing and ordinary county/real-estate material, but no defensible target-premises bridge. Bounded coverage only, not absence evidence.
+
+## S-328 — Oregon City Enterprise, 24 March 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **24 March 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-24/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-24/`; fetch manifest in the same directory.  
+Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.  
+Source capture: `evidence/source-captures/1916-enterprise-march24-visual-review-2026-09-11.md`.  
+Related evidence: `E-301`.  
+Notes: All eight original pages visually inspected. Page 1 directly reports the federal $55,000 one-story/4,800-square-foot Oregon City post-office proposal plus $10,000 for a site, without printing a site/address or proving construction or relocation. No target-premises event.
+
+## S-329 — Oregon City Enterprise, 31 March 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **31 March 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-31/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-31/`; fetch manifest in the same directory.  
+Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.  
+Source capture: `evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md`.  
+Related evidence: `E-302`.  
+Notes: All eight original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence.

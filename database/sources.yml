@@ -2254,3 +2254,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md"
     related_evidence: [E-300]
     notes: "All eight original pages visually inspected. Page 8 includes an I. Tolpolar county-expense listing and ordinary county/real-estate material, but no defensible target-premises bridge. Bounded coverage only, not absence evidence."
+
+  - id: S-328
+    name: "Oregon City Enterprise, 24 March 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-24/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-03-24"
+    repository_file: "evidence/source-captures/1916-enterprise-march24-visual-review-2026-09-11.md"
+    related_evidence: [E-301]
+    notes: "All eight original pages visually inspected. Page 1 directly reports a proposed one-story 4,800-square-foot Oregon City post office at $55,000 plus $10,000 for a site; no site/address or proof of construction/move. No target-premises event."
+
+  - id: S-329
+    name: "Oregon City Enterprise, 31 March 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-31/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-03-31"
+    repository_file: "evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md"
+    related_evidence: [E-302]
+    notes: "All eight original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence."

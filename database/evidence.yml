@@ -4532,3 +4532,31 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md"
+
+  - id: E-301
+    name: "24 March 1916 Enterprise complete visual review and post-office proposal"
+    type: "Primary newspaper visual evidence / annual issue-level coverage / federal-planning context"
+    claims:
+      - "All 8/8 pages were visually inspected from original scans."
+      - "Page 1 directly reports a proposed Oregon City post-office building: one story, 4,800 square feet, $55,000 plus $10,000 for a site, reduced from the $100,000 Hawley bill amount."
+      - "The article gives no site or street address and does not prove site acquisition, construction, occupancy or relocation."
+      - "No page establishes a 501/503/505/505 1/2/507 Main target-premises event."
+    confidence: "Very High for scan-visible wording and page coverage"
+    related_sources: [S-328]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-march24-visual-review-2026-09-11.md"
+
+  - id: E-302
+    name: "31 March 1916 Enterprise complete visual review and cumulative checkpoint"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages were visually inspected from original scans."
+      - "No page establishes a 501/503/505/505 1/2/507 Main target-premises event."
+      - "Enterprise coverage advances to 114/426 through 31 March 1916; combined coverage is 572/884, with 312 Enterprise pages uncertified."
+      - "The no-hit result is bounded coverage only and not absence evidence."
+    confidence: "Very High"
+    related_sources: [S-329]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md"

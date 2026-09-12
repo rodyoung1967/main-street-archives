@@ -3126,3 +3126,26 @@ Claims:
 - the no-hit result is bounded coverage only and not absence evidence.  
 Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
 Confidence: **Very High**.
+
+## E-301 — 24 March 1916 Enterprise complete visual review and post-office proposal
+Type: Primary newspaper visual evidence / annual issue-level coverage / federal-planning context.  
+Source: `S-328`.  
+Claims:
+- all **8/8 pages** were visually inspected from original scans;
+- page 1 directly reports a proposed Oregon City post-office building: one story, 4,800 square feet, $55,000 construction estimate plus $10,000 for a site, reduced from the $100,000 Hawley bill amount;
+- the article gives no site or street address and does not prove site acquisition, construction, occupancy or relocation;
+- no page establishes a 501/503/505/505 1/2/507 Main target-premises event;
+- the target no-hit is bounded coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for the proposal wording and issue coverage; **NO SITE/MOVE/CONSTRUCTION INFERENCE**; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High** for the scan-visible proposal and page coverage.
+
+## E-302 — 31 March 1916 Enterprise complete visual review and cumulative checkpoint
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-329`.  
+Claims:
+- all **8/8 pages** were visually inspected from original scans;
+- no page establishes a 501/503/505/505 1/2/507 Main target-premises event;
+- Enterprise coverage advances to **114/426 through 31 March 1916**; combined coverage is **572/884**, with **312 Enterprise pages** uncertified;
+- the no-hit result is bounded coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High**.
