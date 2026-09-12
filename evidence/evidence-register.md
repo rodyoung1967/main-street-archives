@@ -3078,3 +3078,28 @@ Claims:
 - no exact 503 Main or 505 Main occupant, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy or other target-premises event is printed.
 Classification: **DOCUMENTED / DIRECT** for scan-visible controls and issue coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 503/505.  
 Confidence: **Very High** for printed wording and 8/8 page review.
+
+
+## E-297 — 25 February 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-324`.  
+Claims:
+- all **10/10 pages** of the 25 February 1916 *Oregon City Enterprise* were visually inspected from the original page scans;
+- the review screened exact target addresses and the established 503/505 person/business/license/building terms;
+- no page prints a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition;
+- the no-hit result is issue-level coverage only and must not be converted into evidence that a target premises was vacant, unused, closed, demolished, or absent.
+Classification: **DOCUMENTED / DIRECT** for 10/10 scan coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target addresses.  
+Confidence: **Very High** for page identity and visual coverage.
+
+## E-298 — 3 March 1916 Enterprise complete visual review and cumulative Enterprise checkpoint
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-325`.  
+Claims:
+- all **10/10 pages** of the 3 March 1916 *Oregon City Enterprise* were visually inspected from the original page scans;
+- page 1 contains prohibition/liquor-enforcement reporting concerning the Friars' Club; page 4 contains general real-estate-transfer material; pages 5-7 contain delinquent-tax lists; page 10 contains First National Bank advertising and broader prohibition/market/legal material;
+- none of those items supplies a source-explicit address/person/legal-description bridge establishing a 501/503/505/505 1/2/507 Main target-premises fact;
+- no page establishes a target occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other physical-building transition;
+- with 25 February also certified, Enterprise coverage advances from **60/426 through 18 February** to **80/426 through 3 March**; combined 1916 newspaper coverage is **538/884**, with **346 Enterprise pages** still uncertified;
+- the no-hit result is bounded coverage only and is not absence evidence.
+Classification: **DOCUMENTED / DIRECT** for 10/10 scan coverage and scan-visible context; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 501/503/505/507.  
+Confidence: **Very High** for page identity, page count, and visual coverage.
