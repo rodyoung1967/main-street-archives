@@ -2926,3 +2926,21 @@ Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-09/`.
 Source capture: `evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md`.  
 Related evidence: `E-312`.  
 Notes: All eight original page scans were visually inspected. Legal, real-estate-transfer, Main Street and Harding material supplies no exact target-premises bridge, and no page maps the late-May/2 June Jones Drug/Burmeister & Andresen relocation chain to 501/503/505/505½/507 Main. No-hit is bounded coverage, not vacancy evidence.
+
+## S-340 — Oregon City Enterprise, 16 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **16 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-16/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-16/`.  
+Source capture: `evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md`.  
+Related evidence: `E-313`.  
+Notes: All eight original page scans were visually inspected. Page 5 directly describes a $30,500 Main Street realty deal on the east side between Seventh and Eighth and says one small corner belonged to George A. Harding; this is non-target Harding property context only. No page establishes a source-explicit 501/503/505/505½/507 Main premises event. No-hit is bounded coverage, not vacancy evidence.
+
+## S-341 — Oregon City Enterprise, 23 June 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
+Publication/date: *Oregon City Enterprise*, **23 June 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-23/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-23/`.  
+Source capture: `evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md`.  
+Related evidence: `E-314`.  
+Notes: All eight original page scans were visually inspected. Page 1 describes Hawley paper-mill expansion and an option on the southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth, owned by James Tracy; this is nearby non-target parcel context only. No page establishes a source-explicit target-premises event.

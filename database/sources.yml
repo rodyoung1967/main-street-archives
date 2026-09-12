@@ -2358,3 +2358,20 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md"
     related_evidence: [E-312]
     notes: "No source-explicit target-premises event; no address bridge for the Jones Drug/Burmeister & Andresen relocation chain; no-hit is bounded coverage only."
+
+  - id: S-340
+    name: "Oregon City Enterprise, 16 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-16/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-16"
+    repository_file: "evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md"
+    related_evidence: [E-313]
+    notes: "Page 5 gives non-target Harding property context on Main between Seventh and Eighth; no source-explicit target-premises event."
+  - id: S-341
+    name: "Oregon City Enterprise, 23 June 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-23/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-06-23"
+    repository_file: "evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md"
+    related_evidence: [E-314]
+    notes: "Page 1 gives nearby Fourth/Fifth block Hawley expansion and James Tracy ownership context; no source-explicit target-premises event."

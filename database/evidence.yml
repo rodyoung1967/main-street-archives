@@ -4697,3 +4697,30 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md"
+
+  - id: E-313
+    name: "16 June 1916 Enterprise complete visual review and Harding non-target Main Street property control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 5 places a $30,500 Main Street transaction between Seventh and Eighth and says one small corner belonged to George A. Harding."
+      - "The Harding interest is non-target and must not be projected to 501/503/505/505½/507 Main."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-340]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md"
+  - id: E-314
+    name: "23 June 1916 Enterprise complete visual review and nearby Fourth/Fifth block development control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 1 describes proposed Hawley expansion and James Tracy ownership in the block bounded by Main, Southern Pacific tracks, Fourth and Fifth Streets."
+      - "That parcel is nearby non-target context and does not establish a target-premises event."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-341]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md"

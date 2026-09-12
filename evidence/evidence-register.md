@@ -3226,3 +3226,15 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. The issue includes legal, real-estate-transfer, construction, Main Street and George A. Harding material, but none supplies a source-explicit target-premises assignment. No inspected page provides a defensible address bridge connecting the late-May/2 June Jones Drug/Burmeister & Andresen relocation sequence to 501/503/505/505½/507 Main. This is coverage evidence only, not evidence of absence.  
 Source: `S-339`.  
 Confidence: Very High for issue-level visual coverage; no target-premises inference from the bounded no-hit.
+
+## E-313 — 16 June 1916 Enterprise complete visual review and Harding non-target Main Street property control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 directly reports a $30,500 Main Street real-estate transaction for property on the east side of Main between Seventh and Eighth and says one small corner belonged to George A. Harding. That Harding interest is outside the target Fifth/Sixth frontage and must not be projected onto 501/503/505/505½/507 Main. No page directly assigns a target occupant, owner, tenant, licensee, business name, sale/transfer, construction, demolition, closure or vacancy. No-hit is coverage evidence only.  
+Source: `S-340`.  
+Confidence: Very High for visual coverage and printed non-target property wording; no target-address inference.
+
+## E-314 — 23 June 1916 Enterprise complete visual review and nearby Fourth/Fifth block development control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 1 directly reports proposed Hawley paper-mill expansion and an option on the southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth Streets, owned by James Tracy of Gladstone, with existing improvements to be removed if the additional mill were built. This is nearby non-target spatial/property context only. No page directly assigns a target-premises event to 501/503/505/505½/507 Main.  
+Source: `S-341`.  
+Confidence: Very High for visual coverage and printed nearby-block wording; no target-address inference.
