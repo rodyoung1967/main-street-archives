@@ -2237,3 +2237,20 @@ sources:
     related_evidence: [E-298]
     notes: "All 10 original page PDFs visually inspected. Prohibition/liquor reporting, general real-estate transfers, delinquent-tax lists, and ordinary legal/business material are present, but no inspected item supplies a defensible 501/503/505/505 1/2/507 Main target-premises bridge. Bounded coverage only; no vacancy or absence inference."
 
+  - id: S-326
+    name: "Oregon City Enterprise, 10 March 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-10/ed-1/"
+    type: "Primary newspaper page scans; visually verified 10/10 pages"
+    date: "1916-03-10"
+    repository_file: "evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md"
+    related_evidence: [E-299]
+    notes: "All ten original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence."
+
+  - id: S-327
+    name: "Oregon City Enterprise, 17 March 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-17/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-03-17"
+    repository_file: "evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md"
+    related_evidence: [E-300]
+    notes: "All eight original pages visually inspected. Page 8 includes an I. Tolpolar county-expense listing and ordinary county/real-estate material, but no defensible target-premises bridge. Bounded coverage only, not absence evidence."

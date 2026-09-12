@@ -2798,3 +2798,23 @@ Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.
 Source capture: `evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md`.  
 Related evidence: `E-298`.  
 Notes: All ten original page PDFs were visually inspected. Prohibition/liquor reporting, general real-estate transfers, delinquent-tax lists, and ordinary legal/business material are present, but no inspected item supplies a defensible bridge to a 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only; no vacancy or absence inference.
+
+## S-326 — Oregon City Enterprise, 10 March 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **10 March 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-10/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-10/`; fetch manifest in the same directory.  
+Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.  
+Source capture: `evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md`.  
+Related evidence: `E-299`.  
+Notes: All ten original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence.
+
+## S-327 — Oregon City Enterprise, 17 March 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **17 March 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-17/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-17/`; fetch manifest in the same directory.  
+Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.  
+Source capture: `evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md`.  
+Related evidence: `E-300`.  
+Notes: All eight original pages visually inspected. Page 8 includes an I. Tolpolar county-expense listing and ordinary county/real-estate material, but no defensible target-premises bridge. Bounded coverage only, not absence evidence.

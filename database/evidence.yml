@@ -4505,3 +4505,30 @@ evidence:
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md"
 
+  - id: E-299
+    name: "10 March 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 10/10 pages were visually inspected from original scans."
+      - "No page prints a source-explicit 501/503/505/505 1/2/507 Main target-premises event."
+      - "The no-hit result is issue-level coverage only and not absence evidence."
+    confidence: "Very High"
+    related_sources: [S-326]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md"
+
+  - id: E-300
+    name: "17 March 1916 Enterprise complete visual review and cumulative checkpoint"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages were visually inspected from original scans."
+      - "Page 8 includes county-expense material naming I. Tolpolar plus real-estate-transfer/county-court material, but no exact target-address bridge."
+      - "No page establishes a 501/503/505/505 1/2/507 Main target-premises event."
+      - "Enterprise coverage advances to 98/426 through 17 March 1916; combined coverage is 556/884, with 328 Enterprise pages uncertified."
+      - "The no-hit result is bounded coverage only and not absence evidence."
+    confidence: "Very High"
+    related_sources: [S-327]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md"

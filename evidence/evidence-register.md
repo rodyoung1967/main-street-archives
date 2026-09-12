@@ -3104,3 +3104,25 @@ Claims:
 - the no-hit result is bounded coverage only and is not absence evidence.
 Classification: **DOCUMENTED / DIRECT** for 10/10 scan coverage and scan-visible context; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for 501/503/505/507.  
 Confidence: **Very High** for page identity, page count, and visual coverage.
+
+## E-299 — 10 March 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-326`.  
+Claims:
+- all **10/10 pages** were visually inspected from original scans;
+- no page prints a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy or other target-premises transition;
+- the no-hit result is issue-level coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High**.
+
+## E-300 — 17 March 1916 Enterprise complete visual review and cumulative checkpoint
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-327`.  
+Claims:
+- all **8/8 pages** were visually inspected from original scans;
+- page 8 includes county-expense material naming I. Tolpolar plus real-estate-transfer/county-court material, but no exact target-address bridge;
+- no page establishes a 501/503/505/505 1/2/507 Main occupant, proprietor, owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy or other target-premises event;
+- Enterprise coverage advances to **98/426 through 17 March 1916**; combined coverage is **556/884**, with **328 Enterprise pages** uncertified;
+- the no-hit result is bounded coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High**.
