@@ -2217,3 +2217,23 @@ sources:
     repository_file: "evidence/source-captures/1916-courier-august17-visual-review-2026-09-11.md"
     related_evidence: [E-296]
     notes: "Complete 8/8 visual review. Holman Fifth/Main; Electric Store 619 Main; Champion Smith & Telford 502 Main; Raasch & Lamb unnumbered. Page-3 505.00 is a Ford price, not 505 Main. No exact 503/505 premises assignment."
+
+  - id: S-324
+    name: "Oregon City Enterprise, 25 February 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-02-25/ed-1/"
+    type: "Primary newspaper page scans; visually verified 10/10 pages"
+    date: "1916-02-25"
+    repository_file: "evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md"
+    related_evidence: [E-297]
+    related_people: [P-001]
+    notes: "All 10 original page PDFs visually inspected. No source-explicit 501/503/505/505 1/2/507 Main target-premises event. Page 8 directly identifies George A. Harding as department commander of the G.A.R. of this city; this is person-level civic-role context only, not a target-premises relationship."
+
+  - id: S-325
+    name: "Oregon City Enterprise, 3 March 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-03/ed-1/"
+    type: "Primary newspaper page scans; visually verified 10/10 pages"
+    date: "1916-03-03"
+    repository_file: "evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md"
+    related_evidence: [E-298]
+    notes: "All 10 original page PDFs visually inspected. Prohibition/liquor reporting, general real-estate transfers, delinquent-tax lists, and ordinary legal/business material are present, but no inspected item supplies a defensible 501/503/505/505 1/2/507 Main target-premises bridge. Bounded coverage only; no vacancy or absence inference."
+
