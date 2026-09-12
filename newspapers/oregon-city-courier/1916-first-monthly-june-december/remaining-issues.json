@@ -1,9 +1,7 @@
 {
   "as_of": "2026-09-11",
   "total_pages": 458,
-  "reviewed_pages": 450,
-  "remaining_pages": 8,
-  "issues": [
-    {"date":"1916-12-28","pages":8,"remaining_pages":[1,2,3,4,5,6,7,8]}
-  ]
+  "reviewed_pages": 458,
+  "remaining_pages": 0,
+  "issues": []
 }
