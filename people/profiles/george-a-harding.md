@@ -17,6 +17,8 @@ A visually verified 10 January 1911 *Morning Enterprise* advertisement directly 
 
 George A. Harding is identified in the archive as a druggist and civic leader associated with the Harding Building and Harding Drug Store.
 
+A visually verified **25 February 1916** *Oregon City Enterprise* item on page 8 identifies **George A. Harding** as **department commander of the Grand Army of the Republic (G.A.R.) "of this city"** and reports that he attended a Portland council-of-administration meeting (`E-297` / `S-324`). This is direct civic-role evidence only. The item gives no street address and does not establish Harding Drug Store occupancy, building ownership, property ownership, tenancy, or any 503/505/507 Main relationship.
+
 The visually verified 13 July 1922 *Banner-Courier* now supplies direct contemporary newspaper evidence that a **Main Street property group belonged to George A. Harding** and had been sold to S. Wolf and C. Gates. The named store occupants were the Fifth Street Restaurant, Miller's shoe store, an adjoining barber shop, and the Red Front Clothing Store (`E-096`). This establishes a Harding property role in that specific group as reported by the newspaper; the deed, legal description, land-versus-improvement interest, and exact modern storefronts remain unresolved.
 
 That transaction must stay separate from Harding's own drug-store address and from the separately named Harding Building until direct mapping evidence connects them.
