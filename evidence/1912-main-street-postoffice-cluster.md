@@ -94,3 +94,9 @@ The full page/PDF should be downloaded into `newspapers/oregon-city-courier/` wh
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
 
 `S-292` / `E-266` now directly dates the later Post Office's **actual move to Fifth and Main to 15 April 1919** and describes its quarters as two adjoining store buildings combined into one room, with First National Bank and the Barlow-David heirs named as owners. The 1913 Block 26 assessment strongly aligns those owner names with Lots 6 and 5 respectively on the even side. This improves the later landmark used for 1921–22 `opposite Post Office` evidence but does not alter the separate circa-1912 Post Office hypothesis on this page.
+
+## 7 April 1916 postal-receipts operating checkpoint
+
+A visually verified **7 April 1916 Oregon City Enterprise, page 7** report (`S-330` / `E-303`) states that Postmaster **J. J. Cooke** reported Oregon City post-office receipts of **$5,095.95** for January–March 1916, compared with **$4,715.95** for the same three months in 1915, a **$380.00 increase**.
+
+This is a narrow operating-volume checkpoint only. The article gives **no post-office street address, parcel, building owner, lease, site acquisition, construction, or move statement**. It therefore does not identify the postal premises with 501/503/505/507 Main and does not alter the separate **24 March 1916 federal-building proposal**, **1918 lease/change-of-location**, or **15 April 1919 actual move** evidence.

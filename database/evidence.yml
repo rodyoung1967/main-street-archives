@@ -4560,3 +4560,34 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md"
+
+  - id: E-303
+    name: "7 April 1916 Enterprise complete visual review and post-office receipts"
+    type: "Primary newspaper visual evidence / annual issue-level coverage / postal-operation context"
+    claims:
+      - "All 8/8 pages were visually inspected from original scans."
+      - "Page 7 directly reports Postmaster J. J. Cooke and Oregon City post-office receipts of $5,095.95 for January-March 1916 versus $4,715.95 for the same months in 1915, a $380.00 increase."
+      - "The report prints no post-office street address or site and does not establish a move or target-premises relationship."
+      - "No page establishes a 501/503/505/505 1/2/507 Main target-premises event."
+      - "General page-8 real-estate/Harding-name material does not provide a defensible target bridge."
+      - "The no-hit result is bounded coverage only and not absence evidence."
+    confidence: "Very High"
+    related_sources: [S-330]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md"
+
+  - id: E-304
+    name: "14 April 1916 Enterprise complete visual review and cumulative checkpoint"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages were visually inspected from original scans."
+      - "No page establishes a 501/503/505/505 1/2/507 Main target-premises event."
+      - "General saloon/prohibition, Main Street, legal and business material does not supply a target-address or parcel bridge."
+      - "Enterprise coverage advances to 130/426 through 14 April 1916; combined coverage is 588/884, with 296 Enterprise pages uncertified."
+      - "The no-hit result is bounded coverage only and not absence evidence."
+    confidence: "Very High"
+    related_sources: [S-331]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md"

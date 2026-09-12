@@ -2272,3 +2272,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md"
     related_evidence: [E-302]
     notes: "All eight original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence."
+
+  - id: S-330
+    name: "Oregon City Enterprise, 7 April 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-07/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-04-07"
+    repository_file: "evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md"
+    related_evidence: [E-303]
+    notes: "All eight original pages visually inspected. Page 7 directly reports J. J. Cooke's first-quarter 1916 Oregon City post-office receipts of $5,095.95 versus $4,715.95 for the same 1915 months, but gives no address/site. No source-explicit target-premises event."
+
+  - id: S-331
+    name: "Oregon City Enterprise, 14 April 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-14/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-04-14"
+    repository_file: "evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md"
+    related_evidence: [E-304]
+    notes: "All eight original pages visually inspected; no source-explicit target-premises event. General saloon/prohibition, Main Street, legal and business material lacks a target-address or parcel bridge."

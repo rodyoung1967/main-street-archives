@@ -3149,3 +3149,28 @@ Claims:
 - the no-hit result is bounded coverage only and not absence evidence.  
 Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
 Confidence: **Very High**.
+
+## E-303 — 7 April 1916 Enterprise complete visual review and post-office receipts
+Type: Primary newspaper visual evidence / annual issue-level coverage / postal-operation context.  
+Source: `S-330`.  
+Claims:
+- all **8/8 pages** were visually inspected from original scans;
+- page 7 directly reports Postmaster **J. J. Cooke** and Oregon City post-office receipts of **$5,095.95** for January–March 1916 versus **$4,715.95** for the same months in 1915, a **$380.00** increase;
+- the receipt report prints no post-office street address or site and does not establish a move or target-premises relationship;
+- no page establishes a 501/503/505/505 1/2/507 Main target-premises event;
+- general page-8 real-estate/Harding-name material does not provide a defensible target bridge;
+- the target no-hit is bounded coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for page coverage and printed postal receipts; **NO ADDRESS/SITE INFERENCE** for the post office; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High**.
+
+## E-304 — 14 April 1916 Enterprise complete visual review and cumulative checkpoint
+Type: Primary newspaper visual evidence / annual issue-level coverage.  
+Source: `S-331`.  
+Claims:
+- all **8/8 pages** were visually inspected from original scans;
+- no page establishes a 501/503/505/505 1/2/507 Main target-premises event;
+- general saloon/prohibition, Main Street, legal and business material does not supply a target-address or parcel bridge;
+- Enterprise coverage advances to **130/426 through 14 April 1916**; combined coverage is **588/884**, with **296 Enterprise pages** uncertified;
+- the no-hit result is bounded coverage only and not absence evidence.  
+Classification: **DOCUMENTED / DIRECT** for page coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target frontage.  
+Confidence: **Very High**.

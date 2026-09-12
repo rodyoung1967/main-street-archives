@@ -2838,3 +2838,21 @@ Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.
 Source capture: `evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md`.  
 Related evidence: `E-302`.  
 Notes: All eight original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence.
+
+## S-330 — Oregon City Enterprise, 7 April 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **7 April 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-07/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-07/`.  
+Source capture: `evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md`.  
+Related evidence: `E-303`.  
+Notes: All eight original pages visually inspected. Page 7 directly reports J. J. Cooke's first-quarter 1916 Oregon City post-office receipts of $5,095.95 versus $4,715.95 in the same 1915 period, but gives no post-office address/site. No source-explicit target-premises event; page-8 real-estate/Harding-name material lacks a defensible target bridge.
+
+## S-331 — Oregon City Enterprise, 14 April 1916, complete issue visual review
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
+Publication/date: *Oregon City Enterprise*, **14 April 1916**, edition 1.  
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-14/ed-1/  
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-14/`.  
+Source capture: `evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md`.  
+Related evidence: `E-304`.  
+Notes: All eight original pages visually inspected; no source-explicit target-premises event. General saloon/prohibition, Main Street, legal and business material lacks a target-address or parcel bridge.
