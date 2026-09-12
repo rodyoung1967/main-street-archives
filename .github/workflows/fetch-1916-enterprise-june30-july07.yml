@@ -1,0 +1,69 @@
+name: Fetch 1916 Enterprise June 30 and July 7 visual bundle
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-1916-enterprise-june30-july07.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before fetch
+        run: python3 scripts/validate_archive.py
+      - name: Fetch original page PDFs
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, requests, time
+          s=requests.Session(); s.headers.update({'User-Agent':'main-street-archives annual visual audit'})
+          root=pathlib.Path('newspapers/oregon-city-enterprise/1916')
+          for date in ('1916-06-30','1916-07-07'):
+            out=root/date; out.mkdir(parents=True,exist_ok=True)
+            attempts=[]; saved=0
+            for seq in range(1,15):
+              url=f'https://oregonnews.uoregon.edu/lccn/sn00063700/{date}/ed-1/seq-{seq}.pdf'
+              row={'date':date,'edition':1,'sequence':seq,'url':url}
+              try:
+                r=s.get(url,timeout=90,allow_redirects=True)
+                row.update(status=r.status_code,content_type=r.headers.get('content-type',''),bytes=len(r.content),sha256=hashlib.sha256(r.content).hexdigest(),final_url=r.url)
+                if r.status_code==200 and r.content.startswith(b'%PDF'):
+                  name=f'{date}-page-{seq}.pdf'; (out/name).write_bytes(r.content); row['saved_as']=name; saved+=1
+              except Exception as e:
+                row['error']=repr(e)
+              attempts.append(row); time.sleep(.08)
+            (out/'fetch-manifest.json').write_text(json.dumps({'title':'Oregon City Enterprise','lccn':'sn00063700','date':date,'attempted_sequences':14,'saved_pages':saved,'attempts':attempts},indent=2)+'\n')
+          PY
+      - name: Validate archive after fetch
+        run: python3 scripts/validate_archive.py
+      - name: Upload visual-review bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1916-enterprise-june30-july07-visual-bundle
+          path: |
+            newspapers/oregon-city-enterprise/1916/1916-06-30/
+            newspapers/oregon-city-enterprise/1916/1916-07-07/
+          retention-days: 14
+      - name: Commit fetched scans
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1916/1916-06-30/ newspapers/oregon-city-enterprise/1916/1916-07-07/
+          if git diff --cached --quiet; then echo 'No fetch changes'; exit 0; fi
+          git commit -m 'Preserve Enterprise June 30 and July 7 1916 scans'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
