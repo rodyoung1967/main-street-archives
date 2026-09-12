@@ -38,4 +38,4 @@ jobs:
           done
           exit 1
 
-# retry with evidence-register schema fix
+# retry after synchronizing the v2 wrapper with the corrected base integration
