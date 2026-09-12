@@ -1,0 +1,38 @@
+name: Integrate 1916 Enterprise May 5 and May 12
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/integrate-1916-enterprise-may05-may12.yml'
+      - 'scripts/maintenance/integrate_1916_enterprise_may05_may12.py'
+permissions:
+  contents: write
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync latest main
+        run: git pull --rebase origin main
+      - name: Validate full archive before integration
+        run: python3 scripts/validate_archive.py
+      - name: Integrate reviewed issues and retrieval gap
+        run: python3 scripts/maintenance/integrate_1916_enterprise_may05_may12.py
+      - name: Validate full archive after integration
+        run: python3 scripts/validate_archive.py
+      - name: Commit and push
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add evidence/source-register.md evidence/evidence-register.md database/sources.yml database/evidence.yml registers/year-status.md evidence/source-captures/1916-online-audit-checkpoint.md
+          if git diff --cached --quiet; then echo 'No integration changes'; exit 0; fi
+          git commit -m 'Certify May 5 and partial May 12 1916 Enterprise reviews'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then exit 0; fi
+            sleep $((attempt*2))
+          done
+          exit 1
