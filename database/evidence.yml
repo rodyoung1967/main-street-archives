@@ -4473,3 +4473,35 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-courier-august17-visual-review-2026-09-11.md"
+
+  - id: E-297
+    name: "25 February 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 10/10 pages of the 25 February 1916 Oregon City Enterprise were visually inspected from the original page scans."
+      - "No page prints a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition."
+      - "Page 8 directly identifies George A. Harding as department commander of the G.A.R. 'of this city' and reports his attendance at a Portland council-of-administration meeting."
+      - "The Harding item is person-level civic-role evidence only and does not establish a street address, drug-store location, building/property ownership, tenancy, or 503/505/507 relationship."
+      - "The target-premises no-hit is issue-level coverage only and is not evidence of vacancy, non-use, closure, demolition, or absence."
+    confidence: "Very High for page identity, visual coverage, and the printed Harding civic-role wording"
+    related_sources: [S-324]
+    related_people: [P-001]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md"
+
+  - id: E-298
+    name: "3 March 1916 Enterprise complete visual review and cumulative Enterprise checkpoint"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 10/10 pages of the 3 March 1916 Oregon City Enterprise were visually inspected from the original page scans."
+      - "Page 1 contains prohibition/liquor-enforcement reporting concerning the Friars' Club; page 4 contains general real-estate-transfer material; pages 5-7 contain delinquent-tax lists; page 10 contains First National Bank advertising and broader prohibition/market/legal material."
+      - "None of those items supplies a source-explicit address/person/legal-description bridge establishing a 501/503/505/505 1/2/507 Main target-premises fact."
+      - "With 25 February also certified, Enterprise coverage is 80/426 through 3 March 1916; combined 1916 newspaper coverage is 538/884, with 346 Enterprise pages still uncertified."
+      - "The no-hit result is bounded coverage only and is not absence evidence."
+    confidence: "Very High for page identity and visual coverage"
+    related_sources: [S-325]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md"
+
