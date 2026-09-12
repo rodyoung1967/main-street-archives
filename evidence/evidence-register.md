@@ -3087,6 +3087,7 @@ Claims:
 - all **10/10 pages** of the 25 February 1916 *Oregon City Enterprise* were visually inspected from the original page scans;
 - the review screened exact target addresses and the established 503/505 person/business/license/building terms;
 - no page prints a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition;
+- page 8 directly identifies **George A. Harding** as department commander of the G.A.R. "of this city" and reports that he attended a Portland council-of-administration meeting; this is a person-level civic-role fact only and does not establish a street address, drug-store location, building/property ownership, tenancy, or 503/505/507 relationship;
 - the no-hit result is issue-level coverage only and must not be converted into evidence that a target premises was vacant, unused, closed, demolished, or absent.
 Classification: **DOCUMENTED / DIRECT** for 10/10 scan coverage; **COVERAGE ONLY / NO TARGET-PREMISES BRIDGE** for the target addresses.  
 Confidence: **Very High** for page identity and visual coverage.
