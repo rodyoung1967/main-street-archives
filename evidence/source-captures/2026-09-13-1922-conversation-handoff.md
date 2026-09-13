@@ -61,6 +61,8 @@ The connected GitHub write interface available in this conversation can create/u
 
 **Do not treat the image as intentionally omitted.** Under `AGENTS.md`, the project-steward-supplied image should be committed when a binary-capable repository path is available. Until then, this handoff preserves the attachment identity, dimensions, hashes, provenance context, and the technical reason the binary was not added.
 
+**Later resolution:** a binary-capable checkout became available later on 13 September 2026. The original supplied JPEG was preserved unchanged as `media/photos/main-street/IMG-0772_1922-p9594-501-503-505-zoom-steward-screenshot.jpg`, registered as `IMG-0772`, and linked as a working derivative of `S-239` / `E-213`. The preserved SHA-256 is `53a4ca00eabab2cebe14b36e1a54fe575c38ed6aabdda9e50eda16e51053b23f`.
+
 ### Evidence caution
 
 The zoom image is useful as photographic/structural evidence, but the conversation did not establish a new source-proven exact construction date merely from the crop. It should be interpreted alongside the full P-9594 photograph, the documented 1922 fire/rebuild evidence, deeds/tax records, and the 1925 Sanborn rather than used alone to collapse the building-continuity question.

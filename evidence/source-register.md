@@ -1896,8 +1896,8 @@ Date: **1922** Date made; description specifically says **Nov. 1922**.
 Repository image: `media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg`.  
 Capture: `evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fifth-main-2026-09-05.md`.  
 Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city  
-Related evidence/media: `E-213` / `IMG-0760`.  
-Notes: Broad bridge/downtown view. A light-toned Fifth/Main corner building is a strong cross-source candidate for the Gates fire-replacement documented under `E-097`, but exact 501/503/505 mapping remains unresolved.
+Related evidence/media: `E-213` / `IMG-0760`; steward-supplied working crop `IMG-0772`.
+Notes: Broad bridge/downtown view. The 13 September enlarged re-review supersedes the earlier 501+503-positive reading: Rodney identifies the light building as 501, an apparent intervening open/separated position as 503, and the shadowed substantial mass farther right as 505. This is a project-steward spatial interpretation, not proof of vacancy, exact construction date, or continuity. `P-9594` must not be cited as proving that 503 was rebuilt by November 1922.
 
 ## S-240 — 1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead
 <!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->

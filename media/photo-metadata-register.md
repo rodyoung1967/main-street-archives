@@ -1672,8 +1672,19 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Status: `committed`
 - Repository dimensions: **1909 × 851**; 311,884 bytes; SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`
 - Steward original: `Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City.jpg`; 1909×851; 311,884 bytes; SHA-256 `fe746669c983a2584104c68a00b2a26b25be6d6ccf71265828be2e12849d308d`
-- Visual note: light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the newly completed Gates fire-replacement (`E-097`), not direct proof of 501 alone or 501+503.
+- Visual note: the 13 September steward-guided enlarged reading identifies the light building as 501, an apparent intervening open/separated position as 503, and the substantial shadowed mass farther right as 505. This supersedes using the image as affirmative proof that 503 was rebuilt by November 1922; the apparent 503 gap and possible newer 505 structure remain working interpretations requiring corroboration.
 - Related source/evidence: `S-239` / `E-213`
+
+## IMG-0772 — Steward-supplied P-9594 501/503/505 zoom
+- Type: Project-steward screenshot / working-detail derivative of CCHS `P-9594`
+- Source attachment filename: `IMG_5749.jpeg`
+- Repository file: `media/photos/main-street/IMG-0772_1922-p9594-501-503-505-zoom-steward-screenshot.jpg`
+- Status: `committed`
+- Dimensions: **706 × 1536**; 183,943 bytes; SHA-256 `53a4ca00eabab2cebe14b36e1a54fe575c38ed6aabdda9e50eda16e51053b23f`
+- Provenance: supplied by Rodney Young on 13 September 2026 as the exact zoom used for the P-9594 frontage re-review.
+- Visual note: records the steward's identification of the light building as 501, apparent intervening 503 position, and shadowed substantial 505 mass. It is a derivative and creates no independent evidence beyond `IMG-0760`.
+- Related source/evidence: `S-239` / `E-213`
+- Interpretation capture: `evidence/source-captures/2026-09-13-cchs-p9594-1922-503-505-zoom-rereview.md`
 
 ## IMG-0761 — CCHS P-5577 1922 aerial view of Willamette Falls and Oregon City
 - Source/evidence/timeline: `S-241` / `E-215` / `T-089`

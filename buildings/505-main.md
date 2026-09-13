@@ -339,9 +339,9 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`), dated **1930–1939**,
 
 ### November 1922 CCHS P-9594 visual bridge
 
-CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) is described by the institution as a **November 1922** view. A light-toned building appears at/near the Fifth/Main corner candidate zone. Cross-checking the photograph against the August 1922 Gates construction reports makes it a **strong candidate for the newly completed Gates fire-replacement**.
+CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`; steward crop `IMG-0772`) is described by the institution as a **November 1922** view. In the 13 September steward-guided enlarged reading, the light building is 501, an apparent separation/open position is 503, and the substantial shadowed mass farther right is 505.
 
-This does **not** prove the replacement was this numbered address. In particular, the archive still cannot choose between a Gates footprint principally at later 501 and a two-bay 501+503 arrangement. The photograph is a new visual bridge, not an exact-address determination.
+That 505 mass is compatible with a newer or replacement structure by November 1922, but the image does not prove exact building identity, continuity to the later 505 structure, or construction date. It also does not resolve the July fire-origin address. Corroboration remains necessary.
 
 ### 1922 P-5577 aerial spatial context
 

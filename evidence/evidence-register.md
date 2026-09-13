@@ -1949,18 +1949,18 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for object identity/date and broad scene; **UNRESOLVED** for 503/505 sign transcription.  
 Confidence: **Very High** for institutional metadata and broad visual context; unresolved for target-sign text.
 
-## E-213 — November 1922 photograph provides a probable visual of the Fifth/Main Gates fire-replacement building
+## E-213 — November 1922 photograph constrains, but does not resolve, the 501/503/505 rebuilding sequence
 Source: `S-239`  
-Media: `IMG-0760`  
+Media: `IMG-0760`; steward-supplied crop `IMG-0772`
 Type: Primary historic photograph plus cross-source structural inference  
 Claims:
 - CCHS `P-9594` catalogs the scene as **Oregon City 1922 - Arch Bridge and Temporary Bridge 1922 Oregon City** and its description specifically dates the view to **Nov. 1922**.
-- Direct visual review shows the downtown commercial blocks and a conspicuously light-toned building at/near the Fifth/Main candidate zone.
+- Direct visual review shows the downtown commercial blocks. In the steward-guided enlarged reading, the light building is identified as 501, an apparent separation/open or low area immediately right as the 503 position, and the substantial shadowed mass farther right as 505.
 - `E-097` independently proves Gates was constructing a two-story hollow-tile Fifth/Main fire-replacement in August 1922, with occupancy projected around October 1.
-- The November timing and mapped corner context make the light-toned building a **strong cross-source candidate** for the newly completed Gates replacement.
-- The image does **not** prove that the replacement equals modern 501 alone, that 501 specifically was the July fire-destroyed building, or that Gates's two ground-floor rooms became the later 501+503 pair.
-Classification: **DOCUMENTED / DIRECT** for object/date/scene; **STRONG CROSS-SOURCE INFERENCE** for Gates-replacement identification; **UNRESOLVED** for exact modern-number footprint.  
-Confidence: **Very High** for CCHS object/date metadata and broad scene; **High** for the Gates-replacement visual candidate; unresolved for 501-vs-501+503 mapping.
+- The enlarged view is inconsistent with using this photograph as affirmative proof that a replacement 503 structure already stood in November 1922. If the apparent separation is truly the 503 frontage, the later 503 building arose after November 1922 and by the May 1925 Sanborn; that bracket remains hypothesis-dependent.
+- The image is compatible with a substantial newer/replacement 505 structure by November 1922, but does **not** prove building identity, continuity, vacancy at 503, an exact construction date, or which modern number contained the July fire origin.
+Classification: **DOCUMENTED / DIRECT** for object/date/broad scene; **PROJECT-STEWARD SPATIAL IDENTIFICATION** for the 501/503/505 mapping; **PROBABLE / WORKING HYPOTHESIS** for an apparent 503 gap and possible newer 505 structure; **UNRESOLVED CONFLICT** with any use of the City's c.1919 estimate as proof of the surviving 503 building.
+Confidence: **Very High** for CCHS object/date metadata and broad scene; unresolved for exact facade boundaries, building identity, construction chronology, and continuity.
 
 ## E-214 — 1943 page text places Fain's Men's Store at 511 Main; 1930s P-1043 mapping remains probable
 <!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->

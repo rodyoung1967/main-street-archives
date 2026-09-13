@@ -1382,9 +1382,9 @@ sources:
     type: Primary historic photograph with CCHS institutional catalog metadata
     date: "November 1922"
     repository_file: "media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg"
-    notes: "CCHS P-9594 bridge/downtown view. Light-toned Fifth/Main corner-zone building is a strong cross-source candidate for the Gates fire-replacement documented in E-097; exact 501/503/505 mapping remains unresolved."
+    notes: "CCHS P-9594 bridge/downtown view. The 13 September steward-guided enlarged reading identifies the light building as 501, an apparent intervening open/separated position as 503, and the shadowed substantial mass farther right as 505. This is spatial interpretation, not proof of vacancy, construction date, or continuity; do not cite the image as proving 503 was rebuilt by November 1922."
     related_evidence: [E-213]
-    related_media: [IMG-0760]
+    related_media: [IMG-0760, IMG-0772]
 
   - id: S-240
     name: "1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead"
