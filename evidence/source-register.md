@@ -2994,3 +2994,20 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-04/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md`  
 Related evidence: `E-320`.  
 Notes: Page 8 projects Hawley construction along Main to the alley between Fourth and Fifth, explicitly south of the Fifth–Sixth target block; no source-explicit target-premises event.
+
+
+## S-348 — Oregon City Enterprise, 11 August 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 11 August 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-11/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-august11-visual-review-2026-09-12.md`  
+Related evidence: `E-321`.  
+Notes: Larsen & Co. is explicitly at Tenth/Main; no source-explicit event for 501/503/505/505½/507 Main.
+
+## S-349 — Oregon City Enterprise, 18 August 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 18 August 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-18/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md`  
+Related evidence: `E-322`.  
+Notes: Larsen & Company is explicitly at Tenth/Main; page 7 prints 501 Division Street, an exact non-target control for bare-number 501 search hits. No target-premises event.

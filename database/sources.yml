@@ -2429,3 +2429,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md"
     related_evidence: [E-320]
     notes: "Hawley projected Main Street construction between Fourth and Fifth is explicitly south of the target block; no source-explicit target-premises event."
+
+
+  - id: S-348
+    name: "Oregon City Enterprise, 11 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-11/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-11"
+    repository_file: "evidence/source-captures/1916-enterprise-august11-visual-review-2026-09-12.md"
+    related_evidence: [E-321]
+    notes: "Exact Tenth/Main Larsen & Co. control; no source-explicit target-premises event."
+  - id: S-349
+    name: "Oregon City Enterprise, 18 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-18/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-18"
+    repository_file: "evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md"
+    related_evidence: [E-322]
+    notes: "Exact Tenth/Main business control and 501 Division Street non-target address-number control; no target-premises event."

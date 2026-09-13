@@ -3276,3 +3276,16 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 8 says erection of Hawley buildings along Main Street to the alley between Fourth and Fifth would probably begin early the next year. This is physical-development chronology south of Fifth Street, not a Fifth–Sixth target-block event. Page 5 again places Larsen & Co. at Tenth/Main. No inspected page directly supplies a target-premises event.  
 Source: `S-347`.  
 Confidence: Very High for visual coverage and printed block limits; no target-address inference.
+
+
+## E-321 — 11 August 1916 Enterprise complete visual review and Tenth/Main business control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Co. at Corner Tenth and Main Streets. No inspected page directly supplies a target-premises event.  
+Source: `S-348`.  
+Confidence: Very High for visual coverage and exact non-target location.
+
+## E-322 — 18 August 1916 Enterprise complete visual review and non-target address controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main. Page 7 prints 501 Division Street, showing that a bare OCR/search hit for 501 is not a target Main Street address. No inspected page directly supplies a target-premises event.  
+Source: `S-349`.  
+Confidence: Very High for visual coverage and exact non-target location/address controls.

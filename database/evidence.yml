@@ -4808,3 +4808,30 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md"
+
+
+  - id: E-321
+    name: "11 August 1916 Enterprise complete visual review and Tenth/Main business control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 5 places Larsen & Co. at Corner Tenth and Main Streets."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-348]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-august11-visual-review-2026-09-12.md"
+  - id: E-322
+    name: "18 August 1916 Enterprise complete visual review and non-target address controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 5 places Larsen & Company at Tenth/Main."
+      - "Page 7 prints 501 Division Street, an exact non-target control for bare-number 501 search hits."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-349]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md"
