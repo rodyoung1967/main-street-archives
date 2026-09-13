@@ -5012,3 +5012,45 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md"
+
+
+  - id: E-336
+    name: "24 November 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Recurring non-target Main Street controls and printed transfer material checked."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-363]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-november24-visual-review-2026-09-13.md"
+
+
+  - id: E-337
+    name: "1 December 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Recurring non-target Main Street controls and printed transfer material checked."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-364]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-december01-visual-review-2026-09-13.md"
+
+
+  - id: E-338
+    name: "8 December 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Recurring non-target Main Street controls and printed transfer material checked."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-365]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md"

@@ -2563,3 +2563,33 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md"
     related_evidence: [E-335]
     notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-363
+    name: "Oregon City Enterprise, 24 November 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-24/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-11-24"
+    repository_file: "evidence/source-captures/1916-enterprise-november24-visual-review-2026-09-13.md"
+    related_evidence: [E-336]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-364
+    name: "Oregon City Enterprise, 1 December 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-01/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-12-01"
+    repository_file: "evidence/source-captures/1916-enterprise-december01-visual-review-2026-09-13.md"
+    related_evidence: [E-337]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-365
+    name: "Oregon City Enterprise, 8 December 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-08/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-12-08"
+    repository_file: "evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md"
+    related_evidence: [E-338]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."

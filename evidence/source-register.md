@@ -3121,3 +3121,30 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-17/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md`  
 Related evidence: `E-335`.  
 Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
+
+
+## S-363 — Oregon City Enterprise, 24 November 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 24 November 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-24/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-november24-visual-review-2026-09-13.md`  
+Related evidence: `E-336`.  
+Notes: Page 2 contains real-estate-transfer coverage; page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
+
+
+## S-364 — Oregon City Enterprise, 1 December 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 1 December 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-01/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-december01-visual-review-2026-09-13.md`  
+Related evidence: `E-337`.  
+Notes: Page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. Page 3 required a clean re-render after the first local PNG was unreadable. No source-explicit target-premises event.
+
+
+## S-365 — Oregon City Enterprise, 8 December 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 8 December 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-08/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md`  
+Related evidence: `E-338`.  
+Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 contains real-estate-transfer coverage and repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.

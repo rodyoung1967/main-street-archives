@@ -3373,3 +3373,24 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Recurring non-target Main Street controls and printed transfer material were checked. No inspected page directly supplies a target-premises event.  
 Source: `S-362`.  
 Confidence: Very High for visual coverage; no-hit is bounded issue coverage only.
+
+
+## E-336 — 24 November 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 2 contains real-estate-transfer coverage; page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No inspected page directly supplies a target-premises event.  
+Source: `S-363`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-337 — 1 December 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. Page 3 required a clean re-render after the first local PNG was unreadable. No inspected page directly supplies a target-premises event.  
+Source: `S-364`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-338 — 8 December 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 contains real-estate-transfer coverage and repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No inspected page directly supplies a target-premises event.  
+Source: `S-365`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
