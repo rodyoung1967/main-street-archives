@@ -1,0 +1,69 @@
+name: Search 1922 September-December target OCR
+
+on:
+  push:
+    paths:
+      - '.github/workflows/search-1922-september-december-targets.yml'
+  workflow_dispatch:
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            newspapers/banner-courier/1922-09/ocr
+            newspapers/banner-courier/1922-10/ocr
+            newspapers/banner-courier/1922-11/ocr
+            newspapers/banner-courier/1922-12/ocr
+            newspapers/oregon-city-enterprise/1922-09/ocr
+            newspapers/oregon-city-enterprise/1922-10/ocr
+            newspapers/oregon-city-enterprise/1922-11/ocr
+            newspapers/oregon-city-enterprise/1922-12/ocr
+          sparse-checkout-cone-mode: false
+          fetch-depth: 1
+      - name: Search project target terms
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          roots=[Path('newspapers/banner-courier'), Path('newspapers/oregon-city-enterprise')]
+          pats=[
+            r'\b501\b', r'\b503\b', r'\b505\b', r'505\s*(?:1/2|½)',
+            r'Fifth\s+Street\s+Restaurant', r'Fifth\s+(?:and|&)\s+Main',
+            r'Leland', r'Little', r'Timms?', r'pool\s*hall', r'billiard',
+            r'S\.?\s*Wolf', r'Gates', r'Junken', r'Schieremann',
+            r'Quality\s+(?:Cafe|Restaurant)', r'Kwality', r'George\s+Newton',
+            r'new\s+building', r'new\s+store', r'brick\s+building', r'hollow\s*tile',
+            r'barber\s+shop', r'fire', r'rebuild', r'remodel', r'construction'
+          ]
+          rx=re.compile('|'.join(f'(?:{p})' for p in pats), re.I)
+          out=[]
+          for root in roots:
+            for month in ['1922-09','1922-10','1922-11','1922-12']:
+              d=root/month/'ocr'
+              if not d.exists():
+                continue
+              for p in sorted(d.glob('*.txt')):
+                text=p.read_text(errors='replace')
+                lines=text.splitlines()
+                hits=[]
+                for i,line in enumerate(lines):
+                  if rx.search(line):
+                    lo=max(0,i-1); hi=min(len(lines),i+2)
+                    hits.append((i+1,' '.join(lines[lo:hi]).strip()))
+                if hits:
+                  out.append(f'## {p}\n')
+                  for ln,ctx in hits[:50]:
+                    out.append(f'- L{ln}: {ctx}\n')
+          Path('1922-sep-dec-target-ocr-hits.md').write_text('\n'.join(out) if out else 'NO HITS\n')
+          PY
+      - name: Upload target-hit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1922-sep-dec-target-ocr-hits
+          path: 1922-sep-dec-target-ocr-hits.md
+          retention-days: 14
