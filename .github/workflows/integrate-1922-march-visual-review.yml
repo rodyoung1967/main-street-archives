@@ -1,0 +1,60 @@
+name: Integrate 1922 March visual review
+
+on:
+  push:
+    paths:
+      - '.github/workflows/integrate-1922-march-visual-review.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          sparse-checkout: |
+            newspapers/banner-courier/1922-03/manifest.json
+            newspapers/oregon-city-enterprise/1922-03/manifest.json
+            registers/year-status.md
+          sparse-checkout-cone-mode: false
+      - name: Update March certification records
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          for p in [
+              Path('newspapers/banner-courier/1922-03/manifest.json'),
+              Path('newspapers/oregon-city-enterprise/1922-03/manifest.json'),
+          ]:
+              data=json.loads(p.read_text())
+              data['status']='VISUALLY VERIFIED — all original page scans inspected'
+              p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + '\n')
+
+          p=Path('registers/year-status.md')
+          text=p.read_text()
+          old='| 1922 | **IN PROGRESS** | `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`; `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` | **January–February are now VISUALLY VERIFIED: 16 issues / 142 pages** across Enterprise and Banner-Courier, with no retrieval gaps. Verified findings include Freeze at 505½, the 1922 pool-room ordinance sequence and a controlled May & Washburn/Scripture association; none identifies the July fire-adjacent hall. March–December page-level visual audit, remaining annual inventory/recovery work, other online source classes and formal closeout remain unfinished. P-9594 crop `IMG-0772` and its corrected 501/apparent-503-gap/shadowed-505 interpretation remain controlling. Neither fire model is selected. |'
+          new='| 1922 | **IN PROGRESS** | `evidence/source-captures/1922-march-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`; `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` | **January–March are now VISUALLY VERIFIED: 26 issues / 234 pages** across Enterprise and Banner-Courier, with no page-level retrieval gaps identified in those months. March newly confirms S. F. Scripture operating at 108 Fifth St., between Main and Water, by 2 March 1922, repeated 9 and 16 March; this is business-location evidence only and does not identify the July fire-adjacent pool hall or establish property/building identity. April–December page-level visual audit, remaining annual inventory/recovery work, other online source classes and formal closeout remain unfinished. P-9594 crop `IMG-0772` and its corrected 501/apparent-503-gap/shadowed-505 interpretation remain controlling. Neither fire model is selected. |'
+          if old not in text:
+              raise SystemExit('Expected 1922 year-status row not found; refusing to overwrite a changed parallel version')
+          p.write_text(text.replace(old,new,1))
+          PY
+      - name: Validate archive
+        run: python3 scripts/validate_archive.py
+      - name: Commit only intended files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add newspapers/banner-courier/1922-03/manifest.json newspapers/oregon-city-enterprise/1922-03/manifest.json registers/year-status.md
+          git diff --cached --check
+          git commit -m 'Certify March 1922 newspaper review'
+          git pull --rebase origin main
+          git push origin HEAD:main
