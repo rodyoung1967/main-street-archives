@@ -10,4 +10,8 @@ s = s.replace(
     "('**201 Enterprise pages remain uncertified**', '**185 Enterprise pages remain uncertified**'),",
     "('- Enterprise pages remaining uncertified: **201**', '- Enterprise pages remaining uncertified: **185**'),"
 )
+s = s.replace(
+    "('next ordinary unreviewed issue is **14 July 1916**', 'next ordinary unreviewed issue is **28 July 1916**'),",
+    "('The next ordinary unreviewed Enterprise issue is **14 July 1916**', 'The next ordinary unreviewed Enterprise issue is **28 July 1916**'),"
+)
 exec(compile(s, str(path), 'exec'))
