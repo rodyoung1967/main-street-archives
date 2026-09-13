@@ -17,6 +17,8 @@ jobs:
             newspapers/oregon-city-enterprise/1922-03
           sparse-checkout-cone-mode: false
           fetch-depth: 1
+      - name: Install renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
       - name: Render March 1922 newspaper PDFs
         shell: bash
         run: |
