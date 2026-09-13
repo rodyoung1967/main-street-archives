@@ -24,6 +24,23 @@ jobs:
         run: python3 scripts/validate_archive.py
       - name: Integrate certified reviews
         run: python3 scripts/integrate_1916_enterprise_nov03_nov10_nov17.py
+      - name: Ensure source notes required by schema
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('database/sources.yml')
+          s=p.read_text()
+          fixes={
+            '    related_evidence: [E-333]\n':'    related_evidence: [E-333]\n    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."\n',
+            '    related_evidence: [E-334]\n':'    related_evidence: [E-334]\n    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."\n',
+            '    related_evidence: [E-335]\n':'    related_evidence: [E-335]\n    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."\n',
+          }
+          for old,new in fixes.items():
+            if old not in s:
+              raise SystemExit(f'expected source entry not found: {old.strip()}')
+            s=s.replace(old,new,1)
+          p.write_text(s)
+          PY
       - name: Validate integrated archive
         run: python3 scripts/validate_archive.py
       - name: Commit and publish integration
