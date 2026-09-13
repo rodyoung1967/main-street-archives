@@ -3289,3 +3289,16 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main. Page 7 prints 501 Division Street, showing that a bare OCR/search hit for 501 is not a target Main Street address. No inspected page directly supplies a target-premises event.  
 Source: `S-349`.  
 Confidence: Very High for visual coverage and exact non-target location/address controls.
+
+
+## E-323 — 25 August 1916 Enterprise complete visual review and Tenth/Main control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Corner Tenth and Main Streets. Page 8 real-estate-transfer coverage was visually inspected and supplies no source-explicit target-block transfer. No inspected page directly supplies a target-premises event.  
+Source: `S-350`.  
+Confidence: Very High for visual coverage and exact non-target location; no-hit is bounded issue coverage only.
+
+## E-324 — 1 September 1916 Enterprise complete visual review and non-target Main Street controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main. Page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street, explicitly south of the target Fifth–Sixth block. Page 8 transfer coverage supplies no source-explicit target-block transfer. No inspected page directly supplies a target-premises event.  
+Source: `S-351`.  
+Confidence: Very High for visual coverage and printed geographic controls; no target-address inference.

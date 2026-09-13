@@ -3011,3 +3011,20 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-18/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md`  
 Related evidence: `E-322`.  
 Notes: Larsen & Company is explicitly at Tenth/Main; page 7 prints 501 Division Street, an exact non-target control for bare-number 501 search hits. No target-premises event.
+
+
+## S-350 — Oregon City Enterprise, 25 August 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 25 August 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-25/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-august25-visual-review-2026-09-12.md`  
+Related evidence: `E-323`.  
+Notes: Page 5 places Larsen & Company at Tenth/Main; page 8 real-estate-transfer coverage was visually reviewed. No source-explicit target-premises event.
+
+## S-351 — Oregon City Enterprise, 1 September 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 1 September 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md`  
+Related evidence: `E-324`.  
+Notes: Page 5 places Larsen & Company at Tenth/Main; page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main, explicitly south of the target block; page 8 transfer coverage was visually reviewed. No target-premises event.

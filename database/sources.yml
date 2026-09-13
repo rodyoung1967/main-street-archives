@@ -2447,3 +2447,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md"
     related_evidence: [E-322]
     notes: "Exact Tenth/Main business control and 501 Division Street non-target address-number control; no target-premises event."
+
+
+  - id: S-350
+    name: "Oregon City Enterprise, 25 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-25/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-25"
+    repository_file: "evidence/source-captures/1916-enterprise-august25-visual-review-2026-09-12.md"
+    related_evidence: [E-323]
+    notes: "Exact Tenth/Main Larsen & Company control; page 8 transfer coverage visually reviewed; no source-explicit target-premises event."
+  - id: S-351
+    name: "Oregon City Enterprise, 1 September 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-09-01"
+    repository_file: "evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md"
+    related_evidence: [E-324]
+    notes: "Tenth/Main Larsen control and Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
