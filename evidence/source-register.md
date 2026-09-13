@@ -3028,3 +3028,20 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md`  
 Related evidence: `E-324`.  
 Notes: Page 5 places Larsen & Company at Tenth/Main; page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main, explicitly south of the target block; page 8 transfer coverage was visually reviewed. No target-premises event.
+
+
+## S-352 — Oregon City Enterprise, 8 September 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 8 September 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-08/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-september08-visual-review-2026-09-12.md`  
+Related evidence: `E-325`.  
+Notes: Page 4 transfer coverage was visually reviewed; page 5 places Larsen & Company at Tenth/Main; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
+
+## S-353 — Oregon City Enterprise, 15 September 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 15 September 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-15/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-september15-visual-review-2026-09-12.md`  
+Related evidence: `E-326`.  
+Notes: Page 1 places a riverfront improvement at Twelfth; page 5 repeats Larsen & Company at Tenth/Main; page 7 transfer coverage was visually reviewed and repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.

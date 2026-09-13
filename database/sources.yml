@@ -2465,3 +2465,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md"
     related_evidence: [E-324]
     notes: "Tenth/Main Larsen control and Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
+
+
+  - id: S-352
+    name: "Oregon City Enterprise, 8 September 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-08/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-09-08"
+    repository_file: "evidence/source-captures/1916-enterprise-september08-visual-review-2026-09-12.md"
+    related_evidence: [E-325]
+    notes: "Page 4 transfer coverage reviewed; Tenth/Main Larsen control and Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
+  - id: S-353
+    name: "Oregon City Enterprise, 15 September 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-15/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-09-15"
+    repository_file: "evidence/source-captures/1916-enterprise-september15-visual-review-2026-09-12.md"
+    related_evidence: [E-326]
+    notes: "Twelfth Street control; Tenth/Main Larsen control; page 7 transfer coverage and Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
