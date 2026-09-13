@@ -1,7 +1,7 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **13 September 2026** — converted three exhausted 1916 online-first gaps into year-closeout manual callouts `MF-061`–`MF-063`; no existing MF ID was renumbered or removed.
+Last amended: **13 September 2026** — converted exhausted 1916 online gaps into year-closeout manual callouts `MF-061`–`MF-065`; no existing MF ID was renumbered or removed.
 
 ## 1916 ONLINE-CLOSEOUT manual work created 13 September 2026
 
@@ -18,6 +18,14 @@ These three items have completed reasonable public-online recovery and are no lo
 ### MF-063 — Polk 1915–1916 Oregon City gazetteer/business-directory section
 
 **Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Retrieve and visually inspect the Oregon City section of R. L. Polk & Co., *Oregon and Washington State Gazetteer and Business Directory, 1915–1916*. FamilySearch catalog `1439422` and all four image ARKs are known, but no unrestricted public mirror exposing the Oregon City pages was recovered. Use FamilySearch Center/affiliate access first; Spokane Public Library Inland Northwest Special Collections (`NW 917.9 OREGON`, barcode `37413310824562`) is a physical fallback. Check target names/business classes and address-bearing listings relevant to 501/503/503½/505/507/509/511 Main.
+
+### MF-064 — 1916 Morning Enterprise microfilm review
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Review the 1916 *Morning Enterprise* daily on microfilm. University of Oregon confirms the title continued 1911–1933 and was issued on microfilm, but Oregon City's digitization project exposes the public online run only through 23 December 1913. Oregon Historical Society's microfilm inventory holds *Morning Enterprise*, June 8, 1911–Nov. 2, 1933, Cabinet I, Drawer 5. Search target addresses, Fifth/Main, occupants/businesses, moves, construction/demolition, pool/billiard/cigar/soft-drink activity, property transactions, Harding and Hylton.
+
+### MF-065 — Clackamas County 1916 Tax List
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Inspect the physical **Clackamas County Tax List, 1916 (1 volume)** identified by the Oregon State Archives county-records inventory at the Museum of the Oregon Territory, Halon Room. Target Original Oregon City Block 4 Lots 3–4, G. A. Harding and other owners/agents, valuations/improvements/transfers, and address/parcel linkage relevant to 501/503/503½/505/507 Main. No public online 1916 page images were identified.
 
 ## 1917 ONLINE COMPLETE — remaining manual work
 

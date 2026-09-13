@@ -92,6 +92,8 @@ The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all
 
 Three formerly open online-first tasks are now closed as online recovery work and converted to numbered year-closeout manual callouts: `MF-061` (12 May weekly Enterprise page 8), `MF-062` (Sohns & Woodbeck 1916–1917 Oregon City directory), and `MF-063` (Polk 1915–1916 Oregon City gazetteer/business-directory section). See `1916-online-gap-closure-manual-callouts-2026-09-13.md`. These conversions satisfy the online-recovery portion for those sources without claiming the sources were obtained.
 
+The 1916 *Morning Enterprise* daily is now classified as manual-only for 1916 (`MF-064`): the title survives on microfilm through 1933, but the public digitized Oregon City run ends in 1913. The Clackamas County **1916 Tax List** is likewise classified as physical/manual (`MF-065`) based on the Oregon State Archives county inventory. The Sanborn/fire-insurance-map class is closed for 1916-specific online retrieval: the public Oregon City series brackets 1916 with 1911 and 1925 editions and exposes no 1916 Sanborn edition. See `1916-source-class-closure-morning-enterprise-tax-sanborn-2026-09-13.md`.
+
 The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
 Related current records:
