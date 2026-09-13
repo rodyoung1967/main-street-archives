@@ -3341,3 +3341,16 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising. Page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street. Page 8 real-estate-transfer coverage supplies no source-explicit target-block transfer. No inspected page directly supplies a target-premises event.  
 Source: `S-357`.  
 Confidence: Very High for visual coverage and printed geographic controls; no target-address inference.
+
+
+## E-331 — 20 October 1916 Enterprise complete visual review and repeated non-target Main Street controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising. Page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street. Page 8 real-estate-transfer coverage supplies no source-explicit target-block transfer. No inspected page directly supplies a target-premises event.  
+Source: `S-358`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+## E-332 — 27 October 1916 Enterprise complete visual review and repeated non-target Main Street controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising. Page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street. Page 8 real-estate-transfer coverage supplies no source-explicit target-block transfer. No inspected page directly supplies a target-premises event.  
+Source: `S-359`.  
+Confidence: Very High for visual coverage and printed geographic controls; no target-address inference.
