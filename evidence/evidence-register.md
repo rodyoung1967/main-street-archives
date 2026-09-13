@@ -3251,3 +3251,16 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. DeNike & Martin is again at Water/Fifth; Larsen & Co. is explicitly at Tenth/Main; Miller & Obst is explicitly at Seventh/Main. Page 3 distinguishes the Hotel Belle/Willamette business-interest transition from Isaac Gratton building ownership and the Weinhard lease/sublease chain, but gives no target-address bridge. No inspected page directly supplies a target-premises event.  
 Source: `S-343`.  
 Confidence: Very High for visual coverage and printed non-target controls; no target-address inference.
+
+
+## E-317 — 14 July 1916 Enterprise complete visual review and same-block construction control
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 4 lists Mary E. Barlow and J. W. David on Main Street between Fifth and Sixth with improvements to a store building costing $500, but no street number is printed. Larsen & Co. is explicitly at Tenth/Main and A. H. Buckles at Eleventh/Main. No inspected page directly supplies a target-premises event.  
+Source: `S-344`.  
+Confidence: Very High for visual coverage and printed wording; block-level construction context is not assigned to a target number.
+
+## E-318 — 21 July 1916 Enterprise complete visual review and federal-building status update
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 1 says prospects for an Oregon City federal building had brightened after inclusion of $75,000 for site purchase and construction and says Postmaster J. J. Cooke had reported on several tentative locations. The article identifies no selected or tentative site by address, intersection, owner, legal description, or building, so it supplies no bridge to 501/503/505/505½/507 Main.  
+Source: `S-345`.  
+Confidence: Very High for visual coverage and printed federal-building chronology; no target-site inference.

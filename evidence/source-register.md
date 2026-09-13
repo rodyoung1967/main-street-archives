@@ -2961,3 +2961,20 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-07/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md`  
 Related evidence: `E-316`.  
 Notes: Exact non-target controls include Water/Fifth, Tenth/Main and Seventh/Main; Hotel Belle/Willamette relationship chain is not assigned to a target address. No source-explicit target-premises event.
+
+
+## S-344 — Oregon City Enterprise, 14 July 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 14 July 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-14/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md`  
+Related evidence: `E-317`.  
+Notes: Page 4 gives same-block Main-between-Fifth-and-Sixth store-building improvement context without an exact number; Larsen & Co. is explicitly at Tenth/Main. No source-explicit target-premises event.
+
+## S-345 — Oregon City Enterprise, 21 July 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 21 July 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-21/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md`  
+Related evidence: `E-318`.  
+Notes: Page 1 reports the $75,000 federal-building appropriation proposal and multiple tentative Oregon City sites, but identifies no site or target-address bridge.

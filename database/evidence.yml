@@ -4752,3 +4752,31 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md"
+
+
+  - id: E-317
+    name: "14 July 1916 Enterprise complete visual review and same-block construction control"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 4 lists Mary E. Barlow and J. W. David on Main Street between Fifth and Sixth with improvements to a store building costing $500, without a street number."
+      - "Explicit non-target controls place Larsen & Co. at Tenth/Main and A. H. Buckles at Eleventh/Main."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-344]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md"
+  - id: E-318
+    name: "21 July 1916 Enterprise complete visual review and federal-building status update"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 1 reports $75,000 for site purchase and federal-building construction and says several tentative Oregon City locations had been evaluated."
+      - "No selected or tentative site is identified by address, intersection, owner, legal description, or building."
+      - "No evidentiary bridge to 501/503/505/505½/507 Main is supplied."
+    confidence: "Very High"
+    related_sources: [S-345]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md"
