@@ -1,0 +1,43 @@
+name: Render 1922 June newspapers
+
+on:
+  push:
+    paths:
+      - '.github/workflows/render-1922-june-newspapers.yml'
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            newspapers/banner-courier/1922-06
+            newspapers/oregon-city-enterprise/1922-06
+          sparse-checkout-cone-mode: false
+          fetch-depth: 1
+      - name: Install renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Render June 1922 newspaper PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p rendered/banner-courier rendered/oregon-city-enterprise
+          for title in banner-courier oregon-city-enterprise; do
+            for pdf in newspapers/$title/1922-06/*.pdf; do
+              base=$(basename "$pdf" .pdf)
+              pdftoppm -f 1 -singlefile -jpeg -jpegopt quality=90 -r 140 "$pdf" "rendered/$title/$base"
+            done
+          done
+          find rendered -type f -name '*.jpg' | sort > rendered-inventory.txt
+          echo "banner=$(find rendered/banner-courier -type f -name '*.jpg' | wc -l)"
+          echo "enterprise=$(find rendered/oregon-city-enterprise -type f -name '*.jpg' | wc -l)"
+      - name: Upload June render bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1922-june-newspaper-renders
+          path: |
+            rendered/
+            rendered-inventory.txt
+          retention-days: 14
