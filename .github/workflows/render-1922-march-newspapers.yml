@@ -1,0 +1,62 @@
+name: Render 1922 March newspapers
+
+on:
+  push:
+    paths:
+      - '.github/workflows/render-1922-march-newspapers.yml'
+  workflow_dispatch:
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Render preserved March 1922 newspaper PDFs
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p rendered/banner-courier rendered/oregon-city-enterprise
+          for title in banner-courier oregon-city-enterprise; do
+            for pdf in newspapers/$title/1922-03/*.pdf; do
+              base=$(basename "$pdf" .pdf)
+              pdftoppm -f 1 -singlefile -jpeg -jpegopt quality=88 -r 120 "$pdf" "rendered/$title/$base"
+            done
+          done
+          python3 - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageOps, ImageDraw
+          for title in ('banner-courier','oregon-city-enterprise'):
+              files=sorted((Path('rendered')/title).glob('*.jpg'))
+              thumbs=[]
+              for p in files:
+                  im=Image.open(p).convert('L')
+                  im.thumbnail((760,1060))
+                  canvas=Image.new('L',(800,1120),'white')
+                  canvas.paste(im,((800-im.width)//2,35))
+                  d=ImageDraw.Draw(canvas)
+                  d.text((20,10),p.stem,fill='black')
+                  thumbs.append(canvas)
+              outdir=Path('contact-sheets')/title
+              outdir.mkdir(parents=True,exist_ok=True)
+              for i in range(0,len(thumbs),4):
+                  page=Image.new('L',(1600,2240),'white')
+                  for j,im in enumerate(thumbs[i:i+4]):
+                      x=(j%2)*800; y=(j//2)*1120
+                      page.paste(im,(x,y))
+                  page.save(outdir/f'sheet-{i//4+1:02d}.jpg',quality=90)
+          PY
+      - name: Inventory rendered files
+        run: |
+          find rendered -type f | sort > rendered-inventory.txt
+          wc -l rendered/banner-courier/*.jpg rendered/oregon-city-enterprise/*.jpg | tail -1
+      - name: Upload March render bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: 1922-march-newspaper-renders
+          path: |
+            rendered/
+            contact-sheets/
+            rendered-inventory.txt
+          retention-days: 14
