@@ -90,6 +90,8 @@ Current newspaper coverage:
 
 The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. Bounded recovery attempts for the 12 May page-8 anomaly did not recover a replacement weekly page, so the gap is explicitly carried forward. The complete **19 May** and **26 May** issues are now **8/8 visually verified**. The complete **16 June** and **23 June** issues are now **8/8 visually verified**. All ordinary 1916 Enterprise issue dates are now visually reviewed through **29 December 1916**; the only uncertified Enterprise page is the true **12 May weekly page 8** retrieval gap.
 
+Three formerly open online-first tasks are now closed as online recovery work and converted to numbered year-closeout manual callouts: `MF-061` (12 May weekly Enterprise page 8), `MF-062` (Sohns & Woodbeck 1916–1917 Oregon City directory), and `MF-063` (Polk 1915–1916 Oregon City gazetteer/business-directory section). See `1916-online-gap-closure-manual-callouts-2026-09-13.md`. These conversions satisfy the online-recovery portion for those sources without claiming the sources were obtained.
+
 The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
 Related current records:

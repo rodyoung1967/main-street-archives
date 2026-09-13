@@ -81,3 +81,8 @@ This directory is likely the best surviving single source for resolving the 1916
 The Oak Lodge History Detectives download is now classified as an **out-of-scope excerpt**, not a possible copy of the missing Oregon City pages. The site states that it scanned only the Oak Grove and Jennings Lodge portions, and the direct PDF currently produces a self-redirect loop. FamilySearch image rendering remains restricted/timed out, and the Oregon Historical Society physical copy remains the strongest retrieval route.
 
 Under the project research standard this remains a **RETRIEVAL GAP**, not negative evidence. Do **not** infer the 503 or 505 occupant from the directory's existence, OCR, later quotations, or failed retrieval. Promote an occupant claim only after the actual directory page has been visually inspected.
+
+
+## 13 September 2026 online-closeout disposition
+
+A fresh public-web recovery pass again found bibliographic citations, FamilySearch catalog access, and the Oak Lodge excerpt, but no unrestricted public copy of the Oregon City section. Reasonable public-online recovery is therefore treated as exhausted for annual-closeout purposes. Remaining inspection is now `MF-062` (**YEAR-CLOSEOUT / MANUAL CALLOUT**), using FamilySearch Center/affiliate access or Oregon Historical Society. This changes the access state only; it does not supply or negate any 503/505 occupant.

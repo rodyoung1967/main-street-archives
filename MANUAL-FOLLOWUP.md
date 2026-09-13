@@ -1,7 +1,23 @@
 # Manual Follow-Up Dashboard
 
 Last fully audited: **5 September 2026**.  
-Last amended: **10 September 2026** — synchronized the previously created 505 Main `MF-058` Ray Hansen / 1959–1965 proprietor-licensee package into this dashboard; later `MF-059` and `MF-060` remain unchanged and no existing MF ID was renumbered or removed.
+Last amended: **13 September 2026** — converted three exhausted 1916 online-first gaps into year-closeout manual callouts `MF-061`–`MF-063`; no existing MF ID was renumbered or removed.
+
+## 1916 ONLINE-CLOSEOUT manual work created 13 September 2026
+
+These three items have completed reasonable public-online recovery and are no longer ONLINE-FIRST tasks. They remain manual work for eventual **ONLINE + MANUAL COMPLETE**. Canonical closure checkpoint: `evidence/source-captures/1916-online-gap-closure-manual-callouts-2026-09-13.md`.
+
+### MF-061 — 12 May 1916 Enterprise genuine weekly page 8
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Retrieve the genuine weekly *Oregon City Enterprise*, 12 May 1916, page 8 through University of Oregon source-film/derivative review or another institutional microfilm holding. Archive sequence 8 is visibly *Morning Enterprise*; sequences 1–7 are the weekly issue. Bounded online recovery did not recover a weekly replacement. Preserve as `RETRIEVAL GAP` until the actual weekly page is visually inspected.
+
+### MF-062 — Sohns & Woodbeck 1916–1917 Oregon City directory pages
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Retrieve the Oregon City section of *Clackamas County & Oregon City Directory*, vol. 1 (Sohns & Woodbeck, 1916–1917), via FamilySearch catalog `1844954` at a FamilySearch Center/affiliate or the Oregon Historical Society copy. Visually inspect **501, 503, 503½, 505, 507, 509, 511 Main**, relevant named occupants/businesses, and any reverse/street-directory 500-block listing. Public online recovery is exhausted; the Oak Lodge PDF is explicitly only Oak Grove/Jennings Lodge.
+
+### MF-063 — Polk 1915–1916 Oregon City gazetteer/business-directory section
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Retrieve and visually inspect the Oregon City section of R. L. Polk & Co., *Oregon and Washington State Gazetteer and Business Directory, 1915–1916*. FamilySearch catalog `1439422` and all four image ARKs are known, but no unrestricted public mirror exposing the Oregon City pages was recovered. Use FamilySearch Center/affiliate access first; Spokane Public Library Inland Northwest Special Collections (`NW 917.9 OREGON`, barcode `37413310824562`) is a physical fallback. Check target names/business classes and address-bearing listings relevant to 501/503/503½/505/507/509/511 Main.
 
 ## 1917 ONLINE COMPLETE — remaining manual work
 
