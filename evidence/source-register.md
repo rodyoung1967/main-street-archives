@@ -3148,3 +3148,30 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-08/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md`  
 Related evidence: `E-338`.  
 Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 contains real-estate-transfer coverage and repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
+
+
+## S-366 — Oregon City Enterprise, 15 December 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 15 December 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-15/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-december15-visual-review-2026-09-13.md`  
+Related evidence: `E-339`.  
+Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. No source-explicit target-premises event.
+
+
+## S-367 — Oregon City Enterprise, 22 December 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 22 December 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-22/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-december22-visual-review-2026-09-13.md`  
+Related evidence: `E-340`.  
+Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 continues court/legal listings. Page 1 required a clean re-render after the first local PNG was corrupted. No source-explicit target-premises event.
+
+
+## S-368 — Oregon City Enterprise, 29 December 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 29 December 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-29/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md`  
+Related evidence: `E-341`.  
+Notes: Page 1 reports Julius Wilbur as proprietor of the Friars’ Club at Milwaukie, explicitly a non-target locality; page 2 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.

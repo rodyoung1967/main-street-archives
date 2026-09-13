@@ -16,8 +16,8 @@ used to inventory the two Oregon City titles available online for 1916:
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
 | *Oregon City Courier* | `sn00063698` | 52 | 458 | **458/458 visually reviewed — complete** |
-| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **401/426 certified visually reviewed pages through 8 December 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
-| **Total** |  | **104** | **884** | **859 certified visually reviewed; 25 uncertified** |
+| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **425/426 certified visually reviewed pages through 29 December 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
+| **Total** |  | **104** | **884** | **883 certified visually reviewed; 1 uncertified** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -84,11 +84,11 @@ The *Oregon City Courier* is now **458/458 visually reviewed and complete**. The
 Current newspaper coverage:
 
 - Courier: **458/458**
-- Enterprise: **401/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
-- Combined: **859/884 certified**
-- Enterprise pages remaining uncertified: **25**
+- Enterprise: **425/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
+- Combined: **883/884 certified**
+- Enterprise pages remaining uncertified: **1**
 
-The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. Bounded recovery attempts for the 12 May page-8 anomaly did not recover a replacement weekly page, so the gap is explicitly carried forward. The complete **19 May** and **26 May** issues are now **8/8 visually verified**. The complete **16 June** and **23 June** issues are now **8/8 visually verified**. The next ordinary unreviewed Enterprise issue is **15 December 1916**.
+The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. Bounded recovery attempts for the 12 May page-8 anomaly did not recover a replacement weekly page, so the gap is explicitly carried forward. The complete **19 May** and **26 May** issues are now **8/8 visually verified**. The complete **16 June** and **23 June** issues are now **8/8 visually verified**. All ordinary 1916 Enterprise issue dates are now visually reviewed through **29 December 1916**; the only uncertified Enterprise page is the true **12 May weekly page 8** retrieval gap.
 
 The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
@@ -381,3 +381,14 @@ Updated annual newspaper coverage: Courier **458/458**; Enterprise **80/426**; c
 - Enterprise certified coverage is now **401/426**; combined newspaper coverage is **859/884**; **25 Enterprise pages remain uncertified**.
 - The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
 - Next ordinary Enterprise issue for visual review: **15 December 1916**.
+
+
+## 13 September year-end continuation — 15, 22, and 29 December certified
+
+- **15 December 1916:** 8/8 original weekly pages visually inspected (`S-366`, `E-339`); no source-explicit target-premises event.
+- **22 December 1916:** 8/8 original weekly pages visually inspected (`S-367`, `E-340`); page 1 was cleanly re-rendered after the initial local PNG was corrupted; no source-explicit target-premises event.
+- **29 December 1916:** 8/8 original weekly pages visually inspected (`S-368`, `E-341`); no source-explicit target-premises event. The Friars’ Club story on page 1 is explicitly Milwaukie and is non-target.
+- Enterprise certified coverage is now **425/426**; combined newspaper coverage is **883/884**.
+- Every ordinary 1916 Enterprise issue date through year-end has now been visually reviewed.
+- The sole uncertified Enterprise page is the true **12 May weekly page 8**, which remains a documented `RETRIEVAL GAP`.
+- 1916 remains **IN PROGRESS**, not ONLINE COMPLETE, because final other-online-source-class review and manual-callout reconciliation still remain, and the 12 May gap must be carried into the closeout/manual route rather than treated as negative evidence.

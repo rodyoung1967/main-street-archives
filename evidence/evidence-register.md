@@ -3394,3 +3394,24 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 contains real-estate-transfer coverage and repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No inspected page directly supplies a target-premises event.  
 Source: `S-365`.  
 Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-339 — 15 December 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. No inspected page directly supplies a target-premises event.  
+Source: `S-366`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-340 — 22 December 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 continues court/legal listings. Page 1 required a clean re-render after the first local PNG was corrupted. No inspected page directly supplies a target-premises event.  
+Source: `S-367`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-341 — 29 December 1916 Enterprise complete visual review
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 1 reports Julius Wilbur as proprietor of the Friars’ Club at Milwaukie, explicitly a non-target locality; page 2 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No inspected page directly supplies a target-premises event.  
+Source: `S-368`.  
+Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.

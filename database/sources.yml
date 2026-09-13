@@ -2593,3 +2593,33 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md"
     related_evidence: [E-338]
     notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-366
+    name: "Oregon City Enterprise, 15 December 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-15/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-12-15"
+    repository_file: "evidence/source-captures/1916-enterprise-december15-visual-review-2026-09-13.md"
+    related_evidence: [E-339]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and contextual legal/transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-367
+    name: "Oregon City Enterprise, 22 December 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-22/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-12-22"
+    repository_file: "evidence/source-captures/1916-enterprise-december22-visual-review-2026-09-13.md"
+    related_evidence: [E-340]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and contextual legal/transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-368
+    name: "Oregon City Enterprise, 29 December 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-29/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-12-29"
+    repository_file: "evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md"
+    related_evidence: [E-341]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and contextual legal/transfer material checked; no source-explicit target-premises event."
