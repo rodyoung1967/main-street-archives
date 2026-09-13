@@ -16,8 +16,8 @@ used to inventory the two Oregon City titles available online for 1916:
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
 | *Oregon City Courier* | `sn00063698` | 52 | 458 | **458/458 visually reviewed — complete** |
-| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **321/426 certified visually reviewed pages through 29 September 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
-| **Total** |  | **104** | **884** | **779 certified visually reviewed; 105 uncertified** |
+| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **337/426 certified visually reviewed pages through 13 October 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
+| **Total** |  | **104** | **884** | **795 certified visually reviewed; 89 uncertified** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -84,11 +84,11 @@ The *Oregon City Courier* is now **458/458 visually reviewed and complete**. The
 Current newspaper coverage:
 
 - Courier: **458/458**
-- Enterprise: **321/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
-- Combined: **779/884 certified**
-- Enterprise pages remaining uncertified: **105**
+- Enterprise: **337/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
+- Combined: **795/884 certified**
+- Enterprise pages remaining uncertified: **89**
 
-The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. Bounded recovery attempts for the 12 May page-8 anomaly did not recover a replacement weekly page, so the gap is explicitly carried forward. The complete **19 May** and **26 May** issues are now **8/8 visually verified**. The complete **16 June** and **23 June** issues are now **8/8 visually verified**. The next ordinary unreviewed Enterprise issue is **6 October 1916**.
+The **5 May 1916** issue is now 8/8 visually certified. For **12 May 1916**, all eight delivered archive scans were visually inspected, but only sequences 1–7 visibly belong to the weekly *Oregon City Enterprise*; sequence 8 is visibly headed *Morning Enterprise*. The immediate chronological unresolved item is therefore **12 May 1916 genuine weekly page 8**, preserved as a **RETRIEVAL GAP**. Bounded recovery attempts for the 12 May page-8 anomaly did not recover a replacement weekly page, so the gap is explicitly carried forward. The complete **19 May** and **26 May** issues are now **8/8 visually verified**. The complete **16 June** and **23 June** issues are now **8/8 visually verified**. The next ordinary unreviewed Enterprise issue is **20 October 1916**.
 
 The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
@@ -341,3 +341,12 @@ Updated annual newspaper coverage: Courier **458/458**; Enterprise **80/426**; c
 - Enterprise certified coverage is now **321/426**; combined newspaper coverage is **779/884**; **105 Enterprise pages remain uncertified**.
 - The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
 - Next ordinary Enterprise issue for visual review: **6 October 1916**.
+
+
+## 12 September continuation — 6 and 13 October certified
+
+- **6 October 1916:** 8/8 original weekly pages visually inspected (`S-356`, `E-329`). Page 4 transfer coverage was reviewed; Larsen & Company remains at Tenth/Main; Morgan's advertising recurs; W. S. Eddy remains at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
+- **13 October 1916:** 8/8 original weekly pages visually inspected (`S-357`, `E-330`). Larsen & Company and Morgan's advertising recur on page 5; W. S. Eddy remains at Fashion Stable between Fourth and Fifth on Main; page 8 transfer coverage was reviewed. No target-premises event.
+- Enterprise certified coverage is now **337/426**; combined newspaper coverage is **795/884**; **89 Enterprise pages remain uncertified**.
+- The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
+- Next ordinary Enterprise issue for visual review: **20 October 1916**.

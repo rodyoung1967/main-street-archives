@@ -3062,3 +3062,20 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-29/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-september29-visual-review-2026-09-12.md`  
 Related evidence: `E-328`.  
 Notes: Page 5 repeats Larsen & Company at Tenth/Main; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
+
+
+## S-356 — Oregon City Enterprise, 6 October 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 6 October 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-06/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-october06-visual-review-2026-09-12.md`  
+Related evidence: `E-329`.  
+Notes: Page 4 transfer coverage was visually reviewed; page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
+
+## S-357 — Oregon City Enterprise, 13 October 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 13 October 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-13/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-october13-visual-review-2026-09-12.md`  
+Related evidence: `E-330`.  
+Notes: Page 5 repeats Larsen & Company at Tenth/Main and Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main; page 8 transfer coverage was visually reviewed. No source-explicit target-premises event.

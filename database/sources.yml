@@ -2501,3 +2501,21 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-september29-visual-review-2026-09-12.md"
     related_evidence: [E-328]
     notes: "Larsen at Tenth/Main and Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
+
+
+  - id: S-356
+    name: "Oregon City Enterprise, 6 October 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-06/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-10-06"
+    repository_file: "evidence/source-captures/1916-enterprise-october06-visual-review-2026-09-12.md"
+    related_evidence: [E-329]
+    notes: "Page 4 transfer coverage; Larsen at Tenth/Main; Morgan's ad; Fashion Stable between Fourth/Fifth on Main; no source-explicit target-premises event."
+  - id: S-357
+    name: "Oregon City Enterprise, 13 October 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-13/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-10-13"
+    repository_file: "evidence/source-captures/1916-enterprise-october13-visual-review-2026-09-12.md"
+    related_evidence: [E-330]
+    notes: "Larsen at Tenth/Main; Morgan's ad; Fashion Stable between Fourth/Fifth on Main; page 8 transfer coverage; no source-explicit target-premises event."

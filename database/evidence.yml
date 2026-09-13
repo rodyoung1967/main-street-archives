@@ -4923,3 +4923,33 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-september29-visual-review-2026-09-12.md"
+
+
+  - id: E-329
+    name: "6 October 1916 Enterprise complete visual review and repeated non-target Main Street controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 4 real-estate-transfer coverage supplies no source-explicit target-block transfer."
+      - "Page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising."
+      - "Page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-356]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-october06-visual-review-2026-09-12.md"
+  - id: E-330
+    name: "13 October 1916 Enterprise complete visual review and repeated non-target Main Street controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising."
+      - "Page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main Street."
+      - "Page 8 real-estate-transfer coverage supplies no source-explicit target-block transfer."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-357]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-october13-visual-review-2026-09-12.md"
