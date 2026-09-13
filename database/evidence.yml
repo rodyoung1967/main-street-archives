@@ -4983,3 +4983,32 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-october27-visual-review-2026-09-13.md"
+
+
+  - id: E-333
+    name: "3 November 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims: ["All 8/8 pages visually inspected.", "No source-explicit target-premises event; no-hit is bounded coverage only."]
+    confidence: "Very High"
+    related_sources: [S-360]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-november03-visual-review-2026-09-13.md"
+  - id: E-334
+    name: "10 November 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims: ["All 8/8 pages visually inspected.", "No source-explicit target-premises event; no-hit is bounded coverage only."]
+    confidence: "Very High"
+    related_sources: [S-361]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-november10-visual-review-2026-09-13.md"
+  - id: E-335
+    name: "17 November 1916 Enterprise complete visual review"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims: ["All 8/8 pages visually inspected.", "No source-explicit target-premises event; no-hit is bounded coverage only."]
+    confidence: "Very High"
+    related_sources: [S-362]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md"

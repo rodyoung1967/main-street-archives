@@ -2537,3 +2537,29 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-october27-visual-review-2026-09-13.md"
     related_evidence: [E-332]
     notes: "Larsen at Tenth/Main; Morgan's ad; Fashion Stable between Fourth/Fifth on Main; page 8 transfer coverage; no source-explicit target-premises event."
+
+
+  - id: S-360
+    name: "Oregon City Enterprise, 3 November 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-03/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-11-03"
+    repository_file: "evidence/source-captures/1916-enterprise-november03-visual-review-2026-09-13.md"
+    related_evidence: [E-333]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+  - id: S-361
+    name: "Oregon City Enterprise, 10 November 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-10/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-11-10"
+    repository_file: "evidence/source-captures/1916-enterprise-november10-visual-review-2026-09-13.md"
+    related_evidence: [E-334]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."
+  - id: S-362
+    name: "Oregon City Enterprise, 17 November 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-17/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-11-17"
+    repository_file: "evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md"
+    related_evidence: [E-335]
+    notes: "Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event."

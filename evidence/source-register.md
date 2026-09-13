@@ -3096,3 +3096,28 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-27/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-october27-visual-review-2026-09-13.md`  
 Related evidence: `E-332`.  
 Notes: Page 5 repeats Larsen & Company at Tenth/Main and Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main; page 8 real-estate-transfer coverage was visually reviewed. No source-explicit target-premises event.
+
+
+## S-360 — Oregon City Enterprise, 3 November 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 3 November 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-03/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-november03-visual-review-2026-09-13.md`  
+Related evidence: `E-333`.  
+Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
+
+## S-361 — Oregon City Enterprise, 10 November 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 10 November 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-10/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-november10-visual-review-2026-09-13.md`  
+Related evidence: `E-334`.  
+Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
+
+## S-362 — Oregon City Enterprise, 17 November 1916, complete issue visual review
+Type: Primary newspaper page scans; visually verified **8/8 pages**  
+Date: 17 November 1916  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-17/ed-1/  
+Repository capture: `evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md`  
+Related evidence: `E-335`.  
+Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
