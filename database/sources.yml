@@ -2410,4 +2410,22 @@ sources:
     date: "1916-07-21"
     repository_file: "evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md"
     related_evidence: [E-318]
-    notes: "$75,000 federal-building appropriation/site-selection chronology; several tentative locations mentioned but none identified."
+    notes: "$75,000 federal-building appropriation/site-selection chronology with no identified site; Portland House at Main/Fifth recently rebuilt, owned by Minnie L. Foster and leased to Frank and Mark Beck from 1 June 1916, without a numbered target-address bridge."
+
+
+  - id: S-346
+    name: "Oregon City Enterprise, 28 July 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-28/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-07-28"
+    repository_file: "evidence/source-captures/1916-enterprise-july28-visual-review-2026-09-12.md"
+    related_evidence: [E-319]
+    notes: "Exact Tenth/Main collision and Larsen & Co. controls; no source-explicit target-premises event."
+  - id: S-347
+    name: "Oregon City Enterprise, 4 August 1916, complete issue visual review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-04/ed-1/"
+    type: "Primary newspaper page scans; visually verified 8/8 pages"
+    date: "1916-08-04"
+    repository_file: "evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md"
+    related_evidence: [E-320]
+    notes: "Hawley projected Main Street construction between Fourth and Fifth is explicitly south of the target block; no source-explicit target-premises event."

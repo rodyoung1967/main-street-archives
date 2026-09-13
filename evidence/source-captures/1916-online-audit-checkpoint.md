@@ -16,8 +16,8 @@ used to inventory the two Oregon City titles available online for 1916:
 | Title | LCCN | Issues | Pages/images | Current visual status |
 | --- | --- | ---: | ---: | --- |
 | *Oregon City Courier* | `sn00063698` | 52 | 458 | **458/458 visually reviewed — complete** |
-| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **241/426 certified visually reviewed pages through 21 July 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
-| **Total** |  | **104** | **884** | **699 certified visually reviewed; 185 uncertified** |
+| *Oregon City Enterprise* | `sn00063700` | 52 | 426 | **257/426 certified visually reviewed pages through 4 August 1916; true 12 May weekly page 8 remains a RETRIEVAL GAP** |
+| **Total** |  | **104** | **884** | **715 certified visually reviewed; 169 uncertified** |
 
 The **884-page total corrects an earlier working calculation of 904 pages**. The
 correct Courier subtotal is 458, not 478. The Enterprise subtotal is 426.
@@ -84,7 +84,7 @@ The *Oregon City Courier* is now **458/458 visually reviewed and complete**. The
 Current newspaper coverage:
 
 - Courier: **458/458**
-- Enterprise: **241/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
+- Enterprise: **257/426 certified weekly pages**; 12 May true weekly p8 remains a **RETRIEVAL GAP**
 - Combined: **699/884 certified**
 - Enterprise pages remaining uncertified: **185**
 
@@ -291,6 +291,15 @@ Updated annual newspaper coverage: Courier **458/458**; Enterprise **80/426**; c
 
 - **14 July 1916:** 8/8 original weekly pages visually inspected (`S-344`, `E-317`). Page 4 supplies same-block store-building improvement context on Main between Fifth and Sixth but no exact number, so it is not assigned to a target premise. Larsen & Co. is explicitly at Tenth/Main; A. H. Buckles at Eleventh/Main.
 - **21 July 1916:** 8/8 original weekly pages visually inspected (`S-345`, `E-318`). Page 1 materially advances the federal-building chronology: $75,000 was included for site purchase/construction and several tentative locations had been evaluated, but none is identified. No target-address bridge.
-- Enterprise certified coverage is now **241/426**; combined newspaper coverage is **699/884**; **185 Enterprise pages remain uncertified**.
+- Enterprise certified coverage is now **241/426**; combined newspaper coverage is **699/884**; **169 Enterprise pages remain uncertified**.
 - The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
 - Next ordinary Enterprise issue for visual review: **28 July 1916**.
+
+
+## 12 September continuation — 28 July and 4 August certified
+
+- **28 July 1916:** 8/8 original weekly pages visually inspected (`S-346`, `E-319`). Tenth/Main collision and Larsen & Co. references are exact non-target controls; no target-premises event.
+- **4 August 1916:** 8/8 original weekly pages visually inspected (`S-347`, `E-320`). Page 8 projects Hawley construction along Main Street to the alley between Fourth and Fifth, explicitly south of the Fifth–Sixth target block; no target-premises event.
+- Enterprise certified coverage is now **257/426**; combined newspaper coverage is **715/884**; **169 Enterprise pages remain uncertified**.
+- The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
+- Next ordinary Enterprise issue for visual review: **11 August 1916**.

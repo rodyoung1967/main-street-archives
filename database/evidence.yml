@@ -4768,15 +4768,43 @@ evidence:
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md"
   - id: E-318
-    name: "21 July 1916 Enterprise complete visual review and federal-building status update"
+    name: "21 July 1916 Enterprise complete visual review, federal-building update, and Portland House relationships"
     type: "Primary newspaper visual evidence / annual issue-level coverage"
     claims:
       - "All 8/8 pages visually inspected."
       - "Page 1 reports $75,000 for site purchase and federal-building construction and says several tentative Oregon City locations had been evaluated."
       - "No selected or tentative site is identified by address, intersection, owner, legal description, or building."
-      - "No evidentiary bridge to 501/503/505/505½/507 Main is supplied."
+      - "Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; they sought $300 damages over alleged incomplete lease-required changes/improvements."
+      - "Neither the federal-building article nor the Portland House report supplies a numbered bridge to 501/503/505/505½/507 Main."
     confidence: "Very High"
     related_sources: [S-345]
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md"
+
+
+  - id: E-319
+    name: "28 July 1916 Enterprise complete visual review and non-target Main Street controls"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 1 reports an automobile collision at Tenth/Main and page 5 again places Larsen & Co. at Tenth/Main."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-346]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-july28-visual-review-2026-09-12.md"
+  - id: E-320
+    name: "4 August 1916 Enterprise complete visual review and Hawley south-block construction chronology"
+    type: "Primary newspaper visual evidence / annual issue-level coverage"
+    claims:
+      - "All 8/8 pages visually inspected."
+      - "Page 8 says erection of Hawley buildings along Main Street to the alley between Fourth and Fifth would probably begin early the next year."
+      - "The described construction is south of Fifth Street and is not a Fifth–Sixth target-block event."
+      - "No source-explicit target-premises event; no-hit is bounded coverage only."
+    confidence: "Very High"
+    related_sources: [S-347]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md"

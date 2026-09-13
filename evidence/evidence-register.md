@@ -3259,8 +3259,20 @@ Claims: All **8/8** page scans were visually inspected. Page 4 lists Mary E. Bar
 Source: `S-344`.  
 Confidence: Very High for visual coverage and printed wording; block-level construction context is not assigned to a target number.
 
-## E-318 — 21 July 1916 Enterprise complete visual review and federal-building status update
+## E-318 — 21 July 1916 Enterprise complete visual review, federal-building update, and Portland House relationships
 Type: Primary newspaper visual evidence / annual issue-level coverage  
-Claims: All **8/8** page scans were visually inspected. Page 1 says prospects for an Oregon City federal building had brightened after inclusion of $75,000 for site purchase and construction and says Postmaster J. J. Cooke had reported on several tentative locations. The article identifies no selected or tentative site by address, intersection, owner, legal description, or building, so it supplies no bridge to 501/503/505/505½/507 Main.  
+Claims: All **8/8** page scans were visually inspected. Page 1 says $75,000 had been included for site purchase and federal-building construction and that several tentative Oregon City locations had been evaluated, but identifies none. Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; they sought $300 damages over alleged incomplete lease-required changes/improvements. Neither item supplies a numbered bridge to 501/503/505/505½/507 Main.  
 Source: `S-345`.  
-Confidence: Very High for visual coverage and printed federal-building chronology; no target-site inference.
+Confidence: Very High for visual coverage and printed chronology/relationships; no target-site or target-address inference.
+
+## E-319 — 28 July 1916 Enterprise complete visual review and non-target Main Street controls
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 1 reports an automobile collision at Tenth/Main and page 5 again places Larsen & Co. at Tenth/Main. Both are exact non-target controls. No inspected page directly supplies a target-premises event.  
+Source: `S-346`.  
+Confidence: Very High for visual coverage and printed non-target locations.
+
+## E-320 — 4 August 1916 Enterprise complete visual review and Hawley south-block construction chronology
+Type: Primary newspaper visual evidence / annual issue-level coverage  
+Claims: All **8/8** page scans were visually inspected. Page 8 says erection of Hawley buildings along Main Street to the alley between Fourth and Fifth would probably begin early the next year. This is physical-development chronology south of Fifth Street, not a Fifth–Sixth target-block event. Page 5 again places Larsen & Co. at Tenth/Main. No inspected page directly supplies a target-premises event.  
+Source: `S-347`.  
+Confidence: Very High for visual coverage and printed block limits; no target-address inference.
