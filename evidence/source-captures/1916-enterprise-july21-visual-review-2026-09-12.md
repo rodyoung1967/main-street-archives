@@ -21,8 +21,17 @@ The article also describes possible federal uses—post office/rural delivery, f
 
 Accordingly, this is a substantive federal-building chronology update, but it supplies **no evidentiary bridge to 501/503/505/505½/507 Main Street** and must not be used to place the federal building on the target premises.
 
+### Page 5 — Portland House ownership, lease, and recent rebuilding at Fifth/Main
+
+A report headed **“Mrs. Minnie Foster Sued Twice in Day”** identifies **Mrs. Minnie L. Foster, of Portland, as owner of the Portland House in this city**. It states that **the Portland House, located on Main and Fifth streets, was recently rebuilt**. The article identifies **Frank Beck and Mark Beck** as holding a lease on the building for a three-year period dating from **June 1, 1916** and says they alleged that changes and improvements specified in the lease had not all been made, seeking **$300 damages**.
+
+This materially strengthens the separate 14 July page-4 improvement item, which lists **Mrs. M. L. Foster, Fifth and Main streets, improvements to Portland House; cost $800**. Together the two visually verified issues establish, at minimum, a 1916 Portland House at the Fifth/Main intersection, Minnie L. Foster as its owner, a June 1, 1916 three-year lease to Frank and Mark Beck, and recent rebuilding/improvement activity.
+
+However, neither article prints a numbered Main Street address, parcel description, or other bridge assigning the Portland House to **501, 503, 505, 505½, or 507 Main**. The relationship is therefore preserved as important Fifth/Main building/ownership/tenancy context, not as a target-premises assignment.
+
 ## Evidentiary limits
 
-- The article establishes that multiple tentative Oregon City sites had been evaluated by July 1916; it does not identify them.
+- The federal-building article establishes that multiple tentative Oregon City sites had been evaluated by July 1916; it does not identify them.
 - It does not establish acquisition, site selection, construction commencement, or target-block location.
+- The Portland House evidence establishes an intersection-level building, owner, leaseholders, lease start/term, and recent rebuilding/improvements, but not a numbered target address.
 - No-hit language above is bounded to this visually inspected issue and is not evidence of vacancy, non-use, or absence.
