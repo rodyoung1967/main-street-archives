@@ -7,6 +7,7 @@ on:
     paths:
       - '.github/workflows/integrate-1916-enterprise-july14-july21.yml'
       - 'scripts/integrate_1916_enterprise_july14_july21.py'
+      - 'scripts/run_integrate_1916_enterprise_july14_july21.py'
 
 permissions:
   contents: write
@@ -23,7 +24,7 @@ jobs:
       - name: Validate before integration
         run: python3 scripts/validate_archive.py
       - name: Integrate certified reviews
-        run: python3 scripts/integrate_1916_enterprise_july14_july21.py
+        run: python3 scripts/run_integrate_1916_enterprise_july14_july21.py
       - name: Validate integrated archive
         run: python3 scripts/validate_archive.py
       - name: Commit and publish integration
