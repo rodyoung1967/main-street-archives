@@ -3415,3 +3415,10 @@ Type: Primary newspaper visual evidence / annual issue-level coverage
 Claims: All **8/8** page scans were visually inspected. Page 1 reports Julius Wilbur as proprietor of the Friars’ Club at Milwaukie, explicitly a non-target locality; page 2 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No inspected page directly supplies a target-premises event.  
 Source: `S-368`.  
 Confidence: Very High for visual coverage and printed geographic controls; no-hit is bounded issue coverage only.
+
+
+## E-342 — 1916 ONLINE COMPLETE source-class reconciliation
+Type: Annual research-completeness evidence  
+Claims: 1916 satisfies the ONLINE COMPLETE definition; Courier is 458/458 visually reviewed; Enterprise is 425/426 certified with the true 12 May weekly page 8 preserved as a retrieval gap; all remaining non-online work is enumerated as MF-061 through MF-067. Other online source classes were reviewed or their public-online access limits established without treating source silence as historical absence.  
+Source: `S-369`.  
+Confidence: Very High for research-status classification; unresolved historical occupancy questions remain explicitly unresolved.

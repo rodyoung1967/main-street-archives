@@ -5096,3 +5096,18 @@ evidence:
     related_businesses: []
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md"
+
+
+  - id: E-342
+    name: "1916 ONLINE COMPLETE source-class reconciliation"
+    type: "Annual research-completeness evidence"
+    claims:
+      - "1916 satisfies the ONLINE COMPLETE definition in RESEARCH-STANDARD.md."
+      - "Courier 458/458 visually reviewed; Enterprise 425/426 certified with one precisely documented retrieval gap."
+      - "Remaining physical, restricted, institutional, user-assisted, or non-rendering work is MF-061 through MF-067."
+      - "Source silence was not treated as evidence of vacancy, closure, demolition, non-use, or non-ownership."
+    confidence: "Very High"
+    related_sources: [S-369]
+    related_businesses: []
+    related_buildings: []
+    repository_file: "evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md"

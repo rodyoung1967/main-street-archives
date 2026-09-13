@@ -2623,3 +2623,13 @@ sources:
     repository_file: "evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md"
     related_evidence: [E-341]
     notes: "Complete issue visually reviewed; recurring non-target Main Street controls and contextual legal/transfer material checked; no source-explicit target-premises event."
+
+
+  - id: S-369
+    name: "1916 online source-class closeout"
+    url: "https://github.com/rodyoung1967/main-street-archives/blob/main/evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md"
+    type: "Research-standard annual closeout / online source-class audit"
+    date: "2026-09-13"
+    repository_file: "evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md"
+    related_evidence: [E-342]
+    notes: "Certifies 1916 ONLINE COMPLETE; remaining physical/restricted/non-rendering work is MF-061 through MF-067."

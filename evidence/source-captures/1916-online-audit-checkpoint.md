@@ -1,6 +1,6 @@
 # 1916 online audit checkpoint
 
-Status: **IN PROGRESS**
+Status: **ONLINE COMPLETE**
 
 Checkpoint date: 11 September 2026 (28 August and prior 26 August segments preserved below)
 
@@ -94,7 +94,7 @@ Three formerly open online-first tasks are now closed as online recovery work an
 
 The 1916 *Morning Enterprise* daily is now classified as manual-only for 1916 (`MF-064`): the title survives on microfilm through 1933, but the public digitized Oregon City run ends in 1913. The Clackamas County **1916 Tax List** is likewise classified as physical/manual (`MF-065`) based on the Oregon State Archives county inventory. The Sanborn/fire-insurance-map class is closed for 1916-specific online retrieval: the public Oregon City series brackets 1916 with 1911 and 1925 editions and exposes no 1916 Sanborn edition. See `1916-source-class-closure-morning-enterprise-tax-sanborn-2026-09-13.md`.
 
-The year remains **IN PROGRESS / NOT ONLINE COMPLETE**. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
+The newspaper chronology is complete except for the precisely documented 12 May weekly page-8 retrieval gap. The formal 13 September source-class reconciliation now certifies the year **ONLINE COMPLETE**; remaining non-online work is MF-061 through MF-067. The 1916–1917 Sohns & Woodbeck directory, any non-digitized 1916 *Morning Enterprise* material, other online source classes, and final manual-work reconciliation remain outstanding.
 
 Related current records:
 
@@ -396,3 +396,8 @@ Updated annual newspaper coverage: Courier **458/458**; Enterprise **80/426**; c
 - Every ordinary 1916 Enterprise issue date through year-end has now been visually reviewed.
 - The sole uncertified Enterprise page is the true **12 May weekly page 8**, which remains a documented `RETRIEVAL GAP`.
 - 1916 remains **IN PROGRESS**, not ONLINE COMPLETE, because final other-online-source-class review and manual-callout reconciliation still remain, and the 12 May gap must be carried into the closeout/manual route rather than treated as negative evidence.
+
+
+## 13 September 2026 — ONLINE COMPLETE closeout
+
+Formal closeout: `1916-online-source-class-closeout-2026-09-13.md` (`S-369` / `E-342`). Newspaper coverage is Courier **458/458** and Enterprise **425/426**, with the genuine 12 May weekly page 8 preserved as `MF-061`. Directory, map, municipal, property, historic-resource, photograph, and official-database classes were reconciled. Remaining physical/restricted/non-rendering work is **MF-061 through MF-067**. Absence of evidence was not treated as evidence of absence.

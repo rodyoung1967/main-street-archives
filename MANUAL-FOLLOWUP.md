@@ -27,6 +27,21 @@ These three items have completed reasonable public-online recovery and are no lo
 
 **Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Inspect the physical **Clackamas County Tax List, 1916 (1 volume)** identified by the Oregon State Archives county-records inventory at the Museum of the Oregon Territory, Halon Room. Target Original Oregon City Block 4 Lots 3–4, G. A. Harding and other owners/agents, valuations/improvements/transfers, and address/parcel linkage relevant to 501/503/503½/505/507 Main. No public online 1916 page images were identified.
 
+
+
+## 1916 ONLINE COMPLETE — remaining manual work
+
+Formal closeout: `evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md`. The remaining 1916 manual tasks are **MF-061, MF-062, MF-063, MF-064, MF-065, MF-066, and MF-067**. No institutional request has been sent for this closeout.
+
+### MF-066 — 1916 City Commission minutes / ordinances / license records
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Inspect the 1916 City Commission minute/ordinance/license records through the Oregon City Recorder / ORMS WebDrawer route. The City's Meeting Document Archive exposes a 1910–1919 City Commission decade query, but the offsite WebDrawer query did not render through the research environment after direct recovery attempts. Prioritize pool-hall and cigar licensing, Raasch & Lamb, Harding, Hylton, 500-block Main, property/street actions, and the June 1916 temporary-permit / ordinance dispute reported in the Courier. Do not substitute the newspaper report for the underlying municipal record.
+
+### MF-067 — Oregon City historic photographs PDF / 1916 Fifth-Main check
+
+**Class: YEAR-CLOSEOUT / MANUAL CALLOUT.** Visually inspect the City's 72-page `Photographs.pdf` (Historic Documents and Research → Historic Photos and Art) through a direct browser or institutional copy for securely dated 1916 or tightly bracketed Fifth/Main / 501–507 Main images. The source is publicly indexed, but page-image rendering and direct file recovery failed in the research environment. A no-hit may be recorded only after the images themselves are visually inspected.
+
+
 ## 1917 ONLINE COMPLETE — remaining manual work
 
 The formal year closeout is `evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md`. Its seven manual tasks are `MF-027`, `MF-049`, `MF-051`, `MF-029`, `MF-059`, `MF-060`, and `MF-007`. No institutional request has been sent for this closeout.

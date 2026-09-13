@@ -3175,3 +3175,12 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-29/ed-1/
 Repository capture: `evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md`  
 Related evidence: `E-341`.  
 Notes: Page 1 reports Julius Wilbur as proprietor of the Friars’ Club at Milwaukie, explicitly a non-target locality; page 2 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
+
+
+## S-369 — 1916 online source-class closeout
+Type: Research-standard annual closeout / online source-class audit  
+Date: 13 September 2026  
+URL: https://github.com/rodyoung1967/main-street-archives/blob/main/evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md  
+Repository capture: `evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md`  
+Related evidence: `E-342`.  
+Notes: Certifies 1916 as ONLINE COMPLETE under RESEARCH-STANDARD.md after newspaper, directory, map, municipal, property, historic-resource, photograph, and official-database reconciliation. Remaining physical/restricted/non-rendering work is preserved as MF-061 through MF-067.
