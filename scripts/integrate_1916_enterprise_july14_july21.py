@@ -16,7 +16,7 @@ Date: 14 July 1916
 URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-14/ed-1/  
 Repository capture: `evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md`  
 Related evidence: `E-317`.  
-Notes: Page 4 gives same-block Main-between-Fifth-and-Sixth store-building improvement context without an exact number; Larsen & Co. is explicitly at Tenth/Main. No source-explicit target-premises event.
+Notes: Page 4 gives same-block Main-between-Fifth-and-Sixth store-building improvement context without an exact number, plus an $800 Portland House improvement at Fifth/Main; no source-explicit target-premises event.
 
 ## S-345 — Oregon City Enterprise, 21 July 1916, complete issue visual review
 Type: Primary newspaper page scans; visually verified **8/8 pages**  
@@ -24,7 +24,7 @@ Date: 21 July 1916
 URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-21/ed-1/  
 Repository capture: `evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md`  
 Related evidence: `E-318`.  
-Notes: Page 1 reports the $75,000 federal-building appropriation proposal and multiple tentative Oregon City sites, but identifies no site or target-address bridge.
+Notes: Page 1 reports the $75,000 federal-building appropriation proposal and multiple tentative Oregon City sites, but identifies no site. Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; no numbered target-address bridge is printed.
 '''
 src_md.write_text(s)
 
@@ -33,15 +33,15 @@ s = ev_md.read_text()
 if '## E-317 —' not in s:
     s += '''\n\n## E-317 — 14 July 1916 Enterprise complete visual review and same-block construction control
 Type: Primary newspaper visual evidence / annual issue-level coverage  
-Claims: All **8/8** page scans were visually inspected. Page 4 lists Mary E. Barlow and J. W. David on Main Street between Fifth and Sixth with improvements to a store building costing $500, but no street number is printed. Larsen & Co. is explicitly at Tenth/Main and A. H. Buckles at Eleventh/Main. No inspected page directly supplies a target-premises event.  
+Claims: All **8/8** page scans were visually inspected. Page 4 lists Mary E. Barlow and J. W. David on Main Street between Fifth and Sixth with improvements to a store building costing $500, but no street number is printed; it also lists Mrs. M. L. Foster at Fifth/Main with $800 in improvements. Larsen & Co. is explicitly at Tenth/Main and A. H. Buckles at Eleventh/Main. No inspected page directly supplies a target-premises event.  
 Source: `S-344`.  
-Confidence: Very High for visual coverage and printed wording; block-level construction context is not assigned to a target number.
+Confidence: Very High for visual coverage and printed wording; block/intersection-level construction context is not assigned to a target number.
 
-## E-318 — 21 July 1916 Enterprise complete visual review and federal-building status update
+## E-318 — 21 July 1916 Enterprise complete visual review, federal-building update, and Portland House relationships
 Type: Primary newspaper visual evidence / annual issue-level coverage  
-Claims: All **8/8** page scans were visually inspected. Page 1 says prospects for an Oregon City federal building had brightened after inclusion of $75,000 for site purchase and construction and says Postmaster J. J. Cooke had reported on several tentative locations. The article identifies no selected or tentative site by address, intersection, owner, legal description, or building, so it supplies no bridge to 501/503/505/505½/507 Main.  
+Claims: All **8/8** page scans were visually inspected. Page 1 says prospects for an Oregon City federal building had brightened after inclusion of $75,000 for site purchase and construction and says Postmaster J. J. Cooke had reported on several tentative locations, but identifies none. Page 5 identifies Minnie L. Foster as owner of the Portland House at Main/Fifth, says it had recently been rebuilt, and identifies Frank and Mark Beck as three-year leaseholders from 1 June 1916; they sought $300 damages over alleged incomplete lease-required changes/improvements. Neither article supplies a numbered bridge to 501/503/505/505½/507 Main.  
 Source: `S-345`.  
-Confidence: Very High for visual coverage and printed federal-building chronology; no target-site inference.
+Confidence: Very High for visual coverage and printed chronology/relationships; no target-site or target-address inference.
 '''
 ev_md.write_text(s)
 
@@ -55,7 +55,7 @@ if '  - id: S-344' not in s:
     date: "1916-07-14"
     repository_file: "evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md"
     related_evidence: [E-317]
-    notes: "Same-block Main-between-Fifth-and-Sixth store-building improvement control without exact number; no source-explicit target-premises event."
+    notes: "Same-block Main-between-Fifth-and-Sixth store-building improvement control without exact number plus $800 Portland House improvement at Fifth/Main; no source-explicit target-premises event."
   - id: S-345
     name: "Oregon City Enterprise, 21 July 1916, complete issue visual review"
     url: "https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-21/ed-1/"
@@ -63,7 +63,7 @@ if '  - id: S-344' not in s:
     date: "1916-07-21"
     repository_file: "evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md"
     related_evidence: [E-318]
-    notes: "$75,000 federal-building appropriation/site-selection chronology; several tentative locations mentioned but none identified."
+    notes: "$75,000 federal-building appropriation/site-selection chronology with no identified site; Portland House at Main/Fifth recently rebuilt, owned by Minnie L. Foster and leased to Frank and Mark Beck from 1 June 1916, without a numbered target-address bridge."
 '''
 src_y.write_text(s)
 
@@ -76,7 +76,7 @@ if '  - id: E-317' not in s:
     claims:
       - "All 8/8 pages visually inspected."
       - "Page 4 lists Mary E. Barlow and J. W. David on Main Street between Fifth and Sixth with improvements to a store building costing $500, without a street number."
-      - "Explicit non-target controls place Larsen & Co. at Tenth/Main and A. H. Buckles at Eleventh/Main."
+      - "Page 4 also lists Mrs. M. L. Foster at Fifth/Main with $800 in improvements; explicit non-target controls place Larsen & Co. at Tenth/Main and A. H. Buckles at Eleventh/Main."
       - "No source-explicit target-premises event; no-hit is bounded coverage only."
     confidence: "Very High"
     related_sources: [S-344]
@@ -84,13 +84,13 @@ if '  - id: E-317' not in s:
     related_buildings: []
     repository_file: "evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md"
   - id: E-318
-    name: "21 July 1916 Enterprise complete visual review and federal-building status update"
+    name: "21 July 1916 Enterprise complete visual review, federal-building update, and Portland House relationships"
     type: "Primary newspaper visual evidence / annual issue-level coverage"
     claims:
       - "All 8/8 pages visually inspected."
-      - "Page 1 reports $75,000 for site purchase and federal-building construction and says several tentative Oregon City locations had been evaluated."
-      - "No selected or tentative site is identified by address, intersection, owner, legal description, or building."
-      - "No evidentiary bridge to 501/503/505/505½/507 Main is supplied."
+      - "Page 1 reports $75,000 for site purchase and federal-building construction and says several tentative Oregon City locations had been evaluated, but identifies none."
+      - "Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; they sought $300 damages over alleged incomplete lease-required changes/improvements."
+      - "Neither item supplies an evidentiary bridge to 501/503/505/505½/507 Main."
     confidence: "Very High"
     related_sources: [S-345]
     related_businesses: []
@@ -116,8 +116,8 @@ for old, new in repls:
 if '## 12 September continuation — 14 and 21 July certified' not in s:
     s += '''\n\n## 12 September continuation — 14 and 21 July certified
 
-- **14 July 1916:** 8/8 original weekly pages visually inspected (`S-344`, `E-317`). Page 4 supplies same-block store-building improvement context on Main between Fifth and Sixth but no exact number, so it is not assigned to a target premise. Larsen & Co. is explicitly at Tenth/Main; A. H. Buckles at Eleventh/Main.
-- **21 July 1916:** 8/8 original weekly pages visually inspected (`S-345`, `E-318`). Page 1 materially advances the federal-building chronology: $75,000 was included for site purchase/construction and several tentative locations had been evaluated, but none is identified. No target-address bridge.
+- **14 July 1916:** 8/8 original weekly pages visually inspected (`S-344`, `E-317`). Page 4 supplies same-block store-building improvement context on Main between Fifth and Sixth but no exact number, and separately records $800 in Portland House improvements at Fifth/Main. No target-premises assignment.
+- **21 July 1916:** 8/8 original weekly pages visually inspected (`S-345`, `E-318`). Page 1 materially advances the federal-building chronology: $75,000 was included for site purchase/construction and several tentative locations had been evaluated, but none is identified. Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; no numbered target-address bridge is printed.
 - Enterprise certified coverage is now **241/426**; combined newspaper coverage is **699/884**; **185 Enterprise pages remain uncertified**.
 - The true **12 May weekly page 8** remains a `RETRIEVAL GAP`.
 - Next ordinary Enterprise issue for visual review: **28 July 1916**.
