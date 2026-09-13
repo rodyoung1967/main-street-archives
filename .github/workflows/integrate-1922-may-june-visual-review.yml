@@ -1,0 +1,69 @@
+name: Integrate 1922 May-June visual review
+
+on:
+  push:
+    paths:
+      - '.github/workflows/integrate-1922-may-june-visual-review.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          sparse-checkout: |
+            newspapers/banner-courier/1922-05/manifest.json
+            newspapers/oregon-city-enterprise/1922-05/manifest.json
+            newspapers/banner-courier/1922-06/manifest.json
+            newspapers/oregon-city-enterprise/1922-06/manifest.json
+            registers/year-status.md
+          sparse-checkout-cone-mode: false
+      - name: Update May-June certification records
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          statuses = {
+              Path('newspapers/banner-courier/1922-05/manifest.json'):
+                  'VISUALLY VERIFIED — all original page scans inspected',
+              Path('newspapers/oregon-city-enterprise/1922-05/manifest.json'):
+                  'VISUALLY VERIFIED — all original page scans inspected; 5 May sequences 1-2 have materially incomplete source-image regions',
+              Path('newspapers/banner-courier/1922-06/manifest.json'):
+                  'VISUALLY VERIFIED — all original page scans inspected; 22 June sequence 9 has minor top-edge source loss',
+              Path('newspapers/oregon-city-enterprise/1922-06/manifest.json'):
+                  'VISUALLY VERIFIED — all original page scans inspected',
+          }
+          for p, status in statuses.items():
+              data=json.loads(p.read_text())
+              if not data.get('status','').startswith('RETRIEVAL ONLY'):
+                  raise SystemExit(f'Unexpected manifest status in {p}: {data.get("status")}')
+              data['status']=status
+              p.write_text(json.dumps(data, indent=2, ensure_ascii=False)+'\n')
+
+          p=Path('registers/year-status.md')
+          text=p.read_text()
+          old='| 1922 | **IN PROGRESS** | `evidence/source-captures/1922-april-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/1922-march-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`; `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` | **January–April are now VISUALLY VERIFIED: 34 issues / 306 pages** across Enterprise and Banner-Courier, with no page-level retrieval gaps identified in those months. March establishes S. F. Scripture at 108 Fifth St., between Main and Water, by 2 March; April visually confirms that recurring location throughout the month. This is business-location evidence only and does not identify the July fire-adjacent pool hall or establish property/building identity. May–December page-level visual audit, remaining annual inventory/recovery work, other online source classes and formal closeout remain unfinished. P-9594 crop `IMG-0772` and its corrected 501/apparent-503-gap/shadowed-505 interpretation remain controlling. Neither fire model is selected. |'
+          new='| 1922 | **IN PROGRESS** | `evidence/source-captures/1922-june-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/2026-09-13-1922-may-newspaper-visual-review-conversation-addendum.md`; `evidence/source-captures/1922-april-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/1922-march-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`; `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`; `evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md` | **January–June are now VISUALLY VERIFIED: 52 issues / 471 page images** across Enterprise and Banner-Courier. May 5 Enterprise sequences 1-2 were inspected but contain materially incomplete source-image regions; June 22 Banner-Courier sequence 9 has minor top-edge source loss. June 8 Banner-Courier p.10 directly shows Dr. Freeze at 505½ Main and separately lists Timms Pool Hall and O. H. Leland in the Buyers’ Carnival merchant list; those separate entries do not establish a shared address or ownership relationship. July–December page-level visual audit, recovery/reconciliation of damaged-source regions, remaining annual inventory work, other online source classes and formal closeout remain unfinished. P-9594 crop `IMG-0772` and its corrected 501/apparent-503-gap/shadowed-505 interpretation remain controlling. Neither fire model is selected. |'
+          if old not in text:
+              raise SystemExit('Expected April-certified 1922 year-status row not found; refusing to overwrite a changed parallel version')
+          p.write_text(text.replace(old,new,1))
+          PY
+      - name: Commit intended files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add newspapers/banner-courier/1922-05/manifest.json newspapers/oregon-city-enterprise/1922-05/manifest.json newspapers/banner-courier/1922-06/manifest.json newspapers/oregon-city-enterprise/1922-06/manifest.json registers/year-status.md
+          git diff --cached --check
+          git commit -m 'Certify May and June 1922 newspaper review'
+          git pull --rebase origin main
+          git push origin HEAD:main
