@@ -67,3 +67,4 @@ jobs:
             sleep $((attempt*2))
           done
           exit 1
+# trigger: 2026-09-12 visual audit
