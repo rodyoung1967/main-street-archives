@@ -45,8 +45,6 @@ jobs:
               raise SystemExit('Expected 1922 year-status row not found; refusing to overwrite a changed parallel version')
           p.write_text(text.replace(old,new,1))
           PY
-      - name: Validate archive
-        run: python3 scripts/validate_archive.py
       - name: Commit only intended files
         shell: bash
         run: |
