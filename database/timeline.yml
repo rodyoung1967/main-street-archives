@@ -1075,3 +1075,19 @@ timeline:
       - BUS-015
     related_buildings:
       - B-002
+  - id: T-106
+    date: "13 January–1 February 1922"
+    summary: "Oregon City pool-room ordinance advanced from first reading to reported final passage; applications and notices had to state the particular premises, licenses required Council approval and a $500 bond, and transfers required Council consent."
+    confidence: "Very High for visible published sequence; individual licensees and premises unresolved"
+    related_sources: [S-370, S-371]
+    related_evidence: [E-346]
+    related_businesses: [BUS-076, BUS-077]
+    related_buildings: [B-002]
+  - id: T-107
+    date: "16 February 1922"
+    summary: "Banner-Courier jointly advertises a horseshoeing price reduction by May & Washburn and S. F. Scripture; May & Washburn has no address in the notice, while Scripture separately advertises 108 Fifth on the same page."
+    confidence: "Very High for printed wording; no merger, shared-premises, succession or partner-identity inference"
+    related_sources: [S-371]
+    related_evidence: [E-347]
+    related_businesses: [BUS-069, BUS-039]
+    related_buildings: [B-008]

@@ -2633,3 +2633,19 @@ sources:
     repository_file: "evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md"
     related_evidence: [E-342]
     notes: "Certifies 1916 ONLINE COMPLETE; remaining physical/restricted/non-rendering work is MF-061 through MF-067."
+  - id: S-370
+    name: "Oregon City Enterprise, January–February 1922 complete page-scan review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/"
+    type: "Primary newspaper page scans; visually verified 64/64 pages in 8/8 issues"
+    date: "1922-01-06/1922-02-24"
+    repository_file: "evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md"
+    related_evidence: [E-343, E-345, E-346]
+    notes: "Every exposed January–February page inspected; no retrieval gaps. Relevant anchors include Dr. Freeze at 505½ and the pool-room ordinance sequence."
+  - id: S-371
+    name: "The Banner-Courier, January–February 1922 complete page-scan review"
+    url: "https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/"
+    type: "Primary newspaper page scans; visually verified 78/78 pages in 8/8 issues"
+    date: "1922-01-05/1922-02-23"
+    repository_file: "evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md"
+    related_evidence: [E-344, E-345, E-346, E-347]
+    notes: "Every exposed January–February page inspected; no retrieval gaps. The 19 January front-page masthead misprints 1921; archive chronology retained as 1922 with the anomaly explicit."

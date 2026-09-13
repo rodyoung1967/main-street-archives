@@ -234,11 +234,17 @@ May & Washburn (`BUS-069`) is documented by December 1920 and in 1921–1922 cou
 
 These businesses belong to the same research geography but are not assigned numbered premises from a roster that prints none.
 
+## January–February 1922 — pool-room ordinance and premises-record context
+
+A complete visual review of both local titles for January–February (`E-343`–`E-346`) establishes the ordinance sequence without identifying an individual hall. The 13 January first-reading text required each application and published notice to state the particular premises, imposed a $500 bond and other operating controls, and made transfers subject to Council consent. The *Enterprise* reports final passage on 1 February, preserving Sunday opening while adopting the bond, revocation power and lunch-counter ban.
+
+These are citywide licensing rules, not a 505 tenancy. None of the inspected pages names Timms, Leland & Little, A. Leland, or the later July fire-adjacent pool hall in the same context. The underlying location-specific applications, notices, bonds and Council records therefore remain the decisive `MF-013` target.
+
 ## February 1921
 A primary advertisement shows **Holman & Pace** still operating as undertakers/funeral directors in Oregon City (`E-055` / `S-068`), but it does not provide a street address.
 
 ## 1921-1922 — 505 Main
-Exact Enterprise scans now preserve Dr. Freeze's advertised address as **505½ Main** on 8 April and 20 May 1921, **505 Main St., Opposite Postoffice** on 28 October 1921, and **505½ Main** again on 30 June 1922. The 30 June ad says that **after July 1** he will be at **207 Masonic Bldg.** (`E-028`, `S-035`). The 505/505½ variation is retained as printed and does not by itself prove a physical floor/room/storefront move.
+Exact newspaper scans now preserve Dr. Freeze's advertised address as **505½ Main** on 8 April and 20 May 1921, **505 Main St., Opposite Postoffice** on 28 October 1921, and **505½ Main** on 13 January, 3 February, 9 February and 30 June 1922. The 30 June ad says that **after July 1** he will be at **207 Masonic Bldg.** (`E-028`, `E-137`, `E-345`; `S-035`, `S-153`, `S-370`, `S-371`). The 505/505½ variation is retained as printed and does not by itself prove a physical floor/room/storefront move.
 
 ## 20 May 1921 — 514 Main furniture-store succession evidence
 The *Oregon City Enterprise* states that W. O. Witham had come from Salem about two and one-half years earlier and purchased **A. A. Munden's furniture store at 514 Main street**, later adding stock and purchasing Terk Brothers' stock (`E-170`, `S-191`). The visually verified 10 October 1918 *Courier* independently prints **A. A. Mundin, 514 Main** (`S-034`). This strengthens 514 as the intended address and preserves the Mundin/Munden spelling variation, but it does not erase the separate unresolved 24 October 1918 `614 Main` directory reading or supply an exact transfer date.

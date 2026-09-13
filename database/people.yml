@@ -301,14 +301,14 @@ people:
     repository_file: people/profiles/dr-freeze.md
     role: Eye specialist
     notes: >-
-      Harvey Freeze moved his practice from Portland to Oregon City in March 1921. Visually verified ads place him at 507½ Main on Mar 25 and Apr 1, 505½ Main on Apr 8 and May 20, printed 505 Main opposite Postoffice on Oct 28, and 505½ Main on Jun 30 1922 with an after-July-1 move notice to 207 Masonic Bldg. Address-form variation does not prove physical room/floor movement.
+      Harvey Freeze moved his practice from Portland to Oregon City in March 1921. Visually verified ads place him at 507½ Main on Mar 25 and Apr 1; 505½ Main on Apr 8 and May 20; printed 505 Main opposite Postoffice on Oct 28; and 505½ Main on Jan 13, Feb 3, Feb 9 and Jun 30 1922. The Jun 30 notice announces an after-July-1 move to 207 Masonic Bldg. Address-form variation does not prove physical room/floor movement.
     related_buildings:
       - B-002
       - B-003
     related_businesses:
       - BUS-021
-    related_evidence: [E-028, E-137]
-    related_sources: [S-035, S-153]
+    related_evidence: [E-028, E-137, E-345]
+    related_sources: [S-035, S-153, S-370, S-371]
 
   - id: P-028
     name: Edwin F. Farr
@@ -964,7 +964,7 @@ people:
   - id: P-083
     name: L. E. May
     role: Scripture & May partner
-    notes: Identity with May in May & Washburn and any 108 Fifth succession remain research leads only.
+    notes: A 16 Feb 1922 joint May & Washburn / S. F. Scripture horseshoeing ad proves commercial association but does not name either May or give May & Washburn an address. Identity with May in May & Washburn and any merger, shared premises or 108 Fifth succession remain research leads only.
     related_businesses: [BUS-039, BUS-069]
     related_buildings: [B-008]
     repository_file: people/profiles/l-e-may.md
@@ -972,10 +972,10 @@ people:
   - id: P-084
     name: Washburn
     role: May & Washburn garage partner
-    notes: Frame garage and two automobiles destroyed July 1922; given name, exact address and partnership terms unresolved.
+    notes: A 16 Feb 1922 joint May & Washburn / S. F. Scripture horseshoeing ad proves commercial association but gives May & Washburn no address. Frame garage and two automobiles destroyed July 1922; given name, exact address, merger/succession and partnership terms unresolved.
     related_businesses: [BUS-069]
-    related_evidence: [E-103]
-    related_sources: [S-117]
+    related_evidence: [E-103, E-347]
+    related_sources: [S-117, S-371]
     repository_file: people/profiles/washburn.md
 
   - id: P-085

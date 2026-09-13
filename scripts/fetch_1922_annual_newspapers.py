@@ -47,6 +47,21 @@ def weekly_dates(first: dt.date) -> list[dt.date]:
     return dates
 
 
+def published_dates(meta: dict[str, object]) -> list[dt.date]:
+    """Read the archive's title calendar instead of assuming every weekday.
+
+    This matters for exceptions such as the Oregon City Enterprise issue dated
+    Wednesday, 15 June 1922 instead of its ordinary Friday publication date.
+    """
+    calendar_url = f"{BASE}/{meta['lccn']}/issues/1922/"
+    html = fetch(calendar_url).decode("utf-8", errors="replace")
+    pattern = rf"/lccn/{meta['lccn']}/(1922-\d{{2}}-\d{{2}})/ed-\d+/"
+    dates = sorted({dt.date.fromisoformat(value) for value in re.findall(pattern, html)})
+    if not dates:
+        raise RuntimeError(f"No 1922 issue dates exposed for {calendar_url}")
+    return dates
+
+
 def fetch(url: str, attempts: int = 5) -> bytes:
     for attempt in range(1, attempts + 1):
         try:
@@ -101,7 +116,10 @@ def fetch_page(
 
 
 def fetch_title_month(slug: str, meta: dict[str, object], month: int, workers: int) -> None:
-    days = [day for day in weekly_dates(meta["first"]) if day.month == month]
+    all_published = published_dates(meta)
+    days = [day for day in all_published if day.month == month]
+    expected = set(weekly_dates(meta["first"]))
+    published = set(all_published)
     out = ROOT / "newspapers" / slug / f"1922-{month:02d}"
     (out / "ocr").mkdir(parents=True, exist_ok=True)
     issues: list[dict[str, object]] = []
@@ -130,6 +148,13 @@ def fetch_title_month(slug: str, meta: dict[str, object], month: int, workers: i
         "year": 1922,
         "month": month,
         "status": "RETRIEVAL ONLY — original page scans require visual inspection before certification",
+        "inventory_source": f"{BASE}/{meta['lccn']}/issues/1922/",
+        "expected_weekly_dates_absent_from_archive_calendar": sorted(
+            day.isoformat() for day in expected - published if day.month == month
+        ),
+        "archive_calendar_dates_outside_expected_weekday": sorted(
+            day.isoformat() for day in published - expected if day.month == month
+        ),
         "issues": issues,
         "total_pages": sum(int(issue["page_count"]) for issue in issues),
     }

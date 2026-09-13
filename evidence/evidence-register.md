@@ -3422,3 +3422,33 @@ Type: Annual research-completeness evidence
 Claims: 1916 satisfies the ONLINE COMPLETE definition; Courier is 458/458 visually reviewed; Enterprise is 425/426 certified with the true 12 May weekly page 8 preserved as a retrieval gap; all remaining non-online work is enumerated as MF-061 through MF-067. Other online source classes were reviewed or their public-online access limits established without treating source silence as historical absence.  
 Source: `S-369`.  
 Confidence: Very High for research-status classification; unresolved historical occupancy questions remain explicitly unresolved.
+
+## E-343 — January–February 1922 Enterprise complete visual coverage
+Type: Primary newspaper visual evidence / annual page-level coverage  
+Claims: All **64/64 pages** in the **8/8** online Enterprise issues from January and February were visually inspected; no retrieval gap occurred. The bounded no-hit result is not evidence of vacancy, non-use, non-ownership, closure or absence of construction.  
+Source: `S-370`.  
+Confidence: Very High.
+
+## E-344 — January–February 1922 Banner-Courier complete visual coverage
+Type: Primary newspaper visual evidence / annual page-level coverage  
+Claims: All **78/78 pages** in the **8/8** online Banner-Courier issues from January and February were visually inspected; no retrieval gap occurred. The 19 January front-page masthead visibly prints 1921, while the ODNP date and surrounding weekly sequence place the issue in 1922.  
+Source: `S-371`.  
+Confidence: Very High for inspected coverage and visible wording.
+
+## E-345 — Dr. Harvey Freeze at 505½ Main in January–February 1922
+Type: Primary newspaper advertisements / exact professional address  
+Claims: 13 January Enterprise page 3, 3 February Enterprise page 3 and 9 February Banner-Courier page 7 visibly advertise Dr. Freeze at **505½ Main St.**, opposite the post office. The half-number does not establish floor, internal layout, property ownership or a physical relationship to a ground-floor 505 business.  
+Sources: `S-370`, `S-371`.  
+Confidence: Very High for printed name/address; physical arrangement unresolved.
+
+## E-346 — January–February 1922 Oregon City pool-room ordinance sequence
+Type: Primary newspaper reports and printed proposed ordinance  
+Claims: The proposed ordinance required location-specific petitions/notices, Council approval, a $500 bond, ground-floor visibility and fees, and required Council consent for transfers. Enterprise reports final passage on 1 February, preserving Sunday opening while imposing the bond, revocation power and lunch-counter ban. The reviewed pages name no pool-room operator or address and do not identify the July fire-adjacent hall.  
+Sources: `S-370`, `S-371`.  
+Confidence: Very High for visible printed sequence; exact licensees/premises unresolved.
+
+## E-347 — May & Washburn and S. F. Scripture joint horseshoeing advertisement
+Type: Primary newspaper advertisement / business-relationship control  
+Claims: 16 February Banner-Courier page 5 jointly heads a horseshoeing price-reduction notice May & Washburn and S. F. Scripture. A separate Scripture ad on the same page gives 108 Fifth; the joint notice gives May & Washburn no address. The page does not prove partnership merger, succession, shared premises, or identity of May with L. E. May.  
+Source: `S-371`.  
+Confidence: Very High for printed wording; identities and premises limits explicit.

@@ -1,0 +1,62 @@
+name: Preserve complete 1922 Oregon City newspaper corpus
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/preserve-1922-newspaper-corpus.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  preserve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before acquisition
+        run: python3 scripts/validate_archive.py
+      - name: Fetch every 1922 ODNP issue and page derivative
+        run: python3 scripts/fetch_1922_annual_newspapers.py --workers 8
+      - name: Retain completed January-February visual certifications
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          review = "evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md"
+          for title in ("oregon-city-enterprise", "banner-courier"):
+              for month in (1, 2):
+                  path = Path("newspapers") / title / f"1922-{month:02d}" / "manifest.json"
+                  data = json.loads(path.read_text())
+                  data["status"] = "VISUALLY VERIFIED — all original page scans inspected"
+                  data["visual_review_date"] = "2026-09-13"
+                  data["visual_review_record"] = review
+                  path.write_text(json.dumps(data, indent=2) + "\n")
+          PY
+      - name: Validate archive after acquisition
+        run: python3 scripts/validate_archive.py
+      - name: Commit preserved corpus
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add newspapers/oregon-city-enterprise/1922-* newspapers/banner-courier/1922-*
+          if git diff --cached --quiet; then
+            echo 'No corpus changes.'
+            exit 0
+          fi
+          git commit -m 'Preserve complete 1922 Oregon City newspaper corpus'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep $((attempt * 3))
+          done
+          exit 1

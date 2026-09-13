@@ -3184,3 +3184,19 @@ URL: https://github.com/rodyoung1967/main-street-archives/blob/main/evidence/sou
 Repository capture: `evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md`  
 Related evidence: `E-342`.  
 Notes: Certifies 1916 as ONLINE COMPLETE under RESEARCH-STANDARD.md after newspaper, directory, map, municipal, property, historic-resource, photograph, and official-database reconciliation. Remaining physical/restricted/non-rendering work is preserved as MF-061 through MF-067.
+
+## S-370 — Oregon City Enterprise, January–February 1922 complete page-scan review
+Type: Primary newspaper page scans; visually verified **64/64 pages in 8/8 issues**  
+Date: 6 January–24 February 1922  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/  
+Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`  
+Related evidence: `E-343`, `E-345`, `E-346`.  
+Notes: Every exposed January–February page inspected; no retrieval gaps. Relevant anchors include Dr. Freeze at 505½ and the pool-room ordinance sequence.
+
+## S-371 — The Banner-Courier, January–February 1922 complete page-scan review
+Type: Primary newspaper page scans; visually verified **78/78 pages in 8/8 issues**  
+Date: 5 January–23 February 1922  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/  
+Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`  
+Related evidence: `E-344`, `E-345`, `E-346`, `E-347`.  
+Notes: Every exposed January–February page inspected; no retrieval gaps. The 19 January front-page masthead misprints 1921; the ODNP date and surrounding weekly sequence place the issue in 1922.

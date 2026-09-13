@@ -1262,3 +1262,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Locally completed January–May retrieval manifests for both 1922 titles: Enterprise 21 issues / 168 pages; Banner-Courier 21 issues / 210 pages; total 42 issues / 378 pages. **No newly retrieved page was visually reviewed in this stream.**
 - The interrupted next acquisition contains eight 2 June Enterprise page pairs without a completed June manifest; rerun June before credit.
 - Full checkpoint: `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`. 1922 remains **IN PROGRESS**. No institutional outreach or fee authorization occurred.
+
+## 2026-09-13 — 1922 January–February complete visual batch
+
+- Reconciled the ODNP 1922 title calendars and visually inspected every page scan in the 8 January–February *Oregon City Enterprise* issues (64/64 pages) and 8 *Banner-Courier* issues (78/78 pages): **16 issues / 142 pages**, no retrieval gaps.
+- Preserved every page PDF, OCR discovery derivative and SHA-256 manifest under the corresponding `newspapers/` month directories; OCR was not treated as verification.
+- Verified 505½ Main advertisements for Dr. Harvey Freeze on 13 January, 3 February and 9 February (`E-345`).
+- Verified the 13 January–1 February pool-room ordinance sequence (`E-346`): location-specific petitions/notices, Council approval, $500 bond and transfer consent requirements; no hall/operator/address identified.
+- Verified the 16 February May & Washburn / S. F. Scripture joint horseshoeing advertisement (`E-347`) while withholding Scripture's separately advertised 108 Fifth address from May & Washburn.
+- Recorded the 19 January *Banner-Courier* front-page masthead's printed `1921` year error without altering the archive's 1922 issue inventory.
+- Cross-record propagation completed through source/evidence/timeline YAML, master and 505 timelines, business/person pages, business timeline, open questions, research leads, `MF-013`, year status and this log. 1922 remains **IN PROGRESS**; no outreach or fee authorization occurred.

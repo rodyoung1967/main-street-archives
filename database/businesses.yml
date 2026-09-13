@@ -343,7 +343,7 @@ businesses:
     name: Dr. Freeze, Eye Specialist
     address: 507 1/2 Main (Mar-Apr 1921); 505 / 505 1/2 Main (Apr 1921-Jun 1922)
     notes: >-
-      Harvey Freeze moved his practice from Portland to Oregon City in March 1921. Visually verified ads print 507½ Main on Mar 25 and Apr 1; 505½ Main on Apr 8; 505 Main on May 13; 505½ Main again on May 20; 505 Main, Opposite Postoffice, on Oct 28; and 505½ Main again on Jun 30 1922 with a notice that after July 1 he would be at 207 Masonic Bldg. The 505/505½ variation is preserved as printed and does not prove a physical room/floor move.
+      Harvey Freeze moved his practice from Portland to Oregon City in March 1921. Visually verified ads print 507½ Main on Mar 25 and Apr 1; 505½ Main on Apr 8; 505 Main on May 13; 505½ Main again on May 20; 505 Main, Opposite Postoffice, on Oct 28; and 505½ Main on Jan 13, Feb 3, Feb 9 and Jun 30 1922. The Jun 30 notice says that after July 1 he would be at 207 Masonic Bldg. The 505/505½ variation is preserved as printed and does not prove a physical room/floor move.
     related_buildings:
       - B-002
       - B-003
@@ -352,7 +352,8 @@ businesses:
     related_evidence:
       - E-028
       - E-137
-    related_sources: [S-035, S-153]
+      - E-345
+    related_sources: [S-035, S-153, S-370, S-371]
     repository_file: businesses/dr-freeze.md
 
   - id: BUS-022
@@ -985,10 +986,10 @@ businesses:
   - id: BUS-069
     name: May & Washburn garage
     address: Fifth/Main fire cluster; exact number unresolved
-    notes: Partnership documented by December 1920; frame garage and two automobiles destroyed July 1922. Continued later. No S. F. Scripture/L. E. May identity or 108 Fifth succession assumed.
+    notes: Partnership documented by December 1920; a 16 Feb 1922 joint horseshoeing ad with S. F. Scripture proves commercial association but gives May & Washburn no address; frame garage and two automobiles destroyed July 1922. Continued later. No merger, S. F. Scripture/L. E. May identity, or 108 Fifth succession assumed.
     related_people: [P-083, P-084]
-    related_evidence: [E-103]
-    related_sources: [S-117]
+    related_evidence: [E-103, E-347]
+    related_sources: [S-117, S-371]
     repository_file: businesses/may-washburn.md
 
   - id: BUS-070
