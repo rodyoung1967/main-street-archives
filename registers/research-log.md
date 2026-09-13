@@ -1253,3 +1253,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - No exact 503/505 premises fact was established. Registered `S-323` / `E-296`.
 - Cross-record propagation audit: no new building, business, person, ownership, tenancy, license, trade-name, construction, demolition, sale, vacancy or target-address relationship was created; timeline/building/business/person/open-question records therefore require no historical-content change from this bounded no-hit issue.
 - Courier advances to **326/458**; **132 Courier + 426 Enterprise = 558** newspaper pages remain. Next ordinary Courier page: **24 August 1916 p1**. 1916 remains **IN PROGRESS / not ONLINE COMPLETE**.
+
+## 2026-09-13 — 1922 annual-audit stream save
+
+- Preserved the steward-supplied P-9594 zoom as `IMG-0772` with the original 706×1536 bytes and SHA-256 `53a4ca00eabab2cebe14b36e1a54fe575c38ed6aabdda9e50eda16e51053b23f`.
+- Corrected stale P-9594 language across the canonical structural records: light building = steward-identified 501; apparent intervening 503 position; shadowed substantial 505 mass. This is a working spatial interpretation, not vacancy, continuity, construction-date, or fire-origin proof.
+- Confirmed direct ODNP issue/PDF/OCR access and created `scripts/fetch_1922_annual_newspapers.py` for reproducible title/date/sequence inventory, page acquisition, hashes, and monthly retrieval-only manifests.
+- Locally completed January–May retrieval manifests for both 1922 titles: Enterprise 21 issues / 168 pages; Banner-Courier 21 issues / 210 pages; total 42 issues / 378 pages. **No newly retrieved page was visually reviewed in this stream.**
+- The interrupted next acquisition contains eight 2 June Enterprise page pairs without a completed June manifest; rerun June before credit.
+- Full checkpoint: `evidence/source-captures/2026-09-13-1922-annual-audit-stream-save.md`. 1922 remains **IN PROGRESS**. No institutional outreach or fee authorization occurred.
