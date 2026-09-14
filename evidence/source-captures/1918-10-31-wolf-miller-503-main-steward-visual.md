@@ -2,79 +2,77 @@
 
 ## Status
 
-**PROJECT-STEWARD VISUALLY VERIFIED / DIRECT EXACT-ADDRESS EVIDENCE** for the supplied/inspected newspaper items described below.
+**DIRECT / VISUALLY VERIFIED exact-address evidence.** The current repo has three direct 505 Main anchors followed by one conflicting 503 Main printed address. Preserve every source literally; do not convert the 31 October item into a proved move.
 
-The archive now has direct contemporary evidence placing **Wolf & Miller** at both **505 Main** and **503 Main** during a short late-1918 interval. Preserve the conflict/transition rather than normalizing one address to the other.
+## Exact-address chronology
 
-## 20 September 1918 — Oregon City Enterprise, p.3
+### 20 September 1918 — Oregon City Enterprise, p.3
+- **Wolf & Miller — 505 Main St., Oregon City**.
+- Men's clothing, shoes and shoe repairing.
+- `S-187` / `E-166`.
+- **VISUALLY VERIFIED** and repository PDF preserved.
+- This is the **earliest exact Oregon City address currently documented in the repo for the firm**.
 
-Project steward Rodney Young reports a visually verified *Oregon City Enterprise* item on **20 September 1918, page 3**, placing **Wolf & Miller at 505 Main Street**.
+### 10 October 1918 — Oregon City Courier, p.4
+- **Wolf & Miller — 505 Main**.
+- Shoe/clothing and modern shoe-repair discussion.
+- `S-034` / `E-027`.
+- **VISUALLY VERIFIED** and repository PDF preserved.
 
-- Publication: *Oregon City Enterprise*
-- Issue date: **Friday, 20 September 1918**
-- Page: **3**
-- Business: **Wolf & Miller**
-- Exact address: **505 Main St.**
-- Evidence state: **PROJECT-STEWARD VISUALLY VERIFIED / DIRECT EXACT-ADDRESS EVIDENCE**
-- Significance: this is currently the **earliest exact-address date documented in the project for Wolf & Miller at 505 Main**.
+### 24 October 1918 — Oregon City Courier, p.6
+- Business guide directly prints **Wolf & Miller — 505 Main**.
+- `S-138` / `E-124`.
+- **VISUALLY VERIFIED**.
+- This is the **latest exact 505 Main occurrence currently documented in the repo**.
 
-## 10 October 1918 — Oregon City Courier, p.4
+### 31 October 1918 — Oregon City Courier, p.4
+- Answer page directly prints: `Wolf & Miller at 503 Main St.` and describes men's clothing/furnishings and shoe repairing.
+- `S-188` / `E-167`.
+- **VISUALLY VERIFIED**; project steward also supplied and inspected the item.
+- This is the **only exact 503 Main occurrence currently documented in the repo for Wolf & Miller**.
 
-Existing archive evidence directly prints **Wolf & Miller, 505 Main** on **10 October 1918**.
+## Current earliest / latest bounds
 
-- Publication: *Oregon City Courier*
-- Issue date: **Thursday, 10 October 1918**
-- Page: **4**
-- Exact address: **505 Main**
-- Evidence state: **DOCUMENTED / DIRECT**
+### Wolf & Miller at 505 Main
+- **Earliest:** 20 Sep 1918.
+- **Latest:** 24 Oct 1918.
 
-This establishes a currently documented 505 Main bracket of at least:
+### Wolf & Miller at 503 Main
+- **Earliest and latest currently documented:** 31 Oct 1918 only.
 
-> **20 Sep 1918 → 10 Oct 1918**
+### Wolf & Miller firm identity outside Oregon City address evidence
+- A **3 Feb 1916 Lane County News** item directly names **Gilbert Miller of the Wolf & Miller Harness shop in Springfield** (`S-125` / `E-113`). This is an earlier firm/identity antecedent, **not Oregon City occupancy**.
+- August 1918 Springfield/Eugene reports document the Miller partner's close-out/departure for Oregon City but contain the unresolved **Gilbert Miller / C. E. Miller** name-form conflict; they do not supply a 503/505 Oregon City address.
+- A **11 Jul 1919 Oregon City Enterprise** item places the Gilbert Miller household at Ninth and Division, but does not name Wolf & Miller and is therefore residence/identity context only.
 
-for Wolf & Miller, pending discovery of earlier/later exact-address references.
+## Address conflict
 
-## 31 October 1918 — Oregon City Courier
+The direct sequence is:
 
-Rodney Young supplied and visually verified a photograph of the relevant *Oregon City Courier* item from **31 October 1918**. The printed text plainly reads:
+- **20 Sep — 505 Main**
+- **10 Oct — 505 Main**
+- **24 Oct — 505 Main**
+- **31 Oct — 503 Main**
 
-> `22.—Wolf & Miller at 503 Main St., not only sell men's clothing and furnishing goods, but also do shoe repairing.`
-
-The number **503** is clearly legible in the supplied image.
-
-- Publication: *Oregon City Courier*
-- Issue date: **Thursday, 31 October 1918**
-- Item number in printed feature/list: **22**
-- Exact printed address: **503 Main St.**
-- Business: **Wolf & Miller**
-- Activities stated: men's clothing, furnishing goods, and shoe repairing
-- Evidence state: **PROJECT-STEWARD VISUALLY VERIFIED / DIRECT EXACT-ADDRESS EVIDENCE**
-- Supplied image filename in conversation: `IMG_7FDE225A-9405-4F23-884F-9A55E311D671.jpeg`
-
-## Current address chronology / unresolved transition
-
-The current direct exact-address sequence is:
-
-- **20 Sep 1918 — Wolf & Miller — 505 Main**
-- **10 Oct 1918 — Wolf & Miller — 505 Main**
-- **31 Oct 1918 — Wolf & Miller — 503 Main**
-
-Do **not** silently correct or merge these addresses. Possible explanations include:
-
-1. a move from 505 to 503 sometime after 10 October and by 31 October 1918;
+Possible explanations remain:
+1. a rapid relocation after 24 October and by 31 October;
 2. use of both adjacent addresses;
 3. a complex/shared premises arrangement;
-4. a newspaper/address error in one source.
+4. a newspaper/typesetting/answer-key error.
 
-No explanation is presently proved.
+No recovered source proves which explanation is correct. The highest-value transition interval is therefore **25–31 October 1918**, not the previously stated 11–30 October interval.
 
-The highest-value search interval for resolving the transition is therefore **11–30 October 1918**, plus earlier 1918 exact-address advertising to push the 505 bracket backward.
+## Limits
 
-## Significance
+Do not merge the unidentified Wolf partner with **S. Wolf of Portland** or later reported Wolf-family 503 ownership without a direct identity bridge. Do not convert the Gilbert Miller identity evidence into proof that Gilbert is directly named as the 1918 Oregon City partner; the 1918 exact-address advertisements name the firm, not its individual partners.
 
-This materially affects the 1918–1922 frontage reconstruction. Wolf & Miller cannot presently be treated as exclusively documented at 505 during late 1918. The exact 503/505 relationship should remain an explicit research question, especially given later S. Wolf ownership evidence in the July 1922 fire cluster.
+## Canonical cross-references
 
-## Preservation tasks
-
-- Preserve the supplied 31 October crop in the repository's canonical newspaper/media hierarchy when a binary-ingest route is available.
-- Preserve the 20 September 1918 *Oregon City Enterprise*, p.3 page/crop when available, including stable URL and exact item transcription.
+- `E-166` / `S-187` — 20 Sep 1918, 505 Main.
+- `E-027` / `S-034` — 10 Oct 1918, 505 Main.
+- `E-124` / `S-138` — 24 Oct 1918, 505 Main.
+- `E-167` / `S-188` — 31 Oct 1918, 503 Main conflict.
+- `E-113` / `S-125` — 3 Feb 1916 Springfield identity antecedent.
+- `businesses/wolf-miller.md`
+- `timelines/505-main.md`
+- `timelines/503-main.md`
