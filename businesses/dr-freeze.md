@@ -13,3 +13,6 @@ Four exact Enterprise page scans now physically preserved under `newspapers/` ma
 
 ## 13–20 May 1921 address-form alternation
 A newly supplied visually verified **13 May 1921** *Enterprise* ad prints **505 Main St.** without a half-number (`S-035` / `E-028`). The already preserved **20 May** ad prints **505½ Main St.** This one-week alternation reinforces that the newspaper's `505` / `505½` forms cannot by themselves establish the physical layout or a move between floors, side-by-side spaces, front/rear sections, or other subdivisions.
+
+## 14 September 2026 steward-held October 1921 confirmation
+Project steward Rodney Young confirms that he has the **28 October 1921 Oregon City Enterprise** Dr. Freeze advertisement in his source material. The advertisement is already represented in `S-035` / `E-028` and prints **505 Main St., Opposite Postoffice** (without the half-number). This confirmation strengthens source custody/provenance only; it does not change the existing historical interpretation or convert the printed `505` form into proof of a physical move from `505½`.
