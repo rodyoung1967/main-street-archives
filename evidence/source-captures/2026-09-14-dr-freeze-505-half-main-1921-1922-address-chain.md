@@ -8,12 +8,21 @@ Date recorded: 14 September 2026
 
 The project steward has visually inspected original *Oregon City Enterprise* issue images and directly verified Dr. Freeze at **505½ Main Street** on the following dates:
 
+- **13 May 1921** — Dr. Freeze is listed at **505½ Main Street**.
 - **27 May 1921** — item includes a photograph of Dr. Freeze and explicitly lists **505½ Main Street**.
 - **7 Oct 1921, p.3** — Dr. Freeze is listed at **505½ Main Street**.
 - **10 Mar 1922** — Dr. Freeze is listed at **505½ Main Street**.
 - **30 Jun 1922** — Dr. Freeze is listed at **505½ Main Street**.
 
-These four dates are therefore treated as **PROJECT-STEWARD VISUALLY VERIFIED** original-newspaper evidence, not OCR/text-only leads. Repository copies of the corresponding page images remain source-file ingest tasks where the binary has not yet been preserved locally.
+These dates are therefore treated as **PROJECT-STEWARD VISUALLY VERIFIED** original-newspaper evidence, not OCR/text-only leads. Repository copies of the corresponding page images remain source-file ingest tasks where the binary has not yet been preserved locally.
+
+## 13 May 1921 — Oregon City Enterprise
+
+- Publication: *Oregon City Enterprise*
+- Issue date: Friday, 13 May 1921
+- Project-steward visual observation: Dr. Freeze is listed at **505½ Main Street, Oregon City**.
+- Evidence state: **PROJECT-STEWARD VISUALLY VERIFIED / LOCAL BINARY INGEST PENDING**.
+- Research significance: this is now the earliest directly documented Dr. Freeze / 505½ Main occurrence in the current address chain, moving the known occupancy bracket back two weeks from 27 May 1921.
 
 ## 27 May 1921 — Oregon City Enterprise
 
@@ -22,7 +31,7 @@ These four dates are therefore treated as **PROJECT-STEWARD VISUALLY VERIFIED** 
 - Online issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-05-27/ed-1/
 - Project-steward visual observation: Dr. Freeze is shown/identified in the issue, including a photograph, and his office is listed at **505½ Main Street, Oregon City**.
 - Evidence state: **PROJECT-STEWARD VISUALLY VERIFIED / LOCAL BINARY INGEST PENDING**.
-- Research significance: this moves the directly documented 505½ Main occupancy back at least to **27 May 1921**, more than a year before the July 1922 Fifth/Main fire.
+- Research significance: confirms continued occupancy at the same address two weeks after the 13 May 1921 occurrence.
 
 ## Additional project-steward visual verifications
 
@@ -67,6 +76,7 @@ Existing project work also records a late-June 1922 notice that Dr. Freeze was l
 
 The current documented sequence should therefore be expressed conservatively as:
 
+- **13 May 1921 — project-steward visually verified at 505½ Main Street.**
 - **27 May 1921 — visually verified at 505½ Main Street; item includes Dr. Freeze photograph.**
 - **26 Aug 1921 — contemporary ad at 505½ Main Street.**
 - **7 Oct 1921, p.3 — project-steward visually verified at 505½ Main Street.**
@@ -78,7 +88,7 @@ The current documented sequence should therefore be expressed conservatively as:
 - **After 1 July 1922 — departure from 505½ Main is reported in project newspaper work.**
 - **By 19 Oct 1922 — Dr. Freeze advertises at 207–8 Masonic Building.**
 
-This is substantially stronger than treating June 1922 as the first known Dr. Freeze / 505½ anchor. The evidence now documents a sustained 505½ Main office presence from at least **27 May 1921 through 30 Jun 1922**.
+The evidence now documents a sustained 505½ Main office presence from at least **13 May 1921 through 30 Jun 1922**.
 
 ## Structural significance for 505 / 505½
 
@@ -92,10 +102,11 @@ It still does **not** establish what 505½ represented physically. Under the pro
 
 Retrieve and preserve the original newspaper pages for the steward-verified dates under the canonical `newspapers/` hierarchy where they are not already present:
 
-1. 27 May 1921 *Oregon City Enterprise* — Dr. Freeze item/photo and 505½ Main address.
-2. 7 Oct 1921 *Oregon City Enterprise*, p.3 — Dr. Freeze / 505½ Main.
-3. 10 Mar 1922 *Oregon City Enterprise* — Dr. Freeze / 505½ Main.
-4. 30 Jun 1922 *Oregon City Enterprise* — Dr. Freeze / 505½ Main.
+1. 13 May 1921 *Oregon City Enterprise* — Dr. Freeze / 505½ Main.
+2. 27 May 1921 *Oregon City Enterprise* — Dr. Freeze item/photo and 505½ Main address.
+3. 7 Oct 1921 *Oregon City Enterprise*, p.3 — Dr. Freeze / 505½ Main.
+4. 10 Mar 1922 *Oregon City Enterprise* — Dr. Freeze / 505½ Main.
+5. 30 Jun 1922 *Oregon City Enterprise* — Dr. Freeze / 505½ Main.
 
 Record exact page/image numbers, original stable URLs, and whether each occurrence is an advertisement, profile, notice, or other item. The steward's direct visual inspection already satisfies the project's visual-evidence classification for the observations themselves; pending binary ingest is a preservation/provenance task, not a reason to downgrade them to OCR-only.
 
