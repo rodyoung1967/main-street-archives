@@ -3,6 +3,18 @@
 Date: 15 September 2026
 Repository: `rodyoung1967/main-street-archives`
 
+## CCHS catalog metadata supplied by project steward
+
+The project steward recovered the following catalog metadata for the photograph on 15 September 2026:
+
+- **Name/Title:** Oregon City Main Street
+- **Entry/Object ID:** C.0250.005060
+- **Description:** Business Section of Oregon City from the Bluff.
+
+Crucially, this metadata **does not state a 1922 or pre-1922 date**. The earlier words `pre 1922` came from the uploaded/inherited filename and must not be attributed to Clackamas County Historical Society catalog metadata.
+
+This changes the purpose of the dating work: it should be framed as an effort to **help refine an undated catalog photograph**, not as a correction of a CCHS dating error.
+
 ## User-supplied image re-upload
 
 Uploaded filename: `Oregon City Main Street (Date Unnown - pre 1922)(3).jpg`
@@ -11,11 +23,11 @@ Visible caption: **BUSINESS SECTION OF OREGON CITY, OREGON FROM THE BLUFFS**.
 Visible lower-right photographer mark appears to read **Eddy**.
 The image carries a Clackamas County Historical Society watermark.
 
-The filename date is user/file metadata only and is not accepted as historical dating evidence.
+The filename wording is not institutional dating evidence.
 
 ### Binary preservation
 
-The re-uploaded binary was inspected directly in the active runtime. The current GitHub connector workflow does not provide a safe direct mounted-file-to-repository binary transfer. Preserve this as a **technical ingest gap**. A later environment with binary-ingest capability should compare this re-upload against existing media, then preserve the nonduplicate image under `media/`, assign/confirm an `IMG-####` ID, and update `media/photo-metadata-register.md`.
+The re-uploaded binary was inspected directly in the active runtime. The current GitHub connector workflow has not yet safely transferred the mounted JPEG into the repository. Preserve this as a **technical ingest gap**. The exact image file therefore is **not yet claimed as saved in the repo**. A binary-capable repo session should compare it against existing media, preserve the nonduplicate image under `media/`, assign/confirm an `IMG-####` ID, and update `media/photo-metadata-register.md` with the CCHS metadata above.
 
 ## 1923 replacement Elks Lodge comparison
 
@@ -41,27 +53,17 @@ The available bluff angle does **not** expose enough of the principal street fac
 
 This substantially weakens any 1922 or early-1923 date. Because the replacement was still under construction in September 1923 and the first lodge meeting in the completed new building was 7 December 1923, the most defensible working lower bound is now **late 1923**, with **December 1923 or later** favored if the photographed building is in completed form.
 
-Do not yet express 7 December 1923 as an exact terminus post quem: the photograph does not independently prove whether every visible portion was complete before the first meeting. Preserve the bracket as approximately **late 1923 through 1935/early 1936** pending later-building tests and the old-courthouse replacement chronology.
+Do not yet express 7 December 1923 as an exact terminus post quem: the photograph does not independently prove whether every visible portion was complete before the first meeting.
 
-The later 1920s and early 1930s remain fully viable.
-
-## Later-building tests
-
-The next dating pass should test securely mapped/visible structures erected or substantially changed in **1925, 1928, 1930, 1931, 1933, and 1935**. Only buildings actually visible in this bluff view should be used to advance the terminus post quem. Generic citywide construction dates are not useful without a positive image-location match.
-
-No later terminus post quem beyond late 1923 is claimed in this capture yet.
+Later research in the repository has since produced a stronger working date of approximately **1929–1935**, based principally on the post-improvement Railroad Avenue configuration and the still-standing old courthouse. See `evidence/source-captures/2026-09-15-eddy-bluff-photo-1929-1935-metadata-challenge-and-ohs-followup.md`; its external-facing framing should now be revised from a metadata challenge to a dating-assistance note because CCHS metadata itself is undated.
 
 ## 17 August 1922 Banner-Courier — QUALITY CAFE
 
-Public Historic Oregon Newspapers text for *Banner-Courier*, 17 Aug. 1922, p.2, continues to transcribe the Buy At Home/Friends of Labor list as **QUALITY CAFE**. The list is unmistakably Oregon City context and includes numerous identifiable local businesses.
-
-However, this pass was able to retrieve the OCR/text representation but **not the faithful page scan image** through the available research route. Under `RESEARCH-STANDARD.md`, this remains **OCR/TEXT ONLY**, not VISUALLY VERIFIED.
+Public Historic Oregon Newspapers text for *Banner-Courier*, 17 Aug. 1922, p.2, continues to transcribe the Buy At Home/Friends of Labor list as **QUALITY CAFE**. However, this remains **OCR/TEXT ONLY**, not VISUALLY VERIFIED, until the faithful page scan is inspected.
 
 The OCR occurrence supplies **no street address or proprietor**. It therefore does not establish that Quality Cafe was at 503 Main and does not establish identity with later Kwality Restaurant/Kwality Cafe.
 
-Targeted public searches for `Quality Cafe` / `Kwality Restaurant` / `Kwality Cafe` in Oregon City, 1922–1927, did not recover a new direct bridge in this pass. This is a bounded search result only, not evidence of absence.
-
-### Current hypothesis — unchanged
+## Current hypothesis — unchanged
 
 Possible sequence requiring proof:
 
@@ -69,18 +71,14 @@ Possible sequence requiring proof:
 
 Do **not** merge these businesses or spellings until direct evidence supports the transition.
 
-## Photo cafe sign
-
-The re-upload confirms the sign remains too small/soft at this derivative resolution to distinguish an initial **Q** from **K** reliably. The photograph must not be used as direct proof of either QUALITY or KWALITY spelling.
-
 ## Next actions
 
-1. Compare the bridge-adjacent structure against an original/pre-1968 Elks image and the actual 1925 Sanborn sheet at high resolution; if facade/footprint geometry independently locks, upgrade the Elks identification.
-2. Identify visible downtown buildings with securely documented 1925/1928/1930/1931/1933/1935 construction or major alteration dates and test them one by one against this image.
-3. Recover the faithful scan of 17 Aug. 1922 *Banner-Courier* p.2 and visually verify `QUALITY CAFE` before changing its evidence state.
-4. Continue exact-name/address/proprietor searches for Quality/Kwality, keeping spelling variants and business identity separate.
+1. Preserve the actual JPEG under `media/` in a binary-capable repo session and register **C.0250.005060** in `media/photo-metadata-register.md`.
+2. Revise any external report so it offers evidence to help date the currently undated CCHS catalog image rather than alleging a CCHS dating error.
+3. Continue refining the current circa 1929–1935 bracket, including exact Railroad Avenue completion and courthouse replacement milestones.
+4. Recover the faithful scan of 17 Aug. 1922 *Banner-Courier* p.2 and visually verify `QUALITY CAFE`.
 5. Do not send institutional requests or authorize fees without project-steward approval.
 
 ## Validation note
 
-`validate_archive.py` could not be executed through the current GitHub connector-only repository interface. No validator result is claimed for this write; the next shell-capable repo session should run it.
+This write was made through the GitHub connector. `validate_archive.py` was not executable in that connector-only environment; no validator result is claimed.
