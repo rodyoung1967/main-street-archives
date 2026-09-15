@@ -17,193 +17,109 @@ The **1925 Sanborn map directly labels 501 Main Street as a separate store space
 
 Oregon City's aerial photocompare series shows a **distinct 501 Main roof/structure in 1936**. A focused 5 September 2026 re-review of the 1940 frame shows that mapped corner footprint already gone (`E-021` / `S-023`). Therefore the historic 501 structure survived at least into 1936 and was removed sometime between the **1936 and 1940 aerial states**; 1944 is later confirmation.
 
-Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof and does not identify the July 1922 fire-origin room.
+Task 6 corrected the cadastral orientation: the odd-numbered 501/503/505/507 frontage is original **Block 4**, not Block 26 (`E-094`). Current 503 and 505 legal-description leads anchor the surviving frontage in Block 4, while current 504 across Main remains Block 26 Lot 5. Historic 501's exact Block 4 lot is still unresolved; the former claim placing 501 within Block 26 Lot 5 is withdrawn. The proportional 1925 frontage measurement may be re-tested against Block 4 geometry, but is not cadastral proof.
 
 ## Palace Saloon context, 1900–1907
 
-Three newly integrated visually verified pages add earlier business-history context (`E-154`–`E-156`; `S-174`–`S-176`):
+Three visually verified pages add earlier business-history context (`E-154`–`E-156`; `S-174`–`S-176`):
 
 - **6 Apr. 1900:** Albert Knapp is reported purchasing Palace Saloon, opposite the post office on a corner, with an intended refit.
-- **24 Feb. 1905:** A. Knapp is reported selling Palace Saloon to **A. J. Surber**. This directly proves Surber's Palace relationship on that date.
+- **24 Feb. 1905:** A. Knapp is reported selling Palace Saloon to **A. J. Surber**.
 - **19 Jul. 1907:** Palace Saloon is described as **on Fifth Street**.
 
-None of these pages prints 501. They therefore do not move the direct numbered anchor earlier than the **4 Oct. 1907 Surber No.501** notice, nor do they prove the 1905 Palace room and the 1907 No.501 room were identical.
+None prints 501. They do not move the direct numbered anchor earlier than the **4 Oct. 1907 Surber No.501** notice or prove structural continuity.
+
 ## Direct 1907 Numbered Occupancy Evidence
 
-**4 October 1907 Courier p3** directly names **A. J. Surber**, retail liquor renewal applicant, at **No.501, Main/Fifth**, his present place of business (E-121/S-135; P-055/BUS-045). This is an address assertion in a renewal notice, not the Council grant, a deed, opening date, Palace trade name or proof of later structural identity.
-
-The September 18, 1908 Surber notice repeats Fifth/Main without a number; the same page separately names Justin & Hitchman at that intersection. Neither the partnership nor Strebig's unnumbered Fifth/Main market is assigned to501 (E-122/E-123). [Full review](../evidence/source-captures/1907-1908-surber-justin-main-visual-review.md). OQ-032/RL-045 retain license, identity and corner questions.
-
-## Palace Saloon context added from 1907–1912 uploads
-
-New visually verified Palace Saloon pages refine the business chronology without changing the standard for exact 501 assignment (`E-151`–`E-153`; `S-171`–`S-173`). The trade name is present citywide by **24 May 1907** but without address/operator. On **17 September 1909**, Ralph O. Smith applies at the **Palace Saloon, corner Main/Fifth**, again without a number. The **20 June 1912** Joseph Wilson notice repeats Palace Saloon at Fifth/Main three months after the separate exact-501 Joe Wilson notice.
-
-Only the **19 March 1912** source directly prints **501 Main** together with the Palace Saloon trade name. The 1905 sale now directly ties Surber to Palace, but do not backfill 501 onto 1900/1905/July-1907/1909 pages or equate the 1905 Palace room with Surber's later exact-501 premises without an address-continuity bridge.
+**4 October 1907 Courier p3** directly names **A. J. Surber**, retail liquor renewal applicant, at **No.501, Main/Fifth**, his present place of business (`E-121`/`S-135`; `P-055`/`BUS-045`). This is address evidence, not title proof.
 
 ## Direct 1912–1913 Numbered Occupancy Evidence
 
-Two visually verified liquor-license notices directly identify **501 Main** before the later Fifth/Main undertaking evidence:
+- **19 March 1912:** Joe Wilson's **Palace Saloon, 501 Main Street**.
+- **3 October 1913:** **Hunsaker & Taylor**, place of business, **501 Main Street**.
 
-- **19 March 1912:** Joe Wilson's **Palace Saloon**, 501 Main Street.
-- **3 October 1913:** **Hunsaker & Taylor**, place of business, 501 Main Street.
+These establish separately named liquor-license premises at the exact address (`E-104`) without proving a transfer, rename, common ownership, uninterrupted operation, or building ownership.
 
-These notices establish two separately named liquor-license premises at the same exact address (`E-104`). They do **not** prove a business sale, rename, common ownership, uninterrupted operation, building ownership, or any July 1922 occupant/fire-origin conclusion.
+## July–August 1922 Property Division, Fire and Rebuild — Current Conclusion
 
-## July–August 1922 Property Division and Rebuild
+The older 28 August Task 7 model test preserved 501 as a live alternative while the address-to-frontage evidence was still incomplete. **That equal-alternative treatment is now superseded for the historical-location reconstruction** by the later integrated fire-frontage work. Preserve the Task 7/Task 8 captures as research history, but use the current conclusion below.
 
-Final targeted reassessment: the [28 August Task 7 model test](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) keeps **501 live** because both simple models assume an unproved Gates-to-501 correspondence. Neither model is selected or exhaustive; a corner address may not identify a particular room. [Task 8](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) consolidates the title, plan, occupant and numbering-plat callouts. This does not change the earlier license facts or removal chronology.
+A visually verified **13 July 1922 Banner-Courier** report says George A. Harding's Main Street property group included the **Fifth Street Restaurant, Miller's shoe store, adjoining barber shop, and Red Front Clothing Store** and was sold to **S. Wolf and C. Gates**. **Gates took the location occupied by the Fifth Street Restaurant; Wolf took the remainder** (`E-096` / `S-111`).
 
-A visually verified **13 Jul 1922 Banner-Courier** notice reports that George A. Harding's Main Street property group was sold to S. Wolf and C. Gates, with the **Fifth Street Restaurant location assigned to Gates** and the remainder to Wolf (`E-096` / `S-111`). The preserved and visually verified 20 July fire page separately says Wolf owned the ignition building and that a pool hall adjoined the former Schieremann tailor room (`E-103` / `S-117`). On 17–18 August, two visually verified articles identify C. E. Gates as owner of the Fifth/Main corner site and describe a two-story hollow-tile replacement for the fire-destroyed restaurant building, with two ground-floor storerooms (`E-097` / `S-112`–`S-113`).
+Five days later the Fifth/Main fire destroyed the Fifth Street Restaurant. Read together with the established odd-number frontage, the Harding allocation, the Miller/Schiermann origin evidence at 503, the adjoining surviving pool premises at 505, Red Front's direct 507 anchor, and Gates's immediate rebuilding at the Fifth/Main corner, the project now identifies **501 Main as the Fifth Street Restaurant / Gates portion destroyed in the 18 July 1922 fire**. Classification: **STRONG CROSS-SOURCE INFERENCE for exact 501 mapping; DOCUMENTED / DIRECT for destruction of the restaurant and Gates's purchase/rebuild relationship as stated by the contemporary reports.**
 
-No source prints the Gates site's width or street number. If the July restaurant is eventually proved to have occupied modern 501, 501 would be strongly disfavored as the Wolf-owned ignition room. That address equation is presently unproven, so **501 remains a live alternative**. The two Gates storerooms also cannot yet be assumed to equal modern 501+503; one could have faced Fifth or occupied another arrangement.
+The **503 Main** structure is separately reconstructed as Gilbert Miller's shoe-store premises plus a vacant half/portion formerly occupied by Alex Schiermann's tailor shop, where the fire began. The adjoining **505 Main** pool/billiard premises survived with water damage and partial roof burning and was credited as saved by fireproof construction. Thus **501 is no longer an equal live candidate for the Wolf-owned ignition building**.
+
+On **17–18 August 1922**, visually verified reports identify Gates as owner of the Fifth/Main corner site and describe a **two-story hollow-tile replacement with two ground-floor storerooms** (`E-097` / `S-112`–`S-113`). The replacement's exact later-number footprint remains unresolved: do not assume without deed/plan evidence that the two storerooms map exactly to later 501+503.
+
+Ownership/operation controls:
+
+- **George A. Harding** — seller of the named property group immediately before the fire.
+- **C. Gates / C. P. Gates** — purchaser of the Fifth Street Restaurant location and owner associated with immediate replacement construction.
+- **Blakesley** — restaurant business/operator ownership wording in fire reporting; do not convert this into real-estate title.
+- **S. Wolf** — purchaser of Harding's remainder according to the July 13 report; the exact deed geometry remains a manual retrieval target.
+
+See the authoritative integrated reconstruction at [`timelines/1922-fire-frontage.md`](../timelines/1922-fire-frontage.md) and the streamlined [`timelines/501-main.md`](../timelines/501-main.md).
 
 ## Fifth & Main Undertaking-Business Evidence, 1914–1917
 
-Primary newspaper advertisements establish an undertaking/funeral-directing business at **Fifth and Main Streets** before the modern-numbered 501 Sanborn evidence:
+Primary newspaper advertisements establish an undertaking/funeral-directing business at **Fifth and Main Streets** before the later 1922 reconstruction:
 
-- **26 February 1914:** a *Courier* notice preserved from the legacy branch reports **R. L. Holman moved his undertaking establishment from the Caufield Building at Eighth & Main to his building at Fifth & Main** (`E-150` / `S-170`). The wording “his building” is a reported ownership relationship, not a legal-description or 501-number proof.
-- **28 August 1914:** an *Oregon City Enterprise* advertisement for **R. L. Holman, Leading Funeral Director**, states that he **“has moved to more commodious parlors 5th and Main Sts.”** The original page has now been recovered and reviewed. See `evidence/source-captures/1914-08-28-holman-move-fifth-main.md`.
-- 17 June 1915: R. L. Holman and T. P. Randall, leading undertakers, **Fifth and Main St.** (`S-064`).
-- 2 March 1916: Holman and Randall again advertised at **Fifth and Main St.** (`S-065`).
-- 11 January 1917: R. L. Holman advertised as leading undertaker at **Fifth and Main St.** (`S-066`).
+- **26 February 1914:** R. L. Holman reportedly moved his undertaking establishment to his building at Fifth & Main (`E-150` / `S-170`).
+- **28 August 1914:** R. L. Holman advertisement says he moved to parlors at Fifth and Main.
+- **17 June 1915:** Holman and Randall, Fifth and Main.
+- **2 March 1916:** Holman and Randall, Fifth and Main.
+- **11 January 1917:** R. L. Holman, Fifth and Main.
 
-This is **very high-confidence evidence for the Fifth-and-Main location from February 1914 onward**, but it is **not yet proof that the premises later carried the street number 501 Main**. Until a numbered directory, deed, map correspondence, or other primary record makes that connection, the archive must treat **Holman at Fifth & Main → 501 Main** as a plausible hypothesis, not a settled address identification.
+These sources do not themselves print 501. The archive therefore still distinguishes the exact-address question for the 1914–1917 undertaking premises from the now-strong 1922 Fifth Street Restaurant/501 reconstruction.
 
 ### 1916 ownership/advertising transition
 
-A 6 April 1916 *Oregon City Courier* page contains a high-value report that **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman**. That item was visually verified in E-116/S-130 on 28 August 2026. Old joint-name Holman & Randall advertisements continued to run afterward, so those ads should not automatically be treated as proof of continuing partnership ownership. By **3 August 1916**, the recurring advertisement names **R. L. Holman alone** at Fifth and Main.
+A visually verified **6 April 1916 Courier** report says **T. P. Randall sold his interest in the Holman-Randall undertaking establishment to R. L. Holman** (`E-116`/`S-130`). Old joint-name advertisements continued afterward, so advertising persistence is not treated as continuing partnership ownership. By **3 August 1916**, recurring copy names Holman alone at Fifth and Main.
 
 ## Holman & Pace, 1918–1921
 
-Newspaper evidence shows the undertaking business continuing under the **Holman & Pace** name:
-
-- October–December 1918 newspaper reports refer to the Holman & Pace chapel/funeral parlors (`S-067`).
-- A February 1921 advertisement identifies Holman & Pace as undertakers, embalmers and funeral directors in Oregon City (`S-068`).
-
-Those sources **do not print a Fifth-and-Main or 501 Main address**, so they establish business continuity but not location continuity (`E-055`).
+October–December 1918 reports refer to the Holman & Pace chapel/funeral parlors (`S-067`), and a February 1921 advertisement identifies Holman & Pace as undertakers, embalmers and funeral directors (`S-068`). Those recovered sources do not print Fifth/Main or 501, so they establish business continuity but not location continuity (`E-055`).
 
 ## 1924 Directory Lead
 
-A 1992 National Register nomination bibliography explicitly cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies the **Oregon City Planning Department** as the primary local repository for additional research data (`S-069` / `E-056`). The actual 1924 directory pages have not yet been obtained.
+A 1992 National Register nomination bibliography explicitly cites **R. L. Polk and Company, Oregon City Directory, 1924** and identifies the Oregon City Planning Department as a local research repository (`S-069` / `E-056`). The actual 1924 address pages remain unretrieved.
 
-The highest-value next step is to obtain the **1924 address and business-directory pages for 501, 503, and 505 Main**. Those pages may identify the 501 tenant immediately before the 1925 Sanborn and may also help explain the c.1919/c.1920 construction-date claims for 503 and 505.
+## 1925 fire lead corrected
 
-## Claim Still Not Yet Accepted
-
-**1925 fire lead corrected (`E-139` / `S-157`).** The original municipal scan gives **30 April 1925, 6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage**. The former April 18 / $2,500 lead conflated adjacent table rows. No street side, number or occupant is supplied, so this cannot be called a 501 fire or used to date its reconstruction. See the [visual correction](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+`E-139` / `S-157` gives **30 April 1925, 6:15 a.m., Main between Fifth and Sixth, spark from chimney, approximately $15 damage**. No side, number or occupant is supplied; it cannot be assigned to 501 or used to date reconstruction.
 
 ## Current Reconstruction
 
 | Period | What we can say | Confidence |
 | --- | --- | --- |
-| 4 Oct.1907 | A. J. Surber renewal notice explicitly prints No.501, Main/Fifth; no title or later trade-name continuity | Very High for printed wording |
-| 19 Mar.1912 / 3 Oct.1913 | Palace Saloon / Hunsaker & Taylor separately named at 501; no transfer inferred | Very High for printed wording |
-| Feb. 1914–1917 | Holman / Holman-Randall / Holman undertaking business at **Fifth & Main** | Very High for preserved dated sources; exact 501 mapping unresolved |
-| 1918–1921 | Holman & Pace undertaking/funeral business continues in Oregon City; address not established by the recovered sources | High for business continuity; unresolved for location |
-| 1924 | A Polk Oregon City directory existed; actual address pages still needed | Very High for directory existence |
+| 4 Oct. 1907 | A. J. Surber renewal notice explicitly prints No.501, Main/Fifth | Very High for printed wording |
+| 19 Mar. 1912 / 3 Oct. 1913 | Palace Saloon / Hunsaker & Taylor separately named at 501 | Very High |
+| Feb. 1914–1917 | Holman / Holman-Randall undertaking business at Fifth & Main | Very High for intersection; exact 501 mapping unresolved |
+| 1918–1921 | Holman & Pace business continues in Oregon City; recovered sources do not establish address | High for business continuity |
+| **13 Jul. 1922** | Harding sells property group; **Gates takes Fifth Street Restaurant location** | Direct contemporary report; deed geometry unresolved |
+| **18 Jul. 1922** | **501 / Fifth Street Restaurant corner building destroyed** | **Strong cross-source inference for 501; direct for restaurant destruction** |
+| **Aug. 1922** | Gates constructs two-story hollow-tile replacement with two ground-floor storerooms | Direct rebuild reporting; exact later-number footprint unresolved |
 | 1925 | **501 Main** shown by Sanborn as a separate **store** | Very High |
-| 1936 | Distinct 501 structure visible in aerial evidence | Moderate–High |
-| 1936–1940 | 501 structure removed during this interval | Moderate–High |
+| 1936 | Distinct 501 structure visible | Moderate–High |
+| 1936–1940 | 501 structure removed | Moderate–High |
 
 ## Open Questions
 
 - What business occupied **501 Main in 1924–1925**?
-- Did the 1914–1917 Fifth-and-Main undertaking premises later carry the number **501 Main**?
+- Did the 1914–1917 Fifth/Main undertaking premises occupy the same numbered 501 position later reconstructed for the restaurant?
 - When did Holman/Holman & Pace leave Fifth & Main?
-- What were the owners and legal parcel boundaries of 501?
-- Did the July 1922 Fifth Street Restaurant occupy the modern 501 footprint?
-- Did the Gates replacement map principally to 501, to 501+503, or to another two-store arrangement?
-- Which original Block 4 lot contained historic 501, and can a deed, title abstract, numbering plat, or survey prove it?
-- Why was the 501 structure removed between 1936 and 1940?
-- Was its removal connected to McLoughlin Boulevard / US99E work?
+- What were the legal parcel boundaries and exact deed geometry of the Gates portion?
+- How did Gates's two replacement ground-floor storerooms map to later 501/503 numbering?
+- Which original Block 4 lot contained historic 501?
+- Why was the later 501 structure removed between 1936 and 1940?
 
+## Task 7 Address-to-Property Bridge — Superseded Model Status
 
-## Task 7 Address-to-Property Bridge
+`E-108` remains valuable for the Block 4/Harding property framework. Its earlier caution that the exact Gates/Wolf storefront wall was unresolved is still valid as a **legal/deed-boundary** caution. However, the old equal model treatment of 501 as a possible ignition address is superseded by the later integrated frontage reconstruction. Do not use the absence of the deed to demote the current **STRONG CROSS-SOURCE INFERENCE** that 501 was the Fifth Street Restaurant/Gates portion and 503 the Miller/Schiermann ignition structure.
 
-`E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.
+## Photographic and structural controls
 
-## 1916 Courier pages 106–180 checkpoint
+The repository's CCHS photograph records (`S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-241`, `S-242`, `S-243`, `S-245`, `S-311`, `S-312` and related evidence/media IDs) preserve pre-numbering frontage context, the November 1922 post-fire visual bridge, 1927 structural context, and the broader 1918→1925 physical-change bracket. These photographs are useful structural/spatial evidence but do not independently print the 501 address or prove the precise deed boundaries.
 
-E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pages-106-180.md) through May 18 p3 establishes no new numbered occupant for this target. April 6 records Randall selling his undertaking interest to Holman, but the ad gives only Fifth/Main. May 18 authorizes the Raasch & Lamb basement move within the Andresen Building without a street number. Neither is assigned here. Courier 180/458; year IN PROGRESS; no vacancy, demolition or 1922-model conclusion.
-
-## 1916 monthly scan review — E-119/S-133
-
-Joint Holman & Randall copy persists July 6; Holman-alone Fifth/Main copy is verified August 3 pp2/7 and later selected months. This advances the former August 31 ad anchor, not the already reported April 6 interest sale. No printed 501 address or real-estate transfer is established. [Review](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
-
-## 1909–1911 Palace Saloon context
-
-New visually verified pages add operator history around the later exact-501 Palace Saloon without back-projecting the number. On 25 June 1909 Ralph O. Smith was reported buying former partner F. E. Hall's interest in the Palace Saloon and, in the same issue, applying at Palace Saloon, Fifth/Main (`E-157`–`E-158`). On 20 June 1911 Joseph Wilson applied at The Palace Saloon, Fifth/Main (`E-159`). Neither 1909 nor 1911 page prints **501**. Exact 501 remains directly printed in the 19 March 1912 Joe Wilson notice (`E-104`).
-
-## 17 June 1910 Palace Saloon printed-510 conflict
-A visually verified *Courier* notice (`S-199` / `E-178`) identifies **E. R. Case / Palace Saloon / 510 Main street**. Because the Palace is later directly printed at **501 Main** under Joe Wilson, this source is retained as an unresolved address/transition conflict and is **not assigned as B-005 occupancy** without a bridge.
-
-## June 1910 repeated 510 Palace wording
-The Palace/501 chronology now includes a second issue-page control for the unresolved 1910 number conflict: both **17 and 24 June 1910** *Courier* notices for E. R. Case print **Palace Saloon, 510 Main street** (`S-199` / `E-178`). This strengthens only the fact that `510` was repeatedly printed; it does not place the Palace conclusively in the physical 510 premises or prove a move from/to the later direct **501 Main** Palace anchor. A repeated notice may repeat the same source-copy error.
-
-## 3 September 2026 — Newton address test
-
-Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
-
-See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
-
-## 1895 bluff photograph — predecessor target-frontage roofline candidate
-
-`S-213` / `E-193` / `IMG-0742` preserves the CCHS bluff view cataloged **1895**. The project steward identifies the roof/top of the predecessor frontage later associated with **501/503/505 Main** as visible. Existing 1892 Sanborn context (`SM-005` / `S-018` / `E-020`) independently shows developed commercial frontage in the area.
-
-Classification: **PROBABLE / WORKING HYPOTHESIS for exact target-frontage assignment.** The later street numbers are not image-visible and should not be backdated before Oregon City's 1906 numbering program. The photograph does not prove one building spanned all three later addresses or establish continuity to post-1922 structures.
-
-## 1890–1899 Main Street photograph — pre-numbering block context
-
-`S-214` / `E-194` / `IMG-0743` preserves CCHS `2008.008.003.104`, cataloged **Main Street, Oregon City**, date **1890–1899**. The project-steward filename identifies the view as looking south from Sixth toward Fifth. That proposed orientation is compatible with fixed-location P-1456 (`S-204` / `E-184`) but is not catalog wording for this object.
-
-If the orientation is confirmed, the east-side Fifth-to-Sixth frontage later containing **501/503/505 Main** appears along the right side of the photograph. Classification for exact storefront-to-later-address mapping remains **PROBABLE / WORKING HYPOTHESIS**. The later numbers are not visible, the exposure year is not narrowed within 1890–1899, and continuity to numbered or post-1922 structures is not established.
-
-## 1895 Welcome Arch photograph — fixed Sixth/Main target-side context
-
-`S-215` / `E-195` / `IMG-0744` preserves CCHS `2008.008.046.040`, cataloged **Oregon City "Welcome Arch"**, **6th and Main**, **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**.
-
-The institutional Sixth/Main location makes this photograph a strong spatial anchor and is consistent with the corrected right-side orientation in `S-214` / `E-194` and the 1892 Sanborn block geometry. Exact individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS** because the later numbers are not visible and formal citywide numbering came later. No occupancy, title, or continuity to post-1922/surviving structures is inferred.
-
-Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
-
-## Undated CCHS P-1317 Fifth Street bluff photograph
-
-`S-217` / `E-197` / `IMG-0746` preserves CCHS `P-1317`, **Oregon City - View from Bluff**, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the tree branches.
-
-For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context only. The catalog supplies no exposure date, the later street numbers are not visible, branches obscure the target area, and the image does not establish individual 501/503/505 boundaries or continuity into later numbered/surviving structures.
-
-## 1975 P-1293 continued absence
-
-CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, shows no separate 501 structure at the mapped former corner site. This is independent later corroboration only; `E-021` already establishes that 501 disappeared between 1936 and 1944, so the 1975 image does not narrow the removal date.
-
-### November 1922 CCHS P-9594 visual bridge
-
-CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`) is described by the institution as a **November 1922** view. A light-toned building appears at/near the Fifth/Main corner candidate zone. Cross-checking the photograph against the August 1922 Gates construction reports makes it a **strong candidate for the newly completed Gates fire-replacement**.
-
-This does **not** prove the replacement was this numbered address. In particular, the archive still cannot choose between a Gates footprint principally at later 501 and a two-bay 501+503 arrangement. The photograph is a new visual bridge, not an exact-address determination.
-
-### 1922 P-5577 aerial spatial context
-
-CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district within a broad **1922** aerial of Oregon City. The image is useful for block-scale geometry and companion-flight comparison, but exact target numbers are unreadable and the catalog supplies no month. Do **not** use it alone to classify this address as pre- or post-July-fire or to prove a specific Gates-rebuild footprint.
-
-### 1927 P-5578 aerial — probable two-story mass at mapped 501 position
-
-CCHS `P-5578` (`S-242` / `E-216` / `IMG-0762` / `T-090`) is cataloged with a **Date made field of 1927**, despite an institutional title containing `1922`. At the project-steward mapped historic 501 position, the visible building mass appears **two stories tall**. The photograph does not show a readable `501`, so exact numbered identification is **PROBABLE / WORKING HYPOTHESIS**, not direct address evidence.
-
-This is structurally compatible with the **two-story hollow-tile** Gates Fifth/Main replacement documented in August 1922 (`E-097`) and provides a useful post-1925 visual control. It does not prove that the visible 1927 mass is the Gates building or resolve whether Gates's two ground-floor storerooms became later 501 alone, 501+503, or another arrangement.
-
-### Circa-1900 P-1241 bluff-view frontage context
-
-CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**, independently fixing the photographed Main Street span between Fifth and Seventh. The project steward identifies the far-left visible frontage as the area later numbered 501-505 Main. The frontage itself is visible, but this photograph does **not** show a readable `501` number or prove individual later-address boundaries/building continuity. Use as **PROBABLE spatial context** pending Sanborn/photo alignment.
-
-## 1896 CCHS predecessor-site photograph
-`S-245` / `E-219` / `IMG-0765` preserves CCHS `2008.008.005.002`, **Oregon City 1896 - 6th and Main Street**. The project steward fixes the northeast Fifth/Main corner using the two men visible near the crossing. The later-numbered 501/503/505 positions can therefore be placed generally on the right/west side approaching Fifth, but the structures visible there in 1896 are **predecessor buildings**, not the later/current numbered building. Individual 1896 bay boundaries and occupants remain unresolved; address position is not treated as building continuity.
-
-## 1918→1925 photographic structural bracket
-<!-- 2026-09-09-cchs-1918-p267-target-transition -->
-
-The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`) and CCHS P‑267 (`S-312` / `E-284` / `IMG-0770`), read with the existing 1925 Sanborn (`E-020`), materially tighten the target-frontage physical-change interval. The project steward maps the visible target row to later 501/503/505 positions; no address numbers are readable in either photograph.
-
-The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 501 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
-
-At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.
+The November 1922 CCHS `P-9594` view (`S-239` / `E-213` / `IMG-0760`) remains a strong candidate visual bridge to the newly completed Gates fire replacement. It does not by itself establish the exact later-number footprint of both Gates storerooms.
