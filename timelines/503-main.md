@@ -1,92 +1,49 @@
 # 503 Main Street — Unified Timeline
 
-Address record: [`B-001`](../buildings/503-main.md). See [master](../timeline.md), [501](501-main.md), and [505](505-main.md) timelines.
+Address record: [`B-001`](../buildings/503-main.md). See [master](../timeline.md), [501](501-main.md), [505](505-main.md), [507](507-main.md), and the dedicated [1922 fire-frontage timeline](1922-fire-frontage.md).
 
-Scope: unified chronology of registered address-specific occupants, uses, physical changes, and material shared events. Undated evidence is placed explicitly as undated rather than assigned a guessed year.
+> **1922 QUICK FIND — CURRENT CONCLUSION**
+>
+> **18 July 1922:** the project now identifies **503 Main** as the building containing **Gilbert Miller's shoe-store premises** and a **vacant half/portion formerly occupied by Alex Schiermann's tailor shop**. The fire began in the vacant former-tailor portion; contemporary reporting also calls the origin structure the **shoe-store building**. The adjoining **505 Main pool/billiard premises survived** with water damage and partial roof burning; the building north of the fire was credited as being saved by **fireproof construction**. This fixes the Miller/Schiermann origin building at 503 as a **STRONG CROSS-SOURCE INFERENCE**, even though no recovered pre-fire advertisement yet literally prints “Miller, 503 Main.”
+>
+> **13 July 1922 property sale:** George A. Harding's Main Street property group contained the **Fifth Street Restaurant, Miller's shoe store, the adjoining barber shop, and Red Front Clothing Store**. It was sold to **S. Wolf and C. Gates**; Gates took the Fifth Street Restaurant location and Wolf took **the remainder**. Red Front is directly documented at **507 Main** by a 22 September 1921 advertisement; its continuity at 507 through the July 1922 fire is currently a strong cross-source inference. See `timelines/1922-fire-frontage.md` for the full source-by-source reconstruction and ownership cautions.
 
-| Date | Event | Status / limits | Records |
-| --- | --- | --- | --- |
-| 1844–1900 | Original Block 4 plat; early Sanborn frontage; later study attributes Vanderpool's 1850 Oregon Saloon/Boarding House to 503. | Plat context established; Vanderpool address is a conflicted later attribution, not contemporary numbering. | `E-094`; `SM-002`–`SM-006`; Vanderpool captures |
-| 25 Aug. 1908 | **Henry Brightbill's store at 503 Main**. | **Exact primary**; merchandise/building continuity unknown. | `BUS-078`; `P-034`; `E-042`; `S-049`; `IMG-0044` |
-| 5 Jan. 1912 | **H. N. Smith** pool room/cigars/tobacco at 503. | **Exact, visually verified**; initials conflict follows. | `BUS-019`; `E-089`, `E-092` |
-| 24 Mar.–Jul. 1912 | **H. H. Smith** applies for pool-hall license at 503, then is reported leaving after operating at Fifth/Main. | Exact application; grant and H.N./H.H. identity unresolved. | `BUS-019`; `P-023`; `E-023`, `E-089`; `S-024` |
-| 12 Feb., 23 Apr. 1914 | **L. Hylton at 503**, cigars/tobacco/smokers' supplies/soft drinks. | **Exact primary**; no Smith transfer or later restaurant continuity. | `BUS-020`; `P-024`; `E-024`; `S-025` |
-| 1914–1915 | Ledger: **503 / Store**, **503½ / Barber Shop**. | Exact classifications; tenant names/timing unresolved. | `E-117`; `S-131` |
-| Jul.–Aug. 1922 | Harding division, fire, and Gates corner replacement. | Shared context; 503 may be Gates footprint or Wolf remainder; 503-ignition/505-pool model plausible but unproved. | `E-096`, `E-097`, `E-103`, `E-108`; `S-111`–`S-113`, `S-117` |
-| c.1919 / c.1922–1972 | City synthesis estimates surviving resource c.1919 and reports Wolf-family ownership roughly 1922–1972. | Official secondary; conflicts with 1908 address use and unresolved 1922 footprint. | `E-032`; `S-026` |
-| 30 Apr. 1925 | Municipal fire call on Main between Fifth and Sixth; chimney spark; approximately $15 damage. | **Street-segment context only**: side, number and occupant unstated; not an identified 503 fire/rebuild. Supersedes the conflated April 18 / $2,500 lead. | `E-139`; `S-157` |
-| 1925 | Sanborn maps **503 as separate restaurant**, concrete floor. | **Exact map use**; business/occupant unnamed. | `E-020`; `SM-008` |
-| 1926 | City synthesis reports **Kwality Restaurant**. | Official secondary; underlying page desirable. | `BUS-001`; `E-032` |
-| 11 Nov. 1926 | Fire department responds to **Fifth and Main, false alarm**, 1:15 p.m. | **Intersection context only**; no number or occupant, damage unstated. Not a 503 fire or rebuild. | `E-142`; `S-159`; `T-049` |
-| 1936–1950 | Aerial/Sanborn evidence retains the 503/505 Main-frontage structures while the separate 501 structure disappears by 1944. | Physical continuity context only; does not identify 503 tenant or prove unchanged fabric. | `E-021`; `S-023`; `SM-009` |
-| 12 Jun. 1937 | “KWALITY cafe” offered for sale in Oregon City. | Primary name; ad omits number, association from wider chronology. | `BUS-001`; `E-043`; `S-050`; `IMG-0045` |
-| 18 Oct. 1940 | **JAGERS** — “Cozy place for A Tasty Pickup” — at **503 Main St.** | **Exact, visually verified primary ad** for printed business style/address. Ad does not itself name J. Jager or New Kwality Cafe; relationship remains open. | `BUS-084`; `E-172`; `S-193` |
-| 1947 | City synthesis reports **Kwality Cafe** at 503. | Official secondary. | `BUS-001`; `E-032` |
-| Date unresolved, Kwality era | Matchbooks directly identify **New Kwality Cafe, 503 Main, J. Jager proprietor**, and **Larry's Kwality Cafe, 503 Main**, telephone 6106. | **Exact primary artifacts** for names/address; artifact dates and relationship to the generic Kwality name remain unresolved. | `BUS-002`, `BUS-003`; `P-003`, `P-004`; `E-002`, `E-003`; `A-001`, `A-002`; `S-002`, `S-003` |
-| 1957 | Mr./Mrs. Albert D. Flor operate restaurant/cocktail bar at 503. | Official secondary; latest named same-address operator control before the earliest exact-number Wheel anchor. Does not prove Wheel ownership/rename/sale. | `BUS-001`; `P-025`; `E-032`; `S-026` |
-| 28 Mar. 1958 | **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106.** | **Exact, visually verified primary ad; earliest currently recovered exact-address Wheel advertisement.** Missing intervening March issues prevent precise first-ad/opening inference; proprietor/licensee unnamed. | `BUS-004`; `E-259`; `S-285` |
-| 16 May 1958 | **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106.** | **Exact, visually verified primary ad.** Not an opening date; proprietor/licensee unnamed. | `BUS-004`; `E-256`; `S-283` |
-| 22 Aug. 1958 | **WHEEL CAFE & LOUNGE — 503 Main St. — Ph: 9106.** | **Exact, visually verified primary ad.** Proprietor/licensee not named; transition from the 1957 Flor endpoint unresolved. | `BUS-004`; `E-255`; `S-282` |
-| 30 Nov. 1960 | **Wheel Cafe** at Fifth/Main. | Primary name/intersection; number omitted; now a later corroboration rather than earliest Wheel anchor. | `BUS-004`; `E-044`; `S-051`; `IMG-0046` |
-| Before 7 Jun. 1967; exact preceding-meeting date unresolved | Commission authorizes the mayor to sign a liquor application for **the Wheel at 503 Main**. | **Primary municipal searchable text; visual re-certification retrieval gap.** The Wheel motion appears before the 7 Jun. meeting heading and includes Danielson, who is absent from the 7 Jun. roll call. Applicant/licensee and application type remain unnamed; do not equate this action with a proved LaFarlette purchase. | `BUS-004`; `E-025`; `S-027`; [date-boundary capture](../evidence/source-captures/1967-wheel-liquor-date-boundary-lafarlette-acquisition-control-2026-09-07.md) |
-| 1 Sep. 1967 | Block fire; Wheel Restaurant and 505 Tavern spared with smoke/water damage. | Shared event; confirms separate businesses. | `E-045`; `S-052`; `IMG-0047` |
-| Dates open | Floyd and Raye LaFarlette/Grisham are associated with The Wheel; Raye owns the Wheel business. Dick/Sheila later buy the business, later the 503 building, then sell both together. Victor manages the restaurant during Raye's years and early Wiitanen period. | Family chronology; three distinct transactions and Victor's surname/dates remain open. Raye's surname change is not a transfer, and this is not 505 history. The 1967 liquor action is a high-value acquisition/license-transfer lead but does not name either LaFarlette. | `P-006`, `P-007`, `P-008`, `P-010`, `P-022`; `E-007`, `E-022`; 1967 date-boundary capture |
-| Apr. 1983 | Wheel Cafe is downtown lunch landmark. | Primary name; no number in article. | `E-047`; `S-054`, `S-058` |
-| Apr.–Aug. 1985 | **The Wheel Cafe, 503 Main**; Richard Wiitanen named business owner. | **Exact primary**; does not date property purchase. | `E-048`, `E-049`; `S-055`–`S-057` |
-| 2 Dec. 2002 | Public-record-derived purchase history reports a **$200,000** 503 transaction. | **Secondary transaction lead only**; buyer/seller hidden, so not yet the proved Wiitanen conveyance. | `E-228`; `S-254` |
-| Tax year 2010 | Public-record-derived assessment page names **Maurice Shahtout** on 503 land/building entry and separately **Maurice Enterprises Inc** at 503. | Strong secondary ownership snapshot; original roll/deed pending. The page's $200,000 “most recent sale” wording conflicts with aggregator-reported 2007/2009 events. | `P-394`; `E-229`; `S-255` |
-| OLCC license cycle ending 31 Mar. 2009 | **The Wheel Bar & Grill, 503 Main**; licensee **Maurice Enterprises Inc**, license 104145. | **OCR/TEXT ONLY from official state PDF index**; page-image retrieval gap; does not date business sale or deed transfer. | `E-225`; `S-251` |
-| 2010 | Wheel Lounge at 503. | Secondary naming; legal-name transition open. | `S-029` |
-| Oct. 2016 | Permit BB-16-0534: abatement/interior demolition/reroof; Black Ink Coffee LLC owner line. | Exact permit; owner line is not automatically title/opening date. | `BUS-018`; `E-098`; `S-114` |
-| 2017 | White Rabbit / Black Ink redevelopment article. | Secondary; “Wheel Tavern” is source wording, not official name. | `BUS-018`; `E-001` |
-| Sep. 2021 | White Rabbit / Black Ink parklet permit. | **Exact municipal.** | `E-099`; `S-115` |
-| Current research | Current records place 503 in original Block 4; OHS indexes a Main/Fifth title abstract with conflicting Lots 3–4 versus 3–5 fields. | Title/geometry retrieval lead only; the abstract is uninspected and modern boundaries are not backdated. | `E-094`, `E-095`; `S-109`, `S-110` |
-| Current model | Boundary/width, c.1919 date, 1922 allocation/fire room, and business/property transfers remain open. | Conflict/hypothesis; address reuse is not physical/business continuity. | `E-011`, `E-094`–`E-103`, `E-108` |
+## Core chronology
 
-Sequence (chronology only): Brightbill → Smith → Hylton → unnamed 1925 restaurant → Kwality context → **JAGERS (1940; relationship to J. Jager/New Kwality open)** → New Kwality / Larry's Kwality (artifact-name order/dates unresolved) / Flor → Wheel → White Rabbit/Black Ink.
-
-## 31 October 1918 Wolf & Miller address conflict
-
-A visually verified *Oregon City Courier* answer page (`S-188` / `E-167`) prints **Wolf & Miller at 503 Main St.** This conflicts with direct 505 Main evidence on 20 September and 10/24 October 1918. The 503 wording is retained as a conflict only; it is not yet accepted as a proved 503 occupancy or relocation.
-
-## 1895 — Pre-numbering predecessor-frontage photo context
-
-`S-213` / `E-193` / `IMG-0742` is an 1895 CCHS bluff photograph in which the project steward identifies the roof/top of the predecessor Main/Fifth frontage later associated with **501/503/505 Main** as visible. For this 503 timeline, use the image only as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context. The `503` number is not visible and should not be backdated to 1895; physical continuity into later numbered or surviving structures remains unproved.
-
-## 1890–1899 — Pre-numbering Main Street photo context
-
-`S-214` / `E-194` / `IMG-0743` is a CCHS Main Street photograph dated **1890–1899**. The steward filename says it looks south from Sixth toward Fifth; if that probable orientation is confirmed, the east-side block later containing **503 Main** is visible along the right side. The `503` number is not visible and should not be backdated; exact storefront identity and physical continuity remain unresolved.
-
-## 1895 — Welcome Arch / Sixth-Main fixed-location photo context
-
-`S-215` / `E-195` / `IMG-0744` is cataloged by CCHS at **6th and Main** in **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the right-hand background. For the later **503 Main** timeline, treat the photo as strong fixed-location block context but **PROBABLE / WORKING HYPOTHESIS** for the exact individual predecessor storefront boundary. Do not backdate the later street number or infer structural continuity.
-
-Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
-
-## Undated — CCHS P-1317 Fifth Street bluff photo context
-
-`S-217` / `E-197` / `IMG-0746` is CCHS `P-1317`, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the partially branch-obscured predecessor frontage later associated with **501/503/505 Main**. Use this as **PROBABLE / WORKING HYPOTHESIS** spatial context only: the exposure date is not supplied, later address numbers are not visible, and individual storefront/roof boundaries and structural continuity remain unresolved.
-
-| Circa mid-1960s | CCHS `P-4565` photographs The Wheel/503 facade with wheel motifs beside the directly signed **TAVERN / 505** frontage; visible 5th/Main street blades. | Primary photograph + catalog; exact exposure date unresolved. | `E-200`; `S-220`; `IMG-0749` |
-
-| 1975 | CCHS `P-1293` aerial shows 503 ending materially sooner rearward than adjacent 505. | Direct relative-footprint evidence; no legal boundary or change date inferred. | `E-203`; `S-229`; `IMG-0750` |
-
-| 1955–1965, exact year unresolved | CCHS `P-1311` bluff-at-4th photograph shows **The Wheel** signage on the 503 frontage and **505 Tavern / Tavern 505** on adjacent 505. | **Direct photographic** same-frame business separation; catalog range only, not a 1955 opening/date claim. | `E-206`; `S-232`; `IMG-0753` |
-
-| 1930–1939 | P-1043 block-sequence context | CCHS `P-1043` looks south from Sixth toward Fifth and preserves a dense west-side odd-number storefront-sign sequence. Exact `503` sign/occupant is not securely readable in this frame; use it as spatial/address-sequence context and cross-check with `P-1128`. | `E-211`; `S-237`; `IMG-0758` |
-
-## 1911–1917 pool-room regulatory context — not a 503 occupancy event
-<!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
-
-The 1912 Smith entries above sit within a broader city licensing regime. A visually verified 8 June 1917 council report (`E-254` / `S-281`; `T-095`) says Oregon City's strict pool-room legislation dated to **1911** and records discussion of cigar stands and additional licenses. The report is **citywide** and names no pool room or address, so it is not added to the table as a 1917 503 occupant/event. It is retained only as context for interpreting Smith's 1912 “Pool Room, Cigars and Tobacco” wording. See `RL-052` for the underlying ordinance-recovery task.
-
-## 1918→1925 photographic transition bracket
-<!-- 2026-09-09-cchs-1918-p267-target-transition -->
-
-| Date/state | Evidence | Interpretation |
+| Date | Event | Status / limits |
 | --- | --- | --- |
-| 1918 | CCHS `2008.008.009.016` (`E-283` / `IMG-0769`) | Steward-identified predecessor 501/503/505 target row; later 505 upper false-front/parapet already partly lowered; no readable street numbers. |
-| 1924–1928 | CCHS `P‑267` (`E-284` / `IMG-0770`) | Steward identifies new/replacement 501 state and changed neighboring 503/505-area structures; exact exposure year unresolved. |
-| By 1925 | existing Sanborn `E-020` | Independent changed storefront/footprint geometry. |
+| 25 Aug. 1908 | Henry Brightbill's store at **503 Main**. | Exact primary. |
+| 5 Jan.–Jul. 1912 | H. N./H. H. Smith pool-room/cigar activity at **503**. | Exact address; initials/continuity require care. |
+| 12 Feb., 23 Apr. 1914 | L. Hylton at **503**, cigars/tobacco/smokers' supplies/soft drinks. | Exact primary. |
+| 1914–1915 | Water ledger: **503 / Store** and **503½ / Barber Shop**. | Exact classifications; tenants unresolved. |
+| 13 Jul. 1922 | Harding property group sold to **S. Wolf and C. Gates**. Gates took the Fifth Street Restaurant location; Wolf took the remainder, which the article describes as including Miller's shoe store, adjoining barber shop, and Red Front Clothing Store. | Direct sale-report wording; deed dimensions remain unretrieved. |
+| **18 Jul. 1922** | **503 = Miller shoe-store / former-Schiermann tailor fire-origin building. Fire begins in vacant former-tailor half/portion; Miller's shoe business destroyed.** | **STRONG CROSS-SOURCE INFERENCE** from contemporary fire reports + frontage/address geometry. |
+| 20–21 Jul. 1922 | Adjoining pool/billiard premises at **505** suffers water damage and partial roof burning rather than destruction; building north of fire credited as saved by **fireproof construction**. | Direct damage/survival description; numbered 505 match is strong cross-source inference. |
+| 22 Sep. 1921 / Jul. 1922 context | **Red Front Clothing Store = 507 Main** in direct 1921 ad; still named in Harding group immediately before fire and in fire-loss reporting. | Direct at 507 in 1921; strong inference for July 1922 continuity. |
+| 1925 | Sanborn maps **503 as a separate restaurant**. | Exact map use; occupant unnamed. |
+| 1926 | City synthesis reports Kwality Restaurant. | Official secondary. |
+| 18 Oct. 1940 | **JAGERS**, 503 Main. | Exact visually verified primary ad. |
+| 1957 | Albert D. Flor and wife associated with restaurant/cocktail-bar operation at 503. | Official secondary. |
+| 28 Mar. 1958 | **WHEEL CAFE & LOUNGE — 503 Main — Ph. 9106.** | Earliest currently recovered exact-address Wheel ad. |
+| 1960–1985 | Wheel Cafe / Wheel Restaurant / The Wheel at 503; Richard M. Wiitanen named owner in 1985. | Primary and municipal anchors; property/business transfer dates remain partly open. |
+| 2016–present context | White Rabbit / Black Ink redevelopment and later use. | Permit/secondary chronology in building record. |
 
-Combined `E-285`: **material target-frontage replacement/reconfiguration occurred after the photographed 1918 state and by 1925**. This does not establish exact individual construction dates, a single rebuild campaign, ownership, or 1922-fire causation.
+## 1922 evidence and ownership controls
+
+The controlling reconstruction is now the dedicated [`1922-fire-frontage.md`](1922-fire-frontage.md). Older model-test language that treated “503 origin / 505 pool” as merely an unranked possibility is superseded for historical-location purposes.
+
+The **13 July 1922 Banner-Courier**, p.1, “Property Changes Hands,” is preserved at `newspapers/banner-courier/1922-07/1922-07-13-seq-01.pdf`. It reports George A. Harding's Main Street property as including stores occupied by the Fifth Street Restaurant, Miller's shoe store, the adjoining barber shop, and Red Front Clothing Store. **C. Gates took the restaurant location; S. Wolf took the remainder.** This is a newspaper report of the transaction and allocation, not a substitute for the unretrieved deed/legal description.
+
+The **20 July Banner-Courier** places the ignition in a vacant storeroom formerly occupied by Alex Schiermann as a tailor, names Gilbert Miller's shoe-repair shop among the destroyed businesses, and says a pool hall adjoined the tailoring establishment. The **21 July Oregon City Enterprise** describes the origin as a **vacant half** formerly occupied by Schiermann and also calls the structure the **shoe-store building in which the fire started**. Together, those accounts support internal subdivision of the 503 building: Miller's active shoe premises and the vacant former-tailor portion could occupy different portions of the same structure.
+
+The adjoining pool-hall evidence is crucial. The pool/billiard premises suffered water damage and partial roof burning but was not razed; the Enterprise credits **fireproof construction** with saving the building immediately north of the fire. With the established odd-number frontage sequence, the project therefore treats **503 as the Miller/Schiermann origin structure and 505 as the adjoining pool/billiard structure**.
+
+### Wolf identity caution
+
+The July 13 sale article prints **S. Wolf**. The July 20 fire report also gives **S. Wolf** as owner of the origin building. The July 21 Enterprise identifies **L. Wolf** as Red Front owner and as recent purchaser of the shoe-store building. Separately, **Wolf & Miller** had operated a shoes/clothing/shoe-repair business at 505 Main in 1918, with contemporary wording indicating a partner split/continuation. It is reasonable to investigate **L. Wolf as probably the same Wolf associated with Wolf & Miller**, but that identity is **PROBABLE / WORKING HYPOTHESIS**, not proved; the S./L. discrepancy must remain explicit.
+
+## Construction and later-business cautions
+
+The City historic inventory assigns the surviving 503 resource a **c.1919** construction estimate and reports Wolf-family ownership roughly **c.1922–1972** from 1983 survey research. Those are useful secondary controls, not primary proof of the exact construction date, July 1922 deed geometry, or Wolf identity. The 1925 Sanborn directly shows 503 as a restaurant; the later Kwality/Wheel history should not be backdated into the July 1922 fire without evidence.
+
+For detailed post-1922 chronology, source IDs, photographs, permits, Kwality/Wheel succession, modern ownership leads, and boundary research, see [`buildings/503-main.md`](../buildings/503-main.md), the archive index, and source captures. This unified timeline intentionally keeps the key address history easy to locate while the evidence files retain the full research record.
