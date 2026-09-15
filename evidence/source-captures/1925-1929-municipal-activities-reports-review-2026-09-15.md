@@ -120,7 +120,7 @@ As in the 1926 and 1928 volumes, the opening aerial/map imagery is not assigned 
 
 - 1925 municipal report: **VISUALLY VERIFIED 22/22** (existing `S-157`; exact steward duplicate reconciled).
 - 1926 municipal report: **VISUALLY VERIFIED 23/23** (existing `S-159`; exact steward duplicate reconciled).
-- 1928 municipal report: **VISUALLY VERIFIED 29/29** (`S-372`).
-- 1929 municipal report: **VISUALLY VERIFIED 33/33** (`S-373`).
+- 1928 municipal report: **VISUALLY VERIFIED 29/29** (`S-372`); page audit: `evidence/source-captures/1928-municipal-report-page-review-2026-09-15.json`.
+- 1929 municipal report: **VISUALLY VERIFIED 33/33** (`S-373`); page audit: `evidence/source-captures/1929-municipal-report-page-review-2026-09-15.json`.
 
 No source silence in these reports is treated as evidence of vacancy, closure, non-use, demolition, ownership, or absence of construction.
