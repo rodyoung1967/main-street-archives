@@ -1,0 +1,24 @@
+{
+  "catalog": "C.0250.005060",
+  "entry_url": "https://api.catalogit.app/api/public/accounts/4813/entries/a2bcb660-9b1f-11eb-b3ef-53e7205a00b4",
+  "hub_url": "https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-main-street-9",
+  "selected_derivative": {
+    "key": "public_highres_2x",
+    "width": 1200,
+    "height": 756,
+    "url": "https://d8e7jbdw4fu0e.cloudfront.net/4813/445d4cb0-9b56-11eb-97c3-a30f15c9573f-vdUfTvP.lg@2x.jpg"
+  },
+  "repository_file": "media/photos/main-street/IMG-0773_c1929-1935-oregon-city-main-street-bluff-cchs-c0250-005060.jpg",
+  "repository_image": {
+    "width": 1381,
+    "height": 870,
+    "bytes": 219852,
+    "sha256": "97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa"
+  },
+  "steward_upload_control": {
+    "width": 1381,
+    "height": 870,
+    "bytes": 219852,
+    "sha256": "97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa"
+  }
+}

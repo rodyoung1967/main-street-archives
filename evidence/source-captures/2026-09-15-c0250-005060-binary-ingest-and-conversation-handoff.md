@@ -242,3 +242,12 @@ The photo dating evidence already exists in the linked source captures. The imme
 ## Validation note
 
 This handoff was written through the GitHub connector. The connector session cannot execute `scripts/validate_archive.py`; no validator pass is claimed for this text-only write. The eventual C.0250.005060 binary-ingest workflow must run the validator before and after its commit/push sequence.
+## Binary ingest completion
+
+The exact CCHS catalog object `C.0250.005060` was recovered through the public CatalogIt API and its largest non-thumbnail public JPEG derivative was committed as `media/photos/main-street/IMG-0773_c1929-1935-oregon-city-main-street-bluff-cchs-c0250-005060.jpg`.
+
+- Repository derivative: 1381 × 870; 219,852 bytes
+- Repository SHA-256: `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`
+- Steward-upload SHA-256 control: `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`
+- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-main-street-9
+- Evidence-state note: the circa 1929–1935 date remains a project research estimate, not institutional metadata.

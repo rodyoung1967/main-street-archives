@@ -1844,3 +1844,20 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Cross-source control: `S-284` / `E-257` reports a **1953 city directory** listing **“Well's Recreation”** at 505.
 - Project conclusion: **1960 Wells / Well's Recreation business-sign anchor = STRONG CROSS-SOURCE INFERENCE**. Proprietor/licensee and uninterrupted 1953–1960 operation remain unresolved.
 - This supersedes only the earlier no-trade-name conclusion for this specific vertical 505 sign; other soft signs in `IMG-0771` remain unresolved.
+
+
+## IMG-0773 — CCHS C.0250.005060 — Oregon City Main Street from the Bluff
+
+- Type: Historic photograph / CCHS public derivative
+- Institutional title: `Oregon City Main Street`
+- CCHS Entry/Object ID: `C.0250.005060`
+- Institutional description: `Business Section of Oregon City from the Bluff.`
+- Institutional date: none stated in steward-supplied metadata.
+- Project working date: **circa 1929–1935**; research estimate, not CCHS metadata.
+- Repository file: `media/photos/main-street/IMG-0773_c1929-1935-oregon-city-main-street-bluff-cchs-c0250-005060.jpg`
+- Repository derivative: **1381 × 870**; **219,852 bytes**; SHA-256 `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`
+- Steward-upload control: **1381 × 870**; **219,852 bytes**; SHA-256 `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`
+- Status: **`committed`** — largest public derivative recovered from the exact CCHS catalog object.
+- Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-main-street-9
+- Dating evidence: completed 1922 arch bridge; bridge-adjacent building strongly consistent with the 1923 replacement Elks Lodge; Railroad Avenue visually consistent with the documented 1929 improvement; old courthouse still standing, before its 1936–37 replacement.
+- Photographer: Ralph Eddy **probable**, based on visible `Eddy` mark; not promoted to institutional attribution without catalog confirmation.

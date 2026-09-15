@@ -301,3 +301,12 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Enlarged steward-led rereview reads the vertical 505 Main sign as **WELLS**.
 - Source/evidence/timeline: `S-322` / `E-295` / `T-105`.
 - With `S-284` / `E-257`, this is the project’s **1960 Wells / Well's Recreation** business-sign anchor; proprietor/licensee remains unresolved.
+
+
+### IMG-0773 — CCHS C.0250.005060, Oregon City Main Street from the Bluff
+- File: `media/photos/main-street/IMG-0773_c1929-1935-oregon-city-main-street-bluff-cchs-c0250-005060.jpg`
+- CCHS: `C.0250.005060`
+- Institutional title: `Oregon City Main Street`
+- Project working date: **circa 1929–1935** (not institutional metadata)
+- Key value: broad downtown/bridge/Railroad Avenue/courthouse visual control; supports the 1929–1935 dating analysis.
+- Review: `evidence/source-captures/2026-09-15-eddy-bluff-photo-1929-1935-metadata-challenge-and-ohs-followup.md`
