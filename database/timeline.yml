@@ -1091,3 +1091,22 @@ timeline:
     related_evidence: [E-347]
     related_businesses: [BUS-069, BUS-039]
     related_buildings: [B-008]
+
+  - id: T-108
+    date: "1 March 1928"
+    summary: "City Fire Department table directly records 503 Main Res. — Overheated Stove — None."
+    confidence: "Very High for exact-address printed wording; Res. meaning and occupant/use identity unresolved"
+    related_sources: [S-372]
+    related_evidence: [E-348]
+    related_businesses: []
+    related_buildings: [B-001]
+
+  - id: T-109
+    date: "1929"
+    summary: "Municipal report records a 10 June Fifth/Main wiring call with $25 estimated damage and separately documents installation of 28 ornamental Main Street lights from Fifth to Ninth at a total cost of $5,600."
+    confidence: "Very High for printed municipal wording; fire-call premises unnumbered and not assigned to a target building"
+    related_sources: [S-373]
+    related_evidence: [E-349]
+    related_businesses: []
+    related_buildings: [B-005, B-001, B-002]
+
