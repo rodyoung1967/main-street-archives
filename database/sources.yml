@@ -294,7 +294,7 @@ sources:
   - id: S-062
     name: City of Oregon City, Downtown Final Report, 2000
     url: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
-    notes: 'Type: Official municipal historic-resource survey / secondary source. Related evidence: E-053. The report says the 2000 re-survey generated 59 individual historic-resource forms; copies were available through the City and originals housed at SHPO. Methodology names newspaper research at Oregon City Public Library, CCHS, University of Oregon and Oregon State University; selected bibliography explicitly lists Oregon City Enterprise daily and weekly newspapers. This narrows the 1926 Kwality-ad provenance but does not identify a specific issue. Full provenance in evidence/source-register.md.'
+    notes: 'Type: Official municipal historic-resource survey / secondary source. Related evidence: E-053 and E-032. The report says the 2000 re-survey generated 59 individual historic-resource forms; copies were available through the City and originals housed at SHPO. Direct visual review of Appendix A aligns 503 Main with c.1919 / Kwality Cafe / Commerce and 505 Main with c.1920 / Unknown / Commerce; Appendix B repeats both under Historic but irretrievable loss of integrity. These are survey assignments, not primary construction proof. Methodology names newspaper research at Oregon City Public Library, CCHS, University of Oregon and Oregon State University; selected bibliography explicitly lists Oregon City Enterprise daily and weekly newspapers. This narrows the 1926 Kwality-ad provenance but does not identify a specific issue. Full provenance in evidence/source-register.md.'
 
   - id: S-063
     name: ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
@@ -2676,4 +2676,13 @@ sources:
     repository_file: "evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md"
     related_evidence: []
     notes: "Lists Oregon City Enterprise Weekly 1871-1942 and Oregon City Enterprise 1911-1950, confirming both Enterprise-family microfilm runs cover 1926. This is source-survival/access evidence only, not proof of any specific Kwality advertisement."
+
+  - id: S-375
+    name: "University of Oregon / ODNP Enterprise title and publication-history controls"
+    url: "https://odnp.uoregon.edu/oregon-city-oregon-city-enterprise/"
+    type: "Official institutional newspaper title metadata and publication history"
+    date: "2026-09-15"
+    repository_file: "evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md"
+    related_evidence: []
+    notes: "UO title metadata identifies Oregon City Enterprise (LCCN sn00063700) as weekly and Morning Enterprise (LCCN sn00063701) as daily except Monday, 1911-1933. ODNP states the daily began in 1911 while the weekly continued under Oregon City Enterprise. For 1926 microfilm use the exact title pair weekly Oregon City Enterprise + daily Morning Enterprise; this does not identify the missing Kwality ad."
 
