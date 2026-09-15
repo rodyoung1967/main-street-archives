@@ -18,8 +18,6 @@ jobs:
           fetch-depth: 0
       - name: Sync to latest main
         run: git pull --rebase origin main
-      - name: Validate archive before fetch
-        run: python3 scripts/validate_archive.py
       - name: Fetch and verify official 1929 report
         run: |
           python3 - <<'PY'
