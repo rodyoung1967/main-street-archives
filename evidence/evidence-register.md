@@ -3452,3 +3452,35 @@ Type: Primary newspaper advertisement / business-relationship control
 Claims: 16 February Banner-Courier page 5 jointly heads a horseshoeing price-reduction notice May & Washburn and S. F. Scripture. A separate Scripture ad on the same page gives 108 Fifth; the joint notice gives May & Washburn no address. The page does not prove partnership merger, succession, shared premises, or identity of May with L. E. May.  
 Source: `S-371`.  
 Confidence: Very High for printed wording; identities and premises limits explicit.
+
+## E-348 — 1 March 1928 Fire Department call at exact 503 Main address
+Type: Primary municipal fire-call table / exact-address evidence; **VISUALLY VERIFIED**.  
+Source: `S-372` — City of Oregon City, *Report of Municipal Activities for 1928*, PDF page 10 / printed pp. 16–17 spread.  
+Related building: `B-001`.  
+Repository capture: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.  
+Claims:
+- The Fire Department table directly prints **“Mar. 1 — 503 Main Res. — Overheated Stove — None.”**
+- This is direct dated evidence that the municipal Fire Department recorded a call at the exact address **503 Main** on **1 March 1928**.
+- The source abbreviation **`Res.` is preserved exactly as printed**; it is not silently expanded into a proved whole-building use classification.
+- The call does **not** name Kwality, a proprietor, tenant, property owner, business operator, or licensee.
+- It does **not** prove the entire 503 building/storefront was residential or establish a change from the 1925 Sanborn restaurant use.
+- It does not move the earliest post-1922 replacement/building-presence endpoint earlier than the visually verified **May 1925 Sanborn**, which already shows a distinct 503 restaurant.
+- The same annual table also contains unnumbered/intersection calls at Fifth/Main and on Main between Fifth and Sixth; those are not assigned to 501/503/505.
+Classification: **DOCUMENTED / DIRECT** for date, exact address, source wording, cause, and printed damage entry; **UNRESOLVED** for what `Res.` denoted physically and for occupant/use identity.  
+Confidence: **Very High** for the visually verified table transcription and exact-address municipal event.
+
+## E-349 — 1929 Fifth/Main fire-call context and ornamental Main Street lights
+Type: Primary municipal fire-call and engineering/public-improvement evidence; **VISUALLY VERIFIED**.  
+Source: `S-373` — City of Oregon City, *Report of Municipal Activities for 1929*, PDF pp. 11 and 13.  
+Related buildings: intersection context for `B-005`, `B-001`, `B-002`; no numbered-building assignment.  
+Repository capture: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.  
+Claims:
+- The Fire Department table directly prints **“June 10 — 5th & Main — Wiring — $25.00”** estimated damage.
+- No numbered premises, street side, business, occupant, proprietor, or owner is supplied; the call is **Fifth/Main intersection context only** and is not assigned to 501, 503, or 505.
+- The Engineering and Street Department directly states that ornamental **Main Street lights were installed from Fifth to Ninth Street**, with **28 lights** at a total cost of **$5,600.00**.
+- That light project directly documents a 1929 public-realm improvement beginning at the target Fifth/Main intersection and extending north; it does not prove or change private-building ownership, construction, tenancy, or business occupancy.
+- A separate fire-table row names **Farr Bros., Slaughter House**. The report supplies no 505 Main address for that entry and it is **not merged with Farr's Pool Hall / Edwin and Alice Farr**.
+- The report's opening aerial/map spread is not given an exposure date and is not treated as a 1929 target-frontage photograph solely because it appears in the 1929 volume.
+Classification: **DOCUMENTED / DIRECT** for the printed Fifth/Main call and Main Street-light project; **INTERSECTION/PUBLIC-REALM CONTEXT ONLY** for 501/503/505; **NO IDENTITY BRIDGE** from Farr Bros. slaughter house to the later 505 pool-hall chain.  
+Confidence: **Very High** for the visually verified municipal wording; exact premises for the fire call unresolved.
+
