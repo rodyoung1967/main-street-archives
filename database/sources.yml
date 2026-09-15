@@ -2649,3 +2649,22 @@ sources:
     repository_file: "evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md"
     related_evidence: [E-344, E-345, E-346, E-347]
     notes: "Every exposed January–February page inspected; no retrieval gaps. The 19 January front-page masthead misprints 1921; archive chronology retained as 1922 with the anomaly explicit."
+
+  - id: S-372
+    name: "City of Oregon City, Report of Municipal Activities for 1928"
+    url: "https://www.orcity.org/DocumentCenter/View/6216/1928-Municipal-Activities-Report"
+    type: "Primary municipal annual report scan; visually verified 29/29 PDF pages"
+    date: "1928"
+    repository_file: "records/municipal/annual-reports/1928 Municipal Activities Report.PDF"
+    related_evidence: [E-348]
+    notes: "Steward upload 1928 Municipal Activities Report(1).PDF is byte-identical to the canonical repository binary; SHA-256 270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be. Fire table directly prints Mar. 1 — 503 Main Res. — Overheated Stove — None. Preserve Res. as printed; no whole-building use or occupant inference."
+
+  - id: S-373
+    name: "City of Oregon City, Report of Municipal Activities for 1929"
+    url: "https://www.orcity.org/DocumentCenter/View/6217/1929-Municipal-Activities-Report"
+    type: "Primary municipal annual report scan; visually verified 33/33 PDF pages"
+    date: "1929"
+    repository_file: "records/municipal/annual-reports/1929 Municipal Activities Report.PDF"
+    related_evidence: [E-349]
+    notes: "Steward-upload SHA-256 32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664. Fire table prints 10 Jun. 1929 — 5th & Main — Wiring — $25; engineering section documents 28 ornamental Main Street lights from Fifth to Ninth at $5,600. Farr Bros. Slaughter House is not merged with the 505 pool-hall chain."
+
