@@ -30,6 +30,16 @@ Reference implementation:
 
 The script searched the public CatalogIt API for the exact CCHS catalog number, verified the returned object, selected the largest non-thumbnail public derivative, downloaded the JPEG, fingerprinted it, wrote it into `media/photos/main-street/`, updated the photo metadata register/inventory/source capture, and produced an API provenance record. The GitHub Actions workflow then validated and committed the binary.
 
+## Current pending CCHS target: C.0250.005060
+
+The project steward supplied CCHS photograph `C.0250.005060`, titled `Oregon City Main Street`, with description `Business Section of Oregon City from the Bluff.` The steward-supplied JPEG is available in the active research environment and has been fingerprinted as **1381 × 870 pixels**, **219,852 bytes**, SHA-256 `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`.
+
+As of 15 September 2026, the image binary itself is **not yet committed to `main`**. Do not describe this item as fully preserved until the JPEG is visible on current `main` and its canonical register/inventory entries point to that binary.
+
+Use the proven `IMG-0771` CCHS method for this item: adapt the existing CatalogIt fetch script and GitHub Actions workflow to exact object `C.0250.005060`, assign the next valid `IMG-####` only after checking the current register/inventory, retrieve and verify the exact public derivative, commit it under `media/photos/main-street/`, update the source capture/register/inventory, run `scripts/validate_archive.py`, and verify the resulting binary-preservation commit on `main`.
+
+The project working date is approximately **circa 1929–1935**, with 1936 retained as a boundary/uncertainty in detailed dating notes rather than necessarily in the primary filename. That dating estimate is project interpretation, not CCHS catalog metadata.
+
 ## CCHS / CatalogIt pattern
 
 For another CCHS image, start by adapting the proven `2008.008.049.037` implementation rather than inventing a new ingest mechanism. Change the target catalog ID, canonical IMG ID/path, expected steward-upload fingerprint, source-capture path, and metadata/inventory updates. Preserve the distinction between:
@@ -61,3 +71,5 @@ A binary ingest is complete only when all applicable checks pass:
 ## Agent reminder
 
 When a future conversation asks, "Why can't you add this uploaded photo/file to the repo?", do **not** stop at the connector's inability to transfer local binary bytes. Search `BINARY-INGEST.md`, existing `scripts/fetch_*` files, `.github/workflows/`, and recent commits containing `binary`, `fetch`, `photo`, or `preserve`. The repository may already contain a proven server-side retrieval-and-commit solution.
+
+Useful steward shorthand for future conversations: **“Use the repo's binary-ingest workflow — the CCHS fetch-script + GitHub Actions method. Check `BINARY-INGEST.md` and the `IMG-0771` precedent.”**
