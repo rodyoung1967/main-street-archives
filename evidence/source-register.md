@@ -1123,6 +1123,8 @@ Source capture: `evidence/source-captures/1925-municipal-report-fire-correction-
 Continuation: `evidence/source-captures/1925-municipal-report-remaining-pages-review-2026-09-01.md`. Financial schedules are aggregate municipal accounts, not tenant lists or private-building permits. Auditor certificate dated January 23, 1926; printer credited as Oregon City Printing Co.; these are source-production metadata, not Main/Fifth entity-location claims.
 Notes: Original scan corrects the former April 18 / $2,500 conflation to **April 30, 6:15 a.m., approximately $15 damage**. No side/number/operator is supplied. General/Recorder/Health/Engineering sections supply precise retrieval leads for meeting reconciliation, duplicate receipts, lien cards, restaurant inspections and plans; current survival is unconfirmed. The full City PDF was downloaded independently of the blocked Laserfiche export, and is preserved without modification.
 
+**15 September 2026 steward-upload reconciliation:** newly supplied `1925-municipal-activities-report.pdf` is byte-identical to the canonical repository original (same SHA-256 and Git blob); no duplicate binary or source ID was created. The relevant fire-table row was rechecked against the supplied scan. Batch reconciliation: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
+
 ## S-158 — Oregon State Archives, Clackamas County historical records inventory
 Type: Official HTML finding aid; catalog text reviewed 1 September 2026. **Original records PENDING / MANUAL CALLOUT**, not visually verified historical pages.
 Canonical page: https://sos.oregon.gov/archives/county-records-guide/Pages/clackamas-inventory.aspx
@@ -1141,6 +1143,8 @@ Transmittal: January 25, 1927; printer credit Oregon City Enterprise. No target 
 Evidence: `E-142` fire calls; `E-143` health/licensing context. Embedded aerial: `IMG-0726`, PDF 4, exposure date and target roof mapping unresolved.
 Review and numbered manual follow-ups: `evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md`; per-page audit: `evidence/source-captures/1926-municipal-report-page-review-2026-09-01.json`.
 Limits: No named 501/503/505 occupant or target reconstruction identified. Fifth/Main November 11 call is a false alarm; September 20 Sixth/Main damage has no numbered premises. Restaurant inspections and county-labeled health payment identify retrieval leads, not present record custody. Original downloaded independently of the blocked Laserfiche route and retained unchanged.
+
+**15 September 2026 steward-upload reconciliation:** newly supplied `1926-municipal-activities-report.pdf` is byte-identical to the canonical repository original (same SHA-256 and Git blob); no duplicate binary or source ID was created. The Fifth/Main and Sixth/Main fire-table controls were rechecked against the supplied scan. Batch reconciliation: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
 
 ## S-160 — Oregon City Enterprise, 11 July 1919, p. 5, Gilbert Miller family relocation
 Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026.  
@@ -3200,3 +3204,24 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/
 Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`  
 Related evidence: `E-344`, `E-345`, `E-346`, `E-347`.  
 Notes: Every exposed January–February page inspected; no retrieval gaps. The 19 January front-page masthead misprints 1921; the ODNP date and surrounding weekly sequence place the issue in 1922.
+
+## S-372 — City of Oregon City, Report of Municipal Activities for 1928
+Type: Primary municipal annual report scan; **29/29 PDF pages VISUALLY VERIFIED** 15 September 2026. Report review only; no annual closeout claim.
+Canonical PDF: https://www.orcity.org/DocumentCenter/View/6216/1928-Municipal-Activities-Report
+Repository original: `records/municipal/annual-reports/1928 Municipal Activities Report.PDF`.
+Steward-upload alias: `1928 Municipal Activities Report(1).PDF` — exact byte duplicate of repository original; no duplicate binary committed.
+Integrity: **23,068,960 bytes / 29 PDF scan pages**; SHA-256 `270738bdff8a038fb7d9017dec95df2f02fd5633fb3a8d54a984b0bffab997be`; Git blob `bd0ca847b462518c26764be888c3c0d669964d0d`.
+Related evidence: `E-348`.
+Review: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
+Notes: Fire Department table directly prints **1 Mar. 1928 — 503 Main Res. — Overheated Stove — None**. Preserve `Res.` as printed rather than silently expanding it. The entry establishes an exact-address municipal call but no business, proprietor, owner, tenant, or whole-building residential use. Nearby Fifth/Main and Fifth-to-Sixth calls remain unnumbered context. The aerial/map spread has no exposure date and is not assigned a 1928 photo date merely from publication in this volume.
+
+## S-373 — City of Oregon City, Report of Municipal Activities for 1929
+Type: Primary municipal annual report scan; **33/33 PDF pages VISUALLY VERIFIED** 15 September 2026. Report review only; no annual closeout claim.
+Canonical PDF: https://www.orcity.org/DocumentCenter/View/6217/1929-Municipal-Activities-Report
+Repository original: `records/municipal/annual-reports/1929 Municipal Activities Report.PDF`.
+Steward-upload filename: `1929 Municipal Activities Report.PDF`.
+Integrity: **31,973,024 bytes / 33 PDF scan pages**; SHA-256 `32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664`.
+Related evidence: `E-349`.
+Review: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
+Notes: Fire Department table directly prints **10 Jun. 1929 — 5th & Main — Wiring — $25 estimated damage**, without a numbered premises. Engineering section directly documents installation of **28 ornamental Main Street lights from Fifth to Ninth**, total cost **$5,600**. A separate **Farr Bros., Slaughter House** fire-call entry is not assigned to 505 Main or conflated with Farr's Pool Hall. Opening aerial/map imagery is undated as to exposure and is not treated as a 1929 photograph solely because of report publication.
+
