@@ -326,17 +326,19 @@ Hello Blake,
 
 I am working on a historical research project involving 501, 503 and 505 Main Street in Oregon City and need to review local newspaper coverage for **1923 through 1926** that is not fully available in the project's principal online sources.
 
-The Library's Microfilm Scanning System page lists long runs of the **Oregon City Enterprise**, **Oregon City Banner Courier**, and related Oregon City newspapers. Could you please confirm the Library's surviving microfilm coverage for 1923–1926 and the best procedure for using the ScanPro reader in the Carnegie Center?
+The Library's current Microfilm Scanning System page lists **Oregon City Enterprise Weekly (10 Nov. 1871–25 Dec. 1942)** and **Oregon City Enterprise (8 Jan. 1911–28 Feb. 1950)**, so both Enterprise-family runs appear to cover all of 1926. A separate City historic-preservation re-survey from 2000 states that **1926 newspaper advertisements identify the business at 503 Main as the Kwality Restaurant**, and that re-survey's bibliography specifically lists **Oregon City Enterprise (daily and weekly newspapers)**.
+
+Could you please help me confirm the best procedure for using the ScanPro reader in the Carnegie Center for those 1926 Enterprise reels?
 
 In particular, I would appreciate knowing:
 
-1. which Oregon City newspaper titles/reels cover 1923, 1924, 1925 and 1926;
-2. whether there are known missing dates or gaps in those reels;
+1. whether the **1926 weekly and daily Enterprise reels** have any known missing dates or damaged sections;
+2. how the reels are labeled/shelved so I can distinguish the weekly from daily run;
 3. whether an appointment or reservation is needed;
 4. whether researchers may save page images directly to a USB drive; and
-5. whether staff can provide focused remote lookups for a small number of exact dates once those dates are identified.
+5. whether staff can provide a focused remote lookup if I later identify one or two exact dates from the City's 2000 historic survey file.
 
-The research targets include 503/505 Main, pool/billiard halls, Farr, Kwality/Quality Cafe, building alterations, fires, business moves/transfers and the Fifth/Main block, but I am **not asking staff to conduct a four-year page-by-page review**. My immediate goal is to establish the precise physical microfilm holdings and access procedure so I can perform that review correctly.
+The highest-priority search terms are **Kwality**, **Kwality Restaurant**, **Kwality Cafe**, **503 Main**, **Jager/Jaeger**, and opening/new-management language. Secondary targets include 505 Main, pool/billiard halls, Farr, building alterations, fires, business moves/transfers and the Fifth/Main block. I am **not asking staff to conduct a year-long page-by-page review**; my goal is to establish access and then perform the visual review correctly.
 
 Thank you for your help,
 
