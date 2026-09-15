@@ -1,0 +1,62 @@
+name: Fetch 1929 Municipal Activities Report
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-1929-municipal-activities-report.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before fetch
+        run: python3 scripts/validate_archive.py
+      - name: Fetch and verify official 1929 report
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, requests
+          url='https://www.orcity.org/DocumentCenter/View/6217/1929-Municipal-Activities-Report'
+          expected='32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664'
+          out=pathlib.Path('records/municipal/annual-reports/1929 Municipal Activities Report.PDF')
+          r=requests.get(url,timeout=120,allow_redirects=True,headers={'User-Agent':'main-street-archives municipal-report preservation'})
+          r.raise_for_status()
+          data=r.content
+          if not data.startswith(b'%PDF'):
+              raise SystemExit(f'Not a PDF: {r.headers.get("content-type")} {len(data)} bytes')
+          got=hashlib.sha256(data).hexdigest()
+          print(f'bytes={len(data)} sha256={got} final_url={r.url}')
+          if got != expected:
+              raise SystemExit(f'SHA-256 mismatch: expected {expected}, got {got}')
+          out.parent.mkdir(parents=True,exist_ok=True)
+          out.write_bytes(data)
+          PY
+      - name: Validate archive after fetch
+        run: python3 scripts/validate_archive.py
+      - name: Commit report
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git add 'records/municipal/annual-reports/1929 Municipal Activities Report.PDF'
+          if git diff --cached --quiet; then
+            echo 'No report changes.'
+            exit 0
+          fi
+          git commit -m 'Preserve 1929 municipal activities report'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          exit 1
