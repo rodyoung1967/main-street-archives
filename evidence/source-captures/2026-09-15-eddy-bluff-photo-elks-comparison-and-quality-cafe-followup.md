@@ -27,7 +27,11 @@ The filename wording is not institutional dating evidence.
 
 ### Binary preservation
 
-The re-uploaded binary was inspected directly in the active runtime. The current GitHub connector workflow has not yet safely transferred the mounted JPEG into the repository. Preserve this as a **technical ingest gap**. The exact image file therefore is **not yet claimed as saved in the repo**. A binary-capable repo session should compare it against existing media, preserve the nonduplicate image under `media/`, assign/confirm an `IMG-####` ID, and update `media/photo-metadata-register.md` with the CCHS metadata above.
+The steward-supplied JPEG was inspected directly in the active runtime. Its control fingerprint is **1381 × 870 px**, **219,852 bytes**, SHA-256 `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`.
+
+The actual image binary is **not yet committed to current `main`**, so this item must not yet be described as fully preserved. However, the earlier assumption that a special local-binary upload capability was required is superseded. The repository already has a proven CCHS binary-ingest method: adapt the existing CatalogIt fetch script and GitHub Actions workflow documented in `BINARY-INGEST.md` and proven by `IMG-0771` / commit `d6fdf22de7df77b0e3ce30864b26a5155b25eb42`.
+
+For the complete current procedure and handoff, see `evidence/source-captures/2026-09-15-c0250-005060-binary-ingest-and-conversation-handoff.md`.
 
 ## 1923 replacement Elks Lodge comparison
 
@@ -55,7 +59,7 @@ This substantially weakens any 1922 or early-1923 date. Because the replacement 
 
 Do not yet express 7 December 1923 as an exact terminus post quem: the photograph does not independently prove whether every visible portion was complete before the first meeting.
 
-Later research in the repository has since produced a stronger working date of approximately **1929–1935**, based principally on the post-improvement Railroad Avenue configuration and the still-standing old courthouse. See `evidence/source-captures/2026-09-15-eddy-bluff-photo-1929-1935-metadata-challenge-and-ohs-followup.md`; its external-facing framing should now be revised from a metadata challenge to a dating-assistance note because CCHS metadata itself is undated.
+Later research in the repository has since produced a stronger working date of approximately **1929–1935**, based principally on the post-improvement Railroad Avenue configuration and the still-standing old courthouse. See `evidence/source-captures/2026-09-15-eddy-bluff-photo-1929-1935-metadata-challenge-and-ohs-followup.md`.
 
 ## 17 August 1922 Banner-Courier — QUALITY CAFE
 
@@ -73,11 +77,12 @@ Do **not** merge these businesses or spellings until direct evidence supports th
 
 ## Next actions
 
-1. Preserve the actual JPEG under `media/` in a binary-capable repo session and register **C.0250.005060** in `media/photo-metadata-register.md`.
-2. Revise any external report so it offers evidence to help date the currently undated CCHS catalog image rather than alleging a CCHS dating error.
-3. Continue refining the current circa 1929–1935 bracket, including exact Railroad Avenue completion and courthouse replacement milestones.
-4. Recover the faithful scan of 17 Aug. 1922 *Banner-Courier* p.2 and visually verify `QUALITY CAFE`.
-5. Do not send institutional requests or authorize fees without project-steward approval.
+1. Use the proven CCHS binary-ingest workflow in `BINARY-INGEST.md` to preserve exact object **C.0250.005060** under `media/photos/main-street/`; assign the next valid `IMG-####` only after checking the current register/inventory.
+2. Update `media/photo-metadata-register.md`, `media/photos/inventory.md`, and the relevant source records when the binary is actually committed.
+3. Verify the JPEG exists on current `main` and record the binary-preservation commit before calling the ingest complete.
+4. Continue refining the current circa 1929–1935 bracket, including exact Railroad Avenue completion and courthouse replacement milestones.
+5. Recover the faithful scan of 17 Aug. 1922 *Banner-Courier* p.2 and visually verify `QUALITY CAFE`.
+6. Do not send institutional requests or authorize fees without project-steward approval.
 
 ## Validation note
 
