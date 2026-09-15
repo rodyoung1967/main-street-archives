@@ -151,7 +151,7 @@ The 1929–2025 aerial photocompare series (`E-021` / `S-023`) still shows three
 
 - Determine whether the City's c.1919 date represents original construction, rebuild, or major reconstruction and locate primary permit/assessment/deed evidence.
 - Identify the builder/owner associated with the circa-1919 construction.
-- Locate the **1926 Kwality Restaurant advertisements** cited by the City inventory and record proprietor/address wording.
+- Locate the **1926 Kwality Restaurant advertisements** cited by the City inventory and record proprietor/address wording. Current priority route: retrieve the **individual 503 Main / Kwality Cafe 2000 survey form and source notes** (`MF-068`); if it lacks an exact citation, review the **1926 Oregon City Enterprise weekly + daily microfilm** confirmed at Oregon City Public Library (`S-374` / `MF-031`). The 2000 report bibliography names Oregon City Enterprise daily/weekly as a project source but does not itself identify the exact issue.
 - Identify the Wolf-family member(s) who owned 503 circa 1922–1972 and obtain deed/tax proof.
 - Test whether that Wolf family is related to the Wolf & Miller business / Gilbert Miller family network without assuming identity.
 - Establish the year-by-year occupant sequence for 503 Main.
