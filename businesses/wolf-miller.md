@@ -2,9 +2,24 @@
 
 Business ID: `BUS-012`. Address: 505 Main Street (`B-002`). Related person: Gilbert Miller (`P-046`).
 
-A visually verified 3 February 1916 Springfield notice identifies Gilbert Miller with Wolf & Miller there; it is an antecedent, not Oregon City occupancy (`E-113` / `S-125`). The 10 and 24 October 1918 Oregon City records directly place **Wolf & Miller at 505 Main** in the shoe/repair trade (`E-027`, `E-124`; `S-034`, `S-138`). The Wolf partner and legal shares remain unresolved; preserve the C. E. Miller/Gilbert Miller discrepancy. Do not merge this Wolf with S. Wolf or later 503 ownership without a direct bridge.
+A visually verified 3 February 1916 Springfield notice identifies Gilbert Miller with Wolf & Miller there; it is an antecedent, not Oregon City occupancy (`E-113` / `S-125`). The 10 and 24 October 1918 Oregon City records directly place **Wolf & Miller at 505 Main** in the shoe/repair trade (`E-027`, `E-124`; `S-034`, `S-138`). The 20 September 1918 Enterprise advertisement also directly prints **Wolf & Miller, 505 Main St.**, advertising men's clothing, shoes and shoe repairing (`S-187` / `E-166`). The Wolf partner and legal shares remain unresolved; preserve the C. E. Miller/Gilbert Miller discrepancy.
 
-See the [505 Main unified timeline](../timelines/505-main.md).
+A key October 1918 sale notice says the firm was selling shoes, men's clothing/furnishings and operated a shoe-repair department; after the sale, **one member of the firm would go to Idaho while the other would restock the store and continue the business**. This is direct evidence that a division/dissolution or major restructuring of the partnership was underway, but the recovered wording does not identify which partner left and which remained.
+
+## Probable later Wolf / Red Front connection
+
+The project now carries a **PROBABLE / WORKING IDENTITY HYPOTHESIS** that **L. Wolf**, identified in the 21 July 1922 Enterprise fire account as owner of the **Red Front Clothing Store**, may be the Wolf of Wolf & Miller. The fit is meaningful:
+
+- Wolf & Miller sold men's clothing, shoes and shoe-repair services at 505 Main in 1918.
+- The October 1918 notice explicitly anticipated one partner leaving and the other continuing/re-stocking the business.
+- By 1922, **Gilbert Miller** is operating a separately named shoe business, while **Red Front** is a separately named clothing business.
+- A steward-found **Aurora Observer, 22 September 1921, p.3** advertisement directly places **Red Front Clothing Store at 507 Main**.
+- The visually verified 13 July 1922 Banner-Courier sale article places Red Front and Miller's shoe store in George A. Harding's same Main Street property group and says **S. Wolf** took the remainder after C. Gates received the Fifth Street Restaurant location.
+- The 21 July 1922 Enterprise calls **L. Wolf** the owner of Red Front and also says Wolf had recently purchased the shoe-store building where the fire began.
+
+This is not yet a documented identity or documented asset division. Preserve the **S. Wolf / L. Wolf** initial conflict and do not merge those references, the unidentified Wolf & Miller partner, or later 503 Wolf-family ownership without an independent name/deed/directory bridge.
+
+See the [505 Main unified timeline](../timelines/505-main.md) and [Red Front Clothing Store](red-front-clothing-store.md).
 
 ## July 1919 Gilbert Miller residence corroboration
 
