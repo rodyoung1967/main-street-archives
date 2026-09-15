@@ -3220,7 +3220,7 @@ Type: Primary municipal annual report scan; **33/33 PDF pages VISUALLY VERIFIED*
 Canonical PDF: https://www.orcity.org/DocumentCenter/View/6217/1929-Municipal-Activities-Report
 Repository original: `records/municipal/annual-reports/1929 Municipal Activities Report.PDF`.
 Steward-upload filename: `1929 Municipal Activities Report.PDF`.
-Integrity: **31,973,024 bytes / 33 PDF scan pages**; SHA-256 `32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664`.
+Integrity: **31,973,024 bytes / 33 PDF scan pages**; SHA-256 `32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664`; Git blob `c78867c8bda40e865fb09872cae9addf7f2dcfbe`. Official City download was hash-matched to the steward upload and preserved in commit `ffeee5f3552b5947979fbc3dbf9b2408e9100859` after archive validation.
 Related evidence: `E-349`.
 Review: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
 Notes: Fire Department table directly prints **10 Jun. 1929 — 5th & Main — Wiring — $25 estimated damage**, without a numbered premises. Engineering section directly documents installation of **28 ornamental Main Street lights from Fifth to Ninth**, total cost **$5,600**. A separate **Farr Bros., Slaughter House** fire-call entry is not assigned to 505 Main or conflated with Farr's Pool Hall. Opening aerial/map imagery is undated as to exposure and is not treated as a 1929 photograph solely because of report publication.
