@@ -33,6 +33,8 @@ Status: **Map and removal-window portions answered; occupant/title/removal cause
 ## OQ-006 — Kwality / Quality Cafe Names
 How do Kwality Cafe, New Kwality Cafe, Larry's Kwality Cafe, and the photo-metadata wording "The Quality Cafe" relate to each other?
 
+**15 September 2026 provenance update:** the 2000 downtown re-survey's selected bibliography explicitly lists **Oregon City Enterprise (daily and weekly newspapers)**, and its methodology says the project used newspaper research at Oregon City Public Library, CCHS, UO and OSU. The same report says the project generated **59 individual historic-resource survey forms**, with City copies and SHPO originals. Oregon City Public Library now confirms surviving Enterprise-family microfilm across all of **1926** (`S-374`). This does not yet identify the exact advertisement, but it narrows the next evidence path: retrieve the **503 Main / Kwality Cafe 2000 survey form and source notes** (`MF-068`) before a focused **1926 Enterprise weekly + daily microfilm** review (`MF-031`). The City's “1926 newspaper ads as the Kwality Restaurant” wording remains **OFFICIAL SECONDARY / DERIVATIVE** until the ad itself is visually verified.
+
 ## OQ-007 — J. Jager
 Who was J. Jager, proprietor of New Kwality Cafe?
 
