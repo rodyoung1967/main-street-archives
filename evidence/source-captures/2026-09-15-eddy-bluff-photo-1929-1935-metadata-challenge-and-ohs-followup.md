@@ -6,9 +6,9 @@ Date: 2026-09-15
 
 Preserve the visual and documentary analysis of the project-steward-supplied photograph and assist Clackamas County Historical Society in narrowing the date of its otherwise undated catalog entry.
 
-This note supersedes earlier wording that framed the work as a metadata challenge/correction. The CCHS metadata supplied by the steward does **not** state that the photograph is pre-1922 and does not state any date at all.
+The goal is dating assistance. The supplied CCHS metadata does not state a date, so no catalog-date correction is being proposed.
 
-This note also supersedes the dating conclusion in `evidence/source-captures/2026-09-15-bluff-photo-1925-1929-dating-controls.md`, where Railroad Avenue was provisionally interpreted as pre-improvement. Direct comparison with the municipal-report before/after photographs overturned that interpretation.
+This note supersedes the dating conclusion in `evidence/source-captures/2026-09-15-bluff-photo-1925-1929-dating-controls.md`, where Railroad Avenue was provisionally interpreted as pre-improvement. Direct comparison with the municipal-report before/after photographs overturned that interpretation.
 
 ## CCHS catalog metadata supplied by steward
 
@@ -17,26 +17,23 @@ This note also supersedes the dating conclusion in `evidence/source-captures/202
 - **Description:** `Business Section of Oregon City from the Bluff.`
 - **Date:** no date stated in the metadata supplied.
 
-The local/inherited research filename `Oregon City Main Street (Date Unnown - pre 1922)(3).jpg` contained the words `pre 1922`. That filename wording is **not CCHS catalog metadata** and must not be attributed to CCHS. It is retained only as provenance for the local copy.
-
 ## Recommended repository filename
 
-For the project copy, use a neutral research filename that reflects the current estimated range without altering the institutional title:
+When the project image binary can be committed, use a research filename reflecting the current estimated range while retaining the institutional title and identifier in the metadata register:
 
 `media/photos/IMG-TBD_oregon-city-main-street-c0250-005060_c1929-1936.jpg`
 
-The `c1929-1936` portion is a **project dating estimate**, not institutional metadata. Preserve the CCHS title, Entry/Object ID, description, and original/local filename separately in `media/photo-metadata-register.md`.
+The `c1929-1936` portion is a project dating estimate, not institutional metadata.
 
 ### Binary-ingest status
 
-The actual JPEG is **not yet committed**. The current GitHub connector accepts UTF-8 text writes but does not expose a safe local-binary-to-repository upload action. Therefore the image cannot honestly be renamed in the repository yet because no repository JPEG exists to rename. This remains a technical ingest gap.
+The actual JPEG is **not yet committed**. The current GitHub connector accepts UTF-8 text writes but does not expose a safe local-binary-to-repository upload action. Therefore no repository JPEG can yet be renamed or ingested. This remains a technical ingest gap.
 
 When binary upload becomes available:
 1. compare the supplied JPEG against existing media for exact/substantive duplication;
 2. assign the next valid `IMG-####` ID;
 3. commit it using the recommended `c1929-1936` filename (or the then-current refined range);
-4. update `media/photo-metadata-register.md` and `media/photos/inventory.md`;
-5. preserve the local inherited filename as provenance only.
+4. update `media/photo-metadata-register.md` and `media/photos/inventory.md`.
 
 ## Visible features
 
@@ -51,7 +48,7 @@ The supplied image shows:
 
 ## Bridge chronological control
 
-The completed Oregon City–West Linn bridge is plainly visible. The formal opening/dedication was 28 December 1922. This provides an early chronological control for dating the photograph. It is not presented as a correction to CCHS metadata.
+The completed Oregon City–West Linn bridge is plainly visible. The formal opening/dedication was 28 December 1922. This provides an early chronological control for dating the photograph.
 
 Evidence state: **DOCUMENTED chronology + DIRECT VISUAL landmark**.
 
@@ -126,11 +123,7 @@ The indexed date is compatible with the independently derived range, but an exac
 
 ## External dating-assistance packet
 
-The current external-facing report is intentionally framed as assistance with dating an undated CCHS image, not as a correction request.
-
-Current artifact names:
-- `Oregon_City_Main_Street_C0250_005060_Photo_Dating_Report.docx`
-- `Oregon_City_Main_Street_C0250_005060_Photo_Dating_Report.pdf`
+The external-facing report is intentionally framed solely as assistance with dating an undated CCHS image.
 
 The packet:
 - identifies CCHS Entry/Object ID `C.0250.005060`;
@@ -141,11 +134,11 @@ The packet:
 - suggests approximately 1929–1935/36 as a provisional working range;
 - invites catalog staff to compare original negative/accession notes and related Eddy images.
 
-The PDF/DOCX binaries are not claimed as committed to the repository in this connector-only session.
+The external report should not mention internal repository paths, internal filenames, or superseded local filename history because those details do not assist CCHS with dating the photograph.
 
 ## Suggested catalog note for consideration
 
-> Research comparison suggests a possible date of circa 1929–1935/36. The completed Oregon City–West Linn bridge provides a post-December-1922 chronological control. Railroad Avenue appears consistent with the configuration following its documented 1929 improvement, while the old Clackamas County courthouse remains standing. The range is provisional and may be narrowed by the original negative/catalog notes or additional dated comparison photographs.
+> Research comparison suggests a possible date of circa 1929–1935/36. The completed Oregon City–West Linn bridge provides an early chronological control. Railroad Avenue appears consistent with the configuration following its documented 1929 improvement, while the old Clackamas County courthouse remains standing. The range is provisional and may be narrowed by the original negative/catalog notes or additional dated comparison photographs.
 
 ## Next research refinements
 
