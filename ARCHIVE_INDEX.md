@@ -34,6 +34,8 @@ Latest occupant/property retrieval checkpoint: [1925 license/inspection search a
 
 Latest municipal source review: [1926 report, all 23 PDF pages visually verified](evidence/source-captures/1926-municipal-report-visual-review-2026-09-01.md), [retained original](records/municipal/annual-reports/1926-municipal-activities-report.pdf). New fire-call distinctions (`E-142`), county health-payment/inspection leads (`E-143`) and embedded aerial (`IMG-0726`); no target tenant or rebuild date. Year remains **IN PROGRESS**.
 
+1925–1929 annual-report reconciliation: [15 September review](evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md) confirms the supplied **1925, 1926, and 1928 PDFs are exact duplicates of canonical repository binaries**, so no duplicate files were added. The **1928 report is now registered as `S-372` and fully visually verified 29/29**; its Fire Department table directly records **1 Mar. 1928 — `503 Main Res.` — Overheated Stove — None** (`E-348`), with `Res.` preserved as printed and no occupant/use expansion. The **1929 report is registered as `S-373` and fully visually verified 33/33**; it adds a **10 Jun. Fifth/Main wiring call ($25)** plus **28 ornamental Main Street lights from Fifth to Ninth ($5,600)** (`E-349`). Annual-report index: [records/municipal/annual-reports/README.md](records/municipal/annual-reports/README.md). These source reviews do not by themselves close 1928 or 1929.
+
 ### 501 Main Street (historic / removed)
 
 Primary file: `buildings/501-main.md` · Unified timeline: [`timelines/501-main.md`](timelines/501-main.md)
