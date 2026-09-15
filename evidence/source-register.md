@@ -330,10 +330,10 @@ Notes: Page 6 advertisements include **The Chicago Store — "Main St. just belo
 ## S-062 — City of Oregon City, Downtown Final Report, 2000
 Canonical URL: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF  
 Type: Official municipal historic-resource survey / secondary source.  
-Relevant pages: p. 14 discusses later entrance alterations to the Swartz Building; summary table near the end of the report lists **527 Main St. — Swartz Building — 1935**.  
+Relevant pages: p. 14 discusses later entrance alterations to the Swartz Building; summary table near the end of the report lists **527 Main St. — Swartz Building — 1935**. The introduction/methodology and selected bibliography are also relevant to the 503/Kwality provenance problem.  
 Related evidence: `E-053`  
 Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
-Notes: The report classifies the Swartz Building as historic but not eligible in its then-current state and gives **1935** as the construction date. It also notes that the entrance had been altered after the earlier 1983 survey. The full external PDF was browser-verified on 20 August 2026; direct binary mirroring from the City endpoint was not available in the current tool environment, so the repository preserves the canonical URL and a verified source extract/provenance note.
+Notes: The report classifies the Swartz Building as historic but not eligible in its then-current state and gives **1935** as the construction date. It also notes that the entrance had been altered after the earlier 1983 survey. The report states that the 2000 project generated **59 Oregon Inventory of Historic Properties Historic Resource Survey Forms**, with copies available through the City and originals housed at **SHPO in Salem**. Its methodology says archival research used newspapers, Sanborn maps, directories, tax records, SHPO files, local histories and historic photos, with research gathered from the **Oregon City Public Library, Clackamas County Historical Society and Museum, University of Oregon, and Oregon State University**. The selected bibliography explicitly lists **“Oregon City Enterprise (daily and weekly newspapers)”**. This materially narrows the source trail behind the later City statement that 503 Main appeared in 1926 newspaper ads as the Kwality Restaurant, but the project-wide bibliography does **not** prove which specific Enterprise title/issue supplied that individual claim. See `evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md`. The full external PDF was browser-verified; the repository presently preserves the canonical URL and verified extract/provenance notes rather than a local full-PDF mirror.
 
 ## S-063 — ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
 Canonical URL: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf  
@@ -3224,4 +3224,12 @@ Integrity: **31,973,024 bytes / 33 PDF scan pages**; SHA-256 `32f5e5eedd193f2044
 Related evidence: `E-349`.
 Review: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
 Notes: Fire Department table directly prints **10 Jun. 1929 — 5th & Main — Wiring — $25 estimated damage**, without a numbered premises. Engineering section directly documents installation of **28 ornamental Main Street lights from Fifth to Ninth**, total cost **$5,600**. A separate **Farr Bros., Slaughter House** fire-call entry is not assigned to 505 Main or conflated with Farr's Pool Hall. Opening aerial/map imagery is undated as to exposure and is not treated as a 1929 photograph solely because of report publication.
+
+## S-374 — Oregon City Public Library, Microfilm Scanning System / newspaper holdings
+Canonical URL: https://www.orcity.org/490/Microfilm-Scanning-System
+Type: Official current library holdings/access page; research-access evidence, not historical event evidence.
+Reviewed: 15 September 2026.
+Related research: `MF-031`; `RL-010`; 1926 Kwality advertisement retrieval.
+Repository capture: `evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md`.
+Notes: The Library lists **Oregon City Enterprise Weekly, 10 Nov. 1871–25 Dec. 1942**, and **Oregon City Enterprise, 8 Jan. 1911–28 Feb. 1950**, so both Enterprise-family microfilm runs cover all of **1926**. The reader is located in the Carnegie Center and allows printing/saving images; the page directs date-specific questions to Library Reference. This confirms source survival/access, not that a particular 1926 Kwality ad exists on a given date or title. No outreach was sent.
 
