@@ -160,3 +160,41 @@ Resume by:
 - identifying the exact Eddy/CCHS image;
 - tightening the date bracket with courthouse/building/bridge/riverfront controls;
 - then return to the 503/505 interpretation only after the exposure date is better constrained.
+
+
+## 15 September continuation — 1923 Elks Lodge becomes the strongest lower-bound test
+
+A stronger architectural dating control was recovered after the first handoff commit.
+
+### Documentary chronology
+
+- Oregon City Elks Lodge #1189 says its first lodge building burned to the ground on **2 December 1922**.
+- The lodge met at the Masonic Temple while a replacement was built.
+- The replacement lodge was completed in **1923**; the Lodge's own history says its **first meeting in the new building was 7 December 1923**.
+- Oregon's bridge cultural-resources report independently inventories **Elks BPOE #1189, 610 McLoughlin Blvd., built 1923**.
+- The 1925 Sanborn synthesis states that by 1925 the **Elks Lodge had been built on Water Street between 6th and 7th streets**.
+- Contemporary December 1922 reporting places the burned temple at **Seventh and Water streets** and says the old building was essentially destroyed, leaving only four walls.
+- A 1945 Ralph Eddy bluff photograph is cataloged/described as showing the **Mission Revival-style Elks Lodge immediately before the arch bridge**.
+
+### Visual comparison to the user-supplied photograph
+
+In the user photograph, a substantial lodge-sized building is visible immediately on the Oregon City side of / just south of the arch-bridge approach, in the same Water-Street / 6th-to-7th block occupied by the Elks Lodge on the 1925 Sanborn and in later Eddy views. Its overall position and roof/building mass are consistent with the 1923 replacement lodge.
+
+Current evidence state:
+**STRONG VISUAL / SPATIAL WORKING HYPOTHESIS — not yet promoted to DOCUMENTED / DIRECT building identification.**
+
+If the visible building is positively confirmed as the **1923 replacement Elks Lodge**, then:
+- the photograph cannot be 1922;
+- a completed-building state would place the exposure **late 1923 or later**;
+- the most defensible specific lower bound would likely be **by/after the building's late-1923 completion**, rather than merely after the arch bridge.
+
+The next chat should prioritize an exact-image/architecture comparison between the supplied photo, a pre-1968 image of the 1923 Elks Lodge, the 1925 Sanborn footprint, and the 1945 Eddy bluff photograph before upgrading the lower bound.
+
+### Revised current date bracket
+
+Until the Elks identification is independently locked:
+- broad documentary bracket remains **late 1922 to before the 1936–1937 courthouse replacement**;
+- **late 1923 or later is now the leading lower-bound hypothesis** because of the apparent replacement Elks Lodge;
+- later 1920s / early 1930s remains fully viable.
+
+Do not force the photograph into 1922–1923 from bridge evidence alone.
