@@ -3,385 +3,74 @@
 ## Archive IDs
 
 - Building ID: `B-002`
-- Related businesses: `BUS-005`, `BUS-006`, `BUS-007`, `BUS-009`, `BUS-010`, `BUS-011`, `BUS-012`, `BUS-013`, `BUS-014`, `BUS-015`, `BUS-016`, `BUS-017`, `BUS-021`, `BUS-022`, `BUS-067`
-- Related people: `P-001`, `P-005`, `P-007`, `P-008`, `P-009`, `P-011`, `P-012`, `P-013`, `P-014`, `P-015`, `P-017`, `P-018`, `P-019`, `P-020`, `P-026`, `P-027`, `P-028`, `P-029`, `P-030`, `P-031`, `P-032`, `P-033`, `P-035`, `P-036`, `P-046`, `P-076`, `P-094`
-- Related evidence: `E-004`, `E-005`, `E-006`, `E-008`, `E-009`, `E-010`, `E-011`, `E-012`, `E-013`, `E-014`, `E-015`, `E-018`, `E-019`, `E-020`, `E-021`, `E-022`, `E-026`, `E-027`, `E-028`, `E-029`, `E-030`, `E-031`, `E-032`, `E-033`, `E-034`, `E-035`, `E-036`, `E-037`, `E-038`, `E-039`, `E-040`, `E-041`, `E-045`, `E-046`, `E-094`, `E-095`, `E-096`, `E-097`, `E-100`, `E-101`, `E-102`, `E-103`, `E-108`, `E-113`, `E-124`, `E-127`, `E-133`, `E-134`, `E-135`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-257`, `E-258`, `E-272`
-- Related sources: `S-021`, `S-028`, `S-032` through `S-036`, `S-038`, `S-039`, `S-041`, `S-042`, `S-043`, `S-053`, `S-107` through `S-113`, `S-116`, `S-117`, `S-125`, `S-138`, `S-142`, `S-148`, `S-149`, `S-150`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-284`, `S-298`
-- Related oral history: `OH-001`
-- Related current records: `R-001`
-- Related timeline entries: `T-002`, `T-007`, `T-008`, `T-041`, `T-042`
 - Unified timeline: [505 Main Street](../timelines/505-main.md)
+- Dedicated 1922 reconstruction: [1922 Fifth/Main Fire Frontage](../timelines/1922-fire-frontage.md)
+
+## Current ownership — corrected September 2026
+
+**Rodney Young and Mitchell Young currently own the 505 Main Street real estate/building.** This is current owner/project-steward information, effective after the family succession following Richard Wiitanen's death; the ownership update was confirmed **14 August 2026**.
+
+Do not describe Alin Guria, Thirsty Duck, Skyline Property Management, or the operating restaurant/bar as the real-estate owner. Those are tenant/business/property-management roles. `505 LLC` is used in the current lease/administrative structure, but the project owner's current ownership statement is **Rodney Young and Mitchell Young own the building**.
 
 ## Known / Working History
 
-505 Main Street is the **505 Tavern** address. It is **not** The Wheel; The Wheel was only at **503 Main**.
+505 Main Street is the historic 505 Tavern address. It is **not** The Wheel; The Wheel was at **503 Main**.
 
-The earliest image records now connected to the address are a Clackamas County Historical Society photograph of George Harding Drug Store cataloged as **505 Main** with a structured date of **1880** and caption wording **1880s** (`E-133`), and a society photograph dated **1910** that visibly shows **505** above the door of **Young's Secondhand Store** (`E-134`). The Harding crop itself shows the fascia but no number; because Oregon City's formal citywide numbering is documented in 1906, its 505 location may be retrospective. Neither photograph proves continuity with the surviving building.
+Early exact-address/business anchors include Young's Secondhand Store (photo visibly showing 505), Chicago Store (1911–1913), and **Wolf & Miller at 505 Main in 1918**. Wolf & Miller sold clothing, shoes and shoe-repair services. Contemporary 1918 wording indicates one partner was leaving and the other would restock/continue; the later hypothesis that **L. Wolf of Red Front was the Wolf partner** is reasonable but remains **PROBABLE / WORKING HYPOTHESIS**, especially because July 1922 sources conflict between **S. Wolf** and **L. Wolf**.
 
-Later documented occupants include The Chicago Store (1911-1913) and Wolf & Miller (1918), so a 1918 vacancy/rebuild story is not supported for the **address**. A visually verified 4 June 1920 council report then says **A. Leland** was granted permission to operate a pool hall at **505½ Main Street** and erect an electric street sign (`E-135` / `S-150`). This is an exact business/use anchor, not proof of new construction or of physical continuity with the surviving 505 building. The construction date of the **surviving building** still has conflicting historic-resource estimates; see `Construction-date conflict` below.
+A visually verified June 1920 report says **A. Leland** received permission to operate a pool hall at **505½ Main**. Dr. Harvey Freeze later used 505/505½ through June 1922 and announced his move to the Masonic Building after July 1.
 
-Identity context only: a visually verified 3 February 1916 Springfield notice directly names **Gilbert Miller** with Wolf & Miller (`P-046`, `E-113`, `S-125`). It strengthens the firm's antecedent chronology, **not 1916 occupancy at 505**. The 1918 C. E. Miller/Gilbert Miller discrepancy, Wolf partner's name, and any S. Wolf/later-503 ownership connection remain unresolved; see the [Tasks 5–6 audit](../evidence/source-captures/1922-tasks-5-6-identity-review-2026-08-28.md).
+## July 1922 fire — current conclusion
 
-Tavern-era sequence includes 505 Tavern (documented 1965, 1972, **1976 classified**) → Brass Rail → The Dug Inn (1988) → other late-1980s/early-1990s operators/leads including Sports Keg → a later Wiitanen control/repo interval and their rename of the business to 505 Tavern before the March 1991 sale → Mitch / Mitchell (C.) Young running the already-named 505 Tavern through March 2004 → later Berman (bought 2009) → Thirsty Duck 2017, still operating as of August 2026.
+The older archive model that left 505 as a possible ignition building is superseded.
 
-### Wiitanen business and property sequence
+The integrated contemporary evidence now supports:
 
-Family clarification on **19 August 2026** establishes that **Dick and Sheila Wiitanen ran Brass Rail at 505 Main for a period before they owned the building**. They later purchased the **505 Main real estate** from a woman remembered as **Mrs. Nesmeth / Nemeth** (spelling uncertain). The earlier archive statement that the Mrs. Nemeth purchase was the **503 building** is superseded (`E-038`).
+- **503 Main** — Gilbert Miller shoe-store premises plus a vacant half/portion formerly occupied by Alex Schiermann as tailor; **fire-origin structure**.
+- **505 Main** — the **adjoining pool/billiard premises**.
+- The 505 pool hall **was not razed**. The 20 July *Banner-Courier* says its billiard tables were damaged by water and part of its roof burned.
+- The 21 July *Oregon City Enterprise* says the building immediately north of the fire was **saved by fireproof construction**.
+- Therefore the archive treats **505 as surviving the July 18 fire**, with water and partial-roof damage, as a **STRONG CROSS-SOURCE INFERENCE for the numbered match** and direct evidence for the reported damage/fireproofing/survival description.
 
-That produces two distinct phases:
+The 1925 Sanborn map independently shows **505 as billiards/cigars**, consistent with survival but not the sole basis for the conclusion.
 
-1. **Business first:** Dick and Sheila operated Brass Rail at 505 while another person still owned the real estate.
-2. **Property later:** Dick and Sheila subsequently bought the 505 building from Mrs. Nesmeth / Nemeth. After that purchase, Wiitanen ownership of the real estate continued through Richard / Dick Wiitanen's death in **November 2024**.
+### 1922 real-estate ownership caution
 
-After they became property owners, the operating tavern business later passed through other owners/operators. Any later period in which Dick or Sheila again controlled the 505 business may have been a sale, repossession, non-payment/default, or transfer interval rather than continuous operation. Primary municipal evidence (`E-030`) shows a 6 April 1988 change-of-ownership application for The Dug Inn (formerly Brass Rail) from Dick or Sheila Wiitanen to the Cotterells. Mitch Young's participant testimony, relayed to the archive on **24 August 2026**, establishes that before the later sale to him, the Wiitanens had renamed the business **505 Tavern**.
+The 13 July 1922 *Banner-Courier* reports that George A. Harding's Main Street property group—Fifth Street Restaurant, Miller's shoe store, adjoining barber shop and Red Front Clothing Store—was sold to **S. Wolf and C. Gates**. Gates took the restaurant location and Wolf took “the remainder.” Do not automatically equate that phrase with legal title to the separately surviving 505 pool-hall building until deed/legal geometry is recovered.
 
-After Richard's death in November 2024, the **505 building passed to Rodney Young and Mitchell Young as part of his estate**. Current ownership/stewardship is through 505 LLC and is reflected in the 2025 lease.
+## Recreation / tavern sequence
 
-## Construction-date conflict
+By the 1925 Sanborn, 505 is billiards/cigars. Later evidence supports the chronology:
 
-**1925 fire correction — context only:** `E-139` / `S-157` verifies an **April 30, 6:15 a.m. Main-between-Fifth-and-Sixth call with approximately $15 damage**, not the former conflated April 18 / $2,500 lead. No side of Main or premises number is printed. It is not evidence of a 505 fire or reconstruction; see the [original-report review](../evidence/source-captures/1925-municipal-report-fire-correction-and-fifth-street-review-2026-09-01.md).
+**Farr's Pool Hall → Harr's Recreation Center → Well's Recreation → 505 Tavern → Brass Rail → Dug Inn → Sports Keg lead → Wiitanen-controlled 505 Tavern → Mitchell Young's 505 Tavern → later operators → Thirsty Duck.**
 
-The surviving 505 building has conflicting dates in City/consultant historic-resource work and must not yet be assigned a single definitive construction year.
+Important anchors:
 
-### Legacy City resource page — 1983 c.1908 date explicitly superseded
+- by 1936: Farr's Pool Hall at 505, strong cross-source evidence;
+- 1945/late 1948: Harr's Recreation Center / Carl R. Harr at 505;
+- 1953: Well's Recreation reported at 505;
+- 1960 CCHS photo: vertical sign read as **WELLS**, strongly corroborating Well's Recreation;
+- November 1965: 505 Tavern liquor renewal;
+- 1 September 1967: 505 Tavern survives another block fire with smoke/water damage;
+- March 1991–March 2004: **Mitchell C. Young operates the already-named 505 Tavern**;
+- 2017–present: Thirsty Duck operates at the address.
 
-The registered City historic-resource page (`S-033`) preserves an important survey correction. It says the **1983 survey indicated c.1908**, but the later City synthesis rejects that date for the surviving building: using Sanborn-map comparison, it places construction **sometime between 1911 and 1925**, with **about 1920** offered only as a possibility.
+## Wiitanen business and property sequence
 
-This is official secondary evidence that **c.1908 should not be used as the construction date of the surviving 505 building**. It agrees with the project's independent visual conclusion that the pre-1925 address/business evidence must be separated from surviving-building fabric. The **1911–1925 bracket** is substantially stronger than the tentative c.1920 estimate, but it is still a secondary map-based conclusion; primary permit, assessment, deed, contractor, or construction-notice evidence is still needed to date the physical replacement precisely.
+Family evidence establishes two distinct phases: Dick and Sheila Wiitanen operated **Brass Rail before they owned the building**, then later bought the **505 Main real estate** from a woman remembered as Mrs. Nesmeth/Nemeth. Official-survey and assessment-derived records later identify Richard and Sheila Wiitanen with the real estate.
 
-<!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
-**Project-steward visual cross-check (`E-272`):** the steward identifies the 1910 Young's Secondhand Store / 505 frontage as the same predecessor-building appearance seen in the project's flood-era photographs. The corrected 1911 Sheet 16 and 1925 Sheet 6 show materially different 501/503/505 storefront/footprint geometry. This independently reinforces the conclusion that **1908 is not the construction date of the surviving/current 505 building**. The comparison narrows the physical problem to the established **1911–1925 change window** but does not prove an exact replacement year or which July–August 1922 rebuild footprint became modern 505. The width difference concerns the building/storefront configuration; Fifth Street is mapped at 60 feet on both target sheets.
+After Richard Wiitanen's death, the property passed through family/estate succession. **The current owners are Rodney Young and Mitchell Young.**
 
-Legacy City source:
-https://legacyorcity.teammunicode.com/planning/505-main-street
+## Construction-date control
 
-### 2000 City inventory — c.1920, now visually verified
+Do not assign a single proven construction year to the surviving 505 building. City/consultant work contains conflicting estimates. The stronger secondary bracket places construction/reconfiguration between **1911 and 1925**, with c.1920 only an estimate. The July 1922 evidence now importantly shows that the 505 pool-hall building **survived that fire rather than being razed**, so any reconstruction theory must accommodate that survival/fireproofing evidence.
 
-The **2000 Oregon City Downtown Final Report** has now been visually inspected at the relevant appendix page. The original page clearly lists:
+## Research priorities
 
-- **503 Main St. — Kwality Cafe — c.1919**
-- **505 Main St. — Unknown — c.1920**
+- Retrieve deed/legal geometry for Harding→Wolf/Gates and determine whether/how 505 was included.
+- Identify the July 1922 pool-hall operator/trade name at exact 505.
+- Resolve S. Wolf vs L. Wolf and the Wolf & Miller partner identity.
+- Finish Farr→Harr→Well's proprietor/transfer chain.
+- Recover primary deed/probate records for the later Wiitanen→Young ownership succession when practical.
 
-Therefore the **c.1920** date is no longer merely an indexed-text lead; it is **visually verified as the date assigned by the official City historic inventory**. It remains an inventory estimate rather than primary construction proof.
-
-Official City source, Appendix B, printed p.30 (PDF page 28 in the current viewer):
-https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
-
-### 2021 consultant report — 1940
-
-A **2021 cultural-resources baseline report** for the Oregon City-West Linn bridge project lists **505 Main / 505 Tavern with a 1940 build date**.
-
-Source:
-https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
-
-The **2009 Oregon Historic Site Form** resurvey (`S-116` / `E-100`) independently lists **primary construction date 1940** and **505 Tavern** as the current/other name line, corroborating the ODOT date from an earlier official survey record.
-
-**Working hypothesis (`E-101`):** the **1940** inventory line may reflect a **rearward expansion or major rear remodel** rather than first erection of the entire premises, while **c.1920** may better describe the Main Street front / historic core. This remains **unresolved**. **`E-102`** (August 2026) visually verified **1925 vs. 1950** Sanborn continuity at 505 with **CONC. FL.** by 1950 and block reconfiguration; preliminary aerial comparison suggests block-level density change by 1940 without isolating 505 rear depth; **1939–1941 permits not recovered**. See `evidence/source-captures/505-rear-expansion-1940-date-hypothesis.md` and `evidence/source-captures/505-rear-expansion-footprint-pass-2026-08-24.md`.
-
-These estimates conflict by roughly twenty years with the c.1920 city synthesis (`S-033`). The 2000 c.1920 date now has direct visual verification in the underlying City report, but that does not by itself prove the estimate is historically correct.
-
-### 1925 Sanborn — visually verified structure/use at 505
-
-The correct **1925 Sanborn Sheet 6** for the Fifth/Main block has been visually inspected. It shows modern-style numbered storefronts including **501, 503, 505, 507, 509, 511, 513**. In the target frontage:
-
-- **503 is a separate restaurant occupancy**;
-- **505 is a separate billiards/cigars occupancy**.
-
-This proves a commercial structure/occupancy existed at the **505 address by 1925**. It rules out interpreting `1940` as the first-ever existence of a structure at that street address. It does **not**, by itself, prove that the entire surviving 2026 building fabric is the same structure shown in 1925; a later rebuild, major alteration, facade replacement, or assessor-date inheritance remains possible.
-
-See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evidence.md`.
-
-### Current interpretation
-
-- **1918:** Wolf & Miller directly occupies 505 Main, proving address use before either construction-date estimate.
-- **June 1920:** A. Leland is granted permission to operate a pool hall at **505½ Main** and erect an electric street sign (`E-135` / `S-150`). This narrows exact-address use around the c.1920 inventory estimate but does **not** prove construction.
-- **1925:** Sanborn visually shows a distinct 505 billiards/cigars occupancy.
-- **c.1920:** official 2000 City inventory estimate for the surviving/historic resource, now visually verified as source content.
-- **1940:** later inventory estimate that remains in conflict; **`E-101`** proposes it may reflect rear expansion/remodel rather than first whole-building erection — **unresolved**; **`E-102`** strengthens mid-century improvement plausibility without confirming a 505-specific rear extension ~1940.
-
-The best next tests are (1) the underlying **2 June 1920 Oregon City Commission minutes** and late-1918–1920 permit/lease/property records for the c.1920 front/core question, and (2) assessor cards **1938–1942**, Oregon City Building Division archives for **1939–1941 permits**, steward-verified aerial rear-edge transcription for **`IMG-0007` / `IMG-0008` / `IMG-0009`**, and physical building analysis for the 1940/rear-work question. See `RL-005` and `RL-024`.
-
-### July–August 1922 Gates/Wolf property division
-
-Final targeted reassessment: the [28 August Task 7 model test](../evidence/source-captures/1922-task-7-fire-origin-model-test-2026-08-28.md) keeps both the 505-adjoining-hall hypothesis and the near-505 Wolf-origin alternative unproved. The 1925 billiards/cigars use cannot be backdated to July 1922 or assigned to Timms/Leland & Little. No model is selected, and Gates's reported construction does not date the surviving 505 building without a footprint bridge. [Task 8](../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md) consolidates the remaining records to retrieve.
-
-A visually verified 13 July sale notice reports that Harding's Main Street store group was divided between **C. Gates's Fifth Street Restaurant location** and **S. Wolf's remainder** (`E-096`). The preserved 20 July fire page names Wolf as owner of the ignition building and a pool hall as adjoining the former Schieremann tailor room (`E-103`). August construction reports then identify Gates's corner restaurant site as a two-story hollow-tile replacement with two ground-floor storerooms (`E-097`).
-
-The evidence does not assign modern 505 to either buyer. If the Gates replacement principally mapped to 501, 505 remains compatible with the adjoining pool hall in the working **503 ignition / 505 pool** reconstruction. If both Gates stores became the 1925 501+503 pair, Wolf's remainder could begin near 505, making 505 itself or a room farther north a stronger ignition candidate. No permit, deed dimension, or tenant address presently chooses between these models.
-
-## Location / Name Handling Rule
-
-Mitch Young directly confirmed that he owned and operated **505 Tavern at 505 Main Street** from **March 1991 to March 2004**. His further testimony, relayed by Rodney Young on 24 August 2026, states that Dick and Sheila Wiitanen had renamed the business **505 Tavern before selling it to their son Mitch**. Mitch therefore acquired the business under an existing public/trade name; he did not introduce or restore that name. The exact pre-sale rename date and formal license/entity wording remain documentary research targets.
-
-Do **not** file that period under The Wheel. The Wheel was **only at 503 Main**.
-
-Do not use **"The Wheel Tavern"** as an alternate name for 505 or 503. Family correction says that phrase was never an official business name; it survives only as wording in a 2017 secondary article about 503.
-
-## Business Ownership / Operation
-
-- `E-005` / `E-031` - **Ray Hansen** belongs to the earlier 505 Tavern business history and is distinct from Raye Grisham. Family history places the later Dick/Sheila Brass Rail period after Hansen; exact sale and rename dates still need documentary proof.
-- `E-022` / `E-038` - **Dick and Sheila ran Brass Rail before they owned the 505 building**, then later bought the 505 real estate from Mrs. Nesmeth / Nemeth.
-- `E-006` - Willie worked under Ray Hansen and continued into a later 505 transition period associated with Dick and Sheila.
-- After the Wiitanens became landlords/property owners, later tavern-business ownership must be tracked separately from their continuing ownership of the building.
-- `E-030` - 6 April 1988 Commission record identifies The Dug Inn (formerly Brass Rail) at 505 Main and a change-of-ownership application from Dick or Sheila Wiitanen to the Cotterells. This proves a transfer role at that point; the exact sequence leading into it remains open.
-- `E-004` / `OH-001` / `E-014` / `E-022` - The Wiitanens renamed the business **505 Tavern** before selling it to their son Mitch; Mitch acquired it under that existing name and owned/operated it March 1991-March 2004.
-- `E-029` - Commission liquor renewals name 505 Tavern in 1965 and 1972.
-- `E-045` - 1 September 1967 fire: 505 Tavern spared with smoke and water damage.
-- `E-046` - 8 February 1976 classified: 505 Tavern, Oregon City, 655-4321.
-- `E-034` - Berman stated he bought 505 Tavern in 2009.
-- `E-008` - Scott Forvilly purchased in 2017 and reopened as Thirsty Duck.
-- `E-035` - 2017 permit **BB-17-0193** lists Richard Martin Wiitanen as co-trustee/owner of the **real estate** and records installation of a new UL-300 hood fire system at **505 Tavern**; confirms continuing property ownership but not tavern operation.
-- `E-009` / `E-022` / `E-038` - Richard died in November 2024; the 505 real estate passed to Rodney Young and Mitchell Young as part of his estate.
-- `E-018` - 2025 commercial lease: 505 LLC lessor; **Alin Guria** (`P-019`) lessee. Current steward clarification also identifies Alin as the operating-business owner; earlier **Alan** wording was a typo.
-
-## Physical Building / Footprint Notes
-
-The rear portion of the 505 building may have been added later, based on family/oral history attributed to Mitch Young. This needs confirmation through permits, assessor sketches, Sanborn maps, tax records, deeds, or physical building analysis. **`E-101`** records an unresolved working hypothesis that such rear work **might** explain the inventory **1940** date; **`E-102`** completed a partial Sanborn/aerial footprint pass that strengthens mid-century improvement plausibility but does **not** confirm a 505-specific rear extension ~1940. The recollection itself is undated and does not prove a ~1940 event.
-
-There is also an unresolved footprint question: 505 may extend farther back than 503, while 503 may be somewhat wider. This should be treated as a working observation until confirmed by measurements, tax maps, assessor records, Sanborn maps, deeds, and parcel records.
-
-**Task 6 corrected the original-block placement.** The odd-numbered target frontage is original **Block 4**, not Block 26 (`E-094`). Current county-derived legal-description leads report **505 as parts of Block 4 Lots 3 and 4**, 503 as part Lot 4, and 507 as parts Lots 2–4; current 504 across Main remains Block 26 Lot 5. The former 505-within-Block-26-Lot-5 model and the supposed Block 26-to-Block 4 conversion are withdrawn. The exact 1922 boundaries and the relationship of modern parcel lines to the Harding/Wolf/Gates division remain unresolved.
-
-Photo metadata for a circa-1910 5th/Main image reports that the first building in the picture is gone and is now 503 and 505 Main Street, and that the 1925 Sanborn map shows a different building labelled 501, 503, and 505 Main Street. The same metadata notes that the 501 Main history is unclear. This should be treated as trusted internal Time Capsule Maps metadata, with original image/source details still needed for external historical claims.
-
-## Ray Hansen / Raye Grisham (resolved as two people)
-
-Earlier notes asked whether Ray Hansen and "Ray Grisham" were the same person. **They are not.**
-
-- `P-005` **Ray Hansen** is associated with the **505 Tavern business** at 505 Main.
-- `P-006` **Raye Grisham** (woman, grandmother; formerly Raye LaFarlette) bought **The Wheel at 503 Main** and belongs to the separate 503 business chain.
-
-Keep both IDs. Do not merge. See `E-022` and [Raye Grisham](../people/profiles/raye-grisham.md).
-
-## Related Businesses
-
-| ID | Business | Status |
-| --- | --- | --- |
-| `BUS-007` | [Harding Drug Store](../businesses/harding-drug-store.md) | Society photograph cataloged at 505 with 1880/1880s date wording; 505 is institutional metadata, not a visible pre-1906 number or present-building claim. |
-| `BUS-067` | [G. H. Young / The Curio Man](../businesses/gh-young-curio-man.md) | Young's Secondhand Store visibly at 505 in society photograph dated 1910; reported one-door-north move in 1911 and exact 507 anchors in 1912/1914. |
-| `BUS-005` | [505 Tavern](../businesses/the-505.md) | 505 business; 1965/1972 liquor records; renamed 505 Tavern by the Wiitanens before Mitch acquired and ran it, 1991-2004. |
-| `BUS-006` | Thirsty Duck | Opened/reopened in 2017; still the current operating business as of August 2026. Current lessee and operating-business owner: Alin Guria (`P-019`). |
-| `BUS-009` | [The 505](../businesses/the-505.md) | Earlier archive handling label; keep for cross-reference. |
-| `BUS-010` | [Brass Rail Tavern](../businesses/brass-rail-tavern.md) | Dick and Sheila operated Brass Rail before they owned the 505 building; later 1988 record connects the former Brass Rail to The Dug Inn. |
-
-**The Wheel (`BUS-004`) is not a 505 business and is intentionally excluded from this building's related-business list.**
-
-## Evidence Summary
-
-| ID | Type | Claim / Use |
-| --- | --- | --- |
-| `E-133` | Institutional photo metadata + visible image | Harding Drug Store photograph cataloged at 505; structured date 1880 and caption 1880s. Crop shows Harding fascia but no number; retrospective-location and building-continuity limits preserved. |
-| `E-134` | Institutional photo metadata + visible image | 1910 Young photograph visibly shows 505 and Young's Secondhand Store; catalog identifies George Young. Strengthens, but does not alone prove, the 505→507 move sequence. |
-| `E-004` | Primary participant testimony | The Wiitanens renamed the business 505 Tavern before selling it to their son Mitch; he acquired it under that existing public/trade name and owned/operated it March 1991-March 2004. Exact rename date and formal license/entity wording remain open. |
-| `E-005` | Family/oral history | Ray Hansen associated with the earlier 505 Tavern business; exact transition date into Dick/Sheila Brass Rail period pending. |
-| `E-006` | Family/oral history | Willie worked as bartender during Hansen and later transition-era periods. |
-| `E-008` | Secondary source | Mike Berman sold the business; Scott Forvilly purchased it; it reopened as Thirsty Duck in 2017. |
-| `E-009` | Family/project provenance | After Richard's death, Rodney Young and Mitchell Young co-own 505 through 505 LLC. |
-| `E-010` | Family/oral history | Rear portion of 505 may have been added later. |
-| `E-101` | Working hypothesis | **1940** inventory date may reflect rear expansion/remodel; **unresolved**. |
-| `E-102` | Primary map + preliminary aerial pass | **1925 vs. 1950** Sanborn verified at 505; **CONC. FL.** by 1950; block reconfiguration; preliminary aerial density change; **505 rear extension not confirmed**; **1939–1941 permits not recovered**. |
-| `E-011` | Owner observation | 505 may extend farther back than 503; 503 may be somewhat wider. |
-| `E-012` | Administrative record lead | Tax statements and tax records may help establish improvements, dates, and ownership history. |
-| `E-013` | Public comment screenshot | Local-memory evidence for 505 Tavern and Publishers Paper worker culture. |
-| `E-014` | Archive correction | Mitch's confirmed period belongs to 505 Tavern at 505 Main, and the 505 Tavern name predates his acquisition. Keep `BUS-009` The 505 as the earlier handling label. |
-| `E-015` | Time Capsule Maps metadata | Reports 505 Tavern adjacent to The Wheel at 503 and lists Brass Rail Tavern as a 505 Main business lead. |
-| `E-018` | Current lease | Documents 2025 lease for 505 Main Street, current restaurant/bar use, and current parties. |
-| `E-019` | Family correction | Clarifies family relationships and death years for Richard / Dick and Sheila. |
-| `E-022` | Family correction | Confirms 503/505 business separation, the phased Wiitanen role at 505, and their rename of the business to 505 Tavern before the sale to Mitch. |
-| `E-030` | Primary municipal | 1988 change-of-ownership from Dick or Sheila Wiitanen to the Cotterells for The Dug Inn, formerly Brass Rail. |
-| `E-038` | Family correction | Corrects Mrs. Nemeth/Nesmeth purchase from 503 to **505 Main**; Dick/Sheila operated Brass Rail before buying the building; Wiitanen property ownership continued through Dick's Nov. 2024 death and then passed through his estate to Rodney and Mitch. |
-
-## Related Archive Pages
-
-- [The 505](../businesses/the-505.md)
-- [The Wheel](../businesses/the-wheel.md)
-- [Brass Rail Tavern](../businesses/brass-rail-tavern.md)
-- [Mitch Young](../people/profiles/mitch-young.md)
-- [Mitch Young Direct Testimony](../oral-history/mitch-young.md)
-- [505 Commercial Lease — 2025](../records/505-commercial-lease-2025.md)
-- [Photo Metadata Register](../media/photo-metadata-register.md)
-- [Evidence Register](../evidence/evidence-register.md)
-- [Timeline](../timeline.md)
-
-## Research Priorities
-
-- Resolve the **c.1920 vs. 1940 construction-date conflict** with primary permit/assessor/deed evidence and map/footprint continuity.
-- Compare the visually inspected **1925 Sanborn** with the 1950 revision, aerials, assessor sketches and current footprint/material to determine whether the surviving 505 structure is continuous from 1925.
-- Search 1919–1921 permits, assessment changes, deeds and construction notices for a c.1920 rebuild.
-- Search 1939–1941 permits/assessment/construction notices to explain the 1940 date if it represents a major alteration/rebuild.
-- Determine the formal license/entity name during each 505 period and document the exact date of the Wiitanens' pre-March 1991 rename to 505 Tavern.
-- Establish a year-by-year 505 **business-owner/operator** sequence separately from the **real-estate owner/landlord** sequence.
-- Find the deed/tax/assessor record for the Wiitanen purchase of **505 Main from Mrs. Nesmeth / Nemeth**, including exact date and correct spelling.
-- Reconstruct the Brass Rail business sale/transfer history after Dick and Sheila became property owners.
-- Reconcile the 1988 Wiitanen-to-Cotterell transfer with family recollections of repossession/default periods.
-- Confirm full formal names and records for Richard / Dick Wiitanen and Sheila Wiitanen.
-- Identify Willie by full name.
-- Confirm whether the rear portion of 505 was added later; test **`E-101`** against assessor cards **1938–1942**, Oregon City Building Division archives **1939–1941**, steward-verified aerial rear-edge transcription (`E-102` partial pass), and physical building analysis.
-- Confirm the physical footprint, width, depth, wall, and parcel relationship between 503 and 505.
-- Obtain deed/title/survey proof for 505's exact placement within original **Block 4 Lots 3–4** and the historical boundary near 505/507; do not revive the withdrawn Block 26 model.
-- Retrieve the complete OHS MSS 1503 Box 19 abstract; its index title says later Block 4 Lots 3–4 while its Lot field says 3–5, so do not assume its exact 505 coverage before inspection (`E-095`).
-- Retrieve the July 1922 Harding-to-Wolf/Gates deed(s) and Gates/Junken permit or plans to determine whether modern 505 lay in Wolf's remainder or adjoined it.
-- Find primary records for business licenses, OLCC records, tax records, directories, newspaper ads, permits, assessor sketches, Sanborn maps, deeds, probate/estate transfer, repossessions, and business-sale documents.
-
-## Open Questions
-
-- When exactly was the surviving 505 Main building constructed or substantially rebuilt?
-- Why do historic-resource sources give c.1920 and 1940 dates for 505?
-- Is the present building fabric/footprint continuous with the 505 structure shown on the visually inspected 1925 Sanborn?
-- When was the rear portion of 505 added?
-- Does 505 Main extend farther back than 503 Main, and if so why and since when?
-- Is 503 Main wider than 505 Main, and what do maps/deeds/assessor records show?
-- When exactly did Dick and Sheila begin operating Brass Rail, and when did they buy the 505 building?
-- What is the correct spelling and identity of Mrs. Nesmeth / Nemeth?
-- What was the exact legal name of the 505 business during each ownership period?
-- Which later Wiitanen 505 business-control periods were repossession/default intervals rather than ordinary operation?
-- How did 505 Tavern relate to Brass Rail Tavern, The Dug Inn, The 505, Sports Keg, or any prior name/business entity?
-- What documentary evidence confirms the Nov. 2024 estate transfer of 505 Main to Rodney and Mitch?
-- What documentary evidence confirms the 2017 transition from 505 Tavern to Thirsty Duck?
-- Did the July 1922 Wolf remainder begin at modern 503, 505, or another frontage line?
-- Which tenant occupied the separate **501 Main store** mapped on the 1925 Sanborn?
-
-
-## Task 7 Address-to-Property Bridge
-
-`E-108` integrates the corrected original Block 4 framework with Harding's 1913 Lots 3–4 ownership, current lot-overlap leads, the July 1922 Harding→Gates/Wolf division, and the Wolf-owned ignition-building report. It strengthens the property-group chronology but **does not establish the exact Gates/Wolf storefront wall or fire-origin number**. Modern parcel boundaries are not backdated automatically.
-
-## 1916 Courier pages 106–180 checkpoint
-
-E-116/S-130: [75-page visual review](../evidence/source-captures/1916-courier-pages-106-180.md) through May 18 p3 establishes no new numbered occupant for this target. April 6 records Randall selling his undertaking interest to Holman, but the ad gives only Fifth/Main. May 18 authorizes the Raasch & Lamb basement move within the Andresen Building without a street number. Neither is assigned here. Courier 180/458; year IN PROGRESS; no vacancy, demolition or 1922-model conclusion.
-
-## 1916 monthly review coverage — E-119/S-133
-
-Seven complete first-monthly Courier issues June–December add 58 visually inspected pages. No new exact occupant or target-frontage demolition/rebuild is established; this is not vacancy or absence evidence. Nearby 108 Fifth, Andresen 619 and the proposed Hawley mill unit retain their separate location limits. [Findings and remaining issues](../evidence/source-captures/1916-courier-first-monthly-june-december.md).
-
-### July 1919 Gilbert Miller context — no construction implication
-
-`S-160` / `E-144` visually verifies a July 1919 society item placing the Gilbert Miller household at Ninth and Division and reporting the family's move from Springfield about a year earlier. It strengthens Gilbert Miller's Oregon City identity chronology but contains **no 505/505½ address, Wolf & Miller business wording, building ownership, tenancy, or construction statement**. It therefore does not change the construction-date assessment for the surviving 505 building.
-
-## Late-October 1918 Wolf & Miller address conflict
-
-`S-187` / `E-166` directly places Wolf & Miller at **505 Main** on 20 September 1918, strengthening the earlier exact-address anchor. `S-188` / `E-167`, however, prints **503 Main** in the 31 October Courier answer key. Because 10 and 24 October evidence also says 505, the archive preserves this as an unresolved address conflict and does not infer a move or building change.
-
-## 1907 Young / 1911 Chicago page-scan supplement
-`S-189` / `E-168` directly places **Young's Second Hand Store at 505 Main** on 16 August 1907. Exact steward-supplied Chicago Store page scans now preserved under `S-032` / `E-026` directly place **The Chicago Store at 505 Main** on 31 March, 7 April and 28 April 1911. These are occupancy/trade-name anchors, not proof of real-estate ownership or surviving-building continuity.
-
-## December 1913 Chicago Store fire — visual owner-wording upgrade
-The exact 25 December 1913 *Oregon City Courier* front page is now visually verified (`S-192` / `E-171`). It reports the Chicago clothing store on Main Street south of the postoffice gutted by fire and says **the building was owned by George Harding**. The article itself does not print 505 Main. Because the Chicago Store is independently documented at 505 Main, the address mapping is a strong cross-source inference, not direct exact-number wording from the fire report or deed-level title proof.
-
-## 2 September 2026 exact-page additions
-The exact 14 April 1911 Chicago Store page is now visually preserved under `S-032` / `E-026` and directly prints **505 Main**. The exact 13 May 1921 Dr. Freeze page is now visually preserved under `S-035` / `E-028` and prints **505 Main**, followed one week later by the already preserved **505½ Main** form. These are occupancy/address anchors only and do not establish surviving-building continuity or physical subdivision layout.
-
-## 3 September 2026 — Newton address test
-
-Newton's saved Quality restaurant is reported across the way from the laundry (`E-180`); the June Quality Restaurant ad directly prints 427 Main, phone 517 (`E-179`), without proprietor. Newton → 427 remains PROBABLE / WORKING HYPOTHESIS. No recovered source places his saved restaurant at 503 or selects Gates Model A/B. The exact fire-origin room and adjoining pool hall remain unassigned.
-
-See [verified sources and limits](../evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md), `OQ-034` / `RL-048`. The 1925 geometry (`E-182`) is later map context, not a pre-fire footprint or building-survival bridge.
-
-## CCHS MOT:P-498 full-frame Harding storefront supplement
-
-`S-211` / `E-191` / `IMG-0740` preserves a materially fuller CCHS frame cataloged **Harding Drug Store - 505 Main Street**, **circa 1885**. It appears to show the same underlying exposure as the existing `IMG-0724` crop, but the separate MOT:P-498 record carries distinct date/medium metadata and a 2022 Harding→Young move annotation. The image itself shows the Harding storefront but no readable `505`; because citywide numbering is documented in 1906, this remains retrospective location metadata. No continuity to the surviving 505 building is inferred.
-
-## 1895 bluff photograph — predecessor target-frontage roofline candidate
-
-`S-213` / `E-193` / `IMG-0742` preserves the CCHS bluff view cataloged **1895**. The project steward identifies the roof/top of the predecessor frontage later associated with **501/503/505 Main** as visible. Existing 1892 Sanborn context (`SM-005` / `S-018` / `E-020`) independently shows developed commercial frontage in the area.
-
-Classification: **PROBABLE / WORKING HYPOTHESIS for exact target-frontage assignment.** The later street numbers are not image-visible and should not be backdated before Oregon City's 1906 numbering program. The photograph does not prove one building spanned all three later addresses or establish continuity to post-1922 structures.
-
-## 1890–1899 Main Street photograph — pre-numbering block context
-
-`S-214` / `E-194` / `IMG-0743` preserves CCHS `2008.008.003.104`, cataloged **Main Street, Oregon City**, date **1890–1899**. The project-steward filename identifies the view as looking south from Sixth toward Fifth. That proposed orientation is compatible with fixed-location P-1456 (`S-204` / `E-184`) but is not catalog wording for this object.
-
-If the orientation is confirmed, the east-side Fifth-to-Sixth frontage later containing **501/503/505 Main** appears along the right side of the photograph. Classification for exact storefront-to-later-address mapping remains **PROBABLE / WORKING HYPOTHESIS**. The later numbers are not visible, the exposure year is not narrowed within 1890–1899, and continuity to numbered or post-1922 structures is not established.
-
-## 1895 Welcome Arch photograph — fixed Sixth/Main target-side context
-
-`S-215` / `E-195` / `IMG-0744` preserves CCHS `2008.008.046.040`, cataloged **Oregon City "Welcome Arch"**, **6th and Main**, **1895**. The project steward identifies the predecessor frontage later associated with **501/503/505 Main** in the **right-hand background beyond the arch**.
-
-The institutional Sixth/Main location makes this photograph a strong spatial anchor and is consistent with the corrected right-side orientation in `S-214` / `E-194` and the 1892 Sanborn block geometry. Exact individual storefront-to-later-number boundaries remain **PROBABLE / WORKING HYPOTHESIS** because the later numbers are not visible and formal citywide numbering came later. No occupancy, title, or continuity to post-1922/surviving structures is inferred.
-
-Enlarged re-review of `IMG-0744` now directly reads **E. E. WILLIAMS. / GROCERIES / FRUIT-FEED** and separately the word **FASHION** on the steward-identified right-background predecessor frontage. This strengthens 1895 commercial-frontage evidence but does **not** assign either sign/business to later 501, 503, or 505 individually; the numbers are not visible and the exact storefront boundaries remain unresolved (`E-195`).
-
-## Undated CCHS P-1317 Fifth Street bluff photograph
-
-`S-217` / `E-197` / `IMG-0746` preserves CCHS `P-1317`, **Oregon City - View from Bluff**, described as **Oregon City from the Bluff at 5th Street**. The project steward identifies the predecessor frontage/building group later associated with **501/503/505 Main** as visible through the tree branches.
-
-For this address record, use the photo as **PROBABLE / WORKING HYPOTHESIS** spatial/structural context only. The catalog supplies no exposure date, the later street numbers are not visible, branches obscure the target area, and the image does not establish individual 501/503/505 boundaries or continuity into later numbered/surviving structures.
-
-## Mid-1960s P-4565 facade view
-
-CCHS `P-4565` (`S-220` / `E-200` / `IMG-0749`) directly shows the **TAVERN / 505** projecting sign and the 505 facade next to the catalog-identified Wheel frontage. This is visual corroboration of the 1965 505 Tavern documentary record, not evidence of ownership.
-
-## 1975 P-1293 aerial footprint comparison
-
-CCHS `P-1293` (`S-229` / `E-203` / `IMG-0750`), cataloged **1975**, directly confirms the later-state condition that **505 extends farther rearward/westward than 503**. This materially corroborates `E-011` and supplies a by-1975 endpoint for `RL-005`, but does not prove the change occurred in 1940 or identify an addition permit.
-
-## 5 September 2026 aerial rear-depth re-review
-
-Focused address-level re-review of the canonical local aerial series (`S-023` / `E-021` / `E-102`) now identifies **1940 (`IMG-0008`) as the earliest reviewed frame in which 505 can be distinguished as extending farther rearward/westward than adjacent 503**. The 1936 frame is ambiguous; no absence inference is made. Later 1961/1974 frames and independent CCHS 1975 `P-1293` (`E-203`) confirm the deeper state.
-
-This strengthens—but does not prove—the `E-101` interpretation that the official **1940** date may relate to substantial rear work or remodeling rather than first construction of the Main-frontage premises. Permit, assessor, deed, and physical-fabric evidence remain required to date and explain the change.
-
-## 1955–1965 CCHS P-1311 bluff view
-
-CCHS `P-1311` (`S-232` / `E-206` / `IMG-0753`) is an elevated bluff-at-4th photograph with a catalog Date made range of **1955–1965**. Enlarged review supports **505 Tavern / Tavern 505** signage on the 505 frontage and **The Wheel** signage on adjacent 503. This directly documents the separate neighboring business identities in the photographed state. Because the exposure year is unresolved within 1955–1965, the photograph does **not** by itself move the documented start of the 505 Tavern trade name back to 1955.
-
-## 1936 CCHS P-1128 Farr signage anchor
-
-CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757` / `T-087`) is dated **1936** and shows the Fifth/Main block from the bluff. The project steward identifies the relevant storefront as **505 Main**. Enlarged review yields a **probable `FARR'S`** principal sign and likely pool-related lower wording. Combined with the independent City inventory (`S-036` / `E-033`) naming **Farr's Pool Hall at 505 Main**, this strongly supports Farr's operating at 505 in the 1936 photographed state.
-
-Do not treat this as proof that Farr's opened in 1934 or 1936, as a property-ownership record, or as proof of uninterrupted continuity from the 1925 unnamed billiards/cigars use. The exact Farr-to-Harr transition remains open.
-
-## 1930s P-1043 Sixth-to-Fifth spatial control
-
-CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758` / `T-088`), dated **1930–1939**, looks south from Sixth toward Fifth and provides a same-frame sign sequence along the west-side odd-numbered Main Street row. It should be used to assign intermediate storefront numbers and independently test the 505 position.
-
-**No `505` or secure `FARR'S` wording is directly readable in this more distant view.** The stronger operating-state anchor remains CCHS `P-1128` (`S-236` / `E-210` / `IMG-0757`), where steward storefront mapping plus probable `FARR'S` signage supports Farr's Pool Hall at 505 in 1936.
-
-### November 1922 CCHS P-9594 visual bridge
-
-CCHS `P-9594` (`S-239` / `E-213` / `IMG-0760`; steward crop `IMG-0772`) is described by the institution as a **November 1922** view. In the 13 September steward-guided enlarged reading, the light building is 501, an apparent separation/open position is 503, and the substantial shadowed mass farther right is 505.
-
-That 505 mass is compatible with a newer or replacement structure by November 1922, but the image does not prove exact building identity, continuity to the later 505 structure, or construction date. It also does not resolve the July fire-origin address. Corroboration remains necessary.
-
-### 1922 P-5577 aerial spatial context
-
-CCHS `P-5577` (`S-241` / `E-215` / `IMG-0761`) places the Fifth/Main district within a broad **1922** aerial of Oregon City. The image is useful for block-scale geometry and companion-flight comparison, but exact target numbers are unreadable and the catalog supplies no month. Do **not** use it alone to classify this address as pre- or post-July-fire or to prove a specific Gates-rebuild footprint.
-
-### Circa-1900 P-1241 bluff-view frontage context
-
-CCHS `P-1241` (`S-243` / `E-217` / `IMG-0763`) is titled **Oregon City 1900 ca - Viewed from the Bluff - Main between 5th and 7th Streets**, independently fixing the photographed Main Street span between Fifth and Seventh. The project steward identifies the far-left visible frontage as the area later numbered 501-505 Main. The frontage itself is visible, but this photograph does **not** show a readable `505` number or prove individual later-address boundaries/building continuity. Use as **PROBABLE spatial context** pending Sanborn/photo alignment.
-
-## 1896 CCHS predecessor-site photograph
-`S-245` / `E-219` / `IMG-0765` preserves CCHS `2008.008.005.002`, **Oregon City 1896 - 6th and Main Street**. The project steward fixes the northeast Fifth/Main corner using the two men visible near the crossing. The later-numbered 501/503/505 positions can therefore be placed generally on the right/west side approaching Fifth, but the structures visible there in 1896 are **predecessor buildings**, not the later/current numbered building. Individual 1896 bay boundaries and occupants remain unresolved; address position is not treated as building continuity.
-
-<!-- 708-monroe-canonical-sync-2026-09-06 -->
-## 6 September 2026 — C. P. Farr recreation-rent false path closed
-
-The separate municipal recreation-rent thread now has an exact February 1946 premises address: **708 Monroe** (`S-273` / `E-247`), not 505 Main. The payee `C. P. Farr` is strongly identified as Clarence P. Farr (`P-395`), distinct from Edwin F. Farr. This does **not** change the 505 chronology; it removes the municipal recreation-rent series as evidence for Farr's Pool Hall, Harr's Recreation Center, or their transition.
-
-<!-- 505-shpo-30539-visual-review-2026-09-07 -->
-## May 2000 SHPO individual form — visual review
-
-The complete three-page individual 505 Main survey form for Oregon SHPO **RESOURCE_ID 30539** is now preserved and visually verified (`S-284`).
-
-For occupancy chronology, page 1 explicitly reports **Harr's Recreation Center** from a "1945 city directory" and **Well's Recreation** from a "1953 city directory" (`E-257`). This confirms the exact wording of the official secondary synthesis but still does not supply the underlying directory pages or a direct Farr→Harr / Harr→Well transfer.
-
-For property ownership, page 3 records **Richard and Sheila Wiitanen** in the owner field (`E-258`). This gives a dated official-survey ownership snapshot by **May 2000**, narrowing the Wiitanen property chronology, but it does not establish the purchase date, seller, deed, or terms.
-
-## 1918→1925 photographic structural bracket
-<!-- 2026-09-09-cchs-1918-p267-target-transition -->
-
-The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`) and CCHS P‑267 (`S-312` / `E-284` / `IMG-0770`), read with the existing 1925 Sanborn (`E-020`), materially tighten the target-frontage physical-change interval. The project steward maps the visible target row to later 501/503/505 positions; no address numbers are readable in either photograph.
-
-The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 505 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
-
-At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.
-
-## 1960 CCHS WELLS signage
-<!-- 1960-wells-sign-lock-2026-09-11 -->
-
-Exact-dated CCHS photograph `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771` / `T-105`) has been re-reviewed at high enlargement after the project steward identified the vertical 505-frontage sign as **WELLS**. The sign presents five stacked letter positions and is now accepted as the project's best visual reading.
-
-Because the May 2000 SHPO form independently says a **1953 city directory** listed **“Well's Recreation” at 505** (`S-284` / `E-257`), the archive now uses the 1960 photograph as a **STRONG CROSS-SOURCE INFERENCE** that Wells / Well's Recreation remained the public-facing business identity at 505 in the photographed state.
-
-This updates the chronology without merging separate relationship questions: the photograph does not identify the 1960 proprietor, tenant, building owner, liquor licensee, or exact transaction history. The next exact municipal business-name anchor is **505 Tavern on 11 November 1965** (`E-029`).
+Detailed evidence IDs and older research history remain preserved in the evidence/source-capture records and git history; this building record is intentionally updated so the current conclusions are easy to find.
