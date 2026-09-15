@@ -5171,3 +5171,32 @@ evidence:
     related_businesses: [BUS-069, BUS-039]
     related_buildings: [B-008]
     repository_file: "evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md"
+
+  - id: E-348
+    name: "1 March 1928 Fire Department call at exact 503 Main address"
+    type: "Primary municipal fire-call table / exact-address evidence"
+    claims:
+      - "The visually verified Fire Department table directly prints Mar. 1 — 503 Main Res. — Overheated Stove — None."
+      - "The source abbreviation Res. is preserved as printed and is not expanded into a proved whole-building use classification."
+      - "The call identifies no Kwality business, proprietor, tenant, property owner or licensee."
+      - "The event does not move the earliest post-1922 503 building-presence control earlier than the May 1925 Sanborn."
+    confidence: "Very High for the direct table transcription; physical meaning of Res. and occupant/use identity unresolved"
+    related_sources: [S-372]
+    related_businesses: []
+    related_buildings: [B-001]
+    repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
+
+  - id: E-349
+    name: "1929 Fifth/Main fire-call context and ornamental Main Street lights"
+    type: "Primary municipal fire-call and engineering/public-improvement evidence"
+    claims:
+      - "The visually verified Fire Department table directly prints June 10 — 5th & Main — Wiring — $25 estimated damage."
+      - "No numbered premises or occupant is supplied, so the call is intersection context only and is not assigned to 501, 503 or 505."
+      - "The Engineering and Street Department states that 28 ornamental Main Street lights were installed from Fifth to Ninth Street at a total cost of $5,600."
+      - "The separate Farr Bros., Slaughter House fire-table entry is not merged with Farr's Pool Hall or assigned to 505 Main."
+    confidence: "Very High for the printed municipal wording; exact premises for the fire call unresolved"
+    related_sources: [S-373]
+    related_businesses: []
+    related_buildings: [B-005, B-001, B-002]
+    repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
+
