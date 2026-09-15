@@ -14,6 +14,24 @@ URL: https://mccmeetingspublic.blob.core.usgovcloudapi.net/oregoncity-meet-73673
 
 **Evidence state:** OFFICIAL SECONDARY / DERIVATIVE. The City synthesis explicitly cites 1926 newspaper advertisements, but the underlying newspaper title, issue date, page, and original advertisement scan have not yet been recovered in this workstream. Do not treat the synthesis as a substitute for visually verifying the newspaper ad.
 
+## 1A. 2000 re-survey provenance narrows the newspaper family
+
+A follow-up review of the official **2000 Oregon City Historic Downtown Re-Survey Final Report** materially improves the source trail behind the City's later 503 narrative.
+
+The report says the 2000 project generated **59 individual Oregon Inventory of Historic Properties Historic Resource Survey Forms**, with copies available through the City and originals housed at **SHPO in Salem**. Its methodology says archival research used newspapers and was conducted from sources at the **Oregon City Public Library, Clackamas County Historical Society and Museum, University of Oregon, and Oregon State University**.
+
+Most importantly, the report's selected bibliography explicitly lists:
+
+- **Oregon City Enterprise (daily and weekly newspapers).**
+
+The current Oregon City Public Library microfilm page independently confirms that both Enterprise-family runs span all of **1926**:
+- Oregon City Enterprise Weekly, 1871–1942;
+- Oregon City Enterprise, 1911–1950.
+
+This is a **provenance advance, not recovery of the underlying ad**. The bibliography is project-wide and does not prove whether the 503 advertisement was in the weekly Enterprise or daily Morning/Enterprise run, nor does it give an issue date or page. The best next step is now to retrieve the **individual 503 Main / Kwality Cafe 2000 survey form and any source notes** (`MF-068`) before beginning a blind 1926 microfilm pass (`MF-031`).
+
+See: `evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md`.
+
 ## 2. December 1926 finance report continued at 5 January 1927 meeting
 
 The Oregon City Commission record for **5 January 1927** contains bills described as **“a continuation of the December Finance Report.”** In that list appears:
@@ -58,11 +76,12 @@ Blog reproduction: https://americandiners.blogspot.com/2015/07/
 
 ## 6. Research implications / next targets
 
-1. Recover and visually verify the underlying **1926 Kwality Restaurant newspaper advertisements** cited by the City inventory.
-2. Walk Oregon City Commission finance reports backward through 1926 to find the earliest Kwality/Kwality Cafe payment or other municipal reference; visually inspect the original pages whenever retrievable.
-3. Recover the original 5 January 1927 Commission page image and visually verify the December-finance-report entry.
-4. Investigate the 18 October 1940 JAGERS advertisement and surrounding 1939–1941 evidence before attempting to date the J. Jager “New Kwality Cafe” artifact.
-5. Keep `J. Jager = Jalmar Martin Jager` as an **UNVERIFIED LEAD** only; no contemporary source has yet established that identity.
+1. Retrieve the **individual 503 Main / Kwality Cafe 2000 historic-resource survey form and any source notes/attachments** from Oregon City Planning or SHPO (`MF-068`). Highest-value field: exact newspaper title/date/page behind the 1926 Kwality statement.
+2. If the survey file does not supply an issue-level citation, visually review **1926 Oregon City Enterprise weekly and daily microfilm** at Oregon City Public Library (`MF-031`), prioritizing Kwality/Kwality Restaurant/Kwality Cafe/503 Main/Jager/Jaeger/opening/new-management wording.
+3. Walk Oregon City Commission finance reports backward through 1926 to find the earliest Kwality/Kwality Cafe payment or other municipal reference; visually inspect the original pages whenever retrievable.
+4. Recover the original 5 January 1927 Commission page image and visually verify the December-finance-report entry.
+5. Investigate the 18 October 1940 JAGERS advertisement and surrounding 1939–1941 evidence before attempting to date the J. Jager “New Kwality Cafe” artifact.
+6. Keep `J. Jager = Jalmar Martin Jager` as an **UNVERIFIED LEAD** only; no contemporary source has yet established that identity.
 
 ## Coverage caution
 
