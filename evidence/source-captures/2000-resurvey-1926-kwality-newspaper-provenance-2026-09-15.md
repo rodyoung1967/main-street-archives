@@ -40,6 +40,24 @@ This is a materially stronger provenance clue for the later 503 Main statement. 
 
 **Evidence limit:** the bibliography is project-wide. It does **not** directly say that the specific 1926 Kwality advertisement was in the weekly *Oregon City Enterprise* rather than the daily *Morning Enterprise*, nor does it prove that no other newspaper title was used for the 503 form. Treat Enterprise as the highest-priority newspaper family, not as a fully proved issue-level citation.
 
+## 3A. Appendix A/B visually fixes the 503/505 survey-row alignment
+
+Direct visual inspection of the official 2000 Final Report's Appendix A survey table is important because text extraction can shift values across adjacent rows.
+
+The scan itself directly aligns:
+
+- **502 Main Street — post-1960 — N/A**
+- **503 Main Street — c.1919 — Kwality Café — Commerce**
+- **504–514 Main Street — c.1892 — Latourette-David-Barlow Building — Commerce**
+- **505 Main Street — c.1920 — Unknown — Commerce**
+
+Appendix B separately places both target resources under **“Historic but irretrievable loss of integrity”** and prints:
+
+- **503 Main St. — Kwality Cafe — c.1919**
+- **505 Main St. — Unknown — c.1920**
+
+This visually confirms what the 2000 survey itself assigned to the two rows. It does **not** turn c.1919/c.1920 into primary construction proof and does not establish the 1926 advertisement's date/page. Where extracted table text conflicts with this row alignment, the scan controls.
+
 ## 4. Oregon City Public Library confirms surviving 1926 microfilm coverage
 
 The current Oregon City Public Library microfilm holdings page lists:
@@ -54,12 +72,31 @@ https://www.orcity.org/490/Microfilm-Scanning-System
 
 The Library says the film/fiche reader is located in the Carnegie Center and that users may print or save images. Questions about specific publication dates can be directed to the Library Reference Department. No contact was sent in this research pass.
 
+## 4A. Correct 1926 masthead/title distinction
+
+University of Oregon title metadata and the Oregon Digital Newspaper Program's history page resolve an important naming ambiguity in the Library and 2000-survey shorthand.
+
+For the 1926 target year:
+
+- **Oregon City Enterprise** (LCCN `sn00063700`) was the **weekly** paper.
+- **Morning Enterprise** (LCCN `sn00063701`) was the **daily except Monday**, published 1911–1933.
+- ODNP explicitly says E. E. Brodie established the *Morning Enterprise* daily in 1911 while the weekly continued as the *Oregon City Enterprise*.
+
+Therefore the 2000 bibliography phrase **“Oregon City Enterprise (daily and weekly newspapers)”** should be treated as project-level newspaper-family shorthand, not as the exact 1926 masthead for both runs. Under `MF-031`, the microfilm search should explicitly cover **weekly Oregon City Enterprise + daily Morning Enterprise**.
+
+UO/ODNP title controls:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/
+- https://oregonnews.uoregon.edu/lccn/sn00063701/
+- https://odnp.uoregon.edu/oregon-city-oregon-city-enterprise/
+
+The OCPL holdings labels remain preserved as the Library prints them; this clarification concerns historical title identity, not a correction of the Library page itself.
+
 ## 5. Why this matters for MF-031
 
 The prior manual route broadly called for review of 1923–1926 local-newspaper microfilm. The source trail can now be prioritized more tightly:
 
 1. **First retrieve/inspect the individual 503 Main 2000 survey form** from Oregon City Planning or SHPO because it may contain the exact 1926 citation or annotation.
-2. If the form lacks issue-level citations, review the **1926 Oregon City Enterprise weekly and daily microfilm** at Oregon City Public Library, prioritizing:
+2. If the form lacks issue-level citations, review the **1926 weekly Oregon City Enterprise and daily Morning Enterprise microfilm** at Oregon City Public Library, prioritizing:
    - `Kwality`
    - `Kwality Restaurant`
    - `Kwality Cafe`
@@ -77,6 +114,6 @@ No outreach was sent and no fee was authorized.
 - **1926 Kwality Restaurant statement:** official secondary/derivative; underlying ad still unrecovered.
 - **December 1926 / 5 Jan. 1927 municipal finance text:** searchable primary text lists Kwality Cafe / Meals / $5; original page image remains a visual-render retrieval gap.
 - **2000 re-survey provenance:** direct official documentation that the survey used newspaper research, specifically including Oregon City Enterprise daily and weekly titles, and that individual inventory forms were preserved through City/SHPO channels.
-- **1926 Enterprise microfilm survival:** directly documented by Oregon City Public Library holdings.
+- **1926 Enterprise-family microfilm survival:** directly documented by Oregon City Public Library holdings; UO/ODNP title metadata identifies the contemporary runs precisely as weekly *Oregon City Enterprise* and daily-except-Monday *Morning Enterprise*.
 
 The underlying 1926 ad remains unresolved.
