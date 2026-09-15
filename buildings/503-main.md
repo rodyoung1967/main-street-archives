@@ -6,8 +6,8 @@
 - Related businesses: `BUS-001`, `BUS-002`, `BUS-003`, `BUS-004`, `BUS-018`, `BUS-019`, `BUS-020`, `BUS-078`
 - Related people: `P-003`, `P-004`, `P-006`, `P-007`, `P-008`, `P-014`, `P-015`, `P-016`, `P-017`, `P-021`, `P-022`, `P-023`, `P-024`, `P-025`, `P-034`, `P-035`, `P-036`, `P-394`
 - Related artifacts: `A-001`, `A-002`
-- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-225`, `E-228`, `E-229`, `E-230`, `E-255`, `E-256`, `E-259`
-- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-251`, `S-254`, `S-255`, `S-256`, `S-282`, `S-283`, `S-285`
+- Related evidence: `E-001`, `E-002`, `E-003`, `E-007`, `E-009`, `E-011`, `E-012`, `E-015`, `E-019`, `E-020`, `E-021`, `E-022`, `E-023`, `E-024`, `E-025`, `E-032`, `E-040`, `E-042`, `E-043`, `E-044`, `E-045`, `E-047`, `E-048`, `E-049`, `E-094`, `E-095`, `E-096`, `E-097`, `E-098`, `E-099`, `E-103`, `E-108`, `E-193`, `E-194`, `E-195`, `E-197`, `E-213`, `E-225`, `E-228`, `E-229`, `E-230`, `E-255`, `E-256`, `E-259`, `E-348`
+- Related sources: `S-001`, `S-002`, `S-003`, `S-010`, `S-021`, `S-023`, `S-024`, `S-025`, `S-026`, `S-027`, `S-028`, `S-048`, `S-107`, `S-108`, `S-109`, `S-110`, `S-111`, `S-112`, `S-113`, `S-114`, `S-115`, `S-117`, `S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-251`, `S-254`, `S-255`, `S-256`, `S-282`, `S-283`, `S-285`, `S-372`, `S-373`
 - Unified timeline: [503 Main Street](../timelines/503-main.md)
 
 ## Known / Working History
@@ -57,6 +57,17 @@ The correct **1925 Sanborn Sheet 6** for the Fifth/Main block has been visually 
 - **505 is a separate labeled occupancy and is marked billiards/cigars**.
 
 This is primary map evidence that 503 and 505 were separate commercial occupancies by 1925. See `maps/sanborn-comparison-503-505-507.md` and `evidence/sanborn-1925-1950-evidence.md`.
+
+
+### 1928 exact-address municipal fire call
+
+The fully visually reviewed **1928 Municipal Activities Report** (`S-372`) supplies a direct exact-address municipal event not previously indexed in the building record. Its Fire Department table prints **“Mar. 1 — 503 Main Res. — Overheated Stove — None”** (`E-348`).
+
+This establishes that the City Fire Department recorded a call at **503 Main on 1 March 1928**. The source abbreviation **`Res.` is preserved as printed** and is not silently expanded into a proved whole-building use classification. The entry names no Kwality business, proprietor, tenant, owner, or licensee and does not establish that the entire 503 storefront had changed from the restaurant use shown on the 1925 Sanborn.
+
+For construction chronology this is a later continuity/address control, not a new earliest endpoint: the **May 1925 Sanborn** still provides the earlier direct proof that a distinct 503 premises/building was present after the 1922 fire period.
+
+The **1929 Municipal Activities Report** (`S-373` / `E-349`) adds only intersection/public-realm context for this building: a **10 June 1929 Fifth/Main wiring call with $25 estimated damage** has no numbered premises, while the Engineering Department documents **28 ornamental Main Street lights from Fifth to Ninth Street** at a total cost of **$5,600**. Neither item is assigned as a fire or construction event at 503.
 
 ### Working construction/business distinction
 
