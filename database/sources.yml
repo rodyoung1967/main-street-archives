@@ -294,7 +294,7 @@ sources:
   - id: S-062
     name: City of Oregon City, Downtown Final Report, 2000
     url: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
-    notes: 'Type: Official municipal historic-resource survey / secondary source. Related evidence: E-053. Full provenance, verification state, and repository-path details are preserved in evidence/source-register.md.'
+    notes: 'Type: Official municipal historic-resource survey / secondary source. Related evidence: E-053. The report says the 2000 re-survey generated 59 individual historic-resource forms; copies were available through the City and originals housed at SHPO. Methodology names newspaper research at Oregon City Public Library, CCHS, University of Oregon and Oregon State University; selected bibliography explicitly lists Oregon City Enterprise daily and weekly newspapers. This narrows the 1926 Kwality-ad provenance but does not identify a specific issue. Full provenance in evidence/source-register.md.'
 
   - id: S-063
     name: ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
@@ -2667,4 +2667,13 @@ sources:
     repository_file: "records/municipal/annual-reports/1929 Municipal Activities Report.PDF"
     related_evidence: [E-349]
     notes: "Steward-upload SHA-256 32f5e5eedd193f204402844c45edb02bbc13ed5afcee5a9dc21eb991bbdde664. Fire table prints 10 Jun. 1929 — 5th & Main — Wiring — $25; engineering section documents 28 ornamental Main Street lights from Fifth to Ninth at $5,600. Farr Bros. Slaughter House is not merged with the 505 pool-hall chain."
+
+  - id: S-374
+    name: "Oregon City Public Library, Microfilm Scanning System / newspaper holdings"
+    url: "https://www.orcity.org/490/Microfilm-Scanning-System"
+    type: "Official current library holdings/access page"
+    date: "2026-09-15"
+    repository_file: "evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md"
+    related_evidence: []
+    notes: "Lists Oregon City Enterprise Weekly 1871-1942 and Oregon City Enterprise 1911-1950, confirming both Enterprise-family microfilm runs cover 1926. This is source-survival/access evidence only, not proof of any specific Kwality advertisement."
 
