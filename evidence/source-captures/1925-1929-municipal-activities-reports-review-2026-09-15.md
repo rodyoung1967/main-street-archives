@@ -111,7 +111,7 @@ As in the 1926 and 1928 volumes, the opening aerial/map imagery is not assigned 
 1. The 1925 and 1926 steward uploads add **no new binary or new source identity** because they exactly match `S-157` and `S-159`.
 2. The 1928 report supplies a new direct exact-address event at **503 Main on 1 March 1928** (`E-348`).
 3. The 1928 exact-address call does **not** improve the earliest rebuilt-building endpoint beyond the **May 1925 Sanborn**, which already proves a distinct 503 restaurant. It does, however, independently confirm continued municipal recognition of 503 as an address in 1928.
-4. The CCHS P-267 photograph remains cataloged only **1924–1928** (`S-312` / `E-284`), not exactly 1924. These annual-report aerials do not narrow that range.
+4. The CCHS P‑267 photograph remains cataloged only **1924–1928** (`S-312` / `E-284`), not exactly 1924. These annual-report aerials do not narrow that range.
 5. The 1929 report adds Fifth/Main fire-call context plus the 28-light Main Street improvement (`E-349`).
 6. None of these reports identifies the proprietor behind the City's later statement that 1926 newspaper advertisements named the **Kwality Restaurant**.
 7. Review of these four reports is a source-class completion only. It does not make 1925, 1926, 1928, or 1929 ONLINE COMPLETE under `RESEARCH-STANDARD.md`.
