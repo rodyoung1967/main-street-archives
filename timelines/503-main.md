@@ -21,8 +21,10 @@ Address record: [`B-001`](../buildings/503-main.md). See [master](../timeline.md
 | 20–21 Jul. 1922 | Adjoining pool/billiard premises at **505** suffers water damage and partial roof burning rather than destruction; building north of fire credited as saved by **fireproof construction**. | Direct damage/survival description; numbered 505 match is strong cross-source inference. |
 | 22 Sep. 1921 / Jul. 1922 context | **Red Front Clothing Store = 507 Main** in direct 1921 ad; still named in Harding group immediately before fire and in fire-loss reporting. | Direct at 507 in 1921; strong inference for July 1922 continuity. |
 | 1925 | Sanborn maps **503 as a separate restaurant**. | Exact map use; occupant unnamed. |
-| 1926 | City synthesis reports Kwality Restaurant. | Official secondary. |
-| 18 Oct. 1940 | **JAGERS**, 503 Main. | Exact visually verified primary ad. |
+| **1926** | City historic-resource synthesis reports that **1926 newspaper ads identify the business as “Kwality Restaurant.”** | **OFFICIAL SECONDARY / DERIVATIVE.** Underlying 1926 newspaper title/date/page/ad scan still unrecovered and not visually verified. |
+| **Dec. 1926 / 5 Jan. 1927** | Oregon City Commission searchable text for bills described as a **continuation of the December Finance Report** lists **Kwality Cafe — Meals — $5.00**. | **OCR/TEXT ONLY** pending visual recovery of the original municipal page. If confirmed, independently establishes municipal use of “Kwality Cafe” by the 1926/27 boundary; meeting date must not be silently converted to bill/event date. See `evidence/source-captures/1926-kwality-city-finance-and-inventory-follow-up-2026-09-15.md`. |
+| Undated | **New Kwality Cafe — 503 Main St. — J. Jager, Prop.** | Existing artifact `A-001` / evidence `E-002`; date unresolved. Do **not** backdate to 1926. |
+| 18 Oct. 1940 | **JAGERS**, 503 Main. | Exact visually verified primary ad; important control against assuming the undated J. Jager artifact is from 1926. |
 | 1957 | Albert D. Flor and wife associated with restaurant/cocktail-bar operation at 503. | Official secondary. |
 | 28 Mar. 1958 | **WHEEL CAFE & LOUNGE — 503 Main — Ph. 9106.** | Earliest currently recovered exact-address Wheel ad. |
 | 1960–1985 | Wheel Cafe / Wheel Restaurant / The Wheel at 503; Richard M. Wiitanen named owner in 1985. | Primary and municipal anchors; property/business transfer dates remain partly open. |
@@ -45,5 +47,9 @@ The July 13 sale article prints **S. Wolf**. The July 20 fire report also gives 
 ## Construction and later-business cautions
 
 The City historic inventory assigns the surviving 503 resource a **c.1919** construction estimate and reports Wolf-family ownership roughly **c.1922–1972** from 1983 survey research. Those are useful secondary controls, not primary proof of the exact construction date, July 1922 deed geometry, or Wolf identity. The 1925 Sanborn directly shows 503 as a restaurant; the later Kwality/Wheel history should not be backdated into the July 1922 fire without evidence.
+
+The City's later wording that the 1947 directory showed the name “changed to Kwality Cafe” should **not** currently be read as proving a 1947 name-change date. Searchable text from the 5 January 1927 Commission record lists **Kwality Cafe** among bills continuing the December finance report. That municipal entry remains **OCR/TEXT ONLY** until the original page is visually recovered, but if confirmed it demonstrates that the Cafe form was already in municipal use by the 1926/27 boundary. The City's separate statement that 1926 newspaper advertisements called the business **Kwality Restaurant** remains an official secondary lead until those underlying ads are recovered.
+
+The undated `A-001` / `E-002` “New Kwality Cafe — J. Jager, Prop.” artifact must likewise remain undated. The archive already has a visually verified **18 October 1940 JAGERS — 503 Main** advertisement, which provides a later exact-address Jager control and makes a 1926 date for the artifact unsafe without independent evidence.
 
 For detailed post-1922 chronology, source IDs, photographs, permits, Kwality/Wheel succession, modern ownership leads, and boundary research, see [`buildings/503-main.md`](../buildings/503-main.md), the archive index, and source captures. This unified timeline intentionally keeps the key address history easy to locate while the evidence files retain the full research record.
