@@ -3499,3 +3499,16 @@ Claims:
 - Do **not** date this photograph by comparing the visible lower Third/Fourth-area Railroad Avenue condition with the 1929 Fifth–Seventh municipal improvement; the same competent segment is not visible.
 - Oregon Encyclopedia independently reproduces the same exposure with the caption **“Oregon City, c. 1930.”** and credits OHS Journal `371A5709`. This is a useful **secondary circa-1930 dating clue**; the A/N identifier discrepancy with OHS `371N5709` is preserved unresolved.
 Classification: **DOCUMENTED / DIRECT** for OHS object/date range/streetscape; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered frontage mapping and replacement-Elks identification; **TENTATIVE VISUAL READING** for CAFE/BILLIARDS.
+
+## E-351 — 1921 / immediate pre-fire photograph search evaluation
+Type: External photographic-source evaluation / bounded online search result.
+Sources: `S-379`, `S-380`, `S-381`, `S-382`.
+Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+Claims:
+- CCFHS **PC050** is publicly described as “Dated April 21, 1921” and was visually reviewed; the available derivative does **not** show the later 501/503/505 frontage clearly enough for a defensible individual-building comparison.
+- The phrase “Dated April 21, 1921” is preserved as source wording and is **not automatically treated as the exact photographic exposure date** without reverse/catalog provenance.
+- West Linn Historical Society captions the interim pedestrian bridge image **1921**, while Old Oregon Photos labels what appears to be the same or a closely related exposure **c.1922**. Treat the photograph as **bridge-construction-era 1921–1922** until original-negative metadata resolves the conflict.
+- OHS `376G0143` and `376G0144` are institutional old-suspension-bridge controls dated **1902–1922**, not exact 1921 images.
+- City / Army Corps / ODOT bridge-construction galleries document the early-1920s construction sequence but do not, from the currently reviewed material, establish a readable 501/503/505 storefront view or exact individual exposure dates.
+Conclusion: the search produced genuine 1921-era visual material but **no newly recovered direct 1921 photograph of the 501/503/505 frontage**. The existing exact-dated **1918 CCHS bluff image** remains the strongest currently preserved pre-fire structural control.
+Classification: **DOCUMENTED / DIRECT** for source/catalog wording; **VISUALLY REVIEWED** where noted; **NO-HIT / INSUFFICIENT VIEW** for a new direct target-frontage photograph.
