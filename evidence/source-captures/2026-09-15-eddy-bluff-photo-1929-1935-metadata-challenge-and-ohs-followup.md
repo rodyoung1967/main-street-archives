@@ -17,23 +17,15 @@ This note supersedes the dating conclusion in `evidence/source-captures/2026-09-
 - **Description:** `Business Section of Oregon City from the Bluff.`
 - **Date:** no date stated in the metadata supplied.
 
-## Recommended repository filename
+## Repository image
 
-When the project image binary can be committed, use a research filename reflecting the current estimated range while retaining the institutional title and identifier in the metadata register:
+The exact steward-supplied JPEG is now preserved as **IMG-0773**:
 
-`media/photos/IMG-TBD_oregon-city-main-street-c0250-005060_c1929-1936.jpg`
+`media/photos/main-street/IMG-0773_c1929-1935-oregon-city-main-street-bluff-cchs-c0250-005060.jpg`
 
-The `c1929-1936` portion is a project dating estimate, not institutional metadata.
+Repository/steward control: **1381 × 870**, **219,852 bytes**, SHA-256 `97b269e43fe38e85b9b8169e1a819870528e7f3ac676279e3a1594d6b3d302aa`.
 
-### Binary-ingest status
-
-The actual JPEG is **not yet committed**. The current GitHub connector accepts UTF-8 text writes but does not expose a safe local-binary-to-repository upload action. Therefore no repository JPEG can yet be renamed or ingested. This remains a technical ingest gap.
-
-When binary upload becomes available:
-1. compare the supplied JPEG against existing media for exact/substantive duplication;
-2. assign the next valid `IMG-####` ID;
-3. commit it using the recommended `c1929-1936` filename (or the then-current refined range);
-4. update `media/photo-metadata-register.md` and `media/photos/inventory.md`.
+The `c1929-1935` filename date is a project research estimate, not institutional metadata.
 
 ## Visible features
 
@@ -153,3 +145,19 @@ No institutional request has been sent and no fee has been authorized.
 ## Validation note
 
 This write was made through the GitHub connector. `validate_archive.py` was not executable in that connector-only environment; no validator result is claimed.
+
+## Suggested updated catalog metadata for consideration
+
+**Name/Title:** Oregon City Main Street
+
+**Entry/Object ID:** C.0250.005060
+
+**Suggested Date:** circa 1929–1935
+
+**Description:** Business section of Oregon City viewed from the bluff, looking toward downtown and the Willamette River. The Oregon City–West Linn arch bridge is visible at left, with the Elks Lodge near the Oregon City end of the bridge. The old Clackamas County Courthouse and clock tower are visible near Eighth and Main streets. Railroad Avenue and the Main Street commercial district appear in the foreground.
+
+**Dating Note:** The photograph is estimated to date from circa 1929–1935. The completed Oregon City–West Linn arch bridge provides a post-1922 chronological control. More significantly, Railroad Avenue appears consistent with improvements documented by the City of Oregon City in 1929. The old Clackamas County Courthouse remains visible; construction of its replacement began in 1936. The date range is therefore provisional and may be refined through additional photographic or archival evidence.
+
+**Photographer:** Ralph Eddy — probable attribution based on the visible “Eddy” mark; confirm against the original catalog/negative record.
+
+This is a **project recommendation for CCHS consideration**, not existing institutional metadata.
