@@ -29,3 +29,6 @@ The bracket also overlaps the July 1922 Fifth/Main fire/rebuild sequence, but th
 ## Cross-record propagation decision
 
 This batch warrants structural updates to 501/503/505 building/timeline records and `RL-024`, but no ownership, occupancy, business-sale, or fire-origin claim. No annual year-status change is made.
+
+## 15 September 2026 P-267 rereview
+An enlarged steward rereview of P-267 identifies a **standing building mass at the later 503 position**. This strengthens the qualitative changed-frontage reading but does not move the hard structural endpoint earlier than the independent **1925 Sanborn**, because P-267 itself is cataloged only as 1924–1928 and carries no readable 503 number.
