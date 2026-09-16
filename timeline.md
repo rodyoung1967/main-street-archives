@@ -715,4 +715,5 @@ This is a business-name/signage anchor, not proof of 1960 proprietor, licensee, 
 OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936** and shows downtown Oregon City and the completed Arch Bridge from the bluff. The project steward maps the visible odd-numbered frontage to **501 / 503 / 505 Main**.
 Enlarged review suggests the **503** sign may read **CAFE** and the **505** sign may read **BILLIARDS**; both remain tentative. The independent 1925 Sanborn maps 503 as restaurant and 505 as billiards/cigars.
 The steward identifies the bridge-adjacent building as the **replacement Elks Lodge**. Official lodge history says the predecessor burned 2 Dec. 1922 and the replacement was completed in 1923, with first meeting there 7 Dec. 1923.
+Oregon Encyclopedia independently reproduces the **same exposure** as **“Oregon City, c. 1930.”** and credits OHS Journal `371A5709`; this is a secondary circa-1930 clue, while the A/N identifier discrepancy with OHS `371N5709` remains unresolved.
 Do **not** use the visible lower Third/Fourth-area Railroad Avenue condition to date this image from the 1929 Fifth–Seventh project.
