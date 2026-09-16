@@ -264,9 +264,9 @@ The preserved and visually verified local report says the fire began in a vacant
 Read with the 13 July sale notice, the ignition building strongly belongs to the freshly reported Harding-to-Wolf remainder, but that remains a cross-source inference pending the deed and exact frontage line. Independent reporting preserves conflicting damage estimates, a cleaner/dyer-versus-tailor recent-occupant question, and **Ed Gage / Ed Blake / J. Blake** owner-operator wording. None identifies 501, 503, or 505 as the ignition room.
 
 ## 17–18 August 1922 — Gates corner replacement under construction
-Two visually inspected reports identify **C. E. Gates** as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building. The first floor was planned as two storerooms, one already leased for a barber shop (`E-097` / `S-112`–`S-113`). The reports do not give width, orientation, or street numbers.
+Two visually inspected reports identify **C. E. Gates** as owner of the Fifth/Main corner site where R. A. Junken was constructing a two-story hollow-tile replacement for the fire-destroyed Fifth Street Restaurant building. The first floor was planned as two storerooms, one already leased for a barber shop (`E-097` / `S-112`–`S-113`). Both reports project readiness for occupancy about **1 October 1922**; this is not proof of actual occupancy on that date. The reports do not give width, orientation, or street numbers.
 
-Two storefront models remain open. If the Gates corner was principally modern 501, the Wolf remainder could begin at 503, compatible with **503 ignition / 505 pool hall**. If both Gates rooms became the Main-facing 501+503 pair shown in 1925, the Wolf remainder could begin near 505. The 1925 Sanborn does not choose between them; 501 remains live until the July restaurant address is proved.
+Later integrated fire-frontage work supersedes this older equal-model treatment for current historical-location reconstruction: **501 = Fifth Street Restaurant / Gates corner loss and replacement; 503 = Miller / former-Schiermann fire-origin structure; 505 = adjoining pool/billiard premises that survived**. The exact footprint of Gates's two replacement storerooms and the precise Gates/Wolf legal boundary remain unresolved.
 
 ## September–November 1922 — business recovery and relocations
 
@@ -710,3 +710,9 @@ CCHS `P‑267` (`S-312` / `E-284` / `IMG-0770`) shows the Arch Bridge-era downto
 Exact-dated CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) shows the Fifth/Main frontage. Project-steward prompted enlarged re-review reads the vertical 505 Main sign as **WELLS**. With the independent 1953 SHPO/directory-synthesis statement naming **Well's Recreation** at 505 (`S-284` / `E-257`), the project now treats Wells / Well's Recreation at 505 in 1960 as a **STRONG CROSS-SOURCE INFERENCE**.
 
 This is a business-name/signage anchor, not proof of 1960 proprietor, licensee, property ownership, or uninterrupted operation from 1953. The next exact later trade-name anchor is **505 Tavern, 11 November 1965** (`E-029`).
+
+## T-106 — 1923–1936 — OHS 371N5709 shows early post-fire Fifth/Main frontage
+OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936** and shows downtown Oregon City and the completed Arch Bridge from the bluff. The project steward maps the visible odd-numbered frontage to **501 / 503 / 505 Main**.
+Enlarged review suggests the **503** sign may read **CAFE** and the **505** sign may read **BILLIARDS**; both remain tentative. The independent 1925 Sanborn maps 503 as restaurant and 505 as billiards/cigars.
+The steward identifies the bridge-adjacent building as the **replacement Elks Lodge**. Official lodge history says the predecessor burned 2 Dec. 1922 and the replacement was completed in 1923, with first meeting there 7 Dec. 1923.
+Do **not** use the visible lower Third/Fourth-area Railroad Avenue condition to date this image from the 1929 Fifth–Seventh project.
