@@ -46,3 +46,11 @@ The [28 August model test](source-captures/1922-task-7-fire-origin-model-test-20
 New `S-239` / `E-213` / `IMG-0760` adds a CCHS photograph whose description specifically dates the scene to **November 1922**. A light-toned building is visible at/near the Fifth/Main candidate zone. Because the August reports above document Gates's two-story hollow-tile fire-replacement under construction with occupancy projected around 1 October, the November photograph is a **strong cross-source candidate for the newly completed Gates building**.
 
 This strengthens the visual chronology but does **not** remove the mapping limit in this evidence record. The photograph does not prove that Gates's replacement was modern **501 alone**, that it was **501+503**, or that the July fire-destroyed restaurant building had already been proved as numbered 501. Fixed-landmark and footprint alignment against the 1925 Sanborn remains required.
+
+## September 2026 interpretation supersession
+
+This evidence record preserves the August-stage footprint hypothesis, but its statements that **501 remained live as an ignition candidate** are superseded by the later cross-source frontage reconstruction. Current authoritative location synthesis is `timelines/1922-fire-frontage.md`: 501 = Fifth Street Restaurant/Gates portion; 503 = Miller/former-Schiermann origin structure; 505 = adjoining pool/billiard premises that survived.
+
+The unresolved point in E-097 is now narrower: **how the two Gates replacement storerooms map to later numbered rooms**, not whether 501 was the July ignition room.
+
+The newspaper statement that the building would be ready for occupancy **about 1 October 1922** remains a projected readiness date, not an actual occupancy record.
