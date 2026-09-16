@@ -583,3 +583,16 @@ Prioritize:
 3. **OHS 379G0008** and related 379G0002–0012 / 0017 Oregon City negatives, institutionally dated **1910–1924**; inspect related frames for cityscape background.
 4. **Oregon City Main Street 1920.jpg** public-domain/secondary circa-1920 comparison lead; trace original provenance before treating the date as exact.
 Goal: find a clearly pre-fire exposure showing the 501/503/505 frontage well enough to compare with P-9594, P-267 and OHS 371N5709.
+
+### 16 September 2026 — 1921 photograph lead evaluation checkpoint
+<!-- 2026-09-16-1921-photo-evaluation -->
+
+The broad 1921 photograph lead list has now been tested under `S-379`–`S-382` / `E-351` and `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+
+Current result:
+- CCFHS `PC050` is real 1921-era material but does not expose the 501/503/505 frontage clearly enough in the available derivative;
+- the interim pedestrian-bridge image carries a **1921 vs c.1922** source-date conflict;
+- OHS `376G0143/0144` remain broad **1902–1922** controls;
+- City/Army Corps/ODOT bridge-construction photos remain worth maximum-resolution inspection but no direct target-frontage hit has been established.
+
+Next research should therefore concentrate on **master-resolution recovery / reverse metadata**, not repeat generic keyword searches already performed. Highest-value unresolved item is the exact meaning of PC050's “Dated April 21, 1921” and whether any bridge-construction master contains usable Fifth/Main background.
