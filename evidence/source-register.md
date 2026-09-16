@@ -3276,3 +3276,36 @@ Notes:
 - Oregon Encyclopedia gives the more specific secondary date **c. 1930**.
 - Preserve the identifier discrepancy exactly as printed: Oregon Encyclopedia credits `371A5709`, while the current OHS Digital Collections catalog uses `371N5709`. Do not silently normalize A→N without an institutional explanation.
 - Treat c.1930 as a **secondary dating clue**, not as a replacement for OHS's institutional 1923–1936 creation range.
+
+## S-379 — CCFHS PC050, Section of Oregon City from the Bridge
+Type: External historical postcard image / local-history gallery; **VISUALLY REVIEWED 16 September 2026**.
+Institution/site: Clackamas County Family History Society.
+Gallery wording: **PC050 — “Section of Oregon City from the Bridge, Mt. Hood in distance. Dated April 21, 1921. 1888 suspension bridge.”**
+Gallery: https://www.clackamascountyfamilyhistory.org/photo-gallery
+Direct public image: https://images.squarespace-cdn.com/content/v1/690a3ed512f2ba14fd7549b6/9f18a9c7-848d-4f5d-addf-2fef1edbec87/Scan_20260102.png
+Related evidence: `E-351`.
+Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+Notes: the available derivative does not show the later 501/503/505 frontage clearly enough for a defensible individual-building comparison. Preserve “Dated April 21, 1921” as gallery wording; do not silently convert it to an exact photographic exposure date without reverse/catalog provenance.
+
+## S-380 — West Linn Historical Society temporary pedestrian bridge photograph
+Type: External local-history photograph / bridge-construction chronology.
+URL: https://www.westlinnhistory.org/history/bridges
+Caption: **“Interim pedestrian bridge during construction of Oregon City/West Linn Bridge, 1921.”**
+Related evidence: `E-351`.
+Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+Notes: same page says present bridge construction began 29 July 1921 and was completed December 1922. Old Oregon Photos labels what appears to be the same or a closely related exposure **c.1922**; exact exposure year therefore remains unresolved pending original-negative provenance.
+
+## S-381 — OHS 376G0143 / 376G0144 old Oregon City suspension bridge negatives
+Type: Primary institutional photograph metadata / Oregon Journal Photographic Negatives.
+Institution: Oregon Historical Society.
+Records: **376G0143** and **376G0144**, both titled **“1888 Oregon City suspension bridge?”**, institutional range **1902–1922**.
+Public records: https://digitalcollections.ohs.org/1888-oregon-city-suspension-bridge and https://digitalcollections.ohs.org/bridges-oregon-oregon-city
+Related evidence: `E-351`.
+Notes: bridge views are potentially useful pre-1922 controls, but the institutional range is too broad to call either image 1921 and no currently reviewed catalog description establishes readable 501/503/505 frontage.
+
+## S-382 — Official / ODOT Oregon City Arch Bridge construction photo galleries
+Type: Official/public bridge-construction photograph collections / research lead.
+City of Oregon City gallery: https://www.orcity.org/811/Arch-Bridge — early-1920s Arch Bridge construction photographs, credited to Army Corps of Engineers.
+ODOT/Flickr copy set: https://www.flickr.com/photos/39291536@N04/albums/72157624523289427 — five images labeled `00357_c1922_048`, `00357_c1922_010`, `00357_c1922_032`, `00357_c1922_011`, `00357_c1922_025`.
+Related evidence: `E-351`.
+Notes: these images document the 1920–1922 construction sequence but currently do not establish an exact 1921 target-frontage photograph. Individual exact exposure dates remain unproved from the public gallery text.
