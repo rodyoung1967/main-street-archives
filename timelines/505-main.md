@@ -18,6 +18,7 @@ Address record: [`B-002`](../buildings/505-main.md). See [master](../timeline.md
 | 2/4 Jun. 1920 | **A. Leland** permitted pool hall at **505½ Main**. | Exact visually verified report; 505½ arrangement remains unresolved. |
 | Apr. 1921–30 Jun. 1922 | **Dr. Harvey Freeze at 505/505½**, moving to Masonic Building after 1 July 1922. | Exact primary address forms. |
 | **18–21 Jul. 1922** | **Adjoining pool/billiard premises at 505 survives the fire.** Billiard tables suffer water damage; part of roof burns; fireproof construction is credited with saving the building north of the 503 origin. | **STRONG CROSS-SOURCE INFERENCE for numbered 505 match; DIRECT for damage/survival/fireproofing.** Not razed. |
+| **1923–1936 (OHS range)** | OHS `371N5709` shows the steward-mapped later **505** position; storefront sign is possibly **BILLIARDS**. | Cross-source address mapping; tentative sign reading; consistent with 1925 billiards/cigars. |
 | 1925 | Sanborn maps **505 as billiards/cigars**. | Exact map use; consistent with survival, but not sole basis for it. |
 | By 1936 | **Farr's Pool Hall at 505**. | Strong cross-source inference from City/CCHS evidence. |
 | 1945–late 1948 | **Harr's Recreation Center / Carl R. Harr, 505 Main**. | Official-secondary 1945 directory statement + exact municipal late-1948 listing. |
