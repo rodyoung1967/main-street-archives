@@ -134,3 +134,12 @@ The steward supplied six additional crops/enlargements from the same OHS 371N570
 - `target3.png` — 2750 × 1500; SHA-256 `23f7c8672a986da43ee1749561fec13b756e8f64238f70df35c880b3d68aee5b`
 
 Visual review of these derivatives does not justify promoting the storefront text above the existing evidence tier. The 503 lettering remains compatible with `CAFE`; the 505 lettering remains plausibly `BILLIARDS`; neither is treated as a secure direct transcription. The derivatives are inspection aids, not independent exposures.
+
+## 1921 search follow-up completed
+
+The initial pre-fire photo leads were subsequently evaluated and registered as `S-379`–`S-382` / `E-351`.
+
+Detailed capture:
+`evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`
+
+Result: genuine 1921-era bridge/postcard material was found, but **no newly recovered direct 1921 photograph of the 501/503/505 frontage** is yet established. Do not repeat the broad lead search without moving to master-resolution/reverse-metadata work.
