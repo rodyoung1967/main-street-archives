@@ -3309,3 +3309,22 @@ City of Oregon City gallery: https://www.orcity.org/811/Arch-Bridge — early-19
 ODOT/Flickr copy set: https://www.flickr.com/photos/39291536@N04/albums/72157624523289427 — five images labeled `00357_c1922_048`, `00357_c1922_010`, `00357_c1922_032`, `00357_c1922_011`, `00357_c1922_025`.
 Related evidence: `E-351`.
 Notes: these images document the 1920–1922 construction sequence but currently do not establish an exact 1921 target-frontage photograph. Individual exact exposure dates remain unproved from the public gallery text.
+
+## S-383 — Eugene Register, 10 November 1929, “Oregon City and McLoughlin”
+Type: Primary newspaper editorial / centennial-special-edition existence control.
+Publication/date/page: *Eugene Register*, **10 November 1929**, page **6**.
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn96088119/1929-11-10/ed-1/seq-6/
+Related evidence: `E-352`.
+Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+Notes: editorial states that the centennial of McLoughlin's founding of Oregon City had **“just”** been observed by the Enterprise with a **“splendid special edition.”** This directly proves existence of a late-1929 Enterprise centennial special edition before 10 Nov.; it does not identify its exact issue date, illustrations, photographer, or any relationship to OHS 371N5706/5707/5709.
+
+## S-384 — OHS 371N5706 / 371N5707 Oregon City comparison negatives
+Type: Primary institutional photograph metadata / Oregon Journal Photographic Negatives.
+Institution: Oregon Historical Society.
+Records:
+- **371N5706 — Hawley Pulp and Paper mill, Oregon City, Oregon**, 1923–1936; number **4** on negative; OHS explicitly says it may be related to 371N5709.
+- **371N5707 — McLoughlin House, Oregon City, Oregon**, 1923–1936; text “McLoughlin House” written on negative.
+Primary OHS records: https://staff.digitalcollections.ohs.org/hawley-pulp-and-paper-mill-oregon-city-oregon and https://digitalcollections.ohs.org/oregon-city
+Related evidence: `E-352`; cross-reference `S-376`, `S-378`.
+Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+Notes: OHS's reciprocal 5706↔5709 relation and visible numbers 4/5 support a likely related pair; OHS does **not** explicitly relate 5707 to them. Identifier adjacency alone is not a dating method.
