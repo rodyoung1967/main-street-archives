@@ -3497,4 +3497,5 @@ Claims:
 - At **503**, the storefront sign appears compatible with **CAFE**; at **505**, a longer sign is possibly **BILLIARDS**. Both remain **tentative visual readings**, not direct transcriptions.
 - The independent 1925 Sanborn maps **503 as restaurant** and **505 as billiards/cigars**, making the readings cross-source consistent without forcing the pixels.
 - Do **not** date this photograph by comparing the visible lower Third/Fourth-area Railroad Avenue condition with the 1929 Fifth–Seventh municipal improvement; the same competent segment is not visible.
+- Oregon Encyclopedia independently reproduces the same exposure with the caption **“Oregon City, c. 1930.”** and credits OHS Journal `371A5709`. This is a useful **secondary circa-1930 dating clue**; the A/N identifier discrepancy with OHS `371N5709` is preserved unresolved.
 Classification: **DOCUMENTED / DIRECT** for OHS object/date range/streetscape; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered frontage mapping and replacement-Elks identification; **TENTATIVE VISUAL READING** for CAFE/BILLIARDS.
