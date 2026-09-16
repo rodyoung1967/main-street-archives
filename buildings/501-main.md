@@ -123,3 +123,7 @@ A 1992 National Register nomination bibliography explicitly cites **R. L. Polk a
 The repository's CCHS photograph records (`S-213`, `S-214`, `S-215`, `S-217`, `S-239`, `S-241`, `S-242`, `S-243`, `S-245`, `S-311`, `S-312` and related evidence/media IDs) preserve pre-numbering frontage context, the November 1922 post-fire visual bridge, 1927 structural context, and the broader 1918→1925 physical-change bracket. These photographs are useful structural/spatial evidence but do not independently print the 501 address or prove the precise deed boundaries.
 
 The November 1922 CCHS `P-9594` view (`S-239` / `E-213` / `IMG-0760`) remains a strong candidate visual bridge to the newly completed Gates fire replacement. It does not by itself establish the exact later-number footprint of both Gates storerooms.
+
+## OHS 371N5709 — post-fire visual control
+OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936** and shows the post-fire Fifth/Main frontage from the bluff. Steward mapping identifies the later 501/503/505 sequence. A sign is visible at the 501 position but is **not securely transcribable** from the supplied image.
+This image is consistent with the completed Gates replacement being present, but it does not prove an exact completion or occupancy date. The contemporary August 1922 newspaper projection of readiness **about 1 October 1922** remains the stronger dated construction control.
