@@ -121,3 +121,16 @@ Do not revert to the older equal Model A / Model B treatment except as preserved
 3. Inspect the 1921 exact-date photo leads for pre-fire 501/503/505 visibility.
 4. Continue exact dating of the 503 post-fire structure from permits, assessments, deeds, directories and construction reports.
 5. Preserve all sign readings and bay mappings at their stated evidence tiers.
+
+## Derivative inspection crops supplied later in the conversation
+
+The steward supplied six additional crops/enlargements from the same OHS 371N5709 exposure for closer visual review:
+
+- `frontage.png` — 2508 × 1590; SHA-256 `3acc70cd987e2b80dee1cb45d5c45b759112aa41c8027fe85c2b04a512673fd6`
+- `left.png` — 2100 × 1500; SHA-256 `e1dedbc94fe7868e3f7c2511ea69edeb524ae531f41ec4c8252d3a563ea304be`
+- `signs.png` — 1950 × 960; SHA-256 `dcd96572d0fcb4f448bd634809a2787ee01f9b83d5e628805eb3a5cb1a0ea368`
+- `target1.png` — 2450 × 1550; SHA-256 `1efb1e0345dbbd2c6828ab17565cba9d66ddd962adef65c524fe722d0e220320`
+- `target2.png` — 2350 × 1350; SHA-256 `f7416e7c7101685aee23e6cdd8f3b80fe900218826e7903be90c967ed5853f89`
+- `target3.png` — 2750 × 1500; SHA-256 `23f7c8672a986da43ee1749561fec13b756e8f64238f70df35c880b3d68aee5b`
+
+Visual review of these derivatives does not justify promoting the storefront text above the existing evidence tier. The 503 lettering remains compatible with `CAFE`; the 505 lettering remains plausibly `BILLIARDS`; neither is treated as a secure direct transcription. The derivatives are inspection aids, not independent exposures.
