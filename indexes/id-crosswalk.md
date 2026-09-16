@@ -980,3 +980,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 - Page-3 `505.00` is a **$505 vehicle price**, not 505 Main.
 - No `B-###`, `BUS-###`, person, ownership, tenancy, licensing, or target-premises relation is created from 503/505 issue silence.
 - Annual coverage consequence: Courier **326/458**, **132** Courier pages remain; next ordinary page **24 Aug. p1**.
+
+## OHS 371N5709 early post-fire frontage — 16 September 2026
+
+| Media/source | Evidence/timeline | Buildings | Meaning |
+| --- | --- | --- | --- |
+| `IMG-0774` / `S-376` / OHS `371N5709` | `E-350` / `T-106` | `B-005`, `B-001`, `B-002` | OHS 1923–1936 bluff view; steward maps 501/503/505; tentative 503 CAFE / 505 BILLIARDS readings; binary pending due technical connector gap. |
+| `S-377` | `E-350` | replacement Elks Lodge context | Official lodge history: predecessor burned 2 Dec. 1922; replacement completed 1923; first meeting 7 Dec. 1923. |
+| `IMG-0770` / `S-312` | `E-284` / `T-104` | `B-001` | 15 Sep. enlarged rereview adds a standing-building observation at the later 503 position; address remains cross-source, not readable. |
