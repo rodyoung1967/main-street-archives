@@ -27,7 +27,7 @@ This directly establishes the reported division of Harding's named property grou
 
 The project now treats **501 Main as the Fifth Street Restaurant corner building destroyed in the fire**. This is a **STRONG CROSS-SOURCE INFERENCE** from the established 501→503→505→507 frontage, the July 13 Harding sale allocation, the fire losses, and Gates's immediate post-fire rebuilding at Fifth/Main. Contemporary reporting identifies the restaurant building/property with **C. P. / C. Gates**; wording involving **Blakesley** concerns the restaurant business/operator side and is not treated as real-estate title.
 
-The 501 building burned / the restaurant was a total loss. In August 1922 Gates rebuilt at Fifth/Main with a two-story hollow-tile replacement containing two ground-floor storerooms. The later numbered footprint of both replacement rooms remains a separate deed/plan question.
+The 501 building burned / the restaurant was a total loss. In August 1922 Gates rebuilt at Fifth/Main with a two-story hollow-tile replacement containing two ground-floor storerooms. The 17–18 August reports projected the building would be **ready for occupancy about 1 October 1922**; that is a projected readiness date, not proof of actual occupancy on that date. The later numbered footprint of both replacement rooms remains a separate deed/plan question.
 
 ### 503 Main — Miller / former Schiermann fire-origin building
 
