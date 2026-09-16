@@ -317,4 +317,7 @@ The validator now checks that every committed raster has an exact-path entry in 
 - OHS date: **1923–1936**
 - Status: **pending-upload — technical connector gap**
 - Key value: early post-fire visual control of the 501/503/505 frontage; replacement-Elks dating control; tentative 503 `CAFE` / 505 `BILLIARDS` sign readings cross-check against the 1925 Sanborn.
+
+- Conversation derivative set for inspection: `frontage.png`, `left.png`, `signs.png`, `target1.png`, `target2.png`, `target3.png`; hashes/dimensions are preserved in `media/photo-metadata-register.md`. These are derivatives of the same exposure, not independent historical sources.
+
 - Limit: no readable street numbers; sign transcriptions remain tentative; lower Railroad Avenue visible in the frame is not used to date the image from the 1929 Fifth–Seventh project.
