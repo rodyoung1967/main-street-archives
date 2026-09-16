@@ -3328,3 +3328,22 @@ Primary OHS records: https://staff.digitalcollections.ohs.org/hawley-pulp-and-pa
 Related evidence: `E-352`; cross-reference `S-376`, `S-378`.
 Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
 Notes: OHS's reciprocal 5706↔5709 relation and visible numbers 4/5 support a likely related pair; OHS does **not** explicitly relate 5707 to them. Identifier adjacency alone is not a dating method.
+
+## S-385 — Old Oregon / CCHS Ralph Eddy B10 temporary bridge construction photograph
+Type: Secondary publication of a primary CCHS original negative / exact-year photo lead; **VISUALLY REVIEWED 16 September 2026**.
+Title: **Building the Temporary Bridge at Willamette Falls - 1921**.
+URL: https://www.oldoregonphotos.com/building-the-temporary-bridge-at-willamette-falls-1921.html
+Old Oregon metadata: photographer **Ralph Eddy**; location **Oregon City / West Linn / Willamette Falls / Clackamas County**; original type **Original Negative**; original size **4.3 × 5.4 inches**; photographer's number **B10**. Old Oregon states that its print is restored from the original negative courtesy of the Clackamas County Historical Society.
+Related evidence: `E-351`.
+Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+Notes: This is a newly located explicit-1921 construction image. It primarily shows the temporary footbridge and river/construction scene rather than a readable 501/503/505 frontage. The **B10** photographer number is a high-value provenance lead: adjacent Ralph Eddy B-series negatives may belong to the same bridge-construction sequence and could contain Oregon City street/background views.
+
+## S-386 — CCHS P-542, Peerless Bakery, Oregon City, 1921
+Type: Primary institutional photograph metadata / exact-year Oregon City photograph; **VISUALLY REVIEWED 16 September 2026**.
+Institution: Clackamas County Historical Society.
+Catalog ID: **P-542**; other numbers **B.0155.000235 / B-0155-000235**.
+Title/description: **Peerless Bakery, Oregon City, 1921.**
+Date made: **1921**.
+Record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/peerless-bakery-oregon-city-1921.
+Related evidence: `E-351`.
+Notes: Public image is an **interior bakery view**, not a usable Main/Fourth/Fifth/Sixth streetscape. Independent 24 Oct. 1918 Oregon City Courier business-directory evidence places Peerless Bakery (E. Young, proprietor) at **903 7th**, so it is outside the target 4th–6th area and does not provide target-frontage evidence.
