@@ -3512,3 +3512,22 @@ Claims:
 - City / Army Corps / ODOT bridge-construction galleries document the early-1920s construction sequence but do not, from the currently reviewed material, establish a readable 501/503/505 storefront view or exact individual exposure dates.
 Conclusion: the search produced genuine 1921-era visual material but **no newly recovered direct 1921 photograph of the 501/503/505 frontage**. The existing exact-dated **1918 CCHS bluff image** remains the strongest currently preserved pre-fire structural control.
 Classification: **DOCUMENTED / DIRECT** for source/catalog wording; **VISUALLY REVIEWED** where noted; **NO-HIT / INSUFFICIENT VIEW** for a new direct target-frontage photograph.
+
+## E-352 — 1929 Oregon City centennial / OHS negative dating hypothesis
+Type: Cross-source dating lead / explicitly unproved publication-context hypothesis.
+Sources: `S-383`, `S-384`; cross-reference `S-376`, `S-378`.
+Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+Directly established:
+- The *Eugene Register* of **10 November 1929** says the Enterprise had **just** observed the centennial of McLoughlin's founding of Oregon City with a **special edition**.
+- OHS explicitly relates `371N5706` (Hawley mill; number **4** on negative) and `371N5709` (downtown Oregon City; number **5** on negative); both carry institutional date range **1923–1936**.
+- OHS `371N5707` is a McLoughlin House subject in the same identifier neighborhood, also 1923–1936, but OHS does not explicitly relate it to 5706/5709.
+- Oregon Encyclopedia independently reproduces the Hawley mill, downtown 5709 exposure, and McLoughlin House with **c.1930** captions.
+Working hypothesis:
+- the 5706/5709 related pair, and possibly 5707, may have been created for or near the **late-1929 Oregon City centennial publicity cycle** or a related Oregon Journal feature.
+Limits:
+- no recovered 1929 Oregon Journal page publishes these negatives;
+- no recovered Enterprise centennial issue contains them;
+- no original OHS sleeve assigns them to 1929;
+- neighboring identifiers include independently dated 1928 and 1932 subjects, so identifier proximity is not chronological proof.
+Classification: **DOCUMENTED / DIRECT** for the 1929 Enterprise centennial-special-edition existence and OHS catalog relationships; **UNVERIFIED / WORKING HYPOTHESIS** for any link between that special edition/publicity cycle and OHS 371N5706/5707/5709.
+Confidence: High for direct controls; low-to-moderate for the centennial-publicity linkage pending publication/sleeve evidence.
