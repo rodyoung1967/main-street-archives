@@ -137,3 +137,14 @@ The sale and fire reports separate the **Gates restaurant location** from the **
 3. Retrieve the original building permit, plans, assessment change, insurance record, or contractor file for the August 1922 Gates/Junken hollow-tile building; extract frontage, depth, entrances, legal description, and street numbers.
 4. Search September–December 1922 newspapers and the 1923–1924 directory for the first occupants and exact addresses of the two Gates storerooms.
 5. Test the resulting footprint directly against the 1925 Sanborn rather than assigning 501/503 from visual compatibility alone.
+
+## September 2026 interpretation supersession
+
+The **Model A / Model B** discussion above is preserved as research history from the August 2026 stage. It is **superseded for current historical-location reconstruction** by the later integrated fire-frontage work in `timelines/1922-fire-frontage.md`.
+
+Current reconstruction:
+- **501** = Fifth Street Restaurant / Gates corner portion destroyed in the fire and immediately rebuilt — **STRONG CROSS-SOURCE INFERENCE** for the numbered mapping;
+- **503** = Miller shoe-store + vacant former-Schiermann portion, the fire-origin structure — **STRONG CROSS-SOURCE INFERENCE**;
+- **505** = adjoining pool/billiard premises that survived with water damage and partial roof burning — **STRONG CROSS-SOURCE INFERENCE** for the numbered mapping, direct for the damage/survival description.
+
+What remains unresolved is the exact deed/legal boundary and how Gates's **two replacement ground-floor storerooms** map to later numbered rooms. The August articles' **about 1 October 1922** readiness date is a projected occupancy target, not proof that occupancy actually began that day.
