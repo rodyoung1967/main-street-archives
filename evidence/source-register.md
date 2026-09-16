@@ -3244,3 +3244,23 @@ Related research: `MF-031`; `RL-010`; 1926 Kwality advertisement retrieval.
 Repository capture: `evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md`.
 Notes: UO title metadata identifies **Oregon City Enterprise** (LCCN `sn00063700`) as **weekly** and **Morning Enterprise** (LCCN `sn00063701`) as **daily except Monday**, 1911–1933. ODNP explicitly states that E. E. Brodie established the Morning Enterprise daily in 1911 while the weekly continued as Oregon City Enterprise. Therefore for the 1926 microfilm search, use the exact title pair **weekly Oregon City Enterprise + daily Morning Enterprise**. The 2000 survey bibliography's wording “Oregon City Enterprise (daily and weekly newspapers)” is treated as project-level family shorthand, not the exact masthead name of both 1926 runs. This title clarification does not identify the missing Kwality advertisement's issue/date/page.
 
+## S-376 — OHS 371N5709, View of downtown Oregon City, Oregon
+Type: Primary institutional historic photograph / Oregon Journal Photographic Negatives; project-steward supplied image visually reviewed 15 September 2026; institutional metadata independently confirmed online 16 September 2026.
+Institution: Oregon Historical Society. Library.
+Reference code: **371N5709**.
+Title: **View of downtown Oregon City, Oregon**.
+Institutional date: **1923–1936**.
+Institutional description: bluff view with industrial buildings/lumber at left, downtown Oregon City and the Oregon City Bridge at right; the number **5** is written on the negative; OHS says it may be related to **371N5706**.
+Institutional browse: https://digitalcollections.ohs.org/oregon-city
+Related evidence/media/timeline: `E-350` / `IMG-0774` / `T-106`.
+Related buildings: `B-005`, `B-001`, `B-002`.
+Repository capture: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`.
+Notes: later street numbers are not readable. Steward maps the visible frontage to 501/503/505; tentative sign readings at 503/505 remain below direct-transcription confidence. Full binary remains a documented pending-upload technical gap.
+
+## S-377 — Oregon City Elks Lodge #1189 official lodge history
+Type: Official organization history / chronology control.
+URL: https://www.ocelks1189.com/our-lodge-history
+Reviewed: 16 September 2026.
+Related evidence: `E-350`.
+Claims supported: predecessor lodge burned **2 December 1922**; meetings returned to the Masonic Temple; replacement lodge was completed in **1923**; first meeting in the new lodge was **7 December 1923**.
+Limit: this source establishes lodge chronology; photographic identification remains a visual/spatial inference.
