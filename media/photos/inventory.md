@@ -279,7 +279,7 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Source/evidence: `S-311` / `E-283`
 - CCHS: `2008.008.009.016`
 - Date: **1918**
-- Key value: structural-state control for the steward-identified 501/503/505 target frontage; see detailed capture for address-mapping limits.
+- Key value: structural-state control for the steward-identified 501/503/505 target frontage; enlarged 15 Sep. rereview also suggests a standing building mass at the later 503 position. See detailed capture for address-mapping limits.
 
 ### IMG-0770 — CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff
 - File: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`
