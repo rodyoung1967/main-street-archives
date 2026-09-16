@@ -1873,6 +1873,16 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Related buildings: `B-005`, `B-001`, `B-002`
 - Project-steward full image: `IMG_5766.jpeg`; **1536 × 1221**; **809,493 bytes**; SHA-256 `5fd19a849017512ed5025dc1a1ed810984c8ab3f2191175d83f69b6a1223bc04`
 - Project-steward storefront crop: `IMG_5765.jpeg`; **1536 × 706**; **270,092 bytes**; SHA-256 `064eaa1d1c2559cb36e0eb80d941c096948d8b1c0ef664490c078326535d27bd`
+
+- Additional steward-supplied derivative crops from the same exposure, preserved as derivative controls rather than independent sources:
+  - `frontage.png` — **2508 × 1590**, **2,855,974 bytes**, SHA-256 `3acc70cd987e2b80dee1cb45d5c45b759112aa41c8027fe85c2b04a512673fd6`
+  - `left.png` — **2100 × 1500**, **2,272,925 bytes**, SHA-256 `e1dedbc94fe7868e3f7c2511ea69edeb524ae531f41ec4c8252d3a563ea304be`
+  - `signs.png` — **1950 × 960**, **1,295,702 bytes**, SHA-256 `dcd96572d0fcb4f448bd634809a2787ee01f9b83d5e628805eb3a5cb1a0ea368`
+  - `target1.png` — **2450 × 1550**, **2,900,708 bytes**, SHA-256 `1efb1e0345dbbd2c6828ab17565cba9d66ddd962adef65c524fe722d0e220320`
+  - `target2.png` — **2350 × 1350**, **2,533,676 bytes**, SHA-256 `f7416e7c7101685aee23e6cdd8f3b80fe900218826e7903be90c967ed5853f89`
+  - `target3.png` — **2750 × 1500**, **2,963,302 bytes**, SHA-256 `23f7c8672a986da43ee1749561fec13b756e8f64238f70df35c880b3d68aee5b`
+- These are crops/enlargements of OHS 371N5709 supplied during the conversation. They improve inspection convenience but do **not** create new independent evidence or raise the tentative `CAFE` / `BILLIARDS` readings above their existing confidence tier.
+
 - Expected repository file: `media/photos/main-street/IMG-0774_1923-1936-ohs-371n5709-downtown-oregon-city-bluff.jpg`
 - Status: **`pending-upload` — technical connector gap**
 - Visual note: steward maps target frontage to 501/503/505; 503 sign may read `CAFE`, 505 may read `BILLIARDS`; both remain tentative. Bridge-adjacent building is steward-identified as the replacement Elks Lodge.
