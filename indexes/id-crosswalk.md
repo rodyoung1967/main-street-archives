@@ -988,3 +988,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `IMG-0774` / `S-376` / OHS `371N5709` | `E-350` / `T-106` | `B-005`, `B-001`, `B-002` | OHS 1923–1936 bluff view; steward maps 501/503/505; tentative 503 CAFE / 505 BILLIARDS readings; binary pending due technical connector gap. |
 | `S-377` | `E-350` | replacement Elks Lodge context | Official lodge history: predecessor burned 2 Dec. 1922; replacement completed 1923; first meeting 7 Dec. 1923. |
 | `IMG-0770` / `S-312` | `E-284` / `T-104` | `B-001` | 15 Sep. enlarged rereview adds a standing-building observation at the later 503 position; address remains cross-source, not readable. |
+
+## 1921 / immediate pre-fire photograph search — 16 September 2026
+
+| Source | Evidence | Meaning |
+| --- | --- | --- |
+| `S-379` CCFHS `PC050` | `E-351` | Gallery says “Dated April 21, 1921”; image visually reviewed; target 501/503/505 frontage not sufficiently visible; exact exposure-date meaning remains unproved. |
+| `S-380` temporary pedestrian bridge | `E-351` | West Linn Historical Society captions 1921; Old Oregon Photos gives c.1922 for same/closely related exposure; preserve as 1921–1922 until provenance resolves. |
+| `S-381` OHS `376G0143/0144` | `E-351` | Old suspension-bridge negatives, institutional range 1902–1922; potential pre-fire control, not exact 1921. |
+| `S-382` City/Army Corps/ODOT bridge-construction sets | `E-351` | Early-1920s bridge-construction photographs; current online review does not yield a new direct 501/503/505 frontage image. |
