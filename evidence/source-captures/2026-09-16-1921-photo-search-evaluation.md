@@ -115,3 +115,16 @@ Best controls remain:
 3. Inspect all **City / Army Corps / ODOT bridge-construction photographs** at maximum resolution for Fifth/Main background.
 4. Search CCHS CatalogIt by **1921**, **Fifth Street**, **Main Street**, **Fourth Street**, **Sixth Street**, **Bluff**, **bridge construction**, and known 1921 businesses.
 5. Do not use a broad 1902–1922 or 1910–1924 catalog range as proof of a 1921 exposure.
+
+## Additional exact-1921 finds — 16 September 2026 follow-up
+
+### Ralph Eddy B10 — Building the Temporary Bridge at Willamette Falls - 1921
+Old Oregon publishes an explicit **1921** image titled **“Building the Temporary Bridge at Willamette Falls - 1921.”** Its metadata identifies photographer **Ralph Eddy**, says the image is restored from the **original negative courtesy of CCHS**, gives original size **4.3 × 5.4 inches**, and records photographer's number **B10**.
+
+The image itself is bridge/construction-focused and does not provide a readable 501/503/505 frontage. Its greatest research value is provenance: **B10 suggests a numbered Ralph Eddy negative sequence**. Adjacent B-series negatives should be searched for same-project views looking toward Oregon City, especially the Sixth/Fifth/Main background.
+
+### CCHS P-542 — Peerless Bakery, Oregon City, 1921
+CCHS catalogs **P-542**, **“Peerless Bakery, Oregon City, 1921.”**, with Date made **1921** and other number **B.0155.000235 / B-0155-000235**. The public image is an interior bakery photograph. It is therefore exact-year Oregon City photographic evidence but **not a target streetscape image**. Independent 1918 Courier directory evidence places Peerless Bakery at **903 7th**, outside the requested Fourth/Fifth/Sixth target zone.
+
+### Revised search conclusion
+The exact-1921 image pool is now larger, but no newly recovered exact-1921 image yet gives a direct readable view of 501/503/505 Main. The **highest-value next photo route is the Ralph Eddy B-series around B10**, plus maximum-resolution inspection of the interim footbridge images whose location was near Sixth Avenue.
