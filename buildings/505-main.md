@@ -74,3 +74,8 @@ Do not assign a single proven construction year to the surviving 505 building. C
 - Recover primary deed/probate records for the later Wiitanen→Young ownership succession when practical.
 
 Detailed evidence IDs and older research history remain preserved in the evidence/source-capture records and git history; this building record is intentionally updated so the current conclusions are easy to find.
+
+## OHS 371N5709 — post-fire billiards-sign consistency
+OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936**. Steward spatial mapping places the later 505 position within the visible frontage.
+The enlarged 505 storefront sign is **possibly `BILLIARDS`**, below secure transcription resolution. The independent 1925 Sanborn maps 505 as **billiards/cigars**, making the reading cross-source consistent.
+Do not describe the 505 structure in this photograph as necessarily newly built after the fire; the current July 1922 reconstruction says the adjoining 505 pool/billiard premises survived with water damage and partial roof burning.
