@@ -3510,6 +3510,10 @@ Claims:
 - West Linn Historical Society captions the interim pedestrian bridge image **1921**, while Old Oregon Photos labels what appears to be the same or a closely related exposure **c.1922**. Treat the photograph as **bridge-construction-era 1921–1922** until original-negative metadata resolves the conflict.
 - OHS `376G0143` and `376G0144` are institutional old-suspension-bridge controls dated **1902–1922**, not exact 1921 images.
 - City / Army Corps / ODOT bridge-construction galleries document the early-1920s construction sequence but do not, from the currently reviewed material, establish a readable 501/503/505 storefront view or exact individual exposure dates.
+Additional exact-year findings:
+- Old Oregon publishes **“Building the Temporary Bridge at Willamette Falls - 1921”**, restored from a CCHS original negative; metadata identifies **Ralph Eddy**, original-negative size 4.3 × 5.4 inches, photographer number **B10**. The frame is bridge/construction-focused and does not yield a readable target frontage, but B10 creates a high-value adjacent-negative research route.
+- CCHS **P-542**, **“Peerless Bakery, Oregon City, 1921.”**, is institutionally dated 1921. The public image is an interior and therefore does not show the target streetscape; separate 1918 directory evidence places the bakery at 903 7th.
+
 Conclusion: the search produced genuine 1921-era visual material but **no newly recovered direct 1921 photograph of the 501/503/505 frontage**. The existing exact-dated **1918 CCHS bluff image** remains the strongest currently preserved pre-fire structural control.
 Classification: **DOCUMENTED / DIRECT** for source/catalog wording; **VISUALLY REVIEWED** where noted; **NO-HIT / INSUFFICIENT VIEW** for a new direct target-frontage photograph.
 
