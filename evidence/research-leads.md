@@ -575,3 +575,11 @@ Research priority shifts from asking whether Well's survived into the early 1960
 ### 13 September 2026 — 1922 pool-room ordinance specifies the missing record fields
 
 Complete January–February local-newspaper review (`E-346`) verifies that the 1922 ordinance required an applicant and the published notice to state the **particular place** of the pool/billiard room, required Council approval and a $500 bond, and barred transfer without Council consent. This makes `MF-013` a more precise premises-level retrieval: seek all 1922 petitions, two-week published notices, bonds, license entries, resolutions/approvals, refusals and transfer consents, not merely Council-minute name hits. The reviewed ordinance pages name no operator or address and do not bridge A. Leland, Timms, Leland & Little, 505/505½ or the July fire-adjacent hall.
+
+### 16 September 2026 — exact/pre-fire 1921 photograph leads
+Prioritize:
+1. **CCFHS PC050** — “Section of Oregon City from the Bridge, Mt. Hood in distance,” explicitly **dated April 21, 1921**.
+2. **West Linn Historical Society** interim pedestrian bridge image captioned **1921**, from the Oregon City/West Linn bridge-construction sequence.
+3. **OHS 379G0008** and related 379G0002–0012 / 0017 Oregon City negatives, institutionally dated **1910–1924**; inspect related frames for cityscape background.
+4. **Oregon City Main Street 1920.jpg** public-domain/secondary circa-1920 comparison lead; trace original provenance before treating the date as exact.
+Goal: find a clearly pre-fire exposure showing the 501/503/505 frontage well enough to compare with P-9594, P-267 and OHS 371N5709.
