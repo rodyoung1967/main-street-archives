@@ -2902,8 +2902,8 @@ Source: `S-312`; media `IMG-0770`; capture `evidence/source-captures/p-267-1924-
 Type: Primary institutional photographic evidence with project-steward spatial annotation.  
 Claims:
 - The 1924-1928 photograph directly documents the later Arch Bridge-era downtown streetscape; the project steward identifies the target 501/503/505 area.
-- The steward identifies the new/replacement 501 state and materially changed/replacement neighboring 503/505-area structures compared with 1918; the date range prevents an exact construction year from being inferred.
-- No 501/503/505 address number is readable in the image itself; individual target-bay identification is not treated as source-explicit numbering.
+- The steward identifies the new/replacement 501 state and materially changed/replacement neighboring 503/505-area structures compared with 1918; enlarged 15 September rereview also identifies a **standing building mass at the later-numbered 503 position**. The date range prevents an exact construction year from being inferred.
+- No 501/503/505 address number is readable in the image itself; the 503 observation and individual target-bay mapping remain steward-attributed plus cross-source rather than source-explicit numbering.
 Classification: **DOCUMENTED / DIRECT** for photographed streetscape; **ATTRIBUTED STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered bay mapping and comparative facade interpretation.  
 Confidence: **Very High** for object/image/date metadata; High for broad target-row comparative structural state; exact individual construction dates unresolved.  
 Related buildings: `B-005`, `B-001`, `B-002`.
@@ -3484,3 +3484,17 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for the printed Fifth/Main call and Main Street-light project; **INTERSECTION/PUBLIC-REALM CONTEXT ONLY** for 501/503/505; **NO IDENTITY BRIDGE** from Farr Bros. slaughter house to the later 505 pool-hall chain.  
 Confidence: **Very High** for the visually verified municipal wording; exact premises for the fire call unresolved.
 
+## E-350 — OHS 371N5709 post-fire Fifth/Main frontage, replacement-Elks control, and tentative 503/505 sign readings
+Type: Primary institutional photograph + project-steward visual/spatial annotation + cross-source comparison.
+Sources: `S-376`, `S-377`; cross-reference `E-020` / `S-021` (1925 Sanborn).
+Media: `IMG-0774` (pending binary ingest).
+Timeline: `T-106`.
+Capture: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`.
+Claims:
+- OHS catalogs `371N5709` as **1923–1936** and directly depicts downtown Oregon City and the completed Oregon City Bridge from the bluff.
+- The project steward identifies the bridge-adjacent building as the **replacement Elks Lodge**. Official Elks history says the predecessor burned 2 Dec. 1922 and the replacement was completed in 1923, with first meeting there 7 Dec. 1923.
+- The steward maps the visible odd-numbered frontage to **501 / 503 / 505 Main**. No street number is readable.
+- At **503**, the storefront sign appears compatible with **CAFE**; at **505**, a longer sign is possibly **BILLIARDS**. Both remain **tentative visual readings**, not direct transcriptions.
+- The independent 1925 Sanborn maps **503 as restaurant** and **505 as billiards/cigars**, making the readings cross-source consistent without forcing the pixels.
+- Do **not** date this photograph by comparing the visible lower Third/Fourth-area Railroad Avenue condition with the 1929 Fifth–Seventh municipal improvement; the same competent segment is not visible.
+Classification: **DOCUMENTED / DIRECT** for OHS object/date range/streetscape; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered frontage mapping and replacement-Elks identification; **TENTATIVE VISUAL READING** for CAFE/BILLIARDS.
