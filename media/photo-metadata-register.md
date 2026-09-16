@@ -1814,6 +1814,7 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Related source/evidence/timeline: `S-312` / `E-284` / `T-104`
 - Related buildings: `B-005`, `B-001`, `B-002`
 - Interpretation limit: later street numbers are not readable; target-bay mapping and comparative facade reading are steward-attributed plus cross-source geometry.
+- 15 Sep. 2026 enlarged rereview: the later-numbered **503 position appears to contain a standing building mass**. This is not a source-explicit address reading; the 1925 Sanborn remains the tighter by-1925 structural/use control.
 - Review: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`
 
 
@@ -1861,3 +1862,19 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Public CCHS record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-main-street-9
 - Dating evidence: completed 1922 arch bridge; bridge-adjacent building strongly consistent with the 1923 replacement Elks Lodge; Railroad Avenue visually consistent with the documented 1929 improvement; old courthouse still standing, before its 1936–37 replacement.
 - Photographer: Ralph Eddy **probable**, based on visible `Eddy` mark; not promoted to institutional attribution without catalog confirmation.
+
+## IMG-0774 — OHS 371N5709 — View of downtown Oregon City, Oregon
+- Type: Historic elevated/bluff photograph / Oregon Journal Photographic Negatives
+- Institution: Oregon Historical Society
+- OHS reference code: **371N5709**
+- OHS title: **View of downtown Oregon City, Oregon**
+- OHS date: **1923–1936**
+- Source/evidence/timeline: `S-376` / `E-350` / `T-106`
+- Related buildings: `B-005`, `B-001`, `B-002`
+- Project-steward full image: `IMG_5766.jpeg`; **1536 × 1221**; **809,493 bytes**; SHA-256 `5fd19a849017512ed5025dc1a1ed810984c8ab3f2191175d83f69b6a1223bc04`
+- Project-steward storefront crop: `IMG_5765.jpeg`; **1536 × 706**; **270,092 bytes**; SHA-256 `064eaa1d1c2559cb36e0eb80d941c096948d8b1c0ef664490c078326535d27bd`
+- Expected repository file: `media/photos/main-street/IMG-0774_1923-1936-ohs-371n5709-downtown-oregon-city-bluff.jpg`
+- Status: **`pending-upload` — technical connector gap**
+- Visual note: steward maps target frontage to 501/503/505; 503 sign may read `CAFE`, 505 may read `BILLIARDS`; both remain tentative. Bridge-adjacent building is steward-identified as the replacement Elks Lodge.
+- Railroad caution: do not use visible lower Third/Fourth-area Railroad Avenue condition as a proxy for the 1929 Fifth–Seventh improvement.
+- Review: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`
