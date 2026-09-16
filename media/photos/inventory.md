@@ -310,3 +310,11 @@ The validator now checks that every committed raster has an exact-path entry in 
 - Project working date: **circa 1929–1935** (not institutional metadata)
 - Key value: broad downtown/bridge/Railroad Avenue/courthouse visual control; supports the 1929–1935 dating analysis.
 - Review: `evidence/source-captures/2026-09-15-eddy-bluff-photo-1929-1935-metadata-challenge-and-ohs-followup.md`
+
+### IMG-0774 — OHS 371N5709, View of downtown Oregon City, Oregon
+- Expected file: `media/photos/main-street/IMG-0774_1923-1936-ohs-371n5709-downtown-oregon-city-bluff.jpg`
+- Source/evidence/timeline: `S-376` / `E-350` / `T-106`
+- OHS date: **1923–1936**
+- Status: **pending-upload — technical connector gap**
+- Key value: early post-fire visual control of the 501/503/505 frontage; replacement-Elks dating control; tentative 503 `CAFE` / 505 `BILLIARDS` sign readings cross-check against the 1925 Sanborn.
+- Limit: no readable street numbers; sign transcriptions remain tentative; lower Railroad Avenue visible in the frame is not used to date the image from the 1929 Fifth–Seventh project.
