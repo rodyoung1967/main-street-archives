@@ -368,3 +368,10 @@ New CCHS photographic evidence (`E-283`, `E-284`) plus the 1925 Sanborn tightens
 CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) is exact-dated **1960**. Steward-led enlarged re-review reads the vertical 505 Main sign as **WELLS**. Combined with the independently preserved 1953 **“Well's Recreation”** directory synthesis (`S-284` / `E-257`), the project now anchors Wells / Well's Recreation at 505 in the 1960 photographed state.
 
 The unresolved question is therefore narrower: **who operated/licensed 505 in 1960, and when/how did the public/business identity change from Wells / Well's Recreation to 505 Tavern by the exact 11 November 1965 municipal record (`E-029`)?** Do not infer the proprietor, a sale, or uninterrupted 1953–1960 operation from the sign alone.
+
+## 16 September 2026 — OHS 371N5709 sign/master-image questions
+1. Can the largest OHS/master derivative of **371N5709** resolve the tentative **503 CAFE** and **505 BILLIARDS** readings?
+2. Can the replacement-Elks visual identification be confirmed against another dated exterior/footprint photograph?
+3. Can a dated 1921/pre-fire bluff or Fifth/Main photograph clearly show 501/503/505 before July 1922?
+4. Does any source directly date the standing 503 post-fire structure earlier than the **1925 Sanborn**?
+5. Keep the lower Railroad Avenue in 371N5709 out of the 1929 Fifth–Seventh dating argument unless the same segment is demonstrated.
