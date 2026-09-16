@@ -596,3 +596,8 @@ Current result:
 - City/Army Corps/ODOT bridge-construction photos remain worth maximum-resolution inspection but no direct target-frontage hit has been established.
 
 Next research should therefore concentrate on **master-resolution recovery / reverse metadata**, not repeat generic keyword searches already performed. Highest-value unresolved item is the exact meaning of PC050's “Dated April 21, 1921” and whether any bridge-construction master contains usable Fifth/Main background.
+
+### 16 September 2026 — Ralph Eddy B10 bridge-negative sequence
+New exact-1921 lead `S-385`: Old Oregon's **Building the Temporary Bridge at Willamette Falls - 1921** is credited to **Ralph Eddy**, restored from a CCHS original negative, photographer number **B10**.
+
+Highest-value next step: search CCHS / Old Oregon / related Eddy holdings for **B-series negatives immediately around B10** (for example B1–B20, without assuming all are same-day) and inspect any Oregon City/bridge frames for views toward Fourth, Fifth, Sixth, Main, or the bluff. This provenance-driven search is now more promising than repeating generic “Oregon City 1921” keyword searches.
