@@ -1876,5 +1876,6 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Expected repository file: `media/photos/main-street/IMG-0774_1923-1936-ohs-371n5709-downtown-oregon-city-bluff.jpg`
 - Status: **`pending-upload` — technical connector gap**
 - Visual note: steward maps target frontage to 501/503/505; 503 sign may read `CAFE`, 505 may read `BILLIARDS`; both remain tentative. Bridge-adjacent building is steward-identified as the replacement Elks Lodge.
+- Secondary date clue: Oregon Encyclopedia reproduces the **same exposure** as **“Oregon City, c. 1930”**, crediting OHS Journal `371A5709`; treat c.1930 as secondary and preserve the A/N identifier discrepancy unresolved.
 - Railroad caution: do not use visible lower Third/Fourth-area Railroad Avenue condition as a proxy for the 1929 Fifth–Seventh improvement.
 - Review: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`
