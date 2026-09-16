@@ -3264,3 +3264,15 @@ Reviewed: 16 September 2026.
 Related evidence: `E-350`.
 Claims supported: predecessor lodge burned **2 December 1922**; meetings returned to the Masonic Temple; replacement lodge was completed in **1923**; first meeting in the new lodge was **7 December 1923**.
 Limit: this source establishes lodge chronology; photographic identification remains a visual/spatial inference.
+
+## S-378 — Oregon Encyclopedia reproduction of OHS 371N5709
+Type: Secondary historical encyclopedia image caption / reproduction; **VISUALLY COMPARED 16 September 2026**.
+URL: https://www.oregonencyclopedia.org/articles/oregon-city/
+Caption: **“Oregon City, c. 1930.”**
+Credit printed by Oregon Encyclopedia: **Oregon Historical Society Research Library, Journal, 371A5709**.
+Related source/evidence/media: `S-376` / `E-350` / `IMG-0774`.
+Notes:
+- The reproduced image is visually the **same exposure** as OHS `371N5709` / the steward-supplied photograph.
+- Oregon Encyclopedia gives the more specific secondary date **c. 1930**.
+- Preserve the identifier discrepancy exactly as printed: Oregon Encyclopedia credits `371A5709`, while the current OHS Digital Collections catalog uses `371N5709`. Do not silently normalize A→N without an institutional explanation.
+- Treat c.1930 as a **secondary dating clue**, not as a replacement for OHS's institutional 1923–1936 creation range.
