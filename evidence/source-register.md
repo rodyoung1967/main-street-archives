@@ -745,8 +745,8 @@ Repository PDF: `newspapers/oregon-city-enterprise/1922-08-18-page-5-gates-fire-
 Type: Primary newspaper post-fire construction and property evidence; **visually verified full-page scan**.
 Related evidence: `E-097`, `E-108`; cross-reference `E-096`, `E-103`
 Repository source capture: `evidence/source-captures/1922-harding-wolf-gates-sale-and-rebuild.md`
-Steward-upload duplicate: `501 Main st (new Building) Oregon City enterprise., August 18, 1922, Page Page five, Image 5.pdf` is byte-for-byte identical to the repository PDF; SHA-256 `eb951886bcf06817db94368d3634d08848bcdab99e886c0ce5e73b4c1d7d6348` (843509 bytes). No duplicate binary or ID created.
-Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. No street numbers or dimensions are given.
+Steward-upload duplicates: `501 Main st (new Building) Oregon City enterprise., August 18, 1922, Page Page five, Image 5.pdf` and `Oregon City enterprise., August 18, 1922, Page 5 (new building 501).pdf` are byte-for-byte identical to the repository PDF; SHA-256 `eb951886bcf06817db94368d3634d08848bcdab99e886c0ce5e73b4c1d7d6348` (843509 bytes). No duplicate binary or ID created.
+Notes: Reports a two-story hollow-tile building on C. E. Gates's Fifth/Main corner property replacing the fire-destroyed Fifth Street Restaurant building. Two ground-floor storerooms were planned—one leased for a barber shop—plus upper residential rooms; R. A. Junken was contractor. The article explicitly says the building was expected to be ready for occupancy about **1 October 1922**. This is a projected readiness date, not proof that occupancy actually began on that date. No street numbers or dimensions are given.
 
 ## S-114 — Oregon City Permit Log, BB-16-0534, 3 October 2016
 Source/location: https://www.orcity.org/DocumentCenter/View/726/October-3-2016-to-October-7-2016-PDF

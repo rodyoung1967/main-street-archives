@@ -50,7 +50,7 @@ Five days later the Fifth/Main fire destroyed the Fifth Street Restaurant. Read 
 
 The **503 Main** structure is separately reconstructed as Gilbert Miller's shoe-store premises plus a vacant half/portion formerly occupied by Alex Schiermann's tailor shop, where the fire began. The adjoining **505 Main** pool/billiard premises survived with water damage and partial roof burning and was credited as saved by fireproof construction. Thus **501 is no longer an equal live candidate for the Wolf-owned ignition building**.
 
-On **17–18 August 1922**, visually verified reports identify Gates as owner of the Fifth/Main corner site and describe a **two-story hollow-tile replacement with two ground-floor storerooms** (`E-097` / `S-112`–`S-113`). The replacement's exact later-number footprint remains unresolved: do not assume without deed/plan evidence that the two storerooms map exactly to later 501+503.
+On **17–18 August 1922**, visually verified reports identify Gates as owner of the Fifth/Main corner site and describe a **two-story hollow-tile replacement with two ground-floor storerooms** (`E-097` / `S-112`–`S-113`). Both reports say the building was expected to be ready for occupancy about **1 October 1922**; treat that as a projected readiness date, not proof that occupancy actually began then. The replacement's exact later-number footprint remains unresolved: do not assume without deed/plan evidence that the two storerooms map exactly to later 501+503.
 
 Ownership/operation controls:
 
