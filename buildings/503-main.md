@@ -299,3 +299,8 @@ The newly integrated CCHS 1918 bluff photograph (`S-311` / `E-283` / `IMG-0769`)
 The strongest combined conclusion (`E-285`) is that the frontage underwent **material physical replacement/reconfiguration after the photographed 1918 state and by 1925**. For 503 Main, this narrows the structural-history search but does not prove an exact construction year, single building campaign, ownership, builder, or 1922-fire causation. The c.1919/c.1920 historic-survey estimates remain estimates, not primary event dates.
 
 At the later 505 position specifically, the steward identifies the 1918 upper false-front/parapet as already partly lowered/removed relative to the earlier predecessor roofline; that individual-bay reading remains steward-attributed plus cross-source rather than a directly readable street-number assignment.
+
+## OHS 371N5709 — post-fire frontage control
+OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936**. Steward spatial mapping places a **standing building mass at the later 503 Main position**.
+The 503 storefront sign appears compatible with **CAFE**, but not strongly enough for direct transcription. The independent 1925 Sanborn maps 503 as a **restaurant**, making the reading cross-source consistent.
+This image adds an early post-fire structural/use-consistency control but does not by itself date the 503 rebuild. Do not use the lower Railroad Avenue visible in the frame as a proxy for the City's 1929 Fifth–Seventh improvement.
