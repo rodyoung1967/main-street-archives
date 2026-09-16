@@ -35,6 +35,8 @@ Current visual reading:
 
 CAFE and BILLIARDS remain **tentative visual readings**, not direct transcriptions. The independent 1925 Sanborn maps 503 as restaurant and 505 as billiards/cigars, making the readings cross-source consistent without forcing uncertain pixels.
 
+A new secondary date control was found after the initial handoff: **Oregon Encyclopedia reproduces the same exposure** and captions it **“Oregon City, c. 1930.”** Its printed credit is “Oregon Historical Society Research Library, Journal, 371A5709,” while the current OHS Digital Collections record is `371N5709`. Preserve that A/N discrepancy unresolved. Treat circa 1930 as a useful **secondary dating clue**, not a replacement for the OHS institutional 1923–1936 range.
+
 The image appears to show standing post-fire structures at the later 501/503/505 positions. Do **not** call all three buildings new:
 - 501 is the Gates fire-replacement corner building in the current reconstruction;
 - 503 is the later replacement/reconfigured position of the Miller/former-Schiermann origin structure;
