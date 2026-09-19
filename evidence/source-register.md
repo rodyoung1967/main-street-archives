@@ -3357,3 +3357,18 @@ Repository capture: `evidence/source-captures/1912-courier-february09-visual-rev
 Related evidence/business/lead: `E-353`; `BUS-108`; `RL-053`.  
 Notes: The scan visibly reports Cox & Ward as Main Street tobacco dealers and billiard-room proprietors, the dissolution of their partnership, and Mr. Ward's sale to his partner. Exact street number and given names are not printed. No repository page binary was added in this connector-only pass; the stable institutional original was inspected directly.
 
+## S-388 — Oregon City Courier, 1 and 8 March 1912 — Steiner/Beaver Creek correction and complete issue review
+Type: Primary newspaper pages; original University of Oregon Historic Oregon Newspapers scans **VISUALLY VERIFIED 19 September 2026**.  
+Dates/issues: *Oregon City Courier*, **1 March 1912** and **8 March 1912**, all 8 archive sequences in each issue.  
+Canonical issues:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-01/ed-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-08/ed-1/
+
+Identity-control comparison pages also visually inspected:
+- 26 February 1914, p.7: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/
+- 5 March 1914, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-03-05/ed-1/seq-5/
+
+Repository capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`.  
+Related evidence: `E-354`.  
+Notes: 1 March prints “F. Steiner, of this place” under a column headed Clear Creek and then calls him Fred. The 8 March issue explicitly corrects the prior week's heading error, stating the Beaver Creek items had been printed under Clear Creek; its corrected Beaver Creek column directly names Fred Steiner. The 1914 pages independently place Fred Steiner as a Beaver Creek resident. This is identity/location control only; it does not prove or disprove identity with the probable Fred Steiner tenant transcription at 503½ Main.
+
