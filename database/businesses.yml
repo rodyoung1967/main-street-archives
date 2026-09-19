@@ -1374,3 +1374,19 @@ businesses:
     related_people: [P-403]
     related_evidence: [E-355]
     related_sources: [S-389]
+
+# 19 September 2026 — 1912 Star Theatre control
+  - id: BUS-110
+    name: Star Theatre
+    repository_file: businesses/star-theatre-1912.md
+    address: "1912: Main Street at/near Eighth; exact numbered bay unresolved"
+    notes: >-
+      February 1912 Courier directly reports the Main/Eighth Mt. Hood Brewing Co.
+      redevelopment would contain a moving-picture theatre already leased by George
+      Simmons. May 24 says a new Main Street motion-picture theatre was nearly ready;
+      May 31 Morning Enterprise directly names the Star Theatre under Simmons opening
+      June 1 near Eighth. Strong same-project continuity. Explicitly non-target for
+      501/503/505. Later 716-vs-720 Main address metadata conflict remains unresolved.
+    related_evidence: [E-357]
+    related_sources: [S-391]
+
