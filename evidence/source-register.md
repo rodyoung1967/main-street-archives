@@ -3390,3 +3390,16 @@ Related evidence: `E-356`.
 Related capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
 
 Notes: The Help Wanted—Male classifieds directly print **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** Preserve the initial exactly as printed. The source gives no street address, full given name, shop trade name, or relation to 503 Main.
+
+## S-391 — 1912 Main/Eighth moving-picture block → Star Theatre opening chain
+Type: Primary newspaper construction/opening evidence + university research-project clipping control; **VISUALLY VERIFIED where noted**.  
+
+Primary components:
+- *Oregon City Courier*, **2 February 1912**, p.1: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-02/ed-1/seq-1/ — direct Main/Eighth Mt. Hood Brewing Co. lease/redevelopment article; planned moving-picture theatre; George Simmons already held long-term theatre lease.
+- *Oregon City Courier*, **24 May 1912**, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-24/ed-1/seq-5/ — original scan visually verified; unnamed new motion-picture theatre on Main Street nearly ready to open.
+- *Morning Enterprise*, **31 May 1912**, p.3, “STAR THEATRE WILL OPEN TOMORROW” — primary clipping visually reviewed via the University of Oregon Oregon Theater Project: https://oregontheaterproject.uoregon.edu/theaters/star-theater-4 ; clipping image hosted there. The clipping directly names George Simmons, says the building was on Main Street near Eighth, constructed especially for motion pictures, seating 300, and would open the next evening.
+
+Repository capture: `evidence/source-captures/1912-courier-may24-visual-review-star-theatre-2026-09-19.md`.  
+Related evidence/business: `E-357`; `BUS-110`.  
+Notes: The May 24 unnamed-theatre notice is a **strong cross-source continuity match** to the February Main/Eighth planned theatre and the May 31 Star opening, but the May 24 item itself does not print the Star name or Simmons. Later numbered-address sources conflict (716 vs 720 Main); the controlling 1912 location is Main at/near Eighth.
+
