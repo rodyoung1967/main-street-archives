@@ -375,3 +375,10 @@ The unresolved question is therefore narrower: **who operated/licensed 505 in 19
 3. Can a dated 1921/pre-fire bluff or Fifth/Main photograph clearly show 501/503/505 before July 1922?
 4. Does any source directly date the standing 503 post-fire structure earlier than the **1925 Sanborn**?
 5. Keep the lower Railroad Avenue in 371N5709 out of the 1929 Fifth–Seventh dating argument unless the same segment is demonstrated.
+
+
+### 19 September 2026 — water-ledger identity questions
+<!-- 2026-09-19-water-ledger-high-resolution-rereview -->
+- **Who was Fred Steiner at 503½ Main?** High-resolution steward rereview supports Fred Steiner as the tenant-name transcription at the 503½ Barber Shop in Book 3, with compatible Book 4 handwriting. Resolve his full identity, barber/business role, and whether he is distinct from the Fred Steiner documented in Beaver Creek/Beavercreek.
+- **What are Pollock's initials at 501 Main in Book 4?** The surname Pollock and Fifth Street Restaurant annotation are strong visual readings, but the initials remain unclear. Test continuity to later W. W. Pollock without assuming identity.
+- **Who was the 503 Main tenant?** Enlarged ledger handwriting remains unresolved; Hylton and Schiermann are not accepted transcriptions from this image.
