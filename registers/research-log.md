@@ -1322,3 +1322,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Focused primary-source follow-up created `BUS-109` / `P-403` / `S-389` / `E-355`: Justin S. Lageson directly proprietor of Oregon City Shoe Store in 1910; exact 508 Main by 26 Apr. 1912. This separates it from C. Schoenheinz's 716 Main Old Reliable Oregon City Shoe Shop.
 - Visually verified the 10 Sep. 1920 Morning Oregonian classified **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** as `S-390` / `E-356`, superseding the prior OCR-only state. K. remains unresolved, not normalized.
 - 1912 remains **IN PROGRESS**. Next Courier issue: **12 Apr. 1912**.
+
+## 19 September 2026 — 1912 Courier 26 April
+
+- Re-synced to current main after parallel Schoenheinz/1912 annual-audit commits; no newer work was overwritten.
+- Visually reviewed **26 Apr. 1912 Courier 8/8**.
+- Preserved the sequence-4 header contamination: visible **Morning Enterprise, Friday, April 19, 1912** strip over an underlying Courier editorial body whose post-primary content establishes an intended date after April 19. The actual 19 Apr. Courier p4 is a different page.
+- No new 501/503/505/507/509/511 historical fact was found. Existing **Oregon City Shoe Store, 508 Main** evidence on p8 remains S-389/E-355 and was not duplicated.
+- 1912 remains **IN PROGRESS**. Next issue: **3 May 1912**, with its known pagination/retrieval defect to resolve first.
+
