@@ -3564,4 +3564,18 @@ Claims:
 - They do **not** establish whether the Beaver Creek resident and the probable Fred Steiner tenant transcription at 503½ Main are the same or different individuals. A Beaver Creek resident could have worked or operated a business in Oregon City.
 Classification: **DOCUMENTED / DIRECT** for the newspaper wording, the 8 March correction, and rural-residence context; **UNRESOLVED / DO NOT MERGE** for identity with the 503½ tenant.  
 Confidence: Very High for the visually verified newspaper wording; none for a barber-shop identity bridge.
+## E-355 — Oregon City Shoe Store / Lageson / 508 Main business separation
+Type: Primary newspaper business/address evidence; **VISUALLY VERIFIED**.  
+Source: `S-389`.  
+Related: `BUS-109`; `P-403`.
 
+Claims:
+- 28 Jan. 1910 advertising directly pairs **Oregon City Shoe Store** with **Justin S. Lageson** and **Opposite Postoffice**.
+- 1 Apr. 1910 advertising directly identifies **Justin S. Lageson, Prop.** of Oregon City Shoe Store on Main Street.
+- 26 Apr. 1912 advertising directly places **Oregon City Shoe Store at 508 Main St., Opposite Postoffice**.
+- The 26 Apr. 1912 ad does not name Lageson; uninterrupted 1910–1912 proprietorship remains unresolved.
+- Separate 1911 primary evidence places **C. Schoenheinz, proprietor**, of the **Old Reliable Oregon City Shoe Shop** at **716 Main between Sixth and Seventh**.
+- Therefore the generic Oregon City Shoe Store ads in the March/April 1912 annual audit must not be used as Schoenheinz/503 evidence without a later direct transfer or identity bridge.
+
+Classification: **DOCUMENTED / DIRECT** for Lageson's 1910 proprietorship and the 1912 exact 508 address; **UNRESOLVED** for continuous ownership; **SEPARATE BUSINESS CONTROL** versus the Schoenheinz shop.  
+Confidence: Very High for scan-visible wording.
