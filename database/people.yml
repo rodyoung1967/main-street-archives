@@ -1305,3 +1305,17 @@ people:
     related_businesses: []
     related_evidence: [E-282]
     related_sources: [S-310]
+- id: P-403
+    name: Justin S. Lageson
+    role: Oregon City Shoe Store proprietor
+    notes: >-
+      Direct 1 April 1910 newspaper advertising identifies Justin S. Lageson
+      as proprietor of Oregon City Shoe Store on Main Street; 28 January 1910
+      advertising also pairs his name with the store and says Opposite
+      Postoffice. The 26 April 1912 store advertisement gives exact 508 Main
+      but does not name Lageson, so continuous proprietorship is unresolved.
+      Keep separate from C. Schoenheinz's Old Reliable Oregon City Shoe Shop.
+    related_businesses: [BUS-109]
+    related_evidence: [E-355]
+    related_sources: [S-389]
+    repository_file: people/profiles/justin-s-lageson.md
