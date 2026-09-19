@@ -329,3 +329,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | 28 Nov. 1919 | 520–22 Main | B. J. Staats Hardware Co. | `BUS-079` | `E-278` | Selling-out ad; conflicts with December CCHS catalog address 516 Main. Does not prove final closure. |
 | 19 Dec. 1919 | Fifth and Main, number not printed | Portland House | — | `E-279` | Mr. and Mrs. Beck named owners; frame structure and adjoining frame buildings; not assigned to 501/503/505. |
 <!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+## 9 February 1912 — Cox & Ward Main Street billiard/tobacco dissolution
+<!-- 1912 Cox Ward dissolution — 2026-09-19 -->
+
+| Date | Address / location | Business / event | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 9 Feb. 1912 | Main Street, Oregon City; exact number not printed | Cox & Ward tobacco dealers / billiard-room proprietors (`BUS-108`); partnership dissolved; Mr. Ward sold to his partner | `E-353` / `S-387` | No given names or numbered premises. Do not connect to H. H. Smith at 503, F. D. Cox in 1919, or later 505 billiard/pool businesses without a direct identity/address bridge. |
+
