@@ -29,3 +29,16 @@ Detailed capture: `evidence/source-captures/1912-courier-february09-visual-revie
 These are coverage findings, not vacancy/non-use evidence. No new entity or claim-level fact was manufactured.
 
 **Current chronological Courier resume point: 16 February 1912, sequence 1.** This supersedes the earlier 2 February resume instruction while preserving the earlier checkpoint as research history. **1912 remains IN PROGRESS.**
+
+## 19 September 2026 — 16 February completion and 9 February Cox & Ward addendum
+
+- **16 February 1912: 8/8 VISUALLY VERIFIED.** All eight original archive page scans were inspected. No direct 501/503/505/507/509/511 historical fact was identified.
+- Page 6 repeats Williams Bros. Transfer Co. in Favorite Cigar Store **opposite Masonic Building**, reinforcing the 9 February geographic exclusion from the target block.
+- Non-target exact/relative address controls include Straight & Salisbury at **720 Main**, Merrill & Cave at **9th and Main**, F. C. Gadke at **914 Main**, and Larsen & Company at **10th and Main**. These are retained as screening context only.
+- A later focused re-review of **9 February p.5** identified a separate useful business-transition item omitted from the first issue summary: **Cox & Ward**, Main Street tobacco dealers and billiard-room proprietors, dissolved partnership and Mr. Ward sold to his partner. This is registered as `S-387` / `E-353` / `BUS-108`; exact number and identities remain open under `RL-053`.
+- The Cox & Ward record is **not** evidence that they occupied 503 or 505 Main and is not merged with H. H. Smith or later Cox/pool-hall records.
+
+Detailed 16 February capture: `evidence/source-captures/1912-courier-february16-visual-review-2026-09-19.md`.
+
+**Current chronological Courier resume point: 23 February 1912, sequence 1.** **1912 remains IN PROGRESS.**
+
