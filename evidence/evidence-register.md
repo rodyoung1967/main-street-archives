@@ -3535,3 +3535,20 @@ Limits:
 - neighboring identifiers include independently dated 1928 and 1932 subjects, so identifier proximity is not chronological proof.
 Classification: **DOCUMENTED / DIRECT** for the 1929 Enterprise centennial-special-edition existence and OHS catalog relationships; **UNVERIFIED / WORKING HYPOTHESIS** for any link between that special edition/publicity cycle and OHS 371N5706/5707/5709.
 Confidence: High for direct controls; low-to-moderate for the centennial-publicity linkage pending publication/sleeve evidence.
+
+## E-353 — 9 February 1912 Cox & Ward Main Street billiard/tobacco partnership dissolution
+Type: Primary newspaper business-transition evidence; **VISUALLY VERIFIED**.  
+Source: `S-387` — *Oregon City Courier*, 9 February 1912, p.5.  
+Related business: `BUS-108`.  
+Research lead: `RL-053`.  
+Claims:
+- The page directly identifies **Cox & Ward** as **tobacco dealers and billiard-room proprietors of Main Street** in Oregon City.
+- It directly reports that the partnership **dissolved**, with **Mr. Ward selling to his partner**.
+- It reports Ward had been in poor health and that the indoor occupation had not agreed with him.
+- The source prints **no street number** and no given name for Cox or Ward.
+- The firm style supports only that the partnership was styled Cox & Ward; it does not by itself establish the remaining partner's full identity, successor trade name, duration of continued operation, property ownership, or license transfer.
+- The timing and business type make comparison with H. H. Smith's March 1912 503 Main pool-hall application a useful research lead, but **no source currently connects Cox & Ward to 503 Main**.
+- Do not merge this business with **F. D. Cox's 1919 billiard parlors** or any 505 Main pool-hall/billiard chain without an independent identity/address bridge.
+Classification: **DOCUMENTED / DIRECT** for the Main Street business type, partnership dissolution and Ward-to-partner sale wording; **UNRESOLVED** for exact address, individual identities and successor continuity.  
+Confidence: **Very High** for the visually verified printed wording; none for a 503/505 assignment.
+
