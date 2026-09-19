@@ -1331,3 +1331,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - No new 501/503/505/507/509/511 historical fact was found. Existing **Oregon City Shoe Store, 508 Main** evidence on p8 remains S-389/E-355 and was not duplicated.
 - 1912 remains **IN PROGRESS**. Next issue: **3 May 1912**, with its known pagination/retrieval defect to resolve first.
 
+## 19 September 2026 — 1912 Courier 3 May through 17 May
+
+- Saved complete visual-review captures for 3, 10 and 17 May.
+- **3 May:** 8/8 exposed archive images inspected; sequences 7 and 8 both print folio 7. The latter is genuine 3 May content, but printed page-8 completeness is unresolved and remains under `RL-036`.
+- **10 May:** 8/8 visually verified. The direct Main Street teardown/rebuilding language on p1 remains the already-registered `S-105` / `E-090`; no block or exact target address is supplied.
+- **17 May:** 8/8 visually verified; sequence 2's May-10 running header remains the already-resolved wrong-header anomaly on a genuine 17 May page.
+- No new target occupant, title, license, tenancy, construction-address, barber or billiard fact was created from the other reviewed pages.
+- Next Courier issue: **24 May 1912**. 1912 remains **IN PROGRESS**.
+
