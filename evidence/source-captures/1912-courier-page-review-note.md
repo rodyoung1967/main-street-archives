@@ -75,3 +75,14 @@ Detailed capture: evidence/source-captures/1912-courier-april26-visual-review-20
 
 **Current chronological Courier resume point: 3 May 1912.** The existing 3 May pagination/retrieval problem must be resolved or preserved before complete visual-review credit. **1912 remains IN PROGRESS.**
 
+## 19 September 2026 — 3 May through 17 May advance
+
+- **3 May:** all **8 exposed archive images visually reviewed**. Sequences 7 and 8 are distinct pages but both visibly print folio **7**. Image 8 contains genuine 3 May material, but no independent public scan recovered in this pass resolves whether it is a misfoliated intended page 8 or whether a true printed page 8 is absent. Keep this open under `RL-036`; do not convert the defect into missing-content claims.
+- **10 May: 8/8 visually verified.** Sequence 1 directly contains the already-registered present-tense Main Street teardown/rebuilding editorial (`S-105` / `E-090` / `RL-038`). It still gives no block or numbered premises, so no target-building assignment is made.
+- **17 May: 8/8 visually verified.** Sequence 2 remains the genuine 17 May page with the erroneous May 10 running header, as already resolved in the September 11 capture. No new target-frontage fact emerged from the complete issue review.
+- No new evidence ID was manufactured for the bounded no-target portions of these issues.
+
+Captures: `1912-courier-may03-pagination-review-2026-09-19.md`; `1912-courier-may10-visual-review-2026-09-19.md`; `1912-courier-may17-complete-visual-review-2026-09-19.md`.
+
+**Current chronological Courier resume point: 24 May 1912. 1912 remains IN PROGRESS.**
+
