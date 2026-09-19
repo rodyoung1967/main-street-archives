@@ -209,3 +209,12 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | P-402 | Milton Price | 1912 jury-list taxpayer; 'pool hall' descriptor | 19 Jan. 1912 Courier p7 prints 'Milton Price, pool hall' under Oregon City, Oregon, No. 1 in a taxpayer jury list. No pool-hall address, trade name, proprietor/employee role, or link to Smith/Leland/Dollar/505 is established. `E-282` / `S-310`. |
 | P-403 | [Justin S. Lageson](profiles/justin-s-lageson.md) | Oregon City Shoe Store proprietor | Direct 1910 advertising identifies Lageson as proprietor of Oregon City Shoe Store on Main/opposite Post Office. 1912 exact 508 Main ad omits proprietor, so continuity through 1912 remains unresolved. `BUS-109`; `E-355` / `S-389`. |
+
+
+## 19 September 2026 — Schoenheinz family identity controls
+
+| ID | Name | Role | Notes |
+| --- | --- | --- | --- |
+| P-404 | [Karl / Carl Schoenheinz](profiles/karl-carl-schoenheinz.md) | Older Schoenheinz generation / shoe-business identity candidate | Official cemetery has Karl beside Albertina; 1914 paper calls Elizabeth's father Carl. Strong hypothesis identifies him with older newspaper-Charles/husband and the shoe-business father. Leading older-generation candidate for Book 4 `C. Schoenheinz` at 503; exact-address identity and 503 shoe-store use remain unproved. |
+| P-405 | [Charles Schoenheinz — younger](profiles/charles-schoenheinz-younger.md) | Musician / band business manager / Theroux music-store interest | Son-generation Charles documented as musician from 1912, married Margaret Cushing 1916, Oregon City band officer, Theroux interest disposed 1917. Separate candidate for Book 4 C. Schoenheinz; Theroux was at 519 Main. |
+| P-406 | [Edward Schoenheinz](profiles/edward-schoenheinz.md) | Shoe-business family identity control | Jan. 1912 report says Edward had been connected with his father in the shoe business. Adult Edward must not be confused with younger Charles's son Edward in the 1917 Camas report. |
