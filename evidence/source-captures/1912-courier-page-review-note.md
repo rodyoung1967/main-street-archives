@@ -14,3 +14,18 @@ On **11 September 2026**, fresh original-scan comparison resolved the 17 May seq
 Pages that the current research interface does not expose reliably are **not** counted as visually reviewed. Completing an image-by-image physical-page checklist remains `RL-036`. The next chronological uncredited Courier page after the clean 26 January checkpoint is 2 February 1912, sequence 1.
 
 This coverage limitation is a research-method note, not historical evidence that inaccessible pages do or do not contain target-block material.
+
+
+## 19 September 2026 — 2 and 9 February completion
+
+The chronological Courier visual audit advanced through two complete issues:
+
+- **2 February 1912: 8/8 VISUALLY VERIFIED.** Previously pending sequences 3 and 8 were recovered and visually inspected; neither establishes a target-frontage fact. Their temporary pending state is resolved.
+- **9 February 1912: 8/8 VISUALLY VERIFIED.** All eight page scans were inspected. No direct 501/503/505/507/509/511 fact was identified.
+- The 9 February front-page Williams Bros. transfer-office / adjoining-barber construction item was location-tested rather than projected onto the target block. Same-issue advertising says the transfer office was in Favorite Cigar Store **opposite Masonic Building**. Visual inspection of the City’s 2000 historic-resource Appendix B places the Masonic Building at **707–709 Main**, making this a 700-block context rather than the Fifth/Main target frontage. The City scan also corrects a text-extraction rendering that swapped Masonic and Stratton building names.
+
+Detailed capture: `evidence/source-captures/1912-courier-february09-visual-review-2026-09-19.md`.
+
+These are coverage findings, not vacancy/non-use evidence. No new entity or claim-level fact was manufactured.
+
+**Current chronological Courier resume point: 16 February 1912, sequence 1.** This supersedes the earlier 2 February resume instruction while preserving the earlier checkpoint as research history. **1912 remains IN PROGRESS.**

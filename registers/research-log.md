@@ -1272,3 +1272,16 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Verified the 16 February May & Washburn / S. F. Scripture joint horseshoeing advertisement (`E-347`) while withholding Scripture's separately advertised 108 Fifth address from May & Washburn.
 - Recorded the 19 January *Banner-Courier* front-page masthead's printed `1921` year error without altering the archive's 1922 issue inventory.
 - Cross-record propagation completed through source/evidence/timeline YAML, master and 505 timelines, business/person pages, business timeline, open questions, research leads, `MF-013`, year status and this log. 1922 remains **IN PROGRESS**; no outreach or fee authorization occurred.
+
+
+## 19 September 2026 — 1912 Courier February 2/9 visual-audit advance
+<!-- 1912 Courier Feb 2 and Feb 9 complete visual review — 2026-09-19 -->
+
+- Re-synced to current `main` before integration and preserved the newer parallel O.K. Barber/Wolf-Miller source capture without rewriting it.
+- Recovered and visually inspected **2 February sequences 3 and 8**, resolving the temporary pending state and bringing that issue to **8/8 VISUALLY VERIFIED**. No target-frontage claim was identified on the two recovered pages.
+- Visually inspected **all 8/8 pages of the 9 February 1912 Courier** from original archive scans.
+- Page 1 reports planned work at a Main Street property occupied by Williams Bros. transfer office and an adjoining barber shop. Page 2 independently places the Williams Bros. office in Favorite Cigar Store **opposite Masonic Building**.
+- Visually checked the official City 2000 historic-resource Appendix B: **Masonic Building = 707–709 Main** and **Stratton Building = 706–708 Main**. This corrects a misleading parsed-text rendering and places the Williams Bros./barber item in the **700-block context**, not the 501–511 target frontage.
+- No new target occupant, property/business ownership, license, tenancy, trade-name, sale, demolition, construction or building-continuity fact resulted. No `E-###`/`S-###` was manufactured for a bounded no-target batch.
+- Synchronized the 1912 page-review note and annual-status register. **1912 remains IN PROGRESS.**
+- Next ordinary Courier page: **16 February 1912, sequence 1**.

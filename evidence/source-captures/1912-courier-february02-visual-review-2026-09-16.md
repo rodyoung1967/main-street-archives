@@ -1,7 +1,7 @@
 # 2 February 1912 Oregon City Courier — visual-review checkpoint
 
 Date reviewed: 16 September 2026
-Status: **IN PROGRESS — PARTIAL ISSUE VISUAL REVIEW**
+Status: **IN PROGRESS — ISSUE VISUAL REVIEW COMPLETE (8/8)**
 
 Purpose: resume the chronological 1912 *Oregon City Courier* page-by-page audit from the clean 26 January checkpoint on current `main`. OCR/search was used only for discovery; visual-review credit below is based on inspection of the actual scanned page image rendered from the University of Oregon Historic Oregon Newspapers PDF.
 
@@ -61,3 +61,16 @@ No new `E-###` or `S-###` is assigned from this partial issue review. No target 
 First recover and visually inspect **2 February sequences 3 and 8**. Only after both are visually inspected should the 2 February issue receive 8/8 credit and the chronological audit advance to **9 February 1912, sequence 1**.
 
 1912 remains **IN PROGRESS**.
+
+## 19 September 2026 completion supplement
+
+The two pages that were still pending at the 16 September checkpoint were recovered through the University of Oregon Historic Oregon Newspapers page/PDF routes and visually inspected as faithful full-page scans.
+
+- **Sequence 3 — VISUALLY VERIFIED.** The complete scan was inspected. The page contains general Oregon/national material and advertising, including non-target merchants/locations, but no direct 501/503/505/507/509/511 Main occupant, business, ownership, licensing, tenancy, trade-name, or target-building event was identified.
+- **Sequence 8 — VISUALLY VERIFIED.** The complete scan was inspected. Local news, road material, political features, classifieds, and general advertising were screened. No direct target-frontage claim was identified. A real-estate item referencing Tenth and Main is non-target context.
+
+The earlier `PENDING / RETRIEVAL ATTEMPT NEEDED` labels for sequences 3 and 8 are therefore **resolved**, not promoted to durable retrieval gaps or manual callouts. The 2 February 1912 *Oregon City Courier* is now **8/8 VISUALLY VERIFIED**.
+
+No new claim-level `E-###` or `S-###` entry is warranted from the two recovered pages because the batch adds coverage rather than a new target historical fact. Absence of a target hit is coverage only, not evidence of vacancy or non-use.
+
+**Chronological resume point after this issue:** 9 February 1912, sequence 1. 1912 remains **IN PROGRESS**.
