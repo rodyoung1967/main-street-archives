@@ -60,7 +60,11 @@ This supplies another named late-1921 Oregon City barber shop but does not prese
 
 ## Result
 
-The proprietor of **503½ Main** remains unresolved, but the candidate field is cleaner:
+A 19 September 2026 high-resolution steward rereview now supplies a probable tenant transcription: **Fred Steiner** at **503½ Main**. The steward reads the faint name with confidence in Book 3, and the corresponding Book 4 entry appears compatible with the same name. Treat this as a **steward-verified/probable cross-book ledger transcription**, not yet as independently corroborated biographical identity or proof of business ownership.
+
+The historical identity of this Fred Steiner remains unresolved. Do not automatically merge him with the separately encountered Fred Steiner of Beaver Creek/Beavercreek.
+
+The candidate field is therefore now:
 
 - Myers & Wentworth — directly at **722 Main** in Apr 1914; poor 503½ candidate.
 - Green's — **7th & Center** in Apr 1915.
@@ -68,8 +72,11 @@ The proprietor of **503½ Main** remains unresolved, but the candidate field is 
 - Bennett barber shop — **Electric Hotel building, Main Street** in Dec 1921.
 - Ed Johnson / O.K. Barber Shop — separate 705 Main historical-marker hypothesis, still awaiting contemporary exact-address bridge.
 
-None should be assigned to **503½ Main** without a direct source.
+None of the other named barber operations should be merged with **Fred Steiner / 503½ Main** without a documentary bridge.
 
 ## Highest-value next move
 
-The unresolved tenant name is physically present in the water ledgers. The best next evidence is therefore not another generic newspaper-name search but a **higher-resolution handwriting comparison of the 503½ tenant line in Book 3 and Book 4**, followed by searches for any plausible reading. If that cannot be resolved, a 1915–1917 or 1921–1922 city/business directory with address indexing is the next strongest route.
+The handwriting comparison has now produced **Fred Steiner** as the probable cross-book transcription. The highest-value next move is independent corroboration: search 1914–17 directories, barber advertisements, licenses and newspapers for Fred Steiner and spelling variants at/near 503½ Main, while keeping similarly named people separate. A 1915–17 address-indexed directory is especially valuable.
+
+
+Detailed rereview: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
