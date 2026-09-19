@@ -53,4 +53,13 @@ Detailed 16 February capture: `evidence/source-captures/1912-courier-february16-
 Detailed capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`; identity control `S-388` / `E-354`.
 
 **Current chronological Courier resume point: 15 March 1912, sequence 1.** **1912 remains IN PROGRESS.**
+## 19 September 2026 — 15 March through 5 April advance
 
+- **15 March: 8/8 visually verified.** Post-office siting discussion asks owners of Main Street lots from First to Fourteenth to submit offers; no selected target-block site.
+- **22 March: 8/8 visually verified.** Preserved an internal date/header anomaly: the archive issue is 22 March, while some pages retain March 15 headers. Main paving discussion is Eleventh-to-Abernethy context.
+- **29 March: 10/10 visually verified.** The actual issue inventory is ten pages. “BILLBOARDS ARE DOOMED” is advertising-sign regulation, not billiards. A Commercial Club billiard tournament is club recreation, not a commercial billiard hall. Oregon City Shoe Store appears without address/proprietor.
+- **5 April: 12/12 visually verified.** The actual issue inventory is twelve pages. No direct 501/503/505/507/509/511 finding. City Council Main Street paving resolution is public-infrastructure context only.
+- Focused follow-up `S-389` / `E-355` establishes **Oregon City Shoe Store** as a separate business strand: Justin S. Lageson proprietor in 1910; exact **508 Main** by 26 Apr. 1912. Do not merge the generic March/April shoe-store ads with C. Schoenheinz's Old Reliable Oregon City Shoe Shop at 716 Main.
+- `S-390` / `E-356` upgrades the 10 Sep. 1920 **K. Schoenheinz** shoemaker-wanted classified to visually verified primary evidence; preserve K. exactly.
+
+**Current chronological Courier resume point: 12 April 1912, sequence 1.** **1912 remains IN PROGRESS.**
