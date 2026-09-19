@@ -1311,4 +1311,14 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Visually inspected 26 Feb. and 5 Mar. 1914 Courier comparison pages; they independently place Fred Steiner in Beaver Creek. Registered `S-388` / `E-354`; identity with the probable 503½ Main barber-shop tenant remains unresolved and unmerged.
 - 8 March p5 places Merrill & Cave's shoe-store move on Eighth Street, a non-target control relevant to the broader C. Schoenheinz shoe-store investigation.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **15 March 1912**.
+## 19 September 2026 — 1912 Courier 15 March through 5 April
 
+- Re-synced repeatedly against current main while parallel 503/C. Schoenheinz work advanced; no parallel commit was overwritten.
+- Visually reviewed the complete Courier issues for **15 Mar. (8/8), 22 Mar. (8/8), 29 Mar. (10/10), and 5 Apr. (12/12)**.
+- No direct 501/503/505/507/509/511 occupant, property/business ownership, license, tenancy, target sale, demolition, construction, or building-continuity event was established by those annual-audit issues.
+- Preserved the 22 Mar. stale March-15 running-header anomaly as source metadata rather than a duplicate-issue claim.
+- 29 Mar. controls: “BILLBOARDS ARE DOOMED” is billboard regulation, not billiards; Commercial Club billiard tournament is noncommercial club recreation; Oregon City Shoe Store remains unnumbered in that issue.
+- 5 Apr. issue inventory is 12 pages; Oregon City Shoe Store appears twice without proprietor/address, while Main paving resolution is city infrastructure only.
+- Focused primary-source follow-up created `BUS-109` / `P-403` / `S-389` / `E-355`: Justin S. Lageson directly proprietor of Oregon City Shoe Store in 1910; exact 508 Main by 26 Apr. 1912. This separates it from C. Schoenheinz's 716 Main Old Reliable Oregon City Shoe Shop.
+- Visually verified the 10 Sep. 1920 Morning Oregonian classified **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** as `S-390` / `E-356`, superseding the prior OCR-only state. K. remains unresolved, not normalized.
+- 1912 remains **IN PROGRESS**. Next Courier issue: **12 Apr. 1912**.
