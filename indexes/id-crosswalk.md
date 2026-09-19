@@ -997,3 +997,11 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `S-380` temporary pedestrian bridge | `E-351` | West Linn Historical Society captions 1921; Old Oregon Photos gives c.1922 for same/closely related exposure; preserve as 1921–1922 until provenance resolves. |
 | `S-381` OHS `376G0143/0144` | `E-351` | Old suspension-bridge negatives, institutional range 1902–1922; potential pre-fire control, not exact 1921. |
 | `S-382` City/Army Corps/ODOT bridge-construction sets | `E-351` | Early-1920s bridge-construction photographs; current online review does not yield a new direct 501/503/505 frontage image. |
+
+## 1912 Cox & Ward Main Street billiard/tobacco business
+<!-- 1912 Cox Ward crosswalk — 2026-09-19 -->
+
+| Entity | Source / evidence | Relationship / limits |
+| --- | --- | --- |
+| `BUS-108` Cox & Ward tobacco / billiard rooms | `S-387` / `E-353` | 9 Feb. 1912 direct Main Street business and dissolution record; exact number and given names unresolved. `RL-053` tests, but does not assume, links to H. H. Smith at 503 or F. D. Cox in 1919. |
+
