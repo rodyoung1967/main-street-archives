@@ -1319,3 +1319,37 @@ people:
     related_evidence: [E-355]
     related_sources: [S-389]
     repository_file: people/profiles/justin-s-lageson.md
+
+
+# 19 September 2026 — Schoenheinz family identity controls
+- id: P-404
+  name: Karl / Carl Schoenheinz
+  role: Older Schoenheinz generation / shoe-business identity candidate
+  notes: >-
+    Official Mountain View Cemetery record places Karl Schoenheinz (d. 2 Jan 1937, age 80)
+    immediately beside Albertina Schoenheinz (d. 15 Jul 1912). A 1914 Courier item calls
+    Elizabeth's father Carl Schoenheinz; a July 1912 obituary calls the surviving husband
+    Charles. Karl/Carl/older Charles equivalence is a strong cross-source identity hypothesis.
+    1911 C. Schoenheinz shoe-shop proprietorship, Edward's 1912 father/shoe-business report,
+    and the visually verified 1920 K. Schoenheinz shoemaker-wanted ad make him an important
+    candidate for the Book 4 C. Schoenheinz at 503 Main. Exact identity and 503 shoe-store use
+    remain unproved.
+  repository_file: people/profiles/karl-carl-schoenheinz.md
+- id: P-405
+  name: Charles Schoenheinz (younger)
+  role: Musician / Oregon City band business manager / Theroux music-store interest
+  notes: >-
+    Son-generation Charles is documented as an Oregon City musician from 1912, married
+    Margaret Louisa Cushing in 1916, served as band treasurer/business manager, and in May
+    1917 was reported to have disposed of his interest in the Theroux music store before a
+    Camas move. Theroux was advertised at 519 Main. He remains a possible but unproved
+    identity for Book 4 C. Schoenheinz at 503.
+  repository_file: people/profiles/charles-schoenheinz-younger.md
+- id: P-406
+  name: Edward Schoenheinz
+  role: Schoenheinz shoe-business family identity control
+  notes: >-
+    26 Jan 1912 Courier reports Edward had been connected with his father in the shoe
+    business. He is an adult son in the older family generation and must not be confused
+    with the child Edward reported with younger Charles and his wife in 1917.
+  repository_file: people/profiles/edward-schoenheinz.md
