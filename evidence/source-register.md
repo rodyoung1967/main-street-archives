@@ -3371,4 +3371,15 @@ Identity-control comparison pages also visually inspected:
 Repository capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`.  
 Related evidence: `E-354`.  
 Notes: 1 March prints “F. Steiner, of this place” under a column headed Clear Creek and then calls him Fred. The 8 March issue explicitly corrects the prior week's heading error, stating the Beaver Creek items had been printed under Clear Creek; its corrected Beaver Creek column directly names Fred Steiner. The 1914 pages independently place Fred Steiner as a Beaver Creek resident. This is identity/location control only; it does not prove or disprove identity with the probable Fred Steiner tenant transcription at 503½ Main.
+## S-389 — Oregon City Shoe Store / Justin S. Lageson / 508 Main primary advertisements
+Type: Primary newspaper advertisements; original Historic Oregon Newspapers scans **VISUALLY VERIFIED 19 September 2026**.
 
+Primary pages:
+- *Oregon City Courier*, 28 Jan. 1910, p.6: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-01-28/ed-1/seq-6/
+- *Oregon City Enterprise*, 1 Apr. 1910, p.5: https://oregonnews.uoregon.edu/lccn/sn00063700/1910-04-01/ed-1/seq-5/
+- *Oregon City Courier*, 26 Apr. 1912, p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-04-26/ed-1/seq-8/
+
+Related: `E-355`; `BUS-109`; `P-403`.  
+Capture: `evidence/source-captures/1910-1912-oregon-city-shoe-store-lageson-508-main-separation-2026-09-19.md`.
+
+Notes: Jan. 1910 visually prints Oregon City Shoe Store, Justin S. Lageson, and Opposite Postoffice. Apr. 1910 directly prints Justin S. Lageson, Prop. / Main Street. Apr. 1912 visually prints Oregon City Shoe Store / 508 Main St. / Opposite Postoffice. The 1912 ad does not name Lageson, so proprietor continuity is not assumed.
