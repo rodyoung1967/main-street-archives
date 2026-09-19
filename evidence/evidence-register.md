@@ -3579,3 +3579,16 @@ Claims:
 
 Classification: **DOCUMENTED / DIRECT** for Lageson's 1910 proprietorship and the 1912 exact 508 address; **UNRESOLVED** for continuous ownership; **SEPARATE BUSINESS CONTROL** versus the Schoenheinz shop.  
 Confidence: Very High for scan-visible wording.
+## E-356 — 10 September 1920 K. Schoenheinz Oregon City shoemaker advertisement
+Type: Primary newspaper occupation/business-context evidence; **VISUALLY VERIFIED**.  
+Source: `S-390`.
+
+Claims:
+- The *Morning Oregonian* Help Wanted—Male column directly prints **“SHOEMAKER wanted. Oregon City. K. Schoenheinz.”**
+- This places a person/business contact printed as **K. Schoenheinz** in the shoemaking trade in Oregon City on 10 Sep. 1920.
+- The source does not print a street address, store name, full given name, relationship to C. Schoenheinz, or relationship to the later Schoenheinz Shoe Repair Shop.
+- Do not normalize **K.** to Karl, Carl, or Charles without an independent identity bridge.
+- The item strengthens the broader documented Schoenheinz shoe-trade context between the 1911 C. Schoenheinz shop and the 1922 Schoenheinz Shoe Repair Shop, but does **not** prove 503 Main was a shoe store in 1916–17.
+
+Classification: **DOCUMENTED / DIRECT** for printed initial/name form, Oregon City, and shoemaker hiring; **UNRESOLVED** for identity/address continuity.  
+Confidence: Very High for the original scan wording.
