@@ -336,4 +336,9 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | Date | Address / location | Business / event | Evidence | Limits |
 | --- | --- | --- | --- | --- |
 | 9 Feb. 1912 | Main Street, Oregon City; exact number not printed | Cox & Ward tobacco dealers / billiard-room proprietors (`BUS-108`); partnership dissolved; Mr. Ward sold to his partner | `E-353` / `S-387` | No given names or numbered premises. Do not connect to H. H. Smith at 503, F. D. Cox in 1919, or later 505 billiard/pool businesses without a direct identity/address bridge. |
+## Oregon City Shoe Store separation control — 2026-09-19
 
+| Date | Address / location | Business / person | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 28 Jan.–1 Apr. 1910 | Main Street / opposite Post Office | Oregon City Shoe Store; **Justin S. Lageson, proprietor** | `BUS-109`; `P-403`; `E-355` / `S-389` | Direct business/proprietor controls; exact number not yet printed in these 1910 ads. |
+| 26 Apr. 1912 | **508 Main Street**, opposite Post Office | Oregon City Shoe Store | `BUS-109`; `E-355` / `S-389` | Direct exact-address ad; proprietor not printed, so Lageson continuity is unresolved. Distinct from C. Schoenheinz / Old Reliable Oregon City Shoe Shop at 716 Main unless a transfer bridge is found. |
