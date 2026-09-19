@@ -1300,3 +1300,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - **16 February 1912 Courier: 8/8 VISUALLY VERIFIED. 1912 remains IN PROGRESS.**
 - Next ordinary Courier issue: **23 February 1912, sequence 1**.
 
+## 19 September 2026 — 1912 Courier through 8 March; Fred Steiner correction
+<!-- 1912 Courier March 1-8 Steiner correction — 2026-09-19 -->
+
+- Re-synced to current main after parallel C. Schoenheinz/503 ledger work and preserved those newer commits.
+- Confirmed **23 February 1912 Courier 8/8 visually verified** from the already committed checkpoint.
+- Visually inspected **1 March 1912 Courier 8/8** and **8 March 1912 Courier 8/8** from original UO archive scans/PDFs.
+- No direct 501/503/505/507/509/511 occupant, ownership, license, tenancy, sale, demolition, construction or building-continuity fact was found in either issue.
+- 1 March sequence 2 prints **F. Steiner, of this place** and then calls him Fred under a column headed Clear Creek. The 8 March issue explicitly corrects the prior week's mistake: the Beaver Creek items had been printed under the Clear Creek heading, and its corrected Beaver Creek column directly names Fred Steiner.
+- Visually inspected 26 Feb. and 5 Mar. 1914 Courier comparison pages; they independently place Fred Steiner in Beaver Creek. Registered `S-388` / `E-354`; identity with the probable 503½ Main barber-shop tenant remains unresolved and unmerged.
+- 8 March p5 places Merrill & Cave's shoe-store move on Eighth Street, a non-target control relevant to the broader C. Schoenheinz shoe-store investigation.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **15 March 1912**.
+
