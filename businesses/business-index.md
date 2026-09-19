@@ -233,3 +233,11 @@ These records were already part of the evidence narrative but previously lacked 
 
 | BUS-107 | [S. Fesznecker tin and repair shop](s-fesznecker-tin-repair.md) | Broadway earlier; building just south of post office by 12 Sep. 1919; exact number unresolved | Descriptive archive label, not a proved formal trade name. Direct move wording `E-271`; no 501/503/505 assignment. |
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
+
+## 19 September 2026 — Cox & Ward Main Street billiard/tobacco partnership
+<!-- 1912 Cox Ward dissolution — 2026-09-19 -->
+
+| ID | Business | Address / location | Notes |
+| --- | --- | --- | --- |
+| BUS-108 | [Cox & Ward tobacco / billiard rooms](cox-ward.md) | Main Street, Oregon City; exact number unresolved | 9 Feb. 1912 Courier p.5 directly calls Cox & Ward tobacco dealers and billiard-room proprietors and reports the partnership dissolved, with Mr. Ward selling to his partner. Given names, exact premises, successor trade name and continuation are unresolved. Do not merge with H. H. Smith at 503, F. D. Cox's 1919 billiard business, or later 505 pool-hall chains without an independent bridge. `E-353` / `S-387`. |
+
