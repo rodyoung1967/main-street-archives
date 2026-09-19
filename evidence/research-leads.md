@@ -623,3 +623,13 @@ At **501 Main**, Book 4 now strongly reads **[initials unclear] Pollock** with d
 At **503 Main**, tenant identity remains unresolved; do not force Hylton or Schiermann from the faint handwriting.
 
 Controlling capture: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
+
+
+### 19 September 2026 — Charles Schoenheinz as leading 503 Book 4 tenant hypothesis
+<!-- 2026-09-19-charles-schoenheinz-503-hypothesis -->
+
+**Priority: HIGH — ONLINE FIRST.** Project-steward enlarged handwriting review now reads the faint **503 Main** Book 4 tenant most closely as **Charles Schoenheinz**, with high subjective confidence. Contemporary newspapers independently place Charles Schoenheinz in Oregon City in 1916, name him Oregon City band treasurer/business manager in November 1916, and report in May 1917 that he disposed of **his interest in the Theroux music store** before moving to Camas. However, repeated 1916 advertisements place F. F. Theroux at **519 Main**, so the music-store evidence does not itself prove 503 occupancy.
+
+Highest-value test: recover an address-indexed **1916–17 Oregon City directory** and inspect both 503 Main and all Schoenheinz entries; then resolve older versus younger Charles/Karl/Carl Schoenheinz identities. Keep the 1911 `C. Schoenheinz` shoe shop at 716 Main separate until identity is proved. Current evidence state for **Charles Schoenheinz = 503 tenant**: **PROBABLE / WORKING HYPOTHESIS**, not direct exact-address fact.
+
+Detailed capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
