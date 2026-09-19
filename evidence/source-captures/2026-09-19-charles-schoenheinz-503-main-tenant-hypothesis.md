@@ -163,7 +163,7 @@ https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/
 The searchable newspaper text contains the classified:
 `SHOEMAKER wanted. Oregon City. K. Schoenheinz.`
 
-Evidence state: **OCR/TEXT ONLY pending visual verification of the original page**. The result is nevertheless a high-value lead because it places a **K. Schoenheinz** directly in the shoemaking trade in Oregon City in 1920, between the 1916–17 water ledger and the visually verified 1922 Schoenheinz Shoe Repair Shop advertisements.
+Evidence state: **PRIMARY NEWSPAPER / DIRECT — VISUALLY VERIFIED 19 September 2026** (`S-390` / `E-356`). The original page was opened and visually inspected; the Help Wanted—Male classified directly prints **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** This places a **K. Schoenheinz** directly in the shoemaking trade in Oregon City in 1920, between the 1916–17 water ledger and the visually verified 1922 Schoenheinz Shoe Repair Shop advertisements.
 
 Do not silently normalize `K. Schoenheinz` to Carl/Karl/Charles. The initial is especially important because the 1914 newspaper calls Elizabeth's father **Carl Schoenheinz**, while the 1912 obituary calls her father/husband **Charles/Chas. Schoenheinz**. German Karl/Carl/Charles name variation is plausible, but a direct identity bridge remains required.
 
@@ -175,7 +175,7 @@ This strengthens a potentially important alternate identity model: the older Sch
 - Jan. 1912 — Edward Schoenheinz reported connected with his father in the shoe business — direct newspaper report.
 - 1914 — Elizabeth's father printed as **Carl Schoenheinz**, residing on 7th Street — direct newspaper report; identity bridge to 1911 proprietor not yet proved.
 - 1916–17 — probable **C. Schoenheinz** tenant transcription at 503 Main, premises class `Store` — municipal ledger/steward reading; store type not stated.
-- 10 Sep. 1920 — **K. Schoenheinz**, Oregon City, advertises for a shoemaker — **OCR/TEXT ONLY pending scan verification**.
+- 10 Sep. 1920 — **K. Schoenheinz**, Oregon City, advertises for a shoemaker — **VISUALLY VERIFIED PRIMARY NEWSPAPER** (`S-390` / `E-356`).
 - by 14 Apr. 1922 — **Schoenheinz Shoe Repair Shop**, Pacific Highway Garage Building — direct advertisement, proprietor unnamed.
 
 This increasingly supports a long-running Schoenheinz shoe-trade context in Oregon City, but still does not prove that 503 Main was a shoe store or that every initial/name form belongs to one person.
