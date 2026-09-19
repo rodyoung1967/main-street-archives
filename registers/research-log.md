@@ -1285,3 +1285,18 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - No new target occupant, property/business ownership, license, tenancy, trade-name, sale, demolition, construction or building-continuity fact resulted. No `E-###`/`S-###` was manufactured for a bounded no-target batch.
 - Synchronized the 1912 page-review note and annual-status register. **1912 remains IN PROGRESS.**
 - Next ordinary Courier page: **16 February 1912, sequence 1**.
+
+## 19 September 2026 — 1912 Courier February 16 + Cox & Ward integration
+<!-- 1912 Courier Feb 16 and Cox Ward integration — 2026-09-19 -->
+
+- Re-synced to current `main` after newer O.K. Barber / Ed Johnson / 503½-barber parallel work and preserved those commits without rewriting them.
+- Re-reviewed the original **9 February 1912 Courier p.5** scan and visually confirmed the Cox & Ward item: Main Street tobacco dealers and billiard-room proprietors; partnership dissolved; Mr. Ward sold to his partner.
+- Registered the finding as `S-387` / `E-353` / `BUS-108` and opened `RL-053` for exact address, partner identities and succession. No separate person IDs were assigned because the source supplies only the partnership surnames and no reliable given-name identity.
+- Explicitly withheld any merger with H. H. Smith at 503 Main, F. D. Cox's 1919 billiard business, or later 505 pool-hall chains.
+- Visually inspected **all 8/8 original page scans of the 16 February 1912 Courier**. No direct 501/503/505/507/509/511 occupant, ownership, license, tenancy, trade-name, sale, construction, demolition or building-continuity fact was found.
+- Page 6 repeats Williams Bros. Transfer Co. at the Favorite Cigar Store **opposite Masonic Building**, reinforcing the already established non-target 700-block control.
+- Cross-record propagation reviewed master/building/person/open-question records. No target-building/person/open-question content changed; business/evidence/source/crosswalk/research-lead/year-status records were synchronized instead.
+- `validate_archive.py` could not be run because this session has no local repository checkout; no validator success is claimed.
+- **16 February 1912 Courier: 8/8 VISUALLY VERIFIED. 1912 remains IN PROGRESS.**
+- Next ordinary Courier issue: **23 February 1912, sequence 1**.
+
