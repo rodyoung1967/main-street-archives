@@ -645,3 +645,10 @@ Keep this rural Fred Steiner identity context **separate from the probable 503½
 `S-389` / `E-355` resolves an important false-merge risk: the **Oregon City Shoe Store** advertised during the 1912 annual audit is a separately documented business strand. Justin S. Lageson is directly proprietor in 1910, and the store is directly **508 Main** by 26 Apr. 1912. Do not use the 29 Mar./5 Apr. generic Oregon City Shoe Store ads as evidence for C. Schoenheinz or 503 Main.
 
 The 10 Sep. 1920 **K. Schoenheinz** shoemaker-wanted ad is now visually verified as `S-390` / `E-356`, replacing its OCR-only status. Continue the Schoenheinz route by identifying the printed K. independently and by seeking a direct 503 address bridge; preserve K./Carl/Karl/Charles forms separately until resolved.
+
+### 19 September 2026 — RL-036 3 May folio defect refinement
+
+The 3 May 1912 *Courier* public archive exposes **8 distinct images**, all visually reviewed. Sequences 7 and 8 are different pages but both visibly print folio **7**; Historic Oregon Newspapers identifies the latter only as Image 8. Its content is genuinely of the 3 May issue period, but bounded public recovery did not establish whether it is a misfoliated intended page 8 or whether a true printed page 8 is missing.
+
+Carry this as a source/pagination defect within `RL-036`. A source-film/microfilm or independent full-issue scan would resolve it. Until then, distinguish **8/8 exposed images reviewed** from **printed pages 1–8 proved complete**.
+
