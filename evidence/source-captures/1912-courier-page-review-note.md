@@ -42,3 +42,15 @@ Detailed 16 February capture: `evidence/source-captures/1912-courier-february16-
 
 **Current chronological Courier resume point: 23 February 1912, sequence 1.** **1912 remains IN PROGRESS.**
 
+## 19 September 2026 — 23 February, 1 March and 8 March completion
+
+- **23 February 1912: 8/8 VISUALLY VERIFIED.** Three initially troublesome scans were recovered through alternate archive page/PDF routes; no direct target-frontage finding.
+- **1 March 1912: 8/8 VISUALLY VERIFIED.** No direct 501/503/505/507/509/511 finding. A local item printed under a Clear Creek heading says **F. Steiner, of this place** and then calls him Fred.
+- **8 March 1912: 8/8 VISUALLY VERIFIED.** The paper explicitly corrects the previous week, saying the **Beaver Creek items had been printed under the Clear Creek heading**, and directly names Fred Steiner in the corrected Beaver Creek column.
+- Visually checked 26 February and 5 March 1914 Courier pages independently place Fred Steiner in Beaver Creek, supplying a rural identity control. This does not prove or disprove identity with the probable 503½ barber-shop tenant; preserve the two contexts separately pending a direct bridge.
+- 8 March p1 discusses the proposed federal post-office building only at general location level; p5 places Merrill & Cave's shoe-store move on Eighth Street. Neither creates a target-frontage event.
+
+Detailed capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`; identity control `S-388` / `E-354`.
+
+**Current chronological Courier resume point: 15 March 1912, sequence 1.** **1912 remains IN PROGRESS.**
+
