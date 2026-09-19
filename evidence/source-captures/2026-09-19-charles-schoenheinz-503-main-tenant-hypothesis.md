@@ -179,3 +179,34 @@ This strengthens a potentially important alternate identity model: the older Sch
 - by 14 Apr. 1922 — **Schoenheinz Shoe Repair Shop**, Pacific Highway Garage Building — direct advertisement, proprietor unnamed.
 
 This increasingly supports a long-running Schoenheinz shoe-trade context in Oregon City, but still does not prove that 503 Main was a shoe store or that every initial/name form belongs to one person.
+
+
+## Continued identity search — city cemetery record materially strengthens Karl/Carl/Charles reconciliation
+
+The official City of Oregon City Mountain View Cemetery burial list records:
+- **SCHOENHEINZ, ALBERTINA** — 1st Addition, Block 179, grave 3; died **15 July 1912**, age 48.
+- **SCHOENHEINZ, KARL** — 1st Addition, Block 179, grave 4; died **2 January 1937**, age 80.
+
+Official city source:
+https://www.orcity.org/DocumentCenter/View/647/Burial-List-by-Section---September-2019-PDF
+
+This is a major identity control when combined with the 19 July 1912 Courier obituary headed **Mrs. Charles Schoenheinz**, which says the deceased wife was about 49, German-born, came to Oregon with her family in 1900, and left husband Charles and children including Edward, Charles and Elizabeth. The cemetery's Albertina Schoenheinz is the same-age, same-death-window Schoenheinz woman, and **Karl Schoenheinz is buried immediately adjacent in the same block (graves 3 and 4)**.
+
+Evidence assessment:
+- **Albertina = the newspaper's Mrs. Charles Schoenheinz:** very strong cross-source identity inference, but the newspaper text recovered in this pass does not print her given name.
+- **Karl = the husband whom the 1912 newspaper calls Charles:** now a **strong identity hypothesis**, substantially strengthened by the adjacent cemetery placement and the 1914 newspaper independently naming Elizabeth's father as **Carl Schoenheinz**.
+- This materially reduces the concern that Carl/Karl and the older Charles are unrelated Schoenheinz men. Still preserve source-specific name forms in transcriptions.
+
+### Consequence for the 503 tenant hypothesis
+
+This new evidence strengthens the older-father pathway:
+
+**Karl / Carl / newspaper-Charles Schoenheinz (older generation)** is now a much more coherent candidate for:
+- the father in the Schoenheinz shoe business documented in January 1912;
+- the 1911 `C. Schoenheinz` proprietor of the Old Reliable Oregon City Shoe Shop;
+- the 1920 `K. Schoenheinz` shoemaker-wanted classified (pending visual verification);
+- and potentially the Book 4 `C. Schoenheinz` tenant at 503 Main.
+
+This remains an identity chain to prove, not a final merger. Most importantly, **no recovered independent source yet prints Schoenheinz at 503 Main or calls the 503 Store a shoe store.**
+
+The younger Charles remains separately documented as the musician and Theroux music-store-interest holder, making him a less uniquely compelling explanation for the 503 `C. Schoenheinz` line than before.
