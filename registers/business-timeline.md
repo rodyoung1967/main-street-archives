@@ -342,3 +342,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | --- | --- | --- | --- | --- |
 | 28 Jan.–1 Apr. 1910 | Main Street / opposite Post Office | Oregon City Shoe Store; **Justin S. Lageson, proprietor** | `BUS-109`; `P-403`; `E-355` / `S-389` | Direct business/proprietor controls; exact number not yet printed in these 1910 ads. |
 | 26 Apr. 1912 | **508 Main Street**, opposite Post Office | Oregon City Shoe Store | `BUS-109`; `E-355` / `S-389` | Direct exact-address ad; proprietor not printed, so Lageson continuity is unresolved. Distinct from C. Schoenheinz / Old Reliable Oregon City Shoe Shop at 716 Main unless a transfer bridge is found. |
+
+## 1912 Star Theatre Main/Eighth control
+<!-- 1912 Star Theatre non-target construction — 2026-09-19 -->
+
+| Date | Location | Business / event | Evidence | Limits |
+| --- | --- | --- | --- | --- |
+| 2 Feb.–1 Jun. 1912 | Main Street at/near Eighth | Mt. Hood Brewing Co. block moving-picture theatre → Star Theatre; George Simmons | `BUS-110`; `E-357` / `S-391` | Strong same-project continuity from planned/leased theatre through opening. Explicitly outside 501–511 target frontage. Exact 1912 street number unresolved; later 716/720 metadata conflict preserved. |
+
