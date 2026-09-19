@@ -1010,3 +1010,12 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | --- | --- | --- |
 | `BUS-109` Oregon City Shoe Store; `P-403` Justin S. Lageson | `S-389` / `E-355` | Lageson direct proprietor in 1910; store exact 508 Main by 26 Apr. 1912. Keep separate from C. Schoenheinz's Old Reliable Oregon City Shoe Shop at 716 Main and from the unproved 503 shoe-store hypothesis. |
 | `S-390` / `E-356` | K. Schoenheinz shoemaker-wanted classified, 10 Sep. 1920 | Visually verified printed K. form; no address/full-name identity bridge. Do not normalize to Karl/Carl/Charles. |
+
+
+## Schoenheinz family / 503 Main identity work — 19 September 2026
+
+| Person | Related evidence / topic | Relationship / limits |
+| --- | --- | --- |
+| `P-404` Karl / Carl Schoenheinz | 1911 C. Schoenheinz shoe shop; 1912 father/shoe-business report; 1914 Carl father wording; official Karl/Albertina cemetery adjacency; `S-390` / `E-356` 1920 K. Schoenheinz shoemaker ad | Strong older-generation identity hypothesis and leading older candidate for Book 4 `C. Schoenheinz` at 503. Do not yet equate every C/K/Carl/Charles form or call 503 a shoe store. |
+| `P-405` Charles Schoenheinz (younger) | 1912–18 musician chronology; 1916 marriage/band; 1917 Theroux interest | Separate son-generation Charles. Possible 503 C. Schoenheinz identity, but Theroux exact-address control is 519 Main and no independent 503 bridge exists. |
+| `P-406` Edward Schoenheinz | Jan. 1912 father/shoe-business report | Confirms family shoe-business context; no 503 address. Keep separate from younger Charles's child Edward in 1917. |
