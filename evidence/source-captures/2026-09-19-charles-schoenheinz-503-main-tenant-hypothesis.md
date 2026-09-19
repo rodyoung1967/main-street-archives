@@ -96,3 +96,58 @@ Therefore the responsible current formulation is:
 4. Determine when and how Charles acquired his Theroux music-store interest and whether he had another storefront, office, storage room or business interest at 503.
 5. Test whether the 1911 **C. Schoenheinz** proprietor of the Old Reliable Oregon City Shoe Shop at 716 Main is the same person as the Book 4 tenant. A shoe-store use at 503 is historically plausible but **UNPROVEN**; do not infer the 503 store type beyond the ledger's generic `Store` classification.
 6. Compare the ledger handwriting against independently written/printed full-name records only as corroboration; do not let known spelling force ambiguous letterforms.
+
+
+## Continued newspaper investigation — 19 September 2026
+
+### 26 January 1912 — Edward explicitly connected with his father in the shoe business
+
+*Oregon City Courier*, 26 January 1912, p.5:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-5/
+
+The marriage notice for **Edward Schoenheinz** says he had lived in Oregon City for many years and had been **connected with his father in the shoe business**. This independently confirms that the earlier C. Schoenheinz shoe operation was a family shoe business, not merely an isolated advertisement.
+
+Combined with the 1911 advertisement naming **C. Schoenheinz, proprietor** of the Old Reliable Oregon City Shoe Shop at 716 Main, this materially strengthens the occupation/business-context side of the 503 hypothesis. It still does not establish that the 1916–17 503 Store was a shoe store.
+
+### 1912–1914 family-identity controls
+
+The 19 July 1912 obituary of Mrs. Charles Schoenheinz identifies surviving husband **Charles** and sons **Edward, Charles, and Ginther**, plus daughter Elizabeth. This proves at least two Charles-name generations in the family and makes careless identity merging unsafe.
+
+On 10 December 1914 the Courier calls **Carl Schoenheinz on 7th Street** Elizabeth Schoenheinz's father. This is highly suggestive that the older Charles could also appear as Carl/Karl, but the archive should preserve the printed name forms until a direct identity record reconciles them.
+
+The younger **Charles Schoenheinz** is independently identifiable as a musician: a 3 May 1912 Morning Enterprise article names Charles as cornetist in the Falls City orchestra, and 30 October 1913 Courier coverage again places Charles in an orchestra. Thus the Charles who married Margaret Cushing in March 1916 and was described as a local musician fits the younger musician chronology especially well.
+
+### 1918 musician continuity after Camas report
+
+*Oregon City Courier*, 28 February 1918, p.1:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1918-02-28/ed-1/seq-1/
+
+The paper lists **Chas. Schoenheinz** as a cornet player in an Oregon City musical program. On 2 May 1918 it again reports a **cornet solo by Charles Schoenheinz**:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1918-05-02/ed-1/seq-1/
+
+This shows Charles's Oregon City musical activity continued or resumed after the May 1917 report that he moved to Camas. It does not prove residence or 503 occupancy in 1918.
+
+### 1922 Schoenheinz shoe-repair business — endpoint moved earlier
+
+An *Oregon City Enterprise* advertisement on **14 April 1922**, p.8, already advertises **SCHOENHEINZ SHOE REPAIR SHOP**, “The Shop That Saves You Money,” in the **Pacific Highway Garage Bldg., Oregon City**:
+https://oregonnews.uoregon.edu/lccn/sn00063700/1922-04-14/ed-1/seq-8/
+
+The same advertisement survives in July and September 1922. Therefore the recovered Schoenheinz shoe-business sequence is now:
+- **1911:** C. Schoenheinz proprietor, Old Reliable Oregon City Shoe Shop, 716 Main.
+- **26 Jan. 1912:** Edward Schoenheinz explicitly reported connected with his father in the shoe business.
+- **1916–17:** Book 4 503 tenant handwriting probably reads **C. Schoenheinz**; premises class is only **Store**.
+- **by 14 Apr. 1922:** Schoenheinz Shoe Repair Shop, Pacific Highway Garage Building.
+
+This is a meaningful occupational/business continuity pattern, but the gaps are real. It does **not** prove continuous operation, same proprietor, same C. Schoenheinz identity, or shoe-store use at 503.
+
+## Refined identity model
+
+Current best-separated model:
+
+1. **Older Charles/Carl Schoenheinz** — husband/father in the family; likely candidate for the father in the shoe business, but Charles↔Carl name-form equivalence still needs direct corroboration.
+2. **Younger Charles Schoenheinz** — son named in 1912 obituary; documented musician from at least 1912; married Margaret Louisa Cushing in 1916; had an interest in Theroux music store; moved/reported moving to Camas in 1917; appears again in Oregon City musical reporting in 1918.
+3. **Edward Schoenheinz** — son/brother generation; explicitly connected with his father in the shoe business in January 1912; later at Washougal in 1916.
+4. **Book 4 C. Schoenheinz at 503** — cannot yet be assigned safely to older Charles/Carl or younger Charles.
+5. **1922 Schoenheinz Shoe Repair Shop** — proprietor not named in the recovered advertisements; do not assign it to a specific family member without another source.
+
+The shoe-business evidence now makes the **503 shoe-store hypothesis stronger as a research hypothesis**, but it remains **UNPROVEN** because the ledger itself says only `Store` and no independent source recovered yet connects Schoenheinz + shoes + 503 Main.
