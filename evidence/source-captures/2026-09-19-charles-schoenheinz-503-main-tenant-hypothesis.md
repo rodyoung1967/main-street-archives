@@ -210,3 +210,31 @@ This new evidence strengthens the older-father pathway:
 This remains an identity chain to prove, not a final merger. Most importantly, **no recovered independent source yet prints Schoenheinz at 503 Main or calls the 503 Store a shoe store.**
 
 The younger Charles remains separately documented as the musician and Theroux music-store-interest holder, making him a less uniquely compelling explanation for the 503 `C. Schoenheinz` line than before.
+
+
+## Continued search — negative exact-address result and stronger older/younger separation
+
+A focused web/newspaper search on 19 September 2026 tested combinations of Schoenheinz / C. / Carl / Karl / Charles with 503 Main, Main Street, shoe, shoemaker, Oregon City, and 1913–1921 dates.
+
+### Exact-address result
+
+**No independent searchable source recovered in this pass prints Schoenheinz with 503 Main.** This is a bounded search result only, not evidence that the ledger reading is wrong or that Schoenheinz was not there.
+
+The strongest direct address remains the 1911 Old Reliable Oregon City Shoe Shop advertisement:
+- **C. Schoenheinz, proprietor**
+- **716 Main, between Sixth and Seventh**
+- shoe repairing / work while you wait.
+
+### Older/younger identity separation strengthened
+
+The 3 May 1912 *Morning Enterprise* directly reports **Charles Schoenheinz** as one of the young Oregon City musicians engaged by Arnold's Carnival Company, expected to return in the fall and resume orchestral work. This establishes the younger Charles's musician identity before the July 1912 death of his mother and well before the 1916 marriage/band records.
+
+The 10 Dec. 1914 Courier directly calls Elizabeth's father **Mr. Carl Schoenheinz on 7th St.** The official Mountain View Cemetery list records **Karl Schoenheinz** adjacent to Albertina. Taken together, these continue to favor an older Karl/Carl father distinct from the younger musician Charles.
+
+### Important caution on 1917 Camas article
+
+The 3 May 1917 article says **Mr. and Mrs. Charles Schoenheinz and their son Edward** moved to Camas and that Mr. Schoenheinz disposed of his Theroux music-store interest. The child's name Edward must not be confused with Charles's adult brother Edward, who is separately documented at Washougal in 1916. This further supports treating the 1917 Charles as the younger married musician generation.
+
+### Research consequence
+
+The most productive remaining route is no longer broad name searching alone. The decisive target is an **address-indexed 1915–17 Oregon City directory, tax/business license, telephone listing, or other exact-address record** that can independently answer who occupied 503. Newspaper search has built a strong occupational and family context but still has not supplied the address bridge.
