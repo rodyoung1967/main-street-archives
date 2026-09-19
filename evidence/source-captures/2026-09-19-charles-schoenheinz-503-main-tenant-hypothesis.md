@@ -151,3 +151,31 @@ Current best-separated model:
 5. **1922 Schoenheinz Shoe Repair Shop** — proprietor not named in the recovered advertisements; do not assign it to a specific family member without another source.
 
 The shoe-business evidence now makes the **503 shoe-store hypothesis stronger as a research hypothesis**, but it remains **UNPROVEN** because the ledger itself says only `Store` and no independent source recovered yet connects Schoenheinz + shoes + 503 Main.
+
+
+## Continued search — K. Schoenheinz shoemaker evidence
+
+### 10 September 1920 — K. Schoenheinz seeks a shoemaker in Oregon City
+
+*Morning Oregonian*, 10 September 1920, p.20:
+https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/
+
+The searchable newspaper text contains the classified:
+`SHOEMAKER wanted. Oregon City. K. Schoenheinz.`
+
+Evidence state: **OCR/TEXT ONLY pending visual verification of the original page**. The result is nevertheless a high-value lead because it places a **K. Schoenheinz** directly in the shoemaking trade in Oregon City in 1920, between the 1916–17 water ledger and the visually verified 1922 Schoenheinz Shoe Repair Shop advertisements.
+
+Do not silently normalize `K. Schoenheinz` to Carl/Karl/Charles. The initial is especially important because the 1914 newspaper calls Elizabeth's father **Carl Schoenheinz**, while the 1912 obituary calls her father/husband **Charles/Chas. Schoenheinz**. German Karl/Carl/Charles name variation is plausible, but a direct identity bridge remains required.
+
+This strengthens a potentially important alternate identity model: the older Schoenheinz father may be the continuing shoemaker, while the younger Charles follows the independently documented musician/music-store path. If so, the Book 4 `C. Schoenheinz` at 503 could plausibly be the older shoe-business man rather than the younger Charles. This remains a hypothesis.
+
+### Current shoe-trade sequence after this lead
+
+- 1911 — **C. Schoenheinz**, proprietor, Old Reliable Oregon City Shoe Shop, 716 Main — direct newspaper advertisement.
+- Jan. 1912 — Edward Schoenheinz reported connected with his father in the shoe business — direct newspaper report.
+- 1914 — Elizabeth's father printed as **Carl Schoenheinz**, residing on 7th Street — direct newspaper report; identity bridge to 1911 proprietor not yet proved.
+- 1916–17 — probable **C. Schoenheinz** tenant transcription at 503 Main, premises class `Store` — municipal ledger/steward reading; store type not stated.
+- 10 Sep. 1920 — **K. Schoenheinz**, Oregon City, advertises for a shoemaker — **OCR/TEXT ONLY pending scan verification**.
+- by 14 Apr. 1922 — **Schoenheinz Shoe Repair Shop**, Pacific Highway Garage Building — direct advertisement, proprietor unnamed.
+
+This increasingly supports a long-running Schoenheinz shoe-trade context in Oregon City, but still does not prove that 503 Main was a shoe store or that every initial/name form belongs to one person.
