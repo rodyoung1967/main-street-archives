@@ -3552,3 +3552,16 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for the Main Street business type, partnership dissolution and Ward-to-partner sale wording; **UNRESOLVED** for exact address, individual identities and successor continuity.  
 Confidence: **Very High** for the visually verified printed wording; none for a 503/505 assignment.
 
+## E-354 — Fred Steiner / Beaver Creek identity control from 1–8 March 1912 and 1914
+Type: Primary newspaper identity/location control; **VISUALLY VERIFIED**.  
+Source: `S-388`.  
+Claims:
+- The 1 March 1912 *Courier* prints **F. Steiner, of this place** in a local-news column headed Clear Creek and then calls him **Fred**, describing purchase of a full-blooded bull calf and dairy-cow observations.
+- The 8 March 1912 *Courier* explicitly says the prior week's **Beaver Creek items were mistakenly printed under the Clear Creek heading**; the corrected Beaver Creek column directly names **Fred Steiner** and separately refers to **Steiner Bros. of this place**.
+- Therefore the 1 March F. Steiner/Fred notice belongs to the **Beaver Creek** local-news stream despite the erroneous printed heading.
+- The visually inspected 26 February 1914 *Courier* p.7 directly calls **Mr. and Mrs. Fred Steiner residents of Beaver Creek**; 5 March 1914 p.5 again prints **Fred Steiner, of Beaver Creek**.
+- These records establish a contemporaneous rural Beaver Creek Fred Steiner identity context during the same broad period as the municipal 503½ barber-shop ledger.
+- They do **not** establish whether the Beaver Creek resident and the probable Fred Steiner tenant transcription at 503½ Main are the same or different individuals. A Beaver Creek resident could have worked or operated a business in Oregon City.
+Classification: **DOCUMENTED / DIRECT** for the newspaper wording, the 8 March correction, and rural-residence context; **UNRESOLVED / DO NOT MERGE** for identity with the 503½ tenant.  
+Confidence: Very High for the visually verified newspaper wording; none for a barber-shop identity bridge.
+
