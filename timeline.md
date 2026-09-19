@@ -717,3 +717,12 @@ Enlarged review suggests the **503** sign may read **CAFE** and the **505** sign
 The steward identifies the bridge-adjacent building as the **replacement Elks Lodge**. Official lodge history says the predecessor burned 2 Dec. 1922 and the replacement was completed in 1923, with first meeting there 7 Dec. 1923.
 Oregon Encyclopedia independently reproduces the **same exposure** as **“Oregon City, c. 1930.”** and credits OHS Journal `371A5709`; this is a secondary circa-1930 clue, while the A/N identifier discrepancy with OHS `371N5709` remains unresolved.
 Do **not** use the visible lower Third/Fourth-area Railroad Avenue condition to date this image from the 1929 Fifth–Seventh project.
+
+
+### 1914–1917 — Harding water accounts: 503½ barber / Fred Steiner; 501 Pollock restaurant
+<!-- 2026-09-19-water-ledger-high-resolution-rereview -->
+- **1914–15 Book 3:** 503 Main is separately numbered/classified **Store**; 503½ is separately numbered/classified **Barber Shop**; **G. A. Harding, Agt.** repeats as owner/agent. High-resolution steward rereview reads the 503½ tenant as **Fred Steiner** with confidence. The 503 tenant remains unresolved. At 501, faint tenant/business wording appears to end in **Cafe**, first word unresolved.
+- **1914–15 possible 505:** the unnumbered row between 507 and 503 carries the high-confidence vacancy mark `V`; assignment of that blank-number row to 505 is a **PROBABLE / WORKING HYPOTHESIS**, not direct exact-address evidence.
+- **1916–17 Book 4:** sequence **511 → 509 → 507 → 503 → 503½ → 501**, with no separately written 505 Main account. The 503½ tenant entry is compatible with the Book 3 **Fred Steiner** reading. At **501 Main**, surname **Pollock** is a strong visual reading, initials remain unclear, and a diagonal annotation reads **Fifth Street Restaurant / 5th St Restaurant** with high confidence.
+- Do not yet merge the Book 4 Pollock with later **W. W. Pollock** solely from surname/business continuity, and do not merge Fred Steiner with the Beaver Creek Fred Steiner without independent identifiers.
+- Evidence handling: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
