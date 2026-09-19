@@ -71,7 +71,7 @@ The faint tenant entry at 503½ is compatible with the steward's **Fred Steiner*
 
 ### 503
 
-Tenant writing remains too faint for a responsible name transcription. Do not promote Hylton or Schiermann from this image.
+A later 19 September steward rereview identifies **Charles Schoenheinz** as the closest reading of the faint tenant signature/name and assigns a high probability to that visual transcription. Contemporary newspaper research independently establishes a Charles Schoenheinz in Oregon City in 1916 and a commercial interest in the Theroux music store by May 1917. However, Theroux is repeatedly advertised at **519 Main** during 1916, and no independent source recovered yet prints Schoenheinz at 503. Therefore record **Charles Schoenheinz at 503 as PROBABLE / WORKING HYPOTHESIS**, not documented exact-address fact. Earlier Hylton and Schiermann readings remain withdrawn. See `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
 
 ### 501 — Pollock / Fifth Street Restaurant
 
@@ -110,5 +110,5 @@ Do not propagate these earlier conversation readings:
 1. Search Fred Steiner / spelling variants in contemporary Oregon City directories, barber advertisements, licenses and newspapers, while keeping the Beaver Creek Fred Steiner separate unless identifiers bridge them.
 2. Resolve the Book 4 501 initials independently. Test—but do not assume—the later W. W. Pollock / Fifth Street Restaurant identity.
 3. Seek an address-indexed 1915–17 directory for independent occupancy corroboration at 501, 503 and 503½.
-4. Preserve 503 tenant as unresolved until a clearer source or independent exact-address record identifies it.
+4. Test the new **Charles Schoenheinz** 503 reading against an address-indexed 1916–17 directory and other exact-address evidence; preserve it as probable/working until corroborated.
 5. Keep the possible-505 vacancy inference qualified because Book 3 leaves the house-number field blank and Book 4 omits 505 entirely.
