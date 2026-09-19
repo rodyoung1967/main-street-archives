@@ -1,8 +1,8 @@
-# 2026-09-19 Charles Schoenheinz as possible 503 Main water-ledger tenant
+# 2026-09-19 C. Schoenheinz as probable 503 Main water-ledger tenant; Charles identity and shoe-store hypotheses
 
 ## Research question
 
-Project steward Rodney Young reports that the faint tenant signature/name on the **503 Main** row of the 1916–1917 Oregon City Water Rent Record Book 4 most closely reads **Charles Schoenheinz**, and considers that handwriting reading highly probable.
+Project steward Rodney Young reports that the faint tenant signature/name on the **503 Main** row of the 1916–1917 Oregon City Water Rent Record Book 4 most closely reads **C. Schoenheinz**, and considers that handwriting reading highly probable.
 
 This pass tests whether a contemporary Oregon City person named Charles Schoenheinz existed and whether his documented activities make him a plausible 503 tenant. It does **not** promote the exact-address identification until an independent 503 bridge is recovered.
 
@@ -10,7 +10,7 @@ This pass tests whether a contemporary Oregon City person named Charles Schoenhe
 
 Book 4 directly numbers **503 Main** and classifies/records the premises separately from 503½. The tenant handwriting is faint. Previous candidate readings L. Hylton and Schiermann were withdrawn as visually insecure.
 
-**New steward reading:** `Charles Schoenheinz` / `Chas. Schoenheinz` is now the leading handwriting hypothesis for the 503 tenant line.
+**New steward reading:** `C. Schoenheinz` is now the leading handwriting transcription for the 503 tenant line. The ledger does **not** supply the given name Charles.
 
 Evidence state: **PROBABLE / WORKING HYPOTHESIS based on steward visual reading**, pending independent exact-address corroboration.
 
@@ -73,9 +73,9 @@ https://oregonnews.uoregon.edu/lccn/sn00063698/1914-12-10/ed-1/seq-5/
 
 ## Assessment
 
-The new name hypothesis is materially stronger than the earlier Hylton/Schiermann guesses because:
+The **C. Schoenheinz** transcription is materially stronger than the earlier Hylton/Schiermann guesses. The separate **Charles Schoenheinz identity hypothesis** is supported because:
 
-1. **Charles Schoenheinz is directly documented in Oregon City in 1916**, exactly within the Book 4 period.
+1. A **Charles Schoenheinz is directly documented in Oregon City in 1916**, exactly within the Book 4 period.
 2. He was a known **musician**, was **treasurer/business manager** of the Oregon City band in November 1916, and by May 1917 is directly reported to have disposed of **his interest in the Theroux music store**.
 3. The project steward independently arrived at **Schoenheinz** by reading the faint 503 ledger handwriting before this commercial-history connection was developed.
 
@@ -86,7 +86,7 @@ But the decisive bridge is still missing:
 
 Therefore the responsible current formulation is:
 
-> **503 Main, Book 4 tenant: Charles Schoenheinz — PROBABLE / WORKING HYPOTHESIS, steward-led handwriting reading with strong contemporary person/business plausibility; exact-address corroboration still required.**
+> **503 Main, Book 4 tenant: C. Schoenheinz — high-confidence steward handwriting reading / PROBABLE transcription. Identity as Charles Schoenheinz remains a separate PROBABLE / WORKING HYPOTHESIS. Exact-address corroboration from another source is still required.**
 
 ## Highest-value next sources
 
@@ -94,4 +94,5 @@ Therefore the responsible current formulation is:
 2. Search 1915–17 newspapers for `Schoenheinz` plus store/shop/503/Main/Theroux, including advertisements not captured by OCR.
 3. Establish the Schoenheinz family identities: older Karl/Carl/Charles versus younger Charles, spouses, occupations and residences.
 4. Determine when and how Charles acquired his Theroux music-store interest and whether he had another storefront, office, storage room or business interest at 503.
-5. Compare the ledger handwriting against independently written/printed full-name records only as corroboration; do not let known spelling force ambiguous letterforms.
+5. Test whether the 1911 **C. Schoenheinz** proprietor of the Old Reliable Oregon City Shoe Shop at 716 Main is the same person as the Book 4 tenant. A shoe-store use at 503 is historically plausible but **UNPROVEN**; do not infer the 503 store type beyond the ledger's generic `Store` classification.
+6. Compare the ledger handwriting against independently written/printed full-name records only as corroboration; do not let known spelling force ambiguous letterforms.
