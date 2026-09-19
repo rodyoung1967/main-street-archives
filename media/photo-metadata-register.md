@@ -1889,3 +1889,27 @@ Source capture: `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-
 - Secondary date clue: Oregon Encyclopedia reproduces the **same exposure** as **“Oregon City, c. 1930”**, crediting OHS Journal `371A5709`; treat c.1930 as secondary and preserve the A/N identifier discrepancy unresolved.
 - Railroad caution: do not use visible lower Third/Fourth-area Railroad Avenue condition as a proxy for the 1929 Fifth–Seventh improvement.
 - Review: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`
+
+
+## IMG-0775–IMG-0778 — 1916–1917 Water Rent Book 4 high-resolution steward screenshots
+<!-- 2026-09-19-water-ledger-high-resolution-rereview -->
+
+Type: project-steward screenshots / working-detail derivatives of the official Oregon City **1916–1917 Water Rent Record Book 4**.  
+Source context: official City scan, https://www.orcity.org/DocumentCenter/View/6212/1916-1917-Water-Rent-Record-Book-4  
+Related addresses: 501, 503, 503½ Main; missing 505 position.  
+Interpretation capture: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
+
+| Media ID | Original filename | Scope | Dimensions | SHA-256 | Repository status |
+| --- | --- | --- | --- | --- | --- |
+| IMG-0775 | `IMG_5817.jpeg` | Full Book 4 target page / Main Street sequence | 1032 × 1894 | `ec37ec62b8c7aa85fed5a8f24a15ecbdf3c09e1949bc174a8ab0e3bd46fb0b53` | **pending-upload — technical connector gap** |
+| IMG-0776 | `IMG_5818.jpeg` | 503 Main tenant crop | 2600 × 364 | `fa639865c604d42d61bceb3f4f250e79fc5944fe0a320a75d33a71906f4f961f` | **pending-upload — technical connector gap** |
+| IMG-0777 | `IMG_5819.jpeg` | 503½ Main tenant crop; Fred Steiner rereview | 2622 × 380 | `7fba1f1d7d97d670b395cad141b7ad0c2a96088c24d3e9345936f66421597f80` | **pending-upload — technical connector gap** |
+| IMG-0778 | `IMG_5820.jpeg` | 501 Main Pollock / Fifth Street Restaurant crop | 2554 × 363 | `8cc684cf3a80a51d9c1438c5854ec9c8265e467d85b0ec9c755f3ed7bdb07568` | **pending-upload — technical connector gap** |
+
+Visual conclusions:
+- 503 tenant remains unresolved.
+- 503½ tenant is read by the project steward as **Fred Steiner**, with compatible cross-book support from Book 3.
+- 501 tenant surname is **Pollock**; initials unresolved; diagonal annotation reads **Fifth Street Restaurant / 5th St Restaurant**.
+- Full page confirms **511 → 509 → 507 → 503 → 503½ → 501 Main**, with no separately written 505 Main account.
+
+Binary-preservation note: the exact screenshot files were supplied in conversation and visually inspected. The active GitHub connector exposes no conversation-attachment binary upload action, so the bytes could not be committed in this operation. Original filenames, dimensions and SHA-256 fingerprints are preserved here for exact future recognition. This is a technical preservation gap only; the official Book 4 source remains externally available and the visual findings are documented.
