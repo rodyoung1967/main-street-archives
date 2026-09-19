@@ -633,3 +633,11 @@ Controlling capture: `evidence/source-captures/2026-09-19-water-ledger-501-503-5
 Highest-value test: recover an address-indexed **1916–17 Oregon City directory** and inspect both 503 Main and all Schoenheinz entries; then resolve older versus younger Charles/Karl/Carl Schoenheinz identities. Keep the 1911 `C. Schoenheinz` shoe shop at 716 Main separate until identity is proved. Current evidence state: **C. Schoenheinz** is the probable/high-confidence steward transcription; **C. Schoenheinz = Charles Schoenheinz** is a separate **PROBABLE / WORKING HYPOTHESIS**. The 1911 C. Schoenheinz shoe-shop evidence makes a shoe-store use at 503 worth testing, but the Book 4 ledger says only `Store` and no source yet proves a shoe store at 503.
 
 Detailed capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
+
+### 19 September 2026 — Beaver Creek Fred Steiner identity control
+<!-- 1912-1914-fred-steiner-beaver-creek-control -->
+
+`S-388` / `E-354` materially sharpens the 503½ tenant investigation. The 1 March 1912 Courier's “F. Steiner … Fred” item was printed under a **wrong Clear Creek heading**; the 8 March issue explicitly says those were **Beaver Creek items** and directly names Fred Steiner in the corrected Beaver Creek column. Visually verified 26 February and 5 March 1914 Courier pages independently call Fred Steiner a Beaver Creek resident.
+
+Keep this rural Fred Steiner identity context **separate from the probable 503½ Main / Barber Shop tenant transcription** until a direct occupational/address/biographical bridge is recovered. Do not treat the rural residence as exclusion evidence: a Beaver Creek resident could have worked or operated a business in Oregon City. Highest-value next sources remain 1914–17 directories, barber licenses/advertisements, telephone listings, census/property records and any exact 503½ reference that names Steiner.
+
