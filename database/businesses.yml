@@ -1360,4 +1360,17 @@ businesses:
       1919 billiard business, or later 505 pool-hall chains without an independent bridge.
     related_evidence: [E-353]
     related_sources: [S-387]
-
+- id: BUS-109
+    name: Oregon City Shoe Store
+    repository_file: businesses/oregon-city-shoe-store-lageson.md
+    address: "Main Street opposite Post Office in 1910; 508 Main Street by 26 April 1912"
+    notes: >-
+      Justin S. Lageson is directly advertised as proprietor in 1910. The
+      26 April 1912 advertisement directly prints 508 Main St. / Opposite
+      Postoffice but does not print Lageson's name, so uninterrupted
+      proprietorship is unresolved. Keep separate from C. Schoenheinz's
+      Old Reliable Oregon City Shoe Shop at 716 Main and from any 503 Main
+      shoe-store hypothesis.
+    related_people: [P-403]
+    related_evidence: [E-355]
+    related_sources: [S-389]
