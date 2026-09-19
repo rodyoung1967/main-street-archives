@@ -3347,3 +3347,13 @@ Date made: **1921**.
 Record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/peerless-bakery-oregon-city-1921.
 Related evidence: `E-351`.
 Notes: Public image is an **interior bakery view**, not a usable Main/Fourth/Fifth/Sixth streetscape. Independent 24 Oct. 1918 Oregon City Courier business-directory evidence places Peerless Bakery (E. Young, proprietor) at **903 7th**, so it is outside the target 4th–6th area and does not provide target-frontage evidence.
+
+## S-387 — Oregon City Courier, 9 February 1912, page 5 — Cox & Ward dissolution
+Type: Primary newspaper page; original University of Oregon Historic Oregon Newspapers scan **VISUALLY VERIFIED 19 September 2026**.  
+Publication/date/page: *Oregon City Courier*, 9 February 1912, p.5 / archive sequence 5.  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5/  
+Canonical scan PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5.pdf  
+Repository capture: `evidence/source-captures/1912-courier-february09-visual-review-2026-09-19.md`.  
+Related evidence/business/lead: `E-353`; `BUS-108`; `RL-053`.  
+Notes: The scan visibly reports Cox & Ward as Main Street tobacco dealers and billiard-room proprietors, the dissolution of their partnership, and Mr. Ward's sale to his partner. Exact street number and given names are not printed. No repository page binary was added in this connector-only pass; the stable institutional original was inspected directly.
+
