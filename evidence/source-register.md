@@ -3383,3 +3383,10 @@ Related: `E-355`; `BUS-109`; `P-403`.
 Capture: `evidence/source-captures/1910-1912-oregon-city-shoe-store-lageson-508-main-separation-2026-09-19.md`.
 
 Notes: Jan. 1910 visually prints Oregon City Shoe Store, Justin S. Lageson, and Opposite Postoffice. Apr. 1910 directly prints Justin S. Lageson, Prop. / Main Street. Apr. 1912 visually prints Oregon City Shoe Store / 508 Main St. / Opposite Postoffice. The 1912 ad does not name Lageson, so proprietor continuity is not assumed.
+## S-390 — Morning Oregonian, 10 September 1920, p.20 — K. Schoenheinz shoemaker wanted
+Type: Primary newspaper classified advertisement; original University of Oregon scan **VISUALLY VERIFIED 19 September 2026**.  
+Primary page: https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/  
+Related evidence: `E-356`.  
+Related capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
+
+Notes: The Help Wanted—Male classifieds directly print **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** Preserve the initial exactly as printed. The source gives no street address, full given name, shop trade name, or relation to 503 Main.
