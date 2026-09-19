@@ -83,3 +83,14 @@ No new claim-level `E-###` or `S-###` entry is assigned from this batch. No buil
 - 1912 remains **IN PROGRESS** under `RESEARCH-STANDARD.md`.
 
 **Next ordinary chronological Courier issue:** 16 February 1912, sequence 1.
+
+## 19 September 2026 addendum — Cox & Ward item on sequence 5
+
+A focused re-review of sequence 5 identified a separate business-transition item that was not included in the first issue summary. The original scan visibly reports **Cox & Ward** as **tobacco dealers and billiard-room proprietors of Main Street**, says the partnership **dissolved**, and says **Mr. Ward sold to his partner**. The article also attributes Ward's exit to poor health / the indoor occupation not agreeing with him.
+
+This is now registered as `S-387` / `E-353` / `BUS-108`, with exact-address/identity follow-up under `RL-053`.
+
+The page prints no street number or partner given names. Do **not** use the item to assign Cox & Ward to 503 or 505 Main, and do not merge it with H. H. Smith's March 1912 503 pool-hall application, F. D. Cox's 1919 billiard business, or later 505 pool-hall chains without an independent bridge.
+
+This addendum changes the issue's **business-history yield**, but it does **not** change the original conclusion that the 9 February issue produced no direct new 501/503/505/507/509/511 claim.
+
