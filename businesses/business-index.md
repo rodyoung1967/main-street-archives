@@ -240,4 +240,8 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
 | BUS-108 | [Cox & Ward tobacco / billiard rooms](cox-ward.md) | Main Street, Oregon City; exact number unresolved | 9 Feb. 1912 Courier p.5 directly calls Cox & Ward tobacco dealers and billiard-room proprietors and reports the partnership dissolved, with Mr. Ward selling to his partner. Given names, exact premises, successor trade name and continuation are unresolved. Do not merge with H. H. Smith at 503, F. D. Cox's 1919 billiard business, or later 505 pool-hall chains without an independent bridge. `E-353` / `S-387`. |
+## 19 September 2026 — Oregon City Shoe Store separation control
 
+| ID | Business | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-109 | [Oregon City Shoe Store](oregon-city-shoe-store-lageson.md) | Main Street opposite Post Office in 1910; **508 Main** by 26 Apr. 1912 | Justin S. Lageson directly printed as proprietor in 1910. Keep separate from C. Schoenheinz / Old Reliable Oregon City Shoe Shop at 716 Main. No 503 relationship established. `E-355` / `S-389`; `P-403`. |
