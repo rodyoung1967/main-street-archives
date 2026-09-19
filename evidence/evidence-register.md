@@ -3592,3 +3592,19 @@ Claims:
 
 Classification: **DOCUMENTED / DIRECT** for printed initial/name form, Oregon City, and shoemaker hiring; **UNRESOLVED** for identity/address continuity.  
 Confidence: Very High for the original scan wording.
+
+## E-357 — 1912 Main/Eighth moving-picture block and Star Theatre continuity
+Type: Primary newspaper construction/opening evidence + cross-source business continuity; **VISUALLY VERIFIED / STRONG CROSS-SOURCE INFERENCE**.  
+Source: `S-391`.  
+Related business: `BUS-110` Star Theatre.  
+Claims:
+- 2 Feb. 1912 Courier p.1 directly reports Mt. Hood Brewing Co. taking a long lease on the Hood property at **Main and Eighth**, going north 66 feet, for a new two-story block with a saloon, store and moving-picture theatre; **George Simmons** had already leased the theatre.
+- 24 May 1912 Courier p.5 directly says the new motion-picture theatre **on Main Street** was nearly ready to open, but does not name it.
+- 31 May 1912 Morning Enterprise p.3 directly identifies the **Star Theatre**, under **George Simmons**, opening the next evening in a building **on Main Street near Eighth**, specially constructed for moving pictures, seating 300.
+- Matching manager/lessee, location, construction timing and theatre type make the 24 May unnamed theatre a **STRONG CROSS-SOURCE CONTINUITY MATCH** to the February Main/Eighth project and the Star Theatre opening.
+- The project is explicitly outside the Fifth/Main 501–511 target frontage and must not be used as target construction evidence.
+- It is a concrete documented example of Main Street rebuilding during the season of the 10 May “tear down / build up” editorial, but the editorial does not identify this project and cannot be said to refer specifically to it.
+- Later sources conflict on the numbered Star Theatre address (716 vs 720 Main); no numbered 1912 opening address is assigned here.
+Classification: **DOCUMENTED / DIRECT** for the February and May 31 source wording; **STRONG CROSS-SOURCE INFERENCE** for identification of the unnamed 24 May theatre with the Star project; **NON-TARGET CONTROL** for 501/503/505 research.  
+Confidence: Very High for direct printed geography/manager/opening facts; High for continuity of the May 24 unnamed theatre.
+
