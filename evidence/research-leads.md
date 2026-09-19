@@ -601,3 +601,13 @@ Next research should therefore concentrate on **master-resolution recovery / rev
 New exact-1921 lead `S-385`: Old Oregon's **Building the Temporary Bridge at Willamette Falls - 1921** is credited to **Ralph Eddy**, restored from a CCHS original negative, photographer number **B10**.
 
 Highest-value next step: search CCHS / Old Oregon / related Eddy holdings for **B-series negatives immediately around B10** (for example B1–B20, without assuming all are same-day) and inspect any Oregon City/bridge frames for views toward Fourth, Fifth, Sixth, Main, or the bluff. This provenance-driven search is now more promising than repeating generic “Oregon City 1921” keyword searches.
+
+## RL-053 — Cox & Ward 1912 exact address and succession
+<!-- 1912 Cox Ward exact-address succession lead — 2026-09-19 -->
+
+**Priority: MEDIUM-HIGH — ONLINE FIRST.** The visually verified 9 February 1912 *Oregon City Courier* p.5 (`S-387` / `E-353`) directly identifies **Cox & Ward** as Main Street tobacco dealers and billiard-room proprietors and reports that the partnership dissolved, with **Mr. Ward selling to his partner**. The article does not print a street number or either partner's given name.
+
+Resolve the exact Main Street premises; the partners' full identities; whether the remaining partner continued the same business after Ward's sale; whether any documented bridge exists to **H. H. Smith's March 1912 pool-hall application at 503 Main**; and whether either partner can be independently identified with **F. D. Cox's 1919 billiard business**.
+
+The February timing and shared billiard/tobacco trade make these comparisons worth testing, but they are **UNVERIFIED LEADS only**. Do not merge the businesses or infer 503/505 occupancy from trade type or surname similarity.
+
