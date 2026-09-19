@@ -611,3 +611,15 @@ Resolve the exact Main Street premises; the partners' full identities; whether t
 
 The February timing and shared billiard/tobacco trade make these comparisons worth testing, but they are **UNVERIFIED LEADS only**. Do not merge the businesses or infer 503/505 occupancy from trade type or surname similarity.
 
+
+
+## 19 September 2026 — Fred Steiner at 503½ / Pollock at 501 ledger follow-up
+<!-- 2026-09-19-water-ledger-tenant-rereview -->
+
+**Priority: HIGH — ONLINE FIRST.** High-resolution steward rereview of Oregon City Water Rent Books 3 and 4 now supports **Fred Steiner** as the probable tenant-name transcription at **503½ Main**, the Book 3 row explicitly classified **Barber Shop**. Search 1914–17 city/business directories, barber advertisements, licenses, telephone listings and newspapers for **Fred Steiner** plus spelling variants and exact-address evidence. Keep the separately encountered Beaver Creek/Beavercreek Fred Steiner distinct unless independent identifiers bridge them.
+
+At **501 Main**, Book 4 now strongly reads **[initials unclear] Pollock** with diagonal **Fifth Street Restaurant / 5th St Restaurant** wording. Search 1915–19 directories, licenses, advertisements and municipal records to resolve the initials and test continuity to the independently documented **W. W. Pollock / Fifth Street Restaurant** evidence in 1919. Do not normalize the ledger initials to W. W. before they are independently resolved.
+
+At **503 Main**, tenant identity remains unresolved; do not force Hylton or Schiermann from the faint handwriting.
+
+Controlling capture: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
