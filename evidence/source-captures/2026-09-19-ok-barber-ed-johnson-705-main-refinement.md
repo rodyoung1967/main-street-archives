@@ -59,3 +59,31 @@ The O.K. Barber Shop should no longer be treated as an equally plausible default
 1. Search 1919–1922 Oregon City ads/directories for **Ed Johnson**, **O.K. Barber Shop**, **705 Main**, **7th/Main**, and bath/barber wording.
 2. Identify the proprietor/occupant of the **503½ barber shop** from water, directory, license, or newspaper material.
 3. Do not merge the 503½ barber with Ed Johnson/O.K. without a direct bridge.
+
+
+## Further continuation — Johnson shop continuity back to 1901–1903
+
+A fresh Historic Oregon Newspapers pass recovered much earlier primary references to **Johnson's barber shop** in Oregon City:
+
+- *Oregon City Enterprise*, **4 October 1901**, p.8: a Troy Laundry notice instructs customers to leave orders at **Johnson's barber shop**.
+- *Oregon City Enterprise*, **1 November 1901**, p.8: the same laundry notice again directs orders to **Johnson's barber shop**.
+- *Clackamas County Record*, **21 May 1903**, p.1: a cleaning/dyeing advertisement uses **Johnson's Barber Shop** as its Oregon City order location.
+- *Clackamas County Record*, **23 July 1903**, p.1: another cleaning/dyeing advertisement again uses **Johnson's Barber Shop**.
+
+Public scans:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1901-10-04/ed-1/seq-8/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1901-11-01/ed-1/seq-8/
+- https://oregonnews.uoregon.edu/lccn/sn00063710/1903-05-21/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063710/1903-07-23/ed-1/seq-1/
+
+These are **PRIMARY NEWSPAPER / DIRECT** for an Oregon City business called Johnson's barber shop in 1901–1903. They do not print a street address or Ed Johnson's given name on the recovered text, so the identity link to the later Ed Johnson / O.K. Barber Shop remains a **strong continuity hypothesis**, not direct proof.
+
+### Effect on the O.K. hypothesis
+
+The marker's circa-1907 date is no longer the earliest indication of a Johnson barber business in Oregon City. A Johnson-named barber shop was operating by 1901. Combined with the 1916 direct Ed Johnson barber advertisement and the 1922 O.K. Barber Shop listing, this strengthens the possibility of a long-lived Johnson barber operation near Seventh/Main. It does **not** by itself prove that the same premises/trade name persisted continuously or that Johnson's 1901 shop occupied modern 705 Main.
+
+### 503½ search result
+
+Targeted public-index searches for `503½`, `503 1/2`, `503-1/2`, `503 Main` + barber, and Miller + barber in the 1916–1922 period did not expose a contemporary source naming the 503½ barber proprietor. Treat this as a **public-index retrieval boundary only**, not evidence of absence.
+
+The next highest-value route for the Fifth/Main barber is therefore the repository's address-based primary material (water ledgers and any directory/license records) rather than further generic web searching.
