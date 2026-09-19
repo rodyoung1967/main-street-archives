@@ -1004,4 +1004,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Entity | Source / evidence | Relationship / limits |
 | --- | --- | --- |
 | `BUS-108` Cox & Ward tobacco / billiard rooms | `S-387` / `E-353` | 9 Feb. 1912 direct Main Street business and dissolution record; exact number and given names unresolved. `RL-053` tests, but does not assume, links to H. H. Smith at 503 or F. D. Cox in 1919. |
+## BUS-109 — Oregon City Shoe Store / Justin S. Lageson separation control
 
+| Entity / evidence | Related records | Control |
+| --- | --- | --- |
+| `BUS-109` Oregon City Shoe Store; `P-403` Justin S. Lageson | `S-389` / `E-355` | Lageson direct proprietor in 1910; store exact 508 Main by 26 Apr. 1912. Keep separate from C. Schoenheinz's Old Reliable Oregon City Shoe Shop at 716 Main and from the unproved 503 shoe-store hypothesis. |
+| `S-390` / `E-356` | K. Schoenheinz shoemaker-wanted classified, 10 Sep. 1920 | Visually verified printed K. form; no address/full-name identity bridge. Do not normalize to Karl/Carl/Charles. |
