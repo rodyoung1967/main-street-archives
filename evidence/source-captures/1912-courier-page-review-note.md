@@ -63,3 +63,15 @@ Detailed capture: `evidence/source-captures/1912-courier-march01-march08-visual-
 - `S-390` / `E-356` upgrades the 10 Sep. 1920 **K. Schoenheinz** shoemaker-wanted classified to visually verified primary evidence; preserve K. exactly.
 
 **Current chronological Courier resume point: 12 April 1912, sequence 1.** **1912 remains IN PROGRESS.**
+
+## 19 September 2026 — 26 April completion
+
+- **26 April 1912: 8/8 VISUALLY VERIFIED.** All eight archive sequences were visually inspected; sequence 5 was recovered through the archive page/PDF route after the direct PDF call failed.
+- Sequence 4 contains a visible foreign/stale top strip reading **MORNING ENTERPRISE, FRIDAY, APRIL 19, 1912**, but the underlying *Courier* editorial body discusses the already-completed Friday primaries and their results and therefore postdates April 19. Comparison with the actual 19 April Courier sequence 4 shows a different page. Treat the strip as source-image/header contamination, not a misdated April-19 Courier page.
+- Sequence 8 directly prints Oregon City Shoe Store at **508 Main / opposite Postoffice**, already controlled under S-389 / E-355; no duplicate evidence record was created.
+- Sequence 5 places Farr Bros.' nearly completed modern meat-market foundation at **Seventh and Monroe**; sequence 6 places Carl Juhnke's Harness & Shoe Store at **Seventh and Center**. Both are explicit non-target controls.
+
+Detailed capture: evidence/source-captures/1912-courier-april26-visual-review-2026-09-19.md.
+
+**Current chronological Courier resume point: 3 May 1912.** The existing 3 May pagination/retrieval problem must be resolved or preserved before complete visual-review credit. **1912 remains IN PROGRESS.**
+
