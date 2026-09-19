@@ -203,3 +203,21 @@ GitHub code search also returned no useful text hits for those strings; the rele
 - Keep O.K./Ed Johnson, 503½ barber, Myers & Wentworth, Green's, Cut Rate/Schultz, and Bennett separate.
 - Keep S. Wolf, L. Wolf, Wolf & Miller's unidentified Wolf, and other Wolf candidates separate.
 - Do not infer the unnamed July 1922 Harding-property barber solely from the 1914–15 503½ use classification; the continuity bridge remains open.
+
+
+## 19 September 2026 later ledger rereview update
+
+This handoff's earlier statement that the 503½ proprietor/tenant was unresolved has been superseded in part by a higher-resolution steward rereview later the same morning.
+
+- **503½ Main — Fred Steiner** is now the **probable/steward-verified tenant-name transcription**, supported by compatible faint entries in both 1914–15 Book 3 and 1916–17 Book 4.
+- The person's historical identity remains unresolved; do not merge with the Beaver Creek Fred Steiner without independent identifiers.
+- **503 Main tenant remains unresolved**; proposed Hylton/Schiermann readings were tested and withdrawn as visually insecure.
+- **501 Main, Book 3:** faint tenant/business wording appears to end in **Cafe**; first word unresolved.
+- **501 Main, Book 4:** surname **Pollock** is a strong visual reading; initials remain unclear; diagonal annotation reads **Fifth Street Restaurant / 5th St Restaurant** with high confidence.
+- **possible 505, Book 3:** unnumbered row between 507 and 503 carries the high-confidence vacancy mark `V`; exact assignment to 505 remains a probable sequence inference because the number itself is blank.
+- **Book 4:** 505 is absent from the expected sequence.
+
+Detailed controlling capture:
+`evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`
+
+This later update controls over the earlier “503½ proprietor unresolved” wording in this handoff.
