@@ -245,3 +245,10 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address / Association | Notes |
 | --- | --- | --- | --- |
 | BUS-109 | [Oregon City Shoe Store](oregon-city-shoe-store-lageson.md) | Main Street opposite Post Office in 1910; **508 Main** by 26 Apr. 1912 | Justin S. Lageson directly printed as proprietor in 1910. Keep separate from C. Schoenheinz / Old Reliable Oregon City Shoe Shop at 716 Main. No 503 relationship established. `E-355` / `S-389`; `P-403`. |
+
+## 19 September 2026 — 1912 Star Theatre non-target construction control
+
+| ID | Business | Address / Association | Notes |
+| --- | --- | --- | --- |
+| BUS-110 | [Star Theatre](star-theatre-1912.md) | Main Street at/near Eighth; exact 1912 number unresolved | Feb. 1912 planned Mt. Hood Brewing Co. block theatre leased by George Simmons; 24 May unnamed Main Street theatre nearly open; 31 May Morning Enterprise directly names Star Theatre under Simmons opening June 1 near Eighth. Strong continuity; explicit non-target construction control. Later 716-vs-720 Main metadata conflict preserved. `E-357` / `S-391`. |
+
