@@ -1,6 +1,6 @@
 # 1916–1917 Water Rent Record Book 4 — visual review and target-address evidence
 
-Status: **official source confirmed; direct scan URL recovered; target Main Street pages visually reviewed from user-supplied screenshots on 23 August 2026**
+Status: **official source confirmed; direct scan URL recovered; target Main Street pages visually reviewed from user-supplied screenshots on 23 August 2026 and re-reviewed from higher-resolution steward screenshots on 19 September 2026**
 
 The City of Oregon City historic-documents research page lists:
 
@@ -34,7 +34,9 @@ The ledger separately recognizes:
 - **503 Main**
 - **503½ Main**
 
-Both entries appear in the Main Street run and are associated with **G. A. Harding, Agt.** as owner/agent. Faint tenant writing is present, but the tenant names are not yet transcribed with enough confidence to promote as names.
+Both entries appear in the Main Street run and are associated with **G. A. Harding, Agt.** as owner/agent. The repeated dark `G. A. Harding, Agt.` writing belongs to the **Owner** lines; the much fainter writing on the **Tenant** lines is separate occupant information.
+
+On 19 September 2026 the project steward supplied substantially higher-resolution crops. The 503 tenant remains too faint for a responsible transcription. At **503½**, however, the steward reads the tenant as **Fred Steiner** with confidence. Comparison with the corresponding Book 3 503½ tenant entry is compatible with the same reading. Preserve **Fred Steiner at 503½** as a steward-verified/probable cross-book visual transcription while keeping the person's historical identity unresolved; do not automatically merge him with the separately documented Fred Steiner of Beaver Creek.
 
 The use of ½-addresses elsewhere in the same ledger (examples visible in screenshots include 417½, 512½, and 524½) supports treating **503½ as a genuine separately recorded sub-address/unit**, not as shorthand for 505 Main.
 
@@ -50,7 +52,9 @@ Do not equate 503½ with 505 without independent evidence.
 
 ## 501 Main
 
-The 501 Main entry immediately following 503½ contains a handwritten classification/use notation that appears to read **"Restaurant"**. A nearby **"5th"** notation is also visible, but its meaning is unresolved; it may be a cross-reference, corner/service note, or other ledger annotation. Record the restaurant reading as high-confidence working transcription, but do not infer that the business itself was addressed on 5th Street solely from this notation.
+The 19 September high-resolution rereview materially improves this entry. The tenant surname is read confidently as **Pollock**; the initials before Pollock remain difficult and are intentionally left **unclear**. A diagonal annotation is read as **“5th St Restaurant” / “Fifth Street Restaurant”** with high confidence.
+
+Record the ledger result as **501 Main — [initials unclear] Pollock — Fifth Street Restaurant**. Later independent evidence associates **W. W. Pollock** with Fifth Street Restaurant in 1919, but do not normalize the Book 4 initials to W. W. unless they are independently resolved.
 
 ## Other screenshot context
 
@@ -62,17 +66,22 @@ Additional screenshots from Book 4 show that a visible **505** elsewhere in the 
 - **503½ Main separately recorded:** high confidence.
 - **G. A. Harding, Agt. associated with the target block entries:** high confidence visual reading.
 - **505 Main not explicitly present in the expected 1916–1917 Main Street sequence:** high confidence.
-- **501 Main classified/used as Restaurant:** high confidence working transcription.
-- **Meaning of the nearby "5th" notation:** unresolved.
+- **503½ tenant Fred Steiner:** probable/steward-verified cross-book visual transcription; historical identity unresolved.
+- **503 tenant identity:** unresolved.
+- **501 tenant surname Pollock:** high-confidence visual reading; initials unresolved.
+- **501 diagonal Fifth Street Restaurant annotation:** high-confidence visual reading.
 - **Reason for 505 Main's absence:** unresolved; absence is not proof of vacancy.
 
 ## Required follow-up
 
-1. Preserve higher-resolution crops of the 503 and 503½ tenant lines if possible and attempt name identification by comparison with directories/newspapers.
-2. Compare Book 4 with 1914–1915 Water Rent Record Book 3.
-3. Check whether any owner/tenant name associated with the blank-position/505 question matches known 505 businesses or owners.
-4. Keep 503½ and 505 separate unless an independent source explicitly links them.
+1. Corroborate **Fred Steiner** independently through directories, barber advertisements, licenses and newspapers; keep similarly named people separate.
+2. Resolve the **501 Pollock initials** independently and test, without assuming, continuity to the later W. W. Pollock / Fifth Street Restaurant evidence.
+3. Resolve the 503 tenant only from clearer handwriting or independent exact-address evidence.
+4. Check whether any owner/tenant evidence clarifies the missing-505 question.
+5. Keep 503½ and 505 separate unless an independent source explicitly links them.
+
+Detailed 19 September rereview and screenshot fingerprints: `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md`.
 
 ## Research-standard note
 
-These findings are based on direct visual inspection of user-supplied screenshots from the official City scan. Faint handwriting should not be promoted to named-person evidence until independently legible/corroborated.
+These findings are based on direct visual inspection of project-steward screenshots from the official City scan. The Fred Steiner transcription is promoted only as a **steward-verified/probable ledger transcription supported across Books 3 and 4**; it is not yet an independently corroborated biographical identification. The 503 tenant remains unresolved.
