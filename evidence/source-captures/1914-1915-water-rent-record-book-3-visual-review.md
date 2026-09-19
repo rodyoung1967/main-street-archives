@@ -64,7 +64,11 @@ The same printed ledger page directly records:
 - **503½ Main — Barber Shop**;
 - **501 Main — layered/changed Restaurant and Saloon classification writing**.
 
-The 503 and 503½ tenant names remain too faint/layered for a responsible final transcription. The 503 writing may be worth comparing with the independently documented 1914 L. Hylton record, but no identity is assigned from visual resemblance alone.
+A 19 September 2026 high-resolution steward rereview materially changes the tenant-name handling. The **503 tenant remains unresolved**: candidate readings such as L. Hylton and Schiermann were tested but are not visually secure and must not be promoted from this ledger.
+
+At **503½**, the project steward reads the faint tenant name as **Fred Steiner** with confidence. The corresponding 503½ entry in 1916–1917 Book 4 appears compatible with the same name, giving cross-book support. Record **Fred Steiner** as a **steward-verified/probable visual transcription** of the tenant name, while keeping the historical identity of this person unresolved and separate from any similarly named Beaver Creek individual unless independent evidence bridges them.
+
+At **501**, enlarged rereview suggests the faint tenant/business wording ends in **Cafe**; the first word remains unresolved. An earlier conversation reading “Clyde Cole” is withdrawn.
 
 The 501 classification is layered across the multi-year ledger record and should not be converted into a single dated 1915 business or occupant. Likewise, a ledger classification is a municipal use/account description, not automatically a trade name or ownership statement.
 
@@ -123,6 +127,9 @@ This strengthens the long-running 505 inactivity/vacancy hypothesis but does not
 | 503½ Main is explicitly separate | **Very High / visually verified** |
 | 503 classified Store | **Very High / visually verified** |
 | 503½ classified Barber Shop | **Very High / visually verified** |
+| 503½ tenant appears to read Fred Steiner | **Probable / steward-verified cross-book visual transcription; identity unresolved** |
+| 503 tenant identity | **Unresolved; do not force Hylton or Schiermann** |
+| 501 faint tenant/business wording appears to end in Cafe | **Visual lead only; first word unresolved** |
 | 501 carries layered Restaurant/Saloon classification | **High / visually verified; exact timing unresolved** |
 | G. A. Harding, Agt. repeats in target group | **Very High / visually verified** |
 | Blank-number row exists between 507 and 503 | **Very High / visually verified** |
@@ -142,6 +149,11 @@ The relevant 1915 target audit is complete. Remaining questions are historical i
 
 1. Find a formal ledger key or municipal instruction explicitly defining `V`, if one survives.
 2. Find an independent numbered source that either assigns or rejects **505 Main** for the blank row.
-3. Resolve the faint/layered tenant names at 503, 503½ and 110 Fifth only with better handwriting comparison or independent documentary evidence.
+3. Independently corroborate the **Fred Steiner** transcription at 503½ through directories/newspapers/licenses; keep 503 unresolved pending clearer evidence; resolve 110 Fifth only with better handwriting comparison or independent documentary evidence.
 4. Test whether **110 Fifth Stable** is related to the newspaper's **Fashion Stable**; do not assume identity from the shared stable use.
 5. Test the probable Scripture & May reading at 110 against directories, licenses, advertisements and later 108 Fifth evidence.
+
+
+## 19 September 2026 high-resolution rereview
+
+See `evidence/source-captures/2026-09-19-water-ledger-501-503-503-half-high-resolution-rereview.md` for the steward-supplied image fingerprints, withdrawn candidate readings, Book 3/Book 4 comparison, and the new 501/503/503½ handling.
