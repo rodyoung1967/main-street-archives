@@ -52,3 +52,42 @@ For later January dates, direct guessed issue/page URLs are intermittently rejec
 - January total: **8/32 complete**
 
 Do not promote OCR text from the remaining 24 pages as evidence or count it as visual review.
+
+
+## 14, 21 and 28 January continuation — retrieval audit
+
+Per steward instruction, the audit did not stop when the image path failed. Each remaining January date/page position was carried forward rather than substituting OCR.
+
+### 14 January 1921
+
+The indexed issue exists and individual page records are discoverable. During this continuation, the retrieval layer exposed searchable/OCR page representations (including p.5) but rejected direct image-bearing PDF opens for the issue. Because the governing standard is to read the scan itself, **no page is promoted as visually reread from OCR**.
+
+Pages 1–8: **RETRIEVAL GAP FOR THIS PASS — image/PDF not rendered; not counted complete.**
+
+### 21 January 1921
+
+The issue/date is indexed, but the continuation did not recover image-bearing page renders through the available route.
+
+Pages 1–8: **RETRIEVAL GAP FOR THIS PASS — image/PDF not rendered; not counted complete.**
+
+### 28 January 1921
+
+The issue/date and individual page records are indexed; p.8 is publicly exposed in searchable text and contains the known Burmeister & Andresen historical-photo-display article. That text representation is **not** being counted as visual review. The image-bearing PDF route did not render during this continuation.
+
+Pages 1–8: **RETRIEVAL GAP FOR THIS PASS — image/PDF not rendered; not counted complete.**
+
+## January status after carrying the audit through every scheduled page
+
+Every January page position has now been attempted under the fresh-reread workflow. The audit did **not** stop at the first failure.
+
+- 7 Jan.: **8/8 visually reread**
+- 14 Jan.: **0/8 visually reread; 8/8 attempted and currently image-retrieval blocked**
+- 21 Jan.: **0/8 visually reread; 8/8 attempted and currently image-retrieval blocked**
+- 28 Jan.: **0/8 visually reread; 8/8 attempted and currently image-retrieval blocked**
+- January: **8/32 visually reread; 24/32 unresolved image-render gaps**
+
+This is deliberately **not** represented as January complete. Searchable text can help establish that the issue/page records exist, but cannot satisfy the steward's every-word visual-reading requirement.
+
+### Next recovery route
+
+Recover the 24 page images through an alternate image-bearing endpoint/download route or a retained repository/source copy, then read each full scan. The already exposed searchable text must not be used to certify these pages.
