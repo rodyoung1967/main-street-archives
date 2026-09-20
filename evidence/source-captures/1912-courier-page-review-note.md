@@ -86,3 +86,13 @@ Captures: `1912-courier-may03-pagination-review-2026-09-19.md`; `1912-courier-ma
 
 **Current chronological Courier resume point: 24 May 1912. 1912 remains IN PROGRESS.**
 
+## 19 September 2026 — 24 May through 14 June advance
+
+- **24 May: 8/8 visually verified.** The unnamed new Main Street motion-picture theatre nearly ready to open is controlled through `S-391` / `E-357` as the non-target Main/Eighth Star Theatre project; Marquam pool-hall/barber and Molalla pool-hall references are locality exclusions.
+- **31 May: 8/8 visually verified.** Page 1 supplies broad citywide construction-boom context but no 501/503/505/507/509/511 project. No target barber, pool/billiard, Schoenheinz or Steiner bridge.
+- **7 June: 8/8 visually verified.** A barber-shop item is explicitly inside the Molalla locality column and is not 503½ evidence. Citywide building-boom wording remains non-addressed context.
+- **14 June: 8/8 visually verified.** Williams Bros. remains opposite Masonic Building; George A. Harding appears only as school-board chairman; Main Street loose-brick repair is described at the north end and is public-street maintenance, not a target private-building event.
+- No claim-level evidence/source IDs were manufactured for bounded no-target issues.
+
+**Current chronological Courier resume point: 21 June 1912, sequence 1. 1912 remains IN PROGRESS.**
+
