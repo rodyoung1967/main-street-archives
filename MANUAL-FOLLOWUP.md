@@ -546,3 +546,15 @@ Related source captures:
 CCHS `2008.008.049.037` (`S-322` / `E-295` / `IMG-0771`) is exact-dated **1960** and, after steward-led enlarged re-review, shows **WELLS** signage on the 505 Main frontage. With `S-284` / `E-257`, this strongly anchors Wells / Well's Recreation in the 1960 photographed state.
 
 `MF-058` remains active, but its question is now narrower: identify the **1960 proprietor/licensee** and the **post-1960 transition to 505 Tavern by 11 November 1965**. The actual 1960 directory and 1959–64 assumed-name volumes become especially high-value. No outreach or fee is authorized by this update.
+
+
+---
+
+## 20 September 2026 — 1921 Morning Enterprise daily run
+<!-- MF-069 1921 Morning Enterprise microfilm / physical-run visual audit -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-069** | **ACTIVE MANUAL — MICROFILM / HOLDINGS ROUTE; NO REQUEST SENT / NO FEE AUTHORIZED** | **Yes** | The **Morning Enterprise** (Oregon City), LCCN `sn00063701`, was a daily (except Monday) and is directly documented as active in 1921, but the public Historic Oregon Newspapers corpus exposes this title only through **23 Dec. 1913**; Oregon City's official digitization page likewise states digitized coverage only **8 Jan. 1911–23 Dec. 1913**, and ODNP project documentation describes Morning Enterprise re-filming/digitization only for **Jan. 1912–Dec. 1913**. A National Register bibliography cites Morning Enterprise issues of **13, 15, and 16 Dec. 1921**, and the title record notes University of Oregon microfilm, so surviving 1921 material should be pursued through University of Oregon microfilm and/or OCLC/WorldCat/Library of Congress holdings. Required work: locate the **complete 1921 run**, establish issue/page inventory, visually inspect every available page, and search the established 500-block scope, especially 501/503/505 Main, occupants/businesses, ownership/tenancy, sales/transfers, demolition/construction/rebuilding/remodeling, fire/damage, openings/closings/moves, and useful neighboring anchors. Treat missing daily coverage as a retrieval gap, never negative evidence. No outreach has been sent and no fee is authorized. |
+
+Source/retrieval checkpoint: `evidence/source-captures/2026-09-20-1921-morning-enterprise-online-availability-reconciliation.md`.
