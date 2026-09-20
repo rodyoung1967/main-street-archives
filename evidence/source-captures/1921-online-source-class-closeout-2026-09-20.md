@@ -106,3 +106,16 @@ ONLINE COMPLETE does not resolve:
 With all publicly retrievable 1921 *Oregon City Enterprise* pages visually reviewed, the other identified online source classes audited, the 1921–22 directory's relevant sections visually reviewed, online photo/map/historic-resource/property routes evaluated, and the unavailable Morning Enterprise, Banner-Courier, Commission, permit and assessment sources explicitly transferred to manual callouts, the requirements for **ONLINE COMPLETE** are satisfied.
 
 The year must **not** be labeled **ONLINE + MANUAL COMPLETE** until the manual callouts are completed or explicitly closed by the project steward.
+
+
+## Steward correction — 20 September 2026
+
+**This closeout is superseded as an annual certification. 1921 is IN PROGRESS.**
+
+The targeted Enterprise second pass recovered visually verified Dr. Freeze advertisements at **505½ Main St.** on 26 Aug., 11 Nov., and 30 Dec. 1921. Therefore any statement above characterizing the Enterprise review as producing zero securely attributable 500-block hits is withdrawn. The original 52-issue / 416-page pass remains a complete page-coverage pass, but it demonstrably missed relevant small advertisements and cannot serve as the final target-extraction audit.
+
+See:
+- `2026-09-20-1921-enterprise-second-pass-freeze-505-half-correction.md`
+- `2026-09-20-1921-enterprise-second-pass-discovery-ledger.md`
+
+The year must remain IN PROGRESS pending the targeted Enterprise re-audit and unresolved 1921 Banner-Courier / Morning Enterprise image-bearing routes.
