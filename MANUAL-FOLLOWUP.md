@@ -568,3 +568,15 @@ Source/retrieval checkpoint: `evidence/source-captures/2026-09-20-1921-morning-e
 | ID | Audited disposition | Still needed? | Audit decision |
 | --- | --- | --- | --- |
 | **MF-070** | **ACTIVE MANUAL / RECORDS-ACCESS CALLOUT — NO REQUEST SENT / NO FEE AUTHORIZED** | **Yes** | Contemporary/historic-resource citations establish that Oregon City's **Commission Proceedings, vols. 3–9, cover 1880–1923**, but the complete underlying 1921 proceeding images were not exposed through the ordinary public/indexed online routes in the 1921 annual closeout. Retrieve the **complete 1921 Commission Proceedings** through Oregon City records/archival holdings or the Council/Commission Proceedings Index and inspect for **501, 503, 505, 505½ Main; Fifth/Main; pool/billiard/cigar businesses; Dr. Freeze; A./A.H. Leland; property owners/agents; licenses; signs; construction/demolition/remodeling; fire; street/sidewalk work; sales/moves and neighboring frontage anchors**. This is separate from MF-061's permit/improvement-file route. No source silence is negative evidence. No outreach has been sent and no fee is authorized. |
+
+
+---
+
+## 20 September 2026 — 1921 Banner-Courier annual run
+<!-- MF-071 1921 Banner-Courier microfilm / physical-run visual audit -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-071** | **ACTIVE MANUAL — MICROFILM / PHYSICAL-RUN VISUAL AUDIT; NO REQUEST SENT / NO FEE AUTHORIZED** | **Yes** | **The Banner-Courier** (Oregon City), LCCN `sn00063699`, is a relevant 1921 local title and must not be omitted from the annual source universe. ODNP's Oregon City digitization documentation specifically identifies the re-filmed/digitized Banner-Courier run as **Jan.–Dec. 1922**; reasonable public/indexed recovery attempts did not expose a complete 1921 page-image corpus. Retrieve the **complete 1921 Banner-Courier run** through Oregon City Public Library / surviving microfilm or another institutional holding, establish issue/page inventory, visually inspect every available page, and search the established 500-block scope, especially 501/503/505/505½ Main, occupants/businesses, ownership/tenancy, sales/transfers, demolition/construction/rebuilding/remodeling, fire/damage, openings/closings/moves, licenses/signs and useful neighboring anchors. Treat unavailable coverage as a retrieval gap, never negative evidence. No outreach has been sent and no fee is authorized. |
+
+Source/retrieval checkpoint: `evidence/source-captures/2026-09-20-1921-banner-courier-availability-reconciliation.md`.
