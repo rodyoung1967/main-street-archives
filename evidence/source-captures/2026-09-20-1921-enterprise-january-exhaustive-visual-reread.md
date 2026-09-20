@@ -164,3 +164,18 @@ Final current accounting:
 - January: **23/32 visually reread; 9/32 explicit retrieval gaps**
 
 The month has been carried through every scheduled issue/page position, but remains **IN PROGRESS** under the steward's every-word visual standard. The nine gaps require a different image-bearing access route or later successful retry; searchable OCR is expressly insufficient.
+
+
+## User-supplied recovery closes the nine image gaps — 20 September 2026
+
+The steward uploaded the missing one-page PDFs directly. The upload set contains **seq-1.pdf through seq-8.pdf**, plus **seq-8(1).pdf**. All nine PDFs successfully rendered as actual page images in the project file reader. This resolves the prior technical image-access blocker: the scans are now available for direct visual inspection rather than OCR-only access.
+
+The eight sequential files correspond to the missing 14 Jan. pp.1–8 set supplied in response to the requested links; the additional seq-8(1).pdf corresponds to the separately requested 21 Jan. p.8. File identity is controlled by the steward's upload context and the requested missing-page set.
+
+### Recovery status
+
+- 14 Jan. pp.1–8: **scan images recovered from user uploads**
+- 21 Jan. p.8: **scan image recovered from user upload**
+- Prior “unrecoverable/render gap” characterization: **superseded**
+
+The month can now proceed to final every-word visual inspection of these nine scans without any OCR substitution.
