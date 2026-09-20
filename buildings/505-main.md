@@ -65,6 +65,12 @@ After Richard Wiitanen's death, the property passed through family/estate succes
 
 Do not assign a single proven construction year to the surviving 505 building. City/consultant work contains conflicting estimates. The stronger secondary bracket places construction/reconfiguration between **1911 and 1925**, with c.1920 only an estimate. The July 1922 evidence now importantly shows that the 505 pool-hall building **survived that fire rather than being razed**, so any reconstruction theory must accommodate that survival/fireproofing evidence.
 
+### June 1920 Leland first-occupant hypothesis
+
+**PROBABLE / WORKING HYPOTHESIS — not a documented fact:** if the City's tentative c.1920 estimate is approximately correct for the surviving 505 building, **A. Leland may have been an initial, possibly the first, commercial occupant of that building**. The evidence presently establishes Wolf & Miller at the 505 address in October 1918, then A. Leland's exact **505½ Main** pool-hall/sign approval on 2/4 June 1920 (`E-135` / `S-150`). It does **not** establish when the predecessor 505 structure was removed or altered, that Leland occupied newly built space, or that he was the first tenant.
+
+Treat this as a testable occupancy/structure hypothesis only. Highest-value proof/disproof remains the underlying **2 June 1920 Commission record/application**, followed by 1919–1921 assessment/improvement records, the 1919–1920 Polk directory, permits/lease records, and other contemporary opening/move notices. Do not convert the absence of an earlier recovered occupant into first-tenancy evidence.
+
 ## Research priorities
 
 - Retrieve deed/legal geometry for Harding→Wolf/Gates and determine whether/how 505 was included.
