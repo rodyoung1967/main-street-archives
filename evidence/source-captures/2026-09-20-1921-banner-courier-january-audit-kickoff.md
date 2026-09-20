@@ -41,3 +41,24 @@ Review scope:
 ## Evidence control
 
 The failure to expose January 1921 images online is a **retrieval gap**, not a no-hit finding and not evidence of newspaper silence.
+
+
+## Continued retrieval findings — 20 September 2026
+
+A broader web/index search was run for each expected January date (6, 13, 20, 27 January 1921), the title, and Oregon City. It did **not** surface any January 1921 *Banner-Courier* page image.
+
+NewspaperArchive's title landing page currently describes its Oregon City *Banner Courier* holdings as **124 issues / 799 pages** under a broad **1901–1922** label. Its publicly surfaced popular pages and clippings are overwhelmingly 1905 and 1922 examples; this broad label is therefore **not evidence of a complete 1921 run**. No January 1921 issue was exposed through the public title index in this pass.
+
+An independent Oregon-newspaper aggregation likewise identifies *Banner-Courier* as an Oregon City title, 1919–1950, while identifying the Historic Oregon Newspapers online run specifically as **5 January–28 December 1922**. This corroborates the online-image boundary rather than filling the 1921 gap.
+
+Contemporary independent evidence confirms that the title was actively publishing in January 1921: the Eugene *Morning Register* of **14 January 1921**, page 8, lists **W. E. Hassler, editor, Oregon City Banner-Courier**, among attendees expected at the University editors' conference. This is title-existence/editor evidence only; it does not establish the exact January issue inventory or page counts.
+
+### January audit status after continued retrieval
+
+- Expected dates pending reel confirmation: **6, 13, 20, 27 January 1921**.
+- Actual issues recovered: **0**.
+- Actual pages visually reviewed: **0**.
+- Secure 500-block findings from *Banner-Courier*: **none yet, because the primary pages remain unavailable**.
+- Retrieval status: **blocked on image-bearing 1921 holding**, with Oregon City Public Library microfilm still the strongest confirmed route.
+
+No manual request has been sent and no fee has been authorized.
