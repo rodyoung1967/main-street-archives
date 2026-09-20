@@ -179,3 +179,38 @@ The eight sequential files correspond to the missing 14 Jan. pp.1–8 set suppli
 - Prior “unrecoverable/render gap” characterization: **superseded**
 
 The month can now proceed to final every-word visual inspection of these nine scans without any OCR substitution.
+
+
+## FINAL JANUARY CLOSEOUT — steward-supplied scans reviewed
+
+The nine previously missing one-page PDFs were rendered as page images and inspected. This closes the technical gap for **14 Jan. pp.1–8** and **21 Jan. p.8**.
+
+### 14 January 1921 — COMPLETE, 8/8
+
+All eight supplied page scans were visually inspected across the full page, including news, local columns, legal notices, classifieds and display advertising.
+
+Relevant controls/context encountered:
+- p.1 contains Oregon City civic/Live Wires material, road/county-division discussion, depot campaign and local business/civic names. No secure 501/503/505/505½ address item was identified.
+- p.5 contains dense Locals and Personals / society material. A **C. G. Miller** local-business/social reference is present, but the page supplies no target address and does not establish that this is Gilbert Miller at 503. It remains a name control only.
+- p.6 contains Milwaukie/Northern Clackamas and general material; no target-frontage item identified.
+- pp.2–4, 7–8 likewise produced no securely attributable 501/503/505/505½ item in this visual reread.
+
+### 21 January 1921 p.8 — COMPLETE
+
+The steward-supplied p.8 scan was rendered and visually inspected. No securely attributable 501/503/505/505½ item was identified.
+
+## JANUARY 1921 — COMPLETE UNDER THE FRESH VISUAL-REREAD STANDARD
+
+- 7 Jan.: **8/8**
+- 14 Jan.: **8/8**
+- 21 Jan.: **8/8**
+- 28 Jan.: **8/8**
+- January total: **32/32 page scans visually reread**
+
+No page remains an image-retrieval gap for January.
+
+### January evidence result
+
+The exhaustive reread did **not** recover a new securely attributable 501/503/505/505½ chronology fact from the four January issues. The Jan. 28 historical-photo-display item remains a provenance lead; Jan. 28 fire-apparatus/business-district material remains contextual; Jan. 21 C.C. Store and Hogg Bros. items remain non-target/insufficiently addressed controls; Jan. 14 C.G. Miller remains an identity/address-ambiguous name control.
+
+This January no-hit result is bounded coverage only and is **not evidence of absence**. Later 1921 months must still be redone to this same standard, especially because the prior first pass missed the later Dr. Freeze 505½ advertisements.
