@@ -25,3 +25,10 @@ Current evidence increasingly makes the older Karl/Carl shoe-business father (`P
 ## Key research file
 
 See `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
+
+
+## 19 September 2026 identity-index refinement
+
+The Ledding Library / Clackamas Review obituary index lists **Charles A. Schoenheinz**, born **12 July 1888**, died **November 1962**, obituary 15 November 1962 p.2. It separately lists **Margaret L. Schoenheinz**, born 9 February 1897, died August 1960, obituary 1 September 1960 p.5.
+
+Because the 1916 newspaper marriage names Margaret Louisa Cushing as Charles Schoenheinz's bride, this is a strong discovery lead that the younger musician was **Charles A. Schoenheinz (b. 1888)**. The underlying obituary has not yet been inspected, so preserve this as index-level / identity-bridge-pending evidence rather than silently expanding every contemporary Charles entry.
