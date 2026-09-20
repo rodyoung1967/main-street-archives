@@ -1340,3 +1340,15 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - No new target occupant, title, license, tenancy, construction-address, barber or billiard fact was created from the other reviewed pages.
 - Next Courier issue: **24 May 1912**. 1912 remains **IN PROGRESS**.
 
+## 19 September 2026 — 1912 Courier 24 May through 14 June
+<!-- 1912 Courier late May mid June visual advance -->
+
+- Reconciled current main including parallel Star Theatre and Schoenheinz identity work; no newer commit was overwritten.
+- Confirmed **24 May 8/8** from the committed Star Theatre checkpoint and visually completed **31 May 8/8, 7 June 8/8, and 14 June 8/8**.
+- No new 501/503/505/507/509/511 occupant, ownership, license, tenancy, sale, demolition, construction or physical-building claim emerged from the 31 May–14 June issues.
+- 31 May adds citywide construction-boom context only.
+- 7 June preserves an explicit **Molalla** barber-shop false-positive and Justin Lageson's summer trip to Payette as personal/travel context only.
+- 14 June preserves non-target address controls, Harding's school-board role, and north-end Main Street brick repair as public-infrastructure context.
+- The May 3 double-folio-7 defect remains open under `RL-036`; nothing in this batch resolves it.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **21 June 1912**.
+
