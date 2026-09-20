@@ -1,0 +1,35 @@
+name: Render 1921 April Enterprise
+on:
+  push:
+    paths:
+      - '.github/workflows/render-1921-april-enterprise.yml'
+  workflow_dispatch:
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install renderer
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+      - name: Fetch April issues
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p rendered
+          for date in 1921-04-01 1921-04-08 1921-04-15 1921-04-22 1921-04-29; do
+            mkdir -p "rendered/$date"
+            seq=1
+            while true; do
+              url="https://oregonnews.uoregon.edu/lccn/sn00063700/$date/ed-1/seq-$seq.jp2"
+              if ! curl -fL --retry 2 "$url" -o "/tmp/$date-$seq.jp2"; then break; fi
+              convert "/tmp/$date-$seq.jp2" -resize '2600x2600>' -quality 92 "rendered/$date/seq-$seq.jpg"
+              seq=$((seq+1))
+            done
+          done
+          find rendered -type f -name '*.jpg' | sort > rendered-inventory.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: 1921-enterprise-april-renders
+          path: |
+            rendered/
+            rendered-inventory.txt
+          retention-days: 14
