@@ -134,3 +134,33 @@ Pages 1–8 therefore remain **not counted** under the steward's visual standard
 This supersedes the earlier 8/32 / 24-gap interim count above.
 
 No OCR/text-only representation has been used to certify any of the nine unresolved pages.
+
+
+## Final January recovery attempt — 20 September 2026
+
+A fresh retrieval pass was made specifically for the nine unresolved scans: **14 Jan. pp.1–8 and 21 Jan. p.8**.
+
+### 14 January
+
+The archive exposes the issue/page records and searchable page representations, but in this pass the image-bearing PDF endpoint again failed to return a renderable scan for all eight pages. The failure was repeated across the issue rather than being evidence that the pages do not exist.
+
+Result: **pp.1–8 remain unresolved image-render gaps; none are certified from OCR.**
+
+### 21 January p.8
+
+The indexed p.8 record was retried separately. The image-bearing route again failed to produce a renderable scan.
+
+Result: **p.8 remains an unresolved image-render gap; not certified from OCR.**
+
+## January closeout decision
+
+January **cannot honestly be certified 32/32 visually reread** in this environment at this time.
+
+Final current accounting:
+- 7 Jan.: **8/8 visually reread**
+- 14 Jan.: **0/8 visually reread; pp.1–8 image-render gaps**
+- 21 Jan.: **7/8 visually reread; p.8 image-render gap**
+- 28 Jan.: **8/8 visually reread**
+- January: **23/32 visually reread; 9/32 explicit retrieval gaps**
+
+The month has been carried through every scheduled issue/page position, but remains **IN PROGRESS** under the steward's every-word visual standard. The nine gaps require a different image-bearing access route or later successful retry; searchable OCR is expressly insufficient.
