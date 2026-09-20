@@ -238,3 +238,51 @@ The 3 May 1917 article says **Mr. and Mrs. Charles Schoenheinz and their son Edw
 ### Research consequence
 
 The most productive remaining route is no longer broad name searching alone. The decisive target is an **address-indexed 1915–17 Oregon City directory, tax/business license, telephone listing, or other exact-address record** that can independently answer who occupied 503. Newspaper search has built a strong occupational and family context but still has not supplied the address bridge.
+
+
+## Continued identity pass — Charles A. birth/death control and Edward Hugo draft-index control
+
+### Younger Charles now has a middle initial and birth date from a local obituary index
+
+The Milwaukie / Ledding Library Clackamas Review obituary index contains:
+- **Schoenheinz, Charles A.**
+- born **12 July 1888**
+- died **November 1962**
+- obituary: **15 November 1962, p. 2**
+
+The same index separately lists:
+- **Schoenheinz, Margaret L.**
+- born **9 February 1897**
+- died **August 1960**
+- obituary: **1 September 1960, p. 5**
+
+This is index-level evidence; the underlying obituary pages have not yet been inspected. Because the 1916 marriage source names Margaret Louisa Cushing as Charles Schoenheinz's bride, the paired local index entries provide a strong lead for identifying the younger musician as **Charles A. Schoenheinz (b. 1888)**. Do not promote the middle initial/date to source-explicit identity with the 1916 groom until the underlying obituary or another bridge is recovered.
+
+Source:
+https://cms2.revize.com/revize/milwaukie/Documents/Departments/Library/Services/Newspaper%20Index/Clackamas%20Review%20Obituary%20Index/05-15-2017_obituary_a-z.pdf
+
+### Why this matters for the 503 ledger
+
+If the index lead is the younger musician, he was about **28** during the 1916–17 Book 4 period, while official cemetery data puts Karl at about **59–60**. This does not identify the ledger tenant, but it makes the two-generation distinction concrete and independently testable.
+
+The younger Charles chronology remains:
+- musician by May 1912;
+- married Margaret Louisa Cushing in 1916;
+- Oregon City band treasurer/business manager in Nov. 1916;
+- Theroux music-store interest and Camas move reported May 1917;
+- cornet appearances again in Oregon City in 1918.
+
+No recovered source in this pass independently places younger Charles at 503.
+
+### Edward full-name lead
+
+The Genealogical Forum of Oregon WWI draft-registration index lists **Edward Hugo Schoenheinz**, birth year **1885**, in the **Wasco** draft-board grouping. This is an index lead rather than the underlying draft card. It is compatible with the adult Edward generation documented in the January 1912 marriage report but does not itself prove identity with that groom.
+
+Source:
+https://gfo.org/resources/indexes/military/wwi-draft-index/334.html
+
+A separate genealogical compilation names **Saloma** as wife of **Edward Hugo Schoenheinz**, matching the 1912 newspaper bride Saloma Kilmer; because that compilation is secondary/genealogical, use it as a discovery lead, not as the controlling identity source.
+
+### Current research judgment
+
+The highest-value unresolved evidence remains an address-indexed **1916–17 Oregon City directory** or another contemporary record independently pairing **Schoenheinz with 503 Main**. This search pass strengthened person separation but did not recover that decisive bridge.
