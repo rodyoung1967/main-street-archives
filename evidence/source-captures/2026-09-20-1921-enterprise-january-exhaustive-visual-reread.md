@@ -91,3 +91,46 @@ This is deliberately **not** represented as January complete. Searchable text ca
 ### Next recovery route
 
 Recover the 24 page images through an alternate image-bearing endpoint/download route or a retained repository/source copy, then read each full scan. The already exposed searchable text must not be used to certify these pages.
+
+
+## Image-route recovery — continued 20 September 2026
+
+The earlier image-render blocker was partially overcome by entering through an indexed page, following its **PDF** link, and rendering the resulting one-page PDF. This produced actual page scans rather than OCR.
+
+### 28 January 1921 — COMPLETE, 8/8 page scans recovered and visually inspected
+
+All eight original page PDFs were recovered and rendered. Each full page image was visually inspected.
+
+Relevant/contextual items:
+- **p.1 — “No Fire Truck for City Until Bonds Are Sold.”** The article says Oregon City had $14,000 of fire apparatus stored in Portland; Main Street businesspeople wanted assurance that the apparatus would be located close to the business district. It names Huntley Drug Co., William Andresen, Price Bros., and Pacific Highway Garage as $1,000 subscribers. **No 501/503/505/505½ address is stated**, so this is business-district/fire-protection context, not target-frontage proof.
+- **p.8 — B. & A. historical-picture display.** Visually reconfirmed. George Hankins arranged the Burmeister & Andresen window display; photographs came from Mrs. Anne Jones, Robert Wilson, Mrs. W. E. Pratt, Weldon Fuge, the Miller family through Miss Rose Miller, the city, and the publicity department. This remains a photo-provenance lead, not proof that a target-frontage image was in the display.
+- The remaining pages were visually inspected without a securely attributable 501/503/505/505½ finding.
+
+### 21 January 1921 — 7/8 page scans recovered and visually inspected
+
+Pages **1–7** were recovered as image-bearing PDFs and visually inspected.
+
+Controls/context:
+- p.1 reports burglary of the **C. C. Store on Main Street** but gives no street number; it cannot be assigned to the target frontage.
+- pp.4–5 are a two-page Hogg Bros. furniture/house-furnishings sale advertisement identifying the store as **opposite courthouse, Oregon City**; this is not target-frontage evidence.
+- No secure 501/503/505/505½ finding was identified on visually inspected pp.1–7.
+
+**p.8 remains unresolved.** Its page record exists, but the PDF/JP2 retrieval path failed during this pass. It is not counted as visually reread.
+
+### 14 January 1921 — page records recovered, scan rendering still unresolved
+
+All eight page records were successfully recovered through the issue index, proving the issue/page set is present. However, the remaining available retrieval budget ended before the PDF links could be followed and rendered. The HTML text representations are **not** counted as visual review.
+
+Pages 1–8 therefore remain **not counted** under the steward's visual standard.
+
+## Corrected January running count after image recovery
+
+- 7 Jan.: **8/8 visually reread**
+- 14 Jan.: **0/8 visually reread; 8 page records recovered, scan render pending**
+- 21 Jan.: **7/8 visually reread; p.8 render pending**
+- 28 Jan.: **8/8 visually reread**
+- January total: **23/32 visually reread; 9/32 unresolved scan-render gaps**
+
+This supersedes the earlier 8/32 / 24-gap interim count above.
+
+No OCR/text-only representation has been used to certify any of the nine unresolved pages.
