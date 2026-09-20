@@ -21,3 +21,8 @@ Edward's 1912 report does not identify the shop address, though separate 1911 ad
 ## Key research file
 
 See `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
+
+
+## 19 September 2026 full-name lead
+
+The Genealogical Forum of Oregon WWI draft-registration index lists **Edward Hugo Schoenheinz**, birth year **1885**, in the Wasco grouping. A separate genealogical compilation pairs Edward Hugo Schoenheinz with Saloma, matching the first name of the bride in the visually recovered January 1912 newspaper marriage report. Treat **Edward Hugo** as a strong research lead pending inspection of the underlying draft card or another primary identity bridge.
