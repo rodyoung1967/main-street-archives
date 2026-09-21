@@ -119,3 +119,16 @@ Captures: `evidence/source-captures/1912-courier-june21-visual-review-2026-09-20
 Detailed capture: `evidence/source-captures/1912-courier-july05-visual-review-2026-09-20.md`.
 
 **Current chronological Courier resume point: 12 July 1912, sequence 1. 1912 remains IN PROGRESS.**
+
+## 20 September 2026 — 12 July completion
+
+- **12 July 1912: 8/8 visually verified.**
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, barber, or commercial pool/billiard fact was identified.
+- Sequence 3 prints a stale **June 28** running header with a handwritten **July 12** correction; its body is genuine 12 July content. Preserve the anomaly and grant visual credit.
+- Front-page detective coverage refers to an unnamed poker game/place and explicitly withholds the name/place; it is not assigned to a target billiard/pool business.
+- J. Levitt at **Main/7th** and Williams Bros. opposite Masonic Building remain explicit non-target controls.
+- No claim-level target relationship was manufactured.
+
+Detailed capture: `evidence/source-captures/1912-courier-july12-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 19 July 1912, sequence 1. 1912 remains IN PROGRESS.**
