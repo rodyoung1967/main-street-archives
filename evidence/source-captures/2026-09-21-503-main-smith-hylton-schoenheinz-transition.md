@@ -91,3 +91,18 @@ A targeted Historic Oregon Newspapers web-index search for **H. H. Smith + 503 M
 This is **bounded OCR/index coverage only**. It does not establish that Smith remained at 503 through 1913, that Hylton was absent from 503 in 1913, or that the transition occurred in 1914. A visual annual review or municipal record can supersede this gap.
 
 The 3 Feb. 1911 *Courier* council report is unusually useful because the archive page representation itself exposes the council text: the police report lists **L. Hylton, shooting gallery, $10** and **H. H. Smith, pool room, $17.50** separately, along with other licensed pool/card businesses. This strengthens the conclusion that both men were independent licensees before the later 503 sequence.
+
+
+## L. Hylton shooting-gallery address search
+
+A dedicated address pass for the **L. Hylton shooting gallery** used combinations of Hylton/Lou/Louis, shooting gallery, Main Street, Oregon City, gallery license, and the 1910–12 period. No source recovered in this pass prints a street number or other exact location for the shooting gallery.
+
+The 3 Feb. 1911 council/license report therefore remains an **existence/license control only**: it establishes L. Hylton as the separately licensed shooting-gallery operator, but not the gallery's address.
+
+Do **not** place the shooting gallery at 503 Main without new evidence. The first currently recovered direct Hylton-at-503 controls remain 12 Feb. and 23 Apr. 1914.
+
+### Highest-value address routes
+1. 1910–12 city directories/business classifieds under Hylton, amusements, shooting gallery, cigars/tobacco.
+2. City license applications/receipts rather than newspaper summaries, because the underlying application may contain premises.
+3. Display advertisements and carnival/amusement notices that OCR may not index.
+4. Property/lease notices naming Hylton before 1914.
