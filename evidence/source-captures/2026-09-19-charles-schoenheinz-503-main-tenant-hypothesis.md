@@ -512,3 +512,47 @@ The older-generation model is now better separated into **residence vs. business
 - possible 1916–17 business tenancy: 503 Main.
 
 This makes an address-indexed directory especially valuable because it may contain both residence and occupation/business address, allowing the Book 4 tenant to be tested without conflating the two.
+
+
+## 21 September targeted-source pass — directory mirrors and occupation bridge
+
+A new targeted web pass followed the four highest-value routes rather than broad newspaper browsing.
+
+### 1916 directory mirrors
+
+LDSGenealogy's current Oregon City directory inventory still identifies exactly one dedicated early target:
+- **1916 Oregon City, city directory — FamilySearch Library**
+
+The same inventory exposes online-image links for some later Oregon City directories (1941, 1953, 1960), but **not** an alternate public image provider for the 1916 volume. A parallel Clackamas County directory inventory likewise points the 1916 item only to FamilySearch Library. No Internet Archive/HathiTrust/Google Books/Ancestry/MyHeritage public-image mirror surfaced in this pass.
+
+Sources:
+- https://ldsgenealogy.com/OR/Oregon-City.htm
+- https://ldsgenealogy.com/OR/Clackamas-County-City-Directories.htm
+
+This strengthens the classification of the 1916 pages as a genuine **retrieval/access gap**, not a missed obvious public mirror.
+
+### Occupation/identity bridge status
+
+The strongest direct occupational bridge remains the **26 Jan. 1912 Courier** marriage report for Edward Schoenheinz. It says Edward had lived in Oregon City many years and had been **connected with his father in the shoe business**. Combined with the 1911 advertisement naming **C. Schoenheinz, proprietor** of the Old Reliable Oregon City Shoe Shop, this proves that the father operated in the shoe trade; it still does not by itself establish the father's given name as Karl/Carl or place the business at 503.
+
+Direct controls now form:
+1. 1911: **C. Schoenheinz, proprietor**, shoe shop, 716 Main.
+2. 1912: Edward **connected with his father in the shoe business**.
+3. 1914: Elizabeth residing with father **Mr. Carl Schoenheinz** on 7th Street.
+4. 1916–17: **C. Schoenheinz — Store — 503 Main** in Book 4 (steward/high-confidence transcription).
+5. 1920: **K. Schoenheinz** seeking a shoemaker.
+6. 1922: Schoenheinz Shoe Repair Shop.
+
+The missing evidentiary links remain explicit:
+- prove older Carl = 1911 C. proprietor;
+- prove older Carl/Karl = 1920 K.;
+- prove Book 4 C. = older Carl rather than younger Charles;
+- prove 503 Store's trade was shoes.
+
+### Younger-Charles counter-control
+
+The 9 Nov. 1916 Courier directly names **Charles Schoenheinz** treasurer and business manager of the Oregon City band, and the 3 May 1917 Courier says he disposed of an interest in the Theroux music store and moved to Camas. This remains positive evidence for a separate younger-Charles music track during the same period as Book 4, but is not exclusionary proof that he could not have held another interest.
+
+### Search judgment
+
+No new exact-address source emerged. Further generic web keyword combinations are now lower-value than obtaining the restricted 1916 directory images, Karl's full 1937 obituary, or a 1913–16 municipal/business-license source.
