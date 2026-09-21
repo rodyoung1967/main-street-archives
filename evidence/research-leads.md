@@ -676,3 +676,24 @@ When accessed, inspect **both directions**:
 Also inspect shoe/shoemaker classified listings and any business-name section. Photograph/capture the title/publication page and every relevant entry so the publication date and directory structure are auditable.
 
 This is now the most direct known source capable of independently testing the Book 4 `C. Schoenheinz — 503 Main — Store` transcription.
+
+
+### 21 September 2026 — 503 Main occupancy transition, Smith pool hall to C. Schoenheinz Store
+<!-- 1912-1916-503-main-occupancy-transition -->
+
+**Priority: HIGH — ACTIVE NEXT WORKSTREAM.** Person-centered Schoenheinz searching has reached diminishing returns; shift the question to the frontage itself.
+
+Fixed controls:
+- 15 Jan. 1911 Morning Enterprise directly says **H. H. Smith** conducts a **pool hall at 503 Main Street**.
+- 1912 project evidence continues Smith/pool-hall activity at 503.
+- 1916–17 Water Rent Book 4 has the high-confidence steward transcription **C. Schoenheinz — Store — 503 Main**.
+
+Research question: **when did 503 change occupant/use between the Smith pool hall and the Book 4 C. Schoenheinz store?**
+
+Search order:
+1. 1912–16 Oregon City council/license material for pool/billiard/table licenses, Smith, 503, Schoenheinz, and business transfers.
+2. 1913–15 directories and telephone/business listings, including street guides and shoemaker classifications.
+3. Newspaper exact-address searches for 503 Main, then Smith/Schoenheinz variants; visually inspect any candidate page.
+4. Tax/assessment/business-license records if address-indexed sources survive.
+
+Keep occupant/use transition separate from building continuity and G. A. Harding's owner/agent role. A change from pool hall to store does not establish demolition/rebuild. The restricted 1916 directory remains the best endpoint cross-check but should not block the transition search.
