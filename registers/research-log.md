@@ -1352,3 +1352,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - The May 3 double-folio-7 defect remains open under `RL-036`; nothing in this batch resolves it.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **21 June 1912**.
 
+## 20 September 2026 — 1912 Courier 21–28 June
+<!-- 1912 Courier June 21-28 visual advance -->
+
+- Re-synced against current main and preserved newer parallel 1921/Leland research.
+- Visually reviewed **21 June 8/8** and **28 June 8/8** from original UO scans/PDFs.
+- No new 501/503/505/507/509/511 occupant, ownership, licensing, tenancy, sale, demolition, construction, barber, commercial pool/billiard, or physical-building fact emerged.
+- 28 June Beaver Creek Steiner references remain rural-family context and do not bridge to the probable 503½ tenant.
+- No claim-level evidence/source IDs were manufactured for bounded no-target issues.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **5 July 1912**.
+
