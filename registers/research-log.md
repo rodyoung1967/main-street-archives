@@ -1399,3 +1399,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Page 5 visually reconfirms the already-integrated **Mrs. Charles Schoenheinz obituary** but supplies no 503 Main bridge.
 - Saved `evidence/source-captures/1912-courier-july19-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **26 July 1912, sequence 1**.
+
+## 20 September 2026 — 1912 Courier 26 July
+
+- Visually reviewed **26 July 1912 Courier 8/8** from original UO archive page scans.
+- No direct target-frontage occupant, title, tenancy, sale, demolition, construction, fire, barber, or commercial pool/billiard fact emerged.
+- Page 5 explicitly places **Farr Bros. new building at Seventh and Monroe**; retained as a non-target Farr control and not connected to the later 505 chain.
+- Fritz Griessen's Willamette Hotel is named without a street number; no target assignment.
+- Main Street cluster-light proposal is general streetscape context only.
+- Saved `evidence/source-captures/1912-courier-july26-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **2 August 1912, sequence 1**.
