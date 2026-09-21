@@ -439,3 +439,29 @@ A retrospective obituary may provide the missing occupation bridge even if the 1
 1. **1916 city directory** remains the strongest direct address test, currently retrieval-gated.
 2. **Karl's January 1937 obituary/death notice** is now the strongest open-web biographical target for proving the older man's occupation and aliases.
 3. Search city directories/census/death records for Karl's occupation after 1920 to test continuity with the visually verified `K. Schoenheinz` shoemaker classified.
+
+
+## 21 September continuation — Karl obituary route narrowed to Oregonian Historical Archives
+
+A targeted obituary/death-notice recovery pass confirms the older Karl's death chronology but did not expose the full obituary text on the open web.
+
+The official Oregon City Mountain View Cemetery burial list remains the controlling direct death record available online:
+- **SCHOENHEINZ, KARL** — 1st Addition, Block 179, grave 4
+- died **2 January 1937**
+- age **80**
+
+A newspaper-index/search result points to death reporting immediately afterward, **4 January 1937**, for Karl Schoenheinz of Oregon City, age 80. The full item is not exposed through the public search surface inspected in this pass.
+
+The Multnomah County Library's Oregonian Historical Archives provides digitized Oregonian coverage for **1861–1987**, making **2–8 January 1937** the highest-value date-bounded retrieval window for Karl's obituary/death notice:
+https://multcolib.org/resource/oregonian-historical-archives
+
+Evidence state:
+- Karl death/date/age: **DOCUMENTED / DIRECT** from official cemetery record.
+- 4 Jan. 1937 newspaper-report lead: **INDEX/SEARCH LEAD**, underlying item not yet visually inspected.
+- occupation, shoemaker identity, aliases, and former business address from obituary: **UNRESOLVED**.
+
+Do not treat the indexed death item as proving occupation. When archive access is available, inspect Jan. 2–8, 1937 for `Schoenheinz`, `Karl`, `Carl`, and `Charles`; capture the complete notice plus publication/date/page.
+
+### Why this route remains valuable
+
+If the obituary identifies Karl as a shoemaker/shoe repairer, it would independently bridge the older Karl/Carl identity to the long-running Schoenheinz shoe trade and substantially strengthen interpretation of the 1920 `K. Schoenheinz` shoemaker-wanted ad. It still would not by itself prove that Book 4's 503 Store was a shoe store; the exact-address bridge remains a separate question.
