@@ -1389,3 +1389,13 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Front-page detective material leaves the poker-game name/place deliberately unnamed; no target pool/billiard inference was made.
 - Saved `evidence/source-captures/1912-courier-july12-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **19 July 1912, sequence 1**.
+
+## 20 September 2026 — 1912 Courier 19 July
+
+- Visually reviewed **19 July 1912 Courier 8/8** from original UO archive page scans.
+- No direct target-frontage occupant, title, tenancy, sale, demolition, construction, fire, barber, or commercial pool/billiard fact emerged.
+- Main/Seventh paving, Fifth Street hose/reel, and general Main Street material are public/general context only.
+- Page 3's barber/pool-room reference is explicitly **Marquam**.
+- Page 5 visually reconfirms the already-integrated **Mrs. Charles Schoenheinz obituary** but supplies no 503 Main bridge.
+- Saved `evidence/source-captures/1912-courier-july19-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **26 July 1912, sequence 1**.
