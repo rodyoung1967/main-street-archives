@@ -106,3 +106,24 @@ Do **not** place the shooting gallery at 503 Main without new evidence. The firs
 2. City license applications/receipts rather than newspaper summaries, because the underlying application may contain premises.
 3. Display advertisements and carnival/amusement notices that OCR may not index.
 4. Property/lease notices naming Hylton before 1914.
+
+
+## Hylton identity separation strengthened — 1912 Twilight evidence
+
+A focused Hylton search recovered multiple 1912 newspaper controls for **L. J. Hylton in the Twilight/rural context**, materially strengthening the warning against equating him with the 1914 503 proprietor without a bridge.
+
+- 13 Sep. 1912 *Oregon City Courier*, p3, **TWILIGHT** column: L. J. Hylton visited his daughter near Estacada.
+  https://oregonnews.uoregon.edu/lccn/sn00063698/1912-09-13/ed-1/seq-3/
+- 15 Nov. 1912 *Oregon City Courier*, p8, **TWILIGHT** column: L. J. Hylton lost a two-year-old heifer when a tree top fell during a wind storm.
+  https://oregonnews.uoregon.edu/lccn/sn00063698/1912-11-15/ed-1/seq-8/
+- 6 Dec. 1912 *Oregon City Courier*, p2, **TWILIGHT** column: L. J. Hylton was visiting relatives in Bellingham, Washington.
+  https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-06/ed-1/seq-2/
+- A 5 Sep. 1912 Eugene *Daily Guard* classified directs inquiry to **L. J. Hylton, R.F.D. No. 6, Oregon City**, another rural-address control.
+  https://oregonnews.uoregon.edu/lccn/sn96088107/1912-09-05/ed-1/seq-3/
+
+These records make the rural/Twilight L. J. Hylton a well-established 1912 identity. They do not prove he is different from the 1911 shooting-gallery licensee, but they make an unqualified merge increasingly unsafe.
+
+The 1917 obituary of Louis Jackson Hylton separately names **Louis Hylton of Oregon City** and **James Hylton of Twilight** among his sons. This continues to support investigating a younger Louis/Lou Hylton as the possible urban proprietor, but no direct source yet links that son to the 1911 shooting gallery or 1914 503 store.
+
+### Shooting-gallery address result
+Even with this identity-focused expansion, no exact address for the 1911 L. Hylton shooting gallery was recovered. Preserve its location as unresolved.
