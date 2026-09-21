@@ -1,0 +1,53 @@
+name: Fetch 1914 Courier April 23 page 6
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-1914-courier-apr23-page6.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Sync to latest main
+        run: git pull --rebase origin main
+      - name: Validate archive before fetch
+        run: python3 scripts/validate_archive.py
+      - name: Fetch original page PDF
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, requests
+          url='https://oregonnews.uoregon.edu/lccn/sn00063698/1914-04-23/ed-1/seq-6.pdf'
+          out=pathlib.Path('newspapers/oregon-city-courier/1914-04-23-page-6-hylton-503-main.pdf')
+          r=requests.get(url,timeout=90,allow_redirects=True,headers={'User-Agent':'main-street-archives source preservation'})
+          r.raise_for_status()
+          if not r.content.startswith(b'%PDF'):
+              raise SystemExit(f'Expected PDF, got {r.headers.get("content-type")} {len(r.content)} bytes')
+          out.write_bytes(r.content)
+          print(out, len(r.content), hashlib.sha256(r.content).hexdigest())
+          PY
+      - name: Validate archive after fetch
+        run: python3 scripts/validate_archive.py
+      - name: Commit fetched source and retire one-shot workflow
+        run: |
+          git config user.name main-street-archive-bot
+          git config user.email actions@users.noreply.github.com
+          git rm .github/workflows/fetch-1914-courier-apr23-page6.yml
+          git add newspapers/oregon-city-courier/1914-04-23-page-6-hylton-503-main.pdf
+          git commit -m 'Preserve 1914 Courier Hylton 503 Main source'
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main
+            python3 scripts/validate_archive.py
+            if git push origin main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          exit 1
