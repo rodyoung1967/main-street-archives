@@ -378,3 +378,35 @@ Inspect:
 - title/publication page to establish exact coverage date.
 
 The directory can potentially answer both the identity and premises-use questions independently of the water ledger.
+
+
+## 21 September continuation — directory-access recovery attempts
+
+A fresh web-index/access pass was made against the now-identified 1916 Oregon City directory target.
+
+### What was established
+
+- LDSGenealogy's Oregon City directory index explicitly lists **`1916 Oregon City, city directory — FamilySearch Library`**.
+- Oregon City/SHPO historic-site forms repeatedly cite the **1916** or **1916-17 Oregon City City Directory** as a consulted source. One city form specifically says a named resident was *not listed* in the 1916-17 directory, demonstrating that the directory was used as a person/address lookup rather than merely cited generically.
+- Public web search still does not expose page images, OCR, snippets, or a searchable Schoenheinz entry from the directory.
+- Targeted web searches for `Schoenheinz` + `503 Main`, `city directory`, `Carl/Karl/Charles`, and the 1916 directory title returned the already-known newspaper controls but **no directory-derived Schoenheinz/503 hit**.
+
+### Research state
+
+The directory remains a **RETRIEVAL GAP**. The current web surface can establish the source's existence and use, but cannot support a claim about whether Schoenheinz appears in it. Do not convert the search-engine no-hit into an absence claim.
+
+The exact manual/digitized-image task remains:
+- FamilySearch catalog 1844954;
+- inspect Schoenheinz alphabetically;
+- inspect 503 Main and neighboring 501/503½/505/507 if the directory has a street guide;
+- inspect shoe/shoemaker classifications;
+- capture title/publication page plus every relevant entry.
+
+### Parallel web result
+
+No new independent 503 bridge emerged from the parallel exact-string searches. The strongest public exact-address controls therefore remain:
+- Jan/Feb 1911 C. Schoenheinz shoe shop at **716 Main**;
+- Dec 1914 older father **Carl Schoenheinz on 7th St.** (residence wording);
+- 1916–17 Book 4 **C. Schoenheinz — 503 Main — Store** (steward/high-confidence ledger transcription);
+- 1920 **K. Schoenheinz** shoemaker-wanted classified;
+- Apr–Sep 1922 Schoenheinz Shoe Repair Shop in Pacific Highway Garage Building.
