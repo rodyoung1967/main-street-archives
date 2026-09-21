@@ -63,3 +63,22 @@ The 23 Apr. 1914 page independently repeats the exact address and trade, providi
 
 ### Tightened next target
 Because indexed exact-address searching currently bottoms out at these two 1914 references, the highest-value route is now **municipal licensing/council evidence between Mar. 1912 and Feb. 1914**, especially pool-hall, shooting-gallery, cigar/tobacco, soft-drink, and amusement licenses involving H. H. Smith or L. Hylton. A transfer, new-license application, or cessation notice could date the change more tightly than newspaper advertising.
+
+
+## Municipal-license route — initial result
+
+The first municipal-license-oriented pass adds an important pre-503 control: a 3 Feb. 1911 *Oregon City Courier* report of city license receipts lists **L. Hylton — shooting gallery** and **H. H. Smith — pool room** as separate licensed businesses. This proves Hylton and Smith were already distinct licensed amusement-business operators before Smith's 1912 exact-address pool-hall notice at 503.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-8.pdf
+
+Evidence state here: candidate source / visual-verification status must be checked against the project register before promotion.
+
+### Consequence
+Do **not** model Hylton as appearing from nowhere in 1914 or assume that his 503 trade necessarily began by buying Smith's pool hall. By early 1911 Hylton already had his own separately licensed shooting-gallery business while Smith separately held a pool-room license. A later Smith → Hylton transaction at 503 remains possible, but now requires direct evidence.
+
+The license search should therefore track both operators independently through 1911–14:
+- H. H. Smith: pool room / pool hall; renewals, address, cessation.
+- L. Hylton: shooting gallery first; later cigars/tobacco/soft drinks; address changes and license category changes.
+
+Highest-value unresolved item: first municipal record that associates Hylton with 503, or last municipal record associating Smith with 503.
