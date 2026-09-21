@@ -96,3 +96,13 @@ Captures: `1912-courier-may03-pagination-review-2026-09-19.md`; `1912-courier-ma
 
 **Current chronological Courier resume point: 21 June 1912, sequence 1. 1912 remains IN PROGRESS.**
 
+## 20 September 2026 — 21 and 28 June completion
+
+- **21 June: 8/8 visually verified.** No direct target-frontage fact. George A. Harding appears only in a school-board role; Farr Bros. meat-plant progress remains an explicitly non-target project.
+- **28 June: 8/8 visually verified.** No direct target-frontage fact. Beaver Creek Steiner-family references remain rural identity context only; Williams Bros. remains opposite Masonic Building; west-side/citywide construction language does not identify 501/503/505/507/509/511.
+- No new claim-level evidence/source IDs were warranted for either bounded no-target issue.
+
+Captures: `evidence/source-captures/1912-courier-june21-visual-review-2026-09-20.md`; `evidence/source-captures/1912-courier-june28-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 5 July 1912, sequence 1. 1912 remains IN PROGRESS.**
+
