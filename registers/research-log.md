@@ -1409,3 +1409,11 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Main Street cluster-light proposal is general streetscape context only.
 - Saved `evidence/source-captures/1912-courier-july26-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **2 August 1912, sequence 1**.
+
+## 20 September 2026 — 1912 Courier 2 August
+
+- Visually reviewed **2 August 1912 Courier 8/8** from original UO archive scans.
+- No direct target-frontage occupant, title, tenancy, sale, demolition, construction, fire, barber, or commercial pool/billiard fact emerged.
+- Explicit controls include J. Levitt at Seventh/Main; Clackamas-locality building/saloon material and a Pendleton billiards reference were kept separate from the target frontage.
+- Saved `evidence/source-captures/1912-courier-august02-visual-review-2026-09-20.md` and synchronized annual records.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **9 August 1912, sequence 1**.
