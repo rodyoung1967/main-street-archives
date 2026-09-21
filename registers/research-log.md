@@ -1369,3 +1369,14 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Preserves the unresolved **3 May double-folio-7/page-8 defect**, the 10 May Main Street teardown/rebuild evidence and limits, Cox & Ward, Fred Steiner/503½, C. Schoenheinz/503, Pollock/Fifth Street Restaurant/501, possible-505 water-ledger qualification, O.K. Barber/Ed Johnson separation, and the newer parallel 1921/Leland work that must not be overwritten.
 - Repository main at handoff creation was `836fd80ffe9328e42b1944a36166c2205e0d7e64`; the handoff commit itself is newer and controls only as a checkpoint, not over later future commits.
 
+
+## 20 September 2026 — 1912 Courier 5 July
+
+- Re-synced to current main and resumed exactly at the handoff point.
+- Visually reviewed **5 July 1912 Courier 8/8** from original University of Oregon archive scans/PDFs.
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, barber, or commercial pool/billiard fact emerged.
+- Sequence 4 has a visible stale **June 28** Courier running header but genuine intended 5 July body content; retained as a header anomaly.
+- Sequence 8 directly reports **Matt Justin sold his saloon to Frank Uderman and requested license transfer**, but gives no address. No target-frontage assignment was made; later 520 Main material remains a separate later-date discovery lead and is not backdated.
+- Explicit non-target controls: Hawley Company at **Eleventh/Main**, J. Levitt at **7th/Main**, Larsen & Co. at **10th/Main**.
+- Saved `evidence/source-captures/1912-courier-july05-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **12 July 1912, sequence 1**.
