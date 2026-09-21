@@ -410,3 +410,32 @@ No new independent 503 bridge emerged from the parallel exact-string searches. T
 - 1916–17 Book 4 **C. Schoenheinz — 503 Main — Store** (steward/high-confidence ledger transcription);
 - 1920 **K. Schoenheinz** shoemaker-wanted classified;
 - Apr–Sep 1922 Schoenheinz Shoe Repair Shop in Pacific Highway Garage Building.
+
+
+## 21 September continuation — older Karl death notice and surviving family controls
+
+A fresh identity search recovered an Oregon newspaper death-notice index hit for the older man:
+
+- **Karl Schoenheinz**, Oregon City, death reported **4 January 1937**, age **80**.
+
+This is consistent with the official Mountain View Cemetery entry for **SCHOENHEINZ, KARL**, died **2 January 1937**, age 80. It provides an additional dated newspaper route to the older man's obituary/death reporting. The search result available in this pass does not itself supply occupation or former business address, so do not infer shoemaker/503 from it.
+
+The same search route continues to distinguish the younger Charles A. generation (born 1888; died 1962 in the Clackamas Review obituary index) from older Karl. This further reduces the risk of collapsing the two men when interpreting Book 4's `C. Schoenheinz`.
+
+### Next obituary target
+
+Recover the underlying January 1937 Oregon City/Portland death notice or obituary for Karl. Highest-value fields:
+- occupation / retired occupation;
+- years in Oregon City;
+- spouse Albertina;
+- children and their residences;
+- business name or former Main Street location;
+- Karl/Carl/Charles alternate-name wording.
+
+A retrospective obituary may provide the missing occupation bridge even if the 1916 directory remains access-restricted. It cannot by itself prove a 1916 address unless it states one, but it may establish whether Karl was the family shoemaker.
+
+### Current priority split
+
+1. **1916 city directory** remains the strongest direct address test, currently retrieval-gated.
+2. **Karl's January 1937 obituary/death notice** is now the strongest open-web biographical target for proving the older man's occupation and aliases.
+3. Search city directories/census/death records for Karl's occupation after 1920 to test continuity with the visually verified `K. Schoenheinz` shoemaker classified.
