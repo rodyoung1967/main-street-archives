@@ -1362,3 +1362,10 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - No claim-level evidence/source IDs were manufactured for bounded no-target issues.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **5 July 1912**.
 
+## 20 September 2026 — 1912 Courier conversation handoff through 28 June
+
+- Created `evidence/source-captures/2026-09-20-1912-courier-through-june28-conversation-handoff.md`.
+- Handoff captures the authoritative 1912 Courier audit state through **28 June 1912**, with **5 July 1912** as the next ordinary chronological issue.
+- Preserves the unresolved **3 May double-folio-7/page-8 defect**, the 10 May Main Street teardown/rebuild evidence and limits, Cox & Ward, Fred Steiner/503½, C. Schoenheinz/503, Pollock/Fifth Street Restaurant/501, possible-505 water-ledger qualification, O.K. Barber/Ed Johnson separation, and the newer parallel 1921/Leland work that must not be overwritten.
+- Repository main at handoff creation was `836fd80ffe9328e42b1944a36166c2205e0d7e64`; the handoff commit itself is newer and controls only as a checkpoint, not over later future commits.
+
