@@ -345,3 +345,36 @@ Useful controls recovered/reconfirmed:
 The new 1914 residence control strengthens the older-father model without proving the ledger identity: **Carl Schoenheinz was living on 7th Street during the transition window**, while younger Charles was repeatedly documented through music/orchestra activity. A residence on 7th is fully compatible with a Main Street workplace but does not establish one.
 
 The 1913–16 searchable-newspaper route is now showing diminishing returns for the decisive question. Priority should shift to an address-indexed directory, telephone/business listing, city license/tax record, or other non-newspaper source capable of pairing **C./Carl/Karl/Charles Schoenheinz** with **503 Main**.
+
+
+## 21 September continuation — decisive 1916 local directory identified
+
+The directory route has now produced a concrete source target rather than a generic recommendation.
+
+A dedicated **1916 Oregon City, city directory** is cataloged by FamilySearch as **catalog 1844954**:
+https://www.familysearch.org/en/search/catalog/1844954
+
+A secondary discovery page identifies the item specifically as `1916 Oregon City, city directory` and reports that access is through the FamilySearch Library/catalog:
+https://ldsgenealogy.com/cgi-bin/FHL2-OR.cgi?412016_1916_Oregon_City,_city_directory=
+
+Independent Oregon historic-resource documentation also cites the **Oregon City City Directory, 1916** / **1916-17**, confirming that the source has been used by Oregon preservation researchers. Example:
+https://orcity.org/DocumentCenter/View/7172/1st-Ave---602
+
+### Evidence state and access
+
+The actual directory pages were **not exposed for inspection** through the public web interface available in this pass. Therefore:
+- source existence: **DOCUMENTED**;
+- Schoenheinz/503 contents: **RETRIEVAL GAP — NOT YET INSPECTED**;
+- no absence inference is permitted.
+
+This is materially better than the prior state because the decisive source is now identified by exact catalog number.
+
+### Required inspection when accessed
+
+Inspect:
+- alphabetical Schoenheinz entries and variants C./Carl/Karl/Charles/Edward;
+- reverse/street listing for 501, 503, 503½, 505, 507 Main if present;
+- shoemaker/shoe repair/shoe store classified section;
+- title/publication page to establish exact coverage date.
+
+The directory can potentially answer both the identity and premises-use questions independently of the water ledger.
