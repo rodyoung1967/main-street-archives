@@ -227,7 +227,7 @@ The strongest direct address remains the 1911 Old Reliable Oregon City Shoe Shop
 
 ### Older/younger identity separation strengthened
 
-The 3 May 1912 *Morning Enterprise* directly reports **Charles Schoenheinz** as one of the young Oregon City musicians engaged by Arnold's Carnival Company, expected to return in the fall and resume orchestral work. This establishes the younger Charles's musician identity before the July 1912 death of his mother and well before the 1916 marriage/band records.
+The 3 May 1912 *Morning Enterprise* directly reports **Charles Schoenheinz** as cornetist in the Falls City orchestra and as one of the young Oregon City musicians engaged by Arnold's Carnival Company. It says **Charles Schoenheinz, Roy Baxter, and Chester Simonson would leave Sunday, May 12**, with the company going to **Roseburg**, where they would appear among the attractions at the **Roseburg Strawberry Festival**; the Oregon City men expected to return in the fall at the close of the carnival season and resume orchestral work. This establishes the younger Charles's musician identity before the July 1912 death of his mother and well before the 1916 marriage/band records.
 
 The 10 Dec. 1914 Courier directly calls Elizabeth's father **Mr. Carl Schoenheinz on 7th St.** The official Mountain View Cemetery list records **Karl Schoenheinz** adjacent to Albertina. Taken together, these continue to favor an older Karl/Carl father distinct from the younger musician Charles.
 
