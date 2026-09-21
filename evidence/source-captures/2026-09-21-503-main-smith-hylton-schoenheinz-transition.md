@@ -82,3 +82,12 @@ The license search should therefore track both operators independently through 1
 - L. Hylton: shooting gallery first; later cigars/tobacco/soft drinks; address changes and license category changes.
 
 Highest-value unresolved item: first municipal record that associates Hylton with 503, or last municipal record associating Smith with 503.
+
+
+## 1913 exact-address boundary search
+
+A targeted Historic Oregon Newspapers web-index search for **H. H. Smith + 503 Main**, **L. Hylton + 503 Main**, and Hylton's shooting-gallery/business terms in 1912–14 did not recover a 1913 exact-address hit. The first currently recovered exact-address Hylton source remains the 12 Feb. 1914 Industrial Edition.
+
+This is **bounded OCR/index coverage only**. It does not establish that Smith remained at 503 through 1913, that Hylton was absent from 503 in 1913, or that the transition occurred in 1914. A visual annual review or municipal record can supersede this gap.
+
+The 3 Feb. 1911 *Courier* council report is unusually useful because the archive page representation itself exposes the council text: the police report lists **L. Hylton, shooting gallery, $10** and **H. H. Smith, pool room, $17.50** separately, along with other licensed pool/card businesses. This strengthens the conclusion that both men were independent licensees before the later 503 sequence.
