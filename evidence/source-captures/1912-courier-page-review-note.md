@@ -132,3 +132,16 @@ Detailed capture: `evidence/source-captures/1912-courier-july05-visual-review-20
 Detailed capture: `evidence/source-captures/1912-courier-july12-visual-review-2026-09-20.md`.
 
 **Current chronological Courier resume point: 19 July 1912, sequence 1. 1912 remains IN PROGRESS.**
+
+## 20 September 2026 — 19 July completion
+
+- **19 July 1912: 8/8 visually verified.**
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, fire, barber, or commercial pool/billiard fact was identified.
+- Page 1 Main/Seventh paving and Fifth Street hose/reel material is public-infrastructure/fire-service context, not a private target-building event.
+- Page 3's barber shop/pool room is explicitly **Marquam**; J. Levitt at Main/Seventh and Williams Bros. opposite Masonic Building remain non-target controls.
+- Page 5 visually confirms the already-known **Mrs. Charles Schoenheinz obituary** used in the Schoenheinz identity work; it supplies no 503 address bridge and no duplicate claim was created.
+- No claim-level target relationship was manufactured.
+
+Detailed capture: `evidence/source-captures/1912-courier-july19-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 26 July 1912, sequence 1. 1912 remains IN PROGRESS.**
