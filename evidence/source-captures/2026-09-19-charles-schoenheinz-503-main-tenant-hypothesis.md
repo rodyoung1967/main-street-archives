@@ -286,3 +286,42 @@ A separate genealogical compilation names **Saloma** as wife of **Edward Hugo Sc
 ### Current research judgment
 
 The highest-value unresolved evidence remains an address-indexed **1916–17 Oregon City directory** or another contemporary record independently pairing **Schoenheinz with 503 Main**. This search pass strengthened person separation but did not recover that decisive bridge.
+
+
+## Continued search — 1911 same-page address exclusion and 1922 persistence
+
+### 15 January 1911: C. Schoenheinz and 503 are simultaneously different businesses
+
+A particularly useful same-page control was recovered in the *Morning Enterprise*, 15 Jan. 1911, p.3.
+
+The page directly states:
+- **H. H. Smith** conducts the **pool hall at 503 Main Street**.
+- On the same page, the Old Reliable Oregon City Shoe Shop advertisement names **C. SCHOENHEINZ, Proprietor**, **716 Main**, between Sixth and Seventh.
+
+This is direct contemporary evidence that **on 15 January 1911 C. Schoenheinz's advertised shoe business was at 716 Main, not 503**, while 503 was occupied by Smith's pool hall. It is a strong chronological control, not evidence against a later move to 503.
+
+Source: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-01-15/ed-1/seq-3/
+
+Research consequence: if Book 4's 1916–17 `C. Schoenheinz` transcription is correct, any Schoenheinz move/business transition to 503 occurred **after 15 Jan. 1911**. The 1912 H. H. Smith 503 pool-hall license evidence narrows the likely transition later still, subject to exact event dates and continuity.
+
+### 1922 shoe-shop persistence
+
+The Schoenheinz Shoe Repair Shop advertisement is independently recoverable on:
+- **14 Apr. 1922**, Enterprise p.8;
+- **14 Jul. 1922**, Enterprise p.8;
+- **22 Sep. 1922**, Enterprise p.8.
+
+All three advertise shoe repair / shoe making and locate the shop in the **Pacific Highway Garage Building, Oregon City**; none names the proprietor. This establishes at least an April-to-September 1922 advertising span at that location, not continuous operation between every date and not identity with Book 4 C. Schoenheinz.
+
+The Pacific Highway Garage itself appears repeatedly in county-road accounts in 1921–22, confirming the garage name was contemporary rather than a later retrospective label. The searched items did not provide a street number for the garage.
+
+### Current bracket
+
+Direct/probable address sequence now includes:
+- **15 Jan. 1911:** C. Schoenheinz shoe shop = 716 Main; H. H. Smith pool hall = 503 Main.
+- **1912:** H. H. Smith still directly associated with a 503 Main pool-hall license application.
+- **1916–17:** Book 4 = C. Schoenheinz at 503, Store (high-confidence steward handwriting transcription; independent address bridge still wanted).
+- **10 Sep. 1920:** K. Schoenheinz seeks shoemaker in Oregon City; no address.
+- **14 Apr.–22 Sep. 1922:** Schoenheinz Shoe Repair Shop advertised in Pacific Highway Garage Building; proprietor not named.
+
+This strengthens the case for specifically searching **1912–1916 move/opening/closing records** rather than treating 716→503 as an established continuous sequence.
