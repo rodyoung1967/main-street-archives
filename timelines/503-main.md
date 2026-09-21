@@ -33,6 +33,16 @@ Address record: [`B-001`](../buildings/503-main.md). See [master](../timeline.md
 | 1960–1985 | Wheel Cafe / Wheel Restaurant / The Wheel at 503; Richard M. Wiitanen named owner in 1985. | Primary and municipal anchors; property/business transfer dates remain partly open. |
 | 2016–present context | White Rabbit / Black Ink redevelopment and later use. | Permit/secondary chronology in building record. |
 
+## 1911–1917 occupancy transition controls
+
+Current evidence brackets a multi-stage early occupancy sequence at 503 Main. On **15 Jan. 1911** the *Morning Enterprise* directly places **H. H. Smith's pool hall at 503 Main**; on **24 Mar. 1912** Smith again identifies **503 Main Street** as his place of business in a notice seeking a three-month pool-hall license. A separate 3 Feb. 1911 city-license report lists **L. Hylton — shooting gallery** and **H. H. Smith — pool room**, showing they were distinct licensed operators before Hylton appears at 503.
+
+By **12 Feb. 1914**, and independently again on **23 Apr. 1914**, *Oregon City Courier* business material places **L. Hylton at 503 Main**, dealing in cigars, tobacco, smokers' supplies and soft drinks. The February profile describes an established business but does not state its opening date. Do not infer that Hylton bought Smith's pool hall without direct transfer evidence.
+
+The next surviving project control is the **1916–17 Water Rent Book 4** entry whose high-confidence steward transcription is **C. Schoenheinz — Store — 503 Main**. Thus the current occupancy model is **Smith pool hall → Hylton tobacco/soft-drink business → C. Schoenheinz Store**, with both transition dates unresolved. These are occupant/use controls, not evidence of building replacement.
+
+Controlling capture: `evidence/source-captures/2026-09-21-503-main-smith-hylton-schoenheinz-transition.md`.
+
 ## 1922 evidence and ownership controls
 
 The controlling reconstruction is now the dedicated [`1922-fire-frontage.md`](1922-fire-frontage.md). Older model-test language that treated “503 origin / 505 pool” as merely an unranked possibility is superseded for historical-location purposes.
