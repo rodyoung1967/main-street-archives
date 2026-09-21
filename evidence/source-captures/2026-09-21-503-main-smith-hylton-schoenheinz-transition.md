@@ -1,0 +1,53 @@
+# 503 Main occupancy transition — Smith → Hylton → C. Schoenheinz
+
+## Scope
+Targeted pass to bracket the change in occupant/use at 503 Main between H. H. Smith's pool hall and the 1916–17 Book 4 C. Schoenheinz Store entry. Newspaper OCR/search is discovery; candidate pages require visual inspection before promotion to visually verified evidence.
+
+## Directly located candidate sources
+
+### 24 March 1912 — H. H. Smith, pool hall, 503 Main
+*Morning Enterprise*, 24 Mar. 1912, image 2.
+The published notice says H. H. Smith will apply at the next regular council meeting for a three-month pool-hall license at his place of business, **503 Main Street**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-24/ed-1/seq-2/
+
+Evidence state this pass: **ONLINE TEXT/OCR LOCATED — VISUAL PAGE INSPECTION PENDING** unless already independently marked visually verified elsewhere in the repository.
+
+### 12 February 1914 — L. Hylton, 503 Main
+*Oregon City Courier*, 12 Feb. 1914, image 15, Industrial Edition.
+The business profile explicitly says **L. Hylton** conducts a business at **503 Main Street**, dealing in **cigars, tobacco, smokers' supplies, and soft drinks**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-12/ed-1/seq-15/
+
+Evidence state this pass: **ONLINE PAGE/TEXT LOCATED — VISUAL INSPECTION REQUIRED FOR PROJECT VISUAL-VERIFICATION STATUS**.
+
+### 23 April 1914 — L. Hylton still at 503 Main
+*Oregon City Courier*, 23 Apr. 1914, image 6.
+A local-business promotion again places **L. Hylton** at **503 Main Street**, selling cigars, tobacco and soft drinks.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1914-04-23/ed-1/seq-6/
+
+Evidence state this pass: **ONLINE PAGE/TEXT LOCATED — VISUAL INSPECTION REQUIRED FOR PROJECT VISUAL-VERIFICATION STATUS**.
+
+## Chronological consequence
+
+The transition is no longer simply Smith → Schoenheinz.
+
+Current bracket:
+- **24 Mar. 1912:** H. H. Smith — pool hall — 503 Main.
+- **12 Feb. 1914:** L. Hylton — cigars/tobacco/smokers' supplies/soft drinks — 503 Main.
+- **23 Apr. 1914:** L. Hylton — same general trade — 503 Main.
+- **1916–17:** C. Schoenheinz — Store — 503 Main (Book 4, high-confidence steward transcription).
+
+Therefore at least one intermediate occupant/use, **L. Hylton**, must be inserted into the 503 chronology. The Smith → Hylton transition occurred after 24 Mar. 1912 and by 12 Feb. 1914. The Hylton → C. Schoenheinz transition occurred after 23 Apr. 1914 and by the applicable Book 4 period.
+
+Do not infer a building replacement from these occupant changes.
+
+## Next exact targets
+1. Find earliest L. Hylton at 503 and latest H. H. Smith at 503 to tighten Smith → Hylton.
+2. Find latest L. Hylton at 503 and earliest C. Schoenheinz at 503 to tighten Hylton → Schoenheinz.
+3. Inspect city council pool-hall/license records in 1912–14 for Smith/Hylton and possible transfer/change of use.
+4. Visually inspect the three newspaper pages above before upgrading them under project visual-verification rules.
