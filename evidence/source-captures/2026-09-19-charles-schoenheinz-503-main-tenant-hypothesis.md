@@ -325,3 +325,23 @@ Direct/probable address sequence now includes:
 - **14 Apr.–22 Sep. 1922:** Schoenheinz Shoe Repair Shop advertised in Pacific Highway Garage Building; proprietor not named.
 
 This strengthens the case for specifically searching **1912–1916 move/opening/closing records** rather than treating 716→503 as an established continuous sequence.
+
+
+## 20 September continuation — family-location controls and 1913–16 search result
+
+A focused Historic Oregon Newspapers search was run across 1913–1916 for Schoenheinz + shoe/shoemaker/Main/address variants. It did **not** recover an independent exact-address pairing of Schoenheinz with 503 Main. This is bounded search coverage, not negative evidence.
+
+Useful controls recovered/reconfirmed:
+
+- **30 Oct. 1913 Courier p.5:** Charles Schoenheinz appears as a member of Smith's Orchestra. This is additional direct evidence for the younger Charles's musician track, but supplies no occupation/address.
+- **6 Aug. 1914 Courier p.8:** Charles Schoenheinz went to Portland on business. No occupation/address.
+- **10 Dec. 1914 Courier p.5:** Elizabeth Schoenheinz returned to Oregon City and was residing with her father, explicitly **Mr. Carl Schoenheinz on 7th St.** This is the strongest recovered contemporary residence-location control for the older father in the target transition period. It does not identify a business address.
+- **4 May 1916 Courier p.7:** Lizzie Schoenheinz was visiting her brother **Edward at Washougal, Washington**. This independently places adult Edward away from Oregon City at that moment and helps separate him from the 503 C. tenant question.
+- **9 Nov. 1916 Courier p.1:** younger Charles was treasurer/business manager of the Oregon City band; still no business address.
+- **3 May 1917 Courier p.5:** younger Charles, wife and son Edward moved to Camas and he had disposed of his interest in Theroux's Oregon City music store; separate Theroux advertisements place that business at 519 Main.
+
+### Interpretation
+
+The new 1914 residence control strengthens the older-father model without proving the ledger identity: **Carl Schoenheinz was living on 7th Street during the transition window**, while younger Charles was repeatedly documented through music/orchestra activity. A residence on 7th is fully compatible with a Main Street workplace but does not establish one.
+
+The 1913–16 searchable-newspaper route is now showing diminishing returns for the decisive question. Priority should shift to an address-indexed directory, telephone/business listing, city license/tax record, or other non-newspaper source capable of pairing **C./Carl/Karl/Charles Schoenheinz** with **503 Main**.
