@@ -482,3 +482,33 @@ Sources:
 ### Search judgment
 
 The open-web obituary/shoemaker search has now been tested with Karl/Carl/Charles and multiple date/occupation variants without yielding the decisive occupation/address bridge. This is bounded coverage, not negative evidence. Highest-value unresolved sources remain the actual 1916 directory images and Karl's full January 1937 death notice/obituary behind a historical-newspaper access surface.
+
+
+## 21 September continuation — 1912 residence correction and transition implications
+
+A fresh source-text pass recovered an important residence detail from the **19 July 1912 Oregon City Courier** obituary for Mrs. Charles Schoenheinz: it says she **died at her home on Center St. in Oregon City**.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-19/ed-1/seq-5/
+
+This adds a new household-location control for the older generation:
+- **15 Jan. 1911:** C. Schoenheinz's advertised shoe business = 716 Main.
+- **July 1912:** Mrs. Charles Schoenheinz / older family household = **Center Street**.
+- **10 Dec. 1914:** Elizabeth is residing with her father, **Mr. Carl Schoenheinz on 7th St.**
+- **1916–17:** Book 4 probable transcription = **C. Schoenheinz, 503 Main, Store**.
+
+Center Street in 1912 and 7th Street in 1914 are residence wording, not business addresses. They do not conflict with a Main Street workplace. They do, however, show that the older family's residential address changed or was described differently between 1912 and 1914; do not silently treat `on 7th St.` as a business location.
+
+### Search result
+
+A renewed exact-string web pass for Karl/Carl/Charles Schoenheinz + shoemaker/503/1915-16 did not recover a new independent 503 bridge. It reconfirmed the direct 1911 716 Main shoe-shop advertisement and 1922 Pacific Highway Garage shoe-repair advertisements.
+
+### Research consequence
+
+The older-generation model is now better separated into **residence vs. business**:
+- 1911 business: 716 Main;
+- 1912 residence: Center Street;
+- 1914 residence: 7th Street;
+- possible 1916–17 business tenancy: 503 Main.
+
+This makes an address-indexed directory especially valuable because it may contain both residence and occupation/business address, allowing the Book 4 tenant to be tested without conflating the two.
