@@ -8,7 +8,7 @@ This profile intentionally separates the younger **Charles Schoenheinz** from th
 
 ## Documented chronology
 
-- 3 May 1912 *Morning Enterprise*: Charles Schoenheinz is one of the young Oregon City musicians engaged by Arnold's Carnival Company; documented as a cornet/orchestra musician.
+- 3 May 1912 *Morning Enterprise*: Charles Schoenheinz is a cornetist in the Falls City orchestra and one of the young Oregon City musicians engaged by Arnold's Carnival Company; the article says he, Roy Baxter, and Chester Simonson would leave Sunday, May 12 for the company's Roseburg engagement, including the Roseburg Strawberry Festival, and expected to return to Oregon City in the fall to resume orchestral work.
 - 1913 newspaper coverage continues his orchestra activity.
 - 16 March 1916 *Oregon City Courier*: Margaret Louisa Cushing became the bride of **Charles Schoenheinz**; he is described as well known locally as a musician.
 - 9 November 1916 *Courier*: **Charles Schoenheinz** is treasurer and business manager of the reorganized Oregon City band.
