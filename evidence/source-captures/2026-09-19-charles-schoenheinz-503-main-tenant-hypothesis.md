@@ -578,3 +578,24 @@ Sources:
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-5/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-19/ed-1/seq-5/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1914-12-10/ed-1/seq-5/
+
+
+## 21 September pivot — close broad Schoenheinz pass and move to frontage transition
+
+The Schoenheinz identity/occupation workstream has reached diminishing returns on the open web. A final targeted pass across 1912–1919 combinations recovered no new exact-address or occupation bridge beyond the controls already captured.
+
+### Current evidence-weighted conclusion (not a new direct fact)
+
+The older father is now strongly tied to the family shoe trade by the paired Jan./Jul. 1912 notices, and contemporary sources render his name as Charles/Carl while the cemetery renders Karl. The younger Charles is independently documented on a music/mill trajectory. Therefore older Karl/Carl/newspaper-Charles is the better-supported candidate for the long-running Schoenheinz shoe operation, but Book 4's `C. Schoenheinz — 503 Main — Store` remains unassigned at direct-evidence level and the store type remains unproved.
+
+### Next workstream
+
+Move from person-centered Schoenheinz searching to the **503 Main occupancy transition**:
+
+- fixed early control: 15 Jan. 1911 H. H. Smith conducts a pool hall at **503 Main**;
+- 1912 municipal/license evidence also places Smith/pool-hall activity at 503;
+- later control: 1916–17 Book 4 records **C. Schoenheinz — Store — 503 Main**.
+
+Primary question is now **when and how 503 changed from Smith/pool-hall use to the Book 4 C. Schoenheinz store**. Search 1912–1916 address-indexed licenses, city commission records, tax/business records, directories, and targeted newspaper references to 503/Smith/Schoenheinz. Treat any change of occupant separately from building continuity and real-estate ownership.
+
+The restricted 1916 directory and Karl's full 1937 obituary remain open retrieval targets, but they should no longer block progress on the frontage chronology.
