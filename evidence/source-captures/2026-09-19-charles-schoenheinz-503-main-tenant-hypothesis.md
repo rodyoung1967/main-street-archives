@@ -465,3 +465,20 @@ Do not treat the indexed death item as proving occupation. When archive access i
 ### Why this route remains valuable
 
 If the obituary identifies Karl as a shoemaker/shoe repairer, it would independently bridge the older Karl/Carl identity to the long-running Schoenheinz shoe trade and substantially strengthen interpretation of the 1920 `K. Schoenheinz` shoemaker-wanted ad. It still would not by itself prove that Book 4's 503 Store was a shoe store; the exact-address bridge remains a separate question.
+
+
+## 21 September continuation — post-1917 family search and Edward branch control
+
+A new broad web/newspaper pass tested Karl/Carl/Charles Schoenheinz with obituary, shoemaker, 1918–22 and exact-address terms. It produced no new independent 503 address bridge and did not expose Karl's 1937 obituary text.
+
+One useful family control was recovered from the 30 Nov. 1922 *Banner-Courier*, p.7: the Bolton column names **Miss E. Schoenheinz** and then **Mr. and Mrs. E. Schoenheinz**. This demonstrates an E.-Schoenheinz household/community presence around Oregon City in late 1922 but does not by itself establish that this is Edward Hugo + Saloma or connect them to the Schoenheinz Shoe Repair Shop. Keep as an identity lead only.
+
+Separately, the 16 Dec. 1962 *Oregon Statesman* obituary for **Saloma S. Schoenheinz**, age 73, says she died in an Oregon City hospital and had lived in Oregon for 54 years. This is consistent with the Saloma Kilmer/Edward Schoenheinz family branch already documented by the Jan. 1912 marriage report, but the obituary excerpt recovered in this pass does not name her deceased husband in the visible text. Do not use it as the primary Edward-Hugo bridge without the complete notice or another source.
+
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-30/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn85042470/1962-12-16/ed-1/seq-5/
+
+### Search judgment
+
+The open-web obituary/shoemaker search has now been tested with Karl/Carl/Charles and multiple date/occupation variants without yielding the decisive occupation/address bridge. This is bounded coverage, not negative evidence. Highest-value unresolved sources remain the actual 1916 directory images and Karl's full January 1937 death notice/obituary behind a historical-newspaper access surface.
