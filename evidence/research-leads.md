@@ -654,3 +654,25 @@ The 3 May 1912 *Courier* public archive exposes **8 distinct images**, all visua
 
 Carry this as a source/pagination defect within `RL-036`. A source-film/microfilm or independent full-issue scan would resolve it. Until then, distinguish **8/8 exposed images reviewed** from **printed pages 1–8 proved complete**.
 
+
+
+### 21 September 2026 — 1916 Oregon City directory located as an exact catalog target
+<!-- 2026-09-21-1916-oregon-city-directory-catalog-target -->
+
+**Priority: HIGHEST — MANUAL/RESTRICTED ACCESS TARGET.** A focused directory-source pass located a dedicated **`1916 Oregon City, city directory`** catalog record at FamilySearch, catalog **1844954**. This is not merely the statewide Polk gazetteer previously being searched. Independent Oregon historic-resource forms also cite the **Oregon City City Directory, 1916** / **1916-17**, confirming that preservation researchers have used this local directory as an address/person source.
+
+Catalog:
+https://www.familysearch.org/en/search/catalog/1844954
+
+Discovery/access note:
+https://ldsgenealogy.com/cgi-bin/FHL2-OR.cgi?412016_1916_Oregon_City,_city_directory=
+
+FamilySearch's public catalog page does not expose the directory pages in the web result available to this research pass. Treat this as a **RETRIEVAL GAP / manual-access target**, not a no-hit. Do not claim the directory omits or contains Schoenheinz until the actual pages are inspected.
+
+When accessed, inspect **both directions**:
+1. alphabetical entries for Schoenheinz (C., Carl, Karl, Charles, Edward, and spelling variants), including occupation and residence/business address;
+2. street/address section for **501, 503, 503½, 505 and 507 Main**, with special attention to 503.
+
+Also inspect shoe/shoemaker classified listings and any business-name section. Photograph/capture the title/publication page and every relevant entry so the publication date and directory structure are auditable.
+
+This is now the most direct known source capable of independently testing the Book 4 `C. Schoenheinz — 503 Main — Store` transcription.
