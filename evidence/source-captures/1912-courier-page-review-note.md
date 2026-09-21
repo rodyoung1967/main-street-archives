@@ -145,3 +145,17 @@ Detailed capture: `evidence/source-captures/1912-courier-july12-visual-review-20
 Detailed capture: `evidence/source-captures/1912-courier-july19-visual-review-2026-09-20.md`.
 
 **Current chronological Courier resume point: 26 July 1912, sequence 1. 1912 remains IN PROGRESS.**
+
+## 20 September 2026 — 26 July completion
+
+- **26 July 1912: 8/8 visually verified.**
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, fire, barber, or commercial pool/billiard fact was identified.
+- Page 5 explicitly places **Farr Bros. new building at Seventh and Monroe**. Preserve this as a non-target Farr control; do not connect it to the later Farr/505 chain without independent evidence.
+- Page 1 names Fritz Griessen's **Willamette Hotel** but prints no street number; no target assignment is made.
+- Page 8's proposed **Main Street cluster lights** are general streetscape/business-district context, not a target-building event.
+- J. Levitt at Main/Seventh, Williams Bros. opposite Masonic Building, and Larsen & Co. at 10th/Main remain explicit non-target controls.
+- No claim-level target relationship was manufactured.
+
+Detailed capture: `evidence/source-captures/1912-courier-july26-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 2 August 1912, sequence 1. 1912 remains IN PROGRESS.**
