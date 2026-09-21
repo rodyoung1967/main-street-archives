@@ -51,3 +51,15 @@ Do not infer a building replacement from these occupant changes.
 2. Find latest L. Hylton at 503 and earliest C. Schoenheinz at 503 to tighten Hylton → Schoenheinz.
 3. Inspect city council pool-hall/license records in 1912–14 for Smith/Hylton and possible transfer/change of use.
 4. Visually inspect the three newspaper pages above before upgrading them under project visual-verification rules.
+
+
+## Continued exact-address search — 21 September
+
+A fresh exact-address web/index pass for Hylton + 503 Main, Hylton + cigars/tobacco, and Schoenheinz + 503 did **not** surface an additional dated 503 occupant beyond the known 1914 Hylton pages. This is bounded search coverage, not negative evidence.
+
+The 12 Feb. 1914 Industrial Edition wording is stronger than a bare directory-style listing: it calls Hylton's establishment a business house, says he had **built up a good business**, and describes established patronage. That language supports the inference that Hylton was operating by 12 Feb. 1914 and may have begun earlier, but it does not establish an opening date.
+
+The 23 Apr. 1914 page independently repeats the exact address and trade, providing a second contemporary exact-address control roughly ten weeks later.
+
+### Tightened next target
+Because indexed exact-address searching currently bottoms out at these two 1914 references, the highest-value route is now **municipal licensing/council evidence between Mar. 1912 and Feb. 1914**, especially pool-hall, shooting-gallery, cigar/tobacco, soft-drink, and amusement licenses involving H. H. Smith or L. Hylton. A transfer, new-license application, or cessation notice could date the change more tightly than newspaper advertising.
