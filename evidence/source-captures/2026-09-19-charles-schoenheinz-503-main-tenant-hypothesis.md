@@ -556,3 +556,25 @@ The 9 Nov. 1916 Courier directly names **Charles Schoenheinz** treasurer and bus
 ### Search judgment
 
 No new exact-address source emerged. Further generic web keyword combinations are now lower-value than obtaining the restricted 1916 directory images, Karl's full 1937 obituary, or a 1913–16 municipal/business-license source.
+
+
+## 21 September continuation — 1912 father/son identity linkage tightened
+
+A focused re-read of the 1912 family notices improves the identity logic but does not justify collapsing source-specific name forms.
+
+The **26 Jan. 1912 Courier** marriage notice identifies **Edward Schoenheinz** as a longtime Oregon City resident who had been **connected with his father in the shoe business**. The **19 Jul. 1912 Courier** obituary for Mrs. Charles Schoenheinz identifies surviving sons including **Edward and Charles**, and a surviving husband **Charles**. Read together, these two contemporary notices establish that Edward's shoe-business father was the husband whom the July obituary calls **Charles Schoenheinz**.
+
+This is a stronger bridge than previously stated:
+- Jan. 1912: Edward worked with **his father** in shoe business.
+- Jul. 1912: Edward's father/husband of his mother is named **Charles Schoenheinz** by the obituary.
+- Dec. 1914: Elizabeth's father is named **Carl Schoenheinz**.
+- official cemetery: Albertina and **Karl Schoenheinz** occupy adjacent graves; Albertina's death date matches the July 1912 Mrs. Charles obituary.
+
+Evidence consequence: the older father is directly tied to the shoe business through Edward's January notice, while contemporary sources render the father's given name as **Charles** (July 1912) and **Carl** (Dec. 1914), with the cemetery rendering **Karl**. This substantially strengthens the older Karl/Carl/newspaper-Charles identity model.
+
+It still does **not** prove that the 1911 `C. Schoenheinz, Proprietor` advertisement necessarily refers to the father, because younger Charles also existed; however, the father's direct shoe-business linkage makes the older man the much better-supported candidate. Preserve this as an evidence-weighted identity inference, not a source transcription.
+
+Sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-26/ed-1/seq-5/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-19/ed-1/seq-5/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1914-12-10/ed-1/seq-5/
