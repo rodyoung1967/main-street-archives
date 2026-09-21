@@ -106,3 +106,16 @@ Captures: `evidence/source-captures/1912-courier-june21-visual-review-2026-09-20
 
 **Current chronological Courier resume point: 5 July 1912, sequence 1. 1912 remains IN PROGRESS.**
 
+
+## 20 September 2026 — 5 July completion
+
+- **5 July 1912: 8/8 visually verified.** All eight original archive page scans were inspected.
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, barber, or commercial pool/billiard fact was identified.
+- Sequence 4 visibly carries a stale/wrong **June 28** Courier running header, while its body is genuine post-June-28 / intended 5 July content, including the Wilson-nomination editorial. Preserve this as a source-image/header anomaly rather than reclassifying the page.
+- Sequence 8 directly reports **Matt Justin sold his saloon to Frank Uderman and requested transfer of the license**, but prints no premises address. No target-frontage assignment is made. A later indexed 1913 notice placing Uderman at 520 Main is only a discovery lead here and is not backdated.
+- Explicit non-target controls include Hawley Company work at **Eleventh and Main**, J. Levitt at **7th and Main**, and Larsen & Co. at **10th and Main**.
+- No claim-level target relationship was manufactured from this bounded issue.
+
+Detailed capture: `evidence/source-captures/1912-courier-july05-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 12 July 1912, sequence 1. 1912 remains IN PROGRESS.**
