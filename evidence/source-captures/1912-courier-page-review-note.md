@@ -159,3 +159,15 @@ Detailed capture: `evidence/source-captures/1912-courier-july19-visual-review-20
 Detailed capture: `evidence/source-captures/1912-courier-july26-visual-review-2026-09-20.md`.
 
 **Current chronological Courier resume point: 2 August 1912, sequence 1. 1912 remains IN PROGRESS.**
+
+## 20 September 2026 — 2 August completion
+
+- **2 August 1912: 8/8 visually verified.**
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, fire, barber, or commercial pool/billiard fact was identified.
+- J. Levitt remains explicitly at **Seventh and Main**.
+- Page 3 Clackamas new-building/saloon material is explicitly a locality item and is non-target; page 4 billiards reference concerns a Pendleton minister.
+- No claim-level target relationship was manufactured.
+
+Detailed capture: `evidence/source-captures/1912-courier-august02-visual-review-2026-09-20.md`.
+
+**Current chronological Courier resume point: 9 August 1912, sequence 1. 1912 remains IN PROGRESS.**
