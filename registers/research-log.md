@@ -1380,3 +1380,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Explicit non-target controls: Hawley Company at **Eleventh/Main**, J. Levitt at **7th/Main**, Larsen & Co. at **10th/Main**.
 - Saved `evidence/source-captures/1912-courier-july05-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **12 July 1912, sequence 1**.
+
+## 20 September 2026 — 1912 Courier 12 July
+
+- Visually reviewed **12 July 1912 Courier 8/8** from original UO archive scans/PDFs.
+- No direct 501/503/503½/505/507/509/511 occupant, ownership, tenancy, target sale, demolition, construction, barber, or commercial pool/billiard fact emerged.
+- Sequence 3 carries a stale printed **June 28** running header with handwritten **July 12** correction; body/issue context supports 12 July and receives visual credit.
+- Front-page detective material leaves the poker-game name/place deliberately unnamed; no target pool/billiard inference was made.
+- Saved `evidence/source-captures/1912-courier-july12-visual-review-2026-09-20.md` and synchronized page-review/year-status records.
+- 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **19 July 1912, sequence 1**.
