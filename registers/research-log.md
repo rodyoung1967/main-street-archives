@@ -1417,3 +1417,12 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Explicit controls include J. Levitt at Seventh/Main; Clackamas-locality building/saloon material and a Pendleton billiards reference were kept separate from the target frontage.
 - Saved `evidence/source-captures/1912-courier-august02-visual-review-2026-09-20.md` and synchronized annual records.
 - 1912 remains **IN PROGRESS**. Next ordinary Courier issue: **9 August 1912, sequence 1**.
+
+## 20 September 2026 — preserve incomplete 9 August 1912 Courier pass
+
+- Preserved the incomplete **9 August 1912 Courier** pass so conversation-only knowledge is not lost.
+- Original scans for **sequences/pages 2, 4, and 7** were opened and visually inspected; no target-frontage evidence was identified on those three pages.
+- **Sequences/pages 1, 3, 5, 6, and 8 were not granted visual credit** because original-image access failed intermittently during the pass.
+- The issue is explicitly **NOT COMPLETE** and no full-issue no-hit inference is allowed.
+- Partial checkpoint: `evidence/source-captures/1912-courier-august09-partial-visual-review-2026-09-20.md`.
+- Last fully completed Courier issue remains **2 August 1912 (8/8)**. Active resume point remains **9 August 1912, sequence 1**.
