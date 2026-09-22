@@ -155,3 +155,31 @@ https://oregonnews.uoregon.edu/lccn/sn00063700/1905-07-14/ed-1/seq-7/
 The item gives no occupation or street address and therefore does **not** prove that this Lou Hylton is the 1911 shooting-gallery licensee, the 1914 503 proprietor, or the Louis Hylton of Oregon City named in 1917. Preserve it as an identity lead only.
 
 A renewed exact-term pass for Lou/Louis Hylton + shooting gallery/Main Street/cigar/tobacco still produced no direct premises or occupation bridge. The shooting-gallery address remains unresolved.
+
+
+## 1913 age control identifies rural L. J. Hylton as the elder Louis Jackson Hylton
+
+A new identity control materially tightens the Hylton separation.
+
+*Oregon City Courier*, 30 May 1913, p6, reports in the local/rural column that **“Mr. L. J. Hylton celebrates his seventy sixth birthday Saturday”**, adding that he was in good health and still did physical labor.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063698/1913-05-30/ed-1/seq-6/
+
+This age is consistent with the **Louis Jackson Hylton, age 81**, whose 7 Jun. 1917 obituary says he died at Mulino and had lived there 13 years. The obituary separately names **Louis Hylton of Oregon City** as a surviving son.
+
+Consequences:
+- The 1912–13 **L. J. Hylton** rural/Twilight material can now be assigned with substantially greater confidence to the elderly father, Louis Jackson Hylton, rather than casually merged with the urban 1914 proprietor.
+- The younger **Louis Hylton of Oregon City** becomes a materially stronger candidate for the bare-initial **L. Hylton** who held the 1911 shooting-gallery license and/or operated 503 Main in 1914.
+- This still does **not** prove the younger Louis was either operator. A direct occupation/address bridge remains required.
+
+A broader web-index pass also surfaced a later **Louis Hylton** in a 29 Jun. 1922 Banner-Courier county-payment list, showing the full name remained present in Clackamas County records after the elder Louis Jackson Hylton's 1917 death. The item supplies no occupation/address and is identity-supporting context only:
+https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-9/
+
+### Current identity model
+- **Louis Jackson / L. J. Hylton (elder):** born about 1836/37; rural Mulino/Twilight context; age 76 in May 1913; died June 1917.
+- **Louis Hylton (son):** explicitly “of Oregon City” in the elder man's 1917 obituary; exact age/occupation/residence still to be established.
+- **L. Hylton, shooting gallery (1911):** candidate for the son, but unproved.
+- **L. Hylton, 503 Main (1914):** candidate for the son, but unproved.
+
+The shooting-gallery street address remains unresolved.
