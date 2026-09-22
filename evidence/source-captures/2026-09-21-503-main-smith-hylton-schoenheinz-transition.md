@@ -183,3 +183,23 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-29/ed-1/seq-9/
 - **L. Hylton, 503 Main (1914):** candidate for the son, but unproved.
 
 The shooting-gallery street address remains unresolved.
+
+
+## 1909 L. Hylton of St. Helens — new identity control
+
+A broader search recovered a potentially important competing identity:
+- *Oregon City Courier*, 2 Jul. 1909, p5, reports **“L. Hylton, of St. Helens”** made a business trip to Oregon City.
+  https://oregonnews.uoregon.edu/lccn/sn00063698/1909-07-02/ed-1/seq-5/
+
+This is an additional caution against assuming every bare-initial L. Hylton in Oregon City-area newspapers is the younger Louis Hylton later described as “of Oregon City.” The 1909 item does not give first name or occupation and cannot presently be connected to the 1911 shooting-gallery operator.
+
+A renewed exact search for Hylton + shooting gallery recovered the 3 Feb. 1911 council report but no address-bearing advertisement, license notice, or directory result. The shooting-gallery premises remain unresolved.
+
+### Identity candidates now requiring separation
+1. Louis Jackson / L. J. Hylton — elder, rural Twilight/Mulino.
+2. Louis Hylton — son, “of Oregon City” by 1917; candidate for 1911/1914 operator.
+3. L. Hylton of St. Helens — documented visitor to Oregon City in July 1909; first name/occupation unknown.
+4. L. Hylton — 1911 shooting-gallery licensee.
+5. L. Hylton — 1914 503 Main proprietor.
+
+Do not merge 2–5 without direct bridging evidence.
