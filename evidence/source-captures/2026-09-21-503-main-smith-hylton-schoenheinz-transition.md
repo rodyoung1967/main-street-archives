@@ -127,3 +127,19 @@ The 1917 obituary of Louis Jackson Hylton separately names **Louis Hylton of Ore
 
 ### Shooting-gallery address result
 Even with this identity-focused expansion, no exact address for the 1911 L. Hylton shooting gallery was recovered. Preserve its location as unresolved.
+
+
+## Lou/Louis Hylton identity pass
+
+A dedicated search for **Lou Hylton** and **Louis Hylton** in Oregon City-area material was run to test whether the urban son named in the 1917 Louis Jackson Hylton obituary can be bridged to either the 1911 shooting-gallery license or the 1914 503 Main business.
+
+Result: no direct occupation/address bridge was recovered in this pass. The evidence remains:
+- 1911 municipal report: **L. Hylton — shooting gallery**, address unstated.
+- 1912 rural/Twilight controls: **L. J. Hylton**, including R.F.D. No. 6.
+- 1914 exact-address business: **L. Hylton — 503 Main**, cigars/tobacco/smokers' supplies/soft drinks.
+- 1917 obituary: **Louis Hylton of Oregon City** and **James Hylton of Twilight** are separately named sons of Louis Jackson Hylton.
+
+The working idea that the urban son Louis/Lou was the 1911 licensee and/or 1914 proprietor remains **HYPOTHESIS ONLY**. Do not merge those records without a directory, census, license application, obituary, or other direct bridge.
+
+### Next identity sources
+Prioritize 1910 federal census household detail for the Hylton family, 1910–14 Oregon City directories, and original city license applications. These can supply age, occupation, residence, and premises information capable of separating the similarly named Hyltons.
