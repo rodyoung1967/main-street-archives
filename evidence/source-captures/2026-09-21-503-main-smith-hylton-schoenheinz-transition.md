@@ -203,3 +203,18 @@ A renewed exact search for Hylton + shooting gallery recovered the 3 Feb. 1911 c
 5. L. Hylton — 1914 503 Main proprietor.
 
 Do not merge 2–5 without direct bridging evidence.
+
+
+## 2026-09-21 younger-Louis targeted search — no direct bridge yet
+
+A new targeted web-index pass searched the 1911–14 window separately for **Louis Hylton**, **Lou Hylton**, shooting gallery, 503 Main, cigar/tobacco, and Oregon City.
+
+No direct record was recovered that gives the younger Louis Hylton an occupation or residence in 1911–14, and no address-bearing shooting-gallery item surfaced.
+
+Two useful controls were reconfirmed:
+- 30 May 1913 *Oregon City Courier* p6 gives L. J. Hylton's age as 76, reinforcing identification of the Twilight L. J. Hylton with the elderly Louis Jackson Hylton.
+- 6 Apr 1916 *Oregon City Courier* p5 explicitly says L. J. Hylton **lives in the Twilight district**, further separating the elder rural man from the 1917 obituary's son **Louis Hylton of Oregon City**.
+
+The 12 Feb. 1914 503 profile calls L. Hylton a **loyal citizen of Oregon City** and says he had built up a good business. This is compatible with, but does not prove, identification with the obituary's younger Louis Hylton of Oregon City.
+
+Current result: younger Louis remains a plausible candidate for the 1911 shooting-gallery licensee and 1914 503 proprietor, but there is still no direct identity bridge. Do not merge.
