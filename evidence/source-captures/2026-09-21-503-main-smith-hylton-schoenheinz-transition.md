@@ -276,3 +276,23 @@ These three records strongly triangulate the 1911 operator and premises:
 The safest current conclusion is **strong inference, not yet direct operator-address proof**: L. Hylton/Lou Hilton's shooting gallery was very likely the documented gallery at **506 Main Street**. A source explicitly saying “Lou Hylton, shooting gallery, 506 Main” has not yet been recovered. Visual inspection of the Jun. 30 scan is required to settle whether the printed surname is Hilton or Hylton rather than relying on OCR.
 
 This is also important to the 503 chronology: the likely 1911 Hylton shooting gallery was **506 Main, not 503 Main**, while H. H. Smith was directly at 503 in 1911–12. Hylton's later appearance at 503 by Feb. 1914 therefore represents a later premises/business transition rather than evidence that he was already operating 503 in 1911.
+
+
+## 506 Main closure boundary strengthens Hylton shooting-gallery reconstruction
+
+A new exact-address control materially tightens the 1911 shooting-gallery chronology.
+
+- **26 Mar. 1911, Oregon Daily Journal p34:** classified directs buyers to the **shooting gallery, 506 Main St., Oregon City**.
+- **3 May 1911, Morning Enterprise p3:** an advertisement for the **Consolidated Three Town Co.** gives its **temporary office, 506 Main St.**
+- **30 Jun. 1911, Oregon City Courier p3:** **Lou Hilton** (printed/OCR spelling still to be visually checked against Hylton) is described as having **formerly conducted a shooting gallery in this city**, then joining the Miller Carnival Co. and subsequently the Arnold Amusement Co.
+
+Sources:
+https://oregonnews.uoregon.edu/lccn/sn85042444/1911-03-26/ed-1/seq-34/
+https://oregonnews.uoregon.edu/lccn/sn00063701/1911-05-03/ed-1/seq-3/
+https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-30/ed-1/seq-3/
+
+This supplies a useful closure boundary: the 506 Main shooting gallery is directly present on Mar. 26, but by May 3 the same address is being used as the temporary office of another concern. That fits the June report that Lou Hilton/Hylton had formerly run a shooting gallery and then joined a carnival company.
+
+Together with the Feb. 3 city license receipt for **L. Hylton — shooting gallery**, the identification of Hylton's gallery with **506 Main** is now a **very strong reconstruction**, though still not direct name+address proof. The likely operating window at 506 is bounded to at least Feb/Mar 1911 and apparently ended by early May 1911, subject to the possibility of shared premises or rapid succession.
+
+Do not promote to direct proof until a source explicitly joins Hylton/Hilton and 506 Main or original license material supplies premises.
