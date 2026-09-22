@@ -251,3 +251,28 @@ A fresh multi-query web-index sweep for L. Hylton, Lou Hylton, Louis Hylton, sho
 The sweep reconfirmed: the 3 Feb. 1911 council report records **L. Hylton — shooting gallery — $10** and **H. H. Smith — pool room — $17.50** as separate license receipts; the 12 Feb. 1914 profile explicitly calls the 503 operator **Mr. L. Hylton**, locates the business at **503 Main Street**, and describes established patronage; and 23 Apr. 1914 repeats **L. Hylton, 503 Main Street**, cigars/tobacco and soft drinks.
 
 No indexed 1910–13 advertisement tying the shooting gallery to a numbered Main Street premises surfaced. This negative is bounded to searchable/indexed material and is not evidence of absence. The original municipal license record and city directories remain the highest-value unresolved routes.
+
+
+## BREAKTHROUGH — 1911 shooting gallery can now be localized to 506 Main, with Lou Hilton/Hylton operator triangulation
+
+A 26 Mar. 1911 *Oregon Daily Journal* classified says: **“FOR SALE — A Boomerang bowling alley at a bargain. Call shooting gallery, 506 Main st., Oregon City, Or.”** This is direct evidence that an operating shooting gallery was at **506 Main Street** in the same narrow period as the city license record.
+
+Source: https://oregonnews.uoregon.edu/lccn/sn85042444/1911-03-26/ed-1/seq-34/
+
+The 3 Feb. 1911 *Oregon City Courier* council report separately records **L. Hylton — shooting gallery — $10** among city license receipts.
+
+Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-8/
+
+Most importantly, the 30 Jun. 1911 *Oregon City Courier* local column names **Lou Hilton** (OCR spelling; inspect scan for Hylton/Hilton), saying he **formerly conducted a shooting gallery in this city**, later joined the Miller Carnival Co., and was visiting Oregon City before joining the Arnold Amusement Co. for the Aurora Fourth of July carnival.
+
+Source: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-30/ed-1/seq-3/
+
+### Evidence assessment
+These three records strongly triangulate the 1911 operator and premises:
+1. Feb. 3: **L. Hylton** is the city's licensed shooting-gallery operator.
+2. Mar. 26: a **shooting gallery at 506 Main** is directly advertised.
+3. Jun. 30: **Lou Hilton/Hylton** is described as the man who formerly conducted a shooting gallery in Oregon City and then moved into carnival/amusement work.
+
+The safest current conclusion is **strong inference, not yet direct operator-address proof**: L. Hylton/Lou Hilton's shooting gallery was very likely the documented gallery at **506 Main Street**. A source explicitly saying “Lou Hylton, shooting gallery, 506 Main” has not yet been recovered. Visual inspection of the Jun. 30 scan is required to settle whether the printed surname is Hilton or Hylton rather than relying on OCR.
+
+This is also important to the 503 chronology: the likely 1911 Hylton shooting gallery was **506 Main, not 503 Main**, while H. H. Smith was directly at 503 in 1911–12. Hylton's later appearance at 503 by Feb. 1914 therefore represents a later premises/business transition rather than evidence that he was already operating 503 in 1911.
