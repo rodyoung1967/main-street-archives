@@ -143,3 +143,15 @@ The working idea that the urban son Louis/Lou was the 1911 licensee and/or 1914 
 
 ### Next identity sources
 Prioritize 1910 federal census household detail for the Hylton family, 1910–14 Oregon City directories, and original city license applications. These can supply age, occupation, residence, and premises information capable of separating the similarly named Hyltons.
+
+
+## Earlier Lou Hylton control — 1905
+
+A broader pre-1911 identity search recovered **Lou Hylton** in the 14 Jul. 1905 *Oregon City Enterprise*, p7, in a county/court expenditure-name list. This is useful as an early local-name control showing the form **Lou Hylton** in Oregon City/Clackamas County records years before the 1911 shooting-gallery license.
+
+Source:
+https://oregonnews.uoregon.edu/lccn/sn00063700/1905-07-14/ed-1/seq-7/
+
+The item gives no occupation or street address and therefore does **not** prove that this Lou Hylton is the 1911 shooting-gallery licensee, the 1914 503 proprietor, or the Louis Hylton of Oregon City named in 1917. Preserve it as an identity lead only.
+
+A renewed exact-term pass for Lou/Louis Hylton + shooting gallery/Main Street/cigar/tobacco still produced no direct premises or occupation bridge. The shooting-gallery address remains unresolved.
