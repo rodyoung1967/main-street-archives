@@ -296,3 +296,14 @@ This supplies a useful closure boundary: the 506 Main shooting gallery is direct
 Together with the Feb. 3 city license receipt for **L. Hylton — shooting gallery**, the identification of Hylton's gallery with **506 Main** is now a **very strong reconstruction**, though still not direct name+address proof. The likely operating window at 506 is bounded to at least Feb/Mar 1911 and apparently ended by early May 1911, subject to the possibility of shared premises or rapid succession.
 
 Do not promote to direct proof until a source explicitly joins Hylton/Hilton and 506 Main or original license material supplies premises.
+
+
+## 1911 shooting-gallery operator search — expanded carnival/amusement route
+
+An expanded pass followed the distinctive June 1911 carnival/amusement clue rather than only the Hylton surname. Searches combined Miller Carnival Co., Arnold Amusement Co., Aurora Fourth of July, shooting gallery, Oregon City, Lou/Louis/Hilton/Hylton, and 506 Main.
+
+No additional indexed source was recovered that explicitly joins the operator's name to **506 Main**. The evidence chain therefore remains a very strong reconstruction rather than direct name+address proof.
+
+The carnival clue remains important because the 30 Jun. 1911 Courier item supplies an occupational transition for Lou Hilton/Hylton: former Oregon City shooting-gallery operator -> Miller Carnival Co. -> Arnold Amusement Co. That transition fits the independently observed change of use at 506 Main between the Mar. 26 shooting-gallery classified and the May 3 temporary-office advertisement.
+
+Preserve as bounded negative: no indexed Miller/Arnold/Aurora item in this pass supplied the missing 506 Main bridge. Future work should prioritize visual newspaper review around Jan-May 1911 and original city license material rather than repeating ordinary web-index queries.
