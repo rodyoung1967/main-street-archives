@@ -231,3 +231,14 @@ This removes Lois Emma Hylton as evidence for a younger-Louis household in Orego
 A separate secondary-index lead gives a **Louis Hylton (1872–1961), buried Dallas, Oregon**. This age is plausible for the son Louis named in Louis Jackson Hylton's 1917 obituary, but no parentage/residence/occupation bridge was recovered, so it is **not yet identified** as our younger Louis.
 
 No new address-bearing record for the 1911 shooting gallery was recovered. The direct bridge between the 1911 L. Hylton licensee and the 1914 503 proprietor remains open.
+
+
+## Dallas 1872–1961 Louis Hylton lead — unresolved, not yet a bridge
+
+A targeted search tested the secondary-index **Louis Hylton (1872–21 Jul 1961), Dallas, Polk County, Oregon** against the younger Louis named in Louis Jackson Hylton's 1917 obituary.
+
+Search results reconfirm the Dallas cemetery/index identity and date span, but this pass recovered **no parentage, spouse, occupation, or earlier Oregon City residence** connecting the Dallas man to Louis Jackson Hylton. Therefore do not identify him as the son or as the 1911/1914 operator.
+
+The 1917 obituary remains the direct control that Louis Jackson Hylton had a son **Louis Hylton of Oregon City**. The search still has not produced an address-bearing shooting-gallery record or a direct younger-Louis occupation record.
+
+Status: Dallas Louis is a candidate identity lead only; no promotion.
