@@ -218,3 +218,16 @@ Two useful controls were reconfirmed:
 The 12 Feb. 1914 503 profile calls L. Hylton a **loyal citizen of Oregon City** and says he had built up a good business. This is compatible with, but does not prove, identification with the obituary's younger Louis Hylton of Oregon City.
 
 Current result: younger Louis remains a plausible candidate for the 1911 shooting-gallery licensee and 1914 503 proprietor, but there is still no direct identity bridge. Do not merge.
+
+
+## Family reconstruction check — avoid false child leads
+
+A broader identity pass tested later Oregon City-born Hyltons as possible children of the younger Louis.
+
+The strongest resolved case is **Lois Emma Hylton**, born 3 Feb. 1912 in Oregon City. Her later obituary identifies her parents as **James Wesley and Emma Theresa (Wilehart) Hylton**, not Louis Hylton. Source: Penttila's Chapel obituary for Lois E. Kitts (2007), indexed independently by the Northwest Heritage Index.
+
+This removes Lois Emma Hylton as evidence for a younger-Louis household in Oregon City in 1912. Lloyd J. Hylton (born 16 Oct. 1910 in Oregon City) also surfaced in the heritage index, but this pass did not recover a reliable parent bridge; do not assign him to Louis.
+
+A separate secondary-index lead gives a **Louis Hylton (1872–1961), buried Dallas, Oregon**. This age is plausible for the son Louis named in Louis Jackson Hylton's 1917 obituary, but no parentage/residence/occupation bridge was recovered, so it is **not yet identified** as our younger Louis.
+
+No new address-bearing record for the 1911 shooting gallery was recovered. The direct bridge between the 1911 L. Hylton licensee and the 1914 503 proprietor remains open.
