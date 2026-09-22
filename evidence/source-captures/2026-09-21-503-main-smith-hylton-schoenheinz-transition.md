@@ -242,3 +242,12 @@ Search results reconfirm the Dallas cemetery/index identity and date span, but t
 The 1917 obituary remains the direct control that Louis Jackson Hylton had a son **Louis Hylton of Oregon City**. The search still has not produced an address-bearing shooting-gallery record or a direct younger-Louis occupation record.
 
 Status: Dallas Louis is a candidate identity lead only; no promotion.
+
+
+## 2026-09-21 renewed newspaper/index sweep
+
+A fresh multi-query web-index sweep for L. Hylton, Lou Hylton, Louis Hylton, shooting gallery, 503 Main, cigar/tobacco, Oregon City, and Clackamas again recovered the known 1911 license report and 1914 503 profiles, but **no new address-bearing shooting-gallery notice and no direct occupation/residence bridge for the younger Louis**.
+
+The sweep reconfirmed: the 3 Feb. 1911 council report records **L. Hylton — shooting gallery — $10** and **H. H. Smith — pool room — $17.50** as separate license receipts; the 12 Feb. 1914 profile explicitly calls the 503 operator **Mr. L. Hylton**, locates the business at **503 Main Street**, and describes established patronage; and 23 Apr. 1914 repeats **L. Hylton, 503 Main Street**, cigars/tobacco and soft drinks.
+
+No indexed 1910–13 advertisement tying the shooting gallery to a numbered Main Street premises surfaced. This negative is bounded to searchable/indexed material and is not evidence of absence. The original municipal license record and city directories remain the highest-value unresolved routes.
