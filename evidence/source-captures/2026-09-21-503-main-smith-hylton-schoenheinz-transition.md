@@ -307,3 +307,12 @@ No additional indexed source was recovered that explicitly joins the operator's 
 The carnival clue remains important because the 30 Jun. 1911 Courier item supplies an occupational transition for Lou Hilton/Hylton: former Oregon City shooting-gallery operator -> Miller Carnival Co. -> Arnold Amusement Co. That transition fits the independently observed change of use at 506 Main between the Mar. 26 shooting-gallery classified and the May 3 temporary-office advertisement.
 
 Preserve as bounded negative: no indexed Miller/Arnold/Aurora item in this pass supplied the missing 506 Main bridge. Future work should prioritize visual newspaper review around Jan-May 1911 and original city license material rather than repeating ordinary web-index queries.
+
+
+## 2026-10-03 exact-name/address bridge search
+
+A renewed exact search tested Hylton/Hilton against **506 Main** and followed the Miller Carnival / Arnold Amusement occupational trail. No indexed source recovered in this pass prints the operator's name and 506 Main in the same item.
+
+The direct address evidence remains the 26 Mar. 1911 *Oregon Daily Journal* classified: **shooting gallery, 506 Main St., Oregon City**. The direct operator evidence remains the 3 Feb. 1911 city license report: **L. Hylton — shooting gallery — $10**. The 30 Jun. 1911 *Courier* independently says **Lou Hilton** formerly conducted a shooting gallery in Oregon City and then entered carnival/amusement work. The 3 May 1911 *Morning Enterprise* shows **506 Main** already in use as the temporary office of Consolidated Three Town Co.
+
+Result: no direct name+address bridge found in indexed search. Preserve the 506 identification as a very strong reconstruction, not direct proof. Next escalation should be visual review of Jan–Apr 1911 Oregon City newspaper pages/ads or retrieval of original city license material; ordinary exact web-index searches are now saturated.
