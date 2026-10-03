@@ -325,3 +325,12 @@ A continuation pass treated **506 Main itself** as the search key, independent o
 This address-first result matters because it independently supports rapid premises succession at 506 and fits the 30 Jun. 1911 report that Lou Hilton had *formerly* conducted an Oregon City shooting gallery before entering carnival work. It still does not supply direct operator+address proof.
 
 Do not repeat generic web-index searches as if exhaustive visual review. Remaining escalation: page-image review of early-1911 issues and original municipal licensing records.
+
+
+## 2026-10-03 scan-level check and spelling caution
+
+The actual scanned image of *Oregon City Courier*, 30 Jun. 1911 p3 was opened for visual review (not OCR alone). The relevant local item is physically present on the page in the center news columns. Archive text renders the name **Lou Hilton** and states that he formerly conducted a shooting gallery in Oregon City before joining the Miller Carnival Co. and then Arnold Amusement Co.
+
+Because the full-page scan is small at the available review scale, the surname letter sequence is not yet promoted as a confident visual transcription; preserve **Hilton [archive OCR/text] / Hylton [possible identity relation]** rather than silently correcting it. A higher-resolution crop/JP2 review is still desirable for the surname itself.
+
+A fresh exact-name sweep for **Lou Hilton** (rather than Hylton) in 1910–12 recovered the same June 30 item but no additional Oregon City occupation/address bridge. Thus the 506 Main identification remains strong triangulation, not direct name+address proof.
