@@ -316,3 +316,12 @@ A renewed exact search tested Hylton/Hilton against **506 Main** and followed th
 The direct address evidence remains the 26 Mar. 1911 *Oregon Daily Journal* classified: **shooting gallery, 506 Main St., Oregon City**. The direct operator evidence remains the 3 Feb. 1911 city license report: **L. Hylton — shooting gallery — $10**. The 30 Jun. 1911 *Courier* independently says **Lou Hilton** formerly conducted a shooting gallery in Oregon City and then entered carnival/amusement work. The 3 May 1911 *Morning Enterprise* shows **506 Main** already in use as the temporary office of Consolidated Three Town Co.
 
 Result: no direct name+address bridge found in indexed search. Preserve the 506 identification as a very strong reconstruction, not direct proof. Next escalation should be visual review of Jan–Apr 1911 Oregon City newspaper pages/ads or retrieval of original city license material; ordinary exact web-index searches are now saturated.
+
+
+## 2026-10-03 continuation — 506 Main address succession as independent control
+
+A continuation pass treated **506 Main itself** as the search key, independent of the Hylton surname. The recovered chronology remains: 26 Mar. 1911 shooting gallery at 506 Main; 3 May 1911 Consolidated Three Town Co. temporary office at 506 Main. No additional indexed Jan–May 1911 506 Main item recovered in this pass names Hylton/Hilton.
+
+This address-first result matters because it independently supports rapid premises succession at 506 and fits the 30 Jun. 1911 report that Lou Hilton had *formerly* conducted an Oregon City shooting gallery before entering carnival work. It still does not supply direct operator+address proof.
+
+Do not repeat generic web-index searches as if exhaustive visual review. Remaining escalation: page-image review of early-1911 issues and original municipal licensing records.
