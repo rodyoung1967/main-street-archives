@@ -49,3 +49,22 @@ https://oregonnews.uoregon.edu/lccn/sn00063700/1921-03-04/ed-1/
 ## Resume point
 
 Continue with **11 March 1921, page 1 through page 8**, using the same actual-page-image visual standard and the expanded 500-block/small-ad target scope.
+
+## Retrieval recovery work — 4 October 2026
+
+### 11 March 1921
+
+The fresh second-pass scan retrieval remains unresolved through the Historic Oregon Newspapers derivative endpoints in the current research environment. Direct PDF/JP2 access was retried and not counted as visual review.
+
+Two independent recovery routes were confirmed:
+
+1. **NewspaperArchive** lists the Oregon City Enterprise through 1922 (809 issues / 5,751 pages for the title) and states that full newspaper images are available through its subscription/free-trial viewer. This is an independent digitized-image route, but the March 11 page-image viewer was not accessible from the current research environment, so no pages are certified from it.
+2. **Oregon City Public Library** documents microfilm holdings for the Oregon City Enterprise covering the 1921 date and explicitly invites questions about specific publication dates through its Reference Department. This is now the authoritative manual recovery route if online image derivatives remain inaccessible.
+
+Evidence discipline: search-index text and OCR were not promoted. **11 March remains 0/8 under the fresh targeted-second-pass count until actual page images are inspected.**
+
+Recovery references:
+- NewspaperArchive title archive: https://newspaperarchive.com/search/location/us/or/oregon-city/oregon-city-enterprise/
+- Oregon City Public Library microfilm holdings: https://www.orcity.org/490/Microfilm-Scanning-System
+
+The audit should continue laterally to 18 and 25 March rather than treating the 11 March retrieval gap as a reason to stop the entire year.
