@@ -580,3 +580,44 @@ Source/retrieval checkpoint: `evidence/source-captures/2026-09-20-1921-morning-e
 | **MF-071** | **ACTIVE MANUAL — MICROFILM / PHYSICAL-RUN VISUAL AUDIT; NO REQUEST SENT / NO FEE AUTHORIZED** | **Yes** | **The Banner-Courier** (Oregon City), LCCN `sn00063699`, is a relevant 1921 local title and must not be omitted from the annual source universe. ODNP's Oregon City digitization documentation specifically identifies the re-filmed/digitized Banner-Courier run as **Jan.–Dec. 1922**; reasonable public/indexed recovery attempts did not expose a complete 1921 page-image corpus. Retrieve the **complete 1921 Banner-Courier run** through Oregon City Public Library / surviving microfilm or another institutional holding, establish issue/page inventory, visually inspect every available page, and search the established 500-block scope, especially 501/503/505/505½ Main, occupants/businesses, ownership/tenancy, sales/transfers, demolition/construction/rebuilding/remodeling, fire/damage, openings/closings/moves, licenses/signs and useful neighboring anchors. Treat unavailable coverage as a retrieval gap, never negative evidence. No outreach has been sent and no fee is authorized. |
 
 Source/retrieval checkpoint: `evidence/source-captures/2026-09-20-1921-banner-courier-availability-reconciliation.md`.
+
+
+---
+
+## 4 October 2026 — 1911 L. Hylton shooting-gallery municipal license
+<!-- MF-072 1911 Hylton shooting gallery municipal license -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-072** | **ACTIVE MANUAL / RECORDS-ACCESS CALLOUT — DRAFT REQUEST PREPARED; NOT SENT / NO FEE AUTHORIZED** | **Yes** | Retrieve the underlying 1911 Oregon City license/application/receipt for **L. Hylton's shooting gallery**, especially the license represented in the 3 Feb. 1911 *Oregon City Courier* council/police report as **L. Hylton — shooting gallery — $10**. Capture full licensee name/spelling, premises address, application/license/receipt date, term, fee, business description, and any transfer, surrender, or renewal. This is the highest-value direct-proof target for testing the strong reconstruction that Hylton's licensed gallery was the shooting gallery directly advertised at **506 Main Street** on 26 Mar. 1911. Oregon City's public E-Vault/records route has been identified, but the underlying license was not recovered through indexed online access. **No request has been sent and no fee is authorized.** |
+
+### Draft records-request email for MF-072
+
+**Subject:** Historical records request — 1911 L. Hylton shooting-gallery license
+
+Hello,
+
+I am researching the history of businesses on Main Street in Oregon City and am trying to locate a municipal business-license record from 1911.
+
+The *Oregon City Courier* of February 3, 1911 reported a city license receipt for **“L. Hylton — shooting gallery — $10.”** I am looking for the underlying city record for that license, such as the application, license, receipt, license ledger entry, council record, police/license report, or related document.
+
+If the record survives, I am particularly interested in anything showing:
+
+- the licensee's full name and exact spelling;
+- the street address or premises of the shooting gallery;
+- the application, issuance, payment, or expiration date;
+- the license term and fee;
+- any renewal, transfer, surrender, or cancellation; and
+- any related record that identifies the location of L. Hylton's shooting gallery in early 1911.
+
+For reference, a contemporary newspaper advertisement dated March 26, 1911 identifies a **shooting gallery at 506 Main Street, Oregon City**. I am trying to determine whether that was the gallery licensed to L. Hylton.
+
+The relevant city license report appears to have been before the city by approximately late January or early February 1911, so records from **January through April 1911** would be the most likely period.
+
+If these records are available electronically, a scan or digital copy would be ideal. If locating or copying them would involve a fee, please let me know the estimated amount before proceeding with any chargeable research or copying.
+
+Thank you for your help,
+
+Rodney Young
+
+**Status:** Draft only. Project steward requested preparation on 4 Oct. 2026. Do not send automatically. No fee authorized.
