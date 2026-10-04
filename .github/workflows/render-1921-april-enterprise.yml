@@ -32,4 +32,6 @@ jobs:
           path: |
             rendered/
             rendered-inventory.txt
-          retention-days: 14
+          retention-days: 30
+
+# regenerated for targeted second pass 2026-10-04
