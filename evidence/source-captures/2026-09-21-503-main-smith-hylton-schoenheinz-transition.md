@@ -346,3 +346,12 @@ Accordingly, retain the source-exact distinction:
 - possible same-person identification: strong contextual hypothesis, not spelling-normalized fact.
 
 No repository claim should silently change Hilton to Hylton until a high-resolution scan or independent identity bridge resolves it. The 506 Main premises reconstruction is unaffected: the March 26 classified directly locates a shooting gallery at 506 Main, while the operator-name linkage remains triangulated rather than direct.
+
+
+## 2026-10-03 independent identity-bridge continuation
+
+A further independent-bridge pass searched both surname spellings (**Hilton** and **Hylton**) with the distinctive occupational language from the June 1911 item: shooting gallery, Miller Carnival Co., Arnold Amusement Co., Aurora, and Oregon City. No second indexed contemporary item was recovered that directly identifies Lou/L. by full name, gives 506 Main, or explicitly equates the February licensee with the June former operator.
+
+This bounded result increases the value of non-newspaper municipal material. The project should now treat the original 1911 city license ledger/application/receipt, if surviving, as the principal direct-proof target. A directory or census record can help establish the younger Louis identity but would not by itself prove the 506 premises unless it carries a business address.
+
+Current claim remains: **506 Main = directly documented shooting-gallery premises (26 Mar. 1911); L. Hylton = directly documented licensed shooting-gallery operator (3 Feb. 1911); Lou Hilton = directly documented former Oregon City shooting-gallery operator by 30 Jun. 1911; operator-at-506 linkage = very strong triangulated inference.**
