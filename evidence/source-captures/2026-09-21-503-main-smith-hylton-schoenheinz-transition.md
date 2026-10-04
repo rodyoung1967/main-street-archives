@@ -334,3 +334,15 @@ The actual scanned image of *Oregon City Courier*, 30 Jun. 1911 p3 was opened fo
 Because the full-page scan is small at the available review scale, the surname letter sequence is not yet promoted as a confident visual transcription; preserve **Hilton [archive OCR/text] / Hylton [possible identity relation]** rather than silently correcting it. A higher-resolution crop/JP2 review is still desirable for the surname itself.
 
 A fresh exact-name sweep for **Lou Hilton** (rather than Hylton) in 1910–12 recovered the same June 30 item but no additional Oregon City occupation/address bridge. Thus the 506 Main identification remains strong triangulation, not direct name+address proof.
+
+
+## 2026-10-03 high-resolution surname escalation
+
+A high-resolution-source escalation was attempted for *Oregon City Courier*, 30 Jun. 1911 p3, specifically to distinguish the printed surname in the Lou shooting-gallery item. The public page/PDF confirms the item visually exists, but this pass did not recover a sufficiently enlarged original-image crop/JP2 through the available indexed routes to certify the critical **i/y** letter from type alone.
+
+Accordingly, retain the source-exact distinction:
+- archive OCR/text: **Lou Hilton**;
+- Feb. 1911 municipal license report: **L. Hylton**;
+- possible same-person identification: strong contextual hypothesis, not spelling-normalized fact.
+
+No repository claim should silently change Hilton to Hylton until a high-resolution scan or independent identity bridge resolves it. The 506 Main premises reconstruction is unaffected: the March 26 classified directly locates a shooting gallery at 506 Main, while the operator-name linkage remains triangulated rather than direct.
