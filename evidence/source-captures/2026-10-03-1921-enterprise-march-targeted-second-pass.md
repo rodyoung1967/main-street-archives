@@ -68,3 +68,7 @@ Recovery references:
 - Oregon City Public Library microfilm holdings: https://www.orcity.org/490/Microfilm-Scanning-System
 
 The audit should continue laterally to 18 and 25 March rather than treating the 11 March retrieval gap as a reason to stop the entire year.
+
+## Access recheck — 15 October 2026
+
+Direct attempts to open the original Historic Oregon Newspapers PDFs for 11 March and 18 March 1921 (sequence 1) returned inaccessible errors in the current research environment. No scans were inspected and no additional pages are certified. The fresh second-pass count remains 8/32 for March and 72/416 for the year. This is a retrieval limitation, not evidence of no target-frontage material. Manual microfilm retrieval remains the next independent route.
