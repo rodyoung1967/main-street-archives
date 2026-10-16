@@ -621,3 +621,37 @@ Thank you for your help,
 Rodney Young
 
 **Status:** Draft only. Project steward requested preparation on 4 Oct. 2026. Do not send automatically. No fee authorized.
+
+
+---
+
+## 15 October 2026 — 1921 Enterprise missing-page scan request
+<!-- MF-073 1921 Enterprise March scan recovery -->
+
+| ID | Audited disposition | Still needed? | Audit decision |
+| --- | --- | --- | --- |
+| **MF-073** | **ACTIVE MANUAL — LIBRARY SCAN REQUEST DRAFT READY / NOT SENT / NO FEE AUTHORIZED** | **Yes** | Request full-page legible scans of all eight pages of the **11, 18 and 25 March 1921 Oregon City Enterprise** issues (24 pages total) from Oregon City Public Library's microfilm or a referral to another holding. Public digital PDF/JP2 retrieval has failed repeatedly. These are required for the stricter targeted second-pass visual audit, focusing on 501/503/505/505½ Main, Fifth/Main, small ads, occupants, building/property changes, and neighboring anchors. Once received, verify page identities, inspect every page, update `evidence/source-captures/2026-10-03-1921-enterprise-march-targeted-second-pass.md`, then resume April (five issues/40 pages). Current second-pass total remains **72/416**; do not mark pages complete until actually viewed. Coordinate with existing Oregon City Public Library outreach MF-031, MF-038 and MF-071 where useful; avoid duplicate requests. |
+
+**Ready-to-send email (draft only)**
+
+**To:** Oregon City Public Library — Reference Department (use current official contact route)
+
+**Subject:** Historical newspaper microfilm scan request — Oregon City Enterprise, March 1921
+
+Hello,
+
+I am researching the history of 501, 503, and 505 Main Street in Oregon City and am looking for readable page images from three issues of the *Oregon City Enterprise*:
+
+- Friday, March 11, 1921 — all 8 pages
+- Friday, March 18, 1921 — all 8 pages
+- Friday, March 25, 1921 — all 8 pages
+
+The Historic Oregon Newspapers digital copies have not been accessible through the available PDF/image routes, and I understand the library holds relevant Enterprise microfilm. Would you be able to provide full-page digital scans, or advise whether the microfilm is available for self-service scanning or through another institution? I need to inspect the entire pages, including small advertisements, so readable resolution and page-number/date identification are important.
+
+If scanning all 24 pages is impractical, I would appreciate guidance on the easiest way to view or obtain them. Please let me know about any copying/research fees before undertaking paid work.
+
+Thank you for your assistance,
+
+Rodney Young
+
+**Status:** Draft only, not sent. No fees approved.
