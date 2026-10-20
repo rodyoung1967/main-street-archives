@@ -94,3 +94,7 @@ Detailed evidence IDs and older research history remain preserved in the evidenc
 OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936**. Steward spatial mapping places the later 505 position within the visible frontage.
 The enlarged 505 storefront sign is **possibly `BILLIARDS`**, below secure transcription resolution. The independent 1925 Sanborn maps 505 as **billiards/cigars**, making the reading cross-source consistent.
 Do not describe the 505 structure in this photograph as necessarily newly built after the fire; the current July 1922 reconstruction says the adjoining 505 pool/billiard premises survived with water damage and partial roof burning.
+
+### 20 October 2026 steward identification of photographed old/new building
+
+**Steward visual identification / working evidence:** In the committed CCHS photographs, the project steward identifies `IMG-0765` (1896; CCHS 2008.008.005.002) as showing the **old/predecessor building** at the later 505 site, and `IMG-0770` (1924–1928; CCHS P-267) as showing the **new/replacement building**. This creates a broad photographic old/new bracket only; it does not date the construction event. The previously documented 18 July 1922 fire survival of the adjacent pool hall is independent evidence, but whether that building is the same physical structure visible in IMG-0770 remains to be demonstrated. Prioritize intermediate 1897–1924 images to narrow the visual transition. See `media/photo-metadata-register.md`.
