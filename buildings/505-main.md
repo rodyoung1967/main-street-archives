@@ -65,6 +65,15 @@ After Richard Wiitanen's death, the property passed through family/estate succes
 
 Do not assign a single proven construction year to the surviving 505 building. City/consultant work contains conflicting estimates. The stronger secondary bracket places construction/reconfiguration between **1911 and 1925**, with c.1920 only an estimate. The July 1922 evidence now importantly shows that the 505 pool-hall building **survived that fire rather than being razed**, so any reconstruction theory must accommodate that survival/fireproofing evidence.
 
+
+### 19 October 2026 steward-directed construction-date research focus
+
+**PROBABLE / WORKING HYPOTHESIS — project-steward conjecture, not newly verified evidence:** For the present research phase, treat the historic front/core of today's 505 building as substantially the same structure that survived the July 1922 fire, with a later rear extension. This is a research premise, **not** proof of uninterrupted fabric, exact build year, or extension date. The existing conflicting c.1920/1940 secondary estimates and aerial evidence remain intact.
+
+**Priority question:** Find (a) the **latest securely dated depiction or structural description of the predecessor building** at 505 and (b) the **earliest securely dated depiction or construction record of the surviving 1922 building**. An occupant at the address alone does not identify which physical structure was present. Use the already established 1911–1913 Chicago Store, October 1918 Wolf & Miller, June 1920 A. Leland at 505½, July 1922 fire-survival reports, and 1925 Sanborn as **dated address/use anchors**, not automatically as structural transition dates.
+
+**Next discriminating comparisons:** 1911–1913 and 1918 storefront photos vs. any 1919–1922 images; 1919–1921 assessor improvement entries and permits; 2 June 1920 pool-hall application/minutes for 'new building' or alterations; pre-1925 Sanborn editions and mapped wall/footprint geometry; contemporary teardown/new-building notices. Record separate last-old/first-new endpoints only when the actual building identity is demonstrable. Keep later rear extension as a separate question (OQ-003). No new page was visually inspected for this hypothesis update, and no evidence/timeline entry is warranted.
+
 ### June 1920 Leland first-occupant hypothesis
 
 **PROBABLE / WORKING HYPOTHESIS — not a documented fact:** if the City's tentative c.1920 estimate is approximately correct for the surviving 505 building, **A. Leland may have been an initial, possibly the first, commercial occupant of that building**. The evidence presently establishes Wolf & Miller at the 505 address in October 1918, then A. Leland's exact **505½ Main** pool-hall/sign approval on 2/4 June 1920 (`E-135` / `S-150`). It does **not** establish when the predecessor 505 structure was removed or altered, that Leland occupied newly built space, or that he was the first tenant.
