@@ -1913,3 +1913,7 @@ Visual conclusions:
 - Full page confirms **511 → 509 → 507 → 503 → 503½ → 501 Main**, with no separately written 505 Main account.
 
 Binary-preservation note: the exact screenshot files were supplied in conversation and visually inspected. The active GitHub connector exposes no conversation-attachment binary upload action, so the bytes could not be committed in this operation. Original filenames, dimensions and SHA-256 fingerprints are preserved here for exact future recognition. This is a technical preservation gap only; the official Book 4 source remains externally available and the visual findings are documented.
+
+### 2026-10-19 steward photo-identification correction
+
+The project steward reviewed the linked repository images **IMG-0769 (1918)**, **IMG-0760 (November 1922)**, and **IMG-0757 (1936)** and reported that **none shows an identifiable 505 Main Street building**. This is a steward visual-identification report; do not use these images as visually confirmed 505 building-identity or construction-date endpoints. Earlier repository descriptions placing the target frontage in these photographs remain historical interpretations requiring fresh spatial verification, not established building identification. This correction does not negate the separately documented 1922 fire reports or the 1925 Sanborn. Before presenting additional candidates, inspect the actual image, establish 505 visibility, and present the true image rather than a search-generated preview.
