@@ -98,3 +98,7 @@ Do not describe the 505 structure in this photograph as necessarily newly built 
 ### 20 October 2026 steward identification of photographed old/new building
 
 **Steward visual identification / working evidence:** In the committed CCHS photographs, the project steward identifies `IMG-0765` (1896; CCHS 2008.008.005.002) as showing the **old/predecessor building** at the later 505 site, and `IMG-0770` (1924–1928; CCHS P-267) as showing the **new/replacement building**. This creates a broad photographic old/new bracket only; it does not date the construction event. The previously documented 18 July 1922 fire survival of the adjacent pool hall is independent evidence, but whether that building is the same physical structure visible in IMG-0770 remains to be demonstrated. Prioritize intermediate 1897–1924 images to narrow the visual transition. See `media/photo-metadata-register.md`.
+
+### 20 October 2026 — old building photographed at numbered 505 in 1910
+
+The project steward confirmed that `IMG-0725` (CCHS George Young's Second Hand Store, catalog dated 1910) depicts the **old 505 building**. The photo itself clearly shows the street number **505** over the door, making this a secure address-to-storefront identification. It is the **latest currently steward-confirmed photograph of the predecessor**. `IMG-0765` (1896) is also identified by the steward as old; `IMG-0770` (1924–1928) as replacement. **Do not infer demolition or construction in 1910**: the physical transition remains undated. Cross-reference `media/photo-metadata-register.md`.
