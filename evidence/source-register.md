@@ -3435,3 +3435,10 @@ Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page
 ### S-141 October roster continuation
 
 Original Banner-Courier **5 and12 October1922 p8**, visually verified15 November2026; retained `newspapers/banner-courier/1922-10/1922-10-05-seq-08.pdf` and `1922-10-12-seq-08.pdf`. Canonical routes https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-05/ed-1/seq-8/ and https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-12/ed-1/seq-8/ . Extends E-126 and E-181 without address/identity inference. Capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
+
+
+### S-141 — October19 issue, sequence8, header conflict
+
+Retained `newspapers/banner-courier/1922-10/1922-10-19-seq-08.pdf`; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-19/ed-1/seq-8/ .
+
+19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.

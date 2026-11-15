@@ -1026,3 +1026,5 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `BUS-111` Schoenheinz Shoe Repair Shop | `E-359` / `S-393` | Sep29 1922 Pacific Highway Garage Building advertisement; proprietor and number not printed. Family profiles are candidates/context, not proved ownership. |
 
 | `E-126` / `E-181` / `S-141` October extension | `BUS-077` / `BUS-089`; `T-035` | October5/12 p8 unnumbered roster controls; no503/505 or shared-ownership assignment. |
+
+| `E-126` / `E-181` / `S-141` October19 issue | `BUS-077` / `BUS-089`; `T-035` | Sequence8 unnumbered roster; literal October12 header retained with October19 estate/fiction controls. No503/505 or shared-owner inference. |

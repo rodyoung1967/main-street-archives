@@ -258,3 +258,6 @@ These records were already part of the evidence narrative but previously lacked 
 | ID | Business | Address / location | Notes |
 | --- | --- | --- | --- |
 | BUS-111 | [Schoenheinz Shoe Repair Shop](schoenheinz-shoe-repair-shop-1922.md) | Pacific Highway Garage Building, Oregon City; number unresolved | Sep29 1922 original advertisement; proprietor unnamed. No merge with 503 tenant or 716 Main earlier shop. `E-359` / `S-393`. |
+
+
+19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.

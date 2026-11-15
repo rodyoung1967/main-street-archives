@@ -3647,3 +3647,9 @@ Claims:
 - Adds a September 29 dated advertising control to the existing April–September research, without proving uninterrupted operation or a move date.
 Related business: `BUS-111`.
 Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
+
+
+### October19 supplement — E-126 / E-181 / S-141
+
+
+19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.

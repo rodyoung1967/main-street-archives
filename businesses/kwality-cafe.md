@@ -104,3 +104,6 @@ The visually verified `S-285` / `E-259` advertisement moves the later endpoint o
 
 
 October extension, visually verified15 November2026: **5 and12 October1922 Banner-Courier p8** repeat the unnumbered merchant-roster wording. Leland and Little is labelled billiards; QUALITY CAFE remains unnumbered; McAnulty and Barry cigars/restaurant and R. A. Junken contractor/builder are separate rows. Roster order is not geography. No505/503 address, shared ownership or construction-completion date follows. Capture: `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
+
+
+19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.

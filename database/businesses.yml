@@ -1064,7 +1064,7 @@ businesses:
     related_sources: [S-141]
     repository_file: businesses/leland-little.md
 
-    october_1922_control: October 5 and 12 Banner-Courier p8 unnumbered roster repeats; no target-address or identity inference.
+    october_1922_control: October 5/12 p8 and October19 issue seq8 unnumbered roster repeats; latter header literally October12, with internal October19 date controls. No target-address or identity inference.
 
   - id: BUS-078
     name: Henry Brightbill's store
@@ -1180,7 +1180,7 @@ businesses:
     - S-141
     repository_file: businesses/quality-restaurant-1922.md
 
-    october_1922_control: October 5 and 12 Banner-Courier p8 unnumbered roster repeats; no target-address or identity inference.
+    october_1922_control: October 5/12 p8 and October19 issue seq8 unnumbered roster repeats; latter header literally October12, with internal October19 date controls. No target-address or identity inference.
 
   - id: BUS-090
     name: Friedrich's Hardware

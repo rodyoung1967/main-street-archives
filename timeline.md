@@ -734,3 +734,8 @@ Enterprise p.8 advertises **Schoenheinz Shoe Repair Shop**, **Pacific Highway Ga
 ### October5/12 1922 roster controls
 
 Banner-Courier p8 repeats unnumbered Leland and Little billiards (E-126/S-141; T-035) and QUALITY CAFE (E-181/S-141). No address, proprietor, completion or succession inference. See `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
+
+### 19 October1922 issue — qualified roster control
+
+
+19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.
