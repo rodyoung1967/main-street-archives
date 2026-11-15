@@ -9,7 +9,7 @@ Originals `newspapers/banner-courier/1922-11/1922-11-09-seq-NN.pdf`; issue https
 | Sequence / printed page | Content controls and result |
 | --- | --- |
 | 1 | Elections, City Hall vote, fire-department tax, Young People's conference, recital, Yeoman home/site five miles south. Caufield property Seventh/John Adams hill site distinct from Gates. No private target completion. |
-| 2 | Locals, Hazelia/Cherryville, trade-union essay, sheriff sale and ads. Plan­etz Little Homes No3 Block2 sale not target Block4. Giesman Buick garage Twelfth/Main; Freeze207–8 Masonic; Howland insurance unnumbered here. |
+| 2 | Locals, Hazelia/Cherryville, trade-union essay, sheriff sale and ads. Pleasant Little Homes No3 Block2 sale not target Block4. Giesman Buick garage Twelfth/Main; Freeze207–8 Masonic; Howland insurance unnumbered here. |
 | 3 | County communities and ads. W. W. Pollock Addie Street residence traded for Seventh Street hotel from J. H. Mattley: not proved same person as501 restaurant Pollock. Corral Creek Say's Hill bridge and West Linn bridge approach not Gates. Pacific Highway Garage advertises At Elevator, without street number or Schoenheinz proprietor bridge. |
 | 4 | Editorials, school meeting/budget, banks/batteries. City Hall editorial calls for purchasing hill site and building; not completed work. First National512 Main repeated; Con Hilgers Twelfth/Main, Dillman foot of elevator. |
 | 5 | Agriculture/bees/dairy, Kato divorce summons, ads. Fix Um109 Seventh, Northwest Tire407 Main, Teeple719½ Main, Beatie11th/Main. **Right edge clipping removes header/date area and portions of tire-ad text/numerals**; visible content only. No target address found in readable area. |

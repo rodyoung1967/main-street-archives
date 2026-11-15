@@ -3683,3 +3683,11 @@ November9 1922 Banner-Courier p8, original visually verified15 November2026: MIL
 ### November9 1922 Block4 alley notice repeat
 
 November9 1922 Banner-Courier p6, original visually verified15 November2026: repeats E-360/S-394 Block4 alley Main–Water filed completion-certificate notice and future November10 hearing. Does not resolve administrative-stage tension with Enterprise November3 report. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`.
+
+### November16 Miller address control
+
+November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
+
+### November16 carried Block4 alley notice
+
+November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
