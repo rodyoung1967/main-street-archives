@@ -2043,6 +2043,7 @@ evidence:
     repository_file: evidence/source-captures/1916-02-17-laundry-fifth-street-property-trade.md
 
   - id: E-126
+    october26_control: "Banner-Courier p8 repeats unnumbered roster; no address, identity, succession or completion inference. evidence/source-captures/2026-11-15-1922-october26-27-content-review.md"
     name: Timms Pool Hall and Leland & Little billiards chronology, 1922
     type: Primary newspaper business-name evidence; visual review
     claims:
@@ -2791,6 +2792,7 @@ evidence:
     repository_file: evidence/E-180-1922-newton-quality-fire-survival.md
 
   - id: E-181
+    october26_control: "Banner-Courier p8 repeats unnumbered roster; no address, identity, succession or completion inference. evidence/source-captures/2026-11-15-1922-october26-27-content-review.md"
     name: Quality Cafe in the 17 August 1922 business roster
     type: Primary newspaper business roster; visually verified
     claims:
@@ -5206,6 +5208,7 @@ evidence:
     repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
 
   - id: E-358
+    october26_control: "p2 Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing reaffirmed; p4 Overtire209 Fifth separate. evidence/source-captures/2026-11-15-1922-october26-27-content-review.md"
     name: Signed Gilbert Miller advertisement identifies Miller's Shoe Store at 419 Main
     type: Primary newspaper advertisement; original scan visually verified
     confidence: Very High for printed trade name, address and signature; pre-fire number unresolved

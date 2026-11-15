@@ -3442,3 +3442,13 @@ Original Banner-Courier **5 and12 October1922 p8**, visually verified15 November
 Retained `newspapers/banner-courier/1922-10/1922-10-19-seq-08.pdf`; https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-19/ed-1/seq-8/ .
 
 19 October issue continuation, visually verified15 November2026: Banner-Courier sequence8 repeats LELAND AND LITTLE, Billiards; QUALITY CAFE; separately McAnulty and Barry cigars/restaurant and Junken contractor/builder. Its header literally says October12; an October19 estate notice and p10 fiction continuation support a probable carried-over header. Archive issue date is retained with this qualification. No target address, proprietor, identity merger, succession or building completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`.
+
+
+### October26 supplements — S-141 / S-392
+
+Originals `newspapers/banner-courier/1922-10/1922-10-26-seq-08.pdf` (roster), `1922-10-26-seq-02.pdf` (Miller), `1922-10-26-seq-04.pdf` (separate Overtire ad). Canonical routes https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-8/ and https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2/ .
+
+October26 continuation (visually verified15 November2026): Banner-Courier p8 repeats unnumbered LELAND AND LITTLE, Billiards and QUALITY CAFE, separately McAnulty/Barry cigars/restaurant and Junken contractor/builder. E-126/E-181/S-141; BUS-077/BUS-089; T-035. No503/505 address, shared ownership, identity merger, succession or Gates completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+
+October26 address reaffirmation (full-page review15 November2026): Banner-Courier p2 directly prints MILLER’S SHOE STORE,419 Main, everyday footwear/rubbers/gloves and expert shoe repairing. Reaffirms the previously cited October26 control, not a new move or pre-fire number. E-358/S-392; BUS-071/P-046; T-036. Separate p4 Portland Overtire209 Fifth ad is not Miller’s location. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.

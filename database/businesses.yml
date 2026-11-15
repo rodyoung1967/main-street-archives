@@ -1002,6 +1002,7 @@ businesses:
     repository_file: businesses/fifth-street-restaurant.md
 
   - id: BUS-071
+    october26_control: "Previously cited419 Main advertisement reaffirmed by full-page visual review; no new move."
     name: Gilbert Miller shoe repair / Miller's Shoe Store
     address: Pre-fire number not directly printed; 419 Main after July 1922 fire; prior 209 Fifth attribution superseded
     notes: Named in Harding property group and destroyed fire cluster; post-fire addresses do not identify pre-fire room. 1918 C. E. Miller/Gilbert Miller discrepancy remains.
@@ -1056,6 +1057,7 @@ businesses:
     repository_file: businesses/timms-pool-hall.md
 
   - id: BUS-077
+    october26_control: "Banner-Courier p8 unnumbered roster repetition, no target-address or identity inference."
     name: Leland & Little Billiards
     address: Oregon City; exact address unresolved
     notes: Listed as cigar dealer by February 1922 and as billiards on August 17, September 14 and September 28 (original scans visually verified). Functional match to 1925 505 billiards/cigars is a lead only; partners, address and fire-adjacent identity unresolved.
@@ -1171,6 +1173,7 @@ businesses:
     repository_file: businesses/quality-restaurant-1922.md
 
   - id: BUS-089
+    october26_control: "Banner-Courier p8 unnumbered roster repetition, no target-address or identity inference."
     name: Quality Cafe (August 1922 roster)
     address: Oregon City; exact address unresolved
     notes: Archive qualifier distinguishes unnumbered QUALITY CAFE roster wording. No proprietor or phone. Not merged with either Quality Restaurant record or later 503 Kwality.
