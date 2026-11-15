@@ -100,7 +100,7 @@ After Dick and Sheila purchased the 505 building from Mrs. Nesmeth / Nemeth, **W
 | Apr. 1916 construction; exact by Oct. 1918; destroyed July 1922 | 109 Fifth (`B-009`) | Oregon City Laundry | `BUS-068` | `E-124`, `E-125`, `E-103` | 1916→109 continuity strong; exact parcel/footprint not proved. Pre-fire plant did not survive the fire. |
 | By Dec. 1920–July 1922 | Fifth/Main cluster; number unresolved | May & Washburn garage | `BUS-069` | `E-103`, `E-347` | A 16 Feb. joint horseshoeing ad with S. F. Scripture proves commercial association only. Do not assign Scripture's separately advertised 108 Fifth address or infer merger/succession/May identity. |
 | By June–July 1922 | Fifth/Main corner property; number unresolved | Fifth Street Restaurant | `BUS-070` | `E-096`, `E-097`, `E-103` | Gates site may map principally to 501 or include 503; owner/operator conflict preserved. |
-| July 1922 pre-fire | Fifth/Main cluster; number unresolved | Gilbert Miller shoe repair | `BUS-071` | `E-096`, `E-103` | Later 209 Fifth / 419 Main are post-fire relocations. |
+| July 1922 pre-fire | Fifth/Main cluster; number unresolved | Gilbert Miller shoe repair | `BUS-071` | `E-096`, `E-103` | 419 Main directly documented post-fire; prior 209 Fifth attribution superseded (adjacent Portland Overtire ad). E-358 / S-392. |
 | July 1922 | Next to laundry; number unresolved | H. Ketchner home/confectionery | `BUS-072` | `E-103` | Combined home/business wording preserved. |
 
 ## Other dated neighboring storefronts

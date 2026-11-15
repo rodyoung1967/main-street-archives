@@ -249,9 +249,9 @@ Exact newspaper scans now preserve Dr. Freeze's advertised address as **505½ Ma
 ## 20 May 1921 — 514 Main furniture-store succession evidence
 The *Oregon City Enterprise* states that W. O. Witham had come from Salem about two and one-half years earlier and purchased **A. A. Munden's furniture store at 514 Main street**, later adding stock and purchasing Terk Brothers' stock (`E-170`, `S-191`). The visually verified 10 October 1918 *Courier* independently prints **A. A. Mundin, 514 Main** (`S-034`). This strengthens 514 as the intended address and preserves the Mundin/Munden spelling variation, but it does not erase the separate unresolved 24 October 1918 `614 Main` directory reading or supply an exact transfer date.
 
-## February–August 1922 — Timms and Leland & Little remain distinct
+## February–September 1922 — Timms and Leland & Little remain distinct
 
-Leland & Little appears in an Oregon City cigar-dealer list on **25 February**. On **8 June**, Timms Pool Hall, Walter Little, and O. H. Leland appear as separate merchant-roster entries. On **17 August**, Leland and Little is directly described as **Billiards** (`E-126` / `S-141`).
+Leland & Little appears in an Oregon City cigar-dealer list on **25 February**. On **8 June**, Timms Pool Hall, Walter Little, and O. H. Leland appear as separate merchant-roster entries. On **17 August**, and again in visually verified **14 and 28 September** merchant lists, Leland and Little is directly described as **Billiards**, without an address (`E-126` / `S-141`).
 
 Neither business is proved at 505 Main, as a successor to the other, or as the unnamed pool hall adjoining the July fire-origin room. The functional match between Leland & Little's cigar/billiards evidence and the 1925 505 Main billiards/cigars label remains a research lead only.
 
@@ -272,7 +272,7 @@ Later integrated fire-frontage work supersedes this older equal-model treatment 
 
 Oregon City Laundry first arranged a temporary receiving office with Pantorium at **519 Main** immediately after the fire. By September and November, county expense records and help-wanted advertisements show the laundry had resumed service/production somewhere, but the plant address remains unresolved.
 
-Gilbert Miller re-established his shoe machinery at **209 Fifth** by September and advertised at **419 Main** by October. These are post-fire relocations, not proof of his destroyed shop's number. May & Washburn also continued after the fire. Later operation does not mean the destroyed structures survived.
+A signed **7 September** advertisement directly identifies **Gilbert Miller**, **Miller's Shoe Store** and **419 Main** (`E-358` / `S-392`), corroborating the earlier 24 August 419 Main advertisement. The former **209 Fifth** attribution is **superseded**: it came from the separately bordered Portland Overtire Co. ad below Miller's 21 September notice. No intermediate Miller move to 209 Fifth is established. These post-fire controls do not prove the destroyed shop's number. May & Washburn also continued after the fire. Later operation does not mean the destroyed structures survived.
 
 ## 1922 — integrated Harding / Gates / Wolf property bridge
 `E-108` synthesizes the corrected original Block 4 framework with the 1913 Harding Lots 3–4 assessment, the strong Harding↔505 Chicago Store building-owner lead, the July 1922 Harding property division, and the Wolf-owned ignition-building report. The property-group chain is strong, but the exact Gates/Wolf wall is unresolved: Gates principally at 501 and Gates at 501+503 remain competing models. Do not promote the working 503-ignition / 505-pool-hall model to fact, and keep 501 live until the restaurant footprint is proved.

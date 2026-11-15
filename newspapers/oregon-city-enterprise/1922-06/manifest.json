@@ -488,5 +488,16 @@
       ]
     }
   ],
-  "total_pages": 40
+  "total_pages": 40,
+  "date_exception_review": {
+    "record": "evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md",
+    "archive_key": "1922-06-15",
+    "printed_date_all_eight_headers": "FRIDAY, JUNE 15, 1922",
+    "issue_number": 24,
+    "adjacent_issue_numbers": {
+      "1922-06-09": 23,
+      "1922-06-23": 25
+    },
+    "interpretation": "PROBABLE printed day-of-month error for Friday June 16; preserve archive key and printed date. Exact publication date awaits independent control; no separate June 16 issue recovered."
+  }
 }

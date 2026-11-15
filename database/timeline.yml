@@ -416,8 +416,8 @@ timeline:
     related_buildings: [B-008, B-009]
 
   - id: T-035
-    date: 25 February–17 August 1922
-    summary: Leland & Little exists by February; June roster separately names Timms Pool Hall, Walter Little and O. H. Leland; August list identifies Leland and Little as billiards. Neither is assigned to 505 or the July fire-adjacent room.
+    date: 25 February–28 September 1922
+    summary: Leland & Little exists by February; June roster separately names Timms Pool Hall, Walter Little and O. H. Leland; August and September 14/28 lists identify Leland and Little as billiards without a street number. Neither is assigned to 505 or the July fire-adjacent room.
     confidence: Very High for printed names and descriptions; partners, addresses, succession and fire relationship unresolved.
     related_evidence: [E-126]
     related_sources: [S-141]
@@ -426,10 +426,12 @@ timeline:
 
   - id: T-036
     date: July–November 1922 post-fire recovery
-    summary: Oregon City Laundry used a temporary office with Pantorium at 519 Main and resumed service/production somewhere by autumn; Gilbert Miller reopened at 209 Fifth and later 419 Main; May & Washburn continued. Later operation does not mean burned structures survived.
+    summary: Oregon City Laundry used a temporary office with Pantorium at 519 Main and resumed service/production somewhere by autumn; signed September 7 ad directly identifies Gilbert Miller and Miller's Shoe Store at 419 Main (E-358/S-392); former 209 Fifth attribution is superseded as an adjacent Portland Overtire ad misreading; May & Washburn continued. Later operation does not mean burned structures survived.
     confidence: Very High for dated post-fire reports; laundry production site and destroyed-premises addresses unresolved.
     related_businesses: [BUS-068, BUS-069, BUS-071, BUS-073]
     related_buildings: [B-011]
+    related_evidence: [E-358]
+    related_sources: [S-392]
 
   - id: T-044
     date: 30 April 1925

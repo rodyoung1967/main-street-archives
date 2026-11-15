@@ -1426,3 +1426,17 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - The issue is explicitly **NOT COMPLETE** and no full-issue no-hit inference is allowed.
 - Partial checkpoint: `evidence/source-captures/1912-courier-august09-partial-visual-review-2026-09-20.md`.
 - Last fully completed Courier issue remains **2 August 1912 (8/8)**. Active resume point remains **9 August 1912, sequence 1**.
+
+## 15 November 2026 — ANNUAL-1922 closeout requirements and September content batch
+
+- Fetched current main c697c8d1 and reviewed governing policy/current checkpoints.
+- Refreshed both archive calendars and all 104 issue JSON records: 928 pages, no new/missing dates or count differences. Retained raw metadata under each title's 1922-inventory-recheck-2026-11-15.
+- Distinguished prior Sep–Dec integrity checks from full content review; synchronized Jul–Aug manifest credits and added explicit per-page Sep–Dec content states. Newly visually screened 13 whole pages: Banner Sep7 seq1–9, Sep14 seq9, Sep28 seq4; Enterprise Sep22 seq5 and Sep29 seq5. Conservative later-year content queue now 300.
+- All eight June15-key headers visibly print Friday June15; neighboring issue Nos.23/24/25 make a day-of-month error probable. Literal print/URL retained; exact publication day MF-075.
+- Retrieved/visually compared alternate JP2s for May5 Enterprise seq1–2, Nov9 Banner seq7–8, Jun22 Banner seq9. Lost regions persist; MF-074, not negative evidence. Duplicate derivatives not committed because existing PDFs preserve same defects; URLs/hashes retained. No supplied photo omitted. December recovery remains online work.
+- New E-358/S-392: signed Sep7 advertisement directly joins Gilbert Miller, Miller's Shoe Store and 419 Main. Propagated earlier 209 Fifth misassignment correction to timeline, entity/profile, index, business register and YAML. Prior error history retained.
+- Extended E-126/S-141 Leland billiards advertising through Sep14/28 without an address; separately confirmed McAnulty/Barry merchant lists, no 505 assignment.
+- Added MF-076 for separate 1922 Morning Enterprise daily run; reconciled already reviewed Polk portions under MF-012. No request sent or fee authorized.
+- Ordered checklist: registers/1922-online-completion-checklist.md. Detailed source/coverage/integration capture: evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md.
+- Startup archive validator crashed on existing BUS-109 YAML indentation; repaired that indentation. Executable baseline then reports 46 pre-existing errors. Final validation result is retained in the checkpoint; no pass claimed.
+- Next whole-page content resume: Enterprise 1 Sep 1922 seq1; next Banner issue 14 Sep seq1 (seq9 already done). 1922 remains IN PROGRESS.

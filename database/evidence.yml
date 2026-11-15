@@ -2049,6 +2049,7 @@ evidence:
       - Leland & Little appears in an Oregon City cigar-dealer list on 25 February 1922.
       - The 8 June roster separately names Timms Pool Hall, Walter Little and O. H. Leland.
       - The 17 August list identifies Leland and Little as billiards.
+      - Original 14 September p9 and 28 September p4 scans visually verified 15 November 2026 repeat Leland and Little as billiards without an address.
       - Neither business is proved at 505 Main or as the fire-adjacent pool hall.
     confidence: Very High for printed names and dates; addresses, partners, succession and fire relationship unresolved.
     related_sources: [S-141]
@@ -5202,3 +5203,15 @@ evidence:
     related_buildings: [B-005, B-001, B-002]
     repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
 
+  - id: E-358
+    name: Signed Gilbert Miller advertisement identifies Miller's Shoe Store at 419 Main
+    type: Primary newspaper advertisement; original scan visually verified
+    confidence: Very High for printed trade name, address and signature; pre-fire number unresolved
+    claims:
+      - 7 September 1922 Banner-Courier p2 prints 419 Main Street, Miller's Shoe Store and Gilbert Miller signature within one advertisement.
+      - Same ad discusses installing shoe-repair machinery after the fire and liquidating Goldman second-hand goods; p8 independently gives the store at 419 Main.
+      - Does not establish pre-fire numbered premises or 503/505 construction. Earlier 209 Fifth attribution is superseded as an adjacent-ad misreading.
+    related_sources: [S-392]
+    related_businesses: [BUS-071]
+    related_people: [P-046]
+    repository_file: evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md

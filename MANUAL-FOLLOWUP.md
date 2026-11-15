@@ -655,3 +655,23 @@ Thank you for your assistance,
 Rodney Young
 
 **Status:** Draft only, not sent. No fees approved.
+
+## 15 November 2026 — ANNUAL-1922 closeout work and source gaps
+
+1922 remains **IN PROGRESS**. Ordered online work: `registers/1922-online-completion-checklist.md`; supporting results: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`. The existing consolidated Recorder draft remains the single preferred municipal inquiry; none of the new callouts authorizes dispatch or fees.
+
+### MF-074 — five 1922 damaged newspaper page regions
+
+**YEAR-CLOSEOUT / MANUAL CALLOUT — NOT SENT / NO FEES AUTHORIZED.** Retrieve or compare older/alternate microfilm or originals for **Oregon City Enterprise 5 May 1922, sequences 1–2**, **Banner-Courier 9 November 1922, sequences 7–8**, and **Banner-Courier 22 June 1922, supplement sequence 9**. Route: Oregon City Public Library newspaper microfilm / University of Oregon ODNP source-film holdings; use another holding if these repeat the damage. PDF and alternate JP2 derivatives have now both been inspected (5 May / 9 November); substantial corresponding lost/black areas persist. June 22 supplement loses part of its upper title edge in JP2 as well. Prior indexed-alternate discovery did not recover an intact replacement. Seek the missing regions, not merely another download of the same derivative. Visually inspect any supplied source for the established address/name/building/occupancy scope, record issue/folio provenance and whether the defect persists, then update the recovery manifest, annual checklist and any affected claims. These remain **RETRIEVAL GAP**, never negative evidence. December torn-edge recovery is still **ONLINE-FIRST**, not bundled into this callout before its precise recovery checks are done.
+
+### MF-075 — Enterprise No. 24 printed June 15 / Friday discrepancy
+
+**YEAR-CLOSEOUT / MANUAL DATE CONFIRMATION — NOT SENT / NO FEES AUTHORIZED.** Check the Enterprise weekly source-film sequence, catalog annotations or independent publication control for the eight-page **fifty-sixth year No. 24** archived under **15 June 1922**. Every inspected header literally prints **Friday, June 15, 1922**; June 15 was Thursday. Adjacent front pages are **June 9 No. 23** and **June 23 No. 25**. The live June 15 issue JSON has eight pages; June 16 returns 404 and is absent from the calendar. This supports a probable day-of-month printing error for Friday June 16; it does not establish actual publication day or a second missing issue. Route: Oregon City Public Library/UO original or alternate film and issue sequence. Preserve archive key/URLs and literal date until an independent source resolves the discrepancy; integrate the resolution in the June manifest and annual audit without creating an unsupported extra issue.
+
+### MF-076 — 1922 Morning Enterprise daily run
+
+**YEAR-CLOSEOUT / MANUAL NEWSPAPER RUN — NOT SENT / NO FEES AUTHORIZED.** Locate, inventory and visually review the **1922 Morning Enterprise daily (except Monday), LCCN sn00063701** through Oregon City Public Library / University of Oregon microfilm or OHS's Morning Enterprise film holdings. Official City/ODNP coverage exposes public digitized Morning Enterprise only through **23 December 1913**, while title history identifies the daily continuing to 1933. The two 1922 weekly titles' 928 pages are therefore not coverage of the daily. Establish exact surviving issue/page counts before reporting manual coverage; screen all available daily pages for 501/503/505/505½/507, Fifth/Main, relevant merchants/owners, licenses, transfers, moves, fire, repairs, demolition, construction and first occupancy. Preserve missing daily issues/pages as gaps. When supplied and reviewed, update the annual audit, source/evidence records and affected entities, not merely the dispatch status.
+
+### MF-012 directory access correction
+
+The 14 September 2026 user-assisted capture `evidence/source-captures/2026-09-14-polk-1921-1922-oregon-city-user-visual-review.md` documents visual inspection of the relevant supplied general, Restaurants, Billiard Rooms and Cigars/Tobacco Oregon City sections. **Do not treat all those pages as still inaccessible or repeat the same request.** A. H. Leland's billiard classification lacks a street number and is not merged with O. H. Leland. Any further request must identify a specific relevant section/page not already reviewed; no complete-volume visual claim is made here.

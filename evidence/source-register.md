@@ -974,6 +974,11 @@ The already registered June 8 page 10 and August 17 page 2 are reused without al
 - `newspapers/banner-courier/1922-06-08-page-10-quality-restaurant-427-main.pdf` — `IMG-0727`, SHA-256 `66bb4b5b6fb0c6d72a6c7cee41e21194e70f53bd6684c55c47773b5b4a7d06bf`, 524294 bytes. Direct archive download; working filename `banner-1922-06-08-p10.pdf`.
 - `newspapers/banner-courier/1922-08-17-page-2-quality-cafe-roster.pdf` — `IMG-0728`, SHA-256 `1a7dd10757bbb0b0534f5f0e3bd3ba51355d63248a10872b2fe4febabbeb0550`, 579436 bytes. Direct archive download; working filename `banner-1922-08-17-p2.pdf`.
 
+### S-141 supplement — September continuation, 15 November 2026
+
+Original retained *Banner-Courier* scans `newspapers/banner-courier/1922-09/1922-09-14-seq-09.pdf` and `newspapers/banner-courier/1922-09/1922-09-28-seq-04.pdf` were visually inspected. Both merchant lists name Leland and Little as billiards and separately McAnulty and Barry as cigars/restaurant; neither entry gives a street number. Canonical URLs: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-14/ed-1/seq-9/ and https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-28/ed-1/seq-4/ . `E-126` extends only the Leland advertising chronology. Capture: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
+
+
 ## S-142 — Oregon City Commission Harr pool-hall and liquor-license records, 1948
 Type: Primary municipal text; **OCR/TEXT ONLY** pending page-image certification.
 URLs: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723051/File/document ; https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4722834/File/document
@@ -3403,3 +3408,12 @@ Repository capture: `evidence/source-captures/1912-courier-may24-visual-review-s
 Related evidence/business: `E-357`; `BUS-110`.  
 Notes: The May 24 unnamed-theatre notice is a **strong cross-source continuity match** to the February Main/Eighth planned theatre and the May 31 Star opening, but the May 24 item itself does not print the Star name or Simmons. Later numbered-address sources conflict (716 vs 720 Main); the controlling 1912 location is Main at/near Eighth.
 
+
+## S-392 — 7 September 1922 signed Gilbert Miller / 419 Main advertisement
+
+Type: Primary newspaper advertisement, original scan **VISUALLY VERIFIED 15 November 2026**.
+Publication: *The Banner-Courier*, 7 September 1922, p.2 / sequence 2; corroborating classified on p.8.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-07/ed-1/seq-2/
+Retained files: `newspapers/banner-courier/1922-09/1922-09-07-seq-02.pdf`; `newspapers/banner-courier/1922-09/1922-09-07-seq-08.pdf`.
+Related evidence: `E-358`; business `BUS-071`; person `P-046`.
+Capture: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.

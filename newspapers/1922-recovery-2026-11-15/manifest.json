@@ -1,0 +1,66 @@
+{
+  "retrieved_on": "2026-11-15",
+  "capture": "evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md",
+  "pages": [
+    {
+      "lccn": "sn00063699",
+      "archive_date": "1922-06-22",
+      "sequence": 9,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-22/ed-1/seq-9.jp2",
+      "http_status": 200,
+      "bytes": 1550665,
+      "sha256": "1a5a0742b32c7d6e9833c9585e42705cacf18982f89312848b583d54d0946b3a",
+      "review_status": "VISUALLY VERIFIED",
+      "result": "Underlying missing regions persist; no lost text recovered",
+      "binary_retention": "Not duplicated; retained PDF depicts same source defect"
+    },
+    {
+      "lccn": "sn00063699",
+      "archive_date": "1922-11-09",
+      "sequence": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-09/ed-1/seq-7.jp2",
+      "http_status": 200,
+      "bytes": 4536556,
+      "sha256": "0c4ea33a062f47932ff93acc41b512ec361067e066d8c8032411d2c64e7049b8",
+      "review_status": "VISUALLY VERIFIED",
+      "result": "Underlying missing regions persist; no lost text recovered",
+      "binary_retention": "Not duplicated; retained PDF depicts same source defect"
+    },
+    {
+      "lccn": "sn00063699",
+      "archive_date": "1922-11-09",
+      "sequence": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-09/ed-1/seq-8.jp2",
+      "http_status": 200,
+      "bytes": 4565089,
+      "sha256": "344ff949b5389afff37c411ba9b8f637bccc6d20ba7e4a34ce27cff8f7b9117c",
+      "review_status": "VISUALLY VERIFIED",
+      "result": "Underlying missing regions persist; no lost text recovered",
+      "binary_retention": "Not duplicated; retained PDF depicts same source defect"
+    },
+    {
+      "lccn": "sn00063700",
+      "archive_date": "1922-05-05",
+      "sequence": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-05-05/ed-1/seq-1.jp2",
+      "http_status": 200,
+      "bytes": 5119764,
+      "sha256": "a32491bed9e079141b02fe5538606791123da54ff5ecfbe2de7ce7388005b0f8",
+      "review_status": "VISUALLY VERIFIED",
+      "result": "Underlying missing regions persist; no lost text recovered",
+      "binary_retention": "Not duplicated; retained PDF depicts same source defect"
+    },
+    {
+      "lccn": "sn00063700",
+      "archive_date": "1922-05-05",
+      "sequence": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-05-05/ed-1/seq-2.jp2",
+      "http_status": 200,
+      "bytes": 5176347,
+      "sha256": "16201b5acef2af854a98fde650d44d38b1f986bf16bd646325fe1074d701b114",
+      "review_status": "VISUALLY VERIFIED",
+      "result": "Underlying missing regions persist; no lost text recovered",
+      "binary_retention": "Not duplicated; retained PDF depicts same source defect"
+    }
+  ]
+}

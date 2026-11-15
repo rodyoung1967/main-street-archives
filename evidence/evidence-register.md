@@ -985,6 +985,7 @@ Claims:
 - Leland & Little appears in an Oregon City cigar-dealer list on 25 February 1922.
 - The 8 June merchant roster separately names **Timms Pool Hall**, **Walter Little**, and **O. H. Leland**.
 - A 17 August business list identifies **Leland and Little, Billiards**.
+- Original scans of 14 September p.9 and 28 September p.4, visually inspected 15 November 2026, repeat **LELAND AND LITTLE, Billiards** without an address. See `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
 - Timms and Leland & Little must remain distinct records; neither is proved at 505 Main or as the unnamed pool hall adjoining the July fire-origin room.
 
 Record: `evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md`.
@@ -3608,3 +3609,14 @@ Claims:
 Classification: **DOCUMENTED / DIRECT** for the February and May 31 source wording; **STRONG CROSS-SOURCE INFERENCE** for identification of the unnamed 24 May theatre with the Star project; **NON-TARGET CONTROL** for 501/503/505 research.  
 Confidence: Very High for direct printed geography/manager/opening facts; High for continuity of the May 24 unnamed theatre.
 
+## E-358 — Signed Gilbert Miller advertisement identifies Miller's Shoe Store at 419 Main
+
+Type: Primary newspaper advertisement; **DOCUMENTED / DIRECT**, **VISUALLY VERIFIED 15 November 2026**.
+Confidence: Very High for printed trade name, address, signature and advertised shoe-repair activity; pre-fire numbered premises remain unresolved by this source.
+Sources: `S-392`.
+Claims:
+- 7 September 1922 Banner-Courier p.2 prints **419 MAIN STREET**, **The New Location Of Miller's Shoe Store**, and the signature **GILBERT MILLER** in one ruled advertisement.
+- The same ad discusses installing shoe-repair machinery after the fire and closing out H. S. Goldman's second-hand goods. Page 8 independently advertises Miller's Shoe Store at 419 Main.
+- This directly bridges Gilbert Miller, the trade name and 419 Main on this date; it does not identify his pre-fire room or establish a 503/505 construction date.
+- The prior attribution of 209 Fifth to Miller is superseded by the separate-box correction already visually established on September 21 p.5; it belongs to Portland Overtire Co. Preserve that error history.
+Record: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.

@@ -1003,11 +1003,11 @@ businesses:
 
   - id: BUS-071
     name: Gilbert Miller shoe repair / Miller's Shoe Store
-    address: Pre-fire address unresolved; 209 Fifth then 419 Main after July 1922 fire
+    address: Pre-fire number not directly printed; 419 Main after July 1922 fire; prior 209 Fifth attribution superseded
     notes: Named in Harding property group and destroyed fire cluster; post-fire addresses do not identify pre-fire room. 1918 C. E. Miller/Gilbert Miller discrepancy remains.
     related_people: [P-046]
-    related_evidence: [E-096, E-103, E-113]
-    related_sources: [S-111, S-117, S-125]
+    related_evidence: [E-096, E-103, E-113, E-358]
+    related_sources: [S-111, S-117, S-125, S-392]
     repository_file: businesses/gilbert-miller-shoe-repair.md
 
   - id: BUS-072
@@ -1058,7 +1058,7 @@ businesses:
   - id: BUS-077
     name: Leland & Little Billiards
     address: Oregon City; exact address unresolved
-    notes: Listed as cigar dealer by February 1922 and as billiards in August. Functional match to 1925 505 billiards/cigars is a lead only; partners, address and fire-adjacent identity unresolved.
+    notes: Listed as cigar dealer by February 1922 and as billiards on August 17, September 14 and September 28 (original scans visually verified). Functional match to 1925 505 billiards/cigars is a lead only; partners, address and fire-adjacent identity unresolved.
     related_people: [P-089, P-090]
     related_evidence: [E-126]
     related_sources: [S-141]
@@ -1360,7 +1360,7 @@ businesses:
       1919 billiard business, or later 505 pool-hall chains without an independent bridge.
     related_evidence: [E-353]
     related_sources: [S-387]
-- id: BUS-109
+  - id: BUS-109
     name: Oregon City Shoe Store
     repository_file: businesses/oregon-city-shoe-store-lageson.md
     address: "Main Street opposite Post Office in 1910; 508 Main Street by 26 April 1912"

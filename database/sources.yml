@@ -696,6 +696,8 @@ sources:
 
   - id: S-141
     name: 1922 Timms / Leland & Little billiards source set
+    review_supplement: evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md
+    september_continuation: Original September 14 p9 and September 28 p4 scans visually verify Leland and Little as billiards without a street number.
     url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-06-08/ed-1/seq-10/
     notes: 'Visually verified 25 February, 8 June and 17 August pages establish Leland & Little by February, separately name Timms Pool Hall/Walter Little/O. H. Leland in June, and identify Leland and Little as billiards in August. Exact addresses and fire-adjacent identity unresolved. Related evidence E-126. 3 September 2026: the June 8 p.10 and August 17 p.2 original PDFs are retained; E-179 directly records Quality Restaurant at 427 Main, phone 517, without proprietor, and E-181 records unnumbered QUALITY CAFE. Reuse this existing source set; E-126 billiards findings unchanged.'
     repository_files:
@@ -2686,3 +2688,11 @@ sources:
     related_evidence: []
     notes: "UO title metadata identifies Oregon City Enterprise (LCCN sn00063700) as weekly and Morning Enterprise (LCCN sn00063701) as daily except Monday, 1911-1933. ODNP states the daily began in 1911 while the weekly continued under Oregon City Enterprise. For 1926 microfilm use the exact title pair weekly Oregon City Enterprise + daily Morning Enterprise; this does not identify the missing Kwality ad."
 
+  - id: S-392
+    name: 7 September 1922 signed Gilbert Miller / 419 Main advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-07/ed-1/seq-2/
+    repository_files:
+      - newspapers/banner-courier/1922-09/1922-09-07-seq-02.pdf
+      - newspapers/banner-courier/1922-09/1922-09-07-seq-08.pdf
+    notes: Original scans visually verified 15 November 2026; p2 directly joins 419 Main, Miller's Shoe Store and Gilbert Miller signature. No pre-fire number proved.
+    related_evidence: [E-358]

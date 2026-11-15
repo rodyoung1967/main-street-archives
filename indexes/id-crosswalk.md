@@ -1019,3 +1019,6 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `P-404` Karl / Carl Schoenheinz | 1911 C. Schoenheinz shoe shop; 1912 father/shoe-business report; 1914 Carl father wording; official Karl/Albertina cemetery adjacency; `S-390` / `E-356` 1920 K. Schoenheinz shoemaker ad | Strong older-generation identity hypothesis and leading older candidate for Book 4 `C. Schoenheinz` at 503. Do not yet equate every C/K/Carl/Charles form or call 503 a shoe store. |
 | `P-405` Charles Schoenheinz (younger) | 1912–18 musician chronology; 1916 marriage/band; 1917 Theroux interest | Separate son-generation Charles. Possible 503 C. Schoenheinz identity, but Theroux exact-address control is 519 Main and no independent 503 bridge exists. |
 | `P-406` Edward Schoenheinz | Jan. 1912 father/shoe-business report | Confirms family shoe-business context; no 503 address. Keep separate from younger Charles's child Edward in 1917. |
+
+| `E-358` / `S-392` | `BUS-071`, `P-046` | Signed 7 Sep. 1922 ad directly joins Gilbert Miller, Miller's Shoe Store and 419 Main; no 209 Fifth move. |
+| `E-126` / `S-141` September supplement | `BUS-077`, `T-035` | 14/28 Sep. billiards merchant lists; exact address still unresolved. |

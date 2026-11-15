@@ -51,7 +51,8 @@ def published_dates(meta: dict[str, object]) -> list[dt.date]:
     """Read the archive's title calendar instead of assuming every weekday.
 
     This matters for exceptions such as the Oregon City Enterprise issue dated
-    Wednesday, 15 June 1922 instead of its ordinary Friday publication date.
+    Thursday, 15 June 1922 in the archive key. Original headers print
+    Friday June 15; see the 15 November 2026 date-exception audit.
     """
     calendar_url = f"{BASE}/{meta['lccn']}/issues/1922/"
     html = fetch(calendar_url).decode("utf-8", errors="replace")

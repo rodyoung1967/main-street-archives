@@ -27,3 +27,7 @@ Read and keyword-screened OCR of **all 37 Banner-Courier September 1922 pages** 
 
 ## Propagation decision
 No new visually verified entity/address/construction claim is established by this OCR discovery batch; do not add an exact occupant or completion date to building, business, person, timeline, evidence register, YAML or crosswalk on this basis. Preserve these as leads. **1922 IN PROGRESS.**
+
+## Later visual resolution in the same date
+
+The 14 September p.9 and 28 September p.4 lists, and 7 September p.2/p.8 Miller ads, have now been inspected on original scans. The two merchant lists confirm Leland and Little, Billiards, and separately McAnulty and Barry, Cigars, Restaurant, without addresses. The signed p.2 Miller ad directly joins Gilbert Miller, Miller's Shoe Store and 419 Main (`E-358` / `S-392`). Preserve the earlier OCR-only designation as the state of that earlier pass; current resolution: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.

@@ -122,3 +122,7 @@ The post-fire **419 Main** address is a later relocation and must not be backdat
 2. Compare August–October 419 Main advertisements for continued location evidence; **do not pursue a fictitious 209 Fifth move**.
 3. Recover the 1921–1922 Polk/gazetteer entry for Gilbert Miller and shoe dealers/repairers.
 4. Use the exact fire-period Post Office bay, if found, to narrow the pre-fire `Opposite Post Office` location without overclaiming precision.
+
+## 15 November 2026 — signed September 7 address bridge
+
+Original Banner-Courier p.2 was visually inspected: one ruled ad gives **419 Main Street**, **Miller's Shoe Store** and signature **GILBERT MILLER** (`E-358` / `S-392`). Thus that dated post-fire name/address connection is now DIRECT, superseding earlier inference-only wording for this specific connection. Page 8 corroborates the store/address. No pre-fire numbered address or 1918 partner identity is proved. See `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.

@@ -12,7 +12,7 @@ The later [Tasks 7–8 handoff](../../evidence/source-captures/1922-task-8-integ
 
 Existing visually verified 1918 move notices and 1922 Oregon City shoe-repair material strongly support the broader Gilbert Miller chronology. The *Eugene Daily Guard*, 20 August 1918, prints **C. E. Miller**, while the *Springfield News*, 22 August, prints **Gilbert Miller**. Preserve that primary-source discrepancy; do not create an alias equating the names as fact.
 
-The 1918 Wolf & Miller advertisement places the firm at 505 Main, but does not name its partners. The new 1916 notice is not itself a 505 occupancy record. The later signed advertisement identifies Gilbert at 209 Fifth in September 1922; the full-name connection to Miller's Shoe Store at 419 Main remains a strong continuity inference.
+The 1918 Wolf & Miller advertisement places the firm at 505 Main, but does not name its partners. The new 1916 notice is not itself a 505 occupancy record. The signed 7 September 1922 advertisement directly joins **Gilbert Miller**, **Miller's Shoe Store**, and **419 Main** (`E-358` / `S-392`). The former 209 Fifth attribution is **superseded** as a misreading of the separate Portland Overtire Co. advertisement below Miller's September 21 notice; no intermediate move is established.
 
 The compiled genealogy's Clara Rose Wolf marriage is still a secondary lead. Neither Wolf's given name, the Idaho-bound partner, S. Wolf's identity, nor a Wolf-family property relationship is established by the new notice.
 

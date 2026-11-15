@@ -697,3 +697,7 @@ Search order:
 4. Tax/assessment/business-license records if address-indexed sources survive.
 
 Keep occupant/use transition separate from building continuity and G. A. Harding's owner/agent role. A change from pool hall to store does not establish demolition/rebuild. The restricted 1916 directory remains the best endpoint cross-check but should not block the transition search.
+
+### 15 November 2026 — ANNUAL-1922 content-review resume control
+
+Use `registers/1922-online-completion-checklist.md` and `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`. Live 104-issue / 928-page inventory confirmed. September–December content queue now 300 pages after 13 fresh full-page screens; separately preserved targeted checks do not make the other pages complete. Do not repeat the now-resolved signed September 7 Miller/419 Main check or assign 209 Fifth to Miller. Leland & Little's September listings still omit address. No outreach authorized or sent.
