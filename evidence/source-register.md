@@ -3430,3 +3430,8 @@ Repository file: `newspapers/oregon-city-enterprise/1922-09/1922-09-29-seq-08.pd
 Notes: Direct business name and Pacific Highway Garage Building, Oregon City; no named proprietor or numbered address.
 Related: `E-359`; `BUS-111`.
 Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
+
+
+### S-141 October roster continuation
+
+Original Banner-Courier **5 and12 October1922 p8**, visually verified15 November2026; retained `newspapers/banner-courier/1922-10/1922-10-05-seq-08.pdf` and `1922-10-12-seq-08.pdf`. Canonical routes https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-05/ed-1/seq-8/ and https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-12/ed-1/seq-8/ . Extends E-126 and E-181 without address/identity inference. Capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.

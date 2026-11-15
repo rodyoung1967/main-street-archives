@@ -1064,6 +1064,8 @@ businesses:
     related_sources: [S-141]
     repository_file: businesses/leland-little.md
 
+    october_1922_control: October 5 and 12 Banner-Courier p8 unnumbered roster repeats; no target-address or identity inference.
+
   - id: BUS-078
     name: Henry Brightbill's store
     address: 503 Main
@@ -1177,6 +1179,8 @@ businesses:
     related_sources:
     - S-141
     repository_file: businesses/quality-restaurant-1922.md
+
+    october_1922_control: October 5 and 12 Banner-Courier p8 unnumbered roster repeats; no target-address or identity inference.
 
   - id: BUS-090
     name: Friedrich's Hardware

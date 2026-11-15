@@ -730,3 +730,7 @@ Do **not** use the visible lower Third/Fourth-area Railroad Avenue condition to 
 ### 29 September 1922 — Schoenheinz repair-shop dated control
 
 Enterprise p.8 advertises **Schoenheinz Shoe Repair Shop**, **Pacific Highway Garage Building, Oregon City** (`BUS-111`; `E-359` / `S-393`). Adds a dated advertisement, not an opening/move date; proprietor and street number remain unprinted, with no proved 503/505 bridge.
+
+### October5/12 1922 roster controls
+
+Banner-Courier p8 repeats unnumbered Leland and Little billiards (E-126/S-141; T-035) and QUALITY CAFE (E-181/S-141). No address, proprietor, completion or succession inference. See `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.

@@ -990,6 +990,9 @@ Claims:
 
 Record: `evidence/source-captures/1922-timms-to-leland-little-billiards-lead.md`.
 
+
+October extension, visually verified15 November2026: **5 and12 October1922 Banner-Courier p8** repeat the unnumbered merchant-roster wording. Leland and Little is labelled billiards; QUALITY CAFE remains unnumbered; McAnulty and Barry cigars/restaurant and R. A. Junken contractor/builder are separate rows. Roster order is not geography. No505/503 address, shared ownership or construction-completion date follows. Capture: `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
+
 ## E-127 — Carl R. Harr and Harr's Recreation Center at 505 Main, 1948
 Type: Primary municipal text evidence; **OCR/TEXT ONLY** pending page-image certification.
 Confidence: Very High for readable text; exact later meeting date and visual certification remain open.
@@ -1591,6 +1594,9 @@ Confidence: DOCUMENTED / DIRECT for the printed name; identity and address unres
 Research record: `evidence/source-captures/1922-george-newton-427-main-address-test-2026-09-03.md`
 
 Related record: `evidence/E-181-1922-quality-cafe-roster.md`
+
+
+October extension, visually verified15 November2026: **5 and12 October1922 Banner-Courier p8** repeat the unnumbered merchant-roster wording. Leland and Little is labelled billiards; QUALITY CAFE remains unnumbered; McAnulty and Barry cigars/restaurant and R. A. Junken contractor/builder are separate rows. Roster order is not geography. No505/503 address, shared ownership or construction-completion date follows. Capture: `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
 
 ## E-182 — 427 Main corner and laundry relationship on the May 1925 Sanborn
 Type: Primary Sanborn map; visually verified

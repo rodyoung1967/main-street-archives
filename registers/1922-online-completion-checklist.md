@@ -12,14 +12,14 @@ January–August: prior records document content review of 615 page images, subj
 | Month | Pages in corpus | Fresh full-page content credit this checkpoint | Whole-page content queue |
 | --- | ---: | ---: | ---: |
 | September | 77 | 77 | 0 |
-| October | 72 | 0 | 72 |
+| October | 72 | 28 | 44 |
 | November | 80 | 0 | 80 |
 | December | 84 | 0 | 84 |
-| Total | 313 | 77 | 236 |
+| Total | 313 | 105 | 208 |
 
-These are page-image work counts, not 692 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
+These are page-image work counts, not 720 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
 
-**Resume:** Banner-Courier **5 October 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. Record each new batch immediately, including bounded no-hits and non-target controls.
+**Resume:** Enterprise **13 October 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. October5/6/12 adds28 pages; capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`. Full validator rerun remains pending after workspace restoration. Record each new batch immediately, including bounded no-hits and non-target controls.
 
 ## 2. Finish damaged-source recovery
 

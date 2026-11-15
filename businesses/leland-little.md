@@ -9,3 +9,6 @@ The combination of cigars and billiards is functionally compatible with the 1925
 ## September continuation — visually verified 15 November 2026
 
 The 14 September Banner-Courier p.9 and 28 September p.4 merchant lists both directly repeat **LELAND AND LITTLE, Billiards**, without a street number (`E-126` / `S-141`). They are dated advertising controls, not proof of continuous operation, premises, ownership or succession. Capture: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
+
+
+October extension, visually verified15 November2026: **5 and12 October1922 Banner-Courier p8** repeat the unnumbered merchant-roster wording. Leland and Little is labelled billiards; QUALITY CAFE remains unnumbered; McAnulty and Barry cigars/restaurant and R. A. Junken contractor/builder are separate rows. Roster order is not geography. No505/503 address, shared ownership or construction-completion date follows. Capture: `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`.
