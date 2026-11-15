@@ -12,14 +12,14 @@ January–August: prior records document content review of 615 page images, subj
 | Month | Pages in corpus | Fresh full-page content credit this checkpoint | Whole-page content queue |
 | --- | ---: | ---: | ---: |
 | September | 77 | 77 | 0 |
-| October | 72 | 46 | 26 |
+| October | 72 | 54 | 18 |
 | November | 80 | 0 | 80 |
 | December | 84 | 0 | 84 |
-| Total | 313 | 123 | 190 |
+| Total | 313 | 131 | 182 |
 
-These are page-image work counts, not 738 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
+These are page-image work counts, not 746 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
 
-**Resume:** Enterprise **20 October 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. October5/6/12 adds28 pages; capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`. October13 Enterprise and October19 Banner add18 pages; capture `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`. Full checkout restored and baseline full validator passed; rerun after writes. Record each new batch immediately, including bounded no-hits and non-target controls.
+**Resume:** Banner-Courier **26 October 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. October5/6/12 adds28 pages; capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`. October13/20 Enterprise and October19 Banner add26 pages; capture `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`. Full checkout restored; full validator passed before and after the continuation. Record each new batch immediately, including bounded no-hits and non-target controls.
 
 ## 2. Finish damaged-source recovery
 

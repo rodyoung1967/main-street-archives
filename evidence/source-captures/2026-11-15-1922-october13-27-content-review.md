@@ -36,13 +36,28 @@ Originals: `newspapers/banner-courier/1922-10/1922-10-19-seq-NN.pdf`. Issue: htt
 | 9 | Full-page Frank Busch & Sons furniture/hardware sale,712 Main, begins October21. No target transaction or building claim. |
 | 10 | Theatre schedule October19–25, fiction continued fromp8, clothing, legal/locals and Army Goods Store No4 opening October21 at413 Main, Electric Hotel Building. No target opening/completion. |
 
+## Enterprise — 20 October1922: all eight pages
+
+Continuation based on published main `7da14a802901e2595de1399da0a046a1e60f9753`; all8 original PDF hashes match the monthly manifest. Issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-10-20/ed-1/ . Originals: `newspapers/oregon-city-enterprise/1922-10/1922-10-20-seq-NN.pdf`.
+
+| Sequence / printed page | Content controls and result |
+| --- | --- |
+| 1 | Recall/elections, court, prohibition, highway accident and schools. Fire-regulation dispute explicitly places Roake foundry at **Fifth and Water**, code adopted1913, proposed state fire-marshal referral; no Gates/Junken project or target completion. |
+| 2 | County communities, Willamette, Jennings Lodge and Gladstone. Wm. Krack building formerly occupied by Dale to be leased for laundry is **Estacada**. Ingalls temporary home after fire and Berry loss are Jennings Lodge. Junken family/social context, no job progress. |
+| 3 | Canby, women's club, Odd Fellows, planned/finishing residences and regional news. Two-story fireproof I.O.O.F. temple Seventh/Washington, Bernard houses Twelfth/Center, Dustin bungalow Jefferson Seventh–Eighth: distinct projects. Michael Moehnke injured building near Clarkes;1904 forest-fire loss not1922 target fire. |
+| 4 | Editorial/finance, retrospectives, DeMacon liquor trial, aviation and legal. Aerial photography is Mount Hood expedition, not an Oregon City exposure. Arthur McAnulty named trial witness without occupation/address; no new partner or premises assignment. Collard/Johnson rural properties not target Block4. |
+| 5 | Locals, society, crime, probate and ads. Fred Steiner with children Harold/LaVerne returned from Forest Grove farming to Gladstone; wife's parents Mr./Mrs. John Kent; former Oregon City business unnamed. This does not independently prove the503½ barber identity. Moehnke mill explosion at Hoff; home robberies308 Jefferson/West Linn; no target structural event. |
+| 6 | Sandy/Oswego and national news. Sandy high school lathing and Oswego new bank/home progress not Gates. No target completion. |
+| 7 | Recall, prohibition, industry, women's column, national news and legals. Odd Fellows ceremony again Seventh/Washington. Sheriff sale is Edgewood Addition lots, not original Oregon City Block4. No target business/ownership event. |
+| 8 | School administration, national/regional news, Gladstone and recipes. Yoder brothers new meat market is Portland Avenue/Gladstone; not target Main Street premises. No numbered target occupant or Gates completion. |
+
 ### Interior-page date exception
 
 October19 sequence8 carries **Thursday, October12,1922** in its header. It is not the October12 sequence8 previously reviewed: that page contains county news, whereas this one starts Periwinkle House and a Charles Griesbach estate notice dated October19. Sequence10 continues the fiction and prints October19 in its header. Preserve archive issue key and literal header; probable carried-over header, actual printing/assembly history unresolved. This does not by itself establish a missing issue, duplicated PDF, or a separate manual request. Compare original manifest hashes; do not silently relabel the source as October12.
 
 ### Integration and next page
 
-This batch adds **18 pages**: October **46/72**; annual page-image work count **738/928**, subject to original damage and earlier qualifications. **190 pending**: October26, November80, December84. Exact resume: **Enterprise20 October1922 sequence1**.1922 remains **IN PROGRESS**; damage recovery, other source classes, cross-record audit and formal numbered closeout remain.
+This continuation adds **26 pages** (Enterprise October13/20 and Banner October19): October **54/72**; annual page-image work count **746/928**, subject to original damage and earlier qualifications. **182 pending**: October18, November80, December84. Exact resume: **Banner-Courier26 October1922 sequence1**.1922 remains **IN PROGRESS**; damage recovery, other source classes, cross-record audit and formal numbered closeout remain.
 
 October19 issue sequence8 extends the existing Leland/Little and QUALITY CAFE source set **S-141**, evidence **E-126/E-181**, businesses **BUS-077/BUS-089**, and **T-035**, with its printed-header conflict attached. No proprietor, street number, phone, succession, shared ownership or Gates completion is established. Roster order is not geography. Related timeline, building, business, person, open-question, research-lead, registers, crosswalk and YAML were reviewed for propagation. Only dated roster controls and review coverage change; no new building event, identity assignment or resolved historical question. Fire-ordinance discussion is retained as source-specific context, not assigned to503/505.
 
