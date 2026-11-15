@@ -27,3 +27,7 @@ The original **28 September 1922 Banner-Courier p.2** signed advertisement repea
 
 
 October26 address reaffirmation (full-page review15 November2026): Banner-Courier p2 directly prints MILLER’S SHOE STORE,419 Main, everyday footwear/rubbers/gloves and expert shoe repairing. Reaffirms the previously cited October26 control, not a new move or pre-fire number. E-358/S-392; BUS-071/P-046; T-036. Separate p4 Portland Overtire209 Fifth ad is not Miller’s location. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+### November9 1922 Miller advertising control
+
+November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`.

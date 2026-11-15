@@ -751,3 +751,11 @@ October26 address reaffirmation (full-page review15 November2026): Banner-Courie
 Banner-Courier November2 p9 reports a filed engineer completion certificate for the **Block4 alley, Main–Water**, with acceptance hearing November10. Enterprise November3 p3 separately reports council acceptance the preceding evening (calendar-derived November1). Preserve this administrative-stage/date tension pending original minutes/certificates. Enterprise p8 expects petitions for hard surfacing Water Street **Seventh–Fifth**; a proposed public project. `E-360` / `S-394` / `S-395`.
 
 Block-level context for the target frontage; no individual lot, numbered premises, Gates/Junken work, title transfer or private-building completion is established. Holmes Addition Block4 sewer notice is a separate geography. See `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`.
+
+### November9 1922 Miller advertising control
+
+November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`.
+
+### November9 1922 Block4 alley notice repeat
+
+November9 1922 Banner-Courier p6, original visually verified15 November2026: repeats E-360/S-394 Block4 alley Main–Water filed completion-certificate notice and future November10 hearing. Does not resolve administrative-stage tension with Enterprise November3 report. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`.

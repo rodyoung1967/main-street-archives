@@ -5208,6 +5208,7 @@ evidence:
     repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
 
   - id: E-358
+    november09_control: "November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     october26_control: "p2 Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing reaffirmed; p4 Overtire209 Fifth separate. evidence/source-captures/2026-11-15-1922-october26-27-content-review.md"
     name: Signed Gilbert Miller advertisement identifies Miller's Shoe Store at 419 Main
     type: Primary newspaper advertisement; original scan visually verified
@@ -5493,6 +5494,7 @@ evidence:
     - S-391
 
   - id: E-360
+    november09_control: "November9 1922 Banner-Courier p6, original visually verified15 November2026: repeats E-360/S-394 Block4 alley Main–Water filed completion-certificate notice and future November10 hearing. Does not resolve administrative-stage tension with Enterprise November3 report. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     name: November 1922 Block 4 alley work and nearby Water Street proposal
     type: Primary newspaper municipal-work reports; DOCUMENTED / DIRECT, visually verified
     confidence: Very High for printed wording; legal acceptance stage/date unresolved

@@ -1037,3 +1037,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | Evidence | Sources | Timeline / lead | Scope |
 | --- | --- | --- | --- |
 | E-360 | S-394, S-395 | T-110; RL-026 | Original Block4 alley Main–Water completion/acceptance reports and Water Street Seventh–Fifth proposal; block context only, no individual building, business, person, title or private-completion assignment. |
+
+### November9 1922 Miller advertising control
+
+November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`.

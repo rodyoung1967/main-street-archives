@@ -172,7 +172,8 @@
           "ocr_bytes": 20784,
           "ocr_sha256": "b8a1170590ffdfd77f9a2fb3507a0d5ee546e29db07ed797dbfdc2c737855b59",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         },
         {
           "sequence": 2,
@@ -185,7 +186,8 @@
           "ocr_bytes": 24104,
           "ocr_sha256": "fc1b8276c79ce66519cbd30822f57cc6a90d12cf562815ebda145a1da0076af4",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         },
         {
           "sequence": 3,
@@ -198,7 +200,8 @@
           "ocr_bytes": 20824,
           "ocr_sha256": "7b0dbe2a559ef8e890809dc544bc5c06b15c9c03a24f282718dada75d4a8186d",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         },
         {
           "sequence": 4,
@@ -211,7 +214,8 @@
           "ocr_bytes": 15356,
           "ocr_sha256": "6a4d537a0d1b2b6d29dad7bdc2dbad45a9f1b0a314e33a3107d28c868ac32497",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         },
         {
           "sequence": 5,
@@ -224,7 +228,9 @@
           "ocr_bytes": 15766,
           "ocr_sha256": "e551074fdf815c62ff218eb92d3fa4f9930638daa35fd3abff53b6a0d018a4da",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
+          "content_review_limit": "Right edge clipping removes header/date and some tire-ad text/numerals; alternate comparison still online-first."
         },
         {
           "sequence": 6,
@@ -237,7 +243,9 @@
           "ocr_bytes": 25347,
           "ocr_sha256": "66aeb9ff16067a2d77f55fa56fc0bacebee96725dc75c536f70ccf75d62b7ae0",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
+          "content_review_limit": "Left edge initial legal letters and bottom terminal lines/names clipped; alternate comparison still online-first."
         },
         {
           "sequence": 7,
@@ -250,7 +258,9 @@
           "ocr_bytes": 19028,
           "ocr_sha256": "6f2fa6f7d7c6e08114a2edbe06853f20cc65ec9629e8bd3d12d7583916cfa0ca",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
+          "content_review_limit": "Major lower-right source loss; surviving content only. Existing PDF/JP2 comparison and MF-074 remain unresolved."
         },
         {
           "sequence": 8,
@@ -263,7 +273,9 @@
           "ocr_bytes": 15310,
           "ocr_sha256": "c93df38579f830279e6a113ab89601a483df6ee652a5ddbcf634959ea50ebd65",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
+          "content_review_limit": "Major lower-left source loss; surviving content only. Existing PDF/JP2 comparison and MF-074 remain unresolved. Miller419 Main ad fully visible."
         },
         {
           "sequence": 9,
@@ -276,7 +288,8 @@
           "ocr_bytes": 29398,
           "ocr_sha256": "dc567be0a82584c5df23f0a76fb291c9b6576dc7b8b40ee01bd5530ab2d5ffd6",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         },
         {
           "sequence": 10,
@@ -289,7 +302,8 @@
           "ocr_bytes": 17311,
           "ocr_sha256": "da9d78551e2b1ec7aeb87f4bc105dd45e3b3fe37a3bd24646faf670676e95e41",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md"
         }
       ]
     },
