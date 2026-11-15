@@ -3452,3 +3452,22 @@ October26 continuation (visually verified15 November2026): Banner-Courier p8 rep
 
 
 October26 address reaffirmation (full-page review15 November2026): Banner-Courier p2 directly prints MILLER’S SHOE STORE,419 Main, everyday footwear/rubbers/gloves and expert shoe repairing. Reaffirms the previously cited October26 control, not a new move or pre-fire number. E-358/S-392; BUS-071/P-046; T-036. Separate p4 Portland Overtire209 Fifth ad is not Miller’s location. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+## S-394 — Banner-Courier, November 2 1922 p9 — Block 4 alley completion/acceptance notice
+
+Type: Original newspaper municipal notice; **VISUALLY VERIFIED 15 November 2026**.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-02/ed-1/seq-9/
+Repository file: `newspapers/banner-courier/1922-11/1922-11-02-seq-09.pdf`.
+Notes: Completion certificate and prospective November10 hearing, not private-building completion. Compared with S-395 report without silently resolving administrative-stage tension.
+Related evidence: `E-360`.
+Capture: `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`.
+
+## S-395 — Enterprise, November 3 1922 pp3/8 — Block 4 alley and Water Street public works
+
+Type: Original newspaper municipal-work reports; **VISUALLY VERIFIED 15 November 2026**.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-11-03/ed-1/seq-3/
+Additional URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-11-03/ed-1/seq-8/
+Repository files: `newspapers/oregon-city-enterprise/1922-11/1922-11-03-seq-03.pdf`; `newspapers/oregon-city-enterprise/1922-11/1922-11-03-seq-08.pdf`.
+Notes: P3 reports alley accepted at previous evening council; p8 Water Street Seventh–Fifth surfacing petitions expected. Reported acceptance stage conflicts with S-394 future hearing; no private building completion or exact lot established.
+Related evidence: `E-360`.
+Capture: `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`.

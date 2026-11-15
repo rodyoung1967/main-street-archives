@@ -5491,3 +5491,20 @@ evidence:
     related_sources:
     - S-110
     - S-391
+
+  - id: E-360
+    name: November 1922 Block 4 alley work and nearby Water Street proposal
+    type: Primary newspaper municipal-work reports; DOCUMENTED / DIRECT, visually verified
+    confidence: Very High for printed wording; legal acceptance stage/date unresolved
+    claims:
+    - Banner November2 p9 prints filed engineer completion certificate for Block4 alley Main–Water and hearing
+      November10 at7:30pm.
+    - Enterprise November3 p3 reports alley improvement accepted the previous evening, calendar-derived
+      November1; preserve tension pending original minutes.
+    - Enterprise p8 Water Street Seventh–Fifth hard surfacing petitions expected; proposed, not completed.
+    - Block context only; no individual lot, Gates/Junken work, numbered premises, title or private completion
+      date. Holmes Addition Block4 is separate.
+    related_sources:
+    - S-394
+    - S-395
+    repository_file: evidence/source-captures/2026-11-15-1922-november02-03-content-review.md

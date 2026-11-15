@@ -134,6 +134,8 @@ Highest priority is to retrieve the OHS abstract and the **July 1922 Harding →
 
 Block 26 evidence (`E-064`, the 1913 Lots 5–8 owners) remains valid for the opposite/even side and is useful as a geographic control, not as the target title chain.
 
+**15 November2026 public-work control:** `E-360`/`S-394`/`S-395` record the original Block4 alley Main–Water completion certificate/hearing and reported council acceptance in November1922. Underlying **November1 and November10 council minutes / engineer completion certificate** can clarify administrative stages and any attached alley plan. No individual lot or Gates/Junken private job is identified, so this does not resolve the lot-to-address line or build date. Reuse existing municipal/engineering retrieval routes; no additional outreach sent.
+
 ## RL-027 — Identify the 1907 Pacific States Telephone Office Address and Lot
 `E-065` / `S-079` places the newly completed Pacific States Telephone & Telegraph central office on the **east side of Main between Fifth and Sixth** in spring 1907 but gives no number or lot.
 

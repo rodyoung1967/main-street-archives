@@ -745,3 +745,9 @@ October26 continuation (visually verified15 November2026): Banner-Courier p8 rep
 
 
 October26 address reaffirmation (full-page review15 November2026): Banner-Courier p2 directly prints MILLER’S SHOE STORE,419 Main, everyday footwear/rubbers/gloves and expert shoe repairing. Reaffirms the previously cited October26 control, not a new move or pre-fire number. E-358/S-392; BUS-071/P-046; T-036. Separate p4 Portland Overtire209 Fifth ad is not Miller’s location. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+## T-110 — November 2–3 1922 — Block 4 alley public-work reports
+
+Banner-Courier November2 p9 reports a filed engineer completion certificate for the **Block4 alley, Main–Water**, with acceptance hearing November10. Enterprise November3 p3 separately reports council acceptance the preceding evening (calendar-derived November1). Preserve this administrative-stage/date tension pending original minutes/certificates. Enterprise p8 expects petitions for hard surfacing Water Street **Seventh–Fifth**; a proposed public project. `E-360` / `S-394` / `S-395`.
+
+Block-level context for the target frontage; no individual lot, numbered premises, Gates/Junken work, title transfer or private-building completion is established. Holmes Addition Block4 sewer notice is a separate geography. See `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`.

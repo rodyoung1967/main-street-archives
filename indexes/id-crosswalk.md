@@ -1031,3 +1031,9 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 
 | E-126/E-181/S-141 October26 | BUS-077/BUS-089; T-035 | p8 unnumbered roster; no target address/identity inference. |
 | E-358/S-392 October26 | BUS-071/P-046; T-036 | p2 Miller419 Main reaffirmation; p4 Overtire209 Fifth separate. |
+
+## November 1922 public-work control
+
+| Evidence | Sources | Timeline / lead | Scope |
+| --- | --- | --- | --- |
+| E-360 | S-394, S-395 | T-110; RL-026 | Original Block4 alley Main–Water completion/acceptance reports and Water Street Seventh–Fifth proposal; block context only, no individual building, business, person, title or private-completion assignment. |

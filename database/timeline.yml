@@ -1114,3 +1114,16 @@ timeline:
     related_businesses: []
     related_buildings: [B-005, B-001, B-002]
 
+  - id: T-110
+    date: 2–3 November 1922 reports
+    title: Block4 alley completion/acceptance reports and Water Street proposal
+    summary: Banner Nov2 p9 filed completion certificate, Main–Water alley Block4, Nov10 hearing; Enterprise
+      Nov3 p3 reports previous-evening acceptance, calendar-derived Nov1. Administrative-stage tension retained.
+      P8 Water Street Seventh–Fifth paving petitions proposed. Block context only, no private building completion
+      or numbered premises.
+    confidence: Direct printed reports; exact legal acceptance stage/date unresolved
+    related_evidence:
+    - E-360
+    related_sources:
+    - S-394
+    - S-395

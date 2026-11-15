@@ -3050,3 +3050,24 @@ sources:
       \ (716 vs 720 Main); the controlling 1912 location is Main at/near Eighth."
     related_evidence:
     - E-357
+
+  - id: S-394
+    name: Banner-Courier, November 2 1922 p9 — Block 4 alley completion/acceptance notice
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-02/ed-1/seq-9/
+    repository_file: newspapers/banner-courier/1922-11/1922-11-02-seq-09.pdf
+    notes: Original visually verified November15 2026. Filed completion certificate and future November10
+      acceptance hearing; compare S-395 without harmonizing dates/stages. No private construction date.
+    related_evidence:
+    - E-360
+
+  - id: S-395
+    name: Enterprise, November 3 1922 pp3/8 — Block 4 alley and Water Street public works
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-11-03/ed-1/seq-3/
+    repository_files:
+    - newspapers/oregon-city-enterprise/1922-11/1922-11-03-seq-03.pdf
+    - newspapers/oregon-city-enterprise/1922-11/1922-11-03-seq-08.pdf
+    notes: Originals visually verified November15 2026. P3 reports prior evening council acceptance of Block4
+      alley; p8 expects Water Street Seventh–Fifth hard-surfacing petitions. Public work only; acceptance-stage
+      tension with S-394 preserved.
+    related_evidence:
+    - E-360
