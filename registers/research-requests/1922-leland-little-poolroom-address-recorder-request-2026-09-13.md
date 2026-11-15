@@ -1,5 +1,7 @@
 # MF-013 — focused 1922 Leland & Little / 505 Main poolroom records request
 
+> **Dispatch update (15 November 2026): SUPERSEDED FOR SENDING — NOT SENT.** This historical draft is retained for provenance. Use the single prioritized [consolidated City Recorder request](1922-consolidated-recorder-poolhall-and-building-records-request-2026-11-15.md) instead. Do not send this separately unless the Recorder requests a narrower follow-up. The County deed and OHS title-abstract requests remain separate.
+
 Status: **DRAFT READY / NOT SENT**
 
 Date drafted: 13 September 2026
