@@ -52,23 +52,15 @@ Verification state: **VISUALLY VERIFIED** in the project fire evidence.
 
 This is especially important because it combines the same two functions seen in the pre-fire `Millers Shoe Store` ads: **shoe retail stock + shoe repairing**.
 
-## 21 September 1922 — Gilbert Miller explicitly describes resuming pre-fire shoe repair
+## 21 September 1922 — Gilbert Miller resumed shoe repair; correction to misassigned address
 
-The actual scanned page of the **Banner-Courier, 21 Sep 1922, p. 5** has been visually inspected.
+The original **Banner-Courier, 21 Sep 1922, p. 5** page was **visually re-inspected 15 November 2026** at https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5.pdf.
 
-A signed advertisement by **GILBERT MILLER** states that he has sold out the hardware and has a new stock of workingmen's clothing, **shoes** and **gloves**, and says:
+The upper-right **Gilbert Miller** boxed advertisement says he sold out the hardware, has new workingmen's clothing/shoes/gloves, and his machinery is ready for the same shoe repairing as before the fire. The ad ends with **GILBERT MILLER** and **Formerly Goldman's Second-Hand Store**. **It does not state a street number.**
 
-- his **shoe machinery is set up**;
-- he is ready for the **same high-class shoe repairing as before the fire**;
-- location: **209 Fifth Street**;
-- wording also says **Formerly Goldman's Second-Hand Store**.
+**CORRECTION / SUPERSEDED:** The previously recorded **209 Fifth Street** address belongs to the **separate Portland Overtire Co. advertisement directly below** Miller's ad, inside its own ruled box. The original prior interpretation incorrectly merged the neighboring advertisements. **209 Fifth is NOT direct evidence for Gilbert Miller.** This correction supersedes the earlier 209 Fifth attribution without deleting its history.
 
-Canonical page:
-https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-21/ed-1/seq-5.pdf
-
-Verification state: **VISUALLY VERIFIED**.
-
-This directly proves that Gilbert Miller had conducted shoe repairing before the July fire and resumed it afterward.
+This scan is direct evidence for Miller resuming his pre-fire trade, **not** for an intermediate move. See `evidence/source-captures/2026-11-15-1922-miller-september21-visual-correction.md`.
 
 ## 26 October 1922 — Miller's Shoe Store at 419 Main
 
@@ -87,12 +79,7 @@ https://oregonnews.uoregon.edu/lccn/sn00063699/1922-10-26/ed-1/seq-2.pdf
 
 Verification state: **VISUALLY VERIFIED**.
 
-This creates a post-fire location sequence:
-
-- **21 Sep 1922 — Gilbert Miller at 209 Fifth**, explicitly resuming the same shoe repairing as before the fire;
-- **26 Oct 1922 — Miller's Shoe Store at 419 Main**, selling the same general merchandise and advertising expert shoe repairing.
-
-The sequence materially strengthens the business-identity inference, but the October ad still does **not** print Gilbert Miller's first name. The archive therefore does not yet promote `Miller's Shoe Store = Gilbert Miller` from strong inference to direct proof.
+The verified post-fire **419 Main** location is documented on 24 August and 26 October. The 21 September advertisement gives no address and does not establish an intermediate move. The sequence materially strengthens the business-identity inference, but the October ad still does **not** print Gilbert Miller's first name. The archive therefore does not yet promote `Miller's Shoe Store = Gilbert Miller` from strong inference to direct proof.
 
 ## Current identity assessment
 
@@ -124,7 +111,7 @@ The post-fire **419 Main** address is a later relocation and must not be backdat
 - `Millers Shoe Store` opposite Post Office on 23 Feb 1922: **Very High / visually verified primary scan**
 - same store/trade/location wording repeated 4 May 1922: **Very High / visually verified primary scan**
 - Gilbert Miller shoe-repair shop and shoe stock destroyed in July fire: **Very High / visually verified primary fire report**
-- Gilbert Miller resumed the same pre-fire shoe repairing at 209 Fifth by 21 Sep 1922: **Very High / visually verified primary scan**
+- Gilbert Miller resumed the same pre-fire shoe repairing by 21 Sep 1922, **without a numbered address in that ad**: **Very High / visually verified primary scan**
 - `MILLER'S SHOE STORE` at 419 Main on 26 Oct 1922: **Very High / visually verified primary scan**
 - pre-/post-fire `Miller's/Millers Shoe Store` = Gilbert Miller's business: **Strong inference, not yet explicit proof**
 - exact pre-fire Miller storefront number: **Unresolved**
@@ -132,6 +119,6 @@ The post-fire **419 Main** address is a later relocation and must not be backdat
 ## Next checks
 
 1. Search January–July 1922 advertisements, directories and business notices for `Gilbert Miller`, `Miller's Shoe Store`, `Millers Shoe Store`, and proprietor wording.
-2. Reconstruct the **209 Fifth → 419 Main** move between 21 Sep and 26 Oct 1922 and look for a transition notice naming Gilbert.
+2. Compare August–October 419 Main advertisements for continued location evidence; **do not pursue a fictitious 209 Fifth move**.
 3. Recover the 1921–1922 Polk/gazetteer entry for Gilbert Miller and shoe dealers/repairers.
 4. Use the exact fire-period Post Office bay, if found, to narrow the pre-fire `Opposite Post Office` location without overclaiming precision.
