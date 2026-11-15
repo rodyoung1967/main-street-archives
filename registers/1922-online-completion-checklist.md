@@ -7,19 +7,19 @@ Canonical supporting audit: `evidence/source-captures/2026-11-15-1922-closeout-a
 
 The original 104 issues / 928 pages are retained. A live refresh of both calendars and all 104 issue JSON page counts matches the repository exactly. **Do not download or inventory them again without evidence of change.**
 
-January–August: prior records document content review of 615 page images, subject to damage. September–December: earlier records establish image-integrity review and OCR screening; preserve that work, but do not count it as exhaustive content review. This session screened 13 full pages, leaving this conservative queue:
+January–August: prior records document content review of 615 page images, subject to damage. September–December: earlier records establish image-integrity review and OCR screening; preserve that work, but do not count it as exhaustive content review. The earlier checkpoint screened 13 full pages; the continued September pass added 64. September is now 77/77, leaving this conservative queue:
 
 | Month | Pages in corpus | Fresh full-page content credit this checkpoint | Whole-page content queue |
 | --- | ---: | ---: | ---: |
-| September | 77 | 13 | 64 |
+| September | 77 | 77 | 0 |
 | October | 72 | 0 | 72 |
 | November | 80 | 0 | 80 |
 | December | 84 | 0 | 84 |
-| Total | 313 | 13 | 300 |
+| Total | 313 | 77 | 236 |
 
-These are page-image work counts, not 628 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
+These are page-image work counts, not 692 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
 
-**Resume:** Enterprise **1 September 1922, sequence 1**, then all still-pending pages chronologically across both titles. Banner-Courier **7 September sequences 1–9** is done. Also skip already credited Banner **14 Sep seq9**, **28 Sep seq4**, and Enterprise **22 Sep seq5**, **29 Sep seq5**. Record each new batch immediately, including bounded no-hits and non-target controls.
+**Resume:** Banner-Courier **5 October 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. Record each new batch immediately, including bounded no-hits and non-target controls.
 
 ## 2. Finish damaged-source recovery
 
@@ -46,7 +46,7 @@ This is a source-class work plan, **not a certification that these classes are a
 - New signed Miller / 419 Main evidence `E-358` / `S-392` integrated; unsupported 209 Fifth move corrected across active entity/timeline records with supersession explanation.
 - September Leland listings integrated under existing `E-126` / `S-141`; no new 505 assignment.
 - Complete remaining 1922 cross-record audit, including any older McAnulty/Barry license/merchant entries not yet mirrored in registers/YAML.
-- Startup validator had a pre-existing BUS-109 indentation crash; repaired. Full run then exposed 46 existing errors. Resolve the archive mirror/ID/required-field backlog without inventing historical identities. New batch records must add no errors.
+- Startup validator had a pre-existing BUS-109 indentation crash; repaired earlier. The 46 further existing errors are now repaired: mirrored E-350–357 / S-376–391 from authoritative Markdown, supplied missing metadata labels, aligned P-405 display name, and explicitly namespaced external CCHS catalog IDs. The validator still checks unqualified person IDs; no people were invented for photograph numbers. New E-359/S-393/BUS-111 integrate the September 29 Schoenheinz advertisement. Full validation and an external-namespace regression check pass. Remaining historical integration must still be audited.
 
 ## 5. Create formal annual closeout only after 1–4
 

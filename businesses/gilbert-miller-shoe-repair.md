@@ -19,3 +19,8 @@ A steward-supplied and visually verified **24 August 1922 Banner-Courier p.2** a
 **21 September 1922 visual correction:** Original *Banner-Courier* p. 5 scan was inspected again on 15 November 2026. The **209 Fifth Street** address belongs to the separate **Portland Overtire Co.** advertisement immediately *below* Gilbert Miller's boxed advertisement, not to Miller. Miller's ad describes restarting shoe repairs after the fire but supplies no numbered address. The previously claimed Miller move to 209 Fifth was a column/ad-boundary misattribution and is **superseded**. August 24 and October 26 advertisements document Miller's Shoe Store at **419 Main**; the September 7 original p.2 scan now directly confirms the trade name, 419 Main and **GILBERT MILLER** signature in one advertisement (`E-358` / `S-392`, visually inspected 15 November 2026). See `evidence/source-captures/2026-11-15-1922-miller-september21-visual-correction.md`.
 
 The project preserves the 1918 **C. E. Miller / Gilbert Miller** source discrepancy and does not assume the Wolf partner's identity or legal ownership share. A probable working hypothesis now connects the unidentified Wolf & Miller partner with **L. Wolf**, later owner of Red Front, but that identity and the exact 1918 business division remain unproved.
+
+
+## 28 September 1922 signed address confirmation
+
+The original **28 September 1922 Banner-Courier p.2** signed advertisement repeats **419—MAIN STREET—419** and **GILBERT MILLER**, now headed **MILLER’S STORE**, advertising expanded footwear/clothing stock and an equipped shoe-repair department. This adds a dated same-address control, not an intermediate move or pre-fire street number (`E-358` / `S-392`; continued September capture).

@@ -584,7 +584,7 @@ Prioritize:
 2. **West Linn Historical Society** interim pedestrian bridge image captioned **1921**, from the Oregon City/West Linn bridge-construction sequence.
 3. **OHS 379G0008** and related 379G0002–0012 / 0017 Oregon City negatives, institutionally dated **1910–1924**; inspect related frames for cityscape background.
 4. **Oregon City Main Street 1920.jpg** public-domain/secondary circa-1920 comparison lead; trace original provenance before treating the date as exact.
-Goal: find a clearly pre-fire exposure showing the 501/503/505 frontage well enough to compare with P-9594, P-267 and OHS 371N5709.
+Goal: find a clearly pre-fire exposure showing the 501/503/505 frontage well enough to compare with P-9594, CCHS:P-267 and OHS 371N5709.
 
 ### 16 September 2026 — 1921 photograph lead evaluation checkpoint
 <!-- 2026-09-16-1921-photo-evaluation -->

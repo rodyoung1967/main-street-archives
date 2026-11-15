@@ -1020,5 +1020,7 @@ Complete old-branch files, diff and commit log are preserved in `records/reposit
 | `P-405` Charles Schoenheinz (younger) | 1912–18 musician chronology; 1916 marriage/band; 1917 Theroux interest | Separate son-generation Charles. Possible 503 C. Schoenheinz identity, but Theroux exact-address control is 519 Main and no independent 503 bridge exists. |
 | `P-406` Edward Schoenheinz | Jan. 1912 father/shoe-business report | Confirms family shoe-business context; no 503 address. Keep separate from younger Charles's child Edward in 1917. |
 
-| `E-358` / `S-392` | `BUS-071`, `P-046` | Signed 7 Sep. 1922 ad directly joins Gilbert Miller, Miller's Shoe Store and 419 Main; no 209 Fifth move. |
+| `E-358` / `S-392` | `BUS-071`, `P-046` | Signed 7 Sep. 1922 ad directly joins Gilbert Miller, Miller's Shoe Store and 419 Main; signed Sep28 Miller’s Store ad repeats address/identity with expanded stock; no 209 Fifth move. |
 | `E-126` / `S-141` September supplement | `BUS-077`, `T-035` | 14/28 Sep. billiards merchant lists; exact address still unresolved. |
+
+| `BUS-111` Schoenheinz Shoe Repair Shop | `E-359` / `S-393` | Sep29 1922 Pacific Highway Garage Building advertisement; proprietor and number not printed. Family profiles are candidates/context, not proved ownership. |

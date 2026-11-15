@@ -3501,6 +3501,8 @@ Claims:
 - Oregon Encyclopedia independently reproduces the same exposure with the caption **“Oregon City, c. 1930.”** and credits OHS Journal `371A5709`. This is a useful **secondary circa-1930 dating clue**; the A/N identifier discrepancy with OHS `371N5709` is preserved unresolved.
 Classification: **DOCUMENTED / DIRECT** for OHS object/date range/streetscape; **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE** for later-numbered frontage mapping and replacement-Elks identification; **TENTATIVE VISUAL READING** for CAFE/BILLIARDS.
 
+Confidence: High for catalog/source wording and bounded view evaluation; exact exposure dates and target identification remain unresolved.
+
 ## E-351 — 1921 / immediate pre-fire photograph search evaluation
 Type: External photographic-source evaluation / bounded online search result.
 Sources: `S-379`, `S-380`, `S-381`, `S-382`.
@@ -3513,15 +3515,18 @@ Claims:
 - City / Army Corps / ODOT bridge-construction galleries document the early-1920s construction sequence but do not, from the currently reviewed material, establish a readable 501/503/505 storefront view or exact individual exposure dates.
 Additional exact-year findings:
 - Old Oregon publishes **“Building the Temporary Bridge at Willamette Falls - 1921”**, restored from a CCHS original negative; metadata identifies **Ralph Eddy**, original-negative size 4.3 × 5.4 inches, photographer number **B10**. The frame is bridge/construction-focused and does not yield a readable target frontage, but B10 creates a high-value adjacent-negative research route.
-- CCHS **P-542**, **“Peerless Bakery, Oregon City, 1921.”**, is institutionally dated 1921. The public image is an interior and therefore does not show the target streetscape; separate 1918 directory evidence places the bakery at 903 7th.
+- CCHS **CCHS:P-542**, **“Peerless Bakery, Oregon City, 1921.”**, is institutionally dated 1921. The public image is an interior and therefore does not show the target streetscape; separate 1918 directory evidence places the bakery at 903 7th.
 
 Conclusion: the search produced genuine 1921-era visual material but **no newly recovered direct 1921 photograph of the 501/503/505 frontage**. The existing exact-dated **1918 CCHS bluff image** remains the strongest currently preserved pre-fire structural control.
 Classification: **DOCUMENTED / DIRECT** for source/catalog wording; **VISUALLY REVIEWED** where noted; **NO-HIT / INSUFFICIENT VIEW** for a new direct target-frontage photograph.
+
+Confidence: High for catalog/date wording and documented coverage limits; insufficient target view is not proof of absence.
 
 ## E-352 — 1929 Oregon City centennial / OHS negative dating hypothesis
 Type: Cross-source dating lead / explicitly unproved publication-context hypothesis.
 Sources: `S-383`, `S-384`; cross-reference `S-376`, `S-378`.
 Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+Claims:
 Directly established:
 - The *Eugene Register* of **10 November 1929** says the Enterprise had **just** observed the centennial of McLoughlin's founding of Oregon City with a **special edition**.
 - OHS explicitly relates `371N5706` (Hawley mill; number **4** on negative) and `371N5709` (downtown Oregon City; number **5** on negative); both carry institutional date range **1923–1936**.
@@ -3620,3 +3625,19 @@ Claims:
 - This directly bridges Gilbert Miller, the trade name and 419 Main on this date; it does not identify his pre-fire room or establish a 503/505 construction date.
 - The prior attribution of 209 Fifth to Miller is superseded by the separate-box correction already visually established on September 21 p.5; it belongs to Portland Overtire Co. Preserve that error history.
 Record: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
+
+September extension to `E-358`: The original **28 September 1922 Banner-Courier p.2** signed advertisement repeats **419—MAIN STREET—419** and **GILBERT MILLER**, now headed **MILLER’S STORE**, advertising expanded footwear/clothing stock and an equipped shoe-repair department. This adds a dated same-address control, not an intermediate move or pre-fire street number (`E-358` / `S-392`; continued September capture).
+Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
+
+
+## E-359 — 29 September 1922 Schoenheinz Shoe Repair Shop at Pacific Highway Garage Building
+
+Type: Primary newspaper advertisement; **DOCUMENTED / DIRECT — VISUALLY VERIFIED 15 November 2026**.
+Confidence: Very High for printed business/location; proprietor and numbered address unresolved.
+Sources: `S-393`.
+Claims:
+- Enterprise 29 September 1922 p.8 directly advertises **SCHOENHEINZ SHOE REPAIR SHOP**, shoe repair and made-to-order shoes, at **Pacific Highway Garage Bldg., Oregon City**.
+- The advertisement supplies no proprietor’s initial/given name or street number. Do not equate it with the Book 4 C. Schoenheinz tenant at 503, the 1911 716 Main shop, or the 1920 K. Schoenheinz contact without an independent bridge.
+- Adds a September 29 dated advertising control to the existing April–September research, without proving uninterrupted operation or a move date.
+Related business: `BUS-111`.
+Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.

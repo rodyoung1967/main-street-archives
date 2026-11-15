@@ -4,12 +4,12 @@ Date: 16 September 2026
 
 ## Preserved conclusions
 
-### CCHS P-267 — 1924–1928
-CCHS P-267, *Oregon City and the Arch Bridge as Seen from Bluff*, is already preserved as S-312 / E-284 / IMG-0770 / T-104.
+### CCHS:P-267 — 1924–1928
+CCHS:P-267, *Oregon City and the Arch Bridge as Seen from Bluff*, is already preserved as S-312 / E-284 / IMG-0770 / T-104.
 
 An enlarged steward rereview now adds that the later-numbered **503 Main position appears to contain a standing building mass**. No 503 number is readable, so this remains **ATTRIBUTED PROJECT-STEWARD SPATIAL TESTIMONY + STRONG CROSS-SOURCE INFERENCE**. The independent **1925 Sanborn** remains the firmer by-1925 control, mapping 503 as a restaurant and 505 as billiards/cigars.
 
-Do not turn the P-267 institutional range into a 1924 construction endpoint.
+Do not turn the CCHS:P-267 institutional range into a 1924 construction endpoint.
 
 ### OHS 371N5709 — early post-fire bluff view
 Oregon Historical Society catalogs reference **371N5709**, title **View of downtown Oregon City, Oregon**, in the **Oregon Journal Photographic Negatives**, dated **1923–1936**. OHS describes a bluff view with industrial buildings/lumber at left, downtown Oregon City and the Oregon City Bridge at right; the number 5 is written on the negative; OHS says it may be related to 371N5706.
@@ -87,7 +87,7 @@ Highest-value leads:
 3. **OHS 379G0008** and related 379G0002–0012 / 0017 Oregon City negatives, institutionally dated **1910–1924**; inspect the related sequence for cityscape background.
 4. **Oregon City Main Street 1920.jpg** public-domain/secondary circa-1920 Main Street comparison lead; trace original publication/provenance before treating the date as exact.
 
-Goal: find a clearly pre-July-1922 exposure showing 501/503/505 well enough to compare with P-9594, P-267 and 371N5709.
+Goal: find a clearly pre-July-1922 exposure showing 501/503/505 well enough to compare with P-9594, CCHS:P-267 and 371N5709.
 
 ### CCHS C.0250.005060 suggested catalog metadata
 Approved project recommendation for CCHS consideration:

@@ -599,3 +599,10 @@ Move from person-centered Schoenheinz searching to the **503 Main occupancy tran
 Primary question is now **when and how 503 changed from Smith/pool-hall use to the Book 4 C. Schoenheinz store**. Search 1912–1916 address-indexed licenses, city commission records, tax/business records, directories, and targeted newspaper references to 503/Smith/Schoenheinz. Treat any change of occupant separately from building continuity and real-estate ownership.
 
 The restricted 1916 directory and Karl's full 1937 obituary remain open retrieval targets, but they should no longer block progress on the frontage chronology.
+
+
+## 29 September 1922 shop control
+
+A further original Enterprise p.8 advertisement names **Schoenheinz Shoe Repair Shop**, **Pacific Highway Garage Building, Oregon City** (`BUS-111`, `E-359` / `S-393`). The proprietor remains unnamed; this does not identify this person as operator or prove a 503 tenancy/business bridge. See `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
+
+Earlier dated examples through September 22 remain valid; September 29 extends the advertising controls without proving daily continuity.

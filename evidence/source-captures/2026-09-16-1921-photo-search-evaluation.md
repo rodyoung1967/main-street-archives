@@ -123,8 +123,8 @@ Old Oregon publishes an explicit **1921** image titled **“Building the Tempora
 
 The image itself is bridge/construction-focused and does not provide a readable 501/503/505 frontage. Its greatest research value is provenance: **B10 suggests a numbered Ralph Eddy negative sequence**. Adjacent B-series negatives should be searched for same-project views looking toward Oregon City, especially the Sixth/Fifth/Main background.
 
-### CCHS P-542 — Peerless Bakery, Oregon City, 1921
-CCHS catalogs **P-542**, **“Peerless Bakery, Oregon City, 1921.”**, with Date made **1921** and other number **B.0155.000235 / B-0155-000235**. The public image is an interior bakery photograph. It is therefore exact-year Oregon City photographic evidence but **not a target streetscape image**. Independent 1918 Courier directory evidence places Peerless Bakery at **903 7th**, outside the requested Fourth/Fifth/Sixth target zone.
+### CCHS:P-542 — Peerless Bakery, Oregon City, 1921
+CCHS catalogs **CCHS:P-542**, **“Peerless Bakery, Oregon City, 1921.”**, with Date made **1921** and other number **B.0155.000235 / B-0155-000235**. The public image is an interior bakery photograph. It is therefore exact-year Oregon City photographic evidence but **not a target streetscape image**. Independent 1918 Courier directory evidence places Peerless Bakery at **903 7th**, outside the requested Fourth/Fifth/Sixth target zone.
 
 ### Revised search conclusion
 The exact-1921 image pool is now larger, but no newly recovered exact-1921 image yet gives a direct readable view of 501/503/505 Main. The **highest-value next photo route is the Ralph Eddy B-series around B10**, plus maximum-resolution inspection of the interim footbridge images whose location was near Sixth Avenue.

@@ -1390,3 +1390,14 @@ businesses:
     related_evidence: [E-357]
     related_sources: [S-391]
 
+
+  - id: BUS-111
+    name: Schoenheinz Shoe Repair Shop
+    repository_file: businesses/schoenheinz-shoe-repair-shop-1922.md
+    address: Pacific Highway Garage Building, Oregon City; street number unresolved
+    notes: 29 September 1922 advertisement; unnamed proprietor. No proved identity with earlier 716 Main shop,
+      1920 K. Schoenheinz or 503 tenant. Dated advertising, not uninterrupted-operation proof.
+    related_sources:
+    - S-393
+    related_evidence:
+    - E-359

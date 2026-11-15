@@ -40,3 +40,8 @@ Therefore **P-404 = Book 4 C. Schoenheinz** remains **PROBABLE / WORKING HYPOTHE
 ## Key research file
 
 See `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
+
+
+## 29 September 1922 shop control
+
+A further original Enterprise p.8 advertisement names **Schoenheinz Shoe Repair Shop**, **Pacific Highway Garage Building, Oregon City** (`BUS-111`, `E-359` / `S-393`). The proprietor remains unnamed; this does not identify this person as operator or prove a 503 tenancy/business bridge. See `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.

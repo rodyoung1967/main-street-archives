@@ -98,3 +98,8 @@ The startup validator crashed on existing BUS-109 YAML indentation. Correcting o
 ## Resume
 
 Read `registers/1922-online-completion-checklist.md`. The earliest September page still pending in both-paper chronological order is **Enterprise, 1 September, sequence 1**. Next Banner-Courier after the completed September 7 issue is **14 September sequence 1** (page 9 already done). Later partial pages must be skipped only with explicit ledger credit. Keep 1922 **IN PROGRESS** until the content queue, remaining online classes, precise manual list and integration are finished.
+
+
+## Subsequent September continuation
+
+The [continued full-page review](2026-11-15-1922-september-continued-full-page-review.md) adds the remaining 64 September pages. September now 77/77; 236 October–December pages remain. Preserve this earlier 13-page checkpoint as history; use the ordered closeout checklist for the current queue.

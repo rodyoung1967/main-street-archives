@@ -23,3 +23,6 @@ See [Tasks 5–6 identity audit](../../evidence/source-captures/1922-tasks-5-6-i
 `S-160` / `E-144` visually verifies the 11 July 1919 *Oregon City Enterprise* society item naming Mr. and Mrs. Gilbert Miller at **Ninth and Division streets** and reporting that their daughter came to Oregon City with her parents from Springfield about a year earlier. This materially corroborates the already documented 1918 Springfield→Oregon City family-move chronology.
 
 It remains **identity/residence context only**. The article does not name Wolf & Miller or 505 Main, so it does not turn the strong Gilbert-Miller continuity inference into a direct 505 partner identification and does not erase the genuine `C. E. Miller` wording in the August 1918 *Eugene Daily Guard*.
+
+
+The original **28 September 1922 Banner-Courier p.2** signed advertisement repeats **419—MAIN STREET—419** and **GILBERT MILLER**, now headed **MILLER’S STORE**, advertising expanded footwear/clothing stock and an equipped shoe-repair department. This adds a dated same-address control, not an intermediate move or pre-fire street number (`E-358` / `S-392`; continued September capture).

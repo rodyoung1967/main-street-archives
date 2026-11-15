@@ -169,7 +169,7 @@ LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 EVIDENCE_BLOCK_PATTERN = re.compile(r"^## (E-\d{3}) —", re.MULTILINE)
 
 SKIP_SCAN_DIRS = {".git", "scripts", ".cursor"}
-EXTERNAL_ID_NAMESPACES = {"MOT:", "TEL:"}
+EXTERNAL_ID_NAMESPACES = {"MOT:", "TEL:", "CCHS:"}
 ALLOWED_YEAR_STATUSES = {"IN PROGRESS", "ONLINE COMPLETE", "ONLINE + MANUAL COMPLETE"}
 
 RELATED_FIELD_PREFIXES = {
@@ -358,8 +358,10 @@ def find_unknown_id_references(known: dict[str, set[str]]) -> list[str]:
         rel = md_path.relative_to(ROOT)
         text = read_text(md_path)
         for match in ID_PATTERN.finditer(text):
-            namespace = text[max(0, match.start() - 4) : match.start()]
-            if namespace in EXTERNAL_ID_NAMESPACES:
+            # External catalog identifiers can resemble project entity IDs.
+            # Require an explicit namespace immediately before the ID.
+            if any(text[max(0, match.start() - len(ns)) : match.start()] == ns
+                   for ns in EXTERNAL_ID_NAMESPACES):
                 continue
             entity_id = match.group(1)
             prefix = id_prefix(entity_id)

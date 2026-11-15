@@ -5210,8 +5210,279 @@ evidence:
     claims:
       - 7 September 1922 Banner-Courier p2 prints 419 Main Street, Miller's Shoe Store and Gilbert Miller signature within one advertisement.
       - Same ad discusses installing shoe-repair machinery after the fire and liquidating Goldman second-hand goods; p8 independently gives the store at 419 Main.
+      - 28 September 1922 p2 signed Miller’s Store advertisement repeats 419 Main, Gilbert Miller, expanded footwear/clothing stock and equipped shoe repair.
       - Does not establish pre-fire numbered premises or 503/505 construction. Earlier 209 Fifth attribution is superseded as an adjacent-ad misreading.
     related_sources: [S-392]
     related_businesses: [BUS-071]
     related_people: [P-046]
     repository_file: evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md
+
+  - id: E-359
+    name: 29 September 1922 Schoenheinz Shoe Repair Shop at Pacific Highway Garage Building
+    type: Primary newspaper advertisement; original visually verified
+    confidence: Very High for name/location; proprietor and exact number unresolved
+    claims:
+    - Enterprise 29 September 1922 p8 advertises Schoenheinz Shoe Repair Shop at Pacific Highway Garage Bldg.,
+      Oregon City.
+    - Proprietor and street number are not printed; no Book 4 tenant, 716 Main shop, K. Schoenheinz or 503/505
+      identity bridge established.
+    - Dated advertising control, not proof of uninterrupted operation or opening/move date.
+    related_sources:
+    - S-393
+    related_businesses:
+    - BUS-111
+    repository_file: evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md
+
+  - id: E-350
+    name: OHS 371N5709 post-fire Fifth/Main frontage, replacement-Elks control, and tentative 503/505 sign readings
+    type: Primary institutional photograph + project-steward visual/spatial annotation + cross-source comparison.
+    confidence: High for catalog/source wording and bounded view evaluation; exact exposure dates and target
+      identification remain unresolved.
+    claims:
+    - '- OHS catalogs `371N5709` as **1923–1936** and directly depicts downtown Oregon City and the completed
+      Oregon City Bridge from the bluff.
+
+      - The project steward identifies the bridge-adjacent building as the **replacement Elks Lodge**. Official
+      Elks history says the predecessor burned 2 Dec. 1922 and the replacement was completed in 1923, with first
+      meeting there 7 Dec. 1923.
+
+      - The steward maps the visible odd-numbered frontage to **501 / 503 / 505 Main**. No street number is readable.
+
+      - At **503**, the storefront sign appears compatible with **CAFE**; at **505**, a longer sign is possibly
+      **BILLIARDS**. Both remain **tentative visual readings**, not direct transcriptions.
+
+      - The independent 1925 Sanborn maps **503 as restaurant** and **505 as billiards/cigars**, making the readings
+      cross-source consistent without forcing the pixels.
+
+      - Do **not** date this photograph by comparing the visible lower Third/Fourth-area Railroad Avenue condition
+      with the 1929 Fifth–Seventh municipal improvement; the same competent segment is not visible.
+
+      - Oregon Encyclopedia independently reproduces the same exposure with the caption **“Oregon City, c. 1930.”**
+      and credits OHS Journal `371A5709`. This is a useful **secondary circa-1930 dating clue**; the A/N identifier
+      discrepancy with OHS `371N5709` is preserved unresolved.'
+    related_sources:
+    - S-021
+    - S-376
+    - S-377
+    repository_file: evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md
+
+  - id: E-351
+    name: 1921 / immediate pre-fire photograph search evaluation
+    type: External photographic-source evaluation / bounded online search result.
+    confidence: High for catalog/date wording and documented coverage limits; insufficient target view is not
+      proof of absence.
+    claims:
+    - '- CCFHS **PC050** is publicly described as “Dated April 21, 1921” and was visually reviewed; the available
+      derivative does **not** show the later 501/503/505 frontage clearly enough for a defensible individual-building
+      comparison.
+
+      - The phrase “Dated April 21, 1921” is preserved as source wording and is **not automatically treated as
+      the exact photographic exposure date** without reverse/catalog provenance.
+
+      - West Linn Historical Society captions the interim pedestrian bridge image **1921**, while Old Oregon
+      Photos labels what appears to be the same or a closely related exposure **c.1922**. Treat the photograph
+      as **bridge-construction-era 1921–1922** until original-negative metadata resolves the conflict.
+
+      - OHS `376G0143` and `376G0144` are institutional old-suspension-bridge controls dated **1902–1922**, not
+      exact 1921 images.
+
+      - City / Army Corps / ODOT bridge-construction galleries document the early-1920s construction sequence
+      but do not, from the currently reviewed material, establish a readable 501/503/505 storefront view or exact
+      individual exposure dates.
+
+      Additional exact-year findings:
+
+      - Old Oregon publishes **“Building the Temporary Bridge at Willamette Falls - 1921”**, restored from a
+      CCHS original negative; metadata identifies **Ralph Eddy**, original-negative size 4.3 × 5.4 inches, photographer
+      number **B10**. The frame is bridge/construction-focused and does not yield a readable target frontage,
+      but B10 creates a high-value adjacent-negative research route.
+
+      - CCHS **P-542**, **“Peerless Bakery, Oregon City, 1921.”**, is institutionally dated 1921. The public
+      image is an interior and therefore does not show the target streetscape; separate 1918 directory evidence
+      places the bakery at 903 7th.
+
+
+      Conclusion: the search produced genuine 1921-era visual material but **no newly recovered direct 1921 photograph
+      of the 501/503/505 frontage**. The existing exact-dated **1918 CCHS bluff image** remains the strongest
+      currently preserved pre-fire structural control.'
+    related_sources:
+    - S-379
+    - S-380
+    - S-381
+    - S-382
+    repository_file: evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md
+
+  - id: E-352
+    name: 1929 Oregon City centennial / OHS negative dating hypothesis
+    type: Cross-source dating lead / explicitly unproved publication-context hypothesis.
+    confidence: High for direct controls; low-to-moderate for the centennial-publicity linkage pending publication/sleeve
+      evidence.
+    claims:
+    - 'Directly established:
+
+      - The *Eugene Register* of **10 November 1929** says the Enterprise had **just** observed the centennial
+      of McLoughlin''s founding of Oregon City with a **special edition**.
+
+      - OHS explicitly relates `371N5706` (Hawley mill; number **4** on negative) and `371N5709` (downtown Oregon
+      City; number **5** on negative); both carry institutional date range **1923–1936**.
+
+      - OHS `371N5707` is a McLoughlin House subject in the same identifier neighborhood, also 1923–1936, but
+      OHS does not explicitly relate it to 5706/5709.
+
+      - Oregon Encyclopedia independently reproduces the Hawley mill, downtown 5709 exposure, and McLoughlin
+      House with **c.1930** captions.
+
+      Working hypothesis:
+
+      - the 5706/5709 related pair, and possibly 5707, may have been created for or near the **late-1929 Oregon
+      City centennial publicity cycle** or a related Oregon Journal feature.
+
+      Limits:
+
+      - no recovered 1929 Oregon Journal page publishes these negatives;
+
+      - no recovered Enterprise centennial issue contains them;
+
+      - no original OHS sleeve assigns them to 1929;
+
+      - neighboring identifiers include independently dated 1928 and 1932 subjects, so identifier proximity is
+      not chronological proof.'
+    related_sources:
+    - S-376
+    - S-378
+    - S-383
+    - S-384
+    repository_file: evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md
+
+  - id: E-353
+    name: 9 February 1912 Cox & Ward Main Street billiard/tobacco partnership dissolution
+    type: Primary newspaper business-transition evidence; **VISUALLY VERIFIED**.
+    confidence: '**Very High** for the visually verified printed wording; none for a 503/505 assignment.'
+    claims:
+    - '- The page directly identifies **Cox & Ward** as **tobacco dealers and billiard-room proprietors of Main
+      Street** in Oregon City.
+
+      - It directly reports that the partnership **dissolved**, with **Mr. Ward selling to his partner**.
+
+      - It reports Ward had been in poor health and that the indoor occupation had not agreed with him.
+
+      - The source prints **no street number** and no given name for Cox or Ward.
+
+      - The firm style supports only that the partnership was styled Cox & Ward; it does not by itself establish
+      the remaining partner''s full identity, successor trade name, duration of continued operation, property
+      ownership, or license transfer.
+
+      - The timing and business type make comparison with H. H. Smith''s March 1912 503 Main pool-hall application
+      a useful research lead, but **no source currently connects Cox & Ward to 503 Main**.
+
+      - Do not merge this business with **F. D. Cox''s 1919 billiard parlors** or any 505 Main pool-hall/billiard
+      chain without an independent identity/address bridge.'
+    related_sources:
+    - S-108
+    - S-387
+
+  - id: E-354
+    name: Fred Steiner / Beaver Creek identity control from 1–8 March 1912 and 1914
+    type: Primary newspaper identity/location control; **VISUALLY VERIFIED**.
+    confidence: Very High for the visually verified newspaper wording; none for a barber-shop identity bridge.
+    claims:
+    - '- The 1 March 1912 *Courier* prints **F. Steiner, of this place** in a local-news column headed Clear
+      Creek and then calls him **Fred**, describing purchase of a full-blooded bull calf and dairy-cow observations.
+
+      - The 8 March 1912 *Courier* explicitly says the prior week''s **Beaver Creek items were mistakenly printed
+      under the Clear Creek heading**; the corrected Beaver Creek column directly names **Fred Steiner** and
+      separately refers to **Steiner Bros. of this place**.
+
+      - Therefore the 1 March F. Steiner/Fred notice belongs to the **Beaver Creek** local-news stream despite
+      the erroneous printed heading.
+
+      - The visually inspected 26 February 1914 *Courier* p.7 directly calls **Mr. and Mrs. Fred Steiner residents
+      of Beaver Creek**; 5 March 1914 p.5 again prints **Fred Steiner, of Beaver Creek**.
+
+      - These records establish a contemporaneous rural Beaver Creek Fred Steiner identity context during the
+      same broad period as the municipal 503½ barber-shop ledger.
+
+      - They do **not** establish whether the Beaver Creek resident and the probable Fred Steiner tenant transcription
+      at 503½ Main are the same or different individuals. A Beaver Creek resident could have worked or operated
+      a business in Oregon City.'
+    related_sources:
+    - S-388
+
+  - id: E-355
+    name: Oregon City Shoe Store / Lageson / 508 Main business separation
+    type: Primary newspaper business/address evidence; **VISUALLY VERIFIED**.
+    confidence: Very High for scan-visible wording.
+    claims:
+    - '- 28 Jan. 1910 advertising directly pairs **Oregon City Shoe Store** with **Justin S. Lageson** and **Opposite
+      Postoffice**.
+
+      - 1 Apr. 1910 advertising directly identifies **Justin S. Lageson, Prop.** of Oregon City Shoe Store on
+      Main Street.
+
+      - 26 Apr. 1912 advertising directly places **Oregon City Shoe Store at 508 Main St., Opposite Postoffice**.
+
+      - The 26 Apr. 1912 ad does not name Lageson; uninterrupted 1910–1912 proprietorship remains unresolved.
+
+      - Separate 1911 primary evidence places **C. Schoenheinz, proprietor**, of the **Old Reliable Oregon City
+      Shoe Shop** at **716 Main between Sixth and Seventh**.
+
+      - Therefore the generic Oregon City Shoe Store ads in the March/April 1912 annual audit must not be used
+      as Schoenheinz/503 evidence without a later direct transfer or identity bridge.'
+    related_sources:
+    - S-109
+    - S-389
+
+  - id: E-356
+    name: 10 September 1920 K. Schoenheinz Oregon City shoemaker advertisement
+    type: Primary newspaper occupation/business-context evidence; **VISUALLY VERIFIED**.
+    confidence: Very High for the original scan wording.
+    claims:
+    - '- The *Morning Oregonian* Help Wanted—Male column directly prints **“SHOEMAKER wanted. Oregon City. K.
+      Schoenheinz.”**
+
+      - This places a person/business contact printed as **K. Schoenheinz** in the shoemaking trade in Oregon
+      City on 10 Sep. 1920.
+
+      - The source does not print a street address, store name, full given name, relationship to C. Schoenheinz,
+      or relationship to the later Schoenheinz Shoe Repair Shop.
+
+      - Do not normalize **K.** to Karl, Carl, or Charles without an independent identity bridge.
+
+      - The item strengthens the broader documented Schoenheinz shoe-trade context between the 1911 C. Schoenheinz
+      shop and the 1922 Schoenheinz Shoe Repair Shop, but does **not** prove 503 Main was a shoe store in 1916–17.'
+    related_sources:
+    - S-390
+
+  - id: E-357
+    name: 1912 Main/Eighth moving-picture block and Star Theatre continuity
+    type: Primary newspaper construction/opening evidence + cross-source business continuity; **VISUALLY VERIFIED
+      / STRONG CROSS-SOURCE INFERENCE**.
+    confidence: Very High for direct printed geography/manager/opening facts; High for continuity of the May
+      24 unnamed theatre.
+    claims:
+    - '- 2 Feb. 1912 Courier p.1 directly reports Mt. Hood Brewing Co. taking a long lease on the Hood property
+      at **Main and Eighth**, going north 66 feet, for a new two-story block with a saloon, store and moving-picture
+      theatre; **George Simmons** had already leased the theatre.
+
+      - 24 May 1912 Courier p.5 directly says the new motion-picture theatre **on Main Street** was nearly ready
+      to open, but does not name it.
+
+      - 31 May 1912 Morning Enterprise p.3 directly identifies the **Star Theatre**, under **George Simmons**,
+      opening the next evening in a building **on Main Street near Eighth**, specially constructed for moving
+      pictures, seating 300.
+
+      - Matching manager/lessee, location, construction timing and theatre type make the 24 May unnamed theatre
+      a **STRONG CROSS-SOURCE CONTINUITY MATCH** to the February Main/Eighth project and the Star Theatre opening.
+
+      - The project is explicitly outside the Fifth/Main 501–511 target frontage and must not be used as target
+      construction evidence.
+
+      - It is a concrete documented example of Main Street rebuilding during the season of the 10 May “tear down
+      / build up” editorial, but the editorial does not identify this project and cannot be said to refer specifically
+      to it.
+
+      - Later sources conflict on the numbered Star Theatre address (716 vs 720 Main); no numbered 1912 opening
+      address is assigned here.'
+    related_sources:
+    - S-110
+    - S-391

@@ -2694,5 +2694,356 @@ sources:
     repository_files:
       - newspapers/banner-courier/1922-09/1922-09-07-seq-02.pdf
       - newspapers/banner-courier/1922-09/1922-09-07-seq-08.pdf
-    notes: Original scans visually verified 15 November 2026; p2 directly joins 419 Main, Miller's Shoe Store and Gilbert Miller signature. No pre-fire number proved.
+      - newspapers/banner-courier/1922-09/1922-09-28-seq-02.pdf
+    notes: Original scans visually verified 15 November 2026; p2 directly joins 419 Main, Miller's Shoe Store and Gilbert Miller signature. September 28 p2 repeats the signed 419 Main address under Miller’s Store with expanded stock and equipped shoe repair; original visually verified in the continued September pass. No pre-fire number proved.
     related_evidence: [E-358]
+
+  - id: S-393
+    name: Enterprise, 29 September 1922 p.8 — Schoenheinz Shoe Repair Shop advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-09-29/ed-1/seq-8/
+    repository_file: newspapers/oregon-city-enterprise/1922-09/1922-09-29-seq-08.pdf
+    notes: Original visually verified 15 November 2026. Direct name and Pacific Highway Garage Building, Oregon
+      City; proprietor and number unprinted.
+    related_evidence:
+    - E-359
+
+  - id: S-376
+    name: OHS 371N5709, View of downtown Oregon City, Oregon
+    url: https://digitalcollections.ohs.org/oregon-city
+    notes: 'Type: Primary institutional historic photograph / Oregon Journal Photographic Negatives; project-steward
+      supplied image visually reviewed 15 September 2026; institutional metadata independently confirmed online
+      16 September 2026.
+
+      Institution: Oregon Historical Society. Library.
+
+      Reference code: **371N5709**.
+
+      Title: **View of downtown Oregon City, Oregon**.
+
+      Institutional date: **1923–1936**.
+
+      Institutional description: bluff view with industrial buildings/lumber at left, downtown Oregon City and
+      the Oregon City Bridge at right; the number **5** is written on the negative; OHS says it may be related
+      to **371N5706**.
+
+      Institutional browse: https://digitalcollections.ohs.org/oregon-city
+
+      Related evidence/media/timeline: `E-350` / `IMG-0774` / `T-106`.
+
+      Related buildings: `B-005`, `B-001`, `B-002`.
+
+      Repository capture: `evidence/source-captures/2026-09-16-early-postfire-photo-sequence-conversation-handoff.md`.
+
+      Notes: later street numbers are not readable. Steward maps the visible frontage to 501/503/505; tentative
+      sign readings at 503/505 remain below direct-transcription confidence. Full binary remains a documented
+      pending-upload technical gap.'
+    related_evidence:
+    - E-350
+
+  - id: S-377
+    name: 'Oregon City Elks Lodge #1189 official lodge history'
+    url: https://www.ocelks1189.com/our-lodge-history
+    notes: 'Type: Official organization history / chronology control.
+
+      URL: https://www.ocelks1189.com/our-lodge-history
+
+      Reviewed: 16 September 2026.
+
+      Related evidence: `E-350`.
+
+      Claims supported: predecessor lodge burned **2 December 1922**; meetings returned to the Masonic Temple;
+      replacement lodge was completed in **1923**; first meeting in the new lodge was **7 December 1923**.
+
+      Limit: this source establishes lodge chronology; photographic identification remains a visual/spatial inference.'
+    related_evidence:
+    - E-350
+
+  - id: S-378
+    name: Oregon Encyclopedia reproduction of OHS 371N5709
+    url: https://www.oregonencyclopedia.org/articles/oregon-city/
+    notes: 'Type: Secondary historical encyclopedia image caption / reproduction; **VISUALLY COMPARED 16 September
+      2026**.
+
+      URL: https://www.oregonencyclopedia.org/articles/oregon-city/
+
+      Caption: **“Oregon City, c. 1930.”**
+
+      Credit printed by Oregon Encyclopedia: **Oregon Historical Society Research Library, Journal, 371A5709**.
+
+      Related source/evidence/media: `S-376` / `E-350` / `IMG-0774`.
+
+      Notes:
+
+      - The reproduced image is visually the **same exposure** as OHS `371N5709` / the steward-supplied photograph.
+
+      - Oregon Encyclopedia gives the more specific secondary date **c. 1930**.
+
+      - Preserve the identifier discrepancy exactly as printed: Oregon Encyclopedia credits `371A5709`, while
+      the current OHS Digital Collections catalog uses `371N5709`. Do not silently normalize A→N without an institutional
+      explanation.
+
+      - Treat c.1930 as a **secondary dating clue**, not as a replacement for OHS''s institutional 1923–1936
+      creation range.'
+    related_evidence:
+    - E-350
+
+  - id: S-379
+    name: CCFHS PC050, Section of Oregon City from the Bridge
+    url: https://www.clackamascountyfamilyhistory.org/photo-gallery
+    notes: 'Type: External historical postcard image / local-history gallery; **VISUALLY REVIEWED 16 September
+      2026**.
+
+      Institution/site: Clackamas County Family History Society.
+
+      Gallery wording: **PC050 — “Section of Oregon City from the Bridge, Mt. Hood in distance. Dated April 21,
+      1921. 1888 suspension bridge.”**
+
+      Gallery: https://www.clackamascountyfamilyhistory.org/photo-gallery
+
+      Direct public image: https://images.squarespace-cdn.com/content/v1/690a3ed512f2ba14fd7549b6/9f18a9c7-848d-4f5d-addf-2fef1edbec87/Scan_20260102.png
+
+      Related evidence: `E-351`.
+
+      Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+
+      Notes: the available derivative does not show the later 501/503/505 frontage clearly enough for a defensible
+      individual-building comparison. Preserve “Dated April 21, 1921” as gallery wording; do not silently convert
+      it to an exact photographic exposure date without reverse/catalog provenance.'
+    related_evidence:
+    - E-351
+
+  - id: S-380
+    name: West Linn Historical Society temporary pedestrian bridge photograph
+    url: https://www.westlinnhistory.org/history/bridges
+    notes: 'Type: External local-history photograph / bridge-construction chronology.
+
+      URL: https://www.westlinnhistory.org/history/bridges
+
+      Caption: **“Interim pedestrian bridge during construction of Oregon City/West Linn Bridge, 1921.”**
+
+      Related evidence: `E-351`.
+
+      Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+
+      Notes: same page says present bridge construction began 29 July 1921 and was completed December 1922. Old
+      Oregon Photos labels what appears to be the same or a closely related exposure **c.1922**; exact exposure
+      year therefore remains unresolved pending original-negative provenance.'
+    related_evidence:
+    - E-351
+
+  - id: S-381
+    name: OHS 376G0143 / 376G0144 old Oregon City suspension bridge negatives
+    url: https://digitalcollections.ohs.org/1888-oregon-city-suspension-bridge
+    notes: 'Type: Primary institutional photograph metadata / Oregon Journal Photographic Negatives.
+
+      Institution: Oregon Historical Society.
+
+      Records: **376G0143** and **376G0144**, both titled **“1888 Oregon City suspension bridge?”**, institutional
+      range **1902–1922**.
+
+      Public records: https://digitalcollections.ohs.org/1888-oregon-city-suspension-bridge and https://digitalcollections.ohs.org/bridges-oregon-oregon-city
+
+      Related evidence: `E-351`.
+
+      Notes: bridge views are potentially useful pre-1922 controls, but the institutional range is too broad
+      to call either image 1921 and no currently reviewed catalog description establishes readable 501/503/505
+      frontage.'
+    related_evidence:
+    - E-351
+
+  - id: S-382
+    name: Official / ODOT Oregon City Arch Bridge construction photo galleries
+    url: https://www.orcity.org/811/Arch-Bridge
+    notes: 'Type: Official/public bridge-construction photograph collections / research lead.
+
+      City of Oregon City gallery: https://www.orcity.org/811/Arch-Bridge — early-1920s Arch Bridge construction
+      photographs, credited to Army Corps of Engineers.
+
+      ODOT/Flickr copy set: https://www.flickr.com/photos/39291536@N04/albums/72157624523289427 — five images
+      labeled `00357_c1922_048`, `00357_c1922_010`, `00357_c1922_032`, `00357_c1922_011`, `00357_c1922_025`.
+
+      Related evidence: `E-351`.
+
+      Notes: these images document the 1920–1922 construction sequence but currently do not establish an exact
+      1921 target-frontage photograph. Individual exact exposure dates remain unproved from the public gallery
+      text.'
+    related_evidence:
+    - E-351
+
+  - id: S-383
+    name: Eugene Register, 10 November 1929, “Oregon City and McLoughlin”
+    url: https://oregonnews.uoregon.edu/lccn/sn96088119/1929-11-10/ed-1/seq-6/
+    notes: 'Type: Primary newspaper editorial / centennial-special-edition existence control.
+
+      Publication/date/page: *Eugene Register*, **10 November 1929**, page **6**.
+
+      Canonical page: https://oregonnews.uoregon.edu/lccn/sn96088119/1929-11-10/ed-1/seq-6/
+
+      Related evidence: `E-352`.
+
+      Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+
+      Notes: editorial states that the centennial of McLoughlin''s founding of Oregon City had **“just”** been
+      observed by the Enterprise with a **“splendid special edition.”** This directly proves existence of a late-1929
+      Enterprise centennial special edition before 10 Nov.; it does not identify its exact issue date, illustrations,
+      photographer, or any relationship to OHS 371N5706/5707/5709.'
+    related_evidence:
+    - E-352
+
+  - id: S-384
+    name: OHS 371N5706 / 371N5707 Oregon City comparison negatives
+    url: https://staff.digitalcollections.ohs.org/hawley-pulp-and-paper-mill-oregon-city-oregon
+    notes: 'Type: Primary institutional photograph metadata / Oregon Journal Photographic Negatives.
+
+      Institution: Oregon Historical Society.
+
+      Records:
+
+      - **371N5706 — Hawley Pulp and Paper mill, Oregon City, Oregon**, 1923–1936; number **4** on negative;
+      OHS explicitly says it may be related to 371N5709.
+
+      - **371N5707 — McLoughlin House, Oregon City, Oregon**, 1923–1936; text “McLoughlin House” written on negative.
+
+      Primary OHS records: https://staff.digitalcollections.ohs.org/hawley-pulp-and-paper-mill-oregon-city-oregon
+      and https://digitalcollections.ohs.org/oregon-city
+
+      Related evidence: `E-352`; cross-reference `S-376`, `S-378`.
+
+      Capture: `evidence/source-captures/2026-09-16-1929-centennial-ohs-371n5709-dating-hypothesis.md`.
+
+      Notes: OHS''s reciprocal 5706↔5709 relation and visible numbers 4/5 support a likely related pair; OHS
+      does **not** explicitly relate 5707 to them. Identifier adjacency alone is not a dating method.'
+    related_evidence:
+    - E-352
+
+  - id: S-385
+    name: Old Oregon / CCHS Ralph Eddy B10 temporary bridge construction photograph
+    url: https://www.oldoregonphotos.com/building-the-temporary-bridge-at-willamette-falls-1921.html
+    notes: 'Type: Secondary publication of a primary CCHS original negative / exact-year photo lead; **VISUALLY
+      REVIEWED 16 September 2026**.
+
+      Title: **Building the Temporary Bridge at Willamette Falls - 1921**.
+
+      URL: https://www.oldoregonphotos.com/building-the-temporary-bridge-at-willamette-falls-1921.html
+
+      Old Oregon metadata: photographer **Ralph Eddy**; location **Oregon City / West Linn / Willamette Falls
+      / Clackamas County**; original type **Original Negative**; original size **4.3 × 5.4 inches**; photographer''s
+      number **B10**. Old Oregon states that its print is restored from the original negative courtesy of the
+      Clackamas County Historical Society.
+
+      Related evidence: `E-351`.
+
+      Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
+
+      Notes: This is a newly located explicit-1921 construction image. It primarily shows the temporary footbridge
+      and river/construction scene rather than a readable 501/503/505 frontage. The **B10** photographer number
+      is a high-value provenance lead: adjacent Ralph Eddy B-series negatives may belong to the same bridge-construction
+      sequence and could contain Oregon City street/background views.'
+    related_evidence:
+    - E-351
+
+  - id: S-386
+    name: CCHS:P-542, Peerless Bakery, Oregon City, 1921
+    url: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/peerless-bakery-oregon-city-1921
+    notes: 'Type: Primary institutional photograph metadata / exact-year Oregon City photograph; **VISUALLY REVIEWED
+      16 September 2026**.
+
+      Institution: Clackamas County Historical Society.
+
+      Catalog ID: **P-542**; other numbers **B.0155.000235 / B-0155-000235**.
+
+      Title/description: **Peerless Bakery, Oregon City, 1921.**
+
+      Date made: **1921**.
+
+      Record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/peerless-bakery-oregon-city-1921.
+
+      Related evidence: `E-351`.
+
+      Notes: Public image is an **interior bakery view**, not a usable Main/Fourth/Fifth/Sixth streetscape. Independent
+      24 Oct. 1918 Oregon City Courier business-directory evidence places Peerless Bakery (E. Young, proprietor)
+      at **903 7th**, so it is outside the target 4th–6th area and does not provide target-frontage evidence.'
+    related_evidence:
+    - E-351
+
+  - id: S-387
+    name: Oregon City Courier, 9 February 1912, page 5 — Cox & Ward dissolution
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5/
+    notes: "Type: Primary newspaper page; original University of Oregon Historic Oregon Newspapers scan **VISUALLY\
+      \ VERIFIED 19 September 2026**.  \nPublication/date/page: *Oregon City Courier*, 9 February 1912, p.5 /\
+      \ archive sequence 5.  \nCanonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5/\
+      \  \nCanonical scan PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5.pdf  \nRepository\
+      \ capture: `evidence/source-captures/1912-courier-february09-visual-review-2026-09-19.md`.  \nRelated evidence/business/lead:\
+      \ `E-353`; `BUS-108`; `RL-053`.  \nNotes: The scan visibly reports Cox & Ward as Main Street tobacco dealers\
+      \ and billiard-room proprietors, the dissolution of their partnership, and Mr. Ward's sale to his partner.\
+      \ Exact street number and given names are not printed. No repository page binary was added in this connector-only\
+      \ pass; the stable institutional original was inspected directly."
+    related_evidence:
+    - E-353
+
+  - id: S-388
+    name: Oregon City Courier, 1 and 8 March 1912 — Steiner/Beaver Creek correction and complete issue review
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-01/ed-1/
+    notes: "Type: Primary newspaper pages; original University of Oregon Historic Oregon Newspapers scans **VISUALLY\
+      \ VERIFIED 19 September 2026**.  \nDates/issues: *Oregon City Courier*, **1 March 1912** and **8 March\
+      \ 1912**, all 8 archive sequences in each issue.  \nCanonical issues:\n- https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-01/ed-1/\n\
+      - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-08/ed-1/\n\nIdentity-control comparison pages\
+      \ also visually inspected:\n- 26 February 1914, p.7: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/\n\
+      - 5 March 1914, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-03-05/ed-1/seq-5/\n\nRepository\
+      \ capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`.  \nRelated\
+      \ evidence: `E-354`.  \nNotes: 1 March prints “F. Steiner, of this place” under a column headed Clear Creek\
+      \ and then calls him Fred. The 8 March issue explicitly corrects the prior week's heading error, stating\
+      \ the Beaver Creek items had been printed under Clear Creek; its corrected Beaver Creek column directly\
+      \ names Fred Steiner. The 1914 pages independently place Fred Steiner as a Beaver Creek resident. This\
+      \ is identity/location control only; it does not prove or disprove identity with the probable Fred Steiner\
+      \ tenant transcription at 503½ Main."
+    related_evidence:
+    - E-354
+
+  - id: S-389
+    name: Oregon City Shoe Store / Justin S. Lageson / 508 Main primary advertisements
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-01-28/ed-1/seq-6/
+    notes: "Type: Primary newspaper advertisements; original Historic Oregon Newspapers scans **VISUALLY VERIFIED\
+      \ 19 September 2026**.\n\nPrimary pages:\n- *Oregon City Courier*, 28 Jan. 1910, p.6: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-01-28/ed-1/seq-6/\n\
+      - *Oregon City Enterprise*, 1 Apr. 1910, p.5: https://oregonnews.uoregon.edu/lccn/sn00063700/1910-04-01/ed-1/seq-5/\n\
+      - *Oregon City Courier*, 26 Apr. 1912, p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-04-26/ed-1/seq-8/\n\
+      \nRelated: `E-355`; `BUS-109`; `P-403`.  \nCapture: `evidence/source-captures/1910-1912-oregon-city-shoe-store-lageson-508-main-separation-2026-09-19.md`.\n\
+      \nNotes: Jan. 1910 visually prints Oregon City Shoe Store, Justin S. Lageson, and Opposite Postoffice.\
+      \ Apr. 1910 directly prints Justin S. Lageson, Prop. / Main Street. Apr. 1912 visually prints Oregon City\
+      \ Shoe Store / 508 Main St. / Opposite Postoffice. The 1912 ad does not name Lageson, so proprietor continuity\
+      \ is not assumed."
+    related_evidence:
+    - E-355
+
+  - id: S-390
+    name: Morning Oregonian, 10 September 1920, p.20 — K. Schoenheinz shoemaker wanted
+    url: https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/
+    notes: "Type: Primary newspaper classified advertisement; original University of Oregon scan **VISUALLY VERIFIED\
+      \ 19 September 2026**.  \nPrimary page: https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/\
+      \  \nRelated evidence: `E-356`.  \nRelated capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.\n\
+      \nNotes: The Help Wanted—Male classifieds directly print **SHOEMAKER wanted. Oregon City. K. Schoenheinz.**\
+      \ Preserve the initial exactly as printed. The source gives no street address, full given name, shop trade\
+      \ name, or relation to 503 Main."
+    related_evidence:
+    - E-356
+
+  - id: S-391
+    name: 1912 Main/Eighth moving-picture block → Star Theatre opening chain
+    url: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-02/ed-1/seq-1/
+    notes: "Type: Primary newspaper construction/opening evidence + university research-project clipping control;\
+      \ **VISUALLY VERIFIED where noted**.  \n\nPrimary components:\n- *Oregon City Courier*, **2 February 1912**,\
+      \ p.1: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-02/ed-1/seq-1/ — direct Main/Eighth Mt. Hood\
+      \ Brewing Co. lease/redevelopment article; planned moving-picture theatre; George Simmons already held\
+      \ long-term theatre lease.\n- *Oregon City Courier*, **24 May 1912**, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-24/ed-1/seq-5/\
+      \ — original scan visually verified; unnamed new motion-picture theatre on Main Street nearly ready to\
+      \ open.\n- *Morning Enterprise*, **31 May 1912**, p.3, “STAR THEATRE WILL OPEN TOMORROW” — primary clipping\
+      \ visually reviewed via the University of Oregon Oregon Theater Project: https://oregontheaterproject.uoregon.edu/theaters/star-theater-4\
+      \ ; clipping image hosted there. The clipping directly names George Simmons, says the building was on Main\
+      \ Street near Eighth, constructed especially for motion pictures, seating 300, and would open the next\
+      \ evening.\n\nRepository capture: `evidence/source-captures/1912-courier-may24-visual-review-star-theatre-2026-09-19.md`.\
+      \  \nRelated evidence/business: `E-357`; `BUS-110`.  \nNotes: The May 24 unnamed-theatre notice is a **strong\
+      \ cross-source continuity match** to the February Main/Eighth planned theatre and the May 31 Star opening,\
+      \ but the May 24 item itself does not print the Star name or Simmons. Later numbered-address sources conflict\
+      \ (716 vs 720 Main); the controlling 1912 location is Main at/near Eighth."
+    related_evidence:
+    - E-357

@@ -40,7 +40,7 @@ No 1921 Oregon City Sanborn edition was identified in the official City/Library 
 
 ### Photographs
 
-The dedicated 1921/immediate-pre-fire online photo search reviewed CCFHS, CCHS, OHS, West Linn Historical Society, City/Army Corps/ODOT bridge-construction material and Old Oregon derivatives. Exact-1921 material exists, including the dated PC050 postcard lead, Ralph Eddy B10 temporary-bridge image and CCHS P-542, but no newly recovered exact-1921 photograph supplies a defensible readable 501/503/505 frontage.
+The dedicated 1921/immediate-pre-fire online photo search reviewed CCFHS, CCHS, OHS, West Linn Historical Society, City/Army Corps/ODOT bridge-construction material and Old Oregon derivatives. Exact-1921 material exists, including the dated PC050 postcard lead, Ralph Eddy B10 temporary-bridge image and CCHS:P-542, but no newly recovered exact-1921 photograph supplies a defensible readable 501/503/505 frontage.
 
 Primary capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
 

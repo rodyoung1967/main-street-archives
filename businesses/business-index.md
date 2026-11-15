@@ -252,3 +252,9 @@ These records were already part of the evidence narrative but previously lacked 
 | --- | --- | --- | --- |
 | BUS-110 | [Star Theatre](star-theatre-1912.md) | Main Street at/near Eighth; exact 1912 number unresolved | Feb. 1912 planned Mt. Hood Brewing Co. block theatre leased by George Simmons; 24 May unnamed Main Street theatre nearly open; 31 May Morning Enterprise directly names Star Theatre under Simmons opening June 1 near Eighth. Strong continuity; explicit non-target construction control. Later 716-vs-720 Main metadata conflict preserved. `E-357` / `S-391`. |
 
+
+## 1922 Schoenheinz repair-shop advertising control
+
+| ID | Business | Address / location | Notes |
+| --- | --- | --- | --- |
+| BUS-111 | [Schoenheinz Shoe Repair Shop](schoenheinz-shoe-repair-shop-1922.md) | Pacific Highway Garage Building, Oregon City; number unresolved | Sep29 1922 original advertisement; proprietor unnamed. No merge with 503 tenant or 716 Main earlier shop. `E-359` / `S-393`. |

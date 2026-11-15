@@ -3343,10 +3343,10 @@ Related evidence: `E-351`.
 Capture: `evidence/source-captures/2026-09-16-1921-photo-search-evaluation.md`.
 Notes: This is a newly located explicit-1921 construction image. It primarily shows the temporary footbridge and river/construction scene rather than a readable 501/503/505 frontage. The **B10** photographer number is a high-value provenance lead: adjacent Ralph Eddy B-series negatives may belong to the same bridge-construction sequence and could contain Oregon City street/background views.
 
-## S-386 — CCHS P-542, Peerless Bakery, Oregon City, 1921
+## S-386 — CCHS:P-542, Peerless Bakery, Oregon City, 1921
 Type: Primary institutional photograph metadata / exact-year Oregon City photograph; **VISUALLY REVIEWED 16 September 2026**.
 Institution: Clackamas County Historical Society.
-Catalog ID: **P-542**; other numbers **B.0155.000235 / B-0155-000235**.
+Catalog ID: **CCHS:P-542**; other numbers **B.0155.000235 / B-0155-000235**.
 Title/description: **Peerless Bakery, Oregon City, 1921.**
 Date made: **1921**.
 Record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/peerless-bakery-oregon-city-1921.
@@ -3417,3 +3417,16 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-07/ed-1/seq-2/
 Retained files: `newspapers/banner-courier/1922-09/1922-09-07-seq-02.pdf`; `newspapers/banner-courier/1922-09/1922-09-07-seq-08.pdf`.
 Related evidence: `E-358`; business `BUS-071`; person `P-046`.
 Capture: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
+
+**S-392 September extension:** 28 September 1922 Banner-Courier p.2 / seq2, https://oregonnews.uoregon.edu/lccn/sn00063699/1922-09-28/ed-1/seq-2/ ; retained `newspapers/banner-courier/1922-09/1922-09-28-seq-02.pdf`. Original visually verified 15 November 2026; directly prints Miller’s Store, 419 Main and Gilbert Miller signature. See `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
+
+
+## S-393 — Enterprise, 29 September 1922 p.8 — Schoenheinz Shoe Repair Shop advertisement
+
+Type: Original newspaper page advertisement; **VISUALLY VERIFIED 15 November 2026**.
+Publication/date/page: *Oregon City Enterprise*, 29 September 1922, p.8 / sequence 8.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-09-29/ed-1/seq-8/
+Repository file: `newspapers/oregon-city-enterprise/1922-09/1922-09-29-seq-08.pdf`.
+Notes: Direct business name and Pacific Highway Garage Building, Oregon City; no named proprietor or numbered address.
+Related: `E-359`; `BUS-111`.
+Capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`.
