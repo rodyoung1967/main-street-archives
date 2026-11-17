@@ -264,3 +264,10 @@ These records were already part of the evidence narrative but previously lacked 
 
 
 October26 continuation (visually verified15 November2026): Banner-Courier p8 repeats unnumbered LELAND AND LITTLE, Billiards and QUALITY CAFE, separately McAnulty/Barry cigars/restaurant and Junken contractor/builder. E-126/E-181/S-141; BUS-077/BUS-089; T-035. No503/505 address, shared ownership, identity merger, succession or Gates completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+
+## November 1922 neighboring grocery anchor
+
+| ID | Business | Address | Evidence |
+| --- | --- | --- | --- |
+| BUS-112 | [Doolittle & Son](doolittle-son.md) | 509 Main, Oregon City | 23 Nov. 1922 grocery ad, phone 74; dated representation only, no property ownership or 503/505 tenancy. E-361/S-396. |

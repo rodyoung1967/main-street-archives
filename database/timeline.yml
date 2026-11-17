@@ -426,6 +426,7 @@ timeline:
     related_businesses: [BUS-076, BUS-077]
 
   - id: T-036
+    november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     october26_control: "Miller’s Shoe Store419 Main ad reaffirmed; separate Portland Overtire209 Fifth ad."
@@ -1117,6 +1118,7 @@ timeline:
     related_buildings: [B-005, B-001, B-002]
 
   - id: T-110
+    november23_control: "23 November 1922 Banner-Courier p6 visually verified 17 November 2026 repeats the Block 4 alley Main–Water notice with the already-past November 10 hearing date (E-360/S-394/T-110). No rescheduling or final acceptance resolution follows. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p6, original visually verified15 November2026: repeats E-360/S-394 Block4 alley Main–Water filed completion-certificate notice and future November10 hearing. Does not resolve administrative-stage tension with Enterprise November3 report. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     date: 2–3 November 1922 reports
@@ -1131,3 +1133,13 @@ timeline:
     related_sources:
     - S-394
     - S-395
+
+
+  - id: T-111
+    date: 1922-11-23
+    title: Doolittle & Son grocery advertising at 509 Main
+    summary: Banner-Courier p9 directly advertises groceries at 509 Main, phone 74; dated business representation, no property ownership or 503/505 tenancy.
+    confidence: DOCUMENTED / DIRECT; original visually verified November 17 2026
+    related_evidence: [E-361]
+    related_sources: [S-396]
+    related_businesses: [BUS-112]

@@ -350,3 +350,11 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 | --- | --- | --- | --- | --- |
 | 2 Feb.–1 Jun. 1912 | Main Street at/near Eighth | Mt. Hood Brewing Co. block moving-picture theatre → Star Theatre; George Simmons | `BUS-110`; `E-357` / `S-391` | Strong same-project continuity from planned/leased theatre through opening. Explicitly outside 501–511 target frontage. Exact 1912 street number unresolved; later 716/720 metadata conflict preserved. |
 
+
+
+### November 23 Miller address control
+
+23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+
+| 23 November 1922 | 509 Main | Doolittle & Son, grocery ad, phone 74 | BUS-112 | E-361 / S-396 | Dated advertising only; no property ownership, 503/505 tenancy or uninterrupted operation inferred. |

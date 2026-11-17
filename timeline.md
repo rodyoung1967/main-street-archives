@@ -767,3 +767,15 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 ### November16 carried Block4 alley notice
 
 November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
+
+
+### November 23 dated controls
+
+23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+23 November 1922 Banner-Courier p6 visually verified 17 November 2026 repeats the Block 4 alley Main–Water notice with the already-past November 10 hearing date (E-360/S-394/T-110). No rescheduling or final acceptance resolution follows. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+
+### 23 November 1922 — Doolittle & Son at 509 Main
+
+`T-111`: Original grocery advertisement directly prints Doolittle & Son, 509 Main, phone 74. Dated neighboring-frontage business/address anchor; no property ownership or 503/505 tenancy inferred (E-361/S-396; BUS-112).

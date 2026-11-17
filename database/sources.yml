@@ -2691,6 +2691,7 @@ sources:
     notes: "UO title metadata identifies Oregon City Enterprise (LCCN sn00063700) as weekly and Morning Enterprise (LCCN sn00063701) as daily except Monday, 1911-1933. ODNP states the daily began in 1911 while the weekly continued under Oregon City Enterprise. For 1926 microfilm use the exact title pair weekly Oregon City Enterprise + daily Morning Enterprise; this does not identify the missing Kwality ad."
 
   - id: S-392
+    november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     october26_control: "Original retained1922-10-26-seq-02.pdf visually verified; Miller419 reaffirmed, no proprietor signature printed in this ad. evidence/source-captures/2026-11-15-1922-october26-27-content-review.md"
@@ -3054,6 +3055,7 @@ sources:
     - E-357
 
   - id: S-394
+    november23_control: "23 November 1922 Banner-Courier p6 visually verified 17 November 2026 repeats the Block 4 alley Main–Water notice with the already-past November 10 hearing date (E-360/S-394/T-110). No rescheduling or final acceptance resolution follows. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p6, original visually verified15 November2026: repeats E-360/S-394 Block4 alley Main–Water filed completion-certificate notice and future November10 hearing. Does not resolve administrative-stage tension with Enterprise November3 report. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
     name: Banner-Courier, November 2 1922 p9 — Block 4 alley completion/acceptance notice
@@ -3075,3 +3077,11 @@ sources:
       tension with S-394 preserved.
     related_evidence:
     - E-360
+
+
+  - id: S-396
+    name: Banner-Courier, 23 November 1922 p9 — Doolittle & Son advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-9/
+    repository_file: newspapers/banner-courier/1922-11/1922-11-23-seq-09.pdf
+    notes: Original visually verified November 17 2026; 509 Main, phone 74, grocery advertising.
+    related_evidence: [E-361]

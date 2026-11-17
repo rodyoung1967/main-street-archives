@@ -35,3 +35,8 @@ November9 1922 Banner-Courier p8, original visually verified15 November2026: MIL
 ### November16 Miller address control
 
 November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
+
+
+### November 23 Miller address control
+
+23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md

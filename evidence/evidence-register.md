@@ -3691,3 +3691,19 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 ### November16 carried Block4 alley notice
 
 November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
+
+
+### November 23 dated controls
+
+23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+23 November 1922 Banner-Courier p6 visually verified 17 November 2026 repeats the Block 4 alley Main–Water notice with the already-past November 10 hearing date (E-360/S-394/T-110). No rescheduling or final acceptance resolution follows. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+
+## E-361 — Doolittle & Son advertises groceries at 509 Main in November 1922
+
+Type: Primary newspaper advertisement; **DOCUMENTED / DIRECT — VISUALLY VERIFIED 17 November 2026**.
+Confidence: Very High for printed firm, address, telephone and advertised goods; ownership and continuity unresolved.
+Sources: S-396.
+Claims: Banner-Courier 23 November 1922 p9 directly prints **Doolittle & Son**, **509 Main St.**, **Phone 74**, Oregon City, advertising Thanksgiving groceries. Dated neighboring-frontage anchor, not a deed, 503/505 tenant, opening date or physical-building identity. No proprietor given name supplied.
+Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`.

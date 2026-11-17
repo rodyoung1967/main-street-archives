@@ -1,6 +1,6 @@
 # 1922 — ordered requirements for ONLINE COMPLETE
 
-Updated **15 November 2026**. Current status: **IN PROGRESS**.
+Updated **17 November 2026**. Current status: **IN PROGRESS**.
 Canonical supporting audit: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
 
 ## 1. Finish visual content review — first priority
@@ -13,13 +13,13 @@ January–August: prior records document content review of 615 page images, subj
 | --- | ---: | ---: | ---: |
 | September | 77 | 77 | 0 |
 | October | 72 | 72 | 0 |
-| November | 80 | 44 | 36 |
+| November | 80 | 64 | 16 |
 | December | 84 | 0 | 84 |
-| Total | 313 | 193 | 120 |
+| Total | 313 | 213 | 100 |
 
-These are page-image work counts, not 808 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
+These are page-image work counts, not 828 entirely intact certified pages. Selected November/December notices already have item-specific visual verification; that does not clear the rest of those pages. Per-page `exhaustive_content_review_status` is now in the September–December monthly manifests.
 
-**Resume:** Banner-Courier **16 November 1922, sequence 9**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. October5/6/12 adds28 pages; capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`. October13/20 Enterprise and October19 Banner add26 pages; capture `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`. Full checkout restored; full validator passed before and after the continuation. October26/27 adds18 pages and completes October72/72; capture `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`. November2/3 adds18 pages (November18/80); Block4 alley public-work reports, acceptance-stage tension and November2 p10 stale October26 header preserved in `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`. November9/10 adds18 surviving page-image reviews (November36/80); Miller419 and alley notice repeat in `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`; MF-074 p7/p8 losses remain. November16seq1–8 adds8 page images before steward save (November44/80), capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`; sequences9–10 are not reviewed. Record each new batch immediately, including bounded no-hits and non-target controls.
+**Resume:** Enterprise **24 November 1922, sequence 1**, then all still-pending pages chronologically across both titles. September is complete as page-image content screening, subject to original damage. Continued capture: `evidence/source-captures/2026-11-15-1922-september-continued-full-page-review.md`. October5/6/12 adds28 pages; capture `evidence/source-captures/2026-11-15-1922-october-full-page-content-review.md`. October13/20 Enterprise and October19 Banner add26 pages; capture `evidence/source-captures/2026-11-15-1922-october13-27-content-review.md`. Full checkout restored; full validator passed before and after the continuation. October26/27 adds18 pages and completes October72/72; capture `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`. November2/3 adds18 pages (November18/80); Block4 alley public-work reports, acceptance-stage tension and November2 p10 stale October26 header preserved in `evidence/source-captures/2026-11-15-1922-november02-03-content-review.md`. November9/10 adds18 surviving page-image reviews (November36/80); Miller419 and alley notice repeat in `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`; MF-074 p7/p8 losses remain. November16seq1–8 adds8 page images before steward save (November44/80), capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`; sequences9–10 are not reviewed. Record each new batch immediately, including bounded no-hits and non-target controls.
 
 ## 2. Finish damaged-source recovery
 
@@ -54,3 +54,7 @@ This is a source-class work plan, **not a certification that these classes are a
 Prepare the required source-class coverage, all conflicts/OCR leads/gaps, **one numbered 1922 manual-work list**, and non-negative-evidence statement. Link existing MF-006, MF-007, MF-011, MF-013, MF-014, MF-019, relevant MF-021/MF-041 and the new MF-074/075/076 without duplicating requests. Then synchronize this checklist, the year-status register, all manifests and related records. Only after those conditions may the exact status become **ONLINE COMPLETE**.
 
 No institutional request has been sent and no fee authorized. Historical construction/occupancy questions may remain unresolved after ONLINE COMPLETE; missing answers alone do not require endless equivalent online searches.
+
+## 17 November continuation
+
+20 additional original page images reviewed; annual **828/928**, November **64/80**, December **0/84**, **100 pending**. Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`. November 16 p10 stale-header qualification, November 23 Miller/alley repeats and new Doolittle & Son/509 Main ad integrated. November 23 p4 edge loss/p5 show-through are additional ONLINE-FIRST recovery checks. Earlier dated checkpoints above remain historical counts.

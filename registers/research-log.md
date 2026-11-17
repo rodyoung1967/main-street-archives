@@ -1449,3 +1449,8 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 - Ordered checklist: registers/1922-online-completion-checklist.md. Detailed source/coverage/integration capture: evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md.
 - Startup archive validator crashed on existing BUS-109 YAML indentation; repaired that indentation. Executable baseline then reports 46 pre-existing errors. Final validation result is retained in the checkpoint; no pass claimed.
 - Next whole-page content resume: Enterprise 1 Sep 1922 seq1; next Banner issue 14 Sep seq1 (seq9 already done). 1922 remains IN PROGRESS.
+
+
+## 17 November 2026 — 1922 November 16–23 visual continuation
+
+20 original page images visually reviewed; annual 828/928, November64/80, 100 pending. See `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md` for every page, source damage, stale header and propagation decisions. Doolittle & Son grocery ad at509 Main added as E-361/S-396/BUS-112/T-111. Miller419 and carried alley notice extended. No target construction date or tenant succession proved. Next Enterprise November24 seq1. 1922 IN PROGRESS; no request sent or fee authorized.

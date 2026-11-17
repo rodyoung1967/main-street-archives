@@ -3491,3 +3491,20 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360/S-394/T-110 Block4 alley Main–Water notice with already-past November10 hearing date. Carried notice supplies no rescheduling or final acceptance resolution. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`.
 
 Repetition originals: `newspapers/banner-courier/1922-11/1922-11-16-seq-08.pdf` / https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-16/ed-1/seq-8/ (S-392); `1922-11-16-seq-06.pdf` / https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-16/ed-1/seq-6/ (S-394). Original hashes in November manifest.
+
+
+### November 23 dated controls
+
+23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+23 November 1922 Banner-Courier p6 visually verified 17 November 2026 repeats the Block 4 alley Main–Water notice with the already-past November 10 hearing date (E-360/S-394/T-110). No rescheduling or final acceptance resolution follows. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+
+## S-396 — Banner-Courier, 23 November 1922 p9 — Doolittle & Son advertisement
+
+Type: Primary newspaper advertisement; original **VISUALLY VERIFIED 17 November 2026**.
+Publication: The Banner-Courier, 23 November 1922, p9 / sequence 9.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-9/
+Repository file: `newspapers/banner-courier/1922-11/1922-11-23-seq-09.pdf`.
+Related evidence/business: E-361; BUS-112.
+Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`.
