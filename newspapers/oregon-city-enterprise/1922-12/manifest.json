@@ -24,7 +24,9 @@
           "ocr_bytes": 27319,
           "ocr_sha256": "7c7a68b35e57dde9f9c7e8aaa57bfcc0824a3dc9e18060b93299c04d3ee7ddc9",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md",
+          "content_review_date_exception": "Stale printed November1 header; issueNo48, otherDecember1headers and lateNovemberbody/legalnotices establishDecember1issue; retain archival date."
         },
         {
           "sequence": 2,
@@ -37,7 +39,8 @@
           "ocr_bytes": 32200,
           "ocr_sha256": "585c7d00e61f7a5f589e1f3917b9c6ee378107574f4ee43f72a739533d5c2045",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md"
         },
         {
           "sequence": 3,
@@ -50,7 +53,8 @@
           "ocr_bytes": 28672,
           "ocr_sha256": "cd762a91b4467ca429416c0010a31b43a56ae5962f92499355d8e8bd48fdf869",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md"
         },
         {
           "sequence": 4,
@@ -63,7 +67,9 @@
           "ocr_bytes": 33813,
           "ocr_sha256": "96fd4e2bcd33b9372fe403d374009cd57bf9c2d4c77474a3d47bc175c9efa0a0",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md",
+          "content_review_date_exception": "Stale printed November1 header; issueNo48, otherDecember1headers and lateNovemberbody/legalnotices establishDecember1issue; retain archival date."
         },
         {
           "sequence": 5,
@@ -76,7 +82,8 @@
           "ocr_bytes": 30618,
           "ocr_sha256": "a1d688db3d8bebc1b02983c828b50f3ab720078ecb9fade854186236e82c84cd",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md"
         },
         {
           "sequence": 6,
@@ -89,7 +96,8 @@
           "ocr_bytes": 30192,
           "ocr_sha256": "97efa160b04859ef2d56ddaf3db7dda3bbbaf41dfc41633269d902c0783b67f4",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md"
         },
         {
           "sequence": 7,
@@ -102,7 +110,8 @@
           "ocr_bytes": 35451,
           "ocr_sha256": "8c7b93c3e16ab75cb1bc77d52cb5c7fd1ada9968425fde55bc1856c6a187031a",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md"
         },
         {
           "sequence": 8,
@@ -115,7 +124,9 @@
           "ocr_bytes": 28093,
           "ocr_sha256": "fb057b1497f55bed2f673b44a5760b98d66fc8af9cc3c73b595b2731756343a4",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december01-07-visual-review.md",
+          "content_review_date_exception": "Stale printed November1 header; issueNo48, otherDecember1headers and lateNovemberbody/legalnotices establishDecember1issue; retain archival date."
         }
       ]
     },
