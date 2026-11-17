@@ -265,7 +265,8 @@
           "ocr_bytes": 29372,
           "ocr_sha256": "a9d9249f73594cf793f7c439af0c65dfa48a997649efbd4495530d7e89726076",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 2,
@@ -278,7 +279,8 @@
           "ocr_bytes": 33811,
           "ocr_sha256": "9456df557121deb8f2f18198a43aad9cc4a01483a6b204f2e79fbadc4f3da2f6",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 3,
@@ -291,7 +293,8 @@
           "ocr_bytes": 28678,
           "ocr_sha256": "7d240db4fb888556f9007f98c5c48441160fb94fb0d0948e9af33ad6638c9662",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 4,
@@ -304,7 +307,8 @@
           "ocr_bytes": 33025,
           "ocr_sha256": "d177d848402d737256913a8c3a31f70c4e4fdbcea4ebc24d1fe658aad746429f",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 5,
@@ -317,7 +321,8 @@
           "ocr_bytes": 30595,
           "ocr_sha256": "f6f6ccfbc98b4b642270f90a932f101fbf014411e45d5471674427163666de77",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 6,
@@ -330,7 +335,8 @@
           "ocr_bytes": 31974,
           "ocr_sha256": "964e1c3669c6864f76b05382775414dc8769f48eaca3110e6763d20d4443b5b3",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 7,
@@ -343,7 +349,8 @@
           "ocr_bytes": 35606,
           "ocr_sha256": "e022163619f1ba90c14dd30ab48534201b93dcc534248189e7cfc347002ed0d5",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         },
         {
           "sequence": 8,
@@ -356,7 +363,8 @@
           "ocr_bytes": 24280,
           "ocr_sha256": "d0a1a2f121335e079751f35389927fa2c1c97b163a4282652a7c93f33bb3dd69",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md"
         }
       ]
     },
