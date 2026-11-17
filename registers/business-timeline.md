@@ -358,3 +358,12 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 
 | 23 November 1922 | 509 Main | Doolittle & Son, grocery ad, phone 74 | BUS-112 | E-361 / S-396 | Dated advertising only; no property ownership, 503/505 tenancy or uninterrupted operation inferred. |
+
+
+### November 30 Miller advertising control
+
+30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+
+| By30 November1922 report | Exact premises unresolved | Barry and McAnulty pool hall, former restaurant room | BUS-113 | E-362/S-397 | Newspaper reports license granted; no505 assignment or backdated714 Main. |

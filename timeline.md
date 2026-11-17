@@ -779,3 +779,13 @@ November16 1922 Banner-Courier p6 visually verified15 November2026 repeats E-360
 ### 23 November 1922 — Doolittle & Son at 509 Main
 
 `T-111`: Original grocery advertisement directly prints Doolittle & Son, 509 Main, phone 74. Dated neighboring-frontage business/address anchor; no property ownership or 503/505 tenancy inferred (E-361/S-396; BUS-112).
+
+
+### November 30 Miller advertising control
+
+30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+### 30 November 1922 — Barry and McAnulty pool-hall license report
+
+`T-112`: Banner-Courier reports license granted for their former restaurant room. The report gives no address; underlying official record remains unretrieved. Exact1922 location, later714 Main chronology and relationship to other pool halls unresolved (E-362/S-397; BUS-113).

@@ -1002,6 +1002,7 @@ businesses:
     repository_file: businesses/fifth-street-restaurant.md
 
   - id: BUS-071
+    november30_control: "30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
     november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
@@ -1420,3 +1421,12 @@ businesses:
     notes: November 23 1922 grocery advertisement, phone 74; no ownership, continuous-operation or 503/505 tenancy inference.
     related_sources: [S-396]
     related_evidence: [E-361]
+
+
+  - id: BUS-113
+    name: McAnulty & Barry
+    repository_file: businesses/mcanulty-barry.md
+    address: Exact 1922 premises unresolved; later 714 Main not backdated
+    notes: August1922 cigars/restaurant listing; November30 newspaper reports pool-hall license granted for former restaurant room. No503/505 assignment or merger with Timms/Leland/July hall.
+    related_evidence: [E-362]
+    related_sources: [S-141, S-397]

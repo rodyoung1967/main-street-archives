@@ -703,3 +703,8 @@ Keep occupant/use transition separate from building continuity and G. A. Harding
 ### 15 November 2026 — ANNUAL-1922 content-review resume control
 
 Use `registers/1922-online-completion-checklist.md` and `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`. Live 104-issue / 928-page inventory confirmed. September–December content queue now 300 pages after 13 fresh full-page screens; separately preserved targeted checks do not make the other pages complete. Do not repeat the now-resolved signed September 7 Miller/419 Main check or assign 209 Fifth to Miller. Leland & Little's September listings still omit address. No outreach authorized or sent.
+
+
+### 1922 Barry/McAnulty license route synchronization
+
+E-362/S-397/BUS-113 register the November30 grant report without an address. Pursue existing consolidated Recorder request for original November1922 application/bond/minutes and exact premises; do not duplicate outreach or backdate714 Main. Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`.

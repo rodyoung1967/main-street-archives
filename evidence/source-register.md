@@ -3508,3 +3508,18 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-9/
 Repository file: `newspapers/banner-courier/1922-11/1922-11-23-seq-09.pdf`.
 Related evidence/business: E-361; BUS-112.
 Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`.
+
+
+### November 30 Miller advertising control
+
+30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+## S-397 — Banner-Courier, 30 November 1922 p1 — Barry and McAnulty pool-hall license
+
+Type: Primary newspaper report; original **VISUALLY VERIFIED**, rechecked 17 November 2026.
+Publication: The Banner-Courier, 30 November 1922, p1 / sequence1.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-30/ed-1/seq-1/
+Repository file: `newspapers/banner-courier/1922-11/1922-11-30-seq-01.pdf`.
+Related evidence/business: E-362; BUS-113.
+Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`. Newspaper reports grant, not merely application; address unresolved.

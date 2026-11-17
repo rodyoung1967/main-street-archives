@@ -271,3 +271,10 @@ October26 continuation (visually verified15 November2026): Banner-Courier p8 rep
 | ID | Business | Address | Evidence |
 | --- | --- | --- | --- |
 | BUS-112 | [Doolittle & Son](doolittle-son.md) | 509 Main, Oregon City | 23 Nov. 1922 grocery ad, phone 74; dated representation only, no property ownership or 503/505 tenancy. E-361/S-396. |
+
+
+## 1922 McAnulty & Barry integration
+
+| ID | Business | Address | Evidence |
+| --- | --- | --- | --- |
+| BUS-113 | [McAnulty & Barry](mcanulty-barry.md) | Exact 1922 premises unresolved | Cigars/restaurant merchant listing; Nov30 pool-hall license reported granted for former restaurant room. E-362/S-397; earlier S-141. Later714 Main not backdated; no505 assignment. |

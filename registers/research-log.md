@@ -1454,3 +1454,8 @@ Corrected `S-312` / `E-284` / `IMG-0770`: an initial catalog-number-only Catalog
 ## 17 November 2026 — 1922 November 16–23 visual continuation
 
 20 original page images visually reviewed; annual 828/928, November64/80, 100 pending. See `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md` for every page, source damage, stale header and propagation decisions. Doolittle & Son grocery ad at509 Main added as E-361/S-396/BUS-112/T-111. Miller419 and carried alley notice extended. No target construction date or tenant succession proved. Next Enterprise November24 seq1. 1922 IN PROGRESS; no request sent or fee authorized.
+
+
+## 17 November2026 — November visual queue finished
+
+November24/30 adds16 original-page visual screens: November80/80, annual844/928, December84 pending. `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md` preserves all page controls and municipal financial-table limits. Barry/McAnulty report now E-362/S-397/BUS-113/T-112, exact address unresolved. Miller419 repeated November30. 1922 IN PROGRESS; next EnterpriseDecember1 seq1. No requests/fees.

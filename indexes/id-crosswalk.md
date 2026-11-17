@@ -1057,3 +1057,13 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 ### Doolittle & Son November 1922 anchor
 
 BUS-112 ↔ E-361 ↔ S-396 ↔ T-111. Original grocery ad at 509 Main, phone 74; no person or building ID assigned. Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`.
+
+
+### November 30 Miller advertising control
+
+30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+### McAnulty & Barry source integration
+
+BUS-113 ↔ E-362 ↔ S-397 ↔ T-112; earlier merchant list S-141. No1922 address/person/building ID asserted; later714 Main remains a lead.

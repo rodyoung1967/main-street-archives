@@ -5208,6 +5208,7 @@ evidence:
     repository_file: "evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md"
 
   - id: E-358
+    november30_control: "30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
     november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
     november09_control: "November9 1922 Banner-Courier p8, original visually verified15 November2026: MILLER’S SHOE STORE,419 Main, everyday shoes/rubbers/gloves and expert shoe repairing. Adds a dated advertising control to E-358/S-392 (BUS-071/P-046/T-036); no proprietor signature in this ad, new move/opening date, pre-fire numbered premises or private building completion. Capture `evidence/source-captures/2026-11-15-1922-november09-10-content-review.md`."
@@ -5526,3 +5527,15 @@ evidence:
     related_sources: [S-396]
     related_businesses: [BUS-112]
     repository_file: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md
+
+
+  - id: E-362
+    name: Barry and McAnulty pool-hall license reported granted for former restaurant room
+    type: Primary newspaper report; DOCUMENTED / DIRECT, visually verified November17 2026
+    confidence: Very High for printed report; exact1922 address and underlying license unresolved
+    claims:
+    - Banner-Courier November30 1922 p1 reports license granted to Barry and McAnulty for pool hall in room formerly occupied by them as restaurant. No street number or given names printed.
+    - Later714 Main association does not establish1922 address; no503/505 assignment or merger with Leland/Timms/July hall.
+    related_sources: [S-397, S-141]
+    related_businesses: [BUS-113]
+    repository_file: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md

@@ -3707,3 +3707,17 @@ Confidence: Very High for printed firm, address, telephone and advertised goods;
 Sources: S-396.
 Claims: Banner-Courier 23 November 1922 p9 directly prints **Doolittle & Son**, **509 Main St.**, **Phone 74**, Oregon City, advertising Thanksgiving groceries. Dated neighboring-frontage anchor, not a deed, 503/505 tenant, opening date or physical-building identity. No proprietor given name supplied.
 Capture: `evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md`.
+
+
+### November 30 Miller advertising control
+
+30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+## E-362 — Barry and McAnulty pool-hall license reported granted for former restaurant room
+
+Type: Primary newspaper report; **DOCUMENTED / DIRECT — VISUALLY VERIFIED**, rechecked 17 November 2026.
+Confidence: Very High for newspaper wording; underlying municipal license and 1922 address unresolved.
+Sources: S-397; earlier restaurant listing S-141.
+Claims: Banner-Courier 30 November 1922 p1, **Granted Pool Hall License**, reports Barry and McAnulty have been granted a pool-hall license for the room formerly occupied by them as a restaurant. No address or given names printed. Earlier merchant listing describes McAnulty and Barry, Cigars, Restaurant. No505 assignment or merger with Leland & Little/Timms/July hall. Later714 Main remains an unproved 1922 location.
+Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`; earlier `evidence/source-captures/1922-11-30-mcanulty-barry-pool-hall-license.md`.

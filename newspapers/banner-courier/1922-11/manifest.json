@@ -3,7 +3,7 @@
   "lccn": "sn00063699",
   "year": 1922,
   "month": 11,
-  "status": "VISUALLY VERIFIED — image integrity only; exhaustive content review PENDING except explicitly logged pages",
+  "status": "VISUALLY VERIFIED — all page-image content screened; source damage/legibility limitations retained",
   "inventory_source": "https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/",
   "expected_weekly_dates_absent_from_archive_calendar": [],
   "archive_calendar_dates_outside_expected_weekday": [],
@@ -620,7 +620,8 @@
           "ocr_bytes": 29627,
           "ocr_sha256": "6ec51d03500be539a695cfa729bb0a9f177cd1f7e5670471b553ccc0ded53fc5",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 2,
@@ -633,7 +634,8 @@
           "ocr_bytes": 14595,
           "ocr_sha256": "cf27ac62aa59571f46709266207745157b8ec3f6fc2f1e5a4d2a26c18b9f2332",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 3,
@@ -646,7 +648,8 @@
           "ocr_bytes": 22630,
           "ocr_sha256": "f8f19e0075fac85e06fa6d8eddbc5f23e99780000812ef29f180531fe5798f1f",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 4,
@@ -659,7 +662,8 @@
           "ocr_bytes": 21596,
           "ocr_sha256": "3268463d48dda23854a157911d617996e80c06b28dd06fbc0c6e570bed37dfe2",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 5,
@@ -672,7 +676,8 @@
           "ocr_bytes": 24554,
           "ocr_sha256": "dfe6cbbabd0a20e6338aae8e4a786cd6a98b9a34acff69ba71bc84501764a62d",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 6,
@@ -685,7 +690,8 @@
           "ocr_bytes": 24988,
           "ocr_sha256": "81e337889edf63bd1acc7849c21a670bdaa33337a59dd1a3c30c036cc92013f6",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 7,
@@ -698,7 +704,8 @@
           "ocr_bytes": 21122,
           "ocr_sha256": "fae103aa8524e33094eedbd1bfd00d6656ef5cc58734dd8d2cdf46208c0a7960",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         },
         {
           "sequence": 8,
@@ -711,7 +718,8 @@
           "ocr_bytes": 20704,
           "ocr_sha256": "7296b37aee8eee9975088cf4dedae7179a63b17034f9fb5792aa7048ebd61298",
           "visual_integrity_status": "VISUALLY VERIFIED",
-          "exhaustive_content_review_status": "PENDING"
+          "exhaustive_content_review_status": "VISUALLY VERIFIED",
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
         }
       ]
     }

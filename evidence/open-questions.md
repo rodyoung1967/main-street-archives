@@ -388,3 +388,8 @@ The unresolved question is therefore narrower: **who operated/licensed 505 in 19
 ### 15 November 2026 — post-fire Miller and Leland controls
 
 `E-358` / `S-392` directly join Gilbert Miller, Miller's Shoe Store and 419 Main on 7 September. Former 209 Fifth attribution is superseded, not an intermediate move. `E-126` / `S-141` extend Leland & Little billiards advertising through 28 September without an address. Neither finding supplies the missing pre-fire numbered address or dates surviving 503/505 construction. Existing frontage and pool-hall questions remain open; see `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.
+
+
+### 1922 pool-hall premises — November30 report integration
+
+E-362/S-397/BUS-113/T-112 now mirror the previously preserved Barry/McAnulty license report. Which address was their former restaurant room? Existing Recorder draft seeks official November1922 license/minutes. Later714 Main is not direct1922 evidence; no503/505 assignment. Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`.
