@@ -1,0 +1,314 @@
+{
+  "reviewed": "2026-11-17",
+  "scope": "22 alternate derivatives, no additional annual page credit",
+  "pages": [
+    {
+      "paper": "banner-courier",
+      "date": "1922-11-09",
+      "sequence": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-09/ed-1/seq-5.jp2",
+      "http": 200,
+      "bytes": 4538566,
+      "sha256": "af3fb0cc63f66ca4aa09a7f88c55c06d91fdea5c3882dcb019b14275d2c37189",
+      "size": [
+        5140,
+        7062
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-11-09",
+      "sequence": 6,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-09/ed-1/seq-6.jp2",
+      "http": 200,
+      "bytes": 4556881,
+      "sha256": "40e1c642ecca264b7885125721efa7a46c99404a8a49c912db64cffad464bcca",
+      "size": [
+        5136,
+        7096
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-11-23",
+      "sequence": 4,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-4.jp2",
+      "http": 200,
+      "bytes": 4542498,
+      "sha256": "c31e3039673e2af43c3f1cd073da2271012053cd241b7367c9ff38efa220407f",
+      "size": [
+        5104,
+        7118
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-11-23",
+      "sequence": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-23/ed-1/seq-5.jp2",
+      "http": 200,
+      "bytes": 4543811,
+      "sha256": "8c39a7eb605e81bb4bd1002563958f173057f2eea18b35b0efb847b92211449e",
+      "size": [
+        5104,
+        7120
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-1.jp2",
+      "http": 200,
+      "bytes": 4588236,
+      "sha256": "b01d39cc006c10f2fc2ee67a27f87c221f86184516e15d16fc8b57fba7de785d",
+      "size": [
+        5128,
+        7156
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-2.jp2",
+      "http": 200,
+      "bytes": 4574480,
+      "sha256": "b46c5ea9b407c843edb94d636349709437be55ef5f0967bff57fcbbea031a447",
+      "size": [
+        5132,
+        7129
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 3,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-3.jp2",
+      "http": 200,
+      "bytes": 4610669,
+      "sha256": "77dc08b9f7995ca269a96217f1b77f8e5be097c79b03fe04054b4ed90c159fab",
+      "size": [
+        5128,
+        7191
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 4,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-4.jp2",
+      "http": 200,
+      "bytes": 4558409,
+      "sha256": "37a830464c36f3c6790370d5f4b2beca9f2cbfc89ba6b55e3bd944504ab203fd",
+      "size": [
+        5104,
+        7143
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-5.jp2",
+      "http": 200,
+      "bytes": 4564593,
+      "sha256": "ff2bd9e10c6f26ac566413d1a1559283922456f3720a46e29e5757f93188737c",
+      "size": [
+        5108,
+        7147
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 6,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-6.jp2",
+      "http": 200,
+      "bytes": 4541769,
+      "sha256": "f49155e4592329713f8bd443d3a4c95979f5e998eb35153e2321d9443cc41ed2",
+      "size": [
+        5096,
+        7128
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-7.jp2",
+      "http": 200,
+      "bytes": 4659084,
+      "sha256": "c16050345a5ff5925cd47974645b9e77ff48b7c0fbc611dfb18a3d9221c2b284",
+      "size": [
+        5216,
+        7144
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "banner-courier",
+      "date": "1922-12-28",
+      "sequence": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-8.jp2",
+      "http": 200,
+      "bytes": 4619859,
+      "sha256": "6687cd93ee7fd585607ee093a5e54f71293a13cf9a910233b9546238fea0d2b0",
+      "size": [
+        5180,
+        7133
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 1,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-1.jp2",
+      "http": 200,
+      "bytes": 5131348,
+      "sha256": "03c671c0db8a98579017363ec62347b30467eea854ee02b38d4ff2c8a3091ef0",
+      "size": [
+        5800,
+        7076
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 2,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-2.jp2",
+      "http": 200,
+      "bytes": 5116645,
+      "sha256": "e59b214690ce92f650e0aed7c5cedbf2c5193e2192321f9a8aa709ed87badf17",
+      "size": [
+        5808,
+        7046
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 3,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-3.jp2",
+      "http": 200,
+      "bytes": 5085543,
+      "sha256": "ddc708a63cd6764ef8b4ae5185a7a3df026409570ace3a096a9bcf9a8c9dfee1",
+      "size": [
+        5772,
+        7047
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 4,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-4.jp2",
+      "http": 200,
+      "bytes": 5101654,
+      "sha256": "7dcd9d0d7fdc5bfc692a8100ec861a02a8a0bc9cb15262a576b38a784bb6cedb",
+      "size": [
+        5796,
+        7040
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 5,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-5.jp2",
+      "http": 200,
+      "bytes": 4960749,
+      "sha256": "39a176a5ffb5c2bcc4b54ed9811105bac76ffe8996012ac1fcd2b687a14563b0",
+      "size": [
+        5668,
+        7000
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 6,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-6.jp2",
+      "http": 200,
+      "bytes": 5010280,
+      "sha256": "c259cc66537c486e8e9338e7081eff3747d92b45a988ce5d4510403b25aedf95",
+      "size": [
+        5680,
+        7055
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-7.jp2",
+      "http": 200,
+      "bytes": 5065581,
+      "sha256": "cf642b35ec7634bcfc613e5bcebbc6d3f82c74863d245b63c0e63e1705f03ae1",
+      "size": [
+        5720,
+        7083
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-29",
+      "sequence": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-8.jp2",
+      "http": 200,
+      "bytes": 5088416,
+      "sha256": "342022caa4e9134c7424aba0ea82364e2f5a78e85d9b7816b03e6b2bd2676b75",
+      "size": [
+        5776,
+        7046
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-22",
+      "sequence": 7,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-7.jp2",
+      "http": 200,
+      "bytes": 4977281,
+      "sha256": "7c1f52b83c9dcf6b90fac23bb47c8e73e1ab66ac5487c403d99a759d8d3bea67",
+      "size": [
+        5704,
+        6979
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    },
+    {
+      "paper": "oregon-city-enterprise",
+      "date": "1922-12-22",
+      "sequence": 8,
+      "url": "https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-8.jp2",
+      "http": 200,
+      "bytes": 5119646,
+      "sha256": "65e3eff06acbcabb7ac9041cdcd06d1947929cb7eaf4c36c927bb2aff2d0690b",
+      "size": [
+        5804,
+        7055
+      ],
+      "comparison_outcome": "Alternate JP2 visually inspected against retained PDF: same torn/edge/overprinting defects, no missing text restored."
+    }
+  ]
+}

@@ -1067,3 +1067,11 @@ BUS-112 ↔ E-361 ↔ S-396 ↔ T-111. Original grocery ad at 509 Main, phone 74
 ### McAnulty & Barry source integration
 
 BUS-113 ↔ E-362 ↔ S-397 ↔ T-112; earlier merchant list S-141. No1922 address/person/building ID asserted; later714 Main remains a lead.
+
+
+## December 1922 integration
+
+E-360/S-398/T-110 Block4 assessment; E-363/S-399/BUS-074/T-113 RedFront; E-364/S-400/BUS-088/P-106/T-114 Newton restaurant; E-365/S-401/S-402/B-019/BUS-114/P-407/P-408/P-409/T-115 Gambrinus/annex; E-366/S-403/B-020/BUS-115/T-116 bank; E-367/S-404/BUS-116 auto corner. No target physical-continuity inference from an address or trade name.
+
+
+E-368 ↔ S-405 ↔ BUS-117: 504 Main grocery ad December28; person/building identity not asserted.

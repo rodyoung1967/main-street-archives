@@ -1475,3 +1475,7 @@ evidence/source-captures/2026-11-17-1922-december15-21-visual-review.md: 20 orig
 ## 17November2026 — december22-29 visual checkpoint
 
 evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md: 24 originalpagevisualscreens; annual928/928,December84/84,0pending. Findings/propagationqueue explicitly preserved; 1922 IN PROGRESS. Nooutreach/fees.
+
+## 17 November 2026 — December findings integrated and 22 alternate scans compared
+
+928/928 weekly page images reviewed. December claims now E-363–368/S-398–405, new neighboring controls and Newton/RedFront/Miller updates synchronized; see `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`. 22 alternate JP2 images compared with original PDFs; no missing text restored; reproducible manifest/capture saved. Source-class closeout still underway; year IN PROGRESS. Full validator passes after synchronization; no outreach/fees.

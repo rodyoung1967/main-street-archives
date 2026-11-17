@@ -236,3 +236,22 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 ### November 30 Miller advertising control
 
 30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+### December 22, 1922 original report
+
+Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing. E-364/S-400/T-114; P-106/BUS-088.
+
+
+| P-407 | Ben Levin | Portland buyer of Gambrinus real property, December 1922 report. E-365/S-401/S-402; B-019/BUS-114. |
+
+
+| P-408 | Florence Kerr | Purchaser of Electric Annex hotel business and Central Apartments, December 1922 report. E-365/S-401/S-402; B-019/BUS-114. |
+
+
+| P-409 | J. J. Tobin | Former Electric Annex hotel proprietor; retained Fourth Street Electric Hotel, December 1922 report. E-365/S-401/S-402; B-019/BUS-114. |
+
+
+### December Miller controls
+
+December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Miller’s Shoe Store, 419 Main. No new move date or pre-fire number. E-358/S-392; BUS-071/P-046/T-036.

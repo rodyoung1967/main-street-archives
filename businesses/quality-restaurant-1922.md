@@ -28,3 +28,8 @@ October extension, visually verified15 November2026: **5 and12 October1922 Banne
 
 
 October26 continuation (visually verified15 November2026): Banner-Courier p8 repeats unnumbered LELAND AND LITTLE, Billiards and QUALITY CAFE, separately McAnulty/Barry cigars/restaurant and Junken contractor/builder. E-126/E-181/S-141; BUS-077/BUS-089; T-035. No503/505 address, shared ownership, identity merger, succession or Gates completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+
+### December 22, 1922 original report
+
+Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing. E-364/S-400/T-114; P-106/BUS-088.

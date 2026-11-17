@@ -29,3 +29,8 @@ This makes 507 Main the leading and strongly supported fire-time Red Front locat
 A probable working identity remains that **L. Wolf of Red Front may be the Wolf of Wolf & Miller**, which operated at 505 Main in 1918 selling men's clothing, shoes, and shoe-repair services. The October 1918 Wolf & Miller sale notice says one partner would go to Idaho and the other would restock and continue the business. By 1922 Gilbert Miller has a separate shoe business and Wolf is associated with a separate clothing business, making a post-partnership division plausible.
 
 Evidence state: **PROBABLE / WORKING IDENTITY HYPOTHESIS** only. The Wolf & Miller partner's full name and the exact division of business assets are not yet directly documented, and the S. Wolf/L. Wolf newspaper-initial conflict remains unresolved.
+
+
+### December 1922 Red Front control
+
+Red Front Clothing Store advertises a two-week sacrifice sale to raise $10,000 for overdue bills, Main Street opposite the post office. No numbered address, actual closure, completed property sale or proprietor name is printed. This directly documents the advertised business in December; 507 remains the earlier exact address and July inference, not a new December numbered claim. E-363/S-399/T-113; BUS-074.

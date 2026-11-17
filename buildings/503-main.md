@@ -304,3 +304,8 @@ At the later 505 position specifically, the steward identifies the 1918 upper fa
 OHS `371N5709` (`S-376` / `E-350` / `IMG-0774`) is institutionally dated **1923–1936**. Steward spatial mapping places a **standing building mass at the later 503 Main position**.
 The 503 storefront sign appears compatible with **CAFE**, but not strongly enough for direct transcription. The independent 1925 Sanborn maps 503 as a **restaurant**, making the reading cross-source consistent.
 This image adds an early post-fire structural/use-consistency control but does not by itself date the 503 rebuild. Do not use the lower Railroad Avenue visible in the frame as a proxy for the City's 1929 Fifth–Seventh improvement.
+
+
+### December 22, 1922 original report
+
+Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing. E-364/S-400/T-114; P-106/BUS-088.

@@ -3,7 +3,7 @@
   "lccn": "sn00063700",
   "year": 1922,
   "month": 12,
-  "status": "VISUALLY VERIFIED — image integrity only; exhaustive content review PENDING except explicitly logged pages",
+  "status": "VISUALLY VERIFIED — surviving page-image content screened; source damage retained as manual gap",
   "inventory_source": "https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/",
   "expected_weekly_dates_absent_from_archive_calendar": [],
   "archive_calendar_dates_outside_expected_weekday": [],
@@ -469,7 +469,9 @@
           "ocr_sha256": "f9c465061cfa9abed8457c3dc491c36849c2870c400c640b9dde51f619d04dd8",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 8,
@@ -483,7 +485,9 @@
           "ocr_sha256": "9330734e4850a0f6e3670f53c6cca110fbd8ef10587e256ad4382b55d7ba3a84",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         }
       ]
     },
@@ -504,7 +508,9 @@
           "ocr_sha256": "d2e25bda76e0a9295151c6b21b294cc203e0e408d5b1317b9039c1154e64e725",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 2,
@@ -518,7 +524,9 @@
           "ocr_sha256": "a3fd8016c4ebeb9642450b53abbbfb7f52d9a1557bc164b60afa46e99ac730df",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 3,
@@ -532,7 +540,9 @@
           "ocr_sha256": "81ac000ef1f0a994998b2ac6444c02da4d23b0f07268e9550618a024bae9a705",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 4,
@@ -546,7 +556,9 @@
           "ocr_sha256": "93bbf6bc45e3f5fea1b21c56c76de0364f0a3141053a8d7deeb073db4105dfb9",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 5,
@@ -560,7 +572,9 @@
           "ocr_sha256": "b1757efe1a3a366696ae494beb6db730d65de52b72f8babd1a70f9079a642e12",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 6,
@@ -574,7 +588,9 @@
           "ocr_sha256": "fc3be752a7f650e4435d6b13b2cef65bf91d3b8d3a1c6f875af9c3c0539a2b19",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 7,
@@ -588,7 +604,9 @@
           "ocr_sha256": "3e76373d6a1ab9b946aacb715018319042fc5a7e3951a2345ad82112b8ecd64e",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 8,
@@ -602,7 +620,9 @@
           "ocr_sha256": "48d0c627934712fcdb2ce762cea108c33bb11d82414b091d71c00dc8165b757a",
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
-          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md"
+          "content_review_record": "evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         }
       ]
     }

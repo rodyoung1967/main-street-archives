@@ -2691,6 +2691,7 @@ sources:
     notes: "UO title metadata identifies Oregon City Enterprise (LCCN sn00063700) as weekly and Morning Enterprise (LCCN sn00063701) as daily except Monday, 1911-1933. ODNP states the daily began in 1911 while the weekly continued under Oregon City Enterprise. For 1926 microfilm use the exact title pair weekly Oregon City Enterprise + daily Morning Enterprise; this does not identify the missing Kwality ad."
 
   - id: S-392
+    december1922: "December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Miller’s Shoe Store, 419 Main. No new move date or pre-fire number. E-358/S-392; BUS-071/P-046/T-036."
     november30_control: "30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
     november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
@@ -3094,3 +3095,79 @@ sources:
     repository_file: newspapers/banner-courier/1922-11/1922-11-30-seq-01.pdf
     notes: Original visually rechecked November17 2026; grant reported for former restaurant room; no address.
     related_evidence: [E-362]
+
+
+  - id: S-398
+    name: Block 4 alley assessment notice
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-2/
+    repository_file: newspapers/banner-courier/1922-12/1922-12-07-seq-02.pdf
+    notes: Original scan visually inspected 17 November 2026. Assessment apportionment
+      filed; objections/hearing December 15 at 7:30 p.m.; not private Gates completion.
+    related_evidence:
+    - E-360
+
+
+  - id: S-399
+    name: Red Front cash-raising sale advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-5/
+    repository_file: newspapers/banner-courier/1922-12/1922-12-07-seq-05.pdf
+    notes: 'Original scan visually inspected 17 November 2026. '
+    related_evidence:
+    - E-363
+
+
+  - id: S-400
+    name: Quality Restaurant December fire and Newton/Logus location
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-5/
+    repository_file: newspapers/oregon-city-enterprise/1922-12/1922-12-22-seq-05.pdf
+    notes: 'Original scan visually inspected 17 November 2026. '
+    related_evidence:
+    - E-364
+
+
+  - id: S-401
+    name: Gambrinus property sale to Ben Levin
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-21/ed-1/seq-1/
+    repository_file: newspapers/banner-courier/1922-12/1922-12-21-seq-01.pdf
+    notes: Original scan visually inspected 17 November 2026. Lot 8 Block 26 southeast
+      Sixth/Main; $39,000 inferred by newspaper from revenue stamps; deed not inspected.
+    related_evidence:
+    - E-365
+
+
+  - id: S-402
+    name: Electric Annex business transfer and Gambrinus sale corroboration
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-5/
+    repository_file: newspapers/oregon-city-enterprise/1922-12/1922-12-22-seq-05.pdf
+    notes: 'Original scan visually inspected 17 November 2026. Also sequence6: real
+      property sale versus hotel business purchase must remain distinct.'
+    related_evidence:
+    - E-365
+
+
+  - id: S-403
+    name: Bank of Oregon City remodeling contract report
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-3/
+    repository_file: newspapers/oregon-city-enterprise/1922-12/1922-12-29-seq-03.pdf
+    notes: 'Original scan visually inspected 17 November 2026. '
+    related_evidence:
+    - E-366
+
+
+  - id: S-404
+    name: Oregon City Auto Company Fifth/Main corner advertisements
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-6/
+    repository_file: newspapers/banner-courier/1922-12/1922-12-07-seq-06.pdf
+    notes: Original scan visually inspected 17 November 2026. Repeated December21 p3;
+      corner only, no numbered premises.
+    related_evidence:
+    - E-367
+
+
+  - id: S-405
+    notes: Original advertisement visually inspected 17 November 2026; exact 504 Main grocery anchor, no business identity merger.
+    name: D. M. Klemsen & Son 504 Main advertisement
+    url: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-7/
+    repository_file: newspapers/banner-courier/1922-12/1922-12-28-seq-07.pdf
+    related_evidence:
+    - E-368

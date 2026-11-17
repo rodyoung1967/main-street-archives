@@ -1002,6 +1002,7 @@ businesses:
     repository_file: businesses/fifth-street-restaurant.md
 
   - id: BUS-071
+    december1922: "December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Miller’s Shoe Store, 419 Main. No new move date or pre-fire number. E-358/S-392; BUS-071/P-046/T-036."
     november30_control: "30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md"
     november23_control: "23 November 1922 Banner-Courier p3 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh signature, move date, pre-fire number or private-building completion. Capture: evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md"
     november16_control: "November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Miller’s Shoe Store419 Main, footwear/gloves and expert shoe repairing (E-358/S-392; BUS-071/P-046/T-036). No fresh proprietor signature, move/opening date or pre-fire number. P3 separately prints Portland Overtires209 Fifth/Hugh Moynagh; not Miller. Capture `evidence/source-captures/2026-11-15-1922-november16-partial-save.md`."
@@ -1035,6 +1036,7 @@ businesses:
     repository_file: businesses/pantorium-cleaners.md
 
   - id: BUS-074
+    december1922: "Red Front Clothing Store advertises a two-week sacrifice sale to raise $10,000 for overdue bills, Main Street opposite the post office. No numbered address, actual closure, completed property sale or proprietor name is printed. This directly documents the advertised business in December; 507 remains the earlier exact address and July inference, not a new December numbered claim."
     name: Red Front Clothing Store
     address: Harding Main Street property group; exact number unresolved
     notes: Named in 13 July 1922 property-sale report and damaged in fire accounts; proprietor and Gates/Wolf allocation unresolved.
@@ -1163,6 +1165,7 @@ businesses:
     repository_file: businesses/quality-restaurant-1922.md
 
   - id: BUS-088
+    december_quality_control: "Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing."
     name: Quality restaurant (George Newton, August 1922)
     address: Oregon City; across the way from Oregon City Laundry; exact number unresolved
     notes: Archive qualifier distinguishes the Newton proprietor/fire-survival record. 427 Main is the best-supported working location, not a direct source claim. No proved 503 association or building ownership.
@@ -1430,3 +1433,75 @@ businesses:
     notes: August1922 cigars/restaurant listing; November30 newspaper reports pool-hall license granted for former restaurant room. No503/505 assignment or merger with Timms/Leland/July hall.
     related_evidence: [E-362]
     related_sources: [S-141, S-397]
+
+
+  - id: BUS-114
+    name: Electric Hotel Annex / Florence Hotel
+    address: Upper story, Gambrinus Block, Sixth/Main; no number supplied
+    repository_file: businesses/electric-hotel-annex-florence.md
+    notes: Banner December 21 p1 reports Gambrinus Brewing Company sold lot 8 Block
+      26 at southeast Sixth/Main to Ben Levin of Portland; revenue stamps indicate $39,000.
+      Two-story building houses J.C. Penney and Meilke/Koellmeier meat market below
+      Electric Hotel Annex. Enterprise December 22 p6 corroborates sale, describes brick
+      building and tenant leases, one extending to 1925; upstairs 16 sleeping apartments
+      called Florence Hotel. Its p5 separately reports Florence Kerr purchased hotel
+      business from J.J. Tobin and Central Apartments across the street; Tobin retained
+      Electric Hotel on Fourth Street. Kerr’s hotel-business purchase is not a deed
+      to Levin’s property. Exact numbered address and 1911-to-1922 structural continuity
+      require corroboration; no target Block 4/503/505 assignment.
+    related_evidence:
+    - E-086
+    - E-365
+    related_sources:
+    - S-401
+    - S-402
+    related_people:
+    - P-408
+    - P-409
+
+
+  - id: BUS-115
+    name: Bank of Oregon City
+    address: Sixth and Main
+    repository_file: buildings/bank-of-oregon-city-sixth-main.md
+    notes: 'December 29 Enterprise p3 reports contracts awarded Wednesday for $25,000
+      remodeling of Bank of Oregon City at Sixth/Main, expected ninety days: ground-floor
+      bank enlarged 13 feet north, Main entrance moved from corner toward middle, upper
+      offices gutted by September 2 fire rebuilt with three extra suites (14 rooms total),
+      modern uniform exterior. Bank said to own frontage from Sixth to alley and occupy
+      location since 1881. This is a contract/planned remodel, not completed work, not
+      First National Bank at 512, and not Gates/Junken replacement. Contractor surname
+      is split/truncated after W.G.H. Krue- in this article; do not certify the completed
+      name from this line alone.'
+    related_sources:
+    - S-403
+    related_evidence:
+    - E-366
+
+
+  - id: BUS-116
+    name: Oregon City Auto Co.
+    address: Fifth and Main, corner only
+    repository_file: businesses/oregon-city-auto-co.md
+    notes: December 7 p6 and December 21 p3 Banner-Courier advertisements directly place
+      Oregon City Auto Co. at Fifth and Main. No 503/505 number, proprietor, deed or
+      structural identity printed. Preserve separately from other auto firms and Sixth/Main
+      references; do not force corner descriptions into one numbered site.
+    related_sources:
+    - S-404
+    related_evidence:
+    - E-367
+
+
+  - id: BUS-117
+    name: D. M. Klemsen & Son groceries
+    address: 504 Main Street, December 1922 advertisement
+    notes: Banner-Courier December 28 p7 directly advertises D. M. Klemsen & Son, staple
+      and fancy groceries, 504 Main Street. Dated neighboring even-side address only;
+      no owner names, deed or physical-building continuity. Do not merge the grocery
+      with BUS-053 (1907 liquor applicant) solely from name.
+    repository_file: businesses/d-m-klemsen-son-groceries.md
+    related_sources:
+    - S-405
+    related_evidence:
+    - E-368

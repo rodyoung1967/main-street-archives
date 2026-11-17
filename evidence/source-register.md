@@ -27,9 +27,9 @@ Related evidence: `E-008`
 Notes: Secondary local-news source for Mike Berman's reported 2009 purchase, Scott Forvilly's 2017 purchase, and the Thirsty Duck reopening. It does not establish real-estate title or an uninterrupted business chain.
 
 ## S-005 — Mitch Young direct oral history
-Repository record: `oral-history/mitch-young.md`  
-Type: Primary participant testimony; the 24 August 2026 naming clarification was relayed by Rodney Young.  
-Related evidence: `E-004`, `E-014`, `E-022`  
+Repository record: `oral-history/mitch-young.md`
+Type: Primary participant testimony; the 24 August 2026 naming clarification was relayed by Rodney Young.
+Related evidence: `E-004`, `E-014`, `E-022`
 Notes: Mitch states that Dick and Sheila Wiitanen renamed the tavern business **505 Tavern before selling it to their son Mitch in March 1991**. This establishes the public/trade name already in use at acquisition. The exact rename date and formal OLCC/license/entity wording remain documentary research targets.
 
 ## S-006 — Young family ownership / stewardship context
@@ -127,8 +127,8 @@ Related evidence: `E-021`
 Notes: City-hosted historical aerial comparison viewer. Screenshots imported 2026-07-05 for 5th and Main Street series 1929-2025. Related evidence E-021; media IMG-0006 through IMG-0043.
 
 ## S-024 — Morning Enterprise, 31 March 1912, H. H. Smith notice
-URL: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-31/ed-1/seq-4.pdf  
-Related evidence: `E-023`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-31/ed-1/seq-4.pdf
+Related evidence: `E-023`
 Notes: Pool-hall license application at 503 Main.
 
 ## S-025 — Oregon City Courier, 12 February 1914, L. Hylton
@@ -156,8 +156,8 @@ Source/location: https://www.portlandmercury.com/Feature/2010/07/22/2700077/the-
 Notes: Wheel Lounge at 503 Main.
 
 ## S-032 — Chicago Store advertisements, 1911-1913
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/  
-Related evidence: `E-026`, `E-108`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/ocr/
+Related evidence: `E-026`, `E-108`
 Repository PDFs now preserved:
 - `newspapers/oregon-city-courier/1911-03-31-page-6-chicago-store-505-main.pdf` — 31 March 1911 p. 6, SHA-256 `fc3c0bfc057251e1232530342229bcd4d548c50acda3bda52f98d26d30da5507`
 - `newspapers/oregon-city-courier/1911-04-07-page-6-chicago-store-505-main.pdf` — 7 April 1911 p. 6, SHA-256 `a06940a0d58fe72639ac8fb3753b5451000169b1ddf207c73f23e081ad10b664`
@@ -255,11 +255,11 @@ Related evidence: `E-040`
 Notes: Working narrative dated 16 August 2026. HS note numbers S-01 through S-37 are not archive S-IDs. Related evidence E-040.
 
 ## S-049 — The Oregonian, 25 August 1908, “Pretty Girl Is Missing”
-Type: Primary newspaper clipping.  
-Repository clipping: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`  
-Related media: `IMG-0044`  
-Related evidence: `E-042`  
-Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Type: Primary newspaper clipping.
+Repository clipping: `newspapers/oregonian/1908-503-main-missing-girl-oregonian.png`
+Related media: `IMG-0044`
+Related evidence: `E-042`
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`
 Notes: Identifies Henry Brightbill as an Oregon City merchant with a store at **503 Main Street**. This is exact numbered occupancy in 1908, not proof that the surviving building later dated c.1919 already existed.
 
 ## S-050 — Oregonian, 12 June 1937, Kwality Cafe classified
@@ -308,387 +308,387 @@ Related evidence: `E-047`
 Notes: Original filename Wheel Cafe 1983 Oregonian.png. Same article as S-054. Related evidence E-047. Related media IMG-0050.
 
 ## S-059 — Oregon City Courier, 5 January 1912, H. P. Brightbill tea advertisement
-Source: User-supplied photograph of newspaper advertisement in ChatGPT conversation, 20 August 2026.  
-Publication/date: *Oregon City Courier*, 5 January 1912.  
-Related evidence: `E-050`  
+Source: User-supplied photograph of newspaper advertisement in ChatGPT conversation, 20 August 2026.
+Publication/date: *Oregon City Courier*, 5 January 1912.
+Related evidence: `E-050`
 Notes: Advertisement reads **"H. P. BRIGHTBILL"**, **"509 Main St."**, **"Phone 74"**, **"OREGON CITY"**. Primary evidence for Brightbill at 509 Main on this date.
 
 ## S-060 — 1912 Post Office business-cluster advertisements
-URL: Oregon Digital historic newspaper archive; individual page captures/URLs to be normalized when archived.  
-Related evidence: `E-051`  
-Related research note: `evidence/1912-main-street-postoffice-cluster.md`  
+URL: Oregon Digital historic newspaper archive; individual page captures/URLs to be normalized when archived.
+Related evidence: `E-051`
+Related research note: `evidence/1912-main-street-postoffice-cluster.md`
 Notes: Contemporary business advertising places I. Tolpolar opposite the Post Office; M. E. Dunn near/next door to the P.O.; Schrader's Bakery near the Post Office; and Pioneer Transfer Co. in the Postoffice Building. Relative-location evidence does not by itself establish numbered addresses for Dunn, Schrader, or the Post Office.
 
 ## S-061 — Oregon City Courier, 5 January 1912, page 6 business advertisements
-Canonical page URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/  
-Repository transcription: `newspapers/oregon-city-courier/1912-01-05-page-6-transcription.md`  
-Repository PDF: `newspapers/oregon-city-courier/1912-01-05-page-6-main-street-ads.pdf`  
-Original uploaded filename: `503 505-Chicago Store 507 509 511 527 Bailey_Price Oregon City Courier 1913.pdf` (the `1913` year in the upload filename was a typo; the page is 5 January 1912).  
-Related evidence: `E-026`, `E-050`, `E-051`, `E-052`  
+Canonical page URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6/
+Repository transcription: `newspapers/oregon-city-courier/1912-01-05-page-6-transcription.md`
+Repository PDF: `newspapers/oregon-city-courier/1912-01-05-page-6-main-street-ads.pdf`
+Original uploaded filename: `503 505-Chicago Store 507 509 511 527 Bailey_Price Oregon City Courier 1913.pdf` (the `1913` year in the upload filename was a typo; the page is 5 January 1912).
+Related evidence: `E-026`, `E-050`, `E-051`, `E-052`
 Notes: Page 6 advertisements include **The Chicago Store — "Main St. just below Postoffice"** (independently established at **505 Main** by `E-026`); **Bailey & Price, Billiard and Pool Parlors — 527 Main Street, Opposite Grand Theater**; **Clems Chop House — 5th and Main Street**; and **Wm. Gardner, Watchmaker and Jeweler — Main Near 8th**. H. P. Brightbill at **509 Main** is also documented from this issue (`S-059`).
 
 ## S-062 — City of Oregon City, Downtown Final Report, 2000
-Canonical URL: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF  
-Type: Official municipal historic-resource survey / secondary source.  
-Relevant pages: p. 14 discusses later entrance alterations to the Swartz Building; summary table near the end of the report lists **527 Main St. — Swartz Building — 1935**. The introduction/methodology and selected bibliography are also relevant to the 503/Kwality provenance problem.  
-Related evidence: `E-053`, `E-032`  
-Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
+Canonical URL: https://www.orcity.org/DocumentCenter/View/4025/Downtown-Final-Report---2000-PDF
+Type: Official municipal historic-resource survey / secondary source.
+Relevant pages: p. 14 discusses later entrance alterations to the Swartz Building; summary table near the end of the report lists **527 Main St. — Swartz Building — 1935**. The introduction/methodology and selected bibliography are also relevant to the 503/Kwality provenance problem.
+Related evidence: `E-053`, `E-032`
+Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
 Notes: The report classifies the Swartz Building as historic but not eligible in its then-current state and gives **1935** as the construction date. It also notes that the entrance had been altered after the earlier 1983 survey. The report states that the 2000 project generated **59 Oregon Inventory of Historic Properties Historic Resource Survey Forms**, with copies available through the City and originals housed at **SHPO in Salem**. Its methodology says archival research used newspapers, Sanborn maps, directories, tax records, SHPO files, local histories and historic photos, with research gathered from the **Oregon City Public Library, Clackamas County Historical Society and Museum, University of Oregon, and Oregon State University**. The selected bibliography explicitly lists **“Oregon City Enterprise (daily and weekly newspapers)”**. Direct visual inspection of Appendix A fixes a text-extraction row-shift risk: the scan aligns **503 Main Street — c.1919 — Kwality Café — Commerce** and **505 Main Street — c.1920 — Unknown — Commerce**. Appendix B separately places **503 Main / Kwality Cafe / c.1919** and **505 Main / Unknown / c.1920** under **Historic but irretrievable loss of integrity**. These are the survey's own secondary assignments, not primary construction proof. The bibliography materially narrows the source trail behind the later City statement that 503 Main appeared in 1926 newspaper ads as the Kwality Restaurant, but the project-wide bibliography does **not** prove which specific Enterprise title/issue supplied that individual claim. See `evidence/source-captures/2000-resurvey-1926-kwality-newspaper-provenance-2026-09-15.md`. The full external PDF was browser-verified; the repository presently preserves the canonical URL and verified extract/provenance notes rather than a local full-PDF mirror.
 
 ## S-063 — ODOT / University of Oregon Museum of Natural & Cultural History, Cultural Resources Planning Document, 12 May 2021
-Canonical URL: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf  
-Type: Official state cultural-resources planning report / secondary source.  
-Relevant page: p. 16, Table 2.  
-Related evidence: `E-053`; also resolves the current Harding Building replacement date question.  
-Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`  
+Canonical URL: https://www.oregon.gov/odot/Projects/Project%20Documents/Cultural%20Resources%20Baseline%20Report_REDACTED%20VERSION.pdf
+Type: Official state cultural-resources planning report / secondary source.
+Relevant page: p. 16, Table 2.
+Related evidence: `E-053`; also resolves the current Harding Building replacement date question.
+Repository extract note: `records/historic-surveys/527-main-swartz-building-1935-source-note.md`
 Notes: Table 2 lists **527 Main St — Swartz Building — 1935**. The same table lists **507-511 Main St — Harding Building — 1968**, providing documentary support for the replacement-building date after the 1 September 1967 fire. Because the 2021 table likely draws in part on earlier inventory work, treat it as strong corroboration rather than necessarily a wholly independent original dating source. The external PDF was browser-verified on 20 August 2026; direct binary mirroring from the ODOT endpoint was not available in the current tool environment.
 
 ## S-064 — Oregon City Courier, 17 June 1915, Holman & Randall at Fifth and Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-3.pdf  
-Type: Primary newspaper advertisement.  
-Related evidence: `E-054`  
-Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1915-06-17/ed-1/seq-3.pdf
+Type: Primary newspaper advertisement.
+Related evidence: `E-054`
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`
 Notes: Directly places R. L. Holman and T. P. Randall, undertakers, at **Fifth and Main St.** Does not print 501 Main. Original page PDF still needs physical mirroring.
 
 ## S-065 — Oregon City Courier, 2 March 1916, Holman & Randall at Fifth and Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-02/ed-1/seq-9.pdf  
-Type: Primary newspaper advertisement.  
-Related evidence: `E-054`  
-Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-03-02/ed-1/seq-9.pdf
+Type: Primary newspaper advertisement.
+Related evidence: `E-054`
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`
 Notes: Repeats Holman and Randall at **Fifth and Main St.** Original page PDF still needs physical mirroring.
 
 ## S-066 — Oregon City Courier, 11 January 1917, R. L. Holman at Fifth and Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-5.pdf  
-Type: Primary newspaper advertisement.  
-Related evidence: `E-054`  
-Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-01-11/ed-1/seq-5.pdf
+Type: Primary newspaper advertisement.
+Related evidence: `E-054`
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`
 Notes: Directly places R. L. Holman, leading undertaker, at **Fifth and Main St.** Original page PDF still needs physical mirroring.
 
 ## S-067 — Oregon City Courier, October–December 1918, Holman & Pace chapel / funeral parlors
-Primary captured page: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-1.pdf  
-Type: Primary newspaper references.  
-Related evidence: `E-055`  
-Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Primary captured page: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-24/ed-1/seq-1.pdf
+Type: Primary newspaper references.
+Related evidence: `E-055`
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`
 Notes: Establishes Holman & Pace chapel/funeral-parlor business continuity in 1918. Recovered references do **not** give Fifth & Main or 501 Main. Original page binaries still need physical mirroring.
 
 ## S-068 — Eastern Clackamas News, 17 February 1921, Holman & Pace
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn96088133/1921-02-17/ed-1/seq-8.pdf  
-Type: Primary newspaper advertisement.  
-Related evidence: `E-055`  
-Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn96088133/1921-02-17/ed-1/seq-8.pdf
+Type: Primary newspaper advertisement.
+Related evidence: `E-055`
+Repository source capture: `evidence/source-captures/501-main-holman-1915-1921.md`
 Notes: Identifies Holman & Pace as undertakers, embalmers and funeral directors in Oregon City. No street address is printed in the recovered ad. Original page PDF still needs physical mirroring.
 
 ## S-069 — National Register nomination, DeWitt Clinton Latourette House, 1992
-Canonical PDF: https://npgallery.nps.gov/GetAsset/152322a5-6e9f-44b2-8871-c4fef169dad0/  
-Type: Official National Park Service documentation / secondary source lead.  
+Canonical PDF: https://npgallery.nps.gov/GetAsset/152322a5-6e9f-44b2-8871-c4fef169dad0/
+Type: Official National Park Service documentation / secondary source lead.
 Relevant page: PDF p. **7** (one-based; corrected by original-page visual inspection on 1 September 2026).
-Related evidence: `E-056`  
-Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`  
+Related evidence: `E-056`
+Repository extract note: `records/historic-surveys/1992-latourette-house-1924-directory-citation-source-note.md`
 Repository original PDF: `records/historic-surveys/1992-latourette-house-nrhp-nomination.pdf`
 Notes: Bibliography cites **R. L. Polk and Company, Oregon City Directory, 1924**; same page identifies **Oregon City Planning Department** as the repository for additional data. The directory pages themselves are not reproduced. Original 19-page NPS PDF mirrored on 1 September 2026. The citation and nomination-file repository lead are verified, not the exact directory edition or its current holding. Retrieval review: `evidence/source-captures/1924-oregon-city-directory-retrieval-review-2026-09-01.md`.
 
 ## S-070 — Oregon City Enterprise, I. Tolpolar advertisements, late 1904
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-10-21/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-11-04/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-12-30/ed-1/seq-1/  
-Type: Primary newspaper advertisements.  
-Related evidence: `E-057`  
-Repository binary: `newspapers/oregon-city-enterprise/1904-tolpolar-main-street-ad.pdf`  
-Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-10-21/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-11-04/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1904-12-30/ed-1/seq-1/
+Type: Primary newspaper advertisements.
+Related evidence: `E-057`
+Repository binary: `newspapers/oregon-city-enterprise/1904-tolpolar-main-street-ad.pdf`
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`
 Notes: Directly places **I. Tolpolar** and his furniture/household-goods business on **Main Street, Oregon City** in late 1904. The verified advertisements do not give a numbered address. The exact issue/page represented by the existing repository PDF still needs reconciliation before attaching a specific publication date to that binary.
 
 ## S-071 — Oregon City Enterprise, 3 February 1905, I. Tolpolar advertisement
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-02-03/ed-1/seq-1/  
-Type: Primary newspaper advertisement.  
-Related evidence: `E-058`  
-Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-02-03/ed-1/seq-1/
+Type: Primary newspaper advertisement.
+Related evidence: `E-058`
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`
 Notes: Places **I. Tolpolar — Main Street — Oregon City, Oregon** and advertises furniture, carpets, crockery, hardware, glassware, graniteware, and new/second-hand goods. No numbered address is printed.
 
 ## S-072 — Oregon City Enterprise, Fifth Street improvement notices, 1905
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-08-25/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-10-13/ed-1/seq-6/  
-Type: Primary municipal notices published in newspaper.  
-Related evidence: `E-059`  
-Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-08-25/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1905-10-13/ed-1/seq-6/
+Type: Primary municipal notices published in newspaper.
+Related evidence: `E-059`
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`
 Notes: Documents 1905 improvement work on **Fifth Street** from Railroad Avenue to Main Street and from Main Street to Water Street. This is block/intersection context only and does not identify a business occupant or numbered storefront.
 
 ## S-073 — Oregon and Washington Gazetteer and Business Directory, 1905–1906 — source lead
-Type: Historical business-directory lead; underlying pages not yet inspected.  
-Related research note: `evidence/source-captures/1904-1905-main-street-research.md`  
+Type: Historical business-directory lead; underlying pages not yet inspected.
+Related research note: `evidence/source-captures/1904-1905-main-street-research.md`
 Notes: Catalog/search evidence identifies a 1905–1906 Oregon and Washington gazetteer/business directory available through FamilySearch. The viewer required sign-in during the research session, so no 503/505/507 occupant claim is made from it. Priority target is the Oregon City Main Street address/business listings.
 
 ## S-074 — Oregon City Enterprise, 30 June 1905, preliminary street-numbering / free-delivery report
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/  
-Type: Primary newspaper / municipal-context evidence.  
-Related evidence: `E-060`  
-Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1905-06-30/ed-1/seq-1/
+Type: Primary newspaper / municipal-context evidence.
+Related evidence: `E-060`
+Repository source capture: `evidence/source-captures/1904-1905-main-street-research.md`
 Notes: Reports that a system of numbering residences had recently been introduced and urges residents to number properties so federal inspection for free mail delivery can proceed. It does not reproduce an address plat and does not prove that the later 501/503/505/507 Main sequence was already uniformly assigned or consistently used.
 
 ## S-075 — Oregon City formal street-numbering campaign, 1906
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-06/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-08-17/ed-1/seq-1/  
-Type: Primary newspaper / municipal-context evidence.  
-Related evidence: `E-061`  
-Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-06/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-08-17/ed-1/seq-1/
+Type: Primary newspaper / municipal-context evidence.
+Related evidence: `E-061`
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`
 Notes: Documents the 1906 transition from free-delivery requirements to a formal street-numbering ordinance, a filed **plat designating the correct numbering**, numbering-map work, street signs, and implementation. The 17 August issue also prints **504 Main Street** for Lerow’s Glass Blowers. The original numbering plat remains a priority source to recover.
 
 ## S-076 — Sixth Street improvement across Main Street, 1906
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/  
-Type: Primary municipal notice / newspaper reporting.  
-Related evidence: `E-062`  
-Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-05-25/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-07-13/ed-1/seq-1/
+Type: Primary municipal notice / newspaper reporting.
+Related evidence: `E-062`
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`
 Notes: Documents grading and improvement of Sixth Street across Main, including crushed rock/gravel, sidewalks, curbs, drains, gutters, corner blocks, grade re-establishment, and a related proposal to move hill steps from Sixth to Fifth. No storefront demolition is established.
 
 ## S-077 — Rosenstein’s Clothing House fire, 1906
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-12-14/ed-1/seq-7/  
-Type: Primary newspaper advertisements / fire aftermath evidence.  
-Related evidence: `E-063`  
-Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-12-14/ed-1/seq-7/
+Type: Primary newspaper advertisements / fire aftermath evidence.
+Related evidence: `E-063`
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`
 Notes: Places Rosenstein’s Clothing House **two doors south of Postoffice, Main Street** and documents stock slightly damaged by a November 1906 fire. No numbered address or building-destruction claim is supported.
 
 ## S-078 — William Tell Hotel / Block 26 lot 8, October 1906
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn83025138/1906-10-05/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/  
-Type: Primary newspaper and recorded-transfer reporting.  
-Related evidence: `E-064`  
-Repository source capture: `evidence/source-captures/1906-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1906-10-05/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1906-10-19/ed-1/seq-6/
+Type: Primary newspaper and recorded-transfer reporting.
+Related evidence: `E-064`
+Repository source capture: `evidence/source-captures/1906-main-street-research.md`
 Notes: The *Morning Oregonian* places the historic three-story frame William Tell Hotel at **Sixth and Main** and reports its $13,000 sale to Gambrinus Brewing Company. The *Enterprise* transfer column records the matching Gambrinus transaction at **lot 8, block 26**. Task 6 establishes Block 26 as the opposite/even-numbered side control, not the target 501/503/505 frontage in original Block 4.
 
 ## S-079 — Pacific States Telephone & Telegraph new central office, 1907
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-4/  
-Type: Primary newspaper / construction evidence.  
-Related evidence: `E-065`  
-Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-4/
+Type: Primary newspaper / construction evidence.
+Related evidence: `E-065`
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`
 Notes: Reports a newly completed modern telephone central-office plant on the **east side of Main Street between Fifth and Sixth**, after more than a year of work and approximately $30,000 in local plant improvements. No numbered address or lot is printed.
 
 ## S-080 — Main Street railway-track, paving, and grade reconstruction, 1907
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-14/  
-- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-05-09/ed-1/seq-10/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1907-05-10/ed-1/seq-5/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1907-08-16/ed-1/seq-5/  
-Type: Primary newspaper / railway and public-works evidence.  
-Related evidence: `E-066`  
-Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-04-01/ed-1/seq-14/
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1907-05-09/ed-1/seq-10/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1907-05-10/ed-1/seq-5/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1907-08-16/ed-1/seq-5/
+Type: Primary newspaper / railway and public-works evidence.
+Related evidence: `E-066`
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`
 Notes: Documents reconstruction of the Main Street track/roadbed from Eleventh Street to the Basin, new heavy rail, disturbed/relaid brick paving, and a **roughly six-inch increase in street/track elevation**. The corridor includes the Fifth–Sixth block. No target storefront demolition is established.
 
 ## S-081 — Mount Hood Cafe / Fifth & Main anchor, 1907
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-01-04/ed-1/seq-3/  
-Type: Primary newspaper / geographic anchor.  
-Related evidence: `E-067`  
-Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-01-04/ed-1/seq-3/
+Type: Primary newspaper / geographic anchor.
+Related evidence: `E-067`
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`
 Notes: A runaway-horse report places the Mount Hood Cafe at or immediately associated with the **Fifth-and-Main** intersection context. No numbered address is printed.
 
 ## S-082 — John Gohra saloon at Main & Sixth, 1907
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-04-12/ed-1/seq-2/  
-Type: Primary newspaper / liquor-license notice.  
-Related evidence: `E-068`  
-Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-04-12/ed-1/seq-2/
+Type: Primary newspaper / liquor-license notice.
+Related evidence: `E-068`
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`
 Notes: John Gohra sought renewal for his existing place of business at **Main and Sixth streets**. No numbered address or direct connection to the William Tell/Gambrinus lot-8 property is established.
 
 ## S-083 — I. Tolpolar opposite the Post Office, 1907
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-30/ed-1/seq-3/  
-Type: Primary newspaper advertisement / relative-location evidence.  
-Related evidence: `E-069`  
-Repository source capture: `evidence/source-captures/1907-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-30/ed-1/seq-3/
+Type: Primary newspaper advertisement / relative-location evidence.
+Related evidence: `E-069`
+Repository source capture: `evidence/source-captures/1907-main-street-research.md`
 Notes: Advertisement places **I. Tolpolar — Main St. Opp. Postoffice**. This strengthens his location evidence over the 1904–1905 Main-Street-only ads but does not establish an exact number.
 
 ## S-084 — Main Street overhead-wire and pole removal, 1908
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn83025138/1908-01-10/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-02-14/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/  
-Type: Primary newspaper / utility and streetscape evidence.  
-Related evidence: `E-070`  
-Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn83025138/1908-01-10/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-02-14/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/
+Type: Primary newspaper / utility and streetscape evidence.
+Related evidence: `E-070`
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`
 Notes: Documents the order and implementation to remove telegraph, telephone, and electric-light poles/wires from Main Street between Eleventh Street and the Basin. The Fifth–Sixth block is within the corridor; no target-building demolition is established.
 
 ## S-085 — I. Tolpolar creditor sale opposite Post Office, 1908
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-03/ed-1/seq-2/  
-Type: Primary newspaper advertisement / business-transition evidence.  
-Related evidence: `E-071`  
-Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-03/ed-1/seq-2/
+Type: Primary newspaper advertisement / business-transition evidence.
+Related evidence: `E-071`
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`
 Notes: Announces a sale of Tolpolar's stock to satisfy creditors and locates the business **Main St. Opp. P.O.** No numbered address or permanent-closure claim is supported.
 
 ## S-086 — Shoe retailer between Fifth and Sixth, 1908
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-05-22/ed-1/seq-7/  
-Type: Primary newspaper advertisement / block-occupancy evidence.  
-Related evidence: `E-072`  
-Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-05-22/ed-1/seq-7/
+Type: Primary newspaper advertisement / block-occupancy evidence.
+Related evidence: `E-072`
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`
 Notes: Places a promotional shoe retailer directly on **Main Street between Fifth and Sixth Streets**. The merchant name is not reliably recoverable from the available OCR/layout and remains unresolved.
 
 ## S-087 — Pacific Telephone Oregon City expansion, 1908
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/  
-Type: Primary newspaper / utility-business evidence.  
-Related evidence: `E-073`  
-Repository source capture: `evidence/source-captures/1908-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063700/1908-07-31/ed-1/seq-8/
+Type: Primary newspaper / utility-business evidence.
+Related evidence: `E-073`
+Repository source capture: `evidence/source-captures/1908-main-street-research.md`
 Notes: Reports a **$10,000 appropriation** for expanding Pacific Telephone's Oregon City facilities/cables, names Manager George J. Hall, and repeats that all wires would be moved from Main Street. No exact office number is printed.
 
 ## S-088 — Water Street Fifth–Sixth improvement, 1909
-Canonical sources:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1909-03-12/ed-1/seq-7/  
-- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-Type: Primary newspaper municipal notice + primary Oregon City Council record.  
-Related evidence: `E-074`  
-Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Canonical sources:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1909-03-12/ed-1/seq-7/
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+Type: Primary newspaper municipal notice + primary Oregon City Council record.
+Related evidence: `E-074`
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`
 Notes: Documents improvement of **Water Street from Fifth to Sixth Streets** in 1909, including grading, rock/gravel, sidewalks, curbs, crosswalks and drainage. On 27 September the City Engineer reported contractor Harry Jones's work satisfactory and Council accepted it. Same-block hydrant and assessment actions are also recorded.
 
 ## S-089 — Philip Street building repair at Sixth & Main, 1909
-Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-Type: Primary Oregon City Council record.  
-Related evidence: `E-075`  
-Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+Type: Primary Oregon City Council record.
+Related evidence: `E-075`
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`
 Notes: At the 1 December 1909 meeting, Council ordered Philip Street notified to remove rubbish from Sixth Street caused by **repair of his building at Sixth and Main Streets**. No exact number/lot/building identity is given.
 
 ## S-090 — Carl G. Hodes saloon at Sixth & Main, 1909
-Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-Type: Primary Oregon City Council liquor-license record.  
-Related evidence: `E-076`  
-Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+Type: Primary Oregon City Council liquor-license record.
+Related evidence: `E-076`
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`
 Notes: 6 October 1909 Council minutes separately list Carl G. Hodes at Fourth/Main and **Sixth/Main** among saloon-license renewal applicants; renewals were ordered granted subject to fees and bonds. Exact numbered address and building identity remain unresolved.
 
 ## S-091 — Harding Building c.1909 chronology correction
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1918-09-26/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/seq-8/  
-Type: Primary newspaper retrospective + later direct location evidence.  
-Related evidence: `E-077`  
-Repository source capture: `evidence/source-captures/1909-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1918-09-26/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/seq-8/
+Type: Primary newspaper retrospective + later direct location evidence.
+Related evidence: `E-077`
+Repository source capture: `evidence/source-captures/1909-main-street-research.md`
 Notes: A 1918 retrospective says Christian Science services were held in the Harding Building nine years earlier, supporting existence around 1909; a 1911 article places the Harding Building on **Main Street between Fifth and Sixth**. These sources do **not** establish that the Harding Building equaled 507 Main in 1909.
 
 ## S-092 — New Gambrinus business block at Sixth & Main, 1910
-Canonical sources:  
-- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-26/ed-1/seq-1/  
-Type: Primary Oregon City Council record + primary newspaper construction report.  
-Related evidence: `E-078`  
-Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Canonical sources:
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-26/ed-1/seq-1/
+Type: Primary Oregon City Council record + primary newspaper construction report.
+Related evidence: `E-078`
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`
 Notes: On 29 June Council permitted contractor J. G. Killgreen to stage material in Main and Sixth streets abutting the **Gambrinus property at Sixth & Main** for construction of a **new building at that location**. On 26 August the *Courier* reported the basement complete for a new **two-story Gambrinus Brewing Company business block on Main at Sixth**. No direct demolition notice for the prior William Tell structure has yet been recovered.
 
 ## S-093 — Oregon City Council, 1 June 1910, Fifth/Main and Sixth/Main business anchors
-Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-Type: Primary Oregon City Council record.  
-Related evidence: `E-079`, `E-080`  
-Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Canonical source: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+Type: Primary Oregon City Council record.
+Related evidence: `E-079`, `E-080`
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`
 Notes: Council records show **C. G. Hodes had vacated his saloon at Sixth & Main** for a period and separately identify **E. R. Case's saloon at Fifth & Main**, with a restaurant adjoining it. No exact Main Street numbers are printed.
 
 ## S-094 — Oregon City Courier Main Street business/address anchors, 1910
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-04/ed-1/seq-12/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-09-23/ed-1/seq-3/  
-Type: Primary newspaper advertising / address evidence.  
-Related evidence: `E-081`  
-Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-04/ed-1/seq-12/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-09-23/ed-1/seq-3/
+Type: Primary newspaper advertising / address evidence.
+Related evidence: `E-081`
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`
 Notes: Price Bros. is placed at **Sixth & Main** in March and September. The September business page also lists **H. P. Brightbill — 509 Main**, **Pioneer Market / H. W. Streibig — Fifth & Main**, **Geo. A. Harding — 611 Main**, and **Watson B. Eddy & Son — Main & Sixth**. Intersection descriptions are not converted into exact target numbers.
 
 ## S-095 — Pacific Telephone & Telegraph at 510 Main, 1910
-Canonical examples:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-05/ed-1/seq-4/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-12-02/ed-1/seq-8/  
-Type: Primary newspaper advertisements / exact-address evidence.  
-Related evidence: `E-082`  
-Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Canonical examples:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-08-05/ed-1/seq-4/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-12-02/ed-1/seq-8/
+Type: Primary newspaper advertisements / exact-address evidence.
+Related evidence: `E-082`
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`
 Notes: Repeated August–December advertisements identify **Pacific Telephone & Telegraph Co., 510 Main St., Oregon City, Ore.** This resolves the office's exact address by 1910 but does not by itself prove the 510 number applied continuously back to the 1907 central-office completion.
 
 ## S-096 — Main Street concrete-walk / awning / sign modernization, 1910
-Canonical sources:  
-- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-10-14/ed-1/seq-1/  
-Type: Primary municipal record + primary newspaper streetscape report.  
-Related evidence: `E-083`  
-Repository source capture: `evidence/source-captures/1910-main-street-research.md`  
+Canonical sources:
+- https://ormswd.synergydcs.com/HPRMWebDrawer/Record/6375928/File/document
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1910-10-14/ed-1/seq-1/
+Type: Primary municipal record + primary newspaper streetscape report.
+Related evidence: `E-083`
+Repository source capture: `evidence/source-captures/1910-main-street-research.md`
 Notes: In July Council ordered concrete walks where necessary along Main Street between Eleventh and the Basin. In October the *Courier* reported the city order removing old wooden awnings projecting over sidewalks and requiring projecting signs to be placed flat against buildings. These are streetscape changes, not evidence of target-building replacement.
 
 ## S-097 — Chicago Store relocation from 405 to 505 Main, 1911
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-31/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-07/ed-1/seq-6/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-28/ed-1/seq-7/  
-Type: Primary newspaper advertisements / exact-address relocation evidence.  
-Related evidence: `E-084`, `E-026`  
-Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-27/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-03/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-31/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-07/ed-1/seq-6/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-14/ed-1/seq-7/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-04-28/ed-1/seq-7/
+Type: Primary newspaper advertisements / exact-address relocation evidence.
+Related evidence: `E-084`, `E-026`
+Repository source capture: `evidence/source-captures/1911-main-street-research.md`
 Notes: The Chicago Store, explicitly identified as **Wolf & Nat, proprietors**, advertised at **405 Main** through 3 February 1911. By 31 March it advertised at **505 Main**, repeated through April. This narrows the documented relocation/readdressing to after 3 February and by 31 March. The available 505 ad text does not directly name proprietors.
 
 ## S-098 — Harding Building location descriptions / Willamette adjacency, 1911
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-24/ed-1/seq-5/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/seq-8/  
-Type: Primary newspaper / building-location and business-move evidence.  
-Related evidence: `E-085`  
-Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-02-24/ed-1/seq-5/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-10/ed-1/seq-8/
+Type: Primary newspaper / building-location and business-move evidence.
+Related evidence: `E-085`
+Repository source capture: `evidence/source-captures/1911-main-street-research.md`
 Notes: One item locates a repair shop in the **Harding building on Sixth Street between Main and Railroad avenue**; another says George Young moved one door north into the Willamette Building from the **Harding building on Main Street between Fifth and Sixth**. These descriptions are preserved as a mapping problem and are not converted into an exact number.
 
 ## S-099 — New Gambrinus block used as Electric Hotel annex, 1911
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-5/  
-Type: Primary newspaper / new-building occupancy evidence.  
-Related evidence: `E-086`  
-Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-5/
+Type: Primary newspaper / new-building occupancy evidence.
+Related evidence: `E-086`
+Repository source capture: `evidence/source-captures/1911-main-street-research.md`
 Notes: Reports J. Tobin of the Electric Hotel renting the **second story of the new Gambrinus block** as a hotel annex. The block had steam heat, electric lights, and some rooms with hot/cold water connections, showing the 1910 new building occupied/in service by early March 1911.
 
 ## S-100 — Sixth Street grade and improvement, 1911
-Canonical pages:  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-1/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-24/ed-1/seq-8/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-07-21/ed-1/seq-8/  
-- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-10-06/ed-1/seq-1/  
-Type: Primary newspaper reporting of municipal public works.  
-Related evidence: `E-087`  
-Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
+Canonical pages:
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-03/ed-1/seq-1/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-03-24/ed-1/seq-8/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-07-21/ed-1/seq-8/
+- https://oregonnews.uoregon.edu/lccn/sn00063698/1911-10-06/ed-1/seq-1/
+Type: Primary newspaper reporting of municipal public works.
+Related evidence: `E-087`
+Repository source capture: `evidence/source-captures/1911-main-street-research.md`
 Notes: Documents a 1911 Sixth Street grade/improvement process, including grade-change debate, assessment objections, and an assessment ordinance for improvement from High to Jackson. The corridor crosses Main at the north end of the target block; no target-building demolition is established.
 
 ## S-101 — Pacific Telephone & Telegraph at 510 Main, January 1911
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-06/ed-1/seq-2/  
-Type: Primary newspaper advertisement / exact-address continuity evidence.  
-Related evidence: `E-088`  
-Repository source capture: `evidence/source-captures/1911-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-01-06/ed-1/seq-2/
+Type: Primary newspaper advertisement / exact-address continuity evidence.
+Related evidence: `E-088`
+Repository source capture: `evidence/source-captures/1911-main-street-research.md`
 Notes: Continues Pacific Telephone & Telegraph's exact **510 Main St.** listing from late 1910 into 6 January 1911. This strengthens, but does not prove, physical continuity with the central-office plant completed in 1907.
 
 ## S-102 — Oregon City Courier, 5 January 1912, visually verified Main Street business/address page
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6.pdf  
-Type: Primary newspaper advertising / exact-address reconstruction evidence.  
-Related evidence: `E-089`, `E-092`, `E-093`; cross-reference `E-050`, `E-051`, `S-059`, `S-061`  
-Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-05/ed-1/seq-6.pdf
+Type: Primary newspaper advertising / exact-address reconstruction evidence.
+Related evidence: `E-089`, `E-092`, `E-093`; cross-reference `E-050`, `E-051`, `S-059`, `S-061`
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`
 Notes: Visual inspection corrects several OCR errors and establishes **H. N. Smith — 503 Main**, **G. H. Young — 507 Main**, **H. P. Brightbill — 509 Main**, and **Geo. A. Harding — 511 Main**. The OCR misreads Smith as 603, Brightbill as 609, and garbles Harding's number. The same page places the Chicago Store just below the Post Office and other firms relative to the Post Office; those relative descriptions are not converted to exact numbers.
 
 ## S-103 — Morning Enterprise, 24 March 1912, Smith pool-hall notice and Gambrinus Saloon
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-24/ed-1/seq-2/  
-Type: Primary newspaper legal notice + business-location report.  
-Related evidence: `E-023`, `E-089`, `E-091`  
-Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-03-24/ed-1/seq-2/
+Type: Primary newspaper legal notice + business-location report.
+Related evidence: `E-023`, `E-089`, `E-091`
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`
 Notes: A legal notice signed **H. H. Smith** gives his pool-hall place of business as **503 Main Street**. The same issue also identifies the **Gambrinus Saloon at Sixth & Main** and names **William Trudell** as proprietor. This verified March 24 page supplements the older `S-024` capture of the Smith notice.
 
 ## S-104 — Oregon City Courier, 12 July 1912, H. H. Smith leaves Fifth/Main pool hall
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-12/ed-1/seq-5/  
-Type: Primary newspaper / business-transition and relative-location evidence.  
-Related evidence: `E-089`  
-Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-07-12/ed-1/seq-5/
+Type: Primary newspaper / business-transition and relative-location evidence.
+Related evidence: `E-089`
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`
 Notes: Reports that **H. H. Smith**, who had conducted a pool hall at **Fifth and Main streets**, left Oregon City for Aurora to open another pool hall. Combined with his March 503 Main legal notice, this is strong continuity evidence for the 503 pool-hall sequence, though the January H. N. versus later H. H. initials discrepancy remains unresolved.
 
 ## S-105 — Oregon City Courier, 10 May 1912, active Main Street demolition/rebuilding
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-10/ed-1/seq-1/  
-Type: Primary newspaper editorial / contemporaneous construction context.  
-Related evidence: `E-090`  
-Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-10/ed-1/seq-1/
+Type: Primary newspaper editorial / contemporaneous construction context.
+Related evidence: `E-090`
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`
 Notes: A present-tense editorial states that Oregon City was then **tearing down buildings on Main Street and building new buildings in their places**. It does not name a block, owner, business, or number, so it is evidence of active Main Street structural replacement in 1912 but not proof of demolition at 501/503/505/507.
 
 ## S-106 — Oregon City Courier, 20 December 1912, Schrader bakery sale
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-20/ed-1/seq-8.pdf  
-Type: Primary newspaper / business-transfer evidence.  
-Related evidence: `E-093`  
-Repository source capture: `evidence/source-captures/1912-main-street-research.md`  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-12-20/ed-1/seq-8.pdf
+Type: Primary newspaper / business-transfer evidence.
+Related evidence: `E-093`
+Repository source capture: `evidence/source-captures/1912-main-street-research.md`
 Notes: Reports that **Herman Schrader** sold his two Oregon City bakeries—one at Seventh and John Adams and one **on Main Street**—to **Wemmo & Haas**. Earlier January advertising placed Schrader's Bakery near the Post Office, but no exact Main Street number is established.
 
 ## S-107 — Morning Enterprise, 23 October 1913, Block 26 assessment notice
@@ -814,31 +814,31 @@ All supplied images reviewed. Nov 11seq8 is printed 6; PDF/IIIF agree, physical 
 
 
 ## S-122 - Courier 1915 visual batch, sheets 111-123
-Type: Primary newspaper scans / exhaustive visual review.  
-Dates: 2-30 December 1915.  
-Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD/ed-1/seq-N.pdf  
-Repository: `newspapers/oregon-city-courier/1915-sheets-111-123/`; exact URLs and SHA-256 hashes in `manifest.json`.  
-Media: `IMG-0203` through `IMG-0248`.  
-Evidence: `E-110`; detailed review `evidence/source-captures/1915-courier-sheets-111-123.md`.  
+Type: Primary newspaper scans / exhaustive visual review.
+Dates: 2-30 December 1915.
+Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063698/YYYY-MM-DD/ed-1/seq-N.pdf
+Repository: `newspapers/oregon-city-courier/1915-sheets-111-123/`; exact URLs and SHA-256 hashes in `manifest.json`.
+Media: `IMG-0203` through `IMG-0248`.
+Evidence: `E-110`; detailed review `evidence/source-captures/1915-courier-sheets-111-123.md`.
 Notes: All 46 supplied December images visually inspected. Dated directories extend Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527 through 30 December; Scripture & May remains unnumbered; Holman/Randall Fifth/Main continues; 2 December p4 extends the Fifth Street improvement/payment controversy. No exact 503/505 or new numbered Fifth occupant found; coverage only. Courier inventory reaches 123/123, while 1915 remains IN PROGRESS because Enterprise, other-source work and M01-M04 remain.
 
 
 ## S-123 — Morning Enterprise 1915 visual batch, chronological pages 1–120
-Type: Primary newspaper scans / exhaustive visual review.  
-Dates: 1 January–9 April 1915; 15 complete issues, 120 page images.  
-Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063700/YYYY-MM-DD/ed-1/seq-N.pdf  
-Repository: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; exact URLs and SHA-256 hashes in `manifest.json`.  
-Media: `IMG-0249` through `IMG-0368`.  
-Evidence: `E-111`; detailed review `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
+Type: Primary newspaper scans / exhaustive visual review.
+Dates: 1 January–9 April 1915; 15 complete issues, 120 page images.
+Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063700/YYYY-MM-DD/ed-1/seq-N.pdf
+Repository: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; exact URLs and SHA-256 hashes in `manifest.json`.
+Media: `IMG-0249` through `IMG-0368`.
+Evidence: `E-111`; detailed review `evidence/source-captures/1915-enterprise-pages-001-120.md`.
 Notes: All 120 scans visually inspected. Holman move to Fifth/Main verified 1 Jan p5; A. J. Eddy/Fashion Stable verified on Fifth between Main and Water; Mar 26, Apr 2 and Apr 9 pages extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth occupant identified; coverage only. Pause after 9 Apr p8; next 16 Apr p1.
 
 
 ## S-124 - Morning Enterprise 1915 visual batch, chronological pages 121-160
-Type: Primary newspaper scans / exhaustive visual review.  
-Dates: 16 April-14 May 1915; five complete issues, 40 page images.  
-Repository: `newspapers/oregon-city-enterprise/1915-pages-121-160/`; exact URLs and SHA-256 hashes in `manifest.json`.  
-Media: `IMG-0369` through `IMG-0408`.  
-Evidence: `E-112`; detailed review `evidence/source-captures/1915-enterprise-pages-121-160.md`.  
+Type: Primary newspaper scans / exhaustive visual review.
+Dates: 16 April-14 May 1915; five complete issues, 40 page images.
+Repository: `newspapers/oregon-city-enterprise/1915-pages-121-160/`; exact URLs and SHA-256 hashes in `manifest.json`.
+Media: `IMG-0369` through `IMG-0408`.
+Evidence: `E-112`; detailed review `evidence/source-captures/1915-enterprise-pages-121-160.md`.
 Notes: All 40 scans visually inspected. W. S. Eddy/Fashion Stable is placed on Fifth between Main and Water; 7 May reports formation of Holman & Randall at Holman's Main-near-Fifth undertaking establishment; April-May reports extend the Main Street paving/cluster-light chronology. No exact 503/505 or new numbered Fifth occupant; coverage only.
 
 ## S-125 — Lane County News, 3 February 1916, Gilbert Miller at Wolf & Miller
@@ -864,20 +864,20 @@ Notes: Section 8 printed page 1B / PDF page 15 identifies Charles Edwin “Pop�
 
 
 ## S-128 - Morning Enterprise 1915 visual batch, chronological pages 161-200
-Type: Primary newspaper scans / exhaustive visual review.  
-Dates: 21 May-18 June 1915; five complete issues, 40 page images.  
-Repository: `newspapers/oregon-city-enterprise/1915-pages-161-200/`; exact URLs and SHA-256 hashes in `manifest.json`.  
-Media: `IMG-0414` through `IMG-0453`.  
-Evidence: `E-114`; detailed review `evidence/source-captures/1915-enterprise-pages-161-200.md`.  
+Type: Primary newspaper scans / exhaustive visual review.
+Dates: 21 May-18 June 1915; five complete issues, 40 page images.
+Repository: `newspapers/oregon-city-enterprise/1915-pages-161-200/`; exact URLs and SHA-256 hashes in `manifest.json`.
+Media: `IMG-0414` through `IMG-0453`.
+Evidence: `E-114`; detailed review `evidence/source-captures/1915-enterprise-pages-161-200.md`.
 Notes: All 40 scans visually inspected. June 4 p1 directly places Cox's poolhall on Main between Seventh and Eighth, excluding 503 for that raid-period hall; June 4 p3 advances the Main Street improvement/cluster-light chronology; W. S. Eddy/Fashion Stable and Holman & Randall continuity are retained without invented numbers. No exact 503/505 or new numbered Fifth occupant; coverage only.
 
 
 ## S-129 - Morning Enterprise 1915 visual batch, chronological pages 201-225
-Type: Primary newspaper scans / exhaustive visual review.  
-Dates: 25 June-16 July 1915; 25 page images (three complete issues plus 16 July p1).  
-Repository: `newspapers/oregon-city-enterprise/1915-pages-201-225/`; exact URLs and SHA-256 hashes in `manifest.json`.  
-Media: `IMG-0454` through `IMG-0478`.  
-Evidence: `E-115`; detailed review `evidence/source-captures/1915-enterprise-pages-201-225.md`.  
+Type: Primary newspaper scans / exhaustive visual review.
+Dates: 25 June-16 July 1915; 25 page images (three complete issues plus 16 July p1).
+Repository: `newspapers/oregon-city-enterprise/1915-pages-201-225/`; exact URLs and SHA-256 hashes in `manifest.json`.
+Media: `IMG-0454` through `IMG-0478`.
+Evidence: `E-115`; detailed review `evidence/source-captures/1915-enterprise-pages-201-225.md`.
 Notes: All 25 scans visually inspected. June 25 confirms the Worswick Main Street paving award; July 2 records the bond/guarantee deadlock; July 9 records security terms and actual Main Street rail/preparatory work beginning. No exact 503/505 or new numbered Fifth occupant; coverage only. Pause after 16 July p1; next p2.
 
 ## S-130 - Oregon City Courier 1916 visual batch, chronological pages 106-180
@@ -889,11 +889,11 @@ Evidence: E-116; detailed record `evidence/source-captures/1916-courier-pages-10
 Scope: all 75 selected scans visually verified; May 18 pages 4–8 excluded; no annual completion claim.
 
 ## S-131 — Oregon City Water Rent Record Book 3, 1914–1915
-Canonical URL: https://www.orcity.org/DocumentCenter/View/6213/1914-1915-Water-Rent-Record-Book-3  
-Type: Primary official municipal water-rent ledger; relevant target/Fifth-Main pages **visually verified from full-resolution scans**.  
-Repository reviewed extracts: `records/municipal/water-rent/1914-1915-book-3-review-pages/` (official PDF pages 1–12 plus source/page hashes and provenance).  
-Related evidence: `E-117`.  
-Repository source capture: `evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md`.  
+Canonical URL: https://www.orcity.org/DocumentCenter/View/6213/1914-1915-Water-Rent-Record-Book-3
+Type: Primary official municipal water-rent ledger; relevant target/Fifth-Main pages **visually verified from full-resolution scans**.
+Repository reviewed extracts: `records/municipal/water-rent/1914-1915-book-3-review-pages/` (official PDF pages 1–12 plus source/page hashes and provenance).
+Related evidence: `E-117`.
+Repository source capture: `evidence/source-captures/1914-1915-water-rent-record-book-3-visual-review.md`.
 Notes: The full City source is 139 scanned PDF pages; this project audit preserves/reviews the relevant downtown extracts, not an exhaustive transcription of all 139 pages. Target printed p5 shows 511→509→507→blank/V→503→503½→501; comparison p4 supplies independent V tenant marks at 523 and 521, strongly supporting V as vacancy notation. Printed p3 supplies 110 Fifth/Stable; p5 supplies 107 Fifth/Blacksmith. The blank target row remains unnumbered and is not promoted to exact 505.
 
 ## S-132 — Oregon and Washington State Gazetteer and Business Directory, 1915–1916
@@ -913,11 +913,11 @@ Evidence: E-119; detailed record `evidence/source-captures/1916-courier-first-mo
 Scope: all seven selected issues visually verified; intervening issues not certified by this sample. Annual status IN PROGRESS.
 
 ## S-134 — Oregon City Courier 1917 first-issue monthly visual sample
-Type: Primary newspaper scans / structured monthly sampling pass.  
-Dates: 4 Jan, 1 Feb, 1 Mar, 5 Apr, 3 May, 7 Jun, 5 Jul, 2 Aug, 6 Sep, 4 Oct, 1 Nov, 6 Dec 1917; **12 complete selected issues / 96 page images**.  
-Repository: `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; exact source URLs, SHA-256 hashes, media IDs and visual statuses in `manifest.json`.  
-Media: `IMG-0612` through `IMG-0707`.  
-Evidence: `E-120`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.  
+Type: Primary newspaper scans / structured monthly sampling pass.
+Dates: 4 Jan, 1 Feb, 1 Mar, 5 Apr, 3 May, 7 Jun, 5 Jul, 2 Aug, 6 Sep, 4 Oct, 1 Nov, 6 Dec 1917; **12 complete selected issues / 96 page images**.
+Repository: `newspapers/oregon-city-courier/1917-first-issue-monthly-sample/`; exact source URLs, SHA-256 hashes, media IDs and visual statuses in `manifest.json`.
+Media: `IMG-0612` through `IMG-0707`.
+Evidence: `E-120`; detailed log `evidence/source-captures/1917-courier-first-issue-monthly-sample.md`.
 Notes: All 96 sampled scans visually inspected. Jan4/Feb1 directly verify Scripture & May at 108 Fifth; Jan4 directly verifies Electric Store at Andresen 619 Main; Oct4 verifies Theroux Music House 519 Main; Nov1 directly verifies Jones Drug Co. 617 Main. No exact 501/503/505/507/509/511 occupant established in the sample; coverage only. This sampling pass is not annual completion.
 
 ## S-135 — Oregon City Courier, 4 October 1907, page 3
@@ -1152,11 +1152,11 @@ Limits: No named 501/503/505 occupant or target reconstruction identified. Fifth
 **15 September 2026 steward-upload reconciliation:** newly supplied `1926-municipal-activities-report.pdf` is byte-identical to the canonical repository original (same SHA-256 and Git blob); no duplicate binary or source ID was created. The Fifth/Main and Sixth/Main fire-table controls were rechecked against the supplied scan. Batch reconciliation: `evidence/source-captures/1925-1929-municipal-activities-reports-review-2026-09-15.md`.
 
 ## S-160 — Oregon City Enterprise, 11 July 1919, p. 5, Gilbert Miller family relocation
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026.  
-Source/location: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5/  
-PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5.pdf  
-Related evidence: `E-144`  
-Repository source capture: `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026.
+Source/location: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5/
+PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-07-11/ed-1/seq-5.pdf
+Related evidence: `E-144`
+Repository source capture: `evidence/source-captures/1919-07-11-gilbert-miller-family-relocation-visual-review.md`
 Notes: Society item identifies Mr. and Mrs. Gilbert Miller at Ninth and Division streets and reports that their daughter came to Oregon City with her parents from Springfield about a year earlier. Corroborates family migration/residence chronology only; does not name Wolf & Miller, place Gilbert at 505/505½, resolve the C. E. Miller discrepancy, or report construction. Remote scan visually inspected; binary mirroring remains under `RL-021`.
 
 ## Legacy branch sources integrated 1 September 2026
@@ -1164,99 +1164,99 @@ Notes: Society item identifies Mr. and Mrs. Gilbert Miller at Ninth and Division
 These source IDs preserve previously branch-only research. The branch snapshot is retained under `records/repository-history/`. Verification states are not silently upgraded during consolidation.
 
 ## S-161 — Courier-Herald, 3 January 1902, p. 24, Schrader profile
-URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-145`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-01-03/ed-1/seq-24.pdf
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-145`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-162 — Courier-Herald, 24 October 1902, p. 5, Huntley Bros. remodel
-URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: contextual source only; no standalone claim-level record assigned.  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063697/1902-10-24/ed-1/seq-5.pdf
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: contextual source only; no standalone claim-level record assigned.
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-163 — Oregon City Courier, 7 November 1902, p. 1, Union Store
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-146`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1902-11-07/ed-1/seq-1/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-146`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-164 — Oregon City Courier, 2 January 1903, p. 4, Portland Clothing House
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-02/ed-1/seq-4.pdf  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-147`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-02/ed-1/seq-4.pdf
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-147`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-165 — Fair Store 1903 Post Office / move source set
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-23/ed-1/seq-3/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-148`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1903-01-23/ed-1/seq-3/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-148`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-166 — Clackamas County Record, 6 April 1903, p. 8, Harding / Willamette Building
-URL: https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-149`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063710/1903-04-06/ed-1/seq-8/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-149`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-167 — Oregon City Courier 1904 mapping-context source set
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-26/ed-1/seq-3/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: contextual source only; no standalone claim-level record assigned.  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1904-08-26/ed-1/seq-3/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: contextual source only; no standalone claim-level record assigned.
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-168 — Oregon City Enterprise, 15 January 1904, p. 3, Main Street adjacencies
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: contextual source only; no standalone claim-level record assigned.  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1904-01-15/ed-1/seq-3/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: contextual source only; no standalone claim-level record assigned.
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-169 — Oregon City Courier, 24 August 1906, p. 3, house-numbering ordinance report
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1906-08-24/ed-1/seq-3/ocr/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-061`  
-Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1906-08-24/ed-1/seq-3/ocr/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-061`
+Repository capture: `evidence/source-captures/1902-1904-legacy-branch-consolidation.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-170 — Oregon City Courier, 26 February 1914, p. 7, Holman move notice
-URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/  
-Type: Primary newspaper source / legacy-branch source trail.  
-Related evidence: `E-150`  
-Repository capture: `evidence/source-captures/1914-02-26-holman-move-fifth-main-legacy-branch-integration.md`  
+URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/
+Type: Primary newspaper source / legacy-branch source trail.
+Related evidence: `E-150`
+Repository capture: `evidence/source-captures/1914-02-26-holman-move-fifth-main-legacy-branch-integration.md`
 Notes: Preserved from legacy branch; this consolidation did not independently re-certify the remote scan. OCR endpoints remain OCR/TEXT ONLY where applicable.
 
 ## S-171 — Oregon City Courier, 24 May 1907, p. 5, Palace Saloon city saloon list
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-05-24/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-courier/1907-05-24-page-5-palace-saloon-city-list.pdf`  
-Original uploaded filename: `Palace Saloon Oregon City Courier May 1907(1).pdf`  
-Related evidence: `E-151`; business `BUS-024`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-05-24/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-courier/1907-05-24-page-5-palace-saloon-city-list.pdf`
+Original uploaded filename: `Palace Saloon Oregon City Courier May 1907(1).pdf`
+Related evidence: `E-151`; business `BUS-024`.
 Notes: City saloon-license article lists “The Palace Saloon” among Oregon City's sixteen saloons. No Palace address or proprietor is printed; no Surber/501 continuity is inferred. Uploaded SHA-256 `6960e6963bfb3c11a00d32d80f8ab6c151f84632f09e83a152400404c4d1ba26`; repository canonical derivative SHA-256 `bf57ff4c3fe2dd20d2f54fcc9b61bf00f898d285c8fe6b3df6e9aec8d770a482` (643791 bytes).
 
 ## S-172 — Oregon City Courier, 17 September 1909, p. 5, Ralph O. Smith Palace Saloon license application
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-09-17/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-courier/1909-09-17-page-5-palace-saloon-ralph-o-smith-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5.pdf`  
-Related evidence: `E-152`; person `P-098`; business `BUS-024`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-09-17/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-courier/1909-09-17-page-5-palace-saloon-ralph-o-smith-license.pdf`
+Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5.pdf`
+Related evidence: `E-152`; person `P-098`; business `BUS-024`.
 Notes: Ralph O. Smith applies for a three-month liquor license at “the Palace Saloon, corner Main and Fifth Sts.” Application does not prove grant, title, exact 501 number, or operator succession. Uploaded SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a`; repository canonical derivative SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a` (677536 bytes).
 
 Duplicate steward-upload alias reviewed 2 September 2026: `Palace Saloon (Liquor License) Oregon City courier., September 17, 1909, Page 5, Image 5(1).pdf` is byte-identical to the already preserved repository PDF, SHA-256 `4682715f6ac882a21893a9d3e0729f0f2eef5544bde41517977ee5e7cb0c077a` (677536 bytes); no duplicate file or ID was created.
 
 ## S-173 — Morning Enterprise, 20 June 1912, p. 2, Joseph Wilson Palace Saloon license application
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-06-20/ed-1/seq-2.pdf  
-Repository file: `newspapers/morning-enterprise/1912-06-20-page-2-palace-saloon-joseph-wilson-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., June 20, 1912, Page 2, Image 2.pdf`  
-Related evidence: `E-153`; business `BUS-024`; probable same-person context `P-037`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained in repository.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1912-06-20/ed-1/seq-2.pdf
+Repository file: `newspapers/morning-enterprise/1912-06-20-page-2-palace-saloon-joseph-wilson-license.pdf`
+Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., June 20, 1912, Page 2, Image 2.pdf`
+Related evidence: `E-153`; business `BUS-024`; probable same-person context `P-037`.
 Notes: Joseph Wilson applies for three months at “The Palace Saloon,” Fifth and Main streets. Compared with the 19 March 1912 exact-501 Joe Wilson notice, same-person identity is a strong inference from name form + same business + same location + close date, not an explicit statement in this page. No license grant or property ownership inferred. Uploaded SHA-256 `72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a`; repository canonical derivative SHA-256 `72b3f8ddddfbd7703af82a1abfbea9353feb3e7a0c8a81055ce8c869fb858c9a` (826263 bytes).
 
 ## S-174 — Oregon City Courier-Herald, 6 April 1900, p. 5 — Albert Knapp purchases Palace Saloon
@@ -1284,11 +1284,11 @@ Related evidence: `E-156`
 Notes: Visually verified item says Joe Kramer sat in the rear of the Palace saloon on Fifth Street. It supplies a Fifth Street location clue but no number or proprietor and is not automatically normalized to 501 Main. Uploaded SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`; repository SHA-256 `072ef700c3573eded5aa4f82cf2f3f400f537b6d764cb444bf3a4cce8548c3bc`.
 
 ## S-177 — Oregon City Courier, 25 June 1909, p. 5 — Ralph O. Smith purchases F. E. Hall interest in Palace Saloon
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-courier/1909-06-25-page-5-palace-saloon-smith-hall-interest.pdf`  
-Original uploaded filename: `Palace Saloon (sale of) Oregon City courier., June 25, 1909, Page 5, Image 5.pdf`  
-Related evidence: `E-157`; people `P-098`, `P-100`; business `BUS-024`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-06-25/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-courier/1909-06-25-page-5-palace-saloon-smith-hall-interest.pdf`
+Original uploaded filename: `Palace Saloon (sale of) Oregon City courier., June 25, 1909, Page 5, Image 5.pdf`
+Related evidence: `E-157`; people `P-098`, `P-100`; business `BUS-024`.
 Notes: Reports Ralph O. Smith purchased the interest of his former partner F. E. Hall in the Palace Saloon. No address, percentage, consideration, title, license-transfer mechanics, or exact effective date is printed. Uploaded SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`; repository SHA-256 `335bd8535856ef00b60ec36b56b5305dc4640418d2cc2b7c85dbe11be67bc1be`.
 
 ## S-178 — Oregon City Courier, 25 June and 2 July 1909, Ralph O. Smith Palace Saloon license notices
@@ -1306,163 +1306,163 @@ Related evidence: `E-158`; person `P-098`; business `BUS-024`.
 Notes: Both pages print the same three-month liquor-license application by **Ralph O. Smith** at **Palace Saloon, Fifth and Main streets**. The 2 July publication is treated as a repeat publication of the same application, not a second application or a license grant. The notices do not print 501 or establish real-estate/building ownership. The newly supplied 2 July PDF is preserved byte-for-byte, SHA-256 `94e004ddf110f08ace6ccd9609d1be2243130d5f3248f37c6a5806ecf27fa704` (691304 bytes).
 
 ## S-179 — Morning Enterprise, 20 June 1911, p. 3 — Joseph Wilson Palace Saloon liquor-license application
-Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-06-20/ed-1/seq-3.pdf  
-Repository file: `newspapers/morning-enterprise/1911-06-20-page-3-palace-saloon-joseph-wilson-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor License) Morning enterprise., June 20, 1911, Page 3, Image 3.pdf`  
-Related evidence: `E-159`; person `P-037`; business `BUS-024`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED** 1 September 2026 from project-steward upload; canonical archive PDF derivative retained.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-06-20/ed-1/seq-3.pdf
+Repository file: `newspapers/morning-enterprise/1911-06-20-page-3-palace-saloon-joseph-wilson-license.pdf`
+Original uploaded filename: `Palace Saloon (Liquor License) Morning enterprise., June 20, 1911, Page 3, Image 3.pdf`
+Related evidence: `E-159`; person `P-037`; business `BUS-024`.
 Notes: Joseph Wilson applies for three months at The Palace Saloon, corner 5th and Main streets. This predates the March 1912 exact-501 Joe Wilson notice and June 1912 Joseph Wilson notice; application is not grant/title proof. Uploaded SHA-256 `154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf`; repository SHA-256 `154f5e91dd6fe8e2299a01f4f270edebcba691804186473c11327eb38b94e7bf`.
 
 ## S-180 — Oregon City Courier, 31 August 1916, p. 3, Fifth Street Restaurant inspection
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-31/ed-1/seq-3.pdf  
-Repository file: `newspapers/oregon-city-courier/1916-08-31-page-3-fifth-street-restaurant-inspection.pdf`  
-Original uploaded filename: `Fifth Street Resturant Oregon City courier., August 31, 1916, Page 3, Image 3.pdf`  
-Related evidence: `E-160`; business `BUS-070`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-31/ed-1/seq-3.pdf
+Repository file: `newspapers/oregon-city-courier/1916-08-31-page-3-fifth-street-restaurant-inspection.pdf`
+Original uploaded filename: `Fifth Street Resturant Oregon City courier., August 31, 1916, Page 3, Image 3.pdf`
+Related evidence: `E-160`; business `BUS-070`.
 Notes: State inspection summary lists Fifth Street Restaurant at 75.3; no proprietor or exact number printed. SHA-256 `4d9511abbc922fdfa394fa1397dfa6dfc67153e449589922c604f6a680243697`.
 
 ## S-181 — Oregon City Enterprise, 31 October 1919, p. 5, Fifth Street Restaurant fine
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-10-31/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-enterprise/1919-10-31-page-5-fifth-street-restaurant-fine.pdf`  
-Original uploaded filename: `Fifth Street Resturant (fine) Oregon City enterprise., October 31, 1919, Page Page 5, Image 5(1).pdf`  
-Related evidence: `E-161`; business `BUS-070`; person `P-101`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1919-10-31/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-enterprise/1919-10-31-page-5-fifth-street-restaurant-fine.pdf`
+Original uploaded filename: `Fifth Street Resturant (fine) Oregon City enterprise., October 31, 1919, Page Page 5, Image 5(1).pdf`
+Related evidence: `E-161`; business `BUS-070`; person `P-101`.
 Notes: W. W. Pollock, conducting Fifth Street Restaurant, fined $15 and costs on state food-inspector dirty/unsanitary-place complaint. No numbered address. SHA-256 `eb793b35b119d1d88fb79953e1a1aed3fef7678918c70cb4fe3d43d1e573b754`.
 
 ## S-182 — Oregon City Enterprise, 26 August 1921, p. 4, Fifth Street Restaurant fight
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-08-26/ed-1/seq-4.pdf  
-Repository file: `newspapers/oregon-city-enterprise/1921-08-26-page-4-fifth-street-restaurant-fight.pdf`  
-Original uploaded filename: `Fifth Street Resturant (Fight) Oregon City enterprise., August 26, 1921, Page Page 4, Image 4.pdf`  
-Related evidence: `E-162`; business `BUS-070`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-08-26/ed-1/seq-4.pdf
+Repository file: `newspapers/oregon-city-enterprise/1921-08-26-page-4-fifth-street-restaurant-fight.pdf`
+Original uploaded filename: `Fifth Street Resturant (Fight) Oregon City enterprise., August 26, 1921, Page Page 4, Image 4.pdf`
+Related evidence: `E-162`; business `BUS-070`.
 Notes: Reports mistaken-identity fight involving S. Cox and Ray Doane inside Fifth Street Restaurant; place-use evidence only, no proprietor or number. SHA-256 `f54e7283381f069c6b9bc493d08e65b791fc8ef3fb4adb97a4f2268fd4bcc15b`.
 
 ## S-183 — Oregon City Enterprise, 21 July 1922, p. 1, Fifth Street Restaurant fire ownership account
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-1.pdf  
-Repository file: `newspapers/oregon-city-enterprise/1922-07-21-page-1-fifth-street-restaurant-fire-ownership.pdf`  
-Original uploaded filename: `Fifth Street Resturant (ownership) Oregon City enterprise., July 21, 1922, Image 1.pdf`  
-Related evidence: `E-163`; business `BUS-070`; people `P-102`, `P-103`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact uploaded PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-07-21/ed-1/seq-1.pdf
+Repository file: `newspapers/oregon-city-enterprise/1922-07-21-page-1-fifth-street-restaurant-fire-ownership.pdf`
+Original uploaded filename: `Fifth Street Resturant (ownership) Oregon City enterprise., July 21, 1922, Image 1.pdf`
+Related evidence: `E-163`; business `BUS-070`; people `P-102`, `P-103`.
 Notes: Same-paragraph wording names L. E. Blakely then says Blakely owned Fifth Street Restaurant; says restaurant building was owned by C. P. Gates of Portland. Preserve Blake/Blakely/Gage and C./C. P./C. E. Gates conflicts; newspaper report is not deed proof. SHA-256 `ed47337b2918af305399cf62ed1b9cd29ddba1d9ec10c1ab02f198516adbe6d1`.
 
 ## S-184 — Oregon City Enterprise, 1 September 1916, p. 5, Fifth Street Restaurant / W. W. Pollock inspection listing
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-enterprise/1916-09-01-page-5-fifth-street-restaurant-pollock-inspection.pdf`  
-Original uploaded filename: `Fifth Street Resturant (Exists) Oregon City enterprise., September 01, 1916, Image 5.pdf`  
-Related evidence: `E-164`; business `BUS-070`; person `P-101`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-enterprise/1916-09-01-page-5-fifth-street-restaurant-pollock-inspection.pdf`
+Original uploaded filename: `Fifth Street Resturant (Exists) Oregon City enterprise., September 01, 1916, Image 5.pdf`
+Related evidence: `E-164`; business `BUS-070`; person `P-101`.
 Notes: State dairy-and-food-commissioner report directly lists Fifth Street restaurant, W. W. Pollock, 75.3. No numbered address or property ownership. SHA-256 `530d674b3d7f1d2207a4952064118898d9caa7f126a4dea88aadfb383217bfb0`.
 
 ## S-185 — Oregon City Enterprise, 19 November 1920, p. 5, Guy Proffit interest in Fifth Street Restaurant
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
-Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-11-19/ed-1/seq-5.pdf  
-Repository file: `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf`  
-Original uploaded filename: `Fifth Street Resturant (Interest) Oregon City enterprise., November 19, 1920, Page Page 5, Image 5.pdf`  
-Related evidence: `E-165`; business `BUS-070`; person `P-104`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.
+Canonical page/PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1920-11-19/ed-1/seq-5.pdf
+Repository file: `newspapers/oregon-city-enterprise/1920-11-19-page-5-fifth-street-restaurant-guy-proffit-interest.pdf`
+Original uploaded filename: `Fifth Street Resturant (Interest) Oregon City enterprise., November 19, 1920, Page Page 5, Image 5.pdf`
+Related evidence: `E-165`; business `BUS-070`; person `P-104`.
 Notes: Marriage item says Guy Proffit is interested in Fifth Street Restaurant and will retain his interests there; scope/legal character of the interest and exact premises are not printed. SHA-256 `eb2077d3e859b5c52e188884135304110a42ec97003be6150fd14424e9eadc6f`.
 
 ## S-186 — Oregon City Courier, 2 July 1914, p. 1, Wolfe/Miller name-check page
-Type: Primary newspaper scan; **VISUALLY VERIFIED NON-TARGET / REJECTED IDENTITY LEAD**; exact steward-upload PDF bytes preserved.  
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-07-02/ed-1/seq-1.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1914-07-02-page-1-wolfe-miller-name-check.pdf`  
-Original uploaded filename: `Wolf & Miller (names maybe) Oregon City courier., July 02, 1914, Image 1.pdf`  
-Related evidence: none; identity-triage source only.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED NON-TARGET / REJECTED IDENTITY LEAD**; exact steward-upload PDF bytes preserved.
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-07-02/ed-1/seq-1.pdf
+Repository PDF: `newspapers/oregon-city-courier/1914-07-02-page-1-wolfe-miller-name-check.pdf`
+Original uploaded filename: `Wolf & Miller (names maybe) Oregon City courier., July 02, 1914, Image 1.pdf`
+Related evidence: none; identity-triage source only.
 Notes: Page contains unrelated C. A. Miller and G. R. Wolfe references, but no Wolf & Miller firm, Gilbert Miller, 503/505 Main, or shoe-repair business. SHA-256 `0644f663fc40f2e2cc4354bcba6f2b7e449cf4bb2bcbe3a5c214d5e074ce53ea`.
 
 ## S-187 — Oregon City Enterprise, 20 September 1918, p. 3, Wolf & Miller advertisement
-Type: Primary newspaper advertisement; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1918-09-20/ed-1/seq-3.pdf  
-Repository PDF: `newspapers/oregon-city-enterprise/1918-09-20-page-3-wolf-miller-505-main-ad.pdf`  
-Original uploaded filename: `505 Main (Wolf & Miller Ad) Oregon City enterprise., September 20, 1918, Page Page 3, Image 3.pdf`  
-Related evidence: `E-166`; business `BUS-012`; building `B-002`.  
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1918-09-20/ed-1/seq-3.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1918-09-20-page-3-wolf-miller-505-main-ad.pdf`
+Original uploaded filename: `505 Main (Wolf & Miller Ad) Oregon City enterprise., September 20, 1918, Page Page 3, Image 3.pdf`
+Related evidence: `E-166`; business `BUS-012`; building `B-002`.
 Notes: Directly prints Wolf & Miller, 505 Main St., Oregon City; men's clothing, shoes and shoe repairing. SHA-256 `e57be939f0cdb3bf1f9f943e19acdfbb6ea168c72d29b959fdaa160e977e7f00`.
 
 ## S-188 — Oregon City Courier, 31 October 1918, p. 4, Wolf & Miller 503 Main answer-key conflict
-Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.  
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-31/ed-1/seq-4.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-503-main-answer-key.pdf`  
-Original uploaded filename: `505 Main (Wolf & Miller-Clothes and shoe repair) Oregon City courier., October 31, 1918, Page 4, Image 4.pdf`  
-Related evidence: `E-167`; business `BUS-012`; buildings `B-001`, `B-002`.  
+Type: Primary newspaper scan; **VISUALLY VERIFIED**; exact steward-upload PDF bytes preserved.
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1918-10-31/ed-1/seq-4.pdf
+Repository PDF: `newspapers/oregon-city-courier/1918-10-31-page-4-wolf-miller-503-main-answer-key.pdf`
+Original uploaded filename: `505 Main (Wolf & Miller-Clothes and shoe repair) Oregon City courier., October 31, 1918, Page 4, Image 4.pdf`
+Related evidence: `E-167`; business `BUS-012`; buildings `B-001`, `B-002`.
 Notes: Answer page directly prints Wolf & Miller at 503 Main St.; conflicts with 20 Sep and 10/24 Oct 1918 evidence at 505 Main. Do not infer relocation without corroboration. SHA-256 `f2ebfe6a187f50057ea63ee373df79c3b7b4f857218159f3e72aa751d3221900`.
 
 ## S-189 — Oregon City Enterprise, 16 August 1907, p. 5, Young's Second Hand Store at 505 Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-16/ed-1/seq-5.pdf  
-Repository PDF: `newspapers/oregon-city-enterprise/1907-08-16-page-5-youngs-secondhand-store-505-main.pdf`  
-Original uploaded filename: `505 Main (Young's Second Hand Store) Oregon City enterprise., August 16, 1907, Page 5, Image 5.pdf`  
-Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
-Related evidence: `E-168`; business `BUS-067`; building `B-002`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1907-08-16/ed-1/seq-5.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1907-08-16-page-5-youngs-secondhand-store-505-main.pdf`
+Original uploaded filename: `505 Main (Young's Second Hand Store) Oregon City enterprise., August 16, 1907, Page 5, Image 5.pdf`
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.
+Related evidence: `E-168`; business `BUS-067`; building `B-002`.
 Notes: Auction advertisement directly prints **Young's Second Hand Store / 505 Main Street, Oregon City, Oregon**. It does not print George Young's given name, so identity with `P-076` remains a strong trade-name/address inference rather than an explicit personal identification. SHA-256 `8790cfbaa0af8b70be37cc1fbece4c835fe786dcdf41296edb5fcd78a0a9686f`.
 
 ## S-190 — Morning Enterprise, 14 March 1911, p. 3, Joseph Wilson Palace Saloon license notice
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-03-14/ed-1/seq-3.pdf  
-Repository PDF: `newspapers/morning-enterprise/1911-03-14-page-3-palace-saloon-joseph-wilson-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., March 14, 1911, Page 3, Image 3.pdf`  
-Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
-Related evidence: `E-169`; business `BUS-024`; person `P-037` by strong Joe/Joseph identity inference.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063701/1911-03-14/ed-1/seq-3.pdf
+Repository PDF: `newspapers/morning-enterprise/1911-03-14-page-3-palace-saloon-joseph-wilson-license.pdf`
+Original uploaded filename: `Palace Saloon (Liquor Licence) Morning enterprise., March 14, 1911, Page 3, Image 3.pdf`
+Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.
+Related evidence: `E-169`; business `BUS-024`; person `P-037` by strong Joe/Joseph identity inference.
 Notes: Notice names **JOSEPH WILSON** applying for a three-month liquor license at **The Palace Saloon, Fifth and Main streets**. It does not print 501 or prove that the Council granted the license. SHA-256 `f7fbbf6e23b10967bec4b7201633b9b9084babfb8ba697ce9bf6e4d9b254c86b`.
 
 ## S-191 — Oregon City Enterprise, 20 May 1921, p. 3, Witham / A. A. Munden at 514 Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-05-20/ed-1/seq-3.pdf  
-Repository PDF: `newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf`  
-Original uploaded filename: `514 Main Oregon City enterprise., May 20, 1921, Page Page 3, Image 3.pdf`  
-Type: Primary newspaper article; **VISUALLY VERIFIED**.  
-Related evidence: `E-170`; cross-reference source `S-034`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063700/1921-05-20/ed-1/seq-3.pdf
+Repository PDF: `newspapers/oregon-city-enterprise/1921-05-20-page-3-dr-freeze-505-half-witham-munden-514-main.pdf`
+Original uploaded filename: `514 Main Oregon City enterprise., May 20, 1921, Page Page 3, Image 3.pdf`
+Type: Primary newspaper article; **VISUALLY VERIFIED**.
+Related evidence: `E-170`; cross-reference source `S-034`.
 Notes: The article **Witham Buys Stock Of Terk Brothers** says W. O. Witham came to Oregon City about two and one-half years earlier from Salem and purchased the furniture store of **A. A. Munden at 514 Main street**; it also says he gradually added stock before purchasing Terk Brothers' furniture/household-goods stock. The article does not state an exact Munden-to-Witham transfer date or legal transaction mechanics. SHA-256 `02eb3a4676826d0feff19c3b59b61ce648466034bddc927d4173bd3b8455d875`.
 
 ## S-192 — Oregon City Courier, 25 December 1913, Chicago Store fire and George Harding building-owner statement
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-25/ed-1/seq-1.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1913-12-25-page-1-chicago-store-fire-george-harding.pdf`  
-Original uploaded filename: `Chicago Store (possibly 505 main) Oregon City courier., December 25, 1913, Image 1.pdf`  
-Type: Primary newspaper fire report; **VISUALLY VERIFIED**.  
-Related evidence: `E-171`; cross-reference `E-026`, `E-108`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1913-12-25/ed-1/seq-1.pdf
+Repository PDF: `newspapers/oregon-city-courier/1913-12-25-page-1-chicago-store-fire-george-harding.pdf`
+Original uploaded filename: `Chicago Store (possibly 505 main) Oregon City courier., December 25, 1913, Image 1.pdf`
+Type: Primary newspaper fire report; **VISUALLY VERIFIED**.
+Related evidence: `E-171`; cross-reference `E-026`, `E-108`.
 Notes: Front-page report says the Chicago clothing store on Main Street south of the postoffice was gutted in the preceding Saturday-night fire and explicitly says **the building was owned by George Harding**. The article itself does not print 505 Main. Independent Chicago Store exact-address advertising at 505 Main makes the 505 identification a strong cross-source inference, not a deed or a direct exact-address statement from this fire page. SHA-256 `f876dda085a7ab945fa575eb38f7ff32e7d65b9527add2f8a9530b1ef11e62c5`.
 
 ## S-193 — The Amplifier, 18 October 1940, JAGERS at 503 Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/2017260114/1940-10-18/ed-1/seq-3.pdf  
-Repository PDF: `newspapers/the-amplifier/1940-10-18-page-3-jagers-503-main.pdf`  
-Original uploaded filename: `503 Main (Jagers) The amplifier., October 18, 1940, Page 3, Image 3.pdf`  
-Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
-Related evidence: `E-172`; related business `BUS-084`; address `B-001`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/2017260114/1940-10-18/ed-1/seq-3.pdf
+Repository PDF: `newspapers/the-amplifier/1940-10-18-page-3-jagers-503-main.pdf`
+Original uploaded filename: `503 Main (Jagers) The amplifier., October 18, 1940, Page 3, Image 3.pdf`
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.
+Related evidence: `E-172`; related business `BUS-084`; address `B-001`.
 Notes: Page-three advertisement reads **JAGERS**, “Cozy place for A Tasty Pickup,” **503 Main St. Oregon City**. It does not identify J. Jager, New Kwality Cafe, a proprietor, property ownership, or a legal entity. Same-address/name resemblance to existing J. Jager/New Kwality evidence is retained as a research bridge only. SHA-256 `fead077f125cc8bc3e7bf551dfe09102a04ecebc8ee39f1daf4ed34abfc74b20`.
 
 ## S-194 — Oregon City Courier, 1 March 1907, R. A. Sawyer succeeds Charles Albright meat business at Fifth/Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-03-01/ed-1/seq-5.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1907-03-01-page-5-sawyer-albright-meat-fifth-main.pdf`  
-Original uploaded filename: `5th & Main (Meat Business) Oregon City courier., March 01, 1907, Page 5, Image 5.pdf`  
-Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.  
-Related evidence: `E-173`; related businesses `BUS-085`, `BUS-047`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1907-03-01/ed-1/seq-5.pdf
+Repository PDF: `newspapers/oregon-city-courier/1907-03-01-page-5-sawyer-albright-meat-fifth-main.pdf`
+Original uploaded filename: `5th & Main (Meat Business) Oregon City courier., March 01, 1907, Page 5, Image 5.pdf`
+Type: Primary newspaper advertisement; **VISUALLY VERIFIED**.
+Related evidence: `E-173`; related businesses `BUS-085`, `BUS-047`.
 Notes: R. A. Sawyer says he purchased Charles Albright's meat business, will continue at the old stand, and prints 5th and Main Sts.; the ad labels him successor to Charles Albright. No street number, deed, building owner, exact sale date, or 501/503/505 mapping. Repository canonical SHA-256 `5a55f5ce3439f41c5bd71f57c71228520943f40634b3a1c389d589efcd41bd19`; supplied upload SHA-256 `5a55f5ce3439f41c5bd71f57c71228520943f40634b3a1c389d589efcd41bd19`.
 
 ## S-195 — Oregon City Courier, 20 March 1908, Justin & Hitchman and A. J. Surber at Fifth/Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-03-20/ed-1/seq-7.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-03-20-seq-07.pdf`  
-Original uploaded filename: `5th & Main (Justin & Hitchman) Oregon City courier., March 20, 1908, Page 7, Image 7.pdf`  
-Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.  
-Related evidence: `E-174`; cross-reference `E-121`, `E-122`, `E-123`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1908-03-20/ed-1/seq-7.pdf
+Repository PDF: `newspapers/oregon-city-courier/1907-1908-surber-justin-review/1908-03-20-seq-07.pdf`
+Original uploaded filename: `5th & Main (Justin & Hitchman) Oregon City courier., March 20, 1908, Page 7, Image 7.pdf`
+Type: Primary newspaper liquor-license notices; **VISUALLY VERIFIED**.
+Related evidence: `E-174`; cross-reference `E-121`, `E-122`, `E-123`.
 Notes: Separate six-month applications by Justin & Hitchman and A. J. Surber each say corner Fifth/Main. Neither prints 501 or a trade name; same intersection does not establish same room, succession, grant, or ownership. Repository canonical SHA-256 `93d82bbfb2de38cd6b8a96500353907e8316e4ed4e48c1e6b6ef36a70e306761`; supplied upload SHA-256 `93d82bbfb2de38cd6b8a96500353907e8316e4ed4e48c1e6b6ef36a70e306761`.
 
 ## S-196 — Oregon City Courier, 11 February 1910, William Andresen / H. C. Stevens Main-to-Water property article
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-02-11/ed-1/seq-1.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1910-02-11-page-1-andresen-stevens-main-water-property.pdf`  
-Original uploaded filename: `Main & Water Oregon City courier., February 11, 1910, Image 1.pdf`  
-Type: Primary newspaper property report; **VISUALLY VERIFIED**.  
-Related evidence: `E-175`; contextual business `BUS-041`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-02-11/ed-1/seq-1.pdf
+Repository PDF: `newspapers/oregon-city-courier/1910-02-11-page-1-andresen-stevens-main-water-property.pdf`
+Original uploaded filename: `Main & Water Oregon City courier., February 11, 1910, Image 1.pdf`
+Type: Primary newspaper property report; **VISUALLY VERIFIED**.
+Related evidence: `E-175`; contextual business `BUS-041`.
 Notes: William Andresen reportedly takes one-half interest; other half owned by H. C. Stevens. Property is described as 60x210 feet fronting Main and Water, with two Water-side dwellings and a Main-front frame building planned for removal/replacement by a brick block. No number/block/lot/legal description; planned work is not completed-construction proof and property is not assigned to 503/505. Repository canonical SHA-256 `9cc0596dbc2ddfeaf0e8c1b575dcca7b14c9af832e83f104b6b6e674dd0041b2`; supplied upload SHA-256 `9cc0596dbc2ddfeaf0e8c1b575dcca7b14c9af832e83f104b6b6e674dd0041b2`.
 
 ## S-197 — Oregon City Courier, 18 March 1910, M. Justin at Mt. Hood Cafe, Fifth/Main
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-18/ed-1/seq-6.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1910-03-18-page-6-m-justin-mt-hood-cafe-fifth-main.pdf`  
-Original uploaded filename: `5th & Main (M. Justin) Oregon City courier., March 18, 1910, Page 6, Image 6.pdf`  
-Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.  
-Related evidence: `E-176`; related business `BUS-086`; cross-reference `BUS-046`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1910-03-18/ed-1/seq-6.pdf
+Repository PDF: `newspapers/oregon-city-courier/1910-03-18-page-6-m-justin-mt-hood-cafe-fifth-main.pdf`
+Original uploaded filename: `5th & Main (M. Justin) Oregon City courier., March 18, 1910, Page 6, Image 6.pdf`
+Type: Primary newspaper liquor-license notice; **VISUALLY VERIFIED**.
+Related evidence: `E-176`; related business `BUS-086`; cross-reference `BUS-046`.
 Notes: M. Justin applies for a three-month liquor license at the Mt. Hood Cafe, 5th and Main streets. No number, grant, property ownership, or proof that M. Justin was a member of the earlier Justin & Hitchman partnership. Repository canonical SHA-256 `2b3ba938dd98cf3f0123c782c7e377b0f96b76ab39a53613f4f7b493edf1ed24`; supplied upload SHA-256 `2b3ba938dd98cf3f0123c782c7e377b0f96b76ab39a53613f4f7b493edf1ed24`.
 
 ## S-198 — Oregon City Courier, 31 December 1909, Ralph O. Smith Palace Saloon license application
-Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-12-31/ed-1/seq-7.pdf  
-Repository PDF: `newspapers/oregon-city-courier/1909-12-31-page-7-palace-saloon-ralph-o-smith-license.pdf`  
-Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., December 31, 1909, Image 7.pdf`  
-Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED**.  
-Related evidence: `E-177`; person `P-098`; business `BUS-024`.  
+Canonical PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1909-12-31/ed-1/seq-7.pdf
+Repository PDF: `newspapers/oregon-city-courier/1909-12-31-page-7-palace-saloon-ralph-o-smith-license.pdf`
+Original uploaded filename: `Palace Saloon (Liquor License) Oregon City courier., December 31, 1909, Image 7.pdf`
+Type: Primary newspaper liquor-license application; **VISUALLY VERIFIED**.
+Related evidence: `E-177`; person `P-098`; business `BUS-024`.
 Notes: Ralph O. Smith applies at **the Palace Saloon, corner Main and Fifth Sts.**, for **six months**. The notice does not print 501, prove the license was granted, establish real-estate ownership, or prove uninterrupted operation from the prior September notice. SHA-256 `ef4faeabb47ad6c6d91f0f642a07dd55bbc1a8ac6ea69e705224752517e1de02` (716264 bytes).
 
 ## S-199 — Oregon City Courier, 17 and 24 June 1910, E. R. Case Palace Saloon at printed 510 Main
@@ -1510,95 +1510,95 @@ Notes: Names George Newton as Quality restaurant proprietor and reports the rest
 Integrity: SHA-256 `a668b95e9ba4ce47f8fcec362fa2037a2aa6dbe68435d07c903071378d0a2b63`; 840717 bytes.
 
 ## S-203 — Clackamas County Historical Society photograph P-1469, 1890 Main Street flood
-Type: Institutional historic-photograph catalog record and preserved public image derivative; **CATALOG METADATA VERIFIED**.  
-Holding institution: Clackamas County Historical Society.  
-Entry/Object ID: `P-1469`.  
-Catalog title: **1890 Flood - Oregon City Main Street**.  
-Catalog description: **Oregon City Main Street, 6th and Main, looking southwest.  Unidentified people.  Flooding.  Debris.**  
-Date made: **1890**.  
-CatalogIt entry UUID: `de65a6a0-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-main-street-1`.  
-Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-main-street-1  
-API lookup: https://api.catalogit.app/api/public/search?query=P-1469&size=50  
-Repository image: `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` (`IMG-0732`), SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`, 2400×1745 JPEG, 569359 bytes.  
-Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.  
-Related evidence: `E-183`.  
+Type: Institutional historic-photograph catalog record and preserved public image derivative; **CATALOG METADATA VERIFIED**.
+Holding institution: Clackamas County Historical Society.
+Entry/Object ID: `P-1469`.
+Catalog title: **1890 Flood - Oregon City Main Street**.
+Catalog description: **Oregon City Main Street, 6th and Main, looking southwest.  Unidentified people.  Flooding.  Debris.**
+Date made: **1890**.
+CatalogIt entry UUID: `de65a6a0-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-main-street-1`.
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-main-street-1
+API lookup: https://api.catalogit.app/api/public/search?query=P-1469&size=50
+Repository image: `media/photos/early-main-street/IMG-0732_1890-main-street-flood-cchs-p1469.jpg` (`IMG-0732`), SHA-256 `767915990ca00e17316f75ba2db51c5e0e2f36a2e36555020cf9caade4889e74`, 2400×1745 JPEG, 569359 bytes.
+Source capture: `evidence/source-captures/1890-cchs-p1469-main-street-flood-photo-2026-09-03.md`.
+Related evidence: `E-183`.
 Notes: CCHS directly identifies the scene as 6th and Main looking southwest during the 1890 flood. Do not use this source alone to assign an exact 501/503/505 facade or physical-building continuity. The earlier steward-supplied file was not recoverable byte-for-byte from the temporary staging fragments; the committed file is the exact current CCHS public high-resolution derivative.
 
 ## S-204 — Clackamas County Historical Society photograph P-1456, 1890 Main Street looking south
-Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
-Holding institution: Clackamas County Historical Society.  
-Entry/Object ID: `P-1456`; tag **Duplicate**.  
-Catalog title: **1890 Flood - Oregon City at 6th and Main Street Looking South**.  
-Catalog description: **Flood of 1890. Main Street of Oregon City looking south after water had receded. Between Alley and 6th Street. Unidentified people. (See Sanborn Map below for location of visible structures)**.  
-Catalog duplicate wording: **Duplicates P-1456, P-1616, P-5519, P-8885**.  
-Date/place: **1890; Oregon City, Clackamas County, Oregon, United States of America, North America**. Medium note: **Photographic Paper**.  
-CatalogIt entry UUID: `de0cb130-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-at-6th-and-main-street-looking-south-3`.  
-Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-at-6th-and-main-street-looking-south-3  
-API lookup: https://api.catalogit.app/api/public/search?query=P-1456&size=50  
-Original supplied filename: `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg`; 2048 × 1543; 903423 bytes; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`.  
-Repository image: `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` (`IMG-0733`), current CCHS P-1456 public high-resolution derivative, 1200 × 904, 779120 bytes, SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`.  
-Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.  
-Related evidence: `E-184`.  
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.
+Holding institution: Clackamas County Historical Society.
+Entry/Object ID: `P-1456`; tag **Duplicate**.
+Catalog title: **1890 Flood - Oregon City at 6th and Main Street Looking South**.
+Catalog description: **Flood of 1890. Main Street of Oregon City looking south after water had receded. Between Alley and 6th Street. Unidentified people. (See Sanborn Map below for location of visible structures)**.
+Catalog duplicate wording: **Duplicates P-1456, P-1616, P-5519, P-8885**.
+Date/place: **1890; Oregon City, Clackamas County, Oregon, United States of America, North America**. Medium note: **Photographic Paper**.
+CatalogIt entry UUID: `de0cb130-9b1e-11eb-b3ef-53e7205a00b4`; slug `1890-flood-oregon-city-at-6th-and-main-street-looking-south-3`.
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/1890-flood-oregon-city-at-6th-and-main-street-looking-south-3
+API lookup: https://api.catalogit.app/api/public/search?query=P-1456&size=50
+Original supplied filename: `1890 Flood - Oregon City at 6th and Main Street Looking South.jpg`; 2048 × 1543; 903423 bytes; SHA-256 `9c684f8f59ec7e78c894f1e77b70ca5094e976994a3644244b6a1ded6631e1cb`.
+Repository image: `media/photos/early-main-street/IMG-0733_1890-flood-6th-main-looking-south-cchs-p1456.jpg` (`IMG-0733`), current CCHS P-1456 public high-resolution derivative, 1200 × 904, 779120 bytes, SHA-256 `7355ba848b586427c139ddfe4229748a2b9c49439bc26b605874f184747c41a7`.
+Source capture: `evidence/source-captures/1890-cchs-p1456-main-street-looking-south-photo-2026-09-03.md`.
+Related evidence: `E-184`.
 Notes: The supplied JPEG and current CatalogIt derivative are not byte-identical; they are treated as substantive duplicates of the same P-1456 photographic object/scene. Preserve the CCHS duplicate-group wording as metadata, not as a claim that all digital derivatives are byte-identical. Do not assign exact 501/503/505 facades or building continuity from this source alone.
 
 
 ## S-205 — Clackamas County Historical Society photograph 2008.008.002.309, Buildings on Main Street
-Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
-Holding institution: Clackamas County Historical Society.  
-Entry/Object ID: `2008.008.002.309`.  
-Catalog title: **Buildings on Main Street, Oregon City**.  
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.
+Holding institution: Clackamas County Historical Society.
+Entry/Object ID: `2008.008.002.309`.
+Catalog title: **Buildings on Main Street, Oregon City**.
 Catalog description: **Buildings on Main Street
 Alley between 4th and 5th Streets on Main Street,
-Oregon City**.  
-Date/place: **1888; Oregon City, Clackamas County, Oregon, United States of America, North America**.  
-Notes: **Medium: Negative; Location of Negative: Society Collection**. Other numbers: **Gardner 309; Trembath, Beauliau #3**.  
-CatalogIt entry UUID: `7b7a2a20-9b1e-11eb-b3ef-53e7205a00b4`; slug `buildings-on-main-street-oregon-city`.  
-Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/buildings-on-main-street-oregon-city  
-API lookup: https://api.catalogit.app/api/public/search?query=2008.008.002.309&size=50  
-Original supplied filename: `Alley between 4th-5th Strrets on Main, O.C., 1888(1).jpg`; 2048 x 1544; 1165272 bytes; SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a`.  
-Repository image: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg` (`IMG-0734`), 2400 x 1810, 1075501 bytes, SHA-256 `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`.  
-Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Related evidence: `E-185`.  
+Oregon City**.
+Date/place: **1888; Oregon City, Clackamas County, Oregon, United States of America, North America**.
+Notes: **Medium: Negative; Location of Negative: Society Collection**. Other numbers: **Gardner 309; Trembath, Beauliau #3**.
+CatalogIt entry UUID: `7b7a2a20-9b1e-11eb-b3ef-53e7205a00b4`; slug `buildings-on-main-street-oregon-city`.
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/buildings-on-main-street-oregon-city
+API lookup: https://api.catalogit.app/api/public/search?query=2008.008.002.309&size=50
+Original supplied filename: `Alley between 4th-5th Strrets on Main, O.C., 1888(1).jpg`; 2048 x 1544; 1165272 bytes; SHA-256 `12939244c3db5d8ac39e7db93ad4a1a8409909ff9d3445c17b2bb4756ef26e0a`.
+Repository image: `media/photos/early-main-street/IMG-0734_1888-main-street-alley-4th-5th-barber-cchs-2008-008-002-309.jpg` (`IMG-0734`), 2400 x 1810, 1075501 bytes, SHA-256 `c0c507e4367883208fa44d75137f021ea1fee0aceb08d4bc32093fc0b75077ce`.
+Source capture: `evidence/source-captures/1888-cchs-2008-008-002-309-main-street-alley-barber-photo-2026-09-03.md`. Related evidence: `E-185`.
 Notes: The right storefront visibly reads HAIR CUTTING and SHAVING. The catalog's exact modern address/side is not inferred; the alley-opening and east-side orientation readings remain qualified pending `SM-003` comparison.
 
 ## S-206 — Clackamas County Historical Society photograph 2019.001.00179, Downtown Oregon City
-Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.  
-Holding institution: Clackamas County Historical Society.  
-Entry/Object ID: `2019.001.00179`.  
-Catalog title: **Downtown Oregon City**.  
-Catalog description: **Downtown Oregon City**.  
-Classification/folder: **Photograph / Photographs**.  
-Catalog date: **not supplied**. Do not interpret the `2019` accession prefix as the exposure date.  
-CatalogIt entry UUID: `922dab10-9b1f-11eb-b3ef-53e7205a00b4`; slug `downtown-oregon-city-1`.  
-Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/downtown-oregon-city-1  
-API lookup: https://api.catalogit.app/api/public/search?query=2019.001.00179&size=50  
-Original supplied filename: `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg`; 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.  
-Filename-derived steward context: **focusing on 4th-6th streets (aerial view)**; this is not CCHS catalog wording and does not prove an airborne camera.  
-Repository image: `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg` (`IMG-0735`), 1401 × 1109, 243009 bytes, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; CCHS `public_highres_2x` public derivative.  
-Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.  
-Related evidence: `E-186`.  
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / STEWARD IMAGE VISUALLY VERIFIED**.
+Holding institution: Clackamas County Historical Society.
+Entry/Object ID: `2019.001.00179`.
+Catalog title: **Downtown Oregon City**.
+Catalog description: **Downtown Oregon City**.
+Classification/folder: **Photograph / Photographs**.
+Catalog date: **not supplied**. Do not interpret the `2019` accession prefix as the exposure date.
+CatalogIt entry UUID: `922dab10-9b1f-11eb-b3ef-53e7205a00b4`; slug `downtown-oregon-city-1`.
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/downtown-oregon-city-1
+API lookup: https://api.catalogit.app/api/public/search?query=2019.001.00179&size=50
+Original supplied filename: `Downtown Oregon City (focusing on 4th-6th streets (aerial view).jpg`; 1401 × 1109; 243009 bytes; SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`.
+Filename-derived steward context: **focusing on 4th-6th streets (aerial view)**; this is not CCHS catalog wording and does not prove an airborne camera.
+Repository image: `media/photos/early-main-street/IMG-0735_undated-downtown-oregon-city-4th-6th-overview-cchs-2019-001-00179.jpg` (`IMG-0735`), 1401 × 1109, 243009 bytes, SHA-256 `d6e7b691b880d3c8bbb6dcbb58500d7b3e15e13d688834fda5fa68c8b949774f`; CCHS `public_highres_2x` public derivative.
+Source capture: `evidence/source-captures/undated-cchs-2019-001-00179-downtown-overview-4th-6th-photo-2026-09-03.md`.
+Related evidence: `E-186`.
 Use limit: useful historic downtown/block-level visual evidence; exact date, camera position, Fourth–Sixth street mapping and individual building/address identities remain unresolved.
 
 ## S-207 — Clackamas County Historical Society photograph U-1426.005098a, demolition of the Post Office at Fifth and Main
-Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / IMAGE VISUALLY VERIFIED / EXACT BYTE MATCH**.  
-Holding institution: Clackamas County Historical Society.  
-Entry/Object ID: `U-1426.005098a`.  
-Catalog title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**.  
-Catalog description: **Demolition of the Post Office, Oregon City, constructed in 1933**.  
-Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/demolition-of-the-post-office-at-5th-and-main-oregon-city-constructed-in-1933.  
-API lookup: https://api.catalogit.app/api/public/search?query=U-1426.005098a&size=50  
-Original supplied filename: `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg`; 981 × 776; 145571 bytes; SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`.  
-Repository image: `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg` (`IMG-0736`), exact byte match to the supplied file and current CCHS public high-resolution derivative.  
-Date boundary: catalog says the Post Office was constructed in **1933** but does not date the demolition photograph. Existing Sanborn evidence `E-102` independently records the southeast Fifth/Main U.S. Post Office as **BUILT 1933**.  
-Spatial boundary: same east side of Main as 501/503/505, but on the opposite side of Fifth Street from 501; the pictured Post Office is not part of the 501/503/505 block.  
+Type: Institutional historic-photograph catalog record plus steward-supplied photograph; **CATALOG METADATA VERIFIED / IMAGE VISUALLY VERIFIED / EXACT BYTE MATCH**.
+Holding institution: Clackamas County Historical Society.
+Entry/Object ID: `U-1426.005098a`.
+Catalog title: **Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.**.
+Catalog description: **Demolition of the Post Office, Oregon City, constructed in 1933**.
+Catalog page: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/demolition-of-the-post-office-at-5th-and-main-oregon-city-constructed-in-1933.
+API lookup: https://api.catalogit.app/api/public/search?query=U-1426.005098a&size=50
+Original supplied filename: `Demolition of the Post Office at 5th and Main, Oregon City - constructed in 1933.jpg`; 981 × 776; 145571 bytes; SHA-256 `75e60d9c374094d6729cc4204505f91f1311f85190690f7f6c5a446e956edaf2`.
+Repository image: `media/photos/early-main-street/IMG-0736_undated-post-office-demolition-5th-main-cchs-u1426-005098a.jpg` (`IMG-0736`), exact byte match to the supplied file and current CCHS public high-resolution derivative.
+Date boundary: catalog says the Post Office was constructed in **1933** but does not date the demolition photograph. Existing Sanborn evidence `E-102` independently records the southeast Fifth/Main U.S. Post Office as **BUILT 1933**.
+Spatial boundary: same east side of Main as 501/503/505, but on the opposite side of Fifth Street from 501; the pictured Post Office is not part of the 501/503/505 block.
 Source capture: `evidence/source-captures/undated-cchs-u1426-005098a-post-office-demolition-5th-main-photo-2026-09-03.md`. Related evidence: `E-187`.
 
 ## S-208 — Clackamas County Historical Society photograph P-9379, Aerial Photograph Oregon City
-Type: Institutional historic-photograph catalog record plus preserved public image derivative; **CATALOG METADATA VERIFIED / IMAGE VISUALLY REVIEWED**.  
-Object: **P-9379**. Accession number: **2022.012.001**.  
-Catalog title/description: **Aerial Photograph Oregon City**. Catalog media label: **Aerial view of Oregon City**.  
-URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/aerial-photograph-oregon-city  
-Repository: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` (`IMG-0737`); source capture `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.  
-Evidence: `E-188`.  
+Type: Institutional historic-photograph catalog record plus preserved public image derivative; **CATALOG METADATA VERIFIED / IMAGE VISUALLY REVIEWED**.
+Object: **P-9379**. Accession number: **2022.012.001**.
+Catalog title/description: **Aerial Photograph Oregon City**. Catalog media label: **Aerial view of Oregon City**.
+URL: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/aerial-photograph-oregon-city
+Repository: `media/photos/aerials/IMG-0737_undated-oregon-city-aerial-cchs-p9379.jpg` (`IMG-0737`); source capture `evidence/source-captures/undated-cchs-p9379-aerial-oregon-city-photo-2026-09-03.md`.
+Evidence: `E-188`.
 Notes: The live CCHS record supplies no exposure date. `2022.012.001` is retained only as an accession number and is not converted into a photograph date. The committed 2400×1965 CCHS derivative and the steward-supplied 2048×1676 JPEG are substantive duplicates of the same P-9379 scene, not byte-identical copies.
 
 ## S-209 — Clackamas County Historical Society MOT:P-502, G. H. Young Store — 507 Main Street Oregon City 1916
@@ -1625,59 +1625,59 @@ Related evidence: `E-190`; image `IMG-0739`; person `P-076`; business `BUS-067`;
 Notes: Visible sign reads **NEW & SECONDHAND YOUNG'S CURIO STORE**. CCHS supplies 507 Main and structured date 1916, but the same description says duplicate **MOT:P-6253** is the same picture dated **1907**. Exposure date remains unresolved.
 
 ## S-211 — Clackamas County Historical Society MOT:P-498, Harding Drug Store — 505 Main Street, circa 1885
-Type: Institutional photograph/catalog metadata plus steward-supplied image; **VISUALLY VERIFIED 4 September 2026**.  
-Catalog record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/harding-drug-store-505-main-street  
-Repository image: `media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg`  
-Source capture: `evidence/source-captures/circa-1885-cchs-p498-harding-drug-store-505-main-photo-2026-09-04.md`  
-Related evidence/media: `E-191` / `IMG-0740`; related business/person/building: `BUS-007` / `P-001` / `B-002`.  
+Type: Institutional photograph/catalog metadata plus steward-supplied image; **VISUALLY VERIFIED 4 September 2026**.
+Catalog record: https://hub.catalogit.app/clackamas-county-historical-society/folder/entry/harding-drug-store-505-main-street
+Repository image: `media/photos/early-main-street/IMG-0740_circa-1885-harding-drug-store-505-main-cchs-p498.jpg`
+Source capture: `evidence/source-captures/circa-1885-cchs-p498-harding-drug-store-505-main-photo-2026-09-04.md`
+Related evidence/media: `E-191` / `IMG-0740`; related business/person/building: `BUS-007` / `P-001` / `B-002`.
 Notes: Catalog title identifies Harding Drug Store at 505 Main, date made circa 1885, medium Photographic Paper, and carries a later JAH 11/2022 annotation saying Harding moved north and George Young moved into this location. The full photograph visibly shows the Harding fascia/storefront but no street number. Because formal citywide numbering is documented in 1906, 505 is treated as retrospective institutional metadata. MOT:P-498 appears to preserve the same underlying exposure as the older cropped `IMG-0724` record but is retained because it supplies a materially fuller frame and distinct catalog metadata/provenance. Steward attachment SHA-256 `11037b073c6d17b1196b118e9ab3bed0c24b38b0edd72e76323ce9c6244d4e1c`; committed derivative SHA-256 `d6b8249a3723f174cc3a3ef3b7578b355c76f7efc608d4932a27c5b7e7395879`.
 
 ## S-212 — Clackamas County Historical Society 2008.008.049.056, Interior of the Oregon City Bank of Commerce
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/interior-of-the-oregon-city-bank-of-commerce ; https://api.catalogit.app/api/public/accounts/4813/entries/9c6f34f0-9b1e-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg`  
-Source capture: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`  
-Related evidence/media: `E-192` / `IMG-0741`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/interior-of-the-oregon-city-bank-of-commerce ; https://api.catalogit.app/api/public/accounts/4813/entries/9c6f34f0-9b1e-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0741_1890-oregon-city-bank-of-commerce-interior-512-main-cchs-2008-008-049-056.jpg`
+Source capture: `evidence/source-captures/1890-cchs-2008-008-049-056-bank-of-commerce-interior-512-main-2026-09-04.md`
+Related evidence/media: `E-192` / `IMG-0741`.
 Notes: CCHS metadata supplied with the photo gives **1890**, **512 Main**, medium **Negative**, negative location **Society Collection**, **Lynch-Criteser 056**, and **Freytag Collection #1**. Description wording **“(1st National)”** and **“Latourette and Myers ?”** is retained exactly as uncertain/institutional metadata; the image itself does not visibly print the address, date, bank name, or person names. No 503/505 or present-building continuity is inferred. Steward SHA-256 `892ac908cbed6ab49381e890ecedce0410bb936f709a8f326ef969874f0c11a0`; committed derivative SHA-256 `188e381b438d99e60dd0bb8203de7dd7909a76e18c8f7758d5d9e128ab28f0d2`.
 
 ## S-213 — Clackamas County Historical Society 2008.008.003.125, Lower Main Street Oregon City from Top of 3rd Street Stairs 1895
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/lower-main-street-oregon-city-from-top-of-3rd-street-stairs-1895 ; https://api.catalogit.app/api/public/accounts/4813/entries/a8fc18f0-9b1e-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0742_1895-lower-main-from-3rd-street-stairs-cchs-2008-008-003-125.jpg`  
-Source capture: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`  
-Related evidence/media/timeline: `E-193` / `IMG-0742` / `T-076`. Related later-address records: `B-005`, `B-001`, `B-002`; map context `SM-005` / `S-018` / `E-020`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/lower-main-street-oregon-city-from-top-of-3rd-street-stairs-1895 ; https://api.catalogit.app/api/public/accounts/4813/entries/a8fc18f0-9b1e-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0742_1895-lower-main-from-3rd-street-stairs-cchs-2008-008-003-125.jpg`
+Source capture: `evidence/source-captures/1895-cchs-2008-008-003-125-lower-main-third-stairs-target-frontage-2026-09-04.md`
+Related evidence/media/timeline: `E-193` / `IMG-0742` / `T-076`. Related later-address records: `B-005`, `B-001`, `B-002`; map context `SM-005` / `S-018` / `E-020`.
 Notes: CCHS catalogs the bluff/downriver view as 1895 and supplies Stevens 125 / Photo #125. Project-steward annotation identifies the top/roof of the predecessor frontage later associated with 501/503/505 Main as visible. The archive treats exact target assignment as **PROBABLE / WORKING HYPOTHESIS** and does not backdate the post-1906 street numbers, infer one building spanning all three later addresses, or claim continuity into the post-1922 structures. Steward SHA-256 `97f006c0f74ac9fabc2cd4e1be0f71d7e781afbbc795c272cec7d3b9bb125cff`; committed derivative SHA-256 `32bbe96cad82042f786c00e30b7dfa26499b00f998621db0e633ea6019b7f3a7`.
 
 ## S-214 — Clackamas County Historical Society 2008.008.003.104, Main Street, Oregon City
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/main-street-oregon-city-5 ; https://api.catalogit.app/api/public/accounts/4813/entries/a4d46840-9b1e-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg`  
-Source capture: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`  
-Related evidence/media/timeline: `E-194` / `IMG-0743` / `T-077`. Related location comparison: `S-204` / `E-184`; map context `SM-005` / `S-018`, `SM-006` / `S-019`, and `E-020`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/main-street-oregon-city-5 ; https://api.catalogit.app/api/public/accounts/4813/entries/a4d46840-9b1e-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0743_1890-1899-main-street-oregon-city-cchs-2008-008-003-104.jpg`
+Source capture: `evidence/source-captures/1890-1899-cchs-2008-008-003-104-main-street-sixth-fifth-context-2026-09-04.md`
+Related evidence/media/timeline: `E-194` / `IMG-0743` / `T-077`. Related location comparison: `S-204` / `E-184`; map context `SM-005` / `S-018`, `SM-006` / `S-019`, and `E-020`.
 Notes: CCHS catalogs the image as **Main Street, Oregon City**, date range **1890 - 1899**, with Stevens 104, Stevens Photo #102 and Bill Howell #2000. The steward filename identifies a southward Sixth-to-Fifth view; preserve that as project metadata, not CCHS wording. If confirmed, the later odd-numbered Fifth-to-Sixth target frontage is visible along the east/right side, but exact later-address boundaries and structural continuity are unresolved. Steward SHA-256 `69de483d0541125560cbdd263435aa0a69847975c0aacff8a90f732e220605a0`; committed derivative SHA-256 `853afd9db056375c724ad35599a772836a9d3732bf313dc22048e939124fab49`.
 
 ## S-215 — Clackamas County Historical Society 2008.008.046.040, Oregon City "Welcome Arch", 6th and Main, 1895
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-welcome-arch-1 ; https://api.catalogit.app/api/public/accounts/4813/entries/8ff53cb0-9b1e-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg`  
-Source capture: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`  
-Related evidence/media/timeline: `E-195` / `IMG-0744` / `T-078`. Related later-address records: `B-005`, `B-001`, `B-002`; comparison `S-204` / `E-184`, `S-214` / `E-194`; map context `SM-005` / `S-018` / `E-020`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-welcome-arch-1 ; https://api.catalogit.app/api/public/accounts/4813/entries/8ff53cb0-9b1e-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0744_1895-oregon-city-welcome-arch-6th-main-cchs-2008-008-046-040.jpg`
+Source capture: `evidence/source-captures/1895-cchs-2008-008-046-040-welcome-arch-6th-main-target-frontage-2026-09-04.md`
+Related evidence/media/timeline: `E-195` / `IMG-0744` / `T-078`. Related later-address records: `B-005`, `B-001`, `B-002`; comparison `S-204` / `E-184`, `S-214` / `E-194`; map context `SM-005` / `S-018` / `E-020`.
 Notes: CCHS catalogs the photograph as **Oregon City "Welcome Arch"**, **6th and Main**, date **1895**, with **Culp, Ed 40** and **Stevens Photo #97**. The project steward identifies the predecessor frontage later associated with 501/503/505 in the background on the **right side of the street**. The archive treats the target-side location as strong spatial context but keeps individual storefront-to-later-number divisions **PROBABLE / WORKING HYPOTHESIS**; no pre-1906 numbered-address or post-1922 structural-continuity inference. Steward SHA-256 `90a533ef0c721ed65ed45d090d07ac0dcc372cba0f8d138543f96a2b7035924e`; committed derivative SHA-256 `6f35359b9de3509a64ebec65d810b38b1048092eaeb3fcb6161d5d048e65603f`.
 
 ## S-216 — Clackamas County Historical Society 2008.008.003.257, Oregon City view from the Promenade at 5th Street, 1960
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-(view-from-the-promenade-at-5th-st.) ; https://api.catalogit.app/api/public/accounts/4813/entries/6851af40-9b1e-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`  
-Source capture: `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`  
-Related evidence/media/timeline: `E-196` / `IMG-0745` / `T-079`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026 and exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-(view-from-the-promenade-at-5th-st.) ; https://api.catalogit.app/api/public/accounts/4813/entries/6851af40-9b1e-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0745_1960-oregon-city-promenade-5th-street-cchs-2008-008-003-257.jpg`
+Source capture: `evidence/source-captures/1960-cchs-2008-008-003-257-promenade-5th-view-2026-09-04.md`
+Related evidence/media/timeline: `E-196` / `IMG-0745` / `T-079`.
 Notes: CCHS catalogs the image as **Oregon City (view from the Promenade at 5th St.)**, date **1960**, with **Stevens 257 / Stevens Photo #257** and negative location **Society Collection**. The photograph directly records a broad elevated downtown view toward the river and bridge. Exact 501/503/505 building identification is not assigned in this integration; use as dated structural context pending separate block alignment. Steward SHA-256 `104df463198daefcf7047d750b79141853a5e8f1f1477c3245d0f1457531767d`; committed derivative SHA-256 `6cb396c2a9a56be4f218b90a4b8a0ca1ab614ada9d3d37b0cbd618d64757bf9d`.
 
 ## S-217 — Clackamas County Historical Society P-1317, Oregon City - View from Bluff at Fifth Street
-Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026; exact CatalogIt object retrieved by catalog number.  
-Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-view-from-bluff-3 ; https://api.catalogit.app/api/public/accounts/4813/entries/033860d0-9b1f-11eb-b3ef-53e7205a00b4  
-Repository image: `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`  
-Source capture: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`  
-Related evidence/media/timeline: `E-197` / `IMG-0746` / `T-080`.  
+Type: Institutional historic photograph and museum-catalog record; steward JPEG **VISUALLY VERIFIED** 4 September 2026; exact CatalogIt object retrieved by catalog number.
+Catalog/API: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-view-from-bluff-3 ; https://api.catalogit.app/api/public/accounts/4813/entries/033860d0-9b1f-11eb-b3ef-53e7205a00b4
+Repository image: `media/photos/early-main-street/IMG-0746_undated-oregon-city-view-from-bluff-5th-street-cchs-p1317.jpg`
+Source capture: `evidence/source-captures/undated-cchs-p1317-oregon-city-view-from-bluff-5th-street-target-frontage-2026-09-04.md`
+Related evidence/media/timeline: `E-197` / `IMG-0746` / `T-080`.
 Notes: CCHS describes the image as **Oregon City from the Bluff at 5th Street** and supplies no exposure date in the steward metadata. Project steward identifies the predecessor frontage/building group later associated with 501/503/505 Main as visible through tree branches. Treat exact individual later-address mapping as **PROBABLE / WORKING HYPOTHESIS**. Preserve the description's `B-016-005583` and Other Photo # `Back of B-0160.005583` as separate supplied strings. Steward SHA-256 `f3218dbee1c625ffd253968052269e6027844f5e61eafe957605e813b7778698`; committed derivative SHA-256 `da038d67b1a6ba210ae96939df8c0167b703e7ae69979ac8054a2857c6b6f726`.
 
 ## S-218 — 1893 Streetcar Helen at Sixth/Main photograph
@@ -1887,542 +1887,542 @@ Related block context: `B-001` 503 Main; `B-002` 505 Main; `B-003` Harding Build
 Notes: Direct sign roster includes Oregon City Auto Parts, Fain's Men's Store, Sandwich Nook, Rexall/Drugs, Tourist Hotel, Alexander's Mkt., American Cleaners and other partial signs. Most exact street numbers remain unresolved; no new direct 503/505 occupancy claim is made from this frame.
 
 ## S-238 — CCHS P-1032, Oregon City from bluff, 1936–1939
-Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P-1032`.  
-Date: **1936–1939** per catalog Date made field.  
-Repository image: `media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg`.  
-Capture: `evidence/source-captures/cchs-p1032-1936-1939-oregon-city-from-bluff-highway99e-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-from-bluff  
-Related evidence/media: `E-212` / `IMG-0759`.  
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1032`.
+Date: **1936–1939** per catalog Date made field.
+Repository image: `media/photos/main-street/IMG-0759_1936-1939-oregon-city-from-bluff-highway99e-cchs-p1032.jpg`.
+Capture: `evidence/source-captures/cchs-p1032-1936-1939-oregon-city-from-bluff-highway99e-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1930s-from-bluff
+Related evidence/media: `E-212` / `IMG-0759`.
 Notes: Bluff view of lower Oregon City, railroad tracks and Highway 99E/tunnel approach. Enlarged review does not support a reliable direct 503/505 sign transcription; absence of readable wording is not negative occupancy evidence.
 
 ## S-239 — CCHS P-9594, Oregon City arch bridge and temporary bridge, November 1922
-Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P-9594`; alternate object name `2008.008.002.046`; Gardner 46; Meyers #39.  
-Date: **1922** Date made; description specifically says **Nov. 1922**.  
-Repository image: `media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg`.  
-Capture: `evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fifth-main-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city  
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-9594`; alternate object name `2008.008.002.046`; Gardner 46; Meyers #39.
+Date: **1922** Date made; description specifically says **Nov. 1922**.
+Repository image: `media/photos/main-street/IMG-0760_1922-11-arch-temporary-bridge-fifth-main-cchs-p9594.jpg`.
+Capture: `evidence/source-captures/cchs-p9594-nov-1922-arch-temporary-bridge-fifth-main-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-arch-bridge-and-temporary-bridge-1922-oregon-city
 Related evidence/media: `E-213` / `IMG-0760`; steward-supplied working crop `IMG-0772`.
 Notes: Broad bridge/downtown view. The 13 September enlarged re-review supersedes the earlier 501+503-positive reading: Rodney identifies the light building as 501, an apparent intervening open/separated position as 503, and the shadowed substantial mass farther right as 505. This is a project-steward spatial interpretation, not proof of vacancy, exact construction date, or continuity. `P-9594` must not be cited as proving that 503 was rebuilt by November 1922.
 
 ## S-240 — 1 March 1943 *The Amplifier* p.4, Fain's Men's Store 511 Main page-text lead
 <!-- P-1043 / Fain's 511 Main address follow-up — 2026-09-05 -->
-Type: Historic Oregon Newspapers official page text / newspaper source; **OCR/TEXT ONLY — scan not visually verified in this session**.  
-Date: **1 March 1943**  
-Page: **4**  
-URL: https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/  
-Related evidence/business/photo: `E-214` / `BUS-099` / `S-237` / `E-211` / `IMG-0758`.  
-Capture: `evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md`.  
+Type: Historic Oregon Newspapers official page text / newspaper source; **OCR/TEXT ONLY — scan not visually verified in this session**.
+Date: **1 March 1943**
+Page: **4**
+URL: https://oregonnews.uoregon.edu/lccn/2017260114/1943-03-01/ed-1/seq-4/
+Related evidence/business/photo: `E-214` / `BUS-099` / `S-237` / `E-211` / `IMG-0758`.
+Capture: `evidence/source-captures/1943-03-01-amplifier-fains-mens-store-511-main-ocr-lead-2026-09-05.md`.
 Notes: Official indexed page text places **FAIN'S MEN'S STORE** at **511 Main Oregon City**. The original scan/PDF could not be opened through the available retrieval route, so do not label the transcription visually verified. This is a later exact-address anchor, not proof that the 1930–1939 P-1043 storefront was already 511 or that occupancy was uninterrupted.
 
 ## S-241 — CCHS P-5577, Oregon City aerial view of Willamette Falls and Oregon City, 1922
-Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P-5577`; Gardner Photos `027_001`; accession/series wording `2014.002.027.001`.  
-Date: **1922**; no month supplied.  
-Repository image: `media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg`.  
-Capture: `evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-aerial-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city  
-Related evidence/media/timeline: `E-215` / `IMG-0761` / `T-089`.  
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-5577`; Gardner Photos `027_001`; accession/series wording `2014.002.027.001`.
+Date: **1922**; no month supplied.
+Repository image: `media/photos/aerials/IMG-0761_1922-willamette-falls-oregon-city-aerial-cchs-p5577.jpg`.
+Capture: `evidence/source-captures/cchs-p5577-1922-willamette-falls-oregon-city-aerial-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-willamette-falls-and-oregon-city
+Related evidence/media/timeline: `E-215` / `IMG-0761` / `T-089`.
 Notes: Broad aerial of Willamette Falls, West Linn and Oregon City. Fifth/Main lies within the downtown frame, but individual target numbers/business signs are unreadable at this scale. Because no month is supplied, do not classify the view as pre- or post-July-1922 fire from this source alone. Companion photos: P-4776, P-5578, P-5579, P-5580.
 
 ## S-242 — CCHS P-5578, Oregon City aerial view of West Linn and Oregon City, Date made 1927
-Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P-5578`; Gardner Photos `027_002`; series wording `2014.002.027.002`.  
-Institutional title: **Oregon City 1922 - Aerial View of West Linn and Oregon City**.  
-Date made field: **1927**; title/date discrepancy retained.  
-Repository image: `media/photos/aerials/IMG-0762_1927-west-linn-oregon-city-aerial-cchs-p5578.jpg`.  
-Capture: `evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-501-two-story-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-west-linn-and-oregon-city  
-Related evidence/media/timeline/building: `E-216` / `IMG-0762` / `T-090` / `B-005`.  
+Type: Primary historic aerial photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-5578`; Gardner Photos `027_002`; series wording `2014.002.027.002`.
+Institutional title: **Oregon City 1922 - Aerial View of West Linn and Oregon City**.
+Date made field: **1927**; title/date discrepancy retained.
+Repository image: `media/photos/aerials/IMG-0762_1927-west-linn-oregon-city-aerial-cchs-p5578.jpg`.
+Capture: `evidence/source-captures/cchs-p5578-1927-west-linn-oregon-city-aerial-501-two-story-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1922-aerial-view-of-west-linn-and-oregon-city
+Related evidence/media/timeline/building: `E-216` / `IMG-0762` / `T-090` / `B-005`.
 Notes: At the steward-mapped historic 501 position, the visible building mass appears two stories tall. Exact 501 numbering is not visible and remains a spatial mapping inference. The 1927 state is compatible with the two-story Gates replacement documented in 1922 but does not prove building identity.
 
 ## S-243 — CCHS P-1241 — circa-1900 bluff view, Main between Fifth and Seventh
-Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P-1241`.  
-Date: **ca. 1900 (from institutional title; separate Date made field not recovered)**; institutional title says **1900 ca**.  
-Repository image: `media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg`.  
-Capture: `evidence/source-captures/cchs-p1241-ca1900-bluff-main-5th-7th-target-frontage-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets  
-Related evidence/media/timeline: `E-217` / `IMG-0763` / `T-091`.  
-Related buildings: `B-005`, `B-001`, `B-002`.  
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P-1241`.
+Date: **ca. 1900 (from institutional title; separate Date made field not recovered)**; institutional title says **1900 ca**.
+Repository image: `media/photos/early-main-street/IMG-0763_ca1900-bluff-main-5th-7th-cchs-p1241.jpg`.
+Capture: `evidence/source-captures/cchs-p1241-ca1900-bluff-main-5th-7th-target-frontage-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1900-ca-viewed-from-the-bluff-main-between-5th-and-7th-streets
+Related evidence/media/timeline: `E-217` / `IMG-0763` / `T-091`.
+Related buildings: `B-005`, `B-001`, `B-002`.
 Notes: Institutional title locates Main between Fifth and Seventh. Steward identifies the far-left frontage as the later 501-505 area; exact numbered boundaries and building continuity remain unresolved.
 
 ## S-244 — CCHS P-1798, Labor Day parade at Fifth & Main, 1 September 1902
-Type: Primary historic photograph with CCHS catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Catalog ID: `P-1798`.  
-Date: **1 September 1902** from CCHS description.  
-Repository image: `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`.  
-Capture: `evidence/source-captures/cchs-p1798-1902-09-01-labor-day-parade-5th-main-signs-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-labor-day-parade-1902-5th-and-main  
-Related evidence/media: `E-218` / `IMG-0764`.  
+Type: Primary historic photograph with CCHS catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Catalog ID: `P-1798`.
+Date: **1 September 1902** from CCHS description.
+Repository image: `media/photos/early-main-street/IMG-0764_1902-09-01-labor-day-parade-5th-main-cchs-p1798.jpg`.
+Capture: `evidence/source-captures/cchs-p1798-1902-09-01-labor-day-parade-5th-main-signs-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-labor-day-parade-1902-5th-and-main
+Related evidence/media: `E-218` / `IMG-0764`.
 Notes: Ringling Bros. / World's Greatest Shows and General Arthur cigar advertising are readable. Pale center-wall lettering remains unresolved. Target-area structure presents as a probable low one-story/tall-false-front form; exact later 501/503/505 mapping and continuity to 1922 remain unproved.
 
 ## S-245 — CCHS 2008.008.005.002 — Oregon City 1896, Sixth and Main streetscape
-Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `2008.008.005.002`.  
-Date: **1896 (from institutional title; separate Date made field not recovered)**.  
-Repository image: `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg`.  
-Capture: `evidence/source-captures/cchs-2008-008-005-002-1896-6th-main-predecessor-501-505-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street  
-Related evidence/media/timeline: `E-219` / `IMG-0765` / `T-092`.  
-Related sites/buildings: `B-005`, `B-001`, `B-002`; related business context: `BUS-007`.  
+Type: Primary historic photograph with CCHS institutional catalog metadata; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `2008.008.005.002`.
+Date: **1896 (from institutional title; separate Date made field not recovered)**.
+Repository image: `media/photos/early-main-street/IMG-0765_1896-6th-main-predecessor-501-505-cchs-2008-008-005-002.jpg`.
+Capture: `evidence/source-captures/cchs-2008-008-005-002-1896-6th-main-predecessor-501-505-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-6th-and-main-street
+Related evidence/media/timeline: `E-219` / `IMG-0765` / `T-092`.
+Related sites/buildings: `B-005`, `B-001`, `B-002`; related business context: `BUS-007`.
 Notes: Steward fixes the northeast Fifth/Main corner by the two men. The visible later-501/503/505 positions contain predecessor buildings, not the later/current structures. Readable Harding/drug-store and railway-ticket signs are preserved without assigning an unsupported 1896 street number.
 
 ## S-246 — CCHS 2008.008.005.003, Oregon City 1896 - 5th and Main Street Looking NE
-Type: Primary historic photograph with CCHS catalog identity; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `2008.008.005.003`.  
-Title/date wording: **Oregon City 1896 - 5th and Main Street Looking NE**.  
-Repository image: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`.  
-Capture: `evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-5th-and-main-street-looking-ne  
-Related evidence/media: `E-220` / `IMG-0766`; cross-checks `E-173`, `E-123`.  
-Related study area: historic 501/503/505 predecessor frontage; exact later numbered boundaries unresolved.  
+Type: Primary historic photograph with CCHS catalog identity; **VISUALLY VERIFIED** 5 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `2008.008.005.003`.
+Title/date wording: **Oregon City 1896 - 5th and Main Street Looking NE**.
+Repository image: `media/photos/early-main-street/IMG-0766_1896-5th-main-looking-ne-cchs-2008-008-005-003.jpg`.
+Capture: `evidence/source-captures/cchs-2008-008-005-003-1896-5th-main-looking-ne-signs-addresses-2026-09-05.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-1896-5th-and-main-street-looking-ne
+Related evidence/media: `E-220` / `IMG-0766`; cross-checks `E-173`, `E-123`.
+Related study area: historic 501/503/505 predecessor frontage; exact later numbered boundaries unresolved.
 Notes: `WILHELM TELL HOUSE`, `C. ALBRIGHT'S` / `COLD STORAGE`, and `Schlitz` are directly readable. Steward orientation is on Fifth looking north toward Sixth.
 
 ## S-247 — Oregon City Courier, 11/18/25 January 1917 complete-page visual-review batch
 <!-- 1917 January unsampled Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **11 January 1917 (8 pages); 18 January 1917 (8 pages); 25 January 1917 (8 pages)**.  
-Preserved originals: `newspapers/oregon-city-courier/1917-january-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-january-unsampled/manifest.json`  
-Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`  
-Related evidence/business/building: `E-221`; `BUS-100`, `BUS-101`; `B-016`.  
-Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **11 January 1917 (8 pages); 18 January 1917 (8 pages); 25 January 1917 (8 pages)**.
+Preserved originals: `newspapers/oregon-city-courier/1917-january-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-january-unsampled/manifest.json`
+Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`
+Related evidence/business/building: `E-221`; `BUS-100`, `BUS-101`; `B-016`.
+Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.
 Notes: 25 Jan. p.6 directly prints W. B. Eddy's Store at **427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market**. The three issues also repeat 108 Fifth and 619 Main anchors. No exact 501/503/505/507/509/511 occupant was found in this bounded batch; silence is not vacancy evidence.
 
 ## S-248 — Oregon City Courier, 8/15/22 February 1917 complete-page visual-review batch
 <!-- 1917 February unsampled Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **8 February 1917 (8 pages); 15 February 1917 (10 pages); 22 February 1917 (10 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-02-08/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-february-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-february-unsampled/manifest.json`  
-Retrieval commit: `a89ae39e96f8094e7556a0c0605b2093c7687491`  
-Related evidence: `E-222`.  
-Capture: `evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **8 February 1917 (8 pages); 15 February 1917 (10 pages); 22 February 1917 (10 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-02-08/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-february-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-february-unsampled/manifest.json`
+Retrieval commit: `a89ae39e96f8094e7556a0c0605b2093c7687491`
+Related evidence: `E-222`.
+Capture: `evidence/source-captures/1917-courier-february-08-22-visual-review-2026-09-05.md`.
 Notes: This completes the three February issues not already represented by the 1 February monthly sample. Selected visible anchors include 619 Main, 108 Fifth, and 612 Main. No exact 501/503/505/507/509/511 Main occupant was established in this bounded batch; silence is not vacancy evidence.
 
 ## S-249 — Oregon City Mausoleum Burial List, Raye W. Grisham / maiden Weaver
-Type: Official municipal cemetery register PDF; **VISUALLY VERIFIED** 5 September 2026.  
-Institution: City of Oregon City.  
-Document: **Mausoleum Burial List by Last Name**, dated **5 September 2019**.  
-Page: PDF page 49 / viewer index 48.  
-URL: https://www.orcity.org/DocumentCenter/View/646/Mausoleum-Burial-List-by-Last-Name---September-2019-PDF  
-Related evidence/person: `E-223` / `P-006`.  
-Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Type: Official municipal cemetery register PDF; **VISUALLY VERIFIED** 5 September 2026.
+Institution: City of Oregon City.
+Document: **Mausoleum Burial List by Last Name**, dated **5 September 2019**.
+Page: PDF page 49 / viewer index 48.
+URL: https://www.orcity.org/DocumentCenter/View/646/Mausoleum-Burial-List-by-Last-Name---September-2019-PDF
+Related evidence/person: `E-223` / `P-006`.
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.
 Notes: Direct row records **GRISHAM, RAYE, W., maiden WEAVER**, death 6/30/2012, age 94, burial 11/2/2012, niche 97. Age conflicts with `S-250` obituary's 93; preserve both.
 
 ## S-250 — The Oregonian obituary for Raye W. Grisham, 11 July 2012
-Type: Newspaper obituary webpage / family identity source; page text directly inspected 5 September 2026.  
-Publication: **The Oregonian**.  
-Publication date: **11 July 2012**.  
-URL: https://obits.oregonlive.com/us/obituaries/oregon/name/raye-grisham-obituary?id=25350789  
-Related evidence/people: `E-224` / `P-006`, `P-008`, `P-022`.  
-Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Type: Newspaper obituary webpage / family identity source; page text directly inspected 5 September 2026.
+Publication: **The Oregonian**.
+Publication date: **11 July 2012**.
+URL: https://obits.oregonlive.com/us/obituaries/oregon/name/raye-grisham-obituary?id=25350789
+Related evidence/people: `E-224` / `P-006`, `P-008`, `P-022`.
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.
 Notes: Obituary identifies Raye W. Grisham, age 93, birth 30 Dec. 1918, death 30 June 2012; daughters Carol Stover and Sheila Wiitanen; deceased husbands Floyd La Farlette and Cliff Grisham. It does not mention The Wheel or either Main Street address.
 
 ## S-251 — OLCC licenses-by-type historical PDF, The Wheel Bar & Grill / Maurice Enterprises Inc
-Type: Official state liquor-license list; **OCR/TEXT ONLY / OFFICIAL INDEXED PDF TEXT — page-image retrieval gap**.  
-Agency: Oregon Liquor Control Commission.  
-URL: https://www.olcc.state.or.us/pdfs/licensesbytype.pdf  
-Indexed row: **THE WHEEL BAR & GRILL — MAURICE ENTERPRISES INC — 503 MAIN ST, OREGON CITY, OR 97045 — license 104145 — expires 3/31/09**.  
-Related evidence/building/business: `E-225` / `B-001` / `BUS-004`.  
-Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.  
+Type: Official state liquor-license list; **OCR/TEXT ONLY / OFFICIAL INDEXED PDF TEXT — page-image retrieval gap**.
+Agency: Oregon Liquor Control Commission.
+URL: https://www.olcc.state.or.us/pdfs/licensesbytype.pdf
+Indexed row: **THE WHEEL BAR & GRILL — MAURICE ENTERPRISES INC — 503 MAIN ST, OREGON CITY, OR 97045 — license 104145 — expires 3/31/09**.
+Related evidence/building/business: `E-225` / `B-001` / `BUS-004`.
+Capture: `evidence/source-captures/503-505-grisham-wiitanen-online-pass-2026-09-05.md`.
 Notes: The direct PDF open/page-image route failed in this session, so retain OCR/TEXT ONLY status. The row establishes a later state-license association but not the Wiitanen sale date or real-estate title.
 
 ## S-252 — Oregon City Courier, 8 March 1917 complete-page visual-review checkpoint
 <!-- 1917 March 8 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issue: **8 March 1917 (10 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-08/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`  
-Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`  
-Related evidence: `E-226`.  
-Capture: `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issue: **8 March 1917 (10 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-08/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`
+Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`
+Related evidence: `E-226`.
+Capture: `evidence/source-captures/1917-courier-march-08-visual-review-2026-09-05.md`.
 Notes: Complete visual review of the 8 March issue repeats 619 Main, 612 Main and Fifth/Main anchors. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; this is bounded coverage, not vacancy evidence.
 
 ## S-253 — Oregon City Courier, 15/22/29 March 1917 complete-page visual-review batch
 <!-- 1917 March 15-29 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **15 March 1917 (8 pages); 22 March 1917 (8 pages); 29 March 1917 (12 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-15/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`  
-Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`  
-Related evidence/business/building: `E-227`; `BUS-040`; `B-013`.  
-Capture: `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 28/28 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **15 March 1917 (8 pages); 22 March 1917 (8 pages); 29 March 1917 (12 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-03-15/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-march-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-march-unsampled/manifest.json`
+Retrieval commit: `413f0499335e7d4c21093b928038b33175bc7b6f`
+Related evidence/business/building: `E-227`; `BUS-040`; `B-013`.
+Capture: `evidence/source-captures/1917-courier-march-15-29-visual-review-2026-09-05.md`.
 Notes: 15 Mar. p2 and 22 Mar. p6 directly print Jones Drug Co. at **617 Main Street**. The 22 Mar. p3 realty report says Main Street storerooms were unavailable and two new business blocks were contemplated; citywide context only (`T-102`), not a target occupant or completed project. No exact 501/503/505/507/509/511 occupant was established; silence is not vacancy evidence.
 
 ## S-254 — Homes.com public-record-derived 503 Main purchase history
-Type: Secondary property-data aggregator reporting publicly available records; **TRANSACTION LEAD ONLY**.  
-URL: https://www.homes.com/property/503-main-st-oregon-city-or/lt9ek3mwclkqr/  
-Related evidence/building: `E-228` / `B-001`.  
-Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Type: Secondary property-data aggregator reporting publicly available records; **TRANSACTION LEAD ONLY**.
+URL: https://www.homes.com/property/503-main-st-oregon-city-or/lt9ek3mwclkqr/
+Related evidence/building: `E-228` / `B-001`.
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.
 Notes: Reports a **2 Dec. 2002** 503 Main purchase at **$200,000**, title company Oregon Title Insurance Co, but hides buyer/seller names. Also reports later 2007/2009 events that conflict with the separate 2010 assessment-derived page's “most recent sale price” wording. Do not identify the 2002 parties without the deed/index.
 
 ## S-255 — City-Data repackaged 2010 Clackamas County assessment data for 503 and 505 Main
-Type: Secondary republication of public-record property-tax assessment data; **PUBLIC-RECORD-DERIVED / ORIGINAL ROLL NOT INSPECTED**.  
-Tax year represented: **2010**.  
-URL: https://www.city-data.com/clackamas-county/M/Main-Street-1.html  
-Related evidence/buildings/person: `E-229` / `B-001`, `B-002` / `P-394`.  
-Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Type: Secondary republication of public-record property-tax assessment data; **PUBLIC-RECORD-DERIVED / ORIGINAL ROLL NOT INSPECTED**.
+Tax year represented: **2010**.
+URL: https://www.city-data.com/clackamas-county/M/Main-Street-1.html
+Related evidence/buildings/person: `E-229` / `B-001`, `B-002` / `P-394`.
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.
 Notes: At 503, names Maurice Shahtout on a land/building entry with most recent sale price $200,000 and separately lists Maurice Enterprises Inc. At 505, names Richard M Wiitanen & Sheila J Wiitanen on a land/building entry and separately lists 505 Tavern. Strong cross-address ownership snapshot, but verify against original County assessment/deed records.
 
 ## S-256 — Clackamas County 2026 cancellation list, Maurice Enterprises Inc (The Wheel Bar & Grill)
-Type: Official Clackamas County business-personal-property tax spreadsheet; **DIRECT OFFICIAL TEXT**.  
-URL: https://docs.clackamas.us/documents/drupal/9e3c9ae6-b8c8-4920-b7f5-b6012417cf67  
-Related evidence/business: `E-230` / `BUS-004`.  
-Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.  
+Type: Official Clackamas County business-personal-property tax spreadsheet; **DIRECT OFFICIAL TEXT**.
+URL: https://docs.clackamas.us/documents/drupal/9e3c9ae6-b8c8-4920-b7f5-b6012417cf67
+Related evidence/business: `E-230` / `BUS-004`.
+Capture: `evidence/source-captures/503-main-2002-2010-maurice-ownership-follow-up-2026-09-05.md`.
 Notes: Account `P2252284` directly names **MAURICE ENTERPRISES INC (THE WHEEL BAR & GRILL)** in multiple historical tax-year sections including 2013-14, 2014-15 and 2015-16. The row does not print 503 Main; address linkage is independently supplied by `S-251` / `E-225`.
 
 ## S-257 — Oregon City Courier, 12/19/26 April 1917 complete-page visual-review batch
 <!-- 1917 April 12-26 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **12 April 1917 (8 pages); 19 April 1917 (8 pages); 26 April 1917 (8 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-04-12/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-april-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-april-unsampled/manifest.json`  
-Retrieval commit: `f4a0007afa908fe36388157b96dad1e28037f076`  
-Related evidence: `E-231`.  
-Capture: `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **12 April 1917 (8 pages); 19 April 1917 (8 pages); 26 April 1917 (8 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-04-12/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-april-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-april-unsampled/manifest.json`
+Retrieval commit: `f4a0007afa908fe36388157b96dad1e28037f076`
+Related evidence: `E-231`.
+Capture: `evidence/source-captures/1917-courier-april-12-26-visual-review-2026-09-05.md`.
 Notes: Complete visual review repeats dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Text-layer false positives include county-expenditure amounts ending in 505/617 and 509 Boss Street; no vacancy inference.
 
 ## S-258 — Oregon City Courier, 10/17/24/31 May 1917 complete-page visual-review batch
 <!-- 1917 May 10-31 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **10, 17, 24 and 31 May 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-05-10/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-may-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-may-unsampled/manifest.json`  
-Retrieval commit: `9b3c9fc705a394ad3f500093335e73209544948b`  
-Related evidence: `E-232`.  
-Capture: `evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **10, 17, 24 and 31 May 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-05-10/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-may-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-may-unsampled/manifest.json`
+Retrieval commit: `9b3c9fc705a394ad3f500093335e73209544948b`
+Related evidence: `E-232`.
+Capture: `evidence/source-captures/1917-courier-may-10-31-visual-review-2026-09-05.md`.
 Notes: Complete visual review repeatedly confirms dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text checking was only a post-review backstop and no vacancy inference is made.
 
 ## S-259 — Oregon City Courier, 14/21/28 June 1917 complete-page visual-review batch
 <!-- 1917 June 14-28 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **14, 21 and 28 June 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-06-14/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-june-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-june-unsampled/manifest.json`  
-Retrieval commit: `3c1e42645fdda5c529c254f26c6b7e156e659f20`  
-Related evidence: `E-233`.  
-Capture: `evidence/source-captures/1917-courier-june-14-28-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **14, 21 and 28 June 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-06-14/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-june-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-june-unsampled/manifest.json`
+Retrieval commit: `3c1e42645fdda5c529c254f26c6b7e156e659f20`
+Related evidence: `E-233`.
+Capture: `evidence/source-captures/1917-courier-june-14-28-visual-review-2026-09-05.md`.
 Notes: Complete visual review repeatedly confirms dated 612 Main, 619 Main and Fifth/Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; text checking was only a post-review backstop and no vacancy inference is made.
 
 ## S-260 — Oregon City Courier, 12/19/26 July 1917 complete-page visual-review batch
 <!-- 1917 July 12-26 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **12, 19 and 26 July 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-07-12/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-july-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-july-unsampled/manifest.json`  
-Retrieval commit: `105dff22d925ae2fe95b001fa83a2cc81a1b17be`  
-Related evidence: `E-234`.  
-Capture: `evidence/source-captures/1917-courier-july-12-26-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **12, 19 and 26 July 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-07-12/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-july-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-july-unsampled/manifest.json`
+Retrieval commit: `105dff22d925ae2fe95b001fa83a2cc81a1b17be`
+Related evidence: `E-234`.
+Capture: `evidence/source-captures/1917-courier-july-12-26-visual-review-2026-09-05.md`.
 Notes: Complete visual review repeatedly confirms dated 612 Main and 619 Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Apparent target-number text hits on 12 July p.8 are draft-registration serial numbers, not addresses; no vacancy inference is made.
 
 ## S-261 — Oregon City Courier, 9/16/23/30 August 1917 complete-page visual-review batch
 <!-- 1917 August 09-30 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 26/26 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **9, 16, 23 and 30 August 1917 (6, 6, 6 and 8 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-08-09/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-august-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-august-unsampled/manifest.json`  
-Retrieval commit: `ba69171fdb3466baa958eae3b7d530b60ed05577`  
-Related evidence: `E-235`.  
-Capture: `evidence/source-captures/1917-courier-august-09-30-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 26/26 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **9, 16, 23 and 30 August 1917 (6, 6, 6 and 8 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-08-09/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-august-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-august-unsampled/manifest.json`
+Retrieval commit: `ba69171fdb3466baa958eae3b7d530b60ed05577`
+Related evidence: `E-235`.
+Capture: `evidence/source-captures/1917-courier-august-09-30-visual-review-2026-09-05.md`.
 Notes: Complete visual review repeatedly confirms dated 612 and 619 Main controls and adds 718 Main on 23 August. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Apparent 507/509 text hits on 9 August p.1 are draft-board identifiers, not addresses; no vacancy inference is made.
 
 ## S-262 — Oregon City Courier, 13/20/27 September 1917 complete-page visual-review batch
 <!-- 1917 September 13-27 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **13, 20 and 27 September 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-09-13/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-september-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-september-unsampled/manifest.json`  
-Retrieval commit: `8a3bee05860be735e2af968841050cbd2aca6a39`  
-Related evidence: `E-236`.  
-Capture: `evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **13, 20 and 27 September 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-09-13/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-september-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-september-unsampled/manifest.json`
+Retrieval commit: `8a3bee05860be735e2af968841050cbd2aca6a39`
+Related evidence: `E-236`.
+Capture: `evidence/source-captures/1917-courier-september-13-27-visual-review-2026-09-05.md`.
 Notes: Complete visual review confirms dated 519, 612, 617 and 619 Main controls. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. The apparent 505 hit on 20 September p.2 is part of a $505,899.28 bank total, not an address; no vacancy inference is made.
 
 ## S-263 — Oregon City Courier, 11/18/25 October 1917 complete-page visual-review batch
 <!-- 1917 October 11-25 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **11, 18 and 25 October 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-october-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-october-unsampled/manifest.json`  
-Retrieval commit: `9687a4be9734bd3b7260021557febc269b0bfbc6`  
-Related evidence: `E-237`.  
-Capture: `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 24/24 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **11, 18 and 25 October 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-10-11/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-october-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-october-unsampled/manifest.json`
+Retrieval commit: `9687a4be9734bd3b7260021557febc269b0bfbc6`
+Related evidence: `E-237`.
+Capture: `evidence/source-captures/1917-courier-october-11-25-visual-review-2026-09-05.md`.
 Notes: Complete visual review confirms Jones Drug at 617 Main on 11 and 18 October plus recurring 612 and 619 Main controls. The 25 October Jones advertisement gives Oregon City but no exact street number. No exact 501/503/505/507/509/511 or new 427 Main occupant was established; no vacancy inference is made.
 
 ## S-264 — Oregon City Courier, 8/15/22/29 November 1917 complete-page visual-review batch
 <!-- 1917 November 08-29 Courier visual review — 2026-09-05 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.  
-Publication: *Oregon City Courier*  
-Issues: **8, 15, 22 and 29 November 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-11-08/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-november-unsampled/`  
-Manifest: `newspapers/oregon-city-courier/1917-november-unsampled/manifest.json`  
-Retrieval commit: `2bc2108c331034184d81cd1b182778b486f2d705`  
-Related evidence: `E-238`.  
-Capture: `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 5 September 2026.
+Publication: *Oregon City Courier*
+Issues: **8, 15, 22 and 29 November 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-11-08/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-november-unsampled/`
+Manifest: `newspapers/oregon-city-courier/1917-november-unsampled/manifest.json`
+Retrieval commit: `2bc2108c331034184d81cd1b182778b486f2d705`
+Related evidence: `E-238`.
+Capture: `evidence/source-captures/1917-courier-november-08-29-visual-review-2026-09-05.md`.
 Notes: Complete visual review confirms recurring 612/619 Main controls. Jones Drug ads in these four issues print Oregon City but not an exact number; Nov. 1 remains the month's direct 617 Main observation. Adams Department Store building-removal wording is directly visible by Nov. 15 but remains unnumbered and is not assigned to the target block. No exact 501/503/505/507/509/511 or new 427 Main occupant was established.
 
 ## S-265 — Oregon City Courier, 13/20/27 December 1917 year-end visual-review batch
 <!-- 1917 December Courier year-end continuation — 2026-09-05 -->
-Type: Primary newspaper page scans; year-end Courier review with one retrieval conflict.  
-Publication: *Oregon City Courier*  
-Issues: **13, 20 and 27 December 1917**, combined with the previously reviewed 6 December sample.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-12-13/ed-1/  
-Preserved originals: `newspapers/oregon-city-courier/1917-december-continuation/`  
-Retrieval commit: `b15d41d11cd0d5749db05f207111c5c38ead85d8`  
-Related evidence: `E-239`.  
-Capture: `evidence/source-captures/1917-courier-december-13-27-year-end-review-2026-09-05.md`.  
+Type: Primary newspaper page scans; year-end Courier review with one retrieval conflict.
+Publication: *Oregon City Courier*
+Issues: **13, 20 and 27 December 1917**, combined with the previously reviewed 6 December sample.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063698/1917-12-13/ed-1/
+Preserved originals: `newspapers/oregon-city-courier/1917-december-continuation/`
+Retrieval commit: `b15d41d11cd0d5749db05f207111c5c38ead85d8`
+Related evidence: `E-239`.
+Capture: `evidence/source-captures/1917-courier-december-13-27-year-end-review-2026-09-05.md`.
 Notes: 20 and 27 December are visually verified 8/8 each. Prior and fresh review agree that 13 December has 23 genuine pages while archive sequence 21 is a 27 December page; the true page 21 remains a retrieval gap. Annual Courier inventory reaches 52 issue dates: 51 complete issues + one 23/24 partial, 435 genuine pages visually verified. No exact target occupant was established.
 
 ## S-266 — Oregon City Enterprise, January 1917 complete-page visual-review batch
 <!-- 1917 Enterprise January visual review — 2026-09-06 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 6 September 2026.  
-Publication: *Oregon City Enterprise*  
-Issues: **5, 12, 19 and 26 January 1917 (8 pages each)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-05/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-january/`  
-Manifest: `newspapers/oregon-city-enterprise/1917-january/manifest.json`  
-Retrieval commit: `9b19733a9dc82ab617f0c461a23651a70e96e3fd`  
-Related evidence: `E-240`.  
-Capture: `evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 32/32 pages** on 6 September 2026.
+Publication: *Oregon City Enterprise*
+Issues: **5, 12, 19 and 26 January 1917 (8 pages each)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-01-05/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-january/`
+Manifest: `newspapers/oregon-city-enterprise/1917-january/manifest.json`
+Retrieval commit: `9b19733a9dc82ab617f0c461a23651a70e96e3fd`
+Related evidence: `E-240`.
+Capture: `evidence/source-captures/1917-enterprise-january-05-26-visual-review-2026-09-06.md`.
 Notes: All 32 January scans were visually reviewed before text backstop. No exact 501/503/505/507/509/511 or new 427 Main occupant was established. Farr-like text hits are unrelated; Roswell L. Holman appears in a county-expense context without a target street number. No vacancy inference is made.
 
 ## S-267 — Oregon City Enterprise, February 1917 complete-page visual-review batch
 <!-- 1917 Enterprise February visual review — 2026-09-06 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 34/34 pages** on 6 September 2026.  
-Publication: *Oregon City Enterprise*  
-Issues: **2, 9, 16 and 23 February 1917 (8, 8, 10 and 8 pages)**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-02/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-february/`  
-Manifest: `newspapers/oregon-city-enterprise/1917-february/manifest.json`  
-Retrieval commit: `2947e59611eb9dce2786ac43de279f6df97b61e9`  
-Related evidence: `E-241`.  
-Capture: `evidence/source-captures/1917-enterprise-february-02-23-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 34/34 pages** on 6 September 2026.
+Publication: *Oregon City Enterprise*
+Issues: **2, 9, 16 and 23 February 1917 (8, 8, 10 and 8 pages)**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-02-02/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-february/`
+Manifest: `newspapers/oregon-city-enterprise/1917-february/manifest.json`
+Retrieval commit: `2947e59611eb9dce2786ac43de279f6df97b61e9`
+Related evidence: `E-241`.
+Capture: `evidence/source-captures/1917-enterprise-february-02-23-visual-review-2026-09-06.md`.
 Notes: Complete February scan review. 612 Main optometrist controls recur on 2 and 16 Feb. Farr Bros appears in county-poor expenditures and Annis L. Farr in the delinquent-tax list, but existing identity evidence separates the Seventh Street Farr Brothers grocery/meat business from Edwin/Alice Farr's later 505 pool-hall question. No exact target address was established.
 
 ## S-268 — Coquille Valley Sentinel, 7 August 1947 p.13 — Anderson and LaFarlette mail-contract report
 <!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1947 source -->
-Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
-Publication: *Coquille Valley Sentinel*  
-Date: **1947-08-07**  
-Page: **13**  
-Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf  
-Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf`  
-Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
-Related evidence: `E-242`.  
-Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.
+Publication: *Coquille Valley Sentinel*
+Date: **1947-08-07**
+Page: **13**
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1947-08-07/ed-1/seq-13.pdf
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1947-08-07-p13-anderson-lafarlette-mail-contract.pdf`
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`
+Related evidence: `E-242`.
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.
 Classification: **DOCUMENTED / DIRECT for the dated Anderson and LaFarlette business report; Floyd identification is cross-source and must not be inferred from surname alone.**
 
 ## S-269 — Coquille Valley Sentinel, 18 October 1951 p.4 — Myrtle Lodge new-ownership advertisement
 <!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1951 source -->
-Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
-Publication: *Coquille Valley Sentinel*  
-Date: **1951-10-18**  
-Page: **4**  
-Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf  
-Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`  
-Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
-Related evidence: `E-243`.  
-Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.
+Publication: *Coquille Valley Sentinel*
+Date: **1951-10-18**
+Page: **4**
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1951-10-18/ed-1/seq-4.pdf
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1951-10-18-p4-myrtle-lodge-new-owners.pdf`
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`
+Related evidence: `E-243`.
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.**
 
 ## S-270 — Coquille Valley Sentinel, 11 June 1953 p.3 — Myrtle Lodge banquet and dance
 <!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1953 source -->
-Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
-Publication: *Coquille Valley Sentinel*  
-Date: **1953-06-11**  
-Page: **3**  
-Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf  
-Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`  
-Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
-Related evidence: `E-244`.  
-Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.
+Publication: *Coquille Valley Sentinel*
+Date: **1953-06-11**
+Page: **3**
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1953-06-11/ed-1/seq-3.pdf
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1953-06-11-p3-myrtle-lodge-banquet.pdf`
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`
+Related evidence: `E-244`.
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED for hosting/involvement; no legal ownership inference for Raye.**
 
 ## S-271 — Coquille Valley Sentinel, 11 March 1954 p.1 — Raye LaFarlette profile
 <!-- LaFarlette Coquille primary-source preservation — 2026-09-06 / 1954 source -->
-Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.  
-Publication: *Coquille Valley Sentinel*  
-Date: **1954-03-11**  
-Page: **1**  
-Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf  
-Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`  
-Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`  
-Related evidence: `E-245`.  
-Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.  
+Type: Primary newspaper page scan; visually reviewed before integration and now preserved in-repository.
+Publication: *Coquille Valley Sentinel*
+Date: **1954-03-11**
+Page: **1**
+Original archive URL: https://oregonnews.uoregon.edu/lccn/sn96088222/1954-03-11/ed-1/seq-1.pdf
+Preserved source: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/1954-03-11-p1-raye-lafarlette-profile.pdf`
+Manifest: `newspapers/coquille-valley-sentinel/lafarlette-primary-sources/manifest.json`
+Related evidence: `E-245`.
+Capture: `evidence/source-captures/lafarlette-coquille-primary-source-preservation-2026-09-06.md`.
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED; preserved contemporary published account, with Morton omission treated as a chronology conflict rather than negative evidence.**
 
 ## S-272 — Oregon City Enterprise, March 1917 scan-first visual-review batch with archive page-association conflict
 <!-- 1917 Enterprise March visual review and page-5 gap — 2026-09-06 -->
-Type: Primary newspaper page scans; **40/40 exposed archive slots visually inspected; 39 genuine intended-date pages recovered** on 6 September 2026.  
-Publication: *Oregon City Enterprise*  
-Issue dates: **2, 9, 16, 23 and 30 March 1917**.  
-Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-march/`  
-Manifest: `newspapers/oregon-city-enterprise/1917-march/manifest.json`  
-Original retrieval commit: `e65bd35360e6c6cea20b88184671407841ba73b5`  
-Recovery manifest: `newspapers/oregon-city-enterprise/1917-march/recovery-march16-page5/recovery-manifest.json`  
-Recovery commit: `4d4853ddb0cd81ceefe147a335dd83e940d93cdd`  
-Related evidence: `E-246`.  
-Manual callout: `MF-049`.  
-Capture: `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans; **40/40 exposed archive slots visually inspected; 39 genuine intended-date pages recovered** on 6 September 2026.
+Publication: *Oregon City Enterprise*
+Issue dates: **2, 9, 16, 23 and 30 March 1917**.
+Representative archive URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-03-16/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-march/`
+Manifest: `newspapers/oregon-city-enterprise/1917-march/manifest.json`
+Original retrieval commit: `e65bd35360e6c6cea20b88184671407841ba73b5`
+Recovery manifest: `newspapers/oregon-city-enterprise/1917-march/recovery-march16-page5/recovery-manifest.json`
+Recovery commit: `4d4853ddb0cd81ceefe147a335dd83e940d93cdd`
+Related evidence: `E-246`.
+Manual callout: `MF-049`.
+Capture: `evidence/source-captures/1917-enterprise-march-02-30-visual-review-2026-09-06.md`.
 Notes: Visual date audit shows 16 March seq-5 is actually a distinct 23 March Page-5 variant. True 16 March page 5 remains unrecovered after derivative/alternate-edition/LOC recovery attempts. No exact 501/503/505/507/509/511 occupant was established on the 39 genuine recovered pages; no vacancy inference is made.
 
 <!-- 708-monroe-canonical-sync-2026-09-06 -->
 ## S-273 — Oregon City Commission, 6 March 1946 — February recreation-department rent at 708 Monroe
-Type: Primary municipal Commission/claims record; **OCR/TEXT ONLY — ORIGINAL PAGE IMAGE NOT VISUALLY CERTIFIED**.  
-Public record: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723048/File/document  
-Meeting: **6 March 1946**; Recorder claims report covers **February 1946**.  
-Relevant extracted sequence: **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00**.  
-Related evidence/person/building: `E-247`; `P-395`; `B-017`.  
-Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.  
+Type: Primary municipal Commission/claims record; **OCR/TEXT ONLY — ORIGINAL PAGE IMAGE NOT VISUALLY CERTIFIED**.
+Public record: https://ormswd.synergydcs.com/HPRMWebDrawer/Record/4723048/File/document
+Meeting: **6 March 1946**; Recorder claims report covers **February 1946**.
+Relevant extracted sequence: **C. P. Farr — Rent at 708 Monroe - Rec. Dept. — $150.00**.
+Related evidence/person/building: `E-247`; `P-395`; `B-017`.
+Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.
 Notes: The readable municipal text is unusually explicit about the address, but repeated attempts to render the original claim-page image failed. Preserve this as OCR/TEXT ONLY until the scan is visually inspected. The entry is evidence for a City recreation-department rental at **708 Monroe**, not 505 Main, Farr's Pool Hall, or Harr's Recreation Center.
 
 ## S-274 — Oregon City Courier, 23 June 1911 — Clarence P. Farr executor notice
-Type: Primary newspaper legal notice; **TEXT/TRANSCRIPTION CONTROL — PAGE IMAGE NOT NEWLY CERTIFIED IN THIS synchronization**.  
-Archive page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-23/ed-1/seq-7/  
-Relevant wording identifies **CLARENCE P. FARR** as executor of the estate of Isaac Farr.  
-Related evidence/person: `E-248`; `P-395`.  
-Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.  
+Type: Primary newspaper legal notice; **TEXT/TRANSCRIPTION CONTROL — PAGE IMAGE NOT NEWLY CERTIFIED IN THIS synchronization**.
+Archive page: https://oregonnews.uoregon.edu/lccn/sn00063698/1911-06-23/ed-1/seq-7/
+Relevant wording identifies **CLARENCE P. FARR** as executor of the estate of Isaac Farr.
+Related evidence/person: `E-248`; `P-395`.
+Capture: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`.
 Notes: This supplies the direct middle-initial bridge for the Oregon City Clarence Farr family line. It is not by itself proof that every later `C. P. Farr` reference names this person.
 
 ## S-275 — Oregon City historic-resource record, Farr Store / 919 7th Street
-Type: Official City historic-resource synthesis and underlying survey route; secondary property/biographical evidence.  
-City page: https://www.orcity.org/2142/919-7th-Street  
-Survey PDF: https://www.orcity.org/DocumentCenter/View/7877/919_7th  
-Related evidence/person: `E-248`, `E-249`; `P-395`.  
-Captures: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`; `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.  
+Type: Official City historic-resource synthesis and underlying survey route; secondary property/biographical evidence.
+City page: https://www.orcity.org/2142/919-7th-Street
+Survey PDF: https://www.orcity.org/DocumentCenter/View/7877/919_7th
+Related evidence/person: `E-248`, `E-249`; `P-395`.
+Captures: `evidence/source-captures/1945-c-p-farr-recreation-building-rent-ocr-lead-2026-09-03.md`; `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.
 Notes: The City identifies Clarence Farr with Farr Brothers / Farr Store at the northwest corner of Seventh and Monroe and reports a mid-1940s sale to Dewey Krueger. This is official secondary evidence and does not identify the 708 Monroe recreation premises or connect Clarence to Edwin F. Farr's 505 Main pool hall.
 
 ## S-276 — Oregon City 19 September 2017 permit log — 919 7th / 709 Monroe same-APN control
-Type: Official municipal permit-log property/address control.  
-PDF: https://www.orcity.org/DocumentCenter/View/638/September-11-2017-to-September-15-2017-PDF  
-Relevant rows: permits BM-17-0295/BM-17-0296 list **919 7th St** and BM-17-0297 lists **709 Monroe St**, with the same owner and APN **2-2E-31AD-05000**.  
-Related evidence/building: `E-249`; `B-017` as comparison context only.  
-Capture: `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.  
+Type: Official municipal permit-log property/address control.
+PDF: https://www.orcity.org/DocumentCenter/View/638/September-11-2017-to-September-15-2017-PDF
+Relevant rows: permits BM-17-0295/BM-17-0296 list **919 7th St** and BM-17-0297 lists **709 Monroe St**, with the same owner and APN **2-2E-31AD-05000**.
+Related evidence/building: `E-249`; `B-017` as comparison context only.
+Capture: `evidence/source-captures/1946-708-monroe-farr-store-spatial-separation-2026-09-06.md`.
 Notes: This directly establishes a modern 919 7th / 709 Monroe parcel-address relationship. It does not prove that 709 existed as an address in 1946, identify the historic 708 parcel, or establish ownership of the 708 recreation premises.
 
 ## S-277 — Coquille Valley Sentinel Myrtle Lodge / Coaledo location batch, 1947-1954
 <!-- Myrtle Lodge Coaledo location and Town Club lead — 2026-09-06 / source -->
-Type: Primary newspaper page scans preserved as a research batch.  
-Publication: *Coquille Valley Sentinel*.  
-Dates/pages: 11 Dec. 1947 p.1; 28 Oct. 1948 p.12; 14 Jul. 1949 p.15; 9 Oct. 1952 p.9; 28 Oct. 1954 p.1.  
-Preserved originals: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/`  
-Manifest: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/manifest.json`  
-Related evidence/business: `E-250`; `BUS-102`.  
-Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
+Type: Primary newspaper page scans preserved as a research batch.
+Publication: *Coquille Valley Sentinel*.
+Dates/pages: 11 Dec. 1947 p.1; 28 Oct. 1948 p.12; 14 Jul. 1949 p.15; 9 Oct. 1952 p.9; 28 Oct. 1954 p.1.
+Preserved originals: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/`
+Manifest: `newspapers/coquille-valley-sentinel/myrtle-lodge-coaledo/manifest.json`
+Related evidence/business: `E-250`; `BUS-102`.
+Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.
 Classification: **PRIMARY SOURCE BATCH — DIRECT printed location/name evidence; exact modern parcel unresolved.**
 
 ## S-278 — 1954-1955 Oregon liquor-license renewal controls for Coos County Town Club research
 <!-- LaFarlette Town Club licensing route — 2026-09-06 / source -->
-Type: Primary newspaper page scans preserved in-repository; text/OCR reviewed, not scan-certified in this integration.  
-Pages: *Coquille Valley Sentinel*, 9 Dec. 1954 p.3; *Medford Mail Tribune*, 7 Dec. 1955 p.7.  
-Preserved originals: `newspapers/town-club-lafarlette-licensing-controls/`  
-Manifest: `newspapers/town-club-lafarlette-licensing-controls/manifest.json`  
-Retrieval commit: `b90301065950e8b9ee1a55c40ab312e5c6d711c1`  
-Related evidence: `E-251`.  
-Related manual callout: `MF-050`.  
-Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.  
+Type: Primary newspaper page scans preserved in-repository; text/OCR reviewed, not scan-certified in this integration.
+Pages: *Coquille Valley Sentinel*, 9 Dec. 1954 p.3; *Medford Mail Tribune*, 7 Dec. 1955 p.7.
+Preserved originals: `newspapers/town-club-lafarlette-licensing-controls/`
+Manifest: `newspapers/town-club-lafarlette-licensing-controls/manifest.json`
+Retrieval commit: `b90301065950e8b9ee1a55c40ab312e5c6d711c1`
+Related evidence: `E-251`.
+Related manual callout: `MF-050`.
+Capture: `evidence/source-captures/myrtle-lodge-coaledo-location-and-town-club-lead-2026-09-06.md`.
 Classification: **OCR/TEXT ONLY / ORIGINAL PDF PRESERVED — licensing-record route controls, not a Town Club or LaFarlette license identification.**
 
 ## S-279 — Oregon City Enterprise, April 1917 scan-first visual-review batch with Page-8 source conflict
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
-Type: Primary newspaper page scans plus derivative-recovery audit; **32/32 exposed slots visually inspected, 31 genuine intended-date pages recovered**.  
-Publication: *Oregon City Enterprise*  
-Issue dates: 6, 13, 20 and 27 April 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-april/`  
-Manifest: `newspapers/oregon-city-enterprise/1917-april/manifest.json`  
-Retrieval commit: `9c50293b82e519382e76e8b7d1def95cf8eaf248`  
-Recovery manifest: `newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/recovery-manifest.json`  
-Recovery commit: `1cc5060d2d5b198f6f8a27930ffff702abfd8347`  
-Related evidence: `E-252`. Manual callout: `MF-051`.  
-Capture: `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans plus derivative-recovery audit; **32/32 exposed slots visually inspected, 31 genuine intended-date pages recovered**.
+Publication: *Oregon City Enterprise*
+Issue dates: 6, 13, 20 and 27 April 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-04-13/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-april/`
+Manifest: `newspapers/oregon-city-enterprise/1917-april/manifest.json`
+Retrieval commit: `9c50293b82e519382e76e8b7d1def95cf8eaf248`
+Recovery manifest: `newspapers/oregon-city-enterprise/1917-april/recovery-april13-page8/recovery-manifest.json`
+Recovery commit: `1cc5060d2d5b198f6f8a27930ffff702abfd8347`
+Related evidence: `E-252`. Manual callout: `MF-051`.
+Capture: `evidence/source-captures/1917-enterprise-april-06-27-visual-review-2026-09-06.md`.
 Notes: 13 April seq-8 visibly prints PAGE 6 and a Thursday masthead with altered/obscured date, while normal seq-6 is already Friday Page 6. True printed Page 8 remains unrecovered. April directly advances W. S. Eddy/Fashion Stable to Main between Fourth and Fifth, differing from the 1915 Fifth-between-Main-and-Water location. No exact target-number occupant was established.
 
 ## S-280 — Oregon City Enterprise, May 1917 complete scan-first visual-review batch
 <!-- 1917 Enterprise May visual closeout — 2026-09-06 -->
-Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
-Issue dates: 4, 11, 18 and 25 May 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-25/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-may/`; manifest `newspapers/oregon-city-enterprise/1917-may/manifest.json`; retrieval commit `048e4f847c9749889fa377c51ee47196fe2cea6f`.  
-Evidence: `E-253`; capture: `evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.
+Issue dates: 4, 11, 18 and 25 May 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-05-25/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-may/`; manifest `newspapers/oregon-city-enterprise/1917-may/manifest.json`; retrieval commit `048e4f847c9749889fa377c51ee47196fe2cea6f`.
+Evidence: `E-253`; capture: `evidence/source-captures/1917-enterprise-may-04-25-visual-review-2026-09-06.md`.
 Notes: Direct 106 Fifth National Guard enlistment use; W. S. Eddy/Fashion Stable continuation; Farr Brothers Meat market wording. No exact target Main occupant.
 
 ## S-281 — Oregon City Enterprise, June 1917 complete scan-first visual-review batch
 <!-- 1917 Enterprise June visual closeout — 2026-09-06 -->
-Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.  
-Issue dates: 1, 8, 15, 22 and 29 June 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-june/`; manifest `newspapers/oregon-city-enterprise/1917-june/manifest.json`; retrieval commit `77ec7b746990740ba842e7f451b490cadd07763c`.  
-Evidence: `E-254`; capture: `evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md`.  
+Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.
+Issue dates: 1, 8, 15, 22 and 29 June 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-06-29/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-june/`; manifest `newspapers/oregon-city-enterprise/1917-june/manifest.json`; retrieval commit `77ec7b746990740ba842e7f451b490cadd07763c`.
+Evidence: `E-254`; capture: `evidence/source-captures/1917-enterprise-june-01-29-visual-review-2026-09-06.md`.
 Notes: W. S. Eddy/Fashion Stable repeats through 29 June at Main between Fourth/Fifth; 22 June repeats Farr Bros. in county expenditures. No exact target Main occupant.
 
 **June 8 regulatory amendment.** <!-- 1917 Enterprise June pool-room regulatory amendment — 2026-09-06 -->
 The visually inspected 8 June p.3 council report also says city pool rooms were violating ordinance sections and records discussion of allowing pool-room cigar stands without additional licenses; it dates the strict pool-room legislation to 1911. This is citywide regulatory context only, not an address/operator finding. See `T-095` / `RL-052`.
 ## S-282 — Clackamas County News, 22 August 1958 p.2 — Wheel Cafe & Lounge at 503 Main
 <!-- Flor Kwality Wheel 1957-1958 transition sync — 2026-09-06 -->
-Type: Primary newspaper page scan  
-Publication: *The Clackamas County News*  
-Date/page: **22 August 1958, p. 2**  
-Repository file: `newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf`  
-Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-08-22/ed-1/seq-2.pdf  
-Evidence: `E-255`  
-Capture: `evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md`  
+Type: Primary newspaper page scan
+Publication: *The Clackamas County News*
+Date/page: **22 August 1958, p. 2**
+Repository file: `newspapers/clackamas-county-news/1958-08-22-p2-wheel-cafe-lounge-503-main.pdf`
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-08-22/ed-1/seq-2.pdf
+Evidence: `E-255`
+Capture: `evidence/source-captures/morton-wheel-to-oregon-city-wheel-ownership-bridge-pass-2026-09-05.md`
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The original page was visually reviewed during the 5–6 September 2026 ownership-bridge pass; the preserved PDF is the same archive page. The advertisement directly reads **WHEEL CAFE & LOUNGE**, **503 Main St.**, **Ph: 9106**. It does not name a proprietor, owner, licensee, seller, buyer, or predecessor.
 
 ## S-283 — Clackamas County News, 16 May 1958 p.2 — Wheel Cafe & Lounge at 503 Main
 <!-- Wheel Cafe May 1958 earliest recovered anchor — 2026-09-07 -->
-Type: Primary newspaper page scan  
-Publication: *The Clackamas County News* (archive catalog: *Estacada's Clackamas County news.*)  
-Date/page: **16 May 1958, p. 2**  
-Repository file: `newspapers/clackamas-county-news/1958-05-16-p2-wheel-cafe-lounge-503-main.pdf`  
-Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-05-16/ed-1/seq-2.pdf  
-Evidence: `E-256`  
-Capture: `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`  
+Type: Primary newspaper page scan
+Publication: *The Clackamas County News* (archive catalog: *Estacada's Clackamas County news.*)
+Date/page: **16 May 1958, p. 2**
+Repository file: `newspapers/clackamas-county-news/1958-05-16-p2-wheel-cafe-lounge-503-main.pdf`
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-05-16/ed-1/seq-2.pdf
+Evidence: `E-256`
+Capture: `evidence/source-captures/1958-wheel-cafe-earliest-advertisement-backward-pass-2026-09-07.md`
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The page's Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an earlier exact-address endpoint, not an opening or transfer date.
 
 <!-- 505-shpo-30539-visual-review-2026-09-07 -->
 ## S-284 — Oregon SHPO resource 30539 — 505 Main May 2000 Historic Resource Survey Form
-Type: Official Oregon SHPO-held historic-resource survey form; **ORIGINAL OFFICIAL SCAN, 3/3 PAGES VISUALLY VERIFIED**.  
-Resource: **Oregon Historic Sites Database RESOURCE_ID 30539 — 505 Main St / 505 Tavern**.  
-Survey/form: Oregon Inventory of Historic Properties — Historic Resource Survey Form; researcher **Michelle L. Dennis**; recorded **May 2000**.  
-Official endpoint: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=30539.pdf  
-Repository PDF: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf`  
-SHA-256: `5c07dbb4582d80a57b477506ae84ac728ae5b909fb1c41f12d1b1d89b1646bd5`  
-Visual review: all **3 pages** rendered from the preserved official PDF and inspected 7 September 2026.  
-Related evidence/building/businesses/people: `E-257`, `E-258`; `B-002`; `BUS-014`, `BUS-015`; `P-007`, `P-008`.  
-Provenance: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form-provenance.md`.  
+Type: Official Oregon SHPO-held historic-resource survey form; **ORIGINAL OFFICIAL SCAN, 3/3 PAGES VISUALLY VERIFIED**.
+Resource: **Oregon Historic Sites Database RESOURCE_ID 30539 — 505 Main St / 505 Tavern**.
+Survey/form: Oregon Inventory of Historic Properties — Historic Resource Survey Form; researcher **Michelle L. Dennis**; recorded **May 2000**.
+Official endpoint: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=30539.pdf
+Repository PDF: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form.pdf`
+SHA-256: `5c07dbb4582d80a57b477506ae84ac728ae5b909fb1c41f12d1b1d89b1646bd5`
+Visual review: all **3 pages** rendered from the preserved official PDF and inspected 7 September 2026.
+Related evidence/building/businesses/people: `E-257`, `E-258`; `B-002`; `BUS-014`, `BUS-015`; `P-007`, `P-008`.
+Provenance: `records/historic-surveys/505-main-shpo-resource-30539-inventory-form-provenance.md`.
 Notes:
 - Page 1 directly states that **"The 1945 city directory lists Harr's Recreation Center at 505 Main"** and that the building is listed in the **1953 city directory as "Well's Recreation."**
 - The same page says the building was apparently used "for this purpose for a number of years"; this is survey-author synthesis and is **not** proof of uninterrupted Harr operation or a direct Harr→Well transfer.
@@ -2431,131 +2431,131 @@ Notes:
 
 ## S-285 — Clackamas County News, 28 March 1958 p.3 — Wheel Cafe & Lounge at 503 Main
 <!-- Wheel Cafe March 1958 earliest recovered anchor — 2026-09-07 -->
-Type: Primary newspaper page scan  
-Publication: *The Clackamas County News*  
-Date/page: **28 March 1958, p. 3**  
-Repository file: `newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf`  
-Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-3.pdf  
-Evidence: `E-259`  
-Capture: `evidence/source-captures/1958-03-28-wheel-cafe-earliest-exact-address-control-and-february-guide-controls-2026-09-07.md`  
+Type: Primary newspaper page scan
+Publication: *The Clackamas County News*
+Date/page: **28 March 1958, p. 3**
+Repository file: `newspapers/clackamas-county-news/1958-03-28-p3-wheel-cafe-lounge-503-main.pdf`
+Primary URL: https://oregonnews.uoregon.edu/lccn/sn96088135/1958-03-28/ed-1/seq-3.pdf
+Evidence: `E-259`
+Capture: `evidence/source-captures/1958-03-28-wheel-cafe-earliest-exact-address-control-and-february-guide-controls-2026-09-07.md`
 Classification: **DOCUMENTED / DIRECT — VISUALLY VERIFIED.** The Oregon City business guide directly advertises **WHEEL CAFE & LOUNGE**, **STEAKS**, **503 Main St.**, **Ph: 9106**. It names no proprietor/licensee and is an advertising/occupancy endpoint, not an opening, ownership, rename, sale, or transfer date.
 
 ## S-286 — Oregon City Enterprise, July 1917 complete scan-first visual-review batch
 <!-- 1917 Enterprise July visual closeout — 2026-09-07 -->
-Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
-Issue dates: 6, 13, 20 and 27 July 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-july/`; manifest `newspapers/oregon-city-enterprise/1917-july/manifest.json`; retrieval commit `5aac50e370846d5b9481cee00be1bc457e8c7fa2`.  
-Evidence: `E-260`; capture: `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.  
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.
+Issue dates: 6, 13, 20 and 27 July 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-07-27/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-july/`; manifest `newspapers/oregon-city-enterprise/1917-july/manifest.json`; retrieval commit `5aac50e370846d5b9481cee00be1bc457e8c7fa2`.
+Evidence: `E-260`; capture: `evidence/source-captures/1917-enterprise-july-06-27-visual-review-2026-09-07.md`.
 Notes: W. S. Eddy/Fashion Stable repeats through 27 July at Main between Fourth/Fifth; 20 July carries Farr Bros. market-report and county-expenditure appearances. No exact target Main occupant.
 
 ## S-287 — Oregon City Enterprise, August 1917 complete scan-first visual-review batch
 <!-- 1917 Enterprise August visual closeout — 2026-09-07 -->
-Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.  
-Issue dates: 3, 10, 17, 24 and 31 August 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-august/`; manifest `newspapers/oregon-city-enterprise/1917-august/manifest.json`; retrieval commit `fb892469e50de219b4acaa8642ea2860b8cb429a`.  
-Evidence: `E-261`; capture: `evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`.  
+Type: Primary newspaper page scans; **40/40 genuine intended-date pages visually verified**.
+Issue dates: 3, 10, 17, 24 and 31 August 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-08-31/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-august/`; manifest `newspapers/oregon-city-enterprise/1917-august/manifest.json`; retrieval commit `fb892469e50de219b4acaa8642ea2860b8cb429a`.
+Evidence: `E-261`; capture: `evidence/source-captures/1917-enterprise-august-03-31-visual-review-2026-09-07.md`.
 Notes: Fashion Stable repeats through 31 August; Farr Bros. market-report credits continue through 24 August; 31 August provider line changes to R. Petzold + Brady Mercantile; Mrs. J. C. Napier directly prints at 512½ Main; no exact target Main occupant.
 
 ## S-288 — Oregon City Enterprise, September 1917 complete scan-first visual-review batch
 <!-- 1917 Enterprise September visual closeout — 2026-09-07 -->
-Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.  
-Issue dates: 7, 14, 21 and 28 September 1917.  
-Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed-1/  
-Preserved originals: `newspapers/oregon-city-enterprise/1917-september/`; manifest `newspapers/oregon-city-enterprise/1917-september/manifest.json`; retrieval commit `b4e91df67fe2ffb72bac3d814b4d0cb535ec2b46`.  
-Evidence: `E-262`; capture: `evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`.  
+Type: Primary newspaper page scans; **32/32 genuine intended-date pages visually verified**.
+Issue dates: 7, 14, 21 and 28 September 1917.
+Representative URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1917-09-14/ed-1/
+Preserved originals: `newspapers/oregon-city-enterprise/1917-september/`; manifest `newspapers/oregon-city-enterprise/1917-september/manifest.json`; retrieval commit `b4e91df67fe2ffb72bac3d814b4d0cb535ec2b46`.
+Evidence: `E-262`; capture: `evidence/source-captures/1917-enterprise-september-07-28-visual-review-2026-09-07.md`.
 Notes: Fashion Stable continues through 28 Sep; Farr business/supplier controls on 14/28 Sep; 14 Sep p3 directly places J. C. Penney Co./The Golden Rule on Main between Fifth/Sixth, phone 270; no exact target Main occupant.
 
 ## S-289 — January 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: *Oregon City Enterprise* 3/10/17/24/31 Jan. 1919, 40 pages; *Oregon City Courier* 2/9/16/23/30 Jan. 1919, 30 pages; **70/70 January pages**.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-january/` and `newspapers/oregon-city-courier/1919-january/`.  
-Related evidence: `E-263`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: *Oregon City Enterprise* 3/10/17/24/31 Jan. 1919, 40 pages; *Oregon City Courier* 2/9/16/23/30 Jan. 1919, 30 pages; **70/70 January pages**.
+Repository originals: `newspapers/oregon-city-enterprise/1919-january/` and `newspapers/oregon-city-courier/1919-january/`.
+Related evidence: `E-263`.
 Notes: Direct findings include Ohio Dentists at **507½ Main over Harding's Drug Store** and Pantorium Cleaners at **500 Main**. No source-explicit January 501/503/505 occupant or target construction event was found; this is bounded coverage only. Courier 30 Jan. pp.2–6 contain a printed `1918` running-header year error within the genuine 1919 issue.
 
 ## S-290 — February 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 February Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Courier 6/13/20/27 Feb., 24 pages; Enterprise 7/14/21/28 Feb., 32 pages; **56/56 total**.  
-Repository originals: `newspapers/oregon-city-courier/1919-february/` and `newspapers/oregon-city-enterprise/1919-february/`.  
-Related evidence: `E-264`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: Courier 6/13/20/27 Feb., 24 pages; Enterprise 7/14/21/28 Feb., 32 pages; **56/56 total**.
+Repository originals: `newspapers/oregon-city-courier/1919-february/` and `newspapers/oregon-city-enterprise/1919-february/`.
+Related evidence: `E-264`.
 Notes: F. D. Cox annual billiard-hall license and Feb. 12 sale/handover to Mr. Rohrberg; Ohio Dentists 507½-over-Harding continuation; Theroux Music House 210 Seventh; Farr Brothers market-report credits. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.
 
 ## S-291 — March 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 March Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Courier 6/13/20/27 Mar., 24 pages; Enterprise 7/14/21/28 Mar., 32 pages; **56/56 total**.  
-Repository originals: `newspapers/oregon-city-courier/1919-march/` and `newspapers/oregon-city-enterprise/1919-march/`.  
-Related evidence: `E-265`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: Courier 6/13/20/27 Mar., 24 pages; Enterprise 7/14/21/28 Mar., 32 pages; **56/56 total**.
+Repository originals: `newspapers/oregon-city-courier/1919-march/` and `newspapers/oregon-city-enterprise/1919-march/`.
+Related evidence: `E-265`.
 Notes: 6 Mar Courier directly transfers F. D. Cox's billiard license to **F. D. Rohberger, the new owner of the parlors**; February sale reports instead print **Mr. Rohrberg**, so the name form remains unresolved. Ohio Dentists continues at 507½-over-Harding through 21 Mar.; Farr Brothers market-report credits and Theroux at 210 Seventh continue. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.
 
 ## S-292 — April 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Courier 3/10/17/24 Apr., 24 pages; Enterprise 4/11/18/25 Apr., 32 pages; **56/56 total**.  
-Repository originals: `newspapers/oregon-city-courier/1919-april/` and `newspapers/oregon-city-enterprise/1919-april/`.  
-Related evidence: `E-266`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: Courier 3/10/17/24 Apr., 24 pages; Enterprise 4/11/18/25 Apr., 32 pages; **56/56 total**.
+Repository originals: `newspapers/oregon-city-courier/1919-april/` and `newspapers/oregon-city-enterprise/1919-april/`.
+Related evidence: `E-266`.
 Notes: 18 Apr Enterprise p1 directly reports the Post Office's 15 Apr move to Fifth/Main into two combined store rooms owned by First National Bank and the Barlow-David heirs, creating an ownership-description conflict with the Sep 1918 Latourette report and a strong cross-source match to Block 26 Lots 5–6. Ohio Dentists continues at 507½-over-Harding on 11 Apr.; Farr Brothers market credits recur all four Enterprise issues; Theroux continues at 210 Seventh. No source-explicit 501/503/505 occupant or target construction event; bounded coverage only.
 
 ## S-293 — May 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Courier 1/8/15/22/29 May, 32 pages; Enterprise 2/9/16/23/30 May, 40 pages; **72/72 total**.  
-Repository originals: `newspapers/oregon-city-courier/1919-may/` and `newspapers/oregon-city-enterprise/1919-may/`.  
-Related evidence: `E-267`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: Courier 1/8/15/22/29 May, 32 pages; Enterprise 2/9/16/23/30 May, 40 pages; **72/72 total**.
+Repository originals: `newspapers/oregon-city-courier/1919-may/` and `newspapers/oregon-city-enterprise/1919-may/`.
+Related evidence: `E-267`.
 Notes: 16 May Enterprise p2 directly reports alterations of a `Wolf building` nearing completion in a new-confectionery context, with rustic porch/pergola and blue-white interior. Full-page visual review places it inside the boxed Sandy Department, not Oregon City; the Sandy address, Wolf identity and proprietor are unprinted. No link to Wolf & Miller, S. Wolf, 503 or 505 is made. Ohio Dentists continues at 507½-over-Harding on 16 May; Farr Brothers market credits recur all five Enterprise issues; Theroux continues at 210 Seventh through 30 May. No source-explicit 501/503/505 occupant; bounded coverage only.
 
 ## S-294 — June 1919 Oregon City Enterprise + Courier complete monthly visual-review batch
 <!-- 1919 June Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Courier 5/12/19/26 Jun., 24 pages; Enterprise 6/13/20/27 Jun., 32 pages; **56/56 total**.  
-Repository originals: `newspapers/oregon-city-courier/1919-june/` and `newspapers/oregon-city-enterprise/1919-june/`.  
-Related evidence: `E-268`.  
+Type: Primary newspaper scans; **VISUALLY VERIFIED** 7 September 2026.
+Coverage: Courier 5/12/19/26 Jun., 24 pages; Enterprise 6/13/20/27 Jun., 32 pages; **56/56 total**.
+Repository originals: `newspapers/oregon-city-courier/1919-june/` and `newspapers/oregon-city-enterprise/1919-june/`.
+Related evidence: `E-268`.
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building event. June did not identify the May Wolf-building item; a later full-page visual recheck placed that item in the Sandy Department and ruled it out as an Oregon City lead. Farr Bros. appears in county-claims material without address/proprietor; Theroux Music House is directly at 210 Seventh through 27 Jun.; a Clem Dollar legal item supplies no premises. Bounded coverage only.
 
 ## S-295 — July 1919 online-exposed Oregon City Enterprise + final Courier visual-review batch
 <!-- 1919 July online Enterprise Courier visual review — 2026-09-07 -->
-Type: Primary newspaper scans plus retrieval-gap manifest; **38/38 online-exposed pages VISUALLY VERIFIED** 7 September 2026.  
-Coverage: final Courier issue 3 Jul., 6 pages; Enterprise 4/11/18/25 Jul., 32 pages; Banner-Courier 17/24/31 Jul. **manual retrieval gaps** under `MF-030`.  
-Repository originals: `newspapers/oregon-city-courier/1919-july/`, `newspapers/oregon-city-enterprise/1919-july/`; gap manifest `newspapers/banner-courier/1919-july/manifest.json`.  
-Related evidence: `E-269`.  
+Type: Primary newspaper scans plus retrieval-gap manifest; **38/38 online-exposed pages VISUALLY VERIFIED** 7 September 2026.
+Coverage: final Courier issue 3 Jul., 6 pages; Enterprise 4/11/18/25 Jul., 32 pages; Banner-Courier 17/24/31 Jul. **manual retrieval gaps** under `MF-030`.
+Repository originals: `newspapers/oregon-city-courier/1919-july/`, `newspapers/oregon-city-enterprise/1919-july/`; gap manifest `newspapers/banner-courier/1919-july/manifest.json`.
+Related evidence: `E-269`.
 Notes: No exact 501/503/505/505½ occupant or target physical-building event in the 38 online pages. Previously integrated July cleaner (`S-152`/`E-136`) and Gilbert Miller (`S-160`/`E-144`) pages were re-encountered but not duplicated. Theroux continues at 210 Seventh through 25 Jul.; Farr Brothers appears in market reports without address/proprietor.
 
 ## S-296 — August 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap
 <!-- 1919 August Enterprise visual review — 2026-09-07 -->
-Type: Primary newspaper scans plus retrieval-gap manifest; **40/40 online-exposed pages VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Enterprise 1/8/15/22/29 Aug., 40 pages; Banner-Courier 7/14/21/28 Aug. **manual retrieval gaps** under `MF-030`.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-august/`; gap manifest `newspapers/banner-courier/1919-august/manifest.json`.  
-Related evidence: `E-270`.  
+Type: Primary newspaper scans plus retrieval-gap manifest; **40/40 online-exposed pages VISUALLY VERIFIED** 7 September 2026.
+Coverage: Enterprise 1/8/15/22/29 Aug., 40 pages; Banner-Courier 7/14/21/28 Aug. **manual retrieval gaps** under `MF-030`.
+Repository originals: `newspapers/oregon-city-enterprise/1919-august/`; gap manifest `newspapers/banner-courier/1919-august/manifest.json`.
+Related evidence: `E-270`.
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building event in the 40 Enterprise pages. Cleaner repeats reconfirm existing `S-152`/`E-136` and are not duplicated. Theroux continues at 210 Seventh through 29 Aug.; Farr Brothers recurs in market reports without address/proprietor.
 
 ## S-297 — September 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap
 <!-- 1919 September Enterprise visual review — 2026-09-07 -->
-Type: Primary newspaper scans plus retrieval-gap manifest; **32/32 online-exposed pages VISUALLY VERIFIED** 7 September 2026.  
-Coverage: Enterprise 5/12/19/26 Sep., 32 pages; Banner-Courier 4/11/18/25 Sep. **manual retrieval gaps** under `MF-030`.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-september/`; gap manifest `newspapers/banner-courier/1919-september/manifest.json`.  
-Related evidence: `E-271`.  
+Type: Primary newspaper scans plus retrieval-gap manifest; **32/32 online-exposed pages VISUALLY VERIFIED** 7 September 2026.
+Coverage: Enterprise 5/12/19/26 Sep., 32 pages; Banner-Courier 4/11/18/25 Sep. **manual retrieval gaps** under `MF-030`.
+Repository originals: `newspapers/oregon-city-enterprise/1919-september/`; gap manifest `newspapers/banner-courier/1919-september/manifest.json`.
+Related evidence: `E-271`.
 Notes: 12 Sep. p2 directly reports S. Fesznecker moving his tin and repair shop from Broadway to the building just south of the post office. No exact 501/503/505/505½ occupant or target structural event was established.
 
 <!-- 2026-09-07-session-1910-1925-structural-reconciliation -->
 ## S-298 — Sanborn Fire Insurance Map, Oregon City, November 1911, Sheet 16 — Fifth/Main target block
-Type: Primary fire-insurance map scan; **VISUALLY VERIFIED in project 1911→1925 comparison**.  
-Date: November 1911.  
-Sheet: **16**.  
-Repository: `maps/sanborn/originals/1911-16 (5th-Main).pdf`.  
-SHA-256: `ffd9349d0c88fff7ce31f70cba115163296ae6b4dd19b6e7e6fb044cc1e319dd`.  
-Map ID: `SM-010`.  
-Related evidence/buildings: `E-272`; `B-005`, `B-001`, `B-002`.  
+Type: Primary fire-insurance map scan; **VISUALLY VERIFIED in project 1911→1925 comparison**.
+Date: November 1911.
+Sheet: **16**.
+Repository: `maps/sanborn/originals/1911-16 (5th-Main).pdf`.
+SHA-256: `ffd9349d0c88fff7ce31f70cba115163296ae6b4dd19b6e7e6fb044cc1e319dd`.
+Map ID: `SM-010`.
+Related evidence/buildings: `E-272`; `B-005`, `B-001`, `B-002`.
 Notes: This is the correct downtown Fifth/Main sheet for the later 501/503/505 frontage. The earlier registered 1911 Sheet 22 (`SM-007` / `S-020`) is Canemah and remains a valid geographic-control source, not the target block. Visual comparison with `S-021` / 1925 Sheet 6 shows changed storefront/footprint geometry by 1925; the map does not itself date each demolition or rebuild.
 
 ## S-299 — October 1919 Oregon City Enterprise complete online visual-review batch with Banner-Courier gap
 <!-- 1919 October Enterprise visual review — 2026-09-08 -->
-Type: Primary newspaper scans plus retrieval-gap manifest; **40/40 online-exposed pages VISUALLY VERIFIED** 8 September 2026.  
-Coverage: Enterprise 3/10/17/24/31 Oct., 40 pages; Banner-Courier 2/9/16/23/30 Oct. **manual retrieval gaps** under `MF-030`.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-october/`; gap manifest `newspapers/banner-courier/1919-october/manifest.json`.  
-Related evidence: `E-273`.  
+Type: Primary newspaper scans plus retrieval-gap manifest; **40/40 online-exposed pages VISUALLY VERIFIED** 8 September 2026.
+Coverage: Enterprise 3/10/17/24/31 Oct., 40 pages; Banner-Courier 2/9/16/23/30 Oct. **manual retrieval gaps** under `MF-030`.
+Repository originals: `newspapers/oregon-city-enterprise/1919-october/`; gap manifest `newspapers/banner-courier/1919-october/manifest.json`.
+Related evidence: `E-273`.
 Notes: No source-explicit 501/503/505/505½ occupant or target physical-building/property event. Theroux Music House is directly at 210 Seventh on 3/17/31 Oct., extending direct continuity through 31 Oct.; OCR leading-digit errors are rejected after scan review.
 ## S-300 — October 1917 Oregon City Enterprise complete visual-review batch
 Type: Primary newspaper scans; **VISUALLY VERIFIED 30/30 pages** on 8 September 2026.
@@ -2584,35 +2584,35 @@ Notes: certifies 104 issues / 852 slots / 849 genuine intended-date pages visual
 
 ## S-304 — November 1919 Oregon City Enterprise complete online visual-review batch
 <!-- 1919 November-December annual online closeout — 2026-09-08 --> source-register
-Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.  
-Coverage: Enterprise 7/14/21/28 Nov., 32 pages; Banner-Courier 6/13/20/27 Nov. manual `MF-030`.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-november/`; capture `evidence/source-captures/1919-november-enterprise-visual-review-2026-09-08.md`.  
-Related evidence: `E-278`.  
+Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.
+Coverage: Enterprise 7/14/21/28 Nov., 32 pages; Banner-Courier 6/13/20/27 Nov. manual `MF-030`.
+Repository originals: `newspapers/oregon-city-enterprise/1919-november/`; capture `evidence/source-captures/1919-november-enterprise-visual-review-2026-09-08.md`.
+Related evidence: `E-278`.
 Notes: 28 Nov. p8 directly advertises B. J. Staats Hardware Co., “Selling Out Hardware and Implements,” **520–22 Main Street**. This conflicts with the separately cataloged December 1919 CCHS **516 Main** Staats photograph; neither address is normalized. No source-explicit 501/503/505/505½ construction/occupancy event was established in the 32 pages.
 
 ## S-305 — December 1919 Oregon City Enterprise complete online visual-review batch
-Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.  
-Coverage: Enterprise 5/12/19/26 Dec., 32 pages; Banner-Courier 4/11/18/25 Dec. manual `MF-030`.  
-Repository originals: `newspapers/oregon-city-enterprise/1919-december/`; capture `evidence/source-captures/1919-december-enterprise-visual-review-2026-09-08.md`.  
-Related evidence: `E-279`.  
+Type: Primary newspaper scans plus Banner-Courier retrieval-gap manifest; **32/32 Enterprise pages VISUALLY VERIFIED** 8 September 2026.
+Coverage: Enterprise 5/12/19/26 Dec., 32 pages; Banner-Courier 4/11/18/25 Dec. manual `MF-030`.
+Repository originals: `newspapers/oregon-city-enterprise/1919-december/`; capture `evidence/source-captures/1919-december-enterprise-visual-review-2026-09-08.md`.
+Related evidence: `E-279`.
 Notes: 19 Dec. p5 directly reports the Portland House at Fifth and Main, identifies Mr. and Mrs. Beck as owners, and describes it/adjoining buildings as frame construction. No street number or target-building identity is printed; no 501/503/505 assignment is made.
 
 ## S-306 — 1919 all-online-source-class closeout synthesis
-Type: Repository synthesis of visually verified primary scans, official/secondary online source-class work and explicit restricted/manual gaps; **ONLINE COMPLETE certification record**.  
-Capture: `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md`.  
-Related evidence: `E-280`.  
+Type: Repository synthesis of visually verified primary scans, official/secondary online source-class work and explicit restricted/manual gaps; **ONLINE COMPLETE certification record**.
+Capture: `evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md`.
+Related evidence: `E-280`.
 Notes: 102 local-newspaper issue dates accounted for; 638/638 online-retrievable pages visually reviewed; 24 Banner-Courier issues remain `MF-030`. Other ordinary public/indexed online source classes are closed; restricted/manual records remain explicitly listed.
 
 ## S-307 — Oregon City Courier, 19 January 1912, pages 1–4 visual-review batch
 <!-- 1912 Courier Jan 19 pages 1-4 steward visual review and binary preservation — 2026-09-09 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES** on 9 September 2026; exact archive PDF derivatives preserved.  
-Publication: *Oregon City Courier*.  
-Date/pages: **19 January 1912, printed pages 1–4**.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-1.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-2.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-3.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-4.pdf`.  
-SHA-256: page 1 `47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679`; page 2 `01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99`; page 3 `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611`; page 4 `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e`.  
-Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.  
-Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES** on 9 September 2026; exact archive PDF derivatives preserved.
+Publication: *Oregon City Courier*.
+Date/pages: **19 January 1912, printed pages 1–4**.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-1.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-2.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-3.pdf`, `newspapers/oregon-city-courier/1912-01-19-page-4.pdf`.
+SHA-256: page 1 `47f0ee2c0e090e3ec6947831250ea06ee4fe64850382581dce5877aa96f85679`; page 2 `01e202249f48757ecada6946ca361c7d5b3cf5087d49a0778a382c4cab75af99`; page 3 `c261c85d058f2ac376fa59975ce49eea0fcbd66e8703e99908dfc2b3c4521611`; page 4 `36c385cc184da7d14070ebe3f645b4d1225e92ce03f48e39f267263839e7b07e`.
+Binary preservation commit: `975e5b03ee365278f3b8fde8567b2ffd3a2f0187`.
+Source capture: `evidence/source-captures/1912-courier-jan-19-pages-1-4-visual-review-2026-09-09.md`.
 Notes: The four project-steward re-uploads with `(1)` filename suffixes were byte-identical to the first supplied copies and therefore were not preserved as duplicate files. Complete visual screening found no defensible new 501/503/505/507/509/511 Main occupant, ownership, business-transition, or structural claim. Page 1 directly records a high-Willamette event reaching the end of Main Street and a separate Portland–Oregon City channel-dredging proposal; these are retained as non-target city/infrastructure context only. At the time of the pages 1–4 review, the separate page-8 Percy Cross / Harding Drug Store lead remained **OCR/TEXT ONLY** because page 8 was not in that batch. That state is now superseded by `S-310` / `E-282`, which visually verifies page 8. No new `E-###` is assigned from the bounded no-hit/context result.
 
 ## S-308 — Morning Oregonian, 27 June 1922, page 4, Victor Wolf naturalization
@@ -2636,130 +2636,130 @@ Notes: The index gives **Wolf, Victor John** and **Wolf, Victor** under 1922 Cla
 
 ## S-310 — Oregon City Courier, 19 January 1912, pages 5–8 visual-review batch
 <!-- 1912 Jan 19 Courier pages 5-8 visual review — 2026-09-09 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES**; completes the issue at **8/8 visually verified** with `S-307`.  
-Publication/date: *Oregon City Courier*, **19 January 1912**, printed pages **5–8**.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-5.pdf` through `1912-01-19-page-8.pdf`.  
-SHA-256: p5 `d7419216d8a39ecfdd726302590ab365f2d7074beac327083c3b84a1c48ddce6`; p6 `53b2c8b4c8b03036fed8a8cc04f18a895dc6fc980ecbc8c052ab7913b2a61300`; p7 `fd88d8623b8203ba49ece2f2c31faf0a8f826569543b18b69d1ce02d1054f444`; p8 `bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62`.  
-Binary preservation commit: `7b9e00c697da21f6caea5bb696055b0d910c1ed6`.  
-Related evidence: `E-282`; cross-reference `E-092`.  
-Source capture: `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 4/4 PAGES**; completes the issue at **8/8 visually verified** with `S-307`.
+Publication/date: *Oregon City Courier*, **19 January 1912**, printed pages **5–8**.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-01-19/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1912-01-19-page-5.pdf` through `1912-01-19-page-8.pdf`.
+SHA-256: p5 `d7419216d8a39ecfdd726302590ab365f2d7074beac327083c3b84a1c48ddce6`; p6 `53b2c8b4c8b03036fed8a8cc04f18a895dc6fc980ecbc8c052ab7913b2a61300`; p7 `fd88d8623b8203ba49ece2f2c31faf0a8f826569543b18b69d1ce02d1054f444`; p8 `bc4bdb274d1d0530e087da7a01b3f0dfc832ef1174ccd6cfba53e4ec89795a62`.
+Binary preservation commit: `7b9e00c697da21f6caea5bb696055b0d910c1ed6`.
+Related evidence: `E-282`; cross-reference `E-092`.
+Source capture: `evidence/source-captures/1912-courier-jan-19-pages-5-8-visual-review-2026-09-09.md`.
 Notes: Page 8 directly verifies Percy Cross accepting a position in the Harding drugstore during A. E. Wilmot's absence; no street number is printed. Page 7 prints “Milton Price, pool hall” in the Oregon City No. 1 jury-list section and Farr Bros. as a $10 County Poor payee, both without address/role continuity sufficient for target-business merger. Pages 5–6 add only non-target city/address context. No new direct 501/503/505 occupancy claim; 1912 remains IN PROGRESS.
 
 ## S-311 — CCHS 2008.008.009.016, Oregon City from the Bluff at 4th Street Steps
 <!-- 2026-09-09-cchs-1918-p267-target-transition -->
-Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `2008.008.009.016`.  
-Date: **1918** per supplied CCHS metadata.  
-Repository image: `media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg`.  
-Capture: `evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-from-the-bluff-at-4th-street-steps  
-Related evidence/media/timeline: `E-283` / `IMG-0769` / `T-103`.  
-Related buildings: `B-005`, `B-001`, `B-002`.  
+Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `2008.008.009.016`.
+Date: **1918** per supplied CCHS metadata.
+Repository image: `media/photos/early-main-street/IMG-0769_1918-bluff-4th-street-steps-target-frontage-cchs-2008-008-009-016.jpg`.
+Capture: `evidence/source-captures/2008-008-009-016-1918-bluff-4th-street-steps-target-frontage-2026-09-09.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-from-the-bluff-at-4th-street-steps
+Related evidence/media/timeline: `E-283` / `IMG-0769` / `T-103`.
+Related buildings: `B-005`, `B-001`, `B-002`.
 Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.
 
 ## S-312 — CCHS P‑267, Oregon City and the Arch Bridge as Seen from Bluff
 <!-- 2026-09-09-cchs-1918-p267-target-transition -->
-Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.  
-Institution: Clackamas County Historical Society.  
-Catalog ID: `P‑267`.  
-Date: **1924-1928** per supplied CCHS metadata.  
-Repository image: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`.  
-Capture: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`.  
-Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-and-the-arch-bridge-as-seen-from-bluff.  
-Related evidence/media/timeline: `E-284` / `IMG-0770` / `T-104`.  
-Related buildings: `B-005`, `B-001`, `B-002`.  
+Type: Primary institutional historic photograph; **VISUALLY VERIFIED** 9 September 2026.
+Institution: Clackamas County Historical Society.
+Catalog ID: `P‑267`.
+Date: **1924-1928** per supplied CCHS metadata.
+Repository image: `media/photos/early-main-street/IMG-0770_1924-1928-arch-bridge-bluff-target-frontage-cchs-p-267.jpg`.
+Capture: `evidence/source-captures/p-267-1924-1928-arch-bridge-bluff-target-frontage-2026-09-09.md`.
+Public record: https://hub.catalogit.app/clackamas-county-historical-society/folder/photographs/entry/oregon-city-and-the-arch-bridge-as-seen-from-bluff.
+Related evidence/media/timeline: `E-284` / `IMG-0770` / `T-104`.
+Related buildings: `B-005`, `B-001`, `B-002`.
 Notes: Later street numbers are not readable in the photograph; exact 501/503/505 bay mapping is preserved as project-steward spatial identification plus established cross-source geometry. Exact construction/ownership conclusions are not inferred.
 
 
 ## S-313 — Oregon City Courier, 18 May 1916, page 6 recovered visual source
-Type: Primary newspaper page scan; **VISUALLY VERIFIED 11 September 2026**.  
-Publication/date/page: *Oregon City Courier*, **18 May 1916, page 6 / archive seq. 6**.  
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-6/  
-Repository PDF: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/oregonnews-ed1-seq6.pdf`.  
-Recovery manifest: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/recovery-manifest.json`.  
-SHA-256 / size: `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb02052061`; 758,542 bytes.  
-Recovery source commit: `cbf0bb8ffe2e78257895c8a58b221713d16afbde`.  
-Related evidence: `E-286`.  
+Type: Primary newspaper page scan; **VISUALLY VERIFIED 11 September 2026**.
+Publication/date/page: *Oregon City Courier*, **18 May 1916, page 6 / archive seq. 6**.
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-05-18/ed-1/seq-6/
+Repository PDF: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/oregonnews-ed1-seq6.pdf`.
+Recovery manifest: `newspapers/oregon-city-courier/1916-may/recovery-may18-page6/recovery-manifest.json`.
+SHA-256 / size: `7b9488500715cdd64a3388b5f4f1eebc6401582d2e90585c9ce582eb02052061`; 758,542 bytes.
+Recovery source commit: `cbf0bb8ffe2e78257895c8a58b221713d16afbde`.
+Related evidence: `E-286`.
 Notes: This source resolves the former 1916 annual visual-retrieval gap. Full-page visual review confirms a P. R. L. & P. item about repairing the surface around **Main Street tracks** by removing stone filler, cutting pavement to tie ends, and using Belgian-block infill. This is street/track work, not a target building event. No exact 503/505 occupancy, ownership, tenancy, license, sale, construction, demolition or vacancy claim is printed.
 
 
 ## S-314 — Oregon City Courier, 8 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **8 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-08/1916-06-08-page-1.pdf` through `1916-06-08-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `2c39a84c5b022cffcad0738f5933deff62620b7c`.  
-Related evidence: `E-287`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **8 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-08/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-08/1916-06-08-page-1.pdf` through `1916-06-08-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `2c39a84c5b022cffcad0738f5933deff62620b7c`.
+Related evidence: `E-287`.
 Notes: All eight original page PDFs were visually inspected. Page 5 directly prints Champion Smith & Telford at **502 Main Street** and an unnumbered Raasch & Lamb pool/billiards panel. Page 6 directly prints W. W. Bradley **507 Main**, H. P. Brightbill **509 Main**, George A. Harding **511 Main**, and Holman/Randall at **Fifth and Main**. The issue does not print an exact 503 or 505 Main premises assignment. Page 7's 617 Main Electric Store ad is retained as printed advertising during an independently documented relocation sequence and is not treated alone as proof of same-day physical occupancy.
 
 
 ## S-315 — Oregon City Courier, 15 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **15 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-15/1916-06-15-page-1.pdf` through `1916-06-15-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `e399d25f4587dcf410138632e7d0f69aa881b42d`.  
-Related evidence: `E-288`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **15 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-15/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-15/1916-06-15-page-1.pdf` through `1916-06-15-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `e399d25f4587dcf410138632e7d0f69aa881b42d`.
+Related evidence: `E-288`.
 Notes: Page 4 documents a Richard Petzold / Gustav Freiwald Main Street property transfer **between Seventh and Eighth**, outside the target frontage. Page 5 prints Champion Smith & Telford at **502 Main** and Raasch & Lamb pool/billiards without a number. Page 6 prints Bradley **507**, Brightbill **509**, and Harding **511 Main**. Page 7 explicitly announces the Electric Store and Light/Power offices **have moved** one door north to the **Andresen Building, 619 Main Street**, while retaining a Beaver Building / 617 Main footer. No exact 503/505 premises assignment is printed.
 
 
 ## S-316 — Oregon City Courier, 22 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **22 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-22/1916-06-22-page-1.pdf` through `1916-06-22-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `6d436be3874e8ecb2ee377b0f466e91f6c1c1ae2`.  
-Related evidence: `E-289`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **22 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-22/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-22/1916-06-22-page-1.pdf` through `1916-06-22-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `6d436be3874e8ecb2ee377b0f466e91f6c1c1ae2`.
+Related evidence: `E-289`.
 Notes: Page 1 visually verifies the council dispute over Raasch & Lamb's temporary permit for removal of their pool-hall business to the basement of the Andresen Building; the report does not prove the move was completed. Page 3 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. Page 6 prints Bradley 507, Brightbill 509, Harding 511 Main and Holman/Randall at Fifth/Main. Page 7 repeats the completed Electric Store move to Andresen Building 619 Main with a stale 617 footer. No exact 503/505 premises assignment is printed.
 
 
 ## S-317 — Oregon City Courier, 29 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **29 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-29/1916-06-29-page-1.pdf` through `1916-06-29-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `51222ac20326cf07153d5e62c4889490893ab59a`.  
-Related evidence: `E-290`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **29 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-06-29/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-june/1916-06-29/1916-06-29-page-1.pdf` through `1916-06-29-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `51222ac20326cf07153d5e62c4889490893ab59a`.
+Related evidence: `E-290`.
 Notes: Page 3 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. Page 6 prints Bradley 507, Brightbill 509, and Harding 511 Main; OCR's 611 rendering for Harding is superseded by visual inspection. Page 7 repeats the completed Electric Store move to Andresen Building 619 Main with stale 617 footer. No exact 503/505 premises assignment is printed.
 
 
 ## S-318 — Oregon City Courier, 13 July 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **13 July 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-13/1916-07-13-page-1.pdf` through `1916-07-13-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `512a091b9a9218677307e69389f5c9e64d77a6c1`.  
-Related evidence: `E-291`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **13 July 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-13/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-13/1916-07-13-page-1.pdf` through `1916-07-13-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `512a091b9a9218677307e69389f5c9e64d77a6c1`.
+Related evidence: `E-291`.
 Notes: Page 4 visually prints Bradley 507, Brightbill 509 and Harding 511 Main; OCR's 607 Bradley reading is rejected. Page 7 repeats the Electric Store move to Andresen Building 619 Main with stale 617 footer. Page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. No exact 503/505 premises assignment is printed.
 
 
 ## S-319 — Oregon City Courier, 20 July 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **20 July 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-20/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-20/1916-07-20-page-1.pdf` through `1916-07-20-page-8.pdf`; fetch manifest in the same directory.  
-Preservation commit: `426cf7ab2348eb47c0bb80c585b17667b71f4080`.  
-Related evidence: `E-292`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **20 July 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-20/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-20/1916-07-20-page-1.pdf` through `1916-07-20-page-8.pdf`; fetch manifest in the same directory.
+Preservation commit: `426cf7ab2348eb47c0bb80c585b17667b71f4080`.
+Related evidence: `E-292`.
 Notes: Page 3 prints Bradley 507, Brightbill 509 and Harding 511 Main. Page 7 repeats Electric Store at Andresen Building 619 Main with stale 617 footer. Page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. A page-8 text-layer `505` occurrence is 505 Division Street, not 505 Main. No exact 503/505 Main premises assignment is printed.
 
 
 ## S-320 — Oregon City Courier, 27 July 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **27 July 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-27/`.  
-Related evidence: `E-293`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **27 July 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-07-27/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-july/1916-07-27/`.
+Related evidence: `E-293`.
 Notes: Directly reconfirms 502/507/509/511 Main controls, unnumbered Raasch & Lamb, and Electric Store 619 Main. No exact 503/505 premises assignment.
 
 
 ## S-321 — Oregon City Courier, 10 August 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **10 August 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-10/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-10/`.  
-Related evidence: `E-294`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **10 August 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-10/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-10/`.
+Related evidence: `E-294`.
 Notes: Page 7 prints Electric Store / Light and Power offices at 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. No exact 503/505 premises assignment.
 
 ## S-322 — CCHS 2008.008.049.037, 1960 Fifth/Main bluff photograph
@@ -2777,437 +2777,437 @@ Notes: Project-steward prompted enlarged re-review identifies the vertical sign 
 
 
 ## S-323 — Oregon City Courier, 17 August 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Courier*, **17 August 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-17/ed-1/  
-Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-17/`.  
-Preservation commit: `772ad002d066acee3b5e747e8037a4d6dbac318b`.  
-Related evidence: `E-296`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Courier*, **17 August 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063698/1916-08-17/ed-1/
+Repository originals: `newspapers/oregon-city-courier/1916-august/1916-08-17/`.
+Preservation commit: `772ad002d066acee3b5e747e8037a4d6dbac318b`.
+Related evidence: `E-296`.
 Notes: Complete 8/8 visual review. Page 2 repeats Holman at Fifth/Main; page 7 prints Electric Store at Andresen Building 619 Main; page 8 prints Champion Smith & Telford at 502 Main and Raasch & Lamb unnumbered. A page-3 `505.00` is a Ford price, not 505 Main. No exact 503/505 premises assignment.
 
 
 ## S-324 — Oregon City Enterprise, 25 February 1916, complete issue visual review
 <!-- 1916 Enterprise Feb 25 visual review — 2026-09-11 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **25 February 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-02-25/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-02-25/1916-02-25-page-1.pdf` through `1916-02-25-page-10.pdf`; fetch manifest in the same directory.  
-Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.  
-Source capture: `evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md`.  
-Related evidence: `E-297`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **25 February 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-02-25/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-02-25/1916-02-25-page-1.pdf` through `1916-02-25-page-10.pdf`; fetch manifest in the same directory.
+Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.
+Source capture: `evidence/source-captures/1916-enterprise-february25-visual-review-2026-09-11.md`.
+Related evidence: `E-297`.
 Notes: All ten original page PDFs were visually inspected. No page establishes a source-explicit 501/503/505/505 1/2/507 Main occupant, proprietor, business owner, property owner, tenant, licensee, trade-name change, sale, transfer, construction, demolition, closure, vacancy, or other target-premises transition. Page 8 directly identifies George A. Harding as department commander of the G.A.R. "of this city" and reports his attendance at a Portland council-of-administration meeting; this is person-level civic-role context only and does not establish any target-premises relationship. This is bounded coverage only, not absence evidence.
 
 ## S-325 — Oregon City Enterprise, 3 March 1916, complete issue visual review
 <!-- 1916 Enterprise Mar 3 visual review — 2026-09-11 -->
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **3 March 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-03/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-03/1916-03-03-page-1.pdf` through `1916-03-03-page-10.pdf`; fetch manifest in the same directory.  
-Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.  
-Source capture: `evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md`.  
-Related evidence: `E-298`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **3 March 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-03/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-03/1916-03-03-page-1.pdf` through `1916-03-03-page-10.pdf`; fetch manifest in the same directory.
+Preservation commit: `d25e9af3230e836cd5f022e262fd0c6bc0564704`.
+Source capture: `evidence/source-captures/1916-enterprise-march03-visual-review-2026-09-11.md`.
+Related evidence: `E-298`.
 Notes: All ten original page PDFs were visually inspected. Prohibition/liquor reporting, general real-estate transfers, delinquent-tax lists, and ordinary legal/business material are present, but no inspected item supplies a defensible bridge to a 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only; no vacancy or absence inference.
 
 ## S-326 — Oregon City Enterprise, 10 March 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **10 March 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-10/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-10/`; fetch manifest in the same directory.  
-Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.  
-Source capture: `evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md`.  
-Related evidence: `E-299`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 10/10 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **10 March 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-10/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-10/`; fetch manifest in the same directory.
+Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.
+Source capture: `evidence/source-captures/1916-enterprise-march10-visual-review-2026-09-11.md`.
+Related evidence: `E-299`.
 Notes: All ten original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence.
 
 ## S-327 — Oregon City Enterprise, 17 March 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **17 March 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-17/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-17/`; fetch manifest in the same directory.  
-Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.  
-Source capture: `evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md`.  
-Related evidence: `E-300`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **17 March 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-17/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-17/`; fetch manifest in the same directory.
+Preservation commit: `fd01de61c17a04c6810f8927527b80658a169a42`.
+Source capture: `evidence/source-captures/1916-enterprise-march17-visual-review-2026-09-11.md`.
+Related evidence: `E-300`.
 Notes: All eight original pages visually inspected. Page 8 includes an I. Tolpolar county-expense listing and ordinary county/real-estate material, but no defensible target-premises bridge. Bounded coverage only, not absence evidence.
 
 ## S-328 — Oregon City Enterprise, 24 March 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **24 March 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-24/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-24/`; fetch manifest in the same directory.  
-Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.  
-Source capture: `evidence/source-captures/1916-enterprise-march24-visual-review-2026-09-11.md`.  
-Related evidence: `E-301`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **24 March 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-24/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-24/`; fetch manifest in the same directory.
+Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.
+Source capture: `evidence/source-captures/1916-enterprise-march24-visual-review-2026-09-11.md`.
+Related evidence: `E-301`.
 Notes: All eight original pages visually inspected. Page 1 directly reports the federal $55,000 one-story/4,800-square-foot Oregon City post-office proposal plus $10,000 for a site, without printing a site/address or proving construction or relocation. No target-premises event.
 
 ## S-329 — Oregon City Enterprise, 31 March 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **31 March 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-31/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-31/`; fetch manifest in the same directory.  
-Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.  
-Source capture: `evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md`.  
-Related evidence: `E-302`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **31 March 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-03-31/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-03-31/`; fetch manifest in the same directory.
+Preservation commit: `7ab8c306d68a7715c18858ed6129c15f48765b6d`.
+Source capture: `evidence/source-captures/1916-enterprise-march31-visual-review-2026-09-11.md`.
+Related evidence: `E-302`.
 Notes: All eight original pages visually inspected; no source-explicit 501/503/505/505 1/2/507 Main target-premises event. Bounded coverage only, not absence evidence.
 
 ## S-330 — Oregon City Enterprise, 7 April 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **7 April 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-07/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-07/`.  
-Source capture: `evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md`.  
-Related evidence: `E-303`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **7 April 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-07/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-07/`.
+Source capture: `evidence/source-captures/1916-enterprise-april07-visual-review-2026-09-11.md`.
+Related evidence: `E-303`.
 Notes: All eight original pages visually inspected. Page 7 directly reports J. J. Cooke's first-quarter 1916 Oregon City post-office receipts of $5,095.95 versus $4,715.95 in the same 1915 period, but gives no post-office address/site. No source-explicit target-premises event; page-8 real-estate/Harding-name material lacks a defensible target bridge.
 
 ## S-331 — Oregon City Enterprise, 14 April 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **14 April 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-14/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-14/`.  
-Source capture: `evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md`.  
-Related evidence: `E-304`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **14 April 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-04-14/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-14/`.
+Source capture: `evidence/source-captures/1916-enterprise-april14-visual-review-2026-09-11.md`.
+Related evidence: `E-304`.
 Notes: All eight original pages visually inspected; no source-explicit target-premises event. General saloon/prohibition, Main Street, legal and business material lacks a target-address or parcel bridge.
 
 ## S-332 — Oregon City Enterprise, 21 April 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **21 April 1916**, edition 1.  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-21/`.  
-Source capture: `evidence/source-captures/1916-enterprise-april21-visual-review-2026-09-11.md`.  
-Related evidence: `E-305`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **21 April 1916**, edition 1.
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-21/`.
+Source capture: `evidence/source-captures/1916-enterprise-april21-visual-review-2026-09-11.md`.
+Related evidence: `E-305`.
 Notes: Page 2's “POSTOFFICE SITE IS ISSUE” item is explicitly an Estacada story, not Oregon City. No source-explicit target-premises event.
 
 ## S-333 — Oregon City Enterprise, 28 April 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.  
-Publication/date: *Oregon City Enterprise*, **28 April 1916**, edition 1.  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-28/`.  
-Source capture: `evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md`.  
-Related evidence: `E-306`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 11 September 2026.
+Publication/date: *Oregon City Enterprise*, **28 April 1916**, edition 1.
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-04-28/`.
+Source capture: `evidence/source-captures/1916-enterprise-april28-visual-review-2026-09-11.md`.
+Related evidence: `E-306`.
 Notes: Page 1's Parkplace site/lease story concerns Oregon Portland Railway, Light & Power Company, not the target frontage. No source-explicit target-premises event.
 
 ## S-334 — Oregon City Enterprise, 5 May 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **5 May 1916**, edition 1.  
-Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-05/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-05/`.  
-Source capture: `evidence/source-captures/1916-enterprise-may05-visual-review-2026-09-12.md`.  
-Related evidence: `E-307`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **5 May 1916**, edition 1.
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-05/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-05/`.
+Source capture: `evidence/source-captures/1916-enterprise-may05-visual-review-2026-09-12.md`.
+Related evidence: `E-307`.
 Notes: Page 4 reports a Treasury combined building-and-site estimate of $70,000 for Oregon City and a $15,000 site estimate; the implied $55,000 building component is arithmetic, not separately printed wording. No site/address/acquisition/construction/move or target-frontage bridge is stated. No source-explicit target-premises event.
 
 ## S-335 — Oregon City Enterprise, 12 May 1916, archive-sequence visual review with page-8 anomaly
-Type: Primary newspaper page scans; **ALL 8 DELIVERED ARCHIVE SCANS VISUALLY INSPECTED; 7 GENUINE WEEKLY PAGES CERTIFIED; SEQUENCE 8 WRONG-TITLE** on 12 September 2026.  
-Publication/date: intended *Oregon City Enterprise*, **12 May 1916**, edition 1.  
-Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-12/`.  
-Source capture: `evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md`.  
-Related evidence: `E-308`.  
+Type: Primary newspaper page scans; **ALL 8 DELIVERED ARCHIVE SCANS VISUALLY INSPECTED; 7 GENUINE WEEKLY PAGES CERTIFIED; SEQUENCE 8 WRONG-TITLE** on 12 September 2026.
+Publication/date: intended *Oregon City Enterprise*, **12 May 1916**, edition 1.
+Canonical URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-12/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-12/`.
+Source capture: `evidence/source-captures/1916-enterprise-may12-visual-review-2026-09-12.md`.
+Related evidence: `E-308`.
 Notes: Sequences 1–7 visibly identify as Oregon City Enterprise. Sequence 8 visibly reads “MORNING ENTERPRISE, FRIDAY, MAY 12, 1916” and is not counted as a genuine weekly page. True weekly page 8 remains a RETRIEVAL GAP. No source-explicit target-premises event.
 
 ## S-336 — Oregon City Enterprise, 19 May 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **19 May 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-19/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-19/`.  
-Source capture: `evidence/source-captures/1916-enterprise-may19-visual-review-2026-09-12.md`.  
-Related evidence: `E-309`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **19 May 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-19/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-19/`.
+Source capture: `evidence/source-captures/1916-enterprise-may19-visual-review-2026-09-12.md`.
+Related evidence: `E-309`.
 Notes: All eight original page scans were visually inspected. No page prints a source-explicit target-premises occupant, owner, tenant, licensee, business-name, sale, transfer, construction, demolition, closure or vacancy event for 501/503/505/505½/507 Main. General Main Street and unrelated Harding/Young material is non-target context only. No-hit is bounded coverage, not vacancy evidence.
 
 ## S-337 — Oregon City Enterprise, 26 May 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **26 May 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-26/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-26/`.  
-Source capture: `evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md`.  
-Related evidence: `E-310`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **26 May 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-05-26/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-05-26/`.
+Source capture: `evidence/source-captures/1916-enterprise-may26-visual-review-2026-09-12.md`.
+Related evidence: `E-310`.
 Notes: All eight original page scans were visually inspected. Page 8 is a Jones Drug Company forced-out-of-location sale ad stating an imminent move because the landlord wanted more room for his own business; it identifies the old location only as next to Burmeister & Andresen's and prints no street number, so it is not mapped to the target frontage. No source-explicit target-premises event appears. No-hit is bounded coverage, not vacancy evidence.
 
 ## S-338 — Oregon City Enterprise, 2 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **2 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-02/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-02/`.  
-Source capture: `evidence/source-captures/1916-enterprise-june02-visual-review-2026-09-12.md`.  
-Related evidence: `E-311`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **2 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-02/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-02/`.
+Source capture: `evidence/source-captures/1916-enterprise-june02-visual-review-2026-09-12.md`.
+Related evidence: `E-311`.
 Notes: All eight original page scans were visually inspected. Page 1 says seven firms will move so Burmeister & Andresen, jewelers, can expand, but prints no target street number for that relocation chain. No page establishes a source-explicit 501/503/505/505½/507 Main premises event. No-hit is bounded coverage, not vacancy evidence.
 
 ## S-339 — Oregon City Enterprise, 9 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **9 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-09/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-09/`.  
-Source capture: `evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md`.  
-Related evidence: `E-312`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **9 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-09/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-09/`.
+Source capture: `evidence/source-captures/1916-enterprise-june09-visual-review-2026-09-12.md`.
+Related evidence: `E-312`.
 Notes: All eight original page scans were visually inspected. Legal, real-estate-transfer, Main Street and Harding material supplies no exact target-premises bridge, and no page maps the late-May/2 June Jones Drug/Burmeister & Andresen relocation chain to 501/503/505/505½/507 Main. No-hit is bounded coverage, not vacancy evidence.
 
 ## S-340 — Oregon City Enterprise, 16 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **16 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-16/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-16/`.  
-Source capture: `evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md`.  
-Related evidence: `E-313`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **16 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-16/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-16/`.
+Source capture: `evidence/source-captures/1916-enterprise-june16-visual-review-2026-09-12.md`.
+Related evidence: `E-313`.
 Notes: All eight original page scans were visually inspected. Page 5 directly describes a $30,500 Main Street realty deal on the east side between Seventh and Eighth and says one small corner belonged to George A. Harding; this is non-target Harding property context only. No page establishes a source-explicit 501/503/505/505½/507 Main premises event. No-hit is bounded coverage, not vacancy evidence.
 
 ## S-341 — Oregon City Enterprise, 23 June 1916, complete issue visual review
-Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.  
-Publication/date: *Oregon City Enterprise*, **23 June 1916**, edition 1.  
-Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-23/ed-1/  
-Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-23/`.  
-Source capture: `evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md`.  
-Related evidence: `E-314`.  
+Type: Primary newspaper page scans; **VISUALLY VERIFIED 8/8 PAGES** on 12 September 2026.
+Publication/date: *Oregon City Enterprise*, **23 June 1916**, edition 1.
+Canonical issue: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-23/ed-1/
+Repository originals: `newspapers/oregon-city-enterprise/1916/1916-06-23/`.
+Source capture: `evidence/source-captures/1916-enterprise-june23-visual-review-2026-09-12.md`.
+Related evidence: `E-314`.
 Notes: All eight original page scans were visually inspected. Page 1 describes Hawley paper-mill expansion and an option on the southern half of the block bounded by Main, the Southern Pacific tracks, Fourth and Fifth, owned by James Tracy; this is nearby non-target parcel context only. No page establishes a source-explicit target-premises event.
 
 
 ## S-342 — Oregon City Enterprise, 30 June 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 30 June 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-30/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-june30-visual-review-2026-09-12.md`  
-Related evidence: `E-315`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 30 June 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-06-30/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-june30-visual-review-2026-09-12.md`
+Related evidence: `E-315`.
 Notes: Page 2 prints DeNike & Martin at Water/Fifth; page 8 calls H. P. Brightbill a Main Street grocer without a street number. No source-explicit target-premises event.
 
 ## S-343 — Oregon City Enterprise, 7 July 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 7 July 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-07/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md`  
-Related evidence: `E-316`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 7 July 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-07/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-july07-visual-review-2026-09-12.md`
+Related evidence: `E-316`.
 Notes: Exact non-target controls include Water/Fifth, Tenth/Main and Seventh/Main; Hotel Belle/Willamette relationship chain is not assigned to a target address. No source-explicit target-premises event.
 
 
 ## S-344 — Oregon City Enterprise, 14 July 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 14 July 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-14/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md`  
-Related evidence: `E-317`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 14 July 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-14/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-july14-visual-review-2026-09-12.md`
+Related evidence: `E-317`.
 Notes: Page 4 gives same-block Main-between-Fifth-and-Sixth store-building improvement context without an exact number; Larsen & Co. is explicitly at Tenth/Main. No source-explicit target-premises event.
 
 ## S-345 — Oregon City Enterprise, 21 July 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 21 July 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-21/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md`  
-Related evidence: `E-318`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 21 July 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-21/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-july21-visual-review-2026-09-12.md`
+Related evidence: `E-318`.
 Notes: Page 1 reports the $75,000 federal-building appropriation proposal and several tentative Oregon City sites but identifies none. Page 5 identifies Minnie L. Foster as owner of the recently rebuilt Portland House at Main/Fifth and Frank and Mark Beck as three-year leaseholders from 1 June 1916; no numbered target-address bridge is printed.
 
 ## S-346 — Oregon City Enterprise, 28 July 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 28 July 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-28/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-july28-visual-review-2026-09-12.md`  
-Related evidence: `E-319`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 28 July 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-07-28/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-july28-visual-review-2026-09-12.md`
+Related evidence: `E-319`.
 Notes: Exact Tenth/Main collision and Larsen & Co. controls; no source-explicit target-premises event.
 
 ## S-347 — Oregon City Enterprise, 4 August 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 4 August 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-04/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md`  
-Related evidence: `E-320`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 4 August 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-04/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-august04-visual-review-2026-09-12.md`
+Related evidence: `E-320`.
 Notes: Page 8 projects Hawley construction along Main to the alley between Fourth and Fifth, explicitly south of the Fifth–Sixth target block; no source-explicit target-premises event.
 
 
 ## S-348 — Oregon City Enterprise, 11 August 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 11 August 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-11/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-august11-visual-review-2026-09-12.md`  
-Related evidence: `E-321`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 11 August 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-11/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-august11-visual-review-2026-09-12.md`
+Related evidence: `E-321`.
 Notes: Larsen & Co. is explicitly at Tenth/Main; no source-explicit event for 501/503/505/505½/507 Main.
 
 ## S-349 — Oregon City Enterprise, 18 August 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 18 August 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-18/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md`  
-Related evidence: `E-322`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 18 August 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-18/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-august18-visual-review-2026-09-12.md`
+Related evidence: `E-322`.
 Notes: Larsen & Company is explicitly at Tenth/Main; page 7 prints 501 Division Street, an exact non-target control for bare-number 501 search hits. No target-premises event.
 
 
 ## S-350 — Oregon City Enterprise, 25 August 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 25 August 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-25/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-august25-visual-review-2026-09-12.md`  
-Related evidence: `E-323`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 25 August 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-08-25/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-august25-visual-review-2026-09-12.md`
+Related evidence: `E-323`.
 Notes: Page 5 places Larsen & Company at Tenth/Main; page 8 real-estate-transfer coverage was visually reviewed. No source-explicit target-premises event.
 
 ## S-351 — Oregon City Enterprise, 1 September 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 1 September 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md`  
-Related evidence: `E-324`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 1 September 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-01/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-september01-visual-review-2026-09-12.md`
+Related evidence: `E-324`.
 Notes: Page 5 places Larsen & Company at Tenth/Main; page 7 places W. S. Eddy at Fashion Stable between Fourth and Fifth on Main, explicitly south of the target block; page 8 transfer coverage was visually reviewed. No target-premises event.
 
 
 ## S-352 — Oregon City Enterprise, 8 September 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 8 September 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-08/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-september08-visual-review-2026-09-12.md`  
-Related evidence: `E-325`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 8 September 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-08/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-september08-visual-review-2026-09-12.md`
+Related evidence: `E-325`.
 Notes: Page 4 transfer coverage was visually reviewed; page 5 places Larsen & Company at Tenth/Main; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
 
 ## S-353 — Oregon City Enterprise, 15 September 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 15 September 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-15/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-september15-visual-review-2026-09-12.md`  
-Related evidence: `E-326`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 15 September 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-15/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-september15-visual-review-2026-09-12.md`
+Related evidence: `E-326`.
 Notes: Page 1 places a riverfront improvement at Twelfth; page 5 repeats Larsen & Company at Tenth/Main; page 7 transfer coverage was visually reviewed and repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
 
 
 ## S-354 — Oregon City Enterprise, 22 September 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 22 September 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-22/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-september22-visual-review-2026-09-12.md`  
-Related evidence: `E-327`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 22 September 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-22/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-september22-visual-review-2026-09-12.md`
+Related evidence: `E-327`.
 Notes: Page 3 places Larsen & Company at Tenth/Main; page 5 places Morgan's on Seventh Street near the elevator; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main and includes visually reviewed transfer coverage. No source-explicit target-premises event.
 
 ## S-355 — Oregon City Enterprise, 29 September 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 29 September 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-29/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-september29-visual-review-2026-09-12.md`  
-Related evidence: `E-328`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 29 September 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-09-29/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-september29-visual-review-2026-09-12.md`
+Related evidence: `E-328`.
 Notes: Page 5 repeats Larsen & Company at Tenth/Main; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
 
 
 ## S-356 — Oregon City Enterprise, 6 October 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 6 October 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-06/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-october06-visual-review-2026-09-12.md`  
-Related evidence: `E-329`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 6 October 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-06/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-october06-visual-review-2026-09-12.md`
+Related evidence: `E-329`.
 Notes: Page 4 transfer coverage was visually reviewed; page 5 places Larsen & Company at Tenth/Main and carries Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main. No source-explicit target-premises event.
 
 ## S-357 — Oregon City Enterprise, 13 October 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 13 October 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-13/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-october13-visual-review-2026-09-12.md`  
-Related evidence: `E-330`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 13 October 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-13/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-october13-visual-review-2026-09-12.md`
+Related evidence: `E-330`.
 Notes: Page 5 repeats Larsen & Company at Tenth/Main and Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main; page 8 transfer coverage was visually reviewed. No source-explicit target-premises event.
 
 
 ## S-358 — Oregon City Enterprise, 20 October 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 20 October 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-20/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-october20-visual-review-2026-09-13.md`  
-Related evidence: `E-331`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 20 October 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-20/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-october20-visual-review-2026-09-13.md`
+Related evidence: `E-331`.
 Notes: Page 5 repeats Larsen & Company at Tenth/Main and Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main; page 8 real-estate-transfer coverage was visually reviewed. No source-explicit target-premises event.
 
 ## S-359 — Oregon City Enterprise, 27 October 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 27 October 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-27/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-october27-visual-review-2026-09-13.md`  
-Related evidence: `E-332`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 27 October 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-10-27/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-october27-visual-review-2026-09-13.md`
+Related evidence: `E-332`.
 Notes: Page 5 repeats Larsen & Company at Tenth/Main and Morgan's advertising; page 7 repeats W. S. Eddy at Fashion Stable between Fourth and Fifth on Main; page 8 real-estate-transfer coverage was visually reviewed. No source-explicit target-premises event.
 
 
 ## S-360 — Oregon City Enterprise, 3 November 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 3 November 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-03/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-november03-visual-review-2026-09-13.md`  
-Related evidence: `E-333`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 3 November 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-03/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-november03-visual-review-2026-09-13.md`
+Related evidence: `E-333`.
 Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
 
 ## S-361 — Oregon City Enterprise, 10 November 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 10 November 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-10/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-november10-visual-review-2026-09-13.md`  
-Related evidence: `E-334`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 10 November 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-10/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-november10-visual-review-2026-09-13.md`
+Related evidence: `E-334`.
 Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
 
 ## S-362 — Oregon City Enterprise, 17 November 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 17 November 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-17/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md`  
-Related evidence: `E-335`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 17 November 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-17/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-november17-visual-review-2026-09-13.md`
+Related evidence: `E-335`.
 Notes: Complete issue visually reviewed; recurring non-target Main Street controls and transfer material checked; no source-explicit target-premises event.
 
 
 ## S-363 — Oregon City Enterprise, 24 November 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 24 November 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-24/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-november24-visual-review-2026-09-13.md`  
-Related evidence: `E-336`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 24 November 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-11-24/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-november24-visual-review-2026-09-13.md`
+Related evidence: `E-336`.
 Notes: Page 2 contains real-estate-transfer coverage; page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
 
 
 ## S-364 — Oregon City Enterprise, 1 December 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 1 December 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-01/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-december01-visual-review-2026-09-13.md`  
-Related evidence: `E-337`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 1 December 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-01/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-december01-visual-review-2026-09-13.md`
+Related evidence: `E-337`.
 Notes: Page 3 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. Page 3 required a clean re-render after the first local PNG was unreadable. No source-explicit target-premises event.
 
 
 ## S-365 — Oregon City Enterprise, 8 December 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 8 December 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-08/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md`  
-Related evidence: `E-338`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 8 December 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-08/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-december08-visual-review-2026-09-13.md`
+Related evidence: `E-338`.
 Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 contains real-estate-transfer coverage and repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
 
 
 ## S-366 — Oregon City Enterprise, 15 December 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 15 December 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-15/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-december15-visual-review-2026-09-13.md`  
-Related evidence: `E-339`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 15 December 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-15/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-december15-visual-review-2026-09-13.md`
+Related evidence: `E-339`.
 Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 contains real-estate-transfer coverage. No source-explicit target-premises event.
 
 
 ## S-367 — Oregon City Enterprise, 22 December 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 22 December 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-22/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-december22-visual-review-2026-09-13.md`  
-Related evidence: `E-340`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 22 December 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-22/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-december22-visual-review-2026-09-13.md`
+Related evidence: `E-340`.
 Notes: Page 5 places Larsen & Company at Corner 10th and Main Sts. and Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street; page 8 continues court/legal listings. Page 1 required a clean re-render after the first local PNG was corrupted. No source-explicit target-premises event.
 
 
 ## S-368 — Oregon City Enterprise, 29 December 1916, complete issue visual review
-Type: Primary newspaper page scans; visually verified **8/8 pages**  
-Date: 29 December 1916  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-29/ed-1/  
-Repository capture: `evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md`  
-Related evidence: `E-341`.  
+Type: Primary newspaper page scans; visually verified **8/8 pages**
+Date: 29 December 1916
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1916-12-29/ed-1/
+Repository capture: `evidence/source-captures/1916-enterprise-december29-visual-review-2026-09-13.md`
+Related evidence: `E-341`.
 Notes: Page 1 reports Julius Wilbur as proprietor of the Friars’ Club at Milwaukie, explicitly a non-target locality; page 2 places Larsen & Company at Corner 10th and Main Sts.; page 5 places Morgan’s on Seventh Street; page 7 repeats W. S. Eddy at Fashion Stable, between Fourth and Fifth on Main Street. No source-explicit target-premises event.
 
 
 ## S-369 — 1916 online source-class closeout
-Type: Research-standard annual closeout / online source-class audit  
-Date: 13 September 2026  
-URL: https://github.com/rodyoung1967/main-street-archives/blob/main/evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md  
-Repository capture: `evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md`  
-Related evidence: `E-342`.  
+Type: Research-standard annual closeout / online source-class audit
+Date: 13 September 2026
+URL: https://github.com/rodyoung1967/main-street-archives/blob/main/evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md
+Repository capture: `evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md`
+Related evidence: `E-342`.
 Notes: Certifies 1916 as ONLINE COMPLETE under RESEARCH-STANDARD.md after newspaper, directory, map, municipal, property, historic-resource, photograph, and official-database reconciliation. Remaining physical/restricted/non-rendering work is preserved as MF-061 through MF-067.
 
 ## S-370 — Oregon City Enterprise, January–February 1922 complete page-scan review
-Type: Primary newspaper page scans; visually verified **64/64 pages in 8/8 issues**  
-Date: 6 January–24 February 1922  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/  
-Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`  
-Related evidence: `E-343`, `E-345`, `E-346`.  
+Type: Primary newspaper page scans; visually verified **64/64 pages in 8/8 issues**
+Date: 6 January–24 February 1922
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/
+Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`
+Related evidence: `E-343`, `E-345`, `E-346`.
 Notes: Every exposed January–February page inspected; no retrieval gaps. Relevant anchors include Dr. Freeze at 505½ and the pool-room ordinance sequence.
 
 ## S-371 — The Banner-Courier, January–February 1922 complete page-scan review
-Type: Primary newspaper page scans; visually verified **78/78 pages in 8/8 issues**  
-Date: 5 January–23 February 1922  
-URL: https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/  
-Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`  
-Related evidence: `E-344`, `E-345`, `E-346`, `E-347`.  
+Type: Primary newspaper page scans; visually verified **78/78 pages in 8/8 issues**
+Date: 5 January–23 February 1922
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/
+Repository capture: `evidence/source-captures/1922-january-february-newspaper-visual-review-2026-09-13.md`
+Related evidence: `E-344`, `E-345`, `E-346`, `E-347`.
 Notes: Every exposed January–February page inspected; no retrieval gaps. The 19 January front-page masthead misprints 1921; the ODNP date and surrounding weekly sequence place the issue in 1922.
 
 ## S-372 — City of Oregon City, Report of Municipal Activities for 1928
@@ -3354,17 +3354,17 @@ Related evidence: `E-351`.
 Notes: Public image is an **interior bakery view**, not a usable Main/Fourth/Fifth/Sixth streetscape. Independent 24 Oct. 1918 Oregon City Courier business-directory evidence places Peerless Bakery (E. Young, proprietor) at **903 7th**, so it is outside the target 4th–6th area and does not provide target-frontage evidence.
 
 ## S-387 — Oregon City Courier, 9 February 1912, page 5 — Cox & Ward dissolution
-Type: Primary newspaper page; original University of Oregon Historic Oregon Newspapers scan **VISUALLY VERIFIED 19 September 2026**.  
-Publication/date/page: *Oregon City Courier*, 9 February 1912, p.5 / archive sequence 5.  
-Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5/  
-Canonical scan PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5.pdf  
-Repository capture: `evidence/source-captures/1912-courier-february09-visual-review-2026-09-19.md`.  
-Related evidence/business/lead: `E-353`; `BUS-108`; `RL-053`.  
+Type: Primary newspaper page; original University of Oregon Historic Oregon Newspapers scan **VISUALLY VERIFIED 19 September 2026**.
+Publication/date/page: *Oregon City Courier*, 9 February 1912, p.5 / archive sequence 5.
+Canonical page: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5/
+Canonical scan PDF: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-09/ed-1/seq-5.pdf
+Repository capture: `evidence/source-captures/1912-courier-february09-visual-review-2026-09-19.md`.
+Related evidence/business/lead: `E-353`; `BUS-108`; `RL-053`.
 Notes: The scan visibly reports Cox & Ward as Main Street tobacco dealers and billiard-room proprietors, the dissolution of their partnership, and Mr. Ward's sale to his partner. Exact street number and given names are not printed. No repository page binary was added in this connector-only pass; the stable institutional original was inspected directly.
 
 ## S-388 — Oregon City Courier, 1 and 8 March 1912 — Steiner/Beaver Creek correction and complete issue review
-Type: Primary newspaper pages; original University of Oregon Historic Oregon Newspapers scans **VISUALLY VERIFIED 19 September 2026**.  
-Dates/issues: *Oregon City Courier*, **1 March 1912** and **8 March 1912**, all 8 archive sequences in each issue.  
+Type: Primary newspaper pages; original University of Oregon Historic Oregon Newspapers scans **VISUALLY VERIFIED 19 September 2026**.
+Dates/issues: *Oregon City Courier*, **1 March 1912** and **8 March 1912**, all 8 archive sequences in each issue.
 Canonical issues:
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-01/ed-1/
 - https://oregonnews.uoregon.edu/lccn/sn00063698/1912-03-08/ed-1/
@@ -3373,8 +3373,8 @@ Identity-control comparison pages also visually inspected:
 - 26 February 1914, p.7: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-02-26/ed-1/seq-7/
 - 5 March 1914, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1914-03-05/ed-1/seq-5/
 
-Repository capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`.  
-Related evidence: `E-354`.  
+Repository capture: `evidence/source-captures/1912-courier-march01-march08-visual-review-2026-09-19.md`.
+Related evidence: `E-354`.
 Notes: 1 March prints “F. Steiner, of this place” under a column headed Clear Creek and then calls him Fred. The 8 March issue explicitly corrects the prior week's heading error, stating the Beaver Creek items had been printed under Clear Creek; its corrected Beaver Creek column directly names Fred Steiner. The 1914 pages independently place Fred Steiner as a Beaver Creek resident. This is identity/location control only; it does not prove or disprove identity with the probable Fred Steiner tenant transcription at 503½ Main.
 ## S-389 — Oregon City Shoe Store / Justin S. Lageson / 508 Main primary advertisements
 Type: Primary newspaper advertisements; original Historic Oregon Newspapers scans **VISUALLY VERIFIED 19 September 2026**.
@@ -3384,28 +3384,28 @@ Primary pages:
 - *Oregon City Enterprise*, 1 Apr. 1910, p.5: https://oregonnews.uoregon.edu/lccn/sn00063700/1910-04-01/ed-1/seq-5/
 - *Oregon City Courier*, 26 Apr. 1912, p.8: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-04-26/ed-1/seq-8/
 
-Related: `E-355`; `BUS-109`; `P-403`.  
+Related: `E-355`; `BUS-109`; `P-403`.
 Capture: `evidence/source-captures/1910-1912-oregon-city-shoe-store-lageson-508-main-separation-2026-09-19.md`.
 
 Notes: Jan. 1910 visually prints Oregon City Shoe Store, Justin S. Lageson, and Opposite Postoffice. Apr. 1910 directly prints Justin S. Lageson, Prop. / Main Street. Apr. 1912 visually prints Oregon City Shoe Store / 508 Main St. / Opposite Postoffice. The 1912 ad does not name Lageson, so proprietor continuity is not assumed.
 ## S-390 — Morning Oregonian, 10 September 1920, p.20 — K. Schoenheinz shoemaker wanted
-Type: Primary newspaper classified advertisement; original University of Oregon scan **VISUALLY VERIFIED 19 September 2026**.  
-Primary page: https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/  
-Related evidence: `E-356`.  
+Type: Primary newspaper classified advertisement; original University of Oregon scan **VISUALLY VERIFIED 19 September 2026**.
+Primary page: https://oregonnews.uoregon.edu/lccn/sn83025138/1920-09-10/ed-1/seq-20/
+Related evidence: `E-356`.
 Related capture: `evidence/source-captures/2026-09-19-charles-schoenheinz-503-main-tenant-hypothesis.md`.
 
 Notes: The Help Wanted—Male classifieds directly print **SHOEMAKER wanted. Oregon City. K. Schoenheinz.** Preserve the initial exactly as printed. The source gives no street address, full given name, shop trade name, or relation to 503 Main.
 
 ## S-391 — 1912 Main/Eighth moving-picture block → Star Theatre opening chain
-Type: Primary newspaper construction/opening evidence + university research-project clipping control; **VISUALLY VERIFIED where noted**.  
+Type: Primary newspaper construction/opening evidence + university research-project clipping control; **VISUALLY VERIFIED where noted**.
 
 Primary components:
 - *Oregon City Courier*, **2 February 1912**, p.1: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-02-02/ed-1/seq-1/ — direct Main/Eighth Mt. Hood Brewing Co. lease/redevelopment article; planned moving-picture theatre; George Simmons already held long-term theatre lease.
 - *Oregon City Courier*, **24 May 1912**, p.5: https://oregonnews.uoregon.edu/lccn/sn00063698/1912-05-24/ed-1/seq-5/ — original scan visually verified; unnamed new motion-picture theatre on Main Street nearly ready to open.
 - *Morning Enterprise*, **31 May 1912**, p.3, “STAR THEATRE WILL OPEN TOMORROW” — primary clipping visually reviewed via the University of Oregon Oregon Theater Project: https://oregontheaterproject.uoregon.edu/theaters/star-theater-4 ; clipping image hosted there. The clipping directly names George Simmons, says the building was on Main Street near Eighth, constructed especially for motion pictures, seating 300, and would open the next evening.
 
-Repository capture: `evidence/source-captures/1912-courier-may24-visual-review-star-theatre-2026-09-19.md`.  
-Related evidence/business: `E-357`; `BUS-110`.  
+Repository capture: `evidence/source-captures/1912-courier-may24-visual-review-star-theatre-2026-09-19.md`.
+Related evidence/business: `E-357`; `BUS-110`.
 Notes: The May 24 unnamed-theatre notice is a **strong cross-source continuity match** to the February Main/Eighth planned theatre and the May 31 Star opening, but the May 24 item itself does not print the Star name or Simmons. Later numbered-address sources conflict (716 vs 720 Main); the controlling 1912 location is Main at/near Eighth.
 
 
@@ -3523,3 +3523,87 @@ URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-11-30/ed-1/seq-1/
 Repository file: `newspapers/banner-courier/1922-11/1922-11-30-seq-01.pdf`.
 Related evidence/business: E-362; BUS-113.
 Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`. Newspaper reports grant, not merely application; address unresolved.
+
+
+## S-398 — Block 4 alley assessment notice
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: banner-courier, 1922-12-07, sequence 2.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-2/
+Repository file: `newspapers/banner-courier/1922-12/1922-12-07-seq-02.pdf`.
+Related evidence: E-360. Assessment apportionment filed; objections/hearing December 15 at 7:30 p.m.; not private Gates completion.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-399 — Red Front cash-raising sale advertisement
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: banner-courier, 1922-12-07, sequence 5.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-5/
+Repository file: `newspapers/banner-courier/1922-12/1922-12-07-seq-05.pdf`.
+Related evidence: E-363.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-400 — Quality Restaurant December fire and Newton/Logus location
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: oregon-city-enterprise, 1922-12-22, sequence 5.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-5/
+Repository file: `newspapers/oregon-city-enterprise/1922-12/1922-12-22-seq-05.pdf`.
+Related evidence: E-364.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-401 — Gambrinus property sale to Ben Levin
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: banner-courier, 1922-12-21, sequence 1.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-21/ed-1/seq-1/
+Repository file: `newspapers/banner-courier/1922-12/1922-12-21-seq-01.pdf`.
+Related evidence: E-365. Lot 8 Block 26 southeast Sixth/Main; $39,000 inferred by newspaper from revenue stamps; deed not inspected.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-402 — Electric Annex business transfer and Gambrinus sale corroboration
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: oregon-city-enterprise, 1922-12-22, sequence 5.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-22/ed-1/seq-5/
+Repository file: `newspapers/oregon-city-enterprise/1922-12/1922-12-22-seq-05.pdf`.
+Related evidence: E-365. Also sequence6: real property sale versus hotel business purchase must remain distinct.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-403 — Bank of Oregon City remodeling contract report
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: oregon-city-enterprise, 1922-12-29, sequence 3.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1922-12-29/ed-1/seq-3/
+Repository file: `newspapers/oregon-city-enterprise/1922-12/1922-12-29-seq-03.pdf`.
+Related evidence: E-366.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+## S-404 — Oregon City Auto Company Fifth/Main corner advertisements
+
+Type: Primary newspaper; **VISUALLY VERIFIED 17 November 2026**.
+Publication: banner-courier, 1922-12-07, sequence 6.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-07/ed-1/seq-6/
+Repository file: `newspapers/banner-courier/1922-12/1922-12-07-seq-06.pdf`.
+Related evidence: E-367. Repeated December21 p3; corner only, no numbered premises.
+Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+
+### December Miller controls
+
+December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Miller’s Shoe Store, 419 Main. No new move date or pre-fire number. E-358/S-392; BUS-071/P-046/T-036.
+
+
+## S-405 — D. M. Klemsen & Son 504 Main advertisement
+
+Type: Primary newspaper advertisement; VISUALLY VERIFIED 17 November 2026.
+Publication: Banner-Courier, December 28, 1922 p7.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-7/
+Repository file: `newspapers/banner-courier/1922-12/1922-12-28-seq-07.pdf`.
+E-368; BUS-117.

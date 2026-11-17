@@ -21,3 +21,8 @@ This directly fixes **427 Main as a Fifth/Main corner address by 25 January 1917
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
 `E-252` / `S-279` repeatedly places **W. S. Eddy / Fashion Stable between Fourth and Fifth on Main Street** in April 1917. This is a relative-location control within the same Main block as 427, but **does not print 427**. Do not assign Fashion Stable to this building or merge W. S. Eddy with the separately printed **W. B. Eddy's Store (`BUS-100`)** at 427 Main without an independent bridge.
+
+
+### December 22, 1922 original report
+
+Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing. E-364/S-400/T-114; P-106/BUS-088.

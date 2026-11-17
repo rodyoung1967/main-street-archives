@@ -216,3 +216,8 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly 
 <!-- 1919 May Enterprise Courier visual review — 2026-09-07 -->
 
 `E-267` / `S-293` directly continues Ohio Dentists / Dr. J. G. Nash at **507½ Main, over Harding's Drug Store**, on **16 May 1919**. The half-number is a direct address designation; the source does not establish floor geometry or print Harding Drug Store's own exact number.
+
+
+### December 1922 Red Front control
+
+Red Front Clothing Store advertises a two-week sacrifice sale to raise $10,000 for overdue bills, Main Street opposite the post office. No numbered address, actual closure, completed property sale or proprietor name is printed. This directly documents the advertised business in December; 507 remains the earlier exact address and July inference, not a new December numbered claim. E-363/S-399/T-113; BUS-074.

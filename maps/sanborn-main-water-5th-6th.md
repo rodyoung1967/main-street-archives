@@ -48,3 +48,8 @@ Use these images to:
 - Download or obtain the full-resolution sheet if available.
 - Add precise map citations to `evidence/source-register.md`.
 - Update building pages only with claims that can be tied to confirmed map metadata.
+
+
+### December alley assessment control
+
+December 7 Banner-Courier p2 publishes assessment/apportionment notice for Block 4 alley, west line Main to east line Water, combined with separate Harrison/Division work. Costs ascertained, proposed assessments filed with Recorder; objections within ten days, hearing December 15 at 7:30 p.m. This is a later assessment stage, not proof of a private Gates building or a resolution of November acceptance-stage/date tension. S-398; T-110; RL-026.

@@ -34,3 +34,7 @@ The article does not give a numbered Main Street address for the Gambrinus block
 
 **Very High** for second-story Electric Hotel annex occupancy by 3 March 1911 and for the described building amenities.  
 **Unresolved** for exact numbered address and the precise William Tell demolition/replacement sequence.
+
+### December 1922 neighboring parcel control
+
+Banner December 21 p1 reports Gambrinus Brewing Company sold lot 8 Block 26 at southeast Sixth/Main to Ben Levin of Portland; revenue stamps indicate $39,000. Two-story building houses J.C. Penney and Meilke/Koellmeier meat market below Electric Hotel Annex. Enterprise December 22 p6 corroborates sale, describes brick building and tenant leases, one extending to 1925; upstairs 16 sleeping apartments called Florence Hotel. Its p5 separately reports Florence Kerr purchased hotel business from J.J. Tobin and Central Apartments across the street; Tobin retained Electric Hotel on Fourth Street. Kerr’s hotel-business purchase is not a deed to Levin’s property. Exact numbered address and 1911-to-1922 structural continuity require corroboration; no target Block 4/503/505 assignment. E-365/S-401/S-402/T-115; B-019/BUS-114.

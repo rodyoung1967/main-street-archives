@@ -708,3 +708,8 @@ Use `registers/1922-online-completion-checklist.md` and `evidence/source-capture
 ### 1922 Barry/McAnulty license route synchronization
 
 E-362/S-397/BUS-113 register the November30 grant report without an address. Pursue existing consolidated Recorder request for original November1922 application/bond/minutes and exact premises; do not duplicate outreach or backdate714 Main. Capture: `evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md`.
+
+
+## December 1922 refinements
+
+OQ-034/RL-048: E-364 supplies Newton + Fifth/Main + Logus estate and occupancy over a year, but no numbered address; 427 remains a working cross-source identification. E-365 distinguishes Levin’s Block26 deed target from Kerr’s hotel business; retrieve deed if needed, never targetBlock4 ownership. E-360/S-398 adds December15 assessment meeting to the existing Recorder route without settling November acceptance. E-363 does not prove RedFront closed. E-366 is neighboring bank contract, not Gates completion. Existing Timms/Leland/Barry identities and address gaps remain. Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.

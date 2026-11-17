@@ -41,3 +41,8 @@ E-121–E-123 document Surber's No.501 business-address assertion and other liqu
 
 | 12 Sep. 1918 vs. 18 Apr. 1919 Post Office reports | East/even Fifth–Sixth Main block | 1918 report: M. D. Latourette; 1919 report: First National Bank + Barlow-David heirs | **UNRESOLVED CONTEMPORARY OWNERSHIP-DESCRIPTION CONFLICT** | `E-266` plus existing 1918 Post Office evidence and E-094 | Very High for each source's printed wording; unresolved reconciliation | 1919 article says actual postal quarters combined two stores, bank renting heirs' room and subletting both; Latourette identified as bank VP. Do not collapse the sources into one ownership claim without lease/deed/property evidence. |
 <!-- 1919 April Enterprise Courier visual review — 2026-09-07 -->
+
+
+### December 1922 neighboring parcel control
+
+Banner December 21 p1 reports Gambrinus Brewing Company sold lot 8 Block 26 at southeast Sixth/Main to Ben Levin of Portland; revenue stamps indicate $39,000. Two-story building houses J.C. Penney and Meilke/Koellmeier meat market below Electric Hotel Annex. Enterprise December 22 p6 corroborates sale, describes brick building and tenant leases, one extending to 1925; upstairs 16 sleeping apartments called Florence Hotel. Its p5 separately reports Florence Kerr purchased hotel business from J.J. Tobin and Central Apartments across the street; Tobin retained Electric Hotel on Fourth Street. Kerr’s hotel-business purchase is not a deed to Levin’s property. Exact numbered address and 1911-to-1922 structural continuity require corroboration; no target Block 4/503/505 assignment. E-365/S-401/S-402/T-115; B-019/BUS-114.

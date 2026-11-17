@@ -3,7 +3,7 @@
   "lccn": "sn00063699",
   "year": 1922,
   "month": 11,
-  "status": "VISUALLY VERIFIED — all page-image content screened; source damage/legibility limitations retained",
+  "status": "VISUALLY VERIFIED — surviving page-image content screened; source damage retained as manual gap",
   "inventory_source": "https://oregonnews.uoregon.edu/lccn/sn00063699/issues/1922/",
   "expected_weekly_dates_absent_from_archive_calendar": [],
   "archive_calendar_dates_outside_expected_weekday": [],
@@ -230,7 +230,9 @@
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
           "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
-          "content_review_limit": "Right edge clipping removes header/date and some tire-ad text/numerals; alternate comparison still online-first."
+          "content_review_limit": "Right edge clipping removes header/date and some tire-ad text/numerals; alternate comparison still online-first.",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 6,
@@ -245,7 +247,9 @@
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
           "content_review_record": "evidence/source-captures/2026-11-15-1922-november09-10-content-review.md",
-          "content_review_limit": "Left edge initial legal letters and bottom terminal lines/names clipped; alternate comparison still online-first."
+          "content_review_limit": "Left edge initial legal letters and bottom terminal lines/names clipped; alternate comparison still online-first.",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 7,
@@ -515,7 +519,9 @@
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
           "content_review_record": "evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md",
-          "content_review_limitation": "Right edge tears clip final letters; alternate-source comparison ONLINE-FIRST."
+          "content_review_limitation": "Right edge tears clip final letters; alternate-source comparison ONLINE-FIRST.",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 5,
@@ -530,7 +536,9 @@
           "visual_integrity_status": "VISUALLY VERIFIED",
           "exhaustive_content_review_status": "VISUALLY VERIFIED",
           "content_review_record": "evidence/source-captures/2026-11-17-1922-november16-23-visual-review.md",
-          "content_review_limitation": "Reverse-side show-through/overprinting obscures portions of left/bottom content and ads; alternate-source comparison ONLINE-FIRST."
+          "content_review_limitation": "Reverse-side show-through/overprinting obscures portions of left/bottom content and ads; alternate-source comparison ONLINE-FIRST.",
+          "source_damage_recovery_status": "RETRIEVAL GAP / MANUAL CALLOUT MF-074 — same loss in PDF and JP2",
+          "source_damage_recovery_record": "evidence/source-captures/2026-11-17-1922-damaged-source-recovery.md"
         },
         {
           "sequence": 6,

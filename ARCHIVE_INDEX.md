@@ -571,3 +571,8 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 - [November 1919 Enterprise visual review](evidence/source-captures/1919-november-enterprise-visual-review-2026-09-08.md): `S-304` / `E-278` — 32/32 pages; Staats liquidation ad directly **520–22 Main**, preserved in conflict with CCHS December catalog **516 Main**.
 - [December 1919 Enterprise visual review](evidence/source-captures/1919-december-enterprise-visual-review-2026-09-08.md): `S-305` / `E-279` — 32/32 pages; Portland House at Fifth/Main, Mr./Mrs. Beck owners, frame construction; no target-number assignment.
 - [1919 all-online-source-class closeout](evidence/source-captures/1919-online-source-class-closeout-2026-09-08.md): `S-306` / `E-280` — **ONLINE COMPLETE**, 638/638 online-retrievable newspaper pages visually reviewed. 24 Banner-Courier issues and restricted/manual records remain explicit callouts; exact 503/505 construction dates unresolved.
+
+
+## December 1922 neighboring structural controls
+
+[B-019 Gambrinus Block](buildings/gambrinus-block-sixth-main.md), [B-020 Bank of Oregon City](buildings/bank-of-oregon-city-sixth-main.md). These are separate parcel/building questions; neither proves503/505 completion.

@@ -45,3 +45,8 @@ November16 1922 Banner-Courier p8 visually verified15 November2026 repeats Mille
 ### November 30 Miller advertising control
 
 30 November 1922 Banner-Courier p2 visually verified 17 November 2026 repeats Miller’s Shoe Store, 419 Main, everyday footwear/gloves and expert shoe repairing; no fresh signature, move date or pre-fire number (E-358/S-392; BUS-071/P-046/T-036). Capture: evidence/source-captures/2026-11-17-1922-november24-30-visual-review.md
+
+
+### December Miller controls
+
+December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Miller’s Shoe Store, 419 Main. No new move date or pre-fire number. E-358/S-392; BUS-071/P-046/T-036.

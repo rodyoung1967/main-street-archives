@@ -1,5 +1,6 @@
 buildings:
   - id: B-001
+    december_quality_control: "Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing."
     name: 503 Main Street
     address: 503 Main Street, Oregon City, Oregon
     repository_file: buildings/503-main.md
@@ -558,6 +559,7 @@ buildings:
     related_evidence: [E-132, E-278]
     related_sources: [S-147, S-304]
   - id: B-016
+    december_quality_control: "Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing."
     name: 427 Main Street (historic storefront address)
     address: 427 Main Street, Oregon City, Oregon
     repository_file: buildings/427-main.md
@@ -592,3 +594,48 @@ buildings:
     notes: "25 May 1917 Enterprise directly states National Guard enlistments were received at 106 Fifth. Dated recruiting use only; owner, ordinary tenant, parcel, footprint and physical continuity unresolved."
     related_evidence: [E-253]
     related_sources: [S-280]
+
+
+  - id: B-019
+    name: Gambrinus Block at southeast Sixth and Main
+    address: Lot 8 Block 26, southeast Sixth and Main; exact number unresolved
+    repository_file: buildings/gambrinus-block-sixth-main.md
+    notes: Banner December 21 p1 reports Gambrinus Brewing Company sold lot 8 Block
+      26 at southeast Sixth/Main to Ben Levin of Portland; revenue stamps indicate $39,000.
+      Two-story building houses J.C. Penney and Meilke/Koellmeier meat market below
+      Electric Hotel Annex. Enterprise December 22 p6 corroborates sale, describes brick
+      building and tenant leases, one extending to 1925; upstairs 16 sleeping apartments
+      called Florence Hotel. Its p5 separately reports Florence Kerr purchased hotel
+      business from J.J. Tobin and Central Apartments across the street; Tobin retained
+      Electric Hotel on Fourth Street. Kerr’s hotel-business purchase is not a deed
+      to Levin’s property. Exact numbered address and 1911-to-1922 structural continuity
+      require corroboration; no target Block 4/503/505 assignment.
+    related_evidence:
+    - E-086
+    - E-365
+    related_sources:
+    - S-401
+    - S-402
+    related_businesses:
+    - BUS-114
+
+
+  - id: B-020
+    name: Bank of Oregon City building, Sixth and Main
+    address: Sixth and Main; frontage to alley, exact numbered extent unresolved
+    repository_file: buildings/bank-of-oregon-city-sixth-main.md
+    notes: 'December 29 Enterprise p3 reports contracts awarded Wednesday for $25,000
+      remodeling of Bank of Oregon City at Sixth/Main, expected ninety days: ground-floor
+      bank enlarged 13 feet north, Main entrance moved from corner toward middle, upper
+      offices gutted by September 2 fire rebuilt with three extra suites (14 rooms total),
+      modern uniform exterior. Bank said to own frontage from Sixth to alley and occupy
+      location since 1881. This is a contract/planned remodel, not completed work, not
+      First National Bank at 512, and not Gates/Junken replacement. Contractor surname
+      is split/truncated after W.G.H. Krue- in this article; do not certify the completed
+      name from this line alone.'
+    related_businesses:
+    - BUS-115
+    related_sources:
+    - S-403
+    related_evidence:
+    - E-366

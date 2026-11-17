@@ -278,3 +278,25 @@ October26 continuation (visually verified15 November2026): Banner-Courier p8 rep
 | ID | Business | Address | Evidence |
 | --- | --- | --- | --- |
 | BUS-113 | [McAnulty & Barry](mcanulty-barry.md) | Exact 1922 premises unresolved | Cigars/restaurant merchant listing; Nov30 pool-hall license reported granted for former restaurant room. E-362/S-397; earlier S-141. Later714 Main not backdated; no505 assignment. |
+
+
+### December 1922 Red Front control
+
+Red Front Clothing Store advertises a two-week sacrifice sale to raise $10,000 for overdue bills, Main Street opposite the post office. No numbered address, actual closure, completed property sale or proprietor name is printed. This directly documents the advertised business in December; 507 remains the earlier exact address and July inference, not a new December numbered claim. E-363/S-399/T-113; BUS-074.
+
+
+### December 22, 1922 original report
+
+Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality Restaurant at Fifth and Main: grease from frying meat caught the ceiling; fire/water damage about $1,500; fire department checked spread to adjacent wooden buildings in the block containing Electric Hotel. It names the Logus estate as building owner and George Newton as restaurateur occupying it for over a year. Calendar-derived event date December 21 is qualified; report date certain. No street number or proof of 503 is supplied. This strengthens continuity with Newton’s August restaurant but does not turn the June 427 Main advertisement that omits the proprietor into a direct proprietor/address pairing. E-364/S-400/T-114; P-106/BUS-088.
+
+
+| BUS-114 | [Electric Hotel Annex / Florence Hotel](electric-hotel-annex-florence.md) | B-019 upper story, Sixth/Main | E-365; business transfer distinct from real-property sale |
+
+
+| BUS-115 | Bank of Oregon City | Sixth/Main, B-020 | E-366/S-403/T-116; distinct First National at512 |
+
+
+| BUS-116 | [Oregon City Auto Co.](oregon-city-auto-co.md) | Fifth/Main corner, no number | E-367/S-404 |
+
+
+| BUS-117 | [D. M. Klemsen & Son groceries](d-m-klemsen-son-groceries.md) | 504 Main | E-368/S-405; no merger with1907 liquor record |
