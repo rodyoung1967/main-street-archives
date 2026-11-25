@@ -3171,3 +3171,22 @@ sources:
     repository_file: newspapers/banner-courier/1922-12/1922-12-28-seq-07.pdf
     related_evidence:
     - E-368
+
+  - id: S-406
+    name: Oregon SHPO resource 30537 — 503 Main May 2000 Historic Resource Survey Form
+    url: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=30537.pdf
+    type: Official historic-resource survey form, original scan 3/3 pages visually verified
+    date: 2000-05
+    repository_file: records/historic-surveys/503-main-shpo-resource-30537-inventory-form.pdf
+    notes: The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain
+      survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition
+      date.
+    related_evidence:
+    - E-369
+    related_buildings:
+    - B-001
+    related_businesses:
+    - BUS-004
+    related_people:
+    - P-007
+    - P-008

@@ -1479,3 +1479,7 @@ evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md: 24 orig
 ## 17 November 2026 — December findings integrated and 22 alternate scans compared
 
 928/928 weekly page images reviewed. December claims now E-363–368/S-398–405, new neighboring controls and Newton/RedFront/Miller updates synchronized; see `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`. 22 alternate JP2 images compared with original PDFs; no missing text restored; reproducible manifest/capture saved. Source-class closeout still underway; year IN PROGRESS. Full validator passes after synchronization; no outreach/fees.
+
+## November 25, 2026 — 1922 online certification
+
+Restored and published the final reconciliation for the November 17 audit. The weekly page review stands at 928/928, including 120 added in this continuation. Both November and December are fully screened. The 27 alternate-image comparisons reproduced the retained defects. Source classes are reconciled and 16 manual groups remain open. The original three-page 503 survey, recovered November 17, was re-downloaded with an identical hash and integrated as S-406/E-369. The already retained 505 survey is S-284. No fees or outreach. See `evidence/source-captures/2026-11-17-1922-annual-online-closeout.md`.

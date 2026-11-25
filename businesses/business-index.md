@@ -300,3 +300,7 @@ Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality R
 
 
 | BUS-117 | [D. M. Klemsen & Son groceries](d-m-klemsen-son-groceries.md) | 504 Main | E-368/S-405; no merger with1907 liquor record |
+
+### May 2000 503 Main historic-resource survey
+
+The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

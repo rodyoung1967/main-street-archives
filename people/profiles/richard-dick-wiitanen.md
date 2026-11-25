@@ -18,3 +18,7 @@ Property ownership, business ownership, operation, and liquor-license roles rema
 ## May 2000 505 property-owner survey field
 
 The visually reviewed individual Oregon SHPO form for **505 Main / resource 30539** records **Richard and Sheila Wiitanen** in the owner field in May 2000 (`S-284` / `E-258`). This is an official-survey ownership snapshot, not a deed and not proof of the acquisition date or seller.
+
+### May 2000 503 Main historic-resource survey
+
+The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

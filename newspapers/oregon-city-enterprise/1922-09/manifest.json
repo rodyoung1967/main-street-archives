@@ -3,7 +3,7 @@
   "lccn": "sn00063700",
   "year": 1922,
   "month": 9,
-  "status": "VISUALLY VERIFIED — full-page content screened; original-scan damage qualifications retained; annual closeout still IN PROGRESS",
+  "status": "VISUALLY VERIFIED — full-page content screened; original-scan damage qualifications retained",
   "inventory_source": "https://oregonnews.uoregon.edu/lccn/sn00063700/issues/1922/",
   "expected_weekly_dates_absent_from_archive_calendar": [],
   "archive_calendar_dates_outside_expected_weekday": [],
@@ -607,5 +607,7 @@
   ],
   "total_pages": 40,
   "previous_status_2026_11_15": "RETRIEVAL ONLY — original page scans require visual inspection before certification",
-  "review_scope_record": "evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md"
+  "review_scope_record": "evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md",
+  "annual_online_closeout": "evidence/source-captures/2026-11-17-1922-annual-online-closeout.md",
+  "annual_online_status": "ONLINE COMPLETE"
 }

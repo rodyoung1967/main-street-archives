@@ -398,3 +398,7 @@ E-362/S-397/BUS-113/T-112 now mirror the previously preserved Barry/McAnulty lic
 ## December 1922 refinements
 
 OQ-034/RL-048: E-364 supplies Newton + Fifth/Main + Logus estate and occupancy over a year, but no numbered address; 427 remains a working cross-source identification. E-365 distinguishes Levin’s Block26 deed target from Kerr’s hotel business; retrieve deed if needed, never targetBlock4 ownership. E-360/S-398 adds December15 assessment meeting to the existing Recorder route without settling November acceptance. E-363 does not prove RedFront closed. E-366 is neighboring bank contract, not Gates completion. Existing Timms/Leland/Barry identities and address gaps remain. Capture: `evidence/source-captures/2026-11-17-1922-december-findings-integration.md`.
+
+### 503 survey source gap narrowed
+
+S-406/E-369 supplies the May 2000 individual form. MF-068 remains open for the exact 1926 newspaper citation, supporting worksheets and original notes. The c.1919 estimate, Wolf title chain and exact private construction date remain unresolved. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

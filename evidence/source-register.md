@@ -3607,3 +3607,12 @@ Publication: Banner-Courier, December 28, 1922 p7.
 URL: https://oregonnews.uoregon.edu/lccn/sn00063699/1922-12-28/ed-1/seq-7/
 Repository file: `newspapers/banner-courier/1922-12/1922-12-28-seq-07.pdf`.
 E-368; BUS-117.
+
+## S-406 — Oregon SHPO resource 30537 — 503 Main May 2000 Historic Resource Survey Form
+
+Type: Official historic-resource survey, three original scan pages visually verified on November 17, 2026.
+Date: May 2000.
+URL: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=30537.pdf
+Repository file: `records/historic-surveys/503-main-shpo-resource-30537-inventory-form.pdf`.
+Related evidence: E-369. Related building: B-001. Related business: BUS-004. Related people: P-007 and P-008.
+Capture: `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

@@ -1,0 +1,222 @@
+{
+ "objectIdFieldName": "OBJECTID",
+ "globalIdFieldName": "GlobalID",
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 102970,
+  "latestWkid": 6557
+ },
+ "fields": [
+  {
+   "name": "OBJECTID",
+   "alias": "OBJECTID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "RESOURCE_ID",
+   "alias": "resource_ID",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "SOURCE",
+   "alias": "Source",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "Confidence",
+   "alias": "Confidence",
+   "type": "esriFieldTypeSmallInteger"
+  },
+  {
+   "name": "CREATOR",
+   "alias": "CREATOR",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "CREATEDATE",
+   "alias": "CREATEDATE",
+   "type": "esriFieldTypeDate",
+   "length": 8
+  },
+  {
+   "name": "EDITOR",
+   "alias": "EDITOR",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "EDITDATE",
+   "alias": "EDITDATE",
+   "type": "esriFieldTypeDate",
+   "length": 8
+  },
+  {
+   "name": "Comments",
+   "alias": "Comments",
+   "type": "esriFieldTypeString",
+   "length": 150
+  },
+  {
+   "name": "SHPO_REVIEWED",
+   "alias": "SHPO_REVIEWED",
+   "type": "esriFieldTypeSmallInteger"
+  },
+  {
+   "name": "resource_ID_1",
+   "alias": "resource_ID_1",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "propName",
+   "alias": "propName",
+   "type": "esriFieldTypeString",
+   "length": 1073741822
+  },
+  {
+   "name": "address",
+   "alias": "address",
+   "type": "esriFieldTypeString",
+   "length": 1073741822
+  },
+  {
+   "name": "city",
+   "alias": "city",
+   "type": "esriFieldTypeString",
+   "length": 50
+  },
+  {
+   "name": "county",
+   "alias": "county",
+   "type": "esriFieldTypeString",
+   "length": 15
+  },
+  {
+   "name": "yrBuilt",
+   "alias": "yrBuilt",
+   "type": "esriFieldTypeString",
+   "length": 32
+  },
+  {
+   "name": "height",
+   "alias": "height",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "origUse",
+   "alias": "origUse",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "primStyle",
+   "alias": "primStyle",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "secStyle",
+   "alias": "secStyle",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "planTypeDescr",
+   "alias": "planTypeDescr",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "sidingMat1",
+   "alias": "sidingMat1",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "sidingMat2",
+   "alias": "sidingMat2",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "elig",
+   "alias": "elig",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "ilsDate",
+   "alias": "ilsDate",
+   "type": "esriFieldTypeString",
+   "length": 10
+  },
+  {
+   "name": "rlsDate",
+   "alias": "rlsDate",
+   "type": "esriFieldTypeString",
+   "length": 10
+  },
+  {
+   "name": "nrStat",
+   "alias": "nrStat",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "nrDateListed",
+   "alias": "nrDateListed",
+   "type": "esriFieldTypeString",
+   "length": 10
+  },
+  {
+   "name": "HistDist",
+   "alias": "HistDist",
+   "type": "esriFieldTypeString",
+   "length": 30
+  },
+  {
+   "name": "GlobalID",
+   "alias": "GlobalID",
+   "type": "esriFieldTypeGlobalID",
+   "length": 38
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "OBJECTID": 81893,
+    "RESOURCE_ID": 30537.0,
+    "SOURCE": "Taxlots / Master Address",
+    "Confidence": 20,
+    "CREATOR": "gis",
+    "CREATEDATE": 1409150857000,
+    "EDITOR": "GIS",
+    "EDITDATE": 1582674831000,
+    "Comments": null,
+    "SHPO_REVIEWED": 0,
+    "resource_ID_1": 30537,
+    "propName": "Kwality Café",
+    "address": "503 Main St ",
+    "city": "Oregon City",
+    "county": "Clackamas",
+    "yrBuilt": "c.1919",
+    "height": "1",
+    "origUse": "Restaurant",
+    "primStyle": "Modern Commercial (Type)",
+    "secStyle": "",
+    "planTypeDescr": "1-Part Block",
+    "sidingMat1": "Stucco",
+    "sidingMat2": "",
+    "elig": "not eligible/non-contributing",
+    "ilsDate": "",
+    "rlsDate": "01/19/2009",
+    "nrStat": "",
+    "nrDateListed": "",
+    "HistDist": "",
+    "GlobalID": "{2E379161-77E5-41C0-BA44-6F45CE3FB741}"
+   }
+  }
+ ]
+}

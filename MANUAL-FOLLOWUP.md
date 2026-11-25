@@ -675,3 +675,14 @@ Rodney Young
 ### MF-012 directory access correction
 
 The 14 September 2026 user-assisted capture `evidence/source-captures/2026-09-14-polk-1921-1922-oregon-city-user-visual-review.md` documents visual inspection of the relevant supplied general, Restaurants, Billiard Rooms and Cigars/Tobacco Oregon City sections. **Do not treat all those pages as still inaccessible or repeat the same request.** A. H. Leland's billiard classification lacks a street number and is not merged with O. H. Leland. Any further request must identify a specific relevant section/page not already reviewed; no complete-volume visual claim is made here.
+
+## November 25, 2026 — 1922 annual callouts
+
+The 1922 status is **ONLINE COMPLETE**. The [annual closeout](evidence/source-captures/2026-11-17-1922-annual-online-closeout.md) contains the 16 numbered manual groups and supersedes the dated work queue above. Drafts remain unsent.
+
+- **MF-077** — Obtain the complete 1922 City Commission minute inventory, meeting originals and annual report survival from the City Recorder or library proceedings index. Include the November 1/10 alley actions and December 15 assessment hearing. The public archive routes failed in the available environment. See M07.
+- **MF-078** — Determine whether Oregon City telephone volumes for 1921–1923 survive, then check relevant subscriber addresses in the Library, CCFHS or OHS holdings. No readable public volume was recovered. See M11.
+- **MF-079** — Obtain CCHS originals and date bases for P-9594/P-5577 and related frames, including the P-5578 conflict and P-4776/P-5579/P-5580 companions. Public copies and searches left the date and frontage questions open. See M09.
+- **MF-074** — The 22 new alternate comparisons extend the earlier five. The recovery manifest documents all corresponding regions. December recovery attempts are finished and the remaining losses require original or alternate film. See M14.
+- **MF-012** — Request only unrecovered address-bearing Polk detail. Reuse the supplied September 14 visual work.
+- **MF-068** — The 503 form itself is recovered as S-406/E-369. Seek original research worksheets and the 1926 citation. The 505 form is already S-284 and the older 1983 file remains under MF-047. See M10.

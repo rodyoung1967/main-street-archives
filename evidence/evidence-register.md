@@ -3789,3 +3789,15 @@ Type: Primary newspaper advertisement; VISUALLY VERIFIED 17 November 2026.
 Confidence: DOCUMENTED / DIRECT for business/address/goods.
 Sources: S-405.
 Claims: Banner-Courier December 28 p7 directly advertises D. M. Klemsen & Son, staple and fancy groceries, 504 Main Street. Dated neighboring even-side address only; no owner names, deed or physical-building continuity. Do not merge the grocery with BUS-053 (1907 liquor applicant) solely from name.
+
+## E-369 — 503 Main individual survey recovered, secondary chronology and owner snapshot
+
+Type: Official historic-resource survey synthesis and owner field. Original scan visually verified.
+Confidence: Very high for the survey wording. Underlying newspaper citation, legal title and building dates remain unresolved.
+Sources: S-406.
+Claims:
+- Page 1 tentatively dates the surviving building to circa 1919 and notes that little historical information was found. It reports a restaurant on the 1925 Sanborn map, Kwality Restaurant in 1926 newspapers, Kwality Cafe in 1947 and the Flor restaurant/cocktail bar in 1957.
+- Page 1 attributes circa 1922–1972 Wolf family ownership to the 1983 survey. Page 3 lists general sources without an exact 1926 issue or page. Both remain leads to the underlying records.
+- Page 2 contains a survey-context photograph of The Wheel frontage and adjacent 505 and a locator map. It supplies no 1922 photographic evidence.
+- Page 3 names Richard and Sheila Wiitanen in the owner field for 503 Main. This records the May 2000 survey snapshot. Acquisition, conveyance and private building completion dates remain unresolved.
+Capture: `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

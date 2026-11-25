@@ -110,3 +110,7 @@ October extension, visually verified15 November2026: **5 and12 October1922 Banne
 
 
 October26 continuation (visually verified15 November2026): Banner-Courier p8 repeats unnumbered LELAND AND LITTLE, Billiards and QUALITY CAFE, separately McAnulty/Barry cigars/restaurant and Junken contractor/builder. E-126/E-181/S-141; BUS-077/BUS-089; T-035. No503/505 address, shared ownership, identity merger, succession or Gates completion follows. Capture: `evidence/source-captures/2026-11-15-1922-october26-27-content-review.md`.
+
+### May 2000 503 Main historic-resource survey
+
+The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.

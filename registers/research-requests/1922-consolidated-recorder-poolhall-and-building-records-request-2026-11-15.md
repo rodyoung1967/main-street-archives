@@ -39,3 +39,7 @@ Rodney Young
 - **Separate custodians, separate requests:** County Recording (1922 Harding–Wolf–Gates deeds) and OHS (MSS 1503 Block 4 title abstract) remain independently actionable under `1922-deed-and-ohs-request-drafts-2026-08-28.md`. County Assessment & Taxation may hold historical improvement/assessment rolls; ask Recorder for referral, or send a separate assessor-specific request.
 - Distinguish **property title, physical building construction, business operator, and licensee**; a license grant alone cannot prove the 505 building's construction date.
 - Track sending date, reply, custodian/series, fees, scanned pages, visual verification, and cross-record propagation in the corresponding callouts. **1922 IN PROGRESS**.
+
+## Annual minutes and report scope — draft only
+
+Please also identify the complete 1922 meeting inventory and any surviving annual report. Include the Block 4 alley certificate or acceptance actions reported around November 1 and 10 and the December 15 assessment hearing (S-398). Keep these public-works records separate from the private Gates building file. The consolidated request remains unsent.

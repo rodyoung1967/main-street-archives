@@ -1075,3 +1075,7 @@ E-360/S-398/T-110 Block4 assessment; E-363/S-399/BUS-074/T-113 RedFront; E-364/S
 
 
 E-368 ↔ S-405 ↔ BUS-117: 504 Main grocery ad December28; person/building identity not asserted.
+
+### 503 May 2000 survey
+
+S-406 ↔ E-369 ↔ B-001 / BUS-004 / P-007 / P-008. The owner field is a dated survey snapshot. The source also preserves secondary Kwality chronology and the unresolved 1926 citation.

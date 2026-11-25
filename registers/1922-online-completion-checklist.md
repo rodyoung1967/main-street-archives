@@ -1,4 +1,19 @@
-# 1922 — ordered requirements for ONLINE COMPLETE
+# 1922 online completion checklist
+
+**ONLINE COMPLETE.** Review through November 17, 2026. Closeout published November 25. The detailed record and 16 manual callouts are in the [annual closeout](../evidence/source-captures/2026-11-17-1922-annual-online-closeout.md).
+
+| Requirement | Result |
+| --- | --- |
+| Inventories | 104 weekly issues and 928 retained page images. Banner-Courier 52/512 and weekly Enterprise 52/416. Separate daily run remains MF-076. |
+| Visual review | 928/928 page images visually inspected. This continuation added 120 from the 808 baseline. November 80/80 and December 84/84. |
+| Damaged scans | 22 additional and five earlier alternate-image comparisons. Lost regions persist under MF-074. |
+| Other sources | Directories, maps, municipal and property records, photographs and historic resources reconciled. Access limits appear in the numbered manual list. |
+| Evidence | November and December findings integrated. 503 survey retained as S-406/E-369, with the 505 duplicate excluded. Evidence, timelines, entities, crosswalk, registers and manifests updated. |
+| Manual follow-up | 16 task groups state custody, scope, access limits and required integration. No institutional request sent or fee authorized. |
+
+The prior checklist below preserves the dated work queue and checkpoints. The current closeout supersedes their status and pending counts.
+
+## Historical checklist and checkpoints
 
 Updated **17 November 2026**. Current status: **IN PROGRESS**.
 Canonical supporting audit: `evidence/source-captures/2026-11-15-1922-closeout-audit-and-september-content-review.md`.

@@ -95,3 +95,7 @@ Classification: **DOCUMENTED ENDPOINTS / UNRESOLVED TRANSITION**. No recovered s
 <!-- 1967-wheel-directory-record-survival-pass-2026-09-07 -->
 
 The c.1967 LaFarlette acquisition hypothesis remains **unproved** after another owner/proprietor sweep. A later Oregon City records-disposal action explicitly included **Business License Applications, Jan. 1966–Dec. 1967**, establishing a records-survival risk but not proving that the separate 1967 Wheel liquor application was destroyed. NYPL, however, confirms a continuous Oregon City/Gladstone/West Linn telephone-directory sequence for **1965 through 1969–70**. Those volumes are now the best non-OLCC route for bracketing a Wheel listing/phone-number change and the first local LaFarlette household/business appearance. See `evidence/source-captures/1967-wheel-record-survival-directory-pass-2026-09-07.md` and `MF-052`.
+
+### May 2000 503 Main historic-resource survey
+
+The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
