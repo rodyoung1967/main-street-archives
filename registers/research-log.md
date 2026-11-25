@@ -1483,3 +1483,7 @@ evidence/source-captures/2026-11-17-1922-december22-29-visual-review.md: 24 orig
 ## November 25, 2026 — 1922 online certification
 
 Restored and published the final reconciliation for the November 17 audit. The weekly page review stands at 928/928, including 120 added in this continuation. Both November and December are fully screened. The 27 alternate-image comparisons reproduced the retained defects. Source classes are reconciled and 16 manual groups remain open. The original three-page 503 survey, recovered November 17, was re-downloaded with an identical hash and integrated as S-406/E-369. The already retained 505 survey is S-284. No fees or outreach. See `evidence/source-captures/2026-11-17-1922-annual-online-closeout.md`.
+
+## November 25, 2026 — Fifth and Main records access
+
+Checked the exact OHS abstract, county deed indexes, historical assessment rolls and City archive routes. The older City direct PDF links for three neighboring-year records returned 404 although archived text was indexed. Updated the existing drafts to target the correct film series and request access information and quotes. No original target record recovered, no outreach, no fee and no change to the 1922 certification. See the [property split access check](../evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md).

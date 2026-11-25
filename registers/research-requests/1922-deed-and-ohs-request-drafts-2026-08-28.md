@@ -2,7 +2,7 @@
 
 Prepared: 28 August 2026. Status: **DRAFTS — NOT SENT**.
 
-Scope: prepare the two priority requests authorized after the [Task 8 handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md), callouts `1922-F01` and `1922-F02`. These are outgoing correspondence drafts, not recovered historical sources. No email, form submission, appointment, fee approval or record order has been made. Both callouts remain OPEN; 1922 remains **IN PROGRESS**.
+Scope: prepare the two priority requests authorized after the [Task 8 handoff](../../evidence/source-captures/1922-task-8-integration-handoff-2026-08-28.md), callouts `1922-F01` and `1922-F02`. These are outgoing correspondence drafts, not recovered historical sources. No email, form submission, appointment, fee approval or record order has been made. Both callouts remain open. The 1922 annual audit is **ONLINE COMPLETE**. See the [November 25 access check](../../evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md).
 
 ## 1922-F01 — Clackamas County recorded deeds
 
@@ -25,7 +25,7 @@ The initial search scope is:
 
 The 13 July 1922 Banner-Courier reports that C. Gates acquired the Fifth Street Restaurant location and S. Wolf acquired the remainder of a group of Main Street properties belonging to Harding. The report supplies no deed number, book/page reference, legal dimensions or exact street number. We do not yet know whether this involved separate or sequential instruments, or how the conveyed interests related to land and improvements.
 
-If staff can perform this lookup, please check both grantor and grantee indexes and identify all candidate instruments within that scope. I would like legible digital copies of the relevant index entries and each complete instrument, including endorsements, acknowledgments, exhibits, maps and continuations. Please retain the book/page or document number and any references to related deeds, mortgages, releases or other instruments; identifying those additional references is sufficient before any further paid retrieval.
+If staff can perform this lookup, please check the 1851–1972 direct (grantor) and indirect (grantee) indexes, or the corresponding 1851–1969 microfilm set, and identify all candidate instruments within that scope. I would like legible digital copies of the relevant index entries and each complete instrument, including endorsements, acknowledgments, exhibits, maps and continuations. Please retain the book/page or document number and any references to related deeds, mortgages, releases or other instruments; identifying those additional references is sufficient before any further paid retrieval.
 
 If no entry is located, please note the indexes, date ranges and name variants actually checked. If staff cannot search by historical names, please explain the appropriate viewing or self-service route, what information is required, and whether a wider recording window would be sensible. Please identify another custodian if these records are held elsewhere.
 
@@ -59,13 +59,13 @@ I am researching the title and building history of the Main and Fifth Street fro
 - **Other index fields:** Clackamas County; Oregon City; Main St., 5th St.; separate Lot field lists 3, 4, 5.
 - **Locator:** the first page of the OHS Title Abstracts Index linked below.
 
-We have inspected the index, but not the actual abstract. Please confirm the current folder/item citation and whether the title's Lots 3 and 4 or the separate Lots 3, 4 and 5 field accurately describes its contents. If that cannot be resolved without examining the original, please preserve both descriptions and tell me what the cover and underlying records actually say.
+We have inspected the index. Could you first confirm the folder, approximate page count and whether the item can be pulled for reading-room review or reproduced remotely? Please confirm the current folder/item citation and whether the title's Lots 3 and 4 or the separate Lots 3, 4 and 5 field accurately describes its contents. If that cannot be resolved without examining the original, please preserve both descriptions and tell me what the cover and underlying records actually say.
 
 I would like a legible digital reproduction of the **complete abstract**, including the folder label, front and back covers, all entries and continuations, annotated reverses, certificates, maps, sketches, attachments and any separately stored supplements. Please preserve page sequence and identify any missing, illegible or withheld pages. If it is large, please first confirm its extent and quote the reproduction cost rather than supplying only selected name hits.
 
 The principal question is whether the title chain documents George A. Harding's reported 1922 transfer to S. Wolf and C. Gates / C. E. Gates, and whether legal descriptions or sketches establish the resulting property division. The buyers' full identities and the exact 501/503/505 boundary remain unresolved. Entries around 1910–1975 would be particularly helpful for connecting earlier and later ownership, **if the abstract covers those years**; please do not omit earlier entries or suggest that such coverage is known. We are not assuming that any of those names appears in this item.
 
-Please provide an estimate and wait for my approval before any chargeable research, retrieval or reproduction. If a complete remote copy is unavailable, please advise what can be supplied and how to arrange in-person access, including any advance notice for off-site retrieval. Please also provide the preferred citation and any copying, use or permission requirements for placing supplied images in a public historical research repository.
+If readily available in the finding aid, I would also appreciate the container and date of the Main Street Harding Building drawing in the separate George A. Harding family papers (Mss 2000) and any folder titles covering Harding property transactions in 1921–1923. Please provide an estimate and wait for my approval before any chargeable research, retrieval or reproduction. If a complete remote copy is unavailable, please advise what can be supplied and how to arrange in-person access, including any advance notice for off-site retrieval. Please also provide the preferred citation and any copying, use or permission requirements for placing supplied images in a public historical research repository.
 
 Thank you,
 

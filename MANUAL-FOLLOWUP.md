@@ -686,3 +686,7 @@ The 1922 status is **ONLINE COMPLETE**. The [annual closeout](evidence/source-ca
 - **MF-074** — The 22 new alternate comparisons extend the earlier five. The recovery manifest documents all corresponding regions. December recovery attempts are finished and the remaining losses require original or alternate film. See M14.
 - **MF-012** — Request only unrecovered address-bearing Polk detail. Reuse the supplied September 14 visual work.
 - **MF-068** — The 503 form itself is recovered as S-406/E-369. Seek original research worksheets and the 1926 citation. The 505 form is already S-284 and the older 1983 file remains under MF-047. See M10.
+
+## November 25, 2026 — Fifth and Main records access
+
+MF-006 and MF-007 remain the first records to retrieve for lot geometry. The November 25 preflight identifies the exact 1922-inclusive Clackamas index series, OHS Box 19 request, and the current limits of the City minutes route. See [property split records access](evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md). Requests remain drafted and unsent.

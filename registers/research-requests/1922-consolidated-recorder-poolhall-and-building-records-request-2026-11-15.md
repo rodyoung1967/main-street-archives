@@ -16,7 +16,7 @@ I am researching the history of the buildings and businesses at **501, 503, 505,
 
 **3. Barry & McAnulty November 1922 license (secondary, brief cross-check).** The **November 30, 1922 Banner-Courier p.1** reports that **Barry and McAnulty** were **granted** a pool-hall license in a room previously used as their restaurant. The notice gives no address. Later historical material associates the family/partnership with **714 Main**, but this does not establish their 1922 premises. If a November 1922 license entry or Council minute is readily identifiable, please include its **exact street address/room description** so we can determine whether it was 714, 505, or elsewhere.
 
-For each relevant item, the most useful details are the **record series/title, date, volume/page or document/license/permit number, exact premises address and legal description if present, applicant/owner/operator, approval and occupancy dates, and any related record references**. Legible scans of the relevant full pages and their headings are preferred. If the records are not online or have been transferred, please identify the **holding institution, index, microfilm, or retention/disposition information**. I understand the City has been moving historical records into an electronic document system, so guidance on a searchable public archive is also welcome.
+For each relevant item, the most useful details are the **record series/title, date, volume/page or document/license/permit number, exact premises address and legal description if present, applicant/owner/operator, approval and occupancy dates, and any related record references**. Legible scans of the relevant full pages and their headings are preferred. If the records are not online or have been transferred, please identify the **holding institution, index, microfilm, or retention/disposition information**. I understand the City has been moving historical records into an electronic document system. If the 1922 Council minutes were migrated, could you identify their current digital collection, record links or physical custody?
 
 I would appreciate a **fee estimate before any chargeable research or copying**. Please do not incur charges without my approval.
 
@@ -38,8 +38,10 @@ Rodney Young
   - `1922-barry-mcanulty-poolhall-license-recorder-request-2026-11-15.md`
 - **Separate custodians, separate requests:** County Recording (1922 Harding–Wolf–Gates deeds) and OHS (MSS 1503 Block 4 title abstract) remain independently actionable under `1922-deed-and-ohs-request-drafts-2026-08-28.md`. County Assessment & Taxation may hold historical improvement/assessment rolls; ask Recorder for referral, or send a separate assessor-specific request.
 - Distinguish **property title, physical building construction, business operator, and licensee**; a license grant alone cannot prove the 505 building's construction date.
-- Track sending date, reply, custodian/series, fees, scanned pages, visual verification, and cross-record propagation in the corresponding callouts. **1922 IN PROGRESS**.
+- Track sending date, reply, custodian/series, fees, scanned pages, visual verification, and cross-record propagation in the corresponding callouts. **1922 ONLINE COMPLETE**, with these manual retrievals still open.
 
 ## Annual minutes and report scope — draft only
 
 Please also identify the complete 1922 meeting inventory and any surviving annual report. Include the Block 4 alley certificate or acceptance actions reported around November 1 and 10 and the December 15 assessment hearing (S-398). Keep these public-works records separate from the private Gates building file. The consolidated request remains unsent.
+
+The November 25 access check found older WebDrawer record references in the web index, but the direct PDF downloads returned 404. If the minutes were migrated, please identify the current digital collection or physical custody for the 1922 volumes. See the [access check](../../evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md).
