@@ -36,7 +36,7 @@ jobs:
               if not pdf.is_file():
                   data = subprocess.check_output([
                       "curl", "--fail", "--silent", "--show-error", "--location",
-                      "--retry", "4", "--connect-timeout", "15", "--max-time", "120",
+                      "--ipv4", "--retry", "2", "--connect-timeout", "12", "--max-time", "50",
                       item["source_url"],
                   ])
               else:
@@ -51,10 +51,16 @@ jobs:
               manifest = json.loads((folder / "manifest.json").read_text())
               if len(manifest["items"]) != count:
                   raise ValueError(f"Unexpected page count: {batch}")
-              with ThreadPoolExecutor(max_workers=6) as pool:
-                  list(pool.map(preserve, ((folder, item) for item in manifest["items"])))
+              def retrieve(entry):
+                  try:
+                      preserve(entry)
+                  except (ValueError, subprocess.CalledProcessError) as exc:
+                      print(f"::warning::Could not preserve {entry[1]['file']}: {exc}", flush=True)
 
-      - name: Validate and commit scan PDFs
+              with ThreadPoolExecutor(max_workers=4) as pool:
+                  list(pool.map(retrieve, ((folder, item) for item in manifest["items"])))
+
+      - name: Validate and commit all successfully verified scan PDFs
         run: |
           set -euo pipefail
           python -m pip install -r requirements.txt
@@ -69,3 +75,6 @@ jobs:
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' rebase origin/main
           python scripts/validate_archive.py
           git push origin HEAD:main
+      - name: Verify all 76 originals are present
+        working-directory: newspapers/oregon-city-enterprise/1915-pages-353-428
+        run: sha256sum --check --quiet sha256.txt
