@@ -136,7 +136,7 @@ The same ledger records **503 Main / Store**, **503½ / Barber Shop**, and layer
 
 ## January–9 April 1915 — Enterprise visual checkpoint
 
-The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman advertised at Fifth/Main; the early ad transcribed as A. J. Eddy places Fashion Stable on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
+The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman advertised at Fifth/Main; the January 8 ad places W. S. Eddy at Fashion Stable on Fifth between Main and Water (original initials corrected under `E-377`); March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
 
 ## Spring 1915 — Holman & Randall formation and Main Street planning
 
@@ -180,7 +180,11 @@ The municipal-debt report says **Fifth Street** was improved with city day labor
 
 ## December 1915 - Courier year-end visual completion
 
-The final 46 supplied *Oregon City Courier* December images were visually inspected (`S-122` / `E-110`), bringing the Courier inventory to **123/123 scan sheets processed through 30 December**. Directories on five December dates continue **Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527**; Holman/Randall continues at Fifth/Main and Scripture & May remains unnumbered. A 2 December editorial continues the Fifth Street improvement/payment controversy. No exact 503/505 occupant, new numbered Fifth address, or target-frontage demolition/rebuild statement was established in the batch; these are coverage limits, not absence evidence. 1915 remains IN PROGRESS pending Enterprise and other-source work, with M01-M04 still open.
+The final 46 supplied *Oregon City Courier* December images were visually inspected (`S-122` / `E-110`), bringing the Courier inventory to **123/123 scan sheets processed through 30 December**. Directories on five December dates continue **Bradley 507 / Brightbill 509 / Harding 511 / Theroux 519 / Price Bros. 527**; Holman/Randall continues at Fifth/Main and Scripture & May remains unnumbered. A 2 December editorial continues the Fifth Street improvement/payment controversy. No exact 503/505 occupant, new numbered Fifth address, or target-frontage demolition/rebuild statement was established in the batch; these are coverage limits, not absence evidence. The later [1915 annual closeout](evidence/source-captures/1915-annual-online-closeout.md) certifies ONLINE COMPLETE and retains M01–M04.
+
+## November–December 1915 — Enterprise year-end business controls
+
+November 19 repeats H. P. Brightbill at **509 Main**. December 17 places Price Bros. at **Sixth and Main**, alongside the Courier's precise **527 Main** address. W. S. Eddy's Fashion Stable ads continue on Main between Fourth and Fifth through December 31. The New Year greeting corroborates Mass' Hotel without its number (`E-377`, `T-120`).
 
 ## 3 February 1916 — Springfield antecedent, not Oregon City occupancy
 
@@ -216,6 +220,10 @@ CCHS MOT:P-502 (`S-209` / `E-189` / `IMG-0738`) catalogs a photograph as **G. H.
 ### 1907/1916 — CCHS MOT:P-370 duplicate-date conflict
 
 CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly shows **NEW & SECONDHAND YOUNG'S CURIO STORE** and is cataloged at **507 Main**. Structured date **1916** conflicts with the description's statement that duplicate **MOT:P-6253** is the same picture dated **1907**. Preserve the exposure date as an **UNRESOLVED CONFLICT**.
+
+## January 1917 — Portland House property purchase reported
+
+January 11 Courier p1 reports that Frank Beck purchased the 34-by-105-foot Fifth/Main lot for about $8,500 on Monday, calendar-derived January 8. Minnie L. Foster is named as prior owner and Dillman & Howland as intermediary. That publication corroborates Foster's 1915 property role and is separate from the 1916 lease. Recorded deed and exact metes and bounds remain open (`E-378`, `T-121`).
 
 ## 1917 — selected 108 Fifth, 519, 617 and 619 Main anchors
 

@@ -32,12 +32,12 @@
 
 ### Enterprise visual update through 9 April 1915
 
-**E-111/S-123** adds an unnumbered but useful Fifth Street anchor: A. J. Eddy advertised at **Fashion Stable, Fifth Street between Main and Water Streets**, beginning with the visually verified 8 January p7 notice and recurring in the reviewed period. R. L. Holman's 1 January p5 advertisement separately says he had moved to **Fifth and Main**. Neither relative-location statement is assigned to 501/503/505 or to 102/104/106/108/110 Fifth without an independent numbered source. No new numbered Fifth address was established in Enterprise pages 1–120.
+**E-111/S-123** adds an unnumbered but useful Fifth Street anchor: W. S. Eddy advertised at **Fashion Stable, Fifth Street between Main and Water Streets**, beginning with the visually verified 8 January p7 notice and recurring in the reviewed period. R. L. Holman's 1 January p5 advertisement separately says he had moved to **Fifth and Main**. Neither relative-location statement is assigned to 501/503/505 or to 102/104/106/108/110 Fifth without an independent numbered source. No new numbered Fifth address was established in Enterprise pages 1–120.
 
 
-**1915 relative-location anchor:** `S-124` / `E-112` visually verifies **W. S. Eddy at the Fashion Stable, Fifth Street between Main and Water Streets**, with no number printed. Do not assign 102/104/106/108/110 from this wording. The earlier pages-1-120 record transcribes a January notice as A. J. Eddy; preserve that initials discrepancy pending direct recheck rather than merging the identities.
+**1915 relative-location anchor:** `S-124` / `E-112` visually verifies **W. S. Eddy at the Fashion Stable, Fifth Street between Main and Water Streets**, with no number printed. Do not assign 102/104/106/108/110 from this wording. The January 8 original was rechecked and the previous A. J. Eddy transcription was corrected under `E-377`.
 
-`S-128` / `E-114` extends W. S. Eddy / Fashion Stable's unnumbered **Fifth Street between Main and Water** location through at least **11 June 1915**. No numbered Fifth address is inferred, and the earlier A. J. / W. S. initials discrepancy remains open pending recheck.
+`S-128` / `E-114` extends W. S. Eddy / Fashion Stable's unnumbered **Fifth Street between Main and Water** location through at least **11 June 1915**. No numbered Fifth address is inferred.
 
 ### Fifth Street address-reconstruction goal
 
@@ -176,3 +176,7 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 - **426 Main** — Sanborn `SM-010` maps the Portland House, with 204 on the Fifth side. The August 13 Enterprise directly identifies Foster's property at the southeast corner, giving a strong same-site match to the earlier map (`E-371`, `B-021`, `BUS-118`).
 - **Fifth between Main and Railroad Avenue** — September 3 p1 identifies the market's former location, without a numbered shed site (`E-371` / `S-408`).
 - **Sixth and Main / 527 Main** — the Enterprise reports the Price Bros. iron incident at the intersection. The same business at 527 is independently advertised in the Courier (`E-372`, `E-107`).
+
+### 1915 year-end cross-check
+
+The November 19 Enterprise p5 advertisement directly confirms **509 Main / H. P. Brightbill**. December 17 p12 directly confirms **Price Bros. at Sixth/Main**, with **527 Main** separately printed by the Courier. January 8 p7 prints **W. S. Eddy** at Fashion Stable on Fifth between Main and Water, correcting the previous A. J. Eddy transcription. The later Fashion Stable ads give Main between Fourth and Fifth through December 31 (`E-377`).

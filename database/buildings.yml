@@ -327,6 +327,7 @@ buildings:
       - E-265
       - E-266
       - E-267
+      - E-377
 
       - E-190
       - E-211
@@ -350,6 +351,7 @@ buildings:
       - S-291
       - S-292
       - S-293
+      - S-410
 
       - S-210
       - S-237
@@ -384,6 +386,7 @@ buildings:
     - E-109
     - E-116
     - E-372
+    - E-377
     related_sources:
     - S-130
     - S-061
@@ -392,6 +395,7 @@ buildings:
     - S-120
     - S-121
     - S-407
+    - S-410
 
   - id: B-005
     name: 501 Main Street (historic / removed)
@@ -666,12 +670,15 @@ buildings:
     - BUS-118
     related_people:
     - P-410
+    - P-412
     related_evidence:
     - E-371
     - E-318
     - E-279
+    - E-378
     related_sources:
     - S-298
     - S-407
     - S-345
     - S-305
+    - S-247

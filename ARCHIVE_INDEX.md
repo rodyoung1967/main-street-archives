@@ -317,10 +317,10 @@ High-priority people/entities:
 
 ## Current annual-review checkpoints
 
-The canonical status and blockers are maintained in [registers/year-status.md](registers/year-status.md). **1917 is ONLINE COMPLETE**; no year is currently ONLINE + MANUAL COMPLETE.
+The canonical status and blockers are maintained in [registers/year-status.md](registers/year-status.md). **1915, 1916, 1917, 1919, and 1922 are ONLINE COMPLETE**; no year is currently ONLINE + MANUAL COMPLETE.
 
-- **1915 — IN PROGRESS:** Courier **123/123** sheets complete through year end. *Morning Enterprise* **225/428** images reviewed through 16 July page 1; **203 remain**, next 16 July page 2. Relevant Book 3 water-ledger audit and the 1915–1916 Polk Oregon City section review are complete. Other source classes and Courier exceptions M01–M04 remain.
-- **1916 — IN PROGRESS:** 104 issues / 884 pages inventoried. Courier **238/458** reviewed; Enterprise **0/426** in the exhaustive pass. Seven first-monthly June–December Courier issues are already included in the 238. **646 total newspaper pages remain**; next Courier page is 18 May page 4.
+- **1915 — ONLINE COMPLETE:** [formal annual closeout](evidence/source-captures/1915-annual-online-closeout.md). All **896 exposed weekly page images** across **105 issues** visually reviewed. Nine manual callouts remain, including the separate daily run and Courier source exceptions. Exact 503/505 occupancy remains unresolved.
+- **1916 — ONLINE COMPLETE:** [formal annual closeout](evidence/source-captures/1916-online-source-class-closeout-2026-09-13.md). Both titles account for 884 archive slots, with 883 intended pages visually certified and one true weekly Enterprise page carried as a documented retrieval gap.
 - **1917 — ONLINE COMPLETE:** [formal all-source closeout](evidence/source-captures/1917-online-source-class-closeout-2026-09-08.md), `S-303` / `E-277`. **104 issues / 852 slots / 849 genuine intended-date pages** visually reviewed across Courier and Enterprise; other required online source classes audited. Seven manual callouts remain; exact 503/505 occupants are unresolved and source silence is not vacancy evidence.
 
 ## 1917 ONLINE COMPLETE certification

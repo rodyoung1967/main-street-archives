@@ -17,7 +17,7 @@ Enterprise progress: **160/428 images = 40/107 four-page scan sheets**; **268 im
 
 A professional notice for **W. S. Eddy, V.S., M.D.V.** places him at the **Fashion Stable, Fifth Street, between Main and Water Streets**. The same relative-location notice recurs in this batch, including 14 May p7. This is a useful Fifth Street block anchor, but no street number is printed; no 102/104/106/108/110 Fifth number is inferred.
 
-The earlier pages-1-120 checkpoint transcribed a January notice as **A. J. Eddy**. Because the later scans clearly print **W. S. Eddy**, the initials are preserved as an unresolved transcription/identity discrepancy rather than silently merged. The January scan should be rechecked before any identity correction is made.
+The 2026-11-26 reinspection of original January 8 p7 under `E-377` corrected the earlier **A. J. Eddy** transcription to **W. S. Eddy**. The ad uses the same Fifth-between-Main-and-Water locator as this batch.
 
 ### 7 May p5 - Holman & Randall partnership formation
 

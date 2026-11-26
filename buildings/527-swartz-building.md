@@ -85,3 +85,7 @@ E-116/S-130, [pages 106–180](../evidence/source-captures/1916-courier-pages-10
 ## Enterprise corroboration of the July 1915 incident
 
 The August 6, 1915 Enterprise p3 independently places the Price Brothers store at **Sixth and Main** and names employee **Arthur Soesbe**, tailor and presser. It reports a burning tabletop and no building or stock damage. The August 5 Courier describes rear-store boards burning and advertises the store at **527 Main**. The different wording remains preserved. The combined evidence supports the inferred 527 location and July 30 incident date (`E-372` / `S-407`, `T-018`).
+
+### December 1915 Price Bros. corroboration
+
+The December 17 Enterprise p12 ad places Price Bros. at Sixth and Main. The Courier gives the exact 527 number through December 30 (`E-377` / `S-410`, `E-110` / `S-122`). This is dated business geography for an earlier storefront, with no physical continuity established to the 1935 building.

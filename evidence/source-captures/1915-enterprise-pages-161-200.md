@@ -31,7 +31,7 @@ The city-council report states that the ordinance calling for **improvement of M
 
 ### Fashion Stable - Fifth between Main and Water
 
-Recurring notices continue to place **W. S. Eddy, V.S., M.D.V.** at the **Fashion Stable, Fifth Street between Main and Water Streets**, through at least 11 June in this batch. No street number is printed. The earlier January transcription as A. J. Eddy remains an initials/transcription discrepancy pending direct recheck; the identities are not silently merged.
+Recurring notices continue to place **W. S. Eddy, V.S., M.D.V.** at the **Fashion Stable, Fifth Street between Main and Water Streets**, through at least 11 June in this batch. No street number is printed. The January 8 original was later rechecked and its earlier A. J. Eddy transcription corrected to W. S. Eddy (`E-377`).
 
 ### Holman & Randall continuity
 

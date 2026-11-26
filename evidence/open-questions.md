@@ -410,3 +410,7 @@ The 1911 Sanborn and 1915 Enterprise place the Portland House site on **the sout
 ### November 25, 2026 — Fashion Stable
 
 The October 1915 evidence (`E-375` / `S-409`) establishes the Fourth-to-Fifth Main Street locator by October 8. The June 11 ad still uses Fifth between Main and Water. Exact premises and the date and nature of the change remain open. The October ads provide no numbered bridge to 110 Fifth or 427 Main.
+
+### November 26, 2026 — 1915 annual reconciliation
+
+The online pass is complete. Exact 503/505 occupants and building continuity remain open, with municipal, title and tax records detailed in the [manual-work callouts](source-captures/1915-annual-online-closeout.md). January 8 p7 clearly reads W. S. Eddy (`E-377`), superseding the earlier A. J. Eddy transcription. Fashion Stable's exact numbered premises and location-change date are still unresolved.

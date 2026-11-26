@@ -185,7 +185,7 @@ Names/styles transcribed as printed. Group names do not identify the individual 
 
 | ID | Name | Role | Notes |
 | --- | --- | --- | --- |
-| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | April–June 1915 Fifth between Main/Water; by October 8, 1915 Main between Fourth/Fifth (`E-375` / `S-409`). Exact move date and number unresolved. |
+| P-396 | [W. S. Eddy](profiles/w-s-eddy.md) | Veterinarian / Fashion Stable professional | January–June 1915 Fifth between Main/Water; by October 8, 1915 Main between Fourth/Fifth (`E-375` / `S-409`). Exact move date and number unresolved. |
 
 ## January 1919 entity promotion
 <!-- 1919 January Enterprise Courier visual review — 2026-09-07 -->
@@ -266,3 +266,5 @@ The original three-page May 2000 SHPO form for 503 was recovered and visually re
 | --- | --- | --- | --- |
 | P-410 | [Minnie L. Foster](profiles/minnie-l-foster.md) | Reported Portland House property owner | `E-371`, `E-318`; `BUS-118`, `B-021`. |
 | P-411 | Arthur Soesbe | Tailor and presser at Price Brothers | August 6 Enterprise p3, `E-372` / `S-407`; `BUS-028`. |
+
+| P-412 | [Frank Beck](profiles/frank-beck.md) | Portland House co-lessee in 1916 and reported lot purchaser in January 1917 | `E-318`, `E-378`, `BUS-118`, `B-021` |

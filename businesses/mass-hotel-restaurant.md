@@ -7,3 +7,5 @@ The [October 28, 1915 Courier p5](https://oregonnews.uoregon.edu/lccn/sn00063698
 Both pages were visually inspected. The September 23 Main-near-Seventh location is a separate S-120 contextual anchor; no exact number is printed in these October/November reports. Renovation wording does not establish demolition/replacement, a final repair cost or real-estate title. The business succession in the same quarters is explicit; the legal interest and parcel remain open under RL-043.
 
 November 18 pp 1/5 provide subsequent dining/meeting references. [Batch page log and originals](../evidence/source-captures/1915-courier-sheets-101-110.md).
+
+The December 31, 1915 Enterprise merchant greeting names E. T. Mass and Mass' Hotel (`E-377` / `S-410`). It carries no street number.

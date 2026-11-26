@@ -4,7 +4,7 @@ Business ID: `BUS-103`. Related person: W. S. Eddy (`P-396`). Exact numbered pre
 
 ## Relative-location chronology
 
-- **April–June 1915:** W. S. Eddy professional notices place Fashion Stable on **Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`).
+- **January 8 and April–June 1915:** W. S. Eddy professional notices place Fashion Stable on **Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`).
 - **October 8, 15, 22 and 29, 1915:** p7 professional ads at **Fashion Stable between Fourth and Fifth on Main Street** (`E-375` / `S-409`), the earliest verified use of that locator.
 - **September 1916:** p7 ads again print the Fourth-to-Fifth Main locator, starting with September 1 (`E-324` / `S-351`).
 - **6 April–28 September 1917:** repeated ads place Fashion Stable **between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`; continued `E-260` / `S-286` and `E-261` / `S-287`; continued `E-262` / `S-288`).
@@ -50,3 +50,7 @@ Ads on 7, 14, 21 and 28 September p7 repeat W. S. Eddy / Fashion Stable between 
 ## October–December continuation
 
 The same p.7 advertisement appears in every October, November, and December Enterprise issue, extending the direct relative-location observation through **28 December 1917** (`E-274`–`E-276`; `S-300`–`S-302`). No exact number or target-premises link is printed.
+
+## 1915 year-end and January recheck
+
+The November–December Enterprise ads repeat the Main-between-Fourth/Fifth locator through December 31. The January 8 original reads W. S. Eddy and gives Fifth between Main and Water, superseding the earlier A. J. Eddy transcription (`E-377`, `S-123`, `S-410`).

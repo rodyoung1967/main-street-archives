@@ -721,3 +721,11 @@ The May 2000 form is recovered (S-406/E-369). Search Oregon City Planning and SH
 ## November 25, 2026 — Fashion Stable location-change window narrows to 1915
 
 The last verified Fifth-between-Main/Water ad in the reviewed spring batch is June 11 (`E-114` / `S-128`). Four p7 ads starting October 8 already print Main between Fourth and Fifth (`E-375` / `S-409`). Compare transfer, license, veterinary and stable advertising from summer and early fall 1915 for the exact number and nature of the change. The October 1 p7 directory lacks the notice and supplies no event date.
+
+## November 26, 2026 — undated photograph looking south from Sixth
+
+The City photograph compilation (`IMG-0767`) p49 card #39 supplies a separate elevated southward view down Main from Sixth. The original card and date basis are open under [1915-M09](source-captures/1915-annual-online-closeout.md). It is a geographic lead only. This frame differs from the CCHS 1896 street-level view, and fitting the buildings into a particular 1915 sequence would require reliable dating.
+
+### Portland House deed control
+
+The January 11, 1917 Courier p1 gives a reported purchase by Frank Beck, prior Minnie L. Foster ownership, a 34-by-105-foot lot and Dillman & Howland as intermediary (`E-378`). Search the January 1917 grantor/grantee index and instrument for **original Block 27**. This property is separate from the original Block 4 target parcels.

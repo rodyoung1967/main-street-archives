@@ -1706,7 +1706,7 @@ evidence:
     claims:
       - All 120 page images from January 1 through April 9 were visually inspected.
       - January 1 p5 states R. L. Holman moved to more commodious parlors at Fifth and Main; no number is printed.
-      - January 8 p7 and recurring professional notices place A. J. Eddy at Fashion Stable on Fifth Street between Main and Water Streets; no number is printed.
+      - January 8 p7 places W. S. Eddy at Fashion Stable on Fifth Street between Main and Water Streets, with no number. E-377 rechecked the original and corrected the former A. J. Eddy reading.
       - March 26 p1 reports a proposal to reuse serviceable bricks removed from Main Street on Singer Hill, corroborating physical paving removal/reworking.
       - April 2 p1 identifies improvement of Main Street among major 1915 public works; April 9 p3 records continued debate over paving material including El Oso and asphaltic concrete.
       - No defensible exact 503/505 occupant or new numbered Fifth Street occupant was identified; this is bounded coverage only, not vacancy or non-use evidence.
@@ -5817,3 +5817,43 @@ evidence:
     related_people:
     - P-396
     repository_file: evidence/source-captures/1915-enterprise-pages-313-352.md
+
+  - id: E-376
+    name: Final 76 weekly Enterprise scans and 1915 public works
+    type: Primary newspaper visual evidence
+    claims:
+    - All 76 original November and December Enterprise scans were visually inspected. See manifest for December folio and running-head variants.
+    - November 5 p5 reports W. O. Wellman's guilty plea, $50 fine and remission after $27.10 costs. November 26 p3 publishes the fiscal report and city street table.
+    - November 12 reports Sunday-closing litigation and December 31 reports county saloon closings. No target numbered occupant or building event established.
+    confidence: Direct for coverage and published statements. Strong case continuity with September, with discrepant printed initials retained.
+    related_sources: [S-410, S-120, S-121, S-122]
+    related_evidence: [E-107, E-109, E-110, E-373, E-374]
+    repository_file: evidence/source-captures/1915-enterprise-pages-353-428.md
+  - id: E-377
+    name: Year-end business locators and January veterinary-ad correction
+    type: Primary newspaper visual evidence
+    claims:
+    - November 19 p5 directly places H. P. Brightbill at 509 Main. December 17 p12 places Price Bros. at Sixth and Main, with 527 supplied separately by the Courier.
+    - The final nine issues place W. S. Eddy at Fashion Stable on Main between Fourth and Fifth. Reinspection of January 8 p7 confirms printed W. S. Eddy on Fifth between Main and Water and corrects the former A. J. Eddy transcription.
+    - December 31 sequence 6 identifies E. T. Mass with Mass' Hotel and gives no numbered premises.
+    confidence: Direct ad readings. No unsupported number, title, identity or building event.
+    related_sources: [S-410, S-123, S-122, S-409]
+    related_evidence: [E-107, E-109, E-110, E-111, E-375]
+    related_buildings: [B-003, B-004]
+    related_businesses: [BUS-027, BUS-028, BUS-030, BUS-103]
+    related_people: [P-042, P-045, P-396]
+    repository_file: evidence/source-captures/1915-enterprise-pages-353-428.md
+
+  - id: E-378
+    name: Frank Beck's reported 1917 purchase of the Portland House lot
+    type: Primary newspaper visual evidence
+    claims:
+    - January 11, 1917 Courier p1 reports that Frank Beck bought the 34-by-105-foot Portland House lot at Fifth and Main for about $8,500.
+    - The article names Minnie L. Foster as prior owner and Dillman & Howland as intermediary. January 8 is inferred from Monday wording.
+    confidence: Direct contemporary report. Recorded instrument and legal boundaries remain unresolved.
+    related_sources: [S-247, S-345, S-407, S-298]
+    related_evidence: [E-318, E-371, E-279]
+    related_buildings: [B-021]
+    related_businesses: [BUS-118]
+    related_people: [P-410, P-412]
+    repository_file: evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md

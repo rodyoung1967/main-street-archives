@@ -1498,3 +1498,7 @@ Checked the exact OHS abstract, county deed indexes, historical assessment rolls
 
 - Visually reviewed and preserved the 40 October Enterprise originals, all eight images for each of the five issues. All 352/428 Enterprise images through October 29 have been reviewed. November 5 sequence 1 is page 353 and starts the remaining 76 images.
 - Linked October's Fashion Stable and W. S. Eddy location evidence, Main Street paving records and neighboring property controls to the annual and entity registers. No exact 503/505 occupant established. Courier source exceptions remain open.
+
+## 2026-11-26 — 1915 ONLINE COMPLETE
+
+The weekly Enterprise review added 76 original images and reached **428/428**. The Courier supplied **468/468** exposed scans already visually reviewed. The refreshed issue inventory confirms **105 issues / 896 exposed images**. The [annual closeout](../evidence/source-captures/1915-annual-online-closeout.md) reconciles other source classes and lists nine manual callouts. `E-376` and `E-377` capture the year-end results, including the January 8 W. S. Eddy transcription correction. The original 503 and 505 occupancy questions remain open. The photo compilation's page 49 card #39 is undated.

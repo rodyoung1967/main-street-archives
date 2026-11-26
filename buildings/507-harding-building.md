@@ -221,3 +221,7 @@ CCHS `P-1043` (`S-237` / `E-211` / `IMG-0758`), dated **1930–1939**, directly 
 ### December 1922 Red Front control
 
 Red Front Clothing Store advertises a two-week sacrifice sale to raise $10,000 for overdue bills, Main Street opposite the post office. No numbered address, actual closure, completed property sale or proprietor name is printed. This directly documents the advertised business in December; 507 remains the earlier exact address and July inference, not a new December numbered claim. E-363/S-399/T-113; BUS-074.
+
+### Independent November 1915 control at 509 Main
+
+The November 19 Enterprise p5 grocery advertisement independently names H. P. Brightbill at 509 Main (`E-377` / `S-410`). It places the advertiser at the historical number and supplies no evidence about the later combined building.

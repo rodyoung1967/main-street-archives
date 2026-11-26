@@ -830,7 +830,7 @@ Canonical URL pattern: https://oregonnews.uoregon.edu/lccn/sn00063700/YYYY-MM-DD
 Repository: `newspapers/oregon-city-enterprise/1915-pages-001-120/`; exact URLs and SHA-256 hashes in `manifest.json`.
 Media: `IMG-0249` through `IMG-0368`.
 Evidence: `E-111`; detailed review `evidence/source-captures/1915-enterprise-pages-001-120.md`.
-Notes: All 120 scans visually inspected. Holman move to Fifth/Main verified 1 Jan p5; A. J. Eddy/Fashion Stable verified on Fifth between Main and Water; Mar 26, Apr 2 and Apr 9 pages extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth occupant identified; coverage only. Pause after 9 Apr p8; next 16 Apr p1.
+Notes: All 120 scans visually inspected. Holman move to Fifth/Main verified 1 Jan p5; W. S. Eddy/Fashion Stable verified on Fifth between Main and Water (January 8 initials rechecked under E-377); Mar 26, Apr 2 and Apr 9 pages extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth occupant identified; coverage only. Pause after 9 Apr p8; next 16 Apr p1.
 
 
 ## S-124 - Morning Enterprise 1915 visual batch, chronological pages 121-160
@@ -1995,7 +1995,7 @@ Issues: **11 January 1917 (8 pages); 18 January 1917 (8 pages); 25 January 1917 
 Preserved originals: `newspapers/oregon-city-courier/1917-january-unsampled/`
 Manifest: `newspapers/oregon-city-courier/1917-january-unsampled/manifest.json`
 Retrieval commit: `032e40d834369295984b4ab66bf9fa783adb9d73`
-Related evidence/business/building: `E-221`; `BUS-100`, `BUS-101`; `B-016`.
+Related evidence/business/building: `E-221`, `E-378`; `BUS-100`, `BUS-101`, `BUS-118`; `B-016`, `B-021`.
 Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.
 Notes: 25 Jan. p.6 directly prints W. B. Eddy's Store at **427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market**. The three issues also repeat 108 Fifth and 619 Main anchors. No exact 501/503/505/507/509/511 occupant was found in this bounded batch; silence is not vacancy evidence.
 
@@ -3637,3 +3637,10 @@ Coverage: October 1–29, 40 pages.
 URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-10-01/ed-1/
 Repository: `newspapers/oregon-city-enterprise/1915-pages-313-352/`. Capture: `evidence/source-captures/1915-enterprise-pages-313-352.md`.
 Evidence: `E-374`, `E-375`. Media: `IMG-0866-IMG-0905`.
+
+## S-410 — November–December 1915 Oregon City Enterprise visual review
+Type: Primary weekly newspaper scans, all visually verified.
+Coverage: November 5–December 31, 76 images from nine issues.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-11-05/ed-1/
+Repository: `newspapers/oregon-city-enterprise/1915-pages-353-428/`. Capture: `evidence/source-captures/1915-enterprise-pages-353-428.md`.
+Evidence: `E-376`, `E-377`. Media: `IMG-0906–IMG-0981`.

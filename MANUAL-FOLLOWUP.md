@@ -690,3 +690,16 @@ The 1922 status is **ONLINE COMPLETE**. The [annual closeout](evidence/source-ca
 ## November 25, 2026 — Fifth and Main records access
 
 MF-006 and MF-007 remain the first records to retrieve for lot geometry. The November 25 preflight identifies the exact 1922-inclusive Clackamas index series, OHS Box 19 request, and the current limits of the City minutes route. See [property split records access](evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md). Requests remain drafted and unsent.
+
+## 1915 ONLINE COMPLETE — numbered manual work
+
+The nine remaining callouts and their exact targets, impacts and access routes are in the [1915 annual closeout](evidence/source-captures/1915-annual-online-closeout.md).
+
+- **1915-M01–M04 / MF-028** — verify the January 14, October 14, September 2 and November 11 Courier source/folio exceptions from original microfilm.
+- **1915-M05** — inspect the separate 1915 daily Morning Enterprise run on microfilm.
+- **1915-M06** — inspect the Recorder's minutes, licenses, permits and Main/Fifth improvement files.
+- **1915-M07** — inspect the 1915 county land and lot index and assessment rolls for original Block 4.
+- **1915-M08** — inspect county direct/indirect indexes, instruments and the OHS Block 4 title abstract.
+- **1915-M09** — seek original City photograph card #39 and date basis for the view south from Sixth and Main.
+
+The 1915–16 Polk Oregon City section callout `1915-D01` was completed under `S-132` / `E-118`. No outreach or paid access was initiated.

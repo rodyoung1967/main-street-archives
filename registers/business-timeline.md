@@ -408,3 +408,12 @@ Banner-Courier December 28 p7 directly advertises D. M. Klemsen & Son, staple an
 | November 1911 | 426 Main, southeast Fifth/Main | Portland House (`BUS-118`) | `SM-010`, `E-371` | Mapped boarding premises. |
 | August 6, 1915, reporting prior Friday | Sixth and Main | Price Brothers (`BUS-028`) | `E-372` | Independent electric-iron report, tailor/presser named. The 527 number comes from the separate Courier directory. |
 | August 13, 1915 | Southeast Fifth/Main | Portland House (`BUS-118`) | `E-371` | Mrs. M. L. Foster described as property owner. The 426 connection is a cross-source site identification. |
+
+### November–December 1915 Enterprise cross-check
+
+| Date | Business / location | Evidence |
+| --- | --- | --- |
+| November 19 | H. P. Brightbill Grocery, 509 Main | Direct Enterprise ad corroborates Courier (`E-377`). |
+| December 17 | Price Bros., Sixth and Main | Direct relative Enterprise location. Courier gives 527 Main (`E-377`, `E-110`). |
+| Through December 31 | W. S. Eddy / Fashion Stable, Main between Fourth and Fifth | Nine year-end ads. Earlier January 8 W. S. Eddy ad locates him on Fifth between Main and Water (`E-377`). |
+| December 31 | E. T. Mass / Mass' Hotel | Name corroboration. Exact number remains open (`E-377`). |

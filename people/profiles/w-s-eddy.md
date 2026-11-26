@@ -4,7 +4,7 @@ Person ID: `P-396`. Related business: `BUS-103` (Fashion Stable).
 
 ## Documented chronology
 
-- **April–June 1915 notices:** visually verified Enterprise evidence places **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`). No street number is printed.
+- **January 8 and April–June 1915 notices:** visually verified Enterprise evidence places **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`). No street number is printed.
 - **October 8, 15, 22 and 29, 1915:** p7 professional ads place him at **Fashion Stable between Fourth and Fifth on Main Street** (`E-375` / `S-409`).
 - **September 1916:** ads repeat the Fourth-to-Fifth Main locator, including September 1 (`E-324` / `S-351`).
 - **6 April–28 December 1917:** repeated visually reviewed professional ads place **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, between Fourth and Fifth on Main Street** (`E-252`–`E-262`; continued `E-274`–`E-276` / `S-300`–`S-302`). No street number is printed.
@@ -13,7 +13,7 @@ The identical initials, professional credentials and Fashion Stable name strongl
 
 ## Identity limits
 
-Do **not** merge W. S. Eddy with **W. B. Eddy / W. B. Eddy's Store (`BUS-100`) at 427 Main** merely by surname and initial. The printed initials differ and no source currently bridges them. Earlier 1915 **A. J. Eddy** wording likewise remains separate unless independently reconciled.
+Do **not** merge W. S. Eddy with **W. B. Eddy / W. B. Eddy's Store (`BUS-100`) at 427 Main** merely by surname and initial. The printed initials differ and no source currently bridges them. The January 8 p7 original clearly reads **W. S. Eddy**, correcting the earlier A. J. Eddy transcription (`E-377` / `S-123`).
 
 Do not assign W. S. Eddy/Fashion Stable to 427 Main, 110 Fifth, or another numbered building from the relative-location wording alone.
 
@@ -49,3 +49,7 @@ The 7/14/21/28 September p7 ads repeat the same name, credentials, business and 
 ## October–December continuation
 
 Every October, November, and December Enterprise issue repeats the p.7 professional ad; latest verified date is **28 December 1917** (`E-274`–`E-276`; `S-300`–`S-302`).
+
+## November–December 1915
+
+All nine year-end Enterprise issues repeat the Main-between-Fourth/Fifth locator through December 31 (`E-377` / `S-410`). The advertisements carry no exact street number.

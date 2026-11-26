@@ -1094,3 +1094,12 @@ S-406 ↔ E-369 ↔ B-001 / BUS-004 / P-007 / P-008. The owner field is a dated 
 | --- | --- | --- |
 | `E-374` / `S-409` | `IMG-0866–IMG-0905` | 40 original pages, public works and property controls. |
 | `E-375` / `S-409` | `BUS-103`, `P-396`, `T-119` | Fashion Stable on Main between Fourth and Fifth by October 8. |
+
+## 1915 year-end Enterprise
+
+| Evidence / source | Related IDs | Finding |
+| --- | --- | --- |
+| `E-376` / `S-410` | `IMG-0906–IMG-0981` | Final 76 scans, municipal, folio and licensing controls. |
+| `E-377` / `S-410`, `S-123`, `S-122` | `B-003`, `B-004`, `BUS-027`, `BUS-028`, `BUS-030`, `BUS-103`, `P-042`, `P-045`, `P-396`, `T-120` | Independent year-end business locators and corrected January 8 initials. |
+
+| `E-378` / `S-247` | `B-021`, `BUS-118`, `P-410`, `P-412`, `T-121` | Reported January 1917 purchase corroborates the 1915 Foster ownership record. |

@@ -1,6 +1,6 @@
 # 1915 Oregon City Enterprise Page Review
 
-Status: **active / incomplete**
+Status: **428/428 exposed weekly images visually reviewed.** See the [year-end visual audit](1915-enterprise-pages-353-428.md) and [annual ONLINE COMPLETE record](1915-annual-online-closeout.md). Entries below are earlier checkpoints.
 
 ## Exhaustive-pass supersession checkpoint - 18 June 1915
 

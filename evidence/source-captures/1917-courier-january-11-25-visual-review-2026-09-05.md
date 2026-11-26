@@ -76,3 +76,7 @@ Across these **24 newly reviewed page scans**, no defensible exact **501, 503, 5
 4. the **Sohns & Woodbeck 1916–1917 directory, Oregon City section** gap, including the 501/503/505/507/509/511 sequence.
 
 The new 427 Main corner anchor should be used as a spatial and occupancy control, not as a substitute for the unresolved target-address evidence.
+
+## November 26, 2026 recheck — Portland House property purchase reported
+
+The [January 11 page 1 original](../../newspapers/oregon-city-courier/1917-january-unsampled/1917-01-11-seq-01.pdf) announces that **Frank Beck** bought the **34-by-105-foot lot at Fifth and Main** on which the Portland House stood for **about $8,500**. It names **Mrs. Minnie L. Foster** as the prior owner and **Dillman & Howland** as the intermediary. “Monday” gives **January 8, 1917** by calendar inference. The newspaper establishes the reported purchase and a useful lot-size control. The grantor wording, recording date and exact surveyed description require the deed. Frank's 1916 lease with Mark Beck is a separate interest. See `E-378`, `T-121` and the [Portland House site](../../buildings/426-main-portland-house-site.md).

@@ -227,3 +227,7 @@ Source `S-123` / evidence `E-111` adds three visually verified stages to the pav
 ## October Enterprise corroboration
 
 The October 8 p3 council account reports assessment corrections for Main Street, orders the balances for Main, Seventh and Tenth street improvements paid, and describes a conditional trial arrangement for a pavement flusher. October 29 p5 reports the intention to keep the former Worswick paving plant on the riverbank through winter and lists Main, Third, Seventh, Tenth and John Adams as improved over summer. See [October audit](1915-enterprise-pages-313-352.md) (`E-374` / `S-409`). The November 4 Courier is the separate acceptance milestone.
+
+## November Enterprise fiscal and labor follow-up
+
+November 5 p5 reports paving superintendent W. O. Wellman's guilty plea and $50 fine remitted after payment of $27.10 costs. September prints different initials. The company, superintendent role and eight-hour charge strongly support continuity, with the conflict preserved. November 26 p3 reproduces Loder's street-spending table, which distinguishes the city's share and total project costs. See [final batch](1915-enterprise-pages-353-428.md) (`E-376` / `S-410`).

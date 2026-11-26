@@ -813,7 +813,7 @@ Related: `E-054`, `E-107`, `E-109`; `BUS-007`, `BUS-026`, `BUS-027`, `BUS-028`, 
 ## E-111 — 1915 Enterprise pages 1–120 visual review
 Type: Primary newspaper visual review; source `S-123`.  
 Record: `evidence/source-captures/1915-enterprise-pages-001-120.md`.  
-Claims: All 120 page images from 1 January through 9 April were visually inspected. Jan 1 p5 says R. L. Holman moved to Fifth/Main. Jan 8 p7 and recurring notices place A. J. Eddy at Fashion Stable on Fifth between Main and Water. Mar 26 p1 reports proposed reuse of bricks removed from Main Street; Apr 2 p1 identifies Main Street improvement as a major 1915 public work; Apr 9 p3 records the paving-material debate. No exact 503/505 or new numbered Fifth occupant is established; coverage only.  
+Claims: All 120 page images from 1 January through 9 April were visually inspected. Jan 1 p5 says R. L. Holman moved to Fifth/Main. Jan 8 p7 places W. S. Eddy at Fashion Stable on Fifth between Main and Water. The former A. J. Eddy transcription is corrected in E-377. Mar 26 p1 reports proposed reuse of bricks removed from Main Street; Apr 2 p1 identifies Main Street improvement as a major 1915 public work; Apr 9 p3 records the paving-material debate. No exact 503/505 or new numbered Fifth occupant is established; coverage only.
 Confidence: Very High for the visually readable location and public-works wording; exact numbered mapping and target occupancy unresolved.
 
 
@@ -3859,3 +3859,32 @@ Capture: `evidence/source-captures/1915-enterprise-pages-313-352.md`.
 Claims:
 - October 8, 15, 22 and 29 p7 print **W. S. Eddy, V.S., M.D.V.** at the **Fashion Stable, between Fourth and Fifth on Main Street**.
 - Earlier direct evidence in April–June 1915 places him at Fashion Stable on Fifth between Main and Water. The October dates precede the September 1916 and April 1917 documentation of the Fourth-to-Fifth Main locator. There is no number in the notices.
+
+## E-376 — Final 76 weekly Enterprise scans and 1915 public works
+Type: Primary newspaper visual evidence
+Sources: `S-410`, with `S-120`, `S-121` and `S-122` comparison.
+Confidence: Direct for dated reporting, issue contents and reviewed coverage. Strong case continuity for Wellman, with differing initials.
+Capture: `evidence/source-captures/1915-enterprise-pages-353-428.md`.
+Claims:
+- All 76 exposed page scans for November 5–December 31 visually reviewed. December 17 includes 12 distinct images. December 24 sequence 7 and December 31 sequence 8 retain same-date Morning Enterprise heads with weekly body controls.
+- November 5 reports Wellman's guilty plea, $50 fine remitted after payment of $27.10 costs, and prints W. O. Wellman. November 26 publishes Loder's fiscal report and street-work table.
+- The November 12 Sunday-closing litigation report names the Brunswick-Balke-Collender pool-table manufacturer. December 31 reports year-end saloon closings outside Oregon City. No target storefront is named in these two items.
+
+## E-377 — Year-end business locators and January veterinary-ad correction
+Type: Primary newspaper visual evidence
+Sources: `S-410`, `S-123`, `S-122`.
+Confidence: Direct for what the ads print. Exact numbers and business identities limited to the supported records.
+Capture: `evidence/source-captures/1915-enterprise-pages-353-428.md`.
+Claims:
+- November 19 sequence 5 names H. P. Brightbill and 509 Main. December 17 sequence 12 independently gives Price Bros. at Sixth/Main. The exact 527 number is supplied by the Courier, not the display ad.
+- The nine year-end issues repeat W. S. Eddy and Fashion Stable at Main between Fourth and Fifth. The January 8 sequence 7 scan plainly reads W. S. Eddy, correcting the prior A. J. Eddy transcription, and prints Fifth between Main and Water.
+- December 31 sequence 6 names E. T. Mass and Mass' Hotel without a numbered location.
+
+## E-378 — Frank Beck's reported 1917 purchase of the Portland House lot
+Type: Primary newspaper visual evidence
+Sources: `S-247`, with `S-345`, `S-407` and `S-298` comparison.
+Confidence: Direct contemporary purchase report and named prior owner. Monday maps to January 8 by calendar inference. The deed itself remains outstanding.
+Capture: `evidence/source-captures/1917-courier-january-11-25-visual-review-2026-09-05.md`.
+Claims:
+- January 11, 1917 Courier p1 reports Frank Beck's purchase of the 34-by-105-foot Portland House lot at Fifth/Main for about $8,500. It names Minnie L. Foster as former owner and Dillman & Howland as transfer intermediary.
+- This corroborates Foster's historical real-property role, distinct from the June 1916 Frank and Mark Beck lease. It leaves the legal conveyance and later ownership interest open.

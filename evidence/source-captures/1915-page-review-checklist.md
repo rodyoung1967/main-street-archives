@@ -1,8 +1,14 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS — Enterprise 352/428 through October 29; Courier visual pass complete with source exceptions**
+Status: **ONLINE COMPLETE** — see the [annual closeout and nine numbered manual callouts](1915-annual-online-closeout.md).
 
-## Current Enterprise checkpoint — October 29, 1915
+## Final newspaper checkpoint — December 31, 1915
+
+- **428/428** Enterprise scans across 53 issues. The [final November–December batch](1915-enterprise-pages-353-428.md) adds 76 reviewed images through December 31 sequence 8.
+- **468/468** exposed Courier images across 52 issues and 123 review batches. M01–M04 still represent source/folio questions. These counts track scanned images, including anomalies.
+- The new [1915 issue inventory](../../newspapers/1915-oregon-city-issue-inventory.json) reconciles both runs. Historical status notes below preserve the progress as recorded at each prior checkpoint.
+
+## October 29, 1915 checkpoint
 
 - All **40/40** October scans visually verified across five issues (`S-409`, `E-374`, `E-375`). [October audit](1915-enterprise-pages-313-352.md).
 - Contiguous Enterprise coverage is **352/428**. **Next: November 5 sequence 1, page 353.** 76 images remain.
@@ -228,5 +234,5 @@ The OCR-supported 1915 material depicts Main Street as an active existing commer
 ## Oregon City Enterprise (`sn00063700`)
 The Oregon City Enterprise was weekly in 1915 and remains mandatory. Its full **visual page-by-page** pass has not yet been completed. The title record confirms digitized archival holdings: https://oregonnews.uoregon.edu/lccn/sn00063700/
 
-## Current coverage warning
+## Historical coverage warning before the later visual passes
 **1915 remains IN PROGRESS.** Latest checkpoint: Courier through November25, with explicit source exceptions; December and allEnterprise remain pending. Older issue bullets retain historical OCR-only states where superseded by later dated checkpoints. No unfinished page is negative evidence, and no earlier lost cache is freshly certified here.

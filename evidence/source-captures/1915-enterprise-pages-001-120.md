@@ -39,7 +39,7 @@ R. L. Holman's advertisement states that the leading funeral director **“has m
 
 ### 8 January 1915 p7 and recurring notices — Fashion Stable on Fifth
 
-A. J. Eddy, V.S., M.D.V., advertises at the **Fashion Stable, Fifth Street, between Main and Water Streets**. The same relative-location notice recurs during this batch. This is a valuable Fifth Street block anchor between the commercial Main frontage and Water Street, but it is **unnumbered**. No 102/104/106/108/110 Fifth number is inferred from the wording.
+W. S. Eddy, V.S., M.D.V., advertises at the **Fashion Stable, Fifth Street, between Main and Water Streets**. The same relative-location notice recurs during this batch. This is a valuable Fifth Street block anchor between the commercial Main frontage and Water Street, but it is **unnumbered**. No 102/104/106/108/110 Fifth number is inferred from the wording.
 
 ### 26 March 1915 p1 — Main Street brick reuse proposal
 
@@ -60,3 +60,7 @@ Across these 120 visually inspected pages, no defensible exact **503 Main** or *
 ## Resume rule
 
 Resume at **16 April 1915 p1 / chronological Enterprise page 121**. OCR/text may be used for discovery, but the remaining 308 images do not count until their actual page scans are visually inspected. Courier 123/123 remains complete at the visual-review level, while Courier callouts M01–M04 and the remaining 1915 online-source/manual-work requirements remain open.
+
+### January 8 ad transcription correction, November 26, 2026
+
+Reinspection of the original January 8 p7 scan clearly reads **W. S. Eddy, V.S., M.D.V.** The previous **A. J. Eddy** reading is superseded. Match the printed name, credentials, college wording and Fifth-between-Main-and-Water location with the April–June ads. See `E-377` and the [year-end capture](1915-enterprise-pages-353-428.md).

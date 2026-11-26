@@ -1,6 +1,6 @@
 # 1915 Main Street Research
 
-Year status: **IN PROGRESS — exhaustive online pass active**.
+Year status: **ONLINE COMPLETE**. See the [annual closeout](1915-annual-online-closeout.md).
 
 This file is the current human-readable overview for 1915. The detailed page-by-page audit trail, historical pause checkpoints, source exceptions, and restart accounting remain in [1915-page-review-checklist.md](1915-page-review-checklist.md).
 
@@ -10,13 +10,13 @@ This file is the current human-readable overview for 1915. The detailed page-by-
 | --- | --- |
 | Online newspaper inventory | **105 issues / 896 page images** across the two confirmed Oregon City weeklies |
 | *Oregon City Courier* | **123/123 scan sheets visually reviewed through year end** |
-| *Morning Enterprise / Oregon City Enterprise* | **225/428 page images visually reviewed** through **16 July 1915 p1** |
-| Enterprise restart | **Chronological page 226 = 16 July 1915 p2** |
-| Enterprise remaining | **203 page images** |
+| *Oregon City Enterprise* (weekly) | **428/428 exposed weekly Enterprise images visually reviewed** through **December 31 sequence 8** |
+| Enterprise restart | **Annual weekly scan review complete** |
+| Enterprise remaining | **0 exposed weekly page images** |
 | Water ledger | **Relevant 1914–1915 Book 3 target/Fifth-Main audit complete**; exact-date and faint-handwriting bridge questions preserved |
-| Other online source classes | 1915–16 Polk gazetteer callout `1915-D01` completed through authenticated FamilySearch visual review (`S-132`/`E-118`); no target Main/Fifth number printed. Additional property, map, historic-resource, photograph and related-source audit remains pending |
+| Other online source classes | 1915–16 Polk gazetteer callout `1915-D01` completed through authenticated FamilySearch visual review (`S-132`/`E-118`); no target Main/Fifth number printed. All relevant online source classes reconciled in the annual closeout |
 | Courier source exceptions | **1915-M01 through M04 remain open** pending alternate-online recovery and/or manual confirmation |
-| Year closeout | **Not ONLINE COMPLETE** |
+| Year closeout | **ONLINE COMPLETE**, with nine numbered manual callouts |
 
 The research standard requires visual inspection of the actual scanned page images. OCR, text extraction, archive search and snippets are discovery aids only. Absence of a hit is a coverage statement, never proof of vacancy, demolition, closure, relocation or non-use.
 
@@ -43,7 +43,7 @@ The Enterprise visual review is **225/428 page images complete**. Every page cou
 
 **Exact pause:** chronological page **225 = 16 July 1915 p1**.  
 **Exact restart:** chronological page **226 = 16 July 1915 p2**.  
-**Remaining Enterprise work:** **203 page images**.
+**Remaining Enterprise work:** **0 exposed weekly page images**.
 
 ## Major verified 1915 findings
 
@@ -57,7 +57,7 @@ This is strong intersection/relative-location evidence. It does **not** by itsel
 
 Repeated Enterprise professional notices place **W. S. Eddy, V.S., M.D.V.**, at the **Fashion Stable, Fifth Street between Main and Water Streets**. This is a useful Fifth Street block anchor, but the notices do not print a numbered address. No 102/104/106/108/110 Fifth number is inferred from the wording.
 
-An earlier January checkpoint transcribed the initials as **A. J. Eddy**. Later scans clearly read **W. S. Eddy**. The discrepancy remains preserved pending direct recheck of the January scan; the identities must not be silently merged.
+Reinspection of the January 8 p7 scan confirms **W. S. Eddy** and corrects the previous **A. J. Eddy** reading. The same business advertises on Main between Fourth and Fifth from October 8 through December 31 (`E-377`, `E-375`).
 
 ### Frank D. Cox pool hall — directly excluded from 503 for the June raid episode
 
@@ -154,7 +154,7 @@ The completed Courier visual pass and Enterprise pages 1–225 have **not yet es
 - a target-building construction, demolition or rebuilding event directly tied to 501/503/505;
 - an exact 1915 **102/104/106/108 Fifth** occupant; 110 Fifth is now a 1914–15 ledger-period Stable anchor but its layered tenant/date remains unresolved;
 - a numbered address for the Fashion Stable notice;
-- resolution of the January **A. J. Eddy / W. S. Eddy** initials discrepancy.
+- the date and nature of the location change between the spring and October advertisements.
 
 These are unresolved research questions, not statements that the events or occupants did not exist.
 
@@ -184,7 +184,7 @@ Authenticated FamilySearch access recovered and visually verified the complete O
 
 The strongest direct dated 1915 newspaper evidence remains the later-year neighboring ladder at **507 / 509 / 511**, with additional anchors at 519 and 527. Book 3 now adds municipal period evidence: **503 = Store**, **503½ = Barber Shop**, a likely-vacancy unnumbered row in the expected 505 position, **107 Fifth = Blacksmith**, and **110 Fifth = Stable**. Those ledger rows span 1914–15 and cannot by themselves fix an exact 1915 occupant or month. The Fifth/Main undertaking evidence still does not map automatically to a numbered 501/503/505 storefront, and the June Enterprise Cox article positively removes Cox's raid-period pool hall from the 503 hypothesis.
 
-The exact 1915 tenants of **503 and 505 remain unresolved** after Enterprise page 352. The 505 vacancy hypothesis is stronger because `V` is now corroborated as a repeated ledger vacancy notation, but the target row remains unnumbered. These statements describe the evidence state only; they are not proof of a specific vacancy interval, demolition, or non-use.
+The exact 1915 tenants of **503 and 505 remain unresolved** after Enterprise page 428. The 505 vacancy hypothesis is stronger because `V` is now corroborated as a repeated ledger vacancy notation, but the target row remains unnumbered. These statements describe the evidence state only; they are not proof of a specific vacancy interval, demolition, or non-use.
 
 ## Enterprise checkpoint through September 24
 
@@ -193,3 +193,7 @@ The [July–August](1915-enterprise-pages-226-280.md) and [September](1915-enter
 ## Enterprise checkpoint through October 29
 
 The [October audit](1915-enterprise-pages-313-352.md) adds **40/40** original scans, for **352/428** overall. Four p7 advertisements place W. S. Eddy at Fashion Stable on Main between Fourth and Fifth by October 8. This lies south of the target block. The source gives no new exact 503/505 occupant or building event. The next page is November 5 sequence 1, and the Courier source exceptions remain open.
+
+## Final November–December Enterprise checkpoint
+
+The [final visual log](1915-enterprise-pages-353-428.md) records 76 images, including the 12-image December 17 issue. The online pass is complete at 428/428 Enterprise and 468/468 exposed Courier images. Exact target occupants remain unresolved. See [all-source reconciliation and nine numbered callouts](1915-annual-online-closeout.md).

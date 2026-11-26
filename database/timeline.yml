@@ -292,7 +292,7 @@ timeline:
 
   - id: T-022
     date: January 1-April 9, 1915
-    summary: First 120 Morning Enterprise pages visually reviewed. Holman states he moved to Fifth/Main; A. J. Eddy advertises at Fashion Stable on Fifth between Main and Water; March-April reports document Main Street brick removal/reuse planning, major-improvement context, and paving-material debate. No exact 503/505 or new numbered Fifth address is established.
+    summary: First 120 Morning Enterprise pages visually reviewed. Holman states he moved to Fifth/Main; W. S. Eddy advertises at Fashion Stable (January 8 p7 initials corrected by E-377) on Fifth between Main and Water; March-April reports document Main Street brick removal/reuse planning, major-improvement context, and paving-material debate. No exact 503/505 or new numbered Fifth address is established.
     confidence: Very High for visually verified printed wording; exact numbered target mapping unresolved
     related_evidence:
       - E-111
@@ -1303,3 +1303,26 @@ timeline:
     - S-409
     - S-124
     - S-128
+
+  - id: T-120
+    date: '1915-11-19'
+    title: Year-end Oregon City Enterprise business locator checks
+    summary: November 19 grocery advertisement prints H. P. Brightbill at 509 Main. December 17 Price Bros. advertisement separately
+      locates the business at Sixth and Main. The Courier supplies the exact 527 number through December 30. The Enterprise
+      repeats W. S. Eddy at Fashion Stable on Main between Fourth and Fifth through December 31.
+    related_businesses: [BUS-027, BUS-028, BUS-103]
+    related_buildings: [B-003, B-004]
+    related_people: [P-042, P-396]
+    related_evidence: [E-110, E-375, E-377]
+    related_sources: [S-122, S-409, S-410]
+
+  - id: T-121
+    date: '1917-01-08'
+    title: Frank Beck reportedly buys Portland House lot
+    summary: January 11 Courier reports Monday purchase by Frank Beck of 34-by-105-foot Fifth and Main site for about
+      $8,500. Minnie L. Foster is named prior owner. Calendar-derived event date. Deed not recovered.
+    related_businesses: [BUS-118]
+    related_buildings: [B-021]
+    related_people: [P-410, P-412]
+    related_evidence: [E-378, E-318, E-371]
+    related_sources: [S-247]
