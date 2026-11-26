@@ -1316,10 +1316,10 @@ businesses:
 
   - id: BUS-103
     name: Fashion Stable
-    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260, E-261, E-262, E-274, E-275, E-276]
-    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286, S-287, S-288, S-300, S-301, S-302]
+    related_evidence: [E-112, E-114, E-252, E-253, E-254, E-260, E-261, E-262, E-274, E-275, E-276, E-324, E-375]
+    related_sources: [S-124, S-128, S-279, S-280, S-281, S-286, S-287, S-288, S-300, S-301, S-302, S-351, S-409]
     repository_file: businesses/fashion-stable.md
-    address: "1915 Fifth Street between Main and Water; April 1917 Main Street between Fourth and Fifth; exact number unresolved"
+    address: "April–June 1915 Fifth Street between Main and Water; by October 8, 1915 Main Street between Fourth and Fifth; exact number unresolved"
     notes: >-
       Multi-date relative-location chronology through W. S. Eddy, continuing through 28 December 1917. The changed wording supports a move, changed premises, or changed location description but does not establish exact move date, title, lease, or numbered building. Not assigned to 110 Fifth, 427 Main, or 501/503/505.
     related_people: [P-396]

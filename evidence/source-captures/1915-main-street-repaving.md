@@ -223,3 +223,7 @@ Source `S-123` / evidence `E-111` adds three visually verified stages to the pav
 ## July–September Enterprise corroboration
 
 `E-370` / `S-407` adds the July 16 bond approval, July 23 projected start, July 30 shipment delay and two-shift arrangement, August 6 first equipment arrival, and August 13 actual lifting of bricks for plant setup near Twelfth Street. `E-373` / `S-408` independently confirms the September 10 report of the eight-hour-law case and September 24 report of the assessment's first reading ($14,861.01) with an October 6 protest date. See [July–August audit](1915-enterprise-pages-226-280.md) and [September audit](1915-enterprise-pages-281-312.md). These entries concern the street surface, tracks, finances and contract.
+
+## October Enterprise corroboration
+
+The October 8 p3 council account reports assessment corrections for Main Street, orders the balances for Main, Seventh and Tenth street improvements paid, and describes a conditional trial arrangement for a pavement flusher. October 29 p5 reports the intention to keep the former Worswick paving plant on the riverbank through winter and lists Main, Third, Seventh, Tenth and John Adams as improved over summer. See [October audit](1915-enterprise-pages-313-352.md) (`E-374` / `S-409`). The November 4 Courier is the separate acceptance milestone.

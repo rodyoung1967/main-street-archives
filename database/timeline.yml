@@ -1285,3 +1285,21 @@ timeline:
     related_sources:
     - S-407
     - S-408
+
+  - id: T-119
+    date: '1915-10-08'
+    title: W. S. Eddy advertises at Fashion Stable on Main between Fourth and Fifth
+    summary: The October 8, 15, 22 and 29 Enterprise professional notices identify this relative location. Earlier April–June
+      notices use Fifth Street between Main and Water. The actual location-change date and exact building are unresolved.
+    related_businesses:
+    - BUS-103
+    related_people:
+    - P-396
+    related_evidence:
+    - E-375
+    - E-112
+    - E-114
+    related_sources:
+    - S-409
+    - S-124
+    - S-128

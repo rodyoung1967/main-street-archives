@@ -3208,3 +3208,16 @@ sources:
     related_evidence:
     - E-371
     - E-373
+
+  - id: S-409
+    name: 1915 Oregon City Enterprise visual review, pages 313-352
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-10-01/ed-1/
+    notes: October 1–29, 40 pages. Original PDFs visually reviewed November 25, 2026. Per-scan provenance and SHA-256 hashes
+      are in newspapers/oregon-city-enterprise/1915-pages-313-352/manifest.json.
+    related_evidence:
+    - E-374
+    - E-375
+    related_businesses:
+    - BUS-103
+    related_people:
+    - P-396

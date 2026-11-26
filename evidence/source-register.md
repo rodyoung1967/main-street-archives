@@ -3630,3 +3630,10 @@ Coverage: September 3–24, 32 pages.
 URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-03/ed-1/
 Repository: `newspapers/oregon-city-enterprise/1915-pages-281-312/`. Capture: `evidence/source-captures/1915-enterprise-pages-281-312.md`.
 Evidence: `E-371`, `E-373`. Media: `IMG-0834-IMG-0865`.
+
+## S-409 — 1915 Oregon City Enterprise visual review, pages 313-352
+Type: Primary weekly newspaper scans, all visually verified.
+Coverage: October 1–29, 40 pages.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-10-01/ed-1/
+Repository: `newspapers/oregon-city-enterprise/1915-pages-313-352/`. Capture: `evidence/source-captures/1915-enterprise-pages-313-352.md`.
+Evidence: `E-374`, `E-375`. Media: `IMG-0866-IMG-0905`.

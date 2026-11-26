@@ -1493,3 +1493,8 @@ Checked the exact OHS abstract, county deed indexes, historical assessment rolls
 - Original scans for pages 226–312 visually reviewed and preserved. July–August adds 55 and September adds 32.
 - Portland House and public-market geography, Price Brothers incident and Main Street assessment sequence integrated into the relevant records.
 - Annual Enterprise coverage is 312/428. Next October 1 sequence 1. Courier source exceptions remain tracked.
+
+## 2026-11-25 — 1915 Enterprise through October
+
+- Visually reviewed and preserved the 40 October Enterprise originals, all eight images for each of the five issues. All 352/428 Enterprise images through October 29 have been reviewed. November 5 sequence 1 is page 353 and starts the remaining 76 images.
+- Linked October's Fashion Stable and W. S. Eddy location evidence, Main Street paving records and neighboring property controls to the annual and entity registers. No exact 503/505 occupant established. Courier source exceptions remain open.

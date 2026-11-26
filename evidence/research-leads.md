@@ -717,3 +717,7 @@ OQ-034/RL-048: E-364 supplies Newton + Fifth/Main + Logus estate and occupancy o
 ### 503 survey provenance follow-up
 
 The May 2000 form is recovered (S-406/E-369). Search Oregon City Planning and SHPO for the 1983/2000 supporting file, especially the exact 1926 newspaper issue and page. The general Enterprise bibliography supplies a lead only. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+## November 25, 2026 — Fashion Stable location-change window narrows to 1915
+
+The last verified Fifth-between-Main/Water ad in the reviewed spring batch is June 11 (`E-114` / `S-128`). Four p7 ads starting October 8 already print Main between Fourth and Fifth (`E-375` / `S-409`). Compare transfer, license, veterinary and stable advertising from summer and early fall 1915 for the exact number and nature of the change. The October 1 p7 directory lacks the notice and supplies no event date.

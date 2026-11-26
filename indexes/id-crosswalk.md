@@ -1087,3 +1087,10 @@ S-406 ↔ E-369 ↔ B-001 / BUS-004 / P-007 / P-008. The owner field is a dated 
 | `E-370` / `S-407`; `E-373` / `S-408` | `T-118` | Paving sequence and assessment, 87 inspected pages. |
 | `E-371` / `S-407`, `S-408`, `S-298` | `SM-010`, `B-021`, `BUS-118`, `P-410`, `T-117` | 426 Main site and separate market location. |
 | `E-372` / `S-407`, `S-120` | `B-004`, `BUS-028`, `P-043`, `P-411`, `T-018` | July 30 iron-incident corroboration with differing damage wording. |
+
+## October 1915 Enterprise
+
+| Evidence / source | Related IDs | Finding |
+| --- | --- | --- |
+| `E-374` / `S-409` | `IMG-0866–IMG-0905` | 40 original pages, public works and property controls. |
+| `E-375` / `S-409` | `BUS-103`, `P-396`, `T-119` | Fashion Stable on Main between Fourth and Fifth by October 8. |

@@ -230,6 +230,9 @@ CCHS MOT:P-370 (`S-210` / `E-190` / `IMG-0739`) visibly identifies Young's Curio
 
 | Period | Address / relative location | Business / person | IDs | Evidence | Limits |
 | --- | --- | --- | --- | --- | --- |
+| April–June 1915 verified dates | Fifth Street between Main and Water | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-112` / `S-124`, `E-114` / `S-128` | Direct relative-location wording. |
+| October 8–29, 1915 verified dates | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-375` / `S-409` | Ads on October 8, 15, 22 and 29. Exact number and actual date of change unresolved. |
+| September 1, 1916 and recurring | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-324` / `S-351` | Continues the advertised locator. |
 | 6 Apr.–28 Sep. 1917 verified span | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | latest `E-262` / `S-288` | Direct relative-location wording; no number or target-building continuity. |
 | 6 Apr.–29 Jun. 1917 | Main Street between Fourth and Fifth | Fashion Stable / W. S. Eddy | `BUS-103` / `P-396` | `E-252` / `S-279`; `E-253` / `S-280`; `E-254` / `S-281` | Repeated direct ads; exact move day/number unresolved. Not W. B. Eddy/427 by assumption. |
 

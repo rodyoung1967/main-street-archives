@@ -3840,3 +3840,22 @@ Claims:
 - All 32 scans for September 3, 10, 17 and 24 were visually inspected.
 - September 10 p1 corroborates the Worswick eight-hour-law case and says more than half of the work was complete by the arrest. September 24 p5 records a $14,861.01 Main Street assessment total, first reading, and October 6 protest opportunity.
 - September 17 county expenses list Scripture & May without an address. September 24 p4 discusses the poolroom-minor ordinance without identifying premises. No new exact target occupant or rebuilding event was found.
+
+## E-374 — October 1915 Enterprise visual review and public works
+Type: Primary newspaper visual evidence
+Sources: `S-409`, `S-120`, `S-121`.
+Confidence: High for visual coverage and newspaper wording. The basin title is disputed in the articles.
+Capture: `evidence/source-captures/1915-enterprise-pages-313-352.md`.
+Claims:
+- All 40 scans for October 1, 8, 15, 22 and 29 were visually inspected without an Enterprise retrieval gap.
+- October 8 p3 reports Main Street assessment corrections, payment of balances on Main, Seventh and Tenth, and a conditional pavement-flusher agreement. October 29 p5 reports intended winter retention of the former Worswick paving plant and lists the streets improved over summer.
+- October 15 pp1 and 5 place a disputed tract by the basin at the head of Main. October 1 and 15 transfer listings explicitly name additions with their own Block 4 numbers. No new exact target Main occupant or target building event was established.
+
+## E-375 — W. S. Eddy at Fashion Stable on Main between Fourth and Fifth in October 1915
+Type: Primary newspaper visual evidence
+Sources: `S-409`, with comparison to `S-124`, `S-128`, `S-351`, and `S-279`.
+Confidence: Direct observations of the advertised locations. Strong same-person and business link. The specific change, premises and date of change remain unresolved.
+Capture: `evidence/source-captures/1915-enterprise-pages-313-352.md`.
+Claims:
+- October 8, 15, 22 and 29 p7 print **W. S. Eddy, V.S., M.D.V.** at the **Fashion Stable, between Fourth and Fifth on Main Street**.
+- Earlier direct evidence in April–June 1915 places him at Fashion Stable on Fifth between Main and Water. The October dates precede the September 1916 and April 1917 documentation of the Fourth-to-Fifth Main locator. There is no number in the notices.

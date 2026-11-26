@@ -584,3 +584,7 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 ## 1915 Enterprise through September
 
 [July–August audit](evidence/source-captures/1915-enterprise-pages-226-280.md) and [September audit](evidence/source-captures/1915-enterprise-pages-281-312.md) document pages 226–312. See [Portland House at historic 426 Main](buildings/426-main-portland-house-site.md) (`B-021`) and the [annual checklist](evidence/source-captures/1915-page-review-checklist.md).
+
+### 1915 Enterprise through October 29
+
+The [October audit](evidence/source-captures/1915-enterprise-pages-313-352.md) adds 40 original scans and brings contiguous 1915 Enterprise coverage to 352/428. The [Fashion Stable record](businesses/fashion-stable.md) now includes W. S. Eddy at Main between Fourth and Fifth by October 8, 1915.

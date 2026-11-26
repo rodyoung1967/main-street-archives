@@ -1,8 +1,14 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS — Enterprise 312/428 through September 24; Courier visual pass complete with source exceptions**
+Status: **IN PROGRESS — Enterprise 352/428 through October 29; Courier visual pass complete with source exceptions**
 
-## Current Enterprise checkpoint — September 24, 1915
+## Current Enterprise checkpoint — October 29, 1915
+
+- All **40/40** October scans visually verified across five issues (`S-409`, `E-374`, `E-375`). [October audit](1915-enterprise-pages-313-352.md).
+- Contiguous Enterprise coverage is **352/428**. **Next: November 5 sequence 1, page 353.** 76 images remain.
+- October ads locate Fashion Stable on Main between Fourth and Fifth. The exact stable number and 503/505 occupants remain unresolved. Courier M01–M04 and other-source reconciliation remain open.
+
+## September 24, 1915 checkpoint
 
 - 87 additional scans visually verified, July 16 sequence 2 to September 24 sequence 8. [July–August batch](1915-enterprise-pages-226-280.md) and [September batch](1915-enterprise-pages-281-312.md).
 - Enterprise September is **32/32** and year-to-date contiguous Enterprise coverage is **312/428**. **Next: October 1 sequence 1, page 313.** 116 images remain.

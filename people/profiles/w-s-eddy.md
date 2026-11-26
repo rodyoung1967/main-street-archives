@@ -4,10 +4,12 @@ Person ID: `P-396`. Related business: `BUS-103` (Fashion Stable).
 
 ## Documented chronology
 
-- **23 April 1915 and later 1915 notices:** visually verified Enterprise evidence places **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`). No street number is printed.
+- **April–June 1915 notices:** visually verified Enterprise evidence places **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`). No street number is printed.
+- **October 8, 15, 22 and 29, 1915:** p7 professional ads place him at **Fashion Stable between Fourth and Fifth on Main Street** (`E-375` / `S-409`).
+- **September 1916:** ads repeat the Fourth-to-Fifth Main locator, including September 1 (`E-324` / `S-351`).
 - **6 April–28 December 1917:** repeated visually reviewed professional ads place **W. S. Eddy, V.S., M.D.V.** at **Fashion Stable, between Fourth and Fifth on Main Street** (`E-252`–`E-262`; continued `E-274`–`E-276` / `S-300`–`S-302`). No street number is printed.
 
-The identical initials, professional credentials and Fashion Stable name strongly bridge these as the same W. S. Eddy/business chronology. The changed relative location supports a move, changed stable premises, or changed location wording by April 1917, but does not establish the exact move date.
+The identical initials, professional credentials and Fashion Stable name strongly bridge these as the same W. S. Eddy/business chronology. The changed relative location supports a move, changed stable premises, or changed location wording by October 8, 1915, but does not establish the exact move date.
 
 ## Identity limits
 

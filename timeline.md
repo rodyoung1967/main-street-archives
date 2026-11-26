@@ -136,7 +136,7 @@ The same ledger records **503 Main / Store**, **503½ / Barber Shop**, and layer
 
 ## January–9 April 1915 — Enterprise visual checkpoint
 
-The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman advertised at Fifth/Main; A. J. Eddy/Fashion Stable was on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
+The first 120 *Morning Enterprise* pages are visually verified under `E-111` / `S-123`. Holman advertised at Fifth/Main; the early ad transcribed as A. J. Eddy places Fashion Stable on Fifth between Main and Water; March–April reports extend the Main Street paving chronology. No exact 503/505 or new numbered Fifth address is established.
 
 ## Spring 1915 — Holman & Randall formation and Main Street planning
 
@@ -162,6 +162,10 @@ August 13 reports that Mrs. M. L. Foster owned the Portland House property on th
 ## September 24, 1915 — Main Street paving assessment
 
 The Enterprise reports a $14,861.01 assessment and an October 6 protest opportunity. The summer Enterprise coverage records bond approval, plant shipment delay, equipment arrival and brick removal. Details and the September labor case are in [1915 Main Street Repaving](evidence/source-captures/1915-main-street-repaving.md) (`E-370`, `E-373`, `T-118`).
+
+## October 8–29, 1915 — W. S. Eddy at Fashion Stable on Main
+
+Four Enterprise notices identify W. S. Eddy at Fashion Stable **between Fourth and Fifth on Main Street**. April–June ads use **Fifth Street between Main and Water**. The exact move date, location-change mechanism and street number are unresolved (`E-375` / `S-409`, `T-119`). October 8 separately records paving assessment corrections and balances ordered paid. October 29 reports the planned winter retention of the paving plant (`E-374`).
 
 ## October 30, 1915 — Mass's opens in former Brunswick quarters
 
@@ -586,10 +590,10 @@ CCHS `2008.008.005.002` (`S-245` / `E-219` / `IMG-0765`) is titled **Oregon City
 
 A visually verified *Oregon City Courier* advertisement (`S-247` / `E-221`) gives **W. B. Eddy's Store (`BUS-100`)** at its **new location, 427 Main Street, Corner 5th** and says the building was formerly occupied by the **Strebig Meat Market (`BUS-101`)**. The ad does not identify Eddy's prior room, so no move from the 1915 526 Main `BUS-032` record is asserted. The former Strebig reference is likewise not merged with 1907 `BUS-047` without an independent identity/continuity bridge. The later 1922 Quality Restaurant at 427 is a same-address anchor, not proof that the same physical building survived.
 
-## April 1917 — Fashion Stable shifts relative-location evidence
+## April 1917 — Fashion Stable repeats the Fourth-to-Fifth Main Street locator
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
-Repeated *Oregon City Enterprise* professional ads place **W. S. Eddy (`P-396`) at Fashion Stable (`BUS-103`), between Fourth and Fifth on Main Street** (`E-252` / `S-279`). The archive's 1915 direct evidence had placed W. S. Eddy/Fashion Stable on **Fifth Street between Main and Water** (`E-112`, `E-114`). Treat this as a dated relative-location change supporting a possible move or changed premises/location wording, not as an exact move date or numbered-building assignment. It does not identify W. S. Eddy with W. B. Eddy's Store at 427 Main.
+Repeated *Oregon City Enterprise* professional ads place **W. S. Eddy (`P-396`) at Fashion Stable (`BUS-103`), between Fourth and Fifth on Main Street** (`E-252` / `S-279`). April–June 1915 ads place him on **Fifth Street between Main and Water** (`E-112`, `E-114`); October 1915 and September 1916 ads already use the April 1917 Main Street locator (`E-375`, `E-324`). Treat this as a dated relative-location change supporting a possible move or changed premises/location wording, not as an exact move date or numbered-building assignment. It does not identify W. S. Eddy with W. B. Eddy's Store at 427 Main.
 
 The same April batch reports a preparedness parade beginning at **Fifth and Main** with Henry Strebig leading the line; civic/intersection context only. True 13 April printed Page 8 remains a retrieval gap under `MF-051`.
 

@@ -2038,3 +2038,48 @@ Visually verified original newspaper PDFs. Each exact source URL, hash and any h
 | IMG-0863 | `newspapers/oregon-city-enterprise/1915-pages-281-312/1915-09-24-seq-06.pdf` | 1915-09-24 / 6 |
 | IMG-0864 | `newspapers/oregon-city-enterprise/1915-pages-281-312/1915-09-24-seq-07.pdf` | 1915-09-24 / 7 |
 | IMG-0865 | `newspapers/oregon-city-enterprise/1915-pages-281-312/1915-09-24-seq-08.pdf` | 1915-09-24 / 8 |
+
+## October 1915 Oregon City Enterprise original newspaper scans
+
+| Media ID | Repository file | Issue / sequence |
+| --- | --- | --- |
+| IMG-0866 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-01.pdf` | 1915-10-01 / 1 |
+| IMG-0867 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-02.pdf` | 1915-10-01 / 2 |
+| IMG-0868 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-03.pdf` | 1915-10-01 / 3 |
+| IMG-0869 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-04.pdf` | 1915-10-01 / 4 |
+| IMG-0870 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-05.pdf` | 1915-10-01 / 5 |
+| IMG-0871 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-06.pdf` | 1915-10-01 / 6 |
+| IMG-0872 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-07.pdf` | 1915-10-01 / 7 |
+| IMG-0873 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-01-seq-08.pdf` | 1915-10-01 / 8 |
+| IMG-0874 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-01.pdf` | 1915-10-08 / 1 |
+| IMG-0875 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-02.pdf` | 1915-10-08 / 2 |
+| IMG-0876 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-03.pdf` | 1915-10-08 / 3 |
+| IMG-0877 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-04.pdf` | 1915-10-08 / 4 |
+| IMG-0878 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-05.pdf` | 1915-10-08 / 5 |
+| IMG-0879 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-06.pdf` | 1915-10-08 / 6 |
+| IMG-0880 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-07.pdf` | 1915-10-08 / 7 |
+| IMG-0881 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-08-seq-08.pdf` | 1915-10-08 / 8 |
+| IMG-0882 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-01.pdf` | 1915-10-15 / 1 |
+| IMG-0883 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-02.pdf` | 1915-10-15 / 2 |
+| IMG-0884 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-03.pdf` | 1915-10-15 / 3 |
+| IMG-0885 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-04.pdf` | 1915-10-15 / 4 |
+| IMG-0886 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-05.pdf` | 1915-10-15 / 5 |
+| IMG-0887 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-06.pdf` | 1915-10-15 / 6 |
+| IMG-0888 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-07.pdf` | 1915-10-15 / 7 |
+| IMG-0889 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-15-seq-08.pdf` | 1915-10-15 / 8 |
+| IMG-0890 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-01.pdf` | 1915-10-22 / 1 |
+| IMG-0891 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-02.pdf` | 1915-10-22 / 2 |
+| IMG-0892 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-03.pdf` | 1915-10-22 / 3 |
+| IMG-0893 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-04.pdf` | 1915-10-22 / 4 |
+| IMG-0894 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-05.pdf` | 1915-10-22 / 5 |
+| IMG-0895 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-06.pdf` | 1915-10-22 / 6 |
+| IMG-0896 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-07.pdf` | 1915-10-22 / 7 |
+| IMG-0897 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-22-seq-08.pdf` | 1915-10-22 / 8 |
+| IMG-0898 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-01.pdf` | 1915-10-29 / 1 |
+| IMG-0899 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-02.pdf` | 1915-10-29 / 2 |
+| IMG-0900 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-03.pdf` | 1915-10-29 / 3 |
+| IMG-0901 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-04.pdf` | 1915-10-29 / 4 |
+| IMG-0902 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-05.pdf` | 1915-10-29 / 5 |
+| IMG-0903 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-06.pdf` | 1915-10-29 / 6 |
+| IMG-0904 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-07.pdf` | 1915-10-29 / 7 |
+| IMG-0905 | `newspapers/oregon-city-enterprise/1915-pages-313-352/1915-10-29-seq-08.pdf` | 1915-10-29 / 8 |

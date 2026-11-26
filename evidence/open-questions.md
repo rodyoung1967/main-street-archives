@@ -406,3 +406,7 @@ S-406/E-369 supplies the May 2000 individual form. MF-068 remains open for the e
 ### OQ-005 — Portland House geographic control, November 25, 2026
 
 The 1911 Sanborn and 1915 Enterprise place the Portland House site on **the southeast Fifth/Main corner in original Block 27**. The map prints **426 Main**. The 1915 newspaper corroborates the corner and Foster ownership without supplying the number. This removes the 1915 reference as evidence for an occupant at the odd-numbered 500-block corner. `E-371` / `B-021`. The 501 occupant question remains open.
+
+### November 25, 2026 — Fashion Stable
+
+The October 1915 evidence (`E-375` / `S-409`) establishes the Fourth-to-Fifth Main Street locator by October 8. The June 11 ad still uses Fifth between Main and Water. Exact premises and the date and nature of the change remain open. The October ads provide no numbered bridge to 110 Fifth or 427 Main.

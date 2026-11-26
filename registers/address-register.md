@@ -104,7 +104,7 @@ Newton's saved Quality restaurant is reported across the way from the laundry (`
 <!-- 1917 Enterprise April visual review and page-8 gap — 2026-09-06 -->
 
 - `E-112` / `S-124` (continued `E-114` / `S-128`) places **W. S. Eddy / Fashion Stable on Fifth Street between Main and Water** in 1915.
-- `E-252` / `S-279` places **W. S. Eddy / Fashion Stable on Main Street between Fourth and Fifth** repeatedly in April 1917.
+- `E-375` / `S-409` places **W. S. Eddy / Fashion Stable on Main Street between Fourth and Fifth** on October 8, 15, 22 and 29, 1915. The Main Street locator repeats in September 1916 (`E-324` / `S-351`) and April 1917 (`E-252` / `S-279`).
 
 Both are relative-location evidence. No numbered building record is created. Test a move or changed premises/entrance before mapping Fashion Stable to 110 Fifth, 427 Main, or another address.
 

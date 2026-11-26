@@ -4,7 +4,9 @@ Business ID: `BUS-103`. Related person: W. S. Eddy (`P-396`). Exact numbered pre
 
 ## Relative-location chronology
 
-- **1915:** W. S. Eddy professional notices place Fashion Stable on **Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`).
+- **April–June 1915:** W. S. Eddy professional notices place Fashion Stable on **Fifth Street between Main and Water Streets** (`E-112` / `S-124`; continued `E-114` / `S-128`).
+- **October 8, 15, 22 and 29, 1915:** p7 professional ads at **Fashion Stable between Fourth and Fifth on Main Street** (`E-375` / `S-409`), the earliest verified use of that locator.
+- **September 1916:** p7 ads again print the Fourth-to-Fifth Main locator, starting with September 1 (`E-324` / `S-351`).
 - **6 April–28 September 1917:** repeated ads place Fashion Stable **between Fourth and Fifth on Main Street** (`E-252` / `S-279`; continued `E-253` / `S-280` and `E-254` / `S-281`; continued `E-260` / `S-286` and `E-261` / `S-287`; continued `E-262` / `S-288`).
 
 This is direct evidence for two dated relative locations and a strong same-business bridge through W. S. Eddy's repeated name/credentials. It is not proof of a specific move date, lease, ownership, or physical-building continuity.

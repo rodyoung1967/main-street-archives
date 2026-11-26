@@ -5773,3 +5773,47 @@ evidence:
     - E-107
     - E-371
     repository_file: evidence/source-captures/1915-enterprise-pages-281-312.md
+
+  - id: E-374
+    name: October 1915 Enterprise visual review and public works
+    type: Primary newspaper visual evidence
+    claims:
+    - All 40 scans for October 1, 8, 15, 22 and 29 were visually inspected without an Enterprise retrieval gap.
+    - October 8 p3 reports Main Street assessment corrections, payment of balances and a conditional pavement-flusher agreement.
+      October 29 p5 reports intended winter retention of the former Worswick plant and the streets improved.
+    - October 15 pp1 and 5 place a disputed tract at the head of Main by the basin. October 1 and 15 Block 4 transfers
+      explicitly name other additions. No new exact target occupant or building event was established.
+    confidence: High for coverage and direct newspaper wording. The reports leave the basin title dispute unresolved.
+    related_sources:
+    - S-409
+    - S-120
+    - S-121
+    related_evidence:
+    - E-107
+    - E-109
+    - E-373
+    repository_file: evidence/source-captures/1915-enterprise-pages-313-352.md
+  - id: E-375
+    name: W. S. Eddy at Fashion Stable on Main between Fourth and Fifth in October 1915
+    type: Primary newspaper visual evidence
+    claims:
+    - October 8, 15, 22 and 29 p7 place W. S. Eddy, V.S., M.D.V., at Fashion Stable between Fourth and Fifth on Main Street.
+    - April–June 1915 notices place him at Fashion Stable on Fifth between Main and Water. October 1915 predates the later
+      September 1916 and April 1917 observations of the same Main Street locator. The street number is unresolved.
+    confidence: Direct advertised relative locations and strong identity bridge. Exact date and nature of location change unresolved.
+    related_sources:
+    - S-409
+    - S-124
+    - S-128
+    - S-351
+    - S-279
+    related_evidence:
+    - E-112
+    - E-114
+    - E-324
+    - E-252
+    related_businesses:
+    - BUS-103
+    related_people:
+    - P-396
+    repository_file: evidence/source-captures/1915-enterprise-pages-313-352.md
