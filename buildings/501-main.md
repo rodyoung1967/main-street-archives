@@ -29,6 +29,8 @@ Three visually verified pages add earlier business-history context (`E-154`–`E
 
 None prints 501. They do not move the direct numbered anchor earlier than the **4 Oct. 1907 Surber No.501** notice or prove structural continuity.
 
+The 1915 Portland House southeast-corner report matches the 1911 Sanborn's 426 Main site in original Block 27. It provides a separate geographic control for ambiguous Fifth/Main references (`E-371`). See [Portland House site](426-main-portland-house-site.md).
+
 ## Direct 1907 Numbered Occupancy Evidence
 
 **4 October 1907 Courier p3** directly names **A. J. Surber**, retail liquor renewal applicant, at **No.501, Main/Fifth**, his present place of business (`E-121`/`S-135`; `P-055`/`BUS-045`). This is address evidence, not title proof.

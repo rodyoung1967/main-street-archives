@@ -1487,3 +1487,9 @@ Restored and published the final reconciliation for the November 17 audit. The w
 ## November 25, 2026 — Fifth and Main records access
 
 Checked the exact OHS abstract, county deed indexes, historical assessment rolls and City archive routes. The older City direct PDF links for three neighboring-year records returned 404 although archived text was indexed. Updated the existing drafts to target the correct film series and request access information and quotes. No original target record recovered, no outreach, no fee and no change to the 1922 certification. See the [property split access check](../evidence/source-captures/2026-11-25-1922-property-split-records-preflight.md).
+
+## 2026-11-25 — 1915 Enterprise through September
+
+- Original scans for pages 226–312 visually reviewed and preserved. July–August adds 55 and September adds 32.
+- Portland House and public-market geography, Price Brothers incident and Main Street assessment sequence integrated into the relevant records.
+- Annual Enterprise coverage is 312/428. Next October 1 sequence 1. Courier source exceptions remain tracked.

@@ -491,11 +491,12 @@ businesses:
   - id: BUS-028
     name: Price Bros. clothing store
     address: 527 Main (dated 1915 listings through 25 November)
-    notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding
-      week, calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey &
-      Price merger, real-estate ownership, closure or rebuilding claim.
+    notes: Al Price named proprietor in same-issue incident report. Electric-iron incident was Friday night of preceding week,
+      calendar-derived 30 July, not Thursday. Incident-to-527 mapping is a same-issue inference. No Bailey & Price merger, real-estate
+      ownership, closure or rebuilding claim.
     related_people:
     - P-043
+    - P-411
     related_buildings:
     - B-004
     related_evidence:
@@ -503,11 +504,13 @@ businesses:
     - E-109
     - E-116
     - E-119
+    - E-372
     related_sources:
     - S-120
     - S-121
     - S-130
     - S-133
+    - S-407
     repository_file: businesses/price-bros.md
 
   - id: BUS-029
@@ -1507,3 +1510,23 @@ businesses:
     - S-405
     related_evidence:
     - E-368
+
+  - id: BUS-118
+    name: Portland House
+    address: 426 Main as mapped in 1911, southeast Fifth and Main
+    repository_file: businesses/portland-house.md
+    notes: Strong same-site match to the 1915 southeast-corner report. Minnie L. Foster is reported as property owner in 1915
+      and 1916. The Beck lease and later newspaper ownership wording are recorded independently.
+    related_buildings:
+    - B-021
+    related_people:
+    - P-410
+    related_evidence:
+    - E-371
+    - E-318
+    - E-279
+    related_sources:
+    - S-298
+    - S-407
+    - S-345
+    - S-305

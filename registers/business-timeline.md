@@ -397,3 +397,11 @@ December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Mill
 ### December 28, 1922 — neighboring 504 Main grocery
 
 Banner-Courier December 28 p7 directly advertises D. M. Klemsen & Son, staple and fancy groceries, 504 Main Street. Dated neighboring even-side address only; no owner names, deed or physical-building continuity. Do not merge the grocery with BUS-053 (1907 liquor applicant) solely from name. E-368/S-405/BUS-117.
+
+## 1915 Enterprise — Portland House and Price Brothers
+
+| Date | Address | Business | Evidence | Finding |
+| --- | --- | --- | --- | --- |
+| November 1911 | 426 Main, southeast Fifth/Main | Portland House (`BUS-118`) | `SM-010`, `E-371` | Mapped boarding premises. |
+| August 6, 1915, reporting prior Friday | Sixth and Main | Price Brothers (`BUS-028`) | `E-372` | Independent electric-iron report, tailor/presser named. The 527 number comes from the separate Courier directory. |
+| August 13, 1915 | Southeast Fifth/Main | Portland House (`BUS-118`) | `E-371` | Mrs. M. L. Foster described as property owner. The 426 connection is a cross-source site identification. |

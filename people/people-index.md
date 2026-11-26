@@ -259,3 +259,10 @@ December 7 p7, December 14 p2 and December 21 p11 Banner-Courier ads repeat Mill
 ### May 2000 503 Main historic-resource survey
 
 The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+## 1915 Enterprise — Portland House and Price Brothers
+
+| ID | Person | Role | Evidence |
+| --- | --- | --- | --- |
+| P-410 | [Minnie L. Foster](profiles/minnie-l-foster.md) | Reported Portland House property owner | `E-371`, `E-318`; `BUS-118`, `B-021`. |
+| P-411 | Arthur Soesbe | Tailor and presser at Price Brothers | August 6 Enterprise p3, `E-372` / `S-407`; `BUS-028`. |

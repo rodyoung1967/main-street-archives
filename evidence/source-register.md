@@ -3616,3 +3616,17 @@ URL: https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&lo
 Repository file: `records/historic-surveys/503-main-shpo-resource-30537-inventory-form.pdf`.
 Related evidence: E-369. Related building: B-001. Related business: BUS-004. Related people: P-007 and P-008.
 Capture: `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+## S-407 — 1915 Oregon City Enterprise visual review, pages 226-280
+Type: Primary weekly newspaper scans, all visually verified.
+Coverage: July 16 p2–August 27 p8, 55 pages.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-16/ed-1/
+Repository: `newspapers/oregon-city-enterprise/1915-pages-226-280/`. Capture: `evidence/source-captures/1915-enterprise-pages-226-280.md`.
+Evidence: `E-370`, `E-371`, `E-372`. Media: `IMG-0779-IMG-0833`.
+
+## S-408 — 1915 Oregon City Enterprise visual review, pages 281-312
+Type: Primary weekly newspaper scans, all visually verified.
+Coverage: September 3–24, 32 pages.
+URL: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-03/ed-1/
+Repository: `newspapers/oregon-city-enterprise/1915-pages-281-312/`. Capture: `evidence/source-captures/1915-enterprise-pages-281-312.md`.
+Evidence: `E-371`, `E-373`. Media: `IMG-0834-IMG-0865`.

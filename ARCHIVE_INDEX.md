@@ -580,3 +580,7 @@ The June Enterprise audit (`S-281` / `E-254`) includes an 8 June 1917 council re
 ## 1922 online audit
 
 **ONLINE COMPLETE**. All 928 original page images from 104 weekly newspaper issues were visually reviewed. Sixteen manual task groups remain open. The newly retained 503 survey is S-406/E-369. See the [annual closeout](evidence/source-captures/2026-11-17-1922-annual-online-closeout.md) and [completion checklist](registers/1922-online-completion-checklist.md).
+
+## 1915 Enterprise through September
+
+[July–August audit](evidence/source-captures/1915-enterprise-pages-226-280.md) and [September audit](evidence/source-captures/1915-enterprise-pages-281-312.md) document pages 226–312. See [Portland House at historic 426 Main](buildings/426-main-portland-house-site.md) (`B-021`) and the [annual checklist](evidence/source-captures/1915-page-review-checklist.md).

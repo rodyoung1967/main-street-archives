@@ -367,17 +367,31 @@ buildings:
     name: 527 Main Street / Swartz Building
     address: 527 Main Street, Oregon City, Oregon
     repository_file: buildings/527-swartz-building.md
-    notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January 1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference. No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935 structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage remains unresolved. City report notes later entrance alteration.
-    related_businesses: [BUS-028]
-    related_people: [P-043]
-    related_evidence: [E-052, E-053, E-107, E-109, E-116]
+    notes: Present Swartz Building is dated 1935 by City/ODOT inventories. Bailey & Price is documented at 527 on 5 January
+      1912. Price Bros. clothing store is listed at 527 on 5 August 1915 (E-107); the same issue names Al Price and reports
+      a Friday-night electric-iron incident, calendar-derived 30 July. Incident-to-address mapping is a same-issue inference.
+      No Bailey & Price identity/succession, closure, demolition or rebuilding is proven. Both dated occupants predate the 1935
+      structure unless renumbering evidence changes the interpretation. The 1935 building predates the 1967 fire; exact damage
+      remains unresolved. City report notes later entrance alteration.
+    related_businesses:
+    - BUS-028
+    related_people:
+    - P-043
+    related_evidence:
+    - E-052
+    - E-053
+    - E-107
+    - E-109
+    - E-116
+    - E-372
     related_sources:
-      - S-130
-      - S-061
-      - S-062
-      - S-063
-      - S-120
-      - S-121
+    - S-130
+    - S-061
+    - S-062
+    - S-063
+    - S-120
+    - S-121
+    - S-407
 
   - id: B-005
     name: 501 Main Street (historic / removed)
@@ -641,3 +655,23 @@ buildings:
     - S-403
     related_evidence:
     - E-366
+
+  - id: B-021
+    name: Portland House site
+    address: Historic 426 Main, southeast Fifth and Main, original Block 27
+    repository_file: buildings/426-main-portland-house-site.md
+    notes: Sanborn 1911 sheet 16 maps boarding premises. Weekly Enterprise identifies Foster's same-named southeast-corner property
+      in 1915 and reports a recent rebuild in 1916. Physical continuity across the sources is unsettled.
+    related_businesses:
+    - BUS-118
+    related_people:
+    - P-410
+    related_evidence:
+    - E-371
+    - E-318
+    - E-279
+    related_sources:
+    - S-298
+    - S-407
+    - S-345
+    - S-305

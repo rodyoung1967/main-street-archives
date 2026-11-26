@@ -14,3 +14,7 @@ The shared Price name does not prove a relationship with the **Bailey & Price bi
 ## Advertised-location extension through November25
 
 E-109/S-121 visually verifies Price Bros. at 527 on October 28 p 6, November 4 p 6, November 11 p 6, November 18 p 6 and November 25 p 3. These dated listings do not establish repairs, uninterrupted occupancy or a Bailey & Price identity. No new proprietor attribution is made by these ads.
+
+## Enterprise incident corroboration
+
+The August 6, 1915 Enterprise p3 independently places the Price Brothers store at **Sixth and Main** and names employee **Arthur Soesbe**, tailor and presser. It reports a burning tabletop and no building or stock damage. The August 5 Courier describes rear-store boards burning and advertises the store at **527 Main**. The different wording remains preserved. The combined evidence supports the inferred 527 location and July 30 incident date (`E-372` / `S-407`, `T-018`).

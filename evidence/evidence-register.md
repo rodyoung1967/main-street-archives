@@ -3801,3 +3801,42 @@ Claims:
 - Page 2 contains a survey-context photograph of The Wheel frontage and adjacent 505 and a locator map. It supplies no 1922 photographic evidence.
 - Page 3 names Richard and Sheila Wiitanen in the owner field for 503 Main. This records the May 2000 survey snapshot. Acquisition, conveyance and private building completion dates remain unresolved.
 Capture: `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+## E-370 — July–August 1915 Enterprise visual review and Main Street paving
+Type: Primary newspaper visual evidence
+Sources: `S-407`.
+Confidence: High for coverage and published milestones. Projection and reported field work remain distinct.
+Capture: `evidence/source-captures/1915-enterprise-pages-226-280.md`.
+Claims:
+- All 55 scans were visually inspected. July 16 p5 records council approval of Worswick's bonds. July 23 p3 projects July 24 for paving and July 30 p5 records the plant shipment delay and two shifts.
+- August 6 p5 reports equipment arrival and plant setup plans. August 13 p3 reports actual Main Street brick removal for the paving plant at the foot of Twelfth. The newspaper sequence distinguishes contracting, track work, plant setup and paving.
+- All eight August 13 headers show a handwritten day correction, supported by dated content and the archive issue inventory.
+
+## E-371 — Portland House mapped at 426 Main in 1911 and reported at the southeast Fifth/Main corner in 1915
+Type: Primary newspaper and Sanborn map
+Sources: `S-407`, `S-408`, `S-298`, `S-345`, `S-305`.
+Confidence: Direct source wording for each date, strong cross-source inference for the 1915 business at the 1911 mapped site.
+Capture: `evidence/source-captures/1915-enterprise-pages-226-280.md`.
+Claims:
+- Sanborn sheet 16 labels Portland Ho. at the southeast Fifth/Main corner with boarding use, 426 on Main, and 204 on the Fifth side of the mapped premises.
+- August 13 p1 identifies Mrs. M. L. Foster as owner of southeast-corner property and calls it the Portland House. September 3 p1 locates the former market on Fifth between Main and Railroad Avenue and reports its removal and unsuccessful hill relocation.
+- 1916 reporting names Minnie L. Foster as owner, calls the premises recently rebuilt and records the Beck lease. The 1915 newspaper supplies no street number or deed. The building's physical continuity and later title transfer remain open.
+
+## E-372 — Price Brothers electric-iron incident at Sixth and Main
+Type: Primary newspaper visual evidence
+Sources: `S-407`, `S-120`.
+Confidence: Direct report for the intersection and employment. Strong date and numbered-site inference.
+Capture: `evidence/source-captures/1915-enterprise-pages-226-280.md`.
+Claims:
+- August 6 Enterprise p3 describes the Price Bros. store at Sixth and Main and names Arthur Soesbe as an employee. It describes an iron burning into a tabletop and reports no damage to building or stock.
+- The August 5 Courier gives different burned-surface wording and separately advertises Price Bros. at 527 Main. Both reports support July 30 as the incident date by calendar inference. The 527 attribution remains a cross-source inference for the actual incident.
+
+## E-373 — September 1915 Enterprise visual review and Main Street assessment
+Type: Primary newspaper visual evidence
+Sources: `S-408`, `S-120`.
+Confidence: High for visual coverage and newspaper wording. September 24 does not establish formal street-project acceptance.
+Capture: `evidence/source-captures/1915-enterprise-pages-281-312.md`.
+Claims:
+- All 32 scans for September 3, 10, 17 and 24 were visually inspected.
+- September 10 p1 corroborates the Worswick eight-hour-law case and says more than half of the work was complete by the arrest. September 24 p5 records a $14,861.01 Main Street assessment total, first reading, and October 6 protest opportunity.
+- September 17 county expenses list Scripture & May without an address. September 24 p4 discusses the poolroom-minor ordinance without identifying premises. No new exact target occupant or rebuilding event was found.

@@ -1,6 +1,13 @@
 # 1915 Oregon City Newspaper Page-Review Checklist
 
-Status: **IN PROGRESS - Courier visual pass complete; Enterprise paused at 225/428 images; water-ledger target audit complete; other-source work pending**
+Status: **IN PROGRESS — Enterprise 312/428 through September 24; Courier visual pass complete with source exceptions**
+
+## Current Enterprise checkpoint — September 24, 1915
+
+- 87 additional scans visually verified, July 16 sequence 2 to September 24 sequence 8. [July–August batch](1915-enterprise-pages-226-280.md) and [September batch](1915-enterprise-pages-281-312.md).
+- Enterprise September is **32/32** and year-to-date contiguous Enterprise coverage is **312/428**. **Next: October 1 sequence 1, page 313.** 116 images remain.
+- `E-371` ties the Portland House to the southeast Fifth/Main corner with a 1911 mapped 426 Main site. `E-372` corroborates the Price Bros. incident. `E-370` and `E-373` advance paving chronology.
+- Courier M01–M04 remain open, including September 2 pagination. Earlier dated notes below retain their historical checkpoint wording.
 
 ## Water-ledger source-class checkpoint — 28 August 2026
 

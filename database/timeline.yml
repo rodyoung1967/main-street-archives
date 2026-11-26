@@ -246,13 +246,24 @@ timeline:
 
   - id: T-018
     date: 30 July 1915 (calendar-derived; reported 5 August)
-    summary: Courier reports smoke and an electric iron burning rear-store boards at Price Bros. on Friday night of preceding week; current switched off, averting a potentially serious fire. Al Price named proprietor. Same-issue directory lists the business at 527 Main.
-    confidence: High for report wording and directory number; strong same-issue inference for incident-to-527. No closure, rebuilding, title or Bailey & Price identity inferred.
-    related_evidence: [E-107]
-    related_sources: [S-120]
-    related_businesses: [BUS-028]
-    related_people: [P-043]
-    related_buildings: [B-004]
+    summary: The Courier identifies Al Price and lists Price Bros. at 527 Main. Its account describes burning rear-store boards.
+      The August 6 Enterprise places the store at Sixth/Main, names employee Arthur Soesbe and describes a burning tabletop
+      with no reported building or stock damage. July 30 is calendar-derived from the Friday-night reports.
+    confidence: High for report wording and directory number; strong same-issue inference for incident-to-527. No closure, rebuilding,
+      title or Bailey & Price identity inferred.
+    related_evidence:
+    - E-107
+    - E-372
+    related_sources:
+    - S-120
+    - S-407
+    related_businesses:
+    - BUS-028
+    related_people:
+    - P-043
+    - P-411
+    related_buildings:
+    - B-004
 
   - id: T-019
     date: 30 October 1915 (calendar-derived; confirmed 4 November)
@@ -1244,3 +1255,33 @@ timeline:
     - BUS-115
     related_buildings:
     - B-020
+
+  - id: T-117
+    date: '1915-08-13'
+    title: Portland House reported at southeast Fifth and Main
+    summary: The Enterprise identifies M. L. Foster as property owner and links her complaint to public-market sheds. The 1911
+      Sanborn directly labels the Portland House at 426 Main. September 3 reports the market was removed from Fifth between
+      Main and Railroad Avenue.
+    related_businesses:
+    - BUS-118
+    related_buildings:
+    - B-021
+    related_people:
+    - P-410
+    related_evidence:
+    - E-371
+    related_sources:
+    - S-407
+    - S-408
+    - S-298
+  - id: T-118
+    date: '1915-09-24'
+    title: Main Street paving assessment first reading reported
+    summary: The Enterprise reports the $14,861.01 assessment and October 6 protest opportunity. Separate July and August reports
+      detail approval of bonds, plant delays, equipment arrival and old-brick removal.
+    related_evidence:
+    - E-370
+    - E-373
+    related_sources:
+    - S-407
+    - S-408

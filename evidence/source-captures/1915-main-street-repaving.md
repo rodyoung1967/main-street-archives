@@ -220,3 +220,6 @@ The actual Dec. 2 Courier p4 scan was visually inspected in the final December b
 
 Source `S-123` / evidence `E-111` adds three visually verified stages to the paving chronology. **26 March p1** reports a proposal to reuse serviceable bricks removed from Main Street on Singer Hill. **2 April p1** identifies Main Street improvement among the area's major 1915 public works. **9 April p3** records continued council debate over paving material, including El Oso and asphaltic concrete. These items establish street-surface planning/removal context only; they do not establish demolition, rebuilding, or alteration of 501/503/505.
 
+## July–September Enterprise corroboration
+
+`E-370` / `S-407` adds the July 16 bond approval, July 23 projected start, July 30 shipment delay and two-shift arrangement, August 6 first equipment arrival, and August 13 actual lifting of bricks for plant setup near Twelfth Street. `E-373` / `S-408` independently confirms the September 10 report of the eight-hour-law case and September 24 report of the assessment's first reading ($14,861.01) with an October 6 protest date. See [July–August audit](1915-enterprise-pages-226-280.md) and [September audit](1915-enterprise-pages-281-312.md). These entries concern the street surface, tracks, finances and contract.

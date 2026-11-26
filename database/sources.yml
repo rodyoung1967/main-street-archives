@@ -3190,3 +3190,21 @@ sources:
     related_people:
     - P-007
     - P-008
+
+  - id: S-407
+    name: 1915 Oregon City Enterprise visual review, pages 226-280
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-07-16/ed-1/
+    notes: July 16 p2–August 27 p8, 55 pages. Original PDFs visually reviewed on November 25, 2026. Per-scan provenance and
+      SHA-256 hashes are in newspapers/oregon-city-enterprise/1915-pages-226-280/manifest.json.
+    related_evidence:
+    - E-370
+    - E-371
+    - E-372
+  - id: S-408
+    name: 1915 Oregon City Enterprise visual review, pages 281-312
+    url: https://oregonnews.uoregon.edu/lccn/sn00063700/1915-09-03/ed-1/
+    notes: September 3–24, 32 pages. Original PDFs visually reviewed on November 25, 2026. Per-scan provenance and SHA-256 hashes
+      are in newspapers/oregon-city-enterprise/1915-pages-281-312/manifest.json.
+    related_evidence:
+    - E-371
+    - E-373

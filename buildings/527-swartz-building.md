@@ -81,3 +81,7 @@ E-109/S-121 confirms **Price Bros. at527 Main** in five directories, October 28�
 ## 1916 dated neighborhood corroboration
 
 E-116/S-130, [pages 106–180](../evidence/source-captures/1916-courier-pages-106-180.md), verifies March–May advertised addresses Bradley 507, Brightbill 509, Harding 511 and Price 527. These retain their individual historic numbers; no later consolidated-building label, surviving-structure date or ownership transfer is inferred.
+
+## Enterprise corroboration of the July 1915 incident
+
+The August 6, 1915 Enterprise p3 independently places the Price Brothers store at **Sixth and Main** and names employee **Arthur Soesbe**, tailor and presser. It reports a burning tabletop and no building or stock damage. The August 5 Courier describes rear-store boards burning and advertises the store at **527 Main**. The different wording remains preserved. The combined evidence supports the inferred 527 location and July 30 incident date (`E-372` / `S-407`, `T-018`).

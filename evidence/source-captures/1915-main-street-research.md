@@ -185,3 +185,7 @@ Authenticated FamilySearch access recovered and visually verified the complete O
 The strongest direct dated 1915 newspaper evidence remains the later-year neighboring ladder at **507 / 509 / 511**, with additional anchors at 519 and 527. Book 3 now adds municipal period evidence: **503 = Store**, **503½ = Barber Shop**, a likely-vacancy unnumbered row in the expected 505 position, **107 Fifth = Blacksmith**, and **110 Fifth = Stable**. Those ledger rows span 1914–15 and cannot by themselves fix an exact 1915 occupant or month. The Fifth/Main undertaking evidence still does not map automatically to a numbered 501/503/505 storefront, and the June Enterprise Cox article positively removes Cox's raid-period pool hall from the 503 hypothesis.
 
 The exact 1915 tenants of **503 and 505 remain unresolved** as of Enterprise page 225. The 505 vacancy hypothesis is stronger because `V` is now corroborated as a repeated ledger vacancy notation, but the target row remains unnumbered. These statements describe the evidence state only; they are not proof of a specific vacancy interval, demolition, or non-use.
+
+## Enterprise checkpoint through September 24
+
+The [July–August](1915-enterprise-pages-226-280.md) and [September](1915-enterprise-pages-281-312.md) visual audits extend contiguous coverage to **312/428**. The new corner control places the Portland House in the 400 block, and the Price Bros. incident now has independent Sixth/Main corroboration. Next is October 1 sequence 1. Exact 503/505 occupants remain unresolved.

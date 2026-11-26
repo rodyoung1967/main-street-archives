@@ -153,6 +153,16 @@ The 5 August p1 report names **Al Price** and describes smoke and an electric ir
 
 Main repaving reports in the same batch corroborate street work, forecasts and assessment/payment steps; they do not establish target-building replacement. Bannon enlargement remains an unnumbered-location lead; the later Mass opening resolves the Brunswick name/opening subquestions below. The year remains **IN PROGRESS**. This paragraph describes the July–October batch only; later sections below record the completed Courier year-end and partial Enterprise continuation.
 
+The August 6, 1915 Enterprise p3 independently places the Price Brothers store at **Sixth and Main** and names employee **Arthur Soesbe**, tailor and presser. It reports a burning tabletop and no building or stock damage. The August 5 Courier describes rear-store boards burning and advertises the store at **527 Main**. The different wording remains preserved. The combined evidence supports the inferred 527 location and July 30 incident date (`E-372` / `S-407`, `T-018`).
+
+## August–September 1915 — Portland House and public market
+
+August 13 reports that Mrs. M. L. Foster owned the Portland House property on the southeast corner of Fifth and Main. The 1911 Sanborn identifies the mapped boarding establishment at 426 Main, a strong same-site match. September 3 reports removal of the market from Fifth between Main and Railroad Avenue and the failure of the alternate hill site (`E-371`, `T-117`).
+
+## September 24, 1915 — Main Street paving assessment
+
+The Enterprise reports a $14,861.01 assessment and an October 6 protest opportunity. The summer Enterprise coverage records bond approval, plant shipment delay, equipment arrival and brick removal. Details and the September labor case are in [1915 Main Street Repaving](evidence/source-captures/1915-main-street-repaving.md) (`E-370`, `E-373`, `T-118`).
+
 ## October 30, 1915 — Mass's opens in former Brunswick quarters
 
 The October 28 announcement and November 4 retrospective report establish **Mass's Hotel and Restaurant** opening in renovated former Brunswick quarters under ex-Sheriff **E. T. Mass**. October 30 is calendar-derived from Saturday wording. More than200 opening patrons and permanent lodgers are reported. Exact number, parcel, property interest and final renovation cost remain open (`E-109`, `BUS-030`, `P-045`, `T-019`).

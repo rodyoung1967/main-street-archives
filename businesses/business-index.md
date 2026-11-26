@@ -304,3 +304,9 @@ Enterprise December 22 p5 reports a fire at about 1 a.m. last night in Quality R
 ### May 2000 503 Main historic-resource survey
 
 The original three-page May 2000 SHPO form for 503 was recovered and visually reviewed (S-406/E-369). The c.1919 estimate and Wolf chronology remain survey synthesis. The form supplies no exact 1926 newspaper citation. Its owner field names Richard and Sheila Wiitanen as of the survey, with no acquisition date. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+## 1915 Enterprise — Portland House
+
+| ID | Business | Location | Evidence |
+| --- | --- | --- | --- |
+| BUS-118 | [Portland House](portland-house.md) | 426 Main on 1911 Sanborn, southeast Fifth/Main in 1915 reporting | `E-371`, `E-318`, `E-279`; `B-021`, `P-410`. |

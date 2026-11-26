@@ -522,11 +522,18 @@ people:
   - id: P-043
     name: Al Price
     role: Price Bros. proprietor
-    notes: Named in 5 August 1915 p1 incident report; same-issue p3 gives business address 527 Main. No name expansion, Bailey & Price identity or real-estate ownership assumed.
-    related_businesses: [BUS-028]
-    related_buildings: [B-004]
-    related_evidence: [E-107]
-    related_sources: [S-120]
+    notes: Named in 5 August 1915 p1 incident report; same-issue p3 gives business address 527 Main. No name expansion, Bailey
+      & Price identity or real-estate ownership assumed.
+    related_businesses:
+    - BUS-028
+    related_buildings:
+    - B-004
+    related_evidence:
+    - E-107
+    - E-372
+    related_sources:
+    - S-120
+    - S-407
 
   - id: P-044
     name: F. F. Theroux
@@ -1426,3 +1433,28 @@ people:
     - S-402
     related_evidence:
     - E-365
+
+  - id: P-410
+    name: Minnie L. Foster
+    role: Reported Portland House property owner
+    repository_file: people/profiles/minnie-l-foster.md
+    related_businesses:
+    - BUS-118
+    related_buildings:
+    - B-021
+    related_evidence:
+    - E-371
+    - E-318
+    related_sources:
+    - S-407
+    - S-345
+  - id: P-411
+    name: Arthur Soesbe
+    role: Price Brothers employee, tailor and presser
+    notes: Named in the August 6, 1915 Enterprise report of the electric-iron incident at Sixth and Main.
+    related_businesses:
+    - BUS-028
+    related_evidence:
+    - E-372
+    related_sources:
+    - S-407

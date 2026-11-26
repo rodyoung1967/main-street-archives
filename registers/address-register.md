@@ -170,3 +170,9 @@ Fresh visual review confirms **Mrs. J. C. Napier at 512½ Main street** in both 
 | 520–22 Main Street | 28 Nov. 1919 | B. J. Staats Hardware Co.; selling-out advertisement | `E-278` / `S-304`; direct newspaper address. Conflicts with CCHS December photo metadata at 516 Main; no normalization. |
 | Fifth and Main | 19 Dec. 1919 | Portland House; Mr. and Mrs. Beck named owners; frame structure / adjoining frame buildings | `E-279` / `S-305`; no street number, parcel, side or present-building identity; intersection context only. |
 <!-- 1919 November-December annual online closeout — 2026-09-08 -->
+
+## 1915 Enterprise — numbered and intersection controls
+
+- **426 Main** — Sanborn `SM-010` maps the Portland House, with 204 on the Fifth side. The August 13 Enterprise directly identifies Foster's property at the southeast corner, giving a strong same-site match to the earlier map (`E-371`, `B-021`, `BUS-118`).
+- **Fifth between Main and Railroad Avenue** — September 3 p1 identifies the market's former location, without a numbered shed site (`E-371` / `S-408`).
+- **Sixth and Main / 527 Main** — the Enterprise reports the Price Bros. iron incident at the intersection. The same business at 527 is independently advertised in the Courier (`E-372`, `E-107`).

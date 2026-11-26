@@ -402,3 +402,7 @@ OQ-034/RL-048: E-364 supplies Newton + Fifth/Main + Logus estate and occupancy o
 ### 503 survey source gap narrowed
 
 S-406/E-369 supplies the May 2000 individual form. MF-068 remains open for the exact 1926 newspaper citation, supporting worksheets and original notes. The c.1919 estimate, Wolf title chain and exact private construction date remain unresolved. See `evidence/source-captures/2026-11-17-503-survey-form-and-1922-source-class-reconciliation.md`.
+
+### OQ-005 — Portland House geographic control, November 25, 2026
+
+The 1911 Sanborn and 1915 Enterprise place the Portland House site on **the southeast Fifth/Main corner in original Block 27**. The map prints **426 Main**. The 1915 newspaper corroborates the corner and Foster ownership without supplying the number. This removes the 1915 reference as evidence for an occupant at the odd-numbered 500-block corner. `E-371` / `B-021`. The 501 occupant question remains open.

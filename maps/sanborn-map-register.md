@@ -89,7 +89,7 @@ This register records Sanborn map sheets committed for the Main Street Archive. 
 - Coverage: Downtown Oregon City Fifth/Main target frontage including the later 501/503/505 area.
 - Use: Controlling 1911 fire-insurance-map baseline for comparing the predecessor frontage with 1925 Sheet 6. Visual comparison shows changed storefront/footprint geometry by 1925; it does not date each demolition/rebuild or map the later Gates/Wolf property line.
 - Correction: `SM-007` / `S-020` Sheet 22 is Canemah and remains a geographic-control sheet only.
-- Related evidence: `E-272`.
+- Related evidence: `E-272`, `E-371`. Southeast Fifth/Main shows the Portland House boarding premises with 426 on Main and 204 on the Fifth side. See [historic site record](../buildings/426-main-portland-house-site.md).
 - Archive status: `committed` — binary PDF already preserved; this integration corrects the missing register/source metadata.
 
 ## SM-008 — 1925 Sanborn, 5th Area
